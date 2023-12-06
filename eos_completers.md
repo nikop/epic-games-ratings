@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.61% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.59% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -47,7 +47,7 @@
 | 45 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.91% |
 | 46 | [Smelter](games/s/smelter.md) | 9.52% |
 | 47 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 48 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
+| 48 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.00% |
 | 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.57% |
 | 50 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.49% |
 | 51 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 8.33% |
@@ -121,7 +121,7 @@
 | 119 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.50% |
 | 119 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.50% |
 | 119 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.43% |
+| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.44% |
 | 123 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 124 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.40% |
 | 125 | [Dungeons 4](games/d/dungeons_4.md) | 2.26% |
@@ -276,12 +276,12 @@
 | 274 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.15% |
 | 274 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 274 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 277 | [GRIME](games/g/grime.md) | 0.14% |
-| 278 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
-| 278 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.13% |
-| 278 | [BLACKTAIL](games/b/blacktail.md) | 0.13% |
-| 278 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
-| 278 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 277 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
+| 277 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.13% |
+| 277 | [BLACKTAIL](games/b/blacktail.md) | 0.13% |
+| 277 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
+| 277 | [GRIME](games/g/grime.md) | 0.13% |
+| 277 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 283 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 283 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.12% |
 | 285 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
@@ -292,18 +292,18 @@
 | 290 | [Black Book](games/b/black_book.md) | 0.10% |
 | 290 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.10% |
 | 290 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 290 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.10% |
 | 290 | [Supraland](games/s/supraland.md) | 0.10% |
-| 294 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 294 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.09% |
-| 294 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.09% |
-| 294 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.09% |
-| 294 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.09% |
-| 294 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 294 | [Port Royale 4](games/p/port_royale_4.md) | 0.09% |
-| 294 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 294 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.09% |
-| 294 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 294 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 295 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 295 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.09% |
+| 295 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.09% |
+| 295 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.09% |
+| 295 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 295 | [Port Royale 4](games/p/port_royale_4.md) | 0.09% |
+| 295 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 295 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.09% |
+| 295 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 295 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 305 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.08% |
 | 305 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.08% |
 | 305 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.08% |
@@ -336,17 +336,17 @@
 | 332 | [Old World](games/o/old_world.md) | 0.03% |
 | 332 | [Saturnalia](games/s/saturnalia.md) | 0.03% |
 | 332 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
+| 332 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.03% |
 | 332 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
-| 338 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 338 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
-| 338 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
-| 338 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
-| 338 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 338 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
-| 338 | [Good Company](games/g/good_company.md) | 0.02% |
-| 338 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 338 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 338 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.02% |
+| 339 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
+| 339 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
+| 339 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
+| 339 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
+| 339 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 339 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
+| 339 | [Good Company](games/g/good_company.md) | 0.02% |
+| 339 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 339 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 348 | [Battlefield™ 2042](games/b/battlefield™_2042.md) | 0.01% |
 | 348 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 348 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
