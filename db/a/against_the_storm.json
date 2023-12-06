@@ -6,7 +6,7 @@
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 3669,
   "Store": {
@@ -3291,18 +3291,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 3242,
       "NumberOfAwardsMax": 441
+    },
+    {
+      "Time": "2023-12-06T14:58:47.8686876+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3243,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3242,
-  "NumberOfAwardsMax": 441,
+  "NumberOfAwards": 3243,
+  "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 441
+      "Count": 442
     },
     {
       "Text": "This game is Relaxing",
@@ -3361,7 +3367,7 @@
   ],
   "EOS_Progressed": 17630,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -15126,9 +15132,9 @@
       "ID": "WinOnCursed",
       "SetID": "cfbk359",
       "Name": "Cursed Lands",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinOnMarshlands",
@@ -15333,9 +15339,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-04T17:58:07.9409357+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:04:28.1077844+00:00",
+  "LastChanged": "2023-12-06T14:58:47.8686874+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:03:25.6621727+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:00:04.4665616+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:04:28.1078612+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:58:47.8686878+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:03:25.6623064+00:00"
 }

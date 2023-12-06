@@ -4,11 +4,11 @@
   "ProductSlug": "wolfenstein-the-new-order",
   "Ranking_Rating": 448,
   "Ranking_Popularity": 26,
-  "Ranking_PopularitySum": 62,
+  "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 785,
-  "Ranking_EOS_Completed": 369,
+  "Ranking_EOS_Completed": 370,
   "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-15T16:00:00+00:00",
     "PcReleaseDate": "2014-05-20T15:00:00+00:00",
@@ -3757,10 +3757,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 17365,
       "NumberOfAwardsMax": 14631
+    },
+    {
+      "Time": "2023-12-06T14:58:39.2331529+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 17366,
+      "NumberOfAwardsMax": 14631
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17365,
+  "NumberOfAwards": 17366,
   "NumberOfAwardsMax": 14631,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3804,7 +3810,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 370
+      "Count": 371
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3836,8 +3842,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:17.2471647+00:00",
-  "LastChanged": "2023-12-06T06:58:26.9068932+00:00",
+  "LastChanged": "2023-12-06T14:58:39.2331527+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.2754229+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:59:51.0505549+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:08:19.4278972+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:58:39.2331531+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:06:11.0984329+00:00"
 }

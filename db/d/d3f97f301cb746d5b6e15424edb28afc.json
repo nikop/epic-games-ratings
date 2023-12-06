@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 256,
-  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3018,9 +3018,9 @@
       "ID": "GSS_ACH_12_RACE_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "RC Car Racer!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 567
     },
     {
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
@@ -3210,9 +3210,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 787
+      "UsersEstimate": 799
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -3587,8 +3587,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-04T17:00:39.9868842+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:04:43.8759482+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:03:36.4825771+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:02:09.864776+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:04:43.8760524+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:00:10.9620804+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:03:36.4826757+00:00"
 }

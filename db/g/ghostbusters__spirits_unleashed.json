@@ -6,9 +6,9 @@
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3645,9 +3645,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31987,
+  "EOS_Progressed": 31988,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21520,6 +21520,11 @@
       "Time": "2023-12-06T14:09:08.6768953+00:00",
       "NumProgressed": 31987,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-06T15:08:15.2628344+00:00",
+      "NumProgressed": 31988,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21571,7 +21576,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "Collect_Spores",
@@ -21595,7 +21600,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "Daily_Dose",
@@ -21891,7 +21896,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "Tobins_Prodigy",
@@ -21915,7 +21920,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "Welcome_Crew",
@@ -21931,14 +21936,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31987,
+      "Progressed": 31988,
       "Completed": 69
     }
   ],
@@ -21946,8 +21951,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-06T02:22:35.4267258+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:09:08.6768946+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:08:15.2628339+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.1930733+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:59:56.3600804+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:09:08.6770151+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:58:42.6423912+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:08:15.2629268+00:00"
 }

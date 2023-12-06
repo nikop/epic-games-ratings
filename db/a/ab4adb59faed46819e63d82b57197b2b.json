@@ -3,9 +3,9 @@
   "Name": "The Crackpet Show: Happy Tree Friends Edition",
   "ProductSlug": "the-crackpet-show-0bf5c4",
   "Ranking_EOS_Progress": 579,
-  "Ranking_EOS_Completed": 369,
+  "Ranking_EOS_Completed": 370,
   "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-27T15:00:00+00:00",
     "PcReleaseDate": "2023-09-27T15:00:00+00:00",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:08:16.8231878+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:06:09.3646483+00:00",
   "LastUpdate_AppInfo": "2023-12-01T01:54:01.0511956+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:00:41.7935567+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:08:16.8232594+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:59:12.011461+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:06:09.3647098+00:00"
 }

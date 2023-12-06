@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 66,
-  "Ranking_EOS_Completed": 337,
+  "Ranking_EOS_Completed": 338,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236750,
+  "EOS_Progressed": 236752,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24492,6 +24492,11 @@
       "Time": "2023-12-06T14:08:24.1751589+00:00",
       "NumProgressed": 236750,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-06T15:06:14.4775141+00:00",
+      "NumProgressed": 236752,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -24519,7 +24524,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66290
+      "UsersEstimate": 66291
     },
     {
       "ID": "CENTAUR",
@@ -24535,7 +24540,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26042
+      "UsersEstimate": 26043
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -24543,7 +24548,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16572
+      "UsersEstimate": 16573
     },
     {
       "ID": "DRAGOON",
@@ -24583,7 +24588,7 @@
       "Name": "GILA",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7102
+      "UsersEstimate": 7103
     },
     {
       "ID": "GT9STRADALE",
@@ -24671,7 +24676,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16572
+      "UsersEstimate": 16573
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -24735,7 +24740,7 @@
       "Name": "TACTICIAN",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "TAKATORA",
@@ -24774,15 +24779,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236750,
+      "Progressed": 236752,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:08:24.1751582+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:06:14.4775138+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:57.5074275+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:59:50.0826853+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:08:24.1753841+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:58:38.6075272+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:06:14.4776165+00:00"
 }

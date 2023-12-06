@@ -3,9 +3,9 @@
   "Name": "Nihilsearch",
   "ProductSlug": "search-de9485",
   "Ranking_EOS_Progress": 785,
-  "Ranking_EOS_Completed": 369,
+  "Ranking_EOS_Completed": 370,
   "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-01T10:00:00+00:00",
     "PcReleaseDate": "2022-08-29T10:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-02T03:57:03.8610511+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:57:34.8700274+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:05:18.7845474+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:57:08.0629318+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:04:01.2424217+00:00"
 }

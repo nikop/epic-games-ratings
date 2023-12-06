@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -2263,9 +2263,9 @@
       "ID": "completedStory_legacy",
       "SetID": "95dc8p",
       "Name": "Another Tale to Tell",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "completedStory_monarchs",
@@ -2471,8 +2471,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:10:58.1795426+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:09:34.7401104+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.7657471+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:58:51.7567163+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:10:58.179585+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:57:59.0854658+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:09:34.7401504+00:00"
 }

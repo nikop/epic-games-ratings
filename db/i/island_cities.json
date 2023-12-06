@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 834,
   "EOS_Completed": 137,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 16.43,
   "EosHistory": [
@@ -3659,9 +3659,9 @@
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 183
     },
     {
       "ID": "LEVEL_015",
@@ -3740,8 +3740,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:05:46.9493012+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:04:21.3420552+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:28.3686171+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:01:23.5698384+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:05:46.9493295+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:59:40.0911589+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:04:21.3420851+00:00"
 }

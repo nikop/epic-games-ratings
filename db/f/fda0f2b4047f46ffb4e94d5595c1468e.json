@@ -6,9 +6,9 @@
   "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 369,
+  "Ranking_EOS_Completed": 370,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3361,10 +3361,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 5468,
       "NumberOfAwardsMax": 1684
+    },
+    {
+      "Time": "2023-12-06T15:02:56.5549277+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 5471,
+      "NumberOfAwardsMax": 1684
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5468,
+  "NumberOfAwards": 5471,
   "NumberOfAwardsMax": 1684,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3408,7 +3414,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 379
+      "Count": 382
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3443,7 +3449,7 @@
   ],
   "EOS_Progressed": 9531,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11034,9 +11040,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-12-06T11:03:20.8541892+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:06:06.8543684+00:00",
+  "LastChanged": "2023-12-06T15:02:56.5549275+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:04:35.5201718+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:13.7403672+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:03:45.1198592+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:06:06.8544446+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:02:56.5549281+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:04:35.5202272+00:00"
 }

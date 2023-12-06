@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 36.00% | ~130 |
+| Adept | 37.00% | ~134 |
 | Double Kill | 26.00% | ~94 |
 | Critical Hit | 15.00% | ~54 |
 | Veteran | 13.00% | ~47 |
@@ -62,7 +62,7 @@ Number of Ratings: 292  (23.09.2022)
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 361 (Ranked 337)  
-Completed: 0 (0.00%) (Ranked 369)  
+Completed: 0 (0.00%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

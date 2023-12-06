@@ -3,9 +3,9 @@
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_Completed": 370,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2357,
+  "EOS_Progressed": 2358,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5737,6 +5737,11 @@
       "Time": "2023-12-06T11:10:31.5455835+00:00",
       "NumProgressed": 2357,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T15:09:35.4171454+00:00",
+      "NumProgressed": 2358,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5757,7 +5762,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5837,7 +5842,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5957,7 +5962,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6037,7 +6042,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6053,7 +6058,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -6077,7 +6082,7 @@
       "Name": "In Search of Perfection",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -6140,14 +6145,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2357,
+      "Progressed": 2358,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:10:59.0642954+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:09:35.4171449+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:07.5482593+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:00:02.6969105+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:10:59.0643525+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:58:46.7024945+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:09:35.4172016+00:00"
 }

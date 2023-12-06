@@ -6,9 +6,9 @@
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -727,7 +727,7 @@
   ],
   "EOS_Progressed": 2148,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -6808,9 +6808,9 @@
       "ID": "achievement_24",
       "SetID": "222fo9l",
       "Name": "Eviscerator",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 430
     },
     {
       "ID": "achievement_25",
@@ -7065,8 +7065,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-26T22:02:06.8733907+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:09:50.7384944+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:08:45.3090033+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.9880376+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:58:35.8664342+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:09:50.738547+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:57:48.5092851+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:08:45.309062+00:00"
 }

@@ -32,7 +32,7 @@
 | No time to waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 45 (Ranked 511)  
-Completed: 0 (0.00%) (Ranked 369)  
+Completed: 0 (0.00%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

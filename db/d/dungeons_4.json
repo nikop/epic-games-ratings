@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 530,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.26,
   "EosHistory": [
@@ -1495,9 +1495,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 366
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -1894,8 +1894,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:09:41.3412595+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:08:38.5822278+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:03:08.9517662+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:09:41.3413332+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:00:23.1199171+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:08:38.5822702+00:00"
 }

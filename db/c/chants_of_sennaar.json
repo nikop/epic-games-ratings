@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 885,
+  "EOS_Progressed": 886,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 5.76,
   "EosHistory": [
@@ -3570,6 +3570,11 @@
       "Time": "2023-12-06T13:10:58.5296389+00:00",
       "NumProgressed": 885,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-06T15:04:27.374362+00:00",
+      "NumProgressed": 886,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 25,
@@ -3629,7 +3634,7 @@
       "Name": "Open door",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3733,7 +3738,7 @@
       "Name": "Scholar",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "PROGRESS_N1",
@@ -3749,7 +3754,7 @@
       "Name": "The great escape",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "PROGRESS_N3",
@@ -3780,14 +3785,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 885,
+      "Progressed": 886,
       "Completed": 51
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:05:55.4378093+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:04:27.3743614+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:59:03.4043805+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:05:55.4378377+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:58:07.6521231+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:04:27.3743932+00:00"
 }

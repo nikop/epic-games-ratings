@@ -9,14 +9,14 @@
 | Beam me up | 62.00% | ~53 |
 | Rock Bottom | 58.00% | ~49 |
 | Uncaged | 20.00% | ~17 |
-| The end is nigh! | 14.00% | ~12 |
-| Get Together | 14.00% | ~12 |
+| The end is nigh! | 15.00% | ~13 |
+| Get Together | 15.00% | ~13 |
 | Wait for me! | 8.00% | ~7 |
 | Leave no stone unturned | 4.00% | ~3 |
-| The best of both worlds | 0.00% | ~0 |
+| The best of both worlds | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 85 (Ranked 457)  
-Completed: 0 (0.00%) (Ranked 369)  
+Completed: 1 (1.18%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -54,6 +54,7 @@ Completed: 0 (0.00%) (Ranked 369)
 | 2023-11-05 | 82 | 0 |
 | 2023-11-19 | 83 | 0 |
 | 2023-11-25 | 85 | 0 |
+| 2023-12-06 | 85 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

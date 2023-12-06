@@ -8,11 +8,11 @@
 | The Teleprobe | 47.00% | ~245 |
 | The City | 43.00% | ~224 |
 | The field base | 39.00% | ~203 |
-| Survivors | 32.00% | ~167 |
+| Survivors | 33.00% | ~172 |
 | The Condor | 30.00% | ~156 |
 | The End | 30.00% | ~156 |
 | The Alliance | 25.00% | ~130 |
-| The Necroevolution | 23.00% | ~120 |
+| The Necroevolution | 24.00% | ~125 |
 | Krauta is alive | 22.00% | ~115 |
 | Peacemaker | 21.00% | ~109 |
 | Volcanologist | 20.00% | ~104 |
@@ -35,7 +35,7 @@
 | No more mistakes | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 521 (Ranked 312)  
-Completed: 0 (0.00%) (Ranked 369)  
+Completed: 0 (0.00%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

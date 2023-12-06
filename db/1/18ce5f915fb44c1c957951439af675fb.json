@@ -3,9 +3,9 @@
   "Name": "dHexUs",
   "ProductSlug": "dhexus-904371",
   "Ranking_EOS_Progress": 785,
-  "Ranking_EOS_Completed": 369,
+  "Ranking_EOS_Completed": 370,
   "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-30T19:57:08.3313163+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:02:13.9344538+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:05:00.4098102+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:00:13.6641153+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:03:48.199029+00:00"
 }

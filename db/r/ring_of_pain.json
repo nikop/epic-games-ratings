@@ -6,9 +6,9 @@
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 64,
-  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3556,9 +3556,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240692,
+  "EOS_Progressed": 240693,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -27281,6 +27281,11 @@
       "Time": "2023-12-06T14:11:03.2766873+00:00",
       "NumProgressed": 240692,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-06T15:09:39.2152183+00:00",
+      "NumProgressed": 240693,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -27586,9 +27591,9 @@
       "ID": "HAVE2000SOULS",
       "SetID": "5l8oe0h",
       "Name": "Soul Stash",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 481
     },
     {
       "ID": "HEAL50POTION",
@@ -28395,13 +28400,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240692,
+      "Progressed": 240693,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2172,
+      "Progressed": 2173,
       "Completed": 395
     }
   ],
@@ -28409,8 +28414,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-05T21:59:57.9209053+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:11:03.2766866+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:09:39.2152178+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:03:07.5710063+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:11:03.2769786+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:00:22.1002757+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:09:39.2154722+00:00"
 }

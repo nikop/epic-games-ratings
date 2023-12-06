@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
     "PcReleaseDate": "2022-04-18T04:00:00+00:00",
@@ -1795,7 +1795,7 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 80111,
+  "EOS_Progressed": 80112,
   "EOS_Completed": 2198,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
@@ -10365,6 +10365,11 @@
       "Time": "2023-12-06T14:04:26.0869597+00:00",
       "NumProgressed": 80111,
       "NumCompleted": 2198
+    },
+    {
+      "Time": "2023-12-06T15:03:24.1413499+00:00",
+      "NumProgressed": 80112,
+      "NumCompleted": 2198
     }
   ],
   "TotalAchievements": 46,
@@ -10384,7 +10389,7 @@
       "Name": "Hopes and Dreams",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 65691
+      "UsersEstimate": 65692
     },
     {
       "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
@@ -10392,7 +10397,7 @@
       "Name": "The Pirate\u0027s Way",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 59282
+      "UsersEstimate": 59283
     },
     {
       "ID": "003_TROPHY_MISSION_DARK_ELF",
@@ -10400,7 +10405,7 @@
       "Name": "The King of the Dark Elves",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 54475
+      "UsersEstimate": 54476
     },
     {
       "ID": "004_TROPHY_MISSION_NATURAL_DISTORTION",
@@ -10408,7 +10413,7 @@
       "Name": "Distortion\u0027s Progeny",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 50470
+      "UsersEstimate": 50471
     },
     {
       "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
@@ -10416,7 +10421,7 @@
       "Name": "A Landscape of Memory",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 46464
+      "UsersEstimate": 46465
     },
     {
       "ID": "006_TROPHY_MISSION_WIND_MEMORIES",
@@ -10432,7 +10437,7 @@
       "Name": "Vague Remembrances",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 39254
+      "UsersEstimate": 39255
     },
     {
       "ID": "008_TROPHY_MISSION_FIRE_MEMORIES",
@@ -10440,7 +10445,7 @@
       "Name": "The Fire\u0027s Light",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37652
+      "UsersEstimate": 37653
     },
     {
       "ID": "009_TROPHY_MISSION_PAST_PHANTOM",
@@ -10448,7 +10453,7 @@
       "Name": "Phantom Memories",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37652
+      "UsersEstimate": 37653
     },
     {
       "ID": "010_TROPHY_MISSION_EARTH_MEMORIES",
@@ -10472,7 +10477,7 @@
       "Name": "The Water\u0027s Light",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 32044
+      "UsersEstimate": 32045
     },
     {
       "ID": "013_TROPHY_MISSION_PAST_SCHEME",
@@ -10480,7 +10485,7 @@
       "Name": "Malice Takes Root",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 30442
+      "UsersEstimate": 30443
     },
     {
       "ID": "014_TROPHY_MISSION_REMEMBERING_HOME",
@@ -10512,7 +10517,7 @@
       "Name": "Origin of True Chaos",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 16823
+      "UsersEstimate": 16824
     },
     {
       "ID": "018_TROPHY_CLEAR_LEVEL200_ON_CHAOS",
@@ -10528,7 +10533,7 @@
       "Name": "Memories of the Distant Past",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 52873
+      "UsersEstimate": 52874
     },
     {
       "ID": "020_TROPHY_COMPLETE_SUB_MISSION",
@@ -10544,7 +10549,7 @@
       "Name": "Manifestation of the Soul",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 77708
+      "UsersEstimate": 77709
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -10552,7 +10557,7 @@
       "Name": "Imbued Memories",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37652
+      "UsersEstimate": 37653
     },
     {
       "ID": "023_TROPHY_DEFEAT_USAB",
@@ -10560,7 +10565,7 @@
       "Name": "No Escape",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 68895
+      "UsersEstimate": 68896
     },
     {
       "ID": "024_TROPHY_DEFEAT_UTON",
@@ -10576,7 +10581,7 @@
       "Name": "Seeker of Power",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 68094
+      "UsersEstimate": 68095
     },
     {
       "ID": "026_TROPHY_FIRST_ANIMA_CRYSTAL",
@@ -10592,7 +10597,7 @@
       "Name": "Artifact Collector",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 17624
+      "UsersEstimate": 17625
     },
     {
       "ID": "028_TROPHY_USE_JOB_CREST",
@@ -10608,7 +10613,7 @@
       "Name": "True Potential",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 17624
+      "UsersEstimate": 17625
     },
     {
       "ID": "030_TROPHY_UNLOCK_ALL_JOB_BONUS",
@@ -10616,7 +10621,7 @@
       "Name": "Polymath",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 17624
+      "UsersEstimate": 17625
     },
     {
       "ID": "031_TROPHY_COMPLETE_JOB_TREE",
@@ -10648,7 +10653,7 @@
       "Name": "Dark Crystal, Warrior\u0027s Heart",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 56879
+      "UsersEstimate": 56880
     },
     {
       "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
@@ -10728,7 +10733,7 @@
       "Name": "Path of the Sage",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 32044
+      "UsersEstimate": 32045
     },
     {
       "ID": "045_TROPHY_UNLOCKED_CYCLIC_WARRIOR",
@@ -10743,15 +10748,15 @@
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 80111,
+      "Progressed": 80112,
       "Completed": 2198
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-12-03T14:57:44.1467972+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:04:26.0869591+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:03:24.1413494+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:14.8259189+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:00:45.0168149+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:04:26.0870147+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:59:14.1432283+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:03:24.1414161+00:00"
 }

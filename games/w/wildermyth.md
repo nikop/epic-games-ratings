@@ -24,8 +24,8 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 0.90% | ~14 |
 | Pyrrhic Victory | 0.90% | ~14 |
 | Turncoat | 0.80% | ~12 |
+| Another Tale to Tell | 0.70% | ~11 |
 | A Story of Heroes | 0.70% | ~11 |
-| Another Tale to Tell | 0.60% | ~9 |
 | Empty the Caves | 0.50% | ~8 |
 | Legends Never Die | 0.50% | ~8 |
 | Chain Reaction | 0.50% | ~8 |
@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,506 (Ranked 243)  
-Completed: 6 (0.40%) (Ranked 222)  
+Completed: 6 (0.40%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

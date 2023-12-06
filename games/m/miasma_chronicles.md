@@ -26,8 +26,8 @@ Rating: 4.44 (Ranked 677)
 | Ganglord | 36.00% | ~575 |
 | Jarhead | 36.00% | ~575 |
 | Infiltrator | 35.00% | ~559 |
+| Pushing Daisy | 34.00% | ~543 |
 | Experienced | 33.00% | ~527 |
-| Pushing Daisy | 33.00% | ~527 |
 | Hold The Line | 32.00% | ~511 |
 | Endgame | 28.00% | ~447 |
 | Savior | 28.00% | ~447 |
@@ -58,7 +58,7 @@ Rating: 4.44 (Ranked 677)
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,596 (Ranked 239)  
-Completed: 0 (0.00%) (Ranked 369)  
+Completed: 0 (0.00%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

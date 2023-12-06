@@ -3,9 +3,9 @@
   "Name": "Crash Drive 3",
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -745,9 +745,9 @@
       "ID": "FIND_THE_GAP",
       "SetID": "20koof9",
       "Name": "First Come, First Serve",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 87
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -809,9 +809,9 @@
       "ID": "HIT_10_PLAYERS",
       "SetID": "20koof9",
       "Name": "Anger Issues",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -897,9 +897,9 @@
       "ID": "LOADED_LVL_FOREST",
       "SetID": "20koof9",
       "Name": "A Forest Walk",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 119
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -921,9 +921,9 @@
       "ID": "MAX_MULTIPLIER",
       "SetID": "20koof9",
       "Name": "Multiply that!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 107
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -993,9 +993,9 @@
       "ID": "USE_TUNNEL",
       "SetID": "20koof9",
       "Name": "I see the light!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 91
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -1082,8 +1082,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:05:24.5050008+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:04:05.2986699+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:13.2224849+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:00:26.5557102+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:05:24.5050383+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:59:02.0251826+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:04:05.2987058+00:00"
 }

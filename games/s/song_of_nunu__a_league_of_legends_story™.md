@@ -38,7 +38,7 @@
 | Snowy Poro | 32.00% | ~347 |
 | Never Gets Old | 32.00% | ~347 |
 | Vertical Power | 27.00% | ~292 |
-| One From The Heart | 14.00% | ~152 |
+| One From The Heart | 15.00% | ~162 |
 | Yummy | 10.00% | ~108 |
 | Snowball Fightn't | 10.00% | ~108 |
 | It Was Him | 8.00% | ~87 |
@@ -50,7 +50,7 @@
 | Sneaky Notai | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,083 (Ranked 261)  
-Completed: 8 (0.74%) (Ranked 186)  
+Completed: 8 (0.74%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

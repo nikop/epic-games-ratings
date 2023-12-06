@@ -22,11 +22,11 @@
 | A new way | 11.00% | ~11 |
 | A Slice of Life | 11.00% | ~11 |
 | Debut | 11.00% | ~11 |
+| First steps | 11.00% | ~11 |
 | The art of movement | 11.00% | ~11 |
 | True Reflection | 11.00% | ~11 |
-| First steps | 10.00% | ~10 |
+| Breaking free | 10.00% | ~10 |
 | Another perspective | 9.00% | ~9 |
-| Breaking free | 9.00% | ~9 |
 | Sound Bite | 9.00% | ~9 |
 | Lights! Camera! Action! | 9.00% | ~9 |
 | Heavy Burden | 8.00% | ~8 |
@@ -45,8 +45,8 @@
 | The Big Picture | 2.00% | ~2 |
 | Dark correspondence | 2.00% | ~2 |
 | Full Scoop | 2.00% | ~2 |
+| Preferred Parent | 2.00% | ~2 |
 | In One Take | 1.00% | ~1 |
-| Preferred Parent | 1.00% | ~1 |
 | The Tree and the Apple | 1.00% | ~1 |
 | Sword of the Serpent | 1.00% | ~1 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
@@ -58,7 +58,7 @@
 | Rocket Science | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 104 (Ranked 436)  
-Completed: 0 (0.00%) (Ranked 369)  
+Completed: 0 (0.00%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

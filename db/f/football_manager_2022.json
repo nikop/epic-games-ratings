@@ -6,9 +6,9 @@
   "Ranking_Popularity": 59,
   "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 39,
-  "Ranking_EOS_Completed": 369,
+  "Ranking_EOS_Completed": 370,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -8666,9 +8666,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477237,
+  "EOS_Progressed": 477238,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31926,6 +31926,11 @@
       "Time": "2023-12-06T14:05:16.7535867+00:00",
       "NumProgressed": 477237,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-06T15:03:59.7931824+00:00",
+      "NumProgressed": 477238,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -32121,7 +32126,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238618
+      "UsersEstimate": 238619
     },
     {
       "ID": "achievement_club_world_cup",
@@ -32225,7 +32230,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 133626
+      "UsersEstimate": 133627
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -32233,7 +32238,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 95447
+      "UsersEstimate": 95448
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -32257,7 +32262,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 195667
+      "UsersEstimate": 195668
     },
     {
       "ID": "achievement_head_to_head",
@@ -32281,7 +32286,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 147943
+      "UsersEstimate": 147944
     },
     {
       "ID": "achievement_impervious",
@@ -32377,7 +32382,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 95447
+      "UsersEstimate": 95448
     },
     {
       "ID": "achievement_pick_feeder",
@@ -32489,7 +32494,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238618
+      "UsersEstimate": 238619
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -32521,7 +32526,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 119309
+      "UsersEstimate": 119310
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -32561,7 +32566,7 @@
       "Name": "Trophy Hoarder",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19089
+      "UsersEstimate": 19090
     },
     {
       "ID": "achievement_won_a_match",
@@ -32569,7 +32574,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238618
+      "UsersEstimate": 238619
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -32625,7 +32630,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 57268
+      "UsersEstimate": 57269
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -32633,7 +32638,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 147943
+      "UsersEstimate": 147944
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -32720,15 +32725,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477237,
+      "Progressed": 477238,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-06T13:57:38.3767766+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:05:16.753586+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:03:59.7931819+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.7278708+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:57:38.3767773+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:05:16.7537485+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:57:10.5711092+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:03:59.7933801+00:00"
 }

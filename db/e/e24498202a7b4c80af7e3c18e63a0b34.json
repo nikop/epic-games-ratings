@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7186,
+  "EOS_Progressed": 7187,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -6704,6 +6704,11 @@
       "Time": "2023-12-06T13:10:04.2815157+00:00",
       "NumProgressed": 7186,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-06T15:03:45.2603275+00:00",
+      "NumProgressed": 7187,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -6716,7 +6721,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6252
+      "UsersEstimate": 6253
     },
     {
       "ID": "achievement_01_02",
@@ -6732,7 +6737,7 @@
       "Name": "Brand New Ride",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4671
+      "UsersEstimate": 4672
     },
     {
       "ID": "achievement_01_04",
@@ -6748,7 +6753,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3521
+      "UsersEstimate": 3522
     },
     {
       "ID": "achievement_01_06",
@@ -6764,7 +6769,7 @@
       "Name": "Car Workshop",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "achievement_01_08",
@@ -6788,7 +6793,7 @@
       "Name": "Beat the Clock",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 3952
+      "UsersEstimate": 3953
     },
     {
       "ID": "achievement_02_01",
@@ -6844,7 +6849,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3521
+      "UsersEstimate": 3522
     },
     {
       "ID": "achievement_02_08",
@@ -6868,7 +6873,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "achievement_03_03",
@@ -6956,7 +6961,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3449
+      "UsersEstimate": 3450
     },
     {
       "ID": "achievement_04_03",
@@ -6972,7 +6977,7 @@
       "Name": "Flawless Racer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "achievement_04_05",
@@ -6980,7 +6985,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "achievement_04_06",
@@ -7004,7 +7009,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6180
+      "UsersEstimate": 6181
     },
     {
       "ID": "achievement_04_09",
@@ -7019,7 +7024,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7186,
+      "Progressed": 7187,
       "Completed": 42
     }
   ],
@@ -7027,8 +7032,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-30T01:44:39.305196+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:04:56.015515+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:03:45.2603271+00:00",
   "LastUpdate_AppInfo": "2023-11-30T21:57:11.9207568+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:03:17.305617+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:04:56.0155733+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:02:38.3416422+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:03:45.2603715+00:00"
 }

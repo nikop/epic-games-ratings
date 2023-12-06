@@ -36,6 +36,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 0.20% | ~35 |
 | Statue of the Forefathers | 0.20% | ~35 |
 | Corrosive Torrent | 0.20% | ~35 |
+| Cursed Lands | 0.20% | ~35 |
 | A Real Challenge | 0.20% | ~35 |
 | Trade Baron | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |
@@ -54,7 +55,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 0.10% | ~18 |
 | Flooded Mines | 0.10% | ~18 |
 | Forsaken Gods Temple | 0.10% | ~18 |
-| Cursed Lands | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
 | The Queen's Chosen | 0.10% | ~18 |
 | Blood Flower Farmer | 0.10% | ~18 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,630 (Ranked 146)  
-Completed: 48 (0.27%) (Ranked 247)  
+Completed: 48 (0.27%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -298,12 +298,12 @@ Completed: 48 (0.27%) (Ranked 247)
 | 2023-12-05 | 17,618 | 49 |
 | 2023-12-06 | 17,630 | 49 |
 ## Awards
-Max (Quickly Understood Controls): 441  (Ranked 223)  
-Sum: 3,242 (Ranked 173)  
+Max (Quickly Understood Controls): 442  (Ranked 223)  
+Sum: 3,243 (Ranked 173)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 441 |
+| This game has Quickly Understood Controls | 442 |
 | This game is Relaxing | 431 |
 | This game is Great for Beginners | 423 |
 | This game is Extremely Fun | 409 |
@@ -561,3 +561,4 @@ Diff (max vs sum): 50
 | 2023-12-02 | 4.81 | - | 441 | 3,238 |
 | 2023-12-03 | 4.81 | - | 441 | 3,239 |
 | 2023-12-04 | 4.82 | - | 441 | 3,242 |
+| 2023-12-06 | 4.82 | - | 442 | 3,243 |

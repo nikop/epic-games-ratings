@@ -6,14 +6,14 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,885 |
-| Exploitative | 4.00% | ~19,908 |
-| Point Shooting | 4.00% | ~19,908 |
-| Wet Feet | 4.00% | ~19,908 |
-| High Speed Low Drag | 3.00% | ~14,931 |
-| Lucky | 3.00% | ~14,931 |
-| Stylin' | 3.00% | ~14,931 |
-| Turf War | 3.00% | ~14,931 |
+| Wallbanger | 5.00% | ~24,886 |
+| Exploitative | 4.00% | ~19,909 |
+| Point Shooting | 4.00% | ~19,909 |
+| Wet Feet | 4.00% | ~19,909 |
+| High Speed Low Drag | 3.00% | ~14,932 |
+| Lucky | 3.00% | ~14,932 |
+| Stylin' | 3.00% | ~14,932 |
+| Turf War | 3.00% | ~14,932 |
 | Banged | 2.00% | ~9,954 |
 | Checkpoint Victory | 2.00% | ~9,954 |
 | First Blood | 2.00% | ~9,954 |
@@ -23,10 +23,10 @@ Number of Ratings: 1,316  (23.09.2022)
 | Blindfire | 1.00% | ~4,977 |
 | Ruthless | 1.00% | ~4,977 |
 | Semper Paratus | 1.00% | ~4,977 |
-| Carrying | 0.90% | ~4,479 |
-| Efficient | 0.90% | ~4,479 |
-| Mount & Gun | 0.90% | ~4,479 |
-| Personal | 0.90% | ~4,479 |
+| Carrying | 0.90% | ~4,480 |
+| Efficient | 0.90% | ~4,480 |
+| Mount & Gun | 0.90% | ~4,480 |
+| Personal | 0.90% | ~4,480 |
 | Grounded | 0.80% | ~3,982 |
 | Play to Win | 0.80% | ~3,982 |
 | Special Delivery | 0.70% | ~3,484 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~498 |
 | Road Hazard | 0.10% | ~498 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497,708 (Ranked 37)  
-Completed: 2 (0.00%) (Ranked 369)  
+Progressed: 497,723 (Ranked 37)  
+Completed: 2 (0.00%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -272,14 +272,14 @@ Completed: 2 (0.00%) (Ranked 369)
 | 2023-12-03 | 496,715 | 2 |
 | 2023-12-04 | 497,118 | 2 |
 | 2023-12-05 | 497,499 | 2 |
-| 2023-12-06 | 497,708 | 2 |
+| 2023-12-06 | 497,723 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 402  (Ranked 233)  
-Sum: 3,206 (Ranked 174)  
+Max (Quickly Understood Controls): 403  (Ranked 233)  
+Sum: 3,207 (Ranked 174)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 402 |
+| This game has Quickly Understood Controls | 403 |
 | This game has Challenging Combat | 392 |
 | This game is Extremely Fun | 370 |
 | This game has Competitive Players | 368 |
@@ -593,3 +593,4 @@ Diff (max vs sum): 59
 | 2023-12-03 | 4.61 | - | 402 | 3,201 |
 | 2023-12-04 | 4.61 | - | 402 | 3,202 |
 | 2023-12-05 | 4.61 | - | 402 | 3,206 |
+| 2023-12-06 | 4.61 | - | 403 | 3,207 |

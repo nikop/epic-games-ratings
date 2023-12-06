@@ -19,9 +19,9 @@ Number of Ratings: 54  (23.09.2022)
 | Kraina Grzybow | 10.00% | ~134 |
 | Savant | 10.00% | ~134 |
 | Love Guru | 9.00% | ~121 |
+| Superhuman | 9.00% | ~121 |
 | Bustin' nuts | 8.00% | ~107 |
 | Not-so-private Eye | 8.00% | ~107 |
-| Superhuman | 8.00% | ~107 |
 | The Vitinsky Rifle | 6.00% | ~80 |
 | Protection racket | 5.00% | ~67 |
 | Secret room | 5.00% | ~67 |
@@ -44,7 +44,7 @@ Number of Ratings: 54  (23.09.2022)
 | Pacifist | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,339 (Ranked 245)  
-Completed: 1 (0.07%) (Ranked 307)  
+Completed: 1 (0.07%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

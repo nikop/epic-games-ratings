@@ -19,12 +19,12 @@
 | Locksley's Tears | 37.00% | ~22 |
 | Merry Co-operation | 34.00% | ~20 |
 | Finish Him! | 32.00% | ~19 |
-| Assault on the Ram | 31.00% | ~18 |
+| Assault on the Ram | 32.00% | ~19 |
 | Savior | 29.00% | ~17 |
-| Ultra Rebel Instinct | 25.00% | ~15 |
+| Ultra Rebel Instinct | 27.00% | ~16 |
 | Take Action! | 24.00% | ~14 |
+| First Aid | 24.00% | ~14 |
 | Merry Go Round | 24.00% | ~14 |
-| First Aid | 22.00% | ~13 |
 | Ultra Combo | 19.00% | ~11 |
 | Ascending Will | 17.00% | ~10 |
 | Hidden Experiment | 15.00% | ~9 |
@@ -59,7 +59,7 @@
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 59 (Ranked 490)  
-Completed: 0 (0.00%) (Ranked 369)  
+Completed: 0 (0.00%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

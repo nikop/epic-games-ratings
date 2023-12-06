@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mathematic | 84.00% | ~26 |
-| Conducted Trade | 61.00% | ~19 |
+| Conducted Trade | 65.00% | ~20 |
+| Going Places | 58.00% | ~18 |
 | It's Yours, My Friend | 55.00% | ~17 |
-| Going Places | 48.00% | ~15 |
+| Digging a Hole | 45.00% | ~14 |
 | Aristocratic | 42.00% | ~13 |
-| Digging a Hole | 42.00% | ~13 |
-| Tutti Frutti | 39.00% | ~12 |
-| Gotta Go Fast | 35.00% | ~11 |
+| Tutti Frutti | 42.00% | ~13 |
+| Gotta Go Fast | 39.00% | ~12 |
 | Slotting Machine | 19.00% | ~6 |
 | Mine Sweeper | 16.00% | ~5 |
+| Roll Out | 13.00% | ~4 |
+| Systematic | 13.00% | ~4 |
 | Botropolis | 10.00% | ~3 |
-| Roll Out | 10.00% | ~3 |
 | Steam Powered | 10.00% | ~3 |
 | Steaming Rich | 10.00% | ~3 |
-| Systematic | 10.00% | ~3 |
 | Whoa! | 10.00% | ~3 |
 | Dopa-Miner | 6.00% | ~2 |
 | Real Purdy | 6.00% | ~2 |
@@ -34,7 +34,7 @@
 | Yup. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31 (Ranked 536)  
-Completed: 0 (0.00%) (Ranked 369)  
+Completed: 0 (0.00%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

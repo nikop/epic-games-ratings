@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 337)
 | Pusher | 23.00% | ~494 |
 | Z-Baller | 23.00% | ~494 |
 | Marked | 22.00% | ~473 |
-| Eviscerator | 19.00% | ~408 |
+| Eviscerator | 20.00% | ~430 |
 | Backbreaker | 14.00% | ~301 |
 | Wishbone | 9.00% | ~193 |
 | Trusted Contractor | 7.00% | ~150 |
@@ -54,7 +54,7 @@ Rating: 4.64 (Ranked 337)
 | One Gun | 2.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,148 (Ranked 226)  
-Completed: 13 (0.61%) (Ranked 191)  
+Completed: 13 (0.61%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

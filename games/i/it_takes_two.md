@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~23,091 |
-| Fried Friendship | 87.00% | ~22,829 |
-| Look At Him Go | 79.00% | ~20,730 |
-| On Rails Experience | 57.00% | ~14,957 |
-| A Daring Devil | 53.00% | ~13,907 |
-| It Took Two | 44.00% | ~11,546 |
-| Break the Bank | 43.00% | ~11,283 |
-| Bug Sized Relaxation | 22.00% | ~5,773 |
-| Plastic Prison Breakers | 17.00% | ~4,461 |
-| Terror Of The Seven Seas | 16.00% | ~4,198 |
-| Realize Your Art | 12.00% | ~3,149 |
-| Force Triangulated | 12.00% | ~3,149 |
-| Meditation Maestro | 12.00% | ~3,149 |
-| Lost And Found | 11.00% | ~2,886 |
-| Something Fishy | 11.00% | ~2,886 |
+| Struck A Pose | 88.00% | ~23,097 |
+| Fried Friendship | 87.00% | ~22,835 |
+| Look At Him Go | 79.00% | ~20,735 |
+| On Rails Experience | 57.00% | ~14,961 |
+| A Daring Devil | 53.00% | ~13,911 |
+| It Took Two | 44.00% | ~11,549 |
+| Break the Bank | 43.00% | ~11,286 |
+| Bug Sized Relaxation | 22.00% | ~5,774 |
+| Plastic Prison Breakers | 17.00% | ~4,462 |
+| Terror Of The Seven Seas | 16.00% | ~4,200 |
+| Realize Your Art | 12.00% | ~3,150 |
+| Force Triangulated | 12.00% | ~3,150 |
+| Meditation Maestro | 12.00% | ~3,150 |
+| Lost And Found | 11.00% | ~2,887 |
+| Something Fishy | 11.00% | ~2,887 |
 | Platforming Prodigy | 9.00% | ~2,362 |
-| Snackosaurus | 8.00% | ~2,099 |
+| Snackosaurus | 8.00% | ~2,100 |
 | Mood Swing | 7.00% | ~1,837 |
 | Minigame Megalomania | 4.00% | ~1,050 |
 | Faraway Frequencies | 4.00% | ~1,050 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,240 (Ranked 129)  
-Completed: 113 (0.43%) (Ranked 219)  
+Progressed: 26,247 (Ranked 129)  
+Completed: 113 (0.43%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,4 +107,4 @@ Completed: 113 (0.43%) (Ranked 219)
 | 2023-12-03 | 25,857 | 111 |
 | 2023-12-04 | 25,998 | 111 |
 | 2023-12-05 | 26,131 | 112 |
-| 2023-12-06 | 26,240 | 113 |
+| 2023-12-06 | 26,247 | 113 |

@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 58.00% | ~56,605 |
-| Let There Be Light | 49.00% | ~47,822 |
-| Float Like a Butterfly | 47.00% | ~45,870 |
-| Nordic Walking | 39.00% | ~38,062 |
-| Bright Falls' Finest | 38.00% | ~37,086 |
-| Under a Thin Layer of Skin | 34.00% | ~33,182 |
+| Follow the Light | 58.00% | ~56,606 |
+| Let There Be Light | 49.00% | ~47,823 |
+| Float Like a Butterfly | 47.00% | ~45,871 |
+| Nordic Walking | 39.00% | ~38,063 |
+| Bright Falls' Finest | 38.00% | ~37,087 |
+| Under a Thin Layer of Skin | 34.00% | ~33,183 |
 | Park Ranger | 29.00% | ~28,303 |
 | Paging Mr. Wake | 29.00% | ~28,303 |
 | Back! Back, I Say! | 27.00% | ~26,351 |
@@ -33,10 +33,10 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 18.00% | ~17,567 |
 | The Lady of the Light | 17.00% | ~16,591 |
 | Energized! | 17.00% | ~16,591 |
-| What Light Through Yonder Window | 15.00% | ~14,639 |
-| Right of Way | 15.00% | ~14,639 |
-| Tornado Wrangler | 13.00% | ~12,687 |
-| Departure | 12.00% | ~11,711 |
+| What Light Through Yonder Window | 15.00% | ~14,640 |
+| Right of Way | 15.00% | ~14,640 |
+| Tornado Wrangler | 13.00% | ~12,688 |
+| Departure | 12.00% | ~11,712 |
 | Hardboiled Writer | 10.00% | ~9,760 |
 | A Friend in Need | 10.00% | ~6,106 |
 | Drink 'Em Both Up | 9.00% | ~8,784 |
@@ -44,7 +44,7 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 7.00% | ~6,832 |
 | If It Flies, It Burns | 7.00% | ~6,832 |
 | KBF-FM | 7.00% | ~6,832 |
-| A Friend Indeed | 7.00% | ~4,274 |
+| A Friend Indeed | 7.00% | ~4,275 |
 | Ding! | 6.00% | ~3,664 |
 | Carny | 4.00% | ~3,904 |
 | An Idyllic Small Town | 4.00% | ~3,904 |
@@ -74,8 +74,8 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~122 |
 | Licensed Properties | 0.20% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,595 (Ranked 90)  
-Completed: 110 (0.11%) (Ranked 284)  
+Progressed: 97,597 (Ranked 90)  
+Completed: 110 (0.11%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -304,7 +304,7 @@ Completed: 110 (0.11%) (Ranked 284)
 | 2023-12-03 | 97,314 | 107 |
 | 2023-12-04 | 97,426 | 108 |
 | 2023-12-05 | 97,544 | 110 |
-| 2023-12-06 | 97,595 | 110 |
+| 2023-12-06 | 97,597 | 110 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

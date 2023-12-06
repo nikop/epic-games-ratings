@@ -3,9 +3,9 @@
   "Name": "PERISH",
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 201,
-  "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_Completed": 370,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3756,
+  "EOS_Progressed": 3759,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3981,6 +3981,11 @@
       "Time": "2023-12-06T11:03:49.3971924+00:00",
       "NumProgressed": 3756,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T15:03:16.8901038+00:00",
+      "NumProgressed": 3759,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -4120,7 +4125,7 @@
       "Name": "To Suffer is to Learn",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_M_D1",
@@ -4368,7 +4373,7 @@
       "Name": "Initiate\u0027s Resolve",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_R_A",
@@ -4495,7 +4500,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3756,
+      "Progressed": 3759,
       "Completed": 0
     }
   ],
@@ -4503,8 +4508,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:04:15.7532089+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:03:16.8901033+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:11.5239998+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:00:16.2054173+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:04:15.7533036+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:58:55.2209909+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:03:16.8901617+00:00"
 }

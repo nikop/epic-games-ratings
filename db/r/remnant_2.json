@@ -6,7 +6,7 @@
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 68,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 21,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
@@ -5229,9 +5229,9 @@
       "Count": 407
     }
   ],
-  "EOS_Progressed": 235824,
+  "EOS_Progressed": 235851,
   "EOS_Completed": 563,
-  "EOS_NewPlayers": 5353,
+  "EOS_NewPlayers": 5341,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21654,6 +21654,11 @@
       "Time": "2023-12-06T14:10:00.4097779+00:00",
       "NumProgressed": 235824,
       "NumCompleted": 563
+    },
+    {
+      "Time": "2023-12-06T15:08:52.1772272+00:00",
+      "NumProgressed": 235851,
+      "NumCompleted": 563
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21690,7 +21695,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Defeat_Boss_No_Damage",
@@ -21706,7 +21711,7 @@
       "Name": "Chaos",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Defeat_Cube",
@@ -21722,7 +21727,7 @@
       "Name": "Traitor",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Defeat_Final_Boss",
@@ -21730,7 +21735,7 @@
       "Name": "Forever is a Long Time Coming",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Defeat_Guardian",
@@ -21738,7 +21743,7 @@
       "Name": "Power Surge",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Defeat_Mantis",
@@ -21754,7 +21759,7 @@
       "Name": "The God Gambit",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Defeat_Nightweaver",
@@ -21762,7 +21767,7 @@
       "Name": "Dark Designs",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Defeat_Special_Enemies",
@@ -21778,7 +21783,7 @@
       "Name": "Madman\u0027s Paradise",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Defeat_World_Boss",
@@ -21890,7 +21895,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -21906,7 +21911,7 @@
       "Name": "Strapped",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Obtain_Guns_B",
@@ -21922,7 +21927,7 @@
       "Name": "Edgelord",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Obtain_Melee_Weapons_B",
@@ -21938,7 +21943,7 @@
       "Name": "The Web",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Obtain_Relics",
@@ -21954,7 +21959,7 @@
       "Name": "Scrap Collector",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Obtain_Scrap_B",
@@ -21962,7 +21967,7 @@
       "Name": "Scrap Hoarder",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Obtain_Traits_A",
@@ -21978,7 +21983,7 @@
       "Name": "All These Traits\uFFFD",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Obtain_Traits_C",
@@ -22105,13 +22110,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 235824,
+      "Progressed": 235851,
       "Completed": 563
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 14989,
+      "Progressed": 15016,
       "Completed": 198
     }
   ],
@@ -22119,8 +22124,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-06T11:03:36.8125781+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:10:00.4097775+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:08:52.1772267+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:04:00.7137628+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:10:00.4099131+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:03:06.6997693+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:08:52.1773477+00:00"
 }

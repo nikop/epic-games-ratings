@@ -6,9 +6,9 @@
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 198,
-  "Ranking_EOS_Completed": 244,
+  "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -625,7 +625,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 3982,
+  "EOS_Progressed": 3983,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -8445,6 +8445,11 @@
       "Time": "2023-12-06T01:55:09.1647532+00:00",
       "NumProgressed": 3982,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-06T15:06:12.1536262+00:00",
+      "NumProgressed": 3983,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8480,7 +8485,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -8488,7 +8493,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -8496,7 +8501,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -8504,7 +8509,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -8590,9 +8595,9 @@
       "ID": "REWARD_26_SHARPSHOOTER",
       "SetID": "bm6el81",
       "Name": "Sharpshooter",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 916
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8704,7 +8709,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8792,7 +8797,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9023,13 +9028,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3933,
+      "Progressed": 3934,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3982,
+      "Progressed": 3983,
       "Completed": 11
     }
   ],
@@ -9037,8 +9042,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-29T01:50:55.7506147+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:08:20.945768+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:06:12.1536258+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.4601542+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:59:50.93222+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:08:20.9458563+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:58:39.1663081+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:06:12.1537126+00:00"
 }

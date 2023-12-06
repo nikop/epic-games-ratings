@@ -133,7 +133,7 @@
 | Neural Shock Specialist | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,516 (Ranked 242)  
-Completed: 7 (0.46%) (Ranked 214)  
+Completed: 7 (0.46%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

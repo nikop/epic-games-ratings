@@ -6,8 +6,8 @@
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7337,10 +7337,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27662,
       "NumberOfAwardsMax": 4864
+    },
+    {
+      "Time": "2023-12-06T15:02:57.1831293+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27663,
+      "NumberOfAwardsMax": 4864
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27662,
+  "NumberOfAwards": 27663,
   "NumberOfAwardsMax": 4864,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7372,7 +7378,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4037
+      "Count": 4038
     },
     {
       "Text": "This game is Relaxing",
@@ -7393,7 +7399,7 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144001,
+  "EOS_Progressed": 144010,
   "EOS_Completed": 291,
   "EOS_NewPlayers": 1185,
   "EOS_NewCompleters": 2,
@@ -31283,6 +31289,11 @@
       "Time": "2023-12-06T14:04:43.9510108+00:00",
       "NumProgressed": 144001,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-06T15:03:36.6104222+00:00",
+      "NumProgressed": 144010,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -31462,7 +31473,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10080
+      "UsersEstimate": 10081
     },
     {
       "ID": "chest02",
@@ -31526,7 +31537,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8640
+      "UsersEstimate": 8641
     },
     {
       "ID": "commonres02",
@@ -31766,7 +31777,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8640
+      "UsersEstimate": 8641
     },
     {
       "ID": "gold02",
@@ -32110,7 +32121,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10080
+      "UsersEstimate": 10081
     },
     {
       "ID": "twinenchant01",
@@ -32189,15 +32200,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144001,
+      "Progressed": 144010,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-05T17:03:14.9602603+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:04:43.95101+00:00",
+  "LastChanged": "2023-12-06T15:02:57.1831292+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:03:36.6104217+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:03:46.0715022+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:04:43.9512308+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:02:57.1831298+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:03:36.6106089+00:00"
 }

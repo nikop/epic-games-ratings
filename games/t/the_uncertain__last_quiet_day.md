@@ -12,7 +12,7 @@
 | Short circuit | 53.00% | ~312 |
 | Curious | 42.00% | ~247 |
 | Everybody lies | 36.00% | ~212 |
-| Trick or Treat? | 23.00% | ~135 |
+| Trick or Treat? | 24.00% | ~141 |
 | There is another way | 23.00% | ~135 |
 | Sysadmin | 22.00% | ~129 |
 | Every little helps | 21.00% | ~123 |

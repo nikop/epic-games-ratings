@@ -4,8 +4,8 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -964,9 +964,9 @@
       "ID": "HAPPY_HALLOWEEN",
       "SetID": "2iigf77",
       "Name": "Trick or Treat?",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 141
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -1133,8 +1133,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:10:36.6089675+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:09:18.8035558+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.8279078+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:00:06.7027831+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:10:36.6089891+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:58:48.9811746+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:09:18.8035758+00:00"
 }

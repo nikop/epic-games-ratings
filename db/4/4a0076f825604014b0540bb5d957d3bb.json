@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 470,
-  "Ranking_EOS_Completed": 369,
+  "Ranking_EOS_Completed": 370,
   "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -409,9 +409,9 @@
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "CgkInO_K3eIdEAIQBg",
@@ -481,9 +481,9 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -592,8 +592,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-06T14:10:30.8279564+00:00",
+  "LastChanged_Achievements": "2023-12-06T15:09:14.2076282+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:27.5343781+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:58:14.3627003+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:10:30.8279742+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:57:34.2494451+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:09:14.2076444+00:00"
 }

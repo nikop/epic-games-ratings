@@ -3,9 +3,9 @@
   "Name": "Silt",
   "ProductSlug": "silt-6ca919",
   "Ranking_EOS_Progress": 785,
-  "Ranking_EOS_Completed": 369,
+  "Ranking_EOS_Completed": 370,
   "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-06-01T09:00:00+00:00",
     "PcReleaseDate": "2022-06-01T09:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:44.8529887+00:00",
   "LastChanged": "2023-03-31T05:58:44.8529888+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:52.2838512+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:59:44.1147098+00:00",
-  "LastUpdate_Achievements": "2023-12-06T14:05:09.6731607+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:58:34.3579074+00:00",
+  "LastUpdate_Achievements": "2023-12-06T15:03:54.841014+00:00"
 }
