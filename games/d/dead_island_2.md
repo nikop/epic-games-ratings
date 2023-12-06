@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,696 |
-| Pork Chopped | 3.00% | ~1,696 |
+| Whatever It Takes | 3.00% | ~1,697 |
+| Pork Chopped | 3.00% | ~1,697 |
 | Dr. Reed, I Presume? | 2.00% | ~14,620 |
 | Git Gutte! | 2.00% | ~14,620 |
 | Bookworm | 2.00% | ~14,620 |
@@ -20,7 +20,7 @@ Rating: 4.54 (Ranked 529)
 | Personal Assistant Personally Assisted | 2.00% | ~14,620 |
 | This is My Weapon | 2.00% | ~14,620 |
 | Welcome To Hell-A | 2.00% | ~14,620 |
-| One of Us | 2.00% | ~1,130 |
+| One of Us | 2.00% | ~1,131 |
 | Making Your Mark | 1.00% | ~7,310 |
 | Anger Management | 1.00% | ~7,310 |
 | Perks of the Job | 1.00% | ~7,310 |
@@ -38,9 +38,9 @@ Rating: 4.54 (Ranked 529)
 | Our True Nature | 1.00% | ~7,310 |
 | Down with the Sickness | 0.90% | ~6,579 |
 | Jumbo Keyring | 0.80% | ~5,848 |
+| Go, Bobcats! | 0.80% | ~5,848 |
 | Rising Star | 0.80% | ~5,848 |
 | Not Even My Final Form | 0.70% | ~5,117 |
-| Go, Bobcats! | 0.70% | ~5,117 |
 | On Safari | 0.60% | ~4,386 |
 | Smorgasbord | 0.60% | ~4,386 |
 | Internet Famous | 0.60% | ~4,386 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,975 (Ranked 21)  
+Progressed: 731,010 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-03 | 729,822 | 2,461 |
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
-| 2023-12-06 | 730,975 | 2,465 |
+| 2023-12-06 | 731,010 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,968  (Ranked 49)  
 Sum: 12,233 (Ranked 82)  

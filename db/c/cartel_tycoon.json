@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 715,
+  "EOS_Progressed": 716,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -2414,6 +2414,11 @@
       "Time": "2023-12-06T05:04:51.5740162+00:00",
       "NumProgressed": 715,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-06T19:06:02.7487125+00:00",
+      "NumProgressed": 716,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2473,7 +2478,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "kill-lieutenants",
@@ -2529,7 +2534,7 @@
       "Name": "Bite the Blow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "sell-variety",
@@ -2537,7 +2542,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "send-smuggling",
@@ -2561,7 +2566,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "use-submarine",
@@ -2576,15 +2581,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 715,
+      "Progressed": 716,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-12-06T18:05:09.5218676+00:00",
+  "LastChanged_Achievements": "2023-12-06T19:06:02.7487122+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:24.9876326+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:59:57.2805043+00:00",
-  "LastUpdate_Achievements": "2023-12-06T18:05:09.5218945+00:00"
+  "LastUpdate_Ratings": "2023-12-06T19:01:00.8440749+00:00",
+  "LastUpdate_Achievements": "2023-12-06T19:06:02.7487324+00:00"
 }

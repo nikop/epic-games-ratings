@@ -7,8 +7,8 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 36.00% | ~131 |
-| Double Kill | 26.00% | ~94 |
-| Critical Hit | 15.00% | ~54 |
+| Double Kill | 26.00% | ~95 |
+| Critical Hit | 15.00% | ~55 |
 | Veteran | 13.00% | ~47 |
 | Dressed For Success | 10.00% | ~36 |
 | Sorcerous Spree | 7.00% | ~25 |
@@ -30,16 +30,16 @@ Number of Ratings: 292  (23.09.2022)
 | Infernal Influence | 1.00% | ~4 |
 | Don't Touch My Stuff | 1.00% | ~4 |
 | Ultra Kill | 0.80% | ~3 |
-| Death To Diplomacy | 0.60% | ~2 |
-| Unlimited Power! | 0.60% | ~2 |
-| Coming Through! | 0.60% | ~2 |
-| Barbecue | 0.60% | ~2 |
-| In The Thick of It | 0.60% | ~2 |
-| Together For Her | 0.60% | ~2 |
-| From the Ashes | 0.60% | ~2 |
-| The Marsh Expands | 0.60% | ~2 |
-| Cleave | 0.60% | ~2 |
-| Grand Master | 0.60% | ~2 |
+| Death To Diplomacy | 0.50% | ~2 |
+| Unlimited Power! | 0.50% | ~2 |
+| Coming Through! | 0.50% | ~2 |
+| Barbecue | 0.50% | ~2 |
+| In The Thick of It | 0.50% | ~2 |
+| Together For Her | 0.50% | ~2 |
+| From the Ashes | 0.50% | ~2 |
+| The Marsh Expands | 0.50% | ~2 |
+| Cleave | 0.50% | ~2 |
+| Grand Master | 0.50% | ~2 |
 | Hello There | 0.30% | ~1 |
 | Fully Charged | 0.30% | ~1 |
 | An Empress's Hope | 0.30% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 335)  
+Progressed: 364 (Ranked 335)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-03 | 343 | 0 |
 | 2023-12-04 | 350 | 0 |
 | 2023-12-05 | 357 | 0 |
-| 2023-12-06 | 363 | 0 |
+| 2023-12-06 | 364 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 515)  
 Sum: 194 (Ranked 406)  

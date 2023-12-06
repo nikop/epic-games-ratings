@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -771,9 +771,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6043,
+  "EOS_Progressed": 6044,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6886,6 +6886,11 @@
       "Time": "2023-12-06T17:04:48.2370081+00:00",
       "NumProgressed": 6043,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T19:05:51.3938777+00:00",
+      "NumProgressed": 6044,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6898,7 +6903,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "achievement_0002",
@@ -6946,7 +6951,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5680
+      "UsersEstimate": 5681
     },
     {
       "ID": "achievement_0008",
@@ -6954,7 +6959,7 @@
       "Name": "On the Top Step",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 5378
+      "UsersEstimate": 5379
     },
     {
       "ID": "achievement_0009",
@@ -6970,7 +6975,7 @@
       "Name": "Network Success",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "achievement_0011",
@@ -7010,7 +7015,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "achievement_0016",
@@ -7154,7 +7159,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 3384
+      "UsersEstimate": 3385
     },
     {
       "ID": "achievement_0034",
@@ -7234,7 +7239,7 @@
       "Name": "Familiar Faces",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2961
+      "UsersEstimate": 2962
     },
     {
       "ID": "achievement_0044",
@@ -7242,7 +7247,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2599
     },
     {
       "ID": "achievement_0045",
@@ -7289,7 +7294,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 6043,
+      "Progressed": 6044,
       "Completed": 0
     }
   ],
@@ -7297,8 +7302,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-12-05T18:58:42.6618407+00:00",
-  "LastChanged_Achievements": "2023-12-06T18:05:01.2925878+00:00",
+  "LastChanged_Achievements": "2023-12-06T19:05:51.3938774+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.4962244+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:58:57.8619744+00:00",
-  "LastUpdate_Achievements": "2023-12-06T18:05:01.2926459+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:59:33.8983633+00:00",
+  "LastUpdate_Achievements": "2023-12-06T19:05:51.3939423+00:00"
 }

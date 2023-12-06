@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -631,9 +631,9 @@
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -736,8 +736,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-10-14T18:57:04.8470544+00:00",
-  "LastChanged_Achievements": "2023-12-06T18:04:57.2019412+00:00",
+  "LastChanged_Achievements": "2023-12-06T19:05:45.796482+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:22.421403+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:58:07.330217+00:00",
-  "LastUpdate_Achievements": "2023-12-06T18:04:57.2019985+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:58:19.4580308+00:00",
+  "LastUpdate_Achievements": "2023-12-06T19:05:45.7965087+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4553,7 +4553,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77733,
+  "EOS_Progressed": 77734,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
@@ -25183,6 +25183,11 @@
       "Time": "2023-12-06T18:04:11.4659313+00:00",
       "NumProgressed": 77733,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-06T19:04:41.3485555+00:00",
+      "NumProgressed": 77734,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25418,7 +25423,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21765
+      "UsersEstimate": 21766
     },
     {
       "ID": "FREEZE_1_5",
@@ -25498,7 +25503,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26429
+      "UsersEstimate": 26430
     },
     {
       "ID": "HARLEY_2",
@@ -25506,7 +25511,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19433
+      "UsersEstimate": 19434
     },
     {
       "ID": "HARLEY_3",
@@ -25538,7 +25543,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38866
+      "UsersEstimate": 38867
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25681,13 +25686,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77733,
+      "Progressed": 77734,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48013,
+      "Progressed": 48014,
       "Completed": 2675
     }
   ],
@@ -25695,8 +25700,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-06T08:58:33.7324209+00:00",
-  "LastChanged_Achievements": "2023-12-06T18:04:11.4659306+00:00",
+  "LastChanged_Achievements": "2023-12-06T19:04:41.3485551+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:59:05.3519098+00:00",
-  "LastUpdate_Achievements": "2023-12-06T18:04:11.4660819+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:59:45.1815937+00:00",
+  "LastUpdate_Achievements": "2023-12-06T19:04:41.3486699+00:00"
 }

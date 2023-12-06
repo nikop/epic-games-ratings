@@ -14,6 +14,7 @@ Number of Ratings: 90  (23.09.2022)
 | Lie Back and Think of Albion | 5.00% | ~1 |
 | I Look Up As I Walk to Takoshima | 5.00% | ~1 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 5.00% | ~1 |
+| Upgreatest | 5.00% | ~1 |
 | Shop Til They Drop | 5.00% | ~1 |
 | Pimp My Raid | 5.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
@@ -40,7 +41,6 @@ Number of Ratings: 90  (23.09.2022)
 | Yettisoned | 0.00% | ~0 |
 | The Optional Mandate | 0.00% | ~0 |
 | Earthly Pleasures | 0.00% | ~0 |
-| Upgreatest | 0.00% | ~0 |
 | Higher Than the Futen Zoku | 0.00% | ~0 |
 | Re-Return of the Clone of the Invasion II-2 | 0.00% | ~0 |
 | To Russia With Love | 0.00% | ~0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1303,9 +1303,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259099,
+  "EOS_Progressed": 259101,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23428,6 +23428,11 @@
       "Time": "2023-12-06T17:05:39.3719635+00:00",
       "NumProgressed": 259099,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-06T19:06:59.7064483+00:00",
+      "NumProgressed": 259101,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -23463,7 +23468,7 @@
       "Name": "The Gamble",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "Act5",
@@ -23471,7 +23476,7 @@
       "Name": "The Descent",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "BackHomeAfterTimesUp",
@@ -23519,7 +23524,7 @@
       "Name": "A major purchase",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "BuyNWeapons",
@@ -23886,7 +23891,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259099,
+      "Progressed": 259101,
       "Completed": 3
     }
   ],
@@ -23894,8 +23899,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-06T13:07:17.8158853+00:00",
-  "LastChanged_Achievements": "2023-12-06T18:05:51.2719766+00:00",
+  "LastChanged_Achievements": "2023-12-06T19:06:59.7064481+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:43.7496821+00:00",
-  "LastUpdate_Ratings": "2023-12-06T18:00:32.0339775+00:00",
-  "LastUpdate_Achievements": "2023-12-06T18:05:51.2721422+00:00"
+  "LastUpdate_Ratings": "2023-12-06T19:01:51.7732327+00:00",
+  "LastUpdate_Achievements": "2023-12-06T19:06:59.7065902+00:00"
 }

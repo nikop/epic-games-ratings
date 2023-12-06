@@ -2,9 +2,9 @@
   "ID": "3eae9135a71f43a288f3b683fe83bc11",
   "Name": "Lemon Cake",
   "ProductSlug": "lemon-cake-c683d8",
-  "Ranking_EOS_Progress": 403,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_Progress": 402,
+  "Ranking_EOS_Completed": 163,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 165,
+  "EOS_Progressed": 166,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.21,
+  "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:16.6062056+00:00",
@@ -295,6 +295,11 @@
       "Time": "2023-12-03T10:05:09.5848506+00:00",
       "NumProgressed": 165,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-06T19:07:52.9029384+00:00",
+      "NumProgressed": 166,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -306,15 +311,15 @@
       "Name": "Proving Your Skills",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "LC-02",
       "SetID": "ap2ljl4",
       "Name": "Bakery Startup",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 71
     },
     {
       "ID": "LC-03",
@@ -346,7 +351,7 @@
       "Name": "Adept Baker",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "LC-07",
@@ -376,17 +381,17 @@
       "ID": "LC-10",
       "SetID": "ap2ljl4",
       "Name": "Luxury Kitchen",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "LC-11",
       "SetID": "ap2ljl4",
       "Name": "Bustling Store",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "LC-12",
@@ -434,14 +439,14 @@
       "Name": "Perfect Server",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 165,
+      "Progressed": 166,
       "Completed": 2
     }
   ],
@@ -449,8 +454,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-12-06T18:06:28.7923137+00:00",
+  "LastChanged_Achievements": "2023-12-06T19:07:52.9029382+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:49.7686497+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:58:43.3961427+00:00",
-  "LastUpdate_Achievements": "2023-12-06T18:06:28.7923267+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:59:11.7463413+00:00",
+  "LastUpdate_Achievements": "2023-12-06T19:07:52.9029453+00:00"
 }

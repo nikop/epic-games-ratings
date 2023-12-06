@@ -12,15 +12,15 @@ Rating: 4.74 (Ranked 157)
 | What I Want Is You | 61.00% | ~6,554 |
 | To Be Or Not To Be | 58.00% | ~6,232 |
 | Are You Alright? | 50.00% | ~5,372 |
-| Love Actually | 48.00% | ~5,157 |
+| Love Actually | 49.00% | ~5,265 |
 | Drama King | 42.00% | ~4,512 |
 | You're Really Something Else | 37.00% | ~3,975 |
 | Go Clean up In Your Own Way | 36.00% | ~3,868 |
 | Happy Family | 35.00% | ~3,760 |
 | FIRST LOVE | 35.00% | ~3,760 |
+| Drama CP: Reel to Real | 35.00% | ~3,760 |
 | Worthless Speech | 35.00% | ~3,760 |
 | ONE PUNCH | 34.00% | ~3,653 |
-| Drama CP: Reel to Real | 34.00% | ~3,653 |
 | Absolutely Elegant | 33.00% | ~3,546 |
 | Still Single | 32.00% | ~3,438 |
 | Go Get Some Fries On The Pier | 30.00% | ~3,223 |

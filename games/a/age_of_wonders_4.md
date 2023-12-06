@@ -42,9 +42,9 @@ Rating: 4.62 (Ranked 368)
 | Dawn of the Dread | 1.00% | ~56 |
 | A Conqueror's Cohort | 0.90% | ~50 |
 | The Creator | 0.80% | ~45 |
+| The Eternal Court | 0.80% | ~45 |
 | Lord of Chaos | 0.70% | ~39 |
 | Eternal Lord | 0.70% | ~39 |
-| The Eternal Court | 0.70% | ~39 |
 | I've Got Everything I Need Right Here | 0.60% | ~33 |
 | God Emperor | 0.60% | ~33 |
 | The Goddess of Nature | 0.60% | ~33 |
@@ -67,7 +67,7 @@ Rating: 4.62 (Ranked 368)
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,572 (Ranked 189)  
-Completed: 7 (0.13%) (Ranked 277)  
+Completed: 7 (0.13%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

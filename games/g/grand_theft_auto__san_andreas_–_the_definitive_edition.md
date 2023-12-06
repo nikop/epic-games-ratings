@@ -19,8 +19,8 @@ Rating: 4.56 (Ranked 494)
 | The End of the Line | 8.00% | ~1,110 |
 | With Extra Dip | 7.00% | ~971 |
 | Saviour | 6.00% | ~832 |
-| They Can’t Stop All of Us | 5.00% | ~693 |
-| Rescue a Kitten Too? | 5.00% | ~693 |
+| They Can’t Stop All of Us | 5.00% | ~694 |
+| Rescue a Kitten Too? | 5.00% | ~694 |
 | What are the Odds | 4.00% | ~555 |
 | I’ll Have Two Number 9s | 3.00% | ~416 |
 | Bike or Biker | 3.00% | ~416 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 494)
 | ...Here we go again | 0.50% | ~69 |
 | I Ain't No Buster | 0.40% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,869 (Ranked 157)  
+Progressed: 13,870 (Ranked 157)  
 Completed: 56 (0.40%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,14 +271,14 @@ Completed: 56 (0.40%) (Ranked 223)
 | 2023-12-03 | 13,843 | 56 |
 | 2023-12-04 | 13,851 | 56 |
 | 2023-12-05 | 13,862 | 56 |
-| 2023-12-06 | 13,869 | 56 |
+| 2023-12-06 | 13,870 | 56 |
 ## Awards
-Max (Great Boss Battles): 423  (Ranked 228)  
-Sum: 698 (Ranked 299)  
-Diff (max vs sum): -71  
+Max (Great Boss Battles): 425  (Ranked 228)  
+Sum: 700 (Ranked 298)  
+Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 423 |
+| This game has Great Boss Battles | 425 |
 | This game is Relaxing | 39 |
 | This game has Amazing Characters | 38 |
 | This game is Great for Beginners | 37 |
@@ -483,3 +483,4 @@ Diff (max vs sum): -71
 | 2023-12-03 | 4.55 | 416 | 688 |
 | 2023-12-04 | 4.55 | 419 | 692 |
 | 2023-12-05 | 4.56 | 423 | 698 |
+| 2023-12-06 | 4.56 | 425 | 700 |

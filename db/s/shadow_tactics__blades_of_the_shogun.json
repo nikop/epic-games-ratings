@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -2260,9 +2260,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 217755,
+  "EOS_Progressed": 217761,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1244,
+  "EOS_NewPlayers": 1242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28650,6 +28650,11 @@
       "Time": "2023-12-06T18:06:35.524805+00:00",
       "NumProgressed": 217755,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-06T19:08:02.3859261+00:00",
+      "NumProgressed": 217761,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -28685,7 +28690,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13065
+      "UsersEstimate": 13066
     },
     {
       "ID": "CompleteMastery",
@@ -28717,7 +28722,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13065
+      "UsersEstimate": 13066
     },
     {
       "ID": "GearUp",
@@ -28813,7 +28818,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13065
+      "UsersEstimate": 13066
     },
     {
       "ID": "NoGimmicks",
@@ -28877,7 +28882,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17420
+      "UsersEstimate": 17421
     },
     {
       "ID": "Rollin",
@@ -28909,7 +28914,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17420
+      "UsersEstimate": 17421
     },
     {
       "ID": "TanukiTime",
@@ -28981,7 +28986,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13065
+      "UsersEstimate": 13066
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -29012,15 +29017,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 217755,
+      "Progressed": 217761,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-05T11:59:35.3446474+00:00",
-  "LastChanged_Achievements": "2023-12-06T18:06:35.5248045+00:00",
+  "LastChanged_Achievements": "2023-12-06T19:08:02.3859257+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.5350998+00:00",
-  "LastUpdate_Ratings": "2023-12-06T18:00:10.3234605+00:00",
-  "LastUpdate_Achievements": "2023-12-06T18:06:35.5249984+00:00"
+  "LastUpdate_Ratings": "2023-12-06T19:01:20.1286304+00:00",
+  "LastUpdate_Achievements": "2023-12-06T19:08:02.3860907+00:00"
 }

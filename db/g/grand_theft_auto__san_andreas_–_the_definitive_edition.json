@@ -4,11 +4,11 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 494,
   "Ranking_Popularity": 228,
-  "Ranking_PopularitySum": 299,
+  "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1601,18 +1601,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 698,
       "NumberOfAwardsMax": 423
+    },
+    {
+      "Time": "2023-12-06T18:59:09.379742+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 700,
+      "NumberOfAwardsMax": 425
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 698,
-  "NumberOfAwardsMax": 423,
+  "NumberOfAwards": 700,
+  "NumberOfAwardsMax": 425,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 423
+      "Count": 425
     },
     {
       "Text": "This game is Relaxing",
@@ -1669,9 +1675,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 13869,
+  "EOS_Progressed": 13870,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -15489,6 +15495,11 @@
       "Time": "2023-12-06T17:09:13.5649245+00:00",
       "NumProgressed": 13869,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-06T19:10:05.1233038+00:00",
+      "NumProgressed": 13870,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15612,7 +15623,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ACH16",
@@ -15644,7 +15655,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ACH20",
@@ -15779,16 +15790,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13869,
+      "Progressed": 13870,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-05T23:57:53.2421683+00:00",
-  "LastChanged_Achievements": "2023-12-06T18:09:20.8266643+00:00",
+  "LastChanged": "2023-12-06T18:59:09.3797418+00:00",
+  "LastChanged_Achievements": "2023-12-06T19:10:05.1233035+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:45.2117848+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:58:41.7140755+00:00",
-  "LastUpdate_Achievements": "2023-12-06T18:09:20.8267857+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:59:09.3797423+00:00",
+  "LastUpdate_Achievements": "2023-12-06T19:10:05.1234008+00:00"
 }

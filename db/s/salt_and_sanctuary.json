@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2838,9 +2838,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 540114,
+  "EOS_Progressed": 540116,
   "EOS_Completed": 1636,
-  "EOS_NewPlayers": 597,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -28213,6 +28213,11 @@
       "Time": "2023-12-06T18:03:42.4052474+00:00",
       "NumProgressed": 540114,
       "NumCompleted": 1636
+    },
+    {
+      "Time": "2023-12-06T19:04:01.1278898+00:00",
+      "NumProgressed": 540116,
+      "NumCompleted": 1636
     }
   ],
   "TotalAchievements": 37,
@@ -28240,7 +28245,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 167435
+      "UsersEstimate": 167436
     },
     {
       "ID": "DEVOTED",
@@ -28280,7 +28285,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 448295
+      "UsersEstimate": 448296
     },
     {
       "ID": "HONED",
@@ -28480,7 +28485,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 345673
+      "UsersEstimate": 345674
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -28496,7 +28501,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91819
+      "UsersEstimate": 91820
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -28519,15 +28524,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 540114,
+      "Progressed": 540116,
       "Completed": 1636
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-29T22:57:54.9181059+00:00",
-  "LastChanged_Achievements": "2023-12-06T18:03:42.4052469+00:00",
+  "LastChanged_Achievements": "2023-12-06T19:04:01.1278893+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:23.0359124+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:57:48.1444404+00:00",
-  "LastUpdate_Achievements": "2023-12-06T18:03:42.4054263+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:57:50.0542415+00:00",
+  "LastUpdate_Achievements": "2023-12-06T19:04:01.1280212+00:00"
 }

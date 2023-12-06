@@ -5,21 +5,21 @@ Rating: 4.67 (Ranked 277)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,680 |
-| On the Top Step | 89.00% | ~5,378 |
+| Getting on the Step | 94.00% | ~5,681 |
+| On the Top Step | 89.00% | ~5,379 |
 | Setting up for Success | 78.00% | ~4,714 |
 | Team Orders | 76.00% | ~4,593 |
-| Engineer | 56.00% | ~3,384 |
-| Familiar Faces | 49.00% | ~2,961 |
+| Engineer | 56.00% | ~3,385 |
+| Familiar Faces | 49.00% | ~2,962 |
 | Sharing the Love | 44.00% | ~2,659 |
-| Going the Extra Mile | 43.00% | ~2,598 |
+| Going the Extra Mile | 43.00% | ~2,599 |
 | Hitting a Season | 42.00% | ~2,538 |
 | A Dozen Pieces | 35.00% | ~2,115 |
 | Challenge Yourself | 34.00% | ~2,055 |
 | Making History | 32.00% | ~1,934 |
-| Network Success | 29.00% | ~1,752 |
+| Network Success | 29.00% | ~1,753 |
 | Writing a new Chapter | 26.00% | ~1,571 |
-| Spring Cleaning | 24.00% | ~1,450 |
+| Spring Cleaning | 24.00% | ~1,451 |
 | Reduce | 21.00% | ~1,269 |
 | Ups and Downs | 21.00% | ~1,269 |
 | Crucial Combo | 20.00% | ~1,209 |
@@ -29,7 +29,7 @@ Rating: 4.67 (Ranked 277)
 | Proving Them Wrong | 17.00% | ~1,027 |
 | Oil and Water | 16.00% | ~967 |
 | Hitting a Bullseye | 16.00% | ~967 |
-| Lightning Round the World | 15.00% | ~906 |
+| Lightning Round the World | 15.00% | ~907 |
 | Spinning Around | 14.00% | ~846 |
 | Eagle Eye | 13.00% | ~786 |
 | All in a Weekend's Work | 13.00% | ~786 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 277)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,043 (Ranked 186)  
+Progressed: 6,044 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-03 | 6,025 | 0 |
 | 2023-12-04 | 6,034 | 0 |
 | 2023-12-05 | 6,039 | 0 |
-| 2023-12-06 | 6,043 | 0 |
+| 2023-12-06 | 6,044 | 0 |
 ## Awards
 Max (Diverse Characters): 32  (Ranked 495)  
 Sum: 152 (Ranked 429)  

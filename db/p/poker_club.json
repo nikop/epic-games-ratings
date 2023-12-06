@@ -997,9 +997,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 541698,
+  "EOS_Progressed": 541702,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1276,
+  "EOS_NewPlayers": 1273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27132,6 +27132,11 @@
       "Time": "2023-12-06T18:08:34.2602392+00:00",
       "NumProgressed": 541698,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-06T19:08:40.4589748+00:00",
+      "NumProgressed": 541702,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -27143,7 +27148,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 146258
+      "UsersEstimate": 146260
     },
     {
       "ID": "Backdoor",
@@ -27151,7 +27156,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 135424
+      "UsersEstimate": 135426
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -27223,7 +27228,7 @@
       "Name": "Club Legend",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 2708
+      "UsersEstimate": 2709
     },
     {
       "ID": "Clubman",
@@ -27239,7 +27244,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216679
+      "UsersEstimate": 216681
     },
     {
       "ID": "DeadlyAssassin",
@@ -27295,7 +27300,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 227513
+      "UsersEstimate": 227515
     },
     {
       "ID": "HoldingYourOwn",
@@ -27391,7 +27396,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 411690
+      "UsersEstimate": 411694
     },
     {
       "ID": "ProPlayer",
@@ -27502,7 +27507,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 541698,
+      "Progressed": 541702,
       "Completed": 2
     }
   ],
@@ -27510,8 +27515,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-12-04T21:01:55.0231248+00:00",
-  "LastChanged_Achievements": "2023-12-06T18:08:34.2602387+00:00",
+  "LastChanged_Achievements": "2023-12-06T19:08:40.4589741+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:11.118442+00:00",
-  "LastUpdate_Ratings": "2023-12-06T18:00:48.3198471+00:00",
-  "LastUpdate_Achievements": "2023-12-06T18:08:34.2604122+00:00"
+  "LastUpdate_Ratings": "2023-12-06T19:02:56.2464388+00:00",
+  "LastUpdate_Achievements": "2023-12-06T19:08:40.4591164+00:00"
 }

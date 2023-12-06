@@ -1431,7 +1431,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6235,
+  "EOS_Progressed": 6236,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -13936,6 +13936,11 @@
       "Time": "2023-12-06T15:09:33.3496929+00:00",
       "NumProgressed": 6235,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-06T19:10:31.2114205+00:00",
+      "NumProgressed": 6236,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14067,7 +14072,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -14107,7 +14112,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4676
+      "UsersEstimate": 4677
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14139,7 +14144,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_MYWAYS",
@@ -14177,9 +14182,9 @@
       "ID": "ACH_SURVIVOR",
       "SetID": "1p8ab95",
       "Name": "Survivor",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -14203,7 +14208,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14227,7 +14232,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -14251,7 +14256,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -14266,15 +14271,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6235,
+      "Progressed": 6236,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-04T06:58:37.0670736+00:00",
-  "LastChanged_Achievements": "2023-12-06T18:09:39.5845914+00:00",
+  "LastChanged_Achievements": "2023-12-06T19:10:31.2114203+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:34.7926512+00:00",
-  "LastUpdate_Ratings": "2023-12-06T18:00:14.5346715+00:00",
-  "LastUpdate_Achievements": "2023-12-06T18:09:39.5846869+00:00"
+  "LastUpdate_Ratings": "2023-12-06T19:01:25.9417336+00:00",
+  "LastUpdate_Achievements": "2023-12-06T19:10:31.2114952+00:00"
 }

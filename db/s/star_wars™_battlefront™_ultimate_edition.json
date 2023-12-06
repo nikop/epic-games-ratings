@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1592,
+  "EOS_Progressed": 1593,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -4734,6 +4734,11 @@
       "Time": "2023-12-06T14:11:01.4008147+00:00",
       "NumProgressed": 1592,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T19:10:35.8530058+00:00",
+      "NumProgressed": 1593,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4778,7 +4783,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_14",
@@ -4970,7 +4975,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "achievement_36",
@@ -5010,15 +5015,15 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 812
+      "UsersEstimate": 796
     },
     {
       "ID": "achievement_41",
@@ -5249,13 +5254,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1592,
+      "Progressed": 1593,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1592,
+      "Progressed": 1593,
       "Completed": 1
     }
   ],
@@ -5263,8 +5268,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-06T18:09:43.4454689+00:00",
+  "LastChanged_Achievements": "2023-12-06T19:10:35.8530053+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:57:51.5723337+00:00",
-  "LastUpdate_Achievements": "2023-12-06T18:09:43.4455693+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:57:55.1705997+00:00",
+  "LastUpdate_Achievements": "2023-12-06T19:10:35.8530668+00:00"
 }

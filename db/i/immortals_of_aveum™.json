@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -1573,9 +1573,9 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_13",
@@ -1934,8 +1934,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-01T00:00:32.3447469+00:00",
-  "LastChanged_Achievements": "2023-12-06T18:09:06.0389863+00:00",
+  "LastChanged_Achievements": "2023-12-06T19:09:45.1745475+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.8149364+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:59:16.9070754+00:00",
-  "LastUpdate_Achievements": "2023-12-06T18:09:06.0390386+00:00"
+  "LastUpdate_Ratings": "2023-12-06T19:00:02.6134497+00:00",
+  "LastUpdate_Achievements": "2023-12-06T19:09:45.1745876+00:00"
 }

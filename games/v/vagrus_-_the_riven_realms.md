@@ -42,6 +42,7 @@
 | Talent Nurtured | 2.00% | ~4 |
 | Huntress Unbound | 2.00% | ~4 |
 | Business As Usual | 2.00% | ~4 |
+| Legacy of a Mercenary | 2.00% | ~4 |
 | Delayed | 2.00% | ~4 |
 | A Real Battle | 2.00% | ~4 |
 | Merchant Lord | 2.00% | ~4 |
@@ -53,7 +54,6 @@
 | Adept | 1.00% | ~2 |
 | Embellished | 1.00% | ~2 |
 | Ever After | 1.00% | ~2 |
-| Legacy of a Mercenary | 1.00% | ~2 |
 | Trailblazer | 1.00% | ~2 |
 | Moving At Odd Angles | 1.00% | ~2 |
 | Escort | 1.00% | ~2 |

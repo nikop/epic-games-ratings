@@ -56,10 +56,10 @@
 | Problems of cyborgs | 36.00% | ~130 |
 | Not little hacker | 36.00% | ~130 |
 | Absolute Champion! | 36.00% | ~130 |
+| Your own way | 36.00% | ~130 |
 | The lonesome road | 35.00% | ~126 |
 | Key memories | 35.00% | ~126 |
 | The heart of the Resistance | 35.00% | ~126 |
-| Your own way | 35.00% | ~126 |
 | Trap disarmed | 34.00% | ~122 |
 | Another world | 34.00% | ~122 |
 | Keep nature safe | 34.00% | ~122 |

@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~86,959 |
-| Alt+F4 | 9.00% | ~21,740 |
-| Where's that freaking Dwarf? | 8.00% | ~19,324 |
-| Déjà vu | 7.00% | ~16,909 |
+| Sowwy! | 36.00% | ~86,963 |
+| Alt+F4 | 9.00% | ~21,741 |
+| Where's that freaking Dwarf? | 8.00% | ~19,325 |
+| Déjà vu | 7.00% | ~16,910 |
 | A beer, two curses, three companions | 5.00% | ~12,078 |
 | Sock! SOCK! | 5.00% | ~12,078 |
 | GG EZ | 5.00% | ~12,078 |
 | Speedrun | 5.00% | ~12,078 |
-| DM intervention | 4.00% | ~9,662 |
-| Fireproof Wizardess | 4.00% | ~9,662 |
+| DM intervention | 4.00% | ~9,663 |
+| Fireproof Wizardess | 4.00% | ~9,663 |
 | Livin' in a dwarven paradise | 3.00% | ~7,247 |
 | Way of the Wimp | 3.00% | ~7,247 |
 | The plot thickens... At the tavern | 3.00% | ~7,247 |
@@ -45,7 +45,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,416 |
 | Material Girl | 1.00% | ~2,416 |
 | In Navalu's footsteps | 0.90% | ~2,174 |
-| Lëgal Legend | 0.80% | ~1,932 |
+| Lëgal Legend | 0.80% | ~1,933 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,691 |
 | We come in peace | 0.70% | ~1,691 |
 | Holistic Adventuring Party | 0.60% | ~1,449 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,553 (Ranked 63)  
+Progressed: 241,565 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,16 +284,16 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-03 | 241,176 | 7 |
 | 2023-12-04 | 241,332 | 7 |
 | 2023-12-05 | 241,460 | 7 |
-| 2023-12-06 | 241,553 | 7 |
+| 2023-12-06 | 241,565 | 7 |
 ## Awards
 Max (Character Customization): 242  (Ranked 272)  
-Sum: 489 (Ranked 329)  
+Sum: 490 (Ranked 329)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 242 |
 | This game is Relaxing | 39 |
-| This game is Great for Beginners | 34 |
+| This game is Great for Beginners | 35 |
 | This game has Amazing Storytelling | 32 |
 | This game is Highly Recommended | 31 |
 | This game has Quickly Understood Controls | 31 |
@@ -493,3 +493,4 @@ Diff (max vs sum): -57
 | 2023-12-03 | 4.58 | - | 241 | 487 |
 | 2023-12-04 | 4.58 | - | 241 | 488 |
 | 2023-12-05 | 4.58 | - | 242 | 489 |
+| 2023-12-06 | 4.58 | - | 242 | 490 |
