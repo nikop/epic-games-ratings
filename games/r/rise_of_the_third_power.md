@@ -21,7 +21,7 @@
 | Geared | 17.00% | ~25 |
 | Master Crafter | 13.00% | ~19 |
 | Master Trader | 13.00% | ~19 |
-| Mysteries of Rin | 12.00% | ~18 |
+| Mysteries of Rin | 13.00% | ~19 |
 | Patience | 11.00% | ~16 |
 | Empyrean Champion | 10.00% | ~15 |
 | Master Tactician | 3.00% | ~4 |

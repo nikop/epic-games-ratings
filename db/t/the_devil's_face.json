@@ -3,9 +3,9 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 413,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 577,
-  "EOS_Completed": 6,
+  "EOS_Completed": 7,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.04,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
     {
       "Time": "2023-06-26T18:04:48.9323975+00:00",
@@ -2504,6 +2504,11 @@
       "Time": "2023-12-05T01:59:58.9708348+00:00",
       "NumProgressed": 577,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-06T13:10:39.5416135+00:00",
+      "NumProgressed": 577,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2545,9 +2550,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "296pn27",
       "Name": "Hubris",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -2627,13 +2632,13 @@
       "ID": "296pn27",
       "IsBase": true,
       "Progressed": 577,
-      "Completed": 6
+      "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-06T12:04:06.6367019+00:00",
+  "LastChanged_Achievements": "2023-12-06T13:10:39.5416129+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:26.0831223+00:00",
-  "LastUpdate_Ratings": "2023-12-06T11:57:32.3800482+00:00",
-  "LastUpdate_Achievements": "2023-12-06T12:04:06.6367261+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:03:39.2634524+00:00",
+  "LastUpdate_Achievements": "2023-12-06T13:10:39.5416389+00:00"
 }

@@ -24,12 +24,12 @@ Rating: 3.45 (Ranked 1,052)
 | Sic Transit Umbra | 1.00% | ~18 |
 | Radio Silence | 1.00% | ~18 |
 | Bell-ringer | 1.00% | ~18 |
+| Silence Is Golden | 1.00% | ~18 |
 | Good Morning | 1.00% | ~18 |
 | From the Shadows | 1.00% | ~18 |
 | Heart Attack | 1.00% | ~18 |
 | Skin of Their Teeth | 1.00% | ~18 |
 | Harvest’s End | 1.00% | ~18 |
-| Silence Is Golden | 0.90% | ~16 |
 | Helping Hand | 0.80% | ~14 |
 | Contingency Plans | 0.70% | ~12 |
 | Nice Try | 0.70% | ~12 |

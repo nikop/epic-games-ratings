@@ -2,9 +2,9 @@
   "ID": "d0499205da1f4e13a160607e61c02aec",
   "Name": "Cursed Castilla (Maldita Castilla EX)",
   "ProductSlug": "cursed-castilla-maldita-castilla-ex-adaa43",
-  "Ranking_EOS_Progress": 469,
+  "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-11-17T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -165,6 +165,11 @@
       "Time": "2023-11-29T21:09:38.7218592+00:00",
       "NumProgressed": 72,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T13:15:53.937845+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 16,
@@ -174,7 +179,7 @@
       "ID": "cc_achievement_01",
       "SetID": "177a8ba",
       "Name": "Pioneer",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
       "UsersEstimate": 20
     },
@@ -182,7 +187,7 @@
       "ID": "cc_achievement_02",
       "SetID": "177a8ba",
       "Name": "Collector",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -214,7 +219,7 @@
       "ID": "cc_achievement_06",
       "SetID": "177a8ba",
       "Name": "St. Martin",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -303,7 +308,7 @@
     {
       "ID": "177a8ba",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 0
     }
   ],
@@ -311,8 +316,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.7963027+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.4421841+00:00",
   "LastChanged": "2023-03-31T05:57:25.7963028+00:00",
-  "LastChanged_Achievements": "2023-12-06T12:09:13.7835474+00:00",
+  "LastChanged_Achievements": "2023-12-06T13:15:53.9378441+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:36.4223444+00:00",
-  "LastUpdate_Ratings": "2023-12-06T12:00:16.0812892+00:00",
-  "LastUpdate_Achievements": "2023-12-06T12:09:13.7835582+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:06:58.2758876+00:00",
+  "LastUpdate_Achievements": "2023-12-06T13:15:53.9378567+00:00"
 }

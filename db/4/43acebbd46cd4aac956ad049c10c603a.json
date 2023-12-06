@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -205,9 +205,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 881,
+  "EOS_Progressed": 883,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2120,6 +2120,11 @@
       "Time": "2023-12-06T12:05:50.6532486+00:00",
       "NumProgressed": 881,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T13:12:42.8650729+00:00",
+      "NumProgressed": 883,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2226,9 +2231,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 115
     },
     {
       "ID": "EasternWetlands",
@@ -2316,7 +2321,7 @@
       "Name": "Lord of the Files",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LostMarshes",
@@ -2338,9 +2343,9 @@
       "ID": "Mnemosyne",
       "SetID": "1n308hc",
       "Name": "Mnemosyne",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MuseumExplorer",
@@ -2348,7 +2353,7 @@
       "Name": "Museum Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "MuseumVisitor",
@@ -2396,7 +2401,7 @@
       "Name": "Persistent",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "PrometheusUnbound",
@@ -2420,7 +2425,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "RenaissanceRobot",
@@ -2444,7 +2449,7 @@
       "Name": "Signatory",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "SingleRod",
@@ -2492,7 +2497,7 @@
       "Name": "The All-Gifted",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2603,7 +2608,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 881,
+      "Progressed": 883,
       "Completed": 1
     }
   ],
@@ -2611,8 +2616,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-05T18:59:22.7453339+00:00",
-  "LastChanged_Achievements": "2023-12-06T12:05:50.6532482+00:00",
+  "LastChanged_Achievements": "2023-12-06T13:12:42.8650721+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-06T11:59:12.6942943+00:00",
-  "LastUpdate_Achievements": "2023-12-06T12:05:50.6533189+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:05:41.236966+00:00",
+  "LastUpdate_Achievements": "2023-12-06T13:12:42.8651193+00:00"
 }

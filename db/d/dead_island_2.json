@@ -7213,18 +7213,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 12198,
       "NumberOfAwardsMax": 7943
+    },
+    {
+      "Time": "2023-12-06T13:04:07.3737036+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12223,
+      "NumberOfAwardsMax": 7968
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12198,
-  "NumberOfAwardsMax": 7943,
+  "NumberOfAwards": 12223,
+  "NumberOfAwardsMax": 7968,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7943
+      "Count": 7968
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7275,9 +7281,9 @@
       "Count": 514
     }
   ],
-  "EOS_Progressed": 730819,
+  "EOS_Progressed": 730842,
   "EOS_Completed": 2465,
-  "EOS_NewPlayers": 3251,
+  "EOS_NewPlayers": 3254,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33640,6 +33646,11 @@
       "Time": "2023-12-06T12:08:15.4382862+00:00",
       "NumProgressed": 730819,
       "NumCompleted": 2465
+    },
+    {
+      "Time": "2023-12-06T13:14:44.6362377+00:00",
+      "NumProgressed": 730842,
+      "NumCompleted": 2465
     }
   ],
   "TotalAchievements": 51,
@@ -33651,7 +33662,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -33667,7 +33678,7 @@
       "Name": "Git Gutte!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "ach_anger_management",
@@ -33707,7 +33718,7 @@
       "Name": "Bookworm",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "ach_break_a_leg",
@@ -33715,7 +33726,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "ach_contender",
@@ -33771,7 +33782,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -33795,7 +33806,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -33803,7 +33814,7 @@
       "Name": "Friends Like These",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "ach_hotel_california",
@@ -33811,7 +33822,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "ach_impressive_aim",
@@ -33851,7 +33862,7 @@
       "Name": "Apex Predator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "ach_knowledgeable",
@@ -33907,7 +33918,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6577
+      "UsersEstimate": 6578
     },
     {
       "ID": "ach_secrets_of_la",
@@ -33923,7 +33934,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "ach_star_performance",
@@ -33931,7 +33942,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "ach_survival_expert",
@@ -33971,7 +33982,7 @@
       "Name": "This is My Weapon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -33987,7 +33998,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "ach_well_known_survivor",
@@ -34011,7 +34022,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ach_dark_magic",
@@ -34019,7 +34030,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "ach_gardening_tools",
@@ -34035,7 +34046,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -34051,29 +34062,29 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 730819,
+      "Progressed": 730842,
       "Completed": 2465
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 56361,
-      "Completed": 36635
+      "Progressed": 56384,
+      "Completed": 36636
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-06T11:57:55.200055+00:00",
-  "LastChanged_Achievements": "2023-12-06T12:08:15.4382858+00:00",
+  "LastChanged": "2023-12-06T13:04:07.3737034+00:00",
+  "LastChanged_Achievements": "2023-12-06T13:14:44.6362372+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-06T11:57:55.2000556+00:00",
-  "LastUpdate_Achievements": "2023-12-06T12:08:15.4384816+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:04:07.3737041+00:00",
+  "LastUpdate_Achievements": "2023-12-06T13:14:44.6364219+00:00"
 }

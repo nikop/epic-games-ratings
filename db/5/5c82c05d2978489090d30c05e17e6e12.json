@@ -161,10 +161,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63898,
+  "EOS_Progressed": 63918,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 3858,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 3837,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
@@ -2531,6 +2531,11 @@
       "Time": "2023-12-06T12:04:28.2320159+00:00",
       "NumProgressed": 63898,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-06T13:11:05.0486847+00:00",
+      "NumProgressed": 63918,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2543,7 +2548,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 23642
+      "UsersEstimate": 23650
     },
     {
       "ID": "Achievement_10",
@@ -2559,7 +2564,7 @@
       "Name": "Owls of the Nest",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "Achievement_12",
@@ -2575,7 +2580,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "Achievement_14",
@@ -2615,7 +2620,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "Achievement_19",
@@ -2631,7 +2636,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17252
+      "UsersEstimate": 17258
     },
     {
       "ID": "Achievement_20",
@@ -2663,7 +2668,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "Achievement_24",
@@ -2671,7 +2676,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "Achievement_25",
@@ -2695,7 +2700,7 @@
       "Name": "Critter King",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "Achievement_28",
@@ -2703,7 +2708,7 @@
       "Name": "A Better World",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "Achievement_29",
@@ -2719,7 +2724,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7670
     },
     {
       "ID": "Achievement_30",
@@ -2767,7 +2772,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5112
+      "UsersEstimate": 5113
     },
     {
       "ID": "Achievement_5",
@@ -2775,7 +2780,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3834
+      "UsersEstimate": 3835
     },
     {
       "ID": "Achievement_6",
@@ -2783,7 +2788,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "Achievement_7",
@@ -2814,7 +2819,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 63898,
+      "Progressed": 63918,
       "Completed": 58
     }
   ],
@@ -2822,8 +2827,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-05T13:09:40.3184633+00:00",
-  "LastChanged_Achievements": "2023-12-06T12:04:28.2320156+00:00",
+  "LastChanged_Achievements": "2023-12-06T13:11:05.0486842+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:03:15.0842163+00:00",
-  "LastUpdate_Ratings": "2023-12-06T12:02:40.1668994+00:00",
-  "LastUpdate_Achievements": "2023-12-06T12:04:28.2320561+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:08:53.1858109+00:00",
+  "LastUpdate_Achievements": "2023-12-06T13:11:05.048718+00:00"
 }

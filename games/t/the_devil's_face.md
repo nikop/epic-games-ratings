@@ -16,11 +16,11 @@
 | Holy Nails | 8.00% | ~46 |
 | Flagellation | 8.00% | ~46 |
 | The choice | 5.00% | ~29 |
-| Hubris | 3.00% | ~17 |
+| Hubris | 4.00% | ~23 |
 | Humility | 2.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 577 (Ranked 305)  
-Completed: 6 (1.04%) (Ranked 166)  
+Completed: 7 (1.21%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,3 +147,4 @@ Completed: 6 (1.04%) (Ranked 166)
 | 2023-11-24 | 575 | 6 |
 | 2023-12-03 | 576 | 6 |
 | 2023-12-05 | 577 | 6 |
+| 2023-12-06 | 577 | 7 |

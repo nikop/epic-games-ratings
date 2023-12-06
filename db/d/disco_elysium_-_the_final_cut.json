@@ -1520,9 +1520,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131669,
+  "EOS_Progressed": 131671,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23960,6 +23960,11 @@
       "Time": "2023-12-06T11:08:05.3301273+00:00",
       "NumProgressed": 131669,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-06T13:13:23.583894+00:00",
+      "NumProgressed": 131671,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24003,7 +24008,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23700
+      "UsersEstimate": 23701
     },
     {
       "ID": "ACH_COP_BAD",
@@ -24051,7 +24056,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36867
+      "UsersEstimate": 36868
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -24083,7 +24088,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27650
+      "UsersEstimate": 27651
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -24290,15 +24295,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131669,
+      "Progressed": 131671,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-04T18:59:31.8633309+00:00",
-  "LastChanged_Achievements": "2023-12-06T12:06:24.9756923+00:00",
+  "LastChanged_Achievements": "2023-12-06T13:13:23.5838934+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:21.910323+00:00",
-  "LastUpdate_Ratings": "2023-12-06T11:59:46.9330209+00:00",
-  "LastUpdate_Achievements": "2023-12-06T12:06:24.9758241+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:06:23.3044951+00:00",
+  "LastUpdate_Achievements": "2023-12-06T13:13:23.5840189+00:00"
 }

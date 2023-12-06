@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 961,
+  "EOS_Progressed": 962,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3684,6 +3684,11 @@
       "Time": "2023-12-05T20:09:30.0903464+00:00",
       "NumProgressed": 961,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T13:15:56.8665805+00:00",
+      "NumProgressed": 962,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3711,7 +3716,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "BigPlane",
@@ -3727,7 +3732,7 @@
       "Name": "Budget Flight",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "Calculated",
@@ -3743,7 +3748,7 @@
       "Name": "That Was Close!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Creator",
@@ -3759,7 +3764,7 @@
       "Name": "Debtor",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -3783,7 +3788,7 @@
       "Name": "Fifty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "First",
@@ -3895,7 +3900,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "NoTimeForModernization",
@@ -3967,7 +3972,7 @@
       "Name": "Resource Economy",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "Restructuring",
@@ -4030,14 +4035,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 961,
+      "Progressed": 962,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-06T12:09:16.1560836+00:00",
+  "LastChanged_Achievements": "2023-12-06T13:15:56.8665801+00:00",
   "LastUpdate_AppInfo": "2023-12-05T18:57:05.7032742+00:00",
-  "LastUpdate_Ratings": "2023-12-06T11:58:01.4390639+00:00",
-  "LastUpdate_Achievements": "2023-12-06T12:09:16.1561174+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:04:14.6975503+00:00",
+  "LastUpdate_Achievements": "2023-12-06T13:15:56.8666288+00:00"
 }

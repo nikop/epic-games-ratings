@@ -5,22 +5,22 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,691 |
-| Pork Chopped | 3.00% | ~1,691 |
-| Dr. Reed, I Presume? | 2.00% | ~14,616 |
-| Git Gutte! | 2.00% | ~14,616 |
-| Bookworm | 2.00% | ~14,616 |
-| Break A Leg | 2.00% | ~14,616 |
-| Coup de Grâce | 2.00% | ~14,616 |
-| Hazardous Materials | 2.00% | ~14,616 |
-| Friends Like These | 2.00% | ~14,616 |
-| Hotel California | 2.00% | ~14,616 |
-| Apex Predator | 2.00% | ~14,616 |
-| Stacking the Deck | 2.00% | ~14,616 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,616 |
-| This is My Weapon | 2.00% | ~14,616 |
-| Welcome To Hell-A | 2.00% | ~14,616 |
-| One of Us | 2.00% | ~1,127 |
+| Whatever It Takes | 3.00% | ~1,692 |
+| Pork Chopped | 3.00% | ~1,692 |
+| Dr. Reed, I Presume? | 2.00% | ~14,617 |
+| Git Gutte! | 2.00% | ~14,617 |
+| Bookworm | 2.00% | ~14,617 |
+| Break A Leg | 2.00% | ~14,617 |
+| Coup de Grâce | 2.00% | ~14,617 |
+| Hazardous Materials | 2.00% | ~14,617 |
+| Friends Like These | 2.00% | ~14,617 |
+| Hotel California | 2.00% | ~14,617 |
+| Apex Predator | 2.00% | ~14,617 |
+| Stacking the Deck | 2.00% | ~14,617 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,617 |
+| This is My Weapon | 2.00% | ~14,617 |
+| Welcome To Hell-A | 2.00% | ~14,617 |
+| One of Us | 2.00% | ~1,128 |
 | Making Your Mark | 1.00% | ~7,308 |
 | Anger Management | 1.00% | ~7,308 |
 | Perks of the Job | 1.00% | ~7,308 |
@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 529)
 | I Am the Resurrection | 1.00% | ~7,308 |
 | Max Headroom | 1.00% | ~7,308 |
 | Our True Nature | 1.00% | ~7,308 |
-| Down with the Sickness | 0.90% | ~6,577 |
+| Down with the Sickness | 0.90% | ~6,578 |
 | Not Even My Final Form | 0.70% | ~5,116 |
 | Jumbo Keyring | 0.70% | ~5,116 |
 | Go, Bobcats! | 0.70% | ~5,116 |
@@ -50,14 +50,14 @@ Rating: 4.54 (Ranked 529)
 | Sole Survivor | 0.40% | ~2,923 |
 | Gore Horse | 0.40% | ~2,923 |
 | Sharpest Tool in the Box | 0.40% | ~2,923 |
-| Top That, Tisha! | 0.40% | ~225 |
+| Top That, Tisha! | 0.40% | ~226 |
 | Survival Skills | 0.20% | ~1,462 |
 | Lawn and Order | 0.20% | ~113 |
 | Donk! | 0.10% | ~731 |
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,819 (Ranked 21)  
+Progressed: 730,842 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,14 +287,14 @@ Completed: 2,465 (0.34%) (Ranked 232)
 | 2023-12-03 | 729,822 | 2,461 |
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
-| 2023-12-06 | 730,819 | 2,465 |
+| 2023-12-06 | 730,842 | 2,465 |
 ## Awards
-Max (Great Boss Battles): 7,943  (Ranked 49)  
-Sum: 12,198 (Ranked 82)  
+Max (Great Boss Battles): 7,968  (Ranked 49)  
+Sum: 12,223 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,943 |
+| This game has Great Boss Battles | 7,968 |
 | This game is Great for Beginners | 617 |
 | This game has Diverse Characters | 581 |
 | This game has Quickly Understood Controls | 553 |
@@ -535,4 +535,4 @@ Diff (max vs sum): -33
 | 2023-12-03 | 4.54 | 7,892 | 12,110 |
 | 2023-12-04 | 4.54 | 7,915 | 12,148 |
 | 2023-12-05 | 4.54 | 7,943 | 12,192 |
-| 2023-12-06 | 4.54 | 7,943 | 12,198 |
+| 2023-12-06 | 4.54 | 7,968 | 12,223 |

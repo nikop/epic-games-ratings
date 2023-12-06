@@ -115,7 +115,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 748,
+  "EOS_Progressed": 749,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -1820,6 +1820,11 @@
       "Time": "2023-12-05T22:09:32.6554835+00:00",
       "NumProgressed": 748,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T13:15:53.2344611+00:00",
+      "NumProgressed": 749,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1840,7 +1845,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_11",
@@ -1896,7 +1901,7 @@
       "Name": "Your first time?",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_18",
@@ -1918,9 +1923,9 @@
       "ID": "achievement_2",
       "SetID": "jnappp",
       "Name": "Team Principal",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 583
+      "UsersEstimate": 577
     },
     {
       "ID": "achievement_20",
@@ -2016,7 +2021,7 @@
       "Name": "NEW PB!",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_8",
@@ -2039,7 +2044,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 748,
+      "Progressed": 749,
       "Completed": 0
     }
   ],
@@ -2047,8 +2052,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-05T22:59:34.3672258+00:00",
-  "LastChanged_Achievements": "2023-12-06T12:09:13.1658531+00:00",
+  "LastChanged_Achievements": "2023-12-06T13:15:53.2344607+00:00",
   "LastUpdate_AppInfo": "2023-12-05T21:56:59.3509515+00:00",
-  "LastUpdate_Ratings": "2023-12-06T12:00:36.7852629+00:00",
-  "LastUpdate_Achievements": "2023-12-06T12:09:13.1658855+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:07:23.7805674+00:00",
+  "LastUpdate_Achievements": "2023-12-06T13:15:53.2344884+00:00"
 }

@@ -7,8 +7,8 @@ Number of Ratings: 90  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Ducks in a Row, Fish in a Barrel | 15.00% | ~3 |
-| Rock of the Bay | 10.00% | ~2 |
-| Mash Machine | 5.00% | ~1 |
+| Rock of the Bay | 15.00% | ~3 |
+| Mash Machine | 10.00% | ~2 |
 | I Look Up As I Walk to Takoshima | 5.00% | ~1 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 5.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |

@@ -36,7 +36,7 @@ Rating: 3.82 (Ranked 1,038)
 | Hardcore Gamer | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 575 (Ranked 306)  
-Completed: 6 (1.04%) (Ranked 166)  
+Completed: 6 (1.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

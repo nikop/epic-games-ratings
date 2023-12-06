@@ -25,9 +25,9 @@ Rating: 4.57 (Ranked 478)
 | Power Outage | 8.00% | ~273 |
 | Convenient Transport | 8.00% | ~273 |
 | Please Make it Stop! | 8.00% | ~273 |
-| Sightseeing | 7.00% | ~238 |
-| Necessary Enhancement | 7.00% | ~238 |
-| From the Past | 7.00% | ~238 |
+| Sightseeing | 7.00% | ~239 |
+| Necessary Enhancement | 7.00% | ~239 |
+| From the Past | 7.00% | ~239 |
 | Access Granted | 6.00% | ~204 |
 | All in Good Health | 6.00% | ~204 |
 | Oats | 5.00% | ~170 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 478)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,407 (Ranked 207)  
+Progressed: 3,408 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 0 (0.00%) (Ranked 369)
 | 2023-12-03 | 3,395 | 0 |
 | 2023-12-04 | 3,400 | 0 |
 | 2023-12-05 | 3,405 | 0 |
-| 2023-12-06 | 3,407 | 0 |
+| 2023-12-06 | 3,408 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

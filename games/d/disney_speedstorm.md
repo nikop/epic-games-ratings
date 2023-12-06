@@ -5,24 +5,24 @@ Rating: 4.39 (Ranked 752)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~39,437 |
-| IT MAKES BOOM! | 7.00% | ~23,005 |
-| EXTRA BOOST | 5.00% | ~16,432 |
-| PROTECTED | 4.00% | ~13,146 |
-| PRO | 4.00% | ~13,146 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,859 |
-| AGGRESSIVE RACER | 3.00% | ~9,859 |
-| A TIGER'S FEAR | 2.00% | ~6,573 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,286 |
-| TRAINING HARD | 1.00% | ~3,286 |
-| BE OUR GUEST | 1.00% | ~3,286 |
-| ACE SPEEDSTER | 1.00% | ~3,286 |
-| MASTER | 1.00% | ~3,286 |
+| ROOKIE | 12.00% | ~39,442 |
+| IT MAKES BOOM! | 7.00% | ~23,008 |
+| EXTRA BOOST | 5.00% | ~16,434 |
+| PROTECTED | 4.00% | ~13,147 |
+| PRO | 4.00% | ~13,147 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,860 |
+| AGGRESSIVE RACER | 3.00% | ~9,860 |
+| A TIGER'S FEAR | 2.00% | ~6,574 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,287 |
+| TRAINING HARD | 1.00% | ~3,287 |
+| BE OUR GUEST | 1.00% | ~3,287 |
+| ACE SPEEDSTER | 1.00% | ~3,287 |
+| MASTER | 1.00% | ~3,287 |
 | RELEASE THE KRAKEN | 0.90% | ~2,958 |
 | FRIENDLY | 0.90% | ~2,958 |
 | LEGENDARY HERO | 0.90% | ~2,958 |
 | DEFEAT OUR CHAMPION | 0.80% | ~2,629 |
-| THE EYE OF THE HUNTER | 0.70% | ~2,300 |
+| THE EYE OF THE HUNTER | 0.70% | ~2,301 |
 | EXPERIENCED CREW | 0.60% | ~1,972 |
 | ACE BRAWLER | 0.50% | ~1,643 |
 | ACE DEFENDER | 0.50% | ~1,643 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 752)
 | ACE TRICKSTER | 0.40% | ~1,315 |
 | PERFECTLY POISED | 0.30% | ~986 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 328,639 (Ranked 51)  
+Progressed: 328,681 (Ranked 51)  
 Completed: 488 (0.15%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 488 (0.15%) (Ranked 273)
 | 2023-12-03 | 325,453 | 446 |
 | 2023-12-04 | 326,987 | 461 |
 | 2023-12-05 | 328,188 | 482 |
-| 2023-12-06 | 328,639 | 488 |
+| 2023-12-06 | 328,681 | 488 |
 ## Awards
 Max (Great for Beginners): 111  (Ranked 350)  
 Sum: 773 (Ranked 284)  

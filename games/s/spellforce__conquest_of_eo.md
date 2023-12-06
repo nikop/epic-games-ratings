@@ -56,6 +56,7 @@
 | Silver Drift Hollow Mine | 7.00% | ~3 |
 | Balanced | 7.00% | ~3 |
 | Friend of Grey Dusk Vale | 7.00% | ~3 |
+| Friend of Uram Gor | 7.00% | ~3 |
 | Defeat Raith | 5.00% | ~2 |
 | Crypt of the Revenant | 5.00% | ~2 |
 | Tuscari Sea Portal | 5.00% | ~2 |
@@ -65,7 +66,6 @@
 | Breaking the circle | 5.00% | ~2 |
 | A Monopoly of Might | 5.00% | ~2 |
 | Heroes | 5.00% | ~2 |
-| Friend of Uram Gor | 5.00% | ~2 |
 | Misty Coast Dragonbones | 2.00% | ~1 |
 | My Friends! | 2.00% | ~1 |
 | Master Necromancer | 2.00% | ~1 |

@@ -5,18 +5,18 @@ Rating: 4.56 (Ranked 494)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~573 |
-| Don't judge a manhole by its cover | 60.00% | ~458 |
+| Tell me your story | 75.00% | ~574 |
+| Don't judge a manhole by its cover | 60.00% | ~459 |
 | I just love stuff! | 42.00% | ~321 |
 | Keep 'em coming! | 42.00% | ~321 |
 | The things they print nowadays | 39.00% | ~298 |
-| Big Spender | 38.00% | ~290 |
+| Big Spender | 38.00% | ~291 |
 | That's gotta hurt | 36.00% | ~275 |
 | I think it's broke | 26.00% | ~199 |
 | The Ann Flores Combo Experience | 26.00% | ~199 |
 | Club Star | 25.00% | ~191 |
-| Fire in the hole! | 21.00% | ~160 |
-| Omnipotence | 20.00% | ~153 |
+| Fire in the hole! | 21.00% | ~161 |
+| Omnipotence | 19.00% | ~145 |
 | The Warlord | 19.00% | ~145 |
 | You are the One | 19.00% | ~145 |
 | Deadly Kombationem | 18.00% | ~138 |
@@ -27,9 +27,9 @@ Rating: 4.56 (Ranked 494)
 | 1+1>2 | 9.00% | ~69 |
 | This can't be right… | 8.00% | ~61 |
 | Welcome home, 06 | 8.00% | ~61 |
-| I'm walking here! | 7.00% | ~53 |
-| So Fresh and So clean clean | 7.00% | ~53 |
-| Supreme Bartender Ann | 7.00% | ~53 |
+| I'm walking here! | 7.00% | ~54 |
+| So Fresh and So clean clean | 7.00% | ~54 |
+| Supreme Bartender Ann | 7.00% | ~54 |
 | Clarity of Mind | 6.00% | ~46 |
 | I feel secure, contained & protected | 6.00% | ~46 |
 | Science, it works! | 6.00% | ~46 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 494)
 | Love me like I love my posters | 0.90% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 764 (Ranked 282)  
+Progressed: 765 (Ranked 282)  
 Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 0 (0.00%) (Ranked 369)
 | 2023-12-03 | 756 | 0 |
 | 2023-12-04 | 760 | 0 |
 | 2023-12-05 | 761 | 0 |
-| 2023-12-06 | 764 | 0 |
+| 2023-12-06 | 765 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

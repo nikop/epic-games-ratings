@@ -6,7 +6,7 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 98,
-  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79925,
+  "EOS_Progressed": 79927,
   "EOS_Completed": 864,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -25738,6 +25738,11 @@
       "Time": "2023-12-06T12:03:16.4724524+00:00",
       "NumProgressed": 79925,
       "NumCompleted": 864
+    },
+    {
+      "Time": "2023-12-06T13:09:38.9090793+00:00",
+      "NumProgressed": 79927,
+      "NumCompleted": 864
     }
   ],
   "TotalAchievements": 25,
@@ -25773,7 +25778,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "Be Seeing You",
@@ -25789,7 +25794,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14386
+      "UsersEstimate": 14387
     },
     {
       "ID": "Butcher",
@@ -25853,7 +25858,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16784
+      "UsersEstimate": 16785
     },
     {
       "ID": "Meaty",
@@ -25933,7 +25938,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "Vinyl Vibes",
@@ -25948,7 +25953,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79925,
+      "Progressed": 79927,
       "Completed": 864
     }
   ],
@@ -25956,8 +25961,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-06T12:03:16.4724522+00:00",
+  "LastChanged_Achievements": "2023-12-06T13:09:38.9090788+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:32.9169393+00:00",
-  "LastUpdate_Ratings": "2023-12-06T12:00:08.6600645+00:00",
-  "LastUpdate_Achievements": "2023-12-06T12:03:16.472551+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:06:50.2530625+00:00",
+  "LastUpdate_Achievements": "2023-12-06T13:09:38.9092495+00:00"
 }

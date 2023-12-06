@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 28.00% | ~20 |
+| Pioneer | 27.00% | ~20 |
 | Firefighter | 7.00% | ~5 |
-| Collector | 6.00% | ~4 |
-| St. Martin | 6.00% | ~4 |
+| Collector | 5.00% | ~4 |
+| St. Martin | 5.00% | ~4 |
 | Summoner | 4.00% | ~3 |
 | Bad knight | 4.00% | ~3 |
 | Invisible encounter | 3.00% | ~2 |
@@ -21,7 +21,7 @@
 | Runner | 1.00% | ~1 |
 | Legendary knight | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 469)  
+Progressed: 73 (Ranked 468)  
 Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,6 +50,7 @@ Completed: 0 (0.00%) (Ranked 369)
 | 2023-10-31 | 70 | 0 |
 | 2023-11-03 | 71 | 0 |
 | 2023-11-29 | 72 | 0 |
+| 2023-12-06 | 73 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

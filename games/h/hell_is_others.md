@@ -5,19 +5,19 @@ Rating: 4.39 (Ranked 752)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,316 |
+| Survivor | 31.00% | ~80,317 |
 | Predator I | 23.00% | ~59,590 |
-| Fixer I | 10.00% | ~25,908 |
-| A week in Century City | 10.00% | ~25,908 |
+| Fixer I | 10.00% | ~25,909 |
+| A week in Century City | 10.00% | ~25,909 |
 | The Wait | 7.00% | ~18,136 |
 | Green thumb I | 6.00% | ~15,545 |
 | Cleaning Company | 6.00% | ~15,545 |
 | Well-oiled machine | 5.00% | ~12,954 |
 | Saver I | 5.00% | ~12,954 |
-| The Ascent | 4.00% | ~10,363 |
-| Pacifist | 4.00% | ~10,363 |
-| Vandalism | 4.00% | ~10,363 |
-| Capitalist I | 4.00% | ~10,363 |
+| The Ascent | 4.00% | ~10,364 |
+| Pacifist | 4.00% | ~10,364 |
+| Vandalism | 4.00% | ~10,364 |
+| Capitalist I | 4.00% | ~10,364 |
 | Fixer II | 3.00% | ~7,773 |
 | Adrenaline | 3.00% | ~7,773 |
 | By a hair | 2.00% | ~5,182 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 752)
 | Capitalist III | 0.10% | ~259 |
 | Hell Is You | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,085 (Ranked 58)  
+Progressed: 259,088 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,10 +292,10 @@ Completed: 3 (0.00%) (Ranked 369)
 | 2023-12-03 | 259,009 | 3 |
 | 2023-12-04 | 259,050 | 3 |
 | 2023-12-05 | 259,076 | 3 |
-| 2023-12-06 | 259,085 | 3 |
+| 2023-12-06 | 259,088 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 52  (Ranked 429)  
-Sum: 356 (Ranked 354)  
+Sum: 357 (Ranked 354)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -308,7 +308,7 @@ Diff (max vs sum): 75
 | This game has a Competitive Community | 32 |
 | This game has Quickly Understood Controls | 31 |
 | This game has Competitive Players | 29 |
-| This game is Extremely Fun | 24 |
+| This game is Extremely Fun | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -485,3 +485,4 @@ Diff (max vs sum): 75
 | 2023-12-03 | 4.39 | 52 | 353 |
 | 2023-12-04 | 4.39 | 52 | 354 |
 | 2023-12-05 | 4.39 | 52 | 356 |
+| 2023-12-06 | 4.39 | 52 | 357 |

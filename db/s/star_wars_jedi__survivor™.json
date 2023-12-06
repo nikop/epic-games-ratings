@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-04-28T04:00:00+00:00",
     "PcReleaseDate": "2023-04-28T04:00:00+00:00",
@@ -5697,10 +5697,10 @@
       "Count": 141
     }
   ],
-  "EOS_Progressed": 9326,
+  "EOS_Progressed": 9327,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 381,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 380,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
     {
@@ -14107,6 +14107,11 @@
       "Time": "2023-12-06T12:08:39.7462845+00:00",
       "NumProgressed": 9326,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-06T13:15:13.6842556+00:00",
+      "NumProgressed": 9327,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -14119,7 +14124,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 9233
+      "UsersEstimate": 9234
     },
     {
       "ID": "achievement_a10",
@@ -14135,7 +14140,7 @@
       "Name": "At the Precipice",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 4663
+      "UsersEstimate": 4664
     },
     {
       "ID": "achievement_a12",
@@ -14151,7 +14156,7 @@
       "Name": "A Place You Could Call Home",
       "Percentage": 47,
       "XP": 70,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "achievement_a14",
@@ -14159,7 +14164,7 @@
       "Name": "Han Slowlo",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3637
+      "UsersEstimate": 3638
     },
     {
       "ID": "achievement_a15",
@@ -14191,7 +14196,7 @@
       "Name": "They Never Saw It Coming",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 7274
+      "UsersEstimate": 7275
     },
     {
       "ID": "achievement_a19",
@@ -14207,7 +14212,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 9139
+      "UsersEstimate": 9140
     },
     {
       "ID": "achievement_a20",
@@ -14263,7 +14268,7 @@
       "Name": "Riposte",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "achievement_a27",
@@ -14279,7 +14284,7 @@
       "Name": "King of the World",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "achievement_a29",
@@ -14295,7 +14300,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 8487
+      "UsersEstimate": 8488
     },
     {
       "ID": "achievement_a30",
@@ -14303,7 +14308,7 @@
       "Name": "Now, This Isn\u0027t Podracing",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 6062
+      "UsersEstimate": 6063
     },
     {
       "ID": "achievement_a31",
@@ -14311,7 +14316,7 @@
       "Name": "Cleaning Up",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 5036
+      "UsersEstimate": 5037
     },
     {
       "ID": "achievement_a32",
@@ -14319,7 +14324,7 @@
       "Name": "They\u0027re Probably Fine",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3730
+      "UsersEstimate": 3731
     },
     {
       "ID": "achievement_a33",
@@ -14327,7 +14332,7 @@
       "Name": "Skywalker",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 5875
+      "UsersEstimate": 5876
     },
     {
       "ID": "achievement_a34",
@@ -14367,7 +14372,7 @@
       "Name": "Who Gives a Puck",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 6901
+      "UsersEstimate": 6902
     },
     {
       "ID": "achievement_a39",
@@ -14415,7 +14420,7 @@
       "Name": "Hey, Luke At Us",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 4663
+      "UsersEstimate": 4664
     },
     {
       "ID": "achievement_a44",
@@ -14511,7 +14516,7 @@
       "Name": "Among the Masters",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 7274
+      "UsersEstimate": 7275
     },
     {
       "ID": "achievement_a7",
@@ -14519,7 +14524,7 @@
       "Name": "For the Path",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 6248
+      "UsersEstimate": 6249
     },
     {
       "ID": "achievement_a8",
@@ -14527,7 +14532,7 @@
       "Name": "Out of Bedlam",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 5782
+      "UsersEstimate": 5783
     },
     {
       "ID": "achievement_a9",
@@ -14535,14 +14540,14 @@
       "Name": "Tanalorr Bound",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 5036
+      "UsersEstimate": 5037
     }
   ],
   "AchievementSets": [
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 9326,
+      "Progressed": 9327,
       "Completed": 56
     }
   ],
@@ -14550,8 +14555,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-12-06T01:46:07.9194203+00:00",
-  "LastChanged_Achievements": "2023-12-06T12:08:39.7462842+00:00",
+  "LastChanged_Achievements": "2023-12-06T13:15:13.684255+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:30.2850985+00:00",
-  "LastUpdate_Ratings": "2023-12-06T11:58:07.9755555+00:00",
-  "LastUpdate_Achievements": "2023-12-06T12:08:39.7463784+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:04:22.2371275+00:00",
+  "LastUpdate_Achievements": "2023-12-06T13:15:13.6843506+00:00"
 }

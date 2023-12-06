@@ -322,9 +322,9 @@
       "ID": "DatingAttraction",
       "SetID": "7m88n8p",
       "Name": "Dating Attraction",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "FirstTry",
@@ -402,9 +402,9 @@
       "ID": "MoneyCamouflage",
       "SetID": "7m88n8p",
       "Name": "Money Camouflage",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "MortuaryMarkup",
@@ -497,8 +497,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-06T12:03:25.9987174+00:00",
+  "LastChanged_Achievements": "2023-12-06T13:09:50.2572432+00:00",
   "LastUpdate_AppInfo": "2023-12-04T11:56:57.3079922+00:00",
-  "LastUpdate_Ratings": "2023-12-06T11:57:50.028567+00:00",
-  "LastUpdate_Achievements": "2023-12-06T12:03:25.9987367+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:04:00.5716212+00:00",
+  "LastUpdate_Achievements": "2023-12-06T13:09:50.2572567+00:00"
 }

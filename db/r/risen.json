@@ -761,9 +761,9 @@
       "ID": "id_9",
       "SetID": "bk9jib6",
       "Name": "Master detective",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
@@ -778,8 +778,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-13T23:59:43.760664+00:00",
-  "LastChanged_Achievements": "2023-12-06T12:08:57.6222431+00:00",
+  "LastChanged_Achievements": "2023-12-06T13:15:34.9459022+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:25.2979991+00:00",
-  "LastUpdate_Ratings": "2023-12-06T11:58:58.5054455+00:00",
-  "LastUpdate_Achievements": "2023-12-06T12:08:57.6222808+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:05:23.1379485+00:00",
+  "LastUpdate_Achievements": "2023-12-06T13:15:34.9459398+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -305,9 +305,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3407,
+  "EOS_Progressed": 3408,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6120,6 +6120,11 @@
       "Time": "2023-12-06T10:04:10.7616132+00:00",
       "NumProgressed": 3407,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T13:10:35.2379754+00:00",
+      "NumProgressed": 3408,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6259,7 +6264,7 @@
       "Name": "Sightseeing",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_BASE_27",
@@ -6355,7 +6360,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_BASE_38",
@@ -6563,7 +6568,7 @@
       "Name": "From the Past",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_BASE_8",
@@ -6586,13 +6591,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1591,
+      "Progressed": 1592,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3407,
+      "Progressed": 3408,
       "Completed": 0
     }
   ],
@@ -6600,8 +6605,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-06T08:59:27.5428994+00:00",
-  "LastChanged_Achievements": "2023-12-06T12:04:03.1633733+00:00",
+  "LastChanged_Achievements": "2023-12-06T13:10:35.2379749+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:25.2087668+00:00",
-  "LastUpdate_Ratings": "2023-12-06T11:59:52.020817+00:00",
-  "LastUpdate_Achievements": "2023-12-06T12:04:03.1634843+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:06:30.0652048+00:00",
+  "LastUpdate_Achievements": "2023-12-06T13:10:35.2380456+00:00"
 }
