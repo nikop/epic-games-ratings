@@ -5,19 +5,19 @@ Rating: 4.50 (Ranked 592)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,218 |
-| For Saw Gerrera | 98.00% | ~9,125 |
-| Grab Some Seat | 91.00% | ~8,473 |
+| Rooftop Duel | 99.00% | ~9,219 |
+| For Saw Gerrera | 98.00% | ~9,126 |
+| Grab Some Seat | 91.00% | ~8,474 |
 | Can You Pet the Bogling? | 87.00% | ~8,101 |
-| The Past Made Present | 83.00% | ~7,728 |
+| The Past Made Present | 83.00% | ~7,729 |
 | Survivors, We Adapt | 79.00% | ~7,356 |
+| They Never Saw It Coming | 78.00% | ~7,263 |
 | Among the Masters | 78.00% | ~7,263 |
-| They Never Saw It Coming | 77.00% | ~7,169 |
-| Who Gives a Puck | 74.00% | ~6,890 |
-| For the Path | 67.00% | ~6,238 |
-| Now, This Isn't Podracing | 65.00% | ~6,052 |
-| Mirror Match | 64.00% | ~5,959 |
-| Skywalker | 63.00% | ~5,866 |
+| Who Gives a Puck | 74.00% | ~6,891 |
+| For the Path | 67.00% | ~6,239 |
+| Now, This Isn't Podracing | 65.00% | ~6,053 |
+| Mirror Match | 64.00% | ~5,960 |
+| Skywalker | 63.00% | ~5,867 |
 | Out of Bedlam | 62.00% | ~5,773 |
 | Cleaning Up | 54.00% | ~5,028 |
 | Tanalorr Bound | 54.00% | ~5,028 |
@@ -25,14 +25,14 @@ Rating: 4.50 (Ranked 592)
 | Tragedy | 52.00% | ~4,842 |
 | At the Precipice | 50.00% | ~4,656 |
 | Hey, Luke At Us | 50.00% | ~4,656 |
-| Into the Abyss | 49.00% | ~4,562 |
-| A Place You Could Call Home | 47.00% | ~4,376 |
-| Riposte | 47.00% | ~4,376 |
+| Into the Abyss | 49.00% | ~4,563 |
+| A Place You Could Call Home | 47.00% | ~4,377 |
+| Riposte | 47.00% | ~4,377 |
 | Greezy Money | 45.00% | ~4,190 |
 | Catch! | 41.00% | ~3,818 |
-| They're Probably Fine | 40.00% | ~3,724 |
-| Han Slowlo | 39.00% | ~3,631 |
-| There Is No Try | 38.00% | ~3,538 |
+| They're Probably Fine | 40.00% | ~3,725 |
+| Han Slowlo | 39.00% | ~3,632 |
+| There Is No Try | 38.00% | ~3,539 |
 | The Jedi Path | 33.00% | ~3,073 |
 | This Is Canon | 29.00% | ~2,700 |
 | It's a Trap | 27.00% | ~2,514 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 592)
 | Blood, Sweat, and Tears | 3.00% | ~279 |
 | Pinpoint | 2.00% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,311 (Ranked 169)  
+Progressed: 9,312 (Ranked 169)  
 Completed: 56 (0.60%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 56 (0.60%) (Ranked 192)
 | 2023-12-03 | 9,229 | 55 |
 | 2023-12-04 | 9,268 | 55 |
 | 2023-12-05 | 9,305 | 56 |
-| 2023-12-06 | 9,311 | 56 |
+| 2023-12-06 | 9,312 | 56 |
 ## Awards
 Max (Great Boss Battles): 3,408  (Ranked 93)  
 Sum: 5,295 (Ranked 136)  

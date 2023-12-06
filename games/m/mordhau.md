@@ -5,23 +5,23 @@ Rating: 4.38 (Ranked 767)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~767,919 |
-| The ABCs | 43.00% | ~673,888 |
-| Home Run | 41.00% | ~642,545 |
-| Keeps Coming Off | 41.00% | ~642,545 |
-| Guts | 20.00% | ~313,436 |
-| Meat Grinder | 19.00% | ~297,765 |
-| Burning Man | 16.00% | ~250,749 |
-| Lived to Tell the Tale | 12.00% | ~188,062 |
-| Highlander | 10.00% | ~156,718 |
-| Unstoppable | 10.00% | ~156,718 |
-| Just a Scratch | 9.00% | ~141,046 |
+| Justice from the Grave | 49.00% | ~767,924 |
+| The ABCs | 43.00% | ~673,892 |
+| Home Run | 41.00% | ~642,548 |
+| Keeps Coming Off | 41.00% | ~642,548 |
+| Guts | 20.00% | ~313,438 |
+| Meat Grinder | 19.00% | ~297,766 |
+| Burning Man | 16.00% | ~250,751 |
+| Lived to Tell the Tale | 12.00% | ~188,063 |
+| Highlander | 10.00% | ~156,719 |
+| Unstoppable | 10.00% | ~156,719 |
+| Just a Scratch | 9.00% | ~141,047 |
 | Tough Nut to Crack | 6.00% | ~94,031 |
 | Yoink | 6.00% | ~94,031 |
-| Long List of Names | 4.00% | ~62,687 |
-| Pyromaniac | 4.00% | ~62,687 |
-| The Queen of Weapons | 4.00% | ~62,687 |
-| This isn’t Sparta | 3.00% | ~47,015 |
+| Long List of Names | 4.00% | ~62,688 |
+| Pyromaniac | 4.00% | ~62,688 |
+| The Queen of Weapons | 4.00% | ~62,688 |
+| This isn’t Sparta | 3.00% | ~47,016 |
 | Crybaby | 2.00% | ~31,344 |
 | Eagle Eye | 2.00% | ~31,344 |
 | I Know Kung Fu | 2.00% | ~31,344 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 767)
 | That’s No Ordinary Cold | 0.10% | ~1,567 |
 | Stairway to Hell | 0.10% | ~1,567 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,567,182 (Ranked 7)  
+Progressed: 1,567,191 (Ranked 7)  
 Completed: 69 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,14 +274,14 @@ Completed: 69 (0.00%) (Ranked 369)
 | 2023-12-03 | 1,566,347 | 69 |
 | 2023-12-04 | 1,566,745 | 69 |
 | 2023-12-05 | 1,567,133 | 69 |
-| 2023-12-06 | 1,567,182 | 69 |
+| 2023-12-06 | 1,567,191 | 69 |
 ## Awards
-Max (Diverse Characters): 1,013  (Ranked 152)  
-Sum: 5,292 (Ranked 137)  
-Diff (max vs sum): 15  
+Max (Diverse Characters): 1,016  (Ranked 152)  
+Sum: 5,295 (Ranked 136)  
+Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 1,013 |
+| This game has Diverse Characters | 1,016 |
 | This game has Challenging Combat | 861 |
 | This game is Highly Recommended | 821 |
 | This game has Amazing Characters | 689 |
@@ -528,3 +528,4 @@ Diff (max vs sum): 15
 | 2023-12-03 | 4.38 | 1,011 | 5,247 |
 | 2023-12-04 | 4.38 | 1,013 | 5,279 |
 | 2023-12-05 | 4.38 | 1,013 | 5,292 |
+| 2023-12-06 | 4.38 | 1,016 | 5,295 |

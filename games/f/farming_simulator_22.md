@@ -1,22 +1,22 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.68 (Ranked 257)  
+Rating: 4.68 (Ranked 258)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 74.00% | ~40,618 |
-| I read Shakespeare and stuff | 62.00% | ~34,031 |
-| Just a sprinkle | 61.00% | ~33,482 |
+| Own use | 74.00% | ~40,619 |
+| I read Shakespeare and stuff | 62.00% | ~34,032 |
+| Just a sprinkle | 61.00% | ~33,483 |
 | I'm stumped | 59.00% | ~32,385 |
 | Plant get enough | 59.00% | ~32,385 |
 | It's just the beginning | 57.00% | ~31,287 |
 | This is just my weekend vehicle | 56.00% | ~30,738 |
-| Hard work pays off | 51.00% | ~27,993 |
+| Hard work pays off | 51.00% | ~27,994 |
 | It's never too late to farm | 49.00% | ~26,896 |
-| All out of Land | 43.00% | ~23,602 |
-| Field Trip | 42.00% | ~23,053 |
+| All out of Land | 43.00% | ~23,603 |
+| Field Trip | 42.00% | ~23,054 |
 | I like to switch it up | 39.00% | ~21,407 |
 | Help me to help you | 37.00% | ~20,309 |
 | Ultimutt Pawesomeness | 27.00% | ~14,820 |
@@ -24,11 +24,11 @@ Number of Ratings: 7,683  (23.09.2022)
 | Vehicle fleet | 22.00% | ~12,076 |
 | You wood not believe it | 21.00% | ~11,527 |
 | Well-Oiled Machine | 16.00% | ~8,782 |
-| Clucky Streak | 15.00% | ~8,233 |
-| The plot thickens | 15.00% | ~8,233 |
-| Large-scale supplier | 15.00% | ~8,233 |
-| Long haul | 15.00% | ~8,233 |
-| That's a wrap | 14.00% | ~7,684 |
+| Clucky Streak | 15.00% | ~8,234 |
+| The plot thickens | 15.00% | ~8,234 |
+| Large-scale supplier | 15.00% | ~8,234 |
+| Long haul | 15.00% | ~8,234 |
+| That's a wrap | 14.00% | ~7,685 |
 | Fix me up | 12.00% | ~6,587 |
 | It's sow easy | 11.00% | ~6,038 |
 | Rock on | 11.00% | ~6,038 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~220 |
 | Raisin the stakes | 0.30% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,889 (Ranked 111)  
+Progressed: 54,890 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 6 (0.01%) (Ranked 347)
 | 2023-12-03 | 54,714 | 6 |
 | 2023-12-04 | 54,796 | 6 |
 | 2023-12-05 | 54,887 | 6 |
-| 2023-12-06 | 54,889 | 6 |
+| 2023-12-06 | 54,890 | 6 |
 ## Awards
 Max (Great for Beginners): 5,734  (Ranked 68)  
 Sum: 43,768 (Ranked 34)  

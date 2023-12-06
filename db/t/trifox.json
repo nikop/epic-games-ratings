@@ -4,7 +4,7 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 472,
+  "Ranking_EOS_NewPlayers": 473,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -262,9 +262,9 @@
       "ID": "ACH_GEMSCOLLECTED_1",
       "SetID": "cfld5bl",
       "Name": "What is this?",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_GEMSCOLLECTED_100PERCENT",
@@ -551,8 +551,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-12-06T01:51:51.2386766+00:00",
+  "LastChanged_Achievements": "2023-12-06T02:27:34.0234907+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:23.4550312+00:00",
-  "LastUpdate_Ratings": "2023-12-06T01:49:04.2364304+00:00",
-  "LastUpdate_Achievements": "2023-12-06T01:51:51.2387087+00:00"
+  "LastUpdate_Ratings": "2023-12-06T02:24:43.1516581+00:00",
+  "LastUpdate_Achievements": "2023-12-06T02:27:34.0235174+00:00"
 }

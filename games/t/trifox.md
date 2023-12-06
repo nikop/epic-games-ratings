@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 71.00% | ~74 |
+| What is this? | 72.00% | ~75 |
 | Complete Level 1-1 | 63.00% | ~66 |
 | Immortal | 56.00% | ~58 |
 | Complete Level 1-2 | 47.00% | ~49 |

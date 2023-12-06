@@ -9,7 +9,7 @@ Rating: 4.75 (Ranked 147)
 | Regicide | 0.80% | ~118 |
 | First of Many | 0.70% | ~1,649 |
 | Master of the Dark Arts | 0.70% | ~103 |
-| Not Your Average Trait | 0.60% | ~1,413 |
+| Not Your Average Trait | 0.60% | ~1,414 |
 | Expanding Horizons | 0.50% | ~1,178 |
 | Gleaming the Cube | 0.50% | ~1,178 |
 | Quest for Survival | 0.50% | ~1,178 |
@@ -57,11 +57,11 @@ Rating: 4.75 (Ranked 147)
 | No One Should Have All That Power | 0.20% | ~471 |
 | Maxed Out! | 0.20% | ~471 |
 | Transmutate | 0.20% | ~471 |
-| Succession | 0.20% | ~29 |
-| You Shall Pass | 0.20% | ~29 |
+| Succession | 0.20% | ~30 |
+| You Shall Pass | 0.20% | ~30 |
 | A Foul Feast | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,581 (Ranked 68)  
+Progressed: 235,597 (Ranked 68)  
 Completed: 561 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 561 (0.24%) (Ranked 251)
 | 2023-12-03 | 234,204 | 554 |
 | 2023-12-04 | 234,896 | 558 |
 | 2023-12-05 | 235,528 | 561 |
-| 2023-12-06 | 235,581 | 561 |
+| 2023-12-06 | 235,597 | 561 |
 ## Awards
 Max (Great Boss Battles): 2,649  (Ranked 102)  
 Sum: 6,550 (Ranked 127)  

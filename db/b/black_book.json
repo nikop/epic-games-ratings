@@ -668,7 +668,7 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 58190,
+  "EOS_Progressed": 58192,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 1510,
   "EOS_NewCompleters": 1,
@@ -12173,6 +12173,11 @@
       "Time": "2023-12-06T01:55:21.009545+00:00",
       "NumProgressed": 58190,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-06T02:31:09.4637898+00:00",
+      "NumProgressed": 58192,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -12313,7 +12318,7 @@
       "Name": "Encyclopedist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3492
     },
     {
       "ID": "FERN",
@@ -12377,7 +12382,7 @@
       "Name": "Witch",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3492
     },
     {
       "ID": "INITIATION",
@@ -12385,7 +12390,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 16293
+      "UsersEstimate": 16294
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -12449,7 +12454,7 @@
       "Name": "Old Spirits",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3492
     },
     {
       "ID": "ONOMASTIKON_ITEMS",
@@ -12489,7 +12494,7 @@
       "Name": "Sinner",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3492
     },
     {
       "ID": "SUSANIN",
@@ -12505,7 +12510,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 8728
+      "UsersEstimate": 8729
     },
     {
       "ID": "TALES_2",
@@ -12521,7 +12526,7 @@
       "Name": "Folklorist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3492
     },
     {
       "ID": "TRAVELLER",
@@ -12561,7 +12566,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 9310
+      "UsersEstimate": 9311
     },
     {
       "ID": "ZNATKOST_2",
@@ -12577,22 +12582,22 @@
       "Name": "Keeper of Knowledge",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3492
     }
   ],
   "AchievementSets": [
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 58190,
+      "Progressed": 58192,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-06T01:55:21.0095446+00:00",
+  "LastChanged_Achievements": "2023-12-06T02:31:09.4637892+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.6045759+00:00",
   "LastUpdate_Ratings": "2023-12-06T01:49:34.7608852+00:00",
-  "LastUpdate_Achievements": "2023-12-06T01:55:21.0096137+00:00"
+  "LastUpdate_Achievements": "2023-12-06T02:31:09.4638689+00:00"
 }

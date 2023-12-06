@@ -2,7 +2,7 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 718,
+  "Ranking_Rating": 717,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 135,
@@ -276,9 +276,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 23783,
+  "EOS_Progressed": 23784,
   "EOS_Completed": 136,
-  "EOS_NewPlayers": 1177,
+  "EOS_NewPlayers": 1175,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -5816,6 +5816,11 @@
       "Time": "2023-12-06T01:58:23.8197808+00:00",
       "NumProgressed": 23783,
       "NumCompleted": 136
+    },
+    {
+      "Time": "2023-12-06T02:33:35.4945278+00:00",
+      "NumProgressed": 23784,
+      "NumCompleted": 136
     }
   ],
   "TotalAchievements": 24,
@@ -5851,7 +5856,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 3567
+      "UsersEstimate": 3568
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -5939,7 +5944,7 @@
       "Name": "Master Room",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ACH_S8MaxPoints",
@@ -5979,7 +5984,7 @@
       "Name": "Sector 4",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 3567
+      "UsersEstimate": 3568
     },
     {
       "ID": "ACH_Sector5",
@@ -5995,7 +6000,7 @@
       "Name": "Sector 6",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2140
+      "UsersEstimate": 2141
     },
     {
       "ID": "ACH_Sector7",
@@ -6018,7 +6023,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 23783,
+      "Progressed": 23784,
       "Completed": 136
     }
   ],
@@ -6026,8 +6031,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-12-05T16:59:36.7039291+00:00",
-  "LastChanged_Achievements": "2023-12-06T01:58:23.8197804+00:00",
+  "LastChanged_Achievements": "2023-12-06T02:33:35.4945273+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:26.6540056+00:00",
-  "LastUpdate_Ratings": "2023-12-06T01:48:19.2545505+00:00",
-  "LastUpdate_Achievements": "2023-12-06T01:58:23.8198749+00:00"
+  "LastUpdate_Ratings": "2023-12-06T02:23:55.8434351+00:00",
+  "LastUpdate_Achievements": "2023-12-06T02:33:35.4945689+00:00"
 }

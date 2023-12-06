@@ -14,15 +14,15 @@ Number of Ratings: 401  (23.09.2022)
 | Correspondent | 12.00% | ~5,007 |
 | Lose Your Mind | 12.00% | ~5,007 |
 | Sound Mind? | 12.00% | ~5,007 |
-| Salt's Curse | 11.00% | ~4,589 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,589 |
-| The Fall of the House | 11.00% | ~4,589 |
-| Shipmate | 11.00% | ~4,589 |
+| Salt's Curse | 11.00% | ~4,590 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,590 |
+| The Fall of the House | 11.00% | ~4,590 |
+| Shipmate | 11.00% | ~4,590 |
 | One Year at Zee | 8.00% | ~3,338 |
-| Pupil | 7.00% | ~2,920 |
-| Salvager | 7.00% | ~2,920 |
-| Open Your Ears | 7.00% | ~2,920 |
-| The Ascent of Man | 7.00% | ~2,920 |
+| Pupil | 7.00% | ~2,921 |
+| Salvager | 7.00% | ~2,921 |
+| Open Your Ears | 7.00% | ~2,921 |
+| The Ascent of Man | 7.00% | ~2,921 |
 | Zee Fever | 5.00% | ~2,086 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,669 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,669 |
@@ -37,15 +37,15 @@ Number of Ratings: 401  (23.09.2022)
 | Knife, Cup and Bone | 1.00% | ~417 |
 | Rosewater sailor | 1.00% | ~417 |
 | A current under zee | 1.00% | ~417 |
-| Never Stop Sinking... | 0.90% | ~375 |
-| His bones in whispers | 0.90% | ~375 |
-| The beauty of the deep | 0.90% | ~375 |
-| The dragon in the zee | 0.90% | ~375 |
-| Thanks for all the fish | 0.90% | ~375 |
-| Those are pearls that were his eyes | 0.90% | ~375 |
-| No regrets | 0.90% | ~375 |
-| Under the zee | 0.90% | ~375 |
-| Depth charge | 0.90% | ~375 |
+| Never Stop Sinking... | 0.90% | ~376 |
+| His bones in whispers | 0.90% | ~376 |
+| The beauty of the deep | 0.90% | ~376 |
+| The dragon in the zee | 0.90% | ~376 |
+| Thanks for all the fish | 0.90% | ~376 |
+| Those are pearls that were his eyes | 0.90% | ~376 |
+| No regrets | 0.90% | ~376 |
+| Under the zee | 0.90% | ~376 |
+| Depth charge | 0.90% | ~376 |
 | A zee-change | 0.80% | ~334 |
 | Leviathan | 0.80% | ~334 |
 | What lies beneath | 0.70% | ~292 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~42 |
 | Ten Years at Zee | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,721 (Ranked 121)  
+Progressed: 41,723 (Ranked 121)  
 Completed: 4 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 4 (0.01%) (Ranked 347)
 | 2023-12-03 | 41,634 | 4 |
 | 2023-12-04 | 41,675 | 4 |
 | 2023-12-05 | 41,718 | 4 |
-| 2023-12-06 | 41,721 | 4 |
+| 2023-12-06 | 41,723 | 4 |
 ## Awards
 Max (Character Customization): 219  (Ranked 283)  
 Sum: 313 (Ranked 365)  

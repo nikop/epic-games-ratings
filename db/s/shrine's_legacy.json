@@ -4,7 +4,7 @@
   "ProductSlug": "shrines-legacy-909af2",
   "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 472,
+  "Ranking_EOS_NewPlayers": 473,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-02T15:57:27.9529906+00:00",
-  "LastUpdate_Ratings": "2023-12-06T01:46:30.673232+00:00",
-  "LastUpdate_Achievements": "2023-12-06T01:53:34.7196835+00:00"
+  "LastUpdate_Ratings": "2023-12-06T02:22:00.7369661+00:00",
+  "LastUpdate_Achievements": "2023-12-06T02:29:20.1369923+00:00"
 }

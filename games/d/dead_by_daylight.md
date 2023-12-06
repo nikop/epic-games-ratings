@@ -6,30 +6,30 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,730 |
-| It wakes | 1.00% | ~10,730 |
-| Not half bad | 1.00% | ~10,730 |
-| Skillful | 1.00% | ~10,730 |
-| Make Some Noise | 1.00% | ~10,730 |
-| Apt Survivor | 0.90% | ~9,657 |
-| Survival Treasures | 0.90% | ~9,657 |
-| I | 0.90% | ~9,657 |
-| Handyman | 0.80% | ~8,584 |
-| Sorted | 0.80% | ~8,584 |
-| Resurgence | 0.80% | ~8,584 |
-| The Grand Sacrifice | 0.70% | ~7,511 |
-| No one left behind | 0.70% | ~7,511 |
-| Medic | 0.70% | ~7,511 |
-| Bloody Millionaire | 0.70% | ~7,511 |
-| Healthy Obsession | 0.70% | ~7,511 |
-| Preemptive Strike | 0.70% | ~7,511 |
-| Humanitarian | 0.70% | ~7,511 |
-| Agonizing Escape | 0.60% | ~6,438 |
-| Backdoor Escape | 0.60% | ~6,438 |
-| Perfect Escape | 0.60% | ~6,438 |
-| Perfect Killing | 0.60% | ~6,438 |
-| II | 0.60% | ~6,438 |
-| Close Shave | 0.60% | ~6,438 |
+| Zealous | 1.00% | ~10,731 |
+| It wakes | 1.00% | ~10,731 |
+| Not half bad | 1.00% | ~10,731 |
+| Skillful | 1.00% | ~10,731 |
+| Make Some Noise | 1.00% | ~10,731 |
+| Apt Survivor | 0.90% | ~9,658 |
+| Survival Treasures | 0.90% | ~9,658 |
+| I | 0.90% | ~9,658 |
+| Handyman | 0.80% | ~8,585 |
+| Sorted | 0.80% | ~8,585 |
+| Resurgence | 0.80% | ~8,585 |
+| The Grand Sacrifice | 0.70% | ~7,512 |
+| No one left behind | 0.70% | ~7,512 |
+| Medic | 0.70% | ~7,512 |
+| Bloody Millionaire | 0.70% | ~7,512 |
+| Healthy Obsession | 0.70% | ~7,512 |
+| Preemptive Strike | 0.70% | ~7,512 |
+| Humanitarian | 0.70% | ~7,512 |
+| Agonizing Escape | 0.60% | ~6,439 |
+| Backdoor Escape | 0.60% | ~6,439 |
+| Perfect Escape | 0.60% | ~6,439 |
+| Perfect Killing | 0.60% | ~6,439 |
+| II | 0.60% | ~6,439 |
+| Close Shave | 0.60% | ~6,439 |
 | I've got your back | 0.50% | ~5,365 |
 | Apt Killer | 0.50% | ~5,365 |
 | Risk it all | 0.50% | ~5,365 |
@@ -66,8 +66,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.30% | ~3,219 |
 | Chorus of Chaos | 0.30% | ~3,219 |
 | One More Step | 0.30% | ~3,219 |
+| MU/TH/UR Dearest | 0.30% | ~3,219 |
 | A bite for the Entity | 0.20% | ~2,146 |
 | Blood on your face | 0.20% | ~2,146 |
+| Jump Scares | 0.20% | ~2,146 |
 | Hemophobia | 0.20% | ~2,146 |
 | Deep Cleansing | 0.20% | ~2,146 |
 | Leapfrog | 0.20% | ~2,146 |
@@ -90,12 +92,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.20% | ~2,146 |
 | Rebuilding The Borgo | 0.20% | ~2,146 |
 | Extraterrestrial | 0.20% | ~2,146 |
-| MU/TH/UR Dearest | 0.20% | ~2,146 |
 | Outta Nowhere | 0.20% | ~2,146 |
 | A feast for the Entity | 0.10% | ~1,073 |
 | Blood in your mouth | 0.10% | ~1,073 |
 | Cripple them all | 0.10% | ~1,073 |
-| Jump Scares | 0.10% | ~1,073 |
 | The Grind | 0.10% | ~1,073 |
 | The Key to Escape | 0.10% | ~1,073 |
 | Adept Jake | 0.10% | ~1,073 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,073 |
 | Adept Good Guy | 0.10% | ~1,073 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,073,042 (Ranked 14)  
+Progressed: 1,073,092 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -469,15 +469,15 @@ Completed: 61 (0.01%) (Ranked 347)
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
-| 2023-12-06 | 1,073,042 | 61 |
+| 2023-12-06 | 1,073,092 | 61 |
 ## Awards
 Max (Diverse Characters): 37,377  (Ranked 15)  
-Sum: 283,380 (Ranked 12)  
+Sum: 283,423 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37,377 |
-| This game is Highly Recommended | 32,392 |
+| This game is Highly Recommended | 32,435 |
 | This game has Amazing Characters | 31,923 |
 | This game has Competitive Players | 31,755 |
 | This game is Extremely Fun | 31,433 |
@@ -806,4 +806,4 @@ Diff (max vs sum): 3
 | 2023-12-03 | 4.51 | - | 37,218 | 282,346 |
 | 2023-12-04 | 4.51 | - | 37,289 | 282,989 |
 | 2023-12-05 | 4.51 | - | 37,377 | 283,349 |
-| 2023-12-06 | 4.51 | - | 37,377 | 283,380 |
+| 2023-12-06 | 4.51 | - | 37,377 | 283,423 |

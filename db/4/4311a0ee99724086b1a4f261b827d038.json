@@ -677,9 +677,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 236229,
+  "EOS_Progressed": 236232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1478,
+  "EOS_NewPlayers": 1479,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16317,6 +16317,11 @@
       "Time": "2023-12-06T01:58:29.9295279+00:00",
       "NumProgressed": 236229,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T02:33:41.6457275+00:00",
+      "NumProgressed": 236232,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -16385,7 +16390,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49608
+      "UsersEstimate": 49609
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -16401,7 +16406,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11811
+      "UsersEstimate": 11812
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -16585,7 +16590,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59057
+      "UsersEstimate": 59058
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -16600,7 +16605,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 236229,
+      "Progressed": 236232,
       "Completed": 0
     }
   ],
@@ -16608,8 +16613,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-05T23:57:32.1376556+00:00",
-  "LastChanged_Achievements": "2023-12-06T01:58:29.9295277+00:00",
+  "LastChanged_Achievements": "2023-12-06T02:33:41.6457271+00:00",
   "LastUpdate_AppInfo": "2023-12-01T02:57:03.9317243+00:00",
-  "LastUpdate_Ratings": "2023-12-06T01:45:54.5228852+00:00",
-  "LastUpdate_Achievements": "2023-12-06T01:58:29.9296579+00:00"
+  "LastUpdate_Ratings": "2023-12-06T02:21:23.1900816+00:00",
+  "LastUpdate_Achievements": "2023-12-06T02:33:41.6458141+00:00"
 }

@@ -276,9 +276,9 @@
       "ID": "SOS_FIRST_BLOOD",
       "SetID": "6ci4lm2",
       "Name": "First blood",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SOS_FISH",
@@ -356,9 +356,9 @@
       "ID": "SOS_HE_WILL_REMEMBER",
       "SetID": "6ci4lm2",
       "Name": "He will remember that",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SOS_INFERNAL_TONES",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-06T01:53:54.6473616+00:00",
+  "LastChanged_Achievements": "2023-12-06T02:29:40.5748013+00:00",
   "LastUpdate_AppInfo": "2023-12-04T15:57:13.4700868+00:00",
-  "LastUpdate_Ratings": "2023-12-06T01:48:33.2853878+00:00",
-  "LastUpdate_Achievements": "2023-12-06T01:53:54.6474008+00:00"
+  "LastUpdate_Ratings": "2023-12-06T02:24:10.9921451+00:00",
+  "LastUpdate_Achievements": "2023-12-06T02:29:40.5748491+00:00"
 }

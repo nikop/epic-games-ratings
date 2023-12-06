@@ -2,12 +2,12 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 926,
+  "Ranking_Rating": 915,
   "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.19,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2023-08-25T11:00:17.1063519+00:00",
@@ -811,6 +811,12 @@
       "Rating": 4.19,
       "NumberOfAwards": 169,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-12-06T02:23:51.7581988+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 169,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
@@ -861,9 +867,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 4047,
+  "EOS_Progressed": 4049,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6606,6 +6612,11 @@
       "Time": "2023-12-06T01:53:53.7649471+00:00",
       "NumProgressed": 4047,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T02:29:39.623433+00:00",
+      "NumProgressed": 4049,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6626,7 +6637,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "achievement_11",
@@ -6634,7 +6645,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "achievement_12",
@@ -6642,7 +6653,7 @@
       "Name": "Dealmaker",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "achievement_13",
@@ -6658,7 +6669,7 @@
       "Name": "ROTY",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "achievement_15",
@@ -6714,7 +6725,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "achievement_21",
@@ -6754,7 +6765,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "achievement_7",
@@ -6770,7 +6781,7 @@
       "Name": "Bragging Rights",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "achievement_9",
@@ -6785,16 +6796,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4047,
+      "Progressed": 4049,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-12-05T22:58:57.7214426+00:00",
-  "LastChanged_Achievements": "2023-12-06T01:53:53.7649467+00:00",
+  "LastChanged": "2023-12-06T02:23:51.7581986+00:00",
+  "LastChanged_Achievements": "2023-12-06T02:29:39.6234324+00:00",
   "LastUpdate_AppInfo": "2023-11-30T06:57:22.8292477+00:00",
-  "LastUpdate_Ratings": "2023-12-06T01:48:15.1673288+00:00",
-  "LastUpdate_Achievements": "2023-12-06T01:53:53.7649785+00:00"
+  "LastUpdate_Ratings": "2023-12-06T02:23:51.758199+00:00",
+  "LastUpdate_Achievements": "2023-12-06T02:29:39.6235075+00:00"
 }

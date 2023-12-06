@@ -4,7 +4,7 @@
   "ProductSlug": "tabletop-playground-9623f1",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121,
+  "EOS_Progressed": 122,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -574,6 +574,11 @@
       "Time": "2023-12-05T02:32:40.4173064+00:00",
       "NumProgressed": 121,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T02:32:20.2870042+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -624,14 +629,14 @@
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 121,
+      "Progressed": 122,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-12-06T01:57:10.7804558+00:00",
+  "LastChanged_Achievements": "2023-12-06T02:32:20.2870039+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:05.9720676+00:00",
-  "LastUpdate_Ratings": "2023-12-06T01:49:23.5131399+00:00",
-  "LastUpdate_Achievements": "2023-12-06T01:57:10.7804692+00:00"
+  "LastUpdate_Ratings": "2023-12-06T02:25:03.9328379+00:00",
+  "LastUpdate_Achievements": "2023-12-06T02:32:20.2870129+00:00"
 }
