@@ -2,13 +2,13 @@
   "ID": "6bff1c13a8884b518bd44acaf691ddba",
   "Name": "MudRunner",
   "ProductSlug": "mudrunner",
-  "Ranking_Rating": 388,
+  "Ranking_Rating": 386,
   "Ranking_Popularity": 260,
-  "Ranking_PopularitySum": 218,
+  "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 785,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-11-26T16:00:00+00:00",
     "PcReleaseDate": "2020-11-26T16:00:00+00:00",
@@ -3287,10 +3287,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1911,
       "NumberOfAwardsMax": 289
+    },
+    {
+      "Time": "2023-12-06T19:58:58.1325135+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1914,
+      "NumberOfAwardsMax": 289
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1911,
+  "NumberOfAwards": 1914,
   "NumberOfAwardsMax": 289,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3322,13 +3328,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 192
+      "Count": 193
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 211
+      "Count": 212
     },
     {
       "Text": "This game is Educational",
@@ -3340,7 +3346,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 224
+      "Count": 225
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -3372,8 +3378,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2023-12-06T17:58:57.8582541+00:00",
+  "LastChanged": "2023-12-06T19:58:58.1325133+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:41.7809685+00:00",
-  "LastUpdate_Ratings": "2023-12-06T18:59:33.7647753+00:00",
-  "LastUpdate_Achievements": "2023-12-06T19:08:16.0213764+00:00"
+  "LastUpdate_Ratings": "2023-12-06T19:58:58.1325137+00:00",
+  "LastUpdate_Achievements": "2023-12-06T20:08:27.8854603+00:00"
 }

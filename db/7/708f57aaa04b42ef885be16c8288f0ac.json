@@ -201,9 +201,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7489,
+  "EOS_Progressed": 7492,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5716,6 +5716,11 @@
       "Time": "2023-12-06T19:10:19.5071444+00:00",
       "NumProgressed": 7489,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-06T20:09:45.0747842+00:00",
+      "NumProgressed": 7492,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5768,7 +5773,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "Eavesdropper",
@@ -5800,7 +5805,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5872,7 +5877,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "NoMoreTotems",
@@ -5920,7 +5925,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "TheQuarterback",
@@ -5928,7 +5933,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "ThisIsDharma",
@@ -5984,7 +5989,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "k01101110",
@@ -5992,14 +5997,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7489,
+      "Progressed": 7492,
       "Completed": 14
     }
   ],
@@ -6007,8 +6012,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-06T19:10:19.5071441+00:00",
+  "LastChanged_Achievements": "2023-12-06T20:09:45.0747838+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-06T19:00:35.5582931+00:00",
-  "LastUpdate_Achievements": "2023-12-06T19:10:19.5071822+00:00"
+  "LastUpdate_Ratings": "2023-12-06T19:59:43.0428049+00:00",
+  "LastUpdate_Achievements": "2023-12-06T20:09:45.0748397+00:00"
 }

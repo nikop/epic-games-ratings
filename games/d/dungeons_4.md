@@ -63,7 +63,7 @@
 | Heal Heal Blessing | 9.00% | ~48 |
 | Gorgu is in the Best of Health | 8.00% | ~42 |
 | Hands Off My Stones | 8.00% | ~42 |
-| No Mana, No Cry | 6.00% | ~32 |
+| No Mana, No Cry | 7.00% | ~37 |
 | I Don't Need Any Help | 5.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 530 (Ranked 311)  

@@ -18,7 +18,7 @@ Rating: 4.30 (Ranked 842)
 | The Tunneler | 40.00% | ~80 |
 | Level Up!! | 37.00% | ~74 |
 | The Shield | 36.00% | ~72 |
-| Kill-streak | 29.00% | ~58 |
+| Kill-streak | 30.00% | ~60 |
 | Topped up | 29.00% | ~58 |
 | The Bird | 28.00% | ~56 |
 | The Ninja | 26.00% | ~52 |
@@ -49,12 +49,12 @@ Rating: 4.30 (Ranked 842)
 | Anvil | 6.00% | ~12 |
 | The Exorcist | 5.00% | ~10 |
 | Aluminum | 5.00% | ~10 |
+| Analyzed | 4.00% | ~8 |
 | It's a Trap! | 3.00% | ~6 |
 | Blaze | 3.00% | ~6 |
 | Topaz | 3.00% | ~6 |
 | Chorus | 3.00% | ~6 |
 | TNT | 3.00% | ~6 |
-| Analyzed | 3.00% | ~6 |
 | Tongs | 3.00% | ~6 |
 | Platinum | 3.00% | ~6 |
 | Hammer | 3.00% | ~6 |

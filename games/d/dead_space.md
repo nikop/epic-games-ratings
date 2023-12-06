@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 336)
 | Pusher | 23.00% | ~495 |
 | Z-Baller | 23.00% | ~495 |
 | Marked | 22.00% | ~473 |
-| Eviscerator | 19.00% | ~409 |
+| Eviscerator | 20.00% | ~430 |
 | Backbreaker | 14.00% | ~301 |
 | Wishbone | 9.00% | ~194 |
 | Trusted Contractor | 7.00% | ~151 |

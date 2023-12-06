@@ -18,7 +18,7 @@
 | Iceborn | 55.00% | ~597 |
 | Tear of Freedom | 53.00% | ~575 |
 | Boom Things | 53.00% | ~575 |
-| My Darkest Day | 49.00% | ~532 |
+| My Darkest Day | 50.00% | ~542 |
 | Rhythm Of Willump | 47.00% | ~510 |
 | The Relentless Storm | 47.00% | ~510 |
 | A Tragic Reminder | 45.00% | ~488 |

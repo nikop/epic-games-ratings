@@ -9,20 +9,20 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 1.00% | ~22 |
 | First Steps | 0.70% | ~1,685 |
 | Not Touching You | 0.70% | ~15 |
+| Getting A Glimpse | 0.60% | ~1,444 |
 | Uncharted Territory | 0.60% | ~1,444 |
-| Nothing To Lose | 0.50% | ~1,203 |
-| Heavy Hitter | 0.50% | ~1,203 |
-| Getting A Glimpse | 0.50% | ~1,203 |
-| That Was Quick | 0.50% | ~1,203 |
-| Colorful Corpse | 0.50% | ~1,203 |
-| Defeat The Dark | 0.50% | ~1,203 |
-| Goodbye, Frog Friend | 0.50% | ~1,203 |
-| Heartless | 0.50% | ~1,203 |
-| A Donation | 0.50% | ~1,203 |
-| Deflection | 0.50% | ~1,203 |
-| A Quick Escape | 0.50% | ~1,203 |
-| Explorer | 0.50% | ~1,203 |
-| An Offering | 0.50% | ~1,203 |
+| Nothing To Lose | 0.50% | ~1,204 |
+| Heavy Hitter | 0.50% | ~1,204 |
+| That Was Quick | 0.50% | ~1,204 |
+| Colorful Corpse | 0.50% | ~1,204 |
+| Defeat The Dark | 0.50% | ~1,204 |
+| Goodbye, Frog Friend | 0.50% | ~1,204 |
+| Heartless | 0.50% | ~1,204 |
+| A Donation | 0.50% | ~1,204 |
+| Deflection | 0.50% | ~1,204 |
+| A Quick Escape | 0.50% | ~1,204 |
+| Explorer | 0.50% | ~1,204 |
+| An Offering | 0.50% | ~1,204 |
 | Ambitious Intent | 0.40% | ~963 |
 | Delving Deeper | 0.40% | ~963 |
 | R.I.P | 0.40% | ~963 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,697 (Ranked 64)  
+Progressed: 240,702 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,7 +375,7 @@ Completed: 292 (0.12%) (Ranked 283)
 | 2023-12-03 | 240,591 | 292 |
 | 2023-12-04 | 240,628 | 292 |
 | 2023-12-05 | 240,675 | 292 |
-| 2023-12-06 | 240,697 | 292 |
+| 2023-12-06 | 240,702 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 133)  
 Sum: 11,711 (Ranked 84)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -207,7 +207,7 @@
   ],
   "EOS_Progressed": 886,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2198,9 +2198,9 @@
       "ID": "BreakTheLoop",
       "SetID": "1n308hc",
       "Name": "Break the Loop",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 18
     },
     {
       "ID": "BridgeBuilder",
@@ -2230,9 +2230,9 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 35
     },
     {
       "ID": "DesolateIsland",
@@ -2494,9 +2494,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 97
     },
     {
       "ID": "TextAdventurer",
@@ -2526,9 +2526,9 @@
       "ID": "TheFuture",
       "SetID": "1n308hc",
       "Name": "The Future",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "TheHardWay",
@@ -2606,9 +2606,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 62
     },
     {
       "ID": "YourBiggestFan",
@@ -2631,8 +2631,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-05T18:59:22.7453339+00:00",
-  "LastChanged_Achievements": "2023-12-06T19:07:15.8820105+00:00",
+  "LastChanged_Achievements": "2023-12-06T20:06:13.6991239+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-06T19:00:13.4993736+00:00",
-  "LastUpdate_Achievements": "2023-12-06T19:07:15.8820532+00:00"
+  "LastUpdate_Ratings": "2023-12-06T19:59:26.4635845+00:00",
+  "LastUpdate_Achievements": "2023-12-06T20:06:13.6991999+00:00"
 }

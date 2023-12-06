@@ -23,7 +23,7 @@ Number of Ratings: 45  (23.09.2022)
 | Echoes Die | 1.00% | ~15 |
 | Thematic Divergence | 0.90% | ~14 |
 | Pyrrhic Victory | 0.90% | ~14 |
-| Turncoat | 0.80% | ~12 |
+| Turncoat | 0.90% | ~14 |
 | Another Tale to Tell | 0.70% | ~11 |
 | A Story of Heroes | 0.70% | ~11 |
 | Empty the Caves | 0.50% | ~8 |
@@ -241,8 +241,8 @@ Completed: 6 (0.40%) (Ranked 223)
 | 2023-12-06 | 1,506 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 504)  
-Sum: 29 (Ranked 517)  
-Diff (max vs sum): -13  
+Sum: 29 (Ranked 518)  
+Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 29 |

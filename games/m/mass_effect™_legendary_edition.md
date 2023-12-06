@@ -86,8 +86,8 @@
 | Savior | 24.00% | ~364 |
 | Weapon Specialist | 24.00% | ~364 |
 | Lost and Found | 24.00% | ~364 |
+| Party Crasher | 23.00% | ~349 |
 | Paramour II | 22.00% | ~334 |
-| Party Crasher | 22.00% | ~334 |
 | Hard Target | 22.00% | ~334 |
 | Problem Solver | 22.00% | ~334 |
 | Under Pressure | 21.00% | ~318 |

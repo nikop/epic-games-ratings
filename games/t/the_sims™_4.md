@@ -4,7 +4,7 @@
 Rating: 4.63 (Ranked 351)  
 ## Awards
 Max (Great for Beginners): 2,056  (Ranked 111)  
-Sum: 10,609 (Ranked 91)  
+Sum: 10,619 (Ranked 91)  
 Diff (max vs sum): 20  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 20
 | This game has Easy Combat | 732 |
 | This game is Educational | 702 |
 | This game is Relaxing | 674 |
-| This game has Quickly Understood Controls | 645 |
+| This game has Quickly Understood Controls | 655 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -306,4 +306,4 @@ Diff (max vs sum): 20
 | 2023-12-03 | 4.63 | 1,942 | 10,203 |
 | 2023-12-04 | 4.63 | 1,974 | 10,341 |
 | 2023-12-05 | 4.63 | 1,988 | 10,413 |
-| 2023-12-06 | 4.63 | 2,056 | 10,609 |
+| 2023-12-06 | 4.63 | 2,056 | 10,619 |

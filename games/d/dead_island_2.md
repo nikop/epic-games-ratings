@@ -7,20 +7,20 @@ Rating: 4.54 (Ranked 529)
 | ---- | ---------- | ----- |
 | Whatever It Takes | 3.00% | ~1,697 |
 | Pork Chopped | 3.00% | ~1,697 |
-| Dr. Reed, I Presume? | 2.00% | ~14,620 |
-| Git Gutte! | 2.00% | ~14,620 |
-| Bookworm | 2.00% | ~14,620 |
-| Break A Leg | 2.00% | ~14,620 |
-| Coup de Grâce | 2.00% | ~14,620 |
-| Hazardous Materials | 2.00% | ~14,620 |
-| Friends Like These | 2.00% | ~14,620 |
-| Hotel California | 2.00% | ~14,620 |
-| Apex Predator | 2.00% | ~14,620 |
-| Stacking the Deck | 2.00% | ~14,620 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,620 |
-| This is My Weapon | 2.00% | ~14,620 |
-| Welcome To Hell-A | 2.00% | ~14,620 |
-| One of Us | 2.00% | ~1,131 |
+| Dr. Reed, I Presume? | 2.00% | ~14,621 |
+| Git Gutte! | 2.00% | ~14,621 |
+| Bookworm | 2.00% | ~14,621 |
+| Break A Leg | 2.00% | ~14,621 |
+| Coup de Grâce | 2.00% | ~14,621 |
+| Hazardous Materials | 2.00% | ~14,621 |
+| Friends Like These | 2.00% | ~14,621 |
+| Hotel California | 2.00% | ~14,621 |
+| Apex Predator | 2.00% | ~14,621 |
+| Stacking the Deck | 2.00% | ~14,621 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,621 |
+| This is My Weapon | 2.00% | ~14,621 |
+| Welcome To Hell-A | 2.00% | ~14,621 |
+| One of Us | 2.00% | ~1,132 |
 | Making Your Mark | 1.00% | ~7,310 |
 | Anger Management | 1.00% | ~7,310 |
 | Perks of the Job | 1.00% | ~7,310 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,010 (Ranked 21)  
+Progressed: 731,036 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-03 | 729,822 | 2,461 |
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
-| 2023-12-06 | 731,010 | 2,465 |
+| 2023-12-06 | 731,036 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,968  (Ranked 49)  
 Sum: 12,233 (Ranked 82)  

@@ -261,8 +261,8 @@ Completed: 5 (0.00%) (Ranked 371)
 | 2023-12-05 | 109,861 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 437)  
-Sum: 370 (Ranked 351)  
-Diff (max vs sum): 86  
+Sum: 370 (Ranked 352)  
+Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 50 |

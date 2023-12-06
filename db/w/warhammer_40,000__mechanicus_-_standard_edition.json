@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -978,7 +978,7 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228750,
+  "EOS_Progressed": 228755,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 0,
@@ -26143,6 +26143,11 @@
       "Time": "2023-12-06T19:10:27.9691756+00:00",
       "NumProgressed": 228750,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-06T20:09:51.3750566+00:00",
+      "NumProgressed": 228755,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -26154,7 +26159,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45750
+      "UsersEstimate": 45751
     },
     {
       "ID": "ACH_BASE_10",
@@ -26162,7 +26167,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59475
+      "UsersEstimate": 59476
     },
     {
       "ID": "ACH_BASE_11",
@@ -26202,7 +26207,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22875
+      "UsersEstimate": 22876
     },
     {
       "ID": "ACH_BASE_17",
@@ -26218,7 +26223,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22875
+      "UsersEstimate": 22876
     },
     {
       "ID": "ACH_BASE_19",
@@ -26242,7 +26247,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6862
+      "UsersEstimate": 6863
     },
     {
       "ID": "ACH_BASE_21",
@@ -26378,7 +26383,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6862
+      "UsersEstimate": 6863
     },
     {
       "ID": "ACH_BASE_5",
@@ -26402,7 +26407,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27450
+      "UsersEstimate": 27451
     },
     {
       "ID": "ACH_BASE_8",
@@ -26425,7 +26430,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228750,
+      "Progressed": 228755,
       "Completed": 5
     }
   ],
@@ -26433,8 +26438,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-03T11:00:01.7209861+00:00",
-  "LastChanged_Achievements": "2023-12-06T19:10:27.9691754+00:00",
+  "LastChanged_Achievements": "2023-12-06T20:09:51.375056+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.7221977+00:00",
-  "LastUpdate_Ratings": "2023-12-06T18:57:49.7270357+00:00",
-  "LastUpdate_Achievements": "2023-12-06T19:10:27.9692939+00:00"
+  "LastUpdate_Ratings": "2023-12-06T19:57:40.6617959+00:00",
+  "LastUpdate_Achievements": "2023-12-06T20:09:51.3752355+00:00"
 }

@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25648,
+  "EOS_Progressed": 25652,
   "EOS_Completed": 484,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.89,
   "EosHistory": [
@@ -25134,6 +25134,11 @@
       "Time": "2023-12-06T19:05:29.156831+00:00",
       "NumProgressed": 25648,
       "NumCompleted": 484
+    },
+    {
+      "Time": "2023-12-06T20:04:53.0527149+00:00",
+      "NumProgressed": 25652,
+      "NumCompleted": 484
     }
   ],
   "TotalAchievements": 20,
@@ -25145,7 +25150,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4361
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -25153,7 +25158,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "EAST_FINISHED",
@@ -25169,7 +25174,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -25177,7 +25182,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -25193,7 +25198,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -25241,7 +25246,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3334
+      "UsersEstimate": 3335
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -25265,7 +25270,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19492
+      "UsersEstimate": 19496
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -25273,7 +25278,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6925
+      "UsersEstimate": 6926
     },
     {
       "ID": "NORTH_FINISHED",
@@ -25281,7 +25286,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3334
+      "UsersEstimate": 3335
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -25304,15 +25309,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25648,
+      "Progressed": 25652,
       "Completed": 484
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-06T19:05:29.1568306+00:00",
+  "LastChanged_Achievements": "2023-12-06T20:04:53.0527144+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.5744721+00:00",
-  "LastUpdate_Ratings": "2023-12-06T18:57:40.4600713+00:00",
-  "LastUpdate_Achievements": "2023-12-06T19:05:29.156977+00:00"
+  "LastUpdate_Ratings": "2023-12-06T19:57:34.7973916+00:00",
+  "LastUpdate_Achievements": "2023-12-06T20:04:53.0528615+00:00"
 }

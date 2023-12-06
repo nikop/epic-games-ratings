@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 382,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -838,9 +838,9 @@
       "ID": "CLG_LEVEL_KILLSTREAK",
       "SetID": "89cjc9l",
       "Name": "Kill-streak",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "CLG_RUN_LEVELUP_1",
@@ -1134,9 +1134,9 @@
       "ID": "PRG_HARD_10006",
       "SetID": "89cjc9l",
       "Name": "Analyzed",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "PRG_HARD_10007",
@@ -1391,8 +1391,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-12-06T19:06:05.4080703+00:00",
+  "LastChanged_Achievements": "2023-12-06T20:05:19.9790262+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:18.2054866+00:00",
-  "LastUpdate_Ratings": "2023-12-06T19:00:20.8880314+00:00",
-  "LastUpdate_Achievements": "2023-12-06T19:06:05.4081235+00:00"
+  "LastUpdate_Ratings": "2023-12-06T19:59:31.8012282+00:00",
+  "LastUpdate_Achievements": "2023-12-06T20:05:19.979111+00:00"
 }

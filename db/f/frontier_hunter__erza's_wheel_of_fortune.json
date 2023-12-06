@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 560,
+  "EOS_Progressed": 561,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
@@ -1787,6 +1787,11 @@
       "Time": "2023-12-06T19:08:39.6040072+00:00",
       "NumProgressed": 560,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T20:08:46.225205+00:00",
+      "NumProgressed": 561,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1798,7 +1803,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1836,9 +1841,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1870,7 +1875,7 @@
       "Name": "Kind Adventurer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1878,7 +1883,7 @@
       "Name": "Mermaid Killer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -1886,15 +1891,15 @@
       "Name": "Training Simulation",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ACHIEVEMENT_20",
       "SetID": "7pimpda",
       "Name": "Cave Master",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -1916,9 +1921,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "7pimpda",
       "Name": "Master Cook",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -1926,7 +1931,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1934,7 +1939,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2054,7 +2059,7 @@
       "Name": "Storm Traveller",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2126,7 +2131,7 @@
       "Name": "Flower Thief",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2134,7 +2139,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2157,7 +2162,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 560,
+      "Progressed": 561,
       "Completed": 1
     }
   ],
@@ -2165,8 +2170,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-06T19:08:39.6040067+00:00",
+  "LastChanged_Achievements": "2023-12-06T20:08:46.2252046+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-06T18:57:33.8774114+00:00",
-  "LastUpdate_Achievements": "2023-12-06T19:08:39.604046+00:00"
+  "LastUpdate_Ratings": "2023-12-06T19:57:29.6843056+00:00",
+  "LastUpdate_Achievements": "2023-12-06T20:08:46.2252692+00:00"
 }

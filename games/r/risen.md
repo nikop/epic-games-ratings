@@ -20,9 +20,9 @@ Rating: 4.57 (Ranked 477)
 | Wise man | 30.00% | ~18 |
 | Beast slayer | 30.00% | ~18 |
 | Idiot | 30.00% | ~18 |
+| Family man | 28.00% | ~17 |
 | Ogre friend | 28.00% | ~17 |
 | The fourth triplet | 28.00% | ~17 |
-| Family man | 26.00% | ~16 |
 | Death of a legend | 26.00% | ~16 |
 | Archaeologist | 26.00% | ~16 |
 | Hard worker | 26.00% | ~16 |
@@ -41,10 +41,10 @@ Rating: 4.57 (Ranked 477)
 | Safecracker | 13.00% | ~8 |
 | Titan Lord | 11.00% | ~7 |
 | Terror of the hens | 10.00% | ~6 |
+| Expert | 10.00% | ~6 |
 | Moneybags | 10.00% | ~6 |
 | King of the handymen | 10.00% | ~6 |
 | The traveler | 8.00% | ~5 |
-| Expert | 8.00% | ~5 |
 | Fervent swimmer | 7.00% | ~4 |
 | King Midas | 7.00% | ~4 |
 | Rune master | 5.00% | ~3 |

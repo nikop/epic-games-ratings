@@ -6,13 +6,13 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 7.00% | ~10,082 |
-| Titan's First Steps | 7.00% | ~10,082 |
+| Sponsored by Argon | 7.00% | ~10,083 |
+| Titan's First Steps | 7.00% | ~10,083 |
 | Basic in Bulk | 6.00% | ~8,642 |
 | Tinkle of Coins | 6.00% | ~8,642 |
-| Disintermediation | 5.00% | ~7,201 |
-| It's Free Real Estate | 5.00% | ~7,201 |
-| Capitalism Ho! | 5.00% | ~7,201 |
+| Disintermediation | 5.00% | ~7,202 |
+| It's Free Real Estate | 5.00% | ~7,202 |
+| Capitalism Ho! | 5.00% | ~7,202 |
 | One Easy Payment | 4.00% | ~5,761 |
 | Some Assembly Required | 4.00% | ~5,761 |
 | Another Satisfied Customer | 4.00% | ~5,761 |
@@ -46,6 +46,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 2.00% | ~2,881 |
 | Hidden Potential | 2.00% | ~2,881 |
 | Power of Love | 2.00% | ~2,881 |
+| Supercharged | 2.00% | ~2,881 |
 | Expansion in Session | 2.00% | ~2,881 |
 | Efficient Floor Space | 2.00% | ~2,881 |
 | Cranked up to 11 | 2.00% | ~2,881 |
@@ -83,7 +84,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 1.00% | ~1,440 |
 | Industrial Evolution | 1.00% | ~1,440 |
 | Master of Transmutation | 1.00% | ~1,440 |
-| Supercharged | 1.00% | ~1,440 |
 | Thank You Tom Nook | 1.00% | ~1,440 |
 | Ritualist | 1.00% | ~1,440 |
 | Fit for a King | 1.00% | ~1,440 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~432 |
 | Capitalist Camaraderie | 0.20% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,029 (Ranked 80)  
+Progressed: 144,036 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 291 (0.20%) (Ranked 259)
 | 2023-12-03 | 143,715 | 291 |
 | 2023-12-04 | 143,830 | 291 |
 | 2023-12-05 | 143,938 | 291 |
-| 2023-12-06 | 144,029 | 291 |
+| 2023-12-06 | 144,036 | 291 |
 ## Awards
 Max (Great for Beginners): 4,868  (Ranked 75)  
 Sum: 27,669 (Ranked 50)  

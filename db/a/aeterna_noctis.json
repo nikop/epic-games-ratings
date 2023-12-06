@@ -2,13 +2,13 @@
   "ID": "4b9bd8b8a4804e088d3412062a4f0251",
   "Name": "Aeterna Noctis",
   "ProductSlug": "aeterna-noctis",
-  "Ranking_Rating": 388,
+  "Ranking_Rating": 386,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 785,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-12-15T15:00:00+00:00",
     "PcReleaseDate": "2021-12-15T15:00:00+00:00",
@@ -119,8 +119,8 @@
   "FirstSeenRating": "2022-09-14T16:00:55.3418121+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.35812+00:00",
   "LastChanged": "2023-08-03T09:02:01.0399665+00:00",
-  "LastChanged_Achievements": "2023-12-06T19:09:27.0872355+00:00",
+  "LastChanged_Achievements": "2023-12-06T20:09:06.3359229+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:16.4840129+00:00",
-  "LastUpdate_Ratings": "2023-12-06T19:00:42.0041624+00:00",
-  "LastUpdate_Achievements": "2023-12-06T19:09:27.087237+00:00"
+  "LastUpdate_Ratings": "2023-12-06T19:59:47.7912048+00:00",
+  "LastUpdate_Achievements": "2023-12-06T20:09:06.3359261+00:00"
 }

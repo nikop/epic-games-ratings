@@ -1,25 +1,25 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 594)  
+Rating: 4.50 (Ranked 595)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~311,434 |
+| The Shutdown | 66.00% | ~311,435 |
 | Jeef Skeejj | 44.00% | ~207,623 |
-| Careful planning | 39.00% | ~184,029 |
+| Careful planning | 39.00% | ~184,030 |
 | Second Coming | 34.00% | ~160,436 |
 | Jeef Skagg | 30.00% | ~141,561 |
 | Mother | 25.00% | ~117,968 |
 | In space, no one can hear you scream | 24.00% | ~113,249 |
-| Chapter I: Echoes | 22.00% | ~103,811 |
-| Excelsior Rule | 22.00% | ~103,811 |
+| Chapter I: Echoes | 22.00% | ~103,812 |
+| Excelsior Rule | 22.00% | ~103,812 |
 | Things persisted in not being what they seemed | 20.00% | ~94,374 |
-| Knightmare Frames | 15.00% | ~70,780 |
-| May His passing cleanse the world | 15.00% | ~70,780 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,780 |
-| Pope Zenon | 15.00% | ~70,780 |
+| Knightmare Frames | 15.00% | ~70,781 |
+| May His passing cleanse the world | 15.00% | ~70,781 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,781 |
+| Pope Zenon | 15.00% | ~70,781 |
 | Tetsuo | 11.00% | ~51,906 |
 | Plan for the worst | 11.00% | ~51,906 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,187 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~16 |
 | Kronos Rule | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,870 (Ranked 40)  
+Progressed: 471,871 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 20 (0.00%) (Ranked 371)
 | 2023-12-03 | 471,759 | 20 |
 | 2023-12-04 | 471,795 | 20 |
 | 2023-12-05 | 471,829 | 20 |
-| 2023-12-06 | 471,870 | 20 |
+| 2023-12-06 | 471,871 | 20 |
 ## Awards
 Max (Character Customization): 225  (Ranked 278)  
 Sum: 247 (Ranked 383)  
