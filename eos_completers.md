@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.72% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.71% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -177,7 +177,7 @@
 | 175 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.89% |
 | 176 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.88% |
 | 177 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
-| 177 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.87% |
+| 178 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.86% |
 | 179 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
 | 179 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
 | 181 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.81% |
