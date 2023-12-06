@@ -56,7 +56,7 @@
 | Long Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17 (Ranked 583)  
-Completed: 0 (0.00%) (Ranked 370)  
+Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

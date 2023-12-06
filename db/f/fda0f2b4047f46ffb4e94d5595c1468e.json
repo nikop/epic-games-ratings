@@ -2,13 +2,13 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 611,
+  "Ranking_Rating": 612,
   "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 371,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3455,7 +3455,7 @@
   ],
   "EOS_Progressed": 9532,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10659,9 +10659,9 @@
       "ID": "ach03",
       "SetID": "47in8n6",
       "Name": "A New Timeline",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 4480
+      "UsersEstimate": 4575
     },
     {
       "ID": "ach04",
@@ -11052,8 +11052,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-12-06T16:03:03.3242948+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:04:38.224726+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:04:51.5564733+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:13.7403672+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:02:58.1521398+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:04:38.2247839+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:03:13.8594724+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:04:51.5565816+00:00"
 }

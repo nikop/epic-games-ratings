@@ -65,11 +65,11 @@ Rating: 4.44 (Ranked 677)
 | Covert Elimination | 2.00% | ~79 |
 | Sink or Swim | 2.00% | ~79 |
 | Best of the Best | 1.00% | ~40 |
+| Master of Secondaries | 1.00% | ~40 |
 | Sight Beyond Sights | 1.00% | ~40 |
 | From Führer Away | 1.00% | ~39 |
 | Alpha | 1.00% | ~39 |
 | Das Familienjuwel | 1.00% | ~39 |
-| Master of Secondaries | 0.90% | ~36 |
 | Master of Rifles | 0.90% | ~36 |
 | Master of Pistols | 0.80% | ~32 |
 | Operation Overlord | 0.80% | ~31 |

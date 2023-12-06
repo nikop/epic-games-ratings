@@ -30,7 +30,7 @@
 | What They Deserve | 100.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 716)  
-Completed: 0 (0.00%) (Ranked 370)  
+Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

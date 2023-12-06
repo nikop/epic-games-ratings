@@ -10,10 +10,10 @@
 | Powerful Allies | 11.00% | ~27 |
 | A Taste of Wrath | 11.00% | ~27 |
 | Adventurer | 11.00% | ~27 |
+| Tributes of Caladrias | 11.00% | ~27 |
 | Shatter Them All | 11.00% | ~27 |
 | I Found It | 11.00% | ~27 |
 | The Collector | 11.00% | ~27 |
-| Tributes of Caladrias | 10.00% | ~25 |
 | Geared Up | 10.00% | ~25 |
 | Scholar | 10.00% | ~25 |
 | Stone Collection | 10.00% | ~25 |

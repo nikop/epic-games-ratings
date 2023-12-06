@@ -5161,10 +5161,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6559,
       "NumberOfAwardsMax": 2649
+    },
+    {
+      "Time": "2023-12-06T18:03:23.3301844+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6564,
+      "NumberOfAwardsMax": 2649
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6559,
+  "NumberOfAwards": 6564,
   "NumberOfAwardsMax": 2649,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5202,7 +5208,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 389
+      "Count": 394
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5235,9 +5241,9 @@
       "Count": 407
     }
   ],
-  "EOS_Progressed": 235897,
+  "EOS_Progressed": 235926,
   "EOS_Completed": 564,
-  "EOS_NewPlayers": 5333,
+  "EOS_NewPlayers": 5335,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21675,6 +21681,11 @@
       "Time": "2023-12-06T17:08:52.0164341+00:00",
       "NumProgressed": 235897,
       "NumCompleted": 564
+    },
+    {
+      "Time": "2023-12-06T18:08:59.7357004+00:00",
+      "NumProgressed": 235926,
+      "NumCompleted": 564
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21687,7 +21698,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -21735,7 +21746,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -21807,7 +21818,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -21839,7 +21850,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "Meet_Meidra",
@@ -21919,7 +21930,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "Obtain_Guns_A",
@@ -21991,7 +22002,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "Obtain_Traits_B",
@@ -22087,7 +22098,7 @@
       "Name": "Regicide",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -22103,7 +22114,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -22126,22 +22137,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 235897,
+      "Progressed": 235926,
       "Completed": 564
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 15062,
+      "Progressed": 15091,
       "Completed": 200
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-06T17:03:08.320993+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:08:52.0164337+00:00",
+  "LastChanged": "2023-12-06T18:03:23.3301842+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:08:59.7357+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:03:08.3209935+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:08:52.0165429+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:03:23.3301849+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:08:59.735794+00:00"
 }

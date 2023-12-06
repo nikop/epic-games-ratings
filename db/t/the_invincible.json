@@ -3,9 +3,9 @@
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 312,
-  "Ranking_EOS_Completed": 370,
+  "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 3668,
+  "Ranking_EOS_NewCompleters": 3669,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521,
+  "EOS_Progressed": 522,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": -1,
@@ -1480,6 +1480,11 @@
       "Time": "2023-12-06T12:08:27.316922+00:00",
       "NumProgressed": 521,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T18:08:56.0376149+00:00",
+      "NumProgressed": 522,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1506,9 +1511,9 @@
       "ID": "AchvAssertive",
       "SetID": "1hj060c",
       "Name": "On her own",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 84
     },
     {
       "ID": "AchvBattleScore",
@@ -1524,7 +1529,7 @@
       "Name": "Peacemaker",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "AchvBombing",
@@ -1660,15 +1665,15 @@
       "Name": "The field base",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 303
     },
     {
       "ID": "AchvReachCity",
@@ -1682,9 +1687,9 @@
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 157
     },
     {
       "ID": "AchvSurvivors",
@@ -1708,7 +1713,7 @@
       "Name": "The End",
       "Percentage": 30,
       "XP": 55,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "AchvUnity",
@@ -1716,21 +1721,21 @@
       "Name": "Beyond divisions",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 521,
+      "Progressed": 522,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:08:48.3358259+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:08:56.0376147+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:58:47.479908+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:08:48.3358505+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:59:02.9952019+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:08:56.0376375+00:00"
 }

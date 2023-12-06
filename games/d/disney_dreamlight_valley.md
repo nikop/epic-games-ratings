@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 69.00% | ~8,468 |
-| Photographer | 68.00% | ~8,346 |
-| Valley's Helper | 62.00% | ~7,609 |
-| Constructor | 51.00% | ~6,259 |
-| Renovator | 51.00% | ~6,259 |
-| Bestest Friend | 46.00% | ~5,646 |
-| Banker | 39.00% | ~4,786 |
-| Gardener | 31.00% | ~3,805 |
-| Generous | 25.00% | ~3,068 |
-| Chef Cook | 18.00% | ~2,209 |
-| Miner | 10.00% | ~1,227 |
+| Goofy's Investor | 69.00% | ~8,470 |
+| Photographer | 68.00% | ~8,348 |
+| Valley's Helper | 61.00% | ~7,488 |
+| Constructor | 51.00% | ~6,261 |
+| Renovator | 51.00% | ~6,261 |
+| Bestest Friend | 46.00% | ~5,647 |
+| Banker | 39.00% | ~4,788 |
+| Gardener | 31.00% | ~3,806 |
+| Generous | 25.00% | ~3,069 |
+| Chef Cook | 18.00% | ~2,210 |
+| Miner | 10.00% | ~1,228 |
 | Duty Bound | 7.00% | ~859 |
-| Angler | 6.00% | ~736 |
-| Thorn Cleaner | 6.00% | ~736 |
+| Angler | 6.00% | ~737 |
+| Thorn Cleaner | 6.00% | ~737 |
 | Chit Chatter | 3.00% | ~368 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,273 (Ranked 160)  
+Progressed: 12,276 (Ranked 160)  
 Completed: 298 (2.43%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 298 (2.43%) (Ranked 122)
 | 2023-12-03 | 12,149 | 289 |
 | 2023-12-04 | 12,176 | 290 |
 | 2023-12-05 | 12,236 | 295 |
-| 2023-12-06 | 12,273 | 298 |
+| 2023-12-06 | 12,276 | 298 |
 ## Awards
 Max (Great for Beginners): 1,096  (Ranked 146)  
 Sum: 8,029 (Ranked 108)  

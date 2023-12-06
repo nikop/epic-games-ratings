@@ -3,9 +3,9 @@
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 371,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -552,9 +552,9 @@
       "ID": "BARON",
       "SetID": "40o4f14",
       "Name": "Baron",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "CHAIR",
@@ -768,9 +768,9 @@
       "ID": "WASHING",
       "SetID": "40o4f14",
       "Name": "Needs washing",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "WITCH",
@@ -799,8 +799,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:04:11.9007598+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:04:25.5687244+00:00",
   "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:58:08.8241019+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:04:11.9007801+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:58:25.652969+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:04:25.5687441+00:00"
 }

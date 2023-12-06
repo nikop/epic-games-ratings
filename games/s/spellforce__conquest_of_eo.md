@@ -8,8 +8,8 @@
 | Home Sweet Home | 93.00% | ~38 |
 | First to the post | 90.00% | ~37 |
 | A kind of Magic | 85.00% | ~35 |
+| Expansion | 80.00% | ~33 |
 | Connected | 80.00% | ~33 |
-| Expansion | 78.00% | ~32 |
 | Harvest Time | 71.00% | ~29 |
 | Mine! | 68.00% | ~28 |
 | Artificer's Apprentice | 63.00% | ~26 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 41 (Ranked 520)  
-Completed: 0 (0.00%) (Ranked 370)  
+Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

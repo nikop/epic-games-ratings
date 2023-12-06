@@ -5,9 +5,9 @@ Rating: 4.76 (Ranked 130)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,641 |
-| First Class Student | 15.00% | ~45,601 |
-| Troll with the Punches | 14.00% | ~42,561 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,642 |
+| First Class Student | 15.00% | ~45,602 |
+| Troll with the Punches | 14.00% | ~42,562 |
 | A Keen Sense of Spell | 13.00% | ~39,521 |
 | That's a Keeper | 13.00% | ~39,521 |
 | The Hallowed Hero | 12.00% | ~36,481 |
@@ -27,12 +27,12 @@ Rating: 4.76 (Ranked 130)
 | Beast Friends | 8.00% | ~24,321 |
 | Flight the Good Flight | 8.00% | ~24,321 |
 | Raising Expectations | 7.00% | ~21,281 |
-| The Seeker of Knowledge | 6.00% | ~18,240 |
-| The Root of the Problem | 6.00% | ~18,240 |
-| Third Time's a Charm | 6.00% | ~18,240 |
-| The Toast of the Town | 5.00% | ~15,200 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,200 |
-| The Ends Petrify the Means | 5.00% | ~15,200 |
+| The Seeker of Knowledge | 6.00% | ~18,241 |
+| The Root of the Problem | 6.00% | ~18,241 |
+| Third Time's a Charm | 6.00% | ~18,241 |
+| The Toast of the Town | 5.00% | ~15,201 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,201 |
+| The Ends Petrify the Means | 5.00% | ~15,201 |
 | Going Through the Potions | 4.00% | ~12,160 |
 | Room with a View | 4.00% | ~12,160 |
 | The Intrepid Explorer | 4.00% | ~12,160 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,128 |
 | Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,008 (Ranked 54)  
+Progressed: 304,011 (Ranked 54)  
 Completed: 523 (0.17%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,10 +281,10 @@ Completed: 523 (0.17%) (Ranked 270)
 | 2023-12-03 | 303,892 | 521 |
 | 2023-12-04 | 303,943 | 521 |
 | 2023-12-05 | 303,976 | 521 |
-| 2023-12-06 | 304,008 | 523 |
+| 2023-12-06 | 304,011 | 523 |
 ## Awards
 Max (Character Customization): 24,977  (Ranked 17)  
-Sum: 50,045 (Ranked 30)  
+Sum: 50,049 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -293,8 +293,8 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,382 |
 | This game has Amazing Storytelling | 1,340 |
 | This game has Diverse Characters | 1,334 |
+| This game is Relaxing | 1,304 |
 | This game is Extremely Fun | 1,303 |
-| This game is Relaxing | 1,300 |
 | This game has Amazing Characters | 1,260 |
 | This game is Highly Recommended | 1,238 |
 | This game has Quickly Understood Controls | 1,196 |
@@ -560,4 +560,4 @@ Diff (max vs sum): -13
 | 2023-12-03 | 4.76 | 24,854 | 49,759 |
 | 2023-12-04 | 4.76 | 24,909 | 49,885 |
 | 2023-12-05 | 4.76 | 24,947 | 49,982 |
-| 2023-12-06 | 4.76 | 24,977 | 50,045 |
+| 2023-12-06 | 4.76 | 24,977 | 50,049 |

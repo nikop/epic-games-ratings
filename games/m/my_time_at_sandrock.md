@@ -10,7 +10,7 @@ Number of Ratings: 892  (23.09.2022)
 | Iron Chef | 172.00% | ~855 |
 | Super Spelunker | 136.00% | ~676 |
 | Greeno-B-Gone | 131.00% | ~651 |
-| The Little Wood that Could | 109.00% | ~542 |
+| The Little Wood that Could | 110.00% | ~547 |
 | Your Especially Earned Trajectory | 107.00% | ~532 |
 | No Mountain Wide Enough | 85.00% | ~422 |
 | One of the Cool Kids | 85.00% | ~422 |
@@ -40,7 +40,7 @@ Number of Ratings: 892  (23.09.2022)
 | Lifeline Pipeline | 58.00% | ~288 |
 | Martle's Dream | 57.00% | ~283 |
 | Officially Official | 57.00% | ~283 |
-| Call Me Fishmael | 56.00% | ~278 |
+| Call Me Fishmael | 57.00% | ~283 |
 | Knowledge is Power | 55.00% | ~273 |
 | Finishing Touches | 54.00% | ~268 |
 | Bridging the Gap | 54.00% | ~268 |
@@ -68,7 +68,7 @@ Number of Ratings: 892  (23.09.2022)
 | Sandrock's Hottest Club | 5.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 497 (Ranked 315)  
-Completed: 0 (0.00%) (Ranked 370)  
+Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

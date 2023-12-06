@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 37.00% | ~134 |
+| Adept | 36.00% | ~131 |
 | Double Kill | 26.00% | ~94 |
 | Critical Hit | 15.00% | ~54 |
 | Veteran | 13.00% | ~47 |
@@ -14,10 +14,10 @@ Number of Ratings: 292  (23.09.2022)
 | Sorcerous Spree | 7.00% | ~25 |
 | Humiliation | 7.00% | ~25 |
 | Veni, Vidi, Vici | 5.00% | ~18 |
-| Multi Kill | 4.00% | ~14 |
-| Whoops! | 4.00% | ~14 |
-| Master | 4.00% | ~14 |
-| Expert Essence Employment | 4.00% | ~14 |
+| Multi Kill | 4.00% | ~15 |
+| Whoops! | 4.00% | ~15 |
+| Master | 4.00% | ~15 |
+| Expert Essence Employment | 4.00% | ~15 |
 | Landlord Extraordinaire | 3.00% | ~11 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~11 |
 | The Song of Stoutheart | 2.00% | ~7 |
@@ -61,8 +61,8 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361 (Ranked 338)  
-Completed: 0 (0.00%) (Ranked 370)  
+Progressed: 363 (Ranked 335)  
+Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 370)
 | 2023-12-03 | 343 | 0 |
 | 2023-12-04 | 350 | 0 |
 | 2023-12-05 | 357 | 0 |
-| 2023-12-06 | 361 | 0 |
+| 2023-12-06 | 363 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 515)  
 Sum: 194 (Ranked 406)  

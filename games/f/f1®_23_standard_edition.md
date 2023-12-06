@@ -56,7 +56,7 @@ Rating: 4.67 (Ranked 277)
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,043 (Ranked 186)  
-Completed: 0 (0.00%) (Ranked 370)  
+Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -141,9 +141,9 @@ Completed: 0 (0.00%) (Ranked 370)
 | 2023-12-05 | 6,039 | 0 |
 | 2023-12-06 | 6,043 | 0 |
 ## Awards
-Max (Diverse Characters): 32  (Ranked 494)  
+Max (Diverse Characters): 32  (Ranked 495)  
 Sum: 152 (Ranked 429)  
-Diff (max vs sum): 65  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

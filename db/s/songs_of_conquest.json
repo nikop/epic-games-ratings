@@ -5,10 +5,10 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 406,
-  "Ranking_EOS_Progress": 338,
-  "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 335,
+  "Ranking_EOS_Completed": 371,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 361,
+  "EOS_Progressed": 363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1568,6 +1568,11 @@
       "Time": "2023-12-06T14:04:57.4058142+00:00",
       "NumProgressed": 361,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T18:04:04.35247+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1788,7 +1793,7 @@
       "Name": "Multi Kill",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MultiplayerWins",
@@ -1820,7 +1825,7 @@
       "Name": "Whoops!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "RanaCampaign",
@@ -1906,9 +1911,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 131
     },
     {
       "ID": "WielderLevel2",
@@ -1924,7 +1929,7 @@
       "Name": "Master",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "WielderLevel4",
@@ -1956,7 +1961,7 @@
       "Name": "Expert Essence Employment",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -2011,15 +2016,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 361,
+      "Progressed": 363,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:03:49.2105308+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:04:04.3524695+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:59:20.2231892+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:03:49.2105649+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:59:33.6903157+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:04:04.3525273+00:00"
 }

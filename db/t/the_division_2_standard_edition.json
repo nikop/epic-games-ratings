@@ -2,13 +2,13 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 611,
+  "Ranking_Rating": 612,
   "Ranking_Popularity": 43,
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 785,
-  "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 467,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 371,
+  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -13293,18 +13293,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 29311,
       "NumberOfAwardsMax": 8626
+    },
+    {
+      "Time": "2023-12-06T17:59:04.7771972+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 29317,
+      "NumberOfAwardsMax": 8629
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29311,
-  "NumberOfAwardsMax": 8626,
+  "NumberOfAwards": 29317,
+  "NumberOfAwardsMax": 8629,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8626
+      "Count": 8629
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -13322,7 +13328,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1536
+      "Count": 1539
     },
     {
       "Text": "This game is Highly Recommended",
@@ -13384,8 +13390,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-12-05T21:58:16.1265032+00:00",
+  "LastChanged": "2023-12-06T17:59:04.777197+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:57.7261567+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:58:49.9747017+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:05:37.3898711+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:59:04.7771976+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:05:49.2176298+00:00"
 }

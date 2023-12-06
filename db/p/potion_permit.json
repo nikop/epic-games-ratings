@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -379,9 +379,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1670,
+  "EOS_Progressed": 1671,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2499,6 +2499,11 @@
       "Time": "2023-12-03T20:03:31.9294953+00:00",
       "NumProgressed": 1670,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-06T18:04:32.3068244+00:00",
+      "NumProgressed": 1671,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2510,7 +2515,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2518,7 +2523,7 @@
       "Name": "Great Doctor",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2566,7 +2571,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2574,7 +2579,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2590,7 +2595,7 @@
       "Name": "Expert Chemist",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACHIEVEMENTS_12",
@@ -2606,7 +2611,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -2646,15 +2651,15 @@
       "Name": "Dog Whisperer",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "ACHIEVEMENTS_19",
       "SetID": "d4o538a",
       "Name": "Spark of Love",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 317
+      "UsersEstimate": 301
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -2662,7 +2667,7 @@
       "Name": "Decorative Mind",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -2686,7 +2691,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -2694,7 +2699,7 @@
       "Name": "Stone Specialist",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACHIEVEMENTS_25",
@@ -2782,7 +2787,7 @@
       "Name": "Production Sorter",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENTS_36",
@@ -2813,7 +2818,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1670,
+      "Progressed": 1671,
       "Completed": 10
     }
   ],
@@ -2821,8 +2826,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-02T14:58:43.9151067+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:04:18.9098251+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:04:32.3068238+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:46.2753776+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:00:26.1614331+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:04:18.909851+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:00:35.4543419+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:04:32.3068747+00:00"
 }

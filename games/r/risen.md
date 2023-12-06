@@ -25,10 +25,10 @@ Rating: 4.57 (Ranked 477)
 | Family man | 26.00% | ~16 |
 | Death of a legend | 26.00% | ~16 |
 | Archaeologist | 26.00% | ~16 |
+| Hard worker | 26.00% | ~16 |
 | Master detective | 26.00% | ~16 |
 | Little hero | 25.00% | ~15 |
 | Pandora's box | 25.00% | ~15 |
-| Hard worker | 25.00% | ~15 |
 | Peacekeeper | 23.00% | ~14 |
 | Ghost hunter | 21.00% | ~13 |
 | Sidelined | 21.00% | ~13 |
@@ -57,7 +57,7 @@ Rating: 4.57 (Ranked 477)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 61 (Ranked 488)  
-Completed: 0 (0.00%) (Ranked 370)  
+Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,15 +6,15 @@ Rating: 4.75 (Ranked 147)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.80% | ~1,887 |
-| Regicide | 0.80% | ~120 |
+| Regicide | 0.80% | ~121 |
 | First of Many | 0.70% | ~1,651 |
-| Master of the Dark Arts | 0.70% | ~105 |
-| Not Your Average Trait | 0.60% | ~1,415 |
-| Expanding Horizons | 0.50% | ~1,179 |
-| Gleaming the Cube | 0.50% | ~1,179 |
-| Quest for Survival | 0.50% | ~1,179 |
-| Familiar Face | 0.50% | ~1,179 |
-| Boss'n Up | 0.50% | ~1,179 |
+| Master of the Dark Arts | 0.70% | ~106 |
+| Not Your Average Trait | 0.60% | ~1,416 |
+| Expanding Horizons | 0.50% | ~1,180 |
+| Gleaming the Cube | 0.50% | ~1,180 |
+| Quest for Survival | 0.50% | ~1,180 |
+| Familiar Face | 0.50% | ~1,180 |
+| Boss'n Up | 0.50% | ~1,180 |
 | Am I Seeing This? | 0.40% | ~944 |
 | Not So Special Now | 0.40% | ~944 |
 | Not a Janitor | 0.40% | ~944 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | You Shall Pass | 0.20% | ~30 |
 | A Foul Feast | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,897 (Ranked 68)  
+Progressed: 235,926 (Ranked 68)  
 Completed: 564 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,10 +204,10 @@ Completed: 564 (0.24%) (Ranked 252)
 | 2023-12-03 | 234,204 | 554 |
 | 2023-12-04 | 234,896 | 558 |
 | 2023-12-05 | 235,528 | 561 |
-| 2023-12-06 | 235,897 | 564 |
+| 2023-12-06 | 235,926 | 564 |
 ## Awards
 Max (Great Boss Battles): 2,649  (Ranked 102)  
-Sum: 6,559 (Ranked 127)  
+Sum: 6,564 (Ranked 127)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -219,7 +219,7 @@ Diff (max vs sum): -25
 | This game has Amazing Storytelling | 406 |
 | This game is Extremely Fun | 403 |
 | This game has Amazing Characters | 395 |
-| This game has Quickly Understood Controls | 389 |
+| This game has Quickly Understood Controls | 394 |
 | This game has Unique Visuals | 340 |
 | This game has a Creative Community | 294 |
 ## Ratings History
@@ -358,4 +358,4 @@ Diff (max vs sum): -25
 | 2023-12-03 | 4.75 | 2,603 | 6,405 |
 | 2023-12-04 | 4.75 | 2,623 | 6,481 |
 | 2023-12-05 | 4.75 | 2,649 | 6,547 |
-| 2023-12-06 | 4.75 | 2,649 | 6,559 |
+| 2023-12-06 | 4.75 | 2,649 | 6,564 |

@@ -2,10 +2,10 @@
   "ID": "269f94247b4f471b9381fd4052bf1fad",
   "Name": "Born of Bread",
   "ProductSlug": "born-of-bread-008e66",
-  "Ranking_EOS_Progress": 634,
-  "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 630,
+  "Ranking_EOS_Completed": 371,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -57,6 +57,11 @@
       "Time": "2023-12-06T16:04:52.0809804+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T18:04:31.9938237+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T15:04:34.1379111+00:00",
@@ -83,9 +88,9 @@
       "ID": "ACH_BARGAIN-HUNTER",
       "SetID": "6lg1p1e",
       "Name": "Bargain Hunter",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BEACHED",
@@ -99,15 +104,15 @@
       "ID": "ACH_BIG-BROTHER",
       "SetID": "6lg1p1e",
       "Name": "Big Brother",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BREAD-AND-BREAKFAST",
       "SetID": "6lg1p1e",
       "Name": "Bread and Breakfast",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -147,9 +152,9 @@
       "ID": "ACH_FIRST-PAYCHECK",
       "SetID": "6lg1p1e",
       "Name": "First Paycheck",
-      "Percentage": 14,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FRIENEMY",
@@ -171,9 +176,9 @@
       "ID": "ACH_HEART-OF-THE-CARDS",
       "SetID": "6lg1p1e",
       "Name": "Heart of the Cards",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_HELPFUL-BREAD",
@@ -219,7 +224,7 @@
       "ID": "ACH_MISCHIEVOUS-BREAD",
       "SetID": "6lg1p1e",
       "Name": "Mischievous Bread",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -251,9 +256,9 @@
       "ID": "ACH_PARTNER",
       "SetID": "6lg1p1e",
       "Name": "Partner",
-      "Percentage": 71,
+      "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_PHOTOGRAPHIC-MEMORY",
@@ -307,7 +312,7 @@
       "ID": "ACH_RATATOUIED",
       "SetID": "6lg1p1e",
       "Name": "Ratatouied",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -339,30 +344,30 @@
       "ID": "ACH_WHACK-A-MOLE",
       "SetID": "6lg1p1e",
       "Name": "Whack-a-mole",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ZEN-MASTER",
       "SetID": "6lg1p1e",
       "Name": "Zen Master",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "6lg1p1e",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:04:18.5630126+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:04:31.9938233+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.6802786+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:59:51.4585171+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:04:18.56303+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:00:03.5512114+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:04:31.9938459+00:00"
 }

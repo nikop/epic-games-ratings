@@ -20,8 +20,8 @@
 | Endurance test! | 3.00% | ~2 |
 | Are you still here? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58 (Ranked 493)  
-Completed: 0 (0.00%) (Ranked 370)  
+Progressed: 58 (Ranked 494)  
+Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

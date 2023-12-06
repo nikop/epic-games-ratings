@@ -19,8 +19,8 @@
 | Master of the Rope | 30.00% | ~13 |
 | Training Day | 30.00% | ~13 |
 | In the Air | 30.00% | ~13 |
+| Never Miss | 30.00% | ~13 |
 | The Fastest | 28.00% | ~12 |
-| Never Miss | 28.00% | ~12 |
 | Don’t Miss Any | 26.00% | ~11 |
 | Animal Sighting | 23.00% | ~10 |
 | Adventure Bay’s Citizen | 21.00% | ~9 |
@@ -36,7 +36,7 @@
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 43 (Ranked 516)  
-Completed: 0 (0.00%) (Ranked 370)  
+Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

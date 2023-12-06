@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11515,10 +11515,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 50045,
       "NumberOfAwardsMax": 24977
+    },
+    {
+      "Time": "2023-12-06T18:00:28.4693634+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50049,
+      "NumberOfAwardsMax": 24977
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50045,
+  "NumberOfAwards": 50049,
   "NumberOfAwardsMax": 24977,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11568,7 +11574,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1300
+      "Count": 1304
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11595,9 +11601,9 @@
       "Count": 837
     }
   ],
-  "EOS_Progressed": 304008,
+  "EOS_Progressed": 304011,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36340,6 +36346,11 @@
       "Time": "2023-12-06T17:09:32.8934581+00:00",
       "NumProgressed": 304008,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2023-12-06T18:09:39.5593018+00:00",
+      "NumProgressed": 304011,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 45,
@@ -36351,7 +36362,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48641
+      "UsersEstimate": 48642
     },
     {
       "ID": "PFA_10",
@@ -36391,7 +36402,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 18240
+      "UsersEstimate": 18241
     },
     {
       "ID": "PFA_15",
@@ -36439,7 +36450,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15200
+      "UsersEstimate": 15201
     },
     {
       "ID": "PFA_20",
@@ -36487,7 +36498,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18240
+      "UsersEstimate": 18241
     },
     {
       "ID": "PFA_26",
@@ -36519,7 +36530,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 18240
+      "UsersEstimate": 18241
     },
     {
       "ID": "PFA_3",
@@ -36615,7 +36626,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15200
+      "UsersEstimate": 15201
     },
     {
       "ID": "PFA_40",
@@ -36631,7 +36642,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15200
+      "UsersEstimate": 15201
     },
     {
       "ID": "PFA_42",
@@ -36679,7 +36690,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45601
+      "UsersEstimate": 45602
     },
     {
       "ID": "PFA_7",
@@ -36687,7 +36698,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42561
+      "UsersEstimate": 42562
     },
     {
       "ID": "PFA_8",
@@ -36710,16 +36721,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304008,
+      "Progressed": 304011,
       "Completed": 523
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-06T16:01:27.0363568+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:09:32.8934579+00:00",
+  "LastChanged": "2023-12-06T18:00:28.4693632+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:09:39.5593011+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:00:18.7295707+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:09:32.8936057+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:00:28.4693637+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:09:39.5594541+00:00"
 }

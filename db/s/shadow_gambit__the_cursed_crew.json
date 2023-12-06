@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -131,7 +131,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1009,
+  "EOS_Progressed": 1010,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
@@ -3376,6 +3376,11 @@
       "Time": "2023-12-06T11:06:16.1143373+00:00",
       "NumProgressed": 1009,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-06T18:05:17.5700335+00:00",
+      "NumProgressed": 1010,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3396,7 +3401,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "_03_FinishAct1",
@@ -3412,7 +3417,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "_05_FinishAct2",
@@ -3468,7 +3473,7 @@
       "Name": "Seadog",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "_12_Completion_50",
@@ -3508,7 +3513,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3532,7 +3537,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -3595,7 +3600,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1009,
+      "Progressed": 1010,
       "Completed": 32
     }
   ],
@@ -3603,8 +3608,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-04T19:02:27.0959811+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:05:04.8411016+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:05:17.570033+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:57:59.0600868+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:05:04.8411502+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:58:16.0777672+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:05:17.5701024+00:00"
 }

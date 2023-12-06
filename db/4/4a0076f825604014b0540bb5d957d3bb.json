@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 468,
-  "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 371,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -398,9 +398,9 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 99,
+      "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "CgkInO_K3eIdEAIQBA",
@@ -446,9 +446,9 @@
       "ID": "CgkInO_K3eIdEAIQCQ",
       "SetID": "6bj96in",
       "Name": "NOVICE CRAFTSMAN",
-      "Percentage": 100,
+      "Percentage": 101,
       "XP": 40,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "CgkInO_K3eIdEAIQCg",
@@ -470,9 +470,9 @@
       "ID": "CgkInO_K3eIdEAIQDA",
       "SetID": "6bj96in",
       "Name": "BRIDGES OF THE PAST",
-      "Percentage": 99,
+      "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "CgkInO_K3eIdEAIQDQ",
@@ -597,8 +597,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:09:14.1863098+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:09:21.585795+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:27.5343781+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:57:44.4977796+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:09:14.1863261+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:58:02.7799551+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:09:21.5858125+00:00"
 }

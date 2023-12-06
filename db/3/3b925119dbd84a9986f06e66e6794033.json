@@ -3,9 +3,9 @@
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 371,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -999,6 +999,11 @@
       "Time": "2023-12-05T04:09:46.7857921+00:00",
       "NumProgressed": 286,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T18:09:14.4932291+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1123,7 +1128,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1131,7 +1136,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1170,14 +1175,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:09:06.8464422+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:09:14.4932283+00:00",
   "LastUpdate_AppInfo": "2023-12-02T01:39:51.8916721+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:59:54.9414011+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:09:06.8464602+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:00:06.4950193+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:09:14.4932479+00:00"
 }

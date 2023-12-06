@@ -3,9 +3,9 @@
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 395,
-  "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 371,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -789,9 +789,9 @@
       "ID": "TINGWD_CHAP_END_03",
       "SetID": "c0imaa6",
       "Name": "Princess saver",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "TINGWD_CHAP_END_04",
@@ -829,17 +829,17 @@
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "TINGWD_DETECTIVE",
       "SetID": "c0imaa6",
       "Name": "Private Detective",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 162
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -885,9 +885,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -988,8 +988,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:06:04.2906459+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:06:15.4193808+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:13.2165924+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:57:44.0304311+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:06:04.2906673+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:58:02.343733+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:06:15.4194049+00:00"
 }

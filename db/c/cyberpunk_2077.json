@@ -16158,18 +16158,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 393350,
       "NumberOfAwardsMax": 117137
+    },
+    {
+      "Time": "2023-12-06T18:03:08.5321104+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 394830,
+      "NumberOfAwardsMax": 118092
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 393350,
-  "NumberOfAwardsMax": 117137,
+  "NumberOfAwards": 394830,
+  "NumberOfAwardsMax": 118092,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 117137
+      "Count": 118092
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -16187,7 +16193,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 20820
+      "Count": 21068
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -16223,7 +16229,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21524
+      "Count": 21801
     },
     {
       "Text": "This game is Extremely Fun",
@@ -16238,9 +16244,9 @@
       "Count": 14554
     }
   ],
-  "EOS_Progressed": 971221,
+  "EOS_Progressed": 971248,
   "EOS_Completed": 2847,
-  "EOS_NewPlayers": 8623,
+  "EOS_NewPlayers": 8584,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -42418,6 +42424,11 @@
       "Time": "2023-12-06T17:06:28.0728905+00:00",
       "NumProgressed": 971221,
       "NumCompleted": 2847
+    },
+    {
+      "Time": "2023-12-06T18:06:38.1728102+00:00",
+      "NumProgressed": 971248,
+      "NumCompleted": 2847
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -42462,7 +42473,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48561
+      "UsersEstimate": 48562
     },
     {
       "ID": "FollowingTheRiver",
@@ -42502,7 +42513,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 67985
+      "UsersEstimate": 67987
     },
     {
       "ID": "Gunslinger",
@@ -42550,7 +42561,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19424
+      "UsersEstimate": 19425
     },
     {
       "ID": "MaxPain",
@@ -42558,7 +42569,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19424
+      "UsersEstimate": 19425
     },
     {
       "ID": "MustBeTheRats",
@@ -42598,7 +42609,7 @@
       "Name": "Life of the Road",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19424
+      "UsersEstimate": 19425
     },
     {
       "ID": "Roleplayer",
@@ -42646,7 +42657,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58273
+      "UsersEstimate": 58275
     },
     {
       "ID": "TheHermit",
@@ -42662,7 +42673,7 @@
       "Name": "The High Priestess",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19424
+      "UsersEstimate": 19425
     },
     {
       "ID": "TheLovers",
@@ -42670,7 +42681,7 @@
       "Name": "The Lovers",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38849
+      "UsersEstimate": 38850
     },
     {
       "ID": "TheStar",
@@ -42734,7 +42745,7 @@
       "Name": "True Warrior",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19424
+      "UsersEstimate": 19425
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -42758,7 +42769,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116547
+      "UsersEstimate": 116550
     },
     {
       "ID": "YipMan",
@@ -42774,7 +42785,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19424
+      "UsersEstimate": 19425
     },
     {
       "ID": "All the President\u0027s Men",
@@ -42870,7 +42881,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "UltimateSurvivor",
@@ -42965,21 +42976,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 971221,
+      "Progressed": 971248,
       "Completed": 2847
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 99844,
-      "Completed": 10304
+      "Progressed": 99871,
+      "Completed": 10305
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-06T16:02:55.7743308+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:06:28.07289+00:00",
+  "LastChanged": "2023-12-06T18:03:08.5321102+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:06:38.1728098+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.8863582+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:02:52.5185432+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:06:28.0730211+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:03:08.5321109+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:06:38.1730006+00:00"
 }

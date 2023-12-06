@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4354,
+  "EOS_Progressed": 4355,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
@@ -10999,6 +10999,11 @@
       "Time": "2023-12-06T09:06:22.9110537+00:00",
       "NumProgressed": 4354,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-06T18:06:50.422921+00:00",
+      "NumProgressed": 4355,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -11026,7 +11031,7 @@
       "Name": "Artist in the making",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ach_animals_completed",
@@ -11074,7 +11079,7 @@
       "Name": "Color flood",
       "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "ach_first_picture",
@@ -11082,7 +11087,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3527
+      "UsersEstimate": 3528
     },
     {
       "ID": "ach_food_completed",
@@ -11098,7 +11103,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "ach_game_opened",
@@ -11137,14 +11142,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4354,
+      "Progressed": 4355,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:08:11.626081+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:06:50.4229205+00:00",
   "LastUpdate_AppInfo": "2023-12-01T21:56:53.9270768+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:59:46.5531313+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:08:11.626136+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:59:58.8279222+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:06:50.422984+00:00"
 }

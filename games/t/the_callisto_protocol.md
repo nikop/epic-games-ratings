@@ -29,8 +29,8 @@ Rating: 4.19 (Ranked 928)
 | It's Time | 5.00% | ~222 |
 | Giving Back | 4.00% | ~661 |
 | The Commonality | 3.00% | ~495 |
+| One Last Job | 3.00% | ~133 |
 | In Striking Distance | 2.00% | ~330 |
-| One Last Job | 2.00% | ~89 |
 | Big Spender | 1.00% | ~44 |
 | This Isn't About Escape | 1.00% | ~44 |
 | Armed to the Teeth | 0.90% | ~40 |

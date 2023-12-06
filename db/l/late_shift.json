@@ -2,10 +2,10 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 704,
+  "EOS_Progressed": 705,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.28,
   "EosHistory": [
@@ -1725,6 +1725,11 @@
       "Time": "2023-12-06T06:08:46.567502+00:00",
       "NumProgressed": 704,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-06T18:08:53.9181582+00:00",
+      "NumProgressed": 705,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1736,7 +1741,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1800,7 +1805,7 @@
       "Name": "The Frenzy",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -1808,7 +1813,7 @@
       "Name": "Even Tempered",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1832,7 +1837,7 @@
       "Name": "Good Karma",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "INTERROGATION",
@@ -1872,7 +1877,7 @@
       "Name": "Sabotage",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "SHILL_BIDDER",
@@ -1895,7 +1900,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 704,
+      "Progressed": 705,
       "Completed": 9
     }
   ],
@@ -1903,8 +1908,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:08:46.4281106+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:08:53.9181578+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:03.6032951+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:58:21.616725+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:08:46.4281326+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:58:38.487233+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:08:53.9181808+00:00"
 }

@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133046,
+  "EOS_Progressed": 133047,
   "EOS_Completed": 1176,
-  "EOS_NewPlayers": 1029,
+  "EOS_NewPlayers": 1026,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -26543,6 +26543,11 @@
       "Time": "2023-12-06T17:08:08.4299559+00:00",
       "NumProgressed": 133046,
       "NumCompleted": 1176
+    },
+    {
+      "Time": "2023-12-06T18:06:47.2999825+00:00",
+      "NumProgressed": 133047,
+      "NumCompleted": 1176
     }
   ],
   "TotalAchievements": 34,
@@ -26570,7 +26575,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 55879
+      "UsersEstimate": 55880
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -26610,7 +26615,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 106437
+      "UsersEstimate": 106438
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -26642,7 +26647,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 53218
+      "UsersEstimate": 53219
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -26650,7 +26655,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 35922
+      "UsersEstimate": 35923
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -26722,7 +26727,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 35922
+      "UsersEstimate": 35923
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -26754,7 +26759,7 @@
       "Name": "Naacalvision",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 21287
+      "UsersEstimate": 21288
     },
     {
       "ID": "ACH_L05_STREAMS",
@@ -26825,7 +26830,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 133046,
+      "Progressed": 133047,
       "Completed": 1176
     }
   ],
@@ -26833,8 +26838,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:08:08.4299554+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:06:47.299982+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:27.67682+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:57:49.8435015+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:08:08.4301+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:58:07.9159573+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:06:47.3001663+00:00"
 }

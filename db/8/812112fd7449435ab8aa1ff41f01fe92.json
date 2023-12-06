@@ -2,10 +2,10 @@
   "ID": "812112fd7449435ab8aa1ff41f01fe92",
   "Name": "Jump Challenge!",
   "ProductSlug": "jump-challenge-228ff0",
-  "Ranking_EOS_Progress": 546,
-  "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Completed": 371,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
     "PcReleaseDate": "2022-03-19T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -149,6 +149,11 @@
       "Time": "2023-12-04T12:04:17.222791+00:00",
       "NumProgressed": 27,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T18:05:30.6942889+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T15:03:01.8003971+00:00",
@@ -167,7 +172,7 @@
       "ID": "DEATH_ACID",
       "SetID": "5629o35",
       "Name": "Be wary of acid",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -209,7 +214,7 @@
       "Name": "The floor is lava. Literally.",
       "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "DEATH_LAVA_100",
@@ -233,7 +238,7 @@
       "Name": "Welcome to the jumping challenge!",
       "Percentage": 104,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "OWN_SKINS",
@@ -263,7 +268,7 @@
       "ID": "SCORE_100",
       "SetID": "5629o35",
       "Name": "Newbie jumper",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 25,
       "UsersEstimate": 13
     },
@@ -271,7 +276,7 @@
       "ID": "SCORE_300",
       "SetID": "5629o35",
       "Name": "Parkourer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -304,14 +309,14 @@
     {
       "ID": "5629o35",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:05:18.712388+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:05:30.6942884+00:00",
   "LastUpdate_AppInfo": "2023-12-04T15:57:12.8673481+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:58:15.6713513+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:05:18.7123985+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:58:32.8233153+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:05:30.6943005+00:00"
 }

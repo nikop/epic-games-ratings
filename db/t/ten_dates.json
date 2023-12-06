@@ -4,8 +4,8 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -708,9 +708,9 @@
       "ID": "fail_ryan",
       "SetID": "6h5h9ho",
       "Name": "Picky, Picky!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "misha_date2_all",
@@ -861,8 +861,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:08:54.6493062+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:09:02.3487721+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:12.5051306+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:00:02.6013209+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:08:54.6493202+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:00:13.1853582+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:09:02.3487887+00:00"
 }

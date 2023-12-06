@@ -5,38 +5,38 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,695 |
-| Pork Chopped | 3.00% | ~1,695 |
-| Dr. Reed, I Presume? | 2.00% | ~14,619 |
-| Git Gutte! | 2.00% | ~14,619 |
-| Bookworm | 2.00% | ~14,619 |
-| Break A Leg | 2.00% | ~14,619 |
-| Coup de Grâce | 2.00% | ~14,619 |
-| Hazardous Materials | 2.00% | ~14,619 |
-| Friends Like These | 2.00% | ~14,619 |
-| Hotel California | 2.00% | ~14,619 |
-| Apex Predator | 2.00% | ~14,619 |
-| Stacking the Deck | 2.00% | ~14,619 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,619 |
-| This is My Weapon | 2.00% | ~14,619 |
-| Welcome To Hell-A | 2.00% | ~14,619 |
+| Whatever It Takes | 3.00% | ~1,696 |
+| Pork Chopped | 3.00% | ~1,696 |
+| Dr. Reed, I Presume? | 2.00% | ~14,620 |
+| Git Gutte! | 2.00% | ~14,620 |
+| Bookworm | 2.00% | ~14,620 |
+| Break A Leg | 2.00% | ~14,620 |
+| Coup de Grâce | 2.00% | ~14,620 |
+| Hazardous Materials | 2.00% | ~14,620 |
+| Friends Like These | 2.00% | ~14,620 |
+| Hotel California | 2.00% | ~14,620 |
+| Apex Predator | 2.00% | ~14,620 |
+| Stacking the Deck | 2.00% | ~14,620 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,620 |
+| This is My Weapon | 2.00% | ~14,620 |
+| Welcome To Hell-A | 2.00% | ~14,620 |
 | One of Us | 2.00% | ~1,130 |
-| Making Your Mark | 1.00% | ~7,309 |
-| Anger Management | 1.00% | ~7,309 |
-| Perks of the Job | 1.00% | ~7,309 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,309 |
-| But Doctor, I am Butcho | 1.00% | ~7,309 |
-| Slayer Squad | 1.00% | ~7,309 |
-| Can't Handle the Truth | 1.00% | ~7,309 |
-| Like Riding a Bike | 1.00% | ~7,309 |
-| Zombologist | 1.00% | ~7,309 |
-| Ooh, Shiny! | 1.00% | ~7,309 |
-| A Patton Emerges | 1.00% | ~7,309 |
-| Humanity Distilled | 1.00% | ~7,309 |
-| I Am the Resurrection | 1.00% | ~7,309 |
-| Max Headroom | 1.00% | ~7,309 |
-| Our True Nature | 1.00% | ~7,309 |
-| Down with the Sickness | 0.90% | ~6,578 |
+| Making Your Mark | 1.00% | ~7,310 |
+| Anger Management | 1.00% | ~7,310 |
+| Perks of the Job | 1.00% | ~7,310 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,310 |
+| But Doctor, I am Butcho | 1.00% | ~7,310 |
+| Slayer Squad | 1.00% | ~7,310 |
+| Can't Handle the Truth | 1.00% | ~7,310 |
+| Like Riding a Bike | 1.00% | ~7,310 |
+| Zombologist | 1.00% | ~7,310 |
+| Ooh, Shiny! | 1.00% | ~7,310 |
+| A Patton Emerges | 1.00% | ~7,310 |
+| Humanity Distilled | 1.00% | ~7,310 |
+| I Am the Resurrection | 1.00% | ~7,310 |
+| Max Headroom | 1.00% | ~7,310 |
+| Our True Nature | 1.00% | ~7,310 |
+| Down with the Sickness | 0.90% | ~6,579 |
 | Jumbo Keyring | 0.80% | ~5,848 |
 | Rising Star | 0.80% | ~5,848 |
 | Not Even My Final Form | 0.70% | ~5,117 |
@@ -55,9 +55,9 @@ Rating: 4.54 (Ranked 529)
 | Lawn and Order | 0.20% | ~113 |
 | Donk! | 0.10% | ~731 |
 | Bucket List | 0.10% | ~731 |
-| Wilhelm | 0.10% | ~56 |
+| Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,944 (Ranked 21)  
+Progressed: 730,975 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,10 +287,10 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-03 | 729,822 | 2,461 |
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
-| 2023-12-06 | 730,944 | 2,465 |
+| 2023-12-06 | 730,975 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,968  (Ranked 49)  
-Sum: 12,230 (Ranked 82)  
+Sum: 12,233 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -298,7 +298,7 @@ Diff (max vs sum): -33
 | This game is Great for Beginners | 618 |
 | This game has Diverse Characters | 587 |
 | This game has Quickly Understood Controls | 553 |
-| This game is Relaxing | 527 |
+| This game is Relaxing | 530 |
 | This game has Amazing Storytelling | 514 |
 | This game is Extremely Fun | 501 |
 | This game is Highly Recommended | 498 |
@@ -535,4 +535,4 @@ Diff (max vs sum): -33
 | 2023-12-03 | 4.54 | 7,892 | 12,110 |
 | 2023-12-04 | 4.54 | 7,915 | 12,148 |
 | 2023-12-05 | 4.54 | 7,943 | 12,192 |
-| 2023-12-06 | 4.54 | 7,968 | 12,230 |
+| 2023-12-06 | 4.54 | 7,968 | 12,233 |

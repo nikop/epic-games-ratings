@@ -6,9 +6,9 @@
   "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 27,
-  "Ranking_EOS_Completed": 370,
+  "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2212,9 +2212,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 686231,
+  "EOS_Progressed": 686248,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1805,
+  "EOS_NewPlayers": 1811,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28582,6 +28582,11 @@
       "Time": "2023-12-06T17:09:35.5633279+00:00",
       "NumProgressed": 686231,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-06T18:09:42.3791872+00:00",
+      "NumProgressed": 686248,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -28593,7 +28598,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 542122
+      "UsersEstimate": 542136
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -28673,7 +28678,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27449
+      "UsersEstimate": 27450
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -28681,7 +28686,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 247043
+      "UsersEstimate": 247049
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -28833,7 +28838,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 212732
+      "UsersEstimate": 212737
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -28865,7 +28870,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 41174
+      "UsersEstimate": 41175
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -28897,7 +28902,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 102935
+      "UsersEstimate": 102937
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -28913,7 +28918,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27449
+      "UsersEstimate": 27450
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -28953,7 +28958,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 48036
+      "UsersEstimate": 48037
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -28993,7 +28998,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 123522
+      "UsersEstimate": 123525
     },
     {
       "ID": "RP_TRUSTED",
@@ -29009,7 +29014,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 61761
+      "UsersEstimate": 61762
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -29017,22 +29022,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27449
+      "UsersEstimate": 27450
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 686231,
+      "Progressed": 686248,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-04T01:47:13.5273281+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:09:35.5633277+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:09:42.3791866+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:37.2595451+00:00",
-  "LastUpdate_Ratings": "2023-12-06T17:00:08.7554578+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:09:35.5634514+00:00"
+  "LastUpdate_Ratings": "2023-12-06T18:00:19.0007521+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:09:42.379484+00:00"
 }

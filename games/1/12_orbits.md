@@ -30,8 +30,8 @@
 | [Tier 4] A long way home | 0.00% | ~0 |
 | [Tier 3] Wrecking ball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 546)  
-Completed: 0 (0.00%) (Ranked 370)  
+Progressed: 27 (Ranked 547)  
+Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -1106,9 +1106,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_16",
@@ -1289,8 +1289,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-06T17:09:32.2117394+00:00",
+  "LastChanged_Achievements": "2023-12-06T18:09:39.0021353+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:12.3755943+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:57:07.6594678+00:00",
-  "LastUpdate_Achievements": "2023-12-06T17:09:32.2117659+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:57:28.8618729+00:00",
+  "LastUpdate_Achievements": "2023-12-06T18:09:39.0021733+00:00"
 }
