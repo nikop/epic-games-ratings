@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 532582,
+  "EOS_Progressed": 532583,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -24762,6 +24762,11 @@
       "Time": "2023-12-05T23:03:03.1202492+00:00",
       "NumProgressed": 532582,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-12-06T00:03:14.7762266+00:00",
+      "NumProgressed": 532583,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 57,
@@ -24789,7 +24794,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372807
+      "UsersEstimate": 372808
     },
     {
       "ID": "12",
@@ -24997,7 +25002,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 266291
+      "UsersEstimate": 266292
     },
     {
       "ID": "36",
@@ -25109,7 +25114,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 106516
+      "UsersEstimate": 106517
     },
     {
       "ID": "49",
@@ -25133,7 +25138,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74561
+      "UsersEstimate": 74562
     },
     {
       "ID": "51",
@@ -25228,15 +25233,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 532582,
+      "Progressed": 532583,
       "Completed": 504
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-12-05T23:03:03.1202486+00:00",
+  "LastChanged_Achievements": "2023-12-06T00:03:14.7762262+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:19.4702367+00:00",
-  "LastUpdate_Ratings": "2023-12-05T22:57:54.9443775+00:00",
-  "LastUpdate_Achievements": "2023-12-05T23:03:03.120472+00:00"
+  "LastUpdate_Ratings": "2023-12-05T23:58:07.872055+00:00",
+  "LastUpdate_Achievements": "2023-12-06T00:03:14.7763598+00:00"
 }

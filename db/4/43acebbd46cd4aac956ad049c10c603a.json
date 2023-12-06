@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -207,7 +207,7 @@
   ],
   "EOS_Progressed": 879,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2128,9 +2128,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 114
     },
     {
       "ID": "AnthropicHills",
@@ -2184,9 +2184,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 70
     },
     {
       "ID": "Chicken",
@@ -2432,9 +2432,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 70
     },
     {
       "ID": "SingleRod",
@@ -2601,8 +2601,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-05T18:59:22.7453339+00:00",
-  "LastChanged_Achievements": "2023-12-05T23:05:12.8315756+00:00",
+  "LastChanged_Achievements": "2023-12-06T00:05:25.9552522+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-05T22:58:23.5446533+00:00",
-  "LastUpdate_Achievements": "2023-12-05T23:05:12.83166+00:00"
+  "LastUpdate_Ratings": "2023-12-05T23:58:39.0189421+00:00",
+  "LastUpdate_Achievements": "2023-12-06T00:05:25.9553207+00:00"
 }

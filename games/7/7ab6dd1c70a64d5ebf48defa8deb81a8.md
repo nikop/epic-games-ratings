@@ -12,10 +12,10 @@
 | Adventurer | 11.00% | ~27 |
 | Shatter Them All | 11.00% | ~27 |
 | I Found It | 11.00% | ~27 |
+| The Collector | 11.00% | ~27 |
 | Tributes of Caladrias | 10.00% | ~25 |
 | Geared Up | 10.00% | ~25 |
 | Scholar | 10.00% | ~25 |
-| The Collector | 10.00% | ~25 |
 | Big Bazar | 9.00% | ~22 |
 | Fashion Victim | 9.00% | ~22 |
 | Stone Collection | 9.00% | ~22 |

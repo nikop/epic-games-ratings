@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25590,
+  "EOS_Progressed": 25593,
   "EOS_Completed": 484,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.89,
   "EosHistory": [
@@ -25044,6 +25044,11 @@
       "Time": "2023-12-05T23:03:57.2995864+00:00",
       "NumProgressed": 25590,
       "NumCompleted": 484
+    },
+    {
+      "Time": "2023-12-06T00:04:09.5445655+00:00",
+      "NumProgressed": 25593,
+      "NumCompleted": 484
     }
   ],
   "TotalAchievements": 20,
@@ -25055,7 +25060,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4350
+      "UsersEstimate": 4351
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -25103,7 +25108,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -25135,7 +25140,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "FOUND_MAMBA",
@@ -25143,7 +25148,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -25159,7 +25164,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "GAME_FINISHED",
@@ -25175,7 +25180,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19448
+      "UsersEstimate": 19451
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -25183,7 +25188,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6909
+      "UsersEstimate": 6910
     },
     {
       "ID": "NORTH_FINISHED",
@@ -25199,7 +25204,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "WEST_FINISHED",
@@ -25207,22 +25212,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4606
+      "UsersEstimate": 4607
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25590,
+      "Progressed": 25593,
       "Completed": 484
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-05T23:03:57.2995859+00:00",
+  "LastChanged_Achievements": "2023-12-06T00:04:09.5445648+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.5744721+00:00",
-  "LastUpdate_Ratings": "2023-12-05T22:59:55.2368605+00:00",
-  "LastUpdate_Achievements": "2023-12-05T23:03:57.2997456+00:00"
+  "LastUpdate_Ratings": "2023-12-06T00:00:15.3491617+00:00",
+  "LastUpdate_Achievements": "2023-12-06T00:04:09.5447106+00:00"
 }

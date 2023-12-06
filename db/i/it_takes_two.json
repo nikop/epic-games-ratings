@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 26131,
+  "EOS_Progressed": 26133,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 1415,
+  "EOS_NewPlayers": 1413,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8973,6 +8973,11 @@
       "Time": "2023-12-05T22:08:54.2167944+00:00",
       "NumProgressed": 26131,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-12-06T00:08:50.8284588+00:00",
+      "NumProgressed": 26133,
+      "NumCompleted": 112
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -8985,7 +8990,7 @@
       "Name": "It Took Two",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 11498
+      "UsersEstimate": 11499
     },
     {
       "ID": "achievement_10",
@@ -8993,7 +8998,7 @@
       "Name": "Snackosaurus",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "achievement_11",
@@ -9009,7 +9014,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 14895
+      "UsersEstimate": 14896
     },
     {
       "ID": "achievement_13",
@@ -9033,7 +9038,7 @@
       "Name": "Lost And Found",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2875
     },
     {
       "ID": "achievement_16",
@@ -9049,7 +9054,7 @@
       "Name": "Something Fishy",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2875
     },
     {
       "ID": "achievement_18",
@@ -9089,7 +9094,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 22734
+      "UsersEstimate": 22736
     },
     {
       "ID": "achievement_4",
@@ -9097,7 +9102,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 22995
+      "UsersEstimate": 22997
     },
     {
       "ID": "achievement_5",
@@ -9105,7 +9110,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4442
+      "UsersEstimate": 4443
     },
     {
       "ID": "achievement_6",
@@ -9121,7 +9126,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 20643
+      "UsersEstimate": 20645
     },
     {
       "ID": "achievement_8",
@@ -9129,7 +9134,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 11236
+      "UsersEstimate": 11237
     },
     {
       "ID": "achievement_9",
@@ -9137,20 +9142,20 @@
       "Name": "A Daring Devil",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 13849
+      "UsersEstimate": 13850
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 26131,
+      "Progressed": 26133,
       "Completed": 112
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-12-05T23:08:36.4009449+00:00",
+  "LastChanged_Achievements": "2023-12-06T00:08:50.8284584+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.2026189+00:00",
-  "LastUpdate_Ratings": "2023-12-05T22:57:08.9041762+00:00",
-  "LastUpdate_Achievements": "2023-12-05T23:08:36.4009955+00:00"
+  "LastUpdate_Ratings": "2023-12-05T23:57:18.951841+00:00",
+  "LastUpdate_Achievements": "2023-12-06T00:08:50.8285386+00:00"
 }

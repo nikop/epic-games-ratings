@@ -5,22 +5,22 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,686 |
-| Pork Chopped | 3.00% | ~1,686 |
-| Dr. Reed, I Presume? | 2.00% | ~14,613 |
-| Git Gutte! | 2.00% | ~14,613 |
-| Bookworm | 2.00% | ~14,613 |
-| Break A Leg | 2.00% | ~14,613 |
-| Coup de Grâce | 2.00% | ~14,613 |
-| Hazardous Materials | 2.00% | ~14,613 |
-| Friends Like These | 2.00% | ~14,613 |
-| Hotel California | 2.00% | ~14,613 |
-| Apex Predator | 2.00% | ~14,613 |
-| Stacking the Deck | 2.00% | ~14,613 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,613 |
-| This is My Weapon | 2.00% | ~14,613 |
-| Welcome To Hell-A | 2.00% | ~14,613 |
-| One of Us | 2.00% | ~1,124 |
+| Whatever It Takes | 3.00% | ~1,687 |
+| Pork Chopped | 3.00% | ~1,687 |
+| Dr. Reed, I Presume? | 2.00% | ~14,614 |
+| Git Gutte! | 2.00% | ~14,614 |
+| Bookworm | 2.00% | ~14,614 |
+| Break A Leg | 2.00% | ~14,614 |
+| Coup de Grâce | 2.00% | ~14,614 |
+| Hazardous Materials | 2.00% | ~14,614 |
+| Friends Like These | 2.00% | ~14,614 |
+| Hotel California | 2.00% | ~14,614 |
+| Apex Predator | 2.00% | ~14,614 |
+| Stacking the Deck | 2.00% | ~14,614 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,614 |
+| This is My Weapon | 2.00% | ~14,614 |
+| Welcome To Hell-A | 2.00% | ~14,614 |
+| One of Us | 2.00% | ~1,125 |
 | Making Your Mark | 1.00% | ~7,307 |
 | Anger Management | 1.00% | ~7,307 |
 | Perks of the Job | 1.00% | ~7,307 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,673 (Ranked 21)  
+Progressed: 730,685 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,6 +287,7 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-03 | 729,822 | 2,461 |
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
+| 2023-12-06 | 730,685 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,943  (Ranked 49)  
 Sum: 12,192 (Ranked 82)  

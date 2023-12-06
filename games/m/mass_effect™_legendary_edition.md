@@ -33,10 +33,10 @@
 | Sentinel Ally | 41.00% | ~620 |
 | Scholar | 41.00% | ~620 |
 | Head Hunter | 40.00% | ~604 |
-| Operative | 39.00% | ~589 |
+| Operative | 40.00% | ~604 |
+| The Professor | 39.00% | ~589 |
 | Veteran | 38.00% | ~574 |
 | The Archangel | 38.00% | ~574 |
-| The Professor | 38.00% | ~574 |
 | Power Full | 37.00% | ~559 |
 | The Convict | 36.00% | ~544 |
 | Colony Defense | 35.00% | ~529 |

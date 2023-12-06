@@ -16214,9 +16214,9 @@
       "Count": 14384
     }
   ],
-  "EOS_Progressed": 970654,
+  "EOS_Progressed": 970676,
   "EOS_Completed": 2844,
-  "EOS_NewPlayers": 10428,
+  "EOS_NewPlayers": 10372,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -42304,6 +42304,11 @@
       "Time": "2023-12-05T23:05:49.5400915+00:00",
       "NumProgressed": 970654,
       "NumCompleted": 2844
+    },
+    {
+      "Time": "2023-12-06T00:06:03.9795944+00:00",
+      "NumProgressed": 970676,
+      "NumCompleted": 2844
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -42348,7 +42353,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48533
+      "UsersEstimate": 48534
     },
     {
       "ID": "FollowingTheRiver",
@@ -42388,7 +42393,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 67946
+      "UsersEstimate": 67947
     },
     {
       "ID": "Gunslinger",
@@ -42436,7 +42441,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19413
+      "UsersEstimate": 19414
     },
     {
       "ID": "MaxPain",
@@ -42444,7 +42449,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19413
+      "UsersEstimate": 19414
     },
     {
       "ID": "MustBeTheRats",
@@ -42484,7 +42489,7 @@
       "Name": "Life of the Road",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19413
+      "UsersEstimate": 19414
     },
     {
       "ID": "Roleplayer",
@@ -42532,7 +42537,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58239
+      "UsersEstimate": 58241
     },
     {
       "ID": "TheHermit",
@@ -42548,7 +42553,7 @@
       "Name": "The High Priestess",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19413
+      "UsersEstimate": 19414
     },
     {
       "ID": "TheLovers",
@@ -42556,7 +42561,7 @@
       "Name": "The Lovers",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38826
+      "UsersEstimate": 38827
     },
     {
       "ID": "TheStar",
@@ -42620,7 +42625,7 @@
       "Name": "True Warrior",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19413
+      "UsersEstimate": 19414
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -42644,7 +42649,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116478
+      "UsersEstimate": 116481
     },
     {
       "ID": "YipMan",
@@ -42660,7 +42665,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19413
+      "UsersEstimate": 19414
     },
     {
       "ID": "All the President\u0027s Men",
@@ -42716,7 +42721,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "Kingofcups",
@@ -42756,7 +42761,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "UltimateSurvivor",
@@ -42851,21 +42856,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 970654,
+      "Progressed": 970676,
       "Completed": 2844
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 99277,
+      "Progressed": 99299,
       "Completed": 10302
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-05T23:02:37.92258+00:00",
-  "LastChanged_Achievements": "2023-12-05T23:05:49.5400911+00:00",
+  "LastChanged_Achievements": "2023-12-06T00:06:03.9795941+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.8863582+00:00",
-  "LastUpdate_Ratings": "2023-12-05T23:02:37.9225809+00:00",
-  "LastUpdate_Achievements": "2023-12-05T23:05:49.5403828+00:00"
+  "LastUpdate_Ratings": "2023-12-06T00:02:47.0093163+00:00",
+  "LastUpdate_Achievements": "2023-12-06T00:06:03.9797215+00:00"
 }

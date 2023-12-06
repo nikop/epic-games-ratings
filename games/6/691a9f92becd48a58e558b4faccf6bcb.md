@@ -5,9 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lost forever | 5.00% | ~15 |
+| Golden Carrot | 3.00% | ~9 |
 | A new HOME | 2.00% | ~6 |
 | At least you tried | 2.00% | ~6 |
-| Golden Carrot | 2.00% | ~6 |
+| Golden Hat | 2.00% | ~6 |
 | Naughty list | 2.00% | ~6 |
 | Silver Button | 2.00% | ~6 |
 | Silver Carrot | 2.00% | ~6 |
@@ -15,11 +16,10 @@
 | Minimalist lifestyle | 1.00% | ~3 |
 | I deliver the presents! | 1.00% | ~3 |
 | Golden Button | 1.00% | ~3 |
-| Golden Hat | 1.00% | ~3 |
+| Silver Scarf | 1.00% | ~3 |
 | Lesson learned | 0.70% | ~2 |
 | Good list | 0.70% | ~2 |
 | Golden Scarf | 0.70% | ~2 |
-| Silver Scarf | 0.70% | ~2 |
 | So close! | 0.70% | ~2 |
 | Bling Bling | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)

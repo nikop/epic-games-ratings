@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2354,
+  "EOS_Progressed": 2355,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -5722,6 +5722,11 @@
       "Time": "2023-12-05T21:10:14.3778682+00:00",
       "NumProgressed": 2354,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T00:09:34.0193512+00:00",
+      "NumProgressed": 2355,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5734,7 +5739,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5942,7 +5947,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6030,7 +6035,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -6038,7 +6043,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -6125,14 +6130,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2354,
+      "Progressed": 2355,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-05T23:09:18.3701717+00:00",
+  "LastChanged_Achievements": "2023-12-06T00:09:34.0193507+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:07.5482593+00:00",
-  "LastUpdate_Ratings": "2023-12-05T22:58:11.826609+00:00",
-  "LastUpdate_Achievements": "2023-12-05T23:09:18.3702608+00:00"
+  "LastUpdate_Ratings": "2023-12-05T23:58:26.1676778+00:00",
+  "LastUpdate_Achievements": "2023-12-06T00:09:34.0194022+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~18,033 |
-| Sword Runner | 61.00% | ~14,474 |
-| Running out of breath | 54.00% | ~12,813 |
+| Longrunner | 76.00% | ~18,034 |
+| Sword Runner | 61.00% | ~14,475 |
+| Running out of breath | 54.00% | ~12,814 |
 | Wallrunner | 53.00% | ~12,576 |
 | Homerunner | 45.00% | ~10,678 |
-| Out of order | 44.00% | ~10,440 |
+| Out of order | 44.00% | ~10,441 |
 | I call it luck | 43.00% | ~10,203 |
-| Where are my Keys? | 40.00% | ~9,491 |
-| Back to hell | 37.00% | ~8,779 |
+| Where are my Keys? | 40.00% | ~9,492 |
+| Back to hell | 37.00% | ~8,780 |
 | Perfection | 32.00% | ~7,593 |
-| Why not both | 30.00% | ~7,118 |
+| Why not both | 30.00% | ~7,119 |
 | Sword to a gunfight | 29.00% | ~6,881 |
 | Upgrades not mandatory | 29.00% | ~6,881 |
 | Artificial selection | 28.00% | ~6,644 |
 | Control freak | 27.00% | ~6,407 |
-| Finish line | 26.00% | ~6,169 |
-| Running Wild | 26.00% | ~6,169 |
+| Finish line | 26.00% | ~6,170 |
+| Running Wild | 26.00% | ~6,170 |
 | Unstoppable force | 22.00% | ~5,220 |
 | Wave of mutilation | 22.00% | ~5,220 |
-| Can't Run Can't Hide | 16.00% | ~3,796 |
-| R is for Running | 16.00% | ~3,796 |
+| Can't Run Can't Hide | 16.00% | ~3,797 |
+| R is for Running | 16.00% | ~3,797 |
 | Dead in the air | 15.00% | ~3,559 |
 | Improvise, adapt, overrun | 12.00% | ~2,847 |
 | Pre-empative strike | 12.00% | ~2,847 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~95 |
 | Up Close And Personal | 0.40% | ~95 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,728 (Ranked 136)  
+Progressed: 23,729 (Ranked 136)  
 Completed: 93 (0.39%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,6 +282,7 @@ Completed: 93 (0.39%) (Ranked 225)
 | 2023-12-03 | 23,644 | 93 |
 | 2023-12-04 | 23,682 | 93 |
 | 2023-12-05 | 23,728 | 93 |
+| 2023-12-06 | 23,729 | 93 |
 ## Awards
 Max (Great Boss Battles): 523  (Ranked 210)  
 Sum: 756 (Ranked 288)  

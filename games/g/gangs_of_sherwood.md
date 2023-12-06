@@ -8,7 +8,7 @@
 | Air Fighter | 83.00% | ~48 |
 | Oo-De-Lally | 69.00% | ~40 |
 | Treasure Hunter | 69.00% | ~40 |
-| The Altruist | 67.00% | ~39 |
+| The Altruist | 69.00% | ~40 |
 | Watch your Step! | 57.00% | ~33 |
 | Tap Dancing | 55.00% | ~32 |
 | MAX LEVEL | 53.00% | ~31 |

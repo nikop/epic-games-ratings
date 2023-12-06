@@ -34,13 +34,13 @@
 | Welcome to Hellville | 7.00% | ~3 |
 | Blood Red Island | 4.00% | ~2 |
 | The scholar | 4.00% | ~2 |
+| Pulp! The Beyond | 4.00% | ~2 |
 | Blessed antennas | 2.00% | ~1 |
 | The beast in the Oval Office | 2.00% | ~1 |
 | Pulp! Weird Science | 2.00% | ~1 |
 | Pulp! Heart Throbs | 2.00% | ~1 |
 | Pulp! Tales from the Crypt | 2.00% | ~1 |
 | Pulp! True Adventures | 2.00% | ~1 |
-| Pulp! The Beyond | 2.00% | ~1 |
 | Thirst for Oleum | 2.00% | ~1 |
 | The barbarian invasions | 2.00% | ~1 |
 | America had no Faith | 2.00% | ~1 |
@@ -52,7 +52,7 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 507)  
+Progressed: 46 (Ranked 508)  
 Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |

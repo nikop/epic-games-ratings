@@ -5,22 +5,22 @@ Rating: 4.05 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,842 |
+| Victor | 93.00% | ~2,843 |
 | World Map | 78.00% | ~2,384 |
 | Temple of Eternals | 57.00% | ~1,742 |
 | Prestigious | 53.00% | ~1,620 |
 | Fellowship Power | 42.00% | ~1,284 |
-| Guild Power | 24.00% | ~733 |
+| Guild Power | 24.00% | ~734 |
 | Prestigious x10 | 21.00% | ~642 |
 | Full Party | 20.00% | ~611 |
 | The game is on | 19.00% | ~581 |
 | Exotic Merchant | 17.00% | ~520 |
 | Dragon Clicker | 16.00% | ~489 |
-| Inspection | 15.00% | ~458 |
-| Miner Clicker | 15.00% | ~458 |
+| Inspection | 15.00% | ~459 |
+| Miner Clicker | 15.00% | ~459 |
+| Dragon Master | 14.00% | ~428 |
 | Enlightenment | 14.00% | ~428 |
 | Hero inspection | 14.00% | ~428 |
-| Dragon Master | 13.00% | ~397 |
 | Lieutenant | 13.00% | ~397 |
 | Natural Talent | 12.00% | ~367 |
 | Superior | 12.00% | ~367 |
@@ -35,10 +35,10 @@ Rating: 4.05 (Ranked 991)
 | Mastery | 9.00% | ~275 |
 | Scroll Master | 9.00% | ~275 |
 | The power of Awakening | 9.00% | ~275 |
-| Four Leaf Clover | 8.00% | ~244 |
-| Frostfire Liberator | 8.00% | ~244 |
-| Moving Up The Ladder | 8.00% | ~244 |
-| Relic Of The Past | 8.00% | ~244 |
+| Four Leaf Clover | 8.00% | ~245 |
+| Frostfire Liberator | 8.00% | ~245 |
+| Moving Up The Ladder | 8.00% | ~245 |
+| Relic Of The Past | 8.00% | ~245 |
 | Here We Go Again | 7.00% | ~214 |
 | Master Enchanter | 7.00% | ~214 |
 | The father of Dragons | 7.00% | ~214 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 991)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,056 (Ranked 212)  
+Progressed: 3,057 (Ranked 212)  
 Completed: 2 (0.07%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,6 +306,7 @@ Completed: 2 (0.07%) (Ranked 307)
 | 2023-12-03 | 3,010 | 2 |
 | 2023-12-04 | 3,038 | 2 |
 | 2023-12-05 | 3,056 | 2 |
+| 2023-12-06 | 3,057 | 2 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 476)  
 Sum: 157 (Ranked 427)  

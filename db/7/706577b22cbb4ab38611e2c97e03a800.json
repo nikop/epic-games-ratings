@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 421,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
     "PcReleaseDate": "2022-12-19T18:00:00+00:00",
@@ -759,17 +759,17 @@
       "ID": "ACHIEVEMENT_MR_01",
       "SetID": "b50kim2",
       "Name": "MY 1ST REWARD",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_MR_02",
       "SetID": "b50kim2",
       "Name": "MY 2ND REWARD",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_MR_03",
@@ -815,9 +815,9 @@
       "ID": "ACHIEVEMENT_RW_01",
       "SetID": "b50kim2",
       "Name": "RUNAWAY 01",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_RW_02",
@@ -966,8 +966,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-12-05T23:04:00.9488322+00:00",
+  "LastChanged_Achievements": "2023-12-06T00:04:13.3142101+00:00",
   "LastUpdate_AppInfo": "2023-12-05T06:57:08.1192495+00:00",
-  "LastUpdate_Ratings": "2023-12-05T22:57:42.4761337+00:00",
-  "LastUpdate_Achievements": "2023-12-05T23:04:00.9488757+00:00"
+  "LastUpdate_Ratings": "2023-12-05T23:57:54.2647178+00:00",
+  "LastUpdate_Achievements": "2023-12-06T00:04:13.3142482+00:00"
 }

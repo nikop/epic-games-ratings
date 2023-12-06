@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 69.00% | ~8,443 |
-| Photographer | 68.00% | ~8,320 |
-| Valley's Helper | 62.00% | ~7,586 |
-| Constructor | 51.00% | ~6,240 |
-| Renovator | 51.00% | ~6,240 |
-| Bestest Friend | 46.00% | ~5,629 |
-| Banker | 39.00% | ~4,772 |
-| Gardener | 31.00% | ~3,793 |
-| Generous | 25.00% | ~3,059 |
-| Chef Cook | 18.00% | ~2,202 |
+| Goofy's Investor | 69.00% | ~8,447 |
+| Photographer | 68.00% | ~8,325 |
+| Valley's Helper | 62.00% | ~7,590 |
+| Constructor | 51.00% | ~6,243 |
+| Renovator | 51.00% | ~6,243 |
+| Bestest Friend | 46.00% | ~5,631 |
+| Banker | 39.00% | ~4,774 |
+| Gardener | 31.00% | ~3,795 |
+| Generous | 25.00% | ~3,060 |
+| Chef Cook | 18.00% | ~2,204 |
 | Miner | 10.00% | ~1,224 |
 | Duty Bound | 7.00% | ~857 |
-| Angler | 6.00% | ~734 |
-| Thorn Cleaner | 6.00% | ~734 |
+| Angler | 6.00% | ~735 |
+| Thorn Cleaner | 6.00% | ~735 |
 | Chit Chatter | 3.00% | ~367 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,236 (Ranked 161)  
-Completed: 295 (2.41%) (Ranked 123)  
+Progressed: 12,242 (Ranked 160)  
+Completed: 296 (2.42%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -203,9 +203,10 @@ Completed: 295 (2.41%) (Ranked 123)
 | 2023-12-03 | 12,149 | 289 |
 | 2023-12-04 | 12,176 | 290 |
 | 2023-12-05 | 12,236 | 295 |
+| 2023-12-06 | 12,242 | 296 |
 ## Awards
 Max (Great for Beginners): 1,096  (Ranked 146)  
-Sum: 8,011 (Ranked 108)  
+Sum: 8,013 (Ranked 108)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -216,7 +217,7 @@ Diff (max vs sum): 38
 | This game is Relaxing | 814 |
 | This game has Amazing Storytelling | 782 |
 | This game is Extremely Fun | 771 |
-| This game has Quickly Understood Controls | 760 |
+| This game has Quickly Understood Controls | 762 |
 | This game has a Creative Community | 684 |
 | This game has Easy Combat | 535 |
 | This game has Obsessive Gameplay | 415 |
@@ -489,3 +490,4 @@ Diff (max vs sum): 38
 | 2023-12-03 | 4.76 | - | 1,080 | 7,977 |
 | 2023-12-04 | 4.76 | - | 1,085 | 7,989 |
 | 2023-12-05 | 4.76 | - | 1,096 | 8,011 |
+| 2023-12-06 | 4.76 | - | 1,096 | 8,013 |

@@ -4,8 +4,8 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14208,
+  "EOS_Progressed": 14210,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15939,6 +15939,11 @@
       "Time": "2023-12-05T23:05:48.2564062+00:00",
       "NumProgressed": 14208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T00:06:02.7137693+00:00",
+      "NumProgressed": 14210,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -16038,7 +16043,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -16142,21 +16147,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 14208,
+      "Progressed": 14210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-12-05T23:05:48.2564057+00:00",
+  "LastChanged_Achievements": "2023-12-06T00:06:02.7137688+00:00",
   "LastUpdate_AppInfo": "2023-12-02T04:57:13.9800461+00:00",
-  "LastUpdate_Ratings": "2023-12-05T22:57:34.8483181+00:00",
-  "LastUpdate_Achievements": "2023-12-05T23:05:48.2565531+00:00"
+  "LastUpdate_Ratings": "2023-12-05T23:57:46.3326536+00:00",
+  "LastUpdate_Achievements": "2023-12-06T00:06:02.7138519+00:00"
 }

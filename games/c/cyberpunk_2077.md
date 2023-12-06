@@ -6,23 +6,23 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,478 |
-| Gun Fu | 7.00% | ~67,946 |
-| The Fool | 6.00% | ~58,239 |
-| Right Back At Ya | 5.00% | ~48,533 |
-| The Lovers | 4.00% | ~38,826 |
+| V for Vendetta | 12.00% | ~116,481 |
+| Gun Fu | 7.00% | ~67,947 |
+| The Fool | 6.00% | ~58,241 |
+| Right Back At Ya | 5.00% | ~48,534 |
+| The Lovers | 4.00% | ~38,827 |
 | Full Body Conversion | 3.00% | ~29,120 |
 | Stanislavski's Method | 3.00% | ~29,120 |
 | The Hermit | 3.00% | ~29,120 |
 | The Wheel of Fortune | 3.00% | ~29,120 |
 | True Soldier | 3.00% | ~29,120 |
-| Relic Ruler | 3.00% | ~2,978 |
-| Christmas Tree Attack | 2.00% | ~19,413 |
-| The Quick and the Dead | 2.00% | ~19,413 |
-| Life of the Road | 2.00% | ~19,413 |
-| The High Priestess | 2.00% | ~19,413 |
-| True Warrior | 2.00% | ~19,413 |
-| Legend of The Afterlife | 2.00% | ~19,413 |
+| Relic Ruler | 3.00% | ~2,979 |
+| Christmas Tree Attack | 2.00% | ~19,414 |
+| The Quick and the Dead | 2.00% | ~19,414 |
+| Life of the Road | 2.00% | ~19,414 |
+| The High Priestess | 2.00% | ~19,414 |
+| True Warrior | 2.00% | ~19,414 |
+| Legend of The Afterlife | 2.00% | ~19,414 |
 | All the President's Men | 2.00% | ~1,986 |
 | Arachnophobia | 2.00% | ~1,986 |
 | Bushido and Chill | 1.00% | ~9,707 |
@@ -32,7 +32,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 1.00% | ~9,707 |
 | Two Heads, One Bullet | 1.00% | ~9,707 |
 | Judy vs Night City | 1.00% | ~9,707 |
-| Spin Doctor | 0.90% | ~893 |
+| Spin Doctor | 0.90% | ~894 |
 | Easy Come, Easy Go | 0.80% | ~794 |
 | The Wandering Fool | 0.70% | ~6,795 |
 | King of Wands | 0.70% | ~695 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 970,654 (Ranked 15)  
+Progressed: 970,676 (Ranked 15)  
 Completed: 2,844 (0.29%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,6 +304,7 @@ Completed: 2,844 (0.29%) (Ranked 240)
 | 2023-12-03 | 969,229 | 2,839 |
 | 2023-12-04 | 970,004 | 2,843 |
 | 2023-12-05 | 970,654 | 2,844 |
+| 2023-12-06 | 970,676 | 2,844 |
 ## Awards
 Max (Character Customization): 117,137  (Ranked 9)  
 Sum: 391,296 (Ranked 9)  
