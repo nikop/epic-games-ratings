@@ -13,20 +13,20 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 5.00% | ~7,199 |
 | It's Free Real Estate | 5.00% | ~7,199 |
 | Capitalism Ho! | 5.00% | ~7,199 |
-| One Easy Payment | 4.00% | ~5,759 |
-| Some Assembly Required | 4.00% | ~5,759 |
-| Another Satisfied Customer | 4.00% | ~5,759 |
-| Pretty Penny | 4.00% | ~5,759 |
-| Budding Merchant | 4.00% | ~5,759 |
-| Own the Means of Production | 4.00% | ~5,759 |
-| The Daily Grind | 3.00% | ~4,319 |
-| Bounty Hunters | 3.00% | ~4,319 |
-| Demand for Supplies | 3.00% | ~4,319 |
-| Flooding the Market | 3.00% | ~4,319 |
-| Where it Hurts | 3.00% | ~4,319 |
-| One-Armed Bandit | 3.00% | ~4,319 |
-| Dungeon Imports | 3.00% | ~4,319 |
-| Through Repetition, Perfection | 3.00% | ~4,319 |
+| One Easy Payment | 4.00% | ~5,760 |
+| Some Assembly Required | 4.00% | ~5,760 |
+| Another Satisfied Customer | 4.00% | ~5,760 |
+| Pretty Penny | 4.00% | ~5,760 |
+| Budding Merchant | 4.00% | ~5,760 |
+| Own the Means of Production | 4.00% | ~5,760 |
+| The Daily Grind | 3.00% | ~4,320 |
+| Bounty Hunters | 3.00% | ~4,320 |
+| Demand for Supplies | 3.00% | ~4,320 |
+| Flooding the Market | 3.00% | ~4,320 |
+| Where it Hurts | 3.00% | ~4,320 |
+| One-Armed Bandit | 3.00% | ~4,320 |
+| Dungeon Imports | 3.00% | ~4,320 |
+| Through Repetition, Perfection | 3.00% | ~4,320 |
 | On the Path to Greatness | 2.00% | ~2,880 |
 | A Notch Above the Rest | 2.00% | ~2,880 |
 | Ascended | 2.00% | ~2,880 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~432 |
 | Capitalist Camaraderie | 0.20% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,981 (Ranked 80)  
+Progressed: 143,989 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 291 (0.20%) (Ranked 258)
 | 2023-12-03 | 143,715 | 291 |
 | 2023-12-04 | 143,830 | 291 |
 | 2023-12-05 | 143,938 | 291 |
-| 2023-12-06 | 143,981 | 291 |
+| 2023-12-06 | 143,989 | 291 |
 ## Awards
 Max (Great for Beginners): 4,864  (Ranked 75)  
 Sum: 27,662 (Ranked 50)  

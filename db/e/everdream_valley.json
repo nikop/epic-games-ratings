@@ -2,9 +2,9 @@
   "ID": "81d1fa85a9e34c6bbd0b9ba93cf39371",
   "Name": "Everdream Valley",
   "ProductSlug": "everdream-valley-916471",
-  "Ranking_EOS_Progress": 783,
+  "Ranking_EOS_Progress": 785,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewPlayers": 468,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-30T18:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-05-30T22:58:32.8371644+00:00",
   "FirstSeenAchievements": "2023-04-25T20:48:25.4853861+00:00",
-  "LastChanged_Achievements": "2023-12-06T11:06:30.0637456+00:00",
+  "LastChanged_Achievements": "2023-12-06T12:05:11.2056998+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:46.670158+00:00",
-  "LastUpdate_Ratings": "2023-12-06T10:59:04.6525911+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:06:30.0637485+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:58:29.4395736+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:05:11.2057021+00:00"
 }

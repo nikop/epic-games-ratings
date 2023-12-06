@@ -8,13 +8,13 @@ Rating: 4.78 (Ranked 106)
 | A New Journey | 66.00% | ~666 |
 | The Adventure Begins | 51.00% | ~515 |
 | Swabbie | 39.00% | ~394 |
-| With Great Power… | 38.00% | ~383 |
+| With Great Power… | 39.00% | ~394 |
 | This Belongs in a Museum | 35.00% | ~353 |
 | The Gambit Has Begun | 32.00% | ~323 |
 | Somewhere Deep in the Lost Caribbean | 29.00% | ~293 |
 | Powder Monkey | 29.00% | ~293 |
 | Mirror Mirror on the Wall | 28.00% | ~283 |
-| Pirates Assemble! | 25.00% | ~252 |
+| Pirates Assemble! | 26.00% | ~262 |
 | Buccaneer | 22.00% | ~222 |
 | Fishy Fish | 21.00% | ~212 |
 | All Good Things | 19.00% | ~192 |

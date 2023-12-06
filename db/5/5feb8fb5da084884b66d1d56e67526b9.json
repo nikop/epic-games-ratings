@@ -2,9 +2,9 @@
   "ID": "5feb8fb5da084884b66d1d56e67526b9",
   "Name": "ORDINEM",
   "ProductSlug": "beauplaya3ulls-product-50c183",
-  "Ranking_EOS_Progress": 783,
+  "Ranking_EOS_Progress": 785,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewPlayers": 468,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-04T05:57:04.1820124+00:00",
-  "LastUpdate_Ratings": "2023-12-06T10:58:45.7317812+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:04:53.8922952+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:58:13.8599795+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:03:56.7997538+00:00"
 }

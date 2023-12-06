@@ -2,9 +2,9 @@
   "ID": "fbf0d28640794245843662776f87a7e4",
   "Name": "MonTamer",
   "ProductSlug": "montamer-3d4dfc",
-  "Ranking_EOS_Progress": 783,
+  "Ranking_EOS_Progress": 785,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewPlayers": 468,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-02T22:58:39.9121556+00:00",
-  "LastUpdate_Ratings": "2023-12-06T10:59:11.5223779+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:08:59.2634506+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:58:35.6251266+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:08:05.808611+00:00"
 }

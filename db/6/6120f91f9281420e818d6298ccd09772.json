@@ -2,9 +2,9 @@
   "ID": "6120f91f9281420e818d6298ccd09772",
   "Name": "SpectralClimb",
   "ProductSlug": "spectralclimb-2dfbed",
-  "Ranking_EOS_Progress": 783,
+  "Ranking_EOS_Progress": 785,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewPlayers": 468,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2024-06-28T06:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.3774771+00:00",
-  "LastUpdate_Ratings": "2023-12-06T11:02:51.2689288+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:04:19.8726642+00:00"
+  "LastUpdate_Ratings": "2023-12-06T12:00:54.5939377+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:03:30.4333289+00:00"
 }

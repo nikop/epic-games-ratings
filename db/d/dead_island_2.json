@@ -6,7 +6,7 @@
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 21,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 34,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
@@ -7207,10 +7207,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 12196,
       "NumberOfAwardsMax": 7943
+    },
+    {
+      "Time": "2023-12-06T11:57:55.2000552+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12198,
+      "NumberOfAwardsMax": 7943
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12196,
+  "NumberOfAwards": 12198,
   "NumberOfAwardsMax": 7943,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7248,7 +7254,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 462
+      "Count": 464
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7269,9 +7275,9 @@
       "Count": 514
     }
   ],
-  "EOS_Progressed": 730801,
+  "EOS_Progressed": 730819,
   "EOS_Completed": 2465,
-  "EOS_NewPlayers": 3248,
+  "EOS_NewPlayers": 3251,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33629,6 +33635,11 @@
       "Time": "2023-12-06T11:09:11.640118+00:00",
       "NumProgressed": 730801,
       "NumCompleted": 2465
+    },
+    {
+      "Time": "2023-12-06T12:08:15.4382862+00:00",
+      "NumProgressed": 730819,
+      "NumCompleted": 2465
     }
   ],
   "TotalAchievements": 51,
@@ -34008,7 +34019,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "ach_gardening_tools",
@@ -34024,7 +34035,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -34047,22 +34058,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 730801,
+      "Progressed": 730819,
       "Completed": 2465
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 56343,
-      "Completed": 36634
+      "Progressed": 56361,
+      "Completed": 36635
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-06T01:45:52.7308131+00:00",
-  "LastChanged_Achievements": "2023-12-06T11:09:11.6401177+00:00",
+  "LastChanged": "2023-12-06T11:57:55.200055+00:00",
+  "LastChanged_Achievements": "2023-12-06T12:08:15.4382858+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-06T10:58:21.1319902+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:09:11.6402694+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:57:55.2000556+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:08:15.4384816+00:00"
 }

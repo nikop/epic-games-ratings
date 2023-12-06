@@ -4,7 +4,7 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 595,
+  "EOS_Progressed": 596,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.34,
   "EosHistory": [
@@ -2744,6 +2744,11 @@
       "Time": "2023-12-05T20:04:24.036448+00:00",
       "NumProgressed": 595,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-06T12:04:28.6216185+00:00",
+      "NumProgressed": 596,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 8,
@@ -2755,7 +2760,7 @@
       "Name": "Barista",
       "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "coffee_100",
@@ -2811,21 +2816,21 @@
       "Name": "Tea Master",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 595,
+      "Progressed": 596,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-12-06T11:05:34.9213605+00:00",
+  "LastChanged_Achievements": "2023-12-06T12:04:28.6216182+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:02.3973425+00:00",
-  "LastUpdate_Ratings": "2023-12-06T11:02:50.2764356+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:05:34.9213887+00:00"
+  "LastUpdate_Ratings": "2023-12-06T12:00:53.9874726+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:04:28.6216433+00:00"
 }

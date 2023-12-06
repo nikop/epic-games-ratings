@@ -2,9 +2,9 @@
   "ID": "83b49dc072664d6ebcfa819730e6caf7",
   "Name": "Resonance",
   "ProductSlug": "resonance-3cc2ec",
-  "Ranking_EOS_Progress": 783,
+  "Ranking_EOS_Progress": 785,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewPlayers": 468,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-02T04:57:14.1281753+00:00",
-  "LastUpdate_Ratings": "2023-12-06T11:00:08.95459+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:04:41.66176+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:59:17.3481812+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:03:47.1960048+00:00"
 }

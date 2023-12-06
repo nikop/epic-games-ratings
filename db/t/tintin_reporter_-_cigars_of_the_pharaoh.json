@@ -4,7 +4,7 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -640,9 +640,9 @@
       "ID": "Achievement5",
       "SetID": "9fa3l5n",
       "Name": "The Weighing of the Soul",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement6",
@@ -687,8 +687,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-06T11:05:08.3876016+00:00",
+  "LastChanged_Achievements": "2023-12-06T12:04:07.8508674+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:58.0798624+00:00",
-  "LastUpdate_Ratings": "2023-12-06T10:57:12.0319007+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:05:08.3876266+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:57:03.8742512+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:04:07.8508936+00:00"
 }

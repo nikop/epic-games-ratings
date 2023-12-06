@@ -9,7 +9,7 @@ Rating: 4.75 (Ranked 147)
 | Regicide | 0.80% | ~119 |
 | First of Many | 0.70% | ~1,650 |
 | Master of the Dark Arts | 0.70% | ~104 |
-| Not Your Average Trait | 0.60% | ~1,414 |
+| Not Your Average Trait | 0.60% | ~1,415 |
 | Expanding Horizons | 0.50% | ~1,179 |
 | Gleaming the Cube | 0.50% | ~1,179 |
 | Quest for Survival | 0.50% | ~1,179 |
@@ -42,26 +42,26 @@ Rating: 4.75 (Ranked 147)
 | Scrap Collector | 0.30% | ~707 |
 | Scrap Hoarder | 0.30% | ~707 |
 | All These Traits� | 0.30% | ~707 |
-| Crafty | 0.20% | ~471 |
-| Only Human | 0.20% | ~471 |
-| Red Room | 0.20% | ~471 |
-| The Agenda | 0.20% | ~471 |
-| Tall Tales | 0.20% | ~471 |
-| Bad Moon Rising | 0.20% | ~471 |
-| The Trigger | 0.20% | ~471 |
-| Cutting Edge | 0.20% | ~471 |
-| The Collector | 0.20% | ~471 |
-| Proving Grounds | 0.20% | ~471 |
-| Carnage in C-Minor | 0.20% | ~471 |
-| The Ultimate Weapon | 0.20% | ~471 |
-| No One Should Have All That Power | 0.20% | ~471 |
-| Maxed Out! | 0.20% | ~471 |
-| Transmutate | 0.20% | ~471 |
+| Crafty | 0.20% | ~472 |
+| Only Human | 0.20% | ~472 |
+| Red Room | 0.20% | ~472 |
+| The Agenda | 0.20% | ~472 |
+| Tall Tales | 0.20% | ~472 |
+| Bad Moon Rising | 0.20% | ~472 |
+| The Trigger | 0.20% | ~472 |
+| Cutting Edge | 0.20% | ~472 |
+| The Collector | 0.20% | ~472 |
+| Proving Grounds | 0.20% | ~472 |
+| Carnage in C-Minor | 0.20% | ~472 |
+| The Ultimate Weapon | 0.20% | ~472 |
+| No One Should Have All That Power | 0.20% | ~472 |
+| Maxed Out! | 0.20% | ~472 |
+| Transmutate | 0.20% | ~472 |
 | Succession | 0.20% | ~30 |
 | You Shall Pass | 0.20% | ~30 |
 | A Foul Feast | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,726 (Ranked 68)  
+Progressed: 235,757 (Ranked 68)  
 Completed: 562 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 562 (0.24%) (Ranked 251)
 | 2023-12-03 | 234,204 | 554 |
 | 2023-12-04 | 234,896 | 558 |
 | 2023-12-05 | 235,528 | 561 |
-| 2023-12-06 | 235,726 | 562 |
+| 2023-12-06 | 235,757 | 562 |
 ## Awards
 Max (Great Boss Battles): 2,649  (Ranked 102)  
 Sum: 6,556 (Ranked 127)  

@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1681,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 7.14,
   "EosHistory": [
@@ -4201,9 +4201,9 @@
       "ID": "LEVEL_022",
       "SetID": "212bg48",
       "Name": "Who likes bridges?",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 134
+      "UsersEstimate": 151
     },
     {
       "ID": "LEVEL_023",
@@ -4280,8 +4280,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-06T11:10:26.3611719+00:00",
+  "LastChanged_Achievements": "2023-12-06T12:09:13.4857253+00:00",
   "LastUpdate_AppInfo": "2023-12-05T04:57:02.387296+00:00",
-  "LastUpdate_Ratings": "2023-12-06T11:01:44.3432719+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:10:26.3612366+00:00"
+  "LastUpdate_Ratings": "2023-12-06T12:00:28.1696227+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:09:13.4857715+00:00"
 }

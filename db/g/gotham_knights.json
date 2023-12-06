@@ -4553,9 +4553,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77723,
+  "EOS_Progressed": 77724,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25153,6 +25153,11 @@
       "Time": "2023-12-06T11:04:40.9766611+00:00",
       "NumProgressed": 77723,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-06T12:03:46.6907439+00:00",
+      "NumProgressed": 77724,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25252,7 +25257,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11658
+      "UsersEstimate": 11659
     },
     {
       "ID": "CHALLENGES_1",
@@ -25388,7 +25393,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21762
+      "UsersEstimate": 21763
     },
     {
       "ID": "FREEZE_1_5",
@@ -25404,7 +25409,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14767
+      "UsersEstimate": 14768
     },
     {
       "ID": "FREEZE_3",
@@ -25596,7 +25601,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11658
+      "UsersEstimate": 11659
     },
     {
       "ID": "MYSTERY_07",
@@ -25651,13 +25656,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77723,
+      "Progressed": 77724,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48003,
+      "Progressed": 48004,
       "Completed": 2675
     }
   ],
@@ -25665,8 +25670,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-06T08:58:33.7324209+00:00",
-  "LastChanged_Achievements": "2023-12-06T11:04:40.9766603+00:00",
+  "LastChanged_Achievements": "2023-12-06T12:03:46.6907435+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-06T10:59:32.218933+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:04:40.976778+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:58:51.2753704+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:03:46.6909177+00:00"
 }

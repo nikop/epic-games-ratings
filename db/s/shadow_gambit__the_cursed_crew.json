@@ -133,7 +133,7 @@
   "Tags": [],
   "EOS_Progressed": 1009,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.17,
   "EosHistory": [
@@ -3506,17 +3506,17 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 252
+      "UsersEstimate": 262
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 394
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3603,8 +3603,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-04T19:02:27.0959811+00:00",
-  "LastChanged_Achievements": "2023-12-06T11:06:16.1143369+00:00",
+  "LastChanged_Achievements": "2023-12-06T12:05:00.366468+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-06T10:58:16.4343803+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:06:16.1143774+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:57:51.6972816+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:05:00.3665072+00:00"
 }

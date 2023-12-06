@@ -15,6 +15,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.70% | ~5,025 |
 | Qi Gong: Breath | 0.70% | ~5,025 |
 | Lightning Hands | 0.70% | ~5,025 |
+| Rumble in the Hangar | 0.70% | ~5,025 |
 | A Lady's Blood in the Snow | 0.60% | ~4,307 |
 | Lady Wing Chun | 0.60% | ~4,307 |
 | Kill Nil | 0.60% | ~4,307 |
@@ -22,7 +23,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Street Fighting | 0.60% | ~4,307 |
 | Qi Gong: Essence | 0.60% | ~4,307 |
 | Path of the Prospect | 0.60% | ~4,307 |
-| Rumble in the Hangar | 0.60% | ~4,307 |
 | Fight the way you practice | 0.60% | ~163 |
 | Furious Fists | 0.50% | ~3,589 |
 | Old Child | 0.50% | ~3,589 |
@@ -300,12 +300,12 @@ Completed: 12,943 (1.80%) (Ranked 136)
 | 2023-12-06 | 717,833 | 12,943 |
 ## Awards
 Max (Great Boss Battles): 6,879  (Ranked 55)  
-Sum: 12,068 (Ranked 83)  
+Sum: 12,069 (Ranked 83)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,879 |
-| This game has Diverse Characters | 671 |
+| This game has Diverse Characters | 672 |
 | This game has Challenging Combat | 613 |
 | This game has Amazing Storytelling | 599 |
 | This game has Amazing Characters | 586 |
@@ -641,4 +641,4 @@ Diff (max vs sum): -28
 | 2023-12-03 | 4.82 | - | 6,870 | 12,046 |
 | 2023-12-04 | 4.82 | - | 6,870 | 12,053 |
 | 2023-12-05 | 4.82 | - | 6,879 | 12,067 |
-| 2023-12-06 | 4.82 | - | 6,879 | 12,068 |
+| 2023-12-06 | 4.82 | - | 6,879 | 12,069 |

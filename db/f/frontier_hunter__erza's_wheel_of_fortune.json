@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 556,
+  "EOS_Progressed": 557,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
@@ -1767,6 +1767,11 @@
       "Time": "2023-12-06T01:57:01.537634+00:00",
       "NumProgressed": 556,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T12:08:02.6087703+00:00",
+      "NumProgressed": 557,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1778,7 +1783,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1906,15 +1911,15 @@
       "Name": "Arms Mechanic",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 206
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1946,7 +1951,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1968,9 +1973,9 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "7pimpda",
       "Name": "Boss challenge",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2122,7 +2127,7 @@
       "Name": "Seal Breaker",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2137,7 +2142,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 556,
+      "Progressed": 557,
       "Completed": 1
     }
   ],
@@ -2145,8 +2150,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-06T11:08:54.9570056+00:00",
+  "LastChanged_Achievements": "2023-12-06T12:08:02.6087699+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-06T10:57:15.1235001+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:08:54.9570482+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:57:06.0039821+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:08:02.6088166+00:00"
 }

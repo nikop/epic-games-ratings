@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115995,
+  "EOS_Progressed": 115996,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20309,6 +20309,11 @@
       "Time": "2023-12-06T10:09:15.6826898+00:00",
       "NumProgressed": 115995,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-06T12:08:56.6551515+00:00",
+      "NumProgressed": 115996,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20328,7 +20333,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89316
+      "UsersEstimate": 89317
     },
     {
       "ID": "EAwards_10",
@@ -20336,7 +20341,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13919
+      "UsersEstimate": 13920
     },
     {
       "ID": "EAwards_11",
@@ -20392,7 +20397,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42918
+      "UsersEstimate": 42919
     },
     {
       "ID": "EAwards_18",
@@ -20424,7 +20429,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12759
+      "UsersEstimate": 12760
     },
     {
       "ID": "EAwards_21",
@@ -20472,7 +20477,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12759
+      "UsersEstimate": 12760
     },
     {
       "ID": "EAwards_27",
@@ -20688,7 +20693,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13919
+      "UsersEstimate": 13920
     },
     {
       "ID": "EAwards_8",
@@ -20696,7 +20701,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13919
+      "UsersEstimate": 13920
     },
     {
       "ID": "EAwards_9",
@@ -20704,14 +20709,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12759
+      "UsersEstimate": 12760
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115995,
+      "Progressed": 115996,
       "Completed": 51
     }
   ],
@@ -20719,8 +20724,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-06T11:10:04.9291253+00:00",
+  "LastChanged_Achievements": "2023-12-06T12:08:56.655151+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.5040385+00:00",
-  "LastUpdate_Ratings": "2023-12-06T10:57:32.7571259+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:10:04.9292473+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:57:19.782376+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:08:56.6553097+00:00"
 }

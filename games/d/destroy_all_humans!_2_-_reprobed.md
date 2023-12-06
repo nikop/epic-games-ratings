@@ -6,10 +6,11 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ducks in a Row, Fish in a Barrel | 11.00% | ~2 |
-| Rock of the Bay | 11.00% | ~2 |
-| I Look Up As I Walk to Takoshima | 6.00% | ~1 |
-| Mash Machine | 0.00% | ~0 |
+| Ducks in a Row, Fish in a Barrel | 15.00% | ~3 |
+| Rock of the Bay | 10.00% | ~2 |
+| Mash Machine | 5.00% | ~1 |
+| I Look Up As I Walk to Takoshima | 5.00% | ~1 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 5.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | Perfect Probulator | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |
@@ -26,7 +27,6 @@ Number of Ratings: 90  (23.09.2022)
 | Albion Bridge Is for Falling Down | 0.00% | ~0 |
 | Lie Back and Think of Albion | 0.00% | ~0 |
 | Fly Me to the Moon Base | 0.00% | ~0 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 0.00% | ~0 |
 | Bodied Sattva | 0.00% | ~0 |
 | Kaijuiced | 0.00% | ~0 |
 | Lobster Blisque | 0.00% | ~0 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Shop Til They Drop | 0.00% | ~0 |
 | Pimp My Raid | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 578)  
+Progressed: 20 (Ranked 568)  
 Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 0 (0.00%) (Ranked 369)
 | 2023-12-03 | 12 | 0 |
 | 2023-12-04 | 13 | 0 |
 | 2023-12-05 | 16 | 0 |
-| 2023-12-06 | 18 | 0 |
+| 2023-12-06 | 20 | 0 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 481)  
 Sum: 35 (Ranked 508)  

@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22574,
+  "EOS_Progressed": 22575,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 792,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -18879,6 +18879,11 @@
       "Time": "2023-12-06T11:05:45.0871859+00:00",
       "NumProgressed": 22574,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-06T12:04:36.4635909+00:00",
+      "NumProgressed": 22575,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 16,
@@ -18978,7 +18983,7 @@
       "Name": "Shadow Warrior",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "Shooting_Shark",
@@ -19017,15 +19022,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 22574,
+      "Progressed": 22575,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-11-18T21:04:30.8986363+00:00",
-  "LastChanged_Achievements": "2023-12-06T11:05:45.0871855+00:00",
+  "LastChanged_Achievements": "2023-12-06T12:04:36.4635905+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.3342523+00:00",
-  "LastUpdate_Ratings": "2023-12-06T10:59:29.1330901+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:05:45.0872999+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:58:48.9997067+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:04:36.463681+00:00"
 }

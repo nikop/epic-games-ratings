@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Act of Kindness | 88.00% | ~52 |
-| Air Fighter | 81.00% | ~48 |
+| Air Fighter | 83.00% | ~49 |
 | Oo-De-Lally | 69.00% | ~41 |
+| The Altruist | 69.00% | ~41 |
 | Treasure Hunter | 68.00% | ~40 |
-| The Altruist | 68.00% | ~40 |
-| Watch your Step! | 56.00% | ~33 |
+| Watch your Step! | 58.00% | ~34 |
 | Tap Dancing | 54.00% | ~32 |
 | MAX LEVEL | 53.00% | ~31 |
 | Right between the eyes | 49.00% | ~29 |

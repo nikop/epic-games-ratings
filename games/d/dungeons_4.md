@@ -17,8 +17,8 @@
 | Master of Magic | 64.00% | ~339 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~323 |
 | Magic Accidents | 59.00% | ~312 |
-| The Ascent | 57.00% | ~302 |
-| It's Warm and Cozy at Home | 57.00% | ~302 |
+| The Ascent | 58.00% | ~307 |
+| It's Warm and Cozy at Home | 58.00% | ~307 |
 | Trap Master | 56.00% | ~296 |
 | Minions, Minions! | 55.00% | ~291 |
 | The Big Eaty | 52.00% | ~275 |
@@ -43,10 +43,10 @@
 | The Finitude Drill | 25.00% | ~132 |
 | Stop Tanos! | 22.00% | ~116 |
 | Doom Hill | 22.00% | ~116 |
+| Brimstone Shaken, Not Stirred | 21.00% | ~111 |
 | Sabotage! | 20.00% | ~106 |
-| Brimstone Shaken, Not Stirred | 20.00% | ~106 |
+| Bonus Evilness | 19.00% | ~101 |
 | Raiders of the Lost Stone | 19.00% | ~101 |
-| Bonus Evilness | 18.00% | ~95 |
 | The Rune Sockets of Finitude (Part 1) | 18.00% | ~95 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~85 |
 | My Little Torture Chamber | 16.00% | ~85 |

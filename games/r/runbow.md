@@ -6,8 +6,8 @@ Rating: 4.46 (Ranked 648)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In The Zone | 53.00% | ~133,508 |
-| My First Runbow | 50.00% | ~125,950 |
-| It's The Fall | 26.00% | ~65,494 |
+| My First Runbow | 50.00% | ~125,951 |
+| It's The Fall | 26.00% | ~65,495 |
 | The Stunner | 22.00% | ~55,418 |
 | Be Aggressive | 21.00% | ~52,899 |
 | Curator | 20.00% | ~50,380 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 648)
 | Talent Scout | 0.10% | ~252 |
 | True Completionist | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,901 (Ranked 61)  
+Progressed: 251,902 (Ranked 61)  
 Completed: 6 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 6 (0.00%) (Ranked 369)
 | 2023-12-03 | 251,846 | 6 |
 | 2023-12-04 | 251,867 | 6 |
 | 2023-12-05 | 251,888 | 6 |
-| 2023-12-06 | 251,901 | 6 |
+| 2023-12-06 | 251,902 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

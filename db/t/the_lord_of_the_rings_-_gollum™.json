@@ -2,9 +2,9 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 299,
+  "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 617,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1683,6 +1683,11 @@
       "Time": "2023-12-04T12:05:41.2933517+00:00",
       "NumProgressed": 616,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T12:03:03.9397097+00:00",
+      "NumProgressed": 617,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1702,7 +1707,7 @@
       "Name": "Break a Leg!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CatchAFish",
@@ -1718,7 +1723,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Chapter10",
@@ -1726,7 +1731,7 @@
       "Name": "The Friend",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Chapter2",
@@ -1734,7 +1739,7 @@
       "Name": "The Maggot",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "Chapter3",
@@ -1758,7 +1763,7 @@
       "Name": "The Traitor",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Chapter6",
@@ -1798,7 +1803,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "Collectibles2",
@@ -1822,7 +1827,7 @@
       "Name": "Sweet Darkness",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ElfFriend",
@@ -1846,7 +1851,7 @@
       "Name": "Like Flying...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "GollumChoices",
@@ -1862,7 +1867,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Memories",
@@ -1870,7 +1875,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Murderer",
@@ -1981,14 +1986,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 617,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-12-06T11:03:45.6060167+00:00",
+  "LastChanged_Achievements": "2023-12-06T12:03:03.9397095+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:15.9998788+00:00",
-  "LastUpdate_Ratings": "2023-12-06T11:00:32.3242983+00:00",
-  "LastUpdate_Achievements": "2023-12-06T11:03:45.6060482+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:59:34.6269768+00:00",
+  "LastUpdate_Achievements": "2023-12-06T12:03:03.9397423+00:00"
 }
