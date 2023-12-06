@@ -219,7 +219,7 @@
 | 214 | [For The King](games/f/for_the_king.md) | 4.70 | 413 | 231 |
 | 214 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 52 | 429 |
 | 214 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,342 | 136 |
-| 214 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,952 | 114 |
+| 214 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,953 | 114 |
 | 214 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.70 | 0 | 557 |
 | 214 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 557 |
 | 214 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 0 | 557 |
@@ -685,7 +685,6 @@
 | 677 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.44 | 0 | 557 |
 | 677 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.44 | 0 | 557 |
 | 677 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 557 |
-| 677 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 557 |
 | 677 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.44 | 27 | 515 |
 | 677 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 0 | 557 |
 | 677 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 0 | 557 |
@@ -694,28 +693,29 @@
 | 677 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 367 |
 | 677 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 950 | 158 |
 | 677 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.44 | 29 | 504 |
-| 695 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 51 | 435 |
-| 695 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,832 | 29 |
-| 695 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.43 | 0 | 557 |
-| 695 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.43 | 0 | 557 |
-| 695 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 557 |
-| 695 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.43 | 0 | 557 |
-| 695 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.43 | 0 | 557 |
-| 695 | [Othercide](games/o/othercide.md) | 4.43 | 0 | 557 |
-| 695 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,261 | 139 |
-| 695 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.43 | 0 | 557 |
-| 695 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 68 | 409 |
-| 695 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 557 |
-| 695 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 557 |
-| 695 | [SMITE](games/s/smite.md) | 4.43 | 4,694 | 78 |
-| 695 | [Star Stable Online](games/s/star_stable_online.md) | 4.43 | 187 | 299 |
-| 695 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.43 | 618 | 194 |
-| 695 | [The Riflemen](games/t/the_riflemen.md) | 4.43 | 0 | 557 |
-| 695 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 504 |
-| 695 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.43 | 0 | 557 |
-| 695 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 291 | 258 |
-| 695 | [Warpips](games/w/warpips.md) | 4.43 | 31 | 499 |
-| 695 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 59 | 417 |
+| 694 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 51 | 435 |
+| 694 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,832 | 29 |
+| 694 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.43 | 0 | 557 |
+| 694 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.43 | 0 | 557 |
+| 694 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 557 |
+| 694 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.43 | 0 | 557 |
+| 694 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.43 | 0 | 557 |
+| 694 | [Othercide](games/o/othercide.md) | 4.43 | 0 | 557 |
+| 694 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,261 | 139 |
+| 694 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 0 | 557 |
+| 694 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.43 | 0 | 557 |
+| 694 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 68 | 409 |
+| 694 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 557 |
+| 694 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 557 |
+| 694 | [SMITE](games/s/smite.md) | 4.43 | 4,694 | 78 |
+| 694 | [Star Stable Online](games/s/star_stable_online.md) | 4.43 | 187 | 299 |
+| 694 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.43 | 618 | 194 |
+| 694 | [The Riflemen](games/t/the_riflemen.md) | 4.43 | 0 | 557 |
+| 694 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 504 |
+| 694 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.43 | 0 | 557 |
+| 694 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 291 | 258 |
+| 694 | [Warpips](games/w/warpips.md) | 4.43 | 31 | 499 |
+| 694 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 59 | 417 |
 | 717 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.42 | 253 | 271 |
 | 717 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.42 | 0 | 557 |
 | 717 | [Predecessor](games/p/predecessor.md) | 4.42 | 217 | 284 |
@@ -1019,7 +1019,7 @@
 | 1,017 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 449 |
 | 1,017 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.95 | 556 | 206 |
 | 1,017 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.95 | 0 | 557 |
-| 1,020 | [Blazing Sails](games/b/blazing_sails.md) | 3.94 | 420 | 229 |
+| 1,020 | [Blazing Sails](games/b/blazing_sails.md) | 3.94 | 421 | 229 |
 | 1,020 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 29 | 504 |
 | 1,020 | [Patron](games/p/patron.md) | 3.94 | 0 | 557 |
 | 1,023 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 557 |

@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.77% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.76% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -47,7 +47,7 @@
 | 45 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.91% |
 | 46 | [Smelter](games/s/smelter.md) | 9.52% |
 | 47 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 48 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
+| 48 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
 | 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.57% |
 | 50 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.49% |
 | 51 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 8.33% |
@@ -96,11 +96,11 @@
 | 93 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.61% |
 | 95 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.45% |
 | 96 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
-| 97 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.35% |
+| 97 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.34% |
 | 98 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
 | 99 | [Destiny 2](games/d/destiny_2.md) | 3.18% |
-| 99 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.18% |
 | 99 | [The Complex](games/t/the_complex.md) | 3.18% |
+| 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.17% |
 | 102 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 102 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
 | 104 | [Doodle God](games/d/doodle_god.md) | 3.08% |
@@ -781,4 +781,4 @@
 | 369 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 369 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 369 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,668 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,669 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
