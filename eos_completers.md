@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.69% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.68% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -69,7 +69,7 @@
 | 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 67 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.76% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.75% |
 | 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 71 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.71% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
@@ -87,7 +87,7 @@
 | 85 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 86 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.26% |
 | 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.24% |
-| 88 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.22% |
+| 88 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.21% |
 | 89 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.17% |
 | 90 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 91 | [The Bunker](games/t/the_bunker.md) | 4.00% |
@@ -96,7 +96,7 @@
 | 93 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.61% |
 | 95 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.45% |
 | 96 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
-| 97 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.32% |
+| 97 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.31% |
 | 98 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
 | 99 | [Destiny 2](games/d/destiny_2.md) | 3.18% |
 | 99 | [The Complex](games/t/the_complex.md) | 3.18% |
@@ -148,7 +148,7 @@
 | 145 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
 | 147 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.44% |
 | 148 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.41% |
-| 149 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.36% |
+| 149 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.35% |
 | 150 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.34% |
 | 150 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.34% |
 | 152 | [Poosh XL](games/p/poosh_xl.md) | 1.31% |
@@ -185,7 +185,7 @@
 | 182 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 184 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.80% |
 | 185 | [Infindustry](games/i/infindustry.md) | 0.79% |
-| 186 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
+| 186 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 187 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.74% |
 | 188 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.69% |
 | 188 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
