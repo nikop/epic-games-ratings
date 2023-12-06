@@ -325,6 +325,7 @@
 | [The Smurfs 2 - The Prisoner of the Green Stone](../games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 37 | 1,000 |
 | [Tintin Reporter - Cigars of the Pharaoh](../games/t/tintin_reporter_-_cigars_of_the_pharaoh.md) | 37 | 1,000 |
 | [Warhammer Age of Sigmar: Realms of Ruin](../games/0/0f4a57443f904107818acfc2068704f9.md) | 37 | 1,000 |
+| [Your Computer Might Be At Risk](../games/0/04db5160b1fa4fb9acd8f8603f65e12d.md) | 37 | 1,000 |
 | [ANNO Mutationem](../games/a/anno_mutationem.md) | 36 | 1,000 |
 | [Atlas Fallen](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 36 | 1,000 |
 | [ATOM RPG](../games/a/atom_rpg.md) | 36 | 1,000 |

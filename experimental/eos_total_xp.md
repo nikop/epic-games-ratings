@@ -836,6 +836,7 @@
 | [Wunderling DX](../games/w/wunderling_dx.md) | 41 | 1,000 |
 | [Xuan-Yuan Sword VII](../games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 44 | 1,000 |
 | [Yars: Recharged](../games/y/yars__recharged.md) | 15 | 1,000 |
+| [Your Computer Might Be At Risk](../games/0/04db5160b1fa4fb9acd8f8603f65e12d.md) | 37 | 1,000 |
 | [Zero-G Gunfight](../games/a/ac35eab3f59b4fab98f7ea12a18f3e7a.md) | 15 | 1,000 |
 | [Zoeti](../games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 30 | 1,000 |
 | [Zombie Army 4: Dead War](../games/z/zombie_army_4__dead_war.md) | 66 | 1,000 |
