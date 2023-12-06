@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 855,
+  "EOS_Progressed": 856,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.27,
   "EosHistory": [
@@ -3254,6 +3254,11 @@
       "Time": "2023-12-06T20:04:38.7894234+00:00",
       "NumProgressed": 855,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-06T21:04:14.863789+00:00",
+      "NumProgressed": 856,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 28,
@@ -3297,7 +3302,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "MQ02_4",
@@ -3313,15 +3318,15 @@
       "Name": "Fond Memories",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 402
+      "UsersEstimate": 394
     },
     {
       "ID": "MQ03_3",
@@ -3345,7 +3350,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "MQ04_1",
@@ -3393,7 +3398,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "MQ05_4",
@@ -3401,7 +3406,7 @@
       "Name": "Knives Out",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "MQ06_1",
@@ -3409,7 +3414,7 @@
       "Name": "Brain Food",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "MQ06_2",
@@ -3425,7 +3430,7 @@
       "Name": "Land, Ho!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "MQ06_4",
@@ -3449,7 +3454,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "MQ08_1",
@@ -3457,7 +3462,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "MQ08_2",
@@ -3465,7 +3470,7 @@
       "Name": "Up In Flames",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "MQ08_3",
@@ -3488,7 +3493,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 855,
+      "Progressed": 856,
       "Completed": 28
     }
   ],
@@ -3496,8 +3501,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-26T10:02:59.0802972+00:00",
-  "LastChanged_Achievements": "2023-12-06T20:04:38.789423+00:00",
+  "LastChanged_Achievements": "2023-12-06T21:04:14.8637887+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:20.5690478+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:03:08.7896048+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:04:38.789455+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:02:49.7976345+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:04:14.8638258+00:00"
 }

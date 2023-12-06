@@ -32,7 +32,7 @@ Number of Ratings: 266  (23.09.2022)
 | The stuff of legends. | 7.00% | ~260 |
 | Blood and justice | 6.00% | ~223 |
 | Hold my Mead and Watch This | 6.00% | ~223 |
-| Ancestor's Pride | 4.00% | ~149 |
+| Ancestor's Pride | 5.00% | ~186 |
 | For All Aurai | 4.00% | ~149 |
 | Light of Levant | 4.00% | ~149 |
 | Memory of a legend | 4.00% | ~149 |
@@ -268,9 +268,9 @@ Completed: 4 (0.11%) (Ranked 285)
 | 2023-12-05 | 3,714 | 4 |
 | 2023-12-06 | 3,717 | 4 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 481)  
+Max (Highly Recommended): 35  (Ranked 482)  
 Sum: 246 (Ranked 384)  
-Diff (max vs sum): 97  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1796,7 +1796,7 @@
   ],
   "EOS_Progressed": 498,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5555,9 +5555,9 @@
       "ID": "C_STAMINA",
       "SetID": "80dcan0",
       "Name": "On that Grindset",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 403
     },
     {
       "ID": "C_STAYUP",
@@ -5619,9 +5619,9 @@
       "ID": "M_BACKPACK",
       "SetID": "80dcan0",
       "Name": "Pack Mule",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 378
     },
     {
       "ID": "M_COMMISSION",
@@ -5755,9 +5755,9 @@
       "ID": "P_OWENSTORY",
       "SetID": "80dcan0",
       "Name": "He Can Spin A Yarn...",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 194
     },
     {
       "ID": "P_REMOVEPOLLUTION",
@@ -5867,9 +5867,9 @@
       "ID": "S_GHOST",
       "SetID": "80dcan0",
       "Name": "Who Ya Gonna Call...?",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 234
     },
     {
       "ID": "S_GIFT",
@@ -5891,17 +5891,17 @@
       "ID": "S_GIFT_LOVE",
       "SetID": "80dcan0",
       "Name": "Just What I Always Wanted!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 204
     },
     {
       "ID": "S_LOVE",
       "SetID": "80dcan0",
       "Name": "First Love",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 359
     },
     {
       "ID": "S_MARRY",
@@ -6027,8 +6027,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-05T19:58:57.8105655+00:00",
-  "LastChanged_Achievements": "2023-12-06T20:05:02.4078733+00:00",
+  "LastChanged_Achievements": "2023-12-06T21:04:38.1544814+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:11.8739142+00:00",
-  "LastUpdate_Ratings": "2023-12-06T19:59:25.154732+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:05:02.4079384+00:00"
+  "LastUpdate_Ratings": "2023-12-06T20:59:01.2368198+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:04:38.1545342+00:00"
 }

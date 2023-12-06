@@ -6,40 +6,40 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,499 |
-| Zealous | 1.00% | ~10,750 |
-| Not half bad | 1.00% | ~10,750 |
-| Apt Survivor | 1.00% | ~10,750 |
-| Survival Treasures | 1.00% | ~10,750 |
-| Skillful | 1.00% | ~10,750 |
-| I | 1.00% | ~10,750 |
-| Make Some Noise | 1.00% | ~10,750 |
-| Handyman | 0.90% | ~9,675 |
-| Sorted | 0.90% | ~9,675 |
-| No one left behind | 0.80% | ~8,600 |
-| Medic | 0.80% | ~8,600 |
-| Healthy Obsession | 0.80% | ~8,600 |
-| Resurgence | 0.80% | ~8,600 |
-| Preemptive Strike | 0.80% | ~8,600 |
-| The Grand Sacrifice | 0.70% | ~7,525 |
-| Perfect Escape | 0.70% | ~7,525 |
-| Bloody Millionaire | 0.70% | ~7,525 |
-| Humanitarian | 0.70% | ~7,525 |
-| Agonizing Escape | 0.60% | ~6,450 |
-| Backdoor Escape | 0.60% | ~6,450 |
-| I've got your back | 0.60% | ~6,450 |
-| Perfect Killing | 0.60% | ~6,450 |
-| Risk it all | 0.60% | ~6,450 |
-| II | 0.60% | ~6,450 |
-| Engineer | 0.60% | ~6,450 |
-| Wounded Healer | 0.60% | ~6,450 |
-| Close Shave | 0.60% | ~6,450 |
-| Apt Killer | 0.50% | ~5,375 |
+| It wakes | 2.00% | ~21,502 |
+| Zealous | 1.00% | ~10,751 |
+| Not half bad | 1.00% | ~10,751 |
+| Apt Survivor | 1.00% | ~10,751 |
+| Survival Treasures | 1.00% | ~10,751 |
+| Skillful | 1.00% | ~10,751 |
+| I | 1.00% | ~10,751 |
+| Make Some Noise | 1.00% | ~10,751 |
+| Handyman | 0.90% | ~9,676 |
+| Sorted | 0.90% | ~9,676 |
+| No one left behind | 0.80% | ~8,601 |
+| Medic | 0.80% | ~8,601 |
+| Healthy Obsession | 0.80% | ~8,601 |
+| Resurgence | 0.80% | ~8,601 |
+| Preemptive Strike | 0.80% | ~8,601 |
+| The Grand Sacrifice | 0.70% | ~7,526 |
+| Backdoor Escape | 0.70% | ~7,526 |
+| Perfect Escape | 0.70% | ~7,526 |
+| Bloody Millionaire | 0.70% | ~7,526 |
+| Humanitarian | 0.70% | ~7,526 |
+| Agonizing Escape | 0.60% | ~6,451 |
+| I've got your back | 0.60% | ~6,451 |
+| Perfect Killing | 0.60% | ~6,451 |
+| Apt Killer | 0.60% | ~6,451 |
+| Risk it all | 0.60% | ~6,451 |
+| II | 0.60% | ~6,451 |
+| Engineer | 0.60% | ~6,451 |
+| Wounded Healer | 0.60% | ~6,451 |
+| Close Shave | 0.60% | ~6,451 |
+| Vulture | 0.50% | ~5,375 |
 | III | 0.50% | ~5,375 |
 | Blood on your hands | 0.40% | ~4,300 |
 | Escape Artist | 0.40% | ~4,300 |
 | Gifts for the Fog | 0.40% | ~4,300 |
-| Vulture | 0.40% | ~4,300 |
 | III-50 | 0.40% | ~4,300 |
 | First to the Punch | 0.40% | ~4,300 |
 | Operation: Survival | 0.40% | ~4,300 |
@@ -72,6 +72,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.30% | ~3,225 |
 | MU/TH/UR Dearest | 0.30% | ~3,225 |
 | A bite for the Entity | 0.20% | ~2,150 |
+| Blood in your mouth | 0.20% | ~2,150 |
 | Jump Scares | 0.20% | ~2,150 |
 | Hemophobia | 0.20% | ~2,150 |
 | Deep Cleansing | 0.20% | ~2,150 |
@@ -90,6 +91,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | I See You | 0.20% | ~2,150 |
 | End of Days | 0.20% | ~2,150 |
 | Insult and Injury | 0.20% | ~2,150 |
+| Triage | 0.20% | ~2,150 |
 | Outrun the Overlap | 0.20% | ~2,150 |
 | High Speed Pursuit | 0.20% | ~2,150 |
 | A Fast Death | 0.20% | ~2,150 |
@@ -98,7 +100,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Extraterrestrial | 0.20% | ~2,150 |
 | Outta Nowhere | 0.20% | ~2,150 |
 | A feast for the Entity | 0.10% | ~1,075 |
-| Blood in your mouth | 0.10% | ~1,075 |
 | Cripple them all | 0.10% | ~1,075 |
 | The Grind | 0.10% | ~1,075 |
 | The Key to Escape | 0.10% | ~1,075 |
@@ -207,7 +208,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Ghost in the Machine | 0.10% | ~1,075 |
 | Adept Onryō | 0.10% | ~1,075 |
 | Fleet of Foot | 0.10% | ~1,075 |
-| Triage | 0.10% | ~1,075 |
 | Adept Yoichi | 0.10% | ~1,075 |
 | Bump in the Night | 0.10% | ~1,075 |
 | From the Deep | 0.10% | ~1,075 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,075 |
 | Adept Good Guy | 0.10% | ~1,075 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,074,954 (Ranked 14)  
+Progressed: 1,075,096 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -469,10 +469,10 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
-| 2023-12-06 | 1,074,954 | 61 |
+| 2023-12-06 | 1,075,096 | 61 |
 ## Awards
 Max (Diverse Characters): 37,377  (Ranked 15)  
-Sum: 283,639 (Ranked 12)  
+Sum: 283,676 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -482,7 +482,7 @@ Diff (max vs sum): 3
 | This game has Competitive Players | 31,791 |
 | This game is Extremely Fun | 31,433 |
 | This game has Challenging Combat | 31,357 |
-| This game has Quickly Understood Controls | 30,621 |
+| This game has Quickly Understood Controls | 30,658 |
 | This game has Amazing Storytelling | 28,959 |
 | This game has a Competitive Community | 27,700 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -806,4 +806,4 @@ Diff (max vs sum): 3
 | 2023-12-03 | 4.51 | - | 37,218 | 282,346 |
 | 2023-12-04 | 4.51 | - | 37,289 | 282,989 |
 | 2023-12-05 | 4.51 | - | 37,377 | 283,349 |
-| 2023-12-06 | 4.51 | - | 37,377 | 283,639 |
+| 2023-12-06 | 4.51 | - | 37,377 | 283,676 |

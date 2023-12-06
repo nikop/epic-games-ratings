@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5537,10 +5537,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3994,
       "NumberOfAwardsMax": 484
+    },
+    {
+      "Time": "2023-12-06T20:58:40.0295339+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4004,
+      "NumberOfAwardsMax": 484
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3994,
+  "NumberOfAwards": 4004,
   "NumberOfAwardsMax": 484,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5578,7 +5584,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 424
+      "Count": 430
     },
     {
       "Text": "This game is Educational",
@@ -5602,18 +5608,18 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 459
+      "Count": 461
     },
     {
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 347
+      "Count": 349
     }
   ],
-  "EOS_Progressed": 253215,
+  "EOS_Progressed": 253217,
   "EOS_Completed": 895,
-  "EOS_NewPlayers": 710,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -30681,6 +30687,11 @@
       "Time": "2023-12-06T20:09:53.3213249+00:00",
       "NumProgressed": 253215,
       "NumCompleted": 895
+    },
+    {
+      "Time": "2023-12-06T21:09:30.0080177+00:00",
+      "NumProgressed": 253217,
+      "NumCompleted": 895
     }
   ],
   "TotalAchievements": 39,
@@ -30724,7 +30735,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 68368
+      "UsersEstimate": 68369
     },
     {
       "ID": "AchievementBigFootID",
@@ -30740,7 +30751,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 75964
+      "UsersEstimate": 75965
     },
     {
       "ID": "AchievementBoulderID",
@@ -30756,7 +30767,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 230426
+      "UsersEstimate": 230427
     },
     {
       "ID": "AchievementClownID",
@@ -30780,7 +30791,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 70900
+      "UsersEstimate": 70901
     },
     {
       "ID": "AchievementEggID",
@@ -30804,7 +30815,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 83561
+      "UsersEstimate": 83562
     },
     {
       "ID": "AchievementGoatID",
@@ -30820,7 +30831,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 134204
+      "UsersEstimate": 134205
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -30836,7 +30847,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 37982
+      "UsersEstimate": 37983
     },
     {
       "ID": "AchievementInstinctID",
@@ -30852,7 +30863,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 113947
+      "UsersEstimate": 113948
     },
     {
       "ID": "AchievementIntroID",
@@ -30860,7 +30871,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 144333
+      "UsersEstimate": 144334
     },
     {
       "ID": "AchievementLootBoxID",
@@ -30924,7 +30935,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 187379
+      "UsersEstimate": 187381
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -30940,7 +30951,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 129140
+      "UsersEstimate": 129141
     },
     {
       "ID": "AchievementStreakingID",
@@ -30956,7 +30967,7 @@
       "Name": "401(K.O.)",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 37982
+      "UsersEstimate": 37983
     },
     {
       "ID": "AchievementThroneID",
@@ -30964,7 +30975,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 139268
+      "UsersEstimate": 139269
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -30972,7 +30983,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 119011
+      "UsersEstimate": 119012
     },
     {
       "ID": "AchievementTrinketID",
@@ -30988,7 +30999,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 164590
+      "UsersEstimate": 164591
     },
     {
       "ID": "AchievementWhaleID",
@@ -30996,23 +31007,23 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 68368
+      "UsersEstimate": 68369
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 253215,
+      "Progressed": 253217,
       "Completed": 895
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-12-06T18:59:40.3674966+00:00",
-  "LastChanged_Achievements": "2023-12-06T20:09:53.3213244+00:00",
+  "LastChanged": "2023-12-06T20:58:40.0295337+00:00",
+  "LastChanged_Achievements": "2023-12-06T21:09:30.0080173+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.8008808+00:00",
-  "LastUpdate_Ratings": "2023-12-06T19:59:02.7320361+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:09:53.321468+00:00"
+  "LastUpdate_Ratings": "2023-12-06T20:58:40.0295342+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:09:30.008181+00:00"
 }

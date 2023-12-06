@@ -67,7 +67,7 @@ Rating: 4.61 (Ranked 386)
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,572 (Ranked 189)  
-Completed: 7 (0.13%) (Ranked 278)  
+Completed: 7 (0.13%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -266,12 +266,12 @@ Completed: 7 (0.13%) (Ranked 278)
 | 2023-12-05 | 5,569 | 7 |
 | 2023-12-06 | 5,572 | 7 |
 ## Awards
-Max (Great for Beginners): 35  (Ranked 481)  
-Sum: 88 (Ranked 459)  
-Diff (max vs sum): 22  
+Max (Great for Beginners): 36  (Ranked 477)  
+Sum: 89 (Ranked 459)  
+Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 35 |
+| This game is Great for Beginners | 36 |
 | This game has Diverse Characters | 31 |
 | This game is Extremely Fun | 22 |
 ## Ratings History
@@ -345,4 +345,4 @@ Diff (max vs sum): 22
 | 2023-11-28 | 4.61 | 35 | 81 |
 | 2023-11-29 | 4.61 | 35 | 84 |
 | 2023-12-04 | 4.61 | 35 | 85 |
-| 2023-12-06 | 4.62 | 35 | 88 |
+| 2023-12-06 | 4.62 | 36 | 89 |

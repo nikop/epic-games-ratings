@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -4893,9 +4893,9 @@
       "ID": "NEW_ACHIEVEMENT_TO_INFINITY_AND_BEYOND",
       "SetID": "l546gc",
       "Name": "To infinity and beyond!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
@@ -4910,8 +4910,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-06T17:58:25.3194639+00:00",
-  "LastChanged_Achievements": "2023-12-06T20:08:51.7316122+00:00",
+  "LastChanged_Achievements": "2023-12-06T21:08:30.7098206+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.2578191+00:00",
-  "LastUpdate_Ratings": "2023-12-06T19:58:23.3400752+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:08:51.7316614+00:00"
+  "LastUpdate_Ratings": "2023-12-06T20:58:02.9430614+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:08:30.7098671+00:00"
 }

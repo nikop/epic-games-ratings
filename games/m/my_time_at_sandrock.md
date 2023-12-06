@@ -14,13 +14,13 @@ Number of Ratings: 892  (23.09.2022)
 | Your Especially Earned Trajectory | 107.00% | ~533 |
 | No Mountain Wide Enough | 85.00% | ~423 |
 | One of the Cool Kids | 85.00% | ~423 |
-| On that Grindset | 80.00% | ~398 |
+| On that Grindset | 81.00% | ~403 |
 | Yakmel Whisperer | 80.00% | ~398 |
 | Diamonds are Forever | 77.00% | ~383 |
+| Pack Mule | 76.00% | ~378 |
 | I Do! | 76.00% | ~378 |
-| Pack Mule | 75.00% | ~374 |
 | Can We Keep It? | 74.00% | ~369 |
-| First Love | 71.00% | ~354 |
+| First Love | 72.00% | ~359 |
 | Unboxing | 71.00% | ~354 |
 | Big Game Hunter | 67.00% | ~334 |
 | Chatterbox | 67.00% | ~334 |
@@ -46,13 +46,13 @@ Number of Ratings: 892  (23.09.2022)
 | Bridging the Gap | 54.00% | ~269 |
 | Got the Flow Back | 49.00% | ~244 |
 | Sepia Toned Memories | 47.00% | ~234 |
-| Who Ya Gonna Call...? | 46.00% | ~229 |
+| Who Ya Gonna Call...? | 47.00% | ~234 |
 | Time Flies | 45.00% | ~224 |
 | Jewel of the Eufaula | 44.00% | ~219 |
 | My Time Mansion | 43.00% | ~214 |
 | Kind of a Big Deal | 43.00% | ~214 |
-| Just What I Always Wanted! | 40.00% | ~199 |
-| He Can Spin A Yarn... | 38.00% | ~189 |
+| Just What I Always Wanted! | 41.00% | ~204 |
+| He Can Spin A Yarn... | 39.00% | ~194 |
 | Santa In Training | 37.00% | ~184 |
 | Sandrunning Speedster | 36.00% | ~179 |
 | Newton | 34.00% | ~169 |

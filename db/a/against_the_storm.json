@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 3671,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3365,7 +3365,7 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17634,
+  "EOS_Progressed": 17635,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": -3,
@@ -14865,6 +14865,11 @@
       "Time": "2023-12-06T20:03:44.9444398+00:00",
       "NumProgressed": 17634,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-12-06T21:03:26.1709482+00:00",
+      "NumProgressed": 17635,
+      "NumCompleted": 48
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14971,9 +14976,9 @@
       "ID": "WinHard",
       "SetID": "cfbk359",
       "Name": "Overcoming Difficulty",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     },
     {
       "ID": "WinImpossible",
@@ -15155,9 +15160,9 @@
       "ID": "WinOnMarshlands",
       "SetID": "cfbk359",
       "Name": "The Marshlands",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     },
     {
       "ID": "WinOnMoorlands",
@@ -15348,15 +15353,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17634,
+      "Progressed": 17635,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-06T14:58:47.8686874+00:00",
-  "LastChanged_Achievements": "2023-12-06T20:03:44.9444394+00:00",
+  "LastChanged_Achievements": "2023-12-06T21:03:26.1709478+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-06T19:59:15.103088+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:03:44.944544+00:00"
+  "LastUpdate_Ratings": "2023-12-06T20:58:51.6650777+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:03:26.1710309+00:00"
 }

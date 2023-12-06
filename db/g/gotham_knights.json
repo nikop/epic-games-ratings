@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4485,18 +4485,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 5113,
       "NumberOfAwardsMax": 2994
+    },
+    {
+      "Time": "2023-12-06T20:58:43.2516931+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5116,
+      "NumberOfAwardsMax": 2996
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5113,
-  "NumberOfAwardsMax": 2994,
+  "NumberOfAwards": 5116,
+  "NumberOfAwardsMax": 2996,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2994
+      "Count": 2996
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4526,7 +4532,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 262
+      "Count": 263
     },
     {
       "Text": "This game is Relaxing",
@@ -4553,9 +4559,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77737,
+  "EOS_Progressed": 77738,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25193,6 +25199,11 @@
       "Time": "2023-12-06T20:04:17.0370024+00:00",
       "NumProgressed": 77737,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-06T21:03:53.6023079+00:00",
+      "NumProgressed": 77738,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25284,7 +25295,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9328
+      "UsersEstimate": 9329
     },
     {
       "ID": "APPLY_STATUS",
@@ -25340,7 +25351,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -25380,7 +25391,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9328
+      "UsersEstimate": 9329
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -25428,7 +25439,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21766
+      "UsersEstimate": 21767
     },
     {
       "ID": "FREEZE_1_5",
@@ -25436,7 +25447,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15547
+      "UsersEstimate": 15548
     },
     {
       "ID": "FREEZE_2",
@@ -25524,7 +25535,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15547
+      "UsersEstimate": 15548
     },
     {
       "ID": "HARLEY_4",
@@ -25548,7 +25559,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38868
+      "UsersEstimate": 38869
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25572,7 +25583,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15547
+      "UsersEstimate": 15548
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -25596,7 +25607,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25653
+      "UsersEstimate": 25654
     },
     {
       "ID": "MYSTERY_02",
@@ -25620,7 +25631,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15547
+      "UsersEstimate": 15548
     },
     {
       "ID": "MYSTERY_05",
@@ -25652,7 +25663,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9328
+      "UsersEstimate": 9329
     },
     {
       "ID": "SECRET_CACHE",
@@ -25691,22 +25702,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77737,
+      "Progressed": 77738,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48017,
+      "Progressed": 48018,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-12-06T08:58:33.7324209+00:00",
-  "LastChanged_Achievements": "2023-12-06T20:04:17.0370016+00:00",
+  "LastChanged": "2023-12-06T20:58:43.2516929+00:00",
+  "LastChanged_Achievements": "2023-12-06T21:03:53.6023077+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-06T19:59:06.3615525+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:04:17.0371948+00:00"
+  "LastUpdate_Ratings": "2023-12-06T20:58:43.2516935+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:03:53.602437+00:00"
 }

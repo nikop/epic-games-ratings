@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 364,
+  "EOS_Progressed": 366,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1578,6 +1578,11 @@
       "Time": "2023-12-06T19:04:31.7419549+00:00",
       "NumProgressed": 364,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T21:03:46.5524909+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1614,7 +1619,7 @@
       "Name": "Dressed For Success",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AttackCount",
@@ -1870,7 +1875,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -1918,7 +1923,7 @@
       "Name": "Adept",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "WielderLevel2",
@@ -1926,7 +1931,7 @@
       "Name": "Veteran",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "WielderLevel3",
@@ -1950,7 +1955,7 @@
       "Name": "Humiliation",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -2021,15 +2026,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 364,
+      "Progressed": 366,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-06T20:04:09.4242754+00:00",
+  "LastChanged_Achievements": "2023-12-06T21:03:46.5524906+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-06T19:59:36.732296+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:04:09.4243204+00:00"
+  "LastUpdate_Ratings": "2023-12-06T20:59:12.3655929+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:03:46.5525278+00:00"
 }

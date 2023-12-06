@@ -6,38 +6,38 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~86,964 |
-| Alt+F4 | 9.00% | ~21,741 |
-| Where's that freaking Dwarf? | 8.00% | ~19,325 |
+| Sowwy! | 36.00% | ~86,967 |
+| Alt+F4 | 9.00% | ~21,742 |
+| Where's that freaking Dwarf? | 8.00% | ~19,326 |
 | Déjà vu | 7.00% | ~16,910 |
-| A beer, two curses, three companions | 5.00% | ~12,078 |
-| Sock! SOCK! | 5.00% | ~12,078 |
-| GG EZ | 5.00% | ~12,078 |
-| Speedrun | 5.00% | ~12,078 |
+| A beer, two curses, three companions | 5.00% | ~12,079 |
+| Sock! SOCK! | 5.00% | ~12,079 |
+| GG EZ | 5.00% | ~12,079 |
+| Speedrun | 5.00% | ~12,079 |
 | DM intervention | 4.00% | ~9,663 |
 | Fireproof Wizardess | 4.00% | ~9,663 |
 | Livin' in a dwarven paradise | 3.00% | ~7,247 |
 | Way of the Wimp | 3.00% | ~7,247 |
 | The plot thickens... At the tavern | 3.00% | ~7,247 |
 | The Woman in the High Castle | 3.00% | ~7,247 |
-| Shiny and Crôm | 2.00% | ~4,831 |
-| The demons' feast | 2.00% | ~4,831 |
-| The Great Library | 2.00% | ~4,831 |
-| Torture and Sensibility | 2.00% | ~4,831 |
-| Urik's Depths | 2.00% | ~4,831 |
-| The Dungeon Master | 2.00% | ~4,831 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,831 |
-| Res Judicata | 2.00% | ~4,831 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,831 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,831 |
-| Dwarf Fortress | 2.00% | ~4,831 |
-| Look but don't touch | 2.00% | ~4,831 |
-| The beards of change | 2.00% | ~4,831 |
-| The Ranger of Chaos | 2.00% | ~4,831 |
-| I am the night | 2.00% | ~4,831 |
-| Thieves' Guild Accreditation | 2.00% | ~4,831 |
-| Team Building Exercise | 2.00% | ~4,831 |
-| Oh, when I'll be level 10... | 2.00% | ~4,831 |
+| Shiny and Crôm | 2.00% | ~4,832 |
+| The demons' feast | 2.00% | ~4,832 |
+| The Great Library | 2.00% | ~4,832 |
+| Torture and Sensibility | 2.00% | ~4,832 |
+| Urik's Depths | 2.00% | ~4,832 |
+| The Dungeon Master | 2.00% | ~4,832 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,832 |
+| Res Judicata | 2.00% | ~4,832 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,832 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,832 |
+| Dwarf Fortress | 2.00% | ~4,832 |
+| Look but don't touch | 2.00% | ~4,832 |
+| The beards of change | 2.00% | ~4,832 |
+| The Ranger of Chaos | 2.00% | ~4,832 |
+| I am the night | 2.00% | ~4,832 |
+| Thieves' Guild Accreditation | 2.00% | ~4,832 |
+| Team Building Exercise | 2.00% | ~4,832 |
+| Oh, when I'll be level 10... | 2.00% | ~4,832 |
 | %#*!$*! | 1.00% | ~2,416 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,416 |
 | Dead for good | 1.00% | ~2,416 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,568 (Ranked 63)  
+Progressed: 241,575 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,18 +284,18 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-03 | 241,176 | 7 |
 | 2023-12-04 | 241,332 | 7 |
 | 2023-12-05 | 241,460 | 7 |
-| 2023-12-06 | 241,568 | 7 |
+| 2023-12-06 | 241,575 | 7 |
 ## Awards
 Max (Character Customization): 242  (Ranked 272)  
-Sum: 490 (Ranked 329)  
+Sum: 491 (Ranked 329)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 242 |
 | This game is Relaxing | 39 |
 | This game is Great for Beginners | 35 |
+| This game is Highly Recommended | 32 |
 | This game has Amazing Storytelling | 32 |
-| This game is Highly Recommended | 31 |
 | This game has Quickly Understood Controls | 31 |
 | This game has Amazing Characters | 27 |
 | This game has Diverse Characters | 27 |
@@ -493,4 +493,4 @@ Diff (max vs sum): -57
 | 2023-12-03 | 4.58 | - | 241 | 487 |
 | 2023-12-04 | 4.58 | - | 241 | 488 |
 | 2023-12-05 | 4.58 | - | 242 | 489 |
-| 2023-12-06 | 4.58 | - | 242 | 490 |
+| 2023-12-06 | 4.58 | - | 242 | 491 |

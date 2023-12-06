@@ -2,10 +2,10 @@
   "ID": "40257023d2d44231ac722108f30ab717",
   "Name": "Orten Was The Case",
   "ProductSlug": "orten-was-the-case-d108fb",
-  "Ranking_EOS_Progress": 601,
+  "Ranking_EOS_Progress": 602,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-29T00:00:00+00:00",
     "PcReleaseDate": "2023-11-29T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 13,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
@@ -157,9 +157,9 @@
       "ID": "HOOPDREAMS",
       "SetID": "51l0gl8",
       "Name": "Hoop Dreams",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KINGOFTHELINE",
@@ -244,8 +244,8 @@
   ],
   "FirstSeen": "2023-12-03T01:50:41.1036238+00:00",
   "FirstSeenAchievements": "2023-10-25T12:03:08.1004674+00:00",
-  "LastChanged_Achievements": "2023-12-06T20:03:43.8331228+00:00",
+  "LastChanged_Achievements": "2023-12-06T21:03:25.2501947+00:00",
   "LastUpdate_AppInfo": "2023-12-06T13:57:20.4589793+00:00",
-  "LastUpdate_Ratings": "2023-12-06T19:58:27.1102723+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:03:43.8331325+00:00"
+  "LastUpdate_Ratings": "2023-12-06T20:58:06.7011997+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:03:25.2502057+00:00"
 }

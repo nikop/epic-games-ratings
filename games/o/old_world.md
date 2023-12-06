@@ -165,6 +165,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greater Kmt Unified | 0.50% | ~78 |
 | Bronze Victory (Carthage 1) | 0.40% | ~63 |
 | Silver Victory (Carthage 1) | 0.40% | ~63 |
+| Carthage - Riches and Influence | 0.40% | ~63 |
 | Magnificent Difficulty | 0.40% | ~63 |
 | The Eternal Treaty | 0.40% | ~63 |
 | Run, Pheidippides, Run! | 0.40% | ~63 |
@@ -176,7 +177,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.40% | ~63 |
 | Prosperous Kmt | 0.40% | ~63 |
 | Gold Victory (Carthage 1) | 0.30% | ~47 |
-| Carthage - Riches and Influence | 0.30% | ~47 |
 | Bronze Victory (Carthage 2) | 0.30% | ~47 |
 | Cleopatra's Love | 0.30% | ~47 |
 | Holy | 0.30% | ~47 |
@@ -190,6 +190,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Randomized Leaders | 0.30% | ~47 |
 | Barbarian Horde | 0.20% | ~31 |
 | Blade of the Monkey | 0.20% | ~31 |
+| Gold Victory (Carthage 2) | 0.20% | ~31 |
 | Silver Victory (Carthage 2) | 0.20% | ~31 |
 | Carthage - Rise of Rome | 0.20% | ~31 |
 | Game of the Week | 0.20% | ~31 |
@@ -222,7 +223,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia in Byzantion | 0.10% | ~16 |
 | Epic Victory (Carthage 1) | 0.10% | ~16 |
 | Epic Victory (Carthage 2) | 0.10% | ~16 |
-| Gold Victory (Carthage 2) | 0.10% | ~16 |
 | Bronze Victory (Carthage 3) | 0.10% | ~16 |
 | Epic Victory (Carthage 3) | 0.10% | ~16 |
 | Gold Victory (Carthage 3) | 0.10% | ~16 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,660 (Ranked 152)  
+Progressed: 15,661 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -579,7 +579,7 @@ Completed: 5 (0.03%) (Ranked 332)
 | 2023-12-03 | 15,619 | 5 |
 | 2023-12-04 | 15,638 | 5 |
 | 2023-12-05 | 15,649 | 5 |
-| 2023-12-06 | 15,660 | 5 |
+| 2023-12-06 | 15,661 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,889 (Ranked 220)  

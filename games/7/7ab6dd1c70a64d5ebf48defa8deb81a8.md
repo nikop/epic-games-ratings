@@ -26,9 +26,9 @@
 | Godslayer | 5.00% | ~12 |
 | The Mentor | 5.00% | ~12 |
 | Fine Feathers Make Fine Birds | 5.00% | ~12 |
+| Clear Sight | 4.00% | ~10 |
 | Airborne | 4.00% | ~10 |
 | Shatterer | 4.00% | ~10 |
-| Clear Sight | 3.00% | ~7 |
 | Slayer | 2.00% | ~5 |
 | Flawless Victory | 2.00% | ~5 |
 | All There Is | 2.00% | ~5 |

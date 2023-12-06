@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 785,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 465,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
     "PcReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -1535,10 +1535,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2076,
       "NumberOfAwardsMax": 813
+    },
+    {
+      "Time": "2023-12-06T21:00:00.1298295+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2091,
+      "NumberOfAwardsMax": 813
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2076,
+  "NumberOfAwards": 2091,
   "NumberOfAwardsMax": 813,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1558,7 +1564,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 172
+      "Count": 179
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1600,7 +1606,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 93
+      "Count": 97
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1612,7 +1618,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 106
+      "Count": 110
     }
   ],
   "EOS_Progressed": 0,
@@ -1627,8 +1633,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-12-06T19:01:34.5930113+00:00",
+  "LastChanged": "2023-12-06T21:00:00.1298293+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.5728396+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:00:26.0388955+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:03:27.0260918+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:00:00.1298297+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:03:08.5787173+00:00"
 }

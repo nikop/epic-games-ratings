@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -131,9 +131,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1013,
+  "EOS_Progressed": 1014,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.16,
   "EosHistory": [
@@ -3391,6 +3391,11 @@
       "Time": "2023-12-06T20:05:26.4834817+00:00",
       "NumProgressed": 1013,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-06T21:05:01.2166575+00:00",
+      "NumProgressed": 1014,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3409,9 +3414,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 659
     },
     {
       "ID": "_03_FinishAct1",
@@ -3451,7 +3456,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "_08_Completion_10",
@@ -3523,7 +3528,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3595,7 +3600,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -3610,7 +3615,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1013,
+      "Progressed": 1014,
       "Completed": 32
     }
   ],
@@ -3618,8 +3623,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-04T19:02:27.0959811+00:00",
-  "LastChanged_Achievements": "2023-12-06T20:05:26.4834814+00:00",
+  "LastChanged_Achievements": "2023-12-06T21:05:01.2166573+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-06T19:58:13.5168185+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:05:26.4835169+00:00"
+  "LastUpdate_Ratings": "2023-12-06T20:57:53.8129619+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:05:01.2166825+00:00"
 }

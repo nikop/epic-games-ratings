@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11527,10 +11527,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 50053,
       "NumberOfAwardsMax": 24977
+    },
+    {
+      "Time": "2023-12-06T21:00:07.5134459+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50057,
+      "NumberOfAwardsMax": 24977
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50053,
+  "NumberOfAwards": 50057,
   "NumberOfAwardsMax": 24977,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11562,7 +11568,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1382
+      "Count": 1386
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11609,7 +11615,7 @@
   ],
   "EOS_Progressed": 304015,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36739,9 +36745,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-06T20:00:34.0500918+00:00",
-  "LastChanged_Achievements": "2023-12-06T20:09:53.9387532+00:00",
+  "LastChanged": "2023-12-06T21:00:07.5134457+00:00",
+  "LastChanged_Achievements": "2023-12-06T21:09:30.6522884+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:00:34.0500928+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:09:53.9389159+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:00:07.5134464+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:09:30.6524542+00:00"
 }

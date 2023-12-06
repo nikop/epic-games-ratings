@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -457,7 +457,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43357,
+  "EOS_Progressed": 43358,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
@@ -14317,6 +14317,11 @@
       "Time": "2023-12-06T17:04:37.5761499+00:00",
       "NumProgressed": 43357,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-06T21:04:34.6623696+00:00",
+      "NumProgressed": 43358,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -14592,7 +14597,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "MAGIC_TANTA",
@@ -14656,7 +14661,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -14751,22 +14756,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43357,
+      "Progressed": 43358,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8194,
-      "Completed": 8194
+      "Progressed": 8195,
+      "Completed": 8195
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-06T14:01:49.0536131+00:00",
-  "LastChanged_Achievements": "2023-12-06T20:04:58.7485768+00:00",
+  "LastChanged_Achievements": "2023-12-06T21:04:34.6623691+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:22.4810167+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:00:25.005486+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:04:58.7486654+00:00"
+  "LastUpdate_Ratings": "2023-12-06T20:59:59.2528113+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:04:34.6624726+00:00"
 }

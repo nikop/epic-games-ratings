@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58121,
+  "EOS_Progressed": 58122,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13666,6 +13666,11 @@
       "Time": "2023-12-06T20:04:59.0973138+00:00",
       "NumProgressed": 58121,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-06T21:04:35.0383941+00:00",
+      "NumProgressed": 58122,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -13741,7 +13746,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4068
+      "UsersEstimate": 4069
     },
     {
       "ID": "FlyingPresent",
@@ -14013,7 +14018,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4068
+      "UsersEstimate": 4069
     },
     {
       "ID": "TimelySplash",
@@ -14068,7 +14073,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58121,
+      "Progressed": 58122,
       "Completed": 6
     }
   ],
@@ -14076,8 +14081,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-06T20:04:59.0973135+00:00",
+  "LastChanged_Achievements": "2023-12-06T21:04:35.0383938+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:50.6046974+00:00",
-  "LastUpdate_Ratings": "2023-12-06T19:57:13.2901276+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:04:59.0974187+00:00"
+  "LastUpdate_Ratings": "2023-12-06T20:56:59.7849205+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:04:35.0384939+00:00"
 }

@@ -14,13 +14,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 2.00% | ~353 |
 | Gathering Storm | 2.00% | ~353 |
 | Untamed Wilds | 1.00% | ~176 |
+| Overcoming Difficulty | 0.40% | ~71 |
+| The Marshlands | 0.40% | ~71 |
 | Taking Action | 0.40% | ~71 |
 | No Deaths | 0.40% | ~71 |
 | First Real Expedition | 0.30% | ~53 |
-| Overcoming Difficulty | 0.30% | ~53 |
 | Watchtower | 0.30% | ~53 |
 | Coral Forest | 0.30% | ~53 |
-| The Marshlands | 0.30% | ~53 |
 | The Scarlet Orchard | 0.30% | ~53 |
 | Fox Utopia | 0.30% | ~53 |
 | Homesick | 0.20% | ~35 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,634 (Ranked 146)  
+Progressed: 17,635 (Ranked 146)  
 Completed: 48 (0.27%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 48 (0.27%) (Ranked 248)
 | 2023-12-03 | 17,585 | 49 |
 | 2023-12-04 | 17,605 | 49 |
 | 2023-12-05 | 17,618 | 49 |
-| 2023-12-06 | 17,634 | 49 |
+| 2023-12-06 | 17,635 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,243 (Ranked 173)  

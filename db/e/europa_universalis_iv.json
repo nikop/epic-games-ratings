@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12865,10 +12865,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 59963,
       "NumberOfAwardsMax": 7282
+    },
+    {
+      "Time": "2023-12-06T20:57:06.9200465+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 59970,
+      "NumberOfAwardsMax": 7282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59963,
+  "NumberOfAwards": 59970,
   "NumberOfAwardsMax": 7282,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12876,7 +12882,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 6978
+      "Count": 6985
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12939,9 +12945,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 470244,
+  "EOS_Progressed": 470275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4341,
+  "EOS_NewPlayers": 4337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39384,6 +39390,11 @@
       "Time": "2023-12-06T20:04:21.1577214+00:00",
       "NumProgressed": 470244,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T21:03:57.8086386+00:00",
+      "NumProgressed": 470275,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -40395,7 +40406,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "achievement_grand_coalition",
@@ -41675,7 +41686,7 @@
       "Name": "That is mine!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -42059,7 +42070,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -42091,7 +42102,7 @@
       "Name": "Victorious!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -42298,21 +42309,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 470244,
+      "Progressed": 470275,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 470244,
+      "Progressed": 470275,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-06T19:57:21.7179078+00:00",
-  "LastChanged_Achievements": "2023-12-06T20:04:21.1577211+00:00",
+  "LastChanged": "2023-12-06T20:57:06.9200463+00:00",
+  "LastChanged_Achievements": "2023-12-06T21:03:57.8086383+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:21.5867549+00:00",
-  "LastUpdate_Ratings": "2023-12-06T19:57:21.7179086+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:04:21.1591443+00:00"
+  "LastUpdate_Ratings": "2023-12-06T20:57:06.920047+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:03:57.8096476+00:00"
 }

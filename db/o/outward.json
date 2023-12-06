@@ -3,12 +3,12 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 494,
-  "Ranking_Popularity": 481,
+  "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -5850,9 +5850,9 @@
       "ID": "AncestorsPride_13",
       "SetID": "c4hee28",
       "Name": "Ancestor\u0027s Pride",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 186
     },
     {
       "ID": "ApexPredator_27",
@@ -6178,8 +6178,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-06T20:06:31.5248252+00:00",
+  "LastChanged_Achievements": "2023-12-06T21:06:04.0734525+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:35.7033793+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:00:21.9099064+00:00",
-  "LastUpdate_Achievements": "2023-12-06T20:06:31.5248723+00:00"
+  "LastUpdate_Ratings": "2023-12-06T20:59:56.2359954+00:00",
+  "LastUpdate_Achievements": "2023-12-06T21:06:04.0735144+00:00"
 }

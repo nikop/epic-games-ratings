@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,697 |
-| Pork Chopped | 3.00% | ~1,697 |
+| Whatever It Takes | 3.00% | ~1,698 |
+| Pork Chopped | 3.00% | ~1,698 |
 | Dr. Reed, I Presume? | 2.00% | ~14,621 |
 | Git Gutte! | 2.00% | ~14,621 |
 | Bookworm | 2.00% | ~14,621 |
@@ -21,25 +21,25 @@ Rating: 4.54 (Ranked 529)
 | This is My Weapon | 2.00% | ~14,621 |
 | Welcome To Hell-A | 2.00% | ~14,621 |
 | One of Us | 2.00% | ~1,132 |
-| Making Your Mark | 1.00% | ~7,310 |
-| Anger Management | 1.00% | ~7,310 |
-| Perks of the Job | 1.00% | ~7,310 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,310 |
-| But Doctor, I am Butcho | 1.00% | ~7,310 |
-| Slayer Squad | 1.00% | ~7,310 |
-| Can't Handle the Truth | 1.00% | ~7,310 |
-| Like Riding a Bike | 1.00% | ~7,310 |
-| Zombologist | 1.00% | ~7,310 |
-| Ooh, Shiny! | 1.00% | ~7,310 |
-| A Patton Emerges | 1.00% | ~7,310 |
-| Humanity Distilled | 1.00% | ~7,310 |
-| I Am the Resurrection | 1.00% | ~7,310 |
-| Max Headroom | 1.00% | ~7,310 |
-| Our True Nature | 1.00% | ~7,310 |
-| Down with the Sickness | 0.90% | ~6,579 |
-| Jumbo Keyring | 0.80% | ~5,848 |
-| Go, Bobcats! | 0.80% | ~5,848 |
-| Rising Star | 0.80% | ~5,848 |
+| Making Your Mark | 1.00% | ~7,311 |
+| Anger Management | 1.00% | ~7,311 |
+| Perks of the Job | 1.00% | ~7,311 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,311 |
+| But Doctor, I am Butcho | 1.00% | ~7,311 |
+| Slayer Squad | 1.00% | ~7,311 |
+| Can't Handle the Truth | 1.00% | ~7,311 |
+| Like Riding a Bike | 1.00% | ~7,311 |
+| Zombologist | 1.00% | ~7,311 |
+| Ooh, Shiny! | 1.00% | ~7,311 |
+| A Patton Emerges | 1.00% | ~7,311 |
+| Humanity Distilled | 1.00% | ~7,311 |
+| I Am the Resurrection | 1.00% | ~7,311 |
+| Max Headroom | 1.00% | ~7,311 |
+| Our True Nature | 1.00% | ~7,311 |
+| Down with the Sickness | 0.90% | ~6,580 |
+| Jumbo Keyring | 0.80% | ~5,849 |
+| Go, Bobcats! | 0.80% | ~5,849 |
+| Rising Star | 0.80% | ~5,849 |
 | Not Even My Final Form | 0.70% | ~5,117 |
 | On Safari | 0.60% | ~4,386 |
 | Smorgasbord | 0.60% | ~4,386 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,036 (Ranked 21)  
+Progressed: 731,063 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-03 | 729,822 | 2,461 |
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
-| 2023-12-06 | 731,036 | 2,465 |
+| 2023-12-06 | 731,063 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,968  (Ranked 49)  
 Sum: 12,233 (Ranked 82)  

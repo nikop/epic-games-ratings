@@ -19,11 +19,11 @@
 | DI Hardwicke | 44.00% | ~17 |
 | Order and method | 41.00% | ~16 |
 | An expert mediator | 41.00% | ~16 |
-| Betty Allen | 36.00% | ~14 |
-| The Investigation Begins | 36.00% | ~14 |
+| Betty Allen | 38.00% | ~15 |
+| The Investigation Begins | 38.00% | ~15 |
+| Ms. Camilla B. Culsham | 33.00% | ~13 |
+| Irene Court-Smyth | 33.00% | ~13 |
 | An odd series of events | 31.00% | ~12 |
-| Ms. Camilla B. Culsham | 31.00% | ~12 |
-| Irene Court-Smyth | 31.00% | ~12 |
 | The Apartment | 31.00% | ~12 |
 | Nathaniel Dryden | 28.00% | ~11 |
 | Well-acquainted | 26.00% | ~10 |
