@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7393,9 +7393,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 143964,
+  "EOS_Progressed": 143970,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 1179,
+  "EOS_NewPlayers": 1176,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -31248,6 +31248,11 @@
       "Time": "2023-12-06T07:03:18.7516121+00:00",
       "NumProgressed": 143964,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-06T08:03:29.7942753+00:00",
+      "NumProgressed": 143970,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -31427,7 +31432,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10077
+      "UsersEstimate": 10078
     },
     {
       "ID": "chest02",
@@ -32075,7 +32080,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10077
+      "UsersEstimate": 10078
     },
     {
       "ID": "twinenchant01",
@@ -32154,15 +32159,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143964,
+      "Progressed": 143970,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-05T17:03:14.9602603+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:03:18.7516119+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:03:29.794275+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-06T07:02:49.0747945+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:03:18.7517932+00:00"
+  "LastUpdate_Ratings": "2023-12-06T08:02:58.1718633+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:03:29.7945032+00:00"
 }

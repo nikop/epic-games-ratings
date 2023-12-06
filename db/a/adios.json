@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -123,7 +123,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79917,
+  "EOS_Progressed": 79918,
   "EOS_Completed": 864,
   "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 8,
@@ -25713,6 +25713,11 @@
       "Time": "2023-12-06T07:03:08.8733388+00:00",
       "NumProgressed": 79917,
       "NumCompleted": 864
+    },
+    {
+      "Time": "2023-12-06T08:03:19.8340462+00:00",
+      "NumProgressed": 79918,
+      "NumCompleted": 864
     }
   ],
   "TotalAchievements": 25,
@@ -25796,7 +25801,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15983
+      "UsersEstimate": 15984
     },
     {
       "ID": "Hearty",
@@ -25923,7 +25928,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79917,
+      "Progressed": 79918,
       "Completed": 864
     }
   ],
@@ -25931,8 +25936,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:03:08.8733385+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:03:19.8340458+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:32.9169393+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:59:34.3268861+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:03:08.8734737+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:59:44.3155139+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:03:19.8341843+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -867,9 +867,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 4051,
+  "EOS_Progressed": 4052,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6627,6 +6627,11 @@
       "Time": "2023-12-06T06:04:57.2043489+00:00",
       "NumProgressed": 4051,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T08:05:02.5480662+00:00",
+      "NumProgressed": 4052,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6663,7 +6668,7 @@
       "Name": "Dealmaker",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "achievement_13",
@@ -6679,7 +6684,7 @@
       "Name": "ROTY",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "achievement_15",
@@ -6735,7 +6740,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     },
     {
       "ID": "achievement_21",
@@ -6775,7 +6780,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "achievement_7",
@@ -6791,7 +6796,7 @@
       "Name": "Bragging Rights",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "achievement_9",
@@ -6806,7 +6811,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4051,
+      "Progressed": 4052,
       "Completed": 0
     }
   ],
@@ -6814,8 +6819,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-06T02:23:51.7581986+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:04:51.7317115+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:05:02.5480659+00:00",
   "LastUpdate_AppInfo": "2023-11-30T06:57:22.8292477+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:59:20.7628915+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:04:51.7317435+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:59:30.8801215+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:05:02.5481048+00:00"
 }

@@ -7269,9 +7269,9 @@
       "Count": 514
     }
   ],
-  "EOS_Progressed": 730764,
+  "EOS_Progressed": 730767,
   "EOS_Completed": 2465,
-  "EOS_NewPlayers": 3265,
+  "EOS_NewPlayers": 3253,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33609,6 +33609,11 @@
       "Time": "2023-12-06T07:08:17.0991979+00:00",
       "NumProgressed": 730764,
       "NumCompleted": 2465
+    },
+    {
+      "Time": "2023-12-06T08:08:46.7386266+00:00",
+      "NumProgressed": 730767,
+      "NumCompleted": 2465
     }
   ],
   "TotalAchievements": 51,
@@ -33858,9 +33863,9 @@
       "ID": "ach_mind_over_monster",
       "SetID": "7km39fm",
       "Name": "Humanity Distilled",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6577
+      "UsersEstimate": 7308
     },
     {
       "ID": "ach_revival_tour",
@@ -34027,13 +34032,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 730764,
+      "Progressed": 730767,
       "Completed": 2465
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 56306,
+      "Progressed": 56309,
       "Completed": 36634
     }
   ],
@@ -34041,8 +34046,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-06T01:45:52.7308131+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:08:17.0991975+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:08:46.7386264+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:57:41.3489986+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:08:17.0993708+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:57:50.9487171+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:08:46.7387467+00:00"
 }

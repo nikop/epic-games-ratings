@@ -3361,9 +3361,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 42448,
+  "EOS_Progressed": 42449,
   "EOS_Completed": 344,
-  "EOS_NewPlayers": 896,
+  "EOS_NewPlayers": 895,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -28906,6 +28906,11 @@
       "Time": "2023-12-06T06:03:12.388771+00:00",
       "NumProgressed": 42448,
       "NumCompleted": 344
+    },
+    {
+      "Time": "2023-12-06T08:03:20.6103159+00:00",
+      "NumProgressed": 42449,
+      "NumCompleted": 344
     }
   ],
   "TotalAchievements": 60,
@@ -28917,7 +28922,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 25044
+      "UsersEstimate": 25045
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -29005,7 +29010,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14432
+      "UsersEstimate": 14433
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -29109,7 +29114,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 16130
+      "UsersEstimate": 16131
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -29125,7 +29130,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18677
+      "UsersEstimate": 18678
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -29141,7 +29146,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15281
+      "UsersEstimate": 15282
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -29197,7 +29202,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11036
+      "UsersEstimate": 11037
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -29301,7 +29306,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19526
+      "UsersEstimate": 19527
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -29309,7 +29314,7 @@
       "Name": "Shadow hunter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12734
+      "UsersEstimate": 12735
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -29365,7 +29370,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12734
+      "UsersEstimate": 12735
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -29389,22 +29394,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11036
+      "UsersEstimate": 11037
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 42448,
+      "Progressed": 42449,
       "Completed": 344
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-12-06T01:47:31.6534933+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:03:09.5640577+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:03:20.6103156+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:06.4559533+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:58:50.1334707+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:03:09.5641879+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:59:00.6077796+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:03:20.6104491+00:00"
 }

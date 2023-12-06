@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26965,
+  "EOS_Progressed": 26968,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2263,
+  "EOS_NewPlayers": 2259,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9154,6 +9154,11 @@
       "Time": "2023-12-06T07:09:12.6335012+00:00",
       "NumProgressed": 26965,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-06T08:09:41.9880657+00:00",
+      "NumProgressed": 26968,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -9214,7 +9219,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 5393
+      "UsersEstimate": 5394
     },
     {
       "ID": "achievement_16",
@@ -9374,7 +9379,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5123
+      "UsersEstimate": 5124
     },
     {
       "ID": "achievement_34",
@@ -9390,7 +9395,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 25617
+      "UsersEstimate": 25620
     },
     {
       "ID": "achievement_36",
@@ -9406,7 +9411,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3505
+      "UsersEstimate": 3506
     },
     {
       "ID": "achievement_38",
@@ -9510,7 +9515,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3505
+      "UsersEstimate": 3506
     },
     {
       "ID": "achievement_7",
@@ -9541,7 +9546,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 26965,
+      "Progressed": 26968,
       "Completed": 2
     }
   ],
@@ -9549,8 +9554,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:09:12.633501+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:09:41.988065+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:20.4359375+00:00",
-  "LastUpdate_Ratings": "2023-12-06T07:02:54.3006765+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:09:12.6335757+00:00"
+  "LastUpdate_Ratings": "2023-12-06T08:03:03.4600964+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:09:41.9881464+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 76053,
+  "EOS_Progressed": 76054,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -25618,6 +25618,11 @@
       "Time": "2023-12-06T07:08:41.3219891+00:00",
       "NumProgressed": 76053,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-12-06T08:09:10.5765888+00:00",
+      "NumProgressed": 76054,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 24,
@@ -25685,7 +25690,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 22055
+      "UsersEstimate": 22056
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -25709,7 +25714,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 40308
+      "UsersEstimate": 40309
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -25797,7 +25802,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12168
+      "UsersEstimate": 12169
     },
     {
       "ID": "WEIGHTLESS",
@@ -25813,14 +25818,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 12168
+      "UsersEstimate": 12169
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 76053,
+      "Progressed": 76054,
       "Completed": 408
     }
   ],
@@ -25828,8 +25833,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:08:41.3219887+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:09:10.5765885+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:18.159527+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:57:34.5005392+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:08:41.3221412+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:57:43.8289486+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:09:10.5767214+00:00"
 }

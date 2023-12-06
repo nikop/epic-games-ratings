@@ -30,7 +30,7 @@
 | Squeaky Clean | 15.00% | ~83 |
 | Kind Adventurer | 14.00% | ~78 |
 | Mermaid Killer | 13.00% | ~72 |
-| Cave Master | 12.00% | ~67 |
+| Cave Master | 13.00% | ~72 |
 | Face Slapper | 12.00% | ~67 |
 | Boss challenge | 8.00% | ~44 |
 | Berserker Slayer | 8.00% | ~44 |

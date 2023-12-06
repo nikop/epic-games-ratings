@@ -39,7 +39,7 @@
 | Now you are worthy | 49.00% | ~176 |
 | Fight is life | 47.00% | ~169 |
 | Mysterious voice | 47.00% | ~169 |
-| Guiding on the right path | 46.00% | ~166 |
+| Guiding on the right path | 47.00% | ~169 |
 | No blades in the gym | 44.00% | ~158 |
 | Champion – no way back | 43.00% | ~155 |
 | Underground dwellers | 42.00% | ~151 |

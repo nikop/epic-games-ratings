@@ -5205,9 +5205,9 @@
       "ID": "achEmissionLevel",
       "SetID": "dgl390n",
       "Name": "Not in my backyard",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 575
     },
     {
       "ID": "achEpec",
@@ -5517,8 +5517,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-11-30T19:57:29.6372575+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:04:25.1622153+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:04:36.0760046+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:42.1017313+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:59:51.3646086+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:04:25.1622658+00:00"
+  "LastUpdate_Ratings": "2023-12-06T08:00:01.8330076+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:04:36.0761054+00:00"
 }

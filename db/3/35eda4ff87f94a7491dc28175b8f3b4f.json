@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12435,
+  "EOS_Progressed": 12442,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 2188,
+  "EOS_NewPlayers": 2186,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -3323,6 +3323,11 @@
       "Time": "2023-12-06T07:04:07.978188+00:00",
       "NumProgressed": 12435,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-06T08:04:18.9460274+00:00",
+      "NumProgressed": 12442,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -3343,7 +3348,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -3383,7 +3388,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -3391,7 +3396,7 @@
       "Name": "Secrets Out",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -3414,7 +3419,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 12435,
+      "Progressed": 12442,
       "Completed": 43
     }
   ],
@@ -3422,8 +3427,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-04T13:58:48.5940056+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:04:07.9781878+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:04:18.9460271+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:25.9154897+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:58:44.8813294+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:04:07.9782085+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:58:55.1378747+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:04:18.9460497+00:00"
 }

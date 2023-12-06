@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 757315,
+  "EOS_Progressed": 757317,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1737,
+  "EOS_NewPlayers": 1733,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26676,6 +26676,11 @@
       "Time": "2023-12-06T07:04:11.5633766+00:00",
       "NumProgressed": 757315,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-06T08:04:22.5149312+00:00",
+      "NumProgressed": 757317,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -26815,7 +26820,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 363511
+      "UsersEstimate": 363512
     },
     {
       "ID": "ach_produced",
@@ -26831,7 +26836,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 121170
+      "UsersEstimate": 121171
     },
     {
       "ID": "ach_raise_money",
@@ -26847,7 +26852,7 @@
       "Name": "Salesman",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 22719
+      "UsersEstimate": 22720
     },
     {
       "ID": "ach_sell_to_state",
@@ -26902,7 +26907,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 757315,
+      "Progressed": 757317,
       "Completed": 4
     }
   ],
@@ -26910,8 +26915,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-12-01T16:00:20.573033+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:04:11.5633764+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:04:22.5149308+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:48.2793567+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:58:12.0366501+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:04:11.5634786+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:58:22.6841755+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:04:22.5151129+00:00"
 }

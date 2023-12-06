@@ -33,7 +33,7 @@ Number of Ratings: 180  (23.09.2022)
 | Aircraft entrepreneur | 33.00% | ~633 |
 | Crowd in a train | 31.00% | ~594 |
 | The future is now, old man | 31.00% | ~594 |
-| Not in my backyard | 29.00% | ~556 |
+| Not in my backyard | 30.00% | ~575 |
 | City | 28.00% | ~537 |
 | The king of the sea | 28.00% | ~537 |
 | Transport tycoon | 23.00% | ~441 |

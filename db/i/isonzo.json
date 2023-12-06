@@ -967,9 +967,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9245,
+  "EOS_Progressed": 9246,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8847,6 +8847,11 @@
       "Time": "2023-12-06T06:05:21.1240229+00:00",
       "NumProgressed": 9245,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-06T08:05:26.3028147+00:00",
+      "NumProgressed": 9246,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8866,7 +8871,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -8906,7 +8911,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2958
+      "UsersEstimate": 2959
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -8938,7 +8943,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -8970,7 +8975,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2958
+      "UsersEstimate": 2959
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -9098,7 +9103,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -9130,7 +9135,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -9217,7 +9222,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9245,
+      "Progressed": 9246,
       "Completed": 10
     }
   ],
@@ -9225,8 +9230,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-03T20:00:14.2357613+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:05:15.3178918+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:05:26.3028144+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:20.0438707+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:57:00.8098157+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:05:15.3179564+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:57:09.8876683+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:05:26.3028665+00:00"
 }

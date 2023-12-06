@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14470,
+  "EOS_Progressed": 14471,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 875,
+  "EOS_NewPlayers": 874,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2663,6 +2663,11 @@
       "Time": "2023-12-06T07:08:24.7126018+00:00",
       "NumProgressed": 14470,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-06T08:08:54.0458242+00:00",
+      "NumProgressed": 14471,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -2707,7 +2712,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 10852
+      "UsersEstimate": 10853
     },
     {
       "ID": "ACH_AE_14",
@@ -2723,7 +2728,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3183
+      "UsersEstimate": 3184
     },
     {
       "ID": "ACH_AE_16",
@@ -2819,7 +2824,7 @@
       "Name": "Live With It",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "ACH_AE_27",
@@ -2915,7 +2920,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "ACH_AE_6",
@@ -2954,7 +2959,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 14470,
+      "Progressed": 14471,
       "Completed": 14
     }
   ],
@@ -2962,8 +2967,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-06T04:58:43.6261983+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:08:24.7126016+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:08:54.0458238+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.7146917+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:58:33.4155915+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:08:24.7126268+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:58:43.6762499+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:08:54.0458632+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 3667,
+  "Ranking_EOS_NewCompleters": 3668,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3359,9 +3359,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17625,
+  "EOS_Progressed": 17626,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -14814,6 +14814,11 @@
       "Time": "2023-12-06T06:03:11.0282724+00:00",
       "NumProgressed": 17625,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-06T08:03:19.3200443+00:00",
+      "NumProgressed": 17626,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15016,9 +15021,9 @@
       "ID": "WinNearLevitating",
       "SetID": "cfbk359",
       "Name": "Levitating Monument",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearMines",
@@ -15160,9 +15165,9 @@
       "ID": "WinWithEvents",
       "SetID": "cfbk359",
       "Name": "Taking Action",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     },
     {
       "ID": "WinWithResolve",
@@ -15202,7 +15207,7 @@
       "Name": "No Deaths",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "WinWithoutOrders",
@@ -15226,7 +15231,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "WinNearFrosts",
@@ -15234,7 +15239,7 @@
       "Name": "Frosts",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "WinNearGreed",
@@ -15242,7 +15247,7 @@
       "Name": "Land of Greed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "WinNearLibrary",
@@ -15258,7 +15263,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "WinNearPresence",
@@ -15266,7 +15271,7 @@
       "Name": "Ominous Presence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "WinNearStorms",
@@ -15274,7 +15279,7 @@
       "Name": "Gathering Storm",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -15297,15 +15302,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17625,
+      "Progressed": 17626,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-04T17:58:07.9409357+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:03:08.3377143+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:03:19.3200438+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:58:35.3712364+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:03:08.3377903+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:58:45.6594983+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:03:19.3201512+00:00"
 }

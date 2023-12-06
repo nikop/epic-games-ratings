@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2729,
+  "EOS_Progressed": 2730,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 8.98,
+  "EOS_Completed_Percentage": 8.97,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -7611,6 +7611,11 @@
       "Time": "2023-12-06T06:08:28.0811182+00:00",
       "NumProgressed": 2729,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-12-06T08:08:39.3125165+00:00",
+      "NumProgressed": 2730,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 12,
@@ -7622,7 +7627,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "Bernard",
@@ -7638,7 +7643,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "Green Ticket Roundup",
@@ -7710,14 +7715,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2729,
+      "Progressed": 2730,
       "Completed": 245
     }
   ],
@@ -7725,8 +7730,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:06:38.9089133+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:08:39.312516+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.0653044+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:58:51.9471944+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:06:38.9089548+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:59:02.1797326+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:08:39.3125644+00:00"
 }

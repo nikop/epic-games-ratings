@@ -60,6 +60,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 0.30% | ~722 |
 | Spreading Plague | 0.30% | ~722 |
 | Acid Bath | 0.30% | ~722 |
+| Antivenom | 0.30% | ~722 |
 | New Perspectives | 0.30% | ~722 |
 | Who Needs Luck? | 0.30% | ~6 |
 | Achievement Hunter | 0.20% | ~481 |
@@ -71,7 +72,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Juggernaut | 0.20% | ~481 |
 | Clearing The Room | 0.20% | ~481 |
 | Chain Reaction | 0.20% | ~481 |
-| Antivenom | 0.20% | ~481 |
 | Decisions, Decisions | 0.20% | ~481 |
 | Fragile Mortality | 0.20% | ~481 |
 | Snake Sneak | 0.20% | ~481 |

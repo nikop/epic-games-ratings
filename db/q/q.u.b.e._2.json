@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 694,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 119,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.43,
   "NumberOfRatings": 94,
   "RatingHistory": [
     {
@@ -557,6 +557,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-06T07:59:48.2810461+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -565,7 +571,7 @@
   "Tags": [],
   "EOS_Progressed": 42564,
   "EOS_Completed": 193,
-  "EOS_NewPlayers": 925,
+  "EOS_NewPlayers": 919,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -9832,9 +9838,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
-  "LastChanged": "2023-12-05T07:59:15.0508774+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:08:22.8577758+00:00",
+  "LastChanged": "2023-12-06T07:59:48.2810457+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:08:52.209042+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:17.490773+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:59:38.3106894+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:08:22.8578337+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:59:48.2810464+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:08:52.2091082+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11497,10 +11497,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 50017,
       "NumberOfAwardsMax": 24977
+    },
+    {
+      "Time": "2023-12-06T08:00:00.6379473+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50039,
+      "NumberOfAwardsMax": 24977
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50017,
+  "NumberOfAwards": 50039,
   "NumberOfAwardsMax": 24977,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11514,7 +11520,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12771
+      "Count": 12793
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -11579,7 +11585,7 @@
   ],
   "EOS_Progressed": 303990,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36664,9 +36670,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-06T02:24:36.7132039+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:09:11.0555378+00:00",
+  "LastChanged": "2023-12-06T08:00:00.6379472+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:09:40.3840789+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:59:49.9130163+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:09:11.05568+00:00"
+  "LastUpdate_Ratings": "2023-12-06T08:00:00.6379476+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:09:40.3841915+00:00"
 }

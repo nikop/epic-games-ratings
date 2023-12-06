@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -725,7 +725,7 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 2145,
+  "EOS_Progressed": 2146,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -6660,6 +6660,11 @@
       "Time": "2023-12-06T07:08:24.880376+00:00",
       "NumProgressed": 2145,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-06T08:08:54.2685764+00:00",
+      "NumProgressed": 2146,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -6672,7 +6677,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "achievement_10",
@@ -6744,7 +6749,7 @@
       "Name": "Full Arsenal",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "achievement_19",
@@ -6792,7 +6797,7 @@
       "Name": "Pusher",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "achievement_24",
@@ -6848,7 +6853,7 @@
       "Name": "All Systems Go",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "achievement_30",
@@ -6864,7 +6869,7 @@
       "Name": "Marksman",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "achievement_32",
@@ -6872,7 +6877,7 @@
       "Name": "Surgeon",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "achievement_33",
@@ -6888,7 +6893,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "achievement_35",
@@ -6920,7 +6925,7 @@
       "Name": "Front Toward Enemy",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "achievement_39",
@@ -6928,7 +6933,7 @@
       "Name": "Z-Baller",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "achievement_4",
@@ -6936,7 +6941,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "achievement_40",
@@ -6960,7 +6965,7 @@
       "Name": "Brute Force",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "achievement_43",
@@ -6974,9 +6979,9 @@
       "ID": "achievement_44",
       "SetID": "222fo9l",
       "Name": "Get Off My Ship!",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 966
     },
     {
       "ID": "achievement_45",
@@ -7008,7 +7013,7 @@
       "Name": "True Believer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "achievement_6",
@@ -7032,7 +7037,7 @@
       "Name": "Strange Transmissions",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "achievement_9",
@@ -7047,7 +7052,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 2145,
+      "Progressed": 2146,
       "Completed": 13
     }
   ],
@@ -7055,8 +7060,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-26T22:02:06.8733907+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:08:24.8803758+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:08:54.2685761+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.9880376+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:57:38.538584+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:08:24.8804207+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:57:48.089448+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:08:54.2686356+00:00"
 }

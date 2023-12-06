@@ -4,7 +4,7 @@
   "ProductSlug": "paladin-dream-5d04e2",
   "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewPlayers": 465,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-09T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:08.4231567+00:00",
   "LastChanged": "2023-03-31T05:57:08.4231568+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:04.5888151+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:58:04.6799062+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:06:33.0913857+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:58:15.0712849+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:08:33.5690847+00:00"
 }

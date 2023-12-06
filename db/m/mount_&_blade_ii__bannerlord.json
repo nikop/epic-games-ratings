@@ -9480,9 +9480,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67190,
+  "EOS_Progressed": 67192,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33750,6 +33750,11 @@
       "Time": "2023-12-06T07:09:11.9654415+00:00",
       "NumProgressed": 67190,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T08:09:41.3045674+00:00",
+      "NumProgressed": 67192,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -33769,7 +33774,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10750
+      "UsersEstimate": 10751
     },
     {
       "ID": "Bannerlord",
@@ -33929,7 +33934,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10750
+      "UsersEstimate": 10751
     },
     {
       "ID": "I spit on your grave",
@@ -33953,7 +33958,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12094
+      "UsersEstimate": 12095
     },
     {
       "ID": "Kingslayer",
@@ -33993,7 +33998,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26876
+      "UsersEstimate": 26877
     },
     {
       "ID": "Lawmaker",
@@ -34168,15 +34173,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67190,
+      "Progressed": 67192,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-06T01:48:37.1658582+00:00",
-  "LastChanged_Achievements": "2023-12-06T07:09:11.9654412+00:00",
+  "LastChanged_Achievements": "2023-12-06T08:09:41.3045671+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:59:35.6907791+00:00",
-  "LastUpdate_Achievements": "2023-12-06T07:09:11.9655838+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:59:45.635372+00:00",
+  "LastUpdate_Achievements": "2023-12-06T08:09:41.3047043+00:00"
 }
