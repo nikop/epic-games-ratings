@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58116,
+  "EOS_Progressed": 58117,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13641,6 +13641,11 @@
       "Time": "2023-12-06T02:28:47.554666+00:00",
       "NumProgressed": 58116,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-06T05:04:33.5181186+00:00",
+      "NumProgressed": 58117,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -13740,7 +13745,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     },
     {
       "ID": "FoolMeTwice",
@@ -13812,7 +13817,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "IsThisPossible",
@@ -13996,7 +14001,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "TotalBummer",
@@ -14043,7 +14048,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58116,
+      "Progressed": 58117,
       "Completed": 6
     }
   ],
@@ -14051,8 +14056,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-06T04:05:08.5547419+00:00",
+  "LastChanged_Achievements": "2023-12-06T05:04:33.5181182+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:50.6046974+00:00",
-  "LastUpdate_Ratings": "2023-12-06T04:01:18.0126375+00:00",
-  "LastUpdate_Achievements": "2023-12-06T04:05:08.5548164+00:00"
+  "LastUpdate_Ratings": "2023-12-06T05:00:14.220167+00:00",
+  "LastUpdate_Achievements": "2023-12-06T05:04:33.5182268+00:00"
 }

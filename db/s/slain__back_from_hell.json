@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -244,7 +244,7 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 41550,
+  "EOS_Progressed": 41551,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 2,
@@ -25204,6 +25204,11 @@
       "Time": "2023-12-06T03:04:51.2296803+00:00",
       "NumProgressed": 41550,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-06T05:04:27.8445738+00:00",
+      "NumProgressed": 41551,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 29,
@@ -25215,7 +25220,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6232
+      "UsersEstimate": 6233
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -25446,7 +25451,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41550,
+      "Progressed": 41551,
       "Completed": 28
     }
   ],
@@ -25454,8 +25459,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-06T04:05:00.7972344+00:00",
+  "LastChanged_Achievements": "2023-12-06T05:04:27.8445735+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:11.7949704+00:00",
-  "LastUpdate_Ratings": "2023-12-06T03:59:46.9565686+00:00",
-  "LastUpdate_Achievements": "2023-12-06T04:05:00.7973689+00:00"
+  "LastUpdate_Ratings": "2023-12-06T04:59:12.87212+00:00",
+  "LastUpdate_Achievements": "2023-12-06T05:04:27.8447155+00:00"
 }

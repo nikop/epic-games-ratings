@@ -6,32 +6,32 @@ Rating: 4.76 (Ranked 130)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Motivational Speaker | 68.00% | ~246,875 |
-| The Player Whisperer | 67.00% | ~243,244 |
+| The Player Whisperer | 67.00% | ~243,245 |
 | One of Us, One of Us! | 62.00% | ~225,092 |
-| First Victory | 55.00% | ~199,678 |
+| First Victory | 55.00% | ~199,679 |
 | Clean Sheet | 54.00% | ~196,048 |
 | #DoneDeal | 54.00% | ~196,048 |
-| Off the Books | 51.00% | ~185,156 |
-| Super-Sub | 51.00% | ~185,156 |
-| Hat-trick | 46.00% | ~167,003 |
+| Off the Books | 51.00% | ~185,157 |
+| Super-Sub | 51.00% | ~185,157 |
+| Hat-trick | 46.00% | ~167,004 |
 | Planned Signing | 43.00% | ~156,112 |
-| "I Would Love It If We Beat Them" | 42.00% | ~152,481 |
-| Scoring Streak | 40.00% | ~145,220 |
+| "I Would Love It If We Beat Them" | 42.00% | ~152,482 |
+| Scoring Streak | 40.00% | ~145,221 |
 | Thumping | 39.00% | ~141,590 |
 | Wheeler Dealer | 39.00% | ~141,590 |
-| People Pleaser | 38.00% | ~137,959 |
+| People Pleaser | 38.00% | ~137,960 |
 | Unbeatable! | 37.00% | ~134,329 |
-| One Of Our Own | 36.00% | ~130,698 |
+| One Of Our Own | 36.00% | ~130,699 |
 | They're a Natural | 31.00% | ~112,546 |
 | Record Signing | 31.00% | ~112,546 |
-| Team Performance | 30.00% | ~108,915 |
+| Team Performance | 30.00% | ~108,916 |
 | The Only Stat That Matters | 29.00% | ~105,285 |
-| Star Player | 28.00% | ~101,654 |
+| Star Player | 28.00% | ~101,655 |
 | Parked The Bus | 27.00% | ~98,024 |
 | Full Faith | 27.00% | ~98,024 |
 | Goal Rush | 27.00% | ~98,024 |
 | The People's Champion | 27.00% | ~98,024 |
-| Squad Goals | 26.00% | ~94,393 |
+| Squad Goals | 26.00% | ~94,394 |
 | Beating Expectations | 25.00% | ~90,763 |
 | Unstoppable Force | 25.00% | ~90,763 |
 | You're on Fire | 24.00% | ~87,132 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 130)
 | 200 Club | 0.10% | ~363 |
 | Draft Value | 0.10% | ~363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,051 (Ranked 48)  
+Progressed: 363,052 (Ranked 48)  
 Completed: 27 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 27 (0.01%) (Ranked 347)
 | 2023-12-03 | 362,601 | 27 |
 | 2023-12-04 | 362,819 | 27 |
 | 2023-12-05 | 363,025 | 27 |
-| 2023-12-06 | 363,051 | 27 |
+| 2023-12-06 | 363,052 | 27 |
 ## Awards
 Max (Diverse Characters): 1,241  (Ranked 140)  
 Sum: 8,602 (Ranked 99)  

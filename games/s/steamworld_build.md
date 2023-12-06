@@ -9,9 +9,9 @@
 | It's Yours, My Friend | 50.00% | ~14 |
 | Digging a Hole | 46.00% | ~13 |
 | Going Places | 36.00% | ~10 |
-| Aristocratic | 29.00% | ~8 |
+| Aristocratic | 32.00% | ~9 |
+| Gotta Go Fast | 29.00% | ~8 |
 | Tutti Frutti | 29.00% | ~8 |
-| Gotta Go Fast | 25.00% | ~7 |
 | Slotting Machine | 18.00% | ~5 |
 | Mine Sweeper | 11.00% | ~3 |
 | Botropolis | 7.00% | ~2 |

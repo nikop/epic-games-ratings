@@ -6,7 +6,7 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ducks in a Row, Fish in a Barrel | 6.00% | ~1 |
+| Ducks in a Row, Fish in a Barrel | 12.00% | ~2 |
 | Rock of the Bay | 6.00% | ~1 |
 | I Look Up As I Walk to Takoshima | 6.00% | ~1 |
 | Mash Machine | 0.00% | ~0 |

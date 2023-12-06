@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 253942,
+  "EOS_Progressed": 253944,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 613,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26175,6 +26175,11 @@
       "Time": "2023-12-06T04:05:21.301825+00:00",
       "NumProgressed": 253942,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-06T05:04:42.758171+00:00",
+      "NumProgressed": 253944,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -26186,7 +26191,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68564
+      "UsersEstimate": 68565
     },
     {
       "ID": "ACH_AON",
@@ -26250,7 +26255,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33012
+      "UsersEstimate": 33013
     },
     {
       "ID": "ACH_HATTRICK",
@@ -26330,7 +26335,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73643
+      "UsersEstimate": 73644
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -26490,7 +26495,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20315
+      "UsersEstimate": 20316
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -26498,7 +26503,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20315
+      "UsersEstimate": 20316
     },
     {
       "ID": "ACH_SCRATCH",
@@ -26578,7 +26583,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20315
+      "UsersEstimate": 20316
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -26601,7 +26606,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 253942,
+      "Progressed": 253944,
       "Completed": 7
     }
   ],
@@ -26609,8 +26614,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-06T04:05:21.3018246+00:00",
+  "LastChanged_Achievements": "2023-12-06T05:04:42.7581707+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.506273+00:00",
-  "LastUpdate_Ratings": "2023-12-06T03:58:08.2868273+00:00",
-  "LastUpdate_Achievements": "2023-12-06T04:05:21.3019819+00:00"
+  "LastUpdate_Ratings": "2023-12-06T04:58:05.5737982+00:00",
+  "LastUpdate_Achievements": "2023-12-06T05:04:42.7583036+00:00"
 }

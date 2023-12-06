@@ -76,6 +76,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Fragile Mortality | 0.20% | ~481 |
 | Snake Sneak | 0.20% | ~481 |
 | Fire Away! | 0.20% | ~481 |
+| Defuser | 0.20% | ~481 |
 | The Long Run | 0.20% | ~481 |
 | Obsessed | 0.20% | ~481 |
 | Sentimental Value | 0.20% | ~481 |
@@ -119,7 +120,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Looking Around | 0.10% | ~241 |
 | Need An Antidote? | 0.10% | ~241 |
 | Sprinter | 0.10% | ~241 |
-| Defuser | 0.10% | ~241 |
 | The Tickler | 0.10% | ~241 |
 | Masochist | 0.10% | ~241 |
 | Minimalist | 0.10% | ~241 |

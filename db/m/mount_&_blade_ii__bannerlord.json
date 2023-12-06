@@ -9480,9 +9480,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67183,
+  "EOS_Progressed": 67185,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 626,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33735,6 +33735,11 @@
       "Time": "2023-12-06T04:10:16.0607643+00:00",
       "NumProgressed": 67183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T05:09:43.740394+00:00",
+      "NumProgressed": 67185,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -33754,7 +33759,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10749
+      "UsersEstimate": 10750
     },
     {
       "ID": "Bannerlord",
@@ -33786,7 +33791,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 6046
+      "UsersEstimate": 6047
     },
     {
       "ID": "Catch",
@@ -33866,7 +33871,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "God of the Arena",
@@ -33914,7 +33919,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10749
+      "UsersEstimate": 10750
     },
     {
       "ID": "I spit on your grave",
@@ -33970,7 +33975,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22170
+      "UsersEstimate": 22171
     },
     {
       "ID": "Lawbringer",
@@ -33978,7 +33983,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26873
+      "UsersEstimate": 26874
     },
     {
       "ID": "Lawmaker",
@@ -33994,7 +33999,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "Mastery",
@@ -34034,7 +34039,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "Ride it like you stole it",
@@ -34153,15 +34158,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67183,
+      "Progressed": 67185,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-06T01:48:37.1658582+00:00",
-  "LastChanged_Achievements": "2023-12-06T04:10:16.060764+00:00",
+  "LastChanged_Achievements": "2023-12-06T05:09:43.7403936+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-06T04:00:34.9322887+00:00",
-  "LastUpdate_Achievements": "2023-12-06T04:10:16.0609157+00:00"
+  "LastUpdate_Ratings": "2023-12-06T04:59:44.905543+00:00",
+  "LastUpdate_Achievements": "2023-12-06T05:09:43.7405353+00:00"
 }

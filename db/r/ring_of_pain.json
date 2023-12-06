@@ -3558,7 +3558,7 @@
   ],
   "EOS_Progressed": 240683,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28073,9 +28073,9 @@
       "ID": "TRANSFORMFIREBEAD",
       "SetID": "5l8oe0h",
       "Name": "Defuser",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 481
     },
     {
       "ID": "USESHRINE",
@@ -28384,8 +28384,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-05T21:59:57.9209053+00:00",
-  "LastChanged_Achievements": "2023-12-06T04:10:20.9558676+00:00",
+  "LastChanged_Achievements": "2023-12-06T05:09:47.8677354+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-06T04:01:22.5834891+00:00",
-  "LastUpdate_Achievements": "2023-12-06T04:10:20.9560931+00:00"
+  "LastUpdate_Ratings": "2023-12-06T05:00:17.1622383+00:00",
+  "LastUpdate_Achievements": "2023-12-06T05:09:47.8679649+00:00"
 }

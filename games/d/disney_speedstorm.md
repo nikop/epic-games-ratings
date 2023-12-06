@@ -5,19 +5,19 @@ Rating: 4.39 (Ranked 752)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~39,414 |
-| IT MAKES BOOM! | 7.00% | ~22,991 |
-| EXTRA BOOST | 5.00% | ~16,422 |
-| PROTECTED | 4.00% | ~13,138 |
-| PRO | 4.00% | ~13,138 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,853 |
-| AGGRESSIVE RACER | 3.00% | ~9,853 |
+| ROOKIE | 12.00% | ~39,416 |
+| IT MAKES BOOM! | 7.00% | ~22,993 |
+| EXTRA BOOST | 5.00% | ~16,423 |
+| PROTECTED | 4.00% | ~13,139 |
+| PRO | 4.00% | ~13,139 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,854 |
+| AGGRESSIVE RACER | 3.00% | ~9,854 |
 | A TIGER'S FEAR | 2.00% | ~6,569 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,284 |
-| TRAINING HARD | 1.00% | ~3,284 |
-| BE OUR GUEST | 1.00% | ~3,284 |
-| ACE SPEEDSTER | 1.00% | ~3,284 |
-| MASTER | 1.00% | ~3,284 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,285 |
+| TRAINING HARD | 1.00% | ~3,285 |
+| BE OUR GUEST | 1.00% | ~3,285 |
+| ACE SPEEDSTER | 1.00% | ~3,285 |
+| MASTER | 1.00% | ~3,285 |
 | RELEASE THE KRAKEN | 0.90% | ~2,956 |
 | FRIENDLY | 0.90% | ~2,956 |
 | LEGENDARY HERO | 0.90% | ~2,956 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 752)
 | ACE TRICKSTER | 0.40% | ~1,314 |
 | PERFECTLY POISED | 0.30% | ~985 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 328,447 (Ranked 51)  
+Progressed: 328,468 (Ranked 51)  
 Completed: 484 (0.15%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,15 +256,15 @@ Completed: 484 (0.15%) (Ranked 273)
 | 2023-12-03 | 325,453 | 446 |
 | 2023-12-04 | 326,987 | 461 |
 | 2023-12-05 | 328,188 | 482 |
-| 2023-12-06 | 328,447 | 484 |
+| 2023-12-06 | 328,468 | 484 |
 ## Awards
 Max (Great for Beginners): 111  (Ranked 350)  
-Sum: 767 (Ranked 284)  
+Sum: 771 (Ranked 284)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 111 |
-| This game is Great for Quick Sessions | 93 |
+| This game is Great for Quick Sessions | 97 |
 | This game has Diverse Characters | 88 |
 | This game has Amazing Characters | 62 |
 | This game has a Competitive Community | 60 |
@@ -344,3 +344,4 @@ Diff (max vs sum): 66
 | 2023-12-03 | 4.40 | 101 | 735 |
 | 2023-12-04 | 4.39 | 109 | 754 |
 | 2023-12-05 | 4.39 | 111 | 767 |
+| 2023-12-06 | 4.39 | 111 | 771 |

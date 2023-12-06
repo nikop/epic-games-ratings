@@ -10,10 +10,10 @@ Rating: 4.76 (Ranked 130)
 | Troll with the Punches | 14.00% | ~42,558 |
 | A Keen Sense of Spell | 13.00% | ~39,518 |
 | That's a Keeper | 13.00% | ~39,518 |
-| The Hallowed Hero | 12.00% | ~36,478 |
-| The Defender of Dragons | 12.00% | ~36,478 |
-| Loom for Improvement | 12.00% | ~36,478 |
-| A Talent for Spending | 12.00% | ~36,478 |
+| The Hallowed Hero | 12.00% | ~36,479 |
+| The Defender of Dragons | 12.00% | ~36,479 |
+| Loom for Improvement | 12.00% | ~36,479 |
+| A Talent for Spending | 12.00% | ~36,479 |
 | Grappling with a Graphorn | 11.00% | ~33,439 |
 | The One Who Mastered Memories | 11.00% | ~33,439 |
 | The Hero of Hogwarts | 11.00% | ~33,439 |
@@ -33,10 +33,10 @@ Rating: 4.76 (Ranked 130)
 | The Toast of the Town | 5.00% | ~15,199 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,199 |
 | The Ends Petrify the Means | 5.00% | ~15,199 |
-| Going Through the Potions | 4.00% | ~12,159 |
-| Room with a View | 4.00% | ~12,159 |
-| The Intrepid Explorer | 4.00% | ~12,159 |
-| The Wise Owl | 4.00% | ~12,159 |
+| Going Through the Potions | 4.00% | ~12,160 |
+| Room with a View | 4.00% | ~12,160 |
+| The Intrepid Explorer | 4.00% | ~12,160 |
+| The Wise Owl | 4.00% | ~12,160 |
 | Put Down Roots | 3.00% | ~9,120 |
 | The Auror's Apprentice | 3.00% | ~9,120 |
 | Floo Around the World | 3.00% | ~9,120 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,128 |
 | Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,987 (Ranked 54)  
+Progressed: 303,988 (Ranked 54)  
 Completed: 523 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 523 (0.17%) (Ranked 269)
 | 2023-12-03 | 303,892 | 521 |
 | 2023-12-04 | 303,943 | 521 |
 | 2023-12-05 | 303,976 | 521 |
-| 2023-12-06 | 303,987 | 523 |
+| 2023-12-06 | 303,988 | 523 |
 ## Awards
 Max (Character Customization): 24,977  (Ranked 17)  
 Sum: 50,017 (Ranked 30)  

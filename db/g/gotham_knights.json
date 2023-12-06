@@ -4547,9 +4547,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77718,
+  "EOS_Progressed": 77719,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25127,6 +25127,11 @@
       "Time": "2023-12-06T04:04:14.9118941+00:00",
       "NumProgressed": 77718,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-06T05:03:54.3320818+00:00",
+      "NumProgressed": 77719,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25378,7 +25383,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14766
+      "UsersEstimate": 14767
     },
     {
       "ID": "FREEZE_3",
@@ -25482,7 +25487,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38859
+      "UsersEstimate": 38860
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25538,7 +25543,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18652
+      "UsersEstimate": 18653
     },
     {
       "ID": "MYSTERY_03",
@@ -25625,13 +25630,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77718,
+      "Progressed": 77719,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47998,
+      "Progressed": 47999,
       "Completed": 2675
     }
   ],
@@ -25639,8 +25644,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-05T18:58:53.8200652+00:00",
-  "LastChanged_Achievements": "2023-12-06T04:04:14.9118936+00:00",
+  "LastChanged_Achievements": "2023-12-06T05:03:54.3320814+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-06T03:58:54.315811+00:00",
-  "LastUpdate_Achievements": "2023-12-06T04:04:14.9120148+00:00"
+  "LastUpdate_Ratings": "2023-12-06T04:58:37.4835806+00:00",
+  "LastUpdate_Achievements": "2023-12-06T05:03:54.3322319+00:00"
 }

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2987,
+  "EOS_Progressed": 2988,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -7834,6 +7834,11 @@
       "Time": "2023-12-05T23:09:00.6096541+00:00",
       "NumProgressed": 2987,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T05:09:27.0106944+00:00",
+      "NumProgressed": 2988,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -7861,7 +7866,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "CLUMSY",
@@ -7877,7 +7882,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -7901,7 +7906,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -7949,7 +7954,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "GUARD_MAKER",
@@ -7973,7 +7978,7 @@
       "Name": "Clash of Kings",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -8020,14 +8025,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2987,
+      "Progressed": 2988,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-12-06T04:09:33.735158+00:00",
+  "LastChanged_Achievements": "2023-12-06T05:09:27.010694+00:00",
   "LastUpdate_AppInfo": "2023-11-29T07:56:58.0502278+00:00",
-  "LastUpdate_Ratings": "2023-12-06T03:58:44.6535774+00:00",
-  "LastUpdate_Achievements": "2023-12-06T04:09:33.7351963+00:00"
+  "LastUpdate_Ratings": "2023-12-06T04:58:31.053562+00:00",
+  "LastUpdate_Achievements": "2023-12-06T05:09:27.0107628+00:00"
 }

@@ -35,11 +35,11 @@
 | Unstoppable Horde | 32.00% | ~169 |
 | Master of the Undead | 31.00% | ~164 |
 | The Duel | 30.00% | ~159 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~143 |
 | If Looks Could Kill | 27.00% | ~143 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 26.00% | ~138 |
+| Hungry, Hungry Gorgu! | 26.00% | ~138 |
 | Forbidden Knowledge | 26.00% | ~138 |
 | Ghost Pirates? Ghost Heroes! | 26.00% | ~138 |
-| Hungry, Hungry Gorgu! | 25.00% | ~132 |
 | The Finitude Drill | 25.00% | ~132 |
 | Stop Tanos! | 22.00% | ~116 |
 | Doom Hill | 22.00% | ~116 |
