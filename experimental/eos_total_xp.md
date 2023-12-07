@@ -39,6 +39,7 @@
 | [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 35 | 1,200 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
 | [High On Life](../games/h/high_on_life.md) | 44 | 1,195 |
+| [Pinball FX](../games/p/pinball_fx.md) | 39 | 1,180 |
 | [Ring of Pain](../games/r/ring_of_pain.md) | 138 | 1,180 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 |
@@ -540,7 +541,6 @@
 | [Picklock](../games/0/0904b974619a436ebc70ec7a374572d8.md) | 24 | 1,000 |
 | [Pilgrims](../games/0/0693e8391e49492096424712a5595484.md) | 45 | 1,000 |
 | [Pillars of Eternity - Definitive Edition](../games/p/pillars_of_eternity_-_definitive_edition.md) | 48 | 1,000 |
-| [Pinball FX](../games/p/pinball_fx.md) | 30 | 1,000 |
 | [Pinball M](../games/d/d054771c2f3c4f4fb7d7028eca6ccca0.md) | 47 | 1,000 |
 | [Pirates Outlaws](../games/p/pirates_outlaws.md) | 124 | 1,000 |
 | [Pixel Art Coloring Book](../games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 16 | 1,000 |

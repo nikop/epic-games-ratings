@@ -300,6 +300,7 @@
 | [EA SPORTS™ FIFA 23 Standard Edition](../games/e/ea_sports™_fifa_23_standard_edition.md) | 39 | 1,000 |
 | [Goat Simulator 3](../games/g/goat_simulator_3.md) | 39 | 1,000 |
 | [Hush Hush](../games/5/56faf2396f304e6886e66c492ee22a0e.md) | 39 | 1,000 |
+| [Pinball FX](../games/p/pinball_fx.md) | 39 | 1,180 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](../games/s/star_wars_jedi__fallen_order_standard_edition.md) | 39 | 1,000 |
 | [Super Smash Asteroids](../games/s/super_smash_asteroids.md) | 39 | 1,000 |
@@ -426,7 +427,6 @@
 | [Naheulbeuk's Dungeon Master](../games/4/4885ae8497a54a0d95073db643c65ea0.md) | 30 | 1,000 |
 | [Partisans 1941](../games/p/partisans_1941.md) | 30 | 1,000 |
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |
-| [Pinball FX](../games/p/pinball_fx.md) | 30 | 1,000 |
 | [Samorost 3](../games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 30 | 1,000 |
 | [Scathe](../games/s/scathe.md) | 30 | 1,000 |
 | [SPACE ELITE FORCE](../games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 30 | 1,000 |
