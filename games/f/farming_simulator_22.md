@@ -8,17 +8,17 @@ Number of Ratings: 7,683  (23.09.2022)
 | ---- | ---------- | ----- |
 | Own use | 74.00% | ~40,687 |
 | I read Shakespeare and stuff | 62.00% | ~34,089 |
-| Just a sprinkle | 61.00% | ~33,539 |
-| I'm stumped | 59.00% | ~32,439 |
-| Plant get enough | 59.00% | ~32,439 |
+| Just a sprinkle | 61.00% | ~33,540 |
+| I'm stumped | 59.00% | ~32,440 |
+| Plant get enough | 59.00% | ~32,440 |
 | It's just the beginning | 57.00% | ~31,340 |
 | This is just my weekend vehicle | 56.00% | ~30,790 |
 | Hard work pays off | 51.00% | ~28,041 |
-| It's never too late to farm | 49.00% | ~26,941 |
-| All out of Land | 43.00% | ~23,642 |
-| Field Trip | 42.00% | ~23,092 |
+| It's never too late to farm | 49.00% | ~26,942 |
+| All out of Land | 43.00% | ~23,643 |
+| Field Trip | 42.00% | ~23,093 |
 | I like to switch it up | 39.00% | ~21,443 |
-| Help me to help you | 37.00% | ~20,343 |
+| Help me to help you | 37.00% | ~20,344 |
 | Ultimutt Pawesomeness | 27.00% | ~14,845 |
 | Van Gogh | 25.00% | ~13,746 |
 | Vehicle fleet | 22.00% | ~12,096 |
@@ -28,7 +28,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | The plot thickens | 15.00% | ~8,247 |
 | Large-scale supplier | 15.00% | ~8,247 |
 | Long haul | 15.00% | ~8,247 |
-| That's a wrap | 14.00% | ~7,697 |
+| That's a wrap | 14.00% | ~7,698 |
 | Fix me up | 12.00% | ~6,598 |
 | It's sow easy | 11.00% | ~6,048 |
 | Rock on | 11.00% | ~6,048 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~220 |
 | Raisin the stakes | 0.30% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,982 (Ranked 111)  
+Progressed: 54,983 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 6 (0.01%) (Ranked 348)
 | 2023-12-04 | 54,796 | 6 |
 | 2023-12-05 | 54,887 | 6 |
 | 2023-12-06 | 54,967 | 6 |
-| 2023-12-07 | 54,982 | 6 |
+| 2023-12-07 | 54,983 | 6 |
 ## Awards
 Max (Great for Beginners): 5,743  (Ranked 68)  
 Sum: 43,821 (Ranked 34)  

@@ -14,15 +14,15 @@
 | Refuse to look | 39.00% | ~41 |
 | Sign of weakness | 38.00% | ~40 |
 | Finished it | 33.00% | ~35 |
-| Face your fears | 27.00% | ~29 |
+| Face your fears | 28.00% | ~30 |
 | Whispers long forgotten | 17.00% | ~18 |
 | Playtime | 14.00% | ~15 |
 | Tough conversation | 14.00% | ~15 |
 | The tragedy unfolds | 13.00% | ~14 |
+| A Slice of Life | 12.00% | ~13 |
+| Debut | 12.00% | ~13 |
 | The art of movement | 12.00% | ~13 |
 | A new way | 11.00% | ~12 |
-| A Slice of Life | 11.00% | ~12 |
-| Debut | 11.00% | ~12 |
 | First steps | 11.00% | ~12 |
 | Breaking free | 10.00% | ~11 |
 | Lights! Camera! Action! | 10.00% | ~11 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58124,
+  "EOS_Progressed": 58125,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13681,6 +13681,11 @@
       "Time": "2023-12-07T01:52:48.3309486+00:00",
       "NumProgressed": 58124,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-07T06:04:46.9838994+00:00",
+      "NumProgressed": 58125,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -13836,7 +13841,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "HarshLove",
@@ -14083,7 +14088,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58124,
+      "Progressed": 58125,
       "Completed": 6
     }
   ],
@@ -14091,8 +14096,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-07T05:05:43.6527044+00:00",
+  "LastChanged_Achievements": "2023-12-07T06:04:46.9838989+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:50.6046974+00:00",
-  "LastUpdate_Ratings": "2023-12-07T04:57:12.3713336+00:00",
-  "LastUpdate_Achievements": "2023-12-07T05:05:43.6528356+00:00"
+  "LastUpdate_Ratings": "2023-12-07T05:57:26.6669282+00:00",
+  "LastUpdate_Achievements": "2023-12-07T06:04:46.9839912+00:00"
 }

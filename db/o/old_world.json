@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2112,9 +2112,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15664,
+  "EOS_Progressed": 15665,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17272,6 +17272,11 @@
       "Time": "2023-12-07T03:05:29.7849473+00:00",
       "NumProgressed": 15664,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-07T06:05:41.175018+00:00",
+      "NumProgressed": 15665,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17713,9 +17718,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
       "SetID": "9201eeb",
       "Name": "Explorer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 940
+      "UsersEstimate": 1097
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -17907,7 +17912,7 @@
       "Name": "Settler",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -19035,7 +19040,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -20018,21 +20023,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15664,
+      "Progressed": 15665,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15664,
+      "Progressed": 15665,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-07T01:45:57.4329211+00:00",
-  "LastChanged_Achievements": "2023-12-07T05:06:58.1043848+00:00",
+  "LastChanged_Achievements": "2023-12-07T06:05:41.1750176+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:20.3030051+00:00",
-  "LastUpdate_Ratings": "2023-12-07T04:58:37.611325+00:00",
-  "LastUpdate_Achievements": "2023-12-07T05:06:58.1054536+00:00"
+  "LastUpdate_Ratings": "2023-12-07T05:58:24.5739283+00:00",
+  "LastUpdate_Achievements": "2023-12-07T06:05:41.1758798+00:00"
 }

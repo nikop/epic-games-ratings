@@ -15,13 +15,13 @@
 | The Collector | 23.00% | ~95 |
 | Insurance fraud | 23.00% | ~95 |
 | Snow Fun! | 23.00% | ~95 |
+| To and Fro | 22.00% | ~91 |
 | The Wild West | 22.00% | ~91 |
 | Bag of Tricks | 22.00% | ~91 |
 | I see the light! | 22.00% | ~91 |
 | In the Bag! | 22.00% | ~91 |
 | You're it | 22.00% | ~91 |
 | First Come, First Serve | 21.00% | ~87 |
-| To and Fro | 21.00% | ~87 |
 | Goodbye cruel world | 21.00% | ~87 |
 | Car-Tapult | 20.00% | ~82 |
 | Disoriented | 20.00% | ~82 |

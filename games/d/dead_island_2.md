@@ -5,21 +5,21 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,701 |
-| Pork Chopped | 3.00% | ~1,701 |
-| Dr. Reed, I Presume? | 2.00% | ~14,623 |
-| Git Gutte! | 2.00% | ~14,623 |
-| Bookworm | 2.00% | ~14,623 |
-| Break A Leg | 2.00% | ~14,623 |
-| Coup de Grâce | 2.00% | ~14,623 |
-| Hazardous Materials | 2.00% | ~14,623 |
-| Friends Like These | 2.00% | ~14,623 |
-| Hotel California | 2.00% | ~14,623 |
-| Apex Predator | 2.00% | ~14,623 |
-| Stacking the Deck | 2.00% | ~14,623 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,623 |
-| This is My Weapon | 2.00% | ~14,623 |
-| Welcome To Hell-A | 2.00% | ~14,623 |
+| Whatever It Takes | 3.00% | ~1,702 |
+| Pork Chopped | 3.00% | ~1,702 |
+| Dr. Reed, I Presume? | 2.00% | ~14,624 |
+| Git Gutte! | 2.00% | ~14,624 |
+| Bookworm | 2.00% | ~14,624 |
+| Break A Leg | 2.00% | ~14,624 |
+| Coup de Grâce | 2.00% | ~14,624 |
+| Hazardous Materials | 2.00% | ~14,624 |
+| Friends Like These | 2.00% | ~14,624 |
+| Hotel California | 2.00% | ~14,624 |
+| Apex Predator | 2.00% | ~14,624 |
+| Stacking the Deck | 2.00% | ~14,624 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,624 |
+| This is My Weapon | 2.00% | ~14,624 |
+| Welcome To Hell-A | 2.00% | ~14,624 |
 | One of Us | 2.00% | ~1,134 |
 | Making Your Mark | 1.00% | ~7,312 |
 | Anger Management | 1.00% | ~7,312 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,171 (Ranked 21)  
+Progressed: 731,179 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
-| 2023-12-07 | 731,171 | 2,465 |
+| 2023-12-07 | 731,179 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,968  (Ranked 49)  
 Sum: 12,244 (Ranked 82)  

@@ -4,8 +4,8 @@
   "ProductSlug": "descent-62cef4",
   "Ranking_EOS_Progress": 786,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 468,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-09-09T16:00:00+00:00",
     "PcReleaseDate": "2022-09-09T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:56.5423983+00:00",
   "LastChanged": "2023-03-31T05:57:56.5423984+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.1818963+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:00:43.2181279+00:00",
-  "LastUpdate_Achievements": "2023-12-07T05:05:08.4234305+00:00"
+  "LastUpdate_Ratings": "2023-12-07T05:59:49.6077924+00:00",
+  "LastUpdate_Achievements": "2023-12-07T06:04:21.5414115+00:00"
 }

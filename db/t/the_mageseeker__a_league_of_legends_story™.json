@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -4460,9 +4460,9 @@
       "ID": "STB_MISSION8_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "The Great City of Demacia",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 375
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -4605,8 +4605,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-12-07T05:05:29.4408448+00:00",
+  "LastChanged_Achievements": "2023-12-07T06:04:36.7647249+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:25.9758036+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:02:48.7306178+00:00",
-  "LastUpdate_Achievements": "2023-12-07T05:05:29.4409353+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:02:42.5573642+00:00",
+  "LastUpdate_Achievements": "2023-12-07T06:04:36.7647787+00:00"
 }

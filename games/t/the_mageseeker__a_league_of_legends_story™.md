@@ -46,8 +46,8 @@ Rating: 4.82 (Ranked 68)
 | Embrace the darkness | 14.00% | ~375 |
 | Whispers in the Woods IV | 14.00% | ~375 |
 | I smell fear | 14.00% | ~375 |
+| The Great City of Demacia | 14.00% | ~375 |
 | The end of the experiments | 13.00% | ~348 |
-| The Great City of Demacia | 13.00% | ~348 |
 | Truth is a dark mirror | 13.00% | ~348 |
 | Call it 'redistribution of magic | 13.00% | ~348 |
 | Do you trust me? | 12.00% | ~321 |

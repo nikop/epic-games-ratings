@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -457,9 +457,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43364,
+  "EOS_Progressed": 43365,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14337,6 +14337,11 @@
       "Time": "2023-12-07T01:52:47.923265+00:00",
       "NumProgressed": 43364,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-07T06:04:46.5901888+00:00",
+      "NumProgressed": 43365,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -14500,7 +14505,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3035
+      "UsersEstimate": 3036
     },
     {
       "ID": "CUFF_ATTACK",
@@ -14771,22 +14776,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43364,
+      "Progressed": 43365,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8201,
-      "Completed": 8201
+      "Progressed": 8202,
+      "Completed": 8202
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-06T14:01:49.0536131+00:00",
-  "LastChanged_Achievements": "2023-12-07T05:05:43.1787638+00:00",
+  "LastChanged_Achievements": "2023-12-07T06:04:46.5901885+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:22.4810167+00:00",
-  "LastUpdate_Ratings": "2023-12-07T04:56:59.328676+00:00",
-  "LastUpdate_Achievements": "2023-12-07T05:05:43.1788966+00:00"
+  "LastUpdate_Ratings": "2023-12-07T05:57:17.7367385+00:00",
+  "LastUpdate_Achievements": "2023-12-07T06:04:46.5903313+00:00"
 }

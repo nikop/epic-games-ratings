@@ -9,8 +9,8 @@
 | For the Horde! | 83.00% | ~440 |
 | Hammer Time, Round Two | 81.00% | ~429 |
 | The Hellwoods | 77.00% | ~408 |
+| The Plains of Strothalm | 72.00% | ~382 |
 | Experienced Thalya | 72.00% | ~382 |
-| The Plains of Strothalm | 71.00% | ~376 |
 | Thalya's Concentrated Fury | 69.00% | ~366 |
 | Bad Elves Go Everywhere | 69.00% | ~366 |
 | Heroes’ Gorge | 65.00% | ~344 |
@@ -41,8 +41,8 @@
 | Ghost Pirates? Ghost Heroes! | 27.00% | ~143 |
 | Hungry, Hungry Gorgu! | 26.00% | ~138 |
 | The Finitude Drill | 25.00% | ~132 |
+| Stop Tanos! | 23.00% | ~122 |
 | Doom Hill | 23.00% | ~122 |
-| Stop Tanos! | 22.00% | ~117 |
 | Brimstone Shaken, Not Stirred | 21.00% | ~111 |
 | Sabotage! | 20.00% | ~106 |
 | Bonus Evilness | 19.00% | ~101 |

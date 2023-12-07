@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16887,
+  "EOS_Progressed": 16888,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -15583,6 +15583,11 @@
       "Time": "2023-12-07T05:08:17.9560762+00:00",
       "NumProgressed": 16887,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-07T06:08:28.2138815+00:00",
+      "NumProgressed": 16888,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15698,7 +15703,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4897
+      "UsersEstimate": 4898
     },
     {
       "ID": "tpote_achievement_22",
@@ -15706,7 +15711,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "tpote_achievement_23",
@@ -15730,7 +15735,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "tpote_achievement_26",
@@ -15754,7 +15759,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "tpote_achievement_29",
@@ -15842,7 +15847,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "tpote_achievement_39",
@@ -15921,15 +15926,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16887,
+      "Progressed": 16888,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-07T05:08:17.9560757+00:00",
+  "LastChanged_Achievements": "2023-12-07T06:08:28.2138811+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:00:26.3743872+00:00",
-  "LastUpdate_Achievements": "2023-12-07T05:08:17.9562106+00:00"
+  "LastUpdate_Ratings": "2023-12-07T05:59:38.2217572+00:00",
+  "LastUpdate_Achievements": "2023-12-07T06:08:28.2139697+00:00"
 }

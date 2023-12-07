@@ -22,8 +22,8 @@ Number of Ratings: 38  (23.09.2022)
 | Head in the clouds | 13.00% | ~202 |
 | Back to rust | 12.00% | ~187 |
 | Flower Powered | 12.00% | ~187 |
+| Perfect timing | 10.00% | ~156 |
 | Unstoppable | 10.00% | ~156 |
-| Perfect timing | 9.00% | ~140 |
 | Self-sustainability | 8.00% | ~125 |
 | Ain't no mountain high enough | 8.00% | ~125 |
 | Can't get wetter... | 5.00% | ~78 |

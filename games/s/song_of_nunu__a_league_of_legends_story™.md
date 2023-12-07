@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 76.00% | ~825 |
-| I Broke It | 73.00% | ~793 |
-| Better On Ice | 68.00% | ~738 |
+| Feels Familiar | 76.00% | ~826 |
+| I Broke It | 73.00% | ~794 |
+| Better On Ice | 68.00% | ~739 |
 | Cutie Poro | 67.00% | ~728 |
 | Notai Notes | 67.00% | ~728 |
 | Blue Dreams | 66.00% | ~717 |
 | He's Famous! | 66.00% | ~717 |
-| Krugmazing | 64.00% | ~695 |
-| Moneyball | 61.00% | ~662 |
-| The Fire Below the Mountain | 61.00% | ~662 |
-| No Bites | 55.00% | ~597 |
-| Iceborn | 55.00% | ~597 |
+| Krugmazing | 64.00% | ~696 |
+| Moneyball | 61.00% | ~663 |
+| The Fire Below the Mountain | 61.00% | ~663 |
+| No Bites | 55.00% | ~598 |
+| Iceborn | 55.00% | ~598 |
 | Tear of Freedom | 53.00% | ~576 |
 | Boom Things | 53.00% | ~576 |
-| My Darkest Day | 50.00% | ~543 |
-| Rhythm Of Willump | 47.00% | ~510 |
-| The Relentless Storm | 47.00% | ~510 |
+| My Darkest Day | 50.00% | ~544 |
+| Rhythm Of Willump | 47.00% | ~511 |
+| The Relentless Storm | 47.00% | ~511 |
 | A Tragic Reminder | 45.00% | ~489 |
 | 3000 Year Blackout | 45.00% | ~489 |
 | The Finisher | 43.00% | ~467 |
-| So Close | 42.00% | ~456 |
-| You Get Used To It | 42.00% | ~456 |
-| Family | 40.00% | ~434 |
-| True Legends | 40.00% | ~434 |
-| Boosted! | 40.00% | ~434 |
+| So Close | 42.00% | ~457 |
+| You Get Used To It | 42.00% | ~457 |
+| Family | 40.00% | ~435 |
+| True Legends | 40.00% | ~435 |
+| Boosted! | 40.00% | ~435 |
 | Biggest Snowball Ever | 39.00% | ~424 |
 | Freeze The Ice Witch | 39.00% | ~424 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~424 |
@@ -49,7 +49,7 @@
 | We Are Speed | 2.00% | ~22 |
 | Sneaky Notai | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,086 (Ranked 260)  
+Progressed: 1,087 (Ranked 260)  
 Completed: 8 (0.74%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,4 +97,4 @@ Completed: 8 (0.74%) (Ranked 187)
 | 2023-12-04 | 1,080 | 8 |
 | 2023-12-05 | 1,081 | 8 |
 | 2023-12-06 | 1,085 | 8 |
-| 2023-12-07 | 1,086 | 8 |
+| 2023-12-07 | 1,087 | 8 |

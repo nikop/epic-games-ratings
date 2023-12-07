@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
@@ -282,9 +282,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 23942,
+  "EOS_Progressed": 23944,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 1163,
+  "EOS_NewPlayers": 1159,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5962,6 +5962,11 @@
       "Time": "2023-12-07T05:09:46.8857369+00:00",
       "NumProgressed": 23942,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-12-07T06:09:32.8836027+00:00",
+      "NumProgressed": 23944,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 24,
@@ -5997,7 +6002,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 3591
+      "UsersEstimate": 3592
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -6109,7 +6114,7 @@
       "Name": "Sector 2",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5267
+      "UsersEstimate": 5268
     },
     {
       "ID": "ACH_Sector3",
@@ -6164,7 +6169,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 23942,
+      "Progressed": 23944,
       "Completed": 140
     }
   ],
@@ -6172,8 +6177,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-12-06T18:00:01.3519948+00:00",
-  "LastChanged_Achievements": "2023-12-07T05:09:46.8857365+00:00",
+  "LastChanged_Achievements": "2023-12-07T06:09:32.8836023+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:26.6540056+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:01:00.9819978+00:00",
-  "LastUpdate_Achievements": "2023-12-07T05:09:46.8857844+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:00:01.3072437+00:00",
+  "LastUpdate_Achievements": "2023-12-07T06:09:32.8836381+00:00"
 }
