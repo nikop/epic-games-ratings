@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.43% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.42% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -87,7 +87,7 @@
 | 85 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 86 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.26% |
 | 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.24% |
-| 88 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.20% |
+| 88 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.19% |
 | 89 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.17% |
 | 90 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.07% |
 | 91 | [The Bunker](games/t/the_bunker.md) | 4.00% |
@@ -100,7 +100,7 @@
 | 98 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.21% |
 | 99 | [Destiny 2](games/d/destiny_2.md) | 3.19% |
 | 100 | [The Complex](games/t/the_complex.md) | 3.18% |
-| 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.14% |
+| 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.13% |
 | 102 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 102 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
 | 104 | [Doodle God](games/d/doodle_god.md) | 3.08% |
@@ -124,8 +124,8 @@
 | 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.44% |
 | 123 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 124 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.40% |
-| 125 | [Dungeons 4](games/d/dungeons_4.md) | 2.26% |
-| 126 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
+| 125 | [Dungeons 4](games/d/dungeons_4.md) | 2.25% |
+| 125 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
 | 127 | [Bloodshore](games/b/bloodshore.md) | 2.23% |
 | 128 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
 | 129 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.20% |
