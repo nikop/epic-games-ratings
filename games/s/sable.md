@@ -6,40 +6,40 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~34,930 |
-| Just The Two of Us | 33.00% | ~33,903 |
-| Up On High | 25.00% | ~25,684 |
-| Under The Hood | 25.00% | ~25,684 |
-| Got Your Nose | 24.00% | ~24,657 |
-| The Gift of Gab | 24.00% | ~24,657 |
-| Wrapping Up | 22.00% | ~22,602 |
-| More Than A Box Of Sand | 18.00% | ~18,492 |
-| The Dunboyne | 17.00% | ~17,465 |
-| Badge Hobbyist | 17.00% | ~17,465 |
-| Chum Novice | 16.00% | ~16,438 |
-| Silver-Tongued Sable | 16.00% | ~16,438 |
-| Sticky Paws | 16.00% | ~16,438 |
-| Bubble Up | 16.00% | ~16,438 |
-| Thread The Needle | 15.00% | ~15,410 |
-| Power to the People | 14.00% | ~14,383 |
-| Nesting Giant | 14.00% | ~14,383 |
-| Take That! | 13.00% | ~13,356 |
-| Treasure Tracker | 13.00% | ~13,356 |
-| Big Spender | 13.00% | ~13,356 |
-| Badge Collector | 12.00% | ~12,328 |
-| Quite The Catch | 12.00% | ~12,328 |
-| Rowleys Way | 11.00% | ~11,301 |
+| Simoon | 34.00% | ~34,933 |
+| Just The Two of Us | 33.00% | ~33,905 |
+| Up On High | 25.00% | ~25,686 |
+| Under The Hood | 25.00% | ~25,686 |
+| Got Your Nose | 24.00% | ~24,658 |
+| The Gift of Gab | 24.00% | ~24,658 |
+| Wrapping Up | 22.00% | ~22,603 |
+| More Than A Box Of Sand | 18.00% | ~18,494 |
+| The Dunboyne | 17.00% | ~17,466 |
+| Badge Hobbyist | 17.00% | ~17,466 |
+| Chum Novice | 16.00% | ~16,439 |
+| Silver-Tongued Sable | 16.00% | ~16,439 |
+| Sticky Paws | 16.00% | ~16,439 |
+| Bubble Up | 16.00% | ~16,439 |
+| Thread The Needle | 15.00% | ~15,411 |
+| Power to the People | 14.00% | ~14,384 |
+| Nesting Giant | 14.00% | ~14,384 |
+| Take That! | 13.00% | ~13,357 |
+| Treasure Tracker | 13.00% | ~13,357 |
+| Big Spender | 13.00% | ~13,357 |
+| Badge Collector | 12.00% | ~12,329 |
+| Quite The Catch | 12.00% | ~12,329 |
+| Rowleys Way | 11.00% | ~11,302 |
 | The Machinist Mask | 10.00% | ~10,274 |
 | The Cartographer Mask | 10.00% | ~10,274 |
 | Balfron Connection | 10.00% | ~10,274 |
 | Ceiling Of Stars | 10.00% | ~10,274 |
 | Playing Dress Up | 10.00% | ~10,274 |
-| Many Different Faces | 9.00% | ~9,246 |
-| Trellick's Pillar | 9.00% | ~9,246 |
-| Centre Of Brunswick | 9.00% | ~9,246 |
-| Bike Collector | 9.00% | ~9,246 |
-| Dune Rider | 9.00% | ~9,246 |
-| Not That Kind Of Gliding | 9.00% | ~9,246 |
+| Many Different Faces | 9.00% | ~9,247 |
+| Trellick's Pillar | 9.00% | ~9,247 |
+| Centre Of Brunswick | 9.00% | ~9,247 |
+| Bike Collector | 9.00% | ~9,247 |
+| Dune Rider | 9.00% | ~9,247 |
+| Not That Kind Of Gliding | 9.00% | ~9,247 |
 | The Scrapper Mask | 8.00% | ~8,219 |
 | Shadow Of Neave | 8.00% | ~8,219 |
 | Fragile Goods | 8.00% | ~8,219 |
@@ -50,20 +50,20 @@ Number of Ratings: 43  (23.09.2022)
 | The Guard Mask | 7.00% | ~7,192 |
 | Smoked Out | 7.00% | ~7,192 |
 | A Hard Place | 7.00% | ~7,192 |
-| The Climber Mask | 6.00% | ~6,164 |
-| The Merchant Mask | 6.00% | ~6,164 |
-| Honorary Chum | 6.00% | ~6,164 |
-| Bikes Don't Fly | 6.00% | ~6,164 |
+| The Climber Mask | 6.00% | ~6,165 |
+| The Merchant Mask | 6.00% | ~6,165 |
+| Honorary Chum | 6.00% | ~6,165 |
+| Bikes Don't Fly | 6.00% | ~6,165 |
 | The Gliding | 5.00% | ~5,137 |
 | The Entertainer Mask | 5.00% | ~5,137 |
-| The Quick and the Curious | 4.00% | ~4,109 |
-| Bike Aficionado | 4.00% | ~4,109 |
+| The Quick and the Curious | 4.00% | ~4,110 |
+| Bike Aficionado | 4.00% | ~4,110 |
 | Chum Expert | 3.00% | ~3,082 |
 | Gastric Bypass | 3.00% | ~3,082 |
 | The Angler Mask | 3.00% | ~3,082 |
 | Vivacious Vivarium | 2.00% | ~2,055 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,736 (Ranked 88)  
+Progressed: 102,743 (Ranked 88)  
 Completed: 1,040 (1.01%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 1,040 (1.01%) (Ranked 169)
 | 2023-12-04 | 102,451 | 1,035 |
 | 2023-12-05 | 102,587 | 1,037 |
 | 2023-12-06 | 102,726 | 1,040 |
-| 2023-12-07 | 102,736 | 1,040 |
+| 2023-12-07 | 102,743 | 1,040 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 522)  
 Sum: 94 (Ranked 456)  

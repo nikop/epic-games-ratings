@@ -2,13 +2,13 @@
   "ID": "c42b08b655c04a64a0535331629d4b6d",
   "Name": "Bugsnax",
   "ProductSlug": "bugsnax",
-  "Ranking_Rating": 33,
+  "Ranking_Rating": 32,
   "Ranking_Popularity": 457,
-  "Ranking_PopularitySum": 353,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -940,7 +940,7 @@
   ],
   "EOS_Progressed": 28712,
   "EOS_Completed": 1391,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.84,
   "EosHistory": [
@@ -7630,8 +7630,8 @@
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-12-03T16:58:03.785084+00:00",
-  "LastChanged_Achievements": "2023-12-07T00:08:48.8683145+00:00",
+  "LastChanged_Achievements": "2023-12-07T01:57:14.7654031+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.8346725+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:59:22.3666542+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:08:48.8683687+00:00"
+  "LastUpdate_Ratings": "2023-12-07T01:47:13.7236946+00:00",
+  "LastUpdate_Achievements": "2023-12-07T01:57:14.7654489+00:00"
 }

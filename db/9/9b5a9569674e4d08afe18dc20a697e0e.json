@@ -4,8 +4,8 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -552,9 +552,9 @@
       "ID": "BARON",
       "SetID": "40o4f14",
       "Name": "Baron",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CHAIR",
@@ -768,9 +768,9 @@
       "ID": "WASHING",
       "SetID": "40o4f14",
       "Name": "Needs washing",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "WITCH",
@@ -799,8 +799,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-07T00:04:08.0463617+00:00",
-  "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:58:11.0605488+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:04:08.0463827+00:00"
+  "LastChanged_Achievements": "2023-12-07T01:52:22.5257664+00:00",
+  "LastUpdate_AppInfo": "2023-12-07T01:44:48.8320018+00:00",
+  "LastUpdate_Ratings": "2023-12-07T01:46:01.1951755+00:00",
+  "LastUpdate_Achievements": "2023-12-07T01:52:22.5257862+00:00"
 }

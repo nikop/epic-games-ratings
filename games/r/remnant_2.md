@@ -10,23 +10,23 @@ Rating: 4.75 (Ranked 147)
 | First of Many | 0.70% | ~1,653 |
 | Master of the Dark Arts | 0.70% | ~107 |
 | Not Your Average Trait | 0.60% | ~1,417 |
-| Expanding Horizons | 0.50% | ~1,180 |
-| Gleaming the Cube | 0.50% | ~1,180 |
-| Not So Special Now | 0.50% | ~1,180 |
-| Quest for Survival | 0.50% | ~1,180 |
-| Familiar Face | 0.50% | ~1,180 |
-| Boss'n Up | 0.50% | ~1,180 |
-| Am I Seeing This? | 0.40% | ~944 |
-| Not a Janitor | 0.40% | ~944 |
-| Equal Measures | 0.40% | ~944 |
-| Blue Goddess | 0.40% | ~944 |
-| Duality | 0.40% | ~944 |
-| Top Performer | 0.40% | ~944 |
-| Shhh...It's a Secret | 0.40% | ~944 |
-| Almost There | 0.40% | ~944 |
-| Make Some Room | 0.40% | ~944 |
-| Good, But Could Be Better! | 0.40% | ~944 |
-| Trait Chaser | 0.40% | ~944 |
+| Expanding Horizons | 0.50% | ~1,181 |
+| Gleaming the Cube | 0.50% | ~1,181 |
+| Not So Special Now | 0.50% | ~1,181 |
+| Quest for Survival | 0.50% | ~1,181 |
+| Familiar Face | 0.50% | ~1,181 |
+| Boss'n Up | 0.50% | ~1,181 |
+| Am I Seeing This? | 0.40% | ~945 |
+| Not a Janitor | 0.40% | ~945 |
+| Equal Measures | 0.40% | ~945 |
+| Blue Goddess | 0.40% | ~945 |
+| Duality | 0.40% | ~945 |
+| Top Performer | 0.40% | ~945 |
+| Shhh...It's a Secret | 0.40% | ~945 |
+| Almost There | 0.40% | ~945 |
+| Make Some Room | 0.40% | ~945 |
+| Good, But Could Be Better! | 0.40% | ~945 |
+| Trait Chaser | 0.40% | ~945 |
 | Ghost in the Machine | 0.30% | ~708 |
 | Chaos | 0.30% | ~708 |
 | Traitor | 0.30% | ~708 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | You Shall Pass | 0.20% | ~31 |
 | A Foul Feast | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,098 (Ranked 68)  
+Progressed: 236,132 (Ranked 68)  
 Completed: 564 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 564 (0.24%) (Ranked 252)
 | 2023-12-04 | 234,896 | 558 |
 | 2023-12-05 | 235,528 | 561 |
 | 2023-12-06 | 236,074 | 564 |
-| 2023-12-07 | 236,098 | 564 |
+| 2023-12-07 | 236,132 | 564 |
 ## Awards
 Max (Great Boss Battles): 2,668  (Ranked 102)  
 Sum: 6,595 (Ranked 127)  

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 7.00% | ~31 |
-| Half a Life | 5.00% | ~22 |
+| Half a Life | 4.00% | ~18 |
 | Shock to the System | 3.00% | ~13 |
 | Bad Blood | 2.00% | ~9 |
 | Serious Bam | 2.00% | ~9 |
@@ -13,10 +13,10 @@
 | Postal Service | 0.90% | ~4 |
 | Bloodstorm | 0.70% | ~3 |
 | Unreal | 0.70% | ~3 |
-| ...And I'm All Out Of Gun | 0.50% | ~2 |
-| Pacifantastic | 0.50% | ~2 |
-| SCATHE Too | 0.50% | ~2 |
-| Shocking Bio | 0.50% | ~2 |
+| ...And I'm All Out Of Gun | 0.40% | ~2 |
+| Pacifantastic | 0.40% | ~2 |
+| SCATHE Too | 0.40% | ~2 |
+| Shocking Bio | 0.40% | ~2 |
 | Amaging Work | 0.20% | ~1 |
 | Castle Of The Wolf | 0.20% | ~1 |
 | Gears of Door | 0.20% | ~1 |
@@ -35,7 +35,7 @@
 | Unreal 4 | 0.00% | ~0 |
 | Until Dusk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444 (Ranked 323)  
+Progressed: 446 (Ranked 323)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-11-30 | 438 | 0 |
 | 2023-12-01 | 441 | 0 |
 | 2023-12-03 | 442 | 0 |
-| 2023-12-07 | 444 | 0 |
+| 2023-12-07 | 446 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

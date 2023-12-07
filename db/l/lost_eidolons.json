@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1139,
+  "EOS_Progressed": 1140,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1581,6 +1581,11 @@
       "Time": "2023-11-28T20:08:12.2108544+00:00",
       "NumProgressed": 1139,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T01:56:08.0387318+00:00",
+      "NumProgressed": 1140,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1632,7 +1637,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "07",
@@ -1648,7 +1653,7 @@
       "Name": "Monster Slayer",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "09",
@@ -1720,7 +1725,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "18",
@@ -1744,7 +1749,7 @@
       "Name": "Digging Deep",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "21",
@@ -1775,7 +1780,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1139,
+      "Progressed": 1140,
       "Completed": 1
     }
   ],
@@ -1783,8 +1788,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-07T00:06:01.9133804+00:00",
+  "LastChanged_Achievements": "2023-12-07T01:56:08.0387315+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:10.3861713+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:59:21.3817594+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:06:01.9134036+00:00"
+  "LastUpdate_Ratings": "2023-12-07T01:47:12.8208257+00:00",
+  "LastUpdate_Achievements": "2023-12-07T01:56:08.0387516+00:00"
 }

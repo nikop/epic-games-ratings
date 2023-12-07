@@ -2,13 +2,13 @@
   "ID": "f01b3e0178d448f0b93911e292d8e614",
   "Name": "RollerCoaster Tycoon 3 Complete Edition",
   "ProductSlug": "rollercoaster-tycoon-3-complete-edition",
-  "Ranking_Rating": 316,
+  "Ranking_Rating": 315,
   "Ranking_Popularity": 419,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 786,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-09-24T15:00:00+00:00",
     "PcReleaseDate": "2020-09-24T15:00:00+00:00",
@@ -1241,6 +1241,6 @@
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
   "LastChanged": "2023-12-04T21:58:37.8465415+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:22.6211487+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:59:38.3164926+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:08:00.7439719+00:00"
+  "LastUpdate_Ratings": "2023-12-07T01:47:29.8713311+00:00",
+  "LastUpdate_Achievements": "2023-12-07T01:56:25.9879286+00:00"
 }

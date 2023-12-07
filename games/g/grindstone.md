@@ -22,9 +22,9 @@ Number of Ratings: 63  (23.09.2022)
 | I Believe I Can Fly | 37.00% | ~1,918 |
 | Bone Collector | 35.00% | ~1,814 |
 | Fe-Festival | 35.00% | ~1,814 |
+| Pardon my Slob | 33.00% | ~1,711 |
 | Top of the Food Chain | 32.00% | ~1,659 |
 | Humerus Achievement | 32.00% | ~1,659 |
-| Pardon my Slob | 32.00% | ~1,659 |
 | Ghost Facers! | 28.00% | ~1,452 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,089 |
 | Royal Flush, Again | 19.00% | ~985 |
@@ -57,7 +57,7 @@ Number of Ratings: 63  (23.09.2022)
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,184 (Ranked 191)  
-Completed: 30 (0.58%) (Ranked 199)  
+Completed: 30 (0.58%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

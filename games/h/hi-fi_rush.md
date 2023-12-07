@@ -1,12 +1,12 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.87 (Ranked 23)  
+Rating: 4.87 (Ranked 24)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Feeling the beat! | 20.00% | ~896 |
 | Start with a bang! | 19.00% | ~852 |
-| Feeling the beat! | 19.00% | ~852 |
 | You can pet the cat! | 18.00% | ~807 |
 | Who put gears in there? | 17.00% | ~762 |
 | Cream of the Crop | 16.00% | ~717 |

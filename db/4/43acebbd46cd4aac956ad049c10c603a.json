@@ -2,13 +2,13 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 33,
+  "Ranking_Rating": 32,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -211,9 +211,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 887,
+  "EOS_Progressed": 888,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2151,6 +2151,11 @@
       "Time": "2023-12-07T00:05:44.3740474+00:00",
       "NumProgressed": 887,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T01:54:00.8392293+00:00",
+      "NumProgressed": 888,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2217,9 +2222,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 142
     },
     {
       "ID": "ChasingTheLight",
@@ -2243,7 +2248,7 @@
       "Name": "Circular Oasis",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "DesolateIsland",
@@ -2283,7 +2288,7 @@
       "Name": "Excellent",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "FloodedValley",
@@ -2331,7 +2336,7 @@
       "Name": "Into the Machine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "JustOneLap",
@@ -2387,7 +2392,7 @@
       "Name": "Museum Visitor",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "NewBeginning",
@@ -2435,7 +2440,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "PuzzleFiend",
@@ -2563,7 +2568,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "TheWordEndures",
@@ -2577,9 +2582,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 98
     },
     {
       "ID": "TrevorsBiographer",
@@ -2595,7 +2600,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Wanderers",
@@ -2634,7 +2639,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 887,
+      "Progressed": 888,
       "Completed": 1
     }
   ],
@@ -2642,8 +2647,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
-  "LastChanged_Achievements": "2023-12-07T00:05:44.3740468+00:00",
+  "LastChanged_Achievements": "2023-12-07T01:54:00.839229+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:59:08.8944136+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:05:44.3741049+00:00"
+  "LastUpdate_Ratings": "2023-12-07T01:47:00.0772731+00:00",
+  "LastUpdate_Achievements": "2023-12-07T01:54:00.8392802+00:00"
 }

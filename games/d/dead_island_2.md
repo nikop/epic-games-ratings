@@ -7,20 +7,20 @@ Rating: 4.54 (Ranked 529)
 | ---- | ---------- | ----- |
 | Whatever It Takes | 3.00% | ~1,700 |
 | Pork Chopped | 3.00% | ~1,700 |
-| Dr. Reed, I Presume? | 2.00% | ~14,622 |
-| Git Gutte! | 2.00% | ~14,622 |
-| Bookworm | 2.00% | ~14,622 |
-| Break A Leg | 2.00% | ~14,622 |
-| Coup de Grâce | 2.00% | ~14,622 |
-| Hazardous Materials | 2.00% | ~14,622 |
-| Friends Like These | 2.00% | ~14,622 |
-| Hotel California | 2.00% | ~14,622 |
-| Apex Predator | 2.00% | ~14,622 |
-| Stacking the Deck | 2.00% | ~14,622 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,622 |
-| This is My Weapon | 2.00% | ~14,622 |
-| Welcome To Hell-A | 2.00% | ~14,622 |
-| One of Us | 2.00% | ~1,133 |
+| Dr. Reed, I Presume? | 2.00% | ~14,623 |
+| Git Gutte! | 2.00% | ~14,623 |
+| Bookworm | 2.00% | ~14,623 |
+| Break A Leg | 2.00% | ~14,623 |
+| Coup de Grâce | 2.00% | ~14,623 |
+| Hazardous Materials | 2.00% | ~14,623 |
+| Friends Like These | 2.00% | ~14,623 |
+| Hotel California | 2.00% | ~14,623 |
+| Apex Predator | 2.00% | ~14,623 |
+| Stacking the Deck | 2.00% | ~14,623 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,623 |
+| This is My Weapon | 2.00% | ~14,623 |
+| Welcome To Hell-A | 2.00% | ~14,623 |
+| One of Us | 2.00% | ~1,134 |
 | Making Your Mark | 1.00% | ~7,311 |
 | Anger Management | 1.00% | ~7,311 |
 | Perks of the Job | 1.00% | ~7,311 |
@@ -46,10 +46,10 @@ Rating: 4.54 (Ranked 529)
 | Internet Famous | 0.60% | ~4,387 |
 | Variety is the Spice of Death | 0.60% | ~4,387 |
 | Make it So | 0.50% | ~3,656 |
-| LA Influential | 0.40% | ~2,924 |
-| Sole Survivor | 0.40% | ~2,924 |
-| Gore Horse | 0.40% | ~2,924 |
-| Sharpest Tool in the Box | 0.40% | ~2,924 |
+| LA Influential | 0.40% | ~2,925 |
+| Sole Survivor | 0.40% | ~2,925 |
+| Gore Horse | 0.40% | ~2,925 |
+| Sharpest Tool in the Box | 0.40% | ~2,925 |
 | Top That, Tisha! | 0.40% | ~227 |
 | Survival Skills | 0.20% | ~1,462 |
 | Lawn and Order | 0.20% | ~113 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,113 (Ranked 21)  
+Progressed: 731,138 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,10 +288,10 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
-| 2023-12-07 | 731,113 | 2,465 |
+| 2023-12-07 | 731,138 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,968  (Ranked 49)  
-Sum: 12,240 (Ranked 82)  
+Sum: 12,244 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -300,7 +300,7 @@ Diff (max vs sum): -33
 | This game has Diverse Characters | 587 |
 | This game has Quickly Understood Controls | 555 |
 | This game is Relaxing | 530 |
-| This game has Amazing Storytelling | 514 |
+| This game has Amazing Storytelling | 518 |
 | This game is Extremely Fun | 506 |
 | This game is Highly Recommended | 498 |
 | This game has Amazing Characters | 464 |
@@ -537,3 +537,4 @@ Diff (max vs sum): -33
 | 2023-12-04 | 4.54 | 7,915 | 12,148 |
 | 2023-12-05 | 4.54 | 7,943 | 12,192 |
 | 2023-12-06 | 4.54 | 7,968 | 12,240 |
+| 2023-12-07 | 4.54 | 7,968 | 12,244 |

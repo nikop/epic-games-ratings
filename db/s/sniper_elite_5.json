@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 692,
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.44,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -611,6 +611,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 27,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-12-07T01:46:40.3568359+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 27,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
@@ -625,9 +631,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 3983,
+  "EOS_Progressed": 3984,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8450,6 +8456,11 @@
       "Time": "2023-12-06T15:06:12.1536262+00:00",
       "NumProgressed": 3983,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-07T01:56:12.0952388+00:00",
+      "NumProgressed": 3984,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8589,7 +8600,7 @@
       "Name": "Skirmisher",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -8645,7 +8656,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -8667,9 +8678,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1195
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8677,7 +8688,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -8685,7 +8696,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8733,7 +8744,7 @@
       "Name": "From Paris with Love",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -8741,7 +8752,7 @@
       "Name": "Burn after reading",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -8749,7 +8760,7 @@
       "Name": "Souvenir hunter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -8773,7 +8784,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8837,7 +8848,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -8853,7 +8864,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8861,7 +8872,7 @@
       "Name": "Shoot for the Moon",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -9028,22 +9039,22 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3934,
+      "Progressed": 3935,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3983,
+      "Progressed": 3984,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-11-29T01:50:55.7506147+00:00",
-  "LastChanged_Achievements": "2023-12-07T00:06:05.8477967+00:00",
+  "LastChanged": "2023-12-07T01:46:40.3568357+00:00",
+  "LastChanged_Achievements": "2023-12-07T01:56:12.0952385+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.4601542+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:58:49.6889035+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:06:05.8478763+00:00"
+  "LastUpdate_Ratings": "2023-12-07T01:46:40.3568364+00:00",
+  "LastUpdate_Achievements": "2023-12-07T01:56:12.0953334+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -162,9 +162,9 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Botropolis",
@@ -210,17 +210,17 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 51,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 90,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ImALumberbot",
@@ -266,9 +266,9 @@
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NothingButRoad",
@@ -346,9 +346,9 @@
       "ID": "TuttiFrutti",
       "SetID": "4bd750m",
       "Name": "Tutti Frutti",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "UpUpAndAway",
@@ -385,8 +385,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-07T00:04:44.891392+00:00",
+  "LastChanged_Achievements": "2023-12-07T01:52:59.7969826+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:16.2831296+00:00",
-  "LastUpdate_Ratings": "2023-12-07T00:02:52.1973633+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:04:44.8914069+00:00"
+  "LastUpdate_Ratings": "2023-12-07T01:51:04.5366687+00:00",
+  "LastUpdate_Achievements": "2023-12-07T01:52:59.7970034+00:00"
 }

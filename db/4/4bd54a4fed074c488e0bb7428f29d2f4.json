@@ -2,10 +2,10 @@
   "ID": "4bd54a4fed074c488e0bb7428f29d2f4",
   "Name": "1428: Shadows over Silesia",
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
-  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Progress": 540,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -129,6 +129,11 @@
       "Time": "2023-12-06T20:05:38.6131073+00:00",
       "NumProgressed": 28,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T01:53:26.4197089+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-05T18:06:01.4667778+00:00",
@@ -171,7 +176,7 @@
       "ID": "SOS_AUTHORIZATION",
       "SetID": "6ci4lm2",
       "Name": "Authorization letter",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -195,7 +200,7 @@
       "ID": "SOS_BOOKWORM",
       "SetID": "6ci4lm2",
       "Name": "Bookworm",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -211,7 +216,7 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -219,7 +224,7 @@
       "ID": "SOS_DEAD_END",
       "SetID": "6ci4lm2",
       "Name": "Dead end",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -235,7 +240,7 @@
       "ID": "SOS_DRUNKARD",
       "SetID": "6ci4lm2",
       "Name": "Drunkard",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -243,7 +248,7 @@
       "ID": "SOS_ENEMY_OF_MY_ENEMY",
       "SetID": "6ci4lm2",
       "Name": "Enemy of my enemy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -259,7 +264,7 @@
       "ID": "SOS_EVIL_CODE",
       "SetID": "6ci4lm2",
       "Name": "Evil code",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -283,7 +288,7 @@
       "ID": "SOS_FARKLE",
       "SetID": "6ci4lm2",
       "Name": "Silesian Farkle",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -291,7 +296,7 @@
       "ID": "SOS_FIRST_BLOOD",
       "SetID": "6ci4lm2",
       "Name": "First blood",
-      "Percentage": 64,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -307,7 +312,7 @@
       "ID": "SOS_FOR_GLORY_OF_GOD",
       "SetID": "6ci4lm2",
       "Name": "For the glory of God",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -331,7 +336,7 @@
       "ID": "SOS_HARD_WAY",
       "SetID": "6ci4lm2",
       "Name": "Do it the hard way",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -347,7 +352,7 @@
       "ID": "SOS_HEARTBREAKING_END",
       "SetID": "6ci4lm2",
       "Name": "Heartbreaking end",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -371,7 +376,7 @@
       "ID": "SOS_HE_WILL_REMEMBER",
       "SetID": "6ci4lm2",
       "Name": "He will remember that",
-      "Percentage": 36,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -403,7 +408,7 @@
       "ID": "SOS_LAST_LETTER",
       "SetID": "6ci4lm2",
       "Name": "The last letter",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -419,7 +424,7 @@
       "ID": "SOS_LEGACY",
       "SetID": "6ci4lm2",
       "Name": "Legacy of the Templars",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -507,7 +512,7 @@
       "ID": "SOS_POISON",
       "SetID": "6ci4lm2",
       "Name": "Last cup",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -515,7 +520,7 @@
       "ID": "SOS_PRISON_BREAK",
       "SetID": "6ci4lm2",
       "Name": "At the bottom",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -531,7 +536,7 @@
       "ID": "SOS_RED_MINE",
       "SetID": "6ci4lm2",
       "Name": "Red mine",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -539,7 +544,7 @@
       "ID": "SOS_RETURN_TO_GRAVE",
       "SetID": "6ci4lm2",
       "Name": "Ready for the grave",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -555,7 +560,7 @@
       "ID": "SOS_SHAFT_INTO_DARKNESS",
       "SetID": "6ci4lm2",
       "Name": "Shaft into the darkness",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -636,14 +641,14 @@
     {
       "ID": "6ci4lm2",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-07T00:05:10.8349279+00:00",
+  "LastChanged_Achievements": "2023-12-07T01:53:26.4197085+00:00",
   "LastUpdate_AppInfo": "2023-12-04T15:57:13.4700868+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:59:55.1631042+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:05:10.8349735+00:00"
+  "LastUpdate_Ratings": "2023-12-07T01:47:46.7703931+00:00",
+  "LastUpdate_Achievements": "2023-12-07T01:53:26.4197545+00:00"
 }

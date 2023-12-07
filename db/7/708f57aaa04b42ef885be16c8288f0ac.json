@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -201,9 +201,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7499,
+  "EOS_Progressed": 7500,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5731,6 +5731,11 @@
       "Time": "2023-12-06T22:09:24.620162+00:00",
       "NumProgressed": 7499,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-07T01:57:42.0939798+00:00",
+      "NumProgressed": 7500,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5903,7 +5908,7 @@
       "Name": "Not Like The Others",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "OneStarMan",
@@ -5919,7 +5924,7 @@
       "Name": "Scorch Squaaad!",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "TheFloorIsLava",
@@ -6014,7 +6019,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7499,
+      "Progressed": 7500,
       "Completed": 14
     }
   ],
@@ -6022,8 +6027,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-07T00:09:16.1709317+00:00",
+  "LastChanged_Achievements": "2023-12-07T01:57:42.0939794+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:59:24.3727125+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:09:16.1709735+00:00"
+  "LastUpdate_Ratings": "2023-12-07T01:47:15.8273371+00:00",
+  "LastUpdate_Achievements": "2023-12-07T01:57:42.0940254+00:00"
 }

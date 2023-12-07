@@ -1,19 +1,19 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 677)  
+Rating: 4.43 (Ranked 692)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,872 |
 | Confirming Suspicions | 41.00% | ~1,633 |
 | The Kraken Wakes | 37.00% | ~1,474 |
-| It's Starting to Crack | 34.00% | ~1,354 |
-| Lord of War | 31.00% | ~1,235 |
+| It's Starting to Crack | 34.00% | ~1,355 |
 | Change the Channel | 31.00% | ~1,235 |
+| Lord of War | 30.00% | ~1,195 |
 | Taking it back | 29.00% | ~1,155 |
-| Resourceful | 27.00% | ~1,075 |
-| Target America | 27.00% | ~1,075 |
+| Resourceful | 27.00% | ~1,076 |
+| Target America | 27.00% | ~1,076 |
 | The Kraken Sleeps | 25.00% | ~996 |
 | Liberté | 23.00% | ~916 |
 | Organ Grinder | 23.00% | ~916 |
@@ -26,9 +26,9 @@ Rating: 4.44 (Ranked 677)
 | Der Geist | 17.00% | ~677 |
 | Close Quarters | 16.00% | ~637 |
 | Snake in the Grass | 16.00% | ~637 |
-| Skirmisher | 15.00% | ~597 |
-| Die Nussknacker Sweet! | 15.00% | ~597 |
-| Brains of the Operation | 15.00% | ~597 |
+| Skirmisher | 15.00% | ~598 |
+| Die Nussknacker Sweet! | 15.00% | ~598 |
+| Brains of the Operation | 15.00% | ~598 |
 | No Stone Unturned | 14.00% | ~558 |
 | Opposing Force | 14.00% | ~558 |
 | Enemy at the Gates | 14.00% | ~558 |
@@ -36,7 +36,7 @@ Rating: 4.44 (Ranked 677)
 | Set Europe Ablaze | 13.00% | ~518 |
 | Precision Is Key | 10.00% | ~398 |
 | My Little Friend | 10.00% | ~398 |
-| Rigged to Blow | 9.00% | ~358 |
+| Rigged to Blow | 9.00% | ~359 |
 | Herr Today, Gone Tomorrow | 7.00% | ~275 |
 | Operation Foxley | 6.00% | ~236 |
 | The Long Game | 5.00% | ~199 |
@@ -49,10 +49,10 @@ Rating: 4.44 (Ranked 677)
 | Ghost of Falaise | 5.00% | ~197 |
 | Strategist | 4.00% | ~159 |
 | Locomotion Commotion | 4.00% | ~159 |
-| From Paris with Love | 3.00% | ~119 |
-| Burn after reading | 3.00% | ~119 |
-| Souvenir hunter | 3.00% | ~119 |
-| Shoot for the Moon | 3.00% | ~119 |
+| From Paris with Love | 3.00% | ~120 |
+| Burn after reading | 3.00% | ~120 |
+| Souvenir hunter | 3.00% | ~120 |
+| Shoot for the Moon | 3.00% | ~120 |
 | If You Go Down To The Woods Today | 3.00% | ~118 |
 | Fight Another Day | 3.00% | ~118 |
 | Shipbreaker | 3.00% | ~118 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 677)
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,983 (Ranked 198)  
+Progressed: 3,984 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,6 +306,7 @@ Completed: 11 (0.28%) (Ranked 245)
 | 2023-12-04 | 3,976 | 11 |
 | 2023-12-05 | 3,981 | 11 |
 | 2023-12-06 | 3,983 | 11 |
+| 2023-12-07 | 3,984 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 515)  
 Sum: 27 (Ranked 528)  
@@ -409,3 +410,4 @@ Diff (max vs sum): -13
 | 2023-11-26 | 4.45 | 26 | 26 |
 | 2023-11-28 | 4.44 | 26 | 26 |
 | 2023-11-29 | 4.44 | 27 | 27 |
+| 2023-12-07 | 4.43 | 27 | 27 |

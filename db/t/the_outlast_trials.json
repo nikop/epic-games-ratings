@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 786,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -3415,10 +3415,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 1210,
       "NumberOfAwardsMax": 225
+    },
+    {
+      "Time": "2023-12-07T01:45:45.2440336+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1213,
+      "NumberOfAwardsMax": 225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1210,
+  "NumberOfAwards": 1213,
   "NumberOfAwardsMax": 225,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3462,7 +3468,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 177
+      "Count": 180
     },
     {
       "Text": "This game is Educational",
@@ -3495,8 +3501,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-12-06T14:57:42.081043+00:00",
+  "LastChanged": "2023-12-07T01:45:45.2440334+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:25.3345802+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:57:55.419309+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:05:07.1443287+00:00"
+  "LastUpdate_Ratings": "2023-12-07T01:45:45.2440341+00:00",
+  "LastUpdate_Achievements": "2023-12-07T01:53:22.6957113+00:00"
 }

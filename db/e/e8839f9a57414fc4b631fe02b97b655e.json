@@ -4,8 +4,8 @@
   "ProductSlug": "rhythmictypex-bebc3b",
   "Ranking_EOS_Progress": 786,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-12-02T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-01T21:56:53.9270734+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:59:33.1492215+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:05:01.0789334+00:00"
+  "LastUpdate_Ratings": "2023-12-07T01:47:24.6687497+00:00",
+  "LastUpdate_Achievements": "2023-12-07T01:53:16.4322883+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ragnarok-survivors-valhalla-217b97",
   "Ranking_EOS_Progress": 631,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-03T16:00:00+00:00",
     "PcReleaseDate": "2023-10-03T16:00:00+00:00",
@@ -358,8 +358,8 @@
   ],
   "FirstSeen": "2023-10-16T10:00:40.7057104+00:00",
   "FirstSeenAchievements": "2023-09-26T17:02:42.8387651+00:00",
-  "LastChanged_Achievements": "2023-12-07T00:04:08.8598992+00:00",
+  "LastChanged_Achievements": "2023-12-07T01:52:23.5000925+00:00",
   "LastUpdate_AppInfo": "2023-12-05T21:56:59.4862058+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:57:23.6319473+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:04:08.8599182+00:00"
+  "LastUpdate_Ratings": "2023-12-07T01:45:13.4380646+00:00",
+  "LastUpdate_Achievements": "2023-12-07T01:52:23.5001126+00:00"
 }

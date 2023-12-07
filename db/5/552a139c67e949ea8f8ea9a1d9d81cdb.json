@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1276,
+  "EOS_Progressed": 1277,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2902,6 +2902,11 @@
       "Time": "2023-12-06T22:04:02.8311816+00:00",
       "NumProgressed": 1276,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T01:52:04.4703022+00:00",
+      "NumProgressed": 1277,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2914,7 +2919,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2994,7 +2999,7 @@
       "Name": "It\u0027s me you have to beat",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -3042,7 +3047,7 @@
       "Name": "Solo",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -3154,7 +3159,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -3170,7 +3175,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -3194,7 +3199,7 @@
       "Name": "Perfectionist",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -3257,20 +3262,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1276,
+      "Progressed": 1277,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 944,
-      "Completed": 944
+      "Progressed": 945,
+      "Completed": 945
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-07T00:03:50.3329416+00:00",
+  "LastChanged_Achievements": "2023-12-07T01:52:04.4703018+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:56:57.3535816+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:57:23.996307+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:03:50.3329861+00:00"
+  "LastUpdate_Ratings": "2023-12-07T01:45:13.7375378+00:00",
+  "LastUpdate_Achievements": "2023-12-07T01:52:04.4703366+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 23,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -3177,9 +3177,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 574
     },
     {
       "ID": "AC44",
@@ -3210,8 +3210,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-06T17:00:23.3171752+00:00",
-  "LastChanged_Achievements": "2023-12-07T00:05:17.6453683+00:00",
+  "LastChanged_Achievements": "2023-12-07T01:53:33.7384985+00:00",
   "LastUpdate_AppInfo": "2023-12-06T02:20:25.0557456+00:00",
-  "LastUpdate_Ratings": "2023-12-07T00:00:14.7370076+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:05:17.6454132+00:00"
+  "LastUpdate_Ratings": "2023-12-07T01:50:36.9626202+00:00",
+  "LastUpdate_Achievements": "2023-12-07T01:53:33.7385375+00:00"
 }

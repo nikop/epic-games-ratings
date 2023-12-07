@@ -6,50 +6,50 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~37,566 |
-| To The Nines | 42.00% | ~34,300 |
-| Optimized | 37.00% | ~30,216 |
-| Performance Review | 36.00% | ~29,400 |
-| Making a Name | 35.00% | ~28,583 |
-| Tune Up | 34.00% | ~27,766 |
-| Landlord | 33.00% | ~26,950 |
-| Wet Work | 32.00% | ~26,133 |
-| The Side Job | 31.00% | ~25,316 |
-| Wrecking Ball | 28.00% | ~22,866 |
-| Food for Thought | 27.00% | ~22,050 |
-| Finders Keepers | 26.00% | ~21,233 |
-| A Young Empire | 26.00% | ~21,233 |
-| Work Ethic | 23.00% | ~18,783 |
-| Picking Fights | 20.00% | ~16,333 |
-| Power Players | 19.00% | ~15,517 |
-| Quality Time | 18.00% | ~14,700 |
-| Showdown | 17.00% | ~13,883 |
-| Et tu? | 17.00% | ~13,883 |
-| Took It to The Limit | 17.00% | ~13,883 |
-| Kitted Out | 14.00% | ~11,433 |
-| Masters of Santo Ileso | 12.00% | ~9,800 |
-| Hijacked | 11.00% | ~8,983 |
-| The Spins | 10.00% | ~8,167 |
-| The Mechanic | 10.00% | ~8,167 |
-| Closet Space | 8.00% | ~6,533 |
-| We could go home, or… | 7.00% | ~5,717 |
-| Challenge Accepted | 7.00% | ~5,717 |
-| A Golden Age | 7.00% | ~5,717 |
-| Producer Credit | 7.00% | ~3,731 |
-| Chaos Tamer | 6.00% | ~4,900 |
-| Face Off | 6.00% | ~3,198 |
-| The Professional | 5.00% | ~4,083 |
-| Untouchable | 5.00% | ~4,083 |
-| Free Refills | 5.00% | ~4,083 |
-| Neighborly | 5.00% | ~4,083 |
-| Smooth Moves | 5.00% | ~4,083 |
-| Hazardous Heist | 5.00% | ~2,665 |
-| Prankster | 4.00% | ~3,267 |
+| First F#@!ing Day | 46.00% | ~37,573 |
+| To The Nines | 42.00% | ~34,306 |
+| Optimized | 37.00% | ~30,222 |
+| Performance Review | 36.00% | ~29,405 |
+| Making a Name | 35.00% | ~28,588 |
+| Tune Up | 34.00% | ~27,772 |
+| Landlord | 33.00% | ~26,955 |
+| Wet Work | 32.00% | ~26,138 |
+| The Side Job | 31.00% | ~25,321 |
+| Wrecking Ball | 28.00% | ~22,871 |
+| Food for Thought | 27.00% | ~22,054 |
+| Finders Keepers | 26.00% | ~21,237 |
+| A Young Empire | 26.00% | ~21,237 |
+| Work Ethic | 23.00% | ~18,787 |
+| Picking Fights | 20.00% | ~16,336 |
+| Power Players | 19.00% | ~15,519 |
+| Quality Time | 18.00% | ~14,703 |
+| Showdown | 17.00% | ~13,886 |
+| Et tu? | 17.00% | ~13,886 |
+| Took It to The Limit | 17.00% | ~13,886 |
+| Kitted Out | 14.00% | ~11,435 |
+| Masters of Santo Ileso | 12.00% | ~9,802 |
+| Hijacked | 11.00% | ~8,985 |
+| The Spins | 10.00% | ~8,168 |
+| The Mechanic | 10.00% | ~8,168 |
+| Closet Space | 8.00% | ~6,534 |
+| We could go home, or… | 7.00% | ~5,718 |
+| Challenge Accepted | 7.00% | ~5,718 |
+| A Golden Age | 7.00% | ~5,718 |
+| Producer Credit | 7.00% | ~3,732 |
+| Chaos Tamer | 6.00% | ~4,901 |
+| Face Off | 6.00% | ~3,199 |
+| The Professional | 5.00% | ~4,084 |
+| Untouchable | 5.00% | ~4,084 |
+| Free Refills | 5.00% | ~4,084 |
+| Neighborly | 5.00% | ~4,084 |
+| Prankster | 5.00% | ~4,084 |
+| Smooth Moves | 5.00% | ~4,084 |
+| Hazardous Heist | 5.00% | ~2,666 |
 | Tourist | 4.00% | ~3,267 |
 | Shopping Spree | 3.00% | ~2,450 |
 | Always Be Hustling | 3.00% | ~2,450 |
 | Community Outreach | 3.00% | ~2,450 |
-| Bonus Round | 2.00% | ~1,633 |
+| Bonus Round | 2.00% | ~1,634 |
 | It's a Bird! | 1.00% | ~817 |
 | The Collector | 1.00% | ~817 |
 | All Mine | 1.00% | ~817 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~163 |
 | Fiesta Time | 0.20% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,666 (Ranked 96)  
+Progressed: 81,681 (Ranked 96)  
 Completed: 54 (0.07%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,15 +291,15 @@ Completed: 54 (0.07%) (Ranked 308)
 | 2023-12-04 | 81,359 | 54 |
 | 2023-12-05 | 81,513 | 54 |
 | 2023-12-06 | 81,664 | 54 |
-| 2023-12-07 | 81,666 | 54 |
+| 2023-12-07 | 81,681 | 54 |
 ## Awards
 Max (Extremely Fun): 1,079  (Ranked 147)  
-Sum: 8,761 (Ranked 98)  
+Sum: 8,762 (Ranked 98)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,079 |
-| This game has Quickly Understood Controls | 1,048 |
+| This game has Quickly Understood Controls | 1,049 |
 | This game is Great for Beginners | 1,021 |
 | This game is Highly Recommended | 1,019 |
 | This game has Diverse Characters | 1,010 |
@@ -542,3 +542,4 @@ Diff (max vs sum): 49
 | 2023-12-03 | 3.79 | - | 1,079 | 8,757 |
 | 2023-12-05 | 3.79 | - | 1,079 | 8,760 |
 | 2023-12-06 | 3.79 | - | 1,079 | 8,761 |
+| 2023-12-07 | 3.79 | - | 1,079 | 8,762 |

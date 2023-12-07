@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 316)  
+Rating: 4.65 (Ranked 315)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -153,6 +153,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.60% | ~94 |
 | Ancient | 0.50% | ~78 |
 | Glorious Difficulty | 0.50% | ~78 |
+| Magnificent Difficulty | 0.50% | ~78 |
 | Hatti | 0.50% | ~78 |
 | Persia | 0.50% | ~78 |
 | Pantheon of Gods | 0.50% | ~78 |
@@ -166,7 +167,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 1) | 0.40% | ~63 |
 | Silver Victory (Carthage 1) | 0.40% | ~63 |
 | Carthage - Riches and Influence | 0.40% | ~63 |
-| Magnificent Difficulty | 0.40% | ~63 |
 | The Eternal Treaty | 0.40% | ~63 |
 | Run, Pheidippides, Run! | 0.40% | ~63 |
 | Nenikekamen | 0.40% | ~63 |
@@ -583,7 +583,7 @@ Completed: 5 (0.03%) (Ranked 332)
 | 2023-12-07 | 15,663 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
-Sum: 1,892 (Ranked 220)  
+Sum: 1,894 (Ranked 220)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -592,10 +592,10 @@ Diff (max vs sum): 54
 | This game is Extremely Fun | 219 |
 | This game is Highly Recommended | 219 |
 | This game is Educational | 212 |
-| This game has Challenging Combat | 205 |
+| This game has Challenging Combat | 206 |
 | This game has Amazing Characters | 198 |
+| This game has Amazing Storytelling | 196 |
 | This game has Quickly Understood Controls | 195 |
-| This game has Amazing Storytelling | 195 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
 | This game has Competitive Players | 59 |
@@ -774,3 +774,4 @@ Diff (max vs sum): 54
 | 2023-12-04 | 4.65 | - | 228 | 1,888 |
 | 2023-12-05 | 4.65 | - | 228 | 1,889 |
 | 2023-12-06 | 4.65 | - | 228 | 1,892 |
+| 2023-12-07 | 4.65 | - | 228 | 1,894 |
