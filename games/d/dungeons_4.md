@@ -54,10 +54,10 @@
 | Rubble and Ashes | 16.00% | ~85 |
 | Lavalumps on Ice! | 15.00% | ~80 |
 | The Last Stand - This Time For Real! | 15.00% | ~80 |
+| To the Max! | 13.00% | ~69 |
 | To Infinity And Beyond! | 13.00% | ~69 |
 | Mirror, Mirror | 12.00% | ~64 |
 | Untouchable | 12.00% | ~64 |
-| To the Max! | 12.00% | ~64 |
 | Evilification | 11.00% | ~58 |
 | Laser Eyes Are So Useless | 10.00% | ~53 |
 | Heal Heal Blessing | 9.00% | ~48 |

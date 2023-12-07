@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5179,10 +5179,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6588,
       "NumberOfAwardsMax": 2668
+    },
+    {
+      "Time": "2023-12-07T00:02:59.0496606+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6595,
+      "NumberOfAwardsMax": 2668
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6588,
+  "NumberOfAwards": 6595,
   "NumberOfAwardsMax": 2668,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5238,7 +5244,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 395
+      "Count": 402
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5253,9 +5259,9 @@
       "Count": 407
     }
   ],
-  "EOS_Progressed": 236074,
+  "EOS_Progressed": 236098,
   "EOS_Completed": 564,
-  "EOS_NewPlayers": 5380,
+  "EOS_NewPlayers": 5395,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21723,6 +21729,11 @@
       "Time": "2023-12-06T23:08:51.9521338+00:00",
       "NumProgressed": 236074,
       "NumCompleted": 564
+    },
+    {
+      "Time": "2023-12-07T00:08:45.3644988+00:00",
+      "NumProgressed": 236098,
+      "NumCompleted": 564
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21901,9 +21912,9 @@
       "ID": "Meet_Mudtooth",
       "SetID": "bkp3b1a",
       "Name": "Tall Tales",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 708
     },
     {
       "ID": "Meet_Nimue",
@@ -22039,7 +22050,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "Obtain_Traits_B",
@@ -22069,9 +22080,9 @@
       "ID": "Upgrade_Boss_Weapon_A",
       "SetID": "bkp3b1a",
       "Name": "The Ultimate Weapon",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 472
+      "UsersEstimate": 708
     },
     {
       "ID": "Upgrade_Boss_Weapon_B",
@@ -22143,7 +22154,7 @@
       "Name": "Succession",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -22167,29 +22178,29 @@
       "Name": "You Shall Pass",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 236074,
+      "Progressed": 236098,
       "Completed": 564
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 15239,
+      "Progressed": 15263,
       "Completed": 201
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-06T23:03:21.7026007+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:08:51.9521334+00:00",
+  "LastChanged": "2023-12-07T00:02:59.0496605+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:08:45.3644981+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:03:21.7026012+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:08:51.9522515+00:00"
+  "LastUpdate_Ratings": "2023-12-07T00:02:59.049661+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:08:45.3645905+00:00"
 }

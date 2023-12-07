@@ -4,7 +4,7 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -149,9 +149,9 @@
       "ID": "ACH_EXOTIC-ARSENAL",
       "SetID": "6lg1p1e",
       "Name": "Exotic Arsenal",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIRST-PAYCHECK",
@@ -213,9 +213,9 @@
       "ID": "ACH_LITTLE-ARSONIST",
       "SetID": "6lg1p1e",
       "Name": "Little Arsonist",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LOREMASTER",
@@ -371,8 +371,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:05:02.447676+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:04:14.5371057+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.6928375+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:00:51.7039899+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:05:02.4477075+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:59:48.0800985+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:04:14.5371254+00:00"
 }

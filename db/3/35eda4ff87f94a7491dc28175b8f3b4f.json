@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12598,
+  "EOS_Progressed": 12603,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 2162,
+  "EOS_NewPlayers": 2150,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3409,6 +3409,11 @@
       "Time": "2023-12-06T23:05:18.2869812+00:00",
       "NumProgressed": 12598,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-07T00:04:26.1636101+00:00",
+      "NumProgressed": 12603,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -3491,16 +3496,16 @@
       "ID": "WATCH_ALL_SCENES_1_5",
       "SetID": "24fdn9j",
       "Name": "Investigator",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 252
+      "UsersEstimate": 126
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 12598,
+      "Progressed": 12603,
       "Completed": 43
     }
   ],
@@ -3508,8 +3513,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-06T14:00:20.2196206+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:05:18.2869807+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:04:26.1636097+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:25.9154897+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:59:54.5126104+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:05:18.2870151+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:59:07.6913014+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:04:26.1636307+00:00"
 }

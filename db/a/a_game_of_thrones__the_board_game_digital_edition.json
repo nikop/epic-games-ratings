@@ -6,7 +6,7 @@
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
@@ -1332,11 +1332,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29817,
+  "EOS_Progressed": 29819,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:51.5611313+00:00",
@@ -26007,6 +26007,11 @@
       "Time": "2023-12-06T23:09:17.8170325+00:00",
       "NumProgressed": 29817,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-07T00:09:05.0038419+00:00",
+      "NumProgressed": 29819,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -26090,7 +26095,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "1025",
@@ -26130,7 +26135,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "1030",
@@ -26138,7 +26143,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5963
+      "UsersEstimate": 5964
     },
     {
       "ID": "1031",
@@ -26146,7 +26151,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4174
+      "UsersEstimate": 4175
     },
     {
       "ID": "1032",
@@ -26154,7 +26159,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11927
+      "UsersEstimate": 11928
     },
     {
       "ID": "1033",
@@ -26186,22 +26191,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29817,
+      "Progressed": 29819,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:09:17.8170322+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:09:05.0038415+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.8181889+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:58:57.7115463+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:09:17.8171305+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:58:28.3022877+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:09:05.0039706+00:00"
 }

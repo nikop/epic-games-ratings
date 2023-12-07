@@ -2,8 +2,8 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 857,
-  "Ranking_Popularity": 437,
+  "Ranking_Rating": 858,
+  "Ranking_Popularity": 438,
   "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 371,
@@ -868,9 +868,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 355527,
+  "EOS_Progressed": 355530,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 965,
+  "EOS_NewPlayers": 962,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27068,6 +27068,11 @@
       "Time": "2023-12-06T23:06:59.9803609+00:00",
       "NumProgressed": 355527,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-07T00:05:41.9150703+00:00",
+      "NumProgressed": 355530,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -27095,7 +27100,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42663
+      "UsersEstimate": 42664
     },
     {
       "ID": "ach004",
@@ -27135,7 +27140,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42663
+      "UsersEstimate": 42664
     },
     {
       "ID": "ach009",
@@ -27183,7 +27188,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53329
+      "UsersEstimate": 53330
     },
     {
       "ID": "ach015",
@@ -27287,7 +27292,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163542
+      "UsersEstimate": 163544
     },
     {
       "ID": "ach028",
@@ -27607,7 +27612,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56884
+      "UsersEstimate": 56885
     },
     {
       "ID": "ach069",
@@ -27718,7 +27723,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 355527,
+      "Progressed": 355530,
       "Completed": 7
     }
   ],
@@ -27726,8 +27731,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-06T22:57:07.502581+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:06:59.9803605+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:05:41.9150699+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:09.0169735+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:57:07.5025817+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:06:59.9805102+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:57:09.9271115+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:05:41.9152285+00:00"
 }

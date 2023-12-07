@@ -9,7 +9,7 @@ Rating: 4.75 (Ranked 147)
 | Regicide | 0.80% | ~122 |
 | First of Many | 0.70% | ~1,653 |
 | Master of the Dark Arts | 0.70% | ~107 |
-| Not Your Average Trait | 0.60% | ~1,416 |
+| Not Your Average Trait | 0.60% | ~1,417 |
 | Expanding Horizons | 0.50% | ~1,180 |
 | Gleaming the Cube | 0.50% | ~1,180 |
 | Not So Special Now | 0.50% | ~1,180 |
@@ -35,6 +35,7 @@ Rating: 4.75 (Ranked 147)
 | The God Gambit | 0.30% | ~708 |
 | Dark Designs | 0.30% | ~708 |
 | Madman's Paradise | 0.30% | ~708 |
+| Tall Tales | 0.30% | ~708 |
 | Bad Moon Rising | 0.30% | ~708 |
 | Was This Supposed To Happen? | 0.30% | ~708 |
 | Strapped | 0.30% | ~708 |
@@ -43,25 +44,24 @@ Rating: 4.75 (Ranked 147)
 | Scrap Collector | 0.30% | ~708 |
 | Scrap Hoarder | 0.30% | ~708 |
 | All These Traits� | 0.30% | ~708 |
+| The Ultimate Weapon | 0.30% | ~708 |
 | Crafty | 0.20% | ~472 |
 | Only Human | 0.20% | ~472 |
 | Red Room | 0.20% | ~472 |
 | The Agenda | 0.20% | ~472 |
-| Tall Tales | 0.20% | ~472 |
 | The Trigger | 0.20% | ~472 |
 | Cutting Edge | 0.20% | ~472 |
 | The Collector | 0.20% | ~472 |
 | Proving Grounds | 0.20% | ~472 |
 | Carnage in C-Minor | 0.20% | ~472 |
-| The Ultimate Weapon | 0.20% | ~472 |
 | No One Should Have All That Power | 0.20% | ~472 |
 | Maxed Out! | 0.20% | ~472 |
 | Transmutate | 0.20% | ~472 |
-| Succession | 0.20% | ~30 |
-| You Shall Pass | 0.20% | ~30 |
+| Succession | 0.20% | ~31 |
+| You Shall Pass | 0.20% | ~31 |
 | A Foul Feast | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,074 (Ranked 68)  
+Progressed: 236,098 (Ranked 68)  
 Completed: 564 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,9 +205,10 @@ Completed: 564 (0.24%) (Ranked 252)
 | 2023-12-04 | 234,896 | 558 |
 | 2023-12-05 | 235,528 | 561 |
 | 2023-12-06 | 236,074 | 564 |
+| 2023-12-07 | 236,098 | 564 |
 ## Awards
 Max (Great Boss Battles): 2,668  (Ranked 102)  
-Sum: 6,588 (Ranked 127)  
+Sum: 6,595 (Ranked 127)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -218,7 +219,7 @@ Diff (max vs sum): -25
 | This game is Extremely Fun | 408 |
 | This game is Relaxing | 407 |
 | This game has Amazing Storytelling | 406 |
-| This game has Amazing Characters | 395 |
+| This game has Amazing Characters | 402 |
 | This game has Quickly Understood Controls | 394 |
 | This game has Unique Visuals | 340 |
 | This game has a Creative Community | 294 |
@@ -359,3 +360,4 @@ Diff (max vs sum): -25
 | 2023-12-04 | 4.75 | 2,623 | 6,481 |
 | 2023-12-05 | 4.75 | 2,649 | 6,547 |
 | 2023-12-06 | 4.75 | 2,668 | 6,588 |
+| 2023-12-07 | 4.75 | 2,668 | 6,595 |

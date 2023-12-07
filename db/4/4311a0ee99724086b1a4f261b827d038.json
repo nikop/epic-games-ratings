@@ -677,9 +677,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 236355,
+  "EOS_Progressed": 236361,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1499,
+  "EOS_NewPlayers": 1498,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16427,6 +16427,11 @@
       "Time": "2023-12-06T23:09:39.6062206+00:00",
       "NumProgressed": 236355,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T00:09:21.7974285+00:00",
+      "NumProgressed": 236361,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -16495,7 +16500,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49635
+      "UsersEstimate": 49636
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -16575,7 +16580,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -16583,7 +16588,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -16623,7 +16628,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33090
+      "UsersEstimate": 33091
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -16671,7 +16676,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -16679,7 +16684,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -16695,7 +16700,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59089
+      "UsersEstimate": 59090
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -16710,7 +16715,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 236355,
+      "Progressed": 236361,
       "Completed": 0
     }
   ],
@@ -16718,8 +16723,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-05T23:57:32.1376556+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:09:39.6062201+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:09:21.7974282+00:00",
   "LastUpdate_AppInfo": "2023-12-01T02:57:03.9317243+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:58:26.7081629+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:09:39.6063482+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:58:06.0343705+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:09:21.7975235+00:00"
 }

@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4481,
+  "EOS_Progressed": 4482,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -8165,6 +8165,11 @@
       "Time": "2023-12-06T22:05:03.763913+00:00",
       "NumProgressed": 4481,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-07T00:04:45.3824638+00:00",
+      "NumProgressed": 4482,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8176,7 +8181,7 @@
       "Name": "Start with a bang!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "Ach002",
@@ -8224,7 +8229,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "Ach008",
@@ -8336,7 +8341,7 @@
       "Name": "I have to read these things?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "Ach022",
@@ -8352,7 +8357,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "Ach024",
@@ -8424,7 +8429,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "Ach033",
@@ -8743,13 +8748,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4481,
+      "Progressed": 4482,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 3002,
+      "Progressed": 3003,
       "Completed": 1930
     }
   ],
@@ -8757,8 +8762,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:05:44.1219068+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:04:45.382463+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:57:59.7328289+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:05:44.1220205+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:57:46.9200718+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:04:45.3825738+00:00"
 }

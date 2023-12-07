@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4358,
+  "EOS_Progressed": 4359,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -11030,6 +11030,11 @@
       "Time": "2023-12-06T22:08:08.7086987+00:00",
       "NumProgressed": 4358,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-07T00:08:07.4118906+00:00",
+      "NumProgressed": 4359,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -11113,7 +11118,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "ach_food_completed",
@@ -11137,7 +11142,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3268
+      "UsersEstimate": 3269
     },
     {
       "ID": "ach_magic_wand",
@@ -11145,7 +11150,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "ach_no_boosters",
@@ -11161,14 +11166,14 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4358,
+      "Progressed": 4359,
       "Completed": 36
     }
   ],
@@ -11176,8 +11181,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:08:01.2557585+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:08:07.4118901+00:00",
   "LastUpdate_AppInfo": "2023-12-01T21:56:53.9270768+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:00:44.8965773+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:08:01.2558434+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:59:42.7543742+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:08:07.4119524+00:00"
 }

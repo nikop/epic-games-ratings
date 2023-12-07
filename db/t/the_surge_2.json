@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -3462,9 +3462,9 @@
       "ID": "ACHV_23",
       "SetID": "8p5mlmc",
       "Name": "HEADSHOT!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 843
+      "UsersEstimate": 865
     },
     {
       "ID": "ACHV_24",
@@ -3751,8 +3751,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:08:05.2719663+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:08:10.555823+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:22.233164+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:01:13.5713312+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:08:05.2720271+00:00"
+  "LastUpdate_Ratings": "2023-12-07T00:00:03.3022106+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:08:10.5558848+00:00"
 }

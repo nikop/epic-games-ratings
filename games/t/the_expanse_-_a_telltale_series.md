@@ -14,8 +14,8 @@ Rating: 4.53 (Ranked 543)
 | Celebrations are in Order | 7.00% | ~1,116 |
 | Impossible Objects | 7.00% | ~1,116 |
 | Zen Master | 7.00% | ~133 |
-| Stogie for Fogey | 6.00% | ~956 |
-| Spore Taste | 6.00% | ~956 |
+| Stogie for Fogey | 6.00% | ~957 |
+| Spore Taste | 6.00% | ~957 |
 | Safe Cracker | 6.00% | ~114 |
 | Madame Undersecretary | 6.00% | ~114 |
 | Drug Gifter | 5.00% | ~797 |
@@ -28,8 +28,8 @@ Rating: 4.53 (Ranked 543)
 | Master Negotiator | 4.00% | ~76 |
 | Doctor Approved | 3.00% | ~478 |
 | Bottoms up! | 3.00% | ~478 |
+| Miraculous Maya | 3.00% | ~478 |
 | Data Logger | 2.00% | ~319 |
-| Miraculous Maya | 2.00% | ~319 |
 | Data Master | 2.00% | ~319 |
 | Brother's Reaper | 1.00% | ~159 |
 | No Belter Left Behind | 1.00% | ~159 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 543)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,941 (Ranked 151)  
+Progressed: 15,943 (Ranked 151)  
 Completed: 41 (0.26%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 41 (0.26%) (Ranked 250)
 | 2023-12-04 | 15,899 | 40 |
 | 2023-12-05 | 15,919 | 41 |
 | 2023-12-06 | 15,941 | 41 |
+| 2023-12-07 | 15,943 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

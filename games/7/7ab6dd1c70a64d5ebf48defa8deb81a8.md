@@ -33,11 +33,11 @@
 | Flawless Victory | 2.00% | ~5 |
 | All There Is | 2.00% | ~5 |
 | False God | 2.00% | ~5 |
+| All That Gold | 2.00% | ~5 |
 | Miner | 2.00% | ~5 |
 | A Queen's Tale | 2.00% | ~5 |
 | Summiter | 2.00% | ~5 |
-| All That Gold | 1.00% | ~2 |
-| Forgemaster | 0.80% | ~2 |
+| Forgemaster | 1.00% | ~2 |
 | Shardbearer | 0.80% | ~2 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

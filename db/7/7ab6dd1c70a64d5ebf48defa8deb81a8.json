@@ -1079,7 +1079,7 @@
       "ID": "ACH_11",
       "SetID": "efe2lj",
       "Name": "Forgemaster",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -1223,9 +1223,9 @@
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_30",
@@ -1294,8 +1294,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:09:42.5645152+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:09:24.1421187+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:12.3755943+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:57:12.7578002+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:09:42.5645472+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:57:13.5718805+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:09:24.1421402+00:00"
 }

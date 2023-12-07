@@ -6,21 +6,21 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 88.00% | ~631,557 |
+| Escaped Tartarus | 88.00% | ~631,558 |
 | Escaped Asphodel | 79.00% | ~566,966 |
 | Arms Collector | 70.00% | ~502,375 |
-| Friends in High Places | 67.00% | ~480,844 |
-| Escaped Elysium | 66.00% | ~473,667 |
-| Chthonic Colleagues | 62.00% | ~444,960 |
+| Friends in High Places | 67.00% | ~480,845 |
+| Escaped Elysium | 66.00% | ~473,668 |
+| Chthonic Colleagues | 62.00% | ~444,961 |
 | Is There No Escape? | 52.00% | ~373,193 |
-| Death Dealer | 45.00% | ~322,955 |
+| Death Dealer | 45.00% | ~322,956 |
 | Skelly Slayer | 42.00% | ~301,425 |
-| Well Stocked | 40.00% | ~287,071 |
+| Well Stocked | 40.00% | ~287,072 |
 | Back to Work | 38.00% | ~272,718 |
 | Day-or-Night Trader | 37.00% | ~265,541 |
 | Blessed by the Gods | 37.00% | ~265,541 |
 | Urge to Sing | 36.00% | ~258,364 |
-| Blood Bound | 35.00% | ~251,187 |
+| Blood Bound | 35.00% | ~251,188 |
 | Three-Headed Boy | 32.00% | ~229,657 |
 | River Denizens | 28.00% | ~200,950 |
 | Grown Close | 28.00% | ~200,950 |
@@ -31,7 +31,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Master of Arms | 23.00% | ~165,066 |
 | To Charon's Credit | 22.00% | ~157,889 |
 | Rare Collectible | 22.00% | ~157,889 |
-| Weapon of Fate | 21.00% | ~150,712 |
+| Weapon of Fate | 21.00% | ~150,713 |
 | Something From Everyone | 19.00% | ~136,359 |
 | Hold the Onions | 18.00% | ~129,182 |
 | Well Versed | 17.00% | ~122,005 |
@@ -49,14 +49,14 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thanks, But No Thanks | 9.00% | ~64,591 |
 | Infernal Arms | 9.00% | ~64,591 |
 | Divided by Death | 8.00% | ~57,414 |
-| Harsh Conditions | 7.00% | ~50,237 |
-| One for the Ages | 7.00% | ~50,237 |
+| Harsh Conditions | 7.00% | ~50,238 |
+| One for the Ages | 7.00% | ~50,238 |
 | Complete Set | 6.00% | ~43,061 |
 | Skelly's Last Lamentations | 6.00% | ~43,061 |
 | Thorn of Thanatos | 4.00% | ~28,707 |
 | Friends Forever | 4.00% | ~28,707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,678 (Ranked 23)  
+Progressed: 717,679 (Ranked 23)  
 Completed: 6,520 (0.91%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,9 +287,10 @@ Completed: 6,520 (0.91%) (Ranked 175)
 | 2023-12-04 | 717,439 | 6,518 |
 | 2023-12-05 | 717,543 | 6,519 |
 | 2023-12-06 | 717,678 | 6,520 |
+| 2023-12-07 | 717,679 | 6,520 |
 ## Awards
 Max (Character Customization): 3,411  (Ranked 93)  
-Sum: 8,325 (Ranked 103)  
+Sum: 8,326 (Ranked 103)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
@@ -300,7 +301,7 @@ Diff (max vs sum): -10
 | This game has Amazing Storytelling | 264 |
 | This game is Extremely Fun | 262 |
 | This game has Amazing Characters | 258 |
-| This game has Diverse Characters | 255 |
+| This game has Diverse Characters | 256 |
 | This game has Quickly Understood Controls | 248 |
 | This game is Relaxing | 244 |
 | This game has Unique Visuals | 237 |
@@ -607,4 +608,4 @@ Diff (max vs sum): -10
 | 2023-12-03 | 4.92 | - | 3,404 | 8,303 |
 | 2023-12-04 | 4.92 | - | 3,407 | 8,315 |
 | 2023-12-05 | 4.92 | - | 3,410 | 8,321 |
-| 2023-12-06 | 4.92 | - | 3,411 | 8,325 |
+| 2023-12-06 | 4.92 | - | 3,411 | 8,326 |

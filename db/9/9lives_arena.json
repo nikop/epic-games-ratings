@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "13dm16l",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:03:10.2913196+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:02.6406313+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:59:31.5939716+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:03:35.3616487+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:58:51.6866009+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:03:10.291327+00:00"
 }

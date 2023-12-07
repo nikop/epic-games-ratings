@@ -5,13 +5,13 @@ Rating: 4.32 (Ranked 828)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire safety | 56.00% | ~9,095 |
+| Fire safety | 56.00% | ~9,096 |
 | First fall | 36.00% | ~5,847 |
 | Don't play with fire, kids | 27.00% | ~4,385 |
 | First steps | 27.00% | ~4,385 |
 | 1.000.000 Scovilles | 19.00% | ~3,086 |
-| An Old Timer | 18.00% | ~2,923 |
-| I'll give this one a 0 star rating | 18.00% | ~2,923 |
+| An Old Timer | 18.00% | ~2,924 |
+| I'll give this one a 0 star rating | 18.00% | ~2,924 |
 | Hands up! | 16.00% | ~2,599 |
 | Feeling Better | 16.00% | ~2,599 |
 | Unfortunate Plumber | 15.00% | ~2,436 |
@@ -19,7 +19,7 @@ Rating: 4.32 (Ranked 828)
 | A Good Read | 11.00% | ~1,787 |
 | Boot for an eye | 10.00% | ~1,624 |
 | Pacifist Run | 7.00% | ~1,137 |
-| Uh, Which Key is the Right One? | 6.00% | ~974 |
+| Uh, Which Key is the Right One? | 6.00% | ~975 |
 | Golden fingers | 5.00% | ~812 |
 | OMG I FOUND A BUG | 5.00% | ~812 |
 | Spiky chin | 4.00% | ~650 |
@@ -73,7 +73,7 @@ Rating: 4.32 (Ranked 828)
 | Killer | 0.00% | ~0 |
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,241 (Ranked 150)  
+Progressed: 16,242 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-11-23 | 16,239 | 0 |
 | 2023-11-24 | 16,240 | 0 |
 | 2023-11-25 | 16,241 | 0 |
+| 2023-12-07 | 16,242 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

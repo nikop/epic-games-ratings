@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -680,9 +680,9 @@
       "ID": "MERCENARY",
       "SetID": "40o4f14",
       "Name": "Mercenary",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "MINES",
@@ -752,9 +752,9 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "SOUL",
@@ -799,8 +799,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:04:53.7469205+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:04:08.0463617+00:00",
   "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:58:33.7498914+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:04:53.7469424+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:58:11.0605488+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:04:08.0463827+00:00"
 }

@@ -7,19 +7,19 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 40.00% | ~26,896 |
-| Landlord | 33.00% | ~22,189 |
-| Bannerlord | 24.00% | ~16,137 |
-| Horde breaker | 24.00% | ~16,137 |
-| Lawmaker | 24.00% | ~16,137 |
-| Trained | 24.00% | ~16,137 |
-| The king is pleased | 19.00% | ~12,775 |
+| Landlord | 33.00% | ~22,190 |
+| Bannerlord | 24.00% | ~16,138 |
+| Horde breaker | 24.00% | ~16,138 |
+| Lawmaker | 24.00% | ~16,138 |
+| Trained | 24.00% | ~16,138 |
+| The king is pleased | 19.00% | ~12,776 |
 | King Solomon | 18.00% | ~12,103 |
-| Apple of my eye | 16.00% | ~10,758 |
-| I can do it | 16.00% | ~10,758 |
-| This Is Our Land | 14.00% | ~9,413 |
+| Apple of my eye | 16.00% | ~10,759 |
+| I can do it | 16.00% | ~10,759 |
+| This Is Our Land | 14.00% | ~9,414 |
 | Against all odds | 13.00% | ~8,741 |
 | God of the Arena | 13.00% | ~8,741 |
-| Swordbearer | 11.00% | ~7,396 |
+| Swordbearer | 11.00% | ~7,397 |
 | Duelist | 10.00% | ~6,724 |
 | Dynasty | 10.00% | ~6,724 |
 | I spit on your grave | 10.00% | ~6,724 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,239 (Ranked 104)  
+Progressed: 67,241 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,9 +289,10 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-04 | 67,093 | 0 |
 | 2023-12-05 | 67,170 | 0 |
 | 2023-12-06 | 67,239 | 0 |
+| 2023-12-07 | 67,241 | 0 |
 ## Awards
 Max (Character Customization): 7,511  (Ranked 53)  
-Sum: 15,642 (Ranked 68)  
+Sum: 15,644 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -303,7 +304,7 @@ Diff (max vs sum): -15
 | This game has Amazing Storytelling | 887 |
 | This game has Amazing Characters | 880 |
 | This game is Relaxing | 868 |
-| This game has Quickly Understood Controls | 850 |
+| This game has Quickly Understood Controls | 852 |
 | This game has a Creative Community | 654 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -635,4 +636,4 @@ Diff (max vs sum): -15
 | 2023-12-03 | 4.74 | - | 7,490 | 15,595 |
 | 2023-12-04 | 4.74 | - | 7,500 | 15,609 |
 | 2023-12-05 | 4.74 | - | 7,508 | 15,633 |
-| 2023-12-06 | 4.74 | - | 7,511 | 15,642 |
+| 2023-12-06 | 4.74 | - | 7,511 | 15,644 |

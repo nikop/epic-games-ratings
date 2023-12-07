@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -203,7 +203,7 @@
   "Tags": [],
   "EOS_Progressed": 7499,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5893,9 +5893,9 @@
       "ID": "NoMoreTotems",
       "SetID": "acc6ea0",
       "Name": "No More Totems",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 525
+      "UsersEstimate": 600
     },
     {
       "ID": "NotLikeTheOthers",
@@ -6022,8 +6022,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:09:32.2903476+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:09:16.1709317+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-06T23:00:18.3010089+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:09:32.2904052+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:59:24.3727125+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:09:16.1709735+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "5424c96246c54737aad95daa7fe724f8",
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
-  "Ranking_Rating": 992,
+  "Ranking_Rating": 991,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -315,7 +315,7 @@
   "Tags": [],
   "EOS_Progressed": 1770,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4910,8 +4910,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-06T17:58:25.3194639+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:08:24.7465368+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:08:24.9405853+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.2578191+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:58:33.3159768+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:08:24.7465873+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:58:10.7414003+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:08:24.9406386+00:00"
 }

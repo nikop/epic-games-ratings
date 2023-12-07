@@ -3,8 +3,8 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 33,
-  "Ranking_Popularity": 440,
-  "Ranking_PopularitySum": 489,
+  "Ranking_Popularity": 435,
+  "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 164,
@@ -191,23 +191,29 @@
       "Rating": 4.86,
       "NumberOfAwards": 48,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-12-06T23:59:08.8944133+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 51,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48,
-  "NumberOfAwardsMax": 48,
+  "NumberOfAwards": 51,
+  "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 48
+      "Count": 51
     }
   ],
-  "EOS_Progressed": 886,
+  "EOS_Progressed": 887,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2140,6 +2146,11 @@
       "Time": "2023-12-06T18:06:02.7545677+00:00",
       "NumProgressed": 886,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T00:05:44.3740474+00:00",
+      "NumProgressed": 887,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2496,7 +2507,7 @@
       "Name": "Team Spirit",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "TextAdventurer",
@@ -2623,16 +2634,16 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 886,
+      "Progressed": 887,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2023-12-05T18:59:22.7453339+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:07:03.0610142+00:00",
+  "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:05:44.3740468+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:59:56.1771718+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:07:03.0610702+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:59:08.8944136+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:05:44.3741049+00:00"
 }

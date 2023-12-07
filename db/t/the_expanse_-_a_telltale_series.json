@@ -253,7 +253,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15941,
+  "EOS_Progressed": 15943,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 2,
@@ -13208,6 +13208,11 @@
       "Time": "2023-12-06T23:07:24.8406705+00:00",
       "NumProgressed": 15941,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-07T00:06:00.5286155+00:00",
+      "NumProgressed": 15943,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13268,7 +13273,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "16",
@@ -13284,7 +13289,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "18",
@@ -13346,9 +13351,9 @@
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 319
+      "UsersEstimate": 478
     },
     {
       "ID": "25",
@@ -13499,13 +13504,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15941,
+      "Progressed": 15943,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1895,
+      "Progressed": 1897,
       "Completed": 832
     }
   ],
@@ -13513,8 +13518,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-06T23:07:24.8406702+00:00",
+  "LastChanged_Achievements": "2023-12-07T00:06:00.5286151+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:57:06.8119444+00:00",
-  "LastUpdate_Achievements": "2023-12-06T23:07:24.840748+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:57:09.4660375+00:00",
+  "LastUpdate_Achievements": "2023-12-07T00:06:00.5286798+00:00"
 }
