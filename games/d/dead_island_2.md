@@ -22,20 +22,20 @@ Rating: 4.54 (Ranked 533)
 | This is My Weapon | 2.00% | ~14,629 |
 | Welcome To Hell-A | 2.00% | ~14,629 |
 | One of Us | 2.00% | ~1,140 |
-| Making Your Mark | 1.00% | ~7,314 |
-| Anger Management | 1.00% | ~7,314 |
-| Perks of the Job | 1.00% | ~7,314 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,314 |
-| Slayer Squad | 1.00% | ~7,314 |
-| Can't Handle the Truth | 1.00% | ~7,314 |
-| Like Riding a Bike | 1.00% | ~7,314 |
-| Zombologist | 1.00% | ~7,314 |
-| Ooh, Shiny! | 1.00% | ~7,314 |
-| A Patton Emerges | 1.00% | ~7,314 |
-| Humanity Distilled | 1.00% | ~7,314 |
-| I Am the Resurrection | 1.00% | ~7,314 |
-| Max Headroom | 1.00% | ~7,314 |
-| Our True Nature | 1.00% | ~7,314 |
+| Making Your Mark | 1.00% | ~7,315 |
+| Anger Management | 1.00% | ~7,315 |
+| Perks of the Job | 1.00% | ~7,315 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,315 |
+| Slayer Squad | 1.00% | ~7,315 |
+| Can't Handle the Truth | 1.00% | ~7,315 |
+| Like Riding a Bike | 1.00% | ~7,315 |
+| Zombologist | 1.00% | ~7,315 |
+| Ooh, Shiny! | 1.00% | ~7,315 |
+| A Patton Emerges | 1.00% | ~7,315 |
+| Humanity Distilled | 1.00% | ~7,315 |
+| I Am the Resurrection | 1.00% | ~7,315 |
+| Max Headroom | 1.00% | ~7,315 |
+| Our True Nature | 1.00% | ~7,315 |
 | Down with the Sickness | 0.90% | ~6,583 |
 | Not Even My Final Form | 0.80% | ~5,852 |
 | Jumbo Keyring | 0.80% | ~5,852 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 533)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,443 (Ranked 21)  
-Completed: 2,465 (0.34%) (Ranked 233)  
+Progressed: 731,472 (Ranked 21)  
+Completed: 2,465 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -288,7 +288,7 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
-| 2023-12-07 | 731,443 | 2,465 |
+| 2023-12-07 | 731,472 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,994  (Ranked 49)  
 Sum: 12,278 (Ranked 82)  

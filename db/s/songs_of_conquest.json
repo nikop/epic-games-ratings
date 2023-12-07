@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -1608,6 +1608,11 @@
       "Time": "2023-12-07T20:04:25.5661532+00:00",
       "NumProgressed": 371,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T21:04:28.7917852+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1642,9 +1647,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 37
     },
     {
       "ID": "AttackCount",
@@ -1724,7 +1729,7 @@
       "Name": "Critical Hit",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Deepstrike",
@@ -1764,7 +1769,7 @@
       "Name": "Double Kill",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1810,9 +1815,9 @@
       "ID": "LothCampaign",
       "SetID": "71c0n9i",
       "Name": "Together For Her",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LothCampaignFinaleOnHard",
@@ -1898,9 +1903,9 @@
       "ID": "SorcerousSpree",
       "SetID": "71c0n9i",
       "Name": "Sorcerous Spree",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -1948,7 +1953,7 @@
       "Name": "Adept",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "WielderLevel2",
@@ -1962,9 +1967,9 @@
       "ID": "WielderLevel3",
       "SetID": "71c0n9i",
       "Name": "Master",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "WielderLevel4",
@@ -2051,15 +2056,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-07T20:04:25.5661527+00:00",
+  "LastChanged_Achievements": "2023-12-07T21:04:28.7917849+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-07T20:00:00.2496815+00:00",
-  "LastUpdate_Achievements": "2023-12-07T20:04:25.5662176+00:00"
+  "LastUpdate_Ratings": "2023-12-07T21:00:02.6203533+00:00",
+  "LastUpdate_Achievements": "2023-12-07T21:04:28.7918393+00:00"
 }

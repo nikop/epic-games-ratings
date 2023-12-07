@@ -5,17 +5,17 @@ Rating: 4.40 (Ranked 741)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~106,560 |
-| 74 miles East of Otaheité | 56.00% | ~74,592 |
-| Interesting... | 42.00% | ~55,944 |
-| The Everhart Expedition | 40.00% | ~53,280 |
-| Halfway there | 30.00% | ~39,960 |
-| The Vanishing of the Lady Shannon | 30.00% | ~39,960 |
-| Seaside Serenade | 30.00% | ~39,960 |
-| A brigantine, a brig and a barque | 28.00% | ~37,296 |
-| 506 East Hampden Avenue | 28.00% | ~37,296 |
-| Weekend at Walakea's | 27.00% | ~35,964 |
-| Quite a Show | 27.00% | ~35,964 |
+| A Family Heirloom | 80.00% | ~106,562 |
+| 74 miles East of Otaheité | 56.00% | ~74,593 |
+| Interesting... | 42.00% | ~55,945 |
+| The Everhart Expedition | 40.00% | ~53,281 |
+| Halfway there | 30.00% | ~39,961 |
+| The Vanishing of the Lady Shannon | 30.00% | ~39,961 |
+| Seaside Serenade | 30.00% | ~39,961 |
+| A brigantine, a brig and a barque | 28.00% | ~37,297 |
+| 506 East Hampden Avenue | 28.00% | ~37,297 |
+| Weekend at Walakea's | 27.00% | ~35,965 |
+| Quite a Show | 27.00% | ~35,965 |
 | Dark Water Ride | 25.00% | ~33,300 |
 | Sunken | 25.00% | ~33,300 |
 | Deep Cut | 24.00% | ~31,968 |
@@ -25,8 +25,8 @@ Rating: 4.40 (Ranked 741)
 | The only thing I have now | 17.00% | ~22,644 |
 | Naacalvision | 16.00% | ~21,312 |
 | Not Another Boring Slideshow! | 15.00% | ~19,980 |
+| The Norahnomicon | 10.00% | ~13,320 |
 | I'll make a note of that... | 9.00% | ~11,988 |
-| The Norahnomicon | 9.00% | ~11,988 |
 | Play it again, Norah | 7.00% | ~9,324 |
 | Underwater Royalty | 7.00% | ~9,324 |
 | Written in Stone | 6.00% | ~7,992 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 741)
 | Gently down the stream... | 1.00% | ~1,332 |
 | Meta-reference | 1.00% | ~1,332 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,200 (Ranked 82)  
+Progressed: 133,202 (Ranked 82)  
 Completed: 1,178 (0.88%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 1,178 (0.88%) (Ranked 177)
 | 2023-12-04 | 132,856 | 1,173 |
 | 2023-12-05 | 132,975 | 1,174 |
 | 2023-12-06 | 133,100 | 1,176 |
-| 2023-12-07 | 133,200 | 1,178 |
+| 2023-12-07 | 133,202 | 1,178 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4565,9 +4565,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77766,
+  "EOS_Progressed": 77768,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25285,6 +25285,11 @@
       "Time": "2023-12-07T20:04:32.6150553+00:00",
       "NumProgressed": 77766,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-07T21:04:35.8562862+00:00",
+      "NumProgressed": 77768,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25392,7 +25397,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13220
+      "UsersEstimate": 13221
     },
     {
       "ID": "CLAYFACE_1",
@@ -25416,7 +25421,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10887
+      "UsersEstimate": 10888
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -25520,7 +25525,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21774
+      "UsersEstimate": 21775
     },
     {
       "ID": "FREEZE_1_5",
@@ -25528,7 +25533,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15553
+      "UsersEstimate": 15554
     },
     {
       "ID": "FREEZE_2",
@@ -25544,7 +25549,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10887
+      "UsersEstimate": 10888
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -25600,7 +25605,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26440
+      "UsersEstimate": 26441
     },
     {
       "ID": "HARLEY_2",
@@ -25616,7 +25621,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15553
+      "UsersEstimate": 15554
     },
     {
       "ID": "HARLEY_4",
@@ -25640,7 +25645,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38883
+      "UsersEstimate": 38884
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25664,7 +25669,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15553
+      "UsersEstimate": 15554
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -25712,7 +25717,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15553
+      "UsersEstimate": 15554
     },
     {
       "ID": "MYSTERY_05",
@@ -25736,7 +25741,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10887
+      "UsersEstimate": 10888
     },
     {
       "ID": "MYSTERY_08",
@@ -25783,13 +25788,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77766,
+      "Progressed": 77768,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48046,
+      "Progressed": 48048,
       "Completed": 2675
     }
   ],
@@ -25797,8 +25802,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-07T08:00:03.7039518+00:00",
-  "LastChanged_Achievements": "2023-12-07T20:04:32.6150547+00:00",
+  "LastChanged_Achievements": "2023-12-07T21:04:35.8562859+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-07T19:59:30.3415366+00:00",
-  "LastUpdate_Achievements": "2023-12-07T20:04:32.6152075+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:59:32.4274031+00:00",
+  "LastUpdate_Achievements": "2023-12-07T21:04:35.8564629+00:00"
 }

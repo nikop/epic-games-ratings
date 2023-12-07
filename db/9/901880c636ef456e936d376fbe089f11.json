@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -588,9 +588,9 @@
       "ID": "ACH_BAD_MEMORY",
       "SetID": "8h8m55b",
       "Name": "Bad Memory",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_BAD_REVIEW",
@@ -604,9 +604,9 @@
       "ID": "ACH_BLOODISH_RED",
       "SetID": "8h8m55b",
       "Name": "Blood(ish) Red",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_BREW_FIRST_TIME",
@@ -660,9 +660,9 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
@@ -708,9 +708,9 @@
       "ID": "ACH_GHOSTED",
       "SetID": "8h8m55b",
       "Name": "Ghosted",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_GOOD_REVIEW",
@@ -812,9 +812,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -876,9 +876,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -900,9 +900,9 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_UNLOCK_ALL_DRINK",
@@ -979,8 +979,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-07T20:04:48.1447958+00:00",
+  "LastChanged_Achievements": "2023-12-07T21:04:50.7779962+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.1388786+00:00",
-  "LastUpdate_Ratings": "2023-12-07T20:02:32.1785639+00:00",
-  "LastUpdate_Achievements": "2023-12-07T20:04:48.1448497+00:00"
+  "LastUpdate_Ratings": "2023-12-07T21:02:32.7800463+00:00",
+  "LastUpdate_Achievements": "2023-12-07T21:04:50.7780443+00:00"
 }

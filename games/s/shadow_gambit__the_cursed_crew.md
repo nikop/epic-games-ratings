@@ -5,35 +5,35 @@ Rating: 4.79 (Ranked 98)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 65.00% | ~668 |
-| The Adventure Begins | 51.00% | ~524 |
+| A New Journey | 65.00% | ~669 |
+| The Adventure Begins | 50.00% | ~514 |
 | Swabbie | 39.00% | ~401 |
-| With Great Power… | 38.00% | ~390 |
-| This Belongs in a Museum | 34.00% | ~349 |
-| The Gambit Has Begun | 31.00% | ~318 |
+| With Great Power… | 38.00% | ~391 |
+| This Belongs in a Museum | 34.00% | ~350 |
+| The Gambit Has Begun | 31.00% | ~319 |
 | Somewhere Deep in the Lost Caribbean | 28.00% | ~288 |
 | Powder Monkey | 28.00% | ~288 |
-| Mirror Mirror on the Wall | 27.00% | ~277 |
+| Mirror Mirror on the Wall | 27.00% | ~278 |
 | Pirates Assemble! | 25.00% | ~257 |
 | Buccaneer | 22.00% | ~226 |
 | Fishy Fish | 21.00% | ~216 |
-| All Good Things | 19.00% | ~195 |
-| Seadog | 16.00% | ~164 |
-| Persistent Parasite | 16.00% | ~164 |
+| All Good Things | 19.00% | ~196 |
+| Seadog | 16.00% | ~165 |
+| Persistent Parasite | 16.00% | ~165 |
 | Jaded Judge | 12.00% | ~123 |
 | Rustic Recipe | 11.00% | ~113 |
 | Privateer | 10.00% | ~103 |
 | Tobacco Travesty | 10.00% | ~103 |
 | Accursed Artifacts | 10.00% | ~103 |
-| Lyrical Longing | 9.00% | ~92 |
+| Lyrical Longing | 9.00% | ~93 |
 | Corsair | 6.00% | ~62 |
 | Fully Decked | 6.00% | ~62 |
 | Freebooter | 4.00% | ~41 |
 | Marauder | 4.00% | ~41 |
-| Welcome Back Jester | 4.00% | ~41 |
+| Welcome Back Jester | 3.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,027 (Ranked 266)  
-Completed: 32 (3.12%) (Ranked 101)  
+Progressed: 1,029 (Ranked 266)  
+Completed: 32 (3.11%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -151,7 +151,7 @@ Completed: 32 (3.12%) (Ranked 101)
 | 2023-12-04 | 1,000 | 31 |
 | 2023-12-05 | 1,004 | 32 |
 | 2023-12-06 | 1,014 | 32 |
-| 2023-12-07 | 1,027 | 32 |
+| 2023-12-07 | 1,029 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

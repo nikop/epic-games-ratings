@@ -637,9 +637,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 3985,
+  "EOS_Progressed": 3986,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8472,6 +8472,11 @@
       "Time": "2023-12-07T12:08:06.7315711+00:00",
       "NumProgressed": 3985,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-07T21:08:06.226433+00:00",
+      "NumProgressed": 3986,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8483,7 +8488,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -8539,7 +8544,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -8643,7 +8648,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -8675,7 +8680,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -8691,7 +8696,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8715,7 +8720,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -8723,7 +8728,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -8731,7 +8736,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8819,7 +8824,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9050,13 +9055,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3936,
+      "Progressed": 3937,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3985,
+      "Progressed": 3986,
       "Completed": 11
     }
   ],
@@ -9064,8 +9069,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-07T15:59:27.2603128+00:00",
-  "LastChanged_Achievements": "2023-12-07T20:07:55.011985+00:00",
+  "LastChanged_Achievements": "2023-12-07T21:08:06.2264325+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.4601542+00:00",
-  "LastUpdate_Ratings": "2023-12-07T19:59:30.0388919+00:00",
-  "LastUpdate_Achievements": "2023-12-07T20:07:55.0120677+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:59:32.0784555+00:00",
+  "LastUpdate_Achievements": "2023-12-07T21:08:06.2265321+00:00"
 }

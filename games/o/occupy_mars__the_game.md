@@ -5,17 +5,17 @@ Rating: 4.05 (Ranked 993)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 42.00% | ~744 |
-| Fear my botany powers, Mars | 33.00% | ~584 |
-| Electrician | 33.00% | ~584 |
-| Zero Waste | 30.00% | ~531 |
-| Occupy Mars! | 30.00% | ~531 |
-| Bob The Builder | 30.00% | ~531 |
+| I don't feel so good | 42.00% | ~745 |
+| Fear my botany powers, Mars | 33.00% | ~585 |
+| Electrician | 33.00% | ~585 |
+| Zero Waste | 30.00% | ~532 |
+| Occupy Mars! | 30.00% | ~532 |
+| Bob The Builder | 30.00% | ~532 |
 | I am the greatest botanist on this planet. | 29.00% | ~514 |
-| Gardener | 26.00% | ~460 |
-| Miner | 26.00% | ~460 |
-| Houston we have a problem | 23.00% | ~407 |
-| Detective | 20.00% | ~354 |
+| Gardener | 26.00% | ~461 |
+| Miner | 26.00% | ~461 |
+| Houston we have a problem | 23.00% | ~408 |
+| Detective | 20.00% | ~355 |
 | The Collector | 18.00% | ~319 |
 | Get your hands dirty | 11.00% | ~195 |
 | Space Forest | 10.00% | ~177 |
@@ -24,8 +24,8 @@ Rating: 4.05 (Ranked 993)
 | ITS crash site | 5.00% | ~89 |
 | “Aliens” | 4.00% | ~71 |
 | Plumber | 4.00% | ~71 |
-| To infinity and beyond! | 4.00% | ~71 |
 | Hard Landing | 3.00% | ~53 |
+| To infinity and beyond! | 3.00% | ~53 |
 | Driver's License | 2.00% | ~35 |
 | Explosive Miner | 2.00% | ~35 |
 | Caveman | 2.00% | ~35 |
@@ -54,7 +54,7 @@ Rating: 4.05 (Ranked 993)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,771 (Ranked 233)  
+Progressed: 1,773 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-03 | 1,767 | 0 |
 | 2023-12-04 | 1,769 | 0 |
 | 2023-12-05 | 1,770 | 0 |
-| 2023-12-07 | 1,771 | 0 |
+| 2023-12-07 | 1,773 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

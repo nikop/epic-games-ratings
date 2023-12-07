@@ -2,10 +2,10 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
@@ -1955,6 +1955,11 @@
       "Time": "2023-12-06T16:06:45.4854434+00:00",
       "NumProgressed": 591,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-07T21:06:24.2628953+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1967,7 +1972,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 17,
       "XP": 120,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_eou1",
@@ -2070,14 +2075,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-07T20:06:21.9383182+00:00",
+  "LastChanged_Achievements": "2023-12-07T21:06:24.262895+00:00",
   "LastUpdate_AppInfo": "2023-12-01T02:57:04.7742385+00:00",
-  "LastUpdate_Ratings": "2023-12-07T20:00:07.3193112+00:00",
-  "LastUpdate_Achievements": "2023-12-07T20:06:21.938335+00:00"
+  "LastUpdate_Ratings": "2023-12-07T21:00:09.6737276+00:00",
+  "LastUpdate_Achievements": "2023-12-07T21:06:24.2629122+00:00"
 }

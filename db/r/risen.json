@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -449,9 +449,9 @@
       "ID": "id_19",
       "SetID": "bk9jib6",
       "Name": "Pandora\u0027s box",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "id_2",
@@ -577,9 +577,9 @@
       "ID": "id_43",
       "SetID": "bk9jib6",
       "Name": "Hard worker",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "id_44",
@@ -794,8 +794,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-07T03:59:22.4212557+00:00",
-  "LastChanged_Achievements": "2023-12-07T20:09:10.2326438+00:00",
+  "LastChanged_Achievements": "2023-12-07T21:09:21.8817331+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:25.2979991+00:00",
-  "LastUpdate_Ratings": "2023-12-07T19:59:37.1979668+00:00",
-  "LastUpdate_Achievements": "2023-12-07T20:09:10.2326739+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:59:39.733375+00:00",
+  "LastUpdate_Achievements": "2023-12-07T21:09:21.8817608+00:00"
 }

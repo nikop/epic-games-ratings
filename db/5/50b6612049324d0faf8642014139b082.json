@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 757,
+  "EOS_Progressed": 758,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1871,6 +1871,11 @@
       "Time": "2023-12-07T18:09:21.9673731+00:00",
       "NumProgressed": 757,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T21:09:35.1654219+00:00",
+      "NumProgressed": 758,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1923,7 +1928,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_15",
@@ -1947,7 +1952,7 @@
       "Name": "Your first time?",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "achievement_18",
@@ -1971,7 +1976,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "achievement_20",
@@ -2067,7 +2072,7 @@
       "Name": "NEW PB!",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "achievement_8",
@@ -2090,7 +2095,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 757,
+      "Progressed": 758,
       "Completed": 0
     }
   ],
@@ -2098,8 +2103,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-06T23:57:02.9987926+00:00",
-  "LastChanged_Achievements": "2023-12-07T20:09:23.7340347+00:00",
+  "LastChanged_Achievements": "2023-12-07T21:09:35.1654217+00:00",
   "LastUpdate_AppInfo": "2023-12-05T21:56:59.3509515+00:00",
-  "LastUpdate_Ratings": "2023-12-07T19:57:35.0011874+00:00",
-  "LastUpdate_Achievements": "2023-12-07T20:09:23.7340587+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:57:37.5102793+00:00",
+  "LastUpdate_Achievements": "2023-12-07T21:09:35.1654448+00:00"
 }

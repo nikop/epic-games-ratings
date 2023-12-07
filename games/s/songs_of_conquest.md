@@ -6,19 +6,19 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 37.00% | ~137 |
-| Double Kill | 26.00% | ~96 |
-| Critical Hit | 16.00% | ~59 |
+| Adept | 37.00% | ~138 |
+| Double Kill | 26.00% | ~97 |
+| Critical Hit | 16.00% | ~60 |
 | Veteran | 13.00% | ~48 |
-| Dressed For Success | 11.00% | ~41 |
+| Dressed For Success | 10.00% | ~37 |
+| Sorcerous Spree | 7.00% | ~26 |
 | Humiliation | 7.00% | ~26 |
-| Sorcerous Spree | 6.00% | ~22 |
 | Veni, Vidi, Vici | 5.00% | ~19 |
 | Multi Kill | 4.00% | ~15 |
 | Whoops! | 4.00% | ~15 |
-| Master | 4.00% | ~15 |
 | Expert Essence Employment | 4.00% | ~15 |
 | Landlord Extraordinaire | 3.00% | ~11 |
+| Master | 3.00% | ~11 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~11 |
 | The Song of Stoutheart | 2.00% | ~7 |
 | Don't Touch My Stuff | 2.00% | ~7 |
@@ -29,13 +29,13 @@ Number of Ratings: 292  (23.09.2022)
 | Versatile Wielder | 1.00% | ~4 |
 | Deepstrike | 1.00% | ~4 |
 | Infernal Influence | 1.00% | ~4 |
+| Together For Her | 0.80% | ~3 |
 | Ultra Kill | 0.80% | ~3 |
 | Death To Diplomacy | 0.50% | ~2 |
 | Unlimited Power! | 0.50% | ~2 |
 | Coming Through! | 0.50% | ~2 |
 | Barbecue | 0.50% | ~2 |
 | In The Thick of It | 0.50% | ~2 |
-| Together For Her | 0.50% | ~2 |
 | From the Ashes | 0.50% | ~2 |
 | The Marsh Expands | 0.50% | ~2 |
 | Cleave | 0.50% | ~2 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371 (Ranked 335)  
+Progressed: 372 (Ranked 335)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-04 | 350 | 0 |
 | 2023-12-05 | 357 | 0 |
 | 2023-12-06 | 367 | 0 |
-| 2023-12-07 | 371 | 0 |
+| 2023-12-07 | 372 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 516)  
 Sum: 194 (Ranked 406)  

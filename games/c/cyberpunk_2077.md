@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,632 |
-| Gun Fu | 7.00% | ~68,035 |
-| The Fool | 6.00% | ~58,316 |
-| Right Back At Ya | 5.00% | ~48,596 |
-| The Lovers | 4.00% | ~38,877 |
+| V for Vendetta | 12.00% | ~116,634 |
+| Gun Fu | 7.00% | ~68,036 |
+| The Fool | 6.00% | ~58,317 |
+| Right Back At Ya | 5.00% | ~48,598 |
+| The Lovers | 4.00% | ~38,878 |
 | Full Body Conversion | 3.00% | ~29,158 |
 | Stanislavski's Method | 3.00% | ~29,158 |
 | The Hermit | 3.00% | ~29,158 |
@@ -25,16 +25,16 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 2.00% | ~19,439 |
 | True Warrior | 2.00% | ~19,439 |
 | Legend of The Afterlife | 2.00% | ~19,439 |
-| Bushido and Chill | 1.00% | ~9,719 |
-| To Protect and Serve | 1.00% | ~9,719 |
-| Master Crafter | 1.00% | ~9,719 |
-| I Am The Law | 1.00% | ~9,719 |
-| The World | 1.00% | ~9,719 |
-| Two Heads, One Bullet | 1.00% | ~9,719 |
-| Judy vs Night City | 1.00% | ~9,719 |
+| Bushido and Chill | 1.00% | ~9,720 |
+| To Protect and Serve | 1.00% | ~9,720 |
+| Master Crafter | 1.00% | ~9,720 |
+| I Am The Law | 1.00% | ~9,720 |
+| The World | 1.00% | ~9,720 |
+| Two Heads, One Bullet | 1.00% | ~9,720 |
+| Judy vs Night City | 1.00% | ~9,720 |
 | Spin Doctor | 1.00% | ~1,006 |
-| The Wandering Fool | 0.80% | ~7,775 |
-| Easy Come, Easy Go | 0.80% | ~804 |
+| The Wandering Fool | 0.80% | ~7,776 |
+| Easy Come, Easy Go | 0.80% | ~805 |
 | King of Wands | 0.70% | ~704 |
 | Dirty Deeds | 0.70% | ~704 |
 | Ten out of Ten | 0.60% | ~5,832 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 971,930 (Ranked 15)  
+Progressed: 971,950 (Ranked 15)  
 Completed: 2,852 (0.29%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,10 +305,10 @@ Completed: 2,852 (0.29%) (Ranked 241)
 | 2023-12-04 | 970,004 | 2,843 |
 | 2023-12-05 | 970,654 | 2,844 |
 | 2023-12-06 | 971,359 | 2,847 |
-| 2023-12-07 | 971,930 | 2,852 |
+| 2023-12-07 | 971,950 | 2,852 |
 ## Awards
 Max (Character Customization): 118,778  (Ranked 9)  
-Sum: 398,194 (Ranked 9)  
+Sum: 398,424 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): 0
 | This game has Diverse Characters | 23,531 |
 | This game is Highly Recommended | 22,601 |
 | This game has Amazing Storytelling | 22,343 |
-| This game is Extremely Fun | 22,041 |
+| This game is Extremely Fun | 22,271 |
 | This game has Amazing Characters | 22,019 |
 | This game is Relaxing | 21,289 |
 | This game has Quickly Understood Controls | 21,067 |
@@ -648,4 +648,4 @@ Diff (max vs sum): 0
 | 2023-12-04 | 4.66 | - | 116,208 | 387,763 |
 | 2023-12-05 | 4.66 | - | 117,137 | 391,296 |
 | 2023-12-06 | 4.66 | - | 118,092 | 395,344 |
-| 2023-12-07 | 4.66 | - | 118,778 | 398,194 |
+| 2023-12-07 | 4.66 | - | 118,778 | 398,424 |

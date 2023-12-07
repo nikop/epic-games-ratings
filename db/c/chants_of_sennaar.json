@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 892,
+  "EOS_Progressed": 893,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 5.83,
+  "EOS_Completed_Percentage": 5.82,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3610,6 +3610,11 @@
       "Time": "2023-12-07T18:05:03.9501661+00:00",
       "NumProgressed": 892,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-07T21:05:08.9103158+00:00",
+      "NumProgressed": 893,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 25,
@@ -3621,7 +3626,7 @@
       "Name": "I did it",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "END_GOOD",
@@ -3629,7 +3634,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "META_ALL_LINK",
@@ -3637,15 +3642,15 @@
       "Name": "Peace walker",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 179
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3661,7 +3666,7 @@
       "Name": "Half the way",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3757,7 +3762,7 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3781,7 +3786,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "PROGRESS_N2",
@@ -3813,21 +3818,21 @@
       "Name": "One last step",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 892,
+      "Progressed": 893,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-07T20:05:06.3224348+00:00",
+  "LastChanged_Achievements": "2023-12-07T21:05:08.9103155+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-07T19:58:56.8029434+00:00",
-  "LastUpdate_Achievements": "2023-12-07T20:05:06.3224604+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:58:59.0782167+00:00",
+  "LastUpdate_Achievements": "2023-12-07T21:05:08.9103515+00:00"
 }

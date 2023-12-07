@@ -6,61 +6,61 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,331 |
-| Hit Rock Bottom | 97.00% | ~2,284 |
-| Rocket Launched | 97.00% | ~2,284 |
-| Speed | 97.00% | ~2,284 |
-| High Jump | 96.00% | ~2,261 |
-| Knee bending | 96.00% | ~2,261 |
-| Pickaxe | 94.00% | ~2,214 |
-| Cage Town | 94.00% | ~2,214 |
-| Entered Cage Town | 93.00% | ~2,190 |
-| Stone Pickaxe | 93.00% | ~2,190 |
-| Revenge | 93.00% | ~2,190 |
-| Surprise | 93.00% | ~2,190 |
-| Force Beam | 92.00% | ~2,167 |
+| Good Morning | 99.00% | ~2,332 |
+| Hit Rock Bottom | 97.00% | ~2,285 |
+| Rocket Launched | 97.00% | ~2,285 |
+| Speed | 97.00% | ~2,285 |
+| High Jump | 96.00% | ~2,262 |
+| Knee bending | 96.00% | ~2,262 |
+| Pickaxe | 94.00% | ~2,215 |
+| Entered Cage Town | 93.00% | ~2,191 |
+| Stone Pickaxe | 93.00% | ~2,191 |
+| Revenge | 93.00% | ~2,191 |
+| Cage Town | 93.00% | ~2,191 |
+| Surprise | 93.00% | ~2,191 |
+| Force Beam | 92.00% | ~2,168 |
 | Magnet | 90.00% | ~2,120 |
-| Industrial Area | 89.00% | ~2,096 |
-| Magnet Repel | 88.00% | ~2,072 |
-| You feel middle classy | 87.00% | ~2,049 |
-| Boomeraxe | 87.00% | ~2,049 |
-| Iron Pickaxe | 87.00% | ~2,049 |
-| Banking District | 86.00% | ~2,025 |
-| Arrested | 85.00% | ~2,002 |
-| Zappy Gun | 85.00% | ~2,002 |
-| Got your own one now | 85.00% | ~2,002 |
-| Mission Unlikely | 85.00% | ~2,002 |
-| Don't draw dicks pls | 84.00% | ~1,978 |
-| Ripped | 84.00% | ~1,978 |
-| Beat the big arena | 82.00% | ~1,931 |
-| Force Cube | 82.00% | ~1,931 |
+| Industrial Area | 89.00% | ~2,097 |
+| Magnet Repel | 88.00% | ~2,073 |
+| You feel middle classy | 87.00% | ~2,050 |
+| Boomeraxe | 87.00% | ~2,050 |
+| Iron Pickaxe | 87.00% | ~2,050 |
+| Banking District | 86.00% | ~2,026 |
+| Arrested | 85.00% | ~2,003 |
+| Zappy Gun | 85.00% | ~2,003 |
+| Got your own one now | 85.00% | ~2,003 |
+| Mission Unlikely | 85.00% | ~2,003 |
+| Don't draw dicks pls | 84.00% | ~1,979 |
+| Ripped | 84.00% | ~1,979 |
+| Beat the big arena | 82.00% | ~1,932 |
+| Force Cube | 82.00% | ~1,932 |
 | Got Battery | 81.00% | ~1,908 |
-| Guard Distracted | 80.00% | ~1,884 |
-| Translocator | 80.00% | ~1,884 |
-| Inner Peace | 78.00% | ~1,837 |
-| Diamond Pickaxe | 77.00% | ~1,813 |
-| Killed them all | 76.00% | ~1,790 |
-| Trickle Down Economy | 76.00% | ~1,790 |
-| Win | 76.00% | ~1,790 |
+| Guard Distracted | 80.00% | ~1,885 |
+| Translocator | 80.00% | ~1,885 |
+| Inner Peace | 78.00% | ~1,838 |
+| Diamond Pickaxe | 77.00% | ~1,814 |
+| Killed them all | 76.00% | ~1,791 |
+| Trickle Down Economy | 76.00% | ~1,791 |
+| Win | 76.00% | ~1,791 |
 | Greenhouse | 72.00% | ~1,696 |
-| Played with fire | 70.00% | ~1,648 |
-| You feel very sorry | 70.00% | ~1,648 |
+| Played with fire | 70.00% | ~1,649 |
+| You feel very sorry | 70.00% | ~1,649 |
 | No Match for you | 65.00% | ~1,531 |
-| Bouncy | 62.00% | ~1,460 |
-| Plumbster | 60.00% | ~1,413 |
-| Faster | 60.00% | ~1,413 |
+| Bouncy | 62.00% | ~1,461 |
+| Plumbster | 60.00% | ~1,414 |
+| Faster | 60.00% | ~1,414 |
 | Much Magic | 58.00% | ~1,366 |
-| Chest Detector | 55.00% | ~1,295 |
+| Chest Detector | 55.00% | ~1,296 |
 | Flames | 52.00% | ~1,225 |
-| Momentum | 46.00% | ~1,083 |
+| Momentum | 46.00% | ~1,084 |
 | You're unsure if you broke the game or not | 43.00% | ~1,013 |
 | But wait... ...There's more... | 40.00% | ~942 |
-| So much force | 35.00% | ~824 |
+| So much force | 35.00% | ~825 |
 | You feel fully engaged | 24.00% | ~565 |
 | Too hot | 20.00% | ~471 |
 | All the chests | 14.00% | ~330 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,355 (Ranked 219)  
+Progressed: 2,356 (Ranked 219)  
 Completed: 290 (12.31%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 290 (12.31%) (Ranked 36)
 | 2023-12-04 | 2,350 | 290 |
 | 2023-12-05 | 2,352 | 290 |
 | 2023-12-06 | 2,354 | 290 |
-| 2023-12-07 | 2,355 | 290 |
+| 2023-12-07 | 2,356 | 290 |
 ## Awards
 Max (Challenging Puzzles): 107  (Ranked 355)  
 Sum: 107 (Ranked 450)  

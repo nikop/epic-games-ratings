@@ -9442,10 +9442,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15653,
       "NumberOfAwardsMax": 7518
+    },
+    {
+      "Time": "2023-12-07T20:57:09.2451978+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15660,
+      "NumberOfAwardsMax": 7518
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15653,
+  "NumberOfAwards": 15660,
   "NumberOfAwardsMax": 7518,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9477,7 +9483,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1096
+      "Count": 1100
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9507,7 +9513,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 868
+      "Count": 871
     },
     {
       "Text": "This game has a Creative Community",
@@ -9522,9 +9528,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67316,
+  "EOS_Progressed": 67317,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33967,6 +33973,11 @@
       "Time": "2023-12-07T20:09:27.4112022+00:00",
       "NumProgressed": 67316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T21:09:38.7731544+00:00",
+      "NumProgressed": 67317,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34018,7 +34029,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 6058
+      "UsersEstimate": 6059
     },
     {
       "ID": "Catch",
@@ -34098,7 +34109,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "God of the Arena",
@@ -34202,7 +34213,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22214
+      "UsersEstimate": 22215
     },
     {
       "ID": "Lawbringer",
@@ -34210,7 +34221,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26926
+      "UsersEstimate": 26927
     },
     {
       "ID": "Lawmaker",
@@ -34226,7 +34237,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "Mastery",
@@ -34266,7 +34277,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "Ride it like you stole it",
@@ -34385,15 +34396,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67316,
+      "Progressed": 67317,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-12-07T19:57:07.6548647+00:00",
-  "LastChanged_Achievements": "2023-12-07T20:09:27.4112018+00:00",
+  "LastChanged": "2023-12-07T20:57:09.2451976+00:00",
+  "LastChanged_Achievements": "2023-12-07T21:09:38.7731542+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-07T19:57:07.6548654+00:00",
-  "LastUpdate_Achievements": "2023-12-07T20:09:27.4113272+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:57:09.2451981+00:00",
+  "LastUpdate_Achievements": "2023-12-07T21:09:38.7732704+00:00"
 }

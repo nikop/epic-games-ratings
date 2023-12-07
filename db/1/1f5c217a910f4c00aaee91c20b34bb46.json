@@ -2,7 +2,7 @@
   "ID": "1f5c217a910f4c00aaee91c20b34bb46",
   "Name": "Magnetism",
   "ProductSlug": "magnetism-76d8e6",
-  "Ranking_EOS_Progress": 718,
+  "Ranking_EOS_Progress": 719,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 117,
@@ -120,8 +120,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-23T04:03:01.983372+00:00",
-  "LastChanged_Achievements": "2023-12-07T20:05:26.78509+00:00",
+  "LastChanged_Achievements": "2023-12-07T21:05:29.1915104+00:00",
   "LastUpdate_AppInfo": "2023-12-07T05:57:12.7679481+00:00",
-  "LastUpdate_Ratings": "2023-12-07T19:57:45.4408133+00:00",
-  "LastUpdate_Achievements": "2023-12-07T20:05:26.7850969+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:57:48.1440323+00:00",
+  "LastUpdate_Achievements": "2023-12-07T21:05:29.1915157+00:00"
 }

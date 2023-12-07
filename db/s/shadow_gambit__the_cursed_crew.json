@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 266,
-  "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -137,11 +137,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1027,
+  "EOS_Progressed": 1029,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.12,
+  "EOS_Completed_Percentage": 3.11,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3442,6 +3442,11 @@
       "Time": "2023-12-07T19:05:42.5647523+00:00",
       "NumProgressed": 1027,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-07T21:05:45.8878497+00:00",
+      "NumProgressed": 1029,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3462,15 +3467,15 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 514
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3478,7 +3483,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "_05_FinishAct2",
@@ -3486,7 +3491,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3494,7 +3499,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "_07_FinishAct3",
@@ -3502,7 +3507,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "_08_Completion_10",
@@ -3534,7 +3539,7 @@
       "Name": "Seadog",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "_12_Completion_50",
@@ -3582,7 +3587,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3598,7 +3603,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -3630,7 +3635,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -3652,16 +3657,16 @@
       "ID": "_26_ReviveVirgilio",
       "SetID": "8a1io5d",
       "Name": "Welcome Back Jester",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 140,
-      "UsersEstimate": 41
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1027,
+      "Progressed": 1029,
       "Completed": 32
     }
   ],
@@ -3669,8 +3674,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-07T17:58:37.8880323+00:00",
-  "LastChanged_Achievements": "2023-12-07T20:05:42.9979322+00:00",
+  "LastChanged_Achievements": "2023-12-07T21:05:45.8878493+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-07T19:58:38.3903783+00:00",
-  "LastUpdate_Achievements": "2023-12-07T20:05:42.9979678+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:58:40.0786629+00:00",
+  "LastUpdate_Achievements": "2023-12-07T21:05:45.8878895+00:00"
 }

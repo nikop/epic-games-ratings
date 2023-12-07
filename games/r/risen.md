@@ -23,12 +23,12 @@ Rating: 4.58 (Ranked 451)
 | Family man | 27.00% | ~17 |
 | Death of a legend | 27.00% | ~17 |
 | Ogre friend | 27.00% | ~17 |
+| Hard worker | 27.00% | ~17 |
 | The fourth triplet | 27.00% | ~17 |
 | Archaeologist | 25.00% | ~16 |
-| Hard worker | 25.00% | ~16 |
+| Pandora's box | 25.00% | ~16 |
 | Master detective | 25.00% | ~16 |
 | Little hero | 24.00% | ~15 |
-| Pandora's box | 24.00% | ~15 |
 | Peacekeeper | 24.00% | ~15 |
 | Sidelined | 22.00% | ~14 |
 | Defender | 21.00% | ~13 |

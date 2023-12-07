@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 21,
+  "Ranking_EOS_NewPlayers": 22,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5221,18 +5221,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 6621,
       "NumberOfAwardsMax": 2668
+    },
+    {
+      "Time": "2023-12-07T21:03:10.9102401+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6631,
+      "NumberOfAwardsMax": 2678
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6621,
-  "NumberOfAwardsMax": 2668,
+  "NumberOfAwards": 6631,
+  "NumberOfAwardsMax": 2678,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2668
+      "Count": 2678
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5295,9 +5301,9 @@
       "Count": 411
     }
   ],
-  "EOS_Progressed": 236541,
+  "EOS_Progressed": 236563,
   "EOS_Completed": 566,
-  "EOS_NewPlayers": 5250,
+  "EOS_NewPlayers": 5230,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21870,6 +21876,11 @@
       "Time": "2023-12-07T20:08:45.8035606+00:00",
       "NumProgressed": 236541,
       "NumCompleted": 566
+    },
+    {
+      "Time": "2023-12-07T21:08:57.3077077+00:00",
+      "NumProgressed": 236563,
+      "NumCompleted": 566
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21962,7 +21973,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -22321,22 +22332,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 236541,
+      "Progressed": 236563,
       "Completed": 566
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 15706,
+      "Progressed": 15728,
       "Completed": 202
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-07T19:03:09.7022036+00:00",
-  "LastChanged_Achievements": "2023-12-07T20:08:45.8035599+00:00",
+  "LastChanged": "2023-12-07T21:03:10.9102399+00:00",
+  "LastChanged_Achievements": "2023-12-07T21:08:57.3077075+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-07T20:03:09.0617142+00:00",
-  "LastUpdate_Achievements": "2023-12-07T20:08:45.8036612+00:00"
+  "LastUpdate_Ratings": "2023-12-07T21:03:10.9102405+00:00",
+  "LastUpdate_Achievements": "2023-12-07T21:08:57.3077971+00:00"
 }

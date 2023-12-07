@@ -10,8 +10,8 @@
 | Nonconsensual | 32.00% | ~110 |
 | Realist | 28.00% | ~97 |
 | Escape | 21.00% | ~72 |
-| Wrong | 18.00% | ~62 |
-| Jack | 15.00% | ~52 |
+| Wrong | 19.00% | ~66 |
+| Jack | 16.00% | ~55 |
 | Tough | 12.00% | ~41 |
 | Clear | 5.00% | ~17 |
 | Unfinished | 4.00% | ~14 |

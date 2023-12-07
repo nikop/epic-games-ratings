@@ -313,7 +313,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233249,
+  "EOS_Progressed": 233250,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 0,
@@ -23753,6 +23753,11 @@
       "Time": "2023-12-07T20:08:30.2042336+00:00",
       "NumProgressed": 233249,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-07T21:08:41.2961138+00:00",
+      "NumProgressed": 233250,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -23932,7 +23937,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6997
+      "UsersEstimate": 6998
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -23987,7 +23992,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233249,
+      "Progressed": 233250,
       "Completed": 5
     }
   ],
@@ -23995,8 +24000,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-11-29T04:05:35.013922+00:00",
-  "LastChanged_Achievements": "2023-12-07T20:08:30.2042332+00:00",
+  "LastChanged_Achievements": "2023-12-07T21:08:41.2961136+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:16.4790911+00:00",
-  "LastUpdate_Ratings": "2023-12-07T20:00:11.0875049+00:00",
-  "LastUpdate_Achievements": "2023-12-07T20:08:30.2043269+00:00"
+  "LastUpdate_Ratings": "2023-12-07T21:00:13.4021131+00:00",
+  "LastUpdate_Achievements": "2023-12-07T21:08:41.296229+00:00"
 }

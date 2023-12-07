@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1771,
+  "EOS_Progressed": 1773,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4513,6 +4513,11 @@
       "Time": "2023-12-07T17:08:31.7348561+00:00",
       "NumProgressed": 1771,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T21:08:34.6794148+00:00",
+      "NumProgressed": 1773,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4604,7 +4609,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4644,7 +4649,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4676,7 +4681,7 @@
       "Name": "Detective",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4700,7 +4705,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4716,7 +4721,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -4748,7 +4753,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -4772,7 +4777,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -4780,7 +4785,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4796,7 +4801,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -4884,7 +4889,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4898,16 +4903,16 @@
       "ID": "NEW_ACHIEVEMENT_TO_INFINITY_AND_BEYOND",
       "SetID": "l546gc",
       "Name": "To infinity and beyond!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1771,
+      "Progressed": 1773,
       "Completed": 0
     }
   ],
@@ -4915,8 +4920,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-06T17:58:25.3194639+00:00",
-  "LastChanged_Achievements": "2023-12-07T20:08:23.4860964+00:00",
+  "LastChanged_Achievements": "2023-12-07T21:08:34.6794145+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.2578191+00:00",
-  "LastUpdate_Ratings": "2023-12-07T19:58:48.0401216+00:00",
-  "LastUpdate_Achievements": "2023-12-07T20:08:23.4861441+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:58:49.5765077+00:00",
+  "LastUpdate_Achievements": "2023-12-07T21:08:34.6794515+00:00"
 }
