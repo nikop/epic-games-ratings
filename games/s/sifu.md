@@ -37,9 +37,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Muk Yan Master | 0.30% | ~2,154 |
 | Tiger on Fire | 0.30% | ~2,154 |
 | Source of Flying Daggers | 0.30% | ~2,154 |
+| Iron Money | 0.30% | ~2,154 |
 | Detective Story | 0.30% | ~2,154 |
 | The best strikes are the ones we avoid | 0.30% | ~81 |
-| Iron Money | 0.20% | ~1,436 |
 | Legendary Talismans of Wuxing | 0.20% | ~1,436 |
 | Prodigal Child | 0.20% | ~1,436 |
 | The 36th Chamber of Kung-Fu | 0.20% | ~1,436 |

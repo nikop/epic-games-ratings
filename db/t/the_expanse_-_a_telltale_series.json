@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15943,
+  "EOS_Progressed": 15945,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13213,6 +13213,11 @@
       "Time": "2023-12-07T00:06:00.5286155+00:00",
       "NumProgressed": 15943,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-07T02:27:30.4849853+00:00",
+      "NumProgressed": 15945,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13377,7 +13382,7 @@
       "Name": "Bosmang",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "28",
@@ -13447,9 +13452,9 @@
       "ID": "8",
       "SetID": "458bbdk",
       "Name": "Data Recoverer",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 143
+      "UsersEstimate": 159
     },
     {
       "ID": "9",
@@ -13504,13 +13509,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15943,
+      "Progressed": 15945,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1897,
+      "Progressed": 1899,
       "Completed": 832
     }
   ],
@@ -13518,8 +13523,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-07T00:06:00.5286151+00:00",
+  "LastChanged_Achievements": "2023-12-07T02:27:30.4849848+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-07T01:44:59.0386349+00:00",
-  "LastUpdate_Achievements": "2023-12-07T00:06:00.5286798+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:21:02.843608+00:00",
+  "LastUpdate_Achievements": "2023-12-07T02:27:30.4850613+00:00"
 }

@@ -13,7 +13,7 @@
 | Scraps of love | 45.00% | ~47 |
 | Refuse to look | 38.00% | ~40 |
 | Sign of weakness | 38.00% | ~40 |
-| Finished it | 31.00% | ~33 |
+| Finished it | 32.00% | ~34 |
 | Face your fears | 28.00% | ~29 |
 | Whispers long forgotten | 16.00% | ~17 |
 | Playtime | 13.00% | ~14 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1332,7 +1332,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29822,
+  "EOS_Progressed": 29825,
   "EOS_Completed": 82,
   "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 1,
@@ -26017,6 +26017,11 @@
       "Time": "2023-12-07T01:57:30.9995144+00:00",
       "NumProgressed": 29822,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-07T02:33:46.5103826+00:00",
+      "NumProgressed": 29825,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -26036,7 +26041,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "1017",
@@ -26044,7 +26049,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "1018",
@@ -26084,7 +26089,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "1023",
@@ -26148,7 +26153,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5964
+      "UsersEstimate": 5965
     },
     {
       "ID": "1031",
@@ -26156,7 +26161,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4175
+      "UsersEstimate": 4176
     },
     {
       "ID": "1032",
@@ -26164,7 +26169,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11929
+      "UsersEstimate": 11930
     },
     {
       "ID": "1033",
@@ -26203,15 +26208,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29822,
+      "Progressed": 29825,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-07T01:57:30.999514+00:00",
+  "LastChanged_Achievements": "2023-12-07T02:33:46.5103821+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.8181889+00:00",
-  "LastUpdate_Ratings": "2023-12-07T01:46:18.4557257+00:00",
-  "LastUpdate_Achievements": "2023-12-07T01:57:30.9996319+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:23:02.0303195+00:00",
+  "LastUpdate_Achievements": "2023-12-07T02:33:46.5105049+00:00"
 }

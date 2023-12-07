@@ -21,8 +21,8 @@
 | It's Warm and Cozy at Home | 58.00% | ~307 |
 | Trap Master | 56.00% | ~297 |
 | Minions, Minions! | 55.00% | ~292 |
+| Hard Work | 52.00% | ~276 |
 | The Big Eaty | 52.00% | ~276 |
-| Hard Work | 51.00% | ~270 |
 | YOU SHALL NOT PASS! | 50.00% | ~265 |
 | “… like son” | 48.00% | ~254 |
 | Pure Dynamite! | 45.00% | ~238 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -313,10 +313,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133113,
+  "EOS_Progressed": 133115,
   "EOS_Completed": 1176,
-  "EOS_NewPlayers": 1049,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 1047,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
     {
@@ -26583,6 +26583,11 @@
       "Time": "2023-12-07T01:56:29.6008329+00:00",
       "NumProgressed": 133113,
       "NumCompleted": 1176
+    },
+    {
+      "Time": "2023-12-07T02:32:19.5730639+00:00",
+      "NumProgressed": 133115,
+      "NumCompleted": 1176
     }
   ],
   "TotalAchievements": 34,
@@ -26602,7 +26607,7 @@
       "Name": "The only thing I have now",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 22629
+      "UsersEstimate": 22630
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -26610,7 +26615,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 55907
+      "UsersEstimate": 55908
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -26650,7 +26655,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 106490
+      "UsersEstimate": 106492
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -26666,7 +26671,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 74543
+      "UsersEstimate": 74544
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -26682,7 +26687,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 53245
+      "UsersEstimate": 53246
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -26778,7 +26783,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 23960
+      "UsersEstimate": 23961
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -26802,7 +26807,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 33278
+      "UsersEstimate": 33279
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -26810,7 +26815,7 @@
       "Name": "Sunken",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 33278
+      "UsersEstimate": 33279
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -26842,7 +26847,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 31947
+      "UsersEstimate": 31948
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -26865,7 +26870,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 133113,
+      "Progressed": 133115,
       "Completed": 1176
     }
   ],
@@ -26873,8 +26878,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-12-07T01:56:29.6008321+00:00",
+  "LastChanged_Achievements": "2023-12-07T02:32:19.5730634+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:27.67682+00:00",
-  "LastUpdate_Ratings": "2023-12-07T01:45:43.0906772+00:00",
-  "LastUpdate_Achievements": "2023-12-07T01:56:29.6009678+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:22:09.0364465+00:00",
+  "LastUpdate_Achievements": "2023-12-07T02:32:19.5732031+00:00"
 }

@@ -13362,10 +13362,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 283748,
       "NumberOfAwardsMax": 37449
+    },
+    {
+      "Time": "2023-12-07T02:24:06.4410227+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 283845,
+      "NumberOfAwardsMax": 37449
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 283748,
+  "NumberOfAwards": 283845,
   "NumberOfAwardsMax": 37449,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -13397,7 +13403,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 31433
+      "Count": 31474
     },
     {
       "Text": "This game has Amazing Characters",
@@ -13409,7 +13415,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 32435
+      "Count": 32491
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -13436,9 +13442,9 @@
       "Count": 27700
     }
   ],
-  "EOS_Progressed": 1075656,
+  "EOS_Progressed": 1075712,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 21477,
+  "EOS_NewPlayers": 21486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39941,6 +39947,11 @@
       "Time": "2023-12-07T01:57:56.3190358+00:00",
       "NumProgressed": 1075656,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-07T02:34:20.3521422+00:00",
+      "NumProgressed": 1075712,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39952,7 +39963,7 @@
       "Name": "The Grand Sacrifice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8605
+      "UsersEstimate": 8606
     },
     {
       "ID": "ACH_002",
@@ -40072,7 +40083,7 @@
       "Name": "No one left behind",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8605
+      "UsersEstimate": 8606
     },
     {
       "ID": "ACH_017",
@@ -40080,7 +40091,7 @@
       "Name": "Medic",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8605
+      "UsersEstimate": 8606
     },
     {
       "ID": "ACH_018",
@@ -40128,7 +40139,7 @@
       "Name": "It wakes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21513
+      "UsersEstimate": 21514
     },
     {
       "ID": "ACH_024",
@@ -40144,7 +40155,7 @@
       "Name": "Bloody Millionaire",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 8605
+      "UsersEstimate": 8606
     },
     {
       "ID": "ACH_026",
@@ -40192,7 +40203,7 @@
       "Name": "Vulture",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5378
+      "UsersEstimate": 5379
     },
     {
       "ID": "ACH_032",
@@ -40256,7 +40267,7 @@
       "Name": "Skillful",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21513
+      "UsersEstimate": 21514
     },
     {
       "ID": "ACH_040",
@@ -40280,7 +40291,7 @@
       "Name": "III",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 5378
+      "UsersEstimate": 5379
     },
     {
       "ID": "ACH_043",
@@ -41120,7 +41131,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 8605
+      "UsersEstimate": 8606
     },
     {
       "ID": "ACH_151",
@@ -41288,7 +41299,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 8605
+      "UsersEstimate": 8606
     },
     {
       "ID": "ACH_172",
@@ -41600,7 +41611,7 @@
       "Name": "Lifting The Fog",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5378
+      "UsersEstimate": 5379
     },
     {
       "ID": "ACH_211",
@@ -41807,21 +41818,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1075656,
+      "Progressed": 1075712,
       "Completed": 70
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1075656,
+      "Progressed": 1075712,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-12-06T23:59:09.5012921+00:00",
-  "LastChanged_Achievements": "2023-12-07T01:57:56.3190355+00:00",
+  "LastChanged": "2023-12-07T02:24:06.4410224+00:00",
+  "LastChanged_Achievements": "2023-12-07T02:34:20.3521418+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:13.1126718+00:00",
-  "LastUpdate_Ratings": "2023-12-07T01:47:00.6790123+00:00",
-  "LastUpdate_Achievements": "2023-12-07T01:57:56.3195642+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:24:06.4410232+00:00",
+  "LastUpdate_Achievements": "2023-12-07T02:34:20.3526696+00:00"
 }

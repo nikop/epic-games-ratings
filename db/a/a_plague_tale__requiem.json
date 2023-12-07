@@ -4,10 +4,10 @@
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 169,
   "Ranking_Popularity": 225,
-  "Ranking_PopularitySum": 302,
+  "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -12294,8 +12294,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-12-05T07:00:05.1939572+00:00",
-  "LastChanged_Achievements": "2023-12-07T01:53:23.6734165+00:00",
+  "LastChanged_Achievements": "2023-12-07T02:30:34.3669748+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:28.8291832+00:00",
-  "LastUpdate_Ratings": "2023-12-07T01:47:39.9362767+00:00",
-  "LastUpdate_Achievements": "2023-12-07T01:53:23.6734947+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:25:05.8427155+00:00",
+  "LastUpdate_Achievements": "2023-12-07T02:30:34.3670521+00:00"
 }

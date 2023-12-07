@@ -16256,9 +16256,9 @@
       "Count": 14554
     }
   ],
-  "EOS_Progressed": 971402,
+  "EOS_Progressed": 971412,
   "EOS_Completed": 2848,
-  "EOS_NewPlayers": 8317,
+  "EOS_NewPlayers": 8300,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -42471,6 +42471,11 @@
       "Time": "2023-12-07T01:51:13.9171124+00:00",
       "NumProgressed": 971402,
       "NumCompleted": 2848
+    },
+    {
+      "Time": "2023-12-07T02:27:31.0114104+00:00",
+      "NumProgressed": 971412,
+      "NumCompleted": 2848
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -42515,7 +42520,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48570
+      "UsersEstimate": 48571
     },
     {
       "ID": "FollowingTheRiver",
@@ -42555,7 +42560,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 67998
+      "UsersEstimate": 67999
     },
     {
       "ID": "Gunslinger",
@@ -42699,7 +42704,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58284
+      "UsersEstimate": 58285
     },
     {
       "ID": "TheHermit",
@@ -42811,7 +42816,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116568
+      "UsersEstimate": 116569
     },
     {
       "ID": "YipMan",
@@ -42937,9 +42942,9 @@
       "ID": "AllThePresidentsMen",
       "SetID": "23nboa5",
       "Name": "All the President\u0027s Men",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 2000
+      "UsersEstimate": 3001
     },
     {
       "ID": "HydraIsDead",
@@ -42955,7 +42960,7 @@
       "Name": "Arachnophobia",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "KingOfTheCups",
@@ -43018,21 +43023,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 971402,
+      "Progressed": 971412,
       "Completed": 2848
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 100025,
+      "Progressed": 100035,
       "Completed": 10308
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-06T23:02:59.7171873+00:00",
-  "LastChanged_Achievements": "2023-12-07T01:51:13.9171115+00:00",
+  "LastChanged_Achievements": "2023-12-07T02:27:31.0114099+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.8863582+00:00",
-  "LastUpdate_Ratings": "2023-12-07T01:50:55.5508288+00:00",
-  "LastUpdate_Achievements": "2023-12-07T01:51:13.9173807+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:27:01.9102996+00:00",
+  "LastUpdate_Achievements": "2023-12-07T02:27:31.0115814+00:00"
 }

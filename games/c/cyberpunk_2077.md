@@ -6,10 +6,10 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,568 |
-| Gun Fu | 7.00% | ~67,998 |
-| The Fool | 6.00% | ~58,284 |
-| Right Back At Ya | 5.00% | ~48,570 |
+| V for Vendetta | 12.00% | ~116,569 |
+| Gun Fu | 7.00% | ~67,999 |
+| The Fool | 6.00% | ~58,285 |
+| Right Back At Ya | 5.00% | ~48,571 |
 | The Lovers | 4.00% | ~38,856 |
 | Full Body Conversion | 3.00% | ~29,142 |
 | Stanislavski's Method | 3.00% | ~29,142 |
@@ -17,14 +17,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 3.00% | ~29,142 |
 | True Soldier | 3.00% | ~29,142 |
 | Relic Ruler | 3.00% | ~3,001 |
+| All the President's Men | 3.00% | ~3,001 |
 | Christmas Tree Attack | 2.00% | ~19,428 |
 | The Quick and the Dead | 2.00% | ~19,428 |
 | Life of the Road | 2.00% | ~19,428 |
 | The High Priestess | 2.00% | ~19,428 |
 | True Warrior | 2.00% | ~19,428 |
 | Legend of The Afterlife | 2.00% | ~19,428 |
-| All the President's Men | 2.00% | ~2,000 |
-| Arachnophobia | 2.00% | ~2,000 |
+| Arachnophobia | 2.00% | ~2,001 |
 | Bushido and Chill | 1.00% | ~9,714 |
 | To Protect and Serve | 1.00% | ~9,714 |
 | Master Crafter | 1.00% | ~9,714 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 971,402 (Ranked 15)  
+Progressed: 971,412 (Ranked 15)  
 Completed: 2,848 (0.29%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 2,848 (0.29%) (Ranked 241)
 | 2023-12-04 | 970,004 | 2,843 |
 | 2023-12-05 | 970,654 | 2,844 |
 | 2023-12-06 | 971,359 | 2,847 |
-| 2023-12-07 | 971,402 | 2,848 |
+| 2023-12-07 | 971,412 | 2,848 |
 ## Awards
 Max (Character Customization): 118,092  (Ranked 9)  
 Sum: 395,344 (Ranked 9)  

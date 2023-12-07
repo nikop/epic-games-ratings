@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1683,
+  "EOS_Progressed": 1684,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 7.13,
   "EosHistory": [
@@ -4034,6 +4034,11 @@
       "Time": "2023-12-07T00:09:22.854073+00:00",
       "NumProgressed": 1683,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-12-07T02:34:11.4620774+00:00",
+      "NumProgressed": 1684,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 30,
@@ -4045,7 +4050,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "LEVEL_002",
@@ -4061,7 +4066,7 @@
       "Name": "A horse in the country",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "LEVEL_004",
@@ -4093,7 +4098,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "LEVEL_008",
@@ -4109,7 +4114,7 @@
       "Name": "Going zig zag",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "LEVEL_010",
@@ -4165,7 +4170,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "LEVEL_017",
@@ -4205,7 +4210,7 @@
       "Name": "Island in the center of the island",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "LEVEL_022",
@@ -4284,14 +4289,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1683,
+      "Progressed": 1684,
       "Completed": 120
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-07T01:57:49.0577616+00:00",
+  "LastChanged_Achievements": "2023-12-07T02:34:11.4620771+00:00",
   "LastUpdate_AppInfo": "2023-12-05T04:57:02.387296+00:00",
-  "LastUpdate_Ratings": "2023-12-07T01:50:33.8997198+00:00",
-  "LastUpdate_Achievements": "2023-12-07T01:57:49.0577907+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:26:28.9349834+00:00",
+  "LastUpdate_Achievements": "2023-12-07T02:34:11.4621152+00:00"
 }

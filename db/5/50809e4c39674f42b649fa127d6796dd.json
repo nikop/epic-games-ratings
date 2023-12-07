@@ -2,9 +2,9 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 328,
+  "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 428,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1042,6 +1042,11 @@
       "Time": "2023-12-07T01:51:58.4831993+00:00",
       "NumProgressed": 424,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T02:28:33.6830429+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1054,7 +1059,7 @@
       "Name": "Combo Crackerjack",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND1",
@@ -1078,7 +1083,7 @@
       "Name": "Chaos Island Explorer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND4",
@@ -1110,7 +1115,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 150
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1118,7 +1123,7 @@
       "Name": "Perfect Run",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 133
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1126,7 +1131,7 @@
       "Name": "Big Encounter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1134,15 +1139,15 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 158
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1150,23 +1155,23 @@
       "Name": "Celestial Rain",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 347
     },
     {
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 193
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1174,7 +1179,7 @@
       "Name": "Superior Ranking",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 163
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1190,7 +1195,7 @@
       "Name": "Angler\u0027s Club",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "KODAMA_REACH_NUM",
@@ -1206,7 +1211,7 @@
       "Name": "The Beginning",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1214,7 +1219,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -1238,7 +1243,7 @@
       "Name": "A Land at Peace",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MAIN_CLEAR_TUTORIAL",
@@ -1246,7 +1251,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 231
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1254,7 +1259,7 @@
       "Name": "Threats Identified",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD1",
@@ -1262,7 +1267,7 @@
       "Name": "Kronos Island Memories",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -1342,7 +1347,7 @@
       "Name": "Ares Island Expert",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SUB_CLEAR_ISLAND3",
@@ -1366,21 +1371,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 428,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-07T01:51:58.4831989+00:00",
+  "LastChanged_Achievements": "2023-12-07T02:28:33.6830425+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-07T01:50:57.5200524+00:00",
-  "LastUpdate_Achievements": "2023-12-07T01:51:58.4832289+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:27:04.9791144+00:00",
+  "LastUpdate_Achievements": "2023-12-07T02:28:33.6830747+00:00"
 }

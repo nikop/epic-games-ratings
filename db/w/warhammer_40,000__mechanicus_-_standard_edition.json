@@ -978,9 +978,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228773,
+  "EOS_Progressed": 228775,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26173,6 +26173,11 @@
       "Time": "2023-12-07T01:57:48.1166413+00:00",
       "NumProgressed": 228773,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-07T02:34:10.3424166+00:00",
+      "NumProgressed": 228775,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -26192,7 +26197,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59481
+      "UsersEstimate": 59482
     },
     {
       "ID": "ACH_BASE_11",
@@ -26232,7 +26237,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22877
+      "UsersEstimate": 22878
     },
     {
       "ID": "ACH_BASE_17",
@@ -26248,7 +26253,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22877
+      "UsersEstimate": 22878
     },
     {
       "ID": "ACH_BASE_19",
@@ -26256,7 +26261,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4575
+      "UsersEstimate": 4576
     },
     {
       "ID": "ACH_BASE_2",
@@ -26280,7 +26285,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4575
+      "UsersEstimate": 4576
     },
     {
       "ID": "ACH_BASE_22",
@@ -26288,7 +26293,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4575
+      "UsersEstimate": 4576
     },
     {
       "ID": "ACH_BASE_23",
@@ -26416,7 +26421,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4575
+      "UsersEstimate": 4576
     },
     {
       "ID": "ACH_BASE_6",
@@ -26424,7 +26429,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4575
+      "UsersEstimate": 4576
     },
     {
       "ID": "ACH_BASE_7",
@@ -26455,7 +26460,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228773,
+      "Progressed": 228775,
       "Completed": 5
     }
   ],
@@ -26463,8 +26468,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-03T11:00:01.7209861+00:00",
-  "LastChanged_Achievements": "2023-12-07T01:57:48.116641+00:00",
+  "LastChanged_Achievements": "2023-12-07T02:34:10.3424163+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.7221977+00:00",
-  "LastUpdate_Ratings": "2023-12-07T01:45:22.0723442+00:00",
-  "LastUpdate_Achievements": "2023-12-07T01:57:48.1167515+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:21:37.750571+00:00",
+  "LastUpdate_Achievements": "2023-12-07T02:34:10.3425342+00:00"
 }

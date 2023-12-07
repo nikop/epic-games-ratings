@@ -6,45 +6,45 @@ Number of Ratings: 3,099  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Delivering Is What I Do | 92.00% | ~504,772 |
-| Good Samaritan | 90.00% | ~493,798 |
-| Rebuilding America | 80.00% | ~438,932 |
-| Like and Be Liked | 77.00% | ~422,472 |
-| Apprentice Builder | 72.00% | ~395,039 |
-| A New Day for the UCA | 71.00% | ~389,552 |
-| A Baby Blessing | 65.00% | ~356,632 |
-| Prominent Porter | 65.00% | ~356,632 |
-| Building Bridges | 64.00% | ~351,146 |
-| Well Connected | 62.00% | ~340,172 |
-| The Custom Kid | 61.00% | ~334,686 |
-| Chiral Crafter | 59.00% | ~323,712 |
-| Boots Are a Porter's Best Friend | 59.00% | ~323,712 |
-| The People's Porter | 57.00% | ~312,739 |
-| I Couldn't Hold it In! | 56.00% | ~307,252 |
-| Everyday Delivery | 52.00% | ~285,306 |
-| A Shout in the Dark | 50.00% | ~274,332 |
-| A Thirst for Knowledge | 48.00% | ~263,359 |
-| Snooze 'n' Soothe | 48.00% | ~263,359 |
-| Soothing Sounds | 46.00% | ~252,386 |
-| We Need You | 45.00% | ~246,899 |
-| Catcher Crusher | 45.00% | ~246,899 |
+| Delivering Is What I Do | 92.00% | ~504,774 |
+| Good Samaritan | 90.00% | ~493,800 |
+| Rebuilding America | 80.00% | ~438,934 |
+| Like and Be Liked | 77.00% | ~422,474 |
+| Apprentice Builder | 72.00% | ~395,040 |
+| A New Day for the UCA | 71.00% | ~389,554 |
+| A Baby Blessing | 65.00% | ~356,634 |
+| Prominent Porter | 65.00% | ~356,634 |
+| Building Bridges | 64.00% | ~351,147 |
+| Well Connected | 62.00% | ~340,174 |
+| The Custom Kid | 61.00% | ~334,687 |
+| Chiral Crafter | 59.00% | ~323,714 |
+| Boots Are a Porter's Best Friend | 59.00% | ~323,714 |
+| The People's Porter | 57.00% | ~312,740 |
+| I Couldn't Hold it In! | 56.00% | ~307,254 |
+| Everyday Delivery | 52.00% | ~285,307 |
+| A Shout in the Dark | 50.00% | ~274,334 |
+| A Thirst for Knowledge | 48.00% | ~263,360 |
+| Snooze 'n' Soothe | 48.00% | ~263,360 |
+| Soothing Sounds | 46.00% | ~252,387 |
+| We Need You | 45.00% | ~246,900 |
+| Catcher Crusher | 45.00% | ~246,900 |
 | Sleep Tight, Little BB | 44.00% | ~241,413 |
-| Giver of Gifts | 39.00% | ~213,979 |
-| All Roads Lead to the UCA | 39.00% | ~213,979 |
-| The Automation Revolution | 37.00% | ~203,006 |
-| Well-Traveled | 37.00% | ~203,006 |
-| Pathfinder | 36.00% | ~197,519 |
-| I Won't Break | 33.00% | ~181,059 |
+| Giver of Gifts | 39.00% | ~213,980 |
+| All Roads Lead to the UCA | 39.00% | ~213,980 |
+| The Automation Revolution | 37.00% | ~203,007 |
+| Well-Traveled | 37.00% | ~203,007 |
+| Pathfinder | 36.00% | ~197,520 |
+| I Won't Break | 33.00% | ~181,060 |
 | BB... | 32.00% | ~175,573 |
 | The World's Most Popular Porter | 30.00% | ~164,600 |
-| Pumped Porter | 28.00% | ~153,626 |
-| We're Whole Again | 28.00% | ~153,626 |
+| Pumped Porter | 28.00% | ~153,627 |
+| We're Whole Again | 28.00% | ~153,627 |
 | BBs: A Bridge Between This World and the One Beyond | 26.00% | ~142,653 |
 | "BB" | 26.00% | ~142,653 |
-| Soak and Sigh | 25.00% | ~137,166 |
+| Soak and Sigh | 25.00% | ~137,167 |
 | Deliveries Done | 24.00% | ~131,680 |
-| The Particle of God | 22.00% | ~120,706 |
-| Sixty Deaths and Sixty Births in a Day | 22.00% | ~120,706 |
+| The Particle of God | 22.00% | ~120,707 |
+| Sixty Deaths and Sixty Births in a Day | 22.00% | ~120,707 |
 | I'm Your Die-Hardman | 21.00% | ~115,220 |
 | Bring Back My Baby | 21.00% | ~115,220 |
 | She's waiting for you on the Beach. | 21.00% | ~115,220 |
@@ -70,7 +70,7 @@ Number of Ratings: 3,099  (23.09.2022)
 | Greatest of Great Deliverers | 0.40% | ~2,195 |
 | Homo Faber | 0.40% | ~2,195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 548,665 (Ranked 32)  
+Progressed: 548,667 (Ranked 32)  
 Completed: 2,160 (0.39%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 2,160 (0.39%) (Ranked 226)
 | 2023-12-04 | 548,317 | 2,158 |
 | 2023-12-05 | 548,484 | 2,158 |
 | 2023-12-06 | 548,654 | 2,159 |
-| 2023-12-07 | 548,665 | 2,160 |
+| 2023-12-07 | 548,667 | 2,160 |
 ## Awards
 Max (Great Boss Battles): 8,848  (Ranked 41)  
 Sum: 15,256 (Ranked 69)  

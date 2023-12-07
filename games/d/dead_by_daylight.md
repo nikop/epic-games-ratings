@@ -6,8 +6,8 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,513 |
-| Skillful | 2.00% | ~21,513 |
+| It wakes | 2.00% | ~21,514 |
+| Skillful | 2.00% | ~21,514 |
 | Zealous | 1.00% | ~10,757 |
 | Not half bad | 1.00% | ~10,757 |
 | Apt Survivor | 1.00% | ~10,757 |
@@ -17,12 +17,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Handyman | 0.90% | ~9,681 |
 | Sorted | 0.90% | ~9,681 |
 | Resurgence | 0.90% | ~9,681 |
-| The Grand Sacrifice | 0.80% | ~8,605 |
-| No one left behind | 0.80% | ~8,605 |
-| Medic | 0.80% | ~8,605 |
-| Bloody Millionaire | 0.80% | ~8,605 |
-| Healthy Obsession | 0.80% | ~8,605 |
-| Preemptive Strike | 0.80% | ~8,605 |
+| The Grand Sacrifice | 0.80% | ~8,606 |
+| No one left behind | 0.80% | ~8,606 |
+| Medic | 0.80% | ~8,606 |
+| Bloody Millionaire | 0.80% | ~8,606 |
+| Healthy Obsession | 0.80% | ~8,606 |
+| Preemptive Strike | 0.80% | ~8,606 |
 | Backdoor Escape | 0.70% | ~7,530 |
 | Perfect Escape | 0.70% | ~7,530 |
 | Humanitarian | 0.70% | ~7,530 |
@@ -35,9 +35,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.60% | ~6,454 |
 | Wounded Healer | 0.60% | ~6,454 |
 | Close Shave | 0.60% | ~6,454 |
-| Vulture | 0.50% | ~5,378 |
-| III | 0.50% | ~5,378 |
-| Lifting The Fog | 0.50% | ~5,378 |
+| Vulture | 0.50% | ~5,379 |
+| III | 0.50% | ~5,379 |
+| Lifting The Fog | 0.50% | ~5,379 |
 | Blood on your hands | 0.40% | ~4,303 |
 | Escape Artist | 0.40% | ~4,303 |
 | Gifts for the Fog | 0.40% | ~4,303 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,076 |
 | Adept Good Guy | 0.10% | ~1,076 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,075,656 (Ranked 14)  
+Progressed: 1,075,712 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -470,18 +470,18 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
-| 2023-12-07 | 1,075,656 | 61 |
+| 2023-12-07 | 1,075,712 | 61 |
 ## Awards
 Max (Diverse Characters): 37,449  (Ranked 15)  
-Sum: 283,748 (Ranked 12)  
+Sum: 283,845 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37,449 |
-| This game is Highly Recommended | 32,435 |
+| This game is Highly Recommended | 32,491 |
 | This game has Amazing Characters | 31,966 |
 | This game has Competitive Players | 31,791 |
-| This game is Extremely Fun | 31,433 |
+| This game is Extremely Fun | 31,474 |
 | This game has Challenging Combat | 31,357 |
 | This game has Quickly Understood Controls | 30,658 |
 | This game has Amazing Storytelling | 28,959 |
@@ -808,3 +808,4 @@ Diff (max vs sum): 3
 | 2023-12-04 | 4.51 | - | 37,289 | 282,989 |
 | 2023-12-05 | 4.51 | - | 37,377 | 283,349 |
 | 2023-12-06 | 4.51 | - | 37,449 | 283,748 |
+| 2023-12-07 | 4.51 | - | 37,449 | 283,845 |

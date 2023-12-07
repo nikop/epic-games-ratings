@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1431,9 +1431,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6240,
+  "EOS_Progressed": 6241,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13956,6 +13956,11 @@
       "Time": "2023-12-07T01:57:50.9426632+00:00",
       "NumProgressed": 6240,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-07T02:34:13.9670857+00:00",
+      "NumProgressed": 6241,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14007,7 +14012,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -14071,7 +14076,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -14111,7 +14116,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -14127,7 +14132,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4680
+      "UsersEstimate": 4681
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14223,7 +14228,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2871
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14286,15 +14291,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6240,
+      "Progressed": 6241,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-04T06:58:37.0670736+00:00",
-  "LastChanged_Achievements": "2023-12-07T01:57:50.9426627+00:00",
+  "LastChanged_Achievements": "2023-12-07T02:34:13.9670853+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:34.7926512+00:00",
-  "LastUpdate_Ratings": "2023-12-07T01:47:50.4185874+00:00",
-  "LastUpdate_Achievements": "2023-12-07T01:57:50.9427517+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:25:21.2635036+00:00",
+  "LastUpdate_Achievements": "2023-12-07T02:34:13.9671665+00:00"
 }
