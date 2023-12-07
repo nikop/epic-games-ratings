@@ -134,7 +134,7 @@
 | 130 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,405 | 94 |
 | 130 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,100 | 145 |
 | 130 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,243 | 140 |
-| 130 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 24,977 | 17 |
+| 130 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 25,000 | 17 |
 | 130 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 5,214 | 71 |
 | 130 | [Journey](games/j/journey.md) | 4.76 | 0 | 557 |
 | 130 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 557 |
@@ -210,7 +210,7 @@
 | 198 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 557 |
 | 198 | [The Alto Collection](games/t/the_alto_collection.md) | 4.71 | 48 | 441 |
 | 198 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.71 | 0 | 557 |
-| 198 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,139 | 110 |
+| 198 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,141 | 110 |
 | 198 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 557 |
 | 198 | [World of Goo](games/w/world_of_goo.md) | 4.71 | 0 | 557 |
 | 198 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.71 | 0 | 557 |
@@ -320,7 +320,7 @@
 | 315 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 0 | 557 |
 | 315 | [Black Book](games/b/black_book.md) | 4.65 | 0 | 557 |
 | 315 | [Crashlands](games/c/crashlands.md) | 4.65 | 196 | 292 |
-| 315 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 174 | 306 |
+| 315 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 174 | 307 |
 | 315 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 557 |
 | 315 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.65 | 0 | 557 |
 | 315 | [GigaBash](games/g/gigabash.md) | 4.65 | 0 | 557 |
@@ -505,7 +505,7 @@
 | 494 | [Hue](games/h/hue.md) | 4.56 | 0 | 557 |
 | 494 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 557 |
 | 494 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,751 | 76 |
-| 494 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 8,344 | 44 |
+| 494 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 8,350 | 44 |
 | 494 | [Outward Definitive Edition](games/o/outward.md) | 4.56 | 35 | 482 |
 | 494 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,822 | 119 |
 | 494 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,999 | 74 |
@@ -533,7 +533,7 @@
 | 529 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 7,968 | 49 |
 | 529 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 477 |
 | 529 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 557 |
-| 529 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 174 | 306 |
+| 529 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 175 | 306 |
 | 529 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 557 |
 | 529 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 990 | 155 |
 | 529 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 486 |
