@@ -5,18 +5,18 @@ Rating: 4.66 (Ranked 294)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~22,093 |
-| A Long Time Ago | 93.00% | ~20,546 |
-| Sabersmith | 80.00% | ~17,674 |
+| The Mantis | 100.00% | ~22,094 |
+| A Long Time Ago | 93.00% | ~20,547 |
+| Sabersmith | 80.00% | ~17,675 |
 | The Obstacle is the Way | 78.00% | ~17,233 |
-| Back At You | 73.00% | ~16,128 |
-| Happy Go Wookiee | 69.00% | ~15,244 |
+| Back At You | 73.00% | ~16,129 |
+| Happy Go Wookiee | 69.00% | ~15,245 |
 | Everything is Connected | 60.00% | ~13,256 |
-| Her Name Was Masana Tide | 55.00% | ~12,151 |
-| Bank Shot | 54.00% | ~11,930 |
-| Perfect Timing | 53.00% | ~11,709 |
-| Gorgara Falls | 51.00% | ~11,267 |
-| The Full Glow-Up | 50.00% | ~11,046 |
+| Her Name Was Masana Tide | 55.00% | ~12,152 |
+| Bank Shot | 54.00% | ~11,931 |
+| Perfect Timing | 53.00% | ~11,710 |
+| Gorgara Falls | 51.00% | ~11,268 |
+| The Full Glow-Up | 50.00% | ~11,047 |
 | For A More Civilized Age | 49.00% | ~10,826 |
 | I Knew He Was No Good | 47.00% | ~10,384 |
 | The Holocron Awaits | 46.00% | ~10,163 |
@@ -24,9 +24,9 @@ Rating: 4.66 (Ranked 294)
 | Trust Only In The Force | 44.00% | ~9,721 |
 | Scum and Villainy | 43.00% | ~9,500 |
 | Don't Mess with BD-1 | 42.00% | ~9,279 |
-| Blade Master | 39.00% | ~8,616 |
-| Full House | 36.00% | ~7,953 |
-| Legendary Beasts | 22.00% | ~4,860 |
+| Blade Master | 39.00% | ~8,617 |
+| Full House | 36.00% | ~7,954 |
+| Legendary Beasts | 22.00% | ~4,861 |
 | Echo Location | 20.00% | ~4,419 |
 | Visiting Alderaan Places | 18.00% | ~3,977 |
 | Triple Take | 14.00% | ~3,093 |
@@ -34,8 +34,8 @@ Rating: 4.66 (Ranked 294)
 | Big Bang | 12.00% | ~2,651 |
 | Feel the Force | 10.00% | ~2,209 |
 | Can't Touch This | 9.00% | ~1,988 |
-| Medical Droid | 8.00% | ~1,767 |
-| Data Collector | 8.00% | ~1,767 |
+| Medical Droid | 8.00% | ~1,768 |
+| Data Collector | 8.00% | ~1,768 |
 | Collector | 6.00% | ~1,326 |
 | Data Disk | 6.00% | ~1,326 |
 | Kickoff | 4.00% | ~884 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 294)
 | Kicking Back | 2.00% | ~442 |
 | Not So Fast | 1.00% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,093 (Ranked 140)  
+Progressed: 22,094 (Ranked 140)  
 Completed: 222 (1.00%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 222 (1.00%) (Ranked 170)
 | 2023-12-04 | 21,760 | 221 |
 | 2023-12-05 | 21,896 | 222 |
 | 2023-12-06 | 22,052 | 222 |
-| 2023-12-07 | 22,093 | 222 |
+| 2023-12-07 | 22,094 | 222 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

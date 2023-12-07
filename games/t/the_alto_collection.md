@@ -36,17 +36,17 @@ Number of Ratings: 332  (23.09.2022)
 | Daredevil | 1.00% | ~492 |
 | Introducing Sumara | 1.00% | ~492 |
 | Vandal | 1.00% | ~492 |
-| Unlock Felipe | 0.90% | ~442 |
+| Unlock Felipe | 0.90% | ~443 |
 | Adventurer | 0.80% | ~393 |
 | Unlock Tupa | 0.50% | ~246 |
-| Master Of The Sands | 0.30% | ~147 |
+| Master Of The Sands | 0.30% | ~148 |
 | Master | 0.20% | ~98 |
 | Survivalist | 0.20% | ~98 |
 | Life Aquatic | 0.10% | ~49 |
 | The Ultimate Challenge | 0.10% | ~49 |
 | Windswept | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,166 (Ranked 114)  
+Progressed: 49,167 (Ranked 114)  
 Completed: 5 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 5 (0.01%) (Ranked 348)
 | 2023-12-04 | 48,906 | 5 |
 | 2023-12-05 | 49,027 | 5 |
 | 2023-12-06 | 49,139 | 5 |
-| 2023-12-07 | 49,166 | 5 |
+| 2023-12-07 | 49,167 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 441)  
 Sum: 377 (Ranked 351)  

@@ -2,7 +2,7 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_Rating": 752,
+  "Ranking_Rating": 753,
   "Ranking_Popularity": 350,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 51,
@@ -1833,9 +1833,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 329476,
+  "EOS_Progressed": 329502,
   "EOS_Completed": 501,
-  "EOS_NewPlayers": 12305,
+  "EOS_NewPlayers": 12310,
   "EOS_NewCompleters": 150,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15358,6 +15358,11 @@
       "Time": "2023-12-07T06:04:33.124919+00:00",
       "NumProgressed": 329476,
       "NumCompleted": 501
+    },
+    {
+      "Time": "2023-12-07T07:04:38.483222+00:00",
+      "NumProgressed": 329502,
+      "NumCompleted": 501
     }
   ],
   "TotalAchievements": 24,
@@ -15377,7 +15382,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 16474
+      "UsersEstimate": 16475
     },
     {
       "ID": "11",
@@ -15385,7 +15390,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "12",
@@ -15409,7 +15414,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 23063
+      "UsersEstimate": 23065
     },
     {
       "ID": "15",
@@ -15425,7 +15430,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 0.9,
       "XP": 45,
-      "UsersEstimate": 2965
+      "UsersEstimate": 2966
     },
     {
       "ID": "17",
@@ -15441,7 +15446,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "19",
@@ -15465,7 +15470,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 13179
+      "UsersEstimate": 13180
     },
     {
       "ID": "21",
@@ -15473,7 +15478,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "22",
@@ -15481,7 +15486,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 0.7,
       "XP": 55,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "23",
@@ -15497,7 +15502,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 9884
+      "UsersEstimate": 9885
     },
     {
       "ID": "3",
@@ -15513,7 +15518,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 9884
+      "UsersEstimate": 9885
     },
     {
       "ID": "5",
@@ -15521,7 +15526,7 @@
       "Name": "ROOKIE",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 39537
+      "UsersEstimate": 39540
     },
     {
       "ID": "6",
@@ -15529,7 +15534,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 13179
+      "UsersEstimate": 13180
     },
     {
       "ID": "7",
@@ -15553,14 +15558,14 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 2965
+      "UsersEstimate": 2966
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 329476,
+      "Progressed": 329502,
       "Completed": 501
     }
   ],
@@ -15568,8 +15573,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-12-06T22:58:57.8875507+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:04:33.1249185+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:04:38.4832217+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.0214337+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:58:44.888876+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:04:33.1249988+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:58:51.4577798+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:04:38.4833023+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "964f58c4c2074404bf9c359483ab1a48",
   "Name": "Midnight Ghost Hunt",
   "ProductSlug": "midnight-ghost-hunt",
-  "Ranking_Rating": 794,
+  "Ranking_Rating": 795,
   "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 10,
@@ -2103,9 +2103,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1292343,
+  "EOS_Progressed": 1292345,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1207,
+  "EOS_NewPlayers": 1205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24168,6 +24168,11 @@
       "Time": "2023-12-07T06:05:40.5565944+00:00",
       "NumProgressed": 1292343,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T07:05:53.3651704+00:00",
+      "NumProgressed": 1292345,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -24299,7 +24304,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 103387
+      "UsersEstimate": 103388
     },
     {
       "ID": "10_hero_prop_kills",
@@ -24475,7 +24480,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 762482
+      "UsersEstimate": 762484
     },
     {
       "ID": "hunter_win",
@@ -24483,7 +24488,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 697865
+      "UsersEstimate": 697866
     },
     {
       "ID": "master_of_loadouts",
@@ -24507,14 +24512,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 284315
+      "UsersEstimate": 284316
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1292343,
+      "Progressed": 1292345,
       "Completed": 0
     }
   ],
@@ -24522,8 +24527,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-12-06T23:00:06.5375067+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:05:40.5565939+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:05:53.3651702+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:12.3438566+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:59:32.2851589+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:05:40.5567172+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:59:45.4779805+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:05:53.3652763+00:00"
 }

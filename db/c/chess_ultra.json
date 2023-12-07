@@ -2,7 +2,7 @@
   "ID": "0e9ae0e756524ed49a27435c9c3c3e1c",
   "Name": "Chess Ultra",
   "ProductSlug": "chess-ultra-91bba3",
-  "Ranking_Rating": 842,
+  "Ranking_Rating": 843,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 71,
@@ -449,9 +449,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220929,
+  "EOS_Progressed": 220930,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 994,
+  "EOS_NewPlayers": 992,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26749,6 +26749,11 @@
       "Time": "2023-12-07T06:08:31.3760731+00:00",
       "NumProgressed": 220929,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-07T07:07:59.6760911+00:00",
+      "NumProgressed": 220930,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -26808,7 +26813,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 121511
+      "UsersEstimate": 121512
     },
     {
       "ID": "Checkmate",
@@ -26832,7 +26837,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 154650
+      "UsersEstimate": 154651
     },
     {
       "ID": "DoubleCheck",
@@ -27016,7 +27021,7 @@
       "Name": "Stranger Danger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 26511
+      "UsersEstimate": 26512
     },
     {
       "ID": "TournamentAmateur",
@@ -27063,7 +27068,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 220929,
+      "Progressed": 220930,
       "Completed": 2
     }
   ],
@@ -27071,8 +27076,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-12-01T13:07:49.2205342+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:08:31.3760726+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:07:59.6760906+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:19.3584195+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:59:35.5750105+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:08:31.3762081+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:59:49.1058428+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:07:59.6762131+00:00"
 }

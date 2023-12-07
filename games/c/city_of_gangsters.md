@@ -1,23 +1,23 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 858)  
+Rating: 4.28 (Ranked 859)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,551 |
-| Copacetic Coordination | 16.00% | ~56,887 |
+| Corner Clout | 46.00% | ~163,552 |
+| Copacetic Coordination | 16.00% | ~56,888 |
 | Fronting the Money | 15.00% | ~53,332 |
-| The Dawn of Automation | 14.00% | ~49,776 |
-| Extraordinary Logistics | 14.00% | ~49,776 |
+| The Dawn of Automation | 14.00% | ~49,777 |
+| Extraordinary Logistics | 14.00% | ~49,777 |
 | Dirty Money | 13.00% | ~46,221 |
 | Family First | 13.00% | ~46,221 |
-| Cleaning House | 12.00% | ~42,665 |
-| Room in the Back | 12.00% | ~42,665 |
+| Cleaning House | 12.00% | ~42,666 |
+| Room in the Back | 12.00% | ~42,666 |
 | Beating the Heat | 11.00% | ~39,110 |
 | Booze Baron | 11.00% | ~39,110 |
-| Friends on the Force | 10.00% | ~35,554 |
-| Neighborhood Watch | 10.00% | ~35,554 |
+| Friends on the Force | 10.00% | ~35,555 |
+| Neighborhood Watch | 10.00% | ~35,555 |
 | Core Corps | 8.00% | ~28,444 |
 | Sizeable Stash | 8.00% | ~28,444 |
 | Street Fighter | 7.00% | ~24,888 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 858)
 | High Pillow | 0.10% | ~356 |
 | Station Master | 0.10% | ~356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 355,545 (Ranked 49)  
+Progressed: 355,547 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-04 | 355,276 | 7 |
 | 2023-12-05 | 355,386 | 7 |
 | 2023-12-06 | 355,527 | 7 |
-| 2023-12-07 | 355,545 | 7 |
+| 2023-12-07 | 355,547 | 7 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 438)  
 Sum: 245 (Ranked 386)  

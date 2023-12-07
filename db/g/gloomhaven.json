@@ -2,7 +2,7 @@
   "ID": "bc079f73f020432fac896d30c8e2c330",
   "Name": "Gloomhaven",
   "ProductSlug": "gloomhaven-92f741",
-  "Ranking_Rating": 638,
+  "Ranking_Rating": 639,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 132,
@@ -2617,7 +2617,7 @@
   ],
   "EOS_Progressed": 25009,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1289,
+  "EOS_NewPlayers": 1287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12577,8 +12577,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-06T19:01:19.4213962+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:08:45.9063705+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:08:16.0356678+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.3646909+00:00",
-  "LastUpdate_Ratings": "2023-12-07T06:00:09.8662482+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:08:45.9064518+00:00"
+  "LastUpdate_Ratings": "2023-12-07T07:00:28.7429302+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:08:16.0357601+00:00"
 }

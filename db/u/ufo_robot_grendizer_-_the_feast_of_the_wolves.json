@@ -312,9 +312,9 @@
       "ID": "ACH_THESPACEHYDRA",
       "SetID": "ch874lb",
       "Name": "The Space Hydra",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_THEULTIMATEATTACK",
@@ -351,8 +351,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:09:05.1778514+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:08:37.3189176+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:12.6917781+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:59:27.2300009+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:09:05.1778709+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:59:39.5881147+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:08:37.318932+00:00"
 }

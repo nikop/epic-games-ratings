@@ -4,7 +4,7 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -643,9 +643,9 @@
       "ID": "ACH_BRANCH_ALL_SLOTS",
       "SetID": "cagp2pi",
       "Name": "All clean",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_DARK_PALADIN_ABSORBED",
@@ -683,9 +683,9 @@
       "ID": "ACH_FINISH_GAME",
       "SetID": "cagp2pi",
       "Name": "Edda and Aven",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -778,8 +778,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:04:18.2914667+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:04:21.7886375+00:00",
   "LastUpdate_AppInfo": "2023-12-01T13:57:00.5730741+00:00",
-  "LastUpdate_Ratings": "2023-12-07T06:00:09.0448461+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:04:18.2914838+00:00"
+  "LastUpdate_Ratings": "2023-12-07T07:00:27.8091362+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:04:21.7886535+00:00"
 }

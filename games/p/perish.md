@@ -11,14 +11,14 @@
 | Persephone's Guidance | 5.00% | ~188 |
 | Lochos | 5.00% | ~188 |
 | Strength of Herakles | 5.00% | ~188 |
-| Immolator | 4.00% | ~150 |
-| Go For the Head | 4.00% | ~150 |
-| Spartan Sandal | 4.00% | ~150 |
-| Modest Earnings | 4.00% | ~150 |
-| Symbols of Heresy | 4.00% | ~150 |
-| The Sons of Minos | 4.00% | ~150 |
-| Eidola | 4.00% | ~150 |
-| Reign in Blood | 4.00% | ~150 |
+| Immolator | 4.00% | ~151 |
+| Go For the Head | 4.00% | ~151 |
+| Spartan Sandal | 4.00% | ~151 |
+| Modest Earnings | 4.00% | ~151 |
+| Symbols of Heresy | 4.00% | ~151 |
+| The Sons of Minos | 4.00% | ~151 |
+| Eidola | 4.00% | ~151 |
+| Reign in Blood | 4.00% | ~151 |
 | Comedy and Tragedy | 3.00% | ~113 |
 | Pillars of Eternity | 3.00% | ~113 |
 | War Chest | 3.00% | ~113 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,762 (Ranked 201)  
+Progressed: 3,765 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-04 | 3,746 | 0 |
 | 2023-12-05 | 3,754 | 0 |
 | 2023-12-06 | 3,759 | 0 |
-| 2023-12-07 | 3,762 | 0 |
+| 2023-12-07 | 3,765 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

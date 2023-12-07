@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.95 (Ranked 1,018)  
+Rating: 3.95 (Ranked 1,019)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -31,7 +31,7 @@ Rating: 3.95 (Ranked 1,018)
 | Moneybags | 0.50% | ~459 |
 | Olympus Ascended | 0.50% | ~459 |
 | Ding Dong | 0.50% | ~459 |
-| All that Glitters | 0.40% | ~80 |
+| All that Glitters | 0.40% | ~81 |
 | Rockay Raider | 0.30% | ~275 |
 | Groundhog Days | 0.30% | ~275 |
 | Cracked the Jack | 0.30% | ~275 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,018)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,778 (Ranked 92)  
+Progressed: 91,779 (Ranked 92)  
 Completed: 58 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 58 (0.06%) (Ranked 313)
 | 2023-12-04 | 91,746 | 58 |
 | 2023-12-05 | 91,760 | 58 |
 | 2023-12-06 | 91,775 | 58 |
-| 2023-12-07 | 91,778 | 58 |
+| 2023-12-07 | 91,779 | 58 |
 ## Awards
 Max (Diverse Characters): 557  (Ranked 207)  
 Sum: 2,645 (Ranked 188)  

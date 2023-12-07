@@ -845,9 +845,9 @@
       "ID": "rocket_science",
       "SetID": "f2im8d",
       "Name": "Rocket Science",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "save_all_rats",
@@ -972,8 +972,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:04:41.2899707+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:04:47.5735341+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.0795294+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:59:11.6307968+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:04:41.2900052+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:59:21.6144948+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:04:47.5735785+00:00"
 }

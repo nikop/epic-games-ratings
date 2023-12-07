@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 794,
+  "Ranking_Rating": 795,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 153,
@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 15099,
+  "EOS_Progressed": 15100,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 888,
+  "EOS_NewPlayers": 885,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12690,6 +12690,11 @@
       "Time": "2023-12-07T06:09:07.7355489+00:00",
       "NumProgressed": 15099,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-07T07:08:40.1098516+00:00",
+      "NumProgressed": 15100,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -12926,7 +12931,7 @@
       "Name": "Knight of Langhe",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "a_8",
@@ -12949,7 +12954,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 15099,
+      "Progressed": 15100,
       "Completed": 12
     }
   ],
@@ -12957,8 +12962,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:09:07.7355485+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:08:40.1098514+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:18.6853909+00:00",
-  "LastUpdate_Ratings": "2023-12-07T06:02:58.6733653+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:09:07.7356309+00:00"
+  "LastUpdate_Ratings": "2023-12-07T07:02:50.9405063+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:08:40.1099086+00:00"
 }

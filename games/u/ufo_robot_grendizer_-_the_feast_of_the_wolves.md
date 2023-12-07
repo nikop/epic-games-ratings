@@ -12,10 +12,10 @@
 | Technology first! | 31.00% | ~4 |
 | The Legend | 31.00% | ~4 |
 | The Keeper of Fleed | 23.00% | ~3 |
+| The Space Hydra | 23.00% | ~3 |
 | A Good Paint Job | 15.00% | ~2 |
 | Iron Fist | 15.00% | ~2 |
 | The Exterminator | 15.00% | ~2 |
-| The Space Hydra | 15.00% | ~2 |
 | The Vega Turtle | 15.00% | ~2 |
 | The Power of Friendship | 8.00% | ~1 |
 | The Planner | 8.00% | ~1 |

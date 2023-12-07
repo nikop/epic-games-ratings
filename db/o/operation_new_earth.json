@@ -2,12 +2,12 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1054,
+  "Ranking_Rating": 1055,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1973,
+  "EOS_Progressed": 1974,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7493,6 +7493,11 @@
       "Time": "2023-12-07T05:05:00.8243393+00:00",
       "NumProgressed": 1973,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T07:04:19.7038156+00:00",
+      "NumProgressed": 1974,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7574,9 +7579,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 118
     },
     {
       "ID": "objective_headquarters_10",
@@ -7760,7 +7765,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -7807,7 +7812,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1973,
+      "Progressed": 1974,
       "Completed": 1
     }
   ],
@@ -7815,8 +7820,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:04:16.5008092+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:04:19.7038153+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:25.6864843+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:59:59.4822655+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:04:16.5008735+00:00"
+  "LastUpdate_Ratings": "2023-12-07T07:00:16.5907109+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:04:19.7038671+00:00"
 }

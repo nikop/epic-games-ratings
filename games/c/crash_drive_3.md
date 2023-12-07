@@ -32,16 +32,16 @@
 | Event Amateur | 18.00% | ~74 |
 | Feeling Hot Hot Hot! | 17.00% | ~70 |
 | Feeling Dizzy? | 17.00% | ~70 |
+| Ferry Good! | 17.00% | ~70 |
 | Drift King! | 16.00% | ~66 |
-| Ferry Good! | 16.00% | ~66 |
 | Assert Dominance | 16.00% | ~66 |
 | Speed of light | 16.00% | ~66 |
 | Out of this League | 14.00% | ~58 |
 | Special Forces | 12.00% | ~49 |
+| Blasting away! | 12.00% | ~49 |
 | Earth Defense Force | 11.00% | ~45 |
 | Toot Toot! | 11.00% | ~45 |
 | Rocketman | 11.00% | ~45 |
-| Blasting away! | 11.00% | ~45 |
 | High Roller | 10.00% | ~41 |
 | Event Pro | 9.00% | ~37 |
 | Space Crash | 7.00% | ~29 |

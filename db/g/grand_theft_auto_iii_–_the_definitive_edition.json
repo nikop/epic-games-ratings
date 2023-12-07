@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 905,
+  "Ranking_Rating": 906,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 171,
@@ -547,7 +547,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8734,
+  "EOS_Progressed": 8735,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -11737,6 +11737,11 @@
       "Time": "2023-12-07T06:04:47.4108717+00:00",
       "NumProgressed": 8734,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-07T07:04:54.2718998+00:00",
+      "NumProgressed": 8735,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -11748,7 +11753,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7249
+      "UsersEstimate": 7250
     },
     {
       "ID": "ACH02",
@@ -11788,7 +11793,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "ACH07",
@@ -11812,7 +11817,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ACH10",
@@ -11884,7 +11889,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ACH19",
@@ -11932,7 +11937,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACH25",
@@ -11940,7 +11945,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ACH26",
@@ -11979,7 +11984,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8734,
+      "Progressed": 8735,
       "Completed": 60
     }
   ],
@@ -11987,8 +11992,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-04T13:04:00.769343+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:04:47.4108715+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:04:54.2718996+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:15.6257409+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:59:43.1157941+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:04:47.41094+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:59:57.6285718+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:04:54.271994+00:00"
 }

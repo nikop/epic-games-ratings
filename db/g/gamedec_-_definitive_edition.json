@@ -2,12 +2,12 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 380,
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 254007,
+  "EOS_Progressed": 254010,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26295,6 +26295,11 @@
       "Time": "2023-12-07T05:05:56.8585433+00:00",
       "NumProgressed": 254007,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-07T07:05:04.404584+00:00",
+      "NumProgressed": 254010,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -26306,7 +26311,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68582
+      "UsersEstimate": 68583
     },
     {
       "ID": "ACH_AON",
@@ -26450,7 +26455,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73662
+      "UsersEstimate": 73663
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -26578,7 +26583,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17780
+      "UsersEstimate": 17781
     },
     {
       "ID": "ACH_MEMESMART",
@@ -26586,7 +26591,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15240
+      "UsersEstimate": 15241
     },
     {
       "ID": "ACH_MEMORY5",
@@ -26674,7 +26679,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15240
+      "UsersEstimate": 15241
     },
     {
       "ID": "ACH_TROLLKING",
@@ -26690,7 +26695,7 @@
       "Name": "Valedictorian",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15240
+      "UsersEstimate": 15241
     },
     {
       "ID": "ACH_WAKEUP",
@@ -26721,7 +26726,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 254007,
+      "Progressed": 254010,
       "Completed": 7
     }
   ],
@@ -26729,8 +26734,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:04:56.4731879+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:05:04.4045837+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.506273+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:58:35.5396636+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:04:56.4733719+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:58:40.4553977+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:05:04.4047389+00:00"
 }

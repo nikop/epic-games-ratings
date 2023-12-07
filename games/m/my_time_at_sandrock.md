@@ -6,20 +6,20 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 241.00% | ~1,207 |
-| Iron Chef | 171.00% | ~857 |
-| Super Spelunker | 136.00% | ~681 |
-| Greeno-B-Gone | 131.00% | ~656 |
-| The Little Wood that Could | 110.00% | ~551 |
-| Your Especially Earned Trajectory | 107.00% | ~536 |
-| No Mountain Wide Enough | 85.00% | ~426 |
-| One of the Cool Kids | 85.00% | ~426 |
-| On that Grindset | 80.00% | ~401 |
-| Yakmel Whisperer | 80.00% | ~401 |
-| Diamonds are Forever | 77.00% | ~386 |
+| Adept Assembler | 240.00% | ~1,205 |
+| Iron Chef | 171.00% | ~858 |
+| Super Spelunker | 136.00% | ~683 |
+| Greeno-B-Gone | 131.00% | ~658 |
+| The Little Wood that Could | 111.00% | ~557 |
+| Your Especially Earned Trajectory | 106.00% | ~532 |
+| No Mountain Wide Enough | 85.00% | ~427 |
+| One of the Cool Kids | 85.00% | ~427 |
+| On that Grindset | 80.00% | ~402 |
+| Yakmel Whisperer | 80.00% | ~402 |
+| Diamonds are Forever | 77.00% | ~387 |
 | Pack Mule | 75.00% | ~376 |
+| Can We Keep It? | 75.00% | ~376 |
 | I Do! | 75.00% | ~376 |
-| Can We Keep It? | 74.00% | ~371 |
 | First Love | 71.00% | ~356 |
 | Unboxing | 71.00% | ~356 |
 | Big Game Hunter | 67.00% | ~336 |
@@ -44,21 +44,21 @@ Number of Ratings: 892  (23.09.2022)
 | Knowledge is Power | 55.00% | ~276 |
 | Finishing Touches | 54.00% | ~271 |
 | Bridging the Gap | 54.00% | ~271 |
-| Got the Flow Back | 50.00% | ~250 |
-| Sepia Toned Memories | 48.00% | ~240 |
-| Who Ya Gonna Call...? | 47.00% | ~235 |
-| Time Flies | 45.00% | ~225 |
-| Jewel of the Eufaula | 44.00% | ~220 |
-| My Time Mansion | 43.00% | ~215 |
-| Kind of a Big Deal | 43.00% | ~215 |
-| Just What I Always Wanted! | 41.00% | ~205 |
-| He Can Spin A Yarn... | 39.00% | ~195 |
-| Santa In Training | 37.00% | ~185 |
-| Sandrunning Speedster | 36.00% | ~180 |
-| Newton | 34.00% | ~170 |
-| It Belongs in a Museum! | 34.00% | ~170 |
-| Pro Gamer | 33.00% | ~165 |
-| Do Your Part | 33.00% | ~165 |
+| Got the Flow Back | 50.00% | ~251 |
+| Sepia Toned Memories | 47.00% | ~236 |
+| Who Ya Gonna Call...? | 47.00% | ~236 |
+| Time Flies | 45.00% | ~226 |
+| Jewel of the Eufaula | 44.00% | ~221 |
+| My Time Mansion | 43.00% | ~216 |
+| Kind of a Big Deal | 43.00% | ~216 |
+| Just What I Always Wanted! | 41.00% | ~206 |
+| He Can Spin A Yarn... | 38.00% | ~191 |
+| Santa In Training | 37.00% | ~186 |
+| Sandrunning Speedster | 36.00% | ~181 |
+| Newton | 34.00% | ~171 |
+| It Belongs in a Museum! | 34.00% | ~171 |
+| Pro Gamer | 33.00% | ~166 |
+| Do Your Part | 33.00% | ~166 |
 | Cardistry | 23.00% | ~115 |
 | Winner and Still Champeen | 18.00% | ~90 |
 | Strong Arms | 16.00% | ~80 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Jack of All Trades | 8.00% | ~40 |
 | Sandrock's Hottest Club | 5.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501 (Ranked 314)  
+Progressed: 502 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-07 | 505 | 0 |
 ## Awards
 Max (Character Customization): 603  (Ranked 197)  
-Sum: 1,422 (Ranked 241)  
+Sum: 1,423 (Ranked 241)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
@@ -122,7 +122,7 @@ Diff (max vs sum): -44
 | This game has Diverse Characters | 82 |
 | This game is Relaxing | 77 |
 | This game has Amazing Characters | 75 |
-| This game has Amazing Storytelling | 73 |
+| This game has Amazing Storytelling | 74 |
 | This game has Easy Combat | 70 |
 | This game has a Creative Community | 60 |
 | This game has a Kind Community | 46 |
@@ -311,4 +311,4 @@ Diff (max vs sum): -44
 | 2023-12-03 | 4.68 | - | 601 | 1,416 |
 | 2023-12-04 | 4.68 | - | 602 | 1,417 |
 | 2023-12-05 | 4.68 | - | 603 | 1,420 |
-| 2023-12-07 | 4.68 | - | 603 | 1,422 |
+| 2023-12-07 | 4.68 | - | 603 | 1,423 |

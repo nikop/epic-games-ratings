@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 543,
+  "Ranking_Rating": 544,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 151,
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15949,
+  "EOS_Progressed": 15950,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13228,6 +13228,11 @@
       "Time": "2023-12-07T06:03:14.1216274+00:00",
       "NumProgressed": 15949,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-07T07:03:10.4622609+00:00",
+      "NumProgressed": 15950,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13296,7 +13301,7 @@
       "Name": "Drug Gifter",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "17",
@@ -13352,7 +13357,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "23",
@@ -13360,7 +13365,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "24",
@@ -13384,7 +13389,7 @@
       "Name": "Call it Even",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "27",
@@ -13424,7 +13429,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "4",
@@ -13432,7 +13437,7 @@
       "Name": "Debris Spree",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "5",
@@ -13464,7 +13469,7 @@
       "Name": "Data Recoverer",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "9",
@@ -13519,13 +13524,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15949,
+      "Progressed": 15950,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1903,
+      "Progressed": 1904,
       "Completed": 833
     }
   ],
@@ -13533,8 +13538,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:03:14.1216271+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:03:10.4622606+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:57:27.8499209+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:03:14.1217082+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:57:22.9049845+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:03:10.4623478+00:00"
 }

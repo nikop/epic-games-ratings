@@ -1,7 +1,7 @@
 # Zombie Rollerz: Pinball Heroes
 [Store](https://store.epicgames.com/en-US/p/zombie-rollerz-7aa027)  
 [View Rawdata](../../db/z/zombie_rollerz__pinball_heroes.json)  
-Rating: 4.30 (Ranked 842)  
+Rating: 4.30 (Ranked 843)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -37,8 +37,8 @@ Rating: 4.30 (Ranked 842)
 | Turquoise | 15.00% | ~30 |
 | The Assistant | 14.00% | ~28 |
 | The Steampunk | 13.00% | ~26 |
+| The Droid | 11.00% | ~22 |
 | Verse | 11.00% | ~22 |
-| The Droid | 10.00% | ~20 |
 | Iron | 10.00% | ~20 |
 | The Bomber | 8.00% | ~16 |
 | Tested | 8.00% | ~16 |

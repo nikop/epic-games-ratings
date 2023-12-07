@@ -2,9 +2,9 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 446,
+  "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97,
+  "EOS_Progressed": 98,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
@@ -489,6 +489,11 @@
       "Time": "2023-12-04T15:04:54.511861+00:00",
       "NumProgressed": 97,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T07:05:49.2122587+00:00",
+      "NumProgressed": 98,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -827,7 +832,7 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -853,7 +858,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "MindIlluminator",
@@ -925,7 +930,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ReflexiveMind",
@@ -971,7 +976,7 @@
       "ID": "ShardSpender",
       "SetID": "1jeo1g7",
       "Name": "Shard Spender",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -1099,7 +1104,7 @@
       "ID": "Unbeatable",
       "SetID": "1jeo1g7",
       "Name": "Unbeatable",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -1187,7 +1192,7 @@
       "ID": "BehenianChampion",
       "SetID": "1jeo1g7",
       "Name": "Behenian Champion",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -1284,14 +1289,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 97,
+      "Progressed": 98,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:05:36.8008946+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:05:49.2122585+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:23.7468693+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:58:09.1609608+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:05:36.8009863+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:58:09.5416935+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:05:49.2123364+00:00"
 }

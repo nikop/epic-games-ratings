@@ -2,12 +2,12 @@
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 678,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2022,
+  "EOS_Progressed": 2023,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2856,6 +2856,11 @@
       "Time": "2023-12-06T07:05:29.454876+00:00",
       "NumProgressed": 2022,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-07T07:06:15.8219586+00:00",
+      "NumProgressed": 2023,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2875,7 +2880,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2947,7 +2952,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -3011,7 +3016,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -3019,7 +3024,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -3099,7 +3104,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -3115,7 +3120,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -3243,7 +3248,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3251,7 +3256,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -3290,15 +3295,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2022,
+      "Progressed": 2023,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-26T10:59:42.9428977+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:06:00.8073533+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:06:15.8219583+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:26.6657181+00:00",
-  "LastUpdate_Ratings": "2023-12-07T06:02:45.7892395+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:06:00.8074059+00:00"
+  "LastUpdate_Ratings": "2023-12-07T07:02:36.300015+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:06:15.8219968+00:00"
 }

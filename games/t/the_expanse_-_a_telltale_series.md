@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 543)  
+Rating: 4.53 (Ranked 544)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,9 +18,9 @@ Rating: 4.53 (Ranked 543)
 | Spore Taste | 6.00% | ~957 |
 | Safe Cracker | 6.00% | ~114 |
 | Madame Undersecretary | 6.00% | ~114 |
-| Drug Gifter | 5.00% | ~797 |
-| Heal Thy Medic | 5.00% | ~797 |
-| Call it Even | 5.00% | ~797 |
+| Drug Gifter | 5.00% | ~798 |
+| Heal Thy Medic | 5.00% | ~798 |
+| Call it Even | 5.00% | ~798 |
 | Keep Arjun in Check | 5.00% | ~95 |
 | Data Archivist | 4.00% | ~638 |
 | Thorston Mayer | 4.00% | ~638 |
@@ -31,17 +31,17 @@ Rating: 4.53 (Ranked 543)
 | Miraculous Maya | 3.00% | ~478 |
 | Data Logger | 2.00% | ~319 |
 | Data Master | 2.00% | ~319 |
-| Brother's Reaper | 1.00% | ~159 |
-| No Belter Left Behind | 1.00% | ~159 |
-| Debris Spree | 1.00% | ~159 |
-| Data Recoverer | 1.00% | ~159 |
+| Brother's Reaper | 1.00% | ~160 |
+| No Belter Left Behind | 1.00% | ~160 |
+| Debris Spree | 1.00% | ~160 |
+| Data Recoverer | 1.00% | ~160 |
 | Urshanabi Hoarder | 0.60% | ~96 |
 | Data Miner | 0.40% | ~64 |
 | Grave Robber | 0.30% | ~48 |
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,949 (Ranked 151)  
+Progressed: 15,950 (Ranked 151)  
 Completed: 41 (0.26%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 41 (0.26%) (Ranked 250)
 | 2023-12-04 | 15,899 | 40 |
 | 2023-12-05 | 15,919 | 41 |
 | 2023-12-06 | 15,941 | 41 |
-| 2023-12-07 | 15,949 | 41 |
+| 2023-12-07 | 15,950 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

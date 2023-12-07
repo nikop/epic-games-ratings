@@ -2,7 +2,7 @@
   "ID": "e4a2a414d46849f49a35c0f80df2903a",
   "Name": "Verdun",
   "ProductSlug": "verdun",
-  "Ranking_Rating": 543,
+  "Ranking_Rating": 544,
   "Ranking_Popularity": 359,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 105,
@@ -1877,9 +1877,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 65691,
+  "EOS_Progressed": 65692,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 646,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27262,6 +27262,11 @@
       "Time": "2023-12-07T06:05:28.6314674+00:00",
       "NumProgressed": 65691,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-07T07:05:40.1863082+00:00",
+      "NumProgressed": 65692,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -27273,7 +27278,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 36130
+      "UsersEstimate": 36131
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -27537,7 +27542,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 26276
+      "UsersEstimate": 26277
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -27561,7 +27566,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 41385
+      "UsersEstimate": 41386
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -27641,7 +27646,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 51239
+      "UsersEstimate": 51240
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -27744,15 +27749,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 65691,
+      "Progressed": 65692,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-03T20:57:55.9094528+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:05:28.6314671+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:05:40.186308+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:11.1920851+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:59:40.9504597+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:05:28.6316045+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:59:55.2550114+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:05:40.1864504+00:00"
 }

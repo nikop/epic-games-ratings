@@ -9081,9 +9081,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 811423,
+  "EOS_Progressed": 811425,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 937,
+  "EOS_NewPlayers": 938,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -35041,6 +35041,11 @@
       "Time": "2023-12-07T05:09:11.5604151+00:00",
       "NumProgressed": 811423,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-07T07:08:39.593351+00:00",
+      "NumProgressed": 811425,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -35132,7 +35137,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 259655
+      "UsersEstimate": 259656
     },
     {
       "ID": "Bookworm",
@@ -35140,7 +35145,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121713
+      "UsersEstimate": 121714
     },
     {
       "ID": "Buddy",
@@ -35156,7 +35161,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48685
+      "UsersEstimate": 48686
     },
     {
       "ID": "Cavalier",
@@ -35252,7 +35257,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186627
+      "UsersEstimate": 186628
     },
     {
       "ID": "Fighter",
@@ -35707,15 +35712,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 811423,
+      "Progressed": 811425,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-07T01:47:19.4150711+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:09:07.2782108+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:08:39.5933508+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.1153377+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:59:43.9686836+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:09:07.2783847+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:59:58.5717888+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:08:39.593503+00:00"
 }

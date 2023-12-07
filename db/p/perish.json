@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3762,
+  "EOS_Progressed": 3765,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3996,6 +3996,11 @@
       "Time": "2023-12-07T05:04:00.7039783+00:00",
       "NumProgressed": 3762,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T07:03:31.4576579+00:00",
+      "NumProgressed": 3765,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -4055,7 +4060,7 @@
       "Name": "Immolator",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_FH",
@@ -4087,7 +4092,7 @@
       "Name": "Go For the Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_K_A2",
@@ -4095,7 +4100,7 @@
       "Name": "Spartan Sandal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_K_A3",
@@ -4143,7 +4148,7 @@
       "Name": "Modest Earnings",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_M_D2",
@@ -4223,7 +4228,7 @@
       "Name": "Symbols of Heresy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_OB_BR",
@@ -4255,7 +4260,7 @@
       "Name": "The Sons of Minos",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_OB_CS",
@@ -4303,7 +4308,7 @@
       "Name": "Eidola",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_OB_LI",
@@ -4431,7 +4436,7 @@
       "Name": "Reign in Blood",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_TP",
@@ -4510,7 +4515,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3762,
+      "Progressed": 3765,
       "Completed": 0
     }
   ],
@@ -4518,8 +4523,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:03:32.9369688+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:03:31.4576574+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:11.5239998+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:59:21.7183714+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:03:32.9370242+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:59:33.3069742+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:03:31.4577471+00:00"
 }

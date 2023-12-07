@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 91,
@@ -488,7 +488,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94784,
+  "EOS_Progressed": 94786,
   "EOS_Completed": 431,
   "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 5,
@@ -26118,6 +26118,11 @@
       "Time": "2023-12-07T06:08:47.1957281+00:00",
       "NumProgressed": 94784,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2023-12-07T07:08:17.3594798+00:00",
+      "NumProgressed": 94786,
+      "NumCompleted": 431
     }
   ],
   "TotalAchievements": 10,
@@ -26153,7 +26158,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Drawings04",
@@ -26185,7 +26190,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9478
+      "UsersEstimate": 9479
     },
     {
       "ID": "Level00BowlingStrike",
@@ -26193,7 +26198,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33174
+      "UsersEstimate": 33175
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -26208,15 +26213,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 94784,
+      "Progressed": 94786,
       "Completed": 431
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-29T15:00:28.7354435+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:08:47.1957277+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:08:17.3594793+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:15.1014443+00:00",
-  "LastUpdate_Ratings": "2023-12-07T06:02:58.4347804+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:08:47.1958651+00:00"
+  "LastUpdate_Ratings": "2023-12-07T07:02:50.6611048+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:08:17.3596086+00:00"
 }

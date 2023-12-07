@@ -2,7 +2,7 @@
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
   "ProductSlug": "dead-by-daylight",
-  "Ranking_Rating": 572,
+  "Ranking_Rating": 573,
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 14,
@@ -13454,9 +13454,9 @@
       "Count": 27700
     }
   ],
-  "EOS_Progressed": 1075974,
+  "EOS_Progressed": 1076041,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 21409,
+  "EOS_NewPlayers": 21407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39984,6 +39984,11 @@
       "Time": "2023-12-07T06:09:44.5630396+00:00",
       "NumProgressed": 1075974,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-07T07:09:20.3360219+00:00",
+      "NumProgressed": 1076041,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -40171,7 +40176,7 @@
       "Name": "It wakes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21519
+      "UsersEstimate": 21521
     },
     {
       "ID": "ACH_024",
@@ -40299,7 +40304,7 @@
       "Name": "Skillful",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21519
+      "UsersEstimate": 21521
     },
     {
       "ID": "ACH_040",
@@ -40849,9 +40854,9 @@
       "ID": "ACH_108",
       "SetID": "16jml5b",
       "Name": "Unforgettable Getaway",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3228
+      "UsersEstimate": 4304
     },
     {
       "ID": "ACH_109",
@@ -41257,9 +41262,9 @@
       "ID": "ACH_162",
       "SetID": "16jml5b",
       "Name": "Power Moves",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1076
+      "UsersEstimate": 2152
     },
     {
       "ID": "ACH_163",
@@ -41850,21 +41855,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1075974,
+      "Progressed": 1076041,
       "Completed": 70
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1075974,
+      "Progressed": 1076041,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-07T05:00:08.0154225+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:09:44.5630392+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:09:20.3360217+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:13.1126718+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:59:25.8565924+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:09:44.5635441+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:59:38.0689852+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:09:20.336548+00:00"
 }

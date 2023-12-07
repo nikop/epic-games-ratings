@@ -1,13 +1,13 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 572)  
+Rating: 4.51 (Ranked 573)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,519 |
-| Skillful | 2.00% | ~21,519 |
+| It wakes | 2.00% | ~21,521 |
+| Skillful | 2.00% | ~21,521 |
 | Zealous | 1.00% | ~10,760 |
 | Not half bad | 1.00% | ~10,760 |
 | Apt Survivor | 1.00% | ~10,760 |
@@ -42,6 +42,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escape Artist | 0.40% | ~4,304 |
 | Gifts for the Fog | 0.40% | ~4,304 |
 | III-50 | 0.40% | ~4,304 |
+| Unforgettable Getaway | 0.40% | ~4,304 |
 | First to the Punch | 0.40% | ~4,304 |
 | Operation: Survival | 0.40% | ~4,304 |
 | Old West Oasis | 0.40% | ~4,304 |
@@ -65,7 +66,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cherish your Life | 0.30% | ~3,228 |
 | Campbell's Chapel Legacy | 0.30% | ~3,228 |
 | Ancestor's Rite | 0.30% | ~3,228 |
-| Unforgettable Getaway | 0.30% | ~3,228 |
 | Cutting Out | 0.30% | ~3,228 |
 | Outrun Evil | 0.30% | ~3,228 |
 | Grim Pilgrimage | 0.30% | ~3,228 |
@@ -90,6 +90,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Selfless Survival | 0.20% | ~2,152 |
 | I See You | 0.20% | ~2,152 |
 | End of Days | 0.20% | ~2,152 |
+| Power Moves | 0.20% | ~2,152 |
 | Insult and Injury | 0.20% | ~2,152 |
 | Triage | 0.20% | ~2,152 |
 | Outrun the Overlap | 0.20% | ~2,152 |
@@ -186,7 +187,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Tag Team | 0.10% | ~1,076 |
 | Adept Twins | 0.10% | ~1,076 |
 | Rescue Mission | 0.10% | ~1,076 |
-| Power Moves | 0.10% | ~1,076 |
 | Adept Élodie | 0.10% | ~1,076 |
 | One Thousand Cuts | 0.10% | ~1,076 |
 | Multi-tasker | 0.10% | ~1,076 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,076 |
 | Adept Good Guy | 0.10% | ~1,076 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,075,974 (Ranked 14)  
+Progressed: 1,076,041 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -470,7 +470,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
-| 2023-12-07 | 1,075,974 | 61 |
+| 2023-12-07 | 1,076,041 | 61 |
 ## Awards
 Max (Diverse Characters): 37,449  (Ranked 15)  
 Sum: 283,978 (Ranked 12)  

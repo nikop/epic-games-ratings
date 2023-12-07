@@ -1,19 +1,19 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.54 (Ranked 529)  
+Rating: 4.54 (Ranked 530)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~975,145 |
-| I Need a Bigger Garage | 63.00% | ~682,601 |
-| Pump my Ride | 47.00% | ~509,242 |
-| Ghostbuster | 34.00% | ~368,388 |
-| Call Roadside Assistance | 18.00% | ~195,029 |
-| That Was Close | 18.00% | ~195,029 |
-| Quickie | 11.00% | ~119,184 |
-| California Dreamer | 7.00% | ~75,845 |
+| The First of Many | 90.00% | ~975,157 |
+| I Need a Bigger Garage | 63.00% | ~682,610 |
+| Pump my Ride | 47.00% | ~509,249 |
+| Ghostbuster | 34.00% | ~368,393 |
+| Call Roadside Assistance | 18.00% | ~195,031 |
+| That Was Close | 18.00% | ~195,031 |
+| Quickie | 11.00% | ~119,186 |
+| California Dreamer | 7.00% | ~75,846 |
 | Can't Touch This | 5.00% | ~54,175 |
 | Carménère Taster | 4.00% | ~43,340 |
 | Comeback | 4.00% | ~43,340 |
@@ -33,18 +33,18 @@ Number of Ratings: 1,343  (23.09.2022)
 | Oil Tycoon | 1.00% | ~10,835 |
 | Golden Passport | 1.00% | ~10,835 |
 | Brave and Bold | 1.00% | ~10,835 |
-| Old Master | 0.90% | ~9,751 |
-| Otaku | 0.90% | ~9,751 |
+| Old Master | 0.90% | ~9,752 |
+| Otaku | 0.90% | ~9,752 |
 | Volcano Surfer | 0.80% | ~8,668 |
 | Survivor | 0.60% | ~6,501 |
 | King of the World | 0.60% | ~6,501 |
-| Getting Famous | 0.50% | ~5,417 |
-| Now Go Play Outside | 0.30% | ~3,250 |
+| Getting Famous | 0.50% | ~5,418 |
+| Now Go Play Outside | 0.30% | ~3,251 |
 | Master of the Racetrack | 0.20% | ~2,167 |
-| Transporter | 0.10% | ~1,083 |
-| Look Mom, No Hands! | 0.10% | ~1,083 |
+| Transporter | 0.10% | ~1,084 |
+| Look Mom, No Hands! | 0.10% | ~1,084 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,083,494 (Ranked 12)  
+Progressed: 1,083,508 (Ranked 12)  
 Completed: 501 (0.05%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 501 (0.05%) (Ranked 321)
 | 2023-12-04 | 1,082,796 | 500 |
 | 2023-12-05 | 1,083,089 | 501 |
 | 2023-12-06 | 1,083,412 | 501 |
-| 2023-12-07 | 1,083,494 | 501 |
+| 2023-12-07 | 1,083,508 | 501 |
 ## Awards
 Max (Great for Beginners): 175  (Ranked 306)  
 Sum: 1,569 (Ranked 234)  

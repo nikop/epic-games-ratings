@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 55.00% | ~53 |
-| Purification Pioneer | 53.00% | ~51 |
+| Meissa's Savior | 55.00% | ~54 |
+| Purification Pioneer | 53.00% | ~52 |
 | Mechanical Buddy | 49.00% | ~48 |
 | Dicesmithing Time! | 47.00% | ~46 |
 | Endless Tricks | 43.00% | ~42 |
@@ -20,10 +20,10 @@
 | Astral Adventurer | 26.00% | ~25 |
 | Star Killer | 26.00% | ~25 |
 | Apian Champion | 26.00% | ~25 |
-| Loyal Partner | 25.00% | ~24 |
-| Behenian Champion | 23.00% | ~22 |
-| Shard Spender | 20.00% | ~19 |
-| Unbeatable | 18.00% | ~17 |
+| Loyal Partner | 24.00% | ~24 |
+| Behenian Champion | 22.00% | ~22 |
+| Shard Spender | 19.00% | ~19 |
+| Unbeatable | 17.00% | ~17 |
 | Aquarian Champion | 16.00% | ~16 |
 | Astral Seeker | 15.00% | ~15 |
 | Heart Gate | 14.00% | ~14 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 446)  
+Progressed: 98 (Ranked 445)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,3 +148,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-11-30 | 95 | 0 |
 | 2023-12-01 | 96 | 0 |
 | 2023-12-04 | 97 | 0 |
+| 2023-12-07 | 98 | 0 |

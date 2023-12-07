@@ -1,12 +1,12 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.53 (Ranked 543)  
+Rating: 4.53 (Ranked 544)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~31,549 |
+| It's a steal! | 37.00% | ~31,550 |
 | Final touch | 35.00% | ~29,844 |
 | Prop-M Rover | 32.00% | ~27,286 |
 | Changing the Planet | 28.00% | ~23,875 |
@@ -24,20 +24,20 @@ Number of Ratings: 2,731  (23.09.2022)
 | Biggest Reward | 14.00% | ~11,938 |
 | First Journey | 13.00% | ~11,085 |
 | Acquired knowledge | 12.00% | ~10,232 |
-| Landlord | 11.00% | ~9,379 |
-| Most Achievements | 11.00% | ~9,379 |
-| Hellenic Elysium | 11.00% | ~9,379 |
-| Grand champion | 11.00% | ~9,379 |
+| Landlord | 11.00% | ~9,380 |
+| Most Achievements | 11.00% | ~9,380 |
+| Hellenic Elysium | 11.00% | ~9,380 |
+| Grand champion | 11.00% | ~9,380 |
 | Spirit | 10.00% | ~8,527 |
 | Ultimate success | 10.00% | ~8,527 |
 | Variety Expert | 9.00% | ~7,674 |
-| Frequent tester | 8.00% | ~6,821 |
-| Determined | 8.00% | ~6,821 |
+| Frequent tester | 8.00% | ~6,822 |
+| Determined | 8.00% | ~6,822 |
 | Terraformer | 4.00% | ~3,411 |
 | Team Effort | 3.00% | ~2,558 |
 | Opportunity | 3.00% | ~2,558 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,268 (Ranked 95)  
+Progressed: 85,269 (Ranked 95)  
 Completed: 172 (0.20%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 172 (0.20%) (Ranked 259)
 | 2023-12-04 | 85,071 | 172 |
 | 2023-12-05 | 85,148 | 172 |
 | 2023-12-06 | 85,253 | 172 |
-| 2023-12-07 | 85,268 | 172 |
+| 2023-12-07 | 85,269 | 172 |
 ## Awards
 Max (Relaxing): 529  (Ranked 209)  
 Sum: 3,279 (Ranked 172)  

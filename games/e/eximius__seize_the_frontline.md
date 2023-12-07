@@ -1,7 +1,7 @@
 # Eximius: Seize the Frontline
 [Store](https://store.epicgames.com/en-US/p/eximius-seize-the-frontline)  
 [View Rawdata](../../db/e/eximius__seize_the_frontline.json)  
-Rating: 4.18 (Ranked 939)  
+Rating: 4.18 (Ranked 940)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 939)
 | Not Afraid of the Big Bad Wolf | 0.10% | ~201 |
 | Many More to Come | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201,022 (Ranked 75)  
+Progressed: 201,023 (Ranked 75)  
 Completed: 4 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 4 (0.00%) (Ranked 371)
 | 2023-12-04 | 200,936 | 4 |
 | 2023-12-05 | 200,968 | 4 |
 | 2023-12-06 | 201,012 | 4 |
-| 2023-12-07 | 201,022 | 4 |
+| 2023-12-07 | 201,023 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

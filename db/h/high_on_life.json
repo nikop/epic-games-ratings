@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24656,
+  "EOS_Progressed": 24657,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7318,6 +7318,11 @@
       "Time": "2023-12-07T02:30:27.2640928+00:00",
       "NumProgressed": 24656,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-07T07:05:27.0836629+00:00",
+      "NumProgressed": 24657,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -7633,7 +7638,7 @@
       "Name": "We Came, We Chainsaw, We Conquered",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_MAKE_A_WISH",
@@ -7680,13 +7685,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24656,
+      "Progressed": 24657,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1949,
+      "Progressed": 1950,
       "Completed": 1376
     }
   ],
@@ -7694,8 +7699,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:05:16.974871+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:05:27.0836625+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:04.790571+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:57:58.383078+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:05:16.9749311+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:57:57.2509431+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:05:27.0837266+00:00"
 }

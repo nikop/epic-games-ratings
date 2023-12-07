@@ -6,29 +6,29 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~727,889 |
-| The Blues | 85.00% | ~624,955 |
-| Fast | 66.00% | ~485,259 |
+| Out of bed | 99.00% | ~727,890 |
+| The Blues | 85.00% | ~624,956 |
+| Fast | 66.00% | ~485,260 |
 | Healthbar | 55.00% | ~404,383 |
 | Force Cube | 53.00% | ~389,678 |
 | Double Jump | 48.00% | ~352,916 |
-| Regeneration | 47.00% | ~345,563 |
+| Regeneration | 47.00% | ~345,564 |
 | Triple Jump | 43.00% | ~316,154 |
-| Climb the hill | 42.00% | ~308,801 |
+| Climb the hill | 42.00% | ~308,802 |
 | Through the fire pipe | 39.00% | ~286,744 |
 | MacGuffin | 38.00% | ~279,392 |
-| Just once | 37.00% | ~272,039 |
-| Armor | 30.00% | ~220,572 |
-| True holy spirit | 28.00% | ~205,867 |
+| Just once | 37.00% | ~272,040 |
+| Armor | 30.00% | ~220,573 |
+| True holy spirit | 28.00% | ~205,868 |
 | That's how electronics work obviously | 27.00% | ~198,515 |
 | Force Cube Catapult | 25.00% | ~183,810 |
-| Holy Sword | 23.00% | ~169,105 |
-| Telefrag | 23.00% | ~169,105 |
+| Holy Sword | 23.00% | ~169,106 |
+| Telefrag | 23.00% | ~169,106 |
 | Freed from prison | 21.00% | ~154,401 |
 | Stomp | 21.00% | ~154,401 |
 | Double Health | 19.00% | ~139,696 |
-| Buckle | 18.00% | ~132,343 |
-| Green Keycard | 18.00% | ~132,343 |
+| Buckle | 18.00% | ~132,344 |
+| Green Keycard | 18.00% | ~132,344 |
 | Rattle Hag | 16.00% | ~117,639 |
 | All Shells | 15.00% | ~110,286 |
 | Beam | 14.00% | ~102,934 |
@@ -56,7 +56,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Through the tiny pipe | 9.00% | ~66,172 |
 | Win! | 9.00% | ~66,172 |
 | The real real teleported man | 8.00% | ~58,819 |
-| Well deserved | 6.00% | ~44,114 |
+| Well deserved | 6.00% | ~44,115 |
 | Super Sword | 4.00% | ~29,410 |
 | Happiness | 3.00% | ~22,057 |
 | All Chests | 2.00% | ~14,705 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~735 |
 | DLC: Top of the world | 0.10% | ~735 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,241 (Ranked 20)  
+Progressed: 735,242 (Ranked 20)  
 Completed: 767 (0.10%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 767 (0.10%) (Ranked 290)
 | 2023-12-04 | 735,058 | 766 |
 | 2023-12-05 | 735,152 | 766 |
 | 2023-12-06 | 735,227 | 767 |
-| 2023-12-07 | 735,241 | 767 |
+| 2023-12-07 | 735,242 | 767 |
 ## Awards
 Max (Challenging Puzzles): 7,742  (Ranked 50)  
 Sum: 10,103 (Ranked 92)  

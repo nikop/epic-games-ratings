@@ -2,12 +2,12 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 648,
+  "Ranking_Rating": 649,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251922,
+  "EOS_Progressed": 251923,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20652,6 +20652,11 @@
       "Time": "2023-12-07T02:33:51.0853302+00:00",
       "NumProgressed": 251922,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-07T07:08:57.5710271+00:00",
+      "NumProgressed": 251923,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -20767,7 +20772,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50384
+      "UsersEstimate": 50385
     },
     {
       "ID": "didYourTime",
@@ -20903,7 +20908,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125961
+      "UsersEstimate": 125962
     },
     {
       "ID": "notScared",
@@ -21030,7 +21035,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251922,
+      "Progressed": 251923,
       "Completed": 6
     }
   ],
@@ -21038,8 +21043,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:09:23.6053645+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:08:57.5710268+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.4245998+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:59:06.3359662+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:09:23.6055067+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:59:15.5503243+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:08:57.5711221+00:00"
 }

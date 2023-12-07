@@ -1,7 +1,7 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.26 (Ranked 872)  
+Rating: 4.26 (Ranked 873)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -40,8 +40,8 @@ Rating: 4.26 (Ranked 872)
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
 | Aesthetics | 0.20% | ~2 |
+| The Corrupted | 0.20% | ~2 |
 | The experiment | 0.10% | ~1 |
-| The Corrupted | 0.10% | ~1 |
 | The Foul | 0.10% | ~1 |
 | Break the chains | 0.00% | ~0 |
 | Purist | 0.00% | ~0 |

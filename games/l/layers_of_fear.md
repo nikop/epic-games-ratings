@@ -47,6 +47,7 @@
 | Full Scoop | 2.00% | ~2 |
 | Preferred Parent | 2.00% | ~2 |
 | In One Take | 0.90% | ~1 |
+| Rocket Science | 0.90% | ~1 |
 | The Tree and the Apple | 0.90% | ~1 |
 | Sword of the Serpent | 0.90% | ~1 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
@@ -55,7 +56,6 @@
 | Inheritance | 0.00% | ~0 |
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
-| Rocket Science | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 106 (Ranked 433)  
 Completed: 0 (0.00%) (Ranked 371)  

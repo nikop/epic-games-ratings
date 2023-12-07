@@ -1,7 +1,7 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 794)  
+Rating: 4.35 (Ranked 795)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -30,7 +30,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | King of Langhe | 1.00% | ~151 |
 | Gem of Monferrato | 1.00% | ~151 |
 | Treasure of Roero | 0.70% | ~106 |
-| Knight of Langhe | 0.50% | ~75 |
+| Knight of Langhe | 0.50% | ~76 |
 | King of red wines | 0.20% | ~30 |
 | King of white wines | 0.20% | ~30 |
 | Sales Expert | 0.20% | ~30 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~15 |
 | Master Winemaker | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,099 (Ranked 153)  
+Progressed: 15,100 (Ranked 153)  
 Completed: 12 (0.08%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 12 (0.08%) (Ranked 305)
 | 2023-12-04 | 14,876 | 12 |
 | 2023-12-05 | 14,985 | 12 |
 | 2023-12-06 | 15,072 | 12 |
-| 2023-12-07 | 15,099 | 12 |
+| 2023-12-07 | 15,100 | 12 |
 ## Awards
 Max (Relaxing): 207  (Ranked 287)  
 Sum: 1,730 (Ranked 223)  

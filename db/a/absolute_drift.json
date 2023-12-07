@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 725,
+  "Ranking_Rating": 726,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 8,
@@ -469,9 +469,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1554686,
+  "EOS_Progressed": 1554688,
   "EOS_Completed": 738,
-  "EOS_NewPlayers": 1358,
+  "EOS_NewPlayers": 1357,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26814,6 +26814,11 @@
       "Time": "2023-12-07T06:05:50.2925566+00:00",
       "NumProgressed": 1554686,
       "NumCompleted": 738
+    },
+    {
+      "Time": "2023-12-07T07:06:04.216491+00:00",
+      "NumProgressed": 1554688,
+      "NumCompleted": 738
     }
   ],
   "TotalAchievements": 20,
@@ -26889,7 +26894,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.8,
       "XP": 95,
-      "UsersEstimate": 12437
+      "UsersEstimate": 12438
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -26984,15 +26989,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1554686,
+      "Progressed": 1554688,
       "Completed": 738
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-11-20T10:57:26.3491363+00:00",
-  "LastChanged_Achievements": "2023-12-07T06:05:50.2925562+00:00",
+  "LastChanged_Achievements": "2023-12-07T07:06:04.2164907+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:56.6993207+00:00",
-  "LastUpdate_Ratings": "2023-12-07T05:59:05.4287656+00:00",
-  "LastUpdate_Achievements": "2023-12-07T06:05:50.2926948+00:00"
+  "LastUpdate_Ratings": "2023-12-07T06:59:14.4775797+00:00",
+  "LastUpdate_Achievements": "2023-12-07T07:06:04.2166349+00:00"
 }
