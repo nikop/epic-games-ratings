@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,639 (Ranked 146)  
+Progressed: 17,641 (Ranked 146)  
 Completed: 47 (0.27%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 47 (0.27%) (Ranked 247)
 | 2023-12-04 | 17,605 | 49 |
 | 2023-12-05 | 17,618 | 49 |
 | 2023-12-06 | 17,636 | 49 |
-| 2023-12-07 | 17,639 | 48 |
+| 2023-12-07 | 17,641 | 48 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,243 (Ranked 173)  

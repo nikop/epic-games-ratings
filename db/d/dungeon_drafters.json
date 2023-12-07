@@ -613,9 +613,9 @@
       "ID": "MasterTravelerQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Traveler Mastery",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MasterWardenQuestlineFirst",
@@ -814,8 +814,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-12-07T03:05:16.3703321+00:00",
+  "LastChanged_Achievements": "2023-12-07T04:05:52.6942107+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:27.1441619+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:58:43.0220329+00:00",
-  "LastUpdate_Achievements": "2023-12-07T03:05:16.370361+00:00"
+  "LastUpdate_Ratings": "2023-12-07T03:59:00.3686278+00:00",
+  "LastUpdate_Achievements": "2023-12-07T04:05:52.6942314+00:00"
 }

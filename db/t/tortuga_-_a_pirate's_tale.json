@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17175,
+  "EOS_Progressed": 17176,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7039,6 +7039,11 @@
       "Time": "2023-12-06T07:04:58.3152155+00:00",
       "NumProgressed": 17175,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T04:05:55.9220271+00:00",
+      "NumProgressed": 17176,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -7050,7 +7055,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16316
+      "UsersEstimate": 16317
     },
     {
       "ID": "ACH001",
@@ -7058,7 +7063,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14770
+      "UsersEstimate": 14771
     },
     {
       "ID": "ACH0010",
@@ -7130,7 +7135,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3778
+      "UsersEstimate": 3779
     },
     {
       "ID": "ACH0019",
@@ -7146,7 +7151,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12366
+      "UsersEstimate": 12367
     },
     {
       "ID": "ACH0020",
@@ -7170,7 +7175,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6011
+      "UsersEstimate": 6012
     },
     {
       "ID": "ACH0023",
@@ -7194,7 +7199,7 @@
       "Name": "Morally Flexible",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "ACH003",
@@ -7202,7 +7207,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9274
+      "UsersEstimate": 9275
     },
     {
       "ID": "ACH004",
@@ -7210,7 +7215,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14942
+      "UsersEstimate": 14943
     },
     {
       "ID": "ACH005",
@@ -7257,7 +7262,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17175,
+      "Progressed": 17176,
       "Completed": 1
     }
   ],
@@ -7265,8 +7270,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-12-07T03:05:19.2086042+00:00",
+  "LastChanged_Achievements": "2023-12-07T04:05:55.9220268+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:47.0597807+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:58:38.0688645+00:00",
-  "LastUpdate_Achievements": "2023-12-07T03:05:19.2086585+00:00"
+  "LastUpdate_Ratings": "2023-12-07T03:58:54.4044685+00:00",
+  "LastUpdate_Achievements": "2023-12-07T04:05:55.9220754+00:00"
 }

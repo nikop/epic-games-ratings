@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~10,911 |
-| Cool Whip | 90.00% | ~10,674 |
-| Fashion Killa | 88.00% | ~10,437 |
+| Throwing up Tags | 92.00% | ~10,912 |
+| Cool Whip | 90.00% | ~10,675 |
+| Fashion Killa | 88.00% | ~10,438 |
 | Drop the Beat | 86.00% | ~10,200 |
-| Hey Lakeshore | 85.00% | ~10,081 |
-| 100 Miles and Runnin' | 84.00% | ~9,962 |
-| Public Enemy | 82.00% | ~9,725 |
+| Hey Lakeshore | 85.00% | ~10,082 |
+| 100 Miles and Runnin' | 84.00% | ~9,963 |
+| Public Enemy | 82.00% | ~9,726 |
 | Rebel Without a Pause | 68.00% | ~8,065 |
 | Hey Speedie! | 68.00% | ~8,065 |
-| Most Wanted | 64.00% | ~7,590 |
-| New Crew | 62.00% | ~7,353 |
-| Escape Artist | 54.00% | ~6,404 |
+| Most Wanted | 64.00% | ~7,591 |
+| New Crew | 62.00% | ~7,354 |
+| Escape Artist | 54.00% | ~6,405 |
 | Serious Guap | 53.00% | ~6,286 |
 | Style it Out | 53.00% | ~6,286 |
-| Untouchable | 52.00% | ~6,167 |
+| Untouchable | 52.00% | ~6,168 |
 | Oh, It's On | 50.00% | ~5,930 |
-| Rydell's Rydes | 49.00% | ~5,811 |
+| Rydell's Rydes | 49.00% | ~5,812 |
 | Cash Money Millionaire | 46.00% | ~5,456 |
-| Lake Better Watch Out | 39.00% | ~4,625 |
-| #Blessed | 34.00% | ~4,032 |
+| Lake Better Watch Out | 39.00% | ~4,626 |
+| #Blessed | 34.00% | ~4,033 |
 | Access All Areas | 33.00% | ~3,914 |
 | Found Family | 31.00% | ~3,677 |
-| In the Flow | 29.00% | ~3,439 |
-| The Collector | 29.00% | ~3,439 |
-| Kick it | 29.00% | ~3,439 |
+| In the Flow | 29.00% | ~3,440 |
+| The Collector | 29.00% | ~3,440 |
+| Kick it | 29.00% | ~3,440 |
 | Top Billin' | 21.00% | ~2,491 |
 | Teacher's Pet | 20.00% | ~2,372 |
 | Full House | 18.00% | ~2,135 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~237 |
 | Cleaning Up | 2.00% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,860 (Ranked 162)  
+Progressed: 11,861 (Ranked 162)  
 Completed: 52 (0.44%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,4 +129,4 @@ Completed: 52 (0.44%) (Ranked 218)
 | 2023-12-04 | 11,723 | 52 |
 | 2023-12-05 | 11,795 | 52 |
 | 2023-12-06 | 11,854 | 52 |
-| 2023-12-07 | 11,860 | 52 |
+| 2023-12-07 | 11,861 | 52 |

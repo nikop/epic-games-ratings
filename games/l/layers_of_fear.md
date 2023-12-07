@@ -19,10 +19,10 @@
 | Playtime | 13.00% | ~14 |
 | Tough conversation | 13.00% | ~14 |
 | The tragedy unfolds | 12.00% | ~13 |
+| Debut | 11.00% | ~12 |
 | A new way | 10.00% | ~10 |
 | Breaking free | 10.00% | ~10 |
 | A Slice of Life | 10.00% | ~10 |
-| Debut | 10.00% | ~10 |
 | First steps | 10.00% | ~10 |
 | Sound Bite | 10.00% | ~10 |
 | Lights! Camera! Action! | 10.00% | ~10 |

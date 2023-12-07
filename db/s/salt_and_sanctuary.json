@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2838,9 +2838,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 540138,
+  "EOS_Progressed": 540139,
   "EOS_Completed": 1636,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -28258,6 +28258,11 @@
       "Time": "2023-12-07T03:03:28.1285481+00:00",
       "NumProgressed": 540138,
       "NumCompleted": 1636
+    },
+    {
+      "Time": "2023-12-07T04:03:50.3994414+00:00",
+      "NumProgressed": 540139,
+      "NumCompleted": 1636
     }
   ],
   "TotalAchievements": 37,
@@ -28381,7 +28386,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216055
+      "UsersEstimate": 216056
     },
     {
       "ID": "THE_CASTLE",
@@ -28421,7 +28426,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 48612
+      "UsersEstimate": 48613
     },
     {
       "ID": "THE_FOREST",
@@ -28493,7 +28498,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48612
+      "UsersEstimate": 48613
     },
     {
       "ID": "THE_RUINS",
@@ -28525,7 +28530,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 345688
+      "UsersEstimate": 345689
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -28541,7 +28546,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91823
+      "UsersEstimate": 91824
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -28564,15 +28569,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 540138,
+      "Progressed": 540139,
       "Completed": 1636
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-29T22:57:54.9181059+00:00",
-  "LastChanged_Achievements": "2023-12-07T03:03:28.1285479+00:00",
+  "LastChanged_Achievements": "2023-12-07T04:03:50.3994411+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:23.0359124+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:57:39.7034171+00:00",
-  "LastUpdate_Achievements": "2023-12-07T03:03:28.1286592+00:00"
+  "LastUpdate_Ratings": "2023-12-07T03:57:45.6911261+00:00",
+  "LastUpdate_Achievements": "2023-12-07T04:03:50.3996025+00:00"
 }

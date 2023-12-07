@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7877,
+  "EOS_Progressed": 7878,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8716,6 +8716,11 @@
       "Time": "2023-12-07T02:31:14.5010511+00:00",
       "NumProgressed": 7877,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-07T04:06:17.6598864+00:00",
+      "NumProgressed": 7878,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8751,7 +8756,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -8799,7 +8804,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -8894,7 +8899,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7877,
+      "Progressed": 7878,
       "Completed": 34
     }
   ],
@@ -8902,8 +8907,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-07T03:05:38.4367742+00:00",
+  "LastChanged_Achievements": "2023-12-07T04:06:17.6598862+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:30.2114196+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:58:10.3024627+00:00",
-  "LastUpdate_Achievements": "2023-12-07T03:05:38.4368251+00:00"
+  "LastUpdate_Ratings": "2023-12-07T03:58:21.3835205+00:00",
+  "LastUpdate_Achievements": "2023-12-07T04:06:17.659936+00:00"
 }

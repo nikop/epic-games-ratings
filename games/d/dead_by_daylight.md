@@ -6,26 +6,26 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,515 |
-| Skillful | 2.00% | ~21,515 |
+| It wakes | 2.00% | ~21,517 |
+| Skillful | 2.00% | ~21,517 |
 | Zealous | 1.00% | ~10,758 |
 | Not half bad | 1.00% | ~10,758 |
 | Apt Survivor | 1.00% | ~10,758 |
 | Survival Treasures | 1.00% | ~10,758 |
 | I | 1.00% | ~10,758 |
 | Make Some Noise | 1.00% | ~10,758 |
-| Handyman | 0.90% | ~9,682 |
-| Sorted | 0.90% | ~9,682 |
-| Resurgence | 0.90% | ~9,682 |
-| The Grand Sacrifice | 0.80% | ~8,606 |
-| No one left behind | 0.80% | ~8,606 |
-| Medic | 0.80% | ~8,606 |
-| Bloody Millionaire | 0.80% | ~8,606 |
-| Healthy Obsession | 0.80% | ~8,606 |
-| Preemptive Strike | 0.80% | ~8,606 |
-| Humanitarian | 0.80% | ~8,606 |
-| Backdoor Escape | 0.70% | ~7,530 |
-| Perfect Escape | 0.70% | ~7,530 |
+| Handyman | 0.90% | ~9,683 |
+| Sorted | 0.90% | ~9,683 |
+| Resurgence | 0.90% | ~9,683 |
+| The Grand Sacrifice | 0.80% | ~8,607 |
+| No one left behind | 0.80% | ~8,607 |
+| Medic | 0.80% | ~8,607 |
+| Bloody Millionaire | 0.80% | ~8,607 |
+| Healthy Obsession | 0.80% | ~8,607 |
+| Preemptive Strike | 0.80% | ~8,607 |
+| Humanitarian | 0.80% | ~8,607 |
+| Backdoor Escape | 0.70% | ~7,531 |
+| Perfect Escape | 0.70% | ~7,531 |
 | Agonizing Escape | 0.60% | ~6,455 |
 | I've got your back | 0.60% | ~6,455 |
 | Perfect Killing | 0.60% | ~6,455 |
@@ -51,27 +51,27 @@ Number of Ratings: 70,340  (23.09.2022)
 | Flight to Freedom | 0.40% | ~4,303 |
 | Chorus of Chaos | 0.40% | ~4,303 |
 | Second Act | 0.40% | ~4,303 |
-| Blood on your face | 0.30% | ~3,227 |
-| Made it out alive! | 0.30% | ~3,227 |
-| Nerves of steel | 0.30% | ~3,227 |
-| Shock Therapy | 0.30% | ~3,227 |
-| All Aboard | 0.30% | ~3,227 |
-| Leapfrog | 0.30% | ~3,227 |
-| Item of Obsession | 0.30% | ~3,227 |
-| House of Pain | 0.30% | ~3,227 |
-| Cottage Owner | 0.30% | ~3,227 |
-| Holiday Get-Together | 0.30% | ~3,227 |
-| Near-Death Experience | 0.30% | ~3,227 |
-| Cherish your Life | 0.30% | ~3,227 |
-| Campbell's Chapel Legacy | 0.30% | ~3,227 |
-| Ancestor's Rite | 0.30% | ~3,227 |
-| Unforgettable Getaway | 0.30% | ~3,227 |
-| Cutting Out | 0.30% | ~3,227 |
-| Outrun Evil | 0.30% | ~3,227 |
-| Grim Pilgrimage | 0.30% | ~3,227 |
-| Classy Act | 0.30% | ~3,227 |
-| One More Step | 0.30% | ~3,227 |
-| MU/TH/UR Dearest | 0.30% | ~3,227 |
+| Blood on your face | 0.30% | ~3,228 |
+| Made it out alive! | 0.30% | ~3,228 |
+| Nerves of steel | 0.30% | ~3,228 |
+| Shock Therapy | 0.30% | ~3,228 |
+| All Aboard | 0.30% | ~3,228 |
+| Leapfrog | 0.30% | ~3,228 |
+| Item of Obsession | 0.30% | ~3,228 |
+| House of Pain | 0.30% | ~3,228 |
+| Cottage Owner | 0.30% | ~3,228 |
+| Holiday Get-Together | 0.30% | ~3,228 |
+| Near-Death Experience | 0.30% | ~3,228 |
+| Cherish your Life | 0.30% | ~3,228 |
+| Campbell's Chapel Legacy | 0.30% | ~3,228 |
+| Ancestor's Rite | 0.30% | ~3,228 |
+| Unforgettable Getaway | 0.30% | ~3,228 |
+| Cutting Out | 0.30% | ~3,228 |
+| Outrun Evil | 0.30% | ~3,228 |
+| Grim Pilgrimage | 0.30% | ~3,228 |
+| Classy Act | 0.30% | ~3,228 |
+| One More Step | 0.30% | ~3,228 |
+| MU/TH/UR Dearest | 0.30% | ~3,228 |
 | A bite for the Entity | 0.20% | ~2,152 |
 | Blood in your mouth | 0.20% | ~2,152 |
 | Jump Scares | 0.20% | ~2,152 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,076 |
 | Adept Good Guy | 0.10% | ~1,076 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,075,760 (Ranked 14)  
+Progressed: 1,075,839 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -470,17 +470,17 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
-| 2023-12-07 | 1,075,760 | 61 |
+| 2023-12-07 | 1,075,839 | 61 |
 ## Awards
 Max (Diverse Characters): 37,449  (Ranked 15)  
-Sum: 283,845 (Ranked 12)  
+Sum: 283,944 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37,449 |
 | This game is Highly Recommended | 32,491 |
-| This game has Amazing Characters | 31,966 |
-| This game has Competitive Players | 31,791 |
+| This game has Amazing Characters | 32,017 |
+| This game has Competitive Players | 31,839 |
 | This game is Extremely Fun | 31,474 |
 | This game has Challenging Combat | 31,357 |
 | This game has Quickly Understood Controls | 30,658 |
@@ -808,4 +808,4 @@ Diff (max vs sum): 3
 | 2023-12-04 | 4.51 | - | 37,289 | 282,989 |
 | 2023-12-05 | 4.51 | - | 37,377 | 283,349 |
 | 2023-12-06 | 4.51 | - | 37,449 | 283,748 |
-| 2023-12-07 | 4.51 | - | 37,449 | 283,845 |
+| 2023-12-07 | 4.51 | - | 37,449 | 283,944 |

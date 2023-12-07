@@ -17735,10 +17735,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 539105,
       "NumberOfAwardsMax": 205900
+    },
+    {
+      "Time": "2023-12-07T04:02:37.7165398+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 539368,
+      "NumberOfAwardsMax": 205900
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 539105,
+  "NumberOfAwards": 539368,
   "NumberOfAwardsMax": 205900,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -17752,7 +17758,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 115334
+      "Count": 115597
     },
     {
       "Text": "This game is Extremely Fun",
@@ -17838,8 +17844,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-12-07T02:26:30.0779249+00:00",
+  "LastChanged": "2023-12-07T04:02:37.7165396+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:41.9159666+00:00",
-  "LastUpdate_Ratings": "2023-12-07T03:00:15.6184945+00:00",
-  "LastUpdate_Achievements": "2023-12-07T03:08:25.0536304+00:00"
+  "LastUpdate_Ratings": "2023-12-07T04:02:37.7165401+00:00",
+  "LastUpdate_Achievements": "2023-12-07T04:08:30.743411+00:00"
 }

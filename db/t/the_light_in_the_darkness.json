@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2734,
+  "EOS_Progressed": 2735,
   "EOS_Completed": 246,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 9,
+  "EOS_Completed_Percentage": 8.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -7631,6 +7631,11 @@
       "Time": "2023-12-06T21:08:29.2436079+00:00",
       "NumProgressed": 2734,
       "NumCompleted": 246
+    },
+    {
+      "Time": "2023-12-07T04:08:37.7787403+00:00",
+      "NumProgressed": 2735,
+      "NumCompleted": 246
     }
   ],
   "TotalAchievements": 12,
@@ -7650,7 +7655,7 @@
       "Name": "Bernard",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "Building the Fox",
@@ -7658,7 +7663,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "Green Ticket Roundup",
@@ -7666,7 +7671,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "Jacques a Dit",
@@ -7690,7 +7695,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "Le Juif et la France",
@@ -7737,7 +7742,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2734,
+      "Progressed": 2735,
       "Completed": 246
     }
   ],
@@ -7745,8 +7750,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-12-07T03:08:31.1027158+00:00",
+  "LastChanged_Achievements": "2023-12-07T04:08:37.77874+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.0653044+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:59:19.2154149+00:00",
-  "LastUpdate_Achievements": "2023-12-07T03:08:31.102761+00:00"
+  "LastUpdate_Ratings": "2023-12-07T03:59:43.1504026+00:00",
+  "LastUpdate_Achievements": "2023-12-07T04:08:37.7787853+00:00"
 }

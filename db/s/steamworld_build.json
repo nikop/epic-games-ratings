@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -215,17 +215,17 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 90,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ImALumberbot",
@@ -390,8 +390,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-07T03:04:47.8678236+00:00",
+  "LastChanged_Achievements": "2023-12-07T04:05:20.0656489+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:16.2831296+00:00",
-  "LastUpdate_Ratings": "2023-12-07T03:02:53.2139878+00:00",
-  "LastUpdate_Achievements": "2023-12-07T03:04:47.8678385+00:00"
+  "LastUpdate_Ratings": "2023-12-07T04:03:08.6364881+00:00",
+  "LastUpdate_Achievements": "2023-12-07T04:05:20.0656689+00:00"
 }

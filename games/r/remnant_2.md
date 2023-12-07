@@ -27,24 +27,24 @@ Rating: 4.75 (Ranked 147)
 | Make Some Room | 0.40% | ~945 |
 | Good, But Could Be Better! | 0.40% | ~945 |
 | Trait Chaser | 0.40% | ~945 |
-| Ghost in the Machine | 0.30% | ~708 |
-| Chaos | 0.30% | ~708 |
-| Traitor | 0.30% | ~708 |
-| Forever is a Long Time Coming | 0.30% | ~708 |
-| Power Surge | 0.30% | ~708 |
-| The God Gambit | 0.30% | ~708 |
-| Dark Designs | 0.30% | ~708 |
-| Madman's Paradise | 0.30% | ~708 |
-| Tall Tales | 0.30% | ~708 |
-| Bad Moon Rising | 0.30% | ~708 |
-| Was This Supposed To Happen? | 0.30% | ~708 |
-| Strapped | 0.30% | ~708 |
-| Edgelord | 0.30% | ~708 |
-| The Web | 0.30% | ~708 |
-| Scrap Collector | 0.30% | ~708 |
-| Scrap Hoarder | 0.30% | ~708 |
-| All These Traits� | 0.30% | ~708 |
-| The Ultimate Weapon | 0.30% | ~708 |
+| Ghost in the Machine | 0.30% | ~709 |
+| Chaos | 0.30% | ~709 |
+| Traitor | 0.30% | ~709 |
+| Forever is a Long Time Coming | 0.30% | ~709 |
+| Power Surge | 0.30% | ~709 |
+| The God Gambit | 0.30% | ~709 |
+| Dark Designs | 0.30% | ~709 |
+| Madman's Paradise | 0.30% | ~709 |
+| Tall Tales | 0.30% | ~709 |
+| Bad Moon Rising | 0.30% | ~709 |
+| Was This Supposed To Happen? | 0.30% | ~709 |
+| Strapped | 0.30% | ~709 |
+| Edgelord | 0.30% | ~709 |
+| The Web | 0.30% | ~709 |
+| Scrap Collector | 0.30% | ~709 |
+| Scrap Hoarder | 0.30% | ~709 |
+| All These Traits� | 0.30% | ~709 |
+| The Ultimate Weapon | 0.30% | ~709 |
 | Crafty | 0.20% | ~472 |
 | Only Human | 0.20% | ~472 |
 | Red Room | 0.20% | ~472 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | You Shall Pass | 0.20% | ~31 |
 | A Foul Feast | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,155 (Ranked 68)  
+Progressed: 236,174 (Ranked 68)  
 Completed: 564 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 564 (0.24%) (Ranked 252)
 | 2023-12-04 | 234,896 | 558 |
 | 2023-12-05 | 235,528 | 561 |
 | 2023-12-06 | 236,074 | 564 |
-| 2023-12-07 | 236,155 | 564 |
+| 2023-12-07 | 236,174 | 564 |
 ## Awards
 Max (Great Boss Battles): 2,668  (Ranked 102)  
 Sum: 6,600 (Ranked 127)  

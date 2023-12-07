@@ -56,10 +56,10 @@ Rating: 4.61 (Ranked 385)
 | The Magic That Empowers Me! | 0.30% | ~17 |
 | Betrayal Most Foul | 0.30% | ~17 |
 | Snap Out of It! | 0.20% | ~11 |
+| Against the Odds | 0.20% | ~11 |
 | Jack of All Tomes | 0.20% | ~11 |
 | A Very Special Ring | 0.20% | ~11 |
 | I Want to Break Free | 0.10% | ~6 |
-| Against the Odds | 0.10% | ~6 |
 | Returning Circle | 0.10% | ~6 |
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |

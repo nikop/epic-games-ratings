@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16885,
+  "EOS_Progressed": 16886,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15573,6 +15573,11 @@
       "Time": "2023-12-06T22:08:13.4187293+00:00",
       "NumProgressed": 16885,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-07T04:08:24.5977231+00:00",
+      "NumProgressed": 16886,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15584,7 +15589,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "tpote_achievement_10",
@@ -15656,7 +15661,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "tpote_achievement_19",
@@ -15760,7 +15765,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5403
+      "UsersEstimate": 5404
     },
     {
       "ID": "tpote_achievement_30",
@@ -15768,7 +15773,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "tpote_achievement_31",
@@ -15872,7 +15877,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "tpote_achievement_6",
@@ -15911,15 +15916,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16885,
+      "Progressed": 16886,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-07T03:08:19.6965343+00:00",
+  "LastChanged_Achievements": "2023-12-07T04:08:24.5977229+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:59:26.7690077+00:00",
-  "LastUpdate_Achievements": "2023-12-07T03:08:19.6966094+00:00"
+  "LastUpdate_Ratings": "2023-12-07T03:59:51.9189245+00:00",
+  "LastUpdate_Achievements": "2023-12-07T04:08:24.5978188+00:00"
 }

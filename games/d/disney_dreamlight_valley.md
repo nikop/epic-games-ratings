@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 69.00% | ~8,490 |
-| Photographer | 68.00% | ~8,367 |
-| Valley's Helper | 62.00% | ~7,628 |
-| Constructor | 51.00% | ~6,275 |
-| Renovator | 51.00% | ~6,275 |
-| Bestest Friend | 46.00% | ~5,660 |
-| Banker | 39.00% | ~4,799 |
-| Gardener | 31.00% | ~3,814 |
-| Generous | 25.00% | ~3,076 |
+| Goofy's Investor | 69.00% | ~8,492 |
+| Photographer | 68.00% | ~8,369 |
+| Valley's Helper | 62.00% | ~7,630 |
+| Constructor | 51.00% | ~6,277 |
+| Renovator | 51.00% | ~6,277 |
+| Bestest Friend | 46.00% | ~5,661 |
+| Banker | 39.00% | ~4,800 |
+| Gardener | 31.00% | ~3,815 |
+| Generous | 25.00% | ~3,077 |
 | Chef Cook | 18.00% | ~2,215 |
-| Miner | 10.00% | ~1,230 |
+| Miner | 10.00% | ~1,231 |
 | Duty Bound | 7.00% | ~861 |
 | Angler | 6.00% | ~738 |
 | Thorn Cleaner | 6.00% | ~738 |
 | Chit Chatter | 3.00% | ~369 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,304 (Ranked 160)  
+Progressed: 12,307 (Ranked 160)  
 Completed: 301 (2.45%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,10 +204,10 @@ Completed: 301 (2.45%) (Ranked 122)
 | 2023-12-04 | 12,176 | 290 |
 | 2023-12-05 | 12,236 | 295 |
 | 2023-12-06 | 12,295 | 300 |
-| 2023-12-07 | 12,304 | 301 |
+| 2023-12-07 | 12,307 | 301 |
 ## Awards
 Max (Great for Beginners): 1,100  (Ranked 145)  
-Sum: 8,041 (Ranked 108)  
+Sum: 8,043 (Ranked 108)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -217,7 +217,7 @@ Diff (max vs sum): 37
 | This game has Amazing Characters | 827 |
 | This game is Relaxing | 814 |
 | This game has Amazing Storytelling | 787 |
-| This game is Extremely Fun | 771 |
+| This game is Extremely Fun | 773 |
 | This game has Quickly Understood Controls | 762 |
 | This game has a Creative Community | 689 |
 | This game has Easy Combat | 537 |
@@ -492,3 +492,4 @@ Diff (max vs sum): 37
 | 2023-12-04 | 4.76 | - | 1,085 | 7,989 |
 | 2023-12-05 | 4.76 | - | 1,096 | 8,011 |
 | 2023-12-06 | 4.76 | - | 1,100 | 8,041 |
+| 2023-12-07 | 4.76 | - | 1,100 | 8,043 |

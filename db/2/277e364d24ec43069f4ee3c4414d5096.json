@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116041,
+  "EOS_Progressed": 116042,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20389,6 +20389,11 @@
       "Time": "2023-12-07T03:09:14.4793162+00:00",
       "NumProgressed": 116041,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-07T04:09:27.4108358+00:00",
+      "NumProgressed": 116042,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20472,7 +20477,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42935
+      "UsersEstimate": 42936
     },
     {
       "ID": "EAwards_18",
@@ -20488,7 +20493,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6962
+      "UsersEstimate": 6963
     },
     {
       "ID": "EAwards_2",
@@ -20520,7 +20525,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6962
+      "UsersEstimate": 6963
     },
     {
       "ID": "EAwards_23",
@@ -20791,7 +20796,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116041,
+      "Progressed": 116042,
       "Completed": 51
     }
   ],
@@ -20799,8 +20804,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-07T03:09:14.4793161+00:00",
+  "LastChanged_Achievements": "2023-12-07T04:09:27.4108356+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.5040385+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:57:41.0219603+00:00",
-  "LastUpdate_Achievements": "2023-12-07T03:09:14.4794117+00:00"
+  "LastUpdate_Ratings": "2023-12-07T03:57:47.3612257+00:00",
+  "LastUpdate_Achievements": "2023-12-07T04:09:27.4109337+00:00"
 }

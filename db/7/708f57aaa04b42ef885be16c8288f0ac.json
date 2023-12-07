@@ -201,9 +201,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7502,
+  "EOS_Progressed": 7504,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5741,6 +5741,11 @@
       "Time": "2023-12-07T03:09:22.6472287+00:00",
       "NumProgressed": 7502,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-07T04:09:36.6993438+00:00",
+      "NumProgressed": 7504,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5761,7 +5766,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "BeLikeWater",
@@ -5793,7 +5798,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "Eavesdropper",
@@ -5863,9 +5868,9 @@
       "ID": "HeJustWantedToHelp",
       "SetID": "acc6ea0",
       "Name": "He Just Wanted To Help",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 300
     },
     {
       "ID": "JackOfAllTrades",
@@ -5897,7 +5902,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "NoMoreTotems",
@@ -5945,7 +5950,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "TheQuarterback",
@@ -5953,7 +5958,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "ThisIsDharma",
@@ -6024,7 +6029,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7502,
+      "Progressed": 7504,
       "Completed": 14
     }
   ],
@@ -6032,8 +6037,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-07T03:09:22.6472284+00:00",
+  "LastChanged_Achievements": "2023-12-07T04:09:36.6993436+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:59:28.9918602+00:00",
-  "LastUpdate_Achievements": "2023-12-07T03:09:22.6472889+00:00"
+  "LastUpdate_Ratings": "2023-12-07T03:59:54.5218067+00:00",
+  "LastUpdate_Achievements": "2023-12-07T04:09:36.6993864+00:00"
 }

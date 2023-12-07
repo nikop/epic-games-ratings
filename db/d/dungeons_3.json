@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -3361,9 +3361,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 42539,
+  "EOS_Progressed": 42540,
   "EOS_Completed": 344,
-  "EOS_NewPlayers": 900,
+  "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -29001,6 +29001,11 @@
       "Time": "2023-12-07T03:03:31.7587543+00:00",
       "NumProgressed": 42539,
       "NumCompleted": 344
+    },
+    {
+      "Time": "2023-12-07T04:03:54.4429938+00:00",
+      "NumProgressed": 42540,
+      "NumCompleted": 344
     }
   ],
   "TotalAchievements": 60,
@@ -29012,7 +29017,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 25098
+      "UsersEstimate": 25099
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -29020,7 +29025,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 19993
+      "UsersEstimate": 19994
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -29100,7 +29105,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14463
+      "UsersEstimate": 14464
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -29172,7 +29177,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 15739
+      "UsersEstimate": 15740
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -29180,7 +29185,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 10209
+      "UsersEstimate": 10210
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -29196,7 +29201,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 10209
+      "UsersEstimate": 10210
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -29220,7 +29225,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18717
+      "UsersEstimate": 18718
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -29284,7 +29289,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8082
+      "UsersEstimate": 8083
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -29412,7 +29417,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 29777
+      "UsersEstimate": 29778
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -29444,7 +29449,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8082
+      "UsersEstimate": 8083
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -29491,15 +29496,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 42539,
+      "Progressed": 42540,
       "Completed": 344
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-12-06T01:47:31.6534933+00:00",
-  "LastChanged_Achievements": "2023-12-07T03:03:31.7587539+00:00",
+  "LastChanged_Achievements": "2023-12-07T04:03:54.4429936+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:06.4559533+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:59:17.7428583+00:00",
-  "LastUpdate_Achievements": "2023-12-07T03:03:31.758921+00:00"
+  "LastUpdate_Ratings": "2023-12-07T03:59:41.4675682+00:00",
+  "LastUpdate_Achievements": "2023-12-07T04:03:54.4431292+00:00"
 }

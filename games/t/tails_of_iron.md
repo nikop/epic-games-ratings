@@ -5,38 +5,38 @@ Rating: 4.55 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,819 |
-| Become King | 74.00% | ~1,641 |
-| Defeat 25 Frogs | 63.00% | ~1,397 |
-| Ranged Weapon | 62.00% | ~1,375 |
-| Collect Monster Parts | 58.00% | ~1,286 |
-| Two Handed Weapon | 57.00% | ~1,264 |
+| Complete Guard Faction | 82.00% | ~1,820 |
+| Become King | 74.00% | ~1,642 |
+| Defeat 25 Frogs | 63.00% | ~1,398 |
+| Ranged Weapon | 62.00% | ~1,376 |
+| Collect Monster Parts | 58.00% | ~1,287 |
+| Two Handed Weapon | 57.00% | ~1,265 |
 | Defeat 25 Grubs | 53.00% | ~1,176 |
 | Rescue Redgi's Brothers | 53.00% | ~1,176 |
 | Collect Iron Ore | 48.00% | ~1,065 |
 | Kitchen Ready To Cook | 48.00% | ~1,065 |
-| Defeat 25 Mozis | 47.00% | ~1,042 |
-| Collect Gold | 46.00% | ~1,020 |
-| Smithy Ready to Craft | 46.00% | ~1,020 |
+| Defeat 25 Mozis | 47.00% | ~1,043 |
+| Collect Gold | 46.00% | ~1,021 |
+| Smithy Ready to Craft | 46.00% | ~1,021 |
 | Fix the Travellers Wagon | 44.00% | ~976 |
-| Complete Elder Faction | 41.00% | ~909 |
+| Complete Elder Faction | 41.00% | ~910 |
 | Throne Room Fit For A King | 39.00% | ~865 |
 | End of the Mozis | 38.00% | ~843 |
-| Meet the Creatures from the Deep | 36.00% | ~798 |
-| Return Power To The Depths | 36.00% | ~798 |
-| Defeat Ratnor Rodentson | 30.00% | ~665 |
+| Meet the Creatures from the Deep | 36.00% | ~799 |
+| Return Power To The Depths | 36.00% | ~799 |
+| Defeat Ratnor Rodentson | 30.00% | ~666 |
 | Return the Statues | 27.00% | ~599 |
-| Defeat Rattus Augustail | 27.00% | ~599 |
-| Complete the Chefs Book | 25.00% | ~554 |
+| Defeat Rattus Augustail | 26.00% | ~577 |
+| Complete the Chefs Book | 25.00% | ~555 |
 | Complete Ranger Faction | 21.00% | ~466 |
 | Defeat Avor Warden of the Northern Wastes | 20.00% | ~444 |
-| Discover the mystery of the Kings Chambers | 19.00% | ~421 |
+| Discover the mystery of the Kings Chambers | 19.00% | ~422 |
 | Complete Arena Faction | 16.00% | ~355 |
-| Complete Redgi's Armory | 8.00% | ~177 |
-| King of Kings | 8.00% | ~177 |
+| Complete Redgi's Armory | 8.00% | ~178 |
+| King of Kings | 8.00% | ~178 |
 | A new Warchief rises | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,218 (Ranked 225)  
+Progressed: 2,219 (Ranked 224)  
 Completed: 12 (0.54%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,6 +222,7 @@ Completed: 12 (0.54%) (Ranked 205)
 | 2023-12-04 | 2,207 | 12 |
 | 2023-12-05 | 2,214 | 12 |
 | 2023-12-06 | 2,218 | 12 |
+| 2023-12-07 | 2,219 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -91,7 +91,7 @@
   "Tags": [],
   "EOS_Progressed": 8622,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8273,9 +8273,9 @@
       "ID": "FRUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Fast Recharge to Level 3",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 69
     },
     {
       "ID": "GPurchased1",
@@ -8770,8 +8770,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-05T02:57:10.0290174+00:00",
-  "LastChanged_Achievements": "2023-12-07T03:09:35.1513265+00:00",
+  "LastChanged_Achievements": "2023-12-07T04:09:50.5502937+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.1858441+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:58:05.7178318+00:00",
-  "LastUpdate_Achievements": "2023-12-07T03:09:35.1514602+00:00"
+  "LastUpdate_Ratings": "2023-12-07T03:58:15.9270267+00:00",
+  "LastUpdate_Achievements": "2023-12-07T04:09:50.5503724+00:00"
 }
