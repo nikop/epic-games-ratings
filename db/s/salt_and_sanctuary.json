@@ -2838,9 +2838,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 540149,
+  "EOS_Progressed": 540150,
   "EOS_Completed": 1636,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -28288,6 +28288,11 @@
       "Time": "2023-12-07T09:03:34.5744233+00:00",
       "NumProgressed": 540149,
       "NumCompleted": 1636
+    },
+    {
+      "Time": "2023-12-07T10:03:55.5150767+00:00",
+      "NumProgressed": 540150,
+      "NumCompleted": 1636
     }
   ],
   "TotalAchievements": 37,
@@ -28299,7 +28304,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70219
+      "UsersEstimate": 70220
     },
     {
       "ID": "COASTROCK",
@@ -28339,7 +28344,7 @@
       "Name": "Fading Fast",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5401
+      "UsersEstimate": 5402
     },
     {
       "ID": "FIND_SALVATION",
@@ -28403,7 +28408,7 @@
       "Name": "The Alkymancery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 27007
+      "UsersEstimate": 27008
     },
     {
       "ID": "THE_BANQUET",
@@ -28451,7 +28456,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 48613
+      "UsersEstimate": 48614
     },
     {
       "ID": "THE_FOREST",
@@ -28515,7 +28520,7 @@
       "Name": "The Pitchwoods",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 27007
+      "UsersEstimate": 27008
     },
     {
       "ID": "THE_RED_HALL",
@@ -28523,7 +28528,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48613
+      "UsersEstimate": 48614
     },
     {
       "ID": "THE_RUINS",
@@ -28555,7 +28560,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 345695
+      "UsersEstimate": 345696
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -28571,7 +28576,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91825
+      "UsersEstimate": 91826
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -28594,15 +28599,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 540149,
+      "Progressed": 540150,
       "Completed": 1636
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-29T22:57:54.9181059+00:00",
-  "LastChanged_Achievements": "2023-12-07T09:03:34.5744231+00:00",
+  "LastChanged_Achievements": "2023-12-07T10:03:55.5150762+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:23.0359124+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:57:38.7714398+00:00",
-  "LastUpdate_Achievements": "2023-12-07T09:03:34.5745287+00:00"
+  "LastUpdate_Ratings": "2023-12-07T09:57:51.4905043+00:00",
+  "LastUpdate_Achievements": "2023-12-07T10:03:55.5152421+00:00"
 }

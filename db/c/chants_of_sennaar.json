@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 890,
+  "EOS_Progressed": 891,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 5.84,
   "EosHistory": [
@@ -3600,6 +3600,11 @@
       "Time": "2023-12-07T07:04:45.2586627+00:00",
       "NumProgressed": 890,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-07T10:05:02.634152+00:00",
+      "NumProgressed": 891,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 25,
@@ -3705,9 +3710,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 143
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3739,7 +3744,7 @@
       "Name": "Fashion victim",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -3755,7 +3760,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3787,7 +3792,7 @@
       "Name": "A new dawn",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "PROGRESS_N4",
@@ -3810,14 +3815,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 890,
+      "Progressed": 891,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-07T09:04:36.7574872+00:00",
+  "LastChanged_Achievements": "2023-12-07T10:05:02.6341518+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:58:26.4361682+00:00",
-  "LastUpdate_Achievements": "2023-12-07T09:04:36.7575202+00:00"
+  "LastUpdate_Ratings": "2023-12-07T09:58:44.5391597+00:00",
+  "LastUpdate_Achievements": "2023-12-07T10:05:02.6342156+00:00"
 }

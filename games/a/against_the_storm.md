@@ -32,6 +32,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ancient Battleground | 0.20% | ~35 |
 | Sparkdew Crystals | 0.20% | ~35 |
 | Levitating Monument | 0.20% | ~35 |
+| Flooded Mines | 0.20% | ~35 |
 | Monastery of the Holy Flame | 0.20% | ~35 |
 | Lost Colonies | 0.20% | ~35 |
 | Statue of the Forefathers | 0.20% | ~35 |
@@ -53,7 +54,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fishmen Ritual Site | 0.10% | ~18 |
 | Forbidden Lands | 0.10% | ~18 |
 | Haunted Forest | 0.10% | ~18 |
-| Flooded Mines | 0.10% | ~18 |
 | Forsaken Gods Temple | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
 | The Queen's Chosen | 0.10% | ~18 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,642 (Ranked 146)  
-Completed: 47 (0.27%) (Ranked 247)  
+Completed: 46 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

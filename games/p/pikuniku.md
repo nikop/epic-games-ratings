@@ -1,7 +1,7 @@
 # Pikuniku
 [Store](https://store.epicgames.com/en-US/p/pikuniku)  
 [View Rawdata](../../db/p/pikuniku.json)  
-Rating: 4.70 (Ranked 214)  
+Rating: 4.69 (Ranked 231)  
 Number of Ratings: 450  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -91,3 +91,4 @@ Number of Ratings: 450  (23.09.2022)
 | 2023-11-13 | 4.70 | - | 0 | 0 |
 | 2023-12-01 | 4.69 | - | 0 | 0 |
 | 2023-12-06 | 4.70 | - | 0 | 0 |
+| 2023-12-07 | 4.69 | - | 0 | 0 |

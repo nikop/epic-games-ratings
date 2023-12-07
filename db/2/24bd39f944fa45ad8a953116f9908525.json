@@ -358,9 +358,9 @@
       "ID": "ach_05_northStation",
       "SetID": "16n29hg",
       "Name": "Dominate North Station",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_06_spikeDeath",
@@ -454,9 +454,9 @@
       "ID": "ach_17_station2h",
       "SetID": "16n29hg",
       "Name": "Directionally Challenged",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_18_tunnel20min",
@@ -486,9 +486,9 @@
       "ID": "ach_21_litStation",
       "SetID": "16n29hg",
       "Name": "Sun is Rising",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_22_eye4Eye",
@@ -765,8 +765,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-12-07T09:07:57.7932466+00:00",
+  "LastChanged_Achievements": "2023-12-07T10:08:22.3099701+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.6186571+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:59:37.4675985+00:00",
-  "LastUpdate_Achievements": "2023-12-07T09:07:57.7932779+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:00:05.3325098+00:00",
+  "LastUpdate_Achievements": "2023-12-07T10:08:22.3100046+00:00"
 }

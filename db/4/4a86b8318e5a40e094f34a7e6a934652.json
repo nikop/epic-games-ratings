@@ -1193,7 +1193,7 @@
       "ID": "PREPARE_10_COFFEE",
       "SetID": "aniflfk",
       "Name": "Barista",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -1256,8 +1256,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-07T09:06:24.790786+00:00",
+  "LastChanged_Achievements": "2023-12-07T10:08:19.9784528+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:02.2533693+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:02:50.5220721+00:00",
-  "LastUpdate_Achievements": "2023-12-07T09:06:24.7908005+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:03:05.4924405+00:00",
+  "LastUpdate_Achievements": "2023-12-07T10:08:19.9784708+00:00"
 }

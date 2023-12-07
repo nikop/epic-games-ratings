@@ -32,7 +32,7 @@
 | Mana Cannon | 41.00% | ~217 |
 | Tanos' Crusade Against Thalya | 41.00% | ~217 |
 | All’s Well That Ends Evil | 35.00% | ~186 |
-| Unstoppable Horde | 32.00% | ~170 |
+| Unstoppable Horde | 33.00% | ~175 |
 | Master of the Undead | 32.00% | ~170 |
 | The Duel | 31.00% | ~164 |
 | If Looks Could Kill | 28.00% | ~148 |
@@ -43,7 +43,7 @@
 | The Finitude Drill | 25.00% | ~132 |
 | Stop Tanos! | 23.00% | ~122 |
 | Doom Hill | 23.00% | ~122 |
-| Brimstone Shaken, Not Stirred | 21.00% | ~111 |
+| Brimstone Shaken, Not Stirred | 22.00% | ~117 |
 | Sabotage! | 20.00% | ~106 |
 | Bonus Evilness | 19.00% | ~101 |
 | Raiders of the Lost Stone | 19.00% | ~101 |

@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,702 |
-| Pork Chopped | 3.00% | ~1,702 |
+| Whatever It Takes | 3.00% | ~1,703 |
+| Pork Chopped | 3.00% | ~1,703 |
 | Dr. Reed, I Presume? | 2.00% | ~14,624 |
 | Git Gutte! | 2.00% | ~14,624 |
 | Bookworm | 2.00% | ~14,624 |
@@ -52,12 +52,12 @@ Rating: 4.54 (Ranked 530)
 | Sharpest Tool in the Box | 0.40% | ~2,925 |
 | Top That, Tisha! | 0.40% | ~227 |
 | Survival Skills | 0.20% | ~1,462 |
-| Lawn and Order | 0.20% | ~113 |
+| Lawn and Order | 0.20% | ~114 |
 | Donk! | 0.10% | ~731 |
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,205 (Ranked 21)  
+Progressed: 731,213 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
-| 2023-12-07 | 731,205 | 2,465 |
+| 2023-12-07 | 731,213 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,968  (Ranked 49)  
 Sum: 12,244 (Ranked 82)  

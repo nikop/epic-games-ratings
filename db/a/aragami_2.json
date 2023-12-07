@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44228,
+  "EOS_Progressed": 44229,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -18675,6 +18675,11 @@
       "Time": "2023-12-07T00:05:42.5267929+00:00",
       "NumProgressed": 44228,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-12-07T10:06:28.3620158+00:00",
+      "NumProgressed": 44229,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 44,
@@ -18686,7 +18691,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25210
+      "UsersEstimate": 25211
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -18806,7 +18811,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35382
+      "UsersEstimate": 35383
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -18846,7 +18851,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -18862,7 +18867,7 @@
       "Name": "Soul Reaver",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10172
+      "UsersEstimate": 10173
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -18870,7 +18875,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -18878,7 +18883,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16364
+      "UsersEstimate": 16365
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -18910,7 +18915,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24325
+      "UsersEstimate": 24326
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -19022,7 +19027,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41132
+      "UsersEstimate": 41133
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19037,7 +19042,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44228,
+      "Progressed": 44229,
       "Completed": 245
     }
   ],
@@ -19045,8 +19050,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-03T18:02:47.0707275+00:00",
-  "LastChanged_Achievements": "2023-12-07T09:05:55.2582447+00:00",
+  "LastChanged_Achievements": "2023-12-07T10:06:28.3620152+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:13.8521051+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:02:48.6473221+00:00",
-  "LastUpdate_Achievements": "2023-12-07T09:05:55.258354+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:03:03.485077+00:00",
+  "LastUpdate_Achievements": "2023-12-07T10:06:28.3621055+00:00"
 }

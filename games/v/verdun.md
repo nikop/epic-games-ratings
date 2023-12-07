@@ -6,22 +6,22 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~51,241 |
-| Worth it | 63.00% | ~41,387 |
-| Eagle Eye | 55.00% | ~36,132 |
-| Corpseman I | 40.00% | ~26,278 |
-| Blast fishing | 37.00% | ~24,307 |
-| Not alone | 32.00% | ~21,022 |
-| Headhunter I | 26.00% | ~17,080 |
-| Manual Labour I | 25.00% | ~16,424 |
-| Developers, Developers, Developers | 24.00% | ~15,767 |
-| Basic Training | 24.00% | ~15,767 |
-| Furchtlos und Treu | 13.00% | ~8,540 |
-| Gott Mit Uns | 12.00% | ~7,883 |
-| This We'll Defend! | 9.00% | ~5,912 |
-| Anker wirf! | 9.00% | ~5,912 |
-| Providentiea Memor | 9.00% | ~5,912 |
-| For King and Country | 9.00% | ~5,912 |
+| Setting an example | 78.00% | ~51,245 |
+| Worth it | 63.00% | ~41,390 |
+| Eagle Eye | 55.00% | ~36,134 |
+| Corpseman I | 40.00% | ~26,280 |
+| Blast fishing | 37.00% | ~24,309 |
+| Not alone | 32.00% | ~21,024 |
+| Headhunter I | 26.00% | ~17,082 |
+| Manual Labour I | 25.00% | ~16,425 |
+| Developers, Developers, Developers | 24.00% | ~15,768 |
+| Basic Training | 24.00% | ~15,768 |
+| Furchtlos und Treu | 13.00% | ~8,541 |
+| Gott Mit Uns | 12.00% | ~7,884 |
+| This We'll Defend! | 9.00% | ~5,913 |
+| Anker wirf! | 9.00% | ~5,913 |
+| Providentiea Memor | 9.00% | ~5,913 |
+| For King and Country | 9.00% | ~5,913 |
 | Battle hardened | 8.00% | ~5,256 |
 | Semper Fidelis! | 7.00% | ~4,599 |
 | Honneur et Patrie | 7.00% | ~4,599 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~66 |
 | Blood Brother | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,694 (Ranked 105)  
+Progressed: 65,699 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 4 (0.01%) (Ranked 348)
 | 2023-12-04 | 65,531 | 4 |
 | 2023-12-05 | 65,609 | 4 |
 | 2023-12-06 | 65,673 | 4 |
-| 2023-12-07 | 65,694 | 4 |
+| 2023-12-07 | 65,699 | 4 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 359)  
 Sum: 816 (Ranked 281)  

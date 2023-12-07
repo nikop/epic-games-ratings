@@ -7,18 +7,18 @@ Number of Ratings: 3,114  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Find Sanctuary | 83.00% | ~448,324 |
-| The Three | 64.00% | ~345,695 |
+| The Three | 64.00% | ~345,696 |
 | The Banquet | 40.00% | ~216,060 |
 | Devara's Light | 31.00% | ~167,446 |
 | The Iron Ones | 19.00% | ~102,628 |
-| The Village | 17.00% | ~91,825 |
+| The Village | 17.00% | ~91,826 |
 | The Forest | 15.00% | ~81,022 |
 | The Imposter | 14.00% | ~75,621 |
 | The Keep | 14.00% | ~75,621 |
-| Branded | 13.00% | ~70,219 |
+| Branded | 13.00% | ~70,220 |
 | The Castle | 11.00% | ~59,416 |
-| The Dome | 9.00% | ~48,613 |
-| The Red Hall | 9.00% | ~48,613 |
+| The Dome | 9.00% | ~48,614 |
+| The Red Hall | 9.00% | ~48,614 |
 | The Sacrifice | 8.00% | ~43,212 |
 | The Ziggurat | 8.00% | ~43,212 |
 | The Cave | 7.00% | ~37,810 |
@@ -28,8 +28,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~32,409 |
 | The Lake | 6.00% | ~32,409 |
 | The Ruins | 6.00% | ~32,409 |
-| The Alkymancery | 5.00% | ~27,007 |
-| The Pitchwoods | 5.00% | ~27,007 |
+| The Alkymancery | 5.00% | ~27,008 |
+| The Pitchwoods | 5.00% | ~27,008 |
 | Honed | 4.00% | ~21,606 |
 | The House of Splendor | 4.00% | ~21,606 |
 | The Crypt | 4.00% | ~21,606 |
@@ -42,9 +42,9 @@ Number of Ratings: 3,114  (23.09.2022)
 | Keepers of Fire and Sky | 2.00% | ~10,803 |
 | Order of the Betrayer | 2.00% | ~10,803 |
 | Wise Words | 2.00% | ~10,803 |
-| Fading Fast | 1.00% | ~5,401 |
+| Fading Fast | 1.00% | ~5,402 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 540,149 (Ranked 34)  
+Progressed: 540,150 (Ranked 34)  
 Completed: 1,636 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 1,636 (0.30%) (Ranked 240)
 | 2023-12-04 | 539,973 | 1,636 |
 | 2023-12-05 | 540,047 | 1,636 |
 | 2023-12-06 | 540,126 | 1,636 |
-| 2023-12-07 | 540,149 | 1,636 |
+| 2023-12-07 | 540,150 | 1,636 |
 ## Awards
 Max (Challenging Combat): 294  (Ranked 256)  
 Sum: 2,006 (Ranked 215)  

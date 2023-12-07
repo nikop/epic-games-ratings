@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16888,
+  "EOS_Progressed": 16889,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -15588,6 +15588,11 @@
       "Time": "2023-12-07T06:08:28.2138815+00:00",
       "NumProgressed": 16888,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-07T10:08:31.4770741+00:00",
+      "NumProgressed": 16889,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15743,7 +15748,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2195
+      "UsersEstimate": 2196
     },
     {
       "ID": "tpote_achievement_27",
@@ -15863,7 +15868,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6755
+      "UsersEstimate": 6756
     },
     {
       "ID": "tpote_achievement_40",
@@ -15911,7 +15916,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3546
+      "UsersEstimate": 3547
     },
     {
       "ID": "tpote_achievement_9",
@@ -15926,15 +15931,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16888,
+      "Progressed": 16889,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-07T09:08:06.2239208+00:00",
+  "LastChanged_Achievements": "2023-12-07T10:08:31.4770737+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:59:30.7981936+00:00",
-  "LastUpdate_Achievements": "2023-12-07T09:08:06.2239926+00:00"
+  "LastUpdate_Ratings": "2023-12-07T09:59:57.5326601+00:00",
+  "LastUpdate_Achievements": "2023-12-07T10:08:31.4771715+00:00"
 }

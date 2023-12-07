@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -868,9 +868,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 355555,
+  "EOS_Progressed": 355559,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 953,
+  "EOS_NewPlayers": 955,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27113,6 +27113,11 @@
       "Time": "2023-12-07T09:05:54.7082573+00:00",
       "NumProgressed": 355555,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-07T10:06:27.7803557+00:00",
+      "NumProgressed": 355559,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -27212,7 +27217,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28444
+      "UsersEstimate": 28445
     },
     {
       "ID": "ach013",
@@ -27228,7 +27233,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53333
+      "UsersEstimate": 53334
     },
     {
       "ID": "ach015",
@@ -27252,7 +27257,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46222
+      "UsersEstimate": 46223
     },
     {
       "ID": "ach018",
@@ -27260,7 +27265,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28444
+      "UsersEstimate": 28445
     },
     {
       "ID": "ach019",
@@ -27332,7 +27337,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163555
+      "UsersEstimate": 163557
     },
     {
       "ID": "ach028",
@@ -27476,7 +27481,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46222
+      "UsersEstimate": 46223
     },
     {
       "ID": "ach046",
@@ -27532,7 +27537,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21333
+      "UsersEstimate": 21334
     },
     {
       "ID": "ach053",
@@ -27596,7 +27601,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21333
+      "UsersEstimate": 21334
     },
     {
       "ID": "ach061",
@@ -27620,7 +27625,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21333
+      "UsersEstimate": 21334
     },
     {
       "ID": "ach065",
@@ -27684,7 +27689,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21333
+      "UsersEstimate": 21334
     },
     {
       "ID": "ach073",
@@ -27692,7 +27697,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21333
+      "UsersEstimate": 21334
     },
     {
       "ID": "ach074",
@@ -27708,7 +27713,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21333
+      "UsersEstimate": 21334
     },
     {
       "ID": "ach076",
@@ -27763,7 +27768,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 355555,
+      "Progressed": 355559,
       "Completed": 7
     }
   ],
@@ -27771,8 +27776,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-06T22:57:07.502581+00:00",
-  "LastChanged_Achievements": "2023-12-07T09:05:54.7082571+00:00",
+  "LastChanged_Achievements": "2023-12-07T10:06:27.7803553+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:09.0169735+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:57:15.6588245+00:00",
-  "LastUpdate_Achievements": "2023-12-07T09:05:54.7084162+00:00"
+  "LastUpdate_Ratings": "2023-12-07T09:57:25.3688184+00:00",
+  "LastUpdate_Achievements": "2023-12-07T10:06:27.7806017+00:00"
 }

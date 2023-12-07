@@ -5,22 +5,22 @@ Rating: 4.84 (Ranked 51)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~230,458 |
+| Forgotten Sorority | 91.00% | ~230,459 |
 | Private Club | 74.00% | ~187,406 |
-| Rogue Guild | 65.00% | ~164,613 |
-| I Watched the Intro | 57.00% | ~144,353 |
-| Covert Consortium | 55.00% | ~139,288 |
-| Goat Queen | 53.00% | ~134,223 |
-| Reach the Stratosphere | 51.00% | ~129,158 |
+| Rogue Guild | 65.00% | ~164,614 |
+| I Watched the Intro | 57.00% | ~144,354 |
+| Covert Consortium | 55.00% | ~139,289 |
+| Goat Queen | 53.00% | ~134,224 |
+| Reach the Stratosphere | 51.00% | ~129,159 |
 | Synchronization Complete | 47.00% | ~119,028 |
 | Secret Society | 45.00% | ~113,963 |
-| Shadow Syndicate | 38.00% | ~96,235 |
+| Shadow Syndicate | 38.00% | ~96,236 |
 | What a Waste of Money | 33.00% | ~83,573 |
-| New Goat Order | 30.00% | ~75,975 |
-| Don't touch the servers | 28.00% | ~70,910 |
+| New Goat Order | 30.00% | ~75,976 |
+| Don't touch the servers | 28.00% | ~70,911 |
 | San Angora: Become Human | 27.00% | ~68,378 |
 | Real Buoy | 27.00% | ~68,378 |
-| Raider of the Lost Parking Garage | 26.00% | ~65,845 |
+| Raider of the Lost Parking Garage | 26.00% | ~65,846 |
 | Welcome to Earth | 25.00% | ~63,313 |
 | Into the Matrix | 19.00% | ~48,118 |
 | Egg Simulator | 18.00% | ~45,585 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 51)
 | Move! That! Bus! | 0.60% | ~1,520 |
 | G.O.A.T | 0.40% | ~1,013 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,251 (Ranked 60)  
+Progressed: 253,252 (Ranked 60)  
 Completed: 895 (0.35%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,10 +276,10 @@ Completed: 895 (0.35%) (Ranked 231)
 | 2023-12-04 | 253,052 | 895 |
 | 2023-12-05 | 253,140 | 895 |
 | 2023-12-06 | 253,224 | 895 |
-| 2023-12-07 | 253,251 | 895 |
+| 2023-12-07 | 253,252 | 895 |
 ## Awards
 Max (Great for Beginners): 484  (Ranked 214)  
-Sum: 4,006 (Ranked 156)  
+Sum: 4,007 (Ranked 156)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -287,7 +287,7 @@ Diff (max vs sum): 58
 | This game has Diverse Characters | 461 |
 | This game is Highly Recommended | 430 |
 | This game has Amazing Characters | 400 |
-| This game is Extremely Fun | 392 |
+| This game is Extremely Fun | 393 |
 | This game has Amazing Storytelling | 379 |
 | This game has a Silly Community | 374 |
 | This game has Quickly Understood Controls | 371 |
@@ -551,4 +551,4 @@ Diff (max vs sum): 58
 | 2023-12-04 | 4.84 | 481 | 3,974 |
 | 2023-12-05 | 4.84 | 481 | 3,982 |
 | 2023-12-06 | 4.84 | 484 | 4,004 |
-| 2023-12-07 | 4.84 | 484 | 4,006 |
+| 2023-12-07 | 4.84 | 484 | 4,007 |

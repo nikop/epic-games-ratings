@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1599,
+  "EOS_Progressed": 1600,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4764,6 +4764,11 @@
       "Time": "2023-12-07T07:09:18.1631965+00:00",
       "NumProgressed": 1599,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T10:09:55.5076643+00:00",
+      "NumProgressed": 1600,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5000,7 +5005,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "achievement_36",
@@ -5016,7 +5021,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_38",
@@ -5279,13 +5284,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1599,
+      "Progressed": 1600,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1599,
+      "Progressed": 1600,
       "Completed": 1
     }
   ],
@@ -5293,8 +5298,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-07T09:09:21.6333317+00:00",
+  "LastChanged_Achievements": "2023-12-07T10:09:55.507664+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:57:42.1938596+00:00",
-  "LastUpdate_Achievements": "2023-12-07T09:09:21.6333926+00:00"
+  "LastUpdate_Ratings": "2023-12-07T09:57:55.2279568+00:00",
+  "LastUpdate_Achievements": "2023-12-07T10:09:55.5077406+00:00"
 }

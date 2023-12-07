@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -1150,9 +1150,9 @@
       "ID": "5",
       "SetID": "5pi96jj",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "6",
@@ -1246,9 +1246,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "Remake_010",
@@ -1365,8 +1365,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-07T09:03:41.9312178+00:00",
+  "LastChanged_Achievements": "2023-12-07T10:04:03.3107505+00:00",
   "LastUpdate_AppInfo": "2023-12-04T22:57:03.327196+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:58:29.8759011+00:00",
-  "LastUpdate_Achievements": "2023-12-07T09:03:41.931235+00:00"
+  "LastUpdate_Ratings": "2023-12-07T09:58:48.7024041+00:00",
+  "LastUpdate_Achievements": "2023-12-07T10:04:03.3107703+00:00"
 }
