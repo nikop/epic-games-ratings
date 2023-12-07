@@ -28,7 +28,7 @@
 | 26 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.40% |
 | 27 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
 | 27 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
-| 29 | [Island Cities](games/i/island_cities.md) | 16.43% |
+| 29 | [Island Cities](games/i/island_cities.md) | 16.41% |
 | 30 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.38% |
 | 31 | [Remains](games/r/remains.md) | 14.55% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
@@ -48,7 +48,7 @@
 | 46 | [Smelter](games/s/smelter.md) | 9.52% |
 | 47 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 48 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.03% |
-| 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.57% |
+| 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.54% |
 | 50 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.49% |
 | 51 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 8.33% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
@@ -97,7 +97,7 @@
 | 95 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.45% |
 | 96 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
-| 98 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.23% |
+| 98 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.22% |
 | 99 | [Destiny 2](games/d/destiny_2.md) | 3.19% |
 | 100 | [The Complex](games/t/the_complex.md) | 3.18% |
 | 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.14% |
@@ -113,9 +113,9 @@
 | 111 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 112 | [Night Book](games/n/night_book.md) | 2.80% |
 | 113 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
-| 114 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.74% |
 | 114 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
-| 116 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
+| 115 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
+| 115 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
 | 117 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.62% |
 | 118 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.56% |
 | 119 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.50% |
@@ -172,15 +172,15 @@
 | 169 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
 | 171 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.97% |
 | 172 | [Trifox](games/t/trifox.md) | 0.96% |
-| 173 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.95% |
-| 174 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
+| 173 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
+| 173 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.94% |
 | 175 | [Hades](games/h/hades.md) | 0.91% |
 | 176 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.89% |
 | 177 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.88% |
 | 178 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
 | 179 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.86% |
-| 180 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
 | 180 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
+| 181 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.82% |
 | 182 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.81% |
 | 182 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 184 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.80% |
@@ -784,4 +784,4 @@
 | 371 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 371 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 371 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,674 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,676 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
