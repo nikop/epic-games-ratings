@@ -2,13 +2,13 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 544,
+  "Ranking_Rating": 545,
   "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3289,7 +3289,7 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 85280,
+  "EOS_Progressed": 85282,
   "EOS_Completed": 172,
   "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 5,
@@ -29064,6 +29064,11 @@
       "Time": "2023-12-07T10:04:41.9755291+00:00",
       "NumProgressed": 85280,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-12-07T11:05:35.85458+00:00",
+      "NumProgressed": 85282,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 30,
@@ -29075,7 +29080,7 @@
       "Name": "First Journey",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 11086
+      "UsersEstimate": 11087
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -29099,7 +29104,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 19614
+      "UsersEstimate": 19615
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -29107,7 +29112,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 15350
+      "UsersEstimate": 15351
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -29147,7 +29152,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 16203
+      "UsersEstimate": 16204
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -29163,7 +29168,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 23878
+      "UsersEstimate": 23879
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -29195,7 +29200,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 16203
+      "UsersEstimate": 16204
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -29203,7 +29208,7 @@
       "Name": "Beagle 2",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 19614
+      "UsersEstimate": 19615
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -29219,7 +29224,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 16203
+      "UsersEstimate": 16204
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -29251,7 +29256,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 29848
+      "UsersEstimate": 29849
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -29267,7 +29272,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6822
+      "UsersEstimate": 6823
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -29299,7 +29304,7 @@
       "Name": "Master",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 16203
+      "UsersEstimate": 16204
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -29307,22 +29312,22 @@
       "Name": "Determined",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6822
+      "UsersEstimate": 6823
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 85280,
+      "Progressed": 85282,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-05T09:57:48.2955151+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:04:41.9755286+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:05:35.8545796+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:44.8588444+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:58:51.2061418+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:04:41.9756783+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:59:33.4177+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:05:35.8547548+00:00"
 }

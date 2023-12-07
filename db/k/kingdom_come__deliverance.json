@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 198,
+  "Ranking_Rating": 199,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 17,
@@ -9081,9 +9081,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 811443,
+  "EOS_Progressed": 811444,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 946,
+  "EOS_NewPlayers": 941,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -35061,6 +35061,11 @@
       "Time": "2023-12-07T10:09:16.228776+00:00",
       "NumProgressed": 811443,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-07T11:09:43.2229753+00:00",
+      "NumProgressed": 811444,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -35160,7 +35165,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121716
+      "UsersEstimate": 121717
     },
     {
       "ID": "Buddy",
@@ -35727,15 +35732,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 811443,
+      "Progressed": 811444,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-07T01:47:19.4150711+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:09:16.2287756+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:09:43.2229749+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.1153377+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:00:04.4566392+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:09:16.2289704+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:01:09.2648992+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:09:43.2232027+00:00"
 }

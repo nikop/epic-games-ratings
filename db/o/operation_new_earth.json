@@ -2,12 +2,12 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1055,
+  "Ranking_Rating": 1056,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1975,
+  "EOS_Progressed": 1976,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7503,6 +7503,11 @@
       "Time": "2023-12-07T09:04:13.4038447+00:00",
       "NumProgressed": 1975,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T11:05:29.6504364+00:00",
+      "NumProgressed": 1976,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7586,7 +7591,7 @@
       "Name": "Silver Achiever",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "objective_headquarters_10",
@@ -7602,7 +7607,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "objective_headquarters_20",
@@ -7682,7 +7687,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -7690,7 +7695,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7817,7 +7822,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1975,
+      "Progressed": 1976,
       "Completed": 1
     }
   ],
@@ -7825,8 +7830,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:04:37.2263252+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:05:29.650436+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:25.6864843+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:00:23.0164508+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:04:37.2263906+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:01:33.7477449+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:05:29.6505029+00:00"
 }

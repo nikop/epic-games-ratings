@@ -1,7 +1,7 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.82 (Ranked 68)  
+Rating: 4.82 (Ranked 69)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -29,9 +29,9 @@ Rating: 4.82 (Ranked 68)
 | Sacred Woods | 25.00% | ~669 |
 | Little light | 24.00% | ~642 |
 | Capelworth | 24.00% | ~642 |
+| Full equipped | 24.00% | ~642 |
 | Glyndemere | 23.00% | ~615 |
 | Iffighain Headquarters | 23.00% | ~615 |
-| Full equipped | 23.00% | ~615 |
 | Whispers in the Woods II | 19.00% | ~508 |
 | No more holding back | 19.00% | ~508 |
 | Quickmoore Headquarters | 19.00% | ~508 |

@@ -1,23 +1,23 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.67 (Ranked 277)  
+Rating: 4.67 (Ranked 278)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,690 |
-| On the Top Step | 88.00% | ~5,327 |
-| Setting up for Success | 78.00% | ~4,721 |
-| Team Orders | 76.00% | ~4,600 |
+| Getting on the Step | 94.00% | ~5,691 |
+| On the Top Step | 88.00% | ~5,328 |
+| Setting up for Success | 78.00% | ~4,722 |
+| Team Orders | 76.00% | ~4,601 |
 | Engineer | 56.00% | ~3,390 |
 | Familiar Faces | 49.00% | ~2,966 |
-| Sharing the Love | 44.00% | ~2,663 |
+| Sharing the Love | 44.00% | ~2,664 |
 | Going the Extra Mile | 43.00% | ~2,603 |
-| Hitting a Season | 42.00% | ~2,542 |
+| Hitting a Season | 42.00% | ~2,543 |
 | A Dozen Pieces | 35.00% | ~2,119 |
 | Challenge Yourself | 34.00% | ~2,058 |
 | Making History | 32.00% | ~1,937 |
-| Network Success | 29.00% | ~1,755 |
+| Network Success | 29.00% | ~1,756 |
 | Writing a new Chapter | 26.00% | ~1,574 |
 | Spring Cleaning | 24.00% | ~1,453 |
 | Reduce | 21.00% | ~1,271 |
@@ -27,10 +27,10 @@ Rating: 4.67 (Ranked 277)
 | Gathering Dust | 17.00% | ~1,029 |
 | One for the Book | 17.00% | ~1,029 |
 | Proving Them Wrong | 17.00% | ~1,029 |
-| Oil and Water | 16.00% | ~968 |
-| Hitting a Bullseye | 16.00% | ~968 |
+| Oil and Water | 16.00% | ~969 |
+| Hitting a Bullseye | 16.00% | ~969 |
 | Lightning Round the World | 15.00% | ~908 |
-| Spinning Around | 14.00% | ~847 |
+| Spinning Around | 14.00% | ~848 |
 | Eagle Eye | 13.00% | ~787 |
 | All in a Weekend's Work | 13.00% | ~787 |
 | Friendly Competition | 13.00% | ~787 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 277)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,053 (Ranked 186)  
+Progressed: 6,054 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-04 | 6,034 | 0 |
 | 2023-12-05 | 6,039 | 0 |
 | 2023-12-06 | 6,050 | 0 |
-| 2023-12-07 | 6,053 | 0 |
+| 2023-12-07 | 6,054 | 0 |
 ## Awards
 Max (Diverse Characters): 32  (Ranked 495)  
 Sum: 152 (Ranked 429)  

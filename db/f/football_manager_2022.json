@@ -2,7 +2,7 @@
   "ID": "97071dce4a98441d9c0b7f0df92f7b31",
   "Name": "Football Manager 2022",
   "ProductSlug": "football-manager-2022",
-  "Ranking_Rating": 89,
+  "Ranking_Rating": 90,
   "Ranking_Popularity": 59,
   "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 39,
@@ -8678,9 +8678,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477268,
+  "EOS_Progressed": 477269,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32013,6 +32013,11 @@
       "Time": "2023-12-07T10:04:34.8525773+00:00",
       "NumProgressed": 477268,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-07T11:05:26.2217708+00:00",
+      "NumProgressed": 477269,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -32024,7 +32029,7 @@
       "Name": "Best In The Business",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 38181
+      "UsersEstimate": 38182
     },
     {
       "ID": "achievement_10_manager_of_the_year_awards",
@@ -32040,7 +32045,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 128862
+      "UsersEstimate": 128863
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -32048,7 +32053,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 176589
+      "UsersEstimate": 176590
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -32112,7 +32117,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 128862
+      "UsersEstimate": 128863
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -32136,7 +32141,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143180
+      "UsersEstimate": 143181
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -32144,7 +32149,7 @@
       "Name": "Fantastic Five",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 114544
+      "UsersEstimate": 114545
     },
     {
       "ID": "achievement_always_a_plan_b",
@@ -32176,7 +32181,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 176589
+      "UsersEstimate": 176590
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -32264,7 +32269,7 @@
       "Name": "Full Faith",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 114544
+      "UsersEstimate": 114545
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -32392,7 +32397,7 @@
       "Name": "Iron Curtain",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 114544
+      "UsersEstimate": 114545
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -32408,7 +32413,7 @@
       "Name": "The Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 114544
+      "UsersEstimate": 114545
     },
     {
       "ID": "achievement_most_goals_scored_in_league",
@@ -32520,7 +32525,7 @@
       "Name": "Record Sale",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 128862
+      "UsersEstimate": 128863
     },
     {
       "ID": "achievement_record_signing",
@@ -32600,7 +32605,7 @@
       "Name": "Invincible!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 52499
+      "UsersEstimate": 52500
     },
     {
       "ID": "achievement_watch_popup_match_viewer",
@@ -32807,15 +32812,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477268,
+      "Progressed": 477269,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-06T22:57:28.1210426+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:04:34.852577+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:05:26.2217703+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.7278708+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:57:42.4047827+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:04:34.8527379+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:58:02.855079+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:05:26.2220162+00:00"
 }

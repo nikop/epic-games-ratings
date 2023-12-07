@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "bolkb6m",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-12-07T11:04:24.4155364+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:04:24.4155344+00:00",
   "LastUpdate_AppInfo": "2023-12-06T07:57:05.4253113+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:57:38.7616372+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:03:46.7161763+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:57:57.8342634+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:04:24.4155379+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 753,
+  "Ranking_Rating": 755,
   "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 58,
@@ -1303,9 +1303,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259115,
+  "EOS_Progressed": 259116,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23488,6 +23488,11 @@
       "Time": "2023-12-07T10:06:17.7712023+00:00",
       "NumProgressed": 259115,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-07T11:07:39.6483351+00:00",
+      "NumProgressed": 259116,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -23787,7 +23792,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59596
+      "UsersEstimate": 59597
     },
     {
       "ID": "KillOthers2",
@@ -23946,7 +23951,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259115,
+      "Progressed": 259116,
       "Completed": 3
     }
   ],
@@ -23954,8 +23959,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-06T13:07:17.8158853+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:06:17.7712018+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:07:39.6483347+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:43.7496821+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:57:19.5167019+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:06:17.7713206+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:57:32.9587641+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:07:39.6484786+00:00"
 }

@@ -1,7 +1,7 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.64 (Ranked 336)  
+Rating: 4.64 (Ranked 337)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 336)
 | Pusher | 23.00% | ~497 |
 | Z-Baller | 23.00% | ~497 |
 | Marked | 22.00% | ~475 |
-| Eviscerator | 19.00% | ~410 |
+| Eviscerator | 20.00% | ~432 |
 | Backbreaker | 14.00% | ~302 |
 | Wishbone | 8.00% | ~173 |
 | Trusted Contractor | 7.00% | ~151 |

@@ -2,7 +2,7 @@
   "ID": "3c06b15a8a2845c0b725d4f952fe00aa",
   "Name": "HITMAN",
   "ProductSlug": "hitman/standard-edition",
-  "Ranking_Rating": 336,
+  "Ranking_Rating": 337,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 786,
@@ -2767,6 +2767,6 @@
   "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
   "LastChanged": "2023-12-06T11:02:48.2741154+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:54.174771+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:57:30.3253175+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:06:36.4189042+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:57:46.8233674+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:08:03.4789619+00:00"
 }

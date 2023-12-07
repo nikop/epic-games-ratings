@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 122,
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 161,
@@ -4487,9 +4487,9 @@
       "Count": 398
     }
   ],
-  "EOS_Progressed": 12246,
+  "EOS_Progressed": 12247,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16477,6 +16477,11 @@
       "Time": "2023-12-07T05:09:31.0759467+00:00",
       "NumProgressed": 12246,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T11:10:04.0293353+00:00",
+      "NumProgressed": 12247,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16488,7 +16493,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3306
+      "UsersEstimate": 3307
     },
     {
       "ID": "02_BurningCity",
@@ -16504,7 +16509,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "04_FithCrusade",
@@ -16736,7 +16741,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1959
+      "UsersEstimate": 1960
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -17415,21 +17420,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11028,
+      "Progressed": 11029,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12246,
+      "Progressed": 12247,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-06T14:57:15.3204256+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:09:32.1363061+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:10:04.0293349+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.5454343+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:57:47.6800303+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:09:32.1364612+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:58:09.7024839+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:10:04.029512+00:00"
 }

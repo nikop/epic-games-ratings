@@ -1,29 +1,29 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 573)  
+Rating: 4.51 (Ranked 574)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,525 |
-| Skillful | 2.00% | ~21,525 |
-| Zealous | 1.00% | ~10,763 |
-| Not half bad | 1.00% | ~10,763 |
-| Apt Survivor | 1.00% | ~10,763 |
-| Survival Treasures | 1.00% | ~10,763 |
-| I | 1.00% | ~10,763 |
-| Make Some Noise | 1.00% | ~10,763 |
-| Handyman | 0.90% | ~9,686 |
-| Sorted | 0.90% | ~9,686 |
-| Resurgence | 0.90% | ~9,686 |
-| The Grand Sacrifice | 0.80% | ~8,610 |
-| No one left behind | 0.80% | ~8,610 |
-| Medic | 0.80% | ~8,610 |
-| Bloody Millionaire | 0.80% | ~8,610 |
-| Healthy Obsession | 0.80% | ~8,610 |
-| Preemptive Strike | 0.80% | ~8,610 |
-| Humanitarian | 0.80% | ~8,610 |
+| It wakes | 2.00% | ~21,527 |
+| Skillful | 2.00% | ~21,527 |
+| Zealous | 1.00% | ~10,764 |
+| Not half bad | 1.00% | ~10,764 |
+| Apt Survivor | 1.00% | ~10,764 |
+| Survival Treasures | 1.00% | ~10,764 |
+| I | 1.00% | ~10,764 |
+| Make Some Noise | 1.00% | ~10,764 |
+| Handyman | 0.90% | ~9,687 |
+| Sorted | 0.90% | ~9,687 |
+| Resurgence | 0.90% | ~9,687 |
+| The Grand Sacrifice | 0.80% | ~8,611 |
+| No one left behind | 0.80% | ~8,611 |
+| Medic | 0.80% | ~8,611 |
+| Bloody Millionaire | 0.80% | ~8,611 |
+| Healthy Obsession | 0.80% | ~8,611 |
+| Preemptive Strike | 0.80% | ~8,611 |
+| Humanitarian | 0.80% | ~8,611 |
 | Agonizing Escape | 0.70% | ~7,534 |
 | Backdoor Escape | 0.70% | ~7,534 |
 | Perfect Escape | 0.70% | ~7,534 |
@@ -35,10 +35,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.60% | ~6,458 |
 | Wounded Healer | 0.60% | ~6,458 |
 | Close Shave | 0.60% | ~6,458 |
-| Vulture | 0.50% | ~5,381 |
-| III | 0.50% | ~5,381 |
-| With Scars to Show | 0.50% | ~5,381 |
-| Lifting The Fog | 0.50% | ~5,381 |
+| Vulture | 0.50% | ~5,382 |
+| III | 0.50% | ~5,382 |
+| With Scars to Show | 0.50% | ~5,382 |
+| Lifting The Fog | 0.50% | ~5,382 |
 | Blood on your hands | 0.40% | ~4,305 |
 | Escape Artist | 0.40% | ~4,305 |
 | Gifts for the Fog | 0.40% | ~4,305 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,076 |
 | Adept Good Guy | 0.10% | ~1,076 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,076,258 (Ranked 14)  
+Progressed: 1,076,355 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -470,7 +470,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
-| 2023-12-07 | 1,076,258 | 61 |
+| 2023-12-07 | 1,076,355 | 61 |
 ## Awards
 Max (Diverse Characters): 37,449  (Ranked 15)  
 Sum: 283,978 (Ranked 12)  

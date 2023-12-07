@@ -1,24 +1,24 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.66 (Ranked 294)  
+Rating: 4.66 (Ranked 295)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,591 |
-| Gun Fu | 7.00% | ~68,011 |
-| The Fool | 6.00% | ~58,295 |
-| Right Back At Ya | 5.00% | ~48,580 |
-| The Lovers | 4.00% | ~38,864 |
-| Full Body Conversion | 3.00% | ~29,148 |
-| Stanislavski's Method | 3.00% | ~29,148 |
-| The Hermit | 3.00% | ~29,148 |
-| The Wheel of Fortune | 3.00% | ~29,148 |
-| True Soldier | 3.00% | ~29,148 |
-| Relic Ruler | 3.00% | ~3,006 |
-| All the President's Men | 3.00% | ~3,006 |
-| Arachnophobia | 3.00% | ~3,006 |
+| V for Vendetta | 12.00% | ~116,594 |
+| Gun Fu | 7.00% | ~68,013 |
+| The Fool | 6.00% | ~58,297 |
+| Right Back At Ya | 5.00% | ~48,581 |
+| The Lovers | 4.00% | ~38,865 |
+| Full Body Conversion | 3.00% | ~29,149 |
+| Stanislavski's Method | 3.00% | ~29,149 |
+| The Hermit | 3.00% | ~29,149 |
+| The Wheel of Fortune | 3.00% | ~29,149 |
+| True Soldier | 3.00% | ~29,149 |
+| Relic Ruler | 3.00% | ~3,007 |
+| All the President's Men | 3.00% | ~3,007 |
+| Arachnophobia | 3.00% | ~3,007 |
 | Christmas Tree Attack | 2.00% | ~19,432 |
 | The Quick and the Dead | 2.00% | ~19,432 |
 | Life of the Road | 2.00% | ~19,432 |
@@ -35,8 +35,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 1.00% | ~1,002 |
 | The Wandering Fool | 0.80% | ~7,773 |
 | Easy Come, Easy Go | 0.80% | ~802 |
-| King of Wands | 0.70% | ~701 |
-| Dirty Deeds | 0.70% | ~701 |
+| King of Wands | 0.70% | ~702 |
+| Dirty Deeds | 0.70% | ~702 |
 | Ten out of Ten | 0.60% | ~5,830 |
 | The Sun | 0.60% | ~5,830 |
 | To Bad Decisions! | 0.50% | ~4,858 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 971,591 (Ranked 15)  
+Progressed: 971,617 (Ranked 15)  
 Completed: 2,849 (0.29%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,15 +305,15 @@ Completed: 2,849 (0.29%) (Ranked 241)
 | 2023-12-04 | 970,004 | 2,843 |
 | 2023-12-05 | 970,654 | 2,844 |
 | 2023-12-06 | 971,359 | 2,847 |
-| 2023-12-07 | 971,591 | 2,849 |
+| 2023-12-07 | 971,617 | 2,849 |
 ## Awards
 Max (Character Customization): 118,092  (Ranked 9)  
-Sum: 395,580 (Ranked 9)  
+Sum: 396,488 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 118,092 |
-| This game has Great Boss Battles | 84,999 |
+| This game has Great Boss Battles | 85,684 |
 | This game is Great for Beginners | 23,918 |
 | This game has Diverse Characters | 23,531 |
 | This game is Highly Recommended | 22,389 |
@@ -321,7 +321,7 @@ Diff (max vs sum): 0
 | This game is Extremely Fun | 22,041 |
 | This game has Amazing Characters | 21,801 |
 | This game is Relaxing | 21,068 |
-| This game has Quickly Understood Controls | 20,844 |
+| This game has Quickly Understood Controls | 21,067 |
 | This game has a Creative Community | 14,554 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -648,4 +648,4 @@ Diff (max vs sum): 0
 | 2023-12-04 | 4.66 | - | 116,208 | 387,763 |
 | 2023-12-05 | 4.66 | - | 117,137 | 391,296 |
 | 2023-12-06 | 4.66 | - | 118,092 | 395,344 |
-| 2023-12-07 | 4.66 | - | 118,092 | 395,580 |
+| 2023-12-07 | 4.66 | - | 118,092 | 396,488 |

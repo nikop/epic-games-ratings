@@ -2,12 +2,12 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 982,
+  "Ranking_Rating": 983,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8632,
+  "EOS_Progressed": 8633,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8189,6 +8189,11 @@
       "Time": "2023-12-07T10:09:56.7630157+00:00",
       "NumProgressed": 8632,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T11:10:34.6165478+00:00",
+      "NumProgressed": 8633,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8345,7 +8350,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "GamesWon10",
@@ -8609,7 +8614,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "NeutralKills200",
@@ -8697,7 +8702,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "SEUpgraded1",
@@ -8792,7 +8797,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8632,
+      "Progressed": 8633,
       "Completed": 1
     }
   ],
@@ -8800,8 +8805,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-05T02:57:10.0290174+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:09:56.7630153+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:10:34.6165474+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.1858441+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:58:21.4712243+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:09:56.7631076+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:58:54.333598+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:10:34.6166593+00:00"
 }

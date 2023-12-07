@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.07 (Ranked 982)  
+Rating: 4.05 (Ranked 992)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -152,3 +152,4 @@ Completed: 1 (0.31%) (Ranked 238)
 | 2023-11-24 | 4.07 | 0 | 0 |
 | 2023-11-26 | 4.05 | 0 | 0 |
 | 2023-12-01 | 4.07 | 0 | 0 |
+| 2023-12-07 | 4.05 | 0 | 0 |

@@ -597,9 +597,9 @@
       "ID": "collect_most_of_memories",
       "SetID": "f2im8d",
       "Name": "I remember It Like Was Yesterday",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "collect_most_of_myths",
@@ -829,9 +829,9 @@
       "ID": "playtime",
       "SetID": "f2im8d",
       "Name": "Playtime",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "preferred_parent",
@@ -925,9 +925,9 @@
       "ID": "tough_conversation",
       "SetID": "f2im8d",
       "Name": "Tough conversation",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "true_reflection",
@@ -957,9 +957,9 @@
       "ID": "whispers_long_forgotten",
       "SetID": "f2im8d",
       "Name": "Whispers long forgotten",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
@@ -972,8 +972,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:05:05.1743649+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:06:05.8610997+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.0795294+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:59:25.9975962+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:05:05.1744011+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:00:18.9846407+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:06:05.8611352+00:00"
 }

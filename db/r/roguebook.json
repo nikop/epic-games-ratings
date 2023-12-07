@@ -2,7 +2,7 @@
   "ID": "ed58510215d54a33b89ea805e0d773d7",
   "Name": "Roguebook",
   "ProductSlug": "roguebook",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 387,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 786,
@@ -208,6 +208,6 @@
   "FirstSeen": "2022-07-22T20:17:42.1468934+00:00",
   "LastChanged": "2023-10-20T19:00:19.2023964+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.3631758+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:58:43.5652088+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:05:00.6754075+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:59:23.6659568+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:05:59.8439884+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "766e1b59c32c447093add5efbc1a4858",
   "Name": "Dishonored - Definitive Edition",
   "ProductSlug": "dishonored-definitive-edition",
-  "Ranking_Rating": 147,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 786,
@@ -2290,10 +2290,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 1220,
       "NumberOfAwardsMax": 850
+    },
+    {
+      "Time": "2023-12-07T10:58:22.8759607+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1221,
+      "NumberOfAwardsMax": 850
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1220,
+  "NumberOfAwards": 1221,
   "NumberOfAwardsMax": 850,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2367,7 +2373,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 0,
@@ -2381,8 +2387,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2023-12-07T05:57:56.1710738+00:00",
+  "LastChanged": "2023-12-07T10:58:22.8759605+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.9370758+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:57:57.2894547+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:03:45.5305886+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:58:22.8759609+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:04:22.9975074+00:00"
 }

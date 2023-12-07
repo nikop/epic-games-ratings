@@ -1455,9 +1455,9 @@
       "ID": "ACHIEVEMENT_MAIN_NAUGHTY",
       "SetID": "5lffoo5",
       "Name": "Naughty list",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SHINY",
@@ -1517,8 +1517,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:09:31.797292+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:10:03.6322289+00:00",
   "LastUpdate_AppInfo": "2023-12-04T01:45:22.5163483+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:00:34.2792935+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:09:31.7973094+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:01:47.7480238+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:10:03.6322489+00:00"
 }

@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Lost forever | 5.00% | ~15 |
 | Golden Carrot | 3.00% | ~9 |
+| Naughty list | 3.00% | ~9 |
 | Silver Button | 3.00% | ~9 |
 | Silver Hat | 3.00% | ~9 |
 | A new HOME | 2.00% | ~6 |
 | At least you tried | 2.00% | ~6 |
 | Golden Hat | 2.00% | ~6 |
-| Naughty list | 2.00% | ~6 |
 | Silver Carrot | 2.00% | ~6 |
 | Minimalist lifestyle | 1.00% | ~3 |
 | I deliver the presents! | 1.00% | ~3 |

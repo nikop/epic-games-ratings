@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -281,9 +281,9 @@
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "NothingButRoad",
@@ -313,9 +313,9 @@
       "ID": "RoomToSpare",
       "SetID": "4bd750m",
       "Name": "Room To Spare",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SlottingMachine",
@@ -400,8 +400,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:05:23.9923755+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:06:30.3892721+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:16.2831296+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:03:07.4085453+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:05:23.9923931+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:03:32.0557133+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:06:30.3892911+00:00"
 }

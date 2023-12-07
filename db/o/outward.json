@@ -2,12 +2,12 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 495,
+  "Ranking_Rating": 496,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -535,9 +535,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3722,
+  "EOS_Progressed": 3723,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5840,6 +5840,11 @@
       "Time": "2023-12-07T05:07:41.4999398+00:00",
       "NumProgressed": 3722,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-07T11:08:13.7029583+00:00",
+      "NumProgressed": 3723,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5907,7 +5912,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "Eureka_23",
@@ -5915,7 +5920,7 @@
       "Name": "Eureka",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -5945,9 +5950,9 @@
       "ID": "HoldmyMeadandWatchThis_43",
       "SetID": "c4hee28",
       "Name": "Hold my Mead and Watch This",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 261
     },
     {
       "ID": "HomeSweetHome_25",
@@ -6043,7 +6048,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2419
+      "UsersEstimate": 2420
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6051,7 +6056,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -6075,7 +6080,7 @@
       "Name": "Tapped!",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1415
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -6186,15 +6191,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3722,
+      "Progressed": 3723,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:06:44.1868666+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:08:13.7029578+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:35.7033793+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:57:06.6224085+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:06:44.1869111+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:57:16.7544675+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:08:13.7030057+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1010,
+  "Ranking_Rating": 1011,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7423,9 +7423,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144086,
+  "EOS_Progressed": 144093,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 1161,
+  "EOS_NewPlayers": 1160,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -31413,6 +31413,11 @@
       "Time": "2023-12-07T10:04:10.7981717+00:00",
       "NumProgressed": 144086,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-07T11:04:55.5466406+00:00",
+      "NumProgressed": 144093,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -31504,7 +31509,7 @@
       "Name": "One Easy Payment",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "bigsale02",
@@ -31528,7 +31533,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "blueprint02",
@@ -31592,7 +31597,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10086
+      "UsersEstimate": 10087
     },
     {
       "ID": "chest02",
@@ -31656,7 +31661,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8645
+      "UsersEstimate": 8646
     },
     {
       "ID": "commonres02",
@@ -31688,7 +31693,7 @@
       "Name": "Disintermediation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7204
+      "UsersEstimate": 7205
     },
     {
       "ID": "craft02",
@@ -31776,7 +31781,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "energy02",
@@ -31800,7 +31805,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7204
+      "UsersEstimate": 7205
     },
     {
       "ID": "expansion02",
@@ -31896,7 +31901,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8645
+      "UsersEstimate": 8646
     },
     {
       "ID": "gold02",
@@ -31904,7 +31909,7 @@
       "Name": "Pretty Penny",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "gold03",
@@ -32008,7 +32013,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "level02",
@@ -32200,7 +32205,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7204
+      "UsersEstimate": 7205
     },
     {
       "ID": "sell02",
@@ -32240,7 +32245,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10086
+      "UsersEstimate": 10087
     },
     {
       "ID": "twinenchant01",
@@ -32288,7 +32293,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "workers02",
@@ -32319,15 +32324,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144086,
+      "Progressed": 144093,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-07T09:02:49.9026791+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:04:10.7981714+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:04:55.5466402+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:03:04.8768617+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:04:10.798377+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:03:28.653069+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:04:55.5468408+00:00"
 }

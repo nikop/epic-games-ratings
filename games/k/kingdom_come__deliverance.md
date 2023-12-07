@@ -1,7 +1,7 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 198)  
+Rating: 4.71 (Ranked 199)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,7 +14,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Scrooge | 20.00% | ~162,289 |
 | Anorectic | 16.00% | ~129,831 |
 | Firestarter | 16.00% | ~129,831 |
-| Bookworm | 15.00% | ~121,716 |
+| Bookworm | 15.00% | ~121,717 |
 | Insomniac | 13.00% | ~105,488 |
 | Buddy | 12.00% | ~97,373 |
 | Thief | 12.00% | ~97,373 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~811 |
 | Wingman | 0.10% | ~811 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 811,443 (Ranked 17)  
+Progressed: 811,444 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 52 (0.01%) (Ranked 348)
 | 2023-12-04 | 811,143 | 52 |
 | 2023-12-05 | 811,276 | 52 |
 | 2023-12-06 | 811,399 | 52 |
-| 2023-12-07 | 811,443 | 52 |
+| 2023-12-07 | 811,444 | 52 |
 ## Awards
 Max (Character Customization): 7,651  (Ranked 51)  
 Sum: 28,429 (Ranked 49)  

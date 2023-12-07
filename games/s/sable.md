@@ -1,34 +1,34 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.53 (Ranked 544)  
+Rating: 4.53 (Ranked 545)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~34,947 |
-| Just The Two of Us | 33.00% | ~33,919 |
-| Up On High | 25.00% | ~25,696 |
-| Under The Hood | 25.00% | ~25,696 |
-| Got Your Nose | 24.00% | ~24,669 |
-| The Gift of Gab | 24.00% | ~24,669 |
-| Wrapping Up | 22.00% | ~22,613 |
-| More Than A Box Of Sand | 18.00% | ~18,501 |
-| The Dunboyne | 17.00% | ~17,474 |
-| Badge Hobbyist | 17.00% | ~17,474 |
-| Chum Novice | 16.00% | ~16,446 |
-| Silver-Tongued Sable | 16.00% | ~16,446 |
-| Sticky Paws | 16.00% | ~16,446 |
-| Bubble Up | 16.00% | ~16,446 |
-| Thread The Needle | 15.00% | ~15,418 |
-| Power to the People | 14.00% | ~14,390 |
-| Nesting Giant | 14.00% | ~14,390 |
-| Take That! | 13.00% | ~13,362 |
-| Treasure Tracker | 13.00% | ~13,362 |
-| Big Spender | 13.00% | ~13,362 |
-| Badge Collector | 12.00% | ~12,334 |
-| Quite The Catch | 12.00% | ~12,334 |
-| Rowleys Way | 11.00% | ~11,306 |
+| Simoon | 34.00% | ~34,949 |
+| Just The Two of Us | 33.00% | ~33,921 |
+| Up On High | 25.00% | ~25,698 |
+| Under The Hood | 25.00% | ~25,698 |
+| Got Your Nose | 24.00% | ~24,670 |
+| The Gift of Gab | 24.00% | ~24,670 |
+| Wrapping Up | 22.00% | ~22,614 |
+| More Than A Box Of Sand | 18.00% | ~18,503 |
+| The Dunboyne | 17.00% | ~17,475 |
+| Badge Hobbyist | 17.00% | ~17,475 |
+| Chum Novice | 16.00% | ~16,447 |
+| Silver-Tongued Sable | 16.00% | ~16,447 |
+| Sticky Paws | 16.00% | ~16,447 |
+| Bubble Up | 16.00% | ~16,447 |
+| Thread The Needle | 15.00% | ~15,419 |
+| Power to the People | 14.00% | ~14,391 |
+| Nesting Giant | 14.00% | ~14,391 |
+| Take That! | 13.00% | ~13,363 |
+| Treasure Tracker | 13.00% | ~13,363 |
+| Big Spender | 13.00% | ~13,363 |
+| Badge Collector | 12.00% | ~12,335 |
+| Quite The Catch | 12.00% | ~12,335 |
+| Rowleys Way | 11.00% | ~11,307 |
 | The Machinist Mask | 10.00% | ~10,279 |
 | The Cartographer Mask | 10.00% | ~10,279 |
 | Balfron Connection | 10.00% | ~10,279 |
@@ -50,20 +50,20 @@ Number of Ratings: 43  (23.09.2022)
 | The Guard Mask | 7.00% | ~7,195 |
 | Smoked Out | 7.00% | ~7,195 |
 | A Hard Place | 7.00% | ~7,195 |
-| The Climber Mask | 6.00% | ~6,167 |
-| The Merchant Mask | 6.00% | ~6,167 |
-| Honorary Chum | 6.00% | ~6,167 |
-| Bikes Don't Fly | 6.00% | ~6,167 |
-| The Gliding | 5.00% | ~5,139 |
-| The Entertainer Mask | 5.00% | ~5,139 |
-| The Quick and the Curious | 4.00% | ~4,111 |
-| Bike Aficionado | 4.00% | ~4,111 |
+| The Climber Mask | 6.00% | ~6,168 |
+| The Merchant Mask | 6.00% | ~6,168 |
+| Honorary Chum | 6.00% | ~6,168 |
+| Bikes Don't Fly | 6.00% | ~6,168 |
+| The Gliding | 5.00% | ~5,140 |
+| The Entertainer Mask | 5.00% | ~5,140 |
+| The Quick and the Curious | 4.00% | ~4,112 |
+| Bike Aficionado | 4.00% | ~4,112 |
 | Chum Expert | 3.00% | ~3,084 |
 | Gastric Bypass | 3.00% | ~3,084 |
 | The Angler Mask | 3.00% | ~3,084 |
 | Vivacious Vivarium | 2.00% | ~2,056 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,786 (Ranked 88)  
+Progressed: 102,792 (Ranked 88)  
 Completed: 1,040 (1.01%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 1,040 (1.01%) (Ranked 169)
 | 2023-12-04 | 102,451 | 1,035 |
 | 2023-12-05 | 102,587 | 1,037 |
 | 2023-12-06 | 102,726 | 1,040 |
-| 2023-12-07 | 102,786 | 1,040 |
+| 2023-12-07 | 102,792 | 1,040 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 522)  
 Sum: 94 (Ranked 456)  

@@ -4,7 +4,7 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -569,6 +569,11 @@
       "Time": "2023-12-06T22:04:18.472236+00:00",
       "NumProgressed": 134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T11:05:32.6036409+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -653,7 +658,7 @@
       "Name": "Dark Paladin",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_DEMON_ABSORBED",
@@ -685,7 +690,7 @@
       "Name": "Edda and Aven",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -772,14 +777,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:04:39.4184876+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:05:32.6036406+00:00",
   "LastUpdate_AppInfo": "2023-12-01T13:57:00.5730741+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:00:35.1065689+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:04:39.4185052+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:01:48.5356275+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:05:32.6036559+00:00"
 }

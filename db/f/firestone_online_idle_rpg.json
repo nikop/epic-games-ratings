@@ -589,9 +589,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3093,
+  "EOS_Progressed": 3094,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9049,6 +9049,11 @@
       "Time": "2023-12-07T10:04:26.6865327+00:00",
       "NumProgressed": 3093,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-07T11:05:15.7046773+00:00",
+      "NumProgressed": 3094,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9252,7 +9257,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "frostfireliberator",
@@ -9260,7 +9265,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "fullparty",
@@ -9292,7 +9297,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "herewegoagain",
@@ -9412,7 +9417,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "mysteriousrock",
@@ -9452,7 +9457,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "prestigiousx10",
@@ -9468,7 +9473,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "sailor",
@@ -9516,7 +9521,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "thealchemist",
@@ -9620,7 +9625,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "warmachinesarmy",
@@ -9659,7 +9664,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3093,
+      "Progressed": 3094,
       "Completed": 2
     }
   ],
@@ -9667,8 +9672,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-06T22:57:53.695207+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:04:26.6865323+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:05:15.7046769+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:58:02.5644105+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:04:26.6866139+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:58:29.8142258+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:05:15.7047765+00:00"
 }

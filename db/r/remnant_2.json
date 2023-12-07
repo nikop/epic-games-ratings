@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 147,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 68,
@@ -5277,9 +5277,9 @@
       "Count": 407
     }
   ],
-  "EOS_Progressed": 236271,
+  "EOS_Progressed": 236295,
   "EOS_Completed": 564,
-  "EOS_NewPlayers": 5397,
+  "EOS_NewPlayers": 5393,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21802,6 +21802,11 @@
       "Time": "2023-12-07T10:09:09.4987255+00:00",
       "NumProgressed": 236271,
       "NumCompleted": 564
+    },
+    {
+      "Time": "2023-12-07T11:09:34.4616751+00:00",
+      "NumProgressed": 236295,
+      "NumCompleted": 564
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22214,7 +22219,7 @@
       "Name": "Regicide",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -22253,13 +22258,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 236271,
+      "Progressed": 236295,
       "Completed": 564
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 15436,
+      "Progressed": 15460,
       "Completed": 201
     }
   ],
@@ -22267,8 +22272,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-07T10:03:15.3871709+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:09:09.4987252+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:09:34.4616747+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:03:15.3871716+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:09:09.4988883+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:03:42.4933716+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:09:34.4617749+00:00"
 }

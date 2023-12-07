@@ -2,12 +2,12 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 560,
+  "Ranking_Rating": 561,
   "Ranking_Popularity": 349,
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -901,9 +901,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 11237,
+  "EOS_Progressed": 11239,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13821,6 +13821,11 @@
       "Time": "2023-12-07T10:09:07.0776828+00:00",
       "NumProgressed": 11237,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-07T11:09:31.3382864+00:00",
+      "NumProgressed": 11239,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13880,7 +13885,7 @@
       "Name": "High Quality H2O",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH08",
@@ -13888,7 +13893,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH09",
@@ -13936,7 +13941,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 4832
+      "UsersEstimate": 4833
     },
     {
       "ID": "ACH15",
@@ -13960,7 +13965,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACH18",
@@ -13992,7 +13997,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "ACH22",
@@ -14064,7 +14069,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACH31",
@@ -14103,7 +14108,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11237,
+      "Progressed": 11239,
       "Completed": 65
     }
   ],
@@ -14111,8 +14116,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-04T17:01:12.7618907+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:09:07.0776824+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:09:31.338286+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.5499109+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:57:42.1319803+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:09:07.0777932+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:58:02.3118462+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:09:31.3383491+00:00"
 }

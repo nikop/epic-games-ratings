@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1052,
+  "Ranking_Rating": 1053,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 98,
@@ -123,7 +123,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79984,
+  "EOS_Progressed": 79985,
   "EOS_Completed": 865,
   "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 8,
@@ -25833,6 +25833,11 @@
       "Time": "2023-12-07T10:03:57.2477652+00:00",
       "NumProgressed": 79984,
       "NumCompleted": 865
+    },
+    {
+      "Time": "2023-12-07T11:04:38.0917334+00:00",
+      "NumProgressed": 79985,
+      "NumCompleted": 865
     }
   ],
   "TotalAchievements": 25,
@@ -25876,7 +25881,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17596
+      "UsersEstimate": 17597
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -25972,7 +25977,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12797
+      "UsersEstimate": 12798
     },
     {
       "ID": "Nothing Left to Say",
@@ -26043,7 +26048,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79984,
+      "Progressed": 79985,
       "Completed": 865
     }
   ],
@@ -26051,8 +26056,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:03:57.2477647+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:04:38.091733+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:32.9169393+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:00:38.4072491+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:03:57.2479198+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:01:52.853774+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:04:38.0918699+00:00"
 }

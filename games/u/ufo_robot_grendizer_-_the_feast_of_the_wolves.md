@@ -16,6 +16,7 @@
 | A Good Paint Job | 15.00% | ~2 |
 | Iron Fist | 15.00% | ~2 |
 | The Exterminator | 15.00% | ~2 |
+| The Royal Guard | 15.00% | ~2 |
 | The Vega Turtle | 15.00% | ~2 |
 | The Power of Friendship | 8.00% | ~1 |
 | The Planner | 8.00% | ~1 |
@@ -23,7 +24,6 @@
 | Saucer Beast Unchained | 8.00% | ~1 |
 | The Battle Axe | 8.00% | ~1 |
 | The Interstellar Fighter | 8.00% | ~1 |
-| The Royal Guard | 8.00% | ~1 |
 | The Ultimate Attack | 8.00% | ~1 |
 | Vengeance of the Wolf | 8.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |

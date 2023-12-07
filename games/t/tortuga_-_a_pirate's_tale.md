@@ -1,14 +1,14 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.78 (Ranked 1,047)  
+Rating: 3.78 (Ranked 1,048)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,318 |
-| No Half Measures | 87.00% | ~14,944 |
-| Personal Matter | 86.00% | ~14,772 |
-| But You Have Heard of Me | 72.00% | ~12,367 |
+| Eeligally Ambitious | 95.00% | ~16,319 |
+| No Half Measures | 87.00% | ~14,945 |
+| Personal Matter | 86.00% | ~14,773 |
+| But You Have Heard of Me | 72.00% | ~12,368 |
 | Double the Barrels, double the Fun | 54.00% | ~9,276 |
 | Pimp My Glide | 49.00% | ~8,417 |
 | ... And Where Do the Stories Come From? | 40.00% | ~6,871 |
@@ -17,7 +17,7 @@ Rating: 3.78 (Ranked 1,047)
 | Curse of the Seven Seas | 22.00% | ~3,779 |
 | Head First | 16.00% | ~2,748 |
 | To the World's End | 12.00% | ~2,061 |
-| Table for Six | 11.00% | ~1,889 |
+| Table for Six | 11.00% | ~1,890 |
 | Sharing Is Caring | 10.00% | ~1,718 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,374 |
 | Morally Flexible | 6.00% | ~1,031 |
@@ -32,7 +32,7 @@ Rating: 3.78 (Ranked 1,047)
 | Pufferfish | 0.10% | ~17 |
 | O Captain! My Captain! | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,177 (Ranked 147)  
+Progressed: 17,178 (Ranked 147)  
 Completed: 1 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 1 (0.01%) (Ranked 348)
 | 2023-12-04 | 17,171 | 1 |
 | 2023-12-05 | 17,173 | 1 |
 | 2023-12-06 | 17,175 | 1 |
-| 2023-12-07 | 17,177 | 1 |
+| 2023-12-07 | 17,178 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

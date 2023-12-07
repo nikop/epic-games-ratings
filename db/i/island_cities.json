@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 834,
+  "EOS_Progressed": 835,
   "EOS_Completed": 137,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 16.43,
+  "EOS_Completed_Percentage": 16.41,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3546,6 +3546,11 @@
       "Time": "2023-12-06T11:05:18.9108028+00:00",
       "NumProgressed": 834,
       "NumCompleted": 137
+    },
+    {
+      "Time": "2023-12-07T11:05:54.3622776+00:00",
+      "NumProgressed": 835,
+      "NumCompleted": 137
     }
   ],
   "TotalAchievements": 22,
@@ -3555,9 +3560,9 @@
       "ID": "LEVEL_001",
       "SetID": "3khpmem",
       "Name": "Welcome!",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 809
+      "UsersEstimate": 802
     },
     {
       "ID": "LEVEL_002",
@@ -3571,9 +3576,9 @@
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 559
+      "UsersEstimate": 551
     },
     {
       "ID": "LEVEL_004",
@@ -3581,7 +3586,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "LEVEL_005",
@@ -3589,7 +3594,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "LEVEL_006",
@@ -3613,7 +3618,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "LEVEL_009",
@@ -3661,7 +3666,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "LEVEL_015",
@@ -3677,7 +3682,7 @@
       "Name": "The beach is right there",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "LEVEL_017",
@@ -3685,7 +3690,7 @@
       "Name": "Commuting",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "LEVEL_018",
@@ -3725,14 +3730,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 834,
+      "Progressed": 835,
       "Completed": 137
     }
   ],
@@ -3740,8 +3745,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:04:56.4002579+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:05:54.3622769+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:28.3686171+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:00:27.4948395+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:04:56.4002893+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:01:39.7459791+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:05:54.3623135+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.57,
+  "EOS_Completed_Percentage": 8.54,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1389,6 +1389,11 @@
       "Time": "2023-12-03T05:08:04.1651959+00:00",
       "NumProgressed": 315,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-07T11:05:48.301632+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 16,
@@ -1400,7 +1405,7 @@
       "Name": "Three is company",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1440,7 +1445,7 @@
       "Name": "High-rise",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1448,7 +1453,7 @@
       "Name": "Putting challenge",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -1470,9 +1475,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1480,7 +1485,7 @@
       "Name": "Catch a flight",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1488,7 +1493,7 @@
       "Name": "Way to the shore",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1496,7 +1501,7 @@
       "Name": "Private pool",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1527,14 +1532,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:04:51.7050606+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:05:48.3016312+00:00",
   "LastUpdate_AppInfo": "2023-12-03T02:57:02.2090012+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:58:17.8044897+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:04:51.7050778+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:58:49.9032364+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:05:48.301658+00:00"
 }

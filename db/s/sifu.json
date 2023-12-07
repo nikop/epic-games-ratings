@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 68,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 22,
@@ -8029,10 +8029,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11648,
       "NumberOfAwardsMax": 6885
+    },
+    {
+      "Time": "2023-12-07T11:03:14.6050167+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11650,
+      "NumberOfAwardsMax": 6885
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11648,
+  "NumberOfAwards": 11650,
   "NumberOfAwardsMax": 6885,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8052,7 +8058,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 579
+      "Count": 581
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8109,9 +8115,9 @@
       "Count": 430
     }
   ],
-  "EOS_Progressed": 717853,
+  "EOS_Progressed": 717854,
   "EOS_Completed": 12945,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -28584,6 +28590,11 @@
       "Time": "2023-12-07T10:04:57.6082885+00:00",
       "NumProgressed": 717853,
       "NumCompleted": 12945
+    },
+    {
+      "Time": "2023-12-07T11:05:55.9734817+00:00",
+      "NumProgressed": 717854,
+      "NumCompleted": 12945
     }
   ],
   "TotalAchievements": 60,
@@ -29074,21 +29085,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 27154,
+      "Progressed": 27155,
       "Completed": 10762
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717853,
+      "Progressed": 717854,
       "Completed": 12945
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-07T05:02:58.493594+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:04:57.6082881+00:00",
+  "LastChanged": "2023-12-07T11:03:14.6050165+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:05:55.9734811+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:06.4352314+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:02:54.0505028+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:04:57.6084288+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:03:14.605017+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:05:55.9736205+00:00"
 }

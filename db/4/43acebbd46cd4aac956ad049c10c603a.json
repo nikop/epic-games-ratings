@@ -2,7 +2,7 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 32,
+  "Ranking_Rating": 33,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 273,
@@ -211,9 +211,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 889,
+  "EOS_Progressed": 890,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2161,6 +2161,11 @@
       "Time": "2023-12-07T05:07:20.9703802+00:00",
       "NumProgressed": 889,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T11:07:55.6538774+00:00",
+      "NumProgressed": 890,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2357,15 +2362,15 @@
       "Name": "Lord of the Files",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "LostMarshes",
       "SetID": "1n308hc",
       "Name": "Lost Marshes",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 53
     },
     {
       "ID": "MistressOfRiddles",
@@ -2429,7 +2434,7 @@
       "Name": "Overload",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Persistent",
@@ -2461,7 +2466,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "RenaissanceRobot",
@@ -2565,7 +2570,7 @@
       "Name": "The Spark",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "TheThiefOfFire",
@@ -2644,7 +2649,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 889,
+      "Progressed": 890,
       "Completed": 1
     }
   ],
@@ -2652,8 +2657,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:06:30.2178806+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:07:55.6538771+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:59:41.9160431+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:06:30.217938+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:00:39.8062347+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:07:55.6539289+00:00"
 }

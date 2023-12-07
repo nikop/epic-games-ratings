@@ -15,9 +15,9 @@
 | Sign of weakness | 38.00% | ~40 |
 | Finished it | 33.00% | ~35 |
 | Face your fears | 28.00% | ~30 |
-| Whispers long forgotten | 17.00% | ~18 |
-| Playtime | 14.00% | ~15 |
-| Tough conversation | 14.00% | ~15 |
+| Whispers long forgotten | 18.00% | ~19 |
+| Playtime | 15.00% | ~16 |
+| Tough conversation | 15.00% | ~16 |
 | The tragedy unfolds | 13.00% | ~14 |
 | A Slice of Life | 12.00% | ~13 |
 | Debut | 12.00% | ~13 |
@@ -33,11 +33,11 @@
 | Heavy Burden | 8.00% | ~8 |
 | We Are Not Alone | 6.00% | ~6 |
 | Fisherman | 6.00% | ~6 |
+| I remember It Like Was Yesterday | 4.00% | ~4 |
 | Body of Work | 4.00% | ~4 |
 | The Perfect Storm | 4.00% | ~4 |
 | Instinct of self-preservation | 4.00% | ~4 |
 | Something to think about | 3.00% | ~3 |
-| I remember It Like Was Yesterday | 3.00% | ~3 |
 | It was worth a try | 3.00% | ~3 |
 | Immortalized in my heart | 3.00% | ~3 |
 | Full Scoop | 3.00% | ~3 |

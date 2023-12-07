@@ -2,12 +2,12 @@
   "ID": "5e0e5678caaa469baf3a8627c3d1dee4",
   "Name": "Salt and Sacrifice",
   "ProductSlug": "salt-and-sacrifice",
-  "Ranking_Rating": 837,
+  "Ranking_Rating": 838,
   "Ranking_Popularity": 154,
   "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1859,18 +1859,24 @@
       "Rating": 4.31,
       "NumberOfAwards": 1995,
       "NumberOfAwardsMax": 991
+    },
+    {
+      "Time": "2023-12-07T11:01:17.936987+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1996,
+      "NumberOfAwardsMax": 992
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1995,
-  "NumberOfAwardsMax": 991,
+  "NumberOfAwards": 1996,
+  "NumberOfAwardsMax": 992,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 991
+      "Count": 992
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1935,7 +1941,7 @@
   ],
   "EOS_Progressed": 67653,
   "EOS_Completed": 1269,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.88,
   "EosHistory": [
@@ -15418,9 +15424,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
-  "LastChanged": "2023-12-05T13:59:14.4540975+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:03:18.4400582+00:00",
+  "LastChanged": "2023-12-07T11:01:17.9369868+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:03:48.810213+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:19.318595+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:00:10.9945325+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:03:18.4403758+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:01:17.9369872+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:03:48.8103303+00:00"
 }

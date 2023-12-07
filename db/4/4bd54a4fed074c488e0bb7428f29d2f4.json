@@ -226,9 +226,9 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SOS_DEAD_END",
@@ -306,9 +306,9 @@
       "ID": "SOS_FIRST_BLOOD",
       "SetID": "6ci4lm2",
       "Name": "First blood",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SOS_FISH",
@@ -386,9 +386,9 @@
       "ID": "SOS_HE_WILL_REMEMBER",
       "SetID": "6ci4lm2",
       "Name": "He will remember that",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SOS_INFERNAL_TONES",
@@ -657,8 +657,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:05:53.1709485+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:07:07.5083688+00:00",
   "LastUpdate_AppInfo": "2023-12-04T15:57:13.4700868+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:00:36.9888648+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:05:53.1710093+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:01:50.9951346+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:07:07.5084212+00:00"
 }

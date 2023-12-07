@@ -2,13 +2,13 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 157,
+  "Ranking_Rating": 158,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -201,10 +201,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7508,
+  "EOS_Progressed": 7510,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 386,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 385,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
@@ -5761,6 +5761,11 @@
       "Time": "2023-12-07T09:09:10.7210757+00:00",
       "NumProgressed": 7508,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-07T11:10:18.0181938+00:00",
+      "NumProgressed": 7510,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5845,7 +5850,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5917,7 +5922,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "NoMoreTotems",
@@ -6029,7 +6034,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "k01101110",
@@ -6037,14 +6042,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7508,
+      "Progressed": 7510,
       "Completed": 14
     }
   ],
@@ -6052,8 +6057,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:09:43.617495+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:10:18.0181929+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:00:00.2016355+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:09:43.6175518+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:01:03.7582288+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:10:18.0182403+00:00"
 }

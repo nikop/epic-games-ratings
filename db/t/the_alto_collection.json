@@ -2,12 +2,12 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 198,
+  "Ranking_Rating": 199,
   "Ranking_Popularity": 441,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -862,9 +862,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 49185,
+  "EOS_Progressed": 49187,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 956,
+  "EOS_NewPlayers": 951,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27007,6 +27007,11 @@
       "Time": "2023-12-07T10:04:48.90781+00:00",
       "NumProgressed": 49185,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-07T11:05:44.7013228+00:00",
+      "NumProgressed": 49187,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -27042,7 +27047,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5410
+      "UsersEstimate": 5411
     },
     {
       "ID": "distance500000",
@@ -27074,7 +27079,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4918
+      "UsersEstimate": 4919
     },
     {
       "ID": "goals75",
@@ -27138,7 +27143,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8361
+      "UsersEstimate": 8362
     },
     {
       "ID": "novice",
@@ -27226,7 +27231,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 12296
+      "UsersEstimate": 12297
     },
     {
       "ID": "sandboarder",
@@ -27242,7 +27247,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5410
+      "UsersEstimate": 5411
     },
     {
       "ID": "ultimate",
@@ -27329,15 +27334,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 49185,
+      "Progressed": 49187,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-12-06T14:57:09.4636438+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:04:48.9078096+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:05:44.7013224+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:54.929935+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:57:41.0540664+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:04:48.9079207+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:58:01.0035899+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:05:44.7014944+00:00"
 }

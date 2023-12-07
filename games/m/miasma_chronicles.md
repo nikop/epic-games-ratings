@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.42 (Ranked 716)  
+Rating: 4.42 (Ranked 717)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,7 +25,7 @@ Rating: 4.42 (Ranked 716)
 | Are you not entertained? | 36.00% | ~575 |
 | Ganglord | 36.00% | ~575 |
 | Jarhead | 36.00% | ~575 |
-| Infiltrator | 35.00% | ~559 |
+| Infiltrator | 36.00% | ~575 |
 | Pushing Daisy | 34.00% | ~543 |
 | Experienced | 33.00% | ~527 |
 | Hold The Line | 32.00% | ~511 |

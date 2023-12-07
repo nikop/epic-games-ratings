@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 364,
+  "EOS_Progressed": 365,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1124,6 +1124,11 @@
       "Time": "2023-12-06T22:03:42.5853247+00:00",
       "NumProgressed": 364,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T11:04:45.8652706+00:00",
+      "NumProgressed": 365,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1174,9 +1179,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 150
     },
     {
       "ID": "9",
@@ -1192,7 +1197,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "REMAKE_002",
@@ -1230,9 +1235,9 @@
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 110
     },
     {
       "ID": "Remake_008",
@@ -1246,9 +1251,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 91
     },
     {
       "ID": "Remake_010",
@@ -1359,14 +1364,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 364,
+      "Progressed": 365,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:04:03.3107505+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:04:45.86527+00:00",
   "LastUpdate_AppInfo": "2023-12-04T22:57:03.327196+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:58:48.7024041+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:04:03.3107703+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:59:30.0345805+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:04:45.8652927+00:00"
 }

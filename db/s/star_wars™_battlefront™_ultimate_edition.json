@@ -5003,9 +5003,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1440
     },
     {
       "ID": "achievement_36",
@@ -5298,8 +5298,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-07T10:09:55.507664+00:00",
+  "LastChanged_Achievements": "2023-12-07T11:10:33.252158+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-07T09:57:55.2279568+00:00",
-  "LastUpdate_Achievements": "2023-12-07T10:09:55.5077406+00:00"
+  "LastUpdate_Ratings": "2023-12-07T10:58:20.0819573+00:00",
+  "LastUpdate_Achievements": "2023-12-07T11:10:33.2522226+00:00"
 }
