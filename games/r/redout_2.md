@@ -5,8 +5,8 @@ Rating: 4.50 (Ranked 597)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 28.00% | ~329 |
-| Increasing your Power Level | 28.00% | ~329 |
+| Rookie No More | 28.00% | ~330 |
+| Increasing your Power Level | 28.00% | ~330 |
 | Enter the Speed Gauntlet | 25.00% | ~294 |
 | I just can't choose | 25.00% | ~294 |
 | A Cheese Grater to the Face | 20.00% | ~235 |
@@ -14,12 +14,12 @@ Rating: 4.50 (Ranked 597)
 | Put it on a shelf | 18.00% | ~212 |
 | Ride in the rising sun | 16.00% | ~188 |
 | Suit up | 16.00% | ~188 |
-| Walked like an Egyptian | 15.00% | ~176 |
+| Walked like an Egyptian | 15.00% | ~177 |
 | Rookie No-No More | 13.00% | ~153 |
 | Running at the speed of sound | 13.00% | ~153 |
 | Martian explorer | 11.00% | ~129 |
-| To the core | 9.00% | ~106 |
-| Blurred photofinish | 9.00% | ~106 |
+| To the core | 8.00% | ~94 |
+| Blurred photofinish | 8.00% | ~94 |
 | EZ game EZ life | 7.00% | ~82 |
 | First step into a larger world | 7.00% | ~82 |
 | Over the clouds | 6.00% | ~71 |
@@ -52,13 +52,13 @@ Rating: 4.50 (Ranked 597)
 | Better than half the studio... | 1.00% | ~12 |
 | Grandslam | 1.00% | ~12 |
 | Fashion Racer | 0.90% | ~11 |
-| Redout Grandmaster | 0.90% | ~11 |
 | Familiar Face | 0.90% | ~11 |
 | Beat you to it! | 0.90% | ~11 |
+| Redout Grandmaster | 0.80% | ~9 |
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,176 (Ranked 255)  
+Progressed: 1,177 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,6 +188,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-11-29 | 1,173 | 0 |
 | 2023-12-01 | 1,174 | 0 |
 | 2023-12-05 | 1,176 | 0 |
+| 2023-12-07 | 1,177 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

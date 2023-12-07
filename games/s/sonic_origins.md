@@ -18,7 +18,7 @@ Number of Ratings: 154  (23.09.2022)
 | Bubbly Breath | 57.00% | ~362 |
 | Gallant Spin Dash | 57.00% | ~362 |
 | Knuckles the Echidna | 56.00% | ~356 |
-| Miles "Tails" Prower | 55.00% | ~349 |
+| Miles "Tails" Prower | 56.00% | ~356 |
 | Boss Rush Attempt | 49.00% | ~311 |
 | Cleared Sonic the Hedgehog | 47.00% | ~298 |
 | Super Sonic | 42.00% | ~267 |

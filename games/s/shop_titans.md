@@ -10,9 +10,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 7.00% | ~10,089 |
 | Titan's First Steps | 7.00% | ~10,089 |
 | Tinkle of Coins | 6.00% | ~8,648 |
-| Disintermediation | 5.00% | ~7,206 |
-| It's Free Real Estate | 5.00% | ~7,206 |
-| Capitalism Ho! | 5.00% | ~7,206 |
+| Disintermediation | 5.00% | ~7,207 |
+| It's Free Real Estate | 5.00% | ~7,207 |
+| Capitalism Ho! | 5.00% | ~7,207 |
 | One Easy Payment | 4.00% | ~5,765 |
 | Some Assembly Required | 4.00% | ~5,765 |
 | Another Satisfied Customer | 4.00% | ~5,765 |
@@ -52,6 +52,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ritualist | 2.00% | ~2,883 |
 | Efficient Floor Space | 2.00% | ~2,883 |
 | Cranked up to 11 | 2.00% | ~2,883 |
+| By Your Powers Combined... | 2.00% | ~2,883 |
 | Flawless Fusion | 2.00% | ~2,883 |
 | Trash to Treasure | 2.00% | ~2,883 |
 | Gem Expert | 2.00% | ~2,883 |
@@ -87,7 +88,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master of Transmutation | 1.00% | ~1,441 |
 | Thank You Tom Nook | 1.00% | ~1,441 |
 | Fit for a King | 1.00% | ~1,441 |
-| By Your Powers Combined... | 1.00% | ~1,441 |
 | A Legend is Born | 1.00% | ~1,441 |
 | Necromancer Queen | 1.00% | ~1,441 |
 | Jackpot! | 1.00% | ~1,441 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~432 |
 | Capitalist Camaraderie | 0.20% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,127 (Ranked 80)  
+Progressed: 144,135 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 291 (0.20%) (Ranked 258)
 | 2023-12-04 | 143,830 | 291 |
 | 2023-12-05 | 143,938 | 291 |
 | 2023-12-06 | 144,049 | 291 |
-| 2023-12-07 | 144,127 | 291 |
+| 2023-12-07 | 144,135 | 291 |
 ## Awards
 Max (Great for Beginners): 4,868  (Ranked 75)  
 Sum: 27,672 (Ranked 50)  

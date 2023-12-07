@@ -1,10 +1,10 @@
 # Assassin's Creed® Mirage
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-mirage)  
 [View Rawdata](../../db/a/assassin's_creed®_mirage.json)  
-Rating: 4.44 (Ranked 679)  
+Rating: 4.45 (Ranked 666)  
 ## Awards
 Max (Relaxing): 176  (Ranked 303)  
-Sum: 1,444 (Ranked 239)  
+Sum: 1,445 (Ranked 239)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 64
 | This game is Educational | 155 |
 | This game is Highly Recommended | 151 |
 | This game has Diverse Characters | 148 |
-| This game has Amazing Storytelling | 131 |
+| This game has Amazing Storytelling | 132 |
 | This game has Amazing Characters | 130 |
 | This game has a Creative Community | 70 |
 | This game has Beautiful Visuals | 54 |
@@ -83,4 +83,4 @@ Diff (max vs sum): 64
 | 2023-12-04 | 4.44 | 174 | 1,417 |
 | 2023-12-05 | 4.44 | 176 | 1,427 |
 | 2023-12-06 | 4.44 | 176 | 1,434 |
-| 2023-12-07 | 4.44 | 176 | 1,444 |
+| 2023-12-07 | 4.45 | 176 | 1,445 |

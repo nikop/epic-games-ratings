@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4565,9 +4565,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77763,
+  "EOS_Progressed": 77765,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25275,6 +25275,11 @@
       "Time": "2023-12-07T17:04:27.1533058+00:00",
       "NumProgressed": 77763,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-07T18:04:27.1329139+00:00",
+      "NumProgressed": 77765,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25374,7 +25379,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11664
+      "UsersEstimate": 11665
     },
     {
       "ID": "CHALLENGES_1",
@@ -25390,7 +25395,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16330
+      "UsersEstimate": 16331
     },
     {
       "ID": "CLAYFACE_2",
@@ -25398,7 +25403,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13997
+      "UsersEstimate": 13998
     },
     {
       "ID": "CLAYFACE_3",
@@ -25430,7 +25435,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5443
+      "UsersEstimate": 5444
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -25590,7 +25595,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26439
+      "UsersEstimate": 26440
     },
     {
       "ID": "HARLEY_2",
@@ -25662,7 +25667,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20996
+      "UsersEstimate": 20997
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -25686,7 +25691,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18663
+      "UsersEstimate": 18664
     },
     {
       "ID": "MYSTERY_03",
@@ -25710,7 +25715,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13997
+      "UsersEstimate": 13998
     },
     {
       "ID": "MYSTERY_06",
@@ -25718,7 +25723,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11664
+      "UsersEstimate": 11665
     },
     {
       "ID": "MYSTERY_07",
@@ -25773,13 +25778,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77763,
+      "Progressed": 77765,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48043,
+      "Progressed": 48045,
       "Completed": 2675
     }
   ],
@@ -25787,8 +25792,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-07T08:00:03.7039518+00:00",
-  "LastChanged_Achievements": "2023-12-07T17:04:27.1533054+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:04:27.1329135+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:59:23.5004074+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:04:27.1534412+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:59:36.3326736+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:04:27.1330803+00:00"
 }

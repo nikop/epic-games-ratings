@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -395,9 +395,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 325291,
+  "EOS_Progressed": 325310,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3956,
+  "EOS_NewPlayers": 3935,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8740,6 +8740,11 @@
       "Time": "2023-12-07T17:03:36.8302576+00:00",
       "NumProgressed": 325291,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-07T18:03:32.845031+00:00",
+      "NumProgressed": 325310,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -8784,7 +8789,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "S06_LWTC",
@@ -9071,7 +9076,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 325291,
+      "Progressed": 325310,
       "Completed": 4
     }
   ],
@@ -9079,8 +9084,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-06T06:00:13.3250354+00:00",
-  "LastChanged_Achievements": "2023-12-07T17:03:36.8302573+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:03:32.8450307+00:00",
   "LastUpdate_AppInfo": "2023-11-30T19:57:08.777578+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:57:41.8489768+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:03:36.8303099+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:57:40.5201828+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:03:32.8451079+00:00"
 }

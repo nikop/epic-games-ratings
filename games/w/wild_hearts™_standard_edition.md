@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 99.00% | ~360 |
-| Hidden History | 83.00% | ~302 |
+| Hidden History | 84.00% | ~306 |
 | Commencing of Quests | 76.00% | ~277 |
 | Budding Conjuror | 75.00% | ~273 |
 | Man-Machine Master | 66.00% | ~240 |

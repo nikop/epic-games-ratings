@@ -1,11 +1,11 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 545)  
+Rating: 4.54 (Ranked 532)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 12.00% | ~1,915 |
+| Oyedang, Kopengs | 12.00% | ~1,916 |
 | Bosmang | 8.00% | ~1,277 |
 | The Pit and the Pirates | 7.00% | ~1,117 |
 | Martian Music | 7.00% | ~1,117 |
@@ -22,9 +22,9 @@ Rating: 4.53 (Ranked 545)
 | Heal Thy Medic | 5.00% | ~798 |
 | Call it Even | 5.00% | ~798 |
 | Keep Arjun in Check | 5.00% | ~96 |
-| Data Archivist | 4.00% | ~638 |
-| Thorston Mayer | 4.00% | ~638 |
-| Khan's Revenge | 4.00% | ~638 |
+| Data Archivist | 4.00% | ~639 |
+| Thorston Mayer | 4.00% | ~639 |
+| Khan's Revenge | 4.00% | ~639 |
 | Master Negotiator | 4.00% | ~77 |
 | Doctor Approved | 3.00% | ~479 |
 | Bottoms up! | 3.00% | ~479 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 545)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,960 (Ranked 151)  
+Progressed: 15,963 (Ranked 151)  
 Completed: 41 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 41 (0.26%) (Ranked 249)
 | 2023-12-04 | 15,899 | 40 |
 | 2023-12-05 | 15,919 | 41 |
 | 2023-12-06 | 15,941 | 41 |
-| 2023-12-07 | 15,960 | 41 |
+| 2023-12-07 | 15,963 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -220,3 +220,4 @@ Completed: 41 (0.26%) (Ranked 249)
 | 2023-11-28 | 4.55 | 0 | 0 |
 | 2023-12-02 | 4.54 | 0 | 0 |
 | 2023-12-03 | 4.53 | 0 | 0 |
+| 2023-12-07 | 4.54 | 0 | 0 |

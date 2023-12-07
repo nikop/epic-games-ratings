@@ -36,8 +36,8 @@ Number of Ratings: 54  (23.09.2022)
 | Comrade Yogi | 0.50% | ~7 |
 | Tourist Korallov | 0.50% | ~7 |
 | Cheeki Breeki | 0.40% | ~5 |
+| It's a classic! | 0.40% | ~5 |
 | Expert | 0.40% | ~5 |
-| It's a classic! | 0.30% | ~4 |
 | Mystical relics | 0.20% | ~3 |
 | 27 Club | 0.10% | ~1 |
 | No Name, No Slogan | 0.10% | ~1 |

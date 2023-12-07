@@ -2,10 +2,10 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 251,
+  "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1283,
+  "EOS_Progressed": 1284,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2927,6 +2927,11 @@
       "Time": "2023-12-07T16:04:31.0283882+00:00",
       "NumProgressed": 1283,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T18:04:22.1224948+00:00",
+      "NumProgressed": 1284,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2939,7 +2944,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2979,7 +2984,7 @@
       "Name": "Now try online",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -2995,7 +3000,7 @@
       "Name": "Versatile riding",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -3019,7 +3024,7 @@
       "Name": "It\u0027s me you have to beat",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -3035,7 +3040,7 @@
       "Name": "Look, Mom! No track!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -3083,7 +3088,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -3131,7 +3136,7 @@
       "Name": "The Yeti",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -3155,7 +3160,7 @@
       "Name": "Can you keep a secret?",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ML_ACHIEVEMENT_29",
@@ -3195,7 +3200,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -3203,15 +3208,15 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
       "SetID": "5k00jcd",
       "Name": "Extra gear",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 270
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -3275,27 +3280,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1283,
+      "Progressed": 1284,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 951,
-      "Completed": 951
+      "Progressed": 952,
+      "Completed": 952
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-07T17:04:22.835197+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:04:22.1224944+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:57:05.8729105+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:57:54.32208+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:04:22.8352398+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:57:54.4591015+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:04:22.1225591+00:00"
 }

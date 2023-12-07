@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 891,
+  "EOS_Progressed": 892,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 5.84,
+  "EOS_Completed_Percentage": 5.83,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3605,6 +3605,11 @@
       "Time": "2023-12-07T10:05:02.634152+00:00",
       "NumProgressed": 891,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-07T18:05:03.9501661+00:00",
+      "NumProgressed": 892,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 25,
@@ -3664,7 +3669,7 @@
       "Name": "Open door",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3680,7 +3685,7 @@
       "Name": "Feels like springtime",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3734,9 +3739,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 259
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3784,7 +3789,7 @@
       "Name": "The great escape",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "PROGRESS_N3",
@@ -3815,14 +3820,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 891,
+      "Progressed": 892,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-07T17:05:00.7119593+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:05:03.9501652+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:58:51.3735105+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:05:00.712031+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:59:00.470903+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:05:03.9502145+00:00"
 }

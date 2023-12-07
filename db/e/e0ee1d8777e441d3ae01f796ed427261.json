@@ -4,8 +4,8 @@
   "ProductSlug": "amber-1e2240",
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 463,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2024-02-14T13:00:00+00:00",
     "PcReleaseDate": "2024-02-14T13:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-05T21:56:59.7094803+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:57:55.5928255+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:05:36.2301875+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:57:55.9862076+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:05:42.3780902+00:00"
 }

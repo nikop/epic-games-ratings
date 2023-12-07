@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1332,9 +1332,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29857,
+  "EOS_Progressed": 29860,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -26077,6 +26077,11 @@
       "Time": "2023-12-07T17:09:14.1480634+00:00",
       "NumProgressed": 29857,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-07T18:09:02.0508732+00:00",
+      "NumProgressed": 29860,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -26096,7 +26101,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "1017",
@@ -26104,7 +26109,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "1018",
@@ -26144,7 +26149,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "1023",
@@ -26192,7 +26197,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5374
+      "UsersEstimate": 5375
     },
     {
       "ID": "1029",
@@ -26208,7 +26213,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5971
+      "UsersEstimate": 5972
     },
     {
       "ID": "1031",
@@ -26224,7 +26229,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11943
+      "UsersEstimate": 11944
     },
     {
       "ID": "1033",
@@ -26248,7 +26253,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3881
+      "UsersEstimate": 3882
     },
     {
       "ID": "1036",
@@ -26263,15 +26268,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29857,
+      "Progressed": 29860,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-07T17:09:14.1480631+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:09:02.0508727+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.8181889+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:59:00.5379593+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:09:14.1481842+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:59:10.6683968+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:09:02.0510685+00:00"
 }

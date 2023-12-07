@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 545)  
+Rating: 4.53 (Ranked 546)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 | Arkvoodle Doodle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 569)  
+Progressed: 20 (Ranked 570)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |

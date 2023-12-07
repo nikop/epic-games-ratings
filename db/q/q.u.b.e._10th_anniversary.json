@@ -282,9 +282,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 24005,
+  "EOS_Progressed": 24017,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 1152,
+  "EOS_NewPlayers": 1155,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -6022,6 +6022,11 @@
       "Time": "2023-12-07T17:09:27.4634363+00:00",
       "NumProgressed": 24005,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-12-07T18:09:16.6197761+00:00",
+      "NumProgressed": 24017,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 24,
@@ -6033,7 +6038,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "ACH_CollectAll",
@@ -6049,7 +6054,7 @@
       "Name": "Squished",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_CrushPhysicsBall",
@@ -6057,7 +6062,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 3601
+      "UsersEstimate": 3603
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -6065,7 +6070,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4561
+      "UsersEstimate": 4563
     },
     {
       "ID": "ACH_Finale",
@@ -6073,7 +6078,7 @@
       "Name": "Finale",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_S8AllBronze",
@@ -6145,7 +6150,7 @@
       "Name": "Master Room",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACH_S8MaxPoints",
@@ -6161,7 +6166,7 @@
       "Name": "Sector 1",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 6001
+      "UsersEstimate": 6004
     },
     {
       "ID": "ACH_Sector2",
@@ -6169,7 +6174,7 @@
       "Name": "Sector 2",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5284
     },
     {
       "ID": "ACH_Sector3",
@@ -6177,7 +6182,7 @@
       "Name": "Sector 3",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 4561
+      "UsersEstimate": 4563
     },
     {
       "ID": "ACH_Sector4",
@@ -6185,7 +6190,7 @@
       "Name": "Sector 4",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3841
+      "UsersEstimate": 3843
     },
     {
       "ID": "ACH_Sector5",
@@ -6193,7 +6198,7 @@
       "Name": "Sector 5",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2402
     },
     {
       "ID": "ACH_Sector6",
@@ -6201,7 +6206,7 @@
       "Name": "Sector 6",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2162
     },
     {
       "ID": "ACH_Sector7",
@@ -6209,7 +6214,7 @@
       "Name": "Sector 7",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_TurnBallBlack",
@@ -6217,14 +6222,14 @@
       "Name": "Did That Work? -- No!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 24005,
+      "Progressed": 24017,
       "Completed": 140
     }
   ],
@@ -6232,8 +6237,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-12-06T18:00:01.3519948+00:00",
-  "LastChanged_Achievements": "2023-12-07T17:09:27.4634349+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:09:16.6197758+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:26.6540056+00:00",
-  "LastUpdate_Ratings": "2023-12-07T17:00:23.2951584+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:09:27.4634887+00:00"
+  "LastUpdate_Ratings": "2023-12-07T18:00:41.2148231+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:09:16.6198317+00:00"
 }

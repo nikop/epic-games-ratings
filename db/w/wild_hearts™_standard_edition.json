@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1933,9 +1933,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_38",
@@ -2083,8 +2083,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-07T17:08:25.3567236+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:08:08.7979629+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:14.6460494+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:57:36.5941626+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:08:25.3567655+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:57:34.6063854+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:08:08.7980172+00:00"
 }

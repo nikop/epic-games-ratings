@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 377,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1221,6 +1221,11 @@
       "Time": "2023-12-07T16:09:38.7963197+00:00",
       "NumProgressed": 285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T18:09:18.9369759+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1326,7 +1331,7 @@
       "ID": "achCoinTwo",
       "SetID": "72gjli4",
       "Name": "Seeker Two \u2714",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -1358,9 +1363,9 @@
       "ID": "achDeva",
       "SetID": "72gjli4",
       "Name": "Secret \u2714",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achDictator",
@@ -1432,7 +1437,7 @@
       "Name": "Fright \u2714",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "achLizun",
@@ -1526,7 +1531,7 @@
       "ID": "achRankThree",
       "SetID": "72gjli4",
       "Name": "Rank A\u002B \u2714",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 85,
       "UsersEstimate": 1
     },
@@ -1560,7 +1565,7 @@
       "Name": "Master of Unlocking \u2714",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achShahmat",
@@ -1631,7 +1636,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 0
     }
   ],
@@ -1639,8 +1644,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-12-07T17:09:29.6002611+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:09:18.9369754+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:48.0867567+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:57:47.8947831+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:09:29.6002939+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:57:47.0749679+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:09:18.9370275+00:00"
 }

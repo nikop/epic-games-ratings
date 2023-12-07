@@ -2,13 +2,13 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 679,
+  "Ranking_Rating": 666,
   "Ranking_Popularity": 303,
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 463,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2023-10-06T05:58:23.6709701+00:00",
@@ -2059,10 +2059,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 1444,
       "NumberOfAwardsMax": 176
+    },
+    {
+      "Time": "2023-12-07T18:00:46.2824404+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1445,
+      "NumberOfAwardsMax": 176
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1444,
+  "NumberOfAwards": 1445,
   "NumberOfAwardsMax": 176,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2112,7 +2118,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 131
+      "Count": 132
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2145,8 +2151,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-12-07T13:06:02.4815574+00:00",
+  "LastChanged": "2023-12-07T18:00:46.2824402+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:30.0653291+00:00",
-  "LastUpdate_Ratings": "2023-12-07T17:00:27.7797245+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:06:25.1018878+00:00"
+  "LastUpdate_Ratings": "2023-12-07T18:00:46.2824407+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:06:36.0620107+00:00"
 }

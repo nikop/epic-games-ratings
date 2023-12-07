@@ -3365,9 +3365,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17651,
+  "EOS_Progressed": 17652,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -14935,6 +14935,11 @@
       "Time": "2023-12-07T17:03:57.3100769+00:00",
       "NumProgressed": 17651,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-07T18:03:54.7301589+00:00",
+      "NumProgressed": 17652,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15233,9 +15238,9 @@
       "ID": "WinOnMoorlands",
       "SetID": "cfbk359",
       "Name": "The Scarlet Orchard",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     },
     {
       "ID": "WinPrestige10",
@@ -15321,9 +15326,9 @@
       "ID": "WinWithoutDeath",
       "SetID": "cfbk359",
       "Name": "No Deaths",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 88
     },
     {
       "ID": "WinWithoutOrders",
@@ -15418,15 +15423,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17651,
+      "Progressed": 17652,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-06T14:58:47.8686874+00:00",
-  "LastChanged_Achievements": "2023-12-07T17:03:57.3100764+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:03:54.7301585+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:59:32.3027954+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:03:57.3101693+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:59:45.7046226+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:03:54.7303237+00:00"
 }

@@ -5,37 +5,37 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 65.00% | ~571 |
-| To Hell In A Handcart | 65.00% | ~571 |
-| High Profile | 57.00% | ~501 |
-| Whispers In The Dark | 56.00% | ~492 |
-| Fond Memories | 54.00% | ~475 |
-| A Method To His Madness | 52.00% | ~457 |
-| History Check | 51.00% | ~448 |
-| The New World | 49.00% | ~431 |
-| Open Sesame | 47.00% | ~413 |
-| Sticky Fingers | 47.00% | ~413 |
-| Knives Out | 47.00% | ~413 |
-| Land, Ho! | 47.00% | ~413 |
-| Lock, Stock, And Barrel | 46.00% | ~404 |
-| Gaze Into The Abyss | 46.00% | ~404 |
-| Back In The Saddle | 46.00% | ~404 |
-| No Man Is An Island | 46.00% | ~404 |
+| Read Between The Lines | 65.00% | ~573 |
+| To Hell In A Handcart | 65.00% | ~573 |
+| High Profile | 57.00% | ~502 |
+| Whispers In The Dark | 56.00% | ~493 |
+| Fond Memories | 54.00% | ~476 |
+| A Method To His Madness | 52.00% | ~458 |
+| History Check | 51.00% | ~449 |
+| The New World | 49.00% | ~432 |
+| Open Sesame | 47.00% | ~414 |
+| Sticky Fingers | 47.00% | ~414 |
+| Knives Out | 47.00% | ~414 |
+| Land, Ho! | 47.00% | ~414 |
+| Lock, Stock, And Barrel | 46.00% | ~405 |
+| Gaze Into The Abyss | 46.00% | ~405 |
+| Back In The Saddle | 46.00% | ~405 |
+| No Man Is An Island | 46.00% | ~405 |
 | At Wits' End | 45.00% | ~396 |
-| Fhtagn! | 44.00% | ~387 |
-| Up In Flames | 43.00% | ~378 |
-| Bookworm | 42.00% | ~369 |
-| Going Once... | 39.00% | ~343 |
-| Let Me Be Frank | 37.00% | ~325 |
-| No Stone Unturned | 36.00% | ~316 |
-| Brain Food | 34.00% | ~299 |
+| Fhtagn! | 44.00% | ~388 |
+| Up In Flames | 43.00% | ~379 |
+| Bookworm | 42.00% | ~370 |
+| Going Once... | 39.00% | ~344 |
+| Let Me Be Frank | 37.00% | ~326 |
+| No Stone Unturned | 36.00% | ~317 |
+| Brain Food | 34.00% | ~300 |
 | Read It And Weep | 21.00% | ~185 |
 | Curiosity Killed The Cat | 19.00% | ~167 |
-| Big Breakthrough | 13.00% | ~114 |
+| Big Breakthrough | 13.00% | ~115 |
 | Reawakened | 4.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 879 (Ranked 274)  
-Completed: 28 (3.19%) (Ranked 98)  
+Progressed: 881 (Ranked 274)  
+Completed: 28 (3.18%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -221,7 +221,7 @@ Completed: 28 (3.19%) (Ranked 98)
 | 2023-12-03 | 825 | 28 |
 | 2023-12-05 | 833 | 28 |
 | 2023-12-06 | 858 | 28 |
-| 2023-12-07 | 879 | 28 |
+| 2023-12-07 | 881 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

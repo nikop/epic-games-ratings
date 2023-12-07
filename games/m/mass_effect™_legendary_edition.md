@@ -34,8 +34,8 @@
 | Scholar | 41.00% | ~624 |
 | Head Hunter | 40.00% | ~609 |
 | Operative | 40.00% | ~609 |
+| Veteran | 39.00% | ~594 |
 | The Professor | 39.00% | ~594 |
-| Veteran | 38.00% | ~579 |
 | The Archangel | 38.00% | ~579 |
 | Power Full | 37.00% | ~564 |
 | The Convict | 36.00% | ~548 |
@@ -114,9 +114,9 @@
 | Hijacker | 10.00% | ~152 |
 | Always Prepared | 10.00% | ~152 |
 | Paramour III | 10.00% | ~152 |
+| Lift Mastery | 10.00% | ~152 |
 | Barrier Mastery | 9.00% | ~137 |
 | Sky High | 9.00% | ~137 |
-| Lift Mastery | 9.00% | ~137 |
 | Insanity I | 6.00% | ~91 |
 | Singularity Mastery | 6.00% | ~91 |
 | Damping Specialist | 5.00% | ~76 |

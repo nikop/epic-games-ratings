@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -211,9 +211,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 890,
+  "EOS_Progressed": 891,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2166,6 +2166,11 @@
       "Time": "2023-12-07T11:07:55.6538774+00:00",
       "NumProgressed": 890,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T18:06:37.5521023+00:00",
+      "NumProgressed": 891,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2234,7 +2239,7 @@
       "Name": "Bridge Builder",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ChasingTheLight",
@@ -2280,9 +2285,9 @@
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 71
     },
     {
       "ID": "EcstaticTruth",
@@ -2298,7 +2303,7 @@
       "Name": "Excellent",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "FloodedValley",
@@ -2306,7 +2311,7 @@
       "Name": "Flooded Valley",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "GnothiSeauton",
@@ -2344,9 +2349,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 116
     },
     {
       "ID": "JustOneLap",
@@ -2424,9 +2429,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 45
     },
     {
       "ID": "Overload",
@@ -2466,7 +2471,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "RenaissanceRobot",
@@ -2482,7 +2487,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Signatory",
@@ -2514,7 +2519,7 @@
       "Name": "Southern Coast",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "TeamSpirit",
@@ -2552,9 +2557,9 @@
       "ID": "TheFuture",
       "SetID": "1n308hc",
       "Name": "The Future",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TheHardWay",
@@ -2649,7 +2654,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 890,
+      "Progressed": 891,
       "Completed": 1
     }
   ],
@@ -2657,8 +2662,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
-  "LastChanged_Achievements": "2023-12-07T17:06:26.3942564+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:06:37.5521018+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:59:43.6857983+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:06:26.3943011+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:59:58.056968+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:06:37.55217+00:00"
 }

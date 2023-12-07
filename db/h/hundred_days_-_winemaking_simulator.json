@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 15153,
+  "EOS_Progressed": 15156,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 880,
+  "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12745,6 +12745,11 @@
       "Time": "2023-12-07T17:09:01.0153736+00:00",
       "NumProgressed": 15153,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-07T18:08:47.6466523+00:00",
+      "NumProgressed": 15156,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -12757,7 +12762,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "a_10",
@@ -12805,7 +12810,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6364
+      "UsersEstimate": 6366
     },
     {
       "ID": "a_19",
@@ -13004,7 +13009,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 15153,
+      "Progressed": 15156,
       "Completed": 12
     }
   ],
@@ -13012,8 +13017,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-07T17:09:01.0153731+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:08:47.6466519+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:18.6853909+00:00",
-  "LastUpdate_Ratings": "2023-12-07T17:02:58.0392755+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:09:01.0154523+00:00"
+  "LastUpdate_Ratings": "2023-12-07T18:02:48.1234382+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:08:47.6467535+00:00"
 }

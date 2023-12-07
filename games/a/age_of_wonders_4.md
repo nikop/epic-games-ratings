@@ -20,6 +20,7 @@ Rating: 4.61 (Ranked 387)
 | Magical Synergy | 2.00% | ~111 |
 | Seat of Power | 2.00% | ~111 |
 | In a Liege of Your Own | 2.00% | ~111 |
+| Impenetrable Fortress | 2.00% | ~111 |
 | Intimidation Tactics | 2.00% | ~111 |
 | Tipping the Scales | 2.00% | ~111 |
 | Freed Lands of Manuhari | 2.00% | ~111 |
@@ -32,7 +33,6 @@ Rating: 4.61 (Ranked 387)
 | Preparation Is Everything | 1.00% | ~56 |
 | My Final Form | 1.00% | ~56 |
 | Fiery Friend | 1.00% | ~56 |
-| Impenetrable Fortress | 1.00% | ~56 |
 | Here be Dragons | 1.00% | ~56 |
 | Blood of the Dragon | 1.00% | ~56 |
 | Mighty Hoard | 1.00% | ~56 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -265,17 +265,17 @@
       "ID": "0",
       "SetID": "38ide56",
       "Name": "Mighty Powers",
-      "Percentage": 78,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "1",
       "SetID": "38ide56",
       "Name": "Grand Re-Opening",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "10",
@@ -313,17 +313,17 @@
       "ID": "14",
       "SetID": "38ide56",
       "Name": "Pup Pup Boogie",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "15",
       "SetID": "38ide56",
       "Name": "Mr. Porter",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "16",
@@ -361,9 +361,9 @@
       "ID": "2",
       "SetID": "38ide56",
       "Name": "Summer Day",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "20",
@@ -385,17 +385,17 @@
       "ID": "22",
       "SetID": "38ide56",
       "Name": "Clear the Road",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "23",
       "SetID": "38ide56",
       "Name": "Never Miss",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "24",
@@ -449,17 +449,17 @@
       "ID": "3",
       "SetID": "38ide56",
       "Name": "Risky Rescue",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "4",
       "SetID": "38ide56",
       "Name": "Carlos Is Tangled",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "5",
@@ -514,8 +514,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-12-07T16:07:54.3640487+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:03:00.9547446+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:48.5601788+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:57:35.5986189+00:00",
-  "LastUpdate_Achievements": "2023-12-07T16:07:54.36407+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:57:33.7103548+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:03:00.9565146+00:00"
 }

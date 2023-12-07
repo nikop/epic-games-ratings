@@ -2,12 +2,12 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 107,
+  "Ranking_Rating": 98,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.78,
+  "Rating": 4.79,
   "RatingHistory": [
     {
       "Time": "2023-09-02T15:58:27.8231569+00:00",
@@ -125,15 +125,21 @@
       "Rating": 4.78,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-07T17:58:37.8880326+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1025,
+  "EOS_Progressed": 1026,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
@@ -3426,6 +3432,11 @@
       "Time": "2023-12-07T14:05:43.7774319+00:00",
       "NumProgressed": 1025,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-07T18:05:43.7460986+00:00",
+      "NumProgressed": 1026,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3446,15 +3457,15 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 513
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3468,17 +3479,17 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 328
+      "UsersEstimate": 318
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 277
     },
     {
       "ID": "_07_FinishAct3",
@@ -3526,7 +3537,7 @@
       "Name": "Privateer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "_13_Completion_60",
@@ -3598,7 +3609,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -3606,7 +3617,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -3645,16 +3656,16 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1025,
+      "Progressed": 1026,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged": "2023-12-04T19:02:27.0959811+00:00",
-  "LastChanged_Achievements": "2023-12-07T17:05:37.5864018+00:00",
+  "LastChanged": "2023-12-07T17:58:37.8880323+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:05:43.7460983+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:58:33.100792+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:05:37.5864334+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:58:37.888033+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:05:43.7461362+00:00"
 }

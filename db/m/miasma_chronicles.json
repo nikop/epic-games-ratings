@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4126,9 +4126,9 @@
       "ID": "GIANT_KILLER",
       "SetID": "9a4jnji",
       "Name": "Giant Killer",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 735
+      "UsersEstimate": 751
     },
     {
       "ID": "GOAL",
@@ -4246,9 +4246,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 703
+      "UsersEstimate": 719
     },
     {
       "ID": "SHADOW_BOXING",
@@ -4327,8 +4327,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-06T19:03:11.1305784+00:00",
-  "LastChanged_Achievements": "2023-12-07T17:09:36.2978241+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:09:26.4233207+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:11.6942975+00:00",
-  "LastUpdate_Ratings": "2023-12-07T17:02:52.5536062+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:09:36.297879+00:00"
+  "LastUpdate_Ratings": "2023-12-07T18:02:42.126529+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:09:26.4233912+00:00"
 }

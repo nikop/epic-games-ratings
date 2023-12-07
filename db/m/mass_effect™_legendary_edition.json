@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -4663,9 +4663,9 @@
       "ID": "achievement_126",
       "SetID": "d252ncf",
       "Name": "Veteran",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 579
+      "UsersEstimate": 594
     },
     {
       "ID": "achievement_127",
@@ -5087,9 +5087,9 @@
       "ID": "achievement_6",
       "SetID": "b9pe172",
       "Name": "Lift Mastery",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_60",
@@ -5451,8 +5451,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-07T17:09:09.210304+00:00",
+  "LastChanged_Achievements": "2023-12-07T18:08:56.8709795+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-07T17:03:02.2910972+00:00",
-  "LastUpdate_Achievements": "2023-12-07T17:09:09.2104593+00:00"
+  "LastUpdate_Ratings": "2023-12-07T18:02:52.9751777+00:00",
+  "LastUpdate_Achievements": "2023-12-07T18:08:56.8712339+00:00"
 }

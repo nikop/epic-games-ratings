@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 78.00% | ~35 |
-| Grand Re-Opening | 64.00% | ~29 |
-| Pup Pup Boogie | 62.00% | ~28 |
-| Summer Day | 60.00% | ~27 |
-| Mr. Porter | 51.00% | ~23 |
-| Risky Rescue | 47.00% | ~21 |
-| Carlos Is Tangled | 44.00% | ~20 |
-| Clear the Road | 40.00% | ~18 |
+| Mighty Powers | 80.00% | ~36 |
+| Grand Re-Opening | 67.00% | ~30 |
+| Pup Pup Boogie | 64.00% | ~29 |
+| Summer Day | 62.00% | ~28 |
+| Mr. Porter | 53.00% | ~24 |
+| Risky Rescue | 49.00% | ~22 |
+| Carlos Is Tangled | 47.00% | ~21 |
+| Clear the Road | 42.00% | ~19 |
 | Mandy Family | 40.00% | ~18 |
 | Paw patrol member | 38.00% | ~17 |
 | Robot Out of Control | 38.00% | ~17 |
 | Break Time | 33.00% | ~15 |
+| Never Miss | 33.00% | ~15 |
 | Master of the Rope | 31.00% | ~14 |
 | Training Day | 31.00% | ~14 |
 | In the Air | 31.00% | ~14 |
-| Never Miss | 31.00% | ~14 |
 | The Fastest | 27.00% | ~12 |
 | Animal Sighting | 24.00% | ~11 |
 | Don’t Miss Any | 24.00% | ~11 |

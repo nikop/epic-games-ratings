@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Goodbye | 91.00% | ~136 |
-| The Routine | 80.00% | ~120 |
+| The Routine | 81.00% | ~122 |
 | Mother | 79.00% | ~118 |
-| Failure | 76.00% | ~114 |
-| Replace Fuse | 67.00% | ~100 |
-| Alarm | 66.00% | ~99 |
+| Failure | 77.00% | ~116 |
+| Replace Fuse | 68.00% | ~102 |
+| Alarm | 67.00% | ~100 |
 | Air Filtration | 63.00% | ~94 |
 | Broken | 61.00% | ~92 |
 | Radiation | 59.00% | ~88 |
@@ -18,7 +18,7 @@
 | Cold Storage | 56.00% | ~84 |
 | Sam | 56.00% | ~84 |
 | Commissioner | 51.00% | ~76 |
-| Soldier | 50.00% | ~75 |
+| Soldier | 51.00% | ~76 |
 | Churchill | 49.00% | ~74 |
 | Engineer | 49.00% | ~74 |
 | Leave | 48.00% | ~72 |
@@ -33,7 +33,7 @@
 | The Missing Piece | 6.00% | ~9 |
 | Friends | 5.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150 (Ranked 408)  
+Progressed: 150 (Ranked 409)  
 Completed: 6 (4.00%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -16,8 +16,8 @@ Rating: 4.42 (Ranked 716)
 | Exorcist | 49.00% | ~783 |
 | Editor Adept | 48.00% | ~767 |
 | From Darkness to Light | 48.00% | ~767 |
-| Giant Killer | 46.00% | ~735 |
-| Sensei | 44.00% | ~703 |
+| Giant Killer | 47.00% | ~751 |
+| Sensei | 45.00% | ~719 |
 | Firestarter | 43.00% | ~687 |
 | The meaning of Kain | 43.00% | ~687 |
 | Recycler | 41.00% | ~655 |
