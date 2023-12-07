@@ -6,10 +6,10 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,828 |
+| Venture Outward | 76.00% | ~2,829 |
 | Ready for Winter | 65.00% | ~2,419 |
-| Ready for Summer | 53.00% | ~1,972 |
-| Cordon Bleu | 45.00% | ~1,674 |
+| Ready for Summer | 53.00% | ~1,973 |
+| Cordon Bleu | 45.00% | ~1,675 |
 | Tapped! | 38.00% | ~1,414 |
 | Eureka | 33.00% | ~1,228 |
 | Scourge Slayer | 27.00% | ~1,005 |
@@ -18,8 +18,8 @@ Number of Ratings: 266  (23.09.2022)
 | Home Sweet Home | 23.00% | ~856 |
 | Encyclopedic! | 20.00% | ~744 |
 | A Fortress Toppled! | 17.00% | ~633 |
-| Apex Predator | 17.00% | ~633 |
 | The Power of Family | 17.00% | ~633 |
+| Apex Predator | 16.00% | ~596 |
 | Strange amalgams | 13.00% | ~484 |
 | The Power of Faith | 13.00% | ~484 |
 | The Power of Freedom | 10.00% | ~372 |
@@ -27,9 +27,9 @@ Number of Ratings: 266  (23.09.2022)
 | Magic is a science | 9.00% | ~335 |
 | Gift from the Ancestors | 8.00% | ~298 |
 | House of Cards | 8.00% | ~298 |
-| Let ‘em eat magma! | 7.00% | ~260 |
-| The power of ambition | 7.00% | ~260 |
-| The stuff of legends. | 7.00% | ~260 |
+| Let ‘em eat magma! | 7.00% | ~261 |
+| The power of ambition | 7.00% | ~261 |
+| The stuff of legends. | 7.00% | ~261 |
 | Blood and justice | 6.00% | ~223 |
 | Hold my Mead and Watch This | 6.00% | ~223 |
 | Ancestor's Pride | 5.00% | ~186 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~11 |
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,721 (Ranked 203)  
+Progressed: 3,722 (Ranked 203)  
 Completed: 4 (0.11%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 4 (0.11%) (Ranked 285)
 | 2023-12-04 | 3,709 | 4 |
 | 2023-12-05 | 3,714 | 4 |
 | 2023-12-06 | 3,717 | 4 |
-| 2023-12-07 | 3,721 | 4 |
+| 2023-12-07 | 3,722 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 482)  
 Sum: 246 (Ranked 384)  

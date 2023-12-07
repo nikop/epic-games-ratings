@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16886,
+  "EOS_Progressed": 16887,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15578,6 +15578,11 @@
       "Time": "2023-12-07T04:08:24.5977231+00:00",
       "NumProgressed": 16886,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-07T05:08:17.9560762+00:00",
+      "NumProgressed": 16887,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15629,7 +15634,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5572
+      "UsersEstimate": 5573
     },
     {
       "ID": "tpote_achievement_15",
@@ -15669,7 +15674,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3039
+      "UsersEstimate": 3040
     },
     {
       "ID": "tpote_achievement_2",
@@ -15677,7 +15682,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5572
+      "UsersEstimate": 5573
     },
     {
       "ID": "tpote_achievement_20",
@@ -15717,7 +15722,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "tpote_achievement_25",
@@ -15741,7 +15746,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3039
+      "UsersEstimate": 3040
     },
     {
       "ID": "tpote_achievement_28",
@@ -15781,7 +15786,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3039
+      "UsersEstimate": 3040
     },
     {
       "ID": "tpote_achievement_32",
@@ -15853,7 +15858,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6754
+      "UsersEstimate": 6755
     },
     {
       "ID": "tpote_achievement_40",
@@ -15909,22 +15914,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5741
+      "UsersEstimate": 5742
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16886,
+      "Progressed": 16887,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-07T04:08:24.5977229+00:00",
+  "LastChanged_Achievements": "2023-12-07T05:08:17.9560757+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-07T03:59:51.9189245+00:00",
-  "LastUpdate_Achievements": "2023-12-07T04:08:24.5978188+00:00"
+  "LastUpdate_Ratings": "2023-12-07T05:00:26.3743872+00:00",
+  "LastUpdate_Achievements": "2023-12-07T05:08:17.9562106+00:00"
 }

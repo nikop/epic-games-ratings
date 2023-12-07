@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7317,9 +7317,9 @@
       "Count": 518
     }
   ],
-  "EOS_Progressed": 731162,
+  "EOS_Progressed": 731171,
   "EOS_Completed": 2465,
-  "EOS_NewPlayers": 3289,
+  "EOS_NewPlayers": 3293,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33762,6 +33762,11 @@
       "Time": "2023-12-07T04:08:46.6913198+00:00",
       "NumProgressed": 731162,
       "NumCompleted": 2465
+    },
+    {
+      "Time": "2023-12-07T05:08:44.423494+00:00",
+      "NumProgressed": 731171,
+      "NumCompleted": 2465
     }
   ],
   "TotalAchievements": 51,
@@ -34029,7 +34034,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6580
+      "UsersEstimate": 6581
     },
     {
       "ID": "ach_secrets_of_la",
@@ -34180,13 +34185,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 731162,
+      "Progressed": 731171,
       "Completed": 2465
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 56704,
+      "Progressed": 56713,
       "Completed": 36637
     }
   ],
@@ -34194,8 +34199,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-07T01:45:54.801308+00:00",
-  "LastChanged_Achievements": "2023-12-07T04:08:46.6913196+00:00",
+  "LastChanged_Achievements": "2023-12-07T05:08:44.4234936+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-07T03:58:22.3969517+00:00",
-  "LastUpdate_Achievements": "2023-12-07T04:08:46.691446+00:00"
+  "LastUpdate_Ratings": "2023-12-07T04:58:33.987824+00:00",
+  "LastUpdate_Achievements": "2023-12-07T05:08:44.4236143+00:00"
 }

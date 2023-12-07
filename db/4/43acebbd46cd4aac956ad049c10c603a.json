@@ -5,9 +5,9 @@
   "Ranking_Rating": 32,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 488,
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -211,9 +211,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 888,
+  "EOS_Progressed": 889,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2156,6 +2156,11 @@
       "Time": "2023-12-07T01:54:00.8392293+00:00",
       "NumProgressed": 888,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T05:07:20.9703802+00:00",
+      "NumProgressed": 889,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2176,7 +2181,7 @@
       "Name": "Ab Initio",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "AnthropicHills",
@@ -2264,7 +2269,7 @@
       "Name": "Discovery",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "EasternWetlands",
@@ -2470,9 +2475,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 36
     },
     {
       "ID": "Signatory",
@@ -2494,7 +2499,7 @@
       "ID": "Sinner",
       "SetID": "1n308hc",
       "Name": "Sinner",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -2518,7 +2523,7 @@
       "ID": "TextAdventurer",
       "SetID": "1n308hc",
       "Name": "Text Adventurer",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -2639,7 +2644,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 888,
+      "Progressed": 889,
       "Completed": 1
     }
   ],
@@ -2647,8 +2652,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
-  "LastChanged_Achievements": "2023-12-07T04:06:26.784634+00:00",
+  "LastChanged_Achievements": "2023-12-07T05:07:20.9703798+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-07T03:59:36.7958453+00:00",
-  "LastUpdate_Achievements": "2023-12-07T04:06:26.7846765+00:00"
+  "LastUpdate_Ratings": "2023-12-07T05:00:07.1056344+00:00",
+  "LastUpdate_Achievements": "2023-12-07T05:07:20.9704249+00:00"
 }

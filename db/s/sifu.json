@@ -4,7 +4,7 @@
   "ProductSlug": "sifu",
   "Ranking_Rating": 68,
   "Ranking_Popularity": 55,
-  "Ranking_PopularitySum": 83,
+  "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 141,
@@ -8023,10 +8023,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12078,
       "NumberOfAwardsMax": 6885
+    },
+    {
+      "Time": "2023-12-07T05:02:58.4935942+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11648,
+      "NumberOfAwardsMax": 6885
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12078,
+  "NumberOfAwards": 11648,
   "NumberOfAwardsMax": 6885,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8103,9 +8109,9 @@
       "Count": 430
     }
   ],
-  "EOS_Progressed": 717848,
+  "EOS_Progressed": 717849,
   "EOS_Completed": 12945,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -28558,6 +28564,11 @@
       "Time": "2023-12-07T04:04:53.3077992+00:00",
       "NumProgressed": 717848,
       "NumCompleted": 12945
+    },
+    {
+      "Time": "2023-12-07T05:05:26.5410347+00:00",
+      "NumProgressed": 717849,
+      "NumCompleted": 12945
     }
   ],
   "TotalAchievements": 60,
@@ -28913,7 +28924,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -29048,21 +29059,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 27149,
+      "Progressed": 27150,
       "Completed": 10762
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717848,
+      "Progressed": 717849,
       "Completed": 12945
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-07T04:02:55.487547+00:00",
-  "LastChanged_Achievements": "2023-12-07T04:04:53.3077989+00:00",
+  "LastChanged": "2023-12-07T05:02:58.493594+00:00",
+  "LastChanged_Achievements": "2023-12-07T05:05:26.5410344+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:06.4352314+00:00",
-  "LastUpdate_Ratings": "2023-12-07T04:02:55.4875473+00:00",
-  "LastUpdate_Achievements": "2023-12-07T04:04:53.3079167+00:00"
+  "LastUpdate_Ratings": "2023-12-07T05:02:58.493595+00:00",
+  "LastUpdate_Achievements": "2023-12-07T05:05:26.5411687+00:00"
 }

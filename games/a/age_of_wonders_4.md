@@ -6,12 +6,12 @@ Rating: 4.61 (Ranked 385)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Realm Estate | 4.00% | ~223 |
+| A Wonderful Discovery | 4.00% | ~223 |
 | Secret Technique | 4.00% | ~223 |
 | Walls Cannot Stop Us | 4.00% | ~223 |
 | But this one is mine | 4.00% | ~223 |
 | There Can Only Be One! | 3.00% | ~167 |
 | Full Ascension | 3.00% | ~167 |
-| A Wonderful Discovery | 3.00% | ~167 |
 | Bone Peddler | 3.00% | ~167 |
 | From Friends to Family | 3.00% | ~167 |
 | Valley of Wonders | 2.00% | ~111 |

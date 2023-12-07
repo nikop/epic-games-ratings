@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 529)
 | I Am the Resurrection | 1.00% | ~7,312 |
 | Max Headroom | 1.00% | ~7,312 |
 | Our True Nature | 1.00% | ~7,312 |
-| Down with the Sickness | 0.90% | ~6,580 |
+| Down with the Sickness | 0.90% | ~6,581 |
 | Not Even My Final Form | 0.80% | ~5,849 |
 | Jumbo Keyring | 0.80% | ~5,849 |
 | Go, Bobcats! | 0.80% | ~5,849 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,162 (Ranked 21)  
+Progressed: 731,171 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
-| 2023-12-07 | 731,162 | 2,465 |
+| 2023-12-07 | 731,171 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,968  (Ranked 49)  
 Sum: 12,244 (Ranked 82)  

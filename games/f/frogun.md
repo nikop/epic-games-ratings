@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Historian | 94.00% | ~212 |
-| Treasure hunter | 91.00% | ~205 |
-| Survivalist | 84.00% | ~189 |
-| Challenge seeker | 80.00% | ~180 |
-| Coin collector | 74.00% | ~166 |
+| Treasure hunter | 90.00% | ~203 |
+| Survivalist | 84.00% | ~190 |
+| Challenge seeker | 80.00% | ~181 |
+| Coin collector | 74.00% | ~167 |
 | Floater | 59.00% | ~133 |
-| Speedrunner | 45.00% | ~101 |
-| On foot racer | 42.00% | ~94 |
+| Speedrunner | 45.00% | ~102 |
+| On foot racer | 42.00% | ~95 |
 | Prickly situation handler | 35.00% | ~79 |
-| Hat lover | 33.00% | ~74 |
-| Perfectionist | 32.00% | ~72 |
+| Hat lover | 33.00% | ~75 |
+| Perfectionist | 31.00% | ~70 |
 | Protected | 30.00% | ~68 |
 | Pragmatic | 23.00% | ~52 |
 | Calory burner | 19.00% | ~43 |
@@ -30,14 +30,14 @@
 | Doppelganger | 4.00% | ~9 |
 | Tank | 4.00% | ~9 |
 | Biologist | 3.00% | ~7 |
-| Gladiator | 2.00% | ~4 |
-| Fashionista | 2.00% | ~4 |
-| Duelist | 2.00% | ~4 |
+| Gladiator | 2.00% | ~5 |
+| Fashionista | 2.00% | ~5 |
+| Duelist | 2.00% | ~5 |
 | Art lover | 1.00% | ~2 |
 | Completionist | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225 (Ranked 383)  
-Completed: 4 (1.78%) (Ranked 137)  
+Progressed: 226 (Ranked 383)  
+Completed: 4 (1.77%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,6 +68,7 @@ Completed: 4 (1.78%) (Ranked 137)
 | 2023-09-24 | 223 | 4 |
 | 2023-09-26 | 224 | 4 |
 | 2023-11-28 | 225 | 4 |
+| 2023-12-07 | 226 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

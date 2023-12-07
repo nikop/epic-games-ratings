@@ -78,9 +78,9 @@
 | A House Divided | 28.00% | ~425 |
 | Eye of the Hurricane | 27.00% | ~410 |
 | World Shaker | 27.00% | ~410 |
+| Liberator | 27.00% | ~410 |
 | First Aid Specialist | 26.00% | ~395 |
 | Tunnel Rat | 26.00% | ~395 |
-| Liberator | 26.00% | ~395 |
 | Pathfinder | 25.00% | ~380 |
 | Arbiter | 25.00% | ~380 |
 | Savior | 24.00% | ~365 |

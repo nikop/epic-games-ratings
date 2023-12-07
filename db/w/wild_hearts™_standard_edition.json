@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1739,9 +1739,9 @@
       "ID": "achievement_16",
       "SetID": "2cpn27e",
       "Name": "Distance Devourer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_17",
@@ -1803,9 +1803,9 @@
       "ID": "achievement_23",
       "SetID": "2cpn27e",
       "Name": "Relentless Kemono Hunter",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_24",
@@ -1851,9 +1851,9 @@
       "ID": "achievement_29",
       "SetID": "2cpn27e",
       "Name": "Fair Means or Foul",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_3",
@@ -2073,8 +2073,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-07T04:08:32.1049561+00:00",
+  "LastChanged_Achievements": "2023-12-07T05:08:27.1840944+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:14.6460494+00:00",
-  "LastUpdate_Ratings": "2023-12-07T03:57:16.5770401+00:00",
-  "LastUpdate_Achievements": "2023-12-07T04:08:32.1049978+00:00"
+  "LastUpdate_Ratings": "2023-12-07T04:57:11.1103247+00:00",
+  "LastUpdate_Achievements": "2023-12-07T05:08:27.1841426+00:00"
 }

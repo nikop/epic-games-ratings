@@ -5,16 +5,16 @@ Rating: 4.18 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~38,874 |
+| First Step Into the Knight | 50.00% | ~38,875 |
 | Har, Har, Har, Very Funny | 34.00% | ~26,435 |
-| Loose Ends | 33.00% | ~25,657 |
+| Loose Ends | 33.00% | ~25,658 |
 | To the Victor Go the Spoils | 28.00% | ~21,770 |
 | Knighthood | 27.00% | ~20,992 |
-| Get ReQ'd | 25.00% | ~19,437 |
+| Get ReQ'd | 25.00% | ~19,438 |
 | Whispered Words | 24.00% | ~18,660 |
 | The Batman Family | 22.00% | ~17,105 |
 | Lock and Key | 22.00% | ~17,105 |
-| Something in the Clay | 21.00% | ~16,327 |
+| Something in the Clay | 21.00% | ~16,328 |
 | Quartzer Life Crisis | 20.00% | ~15,550 |
 | Working Hard or Harley Working? | 20.00% | ~15,550 |
 | Unstoppable Force | 20.00% | ~15,550 |
@@ -22,35 +22,35 @@ Rating: 4.18 (Ranked 939)
 | Snow Problem | 19.00% | ~14,772 |
 | The Show Mud Go On | 18.00% | ~13,995 |
 | From Inside Gotham's Walls | 18.00% | ~13,995 |
-| Protector of Gotham | 17.00% | ~13,217 |
+| Protector of Gotham | 17.00% | ~13,218 |
 | Universal Health Scare | 16.00% | ~12,440 |
 | In Your Element | 15.00% | ~11,662 |
 | Voiceless | 15.00% | ~11,662 |
 | Rock and a Hard Place | 14.00% | ~10,885 |
 | Cooldown | 14.00% | ~10,885 |
 | Seeking Asylum | 14.00% | ~10,885 |
-| Not On My Watch | 13.00% | ~10,107 |
-| Shock Til They Drop | 13.00% | ~10,107 |
+| Not On My Watch | 13.00% | ~10,108 |
+| Shock Til They Drop | 13.00% | ~10,108 |
 | End of an Era | 12.00% | ~9,330 |
 | Bulldozed | 12.00% | ~9,330 |
 | Gotham Knight | 12.00% | ~9,330 |
 | Gotham City Confidential | 11.00% | ~8,552 |
 | Drone You Out | 10.00% | ~7,775 |
-| Out of Their League | 9.00% | ~6,997 |
-| Solid Alibi | 9.00% | ~6,997 |
-| Fusion Expert | 7.00% | ~5,442 |
+| Out of Their League | 9.00% | ~6,998 |
+| Solid Alibi | 9.00% | ~6,998 |
+| Fusion Expert | 7.00% | ~5,443 |
 | Family Meeting | 6.00% | ~4,665 |
 | A Worthy Successor | 6.00% | ~4,665 |
-| Expert Crime Fighter | 5.00% | ~3,887 |
+| Expert Crime Fighter | 5.00% | ~3,888 |
 | Dressed to Impress | 4.00% | ~3,110 |
 | A Momentum Occasion | 3.00% | ~2,332 |
 | Bat Out of Hell | 3.00% | ~2,332 |
 | Practice Makes Perfect | 2.00% | ~1,555 |
 | He'd Be So Proud of You | 2.00% | ~1,555 |
-| Talonted | 1.00% | ~777 |
-| The Man-Bat Family | 1.00% | ~777 |
-| Batarang Collector | 1.00% | ~777 |
-| Claiming the Mural High Ground | 1.00% | ~777 |
+| Talonted | 1.00% | ~778 |
+| The Man-Bat Family | 1.00% | ~778 |
+| Batarang Collector | 1.00% | ~778 |
+| Claiming the Mural High Ground | 1.00% | ~778 |
 | Icebreaker | 0.80% | ~384 |
 | History Major | 0.80% | ~622 |
 | A Sophisticated Mallet | 0.80% | ~384 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 939)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,749 (Ranked 99)  
+Progressed: 77,750 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 124 (0.16%) (Ranked 271)
 | 2023-12-04 | 77,678 | 124 |
 | 2023-12-05 | 77,707 | 124 |
 | 2023-12-06 | 77,742 | 124 |
-| 2023-12-07 | 77,749 | 124 |
+| 2023-12-07 | 77,750 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,996  (Ranked 98)  
 Sum: 5,116 (Ranked 140)  

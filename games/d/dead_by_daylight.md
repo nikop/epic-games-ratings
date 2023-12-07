@@ -6,14 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,517 |
-| Skillful | 2.00% | ~21,517 |
-| Zealous | 1.00% | ~10,758 |
-| Not half bad | 1.00% | ~10,758 |
-| Apt Survivor | 1.00% | ~10,758 |
-| Survival Treasures | 1.00% | ~10,758 |
-| I | 1.00% | ~10,758 |
-| Make Some Noise | 1.00% | ~10,758 |
+| It wakes | 2.00% | ~21,518 |
+| Skillful | 2.00% | ~21,518 |
+| Zealous | 1.00% | ~10,759 |
+| Not half bad | 1.00% | ~10,759 |
+| Apt Survivor | 1.00% | ~10,759 |
+| Survival Treasures | 1.00% | ~10,759 |
+| I | 1.00% | ~10,759 |
+| Make Some Noise | 1.00% | ~10,759 |
 | Handyman | 0.90% | ~9,683 |
 | Sorted | 0.90% | ~9,683 |
 | Resurgence | 0.90% | ~9,683 |
@@ -35,22 +35,22 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.60% | ~6,455 |
 | Wounded Healer | 0.60% | ~6,455 |
 | Close Shave | 0.60% | ~6,455 |
-| Vulture | 0.50% | ~5,379 |
-| III | 0.50% | ~5,379 |
-| Lifting The Fog | 0.50% | ~5,379 |
-| Blood on your hands | 0.40% | ~4,303 |
-| Escape Artist | 0.40% | ~4,303 |
-| Gifts for the Fog | 0.40% | ~4,303 |
-| III-50 | 0.40% | ~4,303 |
-| First to the Punch | 0.40% | ~4,303 |
-| Operation: Survival | 0.40% | ~4,303 |
-| Old West Oasis | 0.40% | ~4,303 |
-| Every Last Drop | 0.40% | ~4,303 |
-| Raccoon City Recruit | 0.40% | ~4,303 |
-| With Scars to Show | 0.40% | ~4,303 |
-| Flight to Freedom | 0.40% | ~4,303 |
-| Chorus of Chaos | 0.40% | ~4,303 |
-| Second Act | 0.40% | ~4,303 |
+| Vulture | 0.50% | ~5,380 |
+| III | 0.50% | ~5,380 |
+| Lifting The Fog | 0.50% | ~5,380 |
+| Blood on your hands | 0.40% | ~4,304 |
+| Escape Artist | 0.40% | ~4,304 |
+| Gifts for the Fog | 0.40% | ~4,304 |
+| III-50 | 0.40% | ~4,304 |
+| First to the Punch | 0.40% | ~4,304 |
+| Operation: Survival | 0.40% | ~4,304 |
+| Old West Oasis | 0.40% | ~4,304 |
+| Every Last Drop | 0.40% | ~4,304 |
+| Raccoon City Recruit | 0.40% | ~4,304 |
+| With Scars to Show | 0.40% | ~4,304 |
+| Flight to Freedom | 0.40% | ~4,304 |
+| Chorus of Chaos | 0.40% | ~4,304 |
+| Second Act | 0.40% | ~4,304 |
 | Blood on your face | 0.30% | ~3,228 |
 | Made it out alive! | 0.30% | ~3,228 |
 | Nerves of steel | 0.30% | ~3,228 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,076 |
 | Adept Good Guy | 0.10% | ~1,076 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,075,839 (Ranked 14)  
+Progressed: 1,075,914 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -470,10 +470,10 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
-| 2023-12-07 | 1,075,839 | 61 |
+| 2023-12-07 | 1,075,914 | 61 |
 ## Awards
 Max (Diverse Characters): 37,449  (Ranked 15)  
-Sum: 283,944 (Ranked 12)  
+Sum: 283,978 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -484,7 +484,7 @@ Diff (max vs sum): 3
 | This game is Extremely Fun | 31,474 |
 | This game has Challenging Combat | 31,357 |
 | This game has Quickly Understood Controls | 30,658 |
-| This game has Amazing Storytelling | 28,959 |
+| This game has Amazing Storytelling | 28,993 |
 | This game has a Competitive Community | 27,700 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -808,4 +808,4 @@ Diff (max vs sum): 3
 | 2023-12-04 | 4.51 | - | 37,289 | 282,989 |
 | 2023-12-05 | 4.51 | - | 37,377 | 283,349 |
 | 2023-12-06 | 4.51 | - | 37,449 | 283,748 |
-| 2023-12-07 | 4.51 | - | 37,449 | 283,944 |
+| 2023-12-07 | 4.51 | - | 37,449 | 283,978 |

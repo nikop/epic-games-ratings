@@ -4,7 +4,7 @@
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 448,
   "Ranking_Popularity": 133,
-  "Ranking_PopularitySum": 84,
+  "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 127,
@@ -3556,9 +3556,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240713,
+  "EOS_Progressed": 240714,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -27341,6 +27341,11 @@
       "Time": "2023-12-07T04:09:50.9020026+00:00",
       "NumProgressed": 240713,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-07T05:10:21.1705385+00:00",
+      "NumProgressed": 240714,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -27950,9 +27955,9 @@
       "ID": "MULTIKILL30",
       "SetID": "5l8oe0h",
       "Name": "C-C-Combo",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 963
+      "UsersEstimate": 1204
     },
     {
       "ID": "NOEPIC",
@@ -28455,13 +28460,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240713,
+      "Progressed": 240714,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2193,
+      "Progressed": 2194,
       "Completed": 395
     }
   ],
@@ -28469,8 +28474,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-05T21:59:57.9209053+00:00",
-  "LastChanged_Achievements": "2023-12-07T04:09:50.9020024+00:00",
+  "LastChanged_Achievements": "2023-12-07T05:10:21.170538+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-07T04:02:45.3679229+00:00",
-  "LastUpdate_Achievements": "2023-12-07T04:09:50.9022461+00:00"
+  "LastUpdate_Ratings": "2023-12-07T05:02:45.0857825+00:00",
+  "LastUpdate_Achievements": "2023-12-07T05:10:21.1708198+00:00"
 }

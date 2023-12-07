@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1972,
+  "EOS_Progressed": 1973,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7488,6 +7488,11 @@
       "Time": "2023-12-06T18:04:19.9578531+00:00",
       "NumProgressed": 1972,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T05:05:00.8243393+00:00",
+      "NumProgressed": 1973,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7579,7 +7584,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_headquarters_15",
@@ -7603,7 +7608,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7675,7 +7680,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7739,7 +7744,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -7802,7 +7807,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1972,
+      "Progressed": 1973,
       "Completed": 1
     }
   ],
@@ -7810,8 +7815,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-07T04:04:32.9066052+00:00",
+  "LastChanged_Achievements": "2023-12-07T05:05:00.8243388+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:25.6864843+00:00",
-  "LastUpdate_Ratings": "2023-12-07T04:00:16.9528675+00:00",
-  "LastUpdate_Achievements": "2023-12-07T04:04:32.9066659+00:00"
+  "LastUpdate_Ratings": "2023-12-07T05:00:57.8662066+00:00",
+  "LastUpdate_Achievements": "2023-12-07T05:05:00.8244084+00:00"
 }

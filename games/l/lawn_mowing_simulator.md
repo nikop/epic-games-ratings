@@ -6,27 +6,27 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~542,196 |
-| Every story has a beginning | 36.00% | ~247,077 |
-| The first of many | 31.00% | ~212,760 |
-| Positive word of mouth | 18.00% | ~123,538 |
+| The dream begins | 79.00% | ~542,199 |
+| Every story has a beginning | 36.00% | ~247,078 |
+| The first of many | 31.00% | ~212,762 |
+| Positive word of mouth | 18.00% | ~123,539 |
 | Lawn in the U.S.A. | 15.00% | ~102,949 |
-| Blade Runner | 9.00% | ~61,769 |
+| Blade Runner | 9.00% | ~61,770 |
 | Credible | 7.00% | ~48,043 |
-| Teamwork makes the dream work | 6.00% | ~41,179 |
+| Teamwork makes the dream work | 6.00% | ~41,180 |
 | Where there's muck there's brass | 4.00% | ~27,453 |
 | Bigger and better | 4.00% | ~27,453 |
 | Aggressive expansion | 4.00% | ~27,453 |
 | Size isn't everything | 3.00% | ~20,590 |
 | Close shave | 3.00% | ~20,590 |
 | Established | 3.00% | ~20,590 |
-| Fighting on all fronts | 2.00% | ~13,726 |
-| Mighty Mowing Park Ranger | 2.00% | ~13,726 |
-| Every good deed… | 2.00% | ~13,726 |
-| Leaner and meaner | 2.00% | ~13,726 |
-| The top of the mountain | 2.00% | ~13,726 |
-| First step on the ladder | 2.00% | ~13,726 |
-| Trusted | 2.00% | ~13,726 |
+| Fighting on all fronts | 2.00% | ~13,727 |
+| Mighty Mowing Park Ranger | 2.00% | ~13,727 |
+| Every good deed… | 2.00% | ~13,727 |
+| Leaner and meaner | 2.00% | ~13,727 |
+| The top of the mountain | 2.00% | ~13,727 |
+| First step on the ladder | 2.00% | ~13,727 |
+| Trusted | 2.00% | ~13,727 |
 | Earn your stripes | 0.90% | ~6,177 |
 | Lawn & Order | 0.90% | ~6,177 |
 | The grass is always greener | 0.90% | ~6,177 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~686 |
 | Mo mowers, mo problems | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,324 (Ranked 27)  
+Progressed: 686,328 (Ranked 27)  
 Completed: 19 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 19 (0.00%) (Ranked 371)
 | 2023-12-04 | 685,879 | 19 |
 | 2023-12-05 | 686,080 | 19 |
 | 2023-12-06 | 686,297 | 19 |
-| 2023-12-07 | 686,324 | 19 |
+| 2023-12-07 | 686,328 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 301)  
 Sum: 989 (Ranked 265)  

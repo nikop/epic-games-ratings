@@ -105,8 +105,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 1.00% | ~1,441 |
 | The Free Encyclopedia | 0.90% | ~1,297 |
 | Eternal Crusade | 0.90% | ~1,297 |
-| The Greatest Grind | 0.70% | ~1,008 |
-| All or Nothing! | 0.70% | ~1,008 |
+| The Greatest Grind | 0.70% | ~1,009 |
+| All or Nothing! | 0.70% | ~1,009 |
 | Anything not Nailed Down | 0.60% | ~864 |
 | Marvels from the World Over | 0.60% | ~864 |
 | Bane of Legends | 0.50% | ~720 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~432 |
 | Capitalist Camaraderie | 0.20% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,070 (Ranked 80)  
+Progressed: 144,072 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 291 (0.20%) (Ranked 259)
 | 2023-12-04 | 143,830 | 291 |
 | 2023-12-05 | 143,938 | 291 |
 | 2023-12-06 | 144,049 | 291 |
-| 2023-12-07 | 144,070 | 291 |
+| 2023-12-07 | 144,072 | 291 |
 ## Awards
 Max (Great for Beginners): 4,868  (Ranked 75)  
 Sum: 27,671 (Ranked 50)  

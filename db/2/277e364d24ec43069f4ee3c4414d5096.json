@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116042,
+  "EOS_Progressed": 116043,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20394,6 +20394,11 @@
       "Time": "2023-12-07T04:09:27.4108358+00:00",
       "NumProgressed": 116042,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-07T05:09:33.4891986+00:00",
+      "NumProgressed": 116043,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20413,7 +20418,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89352
+      "UsersEstimate": 89353
     },
     {
       "ID": "EAwards_10",
@@ -20501,7 +20506,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55700
+      "UsersEstimate": 55701
     },
     {
       "ID": "EAwards_20",
@@ -20589,7 +20594,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23208
+      "UsersEstimate": 23209
     },
     {
       "ID": "EAwards_30",
@@ -20677,7 +20682,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15085
+      "UsersEstimate": 15086
     },
     {
       "ID": "EAwards_40",
@@ -20796,7 +20801,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116042,
+      "Progressed": 116043,
       "Completed": 51
     }
   ],
@@ -20804,8 +20809,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-07T04:09:27.4108356+00:00",
+  "LastChanged_Achievements": "2023-12-07T05:09:33.4891979+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.5040385+00:00",
-  "LastUpdate_Ratings": "2023-12-07T03:57:47.3612257+00:00",
-  "LastUpdate_Achievements": "2023-12-07T04:09:27.4109337+00:00"
+  "LastUpdate_Ratings": "2023-12-07T04:57:49.7304067+00:00",
+  "LastUpdate_Achievements": "2023-12-07T05:09:33.4893171+00:00"
 }

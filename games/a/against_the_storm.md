@@ -16,12 +16,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Untamed Wilds | 1.00% | ~176 |
 | First Real Expedition | 0.40% | ~71 |
 | Overcoming Difficulty | 0.40% | ~71 |
+| Coral Forest | 0.40% | ~71 |
 | The Marshlands | 0.40% | ~71 |
 | Taking Action | 0.40% | ~71 |
 | No Deaths | 0.40% | ~71 |
+| Fertile Meadows | 0.30% | ~53 |
 | Royal Outpost | 0.30% | ~53 |
 | Watchtower | 0.30% | ~53 |
-| Coral Forest | 0.30% | ~53 |
 | The Scarlet Orchard | 0.30% | ~53 |
 | Fox Utopia | 0.30% | ~53 |
 | Homesick | 0.20% | ~35 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Bandit Camp | 0.20% | ~35 |
 | Ancient Battleground | 0.20% | ~35 |
 | Sparkdew Crystals | 0.20% | ~35 |
-| Fertile Meadows | 0.20% | ~35 |
 | Levitating Monument | 0.20% | ~35 |
 | Monastery of the Holy Flame | 0.20% | ~35 |
 | Lost Colonies | 0.20% | ~35 |

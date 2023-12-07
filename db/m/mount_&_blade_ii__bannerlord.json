@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -9504,9 +9504,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67249,
+  "EOS_Progressed": 67250,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33874,6 +33874,11 @@
       "Time": "2023-12-07T04:09:47.1233152+00:00",
       "NumProgressed": 67249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T05:10:17.1012362+00:00",
+      "NumProgressed": 67250,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -33933,7 +33938,7 @@
       "Name": "Catch",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "Champion",
@@ -34005,7 +34010,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "God of the Arena",
@@ -34093,7 +34098,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "Lance-a-lot",
@@ -34133,7 +34138,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "Mastery",
@@ -34173,7 +34178,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "Ride it like you stole it",
@@ -34229,7 +34234,7 @@
       "Name": "Swordbearer",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 7397
+      "UsersEstimate": 7398
     },
     {
       "ID": "The king is pleased",
@@ -34237,7 +34242,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12777
+      "UsersEstimate": 12778
     },
     {
       "ID": "This Is Our Land",
@@ -34292,15 +34297,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67249,
+      "Progressed": 67250,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-06T23:59:57.9844391+00:00",
-  "LastChanged_Achievements": "2023-12-07T04:09:47.1233149+00:00",
+  "LastChanged_Achievements": "2023-12-07T05:10:17.1012358+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-07T04:00:33.569613+00:00",
-  "LastUpdate_Achievements": "2023-12-07T04:09:47.1234734+00:00"
+  "LastUpdate_Ratings": "2023-12-07T05:01:19.5015509+00:00",
+  "LastUpdate_Achievements": "2023-12-07T05:10:17.1013774+00:00"
 }

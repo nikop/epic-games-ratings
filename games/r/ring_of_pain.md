@@ -19,6 +19,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Goodbye, Frog Friend | 0.50% | ~1,204 |
 | Heartless | 0.50% | ~1,204 |
 | A Donation | 0.50% | ~1,204 |
+| C-C-Combo | 0.50% | ~1,204 |
 | Deflection | 0.50% | ~1,204 |
 | A Quick Escape | 0.50% | ~1,204 |
 | Explorer | 0.50% | ~1,204 |
@@ -36,7 +37,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | What's Yours Is Mine | 0.40% | ~963 |
 | Spine Breaker | 0.40% | ~963 |
 | Shootout | 0.40% | ~963 |
-| C-C-Combo | 0.40% | ~963 |
 | Stone Touch | 0.40% | ~963 |
 | Toxic | 0.40% | ~963 |
 | Sneaky | 0.40% | ~963 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,713 (Ranked 64)  
+Progressed: 240,714 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,11 +376,11 @@ Completed: 292 (0.12%) (Ranked 283)
 | 2023-12-04 | 240,628 | 292 |
 | 2023-12-05 | 240,675 | 292 |
 | 2023-12-06 | 240,707 | 292 |
-| 2023-12-07 | 240,713 | 292 |
+| 2023-12-07 | 240,714 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 133)  
-Sum: 11,711 (Ranked 84)  
-Diff (max vs sum): 49  
+Sum: 11,711 (Ranked 83)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |
