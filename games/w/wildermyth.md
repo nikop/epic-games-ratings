@@ -26,13 +26,13 @@ Number of Ratings: 45  (23.09.2022)
 | Turncoat | 0.90% | ~14 |
 | Another Tale to Tell | 0.70% | ~11 |
 | A Story of Heroes | 0.70% | ~11 |
+| No Time for Clawmonsters | 0.60% | ~9 |
 | Empty the Caves | 0.50% | ~8 |
 | Legends Never Die | 0.50% | ~8 |
 | Chain Reaction | 0.50% | ~8 |
 | Everfading | 0.50% | ~8 |
 | Some Say I'm Too Flashy | 0.50% | ~8 |
 | Astrology | 0.50% | ~8 |
-| No Time for Clawmonsters | 0.50% | ~8 |
 | Bonebreakers | 0.40% | ~6 |
 | Storied Past | 0.30% | ~5 |
 | No More Nightmares | 0.30% | ~5 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,509 (Ranked 243)  
+Progressed: 1,510 (Ranked 243)  
 Completed: 6 (0.40%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 6 (0.40%) (Ranked 223)
 | 2023-12-04 | 1,504 | 6 |
 | 2023-12-05 | 1,505 | 6 |
 | 2023-12-06 | 1,506 | 6 |
-| 2023-12-07 | 1,509 | 6 |
+| 2023-12-07 | 1,510 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 504)  
 Sum: 29 (Ranked 518)  

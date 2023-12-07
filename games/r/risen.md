@@ -48,10 +48,10 @@ Rating: 4.58 (Ranked 449)
 | Fervent swimmer | 6.00% | ~4 |
 | King Midas | 6.00% | ~4 |
 | Rune master | 5.00% | ~3 |
+| Jester | 5.00% | ~3 |
 | Big game hunter | 3.00% | ~2 |
 | Mage | 3.00% | ~2 |
 | Sharpshooter | 3.00% | ~2 |
-| Jester | 3.00% | ~2 |
 | Gladiator | 2.00% | ~1 |
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |

@@ -20,7 +20,7 @@ Rating: 4.54 (Ranked 530)
 | Personal Assistant Personally Assisted | 2.00% | ~14,624 |
 | This is My Weapon | 2.00% | ~14,624 |
 | Welcome To Hell-A | 2.00% | ~14,624 |
-| One of Us | 2.00% | ~1,134 |
+| One of Us | 2.00% | ~1,135 |
 | Making Your Mark | 1.00% | ~7,312 |
 | Anger Management | 1.00% | ~7,312 |
 | Perks of the Job | 1.00% | ~7,312 |
@@ -37,10 +37,10 @@ Rating: 4.54 (Ranked 530)
 | Max Headroom | 1.00% | ~7,312 |
 | Our True Nature | 1.00% | ~7,312 |
 | Down with the Sickness | 0.90% | ~6,581 |
-| Not Even My Final Form | 0.80% | ~5,849 |
-| Jumbo Keyring | 0.80% | ~5,849 |
-| Go, Bobcats! | 0.80% | ~5,849 |
-| Rising Star | 0.80% | ~5,849 |
+| Not Even My Final Form | 0.80% | ~5,850 |
+| Jumbo Keyring | 0.80% | ~5,850 |
+| Go, Bobcats! | 0.80% | ~5,850 |
+| Rising Star | 0.80% | ~5,850 |
 | On Safari | 0.60% | ~4,387 |
 | Smorgasbord | 0.60% | ~4,387 |
 | Internet Famous | 0.60% | ~4,387 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 530)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,183 (Ranked 21)  
+Progressed: 731,196 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
-| 2023-12-07 | 731,183 | 2,465 |
+| 2023-12-07 | 731,196 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,968  (Ranked 49)  
 Sum: 12,244 (Ranked 82)  

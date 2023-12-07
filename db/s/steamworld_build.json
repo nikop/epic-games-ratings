@@ -2,10 +2,10 @@
   "ID": "974d75969ed043489745f61eb0a25baf",
   "Name": "SteamWorld Build",
   "ProductSlug": "steamworld-build-71ee6c",
-  "Ranking_EOS_Progress": 509,
+  "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -149,6 +149,11 @@
       "Time": "2023-12-07T02:30:00.6551299+00:00",
       "NumProgressed": 46,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T08:06:24.8063167+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -167,7 +172,7 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -191,7 +196,7 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
       "UsersEstimate": 23
     },
@@ -199,9 +204,9 @@
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "DopaMiner",
@@ -215,7 +220,7 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 57,
+      "Percentage": 55,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -247,7 +252,7 @@
       "ID": "ItsYoursMyFriend",
       "SetID": "4bd750m",
       "Name": "It\u0027s Yours, My Friend",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -263,15 +268,15 @@
       "ID": "Mathematic",
       "SetID": "4bd750m",
       "Name": "Mathematic",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -295,7 +300,7 @@
       "ID": "RollOut",
       "SetID": "4bd750m",
       "Name": "Roll Out",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -303,7 +308,7 @@
       "ID": "RoomToSpare",
       "SetID": "4bd750m",
       "Name": "Room To Spare",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -343,7 +348,7 @@
       "ID": "Systematic",
       "SetID": "4bd750m",
       "Name": "Systematic",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -351,7 +356,7 @@
       "ID": "TuttiFrutti",
       "SetID": "4bd750m",
       "Name": "Tutti Frutti",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -384,14 +389,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-07T07:05:06.5358981+00:00",
+  "LastChanged_Achievements": "2023-12-07T08:06:24.8063164+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:16.2831296+00:00",
-  "LastUpdate_Ratings": "2023-12-07T07:02:52.8707403+00:00",
-  "LastUpdate_Achievements": "2023-12-07T07:05:06.5359201+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:03:30.3615215+00:00",
+  "LastUpdate_Achievements": "2023-12-07T08:06:24.8063344+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 693,
+  "Ranking_Rating": 678,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 119,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.44,
   "NumberOfRatings": 94,
   "RatingHistory": [
     {
@@ -563,15 +563,21 @@
       "Rating": 4.43,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-07T07:57:07.24527+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42663,
+  "EOS_Progressed": 42665,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 898,
+  "EOS_NewPlayers": 899,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -9699,6 +9705,11 @@
       "Time": "2023-12-07T07:08:23.0052305+00:00",
       "NumProgressed": 42663,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-12-07T08:09:39.9154742+00:00",
+      "NumProgressed": 42665,
+      "NumCompleted": 195
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -9711,7 +9722,7 @@
       "Name": "Descendants",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6399
+      "UsersEstimate": 6400
     },
     {
       "ID": "ACH_BLUEEND",
@@ -9855,7 +9866,7 @@
       "Name": "Mission Success",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 9812
+      "UsersEstimate": 9813
     },
     {
       "ID": "ACH_HUB2",
@@ -9871,7 +9882,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22185
+      "UsersEstimate": 22186
     },
     {
       "ID": "ACH_PEAK",
@@ -9879,7 +9890,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 9812
+      "UsersEstimate": 9813
     },
     {
       "ID": "ACH_PROPELL",
@@ -9903,7 +9914,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 29011
+      "UsersEstimate": 29012
     },
     {
       "ID": "ACH_S4",
@@ -9927,7 +9938,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 31997
+      "UsersEstimate": 31999
     },
     {
       "ID": "ACH_STATUE",
@@ -9935,22 +9946,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 18345
+      "UsersEstimate": 18346
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 42663,
+      "Progressed": 42665,
       "Completed": 195
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
-  "LastChanged": "2023-12-06T07:59:48.2810457+00:00",
-  "LastChanged_Achievements": "2023-12-07T07:08:23.0052302+00:00",
+  "LastChanged": "2023-12-07T07:57:07.2452699+00:00",
+  "LastChanged_Achievements": "2023-12-07T08:09:39.9154737+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:17.490773+00:00",
-  "LastUpdate_Ratings": "2023-12-07T06:57:05.2910432+00:00",
-  "LastUpdate_Achievements": "2023-12-07T07:08:23.0052925+00:00"
+  "LastUpdate_Ratings": "2023-12-07T07:57:07.2452703+00:00",
+  "LastUpdate_Achievements": "2023-12-07T08:09:39.915542+00:00"
 }

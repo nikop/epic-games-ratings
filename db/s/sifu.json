@@ -8109,7 +8109,7 @@
       "Count": 430
     }
   ],
-  "EOS_Progressed": 717851,
+  "EOS_Progressed": 717852,
   "EOS_Completed": 12945,
   "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 4,
@@ -28574,6 +28574,11 @@
       "Time": "2023-12-07T07:04:40.0935253+00:00",
       "NumProgressed": 717851,
       "NumCompleted": 12945
+    },
+    {
+      "Time": "2023-12-07T08:05:50.3321592+00:00",
+      "NumProgressed": 717852,
+      "NumCompleted": 12945
     }
   ],
   "TotalAchievements": 60,
@@ -28623,9 +28628,9 @@
       "ID": "06_Vengeance_H5",
       "SetID": "adcm20g",
       "Name": "Furious Fists",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 3589
+      "UsersEstimate": 4307
     },
     {
       "ID": "07_Wude_H1",
@@ -29064,21 +29069,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 27152,
+      "Progressed": 27153,
       "Completed": 10762
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717851,
+      "Progressed": 717852,
       "Completed": 12945
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-07T05:02:58.493594+00:00",
-  "LastChanged_Achievements": "2023-12-07T07:04:40.0935251+00:00",
+  "LastChanged_Achievements": "2023-12-07T08:05:50.3321589+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:06.4352314+00:00",
-  "LastUpdate_Ratings": "2023-12-07T07:02:40.0010615+00:00",
-  "LastUpdate_Achievements": "2023-12-07T07:04:40.0936406+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:03:12.6460744+00:00",
+  "LastUpdate_Achievements": "2023-12-07T08:05:50.3323218+00:00"
 }

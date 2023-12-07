@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1877,9 +1877,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 65692,
+  "EOS_Progressed": 65693,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27267,6 +27267,11 @@
       "Time": "2023-12-07T07:05:40.1863082+00:00",
       "NumProgressed": 65692,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-07T08:07:08.1145101+00:00",
+      "NumProgressed": 65693,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -27534,7 +27539,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21021
+      "UsersEstimate": 21022
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -27566,7 +27571,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 41386
+      "UsersEstimate": 41387
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -27614,7 +27619,7 @@
       "Name": "Semper Fidelis!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4598
+      "UsersEstimate": 4599
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS1",
@@ -27646,7 +27651,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 51240
+      "UsersEstimate": 51241
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -27662,7 +27667,7 @@
       "Name": "Honneur et Patrie",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4598
+      "UsersEstimate": 4599
     },
     {
       "ID": "VERDUN_ACH_SAMEFRIEND1",
@@ -27749,15 +27754,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 65692,
+      "Progressed": 65693,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-03T20:57:55.9094528+00:00",
-  "LastChanged_Achievements": "2023-12-07T07:05:40.186308+00:00",
+  "LastChanged_Achievements": "2023-12-07T08:07:08.1145097+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:11.1920851+00:00",
-  "LastUpdate_Ratings": "2023-12-07T06:59:55.2550114+00:00",
-  "LastUpdate_Achievements": "2023-12-07T07:05:40.1864504+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:00:57.5082537+00:00",
+  "LastUpdate_Achievements": "2023-12-07T08:07:08.1146902+00:00"
 }

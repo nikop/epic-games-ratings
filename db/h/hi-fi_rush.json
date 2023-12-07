@@ -2,13 +2,13 @@
   "ID": "577c5cbc303a4d168b1a104f3b46e751",
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
-  "Ranking_Rating": 24,
+  "Ranking_Rating": 25,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4483,
+  "EOS_Progressed": 4484,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -8175,6 +8175,11 @@
       "Time": "2023-12-07T07:05:07.3217616+00:00",
       "NumProgressed": 4483,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-07T08:06:26.0160657+00:00",
+      "NumProgressed": 4484,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8218,7 +8223,7 @@
       "Name": "Headliner",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "Ach006",
@@ -8226,7 +8231,7 @@
       "Name": "Time to pay up!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "Ach007",
@@ -8298,7 +8303,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "Ach016",
@@ -8306,7 +8311,7 @@
       "Name": "Chip-tuned",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Ach017",
@@ -8360,9 +8365,9 @@
       "ID": "Ach023",
       "SetID": "12n4k20",
       "Name": "Feeling the beat!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 897
     },
     {
       "ID": "Ach024",
@@ -8378,7 +8383,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "Ach026",
@@ -8386,7 +8391,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "Ach027",
@@ -8594,7 +8599,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Ach053",
@@ -8602,7 +8607,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "Ach054",
@@ -8610,7 +8615,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Ach055",
@@ -8658,7 +8663,7 @@
       "Name": "Check out my moves!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Ach061",
@@ -8753,13 +8758,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4483,
+      "Progressed": 4484,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 3004,
+      "Progressed": 3005,
       "Completed": 1930
     }
   ],
@@ -8767,8 +8772,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-07T07:05:07.3217612+00:00",
+  "LastChanged_Achievements": "2023-12-07T08:06:26.0160654+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-07T06:58:04.6923458+00:00",
-  "LastUpdate_Achievements": "2023-12-07T07:05:07.3218504+00:00"
+  "LastUpdate_Ratings": "2023-12-07T07:58:27.7967303+00:00",
+  "LastUpdate_Achievements": "2023-12-07T08:06:26.016167+00:00"
 }

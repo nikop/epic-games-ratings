@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7317,9 +7317,9 @@
       "Count": 518
     }
   ],
-  "EOS_Progressed": 731183,
+  "EOS_Progressed": 731196,
   "EOS_Completed": 2465,
-  "EOS_NewPlayers": 3285,
+  "EOS_NewPlayers": 3288,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33777,6 +33777,11 @@
       "Time": "2023-12-07T07:08:17.5102632+00:00",
       "NumProgressed": 731183,
       "NumCompleted": 2465
+    },
+    {
+      "Time": "2023-12-07T08:09:32.8500327+00:00",
+      "NumProgressed": 731196,
+      "NumCompleted": 2465
     }
   ],
   "TotalAchievements": 51,
@@ -33924,7 +33929,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "ach_hazardous_materials",
@@ -33980,7 +33985,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "ach_knock_down",
@@ -34092,7 +34097,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "ach_thesacrifice",
@@ -34132,7 +34137,7 @@
       "Name": "Rising Star",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "ach_well_trained",
@@ -34148,7 +34153,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "ach_dark_magic",
@@ -34195,13 +34200,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 731183,
+      "Progressed": 731196,
       "Completed": 2465
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 56725,
+      "Progressed": 56738,
       "Completed": 36637
     }
   ],
@@ -34209,8 +34214,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-07T01:45:54.801308+00:00",
-  "LastChanged_Achievements": "2023-12-07T07:08:17.510263+00:00",
+  "LastChanged_Achievements": "2023-12-07T08:09:32.8500322+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-07T06:58:24.5980785+00:00",
-  "LastUpdate_Achievements": "2023-12-07T07:08:17.5103991+00:00"
+  "LastUpdate_Ratings": "2023-12-07T07:58:54.7420607+00:00",
+  "LastUpdate_Achievements": "2023-12-07T08:09:32.8502183+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
-  "Ranking_Rating": 24,
+  "Ranking_Rating": 25,
   "Ranking_Popularity": 183,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1520,9 +1520,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131689,
+  "EOS_Progressed": 131690,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24015,6 +24015,11 @@
       "Time": "2023-12-07T05:03:42.9233019+00:00",
       "NumProgressed": 131689,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-07T08:04:03.0917892+00:00",
+      "NumProgressed": 131690,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24082,7 +24087,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31605
+      "UsersEstimate": 31606
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -24242,7 +24247,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18436
+      "UsersEstimate": 18437
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -24306,7 +24311,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18436
+      "UsersEstimate": 18437
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -24345,15 +24350,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131689,
+      "Progressed": 131690,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-04T18:59:31.8633309+00:00",
-  "LastChanged_Achievements": "2023-12-07T07:03:16.970723+00:00",
+  "LastChanged_Achievements": "2023-12-07T08:04:03.0917888+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:21.910323+00:00",
-  "LastUpdate_Ratings": "2023-12-07T07:00:09.7482431+00:00",
-  "LastUpdate_Achievements": "2023-12-07T07:03:16.9708521+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:01:16.69844+00:00",
+  "LastUpdate_Achievements": "2023-12-07T08:04:03.0919289+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 754,
+  "EOS_Progressed": 755,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1856,6 +1856,11 @@
       "Time": "2023-12-07T01:57:48.4398015+00:00",
       "NumProgressed": 754,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T08:10:44.3355469+00:00",
+      "NumProgressed": 755,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1924,7 +1929,7 @@
       "Name": "Class Act",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_17",
@@ -2052,7 +2057,7 @@
       "Name": "NEW PB!",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_8",
@@ -2075,7 +2080,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 754,
+      "Progressed": 755,
       "Completed": 0
     }
   ],
@@ -2083,8 +2088,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-06T23:57:02.9987926+00:00",
-  "LastChanged_Achievements": "2023-12-07T07:09:12.773956+00:00",
+  "LastChanged_Achievements": "2023-12-07T08:10:44.3355466+00:00",
   "LastUpdate_AppInfo": "2023-12-05T21:56:59.3509515+00:00",
-  "LastUpdate_Ratings": "2023-12-07T06:57:15.5153529+00:00",
-  "LastUpdate_Achievements": "2023-12-07T07:09:12.7739785+00:00"
+  "LastUpdate_Ratings": "2023-12-07T07:57:20.9897578+00:00",
+  "LastUpdate_Achievements": "2023-12-07T08:10:44.3355651+00:00"
 }

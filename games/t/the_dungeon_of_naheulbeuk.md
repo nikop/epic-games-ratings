@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~86,980 |
+| Sowwy! | 36.00% | ~86,981 |
 | Alt+F4 | 9.00% | ~21,745 |
 | Where's that freaking Dwarf? | 8.00% | ~19,329 |
 | Déjà vu | 7.00% | ~16,913 |
@@ -14,8 +14,8 @@ Number of Ratings: 118  (23.09.2022)
 | Sock! SOCK! | 5.00% | ~12,081 |
 | GG EZ | 5.00% | ~12,081 |
 | Speedrun | 5.00% | ~12,081 |
-| DM intervention | 4.00% | ~9,664 |
-| Fireproof Wizardess | 4.00% | ~9,664 |
+| DM intervention | 4.00% | ~9,665 |
+| Fireproof Wizardess | 4.00% | ~9,665 |
 | Livin' in a dwarven paradise | 3.00% | ~7,248 |
 | Way of the Wimp | 3.00% | ~7,248 |
 | The plot thickens... At the tavern | 3.00% | ~7,248 |
@@ -44,7 +44,7 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 1.00% | ~2,416 |
 | Lust and Debauchery | 1.00% | ~2,416 |
 | Material Girl | 1.00% | ~2,416 |
-| In Navalu's footsteps | 0.90% | ~2,174 |
+| In Navalu's footsteps | 0.90% | ~2,175 |
 | Lëgal Legend | 0.80% | ~1,933 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,691 |
 | We come in peace | 0.70% | ~1,691 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,611 (Ranked 63)  
+Progressed: 241,614 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-04 | 241,332 | 7 |
 | 2023-12-05 | 241,460 | 7 |
 | 2023-12-06 | 241,584 | 7 |
-| 2023-12-07 | 241,611 | 7 |
+| 2023-12-07 | 241,614 | 7 |
 ## Awards
 Max (Character Customization): 244  (Ranked 272)  
 Sum: 495 (Ranked 328)  

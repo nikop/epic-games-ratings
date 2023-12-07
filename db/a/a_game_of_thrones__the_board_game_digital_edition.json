@@ -1332,7 +1332,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29826,
+  "EOS_Progressed": 29828,
   "EOS_Completed": 82,
   "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 1,
@@ -26027,6 +26027,11 @@
       "Time": "2023-12-07T05:09:29.7111268+00:00",
       "NumProgressed": 29826,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-07T08:10:20.4211268+00:00",
+      "NumProgressed": 29828,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -26134,7 +26139,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "1028",
@@ -26158,7 +26163,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5965
+      "UsersEstimate": 5966
     },
     {
       "ID": "1031",
@@ -26174,7 +26179,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11930
+      "UsersEstimate": 11931
     },
     {
       "ID": "1033",
@@ -26198,7 +26203,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3877
+      "UsersEstimate": 3878
     },
     {
       "ID": "1036",
@@ -26213,15 +26218,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29826,
+      "Progressed": 29828,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-07T07:08:53.967345+00:00",
+  "LastChanged_Achievements": "2023-12-07T08:10:20.4211265+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.8181889+00:00",
-  "LastUpdate_Ratings": "2023-12-07T06:58:51.3153723+00:00",
-  "LastUpdate_Achievements": "2023-12-07T07:08:53.9674805+00:00"
+  "LastUpdate_Ratings": "2023-12-07T07:59:30.2089384+00:00",
+  "LastUpdate_Achievements": "2023-12-07T08:10:20.4212663+00:00"
 }

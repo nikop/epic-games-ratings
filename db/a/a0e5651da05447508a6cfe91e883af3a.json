@@ -2,10 +2,10 @@
   "ID": "a0e5651da05447508a6cfe91e883af3a",
   "Name": "Dark Table CCG",
   "ProductSlug": "dark-table-ccg-abe8b6",
-  "Ranking_EOS_Progress": 480,
+  "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-18T02:00:00+00:00",
     "PcReleaseDate": "2023-11-18T02:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67,
+  "EOS_Progressed": 69,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -249,6 +249,11 @@
       "Time": "2023-12-07T04:09:20.5603575+00:00",
       "NumProgressed": 67,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T08:10:15.6426188+00:00",
+      "NumProgressed": 69,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-03T19:09:22.7139112+00:00",
@@ -363,9 +368,9 @@
       "ID": "Login_First",
       "SetID": "2bonhb9",
       "Name": "First Login",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "Losses_100",
@@ -476,14 +481,14 @@
     {
       "ID": "2bonhb9",
       "IsBase": true,
-      "Progressed": 67,
+      "Progressed": 69,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T15:00:14.9921948+00:00",
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2023-12-07T07:08:50.3183866+00:00",
+  "LastChanged_Achievements": "2023-12-07T08:10:15.6426185+00:00",
   "LastUpdate_AppInfo": "2023-11-30T23:57:07.681139+00:00",
-  "LastUpdate_Ratings": "2023-12-07T06:59:28.3443424+00:00",
-  "LastUpdate_Achievements": "2023-12-07T07:08:50.3184016+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:00:20.9274653+00:00",
+  "LastUpdate_Achievements": "2023-12-07T08:10:15.6426328+00:00"
 }

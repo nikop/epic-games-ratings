@@ -25,14 +25,14 @@
 | A new way | 11.00% | ~12 |
 | First steps | 11.00% | ~12 |
 | Breaking free | 10.00% | ~11 |
+| Sound Bite | 10.00% | ~11 |
 | Lights! Camera! Action! | 10.00% | ~11 |
 | True Reflection | 10.00% | ~11 |
 | Another perspective | 9.00% | ~10 |
-| Sound Bite | 9.00% | ~10 |
 | Heavy Burden | 8.00% | ~8 |
 | Casting Finished | 7.00% | ~7 |
+| We Are Not Alone | 6.00% | ~6 |
 | Fisherman | 6.00% | ~6 |
-| We Are Not Alone | 5.00% | ~5 |
 | Body of Work | 4.00% | ~4 |
 | The Perfect Storm | 4.00% | ~4 |
 | Instinct of self-preservation | 4.00% | ~4 |
@@ -40,11 +40,11 @@
 | I remember It Like Was Yesterday | 3.00% | ~3 |
 | It was worth a try | 3.00% | ~3 |
 | Immortalized in my heart | 3.00% | ~3 |
+| Full Scoop | 3.00% | ~3 |
 | Se7en Seas | 3.00% | ~3 |
 | A Mosaic of Misery | 3.00% | ~3 |
 | The Big Picture | 2.00% | ~2 |
 | Dark correspondence | 2.00% | ~2 |
-| Full Scoop | 2.00% | ~2 |
 | Preferred Parent | 2.00% | ~2 |
 | In One Take | 0.90% | ~1 |
 | Rocket Science | 0.90% | ~1 |

@@ -1,17 +1,17 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.87 (Ranked 24)  
+Rating: 4.87 (Ranked 25)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Feeling the beat! | 20.00% | ~897 |
 | Start with a bang! | 19.00% | ~852 |
-| Feeling the beat! | 19.00% | ~852 |
 | You can pet the cat! | 18.00% | ~807 |
 | Who put gears in there? | 17.00% | ~762 |
 | Cream of the Crop | 16.00% | ~717 |
-| Thanks for the free chip, Peppermint! | 15.00% | ~672 |
-| You got this, Peppermint? | 15.00% | ~672 |
+| Thanks for the free chip, Peppermint! | 15.00% | ~673 |
+| You got this, Peppermint? | 15.00% | ~673 |
 | Perfect Parry | 14.00% | ~628 |
 | Alright, that felt AWESOME! | 14.00% | ~628 |
 | This will cost you big time | 12.00% | ~538 |
@@ -23,10 +23,10 @@ Rating: 4.87 (Ranked 24)
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~448 |
 | Out in a puff of smoke | 10.00% | ~448 |
 | I look cool. But I can look COOLER. | 10.00% | ~448 |
-| Headliner | 9.00% | ~403 |
-| Time to pay up! | 9.00% | ~403 |
-| You must like calling me in, Chai | 9.00% | ~403 |
-| Does that say weakpoint? | 9.00% | ~403 |
+| Headliner | 9.00% | ~404 |
+| Time to pay up! | 9.00% | ~404 |
+| You must like calling me in, Chai | 9.00% | ~404 |
+| Does that say weakpoint? | 9.00% | ~404 |
 | Who's the boss now? | 8.00% | ~359 |
 | I have to read these things? | 8.00% | ~359 |
 | Perfecter Parry-er! | 8.00% | ~359 |
@@ -35,10 +35,10 @@ Rating: 4.87 (Ranked 24)
 | There's such a thing as TOO helpful | 6.00% | ~269 |
 | Well that was a rush! | 5.00% | ~224 |
 | Beat-hit mania | 5.00% | ~224 |
-| Chip-tuned | 3.00% | ~134 |
-| Wanna hear my playlist? | 3.00% | ~134 |
-| I told you I'd be fine, Peppermint! | 3.00% | ~134 |
-| Check out my moves! | 3.00% | ~134 |
+| Chip-tuned | 3.00% | ~135 |
+| Wanna hear my playlist? | 3.00% | ~135 |
+| I told you I'd be fine, Peppermint! | 3.00% | ~135 |
+| Check out my moves! | 3.00% | ~135 |
 | I think I deserve some praise, here! | 2.00% | ~90 |
 | I think I found your calling, Macaron | 2.00% | ~90 |
 | This is a breeze! | 2.00% | ~90 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,483 (Ranked 194)  
+Progressed: 4,484 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 8 (0.18%) (Ranked 266)
 | 2023-12-04 | 4,474 | 8 |
 | 2023-12-05 | 4,478 | 8 |
 | 2023-12-06 | 4,481 | 8 |
-| 2023-12-07 | 4,483 | 8 |
+| 2023-12-07 | 4,484 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

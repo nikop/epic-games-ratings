@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2615,7 +2615,7 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 25009,
+  "EOS_Progressed": 25011,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1287,
   "EOS_NewCompleters": 0,
@@ -12070,6 +12070,11 @@
       "Time": "2023-12-07T06:08:45.9063711+00:00",
       "NumProgressed": 25009,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T08:09:30.8665663+00:00",
+      "NumProgressed": 25011,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -12082,7 +12087,7 @@
       "Name": "Power Up!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "Achievement_Trophy02",
@@ -12146,7 +12151,7 @@
       "Name": "Caught off guard",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "Achievement_Trophy10",
@@ -12258,7 +12263,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3751
+      "UsersEstimate": 3752
     },
     {
       "ID": "Achievement_Trophy24",
@@ -12266,7 +12271,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10254
+      "UsersEstimate": 10255
     },
     {
       "ID": "Achievement_Trophy25",
@@ -12282,7 +12287,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8503
+      "UsersEstimate": 8504
     },
     {
       "ID": "Achievement_Trophy27",
@@ -12298,7 +12303,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 8253
+      "UsersEstimate": 8254
     },
     {
       "ID": "Achievement_Trophy29",
@@ -12354,7 +12359,7 @@
       "Name": "The Pro from Dover",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "Achievement_Trophy36",
@@ -12362,7 +12367,7 @@
       "Name": "Pretty lights!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "Achievement_Trophy37",
@@ -12370,7 +12375,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6252
+      "UsersEstimate": 6253
     },
     {
       "ID": "Achievement_Trophy38",
@@ -12418,7 +12423,7 @@
       "Name": "Light of my life",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3501
+      "UsersEstimate": 3502
     },
     {
       "ID": "Achievement_Trophy44",
@@ -12434,7 +12439,7 @@
       "Name": "Now you see me...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "Achievement_Trophy46",
@@ -12466,7 +12471,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3751
+      "UsersEstimate": 3752
     },
     {
       "ID": "Achievement_Trophy50",
@@ -12569,7 +12574,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 25009,
+      "Progressed": 25011,
       "Completed": 1
     }
   ],
@@ -12577,8 +12582,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-06T19:01:19.4213962+00:00",
-  "LastChanged_Achievements": "2023-12-07T07:08:16.0356678+00:00",
+  "LastChanged_Achievements": "2023-12-07T08:09:30.8665658+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.3646909+00:00",
-  "LastUpdate_Ratings": "2023-12-07T07:00:28.7429302+00:00",
-  "LastUpdate_Achievements": "2023-12-07T07:08:16.0357601+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:01:42.1060676+00:00",
+  "LastUpdate_Achievements": "2023-12-07T08:09:30.8666382+00:00"
 }

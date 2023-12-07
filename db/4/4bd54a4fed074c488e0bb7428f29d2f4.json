@@ -4,8 +4,8 @@
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
   "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -221,9 +221,9 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 43,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SOS_DEAD_END",
@@ -261,9 +261,9 @@
       "ID": "SOS_EVERYBODYS_DEAD",
       "SetID": "6ci4lm2",
       "Name": "Everybody\u0027s dead, Dave",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SOS_EVIL_CODE",
@@ -317,9 +317,9 @@
       "ID": "SOS_FOR_GLORY_OF_GOD",
       "SetID": "6ci4lm2",
       "Name": "For the glory of God",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SOS_GHOSTS",
@@ -349,9 +349,9 @@
       "ID": "SOS_HEADACHE",
       "SetID": "6ci4lm2",
       "Name": "By fire and blood",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SOS_HEARTBREAKING_END",
@@ -381,9 +381,9 @@
       "ID": "SOS_HE_WILL_REMEMBER",
       "SetID": "6ci4lm2",
       "Name": "He will remember that",
-      "Percentage": 33,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SOS_INFERNAL_TONES",
@@ -397,9 +397,9 @@
       "ID": "SOS_ITS_TRAP",
       "SetID": "6ci4lm2",
       "Name": "It\u0027s a trap!",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SOS_LASTBATTLE",
@@ -453,9 +453,9 @@
       "ID": "SOS_MOUTH_COIN",
       "SetID": "6ci4lm2",
       "Name": "What\u0027s he got in his mouth?",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_MUMBLER",
@@ -517,9 +517,9 @@
       "ID": "SOS_POISON",
       "SetID": "6ci4lm2",
       "Name": "Last cup",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SOS_PRISON_BREAK",
@@ -621,9 +621,9 @@
       "ID": "SOS_WE_HAVE_TO_STOP_THEM",
       "SetID": "6ci4lm2",
       "Name": "We have to stop them",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SOS_WHAT_HURTS",
@@ -652,8 +652,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-07T07:05:35.2126567+00:00",
+  "LastChanged_Achievements": "2023-12-07T08:07:01.6746501+00:00",
   "LastUpdate_AppInfo": "2023-12-04T15:57:13.4700868+00:00",
-  "LastUpdate_Ratings": "2023-12-07T07:00:29.5957504+00:00",
-  "LastUpdate_Achievements": "2023-12-07T07:05:35.2127041+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:01:43.3652915+00:00",
+  "LastUpdate_Achievements": "2023-12-07T08:07:01.674697+00:00"
 }

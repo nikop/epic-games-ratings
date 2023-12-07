@@ -6,38 +6,38 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,521 |
-| Skillful | 2.00% | ~21,521 |
-| Zealous | 1.00% | ~10,760 |
-| Not half bad | 1.00% | ~10,760 |
-| Apt Survivor | 1.00% | ~10,760 |
-| Survival Treasures | 1.00% | ~10,760 |
-| I | 1.00% | ~10,760 |
-| Make Some Noise | 1.00% | ~10,760 |
-| Handyman | 0.90% | ~9,684 |
-| Sorted | 0.90% | ~9,684 |
-| Resurgence | 0.90% | ~9,684 |
-| The Grand Sacrifice | 0.80% | ~8,608 |
-| No one left behind | 0.80% | ~8,608 |
-| Medic | 0.80% | ~8,608 |
-| Bloody Millionaire | 0.80% | ~8,608 |
-| Healthy Obsession | 0.80% | ~8,608 |
-| Preemptive Strike | 0.80% | ~8,608 |
-| Humanitarian | 0.80% | ~8,608 |
-| Agonizing Escape | 0.70% | ~7,532 |
-| Backdoor Escape | 0.70% | ~7,532 |
-| Perfect Escape | 0.70% | ~7,532 |
-| I've got your back | 0.60% | ~6,456 |
-| Perfect Killing | 0.60% | ~6,456 |
-| Apt Killer | 0.60% | ~6,456 |
-| Risk it all | 0.60% | ~6,456 |
-| II | 0.60% | ~6,456 |
-| Engineer | 0.60% | ~6,456 |
-| Wounded Healer | 0.60% | ~6,456 |
-| Close Shave | 0.60% | ~6,456 |
-| Vulture | 0.50% | ~5,380 |
-| III | 0.50% | ~5,380 |
-| Lifting The Fog | 0.50% | ~5,380 |
+| It wakes | 2.00% | ~21,522 |
+| Skillful | 2.00% | ~21,522 |
+| Zealous | 1.00% | ~10,761 |
+| Not half bad | 1.00% | ~10,761 |
+| Apt Survivor | 1.00% | ~10,761 |
+| Survival Treasures | 1.00% | ~10,761 |
+| I | 1.00% | ~10,761 |
+| Make Some Noise | 1.00% | ~10,761 |
+| Handyman | 0.90% | ~9,685 |
+| Sorted | 0.90% | ~9,685 |
+| Resurgence | 0.90% | ~9,685 |
+| The Grand Sacrifice | 0.80% | ~8,609 |
+| No one left behind | 0.80% | ~8,609 |
+| Medic | 0.80% | ~8,609 |
+| Bloody Millionaire | 0.80% | ~8,609 |
+| Healthy Obsession | 0.80% | ~8,609 |
+| Preemptive Strike | 0.80% | ~8,609 |
+| Humanitarian | 0.80% | ~8,609 |
+| Agonizing Escape | 0.70% | ~7,533 |
+| Backdoor Escape | 0.70% | ~7,533 |
+| Perfect Escape | 0.70% | ~7,533 |
+| I've got your back | 0.60% | ~6,457 |
+| Perfect Killing | 0.60% | ~6,457 |
+| Apt Killer | 0.60% | ~6,457 |
+| Risk it all | 0.60% | ~6,457 |
+| II | 0.60% | ~6,457 |
+| Engineer | 0.60% | ~6,457 |
+| Wounded Healer | 0.60% | ~6,457 |
+| Close Shave | 0.60% | ~6,457 |
+| Vulture | 0.50% | ~5,381 |
+| III | 0.50% | ~5,381 |
+| Lifting The Fog | 0.50% | ~5,381 |
 | Blood on your hands | 0.40% | ~4,304 |
 | Escape Artist | 0.40% | ~4,304 |
 | Gifts for the Fog | 0.40% | ~4,304 |
@@ -70,6 +70,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun Evil | 0.30% | ~3,228 |
 | Grim Pilgrimage | 0.30% | ~3,228 |
 | Classy Act | 0.30% | ~3,228 |
+| A Fast Death | 0.30% | ~3,228 |
 | One More Step | 0.30% | ~3,228 |
 | MU/TH/UR Dearest | 0.30% | ~3,228 |
 | A bite for the Entity | 0.20% | ~2,152 |
@@ -95,7 +96,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Triage | 0.20% | ~2,152 |
 | Outrun the Overlap | 0.20% | ~2,152 |
 | High Speed Pursuit | 0.20% | ~2,152 |
-| A Fast Death | 0.20% | ~2,152 |
 | Rebuilding The Borgo | 0.20% | ~2,152 |
 | Complete the Evolution | 0.20% | ~2,152 |
 | Extraterrestrial | 0.20% | ~2,152 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,076 |
 | Adept Good Guy | 0.10% | ~1,076 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,076,041 (Ranked 14)  
+Progressed: 1,076,111 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -470,7 +470,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
-| 2023-12-07 | 1,076,041 | 61 |
+| 2023-12-07 | 1,076,111 | 61 |
 ## Awards
 Max (Diverse Characters): 37,449  (Ranked 15)  
 Sum: 283,978 (Ranked 12)  

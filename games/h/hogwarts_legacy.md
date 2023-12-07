@@ -10,11 +10,11 @@ Rating: 4.76 (Ranked 130)
 | Troll with the Punches | 14.00% | ~42,564 |
 | A Keen Sense of Spell | 13.00% | ~39,524 |
 | That's a Keeper | 13.00% | ~39,524 |
-| The Hallowed Hero | 12.00% | ~36,483 |
-| The Defender of Dragons | 12.00% | ~36,483 |
-| Loom for Improvement | 12.00% | ~36,483 |
-| A Talent for Spending | 12.00% | ~36,483 |
-| Coasting Along | 12.00% | ~36,483 |
+| The Hallowed Hero | 12.00% | ~36,484 |
+| The Defender of Dragons | 12.00% | ~36,484 |
+| Loom for Improvement | 12.00% | ~36,484 |
+| A Talent for Spending | 12.00% | ~36,484 |
+| Coasting Along | 12.00% | ~36,484 |
 | Grappling with a Graphorn | 11.00% | ~33,443 |
 | The One Who Mastered Memories | 11.00% | ~33,443 |
 | The Hero of Hogwarts | 11.00% | ~33,443 |
@@ -30,9 +30,9 @@ Rating: 4.76 (Ranked 130)
 | The Seeker of Knowledge | 6.00% | ~18,242 |
 | The Root of the Problem | 6.00% | ~18,242 |
 | Third Time's a Charm | 6.00% | ~18,242 |
-| The Toast of the Town | 5.00% | ~15,201 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,201 |
-| The Ends Petrify the Means | 5.00% | ~15,201 |
+| The Toast of the Town | 5.00% | ~15,202 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,202 |
+| The Ends Petrify the Means | 5.00% | ~15,202 |
 | Going Through the Potions | 4.00% | ~12,161 |
 | Room with a View | 4.00% | ~12,161 |
 | The Intrepid Explorer | 4.00% | ~12,161 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,128 |
 | Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,029 (Ranked 54)  
+Progressed: 304,030 (Ranked 54)  
 Completed: 524 (0.17%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 524 (0.17%) (Ranked 270)
 | 2023-12-04 | 303,943 | 521 |
 | 2023-12-05 | 303,976 | 521 |
 | 2023-12-06 | 304,019 | 523 |
-| 2023-12-07 | 304,029 | 524 |
+| 2023-12-07 | 304,030 | 524 |
 ## Awards
 Max (Character Customization): 25,000  (Ranked 17)  
 Sum: 50,100 (Ranked 30)  

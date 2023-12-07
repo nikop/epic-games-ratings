@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -818,7 +818,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5375,
+  "EOS_Progressed": 5376,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
@@ -10653,6 +10653,11 @@
       "Time": "2023-12-07T07:05:03.8729286+00:00",
       "NumProgressed": 5375,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-07T08:06:21.5363172+00:00",
+      "NumProgressed": 5376,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10745,7 +10750,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -10777,7 +10782,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -10793,7 +10798,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -10848,15 +10853,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5375,
+      "Progressed": 5376,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-06T15:59:42.180054+00:00",
-  "LastChanged_Achievements": "2023-12-07T07:05:03.8729224+00:00",
+  "LastChanged_Achievements": "2023-12-07T08:06:21.5363169+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-07T06:59:28.6605728+00:00",
-  "LastUpdate_Achievements": "2023-12-07T07:05:03.8729735+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:00:21.4023569+00:00",
+  "LastUpdate_Achievements": "2023-12-07T08:06:21.536395+00:00"
 }

@@ -18,7 +18,7 @@
 | Quick Pit Stop | 19.00% | ~449 |
 | Go-Faster Stripes | 18.00% | ~425 |
 | I'm Here Too! | 16.00% | ~378 |
-| We've Just Begun | 11.00% | ~260 |
+| We've Just Begun | 12.00% | ~284 |
 | Stamina Star | 9.00% | ~213 |
 | Is It the Right Size? | 8.00% | ~189 |
 | Evangelist | 6.00% | ~142 |
@@ -38,8 +38,8 @@
 | I'll Be the Best! | 1.00% | ~24 |
 | Next Level | 1.00% | ~24 |
 | I Don't Stop | 1.00% | ~24 |
+| Exhausted but Happy | 0.70% | ~17 |
 | In Search of Perfection | 0.70% | ~17 |
-| Exhausted but Happy | 0.60% | ~14 |
 | Globe-trotter | 0.50% | ~12 |
 | Maximum Endurance | 0.30% | ~7 |
 | Breathtaking Views | 0.20% | ~5 |
