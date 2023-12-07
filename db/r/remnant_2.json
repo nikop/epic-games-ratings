@@ -5271,9 +5271,9 @@
       "Count": 407
     }
   ],
-  "EOS_Progressed": 236241,
+  "EOS_Progressed": 236253,
   "EOS_Completed": 564,
-  "EOS_NewPlayers": 5408,
+  "EOS_NewPlayers": 5402,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21786,6 +21786,11 @@
       "Time": "2023-12-07T08:09:52.5017531+00:00",
       "NumProgressed": 236241,
       "NumCompleted": 564
+    },
+    {
+      "Time": "2023-12-07T09:08:39.7659142+00:00",
+      "NumProgressed": 236253,
+      "NumCompleted": 564
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21806,7 +21811,7 @@
       "Name": "Crafty",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Defeat_Abberations_A",
@@ -21830,7 +21835,7 @@
       "Name": "Only Human",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Defeat_Corrupted_Ravager",
@@ -21926,7 +21931,7 @@
       "Name": "Red Room",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Discover_Letos_Lab",
@@ -21934,7 +21939,7 @@
       "Name": "The Agenda",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Meet_Custodian",
@@ -22046,7 +22051,7 @@
       "Name": "The Trigger",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Obtain_Melee_Weapons_A",
@@ -22062,7 +22067,7 @@
       "Name": "Cutting Edge",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Obtain_Nightweaver_Item",
@@ -22078,7 +22083,7 @@
       "Name": "The Collector",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Obtain_Scrap_A",
@@ -22102,7 +22107,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "Obtain_Traits_B",
@@ -22118,7 +22123,7 @@
       "Name": "Proving Grounds",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Obtain_Water_Harp_Item",
@@ -22126,7 +22131,7 @@
       "Name": "Carnage in C-Minor",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -22166,7 +22171,7 @@
       "Name": "No One Should Have All That Power",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Upgrade_Traits_A",
@@ -22182,7 +22187,7 @@
       "Name": "Maxed Out!",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Upgrade_Weapon_Mutator",
@@ -22190,7 +22195,7 @@
       "Name": "Transmutate",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "DLC1_Defeat_OneTrueKing",
@@ -22237,13 +22242,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 236241,
+      "Progressed": 236253,
       "Completed": 564
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 15406,
+      "Progressed": 15418,
       "Completed": 201
     }
   ],
@@ -22251,8 +22256,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-07T06:03:07.1768297+00:00",
-  "LastChanged_Achievements": "2023-12-07T08:09:52.5017526+00:00",
+  "LastChanged_Achievements": "2023-12-07T09:08:39.765914+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:03:40.7800178+00:00",
-  "LastUpdate_Achievements": "2023-12-07T08:09:52.5018785+00:00"
+  "LastUpdate_Ratings": "2023-12-07T09:02:59.204045+00:00",
+  "LastUpdate_Achievements": "2023-12-07T09:08:39.7660272+00:00"
 }

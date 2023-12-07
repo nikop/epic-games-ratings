@@ -382,9 +382,9 @@
       "ID": "ach_08_hpFrag3",
       "SetID": "16n29hg",
       "Name": "Muscular Guy",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_09_acidDeath10",
@@ -422,9 +422,9 @@
       "ID": "ach_13_supplyBig10",
       "SetID": "16n29hg",
       "Name": "Treasure Hunter",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_14_squeezeDeath",
@@ -478,9 +478,9 @@
       "ID": "ach_20_elec10",
       "SetID": "16n29hg",
       "Name": "You need electrotherapy",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_21_litStation",
@@ -765,8 +765,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-12-07T08:08:53.1446959+00:00",
+  "LastChanged_Achievements": "2023-12-07T09:07:57.7932466+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.6186571+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:01:03.2076172+00:00",
-  "LastUpdate_Achievements": "2023-12-07T08:08:53.1447295+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:59:37.4675985+00:00",
+  "LastUpdate_Achievements": "2023-12-07T09:07:57.7932779+00:00"
 }

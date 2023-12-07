@@ -6,17 +6,17 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,522 |
-| Skillful | 2.00% | ~21,522 |
-| Zealous | 1.00% | ~10,761 |
-| Not half bad | 1.00% | ~10,761 |
-| Apt Survivor | 1.00% | ~10,761 |
-| Survival Treasures | 1.00% | ~10,761 |
-| I | 1.00% | ~10,761 |
-| Make Some Noise | 1.00% | ~10,761 |
-| Handyman | 0.90% | ~9,685 |
-| Sorted | 0.90% | ~9,685 |
-| Resurgence | 0.90% | ~9,685 |
+| It wakes | 2.00% | ~21,524 |
+| Skillful | 2.00% | ~21,524 |
+| Zealous | 1.00% | ~10,762 |
+| Not half bad | 1.00% | ~10,762 |
+| Apt Survivor | 1.00% | ~10,762 |
+| Survival Treasures | 1.00% | ~10,762 |
+| I | 1.00% | ~10,762 |
+| Make Some Noise | 1.00% | ~10,762 |
+| Handyman | 0.90% | ~9,686 |
+| Sorted | 0.90% | ~9,686 |
+| Resurgence | 0.90% | ~9,686 |
 | The Grand Sacrifice | 0.80% | ~8,609 |
 | No one left behind | 0.80% | ~8,609 |
 | Medic | 0.80% | ~8,609 |
@@ -38,41 +38,41 @@ Number of Ratings: 70,340  (23.09.2022)
 | Vulture | 0.50% | ~5,381 |
 | III | 0.50% | ~5,381 |
 | Lifting The Fog | 0.50% | ~5,381 |
-| Blood on your hands | 0.40% | ~4,304 |
-| Escape Artist | 0.40% | ~4,304 |
-| Gifts for the Fog | 0.40% | ~4,304 |
-| III-50 | 0.40% | ~4,304 |
-| Unforgettable Getaway | 0.40% | ~4,304 |
-| First to the Punch | 0.40% | ~4,304 |
-| Operation: Survival | 0.40% | ~4,304 |
-| Old West Oasis | 0.40% | ~4,304 |
-| Every Last Drop | 0.40% | ~4,304 |
-| Raccoon City Recruit | 0.40% | ~4,304 |
-| With Scars to Show | 0.40% | ~4,304 |
-| Flight to Freedom | 0.40% | ~4,304 |
-| Chorus of Chaos | 0.40% | ~4,304 |
-| Second Act | 0.40% | ~4,304 |
-| Blood on your face | 0.30% | ~3,228 |
-| Made it out alive! | 0.30% | ~3,228 |
-| Nerves of steel | 0.30% | ~3,228 |
-| Shock Therapy | 0.30% | ~3,228 |
-| All Aboard | 0.30% | ~3,228 |
-| Leapfrog | 0.30% | ~3,228 |
-| Item of Obsession | 0.30% | ~3,228 |
-| House of Pain | 0.30% | ~3,228 |
-| Cottage Owner | 0.30% | ~3,228 |
-| Holiday Get-Together | 0.30% | ~3,228 |
-| Near-Death Experience | 0.30% | ~3,228 |
-| Cherish your Life | 0.30% | ~3,228 |
-| Campbell's Chapel Legacy | 0.30% | ~3,228 |
-| Ancestor's Rite | 0.30% | ~3,228 |
-| Cutting Out | 0.30% | ~3,228 |
-| Outrun Evil | 0.30% | ~3,228 |
-| Grim Pilgrimage | 0.30% | ~3,228 |
-| Classy Act | 0.30% | ~3,228 |
-| A Fast Death | 0.30% | ~3,228 |
-| One More Step | 0.30% | ~3,228 |
-| MU/TH/UR Dearest | 0.30% | ~3,228 |
+| Blood on your hands | 0.40% | ~4,305 |
+| Escape Artist | 0.40% | ~4,305 |
+| Gifts for the Fog | 0.40% | ~4,305 |
+| III-50 | 0.40% | ~4,305 |
+| Unforgettable Getaway | 0.40% | ~4,305 |
+| First to the Punch | 0.40% | ~4,305 |
+| Operation: Survival | 0.40% | ~4,305 |
+| Old West Oasis | 0.40% | ~4,305 |
+| Every Last Drop | 0.40% | ~4,305 |
+| Raccoon City Recruit | 0.40% | ~4,305 |
+| With Scars to Show | 0.40% | ~4,305 |
+| Flight to Freedom | 0.40% | ~4,305 |
+| Chorus of Chaos | 0.40% | ~4,305 |
+| Second Act | 0.40% | ~4,305 |
+| Blood on your face | 0.30% | ~3,229 |
+| Made it out alive! | 0.30% | ~3,229 |
+| Nerves of steel | 0.30% | ~3,229 |
+| Shock Therapy | 0.30% | ~3,229 |
+| All Aboard | 0.30% | ~3,229 |
+| Leapfrog | 0.30% | ~3,229 |
+| Item of Obsession | 0.30% | ~3,229 |
+| House of Pain | 0.30% | ~3,229 |
+| Cottage Owner | 0.30% | ~3,229 |
+| Holiday Get-Together | 0.30% | ~3,229 |
+| Near-Death Experience | 0.30% | ~3,229 |
+| Cherish your Life | 0.30% | ~3,229 |
+| Campbell's Chapel Legacy | 0.30% | ~3,229 |
+| Ancestor's Rite | 0.30% | ~3,229 |
+| Cutting Out | 0.30% | ~3,229 |
+| Outrun Evil | 0.30% | ~3,229 |
+| Grim Pilgrimage | 0.30% | ~3,229 |
+| Classy Act | 0.30% | ~3,229 |
+| A Fast Death | 0.30% | ~3,229 |
+| One More Step | 0.30% | ~3,229 |
+| MU/TH/UR Dearest | 0.30% | ~3,229 |
 | A bite for the Entity | 0.20% | ~2,152 |
 | Blood in your mouth | 0.20% | ~2,152 |
 | Jump Scares | 0.20% | ~2,152 |
@@ -85,6 +85,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Party Crasher | 0.20% | ~2,152 |
 | Whiffing to Success | 0.20% | ~2,152 |
 | Outrage | 0.20% | ~2,152 |
+| Heavy Burden | 0.20% | ~2,152 |
 | Devoted Gatekeeping | 0.20% | ~2,152 |
 | Shrine Apparatus | 0.20% | ~2,152 |
 | Broken Bodies | 0.20% | ~2,152 |
@@ -150,7 +151,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Spirit | 0.10% | ~1,076 |
 | Not Today | 0.10% | ~1,076 |
 | Adept Adam | 0.10% | ~1,076 |
-| Heavy Burden | 0.10% | ~1,076 |
 | Deranged Pursuit | 0.10% | ~1,076 |
 | Adept Legion | 0.10% | ~1,076 |
 | Dismantle | 0.10% | ~1,076 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,076 |
 | Adept Good Guy | 0.10% | ~1,076 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,076,111 (Ranked 14)  
+Progressed: 1,076,181 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -470,7 +470,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
-| 2023-12-07 | 1,076,111 | 61 |
+| 2023-12-07 | 1,076,181 | 61 |
 ## Awards
 Max (Diverse Characters): 37,449  (Ranked 15)  
 Sum: 283,978 (Ranked 12)  

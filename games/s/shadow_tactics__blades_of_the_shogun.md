@@ -6,29 +6,29 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,140 |
+| Genin | 12.00% | ~26,141 |
 | A thief's beginning | 10.00% | ~21,784 |
 | Thorough | 10.00% | ~21,784 |
-| Disguised | 9.00% | ~19,605 |
-| Rollin' | 9.00% | ~19,605 |
-| Tanuki Time | 9.00% | ~19,605 |
-| Rescue Takuma | 8.00% | ~17,427 |
-| Stoned Ox | 8.00% | ~17,427 |
+| Disguised | 9.00% | ~19,606 |
+| Rollin' | 9.00% | ~19,606 |
+| Tanuki Time | 9.00% | ~19,606 |
+| Rescue Takuma | 8.00% | ~17,428 |
+| Stoned Ox | 8.00% | ~17,428 |
 | Happy Planning | 7.00% | ~15,249 |
 | Ice Ice Yuki | 7.00% | ~15,249 |
 | Jonin | 7.00% | ~15,249 |
 | Yabu | 7.00% | ~15,249 |
-| Chunin | 6.00% | ~13,070 |
-| Flying Rocks | 6.00% | ~13,070 |
-| Mugen Unchained | 6.00% | ~13,070 |
-| Warzone | 6.00% | ~13,070 |
+| Chunin | 6.00% | ~13,071 |
+| Flying Rocks | 6.00% | ~13,071 |
+| Mugen Unchained | 6.00% | ~13,071 |
+| Warzone | 6.00% | ~13,071 |
 | Okkoto | 5.00% | ~10,892 |
 | Prisoners | 5.00% | ~10,892 |
 | Too Early | 5.00% | ~10,892 |
-| Gear up | 4.00% | ~8,713 |
-| Happy little accidents | 4.00% | ~8,713 |
-| Noboru | 4.00% | ~8,713 |
-| Still Rollin' | 4.00% | ~8,713 |
+| Gear up | 4.00% | ~8,714 |
+| Happy little accidents | 4.00% | ~8,714 |
+| Noboru | 4.00% | ~8,714 |
+| Still Rollin' | 4.00% | ~8,714 |
 | It's raining men | 3.00% | ~6,535 |
 | Stoned | 3.00% | ~6,535 |
 | The Old Way | 3.00% | ~6,535 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~218 |
 | Release the Kraken | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,837 (Ranked 72)  
+Progressed: 217,844 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,10 +282,10 @@ Completed: 100 (0.05%) (Ranked 321)
 | 2023-12-04 | 217,501 | 100 |
 | 2023-12-05 | 217,635 | 100 |
 | 2023-12-06 | 217,790 | 100 |
-| 2023-12-07 | 217,837 | 100 |
+| 2023-12-07 | 217,844 | 100 |
 ## Awards
 Max (Great for Beginners): 581  (Ranked 201)  
-Sum: 4,896 (Ranked 144)  
+Sum: 4,897 (Ranked 144)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -293,7 +293,7 @@ Diff (max vs sum): 57
 | This game has Diverse Characters | 543 |
 | This game is Extremely Fun | 539 |
 | This game has Amazing Storytelling | 520 |
-| This game has Amazing Characters | 506 |
+| This game has Amazing Characters | 507 |
 | This game is Relaxing | 499 |
 | This game has Challenging Combat | 497 |
 | This game is Highly Recommended | 496 |
@@ -533,3 +533,4 @@ Diff (max vs sum): 57
 | 2023-12-03 | 4.67 | - | 580 | 4,893 |
 | 2023-12-04 | 4.67 | - | 581 | 4,895 |
 | 2023-12-05 | 4.67 | - | 581 | 4,896 |
+| 2023-12-07 | 4.67 | - | 581 | 4,897 |

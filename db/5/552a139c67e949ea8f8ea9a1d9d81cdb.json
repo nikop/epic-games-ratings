@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1278,
+  "EOS_Progressed": 1280,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2912,6 +2912,11 @@
       "Time": "2023-12-07T07:04:05.881382+00:00",
       "NumProgressed": 1278,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T09:04:00.6385269+00:00",
+      "NumProgressed": 1280,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2924,7 +2929,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2956,7 +2961,7 @@
       "Name": "Like lightning!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -2988,7 +2993,7 @@
       "Name": "Masterful!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -3052,7 +3057,7 @@
       "Name": "Solo",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -3066,9 +3071,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 499
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -3076,7 +3081,7 @@
       "Name": "Challenge accepted!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -3084,7 +3089,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -3164,7 +3169,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -3180,7 +3185,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -3188,7 +3193,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -3196,7 +3201,7 @@
       "Name": "Extra gear",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -3260,27 +3265,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1278,
+      "Progressed": 1280,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 946,
-      "Completed": 946
+      "Progressed": 948,
+      "Completed": 948
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-07T08:05:06.5185+00:00",
+  "LastChanged_Achievements": "2023-12-07T09:04:00.6385264+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:57:05.8729105+00:00",
-  "LastUpdate_Ratings": "2023-12-07T07:57:53.6108413+00:00",
-  "LastUpdate_Achievements": "2023-12-07T08:05:06.518548+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:57:30.1510114+00:00",
+  "LastUpdate_Achievements": "2023-12-07T09:04:00.6385706+00:00"
 }

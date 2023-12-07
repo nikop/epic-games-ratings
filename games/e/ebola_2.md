@@ -18,9 +18,9 @@
 | Master of Unlocking ✔ | 1.00% | ~3 |
 | Saved the planet ✔ | 1.00% | ~3 |
 | Recruit ✔ | 0.70% | ~2 |
+| Angel ✔ | 0.30% | ~1 |
 | Seeker ✔ | 0.00% | ~0 |
 | Hardcore ✔ | 0.00% | ~0 |
-| Angel ✔ | 0.00% | ~0 |
 | King of survival ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 297 (Ranked 360)  

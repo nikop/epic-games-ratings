@@ -4,7 +4,7 @@
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246,
+  "EOS_Progressed": 247,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.63,
+  "EOS_Completed_Percentage": 1.62,
   "EosHistory": [
     {
       "Time": "2023-05-25T20:00:56.6664784+00:00",
@@ -1164,6 +1164,11 @@
       "Time": "2023-12-03T14:04:41.1955699+00:00",
       "NumProgressed": 246,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-07T09:06:02.4500128+00:00",
+      "NumProgressed": 247,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 18,
@@ -1175,7 +1180,7 @@
       "Name": "Are you still Alive?",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_DIE",
@@ -1213,9 +1218,9 @@
       "ID": "ACH_FRIEND",
       "SetID": "c2kf3nm",
       "Name": "NO ONE CAN HEAR YOU SCREAM",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_GET_IN",
@@ -1223,7 +1228,7 @@
       "Name": "Lab Rat",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_GET_OUT",
@@ -1247,7 +1252,7 @@
       "Name": "GET THE HANG OF IT",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_HOUND",
@@ -1311,21 +1316,21 @@
       "Name": "Why are you running?!",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 246,
+      "Progressed": 247,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-12-07T08:07:57.1315947+00:00",
+  "LastChanged_Achievements": "2023-12-07T09:06:02.4500126+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.3983068+00:00",
-  "LastUpdate_Ratings": "2023-12-07T07:58:01.1653684+00:00",
-  "LastUpdate_Achievements": "2023-12-07T08:07:57.1316107+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:57:35.2495+00:00",
+  "LastUpdate_Achievements": "2023-12-07T09:06:02.4500352+00:00"
 }

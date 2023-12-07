@@ -30,10 +30,10 @@
 | The Cathedral of Light | 44.00% | ~233 |
 | Dungeonlord Gorgu | 43.00% | ~228 |
 | Mana Cannon | 41.00% | ~217 |
-| Tanos' Crusade Against Thalya | 40.00% | ~212 |
+| Tanos' Crusade Against Thalya | 41.00% | ~217 |
 | All’s Well That Ends Evil | 35.00% | ~186 |
 | Unstoppable Horde | 32.00% | ~170 |
-| Master of the Undead | 31.00% | ~164 |
+| Master of the Undead | 32.00% | ~170 |
 | The Duel | 31.00% | ~164 |
 | If Looks Could Kill | 28.00% | ~148 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~143 |
@@ -61,8 +61,8 @@
 | Evilification | 11.00% | ~58 |
 | Laser Eyes Are So Useless | 10.00% | ~53 |
 | Heal Heal Blessing | 9.00% | ~48 |
+| Hands Off My Stones | 9.00% | ~48 |
 | Gorgu is in the Best of Health | 8.00% | ~42 |
-| Hands Off My Stones | 8.00% | ~42 |
 | No Mana, No Cry | 7.00% | ~37 |
 | I Don't Need Any Help | 5.00% | ~26 |
 ## Popularity (Based on EOS Achievements)

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 29,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -161,10 +161,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64225,
-  "EOS_Completed": 59,
+  "EOS_Progressed": 64240,
+  "EOS_Completed": 60,
   "EOS_NewPlayers": 3664,
-  "EOS_NewCompleters": 18,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
@@ -2631,6 +2631,11 @@
       "Time": "2023-12-07T08:06:04.225734+00:00",
       "NumProgressed": 64225,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-12-07T09:04:41.9082735+00:00",
+      "NumProgressed": 64240,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2643,7 +2648,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 23763
+      "UsersEstimate": 23769
     },
     {
       "ID": "Achievement_10",
@@ -2683,7 +2688,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "Achievement_15",
@@ -2731,7 +2736,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17341
+      "UsersEstimate": 17345
     },
     {
       "ID": "Achievement_20",
@@ -2755,7 +2760,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "Achievement_23",
@@ -2819,7 +2824,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7707
+      "UsersEstimate": 7709
     },
     {
       "ID": "Achievement_30",
@@ -2867,7 +2872,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5138
+      "UsersEstimate": 5139
     },
     {
       "ID": "Achievement_5",
@@ -2891,7 +2896,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "Achievement_8",
@@ -2899,7 +2904,7 @@
       "Name": "House In Order",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "Achievement_9",
@@ -2914,16 +2919,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 64225,
-      "Completed": 59
+      "Progressed": 64240,
+      "Completed": 60
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-05T13:09:40.3184633+00:00",
-  "LastChanged_Achievements": "2023-12-07T08:06:04.2257337+00:00",
+  "LastChanged_Achievements": "2023-12-07T09:04:41.9082732+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:03:15.0842163+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:03:18.2998101+00:00",
-  "LastUpdate_Achievements": "2023-12-07T08:06:04.2257843+00:00"
+  "LastUpdate_Ratings": "2023-12-07T09:02:44.0781048+00:00",
+  "LastUpdate_Achievements": "2023-12-07T09:04:41.9083254+00:00"
 }

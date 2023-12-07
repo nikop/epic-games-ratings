@@ -22,7 +22,7 @@
 | Champollion | 19.00% | ~169 |
 | Open door | 17.00% | ~151 |
 | Feels like springtime | 17.00% | ~151 |
-| Alchemists Express | 16.00% | ~142 |
+| Alchemists Express | 17.00% | ~151 |
 | Free at last | 14.00% | ~125 |
 | Rascal | 14.00% | ~125 |
 | A Link to the Past | 13.00% | ~116 |

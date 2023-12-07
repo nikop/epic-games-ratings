@@ -4,7 +4,7 @@
   "ProductSlug": "true-hate-007027",
   "Ranking_EOS_Progress": 786,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewPlayers": 464,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-10-14T21:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.8395906+00:00",
   "LastChanged": "2023-03-31T05:58:42.8395907+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:39.5446333+00:00",
-  "LastUpdate_Ratings": "2023-12-07T07:59:43.0601103+00:00",
-  "LastUpdate_Achievements": "2023-12-07T08:05:48.8782017+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:58:43.884407+00:00",
+  "LastUpdate_Achievements": "2023-12-07T09:04:30.9509174+00:00"
 }

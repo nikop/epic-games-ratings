@@ -24,13 +24,13 @@
 | The art of movement | 12.00% | ~13 |
 | A new way | 11.00% | ~12 |
 | First steps | 11.00% | ~12 |
+| True Reflection | 11.00% | ~12 |
 | Breaking free | 10.00% | ~11 |
 | Sound Bite | 10.00% | ~11 |
 | Lights! Camera! Action! | 10.00% | ~11 |
-| True Reflection | 10.00% | ~11 |
 | Another perspective | 9.00% | ~10 |
+| Casting Finished | 8.00% | ~8 |
 | Heavy Burden | 8.00% | ~8 |
-| Casting Finished | 7.00% | ~7 |
 | We Are Not Alone | 6.00% | ~6 |
 | Fisherman | 6.00% | ~6 |
 | Body of Work | 4.00% | ~4 |

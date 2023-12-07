@@ -6,15 +6,15 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~16,357 |
-| Student | 22.00% | ~12,852 |
-| Knower | 16.00% | ~9,347 |
-| Listener | 15.00% | ~8,763 |
+| Initiation | 28.00% | ~16,359 |
+| Student | 22.00% | ~12,853 |
+| Knower | 16.00% | ~9,348 |
+| Listener | 15.00% | ~8,764 |
 | Aspen Tree | 14.00% | ~8,179 |
 | Healer | 14.00% | ~8,179 |
-| Soldier | 12.00% | ~7,010 |
-| Cow Level | 11.00% | ~6,426 |
-| Scientist | 11.00% | ~6,426 |
+| Soldier | 12.00% | ~7,011 |
+| Cow Level | 11.00% | ~6,427 |
+| Scientist | 11.00% | ~6,427 |
 | Herbalist | 10.00% | ~5,842 |
 | Water | 10.00% | ~5,842 |
 | Old Friend | 9.00% | ~5,258 |
@@ -26,14 +26,14 @@ Number of Ratings: 96  (23.09.2022)
 | Dead Friend | 8.00% | ~4,674 |
 | Pine Tree | 8.00% | ~4,674 |
 | Collector | 8.00% | ~4,674 |
-| Worthy | 7.00% | ~4,089 |
-| Black Book | 7.00% | ~4,089 |
-| Black Sorcerer | 7.00% | ~4,089 |
-| Dead Man | 7.00% | ~4,089 |
-| Fern | 7.00% | ~4,089 |
-| 100 Friends | 7.00% | ~4,089 |
-| Researcher | 7.00% | ~4,089 |
-| Savvy | 7.00% | ~4,089 |
+| Worthy | 7.00% | ~4,090 |
+| Black Book | 7.00% | ~4,090 |
+| Black Sorcerer | 7.00% | ~4,090 |
+| Dead Man | 7.00% | ~4,090 |
+| Fern | 7.00% | ~4,090 |
+| 100 Friends | 7.00% | ~4,090 |
+| Researcher | 7.00% | ~4,090 |
+| Savvy | 7.00% | ~4,090 |
 | Encyclopedist | 6.00% | ~3,505 |
 | Witch | 6.00% | ~3,505 |
 | Old Spirits | 6.00% | ~3,505 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,168 |
 | Word Master | 0.20% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,419 (Ranked 108)  
+Progressed: 58,424 (Ranked 108)  
 Completed: 57 (0.10%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 57 (0.10%) (Ranked 290)
 | 2023-12-04 | 58,011 | 57 |
 | 2023-12-05 | 58,172 | 57 |
 | 2023-12-06 | 58,365 | 57 |
-| 2023-12-07 | 58,419 | 57 |
+| 2023-12-07 | 58,424 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -9081,7 +9081,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 811430,
+  "EOS_Progressed": 811434,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 942,
   "EOS_NewCompleters": 0,
@@ -35051,6 +35051,11 @@
       "Time": "2023-12-07T08:10:01.4179141+00:00",
       "NumProgressed": 811430,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-07T09:08:46.0559948+00:00",
+      "NumProgressed": 811434,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -35094,7 +35099,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 170400
+      "UsersEstimate": 170401
     },
     {
       "ID": "BadGirl",
@@ -35142,7 +35147,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 259658
+      "UsersEstimate": 259659
     },
     {
       "ID": "Bookworm",
@@ -35150,7 +35155,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121714
+      "UsersEstimate": 121715
     },
     {
       "ID": "Buddy",
@@ -35262,7 +35267,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186629
+      "UsersEstimate": 186630
     },
     {
       "ID": "Fighter",
@@ -35542,7 +35547,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162286
+      "UsersEstimate": 162287
     },
     {
       "ID": "RevenantOfLedechko",
@@ -35582,7 +35587,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162286
+      "UsersEstimate": 162287
     },
     {
       "ID": "SerialKiller",
@@ -35598,7 +35603,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89257
+      "UsersEstimate": 89258
     },
     {
       "ID": "Sniper",
@@ -35670,7 +35675,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89257
+      "UsersEstimate": 89258
     },
     {
       "ID": "TrialAndError",
@@ -35717,15 +35722,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 811430,
+      "Progressed": 811434,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-07T01:47:19.4150711+00:00",
-  "LastChanged_Achievements": "2023-12-07T08:10:01.4179138+00:00",
+  "LastChanged_Achievements": "2023-12-07T09:08:46.0559946+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.1153377+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:01:02.0991062+00:00",
-  "LastUpdate_Achievements": "2023-12-07T08:10:01.4181272+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:59:36.7224851+00:00",
+  "LastUpdate_Achievements": "2023-12-07T09:08:46.0561483+00:00"
 }

@@ -2615,7 +2615,7 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 25011,
+  "EOS_Progressed": 25014,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1287,
   "EOS_NewCompleters": 0,
@@ -12075,6 +12075,11 @@
       "Time": "2023-12-07T08:09:30.8665663+00:00",
       "NumProgressed": 25011,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T09:08:24.5686505+00:00",
+      "NumProgressed": 25014,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -12111,7 +12116,7 @@
       "Name": "Merchant of doom",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "Achievement_Trophy05",
@@ -12127,7 +12132,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "Achievement_Trophy07",
@@ -12271,7 +12276,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10255
+      "UsersEstimate": 10256
     },
     {
       "ID": "Achievement_Trophy25",
@@ -12279,7 +12284,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "Achievement_Trophy26",
@@ -12287,7 +12292,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8504
+      "UsersEstimate": 8505
     },
     {
       "ID": "Achievement_Trophy27",
@@ -12303,7 +12308,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 8254
+      "UsersEstimate": 8255
     },
     {
       "ID": "Achievement_Trophy29",
@@ -12319,7 +12324,7 @@
       "Name": "Spread the plague",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7253
+      "UsersEstimate": 7254
     },
     {
       "ID": "Achievement_Trophy31",
@@ -12327,7 +12332,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7753
+      "UsersEstimate": 7754
     },
     {
       "ID": "Achievement_Trophy32",
@@ -12351,7 +12356,7 @@
       "Name": "Augmented rat",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "Achievement_Trophy35",
@@ -12375,7 +12380,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6253
+      "UsersEstimate": 6254
     },
     {
       "ID": "Achievement_Trophy38",
@@ -12391,7 +12396,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4753
     },
     {
       "ID": "Achievement_Trophy40",
@@ -12407,7 +12412,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "Achievement_Trophy42",
@@ -12463,7 +12468,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "Achievement_Trophy49",
@@ -12574,7 +12579,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 25011,
+      "Progressed": 25014,
       "Completed": 1
     }
   ],
@@ -12582,8 +12587,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-06T19:01:19.4213962+00:00",
-  "LastChanged_Achievements": "2023-12-07T08:09:30.8665658+00:00",
+  "LastChanged_Achievements": "2023-12-07T09:08:24.5686502+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.3646909+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:01:42.1060676+00:00",
-  "LastUpdate_Achievements": "2023-12-07T08:09:30.8666382+00:00"
+  "LastUpdate_Ratings": "2023-12-07T09:00:03.6843545+00:00",
+  "LastUpdate_Achievements": "2023-12-07T09:08:24.5687387+00:00"
 }

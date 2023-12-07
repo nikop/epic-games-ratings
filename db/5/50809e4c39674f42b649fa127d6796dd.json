@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 428,
+  "EOS_Progressed": 429,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1047,6 +1047,11 @@
       "Time": "2023-12-07T02:28:33.6830429+00:00",
       "NumProgressed": 428,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T09:03:54.8887765+00:00",
+      "NumProgressed": 429,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1073,9 +1078,9 @@
       "ID": "CHALLENGE_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ares Island Explorer",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND3",
@@ -1097,9 +1102,9 @@
       "ID": "DEFENCE_LEVEL_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hardened Hedgehog",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "ENEMY_DEFEATED_ALL",
@@ -1187,7 +1192,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1203,7 +1208,7 @@
       "Name": "Koco Leader",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1251,7 +1256,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1371,21 +1376,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 428,
+      "Progressed": 429,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-07T08:04:58.3128558+00:00",
+  "LastChanged_Achievements": "2023-12-07T09:03:54.8887764+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:03:20.9983322+00:00",
-  "LastUpdate_Achievements": "2023-12-07T08:04:58.3128854+00:00"
+  "LastUpdate_Ratings": "2023-12-07T09:02:46.012072+00:00",
+  "LastUpdate_Achievements": "2023-12-07T09:03:54.8888043+00:00"
 }

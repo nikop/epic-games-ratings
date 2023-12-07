@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58125,
+  "EOS_Progressed": 58126,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -13686,6 +13686,11 @@
       "Time": "2023-12-07T06:04:46.9838994+00:00",
       "NumProgressed": 58125,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-07T09:04:44.6394596+00:00",
+      "NumProgressed": 58126,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -13705,7 +13710,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "BoomBox",
@@ -13713,7 +13718,7 @@
       "Name": "Boom Box Baby",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "BoomBoxWipeout",
@@ -13777,7 +13782,7 @@
       "Name": "Flying Present Ultimate Master",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "FoodTaster",
@@ -13817,7 +13822,7 @@
       "Name": "Ridiculously Generous",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "GetThemAll",
@@ -13849,7 +13854,7 @@
       "Name": "Harsh Love",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "HiFive",
@@ -13905,7 +13910,7 @@
       "Name": "Made It Through",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Money",
@@ -13953,7 +13958,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "RhythmStar",
@@ -13977,7 +13982,7 @@
       "Name": "I\u0027m A Total Saint",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "SantasBag",
@@ -13993,7 +13998,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "StruckLove",
@@ -14088,7 +14093,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58125,
+      "Progressed": 58126,
       "Completed": 6
     }
   ],
@@ -14096,8 +14101,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-07T08:06:08.0549068+00:00",
+  "LastChanged_Achievements": "2023-12-07T09:04:44.6394595+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:50.6046974+00:00",
-  "LastUpdate_Ratings": "2023-12-07T07:57:28.8967282+00:00",
-  "LastUpdate_Achievements": "2023-12-07T08:06:08.0550092+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:57:13.8467689+00:00",
+  "LastUpdate_Achievements": "2023-12-07T09:04:44.6395385+00:00"
 }

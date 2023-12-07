@@ -2,12 +2,12 @@
   "ID": "dda64c2956b54f1ba3cd97f6aaee775f",
   "Name": "Total War: WARHAMMER III",
   "ProductSlug": "total-war-warhammer-3",
-  "Ranking_Rating": 198,
+  "Ranking_Rating": 214,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 786,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewPlayers": 464,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-02-17T06:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.71,
+  "Rating": 4.7,
   "NumberOfRatings": 882,
   "RatingHistory": [
     {
@@ -8840,10 +8840,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 7974,
       "NumberOfAwardsMax": 2141
+    },
+    {
+      "Time": "2023-12-07T09:02:31.8401902+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 7976,
+      "NumberOfAwardsMax": 2141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7974,
+  "NumberOfAwards": 7976,
   "NumberOfAwardsMax": 2141,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8863,7 +8869,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 533
+      "Count": 535
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8937,8 +8943,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-12-07T05:02:45.8259004+00:00",
+  "LastChanged": "2023-12-07T09:02:31.84019+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.7410818+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:02:59.5585003+00:00",
-  "LastUpdate_Achievements": "2023-12-07T08:08:40.6515016+00:00"
+  "LastUpdate_Ratings": "2023-12-07T09:02:31.8401905+00:00",
+  "LastUpdate_Achievements": "2023-12-07T09:06:19.2283535+00:00"
 }

@@ -10,10 +10,10 @@ Number of Ratings: 1,316  (23.09.2022)
 | Exploitative | 4.00% | ~19,919 |
 | Point Shooting | 4.00% | ~19,919 |
 | Wet Feet | 4.00% | ~19,919 |
-| High Speed Low Drag | 3.00% | ~14,939 |
-| Lucky | 3.00% | ~14,939 |
-| Stylin' | 3.00% | ~14,939 |
-| Turf War | 3.00% | ~14,939 |
+| High Speed Low Drag | 3.00% | ~14,940 |
+| Lucky | 3.00% | ~14,940 |
+| Stylin' | 3.00% | ~14,940 |
+| Turf War | 3.00% | ~14,940 |
 | Banged | 2.00% | ~9,960 |
 | Checkpoint Victory | 2.00% | ~9,960 |
 | First Blood | 2.00% | ~9,960 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~498 |
 | Road Hazard | 0.10% | ~498 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497,976 (Ranked 37)  
+Progressed: 497,984 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,22 +273,22 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-04 | 497,118 | 2 |
 | 2023-12-05 | 497,499 | 2 |
 | 2023-12-06 | 497,840 | 2 |
-| 2023-12-07 | 497,976 | 2 |
+| 2023-12-07 | 497,984 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 403  (Ranked 233)  
-Sum: 3,207 (Ranked 175)  
-Diff (max vs sum): 58  
+Sum: 3,211 (Ranked 174)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 403 |
-| This game has Challenging Combat | 392 |
+| This game has Challenging Combat | 394 |
 | This game is Extremely Fun | 370 |
 | This game has Competitive Players | 368 |
 | This game is Highly Recommended | 355 |
 | This game has Realistic Visuals | 342 |
 | This game has Amazing Characters | 340 |
 | This game has Amazing Storytelling | 333 |
-| This game has a Competitive Community | 304 |
+| This game has a Competitive Community | 306 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -595,3 +595,4 @@ Diff (max vs sum): 58
 | 2023-12-04 | 4.61 | - | 402 | 3,202 |
 | 2023-12-05 | 4.61 | - | 402 | 3,206 |
 | 2023-12-06 | 4.61 | - | 403 | 3,207 |
+| 2023-12-07 | 4.61 | - | 403 | 3,211 |

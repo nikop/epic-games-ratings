@@ -205,9 +205,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8325,
+  "EOS_Progressed": 8326,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8145,6 +8145,11 @@
       "Time": "2023-12-07T05:09:55.383969+00:00",
       "NumProgressed": 8325,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T09:09:18.4723252+00:00",
+      "NumProgressed": 8326,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8157,7 +8162,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5994
+      "UsersEstimate": 5995
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -8173,7 +8178,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3080
+      "UsersEstimate": 3081
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -8181,7 +8186,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2830
+      "UsersEstimate": 2831
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -8261,7 +8266,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4079
+      "UsersEstimate": 4080
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -8293,7 +8298,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3496
+      "UsersEstimate": 3497
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -8309,7 +8314,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -8413,7 +8418,7 @@
       "Name": "Captain of Cozy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "UPGRADE_HOUSEMAX",
@@ -8436,22 +8441,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8325,
+      "Progressed": 8326,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 942,
-      "Completed": 942
+      "Progressed": 943,
+      "Completed": 943
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-04T18:02:55.9509642+00:00",
-  "LastChanged_Achievements": "2023-12-07T08:10:46.8822464+00:00",
+  "LastChanged_Achievements": "2023-12-07T09:09:18.472325+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:03:31.1638378+00:00",
-  "LastUpdate_Achievements": "2023-12-07T08:10:46.8823007+00:00"
+  "LastUpdate_Ratings": "2023-12-07T09:02:52.8154912+00:00",
+  "LastUpdate_Achievements": "2023-12-07T09:09:18.4723706+00:00"
 }

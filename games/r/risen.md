@@ -30,9 +30,9 @@ Rating: 4.58 (Ranked 449)
 | Little hero | 24.00% | ~15 |
 | Pandora's box | 24.00% | ~15 |
 | Peacekeeper | 23.00% | ~14 |
+| Defender | 21.00% | ~13 |
 | Ghost hunter | 21.00% | ~13 |
 | Sidelined | 21.00% | ~13 |
-| Defender | 19.00% | ~12 |
 | Workaholic | 19.00% | ~12 |
 | Fence | 18.00% | ~11 |
 | Showdown | 16.00% | ~10 |

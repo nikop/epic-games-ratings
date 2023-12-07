@@ -282,9 +282,9 @@
       "ID": "ACH_PHYSIOLOGUS",
       "SetID": "6lg1p1e",
       "Name": "Physiologus",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_PRIVATE-EYE",
@@ -376,8 +376,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-07T08:05:41.2662419+00:00",
+  "LastChanged_Achievements": "2023-12-07T09:04:25.5513237+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.6928375+00:00",
-  "LastUpdate_Ratings": "2023-12-07T08:01:32.2485213+00:00",
-  "LastUpdate_Achievements": "2023-12-07T08:05:41.2662652+00:00"
+  "LastUpdate_Ratings": "2023-12-07T08:59:57.118292+00:00",
+  "LastUpdate_Achievements": "2023-12-07T09:04:25.5513527+00:00"
 }
