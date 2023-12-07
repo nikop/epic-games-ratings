@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -531,9 +531,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5574,
+  "EOS_Progressed": 5575,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7811,6 +7811,11 @@
       "Time": "2023-12-07T19:08:12.3001432+00:00",
       "NumProgressed": 5574,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-07T23:08:03.2692636+00:00",
+      "NumProgressed": 5575,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7822,7 +7827,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "10",
@@ -7884,9 +7889,9 @@
       "ID": "17",
       "SetID": "3aa2279",
       "Name": "Lord of Chaos",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 45
     },
     {
       "ID": "18",
@@ -7910,7 +7915,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "20",
@@ -7990,7 +7995,7 @@
       "Name": "Stronger Together",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "3",
@@ -8014,7 +8019,7 @@
       "Name": "Magical Synergy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "32",
@@ -8030,7 +8035,7 @@
       "Name": "Seat of Power",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "34",
@@ -8038,7 +8043,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "35",
@@ -8078,7 +8083,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "4",
@@ -8094,7 +8099,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "41",
@@ -8182,7 +8187,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "47",
@@ -8222,7 +8227,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "52",
@@ -8230,7 +8235,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "53",
@@ -8246,7 +8251,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "55",
@@ -8301,13 +8306,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5574,
+      "Progressed": 5575,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5574,
+      "Progressed": 5575,
       "Completed": 7
     }
   ],
@@ -8315,8 +8320,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-06T20:59:41.9235777+00:00",
-  "LastChanged_Achievements": "2023-12-07T22:08:04.199183+00:00",
+  "LastChanged_Achievements": "2023-12-07T23:08:03.2692631+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:28.1716609+00:00",
-  "LastUpdate_Ratings": "2023-12-07T22:02:28.4884327+00:00",
-  "LastUpdate_Achievements": "2023-12-07T22:08:04.1992615+00:00"
+  "LastUpdate_Ratings": "2023-12-07T23:00:24.2401742+00:00",
+  "LastUpdate_Achievements": "2023-12-07T23:08:03.2693265+00:00"
 }

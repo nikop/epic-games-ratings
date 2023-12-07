@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -984,9 +984,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228831,
+  "EOS_Progressed": 228833,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26279,6 +26279,11 @@
       "Time": "2023-12-07T22:09:59.6455155+00:00",
       "NumProgressed": 228831,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-07T23:09:26.1478914+00:00",
+      "NumProgressed": 228833,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -26290,7 +26295,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45766
+      "UsersEstimate": 45767
     },
     {
       "ID": "ACH_BASE_10",
@@ -26298,7 +26303,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59496
+      "UsersEstimate": 59497
     },
     {
       "ID": "ACH_BASE_11",
@@ -26561,7 +26566,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228831,
+      "Progressed": 228833,
       "Completed": 5
     }
   ],
@@ -26569,8 +26574,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-07T15:57:59.934317+00:00",
-  "LastChanged_Achievements": "2023-12-07T22:09:59.6455149+00:00",
+  "LastChanged_Achievements": "2023-12-07T23:09:26.1478912+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.7221977+00:00",
-  "LastUpdate_Ratings": "2023-12-07T21:58:27.5152927+00:00",
-  "LastUpdate_Achievements": "2023-12-07T22:09:59.6456442+00:00"
+  "LastUpdate_Ratings": "2023-12-07T22:58:05.5809834+00:00",
+  "LastUpdate_Achievements": "2023-12-07T23:09:26.1479946+00:00"
 }

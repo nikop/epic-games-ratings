@@ -14,18 +14,18 @@ Rating: 4.61 (Ranked 388)
 | Full Ascension | 3.00% | ~167 |
 | Bone Peddler | 3.00% | ~167 |
 | From Friends to Family | 3.00% | ~167 |
-| Valley of Wonders | 2.00% | ~111 |
-| Enchanted Archipelago | 2.00% | ~111 |
-| Stronger Together | 2.00% | ~111 |
-| Magical Synergy | 2.00% | ~111 |
-| Seat of Power | 2.00% | ~111 |
-| In a Liege of Your Own | 2.00% | ~111 |
-| Impenetrable Fortress | 2.00% | ~111 |
-| Intimidation Tactics | 2.00% | ~111 |
-| Tipping the Scales | 2.00% | ~111 |
-| Freed Lands of Manuhari | 2.00% | ~111 |
-| Sehiran Oasis | 2.00% | ~111 |
-| Chaos Surge | 2.00% | ~111 |
+| Valley of Wonders | 2.00% | ~112 |
+| Enchanted Archipelago | 2.00% | ~112 |
+| Stronger Together | 2.00% | ~112 |
+| Magical Synergy | 2.00% | ~112 |
+| Seat of Power | 2.00% | ~112 |
+| In a Liege of Your Own | 2.00% | ~112 |
+| Impenetrable Fortress | 2.00% | ~112 |
+| Intimidation Tactics | 2.00% | ~112 |
+| Tipping the Scales | 2.00% | ~112 |
+| Freed Lands of Manuhari | 2.00% | ~112 |
+| Sehiran Oasis | 2.00% | ~112 |
+| Chaos Surge | 2.00% | ~112 |
 | Return of the Wizard King | 1.00% | ~56 |
 | Arch Mage | 1.00% | ~56 |
 | Digging for Treasure | 1.00% | ~56 |
@@ -41,9 +41,9 @@ Rating: 4.61 (Ranked 388)
 | Spoils of War | 1.00% | ~56 |
 | Dawn of the Dread | 1.00% | ~56 |
 | A Conqueror's Cohort | 0.90% | ~50 |
+| Lord of Chaos | 0.80% | ~45 |
 | The Creator | 0.80% | ~45 |
 | The Eternal Court | 0.80% | ~45 |
-| Lord of Chaos | 0.70% | ~39 |
 | Eternal Lord | 0.70% | ~39 |
 | I've Got Everything I Need Right Here | 0.60% | ~33 |
 | God Emperor | 0.60% | ~33 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 388)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,574 (Ranked 189)  
+Progressed: 5,575 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 7 (0.13%) (Ranked 278)
 | 2023-12-04 | 5,568 | 7 |
 | 2023-12-05 | 5,569 | 7 |
 | 2023-12-06 | 5,572 | 7 |
-| 2023-12-07 | 5,574 | 7 |
+| 2023-12-07 | 5,575 | 7 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 478)  
 Sum: 89 (Ranked 459)  

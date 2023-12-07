@@ -57,6 +57,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | All Consuming | 0.30% | ~722 |
 | Stop Hitting Yourself | 0.30% | ~722 |
 | Illuminate, Eliminate | 0.30% | ~722 |
+| Chain Reaction | 0.30% | ~722 |
 | Doing Time | 0.30% | ~722 |
 | Spreading Plague | 0.30% | ~722 |
 | Acid Bath | 0.30% | ~722 |
@@ -72,7 +73,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Berzerker | 0.20% | ~482 |
 | Juggernaut | 0.20% | ~482 |
 | Clearing The Room | 0.20% | ~482 |
-| Chain Reaction | 0.20% | ~482 |
 | Decisions, Decisions | 0.20% | ~482 |
 | Fragile Mortality | 0.20% | ~482 |
 | Snake Sneak | 0.20% | ~482 |

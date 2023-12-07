@@ -19,7 +19,7 @@ Rating: 4.65 (Ranked 316)
 | Iceborn | 55.00% | ~602 |
 | Tear of Freedom | 53.00% | ~580 |
 | Boom Things | 53.00% | ~580 |
-| My Darkest Day | 49.00% | ~536 |
+| My Darkest Day | 50.00% | ~547 |
 | Rhythm Of Willump | 47.00% | ~514 |
 | The Relentless Storm | 47.00% | ~514 |
 | A Tragic Reminder | 45.00% | ~492 |
@@ -35,7 +35,7 @@ Rating: 4.65 (Ranked 316)
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~427 |
 | Bullseye | 37.00% | ~405 |
 | It Is Not Over | 36.00% | ~394 |
-| On The Rocks | 34.00% | ~372 |
+| On The Rocks | 35.00% | ~383 |
 | Snowy Poro | 32.00% | ~350 |
 | Never Gets Old | 32.00% | ~350 |
 | Vertical Power | 27.00% | ~295 |

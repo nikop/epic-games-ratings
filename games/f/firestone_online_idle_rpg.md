@@ -1,40 +1,40 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 993)  
+Rating: 4.05 (Ranked 994)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,891 |
-| World Map | 78.00% | ~2,425 |
-| Temple of Eternals | 57.00% | ~1,772 |
-| Prestigious | 53.00% | ~1,648 |
-| Fellowship Power | 42.00% | ~1,306 |
-| Guild Power | 24.00% | ~746 |
-| Full Party | 21.00% | ~653 |
-| Prestigious x10 | 21.00% | ~653 |
-| The game is on | 19.00% | ~591 |
-| Exotic Merchant | 17.00% | ~529 |
-| Dragon Clicker | 16.00% | ~497 |
-| Inspection | 15.00% | ~466 |
-| Miner Clicker | 15.00% | ~466 |
-| Dragon Master | 14.00% | ~435 |
-| Enlightenment | 14.00% | ~435 |
-| Hero inspection | 14.00% | ~435 |
-| Lieutenant | 13.00% | ~404 |
-| Natural Talent | 12.00% | ~373 |
-| Superior | 12.00% | ~373 |
-| The Unstoppable | 12.00% | ~373 |
-| Milestone collector | 11.00% | ~342 |
-| Mysterious Rock | 11.00% | ~342 |
-| Scientist | 10.00% | ~311 |
-| Challenger | 9.00% | ~280 |
-| Daily Quest Completionist | 9.00% | ~280 |
-| Doing My Part | 9.00% | ~280 |
-| Hunter | 9.00% | ~280 |
-| Mastery | 9.00% | ~280 |
-| Scroll Master | 9.00% | ~280 |
-| The power of Awakening | 9.00% | ~280 |
+| Victor | 93.00% | ~2,899 |
+| World Map | 78.00% | ~2,431 |
+| Temple of Eternals | 56.00% | ~1,746 |
+| Prestigious | 53.00% | ~1,652 |
+| Fellowship Power | 42.00% | ~1,309 |
+| Guild Power | 24.00% | ~748 |
+| Full Party | 21.00% | ~655 |
+| Prestigious x10 | 21.00% | ~655 |
+| The game is on | 19.00% | ~592 |
+| Exotic Merchant | 17.00% | ~530 |
+| Dragon Clicker | 16.00% | ~499 |
+| Inspection | 15.00% | ~468 |
+| Miner Clicker | 15.00% | ~468 |
+| Dragon Master | 14.00% | ~436 |
+| Enlightenment | 14.00% | ~436 |
+| Hero inspection | 14.00% | ~436 |
+| Lieutenant | 13.00% | ~405 |
+| Natural Talent | 12.00% | ~374 |
+| Superior | 12.00% | ~374 |
+| The Unstoppable | 12.00% | ~374 |
+| Milestone collector | 11.00% | ~343 |
+| Mysterious Rock | 11.00% | ~343 |
+| Scientist | 10.00% | ~312 |
+| Challenger | 9.00% | ~281 |
+| Daily Quest Completionist | 9.00% | ~281 |
+| Doing My Part | 9.00% | ~281 |
+| Hunter | 9.00% | ~281 |
+| Mastery | 9.00% | ~281 |
+| Scroll Master | 9.00% | ~281 |
+| The power of Awakening | 9.00% | ~281 |
 | Four Leaf Clover | 8.00% | ~249 |
 | Frostfire Liberator | 8.00% | ~249 |
 | Moving Up The Ladder | 8.00% | ~249 |
@@ -51,19 +51,19 @@ Rating: 4.05 (Ranked 993)
 | How Do You Turn This On? | 6.00% | ~187 |
 | The Expeditioner | 6.00% | ~187 |
 | Weekly Quest Completionist | 6.00% | ~187 |
-| Active Member | 5.00% | ~155 |
-| Ancient Knowledge | 5.00% | ~155 |
-| Legendary | 5.00% | ~155 |
-| Lock And Load | 5.00% | ~155 |
-| Missions Dedication | 5.00% | ~155 |
-| Sailor | 5.00% | ~155 |
-| The Alchemist | 5.00% | ~155 |
-| Arena Challenger | 4.00% | ~124 |
-| Background Story | 4.00% | ~124 |
-| Ebony Jungle Liberator | 4.00% | ~124 |
-| Gear Enchanting | 3.00% | ~93 |
-| Mythic Power | 3.00% | ~93 |
-| What lies behind the bush | 3.00% | ~93 |
+| Active Member | 5.00% | ~156 |
+| Ancient Knowledge | 5.00% | ~156 |
+| Legendary | 5.00% | ~156 |
+| Lock And Load | 5.00% | ~156 |
+| Missions Dedication | 5.00% | ~156 |
+| Sailor | 5.00% | ~156 |
+| The Alchemist | 5.00% | ~156 |
+| Arena Challenger | 4.00% | ~125 |
+| Background Story | 4.00% | ~125 |
+| Ebony Jungle Liberator | 4.00% | ~125 |
+| Gear Enchanting | 3.00% | ~94 |
+| Mythic Power | 3.00% | ~94 |
+| What lies behind the bush | 3.00% | ~94 |
 | Cauldron Liberator | 2.00% | ~62 |
 | Enchanting skill x5 | 2.00% | ~62 |
 | Guardian Master | 2.00% | ~62 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 993)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,109 (Ranked 211)  
+Progressed: 3,117 (Ranked 211)  
 Completed: 2 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,11 +307,11 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-04 | 3,038 | 2 |
 | 2023-12-05 | 3,056 | 2 |
 | 2023-12-06 | 3,082 | 2 |
-| 2023-12-07 | 3,109 | 2 |
+| 2023-12-07 | 3,117 | 2 |
 ## Awards
-Max (Great for Beginners): 37  (Ranked 474)  
+Max (Great for Beginners): 37  (Ranked 475)  
 Sum: 141 (Ranked 432)  
-Diff (max vs sum): 42  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 37 |

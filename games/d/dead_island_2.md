@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 533)
 | I Am the Resurrection | 1.00% | ~7,315 |
 | Max Headroom | 1.00% | ~7,315 |
 | Our True Nature | 1.00% | ~7,315 |
-| Down with the Sickness | 0.90% | ~6,583 |
+| Down with the Sickness | 0.90% | ~6,584 |
 | Not Even My Final Form | 0.80% | ~5,852 |
 | Jumbo Keyring | 0.80% | ~5,852 |
 | Go, Bobcats! | 0.80% | ~5,852 |
@@ -45,7 +45,7 @@ Rating: 4.54 (Ranked 533)
 | Smorgasbord | 0.60% | ~4,389 |
 | Internet Famous | 0.60% | ~4,389 |
 | Variety is the Spice of Death | 0.60% | ~4,389 |
-| Make it So | 0.50% | ~3,657 |
+| Make it So | 0.50% | ~3,658 |
 | LA Influential | 0.40% | ~2,926 |
 | Sole Survivor | 0.40% | ~2,926 |
 | Gore Horse | 0.40% | ~2,926 |
@@ -53,11 +53,11 @@ Rating: 4.54 (Ranked 533)
 | Top That, Tisha! | 0.40% | ~228 |
 | Survival Skills | 0.20% | ~1,463 |
 | Lawn and Order | 0.20% | ~114 |
-| Donk! | 0.10% | ~731 |
-| Bucket List | 0.10% | ~731 |
+| Donk! | 0.10% | ~732 |
+| Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,488 (Ranked 21)  
+Progressed: 731,505 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2,465 (0.34%) (Ranked 234)
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
-| 2023-12-07 | 731,488 | 2,465 |
+| 2023-12-07 | 731,505 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,994  (Ranked 49)  
 Sum: 12,281 (Ranked 82)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2496,7 +2496,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44088,
+  "EOS_Progressed": 44089,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -9641,6 +9641,11 @@
       "Time": "2023-12-07T22:03:43.3350568+00:00",
       "NumProgressed": 44088,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-07T23:03:19.5450889+00:00",
+      "NumProgressed": 44089,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9684,7 +9689,7 @@
       "Name": "Well equipped",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5731
+      "UsersEstimate": 5732
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -9756,7 +9761,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17194
+      "UsersEstimate": 17195
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -9844,7 +9849,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27775
+      "UsersEstimate": 27776
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -9900,7 +9905,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21603
+      "UsersEstimate": 21604
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -9916,7 +9921,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13667
+      "UsersEstimate": 13668
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -9964,7 +9969,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16753
+      "UsersEstimate": 16754
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -9996,7 +10001,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13667
+      "UsersEstimate": 13668
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -10004,7 +10009,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20721
+      "UsersEstimate": 20722
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -10012,7 +10017,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25130
+      "UsersEstimate": 25131
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -10020,7 +10025,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20721
+      "UsersEstimate": 20722
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -10052,7 +10057,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29098
+      "UsersEstimate": 29099
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -10108,7 +10113,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29098
+      "UsersEstimate": 29099
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -10179,15 +10184,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44088,
+      "Progressed": 44089,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-07T20:57:22.8750003+00:00",
-  "LastChanged_Achievements": "2023-12-07T22:03:43.3350564+00:00",
+  "LastChanged_Achievements": "2023-12-07T23:03:19.5450883+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:42.1034931+00:00",
-  "LastUpdate_Ratings": "2023-12-07T21:57:26.1074728+00:00",
-  "LastUpdate_Achievements": "2023-12-07T22:03:43.3351422+00:00"
+  "LastUpdate_Ratings": "2023-12-07T22:57:21.9814187+00:00",
+  "LastUpdate_Achievements": "2023-12-07T23:03:19.5451948+00:00"
 }

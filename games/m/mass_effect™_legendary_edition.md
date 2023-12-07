@@ -114,9 +114,9 @@
 | Hijacker | 10.00% | ~153 |
 | Always Prepared | 10.00% | ~153 |
 | Paramour III | 10.00% | ~153 |
+| Lift Mastery | 10.00% | ~153 |
 | Barrier Mastery | 9.00% | ~137 |
 | Sky High | 9.00% | ~137 |
-| Lift Mastery | 9.00% | ~137 |
 | Insanity I | 6.00% | ~92 |
 | Singularity Mastery | 6.00% | ~92 |
 | Damping Specialist | 5.00% | ~76 |

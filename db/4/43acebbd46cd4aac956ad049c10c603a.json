@@ -5,10 +5,10 @@
   "Ranking_Rating": 33,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 488,
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -211,9 +211,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 893,
+  "EOS_Progressed": 895,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2181,6 +2181,11 @@
       "Time": "2023-12-07T21:07:52.7514006+00:00",
       "NumProgressed": 893,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T23:06:24.4468211+00:00",
+      "NumProgressed": 895,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2257,7 +2262,7 @@
       "Name": "Chasing the Light",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Chicken",
@@ -2297,7 +2302,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "EcstaticTruth",
@@ -2393,7 +2398,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Mnemosyne",
@@ -2409,7 +2414,7 @@
       "Name": "Museum Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "MuseumVisitor",
@@ -2457,7 +2462,7 @@
       "Name": "Persistent",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "PrometheusUnbound",
@@ -2505,7 +2510,7 @@
       "Name": "Signatory",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "SingleRod",
@@ -2553,7 +2558,7 @@
       "Name": "The All-Gifted",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2575,9 +2580,9 @@
       "ID": "TheHardWay",
       "SetID": "1n308hc",
       "Name": "The Hard Way",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TheSpark",
@@ -2633,7 +2638,7 @@
       "Name": "Wanderers",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "WesternDelta",
@@ -2664,7 +2669,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 893,
+      "Progressed": 895,
       "Completed": 1
     }
   ],
@@ -2672,8 +2677,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
-  "LastChanged_Achievements": "2023-12-07T22:07:39.6694028+00:00",
+  "LastChanged_Achievements": "2023-12-07T23:06:24.4468206+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-07T22:00:47.1571045+00:00",
-  "LastUpdate_Achievements": "2023-12-07T22:07:39.6694471+00:00"
+  "LastUpdate_Ratings": "2023-12-07T22:59:47.4185117+00:00",
+  "LastUpdate_Achievements": "2023-12-07T23:06:24.4468756+00:00"
 }

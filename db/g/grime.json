@@ -1639,10 +1639,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 161596,
-  "EOS_Completed": 236,
-  "EOS_NewPlayers": 1018,
-  "EOS_NewCompleters": 201,
+  "EOS_Progressed": 161604,
+  "EOS_Completed": 237,
+  "EOS_NewPlayers": 1016,
+  "EOS_NewCompleters": 198,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -18359,6 +18359,11 @@
       "Time": "2023-12-07T22:03:47.2850587+00:00",
       "NumProgressed": 161596,
       "NumCompleted": 236
+    },
+    {
+      "Time": "2023-12-07T23:03:22.6097547+00:00",
+      "NumProgressed": 161604,
+      "NumCompleted": 237
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18417,9 +18422,9 @@
       "ID": "ACQUIRE_HUNTPOINT",
       "SetID": "ccc0dlh",
       "Name": "The Hunt",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 808
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -18545,9 +18550,9 @@
       "ID": "DEFEAT_VULTURE",
       "SetID": "ccc0dlh",
       "Name": "Feast",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 162
+      "UsersEstimate": 323
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -18738,21 +18743,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161179,
+      "Progressed": 161187,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 161596,
-      "Completed": 236
+      "Progressed": 161604,
+      "Completed": 237
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-07T08:02:58.4442714+00:00",
-  "LastChanged_Achievements": "2023-12-07T22:03:47.2850581+00:00",
+  "LastChanged_Achievements": "2023-12-07T23:03:22.6097542+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:51.7108111+00:00",
-  "LastUpdate_Ratings": "2023-12-07T22:02:43.6372445+00:00",
-  "LastUpdate_Achievements": "2023-12-07T22:03:47.2852071+00:00"
+  "LastUpdate_Ratings": "2023-12-07T23:00:34.746775+00:00",
+  "LastUpdate_Achievements": "2023-12-07T23:03:22.6098685+00:00"
 }

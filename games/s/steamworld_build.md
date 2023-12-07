@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 81.00% | ~42 |
-| It's Yours, My Friend | 62.00% | ~32 |
-| Going Places | 60.00% | ~31 |
-| Conducted Trade | 54.00% | ~28 |
-| Digging a Hole | 54.00% | ~28 |
-| Aristocratic | 50.00% | ~26 |
-| Gotta Go Fast | 50.00% | ~26 |
-| Tutti Frutti | 46.00% | ~24 |
-| Roll Out | 27.00% | ~14 |
-| Slotting Machine | 27.00% | ~14 |
-| Systematic | 27.00% | ~14 |
+| Mathematic | 79.00% | ~42 |
+| It's Yours, My Friend | 60.00% | ~32 |
+| Going Places | 58.00% | ~31 |
+| Conducted Trade | 53.00% | ~28 |
+| Digging a Hole | 53.00% | ~28 |
+| Aristocratic | 49.00% | ~26 |
+| Gotta Go Fast | 49.00% | ~26 |
+| Tutti Frutti | 45.00% | ~24 |
+| Roll Out | 26.00% | ~14 |
+| Slotting Machine | 26.00% | ~14 |
+| Systematic | 26.00% | ~14 |
 | Mine Sweeper | 25.00% | ~13 |
 | Botropolis | 15.00% | ~8 |
 | Steam Powered | 13.00% | ~7 |
 | Steaming Rich | 13.00% | ~7 |
-| Dopa-Miner | 12.00% | ~6 |
-| Up, Up And Away! | 12.00% | ~6 |
-| Whoa! | 12.00% | ~6 |
+| Dopa-Miner | 11.00% | ~6 |
+| Up, Up And Away! | 11.00% | ~6 |
+| Whoa! | 11.00% | ~6 |
 | Room To Spare | 8.00% | ~4 |
 | Manic Mechanic | 6.00% | ~3 |
 | Real Purdy | 4.00% | ~2 |
@@ -33,7 +33,7 @@
 | Nothing But Road | 0.00% | ~0 |
 | Yup. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52 (Ranked 504)  
+Progressed: 53 (Ranked 503)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -42,4 +42,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-04 | 2 | 0 |
 | 2023-12-05 | 24 | 0 |
 | 2023-12-06 | 43 | 0 |
-| 2023-12-07 | 52 | 0 |
+| 2023-12-07 | 53 | 0 |

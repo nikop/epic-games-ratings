@@ -6,46 +6,46 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~10,300 |
-| Overkill | 34.00% | ~8,541 |
-| Vaccine Incoming | 33.00% | ~8,290 |
-| A normal day in Gloomhaven | 31.00% | ~7,788 |
-| Spread the plague | 29.00% | ~7,285 |
-| Get over here! | 25.00% | ~6,280 |
-| Just when I thought I was out... | 19.00% | ~4,773 |
-| Precious! | 17.00% | ~4,271 |
-| Mine... All Mine... | 17.00% | ~4,271 |
-| Grizzled veteran | 15.00% | ~3,768 |
-| Anatomy Lesson | 15.00% | ~3,768 |
-| Light of my life | 14.00% | ~3,517 |
-| Obstacle race | 13.00% | ~3,266 |
-| You activated my trap card! | 12.00% | ~3,015 |
-| Who's the Boss? | 11.00% | ~2,763 |
-| Augmented rat | 11.00% | ~2,763 |
-| Doom and gloom | 11.00% | ~2,763 |
-| Dungeon Veteran | 9.00% | ~2,261 |
+| I'm not dead yet | 41.00% | ~10,304 |
+| Overkill | 34.00% | ~8,545 |
+| Vaccine Incoming | 33.00% | ~8,293 |
+| A normal day in Gloomhaven | 31.00% | ~7,791 |
+| Spread the plague | 29.00% | ~7,288 |
+| Get over here! | 25.00% | ~6,283 |
+| Just when I thought I was out... | 19.00% | ~4,775 |
+| Precious! | 17.00% | ~4,272 |
+| Mine... All Mine... | 17.00% | ~4,272 |
+| Grizzled veteran | 15.00% | ~3,770 |
+| Anatomy Lesson | 15.00% | ~3,770 |
+| Light of my life | 14.00% | ~3,518 |
+| Obstacle race | 13.00% | ~3,267 |
+| You activated my trap card! | 12.00% | ~3,016 |
+| Who's the Boss? | 11.00% | ~2,764 |
+| Augmented rat | 11.00% | ~2,764 |
+| Doom and gloom | 10.00% | ~2,513 |
+| Dungeon Veteran | 9.00% | ~2,262 |
 | Pack leader | 8.00% | ~2,010 |
 | Pain is your friend | 8.00% | ~2,010 |
 | Black death | 8.00% | ~2,010 |
 | Play it again, Sam | 8.00% | ~2,010 |
-| Quad damage | 6.00% | ~1,507 |
-| Power Up! | 5.00% | ~1,256 |
-| Caught off guard | 5.00% | ~1,256 |
-| The Pro from Dover | 5.00% | ~1,256 |
-| Pretty lights! | 5.00% | ~1,256 |
-| Now you see me... | 5.00% | ~1,256 |
+| Quad damage | 6.00% | ~1,508 |
+| Power Up! | 5.00% | ~1,257 |
+| Caught off guard | 5.00% | ~1,257 |
+| The Pro from Dover | 5.00% | ~1,257 |
+| Pretty lights! | 5.00% | ~1,257 |
+| Now you see me... | 5.00% | ~1,257 |
 | Merchant of doom | 4.00% | ~1,005 |
 | I hate portals | 3.00% | ~754 |
 | Down the hatch | 3.00% | ~754 |
 | An eye for an eye | 3.00% | ~754 |
-| From Gloom, only greed and death emerges | 2.00% | ~502 |
-| The Rat King | 2.00% | ~502 |
-| How to train your Drake | 2.00% | ~502 |
-| The Cephalophore | 2.00% | ~502 |
-| Master Assassin | 2.00% | ~502 |
-| The Sniper | 2.00% | ~502 |
-| Grin and bear it | 2.00% | ~502 |
-| An axe to grind | 2.00% | ~502 |
+| From Gloom, only greed and death emerges | 2.00% | ~503 |
+| The Rat King | 2.00% | ~503 |
+| How to train your Drake | 2.00% | ~503 |
+| The Cephalophore | 2.00% | ~503 |
+| Master Assassin | 2.00% | ~503 |
+| The Sniper | 2.00% | ~503 |
+| Grin and bear it | 2.00% | ~503 |
+| An axe to grind | 2.00% | ~503 |
 | Add a bit of colour | 1.00% | ~251 |
 | Captain hooked | 1.00% | ~251 |
 | Spoiler police! | 1.00% | ~251 |
@@ -53,8 +53,8 @@ Number of Ratings: 68  (23.09.2022)
 | Betray this | 0.90% | ~226 |
 | The Pacifist | 0.50% | ~126 |
 | Born Support | 0.50% | ~126 |
-| A tough job | 0.40% | ~100 |
-| The evil that men do | 0.40% | ~100 |
+| A tough job | 0.40% | ~101 |
+| The evil that men do | 0.40% | ~101 |
 | MacReady Steady.. Go! | 0.30% | ~75 |
 | Pull out the big guns | 0.30% | ~75 |
 | Crimson Tornado | 0.30% | ~75 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~25 |
 | Murder Death Kill | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,122 (Ranked 132)  
+Progressed: 25,131 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-04 | 24,648 | 1 |
 | 2023-12-05 | 24,794 | 1 |
 | 2023-12-06 | 24,964 | 1 |
-| 2023-12-07 | 25,122 | 1 |
+| 2023-12-07 | 25,131 | 1 |
 ## Awards
 Max (Character Customization): 3,594  (Ranked 90)  
 Sum: 8,400 (Ranked 101)  

@@ -286,18 +286,24 @@
       "Rating": 4.33,
       "NumberOfAwards": 669,
       "NumberOfAwardsMax": 574
+    },
+    {
+      "Time": "2023-12-07T22:59:44.5250883+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 671,
+      "NumberOfAwardsMax": 576
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 669,
-  "NumberOfAwardsMax": 574,
+  "NumberOfAwards": 671,
+  "NumberOfAwardsMax": 576,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 574
+      "Count": 576
     },
     {
       "Text": "This game is Highly Recommended",
@@ -336,9 +342,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 206651,
+  "EOS_Progressed": 206653,
   "EOS_Completed": 538,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -25056,6 +25062,11 @@
       "Time": "2023-12-07T22:03:27.8246419+00:00",
       "NumProgressed": 206651,
       "NumCompleted": 538
+    },
+    {
+      "Time": "2023-12-07T23:03:07.4847345+00:00",
+      "NumProgressed": 206653,
+      "NumCompleted": 538
     }
   ],
   "TotalAchievements": 29,
@@ -25091,7 +25102,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 194252
+      "UsersEstimate": 194254
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -25298,16 +25309,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 206651,
+      "Progressed": 206653,
       "Completed": 538
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2023-12-03T15:57:39.8405017+00:00",
-  "LastChanged_Achievements": "2023-12-07T22:03:27.8246415+00:00",
+  "LastChanged": "2023-12-07T22:59:44.525088+00:00",
+  "LastChanged_Achievements": "2023-12-07T23:03:07.4847341+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:18.4469481+00:00",
-  "LastUpdate_Ratings": "2023-12-07T22:00:43.1518858+00:00",
-  "LastUpdate_Achievements": "2023-12-07T22:03:27.8247559+00:00"
+  "LastUpdate_Ratings": "2023-12-07T22:59:44.5250887+00:00",
+  "LastUpdate_Achievements": "2023-12-07T23:03:07.4848408+00:00"
 }

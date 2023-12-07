@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -2154,9 +2154,9 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 243
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2195,8 +2195,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-07T22:08:36.6311355+00:00",
+  "LastChanged_Achievements": "2023-12-07T23:08:20.3407581+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-07T21:58:13.3817074+00:00",
-  "LastUpdate_Achievements": "2023-12-07T22:08:36.631169+00:00"
+  "LastUpdate_Ratings": "2023-12-07T22:57:55.4215081+00:00",
+  "LastUpdate_Achievements": "2023-12-07T23:08:20.340815+00:00"
 }
