@@ -137,9 +137,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1029,
+  "EOS_Progressed": 1030,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.11,
   "EosHistory": [
@@ -3447,6 +3447,11 @@
       "Time": "2023-12-07T21:05:45.8878497+00:00",
       "NumProgressed": 1029,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-07T22:06:40.8672571+00:00",
+      "NumProgressed": 1030,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3467,7 +3472,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "_03_FinishAct1",
@@ -3475,7 +3480,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3515,7 +3520,7 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "_09_Completion_20",
@@ -3531,7 +3536,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "_11_Completion_40",
@@ -3579,7 +3584,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3643,7 +3648,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -3666,7 +3671,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1029,
+      "Progressed": 1030,
       "Completed": 32
     }
   ],
@@ -3674,8 +3679,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-07T17:58:37.8880323+00:00",
-  "LastChanged_Achievements": "2023-12-07T21:05:45.8878493+00:00",
+  "LastChanged_Achievements": "2023-12-07T22:06:40.8672566+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-07T20:58:40.0786629+00:00",
-  "LastUpdate_Achievements": "2023-12-07T21:05:45.8878895+00:00"
+  "LastUpdate_Ratings": "2023-12-07T21:59:09.7301392+00:00",
+  "LastUpdate_Achievements": "2023-12-07T22:06:40.8672881+00:00"
 }

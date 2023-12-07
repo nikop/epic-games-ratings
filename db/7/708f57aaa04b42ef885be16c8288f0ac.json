@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -201,9 +201,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7529,
+  "EOS_Progressed": 7530,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5806,6 +5806,11 @@
       "Time": "2023-12-07T21:09:29.5292783+00:00",
       "NumProgressed": 7529,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-07T22:09:52.4321587+00:00",
+      "NumProgressed": 7530,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5826,7 +5831,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "BeLikeWater",
@@ -5874,7 +5879,7 @@
       "Name": "Explosive Personality",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "FasterThanLight",
@@ -5890,7 +5895,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5922,7 +5927,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -6034,7 +6039,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "UnResurrected",
@@ -6050,7 +6055,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -6089,7 +6094,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7529,
+      "Progressed": 7530,
       "Completed": 14
     }
   ],
@@ -6097,8 +6102,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-07T21:09:29.529278+00:00",
+  "LastChanged_Achievements": "2023-12-07T22:09:52.4321583+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-07T21:00:08.7718385+00:00",
-  "LastUpdate_Achievements": "2023-12-07T21:09:29.5293119+00:00"
+  "LastUpdate_Ratings": "2023-12-07T22:01:09.4996424+00:00",
+  "LastUpdate_Achievements": "2023-12-07T22:09:52.4322055+00:00"
 }

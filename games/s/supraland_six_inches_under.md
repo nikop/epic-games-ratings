@@ -13,12 +13,12 @@ Number of Ratings: 209  (23.09.2022)
 | High Jump | 96.00% | ~2,262 |
 | Knee bending | 96.00% | ~2,262 |
 | Pickaxe | 94.00% | ~2,215 |
+| Cage Town | 94.00% | ~2,215 |
+| Force Beam | 93.00% | ~2,191 |
 | Entered Cage Town | 93.00% | ~2,191 |
 | Stone Pickaxe | 93.00% | ~2,191 |
 | Revenge | 93.00% | ~2,191 |
-| Cage Town | 93.00% | ~2,191 |
 | Surprise | 93.00% | ~2,191 |
-| Force Beam | 92.00% | ~2,168 |
 | Magnet | 90.00% | ~2,120 |
 | Industrial Area | 89.00% | ~2,097 |
 | Magnet Repel | 88.00% | ~2,073 |
@@ -262,12 +262,12 @@ Completed: 290 (12.31%) (Ranked 36)
 | 2023-12-06 | 2,354 | 290 |
 | 2023-12-07 | 2,356 | 290 |
 ## Awards
-Max (Challenging Puzzles): 107  (Ranked 355)  
-Sum: 107 (Ranked 450)  
+Max (Challenging Puzzles): 108  (Ranked 355)  
+Sum: 108 (Ranked 450)  
 Diff (max vs sum): -95  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 107 |
+| This game features Challenging Puzzles | 108 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -334,3 +334,4 @@ Diff (max vs sum): -95
 | 2023-11-18 | 4.77 | - | 105 | 105 |
 | 2023-11-22 | 4.77 | - | 106 | 106 |
 | 2023-11-25 | 4.77 | - | 107 | 107 |
+| 2023-12-07 | 4.77 | - | 108 | 108 |

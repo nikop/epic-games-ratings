@@ -5,19 +5,19 @@ Rating: 4.41 (Ranked 726)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 25.00% | ~6,010 |
-| Sector 2 | 23.00% | ~5,529 |
-| Crush That Cube! | 19.00% | ~4,568 |
-| Sector 3 | 19.00% | ~4,568 |
-| Sector 4 | 16.00% | ~3,846 |
-| Crush That Ball! | 15.00% | ~3,606 |
-| Sector 5 | 10.00% | ~2,404 |
+| Sector 1 | 25.00% | ~6,012 |
+| Sector 2 | 23.00% | ~5,531 |
+| Crush That Cube! | 19.00% | ~4,569 |
+| Sector 3 | 19.00% | ~4,569 |
+| Sector 4 | 16.00% | ~3,848 |
+| Crush That Ball! | 15.00% | ~3,607 |
+| Sector 5 | 10.00% | ~2,405 |
 | Sector 6 | 9.00% | ~2,164 |
 | Feeling the Blues | 7.00% | ~1,683 |
-| Squished | 6.00% | ~1,442 |
-| Finale | 6.00% | ~1,442 |
-| Sector 7 | 6.00% | ~1,442 |
-| Did That Work? -- No! | 6.00% | ~1,442 |
+| Squished | 6.00% | ~1,443 |
+| Finale | 6.00% | ~1,443 |
+| Sector 7 | 6.00% | ~1,443 |
+| Did That Work? -- No! | 6.00% | ~1,443 |
 | Master Room | 3.00% | ~721 |
 | Bronze Trophy | 2.00% | ~481 |
 | Gold Trophy | 2.00% | ~481 |
@@ -30,7 +30,7 @@ Rating: 4.41 (Ranked 726)
 | Master Of The Collectables | 1.00% | ~240 |
 | Maxed Out | 1.00% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,040 (Ranked 135)  
+Progressed: 24,049 (Ranked 135)  
 Completed: 142 (0.59%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 142 (0.59%) (Ranked 198)
 | 2023-12-04 | 23,633 | 134 |
 | 2023-12-05 | 23,768 | 136 |
 | 2023-12-06 | 23,915 | 139 |
-| 2023-12-07 | 24,040 | 142 |
+| 2023-12-07 | 24,049 | 142 |
 ## Awards
 Max (Challenging Puzzles): 22  (Ranked 541)  
 Sum: 22 (Ranked 543)  

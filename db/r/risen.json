@@ -465,9 +465,9 @@
       "ID": "id_20",
       "SetID": "bk9jib6",
       "Name": "Rune master",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "id_22",
@@ -489,17 +489,17 @@
       "ID": "id_25",
       "SetID": "bk9jib6",
       "Name": "Showdown",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "id_26",
       "SetID": "bk9jib6",
       "Name": "Titan Lord",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "id_3",
@@ -585,9 +585,9 @@
       "ID": "id_44",
       "SetID": "bk9jib6",
       "Name": "Expert",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "id_45",
@@ -794,8 +794,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-07T03:59:22.4212557+00:00",
-  "LastChanged_Achievements": "2023-12-07T21:09:21.8817331+00:00",
+  "LastChanged_Achievements": "2023-12-07T22:09:42.8217603+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:25.2979991+00:00",
-  "LastUpdate_Ratings": "2023-12-07T20:59:39.733375+00:00",
-  "LastUpdate_Achievements": "2023-12-07T21:09:21.8817608+00:00"
+  "LastUpdate_Ratings": "2023-12-07T22:00:29.418099+00:00",
+  "LastUpdate_Achievements": "2023-12-07T22:09:42.8217899+00:00"
 }

@@ -63,25 +63,25 @@ Number of Ratings: 15,086  (23.09.2022)
 | Antivenom | 0.30% | ~722 |
 | New Perspectives | 0.30% | ~722 |
 | Who Needs Luck? | 0.30% | ~7 |
-| Achievement Hunter | 0.20% | ~481 |
-| Challenge Increases | 0.20% | ~481 |
-| A Rough Road | 0.20% | ~481 |
-| New Game+ | 0.20% | ~481 |
-| Barbecue | 0.20% | ~481 |
-| Soul Stash | 0.20% | ~481 |
-| Berzerker | 0.20% | ~481 |
-| Juggernaut | 0.20% | ~481 |
-| Clearing The Room | 0.20% | ~481 |
-| Chain Reaction | 0.20% | ~481 |
-| Decisions, Decisions | 0.20% | ~481 |
-| Fragile Mortality | 0.20% | ~481 |
-| Snake Sneak | 0.20% | ~481 |
-| Fire Away! | 0.20% | ~481 |
-| Defuser | 0.20% | ~481 |
-| The Long Run | 0.20% | ~481 |
-| Obsessed | 0.20% | ~481 |
-| Sentimental Value | 0.20% | ~481 |
-| Precious | 0.20% | ~481 |
+| Achievement Hunter | 0.20% | ~482 |
+| Challenge Increases | 0.20% | ~482 |
+| A Rough Road | 0.20% | ~482 |
+| New Game+ | 0.20% | ~482 |
+| Barbecue | 0.20% | ~482 |
+| Soul Stash | 0.20% | ~482 |
+| Berzerker | 0.20% | ~482 |
+| Juggernaut | 0.20% | ~482 |
+| Clearing The Room | 0.20% | ~482 |
+| Chain Reaction | 0.20% | ~482 |
+| Decisions, Decisions | 0.20% | ~482 |
+| Fragile Mortality | 0.20% | ~482 |
+| Snake Sneak | 0.20% | ~482 |
+| Fire Away! | 0.20% | ~482 |
+| Defuser | 0.20% | ~482 |
+| The Long Run | 0.20% | ~482 |
+| Obsessed | 0.20% | ~482 |
+| Sentimental Value | 0.20% | ~482 |
+| Precious | 0.20% | ~482 |
 | Nuclear | 0.20% | ~4 |
 | Raw Power | 0.20% | ~4 |
 | Quick Descent | 0.10% | ~241 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,747 (Ranked 64)  
+Progressed: 240,750 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,10 +376,10 @@ Completed: 292 (0.12%) (Ranked 283)
 | 2023-12-04 | 240,628 | 292 |
 | 2023-12-05 | 240,675 | 292 |
 | 2023-12-06 | 240,707 | 292 |
-| 2023-12-07 | 240,747 | 292 |
+| 2023-12-07 | 240,750 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 133)  
-Sum: 11,713 (Ranked 83)  
+Sum: 11,714 (Ranked 83)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -390,7 +390,7 @@ Diff (max vs sum): 50
 | This game is Extremely Fun | 1,417 |
 | This game is Highly Recommended | 1,386 |
 | This game has Amazing Storytelling | 1,326 |
-| This game has Amazing Characters | 1,228 |
+| This game has Amazing Characters | 1,229 |
 | This game has Unique Visuals | 1,228 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 746 |
@@ -620,4 +620,4 @@ Diff (max vs sum): 50
 | 2023-12-03 | 4.58 | - | 1,505 | 11,706 |
 | 2023-12-04 | 4.58 | - | 1,505 | 11,708 |
 | 2023-12-05 | 4.58 | - | 1,505 | 11,711 |
-| 2023-12-07 | 4.58 | - | 1,505 | 11,713 |
+| 2023-12-07 | 4.58 | - | 1,505 | 11,714 |

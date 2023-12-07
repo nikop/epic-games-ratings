@@ -17,8 +17,8 @@
 | Master of Magic | 64.00% | ~342 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~331 |
 | Magic Accidents | 59.00% | ~315 |
-| The Ascent | 57.00% | ~304 |
-| It's Warm and Cozy at Home | 57.00% | ~304 |
+| The Ascent | 58.00% | ~310 |
+| It's Warm and Cozy at Home | 58.00% | ~310 |
 | Trap Master | 56.00% | ~299 |
 | Minions, Minions! | 55.00% | ~294 |
 | The Big Eaty | 52.00% | ~278 |
@@ -26,8 +26,8 @@
 | YOU SHALL NOT PASS! | 50.00% | ~267 |
 | “… like son” | 49.00% | ~262 |
 | Pure Dynamite! | 45.00% | ~240 |
+| The Cathedral of Light | 45.00% | ~240 |
 | Shame! Shame! Shame! | 45.00% | ~240 |
-| The Cathedral of Light | 44.00% | ~235 |
 | Dungeonlord Gorgu | 43.00% | ~230 |
 | Mana Cannon | 41.00% | ~219 |
 | Tanos' Crusade Against Thalya | 41.00% | ~219 |
@@ -35,7 +35,7 @@
 | Unstoppable Horde | 32.00% | ~171 |
 | Master of the Undead | 32.00% | ~171 |
 | The Duel | 32.00% | ~171 |
-| If Looks Could Kill | 28.00% | ~150 |
+| If Looks Could Kill | 29.00% | ~155 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~144 |
 | Forbidden Knowledge | 27.00% | ~144 |
 | Ghost Pirates? Ghost Heroes! | 27.00% | ~144 |
@@ -44,9 +44,9 @@
 | Stop Tanos! | 23.00% | ~123 |
 | Doom Hill | 23.00% | ~123 |
 | Brimstone Shaken, Not Stirred | 22.00% | ~117 |
+| Sabotage! | 21.00% | ~112 |
 | Bonus Evilness | 20.00% | ~107 |
-| Sabotage! | 20.00% | ~107 |
-| Raiders of the Lost Stone | 19.00% | ~101 |
+| Raiders of the Lost Stone | 20.00% | ~107 |
 | The Rune Sockets of Finitude (Part 1) | 19.00% | ~101 |
 | The Rune Sockets of Finitude (Part 2) | 17.00% | ~91 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~85 |

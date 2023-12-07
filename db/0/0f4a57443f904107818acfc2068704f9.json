@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 850,
+  "EOS_Progressed": 851,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1842,6 +1842,11 @@
       "Time": "2023-12-07T09:03:07.671099+00:00",
       "NumProgressed": 850,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T22:03:53.3442823+00:00",
+      "NumProgressed": 851,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1862,7 +1867,7 @@
       "Name": "Territorial",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1878,7 +1883,7 @@
       "Name": "Celestant-Prime",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CompleteCampaignLorekeeper",
@@ -1894,7 +1899,7 @@
       "Name": "Lord-Celestant",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CompleteCampaignWarrior",
@@ -1910,7 +1915,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "CompleteChapter10",
@@ -1998,7 +2003,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "CompleteChapter3",
@@ -2006,7 +2011,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "CompleteChapter4",
@@ -2014,7 +2019,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "CompleteChapter5",
@@ -2030,7 +2035,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "CompleteChapter7",
@@ -2086,7 +2091,7 @@
       "Name": "Order",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CompleteConquestTzeentch",
@@ -2126,7 +2131,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Win50ConquestBattles",
@@ -2149,14 +2154,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 850,
+      "Progressed": 851,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-07T21:03:34.4705471+00:00",
+  "LastChanged_Achievements": "2023-12-07T22:03:53.3442815+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-07T20:57:56.9803424+00:00",
-  "LastUpdate_Achievements": "2023-12-07T21:03:34.4705791+00:00"
+  "LastUpdate_Ratings": "2023-12-07T21:58:11.0314544+00:00",
+  "LastUpdate_Achievements": "2023-12-07T22:03:53.3443084+00:00"
 }

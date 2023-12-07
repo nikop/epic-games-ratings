@@ -34,20 +34,20 @@ Rating: 4.58 (Ranked 451)
 | Defender | 21.00% | ~13 |
 | Ghost hunter | 21.00% | ~13 |
 | Workaholic | 19.00% | ~12 |
+| Showdown | 17.00% | ~11 |
 | Fence | 17.00% | ~11 |
-| Showdown | 16.00% | ~10 |
 | Master thief | 16.00% | ~10 |
 | Freedom fighter | 14.00% | ~9 |
+| Titan Lord | 13.00% | ~8 |
 | Safecracker | 13.00% | ~8 |
-| Titan Lord | 11.00% | ~7 |
+| Expert | 11.00% | ~7 |
 | King of the handymen | 11.00% | ~7 |
 | Terror of the hens | 10.00% | ~6 |
-| Expert | 10.00% | ~6 |
 | Moneybags | 10.00% | ~6 |
 | The traveler | 8.00% | ~5 |
+| Rune master | 6.00% | ~4 |
 | Fervent swimmer | 6.00% | ~4 |
 | King Midas | 6.00% | ~4 |
-| Rune master | 5.00% | ~3 |
 | Jester | 5.00% | ~3 |
 | Big game hunter | 3.00% | ~2 |
 | Mage | 3.00% | ~2 |

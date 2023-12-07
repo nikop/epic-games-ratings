@@ -818,9 +818,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5386,
+  "EOS_Progressed": 5387,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -10688,6 +10688,11 @@
       "Time": "2023-12-07T20:05:24.7332387+00:00",
       "NumProgressed": 5386,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-07T22:06:17.7437892+00:00",
+      "NumProgressed": 5387,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10748,7 +10753,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10756,7 +10761,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -10852,7 +10857,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -10883,15 +10888,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5386,
+      "Progressed": 5387,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-06T15:59:42.180054+00:00",
-  "LastChanged_Achievements": "2023-12-07T21:05:27.1883124+00:00",
+  "LastChanged_Achievements": "2023-12-07T22:06:17.7437888+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-07T20:59:44.6483707+00:00",
-  "LastUpdate_Achievements": "2023-12-07T21:05:27.18836+00:00"
+  "LastUpdate_Ratings": "2023-12-07T22:00:36.4137789+00:00",
+  "LastUpdate_Achievements": "2023-12-07T22:06:17.7438386+00:00"
 }

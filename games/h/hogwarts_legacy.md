@@ -10,17 +10,17 @@ Rating: 4.76 (Ranked 131)
 | Troll with the Punches | 14.00% | ~42,568 |
 | A Keen Sense of Spell | 13.00% | ~39,527 |
 | That's a Keeper | 13.00% | ~39,527 |
-| The Hallowed Hero | 12.00% | ~36,486 |
-| The Defender of Dragons | 12.00% | ~36,486 |
-| Loom for Improvement | 12.00% | ~36,486 |
-| A Talent for Spending | 12.00% | ~36,486 |
-| Coasting Along | 12.00% | ~36,486 |
+| The Hallowed Hero | 12.00% | ~36,487 |
+| The Defender of Dragons | 12.00% | ~36,487 |
+| Loom for Improvement | 12.00% | ~36,487 |
+| A Talent for Spending | 12.00% | ~36,487 |
+| Coasting Along | 12.00% | ~36,487 |
 | Grappling with a Graphorn | 11.00% | ~33,446 |
 | The One Who Mastered Memories | 11.00% | ~33,446 |
 | The Hero of Hogwarts | 11.00% | ~33,446 |
 | Challenge Accepted | 11.00% | ~33,446 |
-| Followed the Butterflies | 10.00% | ~30,405 |
-| Rising From the Ashes | 10.00% | ~30,405 |
+| Followed the Butterflies | 10.00% | ~30,406 |
+| Rising From the Ashes | 10.00% | ~30,406 |
 | A Sallow Grave | 9.00% | ~27,365 |
 | The Spell Master | 9.00% | ~27,365 |
 | The Avenging Gazelle | 8.00% | ~24,324 |
@@ -47,11 +47,11 @@ Rating: 4.76 (Ranked 131)
 | Finishing Touches | 2.00% | ~6,081 |
 | A Forte for Achievement | 2.00% | ~6,081 |
 | Merlin's Beard! | 1.00% | ~3,041 |
-| Spilled Milk | 0.90% | ~2,736 |
+| Spilled Milk | 0.90% | ~2,737 |
 | The Nature of the Beast | 0.70% | ~2,128 |
 | Collector's Edition | 0.40% | ~1,216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,054 (Ranked 54)  
+Progressed: 304,056 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 525 (0.17%) (Ranked 270)
 | 2023-12-04 | 303,943 | 521 |
 | 2023-12-05 | 303,976 | 521 |
 | 2023-12-06 | 304,019 | 523 |
-| 2023-12-07 | 304,054 | 525 |
+| 2023-12-07 | 304,056 | 525 |
 ## Awards
 Max (Character Customization): 25,000  (Ranked 17)  
 Sum: 50,129 (Ranked 30)  

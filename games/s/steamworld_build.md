@@ -15,7 +15,7 @@
 | Roll Out | 27.00% | ~14 |
 | Slotting Machine | 27.00% | ~14 |
 | Systematic | 27.00% | ~14 |
-| Mine Sweeper | 23.00% | ~12 |
+| Mine Sweeper | 25.00% | ~13 |
 | Botropolis | 15.00% | ~8 |
 | Steam Powered | 13.00% | ~7 |
 | Steaming Rich | 13.00% | ~7 |

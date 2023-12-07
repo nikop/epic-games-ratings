@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -265,7 +265,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38738,
+  "EOS_Progressed": 38741,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
@@ -20365,6 +20365,11 @@
       "Time": "2023-12-07T21:05:49.854296+00:00",
       "NumProgressed": 38738,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-12-07T22:06:46.0913554+00:00",
+      "NumProgressed": 38741,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 14,
@@ -20392,7 +20397,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10072
+      "UsersEstimate": 10073
     },
     {
       "ID": "allItems",
@@ -20424,7 +20429,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3486
+      "UsersEstimate": 3487
     },
     {
       "ID": "completionist",
@@ -20456,7 +20461,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9297
+      "UsersEstimate": 9298
     },
     {
       "ID": "firstItem",
@@ -20464,7 +20469,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 29828
+      "UsersEstimate": 29831
     },
     {
       "ID": "roots",
@@ -20472,7 +20477,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6585
+      "UsersEstimate": 6586
     },
     {
       "ID": "secretItem",
@@ -20487,15 +20492,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 38738,
+      "Progressed": 38741,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-11-16T13:58:53.3342311+00:00",
-  "LastChanged_Achievements": "2023-12-07T21:05:49.8542956+00:00",
+  "LastChanged_Achievements": "2023-12-07T22:06:46.0913548+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:07.3802945+00:00",
-  "LastUpdate_Ratings": "2023-12-07T20:59:42.9371721+00:00",
-  "LastUpdate_Achievements": "2023-12-07T21:05:49.8543978+00:00"
+  "LastUpdate_Ratings": "2023-12-07T22:00:34.0033057+00:00",
+  "LastUpdate_Achievements": "2023-12-07T22:06:46.09145+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -398,18 +398,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 107,
       "NumberOfAwardsMax": 107
+    },
+    {
+      "Time": "2023-12-07T21:58:24.320854+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 108,
+      "NumberOfAwardsMax": 108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 107,
-  "NumberOfAwardsMax": 107,
+  "NumberOfAwards": 108,
+  "NumberOfAwardsMax": 108,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 107
+      "Count": 108
     }
   ],
   "EOS_Progressed": 2356,
@@ -2539,9 +2545,9 @@
       "ID": "Beam",
       "SetID": "5lok9mm",
       "Name": "Force Beam",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2191
     },
     {
       "ID": "BenCave",
@@ -2843,9 +2849,9 @@
       "ID": "SeeTown",
       "SetID": "5lok9mm",
       "Name": "Cage Town",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2215
     },
     {
       "ID": "Speed",
@@ -2922,9 +2928,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
-  "LastChanged": "2023-11-25T08:00:41.8887629+00:00",
-  "LastChanged_Achievements": "2023-12-07T21:03:51.3422165+00:00",
+  "LastChanged": "2023-12-07T21:58:24.3208537+00:00",
+  "LastChanged_Achievements": "2023-12-07T22:04:14.6309028+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:00.3494982+00:00",
-  "LastUpdate_Ratings": "2023-12-07T20:58:06.6550132+00:00",
-  "LastUpdate_Achievements": "2023-12-07T21:03:51.342259+00:00"
+  "LastUpdate_Ratings": "2023-12-07T21:58:24.3208548+00:00",
+  "LastUpdate_Achievements": "2023-12-07T22:04:14.6309509+00:00"
 }

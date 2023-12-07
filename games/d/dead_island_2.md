@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,710 |
-| Pork Chopped | 3.00% | ~1,710 |
-| Dr. Reed, I Presume? | 2.00% | ~14,629 |
-| Git Gutte! | 2.00% | ~14,629 |
-| Bookworm | 2.00% | ~14,629 |
-| Break A Leg | 2.00% | ~14,629 |
-| But Doctor, I am Butcho | 2.00% | ~14,629 |
-| Coup de Grâce | 2.00% | ~14,629 |
-| Hazardous Materials | 2.00% | ~14,629 |
-| Friends Like These | 2.00% | ~14,629 |
-| Hotel California | 2.00% | ~14,629 |
-| Apex Predator | 2.00% | ~14,629 |
-| Stacking the Deck | 2.00% | ~14,629 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,629 |
-| This is My Weapon | 2.00% | ~14,629 |
-| Welcome To Hell-A | 2.00% | ~14,629 |
-| One of Us | 2.00% | ~1,140 |
+| Whatever It Takes | 3.00% | ~1,711 |
+| Pork Chopped | 3.00% | ~1,711 |
+| Dr. Reed, I Presume? | 2.00% | ~14,630 |
+| Git Gutte! | 2.00% | ~14,630 |
+| Bookworm | 2.00% | ~14,630 |
+| Break A Leg | 2.00% | ~14,630 |
+| But Doctor, I am Butcho | 2.00% | ~14,630 |
+| Coup de Grâce | 2.00% | ~14,630 |
+| Hazardous Materials | 2.00% | ~14,630 |
+| Friends Like These | 2.00% | ~14,630 |
+| Hotel California | 2.00% | ~14,630 |
+| Apex Predator | 2.00% | ~14,630 |
+| Stacking the Deck | 2.00% | ~14,630 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,630 |
+| This is My Weapon | 2.00% | ~14,630 |
+| Welcome To Hell-A | 2.00% | ~14,630 |
+| One of Us | 2.00% | ~1,141 |
 | Making Your Mark | 1.00% | ~7,315 |
 | Anger Management | 1.00% | ~7,315 |
 | Perks of the Job | 1.00% | ~7,315 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 533)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,472 (Ranked 21)  
+Progressed: 731,488 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,10 +288,10 @@ Completed: 2,465 (0.34%) (Ranked 234)
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
-| 2023-12-07 | 731,472 | 2,465 |
+| 2023-12-07 | 731,488 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,994  (Ranked 49)  
-Sum: 12,278 (Ranked 82)  
+Sum: 12,281 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -303,7 +303,7 @@ Diff (max vs sum): -33
 | This game has Amazing Storytelling | 518 |
 | This game is Extremely Fun | 506 |
 | This game is Highly Recommended | 501 |
-| This game has Amazing Characters | 464 |
+| This game has Amazing Characters | 467 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -537,4 +537,4 @@ Diff (max vs sum): -33
 | 2023-12-04 | 4.54 | 7,915 | 12,148 |
 | 2023-12-05 | 4.54 | 7,943 | 12,192 |
 | 2023-12-06 | 4.54 | 7,968 | 12,240 |
-| 2023-12-07 | 4.54 | 7,994 | 12,278 |
+| 2023-12-07 | 4.54 | 7,994 | 12,281 |

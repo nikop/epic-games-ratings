@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 565,
+  "EOS_Progressed": 566,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1812,6 +1812,11 @@
       "Time": "2023-12-07T14:08:43.6469795+00:00",
       "NumProgressed": 565,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T22:08:36.631136+00:00",
+      "NumProgressed": 566,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1823,7 +1828,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1847,7 +1852,7 @@
       "Name": "Nosebleeder",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1871,7 +1876,7 @@
       "Name": "Furious Scorpion Killer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -1879,7 +1884,7 @@
       "Name": "Lethal Blade Mantis Killer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -1887,7 +1892,7 @@
       "Name": "Squeaky Clean",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1919,7 +1924,7 @@
       "Name": "Cave Master",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -1927,7 +1932,7 @@
       "Name": "Face Slapper",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1967,7 +1972,7 @@
       "Name": "Master Artificer",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1975,7 +1980,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1991,7 +1996,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2015,7 +2020,7 @@
       "Name": "Boss challenge",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2143,7 +2148,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2151,7 +2156,7 @@
       "Name": "Flower Thief",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2182,7 +2187,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 565,
+      "Progressed": 566,
       "Completed": 1
     }
   ],
@@ -2190,8 +2195,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-07T21:08:29.3579786+00:00",
+  "LastChanged_Achievements": "2023-12-07T22:08:36.6311355+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-07T20:57:58.7591325+00:00",
-  "LastUpdate_Achievements": "2023-12-07T21:08:29.3580085+00:00"
+  "LastUpdate_Ratings": "2023-12-07T21:58:13.3817074+00:00",
+  "LastUpdate_Achievements": "2023-12-07T22:08:36.631169+00:00"
 }

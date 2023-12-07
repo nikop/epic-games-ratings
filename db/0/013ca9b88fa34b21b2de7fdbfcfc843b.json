@@ -205,9 +205,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8339,
+  "EOS_Progressed": 8340,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8185,6 +8185,11 @@
       "Time": "2023-12-07T18:09:24.245564+00:00",
       "NumProgressed": 8339,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T22:10:02.3100245+00:00",
+      "NumProgressed": 8340,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8197,7 +8202,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 6004
+      "UsersEstimate": 6005
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -8205,7 +8210,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5837
+      "UsersEstimate": 5838
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8213,7 +8218,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3085
+      "UsersEstimate": 3086
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -8221,7 +8226,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2836
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -8229,7 +8234,7 @@
       "Name": "Clear the Air",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -8237,7 +8242,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -8301,7 +8306,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4086
+      "UsersEstimate": 4087
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -8309,7 +8314,7 @@
       "Name": "Beach Comber",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -8357,7 +8362,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2668
+      "UsersEstimate": 2669
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -8373,7 +8378,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3919
+      "UsersEstimate": 3920
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8381,7 +8386,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -8476,22 +8481,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8339,
+      "Progressed": 8340,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 956,
-      "Completed": 956
+      "Progressed": 957,
+      "Completed": 957
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-04T18:02:55.9509642+00:00",
-  "LastChanged_Achievements": "2023-12-07T21:09:37.2851207+00:00",
+  "LastChanged_Achievements": "2023-12-07T22:10:02.3100239+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-07T21:03:04.0018296+00:00",
-  "LastUpdate_Achievements": "2023-12-07T21:09:37.2851665+00:00"
+  "LastUpdate_Ratings": "2023-12-07T22:03:11.9503427+00:00",
+  "LastUpdate_Achievements": "2023-12-07T22:10:02.310083+00:00"
 }

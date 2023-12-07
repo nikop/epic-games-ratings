@@ -313,9 +313,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233250,
+  "EOS_Progressed": 233251,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23758,6 +23758,11 @@
       "Time": "2023-12-07T21:08:41.2961138+00:00",
       "NumProgressed": 233250,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-07T22:08:52.2363367+00:00",
+      "NumProgressed": 233251,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -23905,7 +23910,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2333
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -23953,7 +23958,7 @@
       "Name": "Sin\u0027er Man",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "UNLOCK_ALL_TROPHIES",
@@ -23977,7 +23982,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39652
+      "UsersEstimate": 39653
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -23985,14 +23990,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2333
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233250,
+      "Progressed": 233251,
       "Completed": 5
     }
   ],
@@ -24000,8 +24005,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-11-29T04:05:35.013922+00:00",
-  "LastChanged_Achievements": "2023-12-07T21:08:41.2961136+00:00",
+  "LastChanged_Achievements": "2023-12-07T22:08:52.2363362+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:16.4790911+00:00",
-  "LastUpdate_Ratings": "2023-12-07T21:00:13.4021131+00:00",
-  "LastUpdate_Achievements": "2023-12-07T21:08:41.296229+00:00"
+  "LastUpdate_Ratings": "2023-12-07T22:01:16.194707+00:00",
+  "LastUpdate_Achievements": "2023-12-07T22:08:52.2364559+00:00"
 }

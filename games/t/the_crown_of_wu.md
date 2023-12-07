@@ -42,7 +42,7 @@
 | Wealthy | 0.00% | ~0 |
 | New awakening | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 685)  
+Progressed: 2 (Ranked 686)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |

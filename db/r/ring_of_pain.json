@@ -3488,10 +3488,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11713,
       "NumberOfAwardsMax": 1505
+    },
+    {
+      "Time": "2023-12-07T22:02:44.0726107+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11714,
+      "NumberOfAwardsMax": 1505
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11713,
+  "NumberOfAwards": 11714,
   "NumberOfAwardsMax": 1505,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3505,7 +3511,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1228
+      "Count": 1229
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3562,9 +3568,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240747,
+  "EOS_Progressed": 240750,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -27417,6 +27423,11 @@
       "Time": "2023-12-07T21:09:42.0605222+00:00",
       "NumProgressed": 240747,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-07T22:10:07.8921192+00:00",
+      "NumProgressed": 240750,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -27436,7 +27447,7 @@
       "Name": "Achievement Hunter",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ATTACKOWL",
@@ -27500,7 +27511,7 @@
       "Name": "Challenge Increases",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "DEAL25DAMAGE",
@@ -27540,7 +27551,7 @@
       "Name": "A Rough Road",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "DEPTH6",
@@ -27596,7 +27607,7 @@
       "Name": "New Game\u002B",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "DIEIN30SEC",
@@ -27668,7 +27679,7 @@
       "Name": "Barbecue",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "FIREBREEDEXPLOSION",
@@ -27724,7 +27735,7 @@
       "Name": "Soul Stash",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "HEAL50POTION",
@@ -27748,7 +27759,7 @@
       "Name": "Berzerker",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "HIGHCLARITY",
@@ -27764,7 +27775,7 @@
       "Name": "Juggernaut",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "HIGHHEALTH",
@@ -27852,7 +27863,7 @@
       "Name": "Clearing The Room",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "KILL20TYPES",
@@ -28020,7 +28031,7 @@
       "Name": "Chain Reaction",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "MULTIKILL30",
@@ -28140,7 +28151,7 @@
       "Name": "Decisions, Decisions",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "SHRINETO1",
@@ -28148,7 +28159,7 @@
       "Name": "Fragile Mortality",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "SHUFFLE10TIMES",
@@ -28164,7 +28175,7 @@
       "Name": "Snake Sneak",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "SPECIALROOMS1",
@@ -28220,7 +28231,7 @@
       "Name": "Fire Away!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "TRANSFORM20TIMES",
@@ -28236,7 +28247,7 @@
       "Name": "Defuser",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "USESHRINE",
@@ -28252,7 +28263,7 @@
       "Name": "The Long Run",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "WIN0ATTACK",
@@ -28284,7 +28295,7 @@
       "Name": "Obsessed",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "WIN5MAXHEALTH",
@@ -28372,7 +28383,7 @@
       "Name": "Sentimental Value",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "WINWITHNOARMOR",
@@ -28388,7 +28399,7 @@
       "Name": "Precious",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "WINWITHSPOON",
@@ -28531,22 +28542,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240747,
+      "Progressed": 240750,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2227,
+      "Progressed": 2230,
       "Completed": 396
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-12-07T14:00:53.1368727+00:00",
-  "LastChanged_Achievements": "2023-12-07T21:09:42.060522+00:00",
+  "LastChanged": "2023-12-07T22:02:44.0726105+00:00",
+  "LastChanged_Achievements": "2023-12-07T22:10:07.8921187+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-07T21:02:42.4681754+00:00",
-  "LastUpdate_Achievements": "2023-12-07T21:09:42.0607834+00:00"
+  "LastUpdate_Ratings": "2023-12-07T22:02:44.0726112+00:00",
+  "LastUpdate_Achievements": "2023-12-07T22:10:07.8924356+00:00"
 }

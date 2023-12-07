@@ -20,7 +20,7 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 18.00% | ~3,041 |
 | Workers' union | 18.00% | ~3,041 |
 | End of Book Two | 18.00% | ~3,041 |
-| Everything's in order | 16.00% | ~2,703 |
+| Everything's in order | 17.00% | ~2,872 |
 | Twist of Fate | 14.00% | ~2,365 |
 | Jack was here! | 14.00% | ~2,365 |
 | Exterminator | 13.00% | ~2,196 |
