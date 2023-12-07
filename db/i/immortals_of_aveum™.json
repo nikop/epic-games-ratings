@@ -1795,9 +1795,9 @@
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_5",
@@ -1940,8 +1940,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-07T11:00:28.9741282+00:00",
-  "LastChanged_Achievements": "2023-12-07T13:14:38.3240994+00:00",
+  "LastChanged_Achievements": "2023-12-07T14:09:17.0115545+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.8149364+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:05:09.8924513+00:00",
-  "LastUpdate_Achievements": "2023-12-07T13:14:38.3241281+00:00"
+  "LastUpdate_Ratings": "2023-12-07T13:59:47.7892561+00:00",
+  "LastUpdate_Achievements": "2023-12-07T14:09:17.0116014+00:00"
 }

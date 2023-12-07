@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 665,
+  "Ranking_Rating": 666,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 131,
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25698,
+  "EOS_Progressed": 25702,
   "EOS_Completed": 484,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.88,
   "EosHistory": [
@@ -25224,6 +25224,11 @@
       "Time": "2023-12-07T13:10:37.056915+00:00",
       "NumProgressed": 25698,
       "NumCompleted": 484
+    },
+    {
+      "Time": "2023-12-07T14:05:10.5975027+00:00",
+      "NumProgressed": 25702,
+      "NumCompleted": 484
     }
   ],
   "TotalAchievements": 20,
@@ -25355,7 +25360,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19530
+      "UsersEstimate": 19534
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -25363,7 +25368,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6938
+      "UsersEstimate": 6940
     },
     {
       "ID": "NORTH_FINISHED",
@@ -25394,15 +25399,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25698,
+      "Progressed": 25702,
       "Completed": 484
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-07T13:10:37.0569144+00:00",
+  "LastChanged_Achievements": "2023-12-07T14:05:10.5975023+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.5744721+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:03:29.2722894+00:00",
-  "LastUpdate_Achievements": "2023-12-07T13:10:37.0570116+00:00"
+  "LastUpdate_Ratings": "2023-12-07T13:58:07.8330075+00:00",
+  "LastUpdate_Achievements": "2023-12-07T14:05:10.5976675+00:00"
 }

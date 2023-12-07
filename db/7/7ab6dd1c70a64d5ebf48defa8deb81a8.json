@@ -1044,9 +1044,9 @@
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_07",
@@ -1299,8 +1299,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-07T13:15:12.1002267+00:00",
+  "LastChanged_Achievements": "2023-12-07T14:09:50.3348038+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:12.3755943+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:03:14.4743139+00:00",
-  "LastUpdate_Achievements": "2023-12-07T13:15:12.1002525+00:00"
+  "LastUpdate_Ratings": "2023-12-07T13:57:53.9378206+00:00",
+  "LastUpdate_Achievements": "2023-12-07T14:09:50.334831+00:00"
 }

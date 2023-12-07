@@ -333,7 +333,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 76159,
+  "EOS_Progressed": 76160,
   "EOS_Completed": 409,
   "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 5,
@@ -25763,6 +25763,11 @@
       "Time": "2023-12-07T13:14:41.6147973+00:00",
       "NumProgressed": 76159,
       "NumCompleted": 409
+    },
+    {
+      "Time": "2023-12-07T14:09:20.2065545+00:00",
+      "NumProgressed": 76160,
+      "NumCompleted": 409
     }
   ],
   "TotalAchievements": 24,
@@ -25806,7 +25811,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19801
+      "UsersEstimate": 19802
     },
     {
       "ID": "ERADICATE",
@@ -25814,7 +25819,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15993
+      "UsersEstimate": 15994
     },
     {
       "ID": "FETCH",
@@ -25854,7 +25859,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 40364
+      "UsersEstimate": 40365
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -25918,7 +25923,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 15993
+      "UsersEstimate": 15994
     },
     {
       "ID": "SPIRIT_DASH",
@@ -25926,7 +25931,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8377
+      "UsersEstimate": 8378
     },
     {
       "ID": "SPIRIT_FORM",
@@ -25942,7 +25947,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12185
+      "UsersEstimate": 12186
     },
     {
       "ID": "WEIGHTLESS",
@@ -25958,14 +25963,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 12185
+      "UsersEstimate": 12186
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 76159,
+      "Progressed": 76160,
       "Completed": 409
     }
   ],
@@ -25973,8 +25978,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-12-07T13:14:41.614797+00:00",
+  "LastChanged_Achievements": "2023-12-07T14:09:20.206554+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:18.159527+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:04:02.0291149+00:00",
-  "LastUpdate_Achievements": "2023-12-07T13:14:41.6149109+00:00"
+  "LastUpdate_Ratings": "2023-12-07T13:58:39.8435032+00:00",
+  "LastUpdate_Achievements": "2023-12-07T14:09:20.2066551+00:00"
 }

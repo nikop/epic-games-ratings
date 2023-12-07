@@ -5,23 +5,23 @@ Rating: 4.55 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 105.00% | ~19,173 |
-| Before the Downfall | 100.00% | ~18,260 |
-| Money like Water | 98.00% | ~17,895 |
-| Minimalist | 96.00% | ~17,530 |
+| Trevithick's Legacy | 105.00% | ~19,172 |
+| Before the Downfall | 100.00% | ~18,259 |
+| Money like Water | 98.00% | ~17,894 |
+| Minimalist | 96.00% | ~17,529 |
 | Builder | 89.00% | ~16,251 |
-| Eraser | 75.00% | ~13,695 |
-| Pocket of Trains | 70.00% | ~12,782 |
-| Inspector | 63.00% | ~11,504 |
-| Going the Distance | 58.00% | ~10,591 |
+| Eraser | 75.00% | ~13,694 |
+| Pocket of Trains | 70.00% | ~12,781 |
+| Inspector | 63.00% | ~11,503 |
+| Going the Distance | 58.00% | ~10,590 |
 | Oil Baron | 45.00% | ~8,217 |
 | Loads-a-Money | 45.00% | ~8,217 |
 | Helper of the People | 42.00% | ~7,669 |
-| Simplification | 36.00% | ~6,574 |
-| Box of Trains | 36.00% | ~6,574 |
+| Simplification | 36.00% | ~6,573 |
+| Box of Trains | 36.00% | ~6,573 |
 | Let There be Light | 35.00% | ~6,391 |
-| Hot Water | 33.00% | ~6,026 |
-| Indecisive | 31.00% | ~5,661 |
+| Hot Water | 33.00% | ~6,025 |
+| Indecisive | 31.00% | ~5,660 |
 | The scenic route | 30.00% | ~5,478 |
 | Industrialist | 27.00% | ~4,930 |
 | Perfectionist | 25.00% | ~4,565 |
@@ -29,7 +29,7 @@ Rating: 4.55 (Ranked 511)
 | 8K is Enough for Everyone | 24.00% | ~4,382 |
 | Man of Steel | 18.00% | ~3,287 |
 | Room Full of Trains | 14.00% | ~2,556 |
-| Investor | 11.00% | ~2,009 |
+| Investor | 11.00% | ~2,008 |
 | Multiverse | 8.00% | ~1,461 |
 | The poor groundwater levels | 8.00% | ~1,461 |
 | Metropolis | 8.00% | ~1,461 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 511)
 | Overdeer | 0.60% | ~110 |
 | Cloud Services | 0.30% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,260 (Ranked 145)  
+Progressed: 18,259 (Ranked 145)  
 Completed: 27 (0.15%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,8 +274,8 @@ Completed: 27 (0.15%) (Ranked 274)
 | 2023-12-07 | 18,263 | 27 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 378)  
-Sum: 679 (Ranked 305)  
-Diff (max vs sum): 73  
+Sum: 679 (Ranked 306)  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 93 |

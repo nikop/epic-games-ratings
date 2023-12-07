@@ -2,7 +2,7 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 665,
+  "Ranking_Rating": 650,
   "Ranking_Popularity": 34,
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 786,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN,KR,HK,MO,TW,TH,VN,ID,PH,MY,SG,KH,LA,BN,MM"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.46,
   "NumberOfRatings": 14652,
   "RatingHistory": [
     {
@@ -14732,6 +14732,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 98675,
       "NumberOfAwardsMax": 12584
+    },
+    {
+      "Time": "2023-12-07T13:58:21.9901795+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 98675,
+      "NumberOfAwardsMax": 12584
     }
   ],
   "ReviewsDisabled": false,
@@ -14817,8 +14823,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-12-07T06:57:57.6911979+00:00",
+  "LastChanged": "2023-12-07T13:58:21.9901793+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:11.9604335+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:03:43.7192106+00:00",
-  "LastUpdate_Achievements": "2023-12-07T13:12:01.8351663+00:00"
+  "LastUpdate_Ratings": "2023-12-07T13:58:21.99018+00:00",
+  "LastUpdate_Achievements": "2023-12-07T14:06:33.2170801+00:00"
 }

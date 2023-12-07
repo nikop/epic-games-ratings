@@ -25,7 +25,7 @@ Rating: 4.51 (Ranked 574)
 | Living Nightmare | 35.00% | ~1,309 |
 | The More The Merrier | 35.00% | ~1,309 |
 | Omelette Du Fromage | 34.00% | ~1,272 |
-| The Darwin Era Was Here | 31.00% | ~1,159 |
+| The Darwin Era Was Here | 32.00% | ~1,197 |
 | Deep Into Insanity | 30.00% | ~1,122 |
 | The Passenger | 30.00% | ~1,122 |
 | Come on, You Wanna Live Forever? | 28.00% | ~1,047 |

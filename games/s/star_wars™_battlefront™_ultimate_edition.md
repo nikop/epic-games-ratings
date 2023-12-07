@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~1,440 |
-| Off to a good start | 67.00% | ~1,072 |
+| New Recruit | 90.00% | ~1,441 |
+| Off to a good start | 67.00% | ~1,073 |
 | Do... or do not. There is no try | 50.00% | ~800 |
 | A good blaster at your side | 30.00% | ~480 |
 | I suggest a new strategy | 19.00% | ~304 |
@@ -28,16 +28,16 @@
 | Support the troops | 6.00% | ~96 |
 | Distinguished | 5.00% | ~80 |
 | A tremor in the Force | 5.00% | ~80 |
-| On the ball | 4.00% | ~64 |
 | Safety ain't the point of a joyride | 4.00% | ~64 |
 | Not bad for a little furball | 4.00% | ~64 |
 | Patience you must have | 4.00% | ~64 |
 | Don't underestimate the Force | 4.00% | ~64 |
 | I've been waiting for you | 3.00% | ~48 |
 | When 900 years old you reach... | 3.00% | ~48 |
-| Determined | 3.00% | ~48 |
 | Your journey has only started | 3.00% | ~48 |
+| On the ball | 3.00% | ~48 |
 | The Force is strong with this one | 2.00% | ~32 |
+| Determined | 2.00% | ~32 |
 | Precision shot | 2.00% | ~32 |
 | This is a new day, a new beginning | 2.00% | ~32 |
 | City in the Clouds | 2.00% | ~32 |
@@ -55,20 +55,20 @@
 | A New Hope | 0.90% | ~14 |
 | Walker defender | 0.90% | ~14 |
 | Stop that Droid | 0.90% | ~14 |
-| No such thing as luck | 0.80% | ~13 |
 | Do we take prisoners? | 0.80% | ~13 |
+| No such thing as luck | 0.70% | ~11 |
 | I’ll take that bet | 0.60% | ~10 |
 | Greed can be a very powerful ally | 0.50% | ~8 |
 | Stay on target | 0.40% | ~6 |
-| That got him! | 0.30% | ~5 |
-| in a galaxy far, far away.... | 0.30% | ~5 |
 | Don't get cocky | 0.30% | ~5 |
 | Master | 0.30% | ~5 |
-| Stay in attack formation | 0.30% | ~5 |
+| That got him! | 0.20% | ~3 |
+| in a galaxy far, far away.... | 0.20% | ~3 |
+| Stay in attack formation | 0.20% | ~3 |
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,600 (Ranked 239)  
+Progressed: 1,601 (Ranked 239)  
 Completed: 1 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 1 (0.06%) (Ranked 313)
 | 2023-12-04 | 1,580 | 1 |
 | 2023-12-05 | 1,589 | 1 |
 | 2023-12-06 | 1,595 | 1 |
-| 2023-12-07 | 1,600 | 1 |
+| 2023-12-07 | 1,601 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

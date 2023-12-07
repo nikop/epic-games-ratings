@@ -26,18 +26,18 @@
 | An odd series of events | 33.00% | ~13 |
 | The Apartment | 33.00% | ~13 |
 | Nathaniel Dryden | 31.00% | ~12 |
+| Well-acquainted | 28.00% | ~11 |
+| Truth from within | 28.00% | ~11 |
 | A rude awakening | 28.00% | ~11 |
+| Anastasia Babanin | 28.00% | ~11 |
+| Zakariya Demir | 28.00% | ~11 |
 | Bartholomew | 28.00% | ~11 |
-| Well-acquainted | 26.00% | ~10 |
-| Truth from within | 26.00% | ~10 |
-| Anastasia Babanin | 26.00% | ~10 |
-| Zakariya Demir | 26.00% | ~10 |
-| The Scheme | 26.00% | ~10 |
-| A curious phrase | 21.00% | ~8 |
+| The Scheme | 28.00% | ~11 |
+| A curious phrase | 23.00% | ~9 |
+| The Suspects | 23.00% | ~9 |
 | Evelyn Lakshmi Warbeck | 21.00% | ~8 |
-| The Suspects | 21.00% | ~8 |
+| Johan Kristiansen | 18.00% | ~7 |
 | Horace Mountjoy | 15.00% | ~6 |
-| Johan Kristiansen | 15.00% | ~6 |
 | The Secrets | 15.00% | ~6 |
 | Well-travelled | 13.00% | ~5 |
 | A peculiar fellow | 13.00% | ~5 |

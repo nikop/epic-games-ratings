@@ -23,7 +23,7 @@
 | Whoa! | 12.00% | ~6 |
 | Room To Spare | 8.00% | ~4 |
 | Up, Up And Away! | 8.00% | ~4 |
-| Manic Mechanic | 4.00% | ~2 |
+| Manic Mechanic | 6.00% | ~3 |
 | Real Purdy | 4.00% | ~2 |
 | Stack Overflow | 4.00% | ~2 |
 | Accustomed Customer | 0.00% | ~0 |

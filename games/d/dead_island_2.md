@@ -5,27 +5,27 @@ Rating: 4.54 (Ranked 531)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,704 |
-| Pork Chopped | 3.00% | ~1,704 |
-| Dr. Reed, I Presume? | 2.00% | ~14,625 |
-| Git Gutte! | 2.00% | ~14,625 |
-| Bookworm | 2.00% | ~14,625 |
-| Break A Leg | 2.00% | ~14,625 |
-| Coup de Grâce | 2.00% | ~14,625 |
-| Hazardous Materials | 2.00% | ~14,625 |
-| Friends Like These | 2.00% | ~14,625 |
-| Hotel California | 2.00% | ~14,625 |
-| Apex Predator | 2.00% | ~14,625 |
-| Stacking the Deck | 2.00% | ~14,625 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,625 |
-| This is My Weapon | 2.00% | ~14,625 |
-| Welcome To Hell-A | 2.00% | ~14,625 |
-| One of Us | 2.00% | ~1,136 |
+| Whatever It Takes | 3.00% | ~1,705 |
+| Pork Chopped | 3.00% | ~1,705 |
+| Dr. Reed, I Presume? | 2.00% | ~14,626 |
+| Git Gutte! | 2.00% | ~14,626 |
+| Bookworm | 2.00% | ~14,626 |
+| Break A Leg | 2.00% | ~14,626 |
+| But Doctor, I am Butcho | 2.00% | ~14,626 |
+| Coup de Grâce | 2.00% | ~14,626 |
+| Hazardous Materials | 2.00% | ~14,626 |
+| Friends Like These | 2.00% | ~14,626 |
+| Hotel California | 2.00% | ~14,626 |
+| Apex Predator | 2.00% | ~14,626 |
+| Stacking the Deck | 2.00% | ~14,626 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,626 |
+| This is My Weapon | 2.00% | ~14,626 |
+| Welcome To Hell-A | 2.00% | ~14,626 |
+| One of Us | 2.00% | ~1,137 |
 | Making Your Mark | 1.00% | ~7,313 |
 | Anger Management | 1.00% | ~7,313 |
 | Perks of the Job | 1.00% | ~7,313 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,313 |
-| But Doctor, I am Butcho | 1.00% | ~7,313 |
 | Slayer Squad | 1.00% | ~7,313 |
 | Can't Handle the Truth | 1.00% | ~7,313 |
 | Like Riding a Bike | 1.00% | ~7,313 |
@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 531)
 | I Am the Resurrection | 1.00% | ~7,313 |
 | Max Headroom | 1.00% | ~7,313 |
 | Our True Nature | 1.00% | ~7,313 |
-| Down with the Sickness | 0.90% | ~6,581 |
+| Down with the Sickness | 0.90% | ~6,582 |
 | Not Even My Final Form | 0.80% | ~5,850 |
 | Jumbo Keyring | 0.80% | ~5,850 |
 | Go, Bobcats! | 0.80% | ~5,850 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 531)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,267 (Ranked 21)  
+Progressed: 731,290 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,14 +288,14 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
-| 2023-12-07 | 731,267 | 2,465 |
+| 2023-12-07 | 731,290 | 2,465 |
 ## Awards
-Max (Great Boss Battles): 7,968  (Ranked 49)  
-Sum: 12,244 (Ranked 82)  
+Max (Great Boss Battles): 7,994  (Ranked 49)  
+Sum: 12,270 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,968 |
+| This game has Great Boss Battles | 7,994 |
 | This game is Great for Beginners | 618 |
 | This game has Diverse Characters | 587 |
 | This game has Quickly Understood Controls | 555 |
@@ -537,4 +537,4 @@ Diff (max vs sum): -33
 | 2023-12-04 | 4.54 | 7,915 | 12,148 |
 | 2023-12-05 | 4.54 | 7,943 | 12,192 |
 | 2023-12-06 | 4.54 | 7,968 | 12,240 |
-| 2023-12-07 | 4.54 | 7,968 | 12,244 |
+| 2023-12-07 | 4.54 | 7,994 | 12,270 |

@@ -21,9 +21,9 @@ Rating: 4.58 (Ranked 450)
 | Wise man | 29.00% | ~18 |
 | Idiot | 29.00% | ~18 |
 | Family man | 27.00% | ~17 |
+| Death of a legend | 27.00% | ~17 |
 | Ogre friend | 27.00% | ~17 |
 | The fourth triplet | 27.00% | ~17 |
-| Death of a legend | 25.00% | ~16 |
 | Archaeologist | 25.00% | ~16 |
 | Hard worker | 25.00% | ~16 |
 | Master detective | 25.00% | ~16 |

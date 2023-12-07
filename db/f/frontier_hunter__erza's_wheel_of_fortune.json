@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 564,
+  "EOS_Progressed": 565,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1807,6 +1807,11 @@
       "Time": "2023-12-07T09:08:14.178162+00:00",
       "NumProgressed": 564,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T14:08:43.6469795+00:00",
+      "NumProgressed": 565,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1832,9 +1837,9 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "7pimpda",
       "Name": "Guardian",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -1906,7 +1911,7 @@
       "Name": "Training Simulation",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1930,7 +1935,7 @@
       "Name": "Beginner Cook",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1946,7 +1951,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1978,7 +1983,7 @@
       "Name": "Trader",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -1986,7 +1991,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2002,7 +2007,7 @@
       "Name": "Weapon Boost",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -2074,7 +2079,7 @@
       "Name": "Storm Traveller",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2106,7 +2111,7 @@
       "Name": "Warden Slayer",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -2144,9 +2149,9 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 237
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2177,7 +2182,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 564,
+      "Progressed": 565,
       "Completed": 1
     }
   ],
@@ -2185,8 +2190,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-07T13:14:04.4028181+00:00",
+  "LastChanged_Achievements": "2023-12-07T14:08:43.6469792+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:03:24.0417272+00:00",
-  "LastUpdate_Achievements": "2023-12-07T13:14:04.4028569+00:00"
+  "LastUpdate_Ratings": "2023-12-07T13:58:03.4523973+00:00",
+  "LastUpdate_Achievements": "2023-12-07T14:08:43.6470248+00:00"
 }

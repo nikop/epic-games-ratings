@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251929,
+  "EOS_Progressed": 251930,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20687,6 +20687,11 @@
       "Time": "2023-12-07T13:14:55.8153622+00:00",
       "NumProgressed": 251929,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-07T14:09:34.3084031+00:00",
+      "NumProgressed": 251930,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -20770,7 +20775,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37789
+      "UsersEstimate": 37790
     },
     {
       "ID": "clearCut",
@@ -20874,7 +20879,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133522
+      "UsersEstimate": 133523
     },
     {
       "ID": "indegestible",
@@ -20938,7 +20943,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125964
+      "UsersEstimate": 125965
     },
     {
       "ID": "notScared",
@@ -21002,7 +21007,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55424
+      "UsersEstimate": 55425
     },
     {
       "ID": "thunderstruck",
@@ -21065,7 +21070,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251929,
+      "Progressed": 251930,
       "Completed": 6
     }
   ],
@@ -21073,8 +21078,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-07T13:14:55.8153617+00:00",
+  "LastChanged_Achievements": "2023-12-07T14:09:34.3084028+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.4245998+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:04:57.0326395+00:00",
-  "LastUpdate_Achievements": "2023-12-07T13:14:55.8154545+00:00"
+  "LastUpdate_Ratings": "2023-12-07T13:59:35.2663337+00:00",
+  "LastUpdate_Achievements": "2023-12-07T14:09:34.3085402+00:00"
 }

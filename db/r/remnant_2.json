@@ -5277,9 +5277,9 @@
       "Count": 407
     }
   ],
-  "EOS_Progressed": 236350,
+  "EOS_Progressed": 236371,
   "EOS_Completed": 564,
-  "EOS_NewPlayers": 5365,
+  "EOS_NewPlayers": 5344,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21817,6 +21817,11 @@
       "Time": "2023-12-07T13:14:31.868245+00:00",
       "NumProgressed": 236350,
       "NumCompleted": 564
+    },
+    {
+      "Time": "2023-12-07T14:09:10.8512565+00:00",
+      "NumProgressed": 236371,
+      "NumCompleted": 564
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22013,7 +22018,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -22203,9 +22208,9 @@
       "ID": "Upgrade_Traits_A",
       "SetID": "bkp3b1a",
       "Name": "Trait Chaser",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 945
+      "UsersEstimate": 1182
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -22268,13 +22273,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 236350,
+      "Progressed": 236371,
       "Completed": 564
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 15515,
+      "Progressed": 15536,
       "Completed": 201
     }
   ],
@@ -22282,8 +22287,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-07T10:03:15.3871709+00:00",
-  "LastChanged_Achievements": "2023-12-07T13:14:31.8682443+00:00",
+  "LastChanged_Achievements": "2023-12-07T14:09:10.8512561+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:08:46.805554+00:00",
-  "LastUpdate_Achievements": "2023-12-07T13:14:31.8683295+00:00"
+  "LastUpdate_Ratings": "2023-12-07T14:03:21.3488726+00:00",
+  "LastUpdate_Achievements": "2023-12-07T14:09:10.8513738+00:00"
 }
