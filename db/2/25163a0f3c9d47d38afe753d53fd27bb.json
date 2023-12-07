@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1687,
+  "EOS_Progressed": 1688,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 7.11,
   "EosHistory": [
@@ -4054,6 +4054,11 @@
       "Time": "2023-12-07T14:09:49.2446217+00:00",
       "NumProgressed": 1687,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-12-07T15:09:41.7064936+00:00",
+      "NumProgressed": 1688,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 30,
@@ -4065,7 +4070,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "LEVEL_002",
@@ -4073,7 +4078,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "LEVEL_003",
@@ -4081,7 +4086,7 @@
       "Name": "A horse in the country",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "LEVEL_004",
@@ -4089,7 +4094,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "LEVEL_005",
@@ -4097,7 +4102,7 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "LEVEL_006",
@@ -4129,7 +4134,7 @@
       "Name": "Going zig zag",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "LEVEL_010",
@@ -4209,7 +4214,7 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "LEVEL_020",
@@ -4304,14 +4309,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1687,
+      "Progressed": 1688,
       "Completed": 120
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-07T14:09:49.2446213+00:00",
+  "LastChanged_Achievements": "2023-12-07T15:09:41.7064934+00:00",
   "LastUpdate_AppInfo": "2023-12-05T04:57:02.387296+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:00:49.891008+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:09:49.2446577+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:02:36.0108568+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:09:41.7065307+00:00"
 }

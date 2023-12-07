@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2065,9 +2065,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 282449,
+  "EOS_Progressed": 282456,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 724,
+  "EOS_NewPlayers": 728,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28485,6 +28485,11 @@
       "Time": "2023-12-07T14:08:35.186855+00:00",
       "NumProgressed": 282449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T15:08:24.5913201+00:00",
+      "NumProgressed": 282456,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -28638,9 +28643,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "83b4cpd",
       "Name": "Nine Zeroes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 282
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -28807,21 +28812,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 282449,
+      "Progressed": 282456,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 608,
+      "Progressed": 615,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-12-04T05:03:27.8165311+00:00",
-  "LastChanged_Achievements": "2023-12-07T14:08:35.1868546+00:00",
+  "LastChanged_Achievements": "2023-12-07T15:08:24.5913198+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.6593003+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:03:21.1469349+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:08:35.1869929+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:03:08.0129303+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:08:24.5914691+00:00"
 }

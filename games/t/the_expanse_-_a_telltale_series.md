@@ -6,7 +6,7 @@ Rating: 4.53 (Ranked 545)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 12.00% | ~1,915 |
-| Bosmang | 8.00% | ~1,276 |
+| Bosmang | 8.00% | ~1,277 |
 | The Pit and the Pirates | 7.00% | ~1,117 |
 | Martian Music | 7.00% | ~1,117 |
 | Drone Dodger | 7.00% | ~1,117 |
@@ -21,7 +21,7 @@ Rating: 4.53 (Ranked 545)
 | Drug Gifter | 5.00% | ~798 |
 | Heal Thy Medic | 5.00% | ~798 |
 | Call it Even | 5.00% | ~798 |
-| Keep Arjun in Check | 5.00% | ~95 |
+| Keep Arjun in Check | 5.00% | ~96 |
 | Data Archivist | 4.00% | ~638 |
 | Thorston Mayer | 4.00% | ~638 |
 | Khan's Revenge | 4.00% | ~638 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 545)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,955 (Ranked 151)  
+Progressed: 15,957 (Ranked 151)  
 Completed: 41 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 41 (0.26%) (Ranked 249)
 | 2023-12-04 | 15,899 | 40 |
 | 2023-12-05 | 15,919 | 41 |
 | 2023-12-06 | 15,941 | 41 |
-| 2023-12-07 | 15,955 | 41 |
+| 2023-12-07 | 15,957 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

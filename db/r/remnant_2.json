@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5203,10 +5203,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6608,
       "NumberOfAwardsMax": 2668
+    },
+    {
+      "Time": "2023-12-07T15:03:08.1876869+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6612,
+      "NumberOfAwardsMax": 2668
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6608,
+  "NumberOfAwards": 6612,
   "NumberOfAwardsMax": 2668,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5274,13 +5280,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 407
+      "Count": 411
     }
   ],
-  "EOS_Progressed": 236371,
-  "EOS_Completed": 564,
-  "EOS_NewPlayers": 5344,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 236398,
+  "EOS_Completed": 566,
+  "EOS_NewPlayers": 5325,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -21822,6 +21828,11 @@
       "Time": "2023-12-07T14:09:10.8512565+00:00",
       "NumProgressed": 236371,
       "NumCompleted": 564
+    },
+    {
+      "Time": "2023-12-07T15:09:01.7262527+00:00",
+      "NumProgressed": 236398,
+      "NumCompleted": 566
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21850,7 +21861,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -21978,7 +21989,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Meet_Flautist",
@@ -21994,7 +22005,7 @@
       "Name": "Equal Measures",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Meet_Mudtooth",
@@ -22010,7 +22021,7 @@
       "Name": "Blue Goddess",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Obtain_Archetype",
@@ -22026,7 +22037,7 @@
       "Name": "Duality",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -22034,7 +22045,7 @@
       "Name": "Top Performer",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -22042,7 +22053,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -22178,7 +22189,7 @@
       "Name": "Almost There",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Upgrade_Relic",
@@ -22186,7 +22197,7 @@
       "Name": "Make Some Room",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -22194,7 +22205,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -22234,7 +22245,7 @@
       "Name": "Regicide",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -22273,22 +22284,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 236371,
-      "Completed": 564
+      "Progressed": 236398,
+      "Completed": 566
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 15536,
+      "Progressed": 15563,
       "Completed": 201
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-07T10:03:15.3871709+00:00",
-  "LastChanged_Achievements": "2023-12-07T14:09:10.8512561+00:00",
+  "LastChanged": "2023-12-07T15:03:08.1876867+00:00",
+  "LastChanged_Achievements": "2023-12-07T15:09:01.7262523+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:03:21.3488726+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:09:10.8513738+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:03:08.1876878+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:09:01.7263724+00:00"
 }

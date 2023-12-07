@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -412,9 +412,9 @@
       "ID": "26",
       "SetID": "38ide56",
       "Name": "Animal Sighting",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "27",
@@ -509,8 +509,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-12-07T14:06:42.347189+00:00",
+  "LastChanged_Achievements": "2023-12-07T15:07:41.6524047+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:48.5601788+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:57:46.31695+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:06:42.3472095+00:00"
+  "LastUpdate_Ratings": "2023-12-07T14:57:26.7603119+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:07:41.6524199+00:00"
 }

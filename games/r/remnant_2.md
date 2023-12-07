@@ -6,7 +6,7 @@ Rating: 4.75 (Ranked 148)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.80% | ~1,891 |
-| Regicide | 0.80% | ~124 |
+| Regicide | 0.80% | ~125 |
 | First of Many | 0.70% | ~1,655 |
 | Master of the Dark Arts | 0.70% | ~109 |
 | Not Your Average Trait | 0.60% | ~1,418 |
@@ -17,16 +17,16 @@ Rating: 4.75 (Ranked 148)
 | Familiar Face | 0.50% | ~1,182 |
 | Boss'n Up | 0.50% | ~1,182 |
 | Trait Chaser | 0.50% | ~1,182 |
-| Am I Seeing This? | 0.40% | ~945 |
-| Not a Janitor | 0.40% | ~945 |
-| Equal Measures | 0.40% | ~945 |
-| Blue Goddess | 0.40% | ~945 |
-| Duality | 0.40% | ~945 |
-| Top Performer | 0.40% | ~945 |
-| Shhh...It's a Secret | 0.40% | ~945 |
-| Almost There | 0.40% | ~945 |
-| Make Some Room | 0.40% | ~945 |
-| Good, But Could Be Better! | 0.40% | ~945 |
+| Am I Seeing This? | 0.40% | ~946 |
+| Not a Janitor | 0.40% | ~946 |
+| Equal Measures | 0.40% | ~946 |
+| Blue Goddess | 0.40% | ~946 |
+| Duality | 0.40% | ~946 |
+| Top Performer | 0.40% | ~946 |
+| Shhh...It's a Secret | 0.40% | ~946 |
+| Almost There | 0.40% | ~946 |
+| Make Some Room | 0.40% | ~946 |
+| Good, But Could Be Better! | 0.40% | ~946 |
 | Ghost in the Machine | 0.30% | ~709 |
 | Chaos | 0.30% | ~709 |
 | Traitor | 0.30% | ~709 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 148)
 | You Shall Pass | 0.20% | ~31 |
 | A Foul Feast | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,371 (Ranked 68)  
-Completed: 564 (0.24%) (Ranked 252)  
+Progressed: 236,398 (Ranked 68)  
+Completed: 566 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,10 +205,10 @@ Completed: 564 (0.24%) (Ranked 252)
 | 2023-12-04 | 234,896 | 558 |
 | 2023-12-05 | 235,528 | 561 |
 | 2023-12-06 | 236,074 | 564 |
-| 2023-12-07 | 236,371 | 564 |
+| 2023-12-07 | 236,398 | 566 |
 ## Awards
 Max (Great Boss Battles): 2,668  (Ranked 102)  
-Sum: 6,608 (Ranked 127)  
+Sum: 6,612 (Ranked 127)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -216,8 +216,8 @@ Diff (max vs sum): -25
 | This game has Diverse Characters | 439 |
 | This game is Highly Recommended | 425 |
 | This game has Challenging Combat | 416 |
+| This game is Relaxing | 411 |
 | This game is Extremely Fun | 408 |
-| This game is Relaxing | 407 |
 | This game has Amazing Storytelling | 406 |
 | This game has Amazing Characters | 402 |
 | This game has Quickly Understood Controls | 394 |
@@ -360,4 +360,4 @@ Diff (max vs sum): -25
 | 2023-12-04 | 4.75 | 2,623 | 6,481 |
 | 2023-12-05 | 4.75 | 2,649 | 6,547 |
 | 2023-12-06 | 4.75 | 2,668 | 6,588 |
-| 2023-12-07 | 4.75 | 2,668 | 6,608 |
+| 2023-12-07 | 4.75 | 2,668 | 6,612 |

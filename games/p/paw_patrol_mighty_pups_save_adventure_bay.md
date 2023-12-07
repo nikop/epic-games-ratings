@@ -21,8 +21,8 @@
 | In the Air | 32.00% | ~14 |
 | Never Miss | 32.00% | ~14 |
 | The Fastest | 27.00% | ~12 |
+| Animal Sighting | 25.00% | ~11 |
 | Don’t Miss Any | 25.00% | ~11 |
-| Animal Sighting | 23.00% | ~10 |
 | Adventure Bay’s Citizen | 23.00% | ~10 |
 | You Have Been Everywhere | 18.00% | ~8 |
 | Mountain and Ice | 18.00% | ~8 |

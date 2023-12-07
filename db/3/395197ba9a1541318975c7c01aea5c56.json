@@ -2,10 +2,10 @@
   "ID": "395197ba9a1541318975c7c01aea5c56",
   "Name": "#DRIVE Rally",
   "ProductSlug": "drive-rally-d500ef",
-  "Ranking_EOS_Progress": 786,
+  "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 465,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-06T13:57:22.2736843+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:57:54.6588851+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:08:50.1182856+00:00"
+  "LastUpdate_Ratings": "2023-12-07T14:57:35.7613283+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:08:40.221889+00:00"
 }

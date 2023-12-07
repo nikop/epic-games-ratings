@@ -2,10 +2,10 @@
   "ID": "d10cc1a03b3b4e259f65cff288e56fe4",
   "Name": "Genesis of a Small God",
   "ProductSlug": "genesis-of-a-small-god-159cd4",
-  "Ranking_EOS_Progress": 786,
+  "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 465,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-03T21:57:07.5300708+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:03:01.2814879+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:06:07.5525239+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:02:47.0377161+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:06:03.7518692+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 7.00% | ~10,087 |
-| Titan's First Steps | 7.00% | ~10,087 |
-| Basic in Bulk | 6.00% | ~8,646 |
-| Tinkle of Coins | 6.00% | ~8,646 |
-| Disintermediation | 5.00% | ~7,205 |
-| It's Free Real Estate | 5.00% | ~7,205 |
-| Capitalism Ho! | 5.00% | ~7,205 |
-| One Easy Payment | 4.00% | ~5,764 |
-| Some Assembly Required | 4.00% | ~5,764 |
-| Another Satisfied Customer | 4.00% | ~5,764 |
-| Pretty Penny | 4.00% | ~5,764 |
-| Budding Merchant | 4.00% | ~5,764 |
-| Own the Means of Production | 4.00% | ~5,764 |
-| The Daily Grind | 3.00% | ~4,323 |
-| Bounty Hunters | 3.00% | ~4,323 |
-| Demand for Supplies | 3.00% | ~4,323 |
-| Flooding the Market | 3.00% | ~4,323 |
-| Where it Hurts | 3.00% | ~4,323 |
-| Gild-Gotten Goods | 3.00% | ~4,323 |
-| One-Armed Bandit | 3.00% | ~4,323 |
-| Dungeon Imports | 3.00% | ~4,323 |
-| Through Repetition, Perfection | 3.00% | ~4,323 |
+| Sponsored by Argon | 7.00% | ~10,088 |
+| Basic in Bulk | 7.00% | ~10,088 |
+| Titan's First Steps | 7.00% | ~10,088 |
+| Tinkle of Coins | 6.00% | ~8,647 |
+| Disintermediation | 5.00% | ~7,206 |
+| It's Free Real Estate | 5.00% | ~7,206 |
+| Capitalism Ho! | 5.00% | ~7,206 |
+| One Easy Payment | 4.00% | ~5,765 |
+| Some Assembly Required | 4.00% | ~5,765 |
+| Another Satisfied Customer | 4.00% | ~5,765 |
+| Pretty Penny | 4.00% | ~5,765 |
+| Budding Merchant | 4.00% | ~5,765 |
+| Own the Means of Production | 4.00% | ~5,765 |
+| The Daily Grind | 3.00% | ~4,324 |
+| Bounty Hunters | 3.00% | ~4,324 |
+| Demand for Supplies | 3.00% | ~4,324 |
+| Flooding the Market | 3.00% | ~4,324 |
+| Where it Hurts | 3.00% | ~4,324 |
+| Gild-Gotten Goods | 3.00% | ~4,324 |
+| One-Armed Bandit | 3.00% | ~4,324 |
+| Dungeon Imports | 3.00% | ~4,324 |
+| Through Repetition, Perfection | 3.00% | ~4,324 |
 | On the Path to Greatness | 2.00% | ~2,882 |
 | A Notch Above the Rest | 2.00% | ~2,882 |
 | Ascended | 2.00% | ~2,882 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~432 |
 | Capitalist Camaraderie | 0.20% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,107 (Ranked 80)  
+Progressed: 144,118 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 291 (0.20%) (Ranked 258)
 | 2023-12-04 | 143,830 | 291 |
 | 2023-12-05 | 143,938 | 291 |
 | 2023-12-06 | 144,049 | 291 |
-| 2023-12-07 | 144,107 | 291 |
+| 2023-12-07 | 144,118 | 291 |
 ## Awards
 Max (Great for Beginners): 4,868  (Ranked 75)  
 Sum: 27,672 (Ranked 50)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1473,9 +1473,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 241640,
+  "EOS_Progressed": 241645,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1185,
+  "EOS_NewPlayers": 1182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21388,6 +21388,11 @@
       "Time": "2023-12-07T14:09:25.3729539+00:00",
       "NumProgressed": 241640,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-07T15:09:16.6998205+00:00",
+      "NumProgressed": 241645,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -21799,7 +21804,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19331
+      "UsersEstimate": 19332
     },
     {
       "ID": "DwarfElf15Support",
@@ -21847,7 +21852,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 86990
+      "UsersEstimate": 86992
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -21911,7 +21916,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "InsultLoose",
@@ -21935,7 +21940,7 @@
       "Name": "We come in peace",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "MinistrelEpic",
@@ -22102,21 +22107,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 241640,
+      "Progressed": 241645,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 241640,
+      "Progressed": 241645,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-07T01:47:10.3363266+00:00",
-  "LastChanged_Achievements": "2023-12-07T14:09:25.3729535+00:00",
+  "LastChanged_Achievements": "2023-12-07T15:09:16.6998202+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:09.0043717+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:00:05.6547727+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:09:25.3731273+00:00"
+  "LastUpdate_Ratings": "2023-12-07T14:59:57.8200157+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:09:16.699955+00:00"
 }

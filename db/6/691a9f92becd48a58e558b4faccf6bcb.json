@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -1396,9 +1396,9 @@
       "ID": "ACHIEVEMENT_ENDING_BAD_SNOWMAN",
       "SetID": "5lffoo5",
       "Name": "Lost forever",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_ENDING_GOOD_HOME",
@@ -1522,8 +1522,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-12-07T14:09:31.8615596+00:00",
+  "LastChanged_Achievements": "2023-12-07T15:09:23.7159058+00:00",
   "LastUpdate_AppInfo": "2023-12-04T01:45:22.5163483+00:00",
   "LastUpdate_Ratings": "2023-12-07T14:00:40.7652228+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:09:31.8615789+00:00"
+  "LastUpdate_Achievements": "2023-12-07T15:09:23.7159247+00:00"
 }

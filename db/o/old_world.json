@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2112,9 +2112,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15666,
+  "EOS_Progressed": 15667,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17282,6 +17282,11 @@
       "Time": "2023-12-07T12:06:29.6625171+00:00",
       "NumProgressed": 15666,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-07T15:06:12.2104176+00:00",
+      "NumProgressed": 15667,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18691,9 +18696,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
       "SetID": "9201eeb",
       "Name": "Adur Burzen-Mihr",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
@@ -18947,9 +18952,9 @@
       "ID": "ACHIEVEMENT_NATION_ROME",
       "SetID": "7l38kb8",
       "Name": "Rome",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
@@ -20028,21 +20033,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15666,
+      "Progressed": 15667,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15666,
+      "Progressed": 15667,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-07T01:45:57.4329211+00:00",
-  "LastChanged_Achievements": "2023-12-07T14:06:15.2773113+00:00",
+  "LastChanged_Achievements": "2023-12-07T15:06:12.2104171+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:20.3030051+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:58:50.0343035+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:06:15.2781633+00:00"
+  "LastUpdate_Ratings": "2023-12-07T14:58:36.3930249+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:06:12.21127+00:00"
 }

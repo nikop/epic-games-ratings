@@ -6,20 +6,20 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~10,272 |
-| Overkill | 34.00% | ~8,518 |
+| I'm not dead yet | 41.00% | ~10,273 |
+| Overkill | 34.00% | ~8,519 |
 | Vaccine Incoming | 33.00% | ~8,268 |
 | A normal day in Gloomhaven | 31.00% | ~7,767 |
 | Spread the plague | 29.00% | ~7,266 |
 | Get over here! | 25.00% | ~6,264 |
-| Just when I thought I was out... | 19.00% | ~4,760 |
-| Precious! | 17.00% | ~4,259 |
-| Mine... All Mine... | 17.00% | ~4,259 |
+| Just when I thought I was out... | 19.00% | ~4,761 |
+| Precious! | 17.00% | ~4,260 |
+| Mine... All Mine... | 17.00% | ~4,260 |
 | Grizzled veteran | 15.00% | ~3,758 |
 | Anatomy Lesson | 15.00% | ~3,758 |
 | Light of my life | 14.00% | ~3,508 |
 | Obstacle race | 13.00% | ~3,257 |
-| You activated my trap card! | 12.00% | ~3,006 |
+| You activated my trap card! | 12.00% | ~3,007 |
 | Who's the Boss? | 11.00% | ~2,756 |
 | Augmented rat | 11.00% | ~2,756 |
 | Doom and gloom | 11.00% | ~2,756 |
@@ -50,7 +50,7 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 1.00% | ~251 |
 | Spoiler police! | 1.00% | ~251 |
 | New Blood | 1.00% | ~251 |
-| Betray this | 0.90% | ~225 |
+| Betray this | 0.90% | ~226 |
 | The Pacifist | 0.50% | ~125 |
 | Born Support | 0.50% | ~125 |
 | A tough job | 0.40% | ~100 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~25 |
 | Murder Death Kill | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,054 (Ranked 132)  
+Progressed: 25,056 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-04 | 24,648 | 1 |
 | 2023-12-05 | 24,794 | 1 |
 | 2023-12-06 | 24,964 | 1 |
-| 2023-12-07 | 25,054 | 1 |
+| 2023-12-07 | 25,056 | 1 |
 ## Awards
 Max (Character Customization): 3,594  (Ranked 90)  
 Sum: 8,400 (Ranked 101)  

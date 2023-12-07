@@ -2,10 +2,10 @@
   "ID": "e9d9b70f9bc14c35b034f4a3df62270e",
   "Name": "XENOTILT: HOSTILE PINBALL ACTION",
   "ProductSlug": "xenotilt-538108",
-  "Ranking_EOS_Progress": 786,
+  "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 465,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-02T18:57:17.6694246+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:00:47.101399+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:06:26.3324173+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:02:33.0324352+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:06:23.6602542+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3651,9 +3651,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32019,
+  "EOS_Progressed": 32021,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21611,6 +21611,11 @@
       "Time": "2023-12-07T13:13:55.6430096+00:00",
       "NumProgressed": 32019,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-07T15:08:25.010556+00:00",
+      "NumProgressed": 32021,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21940,9 +21945,9 @@
       "ID": "Surprise",
       "SetID": "819popo",
       "Name": "Surprise!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 320
     },
     {
       "ID": "Swift_Removers",
@@ -22029,7 +22034,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32019,
+      "Progressed": 32021,
       "Completed": 69
     }
   ],
@@ -22037,8 +22042,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-07T01:46:44.0768658+00:00",
-  "LastChanged_Achievements": "2023-12-07T14:08:35.4557101+00:00",
+  "LastChanged_Achievements": "2023-12-07T15:08:25.0105553+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.1930733+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:59:38.9654245+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:08:35.4558576+00:00"
+  "LastUpdate_Ratings": "2023-12-07T14:59:28.565375+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:08:25.0106502+00:00"
 }

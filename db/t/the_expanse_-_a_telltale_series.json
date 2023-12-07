@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15955,
+  "EOS_Progressed": 15957,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13248,6 +13248,11 @@
       "Time": "2023-12-07T12:03:29.725996+00:00",
       "NumProgressed": 15955,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-07T15:03:26.8457185+00:00",
+      "NumProgressed": 15957,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13412,7 +13417,7 @@
       "Name": "Bosmang",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "28",
@@ -13500,7 +13505,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "32",
@@ -13539,22 +13544,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15955,
+      "Progressed": 15957,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1909,
-      "Completed": 835
+      "Progressed": 1911,
+      "Completed": 837
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-07T14:03:37.0169681+00:00",
+  "LastChanged_Achievements": "2023-12-07T15:03:26.8457182+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:57:49.5053945+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:03:37.0171197+00:00"
+  "LastUpdate_Ratings": "2023-12-07T14:57:30.1315212+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:03:26.8458103+00:00"
 }

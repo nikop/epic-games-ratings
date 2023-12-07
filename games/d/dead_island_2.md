@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 531)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,705 |
-| Pork Chopped | 3.00% | ~1,705 |
+| Whatever It Takes | 3.00% | ~1,706 |
+| Pork Chopped | 3.00% | ~1,706 |
 | Dr. Reed, I Presume? | 2.00% | ~14,626 |
 | Git Gutte! | 2.00% | ~14,626 |
 | Bookworm | 2.00% | ~14,626 |
@@ -37,15 +37,15 @@ Rating: 4.54 (Ranked 531)
 | Max Headroom | 1.00% | ~7,313 |
 | Our True Nature | 1.00% | ~7,313 |
 | Down with the Sickness | 0.90% | ~6,582 |
-| Not Even My Final Form | 0.80% | ~5,850 |
-| Jumbo Keyring | 0.80% | ~5,850 |
-| Go, Bobcats! | 0.80% | ~5,850 |
-| Rising Star | 0.80% | ~5,850 |
+| Not Even My Final Form | 0.80% | ~5,851 |
+| Jumbo Keyring | 0.80% | ~5,851 |
+| Go, Bobcats! | 0.80% | ~5,851 |
+| Rising Star | 0.80% | ~5,851 |
 | On Safari | 0.60% | ~4,388 |
 | Smorgasbord | 0.60% | ~4,388 |
 | Internet Famous | 0.60% | ~4,388 |
 | Variety is the Spice of Death | 0.60% | ~4,388 |
-| Make it So | 0.50% | ~3,656 |
+| Make it So | 0.50% | ~3,657 |
 | LA Influential | 0.40% | ~2,925 |
 | Sole Survivor | 0.40% | ~2,925 |
 | Gore Horse | 0.40% | ~2,925 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 531)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,290 (Ranked 21)  
+Progressed: 731,320 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,10 +288,10 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
-| 2023-12-07 | 731,290 | 2,465 |
+| 2023-12-07 | 731,320 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,994  (Ranked 49)  
-Sum: 12,270 (Ranked 82)  
+Sum: 12,273 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -302,7 +302,7 @@ Diff (max vs sum): -33
 | This game is Relaxing | 530 |
 | This game has Amazing Storytelling | 518 |
 | This game is Extremely Fun | 506 |
-| This game is Highly Recommended | 498 |
+| This game is Highly Recommended | 501 |
 | This game has Amazing Characters | 464 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -537,4 +537,4 @@ Diff (max vs sum): -33
 | 2023-12-04 | 4.54 | 7,915 | 12,148 |
 | 2023-12-05 | 4.54 | 7,943 | 12,192 |
 | 2023-12-06 | 4.54 | 7,968 | 12,240 |
-| 2023-12-07 | 4.54 | 7,994 | 12,270 |
+| 2023-12-07 | 4.54 | 7,994 | 12,273 |

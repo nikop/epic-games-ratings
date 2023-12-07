@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -32,10 +32,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 835,
-  "EOS_Completed": 137,
+  "EOS_Completed": 138,
   "EOS_NewPlayers": 25,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 16.41,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 16.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3551,6 +3551,11 @@
       "Time": "2023-12-07T11:05:54.3622776+00:00",
       "NumProgressed": 835,
       "NumCompleted": 137
+    },
+    {
+      "Time": "2023-12-07T15:04:55.1407772+00:00",
+      "NumProgressed": 835,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 22,
@@ -3728,9 +3733,9 @@
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
@@ -3738,15 +3743,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 835,
-      "Completed": 137
+      "Completed": 138
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-12-07T14:05:01.881909+00:00",
+  "LastChanged_Achievements": "2023-12-07T15:04:55.1407769+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:28.3686171+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:00:35.4499458+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:05:01.8819321+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:00:30.1596673+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:04:55.1408032+00:00"
 }

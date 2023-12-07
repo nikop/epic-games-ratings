@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | The Camp | 59.00% | ~309 |
 | The Teleprobe | 47.00% | ~246 |
-| The City | 44.00% | ~230 |
-| The field base | 40.00% | ~209 |
+| The City | 44.00% | ~231 |
+| The field base | 40.00% | ~210 |
 | Survivors | 34.00% | ~178 |
 | The Condor | 31.00% | ~162 |
 | The End | 31.00% | ~162 |
@@ -19,7 +19,7 @@
 | On her own | 17.00% | ~89 |
 | Evacuation | 16.00% | ~84 |
 | Beyond divisions | 16.00% | ~84 |
-| Fierce fight | 15.00% | ~78 |
+| Fierce fight | 15.00% | ~79 |
 | Flying Objects Operator | 14.00% | ~73 |
 | I remember everything! | 13.00% | ~68 |
 | Another giant | 10.00% | ~52 |
@@ -34,7 +34,7 @@
 | Convoy list | 1.00% | ~5 |
 | No more mistakes | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523 (Ranked 312)  
+Progressed: 524 (Ranked 312)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,3 +66,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-04 | 513 | 0 |
 | 2023-12-05 | 517 | 0 |
 | 2023-12-06 | 523 | 0 |
+| 2023-12-07 | 524 | 0 |

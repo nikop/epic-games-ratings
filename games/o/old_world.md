@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 1.00% | ~157 |
 | Carthage | 1.00% | ~157 |
 | Egypt | 1.00% | ~157 |
+| Rome | 1.00% | ~157 |
 | One True Faith | 1.00% | ~157 |
 | Assyrian Paganism | 1.00% | ~157 |
 | Economic Reform | 1.00% | ~157 |
@@ -130,14 +131,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 1.00% | ~157 |
 | Turreted Elephant | 1.00% | ~157 |
 | Ambition Victory | 1.00% | ~157 |
-| Rome | 0.90% | ~141 |
+| Adur Burzen-Mihr | 0.90% | ~141 |
 | Hittite Paganism | 0.90% | ~141 |
 | All Nations | 0.90% | ~141 |
 | Poetic Leader | 0.90% | ~141 |
 | Peacemaker | 0.80% | ~125 |
 | Noble Difficulty | 0.80% | ~125 |
 | Cao'an | 0.80% | ~125 |
-| Adur Burzen-Mihr | 0.80% | ~125 |
 | Kmt Unified | 0.80% | ~125 |
 | Ishtar Gate in Babylon | 0.70% | ~110 |
 | Carthage - Ox Hide | 0.70% | ~110 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,666 (Ranked 152)  
+Progressed: 15,667 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,7 +580,7 @@ Completed: 5 (0.03%) (Ranked 332)
 | 2023-12-04 | 15,638 | 5 |
 | 2023-12-05 | 15,649 | 5 |
 | 2023-12-06 | 15,662 | 5 |
-| 2023-12-07 | 15,666 | 5 |
+| 2023-12-07 | 15,667 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 275)  
 Sum: 1,894 (Ranked 220)  

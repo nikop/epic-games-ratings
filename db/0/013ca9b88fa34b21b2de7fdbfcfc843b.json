@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -205,9 +205,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8330,
+  "EOS_Progressed": 8331,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8165,6 +8165,11 @@
       "Time": "2023-12-07T14:09:50.4629201+00:00",
       "NumProgressed": 8330,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T15:09:43.0555139+00:00",
+      "NumProgressed": 8331,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8185,7 +8190,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5831
+      "UsersEstimate": 5832
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8201,7 +8206,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -8311,9 +8316,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3499
+      "UsersEstimate": 3582
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -8329,7 +8334,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 5081
+      "UsersEstimate": 5082
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -8353,7 +8358,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3915
+      "UsersEstimate": 3916
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8377,7 +8382,7 @@
       "Name": "I Now Pronounce You...",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "MAKE_FRIENDS_1",
@@ -8456,22 +8461,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8330,
+      "Progressed": 8331,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 947,
-      "Completed": 947
+      "Progressed": 948,
+      "Completed": 948
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-04T18:02:55.9509642+00:00",
-  "LastChanged_Achievements": "2023-12-07T14:09:50.4629197+00:00",
+  "LastChanged_Achievements": "2023-12-07T15:09:43.0555136+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:03:14.8093305+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:09:50.4629778+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:03:01.1791974+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:09:43.0555676+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "8d9b7c29e68e4a8aaa47f7074a532975",
   "Name": "Berzerk Recharged",
   "ProductSlug": "berzerk-recharged-c35563",
-  "Ranking_EOS_Progress": 786,
+  "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 465,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-09T08:00:00+00:00",
     "PcReleaseDate": "2023-11-09T08:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-07T16:05:21.6524586+00:00",
-  "LastChanged_Achievements": "2023-12-07T14:03:25.5943065+00:00",
+  "LastChanged_Achievements": "2023-12-07T15:03:14.5197551+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:21.0834796+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:57:56.789264+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:03:25.5943138+00:00"
+  "LastUpdate_Ratings": "2023-12-07T14:57:38.0546514+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:03:14.5197586+00:00"
 }

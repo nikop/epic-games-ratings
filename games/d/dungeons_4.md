@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 89.00% | ~474 |
 | For the Horde! | 83.00% | ~442 |
 | Hammer Time, Round Two | 81.00% | ~432 |
-| The Hellwoods | 76.00% | ~405 |
+| The Hellwoods | 77.00% | ~410 |
 | Experienced Thalya | 72.00% | ~384 |
 | The Plains of Strothalm | 71.00% | ~378 |
 | Thalya's Concentrated Fury | 69.00% | ~368 |
@@ -20,7 +20,7 @@
 | The Ascent | 57.00% | ~304 |
 | It's Warm and Cozy at Home | 57.00% | ~304 |
 | Trap Master | 56.00% | ~298 |
-| Minions, Minions! | 54.00% | ~288 |
+| Minions, Minions! | 55.00% | ~293 |
 | The Big Eaty | 52.00% | ~277 |
 | Hard Work | 51.00% | ~272 |
 | YOU SHALL NOT PASS! | 50.00% | ~266 |

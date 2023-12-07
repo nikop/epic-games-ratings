@@ -51,9 +51,9 @@
 | Unlucky Luke | 6.00% | ~11 |
 | Feast Time | 6.00% | ~11 |
 | Cheesy Chess | 5.00% | ~10 |
+| Octopy Mayhem | 5.00% | ~10 |
 | A Phony Clown | 4.00% | ~8 |
 | Duck Knight | 4.00% | ~8 |
-| Octopy Mayhem | 4.00% | ~8 |
 | Got'em Totem | 4.00% | ~8 |
 | Destroy Everything | 1.00% | ~2 |
 | Hearty Meteor | 1.00% | ~2 |

@@ -15,6 +15,7 @@ Number of Ratings: 756  (23.09.2022)
 | Medal Hunter | 0.10% | ~282 |
 | Medal Wizard | 0.10% | ~282 |
 | Ready Steady Score | 0.10% | ~282 |
+| Nine Zeroes | 0.10% | ~282 |
 | Challenge Accepted! | 0.10% | ~282 |
 | I Found it! | 0.10% | ~282 |
 | Full Loot Madness | 0.10% | ~282 |
@@ -35,7 +36,6 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Pinball Hoarder | 0.00% | ~0 |
 | Virtual Pinball Museum | 0.00% | ~0 |
-| Nine Zeroes | 0.00% | ~0 |
 | Catomic Bomb | 0.00% | ~0 |
 | Terraformer | 0.00% | ~0 |
 | The Captain | 0.00% | ~0 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282,449 (Ranked 56)  
+Progressed: 282,456 (Ranked 56)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-04 | 282,245 | 0 |
 | 2023-12-05 | 282,325 | 0 |
 | 2023-12-06 | 282,407 | 0 |
-| 2023-12-07 | 282,449 | 0 |
+| 2023-12-07 | 282,456 | 0 |
 ## Awards
 Max (Great for Beginners): 203  (Ranked 289)  
 Sum: 1,606 (Ranked 231)  

@@ -6,14 +6,14 @@ Rating: 4.58 (Ranked 450)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 72.00% | ~5,998 |
-| A Thorny Situation | 70.00% | ~5,831 |
-| ... And Spit Back Out | 61.00% | ~5,081 |
+| A Thorny Situation | 70.00% | ~5,832 |
+| ... And Spit Back Out | 61.00% | ~5,082 |
 | Break-Net Speed | 49.00% | ~4,082 |
-| Bramble Breaker | 47.00% | ~3,915 |
+| Bramble Breaker | 47.00% | ~3,916 |
 | Miner 49er | 43.00% | ~3,582 |
-| Humble Collector | 42.00% | ~3,499 |
+| Humble Collector | 43.00% | ~3,582 |
 | Calm Sailing | 37.00% | ~3,082 |
-| Open the Gate! | 34.00% | ~2,832 |
+| Open the Gate! | 34.00% | ~2,833 |
 | Mist Walker | 32.00% | ~2,666 |
 | Lumberjack | 27.00% | ~2,249 |
 | Oui, Chef! | 23.00% | ~1,916 |
@@ -30,7 +30,7 @@ Rating: 4.58 (Ranked 450)
 | Fanatical Farmer | 8.00% | ~666 |
 | Scattered Scroll Scrounger | 6.00% | ~500 |
 | Azorian Anniversary | 6.00% | ~500 |
-| I Now Pronounce You... | 5.00% | ~416 |
+| I Now Pronounce You... | 5.00% | ~417 |
 | Chatty Neighbor | 4.00% | ~333 |
 | Right Tool For the Job | 4.00% | ~333 |
 | House Proud | 4.00% | ~333 |
@@ -41,7 +41,7 @@ Rating: 4.58 (Ranked 450)
 | Very Skilled | 0.20% | ~17 |
 | Workaholic | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,330 (Ranked 175)  
+Progressed: 8,331 (Ranked 175)  
 Completed: 1 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 1 (0.01%) (Ranked 348)
 | 2023-12-04 | 8,286 | 1 |
 | 2023-12-05 | 8,295 | 1 |
 | 2023-12-06 | 8,323 | 1 |
-| 2023-12-07 | 8,330 | 1 |
+| 2023-12-07 | 8,331 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

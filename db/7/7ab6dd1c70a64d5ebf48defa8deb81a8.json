@@ -2,10 +2,10 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249,
+  "EOS_Progressed": 250,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -995,6 +995,11 @@
       "Time": "2023-12-07T12:09:52.2138449+00:00",
       "NumProgressed": 249,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-07T15:09:43.052816+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 36,
@@ -1006,7 +1011,7 @@
       "Name": "Break Out",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_02",
@@ -1022,15 +1027,15 @@
       "Name": "Powerful Allies",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_05",
@@ -1062,7 +1067,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_09",
@@ -1078,7 +1083,7 @@
       "Name": "Trinity",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_11",
@@ -1102,7 +1107,7 @@
       "Name": "Adventurer",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_14",
@@ -1126,7 +1131,7 @@
       "Name": "Essence Blow",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_17",
@@ -1222,7 +1227,7 @@
       "Name": "I Found It",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_29",
@@ -1262,7 +1267,7 @@
       "Name": "The Collector",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_35",
@@ -1293,14 +1298,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 249,
+      "Progressed": 250,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-07T14:09:50.3348038+00:00",
+  "LastChanged_Achievements": "2023-12-07T15:09:43.0528155+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:12.3755943+00:00",
-  "LastUpdate_Ratings": "2023-12-07T13:57:53.9378206+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:09:50.334831+00:00"
+  "LastUpdate_Ratings": "2023-12-07T14:57:35.022516+00:00",
+  "LastUpdate_Achievements": "2023-12-07T15:09:43.0528423+00:00"
 }

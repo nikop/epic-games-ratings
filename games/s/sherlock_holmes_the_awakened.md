@@ -1,41 +1,41 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.69 (Ranked 233)  
+Rating: 4.69 (Ranked 232)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 65.00% | ~569 |
+| Read Between The Lines | 65.00% | ~570 |
 | To Hell In A Handcart | 64.00% | ~561 |
-| High Profile | 58.00% | ~508 |
+| High Profile | 58.00% | ~509 |
 | Whispers In The Dark | 55.00% | ~482 |
-| Fond Memories | 54.00% | ~473 |
+| Fond Memories | 53.00% | ~465 |
 | A Method To His Madness | 52.00% | ~456 |
 | History Check | 51.00% | ~447 |
-| The New World | 49.00% | ~429 |
+| The New World | 49.00% | ~430 |
 | Open Sesame | 47.00% | ~412 |
 | Sticky Fingers | 47.00% | ~412 |
 | Knives Out | 47.00% | ~412 |
 | Land, Ho! | 47.00% | ~412 |
-| Lock, Stock, And Barrel | 46.00% | ~403 |
 | Gaze Into The Abyss | 46.00% | ~403 |
 | Back In The Saddle | 46.00% | ~403 |
 | No Man Is An Island | 46.00% | ~403 |
-| At Wits' End | 45.00% | ~394 |
-| Fhtagn! | 44.00% | ~385 |
+| Lock, Stock, And Barrel | 45.00% | ~395 |
+| At Wits' End | 45.00% | ~395 |
+| Fhtagn! | 44.00% | ~386 |
 | Up In Flames | 43.00% | ~377 |
 | Bookworm | 42.00% | ~368 |
 | Going Once... | 39.00% | ~342 |
 | Let Me Be Frank | 37.00% | ~324 |
-| No Stone Unturned | 36.00% | ~315 |
+| No Stone Unturned | 36.00% | ~316 |
 | Brain Food | 34.00% | ~298 |
 | Read It And Weep | 21.00% | ~184 |
-| Curiosity Killed The Cat | 19.00% | ~166 |
+| Curiosity Killed The Cat | 19.00% | ~167 |
 | Big Breakthrough | 13.00% | ~114 |
 | Reawakened | 4.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876 (Ranked 274)  
-Completed: 28 (3.20%) (Ranked 98)  
+Progressed: 877 (Ranked 274)  
+Completed: 28 (3.19%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -221,7 +221,7 @@ Completed: 28 (3.20%) (Ranked 98)
 | 2023-12-03 | 825 | 28 |
 | 2023-12-05 | 833 | 28 |
 | 2023-12-06 | 858 | 28 |
-| 2023-12-07 | 876 | 28 |
+| 2023-12-07 | 877 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

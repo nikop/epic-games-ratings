@@ -7,7 +7,7 @@
 | Introduction completed | 80.00% | ~20 |
 | Chapter 2 | 52.00% | ~13 |
 | Chapter 1 | 48.00% | ~12 |
-| Chapter 3 | 44.00% | ~11 |
+| Chapter 3 | 48.00% | ~12 |
 | Chapter 4 | 44.00% | ~11 |
 | Your Days Are Numbered | 44.00% | ~11 |
 | All Materials | 44.00% | ~11 |
@@ -20,10 +20,10 @@
 | Highway Survival | 12.00% | ~3 |
 | Tramp Saver | 12.00% | ~3 |
 | Hard To Wake Up | 12.00% | ~3 |
+| Bear Cop | 8.00% | ~2 |
 | Secret Locker | 8.00% | ~2 |
 | Paw Music | 8.00% | ~2 |
 | Sugar Pills Lover | 8.00% | ~2 |
-| Bear Cop | 4.00% | ~1 |
 | Chipmunk | 4.00% | ~1 |
 | Master of Mattresses | 0.00% | ~0 |
 | Main Endings | 0.00% | ~0 |
