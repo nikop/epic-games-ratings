@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.42% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.41% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -58,8 +58,8 @@
 | 56 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.58% |
 | 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.53% |
 | 58 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
-| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.12% |
 | 59 | [Scorn](games/s/scorn.md) | 7.12% |
+| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.11% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 7.09% |
 | 62 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.98% |
@@ -97,12 +97,12 @@
 | 95 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.45% |
 | 96 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
-| 98 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.21% |
+| 98 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.20% |
 | 99 | [Destiny 2](games/d/destiny_2.md) | 3.19% |
 | 100 | [The Complex](games/t/the_complex.md) | 3.18% |
-| 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.13% |
-| 102 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
-| 102 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
+| 101 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
+| 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.12% |
+| 101 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
 | 104 | [Doodle God](games/d/doodle_god.md) | 3.08% |
 | 104 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 106 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.06% |
