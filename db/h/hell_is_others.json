@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 755,
+  "Ranking_Rating": 754,
   "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1303,9 +1303,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259116,
+  "EOS_Progressed": 259117,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23493,6 +23493,11 @@
       "Time": "2023-12-07T11:07:39.6483351+00:00",
       "NumProgressed": 259116,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-07T12:06:34.3923263+00:00",
+      "NumProgressed": 259117,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -23616,7 +23621,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7773
+      "UsersEstimate": 7774
     },
     {
       "ID": "CreditLevel3",
@@ -23776,7 +23781,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7773
+      "UsersEstimate": 7774
     },
     {
       "ID": "KillOtherWithMine",
@@ -23951,7 +23956,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259116,
+      "Progressed": 259117,
       "Completed": 3
     }
   ],
@@ -23959,8 +23964,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-06T13:07:17.8158853+00:00",
-  "LastChanged_Achievements": "2023-12-07T11:07:39.6483347+00:00",
+  "LastChanged_Achievements": "2023-12-07T12:06:34.3923259+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:43.7496821+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:57:32.9587641+00:00",
-  "LastUpdate_Achievements": "2023-12-07T11:07:39.6484786+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:57:21.4280912+00:00",
+  "LastUpdate_Achievements": "2023-12-07T12:06:34.3924758+00:00"
 }

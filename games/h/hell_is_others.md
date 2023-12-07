@@ -1,7 +1,7 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.39 (Ranked 755)  
+Rating: 4.39 (Ranked 754)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,8 +18,8 @@ Rating: 4.39 (Ranked 755)
 | Pacifist | 4.00% | ~10,365 |
 | Vandalism | 4.00% | ~10,365 |
 | Capitalist I | 4.00% | ~10,365 |
-| Fixer II | 3.00% | ~7,773 |
-| Adrenaline | 3.00% | ~7,773 |
+| Fixer II | 3.00% | ~7,774 |
+| Adrenaline | 3.00% | ~7,774 |
 | By a hair | 2.00% | ~5,182 |
 | It took a while | 2.00% | ~5,182 |
 | Samurai | 2.00% | ~5,182 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 755)
 | Capitalist III | 0.10% | ~259 |
 | Hell Is You | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,116 (Ranked 58)  
+Progressed: 259,117 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 3 (0.00%) (Ranked 371)
 | 2023-12-04 | 259,050 | 3 |
 | 2023-12-05 | 259,076 | 3 |
 | 2023-12-06 | 259,105 | 3 |
-| 2023-12-07 | 259,116 | 3 |
+| 2023-12-07 | 259,117 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 52  (Ranked 429)  
 Sum: 357 (Ranked 356)  

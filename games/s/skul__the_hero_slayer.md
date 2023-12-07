@@ -29,10 +29,10 @@ Number of Ratings: 546  (23.09.2022)
 | The God of Battle | 3.00% | ~252 |
 | Too Much of a Talker | 2.00% | ~168 |
 | The Skeleton King | 2.00% | ~168 |
-| Cold-Blooded | 0.80% | ~67 |
+| Cold-Blooded | 0.90% | ~76 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,397 (Ranked 174)  
-Completed: 17 (0.20%) (Ranked 259)  
+Completed: 17 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

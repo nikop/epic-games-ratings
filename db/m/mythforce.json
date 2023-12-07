@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -818,9 +818,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5376,
+  "EOS_Progressed": 5377,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -10658,6 +10658,11 @@
       "Time": "2023-12-07T08:06:21.5363172+00:00",
       "NumProgressed": 5376,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-07T12:05:36.2486512+00:00",
+      "NumProgressed": 5377,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10726,7 +10731,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -10830,7 +10835,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -10853,15 +10858,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5376,
+      "Progressed": 5377,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-06T15:59:42.180054+00:00",
-  "LastChanged_Achievements": "2023-12-07T11:06:26.8661624+00:00",
+  "LastChanged_Achievements": "2023-12-07T12:05:36.2486507+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-07T11:00:28.5574981+00:00",
-  "LastUpdate_Achievements": "2023-12-07T11:06:26.8662257+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:59:34.4403156+00:00",
+  "LastUpdate_Achievements": "2023-12-07T12:05:36.2487196+00:00"
 }

@@ -5277,9 +5277,9 @@
       "Count": 407
     }
   ],
-  "EOS_Progressed": 236295,
+  "EOS_Progressed": 236319,
   "EOS_Completed": 564,
-  "EOS_NewPlayers": 5393,
+  "EOS_NewPlayers": 5379,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21807,6 +21807,11 @@
       "Time": "2023-12-07T11:09:34.4616751+00:00",
       "NumProgressed": 236295,
       "NumCompleted": 564
+    },
+    {
+      "Time": "2023-12-07T12:09:04.1201209+00:00",
+      "NumProgressed": 236319,
+      "NumCompleted": 564
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21819,7 +21824,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -21867,7 +21872,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -21899,7 +21904,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21923,7 +21928,7 @@
       "Name": "Not So Special Now",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -21939,7 +21944,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -21971,7 +21976,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "Meet_Meidra",
@@ -22051,7 +22056,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "Obtain_Guns_A",
@@ -22258,13 +22263,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 236295,
+      "Progressed": 236319,
       "Completed": 564
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 15460,
+      "Progressed": 15484,
       "Completed": 201
     }
   ],
@@ -22272,8 +22277,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-07T10:03:15.3871709+00:00",
-  "LastChanged_Achievements": "2023-12-07T11:09:34.4616747+00:00",
+  "LastChanged_Achievements": "2023-12-07T12:09:04.1201205+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-07T11:03:42.4933716+00:00",
-  "LastUpdate_Achievements": "2023-12-07T11:09:34.4617749+00:00"
+  "LastUpdate_Ratings": "2023-12-07T12:03:14.3996011+00:00",
+  "LastUpdate_Achievements": "2023-12-07T12:09:04.1202493+00:00"
 }

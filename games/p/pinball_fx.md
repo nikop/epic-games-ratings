@@ -6,28 +6,26 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~231,595 |
-| I know the Rules | 34.00% | ~96,027 |
-| I Found it! | 11.00% | ~31,068 |
-| Contender | 10.00% | ~28,243 |
-| First but not Last | 5.00% | ~14,122 |
-| Ready Steady Score | 4.00% | ~11,297 |
-| Dress Code | 3.00% | ~8,473 |
-| Full Loot Madness | 2.00% | ~5,649 |
-| My Table, my Rules | 1.00% | ~2,824 |
-| Nine Zeroes | 1.00% | ~2,824 |
-| Shiny Memento | 0.30% | ~847 |
-| Pinball Hoarder | 0.30% | ~847 |
-| Interior Designer | 0.30% | ~847 |
+| Contender | 0.10% | ~282 |
+| My Table, my Rules | 0.10% | ~282 |
+| Collect Them All | 0.10% | ~282 |
+| Shiny Memento | 0.10% | ~282 |
+| First but not Last | 0.10% | ~282 |
 | Table Mastered, part 10 | 0.10% | ~282 |
 | Medal Hunter | 0.10% | ~282 |
 | Medal Wizard | 0.10% | ~282 |
-| Virtual Pinball Museum | 0.10% | ~282 |
+| Ready Steady Score | 0.10% | ~282 |
 | Challenge Accepted! | 0.10% | ~282 |
+| I Found it! | 0.10% | ~282 |
+| Full Loot Madness | 0.10% | ~282 |
 | Relic Hunter | 0.10% | ~282 |
+| Interior Designer | 0.10% | ~282 |
 | Show Them | 0.10% | ~282 |
 | Totally Furnished | 0.10% | ~282 |
+| Dress Code | 0.10% | ~282 |
 | Customizer | 0.10% | ~282 |
+| Ball Launched | 0.10% | ~282 |
+| I know the Rules | 0.10% | ~282 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -35,9 +33,20 @@ Number of Ratings: 756  (23.09.2022)
 | Royale Family | 0.00% | ~0 |
 | Mythic Toy | 0.00% | ~0 |
 | Fully Involved | 0.00% | ~0 |
-| Collect Them All | 0.00% | ~0 |
+| Pinball Hoarder | 0.00% | ~0 |
+| Virtual Pinball Museum | 0.00% | ~0 |
+| Nine Zeroes | 0.00% | ~0 |
+| Catomic Bomb | 0.00% | ~0 |
+| Terraformer | 0.00% | ~0 |
+| The Captain | 0.00% | ~0 |
+| To boldly go… | 0.00% | ~0 |
+| Battle of Cardassia | 0.00% | ~0 |
+| Did It for the Dowry | 0.00% | ~0 |
+| Glorious victory | 0.00% | ~0 |
+| The most beautiful Christmas | 0.00% | ~0 |
+| End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282,433 (Ranked 56)  
+Progressed: 282,436 (Ranked 56)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +277,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-04 | 282,245 | 0 |
 | 2023-12-05 | 282,325 | 0 |
 | 2023-12-06 | 282,407 | 0 |
-| 2023-12-07 | 282,433 | 0 |
+| 2023-12-07 | 282,436 | 0 |
 ## Awards
 Max (Great for Beginners): 203  (Ranked 289)  
 Sum: 1,606 (Ranked 231)  

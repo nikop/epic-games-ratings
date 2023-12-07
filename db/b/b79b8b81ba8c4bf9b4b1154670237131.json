@@ -113,7 +113,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14555,
+  "EOS_Progressed": 14557,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 838,
   "EOS_NewCompleters": 2,
@@ -2798,6 +2798,11 @@
       "Time": "2023-12-07T11:09:24.1276767+00:00",
       "NumProgressed": 14555,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-07T12:08:55.7709191+00:00",
+      "NumProgressed": 14557,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -2810,7 +2815,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5531
+      "UsersEstimate": 5532
     },
     {
       "ID": "ACH_AE_10",
@@ -2842,7 +2847,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 10916
+      "UsersEstimate": 10918
     },
     {
       "ID": "ACH_AE_14",
@@ -2850,7 +2855,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "ACH_AE_15",
@@ -2858,7 +2863,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3203
     },
     {
       "ID": "ACH_AE_16",
@@ -2986,7 +2991,7 @@
       "Name": "Pajama Boy",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "ACH_AE_30",
@@ -3089,7 +3094,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 14555,
+      "Progressed": 14557,
       "Completed": 14
     }
   ],
@@ -3097,8 +3102,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-06T04:58:43.6261983+00:00",
-  "LastChanged_Achievements": "2023-12-07T11:09:24.1276762+00:00",
+  "LastChanged_Achievements": "2023-12-07T12:08:55.7709186+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.7146917+00:00",
-  "LastUpdate_Ratings": "2023-12-07T11:00:20.3426518+00:00",
-  "LastUpdate_Achievements": "2023-12-07T11:09:24.1277061+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:59:28.418827+00:00",
+  "LastUpdate_Achievements": "2023-12-07T12:08:55.77096+00:00"
 }

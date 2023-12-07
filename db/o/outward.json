@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -535,9 +535,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3723,
+  "EOS_Progressed": 3724,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5845,6 +5845,11 @@
       "Time": "2023-12-07T11:08:13.7029583+00:00",
       "NumProgressed": 3723,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-07T12:08:00.5840501+00:00",
+      "NumProgressed": 3724,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5896,7 +5901,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "CrowdPleaser",
@@ -5928,7 +5933,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ForAllAurai_8",
@@ -5950,9 +5955,9 @@
       "ID": "HoldmyMeadandWatchThis_43",
       "SetID": "c4hee28",
       "Name": "Hold my Mead and Watch This",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 223
     },
     {
       "ID": "HomeSweetHome_25",
@@ -5960,7 +5965,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "HouseofCards_19",
@@ -6040,7 +6045,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6048,7 +6053,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6176,7 +6181,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2829
+      "UsersEstimate": 2830
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6191,15 +6196,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3723,
+      "Progressed": 3724,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-07T11:08:13.7029578+00:00",
+  "LastChanged_Achievements": "2023-12-07T12:08:00.5840498+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:35.7033793+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:57:16.7544675+00:00",
-  "LastUpdate_Achievements": "2023-12-07T11:08:13.7030057+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:57:08.9220527+00:00",
+  "LastUpdate_Achievements": "2023-12-07T12:08:00.5841028+00:00"
 }

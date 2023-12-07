@@ -1,27 +1,27 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.67 (Ranked 278)  
+Rating: 4.67 (Ranked 277)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,691 |
+| Getting on the Step | 94.00% | ~5,692 |
 | On the Top Step | 88.00% | ~5,328 |
-| Setting up for Success | 78.00% | ~4,722 |
-| Team Orders | 76.00% | ~4,601 |
-| Engineer | 56.00% | ~3,390 |
-| Familiar Faces | 49.00% | ~2,966 |
+| Setting up for Success | 78.00% | ~4,723 |
+| Team Orders | 76.00% | ~4,602 |
+| Engineer | 56.00% | ~3,391 |
+| Familiar Faces | 49.00% | ~2,967 |
 | Sharing the Love | 44.00% | ~2,664 |
-| Going the Extra Mile | 43.00% | ~2,603 |
+| Going the Extra Mile | 43.00% | ~2,604 |
 | Hitting a Season | 42.00% | ~2,543 |
 | A Dozen Pieces | 35.00% | ~2,119 |
-| Challenge Yourself | 34.00% | ~2,058 |
-| Making History | 32.00% | ~1,937 |
+| Challenge Yourself | 34.00% | ~2,059 |
+| Making History | 32.00% | ~1,938 |
 | Network Success | 29.00% | ~1,756 |
 | Writing a new Chapter | 26.00% | ~1,574 |
 | Spring Cleaning | 24.00% | ~1,453 |
-| Reduce | 21.00% | ~1,271 |
-| Ups and Downs | 21.00% | ~1,271 |
+| Reduce | 21.00% | ~1,272 |
+| Ups and Downs | 21.00% | ~1,272 |
 | Crucial Combo | 20.00% | ~1,211 |
 | Reuse | 18.00% | ~1,090 |
 | Gathering Dust | 17.00% | ~1,029 |
@@ -35,9 +35,9 @@ Rating: 4.67 (Ranked 278)
 | All in a Weekend's Work | 13.00% | ~787 |
 | Friendly Competition | 13.00% | ~787 |
 | Switcheroo | 13.00% | ~787 |
-| Recycle | 12.00% | ~726 |
-| Undisputed Winner | 10.00% | ~605 |
-| Tinkerer | 10.00% | ~605 |
+| Recycle | 12.00% | ~727 |
+| Undisputed Winner | 10.00% | ~606 |
+| Tinkerer | 10.00% | ~606 |
 | For all Those Back at the Factory | 7.00% | ~424 |
 | Living up to Expectations | 7.00% | ~424 |
 | Smooth Operator | 7.00% | ~424 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 278)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,054 (Ranked 186)  
+Progressed: 6,055 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,16 +140,16 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-04 | 6,034 | 0 |
 | 2023-12-05 | 6,039 | 0 |
 | 2023-12-06 | 6,050 | 0 |
-| 2023-12-07 | 6,054 | 0 |
+| 2023-12-07 | 6,055 | 0 |
 ## Awards
-Max (Diverse Characters): 32  (Ranked 495)  
-Sum: 152 (Ranked 429)  
-Diff (max vs sum): 66  
+Max (Diverse Characters): 35  (Ranked 482)  
+Sum: 156 (Ranked 428)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
-| This game has Diverse Characters | 32 |
-| This game has a Competitive Community | 28 |
+| This game has Diverse Characters | 35 |
+| This game has a Competitive Community | 29 |
 | This game is Highly Recommended | 26 |
 | This game is Extremely Fun | 25 |
 | This game is Great for Quick Sessions | 24 |
@@ -245,3 +245,4 @@ Diff (max vs sum): 66
 | 2023-12-03 | 4.68 | 28 | 124 |
 | 2023-12-04 | 4.68 | 32 | 151 |
 | 2023-12-05 | 4.67 | 32 | 152 |
+| 2023-12-07 | 4.67 | 35 | 156 |

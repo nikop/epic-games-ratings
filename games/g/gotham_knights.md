@@ -5,16 +5,16 @@ Rating: 4.18 (Ranked 941)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~38,877 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,436 |
+| First Step Into the Knight | 50.00% | ~38,878 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,437 |
 | Loose Ends | 33.00% | ~25,659 |
 | To the Victor Go the Spoils | 28.00% | ~21,771 |
 | Knighthood | 27.00% | ~20,994 |
-| Get ReQ'd | 25.00% | ~19,438 |
+| Get ReQ'd | 25.00% | ~19,439 |
 | Whispered Words | 24.00% | ~18,661 |
 | The Batman Family | 22.00% | ~17,106 |
 | Lock and Key | 22.00% | ~17,106 |
-| Something in the Clay | 21.00% | ~16,328 |
+| Something in the Clay | 21.00% | ~16,329 |
 | Quartzer Life Crisis | 20.00% | ~15,551 |
 | Working Hard or Harley Working? | 20.00% | ~15,551 |
 | Unstoppable Force | 20.00% | ~15,551 |
@@ -31,11 +31,11 @@ Rating: 4.18 (Ranked 941)
 | Seeking Asylum | 14.00% | ~10,886 |
 | Not On My Watch | 13.00% | ~10,108 |
 | Shock Til They Drop | 13.00% | ~10,108 |
-| End of an Era | 12.00% | ~9,330 |
-| Bulldozed | 12.00% | ~9,330 |
-| Gotham Knight | 12.00% | ~9,330 |
+| End of an Era | 12.00% | ~9,331 |
+| Bulldozed | 12.00% | ~9,331 |
+| Gotham Knight | 12.00% | ~9,331 |
 | Gotham City Confidential | 11.00% | ~8,553 |
-| Drone You Out | 10.00% | ~7,775 |
+| Drone You Out | 10.00% | ~7,776 |
 | Out of Their League | 9.00% | ~6,998 |
 | Solid Alibi | 9.00% | ~6,998 |
 | Fusion Expert | 7.00% | ~5,443 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 941)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,754 (Ranked 99)  
+Progressed: 77,755 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 124 (0.16%) (Ranked 271)
 | 2023-12-04 | 77,678 | 124 |
 | 2023-12-05 | 77,707 | 124 |
 | 2023-12-06 | 77,742 | 124 |
-| 2023-12-07 | 77,754 | 124 |
+| 2023-12-07 | 77,755 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,996  (Ranked 98)  
 Sum: 5,117 (Ranked 140)  

@@ -1,13 +1,13 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 796)  
+Rating: 4.35 (Ranked 795)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 42.00% | ~6,352 |
-| It's a good start | 10.00% | ~1,512 |
+| Bye Bye | 42.00% | ~6,354 |
+| It's a good start | 10.00% | ~1,513 |
 | Bonjour! | 8.00% | ~1,210 |
 | Quack | 7.00% | ~1,059 |
 | The Assistant | 6.00% | ~908 |
@@ -19,14 +19,14 @@ Number of Ratings: 7,669  (23.09.2022)
 | Keep the doctor away | 3.00% | ~454 |
 | Surprise of Langhe | 3.00% | ~454 |
 | Famous | 3.00% | ~454 |
-| What is that? A castle? | 2.00% | ~302 |
-| A lot of space | 2.00% | ~302 |
-| A big garage | 2.00% | ~302 |
-| Millionaire | 2.00% | ~302 |
-| Exotic | 2.00% | ~302 |
-| Pastry Chef | 2.00% | ~302 |
-| Welcome to the club | 2.00% | ~302 |
-| Very Important Winemaker | 2.00% | ~302 |
+| What is that? A castle? | 2.00% | ~303 |
+| A lot of space | 2.00% | ~303 |
+| A big garage | 2.00% | ~303 |
+| Millionaire | 2.00% | ~303 |
+| Exotic | 2.00% | ~303 |
+| Pastry Chef | 2.00% | ~303 |
+| Welcome to the club | 2.00% | ~303 |
+| Very Important Winemaker | 2.00% | ~303 |
 | King of Langhe | 1.00% | ~151 |
 | Gem of Monferrato | 1.00% | ~151 |
 | Treasure of Roero | 0.70% | ~106 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~15 |
 | Master Winemaker | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,125 (Ranked 153)  
+Progressed: 15,128 (Ranked 153)  
 Completed: 12 (0.08%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 12 (0.08%) (Ranked 305)
 | 2023-12-04 | 14,876 | 12 |
 | 2023-12-05 | 14,985 | 12 |
 | 2023-12-06 | 15,072 | 12 |
-| 2023-12-07 | 15,125 | 12 |
+| 2023-12-07 | 15,128 | 12 |
 ## Awards
 Max (Relaxing): 207  (Ranked 287)  
 Sum: 1,730 (Ranked 223)  

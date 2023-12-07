@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -3560,9 +3560,9 @@
       "ID": "LEVEL_001",
       "SetID": "3khpmem",
       "Name": "Welcome!",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 802
+      "UsersEstimate": 810
     },
     {
       "ID": "LEVEL_002",
@@ -3576,9 +3576,9 @@
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 551
+      "UsersEstimate": 559
     },
     {
       "ID": "LEVEL_004",
@@ -3745,8 +3745,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-12-07T11:05:54.3622769+00:00",
+  "LastChanged_Achievements": "2023-12-07T12:05:10.19352+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:28.3686171+00:00",
-  "LastUpdate_Ratings": "2023-12-07T11:01:39.7459791+00:00",
-  "LastUpdate_Achievements": "2023-12-07T11:05:54.3623135+00:00"
+  "LastUpdate_Ratings": "2023-12-07T12:00:28.2185427+00:00",
+  "LastUpdate_Achievements": "2023-12-07T12:05:10.1935471+00:00"
 }

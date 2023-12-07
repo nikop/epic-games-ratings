@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11557,10 +11557,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 50117,
       "NumberOfAwardsMax": 25000
+    },
+    {
+      "Time": "2023-12-07T11:57:12.3558267+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50123,
+      "NumberOfAwardsMax": 25000
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50117,
+  "NumberOfAwards": 50123,
   "NumberOfAwardsMax": 25000,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11598,7 +11604,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1303
+      "Count": 1309
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11637,9 +11643,9 @@
       "Count": 838
     }
   ],
-  "EOS_Progressed": 304031,
+  "EOS_Progressed": 304032,
   "EOS_Completed": 524,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36437,6 +36443,11 @@
       "Time": "2023-12-07T10:03:23.1930647+00:00",
       "NumProgressed": 304031,
       "NumCompleted": 524
+    },
+    {
+      "Time": "2023-12-07T12:03:24.7100645+00:00",
+      "NumProgressed": 304032,
+      "NumCompleted": 524
     }
   ],
   "TotalAchievements": 45,
@@ -36456,7 +36467,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33443
+      "UsersEstimate": 33444
     },
     {
       "ID": "PFA_11",
@@ -36464,7 +36475,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33443
+      "UsersEstimate": 33444
     },
     {
       "ID": "PFA_12",
@@ -36480,7 +36491,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33443
+      "UsersEstimate": 33444
     },
     {
       "ID": "PFA_14",
@@ -36496,7 +36507,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24322
+      "UsersEstimate": 24323
     },
     {
       "ID": "PFA_16",
@@ -36512,7 +36523,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24322
+      "UsersEstimate": 24323
     },
     {
       "ID": "PFA_18",
@@ -36528,7 +36539,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24322
+      "UsersEstimate": 24323
     },
     {
       "ID": "PFA_2",
@@ -36552,7 +36563,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33443
+      "UsersEstimate": 33444
     },
     {
       "ID": "PFA_22",
@@ -36807,16 +36818,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304031,
+      "Progressed": 304032,
       "Completed": 524
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-07T08:57:02.5378223+00:00",
-  "LastChanged_Achievements": "2023-12-07T11:03:54.5167783+00:00",
+  "LastChanged": "2023-12-07T11:57:12.3558265+00:00",
+  "LastChanged_Achievements": "2023-12-07T12:03:24.7100642+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:57:21.4311856+00:00",
-  "LastUpdate_Achievements": "2023-12-07T11:03:54.5169177+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:57:12.3558274+00:00",
+  "LastUpdate_Achievements": "2023-12-07T12:03:24.7102296+00:00"
 }

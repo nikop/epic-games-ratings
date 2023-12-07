@@ -15,17 +15,17 @@ Rating: 4.76 (Ranked 131)
 | Loom for Improvement | 12.00% | ~36,484 |
 | A Talent for Spending | 12.00% | ~36,484 |
 | Coasting Along | 12.00% | ~36,484 |
-| Grappling with a Graphorn | 11.00% | ~33,443 |
-| The One Who Mastered Memories | 11.00% | ~33,443 |
-| The Hero of Hogwarts | 11.00% | ~33,443 |
-| Challenge Accepted | 11.00% | ~33,443 |
+| Grappling with a Graphorn | 11.00% | ~33,444 |
+| The One Who Mastered Memories | 11.00% | ~33,444 |
+| The Hero of Hogwarts | 11.00% | ~33,444 |
+| Challenge Accepted | 11.00% | ~33,444 |
 | Followed the Butterflies | 10.00% | ~30,403 |
 | Rising From the Ashes | 10.00% | ~30,403 |
 | A Sallow Grave | 9.00% | ~27,363 |
 | The Spell Master | 9.00% | ~27,363 |
-| The Avenging Gazelle | 8.00% | ~24,322 |
-| Beast Friends | 8.00% | ~24,322 |
-| Flight the Good Flight | 8.00% | ~24,322 |
+| The Avenging Gazelle | 8.00% | ~24,323 |
+| Beast Friends | 8.00% | ~24,323 |
+| Flight the Good Flight | 8.00% | ~24,323 |
 | Raising Expectations | 7.00% | ~21,282 |
 | The Seeker of Knowledge | 6.00% | ~18,242 |
 | The Root of the Problem | 6.00% | ~18,242 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 131)
 | The Nature of the Beast | 0.70% | ~2,128 |
 | Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,031 (Ranked 54)  
+Progressed: 304,032 (Ranked 54)  
 Completed: 524 (0.17%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,10 +282,10 @@ Completed: 524 (0.17%) (Ranked 270)
 | 2023-12-04 | 303,943 | 521 |
 | 2023-12-05 | 303,976 | 521 |
 | 2023-12-06 | 304,019 | 523 |
-| 2023-12-07 | 304,031 | 524 |
+| 2023-12-07 | 304,032 | 524 |
 ## Awards
 Max (Character Customization): 25,000  (Ranked 17)  
-Sum: 50,117 (Ranked 30)  
+Sum: 50,123 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -294,8 +294,8 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,386 |
 | This game has Amazing Storytelling | 1,340 |
 | This game has Diverse Characters | 1,338 |
+| This game is Extremely Fun | 1,309 |
 | This game is Relaxing | 1,304 |
-| This game is Extremely Fun | 1,303 |
 | This game has Amazing Characters | 1,267 |
 | This game is Highly Recommended | 1,247 |
 | This game has Quickly Understood Controls | 1,199 |
@@ -562,4 +562,4 @@ Diff (max vs sum): -13
 | 2023-12-04 | 4.76 | 24,909 | 49,885 |
 | 2023-12-05 | 4.76 | 24,947 | 49,982 |
 | 2023-12-06 | 4.76 | 24,977 | 50,057 |
-| 2023-12-07 | 4.76 | 25,000 | 50,117 |
+| 2023-12-07 | 4.76 | 25,000 | 50,123 |

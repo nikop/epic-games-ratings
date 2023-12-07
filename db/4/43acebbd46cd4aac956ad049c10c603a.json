@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -213,7 +213,7 @@
   ],
   "EOS_Progressed": 890,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2320,9 +2320,9 @@
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 27
     },
     {
       "ID": "GrasslandsRing",
@@ -2480,9 +2480,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 44
     },
     {
       "ID": "Signatory",
@@ -2600,9 +2600,9 @@
       "ID": "TrevorsBiographer",
       "SetID": "1n308hc",
       "Name": "Trevor\u0027s Biographer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 36
     },
     {
       "ID": "VerdantCanyon",
@@ -2657,8 +2657,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
-  "LastChanged_Achievements": "2023-12-07T11:07:55.6538771+00:00",
+  "LastChanged_Achievements": "2023-12-07T12:06:47.1093554+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-07T11:00:39.8062347+00:00",
-  "LastUpdate_Achievements": "2023-12-07T11:07:55.6539289+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:59:43.0546601+00:00",
+  "LastUpdate_Achievements": "2023-12-07T12:06:47.1094034+00:00"
 }

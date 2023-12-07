@@ -4,8 +4,8 @@
   "ProductSlug": "party-monsterzz-f42535",
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-20T17:00:00+00:00",
     "PcReleaseDate": "2023-10-20T17:00:00+00:00",
@@ -561,9 +561,9 @@
       "ID": "Achievement_4",
       "SetID": "8556mdl",
       "Name": "Social Monster",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
@@ -576,8 +576,8 @@
   ],
   "FirstSeen": "2023-10-21T19:01:49.5181483+00:00",
   "FirstSeenAchievements": "2023-10-23T18:03:45.1377273+00:00",
-  "LastChanged_Achievements": "2023-12-07T11:06:18.7975479+00:00",
+  "LastChanged_Achievements": "2023-12-07T12:05:30.1031933+00:00",
   "LastUpdate_AppInfo": "2023-12-01T16:57:04.0104218+00:00",
-  "LastUpdate_Ratings": "2023-12-07T11:00:03.4296217+00:00",
-  "LastUpdate_Achievements": "2023-12-07T11:06:18.7975563+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:59:15.4444025+00:00",
+  "LastUpdate_Achievements": "2023-12-07T12:05:30.1032+00:00"
 }

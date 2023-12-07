@@ -18,11 +18,11 @@
 | Whispers long forgotten | 18.00% | ~19 |
 | Playtime | 15.00% | ~16 |
 | Tough conversation | 15.00% | ~16 |
-| The tragedy unfolds | 13.00% | ~14 |
+| The tragedy unfolds | 14.00% | ~15 |
+| A new way | 12.00% | ~13 |
 | A Slice of Life | 12.00% | ~13 |
 | Debut | 12.00% | ~13 |
 | The art of movement | 12.00% | ~13 |
-| A new way | 11.00% | ~12 |
 | First steps | 11.00% | ~12 |
 | True Reflection | 11.00% | ~12 |
 | Breaking free | 10.00% | ~11 |

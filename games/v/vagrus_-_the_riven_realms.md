@@ -72,6 +72,7 @@
 | Forged in Battle | 0.50% | ~1 |
 | Manticore | 0.50% | ~1 |
 | Huntsmaster | 0.50% | ~1 |
+| Chromatic Collector | 0.50% | ~1 |
 | Mercenary | 0.50% | ~1 |
 | Despoiler | 0.50% | ~1 |
 | Celebrity | 0.50% | ~1 |
@@ -94,7 +95,6 @@
 | All Geared Up | 0.00% | ~0 |
 | Captain | 0.00% | ~0 |
 | Seeker | 0.00% | ~0 |
-| Chromatic Collector | 0.00% | ~0 |
 | Loader | 0.00% | ~0 |
 | Mercenary Lord | 0.00% | ~0 |
 | Handymen | 0.00% | ~0 |

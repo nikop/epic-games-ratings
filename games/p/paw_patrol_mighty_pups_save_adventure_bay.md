@@ -9,7 +9,7 @@
 | Pup Pup Boogie | 64.00% | ~28 |
 | Summer Day | 61.00% | ~27 |
 | Mr. Porter | 50.00% | ~22 |
-| Risky Rescue | 45.00% | ~20 |
+| Risky Rescue | 48.00% | ~21 |
 | Carlos Is Tangled | 43.00% | ~19 |
 | Mandy Family | 41.00% | ~18 |
 | Clear the Road | 39.00% | ~17 |

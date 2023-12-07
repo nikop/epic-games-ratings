@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155645,
+  "EOS_Progressed": 155656,
   "EOS_Completed": 356,
-  "EOS_NewPlayers": 873,
+  "EOS_NewPlayers": 878,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20728,6 +20728,11 @@
       "Time": "2023-12-07T11:05:20.0768973+00:00",
       "NumProgressed": 155645,
       "NumCompleted": 356
+    },
+    {
+      "Time": "2023-12-07T12:04:42.1841055+00:00",
+      "NumProgressed": 155656,
+      "NumCompleted": 356
     }
   ],
   "TotalAchievements": 31,
@@ -20747,7 +20752,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 108952
+      "UsersEstimate": 108959
     },
     {
       "ID": "EAwards_10",
@@ -20755,7 +20760,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 21790
+      "UsersEstimate": 21792
     },
     {
       "ID": "EAwards_11",
@@ -20763,7 +20768,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 32685
+      "UsersEstimate": 32688
     },
     {
       "ID": "EAwards_12",
@@ -20771,7 +20776,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 26460
+      "UsersEstimate": 26462
     },
     {
       "ID": "EAwards_13",
@@ -20787,7 +20792,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 60702
+      "UsersEstimate": 60706
     },
     {
       "ID": "EAwards_15",
@@ -20795,7 +20800,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18677
+      "UsersEstimate": 18679
     },
     {
       "ID": "EAwards_16",
@@ -20811,7 +20816,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 34242
+      "UsersEstimate": 34244
     },
     {
       "ID": "EAwards_18",
@@ -20819,7 +20824,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 34242
+      "UsersEstimate": 34244
     },
     {
       "ID": "EAwards_19",
@@ -20835,7 +20840,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 43581
+      "UsersEstimate": 43584
     },
     {
       "ID": "EAwards_20",
@@ -20851,7 +20856,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 17121
+      "UsersEstimate": 17122
     },
     {
       "ID": "EAwards_22",
@@ -20875,7 +20880,7 @@
       "Name": "The Never Ending Combo",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7782
+      "UsersEstimate": 7783
     },
     {
       "ID": "EAwards_25",
@@ -20891,7 +20896,7 @@
       "Name": "Who put these here???",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "EAwards_27",
@@ -20899,7 +20904,7 @@
       "Name": "El Savior",
       "Percentage": 3,
       "XP": 110,
-      "UsersEstimate": 4669
+      "UsersEstimate": 4670
     },
     {
       "ID": "EAwards_28",
@@ -20907,7 +20912,7 @@
       "Name": "World Champion",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "EAwards_29",
@@ -20915,7 +20920,7 @@
       "Name": "The Devil wears Revenge!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4669
+      "UsersEstimate": 4670
     },
     {
       "ID": "EAwards_3",
@@ -20923,7 +20928,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 29573
+      "UsersEstimate": 29575
     },
     {
       "ID": "EAwards_30",
@@ -20931,7 +20936,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 14008
+      "UsersEstimate": 14009
     },
     {
       "ID": "EAwards_4",
@@ -20939,7 +20944,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23347
+      "UsersEstimate": 23348
     },
     {
       "ID": "EAwards_5",
@@ -20947,7 +20952,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18677
+      "UsersEstimate": 18679
     },
     {
       "ID": "EAwards_6",
@@ -20955,7 +20960,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 38911
+      "UsersEstimate": 38914
     },
     {
       "ID": "EAwards_7",
@@ -20971,7 +20976,7 @@
       "Name": "Flawless",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 59145
+      "UsersEstimate": 59149
     },
     {
       "ID": "EAwards_9",
@@ -20979,14 +20984,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18677
+      "UsersEstimate": 18679
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 155645,
+      "Progressed": 155656,
       "Completed": 356
     }
   ],
@@ -20994,8 +20999,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-12-07T11:05:20.0768968+00:00",
+  "LastChanged_Achievements": "2023-12-07T12:04:42.1841052+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:05.8287606+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:58:08.9741142+00:00",
-  "LastUpdate_Achievements": "2023-12-07T11:05:20.0770112+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:57:48.7092205+00:00",
+  "LastUpdate_Achievements": "2023-12-07T12:04:42.1842554+00:00"
 }

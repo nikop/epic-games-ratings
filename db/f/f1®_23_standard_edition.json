@@ -2,13 +2,13 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_Rating": 278,
-  "Ranking_Popularity": 495,
-  "Ranking_PopularitySum": 429,
+  "Ranking_Rating": 277,
+  "Ranking_Popularity": 482,
+  "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -715,11 +715,17 @@
       "Rating": 4.67,
       "NumberOfAwards": 152,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-12-07T11:59:12.9917885+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 156,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 152,
-  "NumberOfAwardsMax": 32,
+  "NumberOfAwards": 156,
+  "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -744,13 +750,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 32
+      "Count": 35
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Extremely Fun",
@@ -771,9 +777,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6054,
+  "EOS_Progressed": 6055,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6931,6 +6937,11 @@
       "Time": "2023-12-07T11:06:28.9770842+00:00",
       "NumProgressed": 6054,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T12:05:37.9606216+00:00",
+      "NumProgressed": 6055,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6983,7 +6994,7 @@
       "Name": "Setting up for Success",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4722
+      "UsersEstimate": 4723
     },
     {
       "ID": "achievement_0007",
@@ -6991,7 +7002,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5691
+      "UsersEstimate": 5692
     },
     {
       "ID": "achievement_0008",
@@ -7087,7 +7098,7 @@
       "Name": "Undisputed Winner",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "achievement_0020",
@@ -7103,7 +7114,7 @@
       "Name": "Team Orders",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 4601
+      "UsersEstimate": 4602
     },
     {
       "ID": "achievement_0022",
@@ -7167,7 +7178,7 @@
       "Name": "Reduce",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "achievement_0030",
@@ -7183,7 +7194,7 @@
       "Name": "Recycle",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "achievement_0032",
@@ -7191,7 +7202,7 @@
       "Name": "Tinkerer",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "achievement_0033",
@@ -7199,7 +7210,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 3390
+      "UsersEstimate": 3391
     },
     {
       "ID": "achievement_0034",
@@ -7207,7 +7218,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "achievement_0035",
@@ -7223,7 +7234,7 @@
       "Name": "Ups and Downs",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "achievement_0037",
@@ -7279,7 +7290,7 @@
       "Name": "Familiar Faces",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "achievement_0044",
@@ -7287,7 +7298,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "achievement_0045",
@@ -7295,7 +7306,7 @@
       "Name": "Making History",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "achievement_0046",
@@ -7334,16 +7345,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 6054,
+      "Progressed": 6055,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2023-12-05T18:58:42.6618407+00:00",
-  "LastChanged_Achievements": "2023-12-07T11:06:28.9770837+00:00",
+  "LastChanged": "2023-12-07T11:59:12.9917883+00:00",
+  "LastChanged_Achievements": "2023-12-07T12:05:37.9606213+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.4962244+00:00",
-  "LastUpdate_Ratings": "2023-12-07T11:00:00.2497531+00:00",
-  "LastUpdate_Achievements": "2023-12-07T11:06:28.9771385+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:59:12.9917888+00:00",
+  "LastUpdate_Achievements": "2023-12-07T12:05:37.9606903+00:00"
 }

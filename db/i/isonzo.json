@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -973,9 +973,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9254,
+  "EOS_Progressed": 9255,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8888,6 +8888,11 @@
       "Time": "2023-12-07T03:05:36.0473034+00:00",
       "NumProgressed": 9254,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-07T12:06:35.3013708+00:00",
+      "NumProgressed": 9255,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8907,7 +8912,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -8947,7 +8952,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2961
+      "UsersEstimate": 2962
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -8979,7 +8984,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -9011,7 +9016,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2961
+      "UsersEstimate": 2962
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -9139,7 +9144,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -9171,7 +9176,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -9258,7 +9263,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9254,
+      "Progressed": 9255,
       "Completed": 10
     }
   ],
@@ -9266,8 +9271,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-06T17:57:38.612055+00:00",
-  "LastChanged_Achievements": "2023-12-07T11:07:40.7317117+00:00",
+  "LastChanged_Achievements": "2023-12-07T12:06:35.3013705+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:20.0438707+00:00",
-  "LastUpdate_Ratings": "2023-12-07T10:58:01.0122713+00:00",
-  "LastUpdate_Achievements": "2023-12-07T11:07:40.7317721+00:00"
+  "LastUpdate_Ratings": "2023-12-07T11:57:42.7804981+00:00",
+  "LastUpdate_Achievements": "2023-12-07T12:06:35.3014348+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 278,
+  "Ranking_Rating": 277,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2266,9 +2266,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 217855,
+  "EOS_Progressed": 217862,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1229,
+  "EOS_NewPlayers": 1226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28736,6 +28736,11 @@
       "Time": "2023-12-07T11:03:46.5038095+00:00",
       "NumProgressed": 217855,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-07T12:03:17.6316062+00:00",
+      "NumProgressed": 217862,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -28771,7 +28776,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13071
+      "UsersEstimate": 13072
     },
     {
       "ID": "CompleteMastery",
@@ -28787,7 +28792,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19607
+      "UsersEstimate": 19608
     },
     {
       "ID": "FiveShadows",
@@ -28803,7 +28808,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13071
+      "UsersEstimate": 13072
     },
     {
       "ID": "GearUp",
@@ -28899,7 +28904,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13071
+      "UsersEstimate": 13072
     },
     {
       "ID": "NoGimmicks",
@@ -28963,7 +28968,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17428
+      "UsersEstimate": 17429
     },
     {
       "ID": "Rollin",
@@ -28971,7 +28976,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19607
+      "UsersEstimate": 19608
     },
     {
       "ID": "StillRollin",
@@ -28995,7 +29000,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17428
+      "UsersEstimate": 17429
     },
     {
       "ID": "TanukiTime",
@@ -29003,7 +29008,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19607
+      "UsersEstimate": 19608
     },
     {
       "ID": "TheCave",
@@ -29067,7 +29072,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13071
+      "UsersEstimate": 13072
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -29098,15 +29103,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 217855,
+      "Progressed": 217862,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-07T09:00:04.1233632+00:00",
-  "LastChanged_Achievements": "2023-12-07T11:03:46.5038084+00:00",
+  "LastChanged_Achievements": "2023-12-07T12:03:17.6316053+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.5350998+00:00",
   "LastUpdate_Ratings": "2023-12-07T11:01:50.4502041+00:00",
-  "LastUpdate_Achievements": "2023-12-07T11:03:46.5058418+00:00"
+  "LastUpdate_Achievements": "2023-12-07T12:03:17.6333766+00:00"
 }

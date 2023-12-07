@@ -6,41 +6,41 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,758,234 |
-| Easy to forget | 46.00% | ~1,650,587 |
-| Back in the black | 39.00% | ~1,399,411 |
-| That's what I'm talking about | 29.00% | ~1,040,588 |
-| The Best of Both Worlds | 25.00% | ~897,058 |
-| Get your wings | 20.00% | ~717,647 |
-| Double trouble | 16.00% | ~574,117 |
-| Smashing it | 11.00% | ~394,706 |
-| But can it run Crysis? | 9.00% | ~322,941 |
-| My favourite feature... | 9.00% | ~322,941 |
-| From humble beginnings... | 7.00% | ~251,176 |
-| Customer satisfaction | 7.00% | ~251,176 |
-| Keeping things neat | 4.00% | ~143,529 |
-| Seems you're pretty good at this | 4.00% | ~143,529 |
-| Bending over backwards | 4.00% | ~143,529 |
-| Triple threat | 3.00% | ~107,647 |
-| You rock at this! | 3.00% | ~107,647 |
-| Your music sucks | 3.00% | ~107,647 |
+| You need to plug it in... | 49.00% | ~1,758,243 |
+| Easy to forget | 46.00% | ~1,650,595 |
+| Back in the black | 39.00% | ~1,399,418 |
+| That's what I'm talking about | 29.00% | ~1,040,593 |
+| The Best of Both Worlds | 25.00% | ~897,063 |
+| Get your wings | 20.00% | ~717,650 |
+| Double trouble | 16.00% | ~574,120 |
+| Smashing it | 11.00% | ~394,708 |
+| But can it run Crysis? | 9.00% | ~322,943 |
+| My favourite feature... | 9.00% | ~322,943 |
+| From humble beginnings... | 7.00% | ~251,178 |
+| Customer satisfaction | 7.00% | ~251,178 |
+| Keeping things neat | 4.00% | ~143,530 |
+| Seems you're pretty good at this | 4.00% | ~143,530 |
+| Bending over backwards | 4.00% | ~143,530 |
+| Triple threat | 3.00% | ~107,648 |
+| You rock at this! | 3.00% | ~107,648 |
+| Your music sucks | 3.00% | ~107,648 |
 | I'm broke, Uncle! | 2.00% | ~71,765 |
 | Maybe you should try something else? | 2.00% | ~71,765 |
 | Taking care of business | 2.00% | ~71,765 |
 | Things are under control | 2.00% | ~71,765 |
 | Perfection | 2.00% | ~71,765 |
 | Calling in Sick | 2.00% | ~71,765 |
-| Overvolted | 1.00% | ~35,882 |
-| If you fail the first time... | 1.00% | ~35,882 |
-| Amazonian | 1.00% | ~35,882 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~35,882 |
-| Building isn't cheap! | 1.00% | ~35,882 |
-| Majority Shareholder | 1.00% | ~35,882 |
-| Owner | 1.00% | ~35,882 |
+| Overvolted | 1.00% | ~35,883 |
+| If you fail the first time... | 1.00% | ~35,883 |
+| Amazonian | 1.00% | ~35,883 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~35,883 |
+| Building isn't cheap! | 1.00% | ~35,883 |
+| Majority Shareholder | 1.00% | ~35,883 |
+| Owner | 1.00% | ~35,883 |
 | Show off | 0.90% | ~32,294 |
 | Work ethic 101 | 0.70% | ~25,118 |
-| Building momentum | 0.60% | ~21,529 |
-| Lead by example | 0.60% | ~21,529 |
+| Building momentum | 0.60% | ~21,530 |
+| Lead by example | 0.60% | ~21,530 |
 | Treat yourself - RAM | 0.50% | ~17,941 |
 | Mr big business | 0.40% | ~14,353 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,765 |
@@ -48,8 +48,8 @@ Number of Ratings: 12,155  (23.09.2022)
 | Getting your feet wet | 0.30% | ~10,765 |
 | Customer's ALWAYS right. | 0.30% | ~10,765 |
 | Treat yourself - CPU | 0.30% | ~10,765 |
-| 1920x1080 | 0.20% | ~7,176 |
-| Blow 'em away | 0.20% | ~7,176 |
+| 1920x1080 | 0.20% | ~7,177 |
+| Blow 'em away | 0.20% | ~7,177 |
 | Hasta La Vista, Baby. | 0.10% | ~3,588 |
 | Wow to build a PC! | 0.10% | ~3,588 |
 | Hoarder | 0.10% | ~3,588 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,588 |
 | Treat yourself - GPU | 0.10% | ~3,588 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,588,233 (Ranked 5)  
+Progressed: 3,588,251 (Ranked 5)  
 Completed: 39 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 39 (0.00%) (Ranked 371)
 | 2023-12-04 | 3,587,445 | 39 |
 | 2023-12-05 | 3,587,799 | 39 |
 | 2023-12-06 | 3,588,123 | 39 |
-| 2023-12-07 | 3,588,233 | 39 |
+| 2023-12-07 | 3,588,251 | 39 |
 ## Awards
 Max (Great for Beginners): 1,113  (Ranked 144)  
 Sum: 8,185 (Ranked 104)  

@@ -1,30 +1,30 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.40 (Ranked 742)  
+Rating: 4.40 (Ranked 741)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~106,514 |
-| 74 miles East of Otaheité | 56.00% | ~74,560 |
-| Interesting... | 42.00% | ~55,920 |
-| The Everhart Expedition | 40.00% | ~53,257 |
-| Halfway there | 30.00% | ~39,943 |
-| The Vanishing of the Lady Shannon | 30.00% | ~39,943 |
-| Seaside Serenade | 30.00% | ~39,943 |
-| A brigantine, a brig and a barque | 28.00% | ~37,280 |
-| 506 East Hampden Avenue | 28.00% | ~37,280 |
-| Weekend at Walakea's | 27.00% | ~35,948 |
-| Quite a Show | 27.00% | ~35,948 |
-| Dark Water Ride | 25.00% | ~33,286 |
-| Sunken | 25.00% | ~33,286 |
-| Deep Cut | 24.00% | ~31,954 |
-| FHALGOF'N' | 23.00% | ~30,623 |
-| Marsh Cannery | 21.00% | ~27,960 |
+| A Family Heirloom | 80.00% | ~106,518 |
+| 74 miles East of Otaheité | 56.00% | ~74,562 |
+| Interesting... | 42.00% | ~55,922 |
+| The Everhart Expedition | 40.00% | ~53,259 |
+| Halfway there | 30.00% | ~39,944 |
+| The Vanishing of the Lady Shannon | 30.00% | ~39,944 |
+| Seaside Serenade | 30.00% | ~39,944 |
+| A brigantine, a brig and a barque | 28.00% | ~37,281 |
+| 506 East Hampden Avenue | 28.00% | ~37,281 |
+| Weekend at Walakea's | 27.00% | ~35,950 |
+| Quite a Show | 27.00% | ~35,950 |
+| Dark Water Ride | 25.00% | ~33,287 |
+| Sunken | 25.00% | ~33,287 |
+| Deep Cut | 24.00% | ~31,955 |
+| FHALGOF'N' | 23.00% | ~30,624 |
+| Marsh Cannery | 21.00% | ~27,961 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~23,966 |
-| The only thing I have now | 17.00% | ~22,634 |
-| Naacalvision | 16.00% | ~21,303 |
-| Not Another Boring Slideshow! | 15.00% | ~19,971 |
+| The only thing I have now | 17.00% | ~22,635 |
+| Naacalvision | 16.00% | ~21,304 |
+| Not Another Boring Slideshow! | 15.00% | ~19,972 |
 | I'll make a note of that... | 9.00% | ~11,983 |
 | The Norahnomicon | 9.00% | ~11,983 |
 | Play it again, Norah | 7.00% | ~9,320 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 742)
 | Gently down the stream... | 1.00% | ~1,331 |
 | Meta-reference | 1.00% | ~1,331 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,142 (Ranked 82)  
+Progressed: 133,147 (Ranked 82)  
 Completed: 1,177 (0.88%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 1,177 (0.88%) (Ranked 177)
 | 2023-12-04 | 132,856 | 1,173 |
 | 2023-12-05 | 132,975 | 1,174 |
 | 2023-12-06 | 133,100 | 1,176 |
-| 2023-12-07 | 133,142 | 1,177 |
+| 2023-12-07 | 133,147 | 1,177 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
