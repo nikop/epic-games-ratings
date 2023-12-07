@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69050,
+  "EOS_Progressed": 69052,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16928,6 +16928,11 @@
       "Time": "2023-12-07T16:04:07.0510735+00:00",
       "NumProgressed": 69050,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-07T17:04:00.436449+00:00",
+      "NumProgressed": 69052,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -16963,7 +16968,7 @@
       "Name": "Anger",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH_COBRACOLA",
@@ -17011,7 +17016,7 @@
       "Name": "Fear Of The Dark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH_MOUTHTRUTH",
@@ -17051,7 +17056,7 @@
       "Name": "Detective of the occult",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH_RESCUECHARACTER",
@@ -17067,7 +17072,7 @@
       "Name": "Depression",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH_STAMINA",
@@ -17098,7 +17103,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 69050,
+      "Progressed": 69052,
       "Completed": 18
     }
   ],
@@ -17106,8 +17111,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-07T16:04:07.0510728+00:00",
+  "LastChanged_Achievements": "2023-12-07T17:04:00.4364486+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:10.2899379+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:00:09.706356+00:00",
-  "LastUpdate_Achievements": "2023-12-07T16:04:07.0512008+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:00:03.3556775+00:00",
+  "LastUpdate_Achievements": "2023-12-07T17:04:00.4365528+00:00"
 }

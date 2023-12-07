@@ -1332,9 +1332,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29855,
+  "EOS_Progressed": 29857,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -26072,6 +26072,11 @@
       "Time": "2023-12-07T16:09:22.2435321+00:00",
       "NumProgressed": 29855,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-07T17:09:14.1480634+00:00",
+      "NumProgressed": 29857,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -26155,7 +26160,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "1025",
@@ -26195,7 +26200,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "1030",
@@ -26219,7 +26224,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11942
+      "UsersEstimate": 11943
     },
     {
       "ID": "1033",
@@ -26251,22 +26256,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29855,
+      "Progressed": 29857,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-07T16:09:22.2435316+00:00",
+  "LastChanged_Achievements": "2023-12-07T17:09:14.1480631+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.8181889+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:59:02.962624+00:00",
-  "LastUpdate_Achievements": "2023-12-07T16:09:22.2437353+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:59:00.5379593+00:00",
+  "LastUpdate_Achievements": "2023-12-07T17:09:14.1481842+00:00"
 }

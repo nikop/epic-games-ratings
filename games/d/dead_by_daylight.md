@@ -6,30 +6,30 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,539 |
-| Skillful | 2.00% | ~21,539 |
-| Handyman | 1.00% | ~10,769 |
-| Zealous | 1.00% | ~10,769 |
-| Not half bad | 1.00% | ~10,769 |
-| Apt Survivor | 1.00% | ~10,769 |
-| Survival Treasures | 1.00% | ~10,769 |
-| I | 1.00% | ~10,769 |
-| Make Some Noise | 1.00% | ~10,769 |
-| No one left behind | 0.90% | ~9,692 |
-| Sorted | 0.90% | ~9,692 |
-| Resurgence | 0.90% | ~9,692 |
-| The Grand Sacrifice | 0.80% | ~8,615 |
-| Medic | 0.80% | ~8,615 |
-| Bloody Millionaire | 0.80% | ~8,615 |
-| Healthy Obsession | 0.80% | ~8,615 |
-| Preemptive Strike | 0.80% | ~8,615 |
-| Humanitarian | 0.80% | ~8,615 |
-| Agonizing Escape | 0.70% | ~7,538 |
-| Backdoor Escape | 0.70% | ~7,538 |
-| Perfect Escape | 0.70% | ~7,538 |
-| Perfect Killing | 0.70% | ~7,538 |
-| II | 0.70% | ~7,538 |
-| Close Shave | 0.70% | ~7,538 |
+| It wakes | 2.00% | ~21,541 |
+| Skillful | 2.00% | ~21,541 |
+| Handyman | 1.00% | ~10,770 |
+| Zealous | 1.00% | ~10,770 |
+| Not half bad | 1.00% | ~10,770 |
+| Apt Survivor | 1.00% | ~10,770 |
+| Survival Treasures | 1.00% | ~10,770 |
+| I | 1.00% | ~10,770 |
+| Make Some Noise | 1.00% | ~10,770 |
+| No one left behind | 0.90% | ~9,693 |
+| Sorted | 0.90% | ~9,693 |
+| Resurgence | 0.90% | ~9,693 |
+| The Grand Sacrifice | 0.80% | ~8,616 |
+| Medic | 0.80% | ~8,616 |
+| Bloody Millionaire | 0.80% | ~8,616 |
+| Healthy Obsession | 0.80% | ~8,616 |
+| Preemptive Strike | 0.80% | ~8,616 |
+| Humanitarian | 0.80% | ~8,616 |
+| Agonizing Escape | 0.70% | ~7,539 |
+| Backdoor Escape | 0.70% | ~7,539 |
+| Perfect Escape | 0.70% | ~7,539 |
+| Perfect Killing | 0.70% | ~7,539 |
+| II | 0.70% | ~7,539 |
+| Close Shave | 0.70% | ~7,539 |
 | I've got your back | 0.60% | ~6,462 |
 | Apt Killer | 0.60% | ~6,462 |
 | Risk it all | 0.60% | ~6,462 |
@@ -39,6 +39,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | III | 0.50% | ~5,385 |
 | With Scars to Show | 0.50% | ~5,385 |
 | Lifting The Fog | 0.50% | ~5,385 |
+| Second Act | 0.50% | ~5,385 |
 | Blood on your hands | 0.40% | ~4,308 |
 | Escape Artist | 0.40% | ~4,308 |
 | Gifts for the Fog | 0.40% | ~4,308 |
@@ -53,7 +54,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.40% | ~4,308 |
 | Flight to Freedom | 0.40% | ~4,308 |
 | Chorus of Chaos | 0.40% | ~4,308 |
-| Second Act | 0.40% | ~4,308 |
 | Blood on your face | 0.30% | ~3,231 |
 | Made it out alive! | 0.30% | ~3,231 |
 | Nerves of steel | 0.30% | ~3,231 |
@@ -71,6 +71,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cutting Out | 0.30% | ~3,231 |
 | Outrun Evil | 0.30% | ~3,231 |
 | Grim Pilgrimage | 0.30% | ~3,231 |
+| Outrun the Overlap | 0.30% | ~3,231 |
 | A Fast Death | 0.30% | ~3,231 |
 | One More Step | 0.30% | ~3,231 |
 | MU/TH/UR Dearest | 0.30% | ~3,231 |
@@ -95,7 +96,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Power Moves | 0.20% | ~2,154 |
 | Insult and Injury | 0.20% | ~2,154 |
 | Triage | 0.20% | ~2,154 |
-| Outrun the Overlap | 0.20% | ~2,154 |
 | High Speed Pursuit | 0.20% | ~2,154 |
 | Rebuilding The Borgo | 0.20% | ~2,154 |
 | Complete the Evolution | 0.20% | ~2,154 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,077 |
 | Adept Good Guy | 0.10% | ~1,077 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,076,926 (Ranked 14)  
+Progressed: 1,077,046 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -470,7 +470,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
-| 2023-12-07 | 1,076,926 | 61 |
+| 2023-12-07 | 1,077,046 | 61 |
 ## Awards
 Max (Diverse Characters): 37,449  (Ranked 15)  
 Sum: 284,021 (Ranked 12)  

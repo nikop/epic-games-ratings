@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 26397,
+  "EOS_Progressed": 26398,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 1352,
+  "EOS_NewPlayers": 1346,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -9178,6 +9178,11 @@
       "Time": "2023-12-07T16:08:58.8428798+00:00",
       "NumProgressed": 26397,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-12-07T17:08:53.4143775+00:00",
+      "NumProgressed": 26398,
+      "NumCompleted": 113
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -9214,7 +9219,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 15046
+      "UsersEstimate": 15047
     },
     {
       "ID": "achievement_13",
@@ -9270,7 +9275,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 5807
+      "UsersEstimate": 5808
     },
     {
       "ID": "achievement_2",
@@ -9294,7 +9299,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 22965
+      "UsersEstimate": 22966
     },
     {
       "ID": "achievement_4",
@@ -9302,7 +9307,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 23229
+      "UsersEstimate": 23230
     },
     {
       "ID": "achievement_5",
@@ -9310,7 +9315,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     },
     {
       "ID": "achievement_6",
@@ -9342,20 +9347,20 @@
       "Name": "A Daring Devil",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 13990
+      "UsersEstimate": 13991
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 26397,
+      "Progressed": 26398,
       "Completed": 113
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-12-07T16:08:58.842879+00:00",
+  "LastChanged_Achievements": "2023-12-07T17:08:53.4143772+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.2026189+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:58:22.8195897+00:00",
-  "LastUpdate_Achievements": "2023-12-07T16:08:58.8429587+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:58:23.8519879+00:00",
+  "LastUpdate_Achievements": "2023-12-07T17:08:53.4144272+00:00"
 }

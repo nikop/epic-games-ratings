@@ -333,9 +333,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 201034,
+  "EOS_Progressed": 201035,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24668,6 +24668,11 @@
       "Time": "2023-12-07T16:07:59.1269822+00:00",
       "NumProgressed": 201034,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-07T17:07:59.8038556+00:00",
+      "NumProgressed": 201035,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -24687,7 +24692,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 142734
+      "UsersEstimate": 142735
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -24806,7 +24811,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 201034,
+      "Progressed": 201035,
       "Completed": 4
     }
   ],
@@ -24814,8 +24819,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-11-21T16:01:30.5134894+00:00",
-  "LastChanged_Achievements": "2023-12-07T16:07:59.1269815+00:00",
+  "LastChanged_Achievements": "2023-12-07T17:07:59.803855+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:17.0251486+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:58:32.946717+00:00",
-  "LastUpdate_Achievements": "2023-12-07T16:07:59.1271236+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:58:33.2266093+00:00",
+  "LastUpdate_Achievements": "2023-12-07T17:07:59.8039884+00:00"
 }

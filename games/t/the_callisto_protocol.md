@@ -20,7 +20,7 @@ Rating: 4.19 (Ranked 930)
 | Desperate Times | 6.00% | ~991 |
 | Crash Site | 6.00% | ~991 |
 | Power Up | 6.00% | ~991 |
-| Keep Fighting | 6.00% | ~266 |
+| Keep Fighting | 6.00% | ~267 |
 | You Need a Gun | 5.00% | ~826 |
 | I Do Belong Here | 5.00% | ~826 |
 | Terminated | 5.00% | ~826 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 930)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,515 (Ranked 149)  
+Progressed: 16,516 (Ranked 149)  
 Completed: 81 (0.49%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,6 +277,7 @@ Completed: 81 (0.49%) (Ranked 211)
 | 2023-12-04 | 16,512 | 81 |
 | 2023-12-05 | 16,513 | 81 |
 | 2023-12-06 | 16,515 | 81 |
+| 2023-12-07 | 16,516 | 81 |
 ## Awards
 Max (Highly Recommended): 85  (Ranked 388)  
 Sum: 503 (Ranked 325)  

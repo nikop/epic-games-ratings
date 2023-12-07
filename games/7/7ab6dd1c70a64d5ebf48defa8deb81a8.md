@@ -10,21 +10,21 @@
 | Powerful Allies | 11.00% | ~28 |
 | A Taste of Wrath | 11.00% | ~28 |
 | Adventurer | 11.00% | ~28 |
+| Geared Up | 11.00% | ~28 |
 | I Found It | 11.00% | ~28 |
 | The Collector | 11.00% | ~28 |
 | Tributes of Caladrias | 10.00% | ~25 |
 | Shatter Them All | 10.00% | ~25 |
-| Geared Up | 10.00% | ~25 |
 | Scholar | 10.00% | ~25 |
 | Stone Collection | 10.00% | ~25 |
 | Big Bazar | 9.00% | ~22 |
 | Fashion Victim | 9.00% | ~22 |
 | Calm before the Storm | 7.00% | ~18 |
 | Essence Blow | 7.00% | ~18 |
+| Alchemist | 7.00% | ~18 |
 | To Battle | 6.00% | ~15 |
 | Godslayer | 6.00% | ~15 |
-| Alchemist | 6.00% | ~15 |
-| The Mentor | 5.00% | ~12 |
+| The Mentor | 6.00% | ~15 |
 | Fine Feathers Make Fine Birds | 5.00% | ~12 |
 | Clear Sight | 4.00% | ~10 |
 | Airborne | 4.00% | ~10 |

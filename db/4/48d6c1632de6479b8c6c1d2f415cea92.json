@@ -4,7 +4,7 @@
   "ProductSlug": "unreachable-2339b0",
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 463,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-05T14:57:04.0852228+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:58:27.4371233+00:00",
-  "LastUpdate_Achievements": "2023-12-07T16:03:24.4345763+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:58:28.0617832+00:00",
+  "LastUpdate_Achievements": "2023-12-07T17:03:19.6714457+00:00"
 }

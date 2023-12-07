@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524,
+  "EOS_Progressed": 525,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1495,6 +1495,11 @@
       "Time": "2023-12-07T15:08:57.7241631+00:00",
       "NumProgressed": 524,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T17:08:50.1045556+00:00",
+      "NumProgressed": 525,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1505,9 +1510,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 247
     },
     {
       "ID": "AchvAllMemories",
@@ -1529,9 +1534,9 @@
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 74
     },
     {
       "ID": "AchvBombStop",
@@ -1579,7 +1584,7 @@
       "Name": "The Invincible",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AchvEvacuate",
@@ -1603,7 +1608,7 @@
       "Name": "Krauta is alive",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "AchvLava",
@@ -1619,7 +1624,7 @@
       "Name": "I leave no man behind",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AchvLeavesNoManBehind2",
@@ -1633,9 +1638,9 @@
       "ID": "AchvNecro",
       "SetID": "1hj060c",
       "Name": "The Necroevolution",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 131
     },
     {
       "ID": "AchvNest",
@@ -1667,7 +1672,7 @@
       "Name": "Strong objection",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AchvReachBase",
@@ -1681,9 +1686,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 304
     },
     {
       "ID": "AchvReachCity",
@@ -1699,7 +1704,7 @@
       "Name": "The Condor",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "AchvSurvivors",
@@ -1715,15 +1720,15 @@
       "Name": "Flying Objects Operator",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 55,
-      "UsersEstimate": 162
+      "UsersEstimate": 158
     },
     {
       "ID": "AchvUnity",
@@ -1738,14 +1743,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 524,
+      "Progressed": 525,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-07T16:08:55.163449+00:00",
+  "LastChanged_Achievements": "2023-12-07T17:08:50.1045552+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:59:24.9491489+00:00",
-  "LastUpdate_Achievements": "2023-12-07T16:08:55.1634834+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:59:20.9681734+00:00",
+  "LastUpdate_Achievements": "2023-12-07T17:08:50.1045938+00:00"
 }

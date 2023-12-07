@@ -22,19 +22,19 @@
 | Berkanan Borgia | 19.00% | ~7 |
 | The champion of the arena | 17.00% | ~6 |
 | Trial by cold | 17.00% | ~6 |
+| Stronger than Gellian steel | 14.00% | ~5 |
 | Rage | 14.00% | ~5 |
 | Protect the Healer! | 14.00% | ~5 |
 | For the greater good | 11.00% | ~4 |
 | Collector | 11.00% | ~4 |
 | Overplay the rogue | 11.00% | ~4 |
-| Stronger than Gellian steel | 11.00% | ~4 |
 | Punish the Punisher | 11.00% | ~4 |
 | The End | 11.00% | ~4 |
 | The best apprentice | 8.00% | ~3 |
 | First among Frisians | 8.00% | ~3 |
+| Defeat the bear | 8.00% | ~3 |
 | By own strength | 8.00% | ~3 |
 | Nothing is settled | 8.00% | ~3 |
-| Defeat the bear | 6.00% | ~2 |
 | The power of persuasion | 6.00% | ~2 |
 | Deadly strike | 6.00% | ~2 |
 | A solo player | 6.00% | ~2 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 529)  
+Progressed: 36 (Ranked 530)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |

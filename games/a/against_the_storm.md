@@ -6,14 +6,14 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 3.00% | ~529 |
-| Overgrown Library | 3.00% | ~529 |
+| Abandoned Settlement | 3.00% | ~530 |
+| Overgrown Library | 3.00% | ~530 |
+| Petrified Necropolis | 3.00% | ~530 |
 | Frosts | 2.00% | ~353 |
 | Land of Greed | 2.00% | ~353 |
-| Petrified Necropolis | 2.00% | ~353 |
 | Ominous Presence | 2.00% | ~353 |
 | Gathering Storm | 2.00% | ~353 |
-| Untamed Wilds | 1.00% | ~176 |
+| Untamed Wilds | 1.00% | ~177 |
 | First Real Expedition | 0.40% | ~71 |
 | Overcoming Difficulty | 0.40% | ~71 |
 | Coral Forest | 0.40% | ~71 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,649 (Ranked 146)  
-Completed: 45 (0.25%) (Ranked 251)  
+Progressed: 17,651 (Ranked 146)  
+Completed: 44 (0.25%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -297,7 +297,7 @@ Completed: 45 (0.25%) (Ranked 251)
 | 2023-12-04 | 17,605 | 49 |
 | 2023-12-05 | 17,618 | 49 |
 | 2023-12-06 | 17,636 | 49 |
-| 2023-12-07 | 17,649 | 48 |
+| 2023-12-07 | 17,651 | 48 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,243 (Ranked 174)  

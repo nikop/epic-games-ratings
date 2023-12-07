@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 | Arkvoodle Doodle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 568)  
+Progressed: 20 (Ranked 569)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,8 +64,8 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 20 | 0 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 482)  
-Sum: 35 (Ranked 509)  
-Diff (max vs sum): -27  
+Sum: 35 (Ranked 510)  
+Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |

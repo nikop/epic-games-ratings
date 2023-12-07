@@ -4,10 +4,10 @@
   "ProductSlug": "love-is-all-around-3a8046",
   "Ranking_Rating": 158,
   "Ranking_Popularity": 535,
-  "Ranking_PopularitySum": 537,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -193,9 +193,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10788,
+  "EOS_Progressed": 10789,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -5718,6 +5718,11 @@
       "Time": "2023-12-07T16:08:44.981028+00:00",
       "NumProgressed": 10788,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-12-07T17:08:40.8383046+00:00",
+      "NumProgressed": 10789,
+      "NumCompleted": 195
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -5730,7 +5735,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 9925
+      "UsersEstimate": 9926
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -5738,7 +5743,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 9278
+      "UsersEstimate": 9279
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -5802,7 +5807,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -5810,7 +5815,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -5826,7 +5831,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 7875
+      "UsersEstimate": 7876
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -5864,9 +5869,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "7opfcp",
       "Name": "Love Actually",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 5178
+      "UsersEstimate": 5287
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -5914,7 +5919,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 7120
+      "UsersEstimate": 7121
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -5946,7 +5951,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 6257
+      "UsersEstimate": 6258
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -6065,7 +6070,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10788,
+      "Progressed": 10789,
       "Completed": 195
     }
   ],
@@ -6073,8 +6078,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-01T14:59:07.0284768+00:00",
-  "LastChanged_Achievements": "2023-12-07T16:08:44.9810275+00:00",
+  "LastChanged_Achievements": "2023-12-07T17:08:40.8383041+00:00",
   "LastUpdate_AppInfo": "2023-12-02T02:15:26.2086692+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:58:32.4014067+00:00",
-  "LastUpdate_Achievements": "2023-12-07T16:08:44.9810866+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:58:32.7231295+00:00",
+  "LastUpdate_Achievements": "2023-12-07T17:08:40.8383486+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "the-elder-scrolls-online",
   "Ranking_Rating": 794,
   "Ranking_Popularity": 91,
-  "Ranking_PopularitySum": 105,
+  "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 463,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -4935,10 +4935,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 8174,
       "NumberOfAwardsMax": 3480
+    },
+    {
+      "Time": "2023-12-07T16:57:32.8506106+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 8190,
+      "NumberOfAwardsMax": 3480
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8174,
+  "NumberOfAwards": 8190,
   "NumberOfAwardsMax": 3480,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4958,7 +4964,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 791
+      "Count": 797
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4994,7 +5000,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 945
+      "Count": 955
     },
     {
       "Text": "This game is Relaxing",
@@ -5015,8 +5021,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T19:00:34.5855853+00:00",
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
-  "LastChanged": "2023-12-07T15:57:26.6198332+00:00",
+  "LastChanged": "2023-12-07T16:57:32.8506104+00:00",
   "LastUpdate_AppInfo": "2023-12-01T02:57:03.6702613+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:57:26.6198336+00:00",
-  "LastUpdate_Achievements": "2023-12-07T16:04:44.2872021+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:57:32.8506109+00:00",
+  "LastUpdate_Achievements": "2023-12-07T17:04:34.9259125+00:00"
 }

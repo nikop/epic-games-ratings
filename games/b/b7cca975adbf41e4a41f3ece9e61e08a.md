@@ -5,14 +5,14 @@ Rating: 4.74 (Ranked 158)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~9,925 |
-| I Challenge You To Save More Money! | 86.00% | ~9,278 |
-| I Love How Tough You Are | 73.00% | ~7,875 |
-| Wanna Come To My Place For Dinner? | 66.00% | ~7,120 |
+| Last Night...Did We... | 92.00% | ~9,926 |
+| I Challenge You To Save More Money! | 86.00% | ~9,279 |
+| I Love How Tough You Are | 73.00% | ~7,876 |
+| Wanna Come To My Place For Dinner? | 66.00% | ~7,121 |
 | What I Want Is You | 61.00% | ~6,581 |
-| To Be Or Not To Be | 58.00% | ~6,257 |
+| To Be Or Not To Be | 58.00% | ~6,258 |
 | Are You Alright? | 50.00% | ~5,394 |
-| Love Actually | 48.00% | ~5,178 |
+| Love Actually | 49.00% | ~5,287 |
 | Drama King | 42.00% | ~4,531 |
 | You're Really Something Else | 37.00% | ~3,992 |
 | Go Clean up In Your Own Way | 36.00% | ~3,884 |
@@ -23,8 +23,8 @@ Rating: 4.74 (Ranked 158)
 | Drama CP: Reel to Real | 34.00% | ~3,668 |
 | Absolutely Elegant | 33.00% | ~3,560 |
 | Still Single | 32.00% | ~3,452 |
-| Go Get Some Fries On The Pier | 30.00% | ~3,236 |
-| Days Of Innocence | 30.00% | ~3,236 |
+| Go Get Some Fries On The Pier | 30.00% | ~3,237 |
+| Days Of Innocence | 30.00% | ~3,237 |
 | David | 29.00% | ~3,129 |
 | A Slap In The Face! | 26.00% | ~2,805 |
 | All I Have Is Money | 25.00% | ~2,697 |
@@ -48,7 +48,7 @@ Rating: 4.74 (Ranked 158)
 | Tall; Grande; Venti | 2.00% | ~216 |
 | Limerence | 2.00% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,788 (Ranked 164)  
+Progressed: 10,789 (Ranked 164)  
 Completed: 195 (1.81%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,11 +109,11 @@ Completed: 195 (1.81%) (Ranked 135)
 | 2023-12-04 | 10,680 | 188 |
 | 2023-12-05 | 10,712 | 192 |
 | 2023-12-06 | 10,748 | 194 |
-| 2023-12-07 | 10,788 | 195 |
+| 2023-12-07 | 10,789 | 195 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 535)  
-Sum: 23 (Ranked 537)  
-Diff (max vs sum): -2  
+Sum: 23 (Ranked 538)  
+Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 23 |

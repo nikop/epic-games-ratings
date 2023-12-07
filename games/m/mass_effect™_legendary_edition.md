@@ -8,7 +8,7 @@
 | Spectre Inductee | 80.00% | ~1,218 |
 | Medal of Exploration I | 72.00% | ~1,097 |
 | Recruit | 68.00% | ~1,036 |
-| Search and Rescue | 67.00% | ~1,020 |
+| Search and Rescue | 68.00% | ~1,036 |
 | Quarian Ally | 64.00% | ~975 |
 | Medal of Heroism | 60.00% | ~914 |
 | Honorarium of Corporate Service | 60.00% | ~914 |
@@ -46,6 +46,7 @@
 | Ghost Ship | 33.00% | ~503 |
 | The Prodigal | 33.00% | ~503 |
 | Galactic Explorer | 33.00% | ~503 |
+| Driven | 33.00% | ~503 |
 | Shopaholic | 33.00% | ~503 |
 | The Assassin | 32.00% | ~487 |
 | The Justicar | 32.00% | ~487 |
@@ -54,16 +55,15 @@
 | Catharsis | 32.00% | ~487 |
 | Ghost of the Father | 32.00% | ~487 |
 | The Cure | 32.00% | ~487 |
-| Driven | 32.00% | ~487 |
 | Focused | 31.00% | ~472 |
 | Completionist | 31.00% | ~472 |
+| Fade Away | 31.00% | ~472 |
 | Big Game Hunter | 31.00% | ~472 |
 | Revenge! | 31.00% | ~472 |
 | Heart of Darkness | 31.00% | ~472 |
 | Bringer of War | 31.00% | ~472 |
 | Cat's in the Cradle | 30.00% | ~457 |
 | Doppelganger | 30.00% | ~457 |
-| Fade Away | 30.00% | ~457 |
 | Treason | 30.00% | ~457 |
 | Agent | 30.00% | ~457 |
 | Digital Exorcist | 30.00% | ~457 |
@@ -80,8 +80,8 @@
 | World Shaker | 27.00% | ~411 |
 | Liberator | 27.00% | ~411 |
 | First Aid Specialist | 26.00% | ~396 |
+| Pathfinder | 26.00% | ~396 |
 | Tunnel Rat | 26.00% | ~396 |
-| Pathfinder | 25.00% | ~381 |
 | Arbiter | 25.00% | ~381 |
 | Savior | 24.00% | ~366 |
 | Weapon Specialist | 24.00% | ~366 |

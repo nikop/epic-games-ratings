@@ -13,12 +13,12 @@
 | The Plains of Strothalm | 71.00% | ~378 |
 | Thalya's Concentrated Fury | 69.00% | ~368 |
 | Bad Elves Go Everywhere | 69.00% | ~368 |
+| Master of Magic | 65.00% | ~346 |
 | Heroes’ Gorge | 65.00% | ~346 |
-| Master of Magic | 64.00% | ~341 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~330 |
 | Magic Accidents | 59.00% | ~314 |
-| The Ascent | 57.00% | ~304 |
-| It's Warm and Cozy at Home | 57.00% | ~304 |
+| The Ascent | 58.00% | ~309 |
+| It's Warm and Cozy at Home | 58.00% | ~309 |
 | Trap Master | 56.00% | ~298 |
 | Minions, Minions! | 55.00% | ~293 |
 | The Big Eaty | 52.00% | ~277 |
@@ -26,8 +26,8 @@
 | YOU SHALL NOT PASS! | 50.00% | ~266 |
 | “… like son” | 48.00% | ~256 |
 | Pure Dynamite! | 45.00% | ~240 |
+| Shame! Shame! Shame! | 45.00% | ~240 |
 | The Cathedral of Light | 44.00% | ~235 |
-| Shame! Shame! Shame! | 44.00% | ~235 |
 | Dungeonlord Gorgu | 43.00% | ~229 |
 | Mana Cannon | 41.00% | ~219 |
 | Tanos' Crusade Against Thalya | 41.00% | ~219 |

@@ -25,6 +25,7 @@
 | City crisis | 0.50% | ~2 |
 | I am very happy! | 0.50% | ~2 |
 | What would we do if we can't go out with friends? | 0.50% | ~2 |
+| Banking empire | 0.20% | ~1 |
 | Food provider master | 0.20% | ~1 |
 | Oh, I am sad | 0.20% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.20% | ~1 |
@@ -42,7 +43,6 @@
 | Archipelago builder | 0.00% | ~0 |
 | Archipelago urban planner | 0.00% | ~0 |
 | Archipelago master | 0.00% | ~0 |
-| Banking empire | 0.00% | ~0 |
 | Pumpkin farmer | 0.00% | ~0 |
 | Ready to make sopaipillas | 0.00% | ~0 |
 | Green energy | 0.00% | ~0 |

@@ -2,9 +2,9 @@
   "ID": "8f343ffd415a4fa28a2b24c4ac3c9b22",
   "Name": "Mountain Racing",
   "ProductSlug": "mountain-racing-47178d",
-  "Ranking_EOS_Progress": 658,
+  "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-12-04T18:30:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47,6 +47,11 @@
       "Time": "2023-12-05T13:11:18.5163251+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T17:05:31.7201081+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-02T04:03:05.9562297+00:00",
@@ -57,9 +62,9 @@
       "ID": "MOUNTAIN_COIN_1",
       "SetID": "679bn1o",
       "Name": "Beginner",
-      "Percentage": 25,
+      "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MOUNTAIN_COIN_2",
@@ -98,13 +103,13 @@
     {
       "ID": "679bn1o",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-02T04:03:05.9562297+00:00",
-  "LastChanged_Achievements": "2023-12-07T16:05:45.0322864+00:00",
+  "LastChanged_Achievements": "2023-12-07T17:05:31.7201078+00:00",
   "LastUpdate_AppInfo": "2023-12-02T03:57:02.267014+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:00:09.2688983+00:00",
-  "LastUpdate_Achievements": "2023-12-07T16:05:45.0322929+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:00:02.9149248+00:00",
+  "LastUpdate_Achievements": "2023-12-07T17:05:31.7201136+00:00"
 }

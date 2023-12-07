@@ -4,7 +4,7 @@
   "ProductSlug": "danger-scavenger-0cd9a9",
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 463,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-12-13T17:00:00+00:00",
@@ -381,8 +381,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.3680111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.141889+00:00",
   "LastChanged": "2023-03-31T05:57:21.3680112+00:00",
-  "LastChanged_Achievements": "2023-12-07T16:03:30.9516733+00:00",
+  "LastChanged_Achievements": "2023-12-07T17:03:26.1432893+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:13.5361843+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:58:27.3644244+00:00",
-  "LastUpdate_Achievements": "2023-12-07T16:03:30.9517004+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:58:27.9365636+00:00",
+  "LastUpdate_Achievements": "2023-12-07T17:03:26.1433156+00:00"
 }

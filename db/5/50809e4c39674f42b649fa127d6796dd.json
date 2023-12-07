@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1052,6 +1052,11 @@
       "Time": "2023-12-07T09:03:54.8887765+00:00",
       "NumProgressed": 429,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T17:04:16.525452+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1144,15 +1149,15 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 159
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1160,7 +1165,7 @@
       "Name": "Celestial Rain",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1168,7 +1173,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1176,7 +1181,7 @@
       "Name": "Speed Demon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1232,7 +1237,7 @@
       "Name": "Futile Resistance",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1320,7 +1325,7 @@
       "Name": "Unrivaled Aptitude",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SPEED_STATUS_REACH_NUM",
@@ -1383,14 +1388,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-07T16:04:24.5760218+00:00",
+  "LastChanged_Achievements": "2023-12-07T17:04:16.5254517+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-07T16:02:56.7723397+00:00",
-  "LastUpdate_Achievements": "2023-12-07T16:04:24.5760645+00:00"
+  "LastUpdate_Ratings": "2023-12-07T17:02:53.3429838+00:00",
+  "LastUpdate_Achievements": "2023-12-07T17:04:16.5254766+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 3678,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3365,10 +3365,10 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17649,
-  "EOS_Completed": 45,
-  "EOS_NewPlayers": 112,
-  "EOS_NewCompleters": -4,
+  "EOS_Progressed": 17651,
+  "EOS_Completed": 44,
+  "EOS_NewPlayers": 114,
+  "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
@@ -14930,6 +14930,11 @@
       "Time": "2023-12-07T16:04:04.2286293+00:00",
       "NumProgressed": 17649,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-12-07T17:03:57.3100769+00:00",
+      "NumProgressed": 17651,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15342,7 +15347,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "WinNearFrosts",
@@ -15366,15 +15371,15 @@
       "Name": "Overgrown Library",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "WinNearPetrified",
       "SetID": "cfbk359",
       "Name": "Petrified Necropolis",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 530
     },
     {
       "ID": "WinNearPresence",
@@ -15398,7 +15403,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "WinWithFoxes",
@@ -15413,15 +15418,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17649,
-      "Completed": 45
+      "Progressed": 17651,
+      "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-06T14:58:47.8686874+00:00",
-  "LastChanged_Achievements": "2023-12-07T16:04:04.2286288+00:00",
+  "LastChanged_Achievements": "2023-12-07T17:03:57.3100764+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:59:37.2266982+00:00",
-  "LastUpdate_Achievements": "2023-12-07T16:04:04.228737+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:59:32.3027954+00:00",
+  "LastUpdate_Achievements": "2023-12-07T17:03:57.3101693+00:00"
 }

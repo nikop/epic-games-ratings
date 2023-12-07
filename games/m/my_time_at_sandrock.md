@@ -8,10 +8,10 @@ Number of Ratings: 892  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept Assembler | 239.00% | ~1,212 |
 | Iron Chef | 170.00% | ~862 |
-| Super Spelunker | 135.00% | ~684 |
+| Super Spelunker | 136.00% | ~690 |
 | Greeno-B-Gone | 130.00% | ~659 |
-| The Little Wood that Could | 110.00% | ~558 |
-| Your Especially Earned Trajectory | 106.00% | ~537 |
+| The Little Wood that Could | 111.00% | ~563 |
+| Your Especially Earned Trajectory | 107.00% | ~542 |
 | No Mountain Wide Enough | 85.00% | ~431 |
 | One of the Cool Kids | 85.00% | ~431 |
 | Yakmel Whisperer | 80.00% | ~406 |
@@ -23,8 +23,8 @@ Number of Ratings: 892  (23.09.2022)
 | First Love | 71.00% | ~360 |
 | Unboxing | 71.00% | ~360 |
 | Big Game Hunter | 67.00% | ~340 |
+| Chatterbox | 67.00% | ~340 |
 | Financially Secure | 66.00% | ~335 |
-| Chatterbox | 66.00% | ~335 |
 | Elementary, My Dear | 64.00% | ~324 |
 | Got Served | 64.00% | ~324 |
 | Builder of the Month | 62.00% | ~314 |
