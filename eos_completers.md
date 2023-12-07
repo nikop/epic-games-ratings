@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.33% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.32% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -69,7 +69,7 @@
 | 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 67 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.83% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.82% |
 | 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.66% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
@@ -86,7 +86,7 @@
 | 84 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.41% |
 | 85 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 86 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.26% |
-| 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.24% |
+| 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.23% |
 | 88 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.18% |
 | 89 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.17% |
 | 90 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.07% |
@@ -101,8 +101,8 @@
 | 99 | [The Complex](games/t/the_complex.md) | 3.18% |
 | 100 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.15% |
 | 101 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
-| 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.12% |
 | 101 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
+| 103 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.11% |
 | 104 | [Doodle God](games/d/doodle_god.md) | 3.08% |
 | 104 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 106 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.06% |
@@ -128,7 +128,7 @@
 | 126 | [Bloodshore](games/b/bloodshore.md) | 2.23% |
 | 127 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
 | 128 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
-| 129 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.20% |
+| 129 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.19% |
 | 130 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 131 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.89% |
 | 132 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.88% |
@@ -230,12 +230,12 @@
 | 227 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 229 | [Train Valley](games/t/train_valley.md) | 0.38% |
 | 230 | [The Surge](games/t/the_surge.md) | 0.37% |
-| 231 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 231 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
-| 233 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
-| 233 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.34% |
-| 233 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.34% |
-| 233 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.34% |
+| 231 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.36% |
+| 232 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
+| 232 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
+| 234 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
+| 234 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.34% |
+| 234 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.34% |
 | 237 | [Them and Us](games/t/them_and_us.md) | 0.32% |
 | 238 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.31% |
 | 238 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
