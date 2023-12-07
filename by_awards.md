@@ -87,7 +87,7 @@
 | 85 | [Days Gone](games/d/days_gone.md) | 4,071 | 4.68 | 257 |
 | 86 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,935 | 4.68 | 257 |
 | 87 | [Paladins](games/p/paladins.md) | 3,894 | 4.32 | 828 |
-| 88 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,872 | 4.27 | 865 |
+| 88 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,874 | 4.27 | 865 |
 | 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,768 | 4.46 | 648 |
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,594 | 4.47 | 638 |
 | 91 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,459 | 4.35 | 794 |
@@ -165,8 +165,8 @@
 | 163 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 898 | 4.45 | 664 |
 | 164 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 854 | 4.69 | 232 |
 | 165 | [Auto Chess](games/a/auto_chess.md) | 852 | 4.51 | 572 |
+| 166 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 850 | 4.75 | 147 |
 | 166 | [The Long Dark](games/t/the_long_dark.md) | 850 | 4.74 | 157 |
-| 167 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 848 | 4.75 | 147 |
 | 168 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 847 | 4.49 | 612 |
 | 169 | [Riders Republic](games/r/riders_republic.md) | 844 | 4.75 | 147 |
 | 170 | [Frostpunk](games/f/frostpunk.md) | 843 | 4.74 | 157 |
@@ -210,7 +210,7 @@
 | 208 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 550 | 4.87 | 24 |
 | 209 | [Terraforming Mars](games/t/terraforming_mars.md) | 529 | 4.53 | 543 |
 | 210 | [Ghostrunner](games/g/ghostrunner.md) | 523 | 4.72 | 188 |
-| 211 | [Surviving Mars](games/s/surviving_mars.md) | 518 | 4.60 | 419 |
+| 211 | [Surviving Mars](games/s/surviving_mars.md) | 520 | 4.60 | 419 |
 | 212 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 502 | 4.40 | 740 |
 | 212 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 502 | 4.66 | 294 |
 | 214 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 484 | 4.84 | 51 |

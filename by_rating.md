@@ -148,7 +148,7 @@
 | 130 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.76 | 0 | 557 |
 | 147 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 6,744 | 56 |
 | 147 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 557 |
-| 147 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 848 | 167 |
+| 147 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 850 | 166 |
 | 147 | [Haven](games/h/haven.md) | 4.75 | 0 | 557 |
 | 147 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 557 |
 | 147 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.75 | 0 | 557 |
@@ -433,7 +433,7 @@
 | 419 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 744 | 181 |
 | 419 | [Returnal™](games/r/returnal™.md) | 4.60 | 98 | 367 |
 | 419 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.60 | 82 | 391 |
-| 419 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 518 | 211 |
+| 419 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 520 | 211 |
 | 419 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 27 | 515 |
 | 419 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 24 | 528 |
 | 437 | [DOOM 3](games/d/doom_3.md) | 4.59 | 71 | 403 |
@@ -865,7 +865,7 @@
 | 858 | [Scrapnaut](games/s/scrapnaut.md) | 4.28 | 0 | 557 |
 | 858 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 308 |
 | 865 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 557 |
-| 865 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,872 | 88 |
+| 865 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,874 | 88 |
 | 865 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 20 | 550 |
 | 865 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 557 |
 | 865 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,778 | 100 |
