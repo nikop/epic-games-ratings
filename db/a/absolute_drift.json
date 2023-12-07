@@ -2,12 +2,12 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 726,
+  "Ranking_Rating": 725,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
@@ -469,9 +469,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1554732,
+  "EOS_Progressed": 1554741,
   "EOS_Completed": 738,
-  "EOS_NewPlayers": 1379,
+  "EOS_NewPlayers": 1385,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26844,6 +26844,11 @@
       "Time": "2023-12-07T12:06:38.8059757+00:00",
       "NumProgressed": 1554732,
       "NumCompleted": 738
+    },
+    {
+      "Time": "2023-12-07T13:11:51.3482721+00:00",
+      "NumProgressed": 1554741,
+      "NumCompleted": 738
     }
   ],
   "TotalAchievements": 20,
@@ -26863,7 +26868,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108831
+      "UsersEstimate": 108832
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -26903,7 +26908,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 139926
+      "UsersEstimate": 139927
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -26951,7 +26956,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155473
+      "UsersEstimate": 155474
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -26967,7 +26972,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 139926
+      "UsersEstimate": 139927
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -27014,15 +27019,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1554732,
+      "Progressed": 1554741,
       "Completed": 738
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-11-20T10:57:26.3491363+00:00",
-  "LastChanged_Achievements": "2023-12-07T12:06:38.8059751+00:00",
+  "LastChanged_Achievements": "2023-12-07T13:11:51.3482717+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:56.6993207+00:00",
-  "LastUpdate_Ratings": "2023-12-07T11:59:20.0073921+00:00",
-  "LastUpdate_Achievements": "2023-12-07T12:06:38.8061101+00:00"
+  "LastUpdate_Ratings": "2023-12-07T13:04:56.1289652+00:00",
+  "LastUpdate_Achievements": "2023-12-07T13:11:51.3483952+00:00"
 }

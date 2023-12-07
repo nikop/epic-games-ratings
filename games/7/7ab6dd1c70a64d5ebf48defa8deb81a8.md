@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Break Out | 15.00% | ~37 |
 | Trinity | 15.00% | ~37 |
-| Break Out | 14.00% | ~35 |
 | Find Allies | 12.00% | ~30 |
 | Powerful Allies | 11.00% | ~27 |
 | A Taste of Wrath | 11.00% | ~27 |
@@ -21,8 +21,8 @@
 | Fashion Victim | 9.00% | ~22 |
 | Essence Blow | 7.00% | ~17 |
 | Calm before the Storm | 6.00% | ~15 |
+| To Battle | 6.00% | ~15 |
 | Alchemist | 6.00% | ~15 |
-| To Battle | 5.00% | ~12 |
 | Godslayer | 5.00% | ~12 |
 | The Mentor | 5.00% | ~12 |
 | Fine Feathers Make Fine Birds | 5.00% | ~12 |

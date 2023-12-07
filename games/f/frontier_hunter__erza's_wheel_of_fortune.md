@@ -11,7 +11,7 @@
 | Wolf King Killer | 53.00% | ~299 |
 | Fashion Connoisseur | 51.00% | ~288 |
 | Arms Mechanic | 47.00% | ~265 |
-| Flower Thief | 42.00% | ~237 |
+| Flower Thief | 43.00% | ~243 |
 | Beginner Artificer | 37.00% | ~209 |
 | Apostle of Flame | 37.00% | ~209 |
 | Beginner Cook | 35.00% | ~197 |
@@ -26,16 +26,16 @@
 | Youth Magnet | 18.00% | ~102 |
 | Furious Scorpion Killer | 16.00% | ~90 |
 | Lethal Blade Mantis Killer | 16.00% | ~90 |
+| Squeaky Clean | 16.00% | ~90 |
 | Master Artificer | 16.00% | ~90 |
-| Squeaky Clean | 15.00% | ~85 |
 | Kind Adventurer | 14.00% | ~79 |
 | Mermaid Killer | 14.00% | ~79 |
 | Cave Master | 13.00% | ~73 |
 | Face Slapper | 13.00% | ~73 |
 | Boss challenge | 9.00% | ~51 |
 | Berserker Slayer | 9.00% | ~51 |
+| Master Cook | 8.00% | ~45 |
 | Giantess Slayer | 8.00% | ~45 |
-| Master Cook | 7.00% | ~39 |
 | Warden Slayer | 7.00% | ~39 |
 | Rebellious | 2.00% | ~11 |
 | Blade Mantis Challenge | 2.00% | ~11 |

@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 564,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1880,9 +1880,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "7pimpda",
       "Name": "Squeaky Clean",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1936,9 +1936,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "7pimpda",
       "Name": "Master Cook",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -2144,9 +2144,9 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 243
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2185,8 +2185,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-07T12:08:35.4112394+00:00",
+  "LastChanged_Achievements": "2023-12-07T13:14:04.4028181+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-07T11:57:41.6948691+00:00",
-  "LastUpdate_Achievements": "2023-12-07T12:08:35.4112706+00:00"
+  "LastUpdate_Ratings": "2023-12-07T13:03:24.0417272+00:00",
+  "LastUpdate_Achievements": "2023-12-07T13:14:04.4028569+00:00"
 }

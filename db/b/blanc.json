@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3316,
+  "EOS_Progressed": 3318,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5021,6 +5021,11 @@
       "Time": "2023-12-07T09:05:54.4562903+00:00",
       "NumProgressed": 3316,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-07T13:11:56.5868635+00:00",
+      "NumProgressed": 3318,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5080,7 +5085,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "SNOW_RUINS",
@@ -5096,7 +5101,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -5120,7 +5125,7 @@
       "Name": "Transmission",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -5135,7 +5140,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3316,
+      "Progressed": 3318,
       "Completed": 6
     }
   ],
@@ -5143,8 +5148,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-07T12:06:44.3161835+00:00",
+  "LastChanged_Achievements": "2023-12-07T13:11:56.5868628+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:22.6950578+00:00",
-  "LastUpdate_Ratings": "2023-12-07T12:00:17.9757096+00:00",
-  "LastUpdate_Achievements": "2023-12-07T12:06:44.3162244+00:00"
+  "LastUpdate_Ratings": "2023-12-07T13:05:49.0033492+00:00",
+  "LastUpdate_Achievements": "2023-12-07T13:11:56.5869109+00:00"
 }

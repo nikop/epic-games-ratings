@@ -6,49 +6,49 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~311,447 |
-| Jeef Skeejj | 44.00% | ~207,631 |
-| Careful planning | 39.00% | ~184,037 |
-| Second Coming | 34.00% | ~160,442 |
-| Jeef Skagg | 30.00% | ~141,567 |
-| Mother | 25.00% | ~117,972 |
-| In space, no one can hear you scream | 24.00% | ~113,253 |
-| Chapter I: Echoes | 22.00% | ~103,816 |
-| Excelsior Rule | 22.00% | ~103,816 |
-| Things persisted in not being what they seemed | 20.00% | ~94,378 |
-| Knightmare Frames | 15.00% | ~70,783 |
-| May His passing cleanse the world | 15.00% | ~70,783 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,783 |
-| Pope Zenon | 15.00% | ~70,783 |
+| The Shutdown | 66.00% | ~311,451 |
+| Jeef Skeejj | 44.00% | ~207,634 |
+| Careful planning | 39.00% | ~184,039 |
+| Second Coming | 34.00% | ~160,444 |
+| Jeef Skagg | 30.00% | ~141,568 |
+| Mother | 25.00% | ~117,974 |
+| In space, no one can hear you scream | 24.00% | ~113,255 |
+| Chapter I: Echoes | 22.00% | ~103,817 |
+| Excelsior Rule | 22.00% | ~103,817 |
+| Things persisted in not being what they seemed | 20.00% | ~94,379 |
+| Knightmare Frames | 15.00% | ~70,784 |
+| May His passing cleanse the world | 15.00% | ~70,784 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,784 |
+| Pope Zenon | 15.00% | ~70,784 |
 | Tetsuo | 11.00% | ~51,908 |
 | Plan for the worst | 11.00% | ~51,908 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~47,189 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,751 |
-| Through the mirror | 8.00% | ~37,751 |
-| General Vivar | 8.00% | ~37,751 |
-| Back to Ganyma | 8.00% | ~37,751 |
-| Kaos Rule | 8.00% | ~37,751 |
-| Admiral Okonkwo | 7.00% | ~33,032 |
-| The Survivalists | 7.00% | ~33,032 |
-| The Tech Specialist | 7.00% | ~33,032 |
-| Chapter V: Memories of None | 6.00% | ~28,313 |
-| Meet your maker | 6.00% | ~28,313 |
-| The Impersonator | 6.00% | ~28,313 |
-| The Kid | 6.00% | ~28,313 |
-| The Evangelist | 6.00% | ~28,313 |
-| The Inquisitor | 6.00% | ~28,313 |
-| The Ace Pilot | 6.00% | ~28,313 |
-| The Tech Med | 6.00% | ~28,313 |
-| The Mech Soldier | 6.00% | ~28,313 |
-| The lucky charm | 6.00% | ~28,313 |
-| The Anonymous | 6.00% | ~28,313 |
-| The Smuggler | 6.00% | ~28,313 |
-| The Crazy Repairman | 6.00% | ~28,313 |
-| The Weasel | 6.00% | ~28,313 |
-| Kill the Doctor | 5.00% | ~23,594 |
-| Forsaken | 5.00% | ~23,594 |
-| Mercy | 5.00% | ~23,594 |
-| Jericho Rule | 5.00% | ~23,594 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~47,190 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,752 |
+| Through the mirror | 8.00% | ~37,752 |
+| General Vivar | 8.00% | ~37,752 |
+| Back to Ganyma | 8.00% | ~37,752 |
+| Kaos Rule | 8.00% | ~37,752 |
+| Admiral Okonkwo | 7.00% | ~33,033 |
+| The Survivalists | 7.00% | ~33,033 |
+| The Tech Specialist | 7.00% | ~33,033 |
+| Chapter V: Memories of None | 6.00% | ~28,314 |
+| Meet your maker | 6.00% | ~28,314 |
+| The Impersonator | 6.00% | ~28,314 |
+| The Kid | 6.00% | ~28,314 |
+| The Evangelist | 6.00% | ~28,314 |
+| The Inquisitor | 6.00% | ~28,314 |
+| The Ace Pilot | 6.00% | ~28,314 |
+| The Tech Med | 6.00% | ~28,314 |
+| The Mech Soldier | 6.00% | ~28,314 |
+| The lucky charm | 6.00% | ~28,314 |
+| The Anonymous | 6.00% | ~28,314 |
+| The Smuggler | 6.00% | ~28,314 |
+| The Crazy Repairman | 6.00% | ~28,314 |
+| The Weasel | 6.00% | ~28,314 |
+| Kill the Doctor | 5.00% | ~23,595 |
+| Forsaken | 5.00% | ~23,595 |
+| Mercy | 5.00% | ~23,595 |
+| Jericho Rule | 5.00% | ~23,595 |
 | Geno Rule | 3.00% | ~14,157 |
 | Hammer Rule | 3.00% | ~14,157 |
 | Survivor | 2.00% | ~9,438 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~16 |
 | Kronos Rule | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,889 (Ranked 40)  
+Progressed: 471,895 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 20 (0.00%) (Ranked 371)
 | 2023-12-04 | 471,795 | 20 |
 | 2023-12-05 | 471,829 | 20 |
 | 2023-12-06 | 471,879 | 20 |
-| 2023-12-07 | 471,889 | 20 |
+| 2023-12-07 | 471,895 | 20 |
 ## Awards
 Max (Character Customization): 225  (Ranked 278)  
 Sum: 247 (Ranked 383)  

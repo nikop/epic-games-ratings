@@ -7,16 +7,16 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~372,858 |
-| Now You're Talking | 62.00% | ~330,245 |
-| Steel Yourself | 62.00% | ~330,245 |
-| Window Dressing | 50.00% | ~266,327 |
+| Now You're Talking | 62.00% | ~330,246 |
+| Steel Yourself | 62.00% | ~330,246 |
+| Window Dressing | 50.00% | ~266,328 |
 | Trigger Happy | 46.00% | ~245,021 |
-| Riverborn | 45.00% | ~239,694 |
-| Starry Eyed | 34.00% | ~181,102 |
-| Poking Around | 34.00% | ~181,102 |
+| Riverborn | 45.00% | ~239,695 |
+| Starry Eyed | 34.00% | ~181,103 |
+| Poking Around | 34.00% | ~181,103 |
 | Talk of the Town | 24.00% | ~127,837 |
-| AAARR! | 23.00% | ~122,510 |
-| Hello Darkness | 23.00% | ~122,510 |
+| AAARR! | 23.00% | ~122,511 |
+| Hello Darkness | 23.00% | ~122,511 |
 | Wind At Our Backs | 22.00% | ~117,184 |
 | To the Beat | 20.00% | ~106,531 |
 | Sunny Shores | 17.00% | ~90,551 |
@@ -26,8 +26,8 @@ Number of Ratings: 617  (23.09.2022)
 | Keep On Trucking | 13.00% | ~69,245 |
 | Going on an Adventure | 11.00% | ~58,592 |
 | Make Peace, Not War | 11.00% | ~58,592 |
-| Walking The Line | 10.00% | ~53,265 |
-| Not So Cute Anymore | 10.00% | ~53,265 |
+| Walking The Line | 10.00% | ~53,266 |
+| Not So Cute Anymore | 10.00% | ~53,266 |
 | Road Less Travelled | 9.00% | ~47,939 |
 | Lost and Found | 9.00% | ~47,939 |
 | Under the Radar | 8.00% | ~42,612 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,598 |
 | Point Taken | 0.20% | ~1,065 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532,654 (Ranked 35)  
+Progressed: 532,655 (Ranked 35)  
 Completed: 505 (0.09%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 505 (0.09%) (Ranked 295)
 | 2023-12-04 | 532,534 | 504 |
 | 2023-12-05 | 532,582 | 504 |
 | 2023-12-06 | 532,625 | 505 |
-| 2023-12-07 | 532,654 | 505 |
+| 2023-12-07 | 532,655 | 505 |
 ## Awards
 Max (Relaxing): 20  (Ranked 550)  
 Sum: 20 (Ranked 551)  

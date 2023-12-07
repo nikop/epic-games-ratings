@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7423,9 +7423,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144098,
+  "EOS_Progressed": 144105,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 1163,
+  "EOS_NewPlayers": 1161,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -31423,6 +31423,11 @@
       "Time": "2023-12-07T12:04:21.3476628+00:00",
       "NumProgressed": 144098,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-07T13:09:44.3363613+00:00",
+      "NumProgressed": 144105,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -31586,7 +31591,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "champions01",
@@ -31658,7 +31663,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "commonres01",
@@ -31778,7 +31783,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "energy01",
@@ -32002,7 +32007,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "legenchant01",
@@ -32329,15 +32334,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144098,
+      "Progressed": 144105,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-07T09:02:49.9026791+00:00",
-  "LastChanged_Achievements": "2023-12-07T12:04:21.3476625+00:00",
+  "LastChanged_Achievements": "2023-12-07T13:09:44.3363605+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-07T12:03:04.1447736+00:00",
-  "LastUpdate_Achievements": "2023-12-07T12:04:21.3478656+00:00"
+  "LastUpdate_Ratings": "2023-12-07T13:08:36.7579335+00:00",
+  "LastUpdate_Achievements": "2023-12-07T13:09:44.3365908+00:00"
 }

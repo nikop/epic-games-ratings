@@ -1,32 +1,32 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 992)  
+Rating: 4.05 (Ranked 991)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,878 |
-| World Map | 78.00% | ~2,414 |
-| Temple of Eternals | 57.00% | ~1,764 |
-| Prestigious | 53.00% | ~1,640 |
-| Fellowship Power | 42.00% | ~1,300 |
+| Victor | 93.00% | ~2,880 |
+| World Map | 78.00% | ~2,416 |
+| Temple of Eternals | 57.00% | ~1,765 |
+| Prestigious | 53.00% | ~1,641 |
+| Fellowship Power | 42.00% | ~1,301 |
 | Guild Power | 24.00% | ~743 |
 | Full Party | 21.00% | ~650 |
 | Prestigious x10 | 21.00% | ~650 |
 | The game is on | 19.00% | ~588 |
 | Exotic Merchant | 17.00% | ~526 |
-| Dragon Clicker | 16.00% | ~495 |
-| Inspection | 15.00% | ~464 |
-| Miner Clicker | 15.00% | ~464 |
-| Dragon Master | 14.00% | ~433 |
-| Enlightenment | 14.00% | ~433 |
-| Hero inspection | 14.00% | ~433 |
-| Lieutenant | 13.00% | ~402 |
-| Mysterious Rock | 12.00% | ~371 |
-| Natural Talent | 12.00% | ~371 |
-| Superior | 12.00% | ~371 |
-| The Unstoppable | 12.00% | ~371 |
-| Milestone collector | 11.00% | ~340 |
+| Dragon Clicker | 16.00% | ~496 |
+| Inspection | 15.00% | ~465 |
+| Miner Clicker | 15.00% | ~465 |
+| Enlightenment | 14.00% | ~434 |
+| Hero inspection | 14.00% | ~434 |
+| Dragon Master | 13.00% | ~403 |
+| Lieutenant | 13.00% | ~403 |
+| Mysterious Rock | 12.00% | ~372 |
+| Natural Talent | 12.00% | ~372 |
+| Superior | 12.00% | ~372 |
+| The Unstoppable | 12.00% | ~372 |
+| Milestone collector | 11.00% | ~341 |
 | Scientist | 10.00% | ~310 |
 | Challenger | 9.00% | ~279 |
 | Daily Quest Completionist | 9.00% | ~279 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 992)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,095 (Ranked 212)  
+Progressed: 3,097 (Ranked 212)  
 Completed: 2 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-04 | 3,038 | 2 |
 | 2023-12-05 | 3,056 | 2 |
 | 2023-12-06 | 3,082 | 2 |
-| 2023-12-07 | 3,095 | 2 |
+| 2023-12-07 | 3,097 | 2 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 477)  
 Sum: 158 (Ranked 427)  

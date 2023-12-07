@@ -376,9 +376,9 @@
       "ID": "completeFall",
       "SetID": "cfe0fhi",
       "Name": "Pumpkins and Postage Stamps",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "completeGame",
@@ -495,8 +495,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-12-07T12:04:00.6133089+00:00",
+  "LastChanged_Achievements": "2023-12-07T13:09:25.455126+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:12.190103+00:00",
-  "LastUpdate_Ratings": "2023-12-07T11:59:41.7578091+00:00",
-  "LastUpdate_Achievements": "2023-12-07T12:04:00.6133225+00:00"
+  "LastUpdate_Ratings": "2023-12-07T13:05:16.3265989+00:00",
+  "LastUpdate_Achievements": "2023-12-07T13:09:25.4551383+00:00"
 }

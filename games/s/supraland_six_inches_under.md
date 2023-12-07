@@ -48,7 +48,7 @@ Number of Ratings: 209  (23.09.2022)
 | No Match for you | 65.00% | ~1,530 |
 | Bouncy | 62.00% | ~1,459 |
 | Plumbster | 60.00% | ~1,412 |
-| Faster | 59.00% | ~1,389 |
+| Faster | 60.00% | ~1,412 |
 | Much Magic | 58.00% | ~1,365 |
 | Chest Detector | 55.00% | ~1,295 |
 | Flames | 52.00% | ~1,224 |

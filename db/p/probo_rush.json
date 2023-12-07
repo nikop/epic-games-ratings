@@ -2,9 +2,9 @@
   "ID": "3ad904a98f1b4585a37ee1eae7769ace",
   "Name": "Probo Rush",
   "ProductSlug": "probo-rush-b3ee54",
-  "Ranking_EOS_Progress": 716,
+  "Ranking_EOS_Progress": 717,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 465,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-25T17:00:00+00:00",
@@ -190,8 +190,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-12T15:07:13.1424827+00:00",
-  "LastChanged_Achievements": "2023-12-07T12:05:36.0351964+00:00",
+  "LastChanged_Achievements": "2023-12-07T13:10:52.4457786+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:27.4830107+00:00",
-  "LastUpdate_Ratings": "2023-12-07T11:58:25.7372006+00:00",
-  "LastUpdate_Achievements": "2023-12-07T12:05:36.0352076+00:00"
+  "LastUpdate_Ratings": "2023-12-07T13:04:05.6375538+00:00",
+  "LastUpdate_Achievements": "2023-12-07T13:10:52.4457971+00:00"
 }

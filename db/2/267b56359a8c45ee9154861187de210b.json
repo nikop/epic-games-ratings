@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 465,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -284,9 +284,9 @@
       "ID": "TOURN_PARTICIP_10",
       "SetID": "3448go",
       "Name": "Welcome to Fortnight",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TOURN_PARTICIP_20",
@@ -596,17 +596,17 @@
       "ID": "beat_c4_gold",
       "SetID": "3448go",
       "Name": "Defying Gravity",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beat_c4_silver",
       "SetID": "3448go",
       "Name": "Slip Sliding Away",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "beat_c4a_bronze",
@@ -660,17 +660,17 @@
       "ID": "beat_c5_gold",
       "SetID": "3448go",
       "Name": "Every Penrose Has Its Thorn",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beat_c5_silver",
       "SetID": "3448go",
       "Name": "Symbiotic Relationship",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "beat_c6_bronze",
@@ -979,8 +979,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-07T12:03:51.7477436+00:00",
+  "LastChanged_Achievements": "2023-12-07T13:09:17.3421328+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:46.919816+00:00",
-  "LastUpdate_Ratings": "2023-12-07T12:02:51.3719689+00:00",
-  "LastUpdate_Achievements": "2023-12-07T12:03:51.7478294+00:00"
+  "LastUpdate_Ratings": "2023-12-07T13:08:25.5517839+00:00",
+  "LastUpdate_Achievements": "2023-12-07T13:09:17.3422174+00:00"
 }

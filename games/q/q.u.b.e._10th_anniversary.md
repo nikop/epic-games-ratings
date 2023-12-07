@@ -1,36 +1,36 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.41 (Ranked 726)  
+Rating: 4.41 (Ranked 725)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 25.00% | ~5,993 |
-| Sector 2 | 22.00% | ~5,274 |
-| Crush That Cube! | 19.00% | ~4,555 |
-| Sector 3 | 19.00% | ~4,555 |
-| Sector 4 | 16.00% | ~3,836 |
-| Crush That Ball! | 15.00% | ~3,596 |
-| Sector 5 | 10.00% | ~2,397 |
-| Sector 6 | 9.00% | ~2,157 |
-| Feeling the Blues | 7.00% | ~1,678 |
-| Squished | 6.00% | ~1,438 |
-| Finale | 6.00% | ~1,438 |
-| Sector 7 | 6.00% | ~1,438 |
-| Did That Work? -- No! | 6.00% | ~1,438 |
+| Sector 1 | 25.00% | ~5,995 |
+| Sector 2 | 22.00% | ~5,276 |
+| Crush That Cube! | 19.00% | ~4,556 |
+| Sector 3 | 19.00% | ~4,556 |
+| Sector 4 | 16.00% | ~3,837 |
+| Crush That Ball! | 15.00% | ~3,597 |
+| Sector 5 | 10.00% | ~2,398 |
+| Sector 6 | 9.00% | ~2,158 |
+| Feeling the Blues | 7.00% | ~1,679 |
+| Squished | 6.00% | ~1,439 |
+| Finale | 6.00% | ~1,439 |
+| Sector 7 | 6.00% | ~1,439 |
+| Did That Work? -- No! | 6.00% | ~1,439 |
 | Master Room | 3.00% | ~719 |
-| Bronze Trophy | 2.00% | ~479 |
-| Gold Trophy | 2.00% | ~479 |
-| Hopefully that's all of them! | 2.00% | ~479 |
-| Phew! | 2.00% | ~479 |
-| The Puzzle Master | 2.00% | ~479 |
-| Silver Trophy | 2.00% | ~479 |
-| Completed It. | 2.00% | ~479 |
+| Bronze Trophy | 2.00% | ~480 |
+| Gold Trophy | 2.00% | ~480 |
+| Hopefully that's all of them! | 2.00% | ~480 |
+| Phew! | 2.00% | ~480 |
+| The Puzzle Master | 2.00% | ~480 |
+| Silver Trophy | 2.00% | ~480 |
+| Completed It. | 2.00% | ~480 |
 | The Collector | 1.00% | ~240 |
 | Master Of The Collectables | 1.00% | ~240 |
 | Maxed Out | 1.00% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,972 (Ranked 135)  
+Progressed: 23,981 (Ranked 135)  
 Completed: 140 (0.58%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 140 (0.58%) (Ranked 200)
 | 2023-12-04 | 23,633 | 134 |
 | 2023-12-05 | 23,768 | 136 |
 | 2023-12-06 | 23,915 | 139 |
-| 2023-12-07 | 23,972 | 140 |
+| 2023-12-07 | 23,981 | 140 |
 ## Awards
 Max (Challenging Puzzles): 22  (Ranked 541)  
 Sum: 22 (Ranked 543)  

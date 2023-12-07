@@ -20,18 +20,18 @@
 | An expert mediator | 44.00% | ~17 |
 | DI Hardwicke | 44.00% | ~17 |
 | Betty Allen | 41.00% | ~16 |
-| The Investigation Begins | 38.00% | ~15 |
-| Ms. Camilla B. Culsham | 33.00% | ~13 |
-| Irene Court-Smyth | 33.00% | ~13 |
-| An odd series of events | 31.00% | ~12 |
-| The Apartment | 31.00% | ~12 |
-| Nathaniel Dryden | 28.00% | ~11 |
+| The Investigation Begins | 41.00% | ~16 |
+| Ms. Camilla B. Culsham | 36.00% | ~14 |
+| Irene Court-Smyth | 36.00% | ~14 |
+| An odd series of events | 33.00% | ~13 |
+| The Apartment | 33.00% | ~13 |
+| Nathaniel Dryden | 31.00% | ~12 |
+| A rude awakening | 28.00% | ~11 |
+| Bartholomew | 28.00% | ~11 |
 | Well-acquainted | 26.00% | ~10 |
 | Truth from within | 26.00% | ~10 |
-| A rude awakening | 26.00% | ~10 |
 | Anastasia Babanin | 26.00% | ~10 |
 | Zakariya Demir | 26.00% | ~10 |
-| Bartholomew | 26.00% | ~10 |
 | The Scheme | 26.00% | ~10 |
 | A curious phrase | 21.00% | ~8 |
 | Evelyn Lakshmi Warbeck | 21.00% | ~8 |

@@ -16,25 +16,25 @@
 | There is another way | 23.00% | ~135 |
 | Sysadmin | 22.00% | ~129 |
 | Every little helps | 21.00% | ~123 |
+| Hacker | 20.00% | ~118 |
 | The Walking Robot Among Us | 20.00% | ~118 |
 | Annoying | 19.00% | ~112 |
-| Hacker | 19.00% | ~112 |
 | He is just a child | 19.00% | ~112 |
 | Uncertain | 18.00% | ~106 |
 | Goody | 17.00% | ~100 |
+| Please oh pleeease! | 17.00% | ~100 |
 | Ace | 16.00% | ~94 |
 | Concrete painting | 16.00% | ~94 |
 | Found it! | 16.00% | ~94 |
 | Hipster | 16.00% | ~94 |
 | Not what it seems | 16.00% | ~94 |
-| Please oh pleeease! | 16.00% | ~94 |
 | That's much better! | 15.00% | ~88 |
 | Not as clumsy or random | 13.00% | ~76 |
 | Blade Runner | 10.00% | ~59 |
 | Perfect hearing | 9.00% | ~53 |
 | Meticulous | 8.00% | ~47 |
+| Accurate | 5.00% | ~29 |
 | Lucky dog | 4.00% | ~24 |
-| Accurate | 4.00% | ~24 |
 | Silent | 4.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 588 (Ranked 303)  
