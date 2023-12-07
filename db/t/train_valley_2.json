@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -3605,9 +3605,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 421699,
+  "EOS_Progressed": 421700,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1676,
+  "EOS_NewPlayers": 1672,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21295,6 +21295,11 @@
       "Time": "2023-12-07T02:28:40.5667282+00:00",
       "NumProgressed": 421699,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-12-07T03:03:52.5305495+00:00",
+      "NumProgressed": 421700,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 89,
@@ -21434,7 +21439,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 307840
+      "UsersEstimate": 307841
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -21490,7 +21495,7 @@
       "Name": "Full garage",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 257236
+      "UsersEstimate": 257237
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -21818,7 +21823,7 @@
       "Name": "To the eyeballs!",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 215066
+      "UsersEstimate": 215067
     },
     {
       "ID": "AchievementTourismAge",
@@ -22017,21 +22022,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 421040,
+      "Progressed": 421041,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 421699,
+      "Progressed": 421700,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-12-06T22:00:13.7957+00:00",
-  "LastChanged_Achievements": "2023-12-07T02:28:40.5667277+00:00",
+  "LastChanged_Achievements": "2023-12-07T03:03:52.5305493+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:17.2296428+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:25:16.5756266+00:00",
-  "LastUpdate_Achievements": "2023-12-07T02:28:40.5668908+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:59:58.9288186+00:00",
+  "LastUpdate_Achievements": "2023-12-07T03:03:52.5306833+00:00"
 }

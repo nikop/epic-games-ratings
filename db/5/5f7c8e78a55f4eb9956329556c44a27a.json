@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -757,9 +757,9 @@
       "ID": "TINGWD_BUZZ",
       "SetID": "c0imaa6",
       "Name": "To infinity and beyond!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "TINGWD_CARMACK",
@@ -821,9 +821,9 @@
       "ID": "TINGWD_CLICKER",
       "SetID": "c0imaa6",
       "Name": "Serial Clicker",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "TINGWD_CONSPI",
@@ -988,8 +988,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-07T02:31:43.930664+00:00",
+  "LastChanged_Achievements": "2023-12-07T03:05:58.641009+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:13.2165924+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:22:00.4908859+00:00",
-  "LastUpdate_Achievements": "2023-12-07T02:31:43.9306842+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:57:54.4606524+00:00",
+  "LastUpdate_Achievements": "2023-12-07T03:05:58.6410262+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "EA SPORTS FC\u2122 24 Standard Edition",
   "ProductSlug": "ea-sports-fc-24",
   "Ranking_Rating": 835,
-  "Ranking_Popularity": 172,
+  "Ranking_Popularity": 173,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
     "PcReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -2381,7 +2381,7 @@
   ],
   "EOS_Progressed": 56164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 705,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11668,8 +11668,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-12-06T16:00:19.8703377+00:00",
-  "LastChanged_Achievements": "2023-12-07T02:32:06.2912471+00:00",
+  "LastChanged_Achievements": "2023-12-07T03:06:13.7387925+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:07.0815744+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:24:31.720764+00:00",
-  "LastUpdate_Achievements": "2023-12-07T02:32:06.2913036+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:59:30.5987763+00:00",
+  "LastUpdate_Achievements": "2023-12-07T03:06:13.7388639+00:00"
 }

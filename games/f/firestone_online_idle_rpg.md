@@ -5,19 +5,19 @@ Rating: 4.05 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,867 |
-| World Map | 78.00% | ~2,405 |
-| Temple of Eternals | 57.00% | ~1,757 |
-| Prestigious | 53.00% | ~1,634 |
+| Victor | 93.00% | ~2,868 |
+| World Map | 78.00% | ~2,406 |
+| Temple of Eternals | 57.00% | ~1,758 |
+| Prestigious | 53.00% | ~1,635 |
 | Fellowship Power | 42.00% | ~1,295 |
 | Guild Power | 24.00% | ~740 |
-| Prestigious x10 | 21.00% | ~647 |
+| Prestigious x10 | 21.00% | ~648 |
 | Full Party | 20.00% | ~617 |
 | The game is on | 19.00% | ~586 |
 | Exotic Merchant | 17.00% | ~524 |
 | Dragon Clicker | 16.00% | ~493 |
-| Inspection | 15.00% | ~462 |
-| Miner Clicker | 15.00% | ~462 |
+| Inspection | 15.00% | ~463 |
+| Miner Clicker | 15.00% | ~463 |
 | Dragon Master | 14.00% | ~432 |
 | Enlightenment | 14.00% | ~432 |
 | Hero inspection | 14.00% | ~432 |
@@ -28,13 +28,13 @@ Rating: 4.05 (Ranked 991)
 | The Unstoppable | 12.00% | ~370 |
 | Milestone collector | 11.00% | ~339 |
 | Scientist | 10.00% | ~308 |
-| Challenger | 9.00% | ~277 |
-| Daily Quest Completionist | 9.00% | ~277 |
-| Doing My Part | 9.00% | ~277 |
-| Hunter | 9.00% | ~277 |
-| Mastery | 9.00% | ~277 |
-| Scroll Master | 9.00% | ~277 |
-| The power of Awakening | 9.00% | ~277 |
+| Challenger | 9.00% | ~278 |
+| Daily Quest Completionist | 9.00% | ~278 |
+| Doing My Part | 9.00% | ~278 |
+| Hunter | 9.00% | ~278 |
+| Mastery | 9.00% | ~278 |
+| Scroll Master | 9.00% | ~278 |
+| The power of Awakening | 9.00% | ~278 |
 | Four Leaf Clover | 8.00% | ~247 |
 | Frostfire Liberator | 8.00% | ~247 |
 | Moving Up The Ladder | 8.00% | ~247 |
@@ -61,9 +61,9 @@ Rating: 4.05 (Ranked 991)
 | Arena Challenger | 4.00% | ~123 |
 | Background Story | 4.00% | ~123 |
 | Ebony Jungle Liberator | 4.00% | ~123 |
-| Gear Enchanting | 3.00% | ~92 |
-| Mythic Power | 3.00% | ~92 |
-| What lies behind the bush | 3.00% | ~92 |
+| Gear Enchanting | 3.00% | ~93 |
+| Mythic Power | 3.00% | ~93 |
+| What lies behind the bush | 3.00% | ~93 |
 | Cauldron Liberator | 2.00% | ~62 |
 | Enchanting skill x5 | 2.00% | ~62 |
 | Guardian Master | 2.00% | ~62 |
@@ -77,11 +77,11 @@ Rating: 4.05 (Ranked 991)
 | Tree of Life | 1.00% | ~31 |
 | Beast War Machines | 0.80% | ~25 |
 | Silverwood liberator | 0.80% | ~25 |
-| Ultimate War Machines | 0.60% | ~18 |
+| Ultimate War Machines | 0.60% | ~19 |
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,083 (Ranked 212)  
+Progressed: 3,084 (Ranked 212)  
 Completed: 2 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-04 | 3,038 | 2 |
 | 2023-12-05 | 3,056 | 2 |
 | 2023-12-06 | 3,082 | 2 |
-| 2023-12-07 | 3,083 | 2 |
+| 2023-12-07 | 3,084 | 2 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 477)  
 Sum: 158 (Ranked 427)  

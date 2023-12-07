@@ -15,7 +15,7 @@
 | Sign of weakness | 38.00% | ~40 |
 | Finished it | 32.00% | ~34 |
 | Face your fears | 28.00% | ~29 |
-| Whispers long forgotten | 16.00% | ~17 |
+| Whispers long forgotten | 17.00% | ~18 |
 | Playtime | 13.00% | ~14 |
 | Tough conversation | 13.00% | ~14 |
 | The tragedy unfolds | 12.00% | ~13 |
@@ -24,15 +24,15 @@
 | A Slice of Life | 10.00% | ~10 |
 | Debut | 10.00% | ~10 |
 | First steps | 10.00% | ~10 |
+| Sound Bite | 10.00% | ~10 |
 | Lights! Camera! Action! | 10.00% | ~10 |
 | The art of movement | 10.00% | ~10 |
 | True Reflection | 10.00% | ~10 |
 | Another perspective | 9.00% | ~9 |
-| Sound Bite | 9.00% | ~9 |
 | Heavy Burden | 8.00% | ~8 |
 | Casting Finished | 7.00% | ~7 |
+| Fisherman | 6.00% | ~6 |
 | We Are Not Alone | 5.00% | ~5 |
-| Fisherman | 5.00% | ~5 |
 | Body of Work | 4.00% | ~4 |
 | The Perfect Storm | 4.00% | ~4 |
 | Instinct of self-preservation | 4.00% | ~4 |

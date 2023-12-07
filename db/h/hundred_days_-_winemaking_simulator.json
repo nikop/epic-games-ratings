@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1075,7 +1075,7 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 15087,
+  "EOS_Progressed": 15088,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 889,
   "EOS_NewCompleters": 0,
@@ -12670,6 +12670,11 @@
       "Time": "2023-12-07T02:33:28.1095725+00:00",
       "NumProgressed": 15087,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-07T03:08:58.9191726+00:00",
+      "NumProgressed": 15088,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -12770,7 +12775,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "a_23",
@@ -12929,7 +12934,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 15087,
+      "Progressed": 15088,
       "Completed": 12
     }
   ],
@@ -12937,8 +12942,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-07T02:33:28.1095721+00:00",
+  "LastChanged_Achievements": "2023-12-07T03:08:58.9191723+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:18.6853909+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:27:11.5736501+00:00",
-  "LastUpdate_Achievements": "2023-12-07T02:33:28.1096437+00:00"
+  "LastUpdate_Ratings": "2023-12-07T03:02:51.5167668+00:00",
+  "LastUpdate_Achievements": "2023-12-07T03:08:58.9192433+00:00"
 }

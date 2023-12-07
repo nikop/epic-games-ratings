@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -997,9 +997,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 541758,
+  "EOS_Progressed": 541762,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1279,
+  "EOS_NewPlayers": 1282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27172,6 +27172,11 @@
       "Time": "2023-12-07T02:32:42.3482113+00:00",
       "NumProgressed": 541758,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-07T03:08:27.743094+00:00",
+      "NumProgressed": 541762,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -27183,7 +27188,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 146275
+      "UsersEstimate": 146276
     },
     {
       "ID": "Backdoor",
@@ -27215,7 +27220,7 @@
       "Name": "Blindman\u0027s Bluff",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48758
+      "UsersEstimate": 48759
     },
     {
       "ID": "BluffingEh",
@@ -27279,7 +27284,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216703
+      "UsersEstimate": 216705
     },
     {
       "ID": "DeadlyAssassin",
@@ -27287,7 +27292,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 86681
+      "UsersEstimate": 86682
     },
     {
       "ID": "DogEatDog",
@@ -27311,7 +27316,7 @@
       "Name": "Give Your Regards To Broadway",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32505
+      "UsersEstimate": 32506
     },
     {
       "ID": "GoForIt",
@@ -27327,7 +27332,7 @@
       "Name": "Gutshot",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 75846
+      "UsersEstimate": 75847
     },
     {
       "ID": "Handy",
@@ -27335,7 +27340,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 227538
+      "UsersEstimate": 227540
     },
     {
       "ID": "HoldingYourOwn",
@@ -27415,7 +27420,7 @@
       "Name": "Poker Joker",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48758
+      "UsersEstimate": 48759
     },
     {
       "ID": "PokerShowdown",
@@ -27431,7 +27436,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 411736
+      "UsersEstimate": 411739
     },
     {
       "ID": "ProPlayer",
@@ -27455,7 +27460,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 119187
+      "UsersEstimate": 119188
     },
     {
       "ID": "RegularPunter",
@@ -27471,7 +27476,7 @@
       "Name": "Risk It For A Biscuit",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 75846
+      "UsersEstimate": 75847
     },
     {
       "ID": "RockAndHighRoller",
@@ -27511,7 +27516,7 @@
       "Name": "Three Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 102934
+      "UsersEstimate": 102935
     },
     {
       "ID": "TopDog",
@@ -27542,7 +27547,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 541758,
+      "Progressed": 541762,
       "Completed": 2
     }
   ],
@@ -27550,8 +27555,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-12-04T21:01:55.0231248+00:00",
-  "LastChanged_Achievements": "2023-12-07T02:32:42.3482109+00:00",
+  "LastChanged_Achievements": "2023-12-07T03:08:27.7430937+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:11.118442+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:26:48.3309633+00:00",
-  "LastUpdate_Achievements": "2023-12-07T02:32:42.3483484+00:00"
+  "LastUpdate_Ratings": "2023-12-07T03:02:36.8738828+00:00",
+  "LastUpdate_Achievements": "2023-12-07T03:08:27.7432435+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-06T16:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -633,7 +633,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 25934,
+  "EOS_Progressed": 25935,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 3102,
   "EOS_NewCompleters": 0,
@@ -4243,6 +4243,11 @@
       "Time": "2023-12-07T02:28:45.9786858+00:00",
       "NumProgressed": 25934,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T03:03:56.3896691+00:00",
+      "NumProgressed": 25935,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T16:07:36.390537+00:00",
@@ -4271,7 +4276,7 @@
       "Name": "Unbeatable!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 8558
+      "UsersEstimate": 8559
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -4295,7 +4300,7 @@
       "Name": "On a Roll",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "achievement_30_matches_without_losing",
@@ -4311,7 +4316,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -4319,7 +4324,7 @@
       "Name": "Parked The Bus",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 3371
+      "UsersEstimate": 3372
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -4359,7 +4364,7 @@
       "Name": "Thumping",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 9336
+      "UsersEstimate": 9337
     },
     {
       "ID": "achievement_bragging_rights",
@@ -4391,7 +4396,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 12967
+      "UsersEstimate": 12968
     },
     {
       "ID": "achievement_club_world_cup",
@@ -4471,7 +4476,7 @@
       "Name": "Full Faith",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 5705
+      "UsersEstimate": 5706
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -4517,9 +4522,9 @@
       "ID": "achievement_goal_of_the_season",
       "SetID": "5240afh",
       "Name": "Superb Strike",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 778
+      "UsersEstimate": 1037
     },
     {
       "ID": "achievement_goal_scored_in_20_consecutive_matches",
@@ -4535,7 +4540,7 @@
       "Name": "Irresistible Force",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3371
+      "UsersEstimate": 3372
     },
     {
       "ID": "achievement_hattrick",
@@ -4583,7 +4588,7 @@
       "Name": "Flavour Of The Month",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 5705
+      "UsersEstimate": 5706
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -4655,7 +4660,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 14782
+      "UsersEstimate": 14783
     },
     {
       "ID": "achievement_parked_the_tank",
@@ -4719,7 +4724,7 @@
       "Name": "Putting in the Hours",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "achievement_racked_them_up",
@@ -4751,7 +4756,7 @@
       "Name": "Record Sale",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4927
+      "UsersEstimate": 4928
     },
     {
       "ID": "achievement_record_signing",
@@ -4775,7 +4780,7 @@
       "Name": "Cash to Burn",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "achievement_sell_player",
@@ -4783,7 +4788,7 @@
       "Name": "Off the Books",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 12967
+      "UsersEstimate": 12968
     },
     {
       "ID": "achievement_shots_for_days",
@@ -4791,7 +4796,7 @@
       "Name": "Shots For Days",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 5705
+      "UsersEstimate": 5706
     },
     {
       "ID": "achievement_signed_a_player_from_another_network_user",
@@ -4807,7 +4812,7 @@
       "Name": "Squad Goals",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 4927
+      "UsersEstimate": 4928
     },
     {
       "ID": "achievement_stay_on_target",
@@ -4831,7 +4836,7 @@
       "Name": "The Fixer",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 4927
+      "UsersEstimate": 4928
     },
     {
       "ID": "achievement_the_only_stat_that_matters",
@@ -4855,7 +4860,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 16857
+      "UsersEstimate": 16858
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -4871,7 +4876,7 @@
       "Name": "Goal Machine",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "achievement_undefeated_season",
@@ -5054,7 +5059,7 @@
     {
       "ID": "5240afh",
       "IsBase": true,
-      "Progressed": 25934,
+      "Progressed": 25935,
       "Completed": 0
     }
   ],
@@ -5062,8 +5067,8 @@
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
   "LastChanged": "2023-12-07T01:46:48.8292641+00:00",
-  "LastChanged_Achievements": "2023-12-07T02:28:45.9786853+00:00",
+  "LastChanged_Achievements": "2023-12-07T03:03:56.3896689+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:19.3204477+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:23:48.5577503+00:00",
-  "LastUpdate_Achievements": "2023-12-07T02:28:45.9787822+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:59:02.9514165+00:00",
+  "LastUpdate_Achievements": "2023-12-07T03:03:56.3897942+00:00"
 }

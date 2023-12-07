@@ -515,9 +515,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 102745,
+  "EOS_Progressed": 102747,
   "EOS_Completed": 1040,
-  "EOS_NewPlayers": 1189,
+  "EOS_NewPlayers": 1184,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -26895,6 +26895,11 @@
       "Time": "2023-12-07T02:33:59.4703082+00:00",
       "NumProgressed": 102745,
       "NumCompleted": 1040
+    },
+    {
+      "Time": "2023-12-07T03:09:20.7716547+00:00",
+      "NumProgressed": 102747,
+      "NumCompleted": 1040
     }
   ],
   "TotalAchievements": 56,
@@ -26906,7 +26911,7 @@
       "Name": "Just The Two of Us",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 33906
+      "UsersEstimate": 33907
     },
     {
       "ID": "ach_001_game_complete",
@@ -26946,7 +26951,7 @@
       "Name": "The Machinist Mask",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 10274
+      "UsersEstimate": 10275
     },
     {
       "ID": "ach_006_beetle_mask",
@@ -27002,7 +27007,7 @@
       "Name": "The Cartographer Mask",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 10274
+      "UsersEstimate": 10275
     },
     {
       "ID": "ach_013_collect_masks",
@@ -27018,7 +27023,7 @@
       "Name": "Chum Novice",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 16439
+      "UsersEstimate": 16440
     },
     {
       "ID": "ach_015_all_chum_eggs",
@@ -27074,7 +27079,7 @@
       "Name": "Balfron Connection",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10274
+      "UsersEstimate": 10275
     },
     {
       "ID": "ach_022_reveal_any_monument",
@@ -27106,7 +27111,7 @@
       "Name": "Ceiling Of Stars",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10274
+      "UsersEstimate": 10275
     },
     {
       "ID": "ach_026_fix_wind_tower",
@@ -27114,7 +27119,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 25686
+      "UsersEstimate": 25687
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -27122,7 +27127,7 @@
       "Name": "Power to the People",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 14384
+      "UsersEstimate": 14385
     },
     {
       "ID": "ach_028_accuse_suspect",
@@ -27154,7 +27159,7 @@
       "Name": "Nesting Giant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 14384
+      "UsersEstimate": 14385
     },
     {
       "ID": "ach_032_collect_elephant_beetle",
@@ -27210,7 +27215,7 @@
       "Name": "Badge Collector",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 12329
+      "UsersEstimate": 12330
     },
     {
       "ID": "ach_039_build_hoverbike",
@@ -27218,7 +27223,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 34933
+      "UsersEstimate": 34934
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -27226,7 +27231,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 25686
+      "UsersEstimate": 25687
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -27242,7 +27247,7 @@
       "Name": "Silver-Tongued Sable",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 16439
+      "UsersEstimate": 16440
     },
     {
       "ID": "ach_043_climb_large_distance",
@@ -27250,7 +27255,7 @@
       "Name": "Sticky Paws",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 16439
+      "UsersEstimate": 16440
     },
     {
       "ID": "ach_044_open_chests_1",
@@ -27290,7 +27295,7 @@
       "Name": "Bubble Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 16439
+      "UsersEstimate": 16440
     },
     {
       "ID": "ach_049_fall_from_large_height",
@@ -27314,7 +27319,7 @@
       "Name": "Playing Dress Up",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10274
+      "UsersEstimate": 10275
     },
     {
       "ID": "ach_052_spend_cuts_1",
@@ -27338,7 +27343,7 @@
       "Name": "Quite The Catch",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 12329
+      "UsersEstimate": 12330
     },
     {
       "ID": "ach_055_complete_vivarium",
@@ -27353,15 +27358,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 102745,
+      "Progressed": 102747,
       "Completed": 1040
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-12-03T22:58:57.1479092+00:00",
-  "LastChanged_Achievements": "2023-12-07T02:33:59.4703078+00:00",
+  "LastChanged_Achievements": "2023-12-07T03:09:20.7716545+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:38.0200623+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:20:49.5162234+00:00",
-  "LastUpdate_Achievements": "2023-12-07T02:33:59.4704419+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:57:08.3485557+00:00",
+  "LastUpdate_Achievements": "2023-12-07T03:09:20.7717762+00:00"
 }

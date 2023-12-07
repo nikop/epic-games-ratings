@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2303,10 +2303,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 4208,
       "NumberOfAwardsMax": 2162
+    },
+    {
+      "Time": "2023-12-07T02:57:41.9467848+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4209,
+      "NumberOfAwardsMax": 2162
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4208,
+  "NumberOfAwards": 4209,
   "NumberOfAwardsMax": 2162,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2368,7 +2374,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 192
+      "Count": 193
     },
     {
       "Text": "This game has a Creative Community",
@@ -2377,9 +2383,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 46450,
+  "EOS_Progressed": 46451,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27447,6 +27453,11 @@
       "Time": "2023-12-07T01:53:34.6691364+00:00",
       "NumProgressed": 46450,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-07T03:05:21.2055029+00:00",
+      "NumProgressed": 46451,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 75,
@@ -27474,7 +27485,7 @@
       "Name": "Blood Madness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6038
+      "UsersEstimate": 6039
     },
     {
       "ID": "achievements_12",
@@ -27490,7 +27501,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 26476
+      "UsersEstimate": 26477
     },
     {
       "ID": "achievements_14",
@@ -27514,7 +27525,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 16257
+      "UsersEstimate": 16258
     },
     {
       "ID": "achievements_19",
@@ -27530,7 +27541,7 @@
       "Name": "More Mortal Suffering!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "achievements_20",
@@ -27554,7 +27565,7 @@
       "Name": "First Sacrifice",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6038
+      "UsersEstimate": 6039
     },
     {
       "ID": "achievements_23",
@@ -27562,7 +27573,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 27870
+      "UsersEstimate": 27871
     },
     {
       "ID": "achievements_24",
@@ -27586,7 +27597,7 @@
       "Name": "Mountain King - I",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 19044
+      "UsersEstimate": 19045
     },
     {
       "ID": "achievements_27",
@@ -27650,7 +27661,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13470
+      "UsersEstimate": 13471
     },
     {
       "ID": "achievements_34",
@@ -27706,7 +27717,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 30192
+      "UsersEstimate": 30193
     },
     {
       "ID": "achievements_40",
@@ -27730,7 +27741,7 @@
       "Name": "Forbidden Knowledge",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "achievements_43",
@@ -27762,7 +27773,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 39482
+      "UsersEstimate": 39483
     },
     {
       "ID": "achievements_47",
@@ -27770,7 +27781,7 @@
       "Name": "Master of Alchemy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 6038
+      "UsersEstimate": 6039
     },
     {
       "ID": "achievements_48",
@@ -27826,7 +27837,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 26476
+      "UsersEstimate": 26477
     },
     {
       "ID": "achievements_54",
@@ -27906,7 +27917,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 11612
+      "UsersEstimate": 11613
     },
     {
       "ID": "achievements_64",
@@ -27930,7 +27941,7 @@
       "Name": "Nightmare of the Humanity - II",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 9754
+      "UsersEstimate": 9755
     },
     {
       "ID": "achievements_67",
@@ -27994,7 +28005,7 @@
       "Name": "Live Operation",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "achievements_74",
@@ -28034,7 +28045,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 33908
+      "UsersEstimate": 33909
     },
     {
       "ID": "achievements_8",
@@ -28042,7 +28053,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13470
+      "UsersEstimate": 13471
     },
     {
       "ID": "achievements_9",
@@ -28057,15 +28068,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 46450,
+      "Progressed": 46451,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
-  "LastChanged": "2023-12-03T15:59:33.0645995+00:00",
-  "LastChanged_Achievements": "2023-12-07T02:30:49.411856+00:00",
+  "LastChanged": "2023-12-07T02:57:41.9467847+00:00",
+  "LastChanged_Achievements": "2023-12-07T03:05:21.2055027+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:08.4190258+00:00",
-  "LastUpdate_Ratings": "2023-12-07T02:21:41.716947+00:00",
-  "LastUpdate_Achievements": "2023-12-07T02:30:49.4120018+00:00"
+  "LastUpdate_Ratings": "2023-12-07T02:57:41.9467851+00:00",
+  "LastUpdate_Achievements": "2023-12-07T03:05:21.2056729+00:00"
 }

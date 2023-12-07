@@ -6,32 +6,32 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~39,482 |
-| Blood Moon | 73.00% | ~33,908 |
-| Path of the Necromancer | 65.00% | ~30,192 |
-| Chainbreaker - I | 60.00% | ~27,870 |
-| Cursed Creature | 57.00% | ~26,476 |
-| Extraction | 57.00% | ~26,476 |
+| Improvement | 85.00% | ~39,483 |
+| Blood Moon | 73.00% | ~33,909 |
+| Path of the Necromancer | 65.00% | ~30,193 |
+| Chainbreaker - I | 60.00% | ~27,871 |
+| Cursed Creature | 57.00% | ~26,477 |
+| Extraction | 57.00% | ~26,477 |
 | Chainbreaker - II | 55.00% | ~25,548 |
 | Necromancer's Apprentice | 51.00% | ~23,690 |
 | Keeper of Keys | 47.00% | ~21,832 |
 | Distillation | 43.00% | ~19,974 |
 | Transmutation | 42.00% | ~19,509 |
-| Mountain King - I | 41.00% | ~19,044 |
+| Mountain King - I | 41.00% | ~19,045 |
 | Prepared Necromancer | 40.00% | ~18,580 |
 | Mountain King - II | 39.00% | ~18,116 |
 | Blind Rage | 38.00% | ~17,651 |
-| Mad Genius | 35.00% | ~16,257 |
+| Mad Genius | 35.00% | ~16,258 |
 | Cannon Fodder - I | 34.00% | ~15,793 |
 | Soul of Lies | 34.00% | ~15,793 |
 | Bane of Mercenaries - I | 32.00% | ~14,864 |
 | Bane of Mercenaries - II | 31.00% | ~14,400 |
-| Cannon Fodder - II | 29.00% | ~13,470 |
-| Shadow Between Worlds | 29.00% | ~13,470 |
+| Cannon Fodder - II | 29.00% | ~13,471 |
+| Shadow Between Worlds | 29.00% | ~13,471 |
 | Bane of Monsters | 28.00% | ~13,006 |
 | Chainbreaker - III | 28.00% | ~13,006 |
 | Revealed Secrets - I | 26.00% | ~12,077 |
-| Revealed Secrets - II | 25.00% | ~11,612 |
+| Revealed Secrets - II | 25.00% | ~11,613 |
 | Blood Elemental | 24.00% | ~11,148 |
 | Unholy Bones | 23.00% | ~10,684 |
 | Lord of Fire | 23.00% | ~10,684 |
@@ -39,7 +39,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Cannon Fodder - III | 22.00% | ~10,219 |
 | Spiritual Attraction | 22.00% | ~10,219 |
 | Nightmare of the Humanity - I | 22.00% | ~10,219 |
-| Nightmare of the Humanity - II | 21.00% | ~9,754 |
+| Nightmare of the Humanity - II | 21.00% | ~9,755 |
 | That Was Easy! | 20.00% | ~9,290 |
 | Silent Waters | 20.00% | ~9,290 |
 | Head of Order | 20.00% | ~9,290 |
@@ -50,16 +50,16 @@ Number of Ratings: 10,109  (23.09.2022)
 | Mountain King - III | 15.00% | ~6,968 |
 | Rare Warrior | 15.00% | ~6,968 |
 | Grand Arena | 14.00% | ~6,503 |
-| Blood Madness | 13.00% | ~6,038 |
-| First Sacrifice | 13.00% | ~6,038 |
-| Master of Alchemy | 13.00% | ~6,038 |
+| Blood Madness | 13.00% | ~6,039 |
+| First Sacrifice | 13.00% | ~6,039 |
+| Master of Alchemy | 13.00% | ~6,039 |
 | Legendary Warrior | 12.00% | ~5,574 |
 | Bane of Mercenaries - III | 10.00% | ~4,645 |
 | Monument to Greatness | 10.00% | ~4,645 |
 | Ancient Burial | 10.00% | ~4,645 |
-| More Mortal Suffering! | 9.00% | ~4,180 |
-| Forbidden Knowledge | 9.00% | ~4,180 |
-| Live Operation | 9.00% | ~4,180 |
+| More Mortal Suffering! | 9.00% | ~4,181 |
+| Forbidden Knowledge | 9.00% | ~4,181 |
+| Live Operation | 9.00% | ~4,181 |
 | Master of Rage | 8.00% | ~3,716 |
 | Icy Incursion | 8.00% | ~3,716 |
 | Arachnophobia | 8.00% | ~3,716 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~232 |
 | Renowned Researcher | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,450 (Ranked 115)  
+Progressed: 46,451 (Ranked 115)  
 Completed: 25 (0.05%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,10 +313,10 @@ Completed: 25 (0.05%) (Ranked 321)
 | 2023-12-04 | 46,325 | 25 |
 | 2023-12-05 | 46,384 | 25 |
 | 2023-12-06 | 46,441 | 25 |
-| 2023-12-07 | 46,450 | 25 |
+| 2023-12-07 | 46,451 | 25 |
 ## Awards
 Max (Character Customization): 2,162  (Ranked 109)  
-Sum: 4,208 (Ranked 153)  
+Sum: 4,209 (Ranked 153)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
@@ -329,7 +329,7 @@ Diff (max vs sum): -44
 | This game is Extremely Fun | 215 |
 | This game has Amazing Characters | 213 |
 | This game has Quickly Understood Controls | 203 |
-| This game has Unique Visuals | 192 |
+| This game has Unique Visuals | 193 |
 | This game has a Creative Community | 102 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -473,3 +473,4 @@ Diff (max vs sum): -44
 | 2023-11-30 | 4.37 | - | 2,162 | 4,204 |
 | 2023-12-01 | 4.37 | - | 2,162 | 4,206 |
 | 2023-12-03 | 4.37 | - | 2,162 | 4,208 |
+| 2023-12-07 | 4.37 | - | 2,162 | 4,209 |

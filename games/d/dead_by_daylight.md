@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,514 |
-| Skillful | 2.00% | ~21,514 |
-| Zealous | 1.00% | ~10,757 |
-| Not half bad | 1.00% | ~10,757 |
-| Apt Survivor | 1.00% | ~10,757 |
-| Survival Treasures | 1.00% | ~10,757 |
-| I | 1.00% | ~10,757 |
-| Make Some Noise | 1.00% | ~10,757 |
-| Handyman | 0.90% | ~9,681 |
-| Sorted | 0.90% | ~9,681 |
-| Resurgence | 0.90% | ~9,681 |
+| It wakes | 2.00% | ~21,515 |
+| Skillful | 2.00% | ~21,515 |
+| Zealous | 1.00% | ~10,758 |
+| Not half bad | 1.00% | ~10,758 |
+| Apt Survivor | 1.00% | ~10,758 |
+| Survival Treasures | 1.00% | ~10,758 |
+| I | 1.00% | ~10,758 |
+| Make Some Noise | 1.00% | ~10,758 |
+| Handyman | 0.90% | ~9,682 |
+| Sorted | 0.90% | ~9,682 |
+| Resurgence | 0.90% | ~9,682 |
 | The Grand Sacrifice | 0.80% | ~8,606 |
 | No one left behind | 0.80% | ~8,606 |
 | Medic | 0.80% | ~8,606 |
 | Bloody Millionaire | 0.80% | ~8,606 |
 | Healthy Obsession | 0.80% | ~8,606 |
 | Preemptive Strike | 0.80% | ~8,606 |
+| Humanitarian | 0.80% | ~8,606 |
 | Backdoor Escape | 0.70% | ~7,530 |
 | Perfect Escape | 0.70% | ~7,530 |
-| Humanitarian | 0.70% | ~7,530 |
-| Agonizing Escape | 0.60% | ~6,454 |
-| I've got your back | 0.60% | ~6,454 |
-| Perfect Killing | 0.60% | ~6,454 |
-| Apt Killer | 0.60% | ~6,454 |
-| Risk it all | 0.60% | ~6,454 |
-| II | 0.60% | ~6,454 |
-| Engineer | 0.60% | ~6,454 |
-| Wounded Healer | 0.60% | ~6,454 |
-| Close Shave | 0.60% | ~6,454 |
+| Agonizing Escape | 0.60% | ~6,455 |
+| I've got your back | 0.60% | ~6,455 |
+| Perfect Killing | 0.60% | ~6,455 |
+| Apt Killer | 0.60% | ~6,455 |
+| Risk it all | 0.60% | ~6,455 |
+| II | 0.60% | ~6,455 |
+| Engineer | 0.60% | ~6,455 |
+| Wounded Healer | 0.60% | ~6,455 |
+| Close Shave | 0.60% | ~6,455 |
 | Vulture | 0.50% | ~5,379 |
 | III | 0.50% | ~5,379 |
 | Lifting The Fog | 0.50% | ~5,379 |
@@ -72,33 +72,34 @@ Number of Ratings: 70,340  (23.09.2022)
 | Classy Act | 0.30% | ~3,227 |
 | One More Step | 0.30% | ~3,227 |
 | MU/TH/UR Dearest | 0.30% | ~3,227 |
-| A bite for the Entity | 0.20% | ~2,151 |
-| Blood in your mouth | 0.20% | ~2,151 |
-| Jump Scares | 0.20% | ~2,151 |
-| Hemophobia | 0.20% | ~2,151 |
-| Deep Cleansing | 0.20% | ~2,151 |
-| Texas BBQ | 0.20% | ~2,151 |
-| Serial Killer | 0.20% | ~2,151 |
-| Escaping the Nightmare | 0.20% | ~2,151 |
-| Game Over | 0.20% | ~2,151 |
-| Party Crasher | 0.20% | ~2,151 |
-| Whiffing to Success | 0.20% | ~2,151 |
-| Outrage | 0.20% | ~2,151 |
-| Devoted Gatekeeping | 0.20% | ~2,151 |
-| Shrine Apparatus | 0.20% | ~2,151 |
-| Broken Bodies | 0.20% | ~2,151 |
-| Selfless Survival | 0.20% | ~2,151 |
-| I See You | 0.20% | ~2,151 |
-| End of Days | 0.20% | ~2,151 |
-| Insult and Injury | 0.20% | ~2,151 |
-| Triage | 0.20% | ~2,151 |
-| Outrun the Overlap | 0.20% | ~2,151 |
-| High Speed Pursuit | 0.20% | ~2,151 |
-| A Fast Death | 0.20% | ~2,151 |
-| Rebuilding The Borgo | 0.20% | ~2,151 |
-| Complete the Evolution | 0.20% | ~2,151 |
-| Extraterrestrial | 0.20% | ~2,151 |
-| Outta Nowhere | 0.20% | ~2,151 |
+| A bite for the Entity | 0.20% | ~2,152 |
+| Blood in your mouth | 0.20% | ~2,152 |
+| Jump Scares | 0.20% | ~2,152 |
+| Hemophobia | 0.20% | ~2,152 |
+| Deep Cleansing | 0.20% | ~2,152 |
+| Texas BBQ | 0.20% | ~2,152 |
+| Serial Killer | 0.20% | ~2,152 |
+| Escaping the Nightmare | 0.20% | ~2,152 |
+| Game Over | 0.20% | ~2,152 |
+| Party Crasher | 0.20% | ~2,152 |
+| Whiffing to Success | 0.20% | ~2,152 |
+| Outrage | 0.20% | ~2,152 |
+| Devoted Gatekeeping | 0.20% | ~2,152 |
+| Shrine Apparatus | 0.20% | ~2,152 |
+| Broken Bodies | 0.20% | ~2,152 |
+| Selfless Survival | 0.20% | ~2,152 |
+| I See You | 0.20% | ~2,152 |
+| End of Days | 0.20% | ~2,152 |
+| Insult and Injury | 0.20% | ~2,152 |
+| Triage | 0.20% | ~2,152 |
+| Outrun the Overlap | 0.20% | ~2,152 |
+| High Speed Pursuit | 0.20% | ~2,152 |
+| A Fast Death | 0.20% | ~2,152 |
+| Rebuilding The Borgo | 0.20% | ~2,152 |
+| Complete the Evolution | 0.20% | ~2,152 |
+| Extraterrestrial | 0.20% | ~2,152 |
+| Joke’s On You | 0.20% | ~2,152 |
+| Outta Nowhere | 0.20% | ~2,152 |
 | A feast for the Entity | 0.10% | ~1,076 |
 | Cripple them all | 0.10% | ~1,076 |
 | The Grind | 0.10% | ~1,076 |
@@ -236,10 +237,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~1,076 |
 | Kitted Out | 0.10% | ~1,076 |
 | Adept Ripley | 0.10% | ~1,076 |
-| Joke’s On You | 0.10% | ~1,076 |
 | Adept Good Guy | 0.10% | ~1,076 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,075,712 (Ranked 14)  
+Progressed: 1,075,760 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -470,7 +470,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
-| 2023-12-07 | 1,075,712 | 61 |
+| 2023-12-07 | 1,075,760 | 61 |
 ## Awards
 Max (Diverse Characters): 37,449  (Ranked 15)  
 Sum: 283,845 (Ranked 12)  

@@ -6,9 +6,9 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~307,840 |
-| Full garage | 61.00% | ~257,236 |
-| To the eyeballs! | 51.00% | ~215,066 |
+| Dealmaker | 73.00% | ~307,841 |
+| Full garage | 61.00% | ~257,237 |
+| To the eyeballs! | 51.00% | ~215,067 |
 | Individual delivery | 47.00% | ~198,199 |
 | Non-Stop | 45.00% | ~189,765 |
 | Juggler | 36.00% | ~151,812 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~421 |
 | World Zapper | 0.10% | ~421 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421,699 (Ranked 45)  
+Progressed: 421,700 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 23 (0.01%) (Ranked 348)
 | 2023-12-04 | 421,314 | 23 |
 | 2023-12-05 | 421,504 | 23 |
 | 2023-12-06 | 421,683 | 23 |
-| 2023-12-07 | 421,699 | 23 |
+| 2023-12-07 | 421,700 | 23 |
 ## Awards
 Max (Challenging Puzzles): 950  (Ranked 158)  
 Sum: 1,915 (Ranked 217)  
