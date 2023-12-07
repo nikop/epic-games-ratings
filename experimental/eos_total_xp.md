@@ -166,6 +166,7 @@
 | [Cafe Owner Simulator](../games/c/cafe_owner_simulator.md) | 14 | 1,000 |
 | [Call of the Sea](../games/c/call_of_the_sea.md) | 34 | 1,000 |
 | [Candle Knight](../games/9/909c6e888c164c78a1811afccedbc3a7.md) | 23 | 1,000 |
+| [Carsick Carventure](../games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 5 | 1,000 |
 | [Cartel Tycoon](../games/c/cartel_tycoon.md) | 19 | 1,000 |
 | [Cave Digger 2](../games/9/959857360f1a4558b390204178101bc3.md) | 24 | 1,000 |
 | [Centipede: Recharged](../games/c/centipede__recharged.md) | 16 | 1,000 |
@@ -828,6 +829,7 @@
 | [Wildermyth](../games/w/wildermyth.md) | 56 | 1,000 |
 | [Without Escape](../games/w/without_escape.md) | 9 | 1,000 |
 | [Workshop Simulator](../games/e/eb3087d303e243ff92b3dd0ee3b3fb3f.md) | 22 | 1,000 |
+| [WORLD OF ART - learn with JIGSAW PUZZLES](../games/3/36bcb7861f4e48adbdb7adbe04b683e0.md) | 100 | 1,000 |
 | [World of Contraptions](../games/w/world_of_contraptions.md) | 30 | 1,000 |
 | [World of Warships](../games/w/world_of_warships.md) | 44 | 1,000 |
 | [Worldless](../games/c/c0a02ff2b624425c8111868dec76ac7b.md) | 24 | 1,000 |
