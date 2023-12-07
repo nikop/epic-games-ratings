@@ -9,8 +9,8 @@
 | For the Horde! | 83.00% | ~442 |
 | Hammer Time, Round Two | 81.00% | ~432 |
 | The Hellwoods | 77.00% | ~410 |
+| The Plains of Strothalm | 72.00% | ~384 |
 | Experienced Thalya | 72.00% | ~384 |
-| The Plains of Strothalm | 71.00% | ~378 |
 | Thalya's Concentrated Fury | 69.00% | ~368 |
 | Bad Elves Go Everywhere | 69.00% | ~368 |
 | Master of Magic | 65.00% | ~346 |
@@ -43,10 +43,10 @@
 | The Finitude Drill | 26.00% | ~139 |
 | Stop Tanos! | 23.00% | ~123 |
 | Doom Hill | 23.00% | ~123 |
-| Brimstone Shaken, Not Stirred | 21.00% | ~112 |
+| Brimstone Shaken, Not Stirred | 22.00% | ~117 |
 | Sabotage! | 20.00% | ~107 |
+| Raiders of the Lost Stone | 20.00% | ~107 |
 | Bonus Evilness | 19.00% | ~101 |
-| Raiders of the Lost Stone | 19.00% | ~101 |
 | The Rune Sockets of Finitude (Part 1) | 19.00% | ~101 |
 | The Rune Sockets of Finitude (Part 2) | 17.00% | ~91 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~85 |

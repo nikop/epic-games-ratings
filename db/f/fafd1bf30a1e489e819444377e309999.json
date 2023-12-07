@@ -4,7 +4,7 @@
   "ProductSlug": "contraption-maker-66e1ec",
   "Ranking_EOS_Progress": 718,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_NewPlayers": 461,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -224,8 +224,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-17T18:06:17.5632843+00:00",
-  "LastChanged_Achievements": "2023-12-07T18:09:17.9350348+00:00",
+  "LastChanged_Achievements": "2023-12-07T19:09:32.435971+00:00",
   "LastUpdate_AppInfo": "2023-12-04T01:45:23.0724085+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:02:28.401404+00:00",
-  "LastUpdate_Achievements": "2023-12-07T18:09:17.9350509+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:02:43.0652827+00:00",
+  "LastUpdate_Achievements": "2023-12-07T19:09:32.4359788+00:00"
 }

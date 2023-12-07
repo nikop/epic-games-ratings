@@ -35,8 +35,8 @@
 | Karakuri Isle | 32.00% | ~116 |
 | Left Arm Leverager | 27.00% | ~98 |
 | Human Believer | 27.00% | ~98 |
+| Unrivaled in Arms | 27.00% | ~98 |
 | Style Seeker | 26.00% | ~95 |
-| Unrivaled in Arms | 26.00% | ~95 |
 | Karakuri Minato | 26.00% | ~95 |
 | Canyon of Karakuri | 25.00% | ~91 |
 | Threaded Harmony | 24.00% | ~87 |

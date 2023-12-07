@@ -2,12 +2,12 @@
   "ID": "a4824407d9ec4f6a8c13919e732f9400",
   "Name": "Eiyuden Chronicle: Rising",
   "ProductSlug": "eiyuden-chronicle-rising",
-  "Ranking_Rating": 597,
+  "Ranking_Rating": 598,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -493,9 +493,9 @@
       "ID": "ACHIEVEMENT007",
       "SetID": "dejhjd5",
       "Name": "The Lava Mantor Wyrm",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT008",
@@ -765,9 +765,9 @@
       "ID": "ACHIEVEMENT041",
       "SetID": "dejhjd5",
       "Name": "The Great Forest...On Foot!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT042",
@@ -853,8 +853,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-07T18:03:07.4642917+00:00",
+  "LastChanged_Achievements": "2023-12-07T19:03:19.8658697+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:13.8048118+00:00",
-  "LastUpdate_Ratings": "2023-12-07T17:58:31.6251925+00:00",
-  "LastUpdate_Achievements": "2023-12-07T18:03:07.4643449+00:00"
+  "LastUpdate_Ratings": "2023-12-07T18:58:24.4200621+00:00",
+  "LastUpdate_Achievements": "2023-12-07T19:03:19.8659048+00:00"
 }

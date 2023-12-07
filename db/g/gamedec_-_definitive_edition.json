@@ -2,12 +2,12 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 850,
+  "Ranking_Rating": 851,
   "Ranking_Popularity": 380,
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 254046,
+  "EOS_Progressed": 254049,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26355,6 +26355,11 @@
       "Time": "2023-12-07T18:05:24.6410705+00:00",
       "NumProgressed": 254046,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-07T19:05:25.2772489+00:00",
+      "NumProgressed": 254049,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -26366,7 +26371,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68592
+      "UsersEstimate": 68593
     },
     {
       "ID": "ACH_AON",
@@ -26510,7 +26515,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73673
+      "UsersEstimate": 73674
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -26781,7 +26786,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 254046,
+      "Progressed": 254049,
       "Completed": 7
     }
   ],
@@ -26789,8 +26794,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-07T18:05:24.6410702+00:00",
+  "LastChanged_Achievements": "2023-12-07T19:05:25.2772484+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.506273+00:00",
-  "LastUpdate_Ratings": "2023-12-07T17:58:59.7102449+00:00",
-  "LastUpdate_Achievements": "2023-12-07T18:05:24.6412312+00:00"
+  "LastUpdate_Ratings": "2023-12-07T18:58:47.5754063+00:00",
+  "LastUpdate_Achievements": "2023-12-07T19:05:25.2773987+00:00"
 }

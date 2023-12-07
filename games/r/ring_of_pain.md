@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 450)  
+Rating: 4.58 (Ranked 451)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,739 (Ranked 64)  
+Progressed: 240,741 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,7 +376,7 @@ Completed: 292 (0.12%) (Ranked 283)
 | 2023-12-04 | 240,628 | 292 |
 | 2023-12-05 | 240,675 | 292 |
 | 2023-12-06 | 240,707 | 292 |
-| 2023-12-07 | 240,739 | 292 |
+| 2023-12-07 | 240,741 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 133)  
 Sum: 11,713 (Ranked 83)  

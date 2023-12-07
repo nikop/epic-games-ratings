@@ -2,12 +2,12 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 511,
+  "Ranking_Rating": 512,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 665539,
+  "EOS_Progressed": 665540,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -22788,6 +22788,11 @@
       "Time": "2023-12-07T17:08:26.0745829+00:00",
       "NumProgressed": 665539,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-12-07T19:08:29.6148658+00:00",
+      "NumProgressed": 665540,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 48,
@@ -22799,7 +22804,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 479188
+      "UsersEstimate": 479189
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -22943,7 +22948,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93175
+      "UsersEstimate": 93176
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -23182,15 +23187,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 665539,
+      "Progressed": 665540,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-07T18:08:09.4197449+00:00",
+  "LastChanged_Achievements": "2023-12-07T19:08:29.6148655+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.5131333+00:00",
-  "LastUpdate_Ratings": "2023-12-07T17:59:53.8768586+00:00",
-  "LastUpdate_Achievements": "2023-12-07T18:08:09.4199335+00:00"
+  "LastUpdate_Ratings": "2023-12-07T18:59:36.1587651+00:00",
+  "LastUpdate_Achievements": "2023-12-07T19:08:29.6149655+00:00"
 }

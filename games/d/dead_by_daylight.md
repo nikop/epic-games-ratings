@@ -1,45 +1,45 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 574)  
+Rating: 4.51 (Ranked 575)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,544 |
-| Skillful | 2.00% | ~21,544 |
-| Handyman | 1.00% | ~10,772 |
-| Zealous | 1.00% | ~10,772 |
-| Not half bad | 1.00% | ~10,772 |
-| Apt Survivor | 1.00% | ~10,772 |
-| Survival Treasures | 1.00% | ~10,772 |
-| I | 1.00% | ~10,772 |
-| Make Some Noise | 1.00% | ~10,772 |
-| No one left behind | 0.90% | ~9,695 |
-| Sorted | 0.90% | ~9,695 |
-| Resurgence | 0.90% | ~9,695 |
-| Preemptive Strike | 0.90% | ~9,695 |
-| The Grand Sacrifice | 0.80% | ~8,618 |
-| Medic | 0.80% | ~8,618 |
-| Bloody Millionaire | 0.80% | ~8,618 |
-| Healthy Obsession | 0.80% | ~8,618 |
-| Humanitarian | 0.80% | ~8,618 |
-| Agonizing Escape | 0.70% | ~7,540 |
-| Backdoor Escape | 0.70% | ~7,540 |
-| Perfect Escape | 0.70% | ~7,540 |
-| Perfect Killing | 0.70% | ~7,540 |
-| II | 0.70% | ~7,540 |
-| Close Shave | 0.70% | ~7,540 |
-| I've got your back | 0.60% | ~6,463 |
-| Apt Killer | 0.60% | ~6,463 |
-| Risk it all | 0.60% | ~6,463 |
-| Engineer | 0.60% | ~6,463 |
-| Wounded Healer | 0.60% | ~6,463 |
-| Vulture | 0.50% | ~5,386 |
-| III | 0.50% | ~5,386 |
-| With Scars to Show | 0.50% | ~5,386 |
-| Lifting The Fog | 0.50% | ~5,386 |
-| Second Act | 0.50% | ~5,386 |
+| It wakes | 2.00% | ~21,547 |
+| Skillful | 2.00% | ~21,547 |
+| Handyman | 1.00% | ~10,773 |
+| Zealous | 1.00% | ~10,773 |
+| Not half bad | 1.00% | ~10,773 |
+| Apt Survivor | 1.00% | ~10,773 |
+| Survival Treasures | 1.00% | ~10,773 |
+| I | 1.00% | ~10,773 |
+| Make Some Noise | 1.00% | ~10,773 |
+| No one left behind | 0.90% | ~9,696 |
+| Sorted | 0.90% | ~9,696 |
+| Resurgence | 0.90% | ~9,696 |
+| Preemptive Strike | 0.90% | ~9,696 |
+| The Grand Sacrifice | 0.80% | ~8,619 |
+| Medic | 0.80% | ~8,619 |
+| Bloody Millionaire | 0.80% | ~8,619 |
+| Healthy Obsession | 0.80% | ~8,619 |
+| Humanitarian | 0.80% | ~8,619 |
+| Agonizing Escape | 0.70% | ~7,541 |
+| Backdoor Escape | 0.70% | ~7,541 |
+| Perfect Escape | 0.70% | ~7,541 |
+| Perfect Killing | 0.70% | ~7,541 |
+| II | 0.70% | ~7,541 |
+| Close Shave | 0.70% | ~7,541 |
+| I've got your back | 0.60% | ~6,464 |
+| Apt Killer | 0.60% | ~6,464 |
+| Risk it all | 0.60% | ~6,464 |
+| III | 0.60% | ~6,464 |
+| Engineer | 0.60% | ~6,464 |
+| Wounded Healer | 0.60% | ~6,464 |
+| Vulture | 0.50% | ~5,387 |
+| With Scars to Show | 0.50% | ~5,387 |
+| Lifting The Fog | 0.50% | ~5,387 |
+| Second Act | 0.50% | ~5,387 |
 | Blood on your hands | 0.40% | ~4,309 |
 | Escape Artist | 0.40% | ~4,309 |
 | Gifts for the Fog | 0.40% | ~4,309 |
@@ -54,6 +54,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.40% | ~4,309 |
 | Flight to Freedom | 0.40% | ~4,309 |
 | Chorus of Chaos | 0.40% | ~4,309 |
+| A bite for the Entity | 0.30% | ~3,232 |
 | Blood on your face | 0.30% | ~3,232 |
 | Made it out alive! | 0.30% | ~3,232 |
 | Nerves of steel | 0.30% | ~3,232 |
@@ -73,35 +74,34 @@ Number of Ratings: 70,340  (23.09.2022)
 | Grim Pilgrimage | 0.30% | ~3,232 |
 | Outrun the Overlap | 0.30% | ~3,232 |
 | A Fast Death | 0.30% | ~3,232 |
+| Extraterrestrial | 0.30% | ~3,232 |
 | One More Step | 0.30% | ~3,232 |
 | MU/TH/UR Dearest | 0.30% | ~3,232 |
-| A bite for the Entity | 0.20% | ~2,154 |
-| Blood in your mouth | 0.20% | ~2,154 |
-| Jump Scares | 0.20% | ~2,154 |
-| Hemophobia | 0.20% | ~2,154 |
-| Deep Cleansing | 0.20% | ~2,154 |
-| Texas BBQ | 0.20% | ~2,154 |
-| Serial Killer | 0.20% | ~2,154 |
-| Game Over | 0.20% | ~2,154 |
-| Party Crasher | 0.20% | ~2,154 |
-| Whiffing to Success | 0.20% | ~2,154 |
-| Outrage | 0.20% | ~2,154 |
-| Heavy Burden | 0.20% | ~2,154 |
-| Devoted Gatekeeping | 0.20% | ~2,154 |
-| Shrine Apparatus | 0.20% | ~2,154 |
-| Broken Bodies | 0.20% | ~2,154 |
-| Selfless Survival | 0.20% | ~2,154 |
-| I See You | 0.20% | ~2,154 |
-| End of Days | 0.20% | ~2,154 |
-| Power Moves | 0.20% | ~2,154 |
-| Insult and Injury | 0.20% | ~2,154 |
-| Triage | 0.20% | ~2,154 |
-| High Speed Pursuit | 0.20% | ~2,154 |
-| Rebuilding The Borgo | 0.20% | ~2,154 |
-| Complete the Evolution | 0.20% | ~2,154 |
-| Extraterrestrial | 0.20% | ~2,154 |
-| Joke’s On You | 0.20% | ~2,154 |
-| Outta Nowhere | 0.20% | ~2,154 |
+| Outta Nowhere | 0.30% | ~3,232 |
+| Blood in your mouth | 0.20% | ~2,155 |
+| Jump Scares | 0.20% | ~2,155 |
+| Hemophobia | 0.20% | ~2,155 |
+| Deep Cleansing | 0.20% | ~2,155 |
+| Texas BBQ | 0.20% | ~2,155 |
+| Serial Killer | 0.20% | ~2,155 |
+| Game Over | 0.20% | ~2,155 |
+| Party Crasher | 0.20% | ~2,155 |
+| Whiffing to Success | 0.20% | ~2,155 |
+| Outrage | 0.20% | ~2,155 |
+| Heavy Burden | 0.20% | ~2,155 |
+| Devoted Gatekeeping | 0.20% | ~2,155 |
+| Shrine Apparatus | 0.20% | ~2,155 |
+| Broken Bodies | 0.20% | ~2,155 |
+| Selfless Survival | 0.20% | ~2,155 |
+| I See You | 0.20% | ~2,155 |
+| End of Days | 0.20% | ~2,155 |
+| Power Moves | 0.20% | ~2,155 |
+| Insult and Injury | 0.20% | ~2,155 |
+| Triage | 0.20% | ~2,155 |
+| High Speed Pursuit | 0.20% | ~2,155 |
+| Rebuilding The Borgo | 0.20% | ~2,155 |
+| Complete the Evolution | 0.20% | ~2,155 |
+| Joke’s On You | 0.20% | ~2,155 |
 | A feast for the Entity | 0.10% | ~1,077 |
 | Cripple them all | 0.10% | ~1,077 |
 | The Grind | 0.10% | ~1,077 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,077 |
 | Adept Good Guy | 0.10% | ~1,077 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,077,201 (Ranked 14)  
+Progressed: 1,077,330 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -470,10 +470,10 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
-| 2023-12-07 | 1,077,201 | 61 |
+| 2023-12-07 | 1,077,330 | 61 |
 ## Awards
 Max (Diverse Characters): 37,449  (Ranked 15)  
-Sum: 284,021 (Ranked 12)  
+Sum: 284,069 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -485,7 +485,7 @@ Diff (max vs sum): 3
 | This game has Challenging Combat | 31,400 |
 | This game has Quickly Understood Controls | 30,658 |
 | This game has Amazing Storytelling | 28,993 |
-| This game has a Competitive Community | 27,700 |
+| This game has a Competitive Community | 27,748 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -808,4 +808,4 @@ Diff (max vs sum): 3
 | 2023-12-04 | 4.51 | - | 37,289 | 282,989 |
 | 2023-12-05 | 4.51 | - | 37,377 | 283,349 |
 | 2023-12-06 | 4.51 | - | 37,449 | 283,748 |
-| 2023-12-07 | 4.51 | - | 37,449 | 284,021 |
+| 2023-12-07 | 4.51 | - | 37,449 | 284,069 |

@@ -1,7 +1,7 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 511)  
+Rating: 4.55 (Ranked 512)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 511)
 | ...Here we go again | 0.50% | ~69 |
 | I Ain't No Buster | 0.40% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,880 (Ranked 157)  
+Progressed: 13,881 (Ranked 157)  
 Completed: 56 (0.40%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 56 (0.40%) (Ranked 223)
 | 2023-12-04 | 13,851 | 56 |
 | 2023-12-05 | 13,862 | 56 |
 | 2023-12-06 | 13,872 | 56 |
-| 2023-12-07 | 13,880 | 56 |
+| 2023-12-07 | 13,881 | 56 |
 ## Awards
 Max (Great Boss Battles): 425  (Ranked 228)  
 Sum: 701 (Ranked 299)  

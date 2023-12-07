@@ -1,42 +1,42 @@
 # STAR WARS Jedi: Survivor™
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
-Rating: 4.50 (Ranked 597)  
+Rating: 4.50 (Ranked 598)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,286 |
-| For Saw Gerrera | 98.00% | ~9,192 |
-| Grab Some Seat | 91.00% | ~8,536 |
+| Rooftop Duel | 99.00% | ~9,287 |
+| For Saw Gerrera | 98.00% | ~9,193 |
+| Grab Some Seat | 91.00% | ~8,537 |
 | Can You Pet the Bogling? | 87.00% | ~8,161 |
-| The Past Made Present | 83.00% | ~7,785 |
-| Survivors, We Adapt | 80.00% | ~7,504 |
-| They Never Saw It Coming | 78.00% | ~7,316 |
-| Among the Masters | 78.00% | ~7,316 |
-| Who Gives a Puck | 74.00% | ~6,941 |
+| The Past Made Present | 83.00% | ~7,786 |
+| Survivors, We Adapt | 80.00% | ~7,505 |
+| They Never Saw It Coming | 78.00% | ~7,317 |
+| Among the Masters | 78.00% | ~7,317 |
+| Who Gives a Puck | 74.00% | ~6,942 |
 | For the Path | 67.00% | ~6,285 |
-| Now, This Isn't Podracing | 65.00% | ~6,097 |
-| Mirror Match | 64.00% | ~6,003 |
-| Skywalker | 63.00% | ~5,909 |
+| Now, This Isn't Podracing | 65.00% | ~6,098 |
+| Mirror Match | 64.00% | ~6,004 |
+| Skywalker | 63.00% | ~5,910 |
 | Out of Bedlam | 62.00% | ~5,816 |
-| Cleaning Up | 55.00% | ~5,159 |
-| Tanalorr Bound | 54.00% | ~5,065 |
-| Kitted Out | 53.00% | ~4,971 |
+| Cleaning Up | 55.00% | ~5,160 |
+| Tanalorr Bound | 54.00% | ~5,066 |
+| Kitted Out | 53.00% | ~4,972 |
 | Tragedy | 52.00% | ~4,878 |
 | At the Precipice | 50.00% | ~4,690 |
 | Hey, Luke At Us | 50.00% | ~4,690 |
-| Into the Abyss | 49.00% | ~4,596 |
+| Into the Abyss | 49.00% | ~4,597 |
 | A Place You Could Call Home | 47.00% | ~4,409 |
 | Riposte | 47.00% | ~4,409 |
 | Greezy Money | 45.00% | ~4,221 |
 | Catch! | 41.00% | ~3,846 |
 | They're Probably Fine | 40.00% | ~3,752 |
-| Han Slowlo | 39.00% | ~3,658 |
-| There Is No Try | 38.00% | ~3,564 |
-| The Jedi Path | 33.00% | ~3,095 |
+| Han Slowlo | 39.00% | ~3,659 |
+| There Is No Try | 38.00% | ~3,565 |
+| The Jedi Path | 33.00% | ~3,096 |
 | This Is Canon | 29.00% | ~2,720 |
 | It's a Trap | 27.00% | ~2,533 |
-| You've Got A Friend | 23.00% | ~2,157 |
+| You've Got A Friend | 23.00% | ~2,158 |
 | King of the World | 17.00% | ~1,595 |
 | Max Capacity | 15.00% | ~1,407 |
 | A Presence I've Not Felt Since... | 15.00% | ~1,407 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 597)
 | Blood, Sweat, and Tears | 3.00% | ~281 |
 | Pinpoint | 2.00% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,380 (Ranked 169)  
+Progressed: 9,381 (Ranked 169)  
 Completed: 56 (0.60%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,10 +141,10 @@ Completed: 56 (0.60%) (Ranked 192)
 | 2023-12-04 | 9,268 | 55 |
 | 2023-12-05 | 9,305 | 56 |
 | 2023-12-06 | 9,349 | 56 |
-| 2023-12-07 | 9,380 | 56 |
+| 2023-12-07 | 9,381 | 56 |
 ## Awards
 Max (Great Boss Battles): 3,413  (Ranked 92)  
-Sum: 5,309 (Ranked 137)  
+Sum: 5,310 (Ranked 137)  
 Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
@@ -156,7 +156,7 @@ Diff (max vs sum): -45
 | This game is Extremely Fun | 214 |
 | This game is Relaxing | 213 |
 | This game has Challenging Combat | 209 |
-| This game is Highly Recommended | 207 |
+| This game is Highly Recommended | 208 |
 | This game has a Creative Community | 141 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -382,4 +382,4 @@ Diff (max vs sum): -45
 | 2023-12-04 | 4.50 | 3,404 | 5,286 |
 | 2023-12-05 | 4.50 | 3,408 | 5,293 |
 | 2023-12-06 | 4.50 | 3,413 | 5,305 |
-| 2023-12-07 | 4.50 | 3,413 | 5,309 |
+| 2023-12-07 | 4.50 | 3,413 | 5,310 |

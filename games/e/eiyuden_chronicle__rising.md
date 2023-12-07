@@ -1,7 +1,7 @@
 # Eiyuden Chronicle: Rising
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-rising)  
 [View Rawdata](../../db/e/eiyuden_chronicle__rising.json)  
-Rating: 4.50 (Ranked 597)  
+Rating: 4.50 (Ranked 598)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,12 +21,12 @@ Number of Ratings: 48  (23.09.2022)
 | ...And Your Tax Money | 47.00% | ~332 |
 | The Lords of the Snowpeak | 41.00% | ~290 |
 | The Go-To Girl | 38.00% | ~269 |
+| The Lava Mantor Wyrm | 37.00% | ~262 |
 | Scavenger's Honor | 37.00% | ~262 |
 | Natural Born Monster-Killer | 37.00% | ~262 |
-| The Lava Mantor Wyrm | 36.00% | ~255 |
+| The Great Forest...On Foot! | 37.00% | ~262 |
 | One Mean Merc | 36.00% | ~255 |
 | Money, Money, Money | 36.00% | ~255 |
-| The Great Forest...On Foot! | 36.00% | ~255 |
 | Adept, for an Acting Mayor | 35.00% | ~247 |
 | Rune Wall Master | 34.00% | ~240 |
 | The Quarry...On Foot! | 31.00% | ~219 |

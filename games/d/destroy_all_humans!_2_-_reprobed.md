@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 546)  
+Rating: 4.53 (Ranked 547)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,6 +16,7 @@ Number of Ratings: 90  (23.09.2022)
 | I Look Up As I Walk to Takoshima | 5.00% | ~1 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 5.00% | ~1 |
 | Bodied Sattva | 5.00% | ~1 |
+| Die Nasty | 5.00% | ~1 |
 | Upgreatest | 5.00% | ~1 |
 | Pimp My Raid | 5.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
@@ -34,7 +35,6 @@ Number of Ratings: 90  (23.09.2022)
 | Kaijuiced | 0.00% | ~0 |
 | Lobster Blisque | 0.00% | ~0 |
 | Freshly Squeezed | 0.00% | ~0 |
-| Die Nasty | 0.00% | ~0 |
 | Ouch of Body Experience | 0.00% | ~0 |
 | Deincarnated | 0.00% | ~0 |
 | Scuttled | 0.00% | ~0 |

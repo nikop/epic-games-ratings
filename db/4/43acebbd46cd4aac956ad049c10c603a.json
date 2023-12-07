@@ -5,9 +5,9 @@
   "Ranking_Rating": 33,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 488,
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -211,9 +211,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 891,
+  "EOS_Progressed": 892,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2171,6 +2171,11 @@
       "Time": "2023-12-07T18:06:37.5521023+00:00",
       "NumProgressed": 891,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-07T19:06:31.9230253+00:00",
+      "NumProgressed": 892,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2223,7 +2228,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "BreakTheLoop",
@@ -2271,7 +2276,7 @@
       "Name": "Desolate Island",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Discovery",
@@ -2335,7 +2340,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "HighPlain",
@@ -2359,15 +2364,15 @@
       "Name": "Just One Lap",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 143
     },
     {
       "ID": "LostMarshes",
@@ -2375,7 +2380,7 @@
       "Name": "Lost Marshes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "MistressOfRiddles",
@@ -2429,9 +2434,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 54
     },
     {
       "ID": "Overload",
@@ -2591,7 +2596,7 @@
       "Name": "The Word Endures",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "TouchGrass",
@@ -2647,14 +2652,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 891,
+      "Progressed": 892,
       "Completed": 1
     }
   ],
@@ -2662,8 +2667,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
-  "LastChanged_Achievements": "2023-12-07T18:06:37.5521018+00:00",
+  "LastChanged_Achievements": "2023-12-07T19:06:31.9230245+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-07T17:59:58.056968+00:00",
-  "LastUpdate_Achievements": "2023-12-07T18:06:37.55217+00:00"
+  "LastUpdate_Ratings": "2023-12-07T18:59:40.0892882+00:00",
+  "LastUpdate_Achievements": "2023-12-07T19:06:31.9230771+00:00"
 }

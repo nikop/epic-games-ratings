@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 635,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 190,
@@ -818,9 +818,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5383,
+  "EOS_Progressed": 5384,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -10678,6 +10678,11 @@
       "Time": "2023-12-07T16:05:31.581041+00:00",
       "NumProgressed": 5383,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-07T19:05:24.5317561+00:00",
+      "NumProgressed": 5384,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10794,7 +10799,7 @@
       "Name": "We\u0027ve Got a Kaiju on the Field",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "MF_Ach_MushroomMadness",
@@ -10850,7 +10855,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -10873,15 +10878,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5383,
+      "Progressed": 5384,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-06T15:59:42.180054+00:00",
-  "LastChanged_Achievements": "2023-12-07T18:05:23.7607976+00:00",
+  "LastChanged_Achievements": "2023-12-07T19:05:24.5317559+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-07T17:59:49.4702317+00:00",
-  "LastUpdate_Achievements": "2023-12-07T18:05:23.7609031+00:00"
+  "LastUpdate_Ratings": "2023-12-07T18:59:32.2339422+00:00",
+  "LastUpdate_Achievements": "2023-12-07T19:05:24.5318151+00:00"
 }

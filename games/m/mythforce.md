@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.48 (Ranked 634)  
+Rating: 4.48 (Ranked 635)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,7 +15,7 @@ Number of Ratings: 285  (23.09.2022)
 | First Strike | 19.00% | ~1,023 |
 | Spending Spree | 18.00% | ~969 |
 | Horder Better Faster Stronger | 17.00% | ~915 |
-| Ten Steps from the Grave | 15.00% | ~807 |
+| Ten Steps from the Grave | 15.00% | ~808 |
 | Everything Must Go! | 14.00% | ~754 |
 | Next Time on MythForce... | 14.00% | ~754 |
 | Cold-Blooded Critters | 10.00% | ~538 |
@@ -25,12 +25,12 @@ Number of Ratings: 285  (23.09.2022)
 | On this Episode! | 6.00% | ~323 |
 | Deadication | 4.00% | ~215 |
 | Season Finale | 4.00% | ~215 |
-| We've Got a Kaiju on the Field | 3.00% | ~161 |
+| We've Got a Kaiju on the Field | 3.00% | ~162 |
 | The Fourth Gate | 2.00% | ~108 |
 | Vexed Her | 0.50% | ~27 |
 | Deadalus and Loving It | 0.20% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,383 (Ranked 190)  
+Progressed: 5,384 (Ranked 190)  
 Completed: 4 (0.07%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 4 (0.07%) (Ranked 308)
 | 2023-12-04 | 5,340 | 4 |
 | 2023-12-05 | 5,355 | 4 |
 | 2023-12-06 | 5,371 | 4 |
-| 2023-12-07 | 5,383 | 4 |
+| 2023-12-07 | 5,384 | 4 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 477)  
 Sum: 291 (Ranked 370)  

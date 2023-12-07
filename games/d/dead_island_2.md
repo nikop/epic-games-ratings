@@ -1,12 +1,12 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 532)  
+Rating: 4.54 (Ranked 533)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,708 |
-| Pork Chopped | 3.00% | ~1,708 |
+| Whatever It Takes | 3.00% | ~1,709 |
+| Pork Chopped | 3.00% | ~1,709 |
 | Dr. Reed, I Presume? | 2.00% | ~14,628 |
 | Git Gutte! | 2.00% | ~14,628 |
 | Bookworm | 2.00% | ~14,628 |
@@ -41,10 +41,10 @@ Rating: 4.54 (Ranked 532)
 | Jumbo Keyring | 0.80% | ~5,851 |
 | Go, Bobcats! | 0.80% | ~5,851 |
 | Rising Star | 0.80% | ~5,851 |
-| On Safari | 0.60% | ~4,388 |
-| Smorgasbord | 0.60% | ~4,388 |
-| Internet Famous | 0.60% | ~4,388 |
-| Variety is the Spice of Death | 0.60% | ~4,388 |
+| On Safari | 0.60% | ~4,389 |
+| Smorgasbord | 0.60% | ~4,389 |
+| Internet Famous | 0.60% | ~4,389 |
+| Variety is the Spice of Death | 0.60% | ~4,389 |
 | Make it So | 0.50% | ~3,657 |
 | LA Influential | 0.40% | ~2,926 |
 | Sole Survivor | 0.40% | ~2,926 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 532)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,399 (Ranked 21)  
+Progressed: 731,422 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
-| 2023-12-07 | 731,399 | 2,465 |
+| 2023-12-07 | 731,422 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,994  (Ranked 49)  
 Sum: 12,278 (Ranked 82)  

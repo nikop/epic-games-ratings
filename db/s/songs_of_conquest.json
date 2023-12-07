@@ -5,7 +5,7 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 406,
-  "Ranking_EOS_Progress": 335,
+  "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 117,
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 369,
+  "EOS_Progressed": 370,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -1598,6 +1598,11 @@
       "Time": "2023-12-07T14:04:27.7466735+00:00",
       "NumProgressed": 369,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T19:04:24.6401631+00:00",
+      "NumProgressed": 370,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1632,9 +1637,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 41
     },
     {
       "ID": "AttackCount",
@@ -1872,9 +1877,9 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -1888,9 +1893,9 @@
       "ID": "SorcerousSpree",
       "SetID": "71c0n9i",
       "Name": "Sorcerous Spree",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -2041,15 +2046,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 369,
+      "Progressed": 370,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-07T18:04:19.0545923+00:00",
+  "LastChanged_Achievements": "2023-12-07T19:04:24.6401626+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:00:09.5424811+00:00",
-  "LastUpdate_Achievements": "2023-12-07T18:04:19.0546518+00:00"
+  "LastUpdate_Ratings": "2023-12-07T18:59:50.151142+00:00",
+  "LastUpdate_Achievements": "2023-12-07T19:04:24.6402064+00:00"
 }

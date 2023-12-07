@@ -3365,9 +3365,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17652,
+  "EOS_Progressed": 17653,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -14940,6 +14940,11 @@
       "Time": "2023-12-07T18:03:54.7301589+00:00",
       "NumProgressed": 17652,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-07T19:04:02.5448565+00:00",
+      "NumProgressed": 17653,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15206,9 +15211,9 @@
       "ID": "WinNearWatchtower",
       "SetID": "cfbk359",
       "Name": "Watchtower",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     },
     {
       "ID": "WinOnCoral",
@@ -15423,15 +15428,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17652,
+      "Progressed": 17653,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-06T14:58:47.8686874+00:00",
-  "LastChanged_Achievements": "2023-12-07T18:03:54.7301585+00:00",
+  "LastChanged_Achievements": "2023-12-07T19:04:02.5448561+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-07T17:59:45.7046226+00:00",
-  "LastUpdate_Achievements": "2023-12-07T18:03:54.7303237+00:00"
+  "LastUpdate_Ratings": "2023-12-07T18:59:28.8967549+00:00",
+  "LastUpdate_Achievements": "2023-12-07T19:04:02.5449498+00:00"
 }

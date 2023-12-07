@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,625 |
-| Gun Fu | 7.00% | ~68,031 |
-| The Fool | 6.00% | ~58,312 |
-| Right Back At Ya | 5.00% | ~48,594 |
-| The Lovers | 4.00% | ~38,875 |
-| Full Body Conversion | 3.00% | ~29,156 |
-| Stanislavski's Method | 3.00% | ~29,156 |
-| The Hermit | 3.00% | ~29,156 |
-| The Wheel of Fortune | 3.00% | ~29,156 |
-| True Soldier | 3.00% | ~29,156 |
-| Relic Ruler | 3.00% | ~3,015 |
-| All the President's Men | 3.00% | ~3,015 |
-| Arachnophobia | 3.00% | ~3,015 |
+| V for Vendetta | 12.00% | ~116,629 |
+| Gun Fu | 7.00% | ~68,034 |
+| The Fool | 6.00% | ~58,314 |
+| Right Back At Ya | 5.00% | ~48,595 |
+| The Lovers | 4.00% | ~38,876 |
+| Full Body Conversion | 3.00% | ~29,157 |
+| Stanislavski's Method | 3.00% | ~29,157 |
+| The Hermit | 3.00% | ~29,157 |
+| The Wheel of Fortune | 3.00% | ~29,157 |
+| True Soldier | 3.00% | ~29,157 |
+| Relic Ruler | 3.00% | ~3,016 |
+| All the President's Men | 3.00% | ~3,016 |
+| Arachnophobia | 3.00% | ~3,016 |
 | Christmas Tree Attack | 2.00% | ~19,438 |
 | The Quick and the Dead | 2.00% | ~19,438 |
 | Life of the Road | 2.00% | ~19,438 |
@@ -35,21 +35,21 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 1.00% | ~1,005 |
 | The Wandering Fool | 0.80% | ~7,775 |
 | Easy Come, Easy Go | 0.80% | ~804 |
-| King of Wands | 0.70% | ~703 |
-| Dirty Deeds | 0.70% | ~703 |
+| King of Wands | 0.70% | ~704 |
+| Dirty Deeds | 0.70% | ~704 |
 | Ten out of Ten | 0.60% | ~5,831 |
 | The Sun | 0.60% | ~5,831 |
-| To Bad Decisions! | 0.50% | ~4,859 |
-| The Star | 0.50% | ~4,859 |
+| To Bad Decisions! | 0.50% | ~4,860 |
+| The Star | 0.50% | ~4,860 |
 | Autojock | 0.40% | ~3,888 |
 | Must Be Rats | 0.40% | ~3,888 |
 | Breathtaking | 0.40% | ~3,888 |
 | The APB is Not Enough | 0.40% | ~402 |
 | Judgement Day | 0.40% | ~402 |
+| King of Pentacles | 0.40% | ~402 |
 | King of Swords | 0.40% | ~402 |
 | The Tower | 0.40% | ~402 |
 | Temperance | 0.30% | ~2,916 |
-| King of Pentacles | 0.30% | ~301 |
 | City Lights | 0.20% | ~1,944 |
 | Little Tokyo | 0.20% | ~1,944 |
 | The Jungle | 0.20% | ~1,944 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 971,875 (Ranked 15)  
+Progressed: 971,908 (Ranked 15)  
 Completed: 2,852 (0.29%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 2,852 (0.29%) (Ranked 241)
 | 2023-12-04 | 970,004 | 2,843 |
 | 2023-12-05 | 970,654 | 2,844 |
 | 2023-12-06 | 971,359 | 2,847 |
-| 2023-12-07 | 971,875 | 2,852 |
+| 2023-12-07 | 971,908 | 2,852 |
 ## Awards
 Max (Character Customization): 118,778  (Ranked 9)  
 Sum: 398,194 (Ranked 9)  

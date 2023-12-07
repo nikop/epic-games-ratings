@@ -12,10 +12,10 @@
 | Alarm | 67.00% | ~100 |
 | Air Filtration | 63.00% | ~94 |
 | Broken | 61.00% | ~92 |
-| Radiation | 59.00% | ~88 |
+| Radiation | 60.00% | ~90 |
 | Descent | 57.00% | ~85 |
-| Awakenings | 56.00% | ~84 |
-| Cold Storage | 56.00% | ~84 |
+| Awakenings | 57.00% | ~85 |
+| Cold Storage | 57.00% | ~85 |
 | Sam | 56.00% | ~84 |
 | Commissioner | 51.00% | ~76 |
 | Soldier | 51.00% | ~76 |

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Leap Before You Look | 69.00% | ~893 |
-| Getting the Hang of It | 42.00% | ~543 |
+| Getting the Hang of It | 43.00% | ~556 |
 | Hoarder | 33.00% | ~427 |
 | Blobmeister | 27.00% | ~349 |
 | Pest Control | 27.00% | ~349 |

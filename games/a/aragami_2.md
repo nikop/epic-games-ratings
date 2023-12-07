@@ -1,38 +1,38 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.56 (Ranked 496)  
+Rating: 4.56 (Ranked 497)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,138 |
-| First Steps | 80.00% | ~35,387 |
+| Awakening | 93.00% | ~41,139 |
+| First Steps | 80.00% | ~35,388 |
 | Control the Shadows | 67.00% | ~29,637 |
-| Tools of the Trade | 63.00% | ~27,867 |
-| Apprentice | 60.00% | ~26,540 |
-| Secret Seeker | 57.00% | ~25,213 |
+| Tools of the Trade | 63.00% | ~27,868 |
+| Apprentice | 60.00% | ~26,541 |
+| Secret Seeker | 57.00% | ~25,214 |
 | Forge of Assassins | 55.00% | ~24,329 |
 | Revenant | 52.00% | ~23,002 |
-| I don’t Care! | 45.00% | ~19,905 |
+| I don’t Care! | 45.00% | ~19,906 |
 | Bird of Prey | 37.00% | ~16,367 |
 | Engraved with Power | 32.00% | ~14,155 |
 | Lady | 31.00% | ~13,713 |
 | Fashionable Assassin | 27.00% | ~11,943 |
 | Apex Predator | 24.00% | ~10,616 |
 | Soul Reaver | 23.00% | ~10,174 |
-| Embers | 22.00% | ~9,731 |
+| Embers | 22.00% | ~9,732 |
 | Wall Lizard | 20.00% | ~8,847 |
 | Clinging to Life | 18.00% | ~7,962 |
 | Burning | 17.00% | ~7,520 |
-| Look Behind You | 16.00% | ~7,077 |
-| Sleeping on the Job | 16.00% | ~7,077 |
+| Look Behind You | 16.00% | ~7,078 |
+| Sleeping on the Job | 16.00% | ~7,078 |
 | Family | 14.00% | ~6,193 |
 | War Engines | 14.00% | ~6,193 |
 | Signature Move | 14.00% | ~6,193 |
 | Ruse | 12.00% | ~5,308 |
 | Master Ninja | 11.00% | ~4,866 |
-| Hatching | 10.00% | ~4,423 |
+| Hatching | 10.00% | ~4,424 |
 | Bonds | 9.00% | ~3,981 |
 | Get Over Here | 9.00% | ~3,981 |
 | The Hidden Village | 9.00% | ~3,981 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~885 |
 | Legacy | 2.00% | ~885 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,234 (Ranked 116)  
+Progressed: 44,235 (Ranked 116)  
 Completed: 245 (0.55%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 245 (0.55%) (Ranked 203)
 | 2023-12-04 | 44,200 | 245 |
 | 2023-12-05 | 44,212 | 245 |
 | 2023-12-06 | 44,227 | 245 |
-| 2023-12-07 | 44,234 | 245 |
+| 2023-12-07 | 44,235 | 245 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "0ecc6e3c452d42af84e78012db31bad9",
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
-  "Ranking_Rating": 1030,
+  "Ranking_Rating": 1031,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 195,
@@ -35,7 +35,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4365,
+  "EOS_Progressed": 4366,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -11065,6 +11065,11 @@
       "Time": "2023-12-07T15:03:23.548211+00:00",
       "NumProgressed": 4365,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-07T19:03:30.2870645+00:00",
+      "NumProgressed": 4366,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -11108,7 +11113,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3361
+      "UsersEstimate": 3362
     },
     {
       "ID": "ach_architecture_completed",
@@ -11124,7 +11129,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ach_bomb",
@@ -11164,7 +11169,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "ach_game_opened",
@@ -11172,7 +11177,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "ach_magic_wand",
@@ -11188,7 +11193,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "ach_tornado",
@@ -11203,7 +11208,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4365,
+      "Progressed": 4366,
       "Completed": 36
     }
   ],
@@ -11211,8 +11216,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2023-12-07T18:03:19.6883158+00:00",
+  "LastChanged_Achievements": "2023-12-07T19:03:30.287064+00:00",
   "LastUpdate_AppInfo": "2023-12-01T21:56:53.9270768+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:00:38.1986246+00:00",
-  "LastUpdate_Achievements": "2023-12-07T18:03:19.6884229+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:00:16.0859693+00:00",
+  "LastUpdate_Achievements": "2023-12-07T19:03:30.2871119+00:00"
 }

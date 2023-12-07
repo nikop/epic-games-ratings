@@ -2,12 +2,12 @@
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
   "ProductSlug": "far-cry-5",
-  "Ranking_Rating": 368,
+  "Ranking_Rating": 369,
   "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_NewPlayers": 461,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2018-03-27T10:00:00+00:00",
@@ -4153,10 +4153,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2636,
       "NumberOfAwardsMax": 1677
+    },
+    {
+      "Time": "2023-12-07T19:00:08.1811252+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2638,
+      "NumberOfAwardsMax": 1677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2636,
+  "NumberOfAwards": 2638,
   "NumberOfAwardsMax": 1677,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4182,7 +4188,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 120
+      "Count": 122
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4244,8 +4250,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2023-12-07T08:01:13.7257267+00:00",
+  "LastChanged": "2023-12-07T19:00:08.181125+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:20.1461602+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:00:29.7156343+00:00",
-  "LastUpdate_Achievements": "2023-12-07T18:07:48.8104603+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:00:08.1811254+00:00",
+  "LastUpdate_Achievements": "2023-12-07T19:08:10.3486224+00:00"
 }

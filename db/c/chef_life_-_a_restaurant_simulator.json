@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 725,
+  "EOS_Progressed": 726,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -3212,6 +3212,11 @@
       "Time": "2023-12-06T22:08:44.9500095+00:00",
       "NumProgressed": 725,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T19:08:52.0212067+00:00",
+      "NumProgressed": 726,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3399,7 +3404,7 @@
       "Name": "The Big Day",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Packing20",
@@ -3519,7 +3524,7 @@
       "Name": "Leaning Tower of Pizza",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "WholeBeefDishesMenu",
@@ -3542,7 +3547,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 725,
+      "Progressed": 726,
       "Completed": 0
     }
   ],
@@ -3550,8 +3555,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-07T18:08:33.7652832+00:00",
+  "LastChanged_Achievements": "2023-12-07T19:08:52.0212061+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:25.3958445+00:00",
-  "LastUpdate_Ratings": "2023-12-07T17:59:03.2905678+00:00",
-  "LastUpdate_Achievements": "2023-12-07T18:08:33.7653354+00:00"
+  "LastUpdate_Ratings": "2023-12-07T18:58:50.9538273+00:00",
+  "LastUpdate_Achievements": "2023-12-07T19:08:52.0212458+00:00"
 }

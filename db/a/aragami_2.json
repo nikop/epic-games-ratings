@@ -2,12 +2,12 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
-  "Ranking_Rating": 496,
+  "Ranking_Rating": 497,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -245,7 +245,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44234,
+  "EOS_Progressed": 44235,
   "EOS_Completed": 245,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 3,
@@ -18700,6 +18700,11 @@
       "Time": "2023-12-07T18:06:35.2656551+00:00",
       "NumProgressed": 44234,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-12-07T19:06:29.7575878+00:00",
+      "NumProgressed": 44235,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 44,
@@ -18711,7 +18716,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25213
+      "UsersEstimate": 25214
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -18727,7 +18732,7 @@
       "Name": "Embers",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9731
+      "UsersEstimate": 9732
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -18759,7 +18764,7 @@
       "Name": "Hatching",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -18831,7 +18836,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35387
+      "UsersEstimate": 35388
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -18871,7 +18876,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7077
+      "UsersEstimate": 7078
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -18895,7 +18900,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 7077
+      "UsersEstimate": 7078
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -18951,7 +18956,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27867
+      "UsersEstimate": 27868
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -18975,7 +18980,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26540
+      "UsersEstimate": 26541
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -19015,7 +19020,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19905
+      "UsersEstimate": 19906
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -19047,7 +19052,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41138
+      "UsersEstimate": 41139
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19062,7 +19067,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44234,
+      "Progressed": 44235,
       "Completed": 245
     }
   ],
@@ -19070,8 +19075,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-03T18:02:47.0707275+00:00",
-  "LastChanged_Achievements": "2023-12-07T18:06:35.2656547+00:00",
+  "LastChanged_Achievements": "2023-12-07T19:06:29.7575875+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:13.8521051+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:02:46.1459687+00:00",
-  "LastUpdate_Achievements": "2023-12-07T18:06:35.2658175+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:02:58.6809675+00:00",
+  "LastUpdate_Achievements": "2023-12-07T19:06:29.7576754+00:00"
 }
