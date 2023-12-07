@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 913,
+  "Ranking_Rating": 914,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 125,
@@ -1332,9 +1332,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29862,
+  "EOS_Progressed": 29869,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -26087,6 +26087,11 @@
       "Time": "2023-12-07T19:09:18.1364477+00:00",
       "NumProgressed": 29862,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-07T20:09:05.681642+00:00",
+      "NumProgressed": 29869,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -26130,7 +26135,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "1020",
@@ -26170,7 +26175,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "1025",
@@ -26186,7 +26191,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "1027",
@@ -26202,7 +26207,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5375
+      "UsersEstimate": 5376
     },
     {
       "ID": "1029",
@@ -26210,7 +26215,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "1030",
@@ -26218,7 +26223,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5972
+      "UsersEstimate": 5974
     },
     {
       "ID": "1031",
@@ -26226,7 +26231,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4181
+      "UsersEstimate": 4182
     },
     {
       "ID": "1032",
@@ -26234,7 +26239,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11945
+      "UsersEstimate": 11948
     },
     {
       "ID": "1033",
@@ -26250,7 +26255,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "1035",
@@ -26258,7 +26263,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3882
+      "UsersEstimate": 3883
     },
     {
       "ID": "1036",
@@ -26266,22 +26271,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29862,
+      "Progressed": 29869,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:09:18.1364475+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:09:05.6816415+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.8181889+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:58:57.8520313+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:09:18.1365747+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:59:06.3618244+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:09:05.6817716+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "1001-jigsaw-world-tour-london-06dba1",
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-12-06T21:00:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -32,7 +34,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-12-07T19:57:15.5586898+00:00",
   "LastUpdate_AppInfo": "2023-12-07T05:57:13.0610074+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:57:09.0552329+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:05:42.2227602+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:57:15.5586934+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:05:42.5902176+00:00"
 }

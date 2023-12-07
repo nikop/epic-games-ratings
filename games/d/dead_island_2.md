@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,709 |
-| Pork Chopped | 3.00% | ~1,709 |
-| Dr. Reed, I Presume? | 2.00% | ~14,628 |
-| Git Gutte! | 2.00% | ~14,628 |
-| Bookworm | 2.00% | ~14,628 |
-| Break A Leg | 2.00% | ~14,628 |
-| But Doctor, I am Butcho | 2.00% | ~14,628 |
-| Coup de Grâce | 2.00% | ~14,628 |
-| Hazardous Materials | 2.00% | ~14,628 |
-| Friends Like These | 2.00% | ~14,628 |
-| Hotel California | 2.00% | ~14,628 |
-| Apex Predator | 2.00% | ~14,628 |
-| Stacking the Deck | 2.00% | ~14,628 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,628 |
-| This is My Weapon | 2.00% | ~14,628 |
-| Welcome To Hell-A | 2.00% | ~14,628 |
-| One of Us | 2.00% | ~1,139 |
+| Whatever It Takes | 3.00% | ~1,710 |
+| Pork Chopped | 3.00% | ~1,710 |
+| Dr. Reed, I Presume? | 2.00% | ~14,629 |
+| Git Gutte! | 2.00% | ~14,629 |
+| Bookworm | 2.00% | ~14,629 |
+| Break A Leg | 2.00% | ~14,629 |
+| But Doctor, I am Butcho | 2.00% | ~14,629 |
+| Coup de Grâce | 2.00% | ~14,629 |
+| Hazardous Materials | 2.00% | ~14,629 |
+| Friends Like These | 2.00% | ~14,629 |
+| Hotel California | 2.00% | ~14,629 |
+| Apex Predator | 2.00% | ~14,629 |
+| Stacking the Deck | 2.00% | ~14,629 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,629 |
+| This is My Weapon | 2.00% | ~14,629 |
+| Welcome To Hell-A | 2.00% | ~14,629 |
+| One of Us | 2.00% | ~1,140 |
 | Making Your Mark | 1.00% | ~7,314 |
 | Anger Management | 1.00% | ~7,314 |
 | Perks of the Job | 1.00% | ~7,314 |
@@ -37,10 +37,10 @@ Rating: 4.54 (Ranked 533)
 | Max Headroom | 1.00% | ~7,314 |
 | Our True Nature | 1.00% | ~7,314 |
 | Down with the Sickness | 0.90% | ~6,583 |
-| Not Even My Final Form | 0.80% | ~5,851 |
-| Jumbo Keyring | 0.80% | ~5,851 |
-| Go, Bobcats! | 0.80% | ~5,851 |
-| Rising Star | 0.80% | ~5,851 |
+| Not Even My Final Form | 0.80% | ~5,852 |
+| Jumbo Keyring | 0.80% | ~5,852 |
+| Go, Bobcats! | 0.80% | ~5,852 |
+| Rising Star | 0.80% | ~5,852 |
 | On Safari | 0.60% | ~4,389 |
 | Smorgasbord | 0.60% | ~4,389 |
 | Internet Famous | 0.60% | ~4,389 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 533)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,422 (Ranked 21)  
+Progressed: 731,443 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
-| 2023-12-07 | 731,422 | 2,465 |
+| 2023-12-07 | 731,443 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,994  (Ranked 49)  
 Sum: 12,278 (Ranked 82)  

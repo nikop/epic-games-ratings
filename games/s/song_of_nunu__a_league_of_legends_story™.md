@@ -1,56 +1,56 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.65 (Ranked 315)  
+Rating: 4.65 (Ranked 316)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 76.00% | ~828 |
-| I Broke It | 73.00% | ~796 |
-| Better On Ice | 68.00% | ~741 |
-| Cutie Poro | 67.00% | ~730 |
-| Notai Notes | 67.00% | ~730 |
-| Blue Dreams | 66.00% | ~719 |
-| He's Famous! | 66.00% | ~719 |
-| Krugmazing | 64.00% | ~698 |
-| Moneyball | 61.00% | ~665 |
-| The Fire Below the Mountain | 61.00% | ~665 |
-| No Bites | 55.00% | ~600 |
-| Iceborn | 55.00% | ~600 |
-| Tear of Freedom | 53.00% | ~578 |
-| Boom Things | 53.00% | ~578 |
-| My Darkest Day | 50.00% | ~545 |
-| Rhythm Of Willump | 47.00% | ~512 |
-| The Relentless Storm | 47.00% | ~512 |
-| A Tragic Reminder | 45.00% | ~490 |
-| 3000 Year Blackout | 45.00% | ~490 |
-| The Finisher | 43.00% | ~469 |
-| So Close | 42.00% | ~458 |
-| You Get Used To It | 42.00% | ~458 |
-| Family | 40.00% | ~436 |
-| True Legends | 40.00% | ~436 |
-| Boosted! | 40.00% | ~436 |
-| Biggest Snowball Ever | 39.00% | ~425 |
-| Freeze The Ice Witch | 39.00% | ~425 |
-| Deadliest and Biggest Snowball Ever! | 39.00% | ~425 |
-| Bullseye | 37.00% | ~403 |
-| It Is Not Over | 36.00% | ~392 |
-| On The Rocks | 34.00% | ~371 |
-| Snowy Poro | 32.00% | ~349 |
-| Never Gets Old | 32.00% | ~349 |
-| Vertical Power | 27.00% | ~294 |
+| Feels Familiar | 76.00% | ~831 |
+| I Broke It | 73.00% | ~799 |
+| Better On Ice | 68.00% | ~744 |
+| Cutie Poro | 67.00% | ~733 |
+| Notai Notes | 67.00% | ~733 |
+| Blue Dreams | 66.00% | ~722 |
+| He's Famous! | 66.00% | ~722 |
+| Krugmazing | 64.00% | ~700 |
+| Moneyball | 61.00% | ~667 |
+| The Fire Below the Mountain | 61.00% | ~667 |
+| No Bites | 55.00% | ~602 |
+| Iceborn | 55.00% | ~602 |
+| Tear of Freedom | 53.00% | ~580 |
+| Boom Things | 53.00% | ~580 |
+| My Darkest Day | 49.00% | ~536 |
+| Rhythm Of Willump | 47.00% | ~514 |
+| The Relentless Storm | 47.00% | ~514 |
+| A Tragic Reminder | 45.00% | ~492 |
+| 3000 Year Blackout | 45.00% | ~492 |
+| The Finisher | 43.00% | ~470 |
+| So Close | 42.00% | ~459 |
+| You Get Used To It | 42.00% | ~459 |
+| Family | 40.00% | ~438 |
+| True Legends | 40.00% | ~438 |
+| Biggest Snowball Ever | 39.00% | ~427 |
+| Freeze The Ice Witch | 39.00% | ~427 |
+| Boosted! | 39.00% | ~427 |
+| Deadliest and Biggest Snowball Ever! | 39.00% | ~427 |
+| Bullseye | 37.00% | ~405 |
+| It Is Not Over | 36.00% | ~394 |
+| On The Rocks | 34.00% | ~372 |
+| Snowy Poro | 32.00% | ~350 |
+| Never Gets Old | 32.00% | ~350 |
+| Vertical Power | 27.00% | ~295 |
 | One From The Heart | 15.00% | ~164 |
 | Yummy | 10.00% | ~109 |
 | Snowball Fightn't | 10.00% | ~109 |
-| It Was Him | 8.00% | ~87 |
-| Handy Yeti | 6.00% | ~65 |
-| The Pied Piper Of Freljord | 5.00% | ~54 |
+| It Was Him | 8.00% | ~88 |
+| Handy Yeti | 6.00% | ~66 |
+| The Pied Piper Of Freljord | 5.00% | ~55 |
 | Braum's Poro Ranch | 3.00% | ~33 |
 | Rock Star | 2.00% | ~22 |
 | We Are Speed | 2.00% | ~22 |
 | Sneaky Notai | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,090 (Ranked 260)  
+Progressed: 1,094 (Ranked 260)  
 Completed: 8 (0.73%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 8 (0.73%) (Ranked 187)
 | 2023-12-04 | 1,080 | 8 |
 | 2023-12-05 | 1,081 | 8 |
 | 2023-12-06 | 1,085 | 8 |
-| 2023-12-07 | 1,090 | 8 |
+| 2023-12-07 | 1,094 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

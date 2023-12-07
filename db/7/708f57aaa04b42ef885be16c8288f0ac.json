@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -201,7 +201,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7527,
+  "EOS_Progressed": 7528,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 5,
@@ -5796,6 +5796,11 @@
       "Time": "2023-12-07T19:09:30.2360685+00:00",
       "NumProgressed": 7527,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-07T20:09:17.8877563+00:00",
+      "NumProgressed": 7528,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5888,7 +5893,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "GarbageMan",
@@ -6048,7 +6053,7 @@
       "Name": "Digestive Issues",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -6079,7 +6084,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7527,
+      "Progressed": 7528,
       "Completed": 14
     }
   ],
@@ -6087,8 +6092,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:09:30.2360681+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:09:17.8877559+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:59:56.1107826+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:09:30.2361125+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:00:06.2943962+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:09:17.8878085+00:00"
 }

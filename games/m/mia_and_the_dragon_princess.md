@@ -7,9 +7,9 @@
 | Glass Act | 39.00% | ~35 |
 | Relight my Cannon | 39.00% | ~35 |
 | Tour Guide Extraordinaire | 37.00% | ~33 |
-| Explosive End | 25.00% | ~22 |
-| Snitch | 25.00% | ~22 |
-| Puzzle Prodigy | 24.00% | ~21 |
+| Explosive End | 24.00% | ~22 |
+| Snitch | 24.00% | ~22 |
+| Puzzle Prodigy | 23.00% | ~21 |
 | A Box of Tricks | 22.00% | ~20 |
 | Codebreaker | 19.00% | ~17 |
 | Finger-Lickin' Bad | 19.00% | ~17 |
@@ -23,8 +23,8 @@
 | Fool's Gold | 3.00% | ~3 |
 | Escape Artist | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 452)  
-Completed: 2 (2.25%) (Ranked 125)  
+Progressed: 90 (Ranked 452)  
+Completed: 2 (2.22%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,3 +72,4 @@ Completed: 2 (2.25%) (Ranked 125)
 | 2023-11-25 | 86 | 2 |
 | 2023-11-27 | 88 | 2 |
 | 2023-11-28 | 89 | 2 |
+| 2023-12-07 | 90 | 2 |

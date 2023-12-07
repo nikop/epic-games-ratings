@@ -635,9 +635,9 @@
       "ID": "EpicACHV_11",
       "SetID": "acn799d",
       "Name": "Dead or Deer",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 70,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "EpicACHV_12",
@@ -747,9 +747,9 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     }
   ],
   "AchievementSets": [
@@ -762,8 +762,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:06:13.2978579+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:06:13.3255291+00:00",
   "LastUpdate_AppInfo": "2023-12-06T13:57:20.9823424+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:58:59.5853961+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:06:13.29787+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:59:08.3014367+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:06:13.3255521+00:00"
 }

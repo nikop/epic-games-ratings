@@ -13,13 +13,13 @@
 | Air Filtration | 63.00% | ~94 |
 | Broken | 61.00% | ~92 |
 | Radiation | 60.00% | ~90 |
-| Descent | 57.00% | ~85 |
+| Descent | 58.00% | ~87 |
 | Awakenings | 57.00% | ~85 |
 | Cold Storage | 57.00% | ~85 |
 | Sam | 56.00% | ~84 |
 | Commissioner | 51.00% | ~76 |
 | Soldier | 51.00% | ~76 |
-| Churchill | 49.00% | ~74 |
+| Churchill | 50.00% | ~75 |
 | Engineer | 49.00% | ~74 |
 | Leave | 48.00% | ~72 |
 | Doctor | 48.00% | ~72 |

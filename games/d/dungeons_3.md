@@ -6,10 +6,10 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~29,818 |
-| The Evilest Evil | 59.00% | ~25,132 |
-| Twistram is devastated | 58.00% | ~24,706 |
-| The Gehenna Stones | 50.00% | ~21,298 |
+| The Shadow strikes | 70.00% | ~29,819 |
+| The Evilest Evil | 59.00% | ~25,133 |
+| Twistram is devastated | 58.00% | ~24,707 |
+| The Gehenna Stones | 50.00% | ~21,299 |
 | No one has to die today! | 47.00% | ~20,021 |
 | Death and destruction! | 46.00% | ~19,595 |
 | The Swamplanders from the swamplands | 44.00% | ~18,743 |
@@ -29,19 +29,19 @@ Number of Ratings: 1,635  (23.09.2022)
 | Ogre Solo! | 27.00% | ~11,501 |
 | Destroy the thing | 26.00% | ~11,075 |
 | Tide Master | 26.00% | ~11,075 |
-| Difficult family relationships | 25.00% | ~10,649 |
-| MASS-O-BOT | 25.00% | ~10,649 |
-| Prepare the grave | 24.00% | ~10,223 |
-| Angel of Fire | 24.00% | ~10,223 |
-| Where there is Light, there is Shadow | 23.00% | ~9,797 |
-| At the foot of Mount Destiny | 22.00% | ~9,371 |
-| The Force disturbed | 21.00% | ~8,945 |
-| The Victorious Evil | 20.00% | ~8,519 |
-| Chorus of damnation | 19.00% | ~8,093 |
-| We don’t have time! | 19.00% | ~8,093 |
-| The Stones’ Power | 18.00% | ~7,667 |
-| Flat as a pancake | 17.00% | ~7,241 |
-| Lifeguard | 17.00% | ~7,241 |
+| Difficult family relationships | 25.00% | ~10,650 |
+| MASS-O-BOT | 25.00% | ~10,650 |
+| Prepare the grave | 24.00% | ~10,224 |
+| Angel of Fire | 24.00% | ~10,224 |
+| Where there is Light, there is Shadow | 23.00% | ~9,798 |
+| At the foot of Mount Destiny | 22.00% | ~9,372 |
+| The Force disturbed | 21.00% | ~8,946 |
+| The Victorious Evil | 20.00% | ~8,520 |
+| Chorus of damnation | 19.00% | ~8,094 |
+| We don’t have time! | 19.00% | ~8,094 |
+| The Stones’ Power | 18.00% | ~7,668 |
+| Flat as a pancake | 17.00% | ~7,242 |
+| Lifeguard | 17.00% | ~7,242 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~6,390 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~5,112 |
 | Then let them eat cake! | 12.00% | ~5,112 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~852 |
 | Sacrifices! | 2.00% | ~852 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,597 (Ranked 120)  
+Progressed: 42,598 (Ranked 120)  
 Completed: 344 (0.81%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 344 (0.81%) (Ranked 182)
 | 2023-12-04 | 42,330 | 344 |
 | 2023-12-05 | 42,431 | 344 |
 | 2023-12-06 | 42,523 | 344 |
-| 2023-12-07 | 42,597 | 344 |
+| 2023-12-07 | 42,598 | 344 |
 ## Awards
 Max (Great for Beginners): 382  (Ranked 237)  
 Sum: 2,795 (Ranked 181)  

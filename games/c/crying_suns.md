@@ -1,21 +1,21 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 598)  
+Rating: 4.50 (Ranked 597)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~311,461 |
-| Jeef Skeejj | 44.00% | ~207,641 |
-| Careful planning | 39.00% | ~184,045 |
+| The Shutdown | 66.00% | ~311,463 |
+| Jeef Skeejj | 44.00% | ~207,642 |
+| Careful planning | 39.00% | ~184,046 |
 | Second Coming | 34.00% | ~160,450 |
-| Jeef Skagg | 30.00% | ~141,573 |
+| Jeef Skagg | 30.00% | ~141,574 |
 | Mother | 25.00% | ~117,978 |
 | In space, no one can hear you scream | 24.00% | ~113,259 |
-| Chapter I: Echoes | 22.00% | ~103,820 |
-| Excelsior Rule | 22.00% | ~103,820 |
-| Things persisted in not being what they seemed | 20.00% | ~94,382 |
+| Chapter I: Echoes | 22.00% | ~103,821 |
+| Excelsior Rule | 22.00% | ~103,821 |
+| Things persisted in not being what they seemed | 20.00% | ~94,383 |
 | Knightmare Frames | 15.00% | ~70,787 |
 | May His passing cleanse the world | 15.00% | ~70,787 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,787 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~16 |
 | Kronos Rule | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,911 (Ranked 40)  
+Progressed: 471,913 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,11 +317,11 @@ Completed: 20 (0.00%) (Ranked 371)
 | 2023-12-04 | 471,795 | 20 |
 | 2023-12-05 | 471,829 | 20 |
 | 2023-12-06 | 471,879 | 20 |
-| 2023-12-07 | 471,911 | 20 |
+| 2023-12-07 | 471,913 | 20 |
 ## Awards
-Max (Character Customization): 225  (Ranked 278)  
+Max (Character Customization): 225  (Ranked 279)  
 Sum: 247 (Ranked 383)  
-Diff (max vs sum): -105  
+Diff (max vs sum): -104  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 225 |

@@ -1,27 +1,27 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 992)  
+Rating: 4.05 (Ranked 993)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,885 |
-| World Map | 78.00% | ~2,420 |
-| Temple of Eternals | 57.00% | ~1,768 |
-| Prestigious | 53.00% | ~1,644 |
-| Fellowship Power | 42.00% | ~1,303 |
-| Guild Power | 24.00% | ~744 |
-| Full Party | 21.00% | ~651 |
-| Prestigious x10 | 21.00% | ~651 |
-| The game is on | 19.00% | ~589 |
-| Exotic Merchant | 17.00% | ~527 |
-| Dragon Clicker | 16.00% | ~496 |
-| Inspection | 15.00% | ~465 |
-| Miner Clicker | 15.00% | ~465 |
-| Dragon Master | 14.00% | ~434 |
-| Enlightenment | 14.00% | ~434 |
-| Hero inspection | 14.00% | ~434 |
-| Lieutenant | 13.00% | ~403 |
+| Victor | 93.00% | ~2,887 |
+| World Map | 78.00% | ~2,421 |
+| Temple of Eternals | 57.00% | ~1,769 |
+| Prestigious | 53.00% | ~1,645 |
+| Fellowship Power | 42.00% | ~1,304 |
+| Guild Power | 24.00% | ~745 |
+| Full Party | 21.00% | ~652 |
+| Prestigious x10 | 21.00% | ~652 |
+| The game is on | 19.00% | ~590 |
+| Exotic Merchant | 17.00% | ~528 |
+| Dragon Clicker | 16.00% | ~497 |
+| Inspection | 15.00% | ~466 |
+| Miner Clicker | 15.00% | ~466 |
+| Enlightenment | 14.00% | ~435 |
+| Hero inspection | 14.00% | ~435 |
+| Dragon Master | 13.00% | ~404 |
+| Lieutenant | 13.00% | ~404 |
 | Mysterious Rock | 12.00% | ~372 |
 | Natural Talent | 12.00% | ~372 |
 | Superior | 12.00% | ~372 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 992)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,102 (Ranked 212)  
+Progressed: 3,104 (Ranked 212)  
 Completed: 2 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,14 +307,14 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-04 | 3,038 | 2 |
 | 2023-12-05 | 3,056 | 2 |
 | 2023-12-06 | 3,082 | 2 |
-| 2023-12-07 | 3,102 | 2 |
+| 2023-12-07 | 3,104 | 2 |
 ## Awards
-Max (Great for Beginners): 36  (Ranked 477)  
-Sum: 158 (Ranked 427)  
-Diff (max vs sum): 50  
+Max (Great for Beginners): 37  (Ranked 474)  
+Sum: 159 (Ranked 425)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 36 |
+| This game is Great for Beginners | 37 |
 | This game is Great for Quick Sessions | 31 |
 | This game has Diverse Characters | 26 |
 | This game has Playful Visuals | 25 |
@@ -393,3 +393,4 @@ Diff (max vs sum): 50
 | 2023-12-03 | 4.05 | 36 | 137 |
 | 2023-12-04 | 4.05 | 36 | 157 |
 | 2023-12-06 | 4.05 | 36 | 158 |
+| 2023-12-07 | 4.05 | 37 | 159 |

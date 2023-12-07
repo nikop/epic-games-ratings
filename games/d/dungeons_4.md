@@ -24,7 +24,7 @@
 | The Big Eaty | 52.00% | ~277 |
 | Hard Work | 51.00% | ~272 |
 | YOU SHALL NOT PASS! | 50.00% | ~266 |
-| “… like son” | 48.00% | ~256 |
+| “… like son” | 49.00% | ~261 |
 | Pure Dynamite! | 45.00% | ~240 |
 | Shame! Shame! Shame! | 45.00% | ~240 |
 | The Cathedral of Light | 44.00% | ~235 |
@@ -34,7 +34,7 @@
 | All’s Well That Ends Evil | 35.00% | ~187 |
 | Unstoppable Horde | 32.00% | ~171 |
 | Master of the Undead | 32.00% | ~171 |
-| The Duel | 31.00% | ~165 |
+| The Duel | 32.00% | ~171 |
 | If Looks Could Kill | 28.00% | ~149 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~144 |
 | Forbidden Knowledge | 27.00% | ~144 |
@@ -44,9 +44,9 @@
 | Stop Tanos! | 23.00% | ~123 |
 | Doom Hill | 23.00% | ~123 |
 | Brimstone Shaken, Not Stirred | 22.00% | ~117 |
+| Bonus Evilness | 20.00% | ~107 |
 | Sabotage! | 20.00% | ~107 |
 | Raiders of the Lost Stone | 20.00% | ~107 |
-| Bonus Evilness | 19.00% | ~101 |
 | The Rune Sockets of Finitude (Part 1) | 19.00% | ~101 |
 | The Rune Sockets of Finitude (Part 2) | 17.00% | ~91 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~85 |
@@ -60,9 +60,9 @@
 | Untouchable | 12.00% | ~64 |
 | Evilification | 11.00% | ~59 |
 | Laser Eyes Are So Useless | 10.00% | ~53 |
+| Gorgu is in the Best of Health | 9.00% | ~48 |
 | Heal Heal Blessing | 9.00% | ~48 |
 | Hands Off My Stones | 9.00% | ~48 |
-| Gorgu is in the Best of Health | 8.00% | ~43 |
 | No Mana, No Cry | 7.00% | ~37 |
 | I Don't Need Any Help | 5.00% | ~27 |
 ## Popularity (Based on EOS Achievements)

@@ -29,10 +29,10 @@ Rating: 4.58 (Ranked 451)
 | Master detective | 25.00% | ~16 |
 | Little hero | 24.00% | ~15 |
 | Pandora's box | 24.00% | ~15 |
-| Peacekeeper | 22.00% | ~14 |
+| Peacekeeper | 24.00% | ~15 |
+| Sidelined | 22.00% | ~14 |
 | Defender | 21.00% | ~13 |
 | Ghost hunter | 21.00% | ~13 |
-| Sidelined | 21.00% | ~13 |
 | Workaholic | 19.00% | ~12 |
 | Fence | 17.00% | ~11 |
 | Showdown | 16.00% | ~10 |
@@ -40,10 +40,10 @@ Rating: 4.58 (Ranked 451)
 | Freedom fighter | 14.00% | ~9 |
 | Safecracker | 13.00% | ~8 |
 | Titan Lord | 11.00% | ~7 |
+| King of the handymen | 11.00% | ~7 |
 | Terror of the hens | 10.00% | ~6 |
 | Expert | 10.00% | ~6 |
 | Moneybags | 10.00% | ~6 |
-| King of the handymen | 10.00% | ~6 |
 | The traveler | 8.00% | ~5 |
 | Fervent swimmer | 6.00% | ~4 |
 | King Midas | 6.00% | ~4 |

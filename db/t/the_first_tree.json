@@ -2,7 +2,7 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 1007,
+  "Ranking_Rating": 1008,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 123,
@@ -267,7 +267,7 @@
   "Tags": [],
   "EOS_Progressed": 38735,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20489,8 +20489,8 @@
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-11-16T13:58:53.3342311+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:05:46.604269+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:05:46.9692655+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:07.3802945+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:59:30.5617517+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:05:46.6043736+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:59:40.5679939+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:05:46.9693712+00:00"
 }

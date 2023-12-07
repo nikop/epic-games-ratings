@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | New Recruit | 90.00% | ~1,443 |
 | Off to a good start | 67.00% | ~1,074 |
-| Do... or do not. There is no try | 50.00% | ~802 |
+| Do... or do not. There is no try | 51.00% | ~818 |
 | A good blaster at your side | 30.00% | ~481 |
 | I suggest a new strategy | 19.00% | ~305 |
 | Scrap collector | 18.00% | ~289 |

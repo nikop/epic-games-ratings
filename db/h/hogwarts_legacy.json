@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11563,10 +11563,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 50123,
       "NumberOfAwardsMax": 25000
+    },
+    {
+      "Time": "2023-12-07T19:57:28.7630844+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50129,
+      "NumberOfAwardsMax": 25000
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50123,
+  "NumberOfAwards": 50129,
   "NumberOfAwardsMax": 25000,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11628,7 +11634,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1340
+      "Count": 1346
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11643,9 +11649,9 @@
       "Count": 838
     }
   ],
-  "EOS_Progressed": 304045,
+  "EOS_Progressed": 304048,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36468,6 +36474,11 @@
       "Time": "2023-12-07T18:03:17.5479684+00:00",
       "NumProgressed": 304045,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-07T20:03:29.0542941+00:00",
+      "NumProgressed": 304048,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36479,7 +36490,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48647
+      "UsersEstimate": 48648
     },
     {
       "ID": "PFA_10",
@@ -36503,7 +36514,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 36485
+      "UsersEstimate": 36486
     },
     {
       "ID": "PFA_13",
@@ -36535,7 +36546,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36485
+      "UsersEstimate": 36486
     },
     {
       "ID": "PFA_17",
@@ -36607,7 +36618,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36485
+      "UsersEstimate": 36486
     },
     {
       "ID": "PFA_25",
@@ -36663,7 +36674,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36485
+      "UsersEstimate": 36486
     },
     {
       "ID": "PFA_31",
@@ -36703,7 +36714,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30404
+      "UsersEstimate": 30405
     },
     {
       "ID": "PFA_36",
@@ -36735,7 +36746,7 @@
       "Name": "Coasting Along",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36485
+      "UsersEstimate": 36486
     },
     {
       "ID": "PFA_4",
@@ -36815,7 +36826,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42566
+      "UsersEstimate": 42567
     },
     {
       "ID": "PFA_8",
@@ -36831,23 +36842,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30404
+      "UsersEstimate": 30405
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304045,
+      "Progressed": 304048,
       "Completed": 525
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-07T11:57:12.3558265+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:03:28.4448766+00:00",
+  "LastChanged": "2023-12-07T19:57:28.7630842+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:03:29.0542936+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:57:22.1218056+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:03:28.4449864+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:57:28.7630848+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:03:29.0544194+00:00"
 }

@@ -13,7 +13,7 @@ Rating: 4.68 (Ranked 258)
 | Devoted | 10.00% | ~78 |
 | Slavic squatter | 9.00% | ~70 |
 | Spirit animal | 8.00% | ~62 |
-| Gold rush | 7.00% | ~54 |
+| Gold rush | 7.00% | ~55 |
 | Liar Liar | 6.00% | ~47 |
 | A friend in need... | 6.00% | ~47 |
 | Sneak peek | 5.00% | ~39 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 258)
 | Mushrooming enthusiast | 0.60% | ~5 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 778 (Ranked 281)  
+Progressed: 779 (Ranked 280)  
 Completed: 1 (0.13%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,6 +221,7 @@ Completed: 1 (0.13%) (Ranked 278)
 | 2023-12-01 | 775 | 1 |
 | 2023-12-03 | 777 | 1 |
 | 2023-12-04 | 778 | 1 |
+| 2023-12-07 | 779 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

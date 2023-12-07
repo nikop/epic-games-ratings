@@ -2,12 +2,12 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 947,
+  "Ranking_Rating": 948,
   "Ranking_Popularity": 370,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -945,9 +945,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 7393,
+  "EOS_Progressed": 7394,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9010,6 +9010,11 @@
       "Time": "2023-12-07T15:09:13.4346856+00:00",
       "NumProgressed": 7393,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T20:08:57.3763202+00:00",
+      "NumProgressed": 7394,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9133,7 +9138,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5323
+      "UsersEstimate": 5324
     },
     {
       "ID": "First_Ship_Designed",
@@ -9213,7 +9218,7 @@
       "Name": "Trading Partner",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "Level_5_Ship",
@@ -9325,7 +9330,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -9509,7 +9514,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4805
+      "UsersEstimate": 4806
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9517,7 +9522,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "Win_Conquest",
@@ -9596,15 +9601,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7393,
+      "Progressed": 7394,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-05T01:55:09.6981089+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:09:09.5454053+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:08:57.3763199+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:22.8362699+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:58:08.1883764+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:09:09.5454833+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:58:15.5774663+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:08:57.3764145+00:00"
 }

@@ -25,11 +25,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.60% | ~4,307 |
 | Path of the Prospect | 0.60% | ~4,307 |
 | Fight the way you practice | 0.60% | ~163 |
+| Scareless | 0.50% | ~3,589 |
 | Old Child | 0.50% | ~3,589 |
 | Kung-Fu Tussle | 0.50% | ~3,589 |
 | Take damage to save time | 0.50% | ~3,589 |
 | Martial Hub | 0.50% | ~136 |
-| Scareless | 0.40% | ~2,871 |
 | Dance of the Praying Mantis | 0.40% | ~2,871 |
 | Qi Gong: Mind | 0.40% | ~2,871 |
 | I know Kung-Fu | 0.40% | ~2,871 |
@@ -39,7 +39,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.30% | ~2,154 |
 | Iron Money | 0.30% | ~2,154 |
 | Detective Story | 0.30% | ~2,154 |
-| The best strikes are the ones we avoid | 0.30% | ~81 |
+| The best strikes are the ones we avoid | 0.30% | ~82 |
 | Legendary Talismans of Wuxing | 0.20% | ~1,436 |
 | Prodigal Child | 0.20% | ~1,436 |
 | The 36th Chamber of Kung-Fu | 0.20% | ~1,436 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,864 (Ranked 22)  
+Progressed: 717,867 (Ranked 22)  
 Completed: 12,945 (1.80%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 12,945 (1.80%) (Ranked 136)
 | 2023-12-04 | 717,797 | 12,943 |
 | 2023-12-05 | 717,827 | 12,943 |
 | 2023-12-06 | 717,844 | 12,945 |
-| 2023-12-07 | 717,864 | 12,945 |
+| 2023-12-07 | 717,867 | 12,945 |
 ## Awards
 Max (Great Boss Battles): 6,893  (Ranked 55)  
 Sum: 11,658 (Ranked 84)  

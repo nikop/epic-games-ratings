@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1012,
+  "Ranking_Rating": 1013,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
@@ -7367,11 +7367,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27672,
       "NumberOfAwardsMax": 4868
+    },
+    {
+      "Time": "2023-12-07T20:02:59.5537533+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27674,
+      "NumberOfAwardsMax": 4870
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27672,
-  "NumberOfAwardsMax": 4868,
+  "NumberOfAwards": 27674,
+  "NumberOfAwardsMax": 4870,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7390,7 +7396,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4868
+      "Count": 4870
     },
     {
       "Text": "This game has Easy Combat",
@@ -7423,9 +7429,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144139,
+  "EOS_Progressed": 144142,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 1149,
+  "EOS_NewPlayers": 1141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -31458,6 +31464,11 @@
       "Time": "2023-12-07T19:04:15.131544+00:00",
       "NumProgressed": 144139,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-07T20:04:16.0888379+00:00",
+      "NumProgressed": 144142,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -31941,7 +31952,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8648
+      "UsersEstimate": 8649
     },
     {
       "ID": "gold02",
@@ -32364,15 +32375,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144139,
+      "Progressed": 144142,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-07T09:02:49.9026791+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:04:15.1315436+00:00",
+  "LastChanged": "2023-12-07T20:02:59.553753+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:04:16.0888373+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-07T19:03:00.336612+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:04:15.1317309+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:02:59.5537536+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:04:16.0890235+00:00"
 }

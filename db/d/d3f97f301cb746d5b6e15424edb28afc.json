@@ -67,7 +67,7 @@
   "Tags": [],
   "EOS_Progressed": 1166,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2984,9 +2984,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 991
+      "UsersEstimate": 1003
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -3000,9 +3000,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1073
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -3048,17 +3048,17 @@
       "ID": "GSS_ACH_12_RACE_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "RC Car Racer!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 571
     },
     {
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1084
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -3617,8 +3617,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-04T17:00:39.9868842+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:04:13.9823921+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:04:14.9423337+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:57:02.3742975+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:04:13.9824709+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:57:09.077921+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:04:14.9424197+00:00"
 }

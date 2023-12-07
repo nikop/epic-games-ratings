@@ -2,12 +2,12 @@
   "ID": "2736ab9fec9c4a93a7a2872ed5154d4b",
   "Name": "RAGE 2",
   "ProductSlug": "rage-2",
-  "Ranking_Rating": 868,
+  "Ranking_Rating": 869,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 162,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
@@ -3079,10 +3079,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 3679,
       "NumberOfAwardsMax": 2778
+    },
+    {
+      "Time": "2023-12-07T19:58:22.9106734+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 3682,
+      "NumberOfAwardsMax": 2778
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3679,
+  "NumberOfAwards": 3682,
   "NumberOfAwardsMax": 2778,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3096,7 +3102,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 124
+      "Count": 126
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3120,7 +3126,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 115
+      "Count": 116
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3166,9 +3172,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
   "FirstSeenAchievements": "2023-05-23T21:03:37.9504818+00:00",
-  "LastChanged": "2023-12-07T01:45:36.9509391+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:08:33.9946426+00:00",
+  "LastChanged": "2023-12-07T19:58:22.9106732+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:08:22.2279691+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:28.1324149+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:58:15.0789997+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:08:33.9946443+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:58:22.9106738+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:08:22.2279726+00:00"
 }

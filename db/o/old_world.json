@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 315,
+  "Ranking_Rating": 316,
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 152,
@@ -2112,9 +2112,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15668,
+  "EOS_Progressed": 15669,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17292,6 +17292,11 @@
       "Time": "2023-12-07T17:06:10.2818174+00:00",
       "NumProgressed": 15668,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-07T20:06:16.4702248+00:00",
+      "NumProgressed": 15669,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18013,9 +18018,9 @@
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
       "SetID": "9201eeb",
       "Name": "Strong Cities",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 470
+      "UsersEstimate": 627
     },
     {
       "ID": "ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK",
@@ -19093,9 +19098,9 @@
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
       "SetID": "7l38kb8",
       "Name": "Manichaeism",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 470
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
@@ -20038,21 +20043,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15668,
+      "Progressed": 15669,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15668,
+      "Progressed": 15669,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-07T01:45:57.4329211+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:06:16.204209+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:06:16.4702242+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:20.3030051+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:58:35.959837+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:06:16.2051011+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:58:44.311905+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:06:16.4710755+00:00"
 }

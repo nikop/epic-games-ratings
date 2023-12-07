@@ -2,9 +2,9 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 919,
+  "Ranking_Rating": 920,
   "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 419,
+  "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 157,
@@ -873,9 +873,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 4063,
+  "EOS_Progressed": 4064,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6683,6 +6683,11 @@
       "Time": "2023-12-07T18:05:55.603043+00:00",
       "NumProgressed": 4063,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T20:05:53.8291876+00:00",
+      "NumProgressed": 4064,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6791,7 +6796,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "achievement_21",
@@ -6831,7 +6836,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "achievement_7",
@@ -6855,14 +6860,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4063,
+      "Progressed": 4064,
       "Completed": 0
     }
   ],
@@ -6870,8 +6875,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-06T16:00:44.3147633+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:05:53.4393686+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:05:53.8291871+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
   "LastUpdate_Ratings": "2023-12-07T19:00:15.7847281+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:05:53.4394001+00:00"
+  "LastUpdate_Achievements": "2023-12-07T20:05:53.8292225+00:00"
 }

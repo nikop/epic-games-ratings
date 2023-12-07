@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16893,
+  "EOS_Progressed": 16895,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
@@ -15613,6 +15613,11 @@
       "Time": "2023-12-07T19:08:21.78987+00:00",
       "NumProgressed": 16893,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-07T20:08:10.039149+00:00",
+      "NumProgressed": 16895,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15624,7 +15629,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "tpote_achievement_10",
@@ -15640,7 +15645,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3885
+      "UsersEstimate": 3886
     },
     {
       "ID": "tpote_achievement_12",
@@ -15696,7 +15701,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "tpote_achievement_19",
@@ -15728,7 +15733,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4899
+      "UsersEstimate": 4900
     },
     {
       "ID": "tpote_achievement_22",
@@ -15792,7 +15797,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "tpote_achievement_3",
@@ -15808,7 +15813,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "tpote_achievement_31",
@@ -15832,7 +15837,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "tpote_achievement_34",
@@ -15840,7 +15845,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "tpote_achievement_35",
@@ -15856,7 +15861,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "tpote_achievement_37",
@@ -15880,7 +15885,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "tpote_achievement_4",
@@ -15888,7 +15893,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6757
+      "UsersEstimate": 6758
     },
     {
       "ID": "tpote_achievement_40",
@@ -15896,7 +15901,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "tpote_achievement_41",
@@ -15904,7 +15909,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "tpote_achievement_5",
@@ -15912,7 +15917,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4054
+      "UsersEstimate": 4055
     },
     {
       "ID": "tpote_achievement_6",
@@ -15920,7 +15925,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3885
+      "UsersEstimate": 3886
     },
     {
       "ID": "tpote_achievement_7",
@@ -15951,15 +15956,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16893,
+      "Progressed": 16895,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:08:21.7898698+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:08:10.0391486+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:59:53.8475071+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:08:21.7899583+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:00:04.042111+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:08:10.0392838+00:00"
 }

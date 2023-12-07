@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,012)  
+Rating: 3.99 (Ranked 1,013)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 7.00% | ~10,090 |
 | Basic in Bulk | 7.00% | ~10,090 |
 | Titan's First Steps | 7.00% | ~10,090 |
-| Tinkle of Coins | 6.00% | ~8,648 |
+| Tinkle of Coins | 6.00% | ~8,649 |
 | Disintermediation | 5.00% | ~7,207 |
 | It's Free Real Estate | 5.00% | ~7,207 |
 | Capitalism Ho! | 5.00% | ~7,207 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~432 |
 | Capitalist Camaraderie | 0.20% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,139 (Ranked 80)  
+Progressed: 144,142 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,14 +350,14 @@ Completed: 291 (0.20%) (Ranked 258)
 | 2023-12-04 | 143,830 | 291 |
 | 2023-12-05 | 143,938 | 291 |
 | 2023-12-06 | 144,049 | 291 |
-| 2023-12-07 | 144,139 | 291 |
+| 2023-12-07 | 144,142 | 291 |
 ## Awards
-Max (Great for Beginners): 4,868  (Ranked 75)  
-Sum: 27,672 (Ranked 50)  
+Max (Great for Beginners): 4,870  (Ranked 75)  
+Sum: 27,674 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,868 |
+| This game is Great for Beginners | 4,870 |
 | This game is Relaxing | 4,056 |
 | This game has Quickly Understood Controls | 4,038 |
 | This game has Diverse Characters | 3,963 |
@@ -678,4 +678,4 @@ Diff (max vs sum): 25
 | 2023-12-04 | 3.99 | - | 4,862 | 27,658 |
 | 2023-12-05 | 3.99 | - | 4,864 | 27,662 |
 | 2023-12-06 | 3.99 | - | 4,868 | 27,669 |
-| 2023-12-07 | 3.99 | - | 4,868 | 27,672 |
+| 2023-12-07 | 3.99 | - | 4,870 | 27,674 |

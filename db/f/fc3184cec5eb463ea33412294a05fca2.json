@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 317,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.54,
+  "EOS_Completed_Percentage": 8.52,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1394,6 +1394,11 @@
       "Time": "2023-12-07T11:05:48.301632+00:00",
       "NumProgressed": 316,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-07T20:04:55.6566629+00:00",
+      "NumProgressed": 317,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 16,
@@ -1419,9 +1424,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 124
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -1429,7 +1434,7 @@
       "Name": "Ducks adrift",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1443,9 +1448,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 197
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1461,7 +1466,7 @@
       "Name": "Floatpiercer",
       "Percentage": 15,
       "XP": 150,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -1469,7 +1474,7 @@
       "Name": "Family pond",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1483,9 +1488,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 127
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1532,14 +1537,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 317,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:04:55.5196157+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:04:55.6566623+00:00",
   "LastUpdate_AppInfo": "2023-12-03T02:57:02.2090012+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:58:24.2728509+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:04:55.5196291+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:58:32.5788773+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:04:55.6566814+00:00"
 }

@@ -1,7 +1,7 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.06 (Ranked 989)  
+Rating: 4.06 (Ranked 990)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,6 +15,7 @@ Number of Ratings: 756  (23.09.2022)
 | Medal Hunter | 0.10% | ~282 |
 | Medal Wizard | 0.10% | ~282 |
 | Ready Steady Score | 0.10% | ~282 |
+| Pinball Hoarder | 0.10% | ~282 |
 | Nine Zeroes | 0.10% | ~282 |
 | Challenge Accepted! | 0.10% | ~282 |
 | I Found it! | 0.10% | ~282 |
@@ -27,6 +28,7 @@ Number of Ratings: 756  (23.09.2022)
 | Customizer | 0.10% | ~282 |
 | Ball Launched | 0.10% | ~282 |
 | I know the Rules | 0.10% | ~282 |
+| Did It for the Dowry | 0.10% | ~1 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -34,19 +36,17 @@ Number of Ratings: 756  (23.09.2022)
 | Royale Family | 0.00% | ~0 |
 | Mythic Toy | 0.00% | ~0 |
 | Fully Involved | 0.00% | ~0 |
-| Pinball Hoarder | 0.00% | ~0 |
 | Virtual Pinball Museum | 0.00% | ~0 |
 | Catomic Bomb | 0.00% | ~0 |
 | Terraformer | 0.00% | ~0 |
 | The Captain | 0.00% | ~0 |
 | To boldly go… | 0.00% | ~0 |
 | Battle of Cardassia | 0.00% | ~0 |
-| Did It for the Dowry | 0.00% | ~0 |
 | Glorious victory | 0.00% | ~0 |
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282,470 (Ranked 56)  
+Progressed: 282,476 (Ranked 56)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-04 | 282,245 | 0 |
 | 2023-12-05 | 282,325 | 0 |
 | 2023-12-06 | 282,407 | 0 |
-| 2023-12-07 | 282,470 | 0 |
+| 2023-12-07 | 282,476 | 0 |
 ## Awards
 Max (Great for Beginners): 203  (Ranked 289)  
 Sum: 1,606 (Ranked 231)  

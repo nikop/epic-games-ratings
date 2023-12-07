@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 989,
+  "Ranking_Rating": 990,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8587,9 +8587,9 @@
       "Count": 3555
     }
   ],
-  "EOS_Progressed": 238746,
+  "EOS_Progressed": 238751,
   "EOS_Completed": 2504,
-  "EOS_NewPlayers": 1119,
+  "EOS_NewPlayers": 1114,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -34612,6 +34612,11 @@
       "Time": "2023-12-07T19:09:44.8116471+00:00",
       "NumProgressed": 238746,
       "NumCompleted": 2504
+    },
+    {
+      "Time": "2023-12-07T20:09:31.8859945+00:00",
+      "NumProgressed": 238751,
+      "NumCompleted": 2504
     }
   ],
   "TotalAchievements": 532,
@@ -36303,7 +36308,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "objective_completed_35",
@@ -37767,7 +37772,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "objective_completed_70",
@@ -38878,21 +38883,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 205020,
+      "Progressed": 205025,
       "Completed": 3959
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 238746,
+      "Progressed": 238751,
       "Completed": 2504
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-07T14:58:01.8420798+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:09:44.8116466+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:09:31.8859941+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:02.8479395+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:58:04.3097234+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:09:44.8137765+00:00"
+  "LastUpdate_Ratings": "2023-12-07T19:58:11.6345849+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:09:31.8881363+00:00"
 }

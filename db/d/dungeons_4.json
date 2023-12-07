@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1609,9 +1609,9 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 261
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -1705,25 +1705,25 @@
       "ID": "ach_main13tanos_completed",
       "SetID": "4hg22ll",
       "Name": "The Duel",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 171
     },
     {
       "ID": "ach_main13tanos_dungeonlord",
       "SetID": "4hg22ll",
       "Name": "Gorgu is in the Best of Health",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_main13tanos_evilbosses",
       "SetID": "4hg22ll",
       "Name": "Bonus Evilness",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 107
     },
     {
       "ID": "ach_main14run_completed",
@@ -1904,8 +1904,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:08:44.6065549+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:08:32.5920602+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-07T19:02:43.7791595+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:08:44.6066084+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:02:42.8072987+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:08:32.5921313+00:00"
 }

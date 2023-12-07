@@ -1,16 +1,16 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.30 (Ranked 845)  
+Rating: 4.30 (Ranked 846)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~154,699 |
-| Doubled Pawn | 57.00% | ~125,969 |
-| Check | 55.00% | ~121,549 |
-| Absolute pin | 47.00% | ~103,869 |
-| Promotion | 31.00% | ~68,509 |
-| Checkmate | 30.00% | ~66,299 |
+| Chop Wood | 70.00% | ~154,701 |
+| Doubled Pawn | 57.00% | ~125,971 |
+| Check | 55.00% | ~121,551 |
+| Absolute pin | 47.00% | ~103,871 |
+| Promotion | 31.00% | ~68,511 |
+| Checkmate | 30.00% | ~66,301 |
 | O-O | 24.00% | ~53,040 |
 | Spanish Bishop | 21.00% | ~46,410 |
 | Queen Sacrifice | 20.00% | ~44,200 |
@@ -44,7 +44,7 @@ Rating: 4.30 (Ranked 845)
 | Tournament Master | 0.10% | ~221 |
 | Tournament Pro | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,998 (Ranked 71)  
+Progressed: 221,002 (Ranked 71)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-04 | 220,669 | 2 |
 | 2023-12-05 | 220,797 | 2 |
 | 2023-12-06 | 220,897 | 2 |
-| 2023-12-07 | 220,998 | 2 |
+| 2023-12-07 | 221,002 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

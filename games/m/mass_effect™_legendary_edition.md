@@ -44,12 +44,12 @@
 | Broke, Blind, and Bedlam | 34.00% | ~518 |
 | A Personal Touch | 33.00% | ~503 |
 | Ghost Ship | 33.00% | ~503 |
+| The Justicar | 33.00% | ~503 |
 | The Prodigal | 33.00% | ~503 |
 | Galactic Explorer | 33.00% | ~503 |
 | Driven | 33.00% | ~503 |
 | Shopaholic | 33.00% | ~503 |
 | The Assassin | 32.00% | ~488 |
-| The Justicar | 32.00% | ~488 |
 | The Quarian | 32.00% | ~488 |
 | Battlemaster | 32.00% | ~488 |
 | Catharsis | 32.00% | ~488 |

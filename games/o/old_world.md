@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 315)  
+Rating: 4.65 (Ranked 316)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -26,6 +26,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 4.00% | ~627 |
 | Strong | 4.00% | ~627 |
 | Warrior | 4.00% | ~627 |
+| Strong Cities | 4.00% | ~627 |
 | Oracle | 4.00% | ~627 |
 | Pyramids | 4.00% | ~627 |
 | Judaism | 4.00% | ~627 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 3.00% | ~470 |
 | Wise | 3.00% | ~470 |
 | Developing Cities | 3.00% | ~470 |
-| Strong Cities | 3.00% | ~470 |
 | Able Difficulty | 3.00% | ~470 |
 | Furious Family | 3.00% | ~470 |
 | Great Ziggurat | 3.00% | ~470 |
@@ -50,6 +50,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 3.00% | ~470 |
 | Learn to Play 2 | 3.00% | ~470 |
 | Christianity | 3.00% | ~470 |
+| Manichaeism | 3.00% | ~470 |
 | Babylonian Paganism | 3.00% | ~470 |
 | Carthaginian Paganism | 3.00% | ~470 |
 | Egyptian Paganism | 3.00% | ~470 |
@@ -81,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 2.00% | ~313 |
 | Greece | 2.00% | ~313 |
 | Power to the People | 2.00% | ~313 |
-| Manichaeism | 2.00% | ~313 |
 | Persian Paganism | 2.00% | ~313 |
 | Building Wonders | 2.00% | ~313 |
 | Mythology | 2.00% | ~313 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,668 (Ranked 152)  
+Progressed: 15,669 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,7 +580,7 @@ Completed: 5 (0.03%) (Ranked 332)
 | 2023-12-04 | 15,638 | 5 |
 | 2023-12-05 | 15,649 | 5 |
 | 2023-12-06 | 15,662 | 5 |
-| 2023-12-07 | 15,668 | 5 |
+| 2023-12-07 | 15,669 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 275)  
 Sum: 1,894 (Ranked 220)  

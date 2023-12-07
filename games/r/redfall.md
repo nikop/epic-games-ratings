@@ -1,11 +1,12 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.45 (Ranked 1,056)  
+Rating: 3.45 (Ranked 1,057)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 3.00% | ~53 |
+| Catch and Release | 3.00% | ~53 |
 | Home Is Where the Heart Is | 2.00% | ~36 |
 | Enter of Your Own Free Will | 2.00% | ~36 |
 | Blood Will Have Blood | 2.00% | ~36 |
@@ -17,7 +18,6 @@ Rating: 3.45 (Ranked 1,056)
 | ICU | 2.00% | ~36 |
 | Sucks To Be You | 2.00% | ~36 |
 | Wounded Whispers | 2.00% | ~36 |
-| Catch and Release | 2.00% | ~36 |
 | Neighborhood Revitalization | 1.00% | ~18 |
 | Welcome to the Neighborhood | 1.00% | ~18 |
 | Bad Wiring | 1.00% | ~18 |
@@ -30,7 +30,7 @@ Rating: 3.45 (Ranked 1,056)
 | Heart Attack | 1.00% | ~18 |
 | Skin of Their Teeth | 1.00% | ~18 |
 | Harvest’s End | 1.00% | ~18 |
-| Helping Hand | 0.80% | ~14 |
+| Helping Hand | 0.90% | ~16 |
 | Contingency Plans | 0.70% | ~12 |
 | Nice Try | 0.70% | ~12 |
 | Curious Finch | 0.70% | ~12 |

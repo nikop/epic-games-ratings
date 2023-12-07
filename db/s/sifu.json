@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8121,9 +8121,9 @@
       "Count": 430
     }
   ],
-  "EOS_Progressed": 717864,
+  "EOS_Progressed": 717867,
   "EOS_Completed": 12945,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -28626,6 +28626,11 @@
       "Time": "2023-12-07T19:05:01.5756019+00:00",
       "NumProgressed": 717864,
       "NumCompleted": 12945
+    },
+    {
+      "Time": "2023-12-07T20:05:01.7965406+00:00",
+      "NumProgressed": 717867,
+      "NumCompleted": 12945
     }
   ],
   "TotalAchievements": 60,
@@ -28723,9 +28728,9 @@
       "ID": "12_MidAge",
       "SetID": "adcm20g",
       "Name": "Scareless",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2871
+      "UsersEstimate": 3589
     },
     {
       "ID": "13_LowAge",
@@ -29021,7 +29026,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -29116,21 +29121,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 27165,
+      "Progressed": 27168,
       "Completed": 10762
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717864,
+      "Progressed": 717867,
       "Completed": 12945
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-07T19:02:50.4469385+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:05:01.5756013+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:05:01.7965402+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:06.4352314+00:00",
-  "LastUpdate_Ratings": "2023-12-07T19:02:50.446939+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:05:01.5757475+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:02:49.6557651+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:05:01.7966634+00:00"
 }

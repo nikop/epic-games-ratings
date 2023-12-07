@@ -2,10 +2,10 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 231,
   "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 406,
-  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 117,
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 371,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -1603,6 +1603,11 @@
       "Time": "2023-12-07T19:04:24.6401631+00:00",
       "NumProgressed": 370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T20:04:25.5661532+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1999,7 +2004,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -2046,15 +2051,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-07T19:04:24.6401626+00:00",
+  "LastChanged_Achievements": "2023-12-07T20:04:25.5661527+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-07T18:59:50.151142+00:00",
-  "LastUpdate_Achievements": "2023-12-07T19:04:24.6402064+00:00"
+  "LastUpdate_Ratings": "2023-12-07T20:00:00.2496815+00:00",
+  "LastUpdate_Achievements": "2023-12-07T20:04:25.5662176+00:00"
 }
