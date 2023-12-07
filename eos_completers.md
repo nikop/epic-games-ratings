@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.56% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.55% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -144,7 +144,7 @@
 | 141 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.56% |
 | 143 | [Five Dates](games/f/five_dates.md) | 1.55% |
 | 144 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.54% |
-| 145 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.53% |
+| 145 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.52% |
 | 146 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
 | 147 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.44% |
 | 148 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.39% |
@@ -244,11 +244,11 @@
 | 241 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
 | 241 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.29% |
 | 241 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
-| 245 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.28% |
 | 245 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
 | 245 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
-| 248 | [Against the Storm](games/a/against_the_storm.md) | 0.27% |
-| 248 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.27% |
+| 247 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
+| 247 | [Against the Storm](games/a/against_the_storm.md) | 0.27% |
+| 247 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.27% |
 | 250 | [Filament](games/f/filament.md) | 0.26% |
 | 250 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.26% |
 | 252 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
