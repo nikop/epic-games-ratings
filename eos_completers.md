@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.46% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.45% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -186,7 +186,7 @@
 | 184 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.80% |
 | 185 | [Infindustry](games/i/infindustry.md) | 0.79% |
 | 186 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
-| 187 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.74% |
+| 187 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.73% |
 | 188 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.69% |
 | 188 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
 | 190 | [Haven](games/h/haven.md) | 0.64% |
@@ -247,10 +247,10 @@
 | 245 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
 | 245 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 247 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
-| 247 | [Against the Storm](games/a/against_the_storm.md) | 0.27% |
 | 247 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.27% |
-| 250 | [Filament](games/f/filament.md) | 0.26% |
-| 250 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.26% |
+| 249 | [Against the Storm](games/a/against_the_storm.md) | 0.26% |
+| 249 | [Filament](games/f/filament.md) | 0.26% |
+| 249 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.26% |
 | 252 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 252 | [Remnant 2](games/r/remnant_2.md) | 0.24% |
 | 254 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
@@ -784,4 +784,4 @@
 | 371 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 371 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 371 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,673 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,674 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
