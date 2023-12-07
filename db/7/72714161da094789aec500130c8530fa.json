@@ -4,8 +4,8 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 374,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -664,9 +664,9 @@
       "ID": "_laser_mine",
       "SetID": "2d5739o",
       "Name": "Laser mine",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "_lightsaber_mine",
@@ -855,8 +855,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:03:24.7591856+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:03:30.5603289+00:00",
   "LastUpdate_AppInfo": "2023-12-06T23:57:01.9915785+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:00:27.3639559+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:03:24.7592095+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:00:31.5444493+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:03:30.5603574+00:00"
 }

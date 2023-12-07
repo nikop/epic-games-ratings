@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 533,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.25,
   "EosHistory": [
@@ -1753,9 +1753,9 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 139
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -1785,9 +1785,9 @@
       "ID": "ach_main16ring_lavalings",
       "SetID": "4hg22ll",
       "Name": "Lavalumps on Ice!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_main16ring_spawners",
@@ -1904,8 +1904,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:08:48.432877+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:08:45.0860619+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:02:40.4180831+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:08:48.4329246+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:02:43.326609+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:08:45.0861053+00:00"
 }

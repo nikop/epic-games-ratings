@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 285,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1216,6 +1216,11 @@
       "Time": "2023-12-01T07:09:08.7051597+00:00",
       "NumProgressed": 284,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T16:09:38.7963197+00:00",
+      "NumProgressed": 285,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1251,7 +1256,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "achBett",
@@ -1291,7 +1296,7 @@
       "Name": "Chest \u2714",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "achCity",
@@ -1371,7 +1376,7 @@
       "Name": "Doberman \u2714",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achEva",
@@ -1499,7 +1504,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achPriest",
@@ -1626,7 +1631,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 285,
       "Completed": 0
     }
   ],
@@ -1634,8 +1639,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:09:38.1941303+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:09:38.7963191+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:48.0867567+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:57:39.8316441+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:09:38.1941734+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:57:43.1018231+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:09:38.7963609+00:00"
 }

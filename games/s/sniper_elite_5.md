@@ -26,10 +26,10 @@ Rating: 4.43 (Ranked 695)
 | Der Geist | 17.00% | ~677 |
 | Close Quarters | 16.00% | ~638 |
 | Snake in the Grass | 16.00% | ~638 |
+| No Stone Unturned | 15.00% | ~598 |
 | Skirmisher | 15.00% | ~598 |
 | Die Nussknacker Sweet! | 15.00% | ~598 |
 | Brains of the Operation | 15.00% | ~598 |
-| No Stone Unturned | 14.00% | ~558 |
 | Opposing Force | 14.00% | ~558 |
 | Enemy at the Gates | 14.00% | ~558 |
 | Fields of Glory | 14.00% | ~558 |
@@ -308,12 +308,12 @@ Completed: 11 (0.28%) (Ranked 245)
 | 2023-12-06 | 3,983 | 11 |
 | 2023-12-07 | 3,985 | 11 |
 ## Awards
-Max (Great for Beginners): 27  (Ranked 515)  
-Sum: 27 (Ranked 528)  
-Diff (max vs sum): -13  
+Max (Great for Beginners): 28  (Ranked 510)  
+Sum: 28 (Ranked 524)  
+Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 27 |
+| This game is Great for Beginners | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -410,4 +410,4 @@ Diff (max vs sum): -13
 | 2023-11-26 | 4.45 | 26 | 26 |
 | 2023-11-28 | 4.44 | 26 | 26 |
 | 2023-11-29 | 4.44 | 27 | 27 |
-| 2023-12-07 | 4.43 | 27 | 27 |
+| 2023-12-07 | 4.43 | 28 | 28 |

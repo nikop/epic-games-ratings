@@ -2,13 +2,13 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
-  "Ranking_Rating": 1001,
+  "Ranking_Rating": 1000,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 582,
+  "EOS_Progressed": 584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2663,6 +2663,11 @@
       "Time": "2023-12-07T13:09:31.1083812+00:00",
       "NumProgressed": 582,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T16:04:03.5083026+00:00",
+      "NumProgressed": 584,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2698,7 +2703,7 @@
       "Name": "From the Pages of History",
       "Percentage": 9,
       "XP": 85,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -2706,7 +2711,7 @@
       "Name": "War with Friends",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
@@ -2738,7 +2743,7 @@
       "Name": "Earth Shattering",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2769,7 +2774,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 582,
+      "Progressed": 584,
       "Completed": 0
     }
   ],
@@ -2777,8 +2782,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:03:56.0527346+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:04:03.5083023+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:01.0011076+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:57:50.5891063+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:03:56.0527536+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:57:53.3884569+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:04:03.5083396+00:00"
 }

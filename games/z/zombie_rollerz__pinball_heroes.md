@@ -1,7 +1,7 @@
 # Zombie Rollerz: Pinball Heroes
 [Store](https://store.epicgames.com/en-US/p/zombie-rollerz-7aa027)  
 [View Rawdata](../../db/z/zombie_rollerz__pinball_heroes.json)  
-Rating: 4.30 (Ranked 844)  
+Rating: 4.29 (Ranked 850)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -192,3 +192,4 @@ Completed: 1 (0.50%) (Ranked 210)
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-03-31 | - | 0 | 0 |
 | 2023-08-23 | 4.30 | 0 | 0 |
+| 2023-12-07 | 4.29 | 0 | 0 |

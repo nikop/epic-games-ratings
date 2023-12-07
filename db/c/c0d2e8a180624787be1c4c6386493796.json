@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -529,9 +529,9 @@
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
       "SetID": "caeik3h",
       "Name": "Curse Me Kilts!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "KR4_ACHIEVEMENT_DARKKNIGHTS",
@@ -553,9 +553,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -641,9 +641,9 @@
       "ID": "KR4_ACHIEVEMENT_GOLLUM",
       "SetID": "caeik3h",
       "Name": "My Precious!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "KR4_ACHIEVEMENT_GOOD_DINOSAUR",
@@ -697,9 +697,9 @@
       "ID": "KR4_ACHIEVEMENT_HORN",
       "SetID": "caeik3h",
       "Name": "Not My Tempo",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
@@ -761,9 +761,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
       "SetID": "caeik3h",
       "Name": "Can\u0027t Touch This",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
@@ -785,9 +785,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -865,9 +865,9 @@
       "ID": "KR4_ACHIEVEMENT_OLAF",
       "SetID": "caeik3h",
       "Name": "Let It Go!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
@@ -1078,8 +1078,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-07T14:08:26.6878181+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:03:15.7062366+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:23.733607+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:57:41.6681194+00:00",
-  "LastUpdate_Achievements": "2023-12-07T14:08:26.6878894+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:57:44.9738383+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:03:15.7063252+00:00"
 }

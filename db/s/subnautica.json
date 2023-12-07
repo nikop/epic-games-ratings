@@ -3,12 +3,12 @@
   "Name": "Subnautica",
   "ProductSlug": "subnautica",
   "Ranking_Rating": 45,
-  "Ranking_Popularity": 179,
+  "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 131,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2018-01-23T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -5977,11 +5977,17 @@
       "Rating": 4.85,
       "NumberOfAwards": 5916,
       "NumberOfAwardsMax": 761
+    },
+    {
+      "Time": "2023-12-07T15:58:16.6984128+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 5921,
+      "NumberOfAwardsMax": 765
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5916,
-  "NumberOfAwardsMax": 761,
+  "NumberOfAwards": 5921,
+  "NumberOfAwardsMax": 765,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6000,7 +6006,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 761
+      "Count": 765
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6036,7 +6042,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 586
+      "Count": 587
     },
     {
       "Text": "This game has a Creative Community",
@@ -6062,8 +6068,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2023-12-07T11:58:09.8475136+00:00",
+  "LastChanged": "2023-12-07T15:58:16.6984125+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.5215927+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:58:13.7110225+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:04:10.1166931+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:58:16.6984132+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:04:18.2896106+00:00"
 }

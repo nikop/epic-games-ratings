@@ -40,7 +40,7 @@
 | Forbidden Knowledge | 27.00% | ~144 |
 | Ghost Pirates? Ghost Heroes! | 27.00% | ~144 |
 | Hungry, Hungry Gorgu! | 26.00% | ~139 |
-| The Finitude Drill | 25.00% | ~133 |
+| The Finitude Drill | 26.00% | ~139 |
 | Stop Tanos! | 23.00% | ~123 |
 | Doom Hill | 23.00% | ~123 |
 | Brimstone Shaken, Not Stirred | 21.00% | ~112 |
@@ -51,8 +51,8 @@
 | The Rune Sockets of Finitude (Part 2) | 17.00% | ~91 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~85 |
 | My Little Torture Chamber | 16.00% | ~85 |
+| Lavalumps on Ice! | 16.00% | ~85 |
 | Rubble and Ashes | 16.00% | ~85 |
-| Lavalumps on Ice! | 15.00% | ~80 |
 | The Last Stand - This Time For Real! | 15.00% | ~80 |
 | To Infinity And Beyond! | 14.00% | ~75 |
 | To the Max! | 13.00% | ~69 |

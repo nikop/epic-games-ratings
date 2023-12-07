@@ -1239,9 +1239,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 68214,
+  "EOS_Progressed": 68218,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11754,6 +11754,11 @@
       "Time": "2023-12-07T15:08:28.9696666+00:00",
       "NumProgressed": 68214,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-07T16:08:23.2956679+00:00",
+      "NumProgressed": 68218,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -11766,7 +11771,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23875
+      "UsersEstimate": 23876
     },
     {
       "ID": "10",
@@ -11782,7 +11787,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "12",
@@ -11790,7 +11795,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "13",
@@ -11846,7 +11851,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6821
+      "UsersEstimate": 6822
     },
     {
       "ID": "5",
@@ -11893,7 +11898,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 68214,
+      "Progressed": 68218,
       "Completed": 39
     }
   ],
@@ -11901,8 +11906,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-12-06T20:58:16.0658115+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:08:28.9696662+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:08:23.2956674+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.380073+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:58:54.5078147+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:08:28.9697151+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:58:57.0858568+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:08:23.2957511+00:00"
 }

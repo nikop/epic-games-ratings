@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16890,
+  "EOS_Progressed": 16891,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
@@ -15598,6 +15598,11 @@
       "Time": "2023-12-07T12:08:26.8805518+00:00",
       "NumProgressed": 16890,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-07T16:08:19.4494891+00:00",
+      "NumProgressed": 16891,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15633,7 +15638,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "tpote_achievement_13",
@@ -15641,7 +15646,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "tpote_achievement_14",
@@ -15673,7 +15678,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2702
+      "UsersEstimate": 2703
     },
     {
       "ID": "tpote_achievement_18",
@@ -15849,7 +15854,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "tpote_achievement_38",
@@ -15936,15 +15941,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16890,
+      "Progressed": 16891,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:08:25.2003698+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:08:19.4494886+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:00:01.3433409+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:08:25.200458+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:00:04.7807496+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:08:19.4496373+00:00"
 }

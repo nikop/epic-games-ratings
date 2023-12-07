@@ -1,16 +1,16 @@
 # The Great War: Western Front™
 [Store](https://store.epicgames.com/en-US/p/the-great-war-western-front)  
 [View Rawdata](../../db/t/the_great_war__western_front™.json)  
-Rating: 4.04 (Ranked 1,001)  
+Rating: 4.04 (Ranked 1,000)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Earth Shattering | 48.00% | ~279 |
+| Earth Shattering | 48.00% | ~280 |
 | La Der des Ders | 17.00% | ~99 |
 | Das Ist Endgültig! | 17.00% | ~99 |
-| From the Pages of History | 9.00% | ~52 |
+| From the Pages of History | 9.00% | ~53 |
 | The Chemists' War | 6.00% | ~35 |
-| War with Friends | 3.00% | ~17 |
+| War with Friends | 3.00% | ~18 |
 | Nothing Can Stop Us! | 2.00% | ~12 |
 | That's Not What Happened | 1.00% | ~6 |
 | A Student of History | 0.90% | ~5 |
@@ -18,7 +18,7 @@ Rating: 4.04 (Ranked 1,001)
 | Eventful | 0.00% | ~0 |
 | Generalissimo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 582 (Ranked 304)  
+Progressed: 584 (Ranked 304)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-03 | 577 | 0 |
 | 2023-12-05 | 579 | 0 |
 | 2023-12-06 | 581 | 0 |
-| 2023-12-07 | 582 | 0 |
+| 2023-12-07 | 584 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

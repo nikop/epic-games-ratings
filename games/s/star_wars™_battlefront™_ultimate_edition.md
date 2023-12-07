@@ -60,10 +60,10 @@
 | I’ll take that bet | 0.60% | ~10 |
 | Greed can be a very powerful ally | 0.50% | ~8 |
 | Stay on target | 0.40% | ~6 |
+| in a galaxy far, far away.... | 0.30% | ~5 |
 | Don't get cocky | 0.30% | ~5 |
 | Master | 0.30% | ~5 |
 | That got him! | 0.20% | ~3 |
-| in a galaxy far, far away.... | 0.20% | ~3 |
 | Stay in attack formation | 0.20% | ~3 |
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |

@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 80.00% | ~35 |
-| Grand Re-Opening | 66.00% | ~29 |
-| Pup Pup Boogie | 64.00% | ~28 |
-| Summer Day | 61.00% | ~27 |
-| Mr. Porter | 52.00% | ~23 |
-| Risky Rescue | 48.00% | ~21 |
-| Carlos Is Tangled | 45.00% | ~20 |
-| Clear the Road | 41.00% | ~18 |
-| Mandy Family | 41.00% | ~18 |
-| Paw patrol member | 39.00% | ~17 |
-| Robot Out of Control | 39.00% | ~17 |
-| Break Time | 34.00% | ~15 |
-| Master of the Rope | 32.00% | ~14 |
-| Training Day | 32.00% | ~14 |
-| In the Air | 32.00% | ~14 |
-| Never Miss | 32.00% | ~14 |
+| Mighty Powers | 78.00% | ~35 |
+| Grand Re-Opening | 64.00% | ~29 |
+| Pup Pup Boogie | 62.00% | ~28 |
+| Summer Day | 60.00% | ~27 |
+| Mr. Porter | 51.00% | ~23 |
+| Risky Rescue | 47.00% | ~21 |
+| Carlos Is Tangled | 44.00% | ~20 |
+| Clear the Road | 40.00% | ~18 |
+| Mandy Family | 40.00% | ~18 |
+| Paw patrol member | 38.00% | ~17 |
+| Robot Out of Control | 38.00% | ~17 |
+| Break Time | 33.00% | ~15 |
+| Master of the Rope | 31.00% | ~14 |
+| Training Day | 31.00% | ~14 |
+| In the Air | 31.00% | ~14 |
+| Never Miss | 31.00% | ~14 |
 | The Fastest | 27.00% | ~12 |
-| Animal Sighting | 25.00% | ~11 |
-| Don’t Miss Any | 25.00% | ~11 |
-| Adventure Bay’s Citizen | 23.00% | ~10 |
+| Animal Sighting | 24.00% | ~11 |
+| Don’t Miss Any | 24.00% | ~11 |
+| Adventure Bay’s Citizen | 22.00% | ~10 |
 | You Have Been Everywhere | 18.00% | ~8 |
 | Mountain and Ice | 18.00% | ~8 |
 | Everything Under Control | 16.00% | ~7 |
 | Nothing Can Stop You | 11.00% | ~5 |
 | A Great Explorer | 9.00% | ~4 |
-| King of the Mountain | 5.00% | ~2 |
+| King of the Mountain | 4.00% | ~2 |
 | Air Ace | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 514)  
+Progressed: 45 (Ranked 512)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,6 +79,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-04 | 42 | 0 |
 | 2023-12-05 | 43 | 0 |
 | 2023-12-06 | 44 | 0 |
+| 2023-12-07 | 45 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

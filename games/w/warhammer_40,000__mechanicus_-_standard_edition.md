@@ -5,14 +5,14 @@ Rating: 4.43 (Ranked 695)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~59,489 |
-| This is only the beginning | 20.00% | ~45,761 |
+| No aid from the Omnissiah | 26.00% | ~59,490 |
+| This is only the beginning | 20.00% | ~45,762 |
 | Knowledge is power | 12.00% | ~27,457 |
-| Galvanic Rifle | 10.00% | ~22,880 |
-| Radium Ready | 10.00% | ~22,880 |
-| Power Ranger | 9.00% | ~20,592 |
-| Taser Goad | 9.00% | ~20,592 |
-| Half a cog | 9.00% | ~20,592 |
+| Galvanic Rifle | 10.00% | ~22,881 |
+| Radium Ready | 10.00% | ~22,881 |
+| Power Ranger | 9.00% | ~20,593 |
+| Taser Goad | 9.00% | ~20,593 |
+| Half a cog | 9.00% | ~20,593 |
 | Watch them crumble | 6.00% | ~13,728 |
 | Competent Cohort | 4.00% | ~9,152 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,152 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 695)
 | Perma-live | 0.10% | ~229 |
 | Purge the Heretek | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,805 (Ranked 70)  
+Progressed: 228,808 (Ranked 70)  
 Completed: 5 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,10 +271,10 @@ Completed: 5 (0.00%) (Ranked 371)
 | 2023-12-04 | 228,653 | 5 |
 | 2023-12-05 | 228,716 | 5 |
 | 2023-12-06 | 228,768 | 5 |
-| 2023-12-07 | 228,805 | 5 |
+| 2023-12-07 | 228,808 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 258)  
-Sum: 2,205 (Ranked 206)  
+Sum: 2,206 (Ranked 206)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -284,7 +284,7 @@ Diff (max vs sum): 52
 | This game has Amazing Characters | 271 |
 | This game has Diverse Characters | 269 |
 | This game has Amazing Storytelling | 250 |
-| This game is Relaxing | 243 |
+| This game is Relaxing | 244 |
 | This game has Unique Visuals | 216 |
 | This game has a Creative Community | 101 |
 | This game is Great for Beginners | 63 |
@@ -392,3 +392,4 @@ Diff (max vs sum): 52
 | 2023-11-30 | 4.43 | 291 | 2,202 |
 | 2023-12-02 | 4.43 | 291 | 2,204 |
 | 2023-12-03 | 4.43 | 291 | 2,205 |
+| 2023-12-07 | 4.43 | 291 | 2,206 |

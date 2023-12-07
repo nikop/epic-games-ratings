@@ -32,10 +32,10 @@
 | Rounding Off | 3.00% | ~71 |
 | My Work Here Is Done | 3.00% | ~71 |
 | Iconic! | 2.00% | ~47 |
+| I'll Be the Best! | 2.00% | ~47 |
 | Back in Blighty | 2.00% | ~47 |
 | Still Here | 2.00% | ~47 |
 | Overtaking the Master | 2.00% | ~47 |
-| I'll Be the Best! | 1.00% | ~24 |
 | Next Level | 1.00% | ~24 |
 | I Don't Stop | 1.00% | ~24 |
 | Exhausted but Happy | 0.70% | ~17 |
@@ -43,10 +43,10 @@
 | Globe-trotter | 0.50% | ~12 |
 | Maximum Endurance | 0.30% | ~7 |
 | Breathtaking Views | 0.20% | ~5 |
+| Beyond the Limiter | 0.20% | ~5 |
 | All My Own Toys | 0.20% | ~5 |
 | Full Power | 0.20% | ~5 |
 | There's a Great View up Here | 0.20% | ~5 |
-| Beyond the Limiter | 0.10% | ~2 |
 | Endless | 0.10% | ~2 |
 | At the Top | 0.10% | ~2 |
 | Absolute Champion | 0.10% | ~2 |

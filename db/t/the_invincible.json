@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1505,9 +1505,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 252
     },
     {
       "ID": "AchvAllMemories",
@@ -1744,8 +1744,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:08:57.7241629+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:08:55.163449+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:59:22.2465956+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:08:57.7241874+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:59:24.9491489+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:08:55.1634834+00:00"
 }

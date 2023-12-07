@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44230,
+  "EOS_Progressed": 44231,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -18685,6 +18685,11 @@
       "Time": "2023-12-07T15:06:27.944258+00:00",
       "NumProgressed": 44230,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-12-07T16:06:41.1500594+00:00",
+      "NumProgressed": 44231,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 44,
@@ -18696,7 +18701,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25211
+      "UsersEstimate": 25212
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -18704,7 +18709,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13711
+      "UsersEstimate": 13712
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -18816,7 +18821,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35384
+      "UsersEstimate": 35385
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -18896,7 +18901,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7961
+      "UsersEstimate": 7962
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -18936,7 +18941,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27865
+      "UsersEstimate": 27866
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -18960,7 +18965,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26538
+      "UsersEstimate": 26539
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -18968,7 +18973,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29634
+      "UsersEstimate": 29635
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -19032,7 +19037,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41134
+      "UsersEstimate": 41135
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19047,7 +19052,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44230,
+      "Progressed": 44231,
       "Completed": 245
     }
   ],
@@ -19055,8 +19060,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-03T18:02:47.0707275+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:06:27.9442575+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:06:41.1500589+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:13.8521051+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:02:56.6987893+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:06:27.9443557+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:02:59.6950018+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:06:41.1502198+00:00"
 }

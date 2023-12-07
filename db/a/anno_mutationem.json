@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 765,
+  "EOS_Progressed": 767,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -932,6 +932,11 @@
       "Time": "2023-12-06T13:12:31.6561406+00:00",
       "NumProgressed": 765,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T16:06:33.3129199+00:00",
+      "NumProgressed": 767,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -951,7 +956,7 @@
       "Name": "Annakin Skyscroller",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Arm_Wrestling",
@@ -983,7 +988,7 @@
       "Name": "Club Star",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Combine",
@@ -1029,9 +1034,9 @@
       "ID": "I_just_love_stuff",
       "SetID": "gl7plp",
       "Name": "I just love stuff!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 314
     },
     {
       "ID": "I_think_its_broke",
@@ -1047,7 +1052,7 @@
       "Name": "In the smacker...I think",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Keep_em_coming",
@@ -1055,7 +1060,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Lady_Luck",
@@ -1071,7 +1076,7 @@
       "Name": "Omnipotence",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "SERENITY_NOW",
@@ -1111,7 +1116,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1119,7 +1124,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "The Traveler",
@@ -1151,7 +1156,7 @@
       "Name": "The Warlord",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -1159,7 +1164,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1167,7 +1172,7 @@
       "Name": "The truth is out there",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "This_cant_be_right",
@@ -1199,7 +1204,7 @@
       "Name": "You are the One",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "manhole",
@@ -1207,7 +1212,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "posters",
@@ -1230,7 +1235,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 765,
+      "Progressed": 767,
       "Completed": 0
     }
   ],
@@ -1238,8 +1243,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:06:19.1569826+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:06:33.3129194+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:27.326915+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:58:06.5430261+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:06:19.1570117+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:58:09.7507735+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:06:33.3129491+00:00"
 }

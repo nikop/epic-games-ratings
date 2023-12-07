@@ -2,13 +2,13 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 480,
+  "Ranking_Rating": 481,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -305,9 +305,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3411,
+  "EOS_Progressed": 3412,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6140,6 +6140,11 @@
       "Time": "2023-12-07T10:04:44.2540099+00:00",
       "NumProgressed": 3411,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T16:04:52.2309604+00:00",
+      "NumProgressed": 3412,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6231,7 +6236,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_BASE_21",
@@ -6239,7 +6244,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "ACH_BASE_22",
@@ -6455,7 +6460,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_BASE_5",
@@ -6606,13 +6611,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1595,
+      "Progressed": 1596,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3411,
+      "Progressed": 3412,
       "Completed": 0
     }
   ],
@@ -6620,8 +6625,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-06T08:59:27.5428994+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:04:43.02733+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:04:52.2309599+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:25.2087668+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:00:23.8342801+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:04:43.0274134+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:00:28.030509+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:04:52.231025+00:00"
 }

@@ -1,26 +1,26 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.54 (Ranked 531)  
+Rating: 4.54 (Ranked 532)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~975,332 |
-| I Need a Bigger Garage | 63.00% | ~682,732 |
-| Pump my Ride | 47.00% | ~509,340 |
-| Ghostbuster | 34.00% | ~368,459 |
-| Call Roadside Assistance | 18.00% | ~195,066 |
-| That Was Close | 18.00% | ~195,066 |
-| Quickie | 11.00% | ~119,207 |
-| California Dreamer | 7.00% | ~75,859 |
-| Can't Touch This | 5.00% | ~54,185 |
-| Carménère Taster | 4.00% | ~43,348 |
-| Comeback | 4.00% | ~43,348 |
-| Driver from Ipanema | 3.00% | ~32,511 |
-| Supersonic | 3.00% | ~32,511 |
-| Marathonist | 3.00% | ~32,511 |
-| Living Legend | 3.00% | ~32,511 |
+| The First of Many | 90.00% | ~975,347 |
+| I Need a Bigger Garage | 63.00% | ~682,743 |
+| Pump my Ride | 47.00% | ~509,348 |
+| Ghostbuster | 34.00% | ~368,464 |
+| Call Roadside Assistance | 18.00% | ~195,069 |
+| That Was Close | 18.00% | ~195,069 |
+| Quickie | 11.00% | ~119,209 |
+| California Dreamer | 7.00% | ~75,860 |
+| Can't Touch This | 5.00% | ~54,186 |
+| Carménère Taster | 4.00% | ~43,349 |
+| Comeback | 4.00% | ~43,349 |
+| Driver from Ipanema | 3.00% | ~32,512 |
+| Supersonic | 3.00% | ~32,512 |
+| Marathonist | 3.00% | ~32,512 |
+| Living Legend | 3.00% | ~32,512 |
 | God of Roads | 2.00% | ~21,674 |
 | Pathfinder | 2.00% | ~21,674 |
 | Go-Kart Champion | 2.00% | ~21,674 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,084 |
 | Look Mom, No Hands! | 0.10% | ~1,084 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,083,702 (Ranked 12)  
+Progressed: 1,083,719 (Ranked 12)  
 Completed: 501 (0.05%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 501 (0.05%) (Ranked 321)
 | 2023-12-04 | 1,082,796 | 500 |
 | 2023-12-05 | 1,083,089 | 501 |
 | 2023-12-06 | 1,083,412 | 501 |
-| 2023-12-07 | 1,083,702 | 501 |
+| 2023-12-07 | 1,083,719 | 501 |
 ## Awards
 Max (Great for Beginners): 175  (Ranked 306)  
 Sum: 1,569 (Ranked 234)  

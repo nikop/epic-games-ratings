@@ -14,8 +14,8 @@
 | Gotta Go Fast | 43.00% | ~21 |
 | Mine Sweeper | 24.00% | ~12 |
 | Slotting Machine | 24.00% | ~12 |
+| Systematic | 24.00% | ~12 |
 | Roll Out | 22.00% | ~11 |
-| Systematic | 22.00% | ~11 |
 | Botropolis | 16.00% | ~8 |
 | Steam Powered | 14.00% | ~7 |
 | Steaming Rich | 14.00% | ~7 |

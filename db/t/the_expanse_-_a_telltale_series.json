@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15957,
+  "EOS_Progressed": 15960,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13253,6 +13253,11 @@
       "Time": "2023-12-07T15:03:26.8457185+00:00",
       "NumProgressed": 15957,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-07T16:03:32.5317949+00:00",
+      "NumProgressed": 15960,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13313,7 +13318,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "16",
@@ -13329,7 +13334,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "18",
@@ -13529,7 +13534,7 @@
       "Name": "Master Negotiator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "35",
@@ -13544,13 +13549,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15957,
+      "Progressed": 15960,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1911,
+      "Progressed": 1914,
       "Completed": 837
     }
   ],
@@ -13558,8 +13563,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:03:26.8457182+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:03:32.5317945+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:57:30.1315212+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:03:26.8458103+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:57:33.0348629+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:03:32.5318963+00:00"
 }

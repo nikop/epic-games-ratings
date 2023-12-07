@@ -21,10 +21,10 @@
 | Tramp Saver | 12.00% | ~3 |
 | Hard To Wake Up | 12.00% | ~3 |
 | Bear Cop | 8.00% | ~2 |
+| Chipmunk | 8.00% | ~2 |
 | Secret Locker | 8.00% | ~2 |
 | Paw Music | 8.00% | ~2 |
 | Sugar Pills Lover | 8.00% | ~2 |
-| Chipmunk | 4.00% | ~1 |
 | Master of Mattresses | 0.00% | ~0 |
 | Main Endings | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |

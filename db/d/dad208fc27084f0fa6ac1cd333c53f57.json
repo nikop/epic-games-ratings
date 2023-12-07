@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4986,
+  "EOS_Progressed": 4987,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -4209,6 +4209,11 @@
       "Time": "2023-12-07T15:05:55.6531332+00:00",
       "NumProgressed": 4986,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-07T16:06:08.4973077+00:00",
+      "NumProgressed": 4987,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -4261,7 +4266,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -4269,7 +4274,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2842
+      "UsersEstimate": 2843
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -4277,7 +4282,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 3989
+      "UsersEstimate": 3990
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -4348,14 +4353,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4986,
+      "Progressed": 4987,
       "Completed": 47
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:05:55.6531326+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:06:08.4973071+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:12.1666356+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:00:30.3350432+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:05:55.6531624+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:00:34.4682332+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:06:08.4973425+00:00"
 }

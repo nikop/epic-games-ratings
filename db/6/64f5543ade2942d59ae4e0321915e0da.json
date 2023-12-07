@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -523,9 +523,9 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 45,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -682,8 +682,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:08:17.4254268+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:08:10.8754806+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.4442779+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:57:11.976596+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:08:17.4254541+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:57:15.2396727+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:08:10.8755054+00:00"
 }

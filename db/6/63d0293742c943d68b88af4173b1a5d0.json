@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1129,6 +1129,11 @@
       "Time": "2023-12-07T11:04:45.8652706+00:00",
       "NumProgressed": 365,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-07T16:04:09.3985296+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1157,7 +1162,7 @@
       "Name": "What\u0027s Cooking?",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "6",
@@ -1179,9 +1184,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 146
     },
     {
       "ID": "9",
@@ -1205,7 +1210,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "REMAKE_004",
@@ -1213,7 +1218,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Remake_005",
@@ -1253,7 +1258,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Remake_010",
@@ -1269,7 +1274,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Remake_12",
@@ -1285,7 +1290,7 @@
       "Name": "Toasted",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Remake_14",
@@ -1364,14 +1369,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:04:01.6967747+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:04:09.3985291+00:00",
   "LastUpdate_AppInfo": "2023-12-04T22:57:03.327196+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:58:54.1498196+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:04:01.6967905+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:58:56.7797333+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:04:09.3985678+00:00"
 }

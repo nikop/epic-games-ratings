@@ -1,41 +1,41 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 531)  
+Rating: 4.54 (Ranked 532)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,706 |
-| Pork Chopped | 3.00% | ~1,706 |
-| Dr. Reed, I Presume? | 2.00% | ~14,626 |
-| Git Gutte! | 2.00% | ~14,626 |
-| Bookworm | 2.00% | ~14,626 |
-| Break A Leg | 2.00% | ~14,626 |
-| But Doctor, I am Butcho | 2.00% | ~14,626 |
-| Coup de Grâce | 2.00% | ~14,626 |
-| Hazardous Materials | 2.00% | ~14,626 |
-| Friends Like These | 2.00% | ~14,626 |
-| Hotel California | 2.00% | ~14,626 |
-| Apex Predator | 2.00% | ~14,626 |
-| Stacking the Deck | 2.00% | ~14,626 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,626 |
-| This is My Weapon | 2.00% | ~14,626 |
-| Welcome To Hell-A | 2.00% | ~14,626 |
-| One of Us | 2.00% | ~1,137 |
-| Making Your Mark | 1.00% | ~7,313 |
-| Anger Management | 1.00% | ~7,313 |
-| Perks of the Job | 1.00% | ~7,313 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,313 |
-| Slayer Squad | 1.00% | ~7,313 |
-| Can't Handle the Truth | 1.00% | ~7,313 |
-| Like Riding a Bike | 1.00% | ~7,313 |
-| Zombologist | 1.00% | ~7,313 |
-| Ooh, Shiny! | 1.00% | ~7,313 |
-| A Patton Emerges | 1.00% | ~7,313 |
-| Humanity Distilled | 1.00% | ~7,313 |
-| I Am the Resurrection | 1.00% | ~7,313 |
-| Max Headroom | 1.00% | ~7,313 |
-| Our True Nature | 1.00% | ~7,313 |
+| Whatever It Takes | 3.00% | ~1,707 |
+| Pork Chopped | 3.00% | ~1,707 |
+| Dr. Reed, I Presume? | 2.00% | ~14,627 |
+| Git Gutte! | 2.00% | ~14,627 |
+| Bookworm | 2.00% | ~14,627 |
+| Break A Leg | 2.00% | ~14,627 |
+| But Doctor, I am Butcho | 2.00% | ~14,627 |
+| Coup de Grâce | 2.00% | ~14,627 |
+| Hazardous Materials | 2.00% | ~14,627 |
+| Friends Like These | 2.00% | ~14,627 |
+| Hotel California | 2.00% | ~14,627 |
+| Apex Predator | 2.00% | ~14,627 |
+| Stacking the Deck | 2.00% | ~14,627 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,627 |
+| This is My Weapon | 2.00% | ~14,627 |
+| Welcome To Hell-A | 2.00% | ~14,627 |
+| One of Us | 2.00% | ~1,138 |
+| Making Your Mark | 1.00% | ~7,314 |
+| Anger Management | 1.00% | ~7,314 |
+| Perks of the Job | 1.00% | ~7,314 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,314 |
+| Slayer Squad | 1.00% | ~7,314 |
+| Can't Handle the Truth | 1.00% | ~7,314 |
+| Like Riding a Bike | 1.00% | ~7,314 |
+| Zombologist | 1.00% | ~7,314 |
+| Ooh, Shiny! | 1.00% | ~7,314 |
+| A Patton Emerges | 1.00% | ~7,314 |
+| Humanity Distilled | 1.00% | ~7,314 |
+| I Am the Resurrection | 1.00% | ~7,314 |
+| Max Headroom | 1.00% | ~7,314 |
+| Our True Nature | 1.00% | ~7,314 |
 | Down with the Sickness | 0.90% | ~6,582 |
 | Not Even My Final Form | 0.80% | ~5,851 |
 | Jumbo Keyring | 0.80% | ~5,851 |
@@ -50,14 +50,14 @@ Rating: 4.54 (Ranked 531)
 | Sole Survivor | 0.40% | ~2,925 |
 | Gore Horse | 0.40% | ~2,925 |
 | Sharpest Tool in the Box | 0.40% | ~2,925 |
-| Top That, Tisha! | 0.40% | ~227 |
+| Top That, Tisha! | 0.40% | ~228 |
 | Survival Skills | 0.20% | ~1,463 |
 | Lawn and Order | 0.20% | ~114 |
 | Donk! | 0.10% | ~731 |
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,320 (Ranked 21)  
+Progressed: 731,350 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,16 +288,16 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
-| 2023-12-07 | 731,320 | 2,465 |
+| 2023-12-07 | 731,350 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,994  (Ranked 49)  
-Sum: 12,273 (Ranked 82)  
+Sum: 12,275 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,994 |
 | This game is Great for Beginners | 618 |
-| This game has Diverse Characters | 587 |
+| This game has Diverse Characters | 589 |
 | This game has Quickly Understood Controls | 555 |
 | This game is Relaxing | 530 |
 | This game has Amazing Storytelling | 518 |
@@ -537,4 +537,4 @@ Diff (max vs sum): -33
 | 2023-12-04 | 4.54 | 7,915 | 12,148 |
 | 2023-12-05 | 4.54 | 7,943 | 12,192 |
 | 2023-12-06 | 4.54 | 7,968 | 12,240 |
-| 2023-12-07 | 4.54 | 7,994 | 12,273 |
+| 2023-12-07 | 4.54 | 7,994 | 12,275 |

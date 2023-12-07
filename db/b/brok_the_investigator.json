@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
     "PcReleaseDate": "2022-08-26T19:00:00+00:00",
@@ -225,9 +225,9 @@
       "ID": "CHIPMUNK",
       "SetID": "bb2dp",
       "Name": "Chipmunk",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FOODTHIEF",
@@ -386,8 +386,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:04:58.1103957+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:05:08.2216887+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:40.38289+00:00",
-  "LastUpdate_Ratings": "2023-12-07T14:59:10.9207065+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:04:58.1104181+00:00"
+  "LastUpdate_Ratings": "2023-12-07T15:59:13.5721404+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:05:08.2217106+00:00"
 }

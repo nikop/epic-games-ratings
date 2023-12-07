@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 374,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -514,9 +514,9 @@
       "ID": "8",
       "SetID": "6bgoh8g",
       "Name": "You\u0027re probably wondering how I got here...",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "9",
@@ -537,8 +537,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-07T15:03:16.8713757+00:00",
+  "LastChanged_Achievements": "2023-12-07T16:03:22.5269132+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:47.1183869+00:00",
-  "LastUpdate_Ratings": "2023-12-07T15:02:52.2279236+00:00",
-  "LastUpdate_Achievements": "2023-12-07T15:03:16.8713955+00:00"
+  "LastUpdate_Ratings": "2023-12-07T16:02:55.1193383+00:00",
+  "LastUpdate_Achievements": "2023-12-07T16:03:22.5269359+00:00"
 }
