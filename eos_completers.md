@@ -97,10 +97,10 @@
 | 95 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.45% |
 | 96 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
-| 98 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.25% |
+| 98 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.24% |
 | 99 | [Destiny 2](games/d/destiny_2.md) | 3.18% |
 | 99 | [The Complex](games/t/the_complex.md) | 3.18% |
-| 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.16% |
+| 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.15% |
 | 102 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 102 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
 | 104 | [Doodle God](games/d/doodle_god.md) | 3.08% |
@@ -121,7 +121,7 @@
 | 119 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.50% |
 | 119 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 121 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.48% |
-| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.44% |
+| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.45% |
 | 123 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 124 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.40% |
 | 125 | [Dungeons 4](games/d/dungeons_4.md) | 2.26% |
