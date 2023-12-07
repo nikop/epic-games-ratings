@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.55% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.52% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -54,13 +54,13 @@
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 7.69% |
 | 54 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.67% |
-| 55 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
+| 55 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
 | 56 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.58% |
 | 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.53% |
 | 58 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
 | 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.13% |
 | 60 | [Scorn](games/s/scorn.md) | 7.12% |
-| 61 | [Sonic Origins](games/s/sonic_origins.md) | 7.11% |
+| 61 | [Sonic Origins](games/s/sonic_origins.md) | 7.10% |
 | 62 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.98% |
 | 64 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.60% |
@@ -97,7 +97,7 @@
 | 95 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.45% |
 | 96 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
-| 98 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.26% |
+| 98 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.25% |
 | 99 | [Destiny 2](games/d/destiny_2.md) | 3.18% |
 | 99 | [The Complex](games/t/the_complex.md) | 3.18% |
 | 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.16% |
@@ -196,12 +196,12 @@
 | 192 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
 | 192 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.60% |
 | 192 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.60% |
+| 197 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.59% |
 | 197 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 197 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.59% |
-| 199 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
-| 199 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 199 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.58% |
-| 199 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.58% |
+| 200 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
+| 200 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 200 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.58% |
 | 203 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 203 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.55% |
 | 205 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
@@ -276,12 +276,12 @@
 | 274 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.15% |
 | 274 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 274 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 277 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
-| 277 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.13% |
-| 277 | [BLACKTAIL](games/b/blacktail.md) | 0.13% |
-| 277 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
-| 277 | [GRIME](games/g/grime.md) | 0.13% |
-| 277 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 277 | [GRIME](games/g/grime.md) | 0.14% |
+| 278 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
+| 278 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.13% |
+| 278 | [BLACKTAIL](games/b/blacktail.md) | 0.13% |
+| 278 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
+| 278 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 283 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 283 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.12% |
 | 285 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
