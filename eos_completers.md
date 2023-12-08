@@ -14,11 +14,11 @@
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 27.40% |
-| 15 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.47% |
+| 15 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.39% |
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.16% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.14% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -60,8 +60,8 @@
 | 58 | [Scorn](games/s/scorn.md) | 7.15% |
 | 59 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
 | 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.10% |
-| 61 | [Sonic Origins](games/s/sonic_origins.md) | 7.04% |
-| 62 | [Time Loader](games/t/time_loader.md) | 7.03% |
+| 61 | [Sonic Origins](games/s/sonic_origins.md) | 7.03% |
+| 61 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.98% |
 | 64 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.60% |
 | 65 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
@@ -89,7 +89,7 @@
 | 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.22% |
 | 88 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.18% |
 | 89 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.15% |
-| 90 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.06% |
+| 90 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
 | 91 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 4.03% |
 | 92 | [The Bunker](games/t/the_bunker.md) | 4.00% |
 | 93 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.74% |
@@ -106,7 +106,7 @@
 | 103 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 105 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.06% |
 | 106 | [HordeCore](games/h/hordecore.md) | 3.04% |
-| 107 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.03% |
+| 107 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.01% |
 | 108 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
 | 109 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.94% |
 | 109 | [Without Escape](games/w/without_escape.md) | 2.94% |
@@ -122,9 +122,9 @@
 | 119 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 121 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.48% |
 | 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.44% |
-| 123 | [Lamentum](games/l/lamentum.md) | 2.42% |
-| 124 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.37% |
-| 125 | [Dungeons 4](games/d/dungeons_4.md) | 2.24% |
+| 123 | [Dungeons 4](games/d/dungeons_4.md) | 2.43% |
+| 124 | [Lamentum](games/l/lamentum.md) | 2.42% |
+| 125 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.37% |
 | 126 | [Bloodshore](games/b/bloodshore.md) | 2.23% |
 | 127 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
 | 128 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
@@ -151,8 +151,8 @@
 | 149 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.35% |
 | 150 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.34% |
 | 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.33% |
-| 152 | [Poosh XL](games/p/poosh_xl.md) | 1.31% |
-| 153 | [Chorus](games/c/chorus.md) | 1.30% |
+| 152 | [Chorus](games/c/chorus.md) | 1.30% |
+| 152 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
 | 154 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.29% |
 | 155 | [Late Shift](games/l/late_shift.md) | 1.28% |
 | 156 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.26% |
