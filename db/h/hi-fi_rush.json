@@ -3,12 +3,12 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 25,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4489,
+  "EOS_Progressed": 4490,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8205,6 +8205,11 @@
       "Time": "2023-12-08T19:06:06.6795774+00:00",
       "NumProgressed": 4489,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-08T23:07:27.9360804+00:00",
+      "NumProgressed": 4490,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8408,7 +8413,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "Ach026",
@@ -8456,7 +8461,7 @@
       "Name": "Perfect Parry",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "Ach032",
@@ -8592,7 +8597,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "Ach049",
@@ -8783,13 +8788,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4489,
+      "Progressed": 4490,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 3010,
+      "Progressed": 3011,
       "Completed": 1930
     }
   ],
@@ -8797,8 +8802,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:07:26.0824999+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:07:27.9360799+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:59:43.462382+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:07:26.0825878+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:59:50.8821941+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:07:27.9361627+00:00"
 }

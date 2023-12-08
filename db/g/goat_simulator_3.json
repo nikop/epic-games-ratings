@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5665,9 +5665,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 253446,
+  "EOS_Progressed": 253447,
   "EOS_Completed": 896,
-  "EOS_NewPlayers": 769,
+  "EOS_NewPlayers": 761,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -30965,6 +30965,11 @@
       "Time": "2023-12-08T22:10:36.6650405+00:00",
       "NumProgressed": 253446,
       "NumCompleted": 896
+    },
+    {
+      "Time": "2023-12-08T23:10:38.6595548+00:00",
+      "NumProgressed": 253447,
+      "NumCompleted": 896
     }
   ],
   "TotalAchievements": 39,
@@ -31008,7 +31013,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 68430
+      "UsersEstimate": 68431
     },
     {
       "ID": "AchievementBigFootID",
@@ -31040,7 +31045,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 230636
+      "UsersEstimate": 230637
     },
     {
       "ID": "AchievementClownID",
@@ -31088,7 +31093,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 83637
+      "UsersEstimate": 83638
     },
     {
       "ID": "AchievementGoatID",
@@ -31104,7 +31109,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 134326
+      "UsersEstimate": 134327
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -31144,7 +31149,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 144464
+      "UsersEstimate": 144465
     },
     {
       "ID": "AchievementLootBoxID",
@@ -31152,7 +31157,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 35482
+      "UsersEstimate": 35483
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -31176,7 +31181,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 96309
+      "UsersEstimate": 96310
     },
     {
       "ID": "AchievementRampID",
@@ -31208,7 +31213,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 187550
+      "UsersEstimate": 187551
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -31224,7 +31229,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 129257
+      "UsersEstimate": 129258
     },
     {
       "ID": "AchievementStreakingID",
@@ -31248,7 +31253,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 139395
+      "UsersEstimate": 139396
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -31272,7 +31277,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 164740
+      "UsersEstimate": 164741
     },
     {
       "ID": "AchievementWhaleID",
@@ -31280,14 +31285,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 68430
+      "UsersEstimate": 68431
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 253446,
+      "Progressed": 253447,
       "Completed": 896
     }
   ],
@@ -31295,8 +31300,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-12-08T22:01:16.4129575+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:10:36.6650404+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:10:38.6595546+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.8008808+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:01:16.4129583+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:10:36.6652412+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:01:23.9513884+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:10:38.6596855+00:00"
 }

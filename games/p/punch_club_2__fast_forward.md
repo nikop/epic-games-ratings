@@ -23,7 +23,7 @@
 | Pal of your father? | 68.00% | ~245 |
 | Spirit of the past | 66.00% | ~238 |
 | Employee of the month | 66.00% | ~238 |
-| Law student | 62.00% | ~224 |
+| Law student | 63.00% | ~227 |
 | Workout professional | 61.00% | ~220 |
 | Handyman | 60.00% | ~217 |
 | Champion – starter pack | 60.00% | ~217 |
@@ -56,10 +56,10 @@
 | Problems of cyborgs | 36.00% | ~130 |
 | Not little hacker | 36.00% | ~130 |
 | Absolute Champion! | 36.00% | ~130 |
+| Your own way | 36.00% | ~130 |
 | The lonesome road | 35.00% | ~126 |
 | Key memories | 35.00% | ~126 |
 | The heart of the Resistance | 35.00% | ~126 |
-| Your own way | 35.00% | ~126 |
 | Trap disarmed | 34.00% | ~123 |
 | Another world | 34.00% | ~123 |
 | Keep nature safe | 34.00% | ~123 |

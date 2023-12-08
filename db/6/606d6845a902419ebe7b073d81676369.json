@@ -3,12 +3,12 @@
   "Name": "Life Makeover",
   "ProductSlug": "life-makeover-8e3f9f",
   "Ranking_Rating": 893,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-15T02:30:00+00:00",
     "PcReleaseDate": "2023-11-15T02:30:00+00:00",
@@ -49,6 +49,6 @@
   "FirstSeenRating": "2023-12-06T10:02:29.3885841+00:00",
   "LastChanged": "2023-12-06T10:02:29.3885841+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.9827372+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:58:41.7780187+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:09:29.4217795+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:58:50.5304286+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:09:31.2322055+00:00"
 }

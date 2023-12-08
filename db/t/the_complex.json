@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 660,
+  "EOS_Progressed": 661,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.18,
   "EosHistory": [
@@ -1115,6 +1115,11 @@
       "Time": "2023-12-05T19:09:38.2617364+00:00",
       "NumProgressed": 660,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-08T23:09:45.9010723+00:00",
+      "NumProgressed": 661,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1134,7 +1139,7 @@
       "Name": "Blast From The Past",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "deadly_secret",
@@ -1182,7 +1187,7 @@
       "Name": "Lab Rat",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ending_6",
@@ -1206,7 +1211,7 @@
       "Name": "MVP - Most Vanishing Person",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "falling_for_you",
@@ -1214,7 +1219,7 @@
       "Name": "Falling For You",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "free_champagne",
@@ -1230,7 +1235,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "kindar_surprise",
@@ -1262,7 +1267,7 @@
       "Name": "Storage Hunter",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -1278,14 +1283,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 660,
+      "Progressed": 661,
       "Completed": 21
     }
   ],
@@ -1293,8 +1298,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:09:44.2433053+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:09:45.901072+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:10.0081915+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:57:14.8602478+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:09:44.2433215+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:57:23.563886+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:09:45.9010886+00:00"
 }

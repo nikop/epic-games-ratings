@@ -342,9 +342,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 206698,
+  "EOS_Progressed": 206703,
   "EOS_Completed": 539,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -25172,6 +25172,11 @@
       "Time": "2023-12-08T22:04:18.7867023+00:00",
       "NumProgressed": 206698,
       "NumCompleted": 539
+    },
+    {
+      "Time": "2023-12-08T23:04:22.8308665+00:00",
+      "NumProgressed": 206703,
+      "NumCompleted": 539
     }
   ],
   "TotalAchievements": 29,
@@ -25183,7 +25188,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -25207,7 +25212,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 194296
+      "UsersEstimate": 194301
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -25375,7 +25380,7 @@
       "Name": "Snooper \u002B",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACHIEVEMENT_VANILLA",
@@ -25414,7 +25419,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 206698,
+      "Progressed": 206703,
       "Completed": 539
     }
   ],
@@ -25422,8 +25427,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-07T22:59:44.525088+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:04:18.7867019+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:04:22.8308661+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:18.4469481+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:01:45.711422+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:04:18.7868666+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:02:32.8053415+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:04:22.8310198+00:00"
 }

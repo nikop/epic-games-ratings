@@ -3,12 +3,12 @@
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_Rating": 231,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -3492,17 +3492,17 @@
       "ID": "MQ02_2",
       "SetID": "bbing49",
       "Name": "Big Breakthrough",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 122
     },
     {
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 178
     },
     {
       "ID": "MQ02_4",
@@ -3644,9 +3644,9 @@
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 197
     },
     {
       "ID": "MQ07_2",
@@ -3660,9 +3660,9 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 329
     },
     {
       "ID": "MQ08_2",
@@ -3701,8 +3701,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-26T10:02:59.0802972+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:06:35.9539666+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:06:39.1533989+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:20.5690478+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:03:22.5446829+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:06:35.9540089+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:03:27.1839083+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:06:39.153437+00:00"
 }

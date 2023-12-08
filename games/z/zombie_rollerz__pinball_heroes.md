@@ -44,10 +44,10 @@ Rating: 4.29 (Ranked 852)
 | Tested | 8.00% | ~16 |
 | Highway to Hell | 7.00% | ~14 |
 | Power Overwhelming | 6.00% | ~12 |
+| The Exorcist | 6.00% | ~12 |
 | The Astronaut | 6.00% | ~12 |
 | Mithril | 6.00% | ~12 |
 | Anvil | 6.00% | ~12 |
-| The Exorcist | 5.00% | ~10 |
 | Aluminum | 5.00% | ~10 |
 | Analyzed | 4.00% | ~8 |
 | It's a Trap! | 3.00% | ~6 |
@@ -64,6 +64,7 @@ Rating: 4.29 (Ranked 852)
 | Immortality | 2.00% | ~4 |
 | Titanium | 2.00% | ~4 |
 | Rocket | 2.00% | ~4 |
+| Encore | 2.00% | ~4 |
 | Adamantite | 2.00% | ~4 |
 | Nuclear Bomb | 2.00% | ~4 |
 | Concluded | 2.00% | ~4 |
@@ -75,12 +76,11 @@ Rating: 4.29 (Ranked 852)
 | Zombie Hunter | 1.00% | ~2 |
 | Inferno | 1.00% | ~2 |
 | Sapphire | 1.00% | ~2 |
-| Encore | 1.00% | ~2 |
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 199 (Ranked 393)  
-Completed: 1 (0.50%) (Ranked 210)  
+Completed: 1 (0.50%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

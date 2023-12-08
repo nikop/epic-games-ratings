@@ -7,16 +7,16 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~372,928 |
-| Now You're Talking | 62.00% | ~330,307 |
-| Steel Yourself | 62.00% | ~330,307 |
-| Window Dressing | 50.00% | ~266,377 |
+| Now You're Talking | 62.00% | ~330,308 |
+| Steel Yourself | 62.00% | ~330,308 |
+| Window Dressing | 50.00% | ~266,378 |
 | Trigger Happy | 46.00% | ~245,067 |
-| Riverborn | 45.00% | ~239,739 |
-| Starry Eyed | 34.00% | ~181,136 |
-| Poking Around | 34.00% | ~181,136 |
+| Riverborn | 45.00% | ~239,740 |
+| Starry Eyed | 34.00% | ~181,137 |
+| Poking Around | 34.00% | ~181,137 |
 | Talk of the Town | 24.00% | ~127,861 |
-| AAARR! | 23.00% | ~122,533 |
-| Hello Darkness | 23.00% | ~122,533 |
+| AAARR! | 23.00% | ~122,534 |
+| Hello Darkness | 23.00% | ~122,534 |
 | Wind At Our Backs | 22.00% | ~117,206 |
 | To the Beat | 20.00% | ~106,551 |
 | Sunny Shores | 17.00% | ~90,568 |
@@ -26,8 +26,8 @@ Number of Ratings: 617  (23.09.2022)
 | Keep On Trucking | 13.00% | ~69,258 |
 | Going on an Adventure | 11.00% | ~58,603 |
 | Make Peace, Not War | 11.00% | ~58,603 |
-| Walking The Line | 10.00% | ~53,275 |
-| Not So Cute Anymore | 10.00% | ~53,275 |
+| Walking The Line | 10.00% | ~53,276 |
+| Not So Cute Anymore | 10.00% | ~53,276 |
 | Road Less Travelled | 9.00% | ~47,948 |
 | Lost and Found | 9.00% | ~47,948 |
 | Under the Radar | 8.00% | ~42,620 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,598 |
 | Point Taken | 0.20% | ~1,066 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532,754 (Ranked 35)  
+Progressed: 532,755 (Ranked 35)  
 Completed: 505 (0.09%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,10 +296,10 @@ Completed: 505 (0.09%) (Ranked 297)
 | 2023-12-05 | 532,582 | 504 |
 | 2023-12-06 | 532,625 | 505 |
 | 2023-12-07 | 532,687 | 505 |
-| 2023-12-08 | 532,754 | 505 |
+| 2023-12-08 | 532,755 | 505 |
 ## Awards
-Max (Relaxing): 20  (Ranked 551)  
-Sum: 20 (Ranked 552)  
+Max (Relaxing): 20  (Ranked 552)  
+Sum: 20 (Ranked 553)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |

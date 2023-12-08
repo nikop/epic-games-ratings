@@ -5,18 +5,18 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 59.00% | ~313 |
-| The Teleprobe | 48.00% | ~254 |
-| The City | 44.00% | ~233 |
+| The Teleprobe | 48.00% | ~255 |
+| The City | 44.00% | ~234 |
 | The field base | 40.00% | ~212 |
-| Survivors | 34.00% | ~180 |
+| Survivors | 34.00% | ~181 |
 | The Condor | 32.00% | ~170 |
-| The End | 31.00% | ~164 |
-| The Alliance | 25.00% | ~132 |
-| The Necroevolution | 25.00% | ~132 |
-| Peacemaker | 22.00% | ~117 |
-| Krauta is alive | 22.00% | ~117 |
+| The End | 31.00% | ~165 |
+| The Alliance | 25.00% | ~133 |
+| The Necroevolution | 25.00% | ~133 |
+| Krauta is alive | 23.00% | ~122 |
+| Peacemaker | 21.00% | ~112 |
 | Volcanologist | 20.00% | ~106 |
-| On her own | 18.00% | ~95 |
+| On her own | 18.00% | ~96 |
 | Beyond divisions | 17.00% | ~90 |
 | Evacuation | 16.00% | ~85 |
 | Fierce fight | 15.00% | ~80 |
@@ -27,14 +27,14 @@
 | Innate curiosity | 8.00% | ~42 |
 | The Invincible | 6.00% | ~32 |
 | I leave no man behind | 6.00% | ~32 |
-| Strong objection | 5.00% | ~26 |
+| Strong objection | 5.00% | ~27 |
 | Ubiquitous holes | 4.00% | ~21 |
 | Got lost again | 4.00% | ~21 |
 | I leave no man behind (no exceptions) | 2.00% | ~11 |
 | Convoy list | 0.90% | ~5 |
 | No more mistakes | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530 (Ranked 313)  
+Progressed: 531 (Ranked 313)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,4 +67,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-05 | 517 | 0 |
 | 2023-12-06 | 523 | 0 |
 | 2023-12-07 | 525 | 0 |
-| 2023-12-08 | 530 | 0 |
+| 2023-12-08 | 531 | 0 |

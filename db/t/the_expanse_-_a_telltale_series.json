@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 534,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 145,
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15987,
+  "EOS_Progressed": 15988,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13364,6 +13364,11 @@
       "Time": "2023-12-08T22:04:49.0042778+00:00",
       "NumProgressed": 15987,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-08T23:04:52.8065286+00:00",
+      "NumProgressed": 15988,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13400,7 +13405,7 @@
       "Name": "Data Archivist",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "13",
@@ -13408,7 +13413,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "14",
@@ -13472,7 +13477,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "21",
@@ -13512,7 +13517,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "26",
@@ -13648,20 +13653,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15987,
+      "Progressed": 15988,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1941,
+      "Progressed": 1942,
       "Completed": 844
     }
   ],
@@ -13669,8 +13674,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-07T17:57:36.8969362+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:04:49.0042772+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:04:52.8065281+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:58:45.6278008+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:04:49.0043738+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:58:54.4174585+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:04:52.8066244+00:00"
 }

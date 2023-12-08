@@ -3,12 +3,12 @@
   "Name": "Dice Legacy",
   "ProductSlug": "dice-legacy",
   "Ranking_Rating": 875,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -53,7 +53,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1187,
+  "EOS_Progressed": 1188,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
@@ -2248,6 +2248,11 @@
       "Time": "2023-12-08T16:04:40.1039355+00:00",
       "NumProgressed": 1187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T23:05:36.9445186+00:00",
+      "NumProgressed": 1188,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2315,7 +2320,7 @@
       "Name": "Charismatic Leader",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CHALLENGE_SCORTCHINGSUMMER",
@@ -2323,7 +2328,7 @@
       "Name": "Metropolis",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CONTAINERS_FIVE_ONFIRE",
@@ -2355,7 +2360,7 @@
       "Name": "Just Chilling",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "DIE_ALL_TYPEGROUPS",
@@ -2387,7 +2392,7 @@
       "Name": "Incredible Strength",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ENDING_TRUE",
@@ -2611,14 +2616,14 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1187,
+      "Progressed": 1188,
       "Completed": 0
     }
   ],
@@ -2626,8 +2631,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-11-18T18:58:25.1922744+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:05:33.7919677+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:05:36.9445182+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:25.2569096+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:03:12.1464225+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:05:33.792017+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:03:17.1591161+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:05:36.9445711+00:00"
 }

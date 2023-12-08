@@ -3,12 +3,12 @@
   "Name": "Tandem: A Tale of Shadows",
   "ProductSlug": "tandem-a-tale-of-shadows-c3f55e",
   "Ranking_Rating": 909,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-10-21T16:00:00+00:00",
     "PcReleaseDate": "2021-10-21T16:00:00+00:00",
@@ -209,6 +209,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.4599545+00:00",
   "LastChanged": "2023-12-08T16:02:38.8336274+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:21.0736935+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:02:58.7493759+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:08:23.2904092+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:03:04.0027822+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:08:25.3960985+00:00"
 }

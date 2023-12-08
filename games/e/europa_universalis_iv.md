@@ -260,6 +260,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trustworthy | 0.10% | ~471 |
 | Turning the Tide | 0.10% | ~471 |
 | Vasa or Wettin? | 0.10% | ~471 |
+| Victorian Three | 0.10% | ~471 |
 | Viva la Revolución! | 0.10% | ~471 |
 | Voltaire's Nightmare | 0.10% | ~471 |
 | Voting Streak | 0.10% | ~471 |
@@ -362,7 +363,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turtles all the way down | 0.00% | ~0 |
 | Ultimate Military | 0.00% | ~0 |
 | Venetian Sea | 0.00% | ~0 |
-| Victorian Three | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | Where are the penguins? | 0.00% | ~0 |
 | Why is the Rûm gone!? | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,361 (Ranked 42)  
+Progressed: 471,386 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -602,10 +602,10 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-05 | 469,827 | 1 |
 | 2023-12-06 | 470,325 | 1 |
 | 2023-12-07 | 470,773 | 1 |
-| 2023-12-08 | 471,361 | 1 |
+| 2023-12-08 | 471,386 | 1 |
 ## Awards
 Max (Educational): 7,307  (Ranked 54)  
-Sum: 60,156 (Ranked 24)  
+Sum: 60,170 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -615,7 +615,7 @@ Diff (max vs sum): 30
 | This game has Challenging Combat | 6,931 |
 | This game is Extremely Fun | 6,857 |
 | This game is Relaxing | 6,720 |
-| This game has Competitive Players | 6,546 |
+| This game has Competitive Players | 6,560 |
 | This game has Amazing Storytelling | 6,072 |
 | This game has Amazing Characters | 5,634 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -947,4 +947,4 @@ Diff (max vs sum): 30
 | 2023-12-05 | 4.69 | - | 7,265 | 59,886 |
 | 2023-12-06 | 4.69 | - | 7,282 | 59,979 |
 | 2023-12-07 | 4.69 | - | 7,292 | 60,067 |
-| 2023-12-08 | 4.69 | - | 7,307 | 60,156 |
+| 2023-12-08 | 4.69 | - | 7,307 | 60,170 |

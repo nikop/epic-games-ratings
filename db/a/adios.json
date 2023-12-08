@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1057,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 105,
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80105,
+  "EOS_Progressed": 80106,
   "EOS_Completed": 866,
-  "EOS_NewPlayers": 545,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -26013,6 +26013,11 @@
       "Time": "2023-12-08T22:05:26.0230707+00:00",
       "NumProgressed": 80105,
       "NumCompleted": 866
+    },
+    {
+      "Time": "2023-12-08T23:05:29.3034932+00:00",
+      "NumProgressed": 80106,
+      "NumCompleted": 866
     }
   ],
   "TotalAchievements": 25,
@@ -26112,7 +26117,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7209
+      "UsersEstimate": 7210
     },
     {
       "ID": "Magnetic Miracles",
@@ -26223,7 +26228,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80105,
+      "Progressed": 80106,
       "Completed": 866
     }
   ],
@@ -26231,8 +26236,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:05:26.0230702+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:05:29.3034929+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:32.9169393+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:57:34.4203653+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:05:26.023242+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:57:43.2592701+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:05:29.3036534+00:00"
 }

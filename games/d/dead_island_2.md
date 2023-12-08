@@ -23,19 +23,19 @@ Rating: 4.54 (Ranked 534)
 | This is My Weapon | 2.00% | ~14,639 |
 | Welcome To Hell-A | 2.00% | ~14,639 |
 | One of Us | 2.00% | ~1,150 |
-| Making Your Mark | 1.00% | ~7,319 |
-| Perks of the Job | 1.00% | ~7,319 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,319 |
-| Slayer Squad | 1.00% | ~7,319 |
-| Can't Handle the Truth | 1.00% | ~7,319 |
-| Like Riding a Bike | 1.00% | ~7,319 |
-| Zombologist | 1.00% | ~7,319 |
-| Ooh, Shiny! | 1.00% | ~7,319 |
-| A Patton Emerges | 1.00% | ~7,319 |
-| Humanity Distilled | 1.00% | ~7,319 |
-| I Am the Resurrection | 1.00% | ~7,319 |
-| Max Headroom | 1.00% | ~7,319 |
-| Our True Nature | 1.00% | ~7,319 |
+| Making Your Mark | 1.00% | ~7,320 |
+| Perks of the Job | 1.00% | ~7,320 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,320 |
+| Slayer Squad | 1.00% | ~7,320 |
+| Can't Handle the Truth | 1.00% | ~7,320 |
+| Like Riding a Bike | 1.00% | ~7,320 |
+| Zombologist | 1.00% | ~7,320 |
+| Ooh, Shiny! | 1.00% | ~7,320 |
+| A Patton Emerges | 1.00% | ~7,320 |
+| Humanity Distilled | 1.00% | ~7,320 |
+| I Am the Resurrection | 1.00% | ~7,320 |
+| Max Headroom | 1.00% | ~7,320 |
+| Our True Nature | 1.00% | ~7,320 |
 | Down with the Sickness | 0.90% | ~6,588 |
 | Not Even My Final Form | 0.80% | ~5,856 |
 | Jumbo Keyring | 0.80% | ~5,856 |
@@ -55,9 +55,9 @@ Rating: 4.54 (Ranked 534)
 | Lawn and Order | 0.20% | ~115 |
 | Donk! | 0.10% | ~732 |
 | Bucket List | 0.10% | ~732 |
-| Wilhelm | 0.10% | ~57 |
+| Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,945 (Ranked 21)  
+Progressed: 731,964 (Ranked 21)  
 Completed: 2,466 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2,466 (0.34%) (Ranked 234)
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
-| 2023-12-08 | 731,945 | 2,466 |
+| 2023-12-08 | 731,964 | 2,466 |
 ## Awards
 Max (Great Boss Battles): 8,017  (Ranked 49)  
 Sum: 12,319 (Ranked 82)  

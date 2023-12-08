@@ -6,8 +6,8 @@ Rating: 4.75 (Ranked 146)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.80% | ~1,896 |
-| Regicide | 0.80% | ~129 |
-| Master of the Dark Arts | 0.80% | ~129 |
+| Regicide | 0.80% | ~130 |
+| Master of the Dark Arts | 0.80% | ~130 |
 | First of Many | 0.70% | ~1,659 |
 | Not Your Average Trait | 0.60% | ~1,422 |
 | Expanding Horizons | 0.50% | ~1,185 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 146)
 | You Shall Pass | 0.20% | ~32 |
 | A Foul Feast | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,017 (Ranked 66)  
+Progressed: 237,044 (Ranked 66)  
 Completed: 572 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,10 +206,10 @@ Completed: 572 (0.24%) (Ranked 251)
 | 2023-12-05 | 235,528 | 561 |
 | 2023-12-06 | 236,074 | 564 |
 | 2023-12-07 | 236,590 | 567 |
-| 2023-12-08 | 237,017 | 572 |
+| 2023-12-08 | 237,044 | 572 |
 ## Awards
 Max (Great Boss Battles): 2,690  (Ranked 102)  
-Sum: 6,674 (Ranked 127)  
+Sum: 6,681 (Ranked 127)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -221,7 +221,7 @@ Diff (max vs sum): -25
 | This game is Relaxing | 411 |
 | This game is Extremely Fun | 410 |
 | This game has Amazing Characters | 407 |
-| This game has Quickly Understood Controls | 397 |
+| This game has Quickly Understood Controls | 404 |
 | This game has Unique Visuals | 352 |
 | This game has a Creative Community | 301 |
 ## Ratings History
@@ -362,4 +362,4 @@ Diff (max vs sum): -25
 | 2023-12-05 | 4.75 | 2,649 | 6,547 |
 | 2023-12-06 | 4.75 | 2,668 | 6,588 |
 | 2023-12-07 | 4.75 | 2,678 | 6,634 |
-| 2023-12-08 | 4.75 | 2,690 | 6,674 |
+| 2023-12-08 | 4.75 | 2,690 | 6,681 |

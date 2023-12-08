@@ -632,9 +632,9 @@
       "ID": "dont_fear_the_baldness",
       "SetID": "202dmm8",
       "Name": "Don\u0027t fear the baldness",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "instinct",
@@ -672,9 +672,9 @@
       "ID": "prove_it",
       "SetID": "202dmm8",
       "Name": "Prove it",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "sorry_kiddo",
@@ -688,9 +688,9 @@
       "ID": "the_truth",
       "SetID": "202dmm8",
       "Name": "The truth",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "the_whole_truth",
@@ -729,8 +729,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:10:01.3081799+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:10:02.9206753+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:20.7396665+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:57:30.5661048+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:10:01.3081947+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:57:39.6062185+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:10:02.9206876+00:00"
 }

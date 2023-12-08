@@ -2,13 +2,13 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 887,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Rating": 888,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2219,
+  "EOS_Progressed": 2220,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3277,6 +3277,11 @@
       "Time": "2023-12-02T13:07:27.9799018+00:00",
       "NumProgressed": 2219,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-08T23:04:08.4188879+00:00",
+      "NumProgressed": 2220,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3304,7 +3309,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACHV_04",
@@ -3328,7 +3333,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACHV_07",
@@ -3454,9 +3459,9 @@
       "ID": "ACHV_22",
       "SetID": "8p5mlmc",
       "Name": "Offensive Defense",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 444
     },
     {
       "ID": "ACHV_23",
@@ -3464,7 +3469,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACHV_24",
@@ -3488,7 +3493,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "ACHV_27",
@@ -3510,9 +3515,9 @@
       "ID": "ACHV_29",
       "SetID": "8p5mlmc",
       "Name": "Triplets",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 222
     },
     {
       "ID": "ACHV_30",
@@ -3528,7 +3533,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACHV_32",
@@ -3576,7 +3581,7 @@
       "Name": "Luminary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACHV_38",
@@ -3584,7 +3589,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACHV_39",
@@ -3608,7 +3613,7 @@
       "Name": "Suited and Booted",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACHV_42",
@@ -3624,7 +3629,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACHV_44",
@@ -3743,7 +3748,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2219,
+      "Progressed": 2220,
       "Completed": 13
     }
   ],
@@ -3751,8 +3756,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:04:04.4442374+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:04:08.4188875+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:22.233164+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:57:07.3705376+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:04:04.4443399+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:57:16.0614345+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:04:08.4189357+00:00"
 }

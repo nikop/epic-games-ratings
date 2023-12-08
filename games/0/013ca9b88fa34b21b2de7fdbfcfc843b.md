@@ -5,18 +5,18 @@ Rating: 4.58 (Ranked 451)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~6,017 |
-| A Thorny Situation | 70.00% | ~5,850 |
-| ... And Spit Back Out | 61.00% | ~5,098 |
-| Break-Net Speed | 49.00% | ~4,095 |
-| Bramble Breaker | 47.00% | ~3,928 |
+| Azoria Beckons | 72.00% | ~6,018 |
+| A Thorny Situation | 70.00% | ~5,851 |
+| ... And Spit Back Out | 61.00% | ~5,099 |
+| Break-Net Speed | 49.00% | ~4,096 |
+| Bramble Breaker | 47.00% | ~3,929 |
 | Miner 49er | 43.00% | ~3,594 |
 | Humble Collector | 43.00% | ~3,594 |
-| Calm Sailing | 37.00% | ~3,092 |
-| Open the Gate! | 34.00% | ~2,841 |
-| Mist Walker | 32.00% | ~2,674 |
-| Lumberjack | 27.00% | ~2,256 |
-| Oui, Chef! | 23.00% | ~1,922 |
+| Calm Sailing | 37.00% | ~3,093 |
+| Open the Gate! | 34.00% | ~2,842 |
+| Mist Walker | 32.00% | ~2,675 |
+| Lumberjack | 27.00% | ~2,257 |
+| Oui, Chef! | 23.00% | ~1,923 |
 | Clear the Air | 19.00% | ~1,588 |
 | Botanical Breakthrough | 17.00% | ~1,421 |
 | Search for the Hairy Grell | 14.00% | ~1,170 |
@@ -28,8 +28,8 @@ Rating: 4.58 (Ranked 451)
 | Got to Catch Them All | 8.00% | ~669 |
 | Rumble in the Jumble | 8.00% | ~669 |
 | Fanatical Farmer | 8.00% | ~669 |
-| Scattered Scroll Scrounger | 6.00% | ~501 |
-| Azorian Anniversary | 6.00% | ~501 |
+| Scattered Scroll Scrounger | 6.00% | ~502 |
+| Azorian Anniversary | 6.00% | ~502 |
 | I Now Pronounce You... | 5.00% | ~418 |
 | Chatty Neighbor | 4.00% | ~334 |
 | Right Tool For the Job | 4.00% | ~334 |
@@ -41,7 +41,7 @@ Rating: 4.58 (Ranked 451)
 | Very Skilled | 0.20% | ~17 |
 | Workaholic | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,357 (Ranked 175)  
+Progressed: 8,359 (Ranked 175)  
 Completed: 1 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 1 (0.01%) (Ranked 348)
 | 2023-12-05 | 8,295 | 1 |
 | 2023-12-06 | 8,323 | 1 |
 | 2023-12-07 | 8,341 | 1 |
-| 2023-12-08 | 8,357 | 1 |
+| 2023-12-08 | 8,359 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -10,7 +10,7 @@
 | Storm Traveller | 58.00% | ~332 |
 | Wolf King Killer | 53.00% | ~303 |
 | Fashion Connoisseur | 51.00% | ~292 |
-| Arms Mechanic | 47.00% | ~269 |
+| Arms Mechanic | 48.00% | ~275 |
 | Flower Thief | 42.00% | ~240 |
 | Beginner Artificer | 37.00% | ~212 |
 | Apostle of Flame | 36.00% | ~206 |

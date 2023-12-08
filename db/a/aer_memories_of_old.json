@@ -3,12 +3,12 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 666,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25805,
+  "EOS_Progressed": 25810,
   "EOS_Completed": 485,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.88,
   "EosHistory": [
@@ -25374,6 +25374,11 @@
       "Time": "2023-12-08T22:06:56.8272021+00:00",
       "NumProgressed": 25805,
       "NumCompleted": 485
+    },
+    {
+      "Time": "2023-12-08T23:06:59.3144269+00:00",
+      "NumProgressed": 25810,
+      "NumCompleted": 485
     }
   ],
   "TotalAchievements": 20,
@@ -25385,7 +25390,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -25409,7 +25414,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -25425,7 +25430,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2580
+      "UsersEstimate": 2581
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -25433,7 +25438,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -25465,7 +25470,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "FOUND_MAMBA",
@@ -25473,7 +25478,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -25489,7 +25494,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "GAME_FINISHED",
@@ -25505,7 +25510,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19612
+      "UsersEstimate": 19616
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -25513,7 +25518,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6967
+      "UsersEstimate": 6969
     },
     {
       "ID": "NORTH_FINISHED",
@@ -25529,7 +25534,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "WEST_FINISHED",
@@ -25537,22 +25542,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4645
+      "UsersEstimate": 4646
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25805,
+      "Progressed": 25810,
       "Completed": 485
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:06:56.8272017+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:06:59.3144264+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.5744721+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:59:12.9351086+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:06:56.8274298+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:59:20.8787329+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:06:59.3145768+00:00"
 }

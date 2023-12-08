@@ -4,8 +4,8 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 530,
+  "EOS_Progressed": 531,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1525,6 +1525,11 @@
       "Time": "2023-12-08T17:09:22.0315133+00:00",
       "NumProgressed": 530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T23:09:39.335271+00:00",
+      "NumProgressed": 531,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1537,7 +1542,7 @@
       "Name": "The Teleprobe",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "AchvAllMemories",
@@ -1553,7 +1558,7 @@
       "Name": "On her own",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "AchvBattleScore",
@@ -1567,9 +1572,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 117
+      "UsersEstimate": 112
     },
     {
       "ID": "AchvBombing",
@@ -1601,7 +1606,7 @@
       "Name": "The Alliance",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "AchvDoom",
@@ -1631,9 +1636,9 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 122
     },
     {
       "ID": "AchvLava",
@@ -1665,7 +1670,7 @@
       "Name": "The Necroevolution",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "AchvNest",
@@ -1697,7 +1702,7 @@
       "Name": "Strong objection",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "AchvReachBase",
@@ -1721,7 +1726,7 @@
       "Name": "The City",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "AchvReachCondor",
@@ -1737,7 +1742,7 @@
       "Name": "Survivors",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1753,7 +1758,7 @@
       "Name": "The End",
       "Percentage": 31,
       "XP": 55,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "AchvUnity",
@@ -1768,14 +1773,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 530,
+      "Progressed": 531,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:09:37.6022226+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:09:39.3352706+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:01:17.1743976+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:09:37.6022575+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:01:24.7307316+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:09:39.3352903+00:00"
 }

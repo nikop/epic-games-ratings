@@ -4,11 +4,11 @@
   "ProductSlug": "neon-abyss",
   "Ranking_Rating": 258,
   "Ranking_Popularity": 185,
-  "Ranking_PopularitySum": 133,
+  "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-07-29T15:00:00+00:00",
     "PcReleaseDate": "2020-07-29T15:00:00+00:00",
@@ -4185,10 +4185,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 5557,
       "NumberOfAwardsMax": 714
+    },
+    {
+      "Time": "2023-12-08T23:00:52.2592052+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 5558,
+      "NumberOfAwardsMax": 714
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5557,
+  "NumberOfAwards": 5558,
   "NumberOfAwardsMax": 714,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4214,7 +4220,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 594
+      "Count": 595
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4264,8 +4270,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2023-12-08T16:59:47.4293547+00:00",
+  "LastChanged": "2023-12-08T23:00:52.2592051+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:27.9973133+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:00:44.6528722+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:05:52.5309728+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:00:52.2592057+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:05:55.7789552+00:00"
 }

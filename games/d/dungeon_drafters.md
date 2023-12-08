@@ -24,10 +24,10 @@
 | The Apprentice | 6.00% | ~6 |
 | The Familiar | 6.00% | ~6 |
 | Traveler Mastery | 5.00% | ~5 |
+| Warden Mastery | 5.00% | ~5 |
 | The Plot Thickens | 5.00% | ~5 |
 | Ancient Nemesis | 4.00% | ~4 |
 | Raider Mastery | 4.00% | ~4 |
-| Warden Mastery | 4.00% | ~4 |
 | The False Prophet | 3.00% | ~3 |
 | Sealed Once Again | 3.00% | ~3 |
 | ACHOO! | 3.00% | ~3 |

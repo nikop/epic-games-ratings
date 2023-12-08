@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3163,
+  "EOS_Progressed": 3164,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9231,6 +9231,11 @@
       "Time": "2023-12-08T22:06:06.9002966+00:00",
       "NumProgressed": 3163,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T23:06:10.4105396+00:00",
+      "NumProgressed": 3164,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9426,7 +9431,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "fourleafclover",
@@ -9514,7 +9519,7 @@
       "Name": "Inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "jewelenchanting",
@@ -9578,7 +9583,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "missionsdedication",
@@ -9634,7 +9639,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "prestigiousx10",
@@ -9802,7 +9807,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2943
     },
     {
       "ID": "warmachinesarmy",
@@ -9834,14 +9839,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2467
+      "UsersEstimate": 2468
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3163,
+      "Progressed": 3164,
       "Completed": 2
     }
   ],
@@ -9849,8 +9854,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-07T20:58:20.4746595+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:06:06.9002963+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:06:10.4105392+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:59:37.0791099+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:06:06.9004283+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:59:44.3809073+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:06:10.4106862+00:00"
 }

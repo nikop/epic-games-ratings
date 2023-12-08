@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 85.00% | ~52 |
-| Air Fighter | 80.00% | ~49 |
-| Oo-De-Lally | 67.00% | ~41 |
-| The Altruist | 67.00% | ~41 |
-| Treasure Hunter | 66.00% | ~40 |
-| Watch your Step! | 57.00% | ~35 |
-| Tap Dancing | 52.00% | ~32 |
-| MAX LEVEL | 51.00% | ~31 |
-| Right between the eyes | 48.00% | ~29 |
-| Spring Board | 48.00% | ~29 |
-| Starry Night | 41.00% | ~25 |
-| Rebel Unleashed | 41.00% | ~25 |
-| Locksley's Tears | 38.00% | ~23 |
-| Merry Co-operation | 33.00% | ~20 |
-| Assault on the Ram | 33.00% | ~20 |
+| Act of Kindness | 85.00% | ~53 |
+| Air Fighter | 81.00% | ~50 |
+| Oo-De-Lally | 66.00% | ~41 |
+| Treasure Hunter | 66.00% | ~41 |
+| The Altruist | 66.00% | ~41 |
+| Watch your Step! | 56.00% | ~35 |
+| Tap Dancing | 53.00% | ~33 |
+| MAX LEVEL | 50.00% | ~31 |
+| Right between the eyes | 47.00% | ~29 |
+| Spring Board | 47.00% | ~29 |
+| Starry Night | 42.00% | ~26 |
+| Rebel Unleashed | 40.00% | ~25 |
+| Locksley's Tears | 37.00% | ~23 |
+| Merry Co-operation | 32.00% | ~20 |
+| Assault on the Ram | 32.00% | ~20 |
 | Finish Him! | 31.00% | ~19 |
-| Savior | 28.00% | ~17 |
+| Savior | 27.00% | ~17 |
 | Ultra Rebel Instinct | 26.00% | ~16 |
 | Take Action! | 23.00% | ~14 |
 | First Aid | 23.00% | ~14 |
@@ -33,8 +33,8 @@
 | Into the Lion's Den | 10.00% | ~6 |
 | Bold and Bossy | 8.00% | ~5 |
 | Sky High Fighter | 8.00% | ~5 |
-| The Gang prevails | 7.00% | ~4 |
-| Out of the ring | 7.00% | ~4 |
+| The Gang prevails | 6.00% | ~4 |
+| Out of the ring | 6.00% | ~4 |
 | King of the Iron Fist | 5.00% | ~3 |
 | No Mercy | 5.00% | ~3 |
 | Power of Friendship! | 3.00% | ~2 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 492)  
+Progressed: 62 (Ranked 492)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,4 +77,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-05 | 58 | 0 |
 | 2023-12-06 | 59 | 0 |
 | 2023-12-07 | 60 | 0 |
-| 2023-12-08 | 61 | 0 |
+| 2023-12-08 | 62 | 0 |

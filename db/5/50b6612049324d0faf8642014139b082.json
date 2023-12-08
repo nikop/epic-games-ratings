@@ -3,12 +3,12 @@
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
   "Ranking_Rating": 830,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -129,7 +129,7 @@
   "Tags": [],
   "EOS_Progressed": 763,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2134,8 +2134,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-08T18:58:09.7993427+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:10:34.0742956+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:10:36.1873004+00:00",
   "LastUpdate_AppInfo": "2023-12-05T21:56:59.3509515+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:58:35.6048266+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:10:34.0743205+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:58:44.4317879+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:10:36.1873295+00:00"
 }

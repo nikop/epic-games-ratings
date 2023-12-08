@@ -3,12 +3,12 @@
   "Name": "Dark Light",
   "ProductSlug": "dark-light",
   "Ranking_Rating": 795,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-09-30T15:00:00+00:00",
     "PcReleaseDate": "2022-09-30T15:00:00+00:00",
@@ -101,6 +101,6 @@
   "FirstSeenRating": "2022-11-17T06:58:12.9972323+00:00",
   "LastChanged": "2023-10-14T20:02:43.5821333+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:23.41595+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:58:37.1521405+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:05:59.8095944+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:58:45.9561781+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:06:03.1624511+00:00"
 }

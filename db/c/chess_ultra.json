@@ -3,12 +3,12 @@
   "Name": "Chess Ultra",
   "ProductSlug": "chess-ultra-91bba3",
   "Ranking_Rating": 847,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -449,9 +449,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221151,
+  "EOS_Progressed": 221157,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 989,
+  "EOS_NewPlayers": 987,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26949,6 +26949,11 @@
       "Time": "2023-12-08T22:08:58.6597091+00:00",
       "NumProgressed": 221151,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T23:09:00.6058533+00:00",
+      "NumProgressed": 221157,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -26960,7 +26965,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 103941
+      "UsersEstimate": 103944
     },
     {
       "ID": "AlekhinesGun",
@@ -27008,7 +27013,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 121633
+      "UsersEstimate": 121636
     },
     {
       "ID": "Checkmate",
@@ -27016,7 +27021,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 66345
+      "UsersEstimate": 66347
     },
     {
       "ID": "ChessChampion",
@@ -27032,7 +27037,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 154806
+      "UsersEstimate": 154810
     },
     {
       "ID": "DoubleCheck",
@@ -27048,7 +27053,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 126056
+      "UsersEstimate": 126059
     },
     {
       "ID": "Elo",
@@ -27128,7 +27133,7 @@
       "Name": "O-O",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 53076
+      "UsersEstimate": 53078
     },
     {
       "ID": "O-O-O",
@@ -27176,7 +27181,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 68557
+      "UsersEstimate": 68559
     },
     {
       "ID": "QueenSacrifice",
@@ -27184,7 +27189,7 @@
       "Name": "Queen Sacrifice",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 44230
+      "UsersEstimate": 44231
     },
     {
       "ID": "ScholarsMate",
@@ -27200,7 +27205,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 46442
+      "UsersEstimate": 46443
     },
     {
       "ID": "Stalemate",
@@ -27208,7 +27213,7 @@
       "Name": "Stalemate",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 39807
+      "UsersEstimate": 39808
     },
     {
       "ID": "StrangerDanger",
@@ -27216,7 +27221,7 @@
       "Name": "Stranger Danger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 26538
+      "UsersEstimate": 26539
     },
     {
       "ID": "TournamentAmateur",
@@ -27263,7 +27268,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 221151,
+      "Progressed": 221157,
       "Completed": 2
     }
   ],
@@ -27271,8 +27276,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-12-01T13:07:49.2205342+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:08:58.6597086+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:09:00.6058529+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:19.3584195+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:02:45.2174519+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:08:58.6598775+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:02:50.8895796+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:09:00.6059733+00:00"
 }

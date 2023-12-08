@@ -16,15 +16,15 @@ Number of Ratings: 90  (23.09.2022)
 | Cult Following | 8.00% | ~2 |
 | Bodied Sattva | 8.00% | ~2 |
 | Kaijuiced | 8.00% | ~2 |
+| Scuttled | 8.00% | ~2 |
+| Upgreatest | 8.00% | ~2 |
 | Pimp My Raid | 8.00% | ~2 |
 | Perfect Probulator | 4.00% | ~1 |
 | Lie Back and Think of Albion | 4.00% | ~1 |
 | Fly Me to the Moon Base | 4.00% | ~1 |
 | Freshly Squeezed | 4.00% | ~1 |
 | Die Nasty | 4.00% | ~1 |
-| Scuttled | 4.00% | ~1 |
 | Earthly Pleasures | 4.00% | ~1 |
-| Upgreatest | 4.00% | ~1 |
 | Dusted | 4.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |

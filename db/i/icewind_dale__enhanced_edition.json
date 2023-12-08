@@ -3,12 +3,12 @@
   "Name": "Icewind Dale: Enhanced Edition",
   "ProductSlug": "icewind-dale-enhanced-edition",
   "Ranking_Rating": 82,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-28T15:00:00+00:00",
     "PcReleaseDate": "2014-10-30T20:52:17+00:00",
@@ -83,6 +83,6 @@
   "FirstSeenRating": "2022-12-03T17:58:19.7648385+00:00",
   "LastChanged": "2023-11-02T06:59:24.5357297+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:28.7879862+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:00:36.0945904+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:05:08.2949109+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:00:43.7075236+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:05:11.8371989+00:00"
 }

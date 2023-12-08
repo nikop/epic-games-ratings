@@ -3,11 +3,11 @@
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
   "Ranking_Rating": 642,
-  "Ranking_Popularity": 551,
-  "Ranking_PopularitySum": 552,
+  "Ranking_Popularity": 552,
+  "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 532754,
+  "EOS_Progressed": 532755,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -25077,6 +25077,11 @@
       "Time": "2023-12-08T22:05:39.7189487+00:00",
       "NumProgressed": 532754,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-12-08T23:05:43.1252134+00:00",
+      "NumProgressed": 532755,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 57,
@@ -25088,7 +25093,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 122533
+      "UsersEstimate": 122534
     },
     {
       "ID": "10",
@@ -25096,7 +25101,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 239739
+      "UsersEstimate": 239740
     },
     {
       "ID": "11",
@@ -25136,7 +25141,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53275
+      "UsersEstimate": 53276
     },
     {
       "ID": "16",
@@ -25168,7 +25173,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 330307
+      "UsersEstimate": 330308
     },
     {
       "ID": "2",
@@ -25176,7 +25181,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 53275
+      "UsersEstimate": 53276
     },
     {
       "ID": "20",
@@ -25312,7 +25317,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 266377
+      "UsersEstimate": 266378
     },
     {
       "ID": "36",
@@ -25344,7 +25349,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 181136
+      "UsersEstimate": 181137
     },
     {
       "ID": "4",
@@ -25416,7 +25421,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 330307
+      "UsersEstimate": 330308
     },
     {
       "ID": "48",
@@ -25432,7 +25437,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 181136
+      "UsersEstimate": 181137
     },
     {
       "ID": "5",
@@ -25472,7 +25477,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122533
+      "UsersEstimate": 122534
     },
     {
       "ID": "54",
@@ -25543,15 +25548,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 532754,
+      "Progressed": 532755,
       "Completed": 505
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:05:39.7189483+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:05:43.125213+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:19.4702367+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:01:05.9039489+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:05:39.7191004+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:01:13.4585823+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:05:43.1253821+00:00"
 }

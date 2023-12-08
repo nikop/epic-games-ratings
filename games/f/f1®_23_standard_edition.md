@@ -5,21 +5,21 @@ Rating: 4.68 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,704 |
+| Getting on the Step | 94.00% | ~5,705 |
 | On the Top Step | 89.00% | ~5,401 |
-| Setting up for Success | 79.00% | ~4,794 |
+| Setting up for Success | 79.00% | ~4,795 |
 | Team Orders | 76.00% | ~4,612 |
-| Engineer | 56.00% | ~3,398 |
-| Familiar Faces | 49.00% | ~2,973 |
+| Engineer | 56.00% | ~3,399 |
+| Familiar Faces | 49.00% | ~2,974 |
 | Sharing the Love | 44.00% | ~2,670 |
-| Going the Extra Mile | 43.00% | ~2,609 |
+| Going the Extra Mile | 43.00% | ~2,610 |
 | Hitting a Season | 42.00% | ~2,549 |
 | A Dozen Pieces | 35.00% | ~2,124 |
 | Challenge Yourself | 34.00% | ~2,063 |
 | Making History | 32.00% | ~1,942 |
 | Network Success | 29.00% | ~1,760 |
 | Writing a new Chapter | 26.00% | ~1,578 |
-| Spring Cleaning | 24.00% | ~1,456 |
+| Spring Cleaning | 24.00% | ~1,457 |
 | Reduce | 21.00% | ~1,274 |
 | Ups and Downs | 21.00% | ~1,274 |
 | Crucial Combo | 20.00% | ~1,214 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 258)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,068 (Ranked 186)  
+Progressed: 6,069 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-05 | 6,039 | 0 |
 | 2023-12-06 | 6,050 | 0 |
 | 2023-12-07 | 6,064 | 0 |
-| 2023-12-08 | 6,068 | 0 |
+| 2023-12-08 | 6,069 | 0 |
 ## Awards
 Max (Diverse Characters): 35  (Ranked 482)  
 Sum: 179 (Ranked 414)  

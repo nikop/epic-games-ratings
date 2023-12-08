@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -235,9 +235,9 @@
       "ID": "Botropolis",
       "SetID": "4bd750m",
       "Name": "Botropolis",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ClickEmAll",
@@ -403,9 +403,9 @@
       "ID": "Systematic",
       "SetID": "4bd750m",
       "Name": "Systematic",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "TuttiFrutti",
@@ -450,8 +450,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-08T22:07:22.2777131+00:00",
+  "LastChanged_Achievements": "2023-12-08T23:07:24.1215125+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:16.2831296+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:03:28.8887946+00:00",
-  "LastUpdate_Achievements": "2023-12-08T22:07:22.2777305+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:03:33.618169+00:00",
+  "LastUpdate_Achievements": "2023-12-08T23:07:24.1215312+00:00"
 }

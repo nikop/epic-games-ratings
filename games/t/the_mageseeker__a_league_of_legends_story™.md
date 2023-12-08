@@ -5,13 +5,13 @@ Rating: 4.82 (Ranked 67)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,569 |
-| No more cages! | 92.00% | ~2,462 |
-| Everfrost | 79.00% | ~2,114 |
-| Pentakill | 78.00% | ~2,087 |
-| Dark Forest | 78.00% | ~2,087 |
-| The use of petricite | 75.00% | ~2,007 |
-| You can pet the dog | 62.00% | ~1,659 |
+| For Demacia | 96.00% | ~2,570 |
+| No more cages! | 92.00% | ~2,463 |
+| Everfrost | 79.00% | ~2,115 |
+| Pentakill | 78.00% | ~2,088 |
+| Dark Forest | 78.00% | ~2,088 |
+| The use of petricite | 75.00% | ~2,008 |
+| You can pet the dog | 62.00% | ~1,660 |
 | Big Helmet Bro | 39.00% | ~1,044 |
 | Thornbarrow | 39.00% | ~1,044 |
 | Clarion Cove | 39.00% | ~1,044 |
@@ -23,18 +23,18 @@ Rating: 4.82 (Ranked 67)
 | Hijack | 31.00% | ~830 |
 | Old friend | 31.00% | ~830 |
 | Devineur | 30.00% | ~803 |
-| Whispers in the Woods I | 28.00% | ~749 |
+| Whispers in the Woods I | 28.00% | ~750 |
 | Ancient power | 27.00% | ~723 |
 | I chose my shackles | 26.00% | ~696 |
 | Sacred Woods | 25.00% | ~669 |
-| Little light | 24.00% | ~642 |
 | Capelworth | 24.00% | ~642 |
 | Full equipped | 24.00% | ~642 |
-| Glyndemere | 23.00% | ~615 |
-| Iffighain Headquarters | 23.00% | ~615 |
-| Whispers in the Woods II | 19.00% | ~508 |
-| No more holding back | 19.00% | ~508 |
-| Quickmoore Headquarters | 19.00% | ~508 |
+| Little light | 23.00% | ~616 |
+| Glyndemere | 23.00% | ~616 |
+| Iffighain Headquarters | 23.00% | ~616 |
+| Whispers in the Woods II | 19.00% | ~509 |
+| No more holding back | 19.00% | ~509 |
+| Quickmoore Headquarters | 19.00% | ~509 |
 | Whispers in the Woods III | 18.00% | ~482 |
 | Terbisia | 18.00% | ~482 |
 | My heart and sword always for Demacia | 17.00% | ~455 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 67)
 | Silverwing nest | 2.00% | ~54 |
 | The Unshackled | 1.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,676 (Ranked 215)  
+Progressed: 2,677 (Ranked 215)  
 Completed: 16 (0.60%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,6 +239,7 @@ Completed: 16 (0.60%) (Ranked 192)
 | 2023-12-03 | 2,674 | 16 |
 | 2023-12-05 | 2,675 | 16 |
 | 2023-12-07 | 2,676 | 16 |
+| 2023-12-08 | 2,677 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
