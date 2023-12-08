@@ -142,7 +142,7 @@
 | 131 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 558 |
 | 131 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.76 | 0 | 558 |
 | 131 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,756 | 123 |
-| 131 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 12,840 | 32 |
+| 131 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 12,872 | 32 |
 | 131 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 558 |
 | 131 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 558 |
 | 131 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 53 | 427 |
@@ -309,33 +309,33 @@
 | 295 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,946 | 115 |
 | 295 | [SOMA](games/s/soma.md) | 4.66 | 0 | 558 |
 | 295 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 0 | 558 |
-| 295 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 508 | 212 |
 | 295 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 226 | 276 |
 | 295 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,999 | 65 |
 | 295 | [Trackmania](games/t/trackmania.md) | 4.66 | 4,136 | 84 |
 | 295 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 103 | 360 |
 | 295 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 220 |
-| 316 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.65 | 0 | 558 |
-| 316 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 558 |
-| 316 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 558 |
-| 316 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 0 | 558 |
-| 316 | [Black Book](games/b/black_book.md) | 4.65 | 0 | 558 |
-| 316 | [Crashlands](games/c/crashlands.md) | 4.65 | 196 | 292 |
-| 316 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 174 | 307 |
-| 316 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.65 | 0 | 558 |
-| 316 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 0 | 558 |
-| 316 | [Jitsu Squad](games/j/jitsu_squad.md) | 4.65 | 0 | 558 |
-| 316 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.65 | 0 | 558 |
-| 316 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.65 | 0 | 558 |
-| 316 | [Old World](games/o/old_world.md) | 4.65 | 228 | 275 |
-| 316 | [Road 96](games/r/road_96.md) | 4.65 | 0 | 558 |
-| 316 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 0 | 558 |
-| 316 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 56 | 420 |
-| 316 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 528 |
-| 316 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.65 | 0 | 558 |
-| 316 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 34 | 487 |
-| 316 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 558 |
-| 316 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.65 | 76 | 397 |
+| 315 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.65 | 0 | 558 |
+| 315 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 558 |
+| 315 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 558 |
+| 315 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 0 | 558 |
+| 315 | [Black Book](games/b/black_book.md) | 4.65 | 0 | 558 |
+| 315 | [Crashlands](games/c/crashlands.md) | 4.65 | 196 | 292 |
+| 315 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 174 | 307 |
+| 315 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.65 | 0 | 558 |
+| 315 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 0 | 558 |
+| 315 | [Jitsu Squad](games/j/jitsu_squad.md) | 4.65 | 0 | 558 |
+| 315 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.65 | 0 | 558 |
+| 315 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.65 | 0 | 558 |
+| 315 | [Old World](games/o/old_world.md) | 4.65 | 228 | 275 |
+| 315 | [Road 96](games/r/road_96.md) | 4.65 | 0 | 558 |
+| 315 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 0 | 558 |
+| 315 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 56 | 420 |
+| 315 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 528 |
+| 315 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.65 | 0 | 558 |
+| 315 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 34 | 487 |
+| 315 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 558 |
+| 315 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.65 | 508 | 212 |
+| 315 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.65 | 76 | 397 |
 | 337 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,003 | 63 |
 | 337 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 118 | 345 |
 | 337 | [Dead Space](games/d/dead_space.md) | 4.64 | 118 | 345 |
@@ -945,13 +945,13 @@
 | 943 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.18 | 0 | 558 |
 | 943 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 558 |
 | 943 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 3,001 | 98 |
-| 943 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 213,920 | 5 |
+| 943 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 214,012 | 5 |
 | 943 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 373 |
 | 948 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.17 | 0 | 558 |
 | 948 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 97 | 370 |
 | 948 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 558 |
 | 951 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 558 |
-| 951 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 621 | 194 |
+| 951 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 622 | 194 |
 | 951 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 558 |
 | 951 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 303 |
 | 951 | [SYNCED](games/s/synced.md) | 4.16 | 100 | 363 |
