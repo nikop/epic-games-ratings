@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -2127,9 +2127,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 21455,
+  "EOS_Progressed": 21456,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11087,6 +11087,11 @@
       "Time": "2023-12-08T01:52:26.7020841+00:00",
       "NumProgressed": 21455,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-08T13:09:46.6801339+00:00",
+      "NumProgressed": 21456,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -11146,7 +11151,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20382
+      "UsersEstimate": 20383
     },
     {
       "ID": "GameOver",
@@ -11250,7 +11255,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4076
+      "UsersEstimate": 4077
     },
     {
       "ID": "Strongman",
@@ -11281,15 +11286,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21455,
+      "Progressed": 21456,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-07T17:59:10.3824499+00:00",
-  "LastChanged_Achievements": "2023-12-08T12:05:18.2421163+00:00",
+  "LastChanged_Achievements": "2023-12-08T13:09:46.6801335+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.8912747+00:00",
-  "LastUpdate_Ratings": "2023-12-08T12:00:20.8990406+00:00",
-  "LastUpdate_Achievements": "2023-12-08T12:05:18.2421848+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:04:53.9894188+00:00",
+  "LastUpdate_Achievements": "2023-12-08T13:09:46.6801798+00:00"
 }

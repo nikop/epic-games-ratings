@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~527 |
-| Training Simulation | 78.00% | ~442 |
-| Kuku Bird Hunter | 63.00% | ~357 |
+| Travel Streamer | 93.00% | ~528 |
+| Training Simulation | 78.00% | ~443 |
+| Kuku Bird Hunter | 63.00% | ~358 |
 | Storm Traveller | 58.00% | ~329 |
 | Wolf King Killer | 53.00% | ~301 |
-| Fashion Connoisseur | 51.00% | ~289 |
-| Arms Mechanic | 47.00% | ~266 |
-| Flower Thief | 43.00% | ~244 |
+| Fashion Connoisseur | 51.00% | ~290 |
+| Arms Mechanic | 47.00% | ~267 |
+| Flower Thief | 42.00% | ~239 |
 | Beginner Artificer | 37.00% | ~210 |
 | Apostle of Flame | 37.00% | ~210 |
-| Beginner Cook | 35.00% | ~198 |
+| Beginner Cook | 35.00% | ~199 |
 | Seal Breaker | 31.00% | ~176 |
 | Handyman | 28.00% | ~159 |
-| Giant Lizard Killer | 26.00% | ~147 |
-| Guardian | 26.00% | ~147 |
+| Giant Lizard Killer | 26.00% | ~148 |
+| Guardian | 26.00% | ~148 |
 | Nosebleeder | 25.00% | ~142 |
 | Trader | 21.00% | ~119 |
 | Weapon Boost | 21.00% | ~119 |
@@ -26,10 +26,10 @@
 | Youth Magnet | 18.00% | ~102 |
 | Furious Scorpion Killer | 16.00% | ~91 |
 | Lethal Blade Mantis Killer | 16.00% | ~91 |
-| Squeaky Clean | 16.00% | ~91 |
 | Master Artificer | 16.00% | ~91 |
-| Kind Adventurer | 14.00% | ~79 |
-| Mermaid Killer | 14.00% | ~79 |
+| Squeaky Clean | 15.00% | ~85 |
+| Kind Adventurer | 14.00% | ~80 |
+| Mermaid Killer | 14.00% | ~80 |
 | Cave Master | 13.00% | ~74 |
 | Face Slapper | 13.00% | ~74 |
 | Boss challenge | 10.00% | ~57 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 567 (Ranked 308)  
+Progressed: 568 (Ranked 308)  
 Completed: 1 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 1 (0.18%) (Ranked 266)
 | 2023-12-05 | 555 | 1 |
 | 2023-12-06 | 562 | 1 |
 | 2023-12-07 | 566 | 1 |
-| 2023-12-08 | 567 | 1 |
+| 2023-12-08 | 568 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

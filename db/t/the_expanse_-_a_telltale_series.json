@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 533,
+  "Ranking_Rating": 534,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -259,7 +259,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15977,
+  "EOS_Progressed": 15980,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 2,
@@ -13324,6 +13324,11 @@
       "Time": "2023-12-08T11:03:39.6068399+00:00",
       "NumProgressed": 15977,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-08T13:09:12.111627+00:00",
+      "NumProgressed": 15980,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13352,7 +13357,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "12",
@@ -13368,7 +13373,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "14",
@@ -13416,7 +13421,7 @@
       "Name": "Martian Music",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "2",
@@ -13440,7 +13445,7 @@
       "Name": "Drone Dodger",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "22",
@@ -13512,7 +13517,7 @@
       "Name": "Captain Drummer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "30",
@@ -13544,7 +13549,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "7",
@@ -13568,7 +13573,7 @@
       "Name": "Impossible Objects",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "31",
@@ -13615,13 +13620,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15977,
+      "Progressed": 15980,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1931,
+      "Progressed": 1934,
       "Completed": 843
     }
   ],
@@ -13629,8 +13634,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-07T17:57:36.8969362+00:00",
-  "LastChanged_Achievements": "2023-12-08T12:04:45.791819+00:00",
+  "LastChanged_Achievements": "2023-12-08T13:09:12.1116266+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-08T11:58:26.8895813+00:00",
-  "LastUpdate_Achievements": "2023-12-08T12:04:45.7918905+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:02:52.7261845+00:00",
+  "LastUpdate_Achievements": "2023-12-08T13:09:12.1117107+00:00"
 }

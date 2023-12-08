@@ -12913,10 +12913,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 60067,
       "NumberOfAwardsMax": 7292
+    },
+    {
+      "Time": "2023-12-08T13:03:01.8351571+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 60074,
+      "NumberOfAwardsMax": 7292
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 60067,
+  "NumberOfAwards": 60074,
   "NumberOfAwardsMax": 7292,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12942,7 +12948,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6850
+      "Count": 6857
     },
     {
       "Text": "This game is Educational",
@@ -12987,9 +12993,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 470978,
+  "EOS_Progressed": 471012,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4228,
+  "EOS_NewPlayers": 4231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39632,6 +39638,11 @@
       "Time": "2023-12-08T12:06:15.8899421+00:00",
       "NumProgressed": 470978,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T13:10:48.5940621+00:00",
+      "NumProgressed": 471012,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -40665,9 +40676,9 @@
       "ID": "achievement_grand_navy",
       "SetID": "8p2n7he",
       "Name": "That\u0027s a Grand Navy",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 942
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -42546,21 +42557,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 470978,
+      "Progressed": 471012,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 470978,
+      "Progressed": 471012,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-07T23:58:22.8123781+00:00",
-  "LastChanged_Achievements": "2023-12-08T12:06:15.8899418+00:00",
+  "LastChanged": "2023-12-08T13:03:01.8351568+00:00",
+  "LastChanged_Achievements": "2023-12-08T13:10:48.5940615+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:21.5867549+00:00",
-  "LastUpdate_Ratings": "2023-12-08T11:58:35.6947497+00:00",
-  "LastUpdate_Achievements": "2023-12-08T12:06:15.8910501+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:03:01.8351576+00:00",
+  "LastUpdate_Achievements": "2023-12-08T13:10:48.5951409+00:00"
 }

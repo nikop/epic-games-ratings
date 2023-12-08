@@ -6,8 +6,8 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feeling the beat! | 20.00% | ~897 |
-| Start with a bang! | 19.00% | ~852 |
-| You can pet the cat! | 18.00% | ~807 |
+| Start with a bang! | 19.00% | ~853 |
+| You can pet the cat! | 18.00% | ~808 |
 | Who put gears in there? | 17.00% | ~763 |
 | Cream of the Crop | 16.00% | ~718 |
 | Thanks for the free chip, Peppermint! | 16.00% | ~718 |
@@ -18,8 +18,8 @@ Rating: 4.87 (Ranked 25)
 | Uh, they were broken when I got here | 13.00% | ~583 |
 | I play my own way! | 12.00% | ~538 |
 | Z-shielding's got nothing on us! | 12.00% | ~538 |
-| Whoa! There's ANOTHER health bar!? | 11.00% | ~493 |
-| Kissing the sky! | 11.00% | ~493 |
+| Whoa! There's ANOTHER health bar!? | 11.00% | ~494 |
+| Kissing the sky! | 11.00% | ~494 |
 | The Negotiator | 10.00% | ~449 |
 | Out in a puff of smoke | 10.00% | ~449 |
 | I look cool. But I can look COOLER. | 10.00% | ~449 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,486 (Ranked 194)  
+Progressed: 4,487 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,6 +299,7 @@ Completed: 8 (0.18%) (Ranked 266)
 | 2023-12-05 | 4,478 | 8 |
 | 2023-12-06 | 4,481 | 8 |
 | 2023-12-07 | 4,486 | 8 |
+| 2023-12-08 | 4,487 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

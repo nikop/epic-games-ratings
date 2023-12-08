@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.57 (Ranked 482)  
+Rating: 4.57 (Ranked 481)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -29,7 +29,7 @@ Number of Ratings: 98  (23.09.2022)
 | Die Bosniaken Kommen! | 11.00% | ~1,020 |
 | Machiavelli | 11.00% | ~1,020 |
 | Thus With A Kiss | 11.00% | ~1,020 |
-| The Devil's Paintbrush | 10.00% | ~927 |
+| The Devil's Paintbrush | 10.00% | ~928 |
 | Dante's Inferno | 9.00% | ~835 |
 | I Have the High Ground | 9.00% | ~835 |
 | Millenial | 9.00% | ~835 |
@@ -41,10 +41,10 @@ Number of Ratings: 98  (23.09.2022)
 | Generalissimo | 4.00% | ~371 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~371 |
 | Seeing Red | 3.00% | ~278 |
-| Farewell to Arms | 2.00% | ~185 |
-| Ponte of No Return | 2.00% | ~185 |
-| Soča Drag | 2.00% | ~185 |
-| Saboteur | 2.00% | ~185 |
+| Farewell to Arms | 2.00% | ~186 |
+| Ponte of No Return | 2.00% | ~186 |
+| Soča Drag | 2.00% | ~186 |
+| Saboteur | 2.00% | ~186 |
 | Compagnia della Morte | 1.00% | ~93 |
 | Drop and Give Me 20 | 1.00% | ~93 |
 | Malpractice | 1.00% | ~93 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~37 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,274 (Ranked 170)  
+Progressed: 9,275 (Ranked 170)  
 Completed: 10 (0.11%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 10 (0.11%) (Ranked 285)
 | 2023-12-05 | 9,243 | 10 |
 | 2023-12-06 | 9,253 | 10 |
 | 2023-12-07 | 9,268 | 10 |
-| 2023-12-08 | 9,274 | 10 |
+| 2023-12-08 | 9,275 | 10 |
 ## Awards
 Max (Diverse Characters): 39  (Ranked 465)  
 Sum: 324 (Ranked 363)  

@@ -5,17 +5,17 @@ Rating: 4.74 (Ranked 157)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~9,944 |
-| I Challenge You To Save More Money! | 86.00% | ~9,296 |
+| Last Night...Did We... | 92.00% | ~9,945 |
+| I Challenge You To Save More Money! | 86.00% | ~9,297 |
 | I Love How Tough You Are | 73.00% | ~7,891 |
-| Wanna Come To My Place For Dinner? | 66.00% | ~7,134 |
-| What I Want Is You | 61.00% | ~6,593 |
-| To Be Or Not To Be | 58.00% | ~6,269 |
-| Are You Alright? | 50.00% | ~5,404 |
-| Love Actually | 49.00% | ~5,296 |
+| Wanna Come To My Place For Dinner? | 66.00% | ~7,135 |
+| What I Want Is You | 61.00% | ~6,594 |
+| To Be Or Not To Be | 58.00% | ~6,270 |
+| Are You Alright? | 50.00% | ~5,405 |
+| Love Actually | 49.00% | ~5,297 |
 | Drama King | 42.00% | ~4,540 |
-| You're Really Something Else | 37.00% | ~3,999 |
-| Go Clean up In Your Own Way | 36.00% | ~3,891 |
+| You're Really Something Else | 37.00% | ~4,000 |
+| Go Clean up In Your Own Way | 36.00% | ~3,892 |
 | Happy Family | 35.00% | ~3,783 |
 | FIRST LOVE | 35.00% | ~3,783 |
 | Worthless Speech | 35.00% | ~3,783 |
@@ -26,15 +26,15 @@ Rating: 4.74 (Ranked 157)
 | Go Get Some Fries On The Pier | 30.00% | ~3,243 |
 | Days Of Innocence | 30.00% | ~3,243 |
 | David | 29.00% | ~3,135 |
-| A Slap In The Face! | 26.00% | ~2,810 |
+| A Slap In The Face! | 26.00% | ~2,811 |
 | All I Have Is Money | 25.00% | ~2,702 |
 | That's So You | 25.00% | ~2,702 |
 | SALUTE | 25.00% | ~2,702 |
 | Lover In Dark Alley | 24.00% | ~2,594 |
 | Let Me Be Your Toy Boy | 24.00% | ~2,594 |
 | Off We Sail Tonight | 19.00% | ~2,054 |
-| Love You Three Thousand | 16.00% | ~1,729 |
-| Can You Do This Or Not? | 16.00% | ~1,729 |
+| Love You Three Thousand | 16.00% | ~1,730 |
+| Can You Do This Or Not? | 16.00% | ~1,730 |
 | Doesn't Matter I'll Handle It | 14.00% | ~1,513 |
 | The Flash | 12.00% | ~1,297 |
 | New Yoga Pose Unlocked | 12.00% | ~1,297 |
@@ -48,7 +48,7 @@ Rating: 4.74 (Ranked 157)
 | Tall; Grande; Venti | 2.00% | ~216 |
 | Limerence | 2.00% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,809 (Ranked 164)  
+Progressed: 10,810 (Ranked 164)  
 Completed: 196 (1.81%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 196 (1.81%) (Ranked 135)
 | 2023-12-05 | 10,712 | 192 |
 | 2023-12-06 | 10,748 | 194 |
 | 2023-12-07 | 10,791 | 195 |
-| 2023-12-08 | 10,809 | 196 |
+| 2023-12-08 | 10,810 | 196 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 535)  
 Sum: 23 (Ranked 538)  

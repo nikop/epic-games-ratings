@@ -4196,10 +4196,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3214,
       "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2023-12-08T13:05:44.2221332+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3216,
+      "NumberOfAwardsMax": 403
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3214,
+  "NumberOfAwards": 3216,
   "NumberOfAwardsMax": 403,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4213,7 +4219,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 340
+      "Count": 341
     },
     {
       "Text": "This game has Competitive Players",
@@ -4231,7 +4237,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 394
+      "Count": 395
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4270,9 +4276,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 498325,
+  "EOS_Progressed": 498331,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2967,
+  "EOS_NewPlayers": 2951,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30820,6 +30826,11 @@
       "Time": "2023-12-08T12:04:04.4104446+00:00",
       "NumProgressed": 498325,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T13:08:26.99774+00:00",
+      "NumProgressed": 498331,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -30831,7 +30842,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9966
+      "UsersEstimate": 9967
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -30855,7 +30866,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9966
+      "UsersEstimate": 9967
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -30903,7 +30914,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9966
+      "UsersEstimate": 9967
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -30911,7 +30922,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 9966
+      "UsersEstimate": 9967
     },
     {
       "ID": "ACH_GROUNDED",
@@ -31007,7 +31018,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9966
+      "UsersEstimate": 9967
     },
     {
       "ID": "ACH_REFLEXES",
@@ -31039,7 +31050,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9966
+      "UsersEstimate": 9967
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -31095,7 +31106,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24916
+      "UsersEstimate": 24917
     },
     {
       "ID": "ACH_WET_FEET",
@@ -31110,15 +31121,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 498325,
+      "Progressed": 498331,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-12-07T17:59:47.0733914+00:00",
-  "LastChanged_Achievements": "2023-12-08T12:04:04.4104442+00:00",
+  "LastChanged": "2023-12-08T13:05:44.2221331+00:00",
+  "LastChanged_Achievements": "2023-12-08T13:08:26.9977396+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.9367232+00:00",
-  "LastUpdate_Ratings": "2023-12-08T12:01:07.359411+00:00",
-  "LastUpdate_Achievements": "2023-12-08T12:04:04.4106647+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:05:44.2221336+00:00",
+  "LastUpdate_Achievements": "2023-12-08T13:08:26.9978568+00:00"
 }

@@ -8611,9 +8611,9 @@
       "Count": 3559
     }
   ],
-  "EOS_Progressed": 238881,
+  "EOS_Progressed": 238886,
   "EOS_Completed": 2505,
-  "EOS_NewPlayers": 1085,
+  "EOS_NewPlayers": 1071,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -34721,6 +34721,11 @@
       "Time": "2023-12-08T12:11:02.9188046+00:00",
       "NumProgressed": 238881,
       "NumCompleted": 2505
+    },
+    {
+      "Time": "2023-12-08T13:15:20.466594+00:00",
+      "NumProgressed": 238886,
+      "NumCompleted": 2505
     }
   ],
   "TotalAchievements": 532,
@@ -35594,9 +35599,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 478
     },
     {
       "ID": "objective_completed_1203",
@@ -36594,9 +36599,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 478
     },
     {
       "ID": "objective_completed_40",
@@ -37874,9 +37879,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 717
     },
     {
       "ID": "objective_completed_70",
@@ -38987,21 +38992,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 205155,
+      "Progressed": 205160,
       "Completed": 3959
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 238881,
+      "Progressed": 238886,
       "Completed": 2505
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-08T11:59:07.4034546+00:00",
-  "LastChanged_Achievements": "2023-12-08T12:11:02.9188041+00:00",
+  "LastChanged_Achievements": "2023-12-08T13:15:20.4665936+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:02.8479395+00:00",
-  "LastUpdate_Ratings": "2023-12-08T11:59:07.4034553+00:00",
-  "LastUpdate_Achievements": "2023-12-08T12:11:02.9211653+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:03:34.6439197+00:00",
+  "LastUpdate_Achievements": "2023-12-08T13:15:20.4688119+00:00"
 }

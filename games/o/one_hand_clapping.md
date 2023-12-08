@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Silent City | 21.00% | ~175 |
 | Duet Desert | 4.00% | ~33 |
+| Cadenza | 3.00% | ~25 |
 | Fermata | 3.00% | ~25 |
-| Cadenza | 2.00% | ~17 |
 | Staccato | 2.00% | ~17 |
 | Maestro Mountain | 2.00% | ~17 |
 | Fugue Forest | 2.00% | ~17 |

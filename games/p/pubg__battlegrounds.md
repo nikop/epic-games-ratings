@@ -5,45 +5,45 @@ Rating: 3.98 (Ranked 1,017)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 71.00% | ~541,400 |
-| Health Junkie | 39.00% | ~297,389 |
-| You Complete Me | 37.00% | ~282,138 |
-| Guardian Angel | 33.00% | ~251,637 |
-| Devil Inside Me | 26.00% | ~198,259 |
-| Fantastic Four | 19.00% | ~144,882 |
-| Killing Spree | 18.00% | ~137,256 |
-| Marksman Novice | 16.00% | ~122,006 |
-| First Blood | 12.00% | ~91,504 |
-| Top 10 | 12.00% | ~91,504 |
-| Now You See Me, Now You Don't | 10.00% | ~76,254 |
-| Marksman Expert | 8.00% | ~61,003 |
-| CQB Novice | 7.00% | ~53,377 |
-| Collateral Damage | 6.00% | ~45,752 |
-| Airborne | 5.00% | ~38,127 |
-| Pacifist | 5.00% | ~38,127 |
-| Last Survivor | 4.00% | ~30,501 |
-| Marksman Master | 3.00% | ~22,876 |
-| Trigonometry Novice | 3.00% | ~22,876 |
-| First Come, First Served | 3.00% | ~22,876 |
-| Dynamic Duo | 3.00% | ~22,876 |
-| Winner Winner Chicken Dinner! | 2.00% | ~15,251 |
-| Okay, Now I'm Ready | 2.00% | ~15,251 |
-| Agent 48 | 2.00% | ~15,251 |
-| Don't Pan Me Bro! | 2.00% | ~15,251 |
-| Fast and Furious | 2.00% | ~15,251 |
-| CQB Expert | 2.00% | ~15,251 |
-| Fury Road | 1.00% | ~7,625 |
-| Ghost | 1.00% | ~7,625 |
-| Cruising with the Enemy | 1.00% | ~7,625 |
-| Nade King Novice | 0.80% | ~6,100 |
-| Master Assassin | 0.80% | ~6,100 |
-| CQB Master | 0.40% | ~3,050 |
-| Nade King Expert | 0.20% | ~1,525 |
-| The First Rule Is… | 0.20% | ~1,525 |
+| Blood on My Hands | 71.00% | ~541,588 |
+| Health Junkie | 39.00% | ~297,492 |
+| You Complete Me | 37.00% | ~282,236 |
+| Guardian Angel | 33.00% | ~251,724 |
+| Devil Inside Me | 26.00% | ~198,328 |
+| Fantastic Four | 19.00% | ~144,932 |
+| Killing Spree | 18.00% | ~137,304 |
+| Marksman Novice | 16.00% | ~122,048 |
+| First Blood | 12.00% | ~91,536 |
+| Top 10 | 12.00% | ~91,536 |
+| Now You See Me, Now You Don't | 10.00% | ~76,280 |
+| Marksman Expert | 8.00% | ~61,024 |
+| CQB Novice | 7.00% | ~53,396 |
+| Collateral Damage | 6.00% | ~45,768 |
+| Airborne | 5.00% | ~38,140 |
+| Pacifist | 5.00% | ~38,140 |
+| Last Survivor | 4.00% | ~30,512 |
+| Marksman Master | 3.00% | ~22,884 |
+| Trigonometry Novice | 3.00% | ~22,884 |
+| First Come, First Served | 3.00% | ~22,884 |
+| Dynamic Duo | 3.00% | ~22,884 |
+| Winner Winner Chicken Dinner! | 2.00% | ~15,256 |
+| Okay, Now I'm Ready | 2.00% | ~15,256 |
+| Agent 48 | 2.00% | ~15,256 |
+| Don't Pan Me Bro! | 2.00% | ~15,256 |
+| Fast and Furious | 2.00% | ~15,256 |
+| CQB Expert | 2.00% | ~15,256 |
+| Fury Road | 1.00% | ~7,628 |
+| Ghost | 1.00% | ~7,628 |
+| Cruising with the Enemy | 1.00% | ~7,628 |
+| Nade King Novice | 0.80% | ~6,102 |
+| Master Assassin | 0.80% | ~6,102 |
+| CQB Master | 0.40% | ~3,051 |
+| Nade King Expert | 0.20% | ~1,526 |
+| The First Rule Is… | 0.20% | ~1,526 |
 | Nade King Master | 0.10% | ~763 |
 | Shoot the Knee | 0.10% | ~763 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,535 (Ranked 18)  
+Progressed: 762,800 (Ranked 18)  
 Completed: 12 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,10 +275,10 @@ Completed: 12 (0.00%) (Ranked 371)
 | 2023-12-05 | 755,664 | 12 |
 | 2023-12-06 | 757,414 | 12 |
 | 2023-12-07 | 760,778 | 12 |
-| 2023-12-08 | 762,535 | 12 |
+| 2023-12-08 | 762,800 | 12 |
 ## Awards
 Max (Competitive Players): 5,241  (Ranked 71)  
-Sum: 17,091 (Ranked 64)  
+Sum: 17,106 (Ranked 64)  
 Diff (max vs sum): 7  
 | Award | Count |
 | ----- | ----- |
@@ -286,7 +286,7 @@ Diff (max vs sum): 7
 | This game has Challenging Combat | 4,604 |
 | This game is Highly Recommended | 4,235 |
 | This game has Quickly Understood Controls | 3,335 |
-| This game has a Competitive Community | 3,011 |
+| This game has a Competitive Community | 3,026 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
 | This game is Relaxing | 57 |
@@ -577,4 +577,4 @@ Diff (max vs sum): 7
 | 2023-12-05 | 3.98 | 5,137 | 16,821 |
 | 2023-12-06 | 3.98 | 5,169 | 16,927 |
 | 2023-12-07 | 3.98 | 5,212 | 17,038 |
-| 2023-12-08 | 3.98 | 5,241 | 17,091 |
+| 2023-12-08 | 3.98 | 5,241 | 17,106 |

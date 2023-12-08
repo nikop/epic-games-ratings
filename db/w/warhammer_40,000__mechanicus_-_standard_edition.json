@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -984,9 +984,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228864,
+  "EOS_Progressed": 228866,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26329,6 +26329,11 @@
       "Time": "2023-12-08T12:10:52.9275918+00:00",
       "NumProgressed": 228864,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-08T13:15:10.2663999+00:00",
+      "NumProgressed": 228866,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -26388,7 +26393,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22886
+      "UsersEstimate": 22887
     },
     {
       "ID": "ACH_BASE_17",
@@ -26404,7 +26409,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22886
+      "UsersEstimate": 22887
     },
     {
       "ID": "ACH_BASE_19",
@@ -26611,7 +26616,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228864,
+      "Progressed": 228866,
       "Completed": 5
     }
   ],
@@ -26619,8 +26624,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-07T15:57:59.934317+00:00",
-  "LastChanged_Achievements": "2023-12-08T12:10:52.9275916+00:00",
+  "LastChanged_Achievements": "2023-12-08T13:15:10.2663994+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.7221977+00:00",
-  "LastUpdate_Ratings": "2023-12-08T11:59:00.4705254+00:00",
-  "LastUpdate_Achievements": "2023-12-08T12:10:52.9277493+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:03:27.7939759+00:00",
+  "LastUpdate_Achievements": "2023-12-08T13:15:10.2665331+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11685,9 +11685,9 @@
       "Count": 838
     }
   ],
-  "EOS_Progressed": 304072,
+  "EOS_Progressed": 304073,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36570,6 +36570,11 @@
       "Time": "2023-12-08T12:04:39.249856+00:00",
       "NumProgressed": 304072,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-08T13:09:04.7162388+00:00",
+      "NumProgressed": 304073,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36653,7 +36658,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27366
+      "UsersEstimate": 27367
     },
     {
       "ID": "PFA_19",
@@ -36885,7 +36890,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27366
+      "UsersEstimate": 27367
     },
     {
       "ID": "PFA_45",
@@ -36940,7 +36945,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304072,
+      "Progressed": 304073,
       "Completed": 525
     }
   ],
@@ -36948,8 +36953,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-08T10:57:48.65517+00:00",
-  "LastChanged_Achievements": "2023-12-08T12:04:39.2498556+00:00",
+  "LastChanged_Achievements": "2023-12-08T13:09:04.7162381+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-08T11:58:08.8003543+00:00",
-  "LastUpdate_Achievements": "2023-12-08T12:04:39.2500139+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:02:33.8324158+00:00",
+  "LastUpdate_Achievements": "2023-12-08T13:09:04.7163509+00:00"
 }

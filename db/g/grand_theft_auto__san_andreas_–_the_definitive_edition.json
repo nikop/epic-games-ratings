@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1687,9 +1687,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 13890,
+  "EOS_Progressed": 13891,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -15582,6 +15582,11 @@
       "Time": "2023-12-08T09:09:34.9110933+00:00",
       "NumProgressed": 13890,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-08T13:14:47.5920929+00:00",
+      "NumProgressed": 13891,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15593,7 +15598,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11390
+      "UsersEstimate": 11391
     },
     {
       "ID": "ACH02",
@@ -15705,7 +15710,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "ACH16",
@@ -15737,7 +15742,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "ACH20",
@@ -15761,7 +15766,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACH23",
@@ -15769,7 +15774,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3750
+      "UsersEstimate": 3751
     },
     {
       "ID": "ACH24",
@@ -15817,7 +15822,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACH30",
@@ -15872,7 +15877,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13890,
+      "Progressed": 13891,
       "Completed": 56
     }
   ],
@@ -15880,8 +15885,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-08T02:22:43.9092979+00:00",
-  "LastChanged_Achievements": "2023-12-08T12:10:31.9910421+00:00",
+  "LastChanged_Achievements": "2023-12-08T13:14:47.5920924+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:45.2117848+00:00",
-  "LastUpdate_Ratings": "2023-12-08T12:00:18.7676571+00:00",
-  "LastUpdate_Achievements": "2023-12-08T12:10:31.9911307+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:04:51.7470665+00:00",
+  "LastUpdate_Achievements": "2023-12-08T13:14:47.5921669+00:00"
 }

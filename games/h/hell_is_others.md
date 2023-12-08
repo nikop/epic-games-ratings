@@ -297,7 +297,7 @@ Completed: 3 (0.00%) (Ranked 371)
 | 2023-12-08 | 259,145 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 52  (Ranked 429)  
-Sum: 357 (Ranked 356)  
+Sum: 358 (Ranked 356)  
 Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
@@ -306,7 +306,7 @@ Diff (max vs sum): 73
 | This game has Amazing Characters | 39 |
 | This game has Challenging Combat | 37 |
 | This game has Amazing Storytelling | 37 |
-| This game is Highly Recommended | 34 |
+| This game is Highly Recommended | 35 |
 | This game has a Competitive Community | 32 |
 | This game has Quickly Understood Controls | 31 |
 | This game has Competitive Players | 29 |
@@ -488,3 +488,4 @@ Diff (max vs sum): 73
 | 2023-12-04 | 4.39 | 52 | 354 |
 | 2023-12-05 | 4.39 | 52 | 356 |
 | 2023-12-06 | 4.39 | 52 | 357 |
+| 2023-12-08 | 4.39 | 52 | 358 |

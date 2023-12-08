@@ -3371,9 +3371,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17661,
+  "EOS_Progressed": 17662,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -14981,6 +14981,11 @@
       "Time": "2023-12-08T12:05:23.2245944+00:00",
       "NumProgressed": 17661,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-08T13:09:52.0494648+00:00",
+      "NumProgressed": 17662,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15103,9 +15108,9 @@
       "ID": "WinNearArmory",
       "SetID": "cfbk359",
       "Name": "Ruined Armory",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "WinNearBandit",
@@ -15464,15 +15469,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17661,
+      "Progressed": 17662,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-07T19:59:38.7058296+00:00",
-  "LastChanged_Achievements": "2023-12-08T12:05:23.2245941+00:00",
+  "LastChanged_Achievements": "2023-12-08T13:09:52.0494643+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-08T12:01:05.3817083+00:00",
-  "LastUpdate_Achievements": "2023-12-08T12:05:23.2247317+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:05:42.0560234+00:00",
+  "LastUpdate_Achievements": "2023-12-08T13:09:52.0495419+00:00"
 }

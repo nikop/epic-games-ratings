@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 965,
+  "EOS_Progressed": 966,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3704,6 +3704,11 @@
       "Time": "2023-12-08T06:09:35.0976241+00:00",
       "NumProgressed": 965,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T13:15:13.8466029+00:00",
+      "NumProgressed": 966,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3731,7 +3736,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "BigPlane",
@@ -3739,7 +3744,7 @@
       "Name": "Expensive Plane",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "BudgetFlight",
@@ -3763,7 +3768,7 @@
       "Name": "That Was Close!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Creator",
@@ -3779,7 +3784,7 @@
       "Name": "Debtor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -3875,7 +3880,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "LongDistance",
@@ -3923,7 +3928,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "NoWayBack",
@@ -4027,7 +4032,7 @@
       "Name": "Ten!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "TimeForManagement",
@@ -4050,14 +4055,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 965,
+      "Progressed": 966,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-08T12:10:56.5407765+00:00",
+  "LastChanged_Achievements": "2023-12-08T13:15:13.8466023+00:00",
   "LastUpdate_AppInfo": "2023-12-05T18:57:05.7032742+00:00",
-  "LastUpdate_Ratings": "2023-12-08T11:59:54.1208459+00:00",
-  "LastUpdate_Achievements": "2023-12-08T12:10:56.5408184+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:04:25.6983425+00:00",
+  "LastUpdate_Achievements": "2023-12-08T13:15:13.8466382+00:00"
 }

@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~161 |
 | Intensify | 0.10% | ~161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 161,675 (Ranked 78)  
-Completed: 250 (0.15%) (Ranked 274)  
+Progressed: 161,677 (Ranked 78)  
+Completed: 250 (0.15%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -262,7 +262,7 @@ Completed: 250 (0.15%) (Ranked 274)
 | 2023-12-05 | 161,376 | 205 |
 | 2023-12-06 | 161,491 | 218 |
 | 2023-12-07 | 161,604 | 237 |
-| 2023-12-08 | 161,675 | 250 |
+| 2023-12-08 | 161,677 | 250 |
 ## Awards
 Max (Unique Visuals): 55  (Ranked 423)  
 Sum: 398 (Ranked 346)  

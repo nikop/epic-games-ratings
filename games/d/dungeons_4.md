@@ -64,7 +64,7 @@
 | Gorgu is in the Best of Health | 9.00% | ~48 |
 | Hands Off My Stones | 9.00% | ~48 |
 | No Mana, No Cry | 7.00% | ~37 |
-| I Don't Need Any Help | 5.00% | ~27 |
+| I Don't Need Any Help | 6.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 535 (Ranked 310)  
 Completed: 12 (2.24%) (Ranked 125)  

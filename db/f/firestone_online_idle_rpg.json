@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3143,
+  "EOS_Progressed": 3144,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9181,6 +9181,11 @@
       "Time": "2023-12-08T12:05:58.8888379+00:00",
       "NumProgressed": 3143,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T13:10:30.5557425+00:00",
+      "NumProgressed": 3144,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9384,7 +9389,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "frostfireliberator",
@@ -9392,7 +9397,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "fullparty",
@@ -9424,7 +9429,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "herewegoagain",
@@ -9464,7 +9469,7 @@
       "Name": "Inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "jewelenchanting",
@@ -9528,7 +9533,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "missionsdedication",
@@ -9544,7 +9549,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "mysteriousrock",
@@ -9600,7 +9605,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "sailor",
@@ -9702,9 +9707,9 @@
       "ID": "titanpower",
       "SetID": "3nl4bcg",
       "Name": "Titan Power",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 63
     },
     {
       "ID": "trader",
@@ -9752,7 +9757,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2923
+      "UsersEstimate": 2924
     },
     {
       "ID": "warmachinesarmy",
@@ -9791,7 +9796,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3143,
+      "Progressed": 3144,
       "Completed": 2
     }
   ],
@@ -9799,8 +9804,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-07T20:58:20.4746595+00:00",
-  "LastChanged_Achievements": "2023-12-08T12:05:58.8888376+00:00",
+  "LastChanged_Achievements": "2023-12-08T13:10:30.555742+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-08T11:59:15.424457+00:00",
-  "LastUpdate_Achievements": "2023-12-08T12:05:58.8889442+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:03:43.4200102+00:00",
+  "LastUpdate_Achievements": "2023-12-08T13:10:30.5558341+00:00"
 }

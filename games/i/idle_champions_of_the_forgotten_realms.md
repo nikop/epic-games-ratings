@@ -9,8 +9,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 0.70% | ~1,672 |
 | Beast Intentions | 0.30% | ~717 |
 | The Cursed Farmer | 0.30% | ~717 |
+| The Mad Wizard | 0.30% | ~717 |
+| Were-verpowered | 0.20% | ~478 |
 | The Ring of Regeneration | 0.20% | ~478 |
-| The Mad Wizard | 0.20% | ~478 |
+| Are Ya Chicken? | 0.20% | ~478 |
 | The Beginning is the End | 0.20% | ~410 |
 | The End is the Beginning | 0.20% | ~410 |
 | Maddening | 0.10% | ~239 |
@@ -119,7 +121,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Bloody Handed | 0.10% | ~205 |
 | Get Back In The Castle | 0.10% | ~205 |
 | Kas the Destroyer | 0.10% | ~205 |
-| Were-verpowered | 0.10% | ~239 |
 | Checkmate | 0.10% | ~205 |
 | Pin and Skewer | 0.10% | ~205 |
 | Vecna Out! | 0.10% | ~205 |
@@ -242,7 +243,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadowfell Stalwarts | 0.10% | ~205 |
 | Nimble Escape | 0.10% | ~239 |
 | Nimblest Escape | 0.10% | ~239 |
-| Are Ya Chicken? | 0.10% | ~239 |
 | Useless Allies | 0.10% | ~239 |
 | Stumbling Escape | 0.10% | ~239 |
 | Distracted Escape | 0.10% | ~205 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~205 |
 | See You on the Flipside | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,881 (Ranked 65)  
+Progressed: 238,886 (Ranked 65)  
 Completed: 2,505 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -771,7 +771,7 @@ Completed: 2,505 (1.05%) (Ranked 167)
 | 2023-12-05 | 238,538 | 2,500 |
 | 2023-12-06 | 238,666 | 2,502 |
 | 2023-12-07 | 238,772 | 2,504 |
-| 2023-12-08 | 238,881 | 2,505 |
+| 2023-12-08 | 238,886 | 2,505 |
 ## Awards
 Max (Great for Beginners): 5,600  (Ranked 70)  
 Sum: 32,772 (Ranked 41)  
