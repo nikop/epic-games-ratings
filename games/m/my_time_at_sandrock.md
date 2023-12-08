@@ -12,8 +12,8 @@ Number of Ratings: 892  (23.09.2022)
 | Greeno-B-Gone | 131.00% | ~660 |
 | The Little Wood that Could | 113.00% | ~570 |
 | Your Especially Earned Trajectory | 108.00% | ~544 |
+| One of the Cool Kids | 87.00% | ~438 |
 | No Mountain Wide Enough | 86.00% | ~433 |
-| One of the Cool Kids | 86.00% | ~433 |
 | Yakmel Whisperer | 82.00% | ~413 |
 | On that Grindset | 80.00% | ~403 |
 | Diamonds are Forever | 78.00% | ~393 |

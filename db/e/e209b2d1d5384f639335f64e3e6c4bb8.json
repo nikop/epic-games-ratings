@@ -2,7 +2,7 @@
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
-  "Ranking_Rating": 741,
+  "Ranking_Rating": 740,
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 51,
@@ -257,9 +257,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 330161,
+  "EOS_Progressed": 330167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2260,
+  "EOS_NewPlayers": 2254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12957,6 +12957,11 @@
       "Time": "2023-12-08T09:06:58.6825153+00:00",
       "NumProgressed": 330161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T10:06:04.5672048+00:00",
+      "NumProgressed": 330167,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -12993,7 +12998,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 145271
+      "UsersEstimate": 145273
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -13001,7 +13006,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 105652
+      "UsersEstimate": 105653
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -13009,7 +13014,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 69334
+      "UsersEstimate": 69335
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -13017,7 +13022,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 49524
+      "UsersEstimate": 49525
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -13025,7 +13030,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 39619
+      "UsersEstimate": 39620
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -13033,7 +13038,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 33016
+      "UsersEstimate": 33017
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -13041,7 +13046,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 29714
+      "UsersEstimate": 29715
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -13049,7 +13054,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 29714
+      "UsersEstimate": 29715
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -13073,7 +13078,7 @@
       "Name": "Khashar Plateau",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 23111
+      "UsersEstimate": 23112
     },
     {
       "ID": "ACHV_M12_COMPLETE",
@@ -13081,7 +13086,7 @@
       "Name": "Torin Crater",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 23111
+      "UsersEstimate": 23112
     },
     {
       "ID": "ACHV_M13_COMPLETE",
@@ -13345,20 +13350,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 168382
+      "UsersEstimate": 168385
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 330161,
+      "Progressed": 330167,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 330150,
+      "Progressed": 330156,
       "Completed": 1
     }
   ],
@@ -13366,8 +13371,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-12-04T11:58:17.9437821+00:00",
-  "LastChanged_Achievements": "2023-12-08T09:06:58.6825148+00:00",
+  "LastChanged_Achievements": "2023-12-08T10:06:04.5672045+00:00",
   "LastUpdate_AppInfo": "2023-12-08T02:20:40.3139242+00:00",
-  "LastUpdate_Ratings": "2023-12-08T08:57:10.357703+00:00",
-  "LastUpdate_Achievements": "2023-12-08T09:06:58.6826825+00:00"
+  "LastUpdate_Ratings": "2023-12-08T09:57:06.8239215+00:00",
+  "LastUpdate_Achievements": "2023-12-08T10:06:04.5672947+00:00"
 }

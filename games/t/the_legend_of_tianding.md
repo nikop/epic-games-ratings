@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 84.00% | ~26 |
-| Eat the Rich | 61.00% | ~19 |
-| Phantom Kunoichi | 48.00% | ~15 |
-| Killing Machine | 48.00% | ~15 |
-| Death Battle | 45.00% | ~14 |
-| Divine Retribution | 42.00% | ~13 |
-| Final Showdown | 39.00% | ~12 |
-| Dispel Rumors | 39.00% | ~12 |
-| The End of an Outlaw | 39.00% | ~12 |
-| Captain Mustache | 39.00% | ~12 |
-| Sewer Rat | 32.00% | ~10 |
-| Demon Slayer | 29.00% | ~9 |
-| Urban Explorer | 29.00% | ~9 |
-| Steal Her Away | 29.00% | ~9 |
-| Coward | 29.00% | ~9 |
-| Not Today | 26.00% | ~8 |
-| Fight Fire With Fire | 26.00% | ~8 |
-| Big Eater | 23.00% | ~7 |
-| Tour Guide | 23.00% | ~7 |
+| Hero Arrives | 84.00% | ~27 |
+| Eat the Rich | 59.00% | ~19 |
+| Phantom Kunoichi | 47.00% | ~15 |
+| Killing Machine | 47.00% | ~15 |
+| Death Battle | 44.00% | ~14 |
+| Divine Retribution | 41.00% | ~13 |
+| Final Showdown | 38.00% | ~12 |
+| Dispel Rumors | 38.00% | ~12 |
+| The End of an Outlaw | 38.00% | ~12 |
+| Captain Mustache | 38.00% | ~12 |
+| Sewer Rat | 31.00% | ~10 |
+| Demon Slayer | 28.00% | ~9 |
+| Urban Explorer | 28.00% | ~9 |
+| Steal Her Away | 28.00% | ~9 |
+| Coward | 28.00% | ~9 |
+| Not Today | 25.00% | ~8 |
+| Fight Fire With Fire | 25.00% | ~8 |
+| Big Eater | 22.00% | ~7 |
+| Tour Guide | 22.00% | ~7 |
 | The Real O.G. | 19.00% | ~6 |
 | Tomb Raider | 19.00% | ~6 |
 | Talk to the Fist | 16.00% | ~5 |
@@ -31,8 +31,8 @@
 | The Legend | 6.00% | ~2 |
 | Taoist | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 540)  
-Completed: 2 (6.45%) (Ranked 65)  
+Progressed: 32 (Ranked 537)  
+Completed: 2 (6.25%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,6 +63,7 @@ Completed: 2 (6.45%) (Ranked 65)
 | 2023-12-02 | 29 | 2 |
 | 2023-12-03 | 30 | 2 |
 | 2023-12-06 | 31 | 2 |
+| 2023-12-08 | 32 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

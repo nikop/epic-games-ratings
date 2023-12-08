@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,714 |
-| Pork Chopped | 3.00% | ~1,714 |
+| Whatever It Takes | 3.00% | ~1,715 |
+| Pork Chopped | 3.00% | ~1,715 |
 | Dr. Reed, I Presume? | 2.00% | ~14,632 |
 | Git Gutte! | 2.00% | ~14,632 |
 | Bookworm | 2.00% | ~14,632 |
@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 533)
 | I Am the Resurrection | 1.00% | ~7,316 |
 | Max Headroom | 1.00% | ~7,316 |
 | Our True Nature | 1.00% | ~7,316 |
-| Down with the Sickness | 0.90% | ~6,584 |
+| Down with the Sickness | 0.90% | ~6,585 |
 | Not Even My Final Form | 0.80% | ~5,853 |
 | Jumbo Keyring | 0.80% | ~5,853 |
 | Go, Bobcats! | 0.80% | ~5,853 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 533)
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,606 (Ranked 21)  
+Progressed: 731,620 (Ranked 21)  
 Completed: 2,466 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2,466 (0.34%) (Ranked 234)
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
-| 2023-12-08 | 731,606 | 2,466 |
+| 2023-12-08 | 731,620 | 2,466 |
 ## Awards
 Max (Great Boss Battles): 7,994  (Ranked 49)  
 Sum: 12,287 (Ranked 82)  

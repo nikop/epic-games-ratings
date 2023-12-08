@@ -9,7 +9,7 @@ Number of Ratings: 292  (23.09.2022)
 | Adept | 38.00% | ~142 |
 | Double Kill | 27.00% | ~101 |
 | Critical Hit | 16.00% | ~60 |
-| Veteran | 14.00% | ~53 |
+| Veteran | 15.00% | ~56 |
 | Dressed For Success | 11.00% | ~41 |
 | Sorcerous Spree | 7.00% | ~26 |
 | Humiliation | 7.00% | ~26 |
@@ -21,12 +21,12 @@ Number of Ratings: 292  (23.09.2022)
 | Landlord Extraordinaire | 3.00% | ~11 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~11 |
 | The Song of Stoutheart | 2.00% | ~8 |
+| Versatile Wielder | 2.00% | ~8 |
 | Don't Touch My Stuff | 2.00% | ~8 |
 | Such A Fungi | 2.00% | ~8 |
 | Trojan Horse | 2.00% | ~8 |
 | Pyrrhic Victory | 2.00% | ~8 |
 | This Spot's Taken | 1.00% | ~4 |
-| Versatile Wielder | 1.00% | ~4 |
 | Deepstrike | 1.00% | ~4 |
 | Infernal Influence | 1.00% | ~4 |
 | Together For Her | 0.80% | ~3 |

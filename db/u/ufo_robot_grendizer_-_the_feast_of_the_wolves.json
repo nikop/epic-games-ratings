@@ -4,7 +4,7 @@
   "ProductSlug": "goldorak-d90cf1",
   "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -178,9 +178,9 @@
       "ID": "ACH_FIRSTSKINCHANGE",
       "SetID": "ch874lb",
       "Name": "A Good Paint Job",
-      "Percentage": 13,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIRSTUPGRADE",
@@ -361,8 +361,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-08T09:09:13.4792569+00:00",
+  "LastChanged_Achievements": "2023-12-08T10:09:18.9612049+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:12.6917781+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:01:11.0650261+00:00",
-  "LastUpdate_Achievements": "2023-12-08T09:09:13.4792836+00:00"
+  "LastUpdate_Ratings": "2023-12-08T09:59:51.7135944+00:00",
+  "LastUpdate_Achievements": "2023-12-08T10:09:18.9612244+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "74b602736d704ed2a5915c31319d99f6",
   "Name": "Democracy 4",
   "ProductSlug": "democracy-4",
-  "Ranking_Rating": 727,
+  "Ranking_Rating": 726,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewPlayers": 459,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-10-21T15:00:00+00:00",
@@ -293,6 +293,6 @@
   "FirstSeen": "2022-07-22T20:25:46.6765497+00:00",
   "LastChanged": "2023-10-06T20:58:33.7605944+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:01.0162061+00:00",
-  "LastUpdate_Ratings": "2023-12-08T08:58:42.7699677+00:00",
-  "LastUpdate_Achievements": "2023-12-08T09:07:49.8033064+00:00"
+  "LastUpdate_Ratings": "2023-12-08T09:58:08.8921709+00:00",
+  "LastUpdate_Achievements": "2023-12-08T10:08:31.9620213+00:00"
 }

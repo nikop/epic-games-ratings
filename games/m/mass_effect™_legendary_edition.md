@@ -44,12 +44,12 @@
 | Broke, Blind, and Bedlam | 34.00% | ~520 |
 | A Personal Touch | 33.00% | ~505 |
 | Ghost Ship | 33.00% | ~505 |
+| The Quarian | 33.00% | ~505 |
 | The Prodigal | 33.00% | ~505 |
 | Galactic Explorer | 33.00% | ~505 |
 | Shopaholic | 33.00% | ~505 |
 | The Assassin | 32.00% | ~489 |
 | The Justicar | 32.00% | ~489 |
-| The Quarian | 32.00% | ~489 |
 | Battlemaster | 32.00% | ~489 |
 | Catharsis | 32.00% | ~489 |
 | Ghost of the Father | 32.00% | ~489 |
@@ -78,10 +78,10 @@
 | A House Divided | 28.00% | ~428 |
 | Eye of the Hurricane | 27.00% | ~413 |
 | World Shaker | 27.00% | ~413 |
+| Liberator | 27.00% | ~413 |
 | First Aid Specialist | 26.00% | ~398 |
 | Pathfinder | 26.00% | ~398 |
 | Tunnel Rat | 26.00% | ~398 |
-| Liberator | 26.00% | ~398 |
 | Arbiter | 25.00% | ~382 |
 | Savior | 24.00% | ~367 |
 | Weapon Specialist | 24.00% | ~367 |

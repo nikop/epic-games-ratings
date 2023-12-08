@@ -53,7 +53,7 @@
 | My Little Torture Chamber | 16.00% | ~86 |
 | Lavalumps on Ice! | 16.00% | ~86 |
 | Rubble and Ashes | 16.00% | ~86 |
-| The Last Stand - This Time For Real! | 15.00% | ~80 |
+| The Last Stand - This Time For Real! | 16.00% | ~86 |
 | To the Max! | 14.00% | ~75 |
 | To Infinity And Beyond! | 14.00% | ~75 |
 | Mirror, Mirror | 13.00% | ~70 |

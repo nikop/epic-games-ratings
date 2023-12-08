@@ -3254,9 +3254,9 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "5k00jcd",
       "Name": "A little nest egg",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 90
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -3299,8 +3299,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-08T09:05:08.765766+00:00",
+  "LastChanged_Achievements": "2023-12-08T10:04:43.0185873+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:57:05.8729105+00:00",
-  "LastUpdate_Ratings": "2023-12-08T08:58:37.8368288+00:00",
-  "LastUpdate_Achievements": "2023-12-08T09:05:08.7658182+00:00"
+  "LastUpdate_Ratings": "2023-12-08T09:58:05.7022656+00:00",
+  "LastUpdate_Achievements": "2023-12-08T10:04:43.0186306+00:00"
 }

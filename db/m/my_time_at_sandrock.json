@@ -6039,9 +6039,9 @@
       "ID": "S_FRIEND",
       "SetID": "80dcan0",
       "Name": "One of the Cool Kids",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 438
     },
     {
       "ID": "S_GAMECOIN",
@@ -6215,8 +6215,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-08T04:01:17.7035949+00:00",
-  "LastChanged_Achievements": "2023-12-08T09:06:13.4110631+00:00",
+  "LastChanged_Achievements": "2023-12-08T10:05:31.1696414+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:11.8739142+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:01:06.5068781+00:00",
-  "LastUpdate_Achievements": "2023-12-08T09:06:13.4111321+00:00"
+  "LastUpdate_Ratings": "2023-12-08T09:59:48.5752339+00:00",
+  "LastUpdate_Achievements": "2023-12-08T10:05:31.1697021+00:00"
 }

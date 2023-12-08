@@ -6,8 +6,8 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,573 |
-| Skillful | 2.00% | ~21,573 |
+| It wakes | 2.00% | ~21,574 |
+| Skillful | 2.00% | ~21,574 |
 | Handyman | 1.00% | ~10,787 |
 | Zealous | 1.00% | ~10,787 |
 | Not half bad | 1.00% | ~10,787 |
@@ -15,16 +15,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | Survival Treasures | 1.00% | ~10,787 |
 | I | 1.00% | ~10,787 |
 | Sorted | 1.00% | ~10,787 |
+| Resurgence | 1.00% | ~10,787 |
 | Make Some Noise | 1.00% | ~10,787 |
 | No one left behind | 0.90% | ~9,708 |
 | Medic | 0.90% | ~9,708 |
 | Healthy Obsession | 0.90% | ~9,708 |
-| Resurgence | 0.90% | ~9,708 |
 | Preemptive Strike | 0.90% | ~9,708 |
-| The Grand Sacrifice | 0.80% | ~8,629 |
-| Perfect Escape | 0.80% | ~8,629 |
-| Bloody Millionaire | 0.80% | ~8,629 |
-| Humanitarian | 0.80% | ~8,629 |
+| The Grand Sacrifice | 0.80% | ~8,630 |
+| Perfect Escape | 0.80% | ~8,630 |
+| Bloody Millionaire | 0.80% | ~8,630 |
+| Humanitarian | 0.80% | ~8,630 |
 | Agonizing Escape | 0.70% | ~7,551 |
 | Backdoor Escape | 0.70% | ~7,551 |
 | I've got your back | 0.70% | ~7,551 |
@@ -36,13 +36,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Killer | 0.60% | ~6,472 |
 | III | 0.60% | ~6,472 |
 | Wounded Healer | 0.60% | ~6,472 |
-| Escape Artist | 0.50% | ~5,393 |
-| Vulture | 0.50% | ~5,393 |
-| First to the Punch | 0.50% | ~5,393 |
-| Operation: Survival | 0.50% | ~5,393 |
-| With Scars to Show | 0.50% | ~5,393 |
-| Lifting The Fog | 0.50% | ~5,393 |
-| Second Act | 0.50% | ~5,393 |
+| Escape Artist | 0.50% | ~5,394 |
+| Vulture | 0.50% | ~5,394 |
+| First to the Punch | 0.50% | ~5,394 |
+| Operation: Survival | 0.50% | ~5,394 |
+| With Scars to Show | 0.50% | ~5,394 |
+| Lifting The Fog | 0.50% | ~5,394 |
+| Second Act | 0.50% | ~5,394 |
 | Blood on your hands | 0.40% | ~4,315 |
 | Nerves of steel | 0.40% | ~4,315 |
 | Gifts for the Fog | 0.40% | ~4,315 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,079 |
 | Adept Good Guy | 0.10% | ~1,079 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,078,655 (Ranked 14)  
+Progressed: 1,078,712 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -471,7 +471,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
 | 2023-12-07 | 1,077,876 | 61 |
-| 2023-12-08 | 1,078,655 | 61 |
+| 2023-12-08 | 1,078,712 | 61 |
 ## Awards
 Max (Diverse Characters): 37,508  (Ranked 15)  
 Sum: 284,404 (Ranked 12)  

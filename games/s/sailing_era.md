@@ -1,7 +1,7 @@
 # Sailing Era
 [Store](https://store.epicgames.com/en-US/p/sailingera-450a80)  
 [View Rawdata](../../db/s/sailing_era.json)  
-Rating: 4.73 (Ranked 170)  
+Rating: 4.74 (Ranked 158)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -23,3 +23,4 @@ Rating: 4.73 (Ranked 170)
 | 2023-11-26 | 4.79 | 0 | 0 |
 | 2023-11-30 | 4.77 | 0 | 0 |
 | 2023-12-01 | 4.73 | 0 | 0 |
+| 2023-12-08 | 4.74 | 0 | 0 |

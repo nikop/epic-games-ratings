@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27478,
+  "EOS_Progressed": 27480,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2228,
+  "EOS_NewPlayers": 2223,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9404,6 +9404,11 @@
       "Time": "2023-12-08T09:09:59.5331523+00:00",
       "NumProgressed": 27478,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T10:09:53.5388153+00:00",
+      "NumProgressed": 27480,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -9640,7 +9645,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 26104
+      "UsersEstimate": 26106
     },
     {
       "ID": "achievement_36",
@@ -9648,7 +9653,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "achievement_37",
@@ -9791,7 +9796,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 27478,
+      "Progressed": 27480,
       "Completed": 2
     }
   ],
@@ -9799,8 +9804,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-12-08T09:09:59.5331519+00:00",
+  "LastChanged_Achievements": "2023-12-08T10:09:53.5388149+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:20.4359375+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:03:06.7258522+00:00",
-  "LastUpdate_Achievements": "2023-12-08T09:09:59.5332268+00:00"
+  "LastUpdate_Ratings": "2023-12-08T10:03:13.3887113+00:00",
+  "LastUpdate_Achievements": "2023-12-08T10:09:53.5389019+00:00"
 }

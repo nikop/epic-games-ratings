@@ -213,7 +213,7 @@
   ],
   "EOS_Progressed": 896,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2433,9 +2433,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 27
     },
     {
       "ID": "NewMorality",
@@ -2682,8 +2682,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
-  "LastChanged_Achievements": "2023-12-08T09:07:35.1137539+00:00",
+  "LastChanged_Achievements": "2023-12-08T10:06:31.6064821+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:01:07.9092651+00:00",
-  "LastUpdate_Achievements": "2023-12-08T09:07:35.1137971+00:00"
+  "LastUpdate_Ratings": "2023-12-08T09:59:49.5893046+00:00",
+  "LastUpdate_Achievements": "2023-12-08T10:06:31.6065291+00:00"
 }

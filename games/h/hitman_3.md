@@ -6,42 +6,42 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~628,005 |
-| Death From Above | 45.00% | ~614,353 |
-| Master of the Household | 38.00% | ~518,787 |
-| Death of the Party | 35.00% | ~477,830 |
-| NEXUS-47 | 32.00% | ~436,873 |
-| The Last Tango | 31.00% | ~423,221 |
-| Nightmare Fuel | 30.00% | ~409,569 |
-| The Result of Previous Training | 28.00% | ~382,264 |
-| Tools of the Trade | 28.00% | ~382,264 |
-| Cleared for Field Duty | 27.00% | ~368,612 |
-| Seizing the Opportunity | 26.00% | ~354,960 |
-| Bullet Train | 21.00% | ~286,698 |
-| Stylish Assassin | 20.00% | ~273,046 |
-| Silent Assassin | 14.00% | ~191,132 |
-| Rise Up | 12.00% | ~163,827 |
-| Evil Wine Club | 11.00% | ~150,175 |
-| Console Cowboy | 10.00% | ~136,523 |
-| Last Stop | 10.00% | ~136,523 |
-| A New Profile | 9.00% | ~122,871 |
-| Full House | 9.00% | ~122,871 |
-| Dune Raider | 8.00% | ~109,218 |
-| No Stone Unturned | 8.00% | ~109,218 |
-| Train Surfing | 8.00% | ~109,218 |
+| Unseen Assassin | 46.00% | ~628,010 |
+| Death From Above | 45.00% | ~614,358 |
+| Master of the Household | 38.00% | ~518,791 |
+| Death of the Party | 35.00% | ~477,834 |
+| NEXUS-47 | 32.00% | ~436,877 |
+| The Last Tango | 31.00% | ~423,224 |
+| Nightmare Fuel | 30.00% | ~409,572 |
+| The Result of Previous Training | 28.00% | ~382,267 |
+| Tools of the Trade | 28.00% | ~382,267 |
+| Cleared for Field Duty | 27.00% | ~368,615 |
+| Seizing the Opportunity | 26.00% | ~354,962 |
+| Bullet Train | 21.00% | ~286,700 |
+| Stylish Assassin | 20.00% | ~273,048 |
+| Silent Assassin | 14.00% | ~191,134 |
+| Rise Up | 12.00% | ~163,829 |
+| Evil Wine Club | 11.00% | ~150,176 |
+| Console Cowboy | 10.00% | ~136,524 |
+| Last Stop | 10.00% | ~136,524 |
+| A New Profile | 9.00% | ~122,872 |
+| Full House | 9.00% | ~122,872 |
+| Dune Raider | 8.00% | ~109,219 |
+| No Stone Unturned | 8.00% | ~109,219 |
+| Train Surfing | 8.00% | ~109,219 |
 | Family Feud | 6.00% | ~81,914 |
 | Icebreaker | 6.00% | ~81,914 |
 | Count Down From 47 | 6.00% | ~81,914 |
-| Shortcut Killer | 5.00% | ~68,261 |
-| Stair Master | 5.00% | ~68,261 |
-| Followed the Trails | 5.00% | ~68,261 |
-| Last Call | 5.00% | ~68,261 |
-| Rich Harvest | 5.00% | ~68,261 |
-| Treacherous Architecture | 4.00% | ~54,609 |
-| Upstairs, Downstairs | 4.00% | ~54,609 |
-| The Great Outdoors | 4.00% | ~54,609 |
-| Partied Out | 4.00% | ~54,609 |
-| Surveillance Master | 4.00% | ~54,609 |
+| Shortcut Killer | 5.00% | ~68,262 |
+| Stair Master | 5.00% | ~68,262 |
+| Followed the Trails | 5.00% | ~68,262 |
+| Last Call | 5.00% | ~68,262 |
+| Rich Harvest | 5.00% | ~68,262 |
+| Treacherous Architecture | 4.00% | ~54,610 |
+| Upstairs, Downstairs | 4.00% | ~54,610 |
+| The Great Outdoors | 4.00% | ~54,610 |
+| Partied Out | 4.00% | ~54,610 |
+| Surveillance Master | 4.00% | ~54,610 |
 | Training Escalated | 3.00% | ~40,957 |
 | Keep Your Eyes Peeled | 3.00% | ~40,957 |
 | Warehouse Veteran | 3.00% | ~40,957 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,652 |
 | The Creative Assassin | 0.70% | ~9,557 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,365,229 (Ranked 9)  
+Progressed: 1,365,240 (Ranked 9)  
 Completed: 2,199 (0.16%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,16 +286,16 @@ Completed: 2,199 (0.16%) (Ranked 271)
 | 2023-12-05 | 1,364,573 | 2,198 |
 | 2023-12-06 | 1,364,856 | 2,198 |
 | 2023-12-07 | 1,365,133 | 2,199 |
-| 2023-12-08 | 1,365,229 | 2,199 |
+| 2023-12-08 | 1,365,240 | 2,199 |
 ## Awards
 Max (Diverse Characters): 10,927  (Ranked 37)  
-Sum: 74,841 (Ranked 22)  
+Sum: 74,844 (Ranked 22)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 10,927 |
 | This game is Highly Recommended | 9,823 |
-| This game is Extremely Fun | 9,488 |
+| This game is Extremely Fun | 9,491 |
 | This game has Amazing Storytelling | 9,342 |
 | This game has Amazing Characters | 9,194 |
 | This game has Quickly Understood Controls | 8,765 |
@@ -650,4 +650,4 @@ Diff (max vs sum): 15
 | 2023-12-05 | 4.78 | - | 10,913 | 74,756 |
 | 2023-12-06 | 4.78 | - | 10,922 | 74,795 |
 | 2023-12-07 | 4.78 | - | 10,927 | 74,822 |
-| 2023-12-08 | 4.78 | - | 10,927 | 74,841 |
+| 2023-12-08 | 4.78 | - | 10,927 | 74,844 |

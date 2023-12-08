@@ -33,7 +33,7 @@
 | Cave Master | 13.00% | ~74 |
 | Face Slapper | 13.00% | ~74 |
 | Boss challenge | 10.00% | ~57 |
-| Berserker Slayer | 9.00% | ~51 |
+| Berserker Slayer | 10.00% | ~57 |
 | Master Cook | 8.00% | ~45 |
 | Giantess Slayer | 8.00% | ~45 |
 | Warden Slayer | 7.00% | ~40 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 567 (Ranked 307)  
+Progressed: 567 (Ranked 308)  
 Completed: 1 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |

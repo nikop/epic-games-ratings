@@ -2,7 +2,7 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 823,
+  "Ranking_Rating": 822,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 139,
@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22762,
+  "EOS_Progressed": 22763,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 800,
+  "EOS_NewPlayers": 798,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -19104,6 +19104,11 @@
       "Time": "2023-12-08T09:06:12.5149552+00:00",
       "NumProgressed": 22762,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-08T10:05:30.4128041+00:00",
+      "NumProgressed": 22763,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 16,
@@ -19147,7 +19152,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2731
+      "UsersEstimate": 2732
     },
     {
       "ID": "Feel_The_Thunder",
@@ -19187,7 +19192,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 8877
+      "UsersEstimate": 8878
     },
     {
       "ID": "Mirrors",
@@ -19242,15 +19247,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 22762,
+      "Progressed": 22763,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-11-18T21:04:30.8986363+00:00",
-  "LastChanged_Achievements": "2023-12-08T09:06:12.5149548+00:00",
+  "LastChanged_Achievements": "2023-12-08T10:05:30.4128037+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.3342523+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:00:38.329453+00:00",
-  "LastUpdate_Achievements": "2023-12-08T09:06:12.5150447+00:00"
+  "LastUpdate_Ratings": "2023-12-08T09:59:28.615001+00:00",
+  "LastUpdate_Achievements": "2023-12-08T10:05:30.4129123+00:00"
 }

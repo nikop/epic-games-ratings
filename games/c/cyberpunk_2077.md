@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,661 |
-| Gun Fu | 7.00% | ~68,052 |
-| The Fool | 6.00% | ~58,331 |
-| Right Back At Ya | 5.00% | ~48,609 |
-| The Lovers | 4.00% | ~38,887 |
-| Full Body Conversion | 3.00% | ~29,165 |
-| Stanislavski's Method | 3.00% | ~29,165 |
-| The Hermit | 3.00% | ~29,165 |
-| The Wheel of Fortune | 3.00% | ~29,165 |
-| True Soldier | 3.00% | ~29,165 |
-| Relic Ruler | 3.00% | ~3,024 |
-| All the President's Men | 3.00% | ~3,024 |
-| Arachnophobia | 3.00% | ~3,024 |
+| V for Vendetta | 12.00% | ~116,664 |
+| Gun Fu | 7.00% | ~68,054 |
+| The Fool | 6.00% | ~58,332 |
+| Right Back At Ya | 5.00% | ~48,610 |
+| The Lovers | 4.00% | ~38,888 |
+| Full Body Conversion | 3.00% | ~29,166 |
+| Stanislavski's Method | 3.00% | ~29,166 |
+| The Hermit | 3.00% | ~29,166 |
+| The Wheel of Fortune | 3.00% | ~29,166 |
+| True Soldier | 3.00% | ~29,166 |
+| Relic Ruler | 3.00% | ~3,025 |
+| All the President's Men | 3.00% | ~3,025 |
+| Arachnophobia | 3.00% | ~3,025 |
 | Christmas Tree Attack | 2.00% | ~19,444 |
 | The Quick and the Dead | 2.00% | ~19,444 |
 | Life of the Road | 2.00% | ~19,444 |
@@ -33,8 +33,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 1.00% | ~9,722 |
 | Judy vs Night City | 1.00% | ~9,722 |
 | Spin Doctor | 1.00% | ~1,008 |
-| The Wandering Fool | 0.80% | ~7,777 |
-| Easy Come, Easy Go | 0.80% | ~806 |
+| The Wandering Fool | 0.80% | ~7,778 |
+| Easy Come, Easy Go | 0.80% | ~807 |
 | King of Wands | 0.70% | ~706 |
 | Dirty Deeds | 0.70% | ~706 |
 | Ten out of Ten | 0.60% | ~5,833 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 972,178 (Ranked 15)  
-Completed: 2,854 (0.29%) (Ranked 241)  
+Progressed: 972,202 (Ranked 15)  
+Completed: 2,855 (0.29%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -306,10 +306,10 @@ Completed: 2,854 (0.29%) (Ranked 241)
 | 2023-12-05 | 970,654 | 2,844 |
 | 2023-12-06 | 971,359 | 2,847 |
 | 2023-12-07 | 971,994 | 2,852 |
-| 2023-12-08 | 972,178 | 2,854 |
+| 2023-12-08 | 972,202 | 2,855 |
 ## Awards
 Max (Character Customization): 118,778  (Ranked 9)  
-Sum: 398,648 (Ranked 9)  
+Sum: 398,869 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): 0
 | This game is Great for Beginners | 24,154 |
 | This game has Diverse Characters | 23,755 |
 | This game is Highly Recommended | 22,601 |
-| This game has Amazing Storytelling | 22,343 |
+| This game has Amazing Storytelling | 22,564 |
 | This game is Extremely Fun | 22,271 |
 | This game has Amazing Characters | 22,019 |
 | This game is Relaxing | 21,289 |
@@ -650,3 +650,4 @@ Diff (max vs sum): 0
 | 2023-12-05 | 4.66 | - | 117,137 | 391,296 |
 | 2023-12-06 | 4.66 | - | 118,092 | 395,344 |
 | 2023-12-07 | 4.66 | - | 118,778 | 398,648 |
+| 2023-12-08 | 4.66 | - | 118,778 | 398,869 |
