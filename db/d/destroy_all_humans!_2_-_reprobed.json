@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -526,9 +526,9 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -751,8 +751,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-10-14T18:57:04.8470544+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:05:25.3373393+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:05:36.4271872+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:22.421403+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:58:34.0233656+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:05:25.337371+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:58:52.1358506+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:05:36.427219+00:00"
 }

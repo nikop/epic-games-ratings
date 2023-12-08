@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 898,
+  "EOS_Progressed": 899,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 5.79,
+  "EOS_Completed_Percentage": 5.78,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3635,6 +3635,11 @@
       "Time": "2023-12-08T04:06:21.8098898+00:00",
       "NumProgressed": 898,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-08T07:05:20.1078511+00:00",
+      "NumProgressed": 899,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 25,
@@ -3766,7 +3771,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3790,7 +3795,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3806,7 +3811,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "PROGRESS_N2",
@@ -3814,7 +3819,7 @@
       "Name": "The great escape",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "PROGRESS_N3",
@@ -3822,7 +3827,7 @@
       "Name": "A new dawn",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "PROGRESS_N4",
@@ -3845,14 +3850,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 898,
+      "Progressed": 899,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:05:09.0339942+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:05:20.1078509+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:59:03.4555274+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:05:09.0341005+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:59:21.941199+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:05:20.1078823+00:00"
 }

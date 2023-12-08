@@ -1,25 +1,25 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 641)  
+Rating: 4.47 (Ranked 642)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~10,319 |
-| Overkill | 34.00% | ~8,557 |
+| I'm not dead yet | 41.00% | ~10,320 |
+| Overkill | 34.00% | ~8,558 |
 | Vaccine Incoming | 33.00% | ~8,306 |
-| A normal day in Gloomhaven | 31.00% | ~7,802 |
-| Spread the plague | 29.00% | ~7,299 |
-| Get over here! | 25.00% | ~6,292 |
+| A normal day in Gloomhaven | 31.00% | ~7,803 |
+| Spread the plague | 29.00% | ~7,300 |
+| Get over here! | 25.00% | ~6,293 |
 | Just when I thought I was out... | 19.00% | ~4,782 |
 | Precious! | 17.00% | ~4,279 |
 | Mine... All Mine... | 17.00% | ~4,279 |
-| Grizzled veteran | 15.00% | ~3,775 |
-| Anatomy Lesson | 15.00% | ~3,775 |
+| Grizzled veteran | 15.00% | ~3,776 |
+| Anatomy Lesson | 15.00% | ~3,776 |
 | Light of my life | 14.00% | ~3,524 |
 | Obstacle race | 13.00% | ~3,272 |
-| You activated my trap card! | 12.00% | ~3,020 |
+| You activated my trap card! | 12.00% | ~3,021 |
 | Who's the Boss? | 11.00% | ~2,769 |
 | Augmented rat | 11.00% | ~2,769 |
 | Doom and gloom | 11.00% | ~2,769 |
@@ -29,11 +29,11 @@ Number of Ratings: 68  (23.09.2022)
 | Black death | 8.00% | ~2,014 |
 | Play it again, Sam | 8.00% | ~2,014 |
 | Quad damage | 6.00% | ~1,510 |
-| Power Up! | 5.00% | ~1,258 |
-| Caught off guard | 5.00% | ~1,258 |
-| The Pro from Dover | 5.00% | ~1,258 |
-| Pretty lights! | 5.00% | ~1,258 |
-| Now you see me... | 5.00% | ~1,258 |
+| Power Up! | 5.00% | ~1,259 |
+| Caught off guard | 5.00% | ~1,259 |
+| The Pro from Dover | 5.00% | ~1,259 |
+| Pretty lights! | 5.00% | ~1,259 |
+| Now you see me... | 5.00% | ~1,259 |
 | Merchant of doom | 4.00% | ~1,007 |
 | I hate portals | 3.00% | ~755 |
 | Down the hatch | 3.00% | ~755 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~25 |
 | Murder Death Kill | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,169 (Ranked 132)  
+Progressed: 25,171 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-05 | 24,794 | 1 |
 | 2023-12-06 | 24,964 | 1 |
 | 2023-12-07 | 25,131 | 1 |
-| 2023-12-08 | 25,169 | 1 |
+| 2023-12-08 | 25,171 | 1 |
 ## Awards
 Max (Character Customization): 3,595  (Ranked 90)  
 Sum: 8,401 (Ranked 101)  

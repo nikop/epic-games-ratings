@@ -40,13 +40,13 @@ Number of Ratings: 45  (23.09.2022)
 | No More Nightmares | 0.30% | ~5 |
 | Plague Doctor | 0.30% | ~5 |
 | In Soil, In Smoke | 0.30% | ~5 |
+| Wingknight's Prowess | 0.30% | ~5 |
 | Bears are Scary | 0.30% | ~5 |
 | Grillmaster | 0.30% | ~5 |
 | Into Mulch | 0.30% | ~5 |
 | Tempest | 0.30% | ~5 |
 | Lochias's Hunger | 0.30% | ~5 |
 | We Emerge Changed | 0.20% | ~3 |
-| Wingknight's Prowess | 0.20% | ~3 |
 | I'm Not Smiling | 0.20% | ~3 |
 | Overwhelming Monstrosity | 0.10% | ~2 |
 | A Lowly Crust of Beef | 0.10% | ~2 |

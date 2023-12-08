@@ -6,16 +6,16 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,652 |
-| Gun Fu | 7.00% | ~68,047 |
-| The Fool | 6.00% | ~58,326 |
-| Right Back At Ya | 5.00% | ~48,605 |
-| The Lovers | 4.00% | ~38,884 |
-| Full Body Conversion | 3.00% | ~29,163 |
-| Stanislavski's Method | 3.00% | ~29,163 |
-| The Hermit | 3.00% | ~29,163 |
-| The Wheel of Fortune | 3.00% | ~29,163 |
-| True Soldier | 3.00% | ~29,163 |
+| V for Vendetta | 12.00% | ~116,654 |
+| Gun Fu | 7.00% | ~68,048 |
+| The Fool | 6.00% | ~58,327 |
+| Right Back At Ya | 5.00% | ~48,606 |
+| The Lovers | 4.00% | ~38,885 |
+| Full Body Conversion | 3.00% | ~29,164 |
+| Stanislavski's Method | 3.00% | ~29,164 |
+| The Hermit | 3.00% | ~29,164 |
+| The Wheel of Fortune | 3.00% | ~29,164 |
+| True Soldier | 3.00% | ~29,164 |
 | Relic Ruler | 3.00% | ~3,022 |
 | All the President's Men | 3.00% | ~3,022 |
 | Arachnophobia | 3.00% | ~3,022 |
@@ -39,9 +39,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Dirty Deeds | 0.70% | ~705 |
 | Ten out of Ten | 0.60% | ~5,833 |
 | The Sun | 0.60% | ~5,833 |
-| To Bad Decisions! | 0.50% | ~4,860 |
-| Breathtaking | 0.50% | ~4,860 |
-| The Star | 0.50% | ~4,860 |
+| To Bad Decisions! | 0.50% | ~4,861 |
+| Breathtaking | 0.50% | ~4,861 |
+| The Star | 0.50% | ~4,861 |
 | Autojock | 0.40% | ~3,888 |
 | Must Be Rats | 0.40% | ~3,888 |
 | The APB is Not Enough | 0.40% | ~403 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 972,098 (Ranked 15)  
+Progressed: 972,119 (Ranked 15)  
 Completed: 2,854 (0.29%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 2,854 (0.29%) (Ranked 241)
 | 2023-12-05 | 970,654 | 2,844 |
 | 2023-12-06 | 971,359 | 2,847 |
 | 2023-12-07 | 971,994 | 2,852 |
-| 2023-12-08 | 972,098 | 2,854 |
+| 2023-12-08 | 972,119 | 2,854 |
 ## Awards
 Max (Character Customization): 118,778  (Ranked 9)  
 Sum: 398,648 (Ranked 9)  

@@ -30,9 +30,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 0.50% | ~3,589 |
 | Take damage to save time | 0.50% | ~3,589 |
 | Martial Hub | 0.50% | ~136 |
-| Dance of the Praying Mantis | 0.40% | ~2,871 |
-| Qi Gong: Mind | 0.40% | ~2,871 |
-| I know Kung-Fu | 0.40% | ~2,871 |
+| Dance of the Praying Mantis | 0.40% | ~2,872 |
+| Qi Gong: Mind | 0.40% | ~2,872 |
+| I know Kung-Fu | 0.40% | ~2,872 |
 | Bloody Sport | 0.40% | ~109 |
 | Muk Yan Master | 0.30% | ~2,154 |
 | Tiger on Fire | 0.30% | ~2,154 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,873 (Ranked 22)  
+Progressed: 717,875 (Ranked 22)  
 Completed: 12,945 (1.80%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 12,945 (1.80%) (Ranked 136)
 | 2023-12-05 | 717,827 | 12,943 |
 | 2023-12-06 | 717,844 | 12,945 |
 | 2023-12-07 | 717,870 | 12,945 |
-| 2023-12-08 | 717,873 | 12,945 |
+| 2023-12-08 | 717,875 | 12,945 |
 ## Awards
 Max (Great Boss Battles): 6,893  (Ranked 55)  
 Sum: 11,659 (Ranked 84)  

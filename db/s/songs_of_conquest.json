@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1623,6 +1623,11 @@
       "Time": "2023-12-08T04:05:29.1845527+00:00",
       "NumProgressed": 374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T07:04:38.508608+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1643,7 +1648,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -1899,7 +1904,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -1907,7 +1912,7 @@
       "Name": "Such A Fungi",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SorcerousSpree",
@@ -1947,7 +1952,7 @@
       "Name": "Trojan Horse",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "UltraKill",
@@ -1971,7 +1976,7 @@
       "Name": "Veteran",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "WielderLevel3",
@@ -2003,7 +2008,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "WinBattleWithoutAttacking",
@@ -2066,15 +2071,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:04:27.4640266+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:04:38.5086077+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-08T06:00:10.6988456+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:04:27.4640958+00:00"
+  "LastUpdate_Ratings": "2023-12-08T07:00:29.6472381+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:04:38.5086599+00:00"
 }

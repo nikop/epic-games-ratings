@@ -47,6 +47,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 3.00% | ~470 |
 | Lighthouse | 3.00% | ~470 |
 | Musaeum | 3.00% | ~470 |
+| Necropolis | 3.00% | ~470 |
 | Learn to Play 1 | 3.00% | ~470 |
 | Learn to Play 2 | 3.00% | ~470 |
 | Christianity | 3.00% | ~470 |
@@ -78,7 +79,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 2.00% | ~313 |
 | Temple of Solomon | 2.00% | ~313 |
 | Mausoleum | 2.00% | ~313 |
-| Necropolis | 2.00% | ~313 |
 | Learn to Play 3 | 2.00% | ~313 |
 | Greece | 2.00% | ~313 |
 | Power to the People | 2.00% | ~313 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,671 (Ranked 152)  
+Progressed: 15,672 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,7 +581,7 @@ Completed: 5 (0.03%) (Ranked 332)
 | 2023-12-05 | 15,649 | 5 |
 | 2023-12-06 | 15,662 | 5 |
 | 2023-12-07 | 15,669 | 5 |
-| 2023-12-08 | 15,671 | 5 |
+| 2023-12-08 | 15,672 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 275)  
 Sum: 1,894 (Ranked 220)  

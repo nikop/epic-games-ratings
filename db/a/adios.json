@@ -123,7 +123,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80042,
+  "EOS_Progressed": 80044,
   "EOS_Completed": 865,
   "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 7,
@@ -25933,6 +25933,11 @@
       "Time": "2023-12-08T06:04:03.0589186+00:00",
       "NumProgressed": 80042,
       "NumCompleted": 865
+    },
+    {
+      "Time": "2023-12-08T07:04:13.5540744+00:00",
+      "NumProgressed": 80044,
+      "NumCompleted": 865
     }
   ],
   "TotalAchievements": 25,
@@ -25976,7 +25981,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17609
+      "UsersEstimate": 17610
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -26016,7 +26021,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16008
+      "UsersEstimate": 16009
     },
     {
       "ID": "Hearty",
@@ -26136,14 +26141,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6403
+      "UsersEstimate": 6404
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80042,
+      "Progressed": 80044,
       "Completed": 865
     }
   ],
@@ -26151,8 +26156,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:04:03.0589181+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:04:13.5540741+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:32.9169393+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:56:52.7731408+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:04:03.0591586+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:57:11.1522186+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:04:13.5542101+00:00"
 }

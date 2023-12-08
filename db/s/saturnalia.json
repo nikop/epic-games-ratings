@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69071,
+  "EOS_Progressed": 69075,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16993,6 +16993,11 @@
       "Time": "2023-12-08T05:04:08.1952415+00:00",
       "NumProgressed": 69071,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-08T07:04:17.639468+00:00",
+      "NumProgressed": 69075,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -17004,7 +17009,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 105,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "ACH_BONFIRES",
@@ -17060,7 +17065,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -17092,7 +17097,7 @@
       "Name": "Acceptance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "ACH_PHONECAPTURE",
@@ -17124,7 +17129,7 @@
       "Name": "Chain Breaker",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "ACH_SERGIOMISSION",
@@ -17148,7 +17153,7 @@
       "Name": "Bargaining",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "ACH_TOOLS",
@@ -17163,7 +17168,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 69071,
+      "Progressed": 69075,
       "Completed": 18
     }
   ],
@@ -17171,8 +17176,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:04:07.2029206+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:04:17.6394674+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:10.2899379+00:00",
-  "LastUpdate_Ratings": "2023-12-08T06:00:19.2772011+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:04:07.2030233+00:00"
+  "LastUpdate_Ratings": "2023-12-08T07:00:38.4611344+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:04:17.6395429+00:00"
 }

@@ -4577,9 +4577,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77777,
+  "EOS_Progressed": 77778,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25332,6 +25332,11 @@
       "Time": "2023-12-08T06:04:34.6106687+00:00",
       "NumProgressed": 77777,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-08T07:04:45.2389517+00:00",
+      "NumProgressed": 77778,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25575,7 +25580,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15555
+      "UsersEstimate": 15556
     },
     {
       "ID": "FREEZE_2",
@@ -25647,7 +25652,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26444
+      "UsersEstimate": 26445
     },
     {
       "ID": "HARLEY_2",
@@ -25663,7 +25668,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15555
+      "UsersEstimate": 15556
     },
     {
       "ID": "HARLEY_4",
@@ -25687,7 +25692,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38888
+      "UsersEstimate": 38889
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25711,7 +25716,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15555
+      "UsersEstimate": 15556
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -25735,7 +25740,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25666
+      "UsersEstimate": 25667
     },
     {
       "ID": "MYSTERY_02",
@@ -25743,7 +25748,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18666
+      "UsersEstimate": 18667
     },
     {
       "ID": "MYSTERY_03",
@@ -25759,7 +25764,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15555
+      "UsersEstimate": 15556
     },
     {
       "ID": "MYSTERY_05",
@@ -25799,7 +25804,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8555
+      "UsersEstimate": 8556
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -25830,13 +25835,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77777,
+      "Progressed": 77778,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48057,
+      "Progressed": 48058,
       "Completed": 2675
     }
   ],
@@ -25844,8 +25849,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-08T05:59:38.4468085+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:04:34.610668+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:04:45.2389514+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:59:38.4468091+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:04:34.6108493+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:59:57.0505718+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:04:45.2390886+00:00"
 }

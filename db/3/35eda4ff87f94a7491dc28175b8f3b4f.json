@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -239,7 +239,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12909,
+  "EOS_Progressed": 12915,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 2089,
   "EOS_NewCompleters": 9,
@@ -3564,6 +3564,11 @@
       "Time": "2023-12-08T06:05:09.2104513+00:00",
       "NumProgressed": 12909,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-08T07:05:20.4331822+00:00",
+      "NumProgressed": 12915,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -3616,7 +3621,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -3624,7 +3629,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -3655,7 +3660,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 12909,
+      "Progressed": 12915,
       "Completed": 46
     }
   ],
@@ -3663,8 +3668,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-06T14:00:20.2196206+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:05:09.2104508+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:05:20.4331819+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:57.9778302+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:59:58.0881002+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:05:09.2104919+00:00"
+  "LastUpdate_Ratings": "2023-12-08T07:00:16.9494335+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:05:20.4332069+00:00"
 }

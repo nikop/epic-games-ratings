@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -481,9 +481,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBROTHER",
       "SetID": "caeik3h",
       "Name": "My Watch Begins",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
@@ -929,9 +929,9 @@
       "ID": "KR4_ACHIEVEMENT_SELL_TOWERS",
       "SetID": "caeik3h",
       "Name": "Go Green or Go Home",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "KR4_ACHIEVEMENT_SHADOWARCHERS",
@@ -1078,8 +1078,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:03:19.5276855+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:03:29.699982+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:53.8103037+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:57:56.2754821+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:03:19.5277875+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:58:14.6990064+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:03:29.700044+00:00"
 }

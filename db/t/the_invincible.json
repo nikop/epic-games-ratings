@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525,
+  "EOS_Progressed": 526,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1500,6 +1500,11 @@
       "Time": "2023-12-07T17:08:50.1045556+00:00",
       "NumProgressed": 525,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T07:09:09.5864167+00:00",
+      "NumProgressed": 526,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1526,9 +1531,9 @@
       "ID": "AchvAssertive",
       "SetID": "1hj060c",
       "Name": "On her own",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 89
     },
     {
       "ID": "AchvBattleScore",
@@ -1542,9 +1547,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 116
+      "UsersEstimate": 110
     },
     {
       "ID": "AchvBombing",
@@ -1574,9 +1579,9 @@
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 132
     },
     {
       "ID": "AchvDoom",
@@ -1600,7 +1605,7 @@
       "Name": "Another giant",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "AchvKrautaAlive",
@@ -1632,7 +1637,7 @@
       "Name": "I leave no man behind (no exceptions)",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AchvNecro",
@@ -1640,7 +1645,7 @@
       "Name": "The Necroevolution",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "AchvNest",
@@ -1712,7 +1717,7 @@
       "Name": "Survivors",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1743,14 +1748,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 525,
+      "Progressed": 526,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:08:49.2248399+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:09:09.5864163+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:59:35.418142+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:08:49.224869+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:59:54.3559303+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:09:09.5864369+00:00"
 }

@@ -5,15 +5,15 @@ Rating: 4.74 (Ranked 158)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~9,932 |
-| I Challenge You To Save More Money! | 86.00% | ~9,285 |
-| I Love How Tough You Are | 73.00% | ~7,881 |
-| Wanna Come To My Place For Dinner? | 66.00% | ~7,125 |
-| What I Want Is You | 61.00% | ~6,586 |
-| To Be Or Not To Be | 58.00% | ~6,262 |
-| Are You Alright? | 50.00% | ~5,398 |
-| Love Actually | 49.00% | ~5,290 |
-| Drama King | 42.00% | ~4,534 |
+| Last Night...Did We... | 92.00% | ~9,934 |
+| I Challenge You To Save More Money! | 86.00% | ~9,286 |
+| I Love How Tough You Are | 73.00% | ~7,883 |
+| Wanna Come To My Place For Dinner? | 66.00% | ~7,127 |
+| What I Want Is You | 61.00% | ~6,587 |
+| To Be Or Not To Be | 58.00% | ~6,263 |
+| Are You Alright? | 50.00% | ~5,399 |
+| Love Actually | 49.00% | ~5,291 |
+| Drama King | 42.00% | ~4,535 |
 | You're Really Something Else | 37.00% | ~3,995 |
 | Go Clean up In Your Own Way | 36.00% | ~3,887 |
 | Happy Family | 35.00% | ~3,779 |
@@ -27,15 +27,15 @@ Rating: 4.74 (Ranked 158)
 | Days Of Innocence | 30.00% | ~3,239 |
 | David | 29.00% | ~3,131 |
 | A Slap In The Face! | 26.00% | ~2,807 |
-| All I Have Is Money | 25.00% | ~2,699 |
-| That's So You | 25.00% | ~2,699 |
-| SALUTE | 25.00% | ~2,699 |
-| Lover In Dark Alley | 24.00% | ~2,591 |
-| Let Me Be Your Toy Boy | 24.00% | ~2,591 |
-| Off We Sail Tonight | 19.00% | ~2,051 |
-| Love You Three Thousand | 16.00% | ~1,727 |
-| Can You Do This Or Not? | 16.00% | ~1,727 |
-| Doesn't Matter I'll Handle It | 14.00% | ~1,511 |
+| All I Have Is Money | 25.00% | ~2,700 |
+| That's So You | 25.00% | ~2,700 |
+| SALUTE | 25.00% | ~2,700 |
+| Lover In Dark Alley | 24.00% | ~2,592 |
+| Let Me Be Your Toy Boy | 24.00% | ~2,592 |
+| Off We Sail Tonight | 19.00% | ~2,052 |
+| Love You Three Thousand | 16.00% | ~1,728 |
+| Can You Do This Or Not? | 16.00% | ~1,728 |
+| Doesn't Matter I'll Handle It | 14.00% | ~1,512 |
 | The Flash | 12.00% | ~1,296 |
 | New Yoga Pose Unlocked | 12.00% | ~1,296 |
 | My Dear Love! | 9.00% | ~972 |
@@ -48,7 +48,7 @@ Rating: 4.74 (Ranked 158)
 | Tall; Grande; Venti | 2.00% | ~216 |
 | Limerence | 2.00% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,796 (Ranked 164)  
+Progressed: 10,798 (Ranked 164)  
 Completed: 196 (1.82%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 196 (1.82%) (Ranked 134)
 | 2023-12-05 | 10,712 | 192 |
 | 2023-12-06 | 10,748 | 194 |
 | 2023-12-07 | 10,791 | 195 |
-| 2023-12-08 | 10,796 | 196 |
+| 2023-12-08 | 10,798 | 196 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 535)  
 Sum: 23 (Ranked 538)  

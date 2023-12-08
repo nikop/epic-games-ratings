@@ -2,7 +2,7 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 386,
   "Ranking_Popularity": 234,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 37,
@@ -4270,9 +4270,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 498279,
+  "EOS_Progressed": 498284,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2987,
+  "EOS_NewPlayers": 2980,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30790,6 +30790,11 @@
       "Time": "2023-12-08T06:03:02.5886169+00:00",
       "NumProgressed": 498279,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T07:03:12.459253+00:00",
+      "NumProgressed": 498284,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -30905,7 +30910,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14948
+      "UsersEstimate": 14949
     },
     {
       "ID": "ACH_JR_50",
@@ -30929,7 +30934,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14948
+      "UsersEstimate": 14949
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -31033,7 +31038,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14948
+      "UsersEstimate": 14949
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -31057,7 +31062,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14948
+      "UsersEstimate": 14949
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -31080,15 +31085,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 498279,
+      "Progressed": 498284,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-12-07T17:59:47.0733914+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:03:02.5886156+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:03:12.4592527+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.9367232+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:59:48.9960325+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:03:02.5888736+00:00"
+  "LastUpdate_Ratings": "2023-12-08T07:00:07.7840772+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:03:12.459457+00:00"
 }

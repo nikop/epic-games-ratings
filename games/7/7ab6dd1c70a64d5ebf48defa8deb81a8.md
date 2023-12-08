@@ -17,15 +17,15 @@
 | Shatter Them All | 10.00% | ~25 |
 | Scholar | 10.00% | ~25 |
 | Stone Collection | 10.00% | ~25 |
-| Big Bazar | 9.00% | ~22 |
-| Fashion Victim | 9.00% | ~22 |
+| Big Bazar | 9.00% | ~23 |
+| Fashion Victim | 9.00% | ~23 |
 | Calm before the Storm | 7.00% | ~18 |
 | Essence Blow | 7.00% | ~18 |
 | Alchemist | 7.00% | ~18 |
 | To Battle | 6.00% | ~15 |
 | Godslayer | 6.00% | ~15 |
 | The Mentor | 6.00% | ~15 |
-| Fine Feathers Make Fine Birds | 5.00% | ~12 |
+| Fine Feathers Make Fine Birds | 5.00% | ~13 |
 | Clear Sight | 4.00% | ~10 |
 | Airborne | 4.00% | ~10 |
 | Shatterer | 4.00% | ~10 |
@@ -37,11 +37,11 @@
 | Miner | 2.00% | ~5 |
 | A Queen's Tale | 2.00% | ~5 |
 | Summiter | 2.00% | ~5 |
-| Forgemaster | 1.00% | ~2 |
+| Forgemaster | 1.00% | ~3 |
 | Shardbearer | 0.80% | ~2 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250 (Ranked 374)  
+Progressed: 251 (Ranked 374)  
 Completed: 2 (0.80%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,3 +98,4 @@ Completed: 2 (0.80%) (Ranked 183)
 | 2023-12-05 | 247 | 2 |
 | 2023-12-06 | 248 | 2 |
 | 2023-12-07 | 250 | 2 |
+| 2023-12-08 | 251 | 2 |

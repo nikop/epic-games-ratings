@@ -244,9 +244,9 @@
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "DopaMiner",
@@ -435,8 +435,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:05:31.0207108+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:05:42.0153655+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:16.2831296+00:00",
-  "LastUpdate_Ratings": "2023-12-08T06:02:51.813579+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:05:31.0207314+00:00"
+  "LastUpdate_Ratings": "2023-12-08T07:03:00.2570931+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:05:42.0153886+00:00"
 }

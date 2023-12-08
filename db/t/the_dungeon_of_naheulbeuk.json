@@ -1473,9 +1473,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 241721,
+  "EOS_Progressed": 241725,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1151,
+  "EOS_NewPlayers": 1153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21468,6 +21468,11 @@
       "Time": "2023-12-08T06:09:08.4731766+00:00",
       "NumProgressed": 241721,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-08T07:09:29.2741087+00:00",
+      "NumProgressed": 241725,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -21527,7 +21532,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16920
+      "UsersEstimate": 16921
     },
     {
       "ID": "Chapter2",
@@ -21927,7 +21932,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87020
+      "UsersEstimate": 87021
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -22063,7 +22068,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "QuestEmile",
@@ -22182,21 +22187,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 241721,
+      "Progressed": 241725,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 241721,
+      "Progressed": 241725,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-07T01:47:10.3363266+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:09:08.4731763+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:09:29.2741084+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:09.0043717+00:00",
-  "LastUpdate_Ratings": "2023-12-08T06:00:11.1004042+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:09:08.4733391+00:00"
+  "LastUpdate_Ratings": "2023-12-08T07:00:30.1384532+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:09:29.2742516+00:00"
 }

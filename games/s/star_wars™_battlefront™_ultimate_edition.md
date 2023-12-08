@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~1,449 |
+| New Recruit | 90.00% | ~1,450 |
 | Off to a good start | 67.00% | ~1,079 |
-| Do... or do not. There is no try | 51.00% | ~821 |
+| Do... or do not. There is no try | 51.00% | ~822 |
 | A good blaster at your side | 30.00% | ~483 |
 | I suggest a new strategy | 19.00% | ~306 |
 | Scrap collector | 18.00% | ~290 |
 | Great shot, kid! | 18.00% | ~290 |
 | All right, I'll give it a try | 17.00% | ~274 |
-| The power of the Force | 14.00% | ~225 |
-| Collector | 14.00% | ~225 |
-| Shoot first | 14.00% | ~225 |
+| The power of the Force | 14.00% | ~226 |
+| Collector | 14.00% | ~226 |
+| Shoot first | 14.00% | ~226 |
 | Together we can rule the galaxy | 13.00% | ~209 |
 | Tell Jabba that I've got his money | 10.00% | ~161 |
 | Best star-pilot in the galaxy | 9.00% | ~145 |
@@ -26,8 +26,8 @@
 | Impressive. Most impressive. | 6.00% | ~97 |
 | Judge me by my size, do you? | 6.00% | ~97 |
 | Support the troops | 6.00% | ~97 |
-| Distinguished | 5.00% | ~80 |
-| A tremor in the Force | 5.00% | ~80 |
+| Distinguished | 5.00% | ~81 |
+| A tremor in the Force | 5.00% | ~81 |
 | On the ball | 4.00% | ~64 |
 | Safety ain't the point of a joyride | 4.00% | ~64 |
 | Not bad for a little furball | 4.00% | ~64 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,610 (Ranked 239)  
+Progressed: 1,611 (Ranked 239)  
 Completed: 1 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.06%) (Ranked 313)
 | 2023-12-05 | 1,589 | 1 |
 | 2023-12-06 | 1,595 | 1 |
 | 2023-12-07 | 1,604 | 1 |
-| 2023-12-08 | 1,610 | 1 |
+| 2023-12-08 | 1,611 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

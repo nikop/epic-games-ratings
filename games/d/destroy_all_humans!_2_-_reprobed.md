@@ -6,8 +6,8 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Rock of the Bay | 30.00% | ~7 |
 | Mash Machine | 26.00% | ~6 |
-| Rock of the Bay | 26.00% | ~6 |
 | Ducks in a Row, Fish in a Barrel | 17.00% | ~4 |
 | Furon Fashion | 13.00% | ~3 |
 | Shop Til They Drop | 13.00% | ~3 |

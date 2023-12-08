@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 543,
+  "EOS_Progressed": 548,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 541,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -112,6 +112,11 @@
       "Time": "2023-12-08T06:08:55.322469+00:00",
       "NumProgressed": 543,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T07:09:15.8702567+00:00",
+      "NumProgressed": 548,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -122,15 +127,15 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 82
     },
     {
       "ID": "03_TheStolenStar",
       "SetID": "37a94m8",
       "Name": "Stolen Star",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -226,9 +231,9 @@
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "16_TheRise",
@@ -338,9 +343,9 @@
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "30_The GreatestExploration",
@@ -370,9 +375,9 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -643,14 +648,14 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 543,
+      "Progressed": 548,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:08:55.3224686+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:09:15.8702564+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:57:51.8644217+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:08:55.3225368+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:58:10.2392083+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:09:15.8703065+00:00"
 }

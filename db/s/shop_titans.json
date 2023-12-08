@@ -7429,7 +7429,7 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144220,
+  "EOS_Progressed": 144225,
   "EOS_Completed": 291,
   "EOS_NewPlayers": 1103,
   "EOS_NewCompleters": 1,
@@ -31519,6 +31519,11 @@
       "Time": "2023-12-08T06:04:18.1941764+00:00",
       "NumProgressed": 144220,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-08T07:04:29.2433385+00:00",
+      "NumProgressed": 144225,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -31698,7 +31703,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10095
+      "UsersEstimate": 10096
     },
     {
       "ID": "chest02",
@@ -31762,7 +31767,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10095
+      "UsersEstimate": 10096
     },
     {
       "ID": "commonres02",
@@ -32002,7 +32007,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8653
+      "UsersEstimate": 8654
     },
     {
       "ID": "gold02",
@@ -32346,7 +32351,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10095
+      "UsersEstimate": 10096
     },
     {
       "ID": "twinenchant01",
@@ -32425,15 +32430,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144220,
+      "Progressed": 144225,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-07T20:02:59.553753+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:04:18.1941759+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:04:29.2433381+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-08T06:02:49.4017812+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:04:18.1944557+00:00"
+  "LastUpdate_Ratings": "2023-12-08T07:02:57.7725645+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:04:29.2435413+00:00"
 }

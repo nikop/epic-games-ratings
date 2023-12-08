@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -1000,6 +1000,11 @@
       "Time": "2023-12-07T15:09:43.052816+00:00",
       "NumProgressed": 250,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T07:09:55.1138604+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 36,
@@ -1091,7 +1096,7 @@
       "Name": "Forgemaster",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_12",
@@ -1171,7 +1176,7 @@
       "Name": "Big Bazar",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_22",
@@ -1179,7 +1184,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_23",
@@ -1203,7 +1208,7 @@
       "Name": "Fashion Victim",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_26",
@@ -1298,14 +1303,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-08T06:09:33.7385454+00:00",
+  "LastChanged_Achievements": "2023-12-08T07:09:55.1138599+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:12.3755943+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:57:49.6100335+00:00",
-  "LastUpdate_Achievements": "2023-12-08T06:09:33.7385731+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:58:07.9710651+00:00",
+  "LastUpdate_Achievements": "2023-12-08T07:09:55.1138904+00:00"
 }
