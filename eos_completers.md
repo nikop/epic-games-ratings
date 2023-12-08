@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.25% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.24% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -60,7 +60,7 @@
 | 58 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
 | 59 | [Scorn](games/s/scorn.md) | 7.12% |
 | 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.10% |
-| 61 | [Sonic Origins](games/s/sonic_origins.md) | 7.06% |
+| 61 | [Sonic Origins](games/s/sonic_origins.md) | 7.05% |
 | 62 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.98% |
 | 64 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.60% |
@@ -69,7 +69,7 @@
 | 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 67 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.80% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.79% |
 | 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.66% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
@@ -102,14 +102,14 @@
 | 100 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 100 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
 | 102 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.11% |
-| 103 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.10% |
+| 103 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.09% |
 | 104 | [Doodle God](games/d/doodle_god.md) | 3.08% |
 | 104 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 106 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.06% |
 | 107 | [HordeCore](games/h/hordecore.md) | 3.04% |
 | 108 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
-| 108 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.95% |
-| 110 | [Without Escape](games/w/without_escape.md) | 2.94% |
+| 109 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.94% |
+| 109 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 111 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 112 | [Night Book](games/n/night_book.md) | 2.80% |
 | 113 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
@@ -150,7 +150,7 @@
 | 148 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.37% |
 | 149 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.35% |
 | 150 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.34% |
-| 150 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.34% |
+| 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.33% |
 | 152 | [Poosh XL](games/p/poosh_xl.md) | 1.31% |
 | 153 | [Chorus](games/c/chorus.md) | 1.30% |
 | 154 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.29% |
@@ -258,13 +258,13 @@
 | 256 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 257 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 258 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.20% |
+| 258 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.20% |
 | 258 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 258 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
 | 258 | [Scrapnaut](games/s/scrapnaut.md) | 0.20% |
 | 258 | [Shop Titans](games/s/shop_titans.md) | 0.20% |
 | 258 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.20% |
 | 258 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
-| 265 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.19% |
 | 266 | [Blanc](games/b/blanc.md) | 0.18% |
 | 266 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.18% |
 | 266 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
@@ -785,4 +785,4 @@
 | 371 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 371 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 371 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,685 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,686 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
