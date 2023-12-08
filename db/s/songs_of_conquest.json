@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1777,9 +1777,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 101
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2073,8 +2073,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-08T05:04:26.7496198+00:00",
+  "LastChanged_Achievements": "2023-12-08T06:04:27.4640266+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:00:11.9203365+00:00",
-  "LastUpdate_Achievements": "2023-12-08T05:04:26.7496597+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:00:10.6988456+00:00",
+  "LastUpdate_Achievements": "2023-12-08T06:04:27.4640958+00:00"
 }

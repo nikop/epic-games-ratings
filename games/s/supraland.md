@@ -1,31 +1,31 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 386)  
+Rating: 4.61 (Ranked 385)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~727,982 |
-| The Blues | 85.00% | ~625,035 |
-| Fast | 66.00% | ~485,321 |
-| Healthbar | 55.00% | ~404,434 |
+| Out of bed | 99.00% | ~727,983 |
+| The Blues | 85.00% | ~625,036 |
+| Fast | 66.00% | ~485,322 |
+| Healthbar | 55.00% | ~404,435 |
 | Force Cube | 53.00% | ~389,728 |
 | Double Jump | 48.00% | ~352,961 |
-| Regeneration | 47.00% | ~345,607 |
+| Regeneration | 47.00% | ~345,608 |
 | Triple Jump | 43.00% | ~316,194 |
 | Climb the hill | 42.00% | ~308,841 |
 | Through the fire pipe | 39.00% | ~286,781 |
-| MacGuffin | 38.00% | ~279,427 |
+| MacGuffin | 38.00% | ~279,428 |
 | Just once | 37.00% | ~272,074 |
-| Armor | 30.00% | ~220,600 |
+| Armor | 30.00% | ~220,601 |
 | True holy spirit | 28.00% | ~205,894 |
-| That's how electronics work obviously | 27.00% | ~198,540 |
+| That's how electronics work obviously | 27.00% | ~198,541 |
 | Force Cube Catapult | 25.00% | ~183,834 |
 | Holy Sword | 23.00% | ~169,127 |
 | Telefrag | 23.00% | ~169,127 |
-| Freed from prison | 21.00% | ~154,420 |
-| Stomp | 21.00% | ~154,420 |
+| Freed from prison | 21.00% | ~154,421 |
+| Stomp | 21.00% | ~154,421 |
 | Double Health | 19.00% | ~139,714 |
 | Buckle | 18.00% | ~132,360 |
 | Green Keycard | 18.00% | ~132,360 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~735 |
 | DLC: Top of the world | 0.10% | ~735 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,335 (Ranked 20)  
+Progressed: 735,336 (Ranked 20)  
 Completed: 767 (0.10%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 767 (0.10%) (Ranked 290)
 | 2023-12-05 | 735,152 | 766 |
 | 2023-12-06 | 735,227 | 767 |
 | 2023-12-07 | 735,319 | 767 |
-| 2023-12-08 | 735,335 | 767 |
+| 2023-12-08 | 735,336 | 767 |
 ## Awards
 Max (Challenging Puzzles): 7,742  (Ranked 50)  
 Sum: 10,103 (Ranked 92)  

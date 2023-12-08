@@ -17,8 +17,8 @@
 | Krauta is alive | 22.00% | ~116 |
 | Volcanologist | 20.00% | ~105 |
 | On her own | 18.00% | ~94 |
+| Beyond divisions | 17.00% | ~89 |
 | Evacuation | 16.00% | ~84 |
-| Beyond divisions | 16.00% | ~84 |
 | Fierce fight | 15.00% | ~79 |
 | Flying Objects Operator | 14.00% | ~74 |
 | I remember everything! | 13.00% | ~68 |

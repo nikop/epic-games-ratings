@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4503,18 +4503,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 5118,
       "NumberOfAwardsMax": 2996
+    },
+    {
+      "Time": "2023-12-08T05:59:38.4468087+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5123,
+      "NumberOfAwardsMax": 3001
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5118,
-  "NumberOfAwardsMax": 2996,
+  "NumberOfAwards": 5123,
+  "NumberOfAwardsMax": 3001,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2996
+      "Count": 3001
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4571,9 +4577,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77776,
+  "EOS_Progressed": 77777,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25321,6 +25327,11 @@
       "Time": "2023-12-08T03:04:32.7406692+00:00",
       "NumProgressed": 77776,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-08T06:04:34.6106687+00:00",
+      "NumProgressed": 77777,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25420,7 +25431,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11666
+      "UsersEstimate": 11667
     },
     {
       "ID": "CHALLENGES_1",
@@ -25556,7 +25567,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21777
+      "UsersEstimate": 21778
     },
     {
       "ID": "FREEZE_1_5",
@@ -25572,7 +25583,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14777
+      "UsersEstimate": 14778
     },
     {
       "ID": "FREEZE_3",
@@ -25764,7 +25775,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11666
+      "UsersEstimate": 11667
     },
     {
       "ID": "MYSTERY_07",
@@ -25819,22 +25830,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77776,
+      "Progressed": 77777,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48056,
+      "Progressed": 48057,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-12-07T22:00:19.9146548+00:00",
-  "LastChanged_Achievements": "2023-12-08T05:04:32.8453529+00:00",
+  "LastChanged": "2023-12-08T05:59:38.4468085+00:00",
+  "LastChanged_Achievements": "2023-12-08T06:04:34.610668+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-08T04:59:42.1156307+00:00",
-  "LastUpdate_Achievements": "2023-12-08T05:04:32.8454816+00:00"
+  "LastUpdate_Ratings": "2023-12-08T05:59:38.4468091+00:00",
+  "LastUpdate_Achievements": "2023-12-08T06:04:34.6108493+00:00"
 }

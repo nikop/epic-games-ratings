@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -979,9 +979,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9269,
+  "EOS_Progressed": 9270,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8939,6 +8939,11 @@
       "Time": "2023-12-08T01:54:44.2238351+00:00",
       "NumProgressed": 9269,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-08T06:06:25.367542+00:00",
+      "NumProgressed": 9270,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8958,7 +8963,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -8966,7 +8971,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4078
+      "UsersEstimate": 4079
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -8982,7 +8987,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -9278,7 +9283,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4727
+      "UsersEstimate": 4728
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -9302,14 +9307,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4727
+      "UsersEstimate": 4728
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9269,
+      "Progressed": 9270,
       "Completed": 10
     }
   ],
@@ -9317,8 +9322,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-07T18:57:49.7732278+00:00",
-  "LastChanged_Achievements": "2023-12-08T05:06:14.8499513+00:00",
+  "LastChanged_Achievements": "2023-12-08T06:06:25.3675416+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:20.0438707+00:00",
-  "LastUpdate_Ratings": "2023-12-08T04:58:12.0162676+00:00",
-  "LastUpdate_Achievements": "2023-12-08T05:06:14.8500209+00:00"
+  "LastUpdate_Ratings": "2023-12-08T05:58:00.7187094+00:00",
+  "LastUpdate_Achievements": "2023-12-08T06:06:25.367626+00:00"
 }

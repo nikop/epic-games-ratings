@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape from Fleed | 46.00% | ~6 |
-| First Contact | 38.00% | ~5 |
-| Strength in Defeat | 38.00% | ~5 |
-| The Remains of Fleed | 38.00% | ~5 |
-| Life of Pi | 38.00% | ~5 |
-| Technology first! | 38.00% | ~5 |
-| The Legend | 38.00% | ~5 |
-| The Keeper of Fleed | 31.00% | ~4 |
-| The Space Hydra | 23.00% | ~3 |
-| A Good Paint Job | 15.00% | ~2 |
-| Iron Fist | 15.00% | ~2 |
-| The Exterminator | 15.00% | ~2 |
-| The Royal Guard | 15.00% | ~2 |
-| The Vega Turtle | 15.00% | ~2 |
-| The Power of Friendship | 8.00% | ~1 |
-| The Planner | 8.00% | ~1 |
-| Earth's Savior | 8.00% | ~1 |
-| Saucer Beast Unchained | 8.00% | ~1 |
-| The Battle Axe | 8.00% | ~1 |
-| The Interstellar Fighter | 8.00% | ~1 |
-| The Ultimate Attack | 8.00% | ~1 |
-| Vengeance of the Wolf | 8.00% | ~1 |
+| Escape from Fleed | 43.00% | ~6 |
+| First Contact | 36.00% | ~5 |
+| Strength in Defeat | 36.00% | ~5 |
+| The Remains of Fleed | 36.00% | ~5 |
+| Life of Pi | 36.00% | ~5 |
+| Technology first! | 36.00% | ~5 |
+| The Legend | 36.00% | ~5 |
+| The Keeper of Fleed | 29.00% | ~4 |
+| The Space Hydra | 21.00% | ~3 |
+| A Good Paint Job | 14.00% | ~2 |
+| Iron Fist | 14.00% | ~2 |
+| The Exterminator | 14.00% | ~2 |
+| The Royal Guard | 14.00% | ~2 |
+| The Vega Turtle | 14.00% | ~2 |
+| The Power of Friendship | 7.00% | ~1 |
+| The Planner | 7.00% | ~1 |
+| Earth's Savior | 7.00% | ~1 |
+| Saucer Beast Unchained | 7.00% | ~1 |
+| The Battle Axe | 7.00% | ~1 |
+| The Interstellar Fighter | 7.00% | ~1 |
+| The Ultimate Attack | 7.00% | ~1 |
+| Vengeance of the Wolf | 7.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
 | You can't fool me! | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | The Fire Cannons | 0.00% | ~0 |
 | The Flying Octopus | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 604)  
+Progressed: 14 (Ranked 601)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,3 +48,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-11-30 | 8 | 0 |
 | 2023-12-04 | 12 | 0 |
 | 2023-12-06 | 13 | 0 |
+| 2023-12-08 | 14 | 0 |

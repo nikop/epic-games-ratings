@@ -8589,10 +8589,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 17509,
       "NumberOfAwardsMax": 6003
+    },
+    {
+      "Time": "2023-12-08T06:00:22.7179325+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 17513,
+      "NumberOfAwardsMax": 6003
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17509,
+  "NumberOfAwards": 17513,
   "NumberOfAwardsMax": 6003,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8642,7 +8648,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 555
+      "Count": 559
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8669,7 +8675,7 @@
       "Count": 1301
     }
   ],
-  "EOS_Progressed": 855251,
+  "EOS_Progressed": 855266,
   "EOS_Completed": 212,
   "EOS_NewPlayers": 5258,
   "EOS_NewCompleters": 2,
@@ -31789,6 +31795,11 @@
       "Time": "2023-12-08T05:05:33.6900919+00:00",
       "NumProgressed": 855251,
       "NumCompleted": 212
+    },
+    {
+      "Time": "2023-12-08T06:05:40.3017036+00:00",
+      "NumProgressed": 855266,
+      "NumCompleted": 212
     }
   ],
   "TotalAchievements": 75,
@@ -31800,7 +31811,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 222365
+      "UsersEstimate": 222369
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -31880,7 +31891,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 51315
+      "UsersEstimate": 51316
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -31896,7 +31907,7 @@
       "Name": "Crafty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 51315
+      "UsersEstimate": 51316
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -31952,7 +31963,7 @@
       "Name": "G.I. Blues",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34210
+      "UsersEstimate": 34211
     },
     {
       "ID": "ACHIEVEMENT_GLOBE_TROTTER",
@@ -32008,7 +32019,7 @@
       "Name": "Jury Rigger",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34210
+      "UsersEstimate": 34211
     },
     {
       "ID": "ACHIEVEMENT_KNOW_WHEN_TO_FOLD_EM",
@@ -32096,7 +32107,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 51315
+      "UsersEstimate": 51316
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -32120,7 +32131,7 @@
       "Name": "No Tumbler Fumbler",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34210
+      "UsersEstimate": 34211
     },
     {
       "ID": "ACHIEVEMENT_OLD_TYME_BRAWLER",
@@ -32136,7 +32147,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 51315
+      "UsersEstimate": 51316
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -32160,7 +32171,7 @@
       "Name": "Outstanding Orator",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34210
+      "UsersEstimate": 34211
     },
     {
       "ID": "ACHIEVEMENT_O_DAUGHER_OF_BABYLON",
@@ -32264,7 +32275,7 @@
       "Name": "That Lucky Old Sun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34210
+      "UsersEstimate": 34211
     },
     {
       "ID": "ACHIEVEMENT_THEY_WENT_THAT_A_WAY",
@@ -32272,7 +32283,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 51315
+      "UsersEstimate": 51316
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -32320,7 +32331,7 @@
       "Name": "Up and Comer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34210
+      "UsersEstimate": 34211
     },
     {
       "ID": "ACHIEVEMENT_UP_TO_THE_CHALLENGE",
@@ -32344,7 +32355,7 @@
       "Name": "Volare!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34210
+      "UsersEstimate": 34211
     },
     {
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
@@ -32399,22 +32410,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 855251,
+      "Progressed": 855266,
       "Completed": 257
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 855251,
+      "Progressed": 855266,
       "Completed": 212
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2023-12-08T04:01:50.4951583+00:00",
-  "LastChanged_Achievements": "2023-12-08T05:05:33.6900917+00:00",
+  "LastChanged": "2023-12-08T06:00:22.7179324+00:00",
+  "LastChanged_Achievements": "2023-12-08T06:05:40.3017031+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:13.278539+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:00:22.9370224+00:00",
-  "LastUpdate_Achievements": "2023-12-08T05:05:33.690238+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:00:22.7179329+00:00",
+  "LastUpdate_Achievements": "2023-12-08T06:05:40.3019052+00:00"
 }

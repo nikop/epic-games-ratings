@@ -33,9 +33,9 @@
 | The Goddes Avatar | 13.00% | ~13 |
 | Sadistic Plan | 12.00% | ~12 |
 | Heavy Purger | 11.00% | ~11 |
+| Apian Hero | 10.00% | ~10 |
 | Anomaly Control | 9.00% | ~9 |
 | Wave Bender | 9.00% | ~9 |
-| Apian Hero | 9.00% | ~9 |
 | Can't touch this | 8.00% | ~8 |
 | The Chaos Artisan | 8.00% | ~8 |
 | The Dark Moon | 8.00% | ~8 |
@@ -45,9 +45,9 @@
 | Denying Destiny | 7.00% | ~7 |
 | The Distorted Sage | 7.00% | ~7 |
 | Purification Avatar | 6.00% | ~6 |
+| The Abyssal Terror | 6.00% | ~6 |
 | Behenian Mastery | 6.00% | ~6 |
 | If I Had Failed... | 5.00% | ~5 |
-| The Abyssal Terror | 5.00% | ~5 |
 | Aquarian Hero | 5.00% | ~5 |
 | Noctuan Hero | 5.00% | ~5 |
 | Astrarium of Holding | 4.00% | ~4 |

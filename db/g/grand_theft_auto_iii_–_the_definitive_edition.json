@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -547,9 +547,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8744,
+  "EOS_Progressed": 8745,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -11772,6 +11772,11 @@
       "Time": "2023-12-08T03:05:12.8764785+00:00",
       "NumProgressed": 8744,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-08T06:05:18.6156387+00:00",
+      "NumProgressed": 8745,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -11823,7 +11828,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACH07",
@@ -11887,7 +11892,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "ACH15",
@@ -11903,7 +11908,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "ACH17",
@@ -12014,7 +12019,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8744,
+      "Progressed": 8745,
       "Completed": 60
     }
   ],
@@ -12022,8 +12027,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-04T13:04:00.769343+00:00",
-  "LastChanged_Achievements": "2023-12-08T05:05:13.6735989+00:00",
+  "LastChanged_Achievements": "2023-12-08T06:05:18.6156383+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:15.6257409+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:00:20.3974186+00:00",
-  "LastUpdate_Achievements": "2023-12-08T05:05:13.6736703+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:00:19.8318737+00:00",
+  "LastUpdate_Achievements": "2023-12-08T06:05:18.6157394+00:00"
 }

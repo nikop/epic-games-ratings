@@ -5,10 +5,10 @@ Rating: 4.05 (Ranked 994)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,914 |
-| World Map | 78.00% | ~2,444 |
+| Victor | 93.00% | ~2,915 |
+| World Map | 78.00% | ~2,445 |
 | Temple of Eternals | 57.00% | ~1,786 |
-| Prestigious | 53.00% | ~1,660 |
+| Prestigious | 53.00% | ~1,661 |
 | Fellowship Power | 42.00% | ~1,316 |
 | Guild Power | 24.00% | ~752 |
 | Full Party | 21.00% | ~658 |
@@ -18,9 +18,9 @@ Rating: 4.05 (Ranked 994)
 | Dragon Clicker | 16.00% | ~501 |
 | Inspection | 15.00% | ~470 |
 | Miner Clicker | 15.00% | ~470 |
-| Dragon Master | 14.00% | ~439 |
 | Enlightenment | 14.00% | ~439 |
 | Hero inspection | 14.00% | ~439 |
+| Dragon Master | 13.00% | ~407 |
 | Lieutenant | 13.00% | ~407 |
 | Natural Talent | 12.00% | ~376 |
 | Superior | 12.00% | ~376 |
@@ -68,10 +68,10 @@ Rating: 4.05 (Ranked 994)
 | Enchanting skill x5 | 2.00% | ~63 |
 | Guardian Master | 2.00% | ~63 |
 | Pokerface | 2.00% | ~63 |
-| Titan Power | 2.00% | ~63 |
 | Angel Power | 1.00% | ~31 |
 | Conqueror | 1.00% | ~31 |
 | Enhanced War Machines | 1.00% | ~31 |
+| Titan Power | 1.00% | ~31 |
 | Training makes a Pro player | 1.00% | ~31 |
 | Transmute | 1.00% | ~31 |
 | Tree of Life | 1.00% | ~31 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 994)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,133 (Ranked 211)  
+Progressed: 3,134 (Ranked 211)  
 Completed: 2 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-05 | 3,056 | 2 |
 | 2023-12-06 | 3,082 | 2 |
 | 2023-12-07 | 3,117 | 2 |
-| 2023-12-08 | 3,133 | 2 |
+| 2023-12-08 | 3,134 | 2 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 475)  
 Sum: 141 (Ranked 432)  

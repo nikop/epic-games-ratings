@@ -7429,9 +7429,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144216,
+  "EOS_Progressed": 144220,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 1105,
+  "EOS_NewPlayers": 1103,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -31514,6 +31514,11 @@
       "Time": "2023-12-08T05:04:18.2219489+00:00",
       "NumProgressed": 144216,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-08T06:04:18.1941764+00:00",
+      "NumProgressed": 144220,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -31525,7 +31530,7 @@
       "Name": "The Daily Grind",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "advlevel02",
@@ -31661,7 +31666,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "boss02",
@@ -31765,7 +31770,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "commonres03",
@@ -31797,7 +31802,7 @@
       "Name": "Flooding the Market",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "craft03",
@@ -31829,7 +31834,7 @@
       "Name": "Where it Hurts",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "damage02",
@@ -32013,7 +32018,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "gold04",
@@ -32077,7 +32082,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "jackslot02",
@@ -32149,7 +32154,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "loot02",
@@ -32181,7 +32186,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "master02",
@@ -32420,15 +32425,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144216,
+      "Progressed": 144220,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-07T20:02:59.553753+00:00",
-  "LastChanged_Achievements": "2023-12-08T05:04:18.2219486+00:00",
+  "LastChanged_Achievements": "2023-12-08T06:04:18.1941759+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:02:47.7960221+00:00",
-  "LastUpdate_Achievements": "2023-12-08T05:04:18.2221436+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:02:49.4017812+00:00",
+  "LastUpdate_Achievements": "2023-12-08T06:04:18.1944557+00:00"
 }

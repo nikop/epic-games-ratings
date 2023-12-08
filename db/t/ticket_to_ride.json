@@ -3,12 +3,12 @@
   "Name": "Ticket To Ride: Classic Edition",
   "ProductSlug": "ticket-to-ride",
   "Ranking_Rating": 351,
-  "Ranking_Popularity": 398,
+  "Ranking_Popularity": 397,
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 459,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2012-05-24T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -680,18 +680,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 413,
       "NumberOfAwardsMax": 75
+    },
+    {
+      "Time": "2023-12-08T06:02:57.9907218+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 414,
+      "NumberOfAwardsMax": 76
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 413,
-  "NumberOfAwardsMax": 75,
+  "NumberOfAwards": 414,
+  "NumberOfAwardsMax": 76,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 75
+      "Count": 76
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -779,9 +785,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.6058604+00:00",
-  "LastChanged": "2023-12-05T10:03:10.3944123+00:00",
-  "LastChanged_Achievements": "2023-12-08T05:05:31.074625+00:00",
+  "LastChanged": "2023-12-08T06:02:57.9907217+00:00",
+  "LastChanged_Achievements": "2023-12-08T06:05:37.5750137+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:20.7723096+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:02:55.3573073+00:00",
-  "LastUpdate_Achievements": "2023-12-08T05:05:31.074628+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:02:57.9907222+00:00",
+  "LastUpdate_Achievements": "2023-12-08T06:05:37.5750178+00:00"
 }

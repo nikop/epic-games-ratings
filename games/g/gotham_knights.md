@@ -8,7 +8,7 @@ Rating: 4.18 (Ranked 943)
 | First Step Into the Knight | 50.00% | ~38,888 |
 | Har, Har, Har, Very Funny | 34.00% | ~26,444 |
 | Loose Ends | 33.00% | ~25,666 |
-| To the Victor Go the Spoils | 28.00% | ~21,777 |
+| To the Victor Go the Spoils | 28.00% | ~21,778 |
 | Knighthood | 27.00% | ~21,000 |
 | Get ReQ'd | 25.00% | ~19,444 |
 | Whispered Words | 24.00% | ~18,666 |
@@ -19,13 +19,13 @@ Rating: 4.18 (Ranked 943)
 | Working Hard or Harley Working? | 20.00% | ~15,555 |
 | Unstoppable Force | 20.00% | ~15,555 |
 | Bad Apples in Every Orchard | 20.00% | ~15,555 |
-| Snow Problem | 19.00% | ~14,777 |
+| Snow Problem | 19.00% | ~14,778 |
 | The Show Mud Go On | 18.00% | ~14,000 |
 | From Inside Gotham's Walls | 18.00% | ~14,000 |
 | Protector of Gotham | 17.00% | ~13,222 |
 | Universal Health Scare | 16.00% | ~12,444 |
-| In Your Element | 15.00% | ~11,666 |
-| Voiceless | 15.00% | ~11,666 |
+| In Your Element | 15.00% | ~11,667 |
+| Voiceless | 15.00% | ~11,667 |
 | Rock and a Hard Place | 14.00% | ~10,889 |
 | Cooldown | 14.00% | ~10,889 |
 | Seeking Asylum | 14.00% | ~10,889 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 943)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,776 (Ranked 99)  
+Progressed: 77,777 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,14 +299,14 @@ Completed: 124 (0.16%) (Ranked 271)
 | 2023-12-05 | 77,707 | 124 |
 | 2023-12-06 | 77,742 | 124 |
 | 2023-12-07 | 77,772 | 124 |
-| 2023-12-08 | 77,776 | 124 |
+| 2023-12-08 | 77,777 | 124 |
 ## Awards
-Max (Great Boss Battles): 2,996  (Ranked 98)  
-Sum: 5,118 (Ranked 141)  
+Max (Great Boss Battles): 3,001  (Ranked 98)  
+Sum: 5,123 (Ranked 141)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,996 |
+| This game has Great Boss Battles | 3,001 |
 | This game has Diverse Characters | 270 |
 | This game is Extremely Fun | 268 |
 | This game is Relaxing | 267 |
@@ -605,3 +605,4 @@ Diff (max vs sum): -43
 | 2023-12-05 | 4.18 | 2,994 | 5,112 |
 | 2023-12-06 | 4.18 | 2,996 | 5,116 |
 | 2023-12-07 | 4.18 | 2,996 | 5,118 |
+| 2023-12-08 | 4.18 | 3,001 | 5,123 |

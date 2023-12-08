@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 1.00% | ~157 |
 | One True Faith | 1.00% | ~157 |
 | Assyrian Paganism | 1.00% | ~157 |
+| Hittite Paganism | 1.00% | ~157 |
 | Economic Reform | 1.00% | ~157 |
 | Industrial Progress | 1.00% | ~157 |
 | Military Prestige | 1.00% | ~157 |
@@ -132,7 +133,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 1.00% | ~157 |
 | Ambition Victory | 1.00% | ~157 |
 | Adur Burzen-Mihr | 0.90% | ~141 |
-| Hittite Paganism | 0.90% | ~141 |
 | All Nations | 0.90% | ~141 |
 | Poetic Leader | 0.90% | ~141 |
 | Peacemaker | 0.80% | ~125 |
@@ -168,6 +168,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 1) | 0.40% | ~63 |
 | Carthage - Riches and Influence | 0.40% | ~63 |
 | The Eternal Treaty | 0.40% | ~63 |
+| Five Routs | 0.40% | ~63 |
 | Run, Pheidippides, Run! | 0.40% | ~63 |
 | Nenikekamen | 0.40% | ~63 |
 | Assyria | 0.40% | ~63 |
@@ -182,7 +183,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.30% | ~47 |
 | Great Difficulty | 0.30% | ~47 |
 | Event Level High | 0.30% | ~47 |
-| Five Routs | 0.30% | ~47 |
 | A Good Start | 0.30% | ~47 |
 | Tell the Spartans | 0.30% | ~47 |
 | Medo-Babylonian Conquest | 0.30% | ~47 |

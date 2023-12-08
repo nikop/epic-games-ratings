@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116113,
+  "EOS_Progressed": 116116,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20504,6 +20504,11 @@
       "Time": "2023-12-08T05:09:01.4453154+00:00",
       "NumProgressed": 116113,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-08T06:09:17.8359052+00:00",
+      "NumProgressed": 116116,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20523,7 +20528,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89407
+      "UsersEstimate": 89409
     },
     {
       "ID": "EAwards_10",
@@ -20539,7 +20544,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30189
+      "UsersEstimate": 30190
     },
     {
       "ID": "EAwards_12",
@@ -20571,7 +20576,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11611
+      "UsersEstimate": 11612
     },
     {
       "ID": "EAwards_16",
@@ -20587,7 +20592,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42962
+      "UsersEstimate": 42963
     },
     {
       "ID": "EAwards_18",
@@ -20611,7 +20616,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55734
+      "UsersEstimate": 55736
     },
     {
       "ID": "EAwards_20",
@@ -20619,7 +20624,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12772
+      "UsersEstimate": 12773
     },
     {
       "ID": "EAwards_21",
@@ -20659,7 +20664,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22061
+      "UsersEstimate": 22062
     },
     {
       "ID": "EAwards_26",
@@ -20667,7 +20672,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12772
+      "UsersEstimate": 12773
     },
     {
       "ID": "EAwards_27",
@@ -20675,7 +20680,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11611
+      "UsersEstimate": 11612
     },
     {
       "ID": "EAwards_28",
@@ -20715,7 +20720,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11611
+      "UsersEstimate": 11612
     },
     {
       "ID": "EAwards_32",
@@ -20867,7 +20872,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11611
+      "UsersEstimate": 11612
     },
     {
       "ID": "EAwards_6",
@@ -20899,14 +20904,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12772
+      "UsersEstimate": 12773
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116113,
+      "Progressed": 116116,
       "Completed": 51
     }
   ],
@@ -20914,8 +20919,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-08T05:09:01.4453152+00:00",
+  "LastChanged_Achievements": "2023-12-08T06:09:17.8359048+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.5040385+00:00",
-  "LastUpdate_Ratings": "2023-12-08T04:58:22.6453323+00:00",
-  "LastUpdate_Achievements": "2023-12-08T05:09:01.4454449+00:00"
+  "LastUpdate_Ratings": "2023-12-08T05:58:13.211283+00:00",
+  "LastUpdate_Achievements": "2023-12-08T06:09:17.8360941+00:00"
 }

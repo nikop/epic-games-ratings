@@ -23,6 +23,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 0.40% | ~71 |
 | The Scarlet Orchard | 0.40% | ~71 |
 | Ancient Battleground | 0.30% | ~53 |
+| Sparkdew Crystals | 0.30% | ~53 |
 | Fertile Meadows | 0.30% | ~53 |
 | Royal Outpost | 0.30% | ~53 |
 | Trade Baron | 0.30% | ~53 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Against All Odds | 0.20% | ~35 |
 | Ruined Armory | 0.20% | ~35 |
 | Bandit Camp | 0.20% | ~35 |
-| Sparkdew Crystals | 0.20% | ~35 |
 | Levitating Monument | 0.20% | ~35 |
 | Flooded Mines | 0.20% | ~35 |
 | Monastery of the Holy Flame | 0.20% | ~35 |

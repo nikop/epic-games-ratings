@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -167,10 +167,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64556,
+  "EOS_Progressed": 64567,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 3410,
-  "EOS_NewCompleters": 17,
+  "EOS_NewPlayers": 3404,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
@@ -2742,6 +2742,11 @@
       "Time": "2023-12-08T05:05:09.9927691+00:00",
       "NumProgressed": 64556,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-08T06:05:14.6680064+00:00",
+      "NumProgressed": 64567,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2754,7 +2759,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 23886
+      "UsersEstimate": 23890
     },
     {
       "ID": "Achievement_10",
@@ -2762,7 +2767,7 @@
       "Name": "Inside Ma\u00E1to\u0027s Mind",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "Achievement_11",
@@ -2842,7 +2847,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17430
+      "UsersEstimate": 17433
     },
     {
       "ID": "Achievement_20",
@@ -2898,7 +2903,7 @@
       "Name": "Fruits of Labour",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "Achievement_27",
@@ -2930,7 +2935,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7747
+      "UsersEstimate": 7748
     },
     {
       "ID": "Achievement_30",
@@ -2978,7 +2983,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5164
+      "UsersEstimate": 5165
     },
     {
       "ID": "Achievement_5",
@@ -2986,7 +2991,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "Achievement_6",
@@ -3025,7 +3030,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 64556,
+      "Progressed": 64567,
       "Completed": 61
     }
   ],
@@ -3033,8 +3038,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-07T23:02:46.2416558+00:00",
-  "LastChanged_Achievements": "2023-12-08T05:05:09.9927689+00:00",
+  "LastChanged_Achievements": "2023-12-08T06:05:14.6680059+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:02:41.4848997+00:00",
-  "LastUpdate_Achievements": "2023-12-08T05:05:09.9927987+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:02:42.5215192+00:00",
+  "LastUpdate_Achievements": "2023-12-08T06:05:14.6680338+00:00"
 }

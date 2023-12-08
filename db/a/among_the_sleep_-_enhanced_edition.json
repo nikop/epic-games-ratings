@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -494,9 +494,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94856,
+  "EOS_Progressed": 94860,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 701,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -26219,6 +26219,11 @@
       "Time": "2023-12-08T05:08:22.7746285+00:00",
       "NumProgressed": 94856,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-12-08T06:08:36.0587427+00:00",
+      "NumProgressed": 94860,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 10,
@@ -26294,7 +26299,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33200
+      "UsersEstimate": 33201
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -26302,22 +26307,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10434
+      "UsersEstimate": 10435
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 94856,
+      "Progressed": 94860,
       "Completed": 432
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-07T22:03:08.3516808+00:00",
-  "LastChanged_Achievements": "2023-12-08T05:08:22.7746283+00:00",
+  "LastChanged_Achievements": "2023-12-08T06:08:36.0587423+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:15.1014443+00:00",
-  "LastUpdate_Ratings": "2023-12-08T05:02:47.7785019+00:00",
-  "LastUpdate_Achievements": "2023-12-08T05:08:22.7747323+00:00"
+  "LastUpdate_Ratings": "2023-12-08T06:02:49.263126+00:00",
+  "LastUpdate_Achievements": "2023-12-08T06:08:36.0589025+00:00"
 }

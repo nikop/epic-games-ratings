@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80041,
+  "EOS_Progressed": 80042,
   "EOS_Completed": 865,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -25928,6 +25928,11 @@
       "Time": "2023-12-08T05:04:04.2862087+00:00",
       "NumProgressed": 80041,
       "NumCompleted": 865
+    },
+    {
+      "Time": "2023-12-08T06:04:03.0589186+00:00",
+      "NumProgressed": 80042,
+      "NumCompleted": 865
     }
   ],
   "TotalAchievements": 25,
@@ -25979,7 +25984,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14407
+      "UsersEstimate": 14408
     },
     {
       "ID": "Butcher",
@@ -25995,7 +26000,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4802
+      "UsersEstimate": 4803
     },
     {
       "ID": "Fair\u0027sFair",
@@ -26138,7 +26143,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80041,
+      "Progressed": 80042,
       "Completed": 865
     }
   ],
@@ -26146,8 +26151,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-08T05:04:04.2862084+00:00",
+  "LastChanged_Achievements": "2023-12-08T06:04:03.0589181+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:32.9169393+00:00",
-  "LastUpdate_Ratings": "2023-12-08T04:02:51.0687395+00:00",
-  "LastUpdate_Achievements": "2023-12-08T05:04:04.286355+00:00"
+  "LastUpdate_Ratings": "2023-12-08T05:56:52.7731408+00:00",
+  "LastUpdate_Achievements": "2023-12-08T06:04:03.0591586+00:00"
 }

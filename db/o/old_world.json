@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -18260,9 +18260,9 @@
       "ID": "ACHIEVEMENT_FIVE_ROUTS",
       "SetID": "9201eeb",
       "Name": "Five Routs",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_GOTW",
@@ -19156,9 +19156,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hittite Paganism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -20066,8 +20066,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-07T01:45:57.4329211+00:00",
-  "LastChanged_Achievements": "2023-12-08T05:06:12.6919561+00:00",
+  "LastChanged_Achievements": "2023-12-08T06:06:23.1035552+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:20.3030051+00:00",
-  "LastUpdate_Ratings": "2023-12-08T04:58:57.8806939+00:00",
-  "LastUpdate_Achievements": "2023-12-08T05:06:12.6929233+00:00"
+  "LastUpdate_Ratings": "2023-12-08T05:58:49.982429+00:00",
+  "LastUpdate_Achievements": "2023-12-08T06:06:23.1044629+00:00"
 }

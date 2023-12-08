@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~23,263 |
-| Fried Friendship | 87.00% | ~22,998 |
-| Look At Him Go | 79.00% | ~20,884 |
-| On Rails Experience | 57.00% | ~15,068 |
-| A Daring Devil | 53.00% | ~14,011 |
-| It Took Two | 45.00% | ~11,896 |
-| Break the Bank | 43.00% | ~11,367 |
-| Bug Sized Relaxation | 22.00% | ~5,816 |
-| Plastic Prison Breakers | 17.00% | ~4,494 |
-| Terror Of The Seven Seas | 16.00% | ~4,230 |
-| Realize Your Art | 12.00% | ~3,172 |
-| Force Triangulated | 12.00% | ~3,172 |
-| Meditation Maestro | 12.00% | ~3,172 |
-| Lost And Found | 11.00% | ~2,908 |
-| Something Fishy | 11.00% | ~2,908 |
-| Platforming Prodigy | 9.00% | ~2,379 |
+| Struck A Pose | 88.00% | ~23,270 |
+| Fried Friendship | 87.00% | ~23,005 |
+| Look At Him Go | 79.00% | ~20,890 |
+| On Rails Experience | 57.00% | ~15,073 |
+| A Daring Devil | 53.00% | ~14,015 |
+| It Took Two | 45.00% | ~11,899 |
+| Break the Bank | 43.00% | ~11,370 |
+| Bug Sized Relaxation | 22.00% | ~5,817 |
+| Plastic Prison Breakers | 17.00% | ~4,495 |
+| Terror Of The Seven Seas | 16.00% | ~4,231 |
+| Realize Your Art | 12.00% | ~3,173 |
+| Force Triangulated | 12.00% | ~3,173 |
+| Meditation Maestro | 12.00% | ~3,173 |
+| Lost And Found | 11.00% | ~2,909 |
+| Something Fishy | 11.00% | ~2,909 |
+| Platforming Prodigy | 9.00% | ~2,380 |
 | Snackosaurus | 8.00% | ~2,115 |
-| Mood Swing | 7.00% | ~1,850 |
-| Minigame Megalomania | 4.00% | ~1,057 |
-| Faraway Frequencies | 4.00% | ~1,057 |
+| Mood Swing | 7.00% | ~1,851 |
+| Minigame Megalomania | 4.00% | ~1,058 |
+| Faraway Frequencies | 4.00% | ~1,058 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,435 (Ranked 129)  
+Progressed: 26,443 (Ranked 129)  
 Completed: 113 (0.43%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,4 +109,4 @@ Completed: 113 (0.43%) (Ranked 220)
 | 2023-12-05 | 26,131 | 112 |
 | 2023-12-06 | 26,270 | 113 |
 | 2023-12-07 | 26,415 | 113 |
-| 2023-12-08 | 26,435 | 113 |
+| 2023-12-08 | 26,443 | 113 |

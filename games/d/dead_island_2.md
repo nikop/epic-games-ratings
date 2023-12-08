@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,713 |
-| Pork Chopped | 3.00% | ~1,713 |
-| Dr. Reed, I Presume? | 2.00% | ~14,631 |
-| Git Gutte! | 2.00% | ~14,631 |
-| Bookworm | 2.00% | ~14,631 |
-| Break A Leg | 2.00% | ~14,631 |
-| But Doctor, I am Butcho | 2.00% | ~14,631 |
-| Coup de Grâce | 2.00% | ~14,631 |
-| Hazardous Materials | 2.00% | ~14,631 |
-| Friends Like These | 2.00% | ~14,631 |
-| Hotel California | 2.00% | ~14,631 |
-| Apex Predator | 2.00% | ~14,631 |
-| Stacking the Deck | 2.00% | ~14,631 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,631 |
-| This is My Weapon | 2.00% | ~14,631 |
-| Welcome To Hell-A | 2.00% | ~14,631 |
-| One of Us | 2.00% | ~1,142 |
+| Whatever It Takes | 3.00% | ~1,714 |
+| Pork Chopped | 3.00% | ~1,714 |
+| Dr. Reed, I Presume? | 2.00% | ~14,632 |
+| Git Gutte! | 2.00% | ~14,632 |
+| Bookworm | 2.00% | ~14,632 |
+| Break A Leg | 2.00% | ~14,632 |
+| But Doctor, I am Butcho | 2.00% | ~14,632 |
+| Coup de Grâce | 2.00% | ~14,632 |
+| Hazardous Materials | 2.00% | ~14,632 |
+| Friends Like These | 2.00% | ~14,632 |
+| Hotel California | 2.00% | ~14,632 |
+| Apex Predator | 2.00% | ~14,632 |
+| Stacking the Deck | 2.00% | ~14,632 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,632 |
+| This is My Weapon | 2.00% | ~14,632 |
+| Welcome To Hell-A | 2.00% | ~14,632 |
+| One of Us | 2.00% | ~1,143 |
 | Making Your Mark | 1.00% | ~7,316 |
 | Anger Management | 1.00% | ~7,316 |
 | Perks of the Job | 1.00% | ~7,316 |
@@ -41,23 +41,23 @@ Rating: 4.54 (Ranked 533)
 | Jumbo Keyring | 0.80% | ~5,853 |
 | Go, Bobcats! | 0.80% | ~5,853 |
 | Rising Star | 0.80% | ~5,853 |
-| On Safari | 0.60% | ~4,389 |
-| Smorgasbord | 0.60% | ~4,389 |
-| Internet Famous | 0.60% | ~4,389 |
-| Variety is the Spice of Death | 0.60% | ~4,389 |
+| On Safari | 0.60% | ~4,390 |
+| Smorgasbord | 0.60% | ~4,390 |
+| Internet Famous | 0.60% | ~4,390 |
+| Variety is the Spice of Death | 0.60% | ~4,390 |
 | Make it So | 0.50% | ~3,658 |
 | LA Influential | 0.40% | ~2,926 |
 | Sole Survivor | 0.40% | ~2,926 |
 | Gore Horse | 0.40% | ~2,926 |
 | Sharpest Tool in the Box | 0.40% | ~2,926 |
-| Top That, Tisha! | 0.40% | ~228 |
+| Top That, Tisha! | 0.40% | ~229 |
 | Survival Skills | 0.20% | ~1,463 |
 | Lawn and Order | 0.20% | ~114 |
 | Donk! | 0.10% | ~732 |
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,570 (Ranked 21)  
+Progressed: 731,586 (Ranked 21)  
 Completed: 2,466 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2,466 (0.34%) (Ranked 234)
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
-| 2023-12-08 | 731,570 | 2,466 |
+| 2023-12-08 | 731,586 | 2,466 |
 ## Awards
 Max (Great Boss Battles): 7,994  (Ranked 49)  
 Sum: 12,284 (Ranked 82)  

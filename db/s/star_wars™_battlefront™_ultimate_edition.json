@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1609,
+  "EOS_Progressed": 1610,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -4809,6 +4809,11 @@
       "Time": "2023-12-08T03:09:30.0283107+00:00",
       "NumProgressed": 1609,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T06:09:37.96397+00:00",
+      "NumProgressed": 1610,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5045,7 +5050,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "achievement_36",
@@ -5061,7 +5066,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "achievement_38",
@@ -5324,13 +5329,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1609,
+      "Progressed": 1610,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1609,
+      "Progressed": 1610,
       "Completed": 1
     }
   ],
@@ -5338,8 +5343,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-08T05:09:20.3427323+00:00",
+  "LastChanged_Achievements": "2023-12-08T06:09:37.9639694+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-08T04:58:24.7914883+00:00",
-  "LastUpdate_Achievements": "2023-12-08T05:09:20.3427897+00:00"
+  "LastUpdate_Ratings": "2023-12-08T05:58:15.467563+00:00",
+  "LastUpdate_Achievements": "2023-12-08T06:09:37.9640711+00:00"
 }

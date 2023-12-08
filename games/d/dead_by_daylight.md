@@ -6,25 +6,25 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,568 |
-| Skillful | 2.00% | ~21,568 |
-| Handyman | 1.00% | ~10,784 |
-| Zealous | 1.00% | ~10,784 |
-| Not half bad | 1.00% | ~10,784 |
-| Apt Survivor | 1.00% | ~10,784 |
-| Survival Treasures | 1.00% | ~10,784 |
-| I | 1.00% | ~10,784 |
-| Sorted | 1.00% | ~10,784 |
-| Make Some Noise | 1.00% | ~10,784 |
+| It wakes | 2.00% | ~21,570 |
+| Skillful | 2.00% | ~21,570 |
+| Handyman | 1.00% | ~10,785 |
+| Zealous | 1.00% | ~10,785 |
+| Not half bad | 1.00% | ~10,785 |
+| Apt Survivor | 1.00% | ~10,785 |
+| Survival Treasures | 1.00% | ~10,785 |
+| I | 1.00% | ~10,785 |
+| Sorted | 1.00% | ~10,785 |
+| Make Some Noise | 1.00% | ~10,785 |
 | No one left behind | 0.90% | ~9,706 |
 | Medic | 0.90% | ~9,706 |
 | Healthy Obsession | 0.90% | ~9,706 |
 | Resurgence | 0.90% | ~9,706 |
 | Preemptive Strike | 0.90% | ~9,706 |
-| The Grand Sacrifice | 0.80% | ~8,627 |
-| Perfect Escape | 0.80% | ~8,627 |
-| Bloody Millionaire | 0.80% | ~8,627 |
-| Humanitarian | 0.80% | ~8,627 |
+| The Grand Sacrifice | 0.80% | ~8,628 |
+| Perfect Escape | 0.80% | ~8,628 |
+| Bloody Millionaire | 0.80% | ~8,628 |
+| Humanitarian | 0.80% | ~8,628 |
 | Agonizing Escape | 0.70% | ~7,549 |
 | Backdoor Escape | 0.70% | ~7,549 |
 | I've got your back | 0.70% | ~7,549 |
@@ -33,9 +33,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | II | 0.70% | ~7,549 |
 | Engineer | 0.70% | ~7,549 |
 | Close Shave | 0.70% | ~7,549 |
-| Apt Killer | 0.60% | ~6,470 |
-| III | 0.60% | ~6,470 |
-| Wounded Healer | 0.60% | ~6,470 |
+| Apt Killer | 0.60% | ~6,471 |
+| III | 0.60% | ~6,471 |
+| Wounded Healer | 0.60% | ~6,471 |
 | Escape Artist | 0.50% | ~5,392 |
 | Vulture | 0.50% | ~5,392 |
 | First to the Punch | 0.50% | ~5,392 |
@@ -71,6 +71,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Campbell's Chapel Legacy | 0.30% | ~3,235 |
 | Ancestor's Rite | 0.30% | ~3,235 |
 | Devoted Gatekeeping | 0.30% | ~3,235 |
+| Shrine Apparatus | 0.30% | ~3,235 |
 | Outrun Evil | 0.30% | ~3,235 |
 | Grim Pilgrimage | 0.30% | ~3,235 |
 | Outrun the Overlap | 0.30% | ~3,235 |
@@ -90,7 +91,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Whiffing to Success | 0.20% | ~2,157 |
 | Outrage | 0.20% | ~2,157 |
 | Heavy Burden | 0.20% | ~2,157 |
-| Shrine Apparatus | 0.20% | ~2,157 |
 | Broken Bodies | 0.20% | ~2,157 |
 | Selfless Survival | 0.20% | ~2,157 |
 | I See You | 0.20% | ~2,157 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,078 |
 | Adept Good Guy | 0.10% | ~1,078 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,078,411 (Ranked 14)  
+Progressed: 1,078,475 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -471,7 +471,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
 | 2023-12-07 | 1,077,876 | 61 |
-| 2023-12-08 | 1,078,411 | 61 |
+| 2023-12-08 | 1,078,475 | 61 |
 ## Awards
 Max (Diverse Characters): 37,508  (Ranked 15)  
 Sum: 284,404 (Ranked 12)  

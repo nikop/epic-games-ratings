@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3133,
+  "EOS_Progressed": 3134,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9151,6 +9151,11 @@
       "Time": "2023-12-08T05:04:32.4172577+00:00",
       "NumProgressed": 3133,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T06:04:34.0737824+00:00",
+      "NumProgressed": 3134,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9272,9 +9277,9 @@
       "ID": "dragonmaster",
       "SetID": "3nl4bcg",
       "Name": "Dragon Master",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 407
     },
     {
       "ID": "dragonslayer",
@@ -9554,7 +9559,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "prestigiousx10",
@@ -9672,9 +9677,9 @@
       "ID": "titanpower",
       "SetID": "3nl4bcg",
       "Name": "Titan Power",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 31
     },
     {
       "ID": "trader",
@@ -9722,7 +9727,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2914
+      "UsersEstimate": 2915
     },
     {
       "ID": "warmachinesarmy",
@@ -9754,14 +9759,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3133,
+      "Progressed": 3134,
       "Completed": 2
     }
   ],
@@ -9769,8 +9774,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-07T20:58:20.4746595+00:00",
-  "LastChanged_Achievements": "2023-12-08T05:04:32.417257+00:00",
+  "LastChanged_Achievements": "2023-12-08T06:04:34.0737819+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-08T04:58:31.2214755+00:00",
-  "LastUpdate_Achievements": "2023-12-08T05:04:32.4173576+00:00"
+  "LastUpdate_Ratings": "2023-12-08T05:58:22.5839406+00:00",
+  "LastUpdate_Achievements": "2023-12-08T06:04:34.0738854+00:00"
 }
