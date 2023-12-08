@@ -22,20 +22,20 @@ Rating: 4.54 (Ranked 533)
 | This is My Weapon | 2.00% | ~14,631 |
 | Welcome To Hell-A | 2.00% | ~14,631 |
 | One of Us | 2.00% | ~1,142 |
-| Making Your Mark | 1.00% | ~7,315 |
-| Anger Management | 1.00% | ~7,315 |
-| Perks of the Job | 1.00% | ~7,315 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,315 |
-| Slayer Squad | 1.00% | ~7,315 |
-| Can't Handle the Truth | 1.00% | ~7,315 |
-| Like Riding a Bike | 1.00% | ~7,315 |
-| Zombologist | 1.00% | ~7,315 |
-| Ooh, Shiny! | 1.00% | ~7,315 |
-| A Patton Emerges | 1.00% | ~7,315 |
-| Humanity Distilled | 1.00% | ~7,315 |
-| I Am the Resurrection | 1.00% | ~7,315 |
-| Max Headroom | 1.00% | ~7,315 |
-| Our True Nature | 1.00% | ~7,315 |
+| Making Your Mark | 1.00% | ~7,316 |
+| Anger Management | 1.00% | ~7,316 |
+| Perks of the Job | 1.00% | ~7,316 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,316 |
+| Slayer Squad | 1.00% | ~7,316 |
+| Can't Handle the Truth | 1.00% | ~7,316 |
+| Like Riding a Bike | 1.00% | ~7,316 |
+| Zombologist | 1.00% | ~7,316 |
+| Ooh, Shiny! | 1.00% | ~7,316 |
+| A Patton Emerges | 1.00% | ~7,316 |
+| Humanity Distilled | 1.00% | ~7,316 |
+| I Am the Resurrection | 1.00% | ~7,316 |
+| Max Headroom | 1.00% | ~7,316 |
+| Our True Nature | 1.00% | ~7,316 |
 | Down with the Sickness | 0.90% | ~6,584 |
 | Not Even My Final Form | 0.80% | ~5,852 |
 | Jumbo Keyring | 0.80% | ~5,852 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 533)
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,546 (Ranked 21)  
+Progressed: 731,562 (Ranked 21)  
 Completed: 2,466 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2,466 (0.34%) (Ranked 234)
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
-| 2023-12-08 | 731,546 | 2,466 |
+| 2023-12-08 | 731,562 | 2,466 |
 ## Awards
 Max (Great Boss Battles): 7,994  (Ranked 49)  
 Sum: 12,284 (Ranked 82)  

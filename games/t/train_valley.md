@@ -1,7 +1,7 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.49 (Ranked 616)  
+Rating: 4.49 (Ranked 615)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533 (Ranked 310)  
+Progressed: 533 (Ranked 311)  
 Completed: 2 (0.38%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |

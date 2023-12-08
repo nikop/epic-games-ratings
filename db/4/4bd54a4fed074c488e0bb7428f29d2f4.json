@@ -4,7 +4,7 @@
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 38,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -169,6 +169,11 @@
       "Time": "2023-12-08T02:29:46.6866405+00:00",
       "NumProgressed": 37,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T04:07:25.8606865+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-05T18:06:01.4667778+00:00",
@@ -251,7 +256,7 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 49,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -291,7 +296,7 @@
       "ID": "SOS_EVERYBODYS_DEAD",
       "SetID": "6ci4lm2",
       "Name": "Everybody\u0027s dead, Dave",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -331,7 +336,7 @@
       "ID": "SOS_FIRST_BLOOD",
       "SetID": "6ci4lm2",
       "Name": "First blood",
-      "Percentage": 68,
+      "Percentage": 66,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -379,7 +384,7 @@
       "ID": "SOS_HEADACHE",
       "SetID": "6ci4lm2",
       "Name": "By fire and blood",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 35,
       "UsersEstimate": 8
     },
@@ -427,7 +432,7 @@
       "ID": "SOS_ITS_TRAP",
       "SetID": "6ci4lm2",
       "Name": "It\u0027s a trap!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -651,7 +656,7 @@
       "ID": "SOS_WE_HAVE_TO_STOP_THEM",
       "SetID": "6ci4lm2",
       "Name": "We have to stop them",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -676,14 +681,14 @@
     {
       "ID": "6ci4lm2",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-08T03:05:49.7984913+00:00",
+  "LastChanged_Achievements": "2023-12-08T04:07:25.8606861+00:00",
   "LastUpdate_AppInfo": "2023-12-04T15:57:13.4700868+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:26:27.1366402+00:00",
-  "LastUpdate_Achievements": "2023-12-08T03:05:49.7985338+00:00"
+  "LastUpdate_Ratings": "2023-12-08T03:57:13.5525388+00:00",
+  "LastUpdate_Achievements": "2023-12-08T04:07:25.8607254+00:00"
 }

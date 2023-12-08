@@ -6,22 +6,22 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~16,397 |
-| Student | 22.00% | ~12,883 |
+| Initiation | 28.00% | ~16,398 |
+| Student | 22.00% | ~12,884 |
 | Knower | 16.00% | ~9,370 |
 | Listener | 15.00% | ~8,784 |
-| Aspen Tree | 14.00% | ~8,198 |
-| Healer | 14.00% | ~8,198 |
-| Soldier | 12.00% | ~7,027 |
+| Aspen Tree | 14.00% | ~8,199 |
+| Healer | 14.00% | ~8,199 |
+| Soldier | 12.00% | ~7,028 |
 | Cow Level | 11.00% | ~6,442 |
 | Scientist | 11.00% | ~6,442 |
 | Herbalist | 10.00% | ~5,856 |
 | Water | 10.00% | ~5,856 |
-| Old Friend | 9.00% | ~5,270 |
-| New Spirits | 9.00% | ~5,270 |
-| Voipel | 9.00% | ~5,270 |
-| Wolf | 9.00% | ~5,270 |
-| Black Mage | 9.00% | ~5,270 |
+| Old Friend | 9.00% | ~5,271 |
+| New Spirits | 9.00% | ~5,271 |
+| Voipel | 9.00% | ~5,271 |
+| Wolf | 9.00% | ~5,271 |
+| Black Mage | 9.00% | ~5,271 |
 | Card Player | 8.00% | ~4,685 |
 | Dead Friend | 8.00% | ~4,685 |
 | Pine Tree | 8.00% | ~4,685 |
@@ -43,9 +43,9 @@ Number of Ratings: 96  (23.09.2022)
 | Vorsa | 5.00% | ~2,928 |
 | Susanin | 5.00% | ~2,928 |
 | Traveller | 5.00% | ~2,928 |
-| Righteous | 4.00% | ~2,342 |
-| Musician | 4.00% | ~2,342 |
-| Koldun | 4.00% | ~2,342 |
+| Righteous | 4.00% | ~2,343 |
+| Musician | 4.00% | ~2,343 |
+| Koldun | 4.00% | ~2,343 |
 | Black Sorceress | 3.00% | ~1,757 |
 | Cheater | 3.00% | ~1,757 |
 | Diplomat | 3.00% | ~1,757 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,171 |
 | Word Master | 0.20% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,560 (Ranked 108)  
+Progressed: 58,563 (Ranked 108)  
 Completed: 57 (0.10%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 57 (0.10%) (Ranked 290)
 | 2023-12-05 | 58,172 | 57 |
 | 2023-12-06 | 58,365 | 57 |
 | 2023-12-07 | 58,541 | 57 |
-| 2023-12-08 | 58,560 | 57 |
+| 2023-12-08 | 58,563 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

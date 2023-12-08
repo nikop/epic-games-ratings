@@ -2112,7 +2112,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15669,
+  "EOS_Progressed": 15670,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
@@ -17297,6 +17297,11 @@
       "Time": "2023-12-07T20:06:16.4702248+00:00",
       "NumProgressed": 15669,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-08T04:07:56.0129668+00:00",
+      "NumProgressed": 15670,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17636,7 +17641,7 @@
       "Name": "Able",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -17660,7 +17665,7 @@
       "Name": "Architect",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -17796,7 +17801,7 @@
       "Name": "Intrepid",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -17938,9 +17943,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 627
+      "UsersEstimate": 784
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -18676,7 +18681,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -20043,21 +20048,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15669,
+      "Progressed": 15670,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15669,
+      "Progressed": 15670,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-07T01:45:57.4329211+00:00",
-  "LastChanged_Achievements": "2023-12-08T03:06:11.9428523+00:00",
+  "LastChanged_Achievements": "2023-12-08T04:07:56.0129665+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:20.3030051+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:58:31.4015741+00:00",
-  "LastUpdate_Achievements": "2023-12-08T03:06:11.9437096+00:00"
+  "LastUpdate_Ratings": "2023-12-08T03:59:45.9417473+00:00",
+  "LastUpdate_Achievements": "2023-12-08T04:07:56.0138472+00:00"
 }

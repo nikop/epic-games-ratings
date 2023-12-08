@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 852,
+  "EOS_Progressed": 853,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1852,6 +1852,11 @@
       "Time": "2023-12-07T23:03:27.5536702+00:00",
       "NumProgressed": 852,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T04:04:18.8539134+00:00",
+      "NumProgressed": 853,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1920,7 +1925,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "CompleteChapter10",
@@ -2008,7 +2013,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "CompleteChapter3",
@@ -2016,7 +2021,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "CompleteChapter4",
@@ -2159,14 +2164,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 852,
+      "Progressed": 853,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-08T03:03:36.0512953+00:00",
+  "LastChanged_Achievements": "2023-12-08T04:04:18.853913+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:57:45.1997295+00:00",
-  "LastUpdate_Achievements": "2023-12-08T03:03:36.0513316+00:00"
+  "LastUpdate_Ratings": "2023-12-08T03:58:36.6882922+00:00",
+  "LastUpdate_Achievements": "2023-12-08T04:04:18.853939+00:00"
 }

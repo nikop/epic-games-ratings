@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1058,
+  "Ranking_Rating": 1059,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 229,
@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1979,
+  "EOS_Progressed": 1980,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -7523,6 +7523,11 @@
       "Time": "2023-12-08T01:53:07.4425596+00:00",
       "NumProgressed": 1979,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T04:05:49.6317555+00:00",
+      "NumProgressed": 1980,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7654,7 +7659,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -7710,7 +7715,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7718,7 +7723,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -7837,7 +7842,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1979,
+      "Progressed": 1980,
       "Completed": 1
     }
   ],
@@ -7845,8 +7850,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-08T03:04:41.21711+00:00",
+  "LastChanged_Achievements": "2023-12-08T04:05:49.6317551+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:25.6864843+00:00",
-  "LastUpdate_Ratings": "2023-12-08T03:00:02.4531375+00:00",
-  "LastUpdate_Achievements": "2023-12-08T03:04:41.2171882+00:00"
+  "LastUpdate_Ratings": "2023-12-08T04:02:44.6138235+00:00",
+  "LastUpdate_Achievements": "2023-12-08T04:05:49.6318125+00:00"
 }

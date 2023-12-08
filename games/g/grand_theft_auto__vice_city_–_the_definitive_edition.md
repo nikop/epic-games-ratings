@@ -7,20 +7,20 @@ Rating: 4.53 (Ranked 548)
 | ---- | ---------- | ----- |
 | Legal Counsel | 47.00% | ~5,288 |
 | Greasy Palms | 43.00% | ~4,838 |
-| South American Connection | 26.00% | ~2,925 |
-| Life of the Party | 21.00% | ~2,362 |
+| South American Connection | 26.00% | ~2,926 |
+| Life of the Party | 21.00% | ~2,363 |
 | Tommy Two-Wheels | 16.00% | ~1,800 |
 | Big Heat from Little Havana | 15.00% | ~1,688 |
 | Chauffeur | 15.00% | ~1,688 |
 | Salutations My Little Friend | 11.00% | ~1,238 |
 | Iron-y | 10.00% | ~1,125 |
-| Gun for Hire | 9.00% | ~1,012 |
-| Mischief Managed | 9.00% | ~1,012 |
+| Gun for Hire | 9.00% | ~1,013 |
+| Mischief Managed | 9.00% | ~1,013 |
 | Vice City Mogul | 7.00% | ~788 |
 | Bloodstained Hands | 7.00% | ~788 |
 | Catch Me if You Can | 6.00% | ~675 |
-| Not my First Time | 5.00% | ~562 |
-| Grand Theft Auto | 5.00% | ~562 |
+| Not my First Time | 5.00% | ~563 |
+| Grand Theft Auto | 5.00% | ~563 |
 | High Quality H2O | 4.00% | ~450 |
 | Pie Guy | 4.00% | ~450 |
 | Running Rampant | 3.00% | ~338 |
@@ -33,14 +33,14 @@ Rating: 4.53 (Ranked 548)
 | One is Better Than Two | 2.00% | ~225 |
 | Take the Cannoli | 2.00% | ~225 |
 | Chopper’d Up | 2.00% | ~225 |
-| Born in the 80’s | 1.00% | ~112 |
-| Keepie-Uppy Okie Dokie | 1.00% | ~112 |
-| I'm Famous! | 1.00% | ~112 |
-| Daredevil | 1.00% | ~112 |
-| Done it All | 1.00% | ~112 |
+| Born in the 80’s | 1.00% | ~113 |
+| Keepie-Uppy Okie Dokie | 1.00% | ~113 |
+| I'm Famous! | 1.00% | ~113 |
+| Daredevil | 1.00% | ~113 |
+| Done it All | 1.00% | ~113 |
 | Kingpin | 0.60% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,250 (Ranked 163)  
+Progressed: 11,252 (Ranked 163)  
 Completed: 65 (0.58%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 65 (0.58%) (Ranked 200)
 | 2023-12-05 | 11,203 | 65 |
 | 2023-12-06 | 11,229 | 65 |
 | 2023-12-07 | 11,248 | 65 |
-| 2023-12-08 | 11,250 | 65 |
+| 2023-12-08 | 11,252 | 65 |
 ## Awards
 Max (Great Boss Battles): 114  (Ranked 349)  
 Sum: 114 (Ranked 446)  

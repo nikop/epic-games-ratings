@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 512,
   "Ranking_Popularity": 493,
-  "Ranking_PopularitySum": 411,
+  "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 53,
@@ -615,10 +615,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 186,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-12-08T03:59:44.4471608+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 206,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 186,
+  "NumberOfAwards": 206,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -675,11 +681,17 @@
       "Prefix": "This game has",
       "Type": "Competitive Players",
       "Count": 22
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 236503,
+  "EOS_Progressed": 236504,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1451,
+  "EOS_NewPlayers": 1440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16567,6 +16579,11 @@
       "Time": "2023-12-08T03:09:24.480935+00:00",
       "NumProgressed": 236503,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T04:10:19.8021493+00:00",
+      "NumProgressed": 236504,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -16763,7 +16780,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33110
+      "UsersEstimate": 33111
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -16850,16 +16867,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 236503,
+      "Progressed": 236504,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-12-05T23:57:32.1376556+00:00",
-  "LastChanged_Achievements": "2023-12-08T03:09:24.4809348+00:00",
-  "LastUpdate_AppInfo": "2023-12-01T02:57:03.9317243+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:58:29.8671401+00:00",
-  "LastUpdate_Achievements": "2023-12-08T03:09:24.4810436+00:00"
+  "LastChanged": "2023-12-08T03:59:44.4471606+00:00",
+  "LastChanged_Achievements": "2023-12-08T04:10:19.802149+00:00",
+  "LastUpdate_AppInfo": "2023-12-08T03:57:08.4919895+00:00",
+  "LastUpdate_Ratings": "2023-12-08T03:59:44.4471612+00:00",
+  "LastUpdate_Achievements": "2023-12-08T04:10:19.8022387+00:00"
 }

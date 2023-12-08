@@ -4,7 +4,7 @@
   "ProductSlug": "carsick-carventure-d216ba",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-12-07T14:52:25.231+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -87,6 +87,11 @@
       "Time": "2023-12-08T02:27:14.0742883+00:00",
       "NumProgressed": 42,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T04:04:00.4092734+00:00",
+      "NumProgressed": 43,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -138,13 +143,13 @@
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2023-12-08T03:03:22.8025872+00:00",
+  "LastChanged_Achievements": "2023-12-08T04:04:00.4092727+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:57.3425217+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:57:06.9917066+00:00",
-  "LastUpdate_Achievements": "2023-12-08T03:03:22.8025938+00:00"
+  "LastUpdate_Ratings": "2023-12-08T03:57:39.0271426+00:00",
+  "LastUpdate_Achievements": "2023-12-08T04:04:00.409279+00:00"
 }

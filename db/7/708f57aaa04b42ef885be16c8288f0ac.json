@@ -6,9 +6,9 @@
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -201,11 +201,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7539,
-  "EOS_Completed": 14,
-  "EOS_NewPlayers": 370,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 0.19,
+  "EOS_Progressed": 7540,
+  "EOS_Completed": 15,
+  "EOS_NewPlayers": 366,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
       "Time": "2023-10-17T16:05:13.3734944+00:00",
@@ -5836,6 +5836,11 @@
       "Time": "2023-12-08T03:09:18.9376326+00:00",
       "NumProgressed": 7539,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-08T04:10:12.549007+00:00",
+      "NumProgressed": 7540,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5888,7 +5893,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "Eavesdropper",
@@ -5920,7 +5925,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "FuneralForTheDeath",
@@ -6040,7 +6045,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "TheQuarterback",
@@ -6119,16 +6124,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7539,
-      "Completed": 14
+      "Progressed": 7540,
+      "Completed": 15
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-08T03:09:18.9376323+00:00",
+  "LastChanged_Achievements": "2023-12-08T04:10:12.5490066+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:59:48.3614637+00:00",
-  "LastUpdate_Achievements": "2023-12-08T03:09:18.9376751+00:00"
+  "LastUpdate_Ratings": "2023-12-08T04:01:42.7855445+00:00",
+  "LastUpdate_Achievements": "2023-12-08T04:10:12.5490544+00:00"
 }

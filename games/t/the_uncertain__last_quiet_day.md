@@ -1,6 +1,7 @@
 # The Uncertain: Last Quiet Day
 [Store](https://store.epicgames.com/en-US/p/the-uncertain-last-quiet-day)  
 [View Rawdata](../../db/t/the_uncertain__last_quiet_day.json)  
+Rating: 3.75 (Ranked 1,051)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,9 +22,9 @@
 | Annoying | 19.00% | ~112 |
 | He is just a child | 19.00% | ~112 |
 | Uncertain | 18.00% | ~106 |
+| Ace | 17.00% | ~100 |
 | Goody | 17.00% | ~100 |
 | Please oh pleeease! | 17.00% | ~100 |
-| Ace | 16.00% | ~94 |
 | Concrete painting | 16.00% | ~94 |
 | Found it! | 16.00% | ~94 |
 | Hipster | 16.00% | ~94 |
@@ -166,3 +167,4 @@ Completed: 18 (3.06%) (Ranked 106)
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-03-31 | - | 0 | 0 |
+| 2023-12-08 | 3.75 | 0 | 0 |

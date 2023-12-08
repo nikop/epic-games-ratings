@@ -2,7 +2,7 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_EOS_Progress": 313,
+  "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 115,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521,
+  "EOS_Progressed": 534,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -97,6 +97,11 @@
       "Time": "2023-12-08T03:08:50.2070689+00:00",
       "NumProgressed": 521,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T04:09:32.6894799+00:00",
+      "NumProgressed": 534,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -107,9 +112,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 64
     },
     {
       "ID": "03_TheStolenStar",
@@ -211,9 +216,9 @@
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "16_TheRise",
@@ -323,9 +328,9 @@
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 43
     },
     {
       "ID": "30_The GreatestExploration",
@@ -355,9 +360,9 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 0.2,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -459,9 +464,9 @@
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "47_AFlame",
@@ -628,14 +633,14 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 521,
+      "Progressed": 534,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-08T03:08:50.2070685+00:00",
+  "LastChanged_Achievements": "2023-12-08T04:09:32.6894794+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:57:40.0586577+00:00",
-  "LastUpdate_Achievements": "2023-12-08T03:08:50.2071086+00:00"
+  "LastUpdate_Ratings": "2023-12-08T03:58:28.8822469+00:00",
+  "LastUpdate_Achievements": "2023-12-08T04:09:32.6895239+00:00"
 }

@@ -30,10 +30,10 @@
 | My pants squeak when I walk | 42.00% | ~55 |
 | Surprise!! | 41.00% | ~54 |
 | Haemochromatosis | 39.00% | ~51 |
-| Make America Grate Again | 35.00% | ~46 |
+| Make America Grate Again | 36.00% | ~48 |
 | Pasta Bolognese | 34.00% | ~45 |
+| You are no match for me, Billy! | 33.00% | ~44 |
 | You can't stop me, bro! | 33.00% | ~44 |
-| You are no match for me, Billy! | 32.00% | ~42 |
 | Catch the bus with me! | 32.00% | ~42 |
 | Karaoke king | 32.00% | ~42 |
 | Meatballs, coming up! | 30.00% | ~40 |
@@ -42,10 +42,10 @@
 | Ripe Meat Off The Bone! | 26.00% | ~34 |
 | Kleptomaniac | 26.00% | ~34 |
 | A Megapint...? | 24.00% | ~32 |
+| Your daily dose of Vitamin C. | 24.00% | ~32 |
 | Hovering around | 24.00% | ~32 |
 | You're not so Big anymore, Boi! | 23.00% | ~30 |
-| Your daily dose of Vitamin C. | 23.00% | ~30 |
-| I cant stand still! | 20.00% | ~26 |
+| I cant stand still! | 21.00% | ~28 |
 | Slimy... yet satisfying | 20.00% | ~26 |
 | Master Butcher | 18.00% | ~24 |
 | Just wing it! | 17.00% | ~22 |

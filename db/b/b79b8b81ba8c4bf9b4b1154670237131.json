@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14616,
+  "EOS_Progressed": 14619,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2878,6 +2878,11 @@
       "Time": "2023-12-08T03:08:40.5565616+00:00",
       "NumProgressed": 14616,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-08T04:09:18.8918208+00:00",
+      "NumProgressed": 14619,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -2890,7 +2895,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5554
+      "UsersEstimate": 5555
     },
     {
       "ID": "ACH_AE_10",
@@ -2898,7 +2903,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "ACH_AE_11",
@@ -2922,7 +2927,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 10962
+      "UsersEstimate": 10964
     },
     {
       "ID": "ACH_AE_14",
@@ -2930,7 +2935,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "ACH_AE_15",
@@ -2970,7 +2975,7 @@
       "Name": "Signature Style",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "ACH_AE_2",
@@ -3058,7 +3063,7 @@
       "Name": "Swiped Right",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACH_AE_3",
@@ -3169,7 +3174,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 14616,
+      "Progressed": 14619,
       "Completed": 15
     }
   ],
@@ -3177,8 +3182,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-06T04:58:43.6261983+00:00",
-  "LastChanged_Achievements": "2023-12-08T03:08:40.5565612+00:00",
+  "LastChanged_Achievements": "2023-12-08T04:09:18.8918204+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.7146917+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:59:20.0761631+00:00",
-  "LastUpdate_Achievements": "2023-12-08T03:08:40.5565968+00:00"
+  "LastUpdate_Ratings": "2023-12-08T04:00:59.668388+00:00",
+  "LastUpdate_Achievements": "2023-12-08T04:09:18.8918541+00:00"
 }

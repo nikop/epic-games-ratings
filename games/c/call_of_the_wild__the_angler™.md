@@ -20,9 +20,9 @@ Number of Ratings: 281  (23.09.2022)
 | School's Out for Summer | 2.00% | ~135 |
 | License to Gill | 1.00% | ~68 |
 | I'm Hooked! | 1.00% | ~68 |
+| Diamond in the Rough | 0.60% | ~41 |
 | I'm the Captain Now | 0.50% | ~34 |
 | Marathon | 0.50% | ~34 |
-| Diamond in the Rough | 0.50% | ~34 |
 | More than a Tourist | 0.40% | ~27 |
 | Hook, Line and Sinker | 0.40% | ~27 |
 | No Fin left to give | 0.40% | ~27 |
@@ -281,8 +281,8 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-07 | 6,751 | 0 |
 ## Awards
 Max (Relaxing): 38  (Ranked 468)  
-Sum: 199 (Ranked 402)  
-Diff (max vs sum): 66  
+Sum: 199 (Ranked 403)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 38 |

@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 58560,
+  "EOS_Progressed": 58563,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 1502,
+  "EOS_NewPlayers": 1503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12423,6 +12423,11 @@
       "Time": "2023-12-08T03:06:34.2020556+00:00",
       "NumProgressed": 58560,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-08T04:08:28.4649498+00:00",
+      "NumProgressed": 58563,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -12459,7 +12464,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8198
+      "UsersEstimate": 8199
     },
     {
       "ID": "BAD_END",
@@ -12539,7 +12544,7 @@
       "Name": "Old Friend",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "ENCYCLOPEDIA_1",
@@ -12547,7 +12552,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 12883
+      "UsersEstimate": 12884
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -12587,7 +12592,7 @@
       "Name": "Righteous",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "GREAT_SORCERER",
@@ -12611,7 +12616,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8198
+      "UsersEstimate": 8199
     },
     {
       "ID": "HERBS_2",
@@ -12635,7 +12640,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 16397
+      "UsersEstimate": 16398
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -12667,7 +12672,7 @@
       "Name": "Musician",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "NEW_SPIRITS",
@@ -12675,7 +12680,7 @@
       "Name": "New Spirits",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "NIKOLAY_LOYAL",
@@ -12683,7 +12688,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7027
+      "UsersEstimate": 7028
     },
     {
       "ID": "NORMAL_END",
@@ -12691,7 +12696,7 @@
       "Name": "Koldun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "OLD_SPIRITS",
@@ -12723,7 +12728,7 @@
       "Name": "Voipel",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "SAVVY",
@@ -12795,7 +12800,7 @@
       "Name": "Wolf",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "WORD_MASTER",
@@ -12819,7 +12824,7 @@
       "Name": "Black Mage",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "ZNATKOST_3",
@@ -12834,15 +12839,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 58560,
+      "Progressed": 58563,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-08T03:06:34.2020553+00:00",
+  "LastChanged_Achievements": "2023-12-08T04:08:28.4649494+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.6045759+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:57:52.4013181+00:00",
-  "LastUpdate_Achievements": "2023-12-08T03:06:34.2021261+00:00"
+  "LastUpdate_Ratings": "2023-12-08T03:58:47.5066457+00:00",
+  "LastUpdate_Achievements": "2023-12-08T04:08:28.4650182+00:00"
 }
