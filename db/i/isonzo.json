@@ -979,9 +979,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9270,
+  "EOS_Progressed": 9271,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8944,6 +8944,11 @@
       "Time": "2023-12-08T06:06:25.367542+00:00",
       "NumProgressed": 9270,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-08T08:08:05.8411985+00:00",
+      "NumProgressed": 9271,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9003,7 +9008,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -9035,7 +9040,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -9067,7 +9072,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -9099,7 +9104,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -9123,7 +9128,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3244
+      "UsersEstimate": 3245
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -9147,7 +9152,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4265
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -9195,7 +9200,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -9251,7 +9256,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -9314,7 +9319,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9270,
+      "Progressed": 9271,
       "Completed": 10
     }
   ],
@@ -9322,8 +9327,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-07T18:57:49.7732278+00:00",
-  "LastChanged_Achievements": "2023-12-08T07:08:06.5546892+00:00",
+  "LastChanged_Achievements": "2023-12-08T08:08:05.8411981+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:20.0438707+00:00",
-  "LastUpdate_Ratings": "2023-12-08T06:58:19.229359+00:00",
-  "LastUpdate_Achievements": "2023-12-08T07:08:06.5547458+00:00"
+  "LastUpdate_Ratings": "2023-12-08T07:58:37.0566733+00:00",
+  "LastUpdate_Achievements": "2023-12-08T08:08:05.8412774+00:00"
 }

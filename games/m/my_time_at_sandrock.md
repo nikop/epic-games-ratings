@@ -10,7 +10,7 @@ Number of Ratings: 892  (23.09.2022)
 | Iron Chef | 170.00% | ~864 |
 | Super Spelunker | 136.00% | ~691 |
 | Greeno-B-Gone | 130.00% | ~660 |
-| The Little Wood that Could | 111.00% | ~564 |
+| The Little Wood that Could | 112.00% | ~569 |
 | Your Especially Earned Trajectory | 107.00% | ~544 |
 | No Mountain Wide Enough | 85.00% | ~432 |
 | One of the Cool Kids | 85.00% | ~432 |
@@ -44,7 +44,7 @@ Number of Ratings: 892  (23.09.2022)
 | Bridging the Gap | 55.00% | ~279 |
 | Knowledge is Power | 54.00% | ~274 |
 | Finishing Touches | 54.00% | ~274 |
-| Got the Flow Back | 50.00% | ~254 |
+| Got the Flow Back | 51.00% | ~259 |
 | Sepia Toned Memories | 48.00% | ~244 |
 | Who Ya Gonna Call...? | 47.00% | ~239 |
 | Time Flies | 45.00% | ~229 |

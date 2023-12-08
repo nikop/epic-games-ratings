@@ -3773,7 +3773,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 52054,
+  "EOS_Progressed": 52055,
   "EOS_Completed": 251,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
@@ -14313,6 +14313,11 @@
       "Time": "2023-12-08T07:04:20.4326913+00:00",
       "NumProgressed": 52054,
       "NumCompleted": 251
+    },
+    {
+      "Time": "2023-12-08T08:05:13.2589636+00:00",
+      "NumProgressed": 52055,
+      "NumCompleted": 251
     }
   ],
   "TotalAchievements": 45,
@@ -14444,7 +14449,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 24465
+      "UsersEstimate": 24466
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -14452,7 +14457,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 21342
+      "UsersEstimate": 21343
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -14476,7 +14481,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 16657
+      "UsersEstimate": 16658
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -14492,7 +14497,7 @@
       "Name": "The Last Jedi",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11972
+      "UsersEstimate": 11973
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -14588,7 +14593,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50492
+      "UsersEstimate": 50493
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -14628,7 +14633,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37479
+      "UsersEstimate": 37480
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -14660,7 +14665,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 28109
+      "UsersEstimate": 28110
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -14676,22 +14681,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37479
+      "UsersEstimate": 37480
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 52054,
+      "Progressed": 52055,
       "Completed": 251
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-12-07T02:24:57.4853897+00:00",
-  "LastChanged_Achievements": "2023-12-08T07:04:20.4326909+00:00",
+  "LastChanged_Achievements": "2023-12-08T08:05:13.2589632+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:20.8912008+00:00",
-  "LastUpdate_Ratings": "2023-12-08T06:57:24.8175865+00:00",
-  "LastUpdate_Achievements": "2023-12-08T07:04:20.4327666+00:00"
+  "LastUpdate_Ratings": "2023-12-08T07:57:24.7856324+00:00",
+  "LastUpdate_Achievements": "2023-12-08T08:05:13.2590673+00:00"
 }

@@ -138,17 +138,17 @@
       "ID": "ACH_ESCAPEFROMFLEED",
       "SetID": "ch874lb",
       "Name": "Escape from Fleed",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FIRSTCONTACT",
       "SetID": "ch874lb",
       "Name": "First Contact",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FIRSTDEATH",
@@ -162,17 +162,17 @@
       "ID": "ACH_FIRSTLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "The Remains of Fleed",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FIRSTMEDITATION",
       "SetID": "ch874lb",
       "Name": "Life of Pi",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FIRSTSKINCHANGE",
@@ -186,9 +186,9 @@
       "ID": "ACH_FIRSTUPGRADE",
       "SetID": "ch874lb",
       "Name": "Technology first!",
-      "Percentage": 33,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FLEEDKEEPER",
@@ -218,9 +218,9 @@
       "ID": "ACH_IRONFIST",
       "SetID": "ch874lb",
       "Name": "Iron Fist",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_KILLENEMY",
@@ -234,9 +234,9 @@
       "ID": "ACH_LEGENDARYMATERIAL",
       "SetID": "ch874lb",
       "Name": "The Legend",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_PERFECTDODGE",
@@ -338,9 +338,9 @@
       "ID": "ACH_THEVEGATURTLE",
       "SetID": "ch874lb",
       "Name": "The Vega Turtle",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WOLFVENGEANCE",
@@ -361,8 +361,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-08T07:09:18.0922036+00:00",
+  "LastChanged_Achievements": "2023-12-08T08:09:38.0390331+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:12.6917781+00:00",
-  "LastUpdate_Ratings": "2023-12-08T07:00:20.823341+00:00",
-  "LastUpdate_Achievements": "2023-12-08T07:09:18.0922203+00:00"
+  "LastUpdate_Ratings": "2023-12-08T08:01:20.6832186+00:00",
+  "LastUpdate_Achievements": "2023-12-08T08:09:38.0390506+00:00"
 }

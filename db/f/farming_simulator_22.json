@@ -12174,9 +12174,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 55072,
+  "EOS_Progressed": 55073,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 721,
+  "EOS_NewPlayers": 717,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33579,6 +33579,11 @@
       "Time": "2023-12-08T06:04:35.0979509+00:00",
       "NumProgressed": 55072,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-08T08:05:44.9447409+00:00",
+      "NumProgressed": 55073,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -33686,7 +33691,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 32492
+      "UsersEstimate": 32493
     },
     {
       "ID": "DeliveryGrapes",
@@ -33726,7 +33731,7 @@
       "Name": "Plant get enough",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 32492
+      "UsersEstimate": 32493
     },
     {
       "ID": "Harvested",
@@ -33742,7 +33747,7 @@
       "Name": "Own use",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 40753
+      "UsersEstimate": 40754
     },
     {
       "ID": "HorseJumps",
@@ -33774,15 +33779,15 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 26985
+      "UsersEstimate": 26986
     },
     {
       "ID": "Mission",
       "SetID": "636ci4d",
       "Name": "Helper A does not stop \u2026 ever",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 55,
-      "UsersEstimate": 3304
+      "UsersEstimate": 2754
     },
     {
       "ID": "MissionFirst",
@@ -33846,7 +33851,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 30840
+      "UsersEstimate": 30841
     },
     {
       "ID": "PetDog",
@@ -33854,7 +33859,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 14869
+      "UsersEstimate": 14870
     },
     {
       "ID": "PlayTime",
@@ -33862,7 +33867,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 31391
+      "UsersEstimate": 31392
     },
     {
       "ID": "Sow",
@@ -33878,7 +33883,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 33594
+      "UsersEstimate": 33595
     },
     {
       "ID": "Stones",
@@ -33894,7 +33899,7 @@
       "Name": "Field Trip",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 23130
+      "UsersEstimate": 23131
     },
     {
       "ID": "TruckDriving",
@@ -33933,15 +33938,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 55072,
+      "Progressed": 55073,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-12-08T04:00:58.0057464+00:00",
-  "LastChanged_Achievements": "2023-12-08T07:04:45.7642131+00:00",
+  "LastChanged_Achievements": "2023-12-08T08:05:44.9447406+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.2145586+00:00",
-  "LastUpdate_Ratings": "2023-12-08T07:00:02.3656466+00:00",
-  "LastUpdate_Achievements": "2023-12-08T07:04:45.764325+00:00"
+  "LastUpdate_Ratings": "2023-12-08T08:00:55.4075755+00:00",
+  "LastUpdate_Achievements": "2023-12-08T08:05:44.9449007+00:00"
 }

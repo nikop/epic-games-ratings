@@ -11,10 +11,10 @@
 | Unlucky | 22.00% | ~82 |
 | Exam Practice | 13.00% | ~48 |
 | In The Honor Roll | 11.00% | ~41 |
-| Byoing | 8.00% | ~30 |
+| Byoing | 9.00% | ~33 |
 | 2nd Grade | 3.00% | ~11 |
+| Full House | 1.00% | ~4 |
 | 3rd Grade | 1.00% | ~4 |
-| Full House | 0.80% | ~3 |
 | Self-Sufficient | 0.80% | ~3 |
 | "A" Student | 0.50% | ~2 |
 | 4th Grade | 0.30% | ~1 |

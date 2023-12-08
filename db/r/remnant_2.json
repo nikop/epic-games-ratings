@@ -5325,10 +5325,10 @@
       "Count": 411
     }
   ],
-  "EOS_Progressed": 236688,
+  "EOS_Progressed": 236702,
   "EOS_Completed": 567,
-  "EOS_NewPlayers": 5075,
-  "EOS_NewCompleters": 25,
+  "EOS_NewPlayers": 5068,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -21955,6 +21955,11 @@
       "Time": "2023-12-08T07:09:13.2348447+00:00",
       "NumProgressed": 236688,
       "NumCompleted": 567
+    },
+    {
+      "Time": "2023-12-08T08:09:31.856211+00:00",
+      "NumProgressed": 236702,
+      "NumCompleted": 567
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21967,7 +21972,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -22015,7 +22020,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -22071,7 +22076,7 @@
       "Name": "Not So Special Now",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -22087,7 +22092,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -22119,7 +22124,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "Meet_Meidra",
@@ -22199,7 +22204,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "Obtain_Guns_A",
@@ -22343,7 +22348,7 @@
       "Name": "Trait Chaser",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -22406,13 +22411,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 236688,
+      "Progressed": 236702,
       "Completed": 567
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 15853,
+      "Progressed": 15867,
       "Completed": 203
     }
   ],
@@ -22420,8 +22425,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-08T07:03:07.9864224+00:00",
-  "LastChanged_Achievements": "2023-12-08T07:09:13.2348443+00:00",
+  "LastChanged_Achievements": "2023-12-08T08:09:31.8562107+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-08T07:03:07.9864231+00:00",
-  "LastUpdate_Achievements": "2023-12-08T07:09:13.2349368+00:00"
+  "LastUpdate_Ratings": "2023-12-08T08:03:37.6619107+00:00",
+  "LastUpdate_Achievements": "2023-12-08T08:09:31.8563304+00:00"
 }

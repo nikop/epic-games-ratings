@@ -13496,9 +13496,9 @@
       "Count": 27748
     }
   ],
-  "EOS_Progressed": 1078553,
+  "EOS_Progressed": 1078609,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 21372,
+  "EOS_NewPlayers": 21356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40151,6 +40151,11 @@
       "Time": "2023-12-08T07:10:01.3376219+00:00",
       "NumProgressed": 1078553,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-08T08:10:31.8799582+00:00",
+      "NumProgressed": 1078609,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -40162,7 +40167,7 @@
       "Name": "The Grand Sacrifice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8628
+      "UsersEstimate": 8629
     },
     {
       "ID": "ACH_002",
@@ -40314,7 +40319,7 @@
       "Name": "Perfect Escape",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 8628
+      "UsersEstimate": 8629
     },
     {
       "ID": "ACH_021",
@@ -40338,7 +40343,7 @@
       "Name": "It wakes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21571
+      "UsersEstimate": 21572
     },
     {
       "ID": "ACH_024",
@@ -40354,7 +40359,7 @@
       "Name": "Bloody Millionaire",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 8628
+      "UsersEstimate": 8629
     },
     {
       "ID": "ACH_026",
@@ -40378,7 +40383,7 @@
       "Name": "Apt Killer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6471
+      "UsersEstimate": 6472
     },
     {
       "ID": "ACH_029",
@@ -40466,7 +40471,7 @@
       "Name": "Skillful",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21571
+      "UsersEstimate": 21572
     },
     {
       "ID": "ACH_040",
@@ -40490,7 +40495,7 @@
       "Name": "III",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 6471
+      "UsersEstimate": 6472
     },
     {
       "ID": "ACH_043",
@@ -41058,7 +41063,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6471
+      "UsersEstimate": 6472
     },
     {
       "ID": "ACH_114",
@@ -41400,9 +41405,9 @@
       "ID": "ACH_159",
       "SetID": "16jml5b",
       "Name": "End of Days",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2157
+      "UsersEstimate": 3236
     },
     {
       "ID": "ACH_160",
@@ -41570,7 +41575,7 @@
       "Name": "Humanitarian",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8628
+      "UsersEstimate": 8629
     },
     {
       "ID": "ACH_181",
@@ -42017,21 +42022,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1078553,
+      "Progressed": 1078609,
       "Completed": 70
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1078553,
+      "Progressed": 1078609,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-08T05:00:02.4698801+00:00",
-  "LastChanged_Achievements": "2023-12-08T07:10:01.3376216+00:00",
+  "LastChanged_Achievements": "2023-12-08T08:10:31.8799577+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:13.1126718+00:00",
-  "LastUpdate_Ratings": "2023-12-08T07:00:19.0071364+00:00",
-  "LastUpdate_Achievements": "2023-12-08T07:10:01.3381439+00:00"
+  "LastUpdate_Ratings": "2023-12-08T08:01:18.4237179+00:00",
+  "LastUpdate_Achievements": "2023-12-08T08:10:31.8805194+00:00"
 }

@@ -28,8 +28,8 @@ Rating: 3.21 (Ranked 1,060)
 | Know The Enemy | 5.00% | ~99 |
 | Player Betrayer | 5.00% | ~99 |
 | Major | 5.00% | ~99 |
+| Gold Achiever | 4.00% | ~79 |
 | Resourceful | 4.00% | ~79 |
-| Gold Achiever | 3.00% | ~59 |
 | Colonel | 3.00% | ~59 |
 | Control the Skies | 3.00% | ~59 |
 | Advanced Warfare | 2.00% | ~40 |

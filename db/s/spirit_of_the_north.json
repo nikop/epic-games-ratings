@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 76227,
+  "EOS_Progressed": 76228,
   "EOS_Completed": 409,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -25848,6 +25848,11 @@
       "Time": "2023-12-08T07:09:23.0409647+00:00",
       "NumProgressed": 76227,
       "NumCompleted": 409
+    },
+    {
+      "Time": "2023-12-08T08:09:44.2472509+00:00",
+      "NumProgressed": 76228,
+      "NumCompleted": 409
     }
   ],
   "TotalAchievements": 24,
@@ -25939,7 +25944,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 40400
+      "UsersEstimate": 40401
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -25979,7 +25984,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6860
+      "UsersEstimate": 6861
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -25987,7 +25992,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 6860
+      "UsersEstimate": 6861
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -26050,7 +26055,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 76227,
+      "Progressed": 76228,
       "Completed": 409
     }
   ],
@@ -26058,8 +26063,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-12-08T07:09:23.0409643+00:00",
+  "LastChanged_Achievements": "2023-12-08T08:09:44.2472505+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:18.159527+00:00",
-  "LastUpdate_Ratings": "2023-12-08T06:58:57.913216+00:00",
-  "LastUpdate_Achievements": "2023-12-08T07:09:23.0411238+00:00"
+  "LastUpdate_Ratings": "2023-12-08T07:59:28.8328346+00:00",
+  "LastUpdate_Achievements": "2023-12-08T08:09:44.2474584+00:00"
 }

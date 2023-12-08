@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -879,9 +879,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 4074,
+  "EOS_Progressed": 4075,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6729,6 +6729,11 @@
       "Time": "2023-12-08T06:05:57.631503+00:00",
       "NumProgressed": 4074,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T08:07:32.0469131+00:00",
+      "NumProgressed": 4075,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6773,7 +6778,7 @@
       "Name": "MVP",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "achievement_14",
@@ -6877,7 +6882,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "achievement_7",
@@ -6908,7 +6913,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4074,
+      "Progressed": 4075,
       "Completed": 0
     }
   ],
@@ -6916,8 +6921,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-08T01:45:26.6120745+00:00",
-  "LastChanged_Achievements": "2023-12-08T07:06:09.4658258+00:00",
+  "LastChanged_Achievements": "2023-12-08T08:07:32.0469127+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-08T06:57:24.7823493+00:00",
-  "LastUpdate_Achievements": "2023-12-08T07:06:09.4658679+00:00"
+  "LastUpdate_Ratings": "2023-12-08T07:57:24.6047489+00:00",
+  "LastUpdate_Achievements": "2023-12-08T08:07:32.0469704+00:00"
 }

@@ -20,8 +20,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | May His passing cleanse the world | 15.00% | ~70,789 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,789 |
 | Pope Zenon | 15.00% | ~70,789 |
+| Plan for the worst | 12.00% | ~56,631 |
 | Tetsuo | 11.00% | ~51,912 |
-| Plan for the worst | 11.00% | ~51,912 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,193 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,754 |
 | Through the mirror | 8.00% | ~37,754 |

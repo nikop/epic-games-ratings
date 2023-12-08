@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 526,
+  "EOS_Progressed": 527,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1505,6 +1505,11 @@
       "Time": "2023-12-08T07:09:09.5864167+00:00",
       "NumProgressed": 526,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T08:09:26.9635538+00:00",
+      "NumProgressed": 527,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1517,7 +1522,7 @@
       "Name": "The Teleprobe",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "AchvAllMemories",
@@ -1525,7 +1530,7 @@
       "Name": "I remember everything!",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "AchvAssertive",
@@ -1533,7 +1538,7 @@
       "Name": "On her own",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "AchvBattleScore",
@@ -1549,7 +1554,7 @@
       "Name": "Peacemaker",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "AchvBombing",
@@ -1563,7 +1568,7 @@
       "ID": "AchvConvoyList",
       "SetID": "1hj060c",
       "Name": "Convoy list",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 90,
       "UsersEstimate": 5
     },
@@ -1685,7 +1690,7 @@
       "Name": "The field base",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "AchvReachCamp",
@@ -1693,7 +1698,7 @@
       "Name": "The Camp",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "AchvReachCity",
@@ -1701,7 +1706,7 @@
       "Name": "The City",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "AchvReachCondor",
@@ -1709,7 +1714,7 @@
       "Name": "The Condor",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "AchvSurvivors",
@@ -1741,21 +1746,21 @@
       "Name": "Beyond divisions",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 526,
+      "Progressed": 527,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-08T07:09:09.5864163+00:00",
+  "LastChanged_Achievements": "2023-12-08T08:09:26.9635534+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-08T06:59:54.3559303+00:00",
-  "LastUpdate_Achievements": "2023-12-08T07:09:09.5864369+00:00"
+  "LastUpdate_Ratings": "2023-12-08T08:00:44.4730308+00:00",
+  "LastUpdate_Achievements": "2023-12-08T08:09:26.9635839+00:00"
 }

@@ -469,9 +469,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1554873,
+  "EOS_Progressed": 1554883,
   "EOS_Completed": 739,
-  "EOS_NewPlayers": 1358,
+  "EOS_NewPlayers": 1360,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26934,6 +26934,11 @@
       "Time": "2023-12-08T07:03:20.7796755+00:00",
       "NumProgressed": 1554873,
       "NumCompleted": 739
+    },
+    {
+      "Time": "2023-12-08T08:03:56.1170909+00:00",
+      "NumProgressed": 1554883,
+      "NumCompleted": 739
     }
   ],
   "TotalAchievements": 20,
@@ -26953,7 +26958,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108841
+      "UsersEstimate": 108842
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -26961,7 +26966,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31097
+      "UsersEstimate": 31098
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -27017,7 +27022,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31097
+      "UsersEstimate": 31098
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -27033,7 +27038,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31097
+      "UsersEstimate": 31098
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -27041,7 +27046,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155487
+      "UsersEstimate": 155488
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -27073,7 +27078,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31097
+      "UsersEstimate": 31098
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
@@ -27097,22 +27102,22 @@
       "Name": "Washing Machine",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 6219
+      "UsersEstimate": 6220
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1554873,
+      "Progressed": 1554883,
       "Completed": 739
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-11-20T10:57:26.3491363+00:00",
-  "LastChanged_Achievements": "2023-12-08T07:03:20.779675+00:00",
+  "LastChanged_Achievements": "2023-12-08T08:03:56.1170905+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:56.6993207+00:00",
-  "LastUpdate_Ratings": "2023-12-08T06:59:55.4759481+00:00",
-  "LastUpdate_Achievements": "2023-12-08T07:03:20.7798174+00:00"
+  "LastUpdate_Ratings": "2023-12-08T08:00:45.996911+00:00",
+  "LastUpdate_Achievements": "2023-12-08T08:03:56.1172414+00:00"
 }

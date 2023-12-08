@@ -469,9 +469,9 @@
       "ID": "Award_CleanSweep",
       "SetID": "9ojec6n",
       "Name": "Clean Sweep",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 400
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -541,9 +541,9 @@
       "ID": "Award_Gunner",
       "SetID": "9ojec6n",
       "Name": "Gunner",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 242
     },
     {
       "ID": "Award_HalfwayThere",
@@ -790,8 +790,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-12-08T07:03:45.2360597+00:00",
+  "LastChanged_Achievements": "2023-12-08T08:04:27.8628643+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:01.3124178+00:00",
-  "LastUpdate_Ratings": "2023-12-08T06:58:21.7781997+00:00",
-  "LastUpdate_Achievements": "2023-12-08T07:03:45.2360857+00:00"
+  "LastUpdate_Ratings": "2023-12-08T07:58:40.3790522+00:00",
+  "LastUpdate_Achievements": "2023-12-08T08:04:27.8628952+00:00"
 }

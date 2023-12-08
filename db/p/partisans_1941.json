@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1830,
+  "EOS_Progressed": 1831,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4304,6 +4304,11 @@
       "Time": "2023-12-07T02:33:07.6665169+00:00",
       "NumProgressed": 1830,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T08:09:20.9099096+00:00",
+      "NumProgressed": 1831,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4395,7 +4400,7 @@
       "Name": "E1M1",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "Everyone_is_here",
@@ -4547,22 +4552,22 @@
       "Name": "Your Answer",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1830,
+      "Progressed": 1831,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-08T07:09:04.7034507+00:00",
+  "LastChanged_Achievements": "2023-12-08T08:09:20.9099092+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:23.2476007+00:00",
-  "LastUpdate_Ratings": "2023-12-08T06:58:49.3585398+00:00",
-  "LastUpdate_Achievements": "2023-12-08T07:09:04.7035072+00:00"
+  "LastUpdate_Ratings": "2023-12-08T07:59:17.6245787+00:00",
+  "LastUpdate_Achievements": "2023-12-08T08:09:20.9099569+00:00"
 }

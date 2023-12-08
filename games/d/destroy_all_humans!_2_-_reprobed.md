@@ -6,19 +6,21 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 30.00% | ~7 |
-| Mash Machine | 26.00% | ~6 |
-| Ducks in a Row, Fish in a Barrel | 17.00% | ~4 |
-| Furon Fashion | 13.00% | ~3 |
+| Rock of the Bay | 29.00% | ~7 |
+| Mash Machine | 25.00% | ~6 |
+| Ducks in a Row, Fish in a Barrel | 21.00% | ~5 |
+| Furon Fashion | 17.00% | ~4 |
 | Shop Til They Drop | 13.00% | ~3 |
-| I Look Up As I Walk to Takoshima | 9.00% | ~2 |
+| I Look Up As I Walk to Takoshima | 8.00% | ~2 |
+| Bodied Sattva | 8.00% | ~2 |
 | Cult Following | 4.00% | ~1 |
 | Lie Back and Think of Albion | 4.00% | ~1 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 4.00% | ~1 |
-| Bodied Sattva | 4.00% | ~1 |
+| Kaijuiced | 4.00% | ~1 |
 | Die Nasty | 4.00% | ~1 |
 | Earthly Pleasures | 4.00% | ~1 |
 | Upgreatest | 4.00% | ~1 |
+| Dusted | 4.00% | ~1 |
 | Pimp My Raid | 4.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | Perfect Probulator | 0.00% | ~0 |
@@ -33,7 +35,6 @@ Number of Ratings: 90  (23.09.2022)
 | Toilet Break | 0.00% | ~0 |
 | Albion Bridge Is for Falling Down | 0.00% | ~0 |
 | Fly Me to the Moon Base | 0.00% | ~0 |
-| Kaijuiced | 0.00% | ~0 |
 | Lobster Blisque | 0.00% | ~0 |
 | Freshly Squeezed | 0.00% | ~0 |
 | Ouch of Body Experience | 0.00% | ~0 |
@@ -44,14 +45,13 @@ Number of Ratings: 90  (23.09.2022)
 | Higher Than the Futen Zoku | 0.00% | ~0 |
 | Re-Return of the Clone of the Invasion II-2 | 0.00% | ~0 |
 | To Russia With Love | 0.00% | ~0 |
-| Dusted | 0.00% | ~0 |
 | If You Know What I Mean | 0.00% | ~0 |
 | Steezy Down the Spine | 0.00% | ~0 |
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 | Arkvoodle Doodle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 557)  
+Progressed: 24 (Ranked 557)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-05 | 16 | 0 |
 | 2023-12-06 | 20 | 0 |
 | 2023-12-07 | 21 | 0 |
-| 2023-12-08 | 23 | 0 |
+| 2023-12-08 | 24 | 0 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 482)  
 Sum: 35 (Ranked 510)  

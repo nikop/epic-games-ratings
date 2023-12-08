@@ -10,6 +10,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | That is mine! | 0.20% | ~942 |
 | Until death do us apart | 0.20% | ~942 |
 | Victorious! | 0.20% | ~942 |
+| I don't like sand | 0.10% | ~471 |
 | A Blessed Nation | 0.10% | ~471 |
 | A Decent Reserve | 0.10% | ~471 |
 | A Hero’s Welcome | 0.10% | ~471 |
@@ -277,7 +278,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Last Crusade | 0.10% | ~471 |
 | Truly Good Maaaaa-tch | 0.10% | ~471 |
 | The 52 Garhs | 0.00% | ~0 |
-| I don't like sand | 0.00% | ~0 |
 | African Power | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470,875 (Ranked 41)  
+Progressed: 470,882 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -602,7 +602,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-05 | 469,827 | 1 |
 | 2023-12-06 | 470,325 | 1 |
 | 2023-12-07 | 470,773 | 1 |
-| 2023-12-08 | 470,875 | 1 |
+| 2023-12-08 | 470,882 | 1 |
 ## Awards
 Max (Educational): 7,292  (Ranked 54)  
 Sum: 60,067 (Ranked 24)  

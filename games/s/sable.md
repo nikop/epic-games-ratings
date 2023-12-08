@@ -12,7 +12,7 @@ Number of Ratings: 43  (23.09.2022)
 | Under The Hood | 25.00% | ~25,728 |
 | Got Your Nose | 24.00% | ~24,699 |
 | The Gift of Gab | 24.00% | ~24,699 |
-| Wrapping Up | 22.00% | ~22,640 |
+| Wrapping Up | 22.00% | ~22,641 |
 | More Than A Box Of Sand | 18.00% | ~18,524 |
 | The Dunboyne | 17.00% | ~17,495 |
 | Badge Hobbyist | 17.00% | ~17,495 |
@@ -23,11 +23,11 @@ Number of Ratings: 43  (23.09.2022)
 | Thread The Needle | 15.00% | ~15,437 |
 | Power to the People | 14.00% | ~14,408 |
 | Nesting Giant | 14.00% | ~14,408 |
-| Take That! | 13.00% | ~13,378 |
-| Treasure Tracker | 13.00% | ~13,378 |
-| Big Spender | 13.00% | ~13,378 |
-| Badge Collector | 12.00% | ~12,349 |
-| Quite The Catch | 12.00% | ~12,349 |
+| Take That! | 13.00% | ~13,379 |
+| Treasure Tracker | 13.00% | ~13,379 |
+| Big Spender | 13.00% | ~13,379 |
+| Badge Collector | 12.00% | ~12,350 |
+| Quite The Catch | 12.00% | ~12,350 |
 | Rowleys Way | 11.00% | ~11,320 |
 | The Machinist Mask | 10.00% | ~10,291 |
 | The Cartographer Mask | 10.00% | ~10,291 |
@@ -56,14 +56,14 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 6.00% | ~6,175 |
 | The Gliding | 5.00% | ~5,146 |
 | The Entertainer Mask | 5.00% | ~5,146 |
-| The Quick and the Curious | 4.00% | ~4,116 |
-| Bike Aficionado | 4.00% | ~4,116 |
+| The Quick and the Curious | 4.00% | ~4,117 |
+| Bike Aficionado | 4.00% | ~4,117 |
 | Chum Expert | 3.00% | ~3,087 |
 | Gastric Bypass | 3.00% | ~3,087 |
 | The Angler Mask | 3.00% | ~3,087 |
 | Vivacious Vivarium | 2.00% | ~2,058 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,911 (Ranked 88)  
+Progressed: 102,913 (Ranked 88)  
 Completed: 1,041 (1.01%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 1,041 (1.01%) (Ranked 170)
 | 2023-12-05 | 102,587 | 1,037 |
 | 2023-12-06 | 102,726 | 1,040 |
 | 2023-12-07 | 102,879 | 1,040 |
-| 2023-12-08 | 102,911 | 1,041 |
+| 2023-12-08 | 102,913 | 1,041 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 522)  
 Sum: 94 (Ranked 456)  

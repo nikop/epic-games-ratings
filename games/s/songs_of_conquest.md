@@ -13,12 +13,12 @@ Number of Ratings: 292  (23.09.2022)
 | Dressed For Success | 11.00% | ~41 |
 | Sorcerous Spree | 7.00% | ~26 |
 | Humiliation | 7.00% | ~26 |
+| Multi Kill | 5.00% | ~19 |
 | Veni, Vidi, Vici | 5.00% | ~19 |
-| Multi Kill | 4.00% | ~15 |
 | Whoops! | 4.00% | ~15 |
+| Master | 4.00% | ~15 |
 | Expert Essence Employment | 4.00% | ~15 |
 | Landlord Extraordinaire | 3.00% | ~11 |
-| Master | 3.00% | ~11 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~11 |
 | The Song of Stoutheart | 2.00% | ~8 |
 | Don't Touch My Stuff | 2.00% | ~8 |

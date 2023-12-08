@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -137,9 +137,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1031,
+  "EOS_Progressed": 1033,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.1,
   "EosHistory": [
@@ -3457,6 +3457,11 @@
       "Time": "2023-12-08T05:05:39.5803791+00:00",
       "NumProgressed": 1031,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-08T08:07:17.6476063+00:00",
+      "NumProgressed": 1033,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3477,7 +3482,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "_03_FinishAct1",
@@ -3509,7 +3514,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "_07_FinishAct3",
@@ -3525,7 +3530,7 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "_09_Completion_20",
@@ -3597,7 +3602,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3661,7 +3666,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -3676,7 +3681,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1031,
+      "Progressed": 1033,
       "Completed": 32
     }
   ],
@@ -3684,8 +3689,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-07T17:58:37.8880323+00:00",
-  "LastChanged_Achievements": "2023-12-08T07:05:58.2823307+00:00",
+  "LastChanged_Achievements": "2023-12-08T08:07:17.6476061+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-08T06:59:02.019759+00:00",
-  "LastUpdate_Achievements": "2023-12-08T07:05:58.2823632+00:00"
+  "LastUpdate_Ratings": "2023-12-08T07:59:34.3043657+00:00",
+  "LastUpdate_Achievements": "2023-12-08T08:07:17.6476287+00:00"
 }

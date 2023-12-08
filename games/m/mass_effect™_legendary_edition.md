@@ -62,6 +62,7 @@
 | Revenge! | 31.00% | ~474 |
 | Heart of Darkness | 31.00% | ~474 |
 | Bringer of War | 31.00% | ~474 |
+| Friend or Foe | 30.00% | ~459 |
 | Cat's in the Cradle | 30.00% | ~459 |
 | Doppelganger | 30.00% | ~459 |
 | Treason | 30.00% | ~459 |
@@ -71,7 +72,6 @@
 | Mission Accomplished | 29.00% | ~443 |
 | Suicide Mission | 29.00% | ~443 |
 | Against All Odds | 29.00% | ~443 |
-| Friend or Foe | 29.00% | ~443 |
 | Mobilizer | 29.00% | ~443 |
 | Untouchable | 28.00% | ~428 |
 | Giant Killer | 28.00% | ~428 |
