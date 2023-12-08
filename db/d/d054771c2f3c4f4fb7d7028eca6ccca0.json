@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1433,
+  "EOS_Progressed": 1435,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 945,
+  "EOS_NewPlayers": 934,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -964,6 +964,11 @@
       "Time": "2023-12-08T21:04:22.8395922+00:00",
       "NumProgressed": 1433,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T22:04:44.0081571+00:00",
+      "NumProgressed": 1435,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1014,9 +1019,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "c167foo",
       "Name": "Monster Power",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -1062,9 +1067,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "c167foo",
       "Name": "Grim Challenger",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1078,9 +1083,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "c167foo",
       "Name": "Worthy Badge",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1094,9 +1099,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "c167foo",
       "Name": "Talented Know-how",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 105,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -1142,17 +1147,17 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "c167foo",
       "Name": "Competitor",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_31",
       "SetID": "c167foo",
       "Name": "Little Victory",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 70,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1351,14 +1356,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1433,
+      "Progressed": 1435,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-08T21:04:22.8395918+00:00",
+  "LastChanged_Achievements": "2023-12-08T22:04:44.0081567+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-08T20:59:19.937797+00:00",
-  "LastUpdate_Achievements": "2023-12-08T21:04:22.8396318+00:00"
+  "LastUpdate_Ratings": "2023-12-08T21:59:41.5740449+00:00",
+  "LastUpdate_Achievements": "2023-12-08T22:04:44.0081997+00:00"
 }

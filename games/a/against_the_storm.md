@@ -15,13 +15,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Gathering Storm | 2.00% | ~354 |
 | Untamed Wilds | 1.00% | ~177 |
 | No Deaths | 0.60% | ~106 |
-| First Real Expedition | 0.50% | ~88 |
-| Overcoming Difficulty | 0.50% | ~88 |
-| Coral Forest | 0.50% | ~88 |
-| The Marshlands | 0.50% | ~88 |
-| The Scarlet Orchard | 0.50% | ~88 |
-| Taking Action | 0.50% | ~88 |
+| First Real Expedition | 0.50% | ~89 |
+| Overcoming Difficulty | 0.50% | ~89 |
+| Coral Forest | 0.50% | ~89 |
+| The Marshlands | 0.50% | ~89 |
+| The Scarlet Orchard | 0.50% | ~89 |
+| Taking Action | 0.50% | ~89 |
 | Fertile Meadows | 0.40% | ~71 |
+| Royal Outpost | 0.40% | ~71 |
 | Watchtower | 0.40% | ~71 |
 | Homesick | 0.30% | ~53 |
 | Ruined Armory | 0.30% | ~53 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ancient Battleground | 0.30% | ~53 |
 | Sparkdew Crystals | 0.30% | ~53 |
 | Monastery of the Holy Flame | 0.30% | ~53 |
-| Royal Outpost | 0.30% | ~53 |
 | Lost Colonies | 0.30% | ~53 |
 | Corrosive Torrent | 0.30% | ~53 |
 | A Real Challenge | 0.30% | ~53 |
@@ -42,6 +42,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Levitating Monument | 0.20% | ~35 |
 | Flooded Mines | 0.20% | ~35 |
 | Statue of the Forefathers | 0.20% | ~35 |
+| Forsaken Gods Temple | 0.20% | ~35 |
 | Cursed Lands | 0.20% | ~35 |
 | Into the Forest | 0.20% | ~35 |
 | Feeding The People | 0.10% | ~18 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 0.10% | ~18 |
 | Fishmen Ritual Site | 0.10% | ~18 |
 | Forbidden Lands | 0.10% | ~18 |
-| Forsaken Gods Temple | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
 | The Queen's Chosen | 0.10% | ~18 |
 | Treasure | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,693 (Ranked 146)  
+Progressed: 17,701 (Ranked 146)  
 Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 43 (0.24%) (Ranked 251)
 | 2023-12-05 | 17,618 | 49 |
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
-| 2023-12-08 | 17,693 | 44 |
+| 2023-12-08 | 17,701 | 44 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,245 (Ranked 174)  

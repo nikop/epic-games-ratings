@@ -22,11 +22,11 @@ Number of Ratings: 56  (23.09.2022)
 | food tour: pretzel | 20.00% | ~2,067 |
 | bicycle race | 15.00% | ~1,550 |
 | car wash | 15.00% | ~1,550 |
+| perkele | 14.00% | ~1,447 |
 | monster | 14.00% | ~1,447 |
 | night ride | 14.00% | ~1,447 |
 | the artist | 14.00% | ~1,447 |
 | snorkel | 14.00% | ~1,447 |
-| perkele | 13.00% | ~1,343 |
 | where is the stage? | 13.00% | ~1,343 |
 | maximum attack | 11.00% | ~1,137 |
 | espresso | 10.00% | ~1,033 |

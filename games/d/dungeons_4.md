@@ -26,8 +26,8 @@
 | YOU SHALL NOT PASS! | 50.00% | ~268 |
 | “… like son” | 49.00% | ~262 |
 | Pure Dynamite! | 46.00% | ~246 |
-| The Cathedral of Light | 45.00% | ~241 |
-| Shame! Shame! Shame! | 45.00% | ~241 |
+| The Cathedral of Light | 46.00% | ~246 |
+| Shame! Shame! Shame! | 46.00% | ~246 |
 | Dungeonlord Gorgu | 44.00% | ~235 |
 | Tanos' Crusade Against Thalya | 42.00% | ~225 |
 | Mana Cannon | 41.00% | ~219 |
@@ -41,13 +41,13 @@
 | Forbidden Knowledge | 27.00% | ~144 |
 | Hungry, Hungry Gorgu! | 26.00% | ~139 |
 | The Finitude Drill | 26.00% | ~139 |
+| Stop Tanos! | 24.00% | ~128 |
 | Doom Hill | 24.00% | ~128 |
-| Stop Tanos! | 23.00% | ~123 |
 | Brimstone Shaken, Not Stirred | 22.00% | ~118 |
 | Sabotage! | 21.00% | ~112 |
 | Bonus Evilness | 20.00% | ~107 |
 | Raiders of the Lost Stone | 20.00% | ~107 |
-| The Rune Sockets of Finitude (Part 1) | 19.00% | ~102 |
+| The Rune Sockets of Finitude (Part 1) | 20.00% | ~107 |
 | The Rune Sockets of Finitude (Part 2) | 18.00% | ~96 |
 | The Last Stand - This Time For Real! | 17.00% | ~91 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~86 |

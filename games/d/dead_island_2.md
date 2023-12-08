@@ -5,24 +5,24 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,724 |
-| Pork Chopped | 3.00% | ~1,724 |
-| Dr. Reed, I Presume? | 2.00% | ~14,638 |
-| Git Gutte! | 2.00% | ~14,638 |
-| Anger Management | 2.00% | ~14,638 |
-| Bookworm | 2.00% | ~14,638 |
-| Break A Leg | 2.00% | ~14,638 |
-| But Doctor, I am Butcho | 2.00% | ~14,638 |
-| Coup de Grâce | 2.00% | ~14,638 |
-| Hazardous Materials | 2.00% | ~14,638 |
-| Friends Like These | 2.00% | ~14,638 |
-| Hotel California | 2.00% | ~14,638 |
-| Apex Predator | 2.00% | ~14,638 |
-| Stacking the Deck | 2.00% | ~14,638 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,638 |
-| This is My Weapon | 2.00% | ~14,638 |
-| Welcome To Hell-A | 2.00% | ~14,638 |
-| One of Us | 2.00% | ~1,149 |
+| Whatever It Takes | 3.00% | ~1,725 |
+| Pork Chopped | 3.00% | ~1,725 |
+| Dr. Reed, I Presume? | 2.00% | ~14,639 |
+| Git Gutte! | 2.00% | ~14,639 |
+| Anger Management | 2.00% | ~14,639 |
+| Bookworm | 2.00% | ~14,639 |
+| Break A Leg | 2.00% | ~14,639 |
+| But Doctor, I am Butcho | 2.00% | ~14,639 |
+| Coup de Grâce | 2.00% | ~14,639 |
+| Hazardous Materials | 2.00% | ~14,639 |
+| Friends Like These | 2.00% | ~14,639 |
+| Hotel California | 2.00% | ~14,639 |
+| Apex Predator | 2.00% | ~14,639 |
+| Stacking the Deck | 2.00% | ~14,639 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,639 |
+| This is My Weapon | 2.00% | ~14,639 |
+| Welcome To Hell-A | 2.00% | ~14,639 |
+| One of Us | 2.00% | ~1,150 |
 | Making Your Mark | 1.00% | ~7,319 |
 | Perks of the Job | 1.00% | ~7,319 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,319 |
@@ -36,15 +36,15 @@ Rating: 4.54 (Ranked 534)
 | I Am the Resurrection | 1.00% | ~7,319 |
 | Max Headroom | 1.00% | ~7,319 |
 | Our True Nature | 1.00% | ~7,319 |
-| Down with the Sickness | 0.90% | ~6,587 |
-| Not Even My Final Form | 0.80% | ~5,855 |
-| Jumbo Keyring | 0.80% | ~5,855 |
-| Go, Bobcats! | 0.80% | ~5,855 |
-| Rising Star | 0.80% | ~5,855 |
-| On Safari | 0.60% | ~4,391 |
-| Smorgasbord | 0.60% | ~4,391 |
-| Internet Famous | 0.60% | ~4,391 |
-| Variety is the Spice of Death | 0.60% | ~4,391 |
+| Down with the Sickness | 0.90% | ~6,588 |
+| Not Even My Final Form | 0.80% | ~5,856 |
+| Jumbo Keyring | 0.80% | ~5,856 |
+| Go, Bobcats! | 0.80% | ~5,856 |
+| Rising Star | 0.80% | ~5,856 |
+| On Safari | 0.60% | ~4,392 |
+| Smorgasbord | 0.60% | ~4,392 |
+| Internet Famous | 0.60% | ~4,392 |
+| Variety is the Spice of Death | 0.60% | ~4,392 |
 | Make it So | 0.50% | ~3,660 |
 | LA Influential | 0.40% | ~2,928 |
 | Sole Survivor | 0.40% | ~2,928 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 534)
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,916 (Ranked 21)  
+Progressed: 731,945 (Ranked 21)  
 Completed: 2,466 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2,466 (0.34%) (Ranked 234)
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
-| 2023-12-08 | 731,916 | 2,466 |
+| 2023-12-08 | 731,945 | 2,466 |
 ## Awards
 Max (Great Boss Battles): 8,017  (Ranked 49)  
 Sum: 12,319 (Ranked 82)  

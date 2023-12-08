@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1616,
+  "EOS_Progressed": 1618,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4829,6 +4829,11 @@
       "Time": "2023-12-08T20:10:24.478236+00:00",
       "NumProgressed": 1616,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T22:10:41.0547673+00:00",
+      "NumProgressed": 1618,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4897,7 +4902,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_17",
@@ -4913,7 +4918,7 @@
       "Name": "The power of the Force",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "achievement_19",
@@ -4921,7 +4926,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_2",
@@ -4937,7 +4942,7 @@
       "Name": "Collector",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "achievement_21",
@@ -4993,7 +4998,7 @@
       "Name": "Your journey has only started",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_28",
@@ -5057,7 +5062,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_35",
@@ -5065,7 +5070,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1456
     },
     {
       "ID": "achievement_36",
@@ -5081,7 +5086,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "achievement_38",
@@ -5089,7 +5094,7 @@
       "Name": "Survivor",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_39",
@@ -5113,7 +5118,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "achievement_41",
@@ -5193,7 +5198,7 @@
       "Name": "Shoot first",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "achievement_50",
@@ -5344,13 +5349,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1616,
+      "Progressed": 1618,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1616,
+      "Progressed": 1618,
       "Completed": 1
     }
   ],
@@ -5358,8 +5363,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-08T21:09:54.6401764+00:00",
+  "LastChanged_Achievements": "2023-12-08T22:10:41.054767+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-08T20:59:06.701037+00:00",
-  "LastUpdate_Achievements": "2023-12-08T21:09:54.6402396+00:00"
+  "LastUpdate_Ratings": "2023-12-08T21:59:26.9594222+00:00",
+  "LastUpdate_Achievements": "2023-12-08T22:10:41.0548547+00:00"
 }

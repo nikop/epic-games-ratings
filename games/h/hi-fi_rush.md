@@ -18,8 +18,8 @@ Rating: 4.87 (Ranked 25)
 | Uh, they were broken when I got here | 13.00% | ~584 |
 | I play my own way! | 12.00% | ~539 |
 | Z-shielding's got nothing on us! | 12.00% | ~539 |
+| Kissing the sky! | 12.00% | ~539 |
 | Whoa! There's ANOTHER health bar!? | 11.00% | ~494 |
-| Kissing the sky! | 11.00% | ~494 |
 | The Negotiator | 10.00% | ~449 |
 | Out in a puff of smoke | 10.00% | ~449 |
 | I look cool. But I can look COOLER. | 10.00% | ~449 |

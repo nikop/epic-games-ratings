@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -9472,10 +9472,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15675,
       "NumberOfAwardsMax": 7526
+    },
+    {
+      "Time": "2023-12-08T21:57:55.4241968+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15678,
+      "NumberOfAwardsMax": 7526
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15675,
+  "NumberOfAwards": 15678,
   "NumberOfAwardsMax": 7526,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9519,7 +9525,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 880
+      "Count": 883
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9552,9 +9558,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67381,
+  "EOS_Progressed": 67386,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34107,6 +34113,11 @@
       "Time": "2023-12-08T21:09:52.5781544+00:00",
       "NumProgressed": 67381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T22:10:38.7080644+00:00",
+      "NumProgressed": 67386,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34126,7 +34137,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10781
+      "UsersEstimate": 10782
     },
     {
       "ID": "Bannerlord",
@@ -34134,7 +34145,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 16171
+      "UsersEstimate": 16173
     },
     {
       "ID": "Best served cold",
@@ -34158,7 +34169,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 6064
+      "UsersEstimate": 6065
     },
     {
       "ID": "Catch",
@@ -34198,7 +34209,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6738
+      "UsersEstimate": 6739
     },
     {
       "ID": "Dynasty",
@@ -34206,7 +34217,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6738
+      "UsersEstimate": 6739
     },
     {
       "ID": "Entrepreneur",
@@ -34238,7 +34249,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "God of the Arena",
@@ -34278,7 +34289,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 16171
+      "UsersEstimate": 16173
     },
     {
       "ID": "I can do it",
@@ -34286,7 +34297,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10781
+      "UsersEstimate": 10782
     },
     {
       "ID": "I spit on your grave",
@@ -34294,7 +34305,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6738
+      "UsersEstimate": 6739
     },
     {
       "ID": "Jack of All Trades",
@@ -34342,7 +34353,7 @@
       "Name": "Landlord",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 22910
+      "UsersEstimate": 22911
     },
     {
       "ID": "Lawbringer",
@@ -34350,7 +34361,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26952
+      "UsersEstimate": 26954
     },
     {
       "ID": "Lawmaker",
@@ -34358,7 +34369,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16171
+      "UsersEstimate": 16173
     },
     {
       "ID": "Long live the Empire",
@@ -34366,7 +34377,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "Mastery",
@@ -34374,7 +34385,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 5390
+      "UsersEstimate": 5391
     },
     {
       "ID": "Minor Clan",
@@ -34406,7 +34417,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "Ride it like you stole it",
@@ -34470,7 +34481,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12802
+      "UsersEstimate": 12803
     },
     {
       "ID": "This Is Our Land",
@@ -34478,7 +34489,7 @@
       "Name": "This Is Our Land",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 9433
+      "UsersEstimate": 9434
     },
     {
       "ID": "This is Sparta",
@@ -34494,7 +34505,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16171
+      "UsersEstimate": 16173
     },
     {
       "ID": "Undercover",
@@ -34518,22 +34529,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6738
+      "UsersEstimate": 6739
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67381,
+      "Progressed": 67386,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-12-08T20:57:42.7622722+00:00",
-  "LastChanged_Achievements": "2023-12-08T21:09:52.5781539+00:00",
+  "LastChanged": "2023-12-08T21:57:55.4241966+00:00",
+  "LastChanged_Achievements": "2023-12-08T22:10:38.7080642+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-08T20:57:42.7622729+00:00",
-  "LastUpdate_Achievements": "2023-12-08T21:09:52.5783294+00:00"
+  "LastUpdate_Ratings": "2023-12-08T21:57:55.4241972+00:00",
+  "LastUpdate_Achievements": "2023-12-08T22:10:38.7082387+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.40 (Ranked 739)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~106,670 |
-| 74 miles East of Otaheité | 56.00% | ~74,669 |
-| Interesting... | 42.00% | ~56,002 |
-| The Everhart Expedition | 40.00% | ~53,335 |
-| Halfway there | 30.00% | ~40,001 |
-| The Vanishing of the Lady Shannon | 30.00% | ~40,001 |
-| Seaside Serenade | 30.00% | ~40,001 |
-| A brigantine, a brig and a barque | 28.00% | ~37,335 |
-| 506 East Hampden Avenue | 28.00% | ~37,335 |
-| Weekend at Walakea's | 27.00% | ~36,001 |
-| Quite a Show | 27.00% | ~36,001 |
-| Dark Water Ride | 25.00% | ~33,334 |
-| Sunken | 25.00% | ~33,334 |
-| Deep Cut | 24.00% | ~32,001 |
-| FHALGOF'N' | 23.00% | ~30,668 |
-| Marsh Cannery | 21.00% | ~28,001 |
-| Greetings from Y'ha-nthlei! | 18.00% | ~24,001 |
-| The only thing I have now | 17.00% | ~22,667 |
-| Naacalvision | 16.00% | ~21,334 |
+| A Family Heirloom | 80.00% | ~106,674 |
+| 74 miles East of Otaheité | 56.00% | ~74,672 |
+| Interesting... | 42.00% | ~56,004 |
+| The Everhart Expedition | 40.00% | ~53,337 |
+| Halfway there | 30.00% | ~40,003 |
+| The Vanishing of the Lady Shannon | 30.00% | ~40,003 |
+| Seaside Serenade | 30.00% | ~40,003 |
+| A brigantine, a brig and a barque | 28.00% | ~37,336 |
+| 506 East Hampden Avenue | 28.00% | ~37,336 |
+| Weekend at Walakea's | 27.00% | ~36,003 |
+| Quite a Show | 27.00% | ~36,003 |
+| Dark Water Ride | 25.00% | ~33,336 |
+| Sunken | 25.00% | ~33,336 |
+| Deep Cut | 24.00% | ~32,002 |
+| FHALGOF'N' | 23.00% | ~30,669 |
+| Marsh Cannery | 21.00% | ~28,002 |
+| Greetings from Y'ha-nthlei! | 18.00% | ~24,002 |
+| The only thing I have now | 17.00% | ~22,668 |
+| Naacalvision | 16.00% | ~21,335 |
 | Not Another Boring Slideshow! | 15.00% | ~20,001 |
 | The Norahnomicon | 10.00% | ~13,334 |
-| I'll make a note of that... | 9.00% | ~12,000 |
+| I'll make a note of that... | 9.00% | ~12,001 |
 | Written in Stone | 7.00% | ~9,334 |
 | Play it again, Norah | 7.00% | ~9,334 |
 | Underwater Royalty | 7.00% | ~9,334 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 739)
 | Gently down the stream... | 1.00% | ~1,333 |
 | Meta-reference | 1.00% | ~1,333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,338 (Ranked 82)  
+Progressed: 133,343 (Ranked 82)  
 Completed: 1,182 (0.89%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 1,182 (0.89%) (Ranked 176)
 | 2023-12-05 | 132,975 | 1,174 |
 | 2023-12-06 | 133,100 | 1,176 |
 | 2023-12-07 | 133,215 | 1,178 |
-| 2023-12-08 | 133,338 | 1,182 |
+| 2023-12-08 | 133,343 | 1,182 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 913,
+  "EOS_Progressed": 914,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.7,
+  "EOS_Completed_Percentage": 5.69,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3680,6 +3680,11 @@
       "Time": "2023-12-08T19:05:41.1642904+00:00",
       "NumProgressed": 913,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-08T22:06:53.3408231+00:00",
+      "NumProgressed": 914,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 25,
@@ -3699,7 +3704,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "META_ALL_LINK",
@@ -3763,7 +3768,7 @@
       "Name": "A great audience",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "META_RESULT_2-4",
@@ -3771,7 +3776,7 @@
       "Name": "For its own good",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "META_RESULT_3-4",
@@ -3827,7 +3832,7 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3851,7 +3856,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "PROGRESS_N2",
@@ -3867,7 +3872,7 @@
       "Name": "A new dawn",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "PROGRESS_N4",
@@ -3890,14 +3895,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 913,
+      "Progressed": 914,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-08T21:06:21.8891639+00:00",
+  "LastChanged_Achievements": "2023-12-08T22:06:53.3408227+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:00:07.8044874+00:00",
-  "LastUpdate_Achievements": "2023-12-08T21:06:21.8892005+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:00:33.3393886+00:00",
+  "LastUpdate_Achievements": "2023-12-08T22:06:53.3408664+00:00"
 }

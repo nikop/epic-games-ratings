@@ -6,18 +6,18 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,694 |
-| Un-Lonely Island | 46.00% | ~2,879 |
+| Just One...More...Term... | 75.00% | ~4,695 |
+| Un-Lonely Island | 46.00% | ~2,880 |
 | The Beginning of a Servantship | 45.00% | ~2,817 |
 | Trade Is My Trait | 37.00% | ~2,316 |
 | Number 18 | 24.00% | ~1,502 |
 | We Don't Have Time For That | 19.00% | ~1,189 |
 | The Governator | 17.00% | ~1,064 |
-| The Legend of Langostino | 16.00% | ~1,001 |
+| The Legend of Langostino | 16.00% | ~1,002 |
 | Caribbean Comrade | 15.00% | ~939 |
 | The Dreamer of Dreams | 15.00% | ~939 |
-| Go Sovereigns! | 11.00% | ~688 |
-| For Science! | 11.00% | ~688 |
+| Go Sovereigns! | 11.00% | ~689 |
+| For Science! | 11.00% | ~689 |
 | Happy Ending? | 10.00% | ~626 |
 | Of Seals And Men | 9.00% | ~563 |
 | Shackadelic | 9.00% | ~563 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~50 |
 | My Ways | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,259 (Ranked 185)  
+Progressed: 6,260 (Ranked 185)  
 Completed: 2 (0.03%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,18 +279,18 @@ Completed: 2 (0.03%) (Ranked 333)
 | 2023-12-05 | 6,228 | 2 |
 | 2023-12-06 | 6,238 | 2 |
 | 2023-12-07 | 6,251 | 2 |
-| 2023-12-08 | 6,259 | 2 |
+| 2023-12-08 | 6,260 | 2 |
 ## Awards
-Max (Highly Recommended): 103  (Ranked 360)  
-Sum: 737 (Ranked 293)  
-Diff (max vs sum): 67  
+Max (Highly Recommended): 104  (Ranked 359)  
+Sum: 739 (Ranked 293)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
-| This game is Highly Recommended | 103 |
+| This game is Highly Recommended | 104 |
 | This game has Quickly Understood Controls | 102 |
 | This game is Relaxing | 100 |
-| This game has Amazing Storytelling | 93 |
+| This game has Amazing Storytelling | 94 |
 | This game is Extremely Fun | 91 |
 | This game has Amazing Characters | 90 |
 | This game is Educational | 90 |
@@ -470,3 +470,4 @@ Diff (max vs sum): 67
 | 2023-12-01 | 4.65 | - | 103 | 734 |
 | 2023-12-03 | 4.66 | - | 103 | 735 |
 | 2023-12-04 | 4.66 | - | 103 | 737 |
+| 2023-12-08 | 4.66 | - | 104 | 739 |

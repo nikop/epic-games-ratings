@@ -10,16 +10,16 @@ Number of Ratings: 90  (23.09.2022)
 | Rock of the Bay | 28.00% | ~7 |
 | Furon Fashion | 20.00% | ~5 |
 | Ducks in a Row, Fish in a Barrel | 20.00% | ~5 |
-| Shop Til They Drop | 16.00% | ~4 |
+| Shop Til They Drop | 20.00% | ~5 |
 | I Look Up As I Walk to Takoshima | 12.00% | ~3 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~3 |
 | Cult Following | 8.00% | ~2 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~2 |
 | Bodied Sattva | 8.00% | ~2 |
+| Kaijuiced | 8.00% | ~2 |
 | Pimp My Raid | 8.00% | ~2 |
 | Perfect Probulator | 4.00% | ~1 |
 | Lie Back and Think of Albion | 4.00% | ~1 |
 | Fly Me to the Moon Base | 4.00% | ~1 |
-| Kaijuiced | 4.00% | ~1 |
 | Freshly Squeezed | 4.00% | ~1 |
 | Die Nasty | 4.00% | ~1 |
 | Scuttled | 4.00% | ~1 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -211,7 +211,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 898,
+  "EOS_Progressed": 899,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -2196,6 +2196,11 @@
       "Time": "2023-12-08T16:08:16.1827503+00:00",
       "NumProgressed": 898,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T22:03:44.8583253+00:00",
+      "NumProgressed": 899,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2358,9 +2363,9 @@
       "ID": "GrasslandsRing",
       "SetID": "1n308hc",
       "Name": "Grasslands Ring",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 63
     },
     {
       "ID": "HighPlain",
@@ -2542,9 +2547,9 @@
       "ID": "SouthernCoast",
       "SetID": "1n308hc",
       "Name": "Southern Coast",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 54
     },
     {
       "ID": "TeamSpirit",
@@ -2679,7 +2684,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 898,
+      "Progressed": 899,
       "Completed": 1
     }
   ],
@@ -2687,8 +2692,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
-  "LastChanged_Achievements": "2023-12-08T21:03:26.6279575+00:00",
+  "LastChanged_Achievements": "2023-12-08T22:03:44.8583249+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:01:18.733705+00:00",
-  "LastUpdate_Achievements": "2023-12-08T21:03:26.6280982+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:02:30.2113366+00:00",
+  "LastUpdate_Achievements": "2023-12-08T22:03:44.8584327+00:00"
 }

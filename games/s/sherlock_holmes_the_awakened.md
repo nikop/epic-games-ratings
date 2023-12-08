@@ -5,27 +5,27 @@ Rating: 4.69 (Ranked 231)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 64.00% | ~600 |
-| To Hell In A Handcart | 63.00% | ~591 |
-| High Profile | 56.00% | ~525 |
+| Read Between The Lines | 64.00% | ~601 |
+| To Hell In A Handcart | 64.00% | ~601 |
+| High Profile | 56.00% | ~526 |
 | Whispers In The Dark | 54.00% | ~507 |
-| Fond Memories | 51.00% | ~478 |
-| A Method To His Madness | 50.00% | ~469 |
+| Fond Memories | 52.00% | ~488 |
+| A Method To His Madness | 50.00% | ~470 |
 | History Check | 49.00% | ~460 |
 | The New World | 47.00% | ~441 |
-| Gaze Into The Abyss | 45.00% | ~422 |
-| Open Sesame | 45.00% | ~422 |
-| Sticky Fingers | 45.00% | ~422 |
-| Knives Out | 45.00% | ~422 |
-| Land, Ho! | 45.00% | ~422 |
+| Gaze Into The Abyss | 45.00% | ~423 |
+| Open Sesame | 45.00% | ~423 |
+| Sticky Fingers | 45.00% | ~423 |
+| Knives Out | 45.00% | ~423 |
+| Land, Ho! | 45.00% | ~423 |
 | Lock, Stock, And Barrel | 44.00% | ~413 |
 | Back In The Saddle | 44.00% | ~413 |
 | No Man Is An Island | 44.00% | ~413 |
-| At Wits' End | 43.00% | ~403 |
+| At Wits' End | 43.00% | ~404 |
 | Fhtagn! | 42.00% | ~394 |
 | Up In Flames | 41.00% | ~385 |
-| Bookworm | 40.00% | ~375 |
-| Going Once... | 38.00% | ~356 |
+| Bookworm | 40.00% | ~376 |
+| Going Once... | 38.00% | ~357 |
 | Let Me Be Frank | 36.00% | ~338 |
 | No Stone Unturned | 34.00% | ~319 |
 | Brain Food | 33.00% | ~310 |
@@ -34,8 +34,8 @@ Rating: 4.69 (Ranked 231)
 | Big Breakthrough | 12.00% | ~113 |
 | Reawakened | 4.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 938 (Ranked 272)  
-Completed: 28 (2.99%) (Ranked 107)  
+Progressed: 939 (Ranked 272)  
+Completed: 28 (2.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -222,7 +222,7 @@ Completed: 28 (2.99%) (Ranked 107)
 | 2023-12-05 | 833 | 28 |
 | 2023-12-06 | 858 | 28 |
 | 2023-12-07 | 895 | 28 |
-| 2023-12-08 | 938 | 28 |
+| 2023-12-08 | 939 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

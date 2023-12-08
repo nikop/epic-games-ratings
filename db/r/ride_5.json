@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2384,
+  "EOS_Progressed": 2385,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5827,6 +5827,11 @@
       "Time": "2023-12-08T18:03:57.3004715+00:00",
       "NumProgressed": 2384,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T22:04:52.7854943+00:00",
+      "NumProgressed": 2385,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5839,7 +5844,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6015,7 +6020,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -6047,7 +6052,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6189,9 +6194,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 692
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -6230,14 +6235,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2384,
+      "Progressed": 2385,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-08T21:04:31.0123632+00:00",
+  "LastChanged_Achievements": "2023-12-08T22:04:52.785494+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:07.5482593+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:01:01.1900295+00:00",
-  "LastUpdate_Achievements": "2023-12-08T21:04:31.0124218+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:01:31.5617421+00:00",
+  "LastUpdate_Achievements": "2023-12-08T22:04:52.7856041+00:00"
 }

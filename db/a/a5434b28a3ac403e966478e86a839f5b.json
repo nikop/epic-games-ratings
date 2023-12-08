@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 594,
+  "EOS_Progressed": 595,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.35,
+  "EOS_NewPlayers": 19,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.34,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -1970,6 +1970,11 @@
       "Time": "2023-12-08T19:03:32.1009518+00:00",
       "NumProgressed": 594,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-08T22:04:10.9038144+00:00",
+      "NumProgressed": 595,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2006,7 +2011,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_eou4",
@@ -2014,7 +2019,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_eou5",
@@ -2038,7 +2043,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_eou8",
@@ -2078,21 +2083,21 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 9,
       "XP": 120,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 594,
+      "Progressed": 595,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-08T21:03:51.4454067+00:00",
+  "LastChanged_Achievements": "2023-12-08T22:04:10.9038138+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:10.4045302+00:00",
-  "LastUpdate_Ratings": "2023-12-08T20:57:10.7045522+00:00",
-  "LastUpdate_Achievements": "2023-12-08T21:03:51.4454265+00:00"
+  "LastUpdate_Ratings": "2023-12-08T21:57:20.8012189+00:00",
+  "LastUpdate_Achievements": "2023-12-08T22:04:10.9038383+00:00"
 }

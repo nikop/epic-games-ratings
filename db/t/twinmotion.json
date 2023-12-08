@@ -3,8 +3,8 @@
   "Name": "Twinmotion",
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 459,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:31.0007665+00:00",
-  "LastUpdate_Ratings": "2023-12-08T20:58:47.9422809+00:00",
-  "LastUpdate_Achievements": "2023-12-08T21:07:16.5100205+00:00"
+  "LastUpdate_Ratings": "2023-12-08T21:59:06.2879928+00:00",
+  "LastUpdate_Achievements": "2023-12-08T22:07:51.7823901+00:00"
 }

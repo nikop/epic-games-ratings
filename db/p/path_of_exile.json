@@ -2,13 +2,13 @@
   "ID": "7ad5508d382e46228056f1d1a0189ae2",
   "Name": "Path of Exile",
   "ProductSlug": "path-of-exile",
-  "Ranking_Rating": 386,
+  "Ranking_Rating": 387,
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 459,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-09-16T15:00:00+00:00",
     "PcReleaseDate": "2013-10-23T15:00:00+00:00",
@@ -6095,10 +6095,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 9549,
       "NumberOfAwardsMax": 2708
+    },
+    {
+      "Time": "2023-12-08T22:02:36.474345+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9564,
+      "NumberOfAwardsMax": 2708
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9549,
+  "NumberOfAwards": 9564,
   "NumberOfAwardsMax": 2708,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6112,7 +6118,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2307
+      "Count": 2317
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6142,7 +6148,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 612
+      "Count": 613
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6160,13 +6166,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 665
+      "Count": 666
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 561
+      "Count": 564
     },
     {
       "Text": "This game has a Creative Community",
@@ -6192,8 +6198,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2023-12-08T20:01:44.4487845+00:00",
+  "LastChanged": "2023-12-08T22:02:36.4743448+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:13.5436878+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:01:24.1821107+00:00",
-  "LastUpdate_Achievements": "2023-12-08T21:05:57.0261518+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:02:36.4743453+00:00",
+  "LastUpdate_Achievements": "2023-12-08T22:06:25.570576+00:00"
 }

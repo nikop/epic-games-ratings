@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -572,17 +572,17 @@
       "ID": "SOS_POISON",
       "SetID": "6ci4lm2",
       "Name": "Last cup",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SOS_PRISON_BREAK",
       "SetID": "6ci4lm2",
       "Name": "At the bottom",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SOS_PYROMAN",
@@ -692,9 +692,9 @@
       "ID": "SOS_WHERE_IS_PRISONER",
       "SetID": "6ci4lm2",
       "Name": "Where is the prisoner?",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -707,8 +707,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-08T21:07:23.7666451+00:00",
+  "LastChanged_Achievements": "2023-12-08T22:08:00.0229359+00:00",
   "LastUpdate_AppInfo": "2023-12-04T15:57:13.4700868+00:00",
-  "LastUpdate_Ratings": "2023-12-08T20:57:27.6876553+00:00",
-  "LastUpdate_Achievements": "2023-12-08T21:07:23.7666871+00:00"
+  "LastUpdate_Ratings": "2023-12-08T21:57:39.1508738+00:00",
+  "LastUpdate_Achievements": "2023-12-08T22:08:00.0229877+00:00"
 }

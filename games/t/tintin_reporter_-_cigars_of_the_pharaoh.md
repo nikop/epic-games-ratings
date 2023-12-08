@@ -29,10 +29,10 @@
 | Threat | 4.00% | ~3 |
 | Eyes Shut | 2.00% | ~2 |
 | A Diagnosis | 2.00% | ~2 |
+| A Yummy Detour | 2.00% | ~2 |
 | Tintin, Reporter | 1.00% | ~1 |
 | Jungle Runner | 1.00% | ~1 |
 | Mountain Runner | 1.00% | ~1 |
-| A Yummy Detour | 1.00% | ~1 |
 | The Pharaoh's New Clothes | 1.00% | ~1 |
 | Subtlety | 1.00% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |

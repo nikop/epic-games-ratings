@@ -5,51 +5,51 @@ Rating: 4.50 (Ranked 597)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,347 |
-| For Saw Gerrera | 98.00% | ~9,252 |
-| Grab Some Seat | 91.00% | ~8,591 |
-| Can You Pet the Bogling? | 87.00% | ~8,214 |
-| The Past Made Present | 83.00% | ~7,836 |
-| Survivors, We Adapt | 80.00% | ~7,553 |
-| They Never Saw It Coming | 78.00% | ~7,364 |
-| Among the Masters | 78.00% | ~7,364 |
-| Who Gives a Puck | 74.00% | ~6,986 |
-| For the Path | 67.00% | ~6,325 |
-| Now, This Isn't Podracing | 65.00% | ~6,137 |
-| Mirror Match | 64.00% | ~6,042 |
-| Skywalker | 63.00% | ~5,948 |
-| Out of Bedlam | 62.00% | ~5,853 |
-| Cleaning Up | 55.00% | ~5,193 |
-| Tanalorr Bound | 54.00% | ~5,098 |
-| Kitted Out | 53.00% | ~5,004 |
-| Tragedy | 52.00% | ~4,909 |
-| At the Precipice | 50.00% | ~4,720 |
-| Hey, Luke At Us | 50.00% | ~4,720 |
-| Into the Abyss | 49.00% | ~4,626 |
-| A Place You Could Call Home | 47.00% | ~4,437 |
-| Riposte | 47.00% | ~4,437 |
-| Greezy Money | 45.00% | ~4,248 |
-| Catch! | 41.00% | ~3,871 |
-| They're Probably Fine | 40.00% | ~3,776 |
-| Han Slowlo | 39.00% | ~3,682 |
-| There Is No Try | 38.00% | ~3,588 |
-| The Jedi Path | 33.00% | ~3,116 |
-| This Is Canon | 29.00% | ~2,738 |
-| It's a Trap | 27.00% | ~2,549 |
-| You've Got A Friend | 23.00% | ~2,171 |
-| King of the World | 17.00% | ~1,605 |
-| Max Capacity | 15.00% | ~1,416 |
-| A Presence I've Not Felt Since... | 15.00% | ~1,416 |
-| Reconnaissance | 15.00% | ~1,416 |
-| Slam Dunk | 12.00% | ~1,133 |
+| Rooftop Duel | 99.00% | ~9,353 |
+| For Saw Gerrera | 98.00% | ~9,258 |
+| Grab Some Seat | 91.00% | ~8,597 |
+| Can You Pet the Bogling? | 87.00% | ~8,219 |
+| The Past Made Present | 83.00% | ~7,841 |
+| Survivors, We Adapt | 80.00% | ~7,558 |
+| They Never Saw It Coming | 78.00% | ~7,369 |
+| Among the Masters | 78.00% | ~7,369 |
+| Who Gives a Puck | 74.00% | ~6,991 |
+| For the Path | 67.00% | ~6,329 |
+| Now, This Isn't Podracing | 65.00% | ~6,141 |
+| Mirror Match | 64.00% | ~6,046 |
+| Skywalker | 63.00% | ~5,952 |
+| Out of Bedlam | 62.00% | ~5,857 |
+| Cleaning Up | 55.00% | ~5,196 |
+| Tanalorr Bound | 54.00% | ~5,101 |
+| Kitted Out | 53.00% | ~5,007 |
+| Tragedy | 52.00% | ~4,912 |
+| At the Precipice | 51.00% | ~4,818 |
+| Hey, Luke At Us | 50.00% | ~4,724 |
+| Into the Abyss | 49.00% | ~4,629 |
+| A Place You Could Call Home | 47.00% | ~4,440 |
+| Riposte | 47.00% | ~4,440 |
+| Greezy Money | 45.00% | ~4,251 |
+| Catch! | 41.00% | ~3,873 |
+| They're Probably Fine | 40.00% | ~3,779 |
+| Han Slowlo | 39.00% | ~3,684 |
+| There Is No Try | 38.00% | ~3,590 |
+| The Jedi Path | 33.00% | ~3,118 |
+| This Is Canon | 29.00% | ~2,740 |
+| It's a Trap | 27.00% | ~2,551 |
+| You've Got A Friend | 23.00% | ~2,173 |
+| King of the World | 17.00% | ~1,606 |
+| Max Capacity | 15.00% | ~1,417 |
+| A Presence I've Not Felt Since... | 15.00% | ~1,417 |
+| Reconnaissance | 15.00% | ~1,417 |
+| Slam Dunk | 12.00% | ~1,134 |
 | Star Tours | 11.00% | ~1,039 |
-| Caij Match | 10.00% | ~944 |
-| Gambler | 10.00% | ~944 |
+| Caij Match | 10.00% | ~945 |
+| Gambler | 10.00% | ~945 |
 | Growth Spurt | 9.00% | ~850 |
 | I'm a Living Legend | 7.00% | ~661 |
 | Perk of the Job | 7.00% | ~661 |
 | Skoova Diving | 7.00% | ~661 |
-| Road House | 6.00% | ~566 |
+| Road House | 6.00% | ~567 |
 | Get Down From There | 5.00% | ~472 |
 | Intergalactic Geographic | 5.00% | ~472 |
 | So Uncivilized | 3.00% | ~283 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 597)
 | Blood, Sweat, and Tears | 3.00% | ~283 |
 | Pinpoint | 2.00% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,441 (Ranked 169)  
+Progressed: 9,447 (Ranked 169)  
 Completed: 56 (0.59%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 56 (0.59%) (Ranked 198)
 | 2023-12-05 | 9,305 | 56 |
 | 2023-12-06 | 9,349 | 56 |
 | 2023-12-07 | 9,386 | 56 |
-| 2023-12-08 | 9,441 | 56 |
+| 2023-12-08 | 9,447 | 56 |
 ## Awards
 Max (Great Boss Battles): 3,426  (Ranked 92)  
 Sum: 5,327 (Ranked 136)  

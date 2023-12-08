@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 384,
+  "EOS_Progressed": 386,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1658,6 +1658,11 @@
       "Time": "2023-12-08T19:04:57.9554381+00:00",
       "NumProgressed": 384,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T22:05:59.2263601+00:00",
+      "NumProgressed": 386,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1774,7 +1779,7 @@
       "Name": "Critical Hit",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Deepstrike",
@@ -1998,7 +2003,7 @@
       "Name": "Adept",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "WielderLevel2",
@@ -2101,15 +2106,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 384,
+      "Progressed": 386,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-08T21:05:32.3446252+00:00",
+  "LastChanged_Achievements": "2023-12-08T22:05:59.2263596+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-08T21:02:32.1160892+00:00",
-  "LastUpdate_Achievements": "2023-12-08T21:05:32.3446695+00:00"
+  "LastUpdate_Ratings": "2023-12-08T22:02:44.6565974+00:00",
+  "LastUpdate_Achievements": "2023-12-08T22:05:59.2264161+00:00"
 }
