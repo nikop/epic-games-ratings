@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.17% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.16% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -40,7 +40,7 @@
 | 38 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 39 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 10.71% |
 | 40 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.34% |
-| 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.29% |
+| 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.25% |
 | 42 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 10.00% |
 | 42 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
@@ -57,8 +57,8 @@
 | 55 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
 | 56 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.58% |
 | 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.53% |
-| 58 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
-| 59 | [Scorn](games/s/scorn.md) | 7.12% |
+| 58 | [Scorn](games/s/scorn.md) | 7.15% |
+| 59 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
 | 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.10% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 7.04% |
 | 62 | [Time Loader](games/t/time_loader.md) | 7.03% |
@@ -69,7 +69,7 @@
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.74% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.73% |
 | 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.66% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
@@ -106,7 +106,7 @@
 | 103 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 105 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.06% |
 | 106 | [HordeCore](games/h/hordecore.md) | 3.04% |
-| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.04% |
+| 107 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.03% |
 | 108 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
 | 109 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.94% |
 | 109 | [Without Escape](games/w/without_escape.md) | 2.94% |
@@ -133,7 +133,7 @@
 | 131 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.88% |
 | 131 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.88% |
 | 133 | [Somerville](games/s/somerville.md) | 1.86% |
-| 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.81% |
+| 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.82% |
 | 135 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.80% |
 | 135 | [Sifu](games/s/sifu.md) | 1.80% |
 | 137 | [Frogun](games/f/frogun.md) | 1.77% |
@@ -228,8 +228,8 @@
 | 223 | [Wildermyth](games/w/wildermyth.md) | 0.40% |
 | 227 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
 | 227 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
-| 229 | [Train Valley](games/t/train_valley.md) | 0.38% |
-| 230 | [The Surge](games/t/the_surge.md) | 0.37% |
+| 229 | [The Surge](games/t/the_surge.md) | 0.37% |
+| 229 | [Train Valley](games/t/train_valley.md) | 0.37% |
 | 231 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.35% |
 | 231 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 231 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
