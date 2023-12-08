@@ -5,20 +5,20 @@ Rating: 4.65 (Ranked 316)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 76.00% | ~832 |
-| I Broke It | 73.00% | ~799 |
+| Feels Familiar | 76.00% | ~833 |
+| I Broke It | 73.00% | ~800 |
 | Better On Ice | 68.00% | ~745 |
 | Cutie Poro | 67.00% | ~734 |
 | Notai Notes | 67.00% | ~734 |
 | Blue Dreams | 66.00% | ~723 |
 | He's Famous! | 66.00% | ~723 |
 | Krugmazing | 64.00% | ~701 |
-| Moneyball | 61.00% | ~668 |
-| The Fire Below the Mountain | 61.00% | ~668 |
-| No Bites | 55.00% | ~602 |
-| Iceborn | 55.00% | ~602 |
-| Tear of Freedom | 53.00% | ~580 |
-| Boom Things | 53.00% | ~580 |
+| Moneyball | 61.00% | ~669 |
+| The Fire Below the Mountain | 61.00% | ~669 |
+| No Bites | 55.00% | ~603 |
+| Iceborn | 55.00% | ~603 |
+| Tear of Freedom | 53.00% | ~581 |
+| Boom Things | 53.00% | ~581 |
 | My Darkest Day | 49.00% | ~537 |
 | Rhythm Of Willump | 47.00% | ~515 |
 | The Relentless Storm | 47.00% | ~515 |
@@ -33,11 +33,11 @@ Rating: 4.65 (Ranked 316)
 | Boosted! | 40.00% | ~438 |
 | Deadliest and Biggest Snowball Ever! | 40.00% | ~438 |
 | Freeze The Ice Witch | 39.00% | ~427 |
-| Bullseye | 37.00% | ~405 |
-| It Is Not Over | 36.00% | ~394 |
-| On The Rocks | 35.00% | ~383 |
-| Snowy Poro | 32.00% | ~350 |
-| Never Gets Old | 32.00% | ~350 |
+| Bullseye | 37.00% | ~406 |
+| It Is Not Over | 36.00% | ~395 |
+| On The Rocks | 35.00% | ~384 |
+| Snowy Poro | 32.00% | ~351 |
+| Never Gets Old | 32.00% | ~351 |
 | Vertical Power | 27.00% | ~296 |
 | One From The Heart | 15.00% | ~164 |
 | Yummy | 10.00% | ~110 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 316)
 | We Are Speed | 2.00% | ~22 |
 | Sneaky Notai | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,095 (Ranked 260)  
+Progressed: 1,096 (Ranked 260)  
 Completed: 8 (0.73%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 8 (0.73%) (Ranked 187)
 | 2023-12-05 | 1,081 | 8 |
 | 2023-12-06 | 1,085 | 8 |
 | 2023-12-07 | 1,094 | 8 |
-| 2023-12-08 | 1,095 | 8 |
+| 2023-12-08 | 1,096 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

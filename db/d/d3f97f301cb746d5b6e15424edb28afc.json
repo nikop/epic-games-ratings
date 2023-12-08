@@ -2999,9 +2999,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 994
+      "UsersEstimate": 1005
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -3159,9 +3159,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1075
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -3447,9 +3447,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 947
+      "UsersEstimate": 959
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -3632,8 +3632,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-04T17:00:39.9868842+00:00",
-  "LastChanged_Achievements": "2023-12-08T04:05:15.7615167+00:00",
+  "LastChanged_Achievements": "2023-12-08T05:04:17.2343638+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-08T03:57:32.2159374+00:00",
-  "LastUpdate_Achievements": "2023-12-08T04:05:15.7615979+00:00"
+  "LastUpdate_Ratings": "2023-12-08T04:57:25.6909885+00:00",
+  "LastUpdate_Achievements": "2023-12-08T05:04:17.2344755+00:00"
 }

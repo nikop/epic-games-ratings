@@ -6,19 +6,19 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~10,317 |
-| Overkill | 34.00% | ~8,556 |
-| Vaccine Incoming | 33.00% | ~8,304 |
-| A normal day in Gloomhaven | 31.00% | ~7,801 |
+| I'm not dead yet | 41.00% | ~10,318 |
+| Overkill | 34.00% | ~8,557 |
+| Vaccine Incoming | 33.00% | ~8,305 |
+| A normal day in Gloomhaven | 31.00% | ~7,802 |
 | Spread the plague | 29.00% | ~7,298 |
-| Get over here! | 25.00% | ~6,291 |
-| Just when I thought I was out... | 19.00% | ~4,781 |
+| Get over here! | 25.00% | ~6,292 |
+| Just when I thought I was out... | 19.00% | ~4,782 |
 | Precious! | 17.00% | ~4,278 |
 | Mine... All Mine... | 17.00% | ~4,278 |
 | Grizzled veteran | 15.00% | ~3,775 |
 | Anatomy Lesson | 15.00% | ~3,775 |
 | Light of my life | 14.00% | ~3,523 |
-| Obstacle race | 13.00% | ~3,271 |
+| Obstacle race | 13.00% | ~3,272 |
 | You activated my trap card! | 12.00% | ~3,020 |
 | Who's the Boss? | 11.00% | ~2,768 |
 | Augmented rat | 11.00% | ~2,768 |
@@ -46,18 +46,18 @@ Number of Ratings: 68  (23.09.2022)
 | The Sniper | 2.00% | ~503 |
 | Grin and bear it | 2.00% | ~503 |
 | An axe to grind | 2.00% | ~503 |
+| Betray this | 1.00% | ~252 |
 | Add a bit of colour | 1.00% | ~252 |
 | Captain hooked | 1.00% | ~252 |
 | Spoiler police! | 1.00% | ~252 |
 | New Blood | 1.00% | ~252 |
-| Betray this | 0.90% | ~226 |
 | The Pacifist | 0.50% | ~126 |
 | Born Support | 0.50% | ~126 |
 | A tough job | 0.40% | ~101 |
 | The evil that men do | 0.40% | ~101 |
-| MacReady Steady.. Go! | 0.30% | ~75 |
-| Pull out the big guns | 0.30% | ~75 |
-| Crimson Tornado | 0.30% | ~75 |
+| MacReady Steady.. Go! | 0.30% | ~76 |
+| Pull out the big guns | 0.30% | ~76 |
+| Crimson Tornado | 0.30% | ~76 |
 | The Cartographer | 0.20% | ~50 |
 | Beware my power | 0.20% | ~50 |
 | The Jaws of victory! | 0.20% | ~50 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~25 |
 | Murder Death Kill | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,164 (Ranked 132)  
+Progressed: 25,167 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-05 | 24,794 | 1 |
 | 2023-12-06 | 24,964 | 1 |
 | 2023-12-07 | 25,131 | 1 |
-| 2023-12-08 | 25,164 | 1 |
+| 2023-12-08 | 25,167 | 1 |
 ## Awards
 Max (Character Customization): 3,595  (Ranked 90)  
 Sum: 8,401 (Ranked 101)  

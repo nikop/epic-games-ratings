@@ -6904,9 +6904,9 @@
       "ID": "achievement_24",
       "SetID": "222fo9l",
       "Name": "Eviscerator",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 434
     },
     {
       "ID": "achievement_25",
@@ -7161,8 +7161,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-12-06T16:57:59.3139948+00:00",
-  "LastChanged_Achievements": "2023-12-08T04:09:21.053186+00:00",
+  "LastChanged_Achievements": "2023-12-08T05:08:31.9759203+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.9880376+00:00",
-  "LastUpdate_Ratings": "2023-12-08T03:59:37.6631276+00:00",
-  "LastUpdate_Achievements": "2023-12-08T04:09:21.0532435+00:00"
+  "LastUpdate_Ratings": "2023-12-08T04:58:50.3812935+00:00",
+  "LastUpdate_Achievements": "2023-12-08T05:08:31.9759691+00:00"
 }

@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 566,
+  "EOS_Progressed": 567,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1817,6 +1817,11 @@
       "Time": "2023-12-07T22:08:36.631136+00:00",
       "NumProgressed": 566,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T05:08:12.1208506+00:00",
+      "NumProgressed": 567,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1828,15 +1833,15 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "7pimpda",
       "Name": "Giant Lizard Killer",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1916,7 +1921,7 @@
       "Name": "Training Simulation",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1964,7 +1969,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2084,7 +2089,7 @@
       "Name": "Storm Traveller",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2148,7 +2153,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2156,7 +2161,7 @@
       "Name": "Flower Thief",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2164,7 +2169,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2172,7 +2177,7 @@
       "Name": "Seal Breaker",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2180,14 +2185,14 @@
       "Name": "Handyman",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 566,
+      "Progressed": 567,
       "Completed": 1
     }
   ],
@@ -2195,8 +2200,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-08T04:08:53.4314263+00:00",
+  "LastChanged_Achievements": "2023-12-08T05:08:12.1208504+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-08T03:58:39.5254946+00:00",
-  "LastUpdate_Achievements": "2023-12-08T04:08:53.4314594+00:00"
+  "LastUpdate_Ratings": "2023-12-08T04:58:11.1967903+00:00",
+  "LastUpdate_Achievements": "2023-12-08T05:08:12.1208826+00:00"
 }

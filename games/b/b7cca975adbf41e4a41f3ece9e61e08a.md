@@ -49,7 +49,7 @@ Rating: 4.74 (Ranked 158)
 | Limerence | 2.00% | ~216 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,796 (Ranked 164)  
-Completed: 195 (1.81%) (Ranked 135)  
+Completed: 196 (1.82%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,7 +110,7 @@ Completed: 195 (1.81%) (Ranked 135)
 | 2023-12-05 | 10,712 | 192 |
 | 2023-12-06 | 10,748 | 194 |
 | 2023-12-07 | 10,791 | 195 |
-| 2023-12-08 | 10,796 | 195 |
+| 2023-12-08 | 10,796 | 196 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 535)  
 Sum: 23 (Ranked 538)  

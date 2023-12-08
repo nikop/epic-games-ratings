@@ -449,9 +449,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221043,
+  "EOS_Progressed": 221044,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 990,
+  "EOS_NewPlayers": 988,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26859,6 +26859,11 @@
       "Time": "2023-12-08T04:08:45.925171+00:00",
       "NumProgressed": 221043,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T05:08:06.9685158+00:00",
+      "NumProgressed": 221044,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -26870,7 +26875,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 103890
+      "UsersEstimate": 103891
     },
     {
       "ID": "AlekhinesGun",
@@ -26942,7 +26947,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 154730
+      "UsersEstimate": 154731
     },
     {
       "ID": "DoubleCheck",
@@ -27038,7 +27043,7 @@
       "Name": "O-O",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 53050
+      "UsersEstimate": 53051
     },
     {
       "ID": "O-O-O",
@@ -27086,7 +27091,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 68523
+      "UsersEstimate": 68524
     },
     {
       "ID": "QueenSacrifice",
@@ -27173,7 +27178,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 221043,
+      "Progressed": 221044,
       "Completed": 2
     }
   ],
@@ -27181,8 +27186,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-12-01T13:07:49.2205342+00:00",
-  "LastChanged_Achievements": "2023-12-08T04:08:45.9251705+00:00",
+  "LastChanged_Achievements": "2023-12-08T05:08:06.9685156+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:19.3584195+00:00",
-  "LastUpdate_Ratings": "2023-12-08T04:01:35.4271608+00:00",
-  "LastUpdate_Achievements": "2023-12-08T04:08:45.9253069+00:00"
+  "LastUpdate_Ratings": "2023-12-08T05:00:12.6696558+00:00",
+  "LastUpdate_Achievements": "2023-12-08T05:08:06.9686592+00:00"
 }

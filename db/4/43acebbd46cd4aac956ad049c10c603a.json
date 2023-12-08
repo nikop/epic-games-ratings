@@ -2265,9 +2265,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 81
     },
     {
       "ID": "Chicken",
@@ -2682,8 +2682,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
-  "LastChanged_Achievements": "2023-12-08T04:08:08.4232316+00:00",
+  "LastChanged_Achievements": "2023-12-08T05:06:20.6018477+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-08T04:01:19.0978809+00:00",
-  "LastUpdate_Achievements": "2023-12-08T04:08:08.4232744+00:00"
+  "LastUpdate_Ratings": "2023-12-08T05:00:01.7020314+00:00",
+  "LastUpdate_Achievements": "2023-12-08T05:06:20.6018917+00:00"
 }

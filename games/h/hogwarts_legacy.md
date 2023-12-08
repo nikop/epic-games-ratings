@@ -15,17 +15,17 @@ Rating: 4.76 (Ranked 131)
 | Loom for Improvement | 12.00% | ~36,488 |
 | A Talent for Spending | 12.00% | ~36,488 |
 | Coasting Along | 12.00% | ~36,488 |
-| Grappling with a Graphorn | 11.00% | ~33,447 |
-| The One Who Mastered Memories | 11.00% | ~33,447 |
-| The Hero of Hogwarts | 11.00% | ~33,447 |
-| Challenge Accepted | 11.00% | ~33,447 |
+| Grappling with a Graphorn | 11.00% | ~33,448 |
+| The One Who Mastered Memories | 11.00% | ~33,448 |
+| The Hero of Hogwarts | 11.00% | ~33,448 |
+| Challenge Accepted | 11.00% | ~33,448 |
 | Followed the Butterflies | 10.00% | ~30,407 |
 | Rising From the Ashes | 10.00% | ~30,407 |
 | A Sallow Grave | 9.00% | ~27,366 |
 | The Spell Master | 9.00% | ~27,366 |
-| The Avenging Gazelle | 8.00% | ~24,325 |
-| Beast Friends | 8.00% | ~24,325 |
-| Flight the Good Flight | 8.00% | ~24,325 |
+| The Avenging Gazelle | 8.00% | ~24,326 |
+| Beast Friends | 8.00% | ~24,326 |
+| Flight the Good Flight | 8.00% | ~24,326 |
 | Raising Expectations | 7.00% | ~21,285 |
 | The Seeker of Knowledge | 6.00% | ~18,244 |
 | The Root of the Problem | 6.00% | ~18,244 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 131)
 | The Nature of the Beast | 0.70% | ~2,128 |
 | Collector's Edition | 0.40% | ~1,216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,068 (Ranked 54)  
+Progressed: 304,069 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,14 +283,14 @@ Completed: 525 (0.17%) (Ranked 270)
 | 2023-12-05 | 303,976 | 521 |
 | 2023-12-06 | 304,019 | 523 |
 | 2023-12-07 | 304,059 | 525 |
-| 2023-12-08 | 304,068 | 525 |
+| 2023-12-08 | 304,069 | 525 |
 ## Awards
-Max (Character Customization): 25,000  (Ranked 17)  
-Sum: 50,146 (Ranked 30)  
+Max (Character Customization): 25,029  (Ranked 17)  
+Sum: 50,178 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 25,000 |
+| This game has Inclusive Character Customization | 25,029 |
 | This game has Great Boss Battles | 12,810 |
 | This game is Great for Beginners | 1,388 |
 | This game has Amazing Storytelling | 1,346 |
@@ -298,7 +298,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,309 |
 | This game is Relaxing | 1,304 |
 | This game has Amazing Characters | 1,267 |
-| This game is Highly Recommended | 1,247 |
+| This game is Highly Recommended | 1,250 |
 | This game has Quickly Understood Controls | 1,208 |
 | This game has Beautiful Visuals | 1,085 |
 | This game has a Creative Community | 838 |
@@ -564,4 +564,4 @@ Diff (max vs sum): -13
 | 2023-12-05 | 4.76 | 24,947 | 49,982 |
 | 2023-12-06 | 4.76 | 24,977 | 50,057 |
 | 2023-12-07 | 4.76 | 25,000 | 50,137 |
-| 2023-12-08 | 4.76 | 25,000 | 50,146 |
+| 2023-12-08 | 4.76 | 25,029 | 50,178 |

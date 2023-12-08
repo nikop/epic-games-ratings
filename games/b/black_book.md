@@ -6,17 +6,17 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~16,398 |
-| Student | 22.00% | ~12,884 |
-| Knower | 16.00% | ~9,370 |
-| Listener | 15.00% | ~8,784 |
+| Initiation | 28.00% | ~16,399 |
+| Student | 22.00% | ~12,885 |
+| Knower | 16.00% | ~9,371 |
+| Listener | 15.00% | ~8,785 |
 | Aspen Tree | 14.00% | ~8,199 |
 | Healer | 14.00% | ~8,199 |
 | Soldier | 12.00% | ~7,028 |
 | Cow Level | 11.00% | ~6,442 |
 | Scientist | 11.00% | ~6,442 |
-| Herbalist | 10.00% | ~5,856 |
-| Water | 10.00% | ~5,856 |
+| Herbalist | 10.00% | ~5,857 |
+| Water | 10.00% | ~5,857 |
 | Old Friend | 9.00% | ~5,271 |
 | New Spirits | 9.00% | ~5,271 |
 | Voipel | 9.00% | ~5,271 |
@@ -26,14 +26,14 @@ Number of Ratings: 96  (23.09.2022)
 | Dead Friend | 8.00% | ~4,685 |
 | Pine Tree | 8.00% | ~4,685 |
 | Collector | 8.00% | ~4,685 |
-| Worthy | 7.00% | ~4,099 |
-| Black Book | 7.00% | ~4,099 |
-| Black Sorcerer | 7.00% | ~4,099 |
-| Dead Man | 7.00% | ~4,099 |
-| Fern | 7.00% | ~4,099 |
-| 100 Friends | 7.00% | ~4,099 |
-| Researcher | 7.00% | ~4,099 |
-| Savvy | 7.00% | ~4,099 |
+| Worthy | 7.00% | ~4,100 |
+| Black Book | 7.00% | ~4,100 |
+| Black Sorcerer | 7.00% | ~4,100 |
+| Dead Man | 7.00% | ~4,100 |
+| Fern | 7.00% | ~4,100 |
+| 100 Friends | 7.00% | ~4,100 |
+| Researcher | 7.00% | ~4,100 |
+| Savvy | 7.00% | ~4,100 |
 | Encyclopedist | 6.00% | ~3,514 |
 | Witch | 6.00% | ~3,514 |
 | Old Spirits | 6.00% | ~3,514 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,171 |
 | Word Master | 0.20% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,563 (Ranked 108)  
+Progressed: 58,567 (Ranked 108)  
 Completed: 57 (0.10%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 57 (0.10%) (Ranked 290)
 | 2023-12-05 | 58,172 | 57 |
 | 2023-12-06 | 58,365 | 57 |
 | 2023-12-07 | 58,541 | 57 |
-| 2023-12-08 | 58,563 | 57 |
+| 2023-12-08 | 58,567 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

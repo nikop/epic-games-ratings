@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7353,9 +7353,9 @@
       "Count": 518
     }
   ],
-  "EOS_Progressed": 731562,
+  "EOS_Progressed": 731570,
   "EOS_Completed": 2466,
-  "EOS_NewPlayers": 3284,
+  "EOS_NewPlayers": 3285,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33918,6 +33918,11 @@
       "Time": "2023-12-08T04:09:10.4001997+00:00",
       "NumProgressed": 731562,
       "NumCompleted": 2466
+    },
+    {
+      "Time": "2023-12-08T05:08:24.2972088+00:00",
+      "NumProgressed": 731570,
+      "NumCompleted": 2466
     }
   ],
   "TotalAchievements": 51,
@@ -34065,7 +34070,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5852
+      "UsersEstimate": 5853
     },
     {
       "ID": "ach_hazardous_materials",
@@ -34121,7 +34126,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5852
+      "UsersEstimate": 5853
     },
     {
       "ID": "ach_knock_down",
@@ -34233,7 +34238,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5852
+      "UsersEstimate": 5853
     },
     {
       "ID": "ach_thesacrifice",
@@ -34273,7 +34278,7 @@
       "Name": "Rising Star",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 5852
+      "UsersEstimate": 5853
     },
     {
       "ID": "ach_well_trained",
@@ -34336,13 +34341,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 731562,
+      "Progressed": 731570,
       "Completed": 2466
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 57104,
+      "Progressed": 57112,
       "Completed": 36639
     }
   ],
@@ -34350,8 +34355,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-07T23:59:39.3038955+00:00",
-  "LastChanged_Achievements": "2023-12-08T04:09:10.4001991+00:00",
+  "LastChanged_Achievements": "2023-12-08T05:08:24.2972084+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-08T03:59:42.4763547+00:00",
-  "LastUpdate_Achievements": "2023-12-08T04:09:10.4004486+00:00"
+  "LastUpdate_Ratings": "2023-12-08T04:58:55.5658154+00:00",
+  "LastUpdate_Achievements": "2023-12-08T05:08:24.2973365+00:00"
 }

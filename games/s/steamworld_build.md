@@ -9,7 +9,7 @@
 | It's Yours, My Friend | 59.00% | ~32 |
 | Conducted Trade | 54.00% | ~29 |
 | Digging a Hole | 54.00% | ~29 |
-| Aristocratic | 48.00% | ~26 |
+| Aristocratic | 50.00% | ~27 |
 | Gotta Go Fast | 48.00% | ~26 |
 | Tutti Frutti | 44.00% | ~24 |
 | Roll Out | 26.00% | ~14 |

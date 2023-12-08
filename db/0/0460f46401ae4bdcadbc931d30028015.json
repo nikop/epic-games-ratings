@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -879,9 +879,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 4072,
+  "EOS_Progressed": 4073,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6719,6 +6719,11 @@
       "Time": "2023-12-08T04:07:24.2916443+00:00",
       "NumProgressed": 4072,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T05:05:49.637567+00:00",
+      "NumProgressed": 4073,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6739,7 +6744,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "achievement_11",
@@ -6771,7 +6776,7 @@
       "Name": "ROTY",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "achievement_15",
@@ -6819,7 +6824,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "achievement_20",
@@ -6827,7 +6832,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2402
+      "UsersEstimate": 2403
     },
     {
       "ID": "achievement_21",
@@ -6898,7 +6903,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4072,
+      "Progressed": 4073,
       "Completed": 0
     }
   ],
@@ -6906,8 +6911,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-08T01:45:26.6120745+00:00",
-  "LastChanged_Achievements": "2023-12-08T04:07:24.2916439+00:00",
+  "LastChanged_Achievements": "2023-12-08T05:05:49.637566+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-08T03:57:27.5576839+00:00",
-  "LastUpdate_Achievements": "2023-12-08T04:07:24.2916989+00:00"
+  "LastUpdate_Ratings": "2023-12-08T04:57:22.3950698+00:00",
+  "LastUpdate_Achievements": "2023-12-08T05:05:49.6376076+00:00"
 }

@@ -5239,10 +5239,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6636,
       "NumberOfAwardsMax": 2678
+    },
+    {
+      "Time": "2023-12-08T05:02:56.7971766+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6643,
+      "NumberOfAwardsMax": 2678
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6636,
+  "NumberOfAwards": 6643,
   "NumberOfAwardsMax": 2678,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5304,7 +5310,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 345
+      "Count": 352
     },
     {
       "Text": "This game is Relaxing",
@@ -5313,9 +5319,9 @@
       "Count": 411
     }
   ],
-  "EOS_Progressed": 236649,
+  "EOS_Progressed": 236661,
   "EOS_Completed": 567,
-  "EOS_NewPlayers": 5102,
+  "EOS_NewPlayers": 5091,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21928,6 +21934,11 @@
       "Time": "2023-12-08T04:09:29.5059327+00:00",
       "NumProgressed": 236649,
       "NumCompleted": 567
+    },
+    {
+      "Time": "2023-12-08T05:08:38.1574518+00:00",
+      "NumProgressed": 236661,
+      "NumCompleted": 567
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22379,22 +22390,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 236649,
+      "Progressed": 236661,
       "Completed": 567
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 15814,
+      "Progressed": 15826,
       "Completed": 203
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-08T00:03:43.306364+00:00",
-  "LastChanged_Achievements": "2023-12-08T04:09:29.5059323+00:00",
+  "LastChanged": "2023-12-08T05:02:56.7971764+00:00",
+  "LastChanged_Achievements": "2023-12-08T05:08:38.1574515+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-08T04:03:37.8694475+00:00",
-  "LastUpdate_Achievements": "2023-12-08T04:09:29.5060492+00:00"
+  "LastUpdate_Ratings": "2023-12-08T05:02:56.7971771+00:00",
+  "LastUpdate_Achievements": "2023-12-08T05:08:38.1575757+00:00"
 }

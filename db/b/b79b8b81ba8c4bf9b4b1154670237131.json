@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14619,
+  "EOS_Progressed": 14624,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 770,
+  "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2883,6 +2883,11 @@
       "Time": "2023-12-08T04:09:18.8918208+00:00",
       "NumProgressed": 14619,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-08T05:08:30.4865099+00:00",
+      "NumProgressed": 14624,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -2895,7 +2900,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5555
+      "UsersEstimate": 5557
     },
     {
       "ID": "ACH_AE_10",
@@ -2927,7 +2932,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 10964
+      "UsersEstimate": 10968
     },
     {
       "ID": "ACH_AE_14",
@@ -2935,7 +2940,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2778
+      "UsersEstimate": 2779
     },
     {
       "ID": "ACH_AE_15",
@@ -2943,7 +2948,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3216
+      "UsersEstimate": 3217
     },
     {
       "ID": "ACH_AE_16",
@@ -2951,7 +2956,7 @@
       "Name": "Energy Efficient",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "ACH_AE_17",
@@ -2983,7 +2988,7 @@
       "Name": "Back to School",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3364
     },
     {
       "ID": "ACH_AE_20",
@@ -3007,7 +3012,7 @@
       "Name": "The High Road",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3364
     },
     {
       "ID": "ACH_AE_23",
@@ -3015,7 +3020,7 @@
       "Name": "Emergency Services",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACH_AE_24",
@@ -3023,7 +3028,7 @@
       "Name": "Think Fast",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACH_AE_25",
@@ -3031,7 +3036,7 @@
       "Name": "Family History",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACH_AE_26",
@@ -3039,7 +3044,7 @@
       "Name": "Live With It",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "ACH_AE_27",
@@ -3071,7 +3076,7 @@
       "Name": "Pajama Boy",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2485
+      "UsersEstimate": 2486
     },
     {
       "ID": "ACH_AE_30",
@@ -3095,7 +3100,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "ACH_AE_33",
@@ -3127,7 +3132,7 @@
       "Name": "The Bomb",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "ACH_AE_5",
@@ -3135,7 +3140,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "ACH_AE_6",
@@ -3151,7 +3156,7 @@
       "Name": "Renewal",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACH_AE_8",
@@ -3174,7 +3179,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 14619,
+      "Progressed": 14624,
       "Completed": 15
     }
   ],
@@ -3182,8 +3187,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-06T04:58:43.6261983+00:00",
-  "LastChanged_Achievements": "2023-12-08T04:09:18.8918204+00:00",
+  "LastChanged_Achievements": "2023-12-08T05:08:30.4865096+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.7146917+00:00",
-  "LastUpdate_Ratings": "2023-12-08T04:00:59.668388+00:00",
-  "LastUpdate_Achievements": "2023-12-08T04:09:18.8918541+00:00"
+  "LastUpdate_Ratings": "2023-12-08T04:59:48.2555979+00:00",
+  "LastUpdate_Achievements": "2023-12-08T05:08:30.4865446+00:00"
 }

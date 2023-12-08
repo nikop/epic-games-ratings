@@ -19,7 +19,7 @@ Rating: 4.70 (Ranked 213)
 | Happy Camper | 5.00% | ~394 |
 | Liberator | 5.00% | ~394 |
 | Shredder | 5.00% | ~394 |
-| Live Wire | 4.00% | ~315 |
+| Live Wire | 4.00% | ~316 |
 | Fashion Faux-Pas | 3.00% | ~237 |
 | Fashion Victim | 3.00% | ~237 |
 | Arrr! | 2.00% | ~158 |
@@ -27,7 +27,7 @@ Rating: 4.70 (Ranked 213)
 | Ça de Wizz! | 1.00% | ~79 |
 | Thing | 1.00% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,887 (Ranked 176)  
+Progressed: 7,888 (Ranked 176)  
 Completed: 34 (0.43%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 34 (0.43%) (Ranked 220)
 | 2023-12-05 | 7,871 | 34 |
 | 2023-12-06 | 7,876 | 34 |
 | 2023-12-07 | 7,884 | 34 |
-| 2023-12-08 | 7,887 | 34 |
+| 2023-12-08 | 7,888 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

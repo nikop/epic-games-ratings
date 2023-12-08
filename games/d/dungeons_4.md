@@ -28,7 +28,7 @@
 | Pure Dynamite! | 45.00% | ~241 |
 | The Cathedral of Light | 45.00% | ~241 |
 | Shame! Shame! Shame! | 45.00% | ~241 |
-| Dungeonlord Gorgu | 43.00% | ~230 |
+| Dungeonlord Gorgu | 44.00% | ~235 |
 | Mana Cannon | 41.00% | ~219 |
 | Tanos' Crusade Against Thalya | 41.00% | ~219 |
 | All’s Well That Ends Evil | 35.00% | ~187 |
@@ -56,7 +56,7 @@
 | The Last Stand - This Time For Real! | 15.00% | ~80 |
 | To the Max! | 14.00% | ~75 |
 | To Infinity And Beyond! | 14.00% | ~75 |
-| Mirror, Mirror | 12.00% | ~64 |
+| Mirror, Mirror | 13.00% | ~70 |
 | Untouchable | 12.00% | ~64 |
 | Evilification | 11.00% | ~59 |
 | Laser Eyes Are So Useless | 10.00% | ~54 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 7.00% | ~37 |
 | I Don't Need Any Help | 5.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535 (Ranked 309)  
+Progressed: 535 (Ranked 310)  
 Completed: 12 (2.24%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
