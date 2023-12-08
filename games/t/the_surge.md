@@ -1,22 +1,22 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.43 (Ranked 695)  
+Rating: 4.43 (Ranked 696)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,576 |
-| I'll Be Back | 85.00% | ~4,138 |
-| Sorry, I Dropped This | 77.00% | ~3,748 |
-| First Day on the Job | 77.00% | ~3,748 |
-| Butcher's Bill | 55.00% | ~2,677 |
+| On My Own Two Feet | 94.00% | ~4,577 |
+| I'll Be Back | 85.00% | ~4,139 |
+| Sorry, I Dropped This | 77.00% | ~3,749 |
+| First Day on the Job | 77.00% | ~3,749 |
+| Butcher's Bill | 55.00% | ~2,678 |
 | P.A.X | 38.00% | ~1,850 |
-| Hey Listen | 37.00% | ~1,801 |
-| OPERATOR | 36.00% | ~1,752 |
-| It's Blue Light | 33.00% | ~1,606 |
-| Most Wanted | 27.00% | ~1,314 |
-| Infidel | 24.00% | ~1,168 |
+| Hey Listen | 37.00% | ~1,802 |
+| OPERATOR | 36.00% | ~1,753 |
+| It's Blue Light | 33.00% | ~1,607 |
+| Most Wanted | 27.00% | ~1,315 |
+| Infidel | 24.00% | ~1,169 |
 | Firebug | 21.00% | ~1,022 |
 | GOLIATH | 21.00% | ~1,022 |
 | I Choose You | 18.00% | ~876 |
@@ -27,17 +27,17 @@ Number of Ratings: 62  (23.09.2022)
 | Core Power | 13.00% | ~633 |
 | The Black Cerberus | 12.00% | ~584 |
 | Watchman | 12.00% | ~584 |
-| CREO Killed the Video Star | 11.00% | ~535 |
-| Who's in Charge Here? | 11.00% | ~535 |
-| Shall Not Pass | 11.00% | ~535 |
+| CREO Killed the Video Star | 11.00% | ~536 |
+| Who's in Charge Here? | 11.00% | ~536 |
+| Shall Not Pass | 11.00% | ~536 |
 | Right Tool for the Job | 10.00% | ~487 |
 | Melting Down | 9.00% | ~438 |
 | Raging Drones | 9.00% | ~438 |
 | Overconfident | 9.00% | ~438 |
 | No More Marching | 9.00% | ~438 |
 | Is This Real Life? | 9.00% | ~438 |
-| Pusher Man | 8.00% | ~389 |
-| Squad Chief Helvig | 8.00% | ~389 |
+| Pusher Man | 8.00% | ~390 |
+| Squad Chief Helvig | 8.00% | ~390 |
 | Sunglasses at Night | 7.00% | ~341 |
 | Duty-Bound | 7.00% | ~341 |
 | Follow the White Rabbit | 7.00% | ~341 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~29 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,868 (Ranked 193)  
+Progressed: 4,869 (Ranked 193)  
 Completed: 18 (0.37%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,6 +264,7 @@ Completed: 18 (0.37%) (Ranked 229)
 | 2023-12-04 | 4,866 | 18 |
 | 2023-12-06 | 4,867 | 18 |
 | 2023-12-07 | 4,868 | 18 |
+| 2023-12-08 | 4,869 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 504)  
 Sum: 29 (Ranked 519)  

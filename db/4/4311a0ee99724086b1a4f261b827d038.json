@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -701,9 +701,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 236613,
+  "EOS_Progressed": 236617,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1383,
+  "EOS_NewPlayers": 1375,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16671,6 +16671,11 @@
       "Time": "2023-12-08T19:09:45.6341391+00:00",
       "NumProgressed": 236613,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T20:10:17.2624163+00:00",
+      "NumProgressed": 236617,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -16739,7 +16744,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49689
+      "UsersEstimate": 49690
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -16747,7 +16752,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21295
+      "UsersEstimate": 21296
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -16779,7 +16784,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7098
+      "UsersEstimate": 7099
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -16787,7 +16792,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7098
+      "UsersEstimate": 7099
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -16939,7 +16944,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59153
+      "UsersEstimate": 59154
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -16954,7 +16959,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 236613,
+      "Progressed": 236617,
       "Completed": 0
     }
   ],
@@ -16962,8 +16967,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-08T15:59:20.387139+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:09:45.6341387+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:10:17.262416+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:08.4919895+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:59:22.3975044+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:09:45.6342842+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:00:01.1160432+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:10:17.2625217+00:00"
 }

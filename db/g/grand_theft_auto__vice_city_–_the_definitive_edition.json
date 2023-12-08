@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -907,7 +907,7 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 11272,
+  "EOS_Progressed": 11273,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
@@ -13912,6 +13912,11 @@
       "Time": "2023-12-08T19:09:02.5553473+00:00",
       "NumProgressed": 11272,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-08T20:09:23.8431234+00:00",
+      "NumProgressed": 11273,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -14051,7 +14056,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "ACH18",
@@ -14155,7 +14160,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "ACH31",
@@ -14194,7 +14199,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11272,
+      "Progressed": 11273,
       "Completed": 65
     }
   ],
@@ -14202,8 +14207,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-07T16:57:54.5734107+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:09:02.5553469+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:09:23.8431231+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.5499109+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:58:34.505298+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:09:02.5554727+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:58:57.9238246+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:09:23.8432165+00:00"
 }

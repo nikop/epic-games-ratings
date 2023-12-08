@@ -9,8 +9,8 @@
 | Beam me up | 62.00% | ~53 |
 | Rock Bottom | 58.00% | ~49 |
 | Uncaged | 20.00% | ~17 |
-| The end is nigh! | 15.00% | ~13 |
-| Get Together | 15.00% | ~13 |
+| The end is nigh! | 18.00% | ~15 |
+| Get Together | 18.00% | ~15 |
 | Wait for me! | 8.00% | ~7 |
 | Leave no stone unturned | 4.00% | ~3 |
 | The best of both worlds | 1.00% | ~1 |

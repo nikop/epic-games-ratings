@@ -11,7 +11,7 @@ Rating: 4.58 (Ranked 451)
 | Break-Net Speed | 49.00% | ~4,094 |
 | Bramble Breaker | 47.00% | ~3,927 |
 | Miner 49er | 43.00% | ~3,593 |
-| Humble Collector | 42.00% | ~3,510 |
+| Humble Collector | 43.00% | ~3,593 |
 | Calm Sailing | 37.00% | ~3,092 |
 | Open the Gate! | 34.00% | ~2,841 |
 | Mist Walker | 32.00% | ~2,674 |

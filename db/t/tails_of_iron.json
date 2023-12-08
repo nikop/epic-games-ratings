@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -4110,9 +4110,9 @@
       "ID": "RescueBrothers",
       "SetID": "9lj35g4",
       "Name": "Rescue Redgi\u0027s Brothers",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1179
     },
     {
       "ID": "ReturnPowerInMines",
@@ -4141,8 +4141,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:05:28.5166007+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:06:23.3313413+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:26.7928423+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:58:23.7321182+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:05:28.5166341+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:58:43.8901416+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:06:23.3313705+00:00"
 }

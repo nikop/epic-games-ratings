@@ -1,28 +1,28 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.53 (Ranked 1,056)  
+Rating: 3.53 (Ranked 1,057)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~17,619 |
-| Master, Commander | 21.00% | ~16,818 |
-| Hard Worker | 20.00% | ~16,017 |
-| Adios, Friendo | 19.00% | ~15,216 |
-| Mechanic | 19.00% | ~15,216 |
-| Bottom's Up | 18.00% | ~14,415 |
-| Nice Try | 16.00% | ~12,814 |
-| Right On Target | 14.00% | ~11,212 |
-| Piano Man | 11.00% | ~8,809 |
-| Lazy Bones | 9.00% | ~7,208 |
-| Vinyl Vibes | 8.00% | ~6,407 |
-| Nothing Left to Say | 7.00% | ~5,606 |
-| Sniper | 7.00% | ~5,606 |
-| Cut Call | 6.00% | ~4,805 |
-| Magnetic Miracles | 5.00% | ~4,004 |
-| Butcher | 4.00% | ~3,203 |
-| Fair's Fair | 4.00% | ~3,203 |
-| Spicy | 4.00% | ~3,203 |
+| Be Seeing You | 22.00% | ~17,621 |
+| Master, Commander | 21.00% | ~16,820 |
+| Hard Worker | 20.00% | ~16,019 |
+| Adios, Friendo | 19.00% | ~15,218 |
+| Mechanic | 19.00% | ~15,218 |
+| Bottom's Up | 18.00% | ~14,417 |
+| Nice Try | 16.00% | ~12,815 |
+| Right On Target | 14.00% | ~11,213 |
+| Piano Man | 11.00% | ~8,810 |
+| Lazy Bones | 9.00% | ~7,209 |
+| Vinyl Vibes | 8.00% | ~6,408 |
+| Nothing Left to Say | 7.00% | ~5,607 |
+| Sniper | 7.00% | ~5,607 |
+| Cut Call | 6.00% | ~4,806 |
+| Magnetic Miracles | 5.00% | ~4,005 |
+| Butcher | 4.00% | ~3,204 |
+| Fair's Fair | 4.00% | ~3,204 |
+| Spicy | 4.00% | ~3,204 |
 | A Man Of Taste | 3.00% | ~2,403 |
 | Ace in the Hole | 3.00% | ~2,403 |
 | Hearty | 3.00% | ~2,403 |
@@ -31,7 +31,7 @@ Rating: 3.53 (Ranked 1,056)
 | Audiophile | 2.00% | ~1,602 |
 | Tape Head | 2.00% | ~1,602 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,086 (Ranked 98)  
+Progressed: 80,095 (Ranked 98)  
 Completed: 866 (1.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 866 (1.08%) (Ranked 166)
 | 2023-12-05 | 79,902 | 863 |
 | 2023-12-06 | 79,959 | 865 |
 | 2023-12-07 | 80,026 | 865 |
-| 2023-12-08 | 80,086 | 866 |
+| 2023-12-08 | 80,095 | 866 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

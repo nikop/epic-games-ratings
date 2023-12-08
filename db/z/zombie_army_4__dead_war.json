@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2496,9 +2496,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44092,
+  "EOS_Progressed": 44093,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9661,6 +9661,11 @@
       "Time": "2023-12-08T18:03:45.1404609+00:00",
       "NumProgressed": 44092,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-08T20:04:24.2061931+00:00",
+      "NumProgressed": 44093,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9672,7 +9677,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27337
+      "UsersEstimate": 27338
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -9736,7 +9741,7 @@
       "Name": "This is no Sunday School picnic!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "SE_COMPLETE_CROATIA",
@@ -9760,7 +9765,7 @@
       "Name": "I never redoubted you!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "SE_COMPLETE_DEEPER_THAN_HELL",
@@ -9792,7 +9797,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14109
+      "UsersEstimate": 14110
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -9824,7 +9829,7 @@
       "Name": "Not today you won\u0027t",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_RURAL_COMPOUND",
@@ -9864,7 +9869,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27778
+      "UsersEstimate": 27779
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -9880,7 +9885,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14991
+      "UsersEstimate": 14992
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -9888,7 +9893,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19400
+      "UsersEstimate": 19401
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -9896,7 +9901,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14109
+      "UsersEstimate": 14110
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -9912,7 +9917,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8377
+      "UsersEstimate": 8378
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -9920,7 +9925,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21605
+      "UsersEstimate": 21606
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -10000,7 +10005,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30423
+      "UsersEstimate": 30424
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -10008,7 +10013,7 @@
       "Name": "Gotcha, didn\u0027t I?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "SE_KILL_A_ZOMBIE_PLAYER",
@@ -10024,7 +10029,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20723
+      "UsersEstimate": 20724
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -10032,7 +10037,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25132
+      "UsersEstimate": 25133
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -10040,7 +10045,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20723
+      "UsersEstimate": 20724
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -10064,7 +10069,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19841
+      "UsersEstimate": 19842
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -10096,7 +10101,7 @@
       "Name": "A gross gross",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "SE_PERFORM_ALL_HEROIC_ACTIONS",
@@ -10112,7 +10117,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14991
+      "UsersEstimate": 14992
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -10120,7 +10125,7 @@
       "Name": "Hail to the king, baby!",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "SE_REACH_RANK_5",
@@ -10199,15 +10204,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44092,
+      "Progressed": 44093,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-07T20:57:22.8750003+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:03:52.1492363+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:04:24.2061927+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:42.1034931+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:57:54.8144672+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:03:52.1493548+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:58:05.6428362+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:04:24.2062616+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 548,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 510,
-  "Ranking_EOS_Progress": 557,
+  "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -270,9 +270,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -385,6 +385,11 @@
       "Time": "2023-12-08T08:06:49.9804576+00:00",
       "NumProgressed": 24,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T20:07:01.2185046+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -395,9 +400,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -427,7 +432,7 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -507,7 +512,7 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -531,7 +536,7 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -547,9 +552,9 @@
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -731,7 +736,7 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -748,7 +753,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
@@ -756,8 +761,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-10-14T18:57:04.8470544+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:05:58.3643907+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:07:01.2185043+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:22.421403+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:59:07.3598665+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:05:58.3644174+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:59:40.8965809+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:07:01.2185288+00:00"
 }

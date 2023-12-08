@@ -60,11 +60,11 @@ Rating: 4.61 (Ranked 386)
 | Jack of All Tomes | 0.20% | ~11 |
 | A Very Special Ring | 0.20% | ~11 |
 | I Want to Break Free | 0.10% | ~6 |
+| The Grey Wizard | 0.10% | ~6 |
 | Returning Circle | 0.10% | ~6 |
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 | Master of Evilness | 0.00% | ~0 |
-| The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,576 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 278)  

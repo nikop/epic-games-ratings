@@ -22,12 +22,12 @@ Number of Ratings: 292  (23.09.2022)
 | Venisti, Vidisti, Perdidisti | 3.00% | ~12 |
 | The Song of Stoutheart | 2.00% | ~8 |
 | Versatile Wielder | 2.00% | ~8 |
+| Deepstrike | 2.00% | ~8 |
 | Don't Touch My Stuff | 2.00% | ~8 |
 | Such A Fungi | 2.00% | ~8 |
 | Trojan Horse | 2.00% | ~8 |
 | Pyrrhic Victory | 2.00% | ~8 |
 | This Spot's Taken | 1.00% | ~4 |
-| Deepstrike | 1.00% | ~4 |
 | Infernal Influence | 1.00% | ~4 |
 | Together For Her | 0.80% | ~3 |
 | Ultra Kill | 0.80% | ~3 |

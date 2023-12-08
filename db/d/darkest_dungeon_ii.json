@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9468,9 +9468,9 @@
       "Count": 983
     }
   ],
-  "EOS_Progressed": 125842,
+  "EOS_Progressed": 125843,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34078,6 +34078,11 @@
       "Time": "2023-12-08T19:08:38.3603057+00:00",
       "NumProgressed": 125842,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T20:08:53.4392701+00:00",
+      "NumProgressed": 125843,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 65,
@@ -34089,7 +34094,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 90606
+      "UsersEstimate": 90607
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -34105,7 +34110,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25168
+      "UsersEstimate": 25169
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -34121,7 +34126,7 @@
       "Name": "Resurrection",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 79280
+      "UsersEstimate": 79281
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -34137,7 +34142,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 84314
+      "UsersEstimate": 84315
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -34153,7 +34158,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 79280
+      "UsersEstimate": 79281
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -34193,7 +34198,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 62921
+      "UsersEstimate": 62922
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -34233,7 +34238,7 @@
       "Name": "Banishment",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 40269
+      "UsersEstimate": 40270
     },
     {
       "ID": "combat_kill_death",
@@ -34249,7 +34254,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 42786
+      "UsersEstimate": 42787
     },
     {
       "ID": "combat_kill_fanatics",
@@ -34273,7 +34278,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 49078
+      "UsersEstimate": 49079
     },
     {
       "ID": "combat_kill_gentry",
@@ -34417,7 +34422,7 @@
       "Name": "Ramble On",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 62921
+      "UsersEstimate": 62922
     },
     {
       "ID": "driving_distance_hard",
@@ -34457,7 +34462,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 86831
+      "UsersEstimate": 86832
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -34465,7 +34470,7 @@
       "Name": "Whale",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 40269
+      "UsersEstimate": 40270
     },
     {
       "ID": "hospital_full_service",
@@ -34481,7 +34486,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 117033
+      "UsersEstimate": 117034
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -34545,7 +34550,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 84314
+      "UsersEstimate": 84315
     },
     {
       "ID": "run_victory_act02",
@@ -34608,21 +34613,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 125842,
+      "Progressed": 125843,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 711,
-      "Completed": 711
+      "Progressed": 712,
+      "Completed": 712
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-08T19:00:26.6622968+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:08:38.3603053+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:08:53.4392698+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:09.0796659+00:00",
-  "LastUpdate_Ratings": "2023-12-08T19:00:26.6622977+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:08:38.3605381+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:01:27.6202151+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:08:53.4393955+00:00"
 }

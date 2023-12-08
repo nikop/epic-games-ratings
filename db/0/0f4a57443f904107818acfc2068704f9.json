@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 857,
+  "EOS_Progressed": 858,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -1877,6 +1877,11 @@
       "Time": "2023-12-08T19:03:59.6096183+00:00",
       "NumProgressed": 857,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T20:04:34.2317237+00:00",
+      "NumProgressed": 858,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1897,7 +1902,7 @@
       "Name": "Territorial",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1945,7 +1950,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "CompleteChapter10",
@@ -2033,7 +2038,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "CompleteChapter3",
@@ -2041,7 +2046,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "CompleteChapter4",
@@ -2151,7 +2156,7 @@
       "ID": "Win10BonusConquestBattles",
       "SetID": "52ail55",
       "Name": "No Corner Unclaimed",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -2184,14 +2189,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 857,
+      "Progressed": 858,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:03:59.6096178+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:04:34.2317233+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:56:58.482812+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:58:30.3062238+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:03:59.6096642+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:58:52.475295+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:04:34.2317505+00:00"
 }

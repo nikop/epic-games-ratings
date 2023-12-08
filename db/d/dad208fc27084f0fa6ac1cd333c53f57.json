@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5057,
+  "EOS_Progressed": 5058,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -4339,6 +4339,11 @@
       "Time": "2023-12-08T19:06:36.85958+00:00",
       "NumProgressed": 5057,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-08T20:07:49.2582171+00:00",
+      "NumProgressed": 5058,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -4367,7 +4372,7 @@
       "Name": "Collect the mask",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -4375,7 +4380,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -4389,9 +4394,9 @@
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
       "SetID": "4d50jip",
       "Name": "Move the sofa",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1720
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -4399,7 +4404,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2883
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -4478,14 +4483,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5057,
+      "Progressed": 5058,
       "Completed": 47
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:06:36.8595795+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:07:49.2582158+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:12.1666356+00:00",
-  "LastUpdate_Ratings": "2023-12-08T19:00:57.3812661+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:06:36.8596243+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:02:48.4002983+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:07:49.2582544+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -274,9 +274,9 @@
       "ID": "ACH_01_SADDLE_UP",
       "SetID": "9loam6m",
       "Name": "Saddled up and away",
-      "Percentage": 94,
+      "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_02_PHOTO_TEAM",
@@ -418,9 +418,9 @@
       "ID": "ACH_19_HORSE_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Horse friends",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_20_HORSE_LANGUAGE",
@@ -538,9 +538,9 @@
       "ID": "ACH_34_HAZELWOOD",
       "SetID": "9loam6m",
       "Name": "Hazelwood",
-      "Percentage": 88,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_35_RIDING_LESSON",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:04:25.5746412+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:05:06.3773046+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:43.2221056+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:59:44.3607286+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:04:25.5746747+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:00:30.0740635+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:05:06.3773342+00:00"
 }

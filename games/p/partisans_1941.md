@@ -7,9 +7,9 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | E1M1 | 44.00% | ~807 |
-| Grenadier | 43.00% | ~788 |
-| War Never Changes | 43.00% | ~788 |
-| Heroes Never Die | 40.00% | ~733 |
+| Grenadier | 43.00% | ~789 |
+| War Never Changes | 43.00% | ~789 |
+| Heroes Never Die | 40.00% | ~734 |
 | Mosquito bite | 36.00% | ~660 |
 | Spice It Up | 32.00% | ~587 |
 | Bomberman | 27.00% | ~495 |
@@ -28,16 +28,16 @@ Number of Ratings: 98  (23.09.2022)
 | Do a Barrel Roll! | 2.00% | ~37 |
 | Unbreakable Wall | 2.00% | ~37 |
 | Experienced Strategist | 2.00% | ~37 |
-| How?! | 0.90% | ~16 |
+| How?! | 0.90% | ~17 |
 | Tough as Nails | 0.40% | ~7 |
-| Commandos | 0.30% | ~5 |
+| Commandos | 0.30% | ~6 |
 | We Weren't There | 0.20% | ~4 |
 | Inspector General | 0.10% | ~2 |
 | Defense of Steel | 0.10% | ~2 |
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,833 (Ranked 231)  
+Progressed: 1,834 (Ranked 231)  
 Completed: 2 (0.11%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 2 (0.11%) (Ranked 285)
 | 2023-12-05 | 1,827 | 2 |
 | 2023-12-06 | 1,829 | 2 |
 | 2023-12-07 | 1,830 | 2 |
-| 2023-12-08 | 1,833 | 2 |
+| 2023-12-08 | 1,834 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

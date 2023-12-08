@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3000,
+  "EOS_Progressed": 3001,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7889,6 +7889,11 @@
       "Time": "2023-12-08T18:09:12.7495957+00:00",
       "NumProgressed": 3000,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T20:09:59.07414+00:00",
+      "NumProgressed": 3001,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -8004,7 +8009,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "GUARD_MAKER",
@@ -8026,9 +8031,9 @@
       "ID": "KING_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Clash of Kings",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 90
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -8075,14 +8080,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3000,
+      "Progressed": 3001,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:09:30.7822017+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:09:59.0741396+00:00",
   "LastUpdate_AppInfo": "2023-12-06T07:57:05.9412451+00:00",
-  "LastUpdate_Ratings": "2023-12-08T19:00:05.728749+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:09:30.7822862+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:00:59.2179369+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:09:59.0741959+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 209,
+  "EOS_Progressed": 210,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
@@ -924,6 +924,11 @@
       "Time": "2023-12-01T23:06:35.3309388+00:00",
       "NumProgressed": 209,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T20:05:31.0747379+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -1046,9 +1051,9 @@
       "ID": "ACHIEVEMENT_ID_21",
       "SetID": "c504de6",
       "Name": "There\u0027s something in those trees",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_ID_22",
@@ -1094,9 +1099,9 @@
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -1126,9 +1131,9 @@
       "ID": "ACHIEVEMENT_ID_30",
       "SetID": "c504de6",
       "Name": "Indebted",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_ID_31",
@@ -1142,9 +1147,9 @@
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1206,9 +1211,9 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1287,14 +1292,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 209,
+      "Progressed": 210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:04:45.5314269+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:05:31.0747375+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:12.2506375+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:59:09.2009588+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:04:45.5314818+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:59:43.2907186+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:05:31.074798+00:00"
 }

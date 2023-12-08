@@ -4,8 +4,8 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -637,8 +637,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:04:54.9925696+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:05:42.8336381+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:41.6257139+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:57:15.759754+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:04:54.9926107+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:57:14.3284057+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:05:42.8336689+00:00"
 }

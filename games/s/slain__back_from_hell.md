@@ -1,12 +1,12 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.29 (Ranked 851)  
+Rating: 4.29 (Ranked 852)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 21.00% | ~8,757 |
-| A Good Day To Die | 15.00% | ~6,255 |
+| Man 'O War | 21.00% | ~8,758 |
+| A Good Day To Die | 15.00% | ~6,256 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,502 |
 | Right Back Atcha | 6.00% | ~2,502 |
 | Killed by Death | 5.00% | ~2,085 |
@@ -24,10 +24,10 @@ Rating: 4.29 (Ranked 851)
 | Start As You Mean To Go On | 0.70% | ~292 |
 | Hail the Great Horned Metal God! | 0.70% | ~292 |
 | That'll Come In Handy... | 0.70% | ~292 |
-| Four Legged Friend | 0.50% | ~208 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~208 |
-| Ice To See You | 0.50% | ~208 |
-| Smack My Imp Up | 0.50% | ~208 |
+| Four Legged Friend | 0.50% | ~209 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~209 |
+| Ice To See You | 0.50% | ~209 |
+| Smack My Imp Up | 0.50% | ~209 |
 | Vroll With It | 0.30% | ~125 |
 | Swift of Foot, Keen of Blade | 0.30% | ~125 |
 | Flame Retardant | 0.20% | ~83 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 851)
 | Heart Of Steel | 0.10% | ~42 |
 | Death or Glory | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,700 (Ranked 122)  
+Progressed: 41,704 (Ranked 122)  
 Completed: 28 (0.07%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 28 (0.07%) (Ranked 308)
 | 2023-12-05 | 41,546 | 28 |
 | 2023-12-06 | 41,593 | 28 |
 | 2023-12-07 | 41,651 | 28 |
-| 2023-12-08 | 41,700 | 28 |
+| 2023-12-08 | 41,704 | 28 |
 ## Awards
 Max (Great Boss Battles): 128  (Ranked 335)  
 Sum: 128 (Ranked 436)  

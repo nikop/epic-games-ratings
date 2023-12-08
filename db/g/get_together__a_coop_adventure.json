@@ -4,8 +4,8 @@
   "ProductSlug": "get-together-176532",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-10T13:00:00+00:00",
     "PcReleaseDate": "2021-10-14T16:00:00+00:00",
@@ -316,17 +316,17 @@
       "ID": "GT_ACH_RITUALEND",
       "SetID": "883j7b4",
       "Name": "The end is nigh!",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "GT_ACH_RITUALSYNC",
       "SetID": "883j7b4",
       "Name": "Get Together",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "GT_ACH_START",
@@ -349,8 +349,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:08:23.0674361+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:08:34.0934796+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.9688892+00:00",
-  "LastUpdate_Ratings": "2023-12-08T19:00:10.27026+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:08:23.0674474+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:01:05.584713+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:08:34.0934882+00:00"
 }

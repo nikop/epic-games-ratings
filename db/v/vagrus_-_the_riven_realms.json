@@ -2,10 +2,10 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 392,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 205,
+  "EOS_Progressed": 206,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -791,6 +791,11 @@
       "Time": "2023-12-02T11:05:25.0657103+00:00",
       "NumProgressed": 205,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T20:08:30.5919012+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -800,9 +805,9 @@
       "ID": "Vanilla_100OnACCRoll",
       "SetID": "27kik8p",
       "Name": "Randomized",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -858,7 +863,7 @@
       "Name": "Conciliator",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -1162,7 +1167,7 @@
       "Name": "Fight Another Day",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Vanilla_Forager",
@@ -1354,7 +1359,7 @@
       "Name": "Press-ganged",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1418,7 +1423,7 @@
       "Name": "A Second Chance",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1458,7 +1463,7 @@
       "Name": "Taskmaster",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Vanilla_TaxEvasion",
@@ -1482,7 +1487,7 @@
       "Name": "The Package",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1593,7 +1598,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 205,
+      "Progressed": 206,
       "Completed": 0
     }
   ],
@@ -1601,8 +1606,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:08:20.3015192+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:08:30.5919006+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:57.3657871+00:00",
-  "LastUpdate_Ratings": "2023-12-08T19:00:11.5898788+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:08:20.3016557+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:01:07.5412965+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:08:30.5919844+00:00"
 }

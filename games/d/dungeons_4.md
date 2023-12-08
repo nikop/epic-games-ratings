@@ -31,10 +31,10 @@
 | Dungeonlord Gorgu | 44.00% | ~235 |
 | Tanos' Crusade Against Thalya | 42.00% | ~225 |
 | Mana Cannon | 41.00% | ~219 |
-| All’s Well That Ends Evil | 35.00% | ~187 |
+| All’s Well That Ends Evil | 36.00% | ~193 |
 | Unstoppable Horde | 33.00% | ~177 |
+| Master of the Undead | 33.00% | ~177 |
 | The Duel | 33.00% | ~177 |
-| Master of the Undead | 32.00% | ~171 |
 | If Looks Could Kill | 29.00% | ~155 |
 | Ghost Pirates? Ghost Heroes! | 28.00% | ~150 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~144 |

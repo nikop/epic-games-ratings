@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -201,10 +201,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7572,
+  "EOS_Progressed": 7574,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 350,
-  "EOS_NewCompleters": 6,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -5906,6 +5906,11 @@
       "Time": "2023-12-08T19:09:40.1686632+00:00",
       "NumProgressed": 7572,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-08T20:10:10.63891+00:00",
+      "NumProgressed": 7574,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5998,7 +6003,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "GarbageMan",
@@ -6140,9 +6145,9 @@
       "ID": "UnResurrected",
       "SetID": "acc6ea0",
       "Name": "Un-Resurrected",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 606
+      "UsersEstimate": 530
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -6158,7 +6163,7 @@
       "Name": "Digestive Issues",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -6189,7 +6194,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7572,
+      "Progressed": 7574,
       "Completed": 15
     }
   ],
@@ -6197,8 +6202,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:09:40.1686627+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:10:10.6389095+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:57:09.0602639+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:09:40.1687272+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:57:05.3682102+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:10:10.6389637+00:00"
 }

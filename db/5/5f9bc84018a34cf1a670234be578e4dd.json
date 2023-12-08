@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -1714,9 +1714,9 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 128
     },
     {
       "ID": "Batteries",
@@ -1786,9 +1786,9 @@
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "Hologram",
@@ -1833,8 +1833,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:08:23.0785308+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:08:34.1532608+00:00",
   "LastUpdate_AppInfo": "2023-12-06T02:20:20.5878211+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:59:07.2179076+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:08:23.0785547+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:59:40.7005201+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:08:34.1532789+00:00"
 }

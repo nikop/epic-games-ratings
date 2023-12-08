@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15984,
+  "EOS_Progressed": 15985,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13349,6 +13349,11 @@
       "Time": "2023-12-08T19:04:02.2581152+00:00",
       "NumProgressed": 15984,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-08T20:04:37.5774049+00:00",
+      "NumProgressed": 15985,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13607,9 +13612,9 @@
       "ID": "32",
       "SetID": "9nnpo9n",
       "Name": "Safe Cracker",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 136
     },
     {
       "ID": "33",
@@ -13640,13 +13645,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15984,
+      "Progressed": 15985,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1938,
+      "Progressed": 1939,
       "Completed": 843
     }
   ],
@@ -13654,8 +13659,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-07T17:57:36.8969362+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:04:02.2581148+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:04:37.5774045+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:58:17.2149383+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:04:02.2582192+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:58:35.4388446+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:04:37.5774979+00:00"
 }

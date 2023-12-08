@@ -6,13 +6,13 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 29.00% | ~7 |
-| Rock of the Bay | 29.00% | ~7 |
-| Furon Fashion | 21.00% | ~5 |
-| Ducks in a Row, Fish in a Barrel | 21.00% | ~5 |
-| Shop Til They Drop | 17.00% | ~4 |
+| Mash Machine | 32.00% | ~8 |
+| Rock of the Bay | 28.00% | ~7 |
+| Furon Fashion | 20.00% | ~5 |
+| Ducks in a Row, Fish in a Barrel | 20.00% | ~5 |
+| Shop Til They Drop | 16.00% | ~4 |
+| I Look Up As I Walk to Takoshima | 12.00% | ~3 |
 | Cult Following | 8.00% | ~2 |
-| I Look Up As I Walk to Takoshima | 8.00% | ~2 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~2 |
 | Bodied Sattva | 8.00% | ~2 |
 | Perfect Probulator | 4.00% | ~1 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 | Arkvoodle Doodle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 557)  
+Progressed: 25 (Ranked 555)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-05 | 16 | 0 |
 | 2023-12-06 | 20 | 0 |
 | 2023-12-07 | 21 | 0 |
-| 2023-12-08 | 24 | 0 |
+| 2023-12-08 | 25 | 0 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 482)  
 Sum: 35 (Ranked 510)  

@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~1,451 |
-| Off to a good start | 67.00% | ~1,080 |
-| Do... or do not. There is no try | 51.00% | ~822 |
-| A good blaster at your side | 30.00% | ~484 |
-| I suggest a new strategy | 19.00% | ~306 |
-| Scrap collector | 18.00% | ~290 |
-| Great shot, kid! | 18.00% | ~290 |
-| All right, I'll give it a try | 17.00% | ~274 |
+| New Recruit | 90.00% | ~1,454 |
+| Off to a good start | 67.00% | ~1,083 |
+| Do... or do not. There is no try | 51.00% | ~824 |
+| A good blaster at your side | 30.00% | ~485 |
+| I suggest a new strategy | 19.00% | ~307 |
+| Scrap collector | 18.00% | ~291 |
+| Great shot, kid! | 18.00% | ~291 |
+| All right, I'll give it a try | 17.00% | ~275 |
+| Shoot first | 15.00% | ~242 |
 | The power of the Force | 14.00% | ~226 |
 | Collector | 14.00% | ~226 |
-| Shoot first | 14.00% | ~226 |
 | Together we can rule the galaxy | 13.00% | ~210 |
-| Tell Jabba that I've got his money | 10.00% | ~161 |
+| Tell Jabba that I've got his money | 10.00% | ~162 |
 | Best star-pilot in the galaxy | 9.00% | ~145 |
 | Survivor | 9.00% | ~145 |
 | Never tell me the odds! | 8.00% | ~129 |
@@ -28,11 +28,11 @@
 | Support the troops | 6.00% | ~97 |
 | Distinguished | 5.00% | ~81 |
 | A tremor in the Force | 5.00% | ~81 |
-| On the ball | 4.00% | ~64 |
-| Safety ain't the point of a joyride | 4.00% | ~64 |
-| Not bad for a little furball | 4.00% | ~64 |
-| Patience you must have | 4.00% | ~64 |
-| Don't underestimate the Force | 4.00% | ~64 |
+| On the ball | 4.00% | ~65 |
+| Safety ain't the point of a joyride | 4.00% | ~65 |
+| Not bad for a little furball | 4.00% | ~65 |
+| Patience you must have | 4.00% | ~65 |
+| Don't underestimate the Force | 4.00% | ~65 |
 | I've been waiting for you | 3.00% | ~48 |
 | When 900 years old you reach... | 3.00% | ~48 |
 | Your journey has only started | 3.00% | ~48 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,612 (Ranked 239)  
+Progressed: 1,616 (Ranked 239)  
 Completed: 1 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.06%) (Ranked 313)
 | 2023-12-05 | 1,589 | 1 |
 | 2023-12-06 | 1,595 | 1 |
 | 2023-12-07 | 1,604 | 1 |
-| 2023-12-08 | 1,612 | 1 |
+| 2023-12-08 | 1,616 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

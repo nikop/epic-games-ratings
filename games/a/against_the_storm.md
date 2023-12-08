@@ -19,10 +19,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 0.50% | ~88 |
 | Coral Forest | 0.50% | ~88 |
 | The Marshlands | 0.50% | ~88 |
+| The Scarlet Orchard | 0.50% | ~88 |
 | Taking Action | 0.50% | ~88 |
 | Fertile Meadows | 0.40% | ~71 |
 | Watchtower | 0.40% | ~71 |
-| The Scarlet Orchard | 0.40% | ~71 |
 | Homesick | 0.30% | ~53 |
 | Ruined Armory | 0.30% | ~53 |
 | Bandit Camp | 0.30% | ~53 |
@@ -43,6 +43,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 0.20% | ~35 |
 | Statue of the Forefathers | 0.20% | ~35 |
 | Cursed Lands | 0.20% | ~35 |
+| Into the Forest | 0.20% | ~35 |
 | Feeding The People | 0.10% | ~18 |
 | Higher Needs | 0.10% | ~18 |
 | Beaver Utopia | 0.10% | ~18 |
@@ -63,10 +64,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 | Defying the Crown | 0.10% | ~18 |
-| Into the Forest | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,687 (Ranked 146)  
+Progressed: 17,691 (Ranked 146)  
 Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 43 (0.24%) (Ranked 251)
 | 2023-12-05 | 17,618 | 49 |
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
-| 2023-12-08 | 17,687 | 44 |
+| 2023-12-08 | 17,691 | 44 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,245 (Ranked 174)  

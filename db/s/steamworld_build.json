@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -326,9 +326,9 @@
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "NothingButRoad",
@@ -398,9 +398,9 @@
       "ID": "Systematic",
       "SetID": "4bd750m",
       "Name": "Systematic",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TuttiFrutti",
@@ -445,8 +445,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:06:03.6009542+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:07:07.7030606+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:16.2831296+00:00",
-  "LastUpdate_Ratings": "2023-12-08T19:03:00.8529384+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:06:03.6009793+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:03:17.171514+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:07:07.7030782+00:00"
 }

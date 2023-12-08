@@ -139,9 +139,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.80% | ~125 |
 | Noble Difficulty | 0.80% | ~125 |
 | Cao'an | 0.80% | ~125 |
+| Learn to Play 5 | 0.80% | ~125 |
 | Kmt Unified | 0.80% | ~125 |
 | Carthage - Ox Hide | 0.70% | ~110 |
-| Learn to Play 5 | 0.70% | ~110 |
 | Old World Order | 0.70% | ~110 |
 | Cataphract Archer | 0.70% | ~110 |
 | No Undo | 0.70% | ~110 |

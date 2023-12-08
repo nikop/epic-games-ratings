@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58149,
+  "EOS_Progressed": 58152,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13776,6 +13776,11 @@
       "Time": "2023-12-08T19:05:50.0511341+00:00",
       "NumProgressed": 58149,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-08T20:06:50.7065704+00:00",
+      "NumProgressed": 58152,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -13835,7 +13840,7 @@
       "Name": "Elf Chaser",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "Explorer",
@@ -13851,7 +13856,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4070
+      "UsersEstimate": 4071
     },
     {
       "ID": "FlyingPresent",
@@ -13859,7 +13864,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2907
+      "UsersEstimate": 2908
     },
     {
       "ID": "FlyingPresentMaster",
@@ -13875,7 +13880,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "FoolMeTwice",
@@ -13883,7 +13888,7 @@
       "Name": "Fool Me Twice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "FoundAllBackers",
@@ -13947,7 +13952,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "IsThisPossible",
@@ -14019,7 +14024,7 @@
       "Name": "Old School Jammin\u0027",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "PacifistVictory",
@@ -14099,7 +14104,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2907
+      "UsersEstimate": 2908
     },
     {
       "ID": "Teamwork",
@@ -14123,7 +14128,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4070
+      "UsersEstimate": 4071
     },
     {
       "ID": "TimelySplash",
@@ -14131,7 +14136,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "TotalBummer",
@@ -14155,7 +14160,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "WhyDoIKeepDoingThat",
@@ -14178,7 +14183,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58149,
+      "Progressed": 58152,
       "Completed": 6
     }
   ],
@@ -14186,8 +14191,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:05:50.0511337+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:06:50.7065701+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:50.6046974+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:58:15.3961439+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:05:50.0512523+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:58:33.0007998+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:06:50.7066467+00:00"
 }

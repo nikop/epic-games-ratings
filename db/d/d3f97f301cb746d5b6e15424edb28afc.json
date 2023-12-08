@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -3061,9 +3061,9 @@
       "ID": "GSS_ACH_08_FUEL_03",
       "SetID": "5fn8ia4",
       "Name": "Fueling Superstar!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 916
+      "UsersEstimate": 928
     },
     {
       "ID": "GSS_ACH_09_THROW_01",
@@ -3117,9 +3117,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 846
+      "UsersEstimate": 858
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -3285,17 +3285,17 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 799
+      "UsersEstimate": 811
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 905
+      "UsersEstimate": 916
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
@@ -3333,9 +3333,9 @@
       "ID": "GSS_ACH_43_CARAVAN_02",
       "SetID": "5fn8ia4",
       "Name": "Raising the Stakes",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 505
     },
     {
       "ID": "GSS_ACH_44_CARAVAN_03",
@@ -3373,9 +3373,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 834
+      "UsersEstimate": 846
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -3662,8 +3662,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-04T17:00:39.9868842+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:04:47.0965921+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:05:33.0877787+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:57:41.5609787+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:04:47.0967163+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:57:48.2966119+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:05:33.0879146+00:00"
 }

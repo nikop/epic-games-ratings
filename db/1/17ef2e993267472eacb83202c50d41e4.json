@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8659,
+  "EOS_Progressed": 8661,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8284,6 +8284,11 @@
       "Time": "2023-12-08T19:09:53.1982847+00:00",
       "NumProgressed": 8659,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T20:10:25.9198686+00:00",
+      "NumProgressed": 8661,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8416,7 +8421,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "GamesPlayed10",
@@ -8704,7 +8709,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "NeutralKills200",
@@ -8792,7 +8797,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "SEUpgraded1",
@@ -8887,7 +8892,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8659,
+      "Progressed": 8661,
       "Completed": 1
     }
   ],
@@ -8895,8 +8900,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-05T02:57:10.0290174+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:09:53.1982843+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:10:25.9198683+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.1858441+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:59:14.5410401+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:09:53.1984044+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:59:50.4788537+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:10:25.9199539+00:00"
 }

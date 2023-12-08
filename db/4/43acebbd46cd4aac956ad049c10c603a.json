@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -213,7 +213,7 @@
   ],
   "EOS_Progressed": 898,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2390,9 +2390,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 153
     },
     {
       "ID": "LostMarshes",
@@ -2566,9 +2566,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 90
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2638,9 +2638,9 @@
       "ID": "VerdantCanyon",
       "SetID": "1n308hc",
       "Name": "Verdant Canyon",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 45
     },
     {
       "ID": "Wanderers",
@@ -2687,8 +2687,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:06:36.0576495+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:03:32.7312494+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-08T19:00:34.9188155+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:06:36.0576932+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:01:38.5884874+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:03:32.7314034+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "9a4a6536096c4307bfb235d811f754ce",
   "Name": "Neverwinter",
   "ProductSlug": "neverwinter",
-  "Ranking_Rating": 851,
+  "Ranking_Rating": 847,
   "Ranking_Popularity": 175,
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-11-10T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.3,
   "NumberOfRatings": 1084,
   "RatingHistory": [
     {
@@ -3169,6 +3169,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 2421,
       "NumberOfAwardsMax": 776
+    },
+    {
+      "Time": "2023-12-08T20:00:01.8735815+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 2421,
+      "NumberOfAwardsMax": 776
     }
   ],
   "ReviewsDisabled": false,
@@ -3254,8 +3260,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2023-12-08T16:59:26.7599314+00:00",
+  "LastChanged": "2023-12-08T20:00:01.8735814+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:19.8257128+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:59:22.9623714+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:08:24.6555184+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:00:01.8735819+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:08:36.0530276+00:00"
 }

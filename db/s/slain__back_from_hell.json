@@ -2,7 +2,7 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 851,
+  "Ranking_Rating": 852,
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 122,
@@ -244,9 +244,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 41700,
+  "EOS_Progressed": 41704,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -25484,6 +25484,11 @@
       "Time": "2023-12-08T19:05:42.7774541+00:00",
       "NumProgressed": 41700,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-08T20:06:41.190736+00:00",
+      "NumProgressed": 41704,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 29,
@@ -25495,7 +25500,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6255
+      "UsersEstimate": 6256
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -25503,7 +25508,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8757
+      "UsersEstimate": 8758
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -25575,7 +25580,7 @@
       "Name": "Four Legged Friend",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -25591,7 +25596,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -25615,7 +25620,7 @@
       "Name": "Ice To See You",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
@@ -25623,7 +25628,7 @@
       "Name": "Smack My Imp Up",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -25726,7 +25731,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41700,
+      "Progressed": 41704,
       "Completed": 28
     }
   ],
@@ -25734,8 +25739,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-08T19:05:42.7774537+00:00",
+  "LastChanged_Achievements": "2023-12-08T20:06:41.1907356+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:11.7949704+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:57:14.5159403+00:00",
-  "LastUpdate_Achievements": "2023-12-08T19:05:42.7776559+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:57:12.6555221+00:00",
+  "LastUpdate_Achievements": "2023-12-08T20:06:41.1908834+00:00"
 }
