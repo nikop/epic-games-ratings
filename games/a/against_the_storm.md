@@ -9,18 +9,18 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 3.00% | ~530 |
 | Overgrown Library | 3.00% | ~530 |
 | Petrified Necropolis | 3.00% | ~530 |
-| Frosts | 2.00% | ~353 |
-| Land of Greed | 2.00% | ~353 |
-| Ominous Presence | 2.00% | ~353 |
-| Gathering Storm | 2.00% | ~353 |
+| Frosts | 2.00% | ~354 |
+| Land of Greed | 2.00% | ~354 |
+| Ominous Presence | 2.00% | ~354 |
+| Gathering Storm | 2.00% | ~354 |
 | Untamed Wilds | 1.00% | ~177 |
+| First Real Expedition | 0.50% | ~88 |
 | Overcoming Difficulty | 0.50% | ~88 |
+| Coral Forest | 0.50% | ~88 |
 | The Marshlands | 0.50% | ~88 |
 | Taking Action | 0.50% | ~88 |
 | No Deaths | 0.50% | ~88 |
-| First Real Expedition | 0.40% | ~71 |
 | Watchtower | 0.40% | ~71 |
-| Coral Forest | 0.40% | ~71 |
 | The Scarlet Orchard | 0.40% | ~71 |
 | Homesick | 0.30% | ~53 |
 | Ruined Armory | 0.30% | ~53 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,674 (Ranked 146)  
+Progressed: 17,677 (Ranked 146)  
 Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 43 (0.24%) (Ranked 251)
 | 2023-12-05 | 17,618 | 49 |
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
-| 2023-12-08 | 17,674 | 44 |
+| 2023-12-08 | 17,677 | 44 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,244 (Ranked 174)  

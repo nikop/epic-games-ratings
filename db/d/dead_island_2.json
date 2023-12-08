@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewPlayers": 32,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7377,9 +7377,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 731791,
+  "EOS_Progressed": 731821,
   "EOS_Completed": 2466,
-  "EOS_NewPlayers": 3289,
+  "EOS_NewPlayers": 3300,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -34007,6 +34007,11 @@
       "Time": "2023-12-08T17:09:11.5650697+00:00",
       "NumProgressed": 731791,
       "NumCompleted": 2466
+    },
+    {
+      "Time": "2023-12-08T18:08:34.5435985+00:00",
+      "NumProgressed": 731821,
+      "NumCompleted": 2466
     }
   ],
   "TotalAchievements": 51,
@@ -34154,7 +34159,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5854
+      "UsersEstimate": 5855
     },
     {
       "ID": "ach_hazardous_materials",
@@ -34210,7 +34215,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5854
+      "UsersEstimate": 5855
     },
     {
       "ID": "ach_knock_down",
@@ -34322,7 +34327,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5854
+      "UsersEstimate": 5855
     },
     {
       "ID": "ach_thesacrifice",
@@ -34362,7 +34367,7 @@
       "Name": "Rising Star",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 5854
+      "UsersEstimate": 5855
     },
     {
       "ID": "ach_well_trained",
@@ -34386,7 +34391,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "ach_gardening_tools",
@@ -34402,7 +34407,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -34425,13 +34430,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 731791,
+      "Progressed": 731821,
       "Completed": 2466
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 57333,
+      "Progressed": 57363,
       "Completed": 36642
     }
   ],
@@ -34439,8 +34444,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-08T14:59:07.3726962+00:00",
-  "LastChanged_Achievements": "2023-12-08T17:09:11.5650694+00:00",
+  "LastChanged_Achievements": "2023-12-08T18:08:34.5435982+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:59:24.9744722+00:00",
-  "LastUpdate_Achievements": "2023-12-08T17:09:11.5652006+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:59:09.7035108+00:00",
+  "LastUpdate_Achievements": "2023-12-08T18:08:34.5437858+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 483,
+  "EOS_Progressed": 484,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -2086,6 +2086,11 @@
       "Time": "2023-12-08T15:09:12.0923339+00:00",
       "NumProgressed": 483,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T18:08:45.5409016+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -2273,7 +2278,7 @@
       "Name": "Shock to the System",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_SLAVING_GRACE",
@@ -2336,7 +2341,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 483,
+      "Progressed": 484,
       "Completed": 0
     }
   ],
@@ -2344,8 +2349,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-12-08T17:09:22.255624+00:00",
+  "LastChanged_Achievements": "2023-12-08T18:08:45.5409009+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:12.0355808+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:57:43.5736139+00:00",
-  "LastUpdate_Achievements": "2023-12-08T17:09:22.2556556+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:57:28.5580991+00:00",
+  "LastUpdate_Achievements": "2023-12-08T18:08:45.5409289+00:00"
 }

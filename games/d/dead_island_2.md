@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,720 |
-| Pork Chopped | 3.00% | ~1,720 |
+| Whatever It Takes | 3.00% | ~1,721 |
+| Pork Chopped | 3.00% | ~1,721 |
 | Dr. Reed, I Presume? | 2.00% | ~14,636 |
 | Git Gutte! | 2.00% | ~14,636 |
 | Bookworm | 2.00% | ~14,636 |
@@ -37,10 +37,10 @@ Rating: 4.54 (Ranked 534)
 | Max Headroom | 1.00% | ~7,318 |
 | Our True Nature | 1.00% | ~7,318 |
 | Down with the Sickness | 0.90% | ~6,586 |
-| Not Even My Final Form | 0.80% | ~5,854 |
-| Jumbo Keyring | 0.80% | ~5,854 |
-| Go, Bobcats! | 0.80% | ~5,854 |
-| Rising Star | 0.80% | ~5,854 |
+| Not Even My Final Form | 0.80% | ~5,855 |
+| Jumbo Keyring | 0.80% | ~5,855 |
+| Go, Bobcats! | 0.80% | ~5,855 |
+| Rising Star | 0.80% | ~5,855 |
 | On Safari | 0.60% | ~4,391 |
 | Smorgasbord | 0.60% | ~4,391 |
 | Internet Famous | 0.60% | ~4,391 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 534)
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,791 (Ranked 21)  
+Progressed: 731,821 (Ranked 21)  
 Completed: 2,466 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2,466 (0.34%) (Ranked 234)
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
-| 2023-12-08 | 731,791 | 2,466 |
+| 2023-12-08 | 731,821 | 2,466 |
 ## Awards
 Max (Great Boss Battles): 8,017  (Ranked 49)  
 Sum: 12,315 (Ranked 82)  

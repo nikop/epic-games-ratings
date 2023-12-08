@@ -637,9 +637,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 3990,
+  "EOS_Progressed": 3991,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8487,6 +8487,11 @@
       "Time": "2023-12-08T15:08:31.5071411+00:00",
       "NumProgressed": 3990,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-08T18:07:54.6392069+00:00",
+      "NumProgressed": 3991,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8522,7 +8527,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -8578,7 +8583,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8626,7 +8631,7 @@
       "Name": "Skirmisher",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -8714,7 +8719,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -8722,7 +8727,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8746,7 +8751,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8754,7 +8759,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -8762,7 +8767,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -8874,7 +8879,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -8890,7 +8895,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8970,7 +8975,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -9065,13 +9070,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3941,
+      "Progressed": 3942,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3990,
+      "Progressed": 3991,
       "Completed": 11
     }
   ],
@@ -9079,8 +9084,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-07T15:59:27.2603128+00:00",
-  "LastChanged_Achievements": "2023-12-08T17:08:41.46947+00:00",
+  "LastChanged_Achievements": "2023-12-08T18:07:54.6392066+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.4601542+00:00",
-  "LastUpdate_Ratings": "2023-12-08T17:00:11.3468046+00:00",
-  "LastUpdate_Achievements": "2023-12-08T17:08:41.4695482+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:59:56.3513741+00:00",
+  "LastUpdate_Achievements": "2023-12-08T18:07:54.6392888+00:00"
 }

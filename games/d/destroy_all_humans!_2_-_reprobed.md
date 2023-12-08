@@ -6,18 +6,20 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Mash Machine | 29.00% | ~7 |
 | Rock of the Bay | 29.00% | ~7 |
-| Mash Machine | 25.00% | ~6 |
 | Furon Fashion | 21.00% | ~5 |
 | Ducks in a Row, Fish in a Barrel | 21.00% | ~5 |
-| Shop Til They Drop | 13.00% | ~3 |
+| Shop Til They Drop | 17.00% | ~4 |
 | Cult Following | 8.00% | ~2 |
 | I Look Up As I Walk to Takoshima | 8.00% | ~2 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~2 |
 | Bodied Sattva | 8.00% | ~2 |
 | Lie Back and Think of Albion | 4.00% | ~1 |
+| Fly Me to the Moon Base | 4.00% | ~1 |
 | Kaijuiced | 4.00% | ~1 |
 | Die Nasty | 4.00% | ~1 |
+| Scuttled | 4.00% | ~1 |
 | Earthly Pleasures | 4.00% | ~1 |
 | Upgreatest | 4.00% | ~1 |
 | Dusted | 4.00% | ~1 |
@@ -34,12 +36,10 @@ Number of Ratings: 90  (23.09.2022)
 | Hidden Human Hive Harvest | 0.00% | ~0 |
 | Toilet Break | 0.00% | ~0 |
 | Albion Bridge Is for Falling Down | 0.00% | ~0 |
-| Fly Me to the Moon Base | 0.00% | ~0 |
 | Lobster Blisque | 0.00% | ~0 |
 | Freshly Squeezed | 0.00% | ~0 |
 | Ouch of Body Experience | 0.00% | ~0 |
 | Deincarnated | 0.00% | ~0 |
-| Scuttled | 0.00% | ~0 |
 | Yettisoned | 0.00% | ~0 |
 | The Optional Mandate | 0.00% | ~0 |
 | Higher Than the Futen Zoku | 0.00% | ~0 |

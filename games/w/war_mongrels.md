@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.20% | ~1 |
 | Challenges of Chapter XII | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 657 (Ranked 293)  
+Progressed: 657 (Ranked 294)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |

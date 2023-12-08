@@ -1267,9 +1267,9 @@
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_34",
@@ -1314,8 +1314,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-08T17:10:04.9977117+00:00",
+  "LastChanged_Achievements": "2023-12-08T18:09:27.7669627+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:12.3755943+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:58:30.83351+00:00",
-  "LastUpdate_Achievements": "2023-12-08T17:10:04.9977385+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:58:15.2724517+00:00",
+  "LastUpdate_Achievements": "2023-12-08T18:09:27.7669844+00:00"
 }

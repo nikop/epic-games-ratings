@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 910,
+  "EOS_Progressed": 911,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 5.71,
   "EosHistory": [
@@ -3670,6 +3670,11 @@
       "Time": "2023-12-08T17:05:49.0225013+00:00",
       "NumProgressed": 910,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-08T18:05:23.6934391+00:00",
+      "NumProgressed": 911,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 25,
@@ -3713,7 +3718,7 @@
       "Name": "A good beginning",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "META_HALF_LINK",
@@ -3737,7 +3742,7 @@
       "Name": "Free at last",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "META_RESULT_1-4",
@@ -3759,9 +3764,9 @@
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 100
     },
     {
       "ID": "META_RESULT_3-4",
@@ -3785,7 +3790,7 @@
       "Name": "Rascal",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -3793,7 +3798,7 @@
       "Name": "True G3M4R",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3825,7 +3830,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3833,7 +3838,7 @@
       "Name": "Scholar",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "PROGRESS_N1",
@@ -3841,7 +3846,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "PROGRESS_N2",
@@ -3865,7 +3870,7 @@
       "Name": "The darkness",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "PROGRESS_N5",
@@ -3880,14 +3885,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 910,
+      "Progressed": 911,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-08T17:05:49.0225009+00:00",
+  "LastChanged_Achievements": "2023-12-08T18:05:23.6934387+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:59:39.8597415+00:00",
-  "LastUpdate_Achievements": "2023-12-08T17:05:49.0225272+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:59:24.38195+00:00",
+  "LastUpdate_Achievements": "2023-12-08T18:05:23.6934657+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "recollection-71f3a4",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.61,
+  "EOS_Completed_Percentage": 5.56,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -579,6 +579,11 @@
       "Time": "2023-12-08T17:04:29.9552801+00:00",
       "NumProgressed": 107,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-08T18:04:05.1287658+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 26,
@@ -612,9 +617,9 @@
       "ID": "Bonus_Fragile",
       "SetID": "6j29jep",
       "Name": "Something more... (fragile)",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "Butterfly",
@@ -797,14 +802,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-12-08T17:04:29.9552797+00:00",
+  "LastChanged_Achievements": "2023-12-08T18:04:05.1287654+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:46.2082602+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:57:55.3082637+00:00",
-  "LastUpdate_Achievements": "2023-12-08T17:04:29.9552948+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:57:40.1792614+00:00",
+  "LastUpdate_Achievements": "2023-12-08T18:04:05.1287861+00:00"
 }

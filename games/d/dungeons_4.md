@@ -49,16 +49,16 @@
 | Raiders of the Lost Stone | 20.00% | ~107 |
 | The Rune Sockets of Finitude (Part 1) | 19.00% | ~102 |
 | The Rune Sockets of Finitude (Part 2) | 18.00% | ~96 |
+| The Last Stand - This Time For Real! | 17.00% | ~91 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~86 |
 | My Little Torture Chamber | 16.00% | ~86 |
 | Lavalumps on Ice! | 16.00% | ~86 |
 | Rubble and Ashes | 16.00% | ~86 |
-| The Last Stand - This Time For Real! | 16.00% | ~86 |
 | To the Max! | 14.00% | ~75 |
 | To Infinity And Beyond! | 14.00% | ~75 |
 | Mirror, Mirror | 13.00% | ~70 |
+| Evilification | 13.00% | ~70 |
 | Untouchable | 12.00% | ~64 |
-| Evilification | 12.00% | ~64 |
 | Laser Eyes Are So Useless | 10.00% | ~54 |
 | Heal Heal Blessing | 10.00% | ~54 |
 | Gorgu is in the Best of Health | 9.00% | ~48 |

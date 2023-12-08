@@ -5,53 +5,53 @@ Rating: 4.50 (Ranked 597)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,333 |
-| For Saw Gerrera | 98.00% | ~9,238 |
-| Grab Some Seat | 91.00% | ~8,579 |
-| Can You Pet the Bogling? | 87.00% | ~8,201 |
-| The Past Made Present | 83.00% | ~7,824 |
-| Survivors, We Adapt | 80.00% | ~7,542 |
-| They Never Saw It Coming | 78.00% | ~7,353 |
-| Among the Masters | 78.00% | ~7,353 |
-| Who Gives a Puck | 74.00% | ~6,976 |
-| For the Path | 67.00% | ~6,316 |
-| Now, This Isn't Podracing | 65.00% | ~6,128 |
-| Mirror Match | 64.00% | ~6,033 |
-| Skywalker | 63.00% | ~5,939 |
-| Out of Bedlam | 62.00% | ~5,845 |
-| Cleaning Up | 55.00% | ~5,185 |
-| Tanalorr Bound | 54.00% | ~5,091 |
-| Kitted Out | 53.00% | ~4,996 |
-| Tragedy | 52.00% | ~4,902 |
-| At the Precipice | 51.00% | ~4,808 |
-| Hey, Luke At Us | 50.00% | ~4,714 |
-| Into the Abyss | 49.00% | ~4,619 |
-| A Place You Could Call Home | 47.00% | ~4,431 |
-| Riposte | 47.00% | ~4,431 |
-| Greezy Money | 45.00% | ~4,242 |
-| Catch! | 41.00% | ~3,865 |
-| They're Probably Fine | 40.00% | ~3,771 |
-| Han Slowlo | 39.00% | ~3,677 |
-| There Is No Try | 38.00% | ~3,582 |
-| The Jedi Path | 33.00% | ~3,111 |
-| This Is Canon | 29.00% | ~2,734 |
-| It's a Trap | 27.00% | ~2,545 |
-| You've Got A Friend | 23.00% | ~2,168 |
+| Rooftop Duel | 99.00% | ~9,337 |
+| For Saw Gerrera | 98.00% | ~9,242 |
+| Grab Some Seat | 91.00% | ~8,582 |
+| Can You Pet the Bogling? | 87.00% | ~8,205 |
+| The Past Made Present | 83.00% | ~7,828 |
+| Survivors, We Adapt | 80.00% | ~7,545 |
+| They Never Saw It Coming | 78.00% | ~7,356 |
+| Among the Masters | 78.00% | ~7,356 |
+| Who Gives a Puck | 74.00% | ~6,979 |
+| For the Path | 67.00% | ~6,319 |
+| Now, This Isn't Podracing | 65.00% | ~6,130 |
+| Mirror Match | 64.00% | ~6,036 |
+| Skywalker | 63.00% | ~5,942 |
+| Out of Bedlam | 62.00% | ~5,847 |
+| Cleaning Up | 55.00% | ~5,187 |
+| Tanalorr Bound | 54.00% | ~5,093 |
+| Kitted Out | 53.00% | ~4,998 |
+| Tragedy | 52.00% | ~4,904 |
+| At the Precipice | 51.00% | ~4,810 |
+| Hey, Luke At Us | 50.00% | ~4,716 |
+| Into the Abyss | 49.00% | ~4,621 |
+| A Place You Could Call Home | 47.00% | ~4,433 |
+| Riposte | 47.00% | ~4,433 |
+| Greezy Money | 45.00% | ~4,244 |
+| Catch! | 41.00% | ~3,867 |
+| They're Probably Fine | 40.00% | ~3,772 |
+| Han Slowlo | 39.00% | ~3,678 |
+| There Is No Try | 38.00% | ~3,584 |
+| The Jedi Path | 33.00% | ~3,112 |
+| This Is Canon | 29.00% | ~2,735 |
+| It's a Trap | 27.00% | ~2,546 |
+| You've Got A Friend | 23.00% | ~2,169 |
 | King of the World | 17.00% | ~1,603 |
-| Max Capacity | 15.00% | ~1,414 |
-| A Presence I've Not Felt Since... | 15.00% | ~1,414 |
-| Reconnaissance | 15.00% | ~1,414 |
-| Slam Dunk | 12.00% | ~1,131 |
+| Max Capacity | 15.00% | ~1,415 |
+| A Presence I've Not Felt Since... | 15.00% | ~1,415 |
+| Reconnaissance | 15.00% | ~1,415 |
+| Slam Dunk | 12.00% | ~1,132 |
 | Star Tours | 11.00% | ~1,037 |
 | Caij Match | 10.00% | ~943 |
 | Gambler | 10.00% | ~943 |
-| Growth Spurt | 9.00% | ~848 |
+| Growth Spurt | 9.00% | ~849 |
 | I'm a Living Legend | 7.00% | ~660 |
 | Perk of the Job | 7.00% | ~660 |
 | Skoova Diving | 7.00% | ~660 |
 | Road House | 6.00% | ~566 |
-| Get Down From There | 5.00% | ~471 |
-| Intergalactic Geographic | 5.00% | ~471 |
+| Get Down From There | 5.00% | ~472 |
+| Intergalactic Geographic | 5.00% | ~472 |
 | So Uncivilized | 3.00% | ~283 |
 | One With the Force | 3.00% | ~283 |
 | Cobra Cal | 3.00% | ~283 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 597)
 | Blood, Sweat, and Tears | 3.00% | ~283 |
 | Pinpoint | 2.00% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,427 (Ranked 169)  
+Progressed: 9,431 (Ranked 169)  
 Completed: 56 (0.59%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 56 (0.59%) (Ranked 198)
 | 2023-12-05 | 9,305 | 56 |
 | 2023-12-06 | 9,349 | 56 |
 | 2023-12-07 | 9,386 | 56 |
-| 2023-12-08 | 9,427 | 56 |
+| 2023-12-08 | 9,431 | 56 |
 ## Awards
 Max (Great Boss Battles): 3,426  (Ranked 92)  
 Sum: 5,326 (Ranked 136)  

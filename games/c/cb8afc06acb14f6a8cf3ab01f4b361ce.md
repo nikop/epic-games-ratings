@@ -5,14 +5,14 @@ Rating: 4.20 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 3.00% | ~9,772 |
-| The touch of Chaos | 3.00% | ~9,772 |
-| A powerful aura was here | 2.00% | ~6,514 |
-| Let's raise the stakes!! | 1.00% | ~3,257 |
+| May the Torchbearer light our way | 3.00% | ~9,773 |
+| The touch of Chaos | 3.00% | ~9,773 |
+| A powerful aura was here | 2.00% | ~6,515 |
+| Let's raise the stakes!! | 1.00% | ~3,258 |
 | Rumors are true | 0.70% | ~2,280 |
 | Your wounds… They are healing so fast! | 0.70% | ~2,280 |
-| We'll be careful | 0.60% | ~1,954 |
-| Pride is a sin, young Knight | 0.60% | ~1,954 |
+| We'll be careful | 0.60% | ~1,955 |
+| Pride is a sin, young Knight | 0.60% | ~1,955 |
 | Back to your senses | 0.50% | ~1,629 |
 | They tricked me | 0.40% | ~1,303 |
 | We need to talk | 0.40% | ~1,303 |
@@ -24,9 +24,9 @@ Rating: 4.20 (Ranked 921)
 | This is the end | 0.30% | ~977 |
 | We can choose to fight | 0.30% | ~977 |
 | I took a risk | 0.30% | ~977 |
-| Their fate is sealed | 0.20% | ~651 |
-| Not even from this world | 0.20% | ~651 |
-| Chaos be damned! | 0.20% | ~651 |
+| Their fate is sealed | 0.20% | ~652 |
+| Not even from this world | 0.20% | ~652 |
+| Chaos be damned! | 0.20% | ~652 |
 | No damsels in distress | 0.10% | ~326 |
 | The immortal is bound to reborn | 0.10% | ~326 |
 | A legend among Chimeras | 0.10% | ~326 |
@@ -46,7 +46,7 @@ Rating: 4.20 (Ranked 921)
 | Something... unnatural | 0.10% | ~326 |
 | We strike as one | 0.10% | ~326 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325,725 (Ranked 52)  
+Progressed: 325,752 (Ranked 52)  
 Completed: 4 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 4 (0.00%) (Ranked 371)
 | 2023-12-05 | 324,515 | 4 |
 | 2023-12-06 | 324,965 | 4 |
 | 2023-12-07 | 325,394 | 4 |
-| 2023-12-08 | 325,725 | 4 |
+| 2023-12-08 | 325,752 | 4 |
 ## Awards
 Max (Great Boss Battles): 65  (Ranked 411)  
 Sum: 65 (Ranked 477)  

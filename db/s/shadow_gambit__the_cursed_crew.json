@@ -6,9 +6,9 @@
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 265,
-  "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_Completed": 104,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -137,11 +137,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1039,
+  "EOS_Progressed": 1042,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.08,
+  "EOS_Completed_Percentage": 3.07,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3482,6 +3482,11 @@
       "Time": "2023-12-08T17:06:25.4577131+00:00",
       "NumProgressed": 1039,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-08T18:06:00.2156916+00:00",
+      "NumProgressed": 1042,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3494,15 +3499,15 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 686
+      "UsersEstimate": 677
     },
     {
       "ID": "_03_FinishAct1",
@@ -3510,7 +3515,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3518,7 +3523,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "_05_FinishAct2",
@@ -3526,7 +3531,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3542,7 +3547,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "_08_Completion_10",
@@ -3550,7 +3555,7 @@
       "Name": "Swabbie",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "_09_Completion_20",
@@ -3558,7 +3563,7 @@
       "Name": "Powder Monkey",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "_10_Completion_30",
@@ -3574,7 +3579,7 @@
       "Name": "Seadog",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "_12_Completion_50",
@@ -3590,7 +3595,7 @@
       "Name": "Corsair",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "_14_Completion_70",
@@ -3622,7 +3627,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3630,7 +3635,7 @@
       "Name": "Fully Decked",
       "Percentage": 6,
       "XP": 125,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -3638,15 +3643,15 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 208
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -3686,7 +3691,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -3701,7 +3706,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1039,
+      "Progressed": 1042,
       "Completed": 32
     }
   ],
@@ -3709,8 +3714,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-07T17:58:37.8880323+00:00",
-  "LastChanged_Achievements": "2023-12-08T17:06:25.4577129+00:00",
+  "LastChanged_Achievements": "2023-12-08T18:06:00.2156908+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:59:21.4458511+00:00",
-  "LastUpdate_Achievements": "2023-12-08T17:06:25.4577402+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:59:05.5682767+00:00",
+  "LastUpdate_Achievements": "2023-12-08T18:06:00.2157195+00:00"
 }

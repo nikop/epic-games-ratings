@@ -213,7 +213,7 @@
   ],
   "EOS_Progressed": 898,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2494,9 +2494,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 153
     },
     {
       "ID": "RenaissanceRobot",
@@ -2558,9 +2558,9 @@
       "ID": "TextAdventurer",
       "SetID": "1n308hc",
       "Name": "Text Adventurer",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TheAllGifted",
@@ -2687,8 +2687,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
-  "LastChanged_Achievements": "2023-12-08T17:08:32.660936+00:00",
+  "LastChanged_Achievements": "2023-12-08T18:06:36.0576495+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-08T17:00:31.7800689+00:00",
-  "LastUpdate_Achievements": "2023-12-08T17:08:32.6609873+00:00"
+  "LastUpdate_Ratings": "2023-12-08T18:00:16.5965502+00:00",
+  "LastUpdate_Achievements": "2023-12-08T18:06:36.0576932+00:00"
 }

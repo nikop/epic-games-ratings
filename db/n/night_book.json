@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.8,
+  "EOS_Completed_Percentage": 2.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -421,6 +421,11 @@
       "Time": "2023-12-03T09:03:31.3112471+00:00",
       "NumProgressed": 250,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-08T18:05:39.0963842+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -432,15 +437,15 @@
       "Name": "A Little Extra",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "career_woman",
       "SetID": "a3kkelb",
       "Name": "Career Woman",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 163
     },
     {
       "ID": "deal_or_no_deal",
@@ -470,9 +475,9 @@
       "ID": "impress_theron",
       "SetID": "a3kkelb",
       "Name": "Impress Theron",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 118
     },
     {
       "ID": "marriage_is_off",
@@ -486,9 +491,9 @@
       "ID": "no_one_is_safe",
       "SetID": "a3kkelb",
       "Name": "No One Is Safe",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 163
     },
     {
       "ID": "off_his_meds",
@@ -512,7 +517,7 @@
       "Name": "Pearce",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "personal_life",
@@ -520,7 +525,7 @@
       "Name": "Personal Life",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "save_dad",
@@ -558,16 +563,16 @@
       "ID": "will_this_help",
       "SetID": "a3kkelb",
       "Name": "Will This Help?",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 188
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 7
     }
   ],
@@ -575,8 +580,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-08T17:06:04.3601787+00:00",
+  "LastChanged_Achievements": "2023-12-08T18:05:39.0963838+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:20.0977038+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:57:34.1227721+00:00",
-  "LastUpdate_Achievements": "2023-12-08T17:06:04.3601885+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:57:19.193935+00:00",
+  "LastUpdate_Achievements": "2023-12-08T18:05:39.0963958+00:00"
 }

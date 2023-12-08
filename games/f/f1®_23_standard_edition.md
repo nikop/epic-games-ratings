@@ -144,13 +144,13 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 6,067 | 0 |
 ## Awards
 Max (Diverse Characters): 35  (Ranked 482)  
-Sum: 177 (Ranked 414)  
+Sum: 179 (Ranked 414)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
 | This game has Diverse Characters | 35 |
-| This game has a Competitive Community | 29 |
+| This game has a Competitive Community | 31 |
 | This game is Highly Recommended | 26 |
 | This game is Extremely Fun | 25 |
 | This game is Great for Quick Sessions | 24 |
@@ -248,3 +248,4 @@ Diff (max vs sum): 68
 | 2023-12-04 | 4.68 | 32 | 151 |
 | 2023-12-05 | 4.67 | 32 | 152 |
 | 2023-12-07 | 4.68 | 35 | 177 |
+| 2023-12-08 | 4.68 | 35 | 179 |

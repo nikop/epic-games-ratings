@@ -2,7 +2,7 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 231,
   "Ranking_Popularity": 250,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 142,
@@ -2053,10 +2053,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2261,
       "NumberOfAwardsMax": 325
+    },
+    {
+      "Time": "2023-12-08T17:59:33.3364894+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2263,
+      "NumberOfAwardsMax": 325
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2261,
+  "NumberOfAwards": 2263,
   "NumberOfAwardsMax": 325,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2088,7 +2094,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 230
+      "Count": 231
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2106,7 +2112,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 242
+      "Count": 243
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2129,7 +2135,7 @@
   ],
   "EOS_Progressed": 21457,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11297,9 +11303,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-12-07T17:59:10.3824499+00:00",
-  "LastChanged_Achievements": "2023-12-08T17:04:44.2889338+00:00",
+  "LastChanged": "2023-12-08T17:59:33.3364892+00:00",
+  "LastChanged_Achievements": "2023-12-08T18:04:19.4653898+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.8912747+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:59:48.5651002+00:00",
-  "LastUpdate_Achievements": "2023-12-08T17:04:44.2889888+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:59:33.3364899+00:00",
+  "LastUpdate_Achievements": "2023-12-08T18:04:19.4654518+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -547,7 +547,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8750,
+  "EOS_Progressed": 8751,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -11792,6 +11792,11 @@
       "Time": "2023-12-08T15:05:40.2695922+00:00",
       "NumProgressed": 8750,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-08T18:05:32.9687941+00:00",
+      "NumProgressed": 8751,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -11803,7 +11808,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7262
+      "UsersEstimate": 7263
     },
     {
       "ID": "ACH02",
@@ -11835,7 +11840,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH06",
@@ -11843,7 +11848,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH07",
@@ -12034,7 +12039,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8750,
+      "Progressed": 8751,
       "Completed": 60
     }
   ],
@@ -12042,8 +12047,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-04T13:04:00.769343+00:00",
-  "LastChanged_Achievements": "2023-12-08T17:05:58.2786535+00:00",
+  "LastChanged_Achievements": "2023-12-08T18:05:32.9687936+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:15.6257409+00:00",
-  "LastUpdate_Ratings": "2023-12-08T17:00:45.8831719+00:00",
-  "LastUpdate_Achievements": "2023-12-08T17:05:58.2787262+00:00"
+  "LastUpdate_Ratings": "2023-12-08T18:00:31.5145697+00:00",
+  "LastUpdate_Achievements": "2023-12-08T18:05:32.9688727+00:00"
 }

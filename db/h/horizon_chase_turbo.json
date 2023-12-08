@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewPlayers": 36,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-06-24T15:00:00+00:00",
@@ -3145,9 +3145,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 1084186,
+  "EOS_Progressed": 1084201,
   "EOS_Completed": 503,
-  "EOS_NewPlayers": 3034,
+  "EOS_NewPlayers": 3020,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -29730,6 +29730,11 @@
       "Time": "2023-12-08T17:09:46.7812105+00:00",
       "NumProgressed": 1084186,
       "NumCompleted": 503
+    },
+    {
+      "Time": "2023-12-08T18:09:09.7470384+00:00",
+      "NumProgressed": 1084201,
+      "NumCompleted": 503
     }
   ],
   "TotalAchievements": 37,
@@ -29741,7 +29746,7 @@
       "Name": "Ghostbuster",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 368623
+      "UsersEstimate": 368628
     },
     {
       "ID": "CompleteAustralia",
@@ -29765,7 +29770,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 75893
+      "UsersEstimate": 75894
     },
     {
       "ID": "CompleteChile",
@@ -29773,7 +29778,7 @@
       "Name": "Carm\u00E9n\u00E8re Taster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 43367
+      "UsersEstimate": 43368
     },
     {
       "ID": "CompleteChina",
@@ -29797,7 +29802,7 @@
       "Name": "Volcano Surfer",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 8673
+      "UsersEstimate": 8674
     },
     {
       "ID": "CompleteIceland",
@@ -29933,7 +29938,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 119260
+      "UsersEstimate": 119262
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -29941,7 +29946,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 975767
+      "UsersEstimate": 975781
     },
     {
       "ID": "GetLotsOfScore",
@@ -29973,7 +29978,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 509567
+      "UsersEstimate": 509574
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -29981,7 +29986,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 195153
+      "UsersEstimate": 195156
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -29989,7 +29994,7 @@
       "Name": "Comeback",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 43367
+      "UsersEstimate": 43368
     },
     {
       "ID": "RunLotsOfMiles",
@@ -30005,7 +30010,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 683037
+      "UsersEstimate": 683047
     },
     {
       "ID": "WinBySmallDifference",
@@ -30013,7 +30018,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 195153
+      "UsersEstimate": 195156
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -30029,22 +30034,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 54209
+      "UsersEstimate": 54210
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1084186,
+      "Progressed": 1084201,
       "Completed": 503
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-12-08T02:26:45.3834146+00:00",
-  "LastChanged_Achievements": "2023-12-08T17:09:46.7812103+00:00",
+  "LastChanged_Achievements": "2023-12-08T18:09:09.7470381+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:34.0014831+00:00",
-  "LastUpdate_Ratings": "2023-12-08T17:03:18.0989114+00:00",
-  "LastUpdate_Achievements": "2023-12-08T17:09:46.7813437+00:00"
+  "LastUpdate_Ratings": "2023-12-08T18:02:52.2844774+00:00",
+  "LastUpdate_Achievements": "2023-12-08T18:09:09.7471722+00:00"
 }
