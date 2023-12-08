@@ -25,7 +25,7 @@
 | Bad JuJu | 27.00% | ~11 |
 | Sevenkeeps Seat of Kings | 24.00% | ~10 |
 | Castle Meldec | 22.00% | ~9 |
-| Friend of Alluvyan | 17.00% | ~7 |
+| Friend of Alluvyan | 20.00% | ~8 |
 | Friend of Gillyshire | 17.00% | ~7 |
 | Friend of Connach | 17.00% | ~7 |
 | Friend of Bastion | 17.00% | ~7 |

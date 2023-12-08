@@ -342,7 +342,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 206682,
+  "EOS_Progressed": 206684,
   "EOS_Completed": 539,
   "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 2,
@@ -25142,6 +25142,11 @@
       "Time": "2023-12-08T16:03:38.84981+00:00",
       "NumProgressed": 206682,
       "NumCompleted": 539
+    },
+    {
+      "Time": "2023-12-08T17:03:56.8162024+00:00",
+      "NumProgressed": 206684,
+      "NumCompleted": 539
     }
   ],
   "TotalAchievements": 29,
@@ -25177,7 +25182,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 194281
+      "UsersEstimate": 194283
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -25225,7 +25230,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6200
+      "UsersEstimate": 6201
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -25321,7 +25326,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6200
+      "UsersEstimate": 6201
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -25384,7 +25389,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 206682,
+      "Progressed": 206684,
       "Completed": 539
     }
   ],
@@ -25392,8 +25397,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-07T22:59:44.525088+00:00",
-  "LastChanged_Achievements": "2023-12-08T16:03:38.8498098+00:00",
+  "LastChanged_Achievements": "2023-12-08T17:03:56.816202+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:18.4469481+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:00:30.5456918+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:03:38.8499098+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:00:28.6939848+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:03:56.8163751+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 68,
+  "Ranking_Rating": 67,
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 3689,
+  "Ranking_EOS_NewCompleters": 3694,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3371,11 +3371,11 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17668,
-  "EOS_Completed": 44,
-  "EOS_NewPlayers": 119,
-  "EOS_NewCompleters": -5,
-  "EOS_Completed_Percentage": 0.25,
+  "EOS_Progressed": 17674,
+  "EOS_Completed": 43,
+  "EOS_NewPlayers": 124,
+  "EOS_NewCompleters": -6,
+  "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:44.0193336+00:00",
@@ -14996,6 +14996,11 @@
       "Time": "2023-12-08T16:04:36.2147062+00:00",
       "NumProgressed": 17668,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-08T17:04:48.4059923+00:00",
+      "NumProgressed": 17674,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15102,9 +15107,9 @@
       "ID": "WinHard",
       "SetID": "cfbk359",
       "Name": "Overcoming Difficulty",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 88
     },
     {
       "ID": "WinImpossible",
@@ -15230,9 +15235,9 @@
       "ID": "WinNearRuins",
       "SetID": "cfbk359",
       "Name": "Lost Colonies",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "WinNearStatue",
@@ -15254,9 +15259,9 @@
       "ID": "WinNearTorrent",
       "SetID": "cfbk359",
       "Name": "Corrosive Torrent",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "WinNearWatchtower",
@@ -15318,9 +15323,9 @@
       "ID": "WinVeryHard",
       "SetID": "cfbk359",
       "Name": "A Real Challenge",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "WinWIthCaches",
@@ -15479,15 +15484,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17668,
-      "Completed": 44
+      "Progressed": 17674,
+      "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-07T19:59:38.7058296+00:00",
-  "LastChanged_Achievements": "2023-12-08T16:04:36.2147059+00:00",
+  "LastChanged_Achievements": "2023-12-08T17:04:48.4059921+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:00:21.3328279+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:04:36.2148184+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:00:20.2863731+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:04:48.4061071+00:00"
 }

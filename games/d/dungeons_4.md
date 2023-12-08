@@ -17,8 +17,8 @@
 | Master of Magic | 64.00% | ~342 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~332 |
 | Magic Accidents | 59.00% | ~316 |
-| The Ascent | 58.00% | ~310 |
-| It's Warm and Cozy at Home | 58.00% | ~310 |
+| The Ascent | 59.00% | ~316 |
+| It's Warm and Cozy at Home | 59.00% | ~316 |
 | Trap Master | 56.00% | ~300 |
 | Minions, Minions! | 55.00% | ~294 |
 | The Big Eaty | 53.00% | ~284 |

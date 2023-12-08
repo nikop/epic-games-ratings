@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-14T16:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16243,
+  "EOS_Progressed": 16244,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -873,6 +873,11 @@
       "Time": "2023-12-08T15:04:11.167374+00:00",
       "NumProgressed": 16243,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T17:04:30.5532395+00:00",
+      "NumProgressed": 16244,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-12T12:03:32.4502016+00:00",
@@ -885,7 +890,7 @@
       "Name": "Unfortunate Plumber",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2436
+      "UsersEstimate": 2437
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -917,7 +922,7 @@
       "Name": "First fall",
       "Percentage": 36,
       "XP": 170,
-      "UsersEstimate": 5847
+      "UsersEstimate": 5848
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
@@ -957,7 +962,7 @@
       "Name": "Fire safety",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 9096
+      "UsersEstimate": 9097
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -1420,7 +1425,7 @@
     {
       "ID": "h261mm",
       "IsBase": true,
-      "Progressed": 16243,
+      "Progressed": 16244,
       "Completed": 0
     }
   ],
@@ -1428,8 +1433,8 @@
   "FirstSeenRating": "2023-11-17T10:00:31.8324772+00:00",
   "FirstSeenAchievements": "2023-10-12T12:03:32.4502016+00:00",
   "LastChanged": "2023-12-04T09:58:27.621085+00:00",
-  "LastChanged_Achievements": "2023-12-08T16:04:15.8225906+00:00",
+  "LastChanged_Achievements": "2023-12-08T17:04:30.5532392+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:59.6927751+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:57:24.8458933+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:04:15.8226499+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:57:43.4546936+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:04:30.5533084+00:00"
 }

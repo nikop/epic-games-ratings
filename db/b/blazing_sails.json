@@ -4,7 +4,7 @@
   "ProductSlug": "blazing-sails",
   "Ranking_Rating": 1025,
   "Ranking_Popularity": 229,
-  "Ranking_PopularitySum": 179,
+  "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 457,
@@ -2055,10 +2055,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 3049,
       "NumberOfAwardsMax": 423
+    },
+    {
+      "Time": "2023-12-08T17:00:02.8994858+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 3053,
+      "NumberOfAwardsMax": 423
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3049,
+  "NumberOfAwards": 3053,
   "NumberOfAwardsMax": 423,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2114,7 +2120,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 343
+      "Count": 347
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2135,8 +2141,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-12-08T14:59:45.1836729+00:00",
+  "LastChanged": "2023-12-08T17:00:02.8994856+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:10.0869014+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:00:01.9961676+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:09:08.2645444+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:00:02.8994865+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:09:19.7072344+00:00"
 }

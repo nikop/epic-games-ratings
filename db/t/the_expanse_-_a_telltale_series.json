@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15981,
+  "EOS_Progressed": 15982,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13334,6 +13334,11 @@
       "Time": "2023-12-08T16:04:03.3476142+00:00",
       "NumProgressed": 15981,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-08T17:04:19.1428168+00:00",
+      "NumProgressed": 15982,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13498,7 +13503,7 @@
       "Name": "Bosmang",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "28",
@@ -13602,7 +13607,7 @@
       "Name": "Zen Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "34",
@@ -13625,13 +13630,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15981,
+      "Progressed": 15982,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1935,
+      "Progressed": 1936,
       "Completed": 843
     }
   ],
@@ -13639,8 +13644,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-07T17:57:36.8969362+00:00",
-  "LastChanged_Achievements": "2023-12-08T16:04:03.3476139+00:00",
+  "LastChanged_Achievements": "2023-12-08T17:04:19.1428165+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:58:13.0493263+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:04:03.3476954+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:58:26.4671437+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:04:19.1429207+00:00"
 }

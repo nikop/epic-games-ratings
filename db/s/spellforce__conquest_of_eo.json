@@ -636,9 +636,9 @@
       "ID": "Max_Reputation_Alluvyan",
       "SetID": "7b9f97e",
       "Name": "Friend of Alluvyan",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Max_Reputation_Coldmark",
@@ -813,8 +813,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-08T16:08:47.0960299+00:00",
+  "LastChanged_Achievements": "2023-12-08T17:09:00.344464+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:11.7959747+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:57:33.1592924+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:08:47.0960731+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:57:50.7276441+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:09:00.3445089+00:00"
 }

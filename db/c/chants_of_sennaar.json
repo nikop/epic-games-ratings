@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 908,
+  "EOS_Progressed": 910,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.73,
+  "EOS_Completed_Percentage": 5.71,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3665,6 +3665,11 @@
       "Time": "2023-12-08T15:05:31.0949115+00:00",
       "NumProgressed": 908,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-08T17:05:49.0225013+00:00",
+      "NumProgressed": 910,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 25,
@@ -3724,7 +3729,7 @@
       "Name": "Open door",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3740,7 +3745,7 @@
       "Name": "Feels like springtime",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3772,7 +3777,7 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3796,7 +3801,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3804,7 +3809,7 @@
       "Name": "Fashion victim",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -3818,9 +3823,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 318
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3844,7 +3849,7 @@
       "Name": "The great escape",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "PROGRESS_N3",
@@ -3852,7 +3857,7 @@
       "Name": "A new dawn",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "PROGRESS_N4",
@@ -3875,14 +3880,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 908,
+      "Progressed": 910,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-08T16:05:43.7978392+00:00",
+  "LastChanged_Achievements": "2023-12-08T17:05:49.0225009+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:59:36.0350971+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:05:43.7978698+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:59:39.8597415+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:05:49.0225272+00:00"
 }

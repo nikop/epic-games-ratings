@@ -6,7 +6,7 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Matching | 1.00% | ~22 |
+| Matching | 1.00% | ~23 |
 | First Steps | 0.70% | ~1,685 |
 | Uncharted Territory | 0.70% | ~1,685 |
 | Not Touching You | 0.70% | ~16 |
@@ -26,8 +26,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.50% | ~1,204 |
 | Deflection | 0.50% | ~1,204 |
 | Explorer | 0.50% | ~1,204 |
+| Sneaky | 0.50% | ~1,204 |
 | An Offering | 0.50% | ~1,204 |
 | Ambitious Intent | 0.40% | ~963 |
+| Consecutive Curses | 0.40% | ~963 |
 | R.I.P | 0.40% | ~963 |
 | Dig Your Own Grave | 0.40% | ~963 |
 | Who To Trust? | 0.40% | ~963 |
@@ -39,14 +41,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shootout | 0.40% | ~963 |
 | Stone Touch | 0.40% | ~963 |
 | Toxic | 0.40% | ~963 |
-| Sneaky | 0.40% | ~963 |
 | Shadow Walker | 0.40% | ~963 |
 | Flesh Wound | 0.40% | ~963 |
 | Shapeshifting | 0.40% | ~963 |
 | Expensive Look | 0.40% | ~9 |
 | What Doesn't Kill You | 0.40% | ~9 |
 | Thank You, Friend | 0.30% | ~722 |
-| Consecutive Curses | 0.30% | ~722 |
 | Shadow Spreads | 0.30% | ~722 |
 | Max Damage! | 0.30% | ~722 |
 | To The Death! | 0.30% | ~722 |
@@ -82,8 +82,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Obsessed | 0.20% | ~482 |
 | Sentimental Value | 0.20% | ~482 |
 | Precious | 0.20% | ~482 |
-| Nuclear | 0.20% | ~4 |
-| Raw Power | 0.20% | ~4 |
+| Nuclear | 0.20% | ~5 |
+| Raw Power | 0.20% | ~5 |
 | Quick Descent | 0.10% | ~241 |
 | A Week Attempt | 0.10% | ~241 |
 | A Long Climb | 0.10% | ~241 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,770 (Ranked 64)  
+Progressed: 240,772 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,7 +377,7 @@ Completed: 292 (0.12%) (Ranked 283)
 | 2023-12-05 | 240,675 | 292 |
 | 2023-12-06 | 240,707 | 292 |
 | 2023-12-07 | 240,750 | 292 |
-| 2023-12-08 | 240,770 | 292 |
+| 2023-12-08 | 240,772 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 133)  
 Sum: 11,715 (Ranked 84)  

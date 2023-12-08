@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 570,
+  "EOS_Progressed": 571,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1832,6 +1832,11 @@
       "Time": "2023-12-08T16:08:45.3216229+00:00",
       "NumProgressed": 570,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T17:08:58.7425254+00:00",
+      "NumProgressed": 571,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1843,7 +1848,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1859,7 +1864,7 @@
       "Name": "Guardian",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -1867,7 +1872,7 @@
       "Name": "Nosebleeder",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1969,9 +1974,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 268
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2009,9 +2014,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 365
+      "UsersEstimate": 360
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2163,7 +2168,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2171,7 +2176,7 @@
       "Name": "Flower Thief",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2179,7 +2184,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2202,7 +2207,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 570,
+      "Progressed": 571,
       "Completed": 1
     }
   ],
@@ -2210,8 +2215,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-08T16:08:45.3216226+00:00",
+  "LastChanged_Achievements": "2023-12-08T17:08:58.7425252+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:58:29.1367117+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:08:45.321663+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:58:40.7562727+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:08:58.7425665+00:00"
 }

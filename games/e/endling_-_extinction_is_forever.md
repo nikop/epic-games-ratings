@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 95.00% | ~522 |
+| Home Sweet Home | 95.00% | ~523 |
 | A Friend in Need | 61.00% | ~336 |
-| Surviving | 43.00% | ~236 |
+| Surviving | 43.00% | ~237 |
 | Detox diet | 41.00% | ~226 |
-| Never Give Up | 39.00% | ~214 |
+| Never Give Up | 39.00% | ~215 |
 | Tasty | 37.00% | ~204 |
-| Lullaby | 31.00% | ~170 |
+| Lullaby | 31.00% | ~171 |
 | You Can Pet The Fox | 30.00% | ~165 |
 | Hard Fox Life | 24.00% | ~132 |
 | Never Let Down | 24.00% | ~132 |
 | A Barking Fox Doesn't Bite | 22.00% | ~121 |
 | Chicken Dinner | 21.00% | ~116 |
-| Peaceful Instinct | 19.00% | ~104 |
+| Peaceful Instinct | 19.00% | ~105 |
 | Maternity | 17.00% | ~94 |
-| Barking in The Rain | 15.00% | ~82 |
+| Barking in The Rain | 15.00% | ~83 |
 | Family Reunion | 14.00% | ~77 |
 | Beyond Words | 14.00% | ~77 |
 | Never Run Around | 13.00% | ~72 |
-| Three Little Foxes | 11.00% | ~60 |
-| Two Peas in a Pod | 11.00% | ~60 |
-| All For One | 11.00% | ~60 |
-| Extinction is Forever | 11.00% | ~60 |
+| Three Little Foxes | 11.00% | ~61 |
+| Two Peas in a Pod | 11.00% | ~61 |
+| All For One | 11.00% | ~61 |
+| Extinction is Forever | 11.00% | ~61 |
 | We Are a Family | 9.00% | ~50 |
 | Mother Love | 4.00% | ~22 |
-| For a Better Tomorrow | 3.00% | ~16 |
+| For a Better Tomorrow | 3.00% | ~17 |
 | Easter Egg | 2.00% | ~11 |
 | Omnivore | 1.00% | ~6 |
 | Endling | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 550 (Ranked 309)  
-Completed: 3 (0.55%) (Ranked 203)  
+Progressed: 551 (Ranked 309)  
+Completed: 3 (0.54%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -151,6 +151,7 @@ Completed: 3 (0.55%) (Ranked 203)
 | 2023-12-02 | 548 | 3 |
 | 2023-12-03 | 549 | 3 |
 | 2023-12-05 | 550 | 3 |
+| 2023-12-08 | 551 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

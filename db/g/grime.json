@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 441,
+  "Ranking_Rating": 440,
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 78,
@@ -1639,10 +1639,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 161696,
-  "EOS_Completed": 253,
-  "EOS_NewPlayers": 994,
-  "EOS_NewCompleters": 172,
+  "EOS_Progressed": 161709,
+  "EOS_Completed": 254,
+  "EOS_NewPlayers": 995,
+  "EOS_NewCompleters": 170,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -18449,6 +18449,11 @@
       "Time": "2023-12-08T16:03:55.2506099+00:00",
       "NumProgressed": 161696,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2023-12-08T17:04:11.6134034+00:00",
+      "NumProgressed": 161709,
+      "NumCompleted": 254
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18509,7 +18514,7 @@
       "Name": "The Hunt",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -18733,7 +18738,7 @@
       "Name": "Ravenous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -18828,21 +18833,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161279,
+      "Progressed": 161292,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 161696,
-      "Completed": 253
+      "Progressed": 161709,
+      "Completed": 254
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-07T08:02:58.4442714+00:00",
-  "LastChanged_Achievements": "2023-12-08T16:03:55.2506097+00:00",
+  "LastChanged_Achievements": "2023-12-08T17:04:11.6134031+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:51.7108111+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:02:46.0560651+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:03:55.2506934+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:03:08.3669124+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:04:11.613526+00:00"
 }

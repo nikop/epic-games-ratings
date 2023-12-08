@@ -6,7 +6,7 @@ Rating: 4.76 (Ranked 129)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,653 |
-| First Class Student | 15.00% | ~45,612 |
+| First Class Student | 15.00% | ~45,613 |
 | Troll with the Punches | 14.00% | ~42,572 |
 | A Keen Sense of Spell | 13.00% | ~39,531 |
 | That's a Keeper | 13.00% | ~39,531 |
@@ -21,8 +21,8 @@ Rating: 4.76 (Ranked 129)
 | Challenge Accepted | 11.00% | ~33,449 |
 | Followed the Butterflies | 10.00% | ~30,408 |
 | Rising From the Ashes | 10.00% | ~30,408 |
-| A Sallow Grave | 9.00% | ~27,367 |
-| The Spell Master | 9.00% | ~27,367 |
+| A Sallow Grave | 9.00% | ~27,368 |
+| The Spell Master | 9.00% | ~27,368 |
 | The Avenging Gazelle | 8.00% | ~24,327 |
 | Beast Friends | 8.00% | ~24,327 |
 | Flight the Good Flight | 8.00% | ~24,327 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 129)
 | Room with a View | 4.00% | ~12,163 |
 | The Intrepid Explorer | 4.00% | ~12,163 |
 | The Wise Owl | 4.00% | ~12,163 |
-| Put Down Roots | 3.00% | ~9,122 |
-| The Auror's Apprentice | 3.00% | ~9,122 |
-| Floo Around the World | 3.00% | ~9,122 |
+| Put Down Roots | 3.00% | ~9,123 |
+| The Auror's Apprentice | 3.00% | ~9,123 |
+| Floo Around the World | 3.00% | ~9,123 |
 | The Good Samaritan | 2.00% | ~6,082 |
 | Savvy Spender | 2.00% | ~6,082 |
 | Rise to the Challenges | 2.00% | ~6,082 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 129)
 | The Nature of the Beast | 0.70% | ~2,129 |
 | Collector's Edition | 0.40% | ~1,216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,083 (Ranked 54)  
+Progressed: 304,084 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 525 (0.17%) (Ranked 270)
 | 2023-12-05 | 303,976 | 521 |
 | 2023-12-06 | 304,019 | 523 |
 | 2023-12-07 | 304,059 | 525 |
-| 2023-12-08 | 304,083 | 525 |
+| 2023-12-08 | 304,084 | 525 |
 ## Awards
 Max (Character Customization): 25,029  (Ranked 17)  
 Sum: 50,218 (Ranked 30)  

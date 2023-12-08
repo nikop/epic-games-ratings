@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 451,
+  "EOS_Progressed": 452,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -1537,6 +1537,11 @@
       "Time": "2023-12-05T21:10:08.5367412+00:00",
       "NumProgressed": 451,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T17:10:03.442773+00:00",
+      "NumProgressed": 452,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1548,7 +1553,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "completeact2",
@@ -1564,7 +1569,7 @@
       "Name": "On the Road",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "findalltapes",
@@ -1667,7 +1672,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 451,
+      "Progressed": 452,
       "Completed": 2
     }
   ],
@@ -1675,8 +1680,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-08T16:09:55.9142541+00:00",
+  "LastChanged_Achievements": "2023-12-08T17:10:03.4427727+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:49.500918+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:58:10.3226954+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:09:55.9142687+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:58:23.9597898+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:10:03.4427886+00:00"
 }

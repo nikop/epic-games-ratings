@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7385,10 +7385,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27676,
       "NumberOfAwardsMax": 4870
+    },
+    {
+      "Time": "2023-12-08T17:03:23.1906353+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27678,
+      "NumberOfAwardsMax": 4870
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27676,
+  "NumberOfAwards": 27678,
   "NumberOfAwardsMax": 4870,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7402,7 +7408,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3963
+      "Count": 3965
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7441,9 +7447,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144290,
+  "EOS_Progressed": 144301,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 1078,
+  "EOS_NewPlayers": 1077,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -31581,6 +31587,11 @@
       "Time": "2023-12-08T16:04:50.5341164+00:00",
       "NumProgressed": 144290,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-08T17:05:01.4054584+00:00",
+      "NumProgressed": 144301,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -31744,7 +31755,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "champions01",
@@ -31760,7 +31771,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10100
+      "UsersEstimate": 10101
     },
     {
       "ID": "chest02",
@@ -31816,7 +31827,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "commonres01",
@@ -31824,7 +31835,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10100
+      "UsersEstimate": 10101
     },
     {
       "ID": "commonres02",
@@ -31856,7 +31867,7 @@
       "Name": "Disintermediation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7214
+      "UsersEstimate": 7215
     },
     {
       "ID": "craft02",
@@ -31936,7 +31947,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "energy01",
@@ -31968,7 +31979,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7214
+      "UsersEstimate": 7215
     },
     {
       "ID": "expansion02",
@@ -32064,7 +32075,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8657
+      "UsersEstimate": 8658
     },
     {
       "ID": "gold02",
@@ -32160,7 +32171,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "legenchant01",
@@ -32368,7 +32379,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7214
+      "UsersEstimate": 7215
     },
     {
       "ID": "sell02",
@@ -32408,7 +32419,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10100
+      "UsersEstimate": 10101
     },
     {
       "ID": "twinenchant01",
@@ -32487,15 +32498,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144290,
+      "Progressed": 144301,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-08T16:03:02.8825999+00:00",
-  "LastChanged_Achievements": "2023-12-08T16:04:50.5341162+00:00",
+  "LastChanged": "2023-12-08T17:03:23.190635+00:00",
+  "LastChanged_Achievements": "2023-12-08T17:05:01.4054579+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:03:02.8826004+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:04:50.5343236+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:03:23.1906358+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:05:01.4056803+00:00"
 }

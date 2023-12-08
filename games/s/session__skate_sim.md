@@ -12,9 +12,9 @@ Number of Ratings: 111  (23.09.2022)
 | The finer things in life | 20.00% | ~621 |
 | Backpacker | 15.00% | ~466 |
 | Go with the Flow | 14.00% | ~435 |
+| Plastic Surgeon | 11.00% | ~342 |
 | The flip trick crown jewel | 11.00% | ~342 |
 | Keep the dream alive | 10.00% | ~311 |
-| Plastic Surgeon | 10.00% | ~311 |
 | The hard way | 10.00% | ~311 |
 | Upfront shredder | 10.00% | ~311 |
 | Good vibes | 9.00% | ~280 |

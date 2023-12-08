@@ -6,13 +6,13 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 7.00% | ~10,100 |
-| Basic in Bulk | 7.00% | ~10,100 |
-| Titan's First Steps | 7.00% | ~10,100 |
-| Tinkle of Coins | 6.00% | ~8,657 |
-| Disintermediation | 5.00% | ~7,214 |
-| It's Free Real Estate | 5.00% | ~7,214 |
-| Capitalism Ho! | 5.00% | ~7,214 |
+| Sponsored by Argon | 7.00% | ~10,101 |
+| Basic in Bulk | 7.00% | ~10,101 |
+| Titan's First Steps | 7.00% | ~10,101 |
+| Tinkle of Coins | 6.00% | ~8,658 |
+| Disintermediation | 5.00% | ~7,215 |
+| It's Free Real Estate | 5.00% | ~7,215 |
+| Capitalism Ho! | 5.00% | ~7,215 |
 | One Easy Payment | 4.00% | ~5,772 |
 | Some Assembly Required | 4.00% | ~5,772 |
 | Another Satisfied Customer | 4.00% | ~5,772 |
@@ -109,17 +109,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | All or Nothing! | 0.70% | ~1,010 |
 | Anything not Nailed Down | 0.60% | ~866 |
 | Marvels from the World Over | 0.60% | ~866 |
-| Bane of Legends | 0.50% | ~721 |
-| Ultimate Collector | 0.50% | ~721 |
-| Unleashed Potential | 0.50% | ~721 |
-| JACKPOT!!! | 0.50% | ~721 |
+| Bane of Legends | 0.50% | ~722 |
+| Ultimate Collector | 0.50% | ~722 |
+| Unleashed Potential | 0.50% | ~722 |
+| JACKPOT!!! | 0.50% | ~722 |
 | Oligarch Monarch | 0.40% | ~577 |
 | Merchant Extraordinaire | 0.40% | ~577 |
 | To Hell and Back | 0.30% | ~433 |
 | Cash Only Please | 0.30% | ~433 |
 | Capitalist Camaraderie | 0.20% | ~289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,290 (Ranked 80)  
+Progressed: 144,301 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,17 +351,17 @@ Completed: 291 (0.20%) (Ranked 258)
 | 2023-12-05 | 143,938 | 291 |
 | 2023-12-06 | 144,049 | 291 |
 | 2023-12-07 | 144,162 | 291 |
-| 2023-12-08 | 144,290 | 291 |
+| 2023-12-08 | 144,301 | 291 |
 ## Awards
 Max (Great for Beginners): 4,870  (Ranked 75)  
-Sum: 27,676 (Ranked 50)  
+Sum: 27,678 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,870 |
 | This game is Relaxing | 4,056 |
 | This game has Quickly Understood Controls | 4,039 |
-| This game has Diverse Characters | 3,963 |
+| This game has Diverse Characters | 3,965 |
 | This game is Highly Recommended | 3,792 |
 | This game has Easy Combat | 3,739 |
 | This game has Playful Visuals | 3,217 |
@@ -680,4 +680,4 @@ Diff (max vs sum): 25
 | 2023-12-05 | 3.99 | - | 4,864 | 27,662 |
 | 2023-12-06 | 3.99 | - | 4,868 | 27,669 |
 | 2023-12-07 | 3.99 | - | 4,870 | 27,674 |
-| 2023-12-08 | 3.99 | - | 4,870 | 27,676 |
+| 2023-12-08 | 3.99 | - | 4,870 | 27,678 |

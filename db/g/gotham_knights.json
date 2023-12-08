@@ -4577,7 +4577,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77789,
+  "EOS_Progressed": 77791,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
@@ -25372,6 +25372,11 @@
       "Time": "2023-12-08T16:05:07.2104553+00:00",
       "NumProgressed": 77789,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-08T17:05:16.7289919+00:00",
+      "NumProgressed": 77791,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25471,7 +25476,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11668
+      "UsersEstimate": 11669
     },
     {
       "ID": "CHALLENGES_1",
@@ -25503,7 +25508,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10890
+      "UsersEstimate": 10891
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -25535,7 +25540,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3889
+      "UsersEstimate": 3890
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -25631,7 +25636,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10890
+      "UsersEstimate": 10891
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -25687,7 +25692,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26448
+      "UsersEstimate": 26449
     },
     {
       "ID": "HARLEY_2",
@@ -25695,7 +25700,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19447
+      "UsersEstimate": 19448
     },
     {
       "ID": "HARLEY_3",
@@ -25711,7 +25716,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12446
+      "UsersEstimate": 12447
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -25727,7 +25732,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38894
+      "UsersEstimate": 38896
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25759,7 +25764,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 21003
+      "UsersEstimate": 21004
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -25775,7 +25780,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25670
+      "UsersEstimate": 25671
     },
     {
       "ID": "MYSTERY_02",
@@ -25783,7 +25788,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18669
+      "UsersEstimate": 18670
     },
     {
       "ID": "MYSTERY_03",
@@ -25815,7 +25820,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11668
+      "UsersEstimate": 11669
     },
     {
       "ID": "MYSTERY_07",
@@ -25823,7 +25828,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10890
+      "UsersEstimate": 10891
     },
     {
       "ID": "MYSTERY_08",
@@ -25870,13 +25875,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77789,
+      "Progressed": 77791,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48069,
+      "Progressed": 48071,
       "Completed": 2675
     }
   ],
@@ -25884,8 +25889,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-08T05:59:38.4468085+00:00",
-  "LastChanged_Achievements": "2023-12-08T16:05:07.2104551+00:00",
+  "LastChanged_Achievements": "2023-12-08T17:05:16.7289917+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:00:12.1089698+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:05:07.2105836+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:00:11.7415094+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:05:16.7291214+00:00"
 }

@@ -11703,9 +11703,9 @@
       "Count": 842
     }
   ],
-  "EOS_Progressed": 304083,
+  "EOS_Progressed": 304084,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36603,6 +36603,11 @@
       "Time": "2023-12-08T16:03:57.7784881+00:00",
       "NumProgressed": 304083,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-08T17:04:13.8348118+00:00",
+      "NumProgressed": 304084,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36686,7 +36691,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27367
+      "UsersEstimate": 27368
     },
     {
       "ID": "PFA_19",
@@ -36774,7 +36779,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 9122
+      "UsersEstimate": 9123
     },
     {
       "ID": "PFA_29",
@@ -36790,7 +36795,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9122
+      "UsersEstimate": 9123
     },
     {
       "ID": "PFA_30",
@@ -36830,7 +36835,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9122
+      "UsersEstimate": 9123
     },
     {
       "ID": "PFA_35",
@@ -36918,7 +36923,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27367
+      "UsersEstimate": 27368
     },
     {
       "ID": "PFA_45",
@@ -36942,7 +36947,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45612
+      "UsersEstimate": 45613
     },
     {
       "ID": "PFA_7",
@@ -36973,7 +36978,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304083,
+      "Progressed": 304084,
       "Completed": 525
     }
   ],
@@ -36981,8 +36986,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-08T15:57:58.4120687+00:00",
-  "LastChanged_Achievements": "2023-12-08T16:03:57.7784878+00:00",
+  "LastChanged_Achievements": "2023-12-08T17:04:13.8348113+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:57:58.4120691+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:03:57.7786006+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:58:13.34354+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:04:13.8349622+00:00"
 }

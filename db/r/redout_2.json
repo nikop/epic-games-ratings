@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1177,
+  "EOS_Progressed": 1178,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1154,6 +1154,11 @@
       "Time": "2023-12-07T18:03:26.4393794+00:00",
       "NumProgressed": 1177,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T17:04:22.7409763+00:00",
+      "NumProgressed": 1178,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1261,7 +1266,7 @@
       "Name": "Martian explorer",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ALLTRACKSTARTARUS",
@@ -1483,9 +1488,9 @@
       "ID": "ONEPAINT",
       "SetID": "3dh70f3",
       "Name": "It\u0027s like an haircut",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 200
     },
     {
       "ID": "ONEPLATINUM",
@@ -1517,7 +1522,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "TENPLATINUM",
@@ -1580,7 +1585,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1177,
+      "Progressed": 1178,
       "Completed": 0
     }
   ],
@@ -1588,8 +1593,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-11-23T19:59:23.2109032+00:00",
-  "LastChanged_Achievements": "2023-12-08T16:04:07.3212142+00:00",
+  "LastChanged_Achievements": "2023-12-08T17:04:22.740976+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:13.2278064+00:00",
-  "LastUpdate_Ratings": "2023-12-08T16:02:59.4196295+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:04:07.3212692+00:00"
+  "LastUpdate_Ratings": "2023-12-08T17:03:20.3001488+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:04:22.7410207+00:00"
 }

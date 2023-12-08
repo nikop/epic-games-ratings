@@ -3,8 +3,8 @@
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 309,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 550,
+  "EOS_Progressed": 551,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.55,
+  "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:20.8598224+00:00",
@@ -939,6 +939,11 @@
       "Time": "2023-12-05T02:05:32.7019434+00:00",
       "NumProgressed": 550,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-08T17:10:05.2984221+00:00",
+      "NumProgressed": 551,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -966,7 +971,7 @@
       "Name": "Three Little Foxes",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "TROP003",
@@ -974,7 +979,7 @@
       "Name": "Two Peas in a Pod",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "TROP004",
@@ -982,7 +987,7 @@
       "Name": "All For One",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "TROP005",
@@ -1014,7 +1019,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "TROP009",
@@ -1022,7 +1027,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "TROP010",
@@ -1038,7 +1043,7 @@
       "Name": "Extinction is Forever",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "TROP012",
@@ -1046,7 +1051,7 @@
       "Name": "Never Give Up",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "TROP013",
@@ -1070,7 +1075,7 @@
       "Name": "For a Better Tomorrow",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TROP016",
@@ -1102,7 +1107,7 @@
       "Name": "Barking in The Rain",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "TROP020",
@@ -1110,7 +1115,7 @@
       "Name": "Peaceful Instinct",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "TROP021",
@@ -1158,7 +1163,7 @@
       "Name": "Lullaby",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "TROP027",
@@ -1173,7 +1178,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 550,
+      "Progressed": 551,
       "Completed": 3
     }
   ],
@@ -1181,8 +1186,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-12-08T16:09:57.998604+00:00",
+  "LastChanged_Achievements": "2023-12-08T17:10:05.2984219+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:54.3237808+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:58:17.9643473+00:00",
-  "LastUpdate_Achievements": "2023-12-08T16:09:57.9986227+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:58:30.8336876+00:00",
+  "LastUpdate_Achievements": "2023-12-08T17:10:05.29844+00:00"
 }

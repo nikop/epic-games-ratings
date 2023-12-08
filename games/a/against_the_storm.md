@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 68)  
+Rating: 4.82 (Ranked 67)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,11 +14,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 2.00% | ~353 |
 | Gathering Storm | 2.00% | ~353 |
 | Untamed Wilds | 1.00% | ~177 |
+| Overcoming Difficulty | 0.50% | ~88 |
 | The Marshlands | 0.50% | ~88 |
 | Taking Action | 0.50% | ~88 |
 | No Deaths | 0.50% | ~88 |
 | First Real Expedition | 0.40% | ~71 |
-| Overcoming Difficulty | 0.40% | ~71 |
 | Watchtower | 0.40% | ~71 |
 | Coral Forest | 0.40% | ~71 |
 | The Scarlet Orchard | 0.40% | ~71 |
@@ -30,6 +30,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 0.30% | ~53 |
 | Monastery of the Holy Flame | 0.30% | ~53 |
 | Royal Outpost | 0.30% | ~53 |
+| Lost Colonies | 0.30% | ~53 |
+| Corrosive Torrent | 0.30% | ~53 |
+| A Real Challenge | 0.30% | ~53 |
 | Trade Baron | 0.30% | ~53 |
 | Fox Utopia | 0.30% | ~53 |
 | Serving Ale | 0.20% | ~35 |
@@ -38,11 +41,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 0.20% | ~35 |
 | Levitating Monument | 0.20% | ~35 |
 | Flooded Mines | 0.20% | ~35 |
-| Lost Colonies | 0.20% | ~35 |
 | Statue of the Forefathers | 0.20% | ~35 |
-| Corrosive Torrent | 0.20% | ~35 |
 | Cursed Lands | 0.20% | ~35 |
-| A Real Challenge | 0.20% | ~35 |
 | Feeding The People | 0.10% | ~18 |
 | Higher Needs | 0.10% | ~18 |
 | Beaver Utopia | 0.10% | ~18 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,668 (Ranked 146)  
-Completed: 44 (0.25%) (Ranked 251)  
+Progressed: 17,674 (Ranked 146)  
+Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -298,7 +298,7 @@ Completed: 44 (0.25%) (Ranked 251)
 | 2023-12-05 | 17,618 | 49 |
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
-| 2023-12-08 | 17,668 | 44 |
+| 2023-12-08 | 17,674 | 44 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,244 (Ranked 174)  
