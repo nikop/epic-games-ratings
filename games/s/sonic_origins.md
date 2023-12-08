@@ -15,8 +15,8 @@ Number of Ratings: 154  (23.09.2022)
 | Time Traveler | 65.00% | ~415 |
 | Everyone's Hero | 62.00% | ~396 |
 | Easy Peasy with Shields | 58.00% | ~371 |
+| Bubbly Breath | 57.00% | ~364 |
 | Gallant Spin Dash | 57.00% | ~364 |
-| Bubbly Breath | 56.00% | ~358 |
 | Knuckles the Echidna | 56.00% | ~358 |
 | Miles "Tails" Prower | 55.00% | ~351 |
 | Boss Rush Attempt | 49.00% | ~313 |

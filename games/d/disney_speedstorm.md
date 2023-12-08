@@ -5,8 +5,8 @@ Rating: 4.39 (Ranked 753)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~39,671 |
-| IT MAKES BOOM! | 7.00% | ~23,141 |
+| ROOKIE | 12.00% | ~39,673 |
+| IT MAKES BOOM! | 7.00% | ~23,143 |
 | EXTRA BOOST | 5.00% | ~16,530 |
 | PROTECTED | 4.00% | ~13,224 |
 | PRO | 4.00% | ~13,224 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 753)
 | ACE TRICKSTER | 0.40% | ~1,322 |
 | PERFECTLY POISED | 0.30% | ~992 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330,592 (Ranked 50)  
+Progressed: 330,610 (Ranked 50)  
 Completed: 509 (0.15%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 509 (0.15%) (Ranked 274)
 | 2023-12-05 | 328,188 | 482 |
 | 2023-12-06 | 329,171 | 498 |
 | 2023-12-07 | 330,196 | 508 |
-| 2023-12-08 | 330,592 | 509 |
+| 2023-12-08 | 330,610 | 509 |
 ## Awards
 Max (Great for Beginners): 112  (Ranked 350)  
 Sum: 798 (Ranked 284)  

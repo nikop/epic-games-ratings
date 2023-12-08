@@ -2,7 +2,7 @@
   "ID": "8211dc6089af4542926b7a8137b9079e",
   "Name": "Black Book",
   "ProductSlug": "black-book",
-  "Ranking_Rating": 316,
+  "Ranking_Rating": 315,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 108,
@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 58586,
+  "EOS_Progressed": 58589,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 1500,
+  "EOS_NewPlayers": 1495,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12448,6 +12448,11 @@
       "Time": "2023-12-08T08:08:32.6845646+00:00",
       "NumProgressed": 58586,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-08T09:07:52.3363981+00:00",
+      "NumProgressed": 58589,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -12532,7 +12537,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6444
+      "UsersEstimate": 6445
     },
     {
       "ID": "DEAD_MAN",
@@ -12572,7 +12577,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 12889
+      "UsersEstimate": 12890
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -12580,7 +12585,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6444
+      "UsersEstimate": 6445
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -12612,7 +12617,7 @@
       "Name": "Righteous",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "GREAT_SORCERER",
@@ -12660,7 +12665,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 16404
+      "UsersEstimate": 16405
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -12692,7 +12697,7 @@
       "Name": "Musician",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "NEW_SPIRITS",
@@ -12708,7 +12713,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7030
+      "UsersEstimate": 7031
     },
     {
       "ID": "NORMAL_END",
@@ -12716,7 +12721,7 @@
       "Name": "Koldun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "OLD_SPIRITS",
@@ -12859,15 +12864,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 58586,
+      "Progressed": 58589,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-08T08:08:32.6845643+00:00",
+  "LastChanged_Achievements": "2023-12-08T09:07:52.3363977+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.6045759+00:00",
-  "LastUpdate_Ratings": "2023-12-08T07:58:43.7129598+00:00",
-  "LastUpdate_Achievements": "2023-12-08T08:08:32.6846982+00:00"
+  "LastUpdate_Ratings": "2023-12-08T08:58:43.7088444+00:00",
+  "LastUpdate_Achievements": "2023-12-08T09:07:52.3364714+00:00"
 }

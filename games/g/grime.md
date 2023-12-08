@@ -12,6 +12,7 @@ Number of Ratings: 46  (23.09.2022)
 | Weeper | 0.40% | ~647 |
 | Ravenous | 0.40% | ~647 |
 | Harmless | 0.20% | ~323 |
+| Jawstag | 0.20% | ~323 |
 | Feast | 0.20% | ~323 |
 | Silenced Whispers | 0.20% | ~323 |
 | Devourer | 0.20% | ~323 |
@@ -32,7 +33,6 @@ Number of Ratings: 46  (23.09.2022)
 | Host | 0.10% | ~161 |
 | Hush | 0.10% | ~162 |
 | Jawcrab | 0.10% | ~162 |
-| Jawstag | 0.10% | ~162 |
 | Celebration | 0.10% | ~162 |
 | Inevitable | 0.10% | ~162 |
 | Watcher | 0.10% | ~162 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~161 |
 | Intensify | 0.10% | ~161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 161,652 (Ranked 78)  
+Progressed: 161,657 (Ranked 78)  
 Completed: 249 (0.15%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 249 (0.15%) (Ranked 274)
 | 2023-12-05 | 161,376 | 205 |
 | 2023-12-06 | 161,491 | 218 |
 | 2023-12-07 | 161,604 | 237 |
-| 2023-12-08 | 161,652 | 249 |
+| 2023-12-08 | 161,657 | 249 |
 ## Awards
 Max (Unique Visuals): 55  (Ranked 423)  
 Sum: 398 (Ranked 346)  

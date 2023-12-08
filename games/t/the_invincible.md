@@ -16,7 +16,7 @@
 | Krauta is alive | 22.00% | ~116 |
 | Peacemaker | 21.00% | ~111 |
 | Volcanologist | 20.00% | ~105 |
-| On her own | 17.00% | ~90 |
+| On her own | 18.00% | ~95 |
 | Beyond divisions | 17.00% | ~90 |
 | Evacuation | 16.00% | ~84 |
 | Fierce fight | 15.00% | ~79 |

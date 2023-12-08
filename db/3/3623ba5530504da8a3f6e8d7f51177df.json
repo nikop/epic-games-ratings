@@ -2,9 +2,9 @@
   "ID": "3623ba5530504da8a3f6e8d7f51177df",
   "Name": "Mediterranea Inferno",
   "ProductSlug": "mediterranea-inferno-6a1352",
-  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewPlayers": 460,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -136,8 +136,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-21T09:07:01.6731758+00:00",
-  "LastChanged_Achievements": "2023-12-08T08:08:54.7238027+00:00",
+  "LastChanged_Achievements": "2023-12-08T09:08:32.9595136+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:06.2924713+00:00",
-  "LastUpdate_Ratings": "2023-12-08T08:00:53.9200816+00:00",
-  "LastUpdate_Achievements": "2023-12-08T08:08:54.7238088+00:00"
+  "LastUpdate_Ratings": "2023-12-08T09:00:46.5172379+00:00",
+  "LastUpdate_Achievements": "2023-12-08T09:08:32.9595228+00:00"
 }

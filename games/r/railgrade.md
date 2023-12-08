@@ -5,30 +5,30 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 105.00% | ~19,167 |
-| Before the Downfall | 100.00% | ~18,254 |
-| Money like Water | 98.00% | ~17,889 |
-| Minimalist | 96.00% | ~17,524 |
-| Builder | 89.00% | ~16,246 |
+| Trevithick's Legacy | 105.00% | ~19,166 |
+| Before the Downfall | 100.00% | ~18,253 |
+| Money like Water | 98.00% | ~17,888 |
+| Minimalist | 96.00% | ~17,523 |
+| Builder | 89.00% | ~16,245 |
 | Eraser | 75.00% | ~13,690 |
-| Pocket of Trains | 70.00% | ~12,778 |
-| Inspector | 63.00% | ~11,500 |
+| Pocket of Trains | 70.00% | ~12,777 |
+| Inspector | 63.00% | ~11,499 |
 | Going the Distance | 58.00% | ~10,587 |
 | Oil Baron | 45.00% | ~8,214 |
 | Loads-a-Money | 45.00% | ~8,214 |
-| Helper of the People | 42.00% | ~7,667 |
+| Helper of the People | 42.00% | ~7,666 |
 | Simplification | 36.00% | ~6,571 |
 | Box of Trains | 36.00% | ~6,571 |
 | Let There be Light | 35.00% | ~6,389 |
-| Hot Water | 33.00% | ~6,024 |
-| Indecisive | 31.00% | ~5,659 |
+| Hot Water | 33.00% | ~6,023 |
+| Indecisive | 31.00% | ~5,658 |
 | The scenic route | 30.00% | ~5,476 |
-| Industrialist | 27.00% | ~4,929 |
-| Perfectionist | 25.00% | ~4,564 |
-| Trains over Pipes | 25.00% | ~4,564 |
+| Industrialist | 27.00% | ~4,928 |
+| Perfectionist | 25.00% | ~4,563 |
+| Trains over Pipes | 25.00% | ~4,563 |
 | 8K is Enough for Everyone | 24.00% | ~4,381 |
 | Man of Steel | 18.00% | ~3,286 |
-| Room Full of Trains | 14.00% | ~2,556 |
+| Room Full of Trains | 14.00% | ~2,555 |
 | Investor | 11.00% | ~2,008 |
 | Multiverse | 8.00% | ~1,460 |
 | The poor groundwater levels | 8.00% | ~1,460 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 512)
 | Overdeer | 0.60% | ~110 |
 | Cloud Services | 0.30% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,254 (Ranked 145)  
+Progressed: 18,253 (Ranked 145)  
 Completed: 27 (0.15%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 78.00% | ~43 |
+| Mathematic | 80.00% | ~44 |
 | It's Yours, My Friend | 60.00% | ~33 |
 | Going Places | 58.00% | ~32 |
 | Digging a Hole | 55.00% | ~30 |

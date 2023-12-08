@@ -6,33 +6,33 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,572 |
-| Skillful | 2.00% | ~21,572 |
-| Handyman | 1.00% | ~10,786 |
-| Zealous | 1.00% | ~10,786 |
-| Not half bad | 1.00% | ~10,786 |
-| Apt Survivor | 1.00% | ~10,786 |
-| Survival Treasures | 1.00% | ~10,786 |
-| I | 1.00% | ~10,786 |
-| Sorted | 1.00% | ~10,786 |
-| Make Some Noise | 1.00% | ~10,786 |
-| No one left behind | 0.90% | ~9,707 |
-| Medic | 0.90% | ~9,707 |
-| Healthy Obsession | 0.90% | ~9,707 |
-| Resurgence | 0.90% | ~9,707 |
-| Preemptive Strike | 0.90% | ~9,707 |
+| It wakes | 2.00% | ~21,573 |
+| Skillful | 2.00% | ~21,573 |
+| Handyman | 1.00% | ~10,787 |
+| Zealous | 1.00% | ~10,787 |
+| Not half bad | 1.00% | ~10,787 |
+| Apt Survivor | 1.00% | ~10,787 |
+| Survival Treasures | 1.00% | ~10,787 |
+| I | 1.00% | ~10,787 |
+| Sorted | 1.00% | ~10,787 |
+| Make Some Noise | 1.00% | ~10,787 |
+| No one left behind | 0.90% | ~9,708 |
+| Medic | 0.90% | ~9,708 |
+| Healthy Obsession | 0.90% | ~9,708 |
+| Resurgence | 0.90% | ~9,708 |
+| Preemptive Strike | 0.90% | ~9,708 |
 | The Grand Sacrifice | 0.80% | ~8,629 |
 | Perfect Escape | 0.80% | ~8,629 |
 | Bloody Millionaire | 0.80% | ~8,629 |
 | Humanitarian | 0.80% | ~8,629 |
-| Agonizing Escape | 0.70% | ~7,550 |
-| Backdoor Escape | 0.70% | ~7,550 |
-| I've got your back | 0.70% | ~7,550 |
-| Perfect Killing | 0.70% | ~7,550 |
-| Risk it all | 0.70% | ~7,550 |
-| II | 0.70% | ~7,550 |
-| Engineer | 0.70% | ~7,550 |
-| Close Shave | 0.70% | ~7,550 |
+| Agonizing Escape | 0.70% | ~7,551 |
+| Backdoor Escape | 0.70% | ~7,551 |
+| I've got your back | 0.70% | ~7,551 |
+| Perfect Killing | 0.70% | ~7,551 |
+| Risk it all | 0.70% | ~7,551 |
+| II | 0.70% | ~7,551 |
+| Engineer | 0.70% | ~7,551 |
+| Close Shave | 0.70% | ~7,551 |
 | Apt Killer | 0.60% | ~6,472 |
 | III | 0.60% | ~6,472 |
 | Wounded Healer | 0.60% | ~6,472 |
@@ -43,22 +43,22 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 0.50% | ~5,393 |
 | Lifting The Fog | 0.50% | ~5,393 |
 | Second Act | 0.50% | ~5,393 |
-| Blood on your hands | 0.40% | ~4,314 |
-| Nerves of steel | 0.40% | ~4,314 |
-| Gifts for the Fog | 0.40% | ~4,314 |
-| III-50 | 0.40% | ~4,314 |
-| Item of Obsession | 0.40% | ~4,314 |
-| Holiday Get-Together | 0.40% | ~4,314 |
-| Near-Death Experience | 0.40% | ~4,314 |
-| Cherish your Life | 0.40% | ~4,314 |
-| Unforgettable Getaway | 0.40% | ~4,314 |
-| Cutting Out | 0.40% | ~4,314 |
-| Old West Oasis | 0.40% | ~4,314 |
-| Classy Act | 0.40% | ~4,314 |
-| Every Last Drop | 0.40% | ~4,314 |
-| Raccoon City Recruit | 0.40% | ~4,314 |
-| Flight to Freedom | 0.40% | ~4,314 |
-| Chorus of Chaos | 0.40% | ~4,314 |
+| Blood on your hands | 0.40% | ~4,315 |
+| Nerves of steel | 0.40% | ~4,315 |
+| Gifts for the Fog | 0.40% | ~4,315 |
+| III-50 | 0.40% | ~4,315 |
+| Item of Obsession | 0.40% | ~4,315 |
+| Holiday Get-Together | 0.40% | ~4,315 |
+| Near-Death Experience | 0.40% | ~4,315 |
+| Cherish your Life | 0.40% | ~4,315 |
+| Unforgettable Getaway | 0.40% | ~4,315 |
+| Cutting Out | 0.40% | ~4,315 |
+| Old West Oasis | 0.40% | ~4,315 |
+| Classy Act | 0.40% | ~4,315 |
+| Every Last Drop | 0.40% | ~4,315 |
+| Raccoon City Recruit | 0.40% | ~4,315 |
+| Flight to Freedom | 0.40% | ~4,315 |
+| Chorus of Chaos | 0.40% | ~4,315 |
 | A bite for the Entity | 0.30% | ~3,236 |
 | Blood on your face | 0.30% | ~3,236 |
 | Made it out alive! | 0.30% | ~3,236 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,079 |
 | Adept Good Guy | 0.10% | ~1,079 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,078,609 (Ranked 14)  
+Progressed: 1,078,655 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -471,7 +471,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
 | 2023-12-07 | 1,077,876 | 61 |
-| 2023-12-08 | 1,078,609 | 61 |
+| 2023-12-08 | 1,078,655 | 61 |
 ## Awards
 Max (Diverse Characters): 37,508  (Ranked 15)  
 Sum: 284,404 (Ranked 12)  

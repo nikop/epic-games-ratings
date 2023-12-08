@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 21,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewPlayers": 460,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-04-28T16:00:00+00:00",
@@ -13735,11 +13735,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 85168,
       "NumberOfAwardsMax": 12840
+    },
+    {
+      "Time": "2023-12-08T09:00:58.900513+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 85232,
+      "NumberOfAwardsMax": 12872
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 85168,
-  "NumberOfAwardsMax": 12840,
+  "NumberOfAwards": 85232,
+  "NumberOfAwardsMax": 12872,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -13752,7 +13758,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 10575
+      "Count": 10590
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13764,7 +13770,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 12840
+      "Count": 12872
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -13788,7 +13794,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7459
+      "Count": 7476
     },
     {
       "Text": "This game has Amazing Characters",
@@ -13814,8 +13820,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-12-07T22:00:37.837923+00:00",
+  "LastChanged": "2023-12-08T09:00:58.9005128+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:09.2915914+00:00",
-  "LastUpdate_Ratings": "2023-12-08T08:01:07.149809+00:00",
-  "LastUpdate_Achievements": "2023-12-08T08:05:52.2864338+00:00"
+  "LastUpdate_Ratings": "2023-12-08T09:00:58.9005136+00:00",
+  "LastUpdate_Achievements": "2023-12-08T09:05:21.6440077+00:00"
 }

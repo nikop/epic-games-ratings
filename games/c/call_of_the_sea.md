@@ -5,27 +5,27 @@ Rating: 4.40 (Ranked 741)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~106,596 |
-| 74 miles East of Otaheité | 56.00% | ~74,617 |
-| Interesting... | 42.00% | ~55,963 |
-| The Everhart Expedition | 40.00% | ~53,298 |
-| Halfway there | 30.00% | ~39,974 |
-| The Vanishing of the Lady Shannon | 30.00% | ~39,974 |
-| Seaside Serenade | 30.00% | ~39,974 |
-| A brigantine, a brig and a barque | 28.00% | ~37,309 |
-| 506 East Hampden Avenue | 28.00% | ~37,309 |
-| Weekend at Walakea's | 27.00% | ~35,976 |
-| Quite a Show | 27.00% | ~35,976 |
-| Dark Water Ride | 25.00% | ~33,311 |
-| Sunken | 25.00% | ~33,311 |
-| Deep Cut | 24.00% | ~31,979 |
-| FHALGOF'N' | 23.00% | ~30,646 |
-| Marsh Cannery | 21.00% | ~27,981 |
-| Greetings from Y'ha-nthlei! | 18.00% | ~23,984 |
+| A Family Heirloom | 80.00% | ~106,599 |
+| 74 miles East of Otaheité | 56.00% | ~74,619 |
+| Interesting... | 42.00% | ~55,965 |
+| The Everhart Expedition | 40.00% | ~53,300 |
+| Halfway there | 30.00% | ~39,975 |
+| The Vanishing of the Lady Shannon | 30.00% | ~39,975 |
+| Seaside Serenade | 30.00% | ~39,975 |
+| A brigantine, a brig and a barque | 28.00% | ~37,310 |
+| 506 East Hampden Avenue | 28.00% | ~37,310 |
+| Weekend at Walakea's | 27.00% | ~35,977 |
+| Quite a Show | 27.00% | ~35,977 |
+| Dark Water Ride | 25.00% | ~33,312 |
+| Sunken | 25.00% | ~33,312 |
+| Deep Cut | 24.00% | ~31,980 |
+| FHALGOF'N' | 23.00% | ~30,647 |
+| Marsh Cannery | 21.00% | ~27,982 |
+| Greetings from Y'ha-nthlei! | 18.00% | ~23,985 |
 | The only thing I have now | 17.00% | ~22,652 |
-| Naacalvision | 16.00% | ~21,319 |
+| Naacalvision | 16.00% | ~21,320 |
 | Not Another Boring Slideshow! | 15.00% | ~19,987 |
-| The Norahnomicon | 10.00% | ~13,324 |
+| The Norahnomicon | 10.00% | ~13,325 |
 | I'll make a note of that... | 9.00% | ~11,992 |
 | Written in Stone | 7.00% | ~9,327 |
 | Play it again, Norah | 7.00% | ~9,327 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 741)
 | Gently down the stream... | 1.00% | ~1,332 |
 | Meta-reference | 1.00% | ~1,332 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,245 (Ranked 82)  
+Progressed: 133,249 (Ranked 82)  
 Completed: 1,181 (0.89%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 1,181 (0.89%) (Ranked 176)
 | 2023-12-05 | 132,975 | 1,174 |
 | 2023-12-06 | 133,100 | 1,176 |
 | 2023-12-07 | 133,215 | 1,178 |
-| 2023-12-08 | 133,245 | 1,181 |
+| 2023-12-08 | 133,249 | 1,181 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

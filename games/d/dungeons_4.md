@@ -32,9 +32,9 @@
 | Mana Cannon | 41.00% | ~219 |
 | Tanos' Crusade Against Thalya | 41.00% | ~219 |
 | All’s Well That Ends Evil | 35.00% | ~187 |
+| The Duel | 33.00% | ~177 |
 | Unstoppable Horde | 32.00% | ~171 |
 | Master of the Undead | 32.00% | ~171 |
-| The Duel | 32.00% | ~171 |
 | If Looks Could Kill | 29.00% | ~155 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~144 |
 | Forbidden Knowledge | 27.00% | ~144 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -201,9 +201,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7547,
+  "EOS_Progressed": 7548,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5856,6 +5856,11 @@
       "Time": "2023-12-08T08:10:14.9110615+00:00",
       "NumProgressed": 7547,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-08T09:09:48.2996948+00:00",
+      "NumProgressed": 7548,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5876,7 +5881,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "BeLikeWater",
@@ -6139,7 +6144,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7547,
+      "Progressed": 7548,
       "Completed": 15
     }
   ],
@@ -6147,8 +6152,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-08T08:10:14.9110612+00:00",
+  "LastChanged_Achievements": "2023-12-08T09:09:48.2996945+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-08T08:01:40.8473427+00:00",
-  "LastUpdate_Achievements": "2023-12-08T08:10:14.9111251+00:00"
+  "LastUpdate_Ratings": "2023-12-08T09:01:30.2854387+00:00",
+  "LastUpdate_Achievements": "2023-12-08T09:09:48.2997326+00:00"
 }

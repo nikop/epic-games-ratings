@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64588,
+  "EOS_Progressed": 64595,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 3393,
+  "EOS_NewPlayers": 3382,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2757,6 +2757,11 @@
       "Time": "2023-12-08T08:06:36.3431638+00:00",
       "NumProgressed": 64588,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-08T09:06:03.2813915+00:00",
+      "NumProgressed": 64595,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2769,7 +2774,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 23898
+      "UsersEstimate": 23900
     },
     {
       "ID": "Achievement_10",
@@ -2857,7 +2862,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17439
+      "UsersEstimate": 17441
     },
     {
       "ID": "Achievement_20",
@@ -2993,7 +2998,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5167
+      "UsersEstimate": 5168
     },
     {
       "ID": "Achievement_5",
@@ -3001,7 +3006,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3875
+      "UsersEstimate": 3876
     },
     {
       "ID": "Achievement_6",
@@ -3040,7 +3045,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 64588,
+      "Progressed": 64595,
       "Completed": 61
     }
   ],
@@ -3048,8 +3053,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-07T23:02:46.2416558+00:00",
-  "LastChanged_Achievements": "2023-12-08T08:06:36.3431632+00:00",
+  "LastChanged_Achievements": "2023-12-08T09:06:03.2813912+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-08T08:03:14.9671033+00:00",
-  "LastUpdate_Achievements": "2023-12-08T08:06:36.3432096+00:00"
+  "LastUpdate_Ratings": "2023-12-08T09:02:51.457593+00:00",
+  "LastUpdate_Achievements": "2023-12-08T09:06:03.2814231+00:00"
 }

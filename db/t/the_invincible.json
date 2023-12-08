@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1536,9 +1536,9 @@
       "ID": "AchvAssertive",
       "SetID": "1hj060c",
       "Name": "On her own",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 95
     },
     {
       "ID": "AchvBattleScore",
@@ -1759,8 +1759,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-08T08:09:26.9635534+00:00",
+  "LastChanged_Achievements": "2023-12-08T09:09:03.0739764+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-08T08:00:44.4730308+00:00",
-  "LastUpdate_Achievements": "2023-12-08T08:09:26.9635839+00:00"
+  "LastUpdate_Ratings": "2023-12-08T09:00:37.8032734+00:00",
+  "LastUpdate_Achievements": "2023-12-08T09:09:03.0739976+00:00"
 }

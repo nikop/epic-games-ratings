@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -777,9 +777,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3340,
+  "EOS_Progressed": 3341,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4052,6 +4052,11 @@
       "Time": "2023-12-08T07:03:38.1319101+00:00",
       "NumProgressed": 3340,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T09:03:52.8542737+00:00",
+      "NumProgressed": 3341,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4429,9 +4434,9 @@
       "ID": "NexusCompleted",
       "SetID": "3jha1np",
       "Name": "A Foul Creche",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 134
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -4606,21 +4611,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3340,
+      "Progressed": 3341,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3340,
+      "Progressed": 3341,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-05T21:03:07.2587632+00:00",
-  "LastChanged_Achievements": "2023-12-08T08:04:18.6501331+00:00",
+  "LastChanged_Achievements": "2023-12-08T09:03:52.8542733+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:12.7786681+00:00",
-  "LastUpdate_Ratings": "2023-12-08T08:03:19.258233+00:00",
-  "LastUpdate_Achievements": "2023-12-08T08:04:18.6501917+00:00"
+  "LastUpdate_Ratings": "2023-12-08T09:02:55.528757+00:00",
+  "LastUpdate_Achievements": "2023-12-08T09:03:52.854377+00:00"
 }

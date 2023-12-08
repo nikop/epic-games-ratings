@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 555,
+  "EOS_Progressed": 565,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -122,6 +122,11 @@
       "Time": "2023-12-08T08:09:35.1573953+00:00",
       "NumProgressed": 555,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T09:09:10.8259339+00:00",
+      "NumProgressed": 565,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -132,9 +137,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 107
     },
     {
       "ID": "03_TheStolenStar",
@@ -348,9 +353,9 @@
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 79
     },
     {
       "ID": "30_The GreatestExploration",
@@ -653,14 +658,14 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 555,
+      "Progressed": 565,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-08T08:09:35.157395+00:00",
+  "LastChanged_Achievements": "2023-12-08T09:09:10.8259336+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-08T07:58:25.050853+00:00",
-  "LastUpdate_Achievements": "2023-12-08T08:09:35.1574508+00:00"
+  "LastUpdate_Ratings": "2023-12-08T08:58:25.618418+00:00",
+  "LastUpdate_Achievements": "2023-12-08T09:09:10.8259856+00:00"
 }
