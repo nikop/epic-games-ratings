@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.18% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.17% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -69,7 +69,7 @@
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.75% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.74% |
 | 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.66% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
@@ -105,8 +105,8 @@
 | 103 | [Doodle God](games/d/doodle_god.md) | 3.08% |
 | 103 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 105 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.06% |
-| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.05% |
-| 107 | [HordeCore](games/h/hordecore.md) | 3.04% |
+| 106 | [HordeCore](games/h/hordecore.md) | 3.04% |
+| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.04% |
 | 108 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
 | 109 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.94% |
 | 109 | [Without Escape](games/w/without_escape.md) | 2.94% |
@@ -123,7 +123,7 @@
 | 121 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.48% |
 | 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.44% |
 | 123 | [Lamentum](games/l/lamentum.md) | 2.42% |
-| 124 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.38% |
+| 124 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.37% |
 | 125 | [Dungeons 4](games/d/dungeons_4.md) | 2.24% |
 | 126 | [Bloodshore](games/b/bloodshore.md) | 2.23% |
 | 127 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
@@ -133,9 +133,9 @@
 | 131 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.88% |
 | 131 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.88% |
 | 133 | [Somerville](games/s/somerville.md) | 1.86% |
-| 134 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.82% |
-| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.81% |
-| 136 | [Sifu](games/s/sifu.md) | 1.80% |
+| 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.81% |
+| 135 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.80% |
+| 135 | [Sifu](games/s/sifu.md) | 1.80% |
 | 137 | [Frogun](games/f/frogun.md) | 1.77% |
 | 138 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.74% |
 | 139 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.62% |
@@ -272,11 +272,11 @@
 | 270 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
 | 271 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.16% |
 | 271 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 271 | [GRIME](games/g/grime.md) | 0.16% |
 | 271 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 271 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.16% |
-| 275 | [GRIME](games/g/grime.md) | 0.15% |
-| 275 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
-| 275 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 276 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
+| 276 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 278 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 278 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.13% |
 | 278 | [BLACKTAIL](games/b/blacktail.md) | 0.13% |
