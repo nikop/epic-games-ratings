@@ -193,9 +193,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10794,
+  "EOS_Progressed": 10795,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -5743,6 +5743,11 @@
       "Time": "2023-12-08T01:57:10.9116743+00:00",
       "NumProgressed": 10794,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-12-08T02:32:26.3763529+00:00",
+      "NumProgressed": 10795,
+      "NumCompleted": 195
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -5755,7 +5760,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 9930
+      "UsersEstimate": 9931
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -5763,7 +5768,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 9283
+      "UsersEstimate": 9284
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -5771,7 +5776,7 @@
       "Name": "My Dear Love!",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -5795,7 +5800,7 @@
       "Name": "All I Have Is Money",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -5803,7 +5808,7 @@
       "Name": "Life Is A Rollercoaster",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -5843,7 +5848,7 @@
       "Name": "A Slap In The Face!",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2806
+      "UsersEstimate": 2807
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -5891,7 +5896,7 @@
       "Name": "Love Actually",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 5289
+      "UsersEstimate": 5290
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -5915,7 +5920,7 @@
       "Name": "Counting Sheep?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -5939,7 +5944,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 7124
+      "UsersEstimate": 7125
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -5963,7 +5968,7 @@
       "Name": "What I Want Is You",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 6584
+      "UsersEstimate": 6585
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -6011,7 +6016,7 @@
       "Name": "Are You Alright?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 5397
+      "UsersEstimate": 5398
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -6035,7 +6040,7 @@
       "Name": "David",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3130
+      "UsersEstimate": 3131
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -6043,7 +6048,7 @@
       "Name": "That\u0027s So You",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_5",
@@ -6067,7 +6072,7 @@
       "Name": "Drama King",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4533
+      "UsersEstimate": 4534
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -6075,7 +6080,7 @@
       "Name": "This Ain\u0027t Right In Many Ways...",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_9",
@@ -6083,14 +6088,14 @@
       "Name": "SALUTE",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     }
   ],
   "AchievementSets": [
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10794,
+      "Progressed": 10795,
       "Completed": 195
     }
   ],
@@ -6098,8 +6103,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-01T14:59:07.0284768+00:00",
-  "LastChanged_Achievements": "2023-12-08T01:57:10.9116739+00:00",
+  "LastChanged_Achievements": "2023-12-08T02:32:26.3763527+00:00",
   "LastUpdate_AppInfo": "2023-12-02T02:15:26.2086692+00:00",
-  "LastUpdate_Ratings": "2023-12-08T01:46:57.3714912+00:00",
-  "LastUpdate_Achievements": "2023-12-08T01:57:10.911729+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:22:17.5445126+00:00",
+  "LastUpdate_Achievements": "2023-12-08T02:32:26.3763937+00:00"
 }

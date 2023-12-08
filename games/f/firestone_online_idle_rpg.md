@@ -5,11 +5,11 @@ Rating: 4.05 (Ranked 994)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,906 |
+| Victor | 93.00% | ~2,907 |
 | World Map | 78.00% | ~2,438 |
-| Temple of Eternals | 57.00% | ~1,781 |
-| Prestigious | 53.00% | ~1,656 |
-| Fellowship Power | 42.00% | ~1,312 |
+| Temple of Eternals | 57.00% | ~1,782 |
+| Prestigious | 53.00% | ~1,657 |
+| Fellowship Power | 42.00% | ~1,313 |
 | Guild Power | 24.00% | ~750 |
 | Full Party | 21.00% | ~656 |
 | Prestigious x10 | 21.00% | ~656 |
@@ -27,7 +27,7 @@ Rating: 4.05 (Ranked 994)
 | The Unstoppable | 12.00% | ~375 |
 | Milestone collector | 11.00% | ~344 |
 | Mysterious Rock | 11.00% | ~344 |
-| Scientist | 10.00% | ~312 |
+| Scientist | 10.00% | ~313 |
 | Challenger | 9.00% | ~281 |
 | Daily Quest Completionist | 9.00% | ~281 |
 | Doing My Part | 9.00% | ~281 |
@@ -64,11 +64,11 @@ Rating: 4.05 (Ranked 994)
 | Gear Enchanting | 3.00% | ~94 |
 | Mythic Power | 3.00% | ~94 |
 | What lies behind the bush | 3.00% | ~94 |
-| Cauldron Liberator | 2.00% | ~62 |
-| Enchanting skill x5 | 2.00% | ~62 |
-| Guardian Master | 2.00% | ~62 |
-| Pokerface | 2.00% | ~62 |
-| Titan Power | 2.00% | ~62 |
+| Cauldron Liberator | 2.00% | ~63 |
+| Enchanting skill x5 | 2.00% | ~63 |
+| Guardian Master | 2.00% | ~63 |
+| Pokerface | 2.00% | ~63 |
+| Titan Power | 2.00% | ~63 |
 | Angel Power | 1.00% | ~31 |
 | Conqueror | 1.00% | ~31 |
 | Enhanced War Machines | 1.00% | ~31 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 994)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,125 (Ranked 211)  
+Progressed: 3,126 (Ranked 211)  
 Completed: 2 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-05 | 3,056 | 2 |
 | 2023-12-06 | 3,082 | 2 |
 | 2023-12-07 | 3,117 | 2 |
-| 2023-12-08 | 3,125 | 2 |
+| 2023-12-08 | 3,126 | 2 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 475)  
 Sum: 141 (Ranked 432)  

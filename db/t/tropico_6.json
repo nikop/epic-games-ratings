@@ -1431,9 +1431,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6251,
+  "EOS_Progressed": 6252,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13996,6 +13996,11 @@
       "Time": "2023-12-07T19:03:28.6710446+00:00",
       "NumProgressed": 6251,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T02:27:25.1518099+00:00",
+      "NumProgressed": 6252,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14167,7 +14172,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4688
+      "UsersEstimate": 4689
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14263,7 +14268,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14326,15 +14331,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6251,
+      "Progressed": 6252,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-04T06:58:37.0670736+00:00",
-  "LastChanged_Achievements": "2023-12-08T01:51:56.9244552+00:00",
+  "LastChanged_Achievements": "2023-12-08T02:27:25.1518093+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:34.7926512+00:00",
-  "LastUpdate_Ratings": "2023-12-08T01:45:40.0105766+00:00",
-  "LastUpdate_Achievements": "2023-12-08T01:51:56.9245356+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:21:01.0814643+00:00",
+  "LastUpdate_Achievements": "2023-12-08T02:27:25.1519037+00:00"
 }

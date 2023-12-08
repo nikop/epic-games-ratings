@@ -3361,9 +3361,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 42616,
+  "EOS_Progressed": 42617,
   "EOS_Completed": 344,
-  "EOS_NewPlayers": 866,
+  "EOS_NewPlayers": 867,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -29096,6 +29096,11 @@
       "Time": "2023-12-08T01:52:31.0494374+00:00",
       "NumProgressed": 42616,
       "NumCompleted": 344
+    },
+    {
+      "Time": "2023-12-08T02:27:59.0946926+00:00",
+      "NumProgressed": 42617,
+      "NumCompleted": 344
     }
   ],
   "TotalAchievements": 60,
@@ -29107,7 +29112,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 25143
+      "UsersEstimate": 25144
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -29123,7 +29128,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 24717
+      "UsersEstimate": 24718
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -29131,7 +29136,7 @@
       "Name": "Use the terrain",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_2",
@@ -29179,7 +29184,7 @@
       "Name": "Master of Traps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_2",
@@ -29195,7 +29200,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14489
+      "UsersEstimate": 14490
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -29235,7 +29240,7 @@
       "Name": "Storm And Stress",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_Completed",
@@ -29347,7 +29352,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11506
+      "UsersEstimate": 11507
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -29363,7 +29368,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11506
+      "UsersEstimate": 11507
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -29403,7 +29408,7 @@
       "Name": "Prison Break",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "ACH_D3_Campaign_Pain_Completed",
@@ -29427,7 +29432,7 @@
       "Name": "I love the smell of Catapult fire!",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_Completed",
@@ -29443,7 +29448,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6392
+      "UsersEstimate": 6393
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -29459,7 +29464,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 8949
+      "UsersEstimate": 8950
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -29483,7 +29488,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 14063
+      "UsersEstimate": 14064
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -29491,7 +29496,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19603
+      "UsersEstimate": 19604
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -29507,7 +29512,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 29831
+      "UsersEstimate": 29832
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -29586,15 +29591,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 42616,
+      "Progressed": 42617,
       "Completed": 344
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-12-06T01:47:31.6534933+00:00",
-  "LastChanged_Achievements": "2023-12-08T01:52:31.0494371+00:00",
+  "LastChanged_Achievements": "2023-12-08T02:27:59.0946921+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:06.4559533+00:00",
-  "LastUpdate_Ratings": "2023-12-08T01:48:14.6482205+00:00",
-  "LastUpdate_Achievements": "2023-12-08T01:52:31.049584+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:23:33.3347066+00:00",
+  "LastUpdate_Achievements": "2023-12-08T02:27:59.0948989+00:00"
 }

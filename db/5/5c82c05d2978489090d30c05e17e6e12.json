@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64509,
+  "EOS_Progressed": 64517,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 3456,
+  "EOS_NewPlayers": 3464,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2722,6 +2722,11 @@
       "Time": "2023-12-08T01:53:36.9840508+00:00",
       "NumProgressed": 64509,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-08T02:29:04.8276766+00:00",
+      "NumProgressed": 64517,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2734,7 +2739,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 23868
+      "UsersEstimate": 23871
     },
     {
       "ID": "Achievement_10",
@@ -2766,7 +2771,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "Achievement_14",
@@ -2822,7 +2827,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17417
+      "UsersEstimate": 17420
     },
     {
       "ID": "Achievement_20",
@@ -2862,7 +2867,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "Achievement_25",
@@ -2910,7 +2915,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7741
+      "UsersEstimate": 7742
     },
     {
       "ID": "Achievement_30",
@@ -2974,7 +2979,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "Achievement_7",
@@ -3005,7 +3010,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 64509,
+      "Progressed": 64517,
       "Completed": 61
     }
   ],
@@ -3013,8 +3018,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-07T23:02:46.2416558+00:00",
-  "LastChanged_Achievements": "2023-12-08T01:53:36.9840505+00:00",
+  "LastChanged_Achievements": "2023-12-08T02:29:04.8276762+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-08T01:51:17.4284126+00:00",
-  "LastUpdate_Achievements": "2023-12-08T01:53:36.9840806+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:26:44.375711+00:00",
+  "LastUpdate_Achievements": "2023-12-08T02:29:04.827711+00:00"
 }

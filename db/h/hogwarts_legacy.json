@@ -11661,9 +11661,9 @@
       "Count": 838
     }
   ],
-  "EOS_Progressed": 304064,
+  "EOS_Progressed": 304065,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36516,6 +36516,11 @@
       "Time": "2023-12-08T01:51:56.6911453+00:00",
       "NumProgressed": 304064,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-08T02:27:24.9297836+00:00",
+      "NumProgressed": 304065,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36815,7 +36820,7 @@
       "Name": "Raising Expectations",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21284
+      "UsersEstimate": 21285
     },
     {
       "ID": "PFA_43",
@@ -36886,7 +36891,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304064,
+      "Progressed": 304065,
       "Completed": 525
     }
   ],
@@ -36894,8 +36899,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-07T23:57:54.6996525+00:00",
-  "LastChanged_Achievements": "2023-12-08T01:51:56.6911449+00:00",
+  "LastChanged_Achievements": "2023-12-08T02:27:24.9297831+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-08T01:45:50.1106822+00:00",
-  "LastUpdate_Achievements": "2023-12-08T01:51:56.6913133+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:21:10.997026+00:00",
+  "LastUpdate_Achievements": "2023-12-08T02:27:24.9299179+00:00"
 }

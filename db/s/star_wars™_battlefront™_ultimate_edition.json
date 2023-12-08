@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1607,
+  "EOS_Progressed": 1608,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4799,6 +4799,11 @@
       "Time": "2023-12-08T01:58:07.1671916+00:00",
       "NumProgressed": 1607,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T02:33:22.4868136+00:00",
+      "NumProgressed": 1608,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4843,7 +4848,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_14",
@@ -4953,9 +4958,9 @@
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 209
     },
     {
       "ID": "achievement_27",
@@ -5035,7 +5040,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "achievement_36",
@@ -5075,7 +5080,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_40",
@@ -5314,13 +5319,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1607,
+      "Progressed": 1608,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1607,
+      "Progressed": 1608,
       "Completed": 1
     }
   ],
@@ -5328,8 +5333,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-08T01:58:07.1671913+00:00",
+  "LastChanged_Achievements": "2023-12-08T02:33:22.4868133+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-08T01:46:31.2613345+00:00",
-  "LastUpdate_Achievements": "2023-12-08T01:58:07.1672513+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:21:51.7211113+00:00",
+  "LastUpdate_Achievements": "2023-12-08T02:33:22.4868733+00:00"
 }

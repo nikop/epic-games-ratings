@@ -13,17 +13,17 @@
 | At least you tried | 2.00% | ~6 |
 | Golden Hat | 2.00% | ~6 |
 | Silver Carrot | 2.00% | ~6 |
+| Silver Scarf | 2.00% | ~6 |
 | Minimalist lifestyle | 1.00% | ~3 |
 | I deliver the presents! | 1.00% | ~3 |
 | Golden Button | 1.00% | ~3 |
-| Silver Scarf | 1.00% | ~3 |
 | Lesson learned | 0.70% | ~2 |
 | Good list | 0.70% | ~2 |
 | Golden Scarf | 0.70% | ~2 |
 | So close! | 0.70% | ~2 |
 | Bling Bling | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297 (Ranked 361)  
+Progressed: 298 (Ranked 361)  
 Completed: 1 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,3 +97,4 @@ Completed: 1 (0.34%) (Ranked 234)
 | 2023-12-05 | 292 | 1 |
 | 2023-12-06 | 295 | 1 |
 | 2023-12-07 | 297 | 1 |
+| 2023-12-08 | 298 | 1 |

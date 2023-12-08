@@ -5,15 +5,15 @@ Rating: 4.74 (Ranked 158)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~9,930 |
-| I Challenge You To Save More Money! | 86.00% | ~9,283 |
+| Last Night...Did We... | 92.00% | ~9,931 |
+| I Challenge You To Save More Money! | 86.00% | ~9,284 |
 | I Love How Tough You Are | 73.00% | ~7,880 |
-| Wanna Come To My Place For Dinner? | 66.00% | ~7,124 |
-| What I Want Is You | 61.00% | ~6,584 |
+| Wanna Come To My Place For Dinner? | 66.00% | ~7,125 |
+| What I Want Is You | 61.00% | ~6,585 |
 | To Be Or Not To Be | 58.00% | ~6,261 |
-| Are You Alright? | 50.00% | ~5,397 |
-| Love Actually | 49.00% | ~5,289 |
-| Drama King | 42.00% | ~4,533 |
+| Are You Alright? | 50.00% | ~5,398 |
+| Love Actually | 49.00% | ~5,290 |
+| Drama King | 42.00% | ~4,534 |
 | You're Really Something Else | 37.00% | ~3,994 |
 | Go Clean up In Your Own Way | 36.00% | ~3,886 |
 | Happy Family | 35.00% | ~3,778 |
@@ -25,11 +25,11 @@ Rating: 4.74 (Ranked 158)
 | Still Single | 32.00% | ~3,454 |
 | Go Get Some Fries On The Pier | 30.00% | ~3,238 |
 | Days Of Innocence | 30.00% | ~3,238 |
-| David | 29.00% | ~3,130 |
-| A Slap In The Face! | 26.00% | ~2,806 |
-| All I Have Is Money | 25.00% | ~2,698 |
-| That's So You | 25.00% | ~2,698 |
-| SALUTE | 25.00% | ~2,698 |
+| David | 29.00% | ~3,131 |
+| A Slap In The Face! | 26.00% | ~2,807 |
+| All I Have Is Money | 25.00% | ~2,699 |
+| That's So You | 25.00% | ~2,699 |
+| SALUTE | 25.00% | ~2,699 |
 | Lover In Dark Alley | 24.00% | ~2,591 |
 | Let Me Be Your Toy Boy | 24.00% | ~2,591 |
 | Off We Sail Tonight | 19.00% | ~2,051 |
@@ -38,17 +38,17 @@ Rating: 4.74 (Ranked 158)
 | Doesn't Matter I'll Handle It | 14.00% | ~1,511 |
 | The Flash | 12.00% | ~1,295 |
 | New Yoga Pose Unlocked | 12.00% | ~1,295 |
-| My Dear Love! | 9.00% | ~971 |
-| Life Is A Rollercoaster | 9.00% | ~971 |
-| Counting Sheep? | 9.00% | ~971 |
-| This Ain't Right In Many Ways... | 9.00% | ~971 |
+| My Dear Love! | 9.00% | ~972 |
+| Life Is A Rollercoaster | 9.00% | ~972 |
+| Counting Sheep? | 9.00% | ~972 |
+| This Ain't Right In Many Ways... | 9.00% | ~972 |
 | Boys Need To Protect Themselves | 8.00% | ~864 |
 | Stubborn Noob | 8.00% | ~864 |
 | Hurrah! | 2.00% | ~216 |
 | Tall; Grande; Venti | 2.00% | ~216 |
 | Limerence | 2.00% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,794 (Ranked 164)  
+Progressed: 10,795 (Ranked 164)  
 Completed: 195 (1.81%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 195 (1.81%) (Ranked 135)
 | 2023-12-05 | 10,712 | 192 |
 | 2023-12-06 | 10,748 | 194 |
 | 2023-12-07 | 10,791 | 195 |
-| 2023-12-08 | 10,794 | 195 |
+| 2023-12-08 | 10,795 | 195 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 535)  
 Sum: 23 (Ranked 538)  

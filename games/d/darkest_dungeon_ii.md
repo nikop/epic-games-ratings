@@ -6,20 +6,20 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~116,994 |
-| Don't Make Me Turn This Coach Around | 72.00% | ~90,576 |
-| A Clear Conscience | 69.00% | ~86,802 |
-| Unleash Hell | 68.00% | ~85,544 |
-| Unfulfilled Desires | 68.00% | ~85,544 |
-| Funny Guy | 67.00% | ~84,286 |
-| Unshackled | 67.00% | ~84,286 |
-| Long Live the King | 66.00% | ~83,028 |
-| Resurrection | 63.00% | ~79,254 |
-| Wyrdly Reconstructed | 63.00% | ~79,254 |
-| Boxcar Kid | 61.00% | ~76,738 |
-| Rush Hour | 61.00% | ~76,738 |
-| To Grandmother's House | 61.00% | ~76,738 |
-| Serenity Now! | 54.00% | ~67,932 |
+| A Place to Lay Your Head | 93.00% | ~116,995 |
+| Don't Make Me Turn This Coach Around | 72.00% | ~90,577 |
+| A Clear Conscience | 69.00% | ~86,803 |
+| Unleash Hell | 68.00% | ~85,545 |
+| Unfulfilled Desires | 68.00% | ~85,545 |
+| Funny Guy | 67.00% | ~84,287 |
+| Unshackled | 67.00% | ~84,287 |
+| Long Live the King | 66.00% | ~83,029 |
+| Resurrection | 63.00% | ~79,255 |
+| Wyrdly Reconstructed | 63.00% | ~79,255 |
+| Boxcar Kid | 61.00% | ~76,739 |
+| Rush Hour | 61.00% | ~76,739 |
+| To Grandmother's House | 61.00% | ~76,739 |
+| Serenity Now! | 54.00% | ~67,933 |
 | Hope Rekindled | 50.00% | ~62,900 |
 | Ramble On | 50.00% | ~62,900 |
 | Nope | 49.00% | ~61,642 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~126 |
 | No Gravestone Left Unturned | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,800 (Ranked 84)  
+Progressed: 125,801 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-05 | 125,630 | 2 |
 | 2023-12-06 | 125,704 | 2 |
 | 2023-12-07 | 125,791 | 2 |
-| 2023-12-08 | 125,800 | 2 |
+| 2023-12-08 | 125,801 | 2 |
 ## Awards
 Max (Character Customization): 7,565  (Ranked 52)  
 Sum: 19,989 (Ranked 59)  

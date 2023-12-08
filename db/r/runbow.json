@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251943,
+  "EOS_Progressed": 251944,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20727,6 +20727,11 @@
       "Time": "2023-12-07T23:09:11.610439+00:00",
       "NumProgressed": 251943,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-08T02:33:02.8782719+00:00",
+      "NumProgressed": 251944,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -20810,7 +20815,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37791
+      "UsersEstimate": 37792
     },
     {
       "ID": "clearCut",
@@ -20954,7 +20959,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20155
+      "UsersEstimate": 20156
     },
     {
       "ID": "lockupLockdown",
@@ -21042,7 +21047,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55427
+      "UsersEstimate": 55428
     },
     {
       "ID": "thunderstruck",
@@ -21105,7 +21110,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251943,
+      "Progressed": 251944,
       "Completed": 6
     }
   ],
@@ -21113,8 +21118,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-08T01:57:47.2540063+00:00",
+  "LastChanged_Achievements": "2023-12-08T02:33:02.8782715+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.4245998+00:00",
-  "LastUpdate_Ratings": "2023-12-08T01:47:48.9742145+00:00",
-  "LastUpdate_Achievements": "2023-12-08T01:57:47.2541142+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:23:08.6911248+00:00",
+  "LastUpdate_Achievements": "2023-12-08T02:33:02.8783796+00:00"
 }

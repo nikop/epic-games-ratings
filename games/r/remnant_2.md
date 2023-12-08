@@ -17,17 +17,17 @@ Rating: 4.75 (Ranked 148)
 | Familiar Face | 0.50% | ~1,183 |
 | Boss'n Up | 0.50% | ~1,183 |
 | Trait Chaser | 0.50% | ~1,183 |
-| Am I Seeing This? | 0.40% | ~946 |
-| Not a Janitor | 0.40% | ~946 |
-| Equal Measures | 0.40% | ~946 |
-| Blue Goddess | 0.40% | ~946 |
-| Duality | 0.40% | ~946 |
-| Top Performer | 0.40% | ~946 |
-| Shhh...It's a Secret | 0.40% | ~946 |
-| Was This Supposed To Happen? | 0.40% | ~946 |
-| Almost There | 0.40% | ~946 |
-| Make Some Room | 0.40% | ~946 |
-| Good, But Could Be Better! | 0.40% | ~946 |
+| Am I Seeing This? | 0.40% | ~947 |
+| Not a Janitor | 0.40% | ~947 |
+| Equal Measures | 0.40% | ~947 |
+| Blue Goddess | 0.40% | ~947 |
+| Duality | 0.40% | ~947 |
+| Top Performer | 0.40% | ~947 |
+| Shhh...It's a Secret | 0.40% | ~947 |
+| Was This Supposed To Happen? | 0.40% | ~947 |
+| Almost There | 0.40% | ~947 |
+| Make Some Room | 0.40% | ~947 |
+| Good, But Could Be Better! | 0.40% | ~947 |
 | Ghost in the Machine | 0.30% | ~710 |
 | Chaos | 0.30% | ~710 |
 | Traitor | 0.30% | ~710 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | You Shall Pass | 0.20% | ~32 |
 | A Foul Feast | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,625 (Ranked 67)  
+Progressed: 236,632 (Ranked 67)  
 Completed: 567 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 567 (0.24%) (Ranked 252)
 | 2023-12-05 | 235,528 | 561 |
 | 2023-12-06 | 236,074 | 564 |
 | 2023-12-07 | 236,590 | 567 |
-| 2023-12-08 | 236,625 | 567 |
+| 2023-12-08 | 236,632 | 567 |
 ## Awards
 Max (Great Boss Battles): 2,678  (Ranked 102)  
 Sum: 6,636 (Ranked 127)  

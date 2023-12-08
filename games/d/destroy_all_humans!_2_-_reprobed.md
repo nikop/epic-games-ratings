@@ -10,7 +10,7 @@ Number of Ratings: 90  (23.09.2022)
 | Rock of the Bay | 27.00% | ~6 |
 | Ducks in a Row, Fish in a Barrel | 18.00% | ~4 |
 | Furon Fashion | 14.00% | ~3 |
-| Shop Til They Drop | 9.00% | ~2 |
+| Shop Til They Drop | 14.00% | ~3 |
 | Cult Following | 5.00% | ~1 |
 | Lie Back and Think of Albion | 5.00% | ~1 |
 | I Look Up As I Walk to Takoshima | 5.00% | ~1 |

@@ -4,10 +4,10 @@
   "ProductSlug": "kards-the-world-war-ii-card-game",
   "Ranking_Rating": 753,
   "Ranking_Popularity": 195,
-  "Ranking_PopularitySum": 152,
+  "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewPlayers": 461,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -2853,10 +2853,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 4290,
       "NumberOfAwardsMax": 606
+    },
+    {
+      "Time": "2023-12-08T02:22:48.1469515+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 3882,
+      "NumberOfAwardsMax": 606
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4290,
+  "NumberOfAwards": 3882,
   "NumberOfAwardsMax": 606,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2932,8 +2938,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2023-12-05T19:58:18.9400926+00:00",
+  "LastChanged": "2023-12-08T02:22:48.1469513+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.0801375+00:00",
-  "LastUpdate_Ratings": "2023-12-08T01:47:28.393641+00:00",
-  "LastUpdate_Achievements": "2023-12-08T01:57:46.4776799+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:22:48.1469517+00:00",
+  "LastUpdate_Achievements": "2023-12-08T02:33:02.0697618+00:00"
 }

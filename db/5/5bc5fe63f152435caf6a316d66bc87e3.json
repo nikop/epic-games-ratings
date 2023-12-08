@@ -2,9 +2,9 @@
   "ID": "5bc5fe63f152435caf6a316d66bc87e3",
   "Name": "Black Academy",
   "ProductSlug": "black-academy-ed8e11",
-  "Ranking_EOS_Progress": 719,
+  "Ranking_EOS_Progress": 686,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-12-01T10:00:00+00:00",
@@ -22,15 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-12-06T12:05:44.4164218+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T02:27:03.9855744+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -42,7 +47,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "291b4jf",
       "Name": "Overtime Start",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -50,7 +55,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "291b4jf",
       "Name": "Overtime Fail",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "291b4jf",
       "Name": "Devil Purification",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -275,13 +280,13 @@
     {
       "ID": "291b4jf",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-30T01:50:14.7217519+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:08:07.776564+00:00",
+  "LastChanged_Achievements": "2023-12-08T02:27:03.985574+00:00",
   "LastUpdate_AppInfo": "2023-12-07T01:44:48.2709828+00:00",
-  "LastUpdate_Ratings": "2023-12-08T01:46:12.265785+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:08:07.7765803+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:21:32.9560232+00:00",
+  "LastUpdate_Achievements": "2023-12-08T02:27:03.9855919+00:00"
 }

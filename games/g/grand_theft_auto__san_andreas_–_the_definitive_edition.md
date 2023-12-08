@@ -5,16 +5,16 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,386 |
-| Pay 'n' Spray | 52.00% | ~7,220 |
+| Getting Started | 82.00% | ~11,387 |
+| Pay 'n' Spray | 52.00% | ~7,221 |
 | All Dressed Up for San Fierro | 27.00% | ~3,749 |
 | The American Dream | 20.00% | ~2,777 |
-| School's Out | 19.00% | ~2,638 |
-| Smooth Moves | 17.00% | ~2,360 |
+| School's Out | 19.00% | ~2,639 |
+| Smooth Moves | 17.00% | ~2,361 |
 | What happens in Las Venturas... | 16.00% | ~2,222 |
 | Today Was a Good Day | 16.00% | ~2,222 |
-| Horror of the Santa Maria | 11.00% | ~1,527 |
-| Liberty City State of Mind | 10.00% | ~1,388 |
+| Horror of the Santa Maria | 11.00% | ~1,528 |
+| Liberty City State of Mind | 10.00% | ~1,389 |
 | Original Gangster | 9.00% | ~1,250 |
 | The End of the Line | 8.00% | ~1,111 |
 | With Extra Dip | 7.00% | ~972 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 512)
 | ...Here we go again | 0.50% | ~69 |
 | I Ain't No Buster | 0.40% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,885 (Ranked 157)  
+Progressed: 13,887 (Ranked 157)  
 Completed: 56 (0.40%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,14 +273,14 @@ Completed: 56 (0.40%) (Ranked 223)
 | 2023-12-05 | 13,862 | 56 |
 | 2023-12-06 | 13,872 | 56 |
 | 2023-12-07 | 13,883 | 56 |
-| 2023-12-08 | 13,885 | 56 |
+| 2023-12-08 | 13,887 | 56 |
 ## Awards
-Max (Great Boss Battles): 425  (Ranked 228)  
-Sum: 701 (Ranked 299)  
+Max (Great Boss Battles): 427  (Ranked 228)  
+Sum: 703 (Ranked 299)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 425 |
+| This game has Great Boss Battles | 427 |
 | This game is Relaxing | 39 |
 | This game has Amazing Characters | 39 |
 | This game is Great for Beginners | 37 |
@@ -487,3 +487,4 @@ Diff (max vs sum): -71
 | 2023-12-05 | 4.56 | 423 | 698 |
 | 2023-12-06 | 4.56 | 425 | 700 |
 | 2023-12-07 | 4.55 | 425 | 701 |
+| 2023-12-08 | 4.55 | 427 | 703 |

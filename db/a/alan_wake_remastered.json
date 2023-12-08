@@ -575,9 +575,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 97759,
+  "EOS_Progressed": 97760,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 883,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -24505,6 +24505,11 @@
       "Time": "2023-12-08T01:58:06.4643365+00:00",
       "NumProgressed": 97759,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-12-08T02:33:21.7818118+00:00",
+      "NumProgressed": 97760,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 67,
@@ -24532,7 +24537,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 37148
+      "UsersEstimate": 37149
     },
     {
       "ID": "04",
@@ -24564,7 +24569,7 @@
       "Name": "Heavy Metal",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20529
+      "UsersEstimate": 20530
     },
     {
       "ID": "08",
@@ -24572,7 +24577,7 @@
       "Name": "Iron Horse",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20529
+      "UsersEstimate": 20530
     },
     {
       "ID": "09",
@@ -24604,7 +24609,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20529
+      "UsersEstimate": 20530
     },
     {
       "ID": "13",
@@ -24732,7 +24737,7 @@
       "Name": "Come One, Come All",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20529
+      "UsersEstimate": 20530
     },
     {
       "ID": "29",
@@ -25051,21 +25056,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 97759,
+      "Progressed": 97760,
       "Completed": 110
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 61227,
+      "Progressed": 61228,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-12-06T22:59:13.2020229+00:00",
-  "LastChanged_Achievements": "2023-12-08T01:58:06.4643362+00:00",
+  "LastChanged_Achievements": "2023-12-08T02:33:21.7818115+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:16.2842941+00:00",
-  "LastUpdate_Ratings": "2023-12-08T01:47:37.3638727+00:00",
-  "LastUpdate_Achievements": "2023-12-08T01:58:06.4644675+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:22:57.3025812+00:00",
+  "LastUpdate_Achievements": "2023-12-08T02:33:21.7819633+00:00"
 }

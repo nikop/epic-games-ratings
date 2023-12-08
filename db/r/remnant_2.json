@@ -5313,9 +5313,9 @@
       "Count": 411
     }
   ],
-  "EOS_Progressed": 236625,
+  "EOS_Progressed": 236632,
   "EOS_Completed": 567,
-  "EOS_NewPlayers": 5137,
+  "EOS_NewPlayers": 5144,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21913,6 +21913,11 @@
       "Time": "2023-12-08T01:57:23.8701478+00:00",
       "NumProgressed": 236625,
       "NumCompleted": 567
+    },
+    {
+      "Time": "2023-12-08T02:32:39.7656611+00:00",
+      "NumProgressed": 236632,
+      "NumCompleted": 567
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21941,7 +21946,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -22069,7 +22074,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "Meet_Flautist",
@@ -22085,7 +22090,7 @@
       "Name": "Equal Measures",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "Meet_Mudtooth",
@@ -22101,7 +22106,7 @@
       "Name": "Blue Goddess",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "Obtain_Archetype",
@@ -22117,7 +22122,7 @@
       "Name": "Duality",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -22125,7 +22130,7 @@
       "Name": "Top Performer",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -22133,7 +22138,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -22149,7 +22154,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -22269,7 +22274,7 @@
       "Name": "Almost There",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "Upgrade_Relic",
@@ -22277,7 +22282,7 @@
       "Name": "Make Some Room",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -22285,7 +22290,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -22364,13 +22369,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 236625,
+      "Progressed": 236632,
       "Completed": 567
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 15790,
+      "Progressed": 15797,
       "Completed": 202
     }
   ],
@@ -22378,8 +22383,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-08T00:03:43.306364+00:00",
-  "LastChanged_Achievements": "2023-12-08T01:57:23.8701472+00:00",
+  "LastChanged_Achievements": "2023-12-08T02:32:39.7656607+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-08T01:51:33.1006929+00:00",
-  "LastUpdate_Achievements": "2023-12-08T01:57:23.8702475+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:26:59.969883+00:00",
+  "LastUpdate_Achievements": "2023-12-08T02:32:39.7657773+00:00"
 }

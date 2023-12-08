@@ -4,7 +4,7 @@
   "ProductSlug": "battlefield-v-definitive-edition",
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-03T12:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 24236,
+  "EOS_Progressed": 24238,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1266,
+  "EOS_NewPlayers": 1268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9228,6 +9228,11 @@
       "Time": "2023-12-08T01:57:47.7014582+00:00",
       "NumProgressed": 24236,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T02:33:03.1272713+00:00",
+      "NumProgressed": 24238,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -9256,7 +9261,7 @@
       "Name": "Death from Above",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "achievement_12",
@@ -9272,7 +9277,7 @@
       "Name": "Grim Reaper",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 18419
+      "UsersEstimate": 18421
     },
     {
       "ID": "achievement_14",
@@ -9280,7 +9285,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 10421
+      "UsersEstimate": 10422
     },
     {
       "ID": "achievement_15",
@@ -9288,7 +9293,7 @@
       "Name": "Combat Engineer",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13087
+      "UsersEstimate": 13089
     },
     {
       "ID": "achievement_16",
@@ -9296,7 +9301,7 @@
       "Name": "Heads Down",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 17935
+      "UsersEstimate": 17936
     },
     {
       "ID": "achievement_17",
@@ -9304,7 +9309,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "achievement_18",
@@ -9312,7 +9317,7 @@
       "Name": "Eager Beaver",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 11633
+      "UsersEstimate": 11634
     },
     {
       "ID": "achievement_19",
@@ -9320,7 +9325,7 @@
       "Name": "Elite",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6301
+      "UsersEstimate": 6302
     },
     {
       "ID": "achievement_2",
@@ -9336,7 +9341,7 @@
       "Name": "Last Man Standing",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 22539
+      "UsersEstimate": 22541
     },
     {
       "ID": "achievement_21",
@@ -9344,7 +9349,7 @@
       "Name": "Not On My Watch",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 17208
+      "UsersEstimate": 17209
     },
     {
       "ID": "achievement_3",
@@ -9368,7 +9373,7 @@
       "Name": "Store fuglar fanga ingi flugor",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6301
+      "UsersEstimate": 6302
     },
     {
       "ID": "achievement_6",
@@ -9376,7 +9381,7 @@
       "Name": "Ou La Mort",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 5574
+      "UsersEstimate": 5575
     },
     {
       "ID": "achievement_7",
@@ -9392,7 +9397,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 18177
+      "UsersEstimate": 18178
     },
     {
       "ID": "achievement_9",
@@ -9407,13 +9412,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 24236,
+      "Progressed": 24238,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-12-08T01:57:47.7014575+00:00",
+  "LastChanged_Achievements": "2023-12-08T02:33:03.1272709+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:13.6448479+00:00",
-  "LastUpdate_Ratings": "2023-12-08T01:47:31.912484+00:00",
-  "LastUpdate_Achievements": "2023-12-08T01:57:47.7015168+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:22:51.968595+00:00",
+  "LastUpdate_Achievements": "2023-12-08T02:33:03.1273331+00:00"
 }

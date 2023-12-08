@@ -2,7 +2,7 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 115,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 505,
+  "EOS_Progressed": 520,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -87,6 +87,11 @@
       "Time": "2023-12-08T01:57:26.0961347+00:00",
       "NumProgressed": 505,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T02:32:41.9950609+00:00",
+      "NumProgressed": 520,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -99,7 +104,7 @@
       "Name": "Conspiracy",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "03_TheStolenStar",
@@ -315,7 +320,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "30_The GreatestExploration",
@@ -618,14 +623,14 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 505,
+      "Progressed": 520,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-08T01:57:26.0961345+00:00",
+  "LastChanged_Achievements": "2023-12-08T02:32:41.9950605+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-08T01:46:09.808353+00:00",
-  "LastUpdate_Achievements": "2023-12-08T01:57:26.096184+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:21:30.6258344+00:00",
+  "LastUpdate_Achievements": "2023-12-08T02:32:41.9951057+00:00"
 }

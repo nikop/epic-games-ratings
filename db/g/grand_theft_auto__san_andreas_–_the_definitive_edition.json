@@ -1613,18 +1613,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 701,
       "NumberOfAwardsMax": 425
+    },
+    {
+      "Time": "2023-12-08T02:22:43.9092981+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 703,
+      "NumberOfAwardsMax": 427
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 701,
-  "NumberOfAwardsMax": 425,
+  "NumberOfAwards": 703,
+  "NumberOfAwardsMax": 427,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 425
+      "Count": 427
     },
     {
       "Text": "This game is Relaxing",
@@ -1681,9 +1687,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 13885,
+  "EOS_Progressed": 13887,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -15556,6 +15562,11 @@
       "Time": "2023-12-08T01:57:45.1406193+00:00",
       "NumProgressed": 13885,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-08T02:33:00.7228791+00:00",
+      "NumProgressed": 13887,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15567,7 +15578,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11386
+      "UsersEstimate": 11387
     },
     {
       "ID": "ACH02",
@@ -15623,7 +15634,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7220
+      "UsersEstimate": 7221
     },
     {
       "ID": "ACH09",
@@ -15647,7 +15658,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "ACH12",
@@ -15663,7 +15674,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "ACH14",
@@ -15671,7 +15682,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "ACH15",
@@ -15687,7 +15698,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "ACH17",
@@ -15846,16 +15857,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13885,
+      "Progressed": 13887,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-07T07:59:27.5062453+00:00",
-  "LastChanged_Achievements": "2023-12-08T01:57:45.1406188+00:00",
+  "LastChanged": "2023-12-08T02:22:43.9092979+00:00",
+  "LastChanged_Achievements": "2023-12-08T02:33:00.7228784+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:45.2117848+00:00",
-  "LastUpdate_Ratings": "2023-12-08T01:47:24.0790809+00:00",
-  "LastUpdate_Achievements": "2023-12-08T01:57:45.1407012+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:22:43.9092983+00:00",
+  "LastUpdate_Achievements": "2023-12-08T02:33:00.7230228+00:00"
 }
