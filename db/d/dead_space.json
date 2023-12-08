@@ -731,9 +731,9 @@
       "Count": 118
     }
   ],
-  "EOS_Progressed": 2171,
+  "EOS_Progressed": 2172,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -6776,6 +6776,11 @@
       "Time": "2023-12-08T10:09:08.9162726+00:00",
       "NumProgressed": 2171,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-08T12:09:56.8433297+00:00",
+      "NumProgressed": 2172,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -6788,7 +6793,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "achievement_10",
@@ -6804,7 +6809,7 @@
       "Name": "Betrayed",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "achievement_12",
@@ -6820,7 +6825,7 @@
       "Name": "Final Regeneration",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "achievement_14",
@@ -6828,7 +6833,7 @@
       "Name": "Whole Again",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "achievement_15",
@@ -6836,7 +6841,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "achievement_16",
@@ -6860,7 +6865,7 @@
       "Name": "Full Arsenal",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "achievement_19",
@@ -6882,9 +6887,9 @@
       "ID": "achievement_20",
       "SetID": "222fo9l",
       "Name": "Autofire",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1281
     },
     {
       "ID": "achievement_21",
@@ -6900,7 +6905,7 @@
       "Name": "A Cut Above",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "achievement_23",
@@ -6908,15 +6913,15 @@
       "Name": "Pusher",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "achievement_24",
       "SetID": "222fo9l",
       "Name": "Eviscerator",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 434
     },
     {
       "ID": "achievement_25",
@@ -6948,7 +6953,7 @@
       "Name": "Story Teller",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "achievement_29",
@@ -6980,7 +6985,7 @@
       "Name": "Marksman",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "achievement_32",
@@ -6988,7 +6993,7 @@
       "Name": "Surgeon",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "achievement_33",
@@ -7044,7 +7049,7 @@
       "Name": "Z-Baller",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "achievement_4",
@@ -7124,7 +7129,7 @@
       "Name": "True Believer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "achievement_6",
@@ -7140,7 +7145,7 @@
       "Name": "S.O.S.",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "achievement_8",
@@ -7156,14 +7161,14 @@
       "Name": "Wreckage",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 2171,
+      "Progressed": 2172,
       "Completed": 13
     }
   ],
@@ -7171,8 +7176,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-12-06T16:57:59.3139948+00:00",
-  "LastChanged_Achievements": "2023-12-08T11:08:38.94171+00:00",
+  "LastChanged_Achievements": "2023-12-08T12:09:56.8433292+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.9880376+00:00",
-  "LastUpdate_Ratings": "2023-12-08T10:58:54.6849471+00:00",
-  "LastUpdate_Achievements": "2023-12-08T11:08:38.941762+00:00"
+  "LastUpdate_Ratings": "2023-12-08T11:59:42.8617391+00:00",
+  "LastUpdate_Achievements": "2023-12-08T12:09:56.8433944+00:00"
 }

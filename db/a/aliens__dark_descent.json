@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -423,9 +423,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 3740,
+  "EOS_Progressed": 3741,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6233,6 +6233,11 @@
       "Time": "2023-12-05T06:06:41.5885919+00:00",
       "NumProgressed": 3740,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-08T12:09:00.782586+00:00",
+      "NumProgressed": 3741,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -6260,7 +6265,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -6276,7 +6281,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -6284,7 +6289,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -6340,7 +6345,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -6356,7 +6361,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -6396,7 +6401,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -6428,7 +6433,7 @@
       "Name": "The Cable Guy",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "ACH_MISSION_01",
@@ -6436,7 +6441,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "ACH_MISSION_02",
@@ -6468,7 +6473,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "ACH_MISSION_06",
@@ -6548,7 +6553,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 3029
+      "UsersEstimate": 3030
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -6603,7 +6608,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3740,
+      "Progressed": 3741,
       "Completed": 3
     }
   ],
@@ -6611,8 +6616,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-07T22:58:01.026628+00:00",
-  "LastChanged_Achievements": "2023-12-08T11:06:25.942811+00:00",
+  "LastChanged_Achievements": "2023-12-08T12:09:00.7825854+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.8207235+00:00",
-  "LastUpdate_Ratings": "2023-12-08T10:58:20.5262719+00:00",
-  "LastUpdate_Achievements": "2023-12-08T11:06:25.9429105+00:00"
+  "LastUpdate_Ratings": "2023-12-08T11:58:54.1883471+00:00",
+  "LastUpdate_Achievements": "2023-12-08T12:09:00.7826386+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewPlayers": 457,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-01-05T16:00:00+00:00",
@@ -7291,10 +7291,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 7043,
       "NumberOfAwardsMax": 1187
+    },
+    {
+      "Time": "2023-12-08T11:57:47.2381475+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 7046,
+      "NumberOfAwardsMax": 1187
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7043,
+  "NumberOfAwards": 7046,
   "NumberOfAwardsMax": 1187,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -7338,7 +7344,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 910
+      "Count": 913
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7359,8 +7365,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-12-08T09:57:24.7252783+00:00",
+  "LastChanged": "2023-12-08T11:57:47.2381474+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:17.0479328+00:00",
-  "LastUpdate_Ratings": "2023-12-08T10:57:33.6740293+00:00",
-  "LastUpdate_Achievements": "2023-12-08T11:04:04.8455366+00:00"
+  "LastUpdate_Ratings": "2023-12-08T11:57:47.238148+00:00",
+  "LastUpdate_Achievements": "2023-12-08T12:05:19.4283701+00:00"
 }

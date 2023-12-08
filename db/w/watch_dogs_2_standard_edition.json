@@ -3,11 +3,11 @@
   "Name": "Watch Dogs 2 Standard Edition",
   "ProductSlug": "watch-dogs-2",
   "Ranking_Rating": 386,
-  "Ranking_Popularity": 199,
+  "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewPlayers": 457,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
@@ -8095,11 +8095,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 4482,
       "NumberOfAwardsMax": 602
+    },
+    {
+      "Time": "2023-12-08T12:01:07.7679708+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4485,
+      "NumberOfAwardsMax": 604
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4482,
-  "NumberOfAwardsMax": 602,
+  "NumberOfAwards": 4485,
+  "NumberOfAwardsMax": 604,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8130,7 +8136,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 583
+      "Count": 584
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8154,7 +8160,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 602
+      "Count": 604
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8174,8 +8180,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-12-08T08:01:03.1321954+00:00",
+  "LastChanged": "2023-12-08T12:01:07.7679706+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:51.082083+00:00",
-  "LastUpdate_Ratings": "2023-12-08T10:59:53.8523656+00:00",
-  "LastUpdate_Achievements": "2023-12-08T11:08:21.6159739+00:00"
+  "LastUpdate_Ratings": "2023-12-08T12:01:07.7679716+00:00",
+  "LastUpdate_Achievements": "2023-12-08T12:09:34.0282486+00:00"
 }

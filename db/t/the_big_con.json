@@ -4,7 +4,7 @@
   "ProductSlug": "the-big-con",
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewPlayers": 457,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-08-31T12:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.1494977+00:00",
   "LastChanged": "2023-03-31T05:58:35.1494978+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.8051267+00:00",
-  "LastUpdate_Ratings": "2023-12-08T10:59:48.8792128+00:00",
-  "LastUpdate_Achievements": "2023-12-08T11:04:00.9688283+00:00"
+  "LastUpdate_Ratings": "2023-12-08T12:01:00.6508397+00:00",
+  "LastUpdate_Achievements": "2023-12-08T12:05:14.2030449+00:00"
 }

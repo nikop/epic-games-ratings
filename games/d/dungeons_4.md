@@ -58,7 +58,7 @@
 | To Infinity And Beyond! | 14.00% | ~75 |
 | Mirror, Mirror | 13.00% | ~70 |
 | Untouchable | 12.00% | ~64 |
-| Evilification | 11.00% | ~59 |
+| Evilification | 12.00% | ~64 |
 | Laser Eyes Are So Useless | 10.00% | ~54 |
 | Heal Heal Blessing | 10.00% | ~54 |
 | Gorgu is in the Best of Health | 9.00% | ~48 |

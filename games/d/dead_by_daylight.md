@@ -6,22 +6,22 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,576 |
-| Skillful | 2.00% | ~21,576 |
-| Handyman | 1.00% | ~10,788 |
-| Zealous | 1.00% | ~10,788 |
-| Not half bad | 1.00% | ~10,788 |
-| Apt Survivor | 1.00% | ~10,788 |
-| Survival Treasures | 1.00% | ~10,788 |
-| I | 1.00% | ~10,788 |
-| Sorted | 1.00% | ~10,788 |
-| Resurgence | 1.00% | ~10,788 |
-| Make Some Noise | 1.00% | ~10,788 |
-| No one left behind | 0.90% | ~9,709 |
-| Medic | 0.90% | ~9,709 |
-| Healthy Obsession | 0.90% | ~9,709 |
-| Preemptive Strike | 0.90% | ~9,709 |
-| The Grand Sacrifice | 0.80% | ~8,631 |
+| It wakes | 2.00% | ~21,578 |
+| Skillful | 2.00% | ~21,578 |
+| Handyman | 1.00% | ~10,789 |
+| Zealous | 1.00% | ~10,789 |
+| Not half bad | 1.00% | ~10,789 |
+| Apt Survivor | 1.00% | ~10,789 |
+| Survival Treasures | 1.00% | ~10,789 |
+| I | 1.00% | ~10,789 |
+| Sorted | 1.00% | ~10,789 |
+| Resurgence | 1.00% | ~10,789 |
+| Make Some Noise | 1.00% | ~10,789 |
+| The Grand Sacrifice | 0.90% | ~9,710 |
+| No one left behind | 0.90% | ~9,710 |
+| Medic | 0.90% | ~9,710 |
+| Healthy Obsession | 0.90% | ~9,710 |
+| Preemptive Strike | 0.90% | ~9,710 |
 | Perfect Escape | 0.80% | ~8,631 |
 | Bloody Millionaire | 0.80% | ~8,631 |
 | Humanitarian | 0.80% | ~8,631 |
@@ -36,51 +36,51 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Killer | 0.60% | ~6,473 |
 | III | 0.60% | ~6,473 |
 | Wounded Healer | 0.60% | ~6,473 |
-| Escape Artist | 0.50% | ~5,394 |
-| Vulture | 0.50% | ~5,394 |
-| First to the Punch | 0.50% | ~5,394 |
-| Operation: Survival | 0.50% | ~5,394 |
-| With Scars to Show | 0.50% | ~5,394 |
-| Lifting The Fog | 0.50% | ~5,394 |
-| Second Act | 0.50% | ~5,394 |
-| Blood on your hands | 0.40% | ~4,315 |
-| Made it out alive! | 0.40% | ~4,315 |
-| Nerves of steel | 0.40% | ~4,315 |
-| Gifts for the Fog | 0.40% | ~4,315 |
-| III-50 | 0.40% | ~4,315 |
-| All Aboard | 0.40% | ~4,315 |
-| Item of Obsession | 0.40% | ~4,315 |
-| Holiday Get-Together | 0.40% | ~4,315 |
-| Near-Death Experience | 0.40% | ~4,315 |
-| Cherish your Life | 0.40% | ~4,315 |
-| Unforgettable Getaway | 0.40% | ~4,315 |
-| Cutting Out | 0.40% | ~4,315 |
-| Old West Oasis | 0.40% | ~4,315 |
-| Classy Act | 0.40% | ~4,315 |
-| Every Last Drop | 0.40% | ~4,315 |
-| Raccoon City Recruit | 0.40% | ~4,315 |
-| Flight to Freedom | 0.40% | ~4,315 |
-| Chorus of Chaos | 0.40% | ~4,315 |
-| A bite for the Entity | 0.30% | ~3,236 |
-| Blood on your face | 0.30% | ~3,236 |
-| Shock Therapy | 0.30% | ~3,236 |
-| Leapfrog | 0.30% | ~3,236 |
-| House of Pain | 0.30% | ~3,236 |
-| Cottage Owner | 0.30% | ~3,236 |
-| Escaping the Nightmare | 0.30% | ~3,236 |
-| Campbell's Chapel Legacy | 0.30% | ~3,236 |
-| Ancestor's Rite | 0.30% | ~3,236 |
-| Devoted Gatekeeping | 0.30% | ~3,236 |
-| Shrine Apparatus | 0.30% | ~3,236 |
-| Outrun Evil | 0.30% | ~3,236 |
-| Grim Pilgrimage | 0.30% | ~3,236 |
-| End of Days | 0.30% | ~3,236 |
-| Outrun the Overlap | 0.30% | ~3,236 |
-| A Fast Death | 0.30% | ~3,236 |
-| Extraterrestrial | 0.30% | ~3,236 |
-| One More Step | 0.30% | ~3,236 |
-| MU/TH/UR Dearest | 0.30% | ~3,236 |
-| Outta Nowhere | 0.30% | ~3,236 |
+| Escape Artist | 0.50% | ~5,395 |
+| Vulture | 0.50% | ~5,395 |
+| First to the Punch | 0.50% | ~5,395 |
+| Operation: Survival | 0.50% | ~5,395 |
+| With Scars to Show | 0.50% | ~5,395 |
+| Lifting The Fog | 0.50% | ~5,395 |
+| Second Act | 0.50% | ~5,395 |
+| Blood on your hands | 0.40% | ~4,316 |
+| Made it out alive! | 0.40% | ~4,316 |
+| Nerves of steel | 0.40% | ~4,316 |
+| Gifts for the Fog | 0.40% | ~4,316 |
+| III-50 | 0.40% | ~4,316 |
+| All Aboard | 0.40% | ~4,316 |
+| Item of Obsession | 0.40% | ~4,316 |
+| House of Pain | 0.40% | ~4,316 |
+| Holiday Get-Together | 0.40% | ~4,316 |
+| Near-Death Experience | 0.40% | ~4,316 |
+| Cherish your Life | 0.40% | ~4,316 |
+| Unforgettable Getaway | 0.40% | ~4,316 |
+| Cutting Out | 0.40% | ~4,316 |
+| Old West Oasis | 0.40% | ~4,316 |
+| Classy Act | 0.40% | ~4,316 |
+| Every Last Drop | 0.40% | ~4,316 |
+| Raccoon City Recruit | 0.40% | ~4,316 |
+| Flight to Freedom | 0.40% | ~4,316 |
+| Chorus of Chaos | 0.40% | ~4,316 |
+| A bite for the Entity | 0.30% | ~3,237 |
+| Blood on your face | 0.30% | ~3,237 |
+| Shock Therapy | 0.30% | ~3,237 |
+| Leapfrog | 0.30% | ~3,237 |
+| Cottage Owner | 0.30% | ~3,237 |
+| Escaping the Nightmare | 0.30% | ~3,237 |
+| Campbell's Chapel Legacy | 0.30% | ~3,237 |
+| Ancestor's Rite | 0.30% | ~3,237 |
+| Devoted Gatekeeping | 0.30% | ~3,237 |
+| Shrine Apparatus | 0.30% | ~3,237 |
+| Outrun Evil | 0.30% | ~3,237 |
+| Grim Pilgrimage | 0.30% | ~3,237 |
+| End of Days | 0.30% | ~3,237 |
+| Outrun the Overlap | 0.30% | ~3,237 |
+| A Fast Death | 0.30% | ~3,237 |
+| Extraterrestrial | 0.30% | ~3,237 |
+| One More Step | 0.30% | ~3,237 |
+| MU/TH/UR Dearest | 0.30% | ~3,237 |
+| Outta Nowhere | 0.30% | ~3,237 |
 | Blood in your mouth | 0.20% | ~2,158 |
 | Jump Scares | 0.20% | ~2,158 |
 | Hemophobia | 0.20% | ~2,158 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,079 |
 | Adept Good Guy | 0.10% | ~1,079 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,078,813 (Ranked 14)  
+Progressed: 1,078,905 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -471,10 +471,10 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
 | 2023-12-07 | 1,077,876 | 61 |
-| 2023-12-08 | 1,078,813 | 61 |
+| 2023-12-08 | 1,078,905 | 61 |
 ## Awards
 Max (Diverse Characters): 37,508  (Ranked 15)  
-Sum: 284,404 (Ranked 12)  
+Sum: 284,455 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -483,7 +483,7 @@ Diff (max vs sum): 3
 | This game has Amazing Characters | 32,069 |
 | This game has Competitive Players | 31,889 |
 | This game is Extremely Fun | 31,522 |
-| This game has Challenging Combat | 31,400 |
+| This game has Challenging Combat | 31,451 |
 | This game has Quickly Understood Controls | 30,686 |
 | This game has Amazing Storytelling | 29,037 |
 | This game has a Competitive Community | 27,748 |
@@ -810,4 +810,4 @@ Diff (max vs sum): 3
 | 2023-12-05 | 4.51 | - | 37,377 | 283,349 |
 | 2023-12-06 | 4.51 | - | 37,449 | 283,748 |
 | 2023-12-07 | 4.51 | - | 37,449 | 284,097 |
-| 2023-12-08 | 4.51 | - | 37,508 | 284,404 |
+| 2023-12-08 | 4.51 | - | 37,508 | 284,455 |

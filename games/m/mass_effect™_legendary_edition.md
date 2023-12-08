@@ -17,8 +17,8 @@
 | Turian Ally | 53.00% | ~810 |
 | Medal of Honor | 52.00% | ~795 |
 | Meritorious Service Medal | 52.00% | ~795 |
+| Soldier | 51.00% | ~780 |
 | Charismatic | 51.00% | ~780 |
-| Soldier | 50.00% | ~764 |
 | Soldier Ally | 47.00% | ~719 |
 | Asari Ally | 47.00% | ~719 |
 | Medal of Exploration III | 46.00% | ~703 |
@@ -47,6 +47,7 @@
 | The Quarian | 33.00% | ~505 |
 | The Prodigal | 33.00% | ~505 |
 | Galactic Explorer | 33.00% | ~505 |
+| Driven | 33.00% | ~505 |
 | Shopaholic | 33.00% | ~505 |
 | The Assassin | 32.00% | ~489 |
 | The Justicar | 32.00% | ~489 |
@@ -54,7 +55,6 @@
 | Catharsis | 32.00% | ~489 |
 | Ghost of the Father | 32.00% | ~489 |
 | The Cure | 32.00% | ~489 |
-| Driven | 32.00% | ~489 |
 | Focused | 31.00% | ~474 |
 | Completionist | 31.00% | ~474 |
 | Fade Away | 31.00% | ~474 |

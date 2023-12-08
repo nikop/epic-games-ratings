@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -4675,9 +4675,9 @@
       "ID": "achievement_125",
       "SetID": "d252ncf",
       "Name": "Soldier",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 780
     },
     {
       "ID": "achievement_126",
@@ -5275,9 +5275,9 @@
       "ID": "achievement_79",
       "SetID": "d252ncf",
       "Name": "Driven",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 505
     },
     {
       "ID": "achievement_8",
@@ -5471,8 +5471,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-08T11:09:01.162719+00:00",
+  "LastChanged_Achievements": "2023-12-08T12:10:26.1431229+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-08T11:02:57.0591957+00:00",
-  "LastUpdate_Achievements": "2023-12-08T11:09:01.1628755+00:00"
+  "LastUpdate_Ratings": "2023-12-08T12:03:46.0576701+00:00",
+  "LastUpdate_Achievements": "2023-12-08T12:10:26.1434917+00:00"
 }

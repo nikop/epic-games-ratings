@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5257,10 +5257,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6652,
       "NumberOfAwardsMax": 2678
+    },
+    {
+      "Time": "2023-12-08T12:03:52.1069838+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6657,
+      "NumberOfAwardsMax": 2678
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6652,
+  "NumberOfAwards": 6657,
   "NumberOfAwardsMax": 2678,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5316,7 +5322,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 402
+      "Count": 407
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5331,10 +5337,10 @@
       "Count": 411
     }
   ],
-  "EOS_Progressed": 236745,
-  "EOS_Completed": 567,
-  "EOS_NewPlayers": 5013,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 236760,
+  "EOS_Completed": 568,
+  "EOS_NewPlayers": 4993,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -21981,6 +21987,11 @@
       "Time": "2023-12-08T11:08:44.8067778+00:00",
       "NumProgressed": 236745,
       "NumCompleted": 567
+    },
+    {
+      "Time": "2023-12-08T12:10:04.4511471+00:00",
+      "NumProgressed": 236760,
+      "NumCompleted": 568
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22001,7 +22012,7 @@
       "Name": "Crafty",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Defeat_Abberations_A",
@@ -22025,7 +22036,7 @@
       "Name": "Only Human",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Defeat_Corrupted_Ravager",
@@ -22121,7 +22132,7 @@
       "Name": "Red Room",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Discover_Letos_Lab",
@@ -22129,7 +22140,7 @@
       "Name": "The Agenda",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Meet_Custodian",
@@ -22241,7 +22252,7 @@
       "Name": "The Trigger",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Obtain_Melee_Weapons_A",
@@ -22257,7 +22268,7 @@
       "Name": "Cutting Edge",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Obtain_Nightweaver_Item",
@@ -22273,7 +22284,7 @@
       "Name": "The Collector",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Obtain_Scrap_A",
@@ -22297,7 +22308,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "Obtain_Traits_B",
@@ -22313,7 +22324,7 @@
       "Name": "Proving Grounds",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Obtain_Water_Harp_Item",
@@ -22321,7 +22332,7 @@
       "Name": "Carnage in C-Minor",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -22361,7 +22372,7 @@
       "Name": "No One Should Have All That Power",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Upgrade_Traits_A",
@@ -22377,7 +22388,7 @@
       "Name": "Maxed Out!",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Upgrade_Weapon_Mutator",
@@ -22432,22 +22443,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 236745,
-      "Completed": 567
+      "Progressed": 236760,
+      "Completed": 568
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 15910,
+      "Progressed": 15925,
       "Completed": 205
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-08T11:03:01.3281653+00:00",
-  "LastChanged_Achievements": "2023-12-08T11:08:44.8067774+00:00",
+  "LastChanged": "2023-12-08T12:03:52.1069836+00:00",
+  "LastChanged_Achievements": "2023-12-08T12:10:04.4511468+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-08T11:03:01.3281661+00:00",
-  "LastUpdate_Achievements": "2023-12-08T11:08:44.8068836+00:00"
+  "LastUpdate_Ratings": "2023-12-08T12:03:52.1069842+00:00",
+  "LastUpdate_Achievements": "2023-12-08T12:10:04.451241+00:00"
 }

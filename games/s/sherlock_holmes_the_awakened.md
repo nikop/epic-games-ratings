@@ -1,23 +1,23 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.69 (Ranked 232)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 64.00% | ~586 |
-| To Hell In A Handcart | 64.00% | ~586 |
-| High Profile | 57.00% | ~522 |
+| Read Between The Lines | 64.00% | ~587 |
+| To Hell In A Handcart | 64.00% | ~587 |
+| High Profile | 57.00% | ~523 |
 | Whispers In The Dark | 54.00% | ~495 |
-| Fond Memories | 52.00% | ~476 |
+| Fond Memories | 52.00% | ~477 |
 | A Method To His Madness | 50.00% | ~458 |
 | History Check | 49.00% | ~449 |
 | The New World | 47.00% | ~431 |
-| Open Sesame | 46.00% | ~421 |
-| Sticky Fingers | 46.00% | ~421 |
-| Knives Out | 46.00% | ~421 |
-| Gaze Into The Abyss | 45.00% | ~412 |
-| Land, Ho! | 45.00% | ~412 |
+| Open Sesame | 46.00% | ~422 |
+| Sticky Fingers | 46.00% | ~422 |
+| Knives Out | 46.00% | ~422 |
+| Gaze Into The Abyss | 45.00% | ~413 |
+| Land, Ho! | 45.00% | ~413 |
 | Lock, Stock, And Barrel | 44.00% | ~403 |
 | Back In The Saddle | 44.00% | ~403 |
 | No Man Is An Island | 44.00% | ~403 |
@@ -28,14 +28,14 @@ Rating: 4.69 (Ranked 231)
 | Going Once... | 38.00% | ~348 |
 | Let Me Be Frank | 36.00% | ~330 |
 | No Stone Unturned | 35.00% | ~321 |
-| Brain Food | 33.00% | ~302 |
-| Read It And Weep | 21.00% | ~192 |
+| Brain Food | 33.00% | ~303 |
+| Read It And Weep | 21.00% | ~193 |
 | Curiosity Killed The Cat | 18.00% | ~165 |
 | Big Breakthrough | 13.00% | ~119 |
 | Reawakened | 4.00% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 916 (Ranked 272)  
-Completed: 28 (3.06%) (Ranked 105)  
+Progressed: 917 (Ranked 272)  
+Completed: 28 (3.05%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -222,7 +222,7 @@ Completed: 28 (3.06%) (Ranked 105)
 | 2023-12-05 | 833 | 28 |
 | 2023-12-06 | 858 | 28 |
 | 2023-12-07 | 895 | 28 |
-| 2023-12-08 | 916 | 28 |
+| 2023-12-08 | 917 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

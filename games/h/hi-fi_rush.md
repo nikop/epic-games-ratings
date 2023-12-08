@@ -14,8 +14,8 @@ Rating: 4.87 (Ranked 25)
 | You got this, Peppermint? | 15.00% | ~673 |
 | Perfect Parry | 14.00% | ~628 |
 | Alright, that felt AWESOME! | 14.00% | ~628 |
+| This will cost you big time | 13.00% | ~583 |
 | Uh, they were broken when I got here | 13.00% | ~583 |
-| This will cost you big time | 12.00% | ~538 |
 | I play my own way! | 12.00% | ~538 |
 | Z-shielding's got nothing on us! | 12.00% | ~538 |
 | Whoa! There's ANOTHER health bar!? | 11.00% | ~493 |

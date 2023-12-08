@@ -2,7 +2,7 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 114,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 581,
+  "EOS_Progressed": 586,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -137,6 +137,11 @@
       "Time": "2023-12-08T11:08:47.4074056+00:00",
       "NumProgressed": 581,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T12:10:07.8104276+00:00",
+      "NumProgressed": 586,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -147,9 +152,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 146
     },
     {
       "ID": "03_TheStolenStar",
@@ -251,9 +256,9 @@
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "16_TheRise",
@@ -363,9 +368,9 @@
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 117
     },
     {
       "ID": "30_The GreatestExploration",
@@ -668,14 +673,14 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 581,
+      "Progressed": 586,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-08T11:08:47.4074052+00:00",
+  "LastChanged_Achievements": "2023-12-08T12:10:07.8104272+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-08T10:58:07.8642634+00:00",
-  "LastUpdate_Achievements": "2023-12-08T11:08:47.4074475+00:00"
+  "LastUpdate_Ratings": "2023-12-08T11:58:36.0406758+00:00",
+  "LastUpdate_Achievements": "2023-12-08T12:10:07.8104775+00:00"
 }

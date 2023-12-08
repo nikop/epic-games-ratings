@@ -1,30 +1,30 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.69 (Ranked 232)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 31.00% | ~213,343 |
-| 50 HEADSHOTS | 29.00% | ~199,579 |
-| SCIENCE AND INDUSTRY | 28.00% | ~192,697 |
-| FINISHED CHAPTER 1 | 27.00% | ~185,815 |
-| FINISHED CHAPTER 2 | 20.00% | ~137,641 |
-| 200 HEADSHOTS | 17.00% | ~116,995 |
-| FINISHED CHAPTER 3 | 17.00% | ~116,995 |
-| FINISHED CHAPTER 4 | 14.00% | ~96,349 |
-| FINISH CHAPTER 5 | 12.00% | ~82,584 |
-| CATHARTIC ESCAPISM | 11.00% | ~75,702 |
-| FINISH CHAPTER 6 | 10.00% | ~68,820 |
-| 1000 KILLS | 9.00% | ~61,938 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,528 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,764 |
-| FIRST BLOOD | 2.00% | ~13,764 |
+| 100 KILLS | 31.00% | ~213,332 |
+| 50 HEADSHOTS | 29.00% | ~199,568 |
+| SCIENCE AND INDUSTRY | 28.00% | ~192,687 |
+| FINISHED CHAPTER 1 | 27.00% | ~185,805 |
+| FINISHED CHAPTER 2 | 20.00% | ~137,633 |
+| 200 HEADSHOTS | 17.00% | ~116,988 |
+| FINISHED CHAPTER 3 | 17.00% | ~116,988 |
+| FINISHED CHAPTER 4 | 14.00% | ~96,343 |
+| FINISH CHAPTER 5 | 12.00% | ~82,580 |
+| CATHARTIC ESCAPISM | 11.00% | ~75,698 |
+| FINISH CHAPTER 6 | 10.00% | ~68,817 |
+| 1000 KILLS | 9.00% | ~61,935 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,527 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,763 |
+| FIRST BLOOD | 2.00% | ~13,763 |
 | PACEMAKER | 1.00% | ~6,882 |
 | TIME PARADOX | 1.00% | ~6,882 |
 | FIREFIGHT LEVEL 30 | 0.90% | ~6,194 |
 | OUT OF ORDER | 0.90% | ~6,194 |
-| PARTYHARD | 0.80% | ~5,506 |
+| PARTYHARD | 0.80% | ~5,505 |
 | NEW GAME PLUS | 0.70% | ~4,817 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,441 |
 | CHURCH | 0.40% | ~2,753 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 231)
 | THE GAMBLER | 0.10% | ~688 |
 | WARRIOR IN A GARDEN | 0.10% | ~688 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 688,204 (Ranked 26)  
+Progressed: 688,167 (Ranked 26)  
 Completed: 78 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |

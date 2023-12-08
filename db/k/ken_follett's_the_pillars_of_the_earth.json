@@ -15848,9 +15848,9 @@
       "ID": "tpote_achievement_3",
       "SetID": "3jcf6c3",
       "Name": "Let there be darkness",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5241
+      "UsersEstimate": 5410
     },
     {
       "ID": "tpote_achievement_30",
@@ -16008,8 +16008,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-08T11:03:07.5487684+00:00",
+  "LastChanged_Achievements": "2023-12-08T12:04:02.5302124+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-08T11:00:16.6596384+00:00",
-  "LastUpdate_Achievements": "2023-12-08T11:03:07.5488656+00:00"
+  "LastUpdate_Ratings": "2023-12-08T12:01:40.8601377+00:00",
+  "LastUpdate_Achievements": "2023-12-08T12:04:02.5303122+00:00"
 }

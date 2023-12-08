@@ -32,6 +32,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Against All Odds | 0.20% | ~35 |
 | Ruined Armory | 0.20% | ~35 |
 | Bandit Camp | 0.20% | ~35 |
+| Haunted Forest | 0.20% | ~35 |
 | Levitating Monument | 0.20% | ~35 |
 | Flooded Mines | 0.20% | ~35 |
 | Monastery of the Holy Flame | 0.20% | ~35 |
@@ -53,7 +54,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 0.10% | ~18 |
 | Fishmen Ritual Site | 0.10% | ~18 |
 | Forbidden Lands | 0.10% | ~18 |
-| Haunted Forest | 0.10% | ~18 |
 | Forsaken Gods Temple | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
 | The Queen's Chosen | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,660 (Ranked 146)  
+Progressed: 17,661 (Ranked 146)  
 Completed: 44 (0.25%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 44 (0.25%) (Ranked 251)
 | 2023-12-05 | 17,618 | 49 |
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
-| 2023-12-08 | 17,660 | 44 |
+| 2023-12-08 | 17,661 | 44 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,244 (Ranked 174)  

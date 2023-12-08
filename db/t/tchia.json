@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7890,
+  "EOS_Progressed": 7891,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8771,6 +8771,11 @@
       "Time": "2023-12-08T10:03:28.1619453+00:00",
       "NumProgressed": 7890,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-08T12:04:10.8885751+00:00",
+      "NumProgressed": 7891,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8862,7 +8867,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "HISTORIAN",
@@ -8894,7 +8899,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "LIVE_WIRE",
@@ -8910,7 +8915,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "SNIP_SNIP",
@@ -8949,7 +8954,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7890,
+      "Progressed": 7891,
       "Completed": 34
     }
   ],
@@ -8957,8 +8962,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-08T11:03:13.8070798+00:00",
+  "LastChanged_Achievements": "2023-12-08T12:04:10.8885748+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:30.2114196+00:00",
-  "LastUpdate_Ratings": "2023-12-08T10:58:57.0753649+00:00",
-  "LastUpdate_Achievements": "2023-12-08T11:03:13.8071303+00:00"
+  "LastUpdate_Ratings": "2023-12-08T11:59:46.2540293+00:00",
+  "LastUpdate_Achievements": "2023-12-08T12:04:10.8886284+00:00"
 }
