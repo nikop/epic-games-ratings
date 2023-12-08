@@ -102,9 +102,9 @@
 | 100 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 100 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
 | 102 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.10% |
-| 103 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.09% |
-| 104 | [Doodle God](games/d/doodle_god.md) | 3.08% |
-| 104 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
+| 103 | [Doodle God](games/d/doodle_god.md) | 3.08% |
+| 103 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
+| 103 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.08% |
 | 106 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.06% |
 | 107 | [HordeCore](games/h/hordecore.md) | 3.04% |
 | 108 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
@@ -176,7 +176,7 @@
 | 174 | [A Musical Story](games/a/a_musical_story.md) | 0.93% |
 | 175 | [Hades](games/h/hades.md) | 0.91% |
 | 176 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.89% |
-| 177 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.88% |
+| 176 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.89% |
 | 178 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
 | 179 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.86% |
 | 180 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
