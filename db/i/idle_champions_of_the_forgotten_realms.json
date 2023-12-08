@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8623,7 +8623,7 @@
       "Count": 3559
     }
   ],
-  "EOS_Progressed": 238954,
+  "EOS_Progressed": 238958,
   "EOS_Completed": 2506,
   "EOS_NewPlayers": 1052,
   "EOS_NewCompleters": 15,
@@ -34773,6 +34773,11 @@
       "Time": "2023-12-08T20:10:27.582671+00:00",
       "NumProgressed": 238954,
       "NumCompleted": 2506
+    },
+    {
+      "Time": "2023-12-08T21:09:57.8141049+00:00",
+      "NumProgressed": 238958,
+      "NumCompleted": 2506
     }
   ],
   "TotalAchievements": 532,
@@ -36574,9 +36579,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 478
     },
     {
       "ID": "objective_completed_390",
@@ -39039,21 +39044,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 205228,
+      "Progressed": 205232,
       "Completed": 3961
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 238954,
+      "Progressed": 238958,
       "Completed": 2506
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-08T16:58:55.777129+00:00",
-  "LastChanged_Achievements": "2023-12-08T20:10:27.5826707+00:00",
+  "LastChanged_Achievements": "2023-12-08T21:09:57.8141043+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:02.8479395+00:00",
-  "LastUpdate_Ratings": "2023-12-08T19:59:17.0373481+00:00",
-  "LastUpdate_Achievements": "2023-12-08T20:10:27.5848121+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:59:08.0523697+00:00",
+  "LastUpdate_Achievements": "2023-12-08T21:09:57.816345+00:00"
 }

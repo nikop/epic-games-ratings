@@ -4,8 +4,8 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 214,
+  "EOS_Progressed": 215,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.74,
+  "EOS_Completed_Percentage": 3.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -876,6 +876,11 @@
       "Time": "2023-12-03T18:06:13.7822985+00:00",
       "NumProgressed": 214,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-08T21:05:44.1179179+00:00",
+      "NumProgressed": 215,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 17,
@@ -885,9 +890,9 @@
       "ID": "0",
       "SetID": "acl54ke",
       "Name": "Solved first case",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "1",
@@ -909,9 +914,9 @@
       "ID": "2",
       "SetID": "acl54ke",
       "Name": "Solved third case",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "3",
@@ -975,7 +980,7 @@
       "Name": "Solved The Spider of Lanka 1st Case",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "12",
@@ -1022,13 +1027,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 214,
+      "Progressed": 215,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 109
     }
   ],
@@ -1036,8 +1041,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-12-08T20:05:59.0895698+00:00",
+  "LastChanged_Achievements": "2023-12-08T21:05:44.1179176+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:51.7939148+00:00",
-  "LastUpdate_Ratings": "2023-12-08T20:00:36.8461914+00:00",
-  "LastUpdate_Achievements": "2023-12-08T20:05:59.089585+00:00"
+  "LastUpdate_Ratings": "2023-12-08T21:00:21.5126968+00:00",
+  "LastUpdate_Achievements": "2023-12-08T21:05:44.1179331+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "85f0435aa88347d185dbcb147716609b",
   "Name": "Predecessor",
   "ProductSlug": "predecessor",
-  "Ranking_Rating": 715,
+  "Ranking_Rating": 726,
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-12-01T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2022-12-02T07:57:13.3206905+00:00",
@@ -4045,6 +4045,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 1302,
       "NumberOfAwardsMax": 225
+    },
+    {
+      "Time": "2023-12-08T20:57:48.9831964+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 1302,
+      "NumberOfAwardsMax": 225
     }
   ],
   "ReviewsDisabled": false,
@@ -4125,8 +4131,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2023-12-08T15:57:40.1234651+00:00",
+  "LastChanged": "2023-12-08T20:57:48.9831962+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:28.968027+00:00",
-  "LastUpdate_Ratings": "2023-12-08T19:57:52.7404379+00:00",
-  "LastUpdate_Achievements": "2023-12-08T20:04:23.8726314+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:57:48.9831981+00:00",
+  "LastUpdate_Achievements": "2023-12-08T21:04:15.1840672+00:00"
 }

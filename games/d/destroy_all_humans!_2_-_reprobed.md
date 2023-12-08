@@ -15,6 +15,7 @@ Number of Ratings: 90  (23.09.2022)
 | Cult Following | 8.00% | ~2 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~2 |
 | Bodied Sattva | 8.00% | ~2 |
+| Pimp My Raid | 8.00% | ~2 |
 | Perfect Probulator | 4.00% | ~1 |
 | Lie Back and Think of Albion | 4.00% | ~1 |
 | Fly Me to the Moon Base | 4.00% | ~1 |
@@ -25,7 +26,6 @@ Number of Ratings: 90  (23.09.2022)
 | Earthly Pleasures | 4.00% | ~1 |
 | Upgreatest | 4.00% | ~1 |
 | Dusted | 4.00% | ~1 |
-| Pimp My Raid | 4.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |
 | Arty Facts | 0.00% | ~0 |

@@ -3,9 +3,9 @@
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 378,
-  "Ranking_EOS_Completed": 41,
+  "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 244,
-  "EOS_Completed": 25,
+  "EOS_Completed": 26,
   "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.25,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 10.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -570,6 +570,11 @@
       "Time": "2023-12-08T15:09:29.8867101+00:00",
       "NumProgressed": 244,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-08T21:09:17.565939+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 17,
@@ -717,15 +722,15 @@
       "ID": "202dmm8",
       "IsBase": true,
       "Progressed": 244,
-      "Completed": 25
+      "Completed": 26
     }
   ],
   "FirstSeen": "2022-11-05T14:31:21.414427+00:00",
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-08T20:09:45.5282642+00:00",
+  "LastChanged_Achievements": "2023-12-08T21:09:17.5659383+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:20.7396665+00:00",
-  "LastUpdate_Ratings": "2023-12-08T19:57:21.3450303+00:00",
-  "LastUpdate_Achievements": "2023-12-08T20:09:45.5282772+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:57:19.9067548+00:00",
+  "LastUpdate_Achievements": "2023-12-08T21:09:17.5659551+00:00"
 }

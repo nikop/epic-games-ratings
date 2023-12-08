@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -203,7 +203,7 @@
   "Tags": [],
   "EOS_Progressed": 7574,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6145,9 +6145,9 @@
       "ID": "UnResurrected",
       "SetID": "acc6ea0",
       "Name": "Un-Resurrected",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 530
+      "UsersEstimate": 606
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -6202,8 +6202,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-08T20:10:10.6389095+00:00",
+  "LastChanged_Achievements": "2023-12-08T21:09:41.4821322+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-08T19:57:05.3682102+00:00",
-  "LastUpdate_Achievements": "2023-12-08T20:10:10.6389637+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:57:04.9862207+00:00",
+  "LastUpdate_Achievements": "2023-12-08T21:09:41.4821858+00:00"
 }

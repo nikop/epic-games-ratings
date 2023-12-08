@@ -5,16 +5,16 @@ Rating: 4.05 (Ranked 994)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,940 |
+| Victor | 93.00% | ~2,941 |
 | World Map | 78.00% | ~2,466 |
 | Temple of Eternals | 57.00% | ~1,802 |
-| Prestigious | 53.00% | ~1,675 |
+| Prestigious | 53.00% | ~1,676 |
 | Fellowship Power | 42.00% | ~1,328 |
 | Guild Power | 24.00% | ~759 |
 | Full Party | 21.00% | ~664 |
 | Prestigious x10 | 21.00% | ~664 |
 | The game is on | 19.00% | ~601 |
-| Exotic Merchant | 17.00% | ~537 |
+| Exotic Merchant | 17.00% | ~538 |
 | Dragon Clicker | 16.00% | ~506 |
 | Inspection | 15.00% | ~474 |
 | Miner Clicker | 15.00% | ~474 |
@@ -28,13 +28,13 @@ Rating: 4.05 (Ranked 994)
 | Milestone collector | 11.00% | ~348 |
 | Mysterious Rock | 11.00% | ~348 |
 | Scientist | 10.00% | ~316 |
-| Challenger | 9.00% | ~284 |
-| Daily Quest Completionist | 9.00% | ~284 |
-| Doing My Part | 9.00% | ~284 |
-| Hunter | 9.00% | ~284 |
-| Mastery | 9.00% | ~284 |
-| Scroll Master | 9.00% | ~284 |
-| The power of Awakening | 9.00% | ~284 |
+| Challenger | 9.00% | ~285 |
+| Daily Quest Completionist | 9.00% | ~285 |
+| Doing My Part | 9.00% | ~285 |
+| Hunter | 9.00% | ~285 |
+| Mastery | 9.00% | ~285 |
+| Scroll Master | 9.00% | ~285 |
+| The power of Awakening | 9.00% | ~285 |
 | Four Leaf Clover | 8.00% | ~253 |
 | Frostfire Liberator | 8.00% | ~253 |
 | Moving Up The Ladder | 8.00% | ~253 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 994)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,161 (Ranked 211)  
+Progressed: 3,162 (Ranked 211)  
 Completed: 2 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-05 | 3,056 | 2 |
 | 2023-12-06 | 3,082 | 2 |
 | 2023-12-07 | 3,117 | 2 |
-| 2023-12-08 | 3,161 | 2 |
+| 2023-12-08 | 3,162 | 2 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 475)  
 Sum: 141 (Ranked 432)  

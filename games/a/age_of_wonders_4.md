@@ -20,6 +20,7 @@ Rating: 4.61 (Ranked 386)
 | Stronger Together | 2.00% | ~112 |
 | Magical Synergy | 2.00% | ~112 |
 | In a Liege of Your Own | 2.00% | ~112 |
+| Fiery Friend | 2.00% | ~112 |
 | Impenetrable Fortress | 2.00% | ~112 |
 | Intimidation Tactics | 2.00% | ~112 |
 | Tipping the Scales | 2.00% | ~112 |
@@ -32,7 +33,6 @@ Rating: 4.61 (Ranked 386)
 | Crimson Caldera | 1.00% | ~56 |
 | Preparation Is Everything | 1.00% | ~56 |
 | My Final Form | 1.00% | ~56 |
-| Fiery Friend | 1.00% | ~56 |
 | Here be Dragons | 1.00% | ~56 |
 | Blood of the Dragon | 1.00% | ~56 |
 | Mighty Hoard | 1.00% | ~56 |

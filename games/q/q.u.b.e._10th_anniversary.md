@@ -1,36 +1,36 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.41 (Ranked 727)  
+Rating: 4.41 (Ranked 726)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 26.00% | ~6,285 |
-| Sector 2 | 23.00% | ~5,560 |
-| Crush That Cube! | 19.00% | ~4,593 |
-| Sector 3 | 19.00% | ~4,593 |
-| Sector 4 | 16.00% | ~3,868 |
-| Crush That Ball! | 15.00% | ~3,626 |
-| Sector 5 | 10.00% | ~2,417 |
-| Sector 6 | 9.00% | ~2,175 |
-| Feeling the Blues | 7.00% | ~1,692 |
-| Squished | 6.00% | ~1,450 |
-| Finale | 6.00% | ~1,450 |
-| Sector 7 | 6.00% | ~1,450 |
-| Did That Work? -- No! | 6.00% | ~1,450 |
-| Master Room | 3.00% | ~725 |
-| Bronze Trophy | 2.00% | ~483 |
-| Gold Trophy | 2.00% | ~483 |
-| Hopefully that's all of them! | 2.00% | ~483 |
-| Phew! | 2.00% | ~483 |
-| The Puzzle Master | 2.00% | ~483 |
-| Silver Trophy | 2.00% | ~483 |
-| Completed It. | 2.00% | ~483 |
+| Sector 1 | 26.00% | ~6,288 |
+| Sector 2 | 23.00% | ~5,562 |
+| Crush That Cube! | 19.00% | ~4,595 |
+| Sector 3 | 19.00% | ~4,595 |
+| Sector 4 | 16.00% | ~3,869 |
+| Crush That Ball! | 15.00% | ~3,628 |
+| Sector 5 | 10.00% | ~2,418 |
+| Sector 6 | 9.00% | ~2,177 |
+| Feeling the Blues | 7.00% | ~1,693 |
+| Squished | 6.00% | ~1,451 |
+| Finale | 6.00% | ~1,451 |
+| Sector 7 | 6.00% | ~1,451 |
+| Did That Work? -- No! | 6.00% | ~1,451 |
+| Master Room | 3.00% | ~726 |
+| Bronze Trophy | 2.00% | ~484 |
+| Gold Trophy | 2.00% | ~484 |
+| Hopefully that's all of them! | 2.00% | ~484 |
+| Phew! | 2.00% | ~484 |
+| The Puzzle Master | 2.00% | ~484 |
+| Silver Trophy | 2.00% | ~484 |
+| Completed It. | 2.00% | ~484 |
 | The Collector | 1.00% | ~242 |
 | Master Of The Collectables | 1.00% | ~242 |
 | Maxed Out | 1.00% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,172 (Ranked 135)  
+Progressed: 24,184 (Ranked 135)  
 Completed: 145 (0.60%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 145 (0.60%) (Ranked 192)
 | 2023-12-05 | 23,768 | 136 |
 | 2023-12-06 | 23,915 | 139 |
 | 2023-12-07 | 24,058 | 142 |
-| 2023-12-08 | 24,172 | 145 |
+| 2023-12-08 | 24,184 | 145 |
 ## Awards
 Max (Challenging Puzzles): 22  (Ranked 542)  
 Sum: 22 (Ranked 544)  

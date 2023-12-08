@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 7.00% | ~1,097 |
-| Settler | 7.00% | ~1,097 |
-| Play a Single Player Game | 7.00% | ~1,097 |
+| Explorer | 7.00% | ~1,098 |
+| Settler | 7.00% | ~1,098 |
+| Play a Single Player Game | 7.00% | ~1,098 |
 | Friendly Family | 6.00% | ~941 |
 | Able | 5.00% | ~784 |
 | Architect | 5.00% | ~784 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,678 (Ranked 152)  
+Progressed: 15,679 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,7 +581,7 @@ Completed: 5 (0.03%) (Ranked 333)
 | 2023-12-05 | 15,649 | 5 |
 | 2023-12-06 | 15,662 | 5 |
 | 2023-12-07 | 15,669 | 5 |
-| 2023-12-08 | 15,678 | 5 |
+| 2023-12-08 | 15,679 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 275)  
 Sum: 1,895 (Ranked 220)  

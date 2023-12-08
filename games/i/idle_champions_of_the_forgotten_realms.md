@@ -12,6 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.30% | ~717 |
 | Were-verpowered | 0.20% | ~478 |
 | The Ring of Regeneration | 0.20% | ~478 |
+| Seeking Allies | 0.20% | ~478 |
 | Are Ya Chicken? | 0.20% | ~478 |
 | The Beginning is the End | 0.20% | ~410 |
 | The End is the Beginning | 0.20% | ~410 |
@@ -234,7 +235,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spirit of the Trickster Gods | 0.10% | ~205 |
 | Flies on the Wall | 0.10% | ~239 |
 | The Killer Mists | 0.10% | ~239 |
-| Seeking Allies | 0.10% | ~239 |
 | Class Vacation | 0.10% | ~239 |
 | A Nod from Strahd | 0.10% | ~205 |
 | Backtracking Through Barovia | 0.10% | ~239 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~205 |
 | See You on the Flipside | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,954 (Ranked 65)  
+Progressed: 238,958 (Ranked 65)  
 Completed: 2,506 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -771,7 +771,7 @@ Completed: 2,506 (1.05%) (Ranked 167)
 | 2023-12-05 | 238,538 | 2,500 |
 | 2023-12-06 | 238,666 | 2,502 |
 | 2023-12-07 | 238,772 | 2,504 |
-| 2023-12-08 | 238,954 | 2,506 |
+| 2023-12-08 | 238,958 | 2,506 |
 ## Awards
 Max (Great for Beginners): 5,606  (Ranked 70)  
 Sum: 32,786 (Ranked 41)  

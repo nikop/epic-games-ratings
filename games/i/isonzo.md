@@ -6,16 +6,16 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 51.00% | ~4,736 |
-| You Shall Not Pass | 51.00% | ~4,736 |
+| Tutti Eroi! | 51.00% | ~4,737 |
+| You Shall Not Pass | 51.00% | ~4,737 |
 | Peak Performance | 46.00% | ~4,272 |
-| Avanti Savoia! | 44.00% | ~4,086 |
-| Mamma Mia! | 35.00% | ~3,250 |
+| Avanti Savoia! | 44.00% | ~4,087 |
+| Mamma Mia! | 35.00% | ~3,251 |
 | Conrad von Hotzensocks | 32.00% | ~2,972 |
 | Gabriele D'Annunzio | 32.00% | ~2,972 |
-| Silver Lining | 27.00% | ~2,507 |
+| Silver Lining | 27.00% | ~2,508 |
 | Aurelio Baruzzi | 21.00% | ~1,950 |
-| Decimation | 20.00% | ~1,857 |
+| Decimation | 20.00% | ~1,858 |
 | Donatello | 19.00% | ~1,765 |
 | Insubordination | 19.00% | ~1,765 |
 | The Italian Job | 19.00% | ~1,765 |
@@ -24,8 +24,8 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 15.00% | ~1,393 |
 | The Lion of the Isonzo | 15.00% | ~1,393 |
 | Uomo Universale | 13.00% | ~1,207 |
-| Dirty Dozen | 12.00% | ~1,114 |
-| Shaken, Not Stirred | 12.00% | ~1,114 |
+| Dirty Dozen | 12.00% | ~1,115 |
+| Shaken, Not Stirred | 12.00% | ~1,115 |
 | Die Bosniaken Kommen! | 11.00% | ~1,022 |
 | Machiavelli | 11.00% | ~1,022 |
 | Thus With A Kiss | 11.00% | ~1,022 |
@@ -38,8 +38,8 @@ Number of Ratings: 98  (23.09.2022)
 | 12th Bottle of the Isonzo | 6.00% | ~557 |
 | The Enlightment | 6.00% | ~557 |
 | Cercatore d'Oro | 5.00% | ~464 |
-| Generalissimo | 4.00% | ~371 |
-| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~371 |
+| Generalissimo | 4.00% | ~372 |
+| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~372 |
 | Seeing Red | 3.00% | ~279 |
 | Farewell to Arms | 2.00% | ~186 |
 | Ponte of No Return | 2.00% | ~186 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~37 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,287 (Ranked 170)  
+Progressed: 9,288 (Ranked 170)  
 Completed: 10 (0.11%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 10 (0.11%) (Ranked 285)
 | 2023-12-05 | 9,243 | 10 |
 | 2023-12-06 | 9,253 | 10 |
 | 2023-12-07 | 9,268 | 10 |
-| 2023-12-08 | 9,287 | 10 |
+| 2023-12-08 | 9,288 | 10 |
 ## Awards
 Max (Diverse Characters): 39  (Ranked 465)  
 Sum: 325 (Ranked 362)  

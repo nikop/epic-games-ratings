@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3161,
+  "EOS_Progressed": 3162,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9221,6 +9221,11 @@
       "Time": "2023-12-08T20:05:54.2379104+00:00",
       "NumProgressed": 3161,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T21:05:39.7195799+00:00",
+      "NumProgressed": 3162,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9296,7 +9301,7 @@
       "Name": "Challenger",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "conqueror",
@@ -9320,7 +9325,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "doingmypart",
@@ -9328,7 +9333,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "dragonclicker",
@@ -9408,7 +9413,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "fellowshippower",
@@ -9496,7 +9501,7 @@
       "Name": "Hunter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "inspection",
@@ -9552,7 +9557,7 @@
       "Name": "Mastery",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "milestonecollector",
@@ -9624,7 +9629,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "prestigiousx10",
@@ -9664,7 +9669,7 @@
       "Name": "Scroll Master",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "silverwoodliberator",
@@ -9728,7 +9733,7 @@
       "Name": "The power of Awakening",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "theunstoppable",
@@ -9792,7 +9797,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2940
+      "UsersEstimate": 2941
     },
     {
       "ID": "warmachinesarmy",
@@ -9831,7 +9836,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3161,
+      "Progressed": 3162,
       "Completed": 2
     }
   ],
@@ -9839,8 +9844,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-07T20:58:20.4746595+00:00",
-  "LastChanged_Achievements": "2023-12-08T20:05:54.2379101+00:00",
+  "LastChanged_Achievements": "2023-12-08T21:05:39.7195794+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-08T19:59:25.657142+00:00",
-  "LastUpdate_Achievements": "2023-12-08T20:05:54.2380119+00:00"
+  "LastUpdate_Ratings": "2023-12-08T20:59:15.9357515+00:00",
+  "LastUpdate_Achievements": "2023-12-08T21:05:39.7196753+00:00"
 }

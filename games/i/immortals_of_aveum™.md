@@ -30,8 +30,8 @@ Rating: 4.03 (Ranked 1,003)
 | Periapt Cerulean | 13.00% | ~42 |
 | Good Boy | 12.00% | ~39 |
 | Periapt Viridian | 10.00% | ~32 |
+| Best Dressed | 9.00% | ~29 |
 | Shroudfane Explorer | 9.00% | ~29 |
-| Best Dressed | 8.00% | ~26 |
 | Armaments Azure | 8.00% | ~26 |
 | Armaments Gules | 7.00% | ~23 |
 | Scholar | 6.00% | ~20 |
