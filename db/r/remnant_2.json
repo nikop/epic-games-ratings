@@ -5313,9 +5313,9 @@
       "Count": 411
     }
   ],
-  "EOS_Progressed": 236599,
+  "EOS_Progressed": 236625,
   "EOS_Completed": 567,
-  "EOS_NewPlayers": 5159,
+  "EOS_NewPlayers": 5137,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21908,6 +21908,11 @@
       "Time": "2023-12-08T00:09:50.0397433+00:00",
       "NumProgressed": 236599,
       "NumCompleted": 567
+    },
+    {
+      "Time": "2023-12-08T01:57:23.8701478+00:00",
+      "NumProgressed": 236625,
+      "NumCompleted": 567
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22336,7 +22341,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -22359,13 +22364,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 236599,
+      "Progressed": 236625,
       "Completed": 567
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 15764,
+      "Progressed": 15790,
       "Completed": 202
     }
   ],
@@ -22373,8 +22378,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-08T00:03:43.306364+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:09:50.0397429+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:57:23.8701472+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-08T00:03:43.3063645+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:09:50.0398421+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:51:33.1006929+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:57:23.8702475+00:00"
 }

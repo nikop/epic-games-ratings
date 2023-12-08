@@ -2,10 +2,10 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 487,
+  "EOS_Progressed": 505,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -82,6 +82,11 @@
       "Time": "2023-12-08T00:09:53.0201869+00:00",
       "NumProgressed": 487,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T01:57:26.0961347+00:00",
+      "NumProgressed": 505,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -92,9 +97,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 50
     },
     {
       "ID": "03_TheStolenStar",
@@ -308,9 +313,9 @@
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 30
     },
     {
       "ID": "30_The GreatestExploration",
@@ -444,9 +449,9 @@
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "47_AFlame",
@@ -613,14 +618,14 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 487,
+      "Progressed": 505,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:09:53.0201866+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:57:26.0961345+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:58:23.1929177+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:09:53.020228+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:46:09.808353+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:57:26.096184+00:00"
 }

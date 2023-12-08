@@ -3,12 +3,12 @@
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
   "Ranking_Rating": 847,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 759,
+  "EOS_Progressed": 760,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1881,6 +1881,11 @@
       "Time": "2023-12-08T00:10:41.2618458+00:00",
       "NumProgressed": 759,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T01:58:01.7500174+00:00",
+      "NumProgressed": 760,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1901,7 +1906,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "achievement_11",
@@ -1909,7 +1914,7 @@
       "Name": "Gravel Guru",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "achievement_12",
@@ -1949,7 +1954,7 @@
       "Name": "Class Act",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "achievement_17",
@@ -1957,7 +1962,7 @@
       "Name": "Your first time?",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "achievement_18",
@@ -1981,7 +1986,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "achievement_20",
@@ -2045,7 +2050,7 @@
       "Name": "Rookie Season",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_4",
@@ -2100,7 +2105,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 759,
+      "Progressed": 760,
       "Completed": 0
     }
   ],
@@ -2108,8 +2113,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-06T23:57:02.9987926+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:10:41.2618452+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:58:01.7500169+00:00",
   "LastUpdate_AppInfo": "2023-12-05T21:56:59.3509515+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:58:03.5219369+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:10:41.2618641+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:45:56.1963933+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:58:01.7500405+00:00"
 }

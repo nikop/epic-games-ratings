@@ -4,8 +4,8 @@
   "ProductSlug": "providence-2bff8d",
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-06T08:56:58.8157072+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:58:30.4017906+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:04:42.167547+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:46:14.214644+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:52:16.3222291+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "blazing-sails",
   "Ranking_Rating": 1025,
   "Ranking_Popularity": 229,
-  "Ranking_PopularitySum": 185,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
     "PcReleaseDate": "2020-11-05T15:00:00+00:00",
@@ -2037,10 +2037,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 2692,
       "NumberOfAwardsMax": 423
+    },
+    {
+      "Time": "2023-12-08T01:47:40.8584933+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 3037,
+      "NumberOfAwardsMax": 423
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2692,
+  "NumberOfAwards": 3037,
   "NumberOfAwardsMax": 423,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2066,7 +2072,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 332
+      "Count": 345
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2117,8 +2123,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-12-07T18:59:11.9866331+00:00",
+  "LastChanged": "2023-12-08T01:47:40.8584932+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:10.0869014+00:00",
-  "LastUpdate_Ratings": "2023-12-08T00:00:36.5053065+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:09:42.8171453+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:47:40.8584937+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:57:18.5871426+00:00"
 }

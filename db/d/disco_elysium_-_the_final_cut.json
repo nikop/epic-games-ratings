@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1526,9 +1526,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131715,
+  "EOS_Progressed": 131716,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24081,6 +24081,11 @@
       "Time": "2023-12-08T00:04:30.6255257+00:00",
       "NumProgressed": 131715,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-08T01:52:07.9132329+00:00",
+      "NumProgressed": 131716,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24196,7 +24201,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21074
+      "UsersEstimate": 21075
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -24228,7 +24233,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21074
+      "UsersEstimate": 21075
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -24411,15 +24416,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131715,
+      "Progressed": 131716,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-07T20:00:20.2570814+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:04:30.6255251+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:52:07.9132325+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:21.910323+00:00",
-  "LastUpdate_Ratings": "2023-12-08T00:02:40.9923589+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:04:30.62565+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:48:40.3947778+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:52:07.9133353+00:00"
 }

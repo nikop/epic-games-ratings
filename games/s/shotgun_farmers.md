@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~279 |
-| First Blood | 63.00% | ~217 |
-| Triple Kill | 61.00% | ~210 |
-| Aspairagus | 59.00% | ~174 |
-| No Asperascope | 58.00% | ~200 |
-| Survivor | 57.00% | ~168 |
+| Seeds of War | 81.00% | ~280 |
+| First Blood | 63.00% | ~218 |
+| Triple Kill | 62.00% | ~215 |
+| Aspairagus | 59.00% | ~175 |
+| No Asperascope | 58.00% | ~201 |
+| Survivor | 57.00% | ~169 |
 | Cornivore | 55.00% | ~190 |
-| I Believe I Can Fly | 50.00% | ~172 |
+| I Believe I Can Fly | 49.00% | ~170 |
 | No Diggity | 45.00% | ~133 |
 | Early Survivor | 40.00% | ~118 |
-| Bouncemato | 31.00% | ~91 |
+| Bouncemato | 31.00% | ~92 |
 | 10K | 29.00% | ~100 |
 | Amateur Survivor | 29.00% | ~86 |
 | 15K | 27.00% | ~93 |
@@ -24,15 +24,15 @@
 | Pork Chop Express | 20.00% | ~69 |
 | Professional Survivor | 20.00% | ~59 |
 | Skin Of Your Teeth | 18.00% | ~62 |
-| Carrocketeer | 17.00% | ~59 |
+| Carrocketeer | 18.00% | ~62 |
 | This Is My Boomstick | 17.00% | ~50 |
 | Getting Started | 16.00% | ~55 |
 | Eggtraordinary | 15.00% | ~52 |
 | Oh My Gourd | 15.00% | ~44 |
-| Perfect | 12.00% | ~35 |
-| Summers Here | 12.00% | ~35 |
+| Perfect | 12.00% | ~36 |
+| Summers Here | 12.00% | ~36 |
 | Quit Horsin' Around | 11.00% | ~38 |
-| Fresh Pancake | 10.00% | ~34 |
+| Fresh Pancake | 10.00% | ~35 |
 | Quadsparagus | 10.00% | ~30 |
 | Bring Home The Bacon | 9.00% | ~31 |
 | Expert Survivor | 9.00% | ~27 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345 (Ranked 343)  
+Progressed: 346 (Ranked 343)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,6 +222,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-11-26 | 343 | 0 |
 | 2023-12-03 | 344 | 0 |
 | 2023-12-05 | 345 | 0 |
+| 2023-12-08 | 346 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

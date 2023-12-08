@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.62 (Ranked 369)  
+Rating: 4.62 (Ranked 368)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,9 +16,9 @@ Rating: 4.62 (Ranked 369)
 | The Harder They Fall | 22.00% | ~208 |
 | No, Thanks! | 22.00% | ~208 |
 | Breaking Down Barriers | 22.00% | ~208 |
+| The Wicked Twins | 22.00% | ~208 |
 | The Prince in Heels | 22.00% | ~208 |
 | Immaculate Aim | 22.00% | ~208 |
-| The Wicked Twins | 21.00% | ~199 |
 | Honest Mistake | 21.00% | ~199 |
 | Fast Learner | 21.00% | ~199 |
 | Like Clockwork | 20.00% | ~189 |

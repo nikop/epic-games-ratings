@@ -41,11 +41,11 @@
 | It was worth a try | 3.00% | ~3 |
 | Immortalized in my heart | 3.00% | ~3 |
 | Full Scoop | 3.00% | ~3 |
+| Preferred Parent | 3.00% | ~3 |
 | Se7en Seas | 3.00% | ~3 |
 | A Mosaic of Misery | 3.00% | ~3 |
 | The Big Picture | 2.00% | ~2 |
 | Dark correspondence | 2.00% | ~2 |
-| Preferred Parent | 2.00% | ~2 |
 | In One Take | 0.90% | ~1 |
 | Rocket Science | 0.90% | ~1 |
 | The Tree and the Apple | 0.90% | ~1 |

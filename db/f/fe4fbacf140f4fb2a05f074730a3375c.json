@@ -2,10 +2,10 @@
   "ID": "fe4fbacf140f4fb2a05f074730a3375c",
   "Name": "Angelo and Deemon: One Hell of a Quest",
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
-  "Ranking_EOS_Progress": 534,
+  "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
     "PcReleaseDate": "2019-09-27T12:00:00+00:00",
@@ -362,8 +362,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:06:56.0881631+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:53:54.8751361+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:55.6688546+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:59:29.3342317+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:06:56.088175+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:46:54.4148178+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:53:54.8751452+00:00"
 }

@@ -18,9 +18,9 @@ Rating: 4.87 (Ranked 26)
 | This will cost you big time | 12.00% | ~538 |
 | I play my own way! | 12.00% | ~538 |
 | Z-shielding's got nothing on us! | 12.00% | ~538 |
+| Whoa! There's ANOTHER health bar!? | 11.00% | ~493 |
 | Kissing the sky! | 11.00% | ~493 |
 | The Negotiator | 10.00% | ~449 |
-| Whoa! There's ANOTHER health bar!? | 10.00% | ~449 |
 | Out in a puff of smoke | 10.00% | ~449 |
 | I look cool. But I can look COOLER. | 10.00% | ~449 |
 | Headliner | 9.00% | ~404 |
@@ -54,10 +54,10 @@ Rating: 4.87 (Ranked 26)
 | Choose your own adventure | 0.60% | ~18 |
 | Problem solved... wait, what? | 0.50% | ~22 |
 | Now this is how you fight like a team! | 0.50% | ~22 |
+| And the crowd goes wild! | 0.40% | ~18 |
 | I am a good person who likes to help | 0.40% | ~18 |
 | With our powers combined…and to the rhythm… | 0.40% | ~18 |
 | It'll do, CNMN | 0.40% | ~12 |
-| And the crowd goes wild! | 0.30% | ~13 |
 | I can't see this ever being a problem again | 0.30% | ~13 |
 | Fully Powered Up! | 0.30% | ~13 |
 | This was... not what I expected. | 0.20% | ~9 |

@@ -2,13 +2,13 @@
   "ID": "d3288d6aaf794eb4821bab4c5ba08a0a",
   "Name": "New Super Lucky\u0027s Tale",
   "ProductSlug": "new-super-luckys-tale",
-  "Ranking_Rating": 352,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Rating": 351,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-08-21T12:00:00+00:00",
     "PcReleaseDate": "2020-08-21T12:00:00+00:00",
@@ -71,6 +71,6 @@
   "FirstSeenRating": "2022-11-23T20:58:08.5109445+00:00",
   "LastChanged": "2023-10-14T11:02:06.9886938+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:15.1426993+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:59:04.2665857+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:05:29.7614921+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:46:37.0669177+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:52:51.6192787+00:00"
 }

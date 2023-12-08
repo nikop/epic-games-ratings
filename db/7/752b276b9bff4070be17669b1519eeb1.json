@@ -4,11 +4,11 @@
   "ProductSlug": "snowbreak-containment-zone-abc820",
   "Ranking_Rating": 767,
   "Ranking_Popularity": 378,
-  "Ranking_PopularitySum": 313,
+  "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-20T02:00:00+00:00",
     "PcReleaseDate": "2023-07-20T02:00:00+00:00",
@@ -1793,11 +1793,17 @@
       "Rating": 4.38,
       "NumberOfAwards": 611,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-12-08T01:46:30.4623916+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 614,
+      "NumberOfAwardsMax": 94
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 611,
-  "NumberOfAwardsMax": 93,
+  "NumberOfAwards": 614,
+  "NumberOfAwardsMax": 94,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1810,7 +1816,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1858,7 +1864,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 57
+      "Count": 59
     }
   ],
   "EOS_Progressed": 0,
@@ -1873,8 +1879,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2023-12-07T23:58:54.6550638+00:00",
+  "LastChanged": "2023-12-08T01:46:30.4623913+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:54.5320085+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:58:54.6550642+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:06:24.3222667+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:46:30.4623919+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:53:31.3131517+00:00"
 }

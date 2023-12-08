@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 366,
+  "EOS_Progressed": 367,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1134,6 +1134,11 @@
       "Time": "2023-12-07T16:04:09.3985296+00:00",
       "NumProgressed": 366,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T01:52:34.6316958+00:00",
+      "NumProgressed": 367,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1210,7 +1215,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "REMAKE_004",
@@ -1240,9 +1245,9 @@
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 106
     },
     {
       "ID": "Remake_008",
@@ -1369,14 +1374,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 366,
+      "Progressed": 367,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:05:07.2039719+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:52:34.6316954+00:00",
   "LastUpdate_AppInfo": "2023-12-04T22:57:03.327196+00:00",
-  "LastUpdate_Ratings": "2023-12-08T00:00:07.9413536+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:05:07.2039909+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:47:20.460365+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:52:34.631717+00:00"
 }

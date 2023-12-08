@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 89.00% | ~476 |
 | Thalya – Simply Immortal | 89.00% | ~476 |
-| For the Horde! | 82.00% | ~439 |
+| For the Horde! | 83.00% | ~444 |
 | Hammer Time, Round Two | 81.00% | ~433 |
 | The Hellwoods | 77.00% | ~412 |
 | The Plains of Strothalm | 72.00% | ~385 |
@@ -24,7 +24,7 @@
 | Hard Work | 52.00% | ~278 |
 | The Big Eaty | 52.00% | ~278 |
 | YOU SHALL NOT PASS! | 50.00% | ~268 |
-| “… like son” | 48.00% | ~257 |
+| “… like son” | 49.00% | ~262 |
 | Pure Dynamite! | 45.00% | ~241 |
 | The Cathedral of Light | 45.00% | ~241 |
 | Shame! Shame! Shame! | 45.00% | ~241 |
@@ -60,8 +60,8 @@
 | Untouchable | 12.00% | ~64 |
 | Evilification | 11.00% | ~59 |
 | Laser Eyes Are So Useless | 10.00% | ~54 |
+| Heal Heal Blessing | 10.00% | ~54 |
 | Gorgu is in the Best of Health | 9.00% | ~48 |
-| Heal Heal Blessing | 9.00% | ~48 |
 | Hands Off My Stones | 9.00% | ~48 |
 | No Mana, No Cry | 7.00% | ~37 |
 | I Don't Need Any Help | 5.00% | ~27 |

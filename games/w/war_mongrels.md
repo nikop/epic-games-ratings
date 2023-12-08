@@ -21,7 +21,7 @@ Number of Ratings: 34  (23.09.2022)
 | Missing in Action | 34.00% | ~223 |
 | King of Knives | 33.00% | ~216 |
 | Consequences | 32.00% | ~210 |
-| Opportunities | 31.00% | ~203 |
+| Opportunities | 32.00% | ~210 |
 | The Horror | 29.00% | ~190 |
 | The Difference | 27.00% | ~177 |
 | Vengeance | 26.00% | ~171 |
@@ -36,7 +36,7 @@ Number of Ratings: 34  (23.09.2022)
 | Without a Second Thought | 15.00% | ~98 |
 | Collectibles of Chapter III | 14.00% | ~92 |
 | Collectibles of Chapter IV | 14.00% | ~92 |
-| Collectibles of Chapter V | 10.00% | ~66 |
+| Collectibles of Chapter V | 11.00% | ~72 |
 | Tiptoe Around | 10.00% | ~66 |
 | Such is War! | 8.00% | ~52 |
 | Collectibles of Chapter XII | 7.00% | ~46 |

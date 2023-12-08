@@ -3,12 +3,12 @@
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
   "Ranking_Rating": 451,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -205,7 +205,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8341,
+  "EOS_Progressed": 8342,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
@@ -8195,6 +8195,11 @@
       "Time": "2023-12-07T23:09:28.2965598+00:00",
       "NumProgressed": 8341,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T01:58:03.3922447+00:00",
+      "NumProgressed": 8342,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8223,7 +8228,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -8311,7 +8316,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4087
+      "UsersEstimate": 4088
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -8351,7 +8356,7 @@
       "Name": "Scattered Scroll Scrounger",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -8359,7 +8364,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 5088
+      "UsersEstimate": 5089
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -8383,7 +8388,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3920
+      "UsersEstimate": 3921
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8423,7 +8428,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -8439,7 +8444,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -8486,22 +8491,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8341,
+      "Progressed": 8342,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 958,
-      "Completed": 958
+      "Progressed": 959,
+      "Completed": 959
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-04T18:02:55.9509642+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:10:43.7744236+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:58:03.3922444+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-08T00:03:33.5663871+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:10:43.7744771+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:51:26.3265731+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:58:03.3922894+00:00"
 }

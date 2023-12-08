@@ -2,13 +2,13 @@
   "ID": "d0d1b5541a6540d5a81daacb3324639b",
   "Name": "RiME",
   "ProductSlug": "rime",
-  "Ranking_Rating": 388,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Rating": 387,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2017-05-26T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -336,6 +336,6 @@
   "FirstSeen": "2022-07-22T20:23:44.5137427+00:00",
   "LastChanged": "2023-10-18T10:58:59.6013876+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:45.510311+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:58:01.037975+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:04:36.3028098+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:45:54.4255241+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:52:11.9834358+00:00"
 }

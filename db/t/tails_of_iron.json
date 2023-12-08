@@ -3,12 +3,12 @@
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
   "Ranking_Rating": 512,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -4100,9 +4100,9 @@
       "ID": "RescueBrothers",
       "SetID": "9lj35g4",
       "Name": "Rescue Redgi\u0027s Brothers",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1178
     },
     {
       "ID": "ReturnPowerInMines",
@@ -4131,8 +4131,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:06:08.0830918+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:53:19.6358715+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:26.7928423+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:58:22.6266376+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:06:08.0831232+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:46:09.4905015+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:53:19.6359102+00:00"
 }

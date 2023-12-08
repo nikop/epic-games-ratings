@@ -1,19 +1,19 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 388)  
+Rating: 4.61 (Ranked 387)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,909 |
-| Exploitative | 4.00% | ~19,928 |
-| Point Shooting | 4.00% | ~19,928 |
-| Wet Feet | 4.00% | ~19,928 |
-| High Speed Low Drag | 3.00% | ~14,946 |
-| Lucky | 3.00% | ~14,946 |
-| Stylin' | 3.00% | ~14,946 |
-| Turf War | 3.00% | ~14,946 |
+| Wallbanger | 5.00% | ~24,911 |
+| Exploitative | 4.00% | ~19,929 |
+| Point Shooting | 4.00% | ~19,929 |
+| Wet Feet | 4.00% | ~19,929 |
+| High Speed Low Drag | 3.00% | ~14,947 |
+| Lucky | 3.00% | ~14,947 |
+| Stylin' | 3.00% | ~14,947 |
+| Turf War | 3.00% | ~14,947 |
 | Banged | 2.00% | ~9,964 |
 | Checkpoint Victory | 2.00% | ~9,964 |
 | First Blood | 2.00% | ~9,964 |
@@ -29,7 +29,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Personal | 0.90% | ~4,484 |
 | Grounded | 0.80% | ~3,986 |
 | Play to Win | 0.80% | ~3,986 |
-| Special Delivery | 0.70% | ~3,487 |
+| Special Delivery | 0.70% | ~3,488 |
 | Firefight Victory | 0.60% | ~2,989 |
 | #1 | 0.60% | ~2,989 |
 | Cinematic | 0.50% | ~2,491 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~498 |
 | Road Hazard | 0.10% | ~498 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 498,189 (Ranked 37)  
+Progressed: 498,219 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,11 +274,11 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-05 | 497,499 | 2 |
 | 2023-12-06 | 497,840 | 2 |
 | 2023-12-07 | 498,166 | 2 |
-| 2023-12-08 | 498,189 | 2 |
+| 2023-12-08 | 498,219 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 403  (Ranked 233)  
+Max (Quickly Understood Controls): 403  (Ranked 234)  
 Sum: 3,214 (Ranked 175)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 403 |

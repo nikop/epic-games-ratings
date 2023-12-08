@@ -4,8 +4,8 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13488,
+  "EOS_Progressed": 13494,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1149,
+  "EOS_NewPlayers": 1139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8044,6 +8044,11 @@
       "Time": "2023-12-08T00:07:08.9366624+00:00",
       "NumProgressed": 13488,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T01:54:04.3873929+00:00",
+      "NumProgressed": 13494,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -8144,7 +8149,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -8152,7 +8157,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3507
+      "UsersEstimate": 3508
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -8247,14 +8252,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 13488,
+      "Progressed": 13494,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:07:08.936662+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:54:04.3873924+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.7168228+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:57:32.3336557+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:07:08.9367214+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:45:34.5279719+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:54:04.387442+00:00"
 }

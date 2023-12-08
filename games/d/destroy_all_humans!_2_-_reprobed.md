@@ -6,17 +6,18 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 24.00% | ~5 |
-| Rock of the Bay | 24.00% | ~5 |
-| Ducks in a Row, Fish in a Barrel | 14.00% | ~3 |
-| Furon Fashion | 10.00% | ~2 |
-| Shop Til They Drop | 10.00% | ~2 |
+| Mash Machine | 27.00% | ~6 |
+| Rock of the Bay | 27.00% | ~6 |
+| Ducks in a Row, Fish in a Barrel | 18.00% | ~4 |
+| Furon Fashion | 14.00% | ~3 |
+| Shop Til They Drop | 9.00% | ~2 |
 | Cult Following | 5.00% | ~1 |
 | Lie Back and Think of Albion | 5.00% | ~1 |
 | I Look Up As I Walk to Takoshima | 5.00% | ~1 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 5.00% | ~1 |
 | Bodied Sattva | 5.00% | ~1 |
 | Die Nasty | 5.00% | ~1 |
+| Earthly Pleasures | 5.00% | ~1 |
 | Upgreatest | 5.00% | ~1 |
 | Pimp My Raid | 5.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
@@ -40,7 +41,6 @@ Number of Ratings: 90  (23.09.2022)
 | Scuttled | 0.00% | ~0 |
 | Yettisoned | 0.00% | ~0 |
 | The Optional Mandate | 0.00% | ~0 |
-| Earthly Pleasures | 0.00% | ~0 |
 | Higher Than the Futen Zoku | 0.00% | ~0 |
 | Re-Return of the Clone of the Invasion II-2 | 0.00% | ~0 |
 | To Russia With Love | 0.00% | ~0 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 | Arkvoodle Doodle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21 (Ranked 565)  
+Progressed: 22 (Ranked 558)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,6 +63,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-05 | 16 | 0 |
 | 2023-12-06 | 20 | 0 |
 | 2023-12-07 | 21 | 0 |
+| 2023-12-08 | 22 | 0 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 482)  
 Sum: 35 (Ranked 510)  

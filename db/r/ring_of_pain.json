@@ -3494,10 +3494,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11714,
       "NumberOfAwardsMax": 1505
+    },
+    {
+      "Time": "2023-12-08T01:51:07.5193989+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11715,
+      "NumberOfAwardsMax": 1505
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11714,
+  "NumberOfAwards": 11715,
   "NumberOfAwardsMax": 1505,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3505,7 +3511,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1417
+      "Count": 1418
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3568,9 +3574,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240750,
+  "EOS_Progressed": 240752,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -27428,6 +27434,11 @@
       "Time": "2023-12-07T22:10:07.8921192+00:00",
       "NumProgressed": 240750,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-08T01:58:08.3274974+00:00",
+      "NumProgressed": 240752,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -27559,7 +27570,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -28087,7 +28098,7 @@
       "Name": "A Quick Escape",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "PETRIFY50",
@@ -28542,22 +28553,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240750,
+      "Progressed": 240752,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2230,
+      "Progressed": 2232,
       "Completed": 396
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-12-07T22:02:44.0726105+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:10:49.920408+00:00",
+  "LastChanged": "2023-12-08T01:51:07.5193988+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:58:08.3274971+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-08T00:03:06.3049589+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:10:49.9206436+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:51:07.5193993+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:58:08.3277467+00:00"
 }

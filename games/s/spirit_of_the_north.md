@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~52,585 |
-| INFUSED WITH LIGHT | 53.00% | ~40,391 |
-| FOXIN' AROUND | 29.00% | ~22,101 |
-| FETCH | 28.00% | ~21,339 |
-| BLOOMS OF LIGHT | 26.00% | ~19,815 |
-| AWAKEN | 22.00% | ~16,766 |
-| BEST FRIENDS | 22.00% | ~16,766 |
-| ERADICATE | 21.00% | ~16,004 |
-| SPIRIT BARK | 21.00% | ~16,004 |
-| GARDEN OF LIGHT | 18.00% | ~13,718 |
-| SPIRIT FORM | 17.00% | ~12,956 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~52,588 |
+| INFUSED WITH LIGHT | 53.00% | ~40,394 |
+| FOXIN' AROUND | 29.00% | ~22,102 |
+| FETCH | 28.00% | ~21,340 |
+| BLOOMS OF LIGHT | 26.00% | ~19,816 |
+| AWAKEN | 22.00% | ~16,767 |
+| BEST FRIENDS | 22.00% | ~16,767 |
+| ERADICATE | 21.00% | ~16,005 |
+| SPIRIT BARK | 21.00% | ~16,005 |
+| GARDEN OF LIGHT | 18.00% | ~13,719 |
+| SPIRIT FORM | 17.00% | ~12,957 |
 | UPROOTING DARKNESS | 16.00% | ~12,194 |
 | WRITTEN IN STONE | 16.00% | ~12,194 |
-| WEIGHTLESS | 12.00% | ~9,145 |
-| SPIRIT DASH | 11.00% | ~8,383 |
+| WEIGHTLESS | 12.00% | ~9,146 |
+| SPIRIT DASH | 11.00% | ~8,384 |
 | OLD COMPANION | 9.00% | ~6,859 |
 | PLAGUE DOCTOR | 9.00% | ~6,859 |
 | MATCH MAKER | 8.00% | ~6,097 |
 | NORTHERN LIGHTS | 8.00% | ~6,097 |
 | SPIRITED AWAY | 8.00% | ~6,097 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~3,048 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~3,049 |
 | ANCIENT HISTORY | 3.00% | ~2,286 |
 | NONE FORGOTTEN | 2.00% | ~1,524 |
 | KINDRED SPIRITS | 0.60% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,210 (Ranked 100)  
+Progressed: 76,215 (Ranked 100)  
 Completed: 409 (0.54%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 409 (0.54%) (Ranked 205)
 | 2023-12-05 | 76,033 | 408 |
 | 2023-12-06 | 76,116 | 408 |
 | 2023-12-07 | 76,208 | 409 |
-| 2023-12-08 | 76,210 | 409 |
+| 2023-12-08 | 76,215 | 409 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 522)  
 Sum: 115 (Ranked 445)  

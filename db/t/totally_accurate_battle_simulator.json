@@ -4,11 +4,11 @@
   "ProductSlug": "totally-accurate-battle-simulator",
   "Ranking_Rating": 148,
   "Ranking_Popularity": 230,
-  "Ranking_PopularitySum": 166,
+  "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2019-04-01T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4746,11 +4746,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 3441,
       "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2023-12-08T01:48:24.9059189+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3443,
+      "NumberOfAwardsMax": 417
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3441,
-  "NumberOfAwardsMax": 416,
+  "NumberOfAwards": 3443,
+  "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4763,13 +4769,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 416
+      "Count": 417
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 368
+      "Count": 369
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4849,8 +4855,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2023-12-07T22:01:07.1939926+00:00",
+  "LastChanged": "2023-12-08T01:48:24.9059188+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:15.0252157+00:00",
-  "LastUpdate_Ratings": "2023-12-08T00:01:38.5958682+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:08:31.9068068+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:48:24.9059192+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:56:26.4410355+00:00"
 }

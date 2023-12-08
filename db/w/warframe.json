@@ -2,13 +2,13 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "ProductSlug": "warframe",
-  "Ranking_Rating": 388,
+  "Ranking_Rating": 387,
   "Ranking_Popularity": 23,
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-12-11T00:55:00+00:00",
     "PcReleaseDate": "2020-03-25T18:34:00+00:00",
@@ -13034,10 +13034,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 52245,
       "NumberOfAwardsMax": 18891
+    },
+    {
+      "Time": "2023-12-08T01:46:38.479317+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 52259,
+      "NumberOfAwardsMax": 18891
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 52245,
+  "NumberOfAwards": 52259,
   "NumberOfAwardsMax": 18891,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -13051,7 +13057,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4729
+      "Count": 4738
     },
     {
       "Text": "This game is Relaxing",
@@ -13063,7 +13069,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4108
+      "Count": 4113
     },
     {
       "Text": "This game is Highly Recommended",
@@ -13119,8 +13125,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-12-07T23:59:06.3688966+00:00",
+  "LastChanged": "2023-12-08T01:46:38.4793169+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:24.7567037+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:59:06.3688972+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:07:42.8753651+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:46:38.4793174+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:54:28.9125712+00:00"
 }

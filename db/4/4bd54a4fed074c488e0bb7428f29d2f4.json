@@ -2,10 +2,10 @@
   "ID": "4bd54a4fed074c488e0bb7428f29d2f4",
   "Name": "1428: Shadows over Silesia",
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
-  "Ranking_EOS_Progress": 534,
+  "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -159,6 +159,11 @@
       "Time": "2023-12-07T20:05:55.2342605+00:00",
       "NumProgressed": 35,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T01:54:19.3903647+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-05T18:06:01.4667778+00:00",
@@ -241,7 +246,7 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 49,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -321,7 +326,7 @@
       "ID": "SOS_FIRST_BLOOD",
       "SetID": "6ci4lm2",
       "Name": "First blood",
-      "Percentage": 66,
+      "Percentage": 64,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -369,7 +374,7 @@
       "ID": "SOS_HEADACHE",
       "SetID": "6ci4lm2",
       "Name": "By fire and blood",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 35,
       "UsersEstimate": 8
     },
@@ -401,7 +406,7 @@
       "ID": "SOS_HE_WILL_REMEMBER",
       "SetID": "6ci4lm2",
       "Name": "He will remember that",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -545,7 +550,7 @@
       "ID": "SOS_PRISON_BREAK",
       "SetID": "6ci4lm2",
       "Name": "At the bottom",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -666,14 +671,14 @@
     {
       "ID": "6ci4lm2",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:07:29.4873838+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:54:19.3903642+00:00",
   "LastUpdate_AppInfo": "2023-12-04T15:57:13.4700868+00:00",
-  "LastUpdate_Ratings": "2023-12-08T00:02:55.6420805+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:07:29.4874275+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:51:00.2766695+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:54:19.390413+00:00"
 }

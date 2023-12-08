@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1356,
+  "EOS_Progressed": 1363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1110,
+  "EOS_NewPlayers": 1080,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -874,6 +874,11 @@
       "Time": "2023-12-08T00:04:16.8558594+00:00",
       "NumProgressed": 1356,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T01:51:57.9759352+00:00",
+      "NumProgressed": 1363,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -892,9 +897,9 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "c167foo",
       "Name": "Done for Today",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -950,15 +955,15 @@
       "Name": "Terrible Journey",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_17",
       "SetID": "c167foo",
       "Name": "Dark Prizes",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1054,7 +1059,7 @@
       "Name": "Competitor",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -1084,9 +1089,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "c167foo",
       "Name": "Unlocked Relic",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1204,9 +1209,9 @@
       "ID": "ACHIEVEMENT_49",
       "SetID": "c167foo",
       "Name": "I\u0027m your friend to the end",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_50",
@@ -1261,14 +1266,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1356,
+      "Progressed": 1363,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:04:16.8558587+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:51:57.9759348+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:59:09.99963+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:04:16.8558908+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:46:41.1766404+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:51:57.9759959+00:00"
 }

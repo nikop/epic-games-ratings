@@ -10,8 +10,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 0.70% | ~1,685 |
 | Uncharted Territory | 0.70% | ~1,685 |
 | Not Touching You | 0.70% | ~16 |
-| Getting A Glimpse | 0.60% | ~1,444 |
-| A Quick Escape | 0.60% | ~1,444 |
+| Getting A Glimpse | 0.60% | ~1,445 |
+| A Quick Escape | 0.60% | ~1,445 |
 | Nothing To Lose | 0.50% | ~1,204 |
 | Heavy Hitter | 0.50% | ~1,204 |
 | That Was Quick | 0.50% | ~1,204 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,750 (Ranked 64)  
+Progressed: 240,752 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,9 +377,10 @@ Completed: 292 (0.12%) (Ranked 283)
 | 2023-12-05 | 240,675 | 292 |
 | 2023-12-06 | 240,707 | 292 |
 | 2023-12-07 | 240,750 | 292 |
+| 2023-12-08 | 240,752 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 133)  
-Sum: 11,714 (Ranked 83)  
+Sum: 11,715 (Ranked 83)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -387,7 +388,7 @@ Diff (max vs sum): 50
 | This game has Quickly Understood Controls | 1,505 |
 | This game is Relaxing | 1,439 |
 | This game has Challenging Combat | 1,438 |
-| This game is Extremely Fun | 1,417 |
+| This game is Extremely Fun | 1,418 |
 | This game is Highly Recommended | 1,386 |
 | This game has Amazing Storytelling | 1,326 |
 | This game has Amazing Characters | 1,229 |
@@ -621,3 +622,4 @@ Diff (max vs sum): 50
 | 2023-12-04 | 4.58 | - | 1,505 | 11,708 |
 | 2023-12-05 | 4.58 | - | 1,505 | 11,711 |
 | 2023-12-07 | 4.58 | - | 1,505 | 11,714 |
+| 2023-12-08 | 4.58 | - | 1,505 | 11,715 |

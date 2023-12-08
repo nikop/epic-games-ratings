@@ -3,12 +3,12 @@
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
   "Ranking_Rating": 497,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44238,
+  "EOS_Progressed": 44239,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -18715,6 +18715,11 @@
       "Time": "2023-12-07T21:07:50.4439744+00:00",
       "NumProgressed": 44238,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-12-08T01:56:20.3957642+00:00",
+      "NumProgressed": 44239,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 44,
@@ -18742,7 +18747,7 @@
       "Name": "Embers",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9732
+      "UsersEstimate": 9733
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -18750,7 +18755,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7520
+      "UsersEstimate": 7521
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -18782,7 +18787,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -18846,7 +18851,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35390
+      "UsersEstimate": 35391
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -18870,7 +18875,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -18894,7 +18899,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -18966,7 +18971,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27870
+      "UsersEstimate": 27871
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -18974,7 +18979,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11944
+      "UsersEstimate": 11945
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -18998,7 +19003,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29639
+      "UsersEstimate": 29640
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -19030,7 +19035,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19907
+      "UsersEstimate": 19908
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -19062,7 +19067,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41141
+      "UsersEstimate": 41142
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19077,7 +19082,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44238,
+      "Progressed": 44239,
       "Completed": 245
     }
   ],
@@ -19085,8 +19090,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-03T18:02:47.0707275+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:08:13.3909416+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:56:20.3957639+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:13.8521051+00:00",
-  "LastUpdate_Ratings": "2023-12-08T00:03:27.6335881+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:08:13.3910502+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:51:22.1570181+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:56:20.3958596+00:00"
 }

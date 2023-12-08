@@ -13,19 +13,19 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Choices | 15.00% | ~1,838 |
 | Banner over the Citadel | 14.00% | ~1,715 |
 | Queen's Gratitude | 12.00% | ~1,470 |
-| Fifth Crusade | 9.00% | ~1,102 |
+| Fifth Crusade | 9.00% | ~1,103 |
 | Embrace of the Abyss | 7.00% | ~858 |
 | Demonic and Divine | 7.00% | ~858 |
 | Path of the Angel | 6.00% | ~735 |
 | Great Upstart | 6.00% | ~735 |
-| Path of the Azata | 5.00% | ~612 |
-| Transformation | 5.00% | ~612 |
-| The Legacy | 5.00% | ~612 |
-| Voice from Your Dreams | 5.00% | ~612 |
-| All Paths Open | 5.00% | ~612 |
-| A Flame | 5.00% | ~612 |
-| Next-Door Play | 5.00% | ~612 |
-| Get the Toad | 5.00% | ~612 |
+| Path of the Azata | 5.00% | ~613 |
+| Transformation | 5.00% | ~613 |
+| The Legacy | 5.00% | ~613 |
+| Voice from Your Dreams | 5.00% | ~613 |
+| All Paths Open | 5.00% | ~613 |
+| A Flame | 5.00% | ~613 |
+| Next-Door Play | 5.00% | ~613 |
+| Get the Toad | 5.00% | ~613 |
 | Heart of the Fallen Land | 4.00% | ~490 |
 | Divide and Rule | 4.00% | ~490 |
 | Mythic Reinforcements | 4.00% | ~490 |
@@ -44,11 +44,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Your First Big Enemy | 2.00% | ~245 |
 | Truly Important Deed | 2.00% | ~245 |
 | Stay Underground | 2.00% | ~221 |
-| The Final Threshold | 1.00% | ~122 |
-| Path of the Legend | 1.00% | ~122 |
-| Strategic Victory | 1.00% | ~122 |
-| Abyssal Conspiracy | 1.00% | ~122 |
-| Truly Profane Gift | 1.00% | ~122 |
+| The Final Threshold | 1.00% | ~123 |
+| Path of the Legend | 1.00% | ~123 |
+| Strategic Victory | 1.00% | ~123 |
+| Abyssal Conspiracy | 1.00% | ~123 |
+| Truly Profane Gift | 1.00% | ~123 |
 | This Wall Won't Fall | 1.00% | ~110 |
 | Not the Last Sarkorian | 1.00% | ~110 |
 | Path of the Dragon | 0.90% | ~110 |
@@ -60,8 +60,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Ashes to Ashes | 0.40% | ~49 |
 | Masterful Dispel | 0.30% | ~37 |
 | Just Pathetic | 0.30% | ~37 |
-| Path of the Swarm | 0.20% | ~24 |
-| Spirit of Adventure | 0.20% | ~24 |
+| Path of the Swarm | 0.20% | ~25 |
+| Spirit of Adventure | 0.20% | ~25 |
 | Equal to Aroden | 0.10% | ~12 |
 | Test of the Starstone | 0.10% | ~12 |
 | Masterful Craftsmanship | 0.10% | ~12 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,250 (Ranked 161)  
+Progressed: 12,251 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,10 +355,11 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-05 | 12,242 | 0 |
 | 2023-12-06 | 12,245 | 0 |
 | 2023-12-07 | 12,250 | 0 |
+| 2023-12-08 | 12,251 | 0 |
 ## Awards
-Max (Character Customization): 1,756  (Ranked 122)  
+Max (Character Customization): 1,756  (Ranked 123)  
 Sum: 7,117 (Ranked 121)  
-Diff (max vs sum): 1  
+Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,756 |

@@ -3,12 +3,12 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 597,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236816,
+  "EOS_Progressed": 236819,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
@@ -24637,6 +24637,11 @@
       "Time": "2023-12-08T00:08:43.8332401+00:00",
       "NumProgressed": 236816,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-08T01:56:35.1651293+00:00",
+      "NumProgressed": 236819,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -24664,7 +24669,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66308
+      "UsersEstimate": 66309
     },
     {
       "ID": "CENTAUR",
@@ -24672,7 +24677,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18945
+      "UsersEstimate": 18946
     },
     {
       "ID": "CHALLENGER",
@@ -24712,7 +24717,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18945
+      "UsersEstimate": 18946
     },
     {
       "ID": "FLAWLESS",
@@ -24728,7 +24733,7 @@
       "Name": "GILA",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "GT9STRADALE",
@@ -24736,7 +24741,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47363
+      "UsersEstimate": 47364
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -24784,7 +24789,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78149
+      "UsersEstimate": 78150
     },
     {
       "ID": "NOBUNAGA",
@@ -24808,7 +24813,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21313
+      "UsersEstimate": 21314
     },
     {
       "ID": "PHOTOFINISH",
@@ -24912,22 +24917,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97095
+      "UsersEstimate": 97096
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236816,
+      "Progressed": 236819,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:08:43.8332396+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:56:35.1651289+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:57.5074275+00:00",
-  "LastUpdate_Ratings": "2023-12-08T00:00:47.7568912+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:08:43.8333953+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:47:48.4335278+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:56:35.1652454+00:00"
 }

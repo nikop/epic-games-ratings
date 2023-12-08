@@ -3,12 +3,12 @@
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
   "Ranking_Rating": 777,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -2414,9 +2414,9 @@
       "ID": "ACH_COLL_CH05",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter V",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_COLL_CH06",
@@ -2518,9 +2518,9 @@
       "ID": "ACH_FIN_CH06",
       "SetID": "1j25agn",
       "Name": "Opportunities",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -2734,8 +2734,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:10:44.3968633+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:58:03.9029723+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:23.9712972+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:59:37.2914993+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:10:44.396909+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:46:59.8545135+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:58:03.9030265+00:00"
 }

@@ -6,28 +6,29 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Contender | 0.10% | ~282 |
-| My Table, my Rules | 0.10% | ~282 |
-| Collect Them All | 0.10% | ~282 |
-| Shiny Memento | 0.10% | ~282 |
-| First but not Last | 0.10% | ~282 |
-| Table Mastered, part 10 | 0.10% | ~282 |
-| Medal Hunter | 0.10% | ~282 |
-| Medal Wizard | 0.10% | ~282 |
-| Ready Steady Score | 0.10% | ~282 |
-| Pinball Hoarder | 0.10% | ~282 |
-| Nine Zeroes | 0.10% | ~282 |
-| Challenge Accepted! | 0.10% | ~282 |
-| I Found it! | 0.10% | ~282 |
-| Full Loot Madness | 0.10% | ~282 |
-| Relic Hunter | 0.10% | ~282 |
-| Interior Designer | 0.10% | ~282 |
-| Show Them | 0.10% | ~282 |
-| Totally Furnished | 0.10% | ~282 |
-| Dress Code | 0.10% | ~282 |
-| Customizer | 0.10% | ~282 |
-| Ball Launched | 0.10% | ~282 |
-| I know the Rules | 0.10% | ~282 |
+| Contender | 0.10% | ~283 |
+| My Table, my Rules | 0.10% | ~283 |
+| Collect Them All | 0.10% | ~283 |
+| Shiny Memento | 0.10% | ~283 |
+| First but not Last | 0.10% | ~283 |
+| Table Mastered, part 10 | 0.10% | ~283 |
+| Medal Hunter | 0.10% | ~283 |
+| Medal Wizard | 0.10% | ~283 |
+| Ready Steady Score | 0.10% | ~283 |
+| Pinball Hoarder | 0.10% | ~283 |
+| Virtual Pinball Museum | 0.10% | ~283 |
+| Nine Zeroes | 0.10% | ~283 |
+| Challenge Accepted! | 0.10% | ~283 |
+| I Found it! | 0.10% | ~283 |
+| Full Loot Madness | 0.10% | ~283 |
+| Relic Hunter | 0.10% | ~283 |
+| Interior Designer | 0.10% | ~283 |
+| Show Them | 0.10% | ~283 |
+| Totally Furnished | 0.10% | ~283 |
+| Dress Code | 0.10% | ~283 |
+| Customizer | 0.10% | ~283 |
+| Ball Launched | 0.10% | ~283 |
+| I know the Rules | 0.10% | ~283 |
 | Did It for the Dowry | 0.10% | ~1 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
@@ -36,7 +37,6 @@ Number of Ratings: 756  (23.09.2022)
 | Royale Family | 0.00% | ~0 |
 | Mythic Toy | 0.00% | ~0 |
 | Fully Involved | 0.00% | ~0 |
-| Virtual Pinball Museum | 0.00% | ~0 |
 | Catomic Bomb | 0.00% | ~0 |
 | Terraformer | 0.00% | ~0 |
 | The Captain | 0.00% | ~0 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282,496 (Ranked 56)  
+Progressed: 282,501 (Ranked 56)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,10 +278,10 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-05 | 282,325 | 0 |
 | 2023-12-06 | 282,407 | 0 |
 | 2023-12-07 | 282,489 | 0 |
-| 2023-12-08 | 282,496 | 0 |
+| 2023-12-08 | 282,501 | 0 |
 ## Awards
 Max (Great for Beginners): 203  (Ranked 289)  
-Sum: 1,607 (Ranked 231)  
+Sum: 1,608 (Ranked 231)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -291,7 +291,7 @@ Diff (max vs sum): 58
 | This game is Relaxing | 164 |
 | This game is Extremely Fun | 160 |
 | This game is Highly Recommended | 157 |
-| This game has Competitive Players | 153 |
+| This game has Competitive Players | 154 |
 | This game has Challenging Combat | 111 |
 | This game has a Competitive Community | 106 |
 | This game has Amazing Storytelling | 102 |
@@ -494,4 +494,4 @@ Diff (max vs sum): 58
 | 2023-11-29 | 4.06 | - | 203 | 1,604 |
 | 2023-11-30 | 4.06 | - | 203 | 1,605 |
 | 2023-12-04 | 4.06 | - | 203 | 1,606 |
-| 2023-12-08 | 4.06 | - | 203 | 1,607 |
+| 2023-12-08 | 4.06 | - | 203 | 1,608 |

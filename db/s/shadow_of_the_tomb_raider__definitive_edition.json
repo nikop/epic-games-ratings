@@ -2,13 +2,13 @@
   "ID": "4b5461ca8d1c488787b5200b420de066",
   "Name": "Shadow of the Tomb Raider: Definitive Edition",
   "ProductSlug": "shadow-of-the-tomb-raider",
-  "Ranking_Rating": 337,
+  "Ranking_Rating": 336,
   "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-12-30T16:00:00+00:00",
     "PcReleaseDate": "2018-09-14T16:00:00+00:00",
@@ -6565,10 +6565,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 38620,
       "NumberOfAwardsMax": 29306
+    },
+    {
+      "Time": "2023-12-08T01:48:04.9476436+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 38621,
+      "NumberOfAwardsMax": 29306
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38620,
+  "NumberOfAwards": 38621,
   "NumberOfAwardsMax": 29306,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6600,7 +6606,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 882
+      "Count": 883
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6656,8 +6662,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:36.072499+00:00",
-  "LastChanged": "2023-12-07T16:59:38.7679171+00:00",
+  "LastChanged": "2023-12-08T01:48:04.9476434+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:10.4127312+00:00",
-  "LastUpdate_Ratings": "2023-12-08T00:01:10.4354086+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:04:36.7322611+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:48:04.947644+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:52:12.2499464+00:00"
 }

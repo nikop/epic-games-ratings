@@ -1,37 +1,37 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.64 (Ranked 337)  
+Rating: 4.64 (Ranked 336)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~2,014 |
-| Welcome Aboard | 86.00% | ~1,863 |
-| Lab Rat | 77.00% | ~1,668 |
-| All Systems Go | 67.00% | ~1,451 |
-| Brute Force | 67.00% | ~1,451 |
+| Marksman | 93.00% | ~2,015 |
+| Welcome Aboard | 86.00% | ~1,864 |
+| Lab Rat | 77.00% | ~1,669 |
+| All Systems Go | 67.00% | ~1,452 |
+| Brute Force | 67.00% | ~1,452 |
 | Cannon Fodder | 63.00% | ~1,365 |
-| Autofire | 58.00% | ~1,256 |
-| True Believer | 58.00% | ~1,256 |
+| Autofire | 58.00% | ~1,257 |
+| True Believer | 58.00% | ~1,257 |
 | Story Teller | 57.00% | ~1,235 |
-| Raise the Stakes | 56.00% | ~1,213 |
+| Raise the Stakes | 56.00% | ~1,214 |
 | Surgeon | 54.00% | ~1,170 |
-| Exterminator | 53.00% | ~1,148 |
-| Greenhouse Effect | 53.00% | ~1,148 |
-| Freeze | 52.00% | ~1,126 |
-| S.O.S. | 48.00% | ~1,040 |
-| Full Arsenal | 46.00% | ~996 |
+| Exterminator | 53.00% | ~1,149 |
+| Greenhouse Effect | 53.00% | ~1,149 |
+| Freeze | 52.00% | ~1,127 |
+| S.O.S. | 47.00% | ~1,018 |
+| Full Arsenal | 46.00% | ~997 |
 | Get Off My Ship! | 45.00% | ~975 |
 | Strange Transmissions | 45.00% | ~975 |
 | Wreckage | 44.00% | ~953 |
 | Keeper of the Faith | 42.00% | ~910 |
 | Live with the Hot Ones | 42.00% | ~910 |
-| Betrayed | 40.00% | ~866 |
+| Betrayed | 40.00% | ~867 |
 | Exodus | 39.00% | ~845 |
 | Legend Teller | 39.00% | ~845 |
-| There's Always Peng! | 39.00% | ~845 |
 | Mindless Prey | 39.00% | ~845 |
-| Front Toward Enemy | 34.00% | ~736 |
+| There's Always Peng! | 38.00% | ~823 |
+| Front Toward Enemy | 34.00% | ~737 |
 | A Cut Above | 33.00% | ~715 |
 | Whole Again | 30.00% | ~650 |
 | Set A Benchmark | 30.00% | ~650 |
@@ -53,7 +53,7 @@ Rating: 4.64 (Ranked 337)
 | Untouchable | 2.00% | ~43 |
 | One Gun | 2.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,166 (Ranked 226)  
+Progressed: 2,167 (Ranked 226)  
 Completed: 13 (0.60%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 13 (0.60%) (Ranked 192)
 | 2023-12-05 | 2,140 | 13 |
 | 2023-12-06 | 2,153 | 13 |
 | 2023-12-07 | 2,165 | 13 |
-| 2023-12-08 | 2,166 | 13 |
+| 2023-12-08 | 2,167 | 13 |
 ## Awards
 Max (Great Boss Battles): 118  (Ranked 345)  
 Sum: 118 (Ranked 442)  

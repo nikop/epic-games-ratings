@@ -7,21 +7,21 @@ Rating: 4.54 (Ranked 533)
 | ---- | ---------- | ----- |
 | Whatever It Takes | 3.00% | ~1,712 |
 | Pork Chopped | 3.00% | ~1,712 |
-| Dr. Reed, I Presume? | 2.00% | ~14,630 |
-| Git Gutte! | 2.00% | ~14,630 |
-| Bookworm | 2.00% | ~14,630 |
-| Break A Leg | 2.00% | ~14,630 |
-| But Doctor, I am Butcho | 2.00% | ~14,630 |
-| Coup de Grâce | 2.00% | ~14,630 |
-| Hazardous Materials | 2.00% | ~14,630 |
-| Friends Like These | 2.00% | ~14,630 |
-| Hotel California | 2.00% | ~14,630 |
-| Apex Predator | 2.00% | ~14,630 |
-| Stacking the Deck | 2.00% | ~14,630 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,630 |
-| This is My Weapon | 2.00% | ~14,630 |
-| Welcome To Hell-A | 2.00% | ~14,630 |
-| One of Us | 2.00% | ~1,141 |
+| Dr. Reed, I Presume? | 2.00% | ~14,631 |
+| Git Gutte! | 2.00% | ~14,631 |
+| Bookworm | 2.00% | ~14,631 |
+| Break A Leg | 2.00% | ~14,631 |
+| But Doctor, I am Butcho | 2.00% | ~14,631 |
+| Coup de Grâce | 2.00% | ~14,631 |
+| Hazardous Materials | 2.00% | ~14,631 |
+| Friends Like These | 2.00% | ~14,631 |
+| Hotel California | 2.00% | ~14,631 |
+| Apex Predator | 2.00% | ~14,631 |
+| Stacking the Deck | 2.00% | ~14,631 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,631 |
+| This is My Weapon | 2.00% | ~14,631 |
+| Welcome To Hell-A | 2.00% | ~14,631 |
+| One of Us | 2.00% | ~1,142 |
 | Making Your Mark | 1.00% | ~7,315 |
 | Anger Management | 1.00% | ~7,315 |
 | Perks of the Job | 1.00% | ~7,315 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 533)
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,515 (Ranked 21)  
+Progressed: 731,534 (Ranked 21)  
 Completed: 2,466 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2,466 (0.34%) (Ranked 234)
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
-| 2023-12-08 | 731,515 | 2,466 |
+| 2023-12-08 | 731,534 | 2,466 |
 ## Awards
 Max (Great Boss Battles): 7,994  (Ranked 49)  
 Sum: 12,284 (Ranked 82)  

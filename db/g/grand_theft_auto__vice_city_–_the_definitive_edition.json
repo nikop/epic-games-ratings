@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -907,9 +907,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 11248,
+  "EOS_Progressed": 11250,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13857,6 +13857,11 @@
       "Time": "2023-12-07T23:08:45.2883721+00:00",
       "NumProgressed": 11248,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-08T01:57:21.4520383+00:00",
+      "NumProgressed": 11250,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13876,7 +13881,7 @@
       "Name": "Running Rampant",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH03",
@@ -13908,7 +13913,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH07",
@@ -13932,7 +13937,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH10",
@@ -13940,7 +13945,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH11",
@@ -13948,7 +13953,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "ACH12",
@@ -13964,7 +13969,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH14",
@@ -13972,7 +13977,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 4837
+      "UsersEstimate": 4838
     },
     {
       "ID": "ACH15",
@@ -13980,7 +13985,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH16",
@@ -14012,7 +14017,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH20",
@@ -14028,7 +14033,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5287
+      "UsersEstimate": 5288
     },
     {
       "ID": "ACH22",
@@ -14044,7 +14049,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2924
+      "UsersEstimate": 2925
     },
     {
       "ID": "ACH24",
@@ -14052,7 +14057,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "ACH25",
@@ -14060,7 +14065,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "ACH26",
@@ -14084,7 +14089,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH29",
@@ -14116,7 +14121,7 @@
       "Name": "City Sleuth",
       "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH33",
@@ -14132,14 +14137,14 @@
       "Name": "Kingpin",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11248,
+      "Progressed": 11250,
       "Completed": 65
     }
   ],
@@ -14147,8 +14152,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-07T16:57:54.5734107+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:09:46.7083461+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:57:21.452038+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.5499109+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:58:37.9334682+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:09:46.7084278+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:46:19.0856577+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:57:21.4521074+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3334,
+  "EOS_Progressed": 3335,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5061,6 +5061,11 @@
       "Time": "2023-12-07T22:07:35.4099375+00:00",
       "NumProgressed": 3334,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-08T01:56:19.2335197+00:00",
+      "NumProgressed": 3335,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5080,7 +5085,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "FALLEN_TREE",
@@ -5144,7 +5149,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "THE_END",
@@ -5175,7 +5180,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3334,
+      "Progressed": 3335,
       "Completed": 6
     }
   ],
@@ -5183,8 +5188,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-08T00:08:11.7300312+00:00",
+  "LastChanged_Achievements": "2023-12-08T01:56:19.2335192+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:22.6950578+00:00",
-  "LastUpdate_Ratings": "2023-12-08T00:02:42.6346778+00:00",
-  "LastUpdate_Achievements": "2023-12-08T00:08:11.7300657+00:00"
+  "LastUpdate_Ratings": "2023-12-08T01:48:41.5157824+00:00",
+  "LastUpdate_Achievements": "2023-12-08T01:56:19.2335505+00:00"
 }
