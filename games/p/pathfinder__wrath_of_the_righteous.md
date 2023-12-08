@@ -1,17 +1,17 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 130)  
+Rating: 4.76 (Ranked 129)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,308 |
+| Devoured by Darkness | 27.00% | ~3,309 |
 | A Spark | 19.00% | ~2,328 |
 | Burning City | 18.00% | ~2,206 |
-| Defender's Heart | 16.00% | ~1,960 |
+| Defender's Heart | 16.00% | ~1,961 |
 | Mythic Choices | 15.00% | ~1,838 |
-| Banner over the Citadel | 14.00% | ~1,715 |
+| Banner over the Citadel | 14.00% | ~1,716 |
 | Queen's Gratitude | 12.00% | ~1,470 |
 | Fifth Crusade | 9.00% | ~1,103 |
 | Embrace of the Abyss | 7.00% | ~858 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,253 (Ranked 161)  
+Progressed: 12,254 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,15 +355,15 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-05 | 12,242 | 0 |
 | 2023-12-06 | 12,245 | 0 |
 | 2023-12-07 | 12,250 | 0 |
-| 2023-12-08 | 12,253 | 0 |
+| 2023-12-08 | 12,254 | 0 |
 ## Awards
 Max (Character Customization): 1,756  (Ranked 123)  
-Sum: 7,119 (Ranked 121)  
+Sum: 7,120 (Ranked 121)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,756 |
-| This game is Extremely Fun | 658 |
+| This game is Extremely Fun | 659 |
 | This game is Highly Recommended | 651 |
 | This game has Diverse Characters | 648 |
 | This game has Amazing Characters | 644 |
@@ -661,4 +661,4 @@ Diff (max vs sum): 2
 | 2023-12-05 | 4.76 | - | 1,755 | 7,113 |
 | 2023-12-06 | 4.76 | - | 1,756 | 7,114 |
 | 2023-12-07 | 4.76 | - | 1,756 | 7,117 |
-| 2023-12-08 | 4.76 | - | 1,756 | 7,119 |
+| 2023-12-08 | 4.76 | - | 1,756 | 7,120 |

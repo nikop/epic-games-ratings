@@ -2,12 +2,12 @@
   "ID": "2744acda6a2e493e9894b389b6564df7",
   "Name": "SnowRunner",
   "ProductSlug": "snowrunner",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 129,
   "Ranking_Popularity": 32,
   "Ranking_PopularitySum": 21,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewPlayers": 457,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-04-28T16:00:00+00:00",
@@ -13753,10 +13753,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 85264,
       "NumberOfAwardsMax": 12872
+    },
+    {
+      "Time": "2023-12-08T15:00:06.656447+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 85276,
+      "NumberOfAwardsMax": 12872
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 85264,
+  "NumberOfAwards": 85276,
   "NumberOfAwardsMax": 12872,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -13812,7 +13818,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 6751
+      "Count": 6763
     },
     {
       "Text": "This game has a Creative Community",
@@ -13832,8 +13838,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-12-08T14:00:07.332849+00:00",
+  "LastChanged": "2023-12-08T15:00:06.6564468+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:09.2915914+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:00:07.3328496+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:04:54.5423498+00:00"
+  "LastUpdate_Ratings": "2023-12-08T15:00:06.6564476+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:05:03.9708179+00:00"
 }

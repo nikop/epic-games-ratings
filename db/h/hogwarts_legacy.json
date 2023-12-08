@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 129,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
@@ -11611,10 +11611,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 50209,
       "NumberOfAwardsMax": 25029
+    },
+    {
+      "Time": "2023-12-08T14:57:57.4023298+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50213,
+      "NumberOfAwardsMax": 25029
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50209,
+  "NumberOfAwards": 50213,
   "NumberOfAwardsMax": 25029,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11688,12 +11694,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 838
+      "Count": 842
     }
   ],
   "EOS_Progressed": 304077,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36963,9 +36969,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-08T13:57:56.607183+00:00",
-  "LastChanged_Achievements": "2023-12-08T14:03:47.3448538+00:00",
+  "LastChanged": "2023-12-08T14:57:57.4023296+00:00",
+  "LastChanged_Achievements": "2023-12-08T15:03:55.0982945+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:57:56.6071835+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:03:47.3450133+00:00"
+  "LastUpdate_Ratings": "2023-12-08T14:57:57.4023304+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:03:55.098448+00:00"
 }

@@ -1565,9 +1565,9 @@
       "ID": "fight_win_50",
       "SetID": "69co12a",
       "Name": "Fight is life",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 173
     },
     {
       "ID": "first_job",
@@ -1749,9 +1749,9 @@
       "ID": "mysterious_voice",
       "SetID": "69co12a",
       "Name": "Mysterious voice",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 173
     },
     {
       "ID": "nero_basic",
@@ -1964,8 +1964,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-08T14:08:42.8345566+00:00",
+  "LastChanged_Achievements": "2023-12-08T15:08:57.2491008+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:21.663822+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:58:19.3963774+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:08:42.8346157+00:00"
+  "LastUpdate_Ratings": "2023-12-08T14:58:19.8221641+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:08:57.2491664+00:00"
 }

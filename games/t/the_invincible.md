@@ -13,8 +13,8 @@
 | The End | 31.00% | ~164 |
 | The Alliance | 25.00% | ~132 |
 | The Necroevolution | 25.00% | ~132 |
+| Krauta is alive | 23.00% | ~121 |
 | Peacemaker | 22.00% | ~116 |
-| Krauta is alive | 22.00% | ~116 |
 | Volcanologist | 20.00% | ~106 |
 | On her own | 18.00% | ~95 |
 | Beyond divisions | 17.00% | ~90 |

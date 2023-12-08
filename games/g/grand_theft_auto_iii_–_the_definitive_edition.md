@@ -8,16 +8,16 @@ Rating: 4.22 (Ranked 909)
 | First Day on the Job | 83.00% | ~7,262 |
 | Disposing of the Evidence | 38.00% | ~3,325 |
 | Without a Scratch | 34.00% | ~2,975 |
-| Wreckless Driving | 29.00% | ~2,537 |
+| Wreckless Driving | 29.00% | ~2,538 |
 | A Marked Man | 26.00% | ~2,275 |
 | Street Sweeper | 19.00% | ~1,662 |
-| Liberty City Minute | 17.00% | ~1,487 |
+| Liberty City Minute | 17.00% | ~1,488 |
 | Offshore Delivery | 14.00% | ~1,225 |
-| Dirty Money | 13.00% | ~1,137 |
+| Dirty Money | 13.00% | ~1,138 |
 | By a Mile | 10.00% | ~875 |
 | Not So Fast | 10.00% | ~875 |
 | Right-hand Man | 10.00% | ~875 |
-| A Gift from the King | 7.00% | ~612 |
+| A Gift from the King | 7.00% | ~613 |
 | Full Artillery | 4.00% | ~350 |
 | Mob Boss | 3.00% | ~262 |
 | Escape Artist | 2.00% | ~175 |
@@ -25,17 +25,17 @@ Rating: 4.22 (Ranked 909)
 | Splish Splash | 2.00% | ~175 |
 | Playing Doctor | 2.00% | ~175 |
 | Liberty City Secrets | 2.00% | ~175 |
-| Planned Ahead | 1.00% | ~87 |
-| Got This Figured Out | 1.00% | ~87 |
-| Wheels Up | 1.00% | ~87 |
-| Come Out to Play-y-y-y | 1.00% | ~87 |
-| Man Toyz | 1.00% | ~87 |
-| Going Rogue | 1.00% | ~87 |
-| Furious First Responder | 1.00% | ~87 |
+| Planned Ahead | 1.00% | ~88 |
+| Got This Figured Out | 1.00% | ~88 |
+| Wheels Up | 1.00% | ~88 |
+| Come Out to Play-y-y-y | 1.00% | ~88 |
+| Man Toyz | 1.00% | ~88 |
+| Going Rogue | 1.00% | ~88 |
+| Furious First Responder | 1.00% | ~88 |
 | Is That All You've Got? | 0.90% | ~79 |
 | King of Liberty City | 0.70% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,749 (Ranked 171)  
+Progressed: 8,750 (Ranked 171)  
 Completed: 60 (0.69%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 60 (0.69%) (Ranked 188)
 | 2023-12-05 | 8,722 | 60 |
 | 2023-12-06 | 8,731 | 60 |
 | 2023-12-07 | 8,742 | 60 |
-| 2023-12-08 | 8,749 | 60 |
+| 2023-12-08 | 8,750 | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

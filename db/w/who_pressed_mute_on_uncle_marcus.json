@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.29,
+  "EOS_Completed_Percentage": 10.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -565,6 +565,11 @@
       "Time": "2023-12-07T17:09:07.8368061+00:00",
       "NumProgressed": 243,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-08T15:09:29.8867101+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 17,
@@ -576,7 +581,7 @@
       "Name": "And away we go!",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "bless_the_rain",
@@ -616,7 +621,7 @@
       "Name": "Delusions",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "dont_fear_the_baldness",
@@ -640,7 +645,7 @@
       "Name": "Job one. DONE!",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "just_like_me",
@@ -672,7 +677,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "the_truth",
@@ -696,7 +701,7 @@
       "Name": "Toby foolery",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "you_are_carol_vorderman",
@@ -711,7 +716,7 @@
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 25
     }
   ],
@@ -719,8 +724,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-08T14:09:14.286901+00:00",
+  "LastChanged_Achievements": "2023-12-08T15:09:29.8867095+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:20.7396665+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:57:18.4793462+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:09:14.2869138+00:00"
+  "LastUpdate_Ratings": "2023-12-08T14:57:19.615056+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:09:29.886728+00:00"
 }

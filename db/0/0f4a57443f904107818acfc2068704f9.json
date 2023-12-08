@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 854,
+  "EOS_Progressed": 855,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1862,6 +1862,11 @@
       "Time": "2023-12-08T09:03:59.1015611+00:00",
       "NumProgressed": 854,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T15:03:57.6927352+00:00",
+      "NumProgressed": 855,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1946,7 +1951,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "CompleteChapter12",
@@ -1962,7 +1967,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CompleteChapter14",
@@ -2018,7 +2023,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "CompleteChapter3",
@@ -2026,7 +2031,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "CompleteChapter4",
@@ -2050,7 +2055,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "CompleteChapter7",
@@ -2169,14 +2174,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 854,
+      "Progressed": 855,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-08T14:03:50.030431+00:00",
+  "LastChanged_Achievements": "2023-12-08T15:03:57.692735+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:56:58.482812+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:58:21.7926129+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:03:50.0304655+00:00"
+  "LastUpdate_Ratings": "2023-12-08T14:58:22.028795+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:03:57.6927643+00:00"
 }

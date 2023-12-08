@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -432,9 +432,9 @@
       "ID": "AC_BOSS_02",
       "SetID": "16i2akc",
       "Name": "Downfall",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "AC_BOSS_03",
@@ -687,8 +687,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-08T14:08:22.5779636+00:00",
+  "LastChanged_Achievements": "2023-12-08T15:08:36.640154+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.4442779+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:57:53.0852632+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:08:22.5779921+00:00"
+  "LastUpdate_Ratings": "2023-12-08T14:57:53.9923968+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:08:36.6401884+00:00"
 }

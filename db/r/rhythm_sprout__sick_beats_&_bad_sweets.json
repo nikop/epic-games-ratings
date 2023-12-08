@@ -4,7 +4,7 @@
   "ProductSlug": "rhythm-sprout",
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewPlayers": 457,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-02-01T17:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.2636723+00:00",
   "LastChanged": "2023-03-31T05:58:18.2636724+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:27.9910736+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:59:02.0823136+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:06:11.4766505+00:00"
+  "LastUpdate_Ratings": "2023-12-08T14:59:01.8844396+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:06:21.2386835+00:00"
 }

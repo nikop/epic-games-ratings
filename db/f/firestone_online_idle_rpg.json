@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3147,
+  "EOS_Progressed": 3148,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9191,6 +9191,11 @@
       "Time": "2023-12-08T14:04:48.8491727+00:00",
       "NumProgressed": 3147,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T15:04:58.07534+00:00",
+      "NumProgressed": 3148,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9434,7 +9439,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "herewegoagain",
@@ -9762,7 +9767,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2927
+      "UsersEstimate": 2928
     },
     {
       "ID": "warmachinesarmy",
@@ -9801,7 +9806,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3147,
+      "Progressed": 3148,
       "Completed": 2
     }
   ],
@@ -9809,8 +9814,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-07T20:58:20.4746595+00:00",
-  "LastChanged_Achievements": "2023-12-08T14:04:48.8491721+00:00",
+  "LastChanged_Achievements": "2023-12-08T15:04:58.0753396+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:58:44.593665+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:04:48.8492648+00:00"
+  "LastUpdate_Ratings": "2023-12-08T14:58:44.4904906+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:04:58.075455+00:00"
 }

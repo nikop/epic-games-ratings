@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4487,
+  "EOS_Progressed": 4488,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8195,6 +8195,11 @@
       "Time": "2023-12-08T13:11:48.9017306+00:00",
       "NumProgressed": 4487,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-08T15:05:54.3734697+00:00",
+      "NumProgressed": 4488,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8334,7 +8339,7 @@
       "Name": "I play my own way!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "Ach018",
@@ -8382,7 +8387,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "Ach024",
@@ -8414,7 +8419,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "Ach028",
@@ -8773,13 +8778,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4487,
+      "Progressed": 4488,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 3008,
+      "Progressed": 3009,
       "Completed": 1930
     }
   ],
@@ -8787,8 +8792,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-08T14:05:44.8549902+00:00",
+  "LastChanged_Achievements": "2023-12-08T15:05:54.3734693+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:58:48.7183197+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:05:44.8550716+00:00"
+  "LastUpdate_Ratings": "2023-12-08T14:58:48.6197999+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:05:54.3735573+00:00"
 }

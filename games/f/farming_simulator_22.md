@@ -6,32 +6,32 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 74.00% | ~40,770 |
-| I read Shakespeare and stuff | 62.00% | ~34,159 |
-| Just a sprinkle | 61.00% | ~33,608 |
-| I'm stumped | 59.00% | ~32,506 |
-| Plant get enough | 59.00% | ~32,506 |
-| It's just the beginning | 57.00% | ~31,404 |
-| This is just my weekend vehicle | 56.00% | ~30,853 |
-| Hard work pays off | 51.00% | ~28,098 |
-| It's never too late to farm | 49.00% | ~26,997 |
-| All out of Land | 43.00% | ~23,691 |
-| Field Trip | 42.00% | ~23,140 |
-| I like to switch it up | 39.00% | ~21,487 |
-| Help me to help you | 37.00% | ~20,385 |
-| Ultimutt Pawesomeness | 27.00% | ~14,876 |
-| Van Gogh | 25.00% | ~13,774 |
-| Vehicle fleet | 22.00% | ~12,121 |
-| You wood not believe it | 21.00% | ~11,570 |
-| Well-Oiled Machine | 16.00% | ~8,815 |
-| Clucky Streak | 15.00% | ~8,264 |
-| The plot thickens | 15.00% | ~8,264 |
-| Large-scale supplier | 15.00% | ~8,264 |
-| Long haul | 15.00% | ~8,264 |
-| That's a wrap | 14.00% | ~7,713 |
-| Fix me up | 12.00% | ~6,611 |
-| It's sow easy | 11.00% | ~6,060 |
-| Rock on | 11.00% | ~6,060 |
+| Own use | 74.00% | ~40,775 |
+| I read Shakespeare and stuff | 62.00% | ~34,163 |
+| Just a sprinkle | 61.00% | ~33,612 |
+| I'm stumped | 59.00% | ~32,510 |
+| Plant get enough | 59.00% | ~32,510 |
+| It's just the beginning | 57.00% | ~31,408 |
+| This is just my weekend vehicle | 56.00% | ~30,857 |
+| Hard work pays off | 51.00% | ~28,102 |
+| It's never too late to farm | 49.00% | ~26,999 |
+| All out of Land | 43.00% | ~23,693 |
+| Field Trip | 42.00% | ~23,142 |
+| I like to switch it up | 39.00% | ~21,489 |
+| Help me to help you | 37.00% | ~20,387 |
+| Ultimutt Pawesomeness | 27.00% | ~14,877 |
+| Van Gogh | 25.00% | ~13,775 |
+| Vehicle fleet | 22.00% | ~12,122 |
+| You wood not believe it | 21.00% | ~11,571 |
+| Well-Oiled Machine | 16.00% | ~8,816 |
+| Clucky Streak | 15.00% | ~8,265 |
+| The plot thickens | 15.00% | ~8,265 |
+| Large-scale supplier | 15.00% | ~8,265 |
+| Long haul | 15.00% | ~8,265 |
+| That's a wrap | 14.00% | ~7,714 |
+| Fix me up | 12.00% | ~6,612 |
+| It's sow easy | 11.00% | ~6,061 |
+| Rock on | 11.00% | ~6,061 |
 | Highly cultivated | 10.00% | ~5,510 |
 | Giddy-up! | 10.00% | ~5,510 |
 | Cowherd | 7.00% | ~3,857 |
@@ -44,13 +44,13 @@ Number of Ratings: 7,683  (23.09.2022)
 | Pretty colourful | 0.80% | ~441 |
 | Original grain | 0.80% | ~441 |
 | Thoroughbred! | 0.60% | ~331 |
-| Gone but not for cotton | 0.50% | ~275 |
+| Gone but not for cotton | 0.50% | ~276 |
 | Cheese it | 0.40% | ~220 |
 | Olea europaea | 0.40% | ~220 |
 | You are not a kangaroo | 0.40% | ~220 |
 | Raisin the stakes | 0.30% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,095 (Ranked 111)  
+Progressed: 55,101 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,23 +282,23 @@ Completed: 6 (0.01%) (Ranked 348)
 | 2023-12-05 | 54,887 | 6 |
 | 2023-12-06 | 54,967 | 6 |
 | 2023-12-07 | 55,056 | 6 |
-| 2023-12-08 | 55,095 | 6 |
+| 2023-12-08 | 55,101 | 6 |
 ## Awards
-Max (Great for Beginners): 5,752  (Ranked 68)  
-Sum: 43,874 (Ranked 34)  
-Diff (max vs sum): 34  
+Max (Great for Beginners): 5,760  (Ranked 67)  
+Sum: 43,891 (Ranked 34)  
+Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,752 |
+| This game is Great for Beginners | 5,760 |
 | This game has Diverse Characters | 4,684 |
-| This game is Educational | 4,420 |
+| This game is Educational | 4,423 |
 | This game is Highly Recommended | 4,375 |
 | This game has Quickly Understood Controls | 4,332 |
 | This game is Relaxing | 4,329 |
 | This game is Extremely Fun | 4,247 |
 | This game has Amazing Storytelling | 4,159 |
 | This game has Amazing Characters | 3,820 |
-| This game has a Creative Community | 3,756 |
+| This game has a Creative Community | 3,762 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
 ## Ratings History
@@ -629,4 +629,4 @@ Diff (max vs sum): 34
 | 2023-12-05 | 4.68 | - | 5,734 | 43,768 |
 | 2023-12-06 | 4.68 | - | 5,743 | 43,817 |
 | 2023-12-07 | 4.68 | - | 5,752 | 43,863 |
-| 2023-12-08 | 4.68 | - | 5,752 | 43,874 |
+| 2023-12-08 | 4.68 | - | 5,760 | 43,891 |

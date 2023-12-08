@@ -2,12 +2,12 @@
   "ID": "b4565296c22549e4830c13bc7506642d",
   "Name": "Far Cry 6 Standard Edition",
   "ProductSlug": "far-cry-6",
-  "Ranking_Rating": 652,
+  "Ranking_Rating": 665,
   "Ranking_Popularity": 156,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewPlayers": 457,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-11-29T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.45,
   "NumberOfRatings": 12290,
   "RatingHistory": [
     {
@@ -8873,6 +8873,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 7491,
       "NumberOfAwardsMax": 972
+    },
+    {
+      "Time": "2023-12-08T14:58:31.1124834+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 7491,
+      "NumberOfAwardsMax": 972
     }
   ],
   "ReviewsDisabled": false,
@@ -8946,8 +8952,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-12-08T13:58:30.8064641+00:00",
+  "LastChanged": "2023-12-08T14:58:31.1124832+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:56.7693967+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:58:30.8064648+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:03:18.5364612+00:00"
+  "LastUpdate_Ratings": "2023-12-08T14:58:31.1124839+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:03:26.7141172+00:00"
 }

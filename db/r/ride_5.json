@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2379,
+  "EOS_Progressed": 2380,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
@@ -5812,6 +5812,11 @@
       "Time": "2023-12-08T01:52:03.9449203+00:00",
       "NumProgressed": 2379,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T15:04:02.7463314+00:00",
+      "NumProgressed": 2380,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6032,7 +6037,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6078,9 +6083,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "c7hf6a4",
       "Name": "We\u0027ve Just Begun",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 286
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -6112,7 +6117,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6215,14 +6220,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2379,
+      "Progressed": 2380,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-08T14:03:55.0612898+00:00",
+  "LastChanged_Achievements": "2023-12-08T15:04:02.746331+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:07.5482593+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:00:01.4935498+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:03:55.0613446+00:00"
+  "LastUpdate_Ratings": "2023-12-08T15:00:00.8908876+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:04:02.7463941+00:00"
 }

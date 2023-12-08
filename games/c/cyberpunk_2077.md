@@ -6,25 +6,25 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,683 |
-| Gun Fu | 7.00% | ~68,065 |
-| The Fool | 6.00% | ~58,341 |
-| Right Back At Ya | 5.00% | ~48,618 |
-| The Lovers | 5.00% | ~48,618 |
-| Full Body Conversion | 3.00% | ~29,171 |
-| Stanislavski's Method | 3.00% | ~29,171 |
-| The Hermit | 3.00% | ~29,171 |
-| The Wheel of Fortune | 3.00% | ~29,171 |
-| True Soldier | 3.00% | ~29,171 |
-| Relic Ruler | 3.00% | ~3,029 |
-| All the President's Men | 3.00% | ~3,029 |
-| Arachnophobia | 3.00% | ~3,029 |
-| Christmas Tree Attack | 2.00% | ~19,447 |
-| The Quick and the Dead | 2.00% | ~19,447 |
-| Life of the Road | 2.00% | ~19,447 |
-| The High Priestess | 2.00% | ~19,447 |
-| True Warrior | 2.00% | ~19,447 |
-| Legend of The Afterlife | 2.00% | ~19,447 |
+| V for Vendetta | 12.00% | ~116,688 |
+| Gun Fu | 7.00% | ~68,068 |
+| The Fool | 6.00% | ~58,344 |
+| Right Back At Ya | 5.00% | ~48,620 |
+| The Lovers | 5.00% | ~48,620 |
+| Full Body Conversion | 3.00% | ~29,172 |
+| Stanislavski's Method | 3.00% | ~29,172 |
+| The Hermit | 3.00% | ~29,172 |
+| The Wheel of Fortune | 3.00% | ~29,172 |
+| True Soldier | 3.00% | ~29,172 |
+| Relic Ruler | 3.00% | ~3,031 |
+| All the President's Men | 3.00% | ~3,031 |
+| Arachnophobia | 3.00% | ~3,031 |
+| Christmas Tree Attack | 2.00% | ~19,448 |
+| The Quick and the Dead | 2.00% | ~19,448 |
+| Life of the Road | 2.00% | ~19,448 |
+| The High Priestess | 2.00% | ~19,448 |
+| True Warrior | 2.00% | ~19,448 |
+| Legend of The Afterlife | 2.00% | ~19,448 |
 | Bushido and Chill | 1.00% | ~9,724 |
 | To Protect and Serve | 1.00% | ~9,724 |
 | Master Crafter | 1.00% | ~9,724 |
@@ -42,8 +42,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.60% | ~5,834 |
 | Breathtaking | 0.50% | ~4,862 |
 | The Star | 0.50% | ~4,862 |
-| Autojock | 0.40% | ~3,889 |
-| Must Be Rats | 0.40% | ~3,889 |
+| Autojock | 0.40% | ~3,890 |
+| Must Be Rats | 0.40% | ~3,890 |
 | The APB is Not Enough | 0.40% | ~404 |
 | Judgement Day | 0.40% | ~404 |
 | King of Pentacles | 0.40% | ~404 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 972,358 (Ranked 15)  
+Progressed: 972,400 (Ranked 15)  
 Completed: 2,857 (0.29%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 2,857 (0.29%) (Ranked 241)
 | 2023-12-05 | 970,654 | 2,844 |
 | 2023-12-06 | 971,359 | 2,847 |
 | 2023-12-07 | 971,994 | 2,852 |
-| 2023-12-08 | 972,358 | 2,857 |
+| 2023-12-08 | 972,400 | 2,857 |
 ## Awards
 Max (Character Customization): 118,778  (Ranked 9)  
 Sum: 400,075 (Ranked 9)  

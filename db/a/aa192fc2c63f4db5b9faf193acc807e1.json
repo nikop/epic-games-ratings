@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -389,9 +389,9 @@
       "ID": "creepytaleach1",
       "SetID": "bnif31p",
       "Name": "Follow to the brother",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 75,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "creepytaleach10",
@@ -405,9 +405,9 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "creepytaleach12",
@@ -421,9 +421,9 @@
       "ID": "creepytaleach13",
       "SetID": "bnif31p",
       "Name": "True fisherman",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "creepytaleach2",
@@ -477,17 +477,17 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 75,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
@@ -500,8 +500,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-08T14:09:36.7045176+00:00",
+  "LastChanged_Achievements": "2023-12-08T15:09:53.0621117+00:00",
   "LastUpdate_AppInfo": "2023-12-06T06:57:00.1697878+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:57:39.4613806+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:09:36.704532+00:00"
+  "LastUpdate_Ratings": "2023-12-08T14:57:40.1671204+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:09:53.0621217+00:00"
 }

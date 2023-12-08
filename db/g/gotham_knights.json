@@ -4577,7 +4577,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77784,
+  "EOS_Progressed": 77785,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
@@ -25362,6 +25362,11 @@
       "Time": "2023-12-08T14:04:49.109531+00:00",
       "NumProgressed": 77784,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-08T15:04:58.4020583+00:00",
+      "NumProgressed": 77785,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25421,7 +25426,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17112
+      "UsersEstimate": 17113
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -25701,7 +25706,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12445
+      "UsersEstimate": 12446
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -25781,7 +25786,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17112
+      "UsersEstimate": 17113
     },
     {
       "ID": "MYSTERY_04",
@@ -25860,13 +25865,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77784,
+      "Progressed": 77785,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48064,
+      "Progressed": 48065,
       "Completed": 2675
     }
   ],
@@ -25874,8 +25879,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-08T05:59:38.4468085+00:00",
-  "LastChanged_Achievements": "2023-12-08T14:04:49.1095306+00:00",
+  "LastChanged_Achievements": "2023-12-08T15:04:58.402058+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:59:54.4939338+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:04:49.1096838+00:00"
+  "LastUpdate_Ratings": "2023-12-08T14:59:53.7939726+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:04:58.4022272+00:00"
 }

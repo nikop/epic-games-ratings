@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 129,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 161,
@@ -4437,10 +4437,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7119,
       "NumberOfAwardsMax": 1756
+    },
+    {
+      "Time": "2023-12-08T14:58:30.9031063+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7120,
+      "NumberOfAwardsMax": 1756
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7119,
+  "NumberOfAwards": 7120,
   "NumberOfAwardsMax": 1756,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4460,7 +4466,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 658
+      "Count": 659
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4511,7 +4517,7 @@
       "Count": 400
     }
   ],
-  "EOS_Progressed": 12253,
+  "EOS_Progressed": 12254,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -16536,6 +16542,11 @@
       "Time": "2023-12-08T10:09:36.2151313+00:00",
       "NumProgressed": 12253,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T15:09:39.4566066+00:00",
+      "NumProgressed": 12254,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16547,7 +16558,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3308
+      "UsersEstimate": 3309
     },
     {
       "ID": "02_BurningCity",
@@ -16563,7 +16574,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "04_FithCrusade",
@@ -16795,7 +16806,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -17474,21 +17485,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11035,
+      "Progressed": 11036,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12253,
+      "Progressed": 12254,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-08T13:03:23.0760159+00:00",
-  "LastChanged_Achievements": "2023-12-08T14:09:23.6908843+00:00",
+  "LastChanged": "2023-12-08T14:58:30.9031061+00:00",
+  "LastChanged_Achievements": "2023-12-08T15:09:39.4566064+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.5454343+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:58:30.6371867+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:09:23.6910347+00:00"
+  "LastUpdate_Ratings": "2023-12-08T14:58:30.9031067+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:09:39.4567541+00:00"
 }

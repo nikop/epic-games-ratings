@@ -1,38 +1,38 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.74 (Ranked 157)  
+Rating: 4.74 (Ranked 156)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~9,948 |
-| I Challenge You To Save More Money! | 86.00% | ~9,299 |
-| I Love How Tough You Are | 73.00% | ~7,893 |
-| Wanna Come To My Place For Dinner? | 66.00% | ~7,137 |
-| What I Want Is You | 61.00% | ~6,596 |
-| To Be Or Not To Be | 58.00% | ~6,272 |
-| Are You Alright? | 50.00% | ~5,406 |
-| Love Actually | 49.00% | ~5,298 |
-| Drama King | 42.00% | ~4,541 |
-| You're Really Something Else | 37.00% | ~4,001 |
+| Last Night...Did We... | 92.00% | ~9,950 |
+| I Challenge You To Save More Money! | 86.00% | ~9,301 |
+| I Love How Tough You Are | 73.00% | ~7,895 |
+| Wanna Come To My Place For Dinner? | 66.00% | ~7,138 |
+| What I Want Is You | 61.00% | ~6,597 |
+| To Be Or Not To Be | 58.00% | ~6,273 |
+| Are You Alright? | 50.00% | ~5,408 |
+| Love Actually | 49.00% | ~5,299 |
+| Drama King | 42.00% | ~4,542 |
+| You're Really Something Else | 37.00% | ~4,002 |
 | Go Clean up In Your Own Way | 36.00% | ~3,893 |
 | Happy Family | 35.00% | ~3,785 |
 | FIRST LOVE | 35.00% | ~3,785 |
 | Worthless Speech | 35.00% | ~3,785 |
-| ONE PUNCH | 34.00% | ~3,676 |
-| Drama CP: Reel to Real | 34.00% | ~3,676 |
-| Absolutely Elegant | 33.00% | ~3,568 |
-| Still Single | 32.00% | ~3,460 |
+| ONE PUNCH | 34.00% | ~3,677 |
+| Drama CP: Reel to Real | 34.00% | ~3,677 |
+| Absolutely Elegant | 33.00% | ~3,569 |
+| Still Single | 32.00% | ~3,461 |
 | Go Get Some Fries On The Pier | 30.00% | ~3,244 |
 | Days Of Innocence | 30.00% | ~3,244 |
 | David | 29.00% | ~3,136 |
-| A Slap In The Face! | 26.00% | ~2,811 |
-| All I Have Is Money | 25.00% | ~2,703 |
-| That's So You | 25.00% | ~2,703 |
-| SALUTE | 25.00% | ~2,703 |
-| Lover In Dark Alley | 24.00% | ~2,595 |
-| Let Me Be Your Toy Boy | 24.00% | ~2,595 |
-| Off We Sail Tonight | 19.00% | ~2,054 |
+| A Slap In The Face! | 26.00% | ~2,812 |
+| All I Have Is Money | 25.00% | ~2,704 |
+| That's So You | 25.00% | ~2,704 |
+| SALUTE | 25.00% | ~2,704 |
+| Lover In Dark Alley | 24.00% | ~2,596 |
+| Let Me Be Your Toy Boy | 24.00% | ~2,596 |
+| Off We Sail Tonight | 19.00% | ~2,055 |
 | Love You Three Thousand | 16.00% | ~1,730 |
 | Can You Do This Or Not? | 16.00% | ~1,730 |
 | Doesn't Matter I'll Handle It | 14.00% | ~1,514 |
@@ -48,8 +48,8 @@ Rating: 4.74 (Ranked 157)
 | Tall; Grande; Venti | 2.00% | ~216 |
 | Limerence | 2.00% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,813 (Ranked 164)  
-Completed: 196 (1.81%) (Ranked 134)  
+Progressed: 10,815 (Ranked 164)  
+Completed: 197 (1.82%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,7 +110,7 @@ Completed: 196 (1.81%) (Ranked 134)
 | 2023-12-05 | 10,712 | 192 |
 | 2023-12-06 | 10,748 | 194 |
 | 2023-12-07 | 10,791 | 195 |
-| 2023-12-08 | 10,813 | 196 |
+| 2023-12-08 | 10,815 | 197 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 535)  
 Sum: 23 (Ranked 538)  

@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 695)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,874 |
-| Confirming Suspicions | 41.00% | ~1,635 |
-| The Kraken Wakes | 37.00% | ~1,475 |
-| It's Starting to Crack | 34.00% | ~1,356 |
-| Lord of War | 31.00% | ~1,236 |
-| Change the Channel | 31.00% | ~1,236 |
-| Taking it back | 29.00% | ~1,156 |
-| Resourceful | 27.00% | ~1,076 |
-| Target America | 27.00% | ~1,076 |
-| The Kraken Sleeps | 25.00% | ~997 |
-| As Quiet as a Mouse | 24.00% | ~957 |
-| Liberté | 23.00% | ~917 |
-| Organ Grinder | 23.00% | ~917 |
-| Sharpshooter | 23.00% | ~917 |
+| Meeting Resistance | 47.00% | ~1,875 |
+| Confirming Suspicions | 41.00% | ~1,636 |
+| The Kraken Wakes | 37.00% | ~1,476 |
+| It's Starting to Crack | 34.00% | ~1,357 |
+| Lord of War | 31.00% | ~1,237 |
+| Change the Channel | 31.00% | ~1,237 |
+| Taking it back | 29.00% | ~1,157 |
+| Resourceful | 27.00% | ~1,077 |
+| Target America | 27.00% | ~1,077 |
+| The Kraken Sleeps | 25.00% | ~998 |
+| As Quiet as a Mouse | 24.00% | ~958 |
+| Liberté | 23.00% | ~918 |
+| Organ Grinder | 23.00% | ~918 |
+| Sharpshooter | 23.00% | ~918 |
 | Gunslinger | 19.00% | ~758 |
 | Explosive Efficiency | 19.00% | ~758 |
 | Climbing the Ladder | 17.00% | ~678 |
@@ -30,25 +30,25 @@ Rating: 4.43 (Ranked 695)
 | No Stone Unturned | 15.00% | ~598 |
 | Skirmisher | 15.00% | ~598 |
 | Die Nussknacker Sweet! | 15.00% | ~598 |
-| Opposing Force | 14.00% | ~558 |
-| Enemy at the Gates | 14.00% | ~558 |
-| Fields of Glory | 14.00% | ~558 |
-| Set Europe Ablaze | 13.00% | ~518 |
+| Opposing Force | 14.00% | ~559 |
+| Enemy at the Gates | 14.00% | ~559 |
+| Fields of Glory | 14.00% | ~559 |
+| Set Europe Ablaze | 13.00% | ~519 |
 | Precision Is Key | 10.00% | ~399 |
 | My Little Friend | 10.00% | ~399 |
 | Rigged to Blow | 9.00% | ~359 |
 | Herr Today, Gone Tomorrow | 7.00% | ~276 |
 | Operation Foxley | 6.00% | ~236 |
-| The Long Game | 5.00% | ~199 |
-| Tinkerer | 5.00% | ~199 |
-| It'll Buff Right Out | 5.00% | ~199 |
-| Road Rage | 5.00% | ~199 |
-| Don't hold your breath | 5.00% | ~199 |
+| The Long Game | 5.00% | ~200 |
+| Tinkerer | 5.00% | ~200 |
+| It'll Buff Right Out | 5.00% | ~200 |
+| Road Rage | 5.00% | ~200 |
+| Don't hold your breath | 5.00% | ~200 |
 | Last Resort | 5.00% | ~197 |
 | Siegebreaker | 5.00% | ~197 |
 | Ghost of Falaise | 5.00% | ~197 |
-| Strategist | 4.00% | ~159 |
-| Locomotion Commotion | 4.00% | ~159 |
+| Strategist | 4.00% | ~160 |
+| Locomotion Commotion | 4.00% | ~160 |
 | From Paris with Love | 3.00% | ~120 |
 | Burn after reading | 3.00% | ~120 |
 | Souvenir hunter | 3.00% | ~120 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 695)
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,987 (Ranked 198)  
+Progressed: 3,990 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 11 (0.28%) (Ranked 245)
 | 2023-12-05 | 3,981 | 11 |
 | 2023-12-06 | 3,983 | 11 |
 | 2023-12-07 | 3,986 | 11 |
-| 2023-12-08 | 3,987 | 11 |
+| 2023-12-08 | 3,990 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 510)  
 Sum: 28 (Ranked 525)  

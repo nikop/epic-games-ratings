@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1832,
+  "EOS_Progressed": 1833,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4314,6 +4314,11 @@
       "Time": "2023-12-08T14:08:53.2675323+00:00",
       "NumProgressed": 1832,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T15:09:07.7031034+00:00",
+      "NumProgressed": 1833,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4325,7 +4330,7 @@
       "Name": "Agent 47",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Auditor",
@@ -4357,7 +4362,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Commandos",
@@ -4405,7 +4410,7 @@
       "Name": "E1M1",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "Everyone_is_here",
@@ -4477,7 +4482,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "KillAllM2",
@@ -4501,7 +4506,7 @@
       "Name": "One by One",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "Miner",
@@ -4564,15 +4569,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1832,
+      "Progressed": 1833,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-08T14:08:53.2675318+00:00",
+  "LastChanged_Achievements": "2023-12-08T15:09:07.7031031+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:23.2476007+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:58:52.443541+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:08:53.2675672+00:00"
+  "LastUpdate_Ratings": "2023-12-08T14:58:52.3315332+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:09:07.7031328+00:00"
 }

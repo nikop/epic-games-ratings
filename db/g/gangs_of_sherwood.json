@@ -4,7 +4,7 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -562,9 +562,9 @@
       "ID": "ACH_KILL_RAM",
       "SetID": "5akmpni",
       "Name": "Assault on the Ram",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_KILL_SHERIFF",
@@ -721,8 +721,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-08T14:03:48.5904562+00:00",
+  "LastChanged_Achievements": "2023-12-08T15:03:56.3536599+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:51.6227723+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:59:32.2911956+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:03:48.5905129+00:00"
+  "LastUpdate_Ratings": "2023-12-08T14:59:31.9433159+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:03:56.3537287+00:00"
 }

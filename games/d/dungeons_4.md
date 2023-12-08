@@ -25,12 +25,12 @@
 | Hard Work | 52.00% | ~278 |
 | YOU SHALL NOT PASS! | 50.00% | ~268 |
 | “… like son” | 49.00% | ~262 |
-| Pure Dynamite! | 45.00% | ~241 |
+| Pure Dynamite! | 46.00% | ~246 |
 | The Cathedral of Light | 45.00% | ~241 |
 | Shame! Shame! Shame! | 45.00% | ~241 |
 | Dungeonlord Gorgu | 44.00% | ~235 |
+| Tanos' Crusade Against Thalya | 42.00% | ~225 |
 | Mana Cannon | 41.00% | ~219 |
-| Tanos' Crusade Against Thalya | 41.00% | ~219 |
 | All’s Well That Ends Evil | 35.00% | ~187 |
 | Unstoppable Horde | 33.00% | ~177 |
 | The Duel | 33.00% | ~177 |

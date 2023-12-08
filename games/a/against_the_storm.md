@@ -27,6 +27,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ancient Battleground | 0.30% | ~53 |
 | Sparkdew Crystals | 0.30% | ~53 |
 | Fertile Meadows | 0.30% | ~53 |
+| Monastery of the Holy Flame | 0.30% | ~53 |
 | Royal Outpost | 0.30% | ~53 |
 | Trade Baron | 0.30% | ~53 |
 | Fox Utopia | 0.30% | ~53 |
@@ -35,7 +36,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 0.20% | ~35 |
 | Levitating Monument | 0.20% | ~35 |
 | Flooded Mines | 0.20% | ~35 |
-| Monastery of the Holy Flame | 0.20% | ~35 |
 | Lost Colonies | 0.20% | ~35 |
 | Statue of the Forefathers | 0.20% | ~35 |
 | Corrosive Torrent | 0.20% | ~35 |

@@ -7273,10 +7273,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4561,
       "NumberOfAwardsMax": 593
+    },
+    {
+      "Time": "2023-12-08T15:02:54.6675118+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4562,
+      "NumberOfAwardsMax": 593
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4561,
+  "NumberOfAwards": 4562,
   "NumberOfAwardsMax": 593,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7284,7 +7290,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 489
+      "Count": 490
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7347,9 +7353,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 201401,
+  "EOS_Progressed": 201410,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2136,
+  "EOS_NewPlayers": 2122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33872,6 +33878,11 @@
       "Time": "2023-12-08T14:09:13.9496091+00:00",
       "NumProgressed": 201401,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-08T15:09:29.3884527+00:00",
+      "NumProgressed": 201410,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -33915,7 +33926,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 32224
+      "UsersEstimate": 32226
     },
     {
       "ID": "Achievement_13",
@@ -33963,7 +33974,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 50350
+      "UsersEstimate": 50352
     },
     {
       "ID": "Achievement_5",
@@ -33995,7 +34006,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 18126
+      "UsersEstimate": 18127
     },
     {
       "ID": "Achievement_9",
@@ -34010,15 +34021,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 201401,
+      "Progressed": 201410,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-12-08T09:02:41.6317658+00:00",
-  "LastChanged_Achievements": "2023-12-08T14:09:13.9496086+00:00",
+  "LastChanged": "2023-12-08T15:02:54.6675116+00:00",
+  "LastChanged_Achievements": "2023-12-08T15:09:29.3884524+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:27.1980843+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:02:47.4987749+00:00",
-  "LastUpdate_Achievements": "2023-12-08T14:09:13.9497557+00:00"
+  "LastUpdate_Ratings": "2023-12-08T15:02:54.6675125+00:00",
+  "LastUpdate_Achievements": "2023-12-08T15:09:29.3886193+00:00"
 }

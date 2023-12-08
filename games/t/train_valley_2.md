@@ -1,42 +1,42 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.44 (Ranked 680)  
+Rating: 4.44 (Ranked 679)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~308,053 |
-| Full garage | 61.00% | ~257,414 |
-| To the eyeballs! | 51.00% | ~215,215 |
-| Individual delivery | 47.00% | ~198,335 |
-| Non-Stop | 45.00% | ~189,896 |
-| Juggler | 36.00% | ~151,916 |
-| Forgot something | 35.00% | ~147,696 |
-| Close call! | 30.00% | ~126,597 |
-| Get out my way | 28.00% | ~118,157 |
-| Common cause | 26.00% | ~109,717 |
-| Critical care | 26.00% | ~109,717 |
-| Mega-railroad | 23.00% | ~97,058 |
-| Upgrade complete | 23.00% | ~97,058 |
-| Just in time! | 18.00% | ~75,958 |
-| Builder | 17.00% | ~71,738 |
-| Long Haul | 17.00% | ~71,626 |
-| Steam Age | 16.00% | ~67,518 |
-| Multilevel road | 15.00% | ~63,298 |
-| Bridgemania | 14.00% | ~59,079 |
-| Need to think | 14.00% | ~59,079 |
-| The Tortoise | 12.00% | ~50,639 |
-| Beginner | 11.00% | ~46,419 |
-| Without a lunch break | 11.00% | ~46,419 |
-| One way | 10.00% | ~42,199 |
-| Relocation | 10.00% | ~42,199 |
-| Industrial Age | 9.00% | ~37,979 |
-| Just One More Valley | 9.00% | ~37,920 |
-| Prick of conscience | 8.00% | ~33,759 |
-| Missed it! | 7.00% | ~29,539 |
-| At the last moment! | 6.00% | ~25,319 |
-| Overseer | 6.00% | ~25,319 |
+| Dealmaker | 73.00% | ~308,063 |
+| Full garage | 61.00% | ~257,422 |
+| To the eyeballs! | 51.00% | ~215,222 |
+| Individual delivery | 47.00% | ~198,342 |
+| Non-Stop | 45.00% | ~189,902 |
+| Juggler | 36.00% | ~151,921 |
+| Forgot something | 35.00% | ~147,701 |
+| Close call! | 30.00% | ~126,601 |
+| Get out my way | 28.00% | ~118,161 |
+| Common cause | 26.00% | ~109,721 |
+| Critical care | 26.00% | ~109,721 |
+| Mega-railroad | 23.00% | ~97,061 |
+| Upgrade complete | 23.00% | ~97,061 |
+| Just in time! | 18.00% | ~75,961 |
+| Builder | 17.00% | ~71,741 |
+| Long Haul | 17.00% | ~71,629 |
+| Steam Age | 16.00% | ~67,521 |
+| Multilevel road | 15.00% | ~63,301 |
+| Bridgemania | 14.00% | ~59,081 |
+| Need to think | 14.00% | ~59,081 |
+| The Tortoise | 12.00% | ~50,640 |
+| Beginner | 11.00% | ~46,420 |
+| Without a lunch break | 11.00% | ~46,420 |
+| One way | 10.00% | ~42,200 |
+| Relocation | 10.00% | ~42,200 |
+| Industrial Age | 9.00% | ~37,980 |
+| Just One More Valley | 9.00% | ~37,921 |
+| Prick of conscience | 8.00% | ~33,760 |
+| Missed it! | 7.00% | ~29,540 |
+| At the last moment! | 6.00% | ~25,320 |
+| Overseer | 6.00% | ~25,320 |
 | Highlander | 5.00% | ~21,100 |
 | Jewelry accuracy | 5.00% | ~21,100 |
 | Stargazer | 5.00% | ~21,100 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~421 |
 | World Zapper | 0.10% | ~421 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421,990 (Ranked 45)  
+Progressed: 422,004 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,10 +290,10 @@ Completed: 23 (0.01%) (Ranked 348)
 | 2023-12-05 | 421,504 | 23 |
 | 2023-12-06 | 421,683 | 23 |
 | 2023-12-07 | 421,876 | 23 |
-| 2023-12-08 | 421,990 | 23 |
+| 2023-12-08 | 422,004 | 23 |
 ## Awards
 Max (Challenging Puzzles): 952  (Ranked 158)  
-Sum: 1,921 (Ranked 217)  
+Sum: 1,922 (Ranked 217)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
@@ -303,7 +303,7 @@ Diff (max vs sum): -59
 | This game has Quickly Understood Controls | 104 |
 | This game is Extremely Fun | 102 |
 | This game is Relaxing | 101 |
-| This game is Highly Recommended | 96 |
+| This game is Highly Recommended | 97 |
 | This game has Challenging Combat | 84 |
 | This game has Amazing Storytelling | 70 |
 | This game has a Creative Community | 67 |
@@ -509,4 +509,4 @@ Diff (max vs sum): -59
 | 2023-12-05 | 4.44 | - | 950 | 1,913 |
 | 2023-12-06 | 4.44 | - | 950 | 1,915 |
 | 2023-12-07 | 4.44 | - | 952 | 1,918 |
-| 2023-12-08 | 4.44 | - | 952 | 1,921 |
+| 2023-12-08 | 4.44 | - | 952 | 1,922 |

@@ -1,7 +1,7 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 147)  
+Rating: 4.75 (Ranked 146)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,24 +28,24 @@ Rating: 4.75 (Ranked 147)
 | Almost There | 0.40% | ~947 |
 | Make Some Room | 0.40% | ~947 |
 | Good, But Could Be Better! | 0.40% | ~947 |
-| Ghost in the Machine | 0.30% | ~710 |
-| Chaos | 0.30% | ~710 |
-| Traitor | 0.30% | ~710 |
-| Forever is a Long Time Coming | 0.30% | ~710 |
-| Power Surge | 0.30% | ~710 |
-| The God Gambit | 0.30% | ~710 |
-| Dark Designs | 0.30% | ~710 |
-| Madman's Paradise | 0.30% | ~710 |
-| Tall Tales | 0.30% | ~710 |
-| Bad Moon Rising | 0.30% | ~710 |
-| Strapped | 0.30% | ~710 |
-| Edgelord | 0.30% | ~710 |
-| The Web | 0.30% | ~710 |
-| Scrap Collector | 0.30% | ~710 |
-| Scrap Hoarder | 0.30% | ~710 |
-| All These Traits� | 0.30% | ~710 |
-| The Ultimate Weapon | 0.30% | ~710 |
-| Transmutate | 0.30% | ~710 |
+| Ghost in the Machine | 0.30% | ~711 |
+| Chaos | 0.30% | ~711 |
+| Traitor | 0.30% | ~711 |
+| Forever is a Long Time Coming | 0.30% | ~711 |
+| Power Surge | 0.30% | ~711 |
+| The God Gambit | 0.30% | ~711 |
+| Dark Designs | 0.30% | ~711 |
+| Madman's Paradise | 0.30% | ~711 |
+| Tall Tales | 0.30% | ~711 |
+| Bad Moon Rising | 0.30% | ~711 |
+| Strapped | 0.30% | ~711 |
+| Edgelord | 0.30% | ~711 |
+| The Web | 0.30% | ~711 |
+| Scrap Collector | 0.30% | ~711 |
+| Scrap Hoarder | 0.30% | ~711 |
+| All These Traits� | 0.30% | ~711 |
+| The Ultimate Weapon | 0.30% | ~711 |
+| Transmutate | 0.30% | ~711 |
 | Crafty | 0.20% | ~474 |
 | Only Human | 0.20% | ~474 |
 | Red Room | 0.20% | ~474 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | You Shall Pass | 0.20% | ~32 |
 | A Foul Feast | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,818 (Ranked 67)  
+Progressed: 236,841 (Ranked 67)  
 Completed: 568 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 568 (0.24%) (Ranked 252)
 | 2023-12-05 | 235,528 | 561 |
 | 2023-12-06 | 236,074 | 564 |
 | 2023-12-07 | 236,590 | 567 |
-| 2023-12-08 | 236,818 | 568 |
+| 2023-12-08 | 236,841 | 568 |
 ## Awards
 Max (Great Boss Battles): 2,678  (Ranked 102)  
 Sum: 6,657 (Ranked 127)  
