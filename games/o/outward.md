@@ -18,8 +18,8 @@ Number of Ratings: 266  (23.09.2022)
 | Home Sweet Home | 23.00% | ~857 |
 | Encyclopedic! | 20.00% | ~745 |
 | A Fortress Toppled! | 17.00% | ~634 |
+| Apex Predator | 17.00% | ~634 |
 | The Power of Family | 17.00% | ~634 |
-| Apex Predator | 16.00% | ~596 |
 | Strange amalgams | 13.00% | ~485 |
 | The Power of Faith | 13.00% | ~485 |
 | The Power of Freedom | 10.00% | ~373 |

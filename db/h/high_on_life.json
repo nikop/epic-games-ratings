@@ -7430,9 +7430,9 @@
       "ID": "ACH_GET_SWEEZY",
       "SetID": "cdkbb11",
       "Name": "Sweezy Like Sunday Morning",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 740
+      "UsersEstimate": 986
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -7709,8 +7709,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-12-08T13:12:13.0303066+00:00",
+  "LastChanged_Achievements": "2023-12-08T14:06:02.3307163+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:04.790571+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:03:39.4149192+00:00",
-  "LastUpdate_Achievements": "2023-12-08T13:12:13.030361+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:58:41.8896149+00:00",
+  "LastUpdate_Achievements": "2023-12-08T14:06:02.3307866+00:00"
 }

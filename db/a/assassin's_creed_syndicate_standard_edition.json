@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-syndicate",
   "Ranking_Rating": 575,
   "Ranking_Popularity": 329,
-  "Ranking_PopularitySum": 264,
+  "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-02-20T16:00:00+00:00",
@@ -3150,10 +3150,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 994,
       "NumberOfAwardsMax": 133
+    },
+    {
+      "Time": "2023-12-08T13:59:41.8092533+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 996,
+      "NumberOfAwardsMax": 133
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 994,
+  "NumberOfAwards": 996,
   "NumberOfAwardsMax": 133,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3167,7 +3173,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 105
+      "Count": 107
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3241,8 +3247,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2023-12-07T13:04:44.5686173+00:00",
+  "LastChanged": "2023-12-08T13:59:41.8092532+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:40.418152+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:05:09.5940118+00:00",
-  "LastUpdate_Achievements": "2023-12-08T13:13:45.9108316+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:59:41.8092536+00:00",
+  "LastUpdate_Achievements": "2023-12-08T14:08:38.0163702+00:00"
 }

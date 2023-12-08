@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1431,9 +1431,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6254,
+  "EOS_Progressed": 6255,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14011,6 +14011,11 @@
       "Time": "2023-12-08T09:03:55.7911662+00:00",
       "NumProgressed": 6254,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T14:03:47.402112+00:00",
+      "NumProgressed": 6255,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14046,7 +14051,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -14118,7 +14123,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -14182,7 +14187,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4690
+      "UsersEstimate": 4691
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14341,15 +14346,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6254,
+      "Progressed": 6255,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-04T06:58:37.0670736+00:00",
-  "LastChanged_Achievements": "2023-12-08T13:09:04.7976655+00:00",
+  "LastChanged_Achievements": "2023-12-08T14:03:47.4021115+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:34.7926512+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:02:19.1332373+00:00",
-  "LastUpdate_Achievements": "2023-12-08T13:09:04.7977449+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:57:46.6814369+00:00",
+  "LastUpdate_Achievements": "2023-12-08T14:03:47.4022185+00:00"
 }

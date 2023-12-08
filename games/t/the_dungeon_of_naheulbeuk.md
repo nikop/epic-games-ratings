@@ -6,20 +6,20 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,029 |
-| Alt+F4 | 9.00% | ~21,757 |
-| Where's that freaking Dwarf? | 8.00% | ~19,340 |
-| Déjà vu | 7.00% | ~16,922 |
-| A beer, two curses, three companions | 5.00% | ~12,087 |
-| Sock! SOCK! | 5.00% | ~12,087 |
-| GG EZ | 5.00% | ~12,087 |
-| Speedrun | 5.00% | ~12,087 |
+| Sowwy! | 36.00% | ~87,033 |
+| Alt+F4 | 9.00% | ~21,758 |
+| Where's that freaking Dwarf? | 8.00% | ~19,341 |
+| Déjà vu | 7.00% | ~16,923 |
+| A beer, two curses, three companions | 5.00% | ~12,088 |
+| Sock! SOCK! | 5.00% | ~12,088 |
+| GG EZ | 5.00% | ~12,088 |
+| Speedrun | 5.00% | ~12,088 |
 | DM intervention | 4.00% | ~9,670 |
 | Fireproof Wizardess | 4.00% | ~9,670 |
-| Livin' in a dwarven paradise | 3.00% | ~7,252 |
-| Way of the Wimp | 3.00% | ~7,252 |
-| The plot thickens... At the tavern | 3.00% | ~7,252 |
-| The Woman in the High Castle | 3.00% | ~7,252 |
+| Livin' in a dwarven paradise | 3.00% | ~7,253 |
+| Way of the Wimp | 3.00% | ~7,253 |
+| The plot thickens... At the tavern | 3.00% | ~7,253 |
+| The Woman in the High Castle | 3.00% | ~7,253 |
 | Shiny and Crôm | 2.00% | ~4,835 |
 | The demons' feast | 2.00% | ~4,835 |
 | The Great Library | 2.00% | ~4,835 |
@@ -38,35 +38,35 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,835 |
 | Team Building Exercise | 2.00% | ~4,835 |
 | Oh, when I'll be level 10... | 2.00% | ~4,835 |
-| %#*!$*! | 1.00% | ~2,417 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,417 |
-| Dead for good | 1.00% | ~2,417 |
-| Gargantua | 1.00% | ~2,417 |
-| Lust and Debauchery | 1.00% | ~2,417 |
-| Material Girl | 1.00% | ~2,417 |
+| %#*!$*! | 1.00% | ~2,418 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,418 |
+| Dead for good | 1.00% | ~2,418 |
+| Gargantua | 1.00% | ~2,418 |
+| Lust and Debauchery | 1.00% | ~2,418 |
+| Material Girl | 1.00% | ~2,418 |
 | In Navalu's footsteps | 0.90% | ~2,176 |
 | Lëgal Legend | 0.80% | ~1,934 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,692 |
 | We come in peace | 0.70% | ~1,692 |
-| Holistic Adventuring Party | 0.60% | ~1,450 |
-| Law and Order | 0.60% | ~1,450 |
+| Holistic Adventuring Party | 0.60% | ~1,451 |
+| Law and Order | 0.60% | ~1,451 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,209 |
 | It's been a hard day's night | 0.50% | ~1,209 |
 | Friendly fire | 0.40% | ~967 |
 | I'd rather... Just... Sing! | 0.40% | ~967 |
 | The number of the counting shalt be 7 | 0.30% | ~725 |
 | Inception | 0.30% | ~725 |
-| Cursed die | 0.20% | ~483 |
-| The Blood Countess | 0.20% | ~483 |
-| Free customer service | 0.20% | ~483 |
-| Imposture and Trowels | 0.20% | ~483 |
-| Deep changes | 0.20% | ~483 |
-| Kudos from your DM | 0.20% | ~483 |
-| Insult to injury | 0.20% | ~483 |
-| 100% satisfaction guarantee | 0.20% | ~483 |
-| Death is for wimps | 0.20% | ~483 |
-| Super-Ultra-Lydian | 0.20% | ~483 |
-| Demisemiquaver | 0.20% | ~483 |
+| Cursed die | 0.20% | ~484 |
+| The Blood Countess | 0.20% | ~484 |
+| Free customer service | 0.20% | ~484 |
+| Imposture and Trowels | 0.20% | ~484 |
+| Deep changes | 0.20% | ~484 |
+| Kudos from your DM | 0.20% | ~484 |
+| Insult to injury | 0.20% | ~484 |
+| 100% satisfaction guarantee | 0.20% | ~484 |
+| Death is for wimps | 0.20% | ~484 |
+| Super-Ultra-Lydian | 0.20% | ~484 |
+| Demisemiquaver | 0.20% | ~484 |
 | Necrophilia | 0.10% | ~242 |
 | He’s alive! Aliiiive! | 0.10% | ~242 |
 | Restless night | 0.10% | ~242 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,748 (Ranked 63)  
+Progressed: 241,758 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-05 | 241,460 | 7 |
 | 2023-12-06 | 241,584 | 7 |
 | 2023-12-07 | 241,693 | 7 |
-| 2023-12-08 | 241,748 | 7 |
+| 2023-12-08 | 241,758 | 7 |
 ## Awards
 Max (Character Customization): 244  (Ranked 272)  
 Sum: 495 (Ranked 328)  

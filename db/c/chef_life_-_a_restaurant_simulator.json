@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 728,
+  "EOS_Progressed": 729,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3227,6 +3227,11 @@
       "Time": "2023-12-08T10:09:09.4154847+00:00",
       "NumProgressed": 728,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T14:08:55.593286+00:00",
+      "NumProgressed": 729,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3286,7 +3291,7 @@
       "Name": "French Flair",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -3414,7 +3419,7 @@
       "Name": "The Big Day",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "Packing20",
@@ -3557,7 +3562,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 728,
+      "Progressed": 729,
       "Completed": 0
     }
   ],
@@ -3565,8 +3570,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-08T13:14:10.717902+00:00",
+  "LastChanged_Achievements": "2023-12-08T14:08:55.5932853+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:25.3958445+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:04:44.4265569+00:00",
-  "LastUpdate_Achievements": "2023-12-08T13:14:10.7179419+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:59:24.9583916+00:00",
+  "LastUpdate_Achievements": "2023-12-08T14:08:55.5933274+00:00"
 }

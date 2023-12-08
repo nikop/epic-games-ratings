@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 7.00% | ~10,098 |
-| Basic in Bulk | 7.00% | ~10,098 |
-| Titan's First Steps | 7.00% | ~10,098 |
+| Sponsored by Argon | 7.00% | ~10,099 |
+| Basic in Bulk | 7.00% | ~10,099 |
+| Titan's First Steps | 7.00% | ~10,099 |
 | Tinkle of Coins | 6.00% | ~8,656 |
-| Disintermediation | 5.00% | ~7,213 |
-| It's Free Real Estate | 5.00% | ~7,213 |
-| Capitalism Ho! | 5.00% | ~7,213 |
-| One Easy Payment | 4.00% | ~5,770 |
-| Some Assembly Required | 4.00% | ~5,770 |
-| Another Satisfied Customer | 4.00% | ~5,770 |
-| Pretty Penny | 4.00% | ~5,770 |
-| Budding Merchant | 4.00% | ~5,770 |
-| Own the Means of Production | 4.00% | ~5,770 |
+| Disintermediation | 5.00% | ~7,214 |
+| It's Free Real Estate | 5.00% | ~7,214 |
+| Capitalism Ho! | 5.00% | ~7,214 |
+| One Easy Payment | 4.00% | ~5,771 |
+| Some Assembly Required | 4.00% | ~5,771 |
+| Another Satisfied Customer | 4.00% | ~5,771 |
+| Pretty Penny | 4.00% | ~5,771 |
+| Budding Merchant | 4.00% | ~5,771 |
+| Own the Means of Production | 4.00% | ~5,771 |
 | The Daily Grind | 3.00% | ~4,328 |
 | Bounty Hunters | 3.00% | ~4,328 |
 | Demand for Supplies | 3.00% | ~4,328 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~433 |
 | Capitalist Camaraderie | 0.20% | ~289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,259 (Ranked 80)  
+Progressed: 144,270 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 291 (0.20%) (Ranked 258)
 | 2023-12-05 | 143,938 | 291 |
 | 2023-12-06 | 144,049 | 291 |
 | 2023-12-07 | 144,162 | 291 |
-| 2023-12-08 | 144,259 | 291 |
+| 2023-12-08 | 144,270 | 291 |
 ## Awards
 Max (Great for Beginners): 4,870  (Ranked 75)  
 Sum: 27,675 (Ranked 50)  

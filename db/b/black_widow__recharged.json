@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22096,
+  "EOS_Progressed": 22097,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 785,
+  "EOS_NewPlayers": 782,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -19348,6 +19348,11 @@
       "Time": "2023-12-08T13:12:22.1216303+00:00",
       "NumProgressed": 22096,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-08T14:06:08.7284972+00:00",
+      "NumProgressed": 22097,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 14,
@@ -19359,7 +19364,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 17014
+      "UsersEstimate": 17015
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -19399,7 +19404,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 3314
+      "UsersEstimate": 3315
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -19463,22 +19468,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3094
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 22096,
+      "Progressed": 22097,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-12-08T13:12:22.1216299+00:00",
+  "LastChanged_Achievements": "2023-12-08T14:06:08.7284968+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:04.9336511+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:03:38.8502054+00:00",
-  "LastUpdate_Achievements": "2023-12-08T13:12:22.1217228+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:58:41.4762747+00:00",
+  "LastUpdate_Achievements": "2023-12-08T14:06:08.7285926+00:00"
 }

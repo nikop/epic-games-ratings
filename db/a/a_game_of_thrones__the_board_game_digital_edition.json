@@ -4,7 +4,7 @@
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 915,
   "Ranking_Popularity": 337,
-  "Ranking_PopularitySum": 283,
+  "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 111,
@@ -1332,9 +1332,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29913,
+  "EOS_Progressed": 29914,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -26172,6 +26172,11 @@
       "Time": "2023-12-08T13:14:45.2107068+00:00",
       "NumProgressed": 29913,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-08T14:09:20.0130729+00:00",
+      "NumProgressed": 29914,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -26287,7 +26292,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5384
+      "UsersEstimate": 5385
     },
     {
       "ID": "1029",
@@ -26319,7 +26324,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11965
+      "UsersEstimate": 11966
     },
     {
       "ID": "1033",
@@ -26358,15 +26363,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29913,
+      "Progressed": 29914,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-08T13:14:45.2107063+00:00",
+  "LastChanged_Achievements": "2023-12-08T14:09:20.0130723+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.8181889+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:04:54.3723195+00:00",
-  "LastUpdate_Achievements": "2023-12-08T13:14:45.2108083+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:59:31.522994+00:00",
+  "LastUpdate_Achievements": "2023-12-08T14:09:20.0132229+00:00"
 }

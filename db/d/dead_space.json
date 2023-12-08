@@ -733,7 +733,7 @@
   ],
   "EOS_Progressed": 2173,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -6868,9 +6868,9 @@
       "ID": "achievement_18",
       "SetID": "222fo9l",
       "Name": "Full Arsenal",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1021
     },
     {
       "ID": "achievement_19",
@@ -6892,9 +6892,9 @@
       "ID": "achievement_20",
       "SetID": "222fo9l",
       "Name": "Autofire",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1282
     },
     {
       "ID": "achievement_21",
@@ -7181,8 +7181,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-12-06T16:57:59.3139948+00:00",
-  "LastChanged_Achievements": "2023-12-08T13:14:10.1944437+00:00",
+  "LastChanged_Achievements": "2023-12-08T14:08:55.2243531+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.9880376+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:04:12.8987402+00:00",
-  "LastUpdate_Achievements": "2023-12-08T13:14:10.194503+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:59:04.192164+00:00",
+  "LastUpdate_Achievements": "2023-12-08T14:08:55.2244075+00:00"
 }

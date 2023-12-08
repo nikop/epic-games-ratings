@@ -7303,18 +7303,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 12289,
       "NumberOfAwardsMax": 7994
+    },
+    {
+      "Time": "2023-12-08T13:59:07.5244333+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12312,
+      "NumberOfAwardsMax": 8017
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12289,
-  "NumberOfAwardsMax": 7994,
+  "NumberOfAwards": 12312,
+  "NumberOfAwardsMax": 8017,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7994
+      "Count": 8017
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7365,9 +7371,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 731694,
+  "EOS_Progressed": 731715,
   "EOS_Completed": 2466,
-  "EOS_NewPlayers": 3303,
+  "EOS_NewPlayers": 3301,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33975,6 +33981,11 @@
       "Time": "2023-12-08T13:13:58.6919724+00:00",
       "NumProgressed": 731694,
       "NumCompleted": 2466
+    },
+    {
+      "Time": "2023-12-08T14:08:47.0687753+00:00",
+      "NumProgressed": 731715,
+      "NumCompleted": 2466
     }
   ],
   "TotalAchievements": 51,
@@ -34018,7 +34029,7 @@
       "Name": "Make it So",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3658
+      "UsersEstimate": 3659
     },
     {
       "ID": "ach_big_name_in_town",
@@ -34354,7 +34365,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "ach_gardening_tools",
@@ -34362,7 +34373,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ach_pork_chops",
@@ -34370,7 +34381,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -34393,22 +34404,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 731694,
+      "Progressed": 731715,
       "Completed": 2466
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 57236,
+      "Progressed": 57257,
       "Completed": 36641
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-08T13:04:18.2392143+00:00",
-  "LastChanged_Achievements": "2023-12-08T13:13:58.691972+00:00",
+  "LastChanged": "2023-12-08T13:59:07.5244331+00:00",
+  "LastChanged_Achievements": "2023-12-08T14:08:47.0687747+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:04:18.239215+00:00",
-  "LastUpdate_Achievements": "2023-12-08T13:13:58.6920965+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:59:07.5244337+00:00",
+  "LastUpdate_Achievements": "2023-12-08T14:08:47.0689434+00:00"
 }

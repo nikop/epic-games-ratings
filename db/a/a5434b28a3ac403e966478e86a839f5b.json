@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -2042,9 +2042,9 @@
       "ID": "ACH_mg2",
       "SetID": "51of0eo",
       "Name": "Disc Collector",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 41
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_n64",
@@ -2081,8 +2081,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-08T13:08:33.0342811+00:00",
+  "LastChanged_Achievements": "2023-12-08T14:03:24.5118674+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:10.4045302+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:01:28.1350114+00:00",
-  "LastUpdate_Achievements": "2023-12-08T13:08:33.0343008+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:57:11.6958851+00:00",
+  "LastUpdate_Achievements": "2023-12-08T14:03:24.5118887+00:00"
 }

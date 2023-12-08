@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -3009,9 +3009,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 1007
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -3025,9 +3025,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1077
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -3457,9 +3457,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 960
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -3642,8 +3642,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-04T17:00:39.9868842+00:00",
-  "LastChanged_Achievements": "2023-12-08T13:10:08.0916018+00:00",
+  "LastChanged_Achievements": "2023-12-08T14:04:32.8757141+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:02:05.1877005+00:00",
-  "LastUpdate_Achievements": "2023-12-08T13:10:08.0917339+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:57:37.2482299+00:00",
+  "LastUpdate_Achievements": "2023-12-08T14:04:32.8758231+00:00"
 }

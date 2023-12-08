@@ -57,40 +57,41 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 3.00% | ~470 |
 | Roman Paganism | 3.00% | ~470 |
 | Zoroastrianism | 3.00% | ~470 |
-| Hanging Gardens in Babylon | 2.00% | ~313 |
-| Beloved | 2.00% | ~313 |
-| Conqueror | 2.00% | ~313 |
-| Intercessor | 2.00% | ~313 |
-| Invincible | 2.00% | ~313 |
-| Lion | 2.00% | ~313 |
-| Mighty | 2.00% | ~313 |
-| Valiant | 2.00% | ~313 |
-| Victorious | 2.00% | ~313 |
-| Legendary Cities | 2.00% | ~313 |
-| Good Difficulty | 2.00% | ~313 |
-| Just Difficulty | 2.00% | ~313 |
-| Artisans | 2.00% | ~313 |
-| Champions | 2.00% | ~313 |
-| Patrons | 2.00% | ~313 |
-| Riders | 2.00% | ~313 |
-| Sages | 2.00% | ~313 |
-| Acropolis | 2.00% | ~313 |
-| Apadana | 2.00% | ~313 |
-| Colossus | 2.00% | ~313 |
-| Temple of Solomon | 2.00% | ~313 |
-| Mausoleum | 2.00% | ~313 |
-| Learn to Play 3 | 2.00% | ~313 |
-| Greece | 2.00% | ~313 |
-| Power to the People | 2.00% | ~313 |
-| Persian Paganism | 2.00% | ~313 |
-| Building Wonders | 2.00% | ~313 |
-| Mythology | 2.00% | ~313 |
-| Double Victory | 2.00% | ~313 |
-| Points Victory | 2.00% | ~313 |
-| Win a Single Player Game | 2.00% | ~313 |
-| The Clergy | 2.00% | ~313 |
-| Kushite Pyramids | 2.00% | ~313 |
-| Kushite Paganism | 2.00% | ~313 |
+| Hanging Gardens in Babylon | 2.00% | ~314 |
+| Beloved | 2.00% | ~314 |
+| Conqueror | 2.00% | ~314 |
+| Intercessor | 2.00% | ~314 |
+| Invincible | 2.00% | ~314 |
+| Lion | 2.00% | ~314 |
+| Mighty | 2.00% | ~314 |
+| Valiant | 2.00% | ~314 |
+| Victorious | 2.00% | ~314 |
+| Legendary Cities | 2.00% | ~314 |
+| Good Difficulty | 2.00% | ~314 |
+| Just Difficulty | 2.00% | ~314 |
+| Artisans | 2.00% | ~314 |
+| Champions | 2.00% | ~314 |
+| Patrons | 2.00% | ~314 |
+| Riders | 2.00% | ~314 |
+| Sages | 2.00% | ~314 |
+| Acropolis | 2.00% | ~314 |
+| Apadana | 2.00% | ~314 |
+| Colossus | 2.00% | ~314 |
+| Temple of Solomon | 2.00% | ~314 |
+| Mausoleum | 2.00% | ~314 |
+| Learn to Play 3 | 2.00% | ~314 |
+| Greece | 2.00% | ~314 |
+| Power to the People | 2.00% | ~314 |
+| Persian Paganism | 2.00% | ~314 |
+| Building Wonders | 2.00% | ~314 |
+| Legalism | 2.00% | ~314 |
+| Mythology | 2.00% | ~314 |
+| Double Victory | 2.00% | ~314 |
+| Points Victory | 2.00% | ~314 |
+| Win a Single Player Game | 2.00% | ~314 |
+| The Clergy | 2.00% | ~314 |
+| Kushite Pyramids | 2.00% | ~314 |
+| Kushite Paganism | 2.00% | ~314 |
 | Bad Heir Day | 1.00% | ~157 |
 | Capable | 1.00% | ~157 |
 | Devout | 1.00% | ~157 |
@@ -122,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 1.00% | ~157 |
 | Enlightenment | 1.00% | ~157 |
 | Gnosticism | 1.00% | ~157 |
-| Legalism | 1.00% | ~157 |
 | Redemption | 1.00% | ~157 |
 | Revelation | 1.00% | ~157 |
 | Veneration | 1.00% | ~157 |
@@ -135,11 +135,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.90% | ~141 |
 | All Nations | 0.90% | ~141 |
 | Poetic Leader | 0.90% | ~141 |
+| Ishtar Gate in Babylon | 0.80% | ~125 |
 | Peacemaker | 0.80% | ~125 |
 | Noble Difficulty | 0.80% | ~125 |
 | Cao'an | 0.80% | ~125 |
 | Kmt Unified | 0.80% | ~125 |
-| Ishtar Gate in Babylon | 0.70% | ~110 |
 | Carthage - Ox Hide | 0.70% | ~110 |
 | Learn to Play 5 | 0.70% | ~110 |
 | Old World Order | 0.70% | ~110 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,674 (Ranked 152)  
+Progressed: 15,675 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,7 +581,7 @@ Completed: 5 (0.03%) (Ranked 332)
 | 2023-12-05 | 15,649 | 5 |
 | 2023-12-06 | 15,662 | 5 |
 | 2023-12-07 | 15,669 | 5 |
-| 2023-12-08 | 15,674 | 5 |
+| 2023-12-08 | 15,675 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 275)  
 Sum: 1,895 (Ranked 220)  

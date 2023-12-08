@@ -11,7 +11,7 @@ Rating: 4.64 (Ranked 337)
 | All Systems Go | 67.00% | ~1,456 |
 | Brute Force | 67.00% | ~1,456 |
 | Cannon Fodder | 63.00% | ~1,369 |
-| Autofire | 58.00% | ~1,260 |
+| Autofire | 59.00% | ~1,282 |
 | True Believer | 58.00% | ~1,260 |
 | Story Teller | 57.00% | ~1,239 |
 | Raise the Stakes | 56.00% | ~1,217 |
@@ -20,7 +20,7 @@ Rating: 4.64 (Ranked 337)
 | Greenhouse Effect | 53.00% | ~1,152 |
 | Freeze | 52.00% | ~1,130 |
 | S.O.S. | 48.00% | ~1,043 |
-| Full Arsenal | 46.00% | ~1,000 |
+| Full Arsenal | 47.00% | ~1,021 |
 | Get Off My Ship! | 45.00% | ~978 |
 | Strange Transmissions | 45.00% | ~978 |
 | Wreckage | 44.00% | ~956 |

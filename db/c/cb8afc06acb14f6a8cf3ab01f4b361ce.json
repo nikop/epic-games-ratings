@@ -395,9 +395,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 325623,
+  "EOS_Progressed": 325640,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3856,
+  "EOS_NewPlayers": 3844,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8840,6 +8840,11 @@
       "Time": "2023-12-08T13:09:24.3544557+00:00",
       "NumProgressed": 325623,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-08T14:04:01.2424493+00:00",
+      "NumProgressed": 325640,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -8860,7 +8865,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6512
+      "UsersEstimate": 6513
     },
     {
       "ID": "S03_OTWA",
@@ -8892,7 +8897,7 @@
       "Name": "They tricked me",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "S07_INWA",
@@ -8900,7 +8905,7 @@
       "Name": "We need to talk",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "S08_MNSA",
@@ -8908,7 +8913,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "S09_MNSE",
@@ -9020,7 +9025,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "S23_ETHEREAL",
@@ -9084,7 +9089,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -9171,7 +9176,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 325623,
+      "Progressed": 325640,
       "Completed": 4
     }
   ],
@@ -9179,8 +9184,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-06T06:00:13.3250354+00:00",
-  "LastChanged_Achievements": "2023-12-08T13:09:24.354455+00:00",
+  "LastChanged_Achievements": "2023-12-08T14:04:01.2424485+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-08T13:02:57.0486514+00:00",
-  "LastUpdate_Achievements": "2023-12-08T13:09:24.3545198+00:00"
+  "LastUpdate_Ratings": "2023-12-08T13:58:12.8527492+00:00",
+  "LastUpdate_Achievements": "2023-12-08T14:04:01.2425526+00:00"
 }

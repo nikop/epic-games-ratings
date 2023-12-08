@@ -6,15 +6,15 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~10,331 |
-| Overkill | 34.00% | ~8,567 |
-| Vaccine Incoming | 33.00% | ~8,315 |
-| A normal day in Gloomhaven | 31.00% | ~7,811 |
-| Spread the plague | 29.00% | ~7,307 |
-| Get over here! | 25.00% | ~6,299 |
-| Just when I thought I was out... | 19.00% | ~4,787 |
-| Precious! | 17.00% | ~4,283 |
-| Mine... All Mine... | 17.00% | ~4,283 |
+| I'm not dead yet | 41.00% | ~10,333 |
+| Overkill | 34.00% | ~8,569 |
+| Vaccine Incoming | 33.00% | ~8,317 |
+| A normal day in Gloomhaven | 31.00% | ~7,813 |
+| Spread the plague | 29.00% | ~7,309 |
+| Get over here! | 25.00% | ~6,300 |
+| Just when I thought I was out... | 19.00% | ~4,788 |
+| Precious! | 17.00% | ~4,284 |
+| Mine... All Mine... | 17.00% | ~4,284 |
 | Grizzled veteran | 15.00% | ~3,780 |
 | Anatomy Lesson | 15.00% | ~3,780 |
 | Light of my life | 14.00% | ~3,528 |
@@ -57,10 +57,10 @@ Number of Ratings: 68  (23.09.2022)
 | The evil that men do | 0.40% | ~101 |
 | MacReady Steady.. Go! | 0.30% | ~76 |
 | Pull out the big guns | 0.30% | ~76 |
-| Crimson Tornado | 0.30% | ~76 |
 | The Cartographer | 0.20% | ~50 |
 | Beware my power | 0.20% | ~50 |
 | The Jaws of victory! | 0.20% | ~50 |
+| Crimson Tornado | 0.20% | ~50 |
 | A cult following | 0.10% | ~25 |
 | Over your dead body | 0.10% | ~25 |
 | The Guildmaster | 0.10% | ~25 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~25 |
 | Murder Death Kill | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,197 (Ranked 132)  
+Progressed: 25,202 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-05 | 24,794 | 1 |
 | 2023-12-06 | 24,964 | 1 |
 | 2023-12-07 | 25,131 | 1 |
-| 2023-12-08 | 25,197 | 1 |
+| 2023-12-08 | 25,202 | 1 |
 ## Awards
 Max (Character Customization): 3,595  (Ranked 90)  
 Sum: 8,401 (Ranked 101)  
