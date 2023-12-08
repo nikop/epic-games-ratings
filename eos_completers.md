@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.19% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.18% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -69,7 +69,7 @@
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.76% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.75% |
 | 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.66% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
@@ -86,7 +86,7 @@
 | 84 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.41% |
 | 85 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 86 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.26% |
-| 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.23% |
+| 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.22% |
 | 88 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.18% |
 | 89 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.15% |
 | 90 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.06% |
@@ -270,13 +270,13 @@
 | 266 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
 | 266 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
 | 270 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
+| 271 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.16% |
 | 271 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 271 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 271 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.16% |
-| 274 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.15% |
-| 274 | [GRIME](games/g/grime.md) | 0.15% |
-| 274 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
-| 274 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 275 | [GRIME](games/g/grime.md) | 0.15% |
+| 275 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
+| 275 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 278 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 278 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.13% |
 | 278 | [BLACKTAIL](games/b/blacktail.md) | 0.13% |
