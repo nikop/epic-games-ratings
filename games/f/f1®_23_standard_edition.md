@@ -5,23 +5,23 @@ Rating: 4.68 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,700 |
-| On the Top Step | 89.00% | ~5,397 |
+| Getting on the Step | 94.00% | ~5,701 |
+| On the Top Step | 88.00% | ~5,337 |
 | Setting up for Success | 79.00% | ~4,791 |
 | Team Orders | 76.00% | ~4,609 |
 | Engineer | 56.00% | ~3,396 |
-| Familiar Faces | 49.00% | ~2,971 |
-| Sharing the Love | 44.00% | ~2,668 |
+| Familiar Faces | 49.00% | ~2,972 |
+| Sharing the Love | 44.00% | ~2,669 |
 | Going the Extra Mile | 43.00% | ~2,608 |
 | Hitting a Season | 42.00% | ~2,547 |
-| A Dozen Pieces | 35.00% | ~2,122 |
+| A Dozen Pieces | 35.00% | ~2,123 |
 | Challenge Yourself | 34.00% | ~2,062 |
-| Making History | 32.00% | ~1,940 |
+| Making History | 32.00% | ~1,941 |
 | Network Success | 29.00% | ~1,759 |
 | Writing a new Chapter | 26.00% | ~1,577 |
-| Spring Cleaning | 24.00% | ~1,455 |
-| Reduce | 21.00% | ~1,273 |
-| Ups and Downs | 21.00% | ~1,273 |
+| Spring Cleaning | 24.00% | ~1,456 |
+| Reduce | 21.00% | ~1,274 |
+| Ups and Downs | 21.00% | ~1,274 |
 | Crucial Combo | 20.00% | ~1,213 |
 | Reuse | 18.00% | ~1,092 |
 | Gathering Dust | 17.00% | ~1,031 |
@@ -38,9 +38,9 @@ Rating: 4.68 (Ranked 258)
 | Recycle | 12.00% | ~728 |
 | Undisputed Winner | 10.00% | ~606 |
 | Tinkerer | 10.00% | ~606 |
-| For all Those Back at the Factory | 7.00% | ~424 |
-| Living up to Expectations | 7.00% | ~424 |
-| Smooth Operator | 7.00% | ~424 |
+| For all Those Back at the Factory | 7.00% | ~425 |
+| Living up to Expectations | 7.00% | ~425 |
+| Smooth Operator | 7.00% | ~425 |
 | Loyal Bond | 5.00% | ~303 |
 | Peak Performance | 5.00% | ~303 |
 | Hitting a Century | 4.00% | ~243 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 258)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,064 (Ranked 186)  
+Progressed: 6,065 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,6 +141,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-05 | 6,039 | 0 |
 | 2023-12-06 | 6,050 | 0 |
 | 2023-12-07 | 6,064 | 0 |
+| 2023-12-08 | 6,065 | 0 |
 ## Awards
 Max (Diverse Characters): 35  (Ranked 482)  
 Sum: 177 (Ranked 414)  

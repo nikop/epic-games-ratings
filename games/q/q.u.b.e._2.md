@@ -8,19 +8,19 @@ Number of Ratings: 94  (23.09.2022)
 | ---- | ---------- | ----- |
 | Lost in Space | 75.00% | ~32,078 |
 | Quick Understanding of Block Extrusion | 68.00% | ~29,084 |
-| Nature or Nurture | 52.00% | ~22,240 |
-| Power Glove | 50.00% | ~21,385 |
-| Forgotten Memories | 43.00% | ~18,391 |
-| Cogs in the Machine | 36.00% | ~15,397 |
+| Nature or Nurture | 52.00% | ~22,241 |
+| Power Glove | 50.00% | ~21,386 |
+| Forgotten Memories | 43.00% | ~18,392 |
+| Cogs in the Machine | 36.00% | ~15,398 |
 | Mission Success | 23.00% | ~9,837 |
 | There's No Place Like Home | 23.00% | ~9,837 |
 | Green Cube Killer | 20.00% | ~8,554 |
 | Infinity Loop | 17.00% | ~7,271 |
 | Path to Salvation | 17.00% | ~7,271 |
 | Descendants | 15.00% | ~6,416 |
-| The Flawed Teacher | 12.00% | ~5,132 |
+| The Flawed Teacher | 12.00% | ~5,133 |
 | To Infinity and Beyond | 6.00% | ~2,566 |
-| The Truthful Enemy | 5.00% | ~2,138 |
+| The Truthful Enemy | 5.00% | ~2,139 |
 | Laser Sharp | 3.00% | ~1,283 |
 | Bronze collector | 2.00% | ~855 |
 | Home Stretch | 2.00% | ~855 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~428 |
 | Expert Collector | 1.00% | ~428 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,770 (Ranked 119)  
+Progressed: 42,771 (Ranked 119)  
 Completed: 195 (0.46%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 195 (0.46%) (Ranked 215)
 | 2023-12-05 | 42,534 | 192 |
 | 2023-12-06 | 42,644 | 194 |
 | 2023-12-07 | 42,757 | 195 |
-| 2023-12-08 | 42,770 | 195 |
+| 2023-12-08 | 42,771 | 195 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

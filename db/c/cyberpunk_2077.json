@@ -16298,9 +16298,9 @@
       "Count": 14687
     }
   ],
-  "EOS_Progressed": 972034,
+  "EOS_Progressed": 972043,
   "EOS_Completed": 2853,
-  "EOS_NewPlayers": 7289,
+  "EOS_NewPlayers": 7252,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -42638,6 +42638,11 @@
       "Time": "2023-12-08T02:27:30.4023229+00:00",
       "NumProgressed": 972034,
       "NumCompleted": 2853
+    },
+    {
+      "Time": "2023-12-08T03:03:38.7786471+00:00",
+      "NumProgressed": 972043,
+      "NumCompleted": 2853
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -42722,7 +42727,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68042
+      "UsersEstimate": 68043
     },
     {
       "ID": "Gunslinger",
@@ -42866,7 +42871,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58322
+      "UsersEstimate": 58323
     },
     {
       "ID": "TheHermit",
@@ -42890,7 +42895,7 @@
       "Name": "The Lovers",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38881
+      "UsersEstimate": 38882
     },
     {
       "ID": "TheStar",
@@ -42978,7 +42983,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116644
+      "UsersEstimate": 116645
     },
     {
       "ID": "YipMan",
@@ -43185,21 +43190,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 972034,
+      "Progressed": 972043,
       "Completed": 2853
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 100657,
+      "Progressed": 100666,
       "Completed": 10312
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-07T23:02:46.1188422+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:27:30.4023225+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:03:38.7786467+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.8863582+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:26:44.3770115+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:27:30.4024644+00:00"
+  "LastUpdate_Ratings": "2023-12-08T03:02:53.3398071+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:03:38.7788152+00:00"
 }

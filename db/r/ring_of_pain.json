@@ -3574,9 +3574,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240752,
+  "EOS_Progressed": 240753,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -27439,6 +27439,11 @@
       "Time": "2023-12-08T01:58:08.3274974+00:00",
       "NumProgressed": 240752,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-08T03:09:31.2676539+00:00",
+      "NumProgressed": 240753,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -27952,9 +27957,9 @@
       "ID": "KILLPARANOIA",
       "SetID": "5l8oe0h",
       "Name": "What\u0027s Yours Is Mine",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 963
+      "UsersEstimate": 1204
     },
     {
       "ID": "KILLREFLECT10",
@@ -28553,13 +28558,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240752,
+      "Progressed": 240753,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2232,
+      "Progressed": 2233,
       "Completed": 396
     }
   ],
@@ -28567,8 +28572,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-08T01:51:07.5193988+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:33:23.5622497+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:09:31.2676535+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:26:34.7788342+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:33:23.5625344+00:00"
+  "LastUpdate_Ratings": "2023-12-08T03:02:43.8096992+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:09:31.2678818+00:00"
 }

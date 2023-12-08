@@ -9534,9 +9534,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67323,
+  "EOS_Progressed": 67325,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33999,6 +33999,11 @@
       "Time": "2023-12-08T01:58:05.1244092+00:00",
       "NumProgressed": 67323,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T03:09:27.9897352+00:00",
+      "NumProgressed": 67325,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34242,7 +34247,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26929
+      "UsersEstimate": 26930
     },
     {
       "ID": "Lawmaker",
@@ -34362,7 +34367,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12791
+      "UsersEstimate": 12792
     },
     {
       "ID": "This Is Our Land",
@@ -34370,7 +34375,7 @@
       "Name": "This Is Our Land",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 9425
+      "UsersEstimate": 9426
     },
     {
       "ID": "This is Sparta",
@@ -34417,15 +34422,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67323,
+      "Progressed": 67325,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-08T01:45:28.2915528+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:33:20.3675087+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:09:27.989735+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:20:50.1199979+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:33:20.3676448+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:57:01.1190701+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:09:27.9898839+00:00"
 }

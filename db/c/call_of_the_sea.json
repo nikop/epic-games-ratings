@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133229,
+  "EOS_Progressed": 133230,
   "EOS_Completed": 1179,
-  "EOS_NewPlayers": 1032,
+  "EOS_NewPlayers": 1031,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -26698,6 +26698,11 @@
       "Time": "2023-12-08T01:56:42.9026255+00:00",
       "NumProgressed": 133229,
       "NumCompleted": 1179
+    },
+    {
+      "Time": "2023-12-08T03:08:08.7949513+00:00",
+      "NumProgressed": 133230,
+      "NumCompleted": 1179
     }
   ],
   "TotalAchievements": 34,
@@ -26725,7 +26730,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 55956
+      "UsersEstimate": 55957
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -26765,7 +26770,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 106583
+      "UsersEstimate": 106584
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -26781,7 +26786,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 74608
+      "UsersEstimate": 74609
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -26813,7 +26818,7 @@
       "Name": "Fawning Developers",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 6661
+      "UsersEstimate": 6662
     },
     {
       "ID": "ACH_L03_BLACKBEACH_END",
@@ -26917,7 +26922,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 33307
+      "UsersEstimate": 33308
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -26925,7 +26930,7 @@
       "Name": "Sunken",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 33307
+      "UsersEstimate": 33308
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -26973,14 +26978,14 @@
       "Name": "Candid Photo",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6661
+      "UsersEstimate": 6662
     }
   ],
   "AchievementSets": [
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 133229,
+      "Progressed": 133230,
       "Completed": 1179
     }
   ],
@@ -26988,8 +26993,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:31:58.3726143+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:08:08.7949509+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:27.67682+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:22:09.4017807+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:31:58.3727479+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:58:17.2644911+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:08:08.7951465+00:00"
 }

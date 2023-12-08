@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6064,
+  "EOS_Progressed": 6065,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6984,6 +6984,11 @@
       "Time": "2023-12-07T23:05:22.4495698+00:00",
       "NumProgressed": 6064,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T03:05:22.986561+00:00",
+      "NumProgressed": 6065,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6996,7 +7001,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "achievement_0002",
@@ -7044,15 +7049,15 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5700
+      "UsersEstimate": 5701
     },
     {
       "ID": "achievement_0008",
       "SetID": "9123ogc",
       "Name": "On the Top Step",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 5397
+      "UsersEstimate": 5337
     },
     {
       "ID": "achievement_0009",
@@ -7148,7 +7153,7 @@
       "Name": "For all Those Back at the Factory",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "achievement_0021",
@@ -7164,7 +7169,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "achievement_0023",
@@ -7172,7 +7177,7 @@
       "Name": "Sharing the Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2668
+      "UsersEstimate": 2669
     },
     {
       "ID": "achievement_0024",
@@ -7220,7 +7225,7 @@
       "Name": "Reduce",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "achievement_0030",
@@ -7268,7 +7273,7 @@
       "Name": "Living up to Expectations",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "achievement_0036",
@@ -7276,7 +7281,7 @@
       "Name": "Ups and Downs",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "achievement_0037",
@@ -7300,7 +7305,7 @@
       "Name": "Smooth Operator",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "achievement_0040",
@@ -7332,7 +7337,7 @@
       "Name": "Familiar Faces",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2971
+      "UsersEstimate": 2972
     },
     {
       "ID": "achievement_0044",
@@ -7348,7 +7353,7 @@
       "Name": "Making History",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "achievement_0046",
@@ -7387,7 +7392,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 6064,
+      "Progressed": 6065,
       "Completed": 0
     }
   ],
@@ -7395,8 +7400,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-12-07T20:59:24.702403+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:29:19.0099266+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:05:22.9865606+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.4962244+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:23:01.3176217+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:29:19.0099775+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:59:06.7416273+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:05:22.9866171+00:00"
 }

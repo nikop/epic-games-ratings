@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5641,10 +5641,10 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 253344,
+  "EOS_Progressed": 253345,
   "EOS_Completed": 896,
-  "EOS_NewPlayers": 753,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 754,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
@@ -30841,6 +30841,11 @@
       "Time": "2023-12-08T02:33:18.5254459+00:00",
       "NumProgressed": 253344,
       "NumCompleted": 896
+    },
+    {
+      "Time": "2023-12-08T03:09:26.2870994+00:00",
+      "NumProgressed": 253345,
+      "NumCompleted": 896
     }
   ],
   "TotalAchievements": 39,
@@ -30900,7 +30905,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 76003
+      "UsersEstimate": 76004
     },
     {
       "ID": "AchievementBoulderID",
@@ -30908,7 +30913,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 65869
+      "UsersEstimate": 65870
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -30916,7 +30921,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 230543
+      "UsersEstimate": 230544
     },
     {
       "ID": "AchievementClownID",
@@ -30924,7 +30929,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 43068
+      "UsersEstimate": 43069
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -30940,7 +30945,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 70936
+      "UsersEstimate": 70937
     },
     {
       "ID": "AchievementEggID",
@@ -30948,7 +30953,7 @@
       "Name": "Egg Simulator",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 48135
+      "UsersEstimate": 48136
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -30980,7 +30985,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 134272
+      "UsersEstimate": 134273
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -30988,7 +30993,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 48135
+      "UsersEstimate": 48136
     },
     {
       "ID": "AchievementINirvanaID",
@@ -31020,7 +31025,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 144406
+      "UsersEstimate": 144407
     },
     {
       "ID": "AchievementLootBoxID",
@@ -31100,7 +31105,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 129205
+      "UsersEstimate": 129206
     },
     {
       "ID": "AchievementStreakingID",
@@ -31124,7 +31129,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 139339
+      "UsersEstimate": 139340
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -31163,7 +31168,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 253344,
+      "Progressed": 253345,
       "Completed": 896
     }
   ],
@@ -31171,8 +31176,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-12-07T19:59:26.8935291+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:33:18.5254456+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:09:26.287099+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.8008808+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:23:05.7568111+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:33:18.5255867+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:59:10.9362176+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:09:26.2872765+00:00"
 }

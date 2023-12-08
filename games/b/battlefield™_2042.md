@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adapt and Overcome | 100.00% | ~86,035 |
-| Foot Soldier | 92.00% | ~79,152 |
-| Making Dunn Proud | 90.00% | ~77,432 |
-| Good Company | 87.00% | ~74,850 |
-| Showoff | 85.00% | ~73,130 |
-| Luck of the Irish | 78.00% | ~67,107 |
-| Squad Wiper | 77.00% | ~66,247 |
-| Burnout | 74.00% | ~63,666 |
-| War machine | 68.00% | ~58,504 |
-| Deadshot | 65.00% | ~55,923 |
-| Thank you, Santa | 64.00% | ~55,062 |
-| The Winner Takes It All | 57.00% | ~49,040 |
-| No-one gets left behind | 56.00% | ~48,180 |
-| Going Places | 54.00% | ~46,459 |
-| Dead in their tracks! | 54.00% | ~46,459 |
-| Wrecking Crew | 49.00% | ~42,157 |
-| I'm Five by Five, B | 38.00% | ~32,693 |
-| Command and Conquest | 34.00% | ~29,252 |
-| A bird?  A plane? | 18.00% | ~15,486 |
+| Adapt and Overcome | 100.00% | ~86,037 |
+| Foot Soldier | 92.00% | ~79,154 |
+| Making Dunn Proud | 90.00% | ~77,433 |
+| Good Company | 87.00% | ~74,852 |
+| Showoff | 85.00% | ~73,131 |
+| Luck of the Irish | 78.00% | ~67,109 |
+| Squad Wiper | 77.00% | ~66,248 |
+| Burnout | 74.00% | ~63,667 |
+| War machine | 68.00% | ~58,505 |
+| Deadshot | 65.00% | ~55,924 |
+| Thank you, Santa | 64.00% | ~55,064 |
+| The Winner Takes It All | 57.00% | ~49,041 |
+| No-one gets left behind | 56.00% | ~48,181 |
+| Going Places | 54.00% | ~46,460 |
+| Dead in their tracks! | 54.00% | ~46,460 |
+| Wrecking Crew | 49.00% | ~42,158 |
+| I'm Five by Five, B | 38.00% | ~32,694 |
+| Command and Conquest | 34.00% | ~29,253 |
+| A bird?  A plane? | 18.00% | ~15,487 |
 | One Careful Owner | 17.00% | ~14,626 |
-| Happy birthday | 15.00% | ~12,905 |
+| Happy birthday | 15.00% | ~12,906 |
 | Gun Master | 14.00% | ~12,045 |
 | Jack of all Trades | 14.00% | ~12,045 |
 | CQC Specialist | 14.00% | ~12,045 |
@@ -39,7 +39,7 @@
 | Pack Rat | 0.40% | ~344 |
 | Escape Artist | 0.10% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,035 (Ranked 94)  
+Progressed: 86,037 (Ranked 94)  
 Completed: 5 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 5 (0.01%) (Ranked 348)
 | 2023-12-05 | 85,470 | 5 |
 | 2023-12-06 | 85,764 | 5 |
 | 2023-12-07 | 86,013 | 5 |
-| 2023-12-08 | 86,035 | 5 |
+| 2023-12-08 | 86,037 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

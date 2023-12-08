@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -1566,9 +1566,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_10",
@@ -1951,8 +1951,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-07T15:59:41.3087781+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:32:46.4263448+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:08:54.3370571+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.8149364+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:23:21.2177181+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:32:46.4263775+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:59:25.8200467+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:08:54.33709+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 896,
+  "EOS_Progressed": 897,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 5.8,
   "EosHistory": [
@@ -3625,6 +3625,11 @@
       "Time": "2023-12-08T01:53:31.531866+00:00",
       "NumProgressed": 896,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-08T03:05:04.3782676+00:00",
+      "NumProgressed": 897,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 25,
@@ -3690,9 +3695,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 126
     },
     {
       "ID": "META_RESULT_1-4",
@@ -3724,7 +3729,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -3740,7 +3745,7 @@
       "Name": "Rascal",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -3835,14 +3840,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 896,
+      "Progressed": 897,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:28:58.959406+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:05:04.3782673+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:22:36.517913+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:28:58.9594393+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:58:43.5215087+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:05:04.3782959+00:00"
 }

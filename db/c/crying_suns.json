@@ -655,7 +655,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471921,
+  "EOS_Progressed": 471922,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
@@ -24665,6 +24665,11 @@
       "Time": "2023-12-08T01:58:06.7363036+00:00",
       "NumProgressed": 471921,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-08T03:09:29.6139582+00:00",
+      "NumProgressed": 471922,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24764,7 +24769,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311468
+      "UsersEstimate": 311469
     },
     {
       "ID": "achievement_story_landa",
@@ -24812,7 +24817,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33034
+      "UsersEstimate": 33035
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -24820,7 +24825,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33034
+      "UsersEstimate": 33035
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -24916,7 +24921,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33034
+      "UsersEstimate": 33035
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -25100,7 +25105,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207645
+      "UsersEstimate": 207646
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -25108,7 +25113,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141576
+      "UsersEstimate": 141577
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -25132,7 +25137,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184049
+      "UsersEstimate": 184050
     },
     {
       "ID": "achievement_win_run_hard",
@@ -25307,21 +25312,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15855,
+      "Progressed": 15856,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471921,
+      "Progressed": 471922,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-06T08:57:12.0332693+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:33:22.0154266+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:09:29.6139579+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.9078654+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:21:47.9458609+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:33:22.0155893+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:57:56.9463611+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:09:29.6141612+00:00"
 }

@@ -2415,7 +2415,7 @@
       "Count": 467
     }
   ],
-  "EOS_Progressed": 56235,
+  "EOS_Progressed": 56236,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 683,
   "EOS_NewCompleters": 0,
@@ -11450,6 +11450,11 @@
       "Time": "2023-12-08T02:27:19.724548+00:00",
       "NumProgressed": 56235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T03:03:28.4242425+00:00",
+      "NumProgressed": 56236,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -11510,7 +11515,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 27555
+      "UsersEstimate": 27556
     },
     {
       "ID": "achievement_16",
@@ -11534,7 +11539,7 @@
       "Name": "Welcome to the Big Leagues!",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 27555
+      "UsersEstimate": 27556
     },
     {
       "ID": "achievement_19",
@@ -11566,7 +11571,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 46675
+      "UsersEstimate": 46676
     },
     {
       "ID": "achievement_22",
@@ -11574,7 +11579,7 @@
       "Name": "Level Up!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 29242
+      "UsersEstimate": 29243
     },
     {
       "ID": "achievement_23",
@@ -11742,7 +11747,7 @@
       "Name": "On the way up",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3936
+      "UsersEstimate": 3937
     },
     {
       "ID": "achievement_6",
@@ -11750,7 +11755,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 33741
+      "UsersEstimate": 33742
     },
     {
       "ID": "achievement_7",
@@ -11766,7 +11771,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 41614
+      "UsersEstimate": 41615
     },
     {
       "ID": "achievement_9",
@@ -11781,7 +11786,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 56235,
+      "Progressed": 56236,
       "Completed": 0
     }
   ],
@@ -11789,8 +11794,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-12-08T01:48:28.4870726+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:27:19.7245476+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:03:28.424242+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:07.0815744+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:23:47.24209+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:27:19.7246053+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:59:50.0599506+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:03:28.4243239+00:00"
 }

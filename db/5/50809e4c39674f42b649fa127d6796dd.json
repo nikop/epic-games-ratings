@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 431,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1160,9 +1160,9 @@
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 164
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1399,8 +1399,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:28:16.7754008+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:04:23.4172858+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:26:46.2353125+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:28:16.775461+00:00"
+  "LastUpdate_Ratings": "2023-12-08T03:02:55.1592988+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:04:23.4173167+00:00"
 }

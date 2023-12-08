@@ -5,9 +5,9 @@ Rating: 4.40 (Ranked 741)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~106,583 |
-| 74 miles East of Otaheité | 56.00% | ~74,608 |
-| Interesting... | 42.00% | ~55,956 |
+| A Family Heirloom | 80.00% | ~106,584 |
+| 74 miles East of Otaheité | 56.00% | ~74,609 |
+| Interesting... | 42.00% | ~55,957 |
 | The Everhart Expedition | 40.00% | ~53,292 |
 | Halfway there | 30.00% | ~39,969 |
 | The Vanishing of the Lady Shannon | 30.00% | ~39,969 |
@@ -16,8 +16,8 @@ Rating: 4.40 (Ranked 741)
 | 506 East Hampden Avenue | 28.00% | ~37,304 |
 | Weekend at Walakea's | 27.00% | ~35,972 |
 | Quite a Show | 27.00% | ~35,972 |
-| Dark Water Ride | 25.00% | ~33,307 |
-| Sunken | 25.00% | ~33,307 |
+| Dark Water Ride | 25.00% | ~33,308 |
+| Sunken | 25.00% | ~33,308 |
 | Deep Cut | 24.00% | ~31,975 |
 | FHALGOF'N' | 23.00% | ~30,643 |
 | Marsh Cannery | 21.00% | ~27,978 |
@@ -30,8 +30,8 @@ Rating: 4.40 (Ranked 741)
 | Written in Stone | 7.00% | ~9,326 |
 | Play it again, Norah | 7.00% | ~9,326 |
 | Underwater Royalty | 7.00% | ~9,326 |
-| Fawning Developers | 5.00% | ~6,661 |
-| Candid Photo | 5.00% | ~6,661 |
+| Fawning Developers | 5.00% | ~6,662 |
+| Candid Photo | 5.00% | ~6,662 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~5,329 |
 | You looked that up in a guide! | 3.00% | ~3,997 |
 | The Lady Shannon Recording | 3.00% | ~3,997 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 741)
 | Gently down the stream... | 1.00% | ~1,332 |
 | Meta-reference | 1.00% | ~1,332 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,229 (Ranked 82)  
+Progressed: 133,230 (Ranked 82)  
 Completed: 1,179 (0.88%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 1,179 (0.88%) (Ranked 177)
 | 2023-12-05 | 132,975 | 1,174 |
 | 2023-12-06 | 133,100 | 1,176 |
 | 2023-12-07 | 133,215 | 1,178 |
-| 2023-12-08 | 133,229 | 1,179 |
+| 2023-12-08 | 133,230 | 1,179 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

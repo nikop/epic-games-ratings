@@ -9,11 +9,11 @@ Rating: 4.18 (Ranked 943)
 | Har, Har, Har, Very Funny | 34.00% | ~26,444 |
 | Loose Ends | 33.00% | ~25,666 |
 | To the Victor Go the Spoils | 28.00% | ~21,777 |
-| Knighthood | 27.00% | ~20,999 |
+| Knighthood | 27.00% | ~21,000 |
 | Get ReQ'd | 25.00% | ~19,444 |
 | Whispered Words | 24.00% | ~18,666 |
-| The Batman Family | 22.00% | ~17,110 |
-| Lock and Key | 22.00% | ~17,110 |
+| The Batman Family | 22.00% | ~17,111 |
+| Lock and Key | 22.00% | ~17,111 |
 | Something in the Clay | 21.00% | ~16,333 |
 | Quartzer Life Crisis | 20.00% | ~15,555 |
 | Working Hard or Harley Working? | 20.00% | ~15,555 |
@@ -39,8 +39,8 @@ Rating: 4.18 (Ranked 943)
 | Out of Their League | 9.00% | ~7,000 |
 | Solid Alibi | 9.00% | ~7,000 |
 | Fusion Expert | 7.00% | ~5,444 |
-| Family Meeting | 6.00% | ~4,666 |
-| A Worthy Successor | 6.00% | ~4,666 |
+| Family Meeting | 6.00% | ~4,667 |
+| A Worthy Successor | 6.00% | ~4,667 |
 | Expert Crime Fighter | 5.00% | ~3,889 |
 | Dressed to Impress | 4.00% | ~3,111 |
 | A Momentum Occasion | 3.00% | ~2,333 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 943)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,775 (Ranked 99)  
+Progressed: 77,776 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 124 (0.16%) (Ranked 271)
 | 2023-12-05 | 77,707 | 124 |
 | 2023-12-06 | 77,742 | 124 |
 | 2023-12-07 | 77,772 | 124 |
-| 2023-12-08 | 77,775 | 124 |
+| 2023-12-08 | 77,776 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,996  (Ranked 98)  
 Sum: 5,118 (Ranked 141)  

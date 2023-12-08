@@ -3427,10 +3427,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 5516,
       "NumberOfAwardsMax": 1699
+    },
+    {
+      "Time": "2023-12-08T03:02:58.5174836+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 5519,
+      "NumberOfAwardsMax": 1699
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5516,
+  "NumberOfAwards": 5519,
   "NumberOfAwardsMax": 1699,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3444,7 +3450,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 354
+      "Count": 357
     },
     {
       "Text": "This game has Competitive Players",
@@ -3507,9 +3513,9 @@
       "Count": 423
     }
   ],
-  "EOS_Progressed": 9552,
+  "EOS_Progressed": 9553,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10762,6 +10768,11 @@
       "Time": "2023-12-08T01:53:40.3638754+00:00",
       "NumProgressed": 9552,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T03:05:12.6874399+00:00",
+      "NumProgressed": 9553,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -10774,7 +10785,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 3343
+      "UsersEstimate": 3344
     },
     {
       "ID": "ach02",
@@ -10814,7 +10825,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 7164
+      "UsersEstimate": 7165
     },
     {
       "ID": "ach07",
@@ -10822,7 +10833,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5349
+      "UsersEstimate": 5350
     },
     {
       "ID": "ach08",
@@ -10830,7 +10841,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "ach09",
@@ -10942,7 +10953,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "ach23",
@@ -10998,7 +11009,7 @@
       "Name": "Unstoppable",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2292
+      "UsersEstimate": 2293
     },
     {
       "ID": "ach30",
@@ -11062,7 +11073,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 5540
+      "UsersEstimate": 5541
     },
     {
       "ID": "ach38",
@@ -11078,7 +11089,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "ach40",
@@ -11110,7 +11121,7 @@
       "Name": "Working Overtime",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "ach44",
@@ -11142,7 +11153,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "ach48",
@@ -11150,7 +11161,7 @@
       "Name": "Total Disrespect",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "ach49",
@@ -11173,16 +11184,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9552,
+      "Progressed": 9553,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-12-08T01:51:22.7951204+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:29:08.2163074+00:00",
+  "LastChanged": "2023-12-08T03:02:58.5174834+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:05:12.6874396+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:13.7403672+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:26:49.7195998+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:29:08.2163992+00:00"
+  "LastUpdate_Ratings": "2023-12-08T03:02:58.517484+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:05:12.6874931+00:00"
 }

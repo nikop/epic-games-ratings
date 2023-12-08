@@ -35,7 +35,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4371,
+  "EOS_Progressed": 4372,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -11090,6 +11090,11 @@
       "Time": "2023-12-08T02:27:26.5496748+00:00",
       "NumProgressed": 4371,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-08T03:03:34.9951142+00:00",
+      "NumProgressed": 4372,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -11149,7 +11154,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "ach_bomb",
@@ -11197,7 +11202,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "ach_magic_wand",
@@ -11205,7 +11210,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "ach_no_boosters",
@@ -11228,7 +11233,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4371,
+      "Progressed": 4372,
       "Completed": 36
     }
   ],
@@ -11236,8 +11241,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:27:26.5496741+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:03:34.9951136+00:00",
   "LastUpdate_AppInfo": "2023-12-01T21:56:53.9270768+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:20:48.660166+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:27:26.5497309+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:56:59.8323978+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:03:34.9951669+00:00"
 }

@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22247,
+  "EOS_Progressed": 22248,
   "EOS_Completed": 226,
-  "EOS_NewPlayers": 1286,
+  "EOS_NewPlayers": 1281,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -11641,6 +11641,11 @@
       "Time": "2023-12-08T02:30:04.8237707+00:00",
       "NumProgressed": 22247,
       "NumCompleted": 226
+    },
+    {
+      "Time": "2023-12-08T03:06:08.1489833+00:00",
+      "NumProgressed": 22248,
+      "NumCompleted": 226
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -11661,7 +11666,7 @@
       "Name": "Everything is Connected",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 13348
+      "UsersEstimate": 13349
     },
     {
       "ID": "achievement_11",
@@ -11677,7 +11682,7 @@
       "Name": "Happy Go Wookiee",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 15350
+      "UsersEstimate": 15351
     },
     {
       "ID": "achievement_13",
@@ -11693,7 +11698,7 @@
       "Name": "Visiting Alderaan Places",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "achievement_15",
@@ -11709,7 +11714,7 @@
       "Name": "For A More Civilized Age",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 10901
+      "UsersEstimate": 10902
     },
     {
       "ID": "achievement_17",
@@ -11717,7 +11722,7 @@
       "Name": "I Knew He Was No Good",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 10456
+      "UsersEstimate": 10457
     },
     {
       "ID": "achievement_18",
@@ -11725,7 +11730,7 @@
       "Name": "Back At You",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16240
+      "UsersEstimate": 16241
     },
     {
       "ID": "achievement_19",
@@ -11813,7 +11818,7 @@
       "Name": "Bank Shot",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 12013
+      "UsersEstimate": 12014
     },
     {
       "ID": "achievement_29",
@@ -11821,7 +11826,7 @@
       "Name": "Blade Master",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 8676
+      "UsersEstimate": 8677
     },
     {
       "ID": "achievement_3",
@@ -11829,7 +11834,7 @@
       "Name": "Legendary Beasts",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4894
+      "UsersEstimate": 4895
     },
     {
       "ID": "achievement_30",
@@ -11901,7 +11906,7 @@
       "Name": "Scum and Villainy",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 9566
+      "UsersEstimate": 9567
     },
     {
       "ID": "achievement_39",
@@ -11909,7 +11914,7 @@
       "Name": "Echo Location",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4449
+      "UsersEstimate": 4450
     },
     {
       "ID": "achievement_4",
@@ -11941,7 +11946,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 22247
+      "UsersEstimate": 22248
     },
     {
       "ID": "achievement_8",
@@ -11949,7 +11954,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 20690
+      "UsersEstimate": 20691
     },
     {
       "ID": "achievement_9",
@@ -11964,7 +11969,7 @@
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 22247,
+      "Progressed": 22248,
       "Completed": 226
     }
   ],
@@ -11972,8 +11977,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-11-12T21:59:15.958654+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:30:04.8237701+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:06:08.1489829+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:24.5622301+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:21:11.38129+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:30:04.8238463+00:00"
+  "LastUpdate_Ratings": "2023-12-08T02:57:21.7019036+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:06:08.1490567+00:00"
 }

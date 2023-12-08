@@ -8395,9 +8395,9 @@
       "Count": 633
     }
   ],
-  "EOS_Progressed": 363469,
+  "EOS_Progressed": 363470,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1733,
+  "EOS_NewPlayers": 1725,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -34535,6 +34535,11 @@
       "Time": "2023-12-08T02:33:22.8157563+00:00",
       "NumProgressed": 363469,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-08T03:09:30.4537024+00:00",
+      "NumProgressed": 363470,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 100,
@@ -34658,7 +34663,7 @@
       "Name": "Beating Expectations",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 90867
+      "UsersEstimate": 90868
     },
     {
       "ID": "achievement_big_win",
@@ -34690,7 +34695,7 @@
       "Name": "Clean Sheet",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 196273
+      "UsersEstimate": 196274
     },
     {
       "ID": "achievement_clean_sheet_network",
@@ -34866,7 +34871,7 @@
       "Name": "They\u0027re a Natural",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 112675
+      "UsersEstimate": 112676
     },
     {
       "ID": "achievement_import_to_victory",
@@ -34922,7 +34927,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 90867
+      "UsersEstimate": 90868
     },
     {
       "ID": "achievement_motivational_speaker",
@@ -34930,7 +34935,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 247159
+      "UsersEstimate": 247160
     },
     {
       "ID": "achievement_new_kids_on_the_block",
@@ -34962,7 +34967,7 @@
       "Name": "People Pleaser",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 138118
+      "UsersEstimate": 138119
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -34994,7 +34999,7 @@
       "Name": "Star Player",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 101771
+      "UsersEstimate": 101772
     },
     {
       "ID": "achievement_reach_top_of_hall_of_fame",
@@ -35010,7 +35015,7 @@
       "Name": "Record Sale",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 90867
+      "UsersEstimate": 90868
     },
     {
       "ID": "achievement_record_signing",
@@ -35018,7 +35023,7 @@
       "Name": "Record Signing",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 112675
+      "UsersEstimate": 112676
     },
     {
       "ID": "achievement_red_hot_newgen",
@@ -35050,7 +35055,7 @@
       "Name": "Off the Books",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 185369
+      "UsersEstimate": 185370
     },
     {
       "ID": "achievement_shots_for_days",
@@ -35066,7 +35071,7 @@
       "Name": "#DoneDeal",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 196273
+      "UsersEstimate": 196274
     },
     {
       "ID": "achievement_signed_a_player_from_another_network_user",
@@ -35090,7 +35095,7 @@
       "Name": "Super-Sub",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 185369
+      "UsersEstimate": 185370
     },
     {
       "ID": "achievement_the_only_stat_that_matters",
@@ -35114,7 +35119,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 243524
+      "UsersEstimate": 243525
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -35234,7 +35239,7 @@
       "Name": "First Victory",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 199908
+      "UsersEstimate": 199909
     },
     {
       "ID": "achievement_won_international_championship",
@@ -35345,7 +35350,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 363469,
+      "Progressed": 363470,
       "Completed": 27
     }
   ],
@@ -35353,8 +35358,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-12-08T02:26:20.8183056+00:00",
-  "LastChanged_Achievements": "2023-12-08T02:33:22.8157558+00:00",
+  "LastChanged_Achievements": "2023-12-08T03:09:30.4537021+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:23.0499966+00:00",
-  "LastUpdate_Ratings": "2023-12-08T02:26:20.8183062+00:00",
-  "LastUpdate_Achievements": "2023-12-08T02:33:22.8159866+00:00"
+  "LastUpdate_Ratings": "2023-12-08T03:00:01.2673632+00:00",
+  "LastUpdate_Achievements": "2023-12-08T03:09:30.4538905+00:00"
 }
