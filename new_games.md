@@ -15,7 +15,7 @@
 | [Maze - The Amazing Labyrinth](games/2/25090978ea114ee5804a72f01bc6e3f0.md) | 2023-12-07 | - |  | - | - |
 | [Super Kids Racing](games/6/69cf8b0d605e4d88bc89e2c04199ab2e.md) | 2023-12-07 | 8 (1,000 XP) | 2 | - | - |
 | [King's Bounty II - Duke's Edition](games/1/1f528e488bce49da8803530bfecb529a.md) | 2023-12-07 | - |  | - | - |
-| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 65 (1,000 XP) | 698 | - | 0 |
+| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 65 (1,000 XP) | 706 | - | 0 |
 | [NINJA KATO 1](games/1/1d712926020a45dc8fe28cb4c963c9ce.md) | 2023-12-07 | 8 (1,000 XP) | 1 | - | - |
 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 2023-12-07 | 5 (1,000 XP) | 77 | - | 0 |
 | [Miniland Adventure](games/8/8900287f0941428abcdd1b92af29abce.md) | 2023-12-07 | 52 (1,000 XP) | 4 | - | - |
@@ -57,7 +57,7 @@
 | [Christmas Mahjong](games/9/9a884ebe02d948d4b50c46e909f7b0dd.md) | 2023-11-30 | - |  | - | - |
 | [Gladiator : Blades of Fury](games/2/285b64782090429a8c055d913b2c93f1.md) | 2023-11-30 | 6 (1,000 XP) | 3 | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2023-11-30 | 53 (1,000 XP) | 61 | - | 0 |
-| [Pinball M](games/d/d054771c2f3c4f4fb7d7028eca6ccca0.md) | 2023-11-30 | 47 (1,000 XP) | 1,433 | - | 0 |
+| [Pinball M](games/d/d054771c2f3c4f4fb7d7028eca6ccca0.md) | 2023-11-30 | 47 (1,000 XP) | 1,435 | - | 0 |
 | [Zi](games/9/9824e1bd7ad44702a573bf07f0822bfa.md) | 2023-11-30 | - |  | - | - |
 | [The Ecdysis](games/8/824dd71739cf45fba9d997979856c5a9.md) | 2023-11-30 | - |  | - | - |
 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 2023-11-30 | 25 (1,000 XP) | 15 | - | 0 |
@@ -104,16 +104,16 @@
 | [Below the Stone](games/5/5bf936d4fd4843b38fc2e8b7ea682c08.md) | 2023-11-19 | - |  | - | 0 |
 | [Steal Then Just Escape](games/7/7fc4cfdf21844b70ab22e8b6ba0b0a3a.md) | 2023-11-18 | - |  | - | - |
 | [Eden Island](games/f/f5f759d5ce5441cba582b96ebb1c9d3c.md) | 2023-11-18 | - |  | - | 0 |
-| [Dark Table CCG](games/a/a0e5651da05447508a6cfe91e883af3a.md) | 2023-11-18 | 27 (1,000 XP) | 106 | - | 0 |
+| [Dark Table CCG](games/a/a0e5651da05447508a6cfe91e883af3a.md) | 2023-11-18 | 27 (1,000 XP) | 109 | - | 0 |
 | [SkyMatch](games/c/c1d3e4bfa6144a7095d16a8ce487cf74.md) | 2023-11-18 | - |  | - | - |
 | [Cooking Trip New Challenge. Collector's Edition](games/e/eb5c6704ff734d0cad7717cddb28cae0.md) | 2023-11-17 | - |  | - | 0 |
 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 2023-11-17 | 6 (1,000 XP) | 75 | - | 0 |
-| [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | 37 (1,000 XP) | 858 | - | 0 |
+| [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | 37 (1,000 XP) | 859 | - | 0 |
 | [Flunky Farm](games/3/389061e1584946a58872a5ca03d08443.md) | 2023-11-17 | - |  | - | 0 |
 | [Galactic Empire](games/6/684f406af86a4a7eb01a8b263e7280e2.md) | 2023-11-17 | 67 (1,000 XP) | 2 | - | - |
 | [Oxygen Cocktail](games/b/be46e9830cad476eb46085098aee4afb.md) | 2023-11-16 | - |  | - | - |
 | [Universe for Sale](games/6/60525048f11c46b88bb6d7492ce7b67d.md) | 2023-11-16 | - |  | - | 0 |
-| [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 2023-11-16 | 34 (1,000 XP) | 64,819 | 4.06 | 0 |
+| [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 2023-11-16 | 34 (1,000 XP) | 64,837 | 4.06 | 0 |
 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 2023-11-16 | - |  | 4.61 | 23 |
 | [COLD WAR 2395: SOLUS](games/d/d51af83d7b874a69910b1280373403b8.md) | 2023-11-16 | - |  | - | 0 |
 | [Car Parking Real Driving Sim](games/3/385fc5b23bd240edb3ad852f4b520eef.md) | 2023-11-15 | - |  | - | 0 |
@@ -128,7 +128,7 @@
 | [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | - |  | 4.36 | 0 |
 | [Backpack Hero](games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 2023-11-14 | 35 (1,000 XP) | 1 | - | 0 |
 | [Ghoul Castle 3D - Gold Edition](games/9/993ca702abc944ce8098d24da7cd03d1.md) | 2023-11-14 | - |  | - | 0 |
-| [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 2023-11-14 | 35 (1,000 XP) | 14,670 | 4.35 | 0 |
+| [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 2023-11-14 | 35 (1,000 XP) | 14,680 | 4.35 | 0 |
 | [KarmaZoo](games/k/karmazoo.md) | 2023-11-14 | - |  | - | 0 |
 | [Fish](games/6/6c291b93c3314ae8b2c78c8ddbf3965d.md) | 2023-11-14 | - |  | - | - |
 | [UFO ROBOT GRENDIZER - The Feast of the Wolves](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 2023-11-14 | 30 (1,000 XP) | 16 | - | 0 |
@@ -142,7 +142,7 @@
 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 2023-11-11 | 11 (1,000 XP) | 81 | - | 0 |
 | [Suv 4x4 Car Parking Simulator](games/2/2bd9b90cc5944b4ca056a52ecf3e34f0.md) | 2023-11-11 | - |  | - | 0 |
 | [Patrolling Mars](games/e/e8e0954ed50b46458165b250c8a05671.md) | 2023-11-10 | - |  | - | - |
-| [Who's Your Daddy?!](games/6/63d0293742c943d68b88af4173b1a5d0.md) | 2023-11-10 | 28 (1,000 XP) | 368 | - | 0 |
+| [Who's Your Daddy?!](games/6/63d0293742c943d68b88af4173b1a5d0.md) | 2023-11-10 | 28 (1,000 XP) | 370 | - | 0 |
 | [ELECTRON ZARAFTOR](games/1/18a039dffded4bc4890f9f94f772f2c0.md) | 2023-11-10 | - |  | - | - |
 | [ANONYMOUS HUNTING SIMULATOR](games/b/bf41a162f7324b14b597d0713415b312.md) | 2023-11-10 | - |  | - | - |
 | [Black Hair Girl is Best Girl](games/5/5e519ea163f74060808d84dae8a3ff95.md) | 2023-11-10 | - |  | - | 0 |
@@ -152,6 +152,5 @@
 | [Molten Horn](games/m/molten_horn.md) | 2023-11-09 | - |  | - | - |
 | [Greak: Memories of Azur](games/d/d79ece5d96db4e96b95ba4e1cfb050c2.md) | 2023-11-09 | - |  | - | - |
 | [What The Duck](games/0/087e76c9e4ba4fc8bacc75b794cc27b2.md) | 2023-11-09 | 44 (1,000 XP) | 3 | - | - |
-| [Ikonei Island: An Earthlock Adventure](games/9/9d18d8b14f2249278132414a09234394.md) | 2023-11-09 | 36 (1,000 XP) | 2,334 | - | 0 |
+| [Ikonei Island: An Earthlock Adventure](games/9/9d18d8b14f2249278132414a09234394.md) | 2023-11-09 | 36 (1,000 XP) | 2,335 | - | 0 |
 | [Berzerk Recharged](games/8/8d9b7c29e68e4a8aaa47f7074a532975.md) | 2023-11-09 | - |  | - | - |
-| [Crown Of The Empire Collectors Edition](games/a/a8edf5117e73463e8d4b8351b07a3d0d.md) | 2023-11-08 | - |  | - | 0 |
