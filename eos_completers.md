@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.21% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.20% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -53,7 +53,7 @@
 | 51 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 51 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 7.69% |
 | 51 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 7.69% |
-| 54 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.66% |
+| 54 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
 | 55 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
 | 56 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.58% |
 | 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.53% |
@@ -101,7 +101,7 @@
 | 99 | [The Complex](games/t/the_complex.md) | 3.18% |
 | 100 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 100 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
-| 102 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.10% |
+| 102 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.09% |
 | 103 | [Doodle God](games/d/doodle_god.md) | 3.08% |
 | 103 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 105 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.06% |
