@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.03% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.01% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -86,8 +86,8 @@
 | 84 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.41% |
 | 85 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 86 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.25% |
-| 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.22% |
-| 88 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.18% |
+| 87 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.24% |
+| 88 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.22% |
 | 89 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.15% |
 | 90 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
 | 91 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 4.03% |
@@ -116,8 +116,8 @@
 | 114 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 115 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
 | 115 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
-| 117 | [Dungeons 4](games/d/dungeons_4.md) | 2.62% |
 | 117 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.62% |
+| 118 | [Dungeons 4](games/d/dungeons_4.md) | 2.61% |
 | 119 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.56% |
 | 120 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 121 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.49% |
@@ -208,8 +208,8 @@
 | 204 | [Tails of Iron](games/t/tails_of_iron.md) | 0.54% |
 | 207 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.52% |
 | 208 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.51% |
-| 208 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.51% |
-| 210 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.50% |
+| 209 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.50% |
+| 209 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.50% |
 | 211 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.49% |
 | 211 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.49% |
 | 213 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
@@ -288,14 +288,14 @@
 | 285 | [Isonzo](games/i/isonzo.md) | 0.11% |
 | 285 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 285 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
-| 285 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.11% |
 | 285 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.11% |
-| 291 | [Art of Rally](games/a/art_of_rally_1.md) | 0.10% |
-| 291 | [Black Book](games/b/black_book.md) | 0.10% |
-| 291 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.10% |
-| 291 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 291 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.10% |
-| 291 | [Supraland](games/s/supraland.md) | 0.10% |
+| 290 | [Art of Rally](games/a/art_of_rally_1.md) | 0.10% |
+| 290 | [Black Book](games/b/black_book.md) | 0.10% |
+| 290 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.10% |
+| 290 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 290 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.10% |
+| 290 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.10% |
+| 290 | [Supraland](games/s/supraland.md) | 0.10% |
 | 297 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.09% |
 | 297 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.09% |
 | 297 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.09% |
