@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 861,
+  "Ranking_Rating": 860,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 91,
@@ -494,9 +494,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94896,
+  "EOS_Progressed": 94903,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 683,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -26284,6 +26284,11 @@
       "Time": "2023-12-08T18:08:32.6843091+00:00",
       "NumProgressed": 94896,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-12-08T19:08:47.7400017+00:00",
+      "NumProgressed": 94903,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 10,
@@ -26335,7 +26340,7 @@
       "Name": "Collected all drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "DrawingsDLC",
@@ -26343,7 +26348,7 @@
       "Name": "Prologue Drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "GameCompleted",
@@ -26359,7 +26364,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33214
+      "UsersEstimate": 33216
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -26374,15 +26379,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 94896,
+      "Progressed": 94903,
       "Completed": 432
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-07T22:03:08.3516808+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:08:32.6843088+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:08:47.7400013+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:15.1014443+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:02:57.2217625+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:08:32.6844594+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:02:58.0454755+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:08:47.7402033+00:00"
 }

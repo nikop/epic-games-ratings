@@ -14,8 +14,8 @@ Rating: 4.87 (Ranked 25)
 | You got this, Peppermint? | 15.00% | ~673 |
 | Perfect Parry | 14.00% | ~628 |
 | Alright, that felt AWESOME! | 14.00% | ~628 |
-| This will cost you big time | 13.00% | ~583 |
-| Uh, they were broken when I got here | 13.00% | ~583 |
+| This will cost you big time | 13.00% | ~584 |
+| Uh, they were broken when I got here | 13.00% | ~584 |
 | I play my own way! | 12.00% | ~539 |
 | Z-shielding's got nothing on us! | 12.00% | ~539 |
 | Whoa! There's ANOTHER health bar!? | 11.00% | ~494 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,488 (Ranked 194)  
+Progressed: 4,489 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 8 (0.18%) (Ranked 266)
 | 2023-12-05 | 4,478 | 8 |
 | 2023-12-06 | 4,481 | 8 |
 | 2023-12-07 | 4,486 | 8 |
-| 2023-12-08 | 4,488 | 8 |
+| 2023-12-08 | 4,489 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

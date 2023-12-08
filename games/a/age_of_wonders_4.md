@@ -45,10 +45,10 @@ Rating: 4.61 (Ranked 386)
 | The Creator | 0.80% | ~45 |
 | The Eternal Court | 0.80% | ~45 |
 | Eternal Lord | 0.70% | ~39 |
+| Manufactured War | 0.70% | ~39 |
 | I've Got Everything I Need Right Here | 0.60% | ~33 |
 | God Emperor | 0.60% | ~33 |
 | The Goddess of Nature | 0.60% | ~33 |
-| Manufactured War | 0.60% | ~33 |
 | Grexolis | 0.60% | ~33 |
 | One for All, All for One | 0.60% | ~33 |
 | Pruning for Progress | 0.50% | ~28 |

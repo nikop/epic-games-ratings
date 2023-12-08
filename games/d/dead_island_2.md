@@ -5,38 +5,38 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,721 |
-| Pork Chopped | 3.00% | ~1,721 |
-| Dr. Reed, I Presume? | 2.00% | ~14,636 |
-| Git Gutte! | 2.00% | ~14,636 |
-| Bookworm | 2.00% | ~14,636 |
-| Break A Leg | 2.00% | ~14,636 |
-| But Doctor, I am Butcho | 2.00% | ~14,636 |
-| Coup de Grâce | 2.00% | ~14,636 |
-| Hazardous Materials | 2.00% | ~14,636 |
-| Friends Like These | 2.00% | ~14,636 |
-| Hotel California | 2.00% | ~14,636 |
-| Apex Predator | 2.00% | ~14,636 |
-| Stacking the Deck | 2.00% | ~14,636 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,636 |
-| This is My Weapon | 2.00% | ~14,636 |
-| Welcome To Hell-A | 2.00% | ~14,636 |
-| One of Us | 2.00% | ~1,147 |
-| Making Your Mark | 1.00% | ~7,318 |
-| Anger Management | 1.00% | ~7,318 |
-| Perks of the Job | 1.00% | ~7,318 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,318 |
-| Slayer Squad | 1.00% | ~7,318 |
-| Can't Handle the Truth | 1.00% | ~7,318 |
-| Like Riding a Bike | 1.00% | ~7,318 |
-| Zombologist | 1.00% | ~7,318 |
-| Ooh, Shiny! | 1.00% | ~7,318 |
-| A Patton Emerges | 1.00% | ~7,318 |
-| Humanity Distilled | 1.00% | ~7,318 |
-| I Am the Resurrection | 1.00% | ~7,318 |
-| Max Headroom | 1.00% | ~7,318 |
-| Our True Nature | 1.00% | ~7,318 |
-| Down with the Sickness | 0.90% | ~6,586 |
+| Whatever It Takes | 3.00% | ~1,722 |
+| Pork Chopped | 3.00% | ~1,722 |
+| Dr. Reed, I Presume? | 2.00% | ~14,637 |
+| Git Gutte! | 2.00% | ~14,637 |
+| Bookworm | 2.00% | ~14,637 |
+| Break A Leg | 2.00% | ~14,637 |
+| But Doctor, I am Butcho | 2.00% | ~14,637 |
+| Coup de Grâce | 2.00% | ~14,637 |
+| Hazardous Materials | 2.00% | ~14,637 |
+| Friends Like These | 2.00% | ~14,637 |
+| Hotel California | 2.00% | ~14,637 |
+| Apex Predator | 2.00% | ~14,637 |
+| Stacking the Deck | 2.00% | ~14,637 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,637 |
+| This is My Weapon | 2.00% | ~14,637 |
+| Welcome To Hell-A | 2.00% | ~14,637 |
+| One of Us | 2.00% | ~1,148 |
+| Making Your Mark | 1.00% | ~7,319 |
+| Anger Management | 1.00% | ~7,319 |
+| Perks of the Job | 1.00% | ~7,319 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,319 |
+| Slayer Squad | 1.00% | ~7,319 |
+| Can't Handle the Truth | 1.00% | ~7,319 |
+| Like Riding a Bike | 1.00% | ~7,319 |
+| Zombologist | 1.00% | ~7,319 |
+| Ooh, Shiny! | 1.00% | ~7,319 |
+| A Patton Emerges | 1.00% | ~7,319 |
+| Humanity Distilled | 1.00% | ~7,319 |
+| I Am the Resurrection | 1.00% | ~7,319 |
+| Max Headroom | 1.00% | ~7,319 |
+| Our True Nature | 1.00% | ~7,319 |
+| Down with the Sickness | 0.90% | ~6,587 |
 | Not Even My Final Form | 0.80% | ~5,855 |
 | Jumbo Keyring | 0.80% | ~5,855 |
 | Go, Bobcats! | 0.80% | ~5,855 |
@@ -50,14 +50,14 @@ Rating: 4.54 (Ranked 534)
 | Sole Survivor | 0.40% | ~2,927 |
 | Gore Horse | 0.40% | ~2,927 |
 | Sharpest Tool in the Box | 0.40% | ~2,927 |
-| Top That, Tisha! | 0.40% | ~229 |
+| Top That, Tisha! | 0.40% | ~230 |
 | Survival Skills | 0.20% | ~1,464 |
 | Lawn and Order | 0.20% | ~115 |
 | Donk! | 0.10% | ~732 |
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,821 (Ranked 21)  
+Progressed: 731,860 (Ranked 21)  
 Completed: 2,466 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,15 +289,15 @@ Completed: 2,466 (0.34%) (Ranked 234)
 | 2023-12-05 | 730,673 | 2,465 |
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
-| 2023-12-08 | 731,821 | 2,466 |
+| 2023-12-08 | 731,860 | 2,466 |
 ## Awards
 Max (Great Boss Battles): 8,017  (Ranked 49)  
-Sum: 12,315 (Ranked 82)  
+Sum: 12,319 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 8,017 |
-| This game is Great for Beginners | 621 |
+| This game is Great for Beginners | 625 |
 | This game has Diverse Characters | 589 |
 | This game has Quickly Understood Controls | 555 |
 | This game is Relaxing | 533 |
@@ -539,4 +539,4 @@ Diff (max vs sum): -33
 | 2023-12-05 | 4.54 | 7,943 | 12,192 |
 | 2023-12-06 | 4.54 | 7,968 | 12,240 |
 | 2023-12-07 | 4.54 | 7,994 | 12,284 |
-| 2023-12-08 | 4.54 | 8,017 | 12,315 |
+| 2023-12-08 | 4.54 | 8,017 | 12,319 |

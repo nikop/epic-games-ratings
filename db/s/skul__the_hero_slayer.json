@@ -1205,9 +1205,9 @@
       "Count": 136
     }
   ],
-  "EOS_Progressed": 8404,
+  "EOS_Progressed": 8405,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5925,6 +5925,11 @@
       "Time": "2023-12-08T16:08:41.6667103+00:00",
       "NumProgressed": 8404,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-08T19:08:32.3690214+00:00",
+      "NumProgressed": 8405,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 24,
@@ -6024,7 +6029,7 @@
       "Name": "The Hero Killer",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2522
     },
     {
       "ID": "LeoniasFall",
@@ -6032,7 +6037,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "LeoniasFall_2",
@@ -6072,7 +6077,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2941
+      "UsersEstimate": 2942
     },
     {
       "ID": "SkeletonKing",
@@ -6088,7 +6093,7 @@
       "Name": "Inventory Management",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2941
+      "UsersEstimate": 2942
     },
     {
       "ID": "TheLegendBegins",
@@ -6096,7 +6101,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7816
+      "UsersEstimate": 7817
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -6120,22 +6125,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7059
+      "UsersEstimate": 7060
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8404,
+      "Progressed": 8405,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-07T17:57:51.9878192+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:08:18.6376155+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:08:32.369021+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.4264134+00:00",
-  "LastUpdate_Ratings": "2023-12-08T17:58:24.0404359+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:08:18.6376512+00:00"
+  "LastUpdate_Ratings": "2023-12-08T18:58:31.7660979+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:08:32.3690712+00:00"
 }

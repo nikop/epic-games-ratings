@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17180,
+  "EOS_Progressed": 17181,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7064,6 +7064,11 @@
       "Time": "2023-12-08T14:06:16.3774749+00:00",
       "NumProgressed": 17180,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T19:06:39.1290791+00:00",
+      "NumProgressed": 17181,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -7075,7 +7080,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16321
+      "UsersEstimate": 16322
     },
     {
       "ID": "ACH001",
@@ -7083,7 +7088,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14775
+      "UsersEstimate": 14776
     },
     {
       "ID": "ACH0010",
@@ -7107,7 +7112,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8418
+      "UsersEstimate": 8419
     },
     {
       "ID": "ACH0013",
@@ -7115,7 +7120,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3951
+      "UsersEstimate": 3952
     },
     {
       "ID": "ACH0014",
@@ -7227,7 +7232,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9277
+      "UsersEstimate": 9278
     },
     {
       "ID": "ACH004",
@@ -7282,7 +7287,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17180,
+      "Progressed": 17181,
       "Completed": 1
     }
   ],
@@ -7290,8 +7295,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:06:17.5106413+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:06:39.1290787+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:47.0597807+00:00",
-  "LastUpdate_Ratings": "2023-12-08T17:59:38.3622526+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:06:17.510696+00:00"
+  "LastUpdate_Ratings": "2023-12-08T18:59:53.217695+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:06:39.129142+00:00"
 }

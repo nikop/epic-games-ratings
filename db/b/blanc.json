@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3356,
+  "EOS_Progressed": 3364,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5096,6 +5096,11 @@
       "Time": "2023-12-08T16:03:18.8549483+00:00",
       "NumProgressed": 3356,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-08T19:03:19.1346794+00:00",
+      "NumProgressed": 3364,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5131,7 +5136,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "MOVE_ON",
@@ -5139,7 +5144,7 @@
       "Name": "The will to move on",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "REUNION",
@@ -5147,7 +5152,7 @@
       "Name": "Reunion",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "SLIDERS",
@@ -5171,7 +5176,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 503
+      "UsersEstimate": 505
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -5179,7 +5184,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "THE_END",
@@ -5195,7 +5200,7 @@
       "Name": "Transmission",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -5203,14 +5208,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3356,
+      "Progressed": 3364,
       "Completed": 6
     }
   ],
@@ -5218,8 +5223,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:03:14.8041045+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:03:19.1346786+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:22.6950578+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:00:35.7007588+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:03:14.8041477+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:00:55.0375532+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:03:19.1347326+00:00"
 }

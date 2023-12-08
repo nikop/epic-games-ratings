@@ -6,28 +6,28 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 7.00% | ~10,102 |
-| Basic in Bulk | 7.00% | ~10,102 |
-| Titan's First Steps | 7.00% | ~10,102 |
-| Tinkle of Coins | 6.00% | ~8,659 |
+| Sponsored by Argon | 7.00% | ~10,103 |
+| Basic in Bulk | 7.00% | ~10,103 |
+| Titan's First Steps | 7.00% | ~10,103 |
+| Tinkle of Coins | 6.00% | ~8,660 |
 | Disintermediation | 5.00% | ~7,216 |
 | It's Free Real Estate | 5.00% | ~7,216 |
 | Capitalism Ho! | 5.00% | ~7,216 |
-| One Easy Payment | 4.00% | ~5,772 |
-| Some Assembly Required | 4.00% | ~5,772 |
-| Another Satisfied Customer | 4.00% | ~5,772 |
-| Pretty Penny | 4.00% | ~5,772 |
-| Budding Merchant | 4.00% | ~5,772 |
-| Own the Means of Production | 4.00% | ~5,772 |
-| The Daily Grind | 3.00% | ~4,329 |
-| Bounty Hunters | 3.00% | ~4,329 |
-| Demand for Supplies | 3.00% | ~4,329 |
-| Flooding the Market | 3.00% | ~4,329 |
-| Where it Hurts | 3.00% | ~4,329 |
-| Gild-Gotten Goods | 3.00% | ~4,329 |
-| One-Armed Bandit | 3.00% | ~4,329 |
-| Dungeon Imports | 3.00% | ~4,329 |
-| Through Repetition, Perfection | 3.00% | ~4,329 |
+| One Easy Payment | 4.00% | ~5,773 |
+| Some Assembly Required | 4.00% | ~5,773 |
+| Another Satisfied Customer | 4.00% | ~5,773 |
+| Pretty Penny | 4.00% | ~5,773 |
+| Budding Merchant | 4.00% | ~5,773 |
+| Own the Means of Production | 4.00% | ~5,773 |
+| The Daily Grind | 3.00% | ~4,330 |
+| Bounty Hunters | 3.00% | ~4,330 |
+| Demand for Supplies | 3.00% | ~4,330 |
+| Flooding the Market | 3.00% | ~4,330 |
+| Where it Hurts | 3.00% | ~4,330 |
+| Gild-Gotten Goods | 3.00% | ~4,330 |
+| One-Armed Bandit | 3.00% | ~4,330 |
+| Dungeon Imports | 3.00% | ~4,330 |
+| Through Repetition, Perfection | 3.00% | ~4,330 |
 | On the Path to Greatness | 2.00% | ~2,886 |
 | A Notch Above the Rest | 2.00% | ~2,886 |
 | Ascended | 2.00% | ~2,886 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~433 |
 | Capitalist Camaraderie | 0.20% | ~289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,310 (Ranked 80)  
+Progressed: 144,325 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 291 (0.20%) (Ranked 258)
 | 2023-12-05 | 143,938 | 291 |
 | 2023-12-06 | 144,049 | 291 |
 | 2023-12-07 | 144,162 | 291 |
-| 2023-12-08 | 144,310 | 291 |
+| 2023-12-08 | 144,325 | 291 |
 ## Awards
 Max (Great for Beginners): 4,870  (Ranked 75)  
 Sum: 27,678 (Ranked 50)  

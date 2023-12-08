@@ -5337,9 +5337,9 @@
       "Count": 411
     }
   ],
-  "EOS_Progressed": 236906,
+  "EOS_Progressed": 236930,
   "EOS_Completed": 569,
-  "EOS_NewPlayers": 4865,
+  "EOS_NewPlayers": 4834,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22022,6 +22022,11 @@
       "Time": "2023-12-08T18:08:48.8534846+00:00",
       "NumProgressed": 236906,
       "NumCompleted": 569
+    },
+    {
+      "Time": "2023-12-08T19:09:04.9746291+00:00",
+      "NumProgressed": 236930,
+      "NumCompleted": 569
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22218,7 +22223,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -22338,7 +22343,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "Obtain_Traits_B",
@@ -22473,13 +22478,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 236906,
+      "Progressed": 236930,
       "Completed": 569
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 16071,
+      "Progressed": 16095,
       "Completed": 210
     }
   ],
@@ -22487,8 +22492,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-08T12:03:52.1069836+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:08:48.8534843+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:09:04.9746286+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:03:07.0764114+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:08:48.8535953+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:03:09.0558219+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:09:04.9748431+00:00"
 }

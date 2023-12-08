@@ -8,8 +8,8 @@
 | Trinity | 15.00% | ~38 |
 | Find Allies | 12.00% | ~30 |
 | Powerful Allies | 12.00% | ~30 |
+| Adventurer | 12.00% | ~30 |
 | A Taste of Wrath | 11.00% | ~28 |
-| Adventurer | 11.00% | ~28 |
 | Geared Up | 11.00% | ~28 |
 | I Found It | 11.00% | ~28 |
 | The Collector | 11.00% | ~28 |

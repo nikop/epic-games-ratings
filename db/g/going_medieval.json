@@ -2,12 +2,12 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1561,7 +1561,7 @@
   ],
   "EOS_Progressed": 7158,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -14241,9 +14241,9 @@
       "ID": "BUILD_WOOD_BEAM",
       "SetID": "5349c2e",
       "Name": "Beam Me Up",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3794
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -14489,8 +14489,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-06T20:00:19.1680052+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:03:09.2185892+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:03:13.0615453+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:34.6501981+00:00",
-  "LastUpdate_Ratings": "2023-12-08T17:57:48.0934789+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:03:09.2193288+00:00"
+  "LastUpdate_Ratings": "2023-12-08T18:57:51.8890385+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:03:13.0617158+00:00"
 }

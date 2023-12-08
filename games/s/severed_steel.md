@@ -5,21 +5,21 @@ Rating: 4.69 (Ranked 231)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 31.00% | ~213,247 |
-| 50 HEADSHOTS | 29.00% | ~199,489 |
-| SCIENCE AND INDUSTRY | 28.00% | ~192,610 |
-| FINISHED CHAPTER 1 | 27.00% | ~185,731 |
-| FINISHED CHAPTER 2 | 20.00% | ~137,578 |
-| 200 HEADSHOTS | 17.00% | ~116,942 |
-| FINISHED CHAPTER 3 | 17.00% | ~116,942 |
-| FINISHED CHAPTER 4 | 14.00% | ~96,305 |
-| FINISH CHAPTER 5 | 12.00% | ~82,547 |
-| CATHARTIC ESCAPISM | 11.00% | ~75,668 |
-| FINISH CHAPTER 6 | 10.00% | ~68,789 |
-| 1000 KILLS | 9.00% | ~61,910 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,516 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,758 |
-| FIRST BLOOD | 2.00% | ~13,758 |
+| 100 KILLS | 31.00% | ~213,240 |
+| 50 HEADSHOTS | 29.00% | ~199,483 |
+| SCIENCE AND INDUSTRY | 28.00% | ~192,604 |
+| FINISHED CHAPTER 1 | 27.00% | ~185,725 |
+| FINISHED CHAPTER 2 | 20.00% | ~137,574 |
+| 200 HEADSHOTS | 17.00% | ~116,938 |
+| FINISHED CHAPTER 3 | 17.00% | ~116,938 |
+| FINISHED CHAPTER 4 | 14.00% | ~96,302 |
+| FINISH CHAPTER 5 | 12.00% | ~82,545 |
+| CATHARTIC ESCAPISM | 11.00% | ~75,666 |
+| FINISH CHAPTER 6 | 10.00% | ~68,787 |
+| 1000 KILLS | 9.00% | ~61,908 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,515 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,757 |
+| FIRST BLOOD | 2.00% | ~13,757 |
 | PACEMAKER | 1.00% | ~6,879 |
 | TIME PARADOX | 1.00% | ~6,879 |
 | FIREFIGHT LEVEL 30 | 0.90% | ~6,191 |
@@ -27,7 +27,7 @@ Rating: 4.69 (Ranked 231)
 | PARTYHARD | 0.80% | ~5,503 |
 | NEW GAME PLUS | 0.70% | ~4,815 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,439 |
-| CHURCH | 0.40% | ~2,752 |
+| CHURCH | 0.40% | ~2,751 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~2,064 |
 | REMEMBER THE ARMORY | 0.30% | ~2,064 |
 | 5 RUNS | 0.30% | ~2,064 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 231)
 | THE GAMBLER | 0.10% | ~688 |
 | WARRIOR IN A GARDEN | 0.10% | ~688 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687,892 (Ranked 26)  
+Progressed: 687,872 (Ranked 26)  
 Completed: 78 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |

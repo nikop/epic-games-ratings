@@ -645,9 +645,9 @@
       "ID": "ACH_BIPOLAR_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Duality",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_BRANCH_ALL_SLOTS",
@@ -693,9 +693,9 @@
       "ID": "ACH_FINISH_GAME",
       "SetID": "cagp2pi",
       "Name": "Edda and Aven",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -788,8 +788,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:05:01.8867113+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:05:16.6666792+00:00",
   "LastUpdate_AppInfo": "2023-12-08T13:57:09.5238384+00:00",
-  "LastUpdate_Ratings": "2023-12-08T17:57:43.0549511+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:05:01.8867259+00:00"
+  "LastUpdate_Ratings": "2023-12-08T18:57:46.2596769+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:05:16.6666992+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 593,
+  "EOS_Progressed": 594,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
@@ -1965,6 +1965,11 @@
       "Time": "2023-12-08T18:03:26.9175003+00:00",
       "NumProgressed": 593,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-08T19:03:32.1009518+00:00",
+      "NumProgressed": 594,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1985,15 +1990,15 @@
       "Name": "Establish Communications",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_eou3",
@@ -2017,7 +2022,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_eou6",
@@ -2025,7 +2030,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_eou7",
@@ -2049,7 +2054,7 @@
       "Name": "Disc Collector",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_n64",
@@ -2080,14 +2085,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 593,
+      "Progressed": 594,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:03:26.9174996+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:03:32.1009513+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:10.4045302+00:00",
-  "LastUpdate_Ratings": "2023-12-08T17:57:13.7590951+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:03:26.9175213+00:00"
+  "LastUpdate_Ratings": "2023-12-08T18:57:13.7557562+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:03:32.1009717+00:00"
 }

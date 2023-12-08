@@ -7,9 +7,9 @@ Rating: 4.65 (Ranked 315)
 | ---- | ---------- | ----- |
 | Feels Familiar | 76.00% | ~835 |
 | I Broke It | 73.00% | ~802 |
-| Better On Ice | 68.00% | ~747 |
+| Better On Ice | 69.00% | ~758 |
+| Notai Notes | 68.00% | ~747 |
 | Cutie Poro | 67.00% | ~736 |
-| Notai Notes | 67.00% | ~736 |
 | Blue Dreams | 66.00% | ~725 |
 | He's Famous! | 66.00% | ~725 |
 | Krugmazing | 64.00% | ~703 |
@@ -28,11 +28,11 @@ Rating: 4.65 (Ranked 315)
 | So Close | 42.00% | ~462 |
 | You Get Used To It | 42.00% | ~462 |
 | Family | 40.00% | ~440 |
+| Biggest Snowball Ever | 40.00% | ~440 |
 | True Legends | 40.00% | ~440 |
 | Boosted! | 40.00% | ~440 |
-| Biggest Snowball Ever | 39.00% | ~429 |
+| Deadliest and Biggest Snowball Ever! | 40.00% | ~440 |
 | Freeze The Ice Witch | 39.00% | ~429 |
-| Deadliest and Biggest Snowball Ever! | 39.00% | ~429 |
 | Bullseye | 37.00% | ~407 |
 | It Is Not Over | 36.00% | ~396 |
 | On The Rocks | 35.00% | ~385 |

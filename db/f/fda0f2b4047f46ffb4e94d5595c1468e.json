@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3537,9 +3537,9 @@
       "Count": 425
     }
   ],
-  "EOS_Progressed": 9563,
+  "EOS_Progressed": 9564,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10827,6 +10827,11 @@
       "Time": "2023-12-08T18:05:33.0076984+00:00",
       "NumProgressed": 9563,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T19:05:50.9397721+00:00",
+      "NumProgressed": 9564,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -10855,7 +10860,7 @@
       "Name": "A New Timeline",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 4590
+      "UsersEstimate": 4591
     },
     {
       "ID": "ach04",
@@ -10879,7 +10884,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 7172
+      "UsersEstimate": 7173
     },
     {
       "ID": "ach07",
@@ -10887,7 +10892,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5355
+      "UsersEstimate": 5356
     },
     {
       "ID": "ach08",
@@ -10967,7 +10972,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 5068
+      "UsersEstimate": 5069
     },
     {
       "ID": "ach18",
@@ -11031,7 +11036,7 @@
       "Name": "Talis-Mania",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "ach26",
@@ -11055,7 +11060,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "ach29",
@@ -11071,7 +11076,7 @@
       "Name": "Juggernaut",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "ach31",
@@ -11101,9 +11106,9 @@
       "ID": "ach34",
       "SetID": "47in8n6",
       "Name": "Always Accessorize",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3060
     },
     {
       "ID": "ach35",
@@ -11151,7 +11156,7 @@
       "Name": "Found You",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "ach41",
@@ -11175,7 +11180,7 @@
       "Name": "Working Overtime",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 4303
+      "UsersEstimate": 4304
     },
     {
       "ID": "ach44",
@@ -11231,14 +11236,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3825
+      "UsersEstimate": 3826
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9563,
+      "Progressed": 9564,
       "Completed": 0
     }
   ],
@@ -11246,8 +11251,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-12-08T16:03:01.9416072+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:05:33.0076982+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:05:50.9397717+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:13.7403672+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:02:56.5650976+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:05:33.0077887+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:02:57.3382293+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:05:50.939831+00:00"
 }

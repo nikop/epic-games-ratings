@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 3694,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3303,10 +3303,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3244,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-08T19:00:22.4048459+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3245,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3244,
+  "NumberOfAwards": 3245,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3356,7 +3362,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 318
+      "Count": 319
     },
     {
       "Text": "This game has a Creative Community",
@@ -3371,9 +3377,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17677,
+  "EOS_Progressed": 17687,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15006,6 +15012,11 @@
       "Time": "2023-12-08T18:04:23.706435+00:00",
       "NumProgressed": 17677,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-08T19:04:34.3534322+00:00",
+      "NumProgressed": 17687,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15176,9 +15187,9 @@
       "ID": "WinNearFertile",
       "SetID": "cfbk359",
       "Name": "Fertile Meadows",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     },
     {
       "ID": "WinNearFishmen",
@@ -15392,9 +15403,9 @@
       "ID": "WinWithoutDeath",
       "SetID": "cfbk359",
       "Name": "No Deaths",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 106
     },
     {
       "ID": "WinWithoutOrders",
@@ -15418,7 +15429,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "WinNearFrosts",
@@ -15442,7 +15453,7 @@
       "Name": "Overgrown Library",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "WinNearPetrified",
@@ -15450,7 +15461,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "WinNearPresence",
@@ -15489,15 +15500,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17677,
+      "Progressed": 17687,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-07T19:59:38.7058296+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:04:23.7064347+00:00",
+  "LastChanged": "2023-12-08T19:00:22.4048457+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:04:34.3534317+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:00:05.2650834+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:04:23.7065186+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:00:22.4048464+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:04:34.3535725+00:00"
 }

@@ -61,8 +61,8 @@
 | Untouchable | 12.00% | ~64 |
 | Laser Eyes Are So Useless | 10.00% | ~54 |
 | Heal Heal Blessing | 10.00% | ~54 |
+| Hands Off My Stones | 10.00% | ~54 |
 | Gorgu is in the Best of Health | 9.00% | ~48 |
-| Hands Off My Stones | 9.00% | ~48 |
 | No Mana, No Cry | 7.00% | ~37 |
 | I Don't Need Any Help | 6.00% | ~32 |
 ## Popularity (Based on EOS Achievements)

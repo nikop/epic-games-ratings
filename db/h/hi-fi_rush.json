@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4488,
+  "EOS_Progressed": 4489,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8200,6 +8200,11 @@
       "Time": "2023-12-08T15:05:54.3734697+00:00",
       "NumProgressed": 4488,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-08T19:06:06.6795774+00:00",
+      "NumProgressed": 4489,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8227,7 +8232,7 @@
       "Name": "This will cost you big time",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "Ach004",
@@ -8467,7 +8472,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "Ach034",
@@ -8778,13 +8783,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4488,
+      "Progressed": 4489,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 3009,
+      "Progressed": 3010,
       "Completed": 1930
     }
   ],
@@ -8792,8 +8797,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:05:47.3920041+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:06:06.6795769+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-08T17:58:49.6514795+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:05:47.392084+00:00"
+  "LastUpdate_Ratings": "2023-12-08T18:59:00.283756+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:06:06.6796935+00:00"
 }

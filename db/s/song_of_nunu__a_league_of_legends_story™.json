@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -35,7 +35,7 @@
   "Tags": [],
   "EOS_Progressed": 1099,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -2593,9 +2593,9 @@
       "ID": "EV_ACH11",
       "SetID": "6jeac23",
       "Name": "Biggest Snowball Ever",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 440
     },
     {
       "ID": "EV_ACH12",
@@ -2625,9 +2625,9 @@
       "ID": "EV_ACH15",
       "SetID": "6jeac23",
       "Name": "Better On Ice",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 758
     },
     {
       "ID": "EV_ACH16",
@@ -2769,9 +2769,9 @@
       "ID": "EV_ACH33",
       "SetID": "6jeac23",
       "Name": "Notai Notes",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 736
+      "UsersEstimate": 747
     },
     {
       "ID": "EV_ACH34",
@@ -2841,9 +2841,9 @@
       "ID": "EV_ACH42",
       "SetID": "6jeac23",
       "Name": "Deadliest and Biggest Snowball Ever!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 440
     },
     {
       "ID": "EV_ACH43",
@@ -2874,8 +2874,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-07T18:57:06.0810635+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:09:32.5988012+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:09:52.2260998+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:30.6562338+00:00",
-  "LastUpdate_Ratings": "2023-12-08T17:57:42.3372272+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:09:32.5988418+00:00"
+  "LastUpdate_Ratings": "2023-12-08T18:57:45.530692+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:09:52.2261583+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Relight my Cannon | 40.00% | ~36 |
 | Glass Act | 39.00% | ~35 |
-| Relight my Cannon | 39.00% | ~35 |
 | Tour Guide Extraordinaire | 37.00% | ~33 |
 | Explosive End | 24.00% | ~22 |
 | Snitch | 24.00% | ~22 |
@@ -15,8 +15,8 @@
 | Finger-Lickin' Bad | 19.00% | ~17 |
 | Set Sail | 19.00% | ~17 |
 | Bathroom Brawler | 18.00% | ~16 |
+| Breathless End | 18.00% | ~16 |
 | Backstory Buff | 17.00% | ~15 |
-| Breathless End | 17.00% | ~15 |
 | Flying High | 17.00% | ~15 |
 | Freedum Fighter | 4.00% | ~4 |
 | Key Keeper's Curse | 4.00% | ~4 |

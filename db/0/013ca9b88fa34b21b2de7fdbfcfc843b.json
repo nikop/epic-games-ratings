@@ -205,9 +205,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8355,
+  "EOS_Progressed": 8356,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8230,6 +8230,11 @@
       "Time": "2023-12-08T18:09:28.3772781+00:00",
       "NumProgressed": 8355,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T19:09:47.9982943+00:00",
+      "NumProgressed": 8356,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8250,7 +8255,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5848
+      "UsersEstimate": 5849
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8258,7 +8263,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3091
+      "UsersEstimate": 3092
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -8274,7 +8279,7 @@
       "Name": "Clear the Air",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -8378,7 +8383,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -8466,7 +8471,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -8521,22 +8526,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8355,
+      "Progressed": 8356,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 972,
-      "Completed": 972
+      "Progressed": 973,
+      "Completed": 973
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-04T18:02:55.9509642+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:09:28.3772777+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:09:47.9982938+00:00",
   "LastUpdate_AppInfo": "2023-12-08T10:57:06.6464777+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:02:59.9301622+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:09:28.3773458+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:03:01.2758535+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:09:47.9983661+00:00"
 }

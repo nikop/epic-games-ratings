@@ -2,7 +2,7 @@
   "ID": "ac1e1228d81c433ba5b25c6c09318e0e",
   "Name": "Elypse",
   "ProductSlug": "elypse-b177a8",
-  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 457,
   "Ranking_EOS_NewCompleters": 115,
@@ -797,8 +797,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:08:11.0473812+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:08:24.1532921+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.8763106+00:00",
-  "LastUpdate_Ratings": "2023-12-08T17:57:48.713866+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:08:11.0473996+00:00"
+  "LastUpdate_Ratings": "2023-12-08T18:57:52.6053144+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:08:24.1533119+00:00"
 }

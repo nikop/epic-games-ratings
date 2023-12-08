@@ -6,20 +6,21 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 3.00% | ~530 |
-| Overgrown Library | 3.00% | ~530 |
-| Petrified Necropolis | 3.00% | ~530 |
+| Abandoned Settlement | 3.00% | ~531 |
+| Overgrown Library | 3.00% | ~531 |
+| Petrified Necropolis | 3.00% | ~531 |
 | Frosts | 2.00% | ~354 |
 | Land of Greed | 2.00% | ~354 |
 | Ominous Presence | 2.00% | ~354 |
 | Gathering Storm | 2.00% | ~354 |
 | Untamed Wilds | 1.00% | ~177 |
+| No Deaths | 0.60% | ~106 |
 | First Real Expedition | 0.50% | ~88 |
 | Overcoming Difficulty | 0.50% | ~88 |
 | Coral Forest | 0.50% | ~88 |
 | The Marshlands | 0.50% | ~88 |
 | Taking Action | 0.50% | ~88 |
-| No Deaths | 0.50% | ~88 |
+| Fertile Meadows | 0.40% | ~71 |
 | Watchtower | 0.40% | ~71 |
 | The Scarlet Orchard | 0.40% | ~71 |
 | Homesick | 0.30% | ~53 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Bandit Camp | 0.30% | ~53 |
 | Ancient Battleground | 0.30% | ~53 |
 | Sparkdew Crystals | 0.30% | ~53 |
-| Fertile Meadows | 0.30% | ~53 |
 | Monastery of the Holy Flame | 0.30% | ~53 |
 | Royal Outpost | 0.30% | ~53 |
 | Lost Colonies | 0.30% | ~53 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,677 (Ranked 146)  
+Progressed: 17,687 (Ranked 146)  
 Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,10 +298,10 @@ Completed: 43 (0.24%) (Ranked 251)
 | 2023-12-05 | 17,618 | 49 |
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
-| 2023-12-08 | 17,677 | 44 |
+| 2023-12-08 | 17,687 | 44 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
-Sum: 3,244 (Ranked 174)  
+Sum: 3,245 (Ranked 174)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -311,7 +311,7 @@ Diff (max vs sum): 49
 | This game is Extremely Fun | 409 |
 | This game is Highly Recommended | 391 |
 | This game has Unique Visuals | 328 |
-| This game has Amazing Storytelling | 318 |
+| This game has Amazing Storytelling | 319 |
 | This game has Amazing Characters | 286 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 215 |
@@ -565,3 +565,4 @@ Diff (max vs sum): 49
 | 2023-12-04 | 4.82 | - | 441 | 3,242 |
 | 2023-12-06 | 4.82 | - | 442 | 3,243 |
 | 2023-12-07 | 4.82 | - | 442 | 3,244 |
+| 2023-12-08 | 4.82 | - | 442 | 3,245 |

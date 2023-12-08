@@ -15,9 +15,11 @@ Number of Ratings: 90  (23.09.2022)
 | I Look Up As I Walk to Takoshima | 8.00% | ~2 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~2 |
 | Bodied Sattva | 8.00% | ~2 |
+| Perfect Probulator | 4.00% | ~1 |
 | Lie Back and Think of Albion | 4.00% | ~1 |
 | Fly Me to the Moon Base | 4.00% | ~1 |
 | Kaijuiced | 4.00% | ~1 |
+| Freshly Squeezed | 4.00% | ~1 |
 | Die Nasty | 4.00% | ~1 |
 | Scuttled | 4.00% | ~1 |
 | Earthly Pleasures | 4.00% | ~1 |
@@ -25,7 +27,6 @@ Number of Ratings: 90  (23.09.2022)
 | Dusted | 4.00% | ~1 |
 | Pimp My Raid | 4.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
-| Perfect Probulator | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |
 | Arty Facts | 0.00% | ~0 |
 | Gotta Catch All the Pop Art | 0.00% | ~0 |
@@ -37,7 +38,6 @@ Number of Ratings: 90  (23.09.2022)
 | Toilet Break | 0.00% | ~0 |
 | Albion Bridge Is for Falling Down | 0.00% | ~0 |
 | Lobster Blisque | 0.00% | ~0 |
-| Freshly Squeezed | 0.00% | ~0 |
 | Ouch of Body Experience | 0.00% | ~0 |
 | Deincarnated | 0.00% | ~0 |
 | Yettisoned | 0.00% | ~0 |

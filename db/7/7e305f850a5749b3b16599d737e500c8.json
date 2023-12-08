@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -1285,9 +1285,9 @@
       "ID": "Justice",
       "SetID": "b7i210",
       "Name": "Justice",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "Liberator",
@@ -1364,8 +1364,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:03:09.8248324+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:03:13.7655498+00:00",
   "LastUpdate_AppInfo": "2023-12-05T06:57:08.536016+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:00:08.8698158+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:03:09.8248628+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:00:26.2206553+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:03:13.7655786+00:00"
 }

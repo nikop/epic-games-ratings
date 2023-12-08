@@ -4,7 +4,7 @@
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
   "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -447,9 +447,9 @@
       "ID": "SOS_ITS_TRAP",
       "SetID": "6ci4lm2",
       "Name": "It\u0027s a trap!",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SOS_LASTBATTLE",
@@ -702,8 +702,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:06:12.4074757+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:06:33.5359307+00:00",
   "LastUpdate_AppInfo": "2023-12-04T15:57:13.4700868+00:00",
-  "LastUpdate_Ratings": "2023-12-08T17:57:26.1305379+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:06:12.407513+00:00"
+  "LastUpdate_Ratings": "2023-12-08T18:57:27.4916658+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:06:33.5360005+00:00"
 }

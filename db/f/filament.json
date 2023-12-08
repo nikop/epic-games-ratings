@@ -2,7 +2,7 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 822,
+  "Ranking_Rating": 821,
   "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 73,
@@ -342,7 +342,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 206686,
+  "EOS_Progressed": 206690,
   "EOS_Completed": 539,
   "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 2,
@@ -25152,6 +25152,11 @@
       "Time": "2023-12-08T18:03:32.6459109+00:00",
       "NumProgressed": 206686,
       "NumCompleted": 539
+    },
+    {
+      "Time": "2023-12-08T19:03:38.3406509+00:00",
+      "NumProgressed": 206690,
+      "NumCompleted": 539
     }
   ],
   "TotalAchievements": 29,
@@ -25187,7 +25192,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 194285
+      "UsersEstimate": 194289
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -25219,7 +25224,7 @@
       "Name": "Cockpit",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -25371,7 +25376,7 @@
       "Name": "Witness it.",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -25394,7 +25399,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 206686,
+      "Progressed": 206690,
       "Completed": 539
     }
   ],
@@ -25402,8 +25407,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-07T22:59:44.525088+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:03:32.6459106+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:03:38.3406505+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:18.4469481+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:00:13.5720521+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:03:32.6460366+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:00:31.3395651+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:03:38.3408395+00:00"
 }

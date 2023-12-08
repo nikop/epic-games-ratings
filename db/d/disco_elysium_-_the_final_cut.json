@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1526,9 +1526,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131737,
+  "EOS_Progressed": 131738,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24141,6 +24141,11 @@
       "Time": "2023-12-08T18:04:00.9525321+00:00",
       "NumProgressed": 131737,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-08T19:04:09.3958784+00:00",
+      "NumProgressed": 131738,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24232,7 +24237,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36886
+      "UsersEstimate": 36887
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -24248,7 +24253,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5269
+      "UsersEstimate": 5270
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -24448,7 +24453,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5269
+      "UsersEstimate": 5270
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -24471,15 +24476,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131737,
+      "Progressed": 131738,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-07T20:00:20.2570814+00:00",
-  "LastChanged_Achievements": "2023-12-08T18:04:00.9525317+00:00",
+  "LastChanged_Achievements": "2023-12-08T19:04:09.395878+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:21.910323+00:00",
-  "LastUpdate_Ratings": "2023-12-08T18:00:34.5859594+00:00",
-  "LastUpdate_Achievements": "2023-12-08T18:04:00.9526471+00:00"
+  "LastUpdate_Ratings": "2023-12-08T19:00:53.885408+00:00",
+  "LastUpdate_Achievements": "2023-12-08T19:04:09.3960117+00:00"
 }
