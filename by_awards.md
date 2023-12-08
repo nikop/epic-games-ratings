@@ -16,7 +16,7 @@
 | 14 | [Destiny 2](games/d/destiny_2.md) | 39,732 | 4.49 | 615 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 37,508 | 4.51 | 575 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,315 | 4.64 | 336 |
-| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 25,000 | 4.76 | 131 |
+| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 25,029 | 4.76 | 131 |
 | 18 | [Dauntless](games/d/dauntless.md) | 24,475 | 4.53 | 548 |
 | 19 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 22,772 | 4.74 | 158 |
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 21,544 | 4.26 | 876 |
@@ -66,7 +66,7 @@
 | 63 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 6,003 | 4.69 | 231 |
 | 65 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,999 | 4.66 | 295 |
 | 66 | [Prey](games/p/prey.md) | 5,809 | 4.63 | 351 |
-| 67 | [Rogue Company](games/r/rogue_company.md) | 5,754 | 4.30 | 847 |
+| 67 | [Rogue Company](games/r/rogue_company.md) | 5,759 | 4.30 | 847 |
 | 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,752 | 4.68 | 258 |
 | 69 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,695 | 4.85 | 45 |
 | 70 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,600 | 4.06 | 991 |
@@ -91,7 +91,7 @@
 | 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,768 | 4.46 | 652 |
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,595 | 4.47 | 641 |
 | 91 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,480 | 4.35 | 796 |
-| 92 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,413 | 4.50 | 597 |
+| 92 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,426 | 4.50 | 597 |
 | 93 | [Hades](games/h/hades.md) | 3,411 | 4.92 | 4 |
 | 94 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,405 | 4.76 | 131 |
 | 95 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,393 | 4.68 | 258 |
@@ -263,8 +263,8 @@
 | 261 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 288 | 4.62 | 368 |
 | 262 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 279 | 4.49 | 615 |
 | 263 | [Sheltered](games/s/sheltered.md) | 276 | 4.42 | 717 |
-| 264 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 274 | 4.83 | 60 |
-| 265 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 270 | 4.83 | 60 |
+| 264 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 274 | 4.83 | 59 |
+| 265 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 270 | 4.83 | 59 |
 | 266 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 267 | 4.58 | 451 |
 | 267 | [Roller Champions™](games/r/roller_champions™.md) | 266 | 4.34 | 813 |
 | 268 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 261 | 4.45 | 666 |
@@ -485,7 +485,7 @@
 | 482 | [F1® 23](games/f/f1®_23_standard_edition.md) | 35 | 4.68 | 258 |
 | 482 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 198 |
 | 482 | [Outward Definitive Edition](games/o/outward.md) | 35 | 4.56 | 497 |
-| 482 | [TUNIC](games/t/tunic.md) | 35 | 4.83 | 60 |
+| 482 | [TUNIC](games/t/tunic.md) | 35 | 4.83 | 59 |
 | 487 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 34 | 4.24 | 894 |
 | 487 | [Chorus](games/c/chorus.md) | 34 | 4.46 | 652 |
 | 487 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.63 | 351 |
@@ -513,7 +513,7 @@
 | 510 | [God's Trigger](games/g/god's_trigger.md) | 28 | 4.15 | 957 |
 | 510 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 28 | 4.55 | 512 |
 | 510 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 28 | 4.43 | 696 |
-| 510 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.83 | 60 |
+| 510 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.83 | 59 |
 | 510 | [Tunche](games/t/tunche.md) | 28 | 4.45 | 666 |
 | 516 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 813 |
 | 516 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 27 | 4.20 | 921 |

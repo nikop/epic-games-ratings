@@ -58,16 +58,16 @@
 | 51 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 444 | 222 |
 | 51 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 558 |
 | 51 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.84 | 0 | 558 |
-| 51 | [WarmSnow](games/w/warmsnow.md) | 4.84 | 0 | 558 |
-| 60 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.83 | 0 | 558 |
-| 60 | [Coffee Talk](games/c/coffee_talk.md) | 4.83 | 0 | 558 |
-| 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 558 |
-| 60 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.83 | 0 | 558 |
-| 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 558 |
-| 60 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 274 | 264 |
-| 60 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.83 | 270 | 265 |
-| 60 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 28 | 510 |
-| 60 | [TUNIC](games/t/tunic.md) | 4.83 | 35 | 482 |
+| 59 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.83 | 0 | 558 |
+| 59 | [Coffee Talk](games/c/coffee_talk.md) | 4.83 | 0 | 558 |
+| 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 558 |
+| 59 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.83 | 0 | 558 |
+| 59 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 558 |
+| 59 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 274 | 264 |
+| 59 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.83 | 270 | 265 |
+| 59 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 28 | 510 |
+| 59 | [TUNIC](games/t/tunic.md) | 4.83 | 35 | 482 |
+| 59 | [WarmSnow](games/w/warmsnow.md) | 4.83 | 0 | 558 |
 | 69 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 558 |
 | 69 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 442 | 223 |
 | 69 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 6,177 | 61 |
@@ -135,7 +135,7 @@
 | 131 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,405 | 94 |
 | 131 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,105 | 145 |
 | 131 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,246 | 140 |
-| 131 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 25,000 | 17 |
+| 131 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 25,029 | 17 |
 | 131 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 5,220 | 71 |
 | 131 | [Journey](games/j/journey.md) | 4.76 | 0 | 558 |
 | 131 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 558 |
@@ -611,7 +611,7 @@
 | 597 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 911 | 161 |
 | 597 | [Solitairica](games/s/solitairica.md) | 4.50 | 89 | 383 |
 | 597 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 0 | 558 |
-| 597 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 3,413 | 92 |
+| 597 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 3,426 | 92 |
 | 597 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 69 | 406 |
 | 597 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.50 | 181 | 302 |
 | 615 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 65 | 411 |
@@ -850,7 +850,7 @@
 | 847 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.30 | 0 | 558 |
 | 847 | [ELEX II](games/e/elex_ii.md) | 4.30 | 0 | 558 |
 | 847 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 46 | 447 |
-| 847 | [Rogue Company](games/r/rogue_company.md) | 4.30 | 5,754 | 67 |
+| 847 | [Rogue Company](games/r/rogue_company.md) | 4.30 | 5,759 | 67 |
 | 852 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.29 | 0 | 558 |
 | 852 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 92 | 380 |
 | 852 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.29 | 41 | 460 |

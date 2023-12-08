@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.24% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.23% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -101,7 +101,7 @@
 | 99 | [The Complex](games/t/the_complex.md) | 3.18% |
 | 100 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 100 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
-| 102 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.11% |
+| 102 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.10% |
 | 103 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.09% |
 | 104 | [Doodle God](games/d/doodle_god.md) | 3.08% |
 | 104 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
@@ -133,8 +133,8 @@
 | 131 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.88% |
 | 131 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.88% |
 | 133 | [Somerville](games/s/somerville.md) | 1.86% |
+| 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.82% |
 | 134 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.82% |
-| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.81% |
 | 136 | [Sifu](games/s/sifu.md) | 1.80% |
 | 137 | [Frogun](games/f/frogun.md) | 1.77% |
 | 138 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.74% |
@@ -172,8 +172,8 @@
 | 170 | [Sable](games/s/sable.md) | 1.01% |
 | 171 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.97% |
 | 172 | [Trifox](games/t/trifox.md) | 0.96% |
-| 173 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
 | 173 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.94% |
+| 174 | [A Musical Story](games/a/a_musical_story.md) | 0.93% |
 | 175 | [Hades](games/h/hades.md) | 0.91% |
 | 176 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.89% |
 | 177 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.88% |
@@ -195,10 +195,10 @@
 | 192 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.60% |
 | 192 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.60% |
 | 192 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
+| 192 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.60% |
 | 192 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.60% |
 | 192 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.60% |
-| 198 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.59% |
-| 198 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
+| 199 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 200 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
 | 200 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 200 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.58% |
@@ -785,4 +785,4 @@
 | 371 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 371 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 371 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,686 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,689 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
