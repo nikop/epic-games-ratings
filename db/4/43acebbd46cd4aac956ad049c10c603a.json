@@ -2,12 +2,12 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 33,
+  "Ranking_Rating": 32,
   "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2682,8 +2682,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:06:31.6064821+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:06:21.4418106+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:59:49.5893046+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:06:31.6065291+00:00"
+  "LastUpdate_Ratings": "2023-12-08T11:00:03.2659879+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:06:21.4418586+00:00"
 }

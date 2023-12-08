@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -497,8 +497,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:04:28.6599425+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:04:15.2126818+00:00",
   "LastUpdate_AppInfo": "2023-12-04T11:56:57.3079922+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:58:41.025302+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:04:28.6599582+00:00"
+  "LastUpdate_Ratings": "2023-12-08T10:58:53.3120764+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:04:15.2127005+00:00"
 }

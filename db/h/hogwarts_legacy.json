@@ -2,12 +2,12 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 131,
+  "Ranking_Rating": 130,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11599,10 +11599,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 50201,
       "NumberOfAwardsMax": 25029
+    },
+    {
+      "Time": "2023-12-08T10:57:48.6551702+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50207,
+      "NumberOfAwardsMax": 25029
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50201,
+  "NumberOfAwards": 50207,
   "NumberOfAwardsMax": 25029,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11628,7 +11634,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1267
+      "Count": 1273
     },
     {
       "Text": "This game is Great for Beginners",
@@ -11679,9 +11685,9 @@
       "Count": 838
     }
   ],
-  "EOS_Progressed": 304070,
+  "EOS_Progressed": 304071,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36554,6 +36560,11 @@
       "Time": "2023-12-08T07:03:40.5126327+00:00",
       "NumProgressed": 304070,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-08T11:03:34.7812924+00:00",
+      "NumProgressed": 304071,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36589,7 +36600,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 36488
+      "UsersEstimate": 36489
     },
     {
       "ID": "PFA_13",
@@ -36621,7 +36632,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36488
+      "UsersEstimate": 36489
     },
     {
       "ID": "PFA_17",
@@ -36693,7 +36704,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36488
+      "UsersEstimate": 36489
     },
     {
       "ID": "PFA_25",
@@ -36749,7 +36760,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36488
+      "UsersEstimate": 36489
     },
     {
       "ID": "PFA_31",
@@ -36821,7 +36832,7 @@
       "Name": "Coasting Along",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36488
+      "UsersEstimate": 36489
     },
     {
       "ID": "PFA_4",
@@ -36893,7 +36904,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45610
+      "UsersEstimate": 45611
     },
     {
       "ID": "PFA_7",
@@ -36924,16 +36935,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304070,
+      "Progressed": 304071,
       "Completed": 525
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-08T09:57:39.1502377+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:03:48.6464166+00:00",
+  "LastChanged": "2023-12-08T10:57:48.65517+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:03:34.7812921+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:57:39.1502383+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:03:48.6465723+00:00"
+  "LastUpdate_Ratings": "2023-12-08T10:57:48.6551705+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:03:34.7814362+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1651,9 +1651,9 @@
       "ID": "ach_main10fire_freehorde",
       "SetID": "4hg22ll",
       "Name": "Unstoppable Horde",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 177
     },
     {
       "ID": "ach_main10fire_naga",
@@ -1675,9 +1675,9 @@
       "ID": "ach_main11blessing_ghostheroes",
       "SetID": "4hg22ll",
       "Name": "Ghost Pirates? Ghost Heroes!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 150
     },
     {
       "ID": "ach_main11blessing_undeadonly",
@@ -1914,8 +1914,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:09:03.3289413+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:08:33.1388095+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:57:13.6437881+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:09:03.3289886+00:00"
+  "LastUpdate_Ratings": "2023-12-08T10:57:22.0465439+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:08:33.1388536+00:00"
 }

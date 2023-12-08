@@ -4,7 +4,7 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -622,9 +622,9 @@
       "ID": "Librarian",
       "SetID": "6l18k14",
       "Name": "Librarian",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ProdigyOfAllTrades",
@@ -646,9 +646,9 @@
       "ID": "SelfSufficient",
       "SetID": "6l18k14",
       "Name": "Self-Sufficient",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SmarterThanA5thGrader",
@@ -695,8 +695,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:05:20.3561073+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:05:08.2036991+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:12.8936184+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:58:36.0998114+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:05:20.35612+00:00"
+  "LastUpdate_Ratings": "2023-12-08T10:58:48.2043972+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:05:08.2037124+00:00"
 }

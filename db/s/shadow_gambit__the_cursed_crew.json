@@ -2,12 +2,12 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 98,
+  "Ranking_Rating": 97,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -137,11 +137,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1033,
+  "EOS_Progressed": 1035,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.1,
+  "EOS_Completed_Percentage": 3.09,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3462,6 +3462,11 @@
       "Time": "2023-12-08T08:07:17.6476063+00:00",
       "NumProgressed": 1033,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-08T11:05:41.1442145+00:00",
+      "NumProgressed": 1035,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3474,7 +3479,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3482,7 +3487,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 671
+      "UsersEstimate": 673
     },
     {
       "ID": "_03_FinishAct1",
@@ -3490,7 +3495,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 518
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3498,7 +3503,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "_05_FinishAct2",
@@ -3506,7 +3511,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3522,7 +3527,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "_08_Completion_10",
@@ -3530,7 +3535,7 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "_09_Completion_20",
@@ -3538,7 +3543,7 @@
       "Name": "Powder Monkey",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "_10_Completion_30",
@@ -3546,7 +3551,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "_11_Completion_40",
@@ -3554,7 +3559,7 @@
       "Name": "Seadog",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "_12_Completion_50",
@@ -3562,7 +3567,7 @@
       "Name": "Privateer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "_13_Completion_60",
@@ -3594,7 +3599,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3618,7 +3623,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -3634,7 +3639,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -3642,7 +3647,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -3681,7 +3686,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1033,
+      "Progressed": 1035,
       "Completed": 32
     }
   ],
@@ -3689,8 +3694,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-07T17:58:37.8880323+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:05:52.0852017+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:05:41.1442141+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:58:42.4101692+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:05:52.0852367+00:00"
+  "LastUpdate_Ratings": "2023-12-08T10:58:54.5524925+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:05:41.1442521+00:00"
 }

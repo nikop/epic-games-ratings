@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8650,
+  "EOS_Progressed": 8652,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8249,6 +8249,11 @@
       "Time": "2023-12-08T10:09:56.5701102+00:00",
       "NumProgressed": 8650,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T11:09:27.7377418+00:00",
+      "NumProgressed": 8652,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8301,7 +8306,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "CreditsEarned50000",
@@ -8309,7 +8314,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "CreditsSpent50000",
@@ -8341,7 +8346,7 @@
       "Name": "Upgraded Energy Amplifier to Level 3",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "EEUpgraded1",
@@ -8349,7 +8354,7 @@
       "Name": "Upgraded Energy Expansion to Level 3",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "FGPurchased1",
@@ -8413,7 +8418,7 @@
       "Name": "Won 10 Matches",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "GamesWon100",
@@ -8477,7 +8482,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "HSUPurchased1",
@@ -8485,7 +8490,7 @@
       "Name": "Purchased Healing Station Ultimate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "HandCannonUpgraded1",
@@ -8517,7 +8522,7 @@
       "Name": "Upgraded Incoming Heal Boost to Level 3",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "IRPurchased1",
@@ -8525,7 +8530,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "InhibitorKills3",
@@ -8533,7 +8538,7 @@
       "Name": "Destroyed 3 Inhibitors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "InhibitorKills30",
@@ -8557,7 +8562,7 @@
       "Name": "Upgraded the Laser to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "MaxCreditsEarned50000",
@@ -8565,7 +8570,7 @@
       "Name": "Earned 50000 Credits in a single match",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "MaxCreditsSpent25000",
@@ -8661,7 +8666,7 @@
       "Name": "Upgraded Nanobot Infusion to Level 3",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "NUPurchased1",
@@ -8701,7 +8706,7 @@
       "Name": "100 Eliminations",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "PlayerKills1000",
@@ -8725,7 +8730,7 @@
       "Name": "Upgraded Quantum Armor to Level 3",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "QTUpgraded1",
@@ -8749,7 +8754,7 @@
       "Name": "Purchased Rapid Fire Support",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "RSPurchased1",
@@ -8797,7 +8802,7 @@
       "Name": "Upgraded the Shotgun to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "SniperUpgraded1",
@@ -8852,7 +8857,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8650,
+      "Progressed": 8652,
       "Completed": 1
     }
   ],
@@ -8860,8 +8865,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-05T02:57:10.0290174+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:09:56.5701098+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:09:27.7377414+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.1858441+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:58:39.878168+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:09:56.5701999+00:00"
+  "LastUpdate_Ratings": "2023-12-08T10:58:52.160277+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:09:27.737824+00:00"
 }

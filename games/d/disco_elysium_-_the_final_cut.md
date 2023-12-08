@@ -1,7 +1,7 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 26)  
+Rating: 4.87 (Ranked 25)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,14 +12,14 @@ Number of Ratings: 1,611  (23.09.2022)
 | Il Coppo Del'Arte! | 18.00% | ~23,710 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,076 |
 | Hyperstellar Law Official | 16.00% | ~21,076 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,441 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,441 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,442 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,442 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,124 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,490 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,172 |
 | Unbelievably Boring **** | 9.00% | ~11,855 |
 | Enemy Of The Physical Realm | 9.00% | ~11,855 |
-| Hardie's Heroes | 6.00% | ~7,903 |
+| Hardie's Heroes | 6.00% | ~7,904 |
 | The Lawbringer | 4.00% | ~5,269 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,269 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,952 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~132 |
 | What body? | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,724 (Ranked 83)  
+Progressed: 131,725 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 28 (0.02%) (Ranked 339)
 | 2023-12-05 | 131,657 | 28 |
 | 2023-12-06 | 131,683 | 28 |
 | 2023-12-07 | 131,714 | 28 |
-| 2023-12-08 | 131,724 | 28 |
+| 2023-12-08 | 131,725 | 28 |
 ## Awards
 Max (Character Customization): 739  (Ranked 183)  
 Sum: 1,130 (Ranked 255)  

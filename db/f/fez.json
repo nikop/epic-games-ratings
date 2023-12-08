@@ -2,12 +2,12 @@
   "ID": "41f47fd0d3e248bc938a5815d6d64daa",
   "Name": "Fez",
   "ProductSlug": "fez",
-  "Ranking_Rating": 171,
+  "Ranking_Rating": 170,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2013-04-13T15:00:00+00:00",
@@ -357,6 +357,6 @@
   "FirstSeen": "2022-07-22T20:21:13.418664+00:00",
   "LastChanged": "2023-12-05T16:58:59.1897127+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:12.9346714+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:59:52.1866849+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:06:32.1348842+00:00"
+  "LastUpdate_Ratings": "2023-12-08T11:00:05.8604739+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:06:21.9222093+00:00"
 }

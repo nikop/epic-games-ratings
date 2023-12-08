@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15975,
+  "EOS_Progressed": 15977,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13319,6 +13319,11 @@
       "Time": "2023-12-08T10:03:53.7548287+00:00",
       "NumProgressed": 15975,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-08T11:03:39.6068399+00:00",
+      "NumProgressed": 15977,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13379,7 +13384,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "16",
@@ -13395,7 +13400,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "18",
@@ -13571,7 +13576,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "32",
@@ -13610,13 +13615,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15975,
+      "Progressed": 15977,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1929,
+      "Progressed": 1931,
       "Completed": 843
     }
   ],
@@ -13624,8 +13629,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-07T17:57:36.8969362+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:03:53.7548284+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:03:39.6068395+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:57:51.2970689+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:03:53.7549086+00:00"
+  "LastUpdate_Ratings": "2023-12-08T10:58:01.6674756+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:03:39.6069146+00:00"
 }

@@ -1,30 +1,30 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.79 (Ranked 98)  
+Rating: 4.79 (Ranked 97)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 65.00% | ~671 |
-| The Adventure Begins | 50.00% | ~516 |
-| Swabbie | 39.00% | ~403 |
+| A New Journey | 65.00% | ~673 |
+| The Adventure Begins | 50.00% | ~518 |
+| Swabbie | 39.00% | ~404 |
 | With Great Power… | 38.00% | ~393 |
-| This Belongs in a Museum | 34.00% | ~351 |
-| The Gambit Has Begun | 31.00% | ~320 |
-| Somewhere Deep in the Lost Caribbean | 28.00% | ~289 |
-| Powder Monkey | 28.00% | ~289 |
+| This Belongs in a Museum | 34.00% | ~352 |
+| The Gambit Has Begun | 31.00% | ~321 |
+| Somewhere Deep in the Lost Caribbean | 28.00% | ~290 |
+| Powder Monkey | 28.00% | ~290 |
 | Mirror Mirror on the Wall | 27.00% | ~279 |
-| Pirates Assemble! | 25.00% | ~258 |
-| Buccaneer | 22.00% | ~227 |
+| Pirates Assemble! | 25.00% | ~259 |
+| Buccaneer | 22.00% | ~228 |
 | Fishy Fish | 21.00% | ~217 |
-| All Good Things | 19.00% | ~196 |
-| Seadog | 16.00% | ~165 |
-| Persistent Parasite | 16.00% | ~165 |
+| All Good Things | 19.00% | ~197 |
+| Seadog | 16.00% | ~166 |
+| Persistent Parasite | 16.00% | ~166 |
 | Jaded Judge | 12.00% | ~124 |
 | Rustic Recipe | 11.00% | ~114 |
-| Privateer | 10.00% | ~103 |
-| Tobacco Travesty | 10.00% | ~103 |
-| Accursed Artifacts | 10.00% | ~103 |
+| Privateer | 10.00% | ~104 |
+| Tobacco Travesty | 10.00% | ~104 |
+| Accursed Artifacts | 10.00% | ~104 |
 | Lyrical Longing | 9.00% | ~93 |
 | Corsair | 6.00% | ~62 |
 | Fully Decked | 6.00% | ~62 |
@@ -32,8 +32,8 @@ Rating: 4.79 (Ranked 98)
 | Marauder | 4.00% | ~41 |
 | Welcome Back Jester | 3.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,033 (Ranked 266)  
-Completed: 32 (3.10%) (Ranked 102)  
+Progressed: 1,035 (Ranked 266)  
+Completed: 32 (3.09%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -152,7 +152,7 @@ Completed: 32 (3.10%) (Ranked 102)
 | 2023-12-05 | 1,004 | 32 |
 | 2023-12-06 | 1,014 | 32 |
 | 2023-12-07 | 1,030 | 32 |
-| 2023-12-08 | 1,033 | 32 |
+| 2023-12-08 | 1,035 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

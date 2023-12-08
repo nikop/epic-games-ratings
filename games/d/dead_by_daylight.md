@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,574 |
-| Skillful | 2.00% | ~21,574 |
-| Handyman | 1.00% | ~10,787 |
-| Zealous | 1.00% | ~10,787 |
-| Not half bad | 1.00% | ~10,787 |
-| Apt Survivor | 1.00% | ~10,787 |
-| Survival Treasures | 1.00% | ~10,787 |
-| I | 1.00% | ~10,787 |
-| Sorted | 1.00% | ~10,787 |
-| Resurgence | 1.00% | ~10,787 |
-| Make Some Noise | 1.00% | ~10,787 |
-| No one left behind | 0.90% | ~9,708 |
-| Medic | 0.90% | ~9,708 |
-| Healthy Obsession | 0.90% | ~9,708 |
-| Preemptive Strike | 0.90% | ~9,708 |
-| The Grand Sacrifice | 0.80% | ~8,630 |
-| Perfect Escape | 0.80% | ~8,630 |
-| Bloody Millionaire | 0.80% | ~8,630 |
-| Humanitarian | 0.80% | ~8,630 |
-| Agonizing Escape | 0.70% | ~7,551 |
-| Backdoor Escape | 0.70% | ~7,551 |
-| I've got your back | 0.70% | ~7,551 |
-| Perfect Killing | 0.70% | ~7,551 |
-| Risk it all | 0.70% | ~7,551 |
-| II | 0.70% | ~7,551 |
-| Engineer | 0.70% | ~7,551 |
-| Close Shave | 0.70% | ~7,551 |
-| Apt Killer | 0.60% | ~6,472 |
-| III | 0.60% | ~6,472 |
-| Wounded Healer | 0.60% | ~6,472 |
+| It wakes | 2.00% | ~21,576 |
+| Skillful | 2.00% | ~21,576 |
+| Handyman | 1.00% | ~10,788 |
+| Zealous | 1.00% | ~10,788 |
+| Not half bad | 1.00% | ~10,788 |
+| Apt Survivor | 1.00% | ~10,788 |
+| Survival Treasures | 1.00% | ~10,788 |
+| I | 1.00% | ~10,788 |
+| Sorted | 1.00% | ~10,788 |
+| Resurgence | 1.00% | ~10,788 |
+| Make Some Noise | 1.00% | ~10,788 |
+| No one left behind | 0.90% | ~9,709 |
+| Medic | 0.90% | ~9,709 |
+| Healthy Obsession | 0.90% | ~9,709 |
+| Preemptive Strike | 0.90% | ~9,709 |
+| The Grand Sacrifice | 0.80% | ~8,631 |
+| Perfect Escape | 0.80% | ~8,631 |
+| Bloody Millionaire | 0.80% | ~8,631 |
+| Humanitarian | 0.80% | ~8,631 |
+| Agonizing Escape | 0.70% | ~7,552 |
+| Backdoor Escape | 0.70% | ~7,552 |
+| I've got your back | 0.70% | ~7,552 |
+| Perfect Killing | 0.70% | ~7,552 |
+| Risk it all | 0.70% | ~7,552 |
+| II | 0.70% | ~7,552 |
+| Engineer | 0.70% | ~7,552 |
+| Close Shave | 0.70% | ~7,552 |
+| Apt Killer | 0.60% | ~6,473 |
+| III | 0.60% | ~6,473 |
+| Wounded Healer | 0.60% | ~6,473 |
 | Escape Artist | 0.50% | ~5,394 |
 | Vulture | 0.50% | ~5,394 |
 | First to the Punch | 0.50% | ~5,394 |
@@ -44,9 +44,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Lifting The Fog | 0.50% | ~5,394 |
 | Second Act | 0.50% | ~5,394 |
 | Blood on your hands | 0.40% | ~4,315 |
+| Made it out alive! | 0.40% | ~4,315 |
 | Nerves of steel | 0.40% | ~4,315 |
 | Gifts for the Fog | 0.40% | ~4,315 |
 | III-50 | 0.40% | ~4,315 |
+| All Aboard | 0.40% | ~4,315 |
 | Item of Obsession | 0.40% | ~4,315 |
 | Holiday Get-Together | 0.40% | ~4,315 |
 | Near-Death Experience | 0.40% | ~4,315 |
@@ -61,9 +63,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 0.40% | ~4,315 |
 | A bite for the Entity | 0.30% | ~3,236 |
 | Blood on your face | 0.30% | ~3,236 |
-| Made it out alive! | 0.30% | ~3,236 |
 | Shock Therapy | 0.30% | ~3,236 |
-| All Aboard | 0.30% | ~3,236 |
 | Leapfrog | 0.30% | ~3,236 |
 | House of Pain | 0.30% | ~3,236 |
 | Cottage Owner | 0.30% | ~3,236 |
@@ -81,28 +81,29 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.30% | ~3,236 |
 | MU/TH/UR Dearest | 0.30% | ~3,236 |
 | Outta Nowhere | 0.30% | ~3,236 |
-| Blood in your mouth | 0.20% | ~2,157 |
-| Jump Scares | 0.20% | ~2,157 |
-| Hemophobia | 0.20% | ~2,157 |
-| Deep Cleansing | 0.20% | ~2,157 |
-| Texas BBQ | 0.20% | ~2,157 |
-| Serial Killer | 0.20% | ~2,157 |
-| Game Over | 0.20% | ~2,157 |
-| Party Crasher | 0.20% | ~2,157 |
-| Whiffing to Success | 0.20% | ~2,157 |
-| Outrage | 0.20% | ~2,157 |
-| Heavy Burden | 0.20% | ~2,157 |
-| Broken Bodies | 0.20% | ~2,157 |
-| Selfless Survival | 0.20% | ~2,157 |
-| I See You | 0.20% | ~2,157 |
-| Power Moves | 0.20% | ~2,157 |
-| Insult and Injury | 0.20% | ~2,157 |
-| Punch Drunk | 0.20% | ~2,157 |
-| Triage | 0.20% | ~2,157 |
-| High Speed Pursuit | 0.20% | ~2,157 |
-| Rebuilding The Borgo | 0.20% | ~2,157 |
-| Complete the Evolution | 0.20% | ~2,157 |
-| Joke’s On You | 0.20% | ~2,157 |
+| Blood in your mouth | 0.20% | ~2,158 |
+| Jump Scares | 0.20% | ~2,158 |
+| Hemophobia | 0.20% | ~2,158 |
+| Deep Cleansing | 0.20% | ~2,158 |
+| Texas BBQ | 0.20% | ~2,158 |
+| Serial Killer | 0.20% | ~2,158 |
+| Game Over | 0.20% | ~2,158 |
+| Party Crasher | 0.20% | ~2,158 |
+| Whiffing to Success | 0.20% | ~2,158 |
+| Outrage | 0.20% | ~2,158 |
+| Heavy Burden | 0.20% | ~2,158 |
+| Broken Bodies | 0.20% | ~2,158 |
+| Selfless Survival | 0.20% | ~2,158 |
+| I See You | 0.20% | ~2,158 |
+| Power Moves | 0.20% | ~2,158 |
+| Insult and Injury | 0.20% | ~2,158 |
+| Punch Drunk | 0.20% | ~2,158 |
+| Prowler | 0.20% | ~2,158 |
+| Triage | 0.20% | ~2,158 |
+| High Speed Pursuit | 0.20% | ~2,158 |
+| Rebuilding The Borgo | 0.20% | ~2,158 |
+| Complete the Evolution | 0.20% | ~2,158 |
+| Joke’s On You | 0.20% | ~2,158 |
 | A feast for the Entity | 0.10% | ~1,079 |
 | Cripple them all | 0.10% | ~1,079 |
 | The Grind | 0.10% | ~1,079 |
@@ -202,7 +203,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Bless You | 0.10% | ~1,079 |
 | Adept Mikaela | 0.10% | ~1,079 |
 | Caws of Death | 0.10% | ~1,079 |
-| Prowler | 0.10% | ~1,079 |
 | Adept Artist | 0.10% | ~1,079 |
 | Adept Jonah | 0.10% | ~1,079 |
 | Viral Video | 0.10% | ~1,079 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,079 |
 | Adept Good Guy | 0.10% | ~1,079 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,078,712 (Ranked 14)  
+Progressed: 1,078,813 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -471,7 +471,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
 | 2023-12-07 | 1,077,876 | 61 |
-| 2023-12-08 | 1,078,712 | 61 |
+| 2023-12-08 | 1,078,813 | 61 |
 ## Awards
 Max (Diverse Characters): 37,508  (Ranked 15)  
 Sum: 284,404 (Ranked 12)  

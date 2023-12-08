@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 915,
+  "EOS_Progressed": 916,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.06,
   "EosHistory": [
@@ -3399,6 +3399,11 @@
       "Time": "2023-12-08T10:05:06.7038022+00:00",
       "NumProgressed": 915,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-08T11:04:54.6403993+00:00",
+      "NumProgressed": 916,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 28,
@@ -3450,7 +3455,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "MQ03_1",
@@ -3474,7 +3479,7 @@
       "Name": "History Check",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "MQ03_4",
@@ -3506,7 +3511,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "MQ04_3",
@@ -3514,7 +3519,7 @@
       "Name": "The New World",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "MQ05_1",
@@ -3562,7 +3567,7 @@
       "Name": "Bookworm",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "MQ06_3",
@@ -3602,7 +3607,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MQ08_2",
@@ -3610,7 +3615,7 @@
       "Name": "Up In Flames",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "MQ08_3",
@@ -3618,7 +3623,7 @@
       "Name": "Fhtagn!",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "PLTN",
@@ -3633,7 +3638,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 915,
+      "Progressed": 916,
       "Completed": 28
     }
   ],
@@ -3641,8 +3646,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-26T10:02:59.0802972+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:05:06.7037977+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:04:54.640399+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:20.5690478+00:00",
-  "LastUpdate_Ratings": "2023-12-08T10:03:06.9686671+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:05:06.7038354+00:00"
+  "LastUpdate_Ratings": "2023-12-08T11:02:50.1758063+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:04:54.6404371+00:00"
 }

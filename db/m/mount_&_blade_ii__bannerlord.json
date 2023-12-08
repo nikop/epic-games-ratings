@@ -2,12 +2,12 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 158,
+  "Ranking_Rating": 157,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -9534,9 +9534,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67336,
+  "EOS_Progressed": 67338,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34034,6 +34034,11 @@
       "Time": "2023-12-08T10:09:53.8794085+00:00",
       "NumProgressed": 67336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T11:09:25.0147902+00:00",
+      "NumProgressed": 67338,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34237,7 +34242,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12120
+      "UsersEstimate": 12121
     },
     {
       "ID": "Kingslayer",
@@ -34269,7 +34274,7 @@
       "Name": "Landlord",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 22894
+      "UsersEstimate": 22895
     },
     {
       "ID": "Lawbringer",
@@ -34277,7 +34282,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26934
+      "UsersEstimate": 26935
     },
     {
       "ID": "Lawmaker",
@@ -34437,7 +34442,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2694
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -34452,15 +34457,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67336,
+      "Progressed": 67338,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-08T01:45:28.2915528+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:09:53.8794082+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:09:25.0147898+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:57:19.373033+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:09:53.8795223+00:00"
+  "LastUpdate_Ratings": "2023-12-08T10:57:28.1832772+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:09:25.0149337+00:00"
 }

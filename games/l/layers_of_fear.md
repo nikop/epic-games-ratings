@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 79.00% | ~84 |
+| Something important | 79.00% | ~85 |
 | Wanderer | 78.00% | ~83 |
 | A piece of the story | 60.00% | ~64 |
 | It's covered up for a reason | 45.00% | ~48 |
 | Do what you have to | 45.00% | ~48 |
 | The artist’s impression | 45.00% | ~48 |
 | Scraps of love | 44.00% | ~47 |
-| Refuse to look | 39.00% | ~41 |
-| Sign of weakness | 38.00% | ~40 |
+| Refuse to look | 38.00% | ~41 |
+| Sign of weakness | 37.00% | ~40 |
 | Finished it | 33.00% | ~35 |
 | Face your fears | 28.00% | ~30 |
 | Whispers long forgotten | 18.00% | ~19 |
@@ -29,8 +29,8 @@
 | Sound Bite | 10.00% | ~11 |
 | Lights! Camera! Action! | 10.00% | ~11 |
 | Another perspective | 9.00% | ~10 |
-| Casting Finished | 8.00% | ~8 |
-| Heavy Burden | 8.00% | ~8 |
+| Heavy Burden | 8.00% | ~9 |
+| Casting Finished | 7.00% | ~7 |
 | We Are Not Alone | 6.00% | ~6 |
 | Fisherman | 6.00% | ~6 |
 | I remember It Like Was Yesterday | 4.00% | ~4 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 435)  
+Progressed: 107 (Ranked 434)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,3 +106,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-04 | 104 | 0 |
 | 2023-12-06 | 105 | 0 |
 | 2023-12-07 | 106 | 0 |
+| 2023-12-08 | 107 | 0 |

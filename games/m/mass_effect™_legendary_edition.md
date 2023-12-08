@@ -34,8 +34,8 @@
 | Head Hunter | 41.00% | ~627 |
 | Scholar | 41.00% | ~627 |
 | Operative | 40.00% | ~612 |
+| Veteran | 39.00% | ~596 |
 | The Professor | 39.00% | ~596 |
-| Veteran | 38.00% | ~581 |
 | The Archangel | 38.00% | ~581 |
 | Power Full | 37.00% | ~566 |
 | The Convict | 36.00% | ~550 |
@@ -128,9 +128,9 @@
 | Tactician | 3.00% | ~46 |
 | Stasis Mastery | 2.00% | ~31 |
 | AI Hacking Specialist | 2.00% | ~31 |
+| Neural Shock Specialist | 2.00% | ~31 |
 | The One and Only | 1.00% | ~15 |
 | Insanity III | 1.00% | ~15 |
-| Neural Shock Specialist | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,529 (Ranked 242)  
 Completed: 7 (0.46%) (Ranked 215)  

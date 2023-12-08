@@ -14,15 +14,15 @@
 | Byoing | 9.00% | ~33 |
 | 2nd Grade | 3.00% | ~11 |
 | Full House | 1.00% | ~4 |
+| Self-Sufficient | 1.00% | ~4 |
 | 3rd Grade | 1.00% | ~4 |
-| Self-Sufficient | 0.80% | ~3 |
 | "A" Student | 0.50% | ~2 |
 | 4th Grade | 0.30% | ~1 |
+| Librarian | 0.30% | ~1 |
 | Prodigy of all Trades | 0.30% | ~1 |
 | "A+" Student | 0.00% | ~0 |
 | 5th Grade | 0.00% | ~0 |
 | Graduated | 0.00% | ~0 |
-| Librarian | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 371 (Ranked 336)  
 Completed: 0 (0.00%) (Ranked 371)  

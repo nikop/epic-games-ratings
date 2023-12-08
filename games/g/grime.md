@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 440)  
+Rating: 4.59 (Ranked 441)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,6 +11,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 0.50% | ~808 |
 | Weeper | 0.40% | ~647 |
 | Ravenous | 0.40% | ~647 |
+| Scion | 0.20% | ~322 |
 | Harmless | 0.20% | ~323 |
 | Jawcrab | 0.20% | ~323 |
 | Jawstag | 0.20% | ~323 |
@@ -29,7 +30,6 @@ Number of Ratings: 46  (23.09.2022)
 | Hunt Down | 0.10% | ~162 |
 | Artisan | 0.10% | ~162 |
 | Shapely | 0.10% | ~162 |
-| Scion | 0.10% | ~161 |
 | Glare | 0.10% | ~161 |
 | Host | 0.10% | ~161 |
 | Hush | 0.10% | ~162 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~161 |
 | Intensify | 0.10% | ~161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 161,663 (Ranked 78)  
+Progressed: 161,666 (Ranked 78)  
 Completed: 249 (0.15%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 249 (0.15%) (Ranked 274)
 | 2023-12-05 | 161,376 | 205 |
 | 2023-12-06 | 161,491 | 218 |
 | 2023-12-07 | 161,604 | 237 |
-| 2023-12-08 | 161,663 | 249 |
+| 2023-12-08 | 161,666 | 249 |
 ## Awards
 Max (Unique Visuals): 55  (Ranked 423)  
 Sum: 398 (Ranked 346)  

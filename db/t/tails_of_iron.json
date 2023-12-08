@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2222,
+  "EOS_Progressed": 2223,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3867,6 +3867,11 @@
       "Time": "2023-12-07T19:04:53.597048+00:00",
       "NumProgressed": 2222,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-08T11:04:54.8311702+00:00",
+      "NumProgressed": 2223,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3878,7 +3883,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "Collect20Gold",
@@ -3886,7 +3891,7 @@
       "Name": "Collect Gold",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "Collect20Iron",
@@ -3958,7 +3963,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3982,7 +3987,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "DefeatMoziQueen",
@@ -3990,7 +3995,7 @@
       "Name": "End of the Mozis",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -4054,7 +4059,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "MeetTheMoles",
@@ -4086,7 +4091,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "RepairThroneRoom",
@@ -4100,9 +4105,9 @@
       "ID": "RescueBrothers",
       "SetID": "9lj35g4",
       "Name": "Rescue Redgi\u0027s Brothers",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1156
     },
     {
       "ID": "ReturnPowerInMines",
@@ -4117,22 +4122,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2222,
+      "Progressed": 2223,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 863,
-      "Completed": 863
+      "Progressed": 864,
+      "Completed": 864
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:05:06.9049127+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:04:54.8311699+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:26.7928423+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:57:57.0270207+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:05:06.9049485+00:00"
+  "LastUpdate_Ratings": "2023-12-08T10:58:07.5225522+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:04:54.8312097+00:00"
 }

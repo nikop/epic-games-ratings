@@ -154,9 +154,9 @@
       "ID": "ACH_FIRSTDEATH",
       "SetID": "ch874lb",
       "Name": "Strength in Defeat",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FIRSTLEGENDARYLOOT",
@@ -178,9 +178,9 @@
       "ID": "ACH_FIRSTSKINCHANGE",
       "SetID": "ch874lb",
       "Name": "A Good Paint Job",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIRSTUPGRADE",
@@ -361,8 +361,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:09:18.9612049+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:08:49.3800241+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:12.6917781+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:59:51.7135944+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:09:18.9612244+00:00"
+  "LastUpdate_Ratings": "2023-12-08T11:00:05.3731328+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:08:49.3800393+00:00"
 }

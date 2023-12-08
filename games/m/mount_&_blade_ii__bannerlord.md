@@ -1,19 +1,19 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 158)  
+Rating: 4.74 (Ranked 157)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,934 |
-| Landlord | 34.00% | ~22,894 |
+| Lawbringer | 40.00% | ~26,935 |
+| Landlord | 34.00% | ~22,895 |
 | Bannerlord | 24.00% | ~16,161 |
 | Horde breaker | 24.00% | ~16,161 |
 | Lawmaker | 24.00% | ~16,161 |
 | Trained | 24.00% | ~16,161 |
 | The king is pleased | 19.00% | ~12,794 |
-| King Solomon | 18.00% | ~12,120 |
+| King Solomon | 18.00% | ~12,121 |
 | Apple of my eye | 16.00% | ~10,774 |
 | I can do it | 16.00% | ~10,774 |
 | This Is Our Land | 14.00% | ~9,427 |
@@ -30,7 +30,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crowdfunded | 5.00% | ~3,367 |
 | Crush your enemies | 5.00% | ~3,367 |
 | My way | 5.00% | ~3,367 |
-| Veni vidi vici | 4.00% | ~2,693 |
+| Veni vidi vici | 4.00% | ~2,694 |
 | Freedom! | 3.00% | ~2,020 |
 | Long live the Empire! | 3.00% | ~2,020 |
 | Real Estate | 3.00% | ~2,020 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,336 (Ranked 104)  
+Progressed: 67,338 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-05 | 67,170 | 0 |
 | 2023-12-06 | 67,239 | 0 |
 | 2023-12-07 | 67,320 | 0 |
-| 2023-12-08 | 67,336 | 0 |
+| 2023-12-08 | 67,338 | 0 |
 ## Awards
 Max (Character Customization): 7,518  (Ranked 53)  
 Sum: 15,663 (Ranked 68)  

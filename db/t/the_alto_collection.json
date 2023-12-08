@@ -2,12 +2,12 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 198,
+  "Ranking_Rating": 197,
   "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -862,9 +862,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 49313,
+  "EOS_Progressed": 49314,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 967,
+  "EOS_NewPlayers": 962,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27122,6 +27122,11 @@
       "Time": "2023-12-08T10:05:05.6655696+00:00",
       "NumProgressed": 49313,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-08T11:04:53.5904966+00:00",
+      "NumProgressed": 49314,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -27157,7 +27162,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5424
+      "UsersEstimate": 5425
     },
     {
       "ID": "distance500000",
@@ -27357,7 +27362,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5424
+      "UsersEstimate": 5425
     },
     {
       "ID": "ultimate",
@@ -27444,15 +27449,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 49313,
+      "Progressed": 49314,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-12-06T14:57:09.4636438+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:05:05.6655692+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:04:53.5904963+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:54.929935+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:58:05.0283861+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:05:05.6657168+00:00"
+  "LastUpdate_Ratings": "2023-12-08T10:58:15.9084385+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:04:53.5906575+00:00"
 }

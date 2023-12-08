@@ -13,16 +13,16 @@ Number of Ratings: 285  (23.09.2022)
 | That'll Leave a Mark | 24.00% | ~1,294 |
 | Mushroom Madness! | 22.00% | ~1,186 |
 | First Strike | 19.00% | ~1,024 |
-| Spending Spree | 18.00% | ~970 |
-| Horder Better Faster Stronger | 17.00% | ~916 |
+| Spending Spree | 18.00% | ~971 |
+| Horder Better Faster Stronger | 17.00% | ~917 |
 | Ten Steps from the Grave | 15.00% | ~809 |
 | Everything Must Go! | 14.00% | ~755 |
 | Next Time on MythForce... | 14.00% | ~755 |
 | Cold-Blooded Critters | 10.00% | ~539 |
 | Death Becomes You | 8.00% | ~431 |
 | Flawless Victory | 7.00% | ~377 |
-| The Harder They Fall | 6.00% | ~323 |
-| On this Episode! | 6.00% | ~323 |
+| The Harder They Fall | 6.00% | ~324 |
+| On this Episode! | 6.00% | ~324 |
 | Deadication | 4.00% | ~216 |
 | Season Finale | 4.00% | ~216 |
 | We've Got a Kaiju on the Field | 3.00% | ~162 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.50% | ~27 |
 | Deadalus and Loving It | 0.20% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,391 (Ranked 190)  
+Progressed: 5,392 (Ranked 190)  
 Completed: 4 (0.07%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 4 (0.07%) (Ranked 308)
 | 2023-12-05 | 5,355 | 4 |
 | 2023-12-06 | 5,371 | 4 |
 | 2023-12-07 | 5,387 | 4 |
-| 2023-12-08 | 5,391 | 4 |
+| 2023-12-08 | 5,392 | 4 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 478)  
 Sum: 291 (Ranked 370)  

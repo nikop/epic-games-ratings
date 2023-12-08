@@ -32,13 +32,13 @@
 | Mana Cannon | 41.00% | ~219 |
 | Tanos' Crusade Against Thalya | 41.00% | ~219 |
 | All’s Well That Ends Evil | 35.00% | ~187 |
+| Unstoppable Horde | 33.00% | ~177 |
 | The Duel | 33.00% | ~177 |
-| Unstoppable Horde | 32.00% | ~171 |
 | Master of the Undead | 32.00% | ~171 |
 | If Looks Could Kill | 29.00% | ~155 |
+| Ghost Pirates? Ghost Heroes! | 28.00% | ~150 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~144 |
 | Forbidden Knowledge | 27.00% | ~144 |
-| Ghost Pirates? Ghost Heroes! | 27.00% | ~144 |
 | Hungry, Hungry Gorgu! | 26.00% | ~139 |
 | The Finitude Drill | 26.00% | ~139 |
 | Stop Tanos! | 23.00% | ~123 |

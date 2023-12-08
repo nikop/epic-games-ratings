@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1245,
+  "EOS_Progressed": 1246,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -4384,6 +4384,11 @@
       "Time": "2023-12-07T20:09:28.4633842+00:00",
       "NumProgressed": 1245,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T11:09:25.9809778+00:00",
+      "NumProgressed": 1246,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4563,7 +4568,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "elemental_stones_2",
@@ -4803,7 +4808,7 @@
       "Name": "Sophisticated Alchemist 1",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -4922,14 +4927,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1245,
+      "Progressed": 1246,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:09:54.7887816+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:09:25.9809774+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.3284719+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:58:52.2836844+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:09:54.7888427+00:00"
+  "LastUpdate_Ratings": "2023-12-08T10:59:04.5547836+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:09:25.9810385+00:00"
 }

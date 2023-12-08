@@ -5,22 +5,22 @@ Rating: 4.43 (Ranked 695)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,873 |
-| Confirming Suspicions | 41.00% | ~1,634 |
+| Meeting Resistance | 47.00% | ~1,874 |
+| Confirming Suspicions | 41.00% | ~1,635 |
 | The Kraken Wakes | 37.00% | ~1,475 |
-| It's Starting to Crack | 34.00% | ~1,355 |
+| It's Starting to Crack | 34.00% | ~1,356 |
 | Lord of War | 31.00% | ~1,236 |
 | Change the Channel | 31.00% | ~1,236 |
 | Taking it back | 29.00% | ~1,156 |
 | Resourceful | 27.00% | ~1,076 |
 | Target America | 27.00% | ~1,076 |
-| The Kraken Sleeps | 25.00% | ~996 |
+| The Kraken Sleeps | 25.00% | ~997 |
 | As Quiet as a Mouse | 24.00% | ~957 |
 | Liberté | 23.00% | ~917 |
 | Organ Grinder | 23.00% | ~917 |
 | Sharpshooter | 23.00% | ~917 |
-| Gunslinger | 19.00% | ~757 |
-| Explosive Efficiency | 19.00% | ~757 |
+| Gunslinger | 19.00% | ~758 |
+| Explosive Efficiency | 19.00% | ~758 |
 | Climbing the Ladder | 17.00% | ~678 |
 | Just a Flesh Wound | 17.00% | ~678 |
 | Der Geist | 17.00% | ~678 |
@@ -72,12 +72,12 @@ Rating: 4.43 (Ranked 695)
 | Das Familienjuwel | 1.00% | ~39 |
 | Master of Rifles | 0.90% | ~36 |
 | Master of Pistols | 0.80% | ~32 |
-| Operation Overlord | 0.80% | ~31 |
+| Operation Overlord | 0.80% | ~32 |
 | Master-at-arms | 0.70% | ~28 |
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,986 (Ranked 198)  
+Progressed: 3,987 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,6 +307,7 @@ Completed: 11 (0.28%) (Ranked 245)
 | 2023-12-05 | 3,981 | 11 |
 | 2023-12-06 | 3,983 | 11 |
 | 2023-12-07 | 3,986 | 11 |
+| 2023-12-08 | 3,987 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 510)  
 Sum: 28 (Ranked 525)  

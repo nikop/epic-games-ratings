@@ -1,20 +1,20 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 131)  
+Rating: 4.76 (Ranked 130)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,651 |
-| First Class Student | 15.00% | ~45,610 |
+| First Class Student | 15.00% | ~45,611 |
 | Troll with the Punches | 14.00% | ~42,570 |
 | A Keen Sense of Spell | 13.00% | ~39,529 |
 | That's a Keeper | 13.00% | ~39,529 |
-| The Hallowed Hero | 12.00% | ~36,488 |
-| The Defender of Dragons | 12.00% | ~36,488 |
-| Loom for Improvement | 12.00% | ~36,488 |
-| A Talent for Spending | 12.00% | ~36,488 |
-| Coasting Along | 12.00% | ~36,488 |
+| The Hallowed Hero | 12.00% | ~36,489 |
+| The Defender of Dragons | 12.00% | ~36,489 |
+| Loom for Improvement | 12.00% | ~36,489 |
+| A Talent for Spending | 12.00% | ~36,489 |
+| Coasting Along | 12.00% | ~36,489 |
 | Grappling with a Graphorn | 11.00% | ~33,448 |
 | The One Who Mastered Memories | 11.00% | ~33,448 |
 | The Hero of Hogwarts | 11.00% | ~33,448 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 131)
 | The Nature of the Beast | 0.70% | ~2,128 |
 | Collector's Edition | 0.40% | ~1,216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,070 (Ranked 54)  
+Progressed: 304,071 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,10 +283,10 @@ Completed: 525 (0.17%) (Ranked 270)
 | 2023-12-05 | 303,976 | 521 |
 | 2023-12-06 | 304,019 | 523 |
 | 2023-12-07 | 304,059 | 525 |
-| 2023-12-08 | 304,070 | 525 |
+| 2023-12-08 | 304,071 | 525 |
 ## Awards
 Max (Character Customization): 25,029  (Ranked 17)  
-Sum: 50,201 (Ranked 30)  
+Sum: 50,207 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -297,7 +297,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 1,344 |
 | This game is Extremely Fun | 1,309 |
 | This game is Relaxing | 1,304 |
-| This game has Amazing Characters | 1,267 |
+| This game has Amazing Characters | 1,273 |
 | This game is Highly Recommended | 1,250 |
 | This game has Quickly Understood Controls | 1,208 |
 | This game has Beautiful Visuals | 1,085 |
@@ -564,4 +564,4 @@ Diff (max vs sum): -13
 | 2023-12-05 | 4.76 | 24,947 | 49,982 |
 | 2023-12-06 | 4.76 | 24,977 | 50,057 |
 | 2023-12-07 | 4.76 | 25,000 | 50,137 |
-| 2023-12-08 | 4.76 | 25,029 | 50,201 |
+| 2023-12-08 | 4.76 | 25,029 | 50,207 |

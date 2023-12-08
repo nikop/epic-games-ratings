@@ -3433,10 +3433,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 5519,
       "NumberOfAwardsMax": 1699
+    },
+    {
+      "Time": "2023-12-08T11:02:51.2785949+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 5521,
+      "NumberOfAwardsMax": 1699
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5519,
+  "NumberOfAwards": 5521,
   "NumberOfAwardsMax": 1699,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3510,7 +3516,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 423
+      "Count": 425
     }
   ],
   "EOS_Progressed": 9556,
@@ -10809,9 +10815,9 @@
       "ID": "ach03",
       "SetID": "47in8n6",
       "Name": "A New Timeline",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 4491
+      "UsersEstimate": 4587
     },
     {
       "ID": "ach04",
@@ -11201,9 +11207,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-12-08T03:02:58.5174834+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:05:26.7675653+00:00",
+  "LastChanged": "2023-12-08T11:02:51.2785947+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:05:14.8258196+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:13.7403672+00:00",
-  "LastUpdate_Ratings": "2023-12-08T10:03:07.985472+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:05:26.7676343+00:00"
+  "LastUpdate_Ratings": "2023-12-08T11:02:51.2785951+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:05:14.8258894+00:00"
 }

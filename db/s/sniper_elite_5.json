@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 3986,
+  "EOS_Progressed": 3987,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8477,6 +8477,11 @@
       "Time": "2023-12-07T21:08:06.226433+00:00",
       "NumProgressed": 3986,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-08T11:06:30.1289965+00:00",
+      "NumProgressed": 3987,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8568,7 +8573,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8608,7 +8613,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8656,7 +8661,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8688,7 +8693,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8800,7 +8805,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8896,7 +8901,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -9000,7 +9005,7 @@
       "Name": "Operation Overlord",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_DLC03_01_IF_YOU_GO_DOWN_TO_THE_WOODS_TODAY",
@@ -9055,13 +9060,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3937,
+      "Progressed": 3938,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3986,
+      "Progressed": 3987,
       "Completed": 11
     }
   ],
@@ -9069,8 +9074,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-07T15:59:27.2603128+00:00",
-  "LastChanged_Achievements": "2023-12-08T10:08:31.283808+00:00",
+  "LastChanged_Achievements": "2023-12-08T11:06:30.1289961+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.4601542+00:00",
-  "LastUpdate_Ratings": "2023-12-08T09:59:30.4034385+00:00",
-  "LastUpdate_Achievements": "2023-12-08T10:08:31.2838827+00:00"
+  "LastUpdate_Ratings": "2023-12-08T10:59:43.7590025+00:00",
+  "LastUpdate_Achievements": "2023-12-08T11:06:30.1290895+00:00"
 }
