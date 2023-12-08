@@ -1559,9 +1559,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 7154,
+  "EOS_Progressed": 7155,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -14204,6 +14204,11 @@
       "Time": "2023-12-07T23:06:16.255615+00:00",
       "NumProgressed": 7154,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-08T00:08:04.8712604+00:00",
+      "NumProgressed": 7155,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -14223,7 +14228,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3720
+      "UsersEstimate": 3721
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -14247,7 +14252,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4793
+      "UsersEstimate": 4794
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -14255,7 +14260,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5437
+      "UsersEstimate": 5438
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -14263,7 +14268,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5222
+      "UsersEstimate": 5223
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -14287,7 +14292,7 @@
       "Name": "Oh Deer!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -14335,7 +14340,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 4364
+      "UsersEstimate": 4365
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -14359,7 +14364,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -14391,7 +14396,7 @@
       "Name": "Heating Up",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2290
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -14399,7 +14404,7 @@
       "Name": "Winter Is Here",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -14415,7 +14420,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4007
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -14431,7 +14436,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3219
+      "UsersEstimate": 3220
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -14447,7 +14452,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -14462,15 +14467,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7154,
+      "Progressed": 7155,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-06T20:00:19.1680052+00:00",
-  "LastChanged_Achievements": "2023-12-07T23:06:16.2556145+00:00",
+  "LastChanged_Achievements": "2023-12-08T00:08:04.8712601+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:34.6501981+00:00",
-  "LastUpdate_Ratings": "2023-12-07T22:57:19.542819+00:00",
-  "LastUpdate_Achievements": "2023-12-07T23:06:16.2557261+00:00"
+  "LastUpdate_Ratings": "2023-12-07T23:57:39.6797139+00:00",
+  "LastUpdate_Achievements": "2023-12-08T00:08:04.8713321+00:00"
 }

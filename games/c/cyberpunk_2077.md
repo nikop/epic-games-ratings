@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,639 |
-| Gun Fu | 7.00% | ~68,040 |
+| V for Vendetta | 12.00% | ~116,641 |
+| Gun Fu | 7.00% | ~68,041 |
 | The Fool | 6.00% | ~58,320 |
 | Right Back At Ya | 5.00% | ~48,600 |
 | The Lovers | 4.00% | ~38,880 |
@@ -44,11 +44,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Autojock | 0.40% | ~3,888 |
 | Must Be Rats | 0.40% | ~3,888 |
 | Breathtaking | 0.40% | ~3,888 |
-| The APB is Not Enough | 0.40% | ~402 |
-| Judgement Day | 0.40% | ~402 |
-| King of Pentacles | 0.40% | ~402 |
-| King of Swords | 0.40% | ~402 |
-| The Tower | 0.40% | ~402 |
+| The APB is Not Enough | 0.40% | ~403 |
+| Judgement Day | 0.40% | ~403 |
+| King of Pentacles | 0.40% | ~403 |
+| King of Swords | 0.40% | ~403 |
+| The Tower | 0.40% | ~403 |
 | Temperance | 0.30% | ~2,916 |
 | City Lights | 0.20% | ~1,944 |
 | Little Tokyo | 0.20% | ~1,944 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 971,994 (Ranked 15)  
-Completed: 2,852 (0.29%) (Ranked 241)  
+Progressed: 972,008 (Ranked 15)  
+Completed: 2,853 (0.29%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -306,6 +306,7 @@ Completed: 2,852 (0.29%) (Ranked 241)
 | 2023-12-05 | 970,654 | 2,844 |
 | 2023-12-06 | 971,359 | 2,847 |
 | 2023-12-07 | 971,994 | 2,852 |
+| 2023-12-08 | 972,008 | 2,853 |
 ## Awards
 Max (Character Customization): 118,778  (Ranked 9)  
 Sum: 398,648 (Ranked 9)  

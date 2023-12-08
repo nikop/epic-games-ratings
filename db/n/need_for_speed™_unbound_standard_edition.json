@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11909,
+  "EOS_Progressed": 11910,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 0,
@@ -9143,6 +9143,11 @@
       "Time": "2023-12-07T23:08:22.9556297+00:00",
       "NumProgressed": 11909,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-08T00:09:17.3177541+00:00",
+      "NumProgressed": 11910,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -9155,7 +9160,7 @@
       "Name": "The Bear Champ",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "achievement_10",
@@ -9211,7 +9216,7 @@
       "Name": "Cash Money Millionaire",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5478
+      "UsersEstimate": 5479
     },
     {
       "ID": "achievement_17",
@@ -9235,7 +9240,7 @@
       "Name": "Rebel Without a Pause",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 8098
+      "UsersEstimate": 8099
     },
     {
       "ID": "achievement_2",
@@ -9259,7 +9264,7 @@
       "Name": "Rydell\u0027s Rydes",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 5835
+      "UsersEstimate": 5836
     },
     {
       "ID": "achievement_22",
@@ -9275,7 +9280,7 @@
       "Name": "Public Enemy",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 9765
+      "UsersEstimate": 9766
     },
     {
       "ID": "achievement_24",
@@ -9379,7 +9384,7 @@
       "Name": "Hey Speedie!",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 8098
+      "UsersEstimate": 8099
     },
     {
       "ID": "achievement_36",
@@ -9395,7 +9400,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 10956
+      "UsersEstimate": 10957
     },
     {
       "ID": "achievement_38",
@@ -9403,7 +9408,7 @@
       "Name": "Fashion Killa",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 10480
+      "UsersEstimate": 10481
     },
     {
       "ID": "achievement_39",
@@ -9411,7 +9416,7 @@
       "Name": "Cool Whip",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 10718
+      "UsersEstimate": 10719
     },
     {
       "ID": "achievement_4",
@@ -9419,7 +9424,7 @@
       "Name": "Oh, It\u0027s On",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 5954
+      "UsersEstimate": 5955
     },
     {
       "ID": "achievement_40",
@@ -9435,7 +9440,7 @@
       "Name": "Drop the Beat",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 10242
+      "UsersEstimate": 10243
     },
     {
       "ID": "achievement_5",
@@ -9459,7 +9464,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 10123
+      "UsersEstimate": 10124
     },
     {
       "ID": "achievement_8",
@@ -9475,20 +9480,20 @@
       "Name": "Heaven Spot",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 11909,
+      "Progressed": 11910,
       "Completed": 52
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-12-07T23:08:22.9556294+00:00",
+  "LastChanged_Achievements": "2023-12-08T00:09:17.3177535+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:24.389053+00:00",
-  "LastUpdate_Ratings": "2023-12-07T22:57:40.7788687+00:00",
-  "LastUpdate_Achievements": "2023-12-07T23:08:22.9557302+00:00"
+  "LastUpdate_Ratings": "2023-12-07T23:58:11.6080342+00:00",
+  "LastUpdate_Achievements": "2023-12-08T00:09:17.3178363+00:00"
 }

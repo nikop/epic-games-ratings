@@ -6,12 +6,12 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 83.00% | ~901 |
+| Kickstarter Backer | 83.00% | ~900 |
 | Completed Act I | 31.00% | ~336 |
 | 5 Upgrades in Stronghold | 26.00% | ~282 |
 | First 5 Levels of Od Nua | 25.00% | ~271 |
-| Make an Adventurer | 23.00% | ~250 |
-| Completed Act II | 16.00% | ~174 |
+| Make an Adventurer | 23.00% | ~249 |
+| Completed Act II | 16.00% | ~173 |
 | Enchanter | 15.00% | ~163 |
 | Disposition | 15.00% | ~163 |
 | The Watcher With Eight Friends | 15.00% | ~163 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,085 (Ranked 261)  
+Progressed: 1,084 (Ranked 261)  
 Completed: 2 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 2 (0.18%) (Ranked 266)
 | 2023-11-27 | 1,088 | 2 |
 | 2023-12-03 | 1,086 | 2 |
 | 2023-12-04 | 1,085 | 2 |
+| 2023-12-08 | 1,084 | 2 |
 ## Awards
 Max (Character Customization): 1,946  (Ranked 115)  
 Sum: 4,780 (Ranked 146)  

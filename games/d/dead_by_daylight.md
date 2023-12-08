@@ -6,46 +6,47 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,558 |
-| Skillful | 2.00% | ~21,558 |
-| Handyman | 1.00% | ~10,779 |
-| Zealous | 1.00% | ~10,779 |
-| Not half bad | 1.00% | ~10,779 |
-| Apt Survivor | 1.00% | ~10,779 |
-| Survival Treasures | 1.00% | ~10,779 |
-| I | 1.00% | ~10,779 |
-| Sorted | 1.00% | ~10,779 |
-| Make Some Noise | 1.00% | ~10,779 |
-| No one left behind | 0.90% | ~9,701 |
-| Medic | 0.90% | ~9,701 |
-| Healthy Obsession | 0.90% | ~9,701 |
-| Resurgence | 0.90% | ~9,701 |
-| Preemptive Strike | 0.90% | ~9,701 |
-| The Grand Sacrifice | 0.80% | ~8,623 |
-| Bloody Millionaire | 0.80% | ~8,623 |
-| Humanitarian | 0.80% | ~8,623 |
-| Agonizing Escape | 0.70% | ~7,545 |
-| Backdoor Escape | 0.70% | ~7,545 |
-| Perfect Escape | 0.70% | ~7,545 |
-| Perfect Killing | 0.70% | ~7,545 |
-| II | 0.70% | ~7,545 |
-| Close Shave | 0.70% | ~7,545 |
-| I've got your back | 0.60% | ~6,467 |
-| Apt Killer | 0.60% | ~6,467 |
-| Risk it all | 0.60% | ~6,467 |
-| III | 0.60% | ~6,467 |
-| Engineer | 0.60% | ~6,467 |
-| Wounded Healer | 0.60% | ~6,467 |
-| Vulture | 0.50% | ~5,389 |
-| First to the Punch | 0.50% | ~5,389 |
-| With Scars to Show | 0.50% | ~5,389 |
-| Lifting The Fog | 0.50% | ~5,389 |
-| Second Act | 0.50% | ~5,389 |
+| It wakes | 2.00% | ~21,559 |
+| Skillful | 2.00% | ~21,559 |
+| Handyman | 1.00% | ~10,780 |
+| Zealous | 1.00% | ~10,780 |
+| Not half bad | 1.00% | ~10,780 |
+| Apt Survivor | 1.00% | ~10,780 |
+| Survival Treasures | 1.00% | ~10,780 |
+| I | 1.00% | ~10,780 |
+| Sorted | 1.00% | ~10,780 |
+| Make Some Noise | 1.00% | ~10,780 |
+| No one left behind | 0.90% | ~9,702 |
+| Medic | 0.90% | ~9,702 |
+| Healthy Obsession | 0.90% | ~9,702 |
+| Resurgence | 0.90% | ~9,702 |
+| Preemptive Strike | 0.90% | ~9,702 |
+| The Grand Sacrifice | 0.80% | ~8,624 |
+| Bloody Millionaire | 0.80% | ~8,624 |
+| Humanitarian | 0.80% | ~8,624 |
+| Agonizing Escape | 0.70% | ~7,546 |
+| Backdoor Escape | 0.70% | ~7,546 |
+| I've got your back | 0.70% | ~7,546 |
+| Perfect Escape | 0.70% | ~7,546 |
+| Perfect Killing | 0.70% | ~7,546 |
+| II | 0.70% | ~7,546 |
+| Close Shave | 0.70% | ~7,546 |
+| Apt Killer | 0.60% | ~6,468 |
+| Risk it all | 0.60% | ~6,468 |
+| III | 0.60% | ~6,468 |
+| Engineer | 0.60% | ~6,468 |
+| Wounded Healer | 0.60% | ~6,468 |
+| Vulture | 0.50% | ~5,390 |
+| First to the Punch | 0.50% | ~5,390 |
+| With Scars to Show | 0.50% | ~5,390 |
+| Lifting The Fog | 0.50% | ~5,390 |
+| Second Act | 0.50% | ~5,390 |
 | Blood on your hands | 0.40% | ~4,312 |
 | Escape Artist | 0.40% | ~4,312 |
 | Nerves of steel | 0.40% | ~4,312 |
 | Gifts for the Fog | 0.40% | ~4,312 |
 | III-50 | 0.40% | ~4,312 |
+| Holiday Get-Together | 0.40% | ~4,312 |
 | Cherish your Life | 0.40% | ~4,312 |
 | Unforgettable Getaway | 0.40% | ~4,312 |
 | Cutting Out | 0.40% | ~4,312 |
@@ -66,7 +67,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | House of Pain | 0.30% | ~3,234 |
 | Cottage Owner | 0.30% | ~3,234 |
 | Escaping the Nightmare | 0.30% | ~3,234 |
-| Holiday Get-Together | 0.30% | ~3,234 |
 | Near-Death Experience | 0.30% | ~3,234 |
 | Campbell's Chapel Legacy | 0.30% | ~3,234 |
 | Ancestor's Rite | 0.30% | ~3,234 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,078 |
 | Adept Good Guy | 0.10% | ~1,078 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,077,876 (Ranked 14)  
+Progressed: 1,077,970 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -471,13 +471,14 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-05 | 1,072,750 | 61 |
 | 2023-12-06 | 1,075,348 | 61 |
 | 2023-12-07 | 1,077,876 | 61 |
+| 2023-12-08 | 1,077,970 | 61 |
 ## Awards
-Max (Diverse Characters): 37,449  (Ranked 15)  
-Sum: 284,097 (Ranked 12)  
+Max (Diverse Characters): 37,508  (Ranked 15)  
+Sum: 284,156 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 37,449 |
+| This game has Diverse Characters | 37,508 |
 | This game is Highly Recommended | 32,491 |
 | This game has Amazing Characters | 32,017 |
 | This game has Competitive Players | 31,839 |
@@ -809,3 +810,4 @@ Diff (max vs sum): 3
 | 2023-12-05 | 4.51 | - | 37,377 | 283,349 |
 | 2023-12-06 | 4.51 | - | 37,449 | 283,748 |
 | 2023-12-07 | 4.51 | - | 37,449 | 284,097 |
+| 2023-12-08 | 4.51 | - | 37,508 | 284,156 |

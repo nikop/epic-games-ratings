@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1604,
+  "EOS_Progressed": 1605,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -4789,6 +4789,11 @@
       "Time": "2023-12-07T22:10:06.4160886+00:00",
       "NumProgressed": 1604,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-08T00:10:48.3256447+00:00",
+      "NumProgressed": 1605,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5073,7 +5078,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "achievement_41",
@@ -5105,7 +5110,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "achievement_45",
@@ -5304,13 +5309,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1604,
+      "Progressed": 1605,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1604,
+      "Progressed": 1605,
       "Completed": 1
     }
   ],
@@ -5318,8 +5323,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-07T23:09:31.8432404+00:00",
+  "LastChanged_Achievements": "2023-12-08T00:10:48.3256441+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-07T22:58:09.4575927+00:00",
-  "LastUpdate_Achievements": "2023-12-07T23:09:31.8433006+00:00"
+  "LastUpdate_Ratings": "2023-12-07T23:58:55.7788893+00:00",
+  "LastUpdate_Achievements": "2023-12-08T00:10:48.3257098+00:00"
 }

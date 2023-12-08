@@ -8,9 +8,9 @@
 | Talented Performer | 53.00% | ~40 |
 | Welcome to Barcelona | 51.00% | ~39 |
 | Roller Race | 37.00% | ~28 |
+| We will need a bigger wardrobe | 36.00% | ~27 |
 | Born to Win | 34.00% | ~26 |
 | Welcome to Seoul | 34.00% | ~26 |
-| We will need a bigger wardrobe | 34.00% | ~26 |
 | Stilesville Hidden Style | 29.00% | ~22 |
 | Creating New Trends | 24.00% | ~18 |
 | Barcelona Hidden Style | 24.00% | ~18 |

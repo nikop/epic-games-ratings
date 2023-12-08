@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282,489 (Ranked 56)  
+Progressed: 282,496 (Ranked 56)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,9 +278,10 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-05 | 282,325 | 0 |
 | 2023-12-06 | 282,407 | 0 |
 | 2023-12-07 | 282,489 | 0 |
+| 2023-12-08 | 282,496 | 0 |
 ## Awards
 Max (Great for Beginners): 203  (Ranked 289)  
-Sum: 1,606 (Ranked 231)  
+Sum: 1,607 (Ranked 231)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -288,7 +289,7 @@ Diff (max vs sum): 58
 | This game is Great for Quick Sessions | 191 |
 | This game has Quickly Understood Controls | 168 |
 | This game is Relaxing | 164 |
-| This game is Extremely Fun | 159 |
+| This game is Extremely Fun | 160 |
 | This game is Highly Recommended | 157 |
 | This game has Competitive Players | 153 |
 | This game has Challenging Combat | 111 |
@@ -493,3 +494,4 @@ Diff (max vs sum): 58
 | 2023-11-29 | 4.06 | - | 203 | 1,604 |
 | 2023-11-30 | 4.06 | - | 203 | 1,605 |
 | 2023-12-04 | 4.06 | - | 203 | 1,606 |
+| 2023-12-08 | 4.06 | - | 203 | 1,607 |

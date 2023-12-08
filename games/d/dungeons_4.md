@@ -21,13 +21,13 @@
 | It's Warm and Cozy at Home | 58.00% | ~310 |
 | Trap Master | 56.00% | ~300 |
 | Minions, Minions! | 55.00% | ~294 |
+| Hard Work | 52.00% | ~278 |
 | The Big Eaty | 52.00% | ~278 |
-| Hard Work | 51.00% | ~273 |
 | YOU SHALL NOT PASS! | 50.00% | ~268 |
 | “… like son” | 48.00% | ~257 |
 | Pure Dynamite! | 45.00% | ~241 |
+| The Cathedral of Light | 45.00% | ~241 |
 | Shame! Shame! Shame! | 45.00% | ~241 |
-| The Cathedral of Light | 44.00% | ~235 |
 | Dungeonlord Gorgu | 43.00% | ~230 |
 | Mana Cannon | 41.00% | ~219 |
 | Tanos' Crusade Against Thalya | 41.00% | ~219 |
@@ -54,8 +54,8 @@
 | Lavalumps on Ice! | 16.00% | ~86 |
 | Rubble and Ashes | 16.00% | ~86 |
 | The Last Stand - This Time For Real! | 15.00% | ~80 |
+| To the Max! | 14.00% | ~75 |
 | To Infinity And Beyond! | 14.00% | ~75 |
-| To the Max! | 13.00% | ~70 |
 | Mirror, Mirror | 12.00% | ~64 |
 | Untouchable | 12.00% | ~64 |
 | Evilification | 11.00% | ~59 |

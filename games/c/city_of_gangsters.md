@@ -5,21 +5,21 @@ Rating: 4.28 (Ranked 861)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,599 |
-| Copacetic Coordination | 16.00% | ~56,904 |
-| Fronting the Money | 15.00% | ~53,348 |
-| The Dawn of Automation | 14.00% | ~49,791 |
-| Extraordinary Logistics | 14.00% | ~49,791 |
+| Corner Clout | 46.00% | ~163,602 |
+| Copacetic Coordination | 16.00% | ~56,905 |
+| Fronting the Money | 15.00% | ~53,349 |
+| The Dawn of Automation | 14.00% | ~49,792 |
+| Extraordinary Logistics | 14.00% | ~49,792 |
 | Dirty Money | 13.00% | ~46,235 |
 | Family First | 13.00% | ~46,235 |
-| Cleaning House | 12.00% | ~42,678 |
-| Room in the Back | 12.00% | ~42,678 |
+| Cleaning House | 12.00% | ~42,679 |
+| Room in the Back | 12.00% | ~42,679 |
 | Beating the Heat | 11.00% | ~39,122 |
 | Booze Baron | 11.00% | ~39,122 |
-| Friends on the Force | 10.00% | ~35,565 |
-| Neighborhood Watch | 10.00% | ~35,565 |
-| Core Corps | 8.00% | ~28,452 |
-| Sizeable Stash | 8.00% | ~28,452 |
+| Friends on the Force | 10.00% | ~35,566 |
+| Neighborhood Watch | 10.00% | ~35,566 |
+| Core Corps | 8.00% | ~28,453 |
+| Sizeable Stash | 8.00% | ~28,453 |
 | Street Fighter | 7.00% | ~24,896 |
 | Friendly Gestures | 7.00% | ~24,896 |
 | People Person | 7.00% | ~24,896 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 861)
 | High Pillow | 0.10% | ~356 |
 | Station Master | 0.10% | ~356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 355,651 (Ranked 49)  
+Progressed: 355,657 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,10 +318,11 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-05 | 355,386 | 7 |
 | 2023-12-06 | 355,527 | 7 |
 | 2023-12-07 | 355,651 | 7 |
+| 2023-12-08 | 355,657 | 7 |
 ## Awards
-Max (Great for Beginners): 51  (Ranked 435)  
+Max (Great for Beginners): 51  (Ranked 436)  
 Sum: 246 (Ranked 384)  
-Diff (max vs sum): 51  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 51 |

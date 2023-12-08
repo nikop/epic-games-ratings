@@ -3501,9 +3501,9 @@
       "Count": 423
     }
   ],
-  "EOS_Progressed": 9550,
+  "EOS_Progressed": 9551,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10746,6 +10746,11 @@
       "Time": "2023-12-07T22:06:05.3983972+00:00",
       "NumProgressed": 9550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T00:06:36.3384758+00:00",
+      "NumProgressed": 9551,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -10758,7 +10763,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3343
     },
     {
       "ID": "ach02",
@@ -10772,9 +10777,9 @@
       "ID": "ach03",
       "SetID": "47in8n6",
       "Name": "A New Timeline",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4584
     },
     {
       "ID": "ach04",
@@ -10798,7 +10803,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 7162
+      "UsersEstimate": 7163
     },
     {
       "ID": "ach07",
@@ -10806,7 +10811,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5348
+      "UsersEstimate": 5349
     },
     {
       "ID": "ach08",
@@ -10814,7 +10819,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3915
+      "UsersEstimate": 3916
     },
     {
       "ID": "ach09",
@@ -10828,9 +10833,9 @@
       "ID": "ach10",
       "SetID": "47in8n6",
       "Name": "Deadly Assassin",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 669
+      "UsersEstimate": 764
     },
     {
       "ID": "ach11",
@@ -10838,7 +10843,7 @@
       "Name": "Karnage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "ach12",
@@ -10846,7 +10851,7 @@
       "Name": "Annihilation",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ach13",
@@ -10902,7 +10907,7 @@
       "Name": "King Slayer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ach20",
@@ -10950,7 +10955,7 @@
       "Name": "Talis-Mania",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "ach26",
@@ -10958,7 +10963,7 @@
       "Name": "Running On Empty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "ach27",
@@ -10990,7 +10995,7 @@
       "Name": "Juggernaut",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "ach31",
@@ -11006,7 +11011,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "ach33",
@@ -11046,7 +11051,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 5539
+      "UsersEstimate": 5540
     },
     {
       "ID": "ach38",
@@ -11062,7 +11067,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3915
+      "UsersEstimate": 3916
     },
     {
       "ID": "ach40",
@@ -11157,7 +11162,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9550,
+      "Progressed": 9551,
       "Completed": 0
     }
   ],
@@ -11165,8 +11170,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-12-07T21:02:59.7358374+00:00",
-  "LastChanged_Achievements": "2023-12-07T23:05:11.1004554+00:00",
+  "LastChanged_Achievements": "2023-12-08T00:06:36.3384753+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:13.7403672+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:02:52.243028+00:00",
-  "LastUpdate_Achievements": "2023-12-07T23:05:11.1005166+00:00"
+  "LastUpdate_Ratings": "2023-12-08T00:03:28.5377405+00:00",
+  "LastUpdate_Achievements": "2023-12-08T00:06:36.3385392+00:00"
 }

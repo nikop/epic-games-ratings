@@ -4,11 +4,11 @@
   "ProductSlug": "synced",
   "Ranking_Rating": 951,
   "Ranking_Popularity": 365,
-  "Ranking_PopularitySum": 341,
+  "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1171,10 +1171,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 405,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-12-08T00:00:08.4088984+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 459,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 405,
+  "NumberOfAwards": 459,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1188,7 +1194,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 52
+      "Count": 54
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1239,9 +1245,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 68235,
+  "EOS_Progressed": 68236,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11789,6 +11795,11 @@
       "Time": "2023-12-07T23:08:15.5250727+00:00",
       "NumProgressed": 68235,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-08T00:09:07.3016501+00:00",
+      "NumProgressed": 68236,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -11801,7 +11812,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23882
+      "UsersEstimate": 23883
     },
     {
       "ID": "10",
@@ -11928,16 +11939,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 68235,
+      "Progressed": 68236,
       "Completed": 39
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-12-06T20:58:16.0658115+00:00",
-  "LastChanged_Achievements": "2023-12-07T23:08:15.5250724+00:00",
+  "LastChanged": "2023-12-08T00:00:08.4088982+00:00",
+  "LastChanged_Achievements": "2023-12-08T00:09:07.3016497+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.380073+00:00",
-  "LastUpdate_Ratings": "2023-12-07T22:58:59.7410822+00:00",
-  "LastUpdate_Achievements": "2023-12-07T23:08:15.5251167+00:00"
+  "LastUpdate_Ratings": "2023-12-08T00:00:08.4088986+00:00",
+  "LastUpdate_Achievements": "2023-12-08T00:09:07.3017014+00:00"
 }

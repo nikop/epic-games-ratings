@@ -7285,10 +7285,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 12281,
       "NumberOfAwardsMax": 7994
+    },
+    {
+      "Time": "2023-12-07T23:59:39.3038957+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12284,
+      "NumberOfAwardsMax": 7994
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12281,
+  "NumberOfAwards": 12284,
   "NumberOfAwardsMax": 7994,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7338,7 +7344,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 530
+      "Count": 533
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7347,10 +7353,10 @@
       "Count": 518
     }
   ],
-  "EOS_Progressed": 731505,
-  "EOS_Completed": 2465,
-  "EOS_NewPlayers": 3274,
-  "EOS_NewCompleters": 9,
+  "EOS_Progressed": 731515,
+  "EOS_Completed": 2466,
+  "EOS_NewPlayers": 3275,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -33887,6 +33893,11 @@
       "Time": "2023-12-07T23:08:33.0246332+00:00",
       "NumProgressed": 731505,
       "NumCompleted": 2465
+    },
+    {
+      "Time": "2023-12-08T00:09:30.5282844+00:00",
+      "NumProgressed": 731515,
+      "NumCompleted": 2466
     }
   ],
   "TotalAchievements": 51,
@@ -34266,7 +34277,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "ach_gardening_tools",
@@ -34282,7 +34293,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -34305,22 +34316,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 731505,
-      "Completed": 2465
+      "Progressed": 731515,
+      "Completed": 2466
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 57047,
+      "Progressed": 57057,
       "Completed": 36639
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-07T21:59:14.3824986+00:00",
-  "LastChanged_Achievements": "2023-12-07T23:08:33.0246328+00:00",
+  "LastChanged": "2023-12-07T23:59:39.3038955+00:00",
+  "LastChanged_Achievements": "2023-12-08T00:09:30.5282839+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-07T22:58:40.0123392+00:00",
-  "LastUpdate_Achievements": "2023-12-07T23:08:33.0247929+00:00"
+  "LastUpdate_Ratings": "2023-12-07T23:59:39.3038961+00:00",
+  "LastUpdate_Achievements": "2023-12-08T00:09:30.5284246+00:00"
 }

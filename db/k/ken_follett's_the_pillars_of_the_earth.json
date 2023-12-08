@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16898,
+  "EOS_Progressed": 16899,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15628,6 +15628,11 @@
       "Time": "2023-12-07T23:08:12.0814014+00:00",
       "NumProgressed": 16898,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-08T00:09:02.4585563+00:00",
+      "NumProgressed": 16899,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15679,7 +15684,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "tpote_achievement_15",
@@ -15727,7 +15732,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "tpote_achievement_20",
@@ -15743,7 +15748,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4900
+      "UsersEstimate": 4901
     },
     {
       "ID": "tpote_achievement_22",
@@ -15815,7 +15820,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "tpote_achievement_30",
@@ -15903,7 +15908,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6759
+      "UsersEstimate": 6760
     },
     {
       "ID": "tpote_achievement_40",
@@ -15959,22 +15964,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5745
+      "UsersEstimate": 5746
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16898,
+      "Progressed": 16899,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-07T23:08:12.0814007+00:00",
+  "LastChanged_Achievements": "2023-12-08T00:09:02.4585557+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:00:01.7557699+00:00",
-  "LastUpdate_Achievements": "2023-12-07T23:08:12.0814925+00:00"
+  "LastUpdate_Ratings": "2023-12-08T00:01:37.7369823+00:00",
+  "LastUpdate_Achievements": "2023-12-08T00:09:02.4586458+00:00"
 }

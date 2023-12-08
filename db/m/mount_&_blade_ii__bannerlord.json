@@ -9528,9 +9528,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67320,
+  "EOS_Progressed": 67322,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33983,6 +33983,11 @@
       "Time": "2023-12-07T22:10:04.058776+00:00",
       "NumProgressed": 67320,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T00:10:45.8490419+00:00",
+      "NumProgressed": 67322,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34002,7 +34007,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10771
+      "UsersEstimate": 10772
     },
     {
       "ID": "Bannerlord",
@@ -34162,7 +34167,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10771
+      "UsersEstimate": 10772
     },
     {
       "ID": "I spit on your grave",
@@ -34202,7 +34207,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4712
+      "UsersEstimate": 4713
     },
     {
       "ID": "Lance-a-lot",
@@ -34216,9 +34221,9 @@
       "ID": "Landlord",
       "SetID": "den0lp1",
       "Name": "Landlord",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 22216
+      "UsersEstimate": 22889
     },
     {
       "ID": "Lawbringer",
@@ -34226,7 +34231,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26928
+      "UsersEstimate": 26929
     },
     {
       "ID": "Lawmaker",
@@ -34401,15 +34406,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67320,
+      "Progressed": 67322,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-07T20:57:09.2451976+00:00",
-  "LastChanged_Achievements": "2023-12-07T23:09:29.9097073+00:00",
+  "LastChanged_Achievements": "2023-12-08T00:10:45.8490415+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-07T22:57:08.6634529+00:00",
-  "LastUpdate_Achievements": "2023-12-07T23:09:29.9098212+00:00"
+  "LastUpdate_Ratings": "2023-12-07T23:57:23.8217734+00:00",
+  "LastUpdate_Achievements": "2023-12-08T00:10:45.8492298+00:00"
 }

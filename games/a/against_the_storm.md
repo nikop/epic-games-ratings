@@ -14,6 +14,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 2.00% | ~353 |
 | Gathering Storm | 2.00% | ~353 |
 | Untamed Wilds | 1.00% | ~177 |
+| Taking Action | 0.50% | ~88 |
 | No Deaths | 0.50% | ~88 |
 | First Real Expedition | 0.40% | ~71 |
 | Overcoming Difficulty | 0.40% | ~71 |
@@ -21,7 +22,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 0.40% | ~71 |
 | The Marshlands | 0.40% | ~71 |
 | The Scarlet Orchard | 0.40% | ~71 |
-| Taking Action | 0.40% | ~71 |
 | Fertile Meadows | 0.30% | ~53 |
 | Royal Outpost | 0.30% | ~53 |
 | Trade Baron | 0.30% | ~53 |

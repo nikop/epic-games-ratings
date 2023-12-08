@@ -16298,10 +16298,10 @@
       "Count": 14687
     }
   ],
-  "EOS_Progressed": 971994,
-  "EOS_Completed": 2852,
-  "EOS_NewPlayers": 7354,
-  "EOS_NewCompleters": 25,
+  "EOS_Progressed": 972008,
+  "EOS_Completed": 2853,
+  "EOS_NewPlayers": 7331,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -42623,6 +42623,11 @@
       "Time": "2023-12-07T23:03:30.4432362+00:00",
       "NumProgressed": 971994,
       "NumCompleted": 2852
+    },
+    {
+      "Time": "2023-12-08T00:04:23.182157+00:00",
+      "NumProgressed": 972008,
+      "NumCompleted": 2853
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -42707,7 +42712,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68040
+      "UsersEstimate": 68041
     },
     {
       "ID": "Gunslinger",
@@ -42963,7 +42968,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116639
+      "UsersEstimate": 116641
     },
     {
       "ID": "YipMan",
@@ -43011,7 +43016,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Easycomeeasygo",
@@ -43099,7 +43104,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "IHateSpider",
@@ -43123,7 +43128,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "KingOfTheSwords",
@@ -43131,7 +43136,7 @@
       "Name": "King of Swords",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "KingOfTheWands",
@@ -43147,7 +43152,7 @@
       "Name": "The Tower",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "DirtyWork",
@@ -43170,21 +43175,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 971994,
-      "Completed": 2852
+      "Progressed": 972008,
+      "Completed": 2853
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 100617,
+      "Progressed": 100631,
       "Completed": 10311
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-07T23:02:46.1188422+00:00",
-  "LastChanged_Achievements": "2023-12-07T23:03:30.443236+00:00",
+  "LastChanged_Achievements": "2023-12-08T00:04:23.1821566+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.8863582+00:00",
-  "LastUpdate_Ratings": "2023-12-07T23:02:46.1188427+00:00",
-  "LastUpdate_Achievements": "2023-12-07T23:03:30.4433759+00:00"
+  "LastUpdate_Ratings": "2023-12-08T00:03:20.4321835+00:00",
+  "LastUpdate_Achievements": "2023-12-08T00:04:23.1823106+00:00"
 }

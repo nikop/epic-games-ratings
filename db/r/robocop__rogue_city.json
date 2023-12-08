@@ -2,12 +2,12 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_Rating": 914,
-  "Ranking_Popularity": 441,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Rating": 909,
+  "Ranking_Popularity": 429,
+  "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "robocop-rogue-city"
     }
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2023-11-07T18:58:52.6047076+00:00",
@@ -237,18 +237,24 @@
       "Rating": 4.21,
       "NumberOfAwards": 48,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-12-08T00:01:02.7856272+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 52,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48,
-  "NumberOfAwardsMax": 48,
+  "NumberOfAwards": 52,
+  "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 48
+      "Count": 52
     }
   ],
   "EOS_Progressed": 705,
@@ -1395,9 +1401,9 @@
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged": "2023-12-07T22:00:32.9333204+00:00",
-  "LastChanged_Achievements": "2023-12-07T23:03:11.5306649+00:00",
+  "LastChanged": "2023-12-08T00:01:02.785627+00:00",
+  "LastChanged_Achievements": "2023-12-08T00:03:57.5602195+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:28.5946233+00:00",
-  "LastUpdate_Ratings": "2023-12-07T22:59:37.2889177+00:00",
-  "LastUpdate_Achievements": "2023-12-07T23:03:11.5306856+00:00"
+  "LastUpdate_Ratings": "2023-12-08T00:01:02.7856275+00:00",
+  "LastUpdate_Achievements": "2023-12-08T00:03:57.5602597+00:00"
 }

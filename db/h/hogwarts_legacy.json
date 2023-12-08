@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11575,10 +11575,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 50131,
       "NumberOfAwardsMax": 25000
+    },
+    {
+      "Time": "2023-12-07T23:57:54.6996527+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50137,
+      "NumberOfAwardsMax": 25000
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50131,
+  "NumberOfAwards": 50137,
   "NumberOfAwardsMax": 25000,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11622,7 +11628,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1338
+      "Count": 1344
     },
     {
       "Text": "This game is Relaxing",
@@ -11655,7 +11661,7 @@
       "Count": 838
     }
   ],
-  "EOS_Progressed": 304059,
+  "EOS_Progressed": 304061,
   "EOS_Completed": 525,
   "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 6,
@@ -36500,6 +36506,11 @@
       "Time": "2023-12-07T23:03:24.5686735+00:00",
       "NumProgressed": 304059,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-08T00:04:15.1695125+00:00",
+      "NumProgressed": 304061,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36511,7 +36522,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48649
+      "UsersEstimate": 48650
     },
     {
       "ID": "PFA_10",
@@ -36519,7 +36530,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33446
+      "UsersEstimate": 33447
     },
     {
       "ID": "PFA_11",
@@ -36527,7 +36538,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33446
+      "UsersEstimate": 33447
     },
     {
       "ID": "PFA_12",
@@ -36543,7 +36554,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33446
+      "UsersEstimate": 33447
     },
     {
       "ID": "PFA_14",
@@ -36615,7 +36626,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33446
+      "UsersEstimate": 33447
     },
     {
       "ID": "PFA_22",
@@ -36847,7 +36858,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42568
+      "UsersEstimate": 42569
     },
     {
       "ID": "PFA_8",
@@ -36870,16 +36881,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304059,
+      "Progressed": 304061,
       "Completed": 525
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-07T22:57:29.3368957+00:00",
-  "LastChanged_Achievements": "2023-12-07T23:03:24.5686732+00:00",
+  "LastChanged": "2023-12-07T23:57:54.6996525+00:00",
+  "LastChanged_Achievements": "2023-12-08T00:04:15.1695119+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-07T22:57:29.3368963+00:00",
-  "LastUpdate_Achievements": "2023-12-07T23:03:24.5688907+00:00"
+  "LastUpdate_Ratings": "2023-12-07T23:57:54.6996531+00:00",
+  "LastUpdate_Achievements": "2023-12-08T00:04:15.1696676+00:00"
 }

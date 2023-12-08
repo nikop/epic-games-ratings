@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -791,7 +791,7 @@
   ],
   "EOS_Progressed": 6064,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7050,9 +7050,9 @@
       "ID": "achievement_0008",
       "SetID": "9123ogc",
       "Name": "On the Top Step",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 5336
+      "UsersEstimate": 5397
     },
     {
       "ID": "achievement_0009",
@@ -7395,8 +7395,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-12-07T20:59:24.702403+00:00",
-  "LastChanged_Achievements": "2023-12-07T23:05:22.4495694+00:00",
+  "LastChanged_Achievements": "2023-12-08T00:06:51.4411952+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.4962244+00:00",
-  "LastUpdate_Ratings": "2023-12-07T22:59:20.3661214+00:00",
-  "LastUpdate_Achievements": "2023-12-07T23:05:22.4496367+00:00"
+  "LastUpdate_Ratings": "2023-12-08T00:00:38.0130722+00:00",
+  "LastUpdate_Achievements": "2023-12-08T00:06:51.4412743+00:00"
 }

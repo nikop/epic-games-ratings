@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1563,9 +1563,9 @@
       "ID": "ach_main07storm_classified",
       "SetID": "4hg22ll",
       "Name": "Hard Work",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 278
     },
     {
       "ID": "ach_main07storm_completed",
@@ -1643,9 +1643,9 @@
       "ID": "ach_main10fire_completed",
       "SetID": "4hg22ll",
       "Name": "The Cathedral of Light",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 241
     },
     {
       "ID": "ach_main10fire_freehorde",
@@ -1843,9 +1843,9 @@
       "ID": "ach_main18unholy_researches",
       "SetID": "4hg22ll",
       "Name": "To the Max!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_main18unholy_training",
@@ -1914,8 +1914,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-07T23:08:34.9487517+00:00",
+  "LastChanged_Achievements": "2023-12-08T00:09:33.0397918+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-07T22:02:45.1963173+00:00",
-  "LastUpdate_Achievements": "2023-12-07T23:08:34.948803+00:00"
+  "LastUpdate_Ratings": "2023-12-07T23:57:13.8050148+00:00",
+  "LastUpdate_Achievements": "2023-12-08T00:09:33.0398387+00:00"
 }
