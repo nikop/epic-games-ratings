@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13530,
+  "EOS_Progressed": 13539,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1109,
   "EOS_NewCompleters": 0,
@@ -8114,6 +8114,11 @@
       "Time": "2023-12-08T15:06:03.8906045+00:00",
       "NumProgressed": 13530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T16:06:20.450796+00:00",
+      "NumProgressed": 13539,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -8214,7 +8219,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -8222,7 +8227,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3518
+      "UsersEstimate": 3520
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -8230,7 +8235,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -8238,7 +8243,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -8254,7 +8259,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -8270,7 +8275,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -8317,14 +8322,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 13530,
+      "Progressed": 13539,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:06:03.8906041+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:06:20.4507957+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.7168228+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:57:42.1213788+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:06:03.8906626+00:00"
+  "LastUpdate_Ratings": "2023-12-08T15:57:41.2787272+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:06:20.4508442+00:00"
 }

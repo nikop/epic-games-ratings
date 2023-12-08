@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -772,9 +772,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 41851,
+  "EOS_Progressed": 41854,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24392,6 +24392,11 @@
       "Time": "2023-12-08T15:06:01.0616734+00:00",
       "NumProgressed": 41851,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-08T16:06:17.5608877+00:00",
+      "NumProgressed": 41854,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -24523,7 +24528,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15066
+      "UsersEstimate": 15067
     },
     {
       "ID": "ach_die10",
@@ -24611,7 +24616,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5859
+      "UsersEstimate": 5860
     },
     {
       "ID": "ach_legacysalvager",
@@ -24755,7 +24760,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7533
+      "UsersEstimate": 7534
     },
     {
       "ID": "ach_terror100",
@@ -24834,15 +24839,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 41851,
+      "Progressed": 41854,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-05T21:58:32.7550379+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:06:01.0616731+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:06:17.5608874+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:04.5816055+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:00:10.5546296+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:06:01.0618585+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:00:30.7067148+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:06:17.5610465+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3350,
+  "EOS_Progressed": 3356,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5091,6 +5091,11 @@
       "Time": "2023-12-08T15:03:20.6616488+00:00",
       "NumProgressed": 3350,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-08T16:03:18.8549483+00:00",
+      "NumProgressed": 3356,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5110,7 +5115,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "FALLEN_TREE",
@@ -5126,7 +5131,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "MOVE_ON",
@@ -5150,7 +5155,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "SNOW_RUINS",
@@ -5166,7 +5171,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -5198,14 +5203,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3350,
+      "Progressed": 3356,
       "Completed": 6
     }
   ],
@@ -5213,8 +5218,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:03:20.6616481+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:03:18.8549482+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:22.6950578+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:02:45.9643154+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:03:20.6617045+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:02:37.5500762+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:03:18.8549791+00:00"
 }

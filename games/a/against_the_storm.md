@@ -22,6 +22,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 0.40% | ~71 |
 | Coral Forest | 0.40% | ~71 |
 | The Scarlet Orchard | 0.40% | ~71 |
+| Homesick | 0.30% | ~53 |
 | Ruined Armory | 0.30% | ~53 |
 | Bandit Camp | 0.30% | ~53 |
 | Ancient Battleground | 0.30% | ~53 |
@@ -31,8 +32,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 0.30% | ~53 |
 | Trade Baron | 0.30% | ~53 |
 | Fox Utopia | 0.30% | ~53 |
-| Homesick | 0.20% | ~35 |
+| Serving Ale | 0.20% | ~35 |
 | Against All Odds | 0.20% | ~35 |
+| Barren Lands | 0.20% | ~35 |
 | Haunted Forest | 0.20% | ~35 |
 | Levitating Monument | 0.20% | ~35 |
 | Flooded Mines | 0.20% | ~35 |
@@ -41,7 +43,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 0.20% | ~35 |
 | Cursed Lands | 0.20% | ~35 |
 | A Real Challenge | 0.20% | ~35 |
-| Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
 | Higher Needs | 0.10% | ~18 |
 | Beaver Utopia | 0.10% | ~18 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lizard Utopia | 0.10% | ~18 |
 | Efficient Explorer | 0.10% | ~18 |
 | Refinery | 0.10% | ~18 |
-| Barren Lands | 0.10% | ~18 |
 | Dangerous Lands | 0.10% | ~18 |
 | Fishmen Ritual Site | 0.10% | ~18 |
 | Forbidden Lands | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,664 (Ranked 146)  
+Progressed: 17,668 (Ranked 146)  
 Completed: 44 (0.25%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 44 (0.25%) (Ranked 251)
 | 2023-12-05 | 17,618 | 49 |
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
-| 2023-12-08 | 17,664 | 44 |
+| 2023-12-08 | 17,668 | 44 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,244 (Ranked 174)  

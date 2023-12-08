@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -4202,10 +4202,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3216,
       "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2023-12-08T16:00:22.8696727+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3217,
+      "NumberOfAwardsMax": 403
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3216,
+  "NumberOfAwards": 3217,
   "NumberOfAwardsMax": 403,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4249,7 +4255,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 342
+      "Count": 343
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4276,9 +4282,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 498362,
+  "EOS_Progressed": 498376,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2949,
+  "EOS_NewPlayers": 2938,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30841,6 +30847,11 @@
       "Time": "2023-12-08T15:03:28.5508271+00:00",
       "NumProgressed": 498362,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T16:03:27.4717354+00:00",
+      "NumProgressed": 498376,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -30852,7 +30863,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9967
+      "UsersEstimate": 9968
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -30876,7 +30887,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9967
+      "UsersEstimate": 9968
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -30908,7 +30919,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19934
+      "UsersEstimate": 19935
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -30924,7 +30935,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9967
+      "UsersEstimate": 9968
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -30932,7 +30943,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 9967
+      "UsersEstimate": 9968
     },
     {
       "ID": "ACH_GROUNDED",
@@ -31020,7 +31031,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19934
+      "UsersEstimate": 19935
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -31028,7 +31039,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9967
+      "UsersEstimate": 9968
     },
     {
       "ID": "ACH_REFLEXES",
@@ -31060,7 +31071,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9967
+      "UsersEstimate": 9968
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -31092,7 +31103,7 @@
       "Name": "Thanks Station!",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "ACH_THERE_FOR_YOU",
@@ -31116,7 +31127,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24918
+      "UsersEstimate": 24919
     },
     {
       "ID": "ACH_WET_FEET",
@@ -31124,22 +31135,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19934
+      "UsersEstimate": 19935
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 498362,
+      "Progressed": 498376,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-12-08T13:05:44.2221331+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:03:28.5508268+00:00",
+  "LastChanged": "2023-12-08T16:00:22.8696726+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:03:27.4717352+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.9367232+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:00:03.524904+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:03:28.5509975+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:00:22.869673+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:03:27.4718997+00:00"
 }

@@ -5,50 +5,50 @@ Rating: 4.50 (Ranked 597)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,326 |
-| For Saw Gerrera | 98.00% | ~9,232 |
-| Grab Some Seat | 91.00% | ~8,572 |
-| Can You Pet the Bogling? | 87.00% | ~8,195 |
-| The Past Made Present | 83.00% | ~7,819 |
-| Survivors, We Adapt | 80.00% | ~7,536 |
-| They Never Saw It Coming | 78.00% | ~7,348 |
-| Among the Masters | 78.00% | ~7,348 |
-| Who Gives a Puck | 74.00% | ~6,971 |
-| For the Path | 67.00% | ~6,311 |
-| Now, This Isn't Podracing | 65.00% | ~6,123 |
-| Mirror Match | 64.00% | ~6,029 |
-| Skywalker | 63.00% | ~5,935 |
-| Out of Bedlam | 62.00% | ~5,840 |
-| Cleaning Up | 55.00% | ~5,181 |
-| Tanalorr Bound | 55.00% | ~5,181 |
-| Kitted Out | 53.00% | ~4,993 |
-| Tragedy | 52.00% | ~4,898 |
-| At the Precipice | 51.00% | ~4,804 |
-| Hey, Luke At Us | 50.00% | ~4,710 |
-| Into the Abyss | 49.00% | ~4,616 |
-| A Place You Could Call Home | 47.00% | ~4,427 |
-| Riposte | 47.00% | ~4,427 |
-| Greezy Money | 45.00% | ~4,239 |
-| Catch! | 41.00% | ~3,862 |
-| They're Probably Fine | 40.00% | ~3,768 |
-| Han Slowlo | 39.00% | ~3,674 |
-| There Is No Try | 38.00% | ~3,580 |
-| The Jedi Path | 33.00% | ~3,109 |
-| This Is Canon | 29.00% | ~2,732 |
-| It's a Trap | 27.00% | ~2,543 |
-| You've Got A Friend | 23.00% | ~2,167 |
-| King of the World | 17.00% | ~1,601 |
-| Max Capacity | 15.00% | ~1,413 |
-| A Presence I've Not Felt Since... | 15.00% | ~1,413 |
-| Reconnaissance | 15.00% | ~1,413 |
-| Slam Dunk | 12.00% | ~1,130 |
-| Star Tours | 11.00% | ~1,036 |
+| Rooftop Duel | 99.00% | ~9,330 |
+| For Saw Gerrera | 98.00% | ~9,236 |
+| Grab Some Seat | 91.00% | ~8,576 |
+| Can You Pet the Bogling? | 87.00% | ~8,199 |
+| The Past Made Present | 83.00% | ~7,822 |
+| Survivors, We Adapt | 80.00% | ~7,539 |
+| They Never Saw It Coming | 78.00% | ~7,351 |
+| Among the Masters | 78.00% | ~7,351 |
+| Who Gives a Puck | 74.00% | ~6,974 |
+| For the Path | 67.00% | ~6,314 |
+| Now, This Isn't Podracing | 65.00% | ~6,126 |
+| Mirror Match | 64.00% | ~6,031 |
+| Skywalker | 63.00% | ~5,937 |
+| Out of Bedlam | 62.00% | ~5,843 |
+| Cleaning Up | 55.00% | ~5,183 |
+| Tanalorr Bound | 55.00% | ~5,183 |
+| Kitted Out | 53.00% | ~4,995 |
+| Tragedy | 52.00% | ~4,900 |
+| At the Precipice | 51.00% | ~4,806 |
+| Hey, Luke At Us | 50.00% | ~4,712 |
+| Into the Abyss | 49.00% | ~4,618 |
+| A Place You Could Call Home | 47.00% | ~4,429 |
+| Riposte | 47.00% | ~4,429 |
+| Greezy Money | 45.00% | ~4,241 |
+| Catch! | 41.00% | ~3,864 |
+| They're Probably Fine | 40.00% | ~3,770 |
+| Han Slowlo | 39.00% | ~3,675 |
+| There Is No Try | 38.00% | ~3,581 |
+| The Jedi Path | 33.00% | ~3,110 |
+| This Is Canon | 29.00% | ~2,733 |
+| It's a Trap | 27.00% | ~2,544 |
+| You've Got A Friend | 23.00% | ~2,168 |
+| King of the World | 17.00% | ~1,602 |
+| Max Capacity | 15.00% | ~1,414 |
+| A Presence I've Not Felt Since... | 15.00% | ~1,414 |
+| Reconnaissance | 15.00% | ~1,414 |
+| Slam Dunk | 12.00% | ~1,131 |
+| Star Tours | 11.00% | ~1,037 |
 | Caij Match | 10.00% | ~942 |
 | Gambler | 10.00% | ~942 |
 | Growth Spurt | 9.00% | ~848 |
-| Perk of the Job | 7.00% | ~659 |
-| Skoova Diving | 7.00% | ~659 |
-| I'm a Living Legend | 6.00% | ~565 |
+| I'm a Living Legend | 7.00% | ~660 |
+| Perk of the Job | 7.00% | ~660 |
+| Skoova Diving | 7.00% | ~660 |
 | Road House | 6.00% | ~565 |
 | Get Down From There | 5.00% | ~471 |
 | Intergalactic Geographic | 5.00% | ~471 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 597)
 | Blood, Sweat, and Tears | 3.00% | ~283 |
 | Pinpoint | 2.00% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,420 (Ranked 169)  
+Progressed: 9,424 (Ranked 169)  
 Completed: 56 (0.59%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 56 (0.59%) (Ranked 198)
 | 2023-12-05 | 9,305 | 56 |
 | 2023-12-06 | 9,349 | 56 |
 | 2023-12-07 | 9,386 | 56 |
-| 2023-12-08 | 9,420 | 56 |
+| 2023-12-08 | 9,424 | 56 |
 ## Awards
 Max (Great Boss Battles): 3,426  (Ranked 92)  
 Sum: 5,326 (Ranked 136)  

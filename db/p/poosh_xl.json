@@ -4,8 +4,8 @@
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.31,
+  "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:46:01.034139+00:00",
@@ -732,6 +732,11 @@
       "Time": "2023-12-01T17:05:06.488973+00:00",
       "NumProgressed": 153,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-08T16:08:36.0191057+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -837,17 +842,17 @@
       "ID": "Destroy 25 Obstacles",
       "SetID": "5n829i",
       "Name": "Destroyed 25 Obstacles",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "Obtain 50 PowerUps",
       "SetID": "5n829i",
       "Name": "Obtained 50 PowerUps",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "Poosh Past 10000",
@@ -887,7 +892,7 @@
       "Name": "Pooshed over 250000",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Terrible Start",
@@ -895,20 +900,20 @@
       "Name": "Terrible Start",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:08:40.550321+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:08:36.0191055+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:25.3923528+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:02:59.7758985+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:08:40.5503427+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:02:53.5147615+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:08:36.019116+00:00"
 }

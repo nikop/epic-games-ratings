@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116141,
+  "EOS_Progressed": 116143,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20549,6 +20549,11 @@
       "Time": "2023-12-08T15:09:40.1999361+00:00",
       "NumProgressed": 116141,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-08T16:09:40.8858456+00:00",
+      "NumProgressed": 116143,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20568,7 +20573,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89429
+      "UsersEstimate": 89430
     },
     {
       "ID": "EAwards_10",
@@ -20632,7 +20637,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42972
+      "UsersEstimate": 42973
     },
     {
       "ID": "EAwards_18",
@@ -20648,7 +20653,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6968
+      "UsersEstimate": 6969
     },
     {
       "ID": "EAwards_2",
@@ -20656,7 +20661,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55748
+      "UsersEstimate": 55749
     },
     {
       "ID": "EAwards_20",
@@ -20680,7 +20685,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6968
+      "UsersEstimate": 6969
     },
     {
       "ID": "EAwards_23",
@@ -20744,7 +20749,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23228
+      "UsersEstimate": 23229
     },
     {
       "ID": "EAwards_30",
@@ -20832,7 +20837,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15098
+      "UsersEstimate": 15099
     },
     {
       "ID": "EAwards_40",
@@ -20951,7 +20956,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116141,
+      "Progressed": 116143,
       "Completed": 51
     }
   ],
@@ -20959,8 +20964,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:09:40.1999359+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:09:40.8858454+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.236213+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:58:35.7526104+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:09:40.2000541+00:00"
+  "LastUpdate_Ratings": "2023-12-08T15:58:42.943406+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:09:40.885991+00:00"
 }

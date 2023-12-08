@@ -2,10 +2,10 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 440,
+  "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -515,6 +515,11 @@
       "Time": "2023-12-08T05:05:59.6076573+00:00",
       "NumProgressed": 102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T16:06:45.8108925+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -927,7 +932,7 @@
       "Name": "Setting Sail",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -990,7 +995,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 0
     }
   ],
@@ -998,8 +1003,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:07:42.0644747+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:06:45.8108923+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:35.5527257+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:57:53.8619879+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:07:42.0645342+00:00"
+  "LastUpdate_Ratings": "2023-12-08T15:57:54.4149185+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:06:45.8109274+00:00"
 }

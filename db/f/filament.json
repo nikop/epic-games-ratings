@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -342,10 +342,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 206679,
-  "EOS_Completed": 538,
-  "EOS_NewPlayers": 376,
-  "EOS_NewCompleters": 1,
+  "EOS_Progressed": 206682,
+  "EOS_Completed": 539,
+  "EOS_NewPlayers": 375,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
@@ -25137,6 +25137,11 @@
       "Time": "2023-12-08T15:03:38.5401658+00:00",
       "NumProgressed": 206679,
       "NumCompleted": 538
+    },
+    {
+      "Time": "2023-12-08T16:03:38.84981+00:00",
+      "NumProgressed": 206682,
+      "NumCompleted": 539
     }
   ],
   "TotalAchievements": 29,
@@ -25172,7 +25177,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 194278
+      "UsersEstimate": 194281
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -25348,7 +25353,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16534
+      "UsersEstimate": 16535
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -25379,16 +25384,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 206679,
-      "Completed": 538
+      "Progressed": 206682,
+      "Completed": 539
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-07T22:59:44.525088+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:03:38.5401654+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:03:38.8498098+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:18.4469481+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:00:10.3125059+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:03:38.5403382+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:00:30.5456918+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:03:38.8499098+00:00"
 }

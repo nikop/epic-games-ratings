@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1559,9 +1559,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 7157,
+  "EOS_Progressed": 7158,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -14219,6 +14219,11 @@
       "Time": "2023-12-08T15:08:17.8622844+00:00",
       "NumProgressed": 7157,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-08T16:08:11.078025+00:00",
+      "NumProgressed": 7158,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -14254,7 +14259,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -14262,7 +14267,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4795
+      "UsersEstimate": 4796
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -14270,7 +14275,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5439
+      "UsersEstimate": 5440
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -14334,7 +14339,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "KILL_RAIDER",
@@ -14390,7 +14395,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5010
+      "UsersEstimate": 5011
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -14406,7 +14411,7 @@
       "Name": "Heating Up",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -14414,7 +14419,7 @@
       "Name": "Winter Is Here",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -14462,7 +14467,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4151
+      "UsersEstimate": 4152
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -14470,22 +14475,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 3793
+      "UsersEstimate": 3794
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7157,
+      "Progressed": 7158,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-06T20:00:19.1680052+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:08:17.862284+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:08:11.0780249+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:34.6501981+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:57:47.2359695+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:08:17.8623738+00:00"
+  "LastUpdate_Ratings": "2023-12-08T15:57:47.1986371+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:08:11.0780871+00:00"
 }

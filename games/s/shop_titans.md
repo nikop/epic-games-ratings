@@ -13,21 +13,21 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 5.00% | ~7,214 |
 | It's Free Real Estate | 5.00% | ~7,214 |
 | Capitalism Ho! | 5.00% | ~7,214 |
-| One Easy Payment | 4.00% | ~5,771 |
-| Some Assembly Required | 4.00% | ~5,771 |
-| Another Satisfied Customer | 4.00% | ~5,771 |
-| Pretty Penny | 4.00% | ~5,771 |
-| Budding Merchant | 4.00% | ~5,771 |
-| Own the Means of Production | 4.00% | ~5,771 |
-| The Daily Grind | 3.00% | ~4,328 |
-| Bounty Hunters | 3.00% | ~4,328 |
-| Demand for Supplies | 3.00% | ~4,328 |
-| Flooding the Market | 3.00% | ~4,328 |
-| Where it Hurts | 3.00% | ~4,328 |
-| Gild-Gotten Goods | 3.00% | ~4,328 |
-| One-Armed Bandit | 3.00% | ~4,328 |
-| Dungeon Imports | 3.00% | ~4,328 |
-| Through Repetition, Perfection | 3.00% | ~4,328 |
+| One Easy Payment | 4.00% | ~5,772 |
+| Some Assembly Required | 4.00% | ~5,772 |
+| Another Satisfied Customer | 4.00% | ~5,772 |
+| Pretty Penny | 4.00% | ~5,772 |
+| Budding Merchant | 4.00% | ~5,772 |
+| Own the Means of Production | 4.00% | ~5,772 |
+| The Daily Grind | 3.00% | ~4,329 |
+| Bounty Hunters | 3.00% | ~4,329 |
+| Demand for Supplies | 3.00% | ~4,329 |
+| Flooding the Market | 3.00% | ~4,329 |
+| Where it Hurts | 3.00% | ~4,329 |
+| Gild-Gotten Goods | 3.00% | ~4,329 |
+| One-Armed Bandit | 3.00% | ~4,329 |
+| Dungeon Imports | 3.00% | ~4,329 |
+| Through Repetition, Perfection | 3.00% | ~4,329 |
 | On the Path to Greatness | 2.00% | ~2,886 |
 | A Notch Above the Rest | 2.00% | ~2,886 |
 | Ascended | 2.00% | ~2,886 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~433 |
 | Capitalist Camaraderie | 0.20% | ~289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,280 (Ranked 80)  
+Progressed: 144,290 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,10 +351,10 @@ Completed: 291 (0.20%) (Ranked 258)
 | 2023-12-05 | 143,938 | 291 |
 | 2023-12-06 | 144,049 | 291 |
 | 2023-12-07 | 144,162 | 291 |
-| 2023-12-08 | 144,280 | 291 |
+| 2023-12-08 | 144,290 | 291 |
 ## Awards
 Max (Great for Beginners): 4,870  (Ranked 75)  
-Sum: 27,675 (Ranked 50)  
+Sum: 27,676 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -363,7 +363,7 @@ Diff (max vs sum): 25
 | This game has Quickly Understood Controls | 4,039 |
 | This game has Diverse Characters | 3,963 |
 | This game is Highly Recommended | 3,792 |
-| This game has Easy Combat | 3,738 |
+| This game has Easy Combat | 3,739 |
 | This game has Playful Visuals | 3,217 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -680,4 +680,4 @@ Diff (max vs sum): 25
 | 2023-12-05 | 3.99 | - | 4,864 | 27,662 |
 | 2023-12-06 | 3.99 | - | 4,868 | 27,669 |
 | 2023-12-07 | 3.99 | - | 4,870 | 27,674 |
-| 2023-12-08 | 3.99 | - | 4,870 | 27,675 |
+| 2023-12-08 | 3.99 | - | 4,870 | 27,676 |

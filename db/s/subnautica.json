@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2018-01-23T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -6001,10 +6001,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 5925,
       "NumberOfAwardsMax": 765
+    },
+    {
+      "Time": "2023-12-08T15:58:58.2538868+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 5926,
+      "NumberOfAwardsMax": 765
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5925,
+  "NumberOfAwards": 5926,
   "NumberOfAwardsMax": 765,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6066,7 +6072,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 477
+      "Count": 478
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -6086,8 +6092,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2023-12-08T01:46:43.0036923+00:00",
+  "LastChanged": "2023-12-08T15:58:58.2538867+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.5215927+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:58:49.2760603+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:04:41.0808883+00:00"
+  "LastUpdate_Ratings": "2023-12-08T15:58:58.2538873+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:04:48.1884158+00:00"
 }

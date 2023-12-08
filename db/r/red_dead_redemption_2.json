@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -17825,18 +17825,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 540992,
       "NumberOfAwardsMax": 206271
+    },
+    {
+      "Time": "2023-12-08T15:57:49.8182949+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 541489,
+      "NumberOfAwardsMax": 206654
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 540992,
-  "NumberOfAwardsMax": 206271,
+  "NumberOfAwards": 541489,
+  "NumberOfAwardsMax": 206654,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 206271
+      "Count": 206654
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -17884,7 +17890,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22668
+      "Count": 22720
     },
     {
       "Text": "This game is Great for Beginners",
@@ -17896,7 +17902,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 22171
+      "Count": 22233
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -17928,8 +17934,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-12-08T14:57:49.8910959+00:00",
+  "LastChanged": "2023-12-08T15:57:49.8182947+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:41.9159666+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:57:49.8910966+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:08:45.4344858+00:00"
+  "LastUpdate_Ratings": "2023-12-08T15:57:49.8182953+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:08:41.461204+00:00"
 }

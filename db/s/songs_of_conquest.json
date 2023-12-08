@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -440,7 +440,7 @@
   ],
   "EOS_Progressed": 380,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1994,9 +1994,9 @@
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 57
     },
     {
       "ID": "WielderLevel3",
@@ -2098,8 +2098,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:04:51.8385281+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:05:00.085118+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:00:23.5669113+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:04:51.838578+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:00:45.3992593+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:05:00.0851869+00:00"
 }

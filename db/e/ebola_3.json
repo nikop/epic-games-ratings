@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -1587,9 +1587,9 @@
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "achVip",
@@ -1644,8 +1644,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:09:52.4598846+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:09:53.715466+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:48.0867567+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:58:19.4471135+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:09:52.4599215+00:00"
+  "LastUpdate_Ratings": "2023-12-08T15:58:23.6988676+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:09:53.7154964+00:00"
 }

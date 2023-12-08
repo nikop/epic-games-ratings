@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape from Fleed | 53.00% | ~8 |
-| First Contact | 47.00% | ~7 |
-| Strength in Defeat | 47.00% | ~7 |
-| The Remains of Fleed | 47.00% | ~7 |
-| Life of Pi | 47.00% | ~7 |
-| Technology first! | 47.00% | ~7 |
-| The Legend | 47.00% | ~7 |
-| The Keeper of Fleed | 40.00% | ~6 |
-| Iron Fist | 20.00% | ~3 |
-| The Space Hydra | 20.00% | ~3 |
-| The Vega Turtle | 20.00% | ~3 |
+| Escape from Fleed | 50.00% | ~8 |
+| First Contact | 44.00% | ~7 |
+| Strength in Defeat | 44.00% | ~7 |
+| The Remains of Fleed | 44.00% | ~7 |
+| Life of Pi | 44.00% | ~7 |
+| Technology first! | 44.00% | ~7 |
+| The Legend | 44.00% | ~7 |
+| The Keeper of Fleed | 38.00% | ~6 |
+| Iron Fist | 19.00% | ~3 |
+| The Space Hydra | 19.00% | ~3 |
+| The Vega Turtle | 19.00% | ~3 |
 | A Good Paint Job | 13.00% | ~2 |
 | The Exterminator | 13.00% | ~2 |
 | The Royal Guard | 13.00% | ~2 |
-| The Power of Friendship | 7.00% | ~1 |
-| The Planner | 7.00% | ~1 |
-| Earth's Savior | 7.00% | ~1 |
-| Saucer Beast Unchained | 7.00% | ~1 |
-| The Battle Axe | 7.00% | ~1 |
-| The Interstellar Fighter | 7.00% | ~1 |
-| The Ultimate Attack | 7.00% | ~1 |
-| Vengeance of the Wolf | 7.00% | ~1 |
+| The Power of Friendship | 6.00% | ~1 |
+| The Planner | 6.00% | ~1 |
+| Earth's Savior | 6.00% | ~1 |
+| Saucer Beast Unchained | 6.00% | ~1 |
+| The Battle Axe | 6.00% | ~1 |
+| The Interstellar Fighter | 6.00% | ~1 |
+| The Ultimate Attack | 6.00% | ~1 |
+| Vengeance of the Wolf | 6.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
 | You can't fool me! | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | The Fire Cannons | 0.00% | ~0 |
 | The Flying Octopus | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 595)  
+Progressed: 16 (Ranked 591)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,4 +48,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-11-30 | 8 | 0 |
 | 2023-12-04 | 12 | 0 |
 | 2023-12-06 | 13 | 0 |
-| 2023-12-08 | 15 | 0 |
+| 2023-12-08 | 16 | 0 |

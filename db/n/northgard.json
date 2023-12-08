@@ -4,11 +4,11 @@
   "ProductSlug": "northgard",
   "Ranking_Rating": 232,
   "Ranking_Popularity": 496,
-  "Ranking_PopularitySum": 428,
+  "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-07-21T14:00:00+00:00",
     "PcReleaseDate": "2021-07-21T14:00:00+00:00",
@@ -484,10 +484,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 155,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-12-08T15:57:55.9641813+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 156,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 155,
+  "NumberOfAwards": 156,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -501,7 +507,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Diverse Characters",
@@ -545,8 +551,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:06.911042+00:00",
-  "LastChanged": "2023-12-08T13:57:54.3783566+00:00",
+  "LastChanged": "2023-12-08T15:57:55.9641812+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:36.8764302+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:57:55.2493118+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:05:53.5837174+00:00"
+  "LastUpdate_Ratings": "2023-12-08T15:57:55.9641816+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:06:09.0816279+00:00"
 }

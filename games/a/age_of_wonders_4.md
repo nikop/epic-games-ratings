@@ -14,11 +14,11 @@ Rating: 4.61 (Ranked 386)
 | Full Ascension | 3.00% | ~167 |
 | Bone Peddler | 3.00% | ~167 |
 | From Friends to Family | 3.00% | ~167 |
+| Seat of Power | 3.00% | ~167 |
 | Valley of Wonders | 2.00% | ~112 |
 | Enchanted Archipelago | 2.00% | ~112 |
 | Stronger Together | 2.00% | ~112 |
 | Magical Synergy | 2.00% | ~112 |
-| Seat of Power | 2.00% | ~112 |
 | In a Liege of Your Own | 2.00% | ~112 |
 | Impenetrable Fortress | 2.00% | ~112 |
 | Intimidation Tactics | 2.00% | ~112 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 386)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,575 (Ranked 189)  
+Progressed: 5,576 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,6 +266,7 @@ Completed: 7 (0.13%) (Ranked 278)
 | 2023-12-05 | 5,569 | 7 |
 | 2023-12-06 | 5,572 | 7 |
 | 2023-12-07 | 5,575 | 7 |
+| 2023-12-08 | 5,576 | 7 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 478)  
 Sum: 89 (Ranked 459)  

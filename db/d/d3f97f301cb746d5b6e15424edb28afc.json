@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -67,7 +67,7 @@
   "Tags": [],
   "EOS_Progressed": 1172,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3014,9 +3014,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 996
+      "UsersEstimate": 1008
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -3334,9 +3334,9 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 961
+      "UsersEstimate": 973
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
@@ -3358,9 +3358,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 832
+      "UsersEstimate": 844
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -3462,9 +3462,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 961
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -3647,8 +3647,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-04T17:00:39.9868842+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:04:41.8974164+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:04:49.1016947+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:57:37.79331+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:04:41.8975222+00:00"
+  "LastUpdate_Ratings": "2023-12-08T15:57:36.6666839+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:04:49.1018088+00:00"
 }

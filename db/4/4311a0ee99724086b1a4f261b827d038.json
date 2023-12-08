@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -627,10 +627,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 207,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-12-08T15:59:20.3871394+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 208,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 207,
+  "NumberOfAwards": 208,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -680,7 +686,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Competitive Players",
@@ -695,9 +701,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 236581,
+  "EOS_Progressed": 236588,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1390,
+  "EOS_NewPlayers": 1383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16645,6 +16651,11 @@
       "Time": "2023-12-08T15:09:54.1308677+00:00",
       "NumProgressed": 236581,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T16:09:55.7152869+00:00",
+      "NumProgressed": 236588,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -16705,7 +16716,7 @@
       "Name": "Hiigara Completed",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "HW1_MISSION1_COMPLETE",
@@ -16713,7 +16724,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49682
+      "UsersEstimate": 49683
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -16721,7 +16732,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21292
+      "UsersEstimate": 21293
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -16737,7 +16748,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9463
+      "UsersEstimate": 9464
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -16753,7 +16764,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7097
+      "UsersEstimate": 7098
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -16761,7 +16772,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7097
+      "UsersEstimate": 7098
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -16817,7 +16828,7 @@
       "Name": "Balcora Gate Complete",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "HW2_MISSION14_COMPLETE",
@@ -16841,7 +16852,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33121
+      "UsersEstimate": 33122
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -16913,7 +16924,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59145
+      "UsersEstimate": 59147
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -16928,16 +16939,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 236581,
+      "Progressed": 236588,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-12-08T11:59:49.3422594+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:09:54.1308675+00:00",
+  "LastChanged": "2023-12-08T15:59:20.387139+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:09:55.7152866+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:08.4919895+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:59:08.68357+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:09:54.1309773+00:00"
+  "LastUpdate_Ratings": "2023-12-08T15:59:20.3871399+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:09:55.7153976+00:00"
 }

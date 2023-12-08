@@ -4,8 +4,8 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 528,
+  "EOS_Progressed": 529,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1515,6 +1515,11 @@
       "Time": "2023-12-08T14:08:57.497833+00:00",
       "NumProgressed": 528,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-08T16:09:10.885859+00:00",
+      "NumProgressed": 529,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1525,9 +1530,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 249
     },
     {
       "ID": "AchvAllMemories",
@@ -1607,7 +1612,7 @@
       "Name": "Evacuation",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "AchvInvShip",
@@ -1621,9 +1626,9 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 116
     },
     {
       "ID": "AchvLava",
@@ -1695,7 +1700,7 @@
       "Name": "The field base",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "AchvReachCamp",
@@ -1711,7 +1716,7 @@
       "Name": "The City",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "AchvReachCondor",
@@ -1758,14 +1763,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 528,
+      "Progressed": 529,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:09:11.9983392+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:09:10.8858588+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:59:51.1758233+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:09:11.9983649+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:00:09.1892112+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:09:10.8858833+00:00"
 }

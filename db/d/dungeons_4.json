@@ -3,9 +3,9 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 310,
-  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 535,
-  "EOS_Completed": 12,
+  "EOS_Completed": 13,
   "EOS_NewPlayers": 27,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.24,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 2.43,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -1409,6 +1409,11 @@
       "Time": "2023-12-07T23:08:34.9487528+00:00",
       "NumProgressed": 535,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-08T16:09:01.9683392+00:00",
+      "NumProgressed": 535,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -1787,9 +1792,9 @@
       "ID": "ach_main16ring_completed",
       "SetID": "4hg22ll",
       "Name": "Doom Hill",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 128
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -1859,9 +1864,9 @@
       "ID": "ach_main19war_completed",
       "SetID": "4hg22ll",
       "Name": "The Rune Sockets of Finitude (Part 2)",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 96
     },
     {
       "ID": "ach_main19war_heal",
@@ -1909,13 +1914,13 @@
       "ID": "4hg22ll",
       "IsBase": true,
       "Progressed": 535,
-      "Completed": 12
+      "Completed": 13
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:09:03.9951475+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:09:01.9683389+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-08T14:57:30.3471957+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:09:03.9951949+00:00"
+  "LastUpdate_Ratings": "2023-12-08T15:57:27.8348372+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:09:01.9683804+00:00"
 }

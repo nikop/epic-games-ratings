@@ -6,37 +6,37 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~628,048 |
-| Death From Above | 45.00% | ~614,395 |
-| Master of the Household | 38.00% | ~518,822 |
-| Death of the Party | 35.00% | ~477,863 |
-| NEXUS-47 | 32.00% | ~436,903 |
-| The Last Tango | 31.00% | ~423,250 |
-| Nightmare Fuel | 30.00% | ~409,597 |
-| The Result of Previous Training | 28.00% | ~382,290 |
-| Tools of the Trade | 28.00% | ~382,290 |
-| Cleared for Field Duty | 27.00% | ~368,637 |
-| Seizing the Opportunity | 26.00% | ~354,984 |
-| Bullet Train | 21.00% | ~286,718 |
-| Stylish Assassin | 20.00% | ~273,064 |
-| Silent Assassin | 14.00% | ~191,145 |
-| Rise Up | 12.00% | ~163,839 |
-| Evil Wine Club | 11.00% | ~150,185 |
-| Console Cowboy | 10.00% | ~136,532 |
-| Last Stop | 10.00% | ~136,532 |
-| A New Profile | 9.00% | ~122,879 |
-| Full House | 9.00% | ~122,879 |
-| Dune Raider | 8.00% | ~109,226 |
-| No Stone Unturned | 8.00% | ~109,226 |
-| Train Surfing | 8.00% | ~109,226 |
-| Family Feud | 6.00% | ~81,919 |
-| Icebreaker | 6.00% | ~81,919 |
-| Count Down From 47 | 6.00% | ~81,919 |
-| Shortcut Killer | 5.00% | ~68,266 |
-| Stair Master | 5.00% | ~68,266 |
-| Followed the Trails | 5.00% | ~68,266 |
-| Last Call | 5.00% | ~68,266 |
-| Rich Harvest | 5.00% | ~68,266 |
+| Unseen Assassin | 46.00% | ~628,055 |
+| Death From Above | 45.00% | ~614,401 |
+| Master of the Household | 38.00% | ~518,828 |
+| Death of the Party | 35.00% | ~477,868 |
+| NEXUS-47 | 32.00% | ~436,908 |
+| The Last Tango | 31.00% | ~423,254 |
+| Nightmare Fuel | 30.00% | ~409,601 |
+| The Result of Previous Training | 28.00% | ~382,294 |
+| Tools of the Trade | 28.00% | ~382,294 |
+| Cleared for Field Duty | 27.00% | ~368,641 |
+| Seizing the Opportunity | 26.00% | ~354,987 |
+| Bullet Train | 21.00% | ~286,721 |
+| Stylish Assassin | 20.00% | ~273,067 |
+| Silent Assassin | 14.00% | ~191,147 |
+| Rise Up | 12.00% | ~163,840 |
+| Evil Wine Club | 11.00% | ~150,187 |
+| Console Cowboy | 10.00% | ~136,534 |
+| Last Stop | 10.00% | ~136,534 |
+| A New Profile | 9.00% | ~122,880 |
+| Full House | 9.00% | ~122,880 |
+| Dune Raider | 8.00% | ~109,227 |
+| No Stone Unturned | 8.00% | ~109,227 |
+| Train Surfing | 8.00% | ~109,227 |
+| Family Feud | 6.00% | ~81,920 |
+| Icebreaker | 6.00% | ~81,920 |
+| Count Down From 47 | 6.00% | ~81,920 |
+| Shortcut Killer | 5.00% | ~68,267 |
+| Stair Master | 5.00% | ~68,267 |
+| Followed the Trails | 5.00% | ~68,267 |
+| Last Call | 5.00% | ~68,267 |
+| Rich Harvest | 5.00% | ~68,267 |
 | Treacherous Architecture | 4.00% | ~54,613 |
 | Upstairs, Downstairs | 4.00% | ~54,613 |
 | The Great Outdoors | 4.00% | ~54,613 |
@@ -49,12 +49,12 @@ Number of Ratings: 21,082  (23.09.2022)
 | Hack the Planet | 3.00% | ~40,960 |
 | Master the Terroir | 3.00% | ~40,960 |
 | Vineyard Virtuoso | 3.00% | ~40,960 |
-| Bird Art | 2.00% | ~27,306 |
+| Bird Art | 2.00% | ~27,307 |
 | Top of the Class | 1.00% | ~13,653 |
 | Ripe for the Picking | 1.00% | ~13,653 |
 | The Creative Assassin | 0.70% | ~9,557 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,365,322 (Ranked 9)  
+Progressed: 1,365,336 (Ranked 9)  
 Completed: 2,199 (0.16%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,14 +286,14 @@ Completed: 2,199 (0.16%) (Ranked 271)
 | 2023-12-05 | 1,364,573 | 2,198 |
 | 2023-12-06 | 1,364,856 | 2,198 |
 | 2023-12-07 | 1,365,133 | 2,199 |
-| 2023-12-08 | 1,365,322 | 2,199 |
+| 2023-12-08 | 1,365,336 | 2,199 |
 ## Awards
-Max (Diverse Characters): 10,927  (Ranked 37)  
-Sum: 74,856 (Ranked 22)  
+Max (Diverse Characters): 10,933  (Ranked 37)  
+Sum: 74,862 (Ranked 22)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 10,927 |
+| This game has Diverse Characters | 10,933 |
 | This game is Highly Recommended | 9,823 |
 | This game is Extremely Fun | 9,491 |
 | This game has Amazing Storytelling | 9,342 |
@@ -650,4 +650,4 @@ Diff (max vs sum): 15
 | 2023-12-05 | 4.78 | - | 10,913 | 74,756 |
 | 2023-12-06 | 4.78 | - | 10,922 | 74,795 |
 | 2023-12-07 | 4.78 | - | 10,927 | 74,822 |
-| 2023-12-08 | 4.78 | - | 10,927 | 74,856 |
+| 2023-12-08 | 4.78 | - | 10,933 | 74,862 |

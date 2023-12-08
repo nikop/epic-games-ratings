@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Introduction completed | 80.00% | ~20 |
 | Chapter 2 | 52.00% | ~13 |
+| Chapter 3 | 52.00% | ~13 |
 | Chapter 1 | 48.00% | ~12 |
-| Chapter 3 | 48.00% | ~12 |
 | Chapter 4 | 44.00% | ~11 |
 | Your Days Are Numbered | 44.00% | ~11 |
 | All Materials | 44.00% | ~11 |

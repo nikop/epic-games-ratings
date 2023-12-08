@@ -8,7 +8,7 @@
 | Chest ✔ | 56.00% | ~160 |
 | Inventory ✔ | 55.00% | ~157 |
 | Police officers ✔ | 29.00% | ~83 |
-| Mutation ✔ | 26.00% | ~74 |
+| Mutation ✔ | 27.00% | ~77 |
 | Doberman ✔ | 16.00% | ~46 |
 | Weapon ✔ | 12.00% | ~34 |
 | Chess ✔ | 11.00% | ~31 |

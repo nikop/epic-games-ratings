@@ -41,14 +41,14 @@
 | Forbidden Knowledge | 27.00% | ~144 |
 | Hungry, Hungry Gorgu! | 26.00% | ~139 |
 | The Finitude Drill | 26.00% | ~139 |
+| Doom Hill | 24.00% | ~128 |
 | Stop Tanos! | 23.00% | ~123 |
-| Doom Hill | 23.00% | ~123 |
 | Brimstone Shaken, Not Stirred | 22.00% | ~118 |
 | Sabotage! | 21.00% | ~112 |
 | Bonus Evilness | 20.00% | ~107 |
 | Raiders of the Lost Stone | 20.00% | ~107 |
 | The Rune Sockets of Finitude (Part 1) | 19.00% | ~102 |
-| The Rune Sockets of Finitude (Part 2) | 17.00% | ~91 |
+| The Rune Sockets of Finitude (Part 2) | 18.00% | ~96 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~86 |
 | My Little Torture Chamber | 16.00% | ~86 |
 | Lavalumps on Ice! | 16.00% | ~86 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 6.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 535 (Ranked 310)  
-Completed: 12 (2.24%) (Ranked 125)  
+Completed: 13 (2.43%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,3 +100,4 @@ Completed: 12 (2.24%) (Ranked 125)
 | 2023-12-05 | 528 | 12 |
 | 2023-12-06 | 530 | 12 |
 | 2023-12-07 | 535 | 12 |
+| 2023-12-08 | 535 | 13 |

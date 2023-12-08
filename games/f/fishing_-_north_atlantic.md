@@ -1,7 +1,7 @@
 # Fishing - North Atlantic
 [Store](https://store.epicgames.com/en-US/p/fishing-north-atlantic-9fbc5c)  
 [View Rawdata](../../db/f/fishing_-_north_atlantic.json)  
-Rating: 4.34 (Ranked 811)  
+Rating: 4.35 (Ranked 795)  
 Number of Ratings: 33  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -32,3 +32,4 @@ Number of Ratings: 33  (23.09.2022)
 | 2023-08-19 | 4.31 | - | 0 | 0 |
 | 2023-08-27 | 4.33 | - | 0 | 0 |
 | 2023-10-29 | 4.34 | - | 0 | 0 |
+| 2023-12-08 | 4.35 | - | 0 | 0 |

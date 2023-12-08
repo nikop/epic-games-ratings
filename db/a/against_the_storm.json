@@ -3371,9 +3371,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17664,
+  "EOS_Progressed": 17668,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -14991,6 +14991,11 @@
       "Time": "2023-12-08T14:04:21.4963818+00:00",
       "NumProgressed": 17664,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-08T16:04:36.2147062+00:00",
+      "NumProgressed": 17668,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15001,9 +15006,9 @@
       "ID": "AleChain",
       "SetID": "cfbk359",
       "Name": "Serving Ale",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "AllFood",
@@ -15081,9 +15086,9 @@
       "ID": "Win5Years",
       "SetID": "cfbk359",
       "Name": "Homesick",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "WinFirstGame",
@@ -15129,9 +15134,9 @@
       "ID": "WinNearBarren",
       "SetID": "cfbk359",
       "Name": "Barren Lands",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearBattleground",
@@ -15474,15 +15479,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17664,
+      "Progressed": 17668,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-07T19:59:38.7058296+00:00",
-  "LastChanged_Achievements": "2023-12-08T15:04:29.4751928+00:00",
+  "LastChanged_Achievements": "2023-12-08T16:04:36.2147059+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-08T15:00:02.148653+00:00",
-  "LastUpdate_Achievements": "2023-12-08T15:04:29.4752768+00:00"
+  "LastUpdate_Ratings": "2023-12-08T16:00:21.3328279+00:00",
+  "LastUpdate_Achievements": "2023-12-08T16:04:36.2148184+00:00"
 }
