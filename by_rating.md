@@ -26,7 +26,7 @@
 | 17 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 23 | 535 |
 | 17 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 558 |
 | 26 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.87 | 22 | 542 |
-| 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,512 | 132 |
+| 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,518 | 132 |
 | 26 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 739 | 183 |
 | 26 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 0 | 558 |
 | 26 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.87 | 0 | 558 |
@@ -490,7 +490,7 @@
 | 482 | [IXION](games/i/ixion.md) | 4.57 | 0 | 558 |
 | 482 | [Minit](games/m/minit.md) | 4.57 | 0 | 558 |
 | 482 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 25 | 526 |
-| 482 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,378 | 96 |
+| 482 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,380 | 96 |
 | 482 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 558 |
 | 482 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,541 | 81 |
 | 482 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 31 | 500 |
@@ -869,7 +869,7 @@
 | 861 | [Scrapnaut](games/s/scrapnaut.md) | 4.28 | 0 | 558 |
 | 861 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 308 |
 | 869 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 558 |
-| 869 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,874 | 88 |
+| 869 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,875 | 88 |
 | 869 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 20 | 551 |
 | 869 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 558 |
 | 869 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,778 | 100 |
