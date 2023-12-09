@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 22.82% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 22.80% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -69,7 +69,7 @@
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.06% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.74% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.84% |
 | 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
@@ -89,7 +89,7 @@
 | 87 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.24% |
 | 88 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.22% |
 | 89 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.12% |
-| 90 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
+| 90 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 91 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 4.03% |
 | 92 | [The Bunker](games/t/the_bunker.md) | 4.00% |
 | 93 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.72% |
@@ -97,20 +97,20 @@
 | 94 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.61% |
 | 96 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.33% |
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
-| 98 | [Destiny 2](games/d/destiny_2.md) | 3.21% |
-| 99 | [The Complex](games/t/the_complex.md) | 3.18% |
-| 100 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
-| 100 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
-| 102 | [Doodle God](games/d/doodle_god.md) | 3.08% |
-| 102 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
-| 104 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.06% |
+| 98 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.22% |
+| 99 | [Destiny 2](games/d/destiny_2.md) | 3.21% |
+| 100 | [The Complex](games/t/the_complex.md) | 3.18% |
+| 101 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
+| 101 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
+| 103 | [Doodle God](games/d/doodle_god.md) | 3.08% |
+| 103 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 105 | [HordeCore](games/h/hordecore.md) | 3.04% |
 | 106 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.01% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
 | 108 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.94% |
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 110 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 111 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.88% |
+| 111 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.87% |
 | 112 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 112 | [Night Book](games/n/night_book.md) | 2.78% |
 | 114 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
@@ -135,8 +135,8 @@
 | 133 | [Somerville](games/s/somerville.md) | 1.86% |
 | 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.83% |
 | 135 | [Sifu](games/s/sifu.md) | 1.80% |
-| 136 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.79% |
-| 137 | [Frogun](games/f/frogun.md) | 1.77% |
+| 136 | [Frogun](games/f/frogun.md) | 1.77% |
+| 136 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.77% |
 | 138 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.74% |
 | 139 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.62% |
 | 140 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
@@ -167,8 +167,8 @@
 | 165 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.15% |
 | 166 | [Adios](games/a/adios.md) | 1.08% |
 | 167 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
+| 168 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
 | 168 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |
-| 169 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
 | 170 | [Sable](games/s/sable.md) | 1.01% |
 | 171 | [Trifox](games/t/trifox.md) | 0.96% |
 | 172 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.95% |
@@ -183,8 +183,8 @@
 | 181 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.82% |
 | 182 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 183 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.80% |
-| 184 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.79% |
 | 184 | [Infindustry](games/i/infindustry.md) | 0.79% |
+| 185 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.78% |
 | 186 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 187 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.72% |
 | 188 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |

@@ -138,7 +138,7 @@
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 394,515 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 394,563 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -278,7 +278,6 @@
 | [Cynosure](games/e/e7e4e7b976e44a93885278cfd11e9d3a.md) | 2099-01-01 | - |  | - | - |
 | [DAY_000](games/7/7862c34b00e749a3b3066004ae157859.md) | 2099-01-01 | - |  | - | - |
 | [Debtors' Club](games/d/dda54842f3d34f8791f2bddfe7d21676.md) | 2099-01-01 | - |  | - | - |
-| [Defimons](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | - |  | - | - |
 | [Delysium](games/d/delysium.md) | 2099-01-01 | - |  | - | - |
 | [Derelicts](games/d/derelicts.md) | 2099-01-01 | - |  | - | - |
 | [DESERTED](games/0/0ee52c80fe5e48a48f5c0d80fa9436cc.md) | 2099-01-01 | 23 (1,000 XP) | 3 | - | - |
@@ -414,6 +413,7 @@
 | [Space Nation Online](games/1/12dc38cab446471a86b3c78ba31d0a5f.md) | 2099-01-01 | - |  | - | - |
 | [Space Rocks!](games/2/2fdfd820f11346f8a6ebb3bd5e6339c7.md) | 2099-01-01 | - |  | - | - |
 | [Spaceport Trading Company](games/e/e561c551144744fab8cb66b0ec26af70.md) | 2099-01-01 | - |  | - | - |
+| [Spellborne](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | - |  | - | - |
 | [Spirit of the North 2](games/c/c083fb427c1b49efb2a3af523d545469.md) | 2099-01-01 | - |  | - | - |
 | [Spirittea](games/s/spirittea.md) | 2099-01-01 | - |  | - | - |
 | [Splitgate](games/s/splitgate.md) | 2099-01-01 | - |  | - | - |
