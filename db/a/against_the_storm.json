@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 3694,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3383,9 +3383,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17775,
+  "EOS_Progressed": 17781,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15133,6 +15133,11 @@
       "Time": "2023-12-09T17:04:48.5572333+00:00",
       "NumProgressed": 17775,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-09T18:04:43.0419427+00:00",
+      "NumProgressed": 17781,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15423,17 +15428,17 @@
       "ID": "WinOnMarshlands",
       "SetID": "cfbk359",
       "Name": "The Marshlands",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 142
     },
     {
       "ID": "WinOnMoorlands",
       "SetID": "cfbk359",
       "Name": "The Scarlet Orchard",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 124
     },
     {
       "ID": "WinPrestige10",
@@ -15616,15 +15621,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17775,
+      "Progressed": 17781,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-09T14:57:03.5888022+00:00",
-  "LastChanged_Achievements": "2023-12-09T17:04:48.5572327+00:00",
+  "LastChanged_Achievements": "2023-12-09T18:04:43.0419423+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-09T16:57:11.3710858+00:00",
-  "LastUpdate_Achievements": "2023-12-09T17:04:48.557326+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:57:17.2939091+00:00",
+  "LastUpdate_Achievements": "2023-12-09T18:04:43.0420456+00:00"
 }

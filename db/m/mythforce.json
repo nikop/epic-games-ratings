@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -818,9 +818,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5420,
+  "EOS_Progressed": 5422,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -10783,6 +10783,11 @@
       "Time": "2023-12-09T14:07:26.334778+00:00",
       "NumProgressed": 5420,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-09T18:06:01.3863968+00:00",
+      "NumProgressed": 5422,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10843,7 +10848,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10859,7 +10864,7 @@
       "Name": "Flawless Victory",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -10881,9 +10886,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1301
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -10891,7 +10896,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -10907,7 +10912,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -10978,15 +10983,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5420,
+      "Progressed": 5422,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-06T15:59:42.180054+00:00",
-  "LastChanged_Achievements": "2023-12-09T17:06:06.9191934+00:00",
+  "LastChanged_Achievements": "2023-12-09T18:06:01.3863965+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-09T16:57:09.6844444+00:00",
-  "LastUpdate_Achievements": "2023-12-09T17:06:06.9192537+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:57:15.5800119+00:00",
+  "LastUpdate_Achievements": "2023-12-09T18:06:01.3864481+00:00"
 }

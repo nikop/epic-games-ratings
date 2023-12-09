@@ -8,9 +8,9 @@ Rating: 3.75 (Ranked 1,050)
 | I can do a thing or two | 60.00% | ~354 |
 | Buckle up | 59.00% | ~348 |
 | Quick charge | 59.00% | ~348 |
+| Hands up! | 53.00% | ~313 |
 | Now you know | 53.00% | ~313 |
-| Hands up! | 52.00% | ~307 |
-| Short circuit | 52.00% | ~307 |
+| Short circuit | 53.00% | ~313 |
 | Curious | 42.00% | ~248 |
 | Everybody lies | 36.00% | ~212 |
 | Trick or Treat? | 24.00% | ~142 |

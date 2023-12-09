@@ -7,24 +7,24 @@ Number of Ratings: 706  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Having A Field Day | 76.00% | ~5,455 |
-| Get A Room | 75.00% | ~5,383 |
-| Reap What You Sow | 73.00% | ~5,239 |
-| The First Day | 70.00% | ~5,024 |
-| Novice Researcher | 68.00% | ~4,880 |
+| Get A Room | 75.00% | ~5,384 |
+| Reap What You Sow | 73.00% | ~5,240 |
+| The First Day | 70.00% | ~5,025 |
+| Novice Researcher | 68.00% | ~4,881 |
 | Green Thumb | 67.00% | ~4,809 |
-| Home Cooked Meal | 61.00% | ~4,378 |
+| Home Cooked Meal | 61.00% | ~4,379 |
 | Onward | 58.00% | ~4,163 |
-| The First Week | 56.00% | ~4,019 |
-| Beam Me Up | 53.00% | ~3,804 |
+| The First Week | 56.00% | ~4,020 |
 | Studious Researcher | 53.00% | ~3,804 |
-| Putting Food on the Table | 47.00% | ~3,373 |
+| Beam Me Up | 52.00% | ~3,733 |
+| Putting Food on the Table | 47.00% | ~3,374 |
 | Adept Researcher | 45.00% | ~3,230 |
-| Retribution | 42.00% | ~3,014 |
-| ...And Don’t Come Back! | 42.00% | ~3,014 |
-| Feast or Famine | 38.00% | ~2,727 |
+| Retribution | 42.00% | ~3,015 |
+| ...And Don’t Come Back! | 42.00% | ~3,015 |
+| Feast or Famine | 38.00% | ~2,728 |
 | Heating Up | 32.00% | ~2,297 |
 | Luminary Researcher | 31.00% | ~2,225 |
-| Winter Is Coming | 29.00% | ~2,081 |
+| Winter Is Coming | 29.00% | ~2,082 |
 | Fit For A King | 28.00% | ~2,010 |
 | Winter Is Here | 25.00% | ~1,794 |
 | Oh Deer! | 23.00% | ~1,651 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~144 |
 | Wabbit Season | 0.50% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,177 (Ranked 182)  
+Progressed: 7,178 (Ranked 182)  
 Completed: 14 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 14 (0.20%) (Ranked 258)
 | 2023-12-06 | 7,140 | 14 |
 | 2023-12-07 | 7,154 | 14 |
 | 2023-12-08 | 7,165 | 14 |
-| 2023-12-09 | 7,177 | 14 |
+| 2023-12-09 | 7,178 | 14 |
 ## Awards
 Max (Great for Beginners): 128  (Ranked 335)  
 Sum: 1,035 (Ranked 261)  

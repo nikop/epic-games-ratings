@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 551,
+  "EOS_Progressed": 552,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -944,6 +944,11 @@
       "Time": "2023-12-08T17:10:05.2984221+00:00",
       "NumProgressed": 551,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-09T18:09:11.6782743+00:00",
+      "NumProgressed": 552,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -995,7 +1000,7 @@
       "Name": "A Friend in Need",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "TROP006",
@@ -1019,7 +1024,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "TROP009",
@@ -1147,7 +1152,7 @@
       "Name": "You Can Pet The Fox",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "TROP025",
@@ -1178,7 +1183,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 551,
+      "Progressed": 552,
       "Completed": 3
     }
   ],
@@ -1186,8 +1191,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-12-09T17:09:59.5566676+00:00",
+  "LastChanged_Achievements": "2023-12-09T18:09:11.6782739+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:54.3237808+00:00",
-  "LastUpdate_Ratings": "2023-12-09T16:58:45.3746081+00:00",
-  "LastUpdate_Achievements": "2023-12-09T17:09:59.556687+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:58:50.5452613+00:00",
+  "LastUpdate_Achievements": "2023-12-09T18:09:11.6782979+00:00"
 }

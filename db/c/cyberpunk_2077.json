@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -16284,18 +16284,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 403680,
       "NumberOfAwardsMax": 119484
+    },
+    {
+      "Time": "2023-12-09T18:02:46.7063819+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 404697,
+      "NumberOfAwardsMax": 120272
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 403680,
-  "NumberOfAwardsMax": 119484,
+  "NumberOfAwards": 404697,
+  "NumberOfAwardsMax": 120272,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 119484
+      "Count": 120272
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -16349,7 +16355,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 22239
+      "Count": 22468
     },
     {
       "Text": "This game is Extremely Fun",
@@ -16364,10 +16370,10 @@
       "Count": 14971
     }
   ],
-  "EOS_Progressed": 973288,
-  "EOS_Completed": 2869,
-  "EOS_NewPlayers": 5591,
-  "EOS_NewCompleters": 33,
+  "EOS_Progressed": 973314,
+  "EOS_Completed": 2870,
+  "EOS_NewPlayers": 5558,
+  "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -42899,6 +42905,11 @@
       "Time": "2023-12-09T17:04:18.8097056+00:00",
       "NumProgressed": 973288,
       "NumCompleted": 2869
+    },
+    {
+      "Time": "2023-12-09T18:04:14.0727348+00:00",
+      "NumProgressed": 973314,
+      "NumCompleted": 2870
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -42935,7 +42946,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38932
+      "UsersEstimate": 38933
     },
     {
       "ID": "Denied",
@@ -42943,7 +42954,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48664
+      "UsersEstimate": 48666
     },
     {
       "ID": "FollowingTheRiver",
@@ -42983,7 +42994,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68130
+      "UsersEstimate": 68132
     },
     {
       "ID": "Gunslinger",
@@ -43055,7 +43066,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4866
+      "UsersEstimate": 4867
     },
     {
       "ID": "NoMansLand",
@@ -43127,7 +43138,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58397
+      "UsersEstimate": 58399
     },
     {
       "ID": "TheHermit",
@@ -43151,7 +43162,7 @@
       "Name": "The Lovers",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48664
+      "UsersEstimate": 48666
     },
     {
       "ID": "TheStar",
@@ -43239,7 +43250,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116795
+      "UsersEstimate": 116798
     },
     {
       "ID": "YipMan",
@@ -43351,7 +43362,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "UltimateSurvivor",
@@ -43367,7 +43378,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "HydraIsDead",
@@ -43383,7 +43394,7 @@
       "Name": "Arachnophobia",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "KingOfTheCups",
@@ -43431,7 +43442,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "EasyComeEasyGo",
@@ -43446,21 +43457,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 973288,
-      "Completed": 2869
+      "Progressed": 973314,
+      "Completed": 2870
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 101911,
+      "Progressed": 101937,
       "Completed": 10328
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-09T16:02:51.8661046+00:00",
-  "LastChanged_Achievements": "2023-12-09T17:04:18.8097051+00:00",
+  "LastChanged": "2023-12-09T18:02:46.7063817+00:00",
+  "LastChanged_Achievements": "2023-12-09T18:04:14.0727345+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.8863582+00:00",
-  "LastUpdate_Ratings": "2023-12-09T17:02:52.9514356+00:00",
-  "LastUpdate_Achievements": "2023-12-09T17:04:18.8098931+00:00"
+  "LastUpdate_Ratings": "2023-12-09T18:02:46.7063826+00:00",
+  "LastUpdate_Achievements": "2023-12-09T18:04:14.0728705+00:00"
 }

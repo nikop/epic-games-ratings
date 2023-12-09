@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Act of Kindness | 86.00% | ~55 |
-| Air Fighter | 78.00% | ~50 |
+| Air Fighter | 80.00% | ~51 |
 | Oo-De-Lally | 67.00% | ~43 |
 | Treasure Hunter | 67.00% | ~43 |
 | The Altruist | 67.00% | ~43 |
-| Watch your Step! | 55.00% | ~35 |
+| Watch your Step! | 56.00% | ~36 |
 | Tap Dancing | 53.00% | ~34 |
 | MAX LEVEL | 50.00% | ~32 |
 | Right between the eyes | 45.00% | ~29 |
@@ -22,9 +22,9 @@
 | Finish Him! | 30.00% | ~19 |
 | Savior | 27.00% | ~17 |
 | Ultra Rebel Instinct | 25.00% | ~16 |
+| Merry Go Round | 23.00% | ~15 |
 | Take Action! | 22.00% | ~14 |
 | First Aid | 22.00% | ~14 |
-| Merry Go Round | 22.00% | ~14 |
 | Ultra Combo | 17.00% | ~11 |
 | Ascending Will | 16.00% | ~10 |
 | Hidden Experiment | 14.00% | ~9 |

@@ -6,23 +6,23 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 33.00% | ~9 |
-| Rock of the Bay | 33.00% | ~9 |
-| Furon Fashion | 22.00% | ~6 |
-| Ducks in a Row, Fish in a Barrel | 22.00% | ~6 |
-| Shop Til They Drop | 19.00% | ~5 |
-| I Look Up As I Walk to Takoshima | 15.00% | ~4 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~3 |
+| Mash Machine | 36.00% | ~10 |
+| Rock of the Bay | 32.00% | ~9 |
+| Furon Fashion | 25.00% | ~7 |
+| Ducks in a Row, Fish in a Barrel | 21.00% | ~6 |
+| Shop Til They Drop | 18.00% | ~5 |
+| I Look Up As I Walk to Takoshima | 14.00% | ~4 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 14.00% | ~4 |
 | Earthly Pleasures | 11.00% | ~3 |
+| Upgreatest | 11.00% | ~3 |
+| Dusted | 11.00% | ~3 |
+| Pimp My Raid | 11.00% | ~3 |
 | Cult Following | 7.00% | ~2 |
 | Lie Back and Think of Albion | 7.00% | ~2 |
 | Fly Me to the Moon Base | 7.00% | ~2 |
 | Bodied Sattva | 7.00% | ~2 |
 | Kaijuiced | 7.00% | ~2 |
 | Scuttled | 7.00% | ~2 |
-| Upgreatest | 7.00% | ~2 |
-| Dusted | 7.00% | ~2 |
-| Pimp My Raid | 7.00% | ~2 |
 | Perfect Probulator | 4.00% | ~1 |
 | Transmitting From Sol-3 | 4.00% | ~1 |
 | Forbidden Donut | 4.00% | ~1 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 | Arkvoodle Doodle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 551)  
+Progressed: 28 (Ranked 548)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 20 | 0 |
 | 2023-12-07 | 21 | 0 |
 | 2023-12-08 | 25 | 0 |
-| 2023-12-09 | 27 | 0 |
+| 2023-12-09 | 28 | 0 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 480)  
 Sum: 35 (Ranked 508)  

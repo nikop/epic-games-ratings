@@ -1309,9 +1309,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259182,
+  "EOS_Progressed": 259184,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23659,6 +23659,11 @@
       "Time": "2023-12-09T16:08:02.3109979+00:00",
       "NumProgressed": 259182,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-09T18:06:36.840744+00:00",
+      "NumProgressed": 259184,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -23718,7 +23723,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80346
+      "UsersEstimate": 80347
     },
     {
       "ID": "BackHomeNTimes",
@@ -23782,7 +23787,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7775
+      "UsersEstimate": 7776
     },
     {
       "ID": "CreditLevel3",
@@ -23942,7 +23947,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7775
+      "UsersEstimate": 7776
     },
     {
       "ID": "KillOtherWithMine",
@@ -24117,7 +24122,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259182,
+      "Progressed": 259184,
       "Completed": 3
     }
   ],
@@ -24125,8 +24130,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-08T13:02:45.6518515+00:00",
-  "LastChanged_Achievements": "2023-12-09T17:08:33.6825387+00:00",
+  "LastChanged_Achievements": "2023-12-09T18:06:36.8407437+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:43.7496821+00:00",
-  "LastUpdate_Ratings": "2023-12-09T16:58:35.8210308+00:00",
-  "LastUpdate_Achievements": "2023-12-09T17:08:33.6826559+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:58:41.0625345+00:00",
+  "LastUpdate_Achievements": "2023-12-09T18:06:36.8408621+00:00"
 }

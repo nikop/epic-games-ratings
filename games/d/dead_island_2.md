@@ -1,13 +1,13 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 533)  
+Rating: 4.54 (Ranked 534)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,972 |
-| Whatever It Takes | 3.00% | ~1,738 |
-| Pork Chopped | 3.00% | ~1,738 |
+| Welcome To Hell-A | 3.00% | ~21,973 |
+| Whatever It Takes | 3.00% | ~1,739 |
+| Pork Chopped | 3.00% | ~1,739 |
 | Dr. Reed, I Presume? | 2.00% | ~14,648 |
 | Git Gutte! | 2.00% | ~14,648 |
 | Anger Management | 2.00% | ~14,648 |
@@ -41,10 +41,10 @@ Rating: 4.54 (Ranked 533)
 | Jumbo Keyring | 0.80% | ~5,859 |
 | Go, Bobcats! | 0.80% | ~5,859 |
 | Rising Star | 0.80% | ~5,859 |
-| On Safari | 0.60% | ~4,394 |
-| Smorgasbord | 0.60% | ~4,394 |
-| Internet Famous | 0.60% | ~4,394 |
-| Variety is the Spice of Death | 0.60% | ~4,394 |
+| On Safari | 0.60% | ~4,395 |
+| Smorgasbord | 0.60% | ~4,395 |
+| Internet Famous | 0.60% | ~4,395 |
+| Variety is the Spice of Death | 0.60% | ~4,395 |
 | Make it So | 0.50% | ~3,662 |
 | LA Influential | 0.50% | ~3,662 |
 | Sole Survivor | 0.40% | ~2,930 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 533)
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,397 (Ranked 21)  
+Progressed: 732,424 (Ranked 21)  
 Completed: 2,470 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,10 +290,10 @@ Completed: 2,470 (0.34%) (Ranked 234)
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
-| 2023-12-09 | 732,397 | 2,470 |
+| 2023-12-09 | 732,424 | 2,470 |
 ## Awards
 Max (Great Boss Battles): 8,042  (Ranked 49)  
-Sum: 12,356 (Ranked 82)  
+Sum: 12,358 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -304,7 +304,7 @@ Diff (max vs sum): -33
 | This game is Relaxing | 537 |
 | This game has Amazing Storytelling | 520 |
 | This game is Extremely Fun | 509 |
-| This game is Highly Recommended | 504 |
+| This game is Highly Recommended | 506 |
 | This game has Amazing Characters | 467 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -541,4 +541,4 @@ Diff (max vs sum): -33
 | 2023-12-06 | 4.54 | 7,968 | 12,240 |
 | 2023-12-07 | 4.54 | 7,994 | 12,284 |
 | 2023-12-08 | 4.54 | 8,017 | 12,324 |
-| 2023-12-09 | 4.54 | 8,042 | 12,356 |
+| 2023-12-09 | 4.54 | 8,042 | 12,358 |

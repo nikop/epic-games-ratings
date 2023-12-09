@@ -13,7 +13,7 @@
 | All Materials | 44.00% | ~11 |
 | It's In My Nature | 44.00% | ~11 |
 | Chapter 5 | 40.00% | ~10 |
-| Chapter 6 | 28.00% | ~7 |
+| Chapter 6 | 32.00% | ~8 |
 | Food Thief | 20.00% | ~5 |
 | Ads Fan | 16.00% | ~4 |
 | Best Student | 16.00% | ~4 |

@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,795 |
-| Gun Fu | 7.00% | ~68,130 |
-| The Fool | 6.00% | ~58,397 |
-| Right Back At Ya | 5.00% | ~48,664 |
-| The Lovers | 5.00% | ~48,664 |
-| Full Body Conversion | 4.00% | ~38,932 |
+| V for Vendetta | 12.00% | ~116,798 |
+| Gun Fu | 7.00% | ~68,132 |
+| The Fool | 6.00% | ~58,399 |
+| Right Back At Ya | 5.00% | ~48,666 |
+| The Lovers | 5.00% | ~48,666 |
+| Full Body Conversion | 4.00% | ~38,933 |
 | Stanislavski's Method | 3.00% | ~29,199 |
 | The Hermit | 3.00% | ~29,199 |
 | The Wheel of Fortune | 3.00% | ~29,199 |
 | True Soldier | 3.00% | ~29,199 |
-| Relic Ruler | 3.00% | ~3,057 |
-| All the President's Men | 3.00% | ~3,057 |
-| Arachnophobia | 3.00% | ~3,057 |
+| Relic Ruler | 3.00% | ~3,058 |
+| All the President's Men | 3.00% | ~3,058 |
+| Arachnophobia | 3.00% | ~3,058 |
 | Bushido and Chill | 2.00% | ~19,466 |
 | Master Crafter | 2.00% | ~19,466 |
 | Christmas Tree Attack | 2.00% | ~19,466 |
@@ -38,10 +38,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.80% | ~815 |
 | Ten out of Ten | 0.70% | ~6,813 |
 | The Sun | 0.70% | ~6,813 |
-| Dirty Deeds | 0.70% | ~713 |
+| Dirty Deeds | 0.70% | ~714 |
 | To Bad Decisions! | 0.60% | ~5,840 |
 | The Star | 0.60% | ~5,840 |
-| Breathtaking | 0.50% | ~4,866 |
+| Breathtaking | 0.50% | ~4,867 |
 | The Tower | 0.50% | ~510 |
 | Autojock | 0.40% | ~3,893 |
 | Must Be Rats | 0.40% | ~3,893 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 973,288 (Ranked 15)  
-Completed: 2,869 (0.29%) (Ranked 241)  
+Progressed: 973,314 (Ranked 15)  
+Completed: 2,870 (0.29%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,21 +307,21 @@ Completed: 2,869 (0.29%) (Ranked 241)
 | 2023-12-06 | 971,359 | 2,847 |
 | 2023-12-07 | 971,994 | 2,852 |
 | 2023-12-08 | 972,634 | 2,860 |
-| 2023-12-09 | 973,288 | 2,869 |
+| 2023-12-09 | 973,314 | 2,870 |
 ## Awards
-Max (Character Customization): 119,484  (Ranked 9)  
-Sum: 403,680 (Ranked 9)  
+Max (Character Customization): 120,272  (Ranked 9)  
+Sum: 404,697 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 119,484 |
+| This game has Inclusive Character Customization | 120,272 |
 | This game has Great Boss Battles | 87,044 |
 | This game is Great for Beginners | 24,643 |
 | This game has Diverse Characters | 23,997 |
 | This game is Highly Recommended | 23,062 |
 | This game has Amazing Storytelling | 22,777 |
+| This game has Amazing Characters | 22,468 |
 | This game is Extremely Fun | 22,463 |
-| This game has Amazing Characters | 22,239 |
 | This game has Quickly Understood Controls | 21,504 |
 | This game is Relaxing | 21,496 |
 | This game has a Creative Community | 14,971 |
@@ -652,4 +652,4 @@ Diff (max vs sum): 0
 | 2023-12-06 | 4.66 | - | 118,092 | 395,344 |
 | 2023-12-07 | 4.66 | - | 118,778 | 398,648 |
 | 2023-12-08 | 4.66 | - | 119,484 | 401,865 |
-| 2023-12-09 | 4.66 | - | 119,484 | 403,680 |
+| 2023-12-09 | 4.66 | - | 120,272 | 404,697 |

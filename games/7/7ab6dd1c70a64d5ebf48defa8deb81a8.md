@@ -41,7 +41,7 @@
 | Shardbearer | 0.80% | ~2 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255 (Ranked 373)  
+Progressed: 256 (Ranked 373)  
 Completed: 2 (0.78%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,4 +99,4 @@ Completed: 2 (0.78%) (Ranked 185)
 | 2023-12-06 | 248 | 2 |
 | 2023-12-07 | 250 | 2 |
 | 2023-12-08 | 252 | 2 |
-| 2023-12-09 | 255 | 2 |
+| 2023-12-09 | 256 | 2 |

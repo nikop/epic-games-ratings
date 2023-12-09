@@ -2,12 +2,12 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 533,
+  "Ranking_Rating": 534,
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7345,10 +7345,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 12356,
       "NumberOfAwardsMax": 8042
+    },
+    {
+      "Time": "2023-12-09T17:59:44.4888696+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12358,
+      "NumberOfAwardsMax": 8042
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12356,
+  "NumberOfAwards": 12358,
   "NumberOfAwardsMax": 8042,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7380,7 +7386,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 504
+      "Count": 506
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7407,9 +7413,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 732397,
+  "EOS_Progressed": 732424,
   "EOS_Completed": 2470,
-  "EOS_NewPlayers": 3329,
+  "EOS_NewPlayers": 3332,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -34157,6 +34163,11 @@
       "Time": "2023-12-09T17:09:07.8054022+00:00",
       "NumProgressed": 732397,
       "NumCompleted": 2470
+    },
+    {
+      "Time": "2023-12-09T18:08:20.2619615+00:00",
+      "NumProgressed": 732424,
+      "NumCompleted": 2470
     }
   ],
   "TotalAchievements": 51,
@@ -34240,7 +34251,7 @@
       "Name": "On Safari",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4394
+      "UsersEstimate": 4395
     },
     {
       "ID": "ach_defensive",
@@ -34272,7 +34283,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4394
+      "UsersEstimate": 4395
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -34344,7 +34355,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4394
+      "UsersEstimate": 4395
     },
     {
       "ID": "ach_investigator",
@@ -34496,7 +34507,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4394
+      "UsersEstimate": 4395
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -34504,7 +34515,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 21972
+      "UsersEstimate": 21973
     },
     {
       "ID": "ach_well_known_survivor",
@@ -34536,7 +34547,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "ach_gardening_tools",
@@ -34552,7 +34563,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -34575,22 +34586,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 732397,
+      "Progressed": 732424,
       "Completed": 2470
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 57939,
-      "Completed": 36647
+      "Progressed": 57966,
+      "Completed": 36648
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-09T14:59:27.0661714+00:00",
-  "LastChanged_Achievements": "2023-12-09T17:09:07.8054016+00:00",
+  "LastChanged": "2023-12-09T17:59:44.4888694+00:00",
+  "LastChanged_Achievements": "2023-12-09T18:08:20.2619611+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-09T16:59:39.511782+00:00",
-  "LastUpdate_Achievements": "2023-12-09T17:09:07.8055292+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:59:44.48887+00:00",
+  "LastUpdate_Achievements": "2023-12-09T18:08:20.2621251+00:00"
 }

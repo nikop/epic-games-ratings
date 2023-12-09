@@ -6,25 +6,25 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,192 |
-| A thief's beginning | 10.00% | ~21,826 |
-| Thorough | 10.00% | ~21,826 |
+| Genin | 12.00% | ~26,193 |
+| A thief's beginning | 10.00% | ~21,827 |
+| Thorough | 10.00% | ~21,827 |
 | Disguised | 9.00% | ~19,644 |
 | Rollin' | 9.00% | ~19,644 |
 | Tanuki Time | 9.00% | ~19,644 |
-| Rescue Takuma | 8.00% | ~17,461 |
-| Stoned Ox | 8.00% | ~17,461 |
-| Happy Planning | 7.00% | ~15,278 |
-| Ice Ice Yuki | 7.00% | ~15,278 |
-| Jonin | 7.00% | ~15,278 |
-| Yabu | 7.00% | ~15,278 |
+| Rescue Takuma | 8.00% | ~17,462 |
+| Stoned Ox | 8.00% | ~17,462 |
+| Happy Planning | 7.00% | ~15,279 |
+| Ice Ice Yuki | 7.00% | ~15,279 |
+| Jonin | 7.00% | ~15,279 |
+| Yabu | 7.00% | ~15,279 |
 | Chunin | 6.00% | ~13,096 |
 | Flying Rocks | 6.00% | ~13,096 |
 | Mugen Unchained | 6.00% | ~13,096 |
 | Warzone | 6.00% | ~13,096 |
-| Okkoto | 5.00% | ~10,913 |
-| Prisoners | 5.00% | ~10,913 |
-| Too Early | 5.00% | ~10,913 |
+| Okkoto | 5.00% | ~10,914 |
+| Prisoners | 5.00% | ~10,914 |
+| Too Early | 5.00% | ~10,914 |
 | Gear up | 4.00% | ~8,731 |
 | Happy little accidents | 4.00% | ~8,731 |
 | Noboru | 4.00% | ~8,731 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~218 |
 | Release the Kraken | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,263 (Ranked 72)  
+Progressed: 218,272 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,10 +284,10 @@ Completed: 100 (0.05%) (Ranked 322)
 | 2023-12-06 | 217,790 | 100 |
 | 2023-12-07 | 217,934 | 100 |
 | 2023-12-08 | 218,123 | 100 |
-| 2023-12-09 | 218,263 | 100 |
+| 2023-12-09 | 218,272 | 100 |
 ## Awards
 Max (Great for Beginners): 583  (Ranked 201)  
-Sum: 4,899 (Ranked 144)  
+Sum: 4,901 (Ranked 144)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -299,7 +299,7 @@ Diff (max vs sum): 57
 | This game is Relaxing | 499 |
 | This game has Challenging Combat | 497 |
 | This game is Highly Recommended | 496 |
-| This game has Quickly Understood Controls | 459 |
+| This game has Quickly Understood Controls | 461 |
 | This game has a Creative Community | 256 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -536,4 +536,4 @@ Diff (max vs sum): 57
 | 2023-12-04 | 4.67 | - | 581 | 4,895 |
 | 2023-12-05 | 4.67 | - | 581 | 4,896 |
 | 2023-12-07 | 4.67 | - | 581 | 4,897 |
-| 2023-12-09 | 4.67 | - | 583 | 4,899 |
+| 2023-12-09 | 4.67 | - | 583 | 4,901 |

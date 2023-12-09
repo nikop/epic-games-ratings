@@ -99,17 +99,17 @@
       "ID": "ACH_ARCHEOLOGIST",
       "SetID": "6lg1p1e",
       "Name": "Archeologist",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ATLAS",
       "SetID": "6lg1p1e",
       "Name": "Atlas",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_BARGAIN-HUNTER",
@@ -131,17 +131,17 @@
       "ID": "ACH_BIG-BROTHER",
       "SetID": "6lg1p1e",
       "Name": "Big Brother",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_BREAD-AND-BREAKFAST",
       "SetID": "6lg1p1e",
       "Name": "Bread and Breakfast",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_COSPLAY",
@@ -171,9 +171,9 @@
       "ID": "ACH_EXOTIC-ARSENAL",
       "SetID": "6lg1p1e",
       "Name": "Exotic Arsenal",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIRST-PAYCHECK",
@@ -203,9 +203,9 @@
       "ID": "ACH_HEART-OF-THE-CARDS",
       "SetID": "6lg1p1e",
       "Name": "Heart of the Cards",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_HELPFUL-BREAD",
@@ -243,9 +243,9 @@
       "ID": "ACH_LOREMASTER",
       "SetID": "6lg1p1e",
       "Name": "Lore Master",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MISCHIEVOUS-BREAD",
@@ -379,9 +379,9 @@
       "ID": "ACH_ZEN-MASTER",
       "SetID": "6lg1p1e",
       "Name": "Zen Master",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -394,8 +394,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-09T17:05:36.286147+00:00",
+  "LastChanged_Achievements": "2023-12-09T18:05:30.174729+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.6928375+00:00",
-  "LastUpdate_Ratings": "2023-12-09T16:57:18.2039629+00:00",
-  "LastUpdate_Achievements": "2023-12-09T17:05:36.2861699+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:57:24.0715996+00:00",
+  "LastUpdate_Achievements": "2023-12-09T18:05:30.1747508+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 533,
+  "Ranking_Rating": 511,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 151,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-08-26T16:57:34.4680467+00:00",
@@ -253,13 +253,19 @@
       "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-09T17:58:45.9978932+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16006,
+  "EOS_Progressed": 16007,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 2,
@@ -13429,6 +13435,11 @@
       "Time": "2023-12-09T17:04:17.8882868+00:00",
       "NumProgressed": 16006,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-09T18:04:13.0941613+00:00",
+      "NumProgressed": 16007,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13593,15 +13604,15 @@
       "Name": "Bosmang",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "28",
       "SetID": "458bbdk",
       "Name": "Scavenger Star",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "29",
@@ -13720,22 +13731,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16006,
+      "Progressed": 16007,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1960,
+      "Progressed": 1961,
       "Completed": 847
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged": "2023-12-07T17:57:36.8969362+00:00",
-  "LastChanged_Achievements": "2023-12-09T17:04:17.888286+00:00",
+  "LastChanged": "2023-12-09T17:58:45.997893+00:00",
+  "LastChanged_Achievements": "2023-12-09T18:04:13.0941609+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-09T16:58:40.8266298+00:00",
-  "LastUpdate_Achievements": "2023-12-09T17:04:17.8883741+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:58:45.9978936+00:00",
+  "LastUpdate_Achievements": "2023-12-09T18:04:13.0942276+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 440,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 78,
@@ -1645,9 +1645,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 161838,
+  "EOS_Progressed": 161845,
   "EOS_Completed": 269,
-  "EOS_NewPlayers": 939,
+  "EOS_NewPlayers": 936,
   "EOS_NewCompleters": 141,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18580,6 +18580,11 @@
       "Time": "2023-12-09T17:04:10.9753691+00:00",
       "NumProgressed": 161838,
       "NumCompleted": 269
+    },
+    {
+      "Time": "2023-12-09T18:04:06.010555+00:00",
+      "NumProgressed": 161845,
+      "NumCompleted": 269
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18638,9 +18643,9 @@
       "ID": "ACQUIRE_HUNTPOINT",
       "SetID": "ccc0dlh",
       "Name": "The Hunt",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 971
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -18959,21 +18964,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161421,
+      "Progressed": 161428,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 161838,
+      "Progressed": 161845,
       "Completed": 269
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-08T18:02:42.2195822+00:00",
-  "LastChanged_Achievements": "2023-12-09T17:04:10.9753686+00:00",
+  "LastChanged_Achievements": "2023-12-09T18:04:06.0105547+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:51.7108111+00:00",
-  "LastUpdate_Ratings": "2023-12-09T16:57:13.6514673+00:00",
-  "LastUpdate_Achievements": "2023-12-09T17:04:10.9754826+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:57:19.5645726+00:00",
+  "LastUpdate_Achievements": "2023-12-09T18:04:06.0106649+00:00"
 }

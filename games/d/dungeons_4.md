@@ -35,7 +35,7 @@
 | The Duel | 34.00% | ~183 |
 | Unstoppable Horde | 33.00% | ~177 |
 | Master of the Undead | 33.00% | ~177 |
-| If Looks Could Kill | 29.00% | ~156 |
+| If Looks Could Kill | 30.00% | ~161 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~150 |
 | Ghost Pirates? Ghost Heroes! | 28.00% | ~150 |
 | Forbidden Knowledge | 27.00% | ~145 |
@@ -43,7 +43,7 @@
 | The Finitude Drill | 26.00% | ~140 |
 | Doom Hill | 25.00% | ~134 |
 | Stop Tanos! | 24.00% | ~129 |
-| Brimstone Shaken, Not Stirred | 23.00% | ~124 |
+| Brimstone Shaken, Not Stirred | 24.00% | ~129 |
 | Bonus Evilness | 21.00% | ~113 |
 | Sabotage! | 21.00% | ~113 |
 | Raiders of the Lost Stone | 21.00% | ~113 |
@@ -56,8 +56,8 @@
 | Lavalumps on Ice! | 16.00% | ~86 |
 | To the Max! | 15.00% | ~81 |
 | To Infinity And Beyond! | 15.00% | ~81 |
+| Evilification | 14.00% | ~75 |
 | Mirror, Mirror | 13.00% | ~70 |
-| Evilification | 13.00% | ~70 |
 | Untouchable | 12.00% | ~64 |
 | Heal Heal Blessing | 11.00% | ~59 |
 | Laser Eyes Are So Useless | 10.00% | ~54 |

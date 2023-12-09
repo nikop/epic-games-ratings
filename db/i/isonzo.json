@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -991,9 +991,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9301,
+  "EOS_Progressed": 9302,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9066,6 +9066,11 @@
       "Time": "2023-12-09T17:08:34.7777992+00:00",
       "NumProgressed": 9301,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-09T18:06:37.9049591+00:00",
+      "NumProgressed": 9302,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9093,7 +9098,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -9125,7 +9130,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2976
+      "UsersEstimate": 2977
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -9189,7 +9194,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2976
+      "UsersEstimate": 2977
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -9245,7 +9250,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -9269,7 +9274,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4278
+      "UsersEstimate": 4279
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -9325,7 +9330,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2511
+      "UsersEstimate": 2512
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -9436,7 +9441,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9301,
+      "Progressed": 9302,
       "Completed": 10
     }
   ],
@@ -9444,8 +9449,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-09T14:58:44.4952754+00:00",
-  "LastChanged_Achievements": "2023-12-09T17:08:34.7777987+00:00",
+  "LastChanged_Achievements": "2023-12-09T18:06:37.9049574+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:20.0438707+00:00",
-  "LastUpdate_Ratings": "2023-12-09T16:58:56.1175828+00:00",
-  "LastUpdate_Achievements": "2023-12-09T17:08:34.7778975+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:59:00.8496744+00:00",
+  "LastUpdate_Achievements": "2023-12-09T18:06:37.9050267+00:00"
 }

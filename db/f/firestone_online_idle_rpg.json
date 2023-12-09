@@ -601,9 +601,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3200,
+  "EOS_Progressed": 3201,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9306,6 +9306,11 @@
       "Time": "2023-12-09T17:05:14.7762187+00:00",
       "NumProgressed": 3200,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-09T18:05:08.951518+00:00",
+      "NumProgressed": 3201,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9491,9 +9496,9 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 512
     },
     {
       "ID": "fellowshippower",
@@ -9635,9 +9640,9 @@
       "ID": "mastery",
       "SetID": "3nl4bcg",
       "Name": "Mastery",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 256
     },
     {
       "ID": "milestonecollector",
@@ -9709,7 +9714,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "prestigiousx10",
@@ -9747,9 +9752,9 @@
       "ID": "scrollmaster",
       "SetID": "3nl4bcg",
       "Name": "Scroll Master",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 256
     },
     {
       "ID": "silverwoodliberator",
@@ -9773,7 +9778,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "thealchemist",
@@ -9877,7 +9882,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2976
+      "UsersEstimate": 2977
     },
     {
       "ID": "warmachinesarmy",
@@ -9909,14 +9914,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2496
+      "UsersEstimate": 2497
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3200,
+      "Progressed": 3201,
       "Completed": 2
     }
   ],
@@ -9924,8 +9929,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-07T20:58:20.4746595+00:00",
-  "LastChanged_Achievements": "2023-12-09T17:05:14.7762181+00:00",
+  "LastChanged_Achievements": "2023-12-09T18:05:08.9515176+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-09T16:59:16.2453097+00:00",
-  "LastUpdate_Achievements": "2023-12-09T17:05:14.7763211+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:59:20.7675015+00:00",
+  "LastUpdate_Achievements": "2023-12-09T18:05:08.9516096+00:00"
 }
