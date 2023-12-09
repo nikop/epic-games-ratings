@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 22.86% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 22.85% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -54,14 +54,14 @@
 | 51 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 7.69% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
 | 51 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 7.69% |
-| 55 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
+| 55 | [Ravenlok](games/r/ravenlok.md) | 7.62% |
 | 56 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.50% |
 | 57 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.46% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.15% |
 | 58 | [Scorn](games/s/scorn.md) | 7.15% |
 | 60 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
-| 61 | [Sonic Origins](games/s/sonic_origins.md) | 7.03% |
 | 61 | [Time Loader](games/t/time_loader.md) | 7.03% |
+| 62 | [Sonic Origins](games/s/sonic_origins.md) | 7.02% |
 | 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.98% |
 | 64 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.60% |
 | 65 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
@@ -69,7 +69,7 @@
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.06% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.76% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.74% |
 | 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.56% |
@@ -122,7 +122,7 @@
 | 120 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 121 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.49% |
 | 122 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.48% |
-| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.44% |
+| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.43% |
 | 124 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 125 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.36% |
 | 126 | [Bloodshore](games/b/bloodshore.md) | 2.22% |
@@ -269,12 +269,12 @@
 | 266 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
 | 266 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
 | 269 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.17% |
+| 269 | [GRIME](games/g/grime.md) | 0.17% |
 | 269 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
-| 271 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.16% |
-| 271 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 271 | [GRIME](games/g/grime.md) | 0.16% |
-| 271 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 271 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.16% |
+| 272 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.16% |
+| 272 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 272 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 272 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.16% |
 | 276 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 276 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 278 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
