@@ -47,7 +47,7 @@
 | 45 | [Bloons TD 6](games/b/bloons_td_6.md) | 8,347 | 4.77 | 116 |
 | 46 | [DEATH STRANDING](games/d/death_stranding.md) | 8,334 | 4.78 | 108 |
 | 47 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 8,212 | 4.69 | 231 |
-| 48 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,139 | 4.85 | 44 |
+| 48 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,144 | 4.85 | 44 |
 | 49 | [Dead Island 2](games/d/dead_island_2.md) | 8,042 | 4.54 | 534 |
 | 50 | [Supraland](games/s/supraland.md) | 7,742 | 4.61 | 387 |
 | 51 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,659 | 4.71 | 196 |
@@ -77,8 +77,8 @@
 | 75 | [Shop Titans](games/s/shop_titans.md) | 4,871 | 3.99 | 1,013 |
 | 76 | [MultiVersus](games/m/multiversus.md) | 4,751 | 4.56 | 496 |
 | 77 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,738 | 4.70 | 213 |
-| 78 | [SMITE](games/s/smite.md) | 4,713 | 4.43 | 696 |
-| 79 | [League of Legends](games/l/league_of_legends.md) | 4,710 | 4.21 | 914 |
+| 78 | [League of Legends](games/l/league_of_legends.md) | 4,719 | 4.21 | 914 |
+| 79 | [SMITE](games/s/smite.md) | 4,713 | 4.43 | 696 |
 | 80 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,616 | 4.70 | 213 |
 | 81 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4,554 | 4.57 | 479 |
 | 82 | [God of War](games/g/god_of_war.md) | 4,428 | 4.88 | 17 |
@@ -313,7 +313,7 @@
 | 311 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 168 | 4.85 | 44 |
 | 312 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 167 | 4.79 | 98 |
 | 313 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 166 | 4.38 | 765 |
-| 314 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 161 | 4.86 | 33 |
+| 314 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 162 | 4.86 | 33 |
 | 315 | [Blasphemous](games/b/blasphemous.md) | 159 | 4.85 | 44 |
 | 316 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 157 | 4.29 | 853 |
 | 317 | [Encased](games/e/encased.md) | 156 | 4.34 | 813 |
@@ -468,22 +468,22 @@
 | 466 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 38 | 4.51 | 574 |
 | 466 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 38 | 4.77 | 116 |
 | 466 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 38 | 4.20 | 922 |
+| 466 | [F1® 23](games/f/f1®_23_standard_edition.md) | 38 | 4.68 | 258 |
 | 466 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 38 | 4.45 | 666 |
 | 466 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 38 | 4.49 | 615 |
 | 466 | [Rayman Origins](games/r/rayman_origins.md) | 38 | 4.86 | 33 |
 | 466 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 38 | 4.41 | 726 |
 | 466 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 38 | 4.49 | 615 |
-| 474 | [20XX](games/2/20xx.md) | 37 | 4.61 | 387 |
-| 474 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 37 | 4.05 | 995 |
-| 476 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 36 | 4.61 | 387 |
-| 476 | [DEATHLOOP](games/d/deathloop.md) | 36 | 4.54 | 534 |
-| 476 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 36 | 4.55 | 511 |
-| 476 | [MythForce](games/m/mythforce.md) | 36 | 4.48 | 633 |
-| 480 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 35 | 4.53 | 547 |
-| 480 | [F1® 23](games/f/f1®_23_standard_edition.md) | 35 | 4.68 | 258 |
-| 480 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 196 |
-| 480 | [Outward Definitive Edition](games/o/outward.md) | 35 | 4.56 | 496 |
-| 480 | [TUNIC](games/t/tunic.md) | 35 | 4.83 | 60 |
+| 475 | [20XX](games/2/20xx.md) | 37 | 4.61 | 387 |
+| 475 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 37 | 4.05 | 995 |
+| 477 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 36 | 4.61 | 387 |
+| 477 | [DEATHLOOP](games/d/deathloop.md) | 36 | 4.54 | 534 |
+| 477 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 36 | 4.55 | 511 |
+| 477 | [MythForce](games/m/mythforce.md) | 36 | 4.48 | 633 |
+| 481 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 35 | 4.53 | 547 |
+| 481 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 196 |
+| 481 | [Outward Definitive Edition](games/o/outward.md) | 35 | 4.56 | 496 |
+| 481 | [TUNIC](games/t/tunic.md) | 35 | 4.83 | 60 |
 | 485 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 34 | 4.24 | 896 |
 | 485 | [Chorus](games/c/chorus.md) | 34 | 4.46 | 652 |
 | 485 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.63 | 351 |
