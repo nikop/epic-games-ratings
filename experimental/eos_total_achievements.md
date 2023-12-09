@@ -39,6 +39,7 @@
 | [Astrea Six Sided Oracles](../games/a/astrea_six_sided_oracles.md) | 80 | 1,000 |
 | [City of Gangsters](../games/c/city_of_gangsters.md) | 80 | 1,000 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 |
+| [Darkest Dungeon II](../games/d/darkest_dungeon_ii.md) | 79 | 1,270 |
 | [Urbek City Builder](../games/u/urbek_city_builder.md) | 79 | 1,000 |
 | [Dying Light Enhanced Edition](../games/d/dying_light_enhanced_edition.md) | 78 | 1,000 |
 | [Galactic Civilizations IV: Supernova](../games/g/galactic_civilizations_iv__supernova.md) | 77 | 1,060 |
@@ -80,7 +81,6 @@
 | [Punch Club 2: Fast Forward](../games/p/punch_club_2__fast_forward.md) | 66 | 1,000 |
 | [Redfall](../games/r/redfall.md) | 66 | 1,000 |
 | [Zombie Army 4: Dead War](../games/z/zombie_army_4__dead_war.md) | 66 | 1,000 |
-| [Darkest Dungeon II](../games/d/darkest_dungeon_ii.md) | 65 | 1,000 |
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [Warhammer 40,000: Rogue Trader](../games/c/cb88aea9aed742e4a911a65c4898d857.md) | 65 | 1,000 |
 | [Deadwater Saloon](../games/0/0011a38fecb741dc9923879a4f490d42.md) | 64 | 1,000 |

@@ -28,6 +28,7 @@
 | [Showgunners](../games/s/showgunners.md) | 54 | 1,300 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 89 | 1,300 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 68 | 1,300 |
+| [Darkest Dungeon II](../games/d/darkest_dungeon_ii.md) | 79 | 1,270 |
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 |
 | [KeyWe](../games/k/keywe.md) | 20 | 1,250 |
 | [Remnant 2](../games/r/remnant_2.md) | 55 | 1,250 |
@@ -210,7 +211,6 @@
 | [Dark Fantasy Jigsaw Puzzle](../games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 20 | 1,000 |
 | [Dark Mystery](../games/9/9a390b228537424c9b46fb0a3dbce676.md) | 8 | 1,000 |
 | [Dark Table CCG](../games/a/a0e5651da05447508a6cfe91e883af3a.md) | 27 | 1,000 |
-| [Darkest Dungeon II](../games/d/darkest_dungeon_ii.md) | 65 | 1,000 |
 | [Daydream. Forgotten Sorrow](../games/7/7b8963f6857041fd97a4a23845eb113d.md) | 14 | 1,000 |
 | [De-Exit - Eternal Matters](../games/d/de-exit_-_eternal_matters.md) | 29 | 1,000 |
 | [Dead Space](../games/d/dead_space.md) | 47 | 1,000 |
