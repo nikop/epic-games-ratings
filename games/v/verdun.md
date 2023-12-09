@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~51,351 |
-| Worth it | 63.00% | ~41,476 |
-| Eagle Eye | 55.00% | ~36,209 |
-| Corpseman I | 40.00% | ~26,334 |
-| Blast fishing | 37.00% | ~24,359 |
-| Not alone | 32.00% | ~21,067 |
-| Headhunter I | 26.00% | ~17,117 |
+| Setting an example | 78.00% | ~51,353 |
+| Worth it | 63.00% | ~41,477 |
+| Eagle Eye | 55.00% | ~36,210 |
+| Corpseman I | 40.00% | ~26,335 |
+| Blast fishing | 37.00% | ~24,360 |
+| Not alone | 32.00% | ~21,068 |
+| Headhunter I | 26.00% | ~17,118 |
 | Manual Labour I | 25.00% | ~16,459 |
-| Developers, Developers, Developers | 24.00% | ~15,800 |
-| Basic Training | 24.00% | ~15,800 |
+| Developers, Developers, Developers | 24.00% | ~15,801 |
+| Basic Training | 24.00% | ~15,801 |
 | Furchtlos und Treu | 13.00% | ~8,559 |
 | Gott Mit Uns | 12.00% | ~7,900 |
 | This We'll Defend! | 9.00% | ~5,925 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Providentiea Memor | 9.00% | ~5,925 |
 | For King and Country | 9.00% | ~5,925 |
 | Battle hardened | 8.00% | ~5,267 |
-| Semper Fidelis! | 7.00% | ~4,608 |
-| Honneur et Patrie | 7.00% | ~4,608 |
+| Semper Fidelis! | 7.00% | ~4,609 |
+| Honneur et Patrie | 7.00% | ~4,609 |
 | In Treue Fest | 5.00% | ~3,292 |
 | Voor De Koning | 5.00% | ~3,292 |
 | Extreme Headhunter | 5.00% | ~3,292 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~66 |
 | Blood Brother | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,835 (Ranked 105)  
+Progressed: 65,837 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 4 (0.01%) (Ranked 348)
 | 2023-12-06 | 65,673 | 4 |
 | 2023-12-07 | 65,741 | 4 |
 | 2023-12-08 | 65,819 | 4 |
-| 2023-12-09 | 65,835 | 4 |
+| 2023-12-09 | 65,837 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 359)  
 Sum: 817 (Ranked 281)  

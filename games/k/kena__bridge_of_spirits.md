@@ -6,19 +6,19 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~407,979 |
+| Found a Friend | 95.00% | ~407,980 |
 | Haikyo | 80.00% | ~343,562 |
-| Good as New | 72.00% | ~309,205 |
-| Into the Woods | 70.00% | ~300,616 |
-| Hunter in the Forest | 60.00% | ~257,671 |
-| Rot Commander | 60.00% | ~257,671 |
-| Taro's Fear | 56.00% | ~240,493 |
-| Between the Eyes | 47.00% | ~201,842 |
+| Good as New | 72.00% | ~309,206 |
+| Into the Woods | 70.00% | ~300,617 |
+| Hunter in the Forest | 60.00% | ~257,672 |
+| Rot Commander | 60.00% | ~257,672 |
+| Taro's Fear | 56.00% | ~240,494 |
+| Between the Eyes | 47.00% | ~201,843 |
 | Taro's Love | 46.00% | ~197,548 |
 | Taro's Regret | 44.00% | ~188,959 |
 | Spirit Guide | 42.00% | ~180,370 |
-| Harness Your Power | 39.00% | ~167,486 |
-| The Open Range | 37.00% | ~158,897 |
+| Harness Your Power | 39.00% | ~167,487 |
+| The Open Range | 37.00% | ~158,898 |
 | Adira's Love | 34.00% | ~146,014 |
 | Adira's Fear | 33.00% | ~141,719 |
 | Weigh Them Down | 31.00% | ~133,130 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,865 |
 | Master Spirit Guide | 0.30% | ~1,288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429,452 (Ranked 44)  
+Progressed: 429,453 (Ranked 44)  
 Completed: 553 (0.13%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 553 (0.13%) (Ranked 278)
 | 2023-12-06 | 429,423 | 552 |
 | 2023-12-07 | 429,430 | 553 |
 | 2023-12-08 | 429,450 | 553 |
-| 2023-12-09 | 429,452 | 553 |
+| 2023-12-09 | 429,453 | 553 |
 ## Awards
 Max (Great Boss Battles): 1,342  (Ranked 136)  
 Sum: 1,761 (Ranked 221)  

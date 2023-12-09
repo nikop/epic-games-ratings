@@ -17,7 +17,7 @@
 | Brilliant: Meadowshire | 75.00% | ~136 |
 | Sergeant of the Evil | 75.00% | ~136 |
 | Look After the Pence... | 74.00% | ~135 |
-| Drunken Master | 73.00% | ~133 |
+| Drunken Master | 74.00% | ~135 |
 | V.I.P. Cemetery | 71.00% | ~129 |
 | Woodcutter | 71.00% | ~129 |
 | Top of the World | 70.00% | ~127 |

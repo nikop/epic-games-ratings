@@ -6,15 +6,15 @@ Rating: 4.56 (Ranked 496)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tell me your story | 75.00% | ~578 |
-| Don't judge a manhole by its cover | 60.00% | ~462 |
-| I just love stuff! | 42.00% | ~323 |
-| Keep 'em coming! | 42.00% | ~323 |
-| The things they print nowadays | 39.00% | ~300 |
+| Don't judge a manhole by its cover | 60.00% | ~463 |
+| I just love stuff! | 42.00% | ~324 |
+| Keep 'em coming! | 42.00% | ~324 |
+| The things they print nowadays | 39.00% | ~301 |
 | Big Spender | 38.00% | ~293 |
-| That's gotta hurt | 36.00% | ~277 |
+| That's gotta hurt | 36.00% | ~278 |
 | I think it's broke | 26.00% | ~200 |
 | The Ann Flores Combo Experience | 26.00% | ~200 |
-| Club Star | 25.00% | ~192 |
+| Club Star | 25.00% | ~193 |
 | Fire in the hole! | 21.00% | ~162 |
 | Omnipotence | 20.00% | ~154 |
 | The Warlord | 19.00% | ~146 |
@@ -25,15 +25,15 @@ Rating: 4.56 (Ranked 496)
 | In the smacker...I think | 10.00% | ~77 |
 | Arm Wrestlin' | 9.00% | ~69 |
 | 1+1>2 | 9.00% | ~69 |
+| So Fresh and So clean clean | 8.00% | ~62 |
 | This can't be right… | 8.00% | ~62 |
 | Welcome home, 06 | 8.00% | ~62 |
 | I'm walking here! | 7.00% | ~54 |
-| So Fresh and So clean clean | 7.00% | ~54 |
 | Supreme Bartender Ann | 7.00% | ~54 |
 | Clarity of Mind | 6.00% | ~46 |
 | I feel secure, contained & protected | 6.00% | ~46 |
 | Science, it works! | 6.00% | ~46 |
-| The Traveler | 5.00% | ~38 |
+| The Traveler | 5.00% | ~39 |
 | Woman on a (side) mission | 4.00% | ~31 |
 | Ann ULTRA | 3.00% | ~23 |
 | Lady Luck is a cool cat | 3.00% | ~23 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 496)
 | Love me like I love my posters | 0.90% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 770 (Ranked 282)  
+Progressed: 771 (Ranked 283)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 765 | 0 |
 | 2023-12-07 | 767 | 0 |
 | 2023-12-08 | 768 | 0 |
-| 2023-12-09 | 770 | 0 |
+| 2023-12-09 | 771 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

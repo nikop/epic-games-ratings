@@ -1,20 +1,20 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 337)  
+Rating: 4.64 (Ranked 336)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 4.00% | ~987 |
 | Sweezy Like Sunday Morning | 4.00% | ~987 |
 | First Bounty Down | 4.00% | ~987 |
+| G3 Graduation | 4.00% | ~987 |
 | Cold-Blooded Driller | 4.00% | ~987 |
 | Creature Feature | 3.00% | ~740 |
 | Are You Packin'? | 3.00% | ~740 |
 | Bring A Knife to a Gun Fight | 3.00% | ~740 |
 | RIP Davey Glutes | 3.00% | ~740 |
 | We're All Very Impressed, Trust Me | 3.00% | ~740 |
-| G3 Graduation | 3.00% | ~740 |
 | Hardest Battle In The Game | 3.00% | ~740 |
 | Who's The Boss? | 3.00% | ~740 |
 | Don't Knife The Hand That Feeds | 3.00% | ~740 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 337)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,663 (Ranked 133)  
+Progressed: 24,664 (Ranked 133)  
 Completed: 14 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 14 (0.06%) (Ranked 313)
 | 2023-12-06 | 24,655 | 14 |
 | 2023-12-07 | 24,658 | 14 |
 | 2023-12-08 | 24,662 | 14 |
-| 2023-12-09 | 24,663 | 14 |
+| 2023-12-09 | 24,664 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

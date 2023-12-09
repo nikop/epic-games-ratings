@@ -637,9 +637,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 3992,
+  "EOS_Progressed": 3993,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8497,6 +8497,11 @@
       "Time": "2023-12-09T03:08:28.7585954+00:00",
       "NumProgressed": 3992,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-09T07:08:22.4783538+00:00",
+      "NumProgressed": 3993,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8588,7 +8593,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8628,7 +8633,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8708,7 +8713,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8820,7 +8825,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9075,13 +9080,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3943,
+      "Progressed": 3944,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3992,
+      "Progressed": 3993,
       "Completed": 11
     }
   ],
@@ -9089,8 +9094,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-07T15:59:27.2603128+00:00",
-  "LastChanged_Achievements": "2023-12-09T06:08:35.9863848+00:00",
+  "LastChanged_Achievements": "2023-12-09T07:08:22.4783533+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.4601542+00:00",
-  "LastUpdate_Ratings": "2023-12-09T05:59:58.1278671+00:00",
-  "LastUpdate_Achievements": "2023-12-09T06:08:35.9864589+00:00"
+  "LastUpdate_Ratings": "2023-12-09T07:00:05.5672606+00:00",
+  "LastUpdate_Achievements": "2023-12-09T07:08:22.4784555+00:00"
 }

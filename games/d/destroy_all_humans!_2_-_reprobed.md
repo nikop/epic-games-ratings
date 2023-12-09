@@ -14,6 +14,7 @@ Number of Ratings: 90  (23.09.2022)
 | I Look Up As I Walk to Takoshima | 16.00% | ~4 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~3 |
 | Cult Following | 8.00% | ~2 |
+| Lie Back and Think of Albion | 8.00% | ~2 |
 | Fly Me to the Moon Base | 8.00% | ~2 |
 | Bodied Sattva | 8.00% | ~2 |
 | Kaijuiced | 8.00% | ~2 |
@@ -22,7 +23,6 @@ Number of Ratings: 90  (23.09.2022)
 | Dusted | 8.00% | ~2 |
 | Pimp My Raid | 8.00% | ~2 |
 | Perfect Probulator | 4.00% | ~1 |
-| Lie Back and Think of Albion | 4.00% | ~1 |
 | Freshly Squeezed | 4.00% | ~1 |
 | Die Nasty | 4.00% | ~1 |
 | Earthly Pleasures | 4.00% | ~1 |

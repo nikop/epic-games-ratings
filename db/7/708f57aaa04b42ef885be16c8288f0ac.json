@@ -5,10 +5,10 @@
   "Ranking_Rating": 156,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
-  "Ranking_EOS_Progress": 178,
+  "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -201,9 +201,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7586,
+  "EOS_Progressed": 7588,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5951,6 +5951,11 @@
       "Time": "2023-12-09T05:09:26.2158174+00:00",
       "NumProgressed": 7586,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-09T07:09:33.6735537+00:00",
+      "NumProgressed": 7588,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5987,7 +5992,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ChewingTheScenery",
@@ -6019,7 +6024,7 @@
       "Name": "Explosive Personality",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "FasterThanLight",
@@ -6035,7 +6040,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "FuneralForTheDeath",
@@ -6067,7 +6072,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -6075,7 +6080,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "JackOfAllTrades",
@@ -6179,7 +6184,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "UnResurrected",
@@ -6195,7 +6200,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -6234,7 +6239,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7586,
+      "Progressed": 7588,
       "Completed": 15
     }
   ],
@@ -6242,8 +6247,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-09T06:09:46.522531+00:00",
+  "LastChanged_Achievements": "2023-12-09T07:09:33.6735534+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-09T05:57:16.7805737+00:00",
-  "LastUpdate_Achievements": "2023-12-09T06:09:46.5225801+00:00"
+  "LastUpdate_Ratings": "2023-12-09T06:57:24.9525456+00:00",
+  "LastUpdate_Achievements": "2023-12-09T07:09:33.6736007+00:00"
 }

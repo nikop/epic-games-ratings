@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5078,
+  "EOS_Progressed": 5080,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 1,
@@ -4384,6 +4384,11 @@
       "Time": "2023-12-09T05:06:04.803309+00:00",
       "NumProgressed": 5078,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-09T07:08:02.2591344+00:00",
+      "NumProgressed": 5080,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -4412,7 +4417,7 @@
       "Name": "Collect the mask",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -4420,7 +4425,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -4428,15 +4433,15 @@
       "Name": "Unlock the PC",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
       "SetID": "4d50jip",
       "Name": "Move the sofa",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1727
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -4444,7 +4449,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2894
+      "UsersEstimate": 2896
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -4452,7 +4457,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 4062
+      "UsersEstimate": 4064
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -4516,21 +4521,21 @@
       "Name": "Turn on the TV in Speedrun",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     }
   ],
   "AchievementSets": [
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5078,
+      "Progressed": 5080,
       "Completed": 47
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-09T06:06:14.6196631+00:00",
+  "LastChanged_Achievements": "2023-12-09T07:08:02.259134+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:12.1666356+00:00",
-  "LastUpdate_Ratings": "2023-12-09T05:57:05.394769+00:00",
-  "LastUpdate_Achievements": "2023-12-09T06:06:14.6196964+00:00"
+  "LastUpdate_Ratings": "2023-12-09T06:57:13.6581748+00:00",
+  "LastUpdate_Achievements": "2023-12-09T07:08:02.2591647+00:00"
 }

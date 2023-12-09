@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8157,9 +8157,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 717896,
+  "EOS_Progressed": 717897,
   "EOS_Completed": 12946,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -28757,6 +28757,11 @@
       "Time": "2023-12-09T05:05:14.1203929+00:00",
       "NumProgressed": 717896,
       "NumCompleted": 12946
+    },
+    {
+      "Time": "2023-12-09T07:05:30.6674779+00:00",
+      "NumProgressed": 717897,
+      "NumCompleted": 12946
     }
   ],
   "TotalAchievements": 60,
@@ -28790,9 +28795,9 @@
       "ID": "04_Vengeance_H3",
       "SetID": "adcm20g",
       "Name": "A Lady\u0027s Blood in the Snow",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4307
+      "UsersEstimate": 5025
     },
     {
       "ID": "05_Vengeance_H4",
@@ -29247,21 +29252,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 27197,
+      "Progressed": 27198,
       "Completed": 10762
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717896,
+      "Progressed": 717897,
       "Completed": 12946
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-09T06:02:44.0316656+00:00",
-  "LastChanged_Achievements": "2023-12-09T06:05:22.4005923+00:00",
+  "LastChanged_Achievements": "2023-12-09T07:05:30.6674777+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:06.4352314+00:00",
-  "LastUpdate_Ratings": "2023-12-09T06:02:44.0316665+00:00",
-  "LastUpdate_Achievements": "2023-12-09T06:05:22.4007066+00:00"
+  "LastUpdate_Ratings": "2023-12-09T07:02:50.1658219+00:00",
+  "LastUpdate_Achievements": "2023-12-09T07:05:30.6675843+00:00"
 }

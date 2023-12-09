@@ -6,8 +6,8 @@ Rating: 4.54 (Ranked 535)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 3.00% | ~21,963 |
-| Whatever It Takes | 3.00% | ~1,729 |
-| Pork Chopped | 3.00% | ~1,729 |
+| Whatever It Takes | 3.00% | ~1,730 |
+| Pork Chopped | 3.00% | ~1,730 |
 | Dr. Reed, I Presume? | 2.00% | ~14,642 |
 | Git Gutte! | 2.00% | ~14,642 |
 | Anger Management | 2.00% | ~14,642 |
@@ -45,7 +45,7 @@ Rating: 4.54 (Ranked 535)
 | Smorgasbord | 0.60% | ~4,393 |
 | Internet Famous | 0.60% | ~4,393 |
 | Variety is the Spice of Death | 0.60% | ~4,393 |
-| Make it So | 0.50% | ~3,660 |
+| Make it So | 0.50% | ~3,661 |
 | LA Influential | 0.40% | ~2,928 |
 | Sole Survivor | 0.40% | ~2,928 |
 | Gore Horse | 0.40% | ~2,928 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 535)
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,087 (Ranked 21)  
+Progressed: 732,109 (Ranked 21)  
 Completed: 2,467 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 2,467 (0.34%) (Ranked 234)
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
-| 2023-12-09 | 732,087 | 2,467 |
+| 2023-12-09 | 732,109 | 2,467 |
 ## Awards
 Max (Great Boss Battles): 8,017  (Ranked 49)  
 Sum: 12,328 (Ranked 82)  

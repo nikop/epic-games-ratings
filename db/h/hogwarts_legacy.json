@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11721,7 +11721,7 @@
       "Count": 842
     }
   ],
-  "EOS_Progressed": 304113,
+  "EOS_Progressed": 304114,
   "EOS_Completed": 525,
   "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 5,
@@ -36686,6 +36686,11 @@
       "Time": "2023-12-09T06:03:53.6734081+00:00",
       "NumProgressed": 304113,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-09T07:04:01.4320624+00:00",
+      "NumProgressed": 304114,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36705,7 +36710,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33452
+      "UsersEstimate": 33453
     },
     {
       "ID": "PFA_11",
@@ -36713,7 +36718,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33452
+      "UsersEstimate": 33453
     },
     {
       "ID": "PFA_12",
@@ -36729,7 +36734,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33452
+      "UsersEstimate": 33453
     },
     {
       "ID": "PFA_14",
@@ -36801,7 +36806,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33452
+      "UsersEstimate": 33453
     },
     {
       "ID": "PFA_22",
@@ -37056,7 +37061,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304113,
+      "Progressed": 304114,
       "Completed": 525
     }
   ],
@@ -37064,8 +37069,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-09T04:58:14.5405695+00:00",
-  "LastChanged_Achievements": "2023-12-09T06:03:53.6734078+00:00",
+  "LastChanged_Achievements": "2023-12-09T07:04:01.4320621+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-09T05:58:03.7672386+00:00",
-  "LastUpdate_Achievements": "2023-12-09T06:03:53.6735459+00:00"
+  "LastUpdate_Ratings": "2023-12-09T06:58:11.619804+00:00",
+  "LastUpdate_Achievements": "2023-12-09T07:04:01.432201+00:00"
 }

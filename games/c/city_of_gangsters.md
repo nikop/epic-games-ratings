@@ -5,19 +5,19 @@ Rating: 4.28 (Ranked 861)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,683 |
-| Copacetic Coordination | 16.00% | ~56,933 |
+| Corner Clout | 46.00% | ~163,684 |
+| Copacetic Coordination | 16.00% | ~56,934 |
 | Fronting the Money | 15.00% | ~53,375 |
-| The Dawn of Automation | 14.00% | ~49,816 |
-| Extraordinary Logistics | 14.00% | ~49,816 |
-| Dirty Money | 13.00% | ~46,258 |
-| Family First | 13.00% | ~46,258 |
+| The Dawn of Automation | 14.00% | ~49,817 |
+| Extraordinary Logistics | 14.00% | ~49,817 |
+| Dirty Money | 13.00% | ~46,259 |
+| Family First | 13.00% | ~46,259 |
 | Cleaning House | 12.00% | ~42,700 |
 | Room in the Back | 12.00% | ~42,700 |
 | Beating the Heat | 11.00% | ~39,142 |
 | Booze Baron | 11.00% | ~39,142 |
-| Friends on the Force | 10.00% | ~35,583 |
-| Neighborhood Watch | 10.00% | ~35,583 |
+| Friends on the Force | 10.00% | ~35,584 |
+| Neighborhood Watch | 10.00% | ~35,584 |
 | Core Corps | 8.00% | ~28,467 |
 | Sizeable Stash | 8.00% | ~28,467 |
 | Street Fighter | 7.00% | ~24,908 |
@@ -61,7 +61,7 @@ Rating: 4.28 (Ranked 861)
 | Cat’s Meow Clubs | 1.00% | ~3,558 |
 | Determined Deliveries | 1.00% | ~3,558 |
 | Stepping It Up | 1.00% | ~3,558 |
-| Crossing Over | 0.90% | ~3,202 |
+| Crossing Over | 0.90% | ~3,203 |
 | Boots in the Ground | 0.80% | ~2,847 |
 | Getting Fancy | 0.80% | ~2,847 |
 | Still Dreaming | 0.50% | ~1,779 |
@@ -70,9 +70,9 @@ Rating: 4.28 (Ranked 861)
 | Homemade Hooch | 0.40% | ~1,423 |
 | High End Booze | 0.40% | ~1,423 |
 | In-House Maintenance | 0.40% | ~1,423 |
-| Dirty Work | 0.30% | ~1,067 |
-| Bottled Up | 0.30% | ~1,067 |
-| Streetwise | 0.30% | ~1,067 |
+| Dirty Work | 0.30% | ~1,068 |
+| Bottled Up | 0.30% | ~1,068 |
+| Streetwise | 0.30% | ~1,068 |
 | Balkan Firewater | 0.20% | ~712 |
 | Windy City Win | 0.10% | ~356 |
 | Steeling Victory | 0.10% | ~356 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 861)
 | High Pillow | 0.10% | ~356 |
 | Station Master | 0.10% | ~356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 355,832 (Ranked 49)  
+Progressed: 355,835 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-06 | 355,527 | 7 |
 | 2023-12-07 | 355,651 | 7 |
 | 2023-12-08 | 355,789 | 7 |
-| 2023-12-09 | 355,832 | 7 |
+| 2023-12-09 | 355,835 | 7 |
 ## Awards
 Max (Great for Beginners): 51  (Ranked 436)  
 Sum: 248 (Ranked 383)  

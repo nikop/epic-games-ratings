@@ -5,20 +5,20 @@ Rating: 4.65 (Ranked 317)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 76.00% | ~839 |
-| I Broke It | 73.00% | ~806 |
-| Better On Ice | 68.00% | ~751 |
+| Feels Familiar | 76.00% | ~840 |
+| I Broke It | 73.00% | ~807 |
+| Better On Ice | 69.00% | ~762 |
+| Notai Notes | 68.00% | ~751 |
 | Cutie Poro | 67.00% | ~740 |
-| Notai Notes | 67.00% | ~740 |
 | Blue Dreams | 66.00% | ~729 |
 | He's Famous! | 66.00% | ~729 |
 | Krugmazing | 64.00% | ~707 |
-| Moneyball | 61.00% | ~673 |
-| The Fire Below the Mountain | 61.00% | ~673 |
-| No Bites | 55.00% | ~607 |
-| Iceborn | 55.00% | ~607 |
-| Tear of Freedom | 53.00% | ~585 |
-| Boom Things | 53.00% | ~585 |
+| Moneyball | 61.00% | ~674 |
+| The Fire Below the Mountain | 61.00% | ~674 |
+| No Bites | 55.00% | ~608 |
+| Iceborn | 55.00% | ~608 |
+| Tear of Freedom | 53.00% | ~586 |
+| Boom Things | 53.00% | ~586 |
 | My Darkest Day | 49.00% | ~541 |
 | Rhythm Of Willump | 47.00% | ~519 |
 | The Relentless Storm | 47.00% | ~519 |
@@ -33,11 +33,11 @@ Rating: 4.65 (Ranked 317)
 | Biggest Snowball Ever | 39.00% | ~431 |
 | Freeze The Ice Witch | 39.00% | ~431 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~431 |
-| Bullseye | 37.00% | ~408 |
-| It Is Not Over | 36.00% | ~397 |
-| On The Rocks | 35.00% | ~386 |
-| Snowy Poro | 32.00% | ~353 |
-| Never Gets Old | 32.00% | ~353 |
+| Bullseye | 37.00% | ~409 |
+| It Is Not Over | 36.00% | ~398 |
+| On The Rocks | 35.00% | ~387 |
+| Snowy Poro | 32.00% | ~354 |
+| Never Gets Old | 32.00% | ~354 |
 | Vertical Power | 27.00% | ~298 |
 | One From The Heart | 14.00% | ~155 |
 | Yummy | 10.00% | ~110 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 317)
 | We Are Speed | 2.00% | ~22 |
 | Sneaky Notai | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,104 (Ranked 260)  
+Progressed: 1,105 (Ranked 260)  
 Completed: 8 (0.72%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 8 (0.72%) (Ranked 187)
 | 2023-12-06 | 1,085 | 8 |
 | 2023-12-07 | 1,094 | 8 |
 | 2023-12-08 | 1,103 | 8 |
-| 2023-12-09 | 1,104 | 8 |
+| 2023-12-09 | 1,105 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

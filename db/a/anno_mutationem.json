@@ -5,9 +5,9 @@
   "Ranking_Rating": 496,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 770,
+  "EOS_Progressed": 771,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -952,6 +952,11 @@
       "Time": "2023-12-09T06:03:32.4970801+00:00",
       "NumProgressed": 770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T07:03:40.6833816+00:00",
+      "NumProgressed": 771,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1003,7 +1008,7 @@
       "Name": "Club Star",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Combine",
@@ -1051,7 +1056,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "I_think_its_broke",
@@ -1075,7 +1080,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "Lady_Luck",
@@ -1113,9 +1118,9 @@
       "ID": "So_Fresh",
       "SetID": "gl7plp",
       "Name": "So Fresh and So clean clean",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 62
     },
     {
       "ID": "Supreme_Bartender_Ann",
@@ -1139,7 +1144,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "The Traveler",
@@ -1147,7 +1152,7 @@
       "Name": "The Traveler",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "The_Age_of_Mutationem",
@@ -1179,7 +1184,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1227,7 +1232,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "posters",
@@ -1250,7 +1255,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 770,
+      "Progressed": 771,
       "Completed": 0
     }
   ],
@@ -1258,8 +1263,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-12-09T06:03:32.4970799+00:00",
+  "LastChanged_Achievements": "2023-12-09T07:03:40.6833813+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:27.326915+00:00",
-  "LastUpdate_Ratings": "2023-12-09T05:58:48.6571931+00:00",
-  "LastUpdate_Achievements": "2023-12-09T06:03:32.4971004+00:00"
+  "LastUpdate_Ratings": "2023-12-09T06:58:55.8376707+00:00",
+  "LastUpdate_Achievements": "2023-12-09T07:03:40.6834131+00:00"
 }

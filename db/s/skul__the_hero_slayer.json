@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1207,7 +1207,7 @@
   ],
   "EOS_Progressed": 8405,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6067,9 +6067,9 @@
       "ID": "SavedElderEnt",
       "SetID": "97dk767",
       "Name": "Rescued Elder Ent",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5379
     },
     {
       "ID": "SavedElderEnt_2",
@@ -6139,8 +6139,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-07T17:57:51.9878192+00:00",
-  "LastChanged_Achievements": "2023-12-09T06:08:46.4349377+00:00",
+  "LastChanged_Achievements": "2023-12-09T07:08:32.7604284+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.4264134+00:00",
-  "LastUpdate_Ratings": "2023-12-09T05:58:29.1298373+00:00",
-  "LastUpdate_Achievements": "2023-12-09T06:08:46.434974+00:00"
+  "LastUpdate_Ratings": "2023-12-09T06:58:36.4395058+00:00",
+  "LastUpdate_Achievements": "2023-12-09T07:08:32.7604652+00:00"
 }

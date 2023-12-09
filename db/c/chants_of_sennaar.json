@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 917,
+  "EOS_Progressed": 919,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 79,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.67,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 5.66,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3695,6 +3695,11 @@
       "Time": "2023-12-09T06:05:25.142145+00:00",
       "NumProgressed": 917,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-09T07:05:33.3423652+00:00",
+      "NumProgressed": 919,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 25,
@@ -3706,7 +3711,7 @@
       "Name": "I did it",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "END_GOOD",
@@ -3714,7 +3719,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "META_ALL_LINK",
@@ -3722,7 +3727,7 @@
       "Name": "Peace walker",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -3730,7 +3735,7 @@
       "Name": "Cable guy",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3762,7 +3767,7 @@
       "Name": "Free at last",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "META_RESULT_1-4",
@@ -3810,7 +3815,7 @@
       "Name": "Rascal",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -3826,7 +3831,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3842,7 +3847,7 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3850,7 +3855,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3858,7 +3863,7 @@
       "Name": "Scholar",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "PROGRESS_N1",
@@ -3874,7 +3879,7 @@
       "Name": "The great escape",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "PROGRESS_N3",
@@ -3882,7 +3887,7 @@
       "Name": "A new dawn",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "PROGRESS_N4",
@@ -3905,14 +3910,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 917,
+      "Progressed": 919,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-09T06:05:25.1421448+00:00",
+  "LastChanged_Achievements": "2023-12-09T07:05:33.3423651+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-09T05:59:27.3232533+00:00",
-  "LastUpdate_Achievements": "2023-12-09T06:05:25.1421684+00:00"
+  "LastUpdate_Ratings": "2023-12-09T06:59:34.4402889+00:00",
+  "LastUpdate_Achievements": "2023-12-09T07:05:33.3423885+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.29 (Ranked 853)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 87.00% | ~173 |
-| Bullseye! | 85.00% | ~169 |
-| Graduation! | 79.00% | ~157 |
-| Villfir Forest | 74.00% | ~147 |
-| Right in the kisser! | 58.00% | ~115 |
+| Level Up! | 88.00% | ~176 |
+| Bullseye! | 85.00% | ~170 |
+| Graduation! | 79.00% | ~158 |
+| Villfir Forest | 74.00% | ~148 |
+| Right in the kisser! | 58.00% | ~116 |
 | Duscot Steamcity | 47.00% | ~94 |
 | The Thrower | 46.00% | ~92 |
 | The Penguin | 45.00% | ~90 |
@@ -34,8 +34,8 @@ Rating: 4.29 (Ranked 853)
 | The Ooze | 16.00% | ~32 |
 | Out of the Frying Pan... | 16.00% | ~32 |
 | Ember | 16.00% | ~32 |
-| Turquoise | 15.00% | ~30 |
 | The Assistant | 14.00% | ~28 |
+| Turquoise | 14.00% | ~28 |
 | The Steampunk | 13.00% | ~26 |
 | The Droid | 11.00% | ~22 |
 | Verse | 11.00% | ~22 |
@@ -79,7 +79,7 @@ Rating: 4.29 (Ranked 853)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199 (Ranked 393)  
+Progressed: 200 (Ranked 393)  
 Completed: 1 (0.50%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,6 +187,7 @@ Completed: 1 (0.50%) (Ranked 209)
 | 2023-11-23 | 196 | 1 |
 | 2023-12-02 | 197 | 1 |
 | 2023-12-03 | 199 | 1 |
+| 2023-12-09 | 200 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

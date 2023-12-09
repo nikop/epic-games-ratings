@@ -26,8 +26,8 @@
 | Youth Magnet | 18.00% | ~104 |
 | Furious Scorpion Killer | 16.00% | ~92 |
 | Lethal Blade Mantis Killer | 16.00% | ~92 |
+| Squeaky Clean | 16.00% | ~92 |
 | Master Artificer | 16.00% | ~92 |
-| Squeaky Clean | 15.00% | ~86 |
 | Kind Adventurer | 14.00% | ~81 |
 | Mermaid Killer | 14.00% | ~81 |
 | Cave Master | 13.00% | ~75 |

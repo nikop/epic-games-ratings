@@ -6,19 +6,19 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~21,624 |
-| It wakes | 2.00% | ~21,624 |
-| Skillful | 2.00% | ~21,624 |
-| No one left behind | 1.00% | ~10,812 |
-| Handyman | 1.00% | ~10,812 |
-| Not half bad | 1.00% | ~10,812 |
-| Apt Survivor | 1.00% | ~10,812 |
-| Survival Treasures | 1.00% | ~10,812 |
-| I | 1.00% | ~10,812 |
-| Sorted | 1.00% | ~10,812 |
-| Resurgence | 1.00% | ~10,812 |
-| Preemptive Strike | 1.00% | ~10,812 |
-| Make Some Noise | 1.00% | ~10,812 |
+| Zealous | 2.00% | ~21,625 |
+| It wakes | 2.00% | ~21,625 |
+| Skillful | 2.00% | ~21,625 |
+| No one left behind | 1.00% | ~10,813 |
+| Handyman | 1.00% | ~10,813 |
+| Not half bad | 1.00% | ~10,813 |
+| Apt Survivor | 1.00% | ~10,813 |
+| Survival Treasures | 1.00% | ~10,813 |
+| I | 1.00% | ~10,813 |
+| Sorted | 1.00% | ~10,813 |
+| Resurgence | 1.00% | ~10,813 |
+| Preemptive Strike | 1.00% | ~10,813 |
+| Make Some Noise | 1.00% | ~10,813 |
 | The Grand Sacrifice | 0.90% | ~9,731 |
 | Medic | 0.90% | ~9,731 |
 | Bloody Millionaire | 0.90% | ~9,731 |
@@ -29,14 +29,14 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Escape | 0.80% | ~8,650 |
 | Perfect Killing | 0.80% | ~8,650 |
 | Close Shave | 0.80% | ~8,650 |
-| I've got your back | 0.70% | ~7,568 |
-| Apt Killer | 0.70% | ~7,568 |
-| Risk it all | 0.70% | ~7,568 |
-| II | 0.70% | ~7,568 |
-| Engineer | 0.70% | ~7,568 |
-| Wounded Healer | 0.70% | ~7,568 |
-| Vulture | 0.60% | ~6,487 |
-| III | 0.60% | ~6,487 |
+| I've got your back | 0.70% | ~7,569 |
+| Apt Killer | 0.70% | ~7,569 |
+| Risk it all | 0.70% | ~7,569 |
+| II | 0.70% | ~7,569 |
+| Engineer | 0.70% | ~7,569 |
+| Wounded Healer | 0.70% | ~7,569 |
+| Vulture | 0.60% | ~6,488 |
+| III | 0.60% | ~6,488 |
 | Blood on your hands | 0.50% | ~5,406 |
 | Escape Artist | 0.50% | ~5,406 |
 | First to the Punch | 0.50% | ~5,406 |
@@ -85,25 +85,25 @@ Number of Ratings: 70,340  (23.09.2022)
 | Extraterrestrial | 0.30% | ~3,244 |
 | MU/TH/UR Dearest | 0.30% | ~3,244 |
 | Outta Nowhere | 0.30% | ~3,244 |
-| Blood in your mouth | 0.20% | ~2,162 |
-| Jump Scares | 0.20% | ~2,162 |
-| Deep Cleansing | 0.20% | ~2,162 |
-| Texas BBQ | 0.20% | ~2,162 |
-| Serial Killer | 0.20% | ~2,162 |
-| Game Over | 0.20% | ~2,162 |
-| Party Crasher | 0.20% | ~2,162 |
-| Whiffing to Success | 0.20% | ~2,162 |
-| Outrage | 0.20% | ~2,162 |
-| Heavy Burden | 0.20% | ~2,162 |
-| Broken Bodies | 0.20% | ~2,162 |
-| I See You | 0.20% | ~2,162 |
-| Power Moves | 0.20% | ~2,162 |
-| Punch Drunk | 0.20% | ~2,162 |
-| Prowler | 0.20% | ~2,162 |
-| Triage | 0.20% | ~2,162 |
-| High Speed Pursuit | 0.20% | ~2,162 |
-| Complete the Evolution | 0.20% | ~2,162 |
-| Joke’s On You | 0.20% | ~2,162 |
+| Blood in your mouth | 0.20% | ~2,163 |
+| Jump Scares | 0.20% | ~2,163 |
+| Deep Cleansing | 0.20% | ~2,163 |
+| Texas BBQ | 0.20% | ~2,163 |
+| Serial Killer | 0.20% | ~2,163 |
+| Game Over | 0.20% | ~2,163 |
+| Party Crasher | 0.20% | ~2,163 |
+| Whiffing to Success | 0.20% | ~2,163 |
+| Outrage | 0.20% | ~2,163 |
+| Heavy Burden | 0.20% | ~2,163 |
+| Broken Bodies | 0.20% | ~2,163 |
+| I See You | 0.20% | ~2,163 |
+| Power Moves | 0.20% | ~2,163 |
+| Punch Drunk | 0.20% | ~2,163 |
+| Prowler | 0.20% | ~2,163 |
+| Triage | 0.20% | ~2,163 |
+| High Speed Pursuit | 0.20% | ~2,163 |
+| Complete the Evolution | 0.20% | ~2,163 |
+| Joke’s On You | 0.20% | ~2,163 |
 | A feast for the Entity | 0.10% | ~1,081 |
 | Cripple them all | 0.10% | ~1,081 |
 | The Grind | 0.10% | ~1,081 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,081 |
 | Adept Good Guy | 0.10% | ~1,081 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,081,190 (Ranked 13)  
+Progressed: 1,081,267 (Ranked 13)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -472,10 +472,10 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-06 | 1,075,348 | 61 |
 | 2023-12-07 | 1,077,876 | 61 |
 | 2023-12-08 | 1,080,483 | 61 |
-| 2023-12-09 | 1,081,190 | 61 |
+| 2023-12-09 | 1,081,267 | 61 |
 ## Awards
 Max (Diverse Characters): 37,578  (Ranked 15)  
-Sum: 284,814 (Ranked 12)  
+Sum: 284,861 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -486,7 +486,7 @@ Diff (max vs sum): 3
 | This game is Extremely Fun | 31,575 |
 | This game has Challenging Combat | 31,451 |
 | This game has Quickly Understood Controls | 30,731 |
-| This game has Amazing Storytelling | 29,037 |
+| This game has Amazing Storytelling | 29,084 |
 | This game has a Competitive Community | 27,797 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -812,4 +812,4 @@ Diff (max vs sum): 3
 | 2023-12-06 | 4.51 | - | 37,449 | 283,748 |
 | 2023-12-07 | 4.51 | - | 37,449 | 284,097 |
 | 2023-12-08 | 4.51 | - | 37,508 | 284,549 |
-| 2023-12-09 | 4.51 | - | 37,578 | 284,814 |
+| 2023-12-09 | 4.51 | - | 37,578 | 284,861 |

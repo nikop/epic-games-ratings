@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388 (Ranked 334)  
+Progressed: 389 (Ranked 333)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 367 | 0 |
 | 2023-12-07 | 373 | 0 |
 | 2023-12-08 | 386 | 0 |
-| 2023-12-09 | 388 | 0 |
+| 2023-12-09 | 389 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 515)  
 Sum: 194 (Ranked 407)  

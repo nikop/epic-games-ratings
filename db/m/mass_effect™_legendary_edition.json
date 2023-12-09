@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -5376,9 +5376,9 @@
       "ID": "achievement_85",
       "SetID": "d252ncf",
       "Name": "Party Crasher",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 354
     },
     {
       "ID": "achievement_86",
@@ -5516,8 +5516,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-09T06:09:32.7789842+00:00",
+  "LastChanged_Achievements": "2023-12-09T07:09:20.0963517+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-09T06:02:58.2162026+00:00",
-  "LastUpdate_Achievements": "2023-12-09T06:09:32.7791331+00:00"
+  "LastUpdate_Ratings": "2023-12-09T07:03:04.582999+00:00",
+  "LastUpdate_Achievements": "2023-12-09T07:09:20.0965035+00:00"
 }
