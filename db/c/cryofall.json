@@ -3,12 +3,12 @@
   "Name": "CryoFall",
   "ProductSlug": "cryofall-331358",
   "Ranking_Rating": 574,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-02-28T18:00:00+00:00",
     "PcReleaseDate": "2021-04-29T00:00:00+00:00",
@@ -305,6 +305,6 @@
   "FirstSeenRating": "2022-08-07T18:02:06.4816935+00:00",
   "LastChanged": "2023-07-22T07:00:21.4372523+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:49.3296406+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:59:32.7344946+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:03:28.1509781+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:59:33.6370332+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:03:38.9828136+00:00"
 }

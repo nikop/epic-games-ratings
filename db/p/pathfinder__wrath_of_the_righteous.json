@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4529,9 +4529,9 @@
       "Count": 400
     }
   ],
-  "EOS_Progressed": 12260,
+  "EOS_Progressed": 12262,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16584,6 +16584,11 @@
       "Time": "2023-12-09T15:08:51.4038649+00:00",
       "NumProgressed": 12260,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T16:09:13.5413326+00:00",
+      "NumProgressed": 12262,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16595,7 +16600,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3311
     },
     {
       "ID": "02_BurningCity",
@@ -16611,7 +16616,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "04_FithCrusade",
@@ -16619,7 +16624,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -16705,9 +16710,9 @@
       "ID": "15_PathOfDragon",
       "SetID": "989of5o",
       "Name": "Path of the Dragon",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 123
     },
     {
       "ID": "16_PathOfLegend",
@@ -16963,7 +16968,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "49_Flame",
@@ -17522,21 +17527,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11042,
+      "Progressed": 11044,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12260,
+      "Progressed": 12262,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-09T09:58:33.0483748+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:08:51.4038647+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:09:13.5413322+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.5454343+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:58:50.4482037+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:08:51.4040617+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:58:51.2771223+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:09:13.5415142+00:00"
 }

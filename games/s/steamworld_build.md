@@ -12,20 +12,20 @@
 | Aristocratic | 57.00% | ~37 |
 | Tutti Frutti | 54.00% | ~35 |
 | Gotta Go Fast | 51.00% | ~33 |
-| Slotting Machine | 37.00% | ~24 |
+| Slotting Machine | 38.00% | ~25 |
+| Systematic | 35.00% | ~23 |
 | Mine Sweeper | 34.00% | ~22 |
-| Systematic | 34.00% | ~22 |
 | Roll Out | 32.00% | ~21 |
 | Botropolis | 20.00% | ~13 |
 | Dopa-Miner | 20.00% | ~13 |
+| Up, Up And Away! | 18.00% | ~12 |
 | Whoa! | 18.00% | ~12 |
 | Steaming Rich | 17.00% | ~11 |
-| Up, Up And Away! | 17.00% | ~11 |
 | Room To Spare | 14.00% | ~9 |
 | Steam Powered | 12.00% | ~8 |
 | Manic Mechanic | 11.00% | ~7 |
-| Real Purdy | 5.00% | ~3 |
-| Stack Overflow | 5.00% | ~3 |
+| Real Purdy | 6.00% | ~4 |
+| Stack Overflow | 6.00% | ~4 |
 | Accustomed Customer | 0.00% | ~0 |
 | Click 'Em All | 0.00% | ~0 |
 | I'm A Lumberbot | 0.00% | ~0 |

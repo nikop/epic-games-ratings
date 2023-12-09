@@ -3,12 +3,12 @@
   "Name": "SLUDGE LIFE",
   "ProductSlug": "sludge-life",
   "Ranking_Rating": 116,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-05-28T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -414,6 +414,6 @@
   "FirstSeen": "2022-07-22T20:20:12.4151557+00:00",
   "LastChanged": "2023-11-30T09:02:49.008838+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:15.7326652+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:02:48.6971574+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:06:13.6672552+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:02:58.8419756+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:06:26.8153792+00:00"
 }

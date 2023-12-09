@@ -3,9 +3,9 @@
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
   "Ranking_EOS_Progress": 435,
-  "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Completed": 74,
+  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.56,
+  "EOS_Completed_Percentage": 5.5,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -584,6 +584,11 @@
       "Time": "2023-12-08T18:04:05.1287658+00:00",
       "NumProgressed": 108,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-09T16:04:26.038642+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 26,
@@ -611,7 +616,7 @@
       "Name": "Something more...",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Bonus_Fragile",
@@ -619,7 +624,7 @@
       "Name": "Something more... (fragile)",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Butterfly",
@@ -802,14 +807,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:04:14.1598104+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:04:26.0386416+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:46.2082602+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:57:58.7267177+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:04:14.1598289+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:58:00.4533758+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:04:26.0386643+00:00"
 }

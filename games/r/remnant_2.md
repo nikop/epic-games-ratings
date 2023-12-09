@@ -9,7 +9,7 @@ Rating: 4.75 (Ranked 146)
 | Regicide | 0.80% | ~133 |
 | Master of the Dark Arts | 0.80% | ~133 |
 | First of Many | 0.70% | ~1,662 |
-| Not Your Average Trait | 0.60% | ~1,424 |
+| Not Your Average Trait | 0.60% | ~1,425 |
 | Expanding Horizons | 0.50% | ~1,187 |
 | Gleaming the Cube | 0.50% | ~1,187 |
 | Not So Special Now | 0.50% | ~1,187 |
@@ -25,6 +25,7 @@ Rating: 4.75 (Ranked 146)
 | Top Performer | 0.40% | ~950 |
 | Shhh...It's a Secret | 0.40% | ~950 |
 | Was This Supposed To Happen? | 0.40% | ~950 |
+| Scrap Collector | 0.40% | ~950 |
 | Almost There | 0.40% | ~950 |
 | Make Some Room | 0.40% | ~950 |
 | Good, But Could Be Better! | 0.40% | ~950 |
@@ -42,7 +43,6 @@ Rating: 4.75 (Ranked 146)
 | Strapped | 0.30% | ~712 |
 | Edgelord | 0.30% | ~712 |
 | The Web | 0.30% | ~712 |
-| Scrap Collector | 0.30% | ~712 |
 | Scrap Hoarder | 0.30% | ~712 |
 | All These Traits� | 0.30% | ~712 |
 | The Ultimate Weapon | 0.30% | ~712 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 146)
 | You Shall Pass | 0.20% | ~33 |
 | A Foul Feast | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,399 (Ranked 66)  
+Progressed: 237,433 (Ranked 66)  
 Completed: 573 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,15 +207,15 @@ Completed: 573 (0.24%) (Ranked 251)
 | 2023-12-06 | 236,074 | 564 |
 | 2023-12-07 | 236,590 | 567 |
 | 2023-12-08 | 237,044 | 572 |
-| 2023-12-09 | 237,399 | 573 |
+| 2023-12-09 | 237,433 | 573 |
 ## Awards
 Max (Great Boss Battles): 2,690  (Ranked 102)  
-Sum: 6,703 (Ranked 127)  
+Sum: 6,707 (Ranked 127)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,690 |
-| This game has Diverse Characters | 445 |
+| This game has Diverse Characters | 449 |
 | This game is Highly Recommended | 427 |
 | This game has Challenging Combat | 425 |
 | This game has Amazing Storytelling | 415 |
@@ -364,4 +364,4 @@ Diff (max vs sum): -25
 | 2023-12-06 | 4.75 | 2,668 | 6,588 |
 | 2023-12-07 | 4.75 | 2,678 | 6,634 |
 | 2023-12-08 | 4.75 | 2,690 | 6,681 |
-| 2023-12-09 | 4.75 | 2,690 | 6,703 |
+| 2023-12-09 | 4.75 | 2,690 | 6,707 |

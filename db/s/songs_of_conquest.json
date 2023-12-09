@@ -3,12 +3,12 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 231,
-  "Ranking_Popularity": 515,
+  "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -2065,9 +2065,9 @@
       "ID": "WielderLevel4",
       "SetID": "71c0n9i",
       "Name": "Grand Master",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "WinBattleBeforeEnemyTurn",
@@ -2153,8 +2153,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:04:54.9590498+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:05:06.7723739+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:02:31.1253536+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:04:54.9590893+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:02:41.4899419+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:05:06.7724127+00:00"
 }

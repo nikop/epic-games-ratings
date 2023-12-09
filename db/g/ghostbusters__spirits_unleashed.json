@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 574,
+  "Ranking_Rating": 595,
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2022-10-19T03:31:00.7496554+00:00",
@@ -3589,6 +3589,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 2889,
       "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-12-09T15:57:05.1240507+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2889,
+      "NumberOfAwardsMax": 321
     }
   ],
   "ReviewsDisabled": false,
@@ -3669,11 +3675,11 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32093,
+  "EOS_Progressed": 32096,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:46.8023803+00:00",
@@ -21819,6 +21825,11 @@
       "Time": "2023-12-09T12:04:22.1785526+00:00",
       "NumProgressed": 32093,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-09T16:03:43.4413915+00:00",
+      "NumProgressed": 32096,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22134,7 +22145,7 @@
       "Name": "Stylish",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2889
     },
     {
       "ID": "Summoner",
@@ -22237,16 +22248,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32093,
+      "Progressed": 32096,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-09T10:57:08.0772814+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:03:32.5541539+00:00",
+  "LastChanged": "2023-12-09T15:57:05.1240488+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:03:43.4413911+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.1930733+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:57:04.3599019+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:03:32.5542436+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:57:05.1240512+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:03:43.4414868+00:00"
 }

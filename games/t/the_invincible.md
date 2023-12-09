@@ -25,8 +25,8 @@
 | Another giant | 11.00% | ~59 |
 | Violent solution | 9.00% | ~48 |
 | Innate curiosity | 8.00% | ~43 |
+| I leave no man behind | 7.00% | ~37 |
 | The Invincible | 6.00% | ~32 |
-| I leave no man behind | 6.00% | ~32 |
 | Strong objection | 6.00% | ~32 |
 | Ubiquitous holes | 4.00% | ~21 |
 | Got lost again | 4.00% | ~21 |

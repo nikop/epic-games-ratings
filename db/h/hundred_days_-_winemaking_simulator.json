@@ -2,13 +2,13 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 795,
+  "Ranking_Rating": 796,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 15370,
+  "EOS_Progressed": 15377,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 863,
+  "EOS_NewPlayers": 860,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12975,6 +12975,11 @@
       "Time": "2023-12-09T15:08:33.1403418+00:00",
       "NumProgressed": 15370,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-09T16:08:55.8989125+00:00",
+      "NumProgressed": 15377,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -12987,7 +12992,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "a_10",
@@ -12995,7 +13000,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "a_11",
@@ -13003,7 +13008,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "a_12",
@@ -13011,7 +13016,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "a_15",
@@ -13027,7 +13032,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "a_18",
@@ -13035,7 +13040,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6455
+      "UsersEstimate": 6458
     },
     {
       "ID": "a_19",
@@ -13051,7 +13056,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "a_20",
@@ -13059,7 +13064,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "a_21",
@@ -13067,7 +13072,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "a_22",
@@ -13091,7 +13096,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "a_26",
@@ -13099,7 +13104,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "a_27",
@@ -13115,7 +13120,7 @@
       "Name": "Pastry Chef",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "a_3",
@@ -13171,7 +13176,7 @@
       "Name": "Welcome to the club",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "a_36",
@@ -13227,14 +13232,14 @@
       "Name": "Very Important Winemaker",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 15370,
+      "Progressed": 15377,
       "Completed": 12
     }
   ],
@@ -13242,8 +13247,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:08:33.1403415+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:08:55.8989122+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:18.6853909+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:02:48.0662304+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:08:33.1404141+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:02:58.1810593+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:08:55.8989729+00:00"
 }

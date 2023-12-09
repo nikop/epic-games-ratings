@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~205 |
 | See You on the Flipside | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,073 (Ranked 65)  
+Progressed: 239,088 (Ranked 65)  
 Completed: 2,508 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -772,14 +772,14 @@ Completed: 2,508 (1.05%) (Ranked 167)
 | 2023-12-06 | 238,666 | 2,502 |
 | 2023-12-07 | 238,772 | 2,504 |
 | 2023-12-08 | 238,975 | 2,506 |
-| 2023-12-09 | 239,073 | 2,508 |
+| 2023-12-09 | 239,088 | 2,508 |
 ## Awards
-Max (Great for Beginners): 5,606  (Ranked 70)  
-Sum: 32,788 (Ranked 41)  
+Max (Great for Beginners): 5,612  (Ranked 70)  
+Sum: 32,794 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,606 |
+| This game is Great for Beginners | 5,612 |
 | This game has Diverse Characters | 5,585 |
 | This game has Quickly Understood Controls | 4,837 |
 | This game is Relaxing | 4,718 |
@@ -1106,4 +1106,4 @@ Diff (max vs sum): 29
 | 2023-12-06 | 4.06 | - | 5,596 | 32,746 |
 | 2023-12-07 | 4.06 | - | 5,600 | 32,768 |
 | 2023-12-08 | 4.06 | - | 5,606 | 32,786 |
-| 2023-12-09 | 4.06 | - | 5,606 | 32,788 |
+| 2023-12-09 | 4.06 | - | 5,612 | 32,794 |

@@ -5311,10 +5311,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6703,
       "NumberOfAwardsMax": 2690
+    },
+    {
+      "Time": "2023-12-09T16:03:07.2644235+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6707,
+      "NumberOfAwardsMax": 2690
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6703,
+  "NumberOfAwards": 6707,
   "NumberOfAwardsMax": 2690,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5346,7 +5352,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 445
+      "Count": 449
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5385,9 +5391,9 @@
       "Count": 412
     }
   ],
-  "EOS_Progressed": 237399,
+  "EOS_Progressed": 237433,
   "EOS_Completed": 573,
-  "EOS_NewPlayers": 4515,
+  "EOS_NewPlayers": 4481,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22175,6 +22181,11 @@
       "Time": "2023-12-09T15:08:26.5443941+00:00",
       "NumProgressed": 237399,
       "NumCompleted": 573
+    },
+    {
+      "Time": "2023-12-09T16:08:49.1335334+00:00",
+      "NumProgressed": 237433,
+      "NumCompleted": 573
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22473,9 +22484,9 @@
       "ID": "Obtain_Scrap_A",
       "SetID": "bkp3b1a",
       "Name": "Scrap Collector",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 950
     },
     {
       "ID": "Obtain_Scrap_B",
@@ -22491,7 +22502,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "Obtain_Traits_B",
@@ -22626,22 +22637,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 237399,
+      "Progressed": 237433,
       "Completed": 573
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 16564,
+      "Progressed": 16598,
       "Completed": 218
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-09T15:02:57.7316658+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:08:26.544394+00:00",
+  "LastChanged": "2023-12-09T16:03:07.2644234+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:08:49.1335332+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:02:57.7316664+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:08:26.5444829+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:03:07.2644239+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:08:49.1336226+00:00"
 }

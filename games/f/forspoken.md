@@ -5,14 +5,14 @@ Rating: 4.13 (Ranked 968)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,347 |
+| Attachments | 10.00% | ~4,348 |
 | Unlocked Potential | 9.00% | ~3,913 |
 | Tinkerer | 7.00% | ~3,043 |
-| Leapfrogger | 6.00% | ~2,608 |
-| Knock 'Em Dead | 6.00% | ~2,608 |
-| Pilgrimage: Initiate | 6.00% | ~2,608 |
-| Hell of a Run | 6.00% | ~2,608 |
-| Call of the Fount: Baptized | 6.00% | ~2,608 |
+| Leapfrogger | 6.00% | ~2,609 |
+| Knock 'Em Dead | 6.00% | ~2,609 |
+| Pilgrimage: Initiate | 6.00% | ~2,609 |
+| Hell of a Run | 6.00% | ~2,609 |
+| Call of the Fount: Baptized | 6.00% | ~2,609 |
 | No Mercy | 5.00% | ~2,174 |
 | Explorer: Seeker | 5.00% | ~2,174 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,739 |
@@ -22,12 +22,12 @@ Rating: 4.13 (Ranked 968)
 | The Interloper | 3.00% | ~1,304 |
 | Hop, Step, Jump | 3.00% | ~1,304 |
 | Endless Runner | 3.00% | ~1,304 |
-| What Must Be Done | 2.00% | ~869 |
-| Might and Main | 2.00% | ~869 |
-| Damned If You Do... | 2.00% | ~869 |
-| Explorer: Pathfinder | 2.00% | ~869 |
-| Shocker | 2.00% | ~869 |
-| From Every Angle | 2.00% | ~869 |
+| What Must Be Done | 2.00% | ~870 |
+| Might and Main | 2.00% | ~870 |
+| Damned If You Do... | 2.00% | ~870 |
+| Explorer: Pathfinder | 2.00% | ~870 |
+| Shocker | 2.00% | ~870 |
+| From Every Angle | 2.00% | ~870 |
 | The Hue of Blue | 1.00% | ~435 |
 | The Truth Will Out | 1.00% | ~435 |
 | Breaking Point | 1.00% | ~435 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 968)
 | Remembrance | 0.10% | ~43 |
 | Cat Person | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,474 (Ranked 118)  
+Progressed: 43,477 (Ranked 118)  
 Completed: 3 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,10 +292,10 @@ Completed: 3 (0.01%) (Ranked 348)
 | 2023-12-06 | 43,361 | 3 |
 | 2023-12-07 | 43,388 | 3 |
 | 2023-12-08 | 43,450 | 3 |
-| 2023-12-09 | 43,474 | 3 |
+| 2023-12-09 | 43,477 | 3 |
 ## Awards
-Max (Character Customization): 29  (Ranked 503)  
-Sum: 29 (Ranked 518)  
+Max (Character Customization): 29  (Ranked 502)  
+Sum: 29 (Ranked 517)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |

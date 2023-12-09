@@ -1,17 +1,17 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.50 (Ranked 596)  
+Rating: 4.50 (Ranked 595)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~97,128 |
-| NATURAL BORN WINNER | 33.00% | ~78,176 |
-| CALLING HOUSTON | 28.00% | ~66,331 |
-| SNEAKY SNEAKY | 22.00% | ~52,118 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~52,118 |
-| GT9STRADALE | 20.00% | ~47,380 |
+| VANGUARD | 41.00% | ~97,130 |
+| NATURAL BORN WINNER | 33.00% | ~78,178 |
+| CALLING HOUSTON | 28.00% | ~66,333 |
+| SNEAKY SNEAKY | 22.00% | ~52,119 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~52,119 |
+| GT9STRADALE | 20.00% | ~47,381 |
 | CHALLENGER | 11.00% | ~26,059 |
 | ON A ROLL | 9.00% | ~21,321 |
 | CENTAUR | 8.00% | ~18,952 |
@@ -28,9 +28,9 @@ Number of Ratings: 274  (23.09.2022)
 | HARDCORE | 1.00% | ~2,369 |
 | ACE | 0.80% | ~1,895 |
 | TACTICIAN | 0.60% | ~1,421 |
-| GTX COMPETIZIONE | 0.50% | ~1,184 |
-| HIDDEN POWER | 0.50% | ~1,184 |
-| TUNING MANIAC | 0.50% | ~1,184 |
+| GTX COMPETIZIONE | 0.50% | ~1,185 |
+| HIDDEN POWER | 0.50% | ~1,185 |
+| TUNING MANIAC | 0.50% | ~1,185 |
 | DRAGOON | 0.40% | ~948 |
 | FLAWLESS | 0.40% | ~948 |
 | MARID | 0.30% | ~711 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~474 |
 | ENLIGHTENED | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,898 (Ranked 67)  
+Progressed: 236,903 (Ranked 67)  
 Completed: 49 (0.02%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 49 (0.02%) (Ranked 339)
 | 2023-12-06 | 236,768 | 49 |
 | 2023-12-07 | 236,814 | 49 |
 | 2023-12-08 | 236,868 | 49 |
-| 2023-12-09 | 236,898 | 49 |
+| 2023-12-09 | 236,903 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

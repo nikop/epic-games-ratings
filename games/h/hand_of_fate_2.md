@@ -1,22 +1,22 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.55 (Ranked 510)  
+Rating: 4.55 (Ranked 511)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~479,241 |
-| Apprentice | 58.00% | ~386,056 |
-| Close Shave | 25.00% | ~166,403 |
-| Mercenary | 23.00% | ~153,091 |
-| Ninja | 23.00% | ~153,091 |
-| Northern Scourge | 17.00% | ~113,154 |
-| Thief Bane | 14.00% | ~93,186 |
+| The Fool | 72.00% | ~479,245 |
+| Apprentice | 58.00% | ~386,058 |
+| Close Shave | 25.00% | ~166,404 |
+| Mercenary | 23.00% | ~153,092 |
+| Ninja | 23.00% | ~153,092 |
+| Northern Scourge | 17.00% | ~113,155 |
+| Thief Bane | 14.00% | ~93,187 |
 | Master of Arms | 12.00% | ~79,874 |
-| Gambler | 10.00% | ~66,561 |
-| Dice Master | 10.00% | ~66,561 |
-| Swordsman | 9.00% | ~59,905 |
+| Gambler | 10.00% | ~66,562 |
+| Dice Master | 10.00% | ~66,562 |
+| Swordsman | 9.00% | ~59,906 |
 | Knight | 8.00% | ~53,249 |
 | Cure for Corruption | 8.00% | ~53,249 |
 | Focused | 8.00% | ~53,249 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Empire's Bane | 6.00% | ~39,937 |
 | Jack of all Trades | 5.00% | ~33,281 |
 | Smithy | 5.00% | ~33,281 |
-| Leap of Faith | 3.00% | ~19,968 |
-| Combat Ready | 3.00% | ~19,968 |
-| Stuffed Potato | 3.00% | ~19,968 |
+| Leap of Faith | 3.00% | ~19,969 |
+| Combat Ready | 3.00% | ~19,969 |
+| Stuffed Potato | 3.00% | ~19,969 |
 | Card Sharp | 2.00% | ~13,312 |
 | Magician | 2.00% | ~13,312 |
 | Draknar's Bane | 2.00% | ~13,312 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~666 |
 | Blood Pact | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665,613 (Ranked 29)  
+Progressed: 665,618 (Ranked 29)  
 Completed: 172 (0.03%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,11 +288,11 @@ Completed: 172 (0.03%) (Ranked 333)
 | 2023-12-06 | 665,512 | 172 |
 | 2023-12-07 | 665,544 | 172 |
 | 2023-12-08 | 665,583 | 172 |
-| 2023-12-09 | 665,613 | 172 |
+| 2023-12-09 | 665,618 | 172 |
 ## Awards
-Max (Amazing Storytelling): 36  (Ranked 477)  
+Max (Amazing Storytelling): 36  (Ranked 476)  
 Sum: 193 (Ranked 408)  
-Diff (max vs sum): 69  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

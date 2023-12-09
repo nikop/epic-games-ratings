@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1498,
+  "EOS_Progressed": 1501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 877,
+  "EOS_NewPlayers": 867,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1044,6 +1044,11 @@
       "Time": "2023-12-09T15:04:00.7126513+00:00",
       "NumProgressed": 1498,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T16:04:12.1865324+00:00",
+      "NumProgressed": 1501,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1078,9 +1083,9 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "c167foo",
       "Name": "Highest Among the Highest",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1088,7 +1093,7 @@
       "Name": "Gruesome Ball Handler",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1104,7 +1109,7 @@
       "Name": "Power Overwhelming",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1128,7 +1133,7 @@
       "Name": "Dark Prizes",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1136,7 +1141,7 @@
       "Name": "Skull Collector",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1144,7 +1149,7 @@
       "Name": "Grim Challenger",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1208,7 +1213,7 @@
       "Name": "Tournament Spotter",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -1248,7 +1253,7 @@
       "Name": "Lair Expanded",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -1264,7 +1269,7 @@
       "Name": "Half Way to Darkness",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -1272,7 +1277,7 @@
       "Name": "Path of Damnation",
       "Percentage": 0.3,
       "XP": 70,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -1296,7 +1301,7 @@
       "Name": "Honored Badges",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1312,7 +1317,7 @@
       "Name": "The Arrival of It",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1328,7 +1333,7 @@
       "Name": "We are all mad here",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -1368,7 +1373,7 @@
       "Name": "Most notorious slasher",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_49",
@@ -1376,7 +1381,7 @@
       "Name": "I\u0027m your friend to the end",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_50",
@@ -1431,14 +1436,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1498,
+      "Progressed": 1501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:04:00.7126511+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:04:12.1865322+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:59:07.2035939+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:04:00.7126797+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:59:07.9726961+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:04:12.1865749+00:00"
 }

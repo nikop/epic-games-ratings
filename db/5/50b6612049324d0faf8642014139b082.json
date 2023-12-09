@@ -3,12 +3,12 @@
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
   "Ranking_Rating": 831,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -127,7 +127,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 765,
+  "EOS_Progressed": 766,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -1917,6 +1917,11 @@
       "Time": "2023-12-09T11:10:19.3053861+00:00",
       "NumProgressed": 765,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T16:09:26.1394606+00:00",
+      "NumProgressed": 766,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1985,7 +1990,7 @@
       "Name": "Class Act",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_17",
@@ -1993,7 +1998,7 @@
       "Name": "Your first time?",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "achievement_18",
@@ -2017,7 +2022,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "achievement_20",
@@ -2057,7 +2062,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_25",
@@ -2113,7 +2118,7 @@
       "Name": "NEW PB!",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_8",
@@ -2136,7 +2141,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 765,
+      "Progressed": 766,
       "Completed": 0
     }
   ],
@@ -2144,8 +2149,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-08T18:58:09.7993427+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:09:04.0769124+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:09:26.1394603+00:00",
   "LastUpdate_AppInfo": "2023-12-05T21:56:59.3509515+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:58:22.5241352+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:09:04.076929+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:58:24.3699523+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:09:26.1394826+00:00"
 }

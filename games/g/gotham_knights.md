@@ -6,14 +6,14 @@ Rating: 4.19 (Ranked 933)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~38,912 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,460 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,461 |
 | Loose Ends | 33.00% | ~25,682 |
 | To the Victor Go the Spoils | 28.00% | ~21,791 |
-| Knighthood | 27.00% | ~21,012 |
+| Knighthood | 27.00% | ~21,013 |
 | Get ReQ'd | 25.00% | ~19,456 |
 | Whispered Words | 24.00% | ~18,678 |
-| The Batman Family | 22.00% | ~17,121 |
-| Lock and Key | 22.00% | ~17,121 |
+| The Batman Family | 22.00% | ~17,122 |
+| Lock and Key | 22.00% | ~17,122 |
 | Something in the Clay | 21.00% | ~16,343 |
 | Quartzer Life Crisis | 20.00% | ~15,565 |
 | Working Hard or Harley Working? | 20.00% | ~15,565 |
@@ -26,9 +26,9 @@ Rating: 4.19 (Ranked 933)
 | Universal Health Scare | 16.00% | ~12,452 |
 | In Your Element | 15.00% | ~11,674 |
 | Voiceless | 15.00% | ~11,674 |
-| Rock and a Hard Place | 14.00% | ~10,895 |
-| Cooldown | 14.00% | ~10,895 |
-| Seeking Asylum | 14.00% | ~10,895 |
+| Rock and a Hard Place | 14.00% | ~10,896 |
+| Cooldown | 14.00% | ~10,896 |
+| Seeking Asylum | 14.00% | ~10,896 |
 | Not On My Watch | 13.00% | ~10,117 |
 | Shock Til They Drop | 13.00% | ~10,117 |
 | End of an Era | 12.00% | ~9,339 |
@@ -39,8 +39,8 @@ Rating: 4.19 (Ranked 933)
 | Out of Their League | 9.00% | ~7,004 |
 | Solid Alibi | 9.00% | ~7,004 |
 | Fusion Expert | 7.00% | ~5,448 |
-| Family Meeting | 6.00% | ~4,669 |
-| A Worthy Successor | 6.00% | ~4,669 |
+| Family Meeting | 6.00% | ~4,670 |
+| A Worthy Successor | 6.00% | ~4,670 |
 | Expert Crime Fighter | 5.00% | ~3,891 |
 | Dressed to Impress | 4.00% | ~3,113 |
 | A Momentum Occasion | 3.00% | ~2,335 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 933)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,824 (Ranked 99)  
+Progressed: 77,825 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 124 (0.16%) (Ranked 272)
 | 2023-12-06 | 77,742 | 124 |
 | 2023-12-07 | 77,772 | 124 |
 | 2023-12-08 | 77,802 | 124 |
-| 2023-12-09 | 77,824 | 124 |
+| 2023-12-09 | 77,825 | 124 |
 ## Awards
 Max (Great Boss Battles): 3,001  (Ranked 98)  
 Sum: 5,126 (Ranked 140)  

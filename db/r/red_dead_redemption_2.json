@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -17873,18 +17873,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 542294,
       "NumberOfAwardsMax": 206654
+    },
+    {
+      "Time": "2023-12-09T15:58:10.3319808+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 543037,
+      "NumberOfAwardsMax": 207155
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 542294,
-  "NumberOfAwardsMax": 206654,
+  "NumberOfAwards": 543037,
+  "NumberOfAwardsMax": 207155,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 206654
+      "Count": 207155
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -17932,7 +17938,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22720
+      "Count": 22817
     },
     {
       "Text": "This game is Great for Beginners",
@@ -17944,7 +17950,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 22233
+      "Count": 22311
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -17962,7 +17968,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 16253
+      "Count": 16320
     }
   ],
   "EOS_Progressed": 0,
@@ -17976,8 +17982,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-12-09T14:58:08.5770877+00:00",
+  "LastChanged": "2023-12-09T15:58:10.3319806+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:41.9159666+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:58:08.5770881+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:03:04.0425963+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:58:10.3319828+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:03:14.7773765+00:00"
 }

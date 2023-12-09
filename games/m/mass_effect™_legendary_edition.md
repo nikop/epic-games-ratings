@@ -54,12 +54,12 @@
 | Catharsis | 32.00% | ~494 |
 | Ghost of the Father | 32.00% | ~494 |
 | The Cure | 32.00% | ~494 |
+| Revenge! | 32.00% | ~494 |
 | Driven | 32.00% | ~494 |
 | Focused | 31.00% | ~478 |
 | Completionist | 31.00% | ~478 |
 | Fade Away | 31.00% | ~478 |
 | Big Game Hunter | 31.00% | ~478 |
-| Revenge! | 31.00% | ~478 |
 | Heart of Darkness | 31.00% | ~478 |
 | Bringer of War | 31.00% | ~478 |
 | Friend or Foe | 30.00% | ~463 |
@@ -106,7 +106,7 @@
 | Sabotage Specialist | 16.00% | ~247 |
 | Throw Mastery | 16.00% | ~247 |
 | Mail Slot | 15.00% | ~231 |
-| Electronics Specialist | 14.00% | ~216 |
+| Electronics Specialist | 15.00% | ~231 |
 | Combined Arms | 13.00% | ~201 |
 | Bruiser | 12.00% | ~185 |
 | Overload Specialist | 11.00% | ~170 |

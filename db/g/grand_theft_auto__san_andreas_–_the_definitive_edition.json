@@ -2,13 +2,13 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 510,
+  "Ranking_Rating": 511,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1705,7 +1705,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 13913,
+  "EOS_Progressed": 13914,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -15685,6 +15685,11 @@
       "Time": "2023-12-09T14:09:54.6270601+00:00",
       "NumProgressed": 13913,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-09T16:09:10.5676494+00:00",
+      "NumProgressed": 13914,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15792,7 +15797,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ACH14",
@@ -15800,7 +15805,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "ACH15",
@@ -15975,7 +15980,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13913,
+      "Progressed": 13914,
       "Completed": 56
     }
   ],
@@ -15983,8 +15988,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-09T14:59:48.6137607+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:08:48.3400517+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:09:10.5676491+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:45.2117848+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:59:48.6137613+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:08:48.3401184+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:59:49.8173715+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:09:10.5677314+00:00"
 }

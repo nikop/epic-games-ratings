@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 86.00% | ~54 |
-| Air Fighter | 79.00% | ~50 |
-| Oo-De-Lally | 67.00% | ~42 |
-| Treasure Hunter | 67.00% | ~42 |
-| The Altruist | 67.00% | ~42 |
-| Watch your Step! | 56.00% | ~35 |
-| Tap Dancing | 54.00% | ~34 |
-| MAX LEVEL | 51.00% | ~32 |
-| Right between the eyes | 46.00% | ~29 |
-| Spring Board | 46.00% | ~29 |
+| Act of Kindness | 86.00% | ~55 |
+| Air Fighter | 78.00% | ~50 |
+| Oo-De-Lally | 67.00% | ~43 |
+| Treasure Hunter | 66.00% | ~42 |
+| The Altruist | 66.00% | ~42 |
+| Watch your Step! | 55.00% | ~35 |
+| Tap Dancing | 53.00% | ~34 |
+| MAX LEVEL | 50.00% | ~32 |
+| Right between the eyes | 45.00% | ~29 |
+| Spring Board | 45.00% | ~29 |
 | Starry Night | 41.00% | ~26 |
-| Rebel Unleashed | 40.00% | ~25 |
-| Locksley's Tears | 37.00% | ~23 |
-| Merry Co-operation | 32.00% | ~20 |
-| Assault on the Ram | 32.00% | ~20 |
+| Rebel Unleashed | 39.00% | ~25 |
+| Locksley's Tears | 36.00% | ~23 |
+| Merry Co-operation | 31.00% | ~20 |
+| Assault on the Ram | 31.00% | ~20 |
 | Finish Him! | 30.00% | ~19 |
 | Savior | 27.00% | ~17 |
 | Ultra Rebel Instinct | 25.00% | ~16 |
@@ -29,8 +29,8 @@
 | Ascending Will | 16.00% | ~10 |
 | Hidden Experiment | 14.00% | ~9 |
 | Haute Couture | 14.00% | ~9 |
-| Brilliant Executioner | 10.00% | ~6 |
-| Into the Lion's Den | 10.00% | ~6 |
+| Brilliant Executioner | 9.00% | ~6 |
+| Into the Lion's Den | 9.00% | ~6 |
 | Bold and Bossy | 8.00% | ~5 |
 | Sky High Fighter | 8.00% | ~5 |
 | The Gang prevails | 6.00% | ~4 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 490)  
+Progressed: 64 (Ranked 487)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 59 | 0 |
 | 2023-12-07 | 60 | 0 |
 | 2023-12-08 | 62 | 0 |
-| 2023-12-09 | 63 | 0 |
+| 2023-12-09 | 64 | 0 |

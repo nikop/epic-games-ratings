@@ -3,12 +3,12 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 258,
-  "Ranking_Popularity": 481,
+  "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -803,7 +803,7 @@
   ],
   "EOS_Progressed": 6077,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7462,8 +7462,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-12-09T14:01:36.7918105+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:05:54.00464+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:06:06.8731324+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.4962244+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:00:05.7567636+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:05:54.0046896+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:00:07.3702253+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:06:06.8732122+00:00"
 }

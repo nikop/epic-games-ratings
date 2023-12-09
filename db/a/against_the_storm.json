@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 3694,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3383,9 +3383,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17764,
+  "EOS_Progressed": 17771,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15123,6 +15123,11 @@
       "Time": "2023-12-09T15:04:33.3458302+00:00",
       "NumProgressed": 17764,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-09T16:04:45.3778964+00:00",
+      "NumProgressed": 17771,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15229,9 +15234,9 @@
       "ID": "WinHard",
       "SetID": "cfbk359",
       "Name": "Overcoming Difficulty",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 124
     },
     {
       "ID": "WinImpossible",
@@ -15501,9 +15506,9 @@
       "ID": "WinWithTradeRoutes",
       "SetID": "cfbk359",
       "Name": "Trade Baron",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     },
     {
       "ID": "WinWithoutDeath",
@@ -15606,15 +15611,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17764,
+      "Progressed": 17771,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-09T14:57:03.5888022+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:04:33.34583+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:04:45.377896+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:57:03.5888029+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:04:33.3459117+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:57:04.2150447+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:04:45.3779806+00:00"
 }

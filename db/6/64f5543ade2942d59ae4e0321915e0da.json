@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -584,9 +584,9 @@
       "ID": "AC_FLASHBACK_03",
       "SetID": "16i2akc",
       "Name": "Schooling",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "AC_FULL_MAP",
@@ -687,8 +687,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:06:42.0715634+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:08:15.0391986+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.4442779+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:58:13.0131281+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:06:42.0715915+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:58:14.7903207+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:08:15.0392252+00:00"
 }

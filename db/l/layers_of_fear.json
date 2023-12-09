@@ -2,10 +2,10 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 435,
+  "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -663,9 +663,9 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "do_what_you_have_to",
@@ -982,8 +982,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:05:37.5205299+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:05:50.0545923+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.0795294+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:00:15.9850654+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:05:37.5205585+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:00:17.8790098+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:05:50.0546231+00:00"
 }

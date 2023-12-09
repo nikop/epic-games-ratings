@@ -12,19 +12,19 @@
 | Your Days Are Numbered | 44.00% | ~11 |
 | All Materials | 44.00% | ~11 |
 | It's In My Nature | 44.00% | ~11 |
-| Chapter 5 | 36.00% | ~9 |
+| Chapter 5 | 40.00% | ~10 |
 | Chapter 6 | 28.00% | ~7 |
 | Ads Fan | 16.00% | ~4 |
+| Best Student | 16.00% | ~4 |
 | Food Thief | 16.00% | ~4 |
-| Best Student | 12.00% | ~3 |
 | Highway Survival | 12.00% | ~3 |
+| Paw Music | 12.00% | ~3 |
 | Sugar Pills Lover | 12.00% | ~3 |
 | Tramp Saver | 12.00% | ~3 |
 | Hard To Wake Up | 12.00% | ~3 |
 | Bear Cop | 8.00% | ~2 |
 | Chipmunk | 8.00% | ~2 |
 | Secret Locker | 8.00% | ~2 |
-| Paw Music | 8.00% | ~2 |
 | Master of Mattresses | 0.00% | ~0 |
 | Main Endings | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |

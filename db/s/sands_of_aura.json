@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -530,9 +530,9 @@
       "ID": "ALAIRA_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Rain Must Fall",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ALAIRA_MASTER",
@@ -1003,8 +1003,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:03:08.1281388+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:03:18.9722027+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:35.5527257+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:58:12.7684962+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:03:08.1281836+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:58:14.6176736+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:03:18.9722398+00:00"
 }

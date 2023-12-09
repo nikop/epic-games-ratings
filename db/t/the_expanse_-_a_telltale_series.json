@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 533,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 146,
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16003,
+  "EOS_Progressed": 16005,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13419,6 +13419,11 @@
       "Time": "2023-12-09T14:04:57.3156615+00:00",
       "NumProgressed": 16003,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-09T16:04:15.4330236+00:00",
+      "NumProgressed": 16005,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13463,7 +13468,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "14",
@@ -13703,20 +13708,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16003,
+      "Progressed": 16005,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1957,
+      "Progressed": 1959,
       "Completed": 846
     }
   ],
@@ -13724,8 +13729,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-07T17:57:36.8969362+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:04:03.794876+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:04:15.4330167+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:58:29.0659453+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:04:03.7949635+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:58:30.8210557+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:04:15.4330968+00:00"
 }

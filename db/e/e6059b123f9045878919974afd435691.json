@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -2885,9 +2885,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 571
+      "UsersEstimate": 582
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3245,9 +3245,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 313
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -3261,9 +3261,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 517
+      "UsersEstimate": 528
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3348,8 +3348,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:09:09.8981741+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:09:31.9696424+00:00",
   "LastUpdate_AppInfo": "2023-12-08T02:20:37.1231344+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:58:13.0147191+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:09:09.8982242+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:58:14.885543+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:09:31.969724+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 550,
+  "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -164,6 +164,11 @@
       "Time": "2023-12-08T14:04:58.2053451+00:00",
       "NumProgressed": 27,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T16:05:21.5927283+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -174,7 +179,7 @@
       "ID": "ach1",
       "SetID": "796kfpa",
       "Name": "Good Morning",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 145,
       "UsersEstimate": 5
     },
@@ -182,15 +187,15 @@
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 145,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach3",
       "SetID": "796kfpa",
       "Name": "Blue Bean",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 145,
       "UsersEstimate": 4
     },
@@ -198,7 +203,7 @@
       "ID": "ach4",
       "SetID": "796kfpa",
       "Name": "Three Caps",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 140,
       "UsersEstimate": 4
     },
@@ -222,7 +227,7 @@
       "ID": "ach7",
       "SetID": "796kfpa",
       "Name": "Snail Racing Champion",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 145,
       "UsersEstimate": 7
     }
@@ -231,14 +236,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:05:09.0574951+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:05:21.592728+00:00",
   "LastUpdate_AppInfo": "2023-12-06T17:57:25.1764365+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:57:12.4571301+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:05:09.0575001+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:57:13.1335175+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:05:21.5927342+00:00"
 }

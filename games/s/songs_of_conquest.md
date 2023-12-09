@@ -29,6 +29,7 @@ Number of Ratings: 292  (23.09.2022)
 | Pyrrhic Victory | 2.00% | ~8 |
 | This Spot's Taken | 1.00% | ~4 |
 | Infernal Influence | 1.00% | ~4 |
+| Grand Master | 1.00% | ~4 |
 | Together For Her | 0.80% | ~3 |
 | Ultra Kill | 0.80% | ~3 |
 | Death To Diplomacy | 0.50% | ~2 |
@@ -39,7 +40,6 @@ Number of Ratings: 292  (23.09.2022)
 | From the Ashes | 0.50% | ~2 |
 | The Marsh Expands | 0.50% | ~2 |
 | Cleave | 0.50% | ~2 |
-| Grand Master | 0.50% | ~2 |
 | Hello There | 0.30% | ~1 |
 | Fully Charged | 0.30% | ~1 |
 | An Empress's Hope | 0.30% | ~1 |
@@ -92,9 +92,9 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 386 | 0 |
 | 2023-12-09 | 396 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 27  (Ranked 515)  
+Max (Quickly Understood Controls): 27  (Ranked 514)  
 Sum: 194 (Ranked 407)  
-Diff (max vs sum): 108  
+Diff (max vs sum): 107  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

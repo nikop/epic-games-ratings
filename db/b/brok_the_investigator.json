@@ -4,8 +4,8 @@
   "ProductSlug": "brok-the-investigator-fb0513",
   "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
     "PcReleaseDate": "2022-08-26T19:00:00+00:00",
@@ -169,9 +169,9 @@
       "ID": "BESTSTUDENT",
       "SetID": "bb2dp",
       "Name": "Best Student",
-      "Percentage": 12,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CHAPTER1",
@@ -209,9 +209,9 @@
       "ID": "CHAPTER5",
       "SetID": "bb2dp",
       "Name": "Chapter 5",
-      "Percentage": 36,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CHAPTER6",
@@ -297,9 +297,9 @@
       "ID": "PIANOMUSIC",
       "SetID": "bb2dp",
       "Name": "Paw Music",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PILLSLOVER",
@@ -386,8 +386,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-12-09T15:05:29.6960258+00:00",
+  "LastChanged_Achievements": "2023-12-09T16:05:42.3585765+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:40.38289+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:00:00.7135876+00:00",
-  "LastUpdate_Achievements": "2023-12-09T15:05:29.6960417+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:00:01.8583653+00:00",
+  "LastUpdate_Achievements": "2023-12-09T16:05:42.3585932+00:00"
 }

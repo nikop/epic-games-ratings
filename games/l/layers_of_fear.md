@@ -11,8 +11,8 @@
 | It's covered up for a reason | 45.00% | ~49 |
 | The artist’s impression | 45.00% | ~49 |
 | Scraps of love | 44.00% | ~48 |
+| Refuse to look | 39.00% | ~42 |
 | Sign of weakness | 39.00% | ~42 |
-| Refuse to look | 38.00% | ~41 |
 | Finished it | 33.00% | ~36 |
 | Face your fears | 29.00% | ~31 |
 | Whispers long forgotten | 18.00% | ~19 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 435)  
+Progressed: 108 (Ranked 436)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
