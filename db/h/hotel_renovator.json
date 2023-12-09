@@ -2,12 +2,12 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 768,
+  "Ranking_Rating": 767,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1155,
+  "EOS_Progressed": 1156,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.56,
   "EosHistory": [
@@ -2395,6 +2395,11 @@
       "Time": "2023-12-06T22:05:01.3838047+00:00",
       "NumProgressed": 1155,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-09T09:05:31.9177733+00:00",
+      "NumProgressed": 1156,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -2438,7 +2443,7 @@
       "Name": "Kaboom",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -2454,7 +2459,7 @@
       "Name": "Love is in the air",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -2502,7 +2507,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -2510,7 +2515,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -2542,7 +2547,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -2558,7 +2563,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH_STAR_2",
@@ -2614,14 +2619,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1155,
+      "Progressed": 1156,
       "Completed": 18
     }
   ],
@@ -2629,8 +2634,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-04T06:59:58.8594185+00:00",
-  "LastChanged_Achievements": "2023-12-09T08:07:27.1017118+00:00",
+  "LastChanged_Achievements": "2023-12-09T09:05:31.9177731+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:17.676722+00:00",
-  "LastUpdate_Ratings": "2023-12-09T08:00:09.0989318+00:00",
-  "LastUpdate_Achievements": "2023-12-09T08:07:27.1017389+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:58:52.7764936+00:00",
+  "LastUpdate_Achievements": "2023-12-09T09:05:31.9177918+00:00"
 }

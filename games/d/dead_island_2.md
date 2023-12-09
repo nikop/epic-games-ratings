@@ -6,8 +6,8 @@ Rating: 4.54 (Ranked 534)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 3.00% | ~21,964 |
-| Whatever It Takes | 3.00% | ~1,730 |
-| Pork Chopped | 3.00% | ~1,730 |
+| Whatever It Takes | 3.00% | ~1,731 |
+| Pork Chopped | 3.00% | ~1,731 |
 | Dr. Reed, I Presume? | 2.00% | ~14,643 |
 | Git Gutte! | 2.00% | ~14,643 |
 | Anger Management | 2.00% | ~14,643 |
@@ -22,7 +22,7 @@ Rating: 4.54 (Ranked 534)
 | Stacking the Deck | 2.00% | ~14,643 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,643 |
 | This is My Weapon | 2.00% | ~14,643 |
-| One of Us | 2.00% | ~1,153 |
+| One of Us | 2.00% | ~1,154 |
 | Making Your Mark | 1.00% | ~7,321 |
 | Perks of the Job | 1.00% | ~7,321 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,321 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 534)
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,127 (Ranked 21)  
+Progressed: 732,146 (Ranked 21)  
 Completed: 2,467 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 2,467 (0.34%) (Ranked 234)
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
-| 2023-12-09 | 732,127 | 2,467 |
+| 2023-12-09 | 732,146 | 2,467 |
 ## Awards
 Max (Great Boss Battles): 8,017  (Ranked 49)  
 Sum: 12,328 (Ranked 82)  

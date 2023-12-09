@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -655,9 +655,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471977,
+  "EOS_Progressed": 471978,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24780,6 +24780,11 @@
       "Time": "2023-12-09T08:10:39.6731924+00:00",
       "NumProgressed": 471977,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-09T09:09:18.4459472+00:00",
+      "NumProgressed": 471978,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24807,7 +24812,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113274
+      "UsersEstimate": 113275
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -24943,7 +24948,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51917
+      "UsersEstimate": 51918
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -24967,7 +24972,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94395
+      "UsersEstimate": 94396
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -24975,7 +24980,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160472
+      "UsersEstimate": 160473
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -25422,21 +25427,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15911,
+      "Progressed": 15912,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471977,
+      "Progressed": 471978,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-06T08:57:12.0332693+00:00",
-  "LastChanged_Achievements": "2023-12-09T08:10:39.6731921+00:00",
+  "LastChanged_Achievements": "2023-12-09T09:09:18.445947+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.9078654+00:00",
-  "LastUpdate_Ratings": "2023-12-09T07:59:43.1905905+00:00",
-  "LastUpdate_Achievements": "2023-12-09T08:10:39.6733717+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:58:35.1916855+00:00",
+  "LastUpdate_Achievements": "2023-12-09T09:09:18.4461298+00:00"
 }

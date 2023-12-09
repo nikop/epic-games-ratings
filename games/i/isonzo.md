@@ -6,8 +6,8 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 51.00% | ~4,739 |
-| You Shall Not Pass | 51.00% | ~4,739 |
+| Tutti Eroi! | 51.00% | ~4,740 |
+| You Shall Not Pass | 51.00% | ~4,740 |
 | Peak Performance | 46.00% | ~4,275 |
 | Avanti Savoia! | 44.00% | ~4,089 |
 | Mamma Mia! | 35.00% | ~3,253 |
@@ -33,8 +33,8 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 9.00% | ~836 |
 | I Have the High Ground | 9.00% | ~836 |
 | Millenial | 9.00% | ~836 |
-| The Show Must Go On | 8.00% | ~743 |
-| Tosca | 8.00% | ~743 |
+| The Show Must Go On | 8.00% | ~744 |
+| Tosca | 8.00% | ~744 |
 | 12th Bottle of the Isonzo | 6.00% | ~558 |
 | The Enlightment | 6.00% | ~558 |
 | Cercatore d'Oro | 5.00% | ~465 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~37 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,293 (Ranked 170)  
+Progressed: 9,294 (Ranked 170)  
 Completed: 10 (0.11%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 10 (0.11%) (Ranked 285)
 | 2023-12-06 | 9,253 | 10 |
 | 2023-12-07 | 9,268 | 10 |
 | 2023-12-08 | 9,288 | 10 |
-| 2023-12-09 | 9,293 | 10 |
+| 2023-12-09 | 9,294 | 10 |
 ## Awards
 Max (Diverse Characters): 39  (Ranked 464)  
 Sum: 325 (Ranked 362)  

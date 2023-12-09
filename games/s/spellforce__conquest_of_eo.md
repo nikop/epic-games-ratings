@@ -32,8 +32,8 @@
 | Break Free | 17.00% | ~7 |
 | Philo's Tale | 15.00% | ~6 |
 | Stormwatch Faste | 15.00% | ~6 |
+| Friend of Orgash | 15.00% | ~6 |
 | Defeat Gor | 12.00% | ~5 |
-| Friend of Orgash | 12.00% | ~5 |
 | Friend of Silver Drift Hollow | 12.00% | ~5 |
 | Magic Academy | 12.00% | ~5 |
 | A Joke | 12.00% | ~5 |

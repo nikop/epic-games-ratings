@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1639,9 +1639,9 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 268
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -1727,9 +1727,9 @@
       "ID": "ach_main12race_torture",
       "SetID": "4hg22ll",
       "Name": "My Little Torture Chamber",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 91
     },
     {
       "ID": "ach_main13tanos_completed",
@@ -1751,9 +1751,9 @@
       "ID": "ach_main13tanos_evilbosses",
       "SetID": "4hg22ll",
       "Name": "Bonus Evilness",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 113
     },
     {
       "ID": "ach_main14run_completed",
@@ -1934,8 +1934,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-09T08:09:31.5987706+00:00",
+  "LastChanged_Achievements": "2023-12-09T09:08:27.6283632+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-09T07:58:14.8574228+00:00",
-  "LastUpdate_Achievements": "2023-12-09T08:09:31.5988522+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:57:35.2264644+00:00",
+  "LastUpdate_Achievements": "2023-12-09T09:08:27.6284191+00:00"
 }

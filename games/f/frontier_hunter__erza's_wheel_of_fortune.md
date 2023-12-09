@@ -34,8 +34,8 @@
 | Face Slapper | 13.00% | ~75 |
 | Boss challenge | 10.00% | ~58 |
 | Berserker Slayer | 9.00% | ~52 |
+| Master Cook | 8.00% | ~46 |
 | Giantess Slayer | 8.00% | ~46 |
-| Master Cook | 7.00% | ~40 |
 | Warden Slayer | 7.00% | ~40 |
 | Rebellious | 2.00% | ~12 |
 | Blade Mantis Challenge | 2.00% | ~12 |

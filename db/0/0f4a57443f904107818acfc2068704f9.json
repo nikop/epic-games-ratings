@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -1993,9 +1993,9 @@
       "ID": "CompleteChapter14",
       "SetID": "52ail55",
       "Name": "For Harkanibus!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 77
     },
     {
       "ID": "CompleteChapter15",
@@ -2200,8 +2200,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-09T08:05:03.8485274+00:00",
+  "LastChanged_Achievements": "2023-12-09T09:03:45.1122898+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:56:58.482812+00:00",
-  "LastUpdate_Ratings": "2023-12-09T07:59:26.3944534+00:00",
-  "LastUpdate_Achievements": "2023-12-09T08:05:03.8485634+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:58:23.9331046+00:00",
+  "LastUpdate_Achievements": "2023-12-09T09:03:45.1123208+00:00"
 }

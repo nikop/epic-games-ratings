@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1820,7 +1820,7 @@
   ],
   "EOS_Progressed": 500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6203,9 +6203,9 @@
       "ID": "S_LOVE",
       "SetID": "80dcan0",
       "Name": "First Love",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 380
     },
     {
       "ID": "S_MARRY",
@@ -6331,8 +6331,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-08T15:00:12.2220877+00:00",
-  "LastChanged_Achievements": "2023-12-09T08:07:20.3360915+00:00",
+  "LastChanged_Achievements": "2023-12-09T09:05:26.7578108+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:11.8739142+00:00",
-  "LastUpdate_Ratings": "2023-12-09T07:57:34.6660861+00:00",
-  "LastUpdate_Achievements": "2023-12-09T08:07:20.336147+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:57:08.3183146+00:00",
+  "LastUpdate_Achievements": "2023-12-09T09:05:26.7578603+00:00"
 }

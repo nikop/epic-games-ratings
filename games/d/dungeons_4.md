@@ -24,7 +24,7 @@
 | The Big Eaty | 53.00% | ~285 |
 | Hard Work | 52.00% | ~279 |
 | YOU SHALL NOT PASS! | 50.00% | ~268 |
-| “… like son” | 49.00% | ~263 |
+| “… like son” | 50.00% | ~268 |
 | Pure Dynamite! | 46.00% | ~247 |
 | The Cathedral of Light | 46.00% | ~247 |
 | Shame! Shame! Shame! | 46.00% | ~247 |
@@ -44,15 +44,15 @@
 | Stop Tanos! | 24.00% | ~129 |
 | Doom Hill | 24.00% | ~129 |
 | Brimstone Shaken, Not Stirred | 23.00% | ~124 |
+| Bonus Evilness | 21.00% | ~113 |
 | Sabotage! | 21.00% | ~113 |
-| Bonus Evilness | 20.00% | ~107 |
 | Raiders of the Lost Stone | 20.00% | ~107 |
 | The Rune Sockets of Finitude (Part 1) | 20.00% | ~107 |
 | The Rune Sockets of Finitude (Part 2) | 18.00% | ~97 |
+| My Little Torture Chamber | 17.00% | ~91 |
 | Rubble and Ashes | 17.00% | ~91 |
 | The Last Stand - This Time For Real! | 17.00% | ~91 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~86 |
-| My Little Torture Chamber | 16.00% | ~86 |
 | Lavalumps on Ice! | 16.00% | ~86 |
 | To Infinity And Beyond! | 15.00% | ~81 |
 | To the Max! | 14.00% | ~75 |

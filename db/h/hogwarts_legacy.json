@@ -11721,9 +11721,9 @@
       "Count": 842
     }
   ],
-  "EOS_Progressed": 304117,
+  "EOS_Progressed": 304120,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36696,6 +36696,11 @@
       "Time": "2023-12-09T08:05:00.0359941+00:00",
       "NumProgressed": 304117,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-09T09:03:42.4940526+00:00",
+      "NumProgressed": 304120,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36755,7 +36760,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24329
+      "UsersEstimate": 24330
     },
     {
       "ID": "PFA_16",
@@ -36771,7 +36776,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24329
+      "UsersEstimate": 24330
     },
     {
       "ID": "PFA_18",
@@ -36787,7 +36792,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24329
+      "UsersEstimate": 24330
     },
     {
       "ID": "PFA_2",
@@ -36827,7 +36832,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39535
+      "UsersEstimate": 39536
     },
     {
       "ID": "PFA_24",
@@ -37043,7 +37048,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42576
+      "UsersEstimate": 42577
     },
     {
       "ID": "PFA_8",
@@ -37051,7 +37056,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39535
+      "UsersEstimate": 39536
     },
     {
       "ID": "PFA_9",
@@ -37066,7 +37071,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304117,
+      "Progressed": 304120,
       "Completed": 525
     }
   ],
@@ -37074,8 +37079,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-09T04:58:14.5405695+00:00",
-  "LastChanged_Achievements": "2023-12-09T08:05:00.0359938+00:00",
+  "LastChanged_Achievements": "2023-12-09T09:03:42.4940523+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-09T07:58:52.1176283+00:00",
-  "LastUpdate_Achievements": "2023-12-09T08:05:00.0361467+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:58:00.352153+00:00",
+  "LastUpdate_Achievements": "2023-12-09T09:03:42.4941958+00:00"
 }

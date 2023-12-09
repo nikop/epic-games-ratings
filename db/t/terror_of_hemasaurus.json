@@ -2,10 +2,10 @@
   "ID": "7304eee6de244842b8158bfa95542b7a",
   "Name": "Terror of Hemasaurus",
   "ProductSlug": "terror-of-hemasaurus-a08800",
-  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -548,8 +548,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-12-09T08:07:43.4522165+00:00",
+  "LastChanged_Achievements": "2023-12-09T09:05:43.7693752+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:09.4680517+00:00",
-  "LastUpdate_Ratings": "2023-12-09T07:57:17.2888407+00:00",
-  "LastUpdate_Achievements": "2023-12-09T08:07:43.452236+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:56:56.670176+00:00",
+  "LastUpdate_Achievements": "2023-12-09T09:05:43.7693926+00:00"
 }

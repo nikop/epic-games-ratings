@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 576,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1986,9 +1986,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "7pimpda",
       "Name": "Master Cook",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -2235,8 +2235,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-09T08:08:51.1129544+00:00",
+  "LastChanged_Achievements": "2023-12-09T09:08:12.8638404+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-09T07:59:29.0722456+00:00",
-  "LastUpdate_Achievements": "2023-12-09T08:08:51.1130083+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:58:25.7036734+00:00",
+  "LastUpdate_Achievements": "2023-12-09T09:08:12.8638715+00:00"
 }

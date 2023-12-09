@@ -2,13 +2,13 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
-  "Ranking_Rating": 439,
+  "Ranking_Rating": 440,
   "Ranking_Popularity": 235,
   "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2016-03-08T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2645,10 +2645,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1092,
       "NumberOfAwardsMax": 395
+    },
+    {
+      "Time": "2023-12-09T08:59:21.171137+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1093,
+      "NumberOfAwardsMax": 395
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1092,
+  "NumberOfAwards": 1093,
   "NumberOfAwardsMax": 395,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2710,7 +2716,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2748,8 +2754,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-12-09T05:59:27.5800705+00:00",
+  "LastChanged": "2023-12-09T08:59:21.1711369+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.2392533+00:00",
-  "LastUpdate_Ratings": "2023-12-09T08:00:50.1331313+00:00",
-  "LastUpdate_Achievements": "2023-12-09T08:07:21.4623045+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:59:21.1711373+00:00",
+  "LastUpdate_Achievements": "2023-12-09T09:05:27.4677284+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1810,9 +1810,9 @@
       "ID": "police_promotion_1",
       "SetID": "69co12a",
       "Name": "No blades in the gym",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 162
     },
     {
       "ID": "police_promotion_2",
@@ -1969,8 +1969,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-09T08:09:02.8288529+00:00",
+  "LastChanged_Achievements": "2023-12-09T09:08:21.2565743+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:21.663822+00:00",
-  "LastUpdate_Ratings": "2023-12-09T07:59:23.1922994+00:00",
-  "LastUpdate_Achievements": "2023-12-09T08:09:02.8289168+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:58:21.7878002+00:00",
+  "LastUpdate_Achievements": "2023-12-09T09:08:21.2566198+00:00"
 }

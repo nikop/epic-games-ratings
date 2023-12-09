@@ -1,21 +1,21 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.38 (Ranked 768)  
+Rating: 4.38 (Ranked 767)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~878 |
-| And so it begins | 73.00% | ~843 |
-| No pressure | 70.00% | ~808 |
+| Good start | 76.00% | ~879 |
+| And so it begins | 73.00% | ~844 |
+| No pressure | 70.00% | ~809 |
 | Memento | 61.00% | ~705 |
-| Let there be light | 60.00% | ~693 |
-| I think you dropped this | 55.00% | ~635 |
+| Let there be light | 60.00% | ~694 |
+| I think you dropped this | 55.00% | ~636 |
 | Soulmate? | 54.00% | ~624 |
 | Excellent service | 50.00% | ~578 |
 | Roll with it | 47.00% | ~543 |
 | Humble beginnings | 45.00% | ~520 |
-| Love is in the air | 44.00% | ~508 |
+| Love is in the air | 44.00% | ~509 |
 | Fine, I'll do it myself | 43.00% | ~497 |
 | Moving up | 43.00% | ~497 |
 | No need to call anyone | 41.00% | ~474 |
@@ -23,7 +23,7 @@ Rating: 4.38 (Ranked 768)
 | Still more work ahead | 31.00% | ~358 |
 | Aesop's fable | 29.00% | ~335 |
 | Hotel sleuthing | 29.00% | ~335 |
-| Kaboom | 28.00% | ~323 |
+| Kaboom | 28.00% | ~324 |
 | Nearly there | 27.00% | ~312 |
 | Broken heart | 24.00% | ~277 |
 | Island boy | 23.00% | ~266 |
@@ -33,7 +33,7 @@ Rating: 4.38 (Ranked 768)
 | King of hospitality | 12.00% | ~139 |
 | Top spot in town | 3.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,155 (Ranked 257)  
+Progressed: 1,156 (Ranked 257)  
 Completed: 18 (1.56%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,6 +214,7 @@ Completed: 18 (1.56%) (Ranked 141)
 | 2023-12-03 | 1,153 | 17 |
 | 2023-12-04 | 1,155 | 17 |
 | 2023-12-06 | 1,155 | 18 |
+| 2023-12-09 | 1,156 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

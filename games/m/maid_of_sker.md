@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Choking Hazard | 45.00% | ~100 |
+| Choking Hazard | 44.00% | ~98 |
 | Animal Lover | 35.00% | ~78 |
 | Don't Breathe | 32.00% | ~71 |
-| Smooth Operator | 18.00% | ~40 |
+| Smooth Operator | 17.00% | ~38 |
 | Easy Listening | 16.00% | ~36 |
 | Rapturous Applause! | 16.00% | ~36 |
 | Perfect Harmony! | 13.00% | ~29 |
@@ -20,9 +20,9 @@
 | The Long Night | 1.00% | ~2 |
 | Luddite | 0.90% | ~2 |
 | Maids of Sker | 0.90% | ~2 |
-| Axe of Kindness | 0.50% | ~1 |
-| In Darkness | 0.50% | ~1 |
-| Scholar | 0.50% | ~1 |
+| Axe of Kindness | 0.40% | ~1 |
+| In Darkness | 0.40% | ~1 |
+| Scholar | 0.40% | ~1 |
 | Axeman | 0.00% | ~0 |
 | Dodgy Geezer | 0.00% | ~0 |
 | Hard Times | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222 (Ranked 387)  
+Progressed: 223 (Ranked 386)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,6 +109,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-02 | 220 | 0 |
 | 2023-12-03 | 221 | 0 |
 | 2023-12-05 | 222 | 0 |
+| 2023-12-09 | 223 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

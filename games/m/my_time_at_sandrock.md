@@ -20,7 +20,7 @@ Number of Ratings: 892  (23.09.2022)
 | I Do! | 79.00% | ~395 |
 | Pack Mule | 78.00% | ~390 |
 | Can We Keep It? | 78.00% | ~390 |
-| First Love | 75.00% | ~375 |
+| First Love | 76.00% | ~380 |
 | Unboxing | 73.00% | ~365 |
 | Big Game Hunter | 69.00% | ~345 |
 | Chatterbox | 69.00% | ~345 |

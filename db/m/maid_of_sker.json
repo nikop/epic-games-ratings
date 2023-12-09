@@ -2,10 +2,10 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 387,
+  "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 222,
+  "EOS_Progressed": 223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -495,6 +495,11 @@
       "Time": "2023-12-05T23:03:04.6319357+00:00",
       "NumProgressed": 222,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T09:04:24.9159033+00:00",
+      "NumProgressed": 223,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -512,7 +517,7 @@
       "ID": "axe_of_kindness",
       "SetID": "3j2phem",
       "Name": "Axe of Kindness",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -544,9 +549,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "dodgy_geezer",
@@ -616,7 +621,7 @@
       "ID": "in_darkness",
       "SetID": "3j2phem",
       "Name": "In Darkness",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -696,7 +701,7 @@
       "ID": "scholar",
       "SetID": "3j2phem",
       "Name": "Scholar",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -712,9 +717,9 @@
       "ID": "smooth_operator",
       "SetID": "3j2phem",
       "Name": "Smooth Operator",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "the_long_night",
@@ -745,7 +750,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 222,
+      "Progressed": 223,
       "Completed": 0
     }
   ],
@@ -753,8 +758,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-09T08:05:56.7234451+00:00",
+  "LastChanged_Achievements": "2023-12-09T09:04:24.9159031+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:59.5232654+00:00",
-  "LastUpdate_Ratings": "2023-12-09T08:01:27.118006+00:00",
-  "LastUpdate_Achievements": "2023-12-09T08:05:56.7234651+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:59:46.0007892+00:00",
+  "LastUpdate_Achievements": "2023-12-09T09:04:24.9159209+00:00"
 }

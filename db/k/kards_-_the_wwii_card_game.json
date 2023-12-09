@@ -2,13 +2,13 @@
   "ID": "d34cf6aeceb94c579af0236fe1185b79",
   "Name": "KARDS - The WWII Card Game",
   "ProductSlug": "kards-the-world-war-ii-card-game",
-  "Ranking_Rating": 753,
+  "Ranking_Rating": 767,
   "Ranking_Popularity": 195,
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2020-04-15T11:18:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.39,
+  "Rating": 4.38,
   "NumberOfRatings": 1466,
   "RatingHistory": [
     {
@@ -2859,10 +2859,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 3882,
       "NumberOfAwardsMax": 606
+    },
+    {
+      "Time": "2023-12-09T08:59:31.726672+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3884,
+      "NumberOfAwardsMax": 606
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3882,
+  "NumberOfAwards": 3884,
   "NumberOfAwardsMax": 606,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2870,7 +2876,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 512
+      "Count": 513
     },
     {
       "Text": "This game is Relaxing",
@@ -2912,7 +2918,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 407
+      "Count": 408
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2938,8 +2944,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2023-12-08T02:22:48.1469513+00:00",
+  "LastChanged": "2023-12-09T08:59:31.7266719+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.0801375+00:00",
-  "LastUpdate_Ratings": "2023-12-09T08:01:06.2743051+00:00",
-  "LastUpdate_Achievements": "2023-12-09T08:10:13.0102058+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:59:31.7266723+00:00",
+  "LastUpdate_Achievements": "2023-12-09T09:08:58.3612065+00:00"
 }
