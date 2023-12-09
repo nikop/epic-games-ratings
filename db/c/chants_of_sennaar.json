@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 923,
-  "EOS_Completed": 53,
-  "EOS_NewPlayers": 80,
+  "EOS_Progressed": 925,
+  "EOS_Completed": 54,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.74,
+  "EOS_Completed_Percentage": 5.84,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3715,6 +3715,11 @@
       "Time": "2023-12-09T14:07:00.7002438+00:00",
       "NumProgressed": 923,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-09T17:05:47.9573903+00:00",
+      "NumProgressed": 925,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 25,
@@ -3734,7 +3739,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "META_ALL_LINK",
@@ -3758,7 +3763,7 @@
       "Name": "A good beginning",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "META_HALF_LINK",
@@ -3780,9 +3785,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 130
     },
     {
       "ID": "META_RESULT_1-4",
@@ -3830,7 +3835,7 @@
       "Name": "Rascal",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -3838,7 +3843,7 @@
       "Name": "True G3M4R",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3862,7 +3867,7 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3870,15 +3875,15 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 213
     },
     {
       "ID": "PROGRESS_N1",
@@ -3894,7 +3899,7 @@
       "Name": "The great escape",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "PROGRESS_N3",
@@ -3910,7 +3915,7 @@
       "Name": "The darkness",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "PROGRESS_N5",
@@ -3925,14 +3930,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 923,
-      "Completed": 53
+      "Progressed": 925,
+      "Completed": 54
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:05:45.406606+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:05:47.9573899+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:59:42.7374404+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:05:45.4066384+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:59:54.7910118+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:05:47.9574174+00:00"
 }

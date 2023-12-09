@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4589,9 +4589,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77825,
+  "EOS_Progressed": 77827,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25479,6 +25479,11 @@
       "Time": "2023-12-09T16:05:12.5895092+00:00",
       "NumProgressed": 77825,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-09T17:05:16.003683+00:00",
+      "NumProgressed": 77827,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25562,7 +25567,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "ALL_VILLAIN",
@@ -25586,7 +25591,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13230
+      "UsersEstimate": 13231
     },
     {
       "ID": "CLAYFACE_1",
@@ -25594,7 +25599,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16343
+      "UsersEstimate": 16344
     },
     {
       "ID": "CLAYFACE_2",
@@ -25602,7 +25607,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 14008
+      "UsersEstimate": 14009
     },
     {
       "ID": "CLAYFACE_3",
@@ -25650,7 +25655,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 10117
+      "UsersEstimate": 10118
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -25698,7 +25703,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10117
+      "UsersEstimate": 10118
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -25706,7 +25711,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7782
+      "UsersEstimate": 7783
     },
     {
       "ID": "FREEZE_1",
@@ -25714,7 +25719,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21791
+      "UsersEstimate": 21792
     },
     {
       "ID": "FREEZE_1_5",
@@ -25802,7 +25807,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19456
+      "UsersEstimate": 19457
     },
     {
       "ID": "HARLEY_3",
@@ -25834,7 +25839,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38912
+      "UsersEstimate": 38914
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25842,7 +25847,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -25882,7 +25887,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25682
+      "UsersEstimate": 25683
     },
     {
       "ID": "MYSTERY_02",
@@ -25914,7 +25919,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 14008
+      "UsersEstimate": 14009
     },
     {
       "ID": "MYSTERY_06",
@@ -25977,13 +25982,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77825,
+      "Progressed": 77827,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48105,
+      "Progressed": 48107,
       "Completed": 2675
     }
   ],
@@ -25991,8 +25996,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-09T14:01:48.1680348+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:05:12.5895088+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:05:16.0036825+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-09T16:00:15.2601337+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:05:12.5896446+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:00:27.2699466+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:05:16.0038156+00:00"
 }

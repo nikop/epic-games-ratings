@@ -4,8 +4,8 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -251,9 +251,9 @@
       "ID": "ACH_MISCHIEVOUS-BREAD",
       "SetID": "6lg1p1e",
       "Name": "Mischievous Bread",
-      "Percentage": 38,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_MYSTERY-SOLVED",
@@ -283,9 +283,9 @@
       "ID": "ACH_PARTNER",
       "SetID": "6lg1p1e",
       "Name": "Partner",
-      "Percentage": 69,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_PHOTOGRAPHIC-MEMORY",
@@ -394,8 +394,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:05:33.4230394+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:05:36.286147+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.6928375+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:57:11.199742+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:05:33.4230585+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:57:18.2039629+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:05:36.2861699+00:00"
 }

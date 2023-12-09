@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 53.00% | ~111 |
+| First Step | 54.00% | ~113 |
 | The 4 Pillars | 51.00% | ~107 |
 | Capitalism | 20.00% | ~42 |
+| Indebted | 11.00% | ~23 |
 | Great Producer | 11.00% | ~23 |
 | Green Energy | 11.00% | ~23 |
 | There's something in those trees | 10.00% | ~21 |
 | Desert Power | 10.00% | ~21 |
-| Indebted | 10.00% | ~21 |
 | Desert Rat | 9.00% | ~19 |
 | Health Care | 8.00% | ~17 |
 | Perfect Soldier | 7.00% | ~15 |

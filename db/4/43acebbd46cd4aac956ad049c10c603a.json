@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -218,7 +218,7 @@
   ],
   "EOS_Progressed": 906,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2241,9 +2241,9 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 27
     },
     {
       "ID": "AbInitio",
@@ -2345,9 +2345,9 @@
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 82
     },
     {
       "ID": "EcstaticTruth",
@@ -2409,9 +2409,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 136
     },
     {
       "ID": "JustOneLap",
@@ -2433,9 +2433,9 @@
       "ID": "LostMarshes",
       "SetID": "1n308hc",
       "Name": "Lost Marshes",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 63
     },
     {
       "ID": "MistressOfRiddles",
@@ -2657,9 +2657,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 118
     },
     {
       "ID": "TrevorsBiographer",
@@ -2697,17 +2697,17 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 72
     },
     {
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
@@ -2722,8 +2722,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:03:29.2702653+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:03:31.6225509+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:57:15.8130852+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:03:29.2703256+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:57:22.674033+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:03:31.6226079+00:00"
 }

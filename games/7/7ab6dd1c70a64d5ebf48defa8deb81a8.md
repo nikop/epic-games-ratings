@@ -14,9 +14,9 @@
 | Scholar | 11.00% | ~28 |
 | I Found It | 11.00% | ~28 |
 | The Collector | 11.00% | ~28 |
-| Tributes of Caladrias | 10.00% | ~25 |
-| Shatter Them All | 10.00% | ~25 |
-| Stone Collection | 10.00% | ~25 |
+| Tributes of Caladrias | 10.00% | ~26 |
+| Shatter Them All | 10.00% | ~26 |
+| Stone Collection | 10.00% | ~26 |
 | Big Bazar | 9.00% | ~23 |
 | Fashion Victim | 9.00% | ~23 |
 | Calm before the Storm | 7.00% | ~18 |
@@ -41,8 +41,8 @@
 | Shardbearer | 0.80% | ~2 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254 (Ranked 373)  
-Completed: 2 (0.79%) (Ranked 184)  
+Progressed: 255 (Ranked 373)  
+Completed: 2 (0.78%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,4 +99,4 @@ Completed: 2 (0.79%) (Ranked 184)
 | 2023-12-06 | 248 | 2 |
 | 2023-12-07 | 250 | 2 |
 | 2023-12-08 | 252 | 2 |
-| 2023-12-09 | 254 | 2 |
+| 2023-12-09 | 255 | 2 |

@@ -12,8 +12,8 @@ Rating: 4.16 (Ranked 951)
 | Float Like a Butterfly... | 8.00% | ~5,465 |
 | Nano Connoisseur | 6.00% | ~4,099 |
 | In Two Places At Once | 6.00% | ~4,099 |
-| Pulling Your Weight | 3.00% | ~2,049 |
-| Reaping Rivals | 3.00% | ~2,049 |
+| Pulling Your Weight | 3.00% | ~2,050 |
+| Reaping Rivals | 3.00% | ~2,050 |
 | fifteenth Time's the Charm | 1.00% | ~683 |
 | More Power to You | 1.00% | ~683 |
 | Memory Keeper | 0.40% | ~273 |
@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 951)
 | Gone Rogue | 0.30% | ~205 |
 | Runs for Your Money | 0.30% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,316 (Ranked 102)  
+Progressed: 68,318 (Ranked 102)  
 Completed: 39 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 39 (0.06%) (Ranked 313)
 | 2023-12-06 | 68,186 | 38 |
 | 2023-12-07 | 68,235 | 39 |
 | 2023-12-08 | 68,285 | 39 |
-| 2023-12-09 | 68,316 | 39 |
+| 2023-12-09 | 68,318 | 39 |
 ## Awards
 Max (Great for Beginners): 103  (Ranked 361)  
 Sum: 463 (Ranked 335)  

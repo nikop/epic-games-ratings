@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -385,9 +385,9 @@
       "ID": "RollOut",
       "SetID": "4bd750m",
       "Name": "Roll Out",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "RoomToSpare",
@@ -449,9 +449,9 @@
       "ID": "UpUpAndAway",
       "SetID": "4bd750m",
       "Name": "Up, Up And Away!",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Whoa",
@@ -480,8 +480,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:06:06.0698731+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:06:08.8709838+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:16.2831296+00:00",
-  "LastUpdate_Ratings": "2023-12-09T16:03:00.1334574+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:06:06.0698872+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:03:00.9618797+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:06:08.8710042+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 481,
+  "Ranking_Rating": 480,
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -991,9 +991,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9300,
+  "EOS_Progressed": 9301,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9061,6 +9061,11 @@
       "Time": "2023-12-09T16:08:03.3927908+00:00",
       "NumProgressed": 9300,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-09T17:08:34.7777992+00:00",
+      "NumProgressed": 9301,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9400,7 +9405,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4744
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -9424,14 +9429,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4744
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9300,
+      "Progressed": 9301,
       "Completed": 10
     }
   ],
@@ -9439,8 +9444,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-09T14:58:44.4952754+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:08:03.3927905+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:08:34.7777987+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:20.0438707+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:58:45.404235+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:08:03.3928435+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:58:56.1175828+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:08:34.7778975+00:00"
 }

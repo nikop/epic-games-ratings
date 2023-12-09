@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 438,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1087,6 +1087,11 @@
       "Time": "2023-12-09T09:04:33.4642505+00:00",
       "NumProgressed": 437,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T17:05:06.45493+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1115,7 +1120,7 @@
       "Name": "Ares Island Explorer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND3",
@@ -1139,7 +1144,7 @@
       "Name": "Hardened Hedgehog",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ENEMY_DEFEATED_ALL",
@@ -1147,7 +1152,7 @@
       "Name": "Easy Prey",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
@@ -1161,9 +1166,9 @@
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 140
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1193,17 +1198,17 @@
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 359
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1219,15 +1224,15 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Ticket to Tranquility",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1275,7 +1280,7 @@
       "Name": "Hope Across Ages",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -1291,7 +1296,7 @@
       "Name": "The Journey Begins",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1339,7 +1344,7 @@
       "Name": "Herculean Hedgehog",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "RING_LIMIT_REACH_NUM",
@@ -1347,7 +1352,7 @@
       "Name": "Hearty Hedgehog",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SKILL_ALL_OBTAINED",
@@ -1363,7 +1368,7 @@
       "Name": "Hypersonic Hedgehog",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SUB_CLEAR_ALL",
@@ -1379,7 +1384,7 @@
       "Name": "Kronos Island Expert",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SUB_CLEAR_ISLAND2",
@@ -1418,14 +1423,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 438,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:05:03.3761441+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:05:06.4549293+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-09T16:02:53.3254796+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:05:03.3761852+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:02:54.4642845+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:05:06.4549618+00:00"
 }

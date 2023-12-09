@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -489,9 +489,9 @@
       "ID": "ACH_EQUIP_ARTIFACT",
       "SetID": "5akmpni",
       "Name": "Treasure Hunter",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_EVO_MOMENT_37",
@@ -617,9 +617,9 @@
       "ID": "ACH_MONEY_TO_POOR",
       "SetID": "5akmpni",
       "Name": "The Altruist",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_NO_SIBLINGS",
@@ -736,8 +736,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:04:12.5449239+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:04:15.2007474+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:51.6227723+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:59:52.4034388+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:04:12.5449626+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:00:04.8324651+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:04:15.2007917+00:00"
 }

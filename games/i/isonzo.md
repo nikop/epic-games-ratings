@@ -1,13 +1,13 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.57 (Ranked 481)  
+Rating: 4.57 (Ranked 480)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 51.00% | ~4,743 |
-| You Shall Not Pass | 51.00% | ~4,743 |
+| Tutti Eroi! | 51.00% | ~4,744 |
+| You Shall Not Pass | 51.00% | ~4,744 |
 | Peak Performance | 46.00% | ~4,278 |
 | Avanti Savoia! | 44.00% | ~4,092 |
 | Mamma Mia! | 35.00% | ~3,255 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~37 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,300 (Ranked 170)  
+Progressed: 9,301 (Ranked 170)  
 Completed: 10 (0.11%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 10 (0.11%) (Ranked 285)
 | 2023-12-06 | 9,253 | 10 |
 | 2023-12-07 | 9,268 | 10 |
 | 2023-12-08 | 9,288 | 10 |
-| 2023-12-09 | 9,300 | 10 |
+| 2023-12-09 | 9,301 | 10 |
 ## Awards
 Max (Diverse Characters): 39  (Ranked 463)  
 Sum: 326 (Ranked 363)  

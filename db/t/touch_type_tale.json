@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3826,
+  "EOS_Progressed": 3827,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4757,6 +4757,11 @@
       "Time": "2023-12-08T10:03:27.1521143+00:00",
       "NumProgressed": 3826,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-09T17:03:50.0041876+00:00",
+      "NumProgressed": 3827,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4768,7 +4773,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "bonus2",
@@ -4904,7 +4909,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "campaign20",
@@ -4944,7 +4949,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "campaign7",
@@ -4968,7 +4973,7 @@
       "Name": "Boulder Clash",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "scenario1",
@@ -5031,7 +5036,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3826,
+      "Progressed": 3827,
       "Completed": 11
     }
   ],
@@ -5039,8 +5044,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:03:47.8686023+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:03:50.0041873+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:09.7350451+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:58:57.8633625+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:03:47.8686339+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:59:08.9995347+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:03:50.0042248+00:00"
 }

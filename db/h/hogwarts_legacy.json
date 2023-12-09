@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11739,9 +11739,9 @@
       "Count": 849
     }
   ],
-  "EOS_Progressed": 304132,
+  "EOS_Progressed": 304133,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36744,6 +36744,11 @@
       "Time": "2023-12-09T16:04:10.2556335+00:00",
       "NumProgressed": 304132,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-09T17:04:12.7585735+00:00",
+      "NumProgressed": 304133,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37091,7 +37096,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42578
+      "UsersEstimate": 42579
     },
     {
       "ID": "PFA_8",
@@ -37114,7 +37119,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304132,
+      "Progressed": 304133,
       "Completed": 525
     }
   ],
@@ -37122,8 +37127,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-09T15:58:17.9462086+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:04:10.2556332+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:04:12.7585729+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:58:17.9462092+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:04:10.2557477+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:58:28.0953588+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:04:12.758714+00:00"
 }

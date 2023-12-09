@@ -2,10 +2,10 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 706,
+  "EOS_Progressed": 707,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.27,
   "EosHistory": [
@@ -1735,6 +1735,11 @@
       "Time": "2023-12-09T06:09:09.4496559+00:00",
       "NumProgressed": 706,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-09T17:09:15.3873113+00:00",
+      "NumProgressed": 707,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1744,9 +1749,9 @@
       "ID": "CAUSE_AND_EFFECT",
       "SetID": "8eejhlh",
       "Name": "Cause and Effect",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 678
+      "UsersEstimate": 672
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1802,7 +1807,7 @@
       "Name": "The Bribe",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ENDING_7",
@@ -1818,7 +1823,7 @@
       "Name": "Even Tempered",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1834,7 +1839,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "GOOD_KARMA",
@@ -1905,7 +1910,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 706,
+      "Progressed": 707,
       "Completed": 9
     }
   ],
@@ -1913,8 +1918,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:08:43.826018+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:09:15.3873106+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:03.6032951+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:59:46.7699802+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:08:43.8260347+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:59:59.2694462+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:09:15.3873301+00:00"
 }

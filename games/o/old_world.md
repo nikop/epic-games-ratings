@@ -12,13 +12,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 6.00% | ~942 |
 | Able | 5.00% | ~785 |
 | Architect | 5.00% | ~785 |
+| Good | 5.00% | ~785 |
 | Intrepid | 5.00% | ~785 |
 | Strong | 5.00% | ~785 |
 | Hanging Gardens | 5.00% | ~785 |
 | Ambitious | 4.00% | ~628 |
 | Enlightened | 4.00% | ~628 |
 | Glorious | 4.00% | ~628 |
-| Good | 4.00% | ~628 |
 | Just | 4.00% | ~628 |
 | Keystone | 4.00% | ~628 |
 | Learned | 4.00% | ~628 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,695 (Ranked 152)  
+Progressed: 15,696 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,10 +582,10 @@ Completed: 5 (0.03%) (Ranked 333)
 | 2023-12-06 | 15,662 | 5 |
 | 2023-12-07 | 15,669 | 5 |
 | 2023-12-08 | 15,683 | 5 |
-| 2023-12-09 | 15,695 | 5 |
+| 2023-12-09 | 15,696 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 275)  
-Sum: 1,895 (Ranked 220)  
+Sum: 1,896 (Ranked 220)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -596,8 +596,8 @@ Diff (max vs sum): 55
 | This game is Educational | 212 |
 | This game has Challenging Combat | 206 |
 | This game has Amazing Characters | 198 |
+| This game has Quickly Understood Controls | 196 |
 | This game has Amazing Storytelling | 196 |
-| This game has Quickly Understood Controls | 195 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
 | This game has Competitive Players | 59 |
@@ -778,3 +778,4 @@ Diff (max vs sum): 55
 | 2023-12-06 | 4.65 | - | 228 | 1,892 |
 | 2023-12-07 | 4.65 | - | 228 | 1,894 |
 | 2023-12-08 | 4.65 | - | 228 | 1,895 |
+| 2023-12-09 | 4.65 | - | 228 | 1,896 |

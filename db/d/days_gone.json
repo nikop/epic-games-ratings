@@ -4,11 +4,11 @@
   "ProductSlug": "days-gone",
   "Ranking_Rating": 258,
   "Ranking_Popularity": 85,
-  "Ranking_PopularitySum": 119,
+  "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-05-18T04:00:00+00:00",
     "PcReleaseDate": "2021-05-18T04:00:00+00:00",
@@ -4244,6 +4244,6 @@
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
   "LastChanged": "2023-12-09T15:00:11.5838022+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:18.6670424+00:00",
-  "LastUpdate_Ratings": "2023-12-09T16:00:13.5334329+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:08:53.7826835+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:00:25.5331143+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:09:25.439784+00:00"
 }

@@ -32,26 +32,26 @@
 | Tanos' Crusade Against Thalya | 42.00% | ~226 |
 | Mana Cannon | 41.00% | ~220 |
 | All’s Well That Ends Evil | 36.00% | ~193 |
+| The Duel | 34.00% | ~183 |
 | Unstoppable Horde | 33.00% | ~177 |
 | Master of the Undead | 33.00% | ~177 |
-| The Duel | 33.00% | ~177 |
 | If Looks Could Kill | 29.00% | ~156 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~150 |
 | Ghost Pirates? Ghost Heroes! | 28.00% | ~150 |
 | Forbidden Knowledge | 27.00% | ~145 |
 | Hungry, Hungry Gorgu! | 26.00% | ~140 |
 | The Finitude Drill | 26.00% | ~140 |
+| Doom Hill | 25.00% | ~134 |
 | Stop Tanos! | 24.00% | ~129 |
-| Doom Hill | 24.00% | ~129 |
 | Brimstone Shaken, Not Stirred | 23.00% | ~124 |
 | Bonus Evilness | 21.00% | ~113 |
 | Sabotage! | 21.00% | ~113 |
 | Raiders of the Lost Stone | 21.00% | ~113 |
 | The Rune Sockets of Finitude (Part 1) | 21.00% | ~113 |
 | The Rune Sockets of Finitude (Part 2) | 19.00% | ~102 |
+| The Last Stand - This Time For Real! | 18.00% | ~97 |
 | My Little Torture Chamber | 17.00% | ~91 |
 | Rubble and Ashes | 17.00% | ~91 |
-| The Last Stand - This Time For Real! | 17.00% | ~91 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~86 |
 | Lavalumps on Ice! | 16.00% | ~86 |
 | To the Max! | 15.00% | ~81 |
@@ -64,7 +64,7 @@
 | Hands Off My Stones | 10.00% | ~54 |
 | Gorgu is in the Best of Health | 9.00% | ~48 |
 | No Mana, No Cry | 7.00% | ~38 |
-| I Don't Need Any Help | 6.00% | ~32 |
+| I Don't Need Any Help | 7.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 537 (Ranked 310)  
 Completed: 14 (2.61%) (Ranked 118)  

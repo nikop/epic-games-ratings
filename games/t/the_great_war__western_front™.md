@@ -6,7 +6,7 @@ Rating: 4.04 (Ranked 1,002)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Earth Shattering | 48.00% | ~281 |
-| La Der des Ders | 17.00% | ~99 |
+| La Der des Ders | 18.00% | ~105 |
 | Das Ist Endgültig! | 17.00% | ~99 |
 | From the Pages of History | 9.00% | ~53 |
 | The Chemists' War | 6.00% | ~35 |

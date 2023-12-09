@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 596,
+  "EOS_Progressed": 597,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.34,
   "EosHistory": [
@@ -1980,6 +1980,11 @@
       "Time": "2023-12-09T12:04:26.7985434+00:00",
       "NumProgressed": 596,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-09T17:03:49.1975215+00:00",
+      "NumProgressed": 597,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2046,9 +2051,9 @@
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_eou8",
@@ -2095,14 +2100,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 596,
+      "Progressed": 597,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:03:47.0709256+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:03:49.1975209+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:10.4045302+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:57:34.1629472+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:03:47.0709448+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:57:41.0066805+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:03:49.1975449+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -789,7 +789,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1921,
+  "EOS_Progressed": 1922,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -5044,6 +5044,11 @@
       "Time": "2023-12-09T05:05:37.4277795+00:00",
       "NumProgressed": 1921,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T17:06:10.8197247+00:00",
+      "NumProgressed": 1922,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 61,
@@ -5077,9 +5082,9 @@
       "ID": "achAccumulate1B",
       "SetID": "dgl390n",
       "Name": "Transport tycoon",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 461
     },
     {
       "ID": "achAccumulate1BHard",
@@ -5159,7 +5164,7 @@
       "Name": "First train station",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "achCannotGetEnough",
@@ -5215,7 +5220,7 @@
       "Name": "Cadet",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "achCreateLine",
@@ -5223,7 +5228,7 @@
       "Name": "First line",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "achCrowdInATrain",
@@ -5239,7 +5244,7 @@
       "Name": "Not in my backyard",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "achEpec",
@@ -5263,7 +5268,7 @@
       "Name": "First bus arrived",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "achFirstCargoTransported",
@@ -5271,7 +5276,7 @@
       "Name": "First cargo item on board",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -5279,7 +5284,7 @@
       "Name": "First cargo item waiting",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -5303,7 +5308,7 @@
       "Name": "First passenger on board",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -5311,7 +5316,7 @@
       "Name": "First passenger waiting",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "achFirstShipArrived",
@@ -5319,7 +5324,7 @@
       "Name": "First ship arrived",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "achFirstSteamTrainArrived",
@@ -5343,7 +5348,7 @@
       "Name": "Heavily loaded",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achHq",
@@ -5351,7 +5356,7 @@
       "Name": "Settled down",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "achHq20",
@@ -5375,7 +5380,7 @@
       "Name": "Sculpturer",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "achLongestTrain",
@@ -5399,7 +5404,7 @@
       "Name": "Mass production",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "achMetropolis",
@@ -5439,7 +5444,7 @@
       "Name": "Bob Ross",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "achPennyPincher",
@@ -5542,15 +5547,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1921,
+      "Progressed": 1922,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-09T13:58:44.4241149+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:06:08.0815083+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:06:10.8197242+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:42.1017313+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:58:10.9791687+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:06:08.0815611+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:58:20.8127923+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:06:10.8197918+00:00"
 }

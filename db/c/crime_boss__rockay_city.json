@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4933,11 +4933,17 @@
       "Rating": 3.95,
       "NumberOfAwards": 2656,
       "NumberOfAwardsMax": 557
+    },
+    {
+      "Time": "2023-12-09T17:00:06.6629829+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2659,
+      "NumberOfAwardsMax": 559
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2656,
-  "NumberOfAwardsMax": 557,
+  "NumberOfAwards": 2659,
+  "NumberOfAwardsMax": 559,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4950,7 +4956,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 557
+      "Count": 559
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4992,12 +4998,12 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 509
+      "Count": 510
     }
   ],
-  "EOS_Progressed": 91819,
+  "EOS_Progressed": 91821,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -27540,6 +27546,11 @@
       "Time": "2023-12-09T14:05:08.8177808+00:00",
       "NumProgressed": 91819,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-09T17:04:26.2230947+00:00",
+      "NumProgressed": 91821,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -27855,7 +27866,7 @@
       "Name": "All for One",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_1021",
@@ -27878,22 +27889,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91819,
+      "Progressed": 91821,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20166,
+      "Progressed": 20168,
       "Completed": 15582
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-12-09T14:01:18.359198+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:04:23.7345401+00:00",
+  "LastChanged": "2023-12-09T17:00:06.6629827+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:04:26.2230941+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.1764658+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:59:54.4550435+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:04:23.7346464+00:00"
+  "LastUpdate_Ratings": "2023-12-09T17:00:06.6629834+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:04:26.2232524+00:00"
 }

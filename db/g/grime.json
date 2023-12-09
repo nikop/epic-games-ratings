@@ -1645,10 +1645,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 161830,
+  "EOS_Progressed": 161838,
   "EOS_Completed": 269,
   "EOS_NewPlayers": 939,
-  "EOS_NewCompleters": 142,
+  "EOS_NewCompleters": 141,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -18575,6 +18575,11 @@
       "Time": "2023-12-09T16:04:08.3602129+00:00",
       "NumProgressed": 161830,
       "NumCompleted": 269
+    },
+    {
+      "Time": "2023-12-09T17:04:10.9753691+00:00",
+      "NumProgressed": 161838,
+      "NumCompleted": 269
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18769,9 +18774,9 @@
       "ID": "DEFEAT_WATCHER",
       "SetID": "ccc0dlh",
       "Name": "Watcher",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 324
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -18787,7 +18792,7 @@
       "Name": "Devourer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -18954,21 +18959,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161413,
+      "Progressed": 161421,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 161830,
+      "Progressed": 161838,
       "Completed": 269
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-08T18:02:42.2195822+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:04:08.3602127+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:04:10.9753686+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:51.7108111+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:57:06.6336283+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:04:08.3603305+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:57:13.6514673+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:04:10.9754826+00:00"
 }

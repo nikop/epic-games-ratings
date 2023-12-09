@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5077,10 +5077,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8079,
       "NumberOfAwardsMax": 1110
+    },
+    {
+      "Time": "2023-12-09T16:58:00.6967861+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8081,
+      "NumberOfAwardsMax": 1110
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8079,
+  "NumberOfAwards": 8081,
   "NumberOfAwardsMax": 1110,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5112,7 +5118,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 763
+      "Count": 765
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5151,9 +5157,9 @@
       "Count": 538
     }
   ],
-  "EOS_Progressed": 12411,
+  "EOS_Progressed": 12413,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.43,
   "EosHistory": [
@@ -21101,6 +21107,11 @@
       "Time": "2023-12-09T16:08:25.5530159+00:00",
       "NumProgressed": 12411,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-09T17:08:56.8636725+00:00",
+      "NumProgressed": 12413,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 15,
@@ -21120,7 +21131,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4840
+      "UsersEstimate": 4841
     },
     {
       "ID": "Bestest_Friend",
@@ -21128,7 +21139,7 @@
       "Name": "Bestest Friend",
       "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 5709
+      "UsersEstimate": 5710
     },
     {
       "ID": "Chef_Cook",
@@ -21152,7 +21163,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6330
+      "UsersEstimate": 6331
     },
     {
       "ID": "Duty_Bound",
@@ -21168,7 +21179,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3847
+      "UsersEstimate": 3848
     },
     {
       "ID": "Generous",
@@ -21184,7 +21195,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8564
+      "UsersEstimate": 8565
     },
     {
       "ID": "Miner",
@@ -21200,7 +21211,7 @@
       "Name": "Photographer",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 8439
+      "UsersEstimate": 8441
     },
     {
       "ID": "Renovator",
@@ -21208,7 +21219,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 6330
+      "UsersEstimate": 6331
     },
     {
       "ID": "Thorn_Cleaner",
@@ -21224,23 +21235,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7571
+      "UsersEstimate": 7572
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12411,
+      "Progressed": 12413,
       "Completed": 302
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-12-09T14:57:50.2908773+00:00",
-  "LastChanged_Achievements": "2023-12-09T16:08:25.5530155+00:00",
+  "LastChanged": "2023-12-09T16:58:00.6967859+00:00",
+  "LastChanged_Achievements": "2023-12-09T17:08:56.8636719+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:53.5041293+00:00",
-  "LastUpdate_Ratings": "2023-12-09T15:57:52.0737626+00:00",
-  "LastUpdate_Achievements": "2023-12-09T16:08:25.5530942+00:00"
+  "LastUpdate_Ratings": "2023-12-09T16:58:00.6967866+00:00",
+  "LastUpdate_Achievements": "2023-12-09T17:08:56.8637515+00:00"
 }

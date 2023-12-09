@@ -14,9 +14,9 @@
 | It's In My Nature | 44.00% | ~11 |
 | Chapter 5 | 40.00% | ~10 |
 | Chapter 6 | 28.00% | ~7 |
+| Food Thief | 20.00% | ~5 |
 | Ads Fan | 16.00% | ~4 |
 | Best Student | 16.00% | ~4 |
-| Food Thief | 16.00% | ~4 |
 | Highway Survival | 12.00% | ~3 |
 | Paw Music | 12.00% | ~3 |
 | Sugar Pills Lover | 12.00% | ~3 |

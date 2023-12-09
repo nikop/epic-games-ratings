@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Too Cool For School | 85.00% | ~163 |
 | Caretaker | 84.00% | ~161 |
+| Who's A Good Boy | 72.00% | ~138 |
 | Feng Shui | 72.00% | ~138 |
-| Who's A Good Boy | 71.00% | ~136 |
 | Power Up | 71.00% | ~136 |
 | Thick Skin | 69.00% | ~132 |
 | Math Wizard | 67.00% | ~129 |
