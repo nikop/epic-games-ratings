@@ -17,16 +17,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | No Deaths | 0.80% | ~142 |
 | The Marshlands | 0.70% | ~124 |
 | Taking Action | 0.70% | ~124 |
+| First Real Expedition | 0.60% | ~107 |
 | Overcoming Difficulty | 0.60% | ~107 |
 | Coral Forest | 0.60% | ~107 |
 | The Scarlet Orchard | 0.60% | ~107 |
-| First Real Expedition | 0.50% | ~89 |
 | Fertile Meadows | 0.50% | ~89 |
 | Watchtower | 0.50% | ~89 |
+| Homesick | 0.40% | ~71 |
 | Bandit Camp | 0.40% | ~71 |
 | Royal Outpost | 0.40% | ~71 |
 | Lost Colonies | 0.40% | ~71 |
-| Homesick | 0.30% | ~53 |
 | Ruined Armory | 0.30% | ~53 |
 | Barren Lands | 0.30% | ~53 |
 | Ancient Battleground | 0.30% | ~53 |
@@ -40,6 +40,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 0.30% | ~53 |
 | Fox Utopia | 0.30% | ~53 |
 | Serving Ale | 0.20% | ~36 |
+| Refinery | 0.20% | ~36 |
 | Against All Odds | 0.20% | ~36 |
 | Dangerous Lands | 0.20% | ~36 |
 | Fishmen Ritual Site | 0.20% | ~36 |
@@ -56,7 +57,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Human Utopia | 0.10% | ~18 |
 | Lizard Utopia | 0.10% | ~18 |
 | Efficient Explorer | 0.10% | ~18 |
-| Refinery | 0.10% | ~18 |
 | Forbidden Lands | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
 | The Queen's Chosen | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,754 (Ranked 146)  
+Progressed: 17,755 (Ranked 146)  
 Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 43 (0.24%) (Ranked 251)
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
-| 2023-12-09 | 17,754 | 43 |
+| 2023-12-09 | 17,755 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,245 (Ranked 174)  

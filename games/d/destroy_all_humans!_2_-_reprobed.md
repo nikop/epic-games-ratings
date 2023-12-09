@@ -8,22 +8,23 @@ Number of Ratings: 90  (23.09.2022)
 | ---- | ---------- | ----- |
 | Mash Machine | 35.00% | ~9 |
 | Rock of the Bay | 35.00% | ~9 |
-| Furon Fashion | 19.00% | ~5 |
-| Ducks in a Row, Fish in a Barrel | 19.00% | ~5 |
+| Furon Fashion | 23.00% | ~6 |
+| Ducks in a Row, Fish in a Barrel | 23.00% | ~6 |
 | Shop Til They Drop | 19.00% | ~5 |
 | I Look Up As I Walk to Takoshima | 15.00% | ~4 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~3 |
+| Earthly Pleasures | 12.00% | ~3 |
 | Cult Following | 8.00% | ~2 |
 | Lie Back and Think of Albion | 8.00% | ~2 |
 | Fly Me to the Moon Base | 8.00% | ~2 |
 | Bodied Sattva | 8.00% | ~2 |
 | Kaijuiced | 8.00% | ~2 |
 | Scuttled | 8.00% | ~2 |
-| Earthly Pleasures | 8.00% | ~2 |
 | Upgreatest | 8.00% | ~2 |
 | Dusted | 8.00% | ~2 |
 | Pimp My Raid | 8.00% | ~2 |
 | Perfect Probulator | 4.00% | ~1 |
+| Transmitting From Sol-3 | 4.00% | ~1 |
 | Forbidden Donut | 4.00% | ~1 |
 | Freshly Squeezed | 4.00% | ~1 |
 | Die Nasty | 4.00% | ~1 |
@@ -33,7 +34,6 @@ Number of Ratings: 90  (23.09.2022)
 | Gotta Catch All the Pop Art | 0.00% | ~0 |
 | This Is Earth Radio | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
-| Transmitting From Sol-3 | 0.00% | ~0 |
 | Hidden Human Hive Harvest | 0.00% | ~0 |
 | Toilet Break | 0.00% | ~0 |
 | Albion Bridge Is for Falling Down | 0.00% | ~0 |

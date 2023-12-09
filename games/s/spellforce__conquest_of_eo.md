@@ -34,6 +34,7 @@
 | Philo's Tale | 15.00% | ~6 |
 | Friend of Orgash | 15.00% | ~6 |
 | Defeat Gor | 12.00% | ~5 |
+| A Master of Magic | 12.00% | ~5 |
 | Friend of Silver Drift Hollow | 12.00% | ~5 |
 | Magic Academy | 12.00% | ~5 |
 | A Joke | 12.00% | ~5 |
@@ -44,7 +45,6 @@
 | The Forge of Regan Gor | 10.00% | ~4 |
 | Silver Drift Hollow Mine | 10.00% | ~4 |
 | Mage Teacher | 10.00% | ~4 |
-| A Master of Magic | 10.00% | ~4 |
 | Friend of Windholme | 10.00% | ~4 |
 | Get to the Airship! | 7.00% | ~3 |
 | Defeat Hokan | 7.00% | ~3 |
@@ -55,19 +55,19 @@
 | Elynn's Tale | 7.00% | ~3 |
 | Lytra's Tale | 7.00% | ~3 |
 | Tuscari Sea Portal | 7.00% | ~3 |
+| Master Alchemist | 7.00% | ~3 |
+| A Monopoly of Might | 7.00% | ~3 |
+| Heroes | 7.00% | ~3 |
 | Balanced | 7.00% | ~3 |
 | Friend of Grey Dusk Vale | 7.00% | ~3 |
 | Friend of Uram Gor | 7.00% | ~3 |
 | Defeat Raith | 5.00% | ~2 |
 | Crypt of the Revenant | 5.00% | ~2 |
 | Fireforge | 5.00% | ~2 |
-| Master Alchemist | 5.00% | ~2 |
 | Master Artificer | 5.00% | ~2 |
 | Breaking the circle | 5.00% | ~2 |
-| A Monopoly of Might | 5.00% | ~2 |
-| Heroes | 5.00% | ~2 |
+| My Friends! | 5.00% | ~2 |
 | Misty Coast Dragonbones | 2.00% | ~1 |
-| My Friends! | 2.00% | ~1 |
 | Master Necromancer | 2.00% | ~1 |
 | Hard Life | 0.00% | ~0 |
 | Impossible Mission | 0.00% | ~0 |

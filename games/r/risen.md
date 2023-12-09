@@ -33,12 +33,12 @@ Rating: 4.58 (Ranked 450)
 | Sidelined | 22.00% | ~14 |
 | Defender | 21.00% | ~13 |
 | Ghost hunter | 21.00% | ~13 |
+| Showdown | 19.00% | ~12 |
 | Workaholic | 19.00% | ~12 |
-| Showdown | 17.00% | ~11 |
 | Fence | 17.00% | ~11 |
 | Master thief | 16.00% | ~10 |
 | Freedom fighter | 14.00% | ~9 |
-| Titan Lord | 13.00% | ~8 |
+| Titan Lord | 14.00% | ~9 |
 | Safecracker | 13.00% | ~8 |
 | Expert | 11.00% | ~7 |
 | King of the handymen | 11.00% | ~7 |

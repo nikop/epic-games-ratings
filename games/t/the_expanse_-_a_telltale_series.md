@@ -38,10 +38,10 @@ Rating: 4.54 (Ranked 533)
 | Urshanabi Hoarder | 0.70% | ~112 |
 | Data Miner | 0.40% | ~64 |
 | Grave Robber | 0.30% | ~48 |
-| Scavenger Star | 0.20% | ~32 |
+| Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,998 (Ranked 151)  
+Progressed: 16,000 (Ranked 151)  
 Completed: 41 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 41 (0.26%) (Ranked 249)
 | 2023-12-06 | 15,941 | 41 |
 | 2023-12-07 | 15,968 | 41 |
 | 2023-12-08 | 15,988 | 41 |
-| 2023-12-09 | 15,998 | 41 |
+| 2023-12-09 | 16,000 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

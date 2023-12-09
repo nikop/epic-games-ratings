@@ -31,10 +31,10 @@ Rating: 4.25 (Ranked 890)
 | Bad Dog | 14.00% | ~311 |
 | Where It All Began | 13.00% | ~289 |
 | Risk Tolerant | 13.00% | ~289 |
+| Sorry, Didn't See You There | 13.00% | ~289 |
 | What A Catchy Song | 13.00% | ~289 |
 | Corrupted Beauty | 12.00% | ~266 |
 | Marked For Success | 12.00% | ~266 |
-| Sorry, Didn't See You There | 12.00% | ~266 |
 | Stimulating The Local Economy | 10.00% | ~222 |
 | Triplets | 10.00% | ~222 |
 | Denying Prophecy | 9.00% | ~200 |
@@ -64,7 +64,7 @@ Rating: 4.25 (Ranked 890)
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,220 (Ranked 225)  
-Completed: 13 (0.59%) (Ranked 197)  
+Completed: 13 (0.59%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

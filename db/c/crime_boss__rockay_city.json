@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4989,9 +4989,9 @@
       "Count": 509
     }
   ],
-  "EOS_Progressed": 91816,
+  "EOS_Progressed": 91818,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -27524,6 +27524,11 @@
       "Time": "2023-12-09T12:05:16.4951383+00:00",
       "NumProgressed": 91816,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-09T13:07:00.2097335+00:00",
+      "NumProgressed": 91818,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -27535,7 +27540,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2754
+      "UsersEstimate": 2755
     },
     {
       "ID": "ACH_0011",
@@ -27679,7 +27684,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2754
+      "UsersEstimate": 2755
     },
     {
       "ID": "ACH_0210",
@@ -27687,7 +27692,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2754
+      "UsersEstimate": 2755
     },
     {
       "ID": "ACH_0211",
@@ -27862,13 +27867,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91816,
+      "Progressed": 91818,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20163,
+      "Progressed": 20165,
       "Completed": 15582
     }
   ],
@@ -27876,8 +27881,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-09T06:59:45.8945064+00:00",
-  "LastChanged_Achievements": "2023-12-09T12:05:16.4951379+00:00",
+  "LastChanged_Achievements": "2023-12-09T13:07:00.2097332+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.1764658+00:00",
-  "LastUpdate_Ratings": "2023-12-09T12:01:08.4304567+00:00",
-  "LastUpdate_Achievements": "2023-12-09T12:05:16.4952725+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:02:30.3318343+00:00",
+  "LastUpdate_Achievements": "2023-12-09T13:07:00.2098455+00:00"
 }

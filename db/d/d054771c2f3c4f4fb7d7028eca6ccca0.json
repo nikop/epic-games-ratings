@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1482,
+  "EOS_Progressed": 1486,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 877,
+  "EOS_NewPlayers": 875,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1029,6 +1029,11 @@
       "Time": "2023-12-09T12:05:00.864328+00:00",
       "NumProgressed": 1482,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T13:06:48.7024888+00:00",
+      "NumProgressed": 1486,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1151,9 +1156,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "c167foo",
       "Name": "High Level Mastery",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1223,9 +1228,9 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "c167foo",
       "Name": "Personal Sanctuary",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1239,9 +1244,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "c167foo",
       "Name": "Unlocked Relic",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1416,14 +1421,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1482,
+      "Progressed": 1486,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-09T12:05:00.8643276+00:00",
+  "LastChanged_Achievements": "2023-12-09T13:06:48.7024883+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-09T12:00:00.9546787+00:00",
-  "LastUpdate_Achievements": "2023-12-09T12:05:00.8643896+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:01:44.0152861+00:00",
+  "LastUpdate_Achievements": "2023-12-09T13:06:48.7025186+00:00"
 }

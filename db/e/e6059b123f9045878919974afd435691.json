@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1077,
+  "EOS_Progressed": 1078,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2799,6 +2799,11 @@
       "Time": "2023-12-08T23:10:43.2856034+00:00",
       "NumProgressed": 1077,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T13:12:11.4853689+00:00",
+      "NumProgressed": 1078,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2850,7 +2855,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2930,7 +2935,7 @@
       "Name": "Burnt Smell",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -3010,7 +3015,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -3042,7 +3047,7 @@
       "Name": "End of Rest",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -3066,7 +3071,7 @@
       "Name": "Free Like Birds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -3098,7 +3103,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3130,7 +3135,7 @@
       "Name": "And There We Go",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -3337,14 +3342,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1077,
+      "Progressed": 1078,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-09T12:10:48.0414371+00:00",
+  "LastChanged_Achievements": "2023-12-09T13:12:11.4853687+00:00",
   "LastUpdate_AppInfo": "2023-12-08T02:20:37.1231344+00:00",
-  "LastUpdate_Ratings": "2023-12-09T11:58:43.0826308+00:00",
-  "LastUpdate_Achievements": "2023-12-09T12:10:48.0414893+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:00:50.7624999+00:00",
+  "LastUpdate_Achievements": "2023-12-09T13:12:11.4854214+00:00"
 }

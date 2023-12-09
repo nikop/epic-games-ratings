@@ -5,17 +5,17 @@ Rating: 4.58 (Ranked 450)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~6,025 |
+| Azoria Beckons | 72.00% | ~6,026 |
 | A Thorny Situation | 70.00% | ~5,858 |
-| ... And Spit Back Out | 61.00% | ~5,104 |
-| Break-Net Speed | 49.00% | ~4,100 |
+| ... And Spit Back Out | 61.00% | ~5,105 |
+| Break-Net Speed | 49.00% | ~4,101 |
 | Bramble Breaker | 47.00% | ~3,933 |
-| Miner 49er | 43.00% | ~3,598 |
+| Miner 49er | 43.00% | ~3,599 |
 | Humble Collector | 42.00% | ~3,515 |
-| Calm Sailing | 37.00% | ~3,096 |
+| Calm Sailing | 37.00% | ~3,097 |
 | Open the Gate! | 34.00% | ~2,845 |
 | Mist Walker | 32.00% | ~2,678 |
-| Lumberjack | 27.00% | ~2,259 |
+| Lumberjack | 27.00% | ~2,260 |
 | Oui, Chef! | 23.00% | ~1,925 |
 | Clear the Air | 19.00% | ~1,590 |
 | Botanical Breakthrough | 17.00% | ~1,423 |
@@ -23,11 +23,11 @@ Rating: 4.58 (Ranked 450)
 | Beach Comber | 14.00% | ~1,172 |
 | Higher Tax Bracket | 14.00% | ~1,172 |
 | Skilled | 9.00% | ~753 |
-| Flaming Hot Completos | 8.00% | ~669 |
-| Fae Farmer | 8.00% | ~669 |
-| Got to Catch Them All | 8.00% | ~669 |
-| Rumble in the Jumble | 8.00% | ~669 |
-| Fanatical Farmer | 8.00% | ~669 |
+| Flaming Hot Completos | 8.00% | ~670 |
+| Fae Farmer | 8.00% | ~670 |
+| Got to Catch Them All | 8.00% | ~670 |
+| Rumble in the Jumble | 8.00% | ~670 |
+| Fanatical Farmer | 8.00% | ~670 |
 | Scattered Scroll Scrounger | 6.00% | ~502 |
 | Azorian Anniversary | 6.00% | ~502 |
 | I Now Pronounce You... | 5.00% | ~418 |
@@ -41,7 +41,7 @@ Rating: 4.58 (Ranked 450)
 | Very Skilled | 0.20% | ~17 |
 | Workaholic | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,368 (Ranked 175)  
+Progressed: 8,369 (Ranked 175)  
 Completed: 1 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 1 (0.01%) (Ranked 348)
 | 2023-12-06 | 8,323 | 1 |
 | 2023-12-07 | 8,341 | 1 |
 | 2023-12-08 | 8,359 | 1 |
-| 2023-12-09 | 8,368 | 1 |
+| 2023-12-09 | 8,369 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

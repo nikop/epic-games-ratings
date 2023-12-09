@@ -19,6 +19,7 @@ Rating: 4.61 (Ranked 387)
 | Enchanted Archipelago | 2.00% | ~112 |
 | Stronger Together | 2.00% | ~112 |
 | Magical Synergy | 2.00% | ~112 |
+| My Final Form | 2.00% | ~112 |
 | In a Liege of Your Own | 2.00% | ~112 |
 | Fiery Friend | 2.00% | ~112 |
 | Impenetrable Fortress | 2.00% | ~112 |
@@ -32,20 +33,19 @@ Rating: 4.61 (Ranked 387)
 | Digging for Treasure | 1.00% | ~56 |
 | Crimson Caldera | 1.00% | ~56 |
 | Preparation Is Everything | 1.00% | ~56 |
-| My Final Form | 1.00% | ~56 |
 | Here be Dragons | 1.00% | ~56 |
 | Blood of the Dragon | 1.00% | ~56 |
 | Mighty Hoard | 1.00% | ~56 |
 | Prometheus Avenged | 1.00% | ~56 |
 | Seal the Deal | 1.00% | ~56 |
-| A Conqueror's Cohort | 1.00% | ~56 |
 | Spoils of War | 1.00% | ~56 |
 | Dawn of the Dread | 1.00% | ~56 |
 | The Creator | 0.90% | ~50 |
+| A Conqueror's Cohort | 0.90% | ~50 |
 | Lord of Chaos | 0.80% | ~45 |
+| Eternal Lord | 0.80% | ~45 |
 | The Eternal Court | 0.80% | ~45 |
 | God Emperor | 0.70% | ~39 |
-| Eternal Lord | 0.70% | ~39 |
 | Manufactured War | 0.70% | ~39 |
 | I've Got Everything I Need Right Here | 0.60% | ~33 |
 | The Goddess of Nature | 0.60% | ~33 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 387)
 | Draconic Connoisseur | 0.10% | ~6 |
 | Master of Evilness | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,578 (Ranked 189)  
+Progressed: 5,579 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 7 (0.13%) (Ranked 278)
 | 2023-12-06 | 5,572 | 7 |
 | 2023-12-07 | 5,575 | 7 |
 | 2023-12-08 | 5,576 | 7 |
-| 2023-12-09 | 5,578 | 7 |
+| 2023-12-09 | 5,579 | 7 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 477)  
 Sum: 90 (Ranked 459)  

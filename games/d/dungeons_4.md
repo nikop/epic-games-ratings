@@ -54,10 +54,10 @@
 | The Last Stand - This Time For Real! | 17.00% | ~91 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~86 |
 | Lavalumps on Ice! | 16.00% | ~86 |
+| To the Max! | 15.00% | ~81 |
 | To Infinity And Beyond! | 15.00% | ~81 |
-| To the Max! | 14.00% | ~75 |
+| Mirror, Mirror | 13.00% | ~70 |
 | Evilification | 13.00% | ~70 |
-| Mirror, Mirror | 12.00% | ~64 |
 | Untouchable | 12.00% | ~64 |
 | Laser Eyes Are So Useless | 10.00% | ~54 |
 | Heal Heal Blessing | 10.00% | ~54 |

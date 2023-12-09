@@ -6,20 +6,20 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~117,086 |
-| Don't Make Me Turn This Coach Around | 72.00% | ~90,647 |
-| A Clear Conscience | 69.00% | ~86,870 |
-| Unleash Hell | 68.00% | ~85,611 |
-| Unfulfilled Desires | 68.00% | ~85,611 |
-| Funny Guy | 67.00% | ~84,352 |
-| Unshackled | 67.00% | ~84,352 |
-| Long Live the King | 66.00% | ~83,093 |
-| Resurrection | 63.00% | ~79,316 |
-| Wyrdly Reconstructed | 63.00% | ~79,316 |
-| Boxcar Kid | 61.00% | ~76,798 |
-| Rush Hour | 61.00% | ~76,798 |
-| To Grandmother's House | 61.00% | ~76,798 |
-| Serenity Now! | 54.00% | ~67,985 |
+| A Place to Lay Your Head | 93.00% | ~117,087 |
+| Don't Make Me Turn This Coach Around | 72.00% | ~90,648 |
+| A Clear Conscience | 69.00% | ~86,871 |
+| Unleash Hell | 68.00% | ~85,612 |
+| Unfulfilled Desires | 68.00% | ~85,612 |
+| Funny Guy | 67.00% | ~84,353 |
+| Unshackled | 67.00% | ~84,353 |
+| Long Live the King | 66.00% | ~83,094 |
+| Resurrection | 63.00% | ~79,317 |
+| Wyrdly Reconstructed | 63.00% | ~79,317 |
+| Boxcar Kid | 61.00% | ~76,799 |
+| Rush Hour | 61.00% | ~76,799 |
+| To Grandmother's House | 61.00% | ~76,799 |
+| Serenity Now! | 54.00% | ~67,986 |
 | Hope Rekindled | 50.00% | ~62,950 |
 | Ramble On | 50.00% | ~62,950 |
 | Nope | 49.00% | ~61,691 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~126 |
 | No Gravestone Left Unturned | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,899 (Ranked 84)  
+Progressed: 125,900 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,16 +295,16 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-06 | 125,704 | 2 |
 | 2023-12-07 | 125,791 | 2 |
 | 2023-12-08 | 125,859 | 2 |
-| 2023-12-09 | 125,899 | 2 |
+| 2023-12-09 | 125,900 | 2 |
 ## Awards
 Max (Character Customization): 7,572  (Ranked 52)  
-Sum: 20,012 (Ranked 59)  
+Sum: 20,017 (Ranked 59)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,572 |
 | This game has Diverse Characters | 1,630 |
-| This game has Challenging Combat | 1,539 |
+| This game has Challenging Combat | 1,544 |
 | This game is Highly Recommended | 1,477 |
 | This game has Amazing Characters | 1,424 |
 | This game is Extremely Fun | 1,417 |
@@ -632,4 +632,4 @@ Diff (max vs sum): -7
 | 2023-12-06 | 4.68 | - | 7,563 | 19,969 |
 | 2023-12-07 | 4.68 | - | 7,565 | 19,985 |
 | 2023-12-08 | 4.68 | - | 7,565 | 20,002 |
-| 2023-12-09 | 4.68 | - | 7,572 | 20,012 |
+| 2023-12-09 | 4.68 | - | 7,572 | 20,017 |

@@ -2,7 +2,7 @@
   "ID": "24bd39f944fa45ad8a953116f9908525",
   "Name": "HAAK",
   "ProductSlug": "haak-1401cb",
-  "Ranking_EOS_Progress": 493,
+  "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 114,
@@ -518,9 +518,9 @@
       "ID": "ach_25_dash2",
       "SetID": "16n29hg",
       "Name": "Dash! Dash!",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_26_tiLung",
@@ -771,8 +771,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-12-09T12:09:02.4902454+00:00",
+  "LastChanged_Achievements": "2023-12-09T13:10:52.6916379+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.6186571+00:00",
-  "LastUpdate_Ratings": "2023-12-09T11:57:24.5162518+00:00",
-  "LastUpdate_Achievements": "2023-12-09T12:09:02.4902783+00:00"
+  "LastUpdate_Ratings": "2023-12-09T12:59:55.84775+00:00",
+  "LastUpdate_Achievements": "2023-12-09T13:10:52.6916724+00:00"
 }

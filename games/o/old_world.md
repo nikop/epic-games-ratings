@@ -132,20 +132,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 1.00% | ~157 |
 | Turreted Elephant | 1.00% | ~157 |
 | Ambition Victory | 1.00% | ~157 |
+| Noble Difficulty | 0.90% | ~141 |
 | Adur Burzen-Mihr | 0.90% | ~141 |
 | All Nations | 0.90% | ~141 |
 | Poetic Leader | 0.90% | ~141 |
 | Ishtar Gate in Babylon | 0.80% | ~125 |
 | Peacemaker | 0.80% | ~125 |
-| Noble Difficulty | 0.80% | ~125 |
 | Cao'an | 0.80% | ~125 |
 | Learn to Play 5 | 0.80% | ~125 |
+| Deposed Tribe | 0.80% | ~125 |
 | Kmt Unified | 0.80% | ~125 |
 | Carthage - Ox Hide | 0.70% | ~110 |
 | Old World Order | 0.70% | ~110 |
 | Cataphract Archer | 0.70% | ~110 |
 | No Undo | 0.70% | ~110 |
-| Deposed Tribe | 0.70% | ~110 |
 | The Great Mage | 0.70% | ~110 |
 | Kush | 0.70% | ~110 |
 | Beja Archer | 0.70% | ~110 |

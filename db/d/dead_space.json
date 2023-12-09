@@ -6,7 +6,7 @@
   "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
@@ -731,9 +731,9 @@
       "Count": 118
     }
   ],
-  "EOS_Progressed": 2195,
+  "EOS_Progressed": 2196,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -6861,6 +6861,11 @@
       "Time": "2023-12-09T11:09:21.0592914+00:00",
       "NumProgressed": 2195,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-09T13:11:23.2623283+00:00",
+      "NumProgressed": 2196,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -6873,7 +6878,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "achievement_10",
@@ -6913,7 +6918,7 @@
       "Name": "Whole Again",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "achievement_15",
@@ -6921,7 +6926,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "achievement_16",
@@ -6961,7 +6966,7 @@
       "Name": "Lab Rat",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "achievement_20",
@@ -6969,7 +6974,7 @@
       "Name": "Autofire",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "achievement_21",
@@ -6985,7 +6990,7 @@
       "Name": "A Cut Above",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "achievement_23",
@@ -7033,7 +7038,7 @@
       "Name": "Story Teller",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "achievement_29",
@@ -7065,7 +7070,7 @@
       "Name": "Marksman",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 2041
+      "UsersEstimate": 2042
     },
     {
       "ID": "achievement_32",
@@ -7073,7 +7078,7 @@
       "Name": "Surgeon",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "achievement_33",
@@ -7089,7 +7094,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "achievement_35",
@@ -7097,7 +7102,7 @@
       "Name": "Freeze",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "achievement_36",
@@ -7121,7 +7126,7 @@
       "Name": "Front Toward Enemy",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "achievement_39",
@@ -7169,7 +7174,7 @@
       "Name": "Exterminator",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "achievement_44",
@@ -7209,7 +7214,7 @@
       "Name": "True Believer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "achievement_6",
@@ -7217,7 +7222,7 @@
       "Name": "Greenhouse Effect",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "achievement_7",
@@ -7248,7 +7253,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 2195,
+      "Progressed": 2196,
       "Completed": 13
     }
   ],
@@ -7256,8 +7261,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-12-06T16:57:59.3139948+00:00",
-  "LastChanged_Achievements": "2023-12-09T12:09:44.0460903+00:00",
+  "LastChanged_Achievements": "2023-12-09T13:11:23.2623281+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.9880376+00:00",
-  "LastUpdate_Ratings": "2023-12-09T12:00:25.1050612+00:00",
-  "LastUpdate_Achievements": "2023-12-09T12:09:44.0461586+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:02:00.715941+00:00",
+  "LastUpdate_Achievements": "2023-12-09T13:11:23.2623774+00:00"
 }

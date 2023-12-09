@@ -1532,7 +1532,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131756,
+  "EOS_Progressed": 131758,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
@@ -24207,6 +24207,11 @@
       "Time": "2023-12-09T11:05:07.7542919+00:00",
       "NumProgressed": 131756,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-09T13:06:59.073747+00:00",
+      "NumProgressed": 131758,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24274,7 +24279,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31621
+      "UsersEstimate": 31622
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -24346,7 +24351,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17128
+      "UsersEstimate": 17129
     },
     {
       "ID": "ACH_COP_STAR",
@@ -24537,15 +24542,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131756,
+      "Progressed": 131758,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-09T07:57:19.028339+00:00",
-  "LastChanged_Achievements": "2023-12-09T12:05:14.8744735+00:00",
+  "LastChanged_Achievements": "2023-12-09T13:06:59.0737468+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:21.910323+00:00",
-  "LastUpdate_Ratings": "2023-12-09T11:57:10.4408216+00:00",
-  "LastUpdate_Achievements": "2023-12-09T12:05:14.8746132+00:00"
+  "LastUpdate_Ratings": "2023-12-09T12:59:46.2710613+00:00",
+  "LastUpdate_Achievements": "2023-12-09T13:06:59.0738818+00:00"
 }

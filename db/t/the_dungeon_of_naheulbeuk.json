@@ -1473,9 +1473,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 241897,
+  "EOS_Progressed": 241908,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1084,
+  "EOS_NewPlayers": 1082,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21618,6 +21618,11 @@
       "Time": "2023-12-09T12:10:12.9304319+00:00",
       "NumProgressed": 241897,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-09T13:11:44.7389661+00:00",
+      "NumProgressed": 241908,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -21669,7 +21674,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "Chapter1",
@@ -21677,7 +21682,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16933
+      "UsersEstimate": 16934
     },
     {
       "ID": "Chapter2",
@@ -22029,7 +22034,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19352
+      "UsersEstimate": 19353
     },
     {
       "ID": "DwarfElf15Support",
@@ -22077,7 +22082,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87083
+      "UsersEstimate": 87087
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -22125,7 +22130,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21771
+      "UsersEstimate": 21772
     },
     {
       "ID": "FollowBraztok",
@@ -22221,7 +22226,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "QuestMinstrel",
@@ -22332,21 +22337,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 241897,
+      "Progressed": 241908,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 241897,
+      "Progressed": 241908,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-07T01:47:10.3363266+00:00",
-  "LastChanged_Achievements": "2023-12-09T12:10:12.9304312+00:00",
+  "LastChanged_Achievements": "2023-12-09T13:11:44.7389658+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:09.0043717+00:00",
-  "LastUpdate_Ratings": "2023-12-09T12:02:58.2755236+00:00",
-  "LastUpdate_Achievements": "2023-12-09T12:10:12.9305784+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:05:20.9374632+00:00",
+  "LastUpdate_Achievements": "2023-12-09T13:11:44.7391137+00:00"
 }

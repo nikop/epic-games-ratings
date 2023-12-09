@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11727,9 +11727,9 @@
       "Count": 842
     }
   ],
-  "EOS_Progressed": 304122,
+  "EOS_Progressed": 304124,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36712,6 +36712,11 @@
       "Time": "2023-12-09T10:04:00.6944643+00:00",
       "NumProgressed": 304122,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-09T13:06:46.8593461+00:00",
+      "NumProgressed": 304124,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36731,7 +36736,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33453
+      "UsersEstimate": 33454
     },
     {
       "ID": "PFA_11",
@@ -36739,7 +36744,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33453
+      "UsersEstimate": 33454
     },
     {
       "ID": "PFA_12",
@@ -36755,7 +36760,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33453
+      "UsersEstimate": 33454
     },
     {
       "ID": "PFA_14",
@@ -36827,7 +36832,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33453
+      "UsersEstimate": 33454
     },
     {
       "ID": "PFA_22",
@@ -37051,7 +37056,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45618
+      "UsersEstimate": 45619
     },
     {
       "ID": "PFA_7",
@@ -37082,7 +37087,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304122,
+      "Progressed": 304124,
       "Completed": 525
     }
   ],
@@ -37090,8 +37095,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-09T11:58:47.7563915+00:00",
-  "LastChanged_Achievements": "2023-12-09T12:04:58.286697+00:00",
+  "LastChanged_Achievements": "2023-12-09T13:06:46.8593458+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-09T11:58:47.756392+00:00",
-  "LastUpdate_Achievements": "2023-12-09T12:04:58.2868616+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:00:53.931807+00:00",
+  "LastUpdate_Achievements": "2023-12-09T13:06:46.8594659+00:00"
 }
