@@ -2,7 +2,7 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 991,
+  "Ranking_Rating": 986,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 106,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.06,
+  "Rating": 4.07,
   "RatingHistory": [
     {
       "Time": "2023-11-20T03:59:04.4319756+00:00",
@@ -161,15 +161,21 @@
       "Rating": 4.06,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-09T04:02:47.7001871+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64934,
+  "EOS_Progressed": 64952,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 3227,
+  "EOS_NewPlayers": 3214,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2852,6 +2858,11 @@
       "Time": "2023-12-09T03:06:30.358459+00:00",
       "NumProgressed": 64934,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-12-09T04:05:27.625568+00:00",
+      "NumProgressed": 64952,
+      "NumCompleted": 62
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2864,7 +2875,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24026
+      "UsersEstimate": 24032
     },
     {
       "ID": "Achievement_10",
@@ -2872,7 +2883,7 @@
       "Name": "Inside Ma\u00E1to\u0027s Mind",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "Achievement_11",
@@ -2896,7 +2907,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "Achievement_14",
@@ -2920,7 +2931,7 @@
       "Name": "Diligent Hogbunny",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "Achievement_17",
@@ -2952,7 +2963,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17532
+      "UsersEstimate": 17537
     },
     {
       "ID": "Achievement_20",
@@ -2968,7 +2979,7 @@
       "Name": "Heroic Hoarder",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "Achievement_22",
@@ -2992,7 +3003,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "Achievement_25",
@@ -3008,7 +3019,7 @@
       "Name": "Fruits of Labour",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "Achievement_27",
@@ -3040,7 +3051,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7792
+      "UsersEstimate": 7794
     },
     {
       "ID": "Achievement_30",
@@ -3064,7 +3075,7 @@
       "Name": "Art Director",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "Achievement_33",
@@ -3072,7 +3083,7 @@
       "Name": "Family Ties",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "Achievement_34",
@@ -3088,7 +3099,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5195
+      "UsersEstimate": 5196
     },
     {
       "ID": "Achievement_5",
@@ -3096,7 +3107,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3896
+      "UsersEstimate": 3897
     },
     {
       "ID": "Achievement_6",
@@ -3104,7 +3115,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "Achievement_7",
@@ -3128,23 +3139,23 @@
       "Name": "Shielded by L\u00FFs",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     }
   ],
   "AchievementSets": [
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 64934,
+      "Progressed": 64952,
       "Completed": 62
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
-  "LastChanged": "2023-12-07T23:02:46.2416558+00:00",
-  "LastChanged_Achievements": "2023-12-09T03:06:30.3584587+00:00",
+  "LastChanged": "2023-12-09T04:02:47.7001869+00:00",
+  "LastChanged_Achievements": "2023-12-09T04:05:27.6255678+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-09T03:03:01.6979027+00:00",
-  "LastUpdate_Achievements": "2023-12-09T03:06:30.3584856+00:00"
+  "LastUpdate_Ratings": "2023-12-09T04:02:47.7001874+00:00",
+  "LastUpdate_Achievements": "2023-12-09T04:05:27.6256019+00:00"
 }

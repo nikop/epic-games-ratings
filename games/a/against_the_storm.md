@@ -28,6 +28,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Bandit Camp | 0.30% | ~53 |
 | Ancient Battleground | 0.30% | ~53 |
 | Sparkdew Crystals | 0.30% | ~53 |
+| Levitating Monument | 0.30% | ~53 |
 | Monastery of the Holy Flame | 0.30% | ~53 |
 | Royal Outpost | 0.30% | ~53 |
 | Lost Colonies | 0.30% | ~53 |
@@ -40,11 +41,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Barren Lands | 0.20% | ~35 |
 | Fishmen Ritual Site | 0.20% | ~35 |
 | Haunted Forest | 0.20% | ~35 |
-| Levitating Monument | 0.20% | ~35 |
 | Flooded Mines | 0.20% | ~35 |
 | Statue of the Forefathers | 0.20% | ~35 |
 | Forsaken Gods Temple | 0.20% | ~35 |
 | Cursed Lands | 0.20% | ~35 |
+| Victory Through Prosperity | 0.20% | ~35 |
 | Defying the Crown | 0.20% | ~35 |
 | Into the Forest | 0.20% | ~35 |
 | Feeding The People | 0.10% | ~18 |
@@ -61,12 +62,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Queen's Chosen | 0.10% | ~18 |
 | Treasure | 0.10% | ~18 |
 | Blood Flower Farmer | 0.10% | ~18 |
-| Victory Through Prosperity | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,721 (Ranked 146)  
+Progressed: 17,725 (Ranked 146)  
 Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 43 (0.24%) (Ranked 251)
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
-| 2023-12-09 | 17,721 | 43 |
+| 2023-12-09 | 17,725 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,245 (Ranked 174)  

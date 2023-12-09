@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -733,7 +733,7 @@
   ],
   "EOS_Progressed": 2187,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -6942,9 +6942,9 @@
       "ID": "achievement_20",
       "SetID": "222fo9l",
       "Name": "Autofire",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1290
     },
     {
       "ID": "achievement_21",
@@ -7190,9 +7190,9 @@
       "ID": "achievement_6",
       "SetID": "222fo9l",
       "Name": "Greenhouse Effect",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1159
     },
     {
       "ID": "achievement_7",
@@ -7231,8 +7231,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-12-06T16:57:59.3139948+00:00",
-  "LastChanged_Achievements": "2023-12-09T03:09:15.525502+00:00",
+  "LastChanged_Achievements": "2023-12-09T04:08:41.4582593+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.9880376+00:00",
-  "LastUpdate_Ratings": "2023-12-09T02:59:55.1505448+00:00",
-  "LastUpdate_Achievements": "2023-12-09T03:09:15.5255633+00:00"
+  "LastUpdate_Ratings": "2023-12-09T03:59:02.6187553+00:00",
+  "LastUpdate_Achievements": "2023-12-09T04:08:41.4583112+00:00"
 }

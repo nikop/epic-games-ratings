@@ -2,7 +2,7 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 991,
+  "Ranking_Rating": 992,
   "Ranking_Popularity": 289,
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 56,
@@ -2077,9 +2077,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 282599,
+  "EOS_Progressed": 282602,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 712,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28667,6 +28667,11 @@
       "Time": "2023-12-09T03:03:49.3580955+00:00",
       "NumProgressed": 282599,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T04:03:23.6991699+00:00",
+      "NumProgressed": 282602,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -28989,21 +28994,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 282599,
+      "Progressed": 282602,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 758,
+      "Progressed": 761,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-12-08T01:51:32.8369963+00:00",
-  "LastChanged_Achievements": "2023-12-09T03:03:49.3580953+00:00",
+  "LastChanged_Achievements": "2023-12-09T04:03:23.6991696+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.6593003+00:00",
-  "LastUpdate_Ratings": "2023-12-09T03:03:22.9332581+00:00",
-  "LastUpdate_Achievements": "2023-12-09T03:03:49.3582538+00:00"
+  "LastUpdate_Ratings": "2023-12-09T04:03:03.0768674+00:00",
+  "LastUpdate_Achievements": "2023-12-09T04:03:23.6993303+00:00"
 }

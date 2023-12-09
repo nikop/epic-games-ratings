@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7327,10 +7327,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 12324,
       "NumberOfAwardsMax": 8017
+    },
+    {
+      "Time": "2023-12-09T03:59:05.9248216+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12328,
+      "NumberOfAwardsMax": 8017
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12324,
+  "NumberOfAwards": 12328,
   "NumberOfAwardsMax": 8017,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7380,7 +7386,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 533
+      "Count": 537
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7389,9 +7395,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 732041,
+  "EOS_Progressed": 732058,
   "EOS_Completed": 2466,
-  "EOS_NewPlayers": 3298,
+  "EOS_NewPlayers": 3300,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -34069,6 +34075,11 @@
       "Time": "2023-12-09T03:09:05.1595874+00:00",
       "NumProgressed": 732041,
       "NumCompleted": 2466
+    },
+    {
+      "Time": "2023-12-09T04:08:33.5546647+00:00",
+      "NumProgressed": 732058,
+      "NumCompleted": 2466
     }
   ],
   "TotalAchievements": 51,
@@ -34088,7 +34099,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "ach_ammo_ran",
@@ -34128,7 +34139,7 @@
       "Name": "Perks of the Job",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "ach_bookworm",
@@ -34160,7 +34171,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -34176,7 +34187,7 @@
       "Name": "Slayer Squad",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "ach_explorer",
@@ -34192,7 +34203,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "ach_finisher",
@@ -34208,7 +34219,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "ach_good_eyesight",
@@ -34288,7 +34299,7 @@
       "Name": "Zombologist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "ach_legendary",
@@ -34296,7 +34307,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "ach_magnum_opus",
@@ -34312,7 +34323,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "ach_mind_over_monster",
@@ -34320,7 +34331,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "ach_revival_tour",
@@ -34328,7 +34339,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "ach_salvation",
@@ -34336,7 +34347,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6588
+      "UsersEstimate": 6589
     },
     {
       "ID": "ach_secrets_of_la",
@@ -34376,7 +34387,7 @@
       "Name": "Max Headroom",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "ach_the_vcla",
@@ -34392,7 +34403,7 @@
       "Name": "Our True Nature",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -34448,7 +34459,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "ach_gardening_tools",
@@ -34464,7 +34475,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -34487,22 +34498,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 732041,
+      "Progressed": 732058,
       "Completed": 2466
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 57583,
+      "Progressed": 57600,
       "Completed": 36643
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-08T23:59:11.1900737+00:00",
-  "LastChanged_Achievements": "2023-12-09T03:09:05.1595871+00:00",
+  "LastChanged": "2023-12-09T03:59:05.9248215+00:00",
+  "LastChanged_Achievements": "2023-12-09T04:08:33.5546645+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-09T02:59:59.790654+00:00",
-  "LastUpdate_Achievements": "2023-12-09T03:09:05.1597602+00:00"
+  "LastUpdate_Ratings": "2023-12-09T03:59:05.924822+00:00",
+  "LastUpdate_Achievements": "2023-12-09T04:08:33.5547852+00:00"
 }

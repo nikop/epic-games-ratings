@@ -5,24 +5,24 @@ Rating: 4.28 (Ranked 860)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,677 |
-| Copacetic Coordination | 16.00% | ~56,931 |
-| Fronting the Money | 15.00% | ~53,373 |
+| Corner Clout | 46.00% | ~163,679 |
+| Copacetic Coordination | 16.00% | ~56,932 |
+| Fronting the Money | 15.00% | ~53,374 |
 | The Dawn of Automation | 14.00% | ~49,815 |
 | Extraordinary Logistics | 14.00% | ~49,815 |
-| Dirty Money | 13.00% | ~46,256 |
-| Family First | 13.00% | ~46,256 |
-| Cleaning House | 12.00% | ~42,698 |
-| Room in the Back | 12.00% | ~42,698 |
-| Beating the Heat | 11.00% | ~39,140 |
-| Booze Baron | 11.00% | ~39,140 |
+| Dirty Money | 13.00% | ~46,257 |
+| Family First | 13.00% | ~46,257 |
+| Cleaning House | 12.00% | ~42,699 |
+| Room in the Back | 12.00% | ~42,699 |
+| Beating the Heat | 11.00% | ~39,141 |
+| Booze Baron | 11.00% | ~39,141 |
 | Friends on the Force | 10.00% | ~35,582 |
 | Neighborhood Watch | 10.00% | ~35,582 |
 | Core Corps | 8.00% | ~28,466 |
 | Sizeable Stash | 8.00% | ~28,466 |
-| Street Fighter | 7.00% | ~24,907 |
-| Friendly Gestures | 7.00% | ~24,907 |
-| People Person | 7.00% | ~24,907 |
+| Street Fighter | 7.00% | ~24,908 |
+| Friendly Gestures | 7.00% | ~24,908 |
+| People Person | 7.00% | ~24,908 |
 | Liquor Lord | 6.00% | ~21,349 |
 | Safety in Numbers | 6.00% | ~21,349 |
 | Moving Experiences | 6.00% | ~21,349 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 860)
 | High Pillow | 0.10% | ~356 |
 | Station Master | 0.10% | ~356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 355,819 (Ranked 49)  
+Progressed: 355,824 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,10 +319,10 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-06 | 355,527 | 7 |
 | 2023-12-07 | 355,651 | 7 |
 | 2023-12-08 | 355,789 | 7 |
-| 2023-12-09 | 355,819 | 7 |
+| 2023-12-09 | 355,824 | 7 |
 ## Awards
 Max (Great for Beginners): 51  (Ranked 436)  
-Sum: 247 (Ranked 383)  
+Sum: 248 (Ranked 383)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -333,7 +333,7 @@ Diff (max vs sum): 53
 | This game has Diverse Characters | 29 |
 | This game has Quickly Understood Controls | 27 |
 | This game has Easy Combat | 25 |
-| This game has Amazing Storytelling | 20 |
+| This game has Amazing Storytelling | 21 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -450,3 +450,4 @@ Diff (max vs sum): 53
 | 2023-12-06 | 4.28 | 50 | 245 |
 | 2023-12-07 | 4.28 | 51 | 246 |
 | 2023-12-08 | 4.28 | 51 | 247 |
+| 2023-12-09 | 4.28 | 51 | 248 |

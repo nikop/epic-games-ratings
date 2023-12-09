@@ -19,6 +19,7 @@ Rating: 3.45 (Ranked 1,058)
 | ICU | 2.00% | ~36 |
 | Sucks To Be You | 2.00% | ~36 |
 | Wounded Whispers | 2.00% | ~36 |
+| Heart Attack | 2.00% | ~36 |
 | Skin of Their Teeth | 2.00% | ~36 |
 | Neighborhood Revitalization | 1.00% | ~18 |
 | Bad Wiring | 1.00% | ~18 |
@@ -28,9 +29,8 @@ Rating: 3.45 (Ranked 1,058)
 | Silence Is Golden | 1.00% | ~18 |
 | Good Morning | 1.00% | ~18 |
 | From the Shadows | 1.00% | ~18 |
-| Heart Attack | 1.00% | ~18 |
 | Harvest’s End | 1.00% | ~18 |
-| Helping Hand | 0.90% | ~16 |
+| Helping Hand | 1.00% | ~18 |
 | Contingency Plans | 0.70% | ~12 |
 | Starve the Beast | 0.70% | ~12 |
 | Nice Try | 0.70% | ~12 |

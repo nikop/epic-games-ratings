@@ -6,24 +6,24 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~21,619 |
-| It wakes | 2.00% | ~21,619 |
-| Skillful | 2.00% | ~21,619 |
-| No one left behind | 1.00% | ~10,809 |
-| Handyman | 1.00% | ~10,809 |
-| Not half bad | 1.00% | ~10,809 |
-| Apt Survivor | 1.00% | ~10,809 |
-| Survival Treasures | 1.00% | ~10,809 |
-| I | 1.00% | ~10,809 |
-| Sorted | 1.00% | ~10,809 |
-| Resurgence | 1.00% | ~10,809 |
-| Preemptive Strike | 1.00% | ~10,809 |
-| Make Some Noise | 1.00% | ~10,809 |
-| The Grand Sacrifice | 0.90% | ~9,728 |
-| Medic | 0.90% | ~9,728 |
-| Bloody Millionaire | 0.90% | ~9,728 |
-| Healthy Obsession | 0.90% | ~9,728 |
-| Humanitarian | 0.90% | ~9,728 |
+| Zealous | 2.00% | ~21,620 |
+| It wakes | 2.00% | ~21,620 |
+| Skillful | 2.00% | ~21,620 |
+| No one left behind | 1.00% | ~10,810 |
+| Handyman | 1.00% | ~10,810 |
+| Not half bad | 1.00% | ~10,810 |
+| Apt Survivor | 1.00% | ~10,810 |
+| Survival Treasures | 1.00% | ~10,810 |
+| I | 1.00% | ~10,810 |
+| Sorted | 1.00% | ~10,810 |
+| Resurgence | 1.00% | ~10,810 |
+| Preemptive Strike | 1.00% | ~10,810 |
+| Make Some Noise | 1.00% | ~10,810 |
+| The Grand Sacrifice | 0.90% | ~9,729 |
+| Medic | 0.90% | ~9,729 |
+| Bloody Millionaire | 0.90% | ~9,729 |
+| Healthy Obsession | 0.90% | ~9,729 |
+| Humanitarian | 0.90% | ~9,729 |
 | Agonizing Escape | 0.80% | ~8,648 |
 | Backdoor Escape | 0.80% | ~8,648 |
 | Perfect Escape | 0.80% | ~8,648 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,081 |
 | Adept Good Guy | 0.10% | ~1,081 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,080,944 (Ranked 14)  
+Progressed: 1,081,025 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -472,15 +472,15 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-06 | 1,075,348 | 61 |
 | 2023-12-07 | 1,077,876 | 61 |
 | 2023-12-08 | 1,080,483 | 61 |
-| 2023-12-09 | 1,080,944 | 61 |
+| 2023-12-09 | 1,081,025 | 61 |
 ## Awards
 Max (Diverse Characters): 37,578  (Ranked 15)  
-Sum: 284,619 (Ranked 12)  
+Sum: 284,670 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37,578 |
-| This game is Highly Recommended | 32,545 |
+| This game is Highly Recommended | 32,596 |
 | This game has Amazing Characters | 32,069 |
 | This game has Competitive Players | 31,889 |
 | This game is Extremely Fun | 31,522 |
@@ -812,4 +812,4 @@ Diff (max vs sum): 3
 | 2023-12-06 | 4.51 | - | 37,449 | 283,748 |
 | 2023-12-07 | 4.51 | - | 37,449 | 284,097 |
 | 2023-12-08 | 4.51 | - | 37,508 | 284,549 |
-| 2023-12-09 | 4.51 | - | 37,578 | 284,619 |
+| 2023-12-09 | 4.51 | - | 37,578 | 284,670 |

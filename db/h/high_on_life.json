@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24662,
+  "EOS_Progressed": 24663,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7343,6 +7343,11 @@
       "Time": "2023-12-08T16:06:29.0216736+00:00",
       "NumProgressed": 24662,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-09T04:06:01.5860477+00:00",
+      "NumProgressed": 24663,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -7402,7 +7407,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -7442,7 +7447,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -7482,7 +7487,7 @@
       "Name": "First Bounty Down",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -7514,7 +7519,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -7705,13 +7710,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24662,
+      "Progressed": 24663,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1955,
+      "Progressed": 1956,
       "Completed": 1376
     }
   ],
@@ -7719,8 +7724,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-12-09T03:07:14.632656+00:00",
+  "LastChanged_Achievements": "2023-12-09T04:06:01.5860475+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:04.790571+00:00",
-  "LastUpdate_Ratings": "2023-12-09T02:59:24.7541625+00:00",
-  "LastUpdate_Achievements": "2023-12-09T03:07:14.6327188+00:00"
+  "LastUpdate_Ratings": "2023-12-09T03:58:41.040745+00:00",
+  "LastUpdate_Achievements": "2023-12-09T04:06:01.5860944+00:00"
 }

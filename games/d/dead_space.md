@@ -11,14 +11,14 @@ Rating: 4.64 (Ranked 337)
 | All Systems Go | 67.00% | ~1,465 |
 | Brute Force | 67.00% | ~1,465 |
 | Cannon Fodder | 63.00% | ~1,378 |
-| Autofire | 58.00% | ~1,268 |
+| Autofire | 59.00% | ~1,290 |
 | True Believer | 58.00% | ~1,268 |
 | Story Teller | 57.00% | ~1,247 |
 | Raise the Stakes | 56.00% | ~1,225 |
 | Surgeon | 54.00% | ~1,181 |
 | Exterminator | 53.00% | ~1,159 |
+| Greenhouse Effect | 53.00% | ~1,159 |
 | Freeze | 52.00% | ~1,137 |
-| Greenhouse Effect | 52.00% | ~1,137 |
 | S.O.S. | 47.00% | ~1,028 |
 | Full Arsenal | 46.00% | ~1,006 |
 | Get Off My Ship! | 45.00% | ~984 |

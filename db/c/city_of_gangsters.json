@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -818,10 +818,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 247,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-12-09T03:58:10.9802898+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 248,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 247,
+  "NumberOfAwards": 248,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -871,7 +877,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Unique Visuals",
@@ -880,9 +886,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 355819,
+  "EOS_Progressed": 355824,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 979,
+  "EOS_NewPlayers": 980,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27330,6 +27336,11 @@
       "Time": "2023-12-09T03:03:55.5959537+00:00",
       "NumProgressed": 355819,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-09T04:03:28.6391981+00:00",
+      "NumProgressed": 355824,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -27357,7 +27368,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42698
+      "UsersEstimate": 42699
     },
     {
       "ID": "ach004",
@@ -27397,7 +27408,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42698
+      "UsersEstimate": 42699
     },
     {
       "ID": "ach009",
@@ -27445,7 +27456,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53373
+      "UsersEstimate": 53374
     },
     {
       "ID": "ach015",
@@ -27469,7 +27480,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46256
+      "UsersEstimate": 46257
     },
     {
       "ID": "ach018",
@@ -27549,7 +27560,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163677
+      "UsersEstimate": 163679
     },
     {
       "ID": "ach028",
@@ -27565,7 +27576,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39140
+      "UsersEstimate": 39141
     },
     {
       "ID": "ach030",
@@ -27677,7 +27688,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24907
+      "UsersEstimate": 24908
     },
     {
       "ID": "ach044",
@@ -27693,7 +27704,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46256
+      "UsersEstimate": 46257
     },
     {
       "ID": "ach046",
@@ -27701,7 +27712,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24907
+      "UsersEstimate": 24908
     },
     {
       "ID": "ach047",
@@ -27741,7 +27752,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39140
+      "UsersEstimate": 39141
     },
     {
       "ID": "ach052",
@@ -27869,7 +27880,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56931
+      "UsersEstimate": 56932
     },
     {
       "ID": "ach069",
@@ -27949,7 +27960,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24907
+      "UsersEstimate": 24908
     },
     {
       "ID": "ach079",
@@ -27980,16 +27991,16 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 355819,
+      "Progressed": 355824,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2023-12-08T21:58:46.3653403+00:00",
-  "LastChanged_Achievements": "2023-12-09T03:03:55.5959533+00:00",
+  "LastChanged": "2023-12-09T03:58:10.9802896+00:00",
+  "LastChanged_Achievements": "2023-12-09T04:03:28.6391979+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:09.0169735+00:00",
-  "LastUpdate_Ratings": "2023-12-09T02:58:41.7304529+00:00",
-  "LastUpdate_Achievements": "2023-12-09T03:03:55.5961248+00:00"
+  "LastUpdate_Ratings": "2023-12-09T03:58:10.9802901+00:00",
+  "LastUpdate_Achievements": "2023-12-09T04:03:28.639351+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.68 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,707 |
-| On the Top Step | 89.00% | ~5,403 |
-| Setting up for Success | 79.00% | ~4,796 |
-| Team Orders | 76.00% | ~4,614 |
+| Getting on the Step | 94.00% | ~5,708 |
+| On the Top Step | 89.00% | ~5,404 |
+| Setting up for Success | 79.00% | ~4,797 |
+| Team Orders | 76.00% | ~4,615 |
 | Engineer | 56.00% | ~3,400 |
 | Familiar Faces | 49.00% | ~2,975 |
-| Sharing the Love | 44.00% | ~2,671 |
+| Sharing the Love | 44.00% | ~2,672 |
 | Going the Extra Mile | 43.00% | ~2,611 |
 | Hitting a Season | 42.00% | ~2,550 |
 | A Dozen Pieces | 35.00% | ~2,125 |
 | Challenge Yourself | 34.00% | ~2,064 |
 | Making History | 32.00% | ~1,943 |
 | Network Success | 29.00% | ~1,761 |
-| Writing a new Chapter | 26.00% | ~1,578 |
+| Writing a new Chapter | 26.00% | ~1,579 |
 | Spring Cleaning | 24.00% | ~1,457 |
 | Reduce | 21.00% | ~1,275 |
 | Ups and Downs | 21.00% | ~1,275 |
@@ -27,8 +27,8 @@ Rating: 4.68 (Ranked 258)
 | Proving Them Wrong | 18.00% | ~1,093 |
 | Gathering Dust | 17.00% | ~1,032 |
 | One for the Book | 17.00% | ~1,032 |
-| Oil and Water | 16.00% | ~971 |
-| Hitting a Bullseye | 16.00% | ~971 |
+| Oil and Water | 16.00% | ~972 |
+| Hitting a Bullseye | 16.00% | ~972 |
 | Lightning Round the World | 15.00% | ~911 |
 | Spinning Around | 14.00% | ~850 |
 | Eagle Eye | 13.00% | ~789 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 258)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,071 (Ranked 186)  
+Progressed: 6,072 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 6,050 | 0 |
 | 2023-12-07 | 6,064 | 0 |
 | 2023-12-08 | 6,069 | 0 |
-| 2023-12-09 | 6,071 | 0 |
+| 2023-12-09 | 6,072 | 0 |
 ## Awards
 Max (Diverse Characters): 35  (Ranked 481)  
 Sum: 179 (Ranked 414)  

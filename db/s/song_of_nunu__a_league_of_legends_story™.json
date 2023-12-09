@@ -2,12 +2,12 @@
   "ID": "c7ab6cc723fe4bc6b24237d61b58687b",
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
-  "Ranking_Rating": 316,
+  "Ranking_Rating": 317,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -2550,9 +2550,9 @@
       "ID": "EV_ACH05",
       "SetID": "6jeac23",
       "Name": "Tear of Freedom",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 585
     },
     {
       "ID": "EV_ACH06",
@@ -2879,8 +2879,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-07T18:57:06.0810635+00:00",
-  "LastChanged_Achievements": "2023-12-09T03:10:16.5014501+00:00",
+  "LastChanged_Achievements": "2023-12-09T04:09:28.9073484+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:30.6562338+00:00",
-  "LastUpdate_Ratings": "2023-12-09T02:58:01.8126224+00:00",
-  "LastUpdate_Achievements": "2023-12-09T03:10:16.5014838+00:00"
+  "LastUpdate_Ratings": "2023-12-09T03:57:41.8887641+00:00",
+  "LastUpdate_Achievements": "2023-12-09T04:09:28.907391+00:00"
 }

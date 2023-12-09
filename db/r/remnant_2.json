@@ -5355,9 +5355,9 @@
       "Count": 412
     }
   ],
-  "EOS_Progressed": 237122,
+  "EOS_Progressed": 237150,
   "EOS_Completed": 572,
-  "EOS_NewPlayers": 4731,
+  "EOS_NewPlayers": 4724,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22085,6 +22085,11 @@
       "Time": "2023-12-09T03:09:22.5307802+00:00",
       "NumProgressed": 237122,
       "NumCompleted": 572
+    },
+    {
+      "Time": "2023-12-09T04:08:46.661816+00:00",
+      "NumProgressed": 237150,
+      "NumCompleted": 572
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22113,7 +22118,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -22241,7 +22246,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "Meet_Flautist",
@@ -22257,7 +22262,7 @@
       "Name": "Equal Measures",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "Meet_Mudtooth",
@@ -22273,7 +22278,7 @@
       "Name": "Blue Goddess",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "Obtain_Archetype",
@@ -22289,7 +22294,7 @@
       "Name": "Duality",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -22297,7 +22302,7 @@
       "Name": "Top Performer",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -22305,7 +22310,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -22321,7 +22326,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -22441,7 +22446,7 @@
       "Name": "Almost There",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "Upgrade_Relic",
@@ -22449,7 +22454,7 @@
       "Name": "Make Some Room",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -22457,7 +22462,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -22497,7 +22502,7 @@
       "Name": "Regicide",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -22513,7 +22518,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -22536,22 +22541,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 237122,
+      "Progressed": 237150,
       "Completed": 572
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 16287,
-      "Completed": 215
+      "Progressed": 16315,
+      "Completed": 216
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-09T01:48:04.4126534+00:00",
-  "LastChanged_Achievements": "2023-12-09T03:09:22.5307797+00:00",
+  "LastChanged_Achievements": "2023-12-09T04:08:46.6618159+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-09T03:03:23.1065365+00:00",
-  "LastUpdate_Achievements": "2023-12-09T03:09:22.5309491+00:00"
+  "LastUpdate_Ratings": "2023-12-09T04:03:03.2002649+00:00",
+  "LastUpdate_Achievements": "2023-12-09T04:08:46.6619093+00:00"
 }
