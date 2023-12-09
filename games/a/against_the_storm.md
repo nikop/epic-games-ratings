@@ -6,20 +6,20 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 3.00% | ~532 |
-| Overgrown Library | 3.00% | ~532 |
-| Petrified Necropolis | 3.00% | ~532 |
+| Abandoned Settlement | 3.00% | ~533 |
+| Overgrown Library | 3.00% | ~533 |
+| Petrified Necropolis | 3.00% | ~533 |
 | Frosts | 2.00% | ~355 |
 | Land of Greed | 2.00% | ~355 |
 | Ominous Presence | 2.00% | ~355 |
 | Gathering Storm | 2.00% | ~355 |
 | Untamed Wilds | 2.00% | ~355 |
+| No Deaths | 0.80% | ~142 |
 | The Marshlands | 0.70% | ~124 |
-| No Deaths | 0.70% | ~124 |
-| Overcoming Difficulty | 0.60% | ~106 |
-| Coral Forest | 0.60% | ~106 |
-| The Scarlet Orchard | 0.60% | ~106 |
-| Taking Action | 0.60% | ~106 |
+| Taking Action | 0.70% | ~124 |
+| Overcoming Difficulty | 0.60% | ~107 |
+| Coral Forest | 0.60% | ~107 |
+| The Scarlet Orchard | 0.60% | ~107 |
 | First Real Expedition | 0.50% | ~89 |
 | Fertile Meadows | 0.50% | ~89 |
 | Watchtower | 0.50% | ~89 |
@@ -28,6 +28,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 0.40% | ~71 |
 | Homesick | 0.30% | ~53 |
 | Ruined Armory | 0.30% | ~53 |
+| Barren Lands | 0.30% | ~53 |
 | Ancient Battleground | 0.30% | ~53 |
 | Sparkdew Crystals | 0.30% | ~53 |
 | Levitating Monument | 0.30% | ~53 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fox Utopia | 0.30% | ~53 |
 | Serving Ale | 0.20% | ~36 |
 | Against All Odds | 0.20% | ~36 |
-| Barren Lands | 0.20% | ~36 |
 | Dangerous Lands | 0.20% | ~36 |
 | Fishmen Ritual Site | 0.20% | ~36 |
 | Haunted Forest | 0.20% | ~36 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,750 (Ranked 146)  
+Progressed: 17,754 (Ranked 146)  
 Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 43 (0.24%) (Ranked 251)
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
-| 2023-12-09 | 17,750 | 43 |
+| 2023-12-09 | 17,754 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,245 (Ranked 174)  

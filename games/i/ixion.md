@@ -21,7 +21,7 @@ Rating: 4.57 (Ranked 481)
 | Breaking Protocol | 12.00% | ~410 |
 | Hope Seeker | 12.00% | ~410 |
 | A Hunk of Junk | 11.00% | ~376 |
-| Man's Best Friend | 9.00% | ~307 |
+| Man's Best Friend | 9.00% | ~308 |
 | Power Outage | 8.00% | ~273 |
 | Convenient Transport | 8.00% | ~273 |
 | Please Make it Stop! | 8.00% | ~273 |
@@ -39,10 +39,10 @@ Rating: 4.57 (Ranked 481)
 | In Dolos We Trust | 4.00% | ~137 |
 | Pedal to the Metal | 4.00% | ~137 |
 | Drill-dozer | 4.00% | ~137 |
-| Praise the Hull! | 3.00% | ~102 |
-| Delivery! | 3.00% | ~102 |
-| Help of the Forgotten Member | 3.00% | ~102 |
-| Pulsar Disciple | 3.00% | ~102 |
+| Praise the Hull! | 3.00% | ~103 |
+| Delivery! | 3.00% | ~103 |
+| Help of the Forgotten Member | 3.00% | ~103 |
+| Pulsar Disciple | 3.00% | ~103 |
 | Mutual Loyalty | 2.00% | ~68 |
 | Tiqqun Contender | 2.00% | ~68 |
 | Catastrophe Avoided | 2.00% | ~68 |
@@ -53,7 +53,7 @@ Rating: 4.57 (Ranked 481)
 | You Had One Job... | 1.00% | ~34 |
 | Gregor Spinoza | 1.00% | ~34 |
 | Scientifically Accurate | 1.00% | ~34 |
-| Work Harder | 0.60% | ~20 |
+| Work Harder | 0.60% | ~21 |
 | Crunch Culture | 0.40% | ~14 |
 | Soylent Green | 0.40% | ~14 |
 | A Junker's Dream | 0.30% | ~10 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 481)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,416 (Ranked 207)  
+Progressed: 3,417 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,6 +287,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 3,410 | 0 |
 | 2023-12-07 | 3,413 | 0 |
 | 2023-12-08 | 3,416 | 0 |
+| 2023-12-09 | 3,417 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

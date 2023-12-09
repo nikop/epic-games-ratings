@@ -6,8 +6,8 @@ Rating: 4.54 (Ranked 533)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 3.00% | ~21,966 |
-| Whatever It Takes | 3.00% | ~1,732 |
-| Pork Chopped | 3.00% | ~1,732 |
+| Whatever It Takes | 3.00% | ~1,733 |
+| Pork Chopped | 3.00% | ~1,733 |
 | Dr. Reed, I Presume? | 2.00% | ~14,644 |
 | Git Gutte! | 2.00% | ~14,644 |
 | Anger Management | 2.00% | ~14,644 |
@@ -37,27 +37,27 @@ Rating: 4.54 (Ranked 533)
 | Max Headroom | 1.00% | ~7,322 |
 | Our True Nature | 1.00% | ~7,322 |
 | Down with the Sickness | 0.90% | ~6,590 |
-| Not Even My Final Form | 0.80% | ~5,857 |
-| Jumbo Keyring | 0.80% | ~5,857 |
-| Go, Bobcats! | 0.80% | ~5,857 |
-| Rising Star | 0.80% | ~5,857 |
+| Not Even My Final Form | 0.80% | ~5,858 |
+| Jumbo Keyring | 0.80% | ~5,858 |
+| Go, Bobcats! | 0.80% | ~5,858 |
+| Rising Star | 0.80% | ~5,858 |
 | On Safari | 0.60% | ~4,393 |
 | Smorgasbord | 0.60% | ~4,393 |
 | Internet Famous | 0.60% | ~4,393 |
 | Variety is the Spice of Death | 0.60% | ~4,393 |
 | Make it So | 0.50% | ~3,661 |
-| LA Influential | 0.40% | ~2,929 |
+| LA Influential | 0.50% | ~3,661 |
 | Sole Survivor | 0.40% | ~2,929 |
 | Gore Horse | 0.40% | ~2,929 |
 | Sharpest Tool in the Box | 0.40% | ~2,929 |
 | Top That, Tisha! | 0.40% | ~231 |
 | Survival Skills | 0.20% | ~1,464 |
-| Lawn and Order | 0.20% | ~115 |
+| Lawn and Order | 0.20% | ~116 |
 | Donk! | 0.10% | ~732 |
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,187 (Ranked 21)  
+Progressed: 732,212 (Ranked 21)  
 Completed: 2,467 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 2,467 (0.34%) (Ranked 234)
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
-| 2023-12-09 | 732,187 | 2,467 |
+| 2023-12-09 | 732,212 | 2,467 |
 ## Awards
 Max (Great Boss Battles): 8,017  (Ranked 49)  
 Sum: 12,328 (Ranked 82)  

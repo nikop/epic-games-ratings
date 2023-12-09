@@ -2,12 +2,12 @@
   "ID": "40c34bea9cd0460589c867f6a7246342",
   "Name": "Batman Arkham City Game of the Year Edition",
   "ProductSlug": "batman-arkham-city",
-  "Ranking_Rating": 97,
+  "Ranking_Rating": 98,
   "Ranking_Popularity": 127,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2012-09-07T15:00:00+00:00",
@@ -2179,6 +2179,6 @@
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
   "LastChanged": "2023-12-08T23:57:24.0583531+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:16.670668+00:00",
-  "LastUpdate_Ratings": "2023-12-09T10:57:55.7251028+00:00",
-  "LastUpdate_Achievements": "2023-12-09T11:07:59.4953465+00:00"
+  "LastUpdate_Ratings": "2023-12-09T11:57:49.5414844+00:00",
+  "LastUpdate_Achievements": "2023-12-09T12:08:04.1323857+00:00"
 }

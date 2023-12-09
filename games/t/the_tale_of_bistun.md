@@ -26,12 +26,12 @@
 | Shoo! Shoo! | 60.00% | ~15 |
 | At One With Nature | 60.00% | ~15 |
 | Prison Break | 56.00% | ~14 |
+| Nature's Savior | 56.00% | ~14 |
+| Hammer It Home | 56.00% | ~14 |
 | I Pick You | 52.00% | ~13 |
 | Accomplished Smithy | 52.00% | ~13 |
-| Nature's Savior | 52.00% | ~13 |
-| Hammer It Home | 52.00% | ~13 |
+| The Ultimate Sacrifice | 52.00% | ~13 |
 | The Blight's Blight | 48.00% | ~12 |
-| The Ultimate Sacrifice | 48.00% | ~12 |
 | For Whom the Bell Tolls | 44.00% | ~11 |
 | Here I Am | 44.00% | ~11 |
 | Break The Cycle | 40.00% | ~10 |

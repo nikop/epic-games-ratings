@@ -10871,17 +10871,17 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1354
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 921
+      "UsersEstimate": 975
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -10975,8 +10975,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-06T15:59:42.180054+00:00",
-  "LastChanged_Achievements": "2023-12-09T11:07:26.4513418+00:00",
+  "LastChanged_Achievements": "2023-12-09T12:07:31.4691446+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-09T11:02:32.2627775+00:00",
-  "LastUpdate_Achievements": "2023-12-09T11:07:26.4514298+00:00"
+  "LastUpdate_Ratings": "2023-12-09T12:02:40.7107628+00:00",
+  "LastUpdate_Achievements": "2023-12-09T12:07:31.4692066+00:00"
 }

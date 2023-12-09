@@ -174,9 +174,9 @@
       "ID": "ACH_FIRST-PAYCHECK",
       "SetID": "6lg1p1e",
       "Name": "First Paycheck",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_FRIENEMY",
@@ -366,9 +366,9 @@
       "ID": "ACH_WHACK-A-MOLE",
       "SetID": "6lg1p1e",
       "Name": "Whack-a-mole",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ZEN-MASTER",
@@ -389,8 +389,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-09T11:06:44.3499403+00:00",
+  "LastChanged_Achievements": "2023-12-09T12:06:50.6042123+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.6928375+00:00",
-  "LastUpdate_Ratings": "2023-12-09T10:57:17.1214032+00:00",
-  "LastUpdate_Achievements": "2023-12-09T11:06:44.349967+00:00"
+  "LastUpdate_Ratings": "2023-12-09T11:57:10.8281607+00:00",
+  "LastUpdate_Achievements": "2023-12-09T12:06:50.6042343+00:00"
 }

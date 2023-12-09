@@ -7395,9 +7395,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 732187,
+  "EOS_Progressed": 732212,
   "EOS_Completed": 2467,
-  "EOS_NewPlayers": 3299,
+  "EOS_NewPlayers": 3291,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -34115,6 +34115,11 @@
       "Time": "2023-12-09T11:09:10.5893564+00:00",
       "NumProgressed": 732187,
       "NumCompleted": 2467
+    },
+    {
+      "Time": "2023-12-09T12:09:33.5333545+00:00",
+      "NumProgressed": 732212,
+      "NumCompleted": 2467
     }
   ],
   "TotalAchievements": 51,
@@ -34164,9 +34169,9 @@
       "ID": "ach_big_name_in_town",
       "SetID": "7km39fm",
       "Name": "LA Influential",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 2929
+      "UsersEstimate": 3661
     },
     {
       "ID": "ach_blueprinted",
@@ -34262,7 +34267,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5857
+      "UsersEstimate": 5858
     },
     {
       "ID": "ach_hazardous_materials",
@@ -34318,7 +34323,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5857
+      "UsersEstimate": 5858
     },
     {
       "ID": "ach_knock_down",
@@ -34430,7 +34435,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5857
+      "UsersEstimate": 5858
     },
     {
       "ID": "ach_thesacrifice",
@@ -34470,7 +34475,7 @@
       "Name": "Rising Star",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 5857
+      "UsersEstimate": 5858
     },
     {
       "ID": "ach_well_trained",
@@ -34494,7 +34499,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "ach_gardening_tools",
@@ -34502,7 +34507,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_pork_chops",
@@ -34510,7 +34515,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -34533,22 +34538,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 732187,
+      "Progressed": 732212,
       "Completed": 2467
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 57729,
-      "Completed": 36644
+      "Progressed": 57754,
+      "Completed": 36645
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-09T03:59:05.9248215+00:00",
-  "LastChanged_Achievements": "2023-12-09T11:09:10.589356+00:00",
+  "LastChanged_Achievements": "2023-12-09T12:09:33.5333541+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-09T11:00:39.8842103+00:00",
-  "LastUpdate_Achievements": "2023-12-09T11:09:10.5895808+00:00"
+  "LastUpdate_Ratings": "2023-12-09T12:00:30.1617969+00:00",
+  "LastUpdate_Achievements": "2023-12-09T12:09:33.5335034+00:00"
 }

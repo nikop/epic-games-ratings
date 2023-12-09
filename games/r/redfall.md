@@ -31,7 +31,7 @@ Rating: 3.45 (Ranked 1,058)
 | From the Shadows | 1.00% | ~18 |
 | Harvest’s End | 1.00% | ~18 |
 | Helping Hand | 1.00% | ~18 |
-| Contingency Plans | 0.70% | ~12 |
+| Contingency Plans | 0.80% | ~14 |
 | Starve the Beast | 0.70% | ~12 |
 | Nice Try | 0.70% | ~12 |
 | Curious Finch | 0.70% | ~12 |

@@ -5293,10 +5293,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6691,
       "NumberOfAwardsMax": 2690
+    },
+    {
+      "Time": "2023-12-09T12:03:36.7343414+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6696,
+      "NumberOfAwardsMax": 2690
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6691,
+  "NumberOfAwards": 6696,
   "NumberOfAwardsMax": 2690,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5358,7 +5364,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 352
+      "Count": 357
     },
     {
       "Text": "This game is Relaxing",
@@ -5367,9 +5373,9 @@
       "Count": 412
     }
   ],
-  "EOS_Progressed": 237284,
+  "EOS_Progressed": 237310,
   "EOS_Completed": 572,
-  "EOS_NewPlayers": 4605,
+  "EOS_NewPlayers": 4584,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22137,6 +22143,11 @@
       "Time": "2023-12-09T11:09:27.9190866+00:00",
       "NumProgressed": 237284,
       "NumCompleted": 572
+    },
+    {
+      "Time": "2023-12-09T12:09:50.7481947+00:00",
+      "NumProgressed": 237310,
+      "NumCompleted": 572
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22149,7 +22160,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -22197,7 +22208,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -22253,7 +22264,7 @@
       "Name": "Not So Special Now",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -22269,7 +22280,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -22301,7 +22312,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "Meet_Meidra",
@@ -22381,7 +22392,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "Obtain_Guns_A",
@@ -22525,7 +22536,7 @@
       "Name": "Trait Chaser",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -22588,22 +22599,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 237284,
+      "Progressed": 237310,
       "Completed": 572
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 16449,
+      "Progressed": 16475,
       "Completed": 217
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-09T11:03:28.4166988+00:00",
-  "LastChanged_Achievements": "2023-12-09T11:09:27.9190862+00:00",
+  "LastChanged": "2023-12-09T12:03:36.7343412+00:00",
+  "LastChanged_Achievements": "2023-12-09T12:09:50.7481943+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-09T11:03:28.4167021+00:00",
-  "LastUpdate_Achievements": "2023-12-09T11:09:27.9192224+00:00"
+  "LastUpdate_Ratings": "2023-12-09T12:03:36.7343417+00:00",
+  "LastUpdate_Achievements": "2023-12-09T12:09:50.748307+00:00"
 }

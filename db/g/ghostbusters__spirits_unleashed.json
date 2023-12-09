@@ -4,7 +4,7 @@
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 574,
   "Ranking_Popularity": 251,
-  "Ranking_PopularitySum": 180,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 133,
@@ -3669,9 +3669,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32091,
+  "EOS_Progressed": 32093,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21814,6 +21814,11 @@
       "Time": "2023-12-09T11:04:14.7911107+00:00",
       "NumProgressed": 32091,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-09T12:04:22.1785526+00:00",
+      "NumProgressed": 32093,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21825,7 +21830,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "Animated",
@@ -21937,7 +21942,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "Escape_Artist",
@@ -22232,7 +22237,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32091,
+      "Progressed": 32093,
       "Completed": 69
     }
   ],
@@ -22240,8 +22245,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-09T10:57:08.0772814+00:00",
-  "LastChanged_Achievements": "2023-12-09T11:04:14.7911103+00:00",
+  "LastChanged_Achievements": "2023-12-09T12:04:22.178552+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.1930733+00:00",
-  "LastUpdate_Ratings": "2023-12-09T10:57:08.0772822+00:00",
-  "LastUpdate_Achievements": "2023-12-09T11:04:14.791317+00:00"
+  "LastUpdate_Ratings": "2023-12-09T11:57:01.952886+00:00",
+  "LastUpdate_Achievements": "2023-12-09T12:04:22.1786811+00:00"
 }

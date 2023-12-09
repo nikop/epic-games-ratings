@@ -6,14 +6,14 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 51.00% | ~4,740 |
-| You Shall Not Pass | 51.00% | ~4,740 |
-| Peak Performance | 46.00% | ~4,275 |
-| Avanti Savoia! | 44.00% | ~4,089 |
-| Mamma Mia! | 35.00% | ~3,253 |
-| Conrad von Hotzensocks | 32.00% | ~2,974 |
-| Gabriele D'Annunzio | 32.00% | ~2,974 |
-| Silver Lining | 27.00% | ~2,509 |
+| Tutti Eroi! | 51.00% | ~4,741 |
+| You Shall Not Pass | 51.00% | ~4,741 |
+| Peak Performance | 46.00% | ~4,276 |
+| Avanti Savoia! | 44.00% | ~4,090 |
+| Mamma Mia! | 35.00% | ~3,254 |
+| Conrad von Hotzensocks | 32.00% | ~2,975 |
+| Gabriele D'Annunzio | 32.00% | ~2,975 |
+| Silver Lining | 27.00% | ~2,510 |
 | Aurelio Baruzzi | 21.00% | ~1,952 |
 | Decimation | 20.00% | ~1,859 |
 | Donatello | 19.00% | ~1,766 |
@@ -24,15 +24,15 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 15.00% | ~1,394 |
 | The Lion of the Isonzo | 15.00% | ~1,394 |
 | Uomo Universale | 13.00% | ~1,208 |
-| Dirty Dozen | 12.00% | ~1,115 |
-| Shaken, Not Stirred | 12.00% | ~1,115 |
-| Die Bosniaken Kommen! | 11.00% | ~1,022 |
-| Machiavelli | 11.00% | ~1,022 |
-| Thus With A Kiss | 11.00% | ~1,022 |
-| The Devil's Paintbrush | 10.00% | ~929 |
-| Dante's Inferno | 9.00% | ~836 |
-| I Have the High Ground | 9.00% | ~836 |
-| Millenial | 9.00% | ~836 |
+| Dirty Dozen | 12.00% | ~1,116 |
+| Shaken, Not Stirred | 12.00% | ~1,116 |
+| Die Bosniaken Kommen! | 11.00% | ~1,023 |
+| Machiavelli | 11.00% | ~1,023 |
+| Thus With A Kiss | 11.00% | ~1,023 |
+| The Devil's Paintbrush | 10.00% | ~930 |
+| Dante's Inferno | 9.00% | ~837 |
+| I Have the High Ground | 9.00% | ~837 |
+| Millenial | 9.00% | ~837 |
 | The Show Must Go On | 8.00% | ~744 |
 | Tosca | 8.00% | ~744 |
 | 12th Bottle of the Isonzo | 6.00% | ~558 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~37 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,294 (Ranked 170)  
+Progressed: 9,296 (Ranked 170)  
 Completed: 10 (0.11%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 10 (0.11%) (Ranked 285)
 | 2023-12-06 | 9,253 | 10 |
 | 2023-12-07 | 9,268 | 10 |
 | 2023-12-08 | 9,288 | 10 |
-| 2023-12-09 | 9,294 | 10 |
+| 2023-12-09 | 9,296 | 10 |
 ## Awards
 Max (Diverse Characters): 39  (Ranked 464)  
 Sum: 325 (Ranked 362)  

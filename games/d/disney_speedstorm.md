@@ -1,19 +1,19 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.39 (Ranked 753)  
+Rating: 4.39 (Ranked 752)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~39,841 |
-| IT MAKES BOOM! | 7.00% | ~23,240 |
-| EXTRA BOOST | 5.00% | ~16,600 |
-| PROTECTED | 4.00% | ~13,280 |
-| PRO | 4.00% | ~13,280 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,960 |
-| AGGRESSIVE RACER | 3.00% | ~9,960 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,640 |
-| A TIGER'S FEAR | 2.00% | ~6,640 |
+| ROOKIE | 12.00% | ~39,844 |
+| IT MAKES BOOM! | 7.00% | ~23,243 |
+| EXTRA BOOST | 5.00% | ~16,602 |
+| PROTECTED | 4.00% | ~13,281 |
+| PRO | 4.00% | ~13,281 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,961 |
+| AGGRESSIVE RACER | 3.00% | ~9,961 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,641 |
+| A TIGER'S FEAR | 2.00% | ~6,641 |
 | TRAINING HARD | 1.00% | ~3,320 |
 | BE OUR GUEST | 1.00% | ~3,320 |
 | ACE SPEEDSTER | 1.00% | ~3,320 |
@@ -30,8 +30,8 @@ Rating: 4.39 (Ranked 753)
 | ACE TRICKSTER | 0.40% | ~1,328 |
 | PERFECTLY POISED | 0.30% | ~996 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 332,005 (Ranked 50)  
-Completed: 527 (0.16%) (Ranked 271)  
+Progressed: 332,037 (Ranked 50)  
+Completed: 528 (0.16%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,7 +259,7 @@ Completed: 527 (0.16%) (Ranked 271)
 | 2023-12-06 | 329,171 | 498 |
 | 2023-12-07 | 330,196 | 508 |
 | 2023-12-08 | 331,482 | 521 |
-| 2023-12-09 | 332,005 | 527 |
+| 2023-12-09 | 332,037 | 528 |
 ## Awards
 Max (Great for Beginners): 117  (Ranked 347)  
 Sum: 815 (Ranked 282)  

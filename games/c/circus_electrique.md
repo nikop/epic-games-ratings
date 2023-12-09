@@ -28,9 +28,9 @@ Number of Ratings: 22  (23.09.2022)
 | Marketing Manager | 11.00% | ~52 |
 | Circus Versus Circus | 9.00% | ~43 |
 | King of District 3 | 9.00% | ~43 |
+| Spirits High | 8.00% | ~38 |
 | Club Member | 7.00% | ~33 |
 | Hundred Percent Second | 7.00% | ~33 |
-| Spirits High | 7.00% | ~33 |
 | Mobile Infantry | 7.00% | ~33 |
 | Club Champion | 6.00% | ~29 |
 | Around the Clock | 5.00% | ~24 |

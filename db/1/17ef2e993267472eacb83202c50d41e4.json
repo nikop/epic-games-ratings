@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8674,
+  "EOS_Progressed": 8675,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8334,6 +8334,11 @@
       "Time": "2023-12-09T10:09:40.3218144+00:00",
       "NumProgressed": 8674,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T12:10:48.9982679+00:00",
+      "NumProgressed": 8675,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8346,7 +8351,7 @@
       "Name": "Upgraded Amplify Ability Damage to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ARUpgraded1",
@@ -8362,7 +8367,7 @@
       "Name": "Eliminated the Arachnid Terror",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "BDPurchased1",
@@ -8378,7 +8383,7 @@
       "Name": "Upgraded Biogenerative Implant to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "CEUpgraded1",
@@ -8458,7 +8463,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "GamesPlayed1",
@@ -8474,7 +8479,7 @@
       "Name": "Played 10 Matches",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "GamesPlayed100",
@@ -8514,7 +8519,7 @@
       "Name": "Eliminated the Golem",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "GrenadeLauncherUpgraded1",
@@ -8530,7 +8535,7 @@
       "Name": "Purchased Haste Aura",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "HASPurchased1",
@@ -8538,7 +8543,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "HAUpgraded1",
@@ -8546,7 +8551,7 @@
       "Name": "Upgraded Healing Amplifier to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "HGPurchased1",
@@ -8578,7 +8583,7 @@
       "Name": "Upgraded the Hand Cannon to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "HealingGunUpgraded1",
@@ -8586,7 +8591,7 @@
       "Name": "Upgraded the Healing Gun to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "IGPurchased1",
@@ -8594,7 +8599,7 @@
       "Name": "Purchased Ice Grenade",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "IHBUpgraded1",
@@ -8714,7 +8719,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "MaxTowersKilled6",
@@ -8754,7 +8759,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "NeutralKills200",
@@ -8842,7 +8847,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "SEUpgraded1",
@@ -8866,7 +8871,7 @@
       "Name": "Upgraded Sphere of Vitality to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "SPurchased1",
@@ -8937,7 +8942,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8674,
+      "Progressed": 8675,
       "Completed": 1
     }
   ],
@@ -8945,8 +8950,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-05T02:57:10.0290174+00:00",
-  "LastChanged_Achievements": "2023-12-09T11:10:27.7371473+00:00",
+  "LastChanged_Achievements": "2023-12-09T12:10:48.9982674+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.1858441+00:00",
-  "LastUpdate_Ratings": "2023-12-09T11:00:30.9677748+00:00",
-  "LastUpdate_Achievements": "2023-12-09T11:10:27.7372561+00:00"
+  "LastUpdate_Ratings": "2023-12-09T12:00:21.397941+00:00",
+  "LastUpdate_Achievements": "2023-12-09T12:10:48.9983582+00:00"
 }
