@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 22.94% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 22.93% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -67,8 +67,8 @@
 | 65 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
-| 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.25% |
-| 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
+| 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
+| 69 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.06% |
 | 70 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.68% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
@@ -97,19 +97,19 @@
 | 94 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.61% |
 | 96 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.33% |
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
-| 98 | [Destiny 2](games/d/destiny_2.md) | 3.20% |
+| 98 | [Destiny 2](games/d/destiny_2.md) | 3.21% |
 | 99 | [The Complex](games/t/the_complex.md) | 3.18% |
 | 100 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 100 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
 | 102 | [Doodle God](games/d/doodle_god.md) | 3.08% |
 | 102 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 104 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.06% |
-| 105 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.05% |
-| 106 | [HordeCore](games/h/hordecore.md) | 3.04% |
+| 105 | [HordeCore](games/h/hordecore.md) | 3.04% |
+| 105 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.04% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
-| 107 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.95% |
-| 109 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.94% |
-| 109 | [Without Escape](games/w/without_escape.md) | 2.94% |
+| 108 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.94% |
+| 108 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.94% |
+| 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 111 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 112 | [Night Book](games/n/night_book.md) | 2.79% |
 | 113 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
