@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~11,072 |
+| Throwing up Tags | 92.00% | ~11,073 |
 | Cool Whip | 90.00% | ~10,832 |
-| Fashion Killa | 88.00% | ~10,591 |
-| Drop the Beat | 86.00% | ~10,350 |
-| Hey Lakeshore | 85.00% | ~10,230 |
-| 100 Miles and Runnin' | 84.00% | ~10,109 |
-| Public Enemy | 82.00% | ~9,869 |
+| Fashion Killa | 88.00% | ~10,592 |
+| Drop the Beat | 86.00% | ~10,351 |
+| Hey Lakeshore | 85.00% | ~10,231 |
+| 100 Miles and Runnin' | 84.00% | ~10,110 |
+| Public Enemy | 82.00% | ~9,870 |
 | Rebel Without a Pause | 68.00% | ~8,184 |
 | Hey Speedie! | 68.00% | ~8,184 |
-| Most Wanted | 64.00% | ~7,702 |
+| Most Wanted | 64.00% | ~7,703 |
 | New Crew | 62.00% | ~7,462 |
 | Escape Artist | 54.00% | ~6,499 |
 | Serious Guap | 53.00% | ~6,379 |
 | Style it Out | 53.00% | ~6,379 |
-| Untouchable | 52.00% | ~6,258 |
+| Untouchable | 52.00% | ~6,259 |
 | Oh, It's On | 50.00% | ~6,018 |
-| Rydell's Rydes | 49.00% | ~5,897 |
-| Cash Money Millionaire | 46.00% | ~5,536 |
+| Rydell's Rydes | 49.00% | ~5,898 |
+| Cash Money Millionaire | 46.00% | ~5,537 |
 | Lake Better Watch Out | 40.00% | ~4,814 |
 | #Blessed | 34.00% | ~4,092 |
 | Access All Areas | 33.00% | ~3,972 |
@@ -29,7 +29,7 @@
 | In the Flow | 29.00% | ~3,490 |
 | The Collector | 29.00% | ~3,490 |
 | Kick it | 29.00% | ~3,490 |
-| Top Billin' | 21.00% | ~2,527 |
+| Top Billin' | 21.00% | ~2,528 |
 | Teacher's Pet | 20.00% | ~2,407 |
 | Full House | 18.00% | ~2,166 |
 | Superstar | 18.00% | ~2,166 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~241 |
 | Cleaning Up | 2.00% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,035 (Ranked 162)  
+Progressed: 12,036 (Ranked 162)  
 Completed: 52 (0.43%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,4 +131,4 @@ Completed: 52 (0.43%) (Ranked 220)
 | 2023-12-06 | 11,854 | 52 |
 | 2023-12-07 | 11,909 | 52 |
 | 2023-12-08 | 11,958 | 52 |
-| 2023-12-09 | 12,035 | 52 |
+| 2023-12-09 | 12,036 | 52 |

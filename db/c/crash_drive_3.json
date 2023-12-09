@@ -3,9 +3,9 @@
   "Name": "Crash Drive 3",
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 331,
-  "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 412,
+  "EOS_Progressed": 413,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.49,
+  "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:19.8064239+00:00",
@@ -624,6 +624,11 @@
       "Time": "2023-12-06T14:05:24.5050015+00:00",
       "NumProgressed": 412,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-09T23:07:13.3507864+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -659,7 +664,7 @@
       "Name": "Car-Tapult",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "COIN_COLLECT",
@@ -675,7 +680,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -683,7 +688,7 @@
       "Name": "A Starting Collector",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "COLLECT_500_COIN",
@@ -707,7 +712,7 @@
       "Name": "Special Forces",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CUSTOMIZATION_BANANA",
@@ -763,7 +768,7 @@
       "Name": "Disoriented",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -787,7 +792,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -811,7 +816,7 @@
       "Name": "Anger Issues",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -819,7 +824,7 @@
       "Name": "Pushover",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "HIT_ALIEN",
@@ -835,7 +840,7 @@
       "Name": "Take that Frosty!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -867,7 +872,7 @@
       "Name": "Best Friends!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "KING_CROWN",
@@ -899,7 +904,7 @@
       "Name": "A Forest Walk",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -977,9 +982,9 @@
       "ID": "USE_FERRY",
       "SetID": "20koof9",
       "Name": "Ferry Good!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 66
     },
     {
       "ID": "USE_ROCKET",
@@ -1027,7 +1032,7 @@
       "Name": "Beach Party!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "WIN_KING_HILL",
@@ -1067,14 +1072,14 @@
       "Name": "Blasting away!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 412,
+      "Progressed": 413,
       "Completed": 2
     }
   ],
@@ -1082,8 +1087,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-12-09T22:07:33.2976667+00:00",
+  "LastChanged_Achievements": "2023-12-09T23:07:13.3507859+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:14.6005473+00:00",
-  "LastUpdate_Ratings": "2023-12-09T21:57:46.0874854+00:00",
-  "LastUpdate_Achievements": "2023-12-09T22:07:33.2977085+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:57:32.1487428+00:00",
+  "LastUpdate_Achievements": "2023-12-09T23:07:13.3508224+00:00"
 }

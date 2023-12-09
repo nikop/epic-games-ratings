@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7590,
+  "EOS_Progressed": 7591,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6148,6 +6148,11 @@
       "Time": "2023-12-09T20:06:05.2188076+00:00",
       "NumProgressed": 7590,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-09T23:08:10.8589199+00:00",
+      "NumProgressed": 7591,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6167,7 +6172,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -6311,7 +6316,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4250
+      "UsersEstimate": 4251
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6374,15 +6379,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7590,
+      "Progressed": 7591,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-09T22:08:32.4386102+00:00",
+  "LastChanged_Achievements": "2023-12-09T23:08:10.8589193+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:23.3516207+00:00",
-  "LastUpdate_Ratings": "2023-12-09T22:04:05.659425+00:00",
-  "LastUpdate_Achievements": "2023-12-09T22:08:32.4386573+00:00"
+  "LastUpdate_Ratings": "2023-12-09T23:03:51.4487498+00:00",
+  "LastUpdate_Achievements": "2023-12-09T23:08:10.858962+00:00"
 }

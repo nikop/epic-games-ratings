@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 3695,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3395,9 +3395,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17802,
+  "EOS_Progressed": 17808,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15170,6 +15170,11 @@
       "Time": "2023-12-09T22:06:40.1292127+00:00",
       "NumProgressed": 17802,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-09T23:06:21.2411356+00:00",
+      "NumProgressed": 17808,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15268,9 +15273,9 @@
       "ID": "WinFirstGame",
       "SetID": "cfbk359",
       "Name": "First Real Expedition",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 125
     },
     {
       "ID": "WinHard",
@@ -15372,9 +15377,9 @@
       "ID": "WinNearLevitating",
       "SetID": "cfbk359",
       "Name": "Levitating Monument",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     },
     {
       "ID": "WinNearMines",
@@ -15653,15 +15658,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17802,
+      "Progressed": 17808,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-09T21:57:56.6166264+00:00",
-  "LastChanged_Achievements": "2023-12-09T22:06:40.1292122+00:00",
-  "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-09T21:57:56.6166274+00:00",
-  "LastUpdate_Achievements": "2023-12-09T22:06:40.1293188+00:00"
+  "LastChanged_Achievements": "2023-12-09T23:06:21.2411351+00:00",
+  "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
+  "LastUpdate_Ratings": "2023-12-09T22:57:41.8122985+00:00",
+  "LastUpdate_Achievements": "2023-12-09T23:06:21.2412504+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -623,9 +623,9 @@
       "ID": "finished-quest-sci",
       "SetID": "799afm0",
       "Name": "Knowledge is Power",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 201
     },
     {
       "ID": "finished-quest-secret",
@@ -703,9 +703,9 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 337
     },
     {
       "ID": "win-first-level",
@@ -776,8 +776,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-09T22:06:09.7176374+00:00",
+  "LastChanged_Achievements": "2023-12-09T23:05:51.9503931+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:04.3081443+00:00",
-  "LastUpdate_Ratings": "2023-12-09T22:02:06.5692016+00:00",
-  "LastUpdate_Achievements": "2023-12-09T22:06:09.7176678+00:00"
+  "LastUpdate_Ratings": "2023-12-09T23:01:45.0022326+00:00",
+  "LastUpdate_Achievements": "2023-12-09T23:05:51.9504126+00:00"
 }

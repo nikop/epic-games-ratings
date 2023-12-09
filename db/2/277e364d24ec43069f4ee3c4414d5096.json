@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116269,
+  "EOS_Progressed": 116271,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20704,6 +20704,11 @@
       "Time": "2023-12-09T22:10:48.4608526+00:00",
       "NumProgressed": 116269,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-09T23:10:22.0085454+00:00",
+      "NumProgressed": 116271,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20723,7 +20728,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89527
+      "UsersEstimate": 89529
     },
     {
       "ID": "EAwards_10",
@@ -20731,7 +20736,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13952
+      "UsersEstimate": 13953
     },
     {
       "ID": "EAwards_11",
@@ -20747,7 +20752,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17440
+      "UsersEstimate": 17441
     },
     {
       "ID": "EAwards_13",
@@ -20811,7 +20816,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55809
+      "UsersEstimate": 55810
     },
     {
       "ID": "EAwards_20",
@@ -21083,7 +21088,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13952
+      "UsersEstimate": 13953
     },
     {
       "ID": "EAwards_8",
@@ -21091,7 +21096,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13952
+      "UsersEstimate": 13953
     },
     {
       "ID": "EAwards_9",
@@ -21106,7 +21111,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116269,
+      "Progressed": 116271,
       "Completed": 51
     }
   ],
@@ -21114,8 +21119,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-09T22:10:48.4608517+00:00",
+  "LastChanged_Achievements": "2023-12-09T23:10:22.0085446+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.236213+00:00",
-  "LastUpdate_Ratings": "2023-12-09T22:00:44.8884384+00:00",
-  "LastUpdate_Achievements": "2023-12-09T22:10:48.4609521+00:00"
+  "LastUpdate_Ratings": "2023-12-09T23:00:24.6891118+00:00",
+  "LastUpdate_Achievements": "2023-12-09T23:10:22.0086766+00:00"
 }

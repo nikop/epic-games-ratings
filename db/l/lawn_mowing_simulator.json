@@ -5,10 +5,10 @@
   "Ranking_Rating": 979,
   "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 265,
-  "Ranking_EOS_Progress": 27,
+  "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2144,10 +2144,16 @@
       "Rating": 4.08,
       "NumberOfAwards": 989,
       "NumberOfAwardsMax": 182
+    },
+    {
+      "Time": "2023-12-09T22:58:11.4349203+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 990,
+      "NumberOfAwardsMax": 182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 989,
+  "NumberOfAwards": 990,
   "NumberOfAwardsMax": 182,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2173,7 +2179,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 166
+      "Count": 167
     },
     {
       "Text": "This game has Easy Combat",
@@ -2212,9 +2218,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 686993,
+  "EOS_Progressed": 687003,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1835,
+  "EOS_NewPlayers": 1825,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28962,6 +28968,11 @@
       "Time": "2023-12-09T22:11:11.2066781+00:00",
       "NumProgressed": 686993,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-09T23:10:44.2406196+00:00",
+      "NumProgressed": 687003,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -28973,7 +28984,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 542724
+      "UsersEstimate": 542732
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -29061,7 +29072,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 247317
+      "UsersEstimate": 247321
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -29213,7 +29224,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 212968
+      "UsersEstimate": 212971
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -29277,7 +29288,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 103049
+      "UsersEstimate": 103050
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -29373,7 +29384,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 123659
+      "UsersEstimate": 123661
     },
     {
       "ID": "RP_TRUSTED",
@@ -29389,7 +29400,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 61829
+      "UsersEstimate": 61830
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -29404,15 +29415,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 686993,
+      "Progressed": 687003,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
-  "LastChanged": "2023-12-04T01:47:13.5273281+00:00",
-  "LastChanged_Achievements": "2023-12-09T22:11:11.2066776+00:00",
+  "LastChanged": "2023-12-09T22:58:11.4349202+00:00",
+  "LastChanged_Achievements": "2023-12-09T23:10:44.2406193+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:37.2595451+00:00",
-  "LastUpdate_Ratings": "2023-12-09T21:58:26.4982924+00:00",
-  "LastUpdate_Achievements": "2023-12-09T22:11:11.2068286+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:58:11.4349207+00:00",
+  "LastUpdate_Achievements": "2023-12-09T23:10:44.240741+00:00"
 }

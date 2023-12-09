@@ -26,7 +26,7 @@ Number of Ratings: 36  (23.09.2022)
 | Solidarity Forever | 13.00% | ~126 |
 | A Tucked Tale | 10.00% | ~97 |
 | The best thing money can buy | 10.00% | ~97 |
-| Act III Complete | 6.00% | ~58 |
+| Act III Complete | 7.00% | ~68 |
 | Fire and Brimstone | 6.00% | ~58 |
 | See you Space Cowboy | 6.00% | ~58 |
 | Ghost in the Ship | 2.00% | ~19 |

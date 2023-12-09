@@ -5317,10 +5317,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6707,
       "NumberOfAwardsMax": 2690
+    },
+    {
+      "Time": "2023-12-09T23:03:57.832918+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6711,
+      "NumberOfAwardsMax": 2690
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6707,
+  "NumberOfAwards": 6711,
   "NumberOfAwardsMax": 2690,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5358,7 +5364,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 404
+      "Count": 408
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5391,9 +5397,9 @@
       "Count": 412
     }
   ],
-  "EOS_Progressed": 237609,
+  "EOS_Progressed": 237633,
   "EOS_Completed": 573,
-  "EOS_NewPlayers": 4470,
+  "EOS_NewPlayers": 4471,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22216,6 +22222,11 @@
       "Time": "2023-12-09T22:10:14.7551955+00:00",
       "NumProgressed": 237609,
       "NumCompleted": 573
+    },
+    {
+      "Time": "2023-12-09T23:09:49.5230956+00:00",
+      "NumProgressed": 237633,
+      "NumCompleted": 573
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22244,7 +22255,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -22372,7 +22383,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "Meet_Flautist",
@@ -22388,7 +22399,7 @@
       "Name": "Equal Measures",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "Meet_Mudtooth",
@@ -22404,7 +22415,7 @@
       "Name": "Blue Goddess",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "Obtain_Archetype",
@@ -22420,7 +22431,7 @@
       "Name": "Duality",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -22428,7 +22439,7 @@
       "Name": "Top Performer",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -22436,7 +22447,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -22452,7 +22463,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -22516,7 +22527,7 @@
       "Name": "Scrap Collector",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "Obtain_Scrap_B",
@@ -22572,7 +22583,7 @@
       "Name": "Almost There",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "Upgrade_Relic",
@@ -22580,7 +22591,7 @@
       "Name": "Make Some Room",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -22588,7 +22599,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -22667,22 +22678,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 237609,
+      "Progressed": 237633,
       "Completed": 573
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 16774,
-      "Completed": 224
+      "Progressed": 16798,
+      "Completed": 226
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-09T16:03:07.2644234+00:00",
-  "LastChanged_Achievements": "2023-12-09T22:10:14.7551949+00:00",
+  "LastChanged": "2023-12-09T23:03:57.8329179+00:00",
+  "LastChanged_Achievements": "2023-12-09T23:09:49.5230951+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-09T22:04:12.4359364+00:00",
-  "LastUpdate_Achievements": "2023-12-09T22:10:14.7552865+00:00"
+  "LastUpdate_Ratings": "2023-12-09T23:03:57.8329185+00:00",
+  "LastUpdate_Achievements": "2023-12-09T23:09:49.5232188+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~542,724 |
-| Every story has a beginning | 36.00% | ~247,317 |
-| The first of many | 31.00% | ~212,968 |
-| Positive word of mouth | 18.00% | ~123,659 |
-| Lawn in the U.S.A. | 15.00% | ~103,049 |
-| Blade Runner | 9.00% | ~61,829 |
+| The dream begins | 79.00% | ~542,732 |
+| Every story has a beginning | 36.00% | ~247,321 |
+| The first of many | 31.00% | ~212,971 |
+| Positive word of mouth | 18.00% | ~123,661 |
+| Lawn in the U.S.A. | 15.00% | ~103,050 |
+| Blade Runner | 9.00% | ~61,830 |
 | Credible | 7.00% | ~48,090 |
 | Teamwork makes the dream work | 6.00% | ~41,220 |
 | Where there's muck there's brass | 4.00% | ~27,480 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~687 |
 | Mo mowers, mo problems | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,993 (Ranked 27)  
+Progressed: 687,003 (Ranked 26)  
 Completed: 19 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,17 +294,17 @@ Completed: 19 (0.00%) (Ranked 371)
 | 2023-12-06 | 686,297 | 19 |
 | 2023-12-07 | 686,499 | 19 |
 | 2023-12-08 | 686,731 | 19 |
-| 2023-12-09 | 686,993 | 19 |
+| 2023-12-09 | 687,003 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 301)  
-Sum: 989 (Ranked 265)  
+Sum: 990 (Ranked 265)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 182 |
 | This game is Great for Beginners | 171 |
 | This game is Extremely Fun | 170 |
-| This game is Relaxing | 166 |
+| This game is Relaxing | 167 |
 | This game is Highly Recommended | 158 |
 | This game has Amazing Storytelling | 142 |
 | This game has Obsessive Gameplay | 55 |
@@ -410,3 +410,4 @@ Diff (max vs sum): 36
 | 2023-11-26 | 4.07 | - | 182 | 988 |
 | 2023-11-27 | 4.07 | - | 182 | 989 |
 | 2023-12-04 | 4.08 | - | 182 | 989 |
+| 2023-12-09 | 4.08 | - | 182 | 990 |

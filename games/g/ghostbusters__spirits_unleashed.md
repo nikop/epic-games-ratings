@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 595)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,889 |
+| Stylish | 9.00% | ~2,890 |
 | Advancement | 7.00% | ~2,247 |
 | Meticulously Efficient | 7.00% | ~2,247 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,605 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 595)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,103 (Ranked 124)  
+Progressed: 32,106 (Ranked 124)  
 Completed: 69 (0.21%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,15 +290,15 @@ Completed: 69 (0.21%) (Ranked 256)
 | 2023-12-06 | 32,004 | 69 |
 | 2023-12-07 | 32,036 | 69 |
 | 2023-12-08 | 32,068 | 69 |
-| 2023-12-09 | 32,103 | 69 |
+| 2023-12-09 | 32,106 | 69 |
 ## Awards
 Max (Great for Beginners): 321  (Ranked 251)  
-Sum: 2,891 (Ranked 179)  
+Sum: 2,893 (Ranked 179)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 321 |
-| This game is Great for Quick Sessions | 314 |
+| This game is Great for Quick Sessions | 316 |
 | This game has Diverse Characters | 301 |
 | This game has Amazing Storytelling | 288 |
 | This game is Highly Recommended | 287 |
@@ -546,4 +546,4 @@ Diff (max vs sum): 72
 | 2023-12-06 | 4.51 | 320 | 2,883 |
 | 2023-12-07 | 4.51 | 320 | 2,885 |
 | 2023-12-08 | 4.51 | 321 | 2,888 |
-| 2023-12-09 | 4.51 | 321 | 2,891 |
+| 2023-12-09 | 4.51 | 321 | 2,893 |

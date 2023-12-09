@@ -4,8 +4,8 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 642,
+  "EOS_Progressed": 643,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1194,6 +1194,11 @@
       "Time": "2023-12-08T14:09:05.413485+00:00",
       "NumProgressed": 642,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T23:09:57.2295842+00:00",
+      "NumProgressed": 643,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1221,15 +1226,15 @@
       "Name": "Fireball",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "DashDashDash",
       "SetID": "d9ekhim",
       "Name": "Be water, my friend",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 373
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -1499,9 +1504,9 @@
       "ID": "World3Boss",
       "SetID": "d9ekhim",
       "Name": "The King of Flat",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 296
     },
     {
       "ID": "World4Boss",
@@ -1517,7 +1522,7 @@
       "Name": "Eat That Apple",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "World6Boss",
@@ -1556,7 +1561,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 642,
+      "Progressed": 643,
       "Completed": 0
     }
   ],
@@ -1564,8 +1569,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-12-09T22:10:22.7175579+00:00",
+  "LastChanged_Achievements": "2023-12-09T23:09:57.2295838+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:23.0882526+00:00",
-  "LastUpdate_Ratings": "2023-12-09T22:04:02.7567698+00:00",
-  "LastUpdate_Achievements": "2023-12-09T22:10:22.7175874+00:00"
+  "LastUpdate_Ratings": "2023-12-09T23:03:48.7248606+00:00",
+  "LastUpdate_Achievements": "2023-12-09T23:09:57.2296126+00:00"
 }

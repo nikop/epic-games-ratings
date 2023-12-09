@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,455 |
-| Off to a good start | 66.00% | ~1,079 |
+| New Recruit | 89.00% | ~1,456 |
+| Off to a good start | 66.00% | ~1,080 |
 | Do... or do not. There is no try | 51.00% | ~834 |
-| A good blaster at your side | 30.00% | ~490 |
+| A good blaster at your side | 30.00% | ~491 |
 | I suggest a new strategy | 19.00% | ~311 |
 | Scrap collector | 18.00% | ~294 |
 | Great shot, kid! | 18.00% | ~294 |
@@ -21,7 +21,7 @@
 | Survivor | 9.00% | ~147 |
 | Never tell me the odds! | 8.00% | ~131 |
 | A cunning warrior | 8.00% | ~131 |
-| What's the cargo? | 7.00% | ~114 |
+| What's the cargo? | 7.00% | ~115 |
 | "Gonk? Gonk!" | 6.00% | ~98 |
 | Impressive. Most impressive. | 6.00% | ~98 |
 | Judge me by my size, do you? | 6.00% | ~98 |
@@ -35,9 +35,9 @@
 | Don't underestimate the Force | 4.00% | ~65 |
 | I've been waiting for you | 3.00% | ~49 |
 | When 900 years old you reach... | 3.00% | ~49 |
+| Determined | 3.00% | ~49 |
 | Your journey has only started | 3.00% | ~49 |
 | The Force is strong with this one | 2.00% | ~33 |
-| Determined | 2.00% | ~33 |
 | Precision shot | 2.00% | ~33 |
 | This is a new day, a new beginning | 2.00% | ~33 |
 | City in the Clouds | 2.00% | ~33 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,635 (Ranked 239)  
+Progressed: 1,636 (Ranked 239)  
 Completed: 1 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 1 (0.06%) (Ranked 313)
 | 2023-12-06 | 1,595 | 1 |
 | 2023-12-07 | 1,604 | 1 |
 | 2023-12-08 | 1,621 | 1 |
-| 2023-12-09 | 1,635 | 1 |
+| 2023-12-09 | 1,636 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -207,9 +207,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7639,
+  "EOS_Progressed": 7640,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6032,6 +6032,11 @@
       "Time": "2023-12-09T22:10:59.1868865+00:00",
       "NumProgressed": 7639,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-09T23:10:32.3017339+00:00",
+      "NumProgressed": 7640,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6084,7 +6089,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "Eavesdropper",
@@ -6116,7 +6121,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2215
+      "UsersEstimate": 2216
     },
     {
       "ID": "FuneralForTheDeath",
@@ -6236,7 +6241,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "TheQuarterback",
@@ -6315,7 +6320,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7639,
+      "Progressed": 7640,
       "Completed": 15
     }
   ],
@@ -6323,8 +6328,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-09T07:57:44.7970456+00:00",
-  "LastChanged_Achievements": "2023-12-09T22:10:59.1868859+00:00",
+  "LastChanged_Achievements": "2023-12-09T23:10:32.3017334+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-09T21:58:33.8565888+00:00",
-  "LastUpdate_Achievements": "2023-12-09T22:10:59.1869327+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:58:18.8706747+00:00",
+  "LastUpdate_Achievements": "2023-12-09T23:10:32.3017744+00:00"
 }

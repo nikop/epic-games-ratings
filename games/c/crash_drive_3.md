@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 30.00% | ~124 |
-| A Forest Walk | 29.00% | ~119 |
-| Baby's First Car | 28.00% | ~115 |
-| Pushover | 28.00% | ~115 |
-| Amateur Mechanic | 27.00% | ~111 |
+| A Forest Walk | 29.00% | ~120 |
+| Baby's First Car | 28.00% | ~116 |
+| Pushover | 28.00% | ~116 |
+| Amateur Mechanic | 27.00% | ~112 |
 | Multiply that! | 26.00% | ~107 |
 | C-C-C-Combo! | 25.00% | ~103 |
 | Fore! | 23.00% | ~95 |
@@ -23,22 +23,22 @@
 | You're it | 22.00% | ~91 |
 | First Come, First Serve | 21.00% | ~87 |
 | Goodbye cruel world | 21.00% | ~87 |
-| Car-Tapult | 20.00% | ~82 |
-| Disoriented | 20.00% | ~82 |
-| Anger Issues | 20.00% | ~82 |
-| Take that Frosty! | 20.00% | ~82 |
-| Beach Party! | 20.00% | ~82 |
+| Car-Tapult | 20.00% | ~83 |
+| Disoriented | 20.00% | ~83 |
+| Anger Issues | 20.00% | ~83 |
+| Take that Frosty! | 20.00% | ~83 |
+| Beach Party! | 20.00% | ~83 |
 | Your Highness | 19.00% | ~78 |
 | Event Amateur | 18.00% | ~74 |
 | Feeling Hot Hot Hot! | 17.00% | ~70 |
 | Feeling Dizzy? | 17.00% | ~70 |
-| Ferry Good! | 17.00% | ~70 |
 | Drift King! | 16.00% | ~66 |
+| Ferry Good! | 16.00% | ~66 |
 | Assert Dominance | 16.00% | ~66 |
 | Speed of light | 16.00% | ~66 |
 | Out of this League | 14.00% | ~58 |
-| Special Forces | 12.00% | ~49 |
-| Blasting away! | 12.00% | ~49 |
+| Special Forces | 12.00% | ~50 |
+| Blasting away! | 12.00% | ~50 |
 | Earth Defense Force | 11.00% | ~45 |
 | Toot Toot! | 11.00% | ~45 |
 | Rocketman | 11.00% | ~45 |
@@ -48,8 +48,8 @@
 | To war! | 6.00% | ~25 |
 | Hoarder | 6.00% | ~25 |
 | Event Master | 5.00% | ~21 |
-| A Starting Collector | 4.00% | ~16 |
-| Best Friends! | 4.00% | ~16 |
+| A Starting Collector | 4.00% | ~17 |
+| Best Friends! | 4.00% | ~17 |
 | My Precious | 3.00% | ~12 |
 | Apprentice Mechanic | 3.00% | ~12 |
 | 433 Eros | 3.00% | ~12 |
@@ -60,8 +60,8 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412 (Ranked 331)  
-Completed: 2 (0.49%) (Ranked 211)  
+Progressed: 413 (Ranked 331)  
+Completed: 2 (0.48%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -156,6 +156,7 @@ Completed: 2 (0.49%) (Ranked 211)
 | 2023-11-24 | 409 | 2 |
 | 2023-11-26 | 411 | 2 |
 | 2023-12-06 | 412 | 2 |
+| 2023-12-09 | 413 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

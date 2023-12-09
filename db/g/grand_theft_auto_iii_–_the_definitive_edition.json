@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -547,9 +547,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8771,
+  "EOS_Progressed": 8772,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -11857,6 +11857,11 @@
       "Time": "2023-12-09T21:06:37.1698423+00:00",
       "NumProgressed": 8771,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-09T23:07:53.3710888+00:00",
+      "NumProgressed": 8772,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -11868,7 +11873,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7280
+      "UsersEstimate": 7281
     },
     {
       "ID": "ACH02",
@@ -11908,7 +11913,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "ACH07",
@@ -11988,7 +11993,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "ACH17",
@@ -12099,7 +12104,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8771,
+      "Progressed": 8772,
       "Completed": 60
     }
   ],
@@ -12107,8 +12112,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-04T13:04:00.769343+00:00",
-  "LastChanged_Achievements": "2023-12-09T22:08:14.2462237+00:00",
+  "LastChanged_Achievements": "2023-12-09T23:07:53.3710884+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:15.6257409+00:00",
-  "LastUpdate_Ratings": "2023-12-09T22:03:38.7405156+00:00",
-  "LastUpdate_Achievements": "2023-12-09T22:08:14.2463015+00:00"
+  "LastUpdate_Ratings": "2023-12-09T23:03:25.2367282+00:00",
+  "LastUpdate_Achievements": "2023-12-09T23:07:53.3711488+00:00"
 }

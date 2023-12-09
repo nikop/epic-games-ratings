@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 439,
+  "EOS_Progressed": 440,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1097,6 +1097,11 @@
       "Time": "2023-12-09T22:07:04.225797+00:00",
       "NumProgressed": 439,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T23:06:44.8083677+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1189,7 +1194,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1229,7 +1234,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1301,7 +1306,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1428,14 +1433,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 439,
+      "Progressed": 440,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-09T22:07:04.2257964+00:00",
+  "LastChanged_Achievements": "2023-12-09T23:06:44.8083671+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-09T22:03:51.7964789+00:00",
-  "LastUpdate_Achievements": "2023-12-09T22:07:04.2258236+00:00"
+  "LastUpdate_Ratings": "2023-12-09T23:03:38.0545155+00:00",
+  "LastUpdate_Achievements": "2023-12-09T23:06:44.8084199+00:00"
 }

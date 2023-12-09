@@ -4,8 +4,8 @@
   "ProductSlug": "need-for-speed-unbound",
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-12-02T07:00:00+00:00",
     "PcReleaseDate": "2022-12-02T07:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12035,
+  "EOS_Progressed": 12036,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 0,
@@ -9358,6 +9358,11 @@
       "Time": "2023-12-09T22:09:42.9967929+00:00",
       "NumProgressed": 12035,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-09T23:09:18.9413294+00:00",
+      "NumProgressed": 12036,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -9426,7 +9431,7 @@
       "Name": "Cash Money Millionaire",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5536
+      "UsersEstimate": 5537
     },
     {
       "ID": "achievement_17",
@@ -9458,7 +9463,7 @@
       "Name": "Most Wanted",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 7702
+      "UsersEstimate": 7703
     },
     {
       "ID": "achievement_20",
@@ -9474,7 +9479,7 @@
       "Name": "Rydell\u0027s Rydes",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "achievement_22",
@@ -9490,7 +9495,7 @@
       "Name": "Public Enemy",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 9869
+      "UsersEstimate": 9870
     },
     {
       "ID": "achievement_24",
@@ -9498,7 +9503,7 @@
       "Name": "Untouchable",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 6258
+      "UsersEstimate": 6259
     },
     {
       "ID": "achievement_25",
@@ -9562,7 +9567,7 @@
       "Name": "Top Billin\u0027",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "achievement_32",
@@ -9602,7 +9607,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 10109
+      "UsersEstimate": 10110
     },
     {
       "ID": "achievement_37",
@@ -9610,7 +9615,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 11072
+      "UsersEstimate": 11073
     },
     {
       "ID": "achievement_38",
@@ -9618,7 +9623,7 @@
       "Name": "Fashion Killa",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 10591
+      "UsersEstimate": 10592
     },
     {
       "ID": "achievement_39",
@@ -9650,7 +9655,7 @@
       "Name": "Drop the Beat",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 10350
+      "UsersEstimate": 10351
     },
     {
       "ID": "achievement_5",
@@ -9674,7 +9679,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 10230
+      "UsersEstimate": 10231
     },
     {
       "ID": "achievement_8",
@@ -9697,13 +9702,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 12035,
+      "Progressed": 12036,
       "Completed": 52
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-12-09T22:09:42.9967924+00:00",
+  "LastChanged_Achievements": "2023-12-09T23:09:18.9413289+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:13.0801717+00:00",
-  "LastUpdate_Ratings": "2023-12-09T22:00:04.0937753+00:00",
-  "LastUpdate_Achievements": "2023-12-09T22:09:42.9968649+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:59:46.0799231+00:00",
+  "LastUpdate_Achievements": "2023-12-09T23:09:18.9413884+00:00"
 }

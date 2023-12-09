@@ -86,8 +86,8 @@
 | Arbiter | 25.00% | ~387 |
 | Lost and Found | 25.00% | ~387 |
 | Savior | 24.00% | ~372 |
+| Party Crasher | 23.00% | ~356 |
 | Paramour II | 22.00% | ~341 |
-| Party Crasher | 22.00% | ~341 |
 | Hard Target | 22.00% | ~341 |
 | Fact Finder | 22.00% | ~341 |
 | Problem Solver | 22.00% | ~341 |

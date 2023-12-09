@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,11 +558,11 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16934,
+  "EOS_Progressed": 16935,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.69,
+  "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:32.3721818+00:00",
@@ -15753,6 +15753,11 @@
       "Time": "2023-12-09T21:04:28.0243475+00:00",
       "NumProgressed": 16934,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-09T23:04:56.2803279+00:00",
+      "NumProgressed": 16935,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15764,7 +15769,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "tpote_achievement_10",
@@ -15804,7 +15809,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5588
+      "UsersEstimate": 5589
     },
     {
       "ID": "tpote_achievement_15",
@@ -15828,7 +15833,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2709
+      "UsersEstimate": 2710
     },
     {
       "ID": "tpote_achievement_18",
@@ -15836,7 +15841,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "tpote_achievement_19",
@@ -15852,7 +15857,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5588
+      "UsersEstimate": 5589
     },
     {
       "ID": "tpote_achievement_20",
@@ -15892,7 +15897,7 @@
       "Name": "First profit",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "tpote_achievement_25",
@@ -15908,7 +15913,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "tpote_achievement_27",
@@ -15948,7 +15953,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "tpote_achievement_31",
@@ -16091,15 +16096,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16934,
+      "Progressed": 16935,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-09T22:05:12.2595501+00:00",
+  "LastChanged_Achievements": "2023-12-09T23:04:56.2803276+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-09T21:58:35.8383528+00:00",
-  "LastUpdate_Achievements": "2023-12-09T22:05:12.2596411+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:58:20.9129275+00:00",
+  "LastUpdate_Achievements": "2023-12-09T23:04:56.2804202+00:00"
 }
