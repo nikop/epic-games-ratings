@@ -1,14 +1,14 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 451)  
+Rating: 4.58 (Ranked 450)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Matching | 1.00% | ~23 |
-| First Steps | 0.70% | ~1,685 |
-| Uncharted Territory | 0.70% | ~1,685 |
+| First Steps | 0.80% | ~1,926 |
+| Uncharted Territory | 0.70% | ~1,686 |
 | Not Touching You | 0.70% | ~16 |
 | Getting A Glimpse | 0.60% | ~1,445 |
 | A Quick Escape | 0.60% | ~1,445 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,785 (Ranked 64)  
+Progressed: 240,787 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,15 +378,15 @@ Completed: 292 (0.12%) (Ranked 283)
 | 2023-12-06 | 240,707 | 292 |
 | 2023-12-07 | 240,750 | 292 |
 | 2023-12-08 | 240,784 | 292 |
-| 2023-12-09 | 240,785 | 292 |
+| 2023-12-09 | 240,787 | 292 |
 ## Awards
-Max (Quickly Understood Controls): 1,505  (Ranked 133)  
-Sum: 11,716 (Ranked 84)  
+Max (Quickly Understood Controls): 1,506  (Ranked 133)  
+Sum: 11,717 (Ranked 84)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |
-| This game has Quickly Understood Controls | 1,505 |
+| This game has Quickly Understood Controls | 1,506 |
 | This game has Challenging Combat | 1,439 |
 | This game is Relaxing | 1,439 |
 | This game is Extremely Fun | 1,418 |
@@ -624,3 +624,4 @@ Diff (max vs sum): 49
 | 2023-12-05 | 4.58 | - | 1,505 | 11,711 |
 | 2023-12-07 | 4.58 | - | 1,505 | 11,714 |
 | 2023-12-08 | 4.58 | - | 1,505 | 11,716 |
+| 2023-12-09 | 4.58 | - | 1,506 | 11,717 |

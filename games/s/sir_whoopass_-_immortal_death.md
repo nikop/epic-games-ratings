@@ -8,8 +8,8 @@
 | MLG 360 no scope kill! | 93.00% | ~123 |
 | Are you ready to rumble? | 93.00% | ~123 |
 | That's what cheese said! | 89.00% | ~117 |
+| AHHHHHH.....I'M ON FIRE!!! | 86.00% | ~114 |
 | I like you...but I have to kill you... | 86.00% | ~114 |
-| AHHHHHH.....I'M ON FIRE!!! | 85.00% | ~112 |
 | Not so hip anymore! | 84.00% | ~111 |
 | Nerd | 82.00% | ~108 |
 | Blurry depth perception | 81.00% | ~107 |

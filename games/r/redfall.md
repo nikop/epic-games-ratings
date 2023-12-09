@@ -40,10 +40,10 @@ Rating: 3.45 (Ranked 1,058)
 | Starve the Beast | 0.60% | ~11 |
 | I Spit On Your Grave | 0.60% | ~11 |
 | Block Party | 0.50% | ~9 |
+| What Lies Below | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
 | Blacklight Down | 0.50% | ~9 |
 | Sisterhood | 0.40% | ~7 |
-| What Lies Below | 0.40% | ~7 |
 | Bloody Initiate | 0.40% | ~7 |
 | Dexterity Save | 0.40% | ~7 |
 | Neighborhood Watch | 0.30% | ~5 |

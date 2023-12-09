@@ -1,7 +1,7 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.61 (Ranked 387)  
+Rating: 4.55 (Ranked 511)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -24,3 +24,4 @@ Rating: 4.61 (Ranked 387)
 | 2023-10-31 | 4.64 | 0 | 0 |
 | 2023-12-04 | 4.65 | 0 | 0 |
 | 2023-12-08 | 4.61 | 0 | 0 |
+| 2023-12-09 | 4.55 | 0 | 0 |

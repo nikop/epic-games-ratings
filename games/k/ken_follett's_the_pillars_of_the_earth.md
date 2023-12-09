@@ -6,7 +6,7 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,764 |
+| Tattletale | 40.00% | ~6,765 |
 | Man of politics | 34.00% | ~5,750 |
 | Friends of sorts | 33.00% | ~5,581 |
 | Yet another secret | 33.00% | ~5,581 |
@@ -15,7 +15,7 @@ Number of Ratings: 368  (23.09.2022)
 | Garden of Eden | 24.00% | ~4,059 |
 | Wannabe knight | 23.00% | ~3,890 |
 | Full house | 23.00% | ~3,890 |
-| Help an old friend | 21.00% | ~3,551 |
+| Help an old friend | 21.00% | ~3,552 |
 | Two of us | 20.00% | ~3,382 |
 | Negotiation skills | 18.00% | ~3,044 |
 | Workers' union | 18.00% | ~3,044 |
@@ -23,7 +23,7 @@ Number of Ratings: 368  (23.09.2022)
 | Everything's in order | 16.00% | ~2,706 |
 | Twist of Fate | 14.00% | ~2,368 |
 | Jack was here! | 14.00% | ~2,368 |
-| Exterminator | 13.00% | ~2,198 |
+| Exterminator | 13.00% | ~2,199 |
 | Whodunnit | 12.00% | ~2,029 |
 | Good midwife | 10.00% | ~1,691 |
 | Friar Tuck | 10.00% | ~1,691 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~507 |
 | Boy of mystery | 2.00% | ~338 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,911 (Ranked 148)  
+Progressed: 16,912 (Ranked 148)  
 Completed: 116 (0.69%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,6 +281,7 @@ Completed: 116 (0.69%) (Ranked 188)
 | 2023-12-06 | 16,885 | 116 |
 | 2023-12-07 | 16,898 | 116 |
 | 2023-12-08 | 16,911 | 116 |
+| 2023-12-09 | 16,912 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 318)  
 Sum: 198 (Ranked 404)  

@@ -1,21 +1,21 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.55 (Ranked 512)  
+Rating: 4.55 (Ranked 511)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~479,221 |
-| Apprentice | 58.00% | ~386,039 |
-| Close Shave | 25.00% | ~166,396 |
+| The Fool | 72.00% | ~479,223 |
+| Apprentice | 58.00% | ~386,041 |
+| Close Shave | 25.00% | ~166,397 |
 | Mercenary | 23.00% | ~153,085 |
 | Ninja | 23.00% | ~153,085 |
-| Northern Scourge | 17.00% | ~113,149 |
+| Northern Scourge | 17.00% | ~113,150 |
 | Thief Bane | 14.00% | ~93,182 |
-| Master of Arms | 12.00% | ~79,870 |
-| Gambler | 10.00% | ~66,558 |
-| Dice Master | 10.00% | ~66,558 |
+| Master of Arms | 12.00% | ~79,871 |
+| Gambler | 10.00% | ~66,559 |
+| Dice Master | 10.00% | ~66,559 |
 | Swordsman | 9.00% | ~59,903 |
 | Knight | 8.00% | ~53,247 |
 | Cure for Corruption | 8.00% | ~53,247 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~666 |
 | Blood Pact | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665,585 (Ranked 29)  
+Progressed: 665,588 (Ranked 29)  
 Completed: 172 (0.03%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 172 (0.03%) (Ranked 333)
 | 2023-12-06 | 665,512 | 172 |
 | 2023-12-07 | 665,544 | 172 |
 | 2023-12-08 | 665,583 | 172 |
-| 2023-12-09 | 665,585 | 172 |
+| 2023-12-09 | 665,588 | 172 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 477)  
 Sum: 193 (Ranked 408)  

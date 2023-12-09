@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 79.00% | ~85 |
-| Wanderer | 78.00% | ~83 |
-| A piece of the story | 61.00% | ~65 |
-| It's covered up for a reason | 46.00% | ~49 |
-| Do what you have to | 46.00% | ~49 |
-| The artist’s impression | 46.00% | ~49 |
-| Scraps of love | 45.00% | ~48 |
+| Something important | 78.00% | ~84 |
+| Wanderer | 77.00% | ~83 |
+| A piece of the story | 60.00% | ~65 |
+| Do what you have to | 46.00% | ~50 |
+| It's covered up for a reason | 45.00% | ~49 |
+| The artist’s impression | 45.00% | ~49 |
+| Scraps of love | 44.00% | ~48 |
 | Refuse to look | 38.00% | ~41 |
 | Sign of weakness | 38.00% | ~41 |
-| Finished it | 33.00% | ~35 |
-| Face your fears | 28.00% | ~30 |
+| Finished it | 32.00% | ~35 |
+| Face your fears | 29.00% | ~31 |
 | Whispers long forgotten | 18.00% | ~19 |
 | Playtime | 15.00% | ~16 |
 | Tough conversation | 15.00% | ~16 |
@@ -30,7 +30,7 @@
 | Lights! Camera! Action! | 10.00% | ~11 |
 | Another perspective | 9.00% | ~10 |
 | Heavy Burden | 8.00% | ~9 |
-| Casting Finished | 7.00% | ~7 |
+| Casting Finished | 7.00% | ~8 |
 | We Are Not Alone | 6.00% | ~6 |
 | Fisherman | 6.00% | ~6 |
 | Something to think about | 4.00% | ~4 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 436)  
+Progressed: 108 (Ranked 435)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,3 +107,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 105 | 0 |
 | 2023-12-07 | 106 | 0 |
 | 2023-12-08 | 107 | 0 |
+| 2023-12-09 | 108 | 0 |

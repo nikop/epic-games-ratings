@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 45.00% | ~1,074 |
-| First Love | 43.00% | ~1,026 |
-| Clean Race | 41.00% | ~978 |
+| Eat My Dust | 45.00% | ~1,075 |
+| First Love | 43.00% | ~1,027 |
+| Clean Race | 41.00% | ~979 |
 | Hear That Roar! | 39.00% | ~931 |
-| Rivals to the End | 28.00% | ~668 |
-| Bitter Rivalry | 27.00% | ~644 |
-| We're Going to Need a Bigger Garage | 25.00% | ~596 |
-| Champagne Spray | 25.00% | ~596 |
-| Legendary!!! | 20.00% | ~477 |
-| Restored and Ready | 19.00% | ~453 |
-| I Want One Too! | 19.00% | ~453 |
-| Quick Pit Stop | 19.00% | ~453 |
-| Go-Faster Stripes | 18.00% | ~429 |
+| Rivals to the End | 28.00% | ~669 |
+| Bitter Rivalry | 27.00% | ~645 |
+| We're Going to Need a Bigger Garage | 25.00% | ~597 |
+| Champagne Spray | 25.00% | ~597 |
+| Legendary!!! | 20.00% | ~478 |
+| Restored and Ready | 19.00% | ~454 |
+| I Want One Too! | 19.00% | ~454 |
+| Quick Pit Stop | 19.00% | ~454 |
+| Go-Faster Stripes | 18.00% | ~430 |
 | I'm Here Too! | 16.00% | ~382 |
-| We've Just Begun | 12.00% | ~286 |
+| We've Just Begun | 12.00% | ~287 |
 | Stamina Star | 9.00% | ~215 |
 | Is It the Right Size? | 8.00% | ~191 |
 | Evangelist | 6.00% | ~143 |
 | Make It Your Own! | 5.00% | ~119 |
-| Cherry Blossom and Temples | 4.00% | ~95 |
-| I Make the Rules! | 4.00% | ~95 |
+| Cherry Blossom and Temples | 4.00% | ~96 |
+| The Road to Liberty | 4.00% | ~96 |
+| I Make the Rules! | 4.00% | ~96 |
 | Spoilt for Choice | 3.00% | ~72 |
 | La Dolce Vita | 3.00% | ~72 |
-| The Road to Liberty | 3.00% | ~72 |
 | Romantic Races | 3.00% | ~72 |
 | Rounding Off | 3.00% | ~72 |
 | My Work Here Is Done | 3.00% | ~72 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,386 (Ranked 218)  
+Progressed: 2,388 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,3 +153,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 2,359 | 0 |
 | 2023-12-07 | 2,378 | 0 |
 | 2023-12-08 | 2,386 | 0 |
+| 2023-12-09 | 2,388 | 0 |

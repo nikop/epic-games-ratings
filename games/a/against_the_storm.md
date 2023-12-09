@@ -6,23 +6,22 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 3.00% | ~531 |
-| Overgrown Library | 3.00% | ~531 |
-| Petrified Necropolis | 3.00% | ~531 |
+| Abandoned Settlement | 3.00% | ~532 |
+| Overgrown Library | 3.00% | ~532 |
+| Petrified Necropolis | 3.00% | ~532 |
 | Frosts | 2.00% | ~354 |
 | Land of Greed | 2.00% | ~354 |
 | Ominous Presence | 2.00% | ~354 |
 | Gathering Storm | 2.00% | ~354 |
 | Untamed Wilds | 1.00% | ~177 |
 | The Marshlands | 0.60% | ~106 |
+| Taking Action | 0.60% | ~106 |
 | No Deaths | 0.60% | ~106 |
 | First Real Expedition | 0.50% | ~89 |
 | Overcoming Difficulty | 0.50% | ~89 |
 | Coral Forest | 0.50% | ~89 |
 | The Scarlet Orchard | 0.50% | ~89 |
-| Taking Action | 0.50% | ~89 |
 | Fertile Meadows | 0.40% | ~71 |
-| Royal Outpost | 0.40% | ~71 |
 | Watchtower | 0.40% | ~71 |
 | Homesick | 0.30% | ~53 |
 | Ruined Armory | 0.30% | ~53 |
@@ -30,6 +29,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ancient Battleground | 0.30% | ~53 |
 | Sparkdew Crystals | 0.30% | ~53 |
 | Monastery of the Holy Flame | 0.30% | ~53 |
+| Royal Outpost | 0.30% | ~53 |
 | Lost Colonies | 0.30% | ~53 |
 | Corrosive Torrent | 0.30% | ~53 |
 | A Real Challenge | 0.30% | ~53 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,708 (Ranked 146)  
+Progressed: 17,717 (Ranked 146)  
 Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 43 (0.24%) (Ranked 251)
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
-| 2023-12-09 | 17,708 | 43 |
+| 2023-12-09 | 17,717 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,245 (Ranked 174)  

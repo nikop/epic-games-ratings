@@ -1,13 +1,13 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 512)  
+Rating: 4.55 (Ranked 511)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,399 |
+| Getting Started | 82.00% | ~11,400 |
 | Pay 'n' Spray | 52.00% | ~7,229 |
-| All Dressed Up for San Fierro | 27.00% | ~3,753 |
+| All Dressed Up for San Fierro | 27.00% | ~3,754 |
 | The American Dream | 20.00% | ~2,780 |
 | School's Out | 19.00% | ~2,641 |
 | Smooth Moves | 17.00% | ~2,363 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 512)
 | ...Here we go again | 0.50% | ~70 |
 | I Ain't No Buster | 0.40% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,901 (Ranked 157)  
+Progressed: 13,902 (Ranked 157)  
 Completed: 56 (0.40%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,15 +274,15 @@ Completed: 56 (0.40%) (Ranked 223)
 | 2023-12-06 | 13,872 | 56 |
 | 2023-12-07 | 13,883 | 56 |
 | 2023-12-08 | 13,900 | 56 |
-| 2023-12-09 | 13,901 | 56 |
+| 2023-12-09 | 13,902 | 56 |
 ## Awards
-Max (Great Boss Battles): 427  (Ranked 228)  
-Sum: 703 (Ranked 299)  
-Diff (max vs sum): -71  
+Max (Great Boss Battles): 427  (Ranked 229)  
+Sum: 704 (Ranked 299)  
+Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 427 |
-| This game is Relaxing | 39 |
+| This game is Relaxing | 40 |
 | This game has Amazing Characters | 39 |
 | This game is Great for Beginners | 37 |
 | This game has Amazing Storytelling | 35 |
@@ -489,3 +489,4 @@ Diff (max vs sum): -71
 | 2023-12-06 | 4.56 | 425 | 700 |
 | 2023-12-07 | 4.55 | 425 | 701 |
 | 2023-12-08 | 4.55 | 427 | 703 |
+| 2023-12-09 | 4.55 | 427 | 704 |

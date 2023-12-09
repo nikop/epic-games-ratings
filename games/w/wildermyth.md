@@ -28,10 +28,10 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 0.70% | ~11 |
 | No Time for Clawmonsters | 0.70% | ~11 |
 | Legends Never Die | 0.60% | ~9 |
+| Some Say I'm Too Flashy | 0.60% | ~9 |
 | Empty the Caves | 0.50% | ~8 |
 | Chain Reaction | 0.50% | ~8 |
 | Everfading | 0.50% | ~8 |
-| Some Say I'm Too Flashy | 0.50% | ~8 |
 | Astrology | 0.50% | ~8 |
 | Bonebreakers | 0.40% | ~6 |
 | All My Birds, Safely Home | 0.40% | ~6 |

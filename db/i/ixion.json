@@ -2,12 +2,12 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 482,
+  "Ranking_Rating": 481,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -307,7 +307,7 @@
   "Tags": [],
   "EOS_Progressed": 3416,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6473,9 +6473,9 @@
       "ID": "ACH_BASE_49",
       "SetID": "92iocjf",
       "Name": "Ain\u0027t Nobody Got Time for That",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH_BASE_5",
@@ -6640,8 +6640,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-06T08:59:27.5428994+00:00",
-  "LastChanged_Achievements": "2023-12-09T00:05:09.3522054+00:00",
+  "LastChanged_Achievements": "2023-12-09T01:50:02.2287218+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:25.2087668+00:00",
-  "LastUpdate_Ratings": "2023-12-08T23:57:40.3538633+00:00",
-  "LastUpdate_Achievements": "2023-12-09T00:05:09.3522711+00:00"
+  "LastUpdate_Ratings": "2023-12-09T01:42:42.3072925+00:00",
+  "LastUpdate_Achievements": "2023-12-09T01:50:02.2288338+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -218,7 +218,7 @@
   ],
   "EOS_Progressed": 899,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2392,9 +2392,9 @@
       "ID": "JustOneLap",
       "SetID": "1n308hc",
       "Name": "Just One Lap",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 63
     },
     {
       "ID": "LordOfTheFiles",
@@ -2624,9 +2624,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 171
     },
     {
       "ID": "TouchGrass",
@@ -2656,9 +2656,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 99
     },
     {
       "ID": "WesternDelta",
@@ -2697,8 +2697,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-09T00:03:13.0507217+00:00",
+  "LastChanged_Achievements": "2023-12-09T01:48:09.3243108+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-09T00:00:15.2378772+00:00",
-  "LastUpdate_Achievements": "2023-12-09T00:03:13.0508599+00:00"
+  "LastUpdate_Ratings": "2023-12-09T01:45:13.114607+00:00",
+  "LastUpdate_Achievements": "2023-12-09T01:48:09.3243824+00:00"
 }

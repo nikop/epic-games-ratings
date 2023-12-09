@@ -6,8 +6,8 @@
   "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -731,11 +731,11 @@
       "Count": 118
     }
   ],
-  "EOS_Progressed": 2184,
+  "EOS_Progressed": 2185,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.6,
+  "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
     {
       "Time": "2023-09-19T18:06:12.9172474+00:00",
@@ -6821,6 +6821,11 @@
       "Time": "2023-12-09T00:08:58.1513601+00:00",
       "NumProgressed": 2184,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-09T01:53:46.0233294+00:00",
+      "NumProgressed": 2185,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -6833,7 +6838,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1879
     },
     {
       "ID": "achievement_10",
@@ -6841,7 +6846,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "achievement_11",
@@ -6873,7 +6878,7 @@
       "Name": "Whole Again",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "achievement_15",
@@ -6881,7 +6886,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "achievement_16",
@@ -6937,7 +6942,7 @@
       "Name": "Live with the Hot Ones",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "achievement_22",
@@ -6953,7 +6958,7 @@
       "Name": "Pusher",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "achievement_24",
@@ -7009,7 +7014,7 @@
       "Name": "All Systems Go",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "achievement_30",
@@ -7025,7 +7030,7 @@
       "Name": "Marksman",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "achievement_32",
@@ -7033,7 +7038,7 @@
       "Name": "Surgeon",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "achievement_33",
@@ -7049,7 +7054,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_35",
@@ -7089,7 +7094,7 @@
       "Name": "Z-Baller",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "achievement_4",
@@ -7097,7 +7102,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "achievement_40",
@@ -7121,7 +7126,7 @@
       "Name": "Brute Force",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "achievement_43",
@@ -7153,7 +7158,7 @@
       "Name": "Marked",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "achievement_47",
@@ -7175,9 +7180,9 @@
       "ID": "achievement_6",
       "SetID": "222fo9l",
       "Name": "Greenhouse Effect",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1136
     },
     {
       "ID": "achievement_7",
@@ -7185,7 +7190,7 @@
       "Name": "S.O.S.",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "achievement_8",
@@ -7208,7 +7213,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 2184,
+      "Progressed": 2185,
       "Completed": 13
     }
   ],
@@ -7216,8 +7221,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-12-06T16:57:59.3139948+00:00",
-  "LastChanged_Achievements": "2023-12-09T00:08:58.1513597+00:00",
+  "LastChanged_Achievements": "2023-12-09T01:53:46.0233291+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.9880376+00:00",
-  "LastUpdate_Ratings": "2023-12-08T23:59:07.8865099+00:00",
-  "LastUpdate_Achievements": "2023-12-09T00:08:58.1514128+00:00"
+  "LastUpdate_Ratings": "2023-12-09T01:44:07.607819+00:00",
+  "LastUpdate_Achievements": "2023-12-09T01:53:46.0234122+00:00"
 }

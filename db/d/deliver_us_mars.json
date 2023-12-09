@@ -2,7 +2,7 @@
   "ID": "53ec6d9f552241549c4d8aa1a42bcb3b",
   "Name": "Deliver Us Mars",
   "ProductSlug": "deliver-us-mars",
-  "Ranking_Rating": 932,
+  "Ranking_Rating": 921,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 617,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.19,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:02.5059028+00:00",
@@ -193,6 +193,12 @@
     {
       "Time": "2023-12-05T21:57:53.9429869+00:00",
       "Rating": 4.19,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-09T01:44:33.6479711+00:00",
+      "Rating": 4.2,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -522,9 +528,9 @@
   "FirstSeen": "2023-02-02T14:58:20.9144782+00:00",
   "FirstSeenRating": "2023-03-31T05:57:02.5059025+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.8750622+00:00",
-  "LastChanged": "2023-12-05T21:57:53.9429868+00:00",
-  "LastChanged_Achievements": "2023-12-09T00:05:10.2865339+00:00",
+  "LastChanged": "2023-12-09T01:44:33.6479709+00:00",
+  "LastChanged_Achievements": "2023-12-09T01:50:03.4732459+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:49.6089326+00:00",
-  "LastUpdate_Ratings": "2023-12-08T23:59:34.6190037+00:00",
-  "LastUpdate_Achievements": "2023-12-09T00:05:10.2865545+00:00"
+  "LastUpdate_Ratings": "2023-12-09T01:44:33.6479713+00:00",
+  "LastUpdate_Achievements": "2023-12-09T01:50:03.4732707+00:00"
 }

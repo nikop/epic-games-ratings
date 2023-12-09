@@ -2,8 +2,8 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 512,
-  "Ranking_Popularity": 228,
+  "Ranking_Rating": 511,
+  "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 223,
@@ -1619,10 +1619,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 703,
       "NumberOfAwardsMax": 427
+    },
+    {
+      "Time": "2023-12-09T01:44:32.2840321+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 704,
+      "NumberOfAwardsMax": 427
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 703,
+  "NumberOfAwards": 704,
   "NumberOfAwardsMax": 427,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1636,7 +1642,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1687,9 +1693,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 13901,
+  "EOS_Progressed": 13902,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -15627,6 +15633,11 @@
       "Time": "2023-12-09T00:09:24.1013684+00:00",
       "NumProgressed": 13901,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-09T01:54:11.7580281+00:00",
+      "NumProgressed": 13902,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15638,7 +15649,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11399
+      "UsersEstimate": 11400
     },
     {
       "ID": "ACH02",
@@ -15814,7 +15825,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3753
+      "UsersEstimate": 3754
     },
     {
       "ID": "ACH24",
@@ -15917,16 +15928,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13901,
+      "Progressed": 13902,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-08T02:22:43.9092979+00:00",
-  "LastChanged_Achievements": "2023-12-09T00:09:24.1013682+00:00",
+  "LastChanged": "2023-12-09T01:44:32.2840319+00:00",
+  "LastChanged_Achievements": "2023-12-09T01:54:11.7580277+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:45.2117848+00:00",
-  "LastUpdate_Ratings": "2023-12-08T23:59:33.1480049+00:00",
-  "LastUpdate_Achievements": "2023-12-09T00:09:24.101448+00:00"
+  "LastUpdate_Ratings": "2023-12-09T01:44:32.2840324+00:00",
+  "LastUpdate_Achievements": "2023-12-09T01:54:11.7581478+00:00"
 }

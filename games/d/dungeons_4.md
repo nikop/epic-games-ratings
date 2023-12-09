@@ -36,8 +36,8 @@
 | Master of the Undead | 33.00% | ~177 |
 | The Duel | 33.00% | ~177 |
 | If Looks Could Kill | 29.00% | ~155 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~150 |
 | Ghost Pirates? Ghost Heroes! | 28.00% | ~150 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~145 |
 | Forbidden Knowledge | 27.00% | ~145 |
 | Hungry, Hungry Gorgu! | 26.00% | ~139 |
 | The Finitude Drill | 26.00% | ~139 |

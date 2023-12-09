@@ -56,12 +56,12 @@
 | The Cure | 32.00% | ~492 |
 | Driven | 32.00% | ~492 |
 | Focused | 31.00% | ~477 |
+| Completionist | 31.00% | ~477 |
 | Fade Away | 31.00% | ~477 |
 | Big Game Hunter | 31.00% | ~477 |
 | Revenge! | 31.00% | ~477 |
 | Heart of Darkness | 31.00% | ~477 |
 | Bringer of War | 31.00% | ~477 |
-| Completionist | 30.00% | ~461 |
 | Friend or Foe | 30.00% | ~461 |
 | Cat's in the Cradle | 30.00% | ~461 |
 | Doppelganger | 30.00% | ~461 |
@@ -111,10 +111,10 @@
 | Bruiser | 12.00% | ~185 |
 | Overload Specialist | 11.00% | ~169 |
 | Warp Mastery | 11.00% | ~169 |
+| Barrier Mastery | 10.00% | ~154 |
 | Hijacker | 10.00% | ~154 |
 | Always Prepared | 10.00% | ~154 |
 | Paramour III | 10.00% | ~154 |
-| Barrier Mastery | 9.00% | ~138 |
 | Sky High | 9.00% | ~138 |
 | Lift Mastery | 9.00% | ~138 |
 | Insanity I | 6.00% | ~92 |

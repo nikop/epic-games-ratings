@@ -2,12 +2,12 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 932,
+  "Ranking_Rating": 933,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -263,11 +263,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1743,
+  "EOS_Progressed": 1744,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.25,
+  "EOS_Completed_Percentage": 4.24,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -3818,6 +3818,11 @@
       "Time": "2023-12-08T22:04:53.9568523+00:00",
       "NumProgressed": 1743,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-12-09T01:48:56.9108626+00:00",
+      "NumProgressed": 1744,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 11,
@@ -3837,7 +3842,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "ACH_Cacciavite",
@@ -3877,7 +3882,7 @@
       "Name": "All together, again",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -3901,7 +3906,7 @@
       "Name": "Someone was here",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -3909,22 +3914,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1743,
+      "Progressed": 1744,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-12-09T00:04:01.4724446+00:00",
+  "LastChanged_Achievements": "2023-12-09T01:48:56.9108622+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:27.3131913+00:00",
-  "LastUpdate_Ratings": "2023-12-08T23:57:27.8355031+00:00",
-  "LastUpdate_Achievements": "2023-12-09T00:04:01.4724728+00:00"
+  "LastUpdate_Ratings": "2023-12-09T01:42:29.4404888+00:00",
+  "LastUpdate_Achievements": "2023-12-09T01:48:56.9108982+00:00"
 }

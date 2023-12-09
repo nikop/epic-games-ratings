@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 572,
+  "EOS_Progressed": 573,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1842,6 +1842,11 @@
       "Time": "2023-12-08T22:09:05.7195272+00:00",
       "NumProgressed": 572,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T01:53:26.1955729+00:00",
+      "NumProgressed": 573,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1853,7 +1858,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1941,7 +1946,7 @@
       "Name": "Training Simulation",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1965,7 +1970,7 @@
       "Name": "Beginner Cook",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1979,9 +1984,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 269
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2021,7 +2026,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2045,7 +2050,7 @@
       "Name": "Boss challenge",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2125,7 +2130,7 @@
       "Name": "Berserker Slayer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -2173,7 +2178,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2181,7 +2186,7 @@
       "Name": "Flower Thief",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2197,7 +2202,7 @@
       "Name": "Seal Breaker",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2212,7 +2217,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 572,
+      "Progressed": 573,
       "Completed": 1
     }
   ],
@@ -2220,8 +2225,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-09T00:08:37.8951408+00:00",
+  "LastChanged_Achievements": "2023-12-09T01:53:26.1955726+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-08T23:58:28.907643+00:00",
-  "LastUpdate_Achievements": "2023-12-09T00:08:37.8951764+00:00"
+  "LastUpdate_Ratings": "2023-12-09T01:43:29.2378686+00:00",
+  "LastUpdate_Achievements": "2023-12-09T01:53:26.1956259+00:00"
 }

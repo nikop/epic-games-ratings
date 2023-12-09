@@ -5275,10 +5275,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6681,
       "NumberOfAwardsMax": 2690
+    },
+    {
+      "Time": "2023-12-09T01:48:04.4126535+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6682,
+      "NumberOfAwardsMax": 2690
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6681,
+  "NumberOfAwards": 6682,
   "NumberOfAwardsMax": 2690,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5346,12 +5352,12 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 411
+      "Count": 412
     }
   ],
-  "EOS_Progressed": 237064,
+  "EOS_Progressed": 237095,
   "EOS_Completed": 572,
-  "EOS_NewPlayers": 4754,
+  "EOS_NewPlayers": 4740,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22064,6 +22070,11 @@
       "Time": "2023-12-09T00:09:03.5211952+00:00",
       "NumProgressed": 237064,
       "NumCompleted": 572
+    },
+    {
+      "Time": "2023-12-09T01:53:51.300949+00:00",
+      "NumProgressed": 237095,
+      "NumCompleted": 572
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22260,7 +22271,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -22380,7 +22391,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "Obtain_Traits_B",
@@ -22442,9 +22453,9 @@
       "ID": "Upgrade_Standard_Weapon_B",
       "SetID": "bkp3b1a",
       "Name": "No One Should Have All That Power",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 474
+      "UsersEstimate": 711
     },
     {
       "ID": "Upgrade_Traits_A",
@@ -22484,7 +22495,7 @@
       "Name": "Succession",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -22508,29 +22519,29 @@
       "Name": "You Shall Pass",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 237064,
+      "Progressed": 237095,
       "Completed": 572
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 16229,
+      "Progressed": 16260,
       "Completed": 214
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-08T23:03:44.2659637+00:00",
-  "LastChanged_Achievements": "2023-12-09T00:09:03.521195+00:00",
+  "LastChanged": "2023-12-09T01:48:04.4126534+00:00",
+  "LastChanged_Achievements": "2023-12-09T01:53:51.3009487+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-09T00:03:09.4865807+00:00",
-  "LastUpdate_Achievements": "2023-12-09T00:09:03.5212887+00:00"
+  "LastUpdate_Ratings": "2023-12-09T01:48:04.4126539+00:00",
+  "LastUpdate_Achievements": "2023-12-09T01:53:51.3011312+00:00"
 }

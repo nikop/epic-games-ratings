@@ -333,9 +333,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 201096,
+  "EOS_Progressed": 201100,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24803,6 +24803,11 @@
       "Time": "2023-12-08T23:08:40.0581547+00:00",
       "NumProgressed": 201096,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-09T01:51:27.7246008+00:00",
+      "NumProgressed": 201100,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -24822,7 +24827,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 142778
+      "UsersEstimate": 142781
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -24846,7 +24851,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 36197
+      "UsersEstimate": 36198
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -24910,7 +24915,7 @@
       "Name": "Mastermind",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ACH_WIN_COOP_2_PLAYERS",
@@ -24941,7 +24946,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 201096,
+      "Progressed": 201100,
       "Completed": 4
     }
   ],
@@ -24949,8 +24954,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-11-21T16:01:30.5134894+00:00",
-  "LastChanged_Achievements": "2023-12-09T00:08:18.293473+00:00",
+  "LastChanged_Achievements": "2023-12-09T01:51:27.7246004+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:17.0251486+00:00",
-  "LastUpdate_Ratings": "2023-12-08T23:59:07.9395499+00:00",
-  "LastUpdate_Achievements": "2023-12-09T00:08:18.2936308+00:00"
+  "LastUpdate_Ratings": "2023-12-09T01:44:07.6261888+00:00",
+  "LastUpdate_Achievements": "2023-12-09T01:51:27.7247875+00:00"
 }

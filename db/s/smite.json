@@ -3,7 +3,7 @@
   "Name": "SMITE",
   "ProductSlug": "smite",
   "Ranking_Rating": 696,
-  "Ranking_Popularity": 79,
+  "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
@@ -10612,11 +10612,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 27272,
       "NumberOfAwardsMax": 4707
+    },
+    {
+      "Time": "2023-12-09T01:44:55.6177758+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 27281,
+      "NumberOfAwardsMax": 4713
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27272,
-  "NumberOfAwardsMax": 4707,
+  "NumberOfAwards": 27281,
+  "NumberOfAwardsMax": 4713,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -10629,7 +10635,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4707
+      "Count": 4713
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10647,7 +10653,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3348
+      "Count": 3351
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10691,8 +10697,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2023-12-08T23:01:28.8283665+00:00",
+  "LastChanged": "2023-12-09T01:44:55.6177756+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5885432+00:00",
-  "LastUpdate_Ratings": "2023-12-08T23:59:57.6351488+00:00",
-  "LastUpdate_Achievements": "2023-12-09T00:05:02.4729597+00:00"
+  "LastUpdate_Ratings": "2023-12-09T01:44:55.6177767+00:00",
+  "LastUpdate_Achievements": "2023-12-09T01:49:55.5270876+00:00"
 }

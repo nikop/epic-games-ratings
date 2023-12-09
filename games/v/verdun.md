@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~51,339 |
-| Worth it | 63.00% | ~41,466 |
-| Eagle Eye | 55.00% | ~36,200 |
-| Corpseman I | 40.00% | ~26,328 |
-| Blast fishing | 37.00% | ~24,353 |
-| Not alone | 32.00% | ~21,062 |
-| Headhunter I | 26.00% | ~17,113 |
-| Manual Labour I | 25.00% | ~16,455 |
-| Developers, Developers, Developers | 24.00% | ~15,797 |
-| Basic Training | 24.00% | ~15,797 |
-| Furchtlos und Treu | 13.00% | ~8,556 |
-| Gott Mit Uns | 12.00% | ~7,898 |
+| Setting an example | 78.00% | ~51,342 |
+| Worth it | 63.00% | ~41,468 |
+| Eagle Eye | 55.00% | ~36,203 |
+| Corpseman I | 40.00% | ~26,329 |
+| Blast fishing | 37.00% | ~24,355 |
+| Not alone | 32.00% | ~21,063 |
+| Headhunter I | 26.00% | ~17,114 |
+| Manual Labour I | 25.00% | ~16,456 |
+| Developers, Developers, Developers | 24.00% | ~15,798 |
+| Basic Training | 24.00% | ~15,798 |
+| Furchtlos und Treu | 13.00% | ~8,557 |
+| Gott Mit Uns | 12.00% | ~7,899 |
 | This We'll Defend! | 9.00% | ~5,924 |
 | Anker wirf! | 9.00% | ~5,924 |
 | Providentiea Memor | 9.00% | ~5,924 |
 | For King and Country | 9.00% | ~5,924 |
 | Battle hardened | 8.00% | ~5,266 |
-| Semper Fidelis! | 7.00% | ~4,607 |
-| Honneur et Patrie | 7.00% | ~4,607 |
+| Semper Fidelis! | 7.00% | ~4,608 |
+| Honneur et Patrie | 7.00% | ~4,608 |
 | In Treue Fest | 5.00% | ~3,291 |
 | Voor De Koning | 5.00% | ~3,291 |
 | Extreme Headhunter | 5.00% | ~3,291 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~66 |
 | Blood Brother | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,819 (Ranked 105)  
+Progressed: 65,823 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,6 +299,7 @@ Completed: 4 (0.01%) (Ranked 348)
 | 2023-12-06 | 65,673 | 4 |
 | 2023-12-07 | 65,741 | 4 |
 | 2023-12-08 | 65,819 | 4 |
+| 2023-12-09 | 65,823 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 359)  
 Sum: 817 (Ranked 281)  

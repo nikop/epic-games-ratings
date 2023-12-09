@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 451,
+  "Ranking_Rating": 450,
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3506,11 +3506,17 @@
       "Rating": 4.58,
       "NumberOfAwards": 11716,
       "NumberOfAwardsMax": 1505
+    },
+    {
+      "Time": "2023-12-09T01:47:41.7782696+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11717,
+      "NumberOfAwardsMax": 1506
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11716,
-  "NumberOfAwardsMax": 1505,
+  "NumberOfAwards": 11717,
+  "NumberOfAwardsMax": 1506,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -3541,7 +3547,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1505
+      "Count": 1506
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3580,9 +3586,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240785,
+  "EOS_Progressed": 240787,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -27545,6 +27551,11 @@
       "Time": "2023-12-09T00:09:47.3085578+00:00",
       "NumProgressed": 240785,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-09T01:54:34.0435492+00:00",
+      "NumProgressed": 240787,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -27586,9 +27597,9 @@
       "ID": "COMPLETEFIRSTRUN",
       "SetID": "5l8oe0h",
       "Name": "First Steps",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1926
     },
     {
       "ID": "CURSE1HP",
@@ -28300,7 +28311,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "SPECIALROOMS10",
@@ -28659,22 +28670,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240785,
+      "Progressed": 240787,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2265,
+      "Progressed": 2267,
       "Completed": 396
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-12-08T21:02:48.8432607+00:00",
-  "LastChanged_Achievements": "2023-12-09T00:09:47.3085575+00:00",
+  "LastChanged": "2023-12-09T01:47:41.7782694+00:00",
+  "LastChanged_Achievements": "2023-12-09T01:54:34.0435489+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-09T00:02:46.0791698+00:00",
-  "LastUpdate_Achievements": "2023-12-09T00:09:47.3087943+00:00"
+  "LastUpdate_Ratings": "2023-12-09T01:47:41.77827+00:00",
+  "LastUpdate_Achievements": "2023-12-09T01:54:34.0438744+00:00"
 }
