@@ -2,7 +2,7 @@
   "ID": "6ef33a285bf5426d852762aecc95c826",
   "Name": "Jitsu Squad",
   "ProductSlug": "jitsu-squad-af3f2f",
-  "Ranking_Rating": 351,
+  "Ranking_Rating": 336,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 787,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.63,
+  "Rating": 4.64,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:55.1481933+00:00",
@@ -46,6 +46,12 @@
       "Rating": 4.63,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-09T14:58:42.6076698+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -64,8 +70,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-14T10:01:38.348189+00:00",
   "FirstSeenRating": "2023-03-31T05:57:55.148193+00:00",
-  "LastChanged": "2023-12-09T06:58:36.1761045+00:00",
+  "LastChanged": "2023-12-09T14:58:42.6076696+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:36.415927+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:59:32.6300085+00:00",
-  "LastUpdate_Achievements": "2023-12-09T14:07:27.8830223+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:58:42.6076707+00:00",
+  "LastUpdate_Achievements": "2023-12-09T15:05:52.578043+00:00"
 }

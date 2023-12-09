@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22887,
+  "EOS_Progressed": 22888,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 748,
+  "EOS_NewPlayers": 746,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -19244,6 +19244,11 @@
       "Time": "2023-12-09T14:07:17.8892779+00:00",
       "NumProgressed": 22887,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-09T15:05:45.4412495+00:00",
+      "NumProgressed": 22888,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 16,
@@ -19263,7 +19268,7 @@
       "Name": "Burning For You",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6179
+      "UsersEstimate": 6180
     },
     {
       "ID": "Deadline",
@@ -19359,7 +19364,7 @@
       "Name": "Sole Survivor",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 8010
+      "UsersEstimate": 8011
     },
     {
       "ID": "Still_Burning",
@@ -19382,15 +19387,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 22887,
+      "Progressed": 22888,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-11-18T21:04:30.8986363+00:00",
-  "LastChanged_Achievements": "2023-12-09T14:07:17.8892774+00:00",
+  "LastChanged_Achievements": "2023-12-09T15:05:45.4412492+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.3342523+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:01:44.8743127+00:00",
-  "LastUpdate_Achievements": "2023-12-09T14:07:17.8894136+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:00:11.0783918+00:00",
+  "LastUpdate_Achievements": "2023-12-09T15:05:45.4413463+00:00"
 }

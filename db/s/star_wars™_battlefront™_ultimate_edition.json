@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1624,
+  "EOS_Progressed": 1626,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
@@ -4854,6 +4854,11 @@
       "Time": "2023-12-09T14:10:23.2937155+00:00",
       "NumProgressed": 1624,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T15:09:09.7715482+00:00",
+      "NumProgressed": 1626,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4890,7 +4895,7 @@
       "Name": "Stay on target",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_13",
@@ -4914,7 +4919,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_16",
@@ -4930,7 +4935,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_18",
@@ -4938,7 +4943,7 @@
       "Name": "The power of the Force",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_19",
@@ -4962,7 +4967,7 @@
       "Name": "Collector",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_21",
@@ -4970,7 +4975,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_22",
@@ -4986,7 +4991,7 @@
       "Name": "Determined",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_24",
@@ -5050,7 +5055,7 @@
       "Name": "Precision shot",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_31",
@@ -5058,7 +5063,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_32",
@@ -5090,7 +5095,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1447
     },
     {
       "ID": "achievement_36",
@@ -5098,7 +5103,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_37",
@@ -5106,7 +5111,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "achievement_38",
@@ -5136,9 +5141,9 @@
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 828
+      "UsersEstimate": 813
     },
     {
       "ID": "achievement_41",
@@ -5146,7 +5151,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_42",
@@ -5170,7 +5175,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "achievement_45",
@@ -5178,7 +5183,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_46",
@@ -5226,7 +5231,7 @@
       "Name": "City in the Clouds",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_51",
@@ -5258,7 +5263,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_55",
@@ -5274,7 +5279,7 @@
       "Name": "Support the troops",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_57",
@@ -5290,7 +5295,7 @@
       "Name": "Alternative solution",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_59",
@@ -5306,7 +5311,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_60",
@@ -5314,7 +5319,7 @@
       "Name": "What will you become?",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_61",
@@ -5338,7 +5343,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_7",
@@ -5369,13 +5374,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1624,
+      "Progressed": 1626,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1624,
+      "Progressed": 1626,
       "Completed": 1
     }
   ],
@@ -5383,8 +5388,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-09T14:10:23.2937151+00:00",
+  "LastChanged_Achievements": "2023-12-09T15:09:09.771548+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:59:55.188761+00:00",
-  "LastUpdate_Achievements": "2023-12-09T14:10:23.2937745+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:58:57.3211388+00:00",
+  "LastUpdate_Achievements": "2023-12-09T15:09:09.7716303+00:00"
 }

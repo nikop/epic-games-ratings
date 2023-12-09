@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4493,
+  "EOS_Progressed": 4494,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -8225,6 +8225,11 @@
       "Time": "2023-12-09T10:05:55.9641742+00:00",
       "NumProgressed": 4493,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-09T15:05:57.1534135+00:00",
+      "NumProgressed": 4494,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8284,7 +8289,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "Ach008",
@@ -8396,7 +8401,7 @@
       "Name": "I have to read these things?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "Ach022",
@@ -8484,7 +8489,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "Ach033",
@@ -8803,13 +8808,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4493,
+      "Progressed": 4494,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 3014,
+      "Progressed": 3015,
       "Completed": 1930
     }
   ],
@@ -8817,8 +8822,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-09T14:07:34.1838836+00:00",
+  "LastChanged_Achievements": "2023-12-09T15:05:57.153413+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:00:11.1976693+00:00",
-  "LastUpdate_Achievements": "2023-12-09T14:07:34.183978+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:59:08.2989303+00:00",
+  "LastUpdate_Achievements": "2023-12-09T15:05:57.1535141+00:00"
 }

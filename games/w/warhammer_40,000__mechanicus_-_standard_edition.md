@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 696)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~59,527 |
-| This is only the beginning | 20.00% | ~45,790 |
-| Knowledge is power | 13.00% | ~29,763 |
+| No aid from the Omnissiah | 26.00% | ~59,528 |
+| This is only the beginning | 20.00% | ~45,791 |
+| Knowledge is power | 13.00% | ~29,764 |
 | Galvanic Rifle | 10.00% | ~22,895 |
 | Radium Ready | 10.00% | ~22,895 |
-| Power Ranger | 9.00% | ~20,605 |
-| Taser Goad | 9.00% | ~20,605 |
-| Half a cog | 9.00% | ~20,605 |
+| Power Ranger | 9.00% | ~20,606 |
+| Taser Goad | 9.00% | ~20,606 |
+| Half a cog | 9.00% | ~20,606 |
 | Watch them crumble | 6.00% | ~13,737 |
 | Competent Cohort | 4.00% | ~9,158 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,158 |
 | One with the Machine | 4.00% | ~9,158 |
-| Legio Cybernetica | 3.00% | ~6,868 |
-| Fleshy Disposal | 3.00% | ~6,868 |
+| Legio Cybernetica | 3.00% | ~6,869 |
+| Fleshy Disposal | 3.00% | ~6,869 |
 | Battle Servitor | 2.00% | ~4,579 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,579 |
 | Impatient destruction | 2.00% | ~4,579 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 696)
 | Perma-live | 0.10% | ~229 |
 | Purge the Heretek | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,949 (Ranked 70)  
+Progressed: 228,954 (Ranked 70)  
 Completed: 5 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,11 +273,11 @@ Completed: 5 (0.00%) (Ranked 371)
 | 2023-12-06 | 228,768 | 5 |
 | 2023-12-07 | 228,833 | 5 |
 | 2023-12-08 | 228,910 | 5 |
-| 2023-12-09 | 228,949 | 5 |
+| 2023-12-09 | 228,954 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 258)  
-Sum: 2,206 (Ranked 207)  
-Diff (max vs sum): 51  
+Sum: 2,206 (Ranked 206)  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 291 |

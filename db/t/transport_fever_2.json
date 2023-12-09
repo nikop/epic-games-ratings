@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -5461,9 +5461,9 @@
       "ID": "achShipEarnings",
       "SetID": "dgl390n",
       "Name": "The king of the sea",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 538
+      "UsersEstimate": 557
     },
     {
       "ID": "achSmellOfSuccess",
@@ -5549,8 +5549,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-09T13:58:44.4241149+00:00",
-  "LastChanged_Achievements": "2023-12-09T14:07:31.3089281+00:00",
+  "LastChanged_Achievements": "2023-12-09T15:05:55.1752125+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:42.1017313+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:58:44.4241154+00:00",
-  "LastUpdate_Achievements": "2023-12-09T14:07:31.3089878+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:58:09.2164154+00:00",
+  "LastUpdate_Achievements": "2023-12-09T15:05:55.1752619+00:00"
 }

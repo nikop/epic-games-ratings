@@ -13,7 +13,7 @@
 | Not so hip anymore! | 85.00% | ~112 |
 | Nerd | 83.00% | ~110 |
 | Blurry depth perception | 82.00% | ~108 |
-| Up and down | 78.00% | ~103 |
+| Up and down | 79.00% | ~104 |
 | Rolling, Rolling, Rolling | 75.00% | ~99 |
 | Fire-fighter! | 67.00% | ~88 |
 | Oh, you're up to no gouda! | 64.00% | ~84 |

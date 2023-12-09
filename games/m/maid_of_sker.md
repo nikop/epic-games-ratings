@@ -11,8 +11,8 @@
 | Easy Listening | 16.00% | ~36 |
 | Rapturous Applause! | 16.00% | ~36 |
 | Perfect Harmony! | 13.00% | ~29 |
+| Chief Butler | 10.00% | ~22 |
 | Wales Interactive | 10.00% | ~22 |
-| Chief Butler | 9.00% | ~20 |
 | Bull in a China Shop | 7.00% | ~16 |
 | Sker Explorer | 5.00% | ~11 |
 | Phonic Boom | 2.00% | ~4 |

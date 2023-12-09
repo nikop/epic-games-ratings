@@ -2,7 +2,7 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 614,
+  "Ranking_Rating": 615,
   "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 168,
@@ -3569,7 +3569,7 @@
   ],
   "EOS_Progressed": 9574,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11176,9 +11176,9 @@
       "ID": "ach34",
       "SetID": "47in8n6",
       "Name": "Always Accessorize",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 3064
+      "UsersEstimate": 3159
     },
     {
       "ID": "ach35",
@@ -11321,8 +11321,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-12-09T14:03:09.8236088+00:00",
-  "LastChanged_Achievements": "2023-12-09T14:07:13.7738168+00:00",
+  "LastChanged_Achievements": "2023-12-09T15:05:42.6192326+00:00",
   "LastUpdate_AppInfo": "2023-12-09T12:59:38.7536822+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:03:09.8236093+00:00",
-  "LastUpdate_Achievements": "2023-12-09T14:07:13.773907+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:02:47.0853996+00:00",
+  "LastUpdate_Achievements": "2023-12-09T15:05:42.6193025+00:00"
 }

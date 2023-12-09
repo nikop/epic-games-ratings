@@ -1,11 +1,11 @@
 # Warframe
 [Store](https://store.epicgames.com/en-US/p/warframe)  
 [View Rawdata](../../db/w/warframe.json)  
-Rating: 4.61 (Ranked 387)  
+Rating: 4.61 (Ranked 388)  
 Number of Ratings: 12,660  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 18,915  (Ranked 23)  
-Sum: 52,357 (Ranked 28)  
+Sum: 52,364 (Ranked 28)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): -5
 | This game has Amazing Storytelling | 4,126 |
 | This game has Quickly Understood Controls | 4,117 |
 | This game is Relaxing | 4,116 |
-| This game is Extremely Fun | 4,078 |
+| This game is Extremely Fun | 4,085 |
 | This game has Amazing Characters | 4,071 |
 | This game has Unique Visuals | 3,915 |
 | This game has Obsessive Gameplay | 1,774 |
@@ -346,4 +346,4 @@ Diff (max vs sum): -5
 | 2023-12-06 | 4.61 | - | 18,869 | 52,185 |
 | 2023-12-07 | 4.61 | - | 18,891 | 52,245 |
 | 2023-12-08 | 4.61 | - | 18,915 | 52,309 |
-| 2023-12-09 | 4.61 | - | 18,915 | 52,357 |
+| 2023-12-09 | 4.61 | - | 18,915 | 52,364 |

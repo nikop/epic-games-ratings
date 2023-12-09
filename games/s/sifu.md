@@ -23,10 +23,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Stuntmaster | 0.60% | ~4,307 |
 | Street Fighting | 0.60% | ~4,307 |
 | Qi Gong: Essence | 0.60% | ~4,307 |
+| Old Child | 0.60% | ~4,307 |
 | Path of the Prospect | 0.60% | ~4,307 |
 | Fight the way you practice | 0.60% | ~163 |
 | Scareless | 0.50% | ~3,590 |
-| Old Child | 0.50% | ~3,590 |
 | Kung-Fu Tussle | 0.50% | ~3,590 |
 | Take damage to save time | 0.50% | ~3,590 |
 | Martial Hub | 0.50% | ~136 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,908 (Ranked 23)  
+Progressed: 717,909 (Ranked 23)  
 Completed: 12,946 (1.80%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 12,946 (1.80%) (Ranked 135)
 | 2023-12-06 | 717,844 | 12,945 |
 | 2023-12-07 | 717,870 | 12,945 |
 | 2023-12-08 | 717,888 | 12,946 |
-| 2023-12-09 | 717,908 | 12,946 |
+| 2023-12-09 | 717,909 | 12,946 |
 ## Awards
 Max (Great Boss Battles): 6,895  (Ranked 55)  
 Sum: 12,101 (Ranked 83)  

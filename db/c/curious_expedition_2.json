@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 341,
+  "EOS_Progressed": 342,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -335,6 +335,11 @@
       "Time": "2023-11-26T03:09:41.3936638+00:00",
       "NumProgressed": 341,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T15:09:08.9693206+00:00",
+      "NumProgressed": 342,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -362,7 +367,7 @@
       "Name": "Zookeeper",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach-anthropology-complete",
@@ -370,7 +375,7 @@
       "Name": "Islander Understanding",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach-ascension-complete",
@@ -378,7 +383,7 @@
       "Name": "A Paris Sunset",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach-ascension-complete-year",
@@ -416,9 +421,9 @@
       "ID": "ach-butterflies",
       "SetID": "17ih7ma",
       "Name": "SCHMETTERLING",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 27
     },
     {
       "ID": "ach-campaign-allEndings",
@@ -442,7 +447,7 @@
       "Name": "Traveller",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -482,7 +487,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ach-campaign-story2",
@@ -490,7 +495,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ach-campaign-story3",
@@ -514,7 +519,7 @@
       "Name": "Roll to Save",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach-discover-locations",
@@ -522,7 +527,7 @@
       "Name": "Cartographer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ach-discover-locations-high",
@@ -546,7 +551,7 @@
       "Name": "Fire and Flood",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ach-find-treasure",
@@ -610,15 +615,15 @@
       "Name": "Taxonomist",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ach-kill-hyenas",
       "SetID": "17ih7ma",
       "Name": "No Laughing Matter",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 27
     },
     {
       "ID": "ach-kill-sandworm",
@@ -634,7 +639,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -674,7 +679,7 @@
       "Name": "Spooky!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ach-noEquipment",
@@ -688,9 +693,9 @@
       "ID": "ach-noRest",
       "SetID": "17ih7ma",
       "Name": "Insomnia",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 161
     },
     {
       "ID": "ach-pacifist-goals",
@@ -712,9 +717,9 @@
       "ID": "ach-paleMask-party",
       "SetID": "17ih7ma",
       "Name": "Uncertain Loyalties",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 86
     },
     {
       "ID": "ach-portal-return",
@@ -722,7 +727,7 @@
       "Name": "From Whence we Came",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ach-promotion",
@@ -762,7 +767,7 @@
       "Name": "Plunderer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ach-salamanderPrince",
@@ -825,7 +830,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 341,
+      "Progressed": 342,
       "Completed": 1
     }
   ],
@@ -833,8 +838,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-09T14:10:22.2242188+00:00",
+  "LastChanged_Achievements": "2023-12-09T15:09:08.9693204+00:00",
   "LastUpdate_AppInfo": "2023-12-09T12:59:37.4155215+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:57:24.9095003+00:00",
-  "LastUpdate_Achievements": "2023-12-09T14:10:22.2242698+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:57:16.0444828+00:00",
+  "LastUpdate_Achievements": "2023-12-09T15:09:08.9693626+00:00"
 }

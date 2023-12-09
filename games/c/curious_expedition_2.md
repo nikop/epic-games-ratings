@@ -7,23 +7,23 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 63.00% | ~215 |
-| Cartographer | 56.00% | ~191 |
-| A Strange Artefact | 52.00% | ~177 |
-| Insomnia | 48.00% | ~164 |
-| Lost & Found & Lost Again | 42.00% | ~143 |
-| From Whence we Came | 42.00% | ~143 |
-| Fire and Flood | 40.00% | ~136 |
-| Spooky! | 37.00% | ~126 |
-| Shennong Herbalist | 35.00% | ~119 |
+| Cartographer | 56.00% | ~192 |
+| A Strange Artefact | 52.00% | ~178 |
+| Insomnia | 47.00% | ~161 |
+| Lost & Found & Lost Again | 42.00% | ~144 |
+| From Whence we Came | 42.00% | ~144 |
+| Fire and Flood | 40.00% | ~137 |
+| Spooky! | 37.00% | ~127 |
+| Shennong Herbalist | 35.00% | ~120 |
 | Treasure Hunt | 34.00% | ~116 |
 | Good Mama | 32.00% | ~109 |
 | O Captain My Captain | 31.00% | ~106 |
-| Taxonomist | 28.00% | ~95 |
-| Plunderer | 28.00% | ~95 |
-| Uncertain Loyalties | 26.00% | ~89 |
-| Traveller | 25.00% | ~85 |
+| Taxonomist | 28.00% | ~96 |
+| Plunderer | 28.00% | ~96 |
+| Traveller | 25.00% | ~86 |
+| Uncertain Loyalties | 25.00% | ~86 |
 | Nahua Seeker | 24.00% | ~82 |
-| Roll to Save | 23.00% | ~78 |
+| Roll to Save | 23.00% | ~79 |
 | Veteran Explorer | 21.00% | ~72 |
 | Red Flag Pirate | 19.00% | ~65 |
 | Iron Man | 17.00% | ~58 |
@@ -41,16 +41,16 @@ Number of Ratings: 20  (23.09.2022)
 | Very Classy | 12.00% | ~41 |
 | Under the Table | 11.00% | ~38 |
 | It's Complicated | 11.00% | ~38 |
-| SCHMETTERLING | 9.00% | ~31 |
-| No Laughing Matter | 9.00% | ~31 |
 | Cold Blood, Warm Heart | 9.00% | ~31 |
 | Errand Runner | 9.00% | ~31 |
+| SCHMETTERLING | 8.00% | ~27 |
+| No Laughing Matter | 8.00% | ~27 |
 | The Great Library | 8.00% | ~27 |
 | Level Up | 8.00% | ~27 |
 | The Workshop | 7.00% | ~24 |
-| Zookeeper | 6.00% | ~20 |
-| Islander Understanding | 6.00% | ~20 |
-| A Paris Sunset | 6.00% | ~20 |
+| Zookeeper | 6.00% | ~21 |
+| Islander Understanding | 6.00% | ~21 |
+| A Paris Sunset | 6.00% | ~21 |
 | The Director Perseveres | 5.00% | ~17 |
 | The Round Table | 5.00% | ~17 |
 | A Familiar Figure | 4.00% | ~14 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.90% | ~3 |
 | Now I've Seen It All | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341 (Ranked 346)  
+Progressed: 342 (Ranked 346)  
 Completed: 1 (0.29%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,6 +117,7 @@ Completed: 1 (0.29%) (Ranked 241)
 | 2023-11-11 | 339 | 1 |
 | 2023-11-22 | 340 | 1 |
 | 2023-11-26 | 341 | 1 |
+| 2023-12-09 | 342 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

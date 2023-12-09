@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16922,
+  "EOS_Progressed": 16923,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15718,6 +15718,11 @@
       "Time": "2023-12-09T14:04:11.4922152+00:00",
       "NumProgressed": 16922,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-09T15:03:30.8044696+00:00",
+      "NumProgressed": 16923,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15769,7 +15774,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5584
+      "UsersEstimate": 5585
     },
     {
       "ID": "tpote_achievement_15",
@@ -15817,7 +15822,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5584
+      "UsersEstimate": 5585
     },
     {
       "ID": "tpote_achievement_20",
@@ -15833,7 +15838,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4907
+      "UsersEstimate": 4908
     },
     {
       "ID": "tpote_achievement_22",
@@ -15841,7 +15846,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3384
+      "UsersEstimate": 3385
     },
     {
       "ID": "tpote_achievement_23",
@@ -15857,7 +15862,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1862
     },
     {
       "ID": "tpote_achievement_25",
@@ -16017,7 +16022,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4061
+      "UsersEstimate": 4062
     },
     {
       "ID": "tpote_achievement_6",
@@ -16049,22 +16054,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5753
+      "UsersEstimate": 5754
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16922,
+      "Progressed": 16923,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-09T14:04:11.4922148+00:00",
+  "LastChanged_Achievements": "2023-12-09T15:03:30.8044694+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:57:45.5698857+00:00",
-  "LastUpdate_Achievements": "2023-12-09T14:04:11.4923073+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:57:29.8221339+00:00",
+  "LastUpdate_Achievements": "2023-12-09T15:03:30.8045659+00:00"
 }

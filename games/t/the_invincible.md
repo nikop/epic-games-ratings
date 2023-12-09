@@ -13,7 +13,7 @@
 | The End | 31.00% | ~166 |
 | The Alliance | 26.00% | ~139 |
 | The Necroevolution | 25.00% | ~134 |
-| Krauta is alive | 22.00% | ~117 |
+| Krauta is alive | 23.00% | ~123 |
 | Peacemaker | 21.00% | ~112 |
 | Volcanologist | 20.00% | ~107 |
 | On her own | 18.00% | ~96 |
@@ -22,7 +22,7 @@
 | Fierce fight | 15.00% | ~80 |
 | Flying Objects Operator | 14.00% | ~75 |
 | I remember everything! | 13.00% | ~69 |
-| Another giant | 10.00% | ~53 |
+| Another giant | 11.00% | ~59 |
 | Violent solution | 9.00% | ~48 |
 | Innate curiosity | 8.00% | ~43 |
 | The Invincible | 6.00% | ~32 |
@@ -34,7 +34,7 @@
 | Convoy list | 0.90% | ~5 |
 | No more mistakes | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534 (Ranked 311)  
+Progressed: 534 (Ranked 312)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |

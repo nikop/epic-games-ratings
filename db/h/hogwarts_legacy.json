@@ -11733,9 +11733,9 @@
       "Count": 842
     }
   ],
-  "EOS_Progressed": 304126,
+  "EOS_Progressed": 304128,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36728,6 +36728,11 @@
       "Time": "2023-12-09T14:04:50.4021938+00:00",
       "NumProgressed": 304126,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-09T15:03:58.8245296+00:00",
+      "NumProgressed": 304128,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36811,7 +36816,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27371
+      "UsersEstimate": 27372
     },
     {
       "ID": "PFA_19",
@@ -36859,7 +36864,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39536
+      "UsersEstimate": 39537
     },
     {
       "ID": "PFA_24",
@@ -37043,7 +37048,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27371
+      "UsersEstimate": 27372
     },
     {
       "ID": "PFA_45",
@@ -37083,7 +37088,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39536
+      "UsersEstimate": 39537
     },
     {
       "ID": "PFA_9",
@@ -37098,7 +37103,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304126,
+      "Progressed": 304128,
       "Completed": 525
     }
   ],
@@ -37106,8 +37111,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-09T13:58:54.9121506+00:00",
-  "LastChanged_Achievements": "2023-12-09T14:04:50.4021934+00:00",
+  "LastChanged_Achievements": "2023-12-09T15:03:58.8245293+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:58:54.9121523+00:00",
-  "LastUpdate_Achievements": "2023-12-09T14:04:50.4023377+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:58:16.3696723+00:00",
+  "LastUpdate_Achievements": "2023-12-09T15:03:58.8246759+00:00"
 }

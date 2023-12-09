@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -189,9 +189,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1068,
+  "EOS_Progressed": 1069,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2854,6 +2854,11 @@
       "Time": "2023-12-09T13:06:14.1458954+00:00",
       "NumProgressed": 1068,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T15:03:26.0157022+00:00",
+      "NumProgressed": 1069,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -2882,7 +2887,7 @@
       "Name": "Blood and Dust",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "AC03",
@@ -2890,7 +2895,7 @@
       "Name": "Blood and Gold",
       "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "AC04",
@@ -2922,7 +2927,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "AC08",
@@ -2930,15 +2935,15 @@
       "Name": "Forged in Fire",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 630
+      "UsersEstimate": 620
     },
     {
       "ID": "AC10",
@@ -3010,7 +3015,7 @@
       "Name": "Acquired Taste",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "AC19",
@@ -3018,7 +3023,7 @@
       "Name": "Soledad",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "AC20",
@@ -3034,7 +3039,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "AC22",
@@ -3058,7 +3063,7 @@
       "Name": "The Work of a Master",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "AC25",
@@ -3098,7 +3103,7 @@
       "Name": "The Veteran One",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "AC30",
@@ -3112,9 +3117,9 @@
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 460
     },
     {
       "ID": "AC32",
@@ -3128,9 +3133,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 652
     },
     {
       "ID": "AC34",
@@ -3146,7 +3151,7 @@
       "Name": "Flawless Penance",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "AC36",
@@ -3154,7 +3159,7 @@
       "Name": "Blessed Incense",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "AC37",
@@ -3162,7 +3167,7 @@
       "Name": "Storm of Death",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "AC38",
@@ -3170,7 +3175,7 @@
       "Name": "Edge of Orison",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "AC39",
@@ -3186,7 +3191,7 @@
       "Name": "Welcome Back!",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "AC41",
@@ -3233,7 +3238,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 1068,
+      "Progressed": 1069,
       "Completed": 0
     }
   ],
@@ -3241,8 +3246,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-08T06:57:28.1346674+00:00",
-  "LastChanged_Achievements": "2023-12-09T14:04:04.7884959+00:00",
+  "LastChanged_Achievements": "2023-12-09T15:03:26.015702+00:00",
   "LastUpdate_AppInfo": "2023-12-06T02:20:25.0557456+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:58:26.2141325+00:00",
-  "LastUpdate_Achievements": "2023-12-09T14:04:04.7885497+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:57:56.9682349+00:00",
+  "LastUpdate_Achievements": "2023-12-09T15:03:26.0157318+00:00"
 }

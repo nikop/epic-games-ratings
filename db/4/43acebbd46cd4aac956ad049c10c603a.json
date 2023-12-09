@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -218,7 +218,7 @@
   ],
   "EOS_Progressed": 904,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2244,9 +2244,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 127
     },
     {
       "ID": "AnthropicHills",
@@ -2524,9 +2524,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 163
     },
     {
       "ID": "RenaissanceRobot",
@@ -2652,9 +2652,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 118
     },
     {
       "ID": "TrevorsBiographer",
@@ -2717,8 +2717,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-09T14:03:54.2932594+00:00",
+  "LastChanged_Achievements": "2023-12-09T15:03:18.2873715+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:57:23.4033074+00:00",
-  "LastUpdate_Achievements": "2023-12-09T14:03:54.2933382+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:57:15.0270496+00:00",
+  "LastUpdate_Achievements": "2023-12-09T15:03:18.2874421+00:00"
 }

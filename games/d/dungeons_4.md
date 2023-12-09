@@ -48,7 +48,7 @@
 | Sabotage! | 21.00% | ~113 |
 | Raiders of the Lost Stone | 21.00% | ~113 |
 | The Rune Sockets of Finitude (Part 1) | 21.00% | ~113 |
-| The Rune Sockets of Finitude (Part 2) | 18.00% | ~97 |
+| The Rune Sockets of Finitude (Part 2) | 19.00% | ~102 |
 | My Little Torture Chamber | 17.00% | ~91 |
 | Rubble and Ashes | 17.00% | ~91 |
 | The Last Stand - This Time For Real! | 17.00% | ~91 |
@@ -59,8 +59,8 @@
 | Mirror, Mirror | 13.00% | ~70 |
 | Evilification | 13.00% | ~70 |
 | Untouchable | 12.00% | ~64 |
+| Heal Heal Blessing | 11.00% | ~59 |
 | Laser Eyes Are So Useless | 10.00% | ~54 |
-| Heal Heal Blessing | 10.00% | ~54 |
 | Hands Off My Stones | 10.00% | ~54 |
 | Gorgu is in the Best of Health | 9.00% | ~48 |
 | No Mana, No Cry | 7.00% | ~38 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -801,9 +801,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6076,
+  "EOS_Progressed": 6077,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7046,6 +7046,11 @@
       "Time": "2023-12-09T13:08:42.7420722+00:00",
       "NumProgressed": 6076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T15:05:54.0046402+00:00",
+      "NumProgressed": 6077,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -7098,7 +7103,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4800
+      "UsersEstimate": 4801
     },
     {
       "ID": "achievement_0007",
@@ -7106,7 +7111,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5711
+      "UsersEstimate": 5712
     },
     {
       "ID": "achievement_0008",
@@ -7114,7 +7119,7 @@
       "Name": "On the Top Step",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 5408
+      "UsersEstimate": 5409
     },
     {
       "ID": "achievement_0009",
@@ -7170,7 +7175,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "achievement_0016",
@@ -7218,7 +7223,7 @@
       "Name": "Team Orders",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 4618
+      "UsersEstimate": 4619
     },
     {
       "ID": "achievement_0022",
@@ -7234,7 +7239,7 @@
       "Name": "Sharing the Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "achievement_0024",
@@ -7394,7 +7399,7 @@
       "Name": "Familiar Faces",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2977
+      "UsersEstimate": 2978
     },
     {
       "ID": "achievement_0044",
@@ -7410,7 +7415,7 @@
       "Name": "Making History",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "achievement_0046",
@@ -7449,7 +7454,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 6076,
+      "Progressed": 6077,
       "Completed": 0
     }
   ],
@@ -7457,8 +7462,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-12-09T14:01:36.7918105+00:00",
-  "LastChanged_Achievements": "2023-12-09T14:07:29.8302856+00:00",
+  "LastChanged_Achievements": "2023-12-09T15:05:54.00464+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.4962244+00:00",
-  "LastUpdate_Ratings": "2023-12-09T14:01:36.791811+00:00",
-  "LastUpdate_Achievements": "2023-12-09T14:07:29.8303415+00:00"
+  "LastUpdate_Ratings": "2023-12-09T15:00:05.7567636+00:00",
+  "LastUpdate_Achievements": "2023-12-09T15:05:54.0046896+00:00"
 }

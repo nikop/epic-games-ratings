@@ -99,6 +99,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | For the Emperor! | 0.10% | ~472 |
 | For the Glory | 0.10% | ~472 |
 | Forever Golden | 0.10% | ~472 |
+| Forgive me, for I have Sindh | 0.10% | ~472 |
 | Foul Mouthed | 0.10% | ~472 |
 | Four For Trade | 0.10% | ~472 |
 | From Humble Origins | 0.10% | ~472 |
@@ -300,7 +301,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Empire of Mann | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | For Odin! | 0.00% | ~0 |
-| Forgive me, for I have Sindh | 0.00% | ~0 |
 | From Frankfurt to the Andes | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
 | Fugger Banking | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,756 (Ranked 42)  
+Progressed: 471,811 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -603,7 +603,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-06 | 470,325 | 1 |
 | 2023-12-07 | 470,773 | 1 |
 | 2023-12-08 | 471,386 | 1 |
-| 2023-12-09 | 471,756 | 1 |
+| 2023-12-09 | 471,811 | 1 |
 ## Awards
 Max (Educational): 7,307  (Ranked 54)  
 Sum: 60,199 (Ranked 24)  

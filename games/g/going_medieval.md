@@ -15,8 +15,8 @@ Number of Ratings: 706  (23.09.2022)
 | Home Cooked Meal | 61.00% | ~4,377 |
 | Onward | 58.00% | ~4,162 |
 | The First Week | 56.00% | ~4,019 |
+| Beam Me Up | 53.00% | ~3,803 |
 | Studious Researcher | 53.00% | ~3,803 |
-| Beam Me Up | 52.00% | ~3,732 |
 | Putting Food on the Table | 47.00% | ~3,373 |
 | Adept Researcher | 45.00% | ~3,229 |
 | Retribution | 42.00% | ~3,014 |
