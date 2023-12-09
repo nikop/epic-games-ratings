@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2278,9 +2278,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 218298,
+  "EOS_Progressed": 218303,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1196,
+  "EOS_NewPlayers": 1201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -29033,6 +29033,11 @@
       "Time": "2023-12-09T20:04:07.6265081+00:00",
       "NumProgressed": 218298,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-09T21:04:50.9189356+00:00",
+      "NumProgressed": 218303,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -29172,7 +29177,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "Meticulous",
@@ -29395,15 +29400,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 218298,
+      "Progressed": 218303,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-09T17:58:23.097217+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:04:07.6265076+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:04:50.9189351+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.5350998+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:58:19.5552159+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:04:07.6266387+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:58:38.739939+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:04:50.9191208+00:00"
 }

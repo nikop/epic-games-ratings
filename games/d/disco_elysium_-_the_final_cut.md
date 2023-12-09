@@ -7,16 +7,16 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,900 |
-| Biggest Communism Builder | 24.00% | ~31,628 |
+| Biggest Communism Builder | 24.00% | ~31,629 |
 | The World's Most Laughable Centrist | 21.00% | ~27,675 |
 | Il Coppo Del'Arte! | 18.00% | ~23,721 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,085 |
-| Hyperstellar Law Official | 16.00% | ~21,085 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,086 |
+| Hyperstellar Law Official | 16.00% | ~21,086 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,450 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,450 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,132 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,496 |
-| The Figurines Won't Win Her Back | 10.00% | ~13,178 |
+| The Figurines Won't Win Her Back | 10.00% | ~13,179 |
 | Unbelievably Boring **** | 9.00% | ~11,861 |
 | Enemy Of The Physical Realm | 9.00% | ~11,861 |
 | Hardie's Heroes | 6.00% | ~7,907 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Venture into the HARDCORE | 0.90% | ~1,186 |
 | Real Musor | 0.90% | ~1,186 |
 | Baddest Brow in Town | 0.80% | ~1,054 |
-| Networthy Individual | 0.70% | ~922 |
+| Networthy Individual | 0.70% | ~923 |
 | Leopard Mindset | 0.60% | ~791 |
 | Modus: Mullen | 0.30% | ~395 |
 | Palerunner | 0.30% | ~395 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~132 |
 | What body? | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,784 (Ranked 83)  
+Progressed: 131,786 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,11 +280,11 @@ Completed: 28 (0.02%) (Ranked 339)
 | 2023-12-06 | 131,683 | 28 |
 | 2023-12-07 | 131,714 | 28 |
 | 2023-12-08 | 131,744 | 28 |
-| 2023-12-09 | 131,784 | 28 |
+| 2023-12-09 | 131,786 | 28 |
 ## Awards
 Max (Character Customization): 742  (Ranked 183)  
-Sum: 1,133 (Ranked 255)  
-Diff (max vs sum): -72  
+Sum: 1,133 (Ranked 256)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 742 |

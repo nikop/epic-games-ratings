@@ -10,15 +10,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 7.00% | ~10,114 |
 | Titan's First Steps | 7.00% | ~10,114 |
 | Tinkle of Coins | 6.00% | ~8,669 |
-| Disintermediation | 5.00% | ~7,224 |
-| It's Free Real Estate | 5.00% | ~7,224 |
-| Capitalism Ho! | 5.00% | ~7,224 |
-| One Easy Payment | 4.00% | ~5,779 |
-| Some Assembly Required | 4.00% | ~5,779 |
-| Another Satisfied Customer | 4.00% | ~5,779 |
-| Pretty Penny | 4.00% | ~5,779 |
-| Budding Merchant | 4.00% | ~5,779 |
-| Own the Means of Production | 4.00% | ~5,779 |
+| Disintermediation | 5.00% | ~7,225 |
+| It's Free Real Estate | 5.00% | ~7,225 |
+| Capitalism Ho! | 5.00% | ~7,225 |
+| One Easy Payment | 4.00% | ~5,780 |
+| Some Assembly Required | 4.00% | ~5,780 |
+| Another Satisfied Customer | 4.00% | ~5,780 |
+| Pretty Penny | 4.00% | ~5,780 |
+| Budding Merchant | 4.00% | ~5,780 |
+| Own the Means of Production | 4.00% | ~5,780 |
 | The Daily Grind | 3.00% | ~4,335 |
 | Bounty Hunters | 3.00% | ~4,335 |
 | Demand for Supplies | 3.00% | ~4,335 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~433 |
 | Capitalist Camaraderie | 0.20% | ~289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,485 (Ranked 80)  
+Progressed: 144,491 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,16 +352,16 @@ Completed: 291 (0.20%) (Ranked 258)
 | 2023-12-06 | 144,049 | 291 |
 | 2023-12-07 | 144,162 | 291 |
 | 2023-12-08 | 144,354 | 291 |
-| 2023-12-09 | 144,485 | 291 |
+| 2023-12-09 | 144,491 | 291 |
 ## Awards
 Max (Great for Beginners): 4,871  (Ranked 75)  
-Sum: 27,679 (Ranked 50)  
+Sum: 27,680 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,871 |
 | This game is Relaxing | 4,056 |
-| This game has Quickly Understood Controls | 4,039 |
+| This game has Quickly Understood Controls | 4,040 |
 | This game has Diverse Characters | 3,965 |
 | This game is Highly Recommended | 3,792 |
 | This game has Easy Combat | 3,739 |
@@ -682,4 +682,4 @@ Diff (max vs sum): 25
 | 2023-12-06 | 3.99 | - | 4,868 | 27,669 |
 | 2023-12-07 | 3.99 | - | 4,870 | 27,674 |
 | 2023-12-08 | 3.99 | - | 4,870 | 27,678 |
-| 2023-12-09 | 3.99 | - | 4,871 | 27,679 |
+| 2023-12-09 | 3.99 | - | 4,871 | 27,680 |

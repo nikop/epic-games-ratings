@@ -5,10 +5,10 @@
   "Ranking_Rating": 387,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
-  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3046,9 +3046,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1043
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -3086,9 +3086,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1090
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -3134,17 +3134,17 @@
       "ID": "GSS_ACH_12_RACE_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "RC Car Racer!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 581
     },
     {
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1102
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -3166,9 +3166,9 @@
       "ID": "GSS_ACH_16_ORDER_FUEL",
       "SetID": "5fn8ia4",
       "Name": "Fuel Ordered",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1114
     },
     {
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
@@ -3190,9 +3190,9 @@
       "ID": "GSS_ACH_19_RUDY",
       "SetID": "5fn8ia4",
       "Name": "Rudy!",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1138
     },
     {
       "ID": "GSS_ACH_20_DECORATION_01",
@@ -3206,9 +3206,9 @@
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1055
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -3230,9 +3230,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1090
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -3614,9 +3614,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1043
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -3703,8 +3703,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:04:57.772929+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:05:41.4072221+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:58:11.0091836+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:04:57.7730269+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:58:29.9412582+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:05:41.4073234+00:00"
 }

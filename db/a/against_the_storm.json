@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 3694,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 3695,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3389,9 +3389,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17788,
+  "EOS_Progressed": 17794,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15154,6 +15154,11 @@
       "Time": "2023-12-09T20:04:46.4360906+00:00",
       "NumProgressed": 17788,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-09T21:05:30.3133009+00:00",
+      "NumProgressed": 17794,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15420,9 +15425,9 @@
       "ID": "WinNearWatchtower",
       "SetID": "cfbk359",
       "Name": "Watchtower",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 107
     },
     {
       "ID": "WinOnCoral",
@@ -15500,9 +15505,9 @@
       "ID": "WinWithEvents",
       "SetID": "cfbk359",
       "Name": "Taking Action",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 142
     },
     {
       "ID": "WinWithResolve",
@@ -15637,15 +15642,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17788,
+      "Progressed": 17794,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-09T19:57:17.433999+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:04:46.4360902+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:05:30.3133007+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:57:17.4339996+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:04:46.4362002+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:57:36.3567774+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:05:30.313392+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38811,
+  "EOS_Progressed": 38814,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20546,6 +20546,11 @@
       "Time": "2023-12-09T20:06:20.0549271+00:00",
       "NumProgressed": 38811,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-12-09T21:07:04.8703669+00:00",
+      "NumProgressed": 38814,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 14,
@@ -20573,7 +20578,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10091
+      "UsersEstimate": 10092
     },
     {
       "ID": "allItems",
@@ -20629,7 +20634,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "firstBunny",
@@ -20645,7 +20650,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 29884
+      "UsersEstimate": 29887
     },
     {
       "ID": "roots",
@@ -20668,15 +20673,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 38811,
+      "Progressed": 38814,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:06:20.0549265+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:07:04.8703666+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:07.3802945+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:00:25.7714512+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:06:20.0550441+00:00"
+  "LastUpdate_Ratings": "2023-12-09T21:03:15.6576045+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:07:04.8704882+00:00"
 }

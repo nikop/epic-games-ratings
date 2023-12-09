@@ -9,7 +9,7 @@ Number of Ratings: 292  (23.09.2022)
 | Adept | 37.00% | ~148 |
 | Double Kill | 28.00% | ~112 |
 | Critical Hit | 16.00% | ~64 |
-| Veteran | 15.00% | ~60 |
+| Veteran | 14.00% | ~56 |
 | Dressed For Success | 11.00% | ~44 |
 | Sorcerous Spree | 7.00% | ~28 |
 | Humiliation | 7.00% | ~28 |
@@ -29,9 +29,9 @@ Number of Ratings: 292  (23.09.2022)
 | Pyrrhic Victory | 2.00% | ~8 |
 | This Spot's Taken | 1.00% | ~4 |
 | Infernal Influence | 1.00% | ~4 |
+| Ultra Kill | 1.00% | ~4 |
 | Grand Master | 1.00% | ~4 |
 | Together For Her | 0.80% | ~3 |
-| Ultra Kill | 0.80% | ~3 |
 | Death To Diplomacy | 0.50% | ~2 |
 | Unlimited Power! | 0.50% | ~2 |
 | Coming Through! | 0.50% | ~2 |
@@ -42,7 +42,9 @@ Number of Ratings: 292  (23.09.2022)
 | Cleave | 0.50% | ~2 |
 | Hello There | 0.30% | ~1 |
 | Fully Charged | 0.30% | ~1 |
+| Killing Spree | 0.30% | ~1 |
 | An Empress's Hope | 0.30% | ~1 |
+| Oops! | 0.30% | ~1 |
 | Get Over Here! | 0.30% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
@@ -52,16 +54,14 @@ Number of Ratings: 292  (23.09.2022)
 | Die by the Staff | 0.00% | ~0 |
 | Die by the Sword | 0.00% | ~0 |
 | Full House | 0.00% | ~0 |
-| Killing Spree | 0.00% | ~0 |
 | Proof That Luck Can Be Consistent | 0.00% | ~0 |
-| Oops! | 0.00% | ~0 |
 | Death From Above | 0.00% | ~0 |
 | Kneel, peasant! | 0.00% | ~0 |
 | Contractually Obligated to Win | 0.00% | ~0 |
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399 (Ranked 333)  
+Progressed: 400 (Ranked 333)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 367 | 0 |
 | 2023-12-07 | 373 | 0 |
 | 2023-12-08 | 386 | 0 |
-| 2023-12-09 | 399 | 0 |
+| 2023-12-09 | 400 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 514)  
 Sum: 194 (Ranked 407)  

@@ -2,13 +2,13 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 547,
+  "Ranking_Rating": 546,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -599,9 +599,9 @@
       "ID": "ACH_KILL_MILENKOV",
       "SetID": "4n84pon",
       "Name": "Lobster Blisque",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_KILL_ORANCHOV",
@@ -751,9 +751,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -776,8 +776,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-10-14T18:57:04.8470544+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:05:59.6482739+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:06:44.2399056+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.5493724+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:59:25.8078667+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:05:59.6482998+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:59:45.1417556+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:06:44.2399332+00:00"
 }

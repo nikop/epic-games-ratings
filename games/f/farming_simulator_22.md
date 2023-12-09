@@ -6,39 +6,39 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 74.00% | ~40,897 |
-| I read Shakespeare and stuff | 62.00% | ~34,265 |
-| Just a sprinkle | 61.00% | ~33,712 |
-| I'm stumped | 59.00% | ~32,607 |
-| Plant get enough | 59.00% | ~32,607 |
-| It's just the beginning | 57.00% | ~31,502 |
-| This is just my weekend vehicle | 56.00% | ~30,949 |
-| Hard work pays off | 51.00% | ~28,186 |
-| It's never too late to farm | 49.00% | ~27,080 |
-| All out of Land | 43.00% | ~23,764 |
-| Field Trip | 42.00% | ~23,212 |
-| I like to switch it up | 39.00% | ~21,554 |
-| Help me to help you | 37.00% | ~20,448 |
-| Ultimutt Pawesomeness | 27.00% | ~14,922 |
-| Van Gogh | 25.00% | ~13,816 |
-| Vehicle fleet | 22.00% | ~12,159 |
-| You wood not believe it | 21.00% | ~11,606 |
-| Well-Oiled Machine | 16.00% | ~8,843 |
-| Clucky Streak | 15.00% | ~8,290 |
-| The plot thickens | 15.00% | ~8,290 |
-| Large-scale supplier | 15.00% | ~8,290 |
-| Long haul | 15.00% | ~8,290 |
-| That's a wrap | 14.00% | ~7,737 |
-| Fix me up | 12.00% | ~6,632 |
-| It's sow easy | 11.00% | ~6,079 |
-| Rock on | 11.00% | ~6,079 |
+| Own use | 74.00% | ~40,903 |
+| I read Shakespeare and stuff | 62.00% | ~34,270 |
+| Just a sprinkle | 61.00% | ~33,717 |
+| I'm stumped | 59.00% | ~32,612 |
+| Plant get enough | 59.00% | ~32,612 |
+| It's just the beginning | 57.00% | ~31,506 |
+| This is just my weekend vehicle | 56.00% | ~30,953 |
+| Hard work pays off | 51.00% | ~28,190 |
+| It's never too late to farm | 49.00% | ~27,084 |
+| All out of Land | 43.00% | ~23,768 |
+| Field Trip | 42.00% | ~23,215 |
+| I like to switch it up | 39.00% | ~21,557 |
+| Help me to help you | 37.00% | ~20,451 |
+| Ultimutt Pawesomeness | 27.00% | ~14,924 |
+| Van Gogh | 25.00% | ~13,818 |
+| Vehicle fleet | 22.00% | ~12,160 |
+| You wood not believe it | 21.00% | ~11,608 |
+| Well-Oiled Machine | 16.00% | ~8,844 |
+| Clucky Streak | 15.00% | ~8,291 |
+| The plot thickens | 15.00% | ~8,291 |
+| Large-scale supplier | 15.00% | ~8,291 |
+| Long haul | 15.00% | ~8,291 |
+| That's a wrap | 14.00% | ~7,738 |
+| Fix me up | 12.00% | ~6,633 |
+| It's sow easy | 11.00% | ~6,080 |
+| Rock on | 11.00% | ~6,080 |
 | Highly cultivated | 10.00% | ~5,527 |
 | Giddy-up! | 10.00% | ~5,527 |
 | Cowherd | 7.00% | ~3,869 |
 | Fluffyness | 6.00% | ~3,316 |
-| Road Trip | 5.00% | ~2,763 |
-| Helper A does not stop … ever | 5.00% | ~2,763 |
-| Bringing in the Honey | 5.00% | ~2,763 |
+| Road Trip | 5.00% | ~2,764 |
+| Helper A does not stop … ever | 5.00% | ~2,764 |
+| Bringing in the Honey | 5.00% | ~2,764 |
 | Three little piggies… | 4.00% | ~2,211 |
 | Game on | 4.00% | ~2,211 |
 | Pretty colourful | 0.80% | ~442 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~221 |
 | Raisin the stakes | 0.30% | ~166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,266 (Ranked 111)  
+Progressed: 55,274 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,10 +283,10 @@ Completed: 6 (0.01%) (Ranked 348)
 | 2023-12-06 | 54,967 | 6 |
 | 2023-12-07 | 55,056 | 6 |
 | 2023-12-08 | 55,168 | 6 |
-| 2023-12-09 | 55,266 | 6 |
+| 2023-12-09 | 55,274 | 6 |
 ## Awards
 Max (Great for Beginners): 5,760  (Ranked 68)  
-Sum: 43,941 (Ranked 34)  
+Sum: 43,942 (Ranked 34)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -295,7 +295,7 @@ Diff (max vs sum): 34
 | This game is Educational | 4,428 |
 | This game is Highly Recommended | 4,378 |
 | This game has Quickly Understood Controls | 4,337 |
-| This game is Relaxing | 4,333 |
+| This game is Relaxing | 4,334 |
 | This game is Extremely Fun | 4,257 |
 | This game has Amazing Storytelling | 4,163 |
 | This game has Amazing Characters | 3,825 |
@@ -631,4 +631,4 @@ Diff (max vs sum): 34
 | 2023-12-06 | 4.68 | - | 5,743 | 43,817 |
 | 2023-12-07 | 4.68 | - | 5,752 | 43,863 |
 | 2023-12-08 | 4.68 | - | 5,760 | 43,902 |
-| 2023-12-09 | 4.68 | - | 5,760 | 43,941 |
+| 2023-12-09 | 4.68 | - | 5,760 | 43,942 |

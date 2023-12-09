@@ -19,8 +19,8 @@
 | Doodle Bar | 17.00% | ~44 |
 | Half the Kingdom | 16.00% | ~42 |
 | Creator of Magic | 15.00% | ~39 |
+| Heavenly Virtues | 11.00% | ~29 |
 | Salvation! | 10.00% | ~26 |
-| Heavenly Virtues | 10.00% | ~26 |
 | Brilliant Inventor | 7.00% | ~18 |
 | Greatest inventor | 7.00% | ~18 |
 | Master of Alchemy | 5.00% | ~13 |

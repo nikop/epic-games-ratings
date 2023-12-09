@@ -6,14 +6,14 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,999 |
-| Landlord | 34.00% | ~22,949 |
-| Bannerlord | 24.00% | ~16,200 |
-| Horde breaker | 24.00% | ~16,200 |
-| Lawmaker | 24.00% | ~16,200 |
-| Trained | 24.00% | ~16,200 |
-| The king is pleased | 19.00% | ~12,825 |
-| King Solomon | 18.00% | ~12,150 |
+| Lawbringer | 40.00% | ~27,001 |
+| Landlord | 34.00% | ~22,951 |
+| Bannerlord | 24.00% | ~16,201 |
+| Horde breaker | 24.00% | ~16,201 |
+| Lawmaker | 24.00% | ~16,201 |
+| Trained | 24.00% | ~16,201 |
+| The king is pleased | 19.00% | ~12,826 |
+| King Solomon | 18.00% | ~12,151 |
 | Apple of my eye | 16.00% | ~10,800 |
 | I can do it | 16.00% | ~10,800 |
 | This Is Our Land | 14.00% | ~9,450 |
@@ -36,29 +36,29 @@ Number of Ratings: 5,603  (23.09.2022)
 | Real Estate | 3.00% | ~2,025 |
 | Entrepreneur | 1.00% | ~675 |
 | Supreme Emperor | 1.00% | ~675 |
-| Crackshot | 0.90% | ~607 |
-| Undercover | 0.90% | ~607 |
-| Fat Cat | 0.70% | ~472 |
+| Crackshot | 0.90% | ~608 |
+| Undercover | 0.90% | ~608 |
+| Fat Cat | 0.70% | ~473 |
 | Catch | 0.60% | ~405 |
-| Slice 'n dice | 0.50% | ~337 |
+| Slice 'n dice | 0.50% | ~338 |
 | Ride it like you stole it | 0.40% | ~270 |
-| Mounted Archery | 0.30% | ~202 |
+| Mounted Archery | 0.30% | ~203 |
 | Explorer | 0.20% | ~135 |
 | Great Granny | 0.20% | ~135 |
 | Strike! | 0.20% | ~135 |
-| Best served cold | 0.10% | ~67 |
-| Butcher of Calradia | 0.10% | ~67 |
-| Headhunter | 0.10% | ~67 |
-| Heartbreaker | 0.10% | ~67 |
-| Kingslayer | 0.10% | ~67 |
-| Lance-a-lot | 0.10% | ~67 |
-| Minor Clan | 0.10% | ~67 |
-| Roadkill | 0.10% | ~67 |
-| This is Sparta! | 0.10% | ~67 |
+| Best served cold | 0.10% | ~68 |
+| Butcher of Calradia | 0.10% | ~68 |
+| Headhunter | 0.10% | ~68 |
+| Heartbreaker | 0.10% | ~68 |
+| Kingslayer | 0.10% | ~68 |
+| Lance-a-lot | 0.10% | ~68 |
+| Minor Clan | 0.10% | ~68 |
+| Roadkill | 0.10% | ~68 |
+| This is Sparta! | 0.10% | ~68 |
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,498 (Ranked 104)  
+Progressed: 67,503 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,14 +291,14 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 67,239 | 0 |
 | 2023-12-07 | 67,320 | 0 |
 | 2023-12-08 | 67,387 | 0 |
-| 2023-12-09 | 67,498 | 0 |
+| 2023-12-09 | 67,503 | 0 |
 ## Awards
-Max (Character Customization): 7,526  (Ranked 53)  
-Sum: 15,694 (Ranked 68)  
+Max (Character Customization): 7,535  (Ranked 53)  
+Sum: 15,703 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,526 |
+| This game has Inclusive Character Customization | 7,535 |
 | This game is Great for Beginners | 1,104 |
 | This game has Diverse Characters | 1,043 |
 | This game is Highly Recommended | 967 |
@@ -641,4 +641,4 @@ Diff (max vs sum): -15
 | 2023-12-06 | 4.74 | - | 7,511 | 15,644 |
 | 2023-12-07 | 4.74 | - | 7,518 | 15,660 |
 | 2023-12-08 | 4.74 | - | 7,526 | 15,679 |
-| 2023-12-09 | 4.74 | - | 7,526 | 15,694 |
+| 2023-12-09 | 4.74 | - | 7,535 | 15,703 |

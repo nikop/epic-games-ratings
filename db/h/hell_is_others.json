@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 751,
+  "Ranking_Rating": 752,
   "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1309,9 +1309,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259184,
+  "EOS_Progressed": 259185,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23664,6 +23664,11 @@
       "Time": "2023-12-09T18:06:36.840744+00:00",
       "NumProgressed": 259184,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-09T21:08:48.0548776+00:00",
+      "NumProgressed": 259185,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -23963,7 +23968,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59612
+      "UsersEstimate": 59613
     },
     {
       "ID": "KillOthers2",
@@ -24122,7 +24127,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259184,
+      "Progressed": 259185,
       "Completed": 3
     }
   ],
@@ -24130,8 +24135,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-08T13:02:45.6518515+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:08:14.4004683+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:08:48.0548772+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:43.7496821+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:58:36.8615622+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:08:14.4006017+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:58:55.6391984+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:08:48.0550443+00:00"
 }

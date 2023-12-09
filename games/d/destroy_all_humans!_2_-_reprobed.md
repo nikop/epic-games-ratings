@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 547)  
+Rating: 4.53 (Ranked 546)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,8 +10,8 @@ Number of Ratings: 90  (23.09.2022)
 | Rock of the Bay | 32.00% | ~9 |
 | Furon Fashion | 25.00% | ~7 |
 | Ducks in a Row, Fish in a Barrel | 25.00% | ~7 |
+| Shop Til They Drop | 21.00% | ~6 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 18.00% | ~5 |
-| Shop Til They Drop | 18.00% | ~5 |
 | I Look Up As I Walk to Takoshima | 14.00% | ~4 |
 | Upgreatest | 14.00% | ~4 |
 | Pimp My Raid | 14.00% | ~4 |
@@ -26,6 +26,7 @@ Number of Ratings: 90  (23.09.2022)
 | Scuttled | 7.00% | ~2 |
 | Transmitting From Sol-3 | 4.00% | ~1 |
 | Forbidden Donut | 4.00% | ~1 |
+| Lobster Blisque | 4.00% | ~1 |
 | Freshly Squeezed | 4.00% | ~1 |
 | Die Nasty | 4.00% | ~1 |
 | Yettisoned | 4.00% | ~1 |
@@ -38,7 +39,6 @@ Number of Ratings: 90  (23.09.2022)
 | Hidden Human Hive Harvest | 0.00% | ~0 |
 | Toilet Break | 0.00% | ~0 |
 | Albion Bridge Is for Falling Down | 0.00% | ~0 |
-| Lobster Blisque | 0.00% | ~0 |
 | Ouch of Body Experience | 0.00% | ~0 |
 | Deincarnated | 0.00% | ~0 |
 | The Optional Mandate | 0.00% | ~0 |

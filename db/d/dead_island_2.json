@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7419,9 +7419,9 @@
       "Count": 524
     }
   ],
-  "EOS_Progressed": 732488,
+  "EOS_Progressed": 732524,
   "EOS_Completed": 2470,
-  "EOS_NewPlayers": 3355,
+  "EOS_NewPlayers": 3388,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -34184,6 +34184,11 @@
       "Time": "2023-12-09T20:08:46.2854718+00:00",
       "NumProgressed": 732488,
       "NumCompleted": 2470
+    },
+    {
+      "Time": "2023-12-09T21:09:20.3589532+00:00",
+      "NumProgressed": 732524,
+      "NumCompleted": 2470
     }
   ],
   "TotalAchievements": 51,
@@ -34227,7 +34232,7 @@
       "Name": "Make it So",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     },
     {
       "ID": "ach_big_name_in_town",
@@ -34235,7 +34240,7 @@
       "Name": "LA Influential",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     },
     {
       "ID": "ach_blueprinted",
@@ -34363,7 +34368,7 @@
       "Name": "Donk!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ach_internet_famous",
@@ -34531,7 +34536,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 21975
+      "UsersEstimate": 21976
     },
     {
       "ID": "ach_well_known_survivor",
@@ -34547,7 +34552,7 @@
       "Name": "Bucket List",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ach_brink_of_success",
@@ -34563,7 +34568,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "ach_gardening_tools",
@@ -34579,7 +34584,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -34602,13 +34607,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 732488,
+      "Progressed": 732524,
       "Completed": 2470
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 58030,
+      "Progressed": 58066,
       "Completed": 36648
     }
   ],
@@ -34616,8 +34621,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-09T18:59:42.5187376+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:08:46.2854715+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:09:20.3589527+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:59:38.185651+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:08:46.2856346+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:59:57.3152171+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:09:20.3591151+00:00"
 }

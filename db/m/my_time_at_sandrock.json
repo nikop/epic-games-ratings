@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 3694,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1820,7 +1820,7 @@
   ],
   "EOS_Progressed": 506,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": -5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6069,9 +6069,9 @@
       "ID": "P_FOREST",
       "SetID": "80dcan0",
       "Name": "The Little Wood that Could",
-      "Percentage": 116,
+      "Percentage": 117,
       "XP": 20,
-      "UsersEstimate": 587
+      "UsersEstimate": 592
     },
     {
       "ID": "P_HYDROGEL",
@@ -6165,9 +6165,9 @@
       "ID": "P_WATERTOWER",
       "SetID": "80dcan0",
       "Name": "Got the Flow Back",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 268
     },
     {
       "ID": "S_BRIGHTSUN",
@@ -6181,9 +6181,9 @@
       "ID": "S_CARD",
       "SetID": "80dcan0",
       "Name": "Cardistry",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 121
     },
     {
       "ID": "S_CHAT",
@@ -6261,9 +6261,9 @@
       "ID": "S_MARRY",
       "SetID": "80dcan0",
       "Name": "I Do!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 400
+      "UsersEstimate": 405
     },
     {
       "ID": "S_PARTY",
@@ -6381,8 +6381,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-08T15:00:12.2220877+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:05:57.5133156+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:06:42.1184804+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:11.8739142+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:57:34.4150557+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:05:57.5133829+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:57:54.1749633+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:06:42.1185364+00:00"
 }

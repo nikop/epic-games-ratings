@@ -10,14 +10,14 @@ Number of Ratings: 892  (23.09.2022)
 | Iron Chef | 174.00% | ~880 |
 | Super Spelunker | 141.00% | ~713 |
 | Greeno-B-Gone | 133.00% | ~673 |
-| The Little Wood that Could | 116.00% | ~587 |
+| The Little Wood that Could | 117.00% | ~592 |
 | Your Especially Earned Trajectory | 110.00% | ~557 |
 | No Mountain Wide Enough | 88.00% | ~445 |
 | One of the Cool Kids | 88.00% | ~445 |
 | Yakmel Whisperer | 83.00% | ~420 |
 | On that Grindset | 82.00% | ~415 |
+| I Do! | 80.00% | ~405 |
 | Diamonds are Forever | 80.00% | ~405 |
-| I Do! | 79.00% | ~400 |
 | Pack Mule | 78.00% | ~395 |
 | Can We Keep It? | 78.00% | ~395 |
 | First Love | 75.00% | ~380 |
@@ -44,8 +44,8 @@ Number of Ratings: 892  (23.09.2022)
 | Knowledge is Power | 56.00% | ~283 |
 | Finishing Touches | 56.00% | ~283 |
 | Bridging the Gap | 56.00% | ~283 |
+| Got the Flow Back | 53.00% | ~268 |
 | Sepia Toned Memories | 52.00% | ~263 |
-| Got the Flow Back | 52.00% | ~263 |
 | Who Ya Gonna Call...? | 49.00% | ~248 |
 | Jewel of the Eufaula | 47.00% | ~238 |
 | Time Flies | 46.00% | ~233 |
@@ -59,7 +59,7 @@ Number of Ratings: 892  (23.09.2022)
 | Pro Gamer | 35.00% | ~177 |
 | Newton | 35.00% | ~177 |
 | Do Your Part | 34.00% | ~172 |
-| Cardistry | 23.00% | ~116 |
+| Cardistry | 24.00% | ~121 |
 | Winner and Still Champeen | 20.00% | ~101 |
 | It's High Noon... | 16.00% | ~81 |
 | Strong Arms | 16.00% | ~81 |

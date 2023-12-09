@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,9 +216,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 911,
+  "EOS_Progressed": 912,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2246,6 +2246,11 @@
       "Time": "2023-12-09T20:03:33.9294973+00:00",
       "NumProgressed": 911,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T21:04:16.4238235+00:00",
+      "NumProgressed": 912,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2296,9 +2301,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 182
     },
     {
       "ID": "BreakTheLoop",
@@ -2482,7 +2487,7 @@
       "Name": "Museum Visitor",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "NewBeginning",
@@ -2512,9 +2517,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 164
     },
     {
       "ID": "Persistent",
@@ -2674,15 +2679,15 @@
       "Name": "Touch Grass",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "TrevorsBiographer",
       "SetID": "1n308hc",
       "Name": "Trevor\u0027s Biographer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 36
     },
     {
       "ID": "VerdantCanyon",
@@ -2729,7 +2734,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 911,
+      "Progressed": 912,
       "Completed": 1
     }
   ],
@@ -2737,8 +2742,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:03:33.9294966+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:04:16.4238231+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:57:28.2705253+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:03:33.9295536+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:57:47.8369559+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:04:16.4238779+00:00"
 }

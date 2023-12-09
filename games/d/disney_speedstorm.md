@@ -1,36 +1,36 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.39 (Ranked 751)  
+Rating: 4.39 (Ranked 752)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~39,904 |
-| IT MAKES BOOM! | 7.00% | ~23,277 |
-| EXTRA BOOST | 5.00% | ~16,627 |
-| PROTECTED | 4.00% | ~13,301 |
-| PRO | 4.00% | ~13,301 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,976 |
-| AGGRESSIVE RACER | 3.00% | ~9,976 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,651 |
-| A TIGER'S FEAR | 2.00% | ~6,651 |
-| TRAINING HARD | 1.00% | ~3,325 |
-| BE OUR GUEST | 1.00% | ~3,325 |
-| ACE SPEEDSTER | 1.00% | ~3,325 |
-| FRIENDLY | 1.00% | ~3,325 |
-| MASTER | 1.00% | ~3,325 |
-| RELEASE THE KRAKEN | 0.90% | ~2,993 |
-| LEGENDARY HERO | 0.90% | ~2,993 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,660 |
+| ROOKIE | 12.00% | ~39,914 |
+| IT MAKES BOOM! | 7.00% | ~23,283 |
+| EXTRA BOOST | 5.00% | ~16,631 |
+| PROTECTED | 4.00% | ~13,305 |
+| PRO | 4.00% | ~13,305 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,978 |
+| AGGRESSIVE RACER | 3.00% | ~9,978 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,652 |
+| A TIGER'S FEAR | 2.00% | ~6,652 |
+| TRAINING HARD | 1.00% | ~3,326 |
+| BE OUR GUEST | 1.00% | ~3,326 |
+| ACE SPEEDSTER | 1.00% | ~3,326 |
+| FRIENDLY | 1.00% | ~3,326 |
+| MASTER | 1.00% | ~3,326 |
+| RELEASE THE KRAKEN | 0.90% | ~2,994 |
+| LEGENDARY HERO | 0.90% | ~2,994 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,661 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,328 |
-| EXPERIENCED CREW | 0.60% | ~1,995 |
+| EXPERIENCED CREW | 0.60% | ~1,996 |
 | ACE BRAWLER | 0.50% | ~1,663 |
 | ACE DEFENDER | 0.50% | ~1,663 |
 | FRAMED! | 0.40% | ~1,330 |
 | ACE TRICKSTER | 0.40% | ~1,330 |
 | PERFECTLY POISED | 0.30% | ~998 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 332,533 (Ranked 50)  
+Progressed: 332,616 (Ranked 50)  
 Completed: 531 (0.16%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 531 (0.16%) (Ranked 272)
 | 2023-12-06 | 329,171 | 498 |
 | 2023-12-07 | 330,196 | 508 |
 | 2023-12-08 | 331,482 | 521 |
-| 2023-12-09 | 332,533 | 531 |
+| 2023-12-09 | 332,616 | 531 |
 ## Awards
 Max (Great for Beginners): 117  (Ranked 347)  
 Sum: 815 (Ranked 282)  

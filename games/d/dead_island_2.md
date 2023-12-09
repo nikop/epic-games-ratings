@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,975 |
-| Whatever It Takes | 3.00% | ~1,741 |
-| Pork Chopped | 3.00% | ~1,741 |
+| Welcome To Hell-A | 3.00% | ~21,976 |
+| Whatever It Takes | 3.00% | ~1,742 |
+| Pork Chopped | 3.00% | ~1,742 |
 | Dr. Reed, I Presume? | 2.00% | ~14,650 |
 | Git Gutte! | 2.00% | ~14,650 |
 | Anger Management | 2.00% | ~14,650 |
@@ -45,19 +45,19 @@ Rating: 4.54 (Ranked 534)
 | Smorgasbord | 0.60% | ~4,395 |
 | Internet Famous | 0.60% | ~4,395 |
 | Variety is the Spice of Death | 0.60% | ~4,395 |
-| Make it So | 0.50% | ~3,662 |
-| LA Influential | 0.50% | ~3,662 |
+| Make it So | 0.50% | ~3,663 |
+| LA Influential | 0.50% | ~3,663 |
 | Sole Survivor | 0.40% | ~2,930 |
 | Gore Horse | 0.40% | ~2,930 |
 | Sharpest Tool in the Box | 0.40% | ~2,930 |
 | Top That, Tisha! | 0.40% | ~232 |
 | Survival Skills | 0.20% | ~1,465 |
 | Lawn and Order | 0.20% | ~116 |
-| Donk! | 0.10% | ~732 |
-| Bucket List | 0.10% | ~732 |
+| Donk! | 0.10% | ~733 |
+| Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,488 (Ranked 21)  
+Progressed: 732,524 (Ranked 21)  
 Completed: 2,470 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 2,470 (0.34%) (Ranked 234)
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
-| 2023-12-09 | 732,488 | 2,470 |
+| 2023-12-09 | 732,524 | 2,470 |
 ## Awards
 Max (Great Boss Battles): 8,042  (Ranked 49)  
 Sum: 12,362 (Ranked 82)  

@@ -4,11 +4,11 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 25,
   "Ranking_Popularity": 183,
-  "Ranking_PopularitySum": 255,
+  "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1532,9 +1532,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131784,
+  "EOS_Progressed": 131786,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24247,6 +24247,11 @@
       "Time": "2023-12-09T20:04:24.462746+00:00",
       "NumProgressed": 131784,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-09T21:05:07.964819+00:00",
+      "NumProgressed": 131786,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24314,7 +24319,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31628
+      "UsersEstimate": 31629
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -24362,7 +24367,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21085
+      "UsersEstimate": 21086
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -24394,7 +24399,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21085
+      "UsersEstimate": 21086
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -24418,7 +24423,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13178
+      "UsersEstimate": 13179
     },
     {
       "ID": "ACH_GLUTEN",
@@ -24522,7 +24527,7 @@
       "Name": "Networthy Individual",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ACH_PALERUNNER",
@@ -24577,15 +24582,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131784,
+      "Progressed": 131786,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-09T07:57:19.028339+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:04:24.4627451+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:05:07.9648186+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:21.910323+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:57:23.6925976+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:04:24.4628664+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:57:42.8966469+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:05:07.964949+00:00"
 }

@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 927,
+  "EOS_Progressed": 928,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.83,
+  "EOS_Completed_Percentage": 5.82,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3730,6 +3730,11 @@
       "Time": "2023-12-09T20:05:43.7122563+00:00",
       "NumProgressed": 927,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-09T21:06:28.554602+00:00",
+      "NumProgressed": 928,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 25,
@@ -3741,7 +3746,7 @@
       "Name": "I did it",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "END_GOOD",
@@ -3757,7 +3762,7 @@
       "Name": "Peace walker",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -3885,7 +3890,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3901,7 +3906,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "PROGRESS_N2",
@@ -3940,14 +3945,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 927,
+      "Progressed": 928,
       "Completed": 54
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:05:43.7122561+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:06:28.5546018+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:59:52.1963344+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:05:43.7122833+00:00"
+  "LastUpdate_Ratings": "2023-12-09T21:00:11.5771833+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:06:28.5546291+00:00"
 }

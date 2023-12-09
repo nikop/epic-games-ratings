@@ -2,10 +2,10 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 484,
+  "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -687,8 +687,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:08:25.5489275+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:08:59.5687913+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.4442779+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:58:26.4958997+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:08:25.54896+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:58:45.1121777+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:08:59.5688157+00:00"
 }

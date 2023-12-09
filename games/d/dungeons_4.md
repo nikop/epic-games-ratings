@@ -16,7 +16,7 @@
 | Heroes’ Gorge | 65.00% | ~349 |
 | Master of Magic | 64.00% | ~344 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~333 |
-| Magic Accidents | 59.00% | ~317 |
+| Magic Accidents | 60.00% | ~322 |
 | The Ascent | 58.00% | ~311 |
 | It's Warm and Cozy at Home | 58.00% | ~311 |
 | Trap Master | 56.00% | ~301 |
@@ -45,8 +45,8 @@
 | Stop Tanos! | 24.00% | ~129 |
 | Brimstone Shaken, Not Stirred | 24.00% | ~129 |
 | Sabotage! | 22.00% | ~118 |
+| Raiders of the Lost Stone | 22.00% | ~118 |
 | Bonus Evilness | 21.00% | ~113 |
-| Raiders of the Lost Stone | 21.00% | ~113 |
 | The Rune Sockets of Finitude (Part 1) | 21.00% | ~113 |
 | The Rune Sockets of Finitude (Part 2) | 19.00% | ~102 |
 | Rubble and Ashes | 18.00% | ~97 |
@@ -59,11 +59,11 @@
 | Evilification | 14.00% | ~75 |
 | Mirror, Mirror | 13.00% | ~70 |
 | Untouchable | 13.00% | ~70 |
+| Laser Eyes Are So Useless | 11.00% | ~59 |
 | Heal Heal Blessing | 11.00% | ~59 |
-| Laser Eyes Are So Useless | 10.00% | ~54 |
 | Hands Off My Stones | 10.00% | ~54 |
 | Gorgu is in the Best of Health | 9.00% | ~48 |
-| No Mana, No Cry | 7.00% | ~38 |
+| No Mana, No Cry | 8.00% | ~43 |
 | I Don't Need Any Help | 7.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 537 (Ranked 310)  

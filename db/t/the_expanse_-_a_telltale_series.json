@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16016,
+  "EOS_Progressed": 16018,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13450,6 +13450,11 @@
       "Time": "2023-12-09T20:04:17.2494653+00:00",
       "NumProgressed": 16016,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-09T21:05:00.8806614+00:00",
+      "NumProgressed": 16018,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13484,9 +13489,9 @@
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 641
+      "UsersEstimate": 801
     },
     {
       "ID": "13",
@@ -13502,7 +13507,7 @@
       "Name": "Doctor Approved",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "15",
@@ -13534,7 +13539,7 @@
       "Name": "Bottoms up!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "19",
@@ -13590,7 +13595,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "25",
@@ -13702,7 +13707,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "32",
@@ -13741,13 +13746,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16016,
+      "Progressed": 16018,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1970,
+      "Progressed": 1972,
       "Completed": 848
     }
   ],
@@ -13755,8 +13760,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-09T17:58:45.997893+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:04:17.2494647+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:05:00.8806608+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:58:41.6188575+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:04:17.2495605+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:59:00.6983748+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:05:00.8807993+00:00"
 }

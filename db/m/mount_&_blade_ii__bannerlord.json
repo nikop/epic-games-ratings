@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -9526,18 +9526,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 15694,
       "NumberOfAwardsMax": 7526
+    },
+    {
+      "Time": "2023-12-09T20:58:28.2245819+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15703,
+      "NumberOfAwardsMax": 7535
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15694,
-  "NumberOfAwardsMax": 7526,
+  "NumberOfAwards": 15703,
+  "NumberOfAwardsMax": 7535,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7526
+      "Count": 7535
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9606,9 +9612,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67498,
+  "EOS_Progressed": 67503,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34266,6 +34272,11 @@
       "Time": "2023-12-09T20:09:37.5752535+00:00",
       "NumProgressed": 67498,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T21:10:12.024342+00:00",
+      "NumProgressed": 67503,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34293,7 +34304,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 16200
+      "UsersEstimate": 16201
     },
     {
       "ID": "Best served cold",
@@ -34301,7 +34312,7 @@
       "Name": "Best served cold",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Butcher of Calradia",
@@ -34309,7 +34320,7 @@
       "Name": "Butcher of Calradia",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Butterlord",
@@ -34341,7 +34352,7 @@
       "Name": "Crackshot",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "Crush your enemies",
@@ -34389,7 +34400,7 @@
       "Name": "Fat Cat",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Freedom",
@@ -34421,7 +34432,7 @@
       "Name": "Headhunter",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Heartbreaker",
@@ -34429,7 +34440,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Horde breaker",
@@ -34437,7 +34448,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 16200
+      "UsersEstimate": 16201
     },
     {
       "ID": "I can do it",
@@ -34469,7 +34480,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12150
+      "UsersEstimate": 12151
     },
     {
       "ID": "Kingslayer",
@@ -34477,7 +34488,7 @@
       "Name": "Kingslayer",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Know your enemy",
@@ -34493,7 +34504,7 @@
       "Name": "Lance-a-lot",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Landlord",
@@ -34501,7 +34512,7 @@
       "Name": "Landlord",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 22949
+      "UsersEstimate": 22951
     },
     {
       "ID": "Lawbringer",
@@ -34509,7 +34520,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26999
+      "UsersEstimate": 27001
     },
     {
       "ID": "Lawmaker",
@@ -34517,7 +34528,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16200
+      "UsersEstimate": 16201
     },
     {
       "ID": "Long live the Empire",
@@ -34541,7 +34552,7 @@
       "Name": "Minor Clan",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Mounted Archery",
@@ -34549,7 +34560,7 @@
       "Name": "Mounted Archery",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "My way",
@@ -34581,7 +34592,7 @@
       "Name": "Roadkill",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Shish Kebab",
@@ -34597,7 +34608,7 @@
       "Name": "Slice \u0027n dice",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "Strike",
@@ -34629,7 +34640,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12825
+      "UsersEstimate": 12826
     },
     {
       "ID": "This Is Our Land",
@@ -34645,7 +34656,7 @@
       "Name": "This is Sparta!",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Trained",
@@ -34653,7 +34664,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16200
+      "UsersEstimate": 16201
     },
     {
       "ID": "Undercover",
@@ -34661,7 +34672,7 @@
       "Name": "Undercover",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "Veni vidi vici",
@@ -34684,15 +34695,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67498,
+      "Progressed": 67503,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-12-09T19:58:09.2639344+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:09:37.575253+00:00",
+  "LastChanged": "2023-12-09T20:58:28.2245817+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:10:12.0243418+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:58:09.2639351+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:09:37.5753921+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:58:28.2245823+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:10:12.0244625+00:00"
 }

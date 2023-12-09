@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1425,9 +1425,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 23893,
+  "EOS_Progressed": 23894,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -26580,6 +26580,11 @@
       "Time": "2023-12-09T20:03:22.1983458+00:00",
       "NumProgressed": 23893,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-12-09T21:04:04.2251163+00:00",
+      "NumProgressed": 23894,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 45,
@@ -26615,7 +26620,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 8840
+      "UsersEstimate": 8841
     },
     {
       "ID": "CantRunCantHide",
@@ -26815,7 +26820,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12902
+      "UsersEstimate": 12903
     },
     {
       "ID": "RunningWild",
@@ -26887,7 +26892,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 5256
+      "UsersEstimate": 5257
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -26911,7 +26916,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 12663
+      "UsersEstimate": 12664
     },
     {
       "ID": "WaveOfMutilation",
@@ -26919,7 +26924,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 5256
+      "UsersEstimate": 5257
     },
     {
       "ID": "WhereAreMyKeys",
@@ -26927,7 +26932,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9557
+      "UsersEstimate": 9558
     },
     {
       "ID": "WhereHeStood",
@@ -26950,21 +26955,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 23893,
+      "Progressed": 23894,
       "Completed": 63
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 23893,
+      "Progressed": 23894,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-12-07T15:02:32.9024528+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:03:22.1983451+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:04:04.225116+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:38.525099+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:57:24.3854458+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:03:22.1985799+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:57:43.7094096+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:04:04.2252891+00:00"
 }

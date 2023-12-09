@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16933,
+  "EOS_Progressed": 16934,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15748,6 +15748,11 @@
       "Time": "2023-12-09T20:03:45.4265596+00:00",
       "NumProgressed": 16933,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-09T21:04:28.0243475+00:00",
+      "NumProgressed": 16934,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -16023,7 +16028,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6773
+      "UsersEstimate": 6774
     },
     {
       "ID": "tpote_achievement_40",
@@ -16079,22 +16084,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5757
+      "UsersEstimate": 5758
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16933,
+      "Progressed": 16934,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:03:45.4265592+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:04:28.0243472+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:57:43.2001387+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:03:45.4266567+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:58:02.4962874+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:04:28.0244441+00:00"
 }

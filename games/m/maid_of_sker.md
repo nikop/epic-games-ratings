@@ -14,7 +14,7 @@
 | Chief Butler | 10.00% | ~22 |
 | Wales Interactive | 10.00% | ~22 |
 | Bull in a China Shop | 7.00% | ~16 |
-| Sker Explorer | 5.00% | ~11 |
+| Sker Explorer | 6.00% | ~13 |
 | Phonic Boom | 2.00% | ~4 |
 | Ending on a High Note | 1.00% | ~2 |
 | The Long Night | 1.00% | ~2 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9498,9 +9498,9 @@
       "Count": 983
     }
   ],
-  "EOS_Progressed": 125938,
+  "EOS_Progressed": 125943,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34228,6 +34228,11 @@
       "Time": "2023-12-09T20:08:36.3643994+00:00",
       "NumProgressed": 125938,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-09T21:09:10.521565+00:00",
+      "NumProgressed": 125943,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34261,9 +34266,9 @@
       "ID": "altar_of_hope_memory_equip_five_same_hero",
       "SetID": "64l4lke",
       "Name": "A Life Well Lived",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 126
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -34645,9 +34650,9 @@
       "ID": "inn_replacement_hero_add",
       "SetID": "64l4lke",
       "Name": "FNG",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 126
     },
     {
       "ID": "inn_visit_all_variants",
@@ -34870,21 +34875,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 125938,
+      "Progressed": 125943,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 807,
+      "Progressed": 812,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-09T15:57:09.2241371+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:08:36.3643988+00:00",
+  "LastChanged_Achievements": "2023-12-09T21:09:10.5215648+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:09.0796659+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:57:22.0892233+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:08:36.3645863+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:57:41.2720398+00:00",
+  "LastUpdate_Achievements": "2023-12-09T21:09:10.5217652+00:00"
 }

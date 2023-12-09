@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Harvester | 15.00% | ~19 |
-| Workforce | 13.00% | ~16 |
+| Workforce | 13.00% | ~17 |
 | Builder | 10.00% | ~13 |
 | Cook | 6.00% | ~8 |
 | Crafter | 2.00% | ~3 |
@@ -17,7 +17,7 @@
 | Rep3 | 0.80% | ~1 |
 | Researcher | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126 (Ranked 421)  
+Progressed: 127 (Ranked 420)  
 Completed: 1 (0.79%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,3 +94,4 @@ Completed: 1 (0.79%) (Ranked 184)
 | 2023-11-30 | 123 | 1 |
 | 2023-12-01 | 124 | 1 |
 | 2023-12-03 | 126 | 1 |
+| 2023-12-09 | 127 | 1 |
