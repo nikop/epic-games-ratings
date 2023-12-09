@@ -83,8 +83,8 @@
 | 81 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.64% |
 | 82 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.54% |
 | 83 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.49% |
-| 84 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.41% |
-| 85 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
+| 84 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.35% |
+| 84 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 86 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.30% |
 | 87 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.24% |
 | 88 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.22% |
@@ -108,9 +108,9 @@
 | 105 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.04% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
 | 108 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.94% |
-| 108 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.94% |
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
-| 111 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 110 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 110 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.93% |
 | 112 | [Night Book](games/n/night_book.md) | 2.79% |
 | 113 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 114 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
@@ -146,7 +146,7 @@
 | 144 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.52% |
 | 144 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.52% |
 | 146 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
-| 147 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.44% |
+| 147 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.43% |
 | 148 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.37% |
 | 149 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.34% |
 | 149 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.34% |
@@ -155,8 +155,8 @@
 | 152 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
 | 154 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.29% |
 | 155 | [Late Shift](games/l/late_shift.md) | 1.27% |
-| 156 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.26% |
-| 157 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
+| 156 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.25% |
+| 156 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
 | 158 | [Ten Dates](games/t/ten_dates.md) | 1.24% |
 | 159 | [Iron Danger](games/i/iron_danger.md) | 1.22% |
 | 159 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.22% |
