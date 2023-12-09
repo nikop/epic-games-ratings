@@ -21,9 +21,9 @@ Number of Ratings: 48  (23.09.2022)
 | ...And Your Tax Money | 47.00% | ~332 |
 | The Lords of the Snowpeak | 41.00% | ~290 |
 | The Go-To Girl | 38.00% | ~269 |
+| Natural Born Monster-Killer | 38.00% | ~269 |
 | The Lava Mantor Wyrm | 37.00% | ~262 |
 | Scavenger's Honor | 37.00% | ~262 |
-| Natural Born Monster-Killer | 37.00% | ~262 |
 | The Great Forest...On Foot! | 37.00% | ~262 |
 | One Mean Merc | 36.00% | ~255 |
 | Adept, for an Acting Mayor | 36.00% | ~255 |

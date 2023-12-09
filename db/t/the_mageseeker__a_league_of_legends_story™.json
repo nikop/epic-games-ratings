@@ -4310,9 +4310,9 @@
       "ID": "STB_DEFEAT_NIGHTMARE_II",
       "SetID": "3pe2bac",
       "Name": "Little light",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 642
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -4615,8 +4615,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-12-09T02:27:24.4896482+00:00",
+  "LastChanged_Achievements": "2023-12-09T03:06:21.5925749+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:25.9758036+00:00",
-  "LastUpdate_Ratings": "2023-12-09T02:17:51.5084339+00:00",
-  "LastUpdate_Achievements": "2023-12-09T02:27:24.4896977+00:00"
+  "LastUpdate_Ratings": "2023-12-09T02:58:04.0828851+00:00",
+  "LastUpdate_Achievements": "2023-12-09T03:06:21.5926325+00:00"
 }

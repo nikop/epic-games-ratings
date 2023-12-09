@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252,
+  "EOS_Progressed": 253,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -1010,6 +1010,11 @@
       "Time": "2023-12-08T09:09:57.4787399+00:00",
       "NumProgressed": 252,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-09T03:10:11.3277801+00:00",
+      "NumProgressed": 253,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 36,
@@ -1035,9 +1040,9 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_04",
@@ -1115,9 +1120,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_14",
@@ -1308,14 +1313,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 252,
+      "Progressed": 253,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-09T02:31:12.0234397+00:00",
+  "LastChanged_Achievements": "2023-12-09T03:10:11.3277797+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:12.3755943+00:00",
-  "LastUpdate_Ratings": "2023-12-09T02:18:24.7110238+00:00",
-  "LastUpdate_Achievements": "2023-12-09T02:31:12.0234655+00:00"
+  "LastUpdate_Ratings": "2023-12-09T02:58:46.657346+00:00",
+  "LastUpdate_Achievements": "2023-12-09T03:10:11.3278069+00:00"
 }

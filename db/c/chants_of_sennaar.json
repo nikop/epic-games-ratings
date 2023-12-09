@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 914,
+  "EOS_Progressed": 916,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.69,
+  "EOS_Completed_Percentage": 5.68,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3685,6 +3685,11 @@
       "Time": "2023-12-08T22:06:53.3408231+00:00",
       "NumProgressed": 914,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-09T03:06:23.7825408+00:00",
+      "NumProgressed": 916,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 25,
@@ -3728,7 +3733,7 @@
       "Name": "A good beginning",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "META_HALF_LINK",
@@ -3744,7 +3749,7 @@
       "Name": "Open door",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3760,7 +3765,7 @@
       "Name": "Feels like springtime",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3774,9 +3779,9 @@
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 92
     },
     {
       "ID": "META_RESULT_3-4",
@@ -3792,7 +3797,7 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3808,7 +3813,7 @@
       "Name": "True G3M4R",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3816,7 +3821,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3840,7 +3845,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3848,7 +3853,7 @@
       "Name": "Scholar",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "PROGRESS_N1",
@@ -3864,7 +3869,7 @@
       "Name": "The great escape",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "PROGRESS_N3",
@@ -3880,7 +3885,7 @@
       "Name": "The darkness",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "PROGRESS_N5",
@@ -3895,14 +3900,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 914,
+      "Progressed": 916,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-09T02:27:26.4588138+00:00",
+  "LastChanged_Achievements": "2023-12-09T03:06:23.7825404+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-09T02:19:38.1443024+00:00",
-  "LastUpdate_Achievements": "2023-12-09T02:27:26.458853+00:00"
+  "LastUpdate_Ratings": "2023-12-09T03:00:19.9413662+00:00",
+  "LastUpdate_Achievements": "2023-12-09T03:06:23.7825716+00:00"
 }

@@ -32,12 +32,12 @@ Rating: 3.45 (Ranked 1,058)
 | Harvest’s End | 1.00% | ~18 |
 | Helping Hand | 0.90% | ~16 |
 | Contingency Plans | 0.70% | ~12 |
+| Starve the Beast | 0.70% | ~12 |
 | Nice Try | 0.70% | ~12 |
 | Curious Finch | 0.70% | ~12 |
 | Revelations | 0.60% | ~11 |
 | You Clean It Up | 0.60% | ~11 |
 | Check, Please! | 0.60% | ~11 |
-| Starve the Beast | 0.60% | ~11 |
 | I Spit On Your Grave | 0.60% | ~11 |
 | Block Party | 0.50% | ~9 |
 | What Lies Below | 0.50% | ~9 |
@@ -51,12 +51,12 @@ Rating: 3.45 (Ranked 1,058)
 | Under a Bushel | 0.30% | ~5 |
 | Bob’s Final Hour | 0.30% | ~5 |
 | Good Samaritan | 0.30% | ~5 |
+| Blood Brother | 0.20% | ~4 |
 | Friendgineering | 0.20% | ~4 |
 | Empty Nest Syndrome | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
 | Scream Team | 0.10% | ~2 |
 | Monster Hunters Club | 0.10% | ~2 |
-| Blood Brother | 0.10% | ~2 |
 | Faith Healer | 0.10% | ~2 |
 | Someplace to Be | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |

@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,723 |
+| V for Vendetta | 12.00% | ~116,725 |
 | Gun Fu | 7.00% | ~68,089 |
 | The Fool | 6.00% | ~58,362 |
 | Right Back At Ya | 5.00% | ~48,635 |
@@ -40,8 +40,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Dirty Deeds | 0.70% | ~709 |
 | To Bad Decisions! | 0.60% | ~5,836 |
 | Ten out of Ten | 0.60% | ~5,836 |
-| Breathtaking | 0.50% | ~4,863 |
-| The Star | 0.50% | ~4,863 |
+| Breathtaking | 0.50% | ~4,864 |
+| The Star | 0.50% | ~4,864 |
 | The Tower | 0.50% | ~507 |
 | Autojock | 0.40% | ~3,891 |
 | Must Be Rats | 0.40% | ~3,891 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 972,695 (Ranked 15)  
+Progressed: 972,707 (Ranked 15)  
 Completed: 2,861 (0.29%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 2,861 (0.29%) (Ranked 241)
 | 2023-12-06 | 971,359 | 2,847 |
 | 2023-12-07 | 971,994 | 2,852 |
 | 2023-12-08 | 972,634 | 2,860 |
-| 2023-12-09 | 972,695 | 2,861 |
+| 2023-12-09 | 972,707 | 2,861 |
 ## Awards
 Max (Character Customization): 119,484  (Ranked 9)  
 Sum: 401,865 (Ranked 9)  

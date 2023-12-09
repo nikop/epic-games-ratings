@@ -1,11 +1,11 @@
 # Marvel’s Spider-Man: Miles Morales
 [Store](https://store.epicgames.com/en-US/p/marvels-spider-man-miles-morales)  
 [View Rawdata](../../db/m/marvel’s_spider-man__miles_morales.json)  
-Rating: 4.77 (Ranked 114)  
+Rating: 4.77 (Ranked 115)  
 ## Awards
-Max (Great Boss Battles): 1,930  (Ranked 116)  
-Sum: 2,668 (Ranked 186)  
-Diff (max vs sum): -70  
+Max (Great Boss Battles): 1,930  (Ranked 117)  
+Sum: 2,671 (Ranked 186)  
+Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,930 |
@@ -17,8 +17,8 @@ Diff (max vs sum): -70
 | This game is Relaxing | 76 |
 | This game has Quickly Understood Controls | 73 |
 | This game is Extremely Fun | 71 |
+| This game has Amazing Characters | 69 |
 | This game is Educational | 68 |
-| This game has Amazing Characters | 66 |
 | This game is Great for Quick Sessions | 52 |
 | This game has Beautiful Visuals | 26 |
 ## Ratings History
@@ -264,3 +264,4 @@ Diff (max vs sum): -70
 | 2023-12-06 | 4.77 | 1,918 | 2,716 |
 | 2023-12-07 | 4.77 | 1,923 | 2,729 |
 | 2023-12-08 | 4.77 | 1,930 | 2,668 |
+| 2023-12-09 | 4.77 | 1,930 | 2,671 |

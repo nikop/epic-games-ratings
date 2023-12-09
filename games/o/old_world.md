@@ -26,6 +26,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 4.00% | ~627 |
 | Pioneer | 4.00% | ~627 |
 | Warrior | 4.00% | ~627 |
+| Developing Cities | 4.00% | ~627 |
 | Strong Cities | 4.00% | ~627 |
 | Oracle | 4.00% | ~627 |
 | Pyramids | 4.00% | ~627 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 3.00% | ~471 |
 | Magnificent | 3.00% | ~471 |
 | Wise | 3.00% | ~471 |
-| Developing Cities | 3.00% | ~471 |
 | Able Difficulty | 3.00% | ~471 |
 | Furious Family | 3.00% | ~471 |
 | Great Ziggurat | 3.00% | ~471 |

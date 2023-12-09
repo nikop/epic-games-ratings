@@ -16340,9 +16340,9 @@
       "Count": 14815
     }
   ],
-  "EOS_Progressed": 972695,
+  "EOS_Progressed": 972707,
   "EOS_Completed": 2861,
-  "EOS_NewPlayers": 6281,
+  "EOS_NewPlayers": 6236,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -42800,6 +42800,11 @@
       "Time": "2023-12-09T02:25:52.0005547+00:00",
       "NumProgressed": 972695,
       "NumCompleted": 2861
+    },
+    {
+      "Time": "2023-12-09T03:04:32.012978+00:00",
+      "NumProgressed": 972707,
+      "NumCompleted": 2861
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -42956,7 +42961,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4863
+      "UsersEstimate": 4864
     },
     {
       "ID": "NoMansLand",
@@ -43060,7 +43065,7 @@
       "Name": "The Star",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4863
+      "UsersEstimate": 4864
     },
     {
       "ID": "TheSun",
@@ -43140,7 +43145,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116723
+      "UsersEstimate": 116725
     },
     {
       "ID": "YipMan",
@@ -43347,21 +43352,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 972695,
+      "Progressed": 972707,
       "Completed": 2861
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 101318,
+      "Progressed": 101330,
       "Completed": 10319
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-08T23:03:21.1325501+00:00",
-  "LastChanged_Achievements": "2023-12-09T02:25:52.0005544+00:00",
+  "LastChanged_Achievements": "2023-12-09T03:04:32.0129777+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.8863582+00:00",
-  "LastUpdate_Ratings": "2023-12-09T02:23:42.9270461+00:00",
-  "LastUpdate_Achievements": "2023-12-09T02:25:52.00069+00:00"
+  "LastUpdate_Ratings": "2023-12-09T03:03:02.1893172+00:00",
+  "LastUpdate_Achievements": "2023-12-09T03:04:32.0131435+00:00"
 }

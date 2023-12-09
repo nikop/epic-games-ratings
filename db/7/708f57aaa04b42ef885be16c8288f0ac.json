@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -201,9 +201,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7583,
+  "EOS_Progressed": 7584,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5936,6 +5936,11 @@
       "Time": "2023-12-09T02:31:05.2027315+00:00",
       "NumProgressed": 7583,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-09T03:10:03.3495765+00:00",
+      "NumProgressed": 7584,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6028,7 +6033,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "GarbageMan",
@@ -6060,7 +6065,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "JackOfAllTrades",
@@ -6132,7 +6137,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "TheOldSchoolWay",
@@ -6188,7 +6193,7 @@
       "Name": "Digestive Issues",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -6219,7 +6224,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7583,
+      "Progressed": 7584,
       "Completed": 15
     }
   ],
@@ -6227,8 +6232,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-09T02:31:05.2027311+00:00",
+  "LastChanged_Achievements": "2023-12-09T03:10:03.3495763+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-09T02:17:14.3662815+00:00",
-  "LastUpdate_Achievements": "2023-12-09T02:31:05.202782+00:00"
+  "LastUpdate_Ratings": "2023-12-09T02:57:17.1528972+00:00",
+  "LastUpdate_Achievements": "2023-12-09T03:10:03.3496206+00:00"
 }

@@ -5781,9 +5781,9 @@
       "Count": 141
     }
   ],
-  "EOS_Progressed": 9461,
+  "EOS_Progressed": 9462,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -14471,6 +14471,11 @@
       "Time": "2023-12-09T02:30:41.1665045+00:00",
       "NumProgressed": 9461,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-09T03:09:35.0003072+00:00",
+      "NumProgressed": 9462,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -14483,7 +14488,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 9366
+      "UsersEstimate": 9367
     },
     {
       "ID": "achievement_a10",
@@ -14499,7 +14504,7 @@
       "Name": "At the Precipice",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 4825
+      "UsersEstimate": 4826
     },
     {
       "ID": "achievement_a12",
@@ -14571,7 +14576,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 9272
+      "UsersEstimate": 9273
     },
     {
       "ID": "achievement_a20",
@@ -14603,7 +14608,7 @@
       "Name": "Mirror Match",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 6055
+      "UsersEstimate": 6056
     },
     {
       "ID": "achievement_a24",
@@ -14643,7 +14648,7 @@
       "Name": "King of the World",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "achievement_a29",
@@ -14651,7 +14656,7 @@
       "Name": "There Is No Try",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3595
+      "UsersEstimate": 3596
     },
     {
       "ID": "achievement_a3",
@@ -14683,7 +14688,7 @@
       "Name": "They\u0027re Probably Fine",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3784
+      "UsersEstimate": 3785
     },
     {
       "ID": "achievement_a33",
@@ -14691,7 +14696,7 @@
       "Name": "Skywalker",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 5960
+      "UsersEstimate": 5961
     },
     {
       "ID": "achievement_a34",
@@ -14699,7 +14704,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2554
+      "UsersEstimate": 2555
     },
     {
       "ID": "achievement_a35",
@@ -14715,7 +14720,7 @@
       "Name": "Can You Pet the Bogling?",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 8231
+      "UsersEstimate": 8232
     },
     {
       "ID": "achievement_a37",
@@ -14731,7 +14736,7 @@
       "Name": "Who Gives a Puck",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 7001
+      "UsersEstimate": 7002
     },
     {
       "ID": "achievement_a39",
@@ -14755,7 +14760,7 @@
       "Name": "Greezy Money",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 4257
+      "UsersEstimate": 4258
     },
     {
       "ID": "achievement_a41",
@@ -14779,7 +14784,7 @@
       "Name": "Hey, Luke At Us",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 4730
+      "UsersEstimate": 4731
     },
     {
       "ID": "achievement_a44",
@@ -14795,7 +14800,7 @@
       "Name": "Kitted Out",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 5014
+      "UsersEstimate": 5015
     },
     {
       "ID": "achievement_a46",
@@ -14811,7 +14816,7 @@
       "Name": "Growth Spurt",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "achievement_a48",
@@ -14835,7 +14840,7 @@
       "Name": "Survivors, We Adapt",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 7569
+      "UsersEstimate": 7570
     },
     {
       "ID": "achievement_a50",
@@ -14883,7 +14888,7 @@
       "Name": "For the Path",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 6339
+      "UsersEstimate": 6340
     },
     {
       "ID": "achievement_a8",
@@ -14906,7 +14911,7 @@
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 9461,
+      "Progressed": 9462,
       "Completed": 56
     }
   ],
@@ -14914,8 +14919,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-12-08T23:59:21.4670137+00:00",
-  "LastChanged_Achievements": "2023-12-09T02:30:41.1665041+00:00",
+  "LastChanged_Achievements": "2023-12-09T03:09:35.0003068+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:30.2850985+00:00",
-  "LastUpdate_Ratings": "2023-12-09T02:19:33.0489362+00:00",
-  "LastUpdate_Achievements": "2023-12-09T02:30:41.1665811+00:00"
+  "LastUpdate_Ratings": "2023-12-09T03:00:13.6568604+00:00",
+  "LastUpdate_Achievements": "2023-12-09T03:09:35.0003831+00:00"
 }

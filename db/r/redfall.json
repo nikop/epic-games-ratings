@@ -2539,9 +2539,9 @@
       "ID": "Achievement_015",
       "SetID": "6b34g18",
       "Name": "Blood Brother",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement_016",
@@ -2755,9 +2755,9 @@
       "ID": "Achievement_043",
       "SetID": "6b34g18",
       "Name": "Starve the Beast",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement_044",
@@ -2972,8 +2972,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-11-22T22:57:36.1602113+00:00",
-  "LastChanged_Achievements": "2023-12-09T02:27:44.3984219+00:00",
+  "LastChanged_Achievements": "2023-12-09T03:06:45.4152334+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:04.1370946+00:00",
-  "LastUpdate_Ratings": "2023-12-09T02:19:03.9556965+00:00",
-  "LastUpdate_Achievements": "2023-12-09T02:27:44.3984847+00:00"
+  "LastUpdate_Ratings": "2023-12-09T02:59:36.376933+00:00",
+  "LastUpdate_Achievements": "2023-12-09T03:06:45.4153029+00:00"
 }

@@ -1,28 +1,28 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.40 (Ranked 739)  
+Rating: 4.40 (Ranked 738)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~106,693 |
-| 74 miles East of Otaheité | 56.00% | ~74,685 |
-| Interesting... | 42.00% | ~56,014 |
-| The Everhart Expedition | 40.00% | ~53,346 |
+| A Family Heirloom | 80.00% | ~106,694 |
+| 74 miles East of Otaheité | 56.00% | ~74,686 |
+| Interesting... | 42.00% | ~56,015 |
+| The Everhart Expedition | 40.00% | ~53,347 |
 | Halfway there | 30.00% | ~40,010 |
 | The Vanishing of the Lady Shannon | 30.00% | ~40,010 |
 | Seaside Serenade | 30.00% | ~40,010 |
-| A brigantine, a brig and a barque | 28.00% | ~37,342 |
-| 506 East Hampden Avenue | 28.00% | ~37,342 |
+| A brigantine, a brig and a barque | 28.00% | ~37,343 |
+| 506 East Hampden Avenue | 28.00% | ~37,343 |
 | Weekend at Walakea's | 27.00% | ~36,009 |
 | Quite a Show | 27.00% | ~36,009 |
 | Dark Water Ride | 25.00% | ~33,342 |
 | Sunken | 25.00% | ~33,342 |
 | Deep Cut | 24.00% | ~32,008 |
-| FHALGOF'N' | 23.00% | ~30,674 |
+| FHALGOF'N' | 23.00% | ~30,675 |
 | Marsh Cannery | 21.00% | ~28,007 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~24,006 |
-| The only thing I have now | 17.00% | ~22,672 |
+| The only thing I have now | 17.00% | ~22,673 |
 | Naacalvision | 16.00% | ~21,339 |
 | Not Another Boring Slideshow! | 15.00% | ~20,005 |
 | The Norahnomicon | 10.00% | ~13,337 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 739)
 | Gently down the stream... | 1.00% | ~1,334 |
 | Meta-reference | 1.00% | ~1,334 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,366 (Ranked 82)  
+Progressed: 133,368 (Ranked 82)  
 Completed: 1,182 (0.89%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 1,182 (0.89%) (Ranked 176)
 | 2023-12-06 | 133,100 | 1,176 |
 | 2023-12-07 | 133,215 | 1,178 |
 | 2023-12-08 | 133,350 | 1,182 |
-| 2023-12-09 | 133,366 | 1,182 |
+| 2023-12-09 | 133,368 | 1,182 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
