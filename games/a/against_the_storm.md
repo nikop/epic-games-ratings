@@ -16,18 +16,18 @@ Number of Ratings: 1,845  (23.09.2022)
 | Untamed Wilds | 2.00% | ~356 |
 | The Marshlands | 0.80% | ~142 |
 | No Deaths | 0.80% | ~142 |
-| Overcoming Difficulty | 0.70% | ~124 |
-| Coral Forest | 0.70% | ~124 |
-| The Scarlet Orchard | 0.70% | ~124 |
-| Taking Action | 0.70% | ~124 |
+| Overcoming Difficulty | 0.70% | ~125 |
+| Coral Forest | 0.70% | ~125 |
+| The Scarlet Orchard | 0.70% | ~125 |
+| Taking Action | 0.70% | ~125 |
 | First Real Expedition | 0.60% | ~107 |
 | Fertile Meadows | 0.60% | ~107 |
 | Royal Outpost | 0.50% | ~89 |
+| Lost Colonies | 0.50% | ~89 |
 | Watchtower | 0.50% | ~89 |
 | Homesick | 0.40% | ~71 |
 | Bandit Camp | 0.40% | ~71 |
 | Monastery of the Holy Flame | 0.40% | ~71 |
-| Lost Colonies | 0.40% | ~71 |
 | Corrosive Torrent | 0.40% | ~71 |
 | A Real Challenge | 0.40% | ~71 |
 | Trade Baron | 0.40% | ~71 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,784 (Ranked 146)  
+Progressed: 17,788 (Ranked 146)  
 Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,15 +299,15 @@ Completed: 43 (0.24%) (Ranked 251)
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
-| 2023-12-09 | 17,784 | 43 |
+| 2023-12-09 | 17,788 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
-Sum: 3,246 (Ranked 174)  
+Sum: 3,247 (Ranked 174)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |
-| This game is Relaxing | 432 |
+| This game is Relaxing | 433 |
 | This game is Great for Beginners | 424 |
 | This game is Extremely Fun | 409 |
 | This game is Highly Recommended | 391 |
@@ -567,4 +567,4 @@ Diff (max vs sum): 49
 | 2023-12-06 | 4.82 | - | 442 | 3,243 |
 | 2023-12-07 | 4.82 | - | 442 | 3,244 |
 | 2023-12-08 | 4.82 | - | 442 | 3,245 |
-| 2023-12-09 | 4.82 | - | 442 | 3,246 |
+| 2023-12-09 | 4.82 | - | 442 | 3,247 |

@@ -3,11 +3,11 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 496,
-  "Ranking_Popularity": 480,
+  "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -5958,9 +5958,9 @@
       "ID": "Eureka_23",
       "SetID": "c4hee28",
       "Name": "Eureka",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1269
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -6238,8 +6238,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:04:21.4665155+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:04:00.2522697+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:35.7033793+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:58:28.92969+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:04:21.4665608+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:58:26.7361805+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:04:00.2523592+00:00"
 }

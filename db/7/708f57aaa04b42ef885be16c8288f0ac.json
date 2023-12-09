@@ -207,9 +207,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7632,
+  "EOS_Progressed": 7635,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6017,6 +6017,11 @@
       "Time": "2023-12-09T18:09:04.9820843+00:00",
       "NumProgressed": 7632,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-09T20:09:29.1822858+00:00",
+      "NumProgressed": 7635,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6037,7 +6042,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "BeLikeWater",
@@ -6069,7 +6074,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "Eavesdropper",
@@ -6101,7 +6106,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "FuneralForTheDeath",
@@ -6173,7 +6178,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "NoMoreTotems",
@@ -6221,7 +6226,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "TheQuarterback",
@@ -6229,7 +6234,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "ThisIsDharma",
@@ -6237,7 +6242,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -6300,7 +6305,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7632,
+      "Progressed": 7635,
       "Completed": 15
     }
   ],
@@ -6308,8 +6313,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-09T07:57:44.7970456+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:09:50.6247041+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:09:29.1822853+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:57:42.9389372+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:09:50.6247515+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:57:41.9370487+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:09:29.1823321+00:00"
 }

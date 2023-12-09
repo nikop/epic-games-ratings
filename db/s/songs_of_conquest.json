@@ -1872,9 +1872,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 112
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2168,8 +2168,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:05:31.0965935+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:05:07.250176+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:02:41.6981695+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:05:31.0966294+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:02:42.9500547+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:05:07.2502383+00:00"
 }

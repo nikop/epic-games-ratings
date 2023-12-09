@@ -11,7 +11,7 @@ Number of Ratings: 266  (23.09.2022)
 | Ready for Summer | 53.00% | ~1,978 |
 | Cordon Bleu | 45.00% | ~1,679 |
 | Tapped! | 38.00% | ~1,418 |
-| Eureka | 33.00% | ~1,232 |
+| Eureka | 34.00% | ~1,269 |
 | Scourge Slayer | 27.00% | ~1,008 |
 | Science, Troglodyte! | 24.00% | ~896 |
 | Exceptional Skill | 23.00% | ~858 |
@@ -271,9 +271,9 @@ Completed: 4 (0.11%) (Ranked 285)
 | 2023-12-08 | 3,729 | 4 |
 | 2023-12-09 | 3,732 | 4 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 480)  
+Max (Highly Recommended): 35  (Ranked 481)  
 Sum: 246 (Ranked 386)  
-Diff (max vs sum): 94  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

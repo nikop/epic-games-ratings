@@ -8,7 +8,7 @@ Number of Ratings: 892  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept Assembler | 243.00% | ~1,230 |
 | Iron Chef | 174.00% | ~880 |
-| Super Spelunker | 140.00% | ~708 |
+| Super Spelunker | 141.00% | ~713 |
 | Greeno-B-Gone | 133.00% | ~673 |
 | The Little Wood that Could | 116.00% | ~587 |
 | Your Especially Earned Trajectory | 110.00% | ~557 |
@@ -22,23 +22,23 @@ Number of Ratings: 892  (23.09.2022)
 | Can We Keep It? | 78.00% | ~395 |
 | First Love | 75.00% | ~380 |
 | Unboxing | 73.00% | ~369 |
+| Chatterbox | 69.00% | ~349 |
 | Big Game Hunter | 68.00% | ~344 |
 | Financially Secure | 68.00% | ~344 |
 | Elementary, My Dear | 68.00% | ~344 |
-| Chatterbox | 68.00% | ~344 |
 | Got Served | 67.00% | ~339 |
 | Builder of the Month | 64.00% | ~324 |
+| Panda-kin | 63.00% | ~319 |
 | Lifeline Pipeline | 63.00% | ~319 |
 | You Don't Win Friends With Salad | 63.00% | ~319 |
-| Panda-kin | 62.00% | ~314 |
 | Happier-est Place on Earth | 62.00% | ~314 |
+| Anti-Santa | 62.00% | ~314 |
 | Waste Not Want Not | 62.00% | ~314 |
 | Commissions, commissions...! | 61.00% | ~309 |
-| Anti-Santa | 61.00% | ~309 |
 | Martle's Dream | 60.00% | ~304 |
+| What Plants Crave | 60.00% | ~304 |
 | Mole Masher | 60.00% | ~304 |
 | Better Late than Never | 59.00% | ~299 |
-| What Plants Crave | 59.00% | ~299 |
 | Call Me Fishmael | 59.00% | ~299 |
 | Officially Official | 58.00% | ~293 |
 | Knowledge is Power | 56.00% | ~283 |
@@ -47,8 +47,8 @@ Number of Ratings: 892  (23.09.2022)
 | Sepia Toned Memories | 52.00% | ~263 |
 | Got the Flow Back | 52.00% | ~263 |
 | Who Ya Gonna Call...? | 49.00% | ~248 |
+| Jewel of the Eufaula | 47.00% | ~238 |
 | Time Flies | 46.00% | ~233 |
-| Jewel of the Eufaula | 46.00% | ~233 |
 | Kind of a Big Deal | 45.00% | ~228 |
 | My Time Mansion | 43.00% | ~218 |
 | Just What I Always Wanted! | 43.00% | ~218 |

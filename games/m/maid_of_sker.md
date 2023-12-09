@@ -8,7 +8,7 @@
 | Animal Lover | 36.00% | ~81 |
 | Don't Breathe | 33.00% | ~74 |
 | Smooth Operator | 18.00% | ~40 |
-| Easy Listening | 16.00% | ~36 |
+| Easy Listening | 17.00% | ~38 |
 | Rapturous Applause! | 16.00% | ~36 |
 | Perfect Harmony! | 13.00% | ~29 |
 | Chief Butler | 10.00% | ~22 |

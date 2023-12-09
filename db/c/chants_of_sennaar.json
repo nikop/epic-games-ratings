@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 926,
+  "EOS_Progressed": 927,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 5.83,
   "EosHistory": [
@@ -3725,6 +3725,11 @@
       "Time": "2023-12-09T19:06:09.1211444+00:00",
       "NumProgressed": 926,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-09T20:05:43.7122563+00:00",
+      "NumProgressed": 927,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 25,
@@ -3760,7 +3765,7 @@
       "Name": "Cable guy",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3776,7 +3781,7 @@
       "Name": "Half the way",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3784,7 +3789,7 @@
       "Name": "Open door",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3800,7 +3805,7 @@
       "Name": "Feels like springtime",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3824,7 +3829,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -3928,21 +3933,21 @@
       "Name": "One last step",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 926,
+      "Progressed": 927,
       "Completed": 54
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:06:09.121144+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:05:43.7122561+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:59:56.9278628+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:06:09.1211685+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:59:52.1963344+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:05:43.7122833+00:00"
 }

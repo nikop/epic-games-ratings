@@ -184,9 +184,9 @@
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_FIVE_STARS_MANAGER",
@@ -320,9 +320,9 @@
       "ID": "ACH_WINNER_STREAK",
       "SetID": "1lnhagg",
       "Name": "Keep the Streak Up!",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WIN_BY_40",
@@ -367,8 +367,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:05:59.8810419+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:05:35.0712892+00:00",
   "LastUpdate_AppInfo": "2023-12-08T02:20:38.2967816+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:59:45.3498409+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:05:59.8810685+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:59:40.9116618+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:05:35.0713102+00:00"
 }

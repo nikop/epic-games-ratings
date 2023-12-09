@@ -18,16 +18,16 @@
 | Quick Pit Stop | 19.00% | ~456 |
 | Go-Faster Stripes | 18.00% | ~432 |
 | I'm Here Too! | 16.00% | ~384 |
-| We've Just Begun | 12.00% | ~288 |
+| We've Just Begun | 11.00% | ~264 |
 | Stamina Star | 9.00% | ~216 |
 | Is It the Right Size? | 8.00% | ~192 |
 | Evangelist | 6.00% | ~144 |
 | Make It Your Own! | 5.00% | ~120 |
 | Cherry Blossom and Temples | 4.00% | ~96 |
-| The Road to Liberty | 4.00% | ~96 |
 | I Make the Rules! | 4.00% | ~96 |
 | Spoilt for Choice | 3.00% | ~72 |
 | La Dolce Vita | 3.00% | ~72 |
+| The Road to Liberty | 3.00% | ~72 |
 | Romantic Races | 3.00% | ~72 |
 | Rounding Off | 3.00% | ~72 |
 | My Work Here Is Done | 3.00% | ~72 |
@@ -41,7 +41,7 @@
 | Exhausted but Happy | 0.70% | ~17 |
 | In Search of Perfection | 0.70% | ~17 |
 | Globe-trotter | 0.50% | ~12 |
-| Maximum Endurance | 0.30% | ~7 |
+| Maximum Endurance | 0.20% | ~5 |
 | Breathtaking Views | 0.20% | ~5 |
 | Beyond the Limiter | 0.20% | ~5 |
 | All My Own Toys | 0.20% | ~5 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,400 (Ranked 218)  
+Progressed: 2,401 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,4 +153,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 2,359 | 0 |
 | 2023-12-07 | 2,378 | 0 |
 | 2023-12-08 | 2,386 | 0 |
-| 2023-12-09 | 2,400 | 0 |
+| 2023-12-09 | 2,401 | 0 |

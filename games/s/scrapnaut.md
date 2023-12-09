@@ -16,7 +16,7 @@ Number of Ratings: 38  (23.09.2022)
 | Smelter | 36.00% | ~177 |
 | Digger | 33.00% | ~162 |
 | Electro-Scrap Gatherer | 33.00% | ~162 |
-| Survivor | 31.00% | ~153 |
+| Survivor | 32.00% | ~157 |
 | Lumberjack | 30.00% | ~148 |
 | Robot Destroyer | 30.00% | ~148 |
 | Herbalist | 29.00% | ~143 |

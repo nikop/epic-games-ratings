@@ -38,10 +38,10 @@ Rating: 4.61 (Ranked 387)
 | Mighty Hoard | 1.00% | ~56 |
 | Prometheus Avenged | 1.00% | ~56 |
 | Seal the Deal | 1.00% | ~56 |
+| A Conqueror's Cohort | 1.00% | ~56 |
 | Spoils of War | 1.00% | ~56 |
 | Dawn of the Dread | 1.00% | ~56 |
 | The Creator | 0.90% | ~50 |
-| A Conqueror's Cohort | 0.90% | ~50 |
 | Lord of Chaos | 0.80% | ~45 |
 | Eternal Lord | 0.80% | ~45 |
 | The Eternal Court | 0.80% | ~45 |
@@ -269,9 +269,9 @@ Completed: 7 (0.13%) (Ranked 278)
 | 2023-12-08 | 5,576 | 7 |
 | 2023-12-09 | 5,582 | 7 |
 ## Awards
-Max (Great for Beginners): 36  (Ranked 476)  
+Max (Great for Beginners): 36  (Ranked 477)  
 Sum: 90 (Ranked 459)  
-Diff (max vs sum): 17  
+Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

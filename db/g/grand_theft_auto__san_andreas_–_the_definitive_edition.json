@@ -1637,10 +1637,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 709,
       "NumberOfAwardsMax": 431
+    },
+    {
+      "Time": "2023-12-09T19:59:59.0858684+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 710,
+      "NumberOfAwardsMax": 431
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 709,
+  "NumberOfAwards": 710,
   "NumberOfAwardsMax": 431,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1672,7 +1678,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1705,9 +1711,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 13915,
+  "EOS_Progressed": 13917,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -15695,6 +15701,11 @@
       "Time": "2023-12-09T19:09:40.0057902+00:00",
       "NumProgressed": 13915,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-09T20:09:18.8542866+00:00",
+      "NumProgressed": 13917,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15706,7 +15717,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11410
+      "UsersEstimate": 11412
     },
     {
       "ID": "ACH02",
@@ -15746,7 +15757,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH07",
@@ -15762,7 +15773,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7236
+      "UsersEstimate": 7237
     },
     {
       "ID": "ACH09",
@@ -15770,7 +15781,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH10",
@@ -15834,7 +15845,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH18",
@@ -15858,7 +15869,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH21",
@@ -15874,7 +15885,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "ACH23",
@@ -15882,7 +15893,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3757
+      "UsersEstimate": 3758
     },
     {
       "ID": "ACH24",
@@ -15922,7 +15933,7 @@
       "Name": "Original Gangster",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "ACH29",
@@ -15930,7 +15941,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "ACH30",
@@ -15938,7 +15949,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH31",
@@ -15985,16 +15996,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13915,
+      "Progressed": 13917,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-09T14:59:48.6137607+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:09:40.00579+00:00",
+  "LastChanged": "2023-12-09T19:59:59.085868+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:09:18.8542861+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:45.2117848+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:00:04.4281672+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:09:40.0058587+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:59:59.0858688+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:09:18.8543755+00:00"
 }

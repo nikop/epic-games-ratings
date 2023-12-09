@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 721,
+  "EOS_Progressed": 722,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -2444,6 +2444,11 @@
       "Time": "2023-12-09T16:06:13.5275949+00:00",
       "NumProgressed": 721,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-09T20:06:10.6799195+00:00",
+      "NumProgressed": 722,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2471,7 +2476,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "dont-miss-calls",
@@ -2479,7 +2484,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "female-conqueror",
@@ -2495,7 +2500,7 @@
       "Name": "That was base",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "hire-lieutenant",
@@ -2503,7 +2508,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "kill-lieutenants",
@@ -2519,7 +2524,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "play-at-night",
@@ -2535,7 +2540,7 @@
       "Name": "Follow the Money",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "rage-quit",
@@ -2543,7 +2548,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "rename-lieutenant",
@@ -2551,7 +2556,7 @@
       "Name": "I\u0027m Going To Call You Kitty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "rob-village",
@@ -2575,7 +2580,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "unlock-residences",
@@ -2591,7 +2596,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "use-submarine",
@@ -2606,15 +2611,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 721,
+      "Progressed": 722,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:06:36.6927778+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:06:10.679919+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:24.9876326+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:58:07.8277301+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:06:36.6927985+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:58:06.6274028+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:06:10.6799433+00:00"
 }

@@ -22,7 +22,7 @@ Rating: 4.57 (Ranked 479)
 | Hope Seeker | 12.00% | ~410 |
 | A Hunk of Junk | 11.00% | ~376 |
 | Man's Best Friend | 9.00% | ~308 |
-| Power Outage | 8.00% | ~273 |
+| Power Outage | 9.00% | ~308 |
 | Convenient Transport | 8.00% | ~273 |
 | Please Make it Stop! | 8.00% | ~273 |
 | Sightseeing | 7.00% | ~239 |

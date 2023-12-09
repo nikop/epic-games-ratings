@@ -37,28 +37,28 @@
 | Master of the Undead | 33.00% | ~177 |
 | If Looks Could Kill | 30.00% | ~161 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~150 |
+| Forbidden Knowledge | 28.00% | ~150 |
 | Ghost Pirates? Ghost Heroes! | 28.00% | ~150 |
-| Forbidden Knowledge | 27.00% | ~145 |
+| The Finitude Drill | 27.00% | ~145 |
 | Hungry, Hungry Gorgu! | 26.00% | ~140 |
-| The Finitude Drill | 26.00% | ~140 |
 | Doom Hill | 25.00% | ~134 |
 | Stop Tanos! | 24.00% | ~129 |
 | Brimstone Shaken, Not Stirred | 24.00% | ~129 |
+| Sabotage! | 22.00% | ~118 |
 | Bonus Evilness | 21.00% | ~113 |
-| Sabotage! | 21.00% | ~113 |
 | Raiders of the Lost Stone | 21.00% | ~113 |
 | The Rune Sockets of Finitude (Part 1) | 21.00% | ~113 |
 | The Rune Sockets of Finitude (Part 2) | 19.00% | ~102 |
+| Rubble and Ashes | 18.00% | ~97 |
 | The Last Stand - This Time For Real! | 18.00% | ~97 |
 | My Little Torture Chamber | 17.00% | ~91 |
-| Rubble and Ashes | 17.00% | ~91 |
+| Lavalumps on Ice! | 17.00% | ~91 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~86 |
-| Lavalumps on Ice! | 16.00% | ~86 |
 | To the Max! | 15.00% | ~81 |
 | To Infinity And Beyond! | 15.00% | ~81 |
 | Evilification | 14.00% | ~75 |
 | Mirror, Mirror | 13.00% | ~70 |
-| Untouchable | 12.00% | ~64 |
+| Untouchable | 13.00% | ~70 |
 | Heal Heal Blessing | 11.00% | ~59 |
 | Laser Eyes Are So Useless | 10.00% | ~54 |
 | Hands Off My Stones | 10.00% | ~54 |

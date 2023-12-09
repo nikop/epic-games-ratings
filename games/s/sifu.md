@@ -17,14 +17,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Breath | 0.70% | ~5,025 |
 | Lightning Hands | 0.70% | ~5,025 |
 | Rumble in the Hangar | 0.70% | ~5,025 |
-| Lady Wing Chun | 0.60% | ~4,307 |
-| Furious Fists | 0.60% | ~4,307 |
-| Kill Nil | 0.60% | ~4,307 |
-| Stuntmaster | 0.60% | ~4,307 |
-| Street Fighting | 0.60% | ~4,307 |
-| Qi Gong: Essence | 0.60% | ~4,307 |
-| Old Child | 0.60% | ~4,307 |
-| Path of the Prospect | 0.60% | ~4,307 |
+| Lady Wing Chun | 0.60% | ~4,308 |
+| Furious Fists | 0.60% | ~4,308 |
+| Kill Nil | 0.60% | ~4,308 |
+| Stuntmaster | 0.60% | ~4,308 |
+| Street Fighting | 0.60% | ~4,308 |
+| Qi Gong: Essence | 0.60% | ~4,308 |
+| Old Child | 0.60% | ~4,308 |
+| Path of the Prospect | 0.60% | ~4,308 |
 | Fight the way you practice | 0.60% | ~163 |
 | Scareless | 0.50% | ~3,590 |
 | Kung-Fu Tussle | 0.50% | ~3,590 |
@@ -44,6 +44,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.20% | ~1,436 |
 | The 36th Chamber of Kung-Fu | 0.20% | ~1,436 |
 | Sword Stained With Blood | 0.20% | ~1,436 |
+| The Pit Protector | 0.20% | ~1,436 |
 | Deadly Venom | 0.20% | ~54 |
 | A Touch of Acumen | 0.20% | ~54 |
 | Beatmaker | 0.20% | ~54 |
@@ -53,7 +54,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Healing Memory | 0.10% | ~718 |
 | Master of the Phoenix Eye Fist | 0.10% | ~718 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~718 |
-| The Pit Protector | 0.10% | ~718 |
 | Be like water my friend | 0.10% | ~718 |
 | Warriors from the Mountain | 0.10% | ~718 |
 | Come Snap With Me | 0.10% | ~718 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,916 (Ranked 23)  
+Progressed: 717,918 (Ranked 23)  
 Completed: 12,947 (1.80%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,10 +300,10 @@ Completed: 12,947 (1.80%) (Ranked 135)
 | 2023-12-06 | 717,844 | 12,945 |
 | 2023-12-07 | 717,870 | 12,945 |
 | 2023-12-08 | 717,888 | 12,946 |
-| 2023-12-09 | 717,916 | 12,947 |
+| 2023-12-09 | 717,918 | 12,947 |
 ## Awards
 Max (Great Boss Battles): 6,895  (Ranked 55)  
-Sum: 12,101 (Ranked 83)  
+Sum: 12,102 (Ranked 83)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -312,7 +312,7 @@ Diff (max vs sum): -28
 | This game has Challenging Combat | 614 |
 | This game has Amazing Storytelling | 600 |
 | This game has Amazing Characters | 586 |
-| This game has Quickly Understood Controls | 581 |
+| This game has Quickly Understood Controls | 582 |
 | This game is Highly Recommended | 581 |
 | This game is Extremely Fun | 571 |
 | This game has Unique Visuals | 566 |
@@ -647,4 +647,4 @@ Diff (max vs sum): -28
 | 2023-12-06 | 4.82 | - | 6,885 | 12,075 |
 | 2023-12-07 | 4.82 | - | 6,893 | 12,078 |
 | 2023-12-08 | 4.82 | - | 6,893 | 12,095 |
-| 2023-12-09 | 4.82 | - | 6,895 | 12,101 |
+| 2023-12-09 | 4.82 | - | 6,895 | 12,102 |

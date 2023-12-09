@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8681,
+  "EOS_Progressed": 8682,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8364,6 +8364,11 @@
       "Time": "2023-12-09T19:10:01.8761701+00:00",
       "NumProgressed": 8681,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T20:09:40.5537933+00:00",
+      "NumProgressed": 8682,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8800,7 +8805,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "PlayerKills10",
@@ -8808,7 +8813,7 @@
       "Name": "10 Eliminations",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "PlayerKills100",
@@ -8936,7 +8941,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "TSUPurchased1",
@@ -8967,7 +8972,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8681,
+      "Progressed": 8682,
       "Completed": 1
     }
   ],
@@ -8975,8 +8980,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-05T02:57:10.0290174+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:10:01.8761698+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:09:40.5537931+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.1858441+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:59:36.3001714+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:10:01.8762584+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:59:32.4416497+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:09:40.5538778+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 633,
-  "Ranking_Popularity": 476,
+  "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 308,
@@ -10891,9 +10891,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1356
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -10995,8 +10995,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-06T15:59:42.180054+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:06:27.4170029+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:06:01.5634225+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:57:16.7884874+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:06:27.4170562+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:57:16.0826764+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:06:01.5634932+00:00"
 }

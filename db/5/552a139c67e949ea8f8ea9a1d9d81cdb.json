@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1292,
+  "EOS_Progressed": 1293,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2962,6 +2962,11 @@
       "Time": "2023-12-09T13:07:45.0416264+00:00",
       "NumProgressed": 1292,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T20:05:09.1934295+00:00",
+      "NumProgressed": 1293,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2974,7 +2979,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3006,7 +3011,7 @@
       "Name": "Like lightning!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -3038,7 +3043,7 @@
       "Name": "Masterful!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -3102,7 +3107,7 @@
       "Name": "Solo",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -3142,7 +3147,7 @@
       "Name": "The Octopus",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -3230,7 +3235,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -3246,7 +3251,7 @@
       "Name": "Extra gear",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -3254,7 +3259,7 @@
       "Name": "Perfectionist",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -3284,9 +3289,9 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "5k00jcd",
       "Name": "A little nest egg",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 78
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -3317,20 +3322,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1292,
+      "Progressed": 1293,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 960,
-      "Completed": 960
+      "Progressed": 961,
+      "Completed": 961
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:05:33.1552119+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:05:09.1934288+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:57:05.8729105+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:58:59.865594+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:05:33.1552533+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:58:56.19764+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:05:09.1934779+00:00"
 }

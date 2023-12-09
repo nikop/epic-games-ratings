@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
@@ -15258,10 +15258,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 280075,
       "NumberOfAwardsMax": 64509
+    },
+    {
+      "Time": "2023-12-09T19:59:56.4222997+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 280082,
+      "NumberOfAwardsMax": 64509
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 280075,
+  "NumberOfAwards": 280082,
   "NumberOfAwardsMax": 64509,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15335,7 +15341,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 20884
+      "Count": 20891
     }
   ],
   "EOS_Progressed": 0,
@@ -15349,8 +15355,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-12-09T18:00:03.8361723+00:00",
+  "LastChanged": "2023-12-09T19:59:56.4222996+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.5681968+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:00:01.6893243+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:08:05.327316+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:59:56.4223003+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:08:17.3499932+00:00"
 }

@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16012,
+  "EOS_Progressed": 16016,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13445,6 +13445,11 @@
       "Time": "2023-12-09T19:04:40.1152957+00:00",
       "NumProgressed": 16012,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-09T20:04:17.2494653+00:00",
+      "NumProgressed": 16016,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13481,7 +13486,7 @@
       "Name": "Data Archivist",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "13",
@@ -13553,7 +13558,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "21",
@@ -13593,7 +13598,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "26",
@@ -13736,13 +13741,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16012,
+      "Progressed": 16016,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1966,
+      "Progressed": 1970,
       "Completed": 848
     }
   ],
@@ -13750,8 +13755,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-09T17:58:45.997893+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:04:40.1152953+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:04:17.2494647+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:58:44.5800945+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:04:40.1153676+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:58:41.6188575+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:04:17.2495605+00:00"
 }

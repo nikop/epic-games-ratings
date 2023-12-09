@@ -29,12 +29,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Deprogramming | 0.10% | ~126 |
 | Ichthyophobic | 0.10% | ~126 |
 | Now Stay Dead | 0.10% | ~126 |
+| No More Mouths to Feed | 0.10% | ~126 |
 | Meat and Greet | 0.10% | ~126 |
 | Clearing the Ledger | 0.10% | ~126 |
 | Catch and Decease | 0.10% | ~126 |
 | Overdue Notice | 0.10% | ~126 |
 | Reverse Banditry | 0.10% | ~126 |
 | Escape from the Black Hole | 0.10% | ~126 |
+| Bacon Bits | 0.10% | ~126 |
 | It Happens | 0.10% | ~126 |
 | Hat Trick | 0.10% | ~126 |
 | Spelunker | 0.10% | ~126 |
@@ -57,13 +59,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 0.10% | ~126 |
 | Handled | 0.10% | ~126 |
 | Body of Work | 0.10% | ~126 |
+| Grand Slam | 0.10% | ~126 |
 | Road Trip | 0.10% | ~126 |
 | Malpractice Assurance | 0.10% | ~1 |
 | This guy... again? | 0.10% | ~1 |
 | A Life Well Lived | 0.00% | ~0 |
-| No More Mouths to Feed | 0.00% | ~0 |
 | Circle of Life | 0.00% | ~0 |
-| Bacon Bits | 0.00% | ~0 |
 | No Gravestone Left Unturned | 0.00% | ~0 |
 | 20,000 Leagues Above the Sea | 0.00% | ~0 |
 | Tears in the Rain | 0.00% | ~0 |
@@ -71,7 +72,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 0.00% | ~0 |
 | Worldly Traveller | 0.00% | ~0 |
 | The Clash | 0.00% | ~0 |
-| Grand Slam | 0.00% | ~0 |
 | Hard Mode | 0.00% | ~0 |
 | Battle Hardened | 0.00% | ~0 |
 | Maître De La Lame | 0.00% | ~0 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,931 (Ranked 84)  
+Progressed: 125,938 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-06 | 125,704 | 2 |
 | 2023-12-07 | 125,791 | 2 |
 | 2023-12-08 | 125,859 | 2 |
-| 2023-12-09 | 125,931 | 2 |
+| 2023-12-09 | 125,938 | 2 |
 ## Awards
 Max (Character Customization): 7,572  (Ranked 52)  
 Sum: 20,019 (Ranked 59)  

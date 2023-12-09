@@ -5,7 +5,7 @@
   "Ranking_Rating": 231,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
-  "Ranking_EOS_Progress": 42,
+  "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 24,
   "Ranking_EOS_NewCompleters": 115,
@@ -12979,10 +12979,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 60235,
       "NumberOfAwardsMax": 7319
+    },
+    {
+      "Time": "2023-12-09T19:58:47.6523249+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 60250,
+      "NumberOfAwardsMax": 7319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 60235,
+  "NumberOfAwards": 60250,
   "NumberOfAwardsMax": 7319,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13032,7 +13038,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6720
+      "Count": 6735
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13053,9 +13059,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 471968,
+  "EOS_Progressed": 472013,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4076,
+  "EOS_NewPlayers": 4099,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39853,6 +39859,11 @@
       "Time": "2023-12-09T19:05:56.2197366+00:00",
       "NumProgressed": 471968,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T20:05:31.7273689+00:00",
+      "NumProgressed": 472013,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -42767,21 +42778,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 471968,
+      "Progressed": 472013,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 471968,
+      "Progressed": 472013,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-09T18:58:51.0328056+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:05:56.2197362+00:00",
-  "LastUpdate_AppInfo": "2023-12-02T18:57:21.5867549+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:58:51.0328061+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:05:56.220766+00:00"
+  "LastChanged": "2023-12-09T19:58:47.6523248+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:05:31.7273683+00:00",
+  "LastUpdate_AppInfo": "2023-12-09T19:57:01.211805+00:00",
+  "LastUpdate_Ratings": "2023-12-09T19:58:47.6523254+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:05:31.728382+00:00"
 }

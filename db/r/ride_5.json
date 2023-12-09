@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2400,
+  "EOS_Progressed": 2401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5897,6 +5897,11 @@
       "Time": "2023-12-09T19:04:43.4125113+00:00",
       "NumProgressed": 2400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T20:04:20.5517763+00:00",
+      "NumProgressed": 2401,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6003,9 +6008,9 @@
       "ID": "ML_ACHIEVEMENT_13",
       "SetID": "c7hf6a4",
       "Name": "Maximum Endurance",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -6059,9 +6064,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "c7hf6a4",
       "Name": "The Road to Liberty",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -6163,9 +6168,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "c7hf6a4",
       "Name": "We\u0027ve Just Begun",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 264
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -6300,14 +6305,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2400,
+      "Progressed": 2401,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:04:43.4125109+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:04:20.5517757+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:07.5482593+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:57:13.5895299+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:04:43.4125691+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:57:13.5369877+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:04:20.5518442+00:00"
 }

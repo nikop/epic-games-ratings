@@ -11,12 +11,12 @@ Rating: 4.42 (Ranked 715)
 | Gun for Hire | 70.00% | ~1,119 |
 | I am the law! | 64.00% | ~1,023 |
 | Lumberjack | 54.00% | ~863 |
-| Croaked | 49.00% | ~783 |
+| Croaked | 50.00% | ~799 |
 | Limp Richard | 49.00% | ~783 |
 | Editor Adept | 48.00% | ~767 |
 | Exorcist | 48.00% | ~767 |
 | From Darkness to Light | 48.00% | ~767 |
-| Giant Killer | 46.00% | ~735 |
+| Giant Killer | 47.00% | ~751 |
 | Sensei | 44.00% | ~703 |
 | Firestarter | 43.00% | ~687 |
 | The meaning of Kain | 43.00% | ~687 |

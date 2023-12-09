@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8083,10 +8083,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12101,
       "NumberOfAwardsMax": 6895
+    },
+    {
+      "Time": "2023-12-09T20:02:49.4211129+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12102,
+      "NumberOfAwardsMax": 6895
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12101,
+  "NumberOfAwards": 12102,
   "NumberOfAwardsMax": 6895,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8106,7 +8112,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 581
+      "Count": 582
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8163,9 +8169,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 717916,
+  "EOS_Progressed": 717918,
   "EOS_Completed": 12947,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -28813,6 +28819,11 @@
       "Time": "2023-12-09T19:06:06.706351+00:00",
       "NumProgressed": 717916,
       "NumCompleted": 12947
+    },
+    {
+      "Time": "2023-12-09T20:05:41.4669081+00:00",
+      "NumProgressed": 717918,
+      "NumCompleted": 12947
     }
   ],
   "TotalAchievements": 60,
@@ -28856,7 +28867,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "06_Vengeance_H5",
@@ -28864,7 +28875,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "07_Wude_H1",
@@ -28928,7 +28939,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "15_Detective_H1",
@@ -28976,7 +28987,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -28992,7 +29003,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -29032,7 +29043,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -29072,7 +29083,7 @@
       "Name": "Old Child",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "33_BladeOneShot",
@@ -29104,7 +29115,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -29118,9 +29129,9 @@
       "ID": "38_CustomTrophy_H2",
       "SetID": "adcm20g",
       "Name": "The Pit Protector",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 1436
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -29303,21 +29314,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 27217,
+      "Progressed": 27219,
       "Completed": 10763
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717916,
+      "Progressed": 717918,
       "Completed": 12947
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-09T12:03:08.8588341+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:06:06.7063505+00:00",
+  "LastChanged": "2023-12-09T20:02:49.4211125+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:05:41.4669075+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:06.4352314+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:02:48.3686728+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:06:06.7064582+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:02:49.4211136+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:05:41.4670193+00:00"
 }

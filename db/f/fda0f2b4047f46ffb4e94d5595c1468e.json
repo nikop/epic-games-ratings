@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3575,7 +3575,7 @@
   ],
   "EOS_Progressed": 9575,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10971,9 +10971,9 @@
       "ID": "ach07",
       "SetID": "47in8n6",
       "Name": "Beaten And Broken",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 5362
+      "UsersEstimate": 5458
     },
     {
       "ID": "ach08",
@@ -11332,8 +11332,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-12-09T18:02:51.7961589+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:06:18.8524461+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:05:53.3720065+00:00",
   "LastUpdate_AppInfo": "2023-12-09T12:59:38.7536822+00:00",
-  "LastUpdate_Ratings": "2023-12-09T19:02:57.1373065+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:06:18.8525045+00:00"
+  "LastUpdate_Ratings": "2023-12-09T20:02:57.8729184+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:05:53.3720637+00:00"
 }

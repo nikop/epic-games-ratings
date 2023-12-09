@@ -9498,9 +9498,9 @@
       "Count": 983
     }
   ],
-  "EOS_Progressed": 125931,
+  "EOS_Progressed": 125938,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34223,6 +34223,11 @@
       "Time": "2023-12-09T19:08:25.4859588+00:00",
       "NumProgressed": 125931,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-09T20:08:36.3643994+00:00",
+      "NumProgressed": 125938,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34424,9 +34429,9 @@
       "ID": "combat_kill_gentry",
       "SetID": "64l4lke",
       "Name": "No More Mouths to Feed",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 126
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -34488,9 +34493,9 @@
       "ID": "combat_kill_swine",
       "SetID": "64l4lke",
       "Name": "Bacon Bits",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 126
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -34728,9 +34733,9 @@
       "ID": "run_victory_all_confessions_back_to_back",
       "SetID": "64l4lke",
       "Name": "Grand Slam",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 126
     },
     {
       "ID": "run_victory_final_boss_infernal_flame",
@@ -34865,21 +34870,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 125931,
+      "Progressed": 125938,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 800,
+      "Progressed": 807,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-09T15:57:09.2241371+00:00",
-  "LastChanged_Achievements": "2023-12-09T19:08:25.4859586+00:00",
+  "LastChanged_Achievements": "2023-12-09T20:08:36.3643988+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:09.0796659+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:57:23.0055883+00:00",
-  "LastUpdate_Achievements": "2023-12-09T19:08:25.4860994+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:57:22.0892233+00:00",
+  "LastUpdate_Achievements": "2023-12-09T20:08:36.3645863+00:00"
 }
