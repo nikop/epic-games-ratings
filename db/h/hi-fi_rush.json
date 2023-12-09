@@ -3,12 +3,12 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 25,
-  "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 559,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4490,
+  "EOS_Progressed": 4491,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8210,6 +8210,11 @@
       "Time": "2023-12-08T23:07:27.9360804+00:00",
       "NumProgressed": 4490,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-09T00:05:48.1052174+00:00",
+      "NumProgressed": 4491,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8229,7 +8234,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Ach003",
@@ -8283,9 +8288,9 @@
       "ID": "Ach009",
       "SetID": "12n4k20",
       "Name": "Well that was a rush!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 225
     },
     {
       "ID": "Ach010",
@@ -8333,7 +8338,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Ach016",
@@ -8405,7 +8410,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Ach025",
@@ -8788,13 +8793,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4490,
+      "Progressed": 4491,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 3011,
+      "Progressed": 3012,
       "Completed": 1930
     }
   ],
@@ -8802,8 +8807,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:07:27.9360799+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:05:48.105217+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:59:50.8821941+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:07:27.9361627+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:58:53.1429093+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:05:48.1052969+00:00"
 }

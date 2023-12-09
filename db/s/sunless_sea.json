@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -772,9 +772,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 41875,
+  "EOS_Progressed": 41877,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24427,6 +24427,11 @@
       "Time": "2023-12-08T23:07:36.8585017+00:00",
       "NumProgressed": 41875,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-09T00:05:54.1262732+00:00",
+      "NumProgressed": 41877,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -24558,7 +24563,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15075
+      "UsersEstimate": 15076
     },
     {
       "ID": "ach_die10",
@@ -24806,7 +24811,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6281
+      "UsersEstimate": 6282
     },
     {
       "ID": "ach_undercurrent",
@@ -24869,15 +24874,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 41875,
+      "Progressed": 41877,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-05T21:58:32.7550379+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:07:36.8585015+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:05:54.1262727+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:04.5816055+00:00",
-  "LastUpdate_Ratings": "2023-12-08T23:02:33.1798219+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:07:36.8586423+00:00"
+  "LastUpdate_Ratings": "2023-12-09T00:00:13.1414707+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:05:54.1263988+00:00"
 }

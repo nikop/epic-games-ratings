@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Last Stand | 89.00% | ~477 |
-| Thalya – Simply Immortal | 88.00% | ~472 |
+| Thalya – Simply Immortal | 89.00% | ~477 |
 | For the Horde! | 83.00% | ~445 |
 | Hammer Time, Round Two | 81.00% | ~434 |
 | The Hellwoods | 76.00% | ~407 |
@@ -33,8 +33,8 @@
 | Mana Cannon | 41.00% | ~220 |
 | All’s Well That Ends Evil | 36.00% | ~193 |
 | Unstoppable Horde | 33.00% | ~177 |
+| Master of the Undead | 33.00% | ~177 |
 | The Duel | 33.00% | ~177 |
-| Master of the Undead | 32.00% | ~172 |
 | If Looks Could Kill | 29.00% | ~155 |
 | Ghost Pirates? Ghost Heroes! | 28.00% | ~150 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~145 |
@@ -44,8 +44,8 @@
 | Stop Tanos! | 24.00% | ~129 |
 | Doom Hill | 24.00% | ~129 |
 | Brimstone Shaken, Not Stirred | 22.00% | ~118 |
+| Bonus Evilness | 21.00% | ~113 |
 | Sabotage! | 21.00% | ~113 |
-| Bonus Evilness | 20.00% | ~107 |
 | Raiders of the Lost Stone | 20.00% | ~107 |
 | The Rune Sockets of Finitude (Part 1) | 20.00% | ~107 |
 | The Rune Sockets of Finitude (Part 2) | 18.00% | ~96 |
@@ -54,8 +54,8 @@
 | My Little Torture Chamber | 16.00% | ~86 |
 | Lavalumps on Ice! | 16.00% | ~86 |
 | Rubble and Ashes | 16.00% | ~86 |
+| To Infinity And Beyond! | 15.00% | ~80 |
 | To the Max! | 14.00% | ~75 |
-| To Infinity And Beyond! | 14.00% | ~75 |
 | Mirror, Mirror | 13.00% | ~70 |
 | Evilification | 13.00% | ~70 |
 | Untouchable | 12.00% | ~64 |

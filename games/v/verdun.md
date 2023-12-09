@@ -300,13 +300,13 @@ Completed: 4 (0.01%) (Ranked 348)
 | 2023-12-07 | 65,741 | 4 |
 | 2023-12-08 | 65,819 | 4 |
 ## Awards
-Max (Highly Recommended): 104  (Ranked 359)  
-Sum: 816 (Ranked 281)  
+Max (Highly Recommended): 105  (Ranked 359)  
+Sum: 817 (Ranked 281)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
-| This game is Highly Recommended | 104 |
+| This game is Highly Recommended | 105 |
 | This game is Extremely Fun | 95 |
 | This game has Diverse Characters | 92 |
 | This game has Quickly Understood Controls | 90 |
@@ -473,3 +473,4 @@ Diff (max vs sum): 78
 | 2023-11-30 | 4.53 | - | 103 | 813 |
 | 2023-12-01 | 4.53 | - | 104 | 814 |
 | 2023-12-03 | 4.53 | - | 104 | 816 |
+| 2023-12-09 | 4.53 | - | 105 | 817 |

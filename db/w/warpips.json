@@ -3,12 +3,12 @@
   "Name": "Warpips",
   "ProductSlug": "warpips-57e2c4",
   "Ranking_Rating": 696,
-  "Ranking_Popularity": 500,
-  "Ranking_PopularitySum": 405,
+  "Ranking_Popularity": 495,
+  "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -763,12 +763,18 @@
       "Rating": 4.43,
       "NumberOfAwards": 197,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-12-08T23:57:59.0573204+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 198,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 197,
-  "NumberOfAwardsMax": 31,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "NumberOfAwards": 198,
+  "NumberOfAwardsMax": 32,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Playful Visuals",
@@ -786,7 +792,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Extremely Fun",
@@ -839,9 +845,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2023-12-07T19:57:25.0111298+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:05:12.8658661+00:00",
+  "LastChanged": "2023-12-08T23:57:59.0573201+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:04:12.1178793+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:17.3378438+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:58:29.393906+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:05:12.8658681+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:57:59.0573206+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:04:12.1178815+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~975,892 |
-| I Need a Bigger Garage | 63.00% | ~683,125 |
-| Pump my Ride | 47.00% | ~509,633 |
-| Ghostbuster | 34.00% | ~368,670 |
-| Call Roadside Assistance | 18.00% | ~195,178 |
-| That Was Close | 18.00% | ~195,178 |
-| Quickie | 11.00% | ~119,276 |
+| The First of Many | 90.00% | ~975,901 |
+| I Need a Bigger Garage | 63.00% | ~683,130 |
+| Pump my Ride | 47.00% | ~509,637 |
+| Ghostbuster | 34.00% | ~368,674 |
+| Call Roadside Assistance | 18.00% | ~195,180 |
+| That Was Close | 18.00% | ~195,180 |
+| Quickie | 11.00% | ~119,277 |
 | California Dreamer | 7.00% | ~75,903 |
-| Can't Touch This | 5.00% | ~54,216 |
+| Can't Touch This | 5.00% | ~54,217 |
 | Carménère Taster | 4.00% | ~43,373 |
 | Comeback | 4.00% | ~43,373 |
 | Driver from Ipanema | 3.00% | ~32,530 |
 | Supersonic | 3.00% | ~32,530 |
 | Marathonist | 3.00% | ~32,530 |
 | Living Legend | 3.00% | ~32,530 |
-| God of Roads | 2.00% | ~21,686 |
-| Pathfinder | 2.00% | ~21,686 |
-| Go-Kart Champion | 2.00% | ~21,686 |
-| Round the Globe | 2.00% | ~21,686 |
-| Completionist | 2.00% | ~21,686 |
-| Harder, Better, Faster, Stronger | 2.00% | ~21,686 |
+| God of Roads | 2.00% | ~21,687 |
+| Pathfinder | 2.00% | ~21,687 |
+| Go-Kart Champion | 2.00% | ~21,687 |
+| Round the Globe | 2.00% | ~21,687 |
+| Completionist | 2.00% | ~21,687 |
+| Harder, Better, Faster, Stronger | 2.00% | ~21,687 |
 | Crocodile Hunter | 1.00% | ~10,843 |
 | The Iceman | 1.00% | ~10,843 |
 | Bollywood Star | 1.00% | ~10,843 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,084 |
 | Look Mom, No Hands! | 0.10% | ~1,084 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,084,325 (Ranked 12)  
+Progressed: 1,084,334 (Ranked 12)  
 Completed: 503 (0.05%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,6 +277,7 @@ Completed: 503 (0.05%) (Ranked 321)
 | 2023-12-06 | 1,083,412 | 501 |
 | 2023-12-07 | 1,083,835 | 501 |
 | 2023-12-08 | 1,084,325 | 503 |
+| 2023-12-09 | 1,084,334 | 503 |
 ## Awards
 Max (Great for Beginners): 175  (Ranked 306)  
 Sum: 1,572 (Ranked 234)  

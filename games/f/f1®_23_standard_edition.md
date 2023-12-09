@@ -5,26 +5,26 @@ Rating: 4.68 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,705 |
-| On the Top Step | 89.00% | ~5,401 |
+| Getting on the Step | 94.00% | ~5,706 |
+| On the Top Step | 89.00% | ~5,402 |
 | Setting up for Success | 79.00% | ~4,795 |
-| Team Orders | 76.00% | ~4,612 |
+| Team Orders | 76.00% | ~4,613 |
 | Engineer | 56.00% | ~3,399 |
 | Familiar Faces | 49.00% | ~2,974 |
-| Sharing the Love | 44.00% | ~2,670 |
+| Sharing the Love | 44.00% | ~2,671 |
 | Going the Extra Mile | 43.00% | ~2,610 |
 | Hitting a Season | 42.00% | ~2,549 |
 | A Dozen Pieces | 35.00% | ~2,124 |
-| Challenge Yourself | 34.00% | ~2,063 |
+| Challenge Yourself | 34.00% | ~2,064 |
 | Making History | 32.00% | ~1,942 |
 | Network Success | 29.00% | ~1,760 |
 | Writing a new Chapter | 26.00% | ~1,578 |
 | Spring Cleaning | 24.00% | ~1,457 |
-| Reduce | 21.00% | ~1,274 |
-| Ups and Downs | 21.00% | ~1,274 |
+| Reduce | 21.00% | ~1,275 |
+| Ups and Downs | 21.00% | ~1,275 |
 | Crucial Combo | 20.00% | ~1,214 |
-| Reuse | 18.00% | ~1,092 |
-| Proving Them Wrong | 18.00% | ~1,092 |
+| Reuse | 18.00% | ~1,093 |
+| Proving Them Wrong | 18.00% | ~1,093 |
 | Gathering Dust | 17.00% | ~1,032 |
 | One for the Book | 17.00% | ~1,032 |
 | Oil and Water | 16.00% | ~971 |
@@ -41,8 +41,8 @@ Rating: 4.68 (Ranked 258)
 | For all Those Back at the Factory | 7.00% | ~425 |
 | Living up to Expectations | 7.00% | ~425 |
 | Smooth Operator | 7.00% | ~425 |
-| Loyal Bond | 5.00% | ~303 |
-| Peak Performance | 5.00% | ~303 |
+| Loyal Bond | 5.00% | ~304 |
+| Peak Performance | 5.00% | ~304 |
 | Hitting a Century | 4.00% | ~243 |
 | Seasoned Rookie | 3.00% | ~182 |
 | Wait, I know you? | 3.00% | ~182 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 258)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,069 (Ranked 186)  
+Progressed: 6,070 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,10 +142,11 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 6,050 | 0 |
 | 2023-12-07 | 6,064 | 0 |
 | 2023-12-08 | 6,069 | 0 |
+| 2023-12-09 | 6,070 | 0 |
 ## Awards
-Max (Diverse Characters): 35  (Ranked 482)  
+Max (Diverse Characters): 35  (Ranked 481)  
 Sum: 179 (Ranked 414)  
-Diff (max vs sum): 68  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

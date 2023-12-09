@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 85.00% | ~53 |
-| Air Fighter | 81.00% | ~50 |
-| Oo-De-Lally | 66.00% | ~41 |
-| Treasure Hunter | 66.00% | ~41 |
-| The Altruist | 66.00% | ~41 |
+| Act of Kindness | 84.00% | ~53 |
+| Air Fighter | 79.00% | ~50 |
+| Oo-De-Lally | 65.00% | ~41 |
+| Treasure Hunter | 65.00% | ~41 |
+| The Altruist | 65.00% | ~41 |
 | Watch your Step! | 56.00% | ~35 |
-| Tap Dancing | 53.00% | ~33 |
-| MAX LEVEL | 50.00% | ~31 |
-| Right between the eyes | 47.00% | ~29 |
-| Spring Board | 47.00% | ~29 |
-| Starry Night | 42.00% | ~26 |
+| Tap Dancing | 52.00% | ~33 |
+| MAX LEVEL | 49.00% | ~31 |
+| Right between the eyes | 46.00% | ~29 |
+| Spring Board | 46.00% | ~29 |
+| Starry Night | 41.00% | ~26 |
 | Rebel Unleashed | 40.00% | ~25 |
 | Locksley's Tears | 37.00% | ~23 |
 | Merry Co-operation | 32.00% | ~20 |
 | Assault on the Ram | 32.00% | ~20 |
-| Finish Him! | 31.00% | ~19 |
+| Finish Him! | 30.00% | ~19 |
 | Savior | 27.00% | ~17 |
-| Ultra Rebel Instinct | 26.00% | ~16 |
-| Take Action! | 23.00% | ~14 |
-| First Aid | 23.00% | ~14 |
-| Merry Go Round | 23.00% | ~14 |
-| Ultra Combo | 18.00% | ~11 |
+| Ultra Rebel Instinct | 25.00% | ~16 |
+| Take Action! | 22.00% | ~14 |
+| First Aid | 22.00% | ~14 |
+| Merry Go Round | 22.00% | ~14 |
+| Ultra Combo | 17.00% | ~11 |
 | Ascending Will | 16.00% | ~10 |
-| Hidden Experiment | 15.00% | ~9 |
-| Haute Couture | 15.00% | ~9 |
+| Hidden Experiment | 14.00% | ~9 |
+| Haute Couture | 14.00% | ~9 |
 | Brilliant Executioner | 10.00% | ~6 |
 | Into the Lion's Den | 10.00% | ~6 |
 | Bold and Bossy | 8.00% | ~5 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 492)  
+Progressed: 63 (Ranked 489)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,3 +78,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 59 | 0 |
 | 2023-12-07 | 60 | 0 |
 | 2023-12-08 | 62 | 0 |
+| 2023-12-09 | 63 | 0 |

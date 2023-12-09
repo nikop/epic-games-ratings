@@ -3,9 +3,9 @@
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 378,
-  "Ranking_EOS_Completed": 40,
+  "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 244,
-  "EOS_Completed": 26,
+  "EOS_Completed": 27,
   "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.66,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 11.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -575,6 +575,11 @@
       "Time": "2023-12-08T21:09:17.565939+00:00",
       "NumProgressed": 244,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-12-09T00:09:16.7466724+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 17,
@@ -696,9 +701,9 @@
       "ID": "the_whole_truth",
       "SetID": "202dmm8",
       "Name": "The whole truth",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "toby_foolery",
@@ -722,15 +727,15 @@
       "ID": "202dmm8",
       "IsBase": true,
       "Progressed": 244,
-      "Completed": 26
+      "Completed": 27
     }
   ],
   "FirstSeen": "2022-11-05T14:31:21.414427+00:00",
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:10:02.9206753+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:09:16.7466722+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:20.7396665+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:57:39.6062185+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:10:02.9206876+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:57:26.6983646+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:09:16.7466837+00:00"
 }

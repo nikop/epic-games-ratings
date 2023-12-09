@@ -5,47 +5,47 @@ Rating: 4.84 (Ranked 50)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~230,637 |
-| Private Club | 74.00% | ~187,551 |
-| Rogue Guild | 65.00% | ~164,741 |
-| I Watched the Intro | 57.00% | ~144,465 |
-| Covert Consortium | 55.00% | ~139,396 |
-| Goat Queen | 53.00% | ~134,327 |
-| Reach the Stratosphere | 51.00% | ~129,258 |
-| Synchronization Complete | 47.00% | ~119,120 |
-| Secret Society | 45.00% | ~114,051 |
-| Shadow Syndicate | 38.00% | ~96,310 |
-| What a Waste of Money | 33.00% | ~83,638 |
-| New Goat Order | 30.00% | ~76,034 |
-| Don't touch the servers | 28.00% | ~70,965 |
-| San Angora: Become Human | 27.00% | ~68,431 |
-| Real Buoy | 27.00% | ~68,431 |
-| Raider of the Lost Parking Garage | 26.00% | ~65,896 |
-| Welcome to Earth | 25.00% | ~63,362 |
-| Egg Simulator | 19.00% | ~48,155 |
-| Into the Matrix | 19.00% | ~48,155 |
-| Where is It? | 17.00% | ~43,086 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~38,017 |
-| 401(K.O.) | 15.00% | ~38,017 |
+| Forgotten Sorority | 91.00% | ~230,642 |
+| Private Club | 74.00% | ~187,555 |
+| Rogue Guild | 65.00% | ~164,744 |
+| I Watched the Intro | 57.00% | ~144,468 |
+| Covert Consortium | 55.00% | ~139,399 |
+| Goat Queen | 53.00% | ~134,330 |
+| Reach the Stratosphere | 51.00% | ~129,261 |
+| Synchronization Complete | 47.00% | ~119,123 |
+| Secret Society | 45.00% | ~114,054 |
+| Shadow Syndicate | 38.00% | ~96,312 |
+| What a Waste of Money | 33.00% | ~83,639 |
+| New Goat Order | 30.00% | ~76,036 |
+| Don't touch the servers | 28.00% | ~70,967 |
+| San Angora: Become Human | 27.00% | ~68,432 |
+| Real Buoy | 27.00% | ~68,432 |
+| Raider of the Lost Parking Garage | 26.00% | ~65,898 |
+| Welcome to Earth | 25.00% | ~63,363 |
+| Egg Simulator | 19.00% | ~48,156 |
+| Into the Matrix | 19.00% | ~48,156 |
+| Where is It? | 17.00% | ~43,087 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~38,018 |
+| 401(K.O.) | 15.00% | ~38,018 |
 | Black Market | 14.00% | ~35,483 |
 | Car Cave | 12.00% | ~30,414 |
 | Club Mohair | 8.00% | ~20,276 |
 | A Center for Ants? | 8.00% | ~20,276 |
-| French Fika | 7.00% | ~17,741 |
-| Nasty! | 5.00% | ~12,672 |
-| [REDACTED] | 5.00% | ~12,672 |
+| French Fika | 7.00% | ~17,742 |
+| Nasty! | 5.00% | ~12,673 |
+| [REDACTED] | 5.00% | ~12,673 |
 | Who Baywatches the Baywatch? | 4.00% | ~10,138 |
 | Cannibanana | 2.00% | ~5,069 |
 | Daredevil | 2.00% | ~5,069 |
-| Crocsquatch | 1.00% | ~2,534 |
-| You Trusted Your Instincts | 1.00% | ~2,534 |
-| Certified Fresh | 1.00% | ~2,534 |
-| Streaking | 1.00% | ~2,534 |
-| Try Hard 2 | 1.00% | ~2,534 |
+| Crocsquatch | 1.00% | ~2,535 |
+| You Trusted Your Instincts | 1.00% | ~2,535 |
+| Certified Fresh | 1.00% | ~2,535 |
+| Streaking | 1.00% | ~2,535 |
+| Try Hard 2 | 1.00% | ~2,535 |
 | Move! That! Bus! | 0.60% | ~1,521 |
 | G.O.A.T | 0.40% | ~1,014 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,447 (Ranked 60)  
+Progressed: 253,453 (Ranked 60)  
 Completed: 896 (0.35%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,9 +278,10 @@ Completed: 896 (0.35%) (Ranked 231)
 | 2023-12-06 | 253,224 | 895 |
 | 2023-12-07 | 253,334 | 895 |
 | 2023-12-08 | 253,447 | 896 |
+| 2023-12-09 | 253,453 | 896 |
 ## Awards
 Max (Great for Beginners): 488  (Ranked 214)  
-Sum: 4,033 (Ranked 155)  
+Sum: 4,034 (Ranked 155)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -289,7 +290,7 @@ Diff (max vs sum): 59
 | This game is Highly Recommended | 431 |
 | This game has Amazing Characters | 405 |
 | This game is Extremely Fun | 396 |
-| This game has Amazing Storytelling | 381 |
+| This game has Amazing Storytelling | 382 |
 | This game has a Silly Community | 375 |
 | This game is Relaxing | 371 |
 | This game has Quickly Understood Controls | 371 |
@@ -553,4 +554,4 @@ Diff (max vs sum): 59
 | 2023-12-05 | 4.84 | 481 | 3,982 |
 | 2023-12-06 | 4.84 | 484 | 4,004 |
 | 2023-12-07 | 4.84 | 484 | 4,014 |
-| 2023-12-08 | 4.84 | 488 | 4,033 |
+| 2023-12-08 | 4.84 | 488 | 4,034 |

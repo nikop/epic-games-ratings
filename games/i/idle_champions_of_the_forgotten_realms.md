@@ -14,8 +14,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.20% | ~478 |
 | Seeking Allies | 0.20% | ~478 |
 | Are Ya Chicken? | 0.20% | ~478 |
-| The Beginning is the End | 0.20% | ~410 |
-| The End is the Beginning | 0.20% | ~410 |
+| The Beginning is the End | 0.20% | ~411 |
+| The End is the Beginning | 0.20% | ~411 |
 | Maddening | 0.10% | ~239 |
 | Pros and CONs | 0.10% | ~239 |
 | Upholding the Law | 0.10% | ~239 |
@@ -539,8 +539,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~205 |
 | See You on the Flipside | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,975 (Ranked 65)  
-Completed: 2,506 (1.05%) (Ranked 167)  
+Progressed: 238,980 (Ranked 65)  
+Completed: 2,507 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -772,6 +772,7 @@ Completed: 2,506 (1.05%) (Ranked 167)
 | 2023-12-06 | 238,666 | 2,502 |
 | 2023-12-07 | 238,772 | 2,504 |
 | 2023-12-08 | 238,975 | 2,506 |
+| 2023-12-09 | 238,980 | 2,507 |
 ## Awards
 Max (Great for Beginners): 5,606  (Ranked 70)  
 Sum: 32,786 (Ranked 41)  

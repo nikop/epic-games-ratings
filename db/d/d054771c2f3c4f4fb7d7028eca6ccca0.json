@@ -4,8 +4,8 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1440,
+  "EOS_Progressed": 1444,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 923,
+  "EOS_NewPlayers": 919,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -974,6 +974,11 @@
       "Time": "2023-12-08T23:04:47.7489586+00:00",
       "NumProgressed": 1440,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T00:03:54.5245986+00:00",
+      "NumProgressed": 1444,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1010,7 +1015,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1048,9 +1053,9 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "c167foo",
       "Name": "Terrible Journey",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -1361,14 +1366,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1440,
+      "Progressed": 1444,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:04:47.7489583+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:03:54.5245983+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:59:49.0135406+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:04:47.7489897+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:58:52.1133587+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:03:54.5246578+00:00"
 }

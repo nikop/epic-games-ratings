@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2621,9 +2621,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 25283,
+  "EOS_Progressed": 25288,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1241,
+  "EOS_NewPlayers": 1237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12276,6 +12276,11 @@
       "Time": "2023-12-08T23:09:22.6835385+00:00",
       "NumProgressed": 25283,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T00:08:48.4802232+00:00",
+      "NumProgressed": 25288,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -12296,7 +12301,7 @@
       "Name": "Dungeon Veteran",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "Achievement_Trophy03",
@@ -12304,7 +12309,7 @@
       "Name": "I hate portals",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "Achievement_Trophy04",
@@ -12312,7 +12317,7 @@
       "Name": "Merchant of doom",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "Achievement_Trophy05",
@@ -12328,7 +12333,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2781
+      "UsersEstimate": 2782
     },
     {
       "ID": "Achievement_Trophy07",
@@ -12384,7 +12389,7 @@
       "Name": "Down the hatch",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "Achievement_Trophy14",
@@ -12392,7 +12397,7 @@
       "Name": "An eye for an eye",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "Achievement_Trophy15",
@@ -12400,7 +12405,7 @@
       "Name": "The Cephalophore",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "Achievement_Trophy16",
@@ -12456,7 +12461,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "Achievement_Trophy23",
@@ -12464,7 +12469,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3792
+      "UsersEstimate": 3793
     },
     {
       "ID": "Achievement_Trophy24",
@@ -12472,7 +12477,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10366
+      "UsersEstimate": 10368
     },
     {
       "ID": "Achievement_Trophy25",
@@ -12480,7 +12485,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "Achievement_Trophy26",
@@ -12488,7 +12493,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8596
+      "UsersEstimate": 8598
     },
     {
       "ID": "Achievement_Trophy27",
@@ -12504,7 +12509,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 8343
+      "UsersEstimate": 8345
     },
     {
       "ID": "Achievement_Trophy29",
@@ -12520,7 +12525,7 @@
       "Name": "Spread the plague",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7332
+      "UsersEstimate": 7334
     },
     {
       "ID": "Achievement_Trophy31",
@@ -12528,7 +12533,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7838
+      "UsersEstimate": 7839
     },
     {
       "ID": "Achievement_Trophy32",
@@ -12552,7 +12557,7 @@
       "Name": "Augmented rat",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2781
+      "UsersEstimate": 2782
     },
     {
       "ID": "Achievement_Trophy35",
@@ -12576,7 +12581,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6321
+      "UsersEstimate": 6322
     },
     {
       "ID": "Achievement_Trophy38",
@@ -12584,7 +12589,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "Achievement_Trophy39",
@@ -12592,7 +12597,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4804
+      "UsersEstimate": 4805
     },
     {
       "ID": "Achievement_Trophy40",
@@ -12664,7 +12669,7 @@
       "Name": "Doom and gloom",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2529
     },
     {
       "ID": "Achievement_Trophy49",
@@ -12672,7 +12677,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3792
+      "UsersEstimate": 3793
     },
     {
       "ID": "Achievement_Trophy50",
@@ -12775,7 +12780,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 25283,
+      "Progressed": 25288,
       "Completed": 1
     }
   ],
@@ -12783,8 +12788,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-08T02:57:11.2293147+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:09:22.6835382+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:08:48.4802229+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.3646909+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:58:19.7170064+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:09:22.6836155+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:57:52.6921592+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:08:48.4802927+00:00"
 }

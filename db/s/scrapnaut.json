@@ -3,12 +3,12 @@
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
   "Ranking_Rating": 860,
-  "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 559,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 489,
+  "EOS_Progressed": 490,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1635,6 +1635,11 @@
       "Time": "2023-12-08T23:09:20.1759403+00:00",
       "NumProgressed": 489,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T00:08:46.621079+00:00",
+      "NumProgressed": 490,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1646,7 +1651,7 @@
       "Name": "Digger",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -1670,7 +1675,7 @@
       "Name": "Electro-Scrap Master",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -1724,9 +1729,9 @@
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -1742,7 +1747,7 @@
       "Name": "Cook",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -1780,9 +1785,9 @@
       "ID": "ACH_FIRST_BASE",
       "SetID": "7c4cldc",
       "Name": "My New Home",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_KILL_100",
@@ -1838,7 +1843,7 @@
       "Name": "Mythical Smelter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -1893,7 +1898,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 489,
+      "Progressed": 490,
       "Completed": 1
     }
   ],
@@ -1901,8 +1906,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:09:20.1759399+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:08:46.6210787+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:57.1838483+00:00",
-  "LastUpdate_Ratings": "2023-12-08T23:01:25.6237998+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:09:20.1759692+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:59:55.4063107+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:08:46.6211032+00:00"
 }

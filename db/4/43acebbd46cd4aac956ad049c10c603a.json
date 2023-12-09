@@ -2,13 +2,13 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 32,
-  "Ranking_Popularity": 436,
-  "Ranking_PopularitySum": 489,
+  "Ranking_Rating": 25,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.86,
+  "Rating": 4.87,
   "RatingHistory": [
     {
       "Time": "2023-11-08T20:00:37.8164591+00:00",
@@ -197,12 +197,17 @@
       "Rating": 4.86,
       "NumberOfAwards": 51,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-12-09T00:00:15.2378766+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51,
-  "NumberOfAwardsMax": 51,
-  "MaxAwardTitle": "Challenging Puzzles",
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
@@ -2267,9 +2272,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 162
     },
     {
       "ID": "ChasingTheLight",
@@ -2659,9 +2664,9 @@
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 45
     },
     {
       "ID": "WoodedPlateau",
@@ -2691,9 +2696,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2023-12-06T23:59:08.8944131+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:03:49.24447+00:00",
+  "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:03:13.0507217+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-08T23:02:36.4302435+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:03:49.2445718+00:00"
+  "LastUpdate_Ratings": "2023-12-09T00:00:15.2378772+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:03:13.0508599+00:00"
 }

@@ -1,7 +1,7 @@
 # SpiderHeck
 [Store](https://store.epicgames.com/en-US/p/spiderheck-0fb81d)  
 [View Rawdata](../../db/s/spiderheck.json)  
-Rating: 4.76 (Ranked 129)  
+Rating: 4.77 (Ranked 114)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -28,3 +28,4 @@ Rating: 4.76 (Ranked 129)
 | 2023-07-29 | 4.76 | 0 | 0 |
 | 2023-10-08 | 4.77 | 0 | 0 |
 | 2023-11-17 | 4.76 | 0 | 0 |
+| 2023-12-08 | 4.77 | 0 | 0 |

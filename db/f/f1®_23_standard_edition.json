@@ -3,12 +3,12 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 258,
-  "Ranking_Popularity": 482,
+  "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6069,
+  "EOS_Progressed": 6070,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7015,6 +7015,11 @@
       "Time": "2023-12-08T23:07:23.9095425+00:00",
       "NumProgressed": 6069,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T00:05:45.0793721+00:00",
+      "NumProgressed": 6070,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -7075,7 +7080,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5705
+      "UsersEstimate": 5706
     },
     {
       "ID": "achievement_0008",
@@ -7083,7 +7088,7 @@
       "Name": "On the Top Step",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 5401
+      "UsersEstimate": 5402
     },
     {
       "ID": "achievement_0009",
@@ -7187,7 +7192,7 @@
       "Name": "Team Orders",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 4612
+      "UsersEstimate": 4613
     },
     {
       "ID": "achievement_0022",
@@ -7203,7 +7208,7 @@
       "Name": "Sharing the Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "achievement_0024",
@@ -7211,7 +7216,7 @@
       "Name": "Loyal Bond",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "achievement_0025",
@@ -7251,7 +7256,7 @@
       "Name": "Reduce",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "achievement_0030",
@@ -7259,7 +7264,7 @@
       "Name": "Reuse",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "achievement_0031",
@@ -7291,7 +7296,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "achievement_0035",
@@ -7307,7 +7312,7 @@
       "Name": "Ups and Downs",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "achievement_0037",
@@ -7395,7 +7400,7 @@
       "Name": "Peak Performance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "achievement_0048",
@@ -7411,14 +7416,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 6069,
+      "Progressed": 6070,
       "Completed": 0
     }
   ],
@@ -7426,8 +7431,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-12-08T17:59:48.9827589+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:07:23.9095422+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:05:45.0793718+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.4962244+00:00",
-  "LastUpdate_Ratings": "2023-12-08T23:01:17.1061634+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:07:23.9095965+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:59:49.9083576+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:05:45.0794229+00:00"
 }

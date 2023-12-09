@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2017-07-21T09:00:00+00:00",
     "PcReleaseDate": "2017-07-21T09:00:50+00:00",
@@ -7838,18 +7838,24 @@
       "Rating": 4.28,
       "NumberOfAwards": 17329328,
       "NumberOfAwardsMax": 2450465
+    },
+    {
+      "Time": "2023-12-08T23:58:55.9106292+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 17331196,
+      "NumberOfAwardsMax": 2452333
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17329328,
-  "NumberOfAwardsMax": 2450465,
+  "NumberOfAwards": 17331196,
+  "NumberOfAwardsMax": 2452333,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2450465
+      "Count": 2452333
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7905,8 +7911,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-12-08T22:59:55.0723888+00:00",
+  "LastChanged": "2023-12-08T23:58:55.910629+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:16.773191+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:59:55.0723894+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:08:55.1554441+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:58:55.9106296+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:08:29.223176+00:00"
 }

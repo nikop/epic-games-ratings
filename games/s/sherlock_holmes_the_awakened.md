@@ -5,36 +5,36 @@ Rating: 4.69 (Ranked 231)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 64.00% | ~601 |
-| To Hell In A Handcart | 64.00% | ~601 |
-| High Profile | 56.00% | ~526 |
-| Whispers In The Dark | 54.00% | ~507 |
-| Fond Memories | 52.00% | ~488 |
+| Read Between The Lines | 64.00% | ~602 |
+| To Hell In A Handcart | 63.00% | ~593 |
+| High Profile | 56.00% | ~527 |
+| Whispers In The Dark | 54.00% | ~508 |
+| Fond Memories | 52.00% | ~489 |
 | A Method To His Madness | 50.00% | ~470 |
-| History Check | 49.00% | ~460 |
-| The New World | 47.00% | ~441 |
+| History Check | 49.00% | ~461 |
+| The New World | 47.00% | ~442 |
 | Gaze Into The Abyss | 45.00% | ~423 |
 | Open Sesame | 45.00% | ~423 |
 | Sticky Fingers | 45.00% | ~423 |
 | Knives Out | 45.00% | ~423 |
 | Land, Ho! | 45.00% | ~423 |
-| Lock, Stock, And Barrel | 44.00% | ~413 |
-| Back In The Saddle | 44.00% | ~413 |
-| No Man Is An Island | 44.00% | ~413 |
-| At Wits' End | 43.00% | ~404 |
-| Fhtagn! | 42.00% | ~394 |
-| Up In Flames | 41.00% | ~385 |
+| Lock, Stock, And Barrel | 44.00% | ~414 |
+| Back In The Saddle | 44.00% | ~414 |
+| No Man Is An Island | 44.00% | ~414 |
+| At Wits' End | 43.00% | ~405 |
+| Fhtagn! | 42.00% | ~395 |
+| Up In Flames | 41.00% | ~386 |
 | Bookworm | 40.00% | ~376 |
-| Going Once... | 38.00% | ~357 |
-| Let Me Be Frank | 36.00% | ~338 |
-| No Stone Unturned | 35.00% | ~329 |
-| Brain Food | 33.00% | ~310 |
-| Read It And Weep | 21.00% | ~197 |
-| Curiosity Killed The Cat | 19.00% | ~178 |
+| Going Once... | 38.00% | ~358 |
+| Let Me Be Frank | 35.00% | ~329 |
+| No Stone Unturned | 34.00% | ~320 |
+| Brain Food | 33.00% | ~311 |
+| Read It And Weep | 21.00% | ~198 |
+| Curiosity Killed The Cat | 19.00% | ~179 |
 | Big Breakthrough | 13.00% | ~122 |
 | Reawakened | 4.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 939 (Ranked 272)  
+Progressed: 941 (Ranked 272)  
 Completed: 28 (2.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,6 +223,7 @@ Completed: 28 (2.98%) (Ranked 107)
 | 2023-12-06 | 858 | 28 |
 | 2023-12-07 | 895 | 28 |
 | 2023-12-08 | 939 | 28 |
+| 2023-12-09 | 941 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

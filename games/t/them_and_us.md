@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 72.00% | ~227 |
-| Forced to Kill | 69.00% | ~217 |
-| A Night To Remember | 42.00% | ~132 |
-| Safe...For now? | 35.00% | ~110 |
-| Open Sesame | 30.00% | ~94 |
+| Alone with Them | 72.00% | ~228 |
+| Forced to Kill | 68.00% | ~215 |
+| A Night To Remember | 42.00% | ~133 |
+| Safe...For now? | 35.00% | ~111 |
+| Open Sesame | 30.00% | ~95 |
 | What have I done!? | 20.00% | ~63 |
 | Them and Us | 19.00% | ~60 |
 | OUTRAGE | 19.00% | ~60 |
-| This Coffin Has Your Name On It! | 16.00% | ~50 |
+| This Coffin Has Your Name On It! | 16.00% | ~51 |
 | Alone In The Dark | 15.00% | ~47 |
 | The Cultists | 15.00% | ~47 |
 | Parasite Exterminated | 14.00% | ~44 |
@@ -33,8 +33,8 @@
 | Spiritual essence well spent | 2.00% | ~6 |
 | Pet The Dog | 2.00% | ~6 |
 | The 5th Element | 2.00% | ~6 |
-| Before The Eclipse | 1.00% | ~3 |
 | Retro Player | 1.00% | ~3 |
+| Before The Eclipse | 0.90% | ~3 |
 | Box Of Ploutus | 0.60% | ~2 |
 | No Time To Relax | 0.60% | ~2 |
 | Survival Hero | 0.60% | ~2 |
@@ -45,7 +45,7 @@
 | Nightmare Over | 0.30% | ~1 |
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315 (Ranked 357)  
+Progressed: 316 (Ranked 357)  
 Completed: 1 (0.32%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 1 (0.32%) (Ranked 237)
 | 2023-11-28 | 312 | 1 |
 | 2023-12-02 | 313 | 1 |
 | 2023-12-04 | 315 | 1 |
+| 2023-12-09 | 316 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8623,10 +8623,10 @@
       "Count": 3559
     }
   ],
-  "EOS_Progressed": 238975,
-  "EOS_Completed": 2506,
-  "EOS_NewPlayers": 1055,
-  "EOS_NewCompleters": 15,
+  "EOS_Progressed": 238980,
+  "EOS_Completed": 2507,
+  "EOS_NewPlayers": 1054,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -34788,6 +34788,11 @@
       "Time": "2023-12-08T23:10:46.3033068+00:00",
       "NumProgressed": 238975,
       "NumCompleted": 2506
+    },
+    {
+      "Time": "2023-12-09T00:09:48.3622456+00:00",
+      "NumProgressed": 238980,
+      "NumCompleted": 2507
     }
   ],
   "TotalAchievements": 532,
@@ -39023,7 +39028,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "objective_completed_1548",
@@ -39039,7 +39044,7 @@
       "Name": "The End is the Beginning",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "objective_completed_1553",
@@ -39054,21 +39059,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 205249,
-      "Completed": 3962
+      "Progressed": 205254,
+      "Completed": 3963
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 238975,
-      "Completed": 2506
+      "Progressed": 238980,
+      "Completed": 2507
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-08T16:58:55.777129+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:10:46.3033064+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:09:48.3622454+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:02.8479395+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:59:35.8444391+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:10:46.3055422+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:58:43.0977682+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:09:48.3644341+00:00"
 }

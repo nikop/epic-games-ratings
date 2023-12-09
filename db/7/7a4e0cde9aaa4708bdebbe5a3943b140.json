@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-10-11T12:00:00+00:00",
     "PcReleaseDate": "2023-10-11T13:00:00+00:00",
@@ -97,9 +97,9 @@
       "ID": "Stage1",
       "SetID": "ag762md",
       "Name": "Stage 1",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Stage2",
@@ -191,8 +191,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-18T15:02:16.3526142+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:09:38.4202347+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:08:59.5506557+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:12.6888656+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:59:46.069367+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:09:38.4202477+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:58:49.8048869+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:08:59.5506634+00:00"
 }

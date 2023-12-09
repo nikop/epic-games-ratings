@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | All Set Up | 98.00% | ~703 |
 | Digital Casanova | 97.00% | ~695 |
-| Hold my Beer | 66.00% | ~473 |
+| Hold my Beer | 67.00% | ~480 |
 | Nueva Beginnings | 36.00% | ~258 |
 | Only Thyme Will Tell | 33.00% | ~237 |
 | We Go Again | 31.00% | ~222 |
@@ -20,7 +20,7 @@
 | Interrogation | 5.00% | ~36 |
 | Crash and Burn | 3.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717 (Ranked 286)  
+Progressed: 717 (Ranked 287)  
 Completed: 11 (1.53%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |

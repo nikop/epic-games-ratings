@@ -13,7 +13,7 @@
 | Storage Hunter | 47.00% | ~311 |
 | Falling For You | 44.00% | ~291 |
 | Trust Me For Once | 28.00% | ~185 |
-| Lab Rat | 24.00% | ~159 |
+| Lab Rat | 25.00% | ~165 |
 | Stalemate | 21.00% | ~139 |
 | Kindar Surprise | 18.00% | ~119 |
 | MVP - Most Vanishing Person | 14.00% | ~93 |

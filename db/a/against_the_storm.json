@@ -3377,9 +3377,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17706,
+  "EOS_Progressed": 17708,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15037,6 +15037,11 @@
       "Time": "2023-12-08T23:05:32.7534015+00:00",
       "NumProgressed": 17706,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-09T00:04:25.844187+00:00",
+      "NumProgressed": 17708,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15215,9 +15220,9 @@
       "ID": "WinNearFishmen",
       "SetID": "cfbk359",
       "Name": "Fishmen Ritual Site",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearForbidden",
@@ -15327,9 +15332,9 @@
       "ID": "WinOnMarshlands",
       "SetID": "cfbk359",
       "Name": "The Marshlands",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 106
     },
     {
       "ID": "WinOnMoorlands",
@@ -15520,15 +15525,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17706,
+      "Progressed": 17708,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-08T19:00:22.4048457+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:05:32.7534011+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:04:25.8441865+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-08T23:01:40.6823995+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:05:32.7535027+00:00"
+  "LastUpdate_Ratings": "2023-12-09T00:00:05.5374013+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:04:25.8442947+00:00"
 }

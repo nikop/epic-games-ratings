@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~362 |
-| Hidden History | 83.00% | ~304 |
-| Commencing of Quests | 76.00% | ~278 |
-| Budding Conjuror | 75.00% | ~274 |
+| Land of the Rising Sun | 99.00% | ~363 |
+| Hidden History | 83.00% | ~305 |
+| Commencing of Quests | 75.00% | ~275 |
+| Budding Conjuror | 75.00% | ~275 |
 | Man-Machine Master | 66.00% | ~242 |
-| Charmed by the Hunt | 66.00% | ~242 |
-| Mountain Splitter | 65.00% | ~238 |
-| Fusion Conjuror | 64.00% | ~234 |
-| Memory Rouser | 64.00% | ~234 |
-| Subsistence Skills | 64.00% | ~234 |
+| Mountain Splitter | 65.00% | ~239 |
+| Charmed by the Hunt | 65.00% | ~239 |
+| Fusion Conjuror | 64.00% | ~235 |
+| Memory Rouser | 64.00% | ~235 |
+| Subsistence Skills | 64.00% | ~235 |
 | Kemono Hunter | 60.00% | ~220 |
 | Expert Conjuror | 57.00% | ~209 |
-| Flawless Crystal | 55.00% | ~201 |
-| Distance Devourer | 53.00% | ~194 |
-| Bonds of Enmity | 53.00% | ~194 |
-| Helpful Heart | 53.00% | ~194 |
-| Master of the Skies | 49.00% | ~179 |
-| Counter Specialist | 49.00% | ~179 |
-| Axer of Auspice | 46.00% | ~168 |
-| Mighty Marmelizer | 43.00% | ~157 |
-| Fair Means or Foul | 43.00% | ~157 |
-| Single Minded | 40.00% | ~146 |
-| Kemono at Heart | 40.00% | ~146 |
+| Flawless Crystal | 54.00% | ~198 |
+| Distance Devourer | 53.00% | ~195 |
+| Bonds of Enmity | 53.00% | ~195 |
+| Helpful Heart | 53.00% | ~195 |
+| Master of the Skies | 49.00% | ~180 |
+| Counter Specialist | 49.00% | ~180 |
+| Axer of Auspice | 46.00% | ~169 |
+| Mighty Marmelizer | 43.00% | ~158 |
+| Fair Means or Foul | 43.00% | ~158 |
+| Single Minded | 40.00% | ~147 |
+| Kemono at Heart | 40.00% | ~147 |
 | Snare Specialist | 39.00% | ~143 |
-| Artful Assister | 37.00% | ~135 |
+| Artful Assister | 37.00% | ~136 |
 | Karakuri Trail | 36.00% | ~132 |
-| Team Hunter | 34.00% | ~124 |
+| Team Hunter | 34.00% | ~125 |
 | Reincarnation Cycle Stopper | 33.00% | ~121 |
 | Karakuri Isle | 32.00% | ~117 |
 | Left Arm Leverager | 27.00% | ~99 |
@@ -53,8 +53,8 @@
 | Big Spender | 11.00% | ~40 |
 | Tsukumo Whisperer | 7.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 366 (Ranked 338)  
-Completed: 8 (2.19%) (Ranked 129)  
+Progressed: 367 (Ranked 338)  
+Completed: 8 (2.18%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -138,3 +138,4 @@ Completed: 8 (2.19%) (Ranked 129)
 | 2023-12-06 | 362 | 8 |
 | 2023-12-07 | 365 | 8 |
 | 2023-12-08 | 366 | 8 |
+| 2023-12-09 | 367 | 8 |

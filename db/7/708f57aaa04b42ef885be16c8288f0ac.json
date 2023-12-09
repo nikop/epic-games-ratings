@@ -3,8 +3,8 @@
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
   "Ranking_Rating": 156,
-  "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 559,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 123,
@@ -201,9 +201,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7578,
+  "EOS_Progressed": 7579,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5921,6 +5921,11 @@
       "Time": "2023-12-08T23:10:28.8402192+00:00",
       "NumProgressed": 7578,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-09T00:09:35.340555+00:00",
+      "NumProgressed": 7579,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6077,7 +6082,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "NoMoreTotems",
@@ -6204,7 +6209,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7578,
+      "Progressed": 7579,
       "Completed": 15
     }
   ],
@@ -6212,8 +6217,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:10:28.8402188+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:09:35.3405545+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:57:23.1893867+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:10:28.8402702+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:57:16.2414108+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:09:35.3405943+00:00"
 }

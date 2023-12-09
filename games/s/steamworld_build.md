@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mathematic | 83.00% | ~48 |
-| It's Yours, My Friend | 66.00% | ~38 |
+| It's Yours, My Friend | 67.00% | ~39 |
 | Going Places | 62.00% | ~36 |
 | Digging a Hole | 60.00% | ~35 |
 | Aristocratic | 57.00% | ~33 |
@@ -19,11 +19,11 @@
 | Botropolis | 21.00% | ~12 |
 | Steaming Rich | 19.00% | ~11 |
 | Up, Up And Away! | 17.00% | ~10 |
+| Dopa-Miner | 16.00% | ~9 |
 | Whoa! | 16.00% | ~9 |
-| Dopa-Miner | 14.00% | ~8 |
 | Room To Spare | 12.00% | ~7 |
 | Steam Powered | 12.00% | ~7 |
-| Manic Mechanic | 9.00% | ~5 |
+| Manic Mechanic | 10.00% | ~6 |
 | Stack Overflow | 5.00% | ~3 |
 | Real Purdy | 3.00% | ~2 |
 | Accustomed Customer | 0.00% | ~0 |

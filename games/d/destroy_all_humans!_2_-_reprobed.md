@@ -14,18 +14,18 @@ Number of Ratings: 90  (23.09.2022)
 | I Look Up As I Walk to Takoshima | 12.00% | ~3 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~3 |
 | Cult Following | 8.00% | ~2 |
+| Fly Me to the Moon Base | 8.00% | ~2 |
 | Bodied Sattva | 8.00% | ~2 |
 | Kaijuiced | 8.00% | ~2 |
 | Scuttled | 8.00% | ~2 |
 | Upgreatest | 8.00% | ~2 |
+| Dusted | 8.00% | ~2 |
 | Pimp My Raid | 8.00% | ~2 |
 | Perfect Probulator | 4.00% | ~1 |
 | Lie Back and Think of Albion | 4.00% | ~1 |
-| Fly Me to the Moon Base | 4.00% | ~1 |
 | Freshly Squeezed | 4.00% | ~1 |
 | Die Nasty | 4.00% | ~1 |
 | Earthly Pleasures | 4.00% | ~1 |
-| Dusted | 4.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |
 | Arty Facts | 0.00% | ~0 |
@@ -65,8 +65,8 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-07 | 21 | 0 |
 | 2023-12-08 | 25 | 0 |
 ## Awards
-Max (Great Boss Battles): 35  (Ranked 482)  
-Sum: 35 (Ranked 510)  
+Max (Great Boss Battles): 35  (Ranked 481)  
+Sum: 35 (Ranked 509)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |

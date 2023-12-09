@@ -14,11 +14,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 2.00% | ~354 |
 | Gathering Storm | 2.00% | ~354 |
 | Untamed Wilds | 1.00% | ~177 |
+| The Marshlands | 0.60% | ~106 |
 | No Deaths | 0.60% | ~106 |
 | First Real Expedition | 0.50% | ~89 |
 | Overcoming Difficulty | 0.50% | ~89 |
 | Coral Forest | 0.50% | ~89 |
-| The Marshlands | 0.50% | ~89 |
 | The Scarlet Orchard | 0.50% | ~89 |
 | Taking Action | 0.50% | ~89 |
 | Fertile Meadows | 0.40% | ~71 |
@@ -38,6 +38,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 0.20% | ~35 |
 | Against All Odds | 0.20% | ~35 |
 | Barren Lands | 0.20% | ~35 |
+| Fishmen Ritual Site | 0.20% | ~35 |
 | Haunted Forest | 0.20% | ~35 |
 | Levitating Monument | 0.20% | ~35 |
 | Flooded Mines | 0.20% | ~35 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Efficient Explorer | 0.10% | ~18 |
 | Refinery | 0.10% | ~18 |
 | Dangerous Lands | 0.10% | ~18 |
-| Fishmen Ritual Site | 0.10% | ~18 |
 | Forbidden Lands | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
 | The Queen's Chosen | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,706 (Ranked 146)  
+Progressed: 17,708 (Ranked 146)  
 Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,6 +299,7 @@ Completed: 43 (0.24%) (Ranked 251)
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
+| 2023-12-09 | 17,708 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,245 (Ranked 174)  

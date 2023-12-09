@@ -54,9 +54,9 @@ Rating: 4.61 (Ranked 387)
 | Pruning for Progress | 0.50% | ~28 |
 | Duality | 0.50% | ~28 |
 | The Magic That Empowers Me! | 0.30% | ~17 |
+| Against the Odds | 0.30% | ~17 |
 | Betrayal Most Foul | 0.30% | ~17 |
 | Snap Out of It! | 0.20% | ~11 |
-| Against the Odds | 0.20% | ~11 |
 | Jack of All Tomes | 0.20% | ~11 |
 | A Very Special Ring | 0.20% | ~11 |
 | I Want to Break Free | 0.10% | ~6 |
@@ -268,9 +268,9 @@ Completed: 7 (0.13%) (Ranked 278)
 | 2023-12-07 | 5,575 | 7 |
 | 2023-12-08 | 5,576 | 7 |
 ## Awards
-Max (Great for Beginners): 36  (Ranked 478)  
+Max (Great for Beginners): 36  (Ranked 477)  
 Sum: 90 (Ranked 459)  
-Diff (max vs sum): 19  
+Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

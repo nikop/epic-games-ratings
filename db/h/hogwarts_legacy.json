@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 129,
+  "Ranking_Rating": 130,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
@@ -11715,9 +11715,9 @@
       "Count": 842
     }
   ],
-  "EOS_Progressed": 304099,
+  "EOS_Progressed": 304102,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36645,6 +36645,11 @@
       "Time": "2023-12-08T23:04:45.6413798+00:00",
       "NumProgressed": 304099,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-09T00:03:53.0129163+00:00",
+      "NumProgressed": 304102,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37015,7 +37020,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304099,
+      "Progressed": 304102,
       "Completed": 525
     }
   ],
@@ -37023,8 +37028,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-08T22:58:34.9668757+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:04:45.6413794+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:03:53.0129157+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-08T22:58:34.9668762+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:04:45.6415386+00:00"
+  "LastUpdate_Ratings": "2023-12-08T23:58:02.6708341+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:03:53.0130434+00:00"
 }

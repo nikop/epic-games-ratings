@@ -1,7 +1,7 @@
 # RoboCop: Rogue City
 [Store](https://store.epicgames.com/en-US/p/robocop-rogue-city)  
 [View Rawdata](../../db/r/robocop__rogue_city.json)  
-Rating: 4.23 (Ranked 904)  
+Rating: 4.24 (Ranked 893)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -53,12 +53,12 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-11-14 | 694 | 0 |
 | 2023-11-15 | 705 | 0 |
 ## Awards
-Max (Great Boss Battles): 52  (Ranked 429)  
-Sum: 52 (Ranked 483)  
-Diff (max vs sum): -54  
+Max (Great Boss Battles): 57  (Ranked 420)  
+Sum: 57 (Ranked 480)  
+Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 52 |
+| This game has Great Boss Battles | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -87,3 +87,4 @@ Diff (max vs sum): -54
 | 2023-12-06 | 4.19 | 48 | 48 |
 | 2023-12-07 | 4.21 | 48 | 48 |
 | 2023-12-08 | 4.23 | 52 | 52 |
+| 2023-12-09 | 4.24 | 57 | 57 |

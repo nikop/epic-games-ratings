@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7447,9 +7447,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144354,
+  "EOS_Progressed": 144359,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 1074,
+  "EOS_NewPlayers": 1073,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -31622,6 +31622,11 @@
       "Time": "2023-12-08T23:05:50.6731473+00:00",
       "NumProgressed": 144354,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-09T00:04:39.4865665+00:00",
+      "NumProgressed": 144359,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -32105,7 +32110,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8661
+      "UsersEstimate": 8662
     },
     {
       "ID": "gold02",
@@ -32321,7 +32326,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "masterpiece",
@@ -32329,7 +32334,7 @@
       "Name": "All or Nothing!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "polonia_a",
@@ -32528,15 +32533,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144354,
+      "Progressed": 144359,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-08T17:03:23.190635+00:00",
-  "LastChanged_Achievements": "2023-12-08T23:05:50.673147+00:00",
+  "LastChanged_Achievements": "2023-12-09T00:04:39.4865662+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-08T23:03:30.2410398+00:00",
-  "LastUpdate_Achievements": "2023-12-08T23:05:50.6733603+00:00"
+  "LastUpdate_Ratings": "2023-12-09T00:03:00.2626501+00:00",
+  "LastUpdate_Achievements": "2023-12-09T00:04:39.4867923+00:00"
 }
