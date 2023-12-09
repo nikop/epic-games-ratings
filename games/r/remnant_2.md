@@ -9,7 +9,7 @@ Rating: 4.75 (Ranked 146)
 | Regicide | 0.80% | ~131 |
 | Master of the Dark Arts | 0.80% | ~131 |
 | First of Many | 0.70% | ~1,661 |
-| Not Your Average Trait | 0.60% | ~1,423 |
+| Not Your Average Trait | 0.60% | ~1,424 |
 | Expanding Horizons | 0.50% | ~1,186 |
 | Gleaming the Cube | 0.50% | ~1,186 |
 | Not So Special Now | 0.50% | ~1,186 |
@@ -48,20 +48,20 @@ Rating: 4.75 (Ranked 146)
 | The Ultimate Weapon | 0.30% | ~712 |
 | No One Should Have All That Power | 0.30% | ~712 |
 | Transmutate | 0.30% | ~712 |
-| Crafty | 0.20% | ~474 |
-| Only Human | 0.20% | ~474 |
-| Red Room | 0.20% | ~474 |
-| The Trigger | 0.20% | ~474 |
-| Cutting Edge | 0.20% | ~474 |
-| The Collector | 0.20% | ~474 |
-| Proving Grounds | 0.20% | ~474 |
-| Carnage in C-Minor | 0.20% | ~474 |
-| Maxed Out! | 0.20% | ~474 |
+| Crafty | 0.20% | ~475 |
+| Only Human | 0.20% | ~475 |
+| Red Room | 0.20% | ~475 |
+| The Trigger | 0.20% | ~475 |
+| Cutting Edge | 0.20% | ~475 |
+| The Collector | 0.20% | ~475 |
+| Proving Grounds | 0.20% | ~475 |
+| Carnage in C-Minor | 0.20% | ~475 |
+| Maxed Out! | 0.20% | ~475 |
 | Succession | 0.20% | ~33 |
 | You Shall Pass | 0.20% | ~33 |
 | A Foul Feast | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,243 (Ranked 66)  
+Progressed: 237,264 (Ranked 66)  
 Completed: 572 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,10 +207,10 @@ Completed: 572 (0.24%) (Ranked 251)
 | 2023-12-06 | 236,074 | 564 |
 | 2023-12-07 | 236,590 | 567 |
 | 2023-12-08 | 237,044 | 572 |
-| 2023-12-09 | 237,243 | 572 |
+| 2023-12-09 | 237,264 | 572 |
 ## Awards
 Max (Great Boss Battles): 2,690  (Ranked 102)  
-Sum: 6,682 (Ranked 127)  
+Sum: 6,687 (Ranked 127)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -224,7 +224,7 @@ Diff (max vs sum): -25
 | This game has Amazing Characters | 407 |
 | This game has Quickly Understood Controls | 404 |
 | This game has Unique Visuals | 352 |
-| This game has a Creative Community | 301 |
+| This game has a Creative Community | 306 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -364,4 +364,4 @@ Diff (max vs sum): -25
 | 2023-12-06 | 4.75 | 2,668 | 6,588 |
 | 2023-12-07 | 4.75 | 2,678 | 6,634 |
 | 2023-12-08 | 4.75 | 2,690 | 6,681 |
-| 2023-12-09 | 4.75 | 2,690 | 6,682 |
+| 2023-12-09 | 4.75 | 2,690 | 6,687 |

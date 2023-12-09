@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3555,9 +3555,9 @@
       "Count": 425
     }
   ],
-  "EOS_Progressed": 9571,
+  "EOS_Progressed": 9572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10875,6 +10875,11 @@
       "Time": "2023-12-09T09:05:22.4728684+00:00",
       "NumProgressed": 9571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T10:05:41.8638212+00:00",
+      "NumProgressed": 9572,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -10903,7 +10908,7 @@
       "Name": "A New Timeline",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 4594
+      "UsersEstimate": 4595
     },
     {
       "ID": "ach04",
@@ -10927,7 +10932,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 7178
+      "UsersEstimate": 7179
     },
     {
       "ID": "ach07",
@@ -10943,7 +10948,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3924
+      "UsersEstimate": 3925
     },
     {
       "ID": "ach09",
@@ -10951,7 +10956,7 @@
       "Name": "Kontender",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "ach10",
@@ -11063,7 +11068,7 @@
       "Name": "Take And Deny",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "ach24",
@@ -11079,7 +11084,7 @@
       "Name": "Talis-Mania",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "ach26",
@@ -11127,7 +11132,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 3158
+      "UsersEstimate": 3159
     },
     {
       "ID": "ach32",
@@ -11149,9 +11154,9 @@
       "ID": "ach34",
       "SetID": "47in8n6",
       "Name": "Always Accessorize",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3159
     },
     {
       "ID": "ach35",
@@ -11175,7 +11180,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 5551
+      "UsersEstimate": 5552
     },
     {
       "ID": "ach38",
@@ -11183,7 +11188,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4211
+      "UsersEstimate": 4212
     },
     {
       "ID": "ach39",
@@ -11191,7 +11196,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3924
+      "UsersEstimate": 3925
     },
     {
       "ID": "ach40",
@@ -11215,7 +11220,7 @@
       "Name": "Quest Master",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 4211
+      "UsersEstimate": 4212
     },
     {
       "ID": "ach43",
@@ -11279,14 +11284,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3828
+      "UsersEstimate": 3829
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9571,
+      "Progressed": 9572,
       "Completed": 0
     }
   ],
@@ -11294,8 +11299,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-12-09T03:03:09.4415734+00:00",
-  "LastChanged_Achievements": "2023-12-09T09:05:22.4728682+00:00",
+  "LastChanged_Achievements": "2023-12-09T10:05:41.863821+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:13.7403672+00:00",
-  "LastUpdate_Ratings": "2023-12-09T09:02:39.4185993+00:00",
-  "LastUpdate_Achievements": "2023-12-09T09:05:22.4729376+00:00"
+  "LastUpdate_Ratings": "2023-12-09T10:02:54.3194448+00:00",
+  "LastUpdate_Achievements": "2023-12-09T10:05:41.863872+00:00"
 }

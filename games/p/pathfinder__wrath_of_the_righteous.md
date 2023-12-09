@@ -6,11 +6,11 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,309 |
+| Devoured by Darkness | 27.00% | ~3,310 |
 | A Spark | 19.00% | ~2,329 |
 | Burning City | 18.00% | ~2,206 |
 | Defender's Heart | 16.00% | ~1,961 |
-| Mythic Choices | 15.00% | ~1,838 |
+| Mythic Choices | 15.00% | ~1,839 |
 | Banner over the Citadel | 14.00% | ~1,716 |
 | Queen's Gratitude | 12.00% | ~1,471 |
 | Fifth Crusade | 9.00% | ~1,103 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,256 (Ranked 161)  
+Progressed: 12,258 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,10 +356,10 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 12,245 | 0 |
 | 2023-12-07 | 12,250 | 0 |
 | 2023-12-08 | 12,255 | 0 |
-| 2023-12-09 | 12,256 | 0 |
+| 2023-12-09 | 12,258 | 0 |
 ## Awards
 Max (Character Customization): 1,757  (Ranked 123)  
-Sum: 7,121 (Ranked 121)  
+Sum: 7,123 (Ranked 121)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -370,7 +370,7 @@ Diff (max vs sum): 2
 | This game has Amazing Characters | 644 |
 | This game has Amazing Storytelling | 627 |
 | This game has Challenging Combat | 593 |
-| This game has Quickly Understood Controls | 580 |
+| This game has Quickly Understood Controls | 582 |
 | This game is Relaxing | 562 |
 | This game has a Creative Community | 400 |
 | This game has Obsessive Gameplay | 364 |
@@ -663,4 +663,4 @@ Diff (max vs sum): 2
 | 2023-12-06 | 4.76 | - | 1,756 | 7,114 |
 | 2023-12-07 | 4.76 | - | 1,756 | 7,117 |
 | 2023-12-08 | 4.76 | - | 1,756 | 7,120 |
-| 2023-12-09 | 4.76 | - | 1,757 | 7,121 |
+| 2023-12-09 | 4.76 | - | 1,757 | 7,123 |

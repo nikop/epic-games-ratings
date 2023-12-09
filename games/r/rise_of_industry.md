@@ -1,22 +1,22 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.24 (Ranked 895)  
+Rating: 4.24 (Ranked 896)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~363,841 |
-| Well educated | 37.00% | ~280,461 |
-| City Planner | 19.00% | ~144,021 |
-| Deforester | 17.00% | ~128,861 |
-| Big Hauling | 16.00% | ~121,280 |
-| Apprentice Manufacturer | 13.00% | ~98,540 |
-| Exporter | 13.00% | ~98,540 |
-| I would drive 500 tiles... | 12.00% | ~90,960 |
-| Landscaper | 12.00% | ~90,960 |
-| Railwayman | 8.00% | ~60,640 |
-| Penniless | 6.00% | ~45,480 |
-| Massive Gains | 6.00% | ~45,480 |
+| Entrepreneur | 48.00% | ~363,847 |
+| Well educated | 37.00% | ~280,465 |
+| City Planner | 19.00% | ~144,023 |
+| Deforester | 17.00% | ~128,862 |
+| Big Hauling | 16.00% | ~121,282 |
+| Apprentice Manufacturer | 13.00% | ~98,542 |
+| Exporter | 13.00% | ~98,542 |
+| I would drive 500 tiles... | 12.00% | ~90,962 |
+| Landscaper | 12.00% | ~90,962 |
+| Railwayman | 8.00% | ~60,641 |
+| Penniless | 6.00% | ~45,481 |
+| Massive Gains | 6.00% | ~45,481 |
 | Salesman | 3.00% | ~22,740 |
 | Engineer | 2.00% | ~15,160 |
 | High Flyer | 2.00% | ~15,160 |
@@ -33,7 +33,7 @@ Rating: 4.24 (Ranked 895)
 | Master Builder | 0.10% | ~758 |
 | Hard working | 0.10% | ~758 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 758,003 (Ranked 19)  
+Progressed: 758,014 (Ranked 19)  
 Completed: 4 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 4 (0.00%) (Ranked 371)
 | 2023-12-06 | 757,457 | 4 |
 | 2023-12-07 | 757,669 | 4 |
 | 2023-12-08 | 757,911 | 4 |
-| 2023-12-09 | 758,003 | 4 |
+| 2023-12-09 | 758,014 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

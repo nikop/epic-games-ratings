@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1836,
+  "EOS_Progressed": 1837,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4334,6 +4334,11 @@
       "Time": "2023-12-09T06:09:07.4150635+00:00",
       "NumProgressed": 1836,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-09T10:08:49.7257649+00:00",
+      "NumProgressed": 1837,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4377,7 +4382,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "Commandos",
@@ -4457,7 +4462,7 @@
       "Name": "Grenadier",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "Hard_Serpent",
@@ -4473,7 +4478,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "High_noon",
@@ -4561,7 +4566,7 @@
       "Name": "War Never Changes",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "We_were_not_here",
@@ -4577,22 +4582,22 @@
       "Name": "Your Answer",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1836,
+      "Progressed": 1837,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-09T09:08:30.2135816+00:00",
+  "LastChanged_Achievements": "2023-12-09T10:08:49.7257647+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:23.2476007+00:00",
-  "LastUpdate_Ratings": "2023-12-09T08:58:52.4926474+00:00",
-  "LastUpdate_Achievements": "2023-12-09T09:08:30.2136086+00:00"
+  "LastUpdate_Ratings": "2023-12-09T09:58:54.3280556+00:00",
+  "LastUpdate_Achievements": "2023-12-09T10:08:49.7258+00:00"
 }

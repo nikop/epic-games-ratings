@@ -36,16 +36,16 @@
 | Berserker Slayer | 9.00% | ~52 |
 | Master Cook | 8.00% | ~46 |
 | Giantess Slayer | 8.00% | ~46 |
-| Warden Slayer | 7.00% | ~40 |
+| Warden Slayer | 8.00% | ~46 |
 | Rebellious | 2.00% | ~12 |
 | Blade Mantis Challenge | 2.00% | ~12 |
 | Big Face Goalkeeper Challenge | 2.00% | ~12 |
 | Flying Kobold Challenge | 2.00% | ~12 |
+| Giant Claw Spider Challenge | 2.00% | ~12 |
 | Furious Scorpion Challenge | 2.00% | ~12 |
 | Silver Moon Wolf King Challenge | 2.00% | ~12 |
 | Giant Lizard Challenge | 2.00% | ~12 |
-| Giant Claw Spider Challenge | 1.00% | ~6 |
-| Mermaid Challenge | 1.00% | ~6 |
+| Mermaid Challenge | 2.00% | ~12 |
 | Berserker Challenge | 1.00% | ~6 |
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |

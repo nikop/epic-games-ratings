@@ -26,12 +26,12 @@
 | Sevenkeeps Seat of Kings | 24.00% | ~10 |
 | Castle Meldec | 22.00% | ~9 |
 | Friend of Alluvyan | 20.00% | ~8 |
+| Stormwatch Faste | 17.00% | ~7 |
 | Friend of Gillyshire | 17.00% | ~7 |
 | Friend of Connach | 17.00% | ~7 |
 | Friend of Bastion | 17.00% | ~7 |
 | Break Free | 17.00% | ~7 |
 | Philo's Tale | 15.00% | ~6 |
-| Stormwatch Faste | 15.00% | ~6 |
 | Friend of Orgash | 15.00% | ~6 |
 | Defeat Gor | 12.00% | ~5 |
 | Friend of Silver Drift Hollow | 12.00% | ~5 |

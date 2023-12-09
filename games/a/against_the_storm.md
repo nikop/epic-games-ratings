@@ -22,16 +22,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 0.60% | ~106 |
 | First Real Expedition | 0.50% | ~89 |
 | Fertile Meadows | 0.50% | ~89 |
+| Watchtower | 0.50% | ~89 |
 | Bandit Camp | 0.40% | ~71 |
 | Royal Outpost | 0.40% | ~71 |
 | Lost Colonies | 0.40% | ~71 |
-| Watchtower | 0.40% | ~71 |
 | Homesick | 0.30% | ~53 |
 | Ruined Armory | 0.30% | ~53 |
 | Ancient Battleground | 0.30% | ~53 |
 | Sparkdew Crystals | 0.30% | ~53 |
 | Levitating Monument | 0.30% | ~53 |
 | Monastery of the Holy Flame | 0.30% | ~53 |
+| Statue of the Forefathers | 0.30% | ~53 |
 | Corrosive Torrent | 0.30% | ~53 |
 | Cursed Lands | 0.30% | ~53 |
 | A Real Challenge | 0.30% | ~53 |
@@ -40,10 +41,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 0.20% | ~35 |
 | Against All Odds | 0.20% | ~35 |
 | Barren Lands | 0.20% | ~35 |
+| Dangerous Lands | 0.20% | ~35 |
 | Fishmen Ritual Site | 0.20% | ~35 |
 | Haunted Forest | 0.20% | ~35 |
 | Flooded Mines | 0.20% | ~35 |
-| Statue of the Forefathers | 0.20% | ~35 |
 | Forsaken Gods Temple | 0.20% | ~35 |
 | Victory Through Prosperity | 0.20% | ~35 |
 | Defying the Crown | 0.20% | ~35 |
@@ -56,7 +57,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lizard Utopia | 0.10% | ~18 |
 | Efficient Explorer | 0.10% | ~18 |
 | Refinery | 0.10% | ~18 |
-| Dangerous Lands | 0.10% | ~18 |
 | Forbidden Lands | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
 | The Queen's Chosen | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,743 (Ranked 146)  
+Progressed: 17,748 (Ranked 146)  
 Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 43 (0.24%) (Ranked 251)
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
-| 2023-12-09 | 17,743 | 43 |
+| 2023-12-09 | 17,748 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,245 (Ranked 174)  

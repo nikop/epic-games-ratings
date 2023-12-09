@@ -8281,9 +8281,9 @@
       "ID": "56",
       "SetID": "7132754",
       "Name": "A Conqueror\u0027s Cohort",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "57",
@@ -8336,8 +8336,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-08T22:57:52.6860138+00:00",
-  "LastChanged_Achievements": "2023-12-09T09:03:21.0757565+00:00",
+  "LastChanged_Achievements": "2023-12-09T10:03:38.716357+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:28.1716609+00:00",
-  "LastUpdate_Ratings": "2023-12-09T08:57:33.5104082+00:00",
-  "LastUpdate_Achievements": "2023-12-09T09:03:21.0758202+00:00"
+  "LastUpdate_Ratings": "2023-12-09T09:57:33.363588+00:00",
+  "LastUpdate_Achievements": "2023-12-09T10:03:38.7164435+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 805,
+  "EOS_Progressed": 817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 803,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -247,6 +247,11 @@
       "Time": "2023-12-09T09:08:41.1549355+00:00",
       "NumProgressed": 805,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T10:09:00.9531502+00:00",
+      "NumProgressed": 817,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -259,7 +264,7 @@
       "Name": "Conspiracy",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 400
     },
     {
       "ID": "03_TheStolenStar",
@@ -267,7 +272,7 @@
       "Name": "Stolen Star",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -361,9 +366,9 @@
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 25
     },
     {
       "ID": "16_TheRise",
@@ -371,7 +376,7 @@
       "Name": "The Rise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "17_TheExemplar",
@@ -387,7 +392,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "19_TheVoidWolf",
@@ -465,9 +470,9 @@
       "ID": "28_TheLightOfAstronomicon",
       "SetID": "37a94m8",
       "Name": "Light of the Astronomican",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -475,7 +480,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 354
+      "UsersEstimate": 359
     },
     {
       "ID": "30_The GreatestExploration",
@@ -491,7 +496,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "32_AviationSaviour",
@@ -505,9 +510,9 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 49
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -569,9 +574,9 @@
       "ID": "41_TheJungleHeat",
       "SetID": "37a94m8",
       "Name": "Jungle Heat",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "42_TheIronJudgement",
@@ -611,7 +616,7 @@
       "Name": "A Spark",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "47_AFlame",
@@ -778,14 +783,14 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 805,
+      "Progressed": 817,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-09T09:08:41.1549352+00:00",
+  "LastChanged_Achievements": "2023-12-09T10:09:00.95315+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-09T08:58:18.9091462+00:00",
-  "LastUpdate_Achievements": "2023-12-09T09:08:41.1549777+00:00"
+  "LastUpdate_Ratings": "2023-12-09T09:58:19.4298039+00:00",
+  "LastUpdate_Achievements": "2023-12-09T10:09:00.9531891+00:00"
 }

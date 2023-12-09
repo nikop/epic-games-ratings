@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11721,7 +11721,7 @@
       "Count": 842
     }
   ],
-  "EOS_Progressed": 304120,
+  "EOS_Progressed": 304122,
   "EOS_Completed": 525,
   "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 5,
@@ -36701,6 +36701,11 @@
       "Time": "2023-12-09T09:03:42.4940526+00:00",
       "NumProgressed": 304120,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-09T10:04:00.6944643+00:00",
+      "NumProgressed": 304122,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36712,7 +36717,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48659
+      "UsersEstimate": 48660
     },
     {
       "ID": "PFA_10",
@@ -36736,7 +36741,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 36494
+      "UsersEstimate": 36495
     },
     {
       "ID": "PFA_13",
@@ -36768,7 +36773,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36494
+      "UsersEstimate": 36495
     },
     {
       "ID": "PFA_17",
@@ -36840,7 +36845,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36494
+      "UsersEstimate": 36495
     },
     {
       "ID": "PFA_25",
@@ -36896,7 +36901,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36494
+      "UsersEstimate": 36495
     },
     {
       "ID": "PFA_31",
@@ -36968,7 +36973,7 @@
       "Name": "Coasting Along",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36494
+      "UsersEstimate": 36495
     },
     {
       "ID": "PFA_4",
@@ -37000,7 +37005,7 @@
       "Name": "Raising Expectations",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21288
+      "UsersEstimate": 21289
     },
     {
       "ID": "PFA_43",
@@ -37071,7 +37076,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304120,
+      "Progressed": 304122,
       "Completed": 525
     }
   ],
@@ -37079,8 +37084,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-09T04:58:14.5405695+00:00",
-  "LastChanged_Achievements": "2023-12-09T09:03:42.4940523+00:00",
+  "LastChanged_Achievements": "2023-12-09T10:04:00.6944641+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-09T08:58:00.352153+00:00",
-  "LastUpdate_Achievements": "2023-12-09T09:03:42.4941958+00:00"
+  "LastUpdate_Ratings": "2023-12-09T09:58:00.9688292+00:00",
+  "LastUpdate_Achievements": "2023-12-09T10:04:00.694576+00:00"
 }

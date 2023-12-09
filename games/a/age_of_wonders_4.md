@@ -38,10 +38,10 @@ Rating: 4.61 (Ranked 387)
 | Mighty Hoard | 1.00% | ~56 |
 | Prometheus Avenged | 1.00% | ~56 |
 | Seal the Deal | 1.00% | ~56 |
+| A Conqueror's Cohort | 1.00% | ~56 |
 | Spoils of War | 1.00% | ~56 |
 | Dawn of the Dread | 1.00% | ~56 |
 | The Creator | 0.90% | ~50 |
-| A Conqueror's Cohort | 0.90% | ~50 |
 | Lord of Chaos | 0.80% | ~45 |
 | The Eternal Court | 0.80% | ~45 |
 | God Emperor | 0.70% | ~39 |

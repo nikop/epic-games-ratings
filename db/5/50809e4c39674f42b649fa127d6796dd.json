@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 437,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1265,9 +1265,9 @@
       "ID": "MAIN_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Futile Resistance",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1424,8 +1424,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-09T09:04:33.4642502+00:00",
+  "LastChanged_Achievements": "2023-12-09T10:04:51.605337+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-09T09:02:35.9575748+00:00",
-  "LastUpdate_Achievements": "2023-12-09T09:04:33.4642874+00:00"
+  "LastUpdate_Ratings": "2023-12-09T10:02:50.7556574+00:00",
+  "LastUpdate_Achievements": "2023-12-09T10:04:51.6053646+00:00"
 }

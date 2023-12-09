@@ -1309,9 +1309,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259166,
+  "EOS_Progressed": 259168,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23629,6 +23629,11 @@
       "Time": "2023-12-09T08:08:20.2972942+00:00",
       "NumProgressed": 259166,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-09T10:08:10.5529685+00:00",
+      "NumProgressed": 259168,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -23688,7 +23693,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80341
+      "UsersEstimate": 80342
     },
     {
       "ID": "BackHomeNTimes",
@@ -23728,7 +23733,7 @@
       "Name": "Arms dealer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "CompleteBestiary",
@@ -23760,7 +23765,7 @@
       "Name": "Fixer III",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "CreedsInBank1",
@@ -23928,7 +23933,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59608
+      "UsersEstimate": 59609
     },
     {
       "ID": "KillOthers2",
@@ -24056,7 +24061,7 @@
       "Name": "AML questionnaire",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "TakeHomeNHearts",
@@ -24064,7 +24069,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "UnlockAllAchievements",
@@ -24087,7 +24092,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259166,
+      "Progressed": 259168,
       "Completed": 3
     }
   ],
@@ -24095,8 +24100,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-08T13:02:45.6518515+00:00",
-  "LastChanged_Achievements": "2023-12-09T09:06:10.6636017+00:00",
+  "LastChanged_Achievements": "2023-12-09T10:08:10.5529683+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:43.7496821+00:00",
-  "LastUpdate_Ratings": "2023-12-09T08:58:07.8351858+00:00",
-  "LastUpdate_Achievements": "2023-12-09T09:06:10.6637228+00:00"
+  "LastUpdate_Ratings": "2023-12-09T09:58:08.5243992+00:00",
+  "LastUpdate_Achievements": "2023-12-09T10:08:10.5530758+00:00"
 }

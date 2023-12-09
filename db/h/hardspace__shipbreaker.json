@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -303,9 +303,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 969,
+  "EOS_Progressed": 970,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2018,6 +2018,11 @@
       "Time": "2023-12-01T22:08:16.457188+00:00",
       "NumProgressed": 969,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T10:08:45.7708858+00:00",
+      "NumProgressed": 970,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2043,9 +2048,9 @@
       "ID": "ACH_ACT_3_COMPLETE",
       "SetID": "108h92c",
       "Name": "Act III Complete",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_ALWAYS_FINDING_YOUR_MARK",
@@ -2101,15 +2106,15 @@
       "Name": "Breaking the Ice",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
       "SetID": "108h92c",
       "Name": "Breathe In\u2026 Breathe Out\u2026",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 718
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2165,7 +2170,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2181,7 +2186,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2195,9 +2200,9 @@
       "ID": "ACH_NO_NINOS",
       "SetID": "108h92c",
       "Name": "No Ni\u00F1os",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -2205,7 +2210,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -2244,7 +2249,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 969,
+      "Progressed": 970,
       "Completed": 0
     }
   ],
@@ -2252,8 +2257,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-11-20T03:58:42.1118377+00:00",
-  "LastChanged_Achievements": "2023-12-09T09:08:26.0692079+00:00",
+  "LastChanged_Achievements": "2023-12-09T10:08:45.7708856+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:13.0995451+00:00",
-  "LastUpdate_Ratings": "2023-12-09T08:57:19.9932922+00:00",
-  "LastUpdate_Achievements": "2023-12-09T09:08:26.069234+00:00"
+  "LastUpdate_Ratings": "2023-12-09T09:57:19.5846391+00:00",
+  "LastUpdate_Achievements": "2023-12-09T10:08:45.7709085+00:00"
 }

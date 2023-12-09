@@ -8,7 +8,7 @@
 | The Teleprobe | 48.00% | ~255 |
 | The City | 44.00% | ~234 |
 | The field base | 40.00% | ~213 |
-| Survivors | 34.00% | ~181 |
+| Survivors | 35.00% | ~186 |
 | The Condor | 32.00% | ~170 |
 | The End | 31.00% | ~165 |
 | The Alliance | 26.00% | ~138 |

@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 576,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2090,9 +2090,9 @@
       "ID": "ACHIEVEMENT_36",
       "SetID": "7pimpda",
       "Name": "Giant Claw Spider Challenge",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -2130,9 +2130,9 @@
       "ID": "ACHIEVEMENT_40",
       "SetID": "7pimpda",
       "Name": "Mermaid Challenge",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -2154,9 +2154,9 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "7pimpda",
       "Name": "Warden Slayer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -2235,8 +2235,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-09T09:08:12.8638404+00:00",
+  "LastChanged_Achievements": "2023-12-09T10:08:31.9791699+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-09T08:58:25.7036734+00:00",
-  "LastUpdate_Achievements": "2023-12-09T09:08:12.8638715+00:00"
+  "LastUpdate_Ratings": "2023-12-09T09:58:26.4461428+00:00",
+  "LastUpdate_Achievements": "2023-12-09T10:08:31.9792091+00:00"
 }

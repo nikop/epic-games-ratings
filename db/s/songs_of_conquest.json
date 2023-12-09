@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -440,7 +440,7 @@
   ],
   "EOS_Progressed": 392,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1802,9 +1802,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "Deepstrike",
@@ -2138,8 +2138,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-09T09:04:36.5690061+00:00",
+  "LastChanged_Achievements": "2023-12-09T10:04:54.8432956+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-09T09:00:13.1252836+00:00",
-  "LastUpdate_Achievements": "2023-12-09T09:04:36.5690897+00:00"
+  "LastUpdate_Ratings": "2023-12-09T10:02:38.1166491+00:00",
+  "LastUpdate_Achievements": "2023-12-09T10:04:54.8433357+00:00"
 }

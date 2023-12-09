@@ -8,7 +8,7 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 37.00% | ~145 |
 | Double Kill | 27.00% | ~106 |
-| Critical Hit | 15.00% | ~59 |
+| Critical Hit | 16.00% | ~63 |
 | Veteran | 15.00% | ~59 |
 | Dressed For Success | 11.00% | ~43 |
 | Sorcerous Spree | 7.00% | ~27 |

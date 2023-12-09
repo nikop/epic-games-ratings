@@ -3377,9 +3377,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17743,
+  "EOS_Progressed": 17748,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15087,6 +15087,11 @@
       "Time": "2023-12-09T09:04:15.4151489+00:00",
       "NumProgressed": 17743,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-09T10:04:34.3616142+00:00",
+      "NumProgressed": 17748,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15249,9 +15254,9 @@
       "ID": "WinNearDangerous",
       "SetID": "cfbk359",
       "Name": "Dangerous Lands",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearFertile",
@@ -15329,9 +15334,9 @@
       "ID": "WinNearStatue",
       "SetID": "cfbk359",
       "Name": "Statue of the Forefathers",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "WinNearTemple",
@@ -15353,9 +15358,9 @@
       "ID": "WinNearWatchtower",
       "SetID": "cfbk359",
       "Name": "Watchtower",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 89
     },
     {
       "ID": "WinOnCoral",
@@ -15570,15 +15575,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17743,
+      "Progressed": 17748,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-08T19:00:22.4048457+00:00",
-  "LastChanged_Achievements": "2023-12-09T09:04:15.4151487+00:00",
+  "LastChanged_Achievements": "2023-12-09T10:04:34.361614+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-09T08:59:58.9099997+00:00",
-  "LastUpdate_Achievements": "2023-12-09T09:04:15.4152439+00:00"
+  "LastUpdate_Ratings": "2023-12-09T10:02:23.0119981+00:00",
+  "LastUpdate_Achievements": "2023-12-09T10:04:34.3617016+00:00"
 }

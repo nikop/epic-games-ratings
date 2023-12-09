@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,964 |
+| Welcome To Hell-A | 3.00% | ~21,965 |
 | Whatever It Takes | 3.00% | ~1,731 |
 | Pork Chopped | 3.00% | ~1,731 |
 | Dr. Reed, I Presume? | 2.00% | ~14,643 |
@@ -23,19 +23,19 @@ Rating: 4.54 (Ranked 534)
 | Personal Assistant Personally Assisted | 2.00% | ~14,643 |
 | This is My Weapon | 2.00% | ~14,643 |
 | One of Us | 2.00% | ~1,154 |
-| Making Your Mark | 1.00% | ~7,321 |
-| Perks of the Job | 1.00% | ~7,321 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,321 |
-| Slayer Squad | 1.00% | ~7,321 |
-| Can't Handle the Truth | 1.00% | ~7,321 |
-| Like Riding a Bike | 1.00% | ~7,321 |
-| Zombologist | 1.00% | ~7,321 |
-| Ooh, Shiny! | 1.00% | ~7,321 |
-| A Patton Emerges | 1.00% | ~7,321 |
-| Humanity Distilled | 1.00% | ~7,321 |
-| I Am the Resurrection | 1.00% | ~7,321 |
-| Max Headroom | 1.00% | ~7,321 |
-| Our True Nature | 1.00% | ~7,321 |
+| Making Your Mark | 1.00% | ~7,322 |
+| Perks of the Job | 1.00% | ~7,322 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,322 |
+| Slayer Squad | 1.00% | ~7,322 |
+| Can't Handle the Truth | 1.00% | ~7,322 |
+| Like Riding a Bike | 1.00% | ~7,322 |
+| Zombologist | 1.00% | ~7,322 |
+| Ooh, Shiny! | 1.00% | ~7,322 |
+| A Patton Emerges | 1.00% | ~7,322 |
+| Humanity Distilled | 1.00% | ~7,322 |
+| I Am the Resurrection | 1.00% | ~7,322 |
+| Max Headroom | 1.00% | ~7,322 |
+| Our True Nature | 1.00% | ~7,322 |
 | Down with the Sickness | 0.90% | ~6,589 |
 | Not Even My Final Form | 0.80% | ~5,857 |
 | Jumbo Keyring | 0.80% | ~5,857 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 534)
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,146 (Ranked 21)  
+Progressed: 732,164 (Ranked 21)  
 Completed: 2,467 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 2,467 (0.34%) (Ranked 234)
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
-| 2023-12-09 | 732,146 | 2,467 |
+| 2023-12-09 | 732,164 | 2,467 |
 ## Awards
 Max (Great Boss Battles): 8,017  (Ranked 49)  
 Sum: 12,328 (Ranked 82)  

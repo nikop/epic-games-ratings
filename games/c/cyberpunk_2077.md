@@ -6,40 +6,40 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,748 |
-| Gun Fu | 7.00% | ~68,103 |
-| The Fool | 6.00% | ~58,374 |
-| Right Back At Ya | 5.00% | ~48,645 |
-| The Lovers | 5.00% | ~48,645 |
-| Full Body Conversion | 3.00% | ~29,187 |
-| Stanislavski's Method | 3.00% | ~29,187 |
-| The Hermit | 3.00% | ~29,187 |
-| The Wheel of Fortune | 3.00% | ~29,187 |
-| True Soldier | 3.00% | ~29,187 |
-| Relic Ruler | 3.00% | ~3,046 |
-| All the President's Men | 3.00% | ~3,046 |
-| Arachnophobia | 3.00% | ~3,046 |
-| Bushido and Chill | 2.00% | ~19,458 |
-| Master Crafter | 2.00% | ~19,458 |
-| Christmas Tree Attack | 2.00% | ~19,458 |
-| The Quick and the Dead | 2.00% | ~19,458 |
-| Life of the Road | 2.00% | ~19,458 |
-| The High Priestess | 2.00% | ~19,458 |
-| The World | 2.00% | ~19,458 |
-| True Warrior | 2.00% | ~19,458 |
-| Legend of The Afterlife | 2.00% | ~19,458 |
+| V for Vendetta | 12.00% | ~116,754 |
+| Gun Fu | 7.00% | ~68,106 |
+| The Fool | 6.00% | ~58,377 |
+| Right Back At Ya | 5.00% | ~48,647 |
+| The Lovers | 5.00% | ~48,647 |
+| Full Body Conversion | 4.00% | ~38,918 |
+| Stanislavski's Method | 3.00% | ~29,188 |
+| The Hermit | 3.00% | ~29,188 |
+| The Wheel of Fortune | 3.00% | ~29,188 |
+| True Soldier | 3.00% | ~29,188 |
+| Relic Ruler | 3.00% | ~3,047 |
+| All the President's Men | 3.00% | ~3,047 |
+| Arachnophobia | 3.00% | ~3,047 |
+| Bushido and Chill | 2.00% | ~19,459 |
+| Master Crafter | 2.00% | ~19,459 |
+| Christmas Tree Attack | 2.00% | ~19,459 |
+| The Quick and the Dead | 2.00% | ~19,459 |
+| Life of the Road | 2.00% | ~19,459 |
+| The High Priestess | 2.00% | ~19,459 |
+| The World | 2.00% | ~19,459 |
+| True Warrior | 2.00% | ~19,459 |
+| Legend of The Afterlife | 2.00% | ~19,459 |
 | To Protect and Serve | 1.00% | ~9,729 |
 | I Am The Law | 1.00% | ~9,729 |
 | Two Heads, One Bullet | 1.00% | ~9,729 |
 | Judy vs Night City | 1.00% | ~9,729 |
-| Spin Doctor | 1.00% | ~1,015 |
+| Spin Doctor | 1.00% | ~1,016 |
 | Easy Come, Easy Go | 0.90% | ~914 |
-| The Wandering Fool | 0.80% | ~7,783 |
-| King of Wands | 0.80% | ~812 |
-| The Sun | 0.70% | ~6,810 |
+| The Wandering Fool | 0.80% | ~7,784 |
+| King of Wands | 0.80% | ~813 |
+| Ten out of Ten | 0.70% | ~6,811 |
+| The Sun | 0.70% | ~6,811 |
 | Dirty Deeds | 0.70% | ~711 |
-| To Bad Decisions! | 0.60% | ~5,837 |
-| Ten out of Ten | 0.60% | ~5,837 |
+| To Bad Decisions! | 0.60% | ~5,838 |
 | Breathtaking | 0.50% | ~4,865 |
 | The Star | 0.50% | ~4,865 |
 | The Tower | 0.50% | ~508 |
@@ -55,6 +55,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wasteland | 0.20% | ~1,946 |
 | The Devil | 0.20% | ~1,946 |
 | The Jungle | 0.20% | ~1,946 |
+| It's Elementary | 0.20% | ~1,946 |
 | King of Cups | 0.20% | ~203 |
 | Frequent Flyer | 0.10% | ~973 |
 | Gunslinger | 0.10% | ~973 |
@@ -62,7 +63,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Daemon In The Shell | 0.10% | ~973 |
 | Rough Landing | 0.10% | ~973 |
 | Greetings from Pacifica! | 0.10% | ~973 |
-| It's Elementary | 0.10% | ~973 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 972,902 (Ranked 15)  
-Completed: 2,863 (0.29%) (Ranked 241)  
+Progressed: 972,949 (Ranked 15)  
+Completed: 2,865 (0.29%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,10 +307,10 @@ Completed: 2,863 (0.29%) (Ranked 241)
 | 2023-12-06 | 971,359 | 2,847 |
 | 2023-12-07 | 971,994 | 2,852 |
 | 2023-12-08 | 972,634 | 2,860 |
-| 2023-12-09 | 972,902 | 2,863 |
+| 2023-12-09 | 972,949 | 2,865 |
 ## Awards
 Max (Character Customization): 119,484  (Ranked 9)  
-Sum: 401,865 (Ranked 9)  
+Sum: 402,078 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -319,7 +319,7 @@ Diff (max vs sum): 0
 | This game is Great for Beginners | 24,377 |
 | This game has Diverse Characters | 23,997 |
 | This game is Highly Recommended | 22,801 |
-| This game has Amazing Storytelling | 22,564 |
+| This game has Amazing Storytelling | 22,777 |
 | This game is Extremely Fun | 22,463 |
 | This game has Amazing Characters | 22,239 |
 | This game is Relaxing | 21,496 |
@@ -652,3 +652,4 @@ Diff (max vs sum): 0
 | 2023-12-06 | 4.66 | - | 118,092 | 395,344 |
 | 2023-12-07 | 4.66 | - | 118,778 | 398,648 |
 | 2023-12-08 | 4.66 | - | 119,484 | 401,865 |
+| 2023-12-09 | 4.66 | - | 119,484 | 402,078 |
