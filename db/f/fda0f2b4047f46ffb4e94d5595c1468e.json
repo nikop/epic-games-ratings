@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3481,10 +3481,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 5544,
       "NumberOfAwardsMax": 1703
+    },
+    {
+      "Time": "2023-12-09T14:03:09.823609+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 5550,
+      "NumberOfAwardsMax": 1703
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5544,
+  "NumberOfAwards": 5550,
   "NumberOfAwardsMax": 1703,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3558,12 +3564,12 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 425
+      "Count": 431
     }
   ],
-  "EOS_Progressed": 9573,
+  "EOS_Progressed": 9574,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10891,6 +10897,11 @@
       "Time": "2023-12-09T12:07:19.3062979+00:00",
       "NumProgressed": 9573,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T14:07:13.7738173+00:00",
+      "NumProgressed": 9574,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -10911,7 +10922,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2394
     },
     {
       "ID": "ach03",
@@ -10919,7 +10930,7 @@
       "Name": "A New Timeline",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 4595
+      "UsersEstimate": 4596
     },
     {
       "ID": "ach04",
@@ -10927,7 +10938,7 @@
       "Name": "What Just Happened??",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2394
     },
     {
       "ID": "ach05",
@@ -10999,7 +11010,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "ach14",
@@ -11015,7 +11026,7 @@
       "Name": "Give A Koin",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "ach16",
@@ -11023,7 +11034,7 @@
       "Name": "Test Your Might",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "ach17",
@@ -11111,7 +11122,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ach28",
@@ -11167,7 +11178,7 @@
       "Name": "Always Accessorize",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ach35",
@@ -11191,7 +11202,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 5552
+      "UsersEstimate": 5553
     },
     {
       "ID": "ach38",
@@ -11199,7 +11210,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "ach39",
@@ -11223,7 +11234,7 @@
       "Name": "Stop Hiding",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     },
     {
       "ID": "ach42",
@@ -11231,7 +11242,7 @@
       "Name": "Quest Master",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "ach43",
@@ -11295,23 +11306,23 @@
       "Name": "Witness Me!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3829
+      "UsersEstimate": 3830
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9573,
+      "Progressed": 9574,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-12-09T13:05:37.0853933+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:08:30.8113104+00:00",
+  "LastChanged": "2023-12-09T14:03:09.8236088+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:07:13.7738168+00:00",
   "LastUpdate_AppInfo": "2023-12-09T12:59:38.7536822+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:05:37.0853942+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:08:30.8113684+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:03:09.8236093+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:07:13.773907+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 964,
+  "Ranking_Rating": 968,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.14,
+  "Rating": 4.13,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -449,6 +449,12 @@
       "Rating": 4.14,
       "NumberOfAwards": 29,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-12-09T13:58:58.5190885+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 29,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
@@ -463,9 +469,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43469,
+  "EOS_Progressed": 43472,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14578,6 +14584,11 @@
       "Time": "2023-12-09T13:08:29.4462923+00:00",
       "NumProgressed": 43469,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-09T14:07:11.682514+00:00",
+      "NumProgressed": 43472,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -14749,7 +14760,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -14805,7 +14816,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -15012,22 +15023,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43469,
+      "Progressed": 43472,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8306,
-      "Completed": 8306
+      "Progressed": 8309,
+      "Completed": 8309
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2023-12-08T13:57:59.0993029+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:08:29.4462918+00:00",
+  "LastChanged": "2023-12-09T13:58:58.5190883+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:07:11.6825135+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:22.4810167+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:00:56.3896683+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:08:29.4463796+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:58:58.5190887+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:07:11.682615+00:00"
 }

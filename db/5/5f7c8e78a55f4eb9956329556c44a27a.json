@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -791,9 +791,9 @@
       "ID": "TINGWD_CHAP_END_02",
       "SetID": "c0imaa6",
       "Name": "A soundly led quest",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "TINGWD_CHAP_END_03",
@@ -998,8 +998,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:06:16.7392999+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:04:08.4847948+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:13.2165924+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:01:45.9563098+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:06:16.7393206+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:00:12.0563185+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:04:08.4848211+00:00"
 }

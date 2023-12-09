@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16920,
+  "EOS_Progressed": 16922,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15713,6 +15713,11 @@
       "Time": "2023-12-09T13:06:18.9192735+00:00",
       "NumProgressed": 16920,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-09T14:04:11.4922152+00:00",
+      "NumProgressed": 16922,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15788,7 +15793,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "tpote_achievement_18",
@@ -15884,7 +15889,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "tpote_achievement_29",
@@ -15900,7 +15905,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     },
     {
       "ID": "tpote_achievement_30",
@@ -15988,7 +15993,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6768
+      "UsersEstimate": 6769
     },
     {
       "ID": "tpote_achievement_40",
@@ -16028,7 +16033,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "tpote_achievement_8",
@@ -16036,7 +16041,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3553
+      "UsersEstimate": 3554
     },
     {
       "ID": "tpote_achievement_9",
@@ -16051,15 +16056,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16920,
+      "Progressed": 16922,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:06:18.9192733+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:04:11.4922148+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:00:06.066987+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:06:18.9193821+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:57:45.5698857+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:04:11.4923073+00:00"
 }

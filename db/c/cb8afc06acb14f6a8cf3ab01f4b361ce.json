@@ -395,9 +395,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 326232,
+  "EOS_Progressed": 326255,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3804,
+  "EOS_NewPlayers": 3794,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8960,6 +8960,11 @@
       "Time": "2023-12-09T13:07:00.7071714+00:00",
       "NumProgressed": 326232,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-09T14:05:09.4760094+00:00",
+      "NumProgressed": 326255,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -8972,7 +8977,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9787
+      "UsersEstimate": 9788
     },
     {
       "ID": "S02_BRDA",
@@ -8996,7 +9001,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "S05_SWRA",
@@ -9108,7 +9113,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9787
+      "UsersEstimate": 9788
     },
     {
       "ID": "S19_CHALLENGES",
@@ -9164,7 +9169,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "S26_CRTA",
@@ -9180,7 +9185,7 @@
       "Name": "Their fate is sealed",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "S28_CTHB",
@@ -9188,7 +9193,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "S29_RECOVER",
@@ -9268,7 +9273,7 @@
       "Name": "Chaos be damned!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "S39_END_RAPTURE",
@@ -9284,14 +9289,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3262
+      "UsersEstimate": 3263
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 326232,
+      "Progressed": 326255,
       "Completed": 5
     }
   ],
@@ -9299,8 +9304,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-06T06:00:13.3250354+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:07:00.7071708+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:05:09.476009+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:01:09.4934425+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:07:00.707226+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:59:17.9579501+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:05:09.4761137+00:00"
 }

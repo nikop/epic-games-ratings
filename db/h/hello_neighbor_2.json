@@ -471,7 +471,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3330,
+  "EOS_Progressed": 3331,
   "EOS_Completed": 136,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
@@ -5216,6 +5216,11 @@
       "Time": "2023-12-09T13:06:43.4247978+00:00",
       "NumProgressed": 3330,
       "NumCompleted": 136
+    },
+    {
+      "Time": "2023-12-09T14:04:45.529822+00:00",
+      "NumProgressed": 3331,
+      "NumCompleted": 136
     }
   ],
   "TotalAchievements": 14,
@@ -5251,7 +5256,7 @@
       "Name": "Climber",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -5307,7 +5312,7 @@
       "Name": "Reunion",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -5323,7 +5328,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -5331,14 +5336,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 78,
       "XP": 35,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3330,
+      "Progressed": 3331,
       "Completed": 136
     }
   ],
@@ -5346,8 +5351,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:06:43.4247972+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:04:45.5298216+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:56.2893287+00:00",
-  "LastUpdate_Ratings": "2023-12-09T12:59:40.5337613+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:06:43.4248313+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:57:07.9554097+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:04:45.5298516+00:00"
 }

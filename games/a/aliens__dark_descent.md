@@ -5,35 +5,35 @@ Rating: 4.51 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~3,030 |
-| Snatched Out | 74.00% | ~2,768 |
-| Keep 'Em Coming | 73.00% | ~2,731 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,506 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~3,031 |
+| Snatched Out | 74.00% | ~2,769 |
+| Keep 'Em Coming | 73.00% | ~2,732 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,507 |
 | Call Me Snake | 63.00% | ~2,357 |
-| Something Lurks Under The Hills | 61.00% | ~2,282 |
-| This Was No Papercut | 59.00% | ~2,207 |
-| People Person | 57.00% | ~2,132 |
-| The Shrink Hates Me | 57.00% | ~2,132 |
-| First Steps Into Madness | 54.00% | ~2,020 |
+| Something Lurks Under The Hills | 61.00% | ~2,283 |
+| This Was No Papercut | 59.00% | ~2,208 |
+| People Person | 57.00% | ~2,133 |
+| The Shrink Hates Me | 57.00% | ~2,133 |
+| First Steps Into Madness | 54.00% | ~2,021 |
 | Use The Bumper, That's What It's For | 53.00% | ~1,983 |
 | Colonial Barrels | 51.00% | ~1,908 |
-| Harper's Hell | 47.00% | ~1,758 |
-| Making a Stand | 45.00% | ~1,683 |
-| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,571 |
+| Harper's Hell | 47.00% | ~1,759 |
+| Making a Stand | 45.00% | ~1,684 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,572 |
 | Where It All Begun | 41.00% | ~1,534 |
 | Recouped Investment | 39.00% | ~1,459 |
-| Living Nightmare | 35.00% | ~1,309 |
-| The More The Merrier | 35.00% | ~1,309 |
+| Living Nightmare | 35.00% | ~1,310 |
+| The More The Merrier | 35.00% | ~1,310 |
 | Omelette Du Fromage | 34.00% | ~1,272 |
 | The Darwin Era Was Here | 32.00% | ~1,197 |
-| Deep Into Insanity | 30.00% | ~1,122 |
-| The Passenger | 30.00% | ~1,122 |
-| Come on, You Wanna Live Forever? | 28.00% | ~1,047 |
+| Deep Into Insanity | 30.00% | ~1,123 |
+| The Passenger | 30.00% | ~1,123 |
+| Come on, You Wanna Live Forever? | 28.00% | ~1,048 |
 | The Spire | 27.00% | ~1,010 |
 | El Riesgo Siempre Vive | 26.00% | ~973 |
 | Stuff Of Nightmares | 24.00% | ~898 |
 | Excavating The Truth | 24.00% | ~898 |
-| Abysmal Horrors | 23.00% | ~860 |
+| Abysmal Horrors | 23.00% | ~861 |
 | Frontliner | 22.00% | ~823 |
 | One For Every Occasion | 21.00% | ~786 |
 | The Cable Guy | 21.00% | ~786 |
@@ -51,7 +51,7 @@ Rating: 4.51 (Ranked 574)
 | This Ain't No Picnic | 0.70% | ~26 |
 | Chalk It Up To Experience | 0.70% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,741 (Ranked 202)  
+Progressed: 3,742 (Ranked 202)  
 Completed: 3 (0.08%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,6 +217,7 @@ Completed: 3 (0.08%) (Ranked 304)
 | 2023-12-04 | 3,738 | 3 |
 | 2023-12-05 | 3,740 | 3 |
 | 2023-12-08 | 3,741 | 3 |
+| 2023-12-09 | 3,742 | 3 |
 ## Awards
 Max (Great Boss Battles): 38  (Ranked 467)  
 Sum: 38 (Ranked 506)  

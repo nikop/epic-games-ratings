@@ -6,11 +6,11 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 0.20% | ~943 |
-| That's a Grand Navy | 0.20% | ~943 |
-| That is mine! | 0.20% | ~943 |
-| Until death do us apart | 0.20% | ~943 |
-| Victorious! | 0.20% | ~943 |
+| That's a Grand Army | 0.20% | ~944 |
+| That's a Grand Navy | 0.20% | ~944 |
+| That is mine! | 0.20% | ~944 |
+| Until death do us apart | 0.20% | ~944 |
+| Victorious! | 0.20% | ~944 |
 | I don't like sand | 0.10% | ~472 |
 | A Blessed Nation | 0.10% | ~472 |
 | A Decent Reserve | 0.10% | ~472 |
@@ -165,6 +165,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Multiculturalism | 0.10% | ~472 |
 | My armies are invincible! | 0.10% | ~472 |
 | My True Friend | 0.10% | ~472 |
+| Napoleon’s Ambition | 0.10% | ~472 |
 | Narcissism | 0.10% | ~472 |
 | Networking | 0.10% | ~472 |
 | No Country for Old Tercios | 0.10% | ~472 |
@@ -323,7 +324,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Let It Go! | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
-| Napoleon’s Ambition | 0.00% | ~0 |
 | Neither Holy, Nor German | 0.00% | ~0 |
 | Never say Nevers | 0.00% | ~0 |
 | New, New Deli | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,703 (Ranked 42)  
+Progressed: 471,756 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -603,10 +603,10 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-06 | 470,325 | 1 |
 | 2023-12-07 | 470,773 | 1 |
 | 2023-12-08 | 471,386 | 1 |
-| 2023-12-09 | 471,703 | 1 |
+| 2023-12-09 | 471,756 | 1 |
 ## Awards
 Max (Educational): 7,307  (Ranked 54)  
-Sum: 60,184 (Ranked 24)  
+Sum: 60,199 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -614,7 +614,7 @@ Diff (max vs sum): 30
 | This game has Diverse Characters | 7,076 |
 | This game is Highly Recommended | 7,013 |
 | This game has Challenging Combat | 6,931 |
-| This game is Extremely Fun | 6,857 |
+| This game is Extremely Fun | 6,872 |
 | This game is Relaxing | 6,720 |
 | This game has Competitive Players | 6,560 |
 | This game has Amazing Storytelling | 6,086 |
@@ -949,4 +949,4 @@ Diff (max vs sum): 30
 | 2023-12-06 | 4.69 | - | 7,282 | 59,979 |
 | 2023-12-07 | 4.69 | - | 7,292 | 60,067 |
 | 2023-12-08 | 4.69 | - | 7,307 | 60,170 |
-| 2023-12-09 | 4.69 | - | 7,307 | 60,184 |
+| 2023-12-09 | 4.69 | - | 7,307 | 60,199 |

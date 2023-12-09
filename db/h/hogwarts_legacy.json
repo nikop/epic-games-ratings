@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11647,10 +11647,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 50281,
       "NumberOfAwardsMax": 25052
+    },
+    {
+      "Time": "2023-12-09T13:58:54.9121511+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50284,
+      "NumberOfAwardsMax": 25052
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50281,
+  "NumberOfAwards": 50284,
   "NumberOfAwardsMax": 25052,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11676,7 +11682,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1273
+      "Count": 1276
     },
     {
       "Text": "This game is Great for Beginners",
@@ -11727,9 +11733,9 @@
       "Count": 842
     }
   ],
-  "EOS_Progressed": 304124,
+  "EOS_Progressed": 304126,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36717,6 +36723,11 @@
       "Time": "2023-12-09T13:06:46.8593461+00:00",
       "NumProgressed": 304124,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-09T14:04:50.4021938+00:00",
+      "NumProgressed": 304126,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36768,7 +36779,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 18247
+      "UsersEstimate": 18248
     },
     {
       "ID": "PFA_15",
@@ -36824,7 +36835,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6082
+      "UsersEstimate": 6083
     },
     {
       "ID": "PFA_21",
@@ -36840,7 +36851,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "PFA_23",
@@ -36864,7 +36875,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18247
+      "UsersEstimate": 18248
     },
     {
       "ID": "PFA_26",
@@ -36896,7 +36907,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 18247
+      "UsersEstimate": 18248
     },
     {
       "ID": "PFA_3",
@@ -36920,7 +36931,7 @@
       "Name": "Savvy Spender",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6082
+      "UsersEstimate": 6083
     },
     {
       "ID": "PFA_32",
@@ -36952,7 +36963,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30412
+      "UsersEstimate": 30413
     },
     {
       "ID": "PFA_36",
@@ -36960,7 +36971,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6082
+      "UsersEstimate": 6083
     },
     {
       "ID": "PFA_37",
@@ -37000,7 +37011,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6082
+      "UsersEstimate": 6083
     },
     {
       "ID": "PFA_41",
@@ -37024,7 +37035,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6082
+      "UsersEstimate": 6083
     },
     {
       "ID": "PFA_44",
@@ -37040,7 +37051,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 6082
+      "UsersEstimate": 6083
     },
     {
       "ID": "PFA_5",
@@ -37064,7 +37075,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42577
+      "UsersEstimate": 42578
     },
     {
       "ID": "PFA_8",
@@ -37080,23 +37091,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30412
+      "UsersEstimate": 30413
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304124,
+      "Progressed": 304126,
       "Completed": 525
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-09T11:58:47.7563915+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:06:46.8593458+00:00",
+  "LastChanged": "2023-12-09T13:58:54.9121506+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:04:50.4021934+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:00:53.931807+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:06:46.8594659+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:58:54.9121523+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:04:50.4023377+00:00"
 }

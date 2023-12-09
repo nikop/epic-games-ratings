@@ -5,10 +5,10 @@
   "Ranking_Rating": 25,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,9 +216,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 903,
+  "EOS_Progressed": 904,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2221,6 +2221,11 @@
       "Time": "2023-12-09T13:06:06.7038401+00:00",
       "NumProgressed": 903,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T14:03:54.2932598+00:00",
+      "NumProgressed": 904,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2241,7 +2246,7 @@
       "Name": "Ab Initio",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "AnthropicHills",
@@ -2329,7 +2334,7 @@
       "Name": "Discovery",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "EasternWetlands",
@@ -2401,7 +2406,7 @@
       "Name": "Into the Machine",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "JustOneLap",
@@ -2457,7 +2462,7 @@
       "Name": "Museum Visitor",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "NewBeginning",
@@ -2503,9 +2508,9 @@
       "ID": "PrometheusUnbound",
       "SetID": "1n308hc",
       "Name": "Prometheus Unbound",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 54
     },
     {
       "ID": "PuzzleFiend",
@@ -2625,7 +2630,7 @@
       "Name": "The Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "TheThiefOfFire",
@@ -2633,7 +2638,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "TheWordEndures",
@@ -2704,7 +2709,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 903,
+      "Progressed": 904,
       "Completed": 1
     }
   ],
@@ -2712,8 +2717,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:06:06.7038398+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:03:54.2932594+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-09T12:59:51.1022883+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:06:06.7038965+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:57:23.4033074+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:03:54.2933382+00:00"
 }

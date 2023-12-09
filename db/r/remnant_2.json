@@ -5379,10 +5379,10 @@
       "Count": 412
     }
   ],
-  "EOS_Progressed": 237335,
-  "EOS_Completed": 572,
-  "EOS_NewPlayers": 4560,
-  "EOS_NewCompleters": 25,
+  "EOS_Progressed": 237365,
+  "EOS_Completed": 573,
+  "EOS_NewPlayers": 4535,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -22159,6 +22159,11 @@
       "Time": "2023-12-09T13:11:28.0701138+00:00",
       "NumProgressed": 237335,
       "NumCompleted": 572
+    },
+    {
+      "Time": "2023-12-09T14:09:25.2853392+00:00",
+      "NumProgressed": 237365,
+      "NumCompleted": 573
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22355,7 +22360,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -22595,7 +22600,7 @@
       "Name": "A Foul Feast",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "DLC1_Obtain_Warden_Reward",
@@ -22610,13 +22615,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 237335,
-      "Completed": 572
+      "Progressed": 237365,
+      "Completed": 573
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 16500,
+      "Progressed": 16530,
       "Completed": 217
     }
   ],
@@ -22624,8 +22629,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-09T13:05:47.1476753+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:11:28.0701136+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:09:25.2853386+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:05:47.1476761+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:11:28.0702228+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:03:25.1522548+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:09:25.2854785+00:00"
 }

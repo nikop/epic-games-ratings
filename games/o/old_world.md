@@ -15,25 +15,25 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 5.00% | ~784 |
 | Strong | 5.00% | ~784 |
 | Hanging Gardens | 5.00% | ~784 |
-| Ambitious | 4.00% | ~627 |
-| Enlightened | 4.00% | ~627 |
-| Glorious | 4.00% | ~627 |
-| Good | 4.00% | ~627 |
-| Just | 4.00% | ~627 |
-| Keystone | 4.00% | ~627 |
-| Learned | 4.00% | ~627 |
-| Mason | 4.00% | ~627 |
-| Noble | 4.00% | ~627 |
-| Pioneer | 4.00% | ~627 |
-| Warrior | 4.00% | ~627 |
-| Developing Cities | 4.00% | ~627 |
-| Strong Cities | 4.00% | ~627 |
-| Oracle | 4.00% | ~627 |
-| Pyramids | 4.00% | ~627 |
-| Judaism | 4.00% | ~627 |
-| Greek Paganism | 4.00% | ~627 |
-| Naming Landmarks | 4.00% | ~627 |
-| Trade Caravan | 4.00% | ~627 |
+| Ambitious | 4.00% | ~628 |
+| Enlightened | 4.00% | ~628 |
+| Glorious | 4.00% | ~628 |
+| Good | 4.00% | ~628 |
+| Just | 4.00% | ~628 |
+| Keystone | 4.00% | ~628 |
+| Learned | 4.00% | ~628 |
+| Mason | 4.00% | ~628 |
+| Noble | 4.00% | ~628 |
+| Pioneer | 4.00% | ~628 |
+| Warrior | 4.00% | ~628 |
+| Developing Cities | 4.00% | ~628 |
+| Strong Cities | 4.00% | ~628 |
+| Oracle | 4.00% | ~628 |
+| Pyramids | 4.00% | ~628 |
+| Judaism | 4.00% | ~628 |
+| Greek Paganism | 4.00% | ~628 |
+| Naming Landmarks | 4.00% | ~628 |
+| Trade Caravan | 4.00% | ~628 |
 | Regicide | 3.00% | ~471 |
 | Drillmaster | 3.00% | ~471 |
 | Brilliant | 3.00% | ~471 |
@@ -136,12 +136,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.90% | ~141 |
 | All Nations | 0.90% | ~141 |
 | Poetic Leader | 0.90% | ~141 |
-| Ishtar Gate in Babylon | 0.80% | ~125 |
-| Peacemaker | 0.80% | ~125 |
-| Cao'an | 0.80% | ~125 |
-| Learn to Play 5 | 0.80% | ~125 |
-| Deposed Tribe | 0.80% | ~125 |
-| Kmt Unified | 0.80% | ~125 |
+| Ishtar Gate in Babylon | 0.80% | ~126 |
+| Peacemaker | 0.80% | ~126 |
+| Cao'an | 0.80% | ~126 |
+| Learn to Play 5 | 0.80% | ~126 |
+| Deposed Tribe | 0.80% | ~126 |
+| Kmt Unified | 0.80% | ~126 |
 | Carthage - Ox Hide | 0.70% | ~110 |
 | Old World Order | 0.70% | ~110 |
 | Cataphract Archer | 0.70% | ~110 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,686 (Ranked 152)  
+Progressed: 15,689 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,7 +582,7 @@ Completed: 5 (0.03%) (Ranked 333)
 | 2023-12-06 | 15,662 | 5 |
 | 2023-12-07 | 15,669 | 5 |
 | 2023-12-08 | 15,683 | 5 |
-| 2023-12-09 | 15,686 | 5 |
+| 2023-12-09 | 15,689 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 275)  
 Sum: 1,895 (Ranked 220)  

@@ -47,7 +47,7 @@
 | Bonus Evilness | 21.00% | ~113 |
 | Sabotage! | 21.00% | ~113 |
 | Raiders of the Lost Stone | 21.00% | ~113 |
-| The Rune Sockets of Finitude (Part 1) | 20.00% | ~107 |
+| The Rune Sockets of Finitude (Part 1) | 21.00% | ~113 |
 | The Rune Sockets of Finitude (Part 2) | 18.00% | ~97 |
 | My Little Torture Chamber | 17.00% | ~91 |
 | Rubble and Ashes | 17.00% | ~91 |

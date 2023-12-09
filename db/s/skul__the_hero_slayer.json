@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1205,9 +1205,9 @@
       "Count": 136
     }
   ],
-  "EOS_Progressed": 8406,
+  "EOS_Progressed": 8407,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5935,6 +5935,11 @@
       "Time": "2023-12-09T13:10:59.1004946+00:00",
       "NumProgressed": 8406,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-09T14:08:44.9936661+00:00",
+      "NumProgressed": 8407,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 24,
@@ -5946,7 +5951,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "Chatterbox",
@@ -6106,7 +6111,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7818
+      "UsersEstimate": 7819
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -6130,22 +6135,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7061
+      "UsersEstimate": 7062
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8406,
+      "Progressed": 8407,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-07T17:57:51.9878192+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:10:59.1004941+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:08:44.9936656+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.4264134+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:01:19.6337052+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:10:59.1005245+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:59:33.1557851+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:08:44.9937008+00:00"
 }

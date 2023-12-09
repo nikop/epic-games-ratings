@@ -5,15 +5,15 @@ Rating: 4.39 (Ranked 752)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~39,849 |
-| IT MAKES BOOM! | 7.00% | ~23,245 |
-| EXTRA BOOST | 5.00% | ~16,604 |
-| PROTECTED | 4.00% | ~13,283 |
-| PRO | 4.00% | ~13,283 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,962 |
-| AGGRESSIVE RACER | 3.00% | ~9,962 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,642 |
-| A TIGER'S FEAR | 2.00% | ~6,642 |
+| ROOKIE | 12.00% | ~39,856 |
+| IT MAKES BOOM! | 7.00% | ~23,249 |
+| EXTRA BOOST | 5.00% | ~16,607 |
+| PROTECTED | 4.00% | ~13,285 |
+| PRO | 4.00% | ~13,285 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,964 |
+| AGGRESSIVE RACER | 3.00% | ~9,964 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,643 |
+| A TIGER'S FEAR | 2.00% | ~6,643 |
 | TRAINING HARD | 1.00% | ~3,321 |
 | BE OUR GUEST | 1.00% | ~3,321 |
 | ACE SPEEDSTER | 1.00% | ~3,321 |
@@ -23,15 +23,15 @@ Rating: 4.39 (Ranked 752)
 | LEGENDARY HERO | 0.90% | ~2,989 |
 | DEFEAT OUR CHAMPION | 0.80% | ~2,657 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,325 |
-| EXPERIENCED CREW | 0.60% | ~1,992 |
-| ACE BRAWLER | 0.50% | ~1,660 |
-| ACE DEFENDER | 0.50% | ~1,660 |
-| FRAMED! | 0.40% | ~1,328 |
-| ACE TRICKSTER | 0.40% | ~1,328 |
+| EXPERIENCED CREW | 0.60% | ~1,993 |
+| ACE BRAWLER | 0.50% | ~1,661 |
+| ACE DEFENDER | 0.50% | ~1,661 |
+| FRAMED! | 0.40% | ~1,329 |
+| ACE TRICKSTER | 0.40% | ~1,329 |
 | PERFECTLY POISED | 0.30% | ~996 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 332,078 (Ranked 50)  
-Completed: 528 (0.16%) (Ranked 271)  
+Progressed: 332,133 (Ranked 50)  
+Completed: 529 (0.16%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,7 +259,7 @@ Completed: 528 (0.16%) (Ranked 271)
 | 2023-12-06 | 329,171 | 498 |
 | 2023-12-07 | 330,196 | 508 |
 | 2023-12-08 | 331,482 | 521 |
-| 2023-12-09 | 332,078 | 528 |
+| 2023-12-09 | 332,133 | 529 |
 ## Awards
 Max (Great for Beginners): 117  (Ranked 347)  
 Sum: 815 (Ranked 282)  

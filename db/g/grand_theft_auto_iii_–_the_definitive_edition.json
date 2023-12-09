@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -547,9 +547,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8762,
+  "EOS_Progressed": 8763,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -11832,6 +11832,11 @@
       "Time": "2023-12-09T13:08:30.3538683+00:00",
       "NumProgressed": 8762,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-09T14:07:13.0224661+00:00",
+      "NumProgressed": 8763,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -11843,7 +11848,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7272
+      "UsersEstimate": 7273
     },
     {
       "ID": "ACH02",
@@ -11955,7 +11960,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH16",
@@ -12074,7 +12079,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8762,
+      "Progressed": 8763,
       "Completed": 60
     }
   ],
@@ -12082,8 +12087,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-04T13:04:00.769343+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:08:30.3538678+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:07:13.0224657+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:15.6257409+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:05:24.5337902+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:08:30.3539521+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:02:51.6693847+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:07:13.0225525+00:00"
 }

@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 943)  
+Rating: 4.19 (Ranked 933)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,11 +9,11 @@ Rating: 4.18 (Ranked 943)
 | Har, Har, Har, Very Funny | 34.00% | ~26,459 |
 | Loose Ends | 33.00% | ~25,681 |
 | To the Victor Go the Spoils | 28.00% | ~21,790 |
-| Knighthood | 27.00% | ~21,011 |
+| Knighthood | 27.00% | ~21,012 |
 | Get ReQ'd | 25.00% | ~19,455 |
 | Whispered Words | 24.00% | ~18,677 |
-| The Batman Family | 22.00% | ~17,120 |
-| Lock and Key | 22.00% | ~17,120 |
+| The Batman Family | 22.00% | ~17,121 |
+| Lock and Key | 22.00% | ~17,121 |
 | Something in the Clay | 21.00% | ~16,342 |
 | Quartzer Life Crisis | 20.00% | ~15,564 |
 | Working Hard or Harley Working? | 20.00% | ~15,564 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 943)
 | Snow Problem | 19.00% | ~14,786 |
 | The Show Mud Go On | 18.00% | ~14,008 |
 | From Inside Gotham's Walls | 18.00% | ~14,008 |
-| Protector of Gotham | 17.00% | ~13,229 |
+| Protector of Gotham | 17.00% | ~13,230 |
 | Universal Health Scare | 16.00% | ~12,451 |
 | In Your Element | 15.00% | ~11,673 |
 | Voiceless | 15.00% | ~11,673 |
@@ -31,9 +31,9 @@ Rating: 4.18 (Ranked 943)
 | Seeking Asylum | 14.00% | ~10,895 |
 | Not On My Watch | 13.00% | ~10,117 |
 | Shock Til They Drop | 13.00% | ~10,117 |
-| End of an Era | 12.00% | ~9,338 |
-| Bulldozed | 12.00% | ~9,338 |
-| Gotham Knight | 12.00% | ~9,338 |
+| End of an Era | 12.00% | ~9,339 |
+| Bulldozed | 12.00% | ~9,339 |
+| Gotham Knight | 12.00% | ~9,339 |
 | Gotham City Confidential | 11.00% | ~8,560 |
 | Drone You Out | 10.00% | ~7,782 |
 | Out of Their League | 9.00% | ~7,004 |
@@ -58,7 +58,7 @@ Rating: 4.18 (Ranked 943)
 | Gotham's Greatest Depths | 0.60% | ~289 |
 | Don't Mecha Big Deal About It | 0.60% | ~289 |
 | Confronting Your Demon | 0.60% | ~289 |
-| That's Showbiz, Clayby | 0.50% | ~240 |
+| That's Showbiz, Clayby | 0.50% | ~241 |
 | Hammer and Icicle | 0.40% | ~192 |
 | Renewable Enemy Source | 0.40% | ~192 |
 | Crime Is a Terrible Thing to Waste | 0.40% | ~192 |
@@ -67,8 +67,8 @@ Rating: 4.18 (Ranked 943)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,820 (Ranked 99)  
-Completed: 124 (0.16%) (Ranked 271)  
+Progressed: 77,821 (Ranked 99)  
+Completed: 124 (0.16%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -300,10 +300,10 @@ Completed: 124 (0.16%) (Ranked 271)
 | 2023-12-06 | 77,742 | 124 |
 | 2023-12-07 | 77,772 | 124 |
 | 2023-12-08 | 77,802 | 124 |
-| 2023-12-09 | 77,820 | 124 |
+| 2023-12-09 | 77,821 | 124 |
 ## Awards
 Max (Great Boss Battles): 3,001  (Ranked 98)  
-Sum: 5,124 (Ranked 140)  
+Sum: 5,126 (Ranked 140)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -314,8 +314,8 @@ Diff (max vs sum): -42
 | This game is Great for Beginners | 266 |
 | This game has Quickly Understood Controls | 265 |
 | This game has Amazing Characters | 263 |
+| This game has Amazing Storytelling | 263 |
 | This game is Highly Recommended | 263 |
-| This game has Amazing Storytelling | 261 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -607,4 +607,4 @@ Diff (max vs sum): -42
 | 2023-12-06 | 4.18 | 2,996 | 5,116 |
 | 2023-12-07 | 4.18 | 2,996 | 5,118 |
 | 2023-12-08 | 4.18 | 3,001 | 5,123 |
-| 2023-12-09 | 4.18 | 3,001 | 5,124 |
+| 2023-12-09 | 4.19 | 3,001 | 5,126 |

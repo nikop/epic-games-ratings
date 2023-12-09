@@ -7,7 +7,7 @@ Rating: 4.76 (Ranked 130)
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,660 |
 | First Class Student | 15.00% | ~45,619 |
-| Troll with the Punches | 14.00% | ~42,577 |
+| Troll with the Punches | 14.00% | ~42,578 |
 | A Keen Sense of Spell | 13.00% | ~39,536 |
 | That's a Keeper | 13.00% | ~39,536 |
 | The Hallowed Hero | 12.00% | ~36,495 |
@@ -19,17 +19,17 @@ Rating: 4.76 (Ranked 130)
 | The One Who Mastered Memories | 11.00% | ~33,454 |
 | The Hero of Hogwarts | 11.00% | ~33,454 |
 | Challenge Accepted | 11.00% | ~33,454 |
-| Followed the Butterflies | 10.00% | ~30,412 |
-| Rising From the Ashes | 10.00% | ~30,412 |
+| Followed the Butterflies | 10.00% | ~30,413 |
+| Rising From the Ashes | 10.00% | ~30,413 |
 | A Sallow Grave | 9.00% | ~27,371 |
 | The Spell Master | 9.00% | ~27,371 |
 | The Avenging Gazelle | 8.00% | ~24,330 |
 | Beast Friends | 8.00% | ~24,330 |
 | Flight the Good Flight | 8.00% | ~24,330 |
 | Raising Expectations | 7.00% | ~21,289 |
-| The Seeker of Knowledge | 6.00% | ~18,247 |
-| The Root of the Problem | 6.00% | ~18,247 |
-| Third Time's a Charm | 6.00% | ~18,247 |
+| The Seeker of Knowledge | 6.00% | ~18,248 |
+| The Root of the Problem | 6.00% | ~18,248 |
+| Third Time's a Charm | 6.00% | ~18,248 |
 | The Toast of the Town | 5.00% | ~15,206 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,206 |
 | The Ends Petrify the Means | 5.00% | ~15,206 |
@@ -40,18 +40,18 @@ Rating: 4.76 (Ranked 130)
 | Put Down Roots | 3.00% | ~9,124 |
 | The Auror's Apprentice | 3.00% | ~9,124 |
 | Floo Around the World | 3.00% | ~9,124 |
-| The Good Samaritan | 2.00% | ~6,082 |
-| Savvy Spender | 2.00% | ~6,082 |
-| Rise to the Challenges | 2.00% | ~6,082 |
-| Demiguise Dread | 2.00% | ~6,082 |
-| Finishing Touches | 2.00% | ~6,082 |
-| A Forte for Achievement | 2.00% | ~6,082 |
+| The Good Samaritan | 2.00% | ~6,083 |
+| Savvy Spender | 2.00% | ~6,083 |
+| Rise to the Challenges | 2.00% | ~6,083 |
+| Demiguise Dread | 2.00% | ~6,083 |
+| Finishing Touches | 2.00% | ~6,083 |
+| A Forte for Achievement | 2.00% | ~6,083 |
 | Merlin's Beard! | 1.00% | ~3,041 |
 | Spilled Milk | 0.90% | ~2,737 |
 | The Nature of the Beast | 0.70% | ~2,129 |
-| Collector's Edition | 0.40% | ~1,216 |
+| Collector's Edition | 0.40% | ~1,217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,124 (Ranked 54)  
+Progressed: 304,126 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,10 +284,10 @@ Completed: 525 (0.17%) (Ranked 269)
 | 2023-12-06 | 304,019 | 523 |
 | 2023-12-07 | 304,059 | 525 |
 | 2023-12-08 | 304,099 | 525 |
-| 2023-12-09 | 304,124 | 525 |
+| 2023-12-09 | 304,126 | 525 |
 ## Awards
 Max (Character Customization): 25,052  (Ranked 17)  
-Sum: 50,281 (Ranked 30)  
+Sum: 50,284 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -298,7 +298,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 1,344 |
 | This game is Extremely Fun | 1,313 |
 | This game is Relaxing | 1,306 |
-| This game has Amazing Characters | 1,273 |
+| This game has Amazing Characters | 1,276 |
 | This game is Highly Recommended | 1,250 |
 | This game has Quickly Understood Controls | 1,211 |
 | This game has Beautiful Visuals | 1,090 |
@@ -566,4 +566,4 @@ Diff (max vs sum): -13
 | 2023-12-06 | 4.76 | 24,977 | 50,057 |
 | 2023-12-07 | 4.76 | 25,000 | 50,137 |
 | 2023-12-08 | 4.76 | 25,029 | 50,225 |
-| 2023-12-09 | 4.76 | 25,052 | 50,281 |
+| 2023-12-09 | 4.76 | 25,052 | 50,284 |

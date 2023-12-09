@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4389,
+  "EOS_Progressed": 4390,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -11160,6 +11160,11 @@
       "Time": "2023-12-09T09:03:43.6808229+00:00",
       "NumProgressed": 4389,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-09T14:04:52.0994396+00:00",
+      "NumProgressed": 4390,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -11171,7 +11176,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -11219,7 +11224,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "ach_bomb",
@@ -11235,7 +11240,7 @@
       "Name": "Color flood",
       "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "ach_first_picture",
@@ -11243,7 +11248,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3555
+      "UsersEstimate": 3556
     },
     {
       "ID": "ach_food_completed",
@@ -11298,7 +11303,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4389,
+      "Progressed": 4390,
       "Completed": 36
     }
   ],
@@ -11306,8 +11311,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:06:47.9868838+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:04:52.0994392+00:00",
   "LastUpdate_AppInfo": "2023-12-08T21:57:02.7814373+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:00:31.5897599+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:06:47.9869474+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:58:22.2910953+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:04:52.0995004+00:00"
 }

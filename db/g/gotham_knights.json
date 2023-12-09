@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 943,
+  "Ranking_Rating": 933,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.18,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2022-10-22T01:00:47.4981426+00:00",
@@ -4515,10 +4515,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 5124,
       "NumberOfAwardsMax": 3001
+    },
+    {
+      "Time": "2023-12-09T14:01:48.1680349+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5126,
+      "NumberOfAwardsMax": 3001
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5124,
+  "NumberOfAwards": 5126,
   "NumberOfAwardsMax": 3001,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4550,7 +4556,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 261
+      "Count": 263
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4583,9 +4589,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77820,
+  "EOS_Progressed": 77821,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25458,6 +25464,11 @@
       "Time": "2023-12-09T13:07:48.7072218+00:00",
       "NumProgressed": 77820,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-09T14:06:16.2077376+00:00",
+      "NumProgressed": 77821,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25517,7 +25528,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17120
+      "UsersEstimate": 17121
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -25549,7 +25560,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9338
+      "UsersEstimate": 9339
     },
     {
       "ID": "APPLY_STATUS",
@@ -25565,7 +25576,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13229
+      "UsersEstimate": 13230
     },
     {
       "ID": "CLAYFACE_1",
@@ -25597,7 +25608,7 @@
       "Name": "That\u0027s Showbiz, Clayby",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "CRAFTING_LEGENDARY_SET",
@@ -25645,7 +25656,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9338
+      "UsersEstimate": 9339
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -25845,7 +25856,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 21011
+      "UsersEstimate": 21012
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -25877,7 +25888,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17120
+      "UsersEstimate": 17121
     },
     {
       "ID": "MYSTERY_04",
@@ -25917,7 +25928,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9338
+      "UsersEstimate": 9339
     },
     {
       "ID": "SECRET_CACHE",
@@ -25956,22 +25967,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77820,
+      "Progressed": 77821,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48100,
+      "Progressed": 48101,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-12-09T09:59:54.9197904+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:07:48.7072215+00:00",
+  "LastChanged": "2023-12-09T14:01:48.1680348+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:06:16.2077373+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:02:50.6932466+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:07:48.7073476+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:01:48.1680353+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:06:16.2078964+00:00"
 }

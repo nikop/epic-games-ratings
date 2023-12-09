@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1309,9 +1309,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259174,
+  "EOS_Progressed": 259176,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23644,6 +23644,11 @@
       "Time": "2023-12-09T13:10:40.1165032+00:00",
       "NumProgressed": 259174,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-09T14:08:19.0330822+00:00",
+      "NumProgressed": 259176,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -23695,7 +23700,7 @@
       "Name": "By a hair",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "BackHomeFirstTime",
@@ -23703,7 +23708,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80344
+      "UsersEstimate": 80345
     },
     {
       "ID": "BackHomeNTimes",
@@ -23759,7 +23764,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25917
+      "UsersEstimate": 25918
     },
     {
       "ID": "CreditLevel2",
@@ -23855,7 +23860,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15550
+      "UsersEstimate": 15551
     },
     {
       "ID": "GrowPlants2",
@@ -23895,7 +23900,7 @@
       "Name": "It took a while",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -23911,7 +23916,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15550
+      "UsersEstimate": 15551
     },
     {
       "ID": "KillOtherWithKatana",
@@ -23919,7 +23924,7 @@
       "Name": "Samurai",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "KillOtherWithLowHealth",
@@ -23935,7 +23940,7 @@
       "Name": "I Left You a Present",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "KillOthers1",
@@ -23951,7 +23956,7 @@
       "Name": "Predator II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "KillOthers3",
@@ -23967,7 +23972,7 @@
       "Name": "Truffle Dog",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "KillVengefulThingWithMeleeAndSurvive",
@@ -23975,7 +23980,7 @@
       "Name": "Don\u0027t try this at home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "MaxImagoLevel",
@@ -24047,7 +24052,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25917
+      "UsersEstimate": 25918
     },
     {
       "ID": "ReachNDays2",
@@ -24055,7 +24060,7 @@
       "Name": "A month in Century City",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "ReachNDays3",
@@ -24102,7 +24107,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259174,
+      "Progressed": 259176,
       "Completed": 3
     }
   ],
@@ -24110,8 +24115,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-08T13:02:45.6518515+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:10:40.1165028+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:08:19.0330819+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:43.7496821+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:01:01.6072575+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:10:40.1166249+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:59:06.4394321+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:08:19.0331927+00:00"
 }

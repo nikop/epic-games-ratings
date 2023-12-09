@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.80% | ~1,912 |
+| A Brief Tour of the Realms | 0.80% | ~1,913 |
+| The Cursed Farmer | 0.40% | ~956 |
 | Beast Intentions | 0.30% | ~717 |
-| The Cursed Farmer | 0.30% | ~717 |
 | The Mad Wizard | 0.30% | ~717 |
 | Were-verpowered | 0.20% | ~478 |
 | The Ring of Regeneration | 0.20% | ~478 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~205 |
 | See You on the Flipside | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,062 (Ranked 65)  
+Progressed: 239,068 (Ranked 65)  
 Completed: 2,508 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -772,7 +772,7 @@ Completed: 2,508 (1.05%) (Ranked 167)
 | 2023-12-06 | 238,666 | 2,502 |
 | 2023-12-07 | 238,772 | 2,504 |
 | 2023-12-08 | 238,975 | 2,506 |
-| 2023-12-09 | 239,062 | 2,508 |
+| 2023-12-09 | 239,068 | 2,508 |
 ## Awards
 Max (Great for Beginners): 5,606  (Ranked 70)  
 Sum: 32,788 (Ranked 41)  

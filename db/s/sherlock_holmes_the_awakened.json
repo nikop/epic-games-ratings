@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 964,
+  "EOS_Progressed": 965,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.9,
   "EosHistory": [
@@ -3519,6 +3519,11 @@
       "Time": "2023-12-09T13:08:08.9382741+00:00",
       "NumProgressed": 964,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-09T14:06:43.7677136+00:00",
+      "NumProgressed": 965,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 28,
@@ -3530,15 +3535,15 @@
       "Name": "Read Between The Lines",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 607
+      "UsersEstimate": 618
     },
     {
       "ID": "MQ02_1",
@@ -3602,7 +3607,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "MQ03_5",
@@ -3610,7 +3615,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "MQ04_1",
@@ -3626,7 +3631,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "MQ04_3",
@@ -3634,7 +3639,7 @@
       "Name": "The New World",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "MQ05_1",
@@ -3656,9 +3661,9 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 434
+      "UsersEstimate": 425
     },
     {
       "ID": "MQ05_4",
@@ -3666,7 +3671,7 @@
       "Name": "Knives Out",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "MQ06_1",
@@ -3674,7 +3679,7 @@
       "Name": "Brain Food",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "MQ06_2",
@@ -3690,7 +3695,7 @@
       "Name": "Land, Ho!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "MQ06_4",
@@ -3738,7 +3743,7 @@
       "Name": "Fhtagn!",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "PLTN",
@@ -3753,7 +3758,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 964,
+      "Progressed": 965,
       "Completed": 28
     }
   ],
@@ -3761,8 +3766,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-26T10:02:59.0802972+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:08:08.9382734+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:06:43.7677132+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:20.5690478+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:05:35.7886293+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:08:08.9383533+00:00"
+  "LastUpdate_Ratings": "2023-12-09T14:03:08.0759398+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:06:43.7677468+00:00"
 }

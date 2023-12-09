@@ -1,15 +1,15 @@
 # Ooblets
 [Store](https://store.epicgames.com/en-US/p/ooblets)  
 [View Rawdata](../../db/o/ooblets.json)  
-Rating: 4.88 (Ranked 16)  
+Rating: 4.88 (Ranked 17)  
 Number of Ratings: 1,446  (23.09.2022)  
 ## Awards
-Max (Character Customization): 1,047  (Ranked 151)  
-Sum: 1,912 (Ranked 219)  
+Max (Character Customization): 1,048  (Ranked 151)  
+Sum: 1,913 (Ranked 219)  
 Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,047 |
+| This game has Inclusive Character Customization | 1,048 |
 | This game is Great for Beginners | 90 |
 | This game has Amazing Storytelling | 90 |
 | This game is Relaxing | 83 |
@@ -180,4 +180,4 @@ Diff (max vs sum): -68
 | 2023-11-25 | 4.88 | - | 1,046 | 1,907 |
 | 2023-12-01 | 4.88 | - | 1,046 | 1,908 |
 | 2023-12-02 | 4.88 | - | 1,047 | 1,910 |
-| 2023-12-09 | 4.88 | - | 1,047 | 1,912 |
+| 2023-12-09 | 4.88 | - | 1,048 | 1,913 |

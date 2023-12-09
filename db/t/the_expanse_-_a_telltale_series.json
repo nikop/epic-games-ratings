@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16000,
+  "EOS_Progressed": 16003,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13414,6 +13414,11 @@
       "Time": "2023-12-09T13:06:51.8902081+00:00",
       "NumProgressed": 16000,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-09T14:04:57.3156615+00:00",
+      "NumProgressed": 16003,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13424,9 +13429,9 @@
       "ID": "1",
       "SetID": "458bbdk",
       "Name": "Urshanabi Hoarder",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 96
     },
     {
       "ID": "10",
@@ -13456,9 +13461,9 @@
       "ID": "13",
       "SetID": "458bbdk",
       "Name": "Oyedang, Kopengs",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1920
+      "UsersEstimate": 2080
     },
     {
       "ID": "14",
@@ -13705,13 +13710,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16000,
+      "Progressed": 16003,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1954,
+      "Progressed": 1957,
       "Completed": 846
     }
   ],
@@ -13719,8 +13724,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-07T17:57:36.8969362+00:00",
-  "LastChanged_Achievements": "2023-12-09T13:06:51.8902078+00:00",
+  "LastChanged_Achievements": "2023-12-09T14:04:57.3156611+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-09T13:01:06.649346+00:00",
-  "LastUpdate_Achievements": "2023-12-09T13:06:51.890292+00:00"
+  "LastUpdate_Ratings": "2023-12-09T13:59:13.8441004+00:00",
+  "LastUpdate_Achievements": "2023-12-09T14:04:57.3157657+00:00"
 }

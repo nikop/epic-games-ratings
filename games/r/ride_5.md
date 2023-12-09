@@ -18,7 +18,7 @@
 | Quick Pit Stop | 19.00% | ~455 |
 | Go-Faster Stripes | 18.00% | ~431 |
 | I'm Here Too! | 16.00% | ~383 |
-| We've Just Begun | 11.00% | ~263 |
+| We've Just Begun | 11.00% | ~264 |
 | Stamina Star | 9.00% | ~216 |
 | Is It the Right Size? | 8.00% | ~192 |
 | Evangelist | 6.00% | ~144 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,395 (Ranked 218)  
+Progressed: 2,396 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,4 +153,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 2,359 | 0 |
 | 2023-12-07 | 2,378 | 0 |
 | 2023-12-08 | 2,386 | 0 |
-| 2023-12-09 | 2,395 | 0 |
+| 2023-12-09 | 2,396 | 0 |
