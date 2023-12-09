@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 22.92% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 22.91% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -111,8 +111,8 @@
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 110 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 110 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.93% |
-| 112 | [Night Book](games/n/night_book.md) | 2.79% |
-| 113 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
+| 112 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
+| 112 | [Night Book](games/n/night_book.md) | 2.78% |
 | 114 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 115 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
 | 115 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
@@ -170,8 +170,8 @@
 | 168 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |
 | 169 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
 | 170 | [Sable](games/s/sable.md) | 1.01% |
-| 171 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.96% |
 | 171 | [Trifox](games/t/trifox.md) | 0.96% |
+| 172 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.95% |
 | 173 | [A Musical Story](games/a/a_musical_story.md) | 0.93% |
 | 173 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
 | 175 | [Hades](games/h/hades.md) | 0.91% |
@@ -187,8 +187,8 @@
 | 184 | [Infindustry](games/i/infindustry.md) | 0.79% |
 | 186 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 187 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.72% |
-| 188 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.69% |
 | 188 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
+| 189 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.68% |
 | 190 | [Haven](games/h/haven.md) | 0.64% |
 | 191 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.63% |
 | 192 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.60% |
