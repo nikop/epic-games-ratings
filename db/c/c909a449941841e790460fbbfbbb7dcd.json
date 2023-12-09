@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 194,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.15,
+  "EOS_Completed_Percentage": 4.12,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -859,6 +859,11 @@
       "Time": "2023-12-08T02:29:20.3314132+00:00",
       "NumProgressed": 193,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-09T11:07:29.5535666+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -877,9 +882,9 @@
       "ID": "BUY_LASER_BEAM_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Laser Beam",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 116
+      "UsersEstimate": 114
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -893,9 +898,9 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 116
+      "UsersEstimate": 114
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -903,7 +908,7 @@
       "Name": "Murderer",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -911,7 +916,7 @@
       "Name": "Killer",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -919,7 +924,7 @@
       "Name": "Exterminator",
       "Percentage": 8,
       "XP": 110,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "NEW_ACHIEVEMENT_0_0",
@@ -935,7 +940,7 @@
       "Name": "Badlands is safe!",
       "Percentage": 36,
       "XP": 60,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -949,9 +954,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -981,39 +986,39 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 60,
-      "UsersEstimate": 95
+      "UsersEstimate": 93
     },
     {
       "ID": "REACH_LEVEL_15",
       "SetID": "14g34pl",
       "Name": "Robust",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 110,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 157
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 194,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-12-09T10:05:52.9533553+00:00",
+  "LastChanged_Achievements": "2023-12-09T11:07:29.5535661+00:00",
   "LastUpdate_AppInfo": "2023-12-05T21:56:58.7214458+00:00",
-  "LastUpdate_Ratings": "2023-12-09T09:59:39.0016703+00:00",
-  "LastUpdate_Achievements": "2023-12-09T10:05:52.9533671+00:00"
+  "LastUpdate_Ratings": "2023-12-09T11:01:24.7290598+00:00",
+  "LastUpdate_Achievements": "2023-12-09T11:07:29.5535793+00:00"
 }

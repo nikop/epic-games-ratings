@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "ID": "dont_breath",
       "SetID": "3j2phem",
       "Name": "Don\u0027t Breathe",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "easy_listening",
@@ -763,8 +763,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-09T10:04:43.1089978+00:00",
+  "LastChanged_Achievements": "2023-12-09T11:05:51.122633+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:59.5232654+00:00",
-  "LastUpdate_Ratings": "2023-12-09T09:59:49.7825665+00:00",
-  "LastUpdate_Achievements": "2023-12-09T10:04:43.1090211+00:00"
+  "LastUpdate_Ratings": "2023-12-09T11:01:40.8509436+00:00",
+  "LastUpdate_Achievements": "2023-12-09T11:05:51.1226612+00:00"
 }

@@ -3377,9 +3377,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17748,
+  "EOS_Progressed": 17750,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15092,6 +15092,11 @@
       "Time": "2023-12-09T10:04:34.3616142+00:00",
       "NumProgressed": 17748,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-09T11:05:38.7006405+00:00",
+      "NumProgressed": 17750,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15104,7 +15109,7 @@
       "Name": "Serving Ale",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "AllFood",
@@ -15208,7 +15213,7 @@
       "Name": "Against All Odds",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WinNearArmory",
@@ -15232,7 +15237,7 @@
       "Name": "Barren Lands",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WinNearBattleground",
@@ -15256,7 +15261,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WinNearFertile",
@@ -15272,7 +15277,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WinNearForbidden",
@@ -15288,7 +15293,7 @@
       "Name": "Haunted Forest",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WinNearLevitating",
@@ -15304,7 +15309,7 @@
       "Name": "Flooded Mines",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WinNearMonastery",
@@ -15344,7 +15349,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WinNearTorrent",
@@ -15448,7 +15453,7 @@
       "Name": "Victory Through Prosperity",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WinWithRuins",
@@ -15488,7 +15493,7 @@
       "Name": "Defying the Crown",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Year1Dangerous",
@@ -15496,7 +15501,7 @@
       "Name": "Into the Forest",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WinNearAbandoned",
@@ -15558,9 +15563,9 @@
       "ID": "WinNearUntamedWilds",
       "SetID": "cfbk359",
       "Name": "Untamed Wilds",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 355
     },
     {
       "ID": "WinWithFoxes",
@@ -15575,15 +15580,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17748,
+      "Progressed": 17750,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-08T19:00:22.4048457+00:00",
-  "LastChanged_Achievements": "2023-12-09T10:04:34.361614+00:00",
+  "LastChanged_Achievements": "2023-12-09T11:05:38.7006401+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
   "LastUpdate_Ratings": "2023-12-09T10:02:23.0119981+00:00",
-  "LastUpdate_Achievements": "2023-12-09T10:04:34.3617016+00:00"
+  "LastUpdate_Achievements": "2023-12-09T11:05:38.7007406+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1115,9 +1115,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 168
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1211,9 +1211,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 134
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1243,9 +1243,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 187
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1266,8 +1266,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-09T10:03:51.263593+00:00",
+  "LastChanged_Achievements": "2023-12-09T11:04:37.4916905+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:02.2533693+00:00",
-  "LastUpdate_Ratings": "2023-12-09T10:02:55.5648293+00:00",
-  "LastUpdate_Achievements": "2023-12-09T10:03:51.2636306+00:00"
+  "LastUpdate_Ratings": "2023-12-09T11:03:15.1616453+00:00",
+  "LastUpdate_Achievements": "2023-12-09T11:04:37.4917122+00:00"
 }

@@ -2496,7 +2496,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44094,
+  "EOS_Progressed": 44095,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -9671,6 +9671,11 @@
       "Time": "2023-12-08T21:04:15.4950118+00:00",
       "NumProgressed": 44094,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-09T11:04:46.2296291+00:00",
+      "NumProgressed": 44095,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9682,7 +9687,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27338
+      "UsersEstimate": 27339
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -9738,7 +9743,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12346
+      "UsersEstimate": 12347
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -9762,7 +9767,7 @@
       "Name": "Damnedbusters",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "SE_COMPLETE_DEAD_ZEPPELIN",
@@ -9874,7 +9879,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27779
+      "UsersEstimate": 27780
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -9898,7 +9903,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19401
+      "UsersEstimate": 19402
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -9930,7 +9935,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21606
+      "UsersEstimate": 21607
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -9978,7 +9983,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18519
+      "UsersEstimate": 18520
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -10010,7 +10015,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30425
+      "UsersEstimate": 30426
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -10034,7 +10039,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20724
+      "UsersEstimate": 20725
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -10050,7 +10055,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20724
+      "UsersEstimate": 20725
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -10066,7 +10071,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11905
+      "UsersEstimate": 11906
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -10074,7 +10079,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19842
+      "UsersEstimate": 19843
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -10082,7 +10087,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29102
+      "UsersEstimate": 29103
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -10138,7 +10143,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29102
+      "UsersEstimate": 29103
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -10209,15 +10214,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44094,
+      "Progressed": 44095,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-07T20:57:22.8750003+00:00",
-  "LastChanged_Achievements": "2023-12-09T10:03:57.4059588+00:00",
+  "LastChanged_Achievements": "2023-12-09T11:04:46.2296287+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:42.1034931+00:00",
-  "LastUpdate_Ratings": "2023-12-09T09:57:53.7565425+00:00",
-  "LastUpdate_Achievements": "2023-12-09T10:03:57.4060544+00:00"
+  "LastUpdate_Ratings": "2023-12-09T10:58:44.2573504+00:00",
+  "LastUpdate_Achievements": "2023-12-09T11:04:46.2297191+00:00"
 }

@@ -13,7 +13,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 2.00% | ~355 |
 | Ominous Presence | 2.00% | ~355 |
 | Gathering Storm | 2.00% | ~355 |
-| Untamed Wilds | 1.00% | ~177 |
+| Untamed Wilds | 2.00% | ~355 |
 | The Marshlands | 0.70% | ~124 |
 | No Deaths | 0.70% | ~124 |
 | Overcoming Difficulty | 0.60% | ~106 |
@@ -38,17 +38,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 0.30% | ~53 |
 | Trade Baron | 0.30% | ~53 |
 | Fox Utopia | 0.30% | ~53 |
-| Serving Ale | 0.20% | ~35 |
-| Against All Odds | 0.20% | ~35 |
-| Barren Lands | 0.20% | ~35 |
-| Dangerous Lands | 0.20% | ~35 |
-| Fishmen Ritual Site | 0.20% | ~35 |
-| Haunted Forest | 0.20% | ~35 |
-| Flooded Mines | 0.20% | ~35 |
-| Forsaken Gods Temple | 0.20% | ~35 |
-| Victory Through Prosperity | 0.20% | ~35 |
-| Defying the Crown | 0.20% | ~35 |
-| Into the Forest | 0.20% | ~35 |
+| Serving Ale | 0.20% | ~36 |
+| Against All Odds | 0.20% | ~36 |
+| Barren Lands | 0.20% | ~36 |
+| Dangerous Lands | 0.20% | ~36 |
+| Fishmen Ritual Site | 0.20% | ~36 |
+| Haunted Forest | 0.20% | ~36 |
+| Flooded Mines | 0.20% | ~36 |
+| Forsaken Gods Temple | 0.20% | ~36 |
+| Victory Through Prosperity | 0.20% | ~36 |
+| Defying the Crown | 0.20% | ~36 |
+| Into the Forest | 0.20% | ~36 |
 | Feeding The People | 0.10% | ~18 |
 | Higher Needs | 0.10% | ~18 |
 | Beaver Utopia | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,748 (Ranked 146)  
+Progressed: 17,750 (Ranked 146)  
 Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 43 (0.24%) (Ranked 251)
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
-| 2023-12-09 | 17,748 | 43 |
+| 2023-12-09 | 17,750 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,245 (Ranked 174)  

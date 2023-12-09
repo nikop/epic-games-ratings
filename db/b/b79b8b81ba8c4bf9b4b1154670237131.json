@@ -119,9 +119,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14725,
+  "EOS_Progressed": 14726,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 718,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3029,6 +3029,11 @@
       "Time": "2023-12-09T10:08:50.3243617+00:00",
       "NumProgressed": 14725,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-09T11:09:18.1078817+00:00",
+      "NumProgressed": 14726,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -3137,7 +3142,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "ACH_AE_21",
@@ -3145,7 +3150,7 @@
       "Name": "Foodie",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_AE_22",
@@ -3193,7 +3198,7 @@
       "Name": "Trust Fall",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_AE_28",
@@ -3225,7 +3230,7 @@
       "Name": "Just Friends",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_AE_31",
@@ -3233,7 +3238,7 @@
       "Name": "Jailbreaker",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_AE_32",
@@ -3257,7 +3262,7 @@
       "Name": "People Person",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_AE_35",
@@ -3265,7 +3270,7 @@
       "Name": "Invincible",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_AE_4",
@@ -3289,7 +3294,7 @@
       "Name": "Betrayal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "ACH_AE_7",
@@ -3305,7 +3310,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "ACH_AE_9",
@@ -3313,14 +3318,14 @@
       "Name": "Paradise Lost",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 14725,
+      "Progressed": 14726,
       "Completed": 15
     }
   ],
@@ -3328,8 +3333,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-08T16:00:18.4742277+00:00",
-  "LastChanged_Achievements": "2023-12-09T10:08:50.3243615+00:00",
+  "LastChanged_Achievements": "2023-12-09T11:09:18.1078813+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.7146917+00:00",
-  "LastUpdate_Ratings": "2023-12-09T10:02:20.5745732+00:00",
-  "LastUpdate_Achievements": "2023-12-09T10:08:50.3243981+00:00"
+  "LastUpdate_Ratings": "2023-12-09T11:01:54.5110309+00:00",
+  "LastUpdate_Achievements": "2023-12-09T11:09:18.1079188+00:00"
 }

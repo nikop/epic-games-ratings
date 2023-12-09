@@ -1,28 +1,28 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 186)  
+Rating: 4.72 (Ranked 187)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~18,143 |
-| Sword Runner | 61.00% | ~14,563 |
-| Running out of breath | 54.00% | ~12,891 |
-| Wallrunner | 53.00% | ~12,653 |
-| Homerunner | 45.00% | ~10,743 |
-| Out of order | 44.00% | ~10,504 |
-| I call it luck | 43.00% | ~10,265 |
-| Where are my Keys? | 40.00% | ~9,549 |
-| Back to hell | 37.00% | ~8,833 |
-| Perfection | 32.00% | ~7,639 |
+| Longrunner | 76.00% | ~18,145 |
+| Sword Runner | 61.00% | ~14,564 |
+| Running out of breath | 54.00% | ~12,892 |
+| Wallrunner | 53.00% | ~12,654 |
+| Homerunner | 45.00% | ~10,744 |
+| Out of order | 44.00% | ~10,505 |
+| I call it luck | 43.00% | ~10,266 |
+| Where are my Keys? | 40.00% | ~9,550 |
+| Back to hell | 37.00% | ~8,834 |
+| Perfection | 32.00% | ~7,640 |
 | Why not both | 30.00% | ~7,162 |
-| Sword to a gunfight | 29.00% | ~6,923 |
-| Upgrades not mandatory | 29.00% | ~6,923 |
-| Artificial selection | 28.00% | ~6,684 |
+| Sword to a gunfight | 29.00% | ~6,924 |
+| Upgrades not mandatory | 29.00% | ~6,924 |
+| Artificial selection | 28.00% | ~6,685 |
 | Control freak | 27.00% | ~6,446 |
-| Finish line | 26.00% | ~6,207 |
-| Running Wild | 26.00% | ~6,207 |
+| Finish line | 26.00% | ~6,208 |
+| Running Wild | 26.00% | ~6,208 |
 | Unstoppable force | 22.00% | ~5,252 |
 | Wave of mutilation | 22.00% | ~5,252 |
 | Can't Run Can't Hide | 16.00% | ~3,820 |
@@ -41,18 +41,18 @@ Number of Ratings: 1,047  (23.09.2022)
 | About Adam | 3.00% | ~716 |
 | Just A Man | 3.00% | ~716 |
 | Strafing Run | 3.00% | ~716 |
-| Junkrunner | 2.00% | ~477 |
-| One man's trash | 2.00% | ~477 |
+| Junkrunner | 2.00% | ~478 |
+| One man's trash | 2.00% | ~478 |
 | Hit me if you can | 1.00% | ~239 |
 | Obedient Machine | 0.90% | ~215 |
 | Everyone Needs A Hobby | 0.70% | ~167 |
 | Legacy Drivers | 0.50% | ~119 |
-| A Grade | 0.40% | ~95 |
-| GR Project Complete | 0.40% | ~95 |
-| Sticks And Stones | 0.40% | ~95 |
-| Up Close And Personal | 0.40% | ~95 |
+| A Grade | 0.40% | ~96 |
+| GR Project Complete | 0.40% | ~96 |
+| Sticks And Stones | 0.40% | ~96 |
+| Up Close And Personal | 0.40% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,873 (Ranked 137)  
+Progressed: 23,875 (Ranked 137)  
 Completed: 93 (0.39%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 93 (0.39%) (Ranked 227)
 | 2023-12-06 | 23,765 | 93 |
 | 2023-12-07 | 23,805 | 93 |
 | 2023-12-08 | 23,851 | 93 |
-| 2023-12-09 | 23,873 | 93 |
+| 2023-12-09 | 23,875 | 93 |
 ## Awards
 Max (Great Boss Battles): 524  (Ranked 210)  
 Sum: 757 (Ranked 288)  

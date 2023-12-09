@@ -2,7 +2,7 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 597,
+  "Ranking_Rating": 596,
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 41,
@@ -655,7 +655,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471979,
+  "EOS_Progressed": 471980,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
@@ -24790,6 +24790,11 @@
       "Time": "2023-12-09T10:09:38.7400956+00:00",
       "NumProgressed": 471979,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-09T11:10:25.9178092+00:00",
+      "NumProgressed": 471980,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24825,7 +24830,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103835
+      "UsersEstimate": 103836
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -24889,7 +24894,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311506
+      "UsersEstimate": 311507
     },
     {
       "ID": "achievement_story_landa",
@@ -25249,7 +25254,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56637
+      "UsersEstimate": 56638
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -25313,7 +25318,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103835
+      "UsersEstimate": 103836
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -25432,21 +25437,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15913,
+      "Progressed": 15914,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471979,
+      "Progressed": 471980,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-06T08:57:12.0332693+00:00",
-  "LastChanged_Achievements": "2023-12-09T10:09:38.7400954+00:00",
+  "LastChanged_Achievements": "2023-12-09T11:10:25.9178089+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.9078654+00:00",
-  "LastUpdate_Ratings": "2023-12-09T09:58:36.5112987+00:00",
-  "LastUpdate_Achievements": "2023-12-09T10:09:38.7402333+00:00"
+  "LastUpdate_Ratings": "2023-12-09T10:59:50.3356824+00:00",
+  "LastUpdate_Achievements": "2023-12-09T11:10:25.9180325+00:00"
 }

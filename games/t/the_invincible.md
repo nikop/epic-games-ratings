@@ -22,12 +22,12 @@
 | Fierce fight | 15.00% | ~80 |
 | Flying Objects Operator | 14.00% | ~74 |
 | I remember everything! | 13.00% | ~69 |
-| Another giant | 10.00% | ~53 |
+| Another giant | 11.00% | ~59 |
 | Violent solution | 9.00% | ~48 |
 | Innate curiosity | 8.00% | ~43 |
 | The Invincible | 6.00% | ~32 |
 | I leave no man behind | 6.00% | ~32 |
-| Strong objection | 5.00% | ~27 |
+| Strong objection | 6.00% | ~32 |
 | Ubiquitous holes | 4.00% | ~21 |
 | Got lost again | 4.00% | ~21 |
 | I leave no man behind (no exceptions) | 2.00% | ~11 |

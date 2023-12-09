@@ -456,9 +456,9 @@
       "ID": "AC_COMBO_1",
       "SetID": "16i2akc",
       "Name": "Pack",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AC_COMBO_2",
@@ -520,9 +520,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -560,9 +560,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -687,8 +687,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-09T10:08:23.0521858+00:00",
+  "LastChanged_Achievements": "2023-12-09T11:08:39.2467938+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.4442779+00:00",
-  "LastUpdate_Ratings": "2023-12-09T09:57:57.8688891+00:00",
-  "LastUpdate_Achievements": "2023-12-09T10:08:23.0522126+00:00"
+  "LastUpdate_Ratings": "2023-12-09T10:58:50.2880163+00:00",
+  "LastUpdate_Achievements": "2023-12-09T11:08:39.2468231+00:00"
 }

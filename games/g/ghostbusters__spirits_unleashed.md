@@ -1,25 +1,25 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.51 (Ranked 575)  
+Rating: 4.51 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 9.00% | ~2,888 |
 | Advancement | 7.00% | ~2,246 |
 | Meticulously Efficient | 7.00% | ~2,246 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,604 |
-| Discovery | 5.00% | ~1,604 |
-| Fully Upgraded | 5.00% | ~1,604 |
-| Solo Capture | 5.00% | ~1,604 |
-| Swift Rift Removers | 5.00% | ~1,604 |
-| Teamwork | 5.00% | ~1,604 |
-| Clutch Capture | 4.00% | ~1,283 |
-| Cultured | 4.00% | ~1,283 |
-| Daily Dose | 4.00% | ~1,283 |
-| There you are! | 4.00% | ~1,283 |
-| Vaporous Expansion | 4.00% | ~1,283 |
-| Whoopsie | 4.00% | ~1,283 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,605 |
+| Discovery | 5.00% | ~1,605 |
+| Fully Upgraded | 5.00% | ~1,605 |
+| Solo Capture | 5.00% | ~1,605 |
+| Swift Rift Removers | 5.00% | ~1,605 |
+| Teamwork | 5.00% | ~1,605 |
+| Clutch Capture | 4.00% | ~1,284 |
+| Cultured | 4.00% | ~1,284 |
+| Daily Dose | 4.00% | ~1,284 |
+| There you are! | 4.00% | ~1,284 |
+| Vaporous Expansion | 4.00% | ~1,284 |
+| Whoopsie | 4.00% | ~1,284 |
 | Animated | 3.00% | ~963 |
 | We have the best insurance | 3.00% | ~963 |
 | Ectoplasmic Entity | 3.00% | ~963 |
@@ -57,7 +57,7 @@ Rating: 4.51 (Ranked 575)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,086 (Ranked 124)  
+Progressed: 32,091 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,10 +290,10 @@ Completed: 69 (0.22%) (Ranked 256)
 | 2023-12-06 | 32,004 | 69 |
 | 2023-12-07 | 32,036 | 69 |
 | 2023-12-08 | 32,068 | 69 |
-| 2023-12-09 | 32,086 | 69 |
+| 2023-12-09 | 32,091 | 69 |
 ## Awards
 Max (Great for Beginners): 321  (Ranked 251)  
-Sum: 2,888 (Ranked 180)  
+Sum: 2,889 (Ranked 180)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -306,7 +306,7 @@ Diff (max vs sum): 71
 | This game is Extremely Fun | 280 |
 | This game is Relaxing | 280 |
 | This game has Amazing Characters | 270 |
-| This game has Quickly Understood Controls | 266 |
+| This game has Quickly Understood Controls | 267 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -546,3 +546,4 @@ Diff (max vs sum): 71
 | 2023-12-06 | 4.51 | 320 | 2,883 |
 | 2023-12-07 | 4.51 | 320 | 2,885 |
 | 2023-12-08 | 4.51 | 321 | 2,888 |
+| 2023-12-09 | 4.51 | 321 | 2,889 |

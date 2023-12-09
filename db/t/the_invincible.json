@@ -1633,9 +1633,9 @@
       "ID": "AchvInvShip",
       "SetID": "1hj060c",
       "Name": "Another giant",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "AchvKrautaAlive",
@@ -1705,9 +1705,9 @@
       "ID": "AchvPutAsleep",
       "SetID": "1hj060c",
       "Name": "Strong objection",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "AchvReachBase",
@@ -1784,8 +1784,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-09T10:08:54.1527959+00:00",
+  "LastChanged_Achievements": "2023-12-09T11:09:23.354437+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-09T09:59:52.5588684+00:00",
-  "LastUpdate_Achievements": "2023-12-09T10:08:54.1528138+00:00"
+  "LastUpdate_Ratings": "2023-12-09T11:01:44.9736278+00:00",
+  "LastUpdate_Achievements": "2023-12-09T11:09:23.3544718+00:00"
 }

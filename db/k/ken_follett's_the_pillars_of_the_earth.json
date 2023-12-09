@@ -2,12 +2,12 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 575,
+  "Ranking_Rating": 574,
   "Ranking_Popularity": 318,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16917,
+  "EOS_Progressed": 16918,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15703,6 +15703,11 @@
       "Time": "2023-12-09T10:03:33.3812519+00:00",
       "NumProgressed": 16917,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-09T11:04:12.4829916+00:00",
+      "NumProgressed": 16918,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15770,7 +15775,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "tpote_achievement_17",
@@ -15826,7 +15831,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3383
+      "UsersEstimate": 3384
     },
     {
       "ID": "tpote_achievement_23",
@@ -15890,7 +15895,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5413
+      "UsersEstimate": 5414
     },
     {
       "ID": "tpote_achievement_30",
@@ -15914,7 +15919,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "tpote_achievement_33",
@@ -16041,15 +16046,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16917,
+      "Progressed": 16918,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-09T10:03:33.3812517+00:00",
+  "LastChanged_Achievements": "2023-12-09T11:04:12.4829912+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-09T09:57:15.5307273+00:00",
-  "LastUpdate_Achievements": "2023-12-09T10:03:33.3813233+00:00"
+  "LastUpdate_Ratings": "2023-12-09T10:57:45.6521653+00:00",
+  "LastUpdate_Achievements": "2023-12-09T11:04:12.4830884+00:00"
 }

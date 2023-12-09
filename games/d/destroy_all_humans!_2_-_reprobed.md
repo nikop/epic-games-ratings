@@ -1,17 +1,17 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 548)  
+Rating: 4.53 (Ranked 547)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 36.00% | ~9 |
-| Rock of the Bay | 28.00% | ~7 |
-| Furon Fashion | 20.00% | ~5 |
-| Ducks in a Row, Fish in a Barrel | 20.00% | ~5 |
-| Shop Til They Drop | 20.00% | ~5 |
-| I Look Up As I Walk to Takoshima | 16.00% | ~4 |
+| Mash Machine | 35.00% | ~9 |
+| Rock of the Bay | 35.00% | ~9 |
+| Furon Fashion | 19.00% | ~5 |
+| Ducks in a Row, Fish in a Barrel | 19.00% | ~5 |
+| Shop Til They Drop | 19.00% | ~5 |
+| I Look Up As I Walk to Takoshima | 15.00% | ~4 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~3 |
 | Cult Following | 8.00% | ~2 |
 | Lie Back and Think of Albion | 8.00% | ~2 |
@@ -24,6 +24,7 @@ Number of Ratings: 90  (23.09.2022)
 | Dusted | 8.00% | ~2 |
 | Pimp My Raid | 8.00% | ~2 |
 | Perfect Probulator | 4.00% | ~1 |
+| Forbidden Donut | 4.00% | ~1 |
 | Freshly Squeezed | 4.00% | ~1 |
 | Die Nasty | 4.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
@@ -33,7 +34,6 @@ Number of Ratings: 90  (23.09.2022)
 | This Is Earth Radio | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 | Transmitting From Sol-3 | 0.00% | ~0 |
-| Forbidden Donut | 0.00% | ~0 |
 | Hidden Human Hive Harvest | 0.00% | ~0 |
 | Toilet Break | 0.00% | ~0 |
 | Albion Bridge Is for Falling Down | 0.00% | ~0 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 | Arkvoodle Doodle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 555)  
+Progressed: 26 (Ranked 553)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,6 +64,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-06 | 20 | 0 |
 | 2023-12-07 | 21 | 0 |
 | 2023-12-08 | 25 | 0 |
+| 2023-12-09 | 26 | 0 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 481)  
 Sum: 35 (Ranked 509)  

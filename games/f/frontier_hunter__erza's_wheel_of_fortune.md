@@ -33,7 +33,7 @@
 | Cave Master | 13.00% | ~75 |
 | Face Slapper | 13.00% | ~75 |
 | Boss challenge | 10.00% | ~58 |
-| Berserker Slayer | 9.00% | ~52 |
+| Berserker Slayer | 10.00% | ~58 |
 | Master Cook | 8.00% | ~46 |
 | Giantess Slayer | 8.00% | ~46 |
 | Warden Slayer | 8.00% | ~46 |

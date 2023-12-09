@@ -1,7 +1,7 @@
 # BIOMUTANT
 [Store](https://store.epicgames.com/en-US/p/biomutant)  
 [View Rawdata](../../db/b/biomutant.json)  
-Rating: 4.33 (Ranked 821)  
+Rating: 4.33 (Ranked 822)  
 Number of Ratings: 198  (23.09.2022)  
 ## Awards
 Max (Character Customization): 124  (Ranked 339)  

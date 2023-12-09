@@ -341,7 +341,7 @@ Completed: 22 (0.00%) (Ranked 371)
 | 2023-12-09 | 477,371 | 22 |
 ## Awards
 Max (Relaxing): 6,477  (Ranked 59)  
-Sum: 51,096 (Ranked 29)  
+Sum: 51,097 (Ranked 29)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -354,7 +354,7 @@ Diff (max vs sum): 30
 | This game has Diverse Characters | 5,594 |
 | This game has Amazing Storytelling | 4,935 |
 | This game has Obsessive Gameplay | 4,416 |
-| This game has Amazing Characters | 4,393 |
+| This game has Amazing Characters | 4,394 |
 | This game has a Creative Community | 1,495 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -671,4 +671,4 @@ Diff (max vs sum): 30
 | 2023-12-06 | 4.80 | - | 6,475 | 51,087 |
 | 2023-12-07 | 4.80 | - | 6,475 | 51,090 |
 | 2023-12-08 | 4.80 | - | 6,477 | 51,092 |
-| 2023-12-09 | 4.80 | - | 6,477 | 51,096 |
+| 2023-12-09 | 4.80 | - | 6,477 | 51,097 |

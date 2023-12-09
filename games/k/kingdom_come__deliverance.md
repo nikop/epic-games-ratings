@@ -6,22 +6,22 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,749 |
-| Cavalier | 25.00% | ~202,929 |
-| Fatso | 23.00% | ~186,695 |
-| Awakening | 21.00% | ~170,460 |
-| Ranger | 20.00% | ~162,343 |
-| Scrooge | 20.00% | ~162,343 |
+| Blacksmith's Son | 32.00% | ~259,750 |
+| Cavalier | 25.00% | ~202,930 |
+| Fatso | 23.00% | ~186,696 |
+| Awakening | 21.00% | ~170,461 |
+| Ranger | 20.00% | ~162,344 |
+| Scrooge | 20.00% | ~162,344 |
 | Anorectic | 16.00% | ~129,875 |
 | Firestarter | 16.00% | ~129,875 |
-| Bookworm | 15.00% | ~121,757 |
-| Insomniac | 13.00% | ~105,523 |
+| Bookworm | 15.00% | ~121,758 |
+| Insomniac | 13.00% | ~105,524 |
 | Buddy | 12.00% | ~97,406 |
 | Thief | 12.00% | ~97,406 |
 | Sinner | 11.00% | ~89,289 |
 | Traveller | 11.00% | ~89,289 |
 | Convict | 10.00% | ~81,172 |
-| Haggler | 9.00% | ~73,054 |
+| Haggler | 9.00% | ~73,055 |
 | McLovin | 7.00% | ~56,820 |
 | Runt | 7.00% | ~56,820 |
 | Casanova | 6.00% | ~48,703 |
@@ -31,10 +31,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bastard | 4.00% | ~32,469 |
 | Hunter | 4.00% | ~32,469 |
 | Plague Doctor | 4.00% | ~32,469 |
-| Bard | 3.00% | ~24,351 |
-| Conqueror | 3.00% | ~24,351 |
-| Ginger in a Pickle | 3.00% | ~24,351 |
-| Kingdom did not come | 3.00% | ~24,351 |
+| Bard | 3.00% | ~24,352 |
+| Conqueror | 3.00% | ~24,352 |
+| Ginger in a Pickle | 3.00% | ~24,352 |
+| Kingdom did not come | 3.00% | ~24,352 |
 | Completionist | 2.00% | ~16,234 |
 | Death by splinter | 2.00% | ~16,234 |
 | King Charming | 2.00% | ~16,234 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~812 |
 | Wingman | 0.10% | ~812 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 811,716 (Ranked 17)  
+Progressed: 811,720 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 52 (0.01%) (Ranked 348)
 | 2023-12-06 | 811,399 | 52 |
 | 2023-12-07 | 811,525 | 52 |
 | 2023-12-08 | 811,655 | 52 |
-| 2023-12-09 | 811,716 | 52 |
+| 2023-12-09 | 811,720 | 52 |
 ## Awards
 Max (Character Customization): 7,657  (Ranked 51)  
 Sum: 28,444 (Ranked 49)  

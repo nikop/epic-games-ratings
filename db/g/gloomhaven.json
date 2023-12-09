@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -2621,9 +2621,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 25354,
+  "EOS_Progressed": 25356,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1239,
+  "EOS_NewPlayers": 1231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12331,6 +12331,11 @@
       "Time": "2023-12-09T10:08:43.0891243+00:00",
       "NumProgressed": 25354,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T11:09:07.8865235+00:00",
+      "NumProgressed": 25356,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -12511,7 +12516,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4310
+      "UsersEstimate": 4311
     },
     {
       "ID": "Achievement_Trophy23",
@@ -12527,7 +12532,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10395
+      "UsersEstimate": 10396
     },
     {
       "ID": "Achievement_Trophy25",
@@ -12535,7 +12540,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3042
+      "UsersEstimate": 3043
     },
     {
       "ID": "Achievement_Trophy26",
@@ -12543,7 +12548,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8620
+      "UsersEstimate": 8621
     },
     {
       "ID": "Achievement_Trophy27",
@@ -12631,7 +12636,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "Achievement_Trophy38",
@@ -12639,7 +12644,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4310
+      "UsersEstimate": 4311
     },
     {
       "ID": "Achievement_Trophy39",
@@ -12647,7 +12652,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4817
+      "UsersEstimate": 4818
     },
     {
       "ID": "Achievement_Trophy40",
@@ -12719,7 +12724,7 @@
       "Name": "Doom and gloom",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "Achievement_Trophy49",
@@ -12830,7 +12835,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 25354,
+      "Progressed": 25356,
       "Completed": 1
     }
   ],
@@ -12838,8 +12843,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-08T02:57:11.2293147+00:00",
-  "LastChanged_Achievements": "2023-12-09T10:08:43.0891241+00:00",
+  "LastChanged_Achievements": "2023-12-09T11:09:07.8865232+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.3646909+00:00",
-  "LastUpdate_Ratings": "2023-12-09T09:57:50.9714968+00:00",
-  "LastUpdate_Achievements": "2023-12-09T10:08:43.0891934+00:00"
+  "LastUpdate_Ratings": "2023-12-09T10:58:40.0244995+00:00",
+  "LastUpdate_Achievements": "2023-12-09T11:09:07.886634+00:00"
 }

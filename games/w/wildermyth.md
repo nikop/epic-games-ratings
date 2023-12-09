@@ -20,9 +20,9 @@ Number of Ratings: 45  (23.09.2022)
 | Core Failure | 2.00% | ~30 |
 | Let Me Get My Chisel | 1.00% | ~15 |
 | Who's Counting? | 1.00% | ~15 |
+| Pyrrhic Victory | 1.00% | ~15 |
 | Echoes Die | 1.00% | ~15 |
 | Thematic Divergence | 0.90% | ~14 |
-| Pyrrhic Victory | 0.90% | ~14 |
 | Turncoat | 0.90% | ~14 |
 | Another Tale to Tell | 0.70% | ~11 |
 | A Story of Heroes | 0.70% | ~11 |
@@ -34,11 +34,11 @@ Number of Ratings: 45  (23.09.2022)
 | Chain Reaction | 0.50% | ~8 |
 | Everfading | 0.50% | ~8 |
 | Astrology | 0.50% | ~8 |
+| Plague Doctor | 0.40% | ~6 |
 | All My Birds, Safely Home | 0.40% | ~6 |
 | Storied Past | 0.30% | ~5 |
 | Worldwalker | 0.30% | ~5 |
 | No More Nightmares | 0.30% | ~5 |
-| Plague Doctor | 0.30% | ~5 |
 | In Soil, In Smoke | 0.30% | ~5 |
 | Wingknight's Prowess | 0.30% | ~5 |
 | Bears are Scary | 0.30% | ~5 |
@@ -47,6 +47,7 @@ Number of Ratings: 45  (23.09.2022)
 | Tempest | 0.30% | ~5 |
 | Lochias's Hunger | 0.30% | ~5 |
 | We Emerge Changed | 0.20% | ~3 |
+| Fight Like a Bird | 0.20% | ~3 |
 | I'm Not Smiling | 0.20% | ~3 |
 | Overwhelming Monstrosity | 0.10% | ~2 |
 | A Lowly Crust of Beef | 0.10% | ~2 |
@@ -54,7 +55,6 @@ Number of Ratings: 45  (23.09.2022)
 | Back into the Sea | 0.10% | ~2 |
 | A Hunger, Sated | 0.10% | ~2 |
 | War-Ender | 0.10% | ~2 |
-| Fight Like a Bird | 0.10% | ~2 |
 | Solid as the Hills | 0.10% | ~2 |
 | We Call That Mortificient! | 0.10% | ~2 |
 | Symbiosis | 0.10% | ~2 |

@@ -152,9 +152,9 @@
       "ID": "ACH_DEFEAT_BOWIE_SPECIAL",
       "SetID": "b9ng4ag",
       "Name": "Stardust",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_DEFEAT_BULLET",
@@ -216,9 +216,9 @@
       "ID": "ACH_UNLOCK_ALL_SPECIALS",
       "SetID": "b9ng4ag",
       "Name": "Thunder Fist",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -231,8 +231,8 @@
   ],
   "FirstSeen": "2023-10-21T23:58:29.5927099+00:00",
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2023-12-09T10:09:18.9078141+00:00",
+  "LastChanged_Achievements": "2023-12-09T11:09:58.6645891+00:00",
   "LastUpdate_AppInfo": "2023-12-09T05:57:00.0111242+00:00",
-  "LastUpdate_Ratings": "2023-12-09T09:56:53.3144917+00:00",
-  "LastUpdate_Achievements": "2023-12-09T10:09:18.9078207+00:00"
+  "LastUpdate_Ratings": "2023-12-09T10:57:11.8413028+00:00",
+  "LastUpdate_Achievements": "2023-12-09T11:09:58.6645979+00:00"
 }

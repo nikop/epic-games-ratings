@@ -1,43 +1,43 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 575)  
+Rating: 4.51 (Ranked 574)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~21,631 |
-| It wakes | 2.00% | ~21,631 |
-| Skillful | 2.00% | ~21,631 |
-| No one left behind | 1.00% | ~10,815 |
-| Medic | 1.00% | ~10,815 |
-| Handyman | 1.00% | ~10,815 |
-| Not half bad | 1.00% | ~10,815 |
-| Apt Survivor | 1.00% | ~10,815 |
-| Survival Treasures | 1.00% | ~10,815 |
-| I | 1.00% | ~10,815 |
-| Sorted | 1.00% | ~10,815 |
-| Healthy Obsession | 1.00% | ~10,815 |
-| Resurgence | 1.00% | ~10,815 |
-| Preemptive Strike | 1.00% | ~10,815 |
-| Make Some Noise | 1.00% | ~10,815 |
-| The Grand Sacrifice | 0.90% | ~9,734 |
-| Bloody Millionaire | 0.90% | ~9,734 |
-| Humanitarian | 0.90% | ~9,734 |
-| Agonizing Escape | 0.80% | ~8,652 |
-| Backdoor Escape | 0.80% | ~8,652 |
-| Perfect Escape | 0.80% | ~8,652 |
-| Perfect Killing | 0.80% | ~8,652 |
-| II | 0.80% | ~8,652 |
-| Close Shave | 0.80% | ~8,652 |
+| Zealous | 2.00% | ~21,633 |
+| It wakes | 2.00% | ~21,633 |
+| Skillful | 2.00% | ~21,633 |
+| No one left behind | 1.00% | ~10,816 |
+| Medic | 1.00% | ~10,816 |
+| Handyman | 1.00% | ~10,816 |
+| Not half bad | 1.00% | ~10,816 |
+| Apt Survivor | 1.00% | ~10,816 |
+| Survival Treasures | 1.00% | ~10,816 |
+| I | 1.00% | ~10,816 |
+| Sorted | 1.00% | ~10,816 |
+| Healthy Obsession | 1.00% | ~10,816 |
+| Resurgence | 1.00% | ~10,816 |
+| Preemptive Strike | 1.00% | ~10,816 |
+| Make Some Noise | 1.00% | ~10,816 |
+| The Grand Sacrifice | 0.90% | ~9,735 |
+| Bloody Millionaire | 0.90% | ~9,735 |
+| Humanitarian | 0.90% | ~9,735 |
+| Agonizing Escape | 0.80% | ~8,653 |
+| Backdoor Escape | 0.80% | ~8,653 |
+| Perfect Escape | 0.80% | ~8,653 |
+| Perfect Killing | 0.80% | ~8,653 |
+| II | 0.80% | ~8,653 |
+| Close Shave | 0.80% | ~8,653 |
 | I've got your back | 0.70% | ~7,571 |
 | Apt Killer | 0.70% | ~7,571 |
 | Risk it all | 0.70% | ~7,571 |
 | Engineer | 0.70% | ~7,571 |
 | Wounded Healer | 0.70% | ~7,571 |
-| Vulture | 0.60% | ~6,489 |
-| III | 0.60% | ~6,489 |
-| Lifting The Fog | 0.60% | ~6,489 |
+| Vulture | 0.60% | ~6,490 |
+| III | 0.60% | ~6,490 |
+| Lifting The Fog | 0.60% | ~6,490 |
 | Blood on your hands | 0.50% | ~5,408 |
 | Escape Artist | 0.50% | ~5,408 |
 | First to the Punch | 0.50% | ~5,408 |
@@ -47,25 +47,26 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 0.50% | ~5,408 |
 | Flight to Freedom | 0.50% | ~5,408 |
 | Second Act | 0.50% | ~5,408 |
-| Made it out alive! | 0.40% | ~4,326 |
-| Nerves of steel | 0.40% | ~4,326 |
-| Gifts for the Fog | 0.40% | ~4,326 |
-| III-50 | 0.40% | ~4,326 |
-| Shock Therapy | 0.40% | ~4,326 |
-| All Aboard | 0.40% | ~4,326 |
-| Item of Obsession | 0.40% | ~4,326 |
-| House of Pain | 0.40% | ~4,326 |
-| Holiday Get-Together | 0.40% | ~4,326 |
-| Near-Death Experience | 0.40% | ~4,326 |
-| Cherish your Life | 0.40% | ~4,326 |
-| Ancestor's Rite | 0.40% | ~4,326 |
-| Unforgettable Getaway | 0.40% | ~4,326 |
-| Cutting Out | 0.40% | ~4,326 |
-| Outrun Evil | 0.40% | ~4,326 |
-| Old West Oasis | 0.40% | ~4,326 |
-| Classy Act | 0.40% | ~4,326 |
-| Chorus of Chaos | 0.40% | ~4,326 |
-| One More Step | 0.40% | ~4,326 |
+| Made it out alive! | 0.40% | ~4,327 |
+| Nerves of steel | 0.40% | ~4,327 |
+| Gifts for the Fog | 0.40% | ~4,327 |
+| III-50 | 0.40% | ~4,327 |
+| Shock Therapy | 0.40% | ~4,327 |
+| All Aboard | 0.40% | ~4,327 |
+| Item of Obsession | 0.40% | ~4,327 |
+| House of Pain | 0.40% | ~4,327 |
+| Holiday Get-Together | 0.40% | ~4,327 |
+| Near-Death Experience | 0.40% | ~4,327 |
+| Cherish your Life | 0.40% | ~4,327 |
+| Ancestor's Rite | 0.40% | ~4,327 |
+| Unforgettable Getaway | 0.40% | ~4,327 |
+| Cutting Out | 0.40% | ~4,327 |
+| Outrun Evil | 0.40% | ~4,327 |
+| Old West Oasis | 0.40% | ~4,327 |
+| Classy Act | 0.40% | ~4,327 |
+| Chorus of Chaos | 0.40% | ~4,327 |
+| One More Step | 0.40% | ~4,327 |
+| MU/TH/UR Dearest | 0.40% | ~4,327 |
 | A bite for the Entity | 0.30% | ~3,245 |
 | Blood on your face | 0.30% | ~3,245 |
 | Hemophobia | 0.30% | ~3,245 |
@@ -84,7 +85,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.30% | ~3,245 |
 | Rebuilding The Borgo | 0.30% | ~3,245 |
 | Extraterrestrial | 0.30% | ~3,245 |
-| MU/TH/UR Dearest | 0.30% | ~3,245 |
 | Outta Nowhere | 0.30% | ~3,245 |
 | Blood in your mouth | 0.20% | ~2,163 |
 | Jump Scares | 0.20% | ~2,163 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,082 |
 | Adept Good Guy | 0.10% | ~1,082 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,081,535 (Ranked 13)  
+Progressed: 1,081,642 (Ranked 13)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -472,7 +472,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-06 | 1,075,348 | 61 |
 | 2023-12-07 | 1,077,876 | 61 |
 | 2023-12-08 | 1,080,483 | 61 |
-| 2023-12-09 | 1,081,535 | 61 |
+| 2023-12-09 | 1,081,642 | 61 |
 ## Awards
 Max (Diverse Characters): 37,578  (Ranked 15)  
 Sum: 284,861 (Ranked 12)  

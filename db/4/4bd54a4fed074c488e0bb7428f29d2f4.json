@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 42,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -500,9 +500,9 @@
       "ID": "SOS_MARATHON_RUNNER",
       "SetID": "6ci4lm2",
       "Name": "Legs of iron",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SOS_MOUTH_COIN",
@@ -612,9 +612,9 @@
       "ID": "SOS_SECRET_PASSAGEWAY",
       "SetID": "6ci4lm2",
       "Name": "Secret passageway",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SOS_SHAFT_INTO_DARKNESS",
@@ -707,8 +707,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-09T10:07:57.1604319+00:00",
+  "LastChanged_Achievements": "2023-12-09T11:08:02.7884523+00:00",
   "LastUpdate_AppInfo": "2023-12-04T15:57:13.4700868+00:00",
-  "LastUpdate_Ratings": "2023-12-09T09:57:30.3071758+00:00",
-  "LastUpdate_Achievements": "2023-12-09T10:07:57.1604829+00:00"
+  "LastUpdate_Ratings": "2023-12-09T10:58:08.1422328+00:00",
+  "LastUpdate_Achievements": "2023-12-09T11:08:02.7885021+00:00"
 }

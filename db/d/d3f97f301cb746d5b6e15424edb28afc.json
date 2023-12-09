@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3313,9 +3313,9 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 920
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
@@ -3505,9 +3505,9 @@
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 932
+      "UsersEstimate": 944
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -3682,8 +3682,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-04T17:00:39.9868842+00:00",
-  "LastChanged_Achievements": "2023-12-09T10:04:45.4995433+00:00",
+  "LastChanged_Achievements": "2023-12-09T11:05:54.4974882+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-09T09:57:42.4577665+00:00",
-  "LastUpdate_Achievements": "2023-12-09T10:04:45.4996474+00:00"
+  "LastUpdate_Ratings": "2023-12-09T10:58:27.1273567+00:00",
+  "LastUpdate_Achievements": "2023-12-09T11:05:54.4975916+00:00"
 }
