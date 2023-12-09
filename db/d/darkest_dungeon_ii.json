@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 257,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
@@ -9498,9 +9498,9 @@
       "Count": 983
     }
   ],
-  "EOS_Progressed": 125943,
+  "EOS_Progressed": 125947,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34233,6 +34233,11 @@
       "Time": "2023-12-09T21:09:10.521565+00:00",
       "NumProgressed": 125943,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-09T22:09:43.4905399+00:00",
+      "NumProgressed": 125947,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34586,9 +34591,9 @@
       "ID": "hero_loss_memoried",
       "SetID": "64l4lke",
       "Name": "Tears in the Rain",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 126
     },
     {
       "ID": "hero_skill_mastery_five",
@@ -34875,21 +34880,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 125943,
+      "Progressed": 125947,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 812,
+      "Progressed": 816,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-09T15:57:09.2241371+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:09:10.5215648+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:09:43.4905395+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:09.0796659+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:57:41.2720398+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:09:10.5217652+00:00"
+  "LastUpdate_Ratings": "2023-12-09T21:58:03.8055287+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:09:43.4906901+00:00"
 }

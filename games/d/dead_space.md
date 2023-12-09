@@ -1,24 +1,24 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.64 (Ranked 335)  
+Rating: 4.64 (Ranked 336)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~2,045 |
-| Welcome Aboard | 86.00% | ~1,891 |
-| Lab Rat | 77.00% | ~1,693 |
-| All Systems Go | 67.00% | ~1,473 |
-| Brute Force | 67.00% | ~1,473 |
-| Cannon Fodder | 63.00% | ~1,385 |
-| Autofire | 58.00% | ~1,275 |
-| True Believer | 58.00% | ~1,275 |
-| Story Teller | 57.00% | ~1,253 |
-| Raise the Stakes | 56.00% | ~1,231 |
-| Surgeon | 54.00% | ~1,187 |
-| Exterminator | 53.00% | ~1,165 |
-| Greenhouse Effect | 53.00% | ~1,165 |
-| Freeze | 52.00% | ~1,143 |
+| Marksman | 93.00% | ~2,046 |
+| Welcome Aboard | 86.00% | ~1,892 |
+| Lab Rat | 77.00% | ~1,694 |
+| All Systems Go | 67.00% | ~1,474 |
+| Brute Force | 67.00% | ~1,474 |
+| Cannon Fodder | 63.00% | ~1,386 |
+| Autofire | 58.00% | ~1,276 |
+| True Believer | 58.00% | ~1,276 |
+| Story Teller | 57.00% | ~1,254 |
+| Raise the Stakes | 56.00% | ~1,232 |
+| Surgeon | 54.00% | ~1,188 |
+| Exterminator | 53.00% | ~1,166 |
+| Greenhouse Effect | 53.00% | ~1,166 |
+| Freeze | 52.00% | ~1,144 |
 | S.O.S. | 48.00% | ~1,056 |
 | Full Arsenal | 46.00% | ~1,012 |
 | Get Off My Ship! | 45.00% | ~990 |
@@ -53,7 +53,7 @@ Rating: 4.64 (Ranked 335)
 | Untouchable | 2.00% | ~44 |
 | One Gun | 2.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,199 (Ranked 226)  
+Progressed: 2,200 (Ranked 226)  
 Completed: 13 (0.59%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 13 (0.59%) (Ranked 198)
 | 2023-12-06 | 2,153 | 13 |
 | 2023-12-07 | 2,165 | 13 |
 | 2023-12-08 | 2,183 | 13 |
-| 2023-12-09 | 2,199 | 13 |
+| 2023-12-09 | 2,200 | 13 |
 ## Awards
 Max (Great Boss Battles): 118  (Ranked 345)  
 Sum: 118 (Ranked 442)  

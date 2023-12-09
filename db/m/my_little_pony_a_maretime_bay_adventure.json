@@ -173,25 +173,25 @@
       "ID": "3",
       "SetID": "1kmik7f",
       "Name": "Pipp Pipp Parade!",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 75,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "4",
       "SetID": "1kmik7f",
       "Name": "Amateur Detective",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 75,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "5",
       "SetID": "1kmik7f",
       "Name": "Glowing Up",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "6",
@@ -238,8 +238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:26.3358258+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.30737+00:00",
   "LastChanged": "2023-03-31T05:58:26.335826+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:06:18.4492431+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:07:47.9542005+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:45.1929022+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:58:43.5562411+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:06:18.4492513+00:00"
+  "LastUpdate_Ratings": "2023-12-09T21:59:39.33545+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:07:47.9542176+00:00"
 }

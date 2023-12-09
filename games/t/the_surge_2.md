@@ -5,16 +5,16 @@ Rating: 4.25 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,777 |
-| Don't I Know You...? | 77.00% | ~1,710 |
-| Jailbreak | 66.00% | ~1,466 |
-| Suited and Booted | 39.00% | ~866 |
+| Rigged And Ready | 80.00% | ~1,778 |
+| Don't I Know You...? | 77.00% | ~1,711 |
+| Jailbreak | 66.00% | ~1,467 |
+| Suited and Booted | 39.00% | ~867 |
 | HEADSHOT! | 38.00% | ~844 |
 | Sleeping With The Fishes | 36.00% | ~800 |
 | Overheated | 31.00% | ~689 |
 | High Performance | 31.00% | ~689 |
 | Powered Up | 29.00% | ~644 |
-| Studied The Blade | 25.00% | ~555 |
+| Studied The Blade | 25.00% | ~556 |
 | Home Invasion | 23.00% | ~511 |
 | Luminary | 23.00% | ~511 |
 | True Survivor | 22.00% | ~489 |
@@ -41,7 +41,7 @@ Rating: 4.25 (Ranked 890)
 | Defense in Depth | 9.00% | ~200 |
 | A Little Banged Up | 8.00% | ~178 |
 | Following In Their Footsteps | 8.00% | ~178 |
-| Reverse Engineering | 7.00% | ~155 |
+| Reverse Engineering | 7.00% | ~156 |
 | Reborn | 6.00% | ~133 |
 | Remote Surgery | 6.00% | ~133 |
 | Turbo Booster | 6.00% | ~133 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 890)
 | Loot, Pillage & Craft | 2.00% | ~44 |
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,221 (Ranked 225)  
+Progressed: 2,222 (Ranked 225)  
 Completed: 13 (0.59%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 13 (0.59%) (Ranked 198)
 | 2023-12-01 | 2,218 | 13 |
 | 2023-12-02 | 2,219 | 13 |
 | 2023-12-08 | 2,220 | 13 |
-| 2023-12-09 | 2,221 | 13 |
+| 2023-12-09 | 2,222 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

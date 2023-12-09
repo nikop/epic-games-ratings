@@ -2605,9 +2605,9 @@
       "ID": "EV_ACH08",
       "SetID": "6jeac23",
       "Name": "So Close",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 477
     },
     {
       "ID": "EV_ACH09",
@@ -2910,8 +2910,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-09T18:58:15.9696889+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:10:13.9240574+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:11:13.3298293+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:30.6562338+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:58:33.2472187+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:10:13.9240968+00:00"
+  "LastUpdate_Ratings": "2023-12-09T21:59:23.1272428+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:11:13.3298684+00:00"
 }

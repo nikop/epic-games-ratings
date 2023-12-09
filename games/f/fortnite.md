@@ -4,12 +4,12 @@
 Rating: 4.28 (Ranked 861)  
 Number of Ratings: 2,283,925  (23.09.2022)  
 ## Awards
-Max (Competitive Players): 2,452,333  (Ranked 1)  
-Sum: 17,351,537 (Ranked 1)  
+Max (Competitive Players): 2,470,819  (Ranked 1)  
+Sum: 17,370,023 (Ranked 1)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 2,452,333 |
+| This game has Competitive Players | 2,470,819 |
 | This game has Quickly Understood Controls | 2,336,859 |
 | This game is Extremely Fun | 2,286,795 |
 | This game has Diverse Characters | 2,257,271 |
@@ -337,4 +337,4 @@ Diff (max vs sum): 0
 | 2023-12-06 | 4.28 | - | 2,406,705 | 17,030,309 |
 | 2023-12-07 | 4.28 | - | 2,428,514 | 17,181,087 |
 | 2023-12-08 | 4.28 | - | 2,452,333 | 17,331,196 |
-| 2023-12-09 | 4.28 | - | 2,452,333 | 17,351,537 |
+| 2023-12-09 | 4.28 | - | 2,470,819 | 17,370,023 |

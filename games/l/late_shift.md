@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cause and Effect | 95.00% | ~673 |
-| Fair Share | 68.00% | ~481 |
+| Cause and Effect | 96.00% | ~680 |
+| Fair Share | 69.00% | ~489 |
 | Even Tempered | 56.00% | ~396 |
 | Star-Crossed Lovers | 47.00% | ~333 |
 | The Delivery | 45.00% | ~319 |

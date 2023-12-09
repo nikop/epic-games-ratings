@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 537,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1749,9 +1749,9 @@
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 242
     },
     {
       "ID": "AchvReachCondor",
@@ -1804,8 +1804,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:09:28.8184416+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:10:09.957648+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-09T21:03:10.324992+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:09:28.8184654+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:02:36.5472692+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:10:09.9576745+00:00"
 }

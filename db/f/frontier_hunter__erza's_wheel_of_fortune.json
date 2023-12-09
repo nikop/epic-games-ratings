@@ -2009,17 +2009,17 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 279
     },
     {
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 209
+      "UsersEstimate": 215
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2033,9 +2033,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 296
+      "UsersEstimate": 302
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2250,8 +2250,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:09:07.5425779+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:09:39.2350467+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:59:14.3343456+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:09:07.5426105+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:00:27.6408764+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:09:39.2350825+00:00"
 }

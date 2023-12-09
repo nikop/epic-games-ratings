@@ -3321,10 +3321,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3247,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-09T21:57:56.6166266+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3248,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3247,
+  "NumberOfAwards": 3248,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3368,7 +3374,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 286
+      "Count": 287
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3389,9 +3395,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17794,
+  "EOS_Progressed": 17802,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15159,6 +15165,11 @@
       "Time": "2023-12-09T21:05:30.3133009+00:00",
       "NumProgressed": 17794,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-09T22:06:40.1292127+00:00",
+      "NumProgressed": 17802,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15545,9 +15556,9 @@
       "ID": "WinWithoutDeath",
       "SetID": "cfbk359",
       "Name": "No Deaths",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 160
     },
     {
       "ID": "WinWithoutOrders",
@@ -15617,9 +15628,9 @@
       "ID": "WinNearStorms",
       "SetID": "cfbk359",
       "Name": "Gathering Storm",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 534
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -15642,15 +15653,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17794,
+      "Progressed": 17802,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-09T19:57:17.433999+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:05:30.3133007+00:00",
+  "LastChanged": "2023-12-09T21:57:56.6166264+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:06:40.1292122+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:57:36.3567774+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:05:30.313392+00:00"
+  "LastUpdate_Ratings": "2023-12-09T21:57:56.6166274+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:06:40.1293188+00:00"
 }

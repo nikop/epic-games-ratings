@@ -5,10 +5,10 @@
   "Ranking_Rating": 89,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
-  "Ranking_EOS_Progress": 265,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1069,
+  "EOS_Progressed": 1070,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.99,
   "EosHistory": [
@@ -3568,6 +3568,11 @@
       "Time": "2023-12-09T21:07:02.7736196+00:00",
       "NumProgressed": 1069,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-09T22:08:51.0643022+00:00",
+      "NumProgressed": 1070,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3580,7 +3585,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3596,7 +3601,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3636,23 +3641,23 @@
       "Name": "Swabbie",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 289
     },
     {
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 225
     },
     {
       "ID": "_11_Completion_40",
@@ -3787,7 +3792,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1069,
+      "Progressed": 1070,
       "Completed": 32
     }
   ],
@@ -3795,8 +3800,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-09T12:00:24.7987919+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:07:02.7736193+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:08:51.0643017+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:59:53.7496811+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:07:02.7736538+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:01:26.878472+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:08:51.0643395+00:00"
 }

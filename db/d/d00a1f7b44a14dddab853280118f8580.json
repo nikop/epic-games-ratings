@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -1561,9 +1561,9 @@
       "ID": "ach_hint_6",
       "SetID": "5e260i9",
       "Name": "Supported success!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 70,
-      "UsersEstimate": 196
+      "UsersEstimate": 200
     },
     {
       "ID": "ach_hint_9",
@@ -1624,8 +1624,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:09:18.7654241+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:09:55.3576868+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:56:58.3232615+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:59:00.8854443+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:09:18.765445+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:00:06.3960441+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:09:55.3577018+00:00"
 }

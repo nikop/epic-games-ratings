@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -8727,9 +8727,9 @@
       "ID": "Ach062",
       "SetID": "b7dbjo0",
       "Name": "NOW we got a kickass hideout!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 271
     },
     {
       "ID": "Ach063",
@@ -8822,8 +8822,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:06:52.1203579+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:08:36.0713127+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:59:38.9278432+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:06:52.1204417+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:01:04.0723416+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:08:36.0714099+00:00"
 }

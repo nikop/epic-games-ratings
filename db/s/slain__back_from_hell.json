@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -244,9 +244,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 41781,
+  "EOS_Progressed": 41789,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -25609,6 +25609,11 @@
       "Time": "2023-12-09T21:06:29.9102627+00:00",
       "NumProgressed": 41781,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-12-09T22:08:03.6493234+00:00",
+      "NumProgressed": 41789,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 29,
@@ -25620,7 +25625,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6267
+      "UsersEstimate": 6268
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -25628,7 +25633,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8776
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -25636,7 +25641,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -25764,7 +25769,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -25796,7 +25801,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -25804,7 +25809,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -25851,7 +25856,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41781,
+      "Progressed": 41789,
       "Completed": 29
     }
   ],
@@ -25859,8 +25864,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:06:29.9102626+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:08:03.6493229+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:11.7949704+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:58:06.1341505+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:06:29.9103981+00:00"
+  "LastUpdate_Ratings": "2023-12-09T21:58:41.5378659+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:08:03.6494782+00:00"
 }

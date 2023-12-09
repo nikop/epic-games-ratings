@@ -4185,9 +4185,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 82157,
+  "EOS_Progressed": 82159,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 1144,
+  "EOS_NewPlayers": 1145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -30700,6 +30700,11 @@
       "Time": "2023-12-09T21:09:46.0220391+00:00",
       "NumProgressed": 82157,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-09T22:10:34.4434721+00:00",
+      "NumProgressed": 82159,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 53,
@@ -30727,7 +30732,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14788
+      "UsersEstimate": 14789
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -30815,7 +30820,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 26290
+      "UsersEstimate": 26291
     },
     {
       "ID": "complete_mission_1",
@@ -30823,7 +30828,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 37792
+      "UsersEstimate": 37793
     },
     {
       "ID": "customize_a_vehicle",
@@ -30831,7 +30836,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 27933
+      "UsersEstimate": 27934
     },
     {
       "ID": "customize_a_weapon",
@@ -30839,7 +30844,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 30398
+      "UsersEstimate": 30399
     },
     {
       "ID": "cutting_edge_materials",
@@ -30855,7 +30860,7 @@
       "Name": "Chaos Tamer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "destroy_car_with_fist_cannon",
@@ -30927,7 +30932,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 18896
+      "UsersEstimate": 18897
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -30983,7 +30988,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16431
+      "UsersEstimate": 16432
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -30991,7 +30996,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 23004
+      "UsersEstimate": 23005
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -31007,7 +31012,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 28755
+      "UsersEstimate": 28756
     },
     {
       "ID": "one_third_purple",
@@ -31063,7 +31068,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 22182
+      "UsersEstimate": 22183
     },
     {
       "ID": "two_thirds_purple",
@@ -31095,7 +31100,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 34506
+      "UsersEstimate": 34507
     },
     {
       "ID": "whole_map_purple",
@@ -31134,22 +31139,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 82157,
+      "Progressed": 82159,
       "Completed": 54
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 53794,
-      "Completed": 4471
+      "Progressed": 53796,
+      "Completed": 4472
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-12-07T01:51:10.0145653+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:09:46.0220388+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:10:34.4434716+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:20.9068248+00:00",
-  "LastUpdate_Ratings": "2023-12-09T21:03:45.3215831+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:09:46.0221875+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:04:10.0718508+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:10:34.4436244+00:00"
 }

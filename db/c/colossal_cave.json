@@ -2,9 +2,9 @@
   "ID": "ba2b8f9cfb9344b6b76f87d3fc5f8b80",
   "Name": "Colossal Cave",
   "ProductSlug": "colossal-cave-6f902f",
-  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 100,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -156,6 +156,11 @@
       "Time": "2023-12-04T02:30:27.5933061+00:00",
       "NumProgressed": 99,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T22:07:18.3675489+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -167,7 +172,7 @@
       "Name": "We\u0027ve only just begun",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "02-YoureSpelunkinNow",
@@ -175,15 +180,15 @@
       "Name": "You\u0027re spelunkin\u0027 now!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "03-BirdmanOfTheCaves",
       "SetID": "5iij4gg",
       "Name": "The Birdman of The Caves",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "04-CharminTheSnake",
@@ -358,7 +363,7 @@
     {
       "ID": "5iij4gg",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 100,
       "Completed": 0
     }
   ],
@@ -366,8 +371,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:05:57.4406845+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:07:18.3675485+00:00",
   "LastUpdate_AppInfo": "2023-12-09T12:59:37.679668+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:58:26.0358143+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:05:57.4407012+00:00"
+  "LastUpdate_Ratings": "2023-12-09T21:59:11.9478217+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:07:18.3675616+00:00"
 }

@@ -5391,9 +5391,9 @@
       "Count": 412
     }
   ],
-  "EOS_Progressed": 237581,
+  "EOS_Progressed": 237609,
   "EOS_Completed": 573,
-  "EOS_NewPlayers": 4446,
+  "EOS_NewPlayers": 4470,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22211,6 +22211,11 @@
       "Time": "2023-12-09T21:09:32.0145488+00:00",
       "NumProgressed": 237581,
       "NumCompleted": 573
+    },
+    {
+      "Time": "2023-12-09T22:10:14.7551955+00:00",
+      "NumProgressed": 237609,
+      "NumCompleted": 573
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22527,7 +22532,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "Obtain_Traits_B",
@@ -22631,7 +22636,7 @@
       "Name": "Succession",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -22655,20 +22660,20 @@
       "Name": "You Shall Pass",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 237581,
+      "Progressed": 237609,
       "Completed": 573
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 16746,
+      "Progressed": 16774,
       "Completed": 224
     }
   ],
@@ -22676,8 +22681,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-09T16:03:07.2644234+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:09:32.0145485+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:10:14.7551949+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-09T21:03:46.9177224+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:09:32.014649+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:04:12.4359364+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:10:14.7552865+00:00"
 }

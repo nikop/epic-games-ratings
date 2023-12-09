@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 438,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -473,6 +473,11 @@
       "Time": "2023-12-02T12:08:40.4600852+00:00",
       "NumProgressed": 437,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T22:06:09.7176379+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -492,7 +497,7 @@
       "Name": "Brain and Brawn",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "assemble-team3",
@@ -540,7 +545,7 @@
       "Name": "Party",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "different-items2",
@@ -564,7 +569,7 @@
       "Name": "Impossible Cube",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "finished-quest-flight",
@@ -618,9 +623,9 @@
       "ID": "finished-quest-sci",
       "SetID": "799afm0",
       "Name": "Knowledge is Power",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 197
     },
     {
       "ID": "finished-quest-secret",
@@ -652,7 +657,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "last-hero",
@@ -660,7 +665,7 @@
       "Name": "Last Man Standing",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "save-zombie",
@@ -692,15 +697,15 @@
       "Name": "Great Hero",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 333
     },
     {
       "ID": "win-first-level",
@@ -708,7 +713,7 @@
       "Name": "Good start!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "win-koth-fights1",
@@ -740,7 +745,7 @@
       "Name": "Through the Darkness",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "win-with-3-cultists",
@@ -763,7 +768,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 438,
       "Completed": 1
     }
   ],
@@ -771,8 +776,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:05:08.8161958+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:06:09.7176374+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:04.3081443+00:00",
-  "LastUpdate_Ratings": "2023-12-09T21:00:19.8463045+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:05:08.8162216+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:02:06.5692016+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:06:09.7176678+00:00"
 }

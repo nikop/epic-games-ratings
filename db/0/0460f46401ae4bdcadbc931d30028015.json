@@ -2,7 +2,7 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 922,
+  "Ranking_Rating": 933,
   "Ranking_Popularity": 457,
   "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 197,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.2,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2023-08-25T11:00:17.1063519+00:00",
@@ -841,6 +841,12 @@
       "Rating": 4.2,
       "NumberOfAwards": 174,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-12-09T21:59:12.6914914+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 174,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
@@ -891,7 +897,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4092,
+  "EOS_Progressed": 4094,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -6806,6 +6812,11 @@
       "Time": "2023-12-09T20:06:23.5923446+00:00",
       "NumProgressed": 4092,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T22:04:16.2987962+00:00",
+      "NumProgressed": 4094,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6826,7 +6837,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "achievement_11",
@@ -6834,7 +6845,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "achievement_12",
@@ -6850,7 +6861,7 @@
       "Name": "MVP",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1351
     },
     {
       "ID": "achievement_14",
@@ -6858,7 +6869,7 @@
       "Name": "ROTY",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1556
     },
     {
       "ID": "achievement_15",
@@ -6914,7 +6925,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "achievement_21",
@@ -6930,7 +6941,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_4",
@@ -6946,7 +6957,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "achievement_6",
@@ -6985,16 +6996,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4092,
+      "Progressed": 4094,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-12-09T03:57:35.4938932+00:00",
-  "LastChanged_Achievements": "2023-12-09T20:06:23.592344+00:00",
+  "LastChanged": "2023-12-09T21:59:12.6914913+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:04:16.2987953+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:58:26.5223864+00:00",
-  "LastUpdate_Achievements": "2023-12-09T20:06:23.5923837+00:00"
+  "LastUpdate_Ratings": "2023-12-09T21:59:12.6914918+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:04:16.3005934+00:00"
 }

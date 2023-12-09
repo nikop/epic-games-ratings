@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7459,9 +7459,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144491,
+  "EOS_Progressed": 144501,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 1027,
+  "EOS_NewPlayers": 1037,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -31744,6 +31744,11 @@
       "Time": "2023-12-09T21:05:43.6931681+00:00",
       "NumProgressed": 144491,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-09T22:06:58.9335083+00:00",
+      "NumProgressed": 144501,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -31907,7 +31912,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "champions01",
@@ -31923,7 +31928,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10114
+      "UsersEstimate": 10115
     },
     {
       "ID": "chest02",
@@ -31971,7 +31976,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "collection05",
@@ -31979,7 +31984,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "commonres01",
@@ -31987,7 +31992,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10114
+      "UsersEstimate": 10115
     },
     {
       "ID": "commonres02",
@@ -32099,7 +32104,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "energy01",
@@ -32227,7 +32232,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8669
+      "UsersEstimate": 8670
     },
     {
       "ID": "gold02",
@@ -32323,7 +32328,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "legenchant01",
@@ -32443,7 +32448,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "masterpiece",
@@ -32451,7 +32456,7 @@
       "Name": "All or Nothing!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "polonia_a",
@@ -32483,7 +32488,7 @@
       "Name": "Eternal Crusade",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "quest04",
@@ -32491,7 +32496,7 @@
       "Name": "To Hell and Back",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "rareres01",
@@ -32547,7 +32552,7 @@
       "Name": "Cash Only Please",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "sia_a",
@@ -32571,7 +32576,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10114
+      "UsersEstimate": 10115
     },
     {
       "ID": "twinenchant01",
@@ -32650,15 +32655,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144491,
+      "Progressed": 144501,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-09T21:03:37.7526468+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:05:43.6931678+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:06:58.9335078+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-09T21:03:37.7526474+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:05:43.6934042+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:03:58.7213842+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:06:58.933698+00:00"
 }

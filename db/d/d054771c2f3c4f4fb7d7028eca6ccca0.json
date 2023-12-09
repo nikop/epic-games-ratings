@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1534,
+  "EOS_Progressed": 1538,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 867,
+  "EOS_NewPlayers": 871,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1074,6 +1074,11 @@
       "Time": "2023-12-09T21:04:58.0515603+00:00",
       "NumProgressed": 1534,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T22:05:54.4351548+00:00",
+      "NumProgressed": 1538,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1110,7 +1115,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1156,9 +1161,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "c167foo",
       "Name": "Dark Prizes",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1196,9 +1201,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "c167foo",
       "Name": "High Level Mastery",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1286,7 +1291,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1461,14 +1466,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1534,
+      "Progressed": 1538,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:04:58.0515598+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:05:54.4351543+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:59:37.8724418+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:04:58.0516287+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:01:02.418764+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:05:54.4352286+00:00"
 }

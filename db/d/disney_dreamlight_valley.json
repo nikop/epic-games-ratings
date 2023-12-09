@@ -5157,11 +5157,11 @@
       "Count": 538
     }
   ],
-  "EOS_Progressed": 12423,
-  "EOS_Completed": 302,
+  "EOS_Progressed": 12427,
+  "EOS_Completed": 303,
   "EOS_NewPlayers": 324,
-  "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 2.43,
+  "EOS_NewCompleters": 15,
+  "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:05:01.9582543+00:00",
@@ -21127,6 +21127,11 @@
       "Time": "2023-12-09T21:09:09.334859+00:00",
       "NumProgressed": 12423,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-09T22:09:41.7518138+00:00",
+      "NumProgressed": 12427,
+      "NumCompleted": 303
     }
   ],
   "TotalAchievements": 15,
@@ -21138,7 +21143,7 @@
       "Name": "Angler",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "Banker",
@@ -21146,7 +21151,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4845
+      "UsersEstimate": 4847
     },
     {
       "ID": "Bestest_Friend",
@@ -21154,7 +21159,7 @@
       "Name": "Bestest Friend",
       "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 5715
+      "UsersEstimate": 5716
     },
     {
       "ID": "Chef_Cook",
@@ -21162,7 +21167,7 @@
       "Name": "Chef Cook",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2236
+      "UsersEstimate": 2237
     },
     {
       "ID": "Chit_Chatter",
@@ -21178,7 +21183,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6336
+      "UsersEstimate": 6338
     },
     {
       "ID": "Duty_Bound",
@@ -21194,7 +21199,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3851
+      "UsersEstimate": 3852
     },
     {
       "ID": "Generous",
@@ -21202,7 +21207,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "Goofys_Investor",
@@ -21210,7 +21215,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8572
+      "UsersEstimate": 8575
     },
     {
       "ID": "Miner",
@@ -21218,7 +21223,7 @@
       "Name": "Miner",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "Photographer",
@@ -21226,7 +21231,7 @@
       "Name": "Photographer",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 8448
+      "UsersEstimate": 8450
     },
     {
       "ID": "Renovator",
@@ -21234,7 +21239,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 6336
+      "UsersEstimate": 6338
     },
     {
       "ID": "Thorn_Cleaner",
@@ -21242,7 +21247,7 @@
       "Name": "Thorn Cleaner",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "Valleys_Helper",
@@ -21250,23 +21255,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7578
+      "UsersEstimate": 7580
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12423,
-      "Completed": 302
+      "Progressed": 12427,
+      "Completed": 303
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-09T16:58:00.6967859+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:09:09.3348588+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:09:41.7518135+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:53.5041293+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:58:23.1051066+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:09:09.3349621+00:00"
+  "LastUpdate_Ratings": "2023-12-09T21:59:07.536933+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:09:41.7518954+00:00"
 }

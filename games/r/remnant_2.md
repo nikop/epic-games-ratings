@@ -9,7 +9,7 @@ Rating: 4.75 (Ranked 146)
 | Regicide | 0.80% | ~134 |
 | Master of the Dark Arts | 0.80% | ~134 |
 | First of Many | 0.70% | ~1,663 |
-| Not Your Average Trait | 0.60% | ~1,425 |
+| Not Your Average Trait | 0.60% | ~1,426 |
 | Expanding Horizons | 0.50% | ~1,188 |
 | Gleaming the Cube | 0.50% | ~1,188 |
 | Not So Special Now | 0.50% | ~1,188 |
@@ -57,11 +57,11 @@ Rating: 4.75 (Ranked 146)
 | Proving Grounds | 0.20% | ~475 |
 | Carnage in C-Minor | 0.20% | ~475 |
 | Maxed Out! | 0.20% | ~475 |
-| Succession | 0.20% | ~33 |
-| You Shall Pass | 0.20% | ~33 |
+| Succession | 0.20% | ~34 |
+| You Shall Pass | 0.20% | ~34 |
 | A Foul Feast | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,581 (Ranked 66)  
+Progressed: 237,609 (Ranked 66)  
 Completed: 573 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 573 (0.24%) (Ranked 251)
 | 2023-12-06 | 236,074 | 564 |
 | 2023-12-07 | 236,590 | 567 |
 | 2023-12-08 | 237,044 | 572 |
-| 2023-12-09 | 237,581 | 573 |
+| 2023-12-09 | 237,609 | 573 |
 ## Awards
 Max (Great Boss Battles): 2,690  (Ranked 102)  
 Sum: 6,707 (Ranked 127)  

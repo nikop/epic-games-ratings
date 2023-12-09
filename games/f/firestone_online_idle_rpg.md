@@ -1,25 +1,25 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 995)  
+Rating: 4.01 (Ranked 1,008)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,982 |
-| World Map | 78.00% | ~2,501 |
-| Temple of Eternals | 56.00% | ~1,795 |
-| Prestigious | 53.00% | ~1,699 |
-| Fellowship Power | 42.00% | ~1,347 |
-| Guild Power | 24.00% | ~769 |
-| Full Party | 22.00% | ~705 |
-| Prestigious x10 | 21.00% | ~673 |
-| The game is on | 19.00% | ~609 |
-| Dragon Clicker | 16.00% | ~513 |
-| Exotic Merchant | 16.00% | ~513 |
-| Inspection | 15.00% | ~481 |
-| Miner Clicker | 15.00% | ~481 |
-| Enlightenment | 14.00% | ~449 |
-| Hero inspection | 14.00% | ~449 |
+| Victor | 93.00% | ~2,986 |
+| World Map | 78.00% | ~2,505 |
+| Temple of Eternals | 56.00% | ~1,798 |
+| Prestigious | 53.00% | ~1,702 |
+| Fellowship Power | 42.00% | ~1,349 |
+| Guild Power | 24.00% | ~771 |
+| Full Party | 22.00% | ~706 |
+| Prestigious x10 | 21.00% | ~674 |
+| The game is on | 19.00% | ~610 |
+| Dragon Clicker | 16.00% | ~514 |
+| Exotic Merchant | 16.00% | ~514 |
+| Inspection | 15.00% | ~482 |
+| Miner Clicker | 15.00% | ~482 |
+| Enlightenment | 14.00% | ~450 |
+| Hero inspection | 14.00% | ~450 |
 | Dragon Master | 13.00% | ~417 |
 | Lieutenant | 13.00% | ~417 |
 | Natural Talent | 12.00% | ~385 |
@@ -33,31 +33,31 @@ Rating: 4.05 (Ranked 995)
 | Doing My Part | 9.00% | ~289 |
 | Hunter | 9.00% | ~289 |
 | The power of Awakening | 9.00% | ~289 |
-| Four Leaf Clover | 8.00% | ~256 |
-| Frostfire Liberator | 8.00% | ~256 |
-| Mastery | 8.00% | ~256 |
-| Moving Up The Ladder | 8.00% | ~256 |
-| Relic Of The Past | 8.00% | ~256 |
-| Scroll Master | 8.00% | ~256 |
-| Here We Go Again | 7.00% | ~224 |
-| Master Enchanter | 7.00% | ~224 |
-| The father of Dragons | 7.00% | ~224 |
-| Trader | 7.00% | ~224 |
-| Blueprint Upgrades | 6.00% | ~192 |
-| Crystal Mining | 6.00% | ~192 |
-| Dragon Slayer | 6.00% | ~192 |
-| Enchanting skill | 6.00% | ~192 |
-| Engineer Mastery | 6.00% | ~192 |
-| How Do You Turn This On? | 6.00% | ~192 |
-| The Expeditioner | 6.00% | ~192 |
-| Weekly Quest Completionist | 6.00% | ~192 |
-| Active Member | 5.00% | ~160 |
-| Ancient Knowledge | 5.00% | ~160 |
-| Legendary | 5.00% | ~160 |
-| Lock And Load | 5.00% | ~160 |
-| Missions Dedication | 5.00% | ~160 |
-| Sailor | 5.00% | ~160 |
-| The Alchemist | 5.00% | ~160 |
+| Four Leaf Clover | 8.00% | ~257 |
+| Frostfire Liberator | 8.00% | ~257 |
+| Mastery | 8.00% | ~257 |
+| Moving Up The Ladder | 8.00% | ~257 |
+| Relic Of The Past | 8.00% | ~257 |
+| Scroll Master | 8.00% | ~257 |
+| Here We Go Again | 7.00% | ~225 |
+| Master Enchanter | 7.00% | ~225 |
+| The father of Dragons | 7.00% | ~225 |
+| Trader | 7.00% | ~225 |
+| Blueprint Upgrades | 6.00% | ~193 |
+| Crystal Mining | 6.00% | ~193 |
+| Dragon Slayer | 6.00% | ~193 |
+| Enchanting skill | 6.00% | ~193 |
+| Engineer Mastery | 6.00% | ~193 |
+| How Do You Turn This On? | 6.00% | ~193 |
+| The Expeditioner | 6.00% | ~193 |
+| Weekly Quest Completionist | 6.00% | ~193 |
+| Active Member | 5.00% | ~161 |
+| Ancient Knowledge | 5.00% | ~161 |
+| Legendary | 5.00% | ~161 |
+| Lock And Load | 5.00% | ~161 |
+| Missions Dedication | 5.00% | ~161 |
+| Sailor | 5.00% | ~161 |
+| The Alchemist | 5.00% | ~161 |
 | Arena Challenger | 4.00% | ~128 |
 | Background Story | 4.00% | ~128 |
 | Ebony Jungle Liberator | 4.00% | ~128 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 995)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,206 (Ranked 211)  
+Progressed: 3,211 (Ranked 211)  
 Completed: 2 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-06 | 3,082 | 2 |
 | 2023-12-07 | 3,117 | 2 |
 | 2023-12-08 | 3,164 | 2 |
-| 2023-12-09 | 3,206 | 2 |
+| 2023-12-09 | 3,211 | 2 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 475)  
 Sum: 141 (Ranked 432)  
@@ -396,3 +396,4 @@ Diff (max vs sum): 43
 | 2023-12-04 | 4.05 | 36 | 157 |
 | 2023-12-06 | 4.05 | 36 | 158 |
 | 2023-12-07 | 4.05 | 37 | 159 |
+| 2023-12-09 | 4.01 | 37 | 141 |

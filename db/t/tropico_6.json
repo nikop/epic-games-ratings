@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1437,9 +1437,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6275,
+  "EOS_Progressed": 6276,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14102,6 +14102,11 @@
       "Time": "2023-12-09T21:04:56.4763717+00:00",
       "NumProgressed": 6275,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-09T22:05:52.2261359+00:00",
+      "NumProgressed": 6276,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14121,7 +14126,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -14201,7 +14206,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -14273,7 +14278,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4706
+      "UsersEstimate": 4707
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14369,7 +14374,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2886
+      "UsersEstimate": 2887
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14432,15 +14437,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6275,
+      "Progressed": 6276,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-08T21:58:11.7577271+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:04:56.4763712+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:05:52.2261353+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:34.7926512+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:58:38.9961628+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:04:56.4764536+00:00"
+  "LastUpdate_Ratings": "2023-12-09T21:59:32.08962+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:05:52.2262225+00:00"
 }

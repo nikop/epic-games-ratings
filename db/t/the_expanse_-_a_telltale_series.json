@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -265,10 +265,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16018,
-  "EOS_Completed": 41,
-  "EOS_NewPlayers": 176,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 16019,
+  "EOS_Completed": 42,
+  "EOS_NewPlayers": 174,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
@@ -13455,6 +13455,11 @@
       "Time": "2023-12-09T21:05:00.8806614+00:00",
       "NumProgressed": 16018,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-09T22:05:58.2914041+00:00",
+      "NumProgressed": 16019,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13619,7 +13624,7 @@
       "Name": "Bosmang",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "28",
@@ -13746,13 +13751,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16018,
-      "Completed": 41
+      "Progressed": 16019,
+      "Completed": 42
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1972,
+      "Progressed": 1973,
       "Completed": 848
     }
   ],
@@ -13760,8 +13765,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-09T17:58:45.997893+00:00",
-  "LastChanged_Achievements": "2023-12-09T21:05:00.8806608+00:00",
+  "LastChanged_Achievements": "2023-12-09T22:05:58.2914037+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-09T20:59:00.6983748+00:00",
-  "LastUpdate_Achievements": "2023-12-09T21:05:00.8807993+00:00"
+  "LastUpdate_Ratings": "2023-12-09T22:00:06.1530457+00:00",
+  "LastUpdate_Achievements": "2023-12-09T22:05:58.2915117+00:00"
 }

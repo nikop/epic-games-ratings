@@ -56,8 +56,8 @@ Rating: 4.61 (Ranked 387)
 | Against the Odds | 0.40% | ~22 |
 | Snap Out of It! | 0.30% | ~17 |
 | The Magic That Empowers Me! | 0.30% | ~17 |
+| Jack of All Tomes | 0.30% | ~17 |
 | Betrayal Most Foul | 0.30% | ~17 |
-| Jack of All Tomes | 0.20% | ~11 |
 | A Very Special Ring | 0.20% | ~11 |
 | I Want to Break Free | 0.10% | ~6 |
 | The Grey Wizard | 0.10% | ~6 |

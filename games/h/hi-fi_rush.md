@@ -27,10 +27,10 @@ Rating: 4.87 (Ranked 25)
 | Time to pay up! | 9.00% | ~404 |
 | You must like calling me in, Chai | 9.00% | ~404 |
 | Does that say weakpoint? | 9.00% | ~404 |
+| NOW we got a kickass hideout! | 9.00% | ~271 |
 | Who's the boss now? | 8.00% | ~360 |
 | I have to read these things? | 8.00% | ~360 |
 | Perfecter Parry-er! | 8.00% | ~360 |
-| NOW we got a kickass hideout! | 8.00% | ~241 |
 | Well that was a rush! | 6.00% | ~270 |
 | That's a lot of junk metal… | 6.00% | ~270 |
 | There's such a thing as TOO helpful | 6.00% | ~270 |

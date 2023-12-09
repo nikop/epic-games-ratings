@@ -9,11 +9,11 @@
 | Kuku Bird Hunter | 64.00% | ~372 |
 | Storm Traveller | 58.00% | ~337 |
 | Wolf King Killer | 53.00% | ~308 |
-| Fashion Connoisseur | 51.00% | ~296 |
-| Arms Mechanic | 47.00% | ~273 |
+| Fashion Connoisseur | 52.00% | ~302 |
+| Arms Mechanic | 48.00% | ~279 |
 | Flower Thief | 43.00% | ~250 |
+| Beginner Artificer | 37.00% | ~215 |
 | Apostle of Flame | 37.00% | ~215 |
-| Beginner Artificer | 36.00% | ~209 |
 | Beginner Cook | 35.00% | ~203 |
 | Seal Breaker | 31.00% | ~180 |
 | Handyman | 27.00% | ~157 |
