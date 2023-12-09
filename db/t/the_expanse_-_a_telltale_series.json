@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15995,
+  "EOS_Progressed": 15996,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13394,6 +13394,11 @@
       "Time": "2023-12-09T04:03:56.2747523+00:00",
       "NumProgressed": 15995,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-09T05:03:53.0462434+00:00",
+      "NumProgressed": 15996,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13438,7 +13443,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "14",
@@ -13646,7 +13651,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "32",
@@ -13685,13 +13690,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15995,
+      "Progressed": 15996,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1949,
+      "Progressed": 1950,
       "Completed": 845
     }
   ],
@@ -13699,8 +13704,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-07T17:57:36.8969362+00:00",
-  "LastChanged_Achievements": "2023-12-09T04:03:56.274752+00:00",
+  "LastChanged_Achievements": "2023-12-09T05:03:53.0462427+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-09T03:58:10.3592229+00:00",
-  "LastUpdate_Achievements": "2023-12-09T04:03:56.274814+00:00"
+  "LastUpdate_Ratings": "2023-12-09T04:58:26.6824421+00:00",
+  "LastUpdate_Achievements": "2023-12-09T05:03:53.0463287+00:00"
 }

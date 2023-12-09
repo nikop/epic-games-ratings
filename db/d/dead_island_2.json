@@ -7395,9 +7395,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 732058,
+  "EOS_Progressed": 732074,
   "EOS_Completed": 2466,
-  "EOS_NewPlayers": 3300,
+  "EOS_NewPlayers": 3307,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -34080,6 +34080,11 @@
       "Time": "2023-12-09T04:08:33.5546647+00:00",
       "NumProgressed": 732058,
       "NumCompleted": 2466
+    },
+    {
+      "Time": "2023-12-09T05:08:42.7761232+00:00",
+      "NumProgressed": 732074,
+      "NumCompleted": 2466
     }
   ],
   "TotalAchievements": 51,
@@ -34227,7 +34232,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5857
     },
     {
       "ID": "ach_hazardous_materials",
@@ -34283,7 +34288,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5857
     },
     {
       "ID": "ach_knock_down",
@@ -34395,7 +34400,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5857
     },
     {
       "ID": "ach_thesacrifice",
@@ -34435,7 +34440,7 @@
       "Name": "Rising Star",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5857
     },
     {
       "ID": "ach_well_trained",
@@ -34498,13 +34503,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 732058,
+      "Progressed": 732074,
       "Completed": 2466
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 57600,
+      "Progressed": 57616,
       "Completed": 36643
     }
   ],
@@ -34512,8 +34517,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-09T03:59:05.9248215+00:00",
-  "LastChanged_Achievements": "2023-12-09T04:08:33.5546645+00:00",
+  "LastChanged_Achievements": "2023-12-09T05:08:42.7761228+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-09T03:59:05.924822+00:00",
-  "LastUpdate_Achievements": "2023-12-09T04:08:33.5547852+00:00"
+  "LastUpdate_Ratings": "2023-12-09T04:59:21.379114+00:00",
+  "LastUpdate_Achievements": "2023-12-09T05:08:42.7762823+00:00"
 }

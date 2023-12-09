@@ -1,19 +1,19 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 387)  
+Rating: 4.61 (Ranked 388)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,929 |
-| Exploitative | 4.00% | ~19,943 |
-| Point Shooting | 4.00% | ~19,943 |
-| Wet Feet | 4.00% | ~19,943 |
-| High Speed Low Drag | 3.00% | ~14,957 |
-| Lucky | 3.00% | ~14,957 |
-| Stylin' | 3.00% | ~14,957 |
-| Turf War | 3.00% | ~14,957 |
+| Wallbanger | 5.00% | ~24,930 |
+| Exploitative | 4.00% | ~19,944 |
+| Point Shooting | 4.00% | ~19,944 |
+| Wet Feet | 4.00% | ~19,944 |
+| High Speed Low Drag | 3.00% | ~14,958 |
+| Lucky | 3.00% | ~14,958 |
+| Stylin' | 3.00% | ~14,958 |
+| Turf War | 3.00% | ~14,958 |
 | Banged | 2.00% | ~9,972 |
 | Checkpoint Victory | 2.00% | ~9,972 |
 | First Blood | 2.00% | ~9,972 |
@@ -30,8 +30,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Grounded | 0.80% | ~3,989 |
 | Play to Win | 0.80% | ~3,989 |
 | Special Delivery | 0.70% | ~3,490 |
-| Firefight Victory | 0.60% | ~2,991 |
-| #1 | 0.60% | ~2,991 |
+| Firefight Victory | 0.60% | ~2,992 |
+| #1 | 0.60% | ~2,992 |
 | Cinematic | 0.50% | ~2,493 |
 | Thanks Station! | 0.40% | ~1,994 |
 | Knock Knock | 0.30% | ~1,496 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~499 |
 | Road Hazard | 0.10% | ~499 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 498,575 (Ranked 37)  
+Progressed: 498,596 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-06 | 497,840 | 2 |
 | 2023-12-07 | 498,166 | 2 |
 | 2023-12-08 | 498,485 | 2 |
-| 2023-12-09 | 498,575 | 2 |
+| 2023-12-09 | 498,596 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 403  (Ranked 234)  
 Sum: 3,217 (Ranked 175)  

@@ -8,7 +8,7 @@
 | Spectre Inductee | 80.00% | ~1,232 |
 | Medal of Exploration I | 72.00% | ~1,109 |
 | Recruit | 68.00% | ~1,047 |
-| Search and Rescue | 67.00% | ~1,032 |
+| Search and Rescue | 68.00% | ~1,047 |
 | Quarian Ally | 64.00% | ~986 |
 | Medal of Heroism | 60.00% | ~924 |
 | Honorarium of Corporate Service | 60.00% | ~924 |
@@ -50,13 +50,13 @@
 | Galactic Explorer | 33.00% | ~508 |
 | Shopaholic | 33.00% | ~508 |
 | The Assassin | 32.00% | ~493 |
+| Battlemaster | 32.00% | ~493 |
 | Catharsis | 32.00% | ~493 |
 | Ghost of the Father | 32.00% | ~493 |
 | The Cure | 32.00% | ~493 |
 | Driven | 32.00% | ~493 |
 | Focused | 31.00% | ~477 |
 | Completionist | 31.00% | ~477 |
-| Battlemaster | 31.00% | ~477 |
 | Fade Away | 31.00% | ~477 |
 | Big Game Hunter | 31.00% | ~477 |
 | Revenge! | 31.00% | ~477 |

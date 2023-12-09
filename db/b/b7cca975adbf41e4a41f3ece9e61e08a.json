@@ -3,11 +3,11 @@
   "Name": "Love Is All Around",
   "ProductSlug": "love-is-all-around-3a8046",
   "Ranking_Rating": 156,
-  "Ranking_Popularity": 534,
-  "Ranking_PopularitySum": 537,
+  "Ranking_Popularity": 535,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -193,9 +193,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10832,
+  "EOS_Progressed": 10833,
   "EOS_Completed": 198,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.83,
   "EosHistory": [
@@ -5848,6 +5848,11 @@
       "Time": "2023-12-09T03:09:07.703765+00:00",
       "NumProgressed": 10832,
       "NumCompleted": 198
+    },
+    {
+      "Time": "2023-12-09T05:08:44.5036701+00:00",
+      "NumProgressed": 10833,
+      "NumCompleted": 198
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -5860,7 +5865,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 9965
+      "UsersEstimate": 9966
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -5884,7 +5889,7 @@
       "Name": "Doesn\u0027t Matter I\u0027ll Handle It",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -5948,7 +5953,7 @@
       "Name": "A Slap In The Face!",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2816
+      "UsersEstimate": 2817
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -5956,7 +5961,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 7907
+      "UsersEstimate": 7908
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -5964,7 +5969,7 @@
       "Name": "Happy Family",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -6012,7 +6017,7 @@
       "Name": "Still Single",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 3466
+      "UsersEstimate": 3467
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -6044,7 +6049,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 7149
+      "UsersEstimate": 7150
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -6108,7 +6113,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -6140,7 +6145,7 @@
       "Name": "David",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3142
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -6164,7 +6169,7 @@
       "Name": "Worthless Speech",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -6172,7 +6177,7 @@
       "Name": "Drama King",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4550
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -6195,7 +6200,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10832,
+      "Progressed": 10833,
       "Completed": 198
     }
   ],
@@ -6203,8 +6208,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-01T14:59:07.0284768+00:00",
-  "LastChanged_Achievements": "2023-12-09T04:08:35.3854587+00:00",
+  "LastChanged_Achievements": "2023-12-09T05:08:44.5036698+00:00",
   "LastUpdate_AppInfo": "2023-12-09T02:17:01.4764819+00:00",
-  "LastUpdate_Ratings": "2023-12-09T03:59:02.0090406+00:00",
-  "LastUpdate_Achievements": "2023-12-09T04:08:35.3855118+00:00"
+  "LastUpdate_Ratings": "2023-12-09T04:59:17.6383051+00:00",
+  "LastUpdate_Achievements": "2023-12-09T05:08:44.5037144+00:00"
 }

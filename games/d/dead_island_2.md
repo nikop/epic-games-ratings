@@ -37,10 +37,10 @@ Rating: 4.54 (Ranked 534)
 | Max Headroom | 1.00% | ~7,321 |
 | Our True Nature | 1.00% | ~7,321 |
 | Down with the Sickness | 0.90% | ~6,589 |
-| Not Even My Final Form | 0.80% | ~5,856 |
-| Jumbo Keyring | 0.80% | ~5,856 |
-| Go, Bobcats! | 0.80% | ~5,856 |
-| Rising Star | 0.80% | ~5,856 |
+| Not Even My Final Form | 0.80% | ~5,857 |
+| Jumbo Keyring | 0.80% | ~5,857 |
+| Go, Bobcats! | 0.80% | ~5,857 |
+| Rising Star | 0.80% | ~5,857 |
 | On Safari | 0.60% | ~4,392 |
 | Smorgasbord | 0.60% | ~4,392 |
 | Internet Famous | 0.60% | ~4,392 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 534)
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,058 (Ranked 21)  
+Progressed: 732,074 (Ranked 21)  
 Completed: 2,466 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 2,466 (0.34%) (Ranked 234)
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
-| 2023-12-09 | 732,058 | 2,466 |
+| 2023-12-09 | 732,074 | 2,466 |
 ## Awards
 Max (Great Boss Battles): 8,017  (Ranked 49)  
 Sum: 12,328 (Ranked 82)  

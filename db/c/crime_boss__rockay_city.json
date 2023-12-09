@@ -4983,9 +4983,9 @@
       "Count": 509
     }
   ],
-  "EOS_Progressed": 91810,
+  "EOS_Progressed": 91811,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -27488,6 +27488,11 @@
       "Time": "2023-12-09T02:26:00.2355811+00:00",
       "NumProgressed": 91810,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-09T05:04:00.6983875+00:00",
+      "NumProgressed": 91811,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -27721,9 +27726,9 @@
       "ID": "ACH_0420",
       "SetID": "3kam13l",
       "Name": "King of the Hill",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 1836
     },
     {
       "ID": "ACH_0430",
@@ -27826,13 +27831,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91810,
+      "Progressed": 91811,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20157,
+      "Progressed": 20158,
       "Completed": 15582
     }
   ],
@@ -27840,8 +27845,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-08T20:00:39.1736669+00:00",
-  "LastChanged_Achievements": "2023-12-09T04:04:03.9103132+00:00",
+  "LastChanged_Achievements": "2023-12-09T05:04:00.6983872+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.1764658+00:00",
-  "LastUpdate_Ratings": "2023-12-09T03:59:31.6663994+00:00",
-  "LastUpdate_Achievements": "2023-12-09T04:04:03.9104447+00:00"
+  "LastUpdate_Ratings": "2023-12-09T04:59:46.1316799+00:00",
+  "LastUpdate_Achievements": "2023-12-09T05:04:00.6984954+00:00"
 }

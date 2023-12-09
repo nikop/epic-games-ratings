@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 130)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,657 |
-| First Class Student | 15.00% | ~45,616 |
-| Troll with the Punches | 14.00% | ~42,575 |
-| A Keen Sense of Spell | 13.00% | ~39,534 |
-| That's a Keeper | 13.00% | ~39,534 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,658 |
+| First Class Student | 15.00% | ~45,617 |
+| Troll with the Punches | 14.00% | ~42,576 |
+| A Keen Sense of Spell | 13.00% | ~39,535 |
+| That's a Keeper | 13.00% | ~39,535 |
 | The Hallowed Hero | 12.00% | ~36,493 |
 | The Defender of Dragons | 12.00% | ~36,493 |
 | Loom for Improvement | 12.00% | ~36,493 |
@@ -30,9 +30,9 @@ Rating: 4.76 (Ranked 130)
 | The Seeker of Knowledge | 6.00% | ~18,247 |
 | The Root of the Problem | 6.00% | ~18,247 |
 | Third Time's a Charm | 6.00% | ~18,247 |
-| The Toast of the Town | 5.00% | ~15,205 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,205 |
-| The Ends Petrify the Means | 5.00% | ~15,205 |
+| The Toast of the Town | 5.00% | ~15,206 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,206 |
+| The Ends Petrify the Means | 5.00% | ~15,206 |
 | Going Through the Potions | 4.00% | ~12,164 |
 | Room with a View | 4.00% | ~12,164 |
 | The Intrepid Explorer | 4.00% | ~12,164 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,129 |
 | Collector's Edition | 0.40% | ~1,216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,109 (Ranked 54)  
+Progressed: 304,112 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,14 +284,14 @@ Completed: 525 (0.17%) (Ranked 269)
 | 2023-12-06 | 304,019 | 523 |
 | 2023-12-07 | 304,059 | 525 |
 | 2023-12-08 | 304,099 | 525 |
-| 2023-12-09 | 304,109 | 525 |
+| 2023-12-09 | 304,112 | 525 |
 ## Awards
-Max (Character Customization): 25,029  (Ranked 17)  
-Sum: 50,225 (Ranked 30)  
+Max (Character Customization): 25,052  (Ranked 17)  
+Sum: 50,251 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 25,029 |
+| This game has Inclusive Character Customization | 25,052 |
 | This game has Great Boss Battles | 12,833 |
 | This game is Great for Beginners | 1,391 |
 | This game has Amazing Storytelling | 1,346 |
@@ -300,7 +300,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 1,306 |
 | This game has Amazing Characters | 1,273 |
 | This game is Highly Recommended | 1,250 |
-| This game has Quickly Understood Controls | 1,208 |
+| This game has Quickly Understood Controls | 1,211 |
 | This game has Beautiful Visuals | 1,090 |
 | This game has a Creative Community | 842 |
 ## Ratings History
@@ -566,3 +566,4 @@ Diff (max vs sum): -13
 | 2023-12-06 | 4.76 | 24,977 | 50,057 |
 | 2023-12-07 | 4.76 | 25,000 | 50,137 |
 | 2023-12-08 | 4.76 | 25,029 | 50,225 |
+| 2023-12-09 | 4.76 | 25,052 | 50,251 |

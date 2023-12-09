@@ -8,7 +8,7 @@ Rating: 4.18 (Ranked 943)
 | First Step Into the Knight | 50.00% | ~38,904 |
 | Har, Har, Har, Very Funny | 34.00% | ~26,455 |
 | Loose Ends | 33.00% | ~25,677 |
-| To the Victor Go the Spoils | 28.00% | ~21,786 |
+| To the Victor Go the Spoils | 28.00% | ~21,787 |
 | Knighthood | 27.00% | ~21,008 |
 | Get ReQ'd | 25.00% | ~19,452 |
 | Whispered Words | 24.00% | ~18,674 |
@@ -20,9 +20,9 @@ Rating: 4.18 (Ranked 943)
 | Unstoppable Force | 20.00% | ~15,562 |
 | Bad Apples in Every Orchard | 20.00% | ~15,562 |
 | Snow Problem | 19.00% | ~14,784 |
-| The Show Mud Go On | 18.00% | ~14,005 |
-| From Inside Gotham's Walls | 18.00% | ~14,005 |
-| Protector of Gotham | 17.00% | ~13,227 |
+| The Show Mud Go On | 18.00% | ~14,006 |
+| From Inside Gotham's Walls | 18.00% | ~14,006 |
+| Protector of Gotham | 17.00% | ~13,228 |
 | Universal Health Scare | 16.00% | ~12,449 |
 | In Your Element | 15.00% | ~11,671 |
 | Voiceless | 15.00% | ~11,671 |
@@ -39,8 +39,8 @@ Rating: 4.18 (Ranked 943)
 | Out of Their League | 9.00% | ~7,003 |
 | Solid Alibi | 9.00% | ~7,003 |
 | Fusion Expert | 7.00% | ~5,447 |
-| Family Meeting | 6.00% | ~4,668 |
-| A Worthy Successor | 6.00% | ~4,668 |
+| Family Meeting | 6.00% | ~4,669 |
+| A Worthy Successor | 6.00% | ~4,669 |
 | Expert Crime Fighter | 5.00% | ~3,890 |
 | Dressed to Impress | 4.00% | ~3,112 |
 | A Momentum Occasion | 3.00% | ~2,334 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 943)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,808 (Ranked 99)  
+Progressed: 77,809 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 124 (0.16%) (Ranked 271)
 | 2023-12-06 | 77,742 | 124 |
 | 2023-12-07 | 77,772 | 124 |
 | 2023-12-08 | 77,802 | 124 |
-| 2023-12-09 | 77,808 | 124 |
+| 2023-12-09 | 77,809 | 124 |
 ## Awards
 Max (Great Boss Battles): 3,001  (Ranked 98)  
 Sum: 5,123 (Ranked 140)  

@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewPlayers": 457,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-09T04:04:17.7896435+00:00",
+  "LastChanged_Achievements": "2023-12-09T05:04:13.8700864+00:00",
   "LastUpdate_AppInfo": "2023-12-06T03:56:52.9925246+00:00",
-  "LastUpdate_Ratings": "2023-12-09T03:58:28.8635953+00:00",
-  "LastUpdate_Achievements": "2023-12-09T04:04:17.7896454+00:00"
+  "LastUpdate_Ratings": "2023-12-09T04:58:45.1863957+00:00",
+  "LastUpdate_Achievements": "2023-12-09T05:04:13.8700899+00:00"
 }

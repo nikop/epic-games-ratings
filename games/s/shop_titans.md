@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 7.00% | ~10,106 |
-| Basic in Bulk | 7.00% | ~10,106 |
-| Titan's First Steps | 7.00% | ~10,106 |
-| Tinkle of Coins | 6.00% | ~8,662 |
+| Sponsored by Argon | 7.00% | ~10,107 |
+| Basic in Bulk | 7.00% | ~10,107 |
+| Titan's First Steps | 7.00% | ~10,107 |
+| Tinkle of Coins | 6.00% | ~8,663 |
 | Disintermediation | 5.00% | ~7,219 |
 | It's Free Real Estate | 5.00% | ~7,219 |
 | Capitalism Ho! | 5.00% | ~7,219 |
@@ -30,6 +30,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 3.00% | ~4,331 |
 | On the Path to Greatness | 2.00% | ~2,888 |
 | A Notch Above the Rest | 2.00% | ~2,888 |
+| Cream of the Crop | 2.00% | ~2,888 |
 | Ascended | 2.00% | ~2,888 |
 | Above the Norm | 2.00% | ~2,888 |
 | Tax not Included | 2.00% | ~2,888 |
@@ -75,7 +76,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 2.00% | ~2,888 |
 | Arcane Industries | 2.00% | ~2,888 |
 | Complete Monopoly | 2.00% | ~2,888 |
-| Cream of the Crop | 1.00% | ~1,444 |
 | Top of the World | 1.00% | ~1,444 |
 | Proud Paladin | 1.00% | ~1,444 |
 | Constellated | 1.00% | ~1,444 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~433 |
 | Capitalist Camaraderie | 0.20% | ~289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,375 (Ranked 80)  
+Progressed: 144,379 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 291 (0.20%) (Ranked 258)
 | 2023-12-06 | 144,049 | 291 |
 | 2023-12-07 | 144,162 | 291 |
 | 2023-12-08 | 144,354 | 291 |
-| 2023-12-09 | 144,375 | 291 |
+| 2023-12-09 | 144,379 | 291 |
 ## Awards
 Max (Great for Beginners): 4,870  (Ranked 75)  
 Sum: 27,678 (Ranked 50)  

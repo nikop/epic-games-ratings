@@ -2,7 +2,7 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 75,
@@ -7359,9 +7359,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 201607,
+  "EOS_Progressed": 201614,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2125,
+  "EOS_NewPlayers": 2124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33954,6 +33954,11 @@
       "Time": "2023-12-09T04:08:59.2051649+00:00",
       "NumProgressed": 201607,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-09T05:09:07.7804746+00:00",
+      "NumProgressed": 201614,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -33997,7 +34002,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 32257
+      "UsersEstimate": 32258
     },
     {
       "ID": "Achievement_13",
@@ -34045,7 +34050,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 50402
+      "UsersEstimate": 50404
     },
     {
       "ID": "Achievement_5",
@@ -34085,22 +34090,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10080
+      "UsersEstimate": 10081
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 201607,
+      "Progressed": 201614,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-12-08T20:02:54.2888656+00:00",
-  "LastChanged_Achievements": "2023-12-09T04:08:59.2051647+00:00",
+  "LastChanged_Achievements": "2023-12-09T05:09:07.7804741+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:27.1980843+00:00",
   "LastUpdate_Ratings": "2023-12-09T04:02:41.391363+00:00",
-  "LastUpdate_Achievements": "2023-12-09T04:08:59.2052984+00:00"
+  "LastUpdate_Achievements": "2023-12-09T05:09:07.7806193+00:00"
 }

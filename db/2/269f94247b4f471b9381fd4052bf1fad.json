@@ -4,7 +4,7 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 617,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -129,9 +129,9 @@
       "ID": "ACH_BREAD-AND-BREAKFAST",
       "SetID": "6lg1p1e",
       "Name": "Bread and Breakfast",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_COSPLAY",
@@ -384,8 +384,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-09T04:05:10.8302549+00:00",
+  "LastChanged_Achievements": "2023-12-09T05:05:05.6523759+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.6928375+00:00",
-  "LastUpdate_Ratings": "2023-12-09T04:02:37.8463271+00:00",
-  "LastUpdate_Achievements": "2023-12-09T04:05:10.8302807+00:00"
+  "LastUpdate_Ratings": "2023-12-09T05:00:35.311188+00:00",
+  "LastUpdate_Achievements": "2023-12-09T05:05:05.6523974+00:00"
 }

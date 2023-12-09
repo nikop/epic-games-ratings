@@ -4920,9 +4920,9 @@
       "ID": "achievement_33",
       "SetID": "b9pe172",
       "Name": "Search and Rescue",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1047
     },
     {
       "ID": "achievement_34",
@@ -5088,9 +5088,9 @@
       "ID": "achievement_52",
       "SetID": "d252ncf",
       "Name": "Battlemaster",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 493
     },
     {
       "ID": "achievement_53",
@@ -5516,8 +5516,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-09T04:09:04.1250634+00:00",
+  "LastChanged_Achievements": "2023-12-09T05:09:12.7024781+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-09T04:02:58.6346073+00:00",
-  "LastUpdate_Achievements": "2023-12-09T04:09:04.1252163+00:00"
+  "LastUpdate_Ratings": "2023-12-09T05:02:55.4606198+00:00",
+  "LastUpdate_Achievements": "2023-12-09T05:09:12.7026308+00:00"
 }

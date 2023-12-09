@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 387)  
+Rating: 4.61 (Ranked 388)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -44,10 +44,10 @@ Rating: 4.61 (Ranked 387)
 | Lord of Chaos | 0.80% | ~45 |
 | The Creator | 0.80% | ~45 |
 | The Eternal Court | 0.80% | ~45 |
+| God Emperor | 0.70% | ~39 |
 | Eternal Lord | 0.70% | ~39 |
 | Manufactured War | 0.70% | ~39 |
 | I've Got Everything I Need Right Here | 0.60% | ~33 |
-| God Emperor | 0.60% | ~33 |
 | The Goddess of Nature | 0.60% | ~33 |
 | Grexolis | 0.60% | ~33 |
 | One for All, All for One | 0.60% | ~33 |

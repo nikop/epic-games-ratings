@@ -11635,18 +11635,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 50225,
       "NumberOfAwardsMax": 25029
+    },
+    {
+      "Time": "2023-12-09T04:58:14.5405697+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50251,
+      "NumberOfAwardsMax": 25052
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50225,
-  "NumberOfAwardsMax": 25029,
+  "NumberOfAwards": 50251,
+  "NumberOfAwardsMax": 25052,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 25029
+      "Count": 25052
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -11706,7 +11712,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1208
+      "Count": 1211
     },
     {
       "Text": "This game has a Creative Community",
@@ -11715,9 +11721,9 @@
       "Count": 842
     }
   ],
-  "EOS_Progressed": 304109,
+  "EOS_Progressed": 304112,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36670,6 +36676,11 @@
       "Time": "2023-12-09T04:03:51.1051381+00:00",
       "NumProgressed": 304109,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-09T05:03:47.9329686+00:00",
+      "NumProgressed": 304112,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36681,7 +36692,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48657
+      "UsersEstimate": 48658
     },
     {
       "ID": "PFA_10",
@@ -36769,7 +36780,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15205
+      "UsersEstimate": 15206
     },
     {
       "ID": "PFA_20",
@@ -36801,7 +36812,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39534
+      "UsersEstimate": 39535
     },
     {
       "ID": "PFA_24",
@@ -36945,7 +36956,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15205
+      "UsersEstimate": 15206
     },
     {
       "ID": "PFA_40",
@@ -36961,7 +36972,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15205
+      "UsersEstimate": 15206
     },
     {
       "ID": "PFA_42",
@@ -37009,7 +37020,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45616
+      "UsersEstimate": 45617
     },
     {
       "ID": "PFA_7",
@@ -37017,7 +37028,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42575
+      "UsersEstimate": 42576
     },
     {
       "ID": "PFA_8",
@@ -37025,7 +37036,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39534
+      "UsersEstimate": 39535
     },
     {
       "ID": "PFA_9",
@@ -37040,16 +37051,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304109,
+      "Progressed": 304112,
       "Completed": 525
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-08T22:58:34.9668757+00:00",
-  "LastChanged_Achievements": "2023-12-09T04:03:51.1051379+00:00",
+  "LastChanged": "2023-12-09T04:58:14.5405695+00:00",
+  "LastChanged_Achievements": "2023-12-09T05:03:47.9329684+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-09T03:57:56.9089707+00:00",
-  "LastUpdate_Achievements": "2023-12-09T04:03:51.1052618+00:00"
+  "LastUpdate_Ratings": "2023-12-09T04:58:14.54057+00:00",
+  "LastUpdate_Achievements": "2023-12-09T05:03:47.9331491+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "snowbreak-containment-zone-abc820",
   "Ranking_Rating": 768,
   "Ranking_Popularity": 378,
-  "Ranking_PopularitySum": 313,
+  "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewPlayers": 457,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-07-20T02:00:00+00:00",
@@ -1805,10 +1805,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 615,
       "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2023-12-09T04:58:52.5146457+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 616,
+      "NumberOfAwardsMax": 94
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 615,
+  "NumberOfAwards": 616,
   "NumberOfAwardsMax": 94,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1834,7 +1840,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1885,8 +1891,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2023-12-08T20:59:05.9878565+00:00",
+  "LastChanged": "2023-12-09T04:58:52.5146455+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:54.5320085+00:00",
-  "LastUpdate_Ratings": "2023-12-09T03:58:36.492844+00:00",
-  "LastUpdate_Achievements": "2023-12-09T04:05:21.6141723+00:00"
+  "LastUpdate_Ratings": "2023-12-09T04:58:52.514646+00:00",
+  "LastUpdate_Achievements": "2023-12-09T05:05:15.9300265+00:00"
 }

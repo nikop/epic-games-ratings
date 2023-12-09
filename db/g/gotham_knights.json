@@ -4577,7 +4577,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77808,
+  "EOS_Progressed": 77809,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
@@ -25412,6 +25412,11 @@
       "Time": "2023-12-09T02:26:52.1184308+00:00",
       "NumProgressed": 77808,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-09T05:04:46.2269347+00:00",
+      "NumProgressed": 77809,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25519,7 +25524,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13227
+      "UsersEstimate": 13228
     },
     {
       "ID": "CLAYFACE_1",
@@ -25535,7 +25540,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 14005
+      "UsersEstimate": 14006
     },
     {
       "ID": "CLAYFACE_3",
@@ -25623,7 +25628,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4668
+      "UsersEstimate": 4669
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -25647,7 +25652,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21786
+      "UsersEstimate": 21787
     },
     {
       "ID": "FREEZE_1_5",
@@ -25807,7 +25812,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4668
+      "UsersEstimate": 4669
     },
     {
       "ID": "MYSTERY_01",
@@ -25847,7 +25852,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 14005
+      "UsersEstimate": 14006
     },
     {
       "ID": "MYSTERY_06",
@@ -25910,13 +25915,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77808,
+      "Progressed": 77809,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48088,
+      "Progressed": 48089,
       "Completed": 2675
     }
   ],
@@ -25924,8 +25929,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-08T05:59:38.4468085+00:00",
-  "LastChanged_Achievements": "2023-12-09T04:04:51.215854+00:00",
+  "LastChanged_Achievements": "2023-12-09T05:04:46.2269345+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-09T03:59:51.6393286+00:00",
-  "LastUpdate_Achievements": "2023-12-09T04:04:51.2159884+00:00"
+  "LastUpdate_Ratings": "2023-12-09T05:00:05.3957255+00:00",
+  "LastUpdate_Achievements": "2023-12-09T05:04:46.2270613+00:00"
 }

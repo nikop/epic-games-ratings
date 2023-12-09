@@ -19,7 +19,7 @@ Rating: 4.68 (Ranked 258)
 | Making History | 32.00% | ~1,943 |
 | Network Success | 29.00% | ~1,761 |
 | Writing a new Chapter | 26.00% | ~1,579 |
-| Spring Cleaning | 24.00% | ~1,457 |
+| Spring Cleaning | 25.00% | ~1,518 |
 | Reduce | 21.00% | ~1,275 |
 | Ups and Downs | 21.00% | ~1,275 |
 | Crucial Combo | 20.00% | ~1,214 |
