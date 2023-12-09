@@ -5,42 +5,42 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,973 |
-| Whatever It Takes | 3.00% | ~1,739 |
-| Pork Chopped | 3.00% | ~1,739 |
-| Dr. Reed, I Presume? | 2.00% | ~14,648 |
-| Git Gutte! | 2.00% | ~14,648 |
-| Anger Management | 2.00% | ~14,648 |
-| Bookworm | 2.00% | ~14,648 |
-| Break A Leg | 2.00% | ~14,648 |
-| But Doctor, I am Butcho | 2.00% | ~14,648 |
-| Can't Handle the Truth | 2.00% | ~14,648 |
-| Coup de Grâce | 2.00% | ~14,648 |
-| Hazardous Materials | 2.00% | ~14,648 |
-| Friends Like These | 2.00% | ~14,648 |
-| Hotel California | 2.00% | ~14,648 |
-| Apex Predator | 2.00% | ~14,648 |
-| Stacking the Deck | 2.00% | ~14,648 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,648 |
-| This is My Weapon | 2.00% | ~14,648 |
-| One of Us | 2.00% | ~1,159 |
-| Making Your Mark | 1.00% | ~7,324 |
-| Perks of the Job | 1.00% | ~7,324 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,324 |
-| Slayer Squad | 1.00% | ~7,324 |
-| Like Riding a Bike | 1.00% | ~7,324 |
-| Zombologist | 1.00% | ~7,324 |
-| Ooh, Shiny! | 1.00% | ~7,324 |
-| A Patton Emerges | 1.00% | ~7,324 |
-| Humanity Distilled | 1.00% | ~7,324 |
-| I Am the Resurrection | 1.00% | ~7,324 |
-| Down with the Sickness | 1.00% | ~7,324 |
-| Max Headroom | 1.00% | ~7,324 |
-| Our True Nature | 1.00% | ~7,324 |
-| Not Even My Final Form | 0.80% | ~5,859 |
-| Jumbo Keyring | 0.80% | ~5,859 |
-| Go, Bobcats! | 0.80% | ~5,859 |
-| Rising Star | 0.80% | ~5,859 |
+| Welcome To Hell-A | 3.00% | ~21,974 |
+| Whatever It Takes | 3.00% | ~1,740 |
+| Pork Chopped | 3.00% | ~1,740 |
+| Dr. Reed, I Presume? | 2.00% | ~14,649 |
+| Git Gutte! | 2.00% | ~14,649 |
+| Anger Management | 2.00% | ~14,649 |
+| Bookworm | 2.00% | ~14,649 |
+| Break A Leg | 2.00% | ~14,649 |
+| But Doctor, I am Butcho | 2.00% | ~14,649 |
+| Can't Handle the Truth | 2.00% | ~14,649 |
+| Coup de Grâce | 2.00% | ~14,649 |
+| Hazardous Materials | 2.00% | ~14,649 |
+| Friends Like These | 2.00% | ~14,649 |
+| Hotel California | 2.00% | ~14,649 |
+| Apex Predator | 2.00% | ~14,649 |
+| Stacking the Deck | 2.00% | ~14,649 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,649 |
+| This is My Weapon | 2.00% | ~14,649 |
+| One of Us | 2.00% | ~1,160 |
+| Making Your Mark | 1.00% | ~7,325 |
+| Perks of the Job | 1.00% | ~7,325 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,325 |
+| Slayer Squad | 1.00% | ~7,325 |
+| Like Riding a Bike | 1.00% | ~7,325 |
+| Zombologist | 1.00% | ~7,325 |
+| Ooh, Shiny! | 1.00% | ~7,325 |
+| A Patton Emerges | 1.00% | ~7,325 |
+| Humanity Distilled | 1.00% | ~7,325 |
+| I Am the Resurrection | 1.00% | ~7,325 |
+| Down with the Sickness | 1.00% | ~7,325 |
+| Max Headroom | 1.00% | ~7,325 |
+| Our True Nature | 1.00% | ~7,325 |
+| Not Even My Final Form | 0.80% | ~5,860 |
+| Jumbo Keyring | 0.80% | ~5,860 |
+| Go, Bobcats! | 0.80% | ~5,860 |
+| Rising Star | 0.80% | ~5,860 |
 | On Safari | 0.60% | ~4,395 |
 | Smorgasbord | 0.60% | ~4,395 |
 | Internet Famous | 0.60% | ~4,395 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 534)
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,424 (Ranked 21)  
+Progressed: 732,462 (Ranked 21)  
 Completed: 2,470 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,10 +290,10 @@ Completed: 2,470 (0.34%) (Ranked 234)
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
-| 2023-12-09 | 732,424 | 2,470 |
+| 2023-12-09 | 732,462 | 2,470 |
 ## Awards
 Max (Great Boss Battles): 8,042  (Ranked 49)  
-Sum: 12,358 (Ranked 82)  
+Sum: 12,362 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -302,7 +302,7 @@ Diff (max vs sum): -33
 | This game has Diverse Characters | 592 |
 | This game has Quickly Understood Controls | 560 |
 | This game is Relaxing | 537 |
-| This game has Amazing Storytelling | 520 |
+| This game has Amazing Storytelling | 524 |
 | This game is Extremely Fun | 509 |
 | This game is Highly Recommended | 506 |
 | This game has Amazing Characters | 467 |
@@ -541,4 +541,4 @@ Diff (max vs sum): -33
 | 2023-12-06 | 4.54 | 7,968 | 12,240 |
 | 2023-12-07 | 4.54 | 7,994 | 12,284 |
 | 2023-12-08 | 4.54 | 8,017 | 12,324 |
-| 2023-12-09 | 4.54 | 8,042 | 12,358 |
+| 2023-12-09 | 4.54 | 8,042 | 12,362 |

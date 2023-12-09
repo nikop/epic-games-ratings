@@ -49,6 +49,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Thank You, Friend | 0.30% | ~722 |
 | Shadow Spreads | 0.30% | ~722 |
 | Max Damage! | 0.30% | ~722 |
+| A Rough Road | 0.30% | ~722 |
 | To The Death! | 0.30% | ~722 |
 | Well Prepared | 0.30% | ~722 |
 | Just Chilling | 0.30% | ~722 |
@@ -67,7 +68,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Who Needs Luck? | 0.30% | ~7 |
 | Achievement Hunter | 0.20% | ~482 |
 | Challenge Increases | 0.20% | ~482 |
-| A Rough Road | 0.20% | ~482 |
 | New Game+ | 0.20% | ~482 |
 | Barbecue | 0.20% | ~482 |
 | Soul Stash | 0.20% | ~482 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,818 (Ranked 64)  
+Progressed: 240,819 (Ranked 64)  
 Completed: 293 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,7 +378,7 @@ Completed: 293 (0.12%) (Ranked 283)
 | 2023-12-06 | 240,707 | 292 |
 | 2023-12-07 | 240,750 | 292 |
 | 2023-12-08 | 240,784 | 292 |
-| 2023-12-09 | 240,818 | 293 |
+| 2023-12-09 | 240,819 | 293 |
 ## Awards
 Max (Quickly Understood Controls): 1,506  (Ranked 133)  
 Sum: 11,719 (Ranked 84)  

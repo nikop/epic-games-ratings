@@ -11,8 +11,8 @@
 | Unlocked and Loaded | 24.00% | ~205 |
 | Terminated II | 21.00% | ~179 |
 | The City | 19.00% | ~162 |
+| Challenge Mastered | 16.00% | ~136 |
 | Terminated III | 16.00% | ~136 |
-| Challenge Mastered | 15.00% | ~128 |
 | Nanonic II | 13.00% | ~111 |
 | Fully Modded | 11.00% | ~94 |
 | Starship Docks | 10.00% | ~85 |

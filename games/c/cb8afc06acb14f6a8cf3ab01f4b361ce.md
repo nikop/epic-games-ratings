@@ -18,8 +18,8 @@ Rating: 4.20 (Ranked 922)
 | They tricked me | 0.40% | ~1,306 |
 | We need to talk | 0.40% | ~1,306 |
 | I feel drawn to it | 0.40% | ~1,306 |
+| Here to stay | 0.40% | ~1,306 |
 | They won't last long | 0.40% | ~1,306 |
-| Here to stay | 0.30% | ~979 |
 | Counting on you | 0.30% | ~979 |
 | This is the end | 0.30% | ~979 |
 | We can choose to fight | 0.30% | ~979 |
@@ -46,7 +46,7 @@ Rating: 4.20 (Ranked 922)
 | Something... unnatural | 0.10% | ~326 |
 | We strike as one | 0.10% | ~326 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 326,385 (Ranked 52)  
+Progressed: 326,413 (Ranked 52)  
 Completed: 5 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 5 (0.00%) (Ranked 371)
 | 2023-12-06 | 324,965 | 4 |
 | 2023-12-07 | 325,394 | 4 |
 | 2023-12-08 | 325,868 | 5 |
-| 2023-12-09 | 326,385 | 5 |
+| 2023-12-09 | 326,413 | 5 |
 ## Awards
 Max (Great Boss Battles): 65  (Ranked 411)  
 Sum: 65 (Ranked 478)  

@@ -11,7 +11,7 @@ Rating: 4.05 (Ranked 995)
 | Prestigious | 53.00% | ~1,697 |
 | Fellowship Power | 42.00% | ~1,344 |
 | Guild Power | 24.00% | ~768 |
-| Full Party | 21.00% | ~672 |
+| Full Party | 22.00% | ~704 |
 | Prestigious x10 | 21.00% | ~672 |
 | The game is on | 19.00% | ~608 |
 | Dragon Clicker | 16.00% | ~512 |

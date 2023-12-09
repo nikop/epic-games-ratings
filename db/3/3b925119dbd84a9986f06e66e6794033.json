@@ -1137,9 +1137,9 @@
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
       "SetID": "9j9h72e",
       "Name": "FixyText: Co-author",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "TIME_JINX",
@@ -1216,8 +1216,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-09T18:08:47.2852672+00:00",
+  "LastChanged_Achievements": "2023-12-09T19:09:32.1163457+00:00",
   "LastUpdate_AppInfo": "2023-12-09T01:42:08.195524+00:00",
-  "LastUpdate_Ratings": "2023-12-09T17:57:59.7218021+00:00",
-  "LastUpdate_Achievements": "2023-12-09T18:08:47.2852898+00:00"
+  "LastUpdate_Ratings": "2023-12-09T18:57:58.301871+00:00",
+  "LastUpdate_Achievements": "2023-12-09T19:09:32.1163615+00:00"
 }

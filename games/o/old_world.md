@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 3.00% | ~471 |
 | Great | 3.00% | ~471 |
 | Magnificent | 3.00% | ~471 |
+| Valiant | 3.00% | ~471 |
 | Wise | 3.00% | ~471 |
 | Able Difficulty | 3.00% | ~471 |
 | Furious Family | 3.00% | ~471 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 2.00% | ~314 |
 | Lion | 2.00% | ~314 |
 | Mighty | 2.00% | ~314 |
-| Valiant | 2.00% | ~314 |
 | Victorious | 2.00% | ~314 |
 | Legendary Cities | 2.00% | ~314 |
 | Good Difficulty | 2.00% | ~314 |

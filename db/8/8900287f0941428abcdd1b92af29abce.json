@@ -134,25 +134,25 @@
       "ID": "ach-carpenter-table",
       "SetID": "6aph42m",
       "Name": "Time to build a house",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-chest",
       "SetID": "6aph42m",
       "Name": "I\u0027ve got no place in inventory",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-cooked-mutton",
       "SetID": "6aph42m",
       "Name": "Getting nutritions!",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-cooked-ostrich-egg",
@@ -166,9 +166,9 @@
       "ID": "ach-copper",
       "SetID": "6aph42m",
       "Name": "Harder materials",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-copper-watering-can",
@@ -230,17 +230,17 @@
       "ID": "ach-furnace",
       "SetID": "6aph42m",
       "Name": "Time to smelt",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-furniture-table",
       "SetID": "6aph42m",
       "Name": "Time to furnish",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-goblin-bed",
@@ -278,9 +278,9 @@
       "ID": "ach-ladder",
       "SetID": "6aph42m",
       "Name": "It\u0027s dark here!",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-lava-lamp",
@@ -374,9 +374,9 @@
       "ID": "ach-ruby",
       "SetID": "6aph42m",
       "Name": "Shiny!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach-saddle",
@@ -446,17 +446,17 @@
       "ID": "ach-tool-table",
       "SetID": "6aph42m",
       "Name": "I\u0027m tired of sharp stone",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-torch",
       "SetID": "6aph42m",
       "Name": "I can see in the dark now!",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach-wool",
@@ -484,8 +484,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2023-12-09T18:08:28.4476597+00:00",
+  "LastChanged_Achievements": "2023-12-09T19:09:13.100735+00:00",
   "LastUpdate_AppInfo": "2023-12-06T11:56:58.1972014+00:00",
-  "LastUpdate_Ratings": "2023-12-09T17:59:40.7297722+00:00",
-  "LastUpdate_Achievements": "2023-12-09T18:08:28.4476894+00:00"
+  "LastUpdate_Ratings": "2023-12-09T18:59:38.6367542+00:00",
+  "LastUpdate_Achievements": "2023-12-09T19:09:13.1007629+00:00"
 }

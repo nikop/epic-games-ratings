@@ -2,12 +2,12 @@
   "ID": "4a9527d6d2984bb39d527631b94ec7f2",
   "Name": "MotoGP\u212221",
   "ProductSlug": "motogp-21",
-  "Ranking_Rating": 480,
+  "Ranking_Rating": 479,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -323,6 +323,6 @@
   "FirstSeen": "2022-07-22T20:23:40.3601329+00:00",
   "LastChanged": "2023-11-25T22:00:51.5662583+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.8915418+00:00",
-  "LastUpdate_Ratings": "2023-12-09T17:58:47.2281079+00:00",
-  "LastUpdate_Achievements": "2023-12-09T18:05:10.8201308+00:00"
+  "LastUpdate_Ratings": "2023-12-09T18:58:45.9878308+00:00",
+  "LastUpdate_Achievements": "2023-12-09T19:05:37.4231503+00:00"
 }

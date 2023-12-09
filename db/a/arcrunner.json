@@ -2014,9 +2014,9 @@
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHV_CITY",
@@ -2237,8 +2237,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-12-09T18:08:32.1077825+00:00",
+  "LastChanged_Achievements": "2023-12-09T19:09:16.6105078+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.3461317+00:00",
-  "LastUpdate_Ratings": "2023-12-09T17:58:05.2909329+00:00",
-  "LastUpdate_Achievements": "2023-12-09T18:08:32.1078108+00:00"
+  "LastUpdate_Ratings": "2023-12-09T18:58:03.7260023+00:00",
+  "LastUpdate_Achievements": "2023-12-09T19:09:16.6105349+00:00"
 }

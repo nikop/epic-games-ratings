@@ -984,9 +984,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228965,
+  "EOS_Progressed": 228973,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26474,6 +26474,11 @@
       "Time": "2023-12-09T18:09:09.7887598+00:00",
       "NumProgressed": 228965,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-09T19:09:55.2772596+00:00",
+      "NumProgressed": 228973,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -26485,7 +26490,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45793
+      "UsersEstimate": 45795
     },
     {
       "ID": "ACH_BASE_10",
@@ -26493,7 +26498,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59531
+      "UsersEstimate": 59533
     },
     {
       "ID": "ACH_BASE_11",
@@ -26525,7 +26530,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20607
+      "UsersEstimate": 20608
     },
     {
       "ID": "ACH_BASE_16",
@@ -26533,7 +26538,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22896
+      "UsersEstimate": 22897
     },
     {
       "ID": "ACH_BASE_17",
@@ -26541,7 +26546,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20607
+      "UsersEstimate": 20608
     },
     {
       "ID": "ACH_BASE_18",
@@ -26549,7 +26554,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22896
+      "UsersEstimate": 22897
     },
     {
       "ID": "ACH_BASE_19",
@@ -26733,7 +26738,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 29765
+      "UsersEstimate": 29766
     },
     {
       "ID": "ACH_BASE_8",
@@ -26749,14 +26754,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20607
+      "UsersEstimate": 20608
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228965,
+      "Progressed": 228973,
       "Completed": 5
     }
   ],
@@ -26764,8 +26769,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-07T15:57:59.934317+00:00",
-  "LastChanged_Achievements": "2023-12-09T18:09:09.7887595+00:00",
+  "LastChanged_Achievements": "2023-12-09T19:09:55.2772593+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.7221977+00:00",
-  "LastUpdate_Ratings": "2023-12-09T17:59:10.030403+00:00",
-  "LastUpdate_Achievements": "2023-12-09T18:09:09.7889+00:00"
+  "LastUpdate_Ratings": "2023-12-09T18:59:08.6378882+00:00",
+  "LastUpdate_Achievements": "2023-12-09T19:09:55.2773775+00:00"
 }

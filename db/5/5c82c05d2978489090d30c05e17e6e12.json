@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65225,
+  "EOS_Progressed": 65262,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 3112,
+  "EOS_NewPlayers": 3124,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2933,6 +2933,11 @@
       "Time": "2023-12-09T18:05:47.9149126+00:00",
       "NumProgressed": 65225,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-09T19:06:14.1017181+00:00",
+      "NumProgressed": 65262,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2945,7 +2950,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24133
+      "UsersEstimate": 24147
     },
     {
       "ID": "Achievement_10",
@@ -2977,7 +2982,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "Achievement_14",
@@ -2985,7 +2990,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "Achievement_15",
@@ -2993,7 +2998,7 @@
       "Name": "Lango Plantmaster",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Achievement_16",
@@ -3009,7 +3014,7 @@
       "Name": "Great Wave Alumni",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Achievement_18",
@@ -3033,7 +3038,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17611
+      "UsersEstimate": 17621
     },
     {
       "ID": "Achievement_20",
@@ -3041,7 +3046,7 @@
       "Name": "Disciple of the Onurasi",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Achievement_21",
@@ -3057,7 +3062,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "Achievement_23",
@@ -3065,7 +3070,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "Achievement_24",
@@ -3073,7 +3078,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "Achievement_25",
@@ -3097,7 +3102,7 @@
       "Name": "Critter King",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "Achievement_28",
@@ -3121,7 +3126,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7827
+      "UsersEstimate": 7831
     },
     {
       "ID": "Achievement_30",
@@ -3145,7 +3150,7 @@
       "Name": "Art Director",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "Achievement_33",
@@ -3169,7 +3174,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5221
     },
     {
       "ID": "Achievement_5",
@@ -3177,7 +3182,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3914
+      "UsersEstimate": 3916
     },
     {
       "ID": "Achievement_6",
@@ -3185,7 +3190,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "Achievement_7",
@@ -3193,7 +3198,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "Achievement_8",
@@ -3201,7 +3206,7 @@
       "Name": "House In Order",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "Achievement_9",
@@ -3209,14 +3214,14 @@
       "Name": "Shielded by L\u00FFs",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     }
   ],
   "AchievementSets": [
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 65225,
+      "Progressed": 65262,
       "Completed": 64
     }
   ],
@@ -3224,8 +3229,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-09T04:02:47.7001869+00:00",
-  "LastChanged_Achievements": "2023-12-09T18:05:47.914912+00:00",
+  "LastChanged_Achievements": "2023-12-09T19:06:14.1017177+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:02:46.0321829+00:00",
-  "LastUpdate_Achievements": "2023-12-09T18:05:47.9149442+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:02:51.4325007+00:00",
+  "LastUpdate_Achievements": "2023-12-09T19:06:14.1017551+00:00"
 }

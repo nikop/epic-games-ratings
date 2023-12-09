@@ -21,8 +21,8 @@ Rating: 4.05 (Ranked 995)
 | The Means to Save It | 27.00% | ~89 |
 | Resilience to Sin | 25.00% | ~82 |
 | A Familiar Nest | 24.00% | ~79 |
+| Geas Aristeya | 23.00% | ~75 |
 | Periapt Alizarin | 23.00% | ~75 |
-| Geas Aristeya | 22.00% | ~72 |
 | A Perfect Cycle | 20.00% | ~66 |
 | Recruit | 19.00% | ~62 |
 | Armsman | 17.00% | ~56 |

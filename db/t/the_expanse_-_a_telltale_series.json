@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16007,
+  "EOS_Progressed": 16012,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13440,6 +13440,11 @@
       "Time": "2023-12-09T18:04:13.0941613+00:00",
       "NumProgressed": 16007,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-09T19:04:40.1152957+00:00",
+      "NumProgressed": 16012,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13468,7 +13473,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "12",
@@ -13484,7 +13489,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2082
     },
     {
       "ID": "14",
@@ -13500,7 +13505,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "16",
@@ -13508,7 +13513,7 @@
       "Name": "Drug Gifter",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "17",
@@ -13516,7 +13521,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "18",
@@ -13532,7 +13537,7 @@
       "Name": "Martian Music",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "2",
@@ -13556,7 +13561,7 @@
       "Name": "Drone Dodger",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "22",
@@ -13572,7 +13577,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "24",
@@ -13596,7 +13601,7 @@
       "Name": "Call it Even",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "27",
@@ -13628,7 +13633,7 @@
       "Name": "Captain Drummer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "30",
@@ -13660,7 +13665,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "7",
@@ -13684,7 +13689,7 @@
       "Name": "Impossible Objects",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "31",
@@ -13700,7 +13705,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "33",
@@ -13708,7 +13713,7 @@
       "Name": "Zen Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "34",
@@ -13716,7 +13721,7 @@
       "Name": "Master Negotiator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "35",
@@ -13731,22 +13736,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16007,
+      "Progressed": 16012,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1961,
-      "Completed": 847
+      "Progressed": 1966,
+      "Completed": 848
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-09T17:58:45.997893+00:00",
-  "LastChanged_Achievements": "2023-12-09T18:04:13.0941609+00:00",
+  "LastChanged_Achievements": "2023-12-09T19:04:40.1152953+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-09T17:58:45.9978936+00:00",
-  "LastUpdate_Achievements": "2023-12-09T18:04:13.0942276+00:00"
+  "LastUpdate_Ratings": "2023-12-09T18:58:44.5800945+00:00",
+  "LastUpdate_Achievements": "2023-12-09T19:04:40.1153676+00:00"
 }

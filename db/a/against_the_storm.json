@@ -3383,9 +3383,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17781,
+  "EOS_Progressed": 17784,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15138,6 +15138,11 @@
       "Time": "2023-12-09T18:04:43.0419427+00:00",
       "NumProgressed": 17781,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-09T19:05:09.8574375+00:00",
+      "NumProgressed": 17784,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15324,17 +15329,17 @@
       "ID": "WinNearForbidden",
       "SetID": "cfbk359",
       "Name": "Forbidden Lands",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 36
     },
     {
       "ID": "WinNearHaunted",
       "SetID": "cfbk359",
       "Name": "Haunted Forest",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 53
     },
     {
       "ID": "WinNearLevitating",
@@ -15460,9 +15465,9 @@
       "ID": "WinVeryHard",
       "SetID": "cfbk359",
       "Name": "A Real Challenge",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     },
     {
       "ID": "WinWIthCaches",
@@ -15550,7 +15555,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "WinNearFrosts",
@@ -15574,7 +15579,7 @@
       "Name": "Overgrown Library",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "WinNearPetrified",
@@ -15582,7 +15587,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "WinNearPresence",
@@ -15621,15 +15626,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17781,
+      "Progressed": 17784,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-09T14:57:03.5888022+00:00",
-  "LastChanged_Achievements": "2023-12-09T18:04:43.0419423+00:00",
+  "LastChanged_Achievements": "2023-12-09T19:05:09.8574372+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-09T17:57:17.2939091+00:00",
-  "LastUpdate_Achievements": "2023-12-09T18:04:43.0420456+00:00"
+  "LastUpdate_Ratings": "2023-12-09T18:57:18.2100456+00:00",
+  "LastUpdate_Achievements": "2023-12-09T19:05:09.8575219+00:00"
 }

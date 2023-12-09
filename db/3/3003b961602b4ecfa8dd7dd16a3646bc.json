@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -451,9 +451,9 @@
       "ID": "ACH_17_PICNIC",
       "SetID": "9dl0ei6",
       "Name": "Picnic",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_18_MIA",
@@ -515,9 +515,9 @@
       "ID": "ACH_25_BEACH",
       "SetID": "9dl0ei6",
       "Name": "Surfer",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_26_SIDEQUEST",
@@ -546,8 +546,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-09T18:09:09.9860454+00:00",
+  "LastChanged_Achievements": "2023-12-09T19:09:55.6561611+00:00",
   "LastUpdate_AppInfo": "2023-12-04T01:45:22.3495057+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:02:30.9942255+00:00",
-  "LastUpdate_Achievements": "2023-12-09T18:09:09.9860706+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:02:36.4610059+00:00",
+  "LastUpdate_Achievements": "2023-12-09T19:09:55.6561743+00:00"
 }

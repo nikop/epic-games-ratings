@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -889,9 +889,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3915,
+  "EOS_Progressed": 3916,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6804,6 +6804,11 @@
       "Time": "2023-12-09T17:08:32.5703887+00:00",
       "NumProgressed": 3915,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T19:08:00.8688346+00:00",
+      "NumProgressed": 3916,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6816,7 +6821,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "achievement_10",
@@ -6824,7 +6829,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "achievement_11",
@@ -6952,7 +6957,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "achievement_7",
@@ -6968,7 +6973,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "achievement_9",
@@ -6983,7 +6988,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3915,
+      "Progressed": 3916,
       "Completed": 0
     }
   ],
@@ -6991,8 +6996,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-04T09:02:50.9038857+00:00",
-  "LastChanged_Achievements": "2023-12-09T18:06:35.6410993+00:00",
+  "LastChanged_Achievements": "2023-12-09T19:08:00.8688342+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:09.3304154+00:00",
-  "LastUpdate_Ratings": "2023-12-09T18:02:44.7920975+00:00",
-  "LastUpdate_Achievements": "2023-12-09T18:06:35.6411381+00:00"
+  "LastUpdate_Ratings": "2023-12-09T19:02:50.2690125+00:00",
+  "LastUpdate_Achievements": "2023-12-09T19:08:00.8688706+00:00"
 }

@@ -818,9 +818,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5422,
+  "EOS_Progressed": 5423,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -10788,6 +10788,11 @@
       "Time": "2023-12-09T18:06:01.3863968+00:00",
       "NumProgressed": 5422,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-09T19:06:27.4170033+00:00",
+      "NumProgressed": 5423,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10832,7 +10837,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -10888,7 +10893,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -10936,7 +10941,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -10968,7 +10973,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -10983,15 +10988,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5422,
+      "Progressed": 5423,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-06T15:59:42.180054+00:00",
-  "LastChanged_Achievements": "2023-12-09T18:06:01.3863965+00:00",
+  "LastChanged_Achievements": "2023-12-09T19:06:27.4170029+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-09T17:57:15.5800119+00:00",
-  "LastUpdate_Achievements": "2023-12-09T18:06:01.3864481+00:00"
+  "LastUpdate_Ratings": "2023-12-09T18:57:16.7884874+00:00",
+  "LastUpdate_Achievements": "2023-12-09T19:06:27.4170562+00:00"
 }

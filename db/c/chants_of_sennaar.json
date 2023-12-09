@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 925,
+  "EOS_Progressed": 926,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 79,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.84,
+  "EOS_NewPlayers": 80,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 5.83,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3720,6 +3720,11 @@
       "Time": "2023-12-09T17:05:47.9573903+00:00",
       "NumProgressed": 925,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-09T19:06:09.1211444+00:00",
+      "NumProgressed": 926,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 25,
@@ -3753,9 +3758,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 194
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3851,7 +3856,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3891,7 +3896,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "PROGRESS_N2",
@@ -3905,9 +3910,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 232
     },
     {
       "ID": "PROGRESS_N4",
@@ -3930,14 +3935,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 925,
+      "Progressed": 926,
       "Completed": 54
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-09T18:05:43.0182967+00:00",
+  "LastChanged_Achievements": "2023-12-09T19:06:09.121144+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-09T17:59:59.339291+00:00",
-  "LastUpdate_Achievements": "2023-12-09T18:05:43.0183236+00:00"
+  "LastUpdate_Ratings": "2023-12-09T18:59:56.9278628+00:00",
+  "LastUpdate_Achievements": "2023-12-09T19:06:09.1211685+00:00"
 }

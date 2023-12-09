@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -193,11 +193,11 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10868,
-  "EOS_Completed": 199,
-  "EOS_NewPlayers": 291,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 1.83,
+  "EOS_Progressed": 10869,
+  "EOS_Completed": 200,
+  "EOS_NewPlayers": 292,
+  "EOS_NewCompleters": 13,
+  "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
     {
       "Time": "2023-07-27T01:53:04.8005716+00:00",
@@ -5918,6 +5918,11 @@
       "Time": "2023-12-09T18:08:21.7972733+00:00",
       "NumProgressed": 10868,
       "NumCompleted": 199
+    },
+    {
+      "Time": "2023-12-09T19:08:36.8214259+00:00",
+      "NumProgressed": 10869,
+      "NumCompleted": 200
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -5938,7 +5943,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 9346
+      "UsersEstimate": 9347
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -5994,7 +5999,7 @@
       "Name": "Boys Need To Protect Themselves",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_17",
@@ -6002,7 +6007,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 3260
+      "UsersEstimate": 3261
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -6010,7 +6015,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 3260
+      "UsersEstimate": 3261
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -6042,7 +6047,7 @@
       "Name": "Let Me Be Your Toy Boy",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -6066,7 +6071,7 @@
       "Name": "Love Actually",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -6074,7 +6079,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 3586
+      "UsersEstimate": 3587
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -6130,7 +6135,7 @@
       "Name": "Stubborn Noob",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -6138,7 +6143,7 @@
       "Name": "What I Want Is You",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 6629
+      "UsersEstimate": 6630
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -6146,7 +6151,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 6303
+      "UsersEstimate": 6304
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -6194,7 +6199,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -6210,7 +6215,7 @@
       "Name": "David",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 3260
+      "UsersEstimate": 3261
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -6226,7 +6231,7 @@
       "Name": "You\u0027re Really Something Else",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 4021
+      "UsersEstimate": 4022
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -6265,16 +6270,16 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10868,
-      "Completed": 199
+      "Progressed": 10869,
+      "Completed": 200
     }
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-01T14:59:07.0284768+00:00",
-  "LastChanged_Achievements": "2023-12-09T18:08:21.797273+00:00",
+  "LastChanged_Achievements": "2023-12-09T19:08:36.8214256+00:00",
   "LastUpdate_AppInfo": "2023-12-09T02:17:01.4764819+00:00",
-  "LastUpdate_Ratings": "2023-12-09T17:59:40.4718927+00:00",
-  "LastUpdate_Achievements": "2023-12-09T18:08:21.7973189+00:00"
+  "LastUpdate_Ratings": "2023-12-09T18:59:38.3927908+00:00",
+  "LastUpdate_Achievements": "2023-12-09T19:08:36.8214718+00:00"
 }

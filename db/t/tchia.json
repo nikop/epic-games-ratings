@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7908,
+  "EOS_Progressed": 7910,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8836,6 +8836,11 @@
       "Time": "2023-12-09T13:06:26.3076265+00:00",
       "NumProgressed": 7908,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-09T19:04:13.0443261+00:00",
+      "NumProgressed": 7910,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8895,7 +8900,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -8927,7 +8932,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "HISTORIAN",
@@ -8935,7 +8940,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ICONOCLAST",
@@ -8943,7 +8948,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "IN_A_PINCH",
@@ -8959,7 +8964,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "LIVE_WIRE",
@@ -8975,7 +8980,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "SNIP_SNIP",
@@ -8991,7 +8996,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -9014,7 +9019,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7908,
+      "Progressed": 7910,
       "Completed": 34
     }
   ],
@@ -9022,8 +9027,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-09T18:03:47.2162019+00:00",
+  "LastChanged_Achievements": "2023-12-09T19:04:13.0443257+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:30.2114196+00:00",
-  "LastUpdate_Ratings": "2023-12-09T17:59:43.7892025+00:00",
-  "LastUpdate_Achievements": "2023-12-09T18:03:47.2162552+00:00"
+  "LastUpdate_Ratings": "2023-12-09T18:59:41.7543185+00:00",
+  "LastUpdate_Achievements": "2023-12-09T19:04:13.04438+00:00"
 }

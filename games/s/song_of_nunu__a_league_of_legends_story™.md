@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.65 (Ranked 317)  
+Rating: 4.57 (Ranked 479)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,8 +24,8 @@ Rating: 4.65 (Ranked 317)
 | The Relentless Storm | 47.00% | ~521 |
 | A Tragic Reminder | 45.00% | ~499 |
 | 3000 Year Blackout | 45.00% | ~499 |
+| So Close | 43.00% | ~476 |
 | The Finisher | 43.00% | ~476 |
-| So Close | 42.00% | ~465 |
 | You Get Used To It | 42.00% | ~465 |
 | Family | 40.00% | ~443 |
 | Biggest Snowball Ever | 40.00% | ~443 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 317)
 | We Are Speed | 2.00% | ~22 |
 | Sneaky Notai | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,108 (Ranked 260)  
+Progressed: 1,108 (Ranked 261)  
 Completed: 8 (0.72%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,3 +105,4 @@ Completed: 8 (0.72%) (Ranked 187)
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-12-07 | 4.65 | 0 | 0 |
+| 2023-12-09 | 4.57 | 0 | 0 |
