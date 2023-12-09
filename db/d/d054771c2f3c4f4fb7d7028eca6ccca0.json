@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1471,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 902,
+  "EOS_NewPlayers": 898,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1107,9 +1107,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "c167foo",
       "Name": "Grim Challenger",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1402,8 +1402,8 @@
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-09T07:04:03.3393273+00:00",
+  "LastChanged_Achievements": "2023-12-09T08:05:02.4727496+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-09T06:59:00.3802527+00:00",
-  "LastUpdate_Achievements": "2023-12-09T07:04:03.3393835+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:00:01.9829512+00:00",
+  "LastUpdate_Achievements": "2023-12-09T08:05:02.4727848+00:00"
 }

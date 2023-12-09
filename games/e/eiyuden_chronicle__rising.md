@@ -39,7 +39,7 @@ Number of Ratings: 48  (23.09.2022)
 | The Pride of the Town | 23.00% | ~163 |
 | This Treasure I've Found | 21.00% | ~148 |
 | New Nevaeh's Number One Customer | 21.00% | ~148 |
-| Arms Master | 19.00% | ~134 |
+| Arms Master | 20.00% | ~141 |
 | Rune Scholar | 17.00% | ~120 |
 | No Treasure Left Behind | 14.00% | ~99 |
 | One-Hundred Resident Record | 12.00% | ~85 |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5080,
+  "EOS_Progressed": 5081,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -4389,6 +4389,11 @@
       "Time": "2023-12-09T07:08:02.2591344+00:00",
       "NumProgressed": 5080,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-09T08:08:06.1455233+00:00",
+      "NumProgressed": 5081,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -4401,7 +4406,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -4409,7 +4414,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -4439,9 +4444,9 @@
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
       "SetID": "4d50jip",
       "Name": "Move the sofa",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1778
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -4457,7 +4462,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 4064
+      "UsersEstimate": 4065
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -4528,14 +4533,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5080,
+      "Progressed": 5081,
       "Completed": 47
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-09T07:08:02.259134+00:00",
+  "LastChanged_Achievements": "2023-12-09T08:08:06.1455229+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:12.1666356+00:00",
-  "LastUpdate_Ratings": "2023-12-09T06:57:13.6581748+00:00",
-  "LastUpdate_Achievements": "2023-12-09T07:08:02.2591647+00:00"
+  "LastUpdate_Ratings": "2023-12-09T07:57:28.7327108+00:00",
+  "LastUpdate_Achievements": "2023-12-09T08:08:06.1455537+00:00"
 }

@@ -1,34 +1,34 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.55 (Ranked 511)  
+Rating: 4.55 (Ranked 510)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 86.00% | ~419 |
+| Huzza, he's back. | 86.00% | ~420 |
 | And again, and again, and... | 64.00% | ~312 |
-| Kuvaq Minigame-Master | 62.00% | ~302 |
-| Burn, Elysium, burn! | 62.00% | ~302 |
+| Kuvaq Minigame-Master | 62.00% | ~303 |
+| Burn, Elysium, burn! | 62.00% | ~303 |
 | FunScore | 55.00% | ~268 |
-| Funtime's over | 53.00% | ~258 |
+| Funtime's over | 53.00% | ~259 |
 | Chunky | 50.00% | ~244 |
 | Boat of love, boat of love | 49.00% | ~239 |
 | Shall we play a game? | 47.00% | ~229 |
-| School's out | 44.00% | ~214 |
-| Scaffolding Expert | 37.00% | ~180 |
-| Elysian Minigame-Master | 37.00% | ~180 |
-| Sole Music | 36.00% | ~175 |
+| School's out | 44.00% | ~215 |
+| Scaffolding Expert | 37.00% | ~181 |
+| Elysian Minigame-Master | 37.00% | ~181 |
+| Sole Music | 36.00% | ~176 |
 | Portals come in packs | 30.00% | ~146 |
-| No man left behind! | 29.00% | ~141 |
+| No man left behind! | 29.00% | ~142 |
 | Photo Friend | 26.00% | ~127 |
-| Brainfreeze | 21.00% | ~102 |
-| And everything comes full circle. | 20.00% | ~97 |
+| Brainfreeze | 20.00% | ~98 |
+| And everything comes full circle. | 20.00% | ~98 |
 | Masseltov | 19.00% | ~93 |
 | Quickdraw | 16.00% | ~78 |
 | Heading the inverter | 15.00% | ~73 |
 | Thuna...? | 14.00% | ~68 |
 | Monstrous Harassment | 14.00% | ~68 |
-| Blast from the Past | 12.00% | ~58 |
+| Blast from the Past | 12.00% | ~59 |
 | Play it again, Ronny | 11.00% | ~54 |
 | Paradox! | 11.00% | ~54 |
 | Weapons 101 | 9.00% | ~44 |
@@ -42,8 +42,8 @@ Rating: 4.55 (Ranked 511)
 | Distraction | 5.00% | ~24 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 487 (Ranked 320)  
-Completed: 7 (1.44%) (Ranked 147)  
+Progressed: 488 (Ranked 320)  
+Completed: 7 (1.43%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,6 +130,7 @@ Completed: 7 (1.44%) (Ranked 147)
 | 2023-12-03 | 484 | 7 |
 | 2023-12-04 | 485 | 7 |
 | 2023-12-08 | 487 | 7 |
+| 2023-12-09 | 488 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

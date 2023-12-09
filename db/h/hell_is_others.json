@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1309,9 +1309,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259164,
+  "EOS_Progressed": 259166,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23624,6 +23624,11 @@
       "Time": "2023-12-09T07:08:12.6266375+00:00",
       "NumProgressed": 259164,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-09T08:08:20.2972942+00:00",
+      "NumProgressed": 259166,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -23635,7 +23640,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18141
+      "UsersEstimate": 18142
     },
     {
       "ID": "Act2",
@@ -23739,7 +23744,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25916
+      "UsersEstimate": 25917
     },
     {
       "ID": "CreditLevel2",
@@ -24027,7 +24032,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25916
+      "UsersEstimate": 25917
     },
     {
       "ID": "ReachNDays2",
@@ -24082,7 +24087,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259164,
+      "Progressed": 259166,
       "Completed": 3
     }
   ],
@@ -24090,8 +24095,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-08T13:02:45.6518515+00:00",
-  "LastChanged_Achievements": "2023-12-09T07:08:12.6266371+00:00",
+  "LastChanged_Achievements": "2023-12-09T08:08:20.2972938+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:43.7496821+00:00",
-  "LastUpdate_Ratings": "2023-12-09T06:58:19.242201+00:00",
-  "LastUpdate_Achievements": "2023-12-09T07:08:12.6267536+00:00"
+  "LastUpdate_Ratings": "2023-12-09T07:59:02.9154207+00:00",
+  "LastUpdate_Achievements": "2023-12-09T08:08:20.2974177+00:00"
 }

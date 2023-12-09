@@ -2,7 +2,7 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 156,
+  "Ranking_Rating": 146,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 177,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2023-10-30T17:01:05.4334371+00:00",
@@ -195,15 +195,21 @@
       "Rating": 4.74,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-09T07:57:44.7970458+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7588,
+  "EOS_Progressed": 7591,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5956,6 +5962,11 @@
       "Time": "2023-12-09T07:09:33.6735537+00:00",
       "NumProgressed": 7588,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-09T08:10:27.1018529+00:00",
+      "NumProgressed": 7591,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5976,7 +5987,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "BeLikeWater",
@@ -6008,7 +6019,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "Eavesdropper",
@@ -6112,7 +6123,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "NoMoreTotems",
@@ -6160,7 +6171,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "TheQuarterback",
@@ -6168,7 +6179,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "ThisIsDharma",
@@ -6239,16 +6250,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7588,
+      "Progressed": 7591,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-09T07:09:33.6735534+00:00",
+  "LastChanged": "2023-12-09T07:57:44.7970456+00:00",
+  "LastChanged_Achievements": "2023-12-09T08:10:27.1018525+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-09T06:57:24.9525456+00:00",
-  "LastUpdate_Achievements": "2023-12-09T07:09:33.6736007+00:00"
+  "LastUpdate_Ratings": "2023-12-09T07:57:44.797046+00:00",
+  "LastUpdate_Achievements": "2023-12-09T08:10:27.101898+00:00"
 }

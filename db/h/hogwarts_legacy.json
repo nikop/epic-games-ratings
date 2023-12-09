@@ -11721,9 +11721,9 @@
       "Count": 842
     }
   ],
-  "EOS_Progressed": 304114,
+  "EOS_Progressed": 304117,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36691,6 +36691,11 @@
       "Time": "2023-12-09T07:04:01.4320624+00:00",
       "NumProgressed": 304114,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-09T08:05:00.0359941+00:00",
+      "NumProgressed": 304117,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36702,7 +36707,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48658
+      "UsersEstimate": 48659
     },
     {
       "ID": "PFA_10",
@@ -36774,7 +36779,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27370
+      "UsersEstimate": 27371
     },
     {
       "ID": "PFA_19",
@@ -36862,7 +36867,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 9123
+      "UsersEstimate": 9124
     },
     {
       "ID": "PFA_29",
@@ -36878,7 +36883,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9123
+      "UsersEstimate": 9124
     },
     {
       "ID": "PFA_30",
@@ -36918,7 +36923,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9123
+      "UsersEstimate": 9124
     },
     {
       "ID": "PFA_35",
@@ -36926,7 +36931,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30411
+      "UsersEstimate": 30412
     },
     {
       "ID": "PFA_36",
@@ -37006,7 +37011,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27370
+      "UsersEstimate": 27371
     },
     {
       "ID": "PFA_45",
@@ -37030,7 +37035,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45617
+      "UsersEstimate": 45618
     },
     {
       "ID": "PFA_7",
@@ -37054,14 +37059,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30411
+      "UsersEstimate": 30412
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304114,
+      "Progressed": 304117,
       "Completed": 525
     }
   ],
@@ -37069,8 +37074,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-09T04:58:14.5405695+00:00",
-  "LastChanged_Achievements": "2023-12-09T07:04:01.4320621+00:00",
+  "LastChanged_Achievements": "2023-12-09T08:05:00.0359938+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-09T06:58:11.619804+00:00",
-  "LastUpdate_Achievements": "2023-12-09T07:04:01.432201+00:00"
+  "LastUpdate_Ratings": "2023-12-09T07:58:52.1176283+00:00",
+  "LastUpdate_Achievements": "2023-12-09T08:05:00.0361467+00:00"
 }

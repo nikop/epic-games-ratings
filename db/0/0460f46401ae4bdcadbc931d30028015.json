@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -891,7 +891,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4089,
+  "EOS_Progressed": 4090,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -6791,6 +6791,11 @@
       "Time": "2023-12-09T07:06:17.7546343+00:00",
       "NumProgressed": 4089,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-09T08:08:01.5116381+00:00",
+      "NumProgressed": 4090,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6811,7 +6816,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "achievement_11",
@@ -6835,7 +6840,7 @@
       "Name": "MVP",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "achievement_14",
@@ -6963,14 +6968,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4089,
+      "Progressed": 4090,
       "Completed": 0
     }
   ],
@@ -6978,8 +6983,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-09T03:57:35.4938932+00:00",
-  "LastChanged_Achievements": "2023-12-09T07:06:17.7546337+00:00",
+  "LastChanged_Achievements": "2023-12-09T08:08:01.5116378+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-09T06:57:50.116666+00:00",
-  "LastUpdate_Achievements": "2023-12-09T07:06:17.7546751+00:00"
+  "LastUpdate_Ratings": "2023-12-09T07:58:20.7857211+00:00",
+  "LastUpdate_Achievements": "2023-12-09T08:08:01.5116702+00:00"
 }

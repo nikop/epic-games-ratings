@@ -5,7 +5,7 @@ Rating: 4.51 (Ranked 575)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,887 |
+| Stylish | 9.00% | ~2,888 |
 | Advancement | 7.00% | ~2,246 |
 | Meticulously Efficient | 7.00% | ~2,246 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,604 |
@@ -20,16 +20,16 @@ Rating: 4.51 (Ranked 575)
 | There you are! | 4.00% | ~1,283 |
 | Vaporous Expansion | 4.00% | ~1,283 |
 | Whoopsie | 4.00% | ~1,283 |
-| Animated | 3.00% | ~962 |
-| We have the best insurance | 3.00% | ~962 |
-| Ectoplasmic Entity | 3.00% | ~962 |
-| Ghostbuster In Training | 3.00% | ~962 |
-| Icing on the Cake | 3.00% | ~962 |
-| Legions | 3.00% | ~962 |
-| Pesky Jerks | 3.00% | ~962 |
-| Right back at ya | 3.00% | ~962 |
-| Side Hustle | 3.00% | ~962 |
-| Summoner | 3.00% | ~962 |
+| Animated | 3.00% | ~963 |
+| We have the best insurance | 3.00% | ~963 |
+| Ectoplasmic Entity | 3.00% | ~963 |
+| Ghostbuster In Training | 3.00% | ~963 |
+| Icing on the Cake | 3.00% | ~963 |
+| Legions | 3.00% | ~963 |
+| Pesky Jerks | 3.00% | ~963 |
+| Right back at ya | 3.00% | ~963 |
+| Side Hustle | 3.00% | ~963 |
+| Summoner | 3.00% | ~963 |
 | Back Off | 2.00% | ~642 |
 | Collector | 2.00% | ~642 |
 | Escape Artist | 2.00% | ~642 |
@@ -47,7 +47,7 @@ Rating: 4.51 (Ranked 575)
 | Surprise! | 1.00% | ~321 |
 | Terrifying | 1.00% | ~321 |
 | Therapeutic | 0.80% | ~257 |
-| Rift Seeker | 0.60% | ~192 |
+| Rift Seeker | 0.60% | ~193 |
 | Master Collector | 0.50% | ~160 |
 | Ghost Expert | 0.30% | ~96 |
 | Catostrophic Destroyer | 0.20% | ~64 |
@@ -57,7 +57,7 @@ Rating: 4.51 (Ranked 575)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,083 (Ranked 124)  
+Progressed: 32,084 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 69 (0.22%) (Ranked 256)
 | 2023-12-06 | 32,004 | 69 |
 | 2023-12-07 | 32,036 | 69 |
 | 2023-12-08 | 32,068 | 69 |
-| 2023-12-09 | 32,083 | 69 |
+| 2023-12-09 | 32,084 | 69 |
 ## Awards
 Max (Great for Beginners): 321  (Ranked 251)  
 Sum: 2,888 (Ranked 180)  

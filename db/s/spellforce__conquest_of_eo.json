@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -500,9 +500,9 @@
       "ID": "Landmark_SilverDriftMine",
       "SetID": "7b9f97e",
       "Name": "Silver Drift Hollow Mine",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Landmark_StormwatchFaste",
@@ -684,9 +684,9 @@
       "ID": "Max_Reputation_SilverDriftHollow",
       "SetID": "7b9f97e",
       "Name": "Friend of Silver Drift Hollow",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Max_Reputation_Southwatch",
@@ -813,8 +813,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-09T07:08:37.6699842+00:00",
+  "LastChanged_Achievements": "2023-12-09T08:08:53.7083011+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:11.7959747+00:00",
-  "LastUpdate_Ratings": "2023-12-09T06:57:50.2326323+00:00",
-  "LastUpdate_Achievements": "2023-12-09T07:08:37.6700295+00:00"
+  "LastUpdate_Ratings": "2023-12-09T07:58:20.9544469+00:00",
+  "LastUpdate_Achievements": "2023-12-09T08:08:53.7083479+00:00"
 }

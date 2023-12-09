@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -535,9 +535,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3729,
+  "EOS_Progressed": 3730,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5870,6 +5870,11 @@
       "Time": "2023-12-08T19:03:41.7235633+00:00",
       "NumProgressed": 3729,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-09T08:04:43.1820757+00:00",
+      "NumProgressed": 3730,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -6065,7 +6070,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6201,7 +6206,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2834
+      "UsersEstimate": 2835
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6216,15 +6221,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3729,
+      "Progressed": 3730,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-09T07:03:48.8709511+00:00",
+  "LastChanged_Achievements": "2023-12-09T08:04:43.1820753+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:35.7033793+00:00",
-  "LastUpdate_Ratings": "2023-12-09T06:58:08.7554791+00:00",
-  "LastUpdate_Achievements": "2023-12-09T07:03:48.8710081+00:00"
+  "LastUpdate_Ratings": "2023-12-09T07:58:47.9883018+00:00",
+  "LastUpdate_Achievements": "2023-12-09T08:04:43.1821197+00:00"
 }

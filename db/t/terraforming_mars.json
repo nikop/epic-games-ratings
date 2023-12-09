@@ -3295,9 +3295,9 @@
       "Count": 257
     }
   ],
-  "EOS_Progressed": 85490,
+  "EOS_Progressed": 85491,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 817,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -29295,6 +29295,11 @@
       "Time": "2023-12-09T07:05:14.3014495+00:00",
       "NumProgressed": 85490,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-12-09T08:06:36.7079939+00:00",
+      "NumProgressed": 85491,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 30,
@@ -29386,7 +29391,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 31631
+      "UsersEstimate": 31632
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -29442,7 +29447,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 22227
+      "UsersEstimate": 22228
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -29482,7 +29487,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 29921
+      "UsersEstimate": 29922
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -29545,15 +29550,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 85490,
+      "Progressed": 85491,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-08T23:59:31.625652+00:00",
-  "LastChanged_Achievements": "2023-12-09T07:05:14.3014493+00:00",
+  "LastChanged_Achievements": "2023-12-09T08:06:36.7079935+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:44.8588444+00:00",
-  "LastUpdate_Ratings": "2023-12-09T06:59:40.2979491+00:00",
-  "LastUpdate_Achievements": "2023-12-09T07:05:14.3015597+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:00:58.1559347+00:00",
+  "LastUpdate_Achievements": "2023-12-09T08:06:36.7081226+00:00"
 }

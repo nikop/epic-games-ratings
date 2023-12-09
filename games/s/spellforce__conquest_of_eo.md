@@ -34,6 +34,7 @@
 | Stormwatch Faste | 15.00% | ~6 |
 | Defeat Gor | 12.00% | ~5 |
 | Friend of Orgash | 12.00% | ~5 |
+| Friend of Silver Drift Hollow | 12.00% | ~5 |
 | Magic Academy | 12.00% | ~5 |
 | A Joke | 12.00% | ~5 |
 | Defeat Isgrimm | 10.00% | ~4 |
@@ -41,9 +42,9 @@
 | Lore's Tale | 10.00% | ~4 |
 | Yngrid's Tale | 10.00% | ~4 |
 | The Forge of Regan Gor | 10.00% | ~4 |
+| Silver Drift Hollow Mine | 10.00% | ~4 |
 | Mage Teacher | 10.00% | ~4 |
 | A Master of Magic | 10.00% | ~4 |
-| Friend of Silver Drift Hollow | 10.00% | ~4 |
 | Friend of Windholme | 10.00% | ~4 |
 | Get to the Airship! | 7.00% | ~3 |
 | Defeat Hokan | 7.00% | ~3 |
@@ -53,7 +54,6 @@
 | Defeat Yria | 7.00% | ~3 |
 | Elynn's Tale | 7.00% | ~3 |
 | Lytra's Tale | 7.00% | ~3 |
-| Silver Drift Hollow Mine | 7.00% | ~3 |
 | Tuscari Sea Portal | 7.00% | ~3 |
 | Balanced | 7.00% | ~3 |
 | Friend of Grey Dusk Vale | 7.00% | ~3 |

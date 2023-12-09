@@ -3377,9 +3377,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17737,
+  "EOS_Progressed": 17739,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15077,6 +15077,11 @@
       "Time": "2023-12-09T07:04:35.3703102+00:00",
       "NumProgressed": 17737,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-09T08:05:45.0643206+00:00",
+      "NumProgressed": 17739,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15207,9 +15212,9 @@
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     },
     {
       "ID": "WinNearBarren",
@@ -15351,9 +15356,9 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 106
     },
     {
       "ID": "WinOnCursed",
@@ -15367,9 +15372,9 @@
       "ID": "WinOnMarshlands",
       "SetID": "cfbk359",
       "Name": "The Marshlands",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 124
     },
     {
       "ID": "WinOnMoorlands",
@@ -15560,15 +15565,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17737,
+      "Progressed": 17739,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-08T19:00:22.4048457+00:00",
-  "LastChanged_Achievements": "2023-12-09T07:04:35.3703099+00:00",
+  "LastChanged_Achievements": "2023-12-09T08:05:45.0643202+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-09T07:00:14.7675817+00:00",
-  "LastUpdate_Achievements": "2023-12-09T07:04:35.3704074+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:01:46.2768313+00:00",
+  "LastUpdate_Achievements": "2023-12-09T08:05:45.0644333+00:00"
 }

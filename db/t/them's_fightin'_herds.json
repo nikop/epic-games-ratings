@@ -2,7 +2,7 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 388,
+  "Ranking_Rating": 387,
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 69,
@@ -319,7 +319,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233317,
+  "EOS_Progressed": 233319,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
@@ -23899,6 +23899,11 @@
       "Time": "2023-12-09T07:08:46.7014594+00:00",
       "NumProgressed": 233317,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-09T08:09:05.8449452+00:00",
+      "NumProgressed": 233319,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -23974,7 +23979,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83994
+      "UsersEstimate": 83995
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -24133,7 +24138,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233317,
+      "Progressed": 233319,
       "Completed": 5
     }
   ],
@@ -24141,8 +24146,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-08T19:00:51.9158199+00:00",
-  "LastChanged_Achievements": "2023-12-09T07:08:46.7014592+00:00",
+  "LastChanged_Achievements": "2023-12-09T08:09:05.844945+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:16.4790911+00:00",
-  "LastUpdate_Ratings": "2023-12-09T06:57:16.4633224+00:00",
-  "LastUpdate_Achievements": "2023-12-09T07:08:46.7015741+00:00"
+  "LastUpdate_Ratings": "2023-12-09T07:57:32.7075598+00:00",
+  "LastUpdate_Achievements": "2023-12-09T08:09:05.8450702+00:00"
 }

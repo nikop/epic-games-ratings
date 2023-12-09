@@ -258,6 +258,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | True Catholic | 0.10% | ~472 |
 | Truly Divine Ruler | 0.10% | ~472 |
 | Trustworthy | 0.10% | ~472 |
+| Turn the Table | 0.10% | ~472 |
 | Turning the Tide | 0.10% | ~472 |
 | Vasa or Wettin? | 0.10% | ~472 |
 | Victorian Three | 0.10% | ~472 |
@@ -359,7 +360,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | To the Bone | 0.00% | ~0 |
 | True Heir of Timur | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
-| Turn the Table | 0.00% | ~0 |
 | Turtles all the way down | 0.00% | ~0 |
 | Ultimate Military | 0.00% | ~0 |
 | Venetian Sea | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,532 (Ranked 42)  
+Progressed: 471,551 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -603,7 +603,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-06 | 470,325 | 1 |
 | 2023-12-07 | 470,773 | 1 |
 | 2023-12-08 | 471,386 | 1 |
-| 2023-12-09 | 471,532 | 1 |
+| 2023-12-09 | 471,551 | 1 |
 ## Awards
 Max (Educational): 7,307  (Ranked 54)  
 Sum: 60,184 (Ranked 24)  

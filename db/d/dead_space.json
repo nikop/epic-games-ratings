@@ -7120,9 +7120,9 @@
       "ID": "achievement_4",
       "SetID": "222fo9l",
       "Name": "Cannon Fodder",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1380
     },
     {
       "ID": "achievement_40",
@@ -7241,8 +7241,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-12-06T16:57:59.3139948+00:00",
-  "LastChanged_Achievements": "2023-12-09T07:08:56.91149+00:00",
+  "LastChanged_Achievements": "2023-12-09T08:09:38.5848181+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.9880376+00:00",
-  "LastUpdate_Ratings": "2023-12-09T06:59:16.8734084+00:00",
-  "LastUpdate_Achievements": "2023-12-09T07:08:56.9115372+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:00:24.7018007+00:00",
+  "LastUpdate_Achievements": "2023-12-09T08:09:38.5848745+00:00"
 }

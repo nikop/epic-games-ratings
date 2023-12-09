@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -2608,9 +2608,9 @@
       "ID": "EV_ACH11",
       "SetID": "6jeac23",
       "Name": "Biggest Snowball Ever",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 442
     },
     {
       "ID": "EV_ACH12",
@@ -2856,9 +2856,9 @@
       "ID": "EV_ACH42",
       "SetID": "6jeac23",
       "Name": "Deadliest and Biggest Snowball Ever!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 442
     },
     {
       "ID": "EV_ACH43",
@@ -2889,8 +2889,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-07T18:57:06.0810635+00:00",
-  "LastChanged_Achievements": "2023-12-09T07:09:44.2201002+00:00",
+  "LastChanged_Achievements": "2023-12-09T08:10:40.6150891+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:30.6562338+00:00",
-  "LastUpdate_Ratings": "2023-12-09T06:57:56.5534015+00:00",
-  "LastUpdate_Achievements": "2023-12-09T07:09:44.2201302+00:00"
+  "LastUpdate_Ratings": "2023-12-09T07:58:30.3155612+00:00",
+  "LastUpdate_Achievements": "2023-12-09T08:10:40.6151304+00:00"
 }

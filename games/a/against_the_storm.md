@@ -14,20 +14,20 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 2.00% | ~355 |
 | Gathering Storm | 2.00% | ~355 |
 | Untamed Wilds | 1.00% | ~177 |
+| The Marshlands | 0.70% | ~124 |
 | No Deaths | 0.70% | ~124 |
-| The Marshlands | 0.60% | ~106 |
+| Coral Forest | 0.60% | ~106 |
 | Taking Action | 0.60% | ~106 |
 | First Real Expedition | 0.50% | ~89 |
 | Overcoming Difficulty | 0.50% | ~89 |
 | Fertile Meadows | 0.50% | ~89 |
-| Coral Forest | 0.50% | ~89 |
 | The Scarlet Orchard | 0.50% | ~89 |
+| Bandit Camp | 0.40% | ~71 |
 | Royal Outpost | 0.40% | ~71 |
 | Lost Colonies | 0.40% | ~71 |
 | Watchtower | 0.40% | ~71 |
 | Homesick | 0.30% | ~53 |
 | Ruined Armory | 0.30% | ~53 |
-| Bandit Camp | 0.30% | ~53 |
 | Ancient Battleground | 0.30% | ~53 |
 | Sparkdew Crystals | 0.30% | ~53 |
 | Levitating Monument | 0.30% | ~53 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,737 (Ranked 146)  
+Progressed: 17,739 (Ranked 146)  
 Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 43 (0.24%) (Ranked 251)
 | 2023-12-06 | 17,636 | 49 |
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
-| 2023-12-09 | 17,737 | 43 |
+| 2023-12-09 | 17,739 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,245 (Ranked 174)  

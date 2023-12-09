@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 93.00% | ~123 |
-| MLG 360 no scope kill! | 93.00% | ~123 |
-| Are you ready to rumble? | 93.00% | ~123 |
+| Tastes just like chicken! | 94.00% | ~124 |
+| MLG 360 no scope kill! | 94.00% | ~124 |
+| Are you ready to rumble? | 94.00% | ~124 |
 | That's what cheese said! | 89.00% | ~117 |
 | AHHHHHH.....I'M ON FIRE!!! | 86.00% | ~114 |
 | I like you...but I have to kill you... | 86.00% | ~114 |
-| Not so hip anymore! | 84.00% | ~111 |
-| Nerd | 82.00% | ~108 |
-| Blurry depth perception | 81.00% | ~107 |
-| Up and down | 77.00% | ~102 |
-| Rolling, Rolling, Rolling | 74.00% | ~98 |
-| Fire-fighter! | 66.00% | ~87 |
+| Not so hip anymore! | 85.00% | ~112 |
+| Nerd | 83.00% | ~110 |
+| Blurry depth perception | 82.00% | ~108 |
+| Up and down | 78.00% | ~103 |
+| Rolling, Rolling, Rolling | 75.00% | ~99 |
+| Fire-fighter! | 67.00% | ~88 |
 | Oh, you're up to no gouda! | 64.00% | ~84 |
-| Make Love not War-Craft a Mistlefoe | 61.00% | ~81 |
+| Make Love not War-Craft a Mistlefoe | 62.00% | ~82 |
 | Meat grinder | 61.00% | ~81 |
 | You're not going to blow me up! | 55.00% | ~73 |
 | Mushroom soup of the day | 52.00% | ~69 |

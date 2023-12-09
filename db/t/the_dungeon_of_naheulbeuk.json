@@ -1473,9 +1473,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 241858,
+  "EOS_Progressed": 241864,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1088,
+  "EOS_NewPlayers": 1086,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21593,6 +21593,11 @@
       "Time": "2023-12-09T07:09:17.8118285+00:00",
       "NumProgressed": 241858,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-09T08:10:05.8927729+00:00",
+      "NumProgressed": 241864,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -22052,7 +22057,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87069
+      "UsersEstimate": 87071
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -22076,7 +22081,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9674
+      "UsersEstimate": 9675
     },
     {
       "ID": "EndGameCursed",
@@ -22100,7 +22105,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21767
+      "UsersEstimate": 21768
     },
     {
       "ID": "FollowBraztok",
@@ -22300,28 +22305,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9674
+      "UsersEstimate": 9675
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 241858,
+      "Progressed": 241864,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 241858,
+      "Progressed": 241864,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-07T01:47:10.3363266+00:00",
-  "LastChanged_Achievements": "2023-12-09T07:09:17.8118282+00:00",
+  "LastChanged_Achievements": "2023-12-09T08:10:05.8927727+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:09.0043717+00:00",
-  "LastUpdate_Ratings": "2023-12-09T07:02:40.9276931+00:00",
-  "LastUpdate_Achievements": "2023-12-09T07:09:17.8119695+00:00"
+  "LastUpdate_Ratings": "2023-12-09T08:02:47.8393221+00:00",
+  "LastUpdate_Achievements": "2023-12-09T08:10:05.8929209+00:00"
 }
