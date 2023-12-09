@@ -70,7 +70,7 @@
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.06% |
 | 70 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.68% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.67% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.56% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
@@ -80,7 +80,7 @@
 | 77 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
 | 77 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 4.76% |
 | 80 | [ZZT!](games/z/zzt!.md) | 4.66% |
-| 81 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.64% |
+| 81 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.63% |
 | 82 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.54% |
 | 83 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.49% |
 | 84 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.41% |
@@ -154,7 +154,7 @@
 | 152 | [Chorus](games/c/chorus.md) | 1.30% |
 | 152 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
 | 154 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.29% |
-| 155 | [Late Shift](games/l/late_shift.md) | 1.28% |
+| 155 | [Late Shift](games/l/late_shift.md) | 1.27% |
 | 156 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.26% |
 | 157 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
 | 158 | [Ten Dates](games/t/ten_dates.md) | 1.24% |
@@ -186,7 +186,7 @@
 | 184 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.79% |
 | 184 | [Infindustry](games/i/infindustry.md) | 0.79% |
 | 186 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
-| 187 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.73% |
+| 187 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.72% |
 | 188 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.69% |
 | 188 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
 | 190 | [Haven](games/h/haven.md) | 0.64% |
@@ -288,15 +288,15 @@
 | 285 | [Isonzo](games/i/isonzo.md) | 0.11% |
 | 285 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 285 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
+| 285 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.11% |
 | 285 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.11% |
-| 290 | [Art of Rally](games/a/art_of_rally_1.md) | 0.10% |
-| 290 | [Black Book](games/b/black_book.md) | 0.10% |
-| 290 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.10% |
-| 290 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.10% |
-| 290 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 290 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.10% |
-| 290 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.10% |
-| 290 | [Supraland](games/s/supraland.md) | 0.10% |
+| 291 | [Art of Rally](games/a/art_of_rally_1.md) | 0.10% |
+| 291 | [Black Book](games/b/black_book.md) | 0.10% |
+| 291 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.10% |
+| 291 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.10% |
+| 291 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 291 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.10% |
+| 291 | [Supraland](games/s/supraland.md) | 0.10% |
 | 298 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.09% |
 | 298 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
 | 298 | [Port Royale 4](games/p/port_royale_4.md) | 0.09% |
