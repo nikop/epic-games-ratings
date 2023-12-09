@@ -38,7 +38,7 @@
 | Unrivaled in Arms | 27.00% | ~99 |
 | Style Seeker | 26.00% | ~96 |
 | Karakuri Minato | 26.00% | ~96 |
-| Canyon of Karakuri | 24.00% | ~88 |
+| Canyon of Karakuri | 25.00% | ~92 |
 | Threaded Harmony | 24.00% | ~88 |
 | Quintessence of Form | 22.00% | ~81 |
 | Jack of All Trades | 21.00% | ~77 |

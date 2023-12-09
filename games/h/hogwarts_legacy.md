@@ -10,11 +10,11 @@ Rating: 4.76 (Ranked 130)
 | Troll with the Punches | 14.00% | ~42,576 |
 | A Keen Sense of Spell | 13.00% | ~39,535 |
 | That's a Keeper | 13.00% | ~39,535 |
-| The Hallowed Hero | 12.00% | ~36,493 |
-| The Defender of Dragons | 12.00% | ~36,493 |
-| Loom for Improvement | 12.00% | ~36,493 |
-| A Talent for Spending | 12.00% | ~36,493 |
-| Coasting Along | 12.00% | ~36,493 |
+| The Hallowed Hero | 12.00% | ~36,494 |
+| The Defender of Dragons | 12.00% | ~36,494 |
+| Loom for Improvement | 12.00% | ~36,494 |
+| A Talent for Spending | 12.00% | ~36,494 |
+| Coasting Along | 12.00% | ~36,494 |
 | Grappling with a Graphorn | 11.00% | ~33,452 |
 | The One Who Mastered Memories | 11.00% | ~33,452 |
 | The Hero of Hogwarts | 11.00% | ~33,452 |
@@ -33,10 +33,10 @@ Rating: 4.76 (Ranked 130)
 | The Toast of the Town | 5.00% | ~15,206 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,206 |
 | The Ends Petrify the Means | 5.00% | ~15,206 |
-| Going Through the Potions | 4.00% | ~12,164 |
-| Room with a View | 4.00% | ~12,164 |
-| The Intrepid Explorer | 4.00% | ~12,164 |
-| The Wise Owl | 4.00% | ~12,164 |
+| Going Through the Potions | 4.00% | ~12,165 |
+| Room with a View | 4.00% | ~12,165 |
+| The Intrepid Explorer | 4.00% | ~12,165 |
+| The Wise Owl | 4.00% | ~12,165 |
 | Put Down Roots | 3.00% | ~9,123 |
 | The Auror's Apprentice | 3.00% | ~9,123 |
 | Floo Around the World | 3.00% | ~9,123 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,129 |
 | Collector's Edition | 0.40% | ~1,216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,112 (Ranked 54)  
+Progressed: 304,113 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 525 (0.17%) (Ranked 269)
 | 2023-12-06 | 304,019 | 523 |
 | 2023-12-07 | 304,059 | 525 |
 | 2023-12-08 | 304,099 | 525 |
-| 2023-12-09 | 304,112 | 525 |
+| 2023-12-09 | 304,113 | 525 |
 ## Awards
 Max (Character Customization): 25,052  (Ranked 17)  
 Sum: 50,251 (Ranked 30)  

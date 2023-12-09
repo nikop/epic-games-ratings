@@ -1,31 +1,31 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.28 (Ranked 860)  
+Rating: 4.28 (Ranked 861)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My New Home | 62.00% | ~304 |
-| Mushroom Picker | 57.00% | ~279 |
-| Scrap Gatherer | 57.00% | ~279 |
-| Scrapper | 47.00% | ~230 |
-| Teleport | 45.00% | ~220 |
+| Mushroom Picker | 57.00% | ~280 |
+| Scrap Gatherer | 57.00% | ~280 |
+| Scrapper | 46.00% | ~226 |
+| Teleport | 45.00% | ~221 |
 | Cook | 44.00% | ~216 |
-| Scrap Master | 38.00% | ~186 |
-| Smelter | 36.00% | ~176 |
+| Scrap Master | 38.00% | ~187 |
+| Smelter | 36.00% | ~177 |
 | Digger | 33.00% | ~162 |
 | Electro-Scrap Gatherer | 32.00% | ~157 |
 | Survivor | 31.00% | ~152 |
 | Lumberjack | 30.00% | ~147 |
 | Robot Destroyer | 29.00% | ~142 |
 | Herbalist | 28.00% | ~137 |
-| Prepper | 26.00% | ~127 |
+| Prepper | 26.00% | ~128 |
 | Electro-Scrap Master | 24.00% | ~118 |
 | Robot Hunter | 21.00% | ~103 |
 | Advanced Survivalist | 19.00% | ~93 |
-| Master Of Technology | 16.00% | ~78 |
-| Treasure Hunter | 16.00% | ~78 |
+| Master Of Technology | 16.00% | ~79 |
+| Treasure Hunter | 16.00% | ~79 |
 | Mythical Smelter | 14.00% | ~69 |
 | Blacksmith | 11.00% | ~54 |
 | Master Of Management | 10.00% | ~49 |
@@ -33,12 +33,12 @@ Number of Ratings: 38  (23.09.2022)
 | Fuel | 10.00% | ~49 |
 | Smelting Master | 10.00% | ~49 |
 | Black Gold | 7.00% | ~34 |
-| Survival Master | 5.00% | ~24 |
+| Survival Master | 5.00% | ~25 |
 | Traveler | 3.00% | ~15 |
 | Forest Killer | 2.00% | ~10 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 490 (Ranked 319)  
+Progressed: 491 (Ranked 319)  
 Completed: 1 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 1 (0.20%) (Ranked 258)
 | 2023-12-04 | 487 | 1 |
 | 2023-12-07 | 488 | 1 |
 | 2023-12-08 | 489 | 1 |
-| 2023-12-09 | 490 | 1 |
+| 2023-12-09 | 491 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,7 +216,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 900,
+  "EOS_Progressed": 901,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -2211,6 +2211,11 @@
       "Time": "2023-12-09T05:03:08.9411753+00:00",
       "NumProgressed": 900,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T06:03:13.9361898+00:00",
+      "NumProgressed": 901,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2325,9 +2330,9 @@
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 81
     },
     {
       "ID": "EcstaticTruth",
@@ -2381,9 +2386,9 @@
       "ID": "HighPlain",
       "SetID": "1n308hc",
       "Name": "High Plain",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 36
     },
     {
       "ID": "IntoTheMachine",
@@ -2613,17 +2618,17 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 135
     },
     {
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 126
     },
     {
       "ID": "TheWordEndures",
@@ -2694,7 +2699,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 900,
+      "Progressed": 901,
       "Completed": 1
     }
   ],
@@ -2702,8 +2707,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-09T05:03:08.9411748+00:00",
+  "LastChanged_Achievements": "2023-12-09T06:03:13.9361895+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-09T04:57:16.1369903+00:00",
-  "LastUpdate_Achievements": "2023-12-09T05:03:08.9412246+00:00"
+  "LastUpdate_Ratings": "2023-12-09T05:57:03.4410009+00:00",
+  "LastUpdate_Achievements": "2023-12-09T06:03:13.9362372+00:00"
 }

@@ -5355,9 +5355,9 @@
       "Count": 412
     }
   ],
-  "EOS_Progressed": 237167,
+  "EOS_Progressed": 237191,
   "EOS_Completed": 572,
-  "EOS_NewPlayers": 4709,
+  "EOS_NewPlayers": 4692,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22095,6 +22095,11 @@
       "Time": "2023-12-09T05:08:55.5272802+00:00",
       "NumProgressed": 237167,
       "NumCompleted": 572
+    },
+    {
+      "Time": "2023-12-09T06:09:15.0443885+00:00",
+      "NumProgressed": 237191,
+      "NumCompleted": 572
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22187,7 +22192,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -22241,9 +22246,9 @@
       "ID": "Discover_Letos_Lab",
       "SetID": "bkp3b1a",
       "Name": "The Agenda",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 712
     },
     {
       "ID": "Meet_Custodian",
@@ -22546,13 +22551,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 237167,
+      "Progressed": 237191,
       "Completed": 572
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 16332,
+      "Progressed": 16356,
       "Completed": 216
     }
   ],
@@ -22560,8 +22565,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-09T01:48:04.4126534+00:00",
-  "LastChanged_Achievements": "2023-12-09T05:08:55.5272799+00:00",
+  "LastChanged_Achievements": "2023-12-09T06:09:15.0443883+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-09T05:02:59.7788702+00:00",
-  "LastUpdate_Achievements": "2023-12-09T05:08:55.5273761+00:00"
+  "LastUpdate_Ratings": "2023-12-09T06:03:02.7240517+00:00",
+  "LastUpdate_Achievements": "2023-12-09T06:09:15.0444795+00:00"
 }

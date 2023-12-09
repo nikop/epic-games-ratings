@@ -800,10 +800,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 378,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-12-09T05:58:30.4745478+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 379,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 378,
+  "NumberOfAwards": 379,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -835,7 +841,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -868,9 +874,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 49415,
+  "EOS_Progressed": 49416,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 966,
+  "EOS_NewPlayers": 964,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27223,6 +27229,11 @@
       "Time": "2023-12-09T05:05:04.3927487+00:00",
       "NumProgressed": 49415,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-09T06:05:12.4206718+00:00",
+      "NumProgressed": 49416,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -27362,7 +27373,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7906
+      "UsersEstimate": 7907
     },
     {
       "ID": "playerFelipe",
@@ -27545,15 +27556,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 49415,
+      "Progressed": 49416,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2023-12-09T03:58:24.4596519+00:00",
-  "LastChanged_Achievements": "2023-12-09T05:05:04.3927483+00:00",
+  "LastChanged": "2023-12-09T05:58:30.4745473+00:00",
+  "LastChanged_Achievements": "2023-12-09T06:05:12.4206716+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:54.929935+00:00",
-  "LastUpdate_Ratings": "2023-12-09T04:58:40.7778157+00:00",
-  "LastUpdate_Achievements": "2023-12-09T05:05:04.3928587+00:00"
+  "LastUpdate_Ratings": "2023-12-09T05:58:30.4745481+00:00",
+  "LastUpdate_Achievements": "2023-12-09T06:05:12.4207905+00:00"
 }

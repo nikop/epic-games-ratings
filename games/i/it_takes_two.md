@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~23,460 |
-| Fried Friendship | 87.00% | ~23,193 |
-| Look At Him Go | 79.00% | ~21,061 |
-| On Rails Experience | 57.00% | ~15,196 |
-| A Daring Devil | 53.00% | ~14,129 |
-| It Took Two | 45.00% | ~11,997 |
-| Break the Bank | 43.00% | ~11,463 |
-| Bug Sized Relaxation | 22.00% | ~5,865 |
-| Plastic Prison Breakers | 17.00% | ~4,532 |
-| Terror Of The Seven Seas | 16.00% | ~4,265 |
-| Realize Your Art | 12.00% | ~3,199 |
-| Force Triangulated | 12.00% | ~3,199 |
-| Meditation Maestro | 12.00% | ~3,199 |
-| Lost And Found | 11.00% | ~2,932 |
-| Something Fishy | 11.00% | ~2,932 |
-| Platforming Prodigy | 9.00% | ~2,399 |
+| Struck A Pose | 88.00% | ~23,468 |
+| Fried Friendship | 87.00% | ~23,201 |
+| Look At Him Go | 79.00% | ~21,068 |
+| On Rails Experience | 57.00% | ~15,201 |
+| A Daring Devil | 53.00% | ~14,134 |
+| It Took Two | 45.00% | ~12,001 |
+| Break the Bank | 43.00% | ~11,467 |
+| Bug Sized Relaxation | 22.00% | ~5,867 |
+| Plastic Prison Breakers | 17.00% | ~4,534 |
+| Terror Of The Seven Seas | 16.00% | ~4,267 |
+| Realize Your Art | 12.00% | ~3,200 |
+| Force Triangulated | 12.00% | ~3,200 |
+| Meditation Maestro | 12.00% | ~3,200 |
+| Lost And Found | 11.00% | ~2,933 |
+| Something Fishy | 11.00% | ~2,933 |
+| Platforming Prodigy | 9.00% | ~2,400 |
 | Snackosaurus | 8.00% | ~2,133 |
-| Mood Swing | 7.00% | ~1,866 |
-| Minigame Megalomania | 4.00% | ~1,066 |
-| Faraway Frequencies | 4.00% | ~1,066 |
+| Mood Swing | 7.00% | ~1,867 |
+| Minigame Megalomania | 4.00% | ~1,067 |
+| Faraway Frequencies | 4.00% | ~1,067 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,659 (Ranked 130)  
+Progressed: 26,668 (Ranked 130)  
 Completed: 113 (0.42%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,4 +110,4 @@ Completed: 113 (0.42%) (Ranked 222)
 | 2023-12-06 | 26,270 | 113 |
 | 2023-12-07 | 26,415 | 113 |
 | 2023-12-08 | 26,617 | 113 |
-| 2023-12-09 | 26,659 | 113 |
+| 2023-12-09 | 26,668 | 113 |

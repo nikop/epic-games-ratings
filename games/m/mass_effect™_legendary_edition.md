@@ -26,16 +26,16 @@
 | Paramour I | 44.00% | ~678 |
 | Colonial Savior | 44.00% | ~678 |
 | Missing in Action | 44.00% | ~678 |
+| Scientist | 44.00% | ~678 |
 | Very Elusive | 43.00% | ~662 |
-| Scientist | 43.00% | ~662 |
 | Krogan Ally | 42.00% | ~647 |
 | Merciless | 42.00% | ~647 |
 | Sentinel Ally | 41.00% | ~631 |
 | Head Hunter | 41.00% | ~631 |
 | Scholar | 41.00% | ~631 |
 | Operative | 40.00% | ~616 |
+| Veteran | 39.00% | ~601 |
 | The Professor | 39.00% | ~601 |
-| Veteran | 38.00% | ~585 |
 | The Archangel | 38.00% | ~585 |
 | Power Full | 37.00% | ~570 |
 | The Convict | 36.00% | ~554 |

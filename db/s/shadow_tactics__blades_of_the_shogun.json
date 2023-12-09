@@ -2272,9 +2272,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 218156,
+  "EOS_Progressed": 218164,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1202,
+  "EOS_NewPlayers": 1201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28952,6 +28952,11 @@
       "Time": "2023-12-09T05:03:43.1034718+00:00",
       "NumProgressed": 218156,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-09T06:03:48.565082+00:00",
+      "NumProgressed": 218164,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -28987,7 +28992,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13089
+      "UsersEstimate": 13090
     },
     {
       "ID": "CompleteMastery",
@@ -29003,7 +29008,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19634
+      "UsersEstimate": 19635
     },
     {
       "ID": "FiveShadows",
@@ -29019,7 +29024,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13089
+      "UsersEstimate": 13090
     },
     {
       "ID": "GearUp",
@@ -29027,7 +29032,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8726
+      "UsersEstimate": 8727
     },
     {
       "ID": "Genin",
@@ -29035,7 +29040,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26179
+      "UsersEstimate": 26180
     },
     {
       "ID": "HappyLittleAccidents",
@@ -29043,7 +29048,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8726
+      "UsersEstimate": 8727
     },
     {
       "ID": "HappyPlanning",
@@ -29115,7 +29120,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13089
+      "UsersEstimate": 13090
     },
     {
       "ID": "NoGimmicks",
@@ -29131,7 +29136,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8726
+      "UsersEstimate": 8727
     },
     {
       "ID": "Okkoto",
@@ -29179,7 +29184,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17452
+      "UsersEstimate": 17453
     },
     {
       "ID": "Rollin",
@@ -29187,7 +29192,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19634
+      "UsersEstimate": 19635
     },
     {
       "ID": "StillRollin",
@@ -29195,7 +29200,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8726
+      "UsersEstimate": 8727
     },
     {
       "ID": "Stoned",
@@ -29211,7 +29216,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17452
+      "UsersEstimate": 17453
     },
     {
       "ID": "TanukiTime",
@@ -29219,7 +29224,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19634
+      "UsersEstimate": 19635
     },
     {
       "ID": "TheCave",
@@ -29283,7 +29288,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13089
+      "UsersEstimate": 13090
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -29314,15 +29319,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 218156,
+      "Progressed": 218164,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-09T01:42:54.6449603+00:00",
-  "LastChanged_Achievements": "2023-12-09T05:03:43.1034714+00:00",
+  "LastChanged_Achievements": "2023-12-09T06:03:48.5650818+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.5350998+00:00",
-  "LastUpdate_Ratings": "2023-12-09T04:58:05.2422174+00:00",
-  "LastUpdate_Achievements": "2023-12-09T05:03:43.1036308+00:00"
+  "LastUpdate_Ratings": "2023-12-09T05:57:53.8583392+00:00",
+  "LastUpdate_Achievements": "2023-12-09T06:03:48.5652242+00:00"
 }

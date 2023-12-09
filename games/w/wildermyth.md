@@ -30,10 +30,10 @@ Number of Ratings: 45  (23.09.2022)
 | Legends Never Die | 0.60% | ~9 |
 | Some Say I'm Too Flashy | 0.60% | ~9 |
 | Empty the Caves | 0.50% | ~8 |
+| Bonebreakers | 0.50% | ~8 |
 | Chain Reaction | 0.50% | ~8 |
 | Everfading | 0.50% | ~8 |
 | Astrology | 0.50% | ~8 |
-| Bonebreakers | 0.40% | ~6 |
 | All My Birds, Safely Home | 0.40% | ~6 |
 | Storied Past | 0.30% | ~5 |
 | Worldwalker | 0.30% | ~5 |

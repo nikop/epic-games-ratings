@@ -6,12 +6,12 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 32.00% | ~8 |
+| Mash Machine | 36.00% | ~9 |
 | Rock of the Bay | 28.00% | ~7 |
 | Furon Fashion | 20.00% | ~5 |
 | Ducks in a Row, Fish in a Barrel | 20.00% | ~5 |
 | Shop Til They Drop | 20.00% | ~5 |
-| I Look Up As I Walk to Takoshima | 12.00% | ~3 |
+| I Look Up As I Walk to Takoshima | 16.00% | ~4 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~3 |
 | Cult Following | 8.00% | ~2 |
 | Fly Me to the Moon Base | 8.00% | ~2 |

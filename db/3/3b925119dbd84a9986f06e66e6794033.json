@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -1140,9 +1140,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "TIME_ORWELL",
@@ -1156,17 +1156,17 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1211,8 +1211,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-09T05:09:09.0162355+00:00",
+  "LastChanged_Achievements": "2023-12-09T06:09:28.9348988+00:00",
   "LastUpdate_AppInfo": "2023-12-09T01:42:08.195524+00:00",
-  "LastUpdate_Ratings": "2023-12-09T04:57:43.7010288+00:00",
-  "LastUpdate_Achievements": "2023-12-09T05:09:09.0162505+00:00"
+  "LastUpdate_Ratings": "2023-12-09T05:57:31.3280195+00:00",
+  "LastUpdate_Achievements": "2023-12-09T06:09:28.9349133+00:00"
 }

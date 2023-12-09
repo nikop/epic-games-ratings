@@ -14,12 +14,12 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game I | 9.00% | ~393 |
 | Builder I | 8.00% | ~349 |
 | An honorable Governor I | 8.00% | ~349 |
+| Full-time job I | 8.00% | ~349 |
 | Researcher | 8.00% | ~349 |
 | Tax-man II | 8.00% | ~349 |
 | Time for some trade | 8.00% | ~349 |
 | Bread for the people I | 7.00% | ~306 |
 | Completionist I | 7.00% | ~306 |
-| Full-time job I | 7.00% | ~306 |
 | I like to build stuff... II | 6.00% | ~262 |
 | Full-time job II | 6.00% | ~262 |
 | A time consuming game II | 6.00% | ~262 |

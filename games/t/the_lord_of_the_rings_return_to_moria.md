@@ -5,36 +5,36 @@ Rating: 4.43 (Ranked 696)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 84.00% | ~242,007 |
-| Delving Onward | 71.00% | ~204,554 |
-| Miner's Helper | 62.00% | ~178,624 |
-| Suit Up | 56.00% | ~161,338 |
-| To the Mountain's Roots | 51.00% | ~146,933 |
-| Remains To Be Seen | 35.00% | ~100,836 |
-| Covered Head to Toe | 34.00% | ~97,955 |
-| Line of Azog, Ended | 33.00% | ~95,074 |
-| Risk a Little Real Light | 32.00% | ~92,193 |
-| Caradhras The Cruel | 18.00% | ~51,859 |
-| A Memory of this Place | 18.00% | ~51,859 |
-| False King, Deposed | 14.00% | ~40,335 |
-| Baruk Khazâd! | 13.00% | ~37,454 |
-| Battering Ram | 13.00% | ~37,454 |
-| Shadow's Bane | 9.00% | ~25,929 |
-| Westgate Weaponcraft | 9.00% | ~25,929 |
-| Deeps Weaponcraft | 8.00% | ~23,048 |
-| Darkness Is Passing | 7.00% | ~20,167 |
-| Decked Out | 5.00% | ~14,405 |
-| Guarded from Despair | 4.00% | ~11,524 |
-| Master of All Trades | 4.00% | ~11,524 |
-| Eregion Weaponcraft | 3.00% | ~8,643 |
-| True-silver | 3.00% | ~8,643 |
-| Dimrill Weaponcraft | 3.00% | ~8,643 |
+| Speak Friend | 84.00% | ~242,023 |
+| Delving Onward | 71.00% | ~204,567 |
+| Miner's Helper | 62.00% | ~178,636 |
+| Suit Up | 56.00% | ~161,349 |
+| To the Mountain's Roots | 51.00% | ~146,943 |
+| Remains To Be Seen | 35.00% | ~100,843 |
+| Covered Head to Toe | 34.00% | ~97,962 |
+| Line of Azog, Ended | 33.00% | ~95,081 |
+| Risk a Little Real Light | 32.00% | ~92,199 |
+| Caradhras The Cruel | 18.00% | ~51,862 |
+| A Memory of this Place | 18.00% | ~51,862 |
+| False King, Deposed | 14.00% | ~40,337 |
+| Baruk Khazâd! | 13.00% | ~37,456 |
+| Battering Ram | 13.00% | ~37,456 |
+| Shadow's Bane | 9.00% | ~25,931 |
+| Westgate Weaponcraft | 9.00% | ~25,931 |
+| Deeps Weaponcraft | 8.00% | ~23,050 |
+| Darkness Is Passing | 7.00% | ~20,169 |
+| Decked Out | 5.00% | ~14,406 |
+| Guarded from Despair | 4.00% | ~11,525 |
+| Master of All Trades | 4.00% | ~11,525 |
+| Eregion Weaponcraft | 3.00% | ~8,644 |
+| True-silver | 3.00% | ~8,644 |
+| Dimrill Weaponcraft | 3.00% | ~8,644 |
 | Hard-headed | 1.00% | ~2,881 |
 | Shielded | 1.00% | ~2,881 |
 | We're Gonna Need More Mugs | 0.10% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,104 (Ranked 55)  
-Completed: 107 (0.04%) (Ranked 329)  
+Progressed: 288,123 (Ranked 55)  
+Completed: 108 (0.04%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,17 +84,17 @@ Completed: 107 (0.04%) (Ranked 329)
 | 2023-12-06 | 286,638 | 73 |
 | 2023-12-07 | 287,215 | 87 |
 | 2023-12-08 | 287,887 | 106 |
-| 2023-12-09 | 288,104 | 107 |
+| 2023-12-09 | 288,123 | 108 |
 ## Awards
 Max (Great for Beginners): 652  (Ranked 191)  
-Sum: 3,770 (Ranked 161)  
+Sum: 3,777 (Ranked 161)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 652 |
 | This game is Highly Recommended | 527 |
 | This game is Extremely Fun | 522 |
-| This game has Amazing Storytelling | 460 |
+| This game has Amazing Storytelling | 467 |
 | This game is Relaxing | 450 |
 | This game has Quickly Understood Controls | 445 |
 | This game has Amazing Characters | 437 |
@@ -148,3 +148,4 @@ Diff (max vs sum): 30
 | 2023-12-06 | 4.43 | 630 | 3,664 |
 | 2023-12-07 | 4.43 | 643 | 3,724 |
 | 2023-12-08 | 4.43 | 652 | 3,770 |
+| 2023-12-09 | 4.43 | 652 | 3,777 |

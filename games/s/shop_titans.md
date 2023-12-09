@@ -19,15 +19,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 4.00% | ~5,775 |
 | Budding Merchant | 4.00% | ~5,775 |
 | Own the Means of Production | 4.00% | ~5,775 |
-| The Daily Grind | 3.00% | ~4,331 |
-| Bounty Hunters | 3.00% | ~4,331 |
-| Demand for Supplies | 3.00% | ~4,331 |
-| Flooding the Market | 3.00% | ~4,331 |
-| Where it Hurts | 3.00% | ~4,331 |
-| Gild-Gotten Goods | 3.00% | ~4,331 |
-| One-Armed Bandit | 3.00% | ~4,331 |
-| Dungeon Imports | 3.00% | ~4,331 |
-| Through Repetition, Perfection | 3.00% | ~4,331 |
+| The Daily Grind | 3.00% | ~4,332 |
+| Bounty Hunters | 3.00% | ~4,332 |
+| Demand for Supplies | 3.00% | ~4,332 |
+| Flooding the Market | 3.00% | ~4,332 |
+| Where it Hurts | 3.00% | ~4,332 |
+| Gild-Gotten Goods | 3.00% | ~4,332 |
+| One-Armed Bandit | 3.00% | ~4,332 |
+| Dungeon Imports | 3.00% | ~4,332 |
+| Through Repetition, Perfection | 3.00% | ~4,332 |
 | On the Path to Greatness | 2.00% | ~2,888 |
 | A Notch Above the Rest | 2.00% | ~2,888 |
 | Cream of the Crop | 2.00% | ~2,888 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~433 |
 | Capitalist Camaraderie | 0.20% | ~289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,379 (Ranked 80)  
+Progressed: 144,384 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 291 (0.20%) (Ranked 258)
 | 2023-12-06 | 144,049 | 291 |
 | 2023-12-07 | 144,162 | 291 |
 | 2023-12-08 | 144,354 | 291 |
-| 2023-12-09 | 144,379 | 291 |
+| 2023-12-09 | 144,384 | 291 |
 ## Awards
 Max (Great for Beginners): 4,870  (Ranked 75)  
 Sum: 27,678 (Ranked 50)  

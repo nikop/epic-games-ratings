@@ -5,22 +5,22 @@ Rating: 4.64 (Ranked 337)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~2,037 |
-| Welcome Aboard | 86.00% | ~1,883 |
-| Lab Rat | 77.00% | ~1,686 |
-| All Systems Go | 67.00% | ~1,467 |
-| Brute Force | 67.00% | ~1,467 |
-| Cannon Fodder | 63.00% | ~1,380 |
-| Autofire | 59.00% | ~1,292 |
-| True Believer | 58.00% | ~1,270 |
-| Story Teller | 57.00% | ~1,248 |
-| Raise the Stakes | 56.00% | ~1,226 |
+| Marksman | 93.00% | ~2,038 |
+| Welcome Aboard | 86.00% | ~1,884 |
+| Lab Rat | 77.00% | ~1,687 |
+| All Systems Go | 67.00% | ~1,468 |
+| Brute Force | 67.00% | ~1,468 |
+| Cannon Fodder | 62.00% | ~1,358 |
+| Autofire | 59.00% | ~1,293 |
+| True Believer | 58.00% | ~1,271 |
+| Story Teller | 57.00% | ~1,249 |
+| Raise the Stakes | 56.00% | ~1,227 |
 | Surgeon | 54.00% | ~1,183 |
 | Exterminator | 53.00% | ~1,161 |
 | Greenhouse Effect | 53.00% | ~1,161 |
 | Freeze | 52.00% | ~1,139 |
-| S.O.S. | 47.00% | ~1,029 |
-| Full Arsenal | 46.00% | ~1,007 |
+| S.O.S. | 47.00% | ~1,030 |
+| Full Arsenal | 46.00% | ~1,008 |
 | Get Off My Ship! | 45.00% | ~986 |
 | Strange Transmissions | 45.00% | ~986 |
 | Wreckage | 44.00% | ~964 |
@@ -30,14 +30,14 @@ Rating: 4.64 (Ranked 337)
 | Exodus | 39.00% | ~854 |
 | Legend Teller | 39.00% | ~854 |
 | Mindless Prey | 39.00% | ~854 |
-| There's Always Peng! | 38.00% | ~832 |
+| There's Always Peng! | 38.00% | ~833 |
 | Front Toward Enemy | 34.00% | ~745 |
 | A Cut Above | 33.00% | ~723 |
 | Whole Again | 30.00% | ~657 |
 | Set A Benchmark | 30.00% | ~657 |
-| Full Contact | 27.00% | ~591 |
-| Pack Rat | 27.00% | ~591 |
-| Final Regeneration | 26.00% | ~569 |
+| Full Contact | 27.00% | ~592 |
+| Pack Rat | 27.00% | ~592 |
+| Final Regeneration | 26.00% | ~570 |
 | Full Clearance | 25.00% | ~548 |
 | Pusher | 23.00% | ~504 |
 | Z-Baller | 23.00% | ~504 |
@@ -53,7 +53,7 @@ Rating: 4.64 (Ranked 337)
 | Untouchable | 2.00% | ~44 |
 | One Gun | 2.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,190 (Ranked 226)  
+Progressed: 2,191 (Ranked 226)  
 Completed: 13 (0.59%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 13 (0.59%) (Ranked 197)
 | 2023-12-06 | 2,153 | 13 |
 | 2023-12-07 | 2,165 | 13 |
 | 2023-12-08 | 2,183 | 13 |
-| 2023-12-09 | 2,190 | 13 |
+| 2023-12-09 | 2,191 | 13 |
 ## Awards
 Max (Great Boss Battles): 118  (Ranked 345)  
 Sum: 118 (Ranked 442)  

@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1621,
+  "EOS_Progressed": 1622,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4839,6 +4839,11 @@
       "Time": "2023-12-08T23:10:42.95296+00:00",
       "NumProgressed": 1621,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-09T06:09:56.6602852+00:00",
+      "NumProgressed": 1622,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4883,7 +4888,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_14",
@@ -5075,7 +5080,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "achievement_36",
@@ -5089,9 +5094,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1071
     },
     {
       "ID": "achievement_38",
@@ -5155,7 +5160,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "achievement_45",
@@ -5354,13 +5359,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1621,
+      "Progressed": 1622,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1621,
+      "Progressed": 1622,
       "Completed": 1
     }
   ],
@@ -5368,8 +5373,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-09T05:09:36.2139041+00:00",
+  "LastChanged_Achievements": "2023-12-09T06:09:56.6602851+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-09T04:58:53.1229225+00:00",
-  "LastUpdate_Achievements": "2023-12-09T05:09:36.2139637+00:00"
+  "LastUpdate_Ratings": "2023-12-09T05:58:43.5909084+00:00",
+  "LastUpdate_Achievements": "2023-12-09T06:09:56.6603425+00:00"
 }

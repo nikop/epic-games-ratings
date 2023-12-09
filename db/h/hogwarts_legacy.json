@@ -11721,9 +11721,9 @@
       "Count": 842
     }
   ],
-  "EOS_Progressed": 304112,
+  "EOS_Progressed": 304113,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36681,6 +36681,11 @@
       "Time": "2023-12-09T05:03:47.9329686+00:00",
       "NumProgressed": 304112,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-09T06:03:53.6734081+00:00",
+      "NumProgressed": 304113,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36716,7 +36721,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 36493
+      "UsersEstimate": 36494
     },
     {
       "ID": "PFA_13",
@@ -36748,7 +36753,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36493
+      "UsersEstimate": 36494
     },
     {
       "ID": "PFA_17",
@@ -36820,7 +36825,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36493
+      "UsersEstimate": 36494
     },
     {
       "ID": "PFA_25",
@@ -36844,7 +36849,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12164
+      "UsersEstimate": 12165
     },
     {
       "ID": "PFA_28",
@@ -36876,7 +36881,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36493
+      "UsersEstimate": 36494
     },
     {
       "ID": "PFA_31",
@@ -36892,7 +36897,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12164
+      "UsersEstimate": 12165
     },
     {
       "ID": "PFA_33",
@@ -36940,7 +36945,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12164
+      "UsersEstimate": 12165
     },
     {
       "ID": "PFA_39",
@@ -36948,7 +36953,7 @@
       "Name": "Coasting Along",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36493
+      "UsersEstimate": 36494
     },
     {
       "ID": "PFA_4",
@@ -37012,7 +37017,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12164
+      "UsersEstimate": 12165
     },
     {
       "ID": "PFA_6",
@@ -37051,7 +37056,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304112,
+      "Progressed": 304113,
       "Completed": 525
     }
   ],
@@ -37059,8 +37064,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-09T04:58:14.5405695+00:00",
-  "LastChanged_Achievements": "2023-12-09T05:03:47.9329684+00:00",
+  "LastChanged_Achievements": "2023-12-09T06:03:53.6734078+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-09T04:58:14.54057+00:00",
-  "LastUpdate_Achievements": "2023-12-09T05:03:47.9331491+00:00"
+  "LastUpdate_Ratings": "2023-12-09T05:58:03.7672386+00:00",
+  "LastUpdate_Achievements": "2023-12-09T06:03:53.6735459+00:00"
 }

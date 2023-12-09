@@ -20,8 +20,8 @@
 | Help of the Gell | 22.00% | ~8 |
 | She-Wolf | 22.00% | ~8 |
 | Berkanan Borgia | 19.00% | ~7 |
+| Trial by cold | 19.00% | ~7 |
 | The champion of the arena | 17.00% | ~6 |
-| Trial by cold | 17.00% | ~6 |
 | Stronger than Gellian steel | 14.00% | ~5 |
 | Rage | 14.00% | ~5 |
 | Protect the Healer! | 14.00% | ~5 |
@@ -34,12 +34,12 @@
 | First among Frisians | 8.00% | ~3 |
 | Defeat the bear | 8.00% | ~3 |
 | By own strength | 8.00% | ~3 |
+| All's fair in love and war | 8.00% | ~3 |
 | Nothing is settled | 8.00% | ~3 |
 | The power of persuasion | 6.00% | ~2 |
 | Deadly strike | 6.00% | ~2 |
 | A solo player | 6.00% | ~2 |
 | Cunning plan | 6.00% | ~2 |
-| All's fair in love and war | 6.00% | ~2 |
 | Supplier | 3.00% | ~1 |
 | Do it yourself | 3.00% | ~1 |
 | By someone else's hands | 3.00% | ~1 |

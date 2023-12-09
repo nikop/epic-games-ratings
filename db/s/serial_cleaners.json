@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 271,
+  "EOS_Progressed": 272,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.21,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2023-12-01T11:04:16.7278735+00:00",
       "NumProgressed": 271,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-09T06:08:37.4716425+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -654,7 +659,7 @@
       "Name": "Off to a Good Start",
       "Percentage": 16,
       "XP": 75,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CHAPTER2_COMPLETE",
@@ -694,15 +699,15 @@
       "Name": "Small-time Finder",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "DIE_1_TIME",
       "SetID": "2lk004m",
       "Name": "So it goes",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -821,13 +826,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 271,
+      "Progressed": 272,
       "Completed": 6
     }
   ],
@@ -835,8 +840,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-12-09T05:06:27.6639451+00:00",
+  "LastChanged_Achievements": "2023-12-09T06:08:37.4716423+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:44.4231681+00:00",
-  "LastUpdate_Ratings": "2023-12-09T04:58:21.741414+00:00",
-  "LastUpdate_Achievements": "2023-12-09T05:06:27.6639605+00:00"
+  "LastUpdate_Ratings": "2023-12-09T05:58:11.1579728+00:00",
+  "LastUpdate_Achievements": "2023-12-09T06:08:37.4716547+00:00"
 }

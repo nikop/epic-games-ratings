@@ -4728,9 +4728,9 @@
       "ID": "achievement_126",
       "SetID": "d252ncf",
       "Name": "Veteran",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 585
+      "UsersEstimate": 601
     },
     {
       "ID": "achievement_127",
@@ -5256,9 +5256,9 @@
       "ID": "achievement_71",
       "SetID": "d252ncf",
       "Name": "Scientist",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 662
+      "UsersEstimate": 678
     },
     {
       "ID": "achievement_72",
@@ -5516,8 +5516,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-09T05:09:12.7024781+00:00",
+  "LastChanged_Achievements": "2023-12-09T06:09:32.7789842+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-09T05:02:55.4606198+00:00",
-  "LastUpdate_Achievements": "2023-12-09T05:09:12.7026308+00:00"
+  "LastUpdate_Ratings": "2023-12-09T06:02:58.2162026+00:00",
+  "LastUpdate_Achievements": "2023-12-09T06:09:32.7791331+00:00"
 }

@@ -1,28 +1,28 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.54 (Ranked 535)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,728 |
-| Pork Chopped | 3.00% | ~1,728 |
-| Dr. Reed, I Presume? | 2.00% | ~14,641 |
-| Git Gutte! | 2.00% | ~14,641 |
-| Anger Management | 2.00% | ~14,641 |
-| Bookworm | 2.00% | ~14,641 |
-| Break A Leg | 2.00% | ~14,641 |
-| But Doctor, I am Butcho | 2.00% | ~14,641 |
-| Coup de Grâce | 2.00% | ~14,641 |
-| Hazardous Materials | 2.00% | ~14,641 |
-| Friends Like These | 2.00% | ~14,641 |
-| Hotel California | 2.00% | ~14,641 |
-| Apex Predator | 2.00% | ~14,641 |
-| Stacking the Deck | 2.00% | ~14,641 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,641 |
-| This is My Weapon | 2.00% | ~14,641 |
-| Welcome To Hell-A | 2.00% | ~14,641 |
-| One of Us | 2.00% | ~1,152 |
+| Welcome To Hell-A | 3.00% | ~21,963 |
+| Whatever It Takes | 3.00% | ~1,729 |
+| Pork Chopped | 3.00% | ~1,729 |
+| Dr. Reed, I Presume? | 2.00% | ~14,642 |
+| Git Gutte! | 2.00% | ~14,642 |
+| Anger Management | 2.00% | ~14,642 |
+| Bookworm | 2.00% | ~14,642 |
+| Break A Leg | 2.00% | ~14,642 |
+| But Doctor, I am Butcho | 2.00% | ~14,642 |
+| Coup de Grâce | 2.00% | ~14,642 |
+| Hazardous Materials | 2.00% | ~14,642 |
+| Friends Like These | 2.00% | ~14,642 |
+| Hotel California | 2.00% | ~14,642 |
+| Apex Predator | 2.00% | ~14,642 |
+| Stacking the Deck | 2.00% | ~14,642 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,642 |
+| This is My Weapon | 2.00% | ~14,642 |
+| One of Us | 2.00% | ~1,153 |
 | Making Your Mark | 1.00% | ~7,321 |
 | Perks of the Job | 1.00% | ~7,321 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,321 |
@@ -41,24 +41,24 @@ Rating: 4.54 (Ranked 534)
 | Jumbo Keyring | 0.80% | ~5,857 |
 | Go, Bobcats! | 0.80% | ~5,857 |
 | Rising Star | 0.80% | ~5,857 |
-| On Safari | 0.60% | ~4,392 |
-| Smorgasbord | 0.60% | ~4,392 |
-| Internet Famous | 0.60% | ~4,392 |
-| Variety is the Spice of Death | 0.60% | ~4,392 |
+| On Safari | 0.60% | ~4,393 |
+| Smorgasbord | 0.60% | ~4,393 |
+| Internet Famous | 0.60% | ~4,393 |
+| Variety is the Spice of Death | 0.60% | ~4,393 |
 | Make it So | 0.50% | ~3,660 |
 | LA Influential | 0.40% | ~2,928 |
 | Sole Survivor | 0.40% | ~2,928 |
 | Gore Horse | 0.40% | ~2,928 |
 | Sharpest Tool in the Box | 0.40% | ~2,928 |
-| Top That, Tisha! | 0.40% | ~230 |
+| Top That, Tisha! | 0.40% | ~231 |
 | Survival Skills | 0.20% | ~1,464 |
 | Lawn and Order | 0.20% | ~115 |
 | Donk! | 0.10% | ~732 |
 | Bucket List | 0.10% | ~732 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,074 (Ranked 21)  
-Completed: 2,466 (0.34%) (Ranked 234)  
+Progressed: 732,087 (Ranked 21)  
+Completed: 2,467 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -290,7 +290,7 @@ Completed: 2,466 (0.34%) (Ranked 234)
 | 2023-12-06 | 731,101 | 2,465 |
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
-| 2023-12-09 | 732,074 | 2,466 |
+| 2023-12-09 | 732,087 | 2,467 |
 ## Awards
 Max (Great Boss Battles): 8,017  (Ranked 49)  
 Sum: 12,328 (Ranked 82)  

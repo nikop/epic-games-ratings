@@ -4,7 +4,7 @@
   "ProductSlug": "mediterranea-inferno-6a1352",
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -136,8 +136,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-21T09:07:01.6731758+00:00",
-  "LastChanged_Achievements": "2023-12-09T05:08:29.9446653+00:00",
+  "LastChanged_Achievements": "2023-12-09T06:08:48.6708598+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:06.2924713+00:00",
-  "LastUpdate_Ratings": "2023-12-09T05:00:09.1993027+00:00",
-  "LastUpdate_Achievements": "2023-12-09T05:08:29.9446736+00:00"
+  "LastUpdate_Ratings": "2023-12-09T06:00:02.1768053+00:00",
+  "LastUpdate_Achievements": "2023-12-09T06:08:48.6708705+00:00"
 }

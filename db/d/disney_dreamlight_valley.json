@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5147,7 +5147,7 @@
   ],
   "EOS_Progressed": 12394,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
@@ -21176,9 +21176,9 @@
       "ID": "Valleys_Helper",
       "SetID": "chapdi4",
       "Name": "Valley\u0027s Helper",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 7560
+      "UsersEstimate": 7684
     }
   ],
   "AchievementSets": [
@@ -21193,8 +21193,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-08T23:57:37.6431986+00:00",
-  "LastChanged_Achievements": "2023-12-09T05:08:32.6242958+00:00",
+  "LastChanged_Achievements": "2023-12-09T06:08:51.4677974+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:53.5041293+00:00",
-  "LastUpdate_Ratings": "2023-12-09T04:57:50.1758779+00:00",
-  "LastUpdate_Achievements": "2023-12-09T05:08:32.6243896+00:00"
+  "LastUpdate_Ratings": "2023-12-09T05:57:38.1781407+00:00",
+  "LastUpdate_Achievements": "2023-12-09T06:08:51.4678826+00:00"
 }

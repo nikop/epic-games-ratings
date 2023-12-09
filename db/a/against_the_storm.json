@@ -3377,9 +3377,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17730,
+  "EOS_Progressed": 17733,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15067,6 +15067,11 @@
       "Time": "2023-12-09T05:04:20.4643256+00:00",
       "NumProgressed": 17730,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-09T06:04:27.0396049+00:00",
+      "NumProgressed": 17733,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15237,9 +15242,9 @@
       "ID": "WinNearFertile",
       "SetID": "cfbk359",
       "Name": "Fertile Meadows",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 89
     },
     {
       "ID": "WinNearFishmen",
@@ -15293,9 +15298,9 @@
       "ID": "WinNearOutpost",
       "SetID": "cfbk359",
       "Name": "Royal Outpost",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     },
     {
       "ID": "WinNearRuins",
@@ -15550,15 +15555,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17730,
+      "Progressed": 17733,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-08T19:00:22.4048457+00:00",
-  "LastChanged_Achievements": "2023-12-09T05:04:20.4643253+00:00",
+  "LastChanged_Achievements": "2023-12-09T06:04:27.0396046+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-09T05:00:13.425984+00:00",
-  "LastUpdate_Achievements": "2023-12-09T05:04:20.4644153+00:00"
+  "LastUpdate_Ratings": "2023-12-09T06:00:06.7504142+00:00",
+  "LastUpdate_Achievements": "2023-12-09T06:04:27.0396872+00:00"
 }
