@@ -575,9 +575,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42905,
+  "EOS_Progressed": 42906,
   "EOS_Completed": 196,
-  "EOS_NewPlayers": 922,
+  "EOS_NewPlayers": 921,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -9915,6 +9915,11 @@
       "Time": "2023-12-09T01:53:42.7898082+00:00",
       "NumProgressed": 42905,
       "NumCompleted": 196
+    },
+    {
+      "Time": "2023-12-09T02:30:21.2498116+00:00",
+      "NumProgressed": 42906,
+      "NumCompleted": 196
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -10119,7 +10124,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 29175
+      "UsersEstimate": 29176
     },
     {
       "ID": "ACH_S4",
@@ -10127,7 +10132,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 21452
+      "UsersEstimate": 21453
     },
     {
       "ID": "ACH_S5",
@@ -10143,7 +10148,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 32179
+      "UsersEstimate": 32180
     },
     {
       "ID": "ACH_STATUE",
@@ -10151,22 +10156,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 18449
+      "UsersEstimate": 18450
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 42905,
+      "Progressed": 42906,
       "Completed": 196
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-07T07:57:07.2452699+00:00",
-  "LastChanged_Achievements": "2023-12-09T01:53:42.7898077+00:00",
+  "LastChanged_Achievements": "2023-12-09T02:30:21.2498112+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:17.490773+00:00",
-  "LastUpdate_Ratings": "2023-12-09T01:43:00.8783782+00:00",
-  "LastUpdate_Achievements": "2023-12-09T01:53:42.7898959+00:00"
+  "LastUpdate_Ratings": "2023-12-09T02:18:02.7698532+00:00",
+  "LastUpdate_Achievements": "2023-12-09T02:30:21.2498708+00:00"
 }

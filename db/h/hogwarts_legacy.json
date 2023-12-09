@@ -11715,7 +11715,7 @@
       "Count": 842
     }
   ],
-  "EOS_Progressed": 304105,
+  "EOS_Progressed": 304106,
   "EOS_Completed": 525,
   "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 5,
@@ -36655,6 +36655,11 @@
       "Time": "2023-12-09T01:48:48.3763228+00:00",
       "NumProgressed": 304105,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-09T02:25:45.9049397+00:00",
+      "NumProgressed": 304106,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36738,7 +36743,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27369
+      "UsersEstimate": 27370
     },
     {
       "ID": "PFA_19",
@@ -36890,7 +36895,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30410
+      "UsersEstimate": 30411
     },
     {
       "ID": "PFA_36",
@@ -36970,7 +36975,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27369
+      "UsersEstimate": 27370
     },
     {
       "ID": "PFA_45",
@@ -37018,14 +37023,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30410
+      "UsersEstimate": 30411
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304105,
+      "Progressed": 304106,
       "Completed": 525
     }
   ],
@@ -37033,8 +37038,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-08T22:58:34.9668757+00:00",
-  "LastChanged_Achievements": "2023-12-09T01:48:48.3763225+00:00",
+  "LastChanged_Achievements": "2023-12-09T02:25:45.9049395+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-09T01:43:04.0771402+00:00",
-  "LastUpdate_Achievements": "2023-12-09T01:48:48.3765222+00:00"
+  "LastUpdate_Ratings": "2023-12-09T02:18:06.3682035+00:00",
+  "LastUpdate_Achievements": "2023-12-09T02:25:45.9050736+00:00"
 }

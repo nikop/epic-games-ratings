@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15991,
+  "EOS_Progressed": 15992,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13379,6 +13379,11 @@
       "Time": "2023-12-09T01:48:53.6000508+00:00",
       "NumProgressed": 15991,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-09T02:25:51.6349997+00:00",
+      "NumProgressed": 15992,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13439,7 +13444,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "16",
@@ -13455,7 +13460,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "18",
@@ -13670,13 +13675,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15991,
+      "Progressed": 15992,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1945,
+      "Progressed": 1946,
       "Completed": 845
     }
   ],
@@ -13684,8 +13689,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-07T17:57:36.8969362+00:00",
-  "LastChanged_Achievements": "2023-12-09T01:48:53.6000498+00:00",
+  "LastChanged_Achievements": "2023-12-09T02:25:51.6349993+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-09T01:43:16.152307+00:00",
-  "LastUpdate_Achievements": "2023-12-09T01:48:53.6001562+00:00"
+  "LastUpdate_Ratings": "2023-12-09T02:18:20.298986+00:00",
+  "LastUpdate_Achievements": "2023-12-09T02:25:51.6350839+00:00"
 }

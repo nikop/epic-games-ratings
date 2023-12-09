@@ -6,27 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~21,616 |
-| It wakes | 2.00% | ~21,616 |
-| Skillful | 2.00% | ~21,616 |
-| No one left behind | 1.00% | ~10,808 |
-| Handyman | 1.00% | ~10,808 |
-| Not half bad | 1.00% | ~10,808 |
-| Apt Survivor | 1.00% | ~10,808 |
-| Survival Treasures | 1.00% | ~10,808 |
-| I | 1.00% | ~10,808 |
-| Sorted | 1.00% | ~10,808 |
-| Resurgence | 1.00% | ~10,808 |
-| Preemptive Strike | 1.00% | ~10,808 |
-| Make Some Noise | 1.00% | ~10,808 |
-| The Grand Sacrifice | 0.90% | ~9,727 |
-| Medic | 0.90% | ~9,727 |
-| Bloody Millionaire | 0.90% | ~9,727 |
-| Healthy Obsession | 0.90% | ~9,727 |
-| Humanitarian | 0.90% | ~9,727 |
-| Agonizing Escape | 0.80% | ~8,646 |
-| Backdoor Escape | 0.80% | ~8,646 |
-| Perfect Escape | 0.80% | ~8,646 |
+| Zealous | 2.00% | ~21,617 |
+| It wakes | 2.00% | ~21,617 |
+| Skillful | 2.00% | ~21,617 |
+| No one left behind | 1.00% | ~10,809 |
+| Handyman | 1.00% | ~10,809 |
+| Not half bad | 1.00% | ~10,809 |
+| Apt Survivor | 1.00% | ~10,809 |
+| Survival Treasures | 1.00% | ~10,809 |
+| I | 1.00% | ~10,809 |
+| Sorted | 1.00% | ~10,809 |
+| Resurgence | 1.00% | ~10,809 |
+| Preemptive Strike | 1.00% | ~10,809 |
+| Make Some Noise | 1.00% | ~10,809 |
+| The Grand Sacrifice | 0.90% | ~9,728 |
+| Medic | 0.90% | ~9,728 |
+| Bloody Millionaire | 0.90% | ~9,728 |
+| Healthy Obsession | 0.90% | ~9,728 |
+| Humanitarian | 0.90% | ~9,728 |
+| Agonizing Escape | 0.80% | ~8,647 |
+| Backdoor Escape | 0.80% | ~8,647 |
+| Perfect Escape | 0.80% | ~8,647 |
+| Close Shave | 0.80% | ~8,647 |
 | I've got your back | 0.70% | ~7,566 |
 | Perfect Killing | 0.70% | ~7,566 |
 | Apt Killer | 0.70% | ~7,566 |
@@ -34,7 +35,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | II | 0.70% | ~7,566 |
 | Engineer | 0.70% | ~7,566 |
 | Wounded Healer | 0.70% | ~7,566 |
-| Close Shave | 0.70% | ~7,566 |
 | Vulture | 0.60% | ~6,485 |
 | III | 0.60% | ~6,485 |
 | Blood on your hands | 0.50% | ~5,404 |
@@ -64,27 +64,27 @@ Number of Ratings: 70,340  (23.09.2022)
 | Classy Act | 0.40% | ~4,323 |
 | Chorus of Chaos | 0.40% | ~4,323 |
 | One More Step | 0.40% | ~4,323 |
-| A bite for the Entity | 0.30% | ~3,242 |
-| Blood on your face | 0.30% | ~3,242 |
-| Hemophobia | 0.30% | ~3,242 |
-| Leapfrog | 0.30% | ~3,242 |
-| Cottage Owner | 0.30% | ~3,242 |
-| Escaping the Nightmare | 0.30% | ~3,242 |
-| Campbell's Chapel Legacy | 0.30% | ~3,242 |
-| Ancestor's Rite | 0.30% | ~3,242 |
-| Devoted Gatekeeping | 0.30% | ~3,242 |
-| Shrine Apparatus | 0.30% | ~3,242 |
-| Outrun Evil | 0.30% | ~3,242 |
-| Grim Pilgrimage | 0.30% | ~3,242 |
-| Selfless Survival | 0.30% | ~3,242 |
-| End of Days | 0.30% | ~3,242 |
-| Insult and Injury | 0.30% | ~3,242 |
-| Outrun the Overlap | 0.30% | ~3,242 |
-| A Fast Death | 0.30% | ~3,242 |
-| Rebuilding The Borgo | 0.30% | ~3,242 |
-| Extraterrestrial | 0.30% | ~3,242 |
-| MU/TH/UR Dearest | 0.30% | ~3,242 |
-| Outta Nowhere | 0.30% | ~3,242 |
+| A bite for the Entity | 0.30% | ~3,243 |
+| Blood on your face | 0.30% | ~3,243 |
+| Hemophobia | 0.30% | ~3,243 |
+| Leapfrog | 0.30% | ~3,243 |
+| Cottage Owner | 0.30% | ~3,243 |
+| Escaping the Nightmare | 0.30% | ~3,243 |
+| Campbell's Chapel Legacy | 0.30% | ~3,243 |
+| Ancestor's Rite | 0.30% | ~3,243 |
+| Devoted Gatekeeping | 0.30% | ~3,243 |
+| Shrine Apparatus | 0.30% | ~3,243 |
+| Outrun Evil | 0.30% | ~3,243 |
+| Grim Pilgrimage | 0.30% | ~3,243 |
+| Selfless Survival | 0.30% | ~3,243 |
+| End of Days | 0.30% | ~3,243 |
+| Insult and Injury | 0.30% | ~3,243 |
+| Outrun the Overlap | 0.30% | ~3,243 |
+| A Fast Death | 0.30% | ~3,243 |
+| Rebuilding The Borgo | 0.30% | ~3,243 |
+| Extraterrestrial | 0.30% | ~3,243 |
+| MU/TH/UR Dearest | 0.30% | ~3,243 |
+| Outta Nowhere | 0.30% | ~3,243 |
 | Blood in your mouth | 0.20% | ~2,162 |
 | Jump Scares | 0.20% | ~2,162 |
 | Deep Cleansing | 0.20% | ~2,162 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,081 |
 | Adept Good Guy | 0.10% | ~1,081 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,080,792 (Ranked 14)  
+Progressed: 1,080,860 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -472,7 +472,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-06 | 1,075,348 | 61 |
 | 2023-12-07 | 1,077,876 | 61 |
 | 2023-12-08 | 1,080,483 | 61 |
-| 2023-12-09 | 1,080,792 | 61 |
+| 2023-12-09 | 1,080,860 | 61 |
 ## Awards
 Max (Diverse Characters): 37,578  (Ranked 15)  
 Sum: 284,619 (Ranked 12)  

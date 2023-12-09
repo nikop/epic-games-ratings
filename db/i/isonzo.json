@@ -985,9 +985,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9290,
+  "EOS_Progressed": 9291,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9010,6 +9010,11 @@
       "Time": "2023-12-09T00:08:11.0189064+00:00",
       "NumProgressed": 9290,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-09T02:28:35.9115041+00:00",
+      "NumProgressed": 9291,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9053,7 +9058,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -9213,7 +9218,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4274
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -9269,7 +9274,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2508
+      "UsersEstimate": 2509
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -9380,7 +9385,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9290,
+      "Progressed": 9291,
       "Completed": 10
     }
   ],
@@ -9388,8 +9393,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-08T17:58:25.6260888+00:00",
-  "LastChanged_Achievements": "2023-12-09T01:51:20.8052141+00:00",
+  "LastChanged_Achievements": "2023-12-09T02:28:35.9115037+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:20.0438707+00:00",
-  "LastUpdate_Ratings": "2023-12-09T01:43:30.190888+00:00",
-  "LastUpdate_Achievements": "2023-12-09T01:51:20.8053092+00:00"
+  "LastUpdate_Ratings": "2023-12-09T02:18:35.7604973+00:00",
+  "LastUpdate_Achievements": "2023-12-09T02:28:35.9115736+00:00"
 }

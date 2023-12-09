@@ -818,7 +818,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5409,
+  "EOS_Progressed": 5410,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
@@ -10758,6 +10758,11 @@
       "Time": "2023-12-09T01:50:35.3773691+00:00",
       "NumProgressed": 5409,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-09T02:27:45.4850075+00:00",
+      "NumProgressed": 5410,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10818,7 +10823,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10856,17 +10861,17 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1352
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 920
+      "UsersEstimate": 974
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -10930,7 +10935,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -10953,15 +10958,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5409,
+      "Progressed": 5410,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-06T15:59:42.180054+00:00",
-  "LastChanged_Achievements": "2023-12-09T01:50:35.3773688+00:00",
+  "LastChanged_Achievements": "2023-12-09T02:27:45.4850072+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-09T01:45:06.4805412+00:00",
-  "LastUpdate_Achievements": "2023-12-09T01:50:35.3774402+00:00"
+  "LastUpdate_Ratings": "2023-12-09T02:20:25.1519091+00:00",
+  "LastUpdate_Achievements": "2023-12-09T02:27:45.4850625+00:00"
 }
