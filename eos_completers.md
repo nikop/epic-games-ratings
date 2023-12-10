@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.62% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.61% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -97,8 +97,8 @@
 | 94 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.61% |
 | 96 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.33% |
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
+| 98 | [Destiny 2](games/d/destiny_2.md) | 3.22% |
 | 98 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.22% |
-| 99 | [Destiny 2](games/d/destiny_2.md) | 3.21% |
 | 100 | [The Complex](games/t/the_complex.md) | 3.18% |
 | 101 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 101 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
@@ -192,13 +192,13 @@
 | 190 | [Dead Space](games/d/dead_space.md) | 0.64% |
 | 190 | [Haven](games/h/haven.md) | 0.64% |
 | 192 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.63% |
-| 193 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.60% |
 | 193 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.60% |
 | 193 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
 | 193 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.60% |
 | 193 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.60% |
 | 193 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.60% |
-| 199 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
+| 198 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.59% |
+| 198 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 200 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 201 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
 | 201 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.57% |
@@ -230,9 +230,9 @@
 | 227 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 229 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 229 | [Train Valley](games/t/train_valley.md) | 0.37% |
-| 231 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.36% |
-| 232 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 232 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
+| 231 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.35% |
+| 231 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
+| 231 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 234 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
 | 234 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.34% |
 | 236 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.33% |
