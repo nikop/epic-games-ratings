@@ -371,9 +371,9 @@
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "NothingButRoad",
@@ -451,9 +451,9 @@
       "ID": "TuttiFrutti",
       "SetID": "4bd750m",
       "Name": "Tutti Frutti",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "UpUpAndAway",
@@ -490,8 +490,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:07:52.9130077+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:07:40.8990413+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:13.5200104+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:03:19.0408455+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:07:52.9130247+00:00"
+  "LastUpdate_Ratings": "2023-12-10T08:02:55.0244768+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:07:40.899057+00:00"
 }

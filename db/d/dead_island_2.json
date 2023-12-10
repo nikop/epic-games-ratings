@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7437,10 +7437,10 @@
       "Count": 524
     }
   ],
-  "EOS_Progressed": 732702,
-  "EOS_Completed": 2472,
-  "EOS_NewPlayers": 3398,
-  "EOS_NewCompleters": 11,
+  "EOS_Progressed": 732723,
+  "EOS_Completed": 2473,
+  "EOS_NewPlayers": 3411,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -34257,6 +34257,11 @@
       "Time": "2023-12-10T07:09:08.5551352+00:00",
       "NumProgressed": 732702,
       "NumCompleted": 2472
+    },
+    {
+      "Time": "2023-12-10T08:08:34.4851824+00:00",
+      "NumProgressed": 732723,
+      "NumCompleted": 2473
     }
   ],
   "TotalAchievements": 51,
@@ -34604,7 +34609,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 21981
+      "UsersEstimate": 21982
     },
     {
       "ID": "ach_well_known_survivor",
@@ -34636,7 +34641,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     },
     {
       "ID": "ach_gardening_tools",
@@ -34644,7 +34649,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ach_pork_chops",
@@ -34652,7 +34657,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -34675,13 +34680,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 732702,
-      "Completed": 2472
+      "Progressed": 732723,
+      "Completed": 2473
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 58244,
+      "Progressed": 58265,
       "Completed": 36649
     }
   ],
@@ -34689,8 +34694,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-10T05:59:36.5395435+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:09:08.5551348+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:08:34.4851822+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:31.7932919+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:01:09.4085397+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:09:08.5552854+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:59:35.3723585+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:08:34.4854272+00:00"
 }

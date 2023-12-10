@@ -2204,10 +2204,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4901,
       "NumberOfAwardsMax": 583
+    },
+    {
+      "Time": "2023-12-10T07:58:18.281405+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4902,
+      "NumberOfAwardsMax": 583
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4901,
+  "NumberOfAwards": 4902,
   "NumberOfAwardsMax": 583,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2227,7 +2233,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 499
+      "Count": 500
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2278,9 +2284,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 218387,
+  "EOS_Progressed": 218390,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1222,
+  "EOS_NewPlayers": 1221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -29088,6 +29094,11 @@
       "Time": "2023-12-10T07:05:10.2229771+00:00",
       "NumProgressed": 218387,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-10T08:04:14.8282473+00:00",
+      "NumProgressed": 218390,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -29163,7 +29174,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8735
+      "UsersEstimate": 8736
     },
     {
       "ID": "Genin",
@@ -29171,7 +29182,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26206
+      "UsersEstimate": 26207
     },
     {
       "ID": "HappyLittleAccidents",
@@ -29179,7 +29190,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8735
+      "UsersEstimate": 8736
     },
     {
       "ID": "HappyPlanning",
@@ -29267,7 +29278,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8735
+      "UsersEstimate": 8736
     },
     {
       "ID": "Okkoto",
@@ -29275,7 +29286,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10919
+      "UsersEstimate": 10920
     },
     {
       "ID": "OldMan",
@@ -29299,7 +29310,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10919
+      "UsersEstimate": 10920
     },
     {
       "ID": "ReleaseTheKraken",
@@ -29331,7 +29342,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8735
+      "UsersEstimate": 8736
     },
     {
       "ID": "Stoned",
@@ -29411,7 +29422,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10919
+      "UsersEstimate": 10920
     },
     {
       "ID": "Warzone",
@@ -29427,7 +29438,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "WinnerWinner",
@@ -29450,15 +29461,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 218387,
+      "Progressed": 218390,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-12-09T17:58:23.097217+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:05:10.2229765+00:00",
+  "LastChanged": "2023-12-10T07:58:18.2814048+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:04:14.828247+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.0401263+00:00",
-  "LastUpdate_Ratings": "2023-12-10T06:59:12.317327+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:05:10.2230967+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:58:18.2814053+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:04:14.8284113+00:00"
 }

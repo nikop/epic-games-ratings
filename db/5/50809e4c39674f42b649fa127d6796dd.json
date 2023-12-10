@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 441,
+  "EOS_Progressed": 442,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1107,6 +1107,11 @@
       "Time": "2023-12-10T04:05:20.3409785+00:00",
       "NumProgressed": 441,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T08:05:10.6937208+00:00",
+      "NumProgressed": 442,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1175,7 +1180,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1191,7 +1196,7 @@
       "Name": "Big Encounter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1215,7 +1220,7 @@
       "Name": "Celestial Rain",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1223,7 +1228,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1255,7 +1260,7 @@
       "Name": "Angler\u0027s Club",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "KODAMA_REACH_NUM",
@@ -1269,9 +1274,9 @@
       "ID": "MAIN_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "The Beginning",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1287,7 +1292,7 @@
       "Name": "Futile Resistance",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1375,15 +1380,15 @@
       "Name": "Unrivaled Aptitude",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SPEED_STATUS_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hypersonic Hedgehog",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "SUB_CLEAR_ALL",
@@ -1438,14 +1443,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 441,
+      "Progressed": 442,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:06:28.064232+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:05:10.6937204+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:03:09.6113995+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:06:28.0642739+00:00"
+  "LastUpdate_Ratings": "2023-12-10T08:02:48.4125339+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:05:10.6937776+00:00"
 }

@@ -1645,10 +1645,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 161928,
+  "EOS_Progressed": 161930,
   "EOS_Completed": 275,
-  "EOS_NewPlayers": 952,
-  "EOS_NewCompleters": 128,
+  "EOS_NewPlayers": 944,
+  "EOS_NewCompleters": 127,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -18650,6 +18650,11 @@
       "Time": "2023-12-10T07:05:15.1343451+00:00",
       "NumProgressed": 161928,
       "NumCompleted": 275
+    },
+    {
+      "Time": "2023-12-10T08:04:18.1924453+00:00",
+      "NumProgressed": 161930,
+      "NumCompleted": 275
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18726,15 +18731,15 @@
       "Name": "Taste",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "DEFEAT_AMAL1",
       "SetID": "ccc0dlh",
       "Name": "Weeper",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 648
+      "UsersEstimate": 810
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -18878,7 +18883,7 @@
       "Name": "Imprint",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -19029,21 +19034,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161511,
+      "Progressed": 161513,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 161928,
+      "Progressed": 161930,
       "Completed": 275
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-08T18:02:42.2195822+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:05:15.1343447+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:04:18.192445+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-10T06:57:40.7031737+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:05:15.13444+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:57:18.6269235+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:04:18.1925336+00:00"
 }

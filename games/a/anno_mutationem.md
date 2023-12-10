@@ -33,13 +33,13 @@ Rating: 4.54 (Ranked 535)
 | Clarity of Mind | 6.00% | ~46 |
 | I feel secure, contained & protected | 6.00% | ~46 |
 | Science, it works! | 6.00% | ~46 |
-| The Traveler | 5.00% | ~39 |
+| The Traveler | 6.00% | ~46 |
 | Woman on a (side) mission | 4.00% | ~31 |
 | Ann ULTRA | 3.00% | ~23 |
 | Lady Luck is a cool cat | 3.00% | ~23 |
 | SERENITY NOW | 2.00% | ~15 |
 | I just got real good | 2.00% | ~15 |
-| Love me like I love my posters | 0.90% | ~7 |
+| Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 772 (Ranked 285)  

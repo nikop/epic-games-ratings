@@ -7,7 +7,7 @@
 | The Camp | 59.00% | ~317 |
 | The Teleprobe | 48.00% | ~258 |
 | The City | 45.00% | ~242 |
-| The field base | 40.00% | ~215 |
+| The field base | 41.00% | ~220 |
 | Survivors | 35.00% | ~188 |
 | The Condor | 33.00% | ~177 |
 | The End | 32.00% | ~172 |

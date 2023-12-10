@@ -320,9 +320,9 @@
       "ID": "ACH_PRO-EXCAVATOR",
       "SetID": "6lg1p1e",
       "Name": "Pro Excavator",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_PROPERTY-DAMAGE",
@@ -399,8 +399,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:07:08.2694007+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:05:39.5073077+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.6928375+00:00",
-  "LastUpdate_Ratings": "2023-12-10T06:57:47.243266+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:07:08.2694187+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:57:22.920537+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:05:39.5073299+00:00"
 }

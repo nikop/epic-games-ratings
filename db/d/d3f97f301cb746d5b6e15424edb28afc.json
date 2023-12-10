@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3173,9 +3173,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 856
+      "UsersEstimate": 868
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -3341,9 +3341,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 809
+      "UsersEstimate": 820
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -3429,9 +3429,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 844
+      "UsersEstimate": 856
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -3501,9 +3501,9 @@
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 2",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 773
     },
     {
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
@@ -3718,8 +3718,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:06:20.5854212+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:05:05.3577643+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-10T06:58:59.0150206+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:06:20.5855212+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:58:09.4395174+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:05:05.3578781+00:00"
 }

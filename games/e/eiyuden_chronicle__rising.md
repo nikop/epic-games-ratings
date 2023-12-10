@@ -6,19 +6,19 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 88.00% | ~622 |
-| All Bark, No Bite | 77.00% | ~544 |
+| Plenty More to Go | 88.00% | ~623 |
+| All Bark, No Bite | 77.00% | ~545 |
 | Hopeful Hunter | 68.00% | ~481 |
 | Amateur Adventurer | 65.00% | ~460 |
-| The Road to Recovery | 64.00% | ~452 |
-| Partners? | 63.00% | ~445 |
+| The Road to Recovery | 64.00% | ~453 |
+| Partners? | 62.00% | ~439 |
 | Magical Mineral Golem | 56.00% | ~396 |
 | On Outlander Lane | 55.00% | ~389 |
 | First Time Fishing | 52.00% | ~368 |
 | A Girl About the Town | 51.00% | ~361 |
 | First Time Hunting | 50.00% | ~354 |
-| Rune Wall Wreckage | 49.00% | ~346 |
-| ...And Your Tax Money | 47.00% | ~332 |
+| Rune Wall Wreckage | 49.00% | ~347 |
+| ...And Your Tax Money | 47.00% | ~333 |
 | The Lords of the Snowpeak | 41.00% | ~290 |
 | The Go-To Girl | 38.00% | ~269 |
 | Natural Born Monster-Killer | 38.00% | ~269 |
@@ -28,8 +28,8 @@ Number of Ratings: 48  (23.09.2022)
 | The Great Forest...On Foot! | 37.00% | ~262 |
 | Adept, for an Acting Mayor | 36.00% | ~255 |
 | Money, Money, Money | 36.00% | ~255 |
-| Rune Wall Master | 34.00% | ~240 |
-| The Quarry...On Foot! | 32.00% | ~226 |
+| Rune Wall Master | 34.00% | ~241 |
+| The Quarry...On Foot! | 31.00% | ~219 |
 | The Runebarrows...On Foot! | 29.00% | ~205 |
 | The Snowpeak...On Foot! | 28.00% | ~198 |
 | The Lava Ruins...On Foot! | 28.00% | ~198 |
@@ -37,9 +37,9 @@ Number of Ratings: 48  (23.09.2022)
 | Fishing Master | 25.00% | ~177 |
 | Armor Master | 24.00% | ~170 |
 | The Pride of the Town | 23.00% | ~163 |
-| This Treasure I've Found | 21.00% | ~148 |
-| New Nevaeh's Number One Customer | 21.00% | ~148 |
-| Arms Master | 20.00% | ~141 |
+| This Treasure I've Found | 21.00% | ~149 |
+| New Nevaeh's Number One Customer | 21.00% | ~149 |
+| Arms Master | 19.00% | ~135 |
 | Rune Scholar | 17.00% | ~120 |
 | No Treasure Left Behind | 14.00% | ~99 |
 | One-Hundred Resident Record | 12.00% | ~85 |
@@ -55,10 +55,10 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - CJ | 9.00% | ~64 |
 | Full Force - Garoo | 8.00% | ~57 |
 | Full Force - Isha | 8.00% | ~57 |
-| Rising Champion | 7.00% | ~49 |
+| Rising Champion | 7.00% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707 (Ranked 290)  
-Completed: 60 (8.49%) (Ranked 50)  
+Progressed: 708 (Ranked 289)  
+Completed: 60 (8.47%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,6 +103,7 @@ Completed: 60 (8.49%) (Ranked 50)
 | 2023-12-02 | 705 | 60 |
 | 2023-12-04 | 706 | 60 |
 | 2023-12-05 | 707 | 60 |
+| 2023-12-10 | 708 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

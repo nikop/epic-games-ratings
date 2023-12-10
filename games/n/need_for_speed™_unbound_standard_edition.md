@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~11,102 |
-| Cool Whip | 90.00% | ~10,860 |
-| Fashion Killa | 88.00% | ~10,619 |
+| Throwing up Tags | 92.00% | ~11,103 |
+| Cool Whip | 90.00% | ~10,861 |
+| Fashion Killa | 88.00% | ~10,620 |
 | Drop the Beat | 86.00% | ~10,378 |
-| Hey Lakeshore | 85.00% | ~10,257 |
-| 100 Miles and Runnin' | 84.00% | ~10,136 |
-| Public Enemy | 82.00% | ~9,895 |
+| Hey Lakeshore | 85.00% | ~10,258 |
+| 100 Miles and Runnin' | 84.00% | ~10,137 |
+| Public Enemy | 82.00% | ~9,896 |
 | Rebel Without a Pause | 68.00% | ~8,206 |
 | Hey Speedie! | 68.00% | ~8,206 |
-| Most Wanted | 64.00% | ~7,723 |
+| Most Wanted | 64.00% | ~7,724 |
 | New Crew | 62.00% | ~7,482 |
-| Escape Artist | 54.00% | ~6,516 |
+| Escape Artist | 54.00% | ~6,517 |
 | Serious Guap | 53.00% | ~6,396 |
 | Style it Out | 53.00% | ~6,396 |
 | Untouchable | 52.00% | ~6,275 |
@@ -26,15 +26,15 @@
 | #Blessed | 34.00% | ~4,103 |
 | Access All Areas | 33.00% | ~3,982 |
 | Found Family | 31.00% | ~3,741 |
-| In the Flow | 29.00% | ~3,499 |
-| The Collector | 29.00% | ~3,499 |
-| Kick it | 29.00% | ~3,499 |
+| In the Flow | 29.00% | ~3,500 |
+| The Collector | 29.00% | ~3,500 |
+| Kick it | 29.00% | ~3,500 |
 | Top Billin' | 21.00% | ~2,534 |
-| Teacher's Pet | 20.00% | ~2,413 |
+| Teacher's Pet | 20.00% | ~2,414 |
 | Full House | 18.00% | ~2,172 |
 | Superstar | 18.00% | ~2,172 |
-| B for My Name | 17.00% | ~2,051 |
-| Mixtape | 17.00% | ~2,051 |
+| B for My Name | 17.00% | ~2,052 |
+| Mixtape | 17.00% | ~2,052 |
 | Bring Your A Game | 15.00% | ~1,810 |
 | Flow Master | 12.00% | ~1,448 |
 | The Bear Champ | 5.00% | ~603 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~241 |
 | Cleaning Up | 2.00% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,067 (Ranked 162)  
+Progressed: 12,068 (Ranked 163)  
 Completed: 52 (0.43%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,4 +132,4 @@ Completed: 52 (0.43%) (Ranked 219)
 | 2023-12-07 | 11,909 | 52 |
 | 2023-12-08 | 11,958 | 52 |
 | 2023-12-09 | 12,036 | 52 |
-| 2023-12-10 | 12,067 | 52 |
+| 2023-12-10 | 12,068 | 52 |

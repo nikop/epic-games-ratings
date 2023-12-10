@@ -6,7 +6,7 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,206 |
+| Genin | 12.00% | ~26,207 |
 | A thief's beginning | 10.00% | ~21,839 |
 | Thorough | 10.00% | ~21,839 |
 | Disguised | 9.00% | ~19,655 |
@@ -22,13 +22,13 @@ Number of Ratings: 495  (23.09.2022)
 | Flying Rocks | 6.00% | ~13,103 |
 | Mugen Unchained | 6.00% | ~13,103 |
 | Warzone | 6.00% | ~13,103 |
-| Okkoto | 5.00% | ~10,919 |
-| Prisoners | 5.00% | ~10,919 |
-| Too Early | 5.00% | ~10,919 |
-| Gear up | 4.00% | ~8,735 |
-| Happy little accidents | 4.00% | ~8,735 |
-| Noboru | 4.00% | ~8,735 |
-| Still Rollin' | 4.00% | ~8,735 |
+| Okkoto | 5.00% | ~10,920 |
+| Prisoners | 5.00% | ~10,920 |
+| Too Early | 5.00% | ~10,920 |
+| Gear up | 4.00% | ~8,736 |
+| Happy little accidents | 4.00% | ~8,736 |
+| Noboru | 4.00% | ~8,736 |
+| Still Rollin' | 4.00% | ~8,736 |
 | It's raining men | 3.00% | ~6,552 |
 | Stoned | 3.00% | ~6,552 |
 | The Old Way | 3.00% | ~6,552 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | Winner Winner | 2.00% | ~4,368 |
 | Meticulous | 1.00% | ~2,184 |
 | Undeserved Honor | 1.00% | ~2,184 |
-| When Cut Across the Neck | 0.90% | ~1,965 |
+| When Cut Across the Neck | 0.90% | ~1,966 |
 | High Five the Moon | 0.80% | ~1,747 |
 | The Cave | 0.80% | ~1,747 |
 | Time Paradox | 0.60% | ~1,310 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~218 |
 | Release the Kraken | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,387 (Ranked 72)  
+Progressed: 218,390 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,10 +285,10 @@ Completed: 100 (0.05%) (Ranked 322)
 | 2023-12-07 | 217,934 | 100 |
 | 2023-12-08 | 218,123 | 100 |
 | 2023-12-09 | 218,323 | 100 |
-| 2023-12-10 | 218,387 | 100 |
+| 2023-12-10 | 218,390 | 100 |
 ## Awards
 Max (Great for Beginners): 583  (Ranked 201)  
-Sum: 4,901 (Ranked 144)  
+Sum: 4,902 (Ranked 144)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -297,7 +297,7 @@ Diff (max vs sum): 57
 | This game is Extremely Fun | 539 |
 | This game has Amazing Storytelling | 520 |
 | This game has Amazing Characters | 507 |
-| This game is Relaxing | 499 |
+| This game is Relaxing | 500 |
 | This game has Challenging Combat | 497 |
 | This game is Highly Recommended | 496 |
 | This game has Quickly Understood Controls | 461 |
@@ -538,3 +538,4 @@ Diff (max vs sum): 57
 | 2023-12-05 | 4.67 | - | 581 | 4,896 |
 | 2023-12-07 | 4.67 | - | 581 | 4,897 |
 | 2023-12-09 | 4.67 | - | 583 | 4,901 |
+| 2023-12-10 | 4.67 | - | 583 | 4,902 |

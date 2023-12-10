@@ -2,9 +2,9 @@
   "ID": "9acb0d22292b48acaeb0eb38b391df93",
   "Name": "Need for Speed\u2122 Unbound Standard Edition",
   "ProductSlug": "need-for-speed-unbound",
-  "Ranking_EOS_Progress": 162,
+  "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-12-02T07:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12067,
+  "EOS_Progressed": 12068,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 0,
@@ -9403,6 +9403,11 @@
       "Time": "2023-12-10T07:08:53.6542939+00:00",
       "NumProgressed": 12067,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-10T08:08:24.0337462+00:00",
+      "NumProgressed": 12068,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -9487,7 +9492,7 @@
       "Name": "In the Flow",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 3499
+      "UsersEstimate": 3500
     },
     {
       "ID": "achievement_19",
@@ -9503,7 +9508,7 @@
       "Name": "Most Wanted",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 7723
+      "UsersEstimate": 7724
     },
     {
       "ID": "achievement_20",
@@ -9527,7 +9532,7 @@
       "Name": "Escape Artist",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 6516
+      "UsersEstimate": 6517
     },
     {
       "ID": "achievement_23",
@@ -9535,7 +9540,7 @@
       "Name": "Public Enemy",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 9895
+      "UsersEstimate": 9896
     },
     {
       "ID": "achievement_24",
@@ -9567,7 +9572,7 @@
       "Name": "B for My Name",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "achievement_28",
@@ -9583,7 +9588,7 @@
       "Name": "Teacher\u0027s Pet",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2413
+      "UsersEstimate": 2414
     },
     {
       "ID": "achievement_3",
@@ -9615,7 +9620,7 @@
       "Name": "Mixtape",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "achievement_33",
@@ -9631,7 +9636,7 @@
       "Name": "The Collector",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 3499
+      "UsersEstimate": 3500
     },
     {
       "ID": "achievement_35",
@@ -9647,7 +9652,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 10136
+      "UsersEstimate": 10137
     },
     {
       "ID": "achievement_37",
@@ -9655,7 +9660,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 11102
+      "UsersEstimate": 11103
     },
     {
       "ID": "achievement_38",
@@ -9663,7 +9668,7 @@
       "Name": "Fashion Killa",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 10619
+      "UsersEstimate": 10620
     },
     {
       "ID": "achievement_39",
@@ -9671,7 +9676,7 @@
       "Name": "Cool Whip",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 10860
+      "UsersEstimate": 10861
     },
     {
       "ID": "achievement_4",
@@ -9687,7 +9692,7 @@
       "Name": "Kick it",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3499
+      "UsersEstimate": 3500
     },
     {
       "ID": "achievement_41",
@@ -9719,7 +9724,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 10257
+      "UsersEstimate": 10258
     },
     {
       "ID": "achievement_8",
@@ -9742,13 +9747,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 12067,
+      "Progressed": 12068,
       "Completed": 52
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:08:53.6542934+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:08:24.033746+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:13.0801717+00:00",
-  "LastUpdate_Ratings": "2023-12-10T06:59:43.4918998+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:08:53.6543811+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:58:38.737422+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:08:24.0338163+00:00"
 }

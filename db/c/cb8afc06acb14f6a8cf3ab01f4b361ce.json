@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -395,9 +395,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 326696,
+  "EOS_Progressed": 326713,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3744,
+  "EOS_NewPlayers": 3723,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9050,6 +9050,11 @@
       "Time": "2023-12-10T07:05:36.4773498+00:00",
       "NumProgressed": 326696,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-10T08:04:33.7263208+00:00",
+      "NumProgressed": 326713,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9094,7 +9099,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "S06_LWTC",
@@ -9294,7 +9299,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -9381,7 +9386,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 326696,
+      "Progressed": 326713,
       "Completed": 5
     }
   ],
@@ -9389,8 +9394,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-06T06:00:13.3250354+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:05:36.4773494+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:04:33.7263206+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-10T06:59:49.4524498+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:05:36.4774084+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:58:42.6643339+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:04:33.7263905+00:00"
 }

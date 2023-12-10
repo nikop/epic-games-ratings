@@ -16869,9 +16869,9 @@
       "ID": "34_CapitulationIsNowMoot",
       "SetID": "989of5o",
       "Name": "Capitulation Is Now Moot",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 368
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -17555,8 +17555,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-09T09:58:33.0483748+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:09:58.8601169+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:09:10.8957609+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:00:15.5451478+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:09:58.8602991+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:58:59.8725986+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:09:10.8959107+00:00"
 }

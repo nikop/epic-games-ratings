@@ -6,7 +6,7 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,710 |
+| Just One...More...Term... | 75.00% | ~4,711 |
 | Un-Lonely Island | 46.00% | ~2,889 |
 | The Beginning of a Servantship | 45.00% | ~2,826 |
 | Trade Is My Trait | 37.00% | ~2,324 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~50 |
 | My Ways | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,280 (Ranked 186)  
+Progressed: 6,281 (Ranked 186)  
 Completed: 2 (0.03%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 2 (0.03%) (Ranked 333)
 | 2023-12-07 | 6,251 | 2 |
 | 2023-12-08 | 6,260 | 2 |
 | 2023-12-09 | 6,276 | 2 |
-| 2023-12-10 | 6,280 | 2 |
+| 2023-12-10 | 6,281 | 2 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 360)  
 Sum: 739 (Ranked 293)  

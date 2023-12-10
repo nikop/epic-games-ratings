@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7916,
+  "EOS_Progressed": 7917,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8866,6 +8866,11 @@
       "Time": "2023-12-10T06:04:00.0626178+00:00",
       "NumProgressed": 7916,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-10T08:03:58.7268587+00:00",
+      "NumProgressed": 7917,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8933,7 +8938,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "FASHION_VICTIM",
@@ -8941,7 +8946,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -8981,7 +8986,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "LIBERATOR",
@@ -9044,7 +9049,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7916,
+      "Progressed": 7917,
       "Completed": 34
     }
   ],
@@ -9052,8 +9057,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:04:48.5591707+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:03:58.7268584+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:01:08.2708457+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:04:48.5592218+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:59:34.6412593+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:03:58.7269061+00:00"
 }

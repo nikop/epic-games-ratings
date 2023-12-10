@@ -67,13 +67,13 @@
 | Treason | 30.00% | ~466 |
 | Agent | 30.00% | ~466 |
 | Digital Exorcist | 30.00% | ~466 |
+| Untouchable | 29.00% | ~451 |
 | Archivist | 29.00% | ~451 |
 | Mission Accomplished | 29.00% | ~451 |
 | Suicide Mission | 29.00% | ~451 |
 | Against All Odds | 29.00% | ~451 |
 | Friend or Foe | 29.00% | ~451 |
 | Mobilizer | 29.00% | ~451 |
-| Untouchable | 28.00% | ~435 |
 | Giant Killer | 28.00% | ~435 |
 | A House Divided | 28.00% | ~435 |
 | Eye of the Hurricane | 27.00% | ~420 |
@@ -93,11 +93,11 @@
 | Problem Solver | 22.00% | ~342 |
 | Under Pressure | 21.00% | ~327 |
 | Last Resort | 21.00% | ~327 |
+| No One Left Behind | 21.00% | ~327 |
 | Saboteur | 21.00% | ~327 |
 | Last Witness | 21.00% | ~327 |
 | Well Connected | 21.00% | ~327 |
 | Pyromaniac | 20.00% | ~311 |
-| No One Left Behind | 20.00% | ~311 |
 | Executioner | 19.00% | ~295 |
 | Patriot | 19.00% | ~295 |
 | Legend | 19.00% | ~295 |

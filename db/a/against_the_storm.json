@@ -3401,7 +3401,7 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 17826,
+  "EOS_Progressed": 17827,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 255,
   "EOS_NewCompleters": -7,
@@ -15216,6 +15216,11 @@
       "Time": "2023-12-10T07:06:05.1367078+00:00",
       "NumProgressed": 17826,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-10T08:04:54.3581044+00:00",
+      "NumProgressed": 17827,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15314,9 +15319,9 @@
       "ID": "WinFirstGame",
       "SetID": "cfbk359",
       "Name": "First Real Expedition",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 143
     },
     {
       "ID": "WinHard",
@@ -15490,17 +15495,17 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 143
     },
     {
       "ID": "WinOnCursed",
       "SetID": "cfbk359",
       "Name": "Cursed Lands",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     },
     {
       "ID": "WinOnMarshlands",
@@ -15699,15 +15704,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17826,
+      "Progressed": 17827,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-10T04:57:34.5838562+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:06:05.1367074+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:04:54.3581042+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-10T06:57:37.3593872+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:06:05.1368027+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:57:16.4803827+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:04:54.3582155+00:00"
 }

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~23,714 |
-| Fried Friendship | 87.00% | ~23,445 |
-| Look At Him Go | 79.00% | ~21,289 |
-| On Rails Experience | 57.00% | ~15,360 |
-| A Daring Devil | 53.00% | ~14,282 |
-| It Took Two | 45.00% | ~12,127 |
-| Break the Bank | 43.00% | ~11,588 |
-| Bug Sized Relaxation | 22.00% | ~5,929 |
-| Plastic Prison Breakers | 18.00% | ~4,851 |
-| Terror Of The Seven Seas | 16.00% | ~4,312 |
-| Meditation Maestro | 13.00% | ~3,503 |
-| Realize Your Art | 12.00% | ~3,234 |
-| Force Triangulated | 12.00% | ~3,234 |
-| Lost And Found | 11.00% | ~2,964 |
-| Something Fishy | 11.00% | ~2,964 |
-| Platforming Prodigy | 9.00% | ~2,425 |
-| Snackosaurus | 8.00% | ~2,156 |
-| Mood Swing | 7.00% | ~1,886 |
+| Struck A Pose | 88.00% | ~23,727 |
+| Fried Friendship | 87.00% | ~23,457 |
+| Look At Him Go | 79.00% | ~21,300 |
+| On Rails Experience | 57.00% | ~15,368 |
+| A Daring Devil | 53.00% | ~14,290 |
+| It Took Two | 45.00% | ~12,133 |
+| Break the Bank | 43.00% | ~11,594 |
+| Bug Sized Relaxation | 22.00% | ~5,932 |
+| Plastic Prison Breakers | 18.00% | ~4,853 |
+| Terror Of The Seven Seas | 16.00% | ~4,314 |
+| Meditation Maestro | 13.00% | ~3,505 |
+| Realize Your Art | 12.00% | ~3,235 |
+| Force Triangulated | 12.00% | ~3,235 |
+| Lost And Found | 11.00% | ~2,966 |
+| Something Fishy | 11.00% | ~2,966 |
+| Platforming Prodigy | 9.00% | ~2,427 |
+| Snackosaurus | 8.00% | ~2,157 |
+| Mood Swing | 7.00% | ~1,887 |
 | Minigame Megalomania | 4.00% | ~1,078 |
 | Faraway Frequencies | 4.00% | ~1,078 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,948 (Ranked 130)  
+Progressed: 26,962 (Ranked 130)  
 Completed: 117 (0.43%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,4 +111,4 @@ Completed: 117 (0.43%) (Ranked 219)
 | 2023-12-07 | 26,415 | 113 |
 | 2023-12-08 | 26,617 | 113 |
 | 2023-12-09 | 26,893 | 117 |
-| 2023-12-10 | 26,948 | 117 |
+| 2023-12-10 | 26,962 | 117 |

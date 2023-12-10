@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -489,9 +489,9 @@
       "ID": "SG_ABDICATION",
       "SetID": "bj5g0n4",
       "Name": "Abdication",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:07:34.9904362+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:05:58.6096066+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:54.1006899+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:00:18.0344392+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:07:34.9904576+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:59:01.5521118+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:05:58.6096254+00:00"
 }

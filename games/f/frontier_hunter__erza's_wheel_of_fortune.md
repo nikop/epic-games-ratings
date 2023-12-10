@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~543 |
+| Travel Streamer | 93.00% | ~544 |
 | Training Simulation | 78.00% | ~456 |
 | Kuku Bird Hunter | 64.00% | ~374 |
 | Storm Traveller | 58.00% | ~339 |
 | Wolf King Killer | 53.00% | ~310 |
 | Fashion Connoisseur | 52.00% | ~304 |
-| Arms Mechanic | 47.00% | ~274 |
-| Flower Thief | 42.00% | ~245 |
+| Arms Mechanic | 48.00% | ~281 |
+| Flower Thief | 42.00% | ~246 |
 | Beginner Artificer | 37.00% | ~216 |
 | Apostle of Flame | 37.00% | ~216 |
-| Beginner Cook | 35.00% | ~204 |
+| Beginner Cook | 36.00% | ~211 |
 | Seal Breaker | 31.00% | ~181 |
 | Handyman | 27.00% | ~158 |
 | Giant Lizard Killer | 26.00% | ~152 |
@@ -24,10 +24,10 @@
 | Weapon Boost | 21.00% | ~123 |
 | Flying Kobold Killer | 18.00% | ~105 |
 | Youth Magnet | 18.00% | ~105 |
-| Furious Scorpion Killer | 16.00% | ~93 |
-| Lethal Blade Mantis Killer | 16.00% | ~93 |
-| Squeaky Clean | 16.00% | ~93 |
-| Master Artificer | 16.00% | ~93 |
+| Furious Scorpion Killer | 16.00% | ~94 |
+| Lethal Blade Mantis Killer | 16.00% | ~94 |
+| Squeaky Clean | 16.00% | ~94 |
+| Master Artificer | 16.00% | ~94 |
 | Kind Adventurer | 14.00% | ~82 |
 | Mermaid Killer | 14.00% | ~82 |
 | Face Slapper | 14.00% | ~82 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 584 (Ranked 307)  
+Progressed: 585 (Ranked 306)  
 Completed: 1 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 1 (0.17%) (Ranked 269)
 | 2023-12-07 | 566 | 1 |
 | 2023-12-08 | 572 | 1 |
 | 2023-12-09 | 581 | 1 |
-| 2023-12-10 | 584 | 1 |
+| 2023-12-10 | 585 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

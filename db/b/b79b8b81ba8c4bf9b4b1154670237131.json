@@ -125,9 +125,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14811,
+  "EOS_Progressed": 14812,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 684,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3135,6 +3135,11 @@
       "Time": "2023-12-10T07:09:14.9397285+00:00",
       "NumProgressed": 14811,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-10T08:08:39.0977734+00:00",
+      "NumProgressed": 14812,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -3147,7 +3152,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5628
+      "UsersEstimate": 5629
     },
     {
       "ID": "ACH_AE_10",
@@ -3179,7 +3184,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11108
+      "UsersEstimate": 11109
     },
     {
       "ID": "ACH_AE_14",
@@ -3195,7 +3200,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3258
+      "UsersEstimate": 3259
     },
     {
       "ID": "ACH_AE_16",
@@ -3203,7 +3208,7 @@
       "Name": "Energy Efficient",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "ACH_AE_17",
@@ -3379,7 +3384,7 @@
       "Name": "The Bomb",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "ACH_AE_5",
@@ -3426,7 +3431,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 14811,
+      "Progressed": 14812,
       "Completed": 15
     }
   ],
@@ -3434,8 +3439,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-09T16:57:04.7047902+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:09:14.9397282+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:08:39.0977732+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.7146917+00:00",
-  "LastUpdate_Ratings": "2023-12-10T06:57:29.2086357+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:09:14.9397658+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:57:11.0193796+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:08:39.0978089+00:00"
 }

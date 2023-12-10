@@ -5,14 +5,14 @@ Rating: 4.86 (Ranked 33)
 Number of Ratings: 771  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 353  (Ranked 241)  
-Sum: 419 (Ranked 342)  
+Sum: 420 (Ranked 342)  
 Diff (max vs sum): -101  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 353 |
 | This game has Amazing Storytelling | 26 |
+| This game is Great for Beginners | 21 |
 | This game has Diverse Characters | 20 |
-| This game is Great for Beginners | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -112,3 +112,4 @@ Diff (max vs sum): -101
 | 2023-12-03 | 4.86 | - | 350 | 416 |
 | 2023-12-05 | 4.86 | - | 351 | 417 |
 | 2023-12-08 | 4.86 | - | 353 | 419 |
+| 2023-12-10 | 4.86 | - | 353 | 420 |

@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 146,
+  "Ranking_Rating": 145,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 66,
@@ -5409,9 +5409,9 @@
       "Count": 412
     }
   ],
-  "EOS_Progressed": 237804,
+  "EOS_Progressed": 237827,
   "EOS_Completed": 575,
-  "EOS_NewPlayers": 4363,
+  "EOS_NewPlayers": 4349,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22279,6 +22279,11 @@
       "Time": "2023-12-10T07:09:24.7120594+00:00",
       "NumProgressed": 237804,
       "NumCompleted": 575
+    },
+    {
+      "Time": "2023-12-10T08:08:46.0863649+00:00",
+      "NumProgressed": 237827,
+      "NumCompleted": 575
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22371,7 +22376,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -22730,22 +22735,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 237804,
+      "Progressed": 237827,
       "Completed": 575
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 16969,
-      "Completed": 227
+      "Progressed": 16992,
+      "Completed": 229
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-10T06:03:04.9812704+00:00",
-  "LastChanged_Achievements": "2023-12-10T07:09:24.712059+00:00",
+  "LastChanged_Achievements": "2023-12-10T08:08:46.0863647+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:03:29.4406327+00:00",
-  "LastUpdate_Achievements": "2023-12-10T07:09:24.7121911+00:00"
+  "LastUpdate_Ratings": "2023-12-10T08:03:02.4441028+00:00",
+  "LastUpdate_Achievements": "2023-12-10T08:08:46.0864555+00:00"
 }
