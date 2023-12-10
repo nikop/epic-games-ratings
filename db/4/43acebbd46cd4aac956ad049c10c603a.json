@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,9 +216,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 925,
+  "EOS_Progressed": 926,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2301,6 +2301,11 @@
       "Time": "2023-12-10T19:03:45.3568081+00:00",
       "NumProgressed": 925,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T22:04:36.875181+00:00",
+      "NumProgressed": 926,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2337,7 +2342,7 @@
       "Name": "Archaeologist",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Balance",
@@ -2345,7 +2350,7 @@
       "Name": "Balance",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "BecomingSmarter",
@@ -2377,7 +2382,7 @@
       "Name": "Chasing the Light",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Chicken",
@@ -2521,7 +2526,7 @@
       "Name": "Mnemosyne",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "MuseumExplorer",
@@ -2529,7 +2534,7 @@
       "Name": "Museum Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "MuseumVisitor",
@@ -2577,7 +2582,7 @@
       "Name": "Persistent",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "PrometheusUnbound",
@@ -2609,7 +2614,7 @@
       "Name": "Renaissance Robot",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ScientiaVincereTenebras",
@@ -2625,7 +2630,7 @@
       "Name": "Signatory",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "SingleRod",
@@ -2681,7 +2686,7 @@
       "Name": "The Edge of Forever",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TheFuture",
@@ -2689,7 +2694,7 @@
       "Name": "The Future",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TheHardWay",
@@ -2784,7 +2789,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 925,
+      "Progressed": 926,
       "Completed": 1
     }
   ],
@@ -2792,8 +2797,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-10T21:04:50.6963311+00:00",
+  "LastChanged_Achievements": "2023-12-10T22:04:36.8751806+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-10T20:58:32.5761383+00:00",
-  "LastUpdate_Achievements": "2023-12-10T21:04:50.6963783+00:00"
+  "LastUpdate_Ratings": "2023-12-10T21:58:19.6499464+00:00",
+  "LastUpdate_Achievements": "2023-12-10T22:04:36.875225+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1933,9 +1933,9 @@
       "ID": "ach_main20end_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand\u00A0- This Time For Real!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_main20end_notristan",
@@ -1964,8 +1964,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-10T21:04:18.9569498+00:00",
+  "LastChanged_Achievements": "2023-12-10T22:04:02.8750722+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-10T20:59:19.7625668+00:00",
-  "LastUpdate_Achievements": "2023-12-10T21:04:18.9570036+00:00"
+  "LastUpdate_Ratings": "2023-12-10T21:59:12.2480656+00:00",
+  "LastUpdate_Achievements": "2023-12-10T22:04:02.875115+00:00"
 }

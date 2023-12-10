@@ -41,6 +41,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Arabian Coffee | 0.10% | ~473 |
 | Assembly Instructions Needed | 0.10% | ~473 |
 | At every continent | 0.10% | ~473 |
+| Atwix Legacy | 0.10% | ~473 |
 | Auld Alliance Reversed | 0.10% | ~473 |
 | Australia-Hungary | 0.10% | ~473 |
 | Avar Khaganate | 0.10% | ~473 |
@@ -290,7 +291,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The 52 Garhs | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
-| Atwix Legacy | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
 | The Buddhists Strike Back | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,702 (Ranked 41)  
+Progressed: 472,722 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -604,7 +604,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-07 | 470,773 | 1 |
 | 2023-12-08 | 471,386 | 1 |
 | 2023-12-09 | 472,114 | 1 |
-| 2023-12-10 | 472,702 | 1 |
+| 2023-12-10 | 472,722 | 1 |
 ## Awards
 Max (Educational): 7,331  (Ranked 54)  
 Sum: 60,369 (Ranked 24)  

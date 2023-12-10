@@ -50,8 +50,8 @@ Rating: 4.62 (Ranked 370)
 | Grexolis | 0.70% | ~39 |
 | I've Got Everything I Need Right Here | 0.60% | ~34 |
 | The Goddess of Nature | 0.60% | ~34 |
+| Pruning for Progress | 0.60% | ~34 |
 | One for All, All for One | 0.60% | ~34 |
-| Pruning for Progress | 0.50% | ~28 |
 | Duality | 0.50% | ~28 |
 | Against the Odds | 0.40% | ~22 |
 | Snap Out of It! | 0.30% | ~17 |

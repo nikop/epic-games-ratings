@@ -6,12 +6,12 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~12,046 |
-| Battering Crew | 20.00% | ~6,023 |
+| Conqueror | 40.00% | ~12,047 |
+| Battering Crew | 20.00% | ~6,024 |
 | The Kingsroad | 18.00% | ~5,421 |
-| Well Stocked | 14.00% | ~4,216 |
+| Well Stocked | 14.00% | ~4,217 |
 | Royal Fleet | 13.00% | ~3,915 |
-| The Kraken’s Grasp | 9.00% | ~2,710 |
+| The Kraken’s Grasp | 9.00% | ~2,711 |
 | Daggers in the Dark | 8.00% | ~2,409 |
 | Alliance | 8.00% | ~2,409 |
 | A Long Journey | 8.00% | ~2,409 |
@@ -24,12 +24,12 @@ Number of Ratings: 2,500  (23.09.2022)
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,506 |
 | Growing Strong | 5.00% | ~1,506 |
 | Hear me Roar! | 5.00% | ~1,506 |
-| What is Dead may Never Die | 3.00% | ~903 |
-| The Swift | 3.00% | ~903 |
+| What is Dead may Never Die | 3.00% | ~904 |
+| The Swift | 3.00% | ~904 |
 | King in the North | 2.00% | ~602 |
 | War of the Five Kings | 1.00% | ~301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,116 (Ranked 126)  
+Progressed: 30,118 (Ranked 126)  
 Completed: 83 (0.28%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 83 (0.28%) (Ranked 245)
 | 2023-12-07 | 29,881 | 82 |
 | 2023-12-08 | 29,953 | 82 |
 | 2023-12-09 | 30,040 | 83 |
-| 2023-12-10 | 30,116 | 83 |
+| 2023-12-10 | 30,118 | 83 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 337)  
 Sum: 801 (Ranked 284)  

@@ -27,6 +27,7 @@
 | Money Train | 6.00% | ~1 |
 | Future Vision | 6.00% | ~1 |
 | Bridge Over Troubled Water | 6.00% | ~1 |
+| Time Traveler | 6.00% | ~1 |
 | Cargo King | 6.00% | ~1 |
 | People Mover | 6.00% | ~1 |
 | Train Spotter | 6.00% | ~1 |
@@ -47,7 +48,6 @@
 | One Line Wonder | 0.00% | ~0 |
 | Tunnel Vision | 0.00% | ~0 |
 | Machine Maker | 0.00% | ~0 |
-| Time Traveler | 0.00% | ~0 |
 | Mixed Bag | 0.00% | ~0 |
 | Green Energy | 0.00% | ~0 |
 | Task Master | 0.00% | ~0 |

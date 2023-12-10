@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,475 |
+| New Recruit | 89.00% | ~1,476 |
 | Off to a good start | 66.00% | ~1,094 |
-| Do... or do not. There is no try | 51.00% | ~845 |
+| Do... or do not. There is no try | 51.00% | ~846 |
 | A good blaster at your side | 30.00% | ~497 |
 | I suggest a new strategy | 19.00% | ~315 |
 | Scrap collector | 18.00% | ~298 |
@@ -28,7 +28,6 @@
 | "Gonk? Gonk!" | 5.00% | ~83 |
 | Distinguished | 5.00% | ~83 |
 | A tremor in the Force | 5.00% | ~83 |
-| On the ball | 4.00% | ~66 |
 | Safety ain't the point of a joyride | 4.00% | ~66 |
 | Not bad for a little furball | 4.00% | ~66 |
 | Patience you must have | 4.00% | ~66 |
@@ -36,6 +35,7 @@
 | I've been waiting for you | 3.00% | ~50 |
 | When 900 years old you reach... | 3.00% | ~50 |
 | Your journey has only started | 3.00% | ~50 |
+| On the ball | 3.00% | ~50 |
 | The Force is strong with this one | 2.00% | ~33 |
 | Determined | 2.00% | ~33 |
 | Precision shot | 2.00% | ~33 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,657 (Ranked 240)  
+Progressed: 1,658 (Ranked 240)  
 Completed: 1 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 1 (0.06%) (Ranked 313)
 | 2023-12-07 | 1,604 | 1 |
 | 2023-12-08 | 1,621 | 1 |
 | 2023-12-09 | 1,636 | 1 |
-| 2023-12-10 | 1,657 | 1 |
+| 2023-12-10 | 1,658 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

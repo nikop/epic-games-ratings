@@ -21,7 +21,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 19.00% | ~1,771 |
 | Veni Vidi Vici | 19.00% | ~1,771 |
 | Ragazzi del '99 | 17.00% | ~1,585 |
-| Luigi Cadorna | 15.00% | ~1,398 |
+| Luigi Cadorna | 16.00% | ~1,491 |
 | The Lion of the Isonzo | 15.00% | ~1,398 |
 | Uomo Universale | 13.00% | ~1,212 |
 | Dirty Dozen | 12.00% | ~1,119 |

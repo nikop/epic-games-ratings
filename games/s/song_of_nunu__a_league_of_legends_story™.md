@@ -13,9 +13,9 @@ Rating: 4.57 (Ranked 479)
 | He's Famous! | 67.00% | ~745 |
 | Cutie Poro | 67.00% | ~745 |
 | Krugmazing | 65.00% | ~723 |
+| The Fire Below the Mountain | 62.00% | ~689 |
 | Moneyball | 61.00% | ~678 |
-| The Fire Below the Mountain | 61.00% | ~678 |
-| No Bites | 55.00% | ~612 |
+| No Bites | 56.00% | ~623 |
 | Iceborn | 55.00% | ~612 |
 | Boom Things | 54.00% | ~600 |
 | Tear of Freedom | 53.00% | ~589 |
@@ -38,7 +38,7 @@ Rating: 4.57 (Ranked 479)
 | On The Rocks | 35.00% | ~389 |
 | Snowy Poro | 32.00% | ~356 |
 | Never Gets Old | 32.00% | ~356 |
-| Vertical Power | 27.00% | ~300 |
+| Vertical Power | 28.00% | ~311 |
 | One From The Heart | 15.00% | ~167 |
 | Yummy | 10.00% | ~111 |
 | Snowball Fightn't | 10.00% | ~111 |

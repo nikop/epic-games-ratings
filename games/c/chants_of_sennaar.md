@@ -13,13 +13,13 @@
 | True G3M4R | 23.00% | ~216 |
 | Scholar | 23.00% | ~216 |
 | The darkness | 23.00% | ~216 |
+| One last step | 22.00% | ~207 |
 | Cable guy | 21.00% | ~197 |
 | Half the way | 21.00% | ~197 |
-| One last step | 21.00% | ~197 |
 | I did it | 20.00% | ~188 |
 | Peace walker | 20.00% | ~188 |
+| Champollion | 20.00% | ~188 |
 | In this together | 19.00% | ~178 |
-| Champollion | 19.00% | ~178 |
 | Open door | 17.00% | ~160 |
 | Feels like springtime | 17.00% | ~160 |
 | Alchemists Express | 17.00% | ~160 |

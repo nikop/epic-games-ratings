@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-07-19T21:00:00+00:00",
     "PcReleaseDate": "2023-07-19T21:00:00+00:00",
@@ -340,9 +340,9 @@
       "ID": "mid_era_unlocked",
       "SetID": "5ia1dkp",
       "Name": "Time Traveler",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "million_from_freight",
@@ -531,8 +531,8 @@
   ],
   "FirstSeen": "2023-07-21T20:59:26.8070141+00:00",
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2023-12-10T21:07:16.912546+00:00",
+  "LastChanged_Achievements": "2023-12-10T22:07:13.9673709+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:25.1983449+00:00",
-  "LastUpdate_Ratings": "2023-12-10T21:01:20.9399266+00:00",
-  "LastUpdate_Achievements": "2023-12-10T21:07:16.9125733+00:00"
+  "LastUpdate_Ratings": "2023-12-10T22:01:25.3967857+00:00",
+  "LastUpdate_Achievements": "2023-12-10T22:07:13.9674034+00:00"
 }

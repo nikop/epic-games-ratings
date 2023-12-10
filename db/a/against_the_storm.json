@@ -3401,9 +3401,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 17901,
+  "EOS_Progressed": 17907,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": -8,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -15286,6 +15286,11 @@
       "Time": "2023-12-10T21:06:26.7386556+00:00",
       "NumProgressed": 17901,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-10T22:06:20.2118865+00:00",
+      "NumProgressed": 17907,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15376,9 +15381,9 @@
       "ID": "Win5Years",
       "SetID": "cfbk359",
       "Name": "Homesick",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 107
     },
     {
       "ID": "WinFirstGame",
@@ -15424,9 +15429,9 @@
       "ID": "WinNearBarren",
       "SetID": "cfbk359",
       "Name": "Barren Lands",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 90
     },
     {
       "ID": "WinNearBattleground",
@@ -15440,9 +15445,9 @@
       "ID": "WinNearCrystals",
       "SetID": "cfbk359",
       "Name": "Sparkdew Crystals",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 72
     },
     {
       "ID": "WinNearDangerous",
@@ -15560,9 +15565,9 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 179
     },
     {
       "ID": "WinOnCursed",
@@ -15769,15 +15774,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17901,
+      "Progressed": 17907,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-10T04:57:34.5838562+00:00",
-  "LastChanged_Achievements": "2023-12-10T21:06:26.7386549+00:00",
+  "LastChanged_Achievements": "2023-12-10T22:06:20.2118864+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-10T20:58:17.1846346+00:00",
-  "LastUpdate_Achievements": "2023-12-10T21:06:26.7387518+00:00"
+  "LastUpdate_Ratings": "2023-12-10T21:58:02.5596254+00:00",
+  "LastUpdate_Achievements": "2023-12-10T22:06:20.2119672+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,992 |
+| Welcome To Hell-A | 3.00% | ~21,993 |
 | Whatever It Takes | 3.00% | ~1,759 |
 | Pork Chopped | 3.00% | ~1,759 |
 | Dr. Reed, I Presume? | 2.00% | ~14,662 |
@@ -24,7 +24,7 @@ Rating: 4.54 (Ranked 535)
 | Stacking the Deck | 2.00% | ~14,662 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,662 |
 | This is My Weapon | 2.00% | ~14,662 |
-| One of Us | 2.00% | ~1,172 |
+| One of Us | 2.00% | ~1,173 |
 | Making Your Mark | 1.00% | ~7,331 |
 | Perks of the Job | 1.00% | ~7,331 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,331 |
@@ -43,22 +43,22 @@ Rating: 4.54 (Ranked 535)
 | Rising Star | 0.80% | ~5,865 |
 | Smorgasbord | 0.70% | ~5,132 |
 | Internet Famous | 0.70% | ~5,132 |
-| Make it So | 0.60% | ~4,398 |
-| On Safari | 0.60% | ~4,398 |
-| Variety is the Spice of Death | 0.60% | ~4,398 |
-| LA Influential | 0.50% | ~3,665 |
+| Make it So | 0.60% | ~4,399 |
+| On Safari | 0.60% | ~4,399 |
+| Variety is the Spice of Death | 0.60% | ~4,399 |
+| LA Influential | 0.50% | ~3,666 |
 | Sole Survivor | 0.40% | ~2,932 |
 | Gore Horse | 0.40% | ~2,932 |
 | Sharpest Tool in the Box | 0.40% | ~2,932 |
-| Top That, Tisha! | 0.40% | ~234 |
+| Top That, Tisha! | 0.40% | ~235 |
 | Survival Skills | 0.20% | ~1,466 |
 | Lawn and Order | 0.20% | ~117 |
 | Donk! | 0.10% | ~733 |
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,075 (Ranked 21)  
-Completed: 2,474 (0.34%) (Ranked 234)  
+Progressed: 733,104 (Ranked 21)  
+Completed: 2,475 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,7 +291,7 @@ Completed: 2,474 (0.34%) (Ranked 234)
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
-| 2023-12-10 | 733,075 | 2,474 |
+| 2023-12-10 | 733,104 | 2,475 |
 ## Awards
 Max (Great Boss Battles): 8,071  (Ranked 49)  
 Sum: 12,407 (Ranked 82)  

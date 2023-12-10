@@ -5,30 +5,30 @@ Rating: 4.30 (Ranked 849)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~155,030 |
-| Doubled Pawn | 57.00% | ~126,238 |
-| Check | 55.00% | ~121,809 |
-| Absolute pin | 47.00% | ~104,091 |
-| Promotion | 31.00% | ~68,656 |
-| Checkmate | 30.00% | ~66,441 |
-| O-O | 24.00% | ~53,153 |
-| Spanish Bishop | 21.00% | ~46,509 |
-| Queen Sacrifice | 20.00% | ~44,294 |
-| Stalemate | 18.00% | ~39,865 |
-| O-O-O | 13.00% | ~28,791 |
-| Octopus | 13.00% | ~28,791 |
-| Stranger Danger | 12.00% | ~26,577 |
-| En Passant | 9.00% | ~19,932 |
-| Double Check | 7.00% | ~15,503 |
-| Family Fork | 6.00% | ~13,288 |
-| Piece Collector | 6.00% | ~13,288 |
+| Chop Wood | 70.00% | ~155,041 |
+| Doubled Pawn | 57.00% | ~126,248 |
+| Check | 55.00% | ~121,818 |
+| Absolute pin | 47.00% | ~104,099 |
+| Promotion | 31.00% | ~68,661 |
+| Checkmate | 30.00% | ~66,446 |
+| O-O | 24.00% | ~53,157 |
+| Spanish Bishop | 21.00% | ~46,512 |
+| Queen Sacrifice | 20.00% | ~44,297 |
+| Stalemate | 18.00% | ~39,868 |
+| O-O-O | 13.00% | ~28,793 |
+| Octopus | 13.00% | ~28,793 |
+| Stranger Danger | 12.00% | ~26,578 |
+| En Passant | 9.00% | ~19,934 |
+| Double Check | 7.00% | ~15,504 |
+| Family Fork | 6.00% | ~13,289 |
+| Piece Collector | 6.00% | ~13,289 |
 | ELO | 5.00% | ~11,074 |
 | Friendly Fire | 5.00% | ~11,074 |
 | Underpromote | 4.00% | ~8,859 |
-| ELO ELO | 3.00% | ~6,644 |
-| Learner | 3.00% | ~6,644 |
-| Blind Pigs | 2.00% | ~4,429 |
-| ELO ELO ELO | 2.00% | ~4,429 |
+| ELO ELO | 3.00% | ~6,645 |
+| Learner | 3.00% | ~6,645 |
+| Blind Pigs | 2.00% | ~4,430 |
+| ELO ELO ELO | 2.00% | ~4,430 |
 | Bobby Time | 1.00% | ~2,215 |
 | Back-rank Mate | 0.90% | ~1,993 |
 | Chess Champion | 0.30% | ~664 |
@@ -44,7 +44,7 @@ Rating: 4.30 (Ranked 849)
 | Tournament Master | 0.10% | ~221 |
 | Tournament Pro | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,471 (Ranked 71)  
+Progressed: 221,487 (Ranked 71)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-07 | 221,023 | 2 |
 | 2023-12-08 | 221,157 | 2 |
 | 2023-12-09 | 221,309 | 2 |
-| 2023-12-10 | 221,471 | 2 |
+| 2023-12-10 | 221,487 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

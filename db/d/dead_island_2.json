@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7455,10 +7455,10 @@
       "Count": 524
     }
   ],
-  "EOS_Progressed": 733075,
-  "EOS_Completed": 2474,
-  "EOS_NewPlayers": 3307,
-  "EOS_NewCompleters": 13,
+  "EOS_Progressed": 733104,
+  "EOS_Completed": 2475,
+  "EOS_NewPlayers": 3300,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -34345,6 +34345,11 @@
       "Time": "2023-12-10T21:09:27.4140341+00:00",
       "NumProgressed": 733075,
       "NumCompleted": 2474
+    },
+    {
+      "Time": "2023-12-10T22:09:02.6105714+00:00",
+      "NumProgressed": 733104,
+      "NumCompleted": 2475
     }
   ],
   "TotalAchievements": 51,
@@ -34388,7 +34393,7 @@
       "Name": "Make it So",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4398
+      "UsersEstimate": 4399
     },
     {
       "ID": "ach_big_name_in_town",
@@ -34396,7 +34401,7 @@
       "Name": "LA Influential",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3665
+      "UsersEstimate": 3666
     },
     {
       "ID": "ach_blueprinted",
@@ -34428,7 +34433,7 @@
       "Name": "On Safari",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4398
+      "UsersEstimate": 4399
     },
     {
       "ID": "ach_defensive",
@@ -34684,7 +34689,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4398
+      "UsersEstimate": 4399
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -34692,7 +34697,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 21992
+      "UsersEstimate": 21993
     },
     {
       "ID": "ach_well_known_survivor",
@@ -34716,7 +34721,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "ach_dark_magic",
@@ -34756,20 +34761,20 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 733075,
-      "Completed": 2474
+      "Progressed": 733104,
+      "Completed": 2475
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 58617,
+      "Progressed": 58646,
       "Completed": 36652
     }
   ],
@@ -34777,8 +34782,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-10T20:00:07.0176291+00:00",
-  "LastChanged_Achievements": "2023-12-10T21:09:27.4140337+00:00",
+  "LastChanged_Achievements": "2023-12-10T22:09:02.610571+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:31.7932919+00:00",
-  "LastUpdate_Ratings": "2023-12-10T21:01:31.5314487+00:00",
-  "LastUpdate_Achievements": "2023-12-10T21:09:27.414157+00:00"
+  "LastUpdate_Ratings": "2023-12-10T22:01:37.1105655+00:00",
+  "LastUpdate_Achievements": "2023-12-10T22:09:02.6107367+00:00"
 }

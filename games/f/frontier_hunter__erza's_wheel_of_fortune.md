@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~546 |
-| Training Simulation | 78.00% | ~458 |
+| Travel Streamer | 93.00% | ~547 |
+| Training Simulation | 78.00% | ~459 |
 | Kuku Bird Hunter | 64.00% | ~376 |
-| Storm Traveller | 58.00% | ~340 |
-| Wolf King Killer | 54.00% | ~317 |
-| Fashion Connoisseur | 52.00% | ~305 |
+| Storm Traveller | 58.00% | ~341 |
+| Wolf King Killer | 54.00% | ~318 |
+| Fashion Connoisseur | 52.00% | ~306 |
 | Arms Mechanic | 48.00% | ~282 |
-| Flower Thief | 43.00% | ~252 |
-| Beginner Artificer | 37.00% | ~217 |
-| Apostle of Flame | 37.00% | ~217 |
-| Beginner Cook | 36.00% | ~211 |
+| Flower Thief | 43.00% | ~253 |
+| Beginner Artificer | 37.00% | ~218 |
+| Apostle of Flame | 37.00% | ~218 |
+| Beginner Cook | 36.00% | ~212 |
 | Seal Breaker | 31.00% | ~182 |
-| Handyman | 27.00% | ~158 |
+| Handyman | 27.00% | ~159 |
 | Giant Lizard Killer | 26.00% | ~153 |
 | Guardian | 25.00% | ~147 |
 | Nosebleeder | 25.00% | ~147 |
@@ -25,9 +25,9 @@
 | Flying Kobold Killer | 18.00% | ~106 |
 | Youth Magnet | 18.00% | ~106 |
 | Furious Scorpion Killer | 16.00% | ~94 |
-| Lethal Blade Mantis Killer | 16.00% | ~94 |
-| Squeaky Clean | 16.00% | ~94 |
 | Master Artificer | 16.00% | ~94 |
+| Lethal Blade Mantis Killer | 15.00% | ~88 |
+| Squeaky Clean | 15.00% | ~88 |
 | Kind Adventurer | 14.00% | ~82 |
 | Mermaid Killer | 14.00% | ~82 |
 | Face Slapper | 14.00% | ~82 |
@@ -50,8 +50,8 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 587 (Ranked 307)  
-Completed: 1 (0.17%) (Ranked 268)  
+Progressed: 588 (Ranked 306)  
+Completed: 1 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,7 +147,7 @@ Completed: 1 (0.17%) (Ranked 268)
 | 2023-12-07 | 566 | 1 |
 | 2023-12-08 | 572 | 1 |
 | 2023-12-09 | 581 | 1 |
-| 2023-12-10 | 587 | 1 |
+| 2023-12-10 | 588 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

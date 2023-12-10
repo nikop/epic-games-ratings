@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 129)  
+Rating: 4.76 (Ranked 128)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -52,7 +52,7 @@ Rating: 4.76 (Ranked 129)
 | Collector's Edition | 0.40% | ~1,217 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 304,186 (Ranked 54)  
-Completed: 525 (0.17%) (Ranked 268)  
+Completed: 525 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -288,22 +288,22 @@ Completed: 525 (0.17%) (Ranked 268)
 | 2023-12-10 | 304,186 | 525 |
 ## Awards
 Max (Character Customization): 25,081  (Ranked 17)  
-Sum: 50,394 (Ranked 30)  
+Sum: 50,403 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 25,081 |
 | This game has Great Boss Battles | 12,881 |
 | This game is Great for Beginners | 1,397 |
+| This game has Diverse Characters | 1,354 |
 | This game has Amazing Storytelling | 1,354 |
-| This game has Diverse Characters | 1,348 |
 | This game is Extremely Fun | 1,319 |
 | This game is Relaxing | 1,315 |
 | This game has Amazing Characters | 1,281 |
 | This game is Highly Recommended | 1,257 |
 | This game has Quickly Understood Controls | 1,217 |
 | This game has Beautiful Visuals | 1,095 |
-| This game has a Creative Community | 849 |
+| This game has a Creative Community | 852 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -568,4 +568,4 @@ Diff (max vs sum): -13
 | 2023-12-07 | 4.76 | 25,000 | 50,137 |
 | 2023-12-08 | 4.76 | 25,029 | 50,225 |
 | 2023-12-09 | 4.76 | 25,052 | 50,306 |
-| 2023-12-10 | 4.76 | 25,081 | 50,394 |
+| 2023-12-10 | 4.76 | 25,081 | 50,403 |

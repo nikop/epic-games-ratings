@@ -6,7 +6,7 @@
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 109,
+  "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
@@ -143,11 +143,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1094,
+  "EOS_Progressed": 1095,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.93,
+  "EOS_Completed_Percentage": 2.92,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3638,6 +3638,11 @@
       "Time": "2023-12-10T21:03:52.9579086+00:00",
       "NumProgressed": 1094,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-10T22:03:34.7564496+00:00",
+      "NumProgressed": 1095,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3650,7 +3655,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3658,7 +3663,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "_03_FinishAct1",
@@ -3666,7 +3671,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3690,7 +3695,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "_07_FinishAct3",
@@ -3714,7 +3719,7 @@
       "Name": "Powder Monkey",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "_10_Completion_30",
@@ -3738,7 +3743,7 @@
       "Name": "Privateer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "_13_Completion_60",
@@ -3810,7 +3815,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -3818,7 +3823,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -3826,7 +3831,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -3842,7 +3847,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -3857,7 +3862,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1094,
+      "Progressed": 1095,
       "Completed": 32
     }
   ],
@@ -3865,8 +3870,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-09T12:00:24.7987919+00:00",
-  "LastChanged_Achievements": "2023-12-10T21:03:52.9579083+00:00",
+  "LastChanged_Achievements": "2023-12-10T22:03:34.7564491+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-10T21:01:26.6669821+00:00",
-  "LastUpdate_Achievements": "2023-12-10T21:03:52.9579383+00:00"
+  "LastUpdate_Ratings": "2023-12-10T22:01:31.7508525+00:00",
+  "LastUpdate_Achievements": "2023-12-10T22:03:34.7564831+00:00"
 }

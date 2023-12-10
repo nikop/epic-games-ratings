@@ -78,16 +78,16 @@
 | A House Divided | 28.00% | ~438 |
 | Eye of the Hurricane | 27.00% | ~422 |
 | World Shaker | 27.00% | ~422 |
+| Liberator | 27.00% | ~422 |
 | First Aid Specialist | 26.00% | ~406 |
 | Pathfinder | 26.00% | ~406 |
 | Tunnel Rat | 26.00% | ~406 |
-| Liberator | 26.00% | ~406 |
 | Arbiter | 25.00% | ~391 |
 | Lost and Found | 25.00% | ~391 |
 | Savior | 24.00% | ~375 |
 | Weapon Specialist | 24.00% | ~375 |
+| Party Crasher | 23.00% | ~359 |
 | Paramour II | 22.00% | ~344 |
-| Party Crasher | 22.00% | ~344 |
 | Hard Target | 22.00% | ~344 |
 | Fact Finder | 22.00% | ~344 |
 | Problem Solver | 22.00% | ~344 |
@@ -106,7 +106,7 @@
 | Sabotage Specialist | 16.00% | ~250 |
 | Throw Mastery | 16.00% | ~250 |
 | Mail Slot | 15.00% | ~234 |
-| Electronics Specialist | 14.00% | ~219 |
+| Electronics Specialist | 15.00% | ~234 |
 | Combined Arms | 13.00% | ~203 |
 | Bruiser | 12.00% | ~188 |
 | Paramour III | 11.00% | ~172 |

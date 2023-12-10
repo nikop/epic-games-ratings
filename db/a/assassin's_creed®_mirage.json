@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -2173,10 +2173,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 1494,
       "NumberOfAwardsMax": 180
+    },
+    {
+      "Time": "2023-12-10T21:59:03.2501215+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1495,
+      "NumberOfAwardsMax": 180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1494,
+  "NumberOfAwards": 1495,
   "NumberOfAwardsMax": 180,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2196,7 +2202,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 159
+      "Count": 160
     },
     {
       "Text": "This game is Educational",
@@ -2259,8 +2265,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-12-10T18:58:13.4708873+00:00",
+  "LastChanged": "2023-12-10T21:59:03.2501213+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:30.283483+00:00",
-  "LastUpdate_Ratings": "2023-12-10T20:59:11.3019883+00:00",
-  "LastUpdate_Achievements": "2023-12-10T21:05:08.9606898+00:00"
+  "LastUpdate_Ratings": "2023-12-10T21:59:03.250122+00:00",
+  "LastUpdate_Achievements": "2023-12-10T22:04:56.2922301+00:00"
 }
