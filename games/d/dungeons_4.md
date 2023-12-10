@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 88.00% | ~477 |
 | For the Horde! | 83.00% | ~450 |
 | Hammer Time, Round Two | 81.00% | ~439 |
-| The Hellwoods | 76.00% | ~412 |
+| The Hellwoods | 77.00% | ~417 |
 | The Plains of Strothalm | 72.00% | ~390 |
 | Experienced Thalya | 72.00% | ~390 |
 | Thalya's Concentrated Fury | 69.00% | ~374 |
@@ -29,9 +29,9 @@
 | Shame! Shame! Shame! | 46.00% | ~249 |
 | Pure Dynamite! | 45.00% | ~244 |
 | Dungeonlord Gorgu | 44.00% | ~238 |
-| Tanos' Crusade Against Thalya | 43.00% | ~233 |
+| Tanos' Crusade Against Thalya | 44.00% | ~238 |
 | Mana Cannon | 41.00% | ~222 |
-| All’s Well That Ends Evil | 37.00% | ~201 |
+| All’s Well That Ends Evil | 38.00% | ~206 |
 | Unstoppable Horde | 34.00% | ~184 |
 | Master of the Undead | 34.00% | ~184 |
 | The Duel | 34.00% | ~184 |
@@ -48,14 +48,14 @@
 | Raiders of the Lost Stone | 22.00% | ~119 |
 | Bonus Evilness | 21.00% | ~114 |
 | The Rune Sockets of Finitude (Part 1) | 21.00% | ~114 |
-| The Rune Sockets of Finitude (Part 2) | 19.00% | ~103 |
+| The Rune Sockets of Finitude (Part 2) | 20.00% | ~108 |
 | Rubble and Ashes | 18.00% | ~98 |
 | The Last Stand - This Time For Real! | 18.00% | ~98 |
 | My Little Torture Chamber | 17.00% | ~92 |
 | Lavalumps on Ice! | 17.00% | ~92 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~87 |
+| To the Max! | 16.00% | ~87 |
 | To Infinity And Beyond! | 16.00% | ~87 |
-| To the Max! | 15.00% | ~81 |
 | Evilification | 14.00% | ~76 |
 | Mirror, Mirror | 13.00% | ~70 |
 | Untouchable | 13.00% | ~70 |

@@ -378,9 +378,9 @@
       "ID": "ACH_14_FRIENDS_FOREVER",
       "SetID": "9loam6m",
       "Name": "Friends forever",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_15_SOMETHING_TO_DO",
@@ -570,17 +570,17 @@
       "ID": "ACH_38_WELL_HIDDEN",
       "SetID": "9loam6m",
       "Name": "Well hidden!",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_39_TENS_AT_THE_LAKE",
       "SetID": "9loam6m",
       "Name": "Tents at the lake",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_40_GLOBETROTTER",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-10T17:05:24.7540279+00:00",
+  "LastChanged_Achievements": "2023-12-10T18:05:18.236426+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:43.2221056+00:00",
-  "LastUpdate_Ratings": "2023-12-10T17:00:34.7819055+00:00",
-  "LastUpdate_Achievements": "2023-12-10T17:05:24.7540587+00:00"
+  "LastUpdate_Ratings": "2023-12-10T18:02:30.9229516+00:00",
+  "LastUpdate_Achievements": "2023-12-10T18:05:18.2364548+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,896 |
+| You're free now! | 61.00% | ~1,897 |
 | Keeping it classy | 29.00% | ~902 |
 | Welcome to the family | 23.00% | ~715 |
 | The finer things in life | 20.00% | ~622 |
@@ -33,14 +33,14 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~187 |
 | Squad goals | 6.00% | ~187 |
 | Sup widdit big dog! | 6.00% | ~187 |
-| Cops called! | 5.00% | ~155 |
-| Lines for days | 5.00% | ~155 |
-| Manny Destroys All | 5.00% | ~155 |
-| Prince of Philly | 5.00% | ~155 |
-| Renaissance man | 5.00% | ~155 |
-| Tank commander | 5.00% | ~155 |
-| Trick shot marksman | 5.00% | ~155 |
-| We get it, you're good | 5.00% | ~155 |
+| Cops called! | 5.00% | ~156 |
+| Lines for days | 5.00% | ~156 |
+| Manny Destroys All | 5.00% | ~156 |
+| Prince of Philly | 5.00% | ~156 |
+| Renaissance man | 5.00% | ~156 |
+| Tank commander | 5.00% | ~156 |
+| Trick shot marksman | 5.00% | ~156 |
+| We get it, you're good | 5.00% | ~156 |
 | G.O.A.T. status | 4.00% | ~124 |
 | Hoarder | 4.00% | ~124 |
 | Pew-Pew | 4.00% | ~124 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,109 (Ranked 213)  
+Progressed: 3,110 (Ranked 213)  
 Completed: 2 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-06 | 3,105 | 2 |
 | 2023-12-07 | 3,106 | 2 |
 | 2023-12-09 | 3,108 | 2 |
-| 2023-12-10 | 3,109 | 2 |
+| 2023-12-10 | 3,110 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 417)  
 Sum: 560 (Ranked 320)  

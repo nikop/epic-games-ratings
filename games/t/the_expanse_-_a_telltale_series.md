@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.55 (Ranked 512)  
+Rating: 4.52 (Ranked 562)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,13 +18,13 @@ Rating: 4.55 (Ranked 512)
 | Stogie for Fogey | 6.00% | ~962 |
 | Spore Taste | 6.00% | ~962 |
 | Call it Even | 6.00% | ~962 |
-| Keep Arjun in Check | 6.00% | ~119 |
-| Madame Undersecretary | 6.00% | ~119 |
+| Keep Arjun in Check | 6.00% | ~120 |
+| Madame Undersecretary | 6.00% | ~120 |
 | Data Archivist | 5.00% | ~802 |
 | Drug Gifter | 5.00% | ~802 |
 | Heal Thy Medic | 5.00% | ~802 |
-| Thorston Mayer | 4.00% | ~641 |
-| Khan's Revenge | 4.00% | ~641 |
+| Thorston Mayer | 4.00% | ~642 |
+| Khan's Revenge | 4.00% | ~642 |
 | Master Negotiator | 4.00% | ~80 |
 | Doctor Approved | 3.00% | ~481 |
 | Bottoms up! | 3.00% | ~481 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 512)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,036 (Ranked 152)  
+Progressed: 16,038 (Ranked 152)  
 Completed: 42 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 42 (0.26%) (Ranked 249)
 | 2023-12-07 | 15,968 | 41 |
 | 2023-12-08 | 15,988 | 41 |
 | 2023-12-09 | 16,020 | 42 |
-| 2023-12-10 | 16,036 | 42 |
+| 2023-12-10 | 16,038 | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -225,3 +225,4 @@ Completed: 42 (0.26%) (Ranked 249)
 | 2023-12-03 | 4.53 | 0 | 0 |
 | 2023-12-07 | 4.54 | 0 | 0 |
 | 2023-12-09 | 4.55 | 0 | 0 |
+| 2023-12-10 | 4.52 | 0 | 0 |

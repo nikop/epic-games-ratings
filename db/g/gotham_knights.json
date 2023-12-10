@@ -4601,9 +4601,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77860,
+  "EOS_Progressed": 77862,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25571,6 +25571,11 @@
       "Time": "2023-12-10T17:06:00.417787+00:00",
       "NumProgressed": 77860,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-10T18:05:57.8226064+00:00",
+      "NumProgressed": 77862,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25630,7 +25635,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17129
+      "UsersEstimate": 17130
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -25678,7 +25683,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13236
+      "UsersEstimate": 13237
     },
     {
       "ID": "CLAYFACE_1",
@@ -25702,7 +25707,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10900
+      "UsersEstimate": 10901
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -25766,7 +25771,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7007
+      "UsersEstimate": 7008
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -25822,7 +25827,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14793
+      "UsersEstimate": 14794
     },
     {
       "ID": "FREEZE_3",
@@ -25830,7 +25835,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10900
+      "UsersEstimate": 10901
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -25886,7 +25891,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26472
+      "UsersEstimate": 26473
     },
     {
       "ID": "HARLEY_2",
@@ -25894,7 +25899,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19465
+      "UsersEstimate": 19466
     },
     {
       "ID": "HARLEY_3",
@@ -25926,7 +25931,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38930
+      "UsersEstimate": 38931
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25958,7 +25963,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 21022
+      "UsersEstimate": 21023
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -25982,7 +25987,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18686
+      "UsersEstimate": 18687
     },
     {
       "ID": "MYSTERY_03",
@@ -25990,7 +25995,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17129
+      "UsersEstimate": 17130
     },
     {
       "ID": "MYSTERY_04",
@@ -26022,7 +26027,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10900
+      "UsersEstimate": 10901
     },
     {
       "ID": "MYSTERY_08",
@@ -26046,7 +26051,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7007
+      "UsersEstimate": 7008
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -26069,13 +26074,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77860,
+      "Progressed": 77862,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48140,
+      "Progressed": 48142,
       "Completed": 2675
     }
   ],
@@ -26083,8 +26088,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-10T02:57:07.7320951+00:00",
-  "LastChanged_Achievements": "2023-12-10T17:06:00.4177864+00:00",
+  "LastChanged_Achievements": "2023-12-10T18:05:57.8226061+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:57:44.9288848+00:00",
-  "LastUpdate_Achievements": "2023-12-10T17:06:00.4178996+00:00"
+  "LastUpdate_Ratings": "2023-12-10T17:57:35.9520958+00:00",
+  "LastUpdate_Achievements": "2023-12-10T18:05:57.8227221+00:00"
 }

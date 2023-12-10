@@ -6,9 +6,9 @@
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -207,11 +207,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7671,
-  "EOS_Completed": 15,
-  "EOS_NewPlayers": 312,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.2,
+  "EOS_Progressed": 7674,
+  "EOS_Completed": 16,
+  "EOS_NewPlayers": 311,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
       "Time": "2023-10-17T16:05:13.3734944+00:00",
@@ -6112,6 +6112,11 @@
       "Time": "2023-12-10T17:09:47.8848332+00:00",
       "NumProgressed": 7671,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-10T18:09:38.8123649+00:00",
+      "NumProgressed": 7674,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6204,7 +6209,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "GarbageMan",
@@ -6268,7 +6273,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "NoMoreTotems",
@@ -6324,7 +6329,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "ThisIsDharma",
@@ -6364,7 +6369,7 @@
       "Name": "Digestive Issues",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -6395,16 +6400,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7671,
-      "Completed": 15
+      "Progressed": 7674,
+      "Completed": 16
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-09T07:57:44.7970456+00:00",
-  "LastChanged_Achievements": "2023-12-10T17:09:47.8848329+00:00",
+  "LastChanged_Achievements": "2023-12-10T18:09:38.8123643+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:58:19.3161566+00:00",
-  "LastUpdate_Achievements": "2023-12-10T17:09:47.8848827+00:00"
+  "LastUpdate_Ratings": "2023-12-10T17:58:14.824403+00:00",
+  "LastUpdate_Achievements": "2023-12-10T18:09:38.8124185+00:00"
 }

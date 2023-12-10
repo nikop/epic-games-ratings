@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 3697,
+  "Ranking_EOS_NewCompleters": 3698,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3401,10 +3401,10 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 17873,
-  "EOS_Completed": 42,
-  "EOS_NewPlayers": 292,
-  "EOS_NewCompleters": -7,
+  "EOS_Progressed": 17880,
+  "EOS_Completed": 41,
+  "EOS_NewPlayers": 299,
+  "EOS_NewCompleters": -8,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -15266,6 +15266,11 @@
       "Time": "2023-12-10T17:05:33.5044852+00:00",
       "NumProgressed": 17873,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-10T18:05:28.0539588+00:00",
+      "NumProgressed": 17880,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15390,7 +15395,7 @@
       "Name": "Ruined Armory",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "WinNearBandit",
@@ -15406,7 +15411,7 @@
       "Name": "Barren Lands",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "WinNearBattleground",
@@ -15414,7 +15419,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "WinNearCrystals",
@@ -15436,9 +15441,9 @@
       "ID": "WinNearFertile",
       "SetID": "cfbk359",
       "Name": "Fertile Meadows",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 143
     },
     {
       "ID": "WinNearFishmen",
@@ -15470,7 +15475,7 @@
       "Name": "Levitating Monument",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "WinNearMines",
@@ -15510,7 +15515,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "WinNearTemple",
@@ -15550,7 +15555,7 @@
       "Name": "Cursed Lands",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "WinOnMarshlands",
@@ -15646,7 +15651,7 @@
       "Name": "Trade Baron",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "WinWithoutDeath",
@@ -15684,9 +15689,9 @@
       "ID": "WinNearFrosts",
       "SetID": "cfbk359",
       "Name": "Frosts",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 536
     },
     {
       "ID": "WinNearGreed",
@@ -15694,7 +15699,7 @@
       "Name": "Land of Greed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "WinNearLibrary",
@@ -15716,9 +15721,9 @@
       "ID": "WinNearPresence",
       "SetID": "cfbk359",
       "Name": "Ominous Presence",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 536
     },
     {
       "ID": "WinNearStorms",
@@ -15734,7 +15739,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "WinWithFoxes",
@@ -15749,15 +15754,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17873,
-      "Completed": 42
+      "Progressed": 17880,
+      "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-10T04:57:34.5838562+00:00",
-  "LastChanged_Achievements": "2023-12-10T17:05:33.504485+00:00",
+  "LastChanged_Achievements": "2023-12-10T18:05:28.0539584+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:57:54.3406499+00:00",
-  "LastUpdate_Achievements": "2023-12-10T17:05:33.5045675+00:00"
+  "LastUpdate_Ratings": "2023-12-10T17:57:46.9408927+00:00",
+  "LastUpdate_Achievements": "2023-12-10T18:05:28.0540448+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1689,9 +1689,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 348
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -1761,9 +1761,9 @@
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 228
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -1816,8 +1816,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-12-10T17:08:35.2909255+00:00",
+  "LastChanged_Achievements": "2023-12-10T18:08:19.3105877+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:15.0426087+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:57:50.5979137+00:00",
-  "LastUpdate_Achievements": "2023-12-10T17:08:35.2909551+00:00"
+  "LastUpdate_Ratings": "2023-12-10T17:57:42.7631736+00:00",
+  "LastUpdate_Achievements": "2023-12-10T18:08:19.3106056+00:00"
 }

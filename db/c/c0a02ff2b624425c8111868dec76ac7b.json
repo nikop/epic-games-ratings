@@ -642,9 +642,9 @@
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -762,9 +762,9 @@
       "ID": "ACH_UNDERSTANDINGS",
       "SetID": "cagp2pi",
       "Name": "Understandings",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_UNICORN",
@@ -793,8 +793,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-10T17:06:09.8086887+00:00",
+  "LastChanged_Achievements": "2023-12-10T18:06:07.9940786+00:00",
   "LastUpdate_AppInfo": "2023-12-08T13:57:09.5238384+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:58:52.7098572+00:00",
-  "LastUpdate_Achievements": "2023-12-10T17:06:09.8087077+00:00"
+  "LastUpdate_Ratings": "2023-12-10T17:58:53.556356+00:00",
+  "LastUpdate_Achievements": "2023-12-10T18:06:07.9940933+00:00"
 }

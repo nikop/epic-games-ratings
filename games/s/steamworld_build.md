@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 83.00% | ~59 |
+| Mathematic | 85.00% | ~60 |
 | It's Yours, My Friend | 69.00% | ~49 |
 | Going Places | 66.00% | ~47 |
 | Conducted Trade | 63.00% | ~45 |
-| Digging a Hole | 61.00% | ~43 |
-| Aristocratic | 59.00% | ~42 |
-| Tutti Frutti | 55.00% | ~39 |
+| Digging a Hole | 62.00% | ~44 |
+| Aristocratic | 61.00% | ~43 |
+| Tutti Frutti | 56.00% | ~40 |
 | Gotta Go Fast | 48.00% | ~34 |
 | Slotting Machine | 41.00% | ~29 |
 | Systematic | 39.00% | ~28 |
@@ -26,8 +26,8 @@
 | Room To Spare | 13.00% | ~9 |
 | Real Purdy | 7.00% | ~5 |
 | Stack Overflow | 7.00% | ~5 |
+| Accustomed Customer | 3.00% | ~2 |
 | Click 'Em All | 3.00% | ~2 |
-| Accustomed Customer | 1.00% | ~1 |
 | Yup. | 1.00% | ~1 |
 | I'm A Lumberbot | 0.00% | ~0 |
 | Interstellar Performance | 0.00% | ~0 |

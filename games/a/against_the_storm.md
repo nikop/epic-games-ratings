@@ -8,12 +8,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 4.00% | ~715 |
 | Overgrown Library | 4.00% | ~715 |
+| Frosts | 3.00% | ~536 |
 | Petrified Necropolis | 3.00% | ~536 |
+| Ominous Presence | 3.00% | ~536 |
 | Gathering Storm | 3.00% | ~536 |
-| Frosts | 2.00% | ~357 |
-| Land of Greed | 2.00% | ~357 |
-| Ominous Presence | 2.00% | ~357 |
-| Untamed Wilds | 2.00% | ~357 |
+| Land of Greed | 2.00% | ~358 |
+| Untamed Wilds | 2.00% | ~358 |
 | The Marshlands | 1.00% | ~179 |
 | Taking Action | 1.00% | ~179 |
 | No Deaths | 1.00% | ~179 |
@@ -21,7 +21,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 0.90% | ~161 |
 | Coral Forest | 0.90% | ~161 |
 | The Scarlet Orchard | 0.90% | ~161 |
-| Fertile Meadows | 0.70% | ~125 |
+| Fertile Meadows | 0.80% | ~143 |
 | Royal Outpost | 0.70% | ~125 |
 | Watchtower | 0.70% | ~125 |
 | Lost Colonies | 0.60% | ~107 |
@@ -30,13 +30,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 0.50% | ~89 |
 | Corrosive Torrent | 0.50% | ~89 |
 | A Real Challenge | 0.50% | ~89 |
-| Ruined Armory | 0.40% | ~71 |
-| Barren Lands | 0.40% | ~71 |
-| Ancient Battleground | 0.40% | ~71 |
-| Levitating Monument | 0.40% | ~71 |
-| Statue of the Forefathers | 0.40% | ~71 |
-| Cursed Lands | 0.40% | ~71 |
-| Trade Baron | 0.40% | ~71 |
+| Ruined Armory | 0.40% | ~72 |
+| Barren Lands | 0.40% | ~72 |
+| Ancient Battleground | 0.40% | ~72 |
+| Levitating Monument | 0.40% | ~72 |
+| Statue of the Forefathers | 0.40% | ~72 |
+| Cursed Lands | 0.40% | ~72 |
+| Trade Baron | 0.40% | ~72 |
 | Serving Ale | 0.30% | ~54 |
 | Against All Odds | 0.30% | ~54 |
 | Sparkdew Crystals | 0.30% | ~54 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,873 (Ranked 147)  
-Completed: 42 (0.23%) (Ranked 253)  
+Progressed: 17,880 (Ranked 147)  
+Completed: 41 (0.23%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -300,7 +300,7 @@ Completed: 42 (0.23%) (Ranked 253)
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
-| 2023-12-10 | 17,873 | 43 |
+| 2023-12-10 | 17,880 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 224)  
 Sum: 3,250 (Ranked 175)  

@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New arm | 82.00% | ~353 |
-| Shelter Escape | 80.00% | ~344 |
+| Shelter Escape | 81.00% | ~348 |
 | The First Bond | 71.00% | ~305 |
 | Novice Scavenger | 65.00% | ~280 |
-| Master Craftsman | 52.00% | ~224 |
+| Master Craftsman | 53.00% | ~228 |
 | First wall | 51.00% | ~219 |
 | Piggyback Expert | 50.00% | ~215 |
 | Second wall | 38.00% | ~163 |

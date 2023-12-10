@@ -216,9 +216,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 923,
+  "EOS_Progressed": 924,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2291,6 +2291,11 @@
       "Time": "2023-12-10T16:04:14.3294377+00:00",
       "NumProgressed": 923,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T18:04:06.488113+00:00",
+      "NumProgressed": 924,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2311,7 +2316,7 @@
       "Name": "Ab Initio",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "AnthropicHills",
@@ -2359,7 +2364,7 @@
       "Name": "Bridge Builder",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ChasingTheLight",
@@ -2413,9 +2418,9 @@
       "ID": "EcstaticTruth",
       "SetID": "1n308hc",
       "Name": "Ecstatic Truth",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 37
+      "UsersEstimate": 46
     },
     {
       "ID": "Excellent",
@@ -2487,7 +2492,7 @@
       "Name": "Lord of the Files",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "LostMarshes",
@@ -2517,9 +2522,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 92
     },
     {
       "ID": "MuseumVisitor",
@@ -2549,9 +2554,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 55
     },
     {
       "ID": "Overload",
@@ -2565,9 +2570,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 92
     },
     {
       "ID": "PrometheusUnbound",
@@ -2591,7 +2596,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "RenaissanceRobot",
@@ -2703,7 +2708,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "TheWordEndures",
@@ -2774,7 +2779,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 923,
+      "Progressed": 924,
       "Completed": 1
     }
   ],
@@ -2782,8 +2787,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-10T17:04:19.3265071+00:00",
+  "LastChanged_Achievements": "2023-12-10T18:04:06.4881127+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:58:06.0958439+00:00",
-  "LastUpdate_Achievements": "2023-12-10T17:04:19.3265725+00:00"
+  "LastUpdate_Ratings": "2023-12-10T17:58:00.3919483+00:00",
+  "LastUpdate_Achievements": "2023-12-10T18:04:06.488164+00:00"
 }

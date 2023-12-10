@@ -11793,9 +11793,9 @@
       "Count": 849
     }
   ],
-  "EOS_Progressed": 304175,
+  "EOS_Progressed": 304178,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36893,6 +36893,11 @@
       "Time": "2023-12-10T17:04:59.0975386+00:00",
       "NumProgressed": 304175,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-10T18:04:49.9267833+00:00",
+      "NumProgressed": 304178,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36912,7 +36917,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33459
+      "UsersEstimate": 33460
     },
     {
       "ID": "PFA_11",
@@ -36920,7 +36925,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33459
+      "UsersEstimate": 33460
     },
     {
       "ID": "PFA_12",
@@ -36936,7 +36941,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33459
+      "UsersEstimate": 33460
     },
     {
       "ID": "PFA_14",
@@ -36944,7 +36949,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 18250
+      "UsersEstimate": 18251
     },
     {
       "ID": "PFA_15",
@@ -37008,7 +37013,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33459
+      "UsersEstimate": 33460
     },
     {
       "ID": "PFA_22",
@@ -37040,7 +37045,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18250
+      "UsersEstimate": 18251
     },
     {
       "ID": "PFA_26",
@@ -37072,7 +37077,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 18250
+      "UsersEstimate": 18251
     },
     {
       "ID": "PFA_3",
@@ -37232,7 +37237,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45626
+      "UsersEstimate": 45627
     },
     {
       "ID": "PFA_7",
@@ -37240,7 +37245,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 45626
+      "UsersEstimate": 45627
     },
     {
       "ID": "PFA_8",
@@ -37263,7 +37268,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304175,
+      "Progressed": 304178,
       "Completed": 525
     }
   ],
@@ -37271,8 +37276,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-10T16:59:07.066135+00:00",
-  "LastChanged_Achievements": "2023-12-10T17:04:59.0975382+00:00",
+  "LastChanged_Achievements": "2023-12-10T18:04:49.9267829+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:59:07.0661355+00:00",
-  "LastUpdate_Achievements": "2023-12-10T17:04:59.0976957+00:00"
+  "LastUpdate_Ratings": "2023-12-10T17:59:10.4310805+00:00",
+  "LastUpdate_Achievements": "2023-12-10T18:04:49.9269073+00:00"
 }

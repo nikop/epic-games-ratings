@@ -5,31 +5,31 @@ Rating: 4.46 (Ranked 654)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~133,585 |
-| My First Runbow | 50.00% | ~126,024 |
-| It's The Fall | 26.00% | ~65,532 |
+| In The Zone | 53.00% | ~133,587 |
+| My First Runbow | 50.00% | ~126,026 |
+| It's The Fall | 26.00% | ~65,533 |
 | The Stunner | 22.00% | ~55,451 |
-| Be Aggressive | 21.00% | ~52,930 |
+| Be Aggressive | 21.00% | ~52,931 |
 | Curator | 20.00% | ~50,410 |
 | Crowning Around | 18.00% | ~45,369 |
-| Can You Dig It? | 17.00% | ~42,848 |
+| Can You Dig It? | 17.00% | ~42,849 |
 | You Juan-A-Go? | 16.00% | ~40,328 |
-| Chan-tastic | 15.00% | ~37,807 |
+| Chan-tastic | 15.00% | ~37,808 |
 | Muddy Waters | 14.00% | ~35,287 |
-| Toasty! | 13.00% | ~32,766 |
+| Toasty! | 13.00% | ~32,767 |
 | Lazy Laser | 8.00% | ~20,164 |
-| Just A Phaze | 7.00% | ~17,643 |
-| Into The Drift | 7.00% | ~17,643 |
-| Ready? Fight! | 7.00% | ~17,643 |
+| Just A Phaze | 7.00% | ~17,644 |
+| Into The Drift | 7.00% | ~17,644 |
+| Ready? Fight! | 7.00% | ~17,644 |
 | Butt Butt | 6.00% | ~15,123 |
-| He Who Laughs Last | 3.00% | ~7,561 |
-| Shoo, Cat! | 3.00% | ~7,561 |
+| He Who Laughs Last | 3.00% | ~7,562 |
+| Shoo, Cat! | 3.00% | ~7,562 |
 | And You're Okay | 2.00% | ~5,041 |
 | Blotbuster | 2.00% | ~5,041 |
 | Thunderstruck | 2.00% | ~5,041 |
-| Just A Bit | 1.00% | ~2,520 |
-| Tubular, Dude | 1.00% | ~2,520 |
-| What A Trip | 1.00% | ~2,520 |
+| Just A Bit | 1.00% | ~2,521 |
+| Tubular, Dude | 1.00% | ~2,521 |
+| What A Trip | 1.00% | ~2,521 |
 | Please The King | 0.90% | ~2,268 |
 | Here We Go! | 0.80% | ~2,016 |
 | Clear-Cut | 0.50% | ~1,260 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 654)
 | Talent Scout | 0.10% | ~252 |
 | True Completionist | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,048 (Ranked 62)  
+Progressed: 252,051 (Ranked 62)  
 Completed: 6 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 6 (0.00%) (Ranked 371)
 | 2023-12-07 | 251,943 | 6 |
 | 2023-12-08 | 251,971 | 6 |
 | 2023-12-09 | 252,017 | 6 |
-| 2023-12-10 | 252,048 | 6 |
+| 2023-12-10 | 252,051 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

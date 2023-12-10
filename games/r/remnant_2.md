@@ -5,19 +5,19 @@ Rating: 4.75 (Ranked 145)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.80% | ~1,904 |
+| The Killing Jar | 0.80% | ~1,905 |
 | Regicide | 0.80% | ~138 |
 | Master of the Dark Arts | 0.80% | ~138 |
-| First of Many | 0.70% | ~1,666 |
-| Expanding Horizons | 0.60% | ~1,428 |
-| Not Your Average Trait | 0.60% | ~1,428 |
-| Gleaming the Cube | 0.50% | ~1,190 |
-| Not So Special Now | 0.50% | ~1,190 |
-| Quest for Survival | 0.50% | ~1,190 |
-| Not a Janitor | 0.50% | ~1,190 |
-| Familiar Face | 0.50% | ~1,190 |
-| Boss'n Up | 0.50% | ~1,190 |
-| Trait Chaser | 0.50% | ~1,190 |
+| First of Many | 0.70% | ~1,667 |
+| Expanding Horizons | 0.60% | ~1,429 |
+| Not Your Average Trait | 0.60% | ~1,429 |
+| Gleaming the Cube | 0.50% | ~1,191 |
+| Not So Special Now | 0.50% | ~1,191 |
+| Quest for Survival | 0.50% | ~1,191 |
+| Not a Janitor | 0.50% | ~1,191 |
+| Familiar Face | 0.50% | ~1,191 |
+| Boss'n Up | 0.50% | ~1,191 |
+| Trait Chaser | 0.50% | ~1,191 |
 | Am I Seeing This? | 0.40% | ~952 |
 | Power Surge | 0.40% | ~952 |
 | Equal Measures | 0.40% | ~952 |
@@ -57,11 +57,11 @@ Rating: 4.75 (Ranked 145)
 | Proving Grounds | 0.20% | ~476 |
 | Carnage in C-Minor | 0.20% | ~476 |
 | Maxed Out! | 0.20% | ~476 |
-| Succession | 0.20% | ~34 |
-| You Shall Pass | 0.20% | ~34 |
+| Succession | 0.20% | ~35 |
+| You Shall Pass | 0.20% | ~35 |
 | A Foul Feast | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,061 (Ranked 66)  
+Progressed: 238,110 (Ranked 66)  
 Completed: 576 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 576 (0.24%) (Ranked 251)
 | 2023-12-07 | 236,590 | 567 |
 | 2023-12-08 | 237,044 | 572 |
 | 2023-12-09 | 237,633 | 573 |
-| 2023-12-10 | 238,061 | 576 |
+| 2023-12-10 | 238,110 | 576 |
 ## Awards
 Max (Great Boss Battles): 2,704  (Ranked 102)  
 Sum: 6,738 (Ranked 126)  

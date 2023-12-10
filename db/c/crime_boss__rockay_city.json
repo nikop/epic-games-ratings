@@ -4,7 +4,7 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1023,
   "Ranking_Popularity": 207,
-  "Ranking_PopularitySum": 188,
+  "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 155,
@@ -4951,10 +4951,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 2661,
       "NumberOfAwardsMax": 559
+    },
+    {
+      "Time": "2023-12-10T18:02:34.0485255+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2664,
+      "NumberOfAwardsMax": 559
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2661,
+  "NumberOfAwards": 2664,
   "NumberOfAwardsMax": 559,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4998,7 +5004,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 545
+      "Count": 547
     },
     {
       "Text": "This game has a Silly Community",
@@ -5010,12 +5016,12 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 510
+      "Count": 511
     }
   ],
   "EOS_Progressed": 91845,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -27999,9 +28005,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-12-10T16:02:34.1818158+00:00",
-  "LastChanged_Achievements": "2023-12-10T17:05:12.2259869+00:00",
+  "LastChanged": "2023-12-10T18:02:34.0485254+00:00",
+  "LastChanged_Achievements": "2023-12-10T18:05:04.394993+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:49.1202074+00:00",
-  "LastUpdate_Ratings": "2023-12-10T17:00:37.6785459+00:00",
-  "LastUpdate_Achievements": "2023-12-10T17:05:12.2260979+00:00"
+  "LastUpdate_Ratings": "2023-12-10T18:02:34.048526+00:00",
+  "LastUpdate_Achievements": "2023-12-10T18:05:04.3951065+00:00"
 }

@@ -5381,10 +5381,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 5133,
       "NumberOfAwardsMax": 859
+    },
+    {
+      "Time": "2023-12-10T18:00:14.3387956+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 5134,
+      "NumberOfAwardsMax": 859
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5133,
+  "NumberOfAwards": 5134,
   "NumberOfAwardsMax": 859,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -5422,7 +5428,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 712
+      "Count": 713
     },
     {
       "Text": "This game has a Creative Community",
@@ -5448,8 +5454,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2023-12-10T13:03:36.3315708+00:00",
+  "LastChanged": "2023-12-10T18:00:14.3387943+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.5860728+00:00",
-  "LastUpdate_Ratings": "2023-12-10T17:00:03.0146273+00:00",
-  "LastUpdate_Achievements": "2023-12-10T17:03:50.6443547+00:00"
+  "LastUpdate_Ratings": "2023-12-10T18:00:14.338796+00:00",
+  "LastUpdate_Achievements": "2023-12-10T18:03:34.7294194+00:00"
 }

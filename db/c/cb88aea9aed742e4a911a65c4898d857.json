@@ -2,7 +2,7 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_EOS_Progress": 236,
+  "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 119,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1735,
+  "EOS_Progressed": 1770,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1733,
+  "EOS_NewPlayers": 1768,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -407,6 +407,11 @@
       "Time": "2023-12-10T17:09:20.5103063+00:00",
       "NumProgressed": 1735,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T18:09:08.4140795+00:00",
+      "NumProgressed": 1770,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -419,7 +424,7 @@
       "Name": "Conspiracy",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 867
     },
     {
       "ID": "03_TheStolenStar",
@@ -427,7 +432,7 @@
       "Name": "Stolen Star",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 177
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -507,7 +512,7 @@
       "Name": "Doom Trader",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -515,7 +520,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "15_Pentakill",
@@ -523,7 +528,7 @@
       "Name": "Pentakill",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "16_TheRise",
@@ -531,7 +536,7 @@
       "Name": "The Rise",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 159
     },
     {
       "ID": "17_TheExemplar",
@@ -547,7 +552,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 177
     },
     {
       "ID": "19_TheVoidWolf",
@@ -579,7 +584,7 @@
       "Name": "Perfect Timing",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "23_DynastyRestored",
@@ -627,7 +632,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -635,7 +640,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 798
+      "UsersEstimate": 814
     },
     {
       "ID": "30_The GreatestExploration",
@@ -649,9 +654,9 @@
       "ID": "31_DontTouchThis",
       "SetID": "37a94m8",
       "Name": "Don\u0027t Touch This",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 71
     },
     {
       "ID": "32_AviationSaviour",
@@ -667,15 +672,15 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 195
     },
     {
       "ID": "34_CuriosityIsNotAVice",
       "SetID": "37a94m8",
       "Name": "Curiosity Is Not a Vice",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -739,7 +744,7 @@
       "Name": "Iron Judgement",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -771,7 +776,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 266
     },
     {
       "ID": "47_AFlame",
@@ -835,7 +840,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -938,14 +943,14 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 1735,
+      "Progressed": 1770,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-10T17:09:20.5103059+00:00",
+  "LastChanged_Achievements": "2023-12-10T18:09:08.4140789+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:59:25.7372059+00:00",
-  "LastUpdate_Achievements": "2023-12-10T17:09:20.5103495+00:00"
+  "LastUpdate_Ratings": "2023-12-10T17:59:31.502381+00:00",
+  "LastUpdate_Achievements": "2023-12-10T18:09:08.4141278+00:00"
 }

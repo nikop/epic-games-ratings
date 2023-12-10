@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23687,
+  "EOS_Progressed": 23689,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10340,6 +10340,11 @@
       "Time": "2023-12-10T17:09:30.8594314+00:00",
       "NumProgressed": 23687,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-10T18:09:20.3597486+00:00",
+      "NumProgressed": 23689,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10423,7 +10428,7 @@
       "Name": "For Glory",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "BossCastleDefeated",
@@ -10431,7 +10436,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10662,21 +10667,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23687,
+      "Progressed": 23689,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2617,
+      "Progressed": 2619,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-10T17:09:30.8594311+00:00",
+  "LastChanged_Achievements": "2023-12-10T18:09:20.3597482+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:17.8828255+00:00",
-  "LastUpdate_Ratings": "2023-12-10T17:00:13.1624451+00:00",
-  "LastUpdate_Achievements": "2023-12-10T17:09:30.8594931+00:00"
+  "LastUpdate_Ratings": "2023-12-10T18:00:26.6428558+00:00",
+  "LastUpdate_Achievements": "2023-12-10T18:09:20.3598143+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
     "PcReleaseDate": "2021-03-25T11:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 27091,
+  "EOS_Progressed": 27096,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 1265,
+  "EOS_NewPlayers": 1262,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -9543,6 +9543,11 @@
       "Time": "2023-12-10T17:09:15.6827914+00:00",
       "NumProgressed": 27091,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-10T18:09:03.0634177+00:00",
+      "NumProgressed": 27096,
+      "NumCompleted": 117
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -9555,7 +9560,7 @@
       "Name": "It Took Two",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 12191
+      "UsersEstimate": 12193
     },
     {
       "ID": "achievement_10",
@@ -9563,7 +9568,7 @@
       "Name": "Snackosaurus",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "achievement_11",
@@ -9571,7 +9576,7 @@
       "Name": "Realize Your Art",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "achievement_12",
@@ -9579,7 +9584,7 @@
       "Name": "On Rails Experience",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 15713
+      "UsersEstimate": 15716
     },
     {
       "ID": "achievement_13",
@@ -9587,7 +9592,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "achievement_14",
@@ -9595,7 +9600,7 @@
       "Name": "Force Triangulated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "achievement_15",
@@ -9603,7 +9608,7 @@
       "Name": "Lost And Found",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "achievement_16",
@@ -9611,7 +9616,7 @@
       "Name": "Mood Swing",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "achievement_17",
@@ -9619,7 +9624,7 @@
       "Name": "Something Fishy",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "achievement_18",
@@ -9635,7 +9640,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 5960
+      "UsersEstimate": 5961
     },
     {
       "ID": "achievement_2",
@@ -9659,7 +9664,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 23569
+      "UsersEstimate": 23574
     },
     {
       "ID": "achievement_4",
@@ -9667,7 +9672,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 23840
+      "UsersEstimate": 23844
     },
     {
       "ID": "achievement_5",
@@ -9675,7 +9680,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4876
+      "UsersEstimate": 4877
     },
     {
       "ID": "achievement_6",
@@ -9691,7 +9696,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 21402
+      "UsersEstimate": 21406
     },
     {
       "ID": "achievement_8",
@@ -9699,7 +9704,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 11649
+      "UsersEstimate": 11651
     },
     {
       "ID": "achievement_9",
@@ -9707,20 +9712,20 @@
       "Name": "A Daring Devil",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 14358
+      "UsersEstimate": 14361
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 27091,
+      "Progressed": 27096,
       "Completed": 117
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-12-10T17:09:15.6827909+00:00",
+  "LastChanged_Achievements": "2023-12-10T18:09:03.0634172+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:16.8565582+00:00",
-  "LastUpdate_Ratings": "2023-12-10T17:00:03.2609575+00:00",
-  "LastUpdate_Achievements": "2023-12-10T17:09:15.6828378+00:00"
+  "LastUpdate_Ratings": "2023-12-10T18:00:14.6387683+00:00",
+  "LastUpdate_Achievements": "2023-12-10T18:09:03.0634616+00:00"
 }

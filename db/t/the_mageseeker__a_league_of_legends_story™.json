@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -4393,9 +4393,9 @@
       "ID": "STB_MISSION11_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "The end of the experiments",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 375
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -4433,9 +4433,9 @@
       "ID": "STB_MISSION3_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Devineur",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 803
+      "UsersEstimate": 830
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -4626,8 +4626,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-10T13:58:41.8193759+00:00",
-  "LastChanged_Achievements": "2023-12-10T17:06:30.6477719+00:00",
+  "LastChanged_Achievements": "2023-12-10T18:06:31.4618284+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:11.016025+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:58:53.3332718+00:00",
-  "LastUpdate_Achievements": "2023-12-10T17:06:30.6478258+00:00"
+  "LastUpdate_Ratings": "2023-12-10T17:58:54.278286+00:00",
+  "LastUpdate_Achievements": "2023-12-10T18:06:31.4618849+00:00"
 }

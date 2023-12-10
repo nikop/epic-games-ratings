@@ -22,7 +22,7 @@ Rating: 4.81 (Ranked 82)
 | Petricite Burst | 33.00% | ~884 |
 | Hijack | 31.00% | ~830 |
 | Old friend | 31.00% | ~830 |
-| Devineur | 30.00% | ~803 |
+| Devineur | 31.00% | ~830 |
 | Whispers in the Woods I | 28.00% | ~750 |
 | Ancient power | 27.00% | ~723 |
 | I chose my shackles | 26.00% | ~696 |
@@ -46,8 +46,8 @@ Rating: 4.81 (Ranked 82)
 | Embrace the darkness | 14.00% | ~375 |
 | Whispers in the Woods IV | 14.00% | ~375 |
 | I smell fear | 14.00% | ~375 |
+| The end of the experiments | 14.00% | ~375 |
 | The Great City of Demacia | 14.00% | ~375 |
-| The end of the experiments | 13.00% | ~348 |
 | Truth is a dark mirror | 13.00% | ~348 |
 | Call it 'redistribution of magic | 13.00% | ~348 |
 | Do you trust me? | 12.00% | ~321 |

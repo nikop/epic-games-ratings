@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 69.00% | ~8,586 |
-| Photographer | 68.00% | ~8,462 |
-| Valley's Helper | 61.00% | ~7,591 |
-| Constructor | 51.00% | ~6,346 |
-| Renovator | 51.00% | ~6,346 |
-| Bestest Friend | 46.00% | ~5,724 |
-| Banker | 39.00% | ~4,853 |
-| Gardener | 31.00% | ~3,858 |
-| Generous | 25.00% | ~3,111 |
-| Chef Cook | 18.00% | ~2,240 |
-| Miner | 10.00% | ~1,244 |
+| Goofy's Investor | 69.00% | ~8,589 |
+| Photographer | 68.00% | ~8,465 |
+| Valley's Helper | 61.00% | ~7,593 |
+| Constructor | 51.00% | ~6,348 |
+| Renovator | 51.00% | ~6,348 |
+| Bestest Friend | 46.00% | ~5,726 |
+| Banker | 39.00% | ~4,855 |
+| Gardener | 31.00% | ~3,859 |
+| Generous | 25.00% | ~3,112 |
+| Chef Cook | 18.00% | ~2,241 |
+| Miner | 10.00% | ~1,245 |
 | Duty Bound | 7.00% | ~871 |
 | Angler | 6.00% | ~747 |
 | Thorn Cleaner | 6.00% | ~747 |
 | Chit Chatter | 3.00% | ~373 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,444 (Ranked 161)  
-Completed: 305 (2.45%) (Ranked 123)  
+Progressed: 12,448 (Ranked 161)  
+Completed: 306 (2.46%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -207,10 +207,10 @@ Completed: 305 (2.45%) (Ranked 123)
 | 2023-12-07 | 12,345 | 302 |
 | 2023-12-08 | 12,387 | 302 |
 | 2023-12-09 | 12,427 | 303 |
-| 2023-12-10 | 12,444 | 305 |
+| 2023-12-10 | 12,448 | 306 |
 ## Awards
 Max (Great for Beginners): 1,110  (Ranked 145)  
-Sum: 8,090 (Ranked 108)  
+Sum: 8,092 (Ranked 108)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -220,7 +220,7 @@ Diff (max vs sum): 37
 | This game has Amazing Characters | 831 |
 | This game is Relaxing | 816 |
 | This game has Amazing Storytelling | 789 |
-| This game is Extremely Fun | 773 |
+| This game is Extremely Fun | 775 |
 | This game has Quickly Understood Controls | 765 |
 | This game has a Creative Community | 697 |
 | This game has Easy Combat | 538 |
@@ -498,4 +498,4 @@ Diff (max vs sum): 37
 | 2023-12-07 | 4.76 | - | 1,100 | 8,056 |
 | 2023-12-08 | 4.76 | - | 1,105 | 8,074 |
 | 2023-12-09 | 4.76 | - | 1,110 | 8,081 |
-| 2023-12-10 | 4.76 | - | 1,110 | 8,090 |
+| 2023-12-10 | 4.76 | - | 1,110 | 8,092 |

@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 478)
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,420 (Ranked 208)  
+Progressed: 3,420 (Ranked 209)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
