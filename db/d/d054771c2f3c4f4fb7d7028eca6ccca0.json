@@ -4,8 +4,8 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1631,
+  "EOS_Progressed": 1637,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 723,
+  "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1199,6 +1199,11 @@
       "Time": "2023-12-10T22:05:33.824826+00:00",
       "NumProgressed": 1631,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T23:04:32.0949069+00:00",
+      "NumProgressed": 1637,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1235,7 +1240,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1297,9 +1302,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "c167foo",
       "Name": "Grim Challenger",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1321,9 +1326,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "c167foo",
       "Name": "High Level Mastery",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1377,9 +1382,9 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "c167foo",
       "Name": "Competitor",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -1393,9 +1398,9 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "c167foo",
       "Name": "Personal Sanctuary",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1409,9 +1414,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "c167foo",
       "Name": "Unlocked Relic",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1441,9 +1446,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "c167foo",
       "Name": "Profile Outfitted",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -1586,14 +1591,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1631,
+      "Progressed": 1637,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-10T22:05:33.8248258+00:00",
+  "LastChanged_Achievements": "2023-12-10T23:04:32.0949066+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:01:07.5392396+00:00",
-  "LastUpdate_Achievements": "2023-12-10T22:05:33.8248667+00:00"
+  "LastUpdate_Ratings": "2023-12-10T22:59:41.8732916+00:00",
+  "LastUpdate_Achievements": "2023-12-10T23:04:32.0949474+00:00"
 }

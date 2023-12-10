@@ -38,8 +38,8 @@ Number of Ratings: 180  (23.09.2022)
 | City | 28.00% | ~539 |
 | Transport tycoon | 24.00% | ~462 |
 | Old timer | 23.00% | ~443 |
+| The ugly smell of success | 23.00% | ~443 |
 | Climate change | 22.00% | ~424 |
-| The ugly smell of success | 22.00% | ~424 |
 | Heavily loaded | 21.00% | ~404 |
 | Bob Ross | 16.00% | ~308 |
 | Campaign expert | 11.00% | ~212 |

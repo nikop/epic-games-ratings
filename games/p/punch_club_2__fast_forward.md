@@ -42,7 +42,7 @@
 | Guiding on the right path | 47.00% | ~171 |
 | No blades in the gym | 45.00% | ~163 |
 | Champion – no way back | 44.00% | ~160 |
-| Underground dwellers | 42.00% | ~152 |
+| Underground dwellers | 43.00% | ~156 |
 | Responsible approach | 42.00% | ~152 |
 | Deal with life | 41.00% | ~149 |
 | GYM professional | 41.00% | ~149 |
@@ -50,8 +50,8 @@
 | Poisoned fighter | 40.00% | ~145 |
 | The die is cast | 40.00% | ~145 |
 | Get out of my apartment! | 39.00% | ~142 |
+| Seashell hunter | 38.00% | ~138 |
 | Gang wrangler | 37.00% | ~134 |
-| Seashell hunter | 37.00% | ~134 |
 | Undercover robot | 37.00% | ~134 |
 | Problems of cyborgs | 36.00% | ~131 |
 | Not little hacker | 36.00% | ~131 |

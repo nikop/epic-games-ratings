@@ -12,7 +12,7 @@ Rating: 4.55 (Ranked 512)
 | Collect Monster Parts | 58.00% | ~1,293 |
 | Two Handed Weapon | 57.00% | ~1,271 |
 | Defeat 25 Grubs | 53.00% | ~1,182 |
-| Rescue Redgi's Brothers | 52.00% | ~1,160 |
+| Rescue Redgi's Brothers | 53.00% | ~1,182 |
 | Collect Iron Ore | 48.00% | ~1,070 |
 | Kitchen Ready To Cook | 48.00% | ~1,070 |
 | Defeat 25 Mozis | 47.00% | ~1,048 |
@@ -22,8 +22,8 @@ Rating: 4.55 (Ranked 512)
 | Complete Elder Faction | 41.00% | ~914 |
 | Throne Room Fit For A King | 39.00% | ~870 |
 | End of the Mozis | 38.00% | ~847 |
+| Return Power To The Depths | 37.00% | ~825 |
 | Meet the Creatures from the Deep | 36.00% | ~803 |
-| Return Power To The Depths | 36.00% | ~803 |
 | Defeat Ratnor Rodentson | 30.00% | ~669 |
 | Return the Statues | 27.00% | ~602 |
 | Defeat Rattus Augustail | 27.00% | ~602 |

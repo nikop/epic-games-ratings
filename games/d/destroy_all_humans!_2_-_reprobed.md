@@ -12,17 +12,17 @@ Number of Ratings: 90  (23.09.2022)
 | Furon Fashion | 27.00% | ~8 |
 | Shop Til They Drop | 23.00% | ~7 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 17.00% | ~5 |
+| Upgreatest | 17.00% | ~5 |
 | I Look Up As I Walk to Takoshima | 13.00% | ~4 |
 | Earthly Pleasures | 13.00% | ~4 |
-| Upgreatest | 13.00% | ~4 |
 | Pimp My Raid | 13.00% | ~4 |
+| Cult Following | 10.00% | ~3 |
 | Fly Me to the Moon Base | 10.00% | ~3 |
+| Bodied Sattva | 10.00% | ~3 |
 | Scuttled | 10.00% | ~3 |
 | Dusted | 10.00% | ~3 |
 | Perfect Probulator | 7.00% | ~2 |
-| Cult Following | 7.00% | ~2 |
 | Lie Back and Think of Albion | 7.00% | ~2 |
-| Bodied Sattva | 7.00% | ~2 |
 | Kaijuiced | 7.00% | ~2 |
 | Lobster Blisque | 7.00% | ~2 |
 | Transmitting From Sol-3 | 3.00% | ~1 |

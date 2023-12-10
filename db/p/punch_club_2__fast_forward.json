@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1860,9 +1860,9 @@
       "ID": "resistance_fake",
       "SetID": "69co12a",
       "Name": "Underground dwellers",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 156
     },
     {
       "ID": "resistance_slime",
@@ -1884,9 +1884,9 @@
       "ID": "seashell_hunter",
       "SetID": "69co12a",
       "Name": "Seashell hunter",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 138
     },
     {
       "ID": "sleep_candy",
@@ -1979,8 +1979,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-10T22:08:58.3631485+00:00",
+  "LastChanged_Achievements": "2023-12-10T23:08:24.2992244+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:01.6440907+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:00:25.5786203+00:00",
-  "LastUpdate_Achievements": "2023-12-10T22:08:58.363195+00:00"
+  "LastUpdate_Ratings": "2023-12-10T22:59:15.2794598+00:00",
+  "LastUpdate_Achievements": "2023-12-10T23:08:24.2992697+00:00"
 }

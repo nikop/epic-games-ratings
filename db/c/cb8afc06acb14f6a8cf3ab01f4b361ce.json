@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -395,9 +395,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 327140,
+  "EOS_Progressed": 327167,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3639,
+  "EOS_NewPlayers": 3646,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9125,6 +9125,11 @@
       "Time": "2023-12-10T22:05:49.4744282+00:00",
       "NumProgressed": 327140,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-10T23:04:42.9173058+00:00",
+      "NumProgressed": 327167,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9137,7 +9142,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9814
+      "UsersEstimate": 9815
     },
     {
       "ID": "S02_BRDA",
@@ -9209,7 +9214,7 @@
       "Name": "Counting on you",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "S11_MMR6",
@@ -9217,7 +9222,7 @@
       "Name": "This is the end",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "S12_ALL",
@@ -9225,7 +9230,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "S13_ALL_HARD",
@@ -9273,7 +9278,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9814
+      "UsersEstimate": 9815
     },
     {
       "ID": "S19_CHALLENGES",
@@ -9441,7 +9446,7 @@
       "Name": "I took a risk",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "S40_BONUS",
@@ -9449,14 +9454,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3271
+      "UsersEstimate": 3272
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 327140,
+      "Progressed": 327167,
       "Completed": 5
     }
   ],
@@ -9464,8 +9469,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-06T06:00:13.3250354+00:00",
-  "LastChanged_Achievements": "2023-12-10T22:05:49.4744279+00:00",
+  "LastChanged_Achievements": "2023-12-10T23:04:42.9173051+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:00:15.7251823+00:00",
-  "LastUpdate_Achievements": "2023-12-10T22:05:49.4745034+00:00"
+  "LastUpdate_Ratings": "2023-12-10T22:59:09.2638862+00:00",
+  "LastUpdate_Achievements": "2023-12-10T23:04:42.9173632+00:00"
 }

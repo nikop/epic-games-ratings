@@ -18,13 +18,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 1.00% | ~179 |
 | Coral Forest | 1.00% | ~179 |
 | The Marshlands | 1.00% | ~179 |
+| The Scarlet Orchard | 1.00% | ~179 |
 | Taking Action | 1.00% | ~179 |
 | No Deaths | 1.00% | ~179 |
-| The Scarlet Orchard | 0.90% | ~161 |
 | Fertile Meadows | 0.80% | ~143 |
+| Watchtower | 0.80% | ~143 |
 | Royal Outpost | 0.70% | ~125 |
 | Lost Colonies | 0.70% | ~125 |
-| Watchtower | 0.70% | ~125 |
 | Homesick | 0.60% | ~107 |
 | Bandit Camp | 0.60% | ~107 |
 | Barren Lands | 0.50% | ~90 |
@@ -45,13 +45,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 0.30% | ~54 |
 | Forsaken Gods Temple | 0.30% | ~54 |
 | Defying the Crown | 0.30% | ~54 |
+| Into the Forest | 0.30% | ~54 |
 | Fox Utopia | 0.30% | ~54 |
 | Efficient Explorer | 0.20% | ~36 |
 | Refinery | 0.20% | ~36 |
 | Dangerous Lands | 0.20% | ~36 |
 | Forbidden Lands | 0.20% | ~36 |
 | Victory Through Prosperity | 0.20% | ~36 |
-| Into the Forest | 0.20% | ~36 |
 | Feeding The People | 0.10% | ~18 |
 | Paradise | 0.10% | ~18 |
 | Higher Needs | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,907 (Ranked 147)  
+Progressed: 17,908 (Ranked 147)  
 Completed: 41 (0.23%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 41 (0.23%) (Ranked 253)
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
-| 2023-12-10 | 17,907 | 43 |
+| 2023-12-10 | 17,908 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 224)  
 Sum: 3,250 (Ranked 175)  

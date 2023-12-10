@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -711,9 +711,9 @@
       "ID": "KR4_ACHIEVEMENT_HEROIC",
       "SetID": "caeik3h",
       "Name": "From Zero To Hero",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KR4_ACHIEVEMENT_HODOR",
@@ -767,9 +767,9 @@
       "ID": "KR4_ACHIEVEMENT_IRON",
       "SetID": "caeik3h",
       "Name": "Ironborn",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "KR4_ACHIEVEMENT_JOKULL",
@@ -831,17 +831,17 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
       "SetID": "caeik3h",
       "Name": "Rightful Owner",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
@@ -1031,9 +1031,9 @@
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
       "SetID": "caeik3h",
       "Name": "Supreme Defender",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "KR4_ACHIEVEMENT_T800",
@@ -1108,8 +1108,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-10T22:05:19.8467861+00:00",
+  "LastChanged_Achievements": "2023-12-10T23:04:22.3447925+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:53.8103037+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:00:27.2577553+00:00",
-  "LastUpdate_Achievements": "2023-12-10T22:05:19.8468791+00:00"
+  "LastUpdate_Ratings": "2023-12-10T22:59:16.4017864+00:00",
+  "LastUpdate_Achievements": "2023-12-10T23:04:22.3448599+00:00"
 }

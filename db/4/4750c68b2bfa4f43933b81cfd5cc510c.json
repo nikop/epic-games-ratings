@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
     "PcReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -2487,9 +2487,9 @@
       "Count": 498
     }
   ],
-  "EOS_Progressed": 56473,
+  "EOS_Progressed": 56474,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11847,6 +11847,11 @@
       "Time": "2023-12-10T22:05:24.4611146+00:00",
       "NumProgressed": 56473,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T23:04:25.4830983+00:00",
+      "NumProgressed": 56474,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -11883,7 +11888,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 36707
+      "UsersEstimate": 36708
     },
     {
       "ID": "achievement_13",
@@ -11891,7 +11896,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 30495
+      "UsersEstimate": 30496
     },
     {
       "ID": "achievement_14",
@@ -11899,7 +11904,7 @@
       "Name": "The Alchemist",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 28801
+      "UsersEstimate": 28802
     },
     {
       "ID": "achievement_15",
@@ -11923,7 +11928,7 @@
       "Name": "One Moment Please!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 33319
+      "UsersEstimate": 33320
     },
     {
       "ID": "achievement_18",
@@ -11931,7 +11936,7 @@
       "Name": "Welcome to the Big Leagues!",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 28236
+      "UsersEstimate": 28237
     },
     {
       "ID": "achievement_19",
@@ -11979,7 +11984,7 @@
       "Name": "Graduation Day",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 27107
+      "UsersEstimate": 27108
     },
     {
       "ID": "achievement_24",
@@ -12163,7 +12168,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 41790
+      "UsersEstimate": 41791
     },
     {
       "ID": "achievement_9",
@@ -12178,7 +12183,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 56473,
+      "Progressed": 56474,
       "Completed": 0
     }
   ],
@@ -12186,8 +12191,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-12-10T18:58:03.8508783+00:00",
-  "LastChanged_Achievements": "2023-12-10T22:05:24.4611143+00:00",
+  "LastChanged_Achievements": "2023-12-10T23:04:25.4830978+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:08.0940773+00:00",
-  "LastUpdate_Ratings": "2023-12-10T21:58:47.8113937+00:00",
-  "LastUpdate_Achievements": "2023-12-10T22:05:24.4611738+00:00"
+  "LastUpdate_Ratings": "2023-12-10T22:58:11.9300011+00:00",
+  "LastUpdate_Achievements": "2023-12-10T23:04:25.4831658+00:00"
 }

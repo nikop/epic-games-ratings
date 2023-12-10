@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252058,
+  "EOS_Progressed": 252059,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21002,6 +21002,11 @@
       "Time": "2023-12-10T21:10:10.7850699+00:00",
       "NumProgressed": 252058,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-10T23:08:59.5923111+00:00",
+      "NumProgressed": 252059,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21061,7 +21066,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15123
+      "UsersEstimate": 15124
     },
     {
       "ID": "canYouDigIt",
@@ -21109,7 +21114,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45370
+      "UsersEstimate": 45371
     },
     {
       "ID": "curator",
@@ -21253,7 +21258,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126029
+      "UsersEstimate": 126030
     },
     {
       "ID": "notScared",
@@ -21380,7 +21385,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252058,
+      "Progressed": 252059,
       "Completed": 6
     }
   ],
@@ -21388,8 +21393,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-10T22:09:49.1792956+00:00",
+  "LastChanged_Achievements": "2023-12-10T23:08:59.5923105+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.3008765+00:00",
-  "LastUpdate_Ratings": "2023-12-10T21:57:47.0009603+00:00",
-  "LastUpdate_Achievements": "2023-12-10T22:09:49.179426+00:00"
+  "LastUpdate_Ratings": "2023-12-10T22:57:32.7323241+00:00",
+  "LastUpdate_Achievements": "2023-12-10T23:08:59.5924452+00:00"
 }

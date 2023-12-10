@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -991,9 +991,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9321,
+  "EOS_Progressed": 9322,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9131,6 +9131,11 @@
       "Time": "2023-12-10T21:08:54.0321656+00:00",
       "NumProgressed": 9321,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-10T23:08:01.4921913+00:00",
+      "NumProgressed": 9322,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9150,7 +9155,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -9158,7 +9163,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4101
+      "UsersEstimate": 4102
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -9286,7 +9291,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -9310,7 +9315,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3262
+      "UsersEstimate": 3263
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -9501,7 +9506,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9321,
+      "Progressed": 9322,
       "Completed": 10
     }
   ],
@@ -9509,8 +9514,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-09T14:58:44.4952754+00:00",
-  "LastChanged_Achievements": "2023-12-10T22:08:26.1395164+00:00",
+  "LastChanged_Achievements": "2023-12-10T23:08:01.4921908+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:02.1312935+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:00:33.7486746+00:00",
-  "LastUpdate_Achievements": "2023-12-10T22:08:26.1395689+00:00"
+  "LastUpdate_Ratings": "2023-12-10T22:59:20.416338+00:00",
+  "LastUpdate_Achievements": "2023-12-10T23:08:01.492248+00:00"
 }

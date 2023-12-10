@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -420,9 +420,9 @@
       "ID": "RollOut",
       "SetID": "4bd750m",
       "Name": "Roll Out",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "RoomToSpare",
@@ -515,8 +515,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-10T22:03:29.7345964+00:00",
+  "LastChanged_Achievements": "2023-12-10T23:03:05.7398108+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:13.5200104+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:03:06.8612663+00:00",
-  "LastUpdate_Achievements": "2023-12-10T22:03:29.7346145+00:00"
+  "LastUpdate_Ratings": "2023-12-10T23:02:50.5756604+00:00",
+  "LastUpdate_Achievements": "2023-12-10T23:03:05.7398298+00:00"
 }

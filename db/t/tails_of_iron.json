@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -4140,17 +4140,17 @@
       "ID": "RescueBrothers",
       "SetID": "9lj35g4",
       "Name": "Rescue Redgi\u0027s Brothers",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1182
     },
     {
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 803
+      "UsersEstimate": 825
     }
   ],
   "AchievementSets": [
@@ -4171,8 +4171,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-10T22:07:23.6500688+00:00",
+  "LastChanged_Achievements": "2023-12-10T23:05:48.7789537+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:13.9280126+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:00:20.7276148+00:00",
-  "LastUpdate_Achievements": "2023-12-10T22:07:23.650096+00:00"
+  "LastUpdate_Ratings": "2023-12-10T22:59:12.2677512+00:00",
+  "LastUpdate_Achievements": "2023-12-10T23:05:48.778992+00:00"
 }

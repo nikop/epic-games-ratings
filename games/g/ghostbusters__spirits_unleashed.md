@@ -5,31 +5,31 @@ Rating: 4.50 (Ranked 597)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,893 |
-| Advancement | 7.00% | ~2,250 |
-| Meticulously Efficient | 7.00% | ~2,250 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,607 |
-| Discovery | 5.00% | ~1,607 |
-| Fully Upgraded | 5.00% | ~1,607 |
-| Solo Capture | 5.00% | ~1,607 |
-| Swift Rift Removers | 5.00% | ~1,607 |
-| Teamwork | 5.00% | ~1,607 |
+| Stylish | 9.00% | ~2,894 |
+| Advancement | 7.00% | ~2,251 |
+| Meticulously Efficient | 7.00% | ~2,251 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,608 |
+| Discovery | 5.00% | ~1,608 |
+| Fully Upgraded | 5.00% | ~1,608 |
+| Solo Capture | 5.00% | ~1,608 |
+| Swift Rift Removers | 5.00% | ~1,608 |
+| Teamwork | 5.00% | ~1,608 |
 | Clutch Capture | 4.00% | ~1,286 |
 | Cultured | 4.00% | ~1,286 |
 | Daily Dose | 4.00% | ~1,286 |
 | There you are! | 4.00% | ~1,286 |
 | Vaporous Expansion | 4.00% | ~1,286 |
 | Whoopsie | 4.00% | ~1,286 |
-| Animated | 3.00% | ~964 |
-| We have the best insurance | 3.00% | ~964 |
-| Ectoplasmic Entity | 3.00% | ~964 |
-| Ghostbuster In Training | 3.00% | ~964 |
-| Icing on the Cake | 3.00% | ~964 |
-| Legions | 3.00% | ~964 |
-| Pesky Jerks | 3.00% | ~964 |
-| Right back at ya | 3.00% | ~964 |
-| Side Hustle | 3.00% | ~964 |
-| Summoner | 3.00% | ~964 |
+| Animated | 3.00% | ~965 |
+| We have the best insurance | 3.00% | ~965 |
+| Ectoplasmic Entity | 3.00% | ~965 |
+| Ghostbuster In Training | 3.00% | ~965 |
+| Icing on the Cake | 3.00% | ~965 |
+| Legions | 3.00% | ~965 |
+| Pesky Jerks | 3.00% | ~965 |
+| Right back at ya | 3.00% | ~965 |
+| Side Hustle | 3.00% | ~965 |
+| Summoner | 3.00% | ~965 |
 | Back Off | 2.00% | ~643 |
 | Collector | 2.00% | ~643 |
 | Escape Artist | 2.00% | ~643 |
@@ -39,13 +39,13 @@ Rating: 4.50 (Ranked 597)
 | Stunner | 2.00% | ~643 |
 | Tobin's Prodigy | 2.00% | ~643 |
 | Welcome to the Crew | 2.00% | ~643 |
-| Diabolical | 1.00% | ~321 |
-| Fragile Panes | 1.00% | ~321 |
-| Liability | 1.00% | ~321 |
-| Reckless | 1.00% | ~321 |
-| Rivalry | 1.00% | ~321 |
-| Surprise! | 1.00% | ~321 |
-| Terrifying | 1.00% | ~321 |
+| Diabolical | 1.00% | ~322 |
+| Fragile Panes | 1.00% | ~322 |
+| Liability | 1.00% | ~322 |
+| Reckless | 1.00% | ~322 |
+| Rivalry | 1.00% | ~322 |
+| Surprise! | 1.00% | ~322 |
+| Terrifying | 1.00% | ~322 |
 | Therapeutic | 0.80% | ~257 |
 | Rift Seeker | 0.60% | ~193 |
 | Master Collector | 0.50% | ~161 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 597)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,149 (Ranked 124)  
+Progressed: 32,151 (Ranked 124)  
 Completed: 69 (0.21%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 69 (0.21%) (Ranked 256)
 | 2023-12-07 | 32,036 | 69 |
 | 2023-12-08 | 32,068 | 69 |
 | 2023-12-09 | 32,106 | 69 |
-| 2023-12-10 | 32,149 | 69 |
+| 2023-12-10 | 32,151 | 69 |
 ## Awards
 Max (Great for Beginners): 321  (Ranked 251)  
 Sum: 2,894 (Ranked 180)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4870,
+  "EOS_Progressed": 4871,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3391,6 +3391,11 @@
       "Time": "2023-12-09T19:05:16.2358062+00:00",
       "NumProgressed": 4870,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-10T23:05:10.2455839+00:00",
+      "NumProgressed": 4871,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3426,7 +3431,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -3458,7 +3463,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4578
+      "UsersEstimate": 4579
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3466,7 +3471,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3750
+      "UsersEstimate": 3751
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3490,7 +3495,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -3498,7 +3503,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -3618,7 +3623,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3750
+      "UsersEstimate": 3751
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3650,7 +3655,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -3746,7 +3751,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3937,15 +3942,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4870,
+      "Progressed": 4871,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-10T22:06:28.8039812+00:00",
+  "LastChanged_Achievements": "2023-12-10T23:05:10.2455833+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.6535047+00:00",
-  "LastUpdate_Ratings": "2023-12-10T21:57:47.7750042+00:00",
-  "LastUpdate_Achievements": "2023-12-10T22:06:28.8040383+00:00"
+  "LastUpdate_Ratings": "2023-12-10T22:57:33.2856269+00:00",
+  "LastUpdate_Achievements": "2023-12-10T23:05:10.2456427+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 595,
+  "EOS_Progressed": 596,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.51,
   "EosHistory": [
@@ -2115,6 +2115,11 @@
       "Time": "2023-12-10T16:09:15.0191903+00:00",
       "NumProgressed": 595,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-10T23:08:49.2230482+00:00",
+      "NumProgressed": 596,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2135,7 +2140,7 @@
       "Name": "Holey Moley",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "achievement_11",
@@ -2183,7 +2188,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "achievement_17",
@@ -2191,7 +2196,7 @@
       "Name": "Clean Sheet",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "achievement_18",
@@ -2229,9 +2234,9 @@
       "ID": "achievement_5",
       "SetID": "7ldgi7j",
       "Name": "Golf\u0027s Original Championship",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_6",
@@ -2239,7 +2244,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_7",
@@ -2255,7 +2260,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "achievement_9",
@@ -2263,20 +2268,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 595,
+      "Progressed": 596,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-10T22:09:34.58579+00:00",
+  "LastChanged_Achievements": "2023-12-10T23:08:49.2230478+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:12.3261518+00:00",
-  "LastUpdate_Ratings": "2023-12-10T21:57:49.9020037+00:00",
-  "LastUpdate_Achievements": "2023-12-10T22:09:34.5858105+00:00"
+  "LastUpdate_Ratings": "2023-12-10T22:57:34.6210805+00:00",
+  "LastUpdate_Achievements": "2023-12-10T23:08:49.2230662+00:00"
 }

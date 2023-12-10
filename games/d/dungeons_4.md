@@ -13,8 +13,8 @@
 | Experienced Thalya | 72.00% | ~391 |
 | Thalya's Concentrated Fury | 69.00% | ~375 |
 | Bad Elves Go Everywhere | 69.00% | ~375 |
+| Heroes’ Gorge | 65.00% | ~353 |
 | Master of Magic | 64.00% | ~348 |
-| Heroes’ Gorge | 64.00% | ~348 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~337 |
 | Magic Accidents | 60.00% | ~326 |
 | The Ascent | 58.00% | ~315 |
@@ -44,10 +44,10 @@
 | Stop Tanos! | 26.00% | ~141 |
 | Doom Hill | 26.00% | ~141 |
 | Brimstone Shaken, Not Stirred | 24.00% | ~130 |
+| Bonus Evilness | 22.00% | ~119 |
 | Sabotage! | 22.00% | ~119 |
 | Raiders of the Lost Stone | 22.00% | ~119 |
 | The Rune Sockets of Finitude (Part 1) | 22.00% | ~119 |
-| Bonus Evilness | 21.00% | ~114 |
 | The Rune Sockets of Finitude (Part 2) | 20.00% | ~109 |
 | The Last Stand - This Time For Real! | 19.00% | ~103 |
 | Rubble and Ashes | 18.00% | ~98 |

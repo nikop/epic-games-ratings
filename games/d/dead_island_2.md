@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,993 |
-| Whatever It Takes | 3.00% | ~1,759 |
-| Pork Chopped | 3.00% | ~1,759 |
+| Welcome To Hell-A | 3.00% | ~21,994 |
+| Whatever It Takes | 3.00% | ~1,760 |
+| Pork Chopped | 3.00% | ~1,760 |
 | Dr. Reed, I Presume? | 2.00% | ~14,662 |
 | Git Gutte! | 2.00% | ~14,662 |
 | Anger Management | 2.00% | ~14,662 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 535)
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,104 (Ranked 21)  
+Progressed: 733,123 (Ranked 21)  
 Completed: 2,475 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 2,475 (0.34%) (Ranked 234)
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
-| 2023-12-10 | 733,104 | 2,475 |
+| 2023-12-10 | 733,123 | 2,475 |
 ## Awards
 Max (Great Boss Battles): 8,071  (Ranked 49)  
 Sum: 12,407 (Ranked 82)  

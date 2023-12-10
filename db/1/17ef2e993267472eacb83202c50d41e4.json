@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -89,7 +89,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8703,
+  "EOS_Progressed": 8704,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
@@ -8444,6 +8444,11 @@
       "Time": "2023-12-10T22:10:16.8341323+00:00",
       "NumProgressed": 8703,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T23:09:20.3223358+00:00",
+      "NumProgressed": 8704,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8864,7 +8869,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "NeutralKills200",
@@ -8952,7 +8957,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "SEUpgraded1",
@@ -9047,7 +9052,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8703,
+      "Progressed": 8704,
       "Completed": 1
     }
   ],
@@ -9055,8 +9060,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-05T02:57:10.0290174+00:00",
-  "LastChanged_Achievements": "2023-12-10T22:10:16.834132+00:00",
+  "LastChanged_Achievements": "2023-12-10T23:09:20.3223354+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.1858441+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:01:28.0322925+00:00",
-  "LastUpdate_Achievements": "2023-12-10T22:10:16.8342504+00:00"
+  "LastUpdate_Ratings": "2023-12-10T22:59:55.6338919+00:00",
+  "LastUpdate_Achievements": "2023-12-10T23:09:20.3224171+00:00"
 }
