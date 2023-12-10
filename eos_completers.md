@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.57% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.56% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -47,7 +47,7 @@
 | 45 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.73% |
 | 46 | [Smelter](games/s/smelter.md) | 9.52% |
 | 47 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 48 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.03% |
+| 48 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.07% |
 | 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.52% |
 | 50 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
 | 51 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
@@ -88,8 +88,8 @@
 | 86 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.30% |
 | 87 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.24% |
 | 88 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.21% |
-| 89 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.12% |
-| 90 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
+| 89 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
+| 90 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.10% |
 | 91 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 4.03% |
 | 92 | [The Bunker](games/t/the_bunker.md) | 4.00% |
 | 93 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.72% |
@@ -112,12 +112,12 @@
 | 110 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 111 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 111 | [Night Book](games/n/night_book.md) | 2.78% |
-| 113 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.75% |
-| 114 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
+| 113 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.74% |
+| 113 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 115 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
 | 115 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
 | 117 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.62% |
-| 118 | [Dungeons 4](games/d/dungeons_4.md) | 2.60% |
+| 118 | [Dungeons 4](games/d/dungeons_4.md) | 2.59% |
 | 119 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.56% |
 | 120 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 121 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.48% |
@@ -786,4 +786,4 @@
 | 371 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 371 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 371 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,696 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,697 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
