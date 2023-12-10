@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2514,9 +2514,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44098,
+  "EOS_Progressed": 44099,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9704,6 +9704,11 @@
       "Time": "2023-12-10T02:29:20.7354209+00:00",
       "NumProgressed": 44098,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-10T05:05:08.2148908+00:00",
+      "NumProgressed": 44099,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9771,7 +9776,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12347
+      "UsersEstimate": 12348
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -9787,7 +9792,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18080
+      "UsersEstimate": 18081
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -9819,7 +9824,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17198
+      "UsersEstimate": 17199
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -9835,7 +9840,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14111
+      "UsersEstimate": 14112
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -9923,7 +9928,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14993
+      "UsersEstimate": 14994
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -9931,7 +9936,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19403
+      "UsersEstimate": 19404
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -9939,7 +9944,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14111
+      "UsersEstimate": 14112
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -9963,7 +9968,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21608
+      "UsersEstimate": 21609
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -9971,7 +9976,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15875
+      "UsersEstimate": 15876
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -9979,7 +9984,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13670
+      "UsersEstimate": 13671
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -10003,7 +10008,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16316
+      "UsersEstimate": 16317
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -10011,7 +10016,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18521
+      "UsersEstimate": 18522
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -10027,7 +10032,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16757
+      "UsersEstimate": 16758
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -10035,7 +10040,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16316
+      "UsersEstimate": 16317
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -10059,7 +10064,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13670
+      "UsersEstimate": 13671
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -10067,7 +10072,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20726
+      "UsersEstimate": 20727
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -10083,7 +10088,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20726
+      "UsersEstimate": 20727
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -10091,7 +10096,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15875
+      "UsersEstimate": 15876
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -10099,7 +10104,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11906
+      "UsersEstimate": 11907
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -10107,7 +10112,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19844
+      "UsersEstimate": 19845
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -10155,7 +10160,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14993
+      "UsersEstimate": 14994
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -10235,22 +10240,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15875
+      "UsersEstimate": 15876
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44098,
+      "Progressed": 44099,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-10T03:58:29.0080412+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:04:26.0535067+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:05:08.2148903+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.7466868+00:00",
-  "LastUpdate_Ratings": "2023-12-10T03:58:29.0080417+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:04:26.0535815+00:00"
+  "LastUpdate_Ratings": "2023-12-10T04:59:12.1220319+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:05:08.2149583+00:00"
 }

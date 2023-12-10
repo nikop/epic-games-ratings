@@ -3604,9 +3604,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240833,
+  "EOS_Progressed": 240834,
   "EOS_Completed": 293,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -27689,6 +27689,11 @@
       "Time": "2023-12-10T02:34:53.0272129+00:00",
       "NumProgressed": 240833,
       "NumCompleted": 293
+    },
+    {
+      "Time": "2023-12-10T05:10:24.7863545+00:00",
+      "NumProgressed": 240834,
+      "NumCompleted": 293
     }
   ],
   "TotalAchievements": 138,
@@ -27700,7 +27705,7 @@
       "Name": "Thank You, Friend",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -27764,7 +27769,7 @@
       "Name": "Shadow Spreads",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -27788,7 +27793,7 @@
       "Name": "Max Damage!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "DEPTH12",
@@ -27812,7 +27817,7 @@
       "Name": "A Rough Road",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "DEPTH6",
@@ -27860,7 +27865,7 @@
       "Name": "To The Death!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "DIEHARD",
@@ -27908,7 +27913,7 @@
       "Name": "Well Prepared",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ENDINGCHOICE",
@@ -27956,7 +27961,7 @@
       "Name": "Just Chilling",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "FREEZE20TIMES",
@@ -28076,7 +28081,7 @@
       "Name": "Save Our Souls",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "HUGESOULSPILL",
@@ -28156,7 +28161,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "KILLBOSSHARD",
@@ -28172,7 +28177,7 @@
       "Name": "All Consuming",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -28212,7 +28217,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -28252,7 +28257,7 @@
       "Name": "Illuminate, Eliminate",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -28266,9 +28271,9 @@
       "ID": "LIGHTENDINGMEDIUM",
       "SetID": "5l8oe0h",
       "Name": "Path To Enlightenment",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 482
     },
     {
       "ID": "LOTSOFHATS",
@@ -28292,7 +28297,7 @@
       "Name": "Chain Reaction",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "MULTIKILL30",
@@ -28364,7 +28369,7 @@
       "Name": "Doing Time",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "POISON300",
@@ -28372,7 +28377,7 @@
       "Name": "Spreading Plague",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "POISON30TIMES",
@@ -28388,7 +28393,7 @@
       "Name": "Acid Bath",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "POISONSELF20",
@@ -28404,7 +28409,7 @@
       "Name": "Antivenom",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "REROLL30TIMES",
@@ -28428,7 +28433,7 @@
       "Name": "New Perspectives",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "SNAKESTEALTH",
@@ -28524,7 +28529,7 @@
       "Name": "The Long Run",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "WIN0ATTACK",
@@ -28803,13 +28808,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240833,
+      "Progressed": 240834,
       "Completed": 293
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2313,
+      "Progressed": 2314,
       "Completed": 396
     }
   ],
@@ -28817,8 +28822,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-10T01:48:38.1749644+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:09:52.4550689+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:10:24.7863538+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-10T03:57:27.6905272+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:09:52.4553077+00:00"
+  "LastUpdate_Ratings": "2023-12-10T04:57:38.7556948+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:10:24.786621+00:00"
 }

@@ -1,14 +1,14 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.41 (Ranked 726)  
+Rating: 4.41 (Ranked 725)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 26.00% | ~6,343 |
-| Sector 2 | 23.00% | ~5,611 |
-| Sector 3 | 20.00% | ~4,879 |
-| Crush That Cube! | 19.00% | ~4,635 |
+| Sector 1 | 26.00% | ~6,344 |
+| Sector 2 | 23.00% | ~5,612 |
+| Sector 3 | 20.00% | ~4,880 |
+| Crush That Cube! | 19.00% | ~4,636 |
 | Sector 4 | 16.00% | ~3,904 |
 | Crush That Ball! | 15.00% | ~3,660 |
 | Sector 5 | 10.00% | ~2,440 |
@@ -30,7 +30,7 @@ Rating: 4.41 (Ranked 726)
 | Master Of The Collectables | 1.00% | ~244 |
 | Maxed Out | 1.00% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,397 (Ranked 136)  
+Progressed: 24,400 (Ranked 136)  
 Completed: 146 (0.60%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 146 (0.60%) (Ranked 193)
 | 2023-12-07 | 24,058 | 142 |
 | 2023-12-08 | 24,198 | 145 |
 | 2023-12-09 | 24,371 | 146 |
-| 2023-12-10 | 24,397 | 146 |
+| 2023-12-10 | 24,400 | 146 |
 ## Awards
 Max (Challenging Puzzles): 22  (Ranked 541)  
 Sum: 22 (Ranked 543)  

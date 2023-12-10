@@ -207,7 +207,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7646,
+  "EOS_Progressed": 7647,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 2,
@@ -6052,6 +6052,11 @@
       "Time": "2023-12-10T02:34:41.0102304+00:00",
       "NumProgressed": 7646,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-10T05:10:09.7773098+00:00",
+      "NumProgressed": 7647,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6104,7 +6109,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "Eavesdropper",
@@ -6136,7 +6141,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2217
+      "UsersEstimate": 2218
     },
     {
       "ID": "FuneralForTheDeath",
@@ -6208,7 +6213,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "NoMoreTotems",
@@ -6256,7 +6261,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "TheQuarterback",
@@ -6335,7 +6340,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7646,
+      "Progressed": 7647,
       "Completed": 15
     }
   ],
@@ -6343,8 +6348,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-09T07:57:44.7970456+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:09:40.8941906+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:10:09.7773093+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-10T03:57:48.767831+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:09:40.8942298+00:00"
+  "LastUpdate_Ratings": "2023-12-10T04:58:11.6704763+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:10:09.7773604+00:00"
 }

@@ -46,25 +46,25 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shapeshifting | 0.40% | ~963 |
 | Expensive Look | 0.40% | ~9 |
 | What Doesn't Kill You | 0.40% | ~9 |
-| Thank You, Friend | 0.30% | ~722 |
-| Shadow Spreads | 0.30% | ~722 |
-| Max Damage! | 0.30% | ~722 |
-| A Rough Road | 0.30% | ~722 |
-| To The Death! | 0.30% | ~722 |
-| Well Prepared | 0.30% | ~722 |
-| Just Chilling | 0.30% | ~722 |
-| Save Our Souls | 0.30% | ~722 |
-| Don't Ignore Me! | 0.30% | ~722 |
-| All Consuming | 0.30% | ~722 |
-| Stop Hitting Yourself | 0.30% | ~722 |
-| Illuminate, Eliminate | 0.30% | ~722 |
-| Chain Reaction | 0.30% | ~722 |
-| Doing Time | 0.30% | ~722 |
-| Spreading Plague | 0.30% | ~722 |
-| Acid Bath | 0.30% | ~722 |
-| Antivenom | 0.30% | ~722 |
-| New Perspectives | 0.30% | ~722 |
-| The Long Run | 0.30% | ~722 |
+| Thank You, Friend | 0.30% | ~723 |
+| Shadow Spreads | 0.30% | ~723 |
+| Max Damage! | 0.30% | ~723 |
+| A Rough Road | 0.30% | ~723 |
+| To The Death! | 0.30% | ~723 |
+| Well Prepared | 0.30% | ~723 |
+| Just Chilling | 0.30% | ~723 |
+| Save Our Souls | 0.30% | ~723 |
+| Don't Ignore Me! | 0.30% | ~723 |
+| All Consuming | 0.30% | ~723 |
+| Stop Hitting Yourself | 0.30% | ~723 |
+| Illuminate, Eliminate | 0.30% | ~723 |
+| Chain Reaction | 0.30% | ~723 |
+| Doing Time | 0.30% | ~723 |
+| Spreading Plague | 0.30% | ~723 |
+| Acid Bath | 0.30% | ~723 |
+| Antivenom | 0.30% | ~723 |
+| New Perspectives | 0.30% | ~723 |
+| The Long Run | 0.30% | ~723 |
 | Who Needs Luck? | 0.30% | ~7 |
 | Achievement Hunter | 0.20% | ~482 |
 | Challenge Increases | 0.20% | ~482 |
@@ -74,6 +74,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Berzerker | 0.20% | ~482 |
 | Juggernaut | 0.20% | ~482 |
 | Clearing The Room | 0.20% | ~482 |
+| Path To Enlightenment | 0.20% | ~482 |
 | Decisions, Decisions | 0.20% | ~482 |
 | Fragile Mortality | 0.20% | ~482 |
 | Snake Sneak | 0.20% | ~482 |
@@ -112,7 +113,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Not What I Meant | 0.10% | ~241 |
 | A Rock And A Hard Place | 0.10% | ~241 |
 | Illuminate, Annihilate | 0.10% | ~241 |
-| Path To Enlightenment | 0.10% | ~241 |
 | Never Too Many Hats | 0.10% | ~241 |
 | Master of Strategy | 0.10% | ~241 |
 | No Mercy | 0.10% | ~241 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,833 (Ranked 64)  
+Progressed: 240,834 (Ranked 64)  
 Completed: 293 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 293 (0.12%) (Ranked 283)
 | 2023-12-07 | 240,750 | 292 |
 | 2023-12-08 | 240,784 | 292 |
 | 2023-12-09 | 240,828 | 293 |
-| 2023-12-10 | 240,833 | 293 |
+| 2023-12-10 | 240,834 | 293 |
 ## Awards
 Max (Quickly Understood Controls): 1,506  (Ranked 134)  
 Sum: 11,720 (Ranked 85)  

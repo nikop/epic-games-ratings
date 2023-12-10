@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 19,
+  "Ranking_EOS_NewPlayers": 20,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -16388,10 +16388,10 @@
       "Count": 14971
     }
   ],
-  "EOS_Progressed": 973555,
+  "EOS_Progressed": 973571,
   "EOS_Completed": 2873,
-  "EOS_NewPlayers": 5491,
-  "EOS_NewCompleters": 37,
+  "EOS_NewPlayers": 5442,
+  "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -42978,6 +42978,11 @@
       "Time": "2023-12-10T04:04:34.8887919+00:00",
       "NumProgressed": 973555,
       "NumCompleted": 2873
+    },
+    {
+      "Time": "2023-12-10T05:05:20.3064207+00:00",
+      "NumProgressed": 973571,
+      "NumCompleted": 2873
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -43014,7 +43019,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38942
+      "UsersEstimate": 38943
     },
     {
       "ID": "Denied",
@@ -43022,7 +43027,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48678
+      "UsersEstimate": 48679
     },
     {
       "ID": "FollowingTheRiver",
@@ -43062,7 +43067,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68149
+      "UsersEstimate": 68150
     },
     {
       "ID": "Gunslinger",
@@ -43206,7 +43211,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58413
+      "UsersEstimate": 58414
     },
     {
       "ID": "TheHermit",
@@ -43230,7 +43235,7 @@
       "Name": "The Lovers",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48678
+      "UsersEstimate": 48679
     },
     {
       "ID": "TheStar",
@@ -43286,7 +43291,7 @@
       "Name": "True Soldier",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 38942
+      "UsersEstimate": 38943
     },
     {
       "ID": "TrueWarrior",
@@ -43318,7 +43323,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116827
+      "UsersEstimate": 116829
     },
     {
       "ID": "YipMan",
@@ -43430,7 +43435,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3065
+      "UsersEstimate": 3066
     },
     {
       "ID": "UltimateSurvivor",
@@ -43446,7 +43451,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3065
+      "UsersEstimate": 3066
     },
     {
       "ID": "HydraIsDead",
@@ -43462,7 +43467,7 @@
       "Name": "Arachnophobia",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3065
+      "UsersEstimate": 3066
     },
     {
       "ID": "KingOfTheCups",
@@ -43494,7 +43499,7 @@
       "Name": "King of Wands",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "TheTower",
@@ -43525,21 +43530,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 973555,
+      "Progressed": 973571,
       "Completed": 2873
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 102178,
-      "Completed": 10331
+      "Progressed": 102194,
+      "Completed": 10332
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-09T23:03:35.6134025+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:04:34.8887916+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:05:20.3064203+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:22.348953+00:00",
-  "LastUpdate_Ratings": "2023-12-10T04:02:59.9694718+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:04:34.8889433+00:00"
+  "LastUpdate_Ratings": "2023-12-10T05:03:01.5807093+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:05:20.3066152+00:00"
 }

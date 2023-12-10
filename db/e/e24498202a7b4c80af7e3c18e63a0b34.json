@@ -6,7 +6,7 @@
   "Ranking_Popularity": 559,
   "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
@@ -139,11 +139,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7226,
+  "EOS_Progressed": 7227,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.6,
+  "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
     {
       "Time": "2023-09-14T16:03:29.9033985+00:00",
@@ -6854,6 +6854,11 @@
       "Time": "2023-12-10T02:30:20.4304225+00:00",
       "NumProgressed": 7226,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-10T05:06:27.9758738+00:00",
+      "NumProgressed": 7227,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -6882,7 +6887,7 @@
       "Name": "Brand New Ride",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4697
+      "UsersEstimate": 4698
     },
     {
       "ID": "achievement_01_04",
@@ -6890,7 +6895,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5347
+      "UsersEstimate": 5348
     },
     {
       "ID": "achievement_01_05",
@@ -6930,7 +6935,7 @@
       "Name": "Right Foot",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 3179
+      "UsersEstimate": 3180
     },
     {
       "ID": "achievement_01_10",
@@ -6938,7 +6943,7 @@
       "Name": "Beat the Clock",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 3974
+      "UsersEstimate": 3975
     },
     {
       "ID": "achievement_02_01",
@@ -7106,7 +7111,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3468
+      "UsersEstimate": 3469
     },
     {
       "ID": "achievement_04_03",
@@ -7146,7 +7151,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3685
+      "UsersEstimate": 3686
     },
     {
       "ID": "achievement_04_08",
@@ -7154,7 +7159,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6214
+      "UsersEstimate": 6215
     },
     {
       "ID": "achievement_04_09",
@@ -7169,7 +7174,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7226,
+      "Progressed": 7227,
       "Completed": 43
     }
   ],
@@ -7177,8 +7182,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-30T01:44:39.305196+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:05:22.6183508+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:06:27.9758736+00:00",
   "LastUpdate_AppInfo": "2023-12-07T22:57:02.7581961+00:00",
-  "LastUpdate_Ratings": "2023-12-10T03:58:23.2614818+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:05:22.6183968+00:00"
+  "LastUpdate_Ratings": "2023-12-10T04:59:03.2605095+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:06:27.9759302+00:00"
 }

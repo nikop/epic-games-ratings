@@ -8732,9 +8732,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477426,
+  "EOS_Progressed": 477427,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32347,6 +32347,11 @@
       "Time": "2023-12-10T04:05:40.40193+00:00",
       "NumProgressed": 477426,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-10T05:06:52.7944158+00:00",
+      "NumProgressed": 477427,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -32438,7 +32443,7 @@
       "Name": "Top Form",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 81162
+      "UsersEstimate": 81163
     },
     {
       "ID": "achievement_3_players_in_team_of_the_year",
@@ -32542,7 +32547,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238713
+      "UsersEstimate": 238714
     },
     {
       "ID": "achievement_club_world_cup",
@@ -32646,7 +32651,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 133679
+      "UsersEstimate": 133680
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -32790,7 +32795,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 152776
+      "UsersEstimate": 152777
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -32862,7 +32867,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 152776
+      "UsersEstimate": 152777
     },
     {
       "ID": "achievement_rushed_signing",
@@ -32894,7 +32899,7 @@
       "Name": "Cash To Burn",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 81162
+      "UsersEstimate": 81163
     },
     {
       "ID": "achievement_sell_player",
@@ -32902,7 +32907,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229164
+      "UsersEstimate": 229165
     },
     {
       "ID": "achievement_signed_a_player",
@@ -32910,7 +32915,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238713
+      "UsersEstimate": 238714
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -32942,7 +32947,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 119356
+      "UsersEstimate": 119357
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -32990,7 +32995,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238713
+      "UsersEstimate": 238714
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -33014,7 +33019,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 62065
+      "UsersEstimate": 62066
     },
     {
       "ID": "achievement_won_world_cup",
@@ -33141,15 +33146,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477426,
+      "Progressed": 477427,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-10T01:50:55.8257919+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:05:40.4019296+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:06:52.7944153+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.1665984+00:00",
-  "LastUpdate_Ratings": "2023-12-10T03:59:04.5291051+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:05:40.4021+00:00"
+  "LastUpdate_Ratings": "2023-12-10T05:00:05.7377011+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:06:52.7945876+00:00"
 }

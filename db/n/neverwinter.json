@@ -4,7 +4,7 @@
   "ProductSlug": "neverwinter",
   "Ranking_Rating": 848,
   "Ranking_Popularity": 175,
-  "Ranking_PopularitySum": 200,
+  "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 453,
@@ -3274,6 +3274,6 @@
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
   "LastChanged": "2023-12-09T17:59:46.142257+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:32.6874195+00:00",
-  "LastUpdate_Ratings": "2023-12-10T03:59:46.1937156+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:08:36.0797403+00:00"
+  "LastUpdate_Ratings": "2023-12-10T05:01:10.8291295+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:08:38.8777618+00:00"
 }

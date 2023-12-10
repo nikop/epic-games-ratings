@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 89.00% | ~1,460 |
-| Off to a good start | 66.00% | ~1,082 |
-| Do... or do not. There is no try | 51.00% | ~836 |
+| Off to a good start | 66.00% | ~1,083 |
+| Do... or do not. There is no try | 51.00% | ~837 |
 | A good blaster at your side | 30.00% | ~492 |
 | I suggest a new strategy | 19.00% | ~312 |
 | Scrap collector | 18.00% | ~295 |
@@ -35,9 +35,9 @@
 | Don't underestimate the Force | 4.00% | ~66 |
 | I've been waiting for you | 3.00% | ~49 |
 | When 900 years old you reach... | 3.00% | ~49 |
-| Determined | 3.00% | ~49 |
 | Your journey has only started | 3.00% | ~49 |
 | The Force is strong with this one | 2.00% | ~33 |
+| Determined | 2.00% | ~33 |
 | Precision shot | 2.00% | ~33 |
 | This is a new day, a new beginning | 2.00% | ~33 |
 | City in the Clouds | 2.00% | ~33 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,640 (Ranked 240)  
+Progressed: 1,641 (Ranked 240)  
 Completed: 1 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 1 (0.06%) (Ranked 313)
 | 2023-12-07 | 1,604 | 1 |
 | 2023-12-08 | 1,621 | 1 |
 | 2023-12-09 | 1,636 | 1 |
-| 2023-12-10 | 1,640 | 1 |
+| 2023-12-10 | 1,641 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -739,9 +739,9 @@
       "ID": "ACH_GUEST_OF_HONOR",
       "SetID": "8h8m55b",
       "Name": "Guest of Honor",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_HARDBOILED_ADVICE",
@@ -963,9 +963,9 @@
       "ID": "ACH_WISTFUL_NIGHT",
       "SetID": "8h8m55b",
       "Name": "Wistful Nights",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_WORK_WOES",
@@ -994,8 +994,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:05:44.4749988+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:06:58.5623019+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.1388786+00:00",
-  "LastUpdate_Ratings": "2023-12-10T03:57:44.5704173+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:05:44.4750621+00:00"
+  "LastUpdate_Ratings": "2023-12-10T04:58:04.9238864+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:06:58.5623365+00:00"
 }

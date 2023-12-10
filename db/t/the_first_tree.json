@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38829,
+  "EOS_Progressed": 38830,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20581,6 +20581,11 @@
       "Time": "2023-12-10T04:08:17.3567709+00:00",
       "NumProgressed": 38829,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-12-10T05:08:12.0344782+00:00",
+      "NumProgressed": 38830,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 14,
@@ -20592,7 +20597,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "150stars",
@@ -20680,7 +20685,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 29898
+      "UsersEstimate": 29899
     },
     {
       "ID": "roots",
@@ -20703,15 +20708,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 38829,
+      "Progressed": 38830,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:08:17.3567706+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:08:12.0344778+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:18.6627904+00:00",
-  "LastUpdate_Ratings": "2023-12-10T03:57:04.1402131+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:08:17.3568662+00:00"
+  "LastUpdate_Ratings": "2023-12-10T04:57:02.5667771+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:08:12.0346019+00:00"
 }

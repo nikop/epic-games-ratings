@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1309,
+  "EOS_Progressed": 1322,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1307,
+  "EOS_NewPlayers": 1320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -342,6 +342,11 @@
       "Time": "2023-12-10T04:09:13.3081869+00:00",
       "NumProgressed": 1309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T05:09:31.2525833+00:00",
+      "NumProgressed": 1322,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -354,15 +359,15 @@
       "Name": "Conspiracy",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 615
+      "UsersEstimate": 621
     },
     {
       "ID": "03_TheStolenStar",
       "SetID": "37a94m8",
       "Name": "Stolen Star",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 106
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -450,7 +455,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "15_Pentakill",
@@ -458,7 +463,7 @@
       "Name": "Pentakill",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "16_TheRise",
@@ -482,7 +487,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "19_TheVoidWolf",
@@ -514,7 +519,7 @@
       "Name": "Perfect Timing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "23_DynastyRestored",
@@ -562,7 +567,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -570,7 +575,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 576
+      "UsersEstimate": 582
     },
     {
       "ID": "30_The GreatestExploration",
@@ -586,7 +591,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "32_AviationSaviour",
@@ -602,15 +607,15 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "34_CuriosityIsNotAVice",
       "SetID": "37a94m8",
       "Name": "Curiosity Is Not a Vice",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -706,7 +711,7 @@
       "Name": "A Spark",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 172
     },
     {
       "ID": "47_AFlame",
@@ -760,9 +765,9 @@
       "ID": "53_GardensOfMadness",
       "SetID": "37a94m8",
       "Name": "Enraged Dragon",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -873,14 +878,14 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 1309,
+      "Progressed": 1322,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:09:13.3081866+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:09:31.2525828+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-10T03:58:54.8932098+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:09:13.3082291+00:00"
+  "LastUpdate_Ratings": "2023-12-10T04:59:51.1423614+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:09:31.2526342+00:00"
 }

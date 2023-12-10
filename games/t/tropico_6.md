@@ -6,26 +6,26 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,707 |
-| Un-Lonely Island | 46.00% | ~2,887 |
-| The Beginning of a Servantship | 45.00% | ~2,824 |
-| Trade Is My Trait | 37.00% | ~2,322 |
-| Number 18 | 24.00% | ~1,506 |
-| We Don't Have Time For That | 19.00% | ~1,192 |
+| Just One...More...Term... | 75.00% | ~4,709 |
+| Un-Lonely Island | 46.00% | ~2,888 |
+| The Beginning of a Servantship | 45.00% | ~2,826 |
+| Trade Is My Trait | 37.00% | ~2,323 |
+| Number 18 | 24.00% | ~1,507 |
+| We Don't Have Time For That | 19.00% | ~1,193 |
 | The Governator | 17.00% | ~1,067 |
-| The Legend of Langostino | 16.00% | ~1,004 |
-| Caribbean Comrade | 15.00% | ~941 |
-| The Dreamer of Dreams | 15.00% | ~941 |
-| Go Sovereigns! | 11.00% | ~690 |
-| For Science! | 11.00% | ~690 |
+| The Legend of Langostino | 16.00% | ~1,005 |
+| Caribbean Comrade | 15.00% | ~942 |
+| The Dreamer of Dreams | 15.00% | ~942 |
+| Go Sovereigns! | 11.00% | ~691 |
+| For Science! | 11.00% | ~691 |
 | Happy Ending? | 10.00% | ~628 |
 | Of Seals And Men | 9.00% | ~565 |
 | Shackadelic | 9.00% | ~565 |
 | Double Trouble | 8.00% | ~502 |
 | Firestarter | 8.00% | ~502 |
-| I Owe You Nothing | 7.00% | ~439 |
-| Make Tropico Great Again! | 7.00% | ~439 |
-| French Connection | 7.00% | ~439 |
+| I Owe You Nothing | 7.00% | ~440 |
+| Make Tropico Great Again! | 7.00% | ~440 |
+| French Connection | 7.00% | ~440 |
 | Don't Panic! | 6.00% | ~377 |
 | Beware The Betman | 6.00% | ~377 |
 | Viva Tropico! | 5.00% | ~314 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~50 |
 | My Ways | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,276 (Ranked 185)  
+Progressed: 6,279 (Ranked 186)  
 Completed: 2 (0.03%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,6 +281,7 @@ Completed: 2 (0.03%) (Ranked 333)
 | 2023-12-07 | 6,251 | 2 |
 | 2023-12-08 | 6,260 | 2 |
 | 2023-12-09 | 6,276 | 2 |
+| 2023-12-10 | 6,279 | 2 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 360)  
 Sum: 739 (Ranked 293)  

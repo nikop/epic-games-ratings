@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 776,
+  "EOS_Progressed": 777,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1963,6 +1963,11 @@
       "Time": "2023-12-10T02:01:09.1582439+00:00",
       "NumProgressed": 776,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T05:10:16.180508+00:00",
+      "NumProgressed": 777,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1991,7 +1996,7 @@
       "Name": "Gravel Guru",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_12",
@@ -2015,7 +2020,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "achievement_15",
@@ -2039,7 +2044,7 @@
       "Name": "Your first time?",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "achievement_18",
@@ -2159,7 +2164,7 @@
       "Name": "NEW PB!",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_8",
@@ -2182,7 +2187,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 776,
+      "Progressed": 777,
       "Completed": 0
     }
   ],
@@ -2190,8 +2195,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-09T18:58:37.9229412+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:09:45.6689569+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:10:16.1805075+00:00",
   "LastUpdate_AppInfo": "2023-12-05T21:56:59.3509515+00:00",
-  "LastUpdate_Ratings": "2023-12-10T03:58:42.0839854+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:09:45.6689763+00:00"
+  "LastUpdate_Ratings": "2023-12-10T04:59:32.1602945+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:10:16.1805345+00:00"
 }

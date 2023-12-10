@@ -4601,9 +4601,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77845,
+  "EOS_Progressed": 77847,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25531,6 +25531,11 @@
       "Time": "2023-12-10T01:57:34.6046174+00:00",
       "NumProgressed": 77845,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-10T05:06:38.4032292+00:00",
+      "NumProgressed": 77847,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25542,7 +25547,7 @@
       "Name": "Hammer and Icicle",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -25566,7 +25571,7 @@
       "Name": "Renewable Enemy Source",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -25574,7 +25579,7 @@
       "Name": "Crime Is a Terrible Thing to Waste",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "AC1_HA_STARLABS",
@@ -25606,7 +25611,7 @@
       "Name": "Showdown Sovereign",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ALL_TRAINING_ROOMS",
@@ -25622,7 +25627,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9341
+      "UsersEstimate": 9342
     },
     {
       "ID": "APPLY_STATUS",
@@ -25646,7 +25651,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16347
+      "UsersEstimate": 16348
     },
     {
       "ID": "CLAYFACE_2",
@@ -25662,7 +25667,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10898
+      "UsersEstimate": 10899
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -25718,7 +25723,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9341
+      "UsersEstimate": 9342
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -25758,7 +25763,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7784
+      "UsersEstimate": 7785
     },
     {
       "ID": "FREEZE_1",
@@ -25790,7 +25795,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10898
+      "UsersEstimate": 10899
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -25846,7 +25851,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26467
+      "UsersEstimate": 26468
     },
     {
       "ID": "HARLEY_2",
@@ -25854,7 +25859,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19461
+      "UsersEstimate": 19462
     },
     {
       "ID": "HARLEY_3",
@@ -25870,7 +25875,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12455
+      "UsersEstimate": 12456
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -25886,7 +25891,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38922
+      "UsersEstimate": 38924
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25918,7 +25923,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 21018
+      "UsersEstimate": 21019
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -25934,7 +25939,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25689
+      "UsersEstimate": 25690
     },
     {
       "ID": "MYSTERY_02",
@@ -25982,7 +25987,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10898
+      "UsersEstimate": 10899
     },
     {
       "ID": "MYSTERY_08",
@@ -25990,7 +25995,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9341
+      "UsersEstimate": 9342
     },
     {
       "ID": "SECRET_CACHE",
@@ -26029,13 +26034,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77845,
+      "Progressed": 77847,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48125,
+      "Progressed": 48127,
       "Completed": 2675
     }
   ],
@@ -26043,8 +26048,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-10T02:57:07.7320951+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:05:30.3188469+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:06:38.4032288+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-10T03:57:15.7483245+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:05:30.3189934+00:00"
+  "LastUpdate_Ratings": "2023-12-10T04:57:20.477766+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:06:38.403386+00:00"
 }

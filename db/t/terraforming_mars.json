@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3301,9 +3301,9 @@
       "Count": 257
     }
   ],
-  "EOS_Progressed": 85612,
+  "EOS_Progressed": 85614,
   "EOS_Completed": 173,
-  "EOS_NewPlayers": 822,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -29401,6 +29401,11 @@
       "Time": "2023-12-10T04:05:41.9073049+00:00",
       "NumProgressed": 85612,
       "NumCompleted": 173
+    },
+    {
+      "Time": "2023-12-10T05:06:54.8662985+00:00",
+      "NumProgressed": 85614,
+      "NumCompleted": 173
     }
   ],
   "TotalAchievements": 30,
@@ -29428,7 +29433,7 @@
       "Name": "Terraformer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3424
+      "UsersEstimate": 3425
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -29444,7 +29449,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 15410
+      "UsersEstimate": 15411
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -29452,7 +29457,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9417
+      "UsersEstimate": 9418
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -29468,7 +29473,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9417
+      "UsersEstimate": 9418
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -29484,7 +29489,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 16266
+      "UsersEstimate": 16267
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -29492,7 +29497,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 31676
+      "UsersEstimate": 31677
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -29500,7 +29505,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 23971
+      "UsersEstimate": 23972
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -29532,7 +29537,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 16266
+      "UsersEstimate": 16267
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -29548,7 +29553,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 22259
+      "UsersEstimate": 22260
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -29556,7 +29561,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 16266
+      "UsersEstimate": 16267
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -29572,7 +29577,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 10273
+      "UsersEstimate": 10274
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -29588,7 +29593,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 29964
+      "UsersEstimate": 29965
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -29612,7 +29617,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 9417
+      "UsersEstimate": 9418
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -29628,7 +29633,7 @@
       "Name": "Grand champion",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9417
+      "UsersEstimate": 9418
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -29636,7 +29641,7 @@
       "Name": "Master",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 15410
+      "UsersEstimate": 15411
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -29651,15 +29656,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 85612,
+      "Progressed": 85614,
       "Completed": 173
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-09T18:00:05.6834254+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:05:41.9073046+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:06:54.8662981+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:46.6200613+00:00",
-  "LastUpdate_Ratings": "2023-12-10T04:00:04.5559502+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:05:41.9074384+00:00"
+  "LastUpdate_Ratings": "2023-12-10T05:01:40.105655+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:06:54.8664258+00:00"
 }

@@ -1,21 +1,21 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 387)  
+Rating: 4.61 (Ranked 386)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~50,487 |
-| Get Busy Living | 16.00% | ~32,312 |
-| Samuel Norton | 9.00% | ~18,175 |
-| Spare The Rod | 5.00% | ~10,097 |
-| Don't Put Me In The Dark | 3.00% | ~6,058 |
-| Wait and Hope | 3.00% | ~6,058 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,058 |
+| Stone Walls | 25.00% | ~50,489 |
+| Get Busy Living | 16.00% | ~32,313 |
+| Samuel Norton | 9.00% | ~18,176 |
+| Spare The Rod | 5.00% | ~10,098 |
+| Don't Put Me In The Dark | 3.00% | ~6,059 |
+| Wait and Hope | 3.00% | ~6,059 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,059 |
 | Throw The Book At Them | 2.00% | ~4,039 |
 | Iron Bars | 2.00% | ~4,039 |
-| D.B. Cooper | 1.00% | ~2,019 |
+| D.B. Cooper | 1.00% | ~2,020 |
 | Reformation | 0.60% | ~1,212 |
 | Crowd Control | 0.50% | ~1,010 |
 | Freedom | 0.40% | ~808 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~202 |
 | ... It's What You Can Prove | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201,949 (Ranked 75)  
+Progressed: 201,957 (Ranked 75)  
 Completed: 11 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,14 +257,14 @@ Completed: 11 (0.01%) (Ranked 348)
 | 2023-12-07 | 201,246 | 11 |
 | 2023-12-08 | 201,547 | 11 |
 | 2023-12-09 | 201,909 | 11 |
-| 2023-12-10 | 201,949 | 11 |
+| 2023-12-10 | 201,957 | 11 |
 ## Awards
-Max (Great for Beginners): 593  (Ranked 200)  
-Sum: 4,574 (Ranked 148)  
+Max (Great for Beginners): 598  (Ranked 200)  
+Sum: 4,579 (Ranked 148)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 593 |
+| This game is Great for Beginners | 598 |
 | This game is Extremely Fun | 582 |
 | This game is Highly Recommended | 539 |
 | This game has Quickly Understood Controls | 539 |
@@ -599,3 +599,4 @@ Diff (max vs sum): 52
 | 2023-12-07 | 4.61 | - | 593 | 4,559 |
 | 2023-12-08 | 4.61 | - | 593 | 4,565 |
 | 2023-12-09 | 4.61 | - | 593 | 4,574 |
+| 2023-12-10 | 4.61 | - | 598 | 4,579 |

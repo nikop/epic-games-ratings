@@ -7,7 +7,7 @@ Number of Ratings: 111  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 61.00% | ~1,896 |
-| Keeping it classy | 29.00% | ~901 |
+| Keeping it classy | 29.00% | ~902 |
 | Welcome to the family | 23.00% | ~715 |
 | The finer things in life | 20.00% | ~622 |
 | Backpacker | 15.00% | ~466 |
@@ -25,14 +25,14 @@ Number of Ratings: 111  (23.09.2022)
 | Tight lipslides | 8.00% | ~249 |
 | Fulfilled the dream | 7.00% | ~218 |
 | G'Day Mate! | 7.00% | ~218 |
-| Commence the Hijinx! | 6.00% | ~186 |
-| DIY Boss | 6.00% | ~186 |
-| Globetrotter | 6.00% | ~186 |
-| Laid back | 6.00% | ~186 |
-| NAHELL! | 6.00% | ~186 |
-| Purple passion | 6.00% | ~186 |
-| Squad goals | 6.00% | ~186 |
-| Sup widdit big dog! | 6.00% | ~186 |
+| Commence the Hijinx! | 6.00% | ~187 |
+| DIY Boss | 6.00% | ~187 |
+| Globetrotter | 6.00% | ~187 |
+| Laid back | 6.00% | ~187 |
+| NAHELL! | 6.00% | ~187 |
+| Purple passion | 6.00% | ~187 |
+| Squad goals | 6.00% | ~187 |
+| Sup widdit big dog! | 6.00% | ~187 |
 | Cops called! | 5.00% | ~155 |
 | Lines for days | 5.00% | ~155 |
 | Manny Destroys All | 5.00% | ~155 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,108 (Ranked 213)  
+Progressed: 3,109 (Ranked 213)  
 Completed: 2 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,6 +264,7 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-06 | 3,105 | 2 |
 | 2023-12-07 | 3,106 | 2 |
 | 2023-12-09 | 3,108 | 2 |
+| 2023-12-10 | 3,109 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 417)  
 Sum: 560 (Ranked 320)  

@@ -1417,10 +1417,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 496,
       "NumberOfAwardsMax": 245
+    },
+    {
+      "Time": "2023-12-10T05:02:45.7220673+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 497,
+      "NumberOfAwardsMax": 245
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 496,
+  "NumberOfAwards": 497,
   "NumberOfAwardsMax": 245,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1446,7 +1452,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1479,9 +1485,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 242046,
+  "EOS_Progressed": 242049,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1093,
+  "EOS_NewPlayers": 1091,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21704,6 +21710,11 @@
       "Time": "2023-12-10T04:09:25.7659161+00:00",
       "NumProgressed": 242046,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-10T05:09:49.0526276+00:00",
+      "NumProgressed": 242049,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -22163,7 +22174,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87137
+      "UsersEstimate": 87138
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -22418,21 +22429,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 242046,
+      "Progressed": 242049,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 242046,
+      "Progressed": 242049,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-12-10T00:04:58.4556484+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:09:25.7659159+00:00",
+  "LastChanged": "2023-12-10T05:02:45.7220672+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:09:49.052627+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.1177484+00:00",
-  "LastUpdate_Ratings": "2023-12-10T04:02:49.6338411+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:09:25.7660917+00:00"
+  "LastUpdate_Ratings": "2023-12-10T05:02:45.7220676+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:09:49.0527707+00:00"
 }

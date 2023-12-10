@@ -11769,9 +11769,9 @@
       "Count": 849
     }
   ],
-  "EOS_Progressed": 304158,
+  "EOS_Progressed": 304160,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36819,6 +36819,11 @@
       "Time": "2023-12-10T03:04:23.8929517+00:00",
       "NumProgressed": 304158,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-10T05:05:12.8225639+00:00",
+      "NumProgressed": 304160,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -36830,7 +36835,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48665
+      "UsersEstimate": 48666
     },
     {
       "ID": "PFA_10",
@@ -36838,7 +36843,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33457
+      "UsersEstimate": 33458
     },
     {
       "ID": "PFA_11",
@@ -36846,7 +36851,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33457
+      "UsersEstimate": 33458
     },
     {
       "ID": "PFA_12",
@@ -36862,7 +36867,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33457
+      "UsersEstimate": 33458
     },
     {
       "ID": "PFA_14",
@@ -36870,7 +36875,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 18249
+      "UsersEstimate": 18250
     },
     {
       "ID": "PFA_15",
@@ -36934,7 +36939,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33457
+      "UsersEstimate": 33458
     },
     {
       "ID": "PFA_22",
@@ -36966,7 +36971,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18249
+      "UsersEstimate": 18250
     },
     {
       "ID": "PFA_26",
@@ -36998,7 +37003,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 18249
+      "UsersEstimate": 18250
     },
     {
       "ID": "PFA_3",
@@ -37189,7 +37194,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304158,
+      "Progressed": 304160,
       "Completed": 525
     }
   ],
@@ -37197,8 +37202,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-10T02:23:39.5990351+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:04:29.4174958+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:05:12.8225635+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-10T03:58:36.4831026+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:04:29.4176162+00:00"
+  "LastUpdate_Ratings": "2023-12-10T04:59:23.4241019+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:05:12.8227374+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 27,
+  "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -395,9 +395,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 326625,
+  "EOS_Progressed": 326646,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3793,
+  "EOS_NewPlayers": 3781,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9035,6 +9035,11 @@
       "Time": "2023-12-10T04:04:42.9285858+00:00",
       "NumProgressed": 326625,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-10T05:05:31.8290987+00:00",
+      "NumProgressed": 326646,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9055,7 +9060,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6532
+      "UsersEstimate": 6533
     },
     {
       "ID": "S03_OTWA",
@@ -9063,7 +9068,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "S04_BRDC",
@@ -9087,7 +9092,7 @@
       "Name": "They tricked me",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "S07_INWA",
@@ -9095,7 +9100,7 @@
       "Name": "We need to talk",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "S08_MNSA",
@@ -9103,7 +9108,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "S09_MNSE",
@@ -9111,7 +9116,7 @@
       "Name": "Here to stay",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "S10_GRSB",
@@ -9215,7 +9220,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "S23_ETHEREAL",
@@ -9271,7 +9276,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "S30_DIAMOND",
@@ -9366,7 +9371,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 326625,
+      "Progressed": 326646,
       "Completed": 5
     }
   ],
@@ -9374,8 +9379,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-06T06:00:13.3250354+00:00",
-  "LastChanged_Achievements": "2023-12-10T04:04:42.9285855+00:00",
+  "LastChanged_Achievements": "2023-12-10T05:05:31.8290983+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-10T03:58:51.4100855+00:00",
-  "LastUpdate_Achievements": "2023-12-10T04:04:42.9286779+00:00"
+  "LastUpdate_Ratings": "2023-12-10T04:59:46.1025593+00:00",
+  "LastUpdate_Achievements": "2023-12-10T05:05:31.8291761+00:00"
 }
