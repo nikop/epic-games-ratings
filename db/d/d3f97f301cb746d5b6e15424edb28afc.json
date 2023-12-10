@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 1193,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3188,9 +3188,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 859
+      "UsersEstimate": 871
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -3733,8 +3733,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-10T11:05:38.4238482+00:00",
+  "LastChanged_Achievements": "2023-12-10T12:05:44.3997935+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-10T10:58:38.9529362+00:00",
-  "LastUpdate_Achievements": "2023-12-10T11:05:38.4239487+00:00"
+  "LastUpdate_Ratings": "2023-12-10T11:58:48.9207076+00:00",
+  "LastUpdate_Achievements": "2023-12-10T12:05:44.3998941+00:00"
 }

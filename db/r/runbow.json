@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252036,
+  "EOS_Progressed": 252038,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20952,6 +20952,11 @@
       "Time": "2023-12-10T11:09:32.7724667+00:00",
       "NumProgressed": 252036,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-10T12:09:46.4712325+00:00",
+      "NumProgressed": 252038,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21035,7 +21040,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37805
+      "UsersEstimate": 37806
     },
     {
       "ID": "clearCut",
@@ -21059,7 +21064,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45366
+      "UsersEstimate": 45367
     },
     {
       "ID": "curator",
@@ -21067,7 +21072,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50407
+      "UsersEstimate": 50408
     },
     {
       "ID": "didYourTime",
@@ -21139,7 +21144,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133579
+      "UsersEstimate": 133580
     },
     {
       "ID": "indegestible",
@@ -21163,7 +21168,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65529
+      "UsersEstimate": 65530
     },
     {
       "ID": "justABit",
@@ -21203,7 +21208,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126018
+      "UsersEstimate": 126019
     },
     {
       "ID": "notScared",
@@ -21330,7 +21335,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252036,
+      "Progressed": 252038,
       "Completed": 6
     }
   ],
@@ -21338,8 +21343,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-10T11:09:32.7724663+00:00",
+  "LastChanged_Achievements": "2023-12-10T12:09:46.4712319+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.3008765+00:00",
-  "LastUpdate_Ratings": "2023-12-10T10:57:25.5253538+00:00",
-  "LastUpdate_Achievements": "2023-12-10T11:09:32.7726019+00:00"
+  "LastUpdate_Ratings": "2023-12-10T11:57:39.0344548+00:00",
+  "LastUpdate_Achievements": "2023-12-10T12:09:46.4713693+00:00"
 }

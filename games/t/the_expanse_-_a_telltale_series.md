@@ -19,9 +19,9 @@ Rating: 4.55 (Ranked 511)
 | Spore Taste | 6.00% | ~962 |
 | Call it Even | 6.00% | ~962 |
 | Madame Undersecretary | 6.00% | ~119 |
-| Data Archivist | 5.00% | ~801 |
-| Drug Gifter | 5.00% | ~801 |
-| Heal Thy Medic | 5.00% | ~801 |
+| Data Archivist | 5.00% | ~802 |
+| Drug Gifter | 5.00% | ~802 |
+| Heal Thy Medic | 5.00% | ~802 |
 | Keep Arjun in Check | 5.00% | ~99 |
 | Thorston Mayer | 4.00% | ~641 |
 | Khan's Revenge | 4.00% | ~641 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 511)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,028 (Ranked 152)  
+Progressed: 16,030 (Ranked 152)  
 Completed: 42 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 42 (0.26%) (Ranked 249)
 | 2023-12-07 | 15,968 | 41 |
 | 2023-12-08 | 15,988 | 41 |
 | 2023-12-09 | 16,020 | 42 |
-| 2023-12-10 | 16,028 | 42 |
+| 2023-12-10 | 16,030 | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9510,9 +9510,9 @@
       "Count": 983
     }
   ],
-  "EOS_Progressed": 125998,
+  "EOS_Progressed": 126004,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34315,6 +34315,11 @@
       "Time": "2023-12-10T11:08:44.9193642+00:00",
       "NumProgressed": 125998,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-10T12:08:58.9646882+00:00",
+      "NumProgressed": 126004,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34660,9 +34665,9 @@
       "ID": "driving_distance_hard",
       "SetID": "64l4lke",
       "Name": "20,000 Leagues Above the Sea",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 126
     },
     {
       "ID": "hero_loss_memoried",
@@ -34957,21 +34962,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 125998,
+      "Progressed": 126004,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 867,
+      "Progressed": 873,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-10T02:22:32.4482053+00:00",
-  "LastChanged_Achievements": "2023-12-10T11:08:44.9193639+00:00",
+  "LastChanged_Achievements": "2023-12-10T12:08:58.9646878+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-10T10:57:42.4218453+00:00",
-  "LastUpdate_Achievements": "2023-12-10T11:08:44.9195596+00:00"
+  "LastUpdate_Ratings": "2023-12-10T11:57:55.5897399+00:00",
+  "LastUpdate_Achievements": "2023-12-10T12:08:58.9648616+00:00"
 }

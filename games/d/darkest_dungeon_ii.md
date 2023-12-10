@@ -47,6 +47,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Harvest Festival | 0.10% | ~126 |
 | To Grandmother's House | 0.10% | ~126 |
 | Ramble On | 0.10% | ~126 |
+| 20,000 Leagues Above the Sea | 0.10% | ~126 |
 | Tears in the Rain | 0.10% | ~126 |
 | Autodidact | 0.10% | ~126 |
 | Shrine of Reflection | 0.10% | ~126 |
@@ -70,7 +71,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Malpractice Assurance | 0.10% | ~1 |
 | This guy... again? | 0.10% | ~1 |
 | No Gravestone Left Unturned | 0.00% | ~0 |
-| 20,000 Leagues Above the Sea | 0.00% | ~0 |
 | Worldly Traveller | 0.00% | ~0 |
 | The Clash | 0.00% | ~0 |
 | Battle Hardened | 0.00% | ~0 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,998 (Ranked 84)  
+Progressed: 126,004 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-07 | 125,791 | 2 |
 | 2023-12-08 | 125,859 | 2 |
 | 2023-12-09 | 125,950 | 2 |
-| 2023-12-10 | 125,998 | 2 |
+| 2023-12-10 | 126,004 | 2 |
 ## Awards
 Max (Character Customization): 7,578  (Ranked 52)  
 Sum: 20,029 (Ranked 59)  

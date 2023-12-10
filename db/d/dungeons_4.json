@@ -3,9 +3,9 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 311,
-  "Ranking_EOS_Completed": 118,
+  "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 540,
-  "EOS_Completed": 14,
+  "EOS_Completed": 15,
   "EOS_NewPlayers": 23,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.59,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 2.78,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -1444,6 +1444,11 @@
       "Time": "2023-12-10T11:03:39.3620795+00:00",
       "NumProgressed": 540,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-10T12:03:45.1335713+00:00",
+      "NumProgressed": 540,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -1486,9 +1491,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 443
+      "UsersEstimate": 448
     },
     {
       "ID": "ach_main02horde_traps",
@@ -1574,9 +1579,9 @@
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 351
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -1590,9 +1595,9 @@
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 270
     },
     {
       "ID": "ach_main07storm_classified",
@@ -1726,17 +1731,17 @@
       "ID": "ach_main12race_completed",
       "SetID": "4hg22ll",
       "Name": "All\u2019s Well That Ends Evil",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 200
     },
     {
       "ID": "ach_main12race_tanosevilness",
       "SetID": "4hg22ll",
       "Name": "Stop Tanos!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 135
     },
     {
       "ID": "ach_main12race_torture",
@@ -1798,17 +1803,17 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 151
     },
     {
       "ID": "ach_main15drill_sabotage",
       "SetID": "4hg22ll",
       "Name": "Sabotage!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 124
     },
     {
       "ID": "ach_main15drill_untouchable",
@@ -1830,9 +1835,9 @@
       "ID": "ach_main16ring_lavalings",
       "SetID": "4hg22ll",
       "Name": "Lavalumps on Ice!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_main16ring_spawners",
@@ -1910,17 +1915,17 @@
       "ID": "ach_main19war_stonedamage",
       "SetID": "4hg22ll",
       "Name": "Hands Off My Stones",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_main20end_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand\u00A0- This Time For Real!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_main20end_notristan",
@@ -1944,13 +1949,13 @@
       "ID": "4hg22ll",
       "IsBase": true,
       "Progressed": 540,
-      "Completed": 14
+      "Completed": 15
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-10T11:03:39.3620792+00:00",
+  "LastChanged_Achievements": "2023-12-10T12:03:45.1335708+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-10T10:58:30.5657498+00:00",
-  "LastUpdate_Achievements": "2023-12-10T11:03:39.3621273+00:00"
+  "LastUpdate_Ratings": "2023-12-10T11:58:40.8569519+00:00",
+  "LastUpdate_Achievements": "2023-12-10T12:03:45.1336215+00:00"
 }

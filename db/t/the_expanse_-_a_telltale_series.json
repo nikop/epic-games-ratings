@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16028,
+  "EOS_Progressed": 16030,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13495,6 +13495,11 @@
       "Time": "2023-12-10T11:04:53.9070457+00:00",
       "NumProgressed": 16028,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-10T12:04:59.774079+00:00",
+      "NumProgressed": 16030,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13531,7 +13536,7 @@
       "Name": "Data Archivist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "13",
@@ -13563,7 +13568,7 @@
       "Name": "Drug Gifter",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "17",
@@ -13627,7 +13632,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "24",
@@ -13786,13 +13791,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16028,
+      "Progressed": 16030,
       "Completed": 42
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1982,
+      "Progressed": 1984,
       "Completed": 851
     }
   ],
@@ -13800,8 +13805,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-09T17:58:45.997893+00:00",
-  "LastChanged_Achievements": "2023-12-10T11:04:53.9070455+00:00",
+  "LastChanged_Achievements": "2023-12-10T12:04:59.7740786+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-10T10:59:14.3490837+00:00",
-  "LastUpdate_Achievements": "2023-12-10T11:04:53.9071202+00:00"
+  "LastUpdate_Ratings": "2023-12-10T11:59:23.5937837+00:00",
+  "LastUpdate_Achievements": "2023-12-10T12:04:59.7741681+00:00"
 }

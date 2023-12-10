@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Safety | 67.00% | ~2 |
 | 13 Years in 69 Minutes | 33.00% | ~1 |
 | Air walker | 33.00% | ~1 |
 | Ball Dropper | 33.00% | ~1 |
@@ -19,7 +20,6 @@
 | LOVE | 33.00% | ~1 |
 | Longest Fall | 33.00% | ~1 |
 | Nostalgia | 33.00% | ~1 |
-| Safety | 33.00% | ~1 |
 | Threading the Needle | 33.00% | ~1 |
 | YOLO | 33.00% | ~1 |
 | kuso | 33.00% | ~1 |

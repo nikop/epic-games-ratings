@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 973,
+  "EOS_Progressed": 974,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3734,6 +3734,11 @@
       "Time": "2023-12-10T07:10:17.7804223+00:00",
       "NumProgressed": 973,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T12:10:04.3988508+00:00",
+      "NumProgressed": 974,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3769,7 +3774,7 @@
       "Name": "Expensive Plane",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "BudgetFlight",
@@ -3905,7 +3910,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "LongDistance",
@@ -3945,7 +3950,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "NoTimeForModernization",
@@ -3953,7 +3958,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "NoWayBack",
@@ -3961,7 +3966,7 @@
       "Name": "No Way Back",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "NotPlanned",
@@ -4080,14 +4085,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 973,
+      "Progressed": 974,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-10T11:09:51.1702815+00:00",
+  "LastChanged_Achievements": "2023-12-10T12:10:04.3988501+00:00",
   "LastUpdate_AppInfo": "2023-12-05T18:57:05.7032742+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:00:23.9244659+00:00",
-  "LastUpdate_Achievements": "2023-12-10T11:09:51.170322+00:00"
+  "LastUpdate_Ratings": "2023-12-10T12:00:31.1577725+00:00",
+  "LastUpdate_Achievements": "2023-12-10T12:10:04.398886+00:00"
 }

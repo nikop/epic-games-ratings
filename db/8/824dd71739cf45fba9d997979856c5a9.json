@@ -4,8 +4,8 @@
   "ProductSlug": "the-ecdysis-9c880c",
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-11-30T08:30:00+00:00",
     "PcReleaseDate": "2023-11-30T08:30:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-03T21:57:07.5762287+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:03:20.2273789+00:00",
+  "LastUpdate_Ratings": "2023-12-10T12:03:24.7417512+00:00",
   "LastUpdate_Achievements": "2023-12-10T11:07:03.8301519+00:00"
 }

@@ -20,7 +20,7 @@
 | Food producer | 1.00% | ~4 |
 | King of fish | 1.00% | ~4 |
 | Metropolurbek | 1.00% | ~4 |
-| Rebel city | 0.70% | ~3 |
+| Rebel city | 1.00% | ~4 |
 | Banking city | 0.50% | ~2 |
 | City crisis | 0.50% | ~2 |
 | I am very happy! | 0.50% | ~2 |

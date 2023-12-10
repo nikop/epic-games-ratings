@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13077,9 +13077,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 472350,
+  "EOS_Progressed": 472390,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4033,
+  "EOS_NewPlayers": 4018,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39957,6 +39957,11 @@
       "Time": "2023-12-10T11:06:19.9913715+00:00",
       "NumProgressed": 472350,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T12:06:25.7276337+00:00",
+      "NumProgressed": 472390,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -41966,9 +41971,9 @@
       "ID": "achievement_seriously",
       "SetID": "8p2n7he",
       "Name": "Seriously?!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 945
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -42630,9 +42635,9 @@
       "ID": "achievement_until_death_do_us_apart",
       "SetID": "8p2n7he",
       "Name": "Until death do us apart",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 1417
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -42871,21 +42876,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 472350,
+      "Progressed": 472390,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 472350,
+      "Progressed": 472390,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-10T02:23:57.9438008+00:00",
-  "LastChanged_Achievements": "2023-12-10T11:06:19.9913711+00:00",
+  "LastChanged_Achievements": "2023-12-10T12:06:25.7276333+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:01.211805+00:00",
-  "LastUpdate_Ratings": "2023-12-10T10:59:21.5458633+00:00",
-  "LastUpdate_Achievements": "2023-12-10T11:06:19.9923982+00:00"
+  "LastUpdate_Ratings": "2023-12-10T11:59:30.5076928+00:00",
+  "LastUpdate_Achievements": "2023-12-10T12:06:25.7287287+00:00"
 }

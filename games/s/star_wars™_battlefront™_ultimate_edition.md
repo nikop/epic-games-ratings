@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,467 |
-| Off to a good start | 66.00% | ~1,088 |
-| Do... or do not. There is no try | 51.00% | ~840 |
-| A good blaster at your side | 30.00% | ~494 |
-| I suggest a new strategy | 19.00% | ~313 |
+| New Recruit | 89.00% | ~1,468 |
+| Off to a good start | 66.00% | ~1,089 |
+| Do... or do not. There is no try | 51.00% | ~842 |
+| A good blaster at your side | 30.00% | ~495 |
+| I suggest a new strategy | 19.00% | ~314 |
 | Scrap collector | 18.00% | ~297 |
 | Great shot, kid! | 18.00% | ~297 |
 | All right, I'll give it a try | 17.00% | ~280 |
-| Shoot first | 15.00% | ~247 |
+| Shoot first | 15.00% | ~248 |
 | The power of the Force | 14.00% | ~231 |
 | Collector | 14.00% | ~231 |
 | Together we can rule the galaxy | 13.00% | ~214 |
@@ -21,7 +21,7 @@
 | Survivor | 9.00% | ~148 |
 | Never tell me the odds! | 8.00% | ~132 |
 | A cunning warrior | 8.00% | ~132 |
-| What's the cargo? | 7.00% | ~115 |
+| What's the cargo? | 7.00% | ~116 |
 | "Gonk? Gonk!" | 6.00% | ~99 |
 | Impressive. Most impressive. | 6.00% | ~99 |
 | Judge me by my size, do you? | 6.00% | ~99 |
@@ -33,9 +33,9 @@
 | Not bad for a little furball | 4.00% | ~66 |
 | Patience you must have | 4.00% | ~66 |
 | Don't underestimate the Force | 4.00% | ~66 |
-| I've been waiting for you | 3.00% | ~49 |
-| When 900 years old you reach... | 3.00% | ~49 |
-| Your journey has only started | 3.00% | ~49 |
+| I've been waiting for you | 3.00% | ~50 |
+| When 900 years old you reach... | 3.00% | ~50 |
+| Your journey has only started | 3.00% | ~50 |
 | The Force is strong with this one | 2.00% | ~33 |
 | Determined | 2.00% | ~33 |
 | Precision shot | 2.00% | ~33 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,648 (Ranked 239)  
+Progressed: 1,650 (Ranked 239)  
 Completed: 1 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 1 (0.06%) (Ranked 313)
 | 2023-12-07 | 1,604 | 1 |
 | 2023-12-08 | 1,621 | 1 |
 | 2023-12-09 | 1,636 | 1 |
-| 2023-12-10 | 1,648 | 1 |
+| 2023-12-10 | 1,650 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

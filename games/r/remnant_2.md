@@ -6,18 +6,18 @@ Rating: 4.75 (Ranked 145)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.80% | ~1,903 |
-| Regicide | 0.80% | ~136 |
-| Master of the Dark Arts | 0.80% | ~136 |
+| Regicide | 0.80% | ~137 |
+| Master of the Dark Arts | 0.80% | ~137 |
 | First of Many | 0.70% | ~1,665 |
 | Not Your Average Trait | 0.60% | ~1,427 |
-| Expanding Horizons | 0.50% | ~1,189 |
-| Gleaming the Cube | 0.50% | ~1,189 |
-| Not So Special Now | 0.50% | ~1,189 |
-| Quest for Survival | 0.50% | ~1,189 |
-| Not a Janitor | 0.50% | ~1,189 |
-| Familiar Face | 0.50% | ~1,189 |
-| Boss'n Up | 0.50% | ~1,189 |
-| Trait Chaser | 0.50% | ~1,189 |
+| Expanding Horizons | 0.50% | ~1,190 |
+| Gleaming the Cube | 0.50% | ~1,190 |
+| Not So Special Now | 0.50% | ~1,190 |
+| Quest for Survival | 0.50% | ~1,190 |
+| Not a Janitor | 0.50% | ~1,190 |
+| Familiar Face | 0.50% | ~1,190 |
+| Boss'n Up | 0.50% | ~1,190 |
+| Trait Chaser | 0.50% | ~1,190 |
 | Am I Seeing This? | 0.40% | ~952 |
 | Power Surge | 0.40% | ~952 |
 | Equal Measures | 0.40% | ~952 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 145)
 | You Shall Pass | 0.20% | ~34 |
 | A Foul Feast | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,887 (Ranked 66)  
+Progressed: 237,909 (Ranked 66)  
 Completed: 575 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,11 +208,11 @@ Completed: 575 (0.24%) (Ranked 251)
 | 2023-12-07 | 236,590 | 567 |
 | 2023-12-08 | 237,044 | 572 |
 | 2023-12-09 | 237,633 | 573 |
-| 2023-12-10 | 237,887 | 575 |
+| 2023-12-10 | 237,909 | 575 |
 ## Awards
 Max (Great Boss Battles): 2,704  (Ranked 102)  
-Sum: 6,727 (Ranked 127)  
-Diff (max vs sum): -25  
+Sum: 6,728 (Ranked 126)  
+Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,704 |
@@ -221,7 +221,7 @@ Diff (max vs sum): -25
 | This game has Challenging Combat | 427 |
 | This game has Amazing Storytelling | 415 |
 | This game is Extremely Fun | 414 |
-| This game is Relaxing | 412 |
+| This game is Relaxing | 413 |
 | This game has Quickly Understood Controls | 408 |
 | This game has Amazing Characters | 408 |
 | This game has Unique Visuals | 357 |
@@ -366,4 +366,4 @@ Diff (max vs sum): -25
 | 2023-12-07 | 4.75 | 2,678 | 6,634 |
 | 2023-12-08 | 4.75 | 2,690 | 6,681 |
 | 2023-12-09 | 4.75 | 2,690 | 6,711 |
-| 2023-12-10 | 4.75 | 2,704 | 6,727 |
+| 2023-12-10 | 4.75 | 2,704 | 6,728 |

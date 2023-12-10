@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1332,7 +1332,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30071,
+  "EOS_Progressed": 30073,
   "EOS_Completed": 83,
   "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 2,
@@ -26387,6 +26387,11 @@
       "Time": "2023-12-10T11:09:28.6424852+00:00",
       "NumProgressed": 30071,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-12-10T12:09:42.5513205+00:00",
+      "NumProgressed": 30073,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 22,
@@ -26494,7 +26499,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "1028",
@@ -26518,7 +26523,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "1031",
@@ -26534,7 +26539,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12028
+      "UsersEstimate": 12029
     },
     {
       "ID": "1033",
@@ -26573,15 +26578,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30071,
+      "Progressed": 30073,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-10T11:09:28.6424849+00:00",
+  "LastChanged_Achievements": "2023-12-10T12:09:42.55132+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:17.8374063+00:00",
-  "LastUpdate_Ratings": "2023-12-10T10:57:06.8642776+00:00",
-  "LastUpdate_Achievements": "2023-12-10T11:09:28.6425837+00:00"
+  "LastUpdate_Ratings": "2023-12-10T11:57:20.2176928+00:00",
+  "LastUpdate_Achievements": "2023-12-10T12:09:42.551459+00:00"
 }

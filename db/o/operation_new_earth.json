@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1996,
+  "EOS_Progressed": 1998,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7593,6 +7593,11 @@
       "Time": "2023-12-10T11:06:03.950206+00:00",
       "NumProgressed": 1996,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T12:06:09.2094011+00:00",
+      "NumProgressed": 1998,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7708,7 +7713,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7716,7 +7721,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -7860,7 +7865,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -7907,7 +7912,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1996,
+      "Progressed": 1998,
       "Completed": 1
     }
   ],
@@ -7915,8 +7920,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-10T11:06:03.9502057+00:00",
+  "LastChanged_Achievements": "2023-12-10T12:06:09.2094005+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-10T10:58:15.4936422+00:00",
-  "LastUpdate_Achievements": "2023-12-10T11:06:03.9502701+00:00"
+  "LastUpdate_Ratings": "2023-12-10T11:58:26.6723464+00:00",
+  "LastUpdate_Achievements": "2023-12-10T12:06:09.2094673+00:00"
 }

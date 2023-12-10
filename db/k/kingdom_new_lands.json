@@ -3,12 +3,12 @@
   "Name": "Kingdom New Lands",
   "ProductSlug": "kingdom-new-lands",
   "Ranking_Rating": 562,
-  "Ranking_Popularity": 333,
+  "Ranking_Popularity": 332,
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2015-10-21T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1710,18 +1710,24 @@
       "Rating": 4.52,
       "NumberOfAwards": 767,
       "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2023-12-10T12:03:14.2583656+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 768,
+      "NumberOfAwardsMax": 130
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 767,
-  "NumberOfAwardsMax": 129,
+  "NumberOfAwards": 768,
+  "NumberOfAwardsMax": 130,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 129
+      "Count": 130
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1789,8 +1795,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2023-12-02T09:03:16.9515475+00:00",
+  "LastChanged": "2023-12-10T12:03:14.2583655+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:13.3855143+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:03:10.1184444+00:00",
-  "LastUpdate_Achievements": "2023-12-10T11:07:15.1579257+00:00"
+  "LastUpdate_Ratings": "2023-12-10T12:03:14.258366+00:00",
+  "LastUpdate_Achievements": "2023-12-10T12:08:39.5437883+00:00"
 }

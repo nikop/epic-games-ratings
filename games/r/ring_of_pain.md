@@ -14,6 +14,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Defeat The Dark | 0.60% | ~1,445 |
 | A Quick Escape | 0.60% | ~1,445 |
 | An Offering | 0.60% | ~1,445 |
+| Ambitious Intent | 0.50% | ~1,204 |
 | Nothing To Lose | 0.50% | ~1,204 |
 | Heavy Hitter | 0.50% | ~1,204 |
 | Delving Deeper | 0.50% | ~1,204 |
@@ -30,7 +31,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Deflection | 0.50% | ~1,204 |
 | Explorer | 0.50% | ~1,204 |
 | Sneaky | 0.50% | ~1,204 |
-| Ambitious Intent | 0.40% | ~963 |
+| What Doesn't Kill You | 0.50% | ~12 |
 | Consecutive Curses | 0.40% | ~963 |
 | Dig Your Own Grave | 0.40% | ~963 |
 | Who To Trust? | 0.40% | ~963 |
@@ -45,7 +46,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Flesh Wound | 0.40% | ~963 |
 | Shapeshifting | 0.40% | ~963 |
 | Expensive Look | 0.40% | ~9 |
-| What Doesn't Kill You | 0.40% | ~9 |
 | Thank You, Friend | 0.30% | ~723 |
 | Shadow Spreads | 0.30% | ~723 |
 | Max Damage! | 0.30% | ~723 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,840 (Ranked 64)  
+Progressed: 240,842 (Ranked 64)  
 Completed: 293 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 293 (0.12%) (Ranked 283)
 | 2023-12-07 | 240,750 | 292 |
 | 2023-12-08 | 240,784 | 292 |
 | 2023-12-09 | 240,828 | 293 |
-| 2023-12-10 | 240,840 | 293 |
+| 2023-12-10 | 240,842 | 293 |
 ## Awards
 Max (Quickly Understood Controls): 1,506  (Ranked 134)  
 Sum: 11,720 (Ranked 85)  

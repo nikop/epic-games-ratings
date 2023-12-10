@@ -26,7 +26,7 @@ Rating: 4.76 (Ranked 129)
 | The Spell Master | 9.00% | ~27,375 |
 | Beast Friends | 8.00% | ~24,333 |
 | Flight the Good Flight | 8.00% | ~24,333 |
-| Raising Expectations | 7.00% | ~21,291 |
+| Raising Expectations | 7.00% | ~21,292 |
 | The Seeker of Knowledge | 6.00% | ~18,250 |
 | The Root of the Problem | 6.00% | ~18,250 |
 | Third Time's a Charm | 6.00% | ~18,250 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 129)
 | The Nature of the Beast | 0.70% | ~2,129 |
 | Collector's Edition | 0.40% | ~1,217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,164 (Ranked 54)  
+Progressed: 304,165 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,15 +285,15 @@ Completed: 525 (0.17%) (Ranked 269)
 | 2023-12-07 | 304,059 | 525 |
 | 2023-12-08 | 304,099 | 525 |
 | 2023-12-09 | 304,151 | 525 |
-| 2023-12-10 | 304,164 | 525 |
+| 2023-12-10 | 304,165 | 525 |
 ## Awards
 Max (Character Customization): 25,081  (Ranked 17)  
-Sum: 50,347 (Ranked 30)  
+Sum: 50,369 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 25,081 |
-| This game has Great Boss Battles | 12,859 |
+| This game has Great Boss Battles | 12,881 |
 | This game is Great for Beginners | 1,397 |
 | This game has Amazing Storytelling | 1,350 |
 | This game has Diverse Characters | 1,348 |
@@ -568,4 +568,4 @@ Diff (max vs sum): -13
 | 2023-12-07 | 4.76 | 25,000 | 50,137 |
 | 2023-12-08 | 4.76 | 25,029 | 50,225 |
 | 2023-12-09 | 4.76 | 25,052 | 50,306 |
-| 2023-12-10 | 4.76 | 25,081 | 50,347 |
+| 2023-12-10 | 4.76 | 25,081 | 50,369 |

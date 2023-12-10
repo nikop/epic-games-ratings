@@ -34,8 +34,8 @@
 | Cave Master | 13.00% | ~76 |
 | Boss challenge | 10.00% | ~58 |
 | Berserker Slayer | 10.00% | ~58 |
+| Giantess Slayer | 9.00% | ~53 |
 | Master Cook | 8.00% | ~47 |
-| Giantess Slayer | 8.00% | ~47 |
 | Warden Slayer | 8.00% | ~47 |
 | Silver Moon Wolf King Challenge | 3.00% | ~18 |
 | Rebellious | 2.00% | ~12 |

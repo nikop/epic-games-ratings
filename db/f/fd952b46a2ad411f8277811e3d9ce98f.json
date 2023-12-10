@@ -4,8 +4,8 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 6,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 7,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 395255,
+  "EOS_Progressed": 395281,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16985,
+  "EOS_NewPlayers": 16420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11537,6 +11537,11 @@
       "Time": "2023-12-10T11:05:48.3416835+00:00",
       "NumProgressed": 395255,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T12:05:53.993356+00:00",
+      "NumProgressed": 395281,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -11645,7 +11650,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 221343
+      "UsersEstimate": 221357
     },
     {
       "ID": "kills_100",
@@ -11701,7 +11706,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 39526
+      "UsersEstimate": 39528
     },
     {
       "ID": "revives_25",
@@ -11796,13 +11801,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 395255,
+      "Progressed": 395281,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-12-10T11:05:48.341683+00:00",
+  "LastChanged_Achievements": "2023-12-10T12:05:53.9933553+00:00",
   "LastUpdate_AppInfo": "2023-12-06T17:57:24.4970026+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:00:37.6669982+00:00",
-  "LastUpdate_Achievements": "2023-12-10T11:05:48.3417518+00:00"
+  "LastUpdate_Ratings": "2023-12-10T12:00:44.0699627+00:00",
+  "LastUpdate_Achievements": "2023-12-10T12:05:53.9934229+00:00"
 }

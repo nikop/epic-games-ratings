@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,984 |
-| Whatever It Takes | 3.00% | ~1,750 |
-| Pork Chopped | 3.00% | ~1,750 |
+| Welcome To Hell-A | 3.00% | ~21,985 |
+| Whatever It Takes | 3.00% | ~1,751 |
+| Pork Chopped | 3.00% | ~1,751 |
 | Dr. Reed, I Presume? | 2.00% | ~14,656 |
 | Git Gutte! | 2.00% | ~14,656 |
 | Anger Management | 2.00% | ~14,656 |
@@ -37,10 +37,10 @@ Rating: 4.54 (Ranked 535)
 | Down with the Sickness | 1.00% | ~7,328 |
 | Max Headroom | 1.00% | ~7,328 |
 | Our True Nature | 1.00% | ~7,328 |
-| Not Even My Final Form | 0.80% | ~5,862 |
-| Jumbo Keyring | 0.80% | ~5,862 |
-| Go, Bobcats! | 0.80% | ~5,862 |
-| Rising Star | 0.80% | ~5,862 |
+| Not Even My Final Form | 0.80% | ~5,863 |
+| Jumbo Keyring | 0.80% | ~5,863 |
+| Go, Bobcats! | 0.80% | ~5,863 |
+| Rising Star | 0.80% | ~5,863 |
 | Internet Famous | 0.70% | ~5,130 |
 | Make it So | 0.60% | ~4,397 |
 | On Safari | 0.60% | ~4,397 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 535)
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,791 (Ranked 21)  
+Progressed: 732,820 (Ranked 21)  
 Completed: 2,473 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 2,473 (0.34%) (Ranked 234)
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
-| 2023-12-10 | 732,791 | 2,473 |
+| 2023-12-10 | 732,820 | 2,473 |
 ## Awards
 Max (Great Boss Battles): 8,042  (Ranked 49)  
 Sum: 12,375 (Ranked 82)  

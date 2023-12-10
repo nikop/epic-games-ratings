@@ -4,8 +4,8 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14332,
+  "EOS_Progressed": 14336,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
@@ -16194,6 +16194,11 @@
       "Time": "2023-12-10T11:04:41.8746467+00:00",
       "NumProgressed": 14332,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T12:04:47.5874608+00:00",
+      "NumProgressed": 14336,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -16277,7 +16282,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6306
+      "UsersEstimate": 6308
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -16373,7 +16378,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -16404,14 +16409,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 14332,
+      "Progressed": 14336,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-12-10T11:04:41.8746465+00:00",
+  "LastChanged_Achievements": "2023-12-10T12:04:47.5874604+00:00",
   "LastUpdate_AppInfo": "2023-12-09T05:56:59.7438466+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:00:36.5758755+00:00",
-  "LastUpdate_Achievements": "2023-12-10T11:04:41.8747409+00:00"
+  "LastUpdate_Ratings": "2023-12-10T12:00:43.066458+00:00",
+  "LastUpdate_Achievements": "2023-12-10T12:04:47.5875616+00:00"
 }

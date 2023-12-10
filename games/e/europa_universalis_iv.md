@@ -6,11 +6,12 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Until death do us apart | 0.30% | ~1,417 |
 | Brothers in Arms | 0.20% | ~945 |
 | That's a Grand Army | 0.20% | ~945 |
 | That's a Grand Navy | 0.20% | ~945 |
+| Seriously?! | 0.20% | ~945 |
 | That is mine! | 0.20% | ~945 |
-| Until death do us apart | 0.20% | ~945 |
 | Victorious! | 0.20% | ~945 |
 | I don't like sand | 0.10% | ~472 |
 | A Blessed Nation | 0.10% | ~472 |
@@ -205,7 +206,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ruina Imperii | 0.10% | ~472 |
 | Sakoku Law | 0.10% | ~472 |
 | Saladins Legacy | 0.10% | ~472 |
-| Seriously?! | 0.10% | ~472 |
 | Shahanshah | 0.10% | ~472 |
 | Shemot is Not | 0.10% | ~472 |
 | Sikh Pun | 0.10% | ~472 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,350 (Ranked 41)  
+Progressed: 472,390 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -604,7 +604,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-07 | 470,773 | 1 |
 | 2023-12-08 | 471,386 | 1 |
 | 2023-12-09 | 472,114 | 1 |
-| 2023-12-10 | 472,350 | 1 |
+| 2023-12-10 | 472,390 | 1 |
 ## Awards
 Max (Educational): 7,319  (Ranked 54)  
 Sum: 60,304 (Ranked 24)  

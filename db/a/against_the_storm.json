@@ -5,9 +5,9 @@
   "Ranking_Rating": 67,
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 174,
-  "Ranking_EOS_Progress": 146,
+  "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 3696,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3401,9 +3401,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 17837,
+  "EOS_Progressed": 17840,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": -7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15236,6 +15236,11 @@
       "Time": "2023-12-10T11:05:26.0767021+00:00",
       "NumProgressed": 17837,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-10T12:05:32.0326551+00:00",
+      "NumProgressed": 17840,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15310,9 +15315,9 @@
       "ID": "ManyEvents",
       "SetID": "cfbk359",
       "Name": "Efficient Explorer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 36
     },
     {
       "ID": "MetalChain",
@@ -15342,9 +15347,9 @@
       "ID": "WinHard",
       "SetID": "cfbk359",
       "Name": "Overcoming Difficulty",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 161
     },
     {
       "ID": "WinImpossible",
@@ -15374,9 +15379,9 @@
       "ID": "WinNearBarren",
       "SetID": "cfbk359",
       "Name": "Barren Lands",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 71
     },
     {
       "ID": "WinNearBattleground",
@@ -15462,17 +15467,17 @@
       "ID": "WinNearOutpost",
       "SetID": "cfbk359",
       "Name": "Royal Outpost",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 125
     },
     {
       "ID": "WinNearRuins",
       "SetID": "cfbk359",
       "Name": "Lost Colonies",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 107
     },
     {
       "ID": "WinNearStatue",
@@ -15672,7 +15677,7 @@
       "Name": "Overgrown Library",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "WinNearPetrified",
@@ -15719,15 +15724,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17837,
+      "Progressed": 17840,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-10T04:57:34.5838562+00:00",
-  "LastChanged_Achievements": "2023-12-10T11:05:26.076702+00:00",
+  "LastChanged_Achievements": "2023-12-10T12:05:32.0326549+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-10T10:57:36.7919897+00:00",
-  "LastUpdate_Achievements": "2023-12-10T11:05:26.0767865+00:00"
+  "LastUpdate_Ratings": "2023-12-10T11:57:50.3054553+00:00",
+  "LastUpdate_Achievements": "2023-12-10T12:05:32.0327382+00:00"
 }
