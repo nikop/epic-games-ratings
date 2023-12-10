@@ -10,7 +10,7 @@ Rating: 4.80 (Ranked 89)
 | Swabbie | 38.00% | ~407 |
 | With Great Power… | 37.00% | ~397 |
 | This Belongs in a Museum | 34.00% | ~364 |
-| The Gambit Has Begun | 30.00% | ~322 |
+| The Gambit Has Begun | 31.00% | ~332 |
 | Somewhere Deep in the Lost Caribbean | 28.00% | ~300 |
 | Powder Monkey | 27.00% | ~289 |
 | Mirror Mirror on the Wall | 26.00% | ~279 |

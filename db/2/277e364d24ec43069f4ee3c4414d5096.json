@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116301,
+  "EOS_Progressed": 116302,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20739,6 +20739,11 @@
       "Time": "2023-12-10T06:09:14.3440364+00:00",
       "NumProgressed": 116301,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-10T07:09:57.5829354+00:00",
+      "NumProgressed": 116302,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20758,7 +20763,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89552
+      "UsersEstimate": 89553
     },
     {
       "ID": "EAwards_10",
@@ -20774,7 +20779,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30238
+      "UsersEstimate": 30239
     },
     {
       "ID": "EAwards_12",
@@ -20822,7 +20827,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43031
+      "UsersEstimate": 43032
     },
     {
       "ID": "EAwards_18",
@@ -20846,7 +20851,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55824
+      "UsersEstimate": 55825
     },
     {
       "ID": "EAwards_20",
@@ -21141,7 +21146,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116301,
+      "Progressed": 116302,
       "Completed": 51
     }
   ],
@@ -21149,8 +21154,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-10T06:09:14.3440359+00:00",
+  "LastChanged_Achievements": "2023-12-10T07:09:57.5829347+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.236213+00:00",
-  "LastUpdate_Ratings": "2023-12-10T05:59:05.5756888+00:00",
-  "LastUpdate_Achievements": "2023-12-10T06:09:14.3441495+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:00:22.5219044+00:00",
+  "LastUpdate_Achievements": "2023-12-10T07:09:57.5830356+00:00"
 }

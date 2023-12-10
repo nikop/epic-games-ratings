@@ -7437,10 +7437,10 @@
       "Count": 524
     }
   ],
-  "EOS_Progressed": 732684,
-  "EOS_Completed": 2471,
-  "EOS_NewPlayers": 3394,
-  "EOS_NewCompleters": 10,
+  "EOS_Progressed": 732702,
+  "EOS_Completed": 2472,
+  "EOS_NewPlayers": 3398,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -34252,6 +34252,11 @@
       "Time": "2023-12-10T06:08:38.7367331+00:00",
       "NumProgressed": 732684,
       "NumCompleted": 2471
+    },
+    {
+      "Time": "2023-12-10T07:09:08.5551352+00:00",
+      "NumProgressed": 732702,
+      "NumCompleted": 2472
     }
   ],
   "TotalAchievements": 51,
@@ -34303,7 +34308,7 @@
       "Name": "LA Influential",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3663
+      "UsersEstimate": 3664
     },
     {
       "ID": "ach_blueprinted",
@@ -34399,7 +34404,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5861
+      "UsersEstimate": 5862
     },
     {
       "ID": "ach_hazardous_materials",
@@ -34455,7 +34460,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5861
+      "UsersEstimate": 5862
     },
     {
       "ID": "ach_knock_down",
@@ -34567,7 +34572,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5861
+      "UsersEstimate": 5862
     },
     {
       "ID": "ach_thesacrifice",
@@ -34607,7 +34612,7 @@
       "Name": "Rising Star",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 5861
+      "UsersEstimate": 5862
     },
     {
       "ID": "ach_well_trained",
@@ -34670,13 +34675,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 732684,
-      "Completed": 2471
+      "Progressed": 732702,
+      "Completed": 2472
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 58226,
+      "Progressed": 58244,
       "Completed": 36649
     }
   ],
@@ -34684,8 +34689,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-10T05:59:36.5395435+00:00",
-  "LastChanged_Achievements": "2023-12-10T06:08:38.7367327+00:00",
+  "LastChanged_Achievements": "2023-12-10T07:09:08.5551348+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:31.7932919+00:00",
-  "LastUpdate_Ratings": "2023-12-10T05:59:36.539544+00:00",
-  "LastUpdate_Achievements": "2023-12-10T06:08:38.7368725+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:01:09.4085397+00:00",
+  "LastUpdate_Achievements": "2023-12-10T07:09:08.5552854+00:00"
 }

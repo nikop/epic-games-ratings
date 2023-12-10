@@ -8,8 +8,8 @@
 | Home Sweet Home | 93.00% | ~38 |
 | First to the post | 90.00% | ~37 |
 | A kind of Magic | 85.00% | ~35 |
+| Connected | 83.00% | ~34 |
 | Expansion | 80.00% | ~33 |
-| Connected | 80.00% | ~33 |
 | Harvest Time | 71.00% | ~29 |
 | Mine! | 68.00% | ~28 |
 | Artificer's Apprentice | 63.00% | ~26 |

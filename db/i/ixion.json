@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -305,9 +305,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3418,
+  "EOS_Progressed": 3419,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6170,6 +6170,11 @@
       "Time": "2023-12-09T13:08:04.7608518+00:00",
       "NumProgressed": 3418,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T07:07:03.7386335+00:00",
+      "NumProgressed": 3419,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6181,7 +6186,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "ACH_BASE_10",
@@ -6245,7 +6250,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACH_BASE_19",
@@ -6269,7 +6274,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ACH_BASE_22",
@@ -6509,7 +6514,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_BASE_52",
@@ -6533,7 +6538,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_BASE_57",
@@ -6636,13 +6641,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1602,
+      "Progressed": 1603,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3418,
+      "Progressed": 3419,
       "Completed": 0
     }
   ],
@@ -6650,8 +6655,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-06T08:59:27.5428994+00:00",
-  "LastChanged_Achievements": "2023-12-10T06:05:37.4671327+00:00",
+  "LastChanged_Achievements": "2023-12-10T07:07:03.7386328+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4855137+00:00",
-  "LastUpdate_Ratings": "2023-12-10T05:58:05.1993673+00:00",
-  "LastUpdate_Achievements": "2023-12-10T06:05:37.4671939+00:00"
+  "LastUpdate_Ratings": "2023-12-10T06:58:53.0507954+00:00",
+  "LastUpdate_Achievements": "2023-12-10T07:07:03.7387084+00:00"
 }

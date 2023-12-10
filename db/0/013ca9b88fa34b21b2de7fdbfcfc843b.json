@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8398,
+  "EOS_Progressed": 8399,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8341,6 +8341,11 @@
       "Time": "2023-12-10T06:09:28.7421494+00:00",
       "NumProgressed": 8398,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T07:10:17.2102899+00:00",
+      "NumProgressed": 8399,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8369,7 +8374,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3107
+      "UsersEstimate": 3108
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -8377,7 +8382,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -8441,7 +8446,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -8449,7 +8454,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3611
+      "UsersEstimate": 3612
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -8457,7 +8462,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4115
+      "UsersEstimate": 4116
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -8489,7 +8494,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3527
+      "UsersEstimate": 3528
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -8513,7 +8518,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -8529,7 +8534,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3947
+      "UsersEstimate": 3948
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8632,22 +8637,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8398,
+      "Progressed": 8399,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1015,
-      "Completed": 1015
+      "Progressed": 1016,
+      "Completed": 1016
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-09T19:03:20.556047+00:00",
-  "LastChanged_Achievements": "2023-12-10T06:09:28.7421492+00:00",
+  "LastChanged_Achievements": "2023-12-10T07:10:17.2102895+00:00",
   "LastUpdate_AppInfo": "2023-12-08T10:57:06.6464777+00:00",
-  "LastUpdate_Ratings": "2023-12-10T06:02:58.3477342+00:00",
-  "LastUpdate_Achievements": "2023-12-10T06:09:28.7422051+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:03:19.4965986+00:00",
+  "LastUpdate_Achievements": "2023-12-10T07:10:17.2103577+00:00"
 }

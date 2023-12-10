@@ -5,27 +5,27 @@ Rating: 4.74 (Ranked 158)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~10,013 |
-| I Challenge You To Save More Money! | 86.00% | ~9,360 |
-| I Love How Tough You Are | 73.00% | ~7,945 |
-| Wanna Come To My Place For Dinner? | 67.00% | ~7,292 |
-| What I Want Is You | 61.00% | ~6,639 |
+| Last Night...Did We... | 92.00% | ~10,014 |
+| I Challenge You To Save More Money! | 86.00% | ~9,361 |
+| I Love How Tough You Are | 73.00% | ~7,946 |
+| Wanna Come To My Place For Dinner? | 67.00% | ~7,293 |
+| What I Want Is You | 61.00% | ~6,640 |
 | To Be Or Not To Be | 58.00% | ~6,313 |
 | Are You Alright? | 50.00% | ~5,442 |
-| Love Actually | 49.00% | ~5,333 |
-| Drama King | 42.00% | ~4,571 |
+| Love Actually | 49.00% | ~5,334 |
+| Drama King | 42.00% | ~4,572 |
 | You're Really Something Else | 37.00% | ~4,027 |
-| Go Clean up In Your Own Way | 36.00% | ~3,918 |
-| Happy Family | 35.00% | ~3,809 |
-| FIRST LOVE | 35.00% | ~3,809 |
-| Drama CP: Reel to Real | 35.00% | ~3,809 |
-| Worthless Speech | 35.00% | ~3,809 |
+| Go Clean up In Your Own Way | 36.00% | ~3,919 |
+| Happy Family | 35.00% | ~3,810 |
+| FIRST LOVE | 35.00% | ~3,810 |
+| Drama CP: Reel to Real | 35.00% | ~3,810 |
+| Worthless Speech | 35.00% | ~3,810 |
 | ONE PUNCH | 34.00% | ~3,701 |
 | Absolutely Elegant | 33.00% | ~3,592 |
 | Still Single | 32.00% | ~3,483 |
-| Go Get Some Fries On The Pier | 30.00% | ~3,265 |
-| Days Of Innocence | 30.00% | ~3,265 |
-| David | 30.00% | ~3,265 |
+| Go Get Some Fries On The Pier | 30.00% | ~3,266 |
+| Days Of Innocence | 30.00% | ~3,266 |
+| David | 30.00% | ~3,266 |
 | A Slap In The Face! | 26.00% | ~2,830 |
 | All I Have Is Money | 25.00% | ~2,721 |
 | That's So You | 25.00% | ~2,721 |
@@ -33,8 +33,8 @@ Rating: 4.74 (Ranked 158)
 | Lover In Dark Alley | 24.00% | ~2,612 |
 | Let Me Be Your Toy Boy | 24.00% | ~2,612 |
 | Off We Sail Tonight | 19.00% | ~2,068 |
-| Love You Three Thousand | 16.00% | ~1,741 |
-| Can You Do This Or Not? | 16.00% | ~1,741 |
+| Love You Three Thousand | 16.00% | ~1,742 |
+| Can You Do This Or Not? | 16.00% | ~1,742 |
 | Doesn't Matter I'll Handle It | 14.00% | ~1,524 |
 | The Flash | 12.00% | ~1,306 |
 | New Yoga Pose Unlocked | 12.00% | ~1,306 |
@@ -48,7 +48,7 @@ Rating: 4.74 (Ranked 158)
 | Tall; Grande; Venti | 2.00% | ~218 |
 | Limerence | 2.00% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,884 (Ranked 164)  
+Progressed: 10,885 (Ranked 164)  
 Completed: 200 (1.84%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 200 (1.84%) (Ranked 134)
 | 2023-12-07 | 10,791 | 195 |
 | 2023-12-08 | 10,827 | 198 |
 | 2023-12-09 | 10,871 | 200 |
-| 2023-12-10 | 10,884 | 200 |
+| 2023-12-10 | 10,885 | 200 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 534)  
 Sum: 23 (Ranked 537)  

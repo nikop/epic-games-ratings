@@ -6,7 +6,7 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 44.00% | ~810 |
+| E1M1 | 45.00% | ~828 |
 | Grenadier | 43.00% | ~791 |
 | War Never Changes | 43.00% | ~791 |
 | Heroes Never Die | 40.00% | ~736 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,840 (Ranked 232)  
-Completed: 2 (0.11%) (Ranked 285)  
+Completed: 2 (0.11%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

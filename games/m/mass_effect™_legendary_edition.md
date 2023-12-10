@@ -42,18 +42,18 @@
 | Colony Defense | 35.00% | ~544 |
 | The Krogan | 35.00% | ~544 |
 | Broke, Blind, and Bedlam | 34.00% | ~529 |
+| A Personal Touch | 33.00% | ~513 |
 | Ghost Ship | 33.00% | ~513 |
 | The Quarian | 33.00% | ~513 |
+| The Prodigal | 33.00% | ~513 |
 | Galactic Explorer | 33.00% | ~513 |
 | Shopaholic | 33.00% | ~513 |
-| A Personal Touch | 32.00% | ~498 |
 | The Assassin | 32.00% | ~498 |
 | The Justicar | 32.00% | ~498 |
 | Battlemaster | 32.00% | ~498 |
 | Catharsis | 32.00% | ~498 |
 | Ghost of the Father | 32.00% | ~498 |
 | The Cure | 32.00% | ~498 |
-| The Prodigal | 32.00% | ~498 |
 | Revenge! | 32.00% | ~498 |
 | Driven | 32.00% | ~498 |
 | Focused | 31.00% | ~482 |

@@ -37,16 +37,16 @@ Rating: 4.54 (Ranked 535)
 | Down with the Sickness | 1.00% | ~7,327 |
 | Max Headroom | 1.00% | ~7,327 |
 | Our True Nature | 1.00% | ~7,327 |
-| Not Even My Final Form | 0.80% | ~5,861 |
-| Jumbo Keyring | 0.80% | ~5,861 |
-| Go, Bobcats! | 0.80% | ~5,861 |
-| Rising Star | 0.80% | ~5,861 |
+| Not Even My Final Form | 0.80% | ~5,862 |
+| Jumbo Keyring | 0.80% | ~5,862 |
+| Go, Bobcats! | 0.80% | ~5,862 |
+| Rising Star | 0.80% | ~5,862 |
 | Internet Famous | 0.70% | ~5,129 |
 | Make it So | 0.60% | ~4,396 |
 | On Safari | 0.60% | ~4,396 |
 | Smorgasbord | 0.60% | ~4,396 |
 | Variety is the Spice of Death | 0.60% | ~4,396 |
-| LA Influential | 0.50% | ~3,663 |
+| LA Influential | 0.50% | ~3,664 |
 | Sole Survivor | 0.40% | ~2,931 |
 | Gore Horse | 0.40% | ~2,931 |
 | Sharpest Tool in the Box | 0.40% | ~2,931 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 535)
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,684 (Ranked 21)  
-Completed: 2,471 (0.34%) (Ranked 234)  
+Progressed: 732,702 (Ranked 21)  
+Completed: 2,472 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,7 +291,7 @@ Completed: 2,471 (0.34%) (Ranked 234)
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
-| 2023-12-10 | 732,684 | 2,471 |
+| 2023-12-10 | 732,702 | 2,472 |
 ## Awards
 Max (Great Boss Battles): 8,042  (Ranked 49)  
 Sum: 12,375 (Ranked 82)  

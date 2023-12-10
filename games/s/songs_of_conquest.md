@@ -7,31 +7,31 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 37.00% | ~148 |
-| Double Kill | 28.00% | ~112 |
+| Double Kill | 27.00% | ~108 |
 | Critical Hit | 16.00% | ~64 |
 | Veteran | 14.00% | ~56 |
-| Dressed For Success | 11.00% | ~44 |
+| Dressed For Success | 10.00% | ~40 |
 | Sorcerous Spree | 7.00% | ~28 |
 | Humiliation | 7.00% | ~28 |
-| Multi Kill | 6.00% | ~24 |
-| Veni, Vidi, Vici | 6.00% | ~24 |
+| Multi Kill | 5.00% | ~20 |
+| Veni, Vidi, Vici | 5.00% | ~20 |
 | Whoops! | 4.00% | ~16 |
-| Landlord Extraordinaire | 4.00% | ~16 |
 | Master | 4.00% | ~16 |
 | Expert Essence Employment | 4.00% | ~16 |
+| Landlord Extraordinaire | 3.00% | ~12 |
 | Trojan Horse | 3.00% | ~12 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~12 |
-| The Song of Stoutheart | 2.00% | ~8 |
-| Versatile Wielder | 2.00% | ~8 |
 | Deepstrike | 2.00% | ~8 |
 | Don't Touch My Stuff | 2.00% | ~8 |
 | Such A Fungi | 2.00% | ~8 |
 | Pyrrhic Victory | 2.00% | ~8 |
+| The Song of Stoutheart | 1.00% | ~4 |
 | This Spot's Taken | 1.00% | ~4 |
+| Versatile Wielder | 1.00% | ~4 |
 | Infernal Influence | 1.00% | ~4 |
 | Ultra Kill | 1.00% | ~4 |
 | Grand Master | 1.00% | ~4 |
-| Together For Her | 0.80% | ~3 |
+| Together For Her | 0.70% | ~3 |
 | Death To Diplomacy | 0.50% | ~2 |
 | Unlimited Power! | 0.50% | ~2 |
 | Coming Through! | 0.50% | ~2 |
@@ -40,12 +40,12 @@ Number of Ratings: 292  (23.09.2022)
 | From the Ashes | 0.50% | ~2 |
 | The Marsh Expands | 0.50% | ~2 |
 | Cleave | 0.50% | ~2 |
-| Hello There | 0.30% | ~1 |
-| Fully Charged | 0.30% | ~1 |
-| Killing Spree | 0.30% | ~1 |
-| An Empress's Hope | 0.30% | ~1 |
-| Oops! | 0.30% | ~1 |
-| Get Over Here! | 0.30% | ~1 |
+| Hello There | 0.20% | ~1 |
+| Fully Charged | 0.20% | ~1 |
+| Killing Spree | 0.20% | ~1 |
+| An Empress's Hope | 0.20% | ~1 |
+| Oops! | 0.20% | ~1 |
+| Get Over Here! | 0.20% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 334)  
+Progressed: 401 (Ranked 334)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-07 | 373 | 0 |
 | 2023-12-08 | 386 | 0 |
 | 2023-12-09 | 400 | 0 |
+| 2023-12-10 | 401 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 515)  
 Sum: 194 (Ranked 407)  

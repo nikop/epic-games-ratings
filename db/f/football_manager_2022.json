@@ -8732,7 +8732,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477428,
+  "EOS_Progressed": 477429,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
@@ -32357,6 +32357,11 @@
       "Time": "2023-12-10T06:05:31.9462328+00:00",
       "NumProgressed": 477428,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-10T07:06:55.9845478+00:00",
+      "NumProgressed": 477429,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -32392,7 +32397,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 176648
+      "UsersEstimate": 176649
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -32424,7 +32429,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 124131
+      "UsersEstimate": 124132
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -32480,7 +32485,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143228
+      "UsersEstimate": 143229
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -32520,7 +32525,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 176648
+      "UsersEstimate": 176649
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -32568,7 +32573,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90711
+      "UsersEstimate": 90712
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -32688,7 +32693,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 195745
+      "UsersEstimate": 195746
     },
     {
       "ID": "achievement_head_to_head",
@@ -32744,7 +32749,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109808
+      "UsersEstimate": 109809
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -32760,7 +32765,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 124131
+      "UsersEstimate": 124132
     },
     {
       "ID": "achievement_mr_delegator",
@@ -32784,7 +32789,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76388
+      "UsersEstimate": 76389
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -32880,7 +32885,7 @@
       "Name": "Rushed signing",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76388
+      "UsersEstimate": 76389
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -32912,7 +32917,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229165
+      "UsersEstimate": 229166
     },
     {
       "ID": "achievement_signed_a_player",
@@ -32928,7 +32933,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109808
+      "UsersEstimate": 109809
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -33151,15 +33156,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477428,
+      "Progressed": 477429,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-10T01:50:55.8257919+00:00",
-  "LastChanged_Achievements": "2023-12-10T06:05:31.9462316+00:00",
+  "LastChanged_Achievements": "2023-12-10T07:06:55.9845474+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.1665984+00:00",
-  "LastUpdate_Ratings": "2023-12-10T05:58:56.2764868+00:00",
-  "LastUpdate_Achievements": "2023-12-10T06:05:31.9464187+00:00"
+  "LastUpdate_Ratings": "2023-12-10T07:00:08.6088981+00:00",
+  "LastUpdate_Achievements": "2023-12-10T07:06:55.9847369+00:00"
 }

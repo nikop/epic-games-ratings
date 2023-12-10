@@ -6,7 +6,7 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~710 |
+| Breathe In… Breathe Out… | 74.00% | ~719 |
 | It’s Heating up! | 70.00% | ~680 |
 | Let’s patch things up | 66.00% | ~642 |
 | I can fix it! | 63.00% | ~612 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 972 (Ranked 271)  
+Progressed: 972 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |

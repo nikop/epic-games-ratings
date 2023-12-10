@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~205 |
 | See You on the Flipside | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,190 (Ranked 65)  
+Progressed: 239,198 (Ranked 65)  
 Completed: 2,510 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -773,7 +773,7 @@ Completed: 2,510 (1.05%) (Ranked 167)
 | 2023-12-07 | 238,772 | 2,504 |
 | 2023-12-08 | 238,975 | 2,506 |
 | 2023-12-09 | 239,141 | 2,510 |
-| 2023-12-10 | 239,190 | 2,510 |
+| 2023-12-10 | 239,198 | 2,510 |
 ## Awards
 Max (Great for Beginners): 5,612  (Ranked 70)  
 Sum: 32,800 (Ranked 41)  

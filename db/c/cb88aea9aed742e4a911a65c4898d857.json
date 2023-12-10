@@ -2,7 +2,7 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_EOS_Progress": 248,
+  "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 119,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1337,
+  "EOS_Progressed": 1347,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1335,
+  "EOS_NewPlayers": 1345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -352,6 +352,11 @@
       "Time": "2023-12-10T06:08:54.5546209+00:00",
       "NumProgressed": 1337,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T07:09:30.2926086+00:00",
+      "NumProgressed": 1347,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -364,7 +369,7 @@
       "Name": "Conspiracy",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 633
     },
     {
       "ID": "03_TheStolenStar",
@@ -372,7 +377,7 @@
       "Name": "Stolen Star",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -458,9 +463,9 @@
       "ID": "14_TheBreezeOfPain",
       "SetID": "37a94m8",
       "Name": "Fear Not Obliteration",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "15_Pentakill",
@@ -474,9 +479,9 @@
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 94
     },
     {
       "ID": "17_TheExemplar",
@@ -490,9 +495,9 @@
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 108
     },
     {
       "ID": "19_TheVoidWolf",
@@ -522,9 +527,9 @@
       "ID": "22_PerfectTiming",
       "SetID": "37a94m8",
       "Name": "Perfect Timing",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 67
     },
     {
       "ID": "23_DynastyRestored",
@@ -580,7 +585,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 588
+      "UsersEstimate": 593
     },
     {
       "ID": "30_The GreatestExploration",
@@ -612,7 +617,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -716,7 +721,7 @@
       "Name": "A Spark",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "47_AFlame",
@@ -778,9 +783,9 @@
       "ID": "54_ThisIsAJobForLordCaptain",
       "SetID": "37a94m8",
       "Name": "This Is a Job for the Lord Captain!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -883,14 +888,14 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 1337,
+      "Progressed": 1347,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-10T06:08:54.5546205+00:00",
+  "LastChanged_Achievements": "2023-12-10T07:09:30.2926081+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-10T05:58:46.7814458+00:00",
-  "LastUpdate_Achievements": "2023-12-10T06:08:54.5546605+00:00"
+  "LastUpdate_Ratings": "2023-12-10T06:59:54.4892634+00:00",
+  "LastUpdate_Achievements": "2023-12-10T07:09:30.292654+00:00"
 }

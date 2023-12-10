@@ -10,10 +10,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overgrown Library | 3.00% | ~535 |
 | Petrified Necropolis | 3.00% | ~535 |
 | Gathering Storm | 3.00% | ~535 |
-| Frosts | 2.00% | ~356 |
-| Land of Greed | 2.00% | ~356 |
-| Ominous Presence | 2.00% | ~356 |
-| Untamed Wilds | 2.00% | ~356 |
+| Frosts | 2.00% | ~357 |
+| Land of Greed | 2.00% | ~357 |
+| Ominous Presence | 2.00% | ~357 |
+| Untamed Wilds | 2.00% | ~357 |
 | No Deaths | 1.00% | ~178 |
 | The Marshlands | 0.90% | ~160 |
 | Taking Action | 0.90% | ~160 |
@@ -41,6 +41,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 0.30% | ~53 |
 | Statue of the Forefathers | 0.30% | ~53 |
 | Cursed Lands | 0.30% | ~53 |
+| Defying the Crown | 0.30% | ~53 |
 | Fox Utopia | 0.30% | ~53 |
 | Serving Ale | 0.20% | ~36 |
 | Refinery | 0.20% | ~36 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 0.20% | ~36 |
 | Forsaken Gods Temple | 0.20% | ~36 |
 | Victory Through Prosperity | 0.20% | ~36 |
-| Defying the Crown | 0.20% | ~36 |
 | Into the Forest | 0.20% | ~36 |
 | Feeding The People | 0.10% | ~18 |
 | Paradise | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,824 (Ranked 146)  
+Progressed: 17,826 (Ranked 146)  
 Completed: 42 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 42 (0.24%) (Ranked 251)
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
-| 2023-12-10 | 17,824 | 43 |
+| 2023-12-10 | 17,826 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,250 (Ranked 174)  
