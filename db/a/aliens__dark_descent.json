@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -6481,9 +6481,9 @@
       "ID": "ACH_MISSION_05",
       "SetID": "816efe",
       "Name": "Where It All Begun",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1572
     },
     {
       "ID": "ACH_MISSION_06",
@@ -6626,8 +6626,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-07T22:58:01.026628+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:08:54.6545711+00:00",
-  "LastUpdate_AppInfo": "2023-12-02T22:57:59.8207235+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:00:15.9960807+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:08:54.6546171+00:00"
+  "LastChanged_Achievements": "2023-12-10T00:10:38.5843365+00:00",
+  "LastUpdate_AppInfo": "2023-12-09T23:58:06.5838535+00:00",
+  "LastUpdate_Ratings": "2023-12-10T00:01:19.8225464+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:10:38.5843838+00:00"
 }

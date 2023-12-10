@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9498,9 +9498,9 @@
       "Count": 983
     }
   ],
-  "EOS_Progressed": 125950,
+  "EOS_Progressed": 125954,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34243,6 +34243,11 @@
       "Time": "2023-12-09T23:09:19.5086882+00:00",
       "NumProgressed": 125950,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-10T00:10:56.9097278+00:00",
+      "NumProgressed": 125954,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34756,9 +34761,9 @@
       "ID": "run_victory_final_boss_infernal_flame",
       "SetID": "64l4lke",
       "Name": "Hard Mode",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 126
     },
     {
       "ID": "stagecoach_upgrade_equip_all",
@@ -34885,21 +34890,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 125950,
+      "Progressed": 125954,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 819,
+      "Progressed": 823,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-09T15:57:09.2241371+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:09:19.5086875+00:00",
-  "LastUpdate_AppInfo": "2023-12-02T22:57:09.0796659+00:00",
-  "LastUpdate_Ratings": "2023-12-09T22:57:48.7213988+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:09:19.50883+00:00"
+  "LastChanged_Achievements": "2023-12-10T00:10:56.9097276+00:00",
+  "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
+  "LastUpdate_Ratings": "2023-12-09T23:59:40.1764773+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:10:56.9098677+00:00"
 }

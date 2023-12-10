@@ -1,23 +1,23 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.39 (Ranked 752)  
+Rating: 4.39 (Ranked 751)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,348 |
-| Predator I | 23.00% | ~59,613 |
+| Survivor | 31.00% | ~80,349 |
+| Predator I | 23.00% | ~59,614 |
 | Fixer I | 10.00% | ~25,919 |
 | A week in Century City | 10.00% | ~25,919 |
 | The Wait | 7.00% | ~18,143 |
 | Green thumb I | 6.00% | ~15,551 |
 | Cleaning Company | 6.00% | ~15,551 |
-| Well-oiled machine | 5.00% | ~12,959 |
-| Saver I | 5.00% | ~12,959 |
-| The Ascent | 4.00% | ~10,367 |
-| Pacifist | 4.00% | ~10,367 |
-| Vandalism | 4.00% | ~10,367 |
-| Capitalist I | 4.00% | ~10,367 |
+| Well-oiled machine | 5.00% | ~12,960 |
+| Saver I | 5.00% | ~12,960 |
+| The Ascent | 4.00% | ~10,368 |
+| Pacifist | 4.00% | ~10,368 |
+| Vandalism | 4.00% | ~10,368 |
+| Capitalist I | 4.00% | ~10,368 |
 | Fixer II | 3.00% | ~7,776 |
 | Adrenaline | 3.00% | ~7,776 |
 | By a hair | 2.00% | ~5,184 |
@@ -35,8 +35,8 @@ Rating: 4.39 (Ranked 752)
 | Green thumb II | 1.00% | ~2,592 |
 | Bricklayer | 1.00% | ~2,592 |
 | Run the Economy | 1.00% | ~2,592 |
-| Committed Relationship | 0.80% | ~2,073 |
-| Number 1 | 0.80% | ~2,073 |
+| Committed Relationship | 0.80% | ~2,074 |
+| Number 1 | 0.80% | ~2,074 |
 | A major purchase | 0.60% | ~1,555 |
 | Interior designer | 0.60% | ~1,555 |
 | The Gamble | 0.50% | ~1,296 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 752)
 | Capitalist III | 0.10% | ~259 |
 | Hell Is You | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,187 (Ranked 58)  
+Progressed: 259,191 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,6 +296,7 @@ Completed: 3 (0.00%) (Ranked 371)
 | 2023-12-07 | 259,132 | 3 |
 | 2023-12-08 | 259,158 | 3 |
 | 2023-12-09 | 259,187 | 3 |
+| 2023-12-10 | 259,191 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 52  (Ranked 430)  
 Sum: 358 (Ranked 356)  

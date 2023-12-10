@@ -3,11 +3,11 @@
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
   "Ranking_Rating": 680,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -471,9 +471,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3334,
+  "EOS_Progressed": 3335,
   "EOS_Completed": 137,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
@@ -5241,6 +5241,11 @@
       "Time": "2023-12-09T22:05:46.8890388+00:00",
       "NumProgressed": 3334,
       "NumCompleted": 137
+    },
+    {
+      "Time": "2023-12-10T00:06:30.5420744+00:00",
+      "NumProgressed": 3335,
+      "NumCompleted": 137
     }
   ],
   "TotalAchievements": 14,
@@ -5284,7 +5289,7 @@
       "Name": "Dog Person",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -5300,7 +5305,7 @@
       "Name": "Family Lost",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -5330,9 +5335,9 @@
       "ID": "ACH_REUNION",
       "SetID": "4kfb9pd",
       "Name": "Reunion",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 834
+      "UsersEstimate": 800
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -5363,7 +5368,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3334,
+      "Progressed": 3335,
       "Completed": 137
     }
   ],
@@ -5371,8 +5376,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:05:29.9208575+00:00",
-  "LastUpdate_AppInfo": "2023-12-02T22:58:56.2893287+00:00",
-  "LastUpdate_Ratings": "2023-12-09T22:57:42.9209937+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:05:29.9208938+00:00"
+  "LastChanged_Achievements": "2023-12-10T00:06:30.542074+00:00",
+  "LastUpdate_AppInfo": "2023-12-09T23:57:09.6040213+00:00",
+  "LastUpdate_Ratings": "2023-12-09T23:59:36.3423237+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:06:30.5421041+00:00"
 }

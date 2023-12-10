@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,128 |
+| Sowwy! | 36.00% | ~87,129 |
 | Alt+F4 | 9.00% | ~21,782 |
 | Where's that freaking Dwarf? | 8.00% | ~19,362 |
 | Déjà vu | 7.00% | ~16,942 |
@@ -45,9 +45,9 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,420 |
 | Material Girl | 1.00% | ~2,420 |
 | In Navalu's footsteps | 0.90% | ~2,178 |
+| We come in peace | 0.80% | ~1,936 |
 | Lëgal Legend | 0.80% | ~1,936 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,694 |
-| We come in peace | 0.70% | ~1,694 |
 | Holistic Adventuring Party | 0.60% | ~1,452 |
 | Law and Order | 0.60% | ~1,452 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,210 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,023 (Ranked 63)  
+Progressed: 242,025 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,13 +288,14 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-07 | 241,693 | 7 |
 | 2023-12-08 | 241,827 | 7 |
 | 2023-12-09 | 242,023 | 7 |
+| 2023-12-10 | 242,025 | 7 |
 ## Awards
-Max (Character Customization): 244  (Ranked 272)  
-Sum: 495 (Ranked 328)  
+Max (Character Customization): 245  (Ranked 272)  
+Sum: 496 (Ranked 328)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 244 |
+| This game has Inclusive Character Customization | 245 |
 | This game is Relaxing | 39 |
 | This game is Great for Beginners | 35 |
 | This game has Quickly Understood Controls | 33 |
@@ -498,3 +499,4 @@ Diff (max vs sum): -56
 | 2023-12-05 | 4.58 | - | 242 | 489 |
 | 2023-12-06 | 4.58 | - | 242 | 493 |
 | 2023-12-07 | 4.58 | - | 244 | 495 |
+| 2023-12-10 | 4.58 | - | 245 | 496 |

@@ -6,21 +6,21 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,786 |
-| Cavalier | 25.00% | ~202,958 |
-| Fatso | 23.00% | ~186,721 |
+| Blacksmith's Son | 32.00% | ~259,787 |
+| Cavalier | 25.00% | ~202,959 |
+| Fatso | 23.00% | ~186,722 |
 | Awakening | 21.00% | ~170,485 |
-| Ranger | 20.00% | ~162,366 |
-| Scrooge | 20.00% | ~162,366 |
-| Anorectic | 16.00% | ~129,893 |
-| Firestarter | 16.00% | ~129,893 |
+| Ranger | 20.00% | ~162,367 |
+| Scrooge | 20.00% | ~162,367 |
+| Anorectic | 16.00% | ~129,894 |
+| Firestarter | 16.00% | ~129,894 |
 | Bookworm | 15.00% | ~121,775 |
-| Insomniac | 13.00% | ~105,538 |
+| Insomniac | 13.00% | ~105,539 |
 | Buddy | 12.00% | ~97,420 |
 | Thief | 12.00% | ~97,420 |
 | Sinner | 11.00% | ~89,302 |
 | Traveller | 11.00% | ~89,302 |
-| Convict | 10.00% | ~81,183 |
+| Convict | 10.00% | ~81,184 |
 | Haggler | 9.00% | ~73,065 |
 | McLovin | 7.00% | ~56,828 |
 | Runt | 7.00% | ~56,828 |
@@ -51,8 +51,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~8,118 |
 | Master Huntsman | 1.00% | ~8,118 |
 | Stealth Killer | 1.00% | ~8,118 |
-| Bailiff | 0.90% | ~7,306 |
-| Tracker | 0.90% | ~7,306 |
+| Bailiff | 0.90% | ~7,307 |
+| Tracker | 0.90% | ~7,307 |
 | David Horak | 0.80% | ~6,495 |
 | Fighter | 0.70% | ~5,683 |
 | Mercenary's Honour | 0.70% | ~5,683 |
@@ -60,8 +60,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Edward Kelly | 0.60% | ~4,871 |
 | I Can Quit Anytime | 0.50% | ~4,059 |
 | Perfectionist | 0.50% | ~4,059 |
-| Alcoholic | 0.30% | ~2,435 |
-| Sniper | 0.30% | ~2,435 |
+| Alcoholic | 0.30% | ~2,436 |
+| Sniper | 0.30% | ~2,436 |
 | Angel of Mercy | 0.20% | ~1,624 |
 | Christian Burial | 0.20% | ~1,624 |
 | Friends without benefits | 0.20% | ~1,624 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~812 |
 | Wingman | 0.10% | ~812 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 811,832 (Ranked 17)  
+Progressed: 811,835 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,9 +323,10 @@ Completed: 52 (0.01%) (Ranked 348)
 | 2023-12-07 | 811,525 | 52 |
 | 2023-12-08 | 811,655 | 52 |
 | 2023-12-09 | 811,832 | 52 |
+| 2023-12-10 | 811,835 | 52 |
 ## Awards
 Max (Character Customization): 7,659  (Ranked 51)  
-Sum: 28,453 (Ranked 49)  
+Sum: 28,455 (Ranked 49)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -336,8 +337,8 @@ Diff (max vs sum): 2
 | This game has Amazing Storytelling | 1,734 |
 | This game is Highly Recommended | 1,707 |
 | This game is Extremely Fun | 1,699 |
+| This game has Realistic Visuals | 1,679 |
 | This game has Amazing Characters | 1,678 |
-| This game has Realistic Visuals | 1,677 |
 | This game is Educational | 1,617 |
 | This game is Relaxing | 1,544 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -660,4 +661,4 @@ Diff (max vs sum): 2
 | 2023-12-06 | 4.71 | - | 7,651 | 28,426 |
 | 2023-12-07 | 4.71 | - | 7,657 | 28,436 |
 | 2023-12-08 | 4.71 | - | 7,657 | 28,439 |
-| 2023-12-09 | 4.71 | - | 7,659 | 28,453 |
+| 2023-12-09 | 4.71 | - | 7,659 | 28,455 |

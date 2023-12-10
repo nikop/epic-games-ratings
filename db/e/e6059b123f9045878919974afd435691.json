@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -3085,9 +3085,9 @@
       "ID": "KALL_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Pest Control or Taxonomist?",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 205
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -3133,9 +3133,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 367
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -3348,8 +3348,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:10:46.483452+00:00",
+  "LastChanged_Achievements": "2023-12-10T00:12:00.8742633+00:00",
   "LastUpdate_AppInfo": "2023-12-08T02:20:37.1231344+00:00",
-  "LastUpdate_Ratings": "2023-12-09T22:59:25.0575827+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:10:46.4835042+00:00"
+  "LastUpdate_Ratings": "2023-12-10T00:00:45.32017+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:12:00.8743174+00:00"
 }

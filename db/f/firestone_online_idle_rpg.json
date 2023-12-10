@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -607,9 +607,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3213,
+  "EOS_Progressed": 3214,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9337,6 +9337,11 @@
       "Time": "2023-12-09T23:06:56.6730573+00:00",
       "NumProgressed": 3213,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-10T00:07:32.9905105+00:00",
+      "NumProgressed": 3214,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9532,7 +9537,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "fourleafclover",
@@ -9676,7 +9681,7 @@
       "Name": "Milestone collector",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "minerclicker",
@@ -9708,7 +9713,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "mythicpower",
@@ -9804,7 +9809,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "thealchemist",
@@ -9836,7 +9841,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "thepowerofawakening",
@@ -9908,7 +9913,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "warmachinesarmy",
@@ -9940,14 +9945,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3213,
+      "Progressed": 3214,
       "Completed": 2
     }
   ],
@@ -9955,8 +9960,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-09T22:00:58.0026734+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:06:56.6730569+00:00",
-  "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:00:37.4644382+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:06:56.673154+00:00"
+  "LastChanged_Achievements": "2023-12-10T00:07:32.9905101+00:00",
+  "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
+  "LastUpdate_Ratings": "2023-12-10T00:01:34.1470494+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:07:32.9905918+00:00"
 }

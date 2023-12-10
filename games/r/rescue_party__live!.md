@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ASAP | 97.00% | ~231 |
+| ASAP | 98.00% | ~233 |
 | Life matters | 37.00% | ~88 |
 | Medal of honor | 36.00% | ~86 |
 | Safety first | 32.00% | ~76 |

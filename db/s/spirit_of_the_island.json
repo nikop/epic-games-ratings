@@ -3,12 +3,12 @@
   "Name": "Spirit of the Island",
   "ProductSlug": "spirit-of-the-island",
   "Ranking_Rating": 788,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-03-16T16:00:00+00:00",
     "PcReleaseDate": "2022-03-16T16:00:00+00:00",
@@ -513,8 +513,8 @@
   "FirstSeenRating": "2022-08-30T22:04:07.0610643+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:27.0098069+00:00",
   "LastChanged": "2023-10-09T02:14:35.7238714+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:07:23.8765488+00:00",
+  "LastChanged_Achievements": "2023-12-10T00:07:52.9788303+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:21.2255619+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:00:46.9474178+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:07:23.8766063+00:00"
+  "LastUpdate_Ratings": "2023-12-10T00:01:40.4251123+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:07:52.9788642+00:00"
 }

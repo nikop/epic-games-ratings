@@ -54,12 +54,12 @@
 | Catharsis | 32.00% | ~496 |
 | Ghost of the Father | 32.00% | ~496 |
 | The Cure | 32.00% | ~496 |
+| Revenge! | 32.00% | ~496 |
 | Driven | 32.00% | ~496 |
 | Focused | 31.00% | ~480 |
 | Completionist | 31.00% | ~480 |
 | Fade Away | 31.00% | ~480 |
 | Big Game Hunter | 31.00% | ~480 |
-| Revenge! | 31.00% | ~480 |
 | Heart of Darkness | 31.00% | ~480 |
 | Bringer of War | 31.00% | ~480 |
 | Cat's in the Cradle | 30.00% | ~465 |

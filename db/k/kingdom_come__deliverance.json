@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -9055,10 +9055,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28453,
       "NumberOfAwardsMax": 7659
+    },
+    {
+      "Time": "2023-12-09T23:59:50.6526863+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28455,
+      "NumberOfAwardsMax": 7659
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28453,
+  "NumberOfAwards": 28455,
   "NumberOfAwardsMax": 7659,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9120,7 +9126,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1677
+      "Count": 1679
     },
     {
       "Text": "This game is Relaxing",
@@ -9141,9 +9147,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 811832,
+  "EOS_Progressed": 811835,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 996,
+  "EOS_NewPlayers": 992,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -35426,6 +35432,11 @@
       "Time": "2023-12-09T23:10:01.5089639+00:00",
       "NumProgressed": 811832,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-10T00:11:27.3669765+00:00",
+      "NumProgressed": 811835,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -35453,7 +35464,7 @@
       "Name": "Alcoholic",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2435
+      "UsersEstimate": 2436
     },
     {
       "ID": "Anorectic",
@@ -35461,7 +35472,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129893
+      "UsersEstimate": 129894
     },
     {
       "ID": "Awakening",
@@ -35493,7 +35504,7 @@
       "Name": "Bailiff",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7306
+      "UsersEstimate": 7307
     },
     {
       "ID": "Bard",
@@ -35517,7 +35528,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 259786
+      "UsersEstimate": 259787
     },
     {
       "ID": "Bookworm",
@@ -35549,7 +35560,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 202958
+      "UsersEstimate": 202959
     },
     {
       "ID": "Chivalrous",
@@ -35597,7 +35608,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 81183
+      "UsersEstimate": 81184
     },
     {
       "ID": "DavidHorak",
@@ -35637,7 +35648,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186721
+      "UsersEstimate": 186722
     },
     {
       "ID": "Fighter",
@@ -35653,7 +35664,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129893
+      "UsersEstimate": 129894
     },
     {
       "ID": "Freud",
@@ -35757,7 +35768,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105538
+      "UsersEstimate": 105539
     },
     {
       "ID": "Judas",
@@ -35917,7 +35928,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162366
+      "UsersEstimate": 162367
     },
     {
       "ID": "RevenantOfLedechko",
@@ -35957,7 +35968,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162366
+      "UsersEstimate": 162367
     },
     {
       "ID": "SerialKiller",
@@ -35981,7 +35992,7 @@
       "Name": "Sniper",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2435
+      "UsersEstimate": 2436
     },
     {
       "ID": "StealthKiller",
@@ -36037,7 +36048,7 @@
       "Name": "Tracker",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 7306
+      "UsersEstimate": 7307
     },
     {
       "ID": "Traveller",
@@ -36092,15 +36103,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 811832,
+      "Progressed": 811835,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-12-09T22:58:04.7885569+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:10:01.5089631+00:00",
+  "LastChanged": "2023-12-09T23:59:50.6526861+00:00",
+  "LastChanged_Achievements": "2023-12-10T00:11:27.3669762+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:13.9714541+00:00",
-  "LastUpdate_Ratings": "2023-12-09T22:58:04.7885575+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:10:01.509136+00:00"
+  "LastUpdate_Ratings": "2023-12-09T23:59:50.6526867+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:11:27.3671308+00:00"
 }

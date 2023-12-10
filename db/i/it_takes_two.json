@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 26893,
+  "EOS_Progressed": 26895,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 1299,
+  "EOS_NewPlayers": 1297,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -9453,6 +9453,11 @@
       "Time": "2023-12-09T23:09:48.777118+00:00",
       "NumProgressed": 26893,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-10T00:11:18.0345515+00:00",
+      "NumProgressed": 26895,
+      "NumCompleted": 117
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -9465,7 +9470,7 @@
       "Name": "It Took Two",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 12102
+      "UsersEstimate": 12103
     },
     {
       "ID": "achievement_10",
@@ -9473,7 +9478,7 @@
       "Name": "Snackosaurus",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 2151
+      "UsersEstimate": 2152
     },
     {
       "ID": "achievement_11",
@@ -9489,7 +9494,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 15329
+      "UsersEstimate": 15330
     },
     {
       "ID": "achievement_13",
@@ -9497,7 +9502,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "achievement_14",
@@ -9545,7 +9550,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 5916
+      "UsersEstimate": 5917
     },
     {
       "ID": "achievement_2",
@@ -9569,7 +9574,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 23397
+      "UsersEstimate": 23399
     },
     {
       "ID": "achievement_4",
@@ -9577,7 +9582,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 23666
+      "UsersEstimate": 23668
     },
     {
       "ID": "achievement_5",
@@ -9601,7 +9606,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 21245
+      "UsersEstimate": 21247
     },
     {
       "ID": "achievement_8",
@@ -9609,7 +9614,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 11564
+      "UsersEstimate": 11565
     },
     {
       "ID": "achievement_9",
@@ -9617,20 +9622,20 @@
       "Name": "A Daring Devil",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 14253
+      "UsersEstimate": 14254
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 26893,
+      "Progressed": 26895,
       "Completed": 117
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:09:48.7771176+00:00",
+  "LastChanged_Achievements": "2023-12-10T00:11:18.034551+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:16.8565582+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:00:52.0232031+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:09:48.7771702+00:00"
+  "LastUpdate_Ratings": "2023-12-10T00:01:43.9778731+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:11:18.0346027+00:00"
 }

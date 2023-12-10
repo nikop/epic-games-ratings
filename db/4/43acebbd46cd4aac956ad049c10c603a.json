@@ -3,12 +3,12 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 25,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,7 +216,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 912,
+  "EOS_Progressed": 914,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -2251,6 +2251,11 @@
       "Time": "2023-12-09T21:04:16.4238235+00:00",
       "NumProgressed": 912,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T00:05:54.1641372+00:00",
+      "NumProgressed": 914,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2303,7 +2308,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "BreakTheLoop",
@@ -2319,7 +2324,7 @@
       "Name": "Bridge Builder",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ChasingTheLight",
@@ -2375,7 +2380,7 @@
       "Name": "Ecstatic Truth",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Excellent",
@@ -2423,7 +2428,7 @@
       "Name": "High Plain",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "IntoTheMachine",
@@ -2447,7 +2452,7 @@
       "Name": "Lord of the Files",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "LostMarshes",
@@ -2519,7 +2524,7 @@
       "Name": "Overload",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "Persistent",
@@ -2551,7 +2556,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "RenaissanceRobot",
@@ -2565,9 +2570,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 55
     },
     {
       "ID": "Signatory",
@@ -2607,7 +2612,7 @@
       "Name": "Team Spirit",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "TextAdventurer",
@@ -2671,7 +2676,7 @@
       "Name": "The Word Endures",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "TouchGrass",
@@ -2685,9 +2690,9 @@
       "ID": "TrevorsBiographer",
       "SetID": "1n308hc",
       "Name": "Trevor\u0027s Biographer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 46
     },
     {
       "ID": "VerdantCanyon",
@@ -2703,7 +2708,7 @@
       "Name": "Wanderers",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "WesternDelta",
@@ -2734,7 +2739,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 912,
+      "Progressed": 914,
       "Completed": 1
     }
   ],
@@ -2742,8 +2747,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:04:40.3913544+00:00",
+  "LastChanged_Achievements": "2023-12-10T00:05:54.1641368+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-09T22:57:58.7327464+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:04:40.3914118+00:00"
+  "LastUpdate_Ratings": "2023-12-09T23:59:46.5703276+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:05:54.1641898+00:00"
 }

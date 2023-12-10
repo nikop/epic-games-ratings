@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~319 |
-| Your first fight | 86.00% | ~312 |
+| Your first fight | 87.00% | ~316 |
 | First winning | 85.00% | ~309 |
 | Good Person Chip | 85.00% | ~309 |
 | Your first job | 83.00% | ~301 |

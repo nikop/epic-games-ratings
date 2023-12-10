@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1724,9 +1724,9 @@
       "ID": "lil_bobo_fight",
       "SetID": "69co12a",
       "Name": "Your first fight",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 316
     },
     {
       "ID": "met_casey",
@@ -1979,8 +1979,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:09:28.4450465+00:00",
+  "LastChanged_Achievements": "2023-12-10T00:11:03.3104885+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:01.6440907+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:00:01.6257574+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:09:28.4450953+00:00"
+  "LastUpdate_Ratings": "2023-12-10T00:01:10.1250489+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:11:03.3105381+00:00"
 }

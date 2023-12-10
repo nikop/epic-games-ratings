@@ -2,13 +2,13 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 992,
+  "Ranking_Rating": 993,
   "Ranking_Popularity": 289,
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2083,9 +2083,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 282693,
+  "EOS_Progressed": 282697,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 717,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28773,6 +28773,11 @@
       "Time": "2023-12-09T23:04:56.7049964+00:00",
       "NumProgressed": 282693,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T00:06:06.5888737+00:00",
+      "NumProgressed": 282697,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -29095,21 +29100,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 282693,
+      "Progressed": 282697,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 852,
+      "Progressed": 856,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-12-09T17:03:08.550952+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:04:56.7049959+00:00",
-  "LastUpdate_AppInfo": "2023-12-02T22:59:21.6593003+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:03:57.6767893+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:04:56.705156+00:00"
+  "LastChanged_Achievements": "2023-12-10T00:06:06.5888733+00:00",
+  "LastUpdate_AppInfo": "2023-12-09T23:59:18.5678913+00:00",
+  "LastUpdate_Ratings": "2023-12-10T00:05:24.1854063+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:06:06.5889885+00:00"
 }

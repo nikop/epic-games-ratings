@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -6907,9 +6907,9 @@
       "ID": "achievement_11",
       "SetID": "222fo9l",
       "Name": "Betrayed",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 880
+      "UsersEstimate": 902
     },
     {
       "ID": "achievement_12",
@@ -7195,9 +7195,9 @@
       "ID": "achievement_44",
       "SetID": "222fo9l",
       "Name": "Get Off My Ship!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 990
+      "UsersEstimate": 1012
     },
     {
       "ID": "achievement_45",
@@ -7276,8 +7276,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-12-06T16:57:59.3139948+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:09:43.1057809+00:00",
-  "LastUpdate_AppInfo": "2023-12-02T22:58:16.9880376+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:01:06.0098543+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:09:43.1058326+00:00"
+  "LastChanged_Achievements": "2023-12-10T00:11:13.7705426+00:00",
+  "LastUpdate_AppInfo": "2023-12-09T23:58:28.7137254+00:00",
+  "LastUpdate_Ratings": "2023-12-10T00:01:53.4003613+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:11:13.7705925+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Deliver Us Mars",
   "ProductSlug": "deliver-us-mars",
   "Ranking_Rating": 933,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 618,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-02-02T15:00:00+00:00",
     "PcReleaseDate": "2023-02-02T15:00:00+00:00",
@@ -535,8 +535,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.5059025+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.8750622+00:00",
   "LastChanged": "2023-12-09T04:59:43.4410467+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:07:19.9425282+00:00",
-  "LastUpdate_AppInfo": "2023-12-02T22:58:49.6089326+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:01:45.9341884+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:07:19.9425444+00:00"
+  "LastChanged_Achievements": "2023-12-10T00:07:50.1516929+00:00",
+  "LastUpdate_AppInfo": "2023-12-09T23:58:48.0004711+00:00",
+  "LastUpdate_Ratings": "2023-12-10T00:02:20.0855322+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:07:50.1517082+00:00"
 }

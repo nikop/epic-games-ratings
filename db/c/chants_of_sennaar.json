@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 933,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 5.79,
   "EosHistory": [
@@ -3778,9 +3778,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 196
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3961,8 +3961,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:07:41.061991+00:00",
-  "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:01:32.9493404+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:07:41.0620329+00:00"
+  "LastChanged_Achievements": "2023-12-10T00:08:05.5412656+00:00",
+  "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
+  "LastUpdate_Ratings": "2023-12-10T00:02:11.6754654+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:08:05.5413035+00:00"
 }

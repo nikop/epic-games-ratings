@@ -3,12 +3,12 @@
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
   "Ranking_Rating": 534,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -7785,9 +7785,9 @@
       "ID": "ACH_DEFEND",
       "SetID": "5nj1ea3",
       "Name": "Pacifist",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3392
+      "UsersEstimate": 3450
     },
     {
       "ID": "ACH_DEFEND_THREE",
@@ -8130,8 +8130,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-12-03T20:57:09.9927807+00:00",
-  "LastChanged_Achievements": "2023-12-09T23:06:11.7380316+00:00",
-  "LastUpdate_AppInfo": "2023-12-02T22:58:47.2204383+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:02:51.9674341+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:06:11.738102+00:00"
+  "LastChanged_Achievements": "2023-12-10T00:07:00.6244687+00:00",
+  "LastUpdate_AppInfo": "2023-12-09T23:58:54.562099+00:00",
+  "LastUpdate_Ratings": "2023-12-10T00:02:29.8223427+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:07:00.6245446+00:00"
 }

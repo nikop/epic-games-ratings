@@ -21,12 +21,12 @@ Rating: 4.64 (Ranked 336)
 | Freeze | 52.00% | ~1,144 |
 | S.O.S. | 48.00% | ~1,056 |
 | Full Arsenal | 46.00% | ~1,012 |
-| Get Off My Ship! | 45.00% | ~990 |
+| Get Off My Ship! | 46.00% | ~1,012 |
 | Strange Transmissions | 45.00% | ~990 |
 | Wreckage | 44.00% | ~968 |
 | Keeper of the Faith | 42.00% | ~924 |
 | Live with the Hot Ones | 42.00% | ~924 |
-| Betrayed | 40.00% | ~880 |
+| Betrayed | 41.00% | ~902 |
 | Exodus | 39.00% | ~858 |
 | Legend Teller | 39.00% | ~858 |
 | Mindless Prey | 39.00% | ~858 |

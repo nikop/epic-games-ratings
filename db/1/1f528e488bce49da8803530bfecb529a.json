@@ -4,8 +4,8 @@
   "ProductSlug": "kings-bounty-ii-dukes-edition-8df41c",
   "Ranking_EOS_Progress": 787,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2021-08-24T17:00:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -32,7 +34,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-12-10T00:00:39.365846+00:00",
   "LastUpdate_AppInfo": "2023-12-07T10:57:05.4972365+00:00",
-  "LastUpdate_Ratings": "2023-12-09T22:59:16.0966805+00:00",
-  "LastUpdate_Achievements": "2023-12-09T23:05:23.6794689+00:00"
+  "LastUpdate_Ratings": "2023-12-10T00:00:39.3658476+00:00",
+  "LastUpdate_Achievements": "2023-12-10T00:06:26.1425572+00:00"
 }
