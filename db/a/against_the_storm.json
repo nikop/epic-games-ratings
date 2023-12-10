@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 3698,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3401,9 +3401,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 17894,
+  "EOS_Progressed": 17901,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": -8,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -15281,6 +15281,11 @@
       "Time": "2023-12-10T20:05:17.7815145+00:00",
       "NumProgressed": 17894,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-10T21:06:26.7386556+00:00",
+      "NumProgressed": 17901,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15373,7 +15378,7 @@
       "Name": "Homesick",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "WinFirstGame",
@@ -15387,9 +15392,9 @@
       "ID": "WinHard",
       "SetID": "cfbk359",
       "Name": "Overcoming Difficulty",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 179
     },
     {
       "ID": "WinImpossible",
@@ -15411,9 +15416,9 @@
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 107
     },
     {
       "ID": "WinNearBarren",
@@ -15483,9 +15488,9 @@
       "ID": "WinNearLevitating",
       "SetID": "cfbk359",
       "Name": "Levitating Monument",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 90
     },
     {
       "ID": "WinNearMines",
@@ -15501,7 +15506,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "WinNearOutpost",
@@ -15515,9 +15520,9 @@
       "ID": "WinNearRuins",
       "SetID": "cfbk359",
       "Name": "Lost Colonies",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 125
     },
     {
       "ID": "WinNearStatue",
@@ -15531,9 +15536,9 @@
       "ID": "WinNearTemple",
       "SetID": "cfbk359",
       "Name": "Forsaken Gods Temple",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 54
     },
     {
       "ID": "WinNearTorrent",
@@ -15541,7 +15546,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "WinNearWatchtower",
@@ -15605,7 +15610,7 @@
       "Name": "A Real Challenge",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "WinWIthCaches",
@@ -15764,15 +15769,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17894,
+      "Progressed": 17901,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-10T04:57:34.5838562+00:00",
-  "LastChanged_Achievements": "2023-12-10T20:05:17.7815142+00:00",
+  "LastChanged_Achievements": "2023-12-10T21:06:26.7386549+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:57:43.8616523+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:05:17.7816152+00:00"
+  "LastUpdate_Ratings": "2023-12-10T20:58:17.1846346+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:06:26.7387518+00:00"
 }

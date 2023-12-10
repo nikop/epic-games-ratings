@@ -5,9 +5,9 @@
   "Ranking_Rating": 913,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 284,
-  "Ranking_EOS_Progress": 125,
+  "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1332,9 +1332,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30113,
+  "EOS_Progressed": 30116,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -26432,6 +26432,11 @@
       "Time": "2023-12-10T20:09:04.4802785+00:00",
       "NumProgressed": 30113,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-12-10T21:10:05.9038311+00:00",
+      "NumProgressed": 30116,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 22,
@@ -26547,7 +26552,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5420
+      "UsersEstimate": 5421
     },
     {
       "ID": "1029",
@@ -26569,9 +26574,9 @@
       "ID": "1031",
       "SetID": "9l3d3cl",
       "Name": "Well Stocked",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3915
+      "UsersEstimate": 4216
     },
     {
       "ID": "1032",
@@ -26579,7 +26584,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12045
+      "UsersEstimate": 12046
     },
     {
       "ID": "1033",
@@ -26618,15 +26623,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30113,
+      "Progressed": 30116,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-10T20:09:04.4802783+00:00",
+  "LastChanged_Achievements": "2023-12-10T21:10:05.9038306+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:17.8374063+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:57:16.8346783+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:09:04.4804024+00:00"
+  "LastUpdate_Ratings": "2023-12-10T20:57:39.0324508+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:10:05.9039877+00:00"
 }

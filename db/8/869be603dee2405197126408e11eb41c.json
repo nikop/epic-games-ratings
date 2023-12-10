@@ -2,13 +2,13 @@
   "ID": "869be603dee2405197126408e11eb41c",
   "Name": "BLOCKLORDS",
   "ProductSlug": "blocklords-2a2ccd",
-  "Ranking_Rating": 996,
-  "Ranking_Popularity": 548,
-  "Ranking_PopularitySum": 550,
-  "Ranking_EOS_Progress": 788,
+  "Ranking_Rating": 1002,
+  "Ranking_Popularity": 542,
+  "Ranking_PopularitySum": 544,
+  "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-15T06:00:00+00:00",
     "PcReleaseDate": "2023-09-15T06:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.05,
+  "Rating": 4.04,
   "RatingHistory": [
     {
       "Time": "2023-09-27T08:01:20.8251438+00:00",
@@ -305,18 +305,24 @@
       "Rating": 4.05,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-12-10T21:03:03.8710676+00:00",
+      "Rating": 4.04,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21,
-  "NumberOfAwardsMax": 21,
+  "NumberOfAwards": 22,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -331,8 +337,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-08T14:02:05.3768968+00:00",
   "FirstSeenRating": "2023-09-27T08:01:20.8251435+00:00",
-  "LastChanged": "2023-12-09T23:03:18.8799288+00:00",
+  "LastChanged": "2023-12-10T21:03:03.8710675+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:09.8712064+00:00",
-  "LastUpdate_Ratings": "2023-12-10T20:02:42.3813851+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:04:52.8948246+00:00"
+  "LastUpdate_Ratings": "2023-12-10T21:03:03.8710679+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:05:54.3845764+00:00"
 }

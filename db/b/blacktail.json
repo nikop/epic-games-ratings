@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 781,
+  "EOS_Progressed": 783,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2331,6 +2331,11 @@
       "Time": "2023-12-10T20:09:21.6758523+00:00",
       "NumProgressed": 781,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T21:10:28.267792+00:00",
+      "NumProgressed": 783,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2366,7 +2371,7 @@
       "Name": "Dental maturity",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "DevilDetail",
@@ -2374,7 +2379,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Devoted",
@@ -2454,7 +2459,7 @@
       "Name": "Spirit animal",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "LiarLiar",
@@ -2534,7 +2539,7 @@
       "Name": "Uprooting",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "TheGuardian",
@@ -2558,7 +2563,7 @@
       "Name": "Tooth fairy",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "Toxic",
@@ -2597,7 +2602,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 781,
+      "Progressed": 783,
       "Completed": 1
     }
   ],
@@ -2605,8 +2610,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-10T20:09:21.675852+00:00",
+  "LastChanged_Achievements": "2023-12-10T21:10:28.2677914+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:25.0593399+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:59:58.9591138+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:09:21.6758872+00:00"
+  "LastUpdate_Ratings": "2023-12-10T21:01:20.2016597+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:10:28.2678208+00:00"
 }

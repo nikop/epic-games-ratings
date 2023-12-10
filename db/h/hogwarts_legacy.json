@@ -6,9 +6,9 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
-  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11805,9 +11805,9 @@
       "Count": 849
     }
   ],
-  "EOS_Progressed": 304185,
+  "EOS_Progressed": 304186,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36920,6 +36920,11 @@
       "Time": "2023-12-10T20:04:43.2868366+00:00",
       "NumProgressed": 304185,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-10T21:05:41.78076+00:00",
+      "NumProgressed": 304186,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37155,7 +37160,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30418
+      "UsersEstimate": 30419
     },
     {
       "ID": "PFA_36",
@@ -37283,14 +37288,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30418
+      "UsersEstimate": 30419
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304185,
+      "Progressed": 304186,
       "Completed": 525
     }
   ],
@@ -37298,8 +37303,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-10T19:58:58.4573412+00:00",
-  "LastChanged_Achievements": "2023-12-10T20:04:43.2868362+00:00",
+  "LastChanged_Achievements": "2023-12-10T21:05:41.7807598+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:58:58.4573417+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:04:43.2869569+00:00"
+  "LastUpdate_Ratings": "2023-12-10T20:59:55.7468706+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:05:41.7809166+00:00"
 }

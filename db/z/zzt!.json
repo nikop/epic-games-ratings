@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3478,
+  "EOS_Progressed": 3479,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.66,
   "EosHistory": [
@@ -5984,6 +5984,11 @@
       "Time": "2023-12-10T15:06:01.5542825+00:00",
       "NumProgressed": 3478,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-12-10T21:07:19.3060847+00:00",
+      "NumProgressed": 3479,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 5,
@@ -5995,7 +6000,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3478
+      "UsersEstimate": 3479
     },
     {
       "ID": "2",
@@ -6003,7 +6008,7 @@
       "Name": "Traveler",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "3",
@@ -6034,7 +6039,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3478,
+      "Progressed": 3479,
       "Completed": 162
     }
   ],
@@ -6042,8 +6047,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-12-10T20:05:58.2339221+00:00",
+  "LastChanged_Achievements": "2023-12-10T21:07:19.3060844+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:11.9098661+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:58:59.3885416+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:05:58.2339499+00:00"
+  "LastUpdate_Ratings": "2023-12-10T20:59:56.9366814+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:07:19.306128+00:00"
 }

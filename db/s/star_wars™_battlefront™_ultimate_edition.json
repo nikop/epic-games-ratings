@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1656,
+  "EOS_Progressed": 1657,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4954,6 +4954,11 @@
       "Time": "2023-12-10T19:09:05.6055509+00:00",
       "NumProgressed": 1656,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T21:10:35.9911964+00:00",
+      "NumProgressed": 1657,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5142,7 +5147,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_30",
@@ -5190,7 +5195,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "achievement_36",
@@ -5206,7 +5211,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "achievement_38",
@@ -5318,7 +5323,7 @@
       "Name": "Shoot first",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_50",
@@ -5446,7 +5451,7 @@
       "Name": "A cunning warrior",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_8",
@@ -5469,13 +5474,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1656,
+      "Progressed": 1657,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1656,
+      "Progressed": 1657,
       "Completed": 1
     }
   ],
@@ -5483,8 +5488,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-10T20:09:28.1874159+00:00",
+  "LastChanged_Achievements": "2023-12-10T21:10:35.9911961+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:59:37.5656636+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:09:28.1874761+00:00"
+  "LastUpdate_Ratings": "2023-12-10T21:00:51.1020232+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:10:35.991256+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
     "PcReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -594,9 +594,9 @@
       "ID": "L20_PERFECT",
       "SetID": "6finf64",
       "Name": "Hospital Flowers",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "L21_FINISH",
@@ -706,9 +706,9 @@
       "ID": "L7_5_PERFECT",
       "SetID": "6finf64",
       "Name": "As the Crow Flies",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "L7_FINISH",
@@ -779,8 +779,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-12-10T20:08:15.9736091+00:00",
+  "LastChanged_Achievements": "2023-12-10T21:09:03.7512306+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.8428445+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:57:47.2047857+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:08:15.9736399+00:00"
+  "LastUpdate_Ratings": "2023-12-10T20:58:21.7532364+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:09:03.7512644+00:00"
 }

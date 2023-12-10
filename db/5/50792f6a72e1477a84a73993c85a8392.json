@@ -2,10 +2,10 @@
   "ID": "50792f6a72e1477a84a73993c85a8392",
   "Name": "Real Motocross Driving Simulator",
   "ProductSlug": "real-motocross-driving-simulator-c8ff84",
-  "Ranking_EOS_Progress": 788,
+  "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-01T17:30:00+00:00",
     "PcReleaseDate": "2023-08-08T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-17T03:58:01.7148469+00:00",
   "LastUpdate_AppInfo": "2023-12-06T02:20:23.6856813+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:58:27.2832216+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:05:27.083546+00:00"
+  "LastUpdate_Ratings": "2023-12-10T20:59:14.2394125+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:06:38.8204469+00:00"
 }

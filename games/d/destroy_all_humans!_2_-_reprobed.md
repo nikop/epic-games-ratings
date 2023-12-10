@@ -1,23 +1,23 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 546)  
+Rating: 4.53 (Ranked 545)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 41.00% | ~12 |
-| Rock of the Bay | 34.00% | ~10 |
-| Ducks in a Row, Fish in a Barrel | 28.00% | ~8 |
-| Furon Fashion | 24.00% | ~7 |
-| Shop Til They Drop | 21.00% | ~6 |
+| Mash Machine | 40.00% | ~12 |
+| Rock of the Bay | 37.00% | ~11 |
+| Ducks in a Row, Fish in a Barrel | 30.00% | ~9 |
+| Furon Fashion | 27.00% | ~8 |
+| Shop Til They Drop | 20.00% | ~6 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 17.00% | ~5 |
-| I Look Up As I Walk to Takoshima | 14.00% | ~4 |
-| Upgreatest | 14.00% | ~4 |
-| Pimp My Raid | 14.00% | ~4 |
+| I Look Up As I Walk to Takoshima | 13.00% | ~4 |
+| Earthly Pleasures | 13.00% | ~4 |
+| Upgreatest | 13.00% | ~4 |
+| Pimp My Raid | 13.00% | ~4 |
 | Fly Me to the Moon Base | 10.00% | ~3 |
 | Scuttled | 10.00% | ~3 |
-| Earthly Pleasures | 10.00% | ~3 |
 | Dusted | 10.00% | ~3 |
 | Perfect Probulator | 7.00% | ~2 |
 | Cult Following | 7.00% | ~2 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 | Arkvoodle Doodle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29 (Ranked 546)  
+Progressed: 30 (Ranked 543)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-07 | 21 | 0 |
 | 2023-12-08 | 25 | 0 |
 | 2023-12-09 | 28 | 0 |
-| 2023-12-10 | 29 | 0 |
+| 2023-12-10 | 30 | 0 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 481)  
 Sum: 35 (Ranked 509)  

@@ -17,12 +17,12 @@ Rating: 4.58 (Ranked 450)
 | Well-to-do | 44.00% | ~29 |
 | Ladies' man | 42.00% | ~28 |
 | Ferocious wild boars | 35.00% | ~23 |
-| Beast slayer | 30.00% | ~20 |
+| Beast slayer | 32.00% | ~21 |
 | Idiot | 30.00% | ~20 |
 | Wise man | 29.00% | ~19 |
+| Death of a legend | 29.00% | ~19 |
 | Ogre friend | 29.00% | ~19 |
 | Family man | 27.00% | ~18 |
-| Death of a legend | 27.00% | ~18 |
 | Hard worker | 27.00% | ~18 |
 | The fourth triplet | 27.00% | ~18 |
 | Archaeologist | 26.00% | ~17 |

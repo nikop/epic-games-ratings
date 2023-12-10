@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1385,6 +1385,11 @@
       "Time": "2023-12-10T02:01:15.0307086+00:00",
       "NumProgressed": 408,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T21:10:34.3727545+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1748,7 +1753,7 @@
       "Name": "The woodcutter",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "MILLS",
@@ -1780,7 +1785,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1826,9 +1831,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "POPULATION_2",
@@ -1916,7 +1921,7 @@
       "Name": "Sport is good for you",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SPORTS_2",
@@ -2027,7 +2032,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 0
     }
   ],
@@ -2035,8 +2040,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-10T20:09:26.7976076+00:00",
+  "LastChanged_Achievements": "2023-12-10T21:10:34.3727542+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.3916201+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:59:35.3564812+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:09:26.7976666+00:00"
+  "LastUpdate_Ratings": "2023-12-10T21:00:47.8591048+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:10:34.3728173+00:00"
 }

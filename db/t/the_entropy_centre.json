@@ -4,8 +4,8 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -966,6 +966,11 @@
       "Time": "2023-12-10T18:06:15.9809468+00:00",
       "NumProgressed": 274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T21:07:22.5351985+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -977,7 +982,7 @@
       "Name": "Wake Up",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_ACT10",
@@ -1009,7 +1014,7 @@
       "Name": "All Alone",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ACT14",
@@ -1039,9 +1044,9 @@
       "ID": "ACH_ACT2",
       "SetID": "2310cb1",
       "Name": "Time Gates",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_ACT3",
@@ -1049,7 +1054,7 @@
       "Name": "Command Centre",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_ACT4",
@@ -1135,9 +1140,9 @@
       "ID": "ACH_FASHION",
       "SetID": "2310cb1",
       "Name": "Fashionista",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_HANDYMAN",
@@ -1145,7 +1150,7 @@
       "Name": "Handyman",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_LOOPER",
@@ -1161,7 +1166,7 @@
       "Name": "Reunited",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_REWINDTIME",
@@ -1169,7 +1174,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -1185,14 +1190,14 @@
       "Name": "You Are Terminated",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 0
     }
   ],
@@ -1200,8 +1205,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-12-10T20:06:00.6023966+00:00",
+  "LastChanged_Achievements": "2023-12-10T21:07:22.5351981+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:07.4917767+00:00",
-  "LastUpdate_Ratings": "2023-12-10T20:02:41.6386746+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:06:00.6024175+00:00"
+  "LastUpdate_Ratings": "2023-12-10T21:03:02.8387521+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:07:22.5352163+00:00"
 }

@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 88.00% | ~478 |
 | For the Horde! | 83.00% | ~451 |
 | Hammer Time, Round Two | 81.00% | ~440 |
-| The Hellwoods | 76.00% | ~413 |
+| The Hellwoods | 77.00% | ~418 |
 | The Plains of Strothalm | 72.00% | ~391 |
 | Experienced Thalya | 72.00% | ~391 |
 | Thalya's Concentrated Fury | 69.00% | ~375 |
@@ -16,7 +16,7 @@
 | Master of Magic | 64.00% | ~348 |
 | Heroes’ Gorge | 64.00% | ~348 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~337 |
-| Magic Accidents | 59.00% | ~320 |
+| Magic Accidents | 60.00% | ~326 |
 | The Ascent | 58.00% | ~315 |
 | It's Warm and Cozy at Home | 58.00% | ~315 |
 | Trap Master | 55.00% | ~299 |
@@ -42,7 +42,7 @@
 | The Finitude Drill | 27.00% | ~147 |
 | Hungry, Hungry Gorgu! | 26.00% | ~141 |
 | Stop Tanos! | 26.00% | ~141 |
-| Doom Hill | 25.00% | ~136 |
+| Doom Hill | 26.00% | ~141 |
 | Brimstone Shaken, Not Stirred | 24.00% | ~130 |
 | Sabotage! | 22.00% | ~119 |
 | Raiders of the Lost Stone | 22.00% | ~119 |
@@ -56,13 +56,13 @@
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~87 |
 | To the Max! | 16.00% | ~87 |
 | To Infinity And Beyond! | 16.00% | ~87 |
+| Evilification | 15.00% | ~81 |
 | Mirror, Mirror | 14.00% | ~76 |
-| Evilification | 14.00% | ~76 |
 | Untouchable | 13.00% | ~71 |
 | Heal Heal Blessing | 12.00% | ~65 |
 | Laser Eyes Are So Useless | 11.00% | ~60 |
+| Hands Off My Stones | 11.00% | ~60 |
 | Gorgu is in the Best of Health | 10.00% | ~54 |
-| Hands Off My Stones | 10.00% | ~54 |
 | No Mana, No Cry | 8.00% | ~43 |
 | I Don't Need Any Help | 7.00% | ~38 |
 ## Popularity (Based on EOS Achievements)

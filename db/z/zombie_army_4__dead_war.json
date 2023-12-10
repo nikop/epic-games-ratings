@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2520,9 +2520,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44113,
+  "EOS_Progressed": 44114,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9755,6 +9755,11 @@
       "Time": "2023-12-10T19:04:21.6223427+00:00",
       "NumProgressed": 44113,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-10T21:05:37.8656249+00:00",
+      "NumProgressed": 44114,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9766,7 +9771,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27350
+      "UsersEstimate": 27351
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -9838,7 +9843,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18086
+      "UsersEstimate": 18087
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -9958,7 +9963,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27791
+      "UsersEstimate": 27792
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -9974,7 +9979,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14998
+      "UsersEstimate": 14999
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -10006,7 +10011,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8381
+      "UsersEstimate": 8382
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -10014,7 +10019,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21615
+      "UsersEstimate": 21616
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -10062,7 +10067,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18527
+      "UsersEstimate": 18528
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -10094,7 +10099,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30438
+      "UsersEstimate": 30439
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -10118,7 +10123,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20733
+      "UsersEstimate": 20734
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -10126,7 +10131,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25144
+      "UsersEstimate": 25145
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -10134,7 +10139,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20733
+      "UsersEstimate": 20734
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -10206,7 +10211,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14998
+      "UsersEstimate": 14999
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -10278,7 +10283,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7940
+      "UsersEstimate": 7941
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -10293,15 +10298,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44113,
+      "Progressed": 44114,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-10T19:58:50.6568261+00:00",
-  "LastChanged_Achievements": "2023-12-10T20:04:39.5384944+00:00",
+  "LastChanged_Achievements": "2023-12-10T21:05:37.8656244+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.7466868+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:58:50.6568266+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:04:39.538567+00:00"
+  "LastUpdate_Ratings": "2023-12-10T20:59:45.5277576+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:05:37.8657259+00:00"
 }

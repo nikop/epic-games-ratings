@@ -2,10 +2,10 @@
   "ID": "af3dedaf653943779d7161fa3531229f",
   "Name": "Alice\u0027s Jigsaw. Wonderland Chronicles",
   "ProductSlug": "alices-jigsaw-wonderland-chronicles-8c6d0c",
-  "Ranking_EOS_Progress": 788,
+  "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-12-27T21:00:00+00:00",
     "PcReleaseDate": "2019-04-09T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-07T05:57:12.9339325+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:58:54.1486681+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:07:59.0436518+00:00"
+  "LastUpdate_Ratings": "2023-12-10T20:59:50.2004356+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:08:41.9986028+00:00"
 }

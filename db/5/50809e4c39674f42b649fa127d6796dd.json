@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 447,
+  "EOS_Progressed": 448,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1137,6 +1137,11 @@
       "Time": "2023-12-10T17:05:50.1450595+00:00",
       "NumProgressed": 447,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T21:06:48.0223038+00:00",
+      "NumProgressed": 448,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1253,7 +1258,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1261,7 +1266,7 @@
       "Name": "Speed Demon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1269,7 +1274,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1341,7 +1346,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1468,14 +1473,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 447,
+      "Progressed": 448,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-10T20:05:34.076072+00:00",
+  "LastChanged_Achievements": "2023-12-10T21:06:48.0223034+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-10T20:02:54.2430754+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:05:34.0761009+00:00"
+  "LastUpdate_Ratings": "2023-12-10T21:03:19.3940406+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:06:48.0223304+00:00"
 }

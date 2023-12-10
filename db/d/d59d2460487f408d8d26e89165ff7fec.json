@@ -2,10 +2,10 @@
   "ID": "d59d2460487f408d8d26e89165ff7fec",
   "Name": "WARSHIFT",
   "ProductSlug": "warshift-127867",
-  "Ranking_EOS_Progress": 788,
+  "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-11-15T01:00:00+00:00",
     "PcReleaseDate": "2016-10-13T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-16T16:02:52.8628156+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:51.3333936+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:58:39.8946172+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:08:04.4433845+00:00"
+  "LastUpdate_Ratings": "2023-12-10T20:59:31.1756083+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:08:49.0561396+00:00"
 }

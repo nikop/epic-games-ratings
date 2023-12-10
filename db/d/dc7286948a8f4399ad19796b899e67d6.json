@@ -2,10 +2,10 @@
   "ID": "dc7286948a8f4399ad19796b899e67d6",
   "Name": "AIMX",
   "ProductSlug": "aimx-237344",
-  "Ranking_EOS_Progress": 788,
+  "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-11-20T19:30:00+00:00",
     "PcReleaseDate": "2023-11-20T19:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-22T07:01:23.7560323+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:59.9424481+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:58:28.871711+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:05:31.735728+00:00"
+  "LastUpdate_Ratings": "2023-12-10T20:59:16.4524766+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:06:44.7476047+00:00"
 }

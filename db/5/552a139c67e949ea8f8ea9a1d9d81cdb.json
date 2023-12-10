@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1297,
+  "EOS_Progressed": 1298,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2987,6 +2987,11 @@
       "Time": "2023-12-10T17:05:56.8770722+00:00",
       "NumProgressed": 1297,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T21:06:56.5776531+00:00",
+      "NumProgressed": 1298,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2999,7 +3004,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3167,7 +3172,7 @@
       "Name": "The Octopus",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -3271,7 +3276,7 @@
       "Name": "Extra gear",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -3279,7 +3284,7 @@
       "Name": "Perfectionist",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -3335,27 +3340,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1297,
+      "Progressed": 1298,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 965,
-      "Completed": 965
+      "Progressed": 966,
+      "Completed": 966
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-10T20:05:40.5850744+00:00",
+  "LastChanged_Achievements": "2023-12-10T21:06:56.5776526+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:57:05.8729105+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:59:25.6245656+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:05:40.5851174+00:00"
+  "LastUpdate_Ratings": "2023-12-10T21:00:33.8614525+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:06:56.5777031+00:00"
 }

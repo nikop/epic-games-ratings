@@ -2,10 +2,10 @@
   "ID": "d50a739b158c4d0fb8f3788f837b09d2",
   "Name": "Barista Simulator",
   "ProductSlug": "barista-simulator-d284dd",
-  "Ranking_EOS_Progress": 788,
+  "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-01-12T14:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-04T20:57:11.4166727+00:00",
-  "LastUpdate_Ratings": "2023-12-10T20:00:15.5070723+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:08:00.8937476+00:00"
+  "LastUpdate_Ratings": "2023-12-10T21:02:42.470878+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:08:44.3346282+00:00"
 }

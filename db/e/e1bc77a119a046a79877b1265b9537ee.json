@@ -2,10 +2,10 @@
   "ID": "e1bc77a119a046a79877b1265b9537ee",
   "Name": "Crypto Mayhem",
   "ProductSlug": "crypto-mayhem-077ad0",
-  "Ranking_EOS_Progress": 788,
+  "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2024-08-10T14:00:00+00:00",
     "PcReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.8509387+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:58:55.435533+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:04:48.1613541+00:00"
+  "LastUpdate_Ratings": "2023-12-10T20:59:51.8638018+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:05:48.1453906+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 543,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.76,
   "EosHistory": [
@@ -1517,9 +1517,9 @@
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 418
     },
     {
       "ID": "ach_main03demon_doors",
@@ -1533,9 +1533,9 @@
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 326
     },
     {
       "ID": "ach_main04undead_completed",
@@ -1837,9 +1837,9 @@
       "ID": "ach_main16ring_completed",
       "SetID": "4hg22ll",
       "Name": "Doom Hill",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 141
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -1925,9 +1925,9 @@
       "ID": "ach_main19war_stonedamage",
       "SetID": "4hg22ll",
       "Name": "Hands Off My Stones",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_main20end_completed",
@@ -1949,9 +1949,9 @@
       "ID": "ach_main20end_spawners",
       "SetID": "4hg22ll",
       "Name": "Evilification",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
@@ -1964,8 +1964,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-10T20:03:38.0149688+00:00",
+  "LastChanged_Achievements": "2023-12-10T21:04:18.9569498+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:58:31.2538373+00:00",
-  "LastUpdate_Achievements": "2023-12-10T20:03:38.0150177+00:00"
+  "LastUpdate_Ratings": "2023-12-10T20:59:19.7625668+00:00",
+  "LastUpdate_Achievements": "2023-12-10T21:04:18.9570036+00:00"
 }

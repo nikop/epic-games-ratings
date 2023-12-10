@@ -28,8 +28,8 @@
 | I leave no man behind | 7.00% | ~38 |
 | The Invincible | 6.00% | ~33 |
 | Strong objection | 6.00% | ~33 |
+| Got lost again | 5.00% | ~27 |
 | Ubiquitous holes | 4.00% | ~22 |
-| Got lost again | 4.00% | ~22 |
 | I leave no man behind (no exceptions) | 2.00% | ~11 |
 | Convoy list | 0.90% | ~5 |
 | No more mistakes | 0.60% | ~3 |

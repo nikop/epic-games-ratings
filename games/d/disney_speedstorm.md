@@ -5,32 +5,32 @@ Rating: 4.39 (Ranked 754)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~40,055 |
-| IT MAKES BOOM! | 7.00% | ~23,366 |
-| EXTRA BOOST | 6.00% | ~20,028 |
-| PROTECTED | 4.00% | ~13,352 |
-| PRO | 4.00% | ~13,352 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,014 |
-| AGGRESSIVE RACER | 3.00% | ~10,014 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,676 |
-| A TIGER'S FEAR | 2.00% | ~6,676 |
-| TRAINING HARD | 1.00% | ~3,338 |
-| RELEASE THE KRAKEN | 1.00% | ~3,338 |
-| BE OUR GUEST | 1.00% | ~3,338 |
-| ACE SPEEDSTER | 1.00% | ~3,338 |
-| FRIENDLY | 1.00% | ~3,338 |
-| MASTER | 1.00% | ~3,338 |
-| LEGENDARY HERO | 0.90% | ~3,004 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,670 |
+| ROOKIE | 12.00% | ~40,064 |
+| IT MAKES BOOM! | 7.00% | ~23,370 |
+| EXTRA BOOST | 6.00% | ~20,032 |
+| PROTECTED | 4.00% | ~13,355 |
+| PRO | 4.00% | ~13,355 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,016 |
+| AGGRESSIVE RACER | 3.00% | ~10,016 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,677 |
+| A TIGER'S FEAR | 2.00% | ~6,677 |
+| TRAINING HARD | 1.00% | ~3,339 |
+| RELEASE THE KRAKEN | 1.00% | ~3,339 |
+| BE OUR GUEST | 1.00% | ~3,339 |
+| ACE SPEEDSTER | 1.00% | ~3,339 |
+| FRIENDLY | 1.00% | ~3,339 |
+| MASTER | 1.00% | ~3,339 |
+| LEGENDARY HERO | 0.90% | ~3,005 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,671 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,337 |
 | EXPERIENCED CREW | 0.60% | ~2,003 |
 | ACE BRAWLER | 0.50% | ~1,669 |
 | ACE DEFENDER | 0.50% | ~1,669 |
 | FRAMED! | 0.40% | ~1,335 |
 | ACE TRICKSTER | 0.40% | ~1,335 |
-| PERFECTLY POISED | 0.30% | ~1,001 |
+| PERFECTLY POISED | 0.30% | ~1,002 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333,794 (Ranked 50)  
+Progressed: 333,863 (Ranked 50)  
 Completed: 537 (0.16%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 537 (0.16%) (Ranked 272)
 | 2023-12-07 | 330,196 | 508 |
 | 2023-12-08 | 331,482 | 521 |
 | 2023-12-09 | 332,745 | 532 |
-| 2023-12-10 | 333,794 | 537 |
+| 2023-12-10 | 333,863 | 537 |
 ## Awards
 Max (Great for Beginners): 119  (Ranked 344)  
 Sum: 824 (Ranked 279)  
