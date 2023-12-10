@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.41% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.40% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -109,7 +109,7 @@
 | 107 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.94% |
 | 107 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 109 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 109 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.93% |
+| 110 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.92% |
 | 111 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 111 | [Night Book](games/n/night_book.md) | 2.78% |
 | 113 | [Dungeons 4](games/d/dungeons_4.md) | 2.76% |
@@ -131,8 +131,8 @@
 | 129 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.12% |
 | 130 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 130 | [Somerville](games/s/somerville.md) | 1.92% |
-| 132 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.88% |
 | 132 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.88% |
+| 133 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.87% |
 | 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.84% |
 | 135 | [Sifu](games/s/sifu.md) | 1.80% |
 | 136 | [Frogun](games/f/frogun.md) | 1.77% |
@@ -265,12 +265,12 @@
 | 259 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.20% |
 | 259 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
 | 265 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
+| 266 | [GRIME](games/g/grime.md) | 0.18% |
 | 266 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
 | 266 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
-| 268 | [Blanc](games/b/blanc.md) | 0.17% |
-| 268 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.17% |
-| 268 | [GRIME](games/g/grime.md) | 0.17% |
-| 268 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
+| 269 | [Blanc](games/b/blanc.md) | 0.17% |
+| 269 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.17% |
+| 269 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
 | 272 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.16% |
 | 272 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 272 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |

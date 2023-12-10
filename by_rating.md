@@ -8,7 +8,7 @@
 | 6 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 560 |
 | 6 | [Mago](games/m/mago.md) | 4.90 | 0 | 560 |
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 560 |
-| 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,959 | 113 |
+| 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,960 | 113 |
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 560 |
 | 11 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,872 | 41 |
 | 11 | [Firework](games/f/firework.md) | 4.89 | 0 | 560 |
@@ -30,7 +30,7 @@
 | 24 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.87 | 0 | 560 |
 | 24 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 13,827 | 30 |
 | 24 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.87 | 0 | 560 |
-| 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 553 | 208 |
+| 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 555 | 208 |
 | 32 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.86 | 0 | 560 |
 | 32 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 560 |
 | 32 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 140 | 325 |
@@ -43,29 +43,29 @@
 | 32 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,585 | 128 |
 | 32 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 560 |
 | 32 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 560 |
+| 44 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.85 | 0 | 560 |
 | 44 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 159 | 315 |
-| 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 8,144 | 48 |
+| 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 8,149 | 48 |
 | 44 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,706 | 69 |
 | 44 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 223 | 282 |
 | 44 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 169 | 311 |
 | 44 | [Subnautica](games/s/subnautica.md) | 4.85 | 769 | 178 |
-| 50 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.84 | 0 | 560 |
-| 50 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 48 | 443 |
-| 50 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 220 | 283 |
-| 50 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 491 | 215 |
-| 50 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 560 |
-| 50 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 444 | 223 |
-| 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 274 | 264 |
-| 50 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 560 |
-| 50 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.84 | 0 | 560 |
-| 50 | [WarmSnow](games/w/warmsnow.md) | 4.84 | 0 | 560 |
-| 60 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.83 | 0 | 560 |
-| 60 | [Coffee Talk](games/c/coffee_talk.md) | 4.83 | 0 | 560 |
-| 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 560 |
-| 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 560 |
-| 60 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.83 | 271 | 265 |
-| 60 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 28 | 508 |
-| 60 | [TUNIC](games/t/tunic.md) | 4.83 | 35 | 481 |
+| 51 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.84 | 0 | 560 |
+| 51 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 48 | 443 |
+| 51 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 220 | 283 |
+| 51 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 491 | 215 |
+| 51 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 560 |
+| 51 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 444 | 223 |
+| 51 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 274 | 264 |
+| 51 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 560 |
+| 51 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.84 | 0 | 560 |
+| 51 | [WarmSnow](games/w/warmsnow.md) | 4.84 | 0 | 560 |
+| 61 | [Coffee Talk](games/c/coffee_talk.md) | 4.83 | 0 | 560 |
+| 61 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 560 |
+| 61 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 560 |
+| 61 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.83 | 271 | 265 |
+| 61 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 28 | 508 |
+| 61 | [TUNIC](games/t/tunic.md) | 4.83 | 35 | 481 |
 | 67 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 560 |
 | 67 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 442 | 224 |
 | 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 6,189 | 61 |
@@ -105,7 +105,7 @@
 | 98 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 560 |
 | 98 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,197 | 142 |
 | 98 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 826 | 173 |
-| 98 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 409 | 233 |
+| 98 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 410 | 233 |
 | 98 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 45 | 449 |
 | 108 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.78 | 0 | 560 |
 | 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 8,355 | 46 |
@@ -124,26 +124,26 @@
 | 116 | [SpiderHeck](games/s/spiderheck.md) | 4.77 | 0 | 560 |
 | 116 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 151 | 320 |
 | 116 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 108 | 355 |
-| 116 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.77 | 42 | 458 |
 | 116 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 0 | 560 |
 | 116 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.77 | 0 | 560 |
 | 116 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 560 |
-| 129 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 16,082 | 24 |
-| 129 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,409 | 94 |
-| 129 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,113 | 145 |
-| 129 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,254 | 140 |
-| 129 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 25,081 | 17 |
-| 129 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 5,236 | 72 |
-| 129 | [Journey](games/j/journey.md) | 4.76 | 0 | 560 |
-| 129 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 560 |
-| 129 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 560 |
-| 129 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.76 | 0 | 560 |
-| 129 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,759 | 123 |
-| 129 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 560 |
-| 129 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 12,933 | 32 |
-| 129 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 560 |
-| 129 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 53 | 429 |
-| 129 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.76 | 0 | 560 |
+| 128 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 16,086 | 24 |
+| 128 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,409 | 94 |
+| 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,113 | 145 |
+| 128 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,254 | 140 |
+| 128 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 25,081 | 17 |
+| 128 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 5,236 | 72 |
+| 128 | [Journey](games/j/journey.md) | 4.76 | 0 | 560 |
+| 128 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 560 |
+| 128 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 560 |
+| 128 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.76 | 0 | 560 |
+| 128 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,759 | 123 |
+| 128 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 560 |
+| 128 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 12,933 | 32 |
+| 128 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 560 |
+| 128 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 53 | 429 |
+| 128 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 42 | 458 |
+| 128 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.76 | 0 | 560 |
 | 145 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 0 | 560 |
 | 145 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 6,793 | 56 |
 | 145 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 560 |
@@ -866,7 +866,7 @@
 | 864 | [Against All Odds](games/a/against_all_odds.md) | 4.28 | 0 | 560 |
 | 864 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 0 | 560 |
 | 864 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 51 | 437 |
-| 864 | [Fortnite](games/f/fortnite.md) | 4.28 | 2,470,819 | 1 |
+| 864 | [Fortnite](games/f/fortnite.md) | 4.28 | 2,489,114 | 1 |
 | 864 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 560 |
 | 864 | [Scrapnaut](games/s/scrapnaut.md) | 4.28 | 0 | 560 |
 | 864 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 309 |
