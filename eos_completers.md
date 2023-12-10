@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.59% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.58% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -112,7 +112,7 @@
 | 110 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 111 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 111 | [Night Book](games/n/night_book.md) | 2.78% |
-| 113 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.76% |
+| 113 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.75% |
 | 114 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 115 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
 | 115 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
@@ -173,7 +173,7 @@
 | 171 | [Trifox](games/t/trifox.md) | 0.96% |
 | 172 | [A Musical Story](games/a/a_musical_story.md) | 0.93% |
 | 172 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.93% |
-| 174 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.92% |
+| 172 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
 | 175 | [Hades](games/h/hades.md) | 0.91% |
 | 176 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.89% |
 | 176 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.89% |
