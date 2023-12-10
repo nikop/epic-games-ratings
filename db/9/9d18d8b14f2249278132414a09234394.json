@@ -2,10 +2,10 @@
   "ID": "9d18d8b14f2249278132414a09234394",
   "Name": "Ikonei Island: An Earthlock Adventure",
   "ProductSlug": "ikonei-island-an-earthlock-adventure-fa1620",
-  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-11-09T10:00:00+00:00",
     "PcReleaseDate": "2022-08-18T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 2372,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3204,8 +3204,8 @@
   ],
   "FirstSeen": "2023-11-10T17:12:11.6441417+00:00",
   "FirstSeenAchievements": "2023-11-07T10:03:34.0451584+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:30:14.0334152+00:00",
+  "LastChanged_Achievements": "2023-12-10T03:05:10.108353+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.3554348+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:23:58.1873155+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:30:14.0334733+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:58:48.1246531+00:00",
+  "LastUpdate_Achievements": "2023-12-10T03:05:10.1083829+00:00"
 }

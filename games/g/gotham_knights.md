@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 943)  
+Rating: 4.18 (Ranked 942)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -39,9 +39,9 @@ Rating: 4.18 (Ranked 943)
 | Out of Their League | 9.00% | ~7,006 |
 | Solid Alibi | 9.00% | ~7,006 |
 | Fusion Expert | 7.00% | ~5,449 |
+| Expert Crime Fighter | 6.00% | ~4,671 |
 | Family Meeting | 6.00% | ~4,671 |
 | A Worthy Successor | 6.00% | ~4,671 |
-| Expert Crime Fighter | 5.00% | ~3,892 |
 | Dressed to Impress | 4.00% | ~3,114 |
 | A Momentum Occasion | 3.00% | ~2,335 |
 | Bat Out of Hell | 3.00% | ~2,335 |
@@ -303,12 +303,12 @@ Completed: 124 (0.16%) (Ranked 272)
 | 2023-12-09 | 77,840 | 124 |
 | 2023-12-10 | 77,845 | 124 |
 ## Awards
-Max (Great Boss Battles): 3,001  (Ranked 98)  
-Sum: 5,127 (Ranked 140)  
+Max (Great Boss Battles): 3,003  (Ranked 98)  
+Sum: 5,129 (Ranked 140)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,001 |
+| This game has Great Boss Battles | 3,003 |
 | This game has Diverse Characters | 270 |
 | This game is Relaxing | 268 |
 | This game is Extremely Fun | 268 |
@@ -609,4 +609,4 @@ Diff (max vs sum): -42
 | 2023-12-07 | 4.18 | 2,996 | 5,118 |
 | 2023-12-08 | 4.18 | 3,001 | 5,123 |
 | 2023-12-09 | 4.19 | 3,001 | 5,126 |
-| 2023-12-10 | 4.18 | 3,001 | 5,127 |
+| 2023-12-10 | 4.18 | 3,003 | 5,129 |

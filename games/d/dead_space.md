@@ -53,7 +53,7 @@ Rating: 4.64 (Ranked 335)
 | Reunion | 3.00% | ~66 |
 | One Gun | 2.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,200 (Ranked 226)  
+Progressed: 2,200 (Ranked 227)  
 Completed: 14 (0.64%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -1009,9 +1009,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 542356,
+  "EOS_Progressed": 542357,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1336,
+  "EOS_NewPlayers": 1332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27539,6 +27539,11 @@
       "Time": "2023-12-10T02:33:45.5917873+00:00",
       "NumProgressed": 542356,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-10T03:08:40.3095091+00:00",
+      "NumProgressed": 542357,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -27646,7 +27651,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216942
+      "UsersEstimate": 216943
     },
     {
       "ID": "DeadlyAssassin",
@@ -27750,7 +27755,7 @@
       "Name": "Never Give Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43388
+      "UsersEstimate": 43389
     },
     {
       "ID": "OnTheButton",
@@ -27822,7 +27827,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 119318
+      "UsersEstimate": 119319
     },
     {
       "ID": "RegularPunter",
@@ -27870,7 +27875,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 43388
+      "UsersEstimate": 43389
     },
     {
       "ID": "ThreeWay",
@@ -27894,7 +27899,7 @@
       "Name": "Total Knock Out",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 43388
+      "UsersEstimate": 43389
     },
     {
       "ID": "WHIP",
@@ -27909,7 +27914,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 542356,
+      "Progressed": 542357,
       "Completed": 2
     }
   ],
@@ -27917,8 +27922,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-12-08T22:58:15.3697268+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:33:45.5917871+00:00",
+  "LastChanged_Achievements": "2023-12-10T03:08:40.3095084+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:41.1804314+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:23:26.7154029+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:33:45.5919017+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:58:16.6205479+00:00",
+  "LastUpdate_Achievements": "2023-12-10T03:08:40.3096523+00:00"
 }

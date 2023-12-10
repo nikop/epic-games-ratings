@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2278,9 +2278,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 218344,
+  "EOS_Progressed": 218346,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1216,
+  "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -29063,6 +29063,11 @@
       "Time": "2023-12-10T02:29:18.4829664+00:00",
       "NumProgressed": 218344,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-10T03:04:18.4660902+00:00",
+      "NumProgressed": 218346,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -29074,7 +29079,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21834
+      "UsersEstimate": 21835
     },
     {
       "ID": "AtheistOx",
@@ -29146,7 +29151,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26201
+      "UsersEstimate": 26202
     },
     {
       "ID": "HappyLittleAccidents",
@@ -29362,7 +29367,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21834
+      "UsersEstimate": 21835
     },
     {
       "ID": "TimeParadox",
@@ -29425,15 +29430,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 218344,
+      "Progressed": 218346,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-09T17:58:23.097217+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:29:18.4829661+00:00",
+  "LastChanged_Achievements": "2023-12-10T03:04:18.4660899+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.0401263+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:23:29.7353195+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:29:18.4831335+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:58:19.6039964+00:00",
+  "LastUpdate_Achievements": "2023-12-10T03:04:18.4663193+00:00"
 }

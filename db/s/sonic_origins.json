@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -334,7 +334,7 @@
   ],
   "EOS_Progressed": 641,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.02,
   "EosHistory": [
@@ -2929,9 +2929,9 @@
       "ID": "ID_07_SONICCD_TIME_WARP",
       "SetID": "7o8nc5m",
       "Name": "Time Traveler",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 417
     },
     {
       "ID": "ID_08_SONICCD_WIN_METAL_SONIC",
@@ -3169,8 +3169,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-12-08T03:58:36.221973+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:34:48.2136362+00:00",
+  "LastChanged_Achievements": "2023-12-10T03:09:44.7767331+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:14.3824775+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:24:03.5938082+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:34:48.2136607+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:58:53.2233883+00:00",
+  "LastUpdate_Achievements": "2023-12-10T03:09:44.7767656+00:00"
 }

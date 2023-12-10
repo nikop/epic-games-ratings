@@ -1205,9 +1205,9 @@
       "Count": 136
     }
   ],
-  "EOS_Progressed": 8409,
+  "EOS_Progressed": 8410,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5950,6 +5950,11 @@
       "Time": "2023-12-09T21:09:05.3987409+00:00",
       "NumProgressed": 8409,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-10T03:08:38.0938282+00:00",
+      "NumProgressed": 8410,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 24,
@@ -5993,7 +5998,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "DwarfChandelier",
@@ -6087,9 +6092,9 @@
       "ID": "SavedElderEnt",
       "SetID": "97dk767",
       "Name": "Rescued Elder Ent",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5298
     },
     {
       "ID": "SavedElderEnt_2",
@@ -6097,7 +6102,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "SkeletonKing",
@@ -6113,7 +6118,7 @@
       "Name": "Inventory Management",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "TheLegendBegins",
@@ -6121,7 +6126,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7820
+      "UsersEstimate": 7821
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -6129,7 +6134,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4120
+      "UsersEstimate": 4121
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -6152,15 +6157,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8409,
+      "Progressed": 8410,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-07T17:57:51.9878192+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:33:43.3786764+00:00",
+  "LastChanged_Achievements": "2023-12-10T03:08:38.0938278+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:02.7118419+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:24:04.6430634+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:33:43.3787152+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:58:54.2527533+00:00",
+  "LastUpdate_Achievements": "2023-12-10T03:08:38.0938661+00:00"
 }

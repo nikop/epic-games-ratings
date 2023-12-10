@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -1845,9 +1845,9 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_50",
@@ -1982,8 +1982,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-09T15:57:09.3357471+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:34:17.7030601+00:00",
+  "LastChanged_Achievements": "2023-12-10T03:09:14.308033+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9844668+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:22:32.5712139+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:34:17.7030908+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:57:21.8972591+00:00",
+  "LastUpdate_Achievements": "2023-12-10T03:09:14.3080721+00:00"
 }

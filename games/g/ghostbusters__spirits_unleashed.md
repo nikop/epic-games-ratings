@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 595)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,890 |
+| Stylish | 9.00% | ~2,891 |
 | Advancement | 7.00% | ~2,248 |
 | Meticulously Efficient | 7.00% | ~2,248 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,606 |
@@ -20,16 +20,16 @@ Rating: 4.50 (Ranked 595)
 | There you are! | 4.00% | ~1,285 |
 | Vaporous Expansion | 4.00% | ~1,285 |
 | Whoopsie | 4.00% | ~1,285 |
-| Animated | 3.00% | ~963 |
-| We have the best insurance | 3.00% | ~963 |
-| Ectoplasmic Entity | 3.00% | ~963 |
-| Ghostbuster In Training | 3.00% | ~963 |
-| Icing on the Cake | 3.00% | ~963 |
-| Legions | 3.00% | ~963 |
-| Pesky Jerks | 3.00% | ~963 |
-| Right back at ya | 3.00% | ~963 |
-| Side Hustle | 3.00% | ~963 |
-| Summoner | 3.00% | ~963 |
+| Animated | 3.00% | ~964 |
+| We have the best insurance | 3.00% | ~964 |
+| Ectoplasmic Entity | 3.00% | ~964 |
+| Ghostbuster In Training | 3.00% | ~964 |
+| Icing on the Cake | 3.00% | ~964 |
+| Legions | 3.00% | ~964 |
+| Pesky Jerks | 3.00% | ~964 |
+| Right back at ya | 3.00% | ~964 |
+| Side Hustle | 3.00% | ~964 |
+| Summoner | 3.00% | ~964 |
 | Back Off | 2.00% | ~642 |
 | Collector | 2.00% | ~642 |
 | Escape Artist | 2.00% | ~642 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 595)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,115 (Ranked 124)  
+Progressed: 32,117 (Ranked 124)  
 Completed: 69 (0.21%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 69 (0.21%) (Ranked 256)
 | 2023-12-07 | 32,036 | 69 |
 | 2023-12-08 | 32,068 | 69 |
 | 2023-12-09 | 32,106 | 69 |
-| 2023-12-10 | 32,115 | 69 |
+| 2023-12-10 | 32,117 | 69 |
 ## Awards
 Max (Great for Beginners): 321  (Ranked 251)  
 Sum: 2,893 (Ranked 179)  

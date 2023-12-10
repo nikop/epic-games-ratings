@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -565,9 +565,9 @@
       "ID": "ACHIEVEMENT016",
       "SetID": "dejhjd5",
       "Name": "One Mean Merc",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT017",
@@ -773,17 +773,17 @@
       "ID": "ACHIEVEMENT042",
       "SetID": "dejhjd5",
       "Name": "The Quarry...On Foot!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENT043",
       "SetID": "dejhjd5",
       "Name": "The Snowpeak...On Foot!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 198
     },
     {
       "ID": "ACHIEVEMENT044",
@@ -853,8 +853,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:29:17.13125+00:00",
+  "LastChanged_Achievements": "2023-12-10T03:04:17.0666145+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:23.9280041+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:24:39.2546229+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:29:17.1313167+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:59:28.2883067+00:00",
+  "LastUpdate_Achievements": "2023-12-10T03:04:17.0666478+00:00"
 }

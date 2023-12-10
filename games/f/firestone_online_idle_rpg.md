@@ -1,23 +1,23 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.01 (Ranked 1,008)  
+Rating: 4.01 (Ranked 1,007)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,991 |
-| World Map | 78.00% | ~2,508 |
-| Temple of Eternals | 56.00% | ~1,801 |
-| Prestigious | 53.00% | ~1,704 |
+| Victor | 93.00% | ~2,992 |
+| World Map | 78.00% | ~2,509 |
+| Temple of Eternals | 56.00% | ~1,802 |
+| Prestigious | 53.00% | ~1,705 |
 | Fellowship Power | 42.00% | ~1,351 |
 | Guild Power | 24.00% | ~772 |
 | Full Party | 22.00% | ~708 |
-| Prestigious x10 | 21.00% | ~675 |
+| Prestigious x10 | 21.00% | ~676 |
 | The game is on | 19.00% | ~611 |
 | Dragon Clicker | 16.00% | ~515 |
 | Exotic Merchant | 16.00% | ~515 |
-| Inspection | 15.00% | ~482 |
-| Miner Clicker | 15.00% | ~482 |
+| Inspection | 15.00% | ~483 |
+| Miner Clicker | 15.00% | ~483 |
 | Enlightenment | 14.00% | ~450 |
 | Hero inspection | 14.00% | ~450 |
 | Dragon Master | 13.00% | ~418 |
@@ -28,11 +28,11 @@ Rating: 4.01 (Ranked 1,008)
 | Milestone collector | 11.00% | ~354 |
 | Mysterious Rock | 11.00% | ~354 |
 | Scientist | 10.00% | ~322 |
-| Challenger | 9.00% | ~289 |
-| Daily Quest Completionist | 9.00% | ~289 |
-| Doing My Part | 9.00% | ~289 |
-| Hunter | 9.00% | ~289 |
-| The power of Awakening | 9.00% | ~289 |
+| Challenger | 9.00% | ~290 |
+| Daily Quest Completionist | 9.00% | ~290 |
+| Doing My Part | 9.00% | ~290 |
+| Hunter | 9.00% | ~290 |
+| The power of Awakening | 9.00% | ~290 |
 | Four Leaf Clover | 8.00% | ~257 |
 | Frostfire Liberator | 8.00% | ~257 |
 | Mastery | 8.00% | ~257 |
@@ -61,9 +61,9 @@ Rating: 4.01 (Ranked 1,008)
 | Arena Challenger | 4.00% | ~129 |
 | Background Story | 4.00% | ~129 |
 | Ebony Jungle Liberator | 4.00% | ~129 |
-| Gear Enchanting | 3.00% | ~96 |
-| Mythic Power | 3.00% | ~96 |
-| What lies behind the bush | 3.00% | ~96 |
+| Gear Enchanting | 3.00% | ~97 |
+| Mythic Power | 3.00% | ~97 |
+| What lies behind the bush | 3.00% | ~97 |
 | Cauldron Liberator | 2.00% | ~64 |
 | Enchanting skill x5 | 2.00% | ~64 |
 | Guardian Master | 2.00% | ~64 |
@@ -81,7 +81,7 @@ Rating: 4.01 (Ranked 1,008)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,216 (Ranked 211)  
+Progressed: 3,217 (Ranked 211)  
 Completed: 2 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-07 | 3,117 | 2 |
 | 2023-12-08 | 3,164 | 2 |
 | 2023-12-09 | 3,213 | 2 |
-| 2023-12-10 | 3,216 | 2 |
+| 2023-12-10 | 3,217 | 2 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 475)  
 Sum: 141 (Ranked 432)  

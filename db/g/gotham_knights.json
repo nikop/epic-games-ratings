@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 943,
+  "Ranking_Rating": 942,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4527,18 +4527,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 5127,
       "NumberOfAwardsMax": 3001
+    },
+    {
+      "Time": "2023-12-10T02:57:07.7320954+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5129,
+      "NumberOfAwardsMax": 3003
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5127,
-  "NumberOfAwardsMax": 3001,
+  "NumberOfAwards": 5129,
+  "NumberOfAwardsMax": 3003,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3001
+      "Count": 3003
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -25686,9 +25692,9 @@
       "ID": "CRIME_FIGHTER_1",
       "SetID": "4eo5ebm",
       "Name": "Expert Crime Fighter",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 3892
+      "UsersEstimate": 4671
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -26036,9 +26042,9 @@
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-12-10T01:48:20.9723266+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:30:28.0192774+00:00",
+  "LastChanged": "2023-12-10T02:57:07.7320951+00:00",
+  "LastChanged_Achievements": "2023-12-10T03:05:23.9212406+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:22:18.4738684+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:30:28.0194223+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:57:07.7320961+00:00",
+  "LastUpdate_Achievements": "2023-12-10T03:05:23.9213498+00:00"
 }

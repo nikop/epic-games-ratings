@@ -54,7 +54,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | A Tale of Origins and Endings | 2.00% | ~1,603 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 80,129 (Ranked 98)  
-Completed: 2,198 (2.74%) (Ranked 114)  
+Completed: 2,199 (2.74%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -286,7 +286,7 @@ Completed: 2,198 (2.74%) (Ranked 114)
 | 2023-12-07 | 80,121 | 2,198 |
 | 2023-12-08 | 80,127 | 2,198 |
 | 2023-12-09 | 80,128 | 2,198 |
-| 2023-12-10 | 80,129 | 2,198 |
+| 2023-12-10 | 80,129 | 2,199 |
 ## Awards
 Max (Great Boss Battles): 775  (Ranked 176)  
 Sum: 1,598 (Ranked 233)  

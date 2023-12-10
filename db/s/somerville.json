@@ -6,9 +6,9 @@
   "Ranking_Popularity": 559,
   "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 238,
-  "Ranking_EOS_Completed": 133,
+  "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -94,10 +94,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1667,
-  "EOS_Completed": 31,
+  "EOS_Completed": 32,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.86,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:11.8533699+00:00",
@@ -768,6 +768,11 @@
       "Time": "2023-12-05T20:08:37.4716862+00:00",
       "NumProgressed": 1667,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-10T03:08:55.9641418+00:00",
+      "NumProgressed": 1667,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 11,
@@ -785,9 +790,9 @@
       "ID": "SomervilleFamilyFirst",
       "SetID": "3mk3nll",
       "Name": "Family First",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "SomervilleFraternizingWithEnemy",
@@ -817,9 +822,9 @@
       "ID": "SomervilleResignationReprise",
       "SetID": "3mk3nll",
       "Name": "Resignation Reprise",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 33
     },
     {
       "ID": "SomervilleStuckOnTheJohn",
@@ -833,17 +838,17 @@
       "ID": "SomervilleUnderstanding",
       "SetID": "3mk3nll",
       "Name": "Understanding",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 200,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "SomervilleWarOfTheWorlds",
       "SetID": "3mk3nll",
       "Name": "War of the worlds",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "SomervilleWearyTraveller",
@@ -867,15 +872,15 @@
       "ID": "3mk3nll",
       "IsBase": true,
       "Progressed": 1667,
-      "Completed": 31
+      "Completed": 32
     }
   ],
   "FirstSeen": "2022-11-15T21:57:56.5143092+00:00",
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-10-28T10:01:15.5603382+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:33:59.8412333+00:00",
+  "LastChanged_Achievements": "2023-12-10T03:08:55.9641415+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:14.6711299+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:24:06.533974+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:33:59.8412409+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:58:56.2126703+00:00",
+  "LastUpdate_Achievements": "2023-12-10T03:08:55.9641522+00:00"
 }

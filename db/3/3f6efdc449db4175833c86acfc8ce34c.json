@@ -4,7 +4,7 @@
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
@@ -3773,9 +3773,9 @@
       "ID": "Mission4",
       "SetID": "6igjng7",
       "Name": "Mission 3 clear",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 114
+      "UsersEstimate": 128
     },
     {
       "ID": "Mission5",
@@ -3796,8 +3796,8 @@
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:34:43.2361956+00:00",
+  "LastChanged_Achievements": "2023-12-10T03:09:39.9286667+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.571818+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:22:41.9895135+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:34:43.2362186+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:57:30.9464387+00:00",
+  "LastUpdate_Achievements": "2023-12-10T03:09:39.9286932+00:00"
 }

@@ -24,16 +24,16 @@ Number of Ratings: 48  (23.09.2022)
 | Natural Born Monster-Killer | 38.00% | ~269 |
 | The Lava Mantor Wyrm | 37.00% | ~262 |
 | Scavenger's Honor | 37.00% | ~262 |
+| One Mean Merc | 37.00% | ~262 |
 | The Great Forest...On Foot! | 37.00% | ~262 |
-| One Mean Merc | 36.00% | ~255 |
 | Adept, for an Acting Mayor | 36.00% | ~255 |
 | Money, Money, Money | 36.00% | ~255 |
 | Rune Wall Master | 34.00% | ~240 |
-| The Quarry...On Foot! | 31.00% | ~219 |
+| The Quarry...On Foot! | 32.00% | ~226 |
 | The Runebarrows...On Foot! | 29.00% | ~205 |
+| The Snowpeak...On Foot! | 28.00% | ~198 |
 | The Lava Ruins...On Foot! | 28.00% | ~198 |
 | Meat Master | 27.00% | ~191 |
-| The Snowpeak...On Foot! | 27.00% | ~191 |
 | Fishing Master | 25.00% | ~177 |
 | Armor Master | 24.00% | ~170 |
 | The Pride of the Town | 23.00% | ~163 |

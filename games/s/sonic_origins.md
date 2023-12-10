@@ -12,7 +12,7 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic 3 & Knuckles | 70.00% | ~449 |
 | Welcome to Sonic the Hedgehog 2 | 69.00% | ~442 |
 | Ring Collector | 66.00% | ~423 |
-| Time Traveler | 64.00% | ~410 |
+| Time Traveler | 65.00% | ~417 |
 | Everyone's Hero | 62.00% | ~397 |
 | Easy Peasy with Shields | 58.00% | ~372 |
 | Bubbly Breath | 57.00% | ~365 |

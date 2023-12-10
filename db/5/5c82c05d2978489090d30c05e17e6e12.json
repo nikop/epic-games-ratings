@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65380,
+  "EOS_Progressed": 65387,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 3117,
+  "EOS_NewPlayers": 3106,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2973,6 +2973,11 @@
       "Time": "2023-12-10T02:31:04.261652+00:00",
       "NumProgressed": 65380,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-10T03:06:00.3047379+00:00",
+      "NumProgressed": 65387,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2985,7 +2990,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24191
+      "UsersEstimate": 24193
     },
     {
       "ID": "Achievement_10",
@@ -3017,7 +3022,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "Achievement_14",
@@ -3073,7 +3078,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17653
+      "UsersEstimate": 17654
     },
     {
       "ID": "Achievement_20",
@@ -3113,7 +3118,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "Achievement_25",
@@ -3209,7 +3214,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     },
     {
       "ID": "Achievement_5",
@@ -3223,9 +3228,9 @@
       "ID": "Achievement_6",
       "SetID": "2md12pi",
       "Name": "The Red-Haired Enigma",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1961
+      "UsersEstimate": 2615
     },
     {
       "ID": "Achievement_7",
@@ -3256,7 +3261,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 65380,
+      "Progressed": 65387,
       "Completed": 65
     }
   ],
@@ -3264,8 +3269,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-09T04:02:47.7001869+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:31:04.2616516+00:00",
+  "LastChanged_Achievements": "2023-12-10T03:06:00.3047376+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:27:58.0807269+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:31:04.2616789+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:02:53.6142071+00:00",
+  "LastUpdate_Achievements": "2023-12-10T03:06:00.3047678+00:00"
 }

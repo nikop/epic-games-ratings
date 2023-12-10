@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5621,10 +5621,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 4047,
       "NumberOfAwardsMax": 488
+    },
+    {
+      "Time": "2023-12-10T02:56:58.5804476+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4049,
+      "NumberOfAwardsMax": 488
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4047,
+  "NumberOfAwards": 4049,
   "NumberOfAwardsMax": 488,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5650,7 +5656,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 375
+      "Count": 377
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5695,9 +5701,9 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 253646,
+  "EOS_Progressed": 253647,
   "EOS_Completed": 898,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -31135,6 +31141,11 @@
       "Time": "2023-12-10T02:34:47.9385572+00:00",
       "NumProgressed": 253646,
       "NumCompleted": 898
+    },
+    {
+      "Time": "2023-12-10T03:09:44.4681191+00:00",
+      "NumProgressed": 253647,
+      "NumCompleted": 898
     }
   ],
   "TotalAchievements": 39,
@@ -31178,7 +31189,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 68484
+      "UsersEstimate": 68485
     },
     {
       "ID": "AchievementBigFootID",
@@ -31210,7 +31221,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 230818
+      "UsersEstimate": 230819
     },
     {
       "ID": "AchievementClownID",
@@ -31258,7 +31269,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 83703
+      "UsersEstimate": 83704
     },
     {
       "ID": "AchievementGoatID",
@@ -31274,7 +31285,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 134432
+      "UsersEstimate": 134433
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -31314,7 +31325,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 144578
+      "UsersEstimate": 144579
     },
     {
       "ID": "AchievementLootBoxID",
@@ -31322,7 +31333,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 35510
+      "UsersEstimate": 35511
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -31346,7 +31357,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 96385
+      "UsersEstimate": 96386
     },
     {
       "ID": "AchievementRampID",
@@ -31378,7 +31389,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 187698
+      "UsersEstimate": 187699
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -31394,7 +31405,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 129359
+      "UsersEstimate": 129360
     },
     {
       "ID": "AchievementStreakingID",
@@ -31418,7 +31429,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 139505
+      "UsersEstimate": 139506
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -31442,7 +31453,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 164870
+      "UsersEstimate": 164871
     },
     {
       "ID": "AchievementWhaleID",
@@ -31450,23 +31461,23 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 68484
+      "UsersEstimate": 68485
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 253646,
+      "Progressed": 253647,
       "Completed": 898
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-12-09T23:03:02.9787141+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:34:47.9385569+00:00",
+  "LastChanged": "2023-12-10T02:56:58.5804474+00:00",
+  "LastChanged_Achievements": "2023-12-10T03:09:44.4681189+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:59.5237496+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:53:42.9655491+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:34:47.9386979+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:56:58.5804479+00:00",
+  "LastUpdate_Achievements": "2023-12-10T03:09:44.4682706+00:00"
 }
