@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2024,
+  "EOS_Progressed": 2025,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2866,6 +2866,11 @@
       "Time": "2023-12-07T16:07:46.8204807+00:00",
       "NumProgressed": 2024,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-10T10:03:09.0367061+00:00",
+      "NumProgressed": 2025,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2877,7 +2882,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -2885,7 +2890,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -3029,7 +3034,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -3173,7 +3178,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3253,7 +3258,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3261,7 +3266,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -3277,7 +3282,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_WINDS_OF_WAR",
@@ -3300,15 +3305,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2024,
+      "Progressed": 2025,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-26T10:59:42.9428977+00:00",
-  "LastChanged_Achievements": "2023-12-10T09:03:20.2054184+00:00",
+  "LastChanged_Achievements": "2023-12-10T10:03:09.0367058+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.1210181+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:57:38.7086314+00:00",
-  "LastUpdate_Achievements": "2023-12-10T09:03:20.2054707+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:57:23.3808462+00:00",
+  "LastUpdate_Achievements": "2023-12-10T10:03:09.0367854+00:00"
 }

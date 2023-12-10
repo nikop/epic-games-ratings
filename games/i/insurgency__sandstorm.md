@@ -1,15 +1,15 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 387)  
+Rating: 4.61 (Ranked 388)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,954 |
-| Exploitative | 4.00% | ~19,963 |
-| Point Shooting | 4.00% | ~19,963 |
-| Wet Feet | 4.00% | ~19,963 |
+| Wallbanger | 5.00% | ~24,955 |
+| Exploitative | 4.00% | ~19,964 |
+| Point Shooting | 4.00% | ~19,964 |
+| Wet Feet | 4.00% | ~19,964 |
 | High Speed Low Drag | 3.00% | ~14,973 |
 | Lucky | 3.00% | ~14,973 |
 | Stylin' | 3.00% | ~14,973 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~499 |
 | Road Hazard | 0.10% | ~499 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,084 (Ranked 37)  
+Progressed: 499,096 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,18 +276,18 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-07 | 498,166 | 2 |
 | 2023-12-08 | 498,485 | 2 |
 | 2023-12-09 | 498,894 | 2 |
-| 2023-12-10 | 499,084 | 2 |
+| 2023-12-10 | 499,096 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 403  (Ranked 234)  
-Sum: 3,219 (Ranked 175)  
+Sum: 3,221 (Ranked 175)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 403 |
 | This game has Challenging Combat | 395 |
-| This game is Extremely Fun | 370 |
+| This game is Extremely Fun | 371 |
 | This game has Competitive Players | 369 |
-| This game is Highly Recommended | 357 |
+| This game is Highly Recommended | 358 |
 | This game has Realistic Visuals | 345 |
 | This game has Amazing Characters | 341 |
 | This game has Amazing Storytelling | 333 |
@@ -601,3 +601,4 @@ Diff (max vs sum): 59
 | 2023-12-07 | 4.61 | - | 403 | 3,214 |
 | 2023-12-08 | 4.61 | - | 403 | 3,217 |
 | 2023-12-09 | 4.61 | - | 403 | 3,219 |
+| 2023-12-10 | 4.61 | - | 403 | 3,221 |

@@ -80,6 +80,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Definitely the Sultan of Rum | 0.10% | ~472 |
 | Die Please Die | 0.10% | ~472 |
 | Disciples of Enlightenment | 0.10% | ~472 |
+| Don’t be Cilli | 0.10% | ~472 |
 | Double the Love | 0.10% | ~472 |
 | Down Under | 0.10% | ~472 |
 | Dracula's Revenge | 0.10% | ~472 |
@@ -297,7 +298,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Core-fu | 0.00% | ~0 |
 | Cotton Kandy | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
-| Don’t be Cilli | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,283 (Ranked 41)  
+Progressed: 472,315 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -604,7 +604,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-07 | 470,773 | 1 |
 | 2023-12-08 | 471,386 | 1 |
 | 2023-12-09 | 472,114 | 1 |
-| 2023-12-10 | 472,283 | 1 |
+| 2023-12-10 | 472,315 | 1 |
 ## Awards
 Max (Educational): 7,319  (Ranked 54)  
 Sum: 60,304 (Ranked 24)  

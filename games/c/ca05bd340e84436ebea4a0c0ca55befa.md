@@ -9,7 +9,7 @@ Rating: 4.32 (Ranked 833)
 | First fall | 36.00% | ~5,848 |
 | Don't play with fire, kids | 27.00% | ~4,386 |
 | First steps | 27.00% | ~4,386 |
-| 1.000.000 Scovilles | 19.00% | ~3,086 |
+| 1.000.000 Scovilles | 19.00% | ~3,087 |
 | An Old Timer | 18.00% | ~2,924 |
 | I'll give this one a 0 star rating | 18.00% | ~2,924 |
 | Hands up! | 16.00% | ~2,599 |
@@ -73,7 +73,7 @@ Rating: 4.32 (Ranked 833)
 | Killer | 0.00% | ~0 |
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,244 (Ranked 150)  
+Progressed: 16,245 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-11-25 | 16,241 | 0 |
 | 2023-12-07 | 16,242 | 0 |
 | 2023-12-08 | 16,244 | 0 |
+| 2023-12-10 | 16,245 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1205,7 +1205,7 @@
       "Count": 136
     }
   ],
-  "EOS_Progressed": 8411,
+  "EOS_Progressed": 8412,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
@@ -5960,6 +5960,11 @@
       "Time": "2023-12-10T07:08:47.4322142+00:00",
       "NumProgressed": 8411,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-10T10:08:18.3860223+00:00",
+      "NumProgressed": 8412,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 24,
@@ -5995,7 +6000,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     },
     {
       "ID": "DemonCastleRestoration",
@@ -6011,7 +6016,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "FakeGoddessGone",
@@ -6059,7 +6064,7 @@
       "Name": "The Hero Killer",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2524
     },
     {
       "ID": "LeoniasFall",
@@ -6099,7 +6104,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     },
     {
       "ID": "SavedElderEnt_2",
@@ -6131,7 +6136,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -6139,7 +6144,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4121
+      "UsersEstimate": 4122
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -6155,22 +6160,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7065
+      "UsersEstimate": 7066
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8411,
+      "Progressed": 8412,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-07T17:57:51.9878192+00:00",
-  "LastChanged_Achievements": "2023-12-10T09:08:35.6177159+00:00",
+  "LastChanged_Achievements": "2023-12-10T10:08:18.386022+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:02.7118419+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:59:10.3402351+00:00",
-  "LastUpdate_Achievements": "2023-12-10T09:08:35.6177555+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:58:55.6339001+00:00",
+  "LastUpdate_Achievements": "2023-12-10T10:08:18.3860655+00:00"
 }

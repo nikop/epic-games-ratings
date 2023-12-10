@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 777,
+  "EOS_Progressed": 778,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1968,6 +1968,11 @@
       "Time": "2023-12-10T05:10:16.180508+00:00",
       "NumProgressed": 777,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T10:09:20.8263655+00:00",
+      "NumProgressed": 778,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1986,9 +1991,9 @@
       "ID": "achievement_10",
       "SetID": "jnappp",
       "Name": "Asphalt Artist",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 249
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_11",
@@ -2068,7 +2073,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "achievement_20",
@@ -2187,7 +2192,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 777,
+      "Progressed": 778,
       "Completed": 0
     }
   ],
@@ -2195,8 +2200,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-09T18:58:37.9229412+00:00",
-  "LastChanged_Achievements": "2023-12-10T09:09:36.4102389+00:00",
+  "LastChanged_Achievements": "2023-12-10T10:09:20.8263652+00:00",
   "LastUpdate_AppInfo": "2023-12-05T21:56:59.3509515+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:58:51.9564716+00:00",
-  "LastUpdate_Achievements": "2023-12-10T09:09:36.4102664+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:58:36.3533152+00:00",
+  "LastUpdate_Achievements": "2023-12-10T10:09:20.8263965+00:00"
 }

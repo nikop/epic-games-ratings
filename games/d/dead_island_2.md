@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,982 |
-| Whatever It Takes | 3.00% | ~1,748 |
-| Pork Chopped | 3.00% | ~1,748 |
+| Welcome To Hell-A | 3.00% | ~21,983 |
+| Whatever It Takes | 3.00% | ~1,749 |
+| Pork Chopped | 3.00% | ~1,749 |
 | Dr. Reed, I Presume? | 2.00% | ~14,655 |
 | Git Gutte! | 2.00% | ~14,655 |
 | Anger Management | 2.00% | ~14,655 |
@@ -24,40 +24,40 @@ Rating: 4.54 (Ranked 535)
 | Personal Assistant Personally Assisted | 2.00% | ~14,655 |
 | This is My Weapon | 2.00% | ~14,655 |
 | One of Us | 2.00% | ~1,166 |
-| Making Your Mark | 1.00% | ~7,327 |
-| Perks of the Job | 1.00% | ~7,327 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,327 |
-| Slayer Squad | 1.00% | ~7,327 |
-| Like Riding a Bike | 1.00% | ~7,327 |
-| Zombologist | 1.00% | ~7,327 |
-| Ooh, Shiny! | 1.00% | ~7,327 |
-| A Patton Emerges | 1.00% | ~7,327 |
-| Humanity Distilled | 1.00% | ~7,327 |
-| I Am the Resurrection | 1.00% | ~7,327 |
-| Down with the Sickness | 1.00% | ~7,327 |
-| Max Headroom | 1.00% | ~7,327 |
-| Our True Nature | 1.00% | ~7,327 |
+| Making Your Mark | 1.00% | ~7,328 |
+| Perks of the Job | 1.00% | ~7,328 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,328 |
+| Slayer Squad | 1.00% | ~7,328 |
+| Like Riding a Bike | 1.00% | ~7,328 |
+| Zombologist | 1.00% | ~7,328 |
+| Ooh, Shiny! | 1.00% | ~7,328 |
+| A Patton Emerges | 1.00% | ~7,328 |
+| Humanity Distilled | 1.00% | ~7,328 |
+| I Am the Resurrection | 1.00% | ~7,328 |
+| Down with the Sickness | 1.00% | ~7,328 |
+| Max Headroom | 1.00% | ~7,328 |
+| Our True Nature | 1.00% | ~7,328 |
 | Not Even My Final Form | 0.80% | ~5,862 |
 | Jumbo Keyring | 0.80% | ~5,862 |
 | Go, Bobcats! | 0.80% | ~5,862 |
 | Rising Star | 0.80% | ~5,862 |
 | Internet Famous | 0.70% | ~5,129 |
-| Make it So | 0.60% | ~4,396 |
-| On Safari | 0.60% | ~4,396 |
-| Smorgasbord | 0.60% | ~4,396 |
-| Variety is the Spice of Death | 0.60% | ~4,396 |
+| Make it So | 0.60% | ~4,397 |
+| On Safari | 0.60% | ~4,397 |
+| Smorgasbord | 0.60% | ~4,397 |
+| Variety is the Spice of Death | 0.60% | ~4,397 |
 | LA Influential | 0.50% | ~3,664 |
 | Sole Survivor | 0.40% | ~2,931 |
 | Gore Horse | 0.40% | ~2,931 |
 | Sharpest Tool in the Box | 0.40% | ~2,931 |
 | Top That, Tisha! | 0.40% | ~233 |
-| Survival Skills | 0.20% | ~1,465 |
+| Survival Skills | 0.20% | ~1,466 |
 | Lawn and Order | 0.20% | ~117 |
 | Donk! | 0.10% | ~733 |
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,741 (Ranked 21)  
+Progressed: 732,766 (Ranked 21)  
 Completed: 2,473 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 2,473 (0.34%) (Ranked 234)
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
-| 2023-12-10 | 732,741 | 2,473 |
+| 2023-12-10 | 732,766 | 2,473 |
 ## Awards
 Max (Great Boss Battles): 8,042  (Ranked 49)  
 Sum: 12,375 (Ranked 82)  

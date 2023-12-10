@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 387)  
+Rating: 4.61 (Ranked 388)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -47,9 +47,9 @@ Rating: 4.61 (Ranked 387)
 | The Eternal Court | 0.80% | ~45 |
 | God Emperor | 0.70% | ~39 |
 | Manufactured War | 0.70% | ~39 |
+| Grexolis | 0.70% | ~39 |
 | I've Got Everything I Need Right Here | 0.60% | ~34 |
 | The Goddess of Nature | 0.60% | ~34 |
-| Grexolis | 0.60% | ~34 |
 | One for All, All for One | 0.60% | ~34 |
 | Pruning for Progress | 0.50% | ~28 |
 | Duality | 0.50% | ~28 |
@@ -60,11 +60,11 @@ Rating: 4.61 (Ranked 387)
 | Betrayal Most Foul | 0.30% | ~17 |
 | A Very Special Ring | 0.20% | ~11 |
 | I Want to Break Free | 0.10% | ~6 |
+| Master of Evilness | 0.10% | ~6 |
 | The Grey Wizard | 0.10% | ~6 |
 | Returning Circle | 0.10% | ~6 |
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
-| Master of Evilness | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,584 (Ranked 190)  
 Completed: 7 (0.13%) (Ranked 278)  

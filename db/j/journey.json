@@ -2,7 +2,7 @@
   "ID": "lemur",
   "Name": "Journey",
   "ProductSlug": "journey",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 129,
   "Ranking_Popularity": 559,
   "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 788,
@@ -241,6 +241,6 @@
   "FirstSeen": "2022-07-22T20:24:29.6928731+00:00",
   "LastChanged": "2023-09-29T17:02:04.5190903+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.4836716+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:58:17.8178433+00:00",
-  "LastUpdate_Achievements": "2023-12-10T09:03:59.0321957+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:58:02.5532711+00:00",
+  "LastUpdate_Achievements": "2023-12-10T10:03:48.4739121+00:00"
 }

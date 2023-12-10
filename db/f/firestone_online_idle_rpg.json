@@ -607,9 +607,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3224,
+  "EOS_Progressed": 3225,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9367,6 +9367,11 @@
       "Time": "2023-12-10T09:05:28.8995971+00:00",
       "NumProgressed": 3224,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-10T10:05:20.6824458+00:00",
+      "NumProgressed": 3225,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9426,7 +9431,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "cauldronliberator",
@@ -9458,7 +9463,7 @@
       "Name": "Crystal Mining",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "dailyquestcompletionist",
@@ -9498,7 +9503,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ebonyjungleliberator",
@@ -9514,7 +9519,7 @@
       "Name": "Enchanting skill",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "enchantingskillx5",
@@ -9530,7 +9535,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "enhancedwarmachines",
@@ -9546,7 +9551,7 @@
       "Name": "Enlightenment",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "exoticmerchant",
@@ -9586,7 +9591,7 @@
       "Name": "Full Party",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "gearenchanting",
@@ -9626,7 +9631,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "howdoyouturnthison",
@@ -9634,7 +9639,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "hunter",
@@ -9834,7 +9839,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "thealchemist",
@@ -9850,7 +9855,7 @@
       "Name": "The Expeditioner",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "thefatherofdragons",
@@ -9938,7 +9943,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2998
+      "UsersEstimate": 2999
     },
     {
       "ID": "warmachinesarmy",
@@ -9954,7 +9959,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "whatliesbehindthebush",
@@ -9970,14 +9975,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2516
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3224,
+      "Progressed": 3225,
       "Completed": 2
     }
   ],
@@ -9985,8 +9990,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-09T22:00:58.0026734+00:00",
-  "LastChanged_Achievements": "2023-12-10T09:05:28.8995968+00:00",
+  "LastChanged_Achievements": "2023-12-10T10:05:20.6824454+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:59:30.6383444+00:00",
-  "LastUpdate_Achievements": "2023-12-10T09:05:28.8996801+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:59:16.4053231+00:00",
+  "LastUpdate_Achievements": "2023-12-10T10:05:20.682579+00:00"
 }

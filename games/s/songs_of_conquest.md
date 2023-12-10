@@ -39,13 +39,13 @@ Number of Ratings: 292  (23.09.2022)
 | In The Thick of It | 0.50% | ~2 |
 | From the Ashes | 0.50% | ~2 |
 | The Marsh Expands | 0.50% | ~2 |
+| Get Over Here! | 0.50% | ~2 |
 | Cleave | 0.50% | ~2 |
 | Hello There | 0.20% | ~1 |
 | Fully Charged | 0.20% | ~1 |
 | Killing Spree | 0.20% | ~1 |
 | An Empress's Hope | 0.20% | ~1 |
 | Oops! | 0.20% | ~1 |
-| Get Over Here! | 0.20% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |

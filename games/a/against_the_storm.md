@@ -6,17 +6,17 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Overgrown Library | 4.00% | ~713 |
 | Abandoned Settlement | 3.00% | ~535 |
-| Overgrown Library | 3.00% | ~535 |
 | Petrified Necropolis | 3.00% | ~535 |
 | Gathering Storm | 3.00% | ~535 |
 | Frosts | 2.00% | ~357 |
 | Land of Greed | 2.00% | ~357 |
 | Ominous Presence | 2.00% | ~357 |
 | Untamed Wilds | 2.00% | ~357 |
+| The Marshlands | 1.00% | ~178 |
+| Taking Action | 1.00% | ~178 |
 | No Deaths | 1.00% | ~178 |
-| The Marshlands | 0.90% | ~161 |
-| Taking Action | 0.90% | ~161 |
 | First Real Expedition | 0.80% | ~143 |
 | Overcoming Difficulty | 0.80% | ~143 |
 | Coral Forest | 0.80% | ~143 |
@@ -24,9 +24,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 0.70% | ~125 |
 | Royal Outpost | 0.60% | ~107 |
 | Watchtower | 0.60% | ~107 |
+| Homesick | 0.50% | ~89 |
 | Bandit Camp | 0.50% | ~89 |
 | Lost Colonies | 0.50% | ~89 |
-| Homesick | 0.40% | ~71 |
 | Ruined Armory | 0.40% | ~71 |
 | Levitating Monument | 0.40% | ~71 |
 | Monastery of the Holy Flame | 0.40% | ~71 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,834 (Ranked 146)  
+Progressed: 17,836 (Ranked 146)  
 Completed: 42 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 42 (0.24%) (Ranked 251)
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
-| 2023-12-10 | 17,834 | 43 |
+| 2023-12-10 | 17,836 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,250 (Ranked 174)  

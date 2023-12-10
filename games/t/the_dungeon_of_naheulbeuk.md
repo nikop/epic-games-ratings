@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,144 |
+| Sowwy! | 36.00% | ~87,146 |
 | Alt+F4 | 9.00% | ~21,786 |
-| Where's that freaking Dwarf? | 8.00% | ~19,365 |
+| Where's that freaking Dwarf? | 8.00% | ~19,366 |
 | Déjà vu | 7.00% | ~16,945 |
-| A beer, two curses, three companions | 5.00% | ~12,103 |
-| Sock! SOCK! | 5.00% | ~12,103 |
-| GG EZ | 5.00% | ~12,103 |
-| Speedrun | 5.00% | ~12,103 |
+| A beer, two curses, three companions | 5.00% | ~12,104 |
+| Sock! SOCK! | 5.00% | ~12,104 |
+| GG EZ | 5.00% | ~12,104 |
+| Speedrun | 5.00% | ~12,104 |
 | DM intervention | 4.00% | ~9,683 |
 | Fireproof Wizardess | 4.00% | ~9,683 |
 | Livin' in a dwarven paradise | 3.00% | ~7,262 |
@@ -47,7 +47,7 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 0.90% | ~2,179 |
 | We come in peace | 0.80% | ~1,937 |
 | Lëgal Legend | 0.80% | ~1,937 |
-| An old poacher makes the best gamekeeper | 0.70% | ~1,694 |
+| An old poacher makes the best gamekeeper | 0.70% | ~1,695 |
 | Holistic Adventuring Party | 0.60% | ~1,452 |
 | Law and Order | 0.60% | ~1,452 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,210 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,066 (Ranked 63)  
+Progressed: 242,072 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-07 | 241,693 | 7 |
 | 2023-12-08 | 241,827 | 7 |
 | 2023-12-09 | 242,023 | 7 |
-| 2023-12-10 | 242,066 | 7 |
+| 2023-12-10 | 242,072 | 7 |
 ## Awards
 Max (Character Customization): 245  (Ranked 272)  
 Sum: 497 (Ranked 328)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-14T16:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16244,
+  "EOS_Progressed": 16245,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -878,6 +878,11 @@
       "Time": "2023-12-08T17:04:30.5532395+00:00",
       "NumProgressed": 16244,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T10:04:38.4603021+00:00",
+      "NumProgressed": 16245,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-12T12:03:32.4502016+00:00",
@@ -1066,7 +1071,7 @@
       "Name": "1.000.000 Scovilles",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1425,7 +1430,7 @@
     {
       "ID": "h261mm",
       "IsBase": true,
-      "Progressed": 16244,
+      "Progressed": 16245,
       "Completed": 0
     }
   ],
@@ -1433,8 +1438,8 @@
   "FirstSeenRating": "2023-11-17T10:00:31.8324772+00:00",
   "FirstSeenAchievements": "2023-10-12T12:03:32.4502016+00:00",
   "LastChanged": "2023-12-04T09:58:27.621085+00:00",
-  "LastChanged_Achievements": "2023-12-10T09:04:47.8998192+00:00",
+  "LastChanged_Achievements": "2023-12-10T10:04:38.4603017+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:59.6927751+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:58:17.4264305+00:00",
-  "LastUpdate_Achievements": "2023-12-10T09:04:47.8998926+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:58:02.1596295+00:00",
+  "LastUpdate_Achievements": "2023-12-10T10:04:38.4603846+00:00"
 }

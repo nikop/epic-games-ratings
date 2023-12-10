@@ -7,7 +7,7 @@ Rating: 4.52 (Ranked 562)
 | ---- | ---------- | ----- |
 | Legal Counsel | 47.00% | ~5,320 |
 | Greasy Palms | 43.00% | ~4,868 |
-| South American Connection | 26.00% | ~2,943 |
+| South American Connection | 27.00% | ~3,056 |
 | Life of the Party | 21.00% | ~2,377 |
 | Tommy Two-Wheels | 16.00% | ~1,811 |
 | Big Heat from Little Havana | 15.00% | ~1,698 |

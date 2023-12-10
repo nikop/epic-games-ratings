@@ -5,9 +5,9 @@
   "Ranking_Rating": 777,
   "Ranking_Popularity": 559,
   "Ranking_PopularitySum": 559,
-  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 660,
+  "EOS_Progressed": 661,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2265,6 +2265,11 @@
       "Time": "2023-12-09T16:09:29.3657786+00:00",
       "NumProgressed": 660,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T10:09:24.0238121+00:00",
+      "NumProgressed": 661,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2380,7 +2385,7 @@
       "Name": "Explorer",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_COLL_20",
@@ -2404,7 +2409,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -2420,7 +2425,7 @@
       "Name": "Collectibles of Chapter III",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_COLL_CH04",
@@ -2428,7 +2433,7 @@
       "Name": "Collectibles of Chapter IV",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_COLL_CH05",
@@ -2500,7 +2505,7 @@
       "Name": "Cowardice",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2532,7 +2537,7 @@
       "Name": "Consequences",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -2548,7 +2553,7 @@
       "Name": "The Horror",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -2620,7 +2625,7 @@
       "Name": "Missing in Action",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -2660,7 +2665,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2682,9 +2687,9 @@
       "ID": "ACH_KILL_OFFICER",
       "SetID": "1j25agn",
       "Name": "Eat Lead!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 297
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2747,15 +2752,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 660,
+      "Progressed": 661,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-10T09:09:39.4795056+00:00",
+  "LastChanged_Achievements": "2023-12-10T10:09:24.0238117+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.83707+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:59:50.8954275+00:00",
-  "LastUpdate_Achievements": "2023-12-10T09:09:39.4795577+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:59:37.4147351+00:00",
+  "LastUpdate_Achievements": "2023-12-10T10:09:24.0238997+00:00"
 }

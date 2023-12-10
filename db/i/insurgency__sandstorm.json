@@ -2,7 +2,7 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 234,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 37,
@@ -4214,10 +4214,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3219,
       "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2023-12-10T09:57:23.876634+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3221,
+      "NumberOfAwardsMax": 403
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3219,
+  "NumberOfAwards": 3221,
   "NumberOfAwardsMax": 403,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4255,7 +4261,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 357
+      "Count": 358
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -4267,7 +4273,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 370
+      "Count": 371
     },
     {
       "Text": "This game has a Competitive Community",
@@ -4288,9 +4294,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 499084,
+  "EOS_Progressed": 499096,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2715,
+  "EOS_NewPlayers": 2709,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31063,6 +31069,11 @@
       "Time": "2023-12-10T09:04:06.8941467+00:00",
       "NumProgressed": 499084,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-10T10:03:56.488141+00:00",
+      "NumProgressed": 499096,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -31130,7 +31141,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19963
+      "UsersEstimate": 19964
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -31242,7 +31253,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19963
+      "UsersEstimate": 19964
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -31338,7 +31349,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24954
+      "UsersEstimate": 24955
     },
     {
       "ID": "ACH_WET_FEET",
@@ -31346,22 +31357,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19963
+      "UsersEstimate": 19964
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 499084,
+      "Progressed": 499096,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-12-09T15:57:08.530855+00:00",
-  "LastChanged_Achievements": "2023-12-10T09:04:06.8941464+00:00",
+  "LastChanged": "2023-12-10T09:57:23.8766339+00:00",
+  "LastChanged_Achievements": "2023-12-10T10:03:56.4881362+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.4208286+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:57:39.2144222+00:00",
-  "LastUpdate_Achievements": "2023-12-10T09:04:06.8943127+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:57:23.8766343+00:00",
+  "LastUpdate_Achievements": "2023-12-10T10:03:56.4883648+00:00"
 }

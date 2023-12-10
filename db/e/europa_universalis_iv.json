@@ -13077,9 +13077,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 472283,
+  "EOS_Progressed": 472315,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4066,
+  "EOS_NewPlayers": 4055,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39947,6 +39947,11 @@
       "Time": "2023-12-10T09:05:51.7502527+00:00",
       "NumProgressed": 472283,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T10:05:44.3211166+00:00",
+      "NumProgressed": 472315,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -40604,9 +40609,9 @@
       "ID": "achievement_dont_be_cilli",
       "SetID": "8p2n7he",
       "Name": "Don\u2019t be Cilli",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 472
     },
     {
       "ID": "achievement_double_the_love",
@@ -42861,21 +42866,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 472283,
+      "Progressed": 472315,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 472283,
+      "Progressed": 472315,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-10T02:23:57.9438008+00:00",
-  "LastChanged_Achievements": "2023-12-10T09:05:51.7502524+00:00",
+  "LastChanged_Achievements": "2023-12-10T10:05:44.3211163+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:01.211805+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:59:04.0903817+00:00",
-  "LastUpdate_Achievements": "2023-12-10T09:05:51.7512782+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:58:49.0873983+00:00",
+  "LastUpdate_Achievements": "2023-12-10T10:05:44.3228995+00:00"
 }

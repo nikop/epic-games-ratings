@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4601,7 +4601,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77848,
+  "EOS_Progressed": 77849,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
@@ -25541,6 +25541,11 @@
       "Time": "2023-12-10T07:06:41.8937833+00:00",
       "NumProgressed": 77848,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-10T10:05:22.3837494+00:00",
+      "NumProgressed": 77849,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25776,7 +25781,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21797
+      "UsersEstimate": 21798
     },
     {
       "ID": "FREEZE_1_5",
@@ -25856,7 +25861,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26468
+      "UsersEstimate": 26469
     },
     {
       "ID": "HARLEY_2",
@@ -26039,13 +26044,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77848,
+      "Progressed": 77849,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48128,
+      "Progressed": 48129,
       "Completed": 2675
     }
   ],
@@ -26053,8 +26058,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-10T02:57:07.7320951+00:00",
-  "LastChanged_Achievements": "2023-12-10T09:05:30.4305995+00:00",
+  "LastChanged_Achievements": "2023-12-10T10:05:22.3837491+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:57:26.2917958+00:00",
-  "LastUpdate_Achievements": "2023-12-10T09:05:30.4307234+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:57:10.5361016+00:00",
+  "LastUpdate_Achievements": "2023-12-10T10:05:22.38395+00:00"
 }

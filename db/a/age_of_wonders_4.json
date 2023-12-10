@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -8159,9 +8159,9 @@
       "ID": "42",
       "SetID": "3aa2279",
       "Name": "Master of Evilness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "43",
@@ -8183,9 +8183,9 @@
       "ID": "5",
       "SetID": "3aa2279",
       "Name": "Grexolis",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "6",
@@ -8366,8 +8366,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-08T22:57:52.6860138+00:00",
-  "LastChanged_Achievements": "2023-12-10T09:04:10.2612126+00:00",
+  "LastChanged_Achievements": "2023-12-10T10:04:00.1195899+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.604119+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:58:18.1689077+00:00",
-  "LastUpdate_Achievements": "2023-12-10T09:04:10.2612938+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:58:02.9019748+00:00",
+  "LastUpdate_Achievements": "2023-12-10T10:04:00.1196947+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -945,9 +945,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 7404,
+  "EOS_Progressed": 7406,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9065,6 +9065,11 @@
       "Time": "2023-12-10T08:08:59.0173381+00:00",
       "NumProgressed": 7404,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T10:08:57.8983977+00:00",
+      "NumProgressed": 7406,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9108,7 +9113,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -9116,7 +9121,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4516
+      "UsersEstimate": 4518
     },
     {
       "ID": "Control_All_Relics",
@@ -9140,7 +9145,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2295
+      "UsersEstimate": 2296
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -9156,7 +9161,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2295
+      "UsersEstimate": 2296
     },
     {
       "ID": "First_Major_Ally",
@@ -9180,7 +9185,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5701
+      "UsersEstimate": 5703
     },
     {
       "ID": "First_Race_Met",
@@ -9188,7 +9193,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5331
+      "UsersEstimate": 5332
     },
     {
       "ID": "First_Ship_Designed",
@@ -9196,7 +9201,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2000
     },
     {
       "ID": "First_Stream_Travel",
@@ -9212,7 +9217,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5627
+      "UsersEstimate": 5629
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9292,7 +9297,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "Play_1000_Hours",
@@ -9396,7 +9401,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4442
+      "UsersEstimate": 4444
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9412,7 +9417,7 @@
       "Name": "Galactic War",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "War_Without_Translator",
@@ -9564,7 +9569,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4813
+      "UsersEstimate": 4814
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9651,15 +9656,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7404,
+      "Progressed": 7406,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-05T01:55:09.6981089+00:00",
-  "LastChanged_Achievements": "2023-12-10T09:09:14.0591555+00:00",
+  "LastChanged_Achievements": "2023-12-10T10:08:57.8983973+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:03.4642275+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:59:28.831853+00:00",
-  "LastUpdate_Achievements": "2023-12-10T09:09:14.0592659+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:59:14.5136747+00:00",
+  "LastUpdate_Achievements": "2023-12-10T10:08:57.898551+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -583,9 +583,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -639,9 +639,9 @@
       "ID": "KR4_ACHIEVEMENT_FIND_THE_CAPT",
       "SetID": "caeik3h",
       "Name": "Find Cap",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "KR4_ACHIEVEMENT_FROGGER",
@@ -687,9 +687,9 @@
       "ID": "KR4_ACHIEVEMENT_GROOT",
       "SetID": "caeik3h",
       "Name": "I\u0027m Root",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "KR4_ACHIEVEMENT_GUMMY_BEARS",
@@ -703,9 +703,9 @@
       "ID": "KR4_ACHIEVEMENT_HAPPY_NEW_YEAR",
       "SetID": "caeik3h",
       "Name": "Happy New Year!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "KR4_ACHIEVEMENT_HEROIC",
@@ -815,9 +815,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -863,9 +863,9 @@
       "ID": "KR4_ACHIEVEMENT_MERCENARIES",
       "SetID": "caeik3h",
       "Name": "Soldiers of fortune",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KR4_ACHIEVEMENT_MINE_CART_CARNAGE",
@@ -959,9 +959,9 @@
       "ID": "KR4_ACHIEVEMENT_SELL_TOWERS",
       "SetID": "caeik3h",
       "Name": "Go Green or Go Home",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "KR4_ACHIEVEMENT_SHADOWARCHERS",
@@ -975,9 +975,9 @@
       "ID": "KR4_ACHIEVEMENT_SHAOLIN_MASTER",
       "SetID": "caeik3h",
       "Name": "Follow the Master",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
@@ -999,9 +999,9 @@
       "ID": "KR4_ACHIEVEMENT_SON_OF_FIRE",
       "SetID": "caeik3h",
       "Name": "Son of Fire",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
@@ -1015,9 +1015,9 @@
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
       "SetID": "caeik3h",
       "Name": "Broodmother",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIRITMAUSOLEUM",
@@ -1087,9 +1087,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
       "SetID": "caeik3h",
       "Name": "More Than A Legend",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
@@ -1108,8 +1108,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-10T09:04:23.7851781+00:00",
+  "LastChanged_Achievements": "2023-12-10T10:04:13.8676752+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:53.8103037+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:59:07.8092415+00:00",
-  "LastUpdate_Achievements": "2023-12-10T09:04:23.7852524+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:58:53.0191684+00:00",
+  "LastUpdate_Achievements": "2023-12-10T10:04:13.8677724+00:00"
 }
