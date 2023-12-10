@@ -69,7 +69,7 @@
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.06% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.79% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.78% |
 | 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
@@ -283,13 +283,13 @@
 | 278 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
 | 278 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 283 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 283 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.12% |
 | 283 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.12% |
-| 285 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
-| 285 | [Isonzo](games/i/isonzo.md) | 0.11% |
-| 285 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 285 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
-| 285 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.11% |
-| 285 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.11% |
+| 286 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
+| 286 | [Isonzo](games/i/isonzo.md) | 0.11% |
+| 286 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
+| 286 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
+| 286 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.11% |
 | 291 | [Art of Rally](games/a/art_of_rally_1.md) | 0.10% |
 | 291 | [Black Book](games/b/black_book.md) | 0.10% |
 | 291 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.10% |
