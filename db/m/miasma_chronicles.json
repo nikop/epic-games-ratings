@@ -5,10 +5,10 @@
   "Ranking_Rating": 716,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4256,9 +4256,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 704
+      "UsersEstimate": 720
     },
     {
       "ID": "SHADOW_BOXING",
@@ -4337,8 +4337,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-06T19:03:11.1305784+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:09:47.4978117+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:09:57.1364661+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:08.4828288+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:02:54.4469537+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:09:47.4978612+00:00"
+  "LastUpdate_Ratings": "2023-12-10T17:02:55.2307993+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:09:57.1365163+00:00"
 }

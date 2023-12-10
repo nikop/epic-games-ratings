@@ -4,8 +4,8 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 604,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -296,9 +296,9 @@
       "ID": "Ach-04-mesto",
       "SetID": "2pjo9pi",
       "Name": "Mesto",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach-04-mura",
@@ -312,9 +312,9 @@
       "ID": "Ach-04-skritci",
       "SetID": "2pjo9pi",
       "Name": "Skritci",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach-04-snek",
@@ -352,9 +352,9 @@
       "ID": "Ach-04-zloB",
       "SetID": "2pjo9pi",
       "Name": "Zlo B",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach-05-burak",
@@ -496,9 +496,9 @@
       "ID": "Ach-level-4",
       "SetID": "2pjo9pi",
       "Name": "Level 4",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach-level-5",
@@ -535,8 +535,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:06:28.9647443+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:06:22.7178088+00:00",
   "LastUpdate_AppInfo": "2023-12-06T17:57:23.9383094+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:59:46.3322079+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:06:28.9647767+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:59:30.1874404+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:06:22.7178481+00:00"
 }

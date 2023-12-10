@@ -4,10 +4,10 @@
   "ProductSlug": "grand-emprise-time-travel-survival-b46e94",
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
-    "ReleaseDate": "2023-12-13T00:00:00+00:00",
+    "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-07-27T15:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-09T20:57:06.1038712+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:57:41.5535025+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:03:43.8133895+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:57:41.6624764+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:03:51.865329+00:00"
 }

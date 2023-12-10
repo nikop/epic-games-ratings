@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -494,10 +494,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95140,
+  "EOS_Progressed": 95144,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 680,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 672,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
     {
@@ -26514,6 +26514,11 @@
       "Time": "2023-12-10T16:08:35.7355903+00:00",
       "NumProgressed": 95140,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-12-10T17:09:00.4677138+00:00",
+      "NumProgressed": 95144,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 10,
@@ -26589,7 +26594,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33299
+      "UsersEstimate": 33300
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -26597,22 +26602,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10465
+      "UsersEstimate": 10466
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 95140,
+      "Progressed": 95144,
       "Completed": 432
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-07T22:03:08.3516808+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:08:35.7355899+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:09:00.4677133+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2634868+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:03:00.3485576+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:08:35.7356873+00:00"
+  "LastUpdate_Ratings": "2023-12-10T17:03:00.651225+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:09:00.467838+00:00"
 }

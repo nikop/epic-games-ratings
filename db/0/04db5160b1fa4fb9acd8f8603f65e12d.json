@@ -2,10 +2,10 @@
   "ID": "04db5160b1fa4fb9acd8f8603f65e12d",
   "Name": "Your Computer Might Be At Risk",
   "ProductSlug": "your-computer-might-be-at-risk-c5dea9",
-  "Ranking_EOS_Progress": 722,
+  "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-28T12:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -24,15 +24,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-12-06T23:07:53.4814949+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T17:04:50.2405702+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -76,7 +81,7 @@
       "ID": "BASIC_NEED",
       "SetID": "92c5pfn",
       "Name": "Basic need",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -204,7 +209,7 @@
       "ID": "MERRY_CHRISTMAS",
       "SetID": "92c5pfn",
       "Name": "Merry Christmas",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -341,14 +346,14 @@
     {
       "ID": "92c5pfn",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-28T02:23:17.9466472+00:00",
   "FirstSeenAchievements": "2023-06-11T08:01:53.6412466+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:04:47.4190207+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:04:50.2405697+00:00",
   "LastUpdate_AppInfo": "2023-12-04T01:45:22.9241066+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:59:21.8385523+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:04:47.4190527+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:59:08.8356+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:04:50.2405978+00:00"
 }

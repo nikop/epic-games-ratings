@@ -7,31 +7,31 @@ Number of Ratings: 801  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let's Get This Party Started | 87.00% | ~8,576 |
-| Photogenic | 84.00% | ~8,280 |
+| Photogenic | 84.00% | ~8,281 |
 | Plug It In | 80.00% | ~7,886 |
 | Surge Gauntlet Jockey | 80.00% | ~7,886 |
-| Adventure Time | 76.00% | ~7,491 |
+| Adventure Time | 76.00% | ~7,492 |
 | Playing With Power | 73.00% | ~7,196 |
 | Coup d'Etat | 56.00% | ~5,520 |
-| You're Fired | 55.00% | ~5,421 |
+| You're Fired | 55.00% | ~5,422 |
 | Get Furious | 54.00% | ~5,323 |
-| Hacks In Stacks | 53.00% | ~5,224 |
+| Hacks In Stacks | 53.00% | ~5,225 |
 | Gunplay And Cosplay | 52.00% | ~5,126 |
 | Meching Enemies | 47.00% | ~4,633 |
 | Ticket Toddler | 43.00% | ~4,239 |
 | Booty Bashing | 37.00% | ~3,647 |
 | Field Medic | 36.00% | ~3,549 |
 | Here Comes a New Challenger | 36.00% | ~3,549 |
-| Rapid Response | 32.00% | ~3,154 |
+| Rapid Response | 32.00% | ~3,155 |
 | Surge Ahead | 29.00% | ~2,859 |
 | The Full Monty | 29.00% | ~2,859 |
-| Guardian Angel | 27.00% | ~2,661 |
+| Guardian Angel | 27.00% | ~2,662 |
 | Poppin Noggins | 23.00% | ~2,267 |
 | Clips and Crits | 19.00% | ~1,873 |
 | Grey Goo | 16.00% | ~1,577 |
 | Boss of Bosses | 15.00% | ~1,479 |
 | The Final Blow | 14.00% | ~1,380 |
-| To Be Continued | 13.00% | ~1,281 |
+| To Be Continued | 13.00% | ~1,282 |
 | Light My Fire | 11.00% | ~1,084 |
 | Seasoned Adventurer | 11.00% | ~1,084 |
 | Get In The Ring! | 9.00% | ~887 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~39 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,857 (Ranked 167)  
+Progressed: 9,858 (Ranked 167)  
 Completed: 2 (0.02%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 2 (0.02%) (Ranked 339)
 | 2023-12-07 | 9,845 | 2 |
 | 2023-12-08 | 9,848 | 2 |
 | 2023-12-09 | 9,855 | 2 |
-| 2023-12-10 | 9,857 | 2 |
+| 2023-12-10 | 9,858 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 411)  
 Sum: 465 (Ranked 335)  

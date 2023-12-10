@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,867 (Ranked 147)  
-Completed: 42 (0.24%) (Ranked 251)  
+Progressed: 17,873 (Ranked 147)  
+Completed: 42 (0.23%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -300,7 +300,7 @@ Completed: 42 (0.24%) (Ranked 251)
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
-| 2023-12-10 | 17,867 | 43 |
+| 2023-12-10 | 17,873 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 224)  
 Sum: 3,250 (Ranked 175)  

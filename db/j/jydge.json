@@ -4,8 +4,8 @@
   "ProductSlug": "jydge-14242d",
   "Ranking_EOS_Progress": 599,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-27T10:00:00+00:00",
     "PcReleaseDate": "2017-10-03T23:00:00+00:00",
@@ -120,9 +120,9 @@
       "ID": "ACT_1",
       "SetID": "7e5mm2p",
       "Name": "The Dawn of Jydgement",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 60,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACT_2",
@@ -249,8 +249,8 @@
   "FirstSeenRating": "2023-05-03T05:56:54.7929535+00:00",
   "FirstSeenAchievements": "2023-04-26T13:12:00.0872815+00:00",
   "LastChanged": "2023-05-03T05:56:54.7929535+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:05:35.47424+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:05:34.0635196+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:03.8399177+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:00:14.525056+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:05:35.4742484+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:59:55.1145662+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:05:34.0635329+00:00"
 }

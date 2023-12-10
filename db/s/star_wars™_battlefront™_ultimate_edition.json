@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1654,
+  "EOS_Progressed": 1655,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
@@ -4944,6 +4944,11 @@
       "Time": "2023-12-10T16:09:48.5973854+00:00",
       "NumProgressed": 1654,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T17:09:58.1993213+00:00",
+      "NumProgressed": 1655,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5018,9 +5023,9 @@
       "ID": "achievement_17",
       "SetID": "271ol84",
       "Name": "\u0022Gonk? Gonk!\u0022",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_18",
@@ -5060,7 +5065,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_22",
@@ -5180,7 +5185,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "achievement_36",
@@ -5394,9 +5399,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 298
     },
     {
       "ID": "achievement_60",
@@ -5459,13 +5464,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1654,
+      "Progressed": 1655,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1654,
+      "Progressed": 1655,
       "Completed": 1
     }
   ],
@@ -5473,8 +5478,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:09:48.5973849+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:09:58.199321+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:00:05.0650007+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:09:48.5974671+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:59:46.8157125+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:09:58.1993967+00:00"
 }

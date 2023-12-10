@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -909,9 +909,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4110,
+  "EOS_Progressed": 4111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6884,6 +6884,11 @@
       "Time": "2023-12-10T15:03:35.4835892+00:00",
       "NumProgressed": 4110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T17:03:51.2392916+00:00",
+      "NumProgressed": 4111,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6904,7 +6909,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "achievement_11",
@@ -6926,9 +6931,9 @@
       "ID": "achievement_13",
       "SetID": "aiin7da",
       "Name": "MVP",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1357
     },
     {
       "ID": "achievement_14",
@@ -7063,7 +7068,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4110,
+      "Progressed": 4111,
       "Completed": 0
     }
   ],
@@ -7071,8 +7076,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-10T02:58:06.7636739+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:03:43.0542882+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:03:51.2392912+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:58:54.0542114+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:03:43.0543292+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:58:45.0322852+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:03:51.239335+00:00"
 }

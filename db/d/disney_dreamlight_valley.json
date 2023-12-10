@@ -5101,10 +5101,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8089,
       "NumberOfAwardsMax": 1110
+    },
+    {
+      "Time": "2023-12-10T16:58:41.2927131+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8090,
+      "NumberOfAwardsMax": 1110
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8089,
+  "NumberOfAwards": 8090,
   "NumberOfAwardsMax": 1110,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5154,7 +5160,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 815
+      "Count": 816
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5175,9 +5181,9 @@
       "Count": 538
     }
   ],
-  "EOS_Progressed": 12443,
+  "EOS_Progressed": 12444,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 2.45,
   "EosHistory": [
@@ -21215,6 +21221,11 @@
       "Time": "2023-12-10T16:08:27.2903909+00:00",
       "NumProgressed": 12443,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2023-12-10T17:08:52.783697+00:00",
+      "NumProgressed": 12444,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 15,
@@ -21282,7 +21293,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3857
+      "UsersEstimate": 3858
     },
     {
       "ID": "Generous",
@@ -21314,7 +21325,7 @@
       "Name": "Photographer",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 8461
+      "UsersEstimate": 8462
     },
     {
       "ID": "Renovator",
@@ -21338,23 +21349,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7590
+      "UsersEstimate": 7591
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12443,
+      "Progressed": 12444,
       "Completed": 305
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-12-10T13:58:30.3309867+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:08:27.2903906+00:00",
+  "LastChanged": "2023-12-10T16:58:41.2927129+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:08:52.7836966+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:33.6610619+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:58:50.0666318+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:08:27.2904546+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:58:41.2927135+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:08:52.7837841+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,910 |
-| Biggest Communism Builder | 24.00% | ~31,637 |
+| Biggest Communism Builder | 24.00% | ~31,638 |
 | The World's Most Laughable Centrist | 21.00% | ~27,683 |
 | Il Coppo Del'Arte! | 18.00% | ~23,728 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,092 |
@@ -15,7 +15,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,455 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,455 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,137 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,500 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,501 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,182 |
 | Unbelievably Boring **** | 9.00% | ~11,864 |
 | Enemy Of The Physical Realm | 9.00% | ~11,864 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~132 |
 | What body? | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,822 (Ranked 83)  
+Progressed: 131,823 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,14 +281,14 @@ Completed: 28 (0.02%) (Ranked 339)
 | 2023-12-07 | 131,714 | 28 |
 | 2023-12-08 | 131,744 | 28 |
 | 2023-12-09 | 131,790 | 28 |
-| 2023-12-10 | 131,822 | 28 |
+| 2023-12-10 | 131,823 | 28 |
 ## Awards
-Max (Character Customization): 742  (Ranked 183)  
-Sum: 1,133 (Ranked 256)  
-Diff (max vs sum): -73  
+Max (Character Customization): 744  (Ranked 182)  
+Sum: 1,135 (Ranked 256)  
+Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 742 |
+| This game has Inclusive Character Customization | 744 |
 | This game has Amazing Storytelling | 51 |
 | This game is Educational | 47 |
 | This game is Highly Recommended | 45 |
@@ -465,3 +465,4 @@ Diff (max vs sum): -73
 | 2023-12-04 | 4.87 | - | 738 | 1,129 |
 | 2023-12-07 | 4.87 | - | 739 | 1,130 |
 | 2023-12-09 | 4.87 | - | 742 | 1,133 |
+| 2023-12-10 | 4.87 | - | 744 | 1,135 |

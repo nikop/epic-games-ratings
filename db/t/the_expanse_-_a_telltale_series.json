@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16035,
+  "EOS_Progressed": 16036,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13515,6 +13515,11 @@
       "Time": "2023-12-10T16:05:02.5243583+00:00",
       "NumProgressed": 16035,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-10T17:05:03.786269+00:00",
+      "NumProgressed": 16036,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13607,7 +13612,7 @@
       "Name": "Martian Music",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "2",
@@ -13631,7 +13636,7 @@
       "Name": "Drone Dodger",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "22",
@@ -13703,7 +13708,7 @@
       "Name": "Captain Drummer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "30",
@@ -13735,7 +13740,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "7",
@@ -13759,15 +13764,15 @@
       "Name": "Impossible Objects",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "31",
       "SetID": "9nnpo9n",
       "Name": "Keep Arjun in Check",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 119
     },
     {
       "ID": "32",
@@ -13806,22 +13811,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16035,
+      "Progressed": 16036,
       "Completed": 42
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1989,
-      "Completed": 853
+      "Progressed": 1990,
+      "Completed": 855
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-09T17:58:45.997893+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:05:02.5243578+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:05:03.7862687+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:59:33.8583532+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:05:02.5244715+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:59:19.4906847+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:05:03.786364+00:00"
 }

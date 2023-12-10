@@ -2,10 +2,10 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 374,
+  "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 261,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -1040,6 +1040,11 @@
       "Time": "2023-12-10T16:09:44.2722205+00:00",
       "NumProgressed": 259,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-10T17:09:54.1515952+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 36,
@@ -1065,9 +1070,9 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_04",
@@ -1107,7 +1112,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_09",
@@ -1147,7 +1152,7 @@
       "Name": "Adventurer",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_14",
@@ -1227,7 +1232,7 @@
       "Name": "Geared Up",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_24",
@@ -1251,7 +1256,7 @@
       "Name": "Scholar",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_27",
@@ -1267,7 +1272,7 @@
       "Name": "I Found It",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_29",
@@ -1307,7 +1312,7 @@
       "Name": "The Collector",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_35",
@@ -1338,14 +1343,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 261,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:09:44.2722201+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:09:54.1515945+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:12.3755943+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:59:38.5653773+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:09:44.2722475+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:59:23.6693481+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:09:54.1516215+00:00"
 }

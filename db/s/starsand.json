@@ -2,13 +2,13 @@
   "ID": "c7b771d17305491a9962d0c3de75fe8b",
   "Name": "Starsand",
   "ProductSlug": "starsand",
-  "Ranking_Rating": 892,
+  "Ranking_Rating": 891,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-11-14T17:00:00+00:00",
     "PcReleaseDate": "2021-11-04T11:00:00+00:00",
@@ -192,6 +192,6 @@
   "FirstSeenRating": "2022-08-09T00:02:49.020419+00:00",
   "LastChanged": "2023-07-17T08:01:18.7121263+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:59.3731761+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:59:42.9106059+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:05:13.7498864+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:59:27.0590923+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:05:14.1554514+00:00"
 }

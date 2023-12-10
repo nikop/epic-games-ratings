@@ -5,10 +5,10 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~657 |
+| Read Between The Lines | 64.00% | ~668 |
 | To Hell In A Handcart | 63.00% | ~657 |
-| High Profile | 55.00% | ~574 |
-| Whispers In The Dark | 52.00% | ~542 |
+| High Profile | 56.00% | ~584 |
+| Whispers In The Dark | 53.00% | ~553 |
 | Fond Memories | 50.00% | ~522 |
 | A Method To His Madness | 48.00% | ~501 |
 | History Check | 47.00% | ~490 |
@@ -16,8 +16,8 @@ Rating: 4.69 (Ranked 232)
 | Gaze Into The Abyss | 43.00% | ~448 |
 | Open Sesame | 43.00% | ~448 |
 | Sticky Fingers | 43.00% | ~448 |
+| Knives Out | 43.00% | ~448 |
 | Lock, Stock, And Barrel | 42.00% | ~438 |
-| Knives Out | 42.00% | ~438 |
 | Land, Ho! | 42.00% | ~438 |
 | Back In The Saddle | 41.00% | ~428 |
 | No Man Is An Island | 41.00% | ~428 |
@@ -26,11 +26,11 @@ Rating: 4.69 (Ranked 232)
 | Fhtagn! | 39.00% | ~407 |
 | Bookworm | 37.00% | ~386 |
 | Going Once... | 36.00% | ~375 |
-| Let Me Be Frank | 33.00% | ~344 |
+| Let Me Be Frank | 34.00% | ~355 |
 | No Stone Unturned | 32.00% | ~334 |
 | Brain Food | 30.00% | ~313 |
+| Curiosity Killed The Cat | 19.00% | ~198 |
 | Read It And Weep | 19.00% | ~198 |
-| Curiosity Killed The Cat | 18.00% | ~188 |
 | Big Breakthrough | 12.00% | ~125 |
 | Reawakened | 3.00% | ~31 |
 ## Popularity (Based on EOS Achievements)

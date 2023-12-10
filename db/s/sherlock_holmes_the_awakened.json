@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -3653,9 +3653,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 657
+      "UsersEstimate": 668
     },
     {
       "ID": "MQ01_2",
@@ -3669,9 +3669,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 574
+      "UsersEstimate": 584
     },
     {
       "ID": "MQ02_2",
@@ -3685,17 +3685,17 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 188
+      "UsersEstimate": 198
     },
     {
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 542
+      "UsersEstimate": 553
     },
     {
       "ID": "MQ03_1",
@@ -3749,9 +3749,9 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 355
     },
     {
       "ID": "MQ04_3",
@@ -3789,9 +3789,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 438
+      "UsersEstimate": 448
     },
     {
       "ID": "MQ06_1",
@@ -3886,8 +3886,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-26T10:02:59.0802972+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:06:24.0292228+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:06:18.3881405+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:02:58.1383338+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:06:24.0292492+00:00"
+  "LastUpdate_Ratings": "2023-12-10T17:02:58.7250802+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:06:18.3881687+00:00"
 }

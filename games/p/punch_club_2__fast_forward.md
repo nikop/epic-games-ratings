@@ -41,7 +41,7 @@
 | Mysterious voice | 47.00% | ~171 |
 | Guiding on the right path | 47.00% | ~171 |
 | No blades in the gym | 45.00% | ~163 |
-| Champion – no way back | 43.00% | ~156 |
+| Champion – no way back | 44.00% | ~160 |
 | Underground dwellers | 42.00% | ~152 |
 | Responsible approach | 42.00% | ~152 |
 | Deal with life | 41.00% | ~149 |

@@ -5,9 +5,9 @@
   "Ranking_Rating": 89,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1083,
+  "EOS_Progressed": 1085,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.95,
   "EosHistory": [
@@ -3613,6 +3613,11 @@
       "Time": "2023-12-10T16:03:26.6592445+00:00",
       "NumProgressed": 1083,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-10T17:03:36.0274772+00:00",
+      "NumProgressed": 1085,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3625,7 +3630,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3633,7 +3638,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "_03_FinishAct1",
@@ -3649,7 +3654,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "_05_FinishAct2",
@@ -3657,7 +3662,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3689,7 +3694,7 @@
       "Name": "Powder Monkey",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "_10_Completion_30",
@@ -3697,15 +3702,15 @@
       "Name": "Buccaneer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 163
     },
     {
       "ID": "_12_Completion_50",
@@ -3769,7 +3774,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -3793,7 +3798,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -3801,7 +3806,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -3825,14 +3830,14 @@
       "Name": "Welcome Back Jester",
       "Percentage": 3,
       "XP": 140,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1083,
+      "Progressed": 1085,
       "Completed": 32
     }
   ],
@@ -3840,8 +3845,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-09T12:00:24.7987919+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:03:26.6592441+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:03:36.0274769+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:00:34.2071692+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:03:26.6592827+00:00"
+  "LastUpdate_Ratings": "2023-12-10T17:00:12.1799146+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:03:36.0275093+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -199,7 +199,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10899,
+  "EOS_Progressed": 10901,
   "EOS_Completed": 201,
   "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 13,
@@ -6009,6 +6009,11 @@
       "Time": "2023-12-10T16:08:40.886802+00:00",
       "NumProgressed": 10899,
       "NumCompleted": 201
+    },
+    {
+      "Time": "2023-12-10T17:09:05.3553704+00:00",
+      "NumProgressed": 10901,
+      "NumCompleted": 201
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -6021,7 +6026,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 10027
+      "UsersEstimate": 10029
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -6029,7 +6034,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 9373
+      "UsersEstimate": 9375
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -6117,7 +6122,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 7956
+      "UsersEstimate": 7958
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -6205,7 +6210,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 7302
+      "UsersEstimate": 7304
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -6229,7 +6234,7 @@
       "Name": "What I Want Is You",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 6648
+      "UsersEstimate": 6650
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -6237,7 +6242,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 6321
+      "UsersEstimate": 6323
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -6356,7 +6361,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10899,
+      "Progressed": 10901,
       "Completed": 201
     }
   ],
@@ -6364,8 +6369,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-10T15:00:14.2676379+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:08:40.8868016+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:09:05.3553699+00:00",
   "LastUpdate_AppInfo": "2023-12-09T02:17:01.4764819+00:00",
-  "LastUpdate_Ratings": "2023-12-10T16:00:33.7396997+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:08:40.8868567+00:00"
+  "LastUpdate_Ratings": "2023-12-10T17:00:11.686869+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:09:05.3554235+00:00"
 }

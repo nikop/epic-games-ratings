@@ -17,7 +17,7 @@ Rating: 4.42 (Ranked 716)
 | Editor Adept | 48.00% | ~768 |
 | From Darkness to Light | 48.00% | ~768 |
 | Giant Killer | 47.00% | ~752 |
-| Sensei | 44.00% | ~704 |
+| Sensei | 45.00% | ~720 |
 | Firestarter | 43.00% | ~688 |
 | The meaning of Kain | 43.00% | ~688 |
 | Recycler | 41.00% | ~656 |
@@ -57,7 +57,7 @@ Rating: 4.42 (Ranked 716)
 | Goaaaaal! | 0.90% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,599 (Ranked 242)  
+Progressed: 1,599 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |

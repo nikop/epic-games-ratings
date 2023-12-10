@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -218,7 +218,7 @@
   ],
   "EOS_Progressed": 923,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2381,9 +2381,9 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 55
     },
     {
       "ID": "DesolateIsland",
@@ -2485,9 +2485,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 175
     },
     {
       "ID": "LostMarshes",
@@ -2757,9 +2757,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 83
     },
     {
       "ID": "YourBiggestFan",
@@ -2782,8 +2782,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:04:14.3294373+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:04:19.3265071+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:58:08.6694604+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:04:14.3294878+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:58:06.0958439+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:04:19.3265725+00:00"
 }

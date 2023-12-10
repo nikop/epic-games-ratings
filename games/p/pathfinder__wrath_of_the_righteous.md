@@ -8,10 +8,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 27.00% | ~3,314 |
 | A Spark | 19.00% | ~2,332 |
-| Burning City | 18.00% | ~2,209 |
+| Burning City | 18.00% | ~2,210 |
 | Defender's Heart | 16.00% | ~1,964 |
 | Mythic Choices | 15.00% | ~1,841 |
-| Banner over the Citadel | 14.00% | ~1,718 |
+| Banner over the Citadel | 14.00% | ~1,719 |
 | Queen's Gratitude | 12.00% | ~1,473 |
 | Fifth Crusade | 9.00% | ~1,105 |
 | Embrace of the Abyss | 7.00% | ~859 |
@@ -39,10 +39,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 3.00% | ~332 |
 | The Lady of the Forest | 3.00% | ~332 |
 | Beware Still Water | 3.00% | ~332 |
-| Path of the Demon | 2.00% | ~245 |
-| Path of the Aeon | 2.00% | ~245 |
-| Your First Big Enemy | 2.00% | ~245 |
-| Truly Important Deed | 2.00% | ~245 |
+| Path of the Demon | 2.00% | ~246 |
+| Path of the Aeon | 2.00% | ~246 |
+| Your First Big Enemy | 2.00% | ~246 |
+| Truly Important Deed | 2.00% | ~246 |
 | Stay Underground | 2.00% | ~221 |
 | The Final Threshold | 1.00% | ~123 |
 | Path of the Dragon | 1.00% | ~123 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,274 (Ranked 162)  
+Progressed: 12,275 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,16 +357,16 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-07 | 12,250 | 0 |
 | 2023-12-08 | 12,255 | 0 |
 | 2023-12-09 | 12,266 | 0 |
-| 2023-12-10 | 12,274 | 0 |
+| 2023-12-10 | 12,275 | 0 |
 ## Awards
 Max (Character Customization): 1,759  (Ranked 123)  
-Sum: 7,125 (Ranked 121)  
+Sum: 7,126 (Ranked 121)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,759 |
 | This game is Extremely Fun | 659 |
-| This game is Highly Recommended | 651 |
+| This game is Highly Recommended | 652 |
 | This game has Diverse Characters | 648 |
 | This game has Amazing Characters | 644 |
 | This game has Amazing Storytelling | 627 |
@@ -665,4 +665,4 @@ Diff (max vs sum): 2
 | 2023-12-07 | 4.76 | - | 1,756 | 7,117 |
 | 2023-12-08 | 4.76 | - | 1,756 | 7,120 |
 | 2023-12-09 | 4.76 | - | 1,757 | 7,123 |
-| 2023-12-10 | 4.76 | - | 1,759 | 7,125 |
+| 2023-12-10 | 4.76 | - | 1,759 | 7,126 |

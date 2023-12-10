@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 536)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,988 |
-| Whatever It Takes | 3.00% | ~1,754 |
-| Pork Chopped | 3.00% | ~1,754 |
+| Welcome To Hell-A | 3.00% | ~21,989 |
+| Whatever It Takes | 3.00% | ~1,755 |
+| Pork Chopped | 3.00% | ~1,755 |
 | Dr. Reed, I Presume? | 2.00% | ~14,659 |
 | Git Gutte! | 2.00% | ~14,659 |
 | Anger Management | 2.00% | ~14,659 |
@@ -25,22 +25,22 @@ Rating: 4.54 (Ranked 536)
 | Personal Assistant Personally Assisted | 2.00% | ~14,659 |
 | This is My Weapon | 2.00% | ~14,659 |
 | One of Us | 2.00% | ~1,170 |
-| Making Your Mark | 1.00% | ~7,329 |
-| Perks of the Job | 1.00% | ~7,329 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,329 |
-| Slayer Squad | 1.00% | ~7,329 |
-| Zombologist | 1.00% | ~7,329 |
-| Ooh, Shiny! | 1.00% | ~7,329 |
-| A Patton Emerges | 1.00% | ~7,329 |
-| Humanity Distilled | 1.00% | ~7,329 |
-| I Am the Resurrection | 1.00% | ~7,329 |
-| Down with the Sickness | 1.00% | ~7,329 |
-| Max Headroom | 1.00% | ~7,329 |
-| Our True Nature | 1.00% | ~7,329 |
-| Not Even My Final Form | 0.80% | ~5,863 |
-| Jumbo Keyring | 0.80% | ~5,863 |
-| Go, Bobcats! | 0.80% | ~5,863 |
-| Rising Star | 0.80% | ~5,863 |
+| Making Your Mark | 1.00% | ~7,330 |
+| Perks of the Job | 1.00% | ~7,330 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,330 |
+| Slayer Squad | 1.00% | ~7,330 |
+| Zombologist | 1.00% | ~7,330 |
+| Ooh, Shiny! | 1.00% | ~7,330 |
+| A Patton Emerges | 1.00% | ~7,330 |
+| Humanity Distilled | 1.00% | ~7,330 |
+| I Am the Resurrection | 1.00% | ~7,330 |
+| Down with the Sickness | 1.00% | ~7,330 |
+| Max Headroom | 1.00% | ~7,330 |
+| Our True Nature | 1.00% | ~7,330 |
+| Not Even My Final Form | 0.80% | ~5,864 |
+| Jumbo Keyring | 0.80% | ~5,864 |
+| Go, Bobcats! | 0.80% | ~5,864 |
+| Rising Star | 0.80% | ~5,864 |
 | Internet Famous | 0.70% | ~5,131 |
 | Make it So | 0.60% | ~4,398 |
 | On Safari | 0.60% | ~4,398 |
@@ -55,9 +55,9 @@ Rating: 4.54 (Ranked 536)
 | Lawn and Order | 0.20% | ~117 |
 | Donk! | 0.10% | ~733 |
 | Bucket List | 0.10% | ~733 |
-| Wilhelm | 0.10% | ~58 |
+| Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,937 (Ranked 21)  
+Progressed: 732,968 (Ranked 21)  
 Completed: 2,474 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,16 +291,16 @@ Completed: 2,474 (0.34%) (Ranked 234)
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
-| 2023-12-10 | 732,937 | 2,474 |
+| 2023-12-10 | 732,968 | 2,474 |
 ## Awards
 Max (Great Boss Battles): 8,071  (Ranked 49)  
-Sum: 12,404 (Ranked 82)  
+Sum: 12,406 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 8,071 |
 | This game is Great for Beginners | 629 |
-| This game has Diverse Characters | 592 |
+| This game has Diverse Characters | 594 |
 | This game has Quickly Understood Controls | 563 |
 | This game is Relaxing | 538 |
 | This game has Amazing Storytelling | 524 |
@@ -543,4 +543,4 @@ Diff (max vs sum): -33
 | 2023-12-07 | 4.54 | 7,994 | 12,284 |
 | 2023-12-08 | 4.54 | 8,017 | 12,324 |
 | 2023-12-09 | 4.54 | 8,042 | 12,362 |
-| 2023-12-10 | 4.54 | 8,071 | 12,404 |
+| 2023-12-10 | 4.54 | 8,071 | 12,406 |

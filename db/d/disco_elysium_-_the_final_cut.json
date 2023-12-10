@@ -3,12 +3,12 @@
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 183,
+  "Ranking_Popularity": 182,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1446,18 +1446,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1133,
       "NumberOfAwardsMax": 742
+    },
+    {
+      "Time": "2023-12-10T16:58:01.1113288+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1135,
+      "NumberOfAwardsMax": 744
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1133,
-  "NumberOfAwardsMax": 742,
+  "NumberOfAwards": 1135,
+  "NumberOfAwardsMax": 744,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 742
+      "Count": 744
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1532,7 +1538,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131822,
+  "EOS_Progressed": 131823,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
@@ -24317,6 +24323,11 @@
       "Time": "2023-12-10T16:05:10.4809895+00:00",
       "NumProgressed": 131822,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-10T17:05:11.1101545+00:00",
+      "NumProgressed": 131823,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24384,7 +24395,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31637
+      "UsersEstimate": 31638
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -24472,7 +24483,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14500
+      "UsersEstimate": 14501
     },
     {
       "ID": "ACH_CUNO",
@@ -24647,15 +24658,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131822,
+      "Progressed": 131823,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-12-09T07:57:19.028339+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:05:10.4809892+00:00",
+  "LastChanged": "2023-12-10T16:58:01.1113287+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:05:11.1101542+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:13.3373755+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:58:03.0161743+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:05:10.4810925+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:58:01.111329+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:05:11.1102571+00:00"
 }

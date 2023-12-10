@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4461,10 +4461,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7125,
       "NumberOfAwardsMax": 1759
+    },
+    {
+      "Time": "2023-12-10T16:59:40.0109114+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7126,
+      "NumberOfAwardsMax": 1759
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7125,
+  "NumberOfAwards": 7126,
   "NumberOfAwardsMax": 1759,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4502,7 +4508,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 651
+      "Count": 652
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4535,9 +4541,9 @@
       "Count": 400
     }
   ],
-  "EOS_Progressed": 12274,
+  "EOS_Progressed": 12275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16630,6 +16636,11 @@
       "Time": "2023-12-10T16:09:30.7339872+00:00",
       "NumProgressed": 12274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T17:09:42.3119818+00:00",
+      "NumProgressed": 12275,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16649,7 +16660,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2210
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -16657,7 +16668,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "04_FithCrusade",
@@ -16705,7 +16716,7 @@
       "Name": "Path of the Demon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "10_PathOfAzata",
@@ -16721,7 +16732,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "12_PathOfTrickster",
@@ -16921,7 +16932,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -17041,7 +17052,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -17568,21 +17579,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11056,
+      "Progressed": 11057,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12274,
+      "Progressed": 12275,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-10T08:59:17.4440235+00:00",
-  "LastChanged_Achievements": "2023-12-10T16:09:30.7339869+00:00",
+  "LastChanged": "2023-12-10T16:59:40.0109112+00:00",
+  "LastChanged_Achievements": "2023-12-10T17:09:42.3119815+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:59:57.3920348+00:00",
-  "LastUpdate_Achievements": "2023-12-10T16:09:30.7342314+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:59:40.0109118+00:00",
+  "LastUpdate_Achievements": "2023-12-10T17:09:42.3121403+00:00"
 }

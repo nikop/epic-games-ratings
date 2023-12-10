@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mission Mastered | 47.00% | ~7 |
-| The Dawn of Jydgement | 33.00% | ~5 |
+| The Dawn of Jydgement | 40.00% | ~6 |
 | The Jydgement Day | 13.00% | ~2 |
 | Savior | 13.00% | ~2 |
 | The Dusk Falls | 7.00% | ~1 |

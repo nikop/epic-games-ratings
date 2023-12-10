@@ -32,9 +32,9 @@
 | Tanos' Crusade Against Thalya | 43.00% | ~233 |
 | Mana Cannon | 41.00% | ~222 |
 | All’s Well That Ends Evil | 37.00% | ~201 |
+| Unstoppable Horde | 34.00% | ~184 |
+| Master of the Undead | 34.00% | ~184 |
 | The Duel | 34.00% | ~184 |
-| Unstoppable Horde | 33.00% | ~179 |
-| Master of the Undead | 33.00% | ~179 |
 | If Looks Could Kill | 31.00% | ~168 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~157 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~146 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 8.00% | ~43 |
 | I Don't Need Any Help | 7.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 542 (Ranked 311)  
+Progressed: 542 (Ranked 312)  
 Completed: 15 (2.77%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
