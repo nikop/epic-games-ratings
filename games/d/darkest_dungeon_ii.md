@@ -52,6 +52,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Shrine of Reflection | 0.10% | ~126 |
 | A Clear Conscience | 0.10% | ~126 |
 | Whale | 0.10% | ~126 |
+| Triage | 0.10% | ~126 |
 | A Place to Lay Your Head | 0.10% | ~126 |
 | When You Want Something Done Right | 0.10% | ~126 |
 | FNG | 0.10% | ~126 |
@@ -70,7 +71,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | This guy... again? | 0.10% | ~1 |
 | No Gravestone Left Unturned | 0.00% | ~0 |
 | 20,000 Leagues Above the Sea | 0.00% | ~0 |
-| Triage | 0.00% | ~0 |
 | Worldly Traveller | 0.00% | ~0 |
 | The Clash | 0.00% | ~0 |
 | Battle Hardened | 0.00% | ~0 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,986 (Ranked 84)  
+Progressed: 125,990 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-07 | 125,791 | 2 |
 | 2023-12-08 | 125,859 | 2 |
 | 2023-12-09 | 125,950 | 2 |
-| 2023-12-10 | 125,986 | 2 |
+| 2023-12-10 | 125,990 | 2 |
 ## Awards
 Max (Character Customization): 7,578  (Ranked 52)  
 Sum: 20,029 (Ranked 59)  

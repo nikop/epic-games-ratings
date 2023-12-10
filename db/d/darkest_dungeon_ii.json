@@ -9510,7 +9510,7 @@
       "Count": 983
     }
   ],
-  "EOS_Progressed": 125986,
+  "EOS_Progressed": 125990,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
@@ -34300,6 +34300,11 @@
       "Time": "2023-12-10T08:08:24.525399+00:00",
       "NumProgressed": 125986,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-10T09:08:40.5132655+00:00",
+      "NumProgressed": 125990,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34693,9 +34698,9 @@
       "ID": "hospital_full_service",
       "SetID": "64l4lke",
       "Name": "Triage",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 126
     },
     {
       "ID": "inn_first_time",
@@ -34942,21 +34947,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 125986,
+      "Progressed": 125990,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 855,
+      "Progressed": 859,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-10T02:22:32.4482053+00:00",
-  "LastChanged_Achievements": "2023-12-10T08:08:24.5253989+00:00",
+  "LastChanged_Achievements": "2023-12-10T09:08:40.5132646+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:57:21.0628626+00:00",
-  "LastUpdate_Achievements": "2023-12-10T08:08:24.5255555+00:00"
+  "LastUpdate_Ratings": "2023-12-10T08:57:39.8277336+00:00",
+  "LastUpdate_Achievements": "2023-12-10T09:08:40.5134104+00:00"
 }

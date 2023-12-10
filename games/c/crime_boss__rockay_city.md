@@ -19,8 +19,8 @@ Rating: 3.95 (Ranked 1,022)
 | Case Closed | 1.00% | ~918 |
 | Raider’s Ruin | 1.00% | ~918 |
 | Rockay Rex | 1.00% | ~918 |
-| Track Star | 0.90% | ~826 |
-| True Player | 0.90% | ~826 |
+| Track Star | 0.90% | ~827 |
+| True Player | 0.90% | ~827 |
 | Headhunter | 0.80% | ~735 |
 | I Like Trains | 0.60% | ~551 |
 | Freebooter | 0.60% | ~551 |
@@ -32,10 +32,10 @@ Rating: 3.95 (Ranked 1,022)
 | Olympus Ascended | 0.50% | ~459 |
 | Ding Dong | 0.50% | ~459 |
 | All that Glitters | 0.40% | ~81 |
-| Rockay Raider | 0.30% | ~275 |
-| Groundhog Days | 0.30% | ~275 |
-| Cracked the Jack | 0.30% | ~275 |
-| Classy Joint | 0.30% | ~275 |
+| Rockay Raider | 0.30% | ~276 |
+| Groundhog Days | 0.30% | ~276 |
+| Cracked the Jack | 0.30% | ~276 |
+| Classy Joint | 0.30% | ~276 |
 | All for One | 0.30% | ~61 |
 | Rockay Knight | 0.20% | ~184 |
 | Privateer | 0.20% | ~184 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,022)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,833 (Ranked 92)  
+Progressed: 91,834 (Ranked 92)  
 Completed: 58 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,17 +281,17 @@ Completed: 58 (0.06%) (Ranked 313)
 | 2023-12-07 | 91,792 | 58 |
 | 2023-12-08 | 91,806 | 58 |
 | 2023-12-09 | 91,827 | 58 |
-| 2023-12-10 | 91,833 | 58 |
+| 2023-12-10 | 91,834 | 58 |
 ## Awards
 Max (Diverse Characters): 559  (Ranked 207)  
-Sum: 2,659 (Ranked 188)  
+Sum: 2,660 (Ranked 188)  
 Diff (max vs sum): 19  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 559 |
 | This game is Highly Recommended | 545 |
 | This game has Quickly Understood Controls | 529 |
-| This game has Amazing Characters | 516 |
+| This game has Amazing Characters | 517 |
 | This game has Challenging Combat | 514 |
 | This game is Extremely Fun | 510 |
 | This game is Great for Quick Sessions | 70 |
@@ -552,3 +552,4 @@ Diff (max vs sum): 19
 | 2023-12-07 | 3.95 | 557 | 2,647 |
 | 2023-12-08 | 3.95 | 557 | 2,651 |
 | 2023-12-09 | 3.95 | 559 | 2,659 |
+| 2023-12-10 | 3.95 | 559 | 2,660 |

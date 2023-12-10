@@ -16,7 +16,7 @@
 | Heroes’ Gorge | 65.00% | ~350 |
 | Master of Magic | 64.00% | ~345 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~340 |
-| Magic Accidents | 59.00% | ~318 |
+| Magic Accidents | 60.00% | ~323 |
 | The Ascent | 58.00% | ~313 |
 | It's Warm and Cozy at Home | 58.00% | ~313 |
 | Trap Master | 55.00% | ~296 |
@@ -54,8 +54,8 @@
 | My Little Torture Chamber | 17.00% | ~92 |
 | Lavalumps on Ice! | 17.00% | ~92 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~86 |
+| To Infinity And Beyond! | 16.00% | ~86 |
 | To the Max! | 15.00% | ~81 |
-| To Infinity And Beyond! | 15.00% | ~81 |
 | Evilification | 14.00% | ~75 |
 | Mirror, Mirror | 13.00% | ~70 |
 | Untouchable | 13.00% | ~70 |

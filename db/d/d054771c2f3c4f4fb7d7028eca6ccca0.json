@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1564,
+  "EOS_Progressed": 1566,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 818,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1129,6 +1129,11 @@
       "Time": "2023-12-10T08:04:22.1379387+00:00",
       "NumProgressed": 1564,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T09:04:33.6015626+00:00",
+      "NumProgressed": 1566,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1245,7 +1250,7 @@
       "Name": "Worthy Badge",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1516,14 +1521,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1564,
+      "Progressed": 1566,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-10T08:04:22.1379386+00:00",
+  "LastChanged_Achievements": "2023-12-10T09:04:33.6015623+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:59:15.9511222+00:00",
-  "LastUpdate_Achievements": "2023-12-10T08:04:22.1379712+00:00"
+  "LastUpdate_Ratings": "2023-12-10T08:59:33.4905076+00:00",
+  "LastUpdate_Achievements": "2023-12-10T09:04:33.601615+00:00"
 }

@@ -469,9 +469,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43499,
+  "EOS_Progressed": 43501,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14659,6 +14659,11 @@
       "Time": "2023-12-10T08:05:59.0281988+00:00",
       "NumProgressed": 43499,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-10T09:06:07.86562+00:00",
+      "NumProgressed": 43501,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -14670,7 +14675,7 @@
       "Name": "Abominizer",
       "Percentage": 0.1,
       "XP": 105,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ARCHIVE",
@@ -14678,7 +14683,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "CAMP",
@@ -14694,7 +14699,7 @@
       "Name": "Through the Eyes of Another: Visionary",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CHALLENGE_FIRST",
@@ -14710,7 +14715,7 @@
       "Name": "Through the Eyes of Another: Seer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "CHAPTER_01_CLEAR",
@@ -14814,7 +14819,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "CRAFT_FIRST",
@@ -14838,7 +14843,7 @@
       "Name": "Kit and Caboodle",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "FAIRYSTEP",
@@ -14854,7 +14859,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "LEAPFROG",
@@ -14894,7 +14899,7 @@
       "Name": "Above and Beyond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "MAGIC_ALL",
@@ -14934,7 +14939,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "MAGIC_TANTA",
@@ -14990,7 +14995,7 @@
       "Name": "Happy Snapper",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "SKILLTREE_ALL",
@@ -14998,7 +15003,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -15038,7 +15043,7 @@
       "Name": "Barely There",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "SUBCON_DANCE",
@@ -15046,7 +15051,7 @@
       "Name": "Moves",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "SUBCON_PRAY",
@@ -15054,7 +15059,7 @@
       "Name": "Remembrance",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "SUBCON_TRADE",
@@ -15070,7 +15075,7 @@
       "Name": "Promises",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -15078,7 +15083,7 @@
       "Name": "Rebirth",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "TANTACAT_ALL",
@@ -15086,29 +15091,29 @@
       "Name": "Cat Person",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43499,
+      "Progressed": 43501,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8336,
-      "Completed": 8336
+      "Progressed": 8338,
+      "Completed": 8338
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-09T13:58:58.5190883+00:00",
-  "LastChanged_Achievements": "2023-12-10T08:05:59.0281987+00:00",
+  "LastChanged_Achievements": "2023-12-10T09:06:07.8656197+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:12.2339808+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:58:30.2427091+00:00",
-  "LastUpdate_Achievements": "2023-12-10T08:05:59.0283059+00:00"
+  "LastUpdate_Ratings": "2023-12-10T08:58:48.483272+00:00",
+  "LastUpdate_Achievements": "2023-12-10T09:06:07.8657358+00:00"
 }

@@ -216,7 +216,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 917,
+  "EOS_Progressed": 918,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -2266,6 +2266,11 @@
       "Time": "2023-12-10T07:04:23.0192928+00:00",
       "NumProgressed": 917,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T09:03:53.6935153+00:00",
+      "NumProgressed": 918,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2284,9 +2289,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 129
     },
     {
       "ID": "AnthropicHills",
@@ -2318,7 +2323,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "BreakTheLoop",
@@ -2620,9 +2625,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 119
     },
     {
       "ID": "TextAdventurer",
@@ -2678,7 +2683,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "TheWordEndures",
@@ -2749,7 +2754,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 917,
+      "Progressed": 918,
       "Completed": 1
     }
   ],
@@ -2757,8 +2762,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-10T08:03:40.5955749+00:00",
+  "LastChanged_Achievements": "2023-12-10T09:03:53.6935146+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:57:27.4675055+00:00",
-  "LastUpdate_Achievements": "2023-12-10T08:03:40.5956296+00:00"
+  "LastUpdate_Ratings": "2023-12-10T08:57:45.9490932+00:00",
+  "LastUpdate_Achievements": "2023-12-10T09:03:53.6935854+00:00"
 }

@@ -4783,9 +4783,9 @@
       "ID": "achievement_126",
       "SetID": "d252ncf",
       "Name": "Veteran",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 591
+      "UsersEstimate": 606
     },
     {
       "ID": "achievement_127",
@@ -4807,9 +4807,9 @@
       "ID": "achievement_14",
       "SetID": "b9pe172",
       "Name": "Electronics Specialist",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 233
     },
     {
       "ID": "achievement_15",
@@ -5571,8 +5571,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-10T08:09:05.8634801+00:00",
+  "LastChanged_Achievements": "2023-12-10T09:09:20.806237+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.2992366+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:02:57.4341941+00:00",
-  "LastUpdate_Achievements": "2023-12-10T08:09:05.8636335+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:03:11.0437917+00:00",
+  "LastUpdate_Achievements": "2023-12-10T09:09:20.8063917+00:00"
 }

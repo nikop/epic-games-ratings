@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 933)  
+Rating: 4.19 (Ranked 934)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,8 +9,8 @@ Rating: 4.19 (Ranked 933)
 | Paper Jams | 9.00% | ~1,487 |
 | Flesh Wound | 8.00% | ~1,322 |
 | Float Like A Butterfly | 8.00% | ~1,322 |
-| Chew 'Em Up | 7.00% | ~1,156 |
-| The Outer Way | 7.00% | ~1,156 |
+| Chew 'Em Up | 7.00% | ~1,157 |
+| The Outer Way | 7.00% | ~1,157 |
 | Two Heads Are Better Than One | 6.00% | ~991 |
 | Workplace Hazard | 6.00% | ~991 |
 | Reforged | 6.00% | ~991 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 933)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,521 (Ranked 149)  
+Progressed: 16,522 (Ranked 149)  
 Completed: 81 (0.49%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,6 +280,7 @@ Completed: 81 (0.49%) (Ranked 211)
 | 2023-12-07 | 16,517 | 81 |
 | 2023-12-08 | 16,519 | 81 |
 | 2023-12-09 | 16,521 | 81 |
+| 2023-12-10 | 16,522 | 81 |
 ## Awards
 Max (Highly Recommended): 85  (Ranked 388)  
 Sum: 504 (Ranked 325)  

@@ -13,11 +13,11 @@ Rating: 4.55 (Ranked 511)
 | Captain Drummer | 7.00% | ~1,122 |
 | Celebrations are in Order | 7.00% | ~1,122 |
 | Impossible Objects | 7.00% | ~1,122 |
-| Safe Cracker | 7.00% | ~138 |
-| Zen Master | 7.00% | ~138 |
-| Stogie for Fogey | 6.00% | ~961 |
-| Spore Taste | 6.00% | ~961 |
-| Call it Even | 6.00% | ~961 |
+| Safe Cracker | 7.00% | ~139 |
+| Zen Master | 7.00% | ~139 |
+| Stogie for Fogey | 6.00% | ~962 |
+| Spore Taste | 6.00% | ~962 |
+| Call it Even | 6.00% | ~962 |
 | Madame Undersecretary | 6.00% | ~119 |
 | Data Archivist | 5.00% | ~801 |
 | Drug Gifter | 5.00% | ~801 |
@@ -29,8 +29,8 @@ Rating: 4.55 (Ranked 511)
 | Doctor Approved | 3.00% | ~481 |
 | Bottoms up! | 3.00% | ~481 |
 | Miraculous Maya | 3.00% | ~481 |
-| Data Logger | 2.00% | ~320 |
-| Data Master | 2.00% | ~320 |
+| Data Logger | 2.00% | ~321 |
+| Data Master | 2.00% | ~321 |
 | Brother's Reaper | 1.00% | ~160 |
 | No Belter Left Behind | 1.00% | ~160 |
 | Debris Spree | 1.00% | ~160 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 511)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,024 (Ranked 151)  
+Progressed: 16,026 (Ranked 151)  
 Completed: 42 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 42 (0.26%) (Ranked 249)
 | 2023-12-07 | 15,968 | 41 |
 | 2023-12-08 | 15,988 | 41 |
 | 2023-12-09 | 16,020 | 42 |
-| 2023-12-10 | 16,024 | 42 |
+| 2023-12-10 | 16,026 | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

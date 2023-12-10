@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Meissa's Savior | 56.00% | ~55 |
 | Purification Pioneer | 54.00% | ~53 |
-| Mechanical Buddy | 50.00% | ~49 |
-| Dicesmithing Time! | 48.00% | ~47 |
+| Mechanical Buddy | 51.00% | ~50 |
+| Dicesmithing Time! | 49.00% | ~48 |
 | Endless Tricks | 44.00% | ~43 |
-| Sanctuary Guardian | 43.00% | ~42 |
+| Sanctuary Guardian | 44.00% | ~43 |
 | Mind Illuminator | 38.00% | ~37 |
 | Noctuan Champion | 38.00% | ~37 |
 | Wild's Keeper | 37.00% | ~36 |

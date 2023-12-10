@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -655,7 +655,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 472036,
+  "EOS_Progressed": 472038,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
@@ -24885,6 +24885,11 @@
       "Time": "2023-12-10T08:09:27.196503+00:00",
       "NumProgressed": 472036,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-10T09:09:41.4524811+00:00",
+      "NumProgressed": 472038,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24896,7 +24901,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70805
+      "UsersEstimate": 70806
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -24904,7 +24909,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70805
+      "UsersEstimate": 70806
     },
     {
       "ID": "achievement_first_death",
@@ -24928,7 +24933,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70805
+      "UsersEstimate": 70806
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -24984,7 +24989,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311544
+      "UsersEstimate": 311545
     },
     {
       "ID": "achievement_story_landa",
@@ -25016,7 +25021,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118009
+      "UsersEstimate": 118010
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -25064,7 +25069,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70805
+      "UsersEstimate": 70806
     },
     {
       "ID": "achievement_story_neon_child",
@@ -25072,7 +25077,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94407
+      "UsersEstimate": 94408
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -25080,7 +25085,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160492
+      "UsersEstimate": 160493
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -25320,7 +25325,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207696
+      "UsersEstimate": 207697
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -25344,7 +25349,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56644
+      "UsersEstimate": 56645
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -25352,7 +25357,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184094
+      "UsersEstimate": 184095
     },
     {
       "ID": "achievement_win_run_hard",
@@ -25527,21 +25532,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15970,
+      "Progressed": 15972,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472036,
+      "Progressed": 472038,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-06T08:57:12.0332693+00:00",
-  "LastChanged_Achievements": "2023-12-10T08:09:27.1965029+00:00",
+  "LastChanged_Achievements": "2023-12-10T09:09:41.4524806+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.6716506+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:59:03.1662664+00:00",
-  "LastUpdate_Achievements": "2023-12-10T08:09:27.19665+00:00"
+  "LastUpdate_Ratings": "2023-12-10T08:59:21.1224777+00:00",
+  "LastUpdate_Achievements": "2023-12-10T09:09:41.4527747+00:00"
 }

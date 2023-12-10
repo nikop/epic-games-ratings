@@ -20,7 +20,7 @@
 | Evacuation | 17.00% | ~91 |
 | Beyond divisions | 17.00% | ~91 |
 | Fierce fight | 15.00% | ~81 |
-| Flying Objects Operator | 14.00% | ~75 |
+| Flying Objects Operator | 15.00% | ~81 |
 | I remember everything! | 13.00% | ~70 |
 | Another giant | 11.00% | ~59 |
 | Violent solution | 9.00% | ~48 |

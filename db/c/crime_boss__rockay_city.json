@@ -4939,10 +4939,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 2659,
       "NumberOfAwardsMax": 559
+    },
+    {
+      "Time": "2023-12-10T09:00:15.6443183+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2660,
+      "NumberOfAwardsMax": 559
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2659,
+  "NumberOfAwards": 2660,
   "NumberOfAwardsMax": 559,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4962,7 +4968,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 516
+      "Count": 517
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5001,7 +5007,7 @@
       "Count": 510
     }
   ],
-  "EOS_Progressed": 91833,
+  "EOS_Progressed": 91834,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
@@ -27596,6 +27602,11 @@
       "Time": "2023-12-10T05:05:31.3656064+00:00",
       "NumProgressed": 91833,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-10T09:04:44.4091863+00:00",
+      "NumProgressed": 91834,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -27639,7 +27650,7 @@
       "Name": "Track Star",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "ACH_0015",
@@ -27663,7 +27674,7 @@
       "Name": "Rockay Raider",
       "Percentage": 0.3,
       "XP": 55,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_0022",
@@ -27767,7 +27778,7 @@
       "Name": "Groundhog Days",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_0220",
@@ -27791,7 +27802,7 @@
       "Name": "Cracked the Jack",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_0330",
@@ -27847,7 +27858,7 @@
       "Name": "Classy Joint",
       "Percentage": 0.3,
       "XP": 55,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_0440",
@@ -27855,7 +27866,7 @@
       "Name": "True Player",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "ACH_0450",
@@ -27934,22 +27945,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91833,
+      "Progressed": 91834,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20180,
+      "Progressed": 20181,
       "Completed": 15582
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-12-09T17:00:06.6629827+00:00",
-  "LastChanged_Achievements": "2023-12-10T08:04:33.3207007+00:00",
+  "LastChanged": "2023-12-10T09:00:15.6443181+00:00",
+  "LastChanged_Achievements": "2023-12-10T09:04:44.4091859+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:49.1202074+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:02:20.303626+00:00",
-  "LastUpdate_Achievements": "2023-12-10T08:04:33.320803+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:00:15.6443187+00:00",
+  "LastUpdate_Achievements": "2023-12-10T09:04:44.4093324+00:00"
 }

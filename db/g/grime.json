@@ -1645,9 +1645,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 161930,
+  "EOS_Progressed": 161936,
   "EOS_Completed": 275,
-  "EOS_NewPlayers": 944,
+  "EOS_NewPlayers": 943,
   "EOS_NewCompleters": 127,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18655,6 +18655,11 @@
       "Time": "2023-12-10T08:04:18.1924453+00:00",
       "NumProgressed": 161930,
       "NumCompleted": 275
+    },
+    {
+      "Time": "2023-12-10T09:04:29.7102659+00:00",
+      "NumProgressed": 161936,
+      "NumCompleted": 275
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18881,9 +18886,9 @@
       "ID": "MISC_ACTIVATESURROGATE",
       "SetID": "ccc0dlh",
       "Name": "Imprint",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1295
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -19034,21 +19039,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161513,
+      "Progressed": 161519,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 161930,
+      "Progressed": 161936,
       "Completed": 275
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-08T18:02:42.2195822+00:00",
-  "LastChanged_Achievements": "2023-12-10T08:04:18.192445+00:00",
+  "LastChanged_Achievements": "2023-12-10T09:04:29.7102654+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:57:18.6269235+00:00",
-  "LastUpdate_Achievements": "2023-12-10T08:04:18.1925336+00:00"
+  "LastUpdate_Ratings": "2023-12-10T08:57:37.463744+00:00",
+  "LastUpdate_Achievements": "2023-12-10T09:04:29.7103899+00:00"
 }

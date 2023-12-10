@@ -42,6 +42,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The best strikes are the ones we avoid | 0.30% | ~82 |
 | Legendary Talismans of Wuxing | 0.20% | ~1,436 |
 | Prodigal Child | 0.20% | ~1,436 |
+| Knowledge Greed | 0.20% | ~1,436 |
 | The 36th Chamber of Kung-Fu | 0.20% | ~1,436 |
 | Sword Stained With Blood | 0.20% | ~1,436 |
 | The Pit Protector | 0.20% | ~1,436 |
@@ -50,7 +51,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.20% | ~54 |
 | Drunken Fighter | 0.10% | ~718 |
 | Martial Artist | 0.10% | ~718 |
-| Knowledge Greed | 0.10% | ~718 |
 | Healing Memory | 0.10% | ~718 |
 | Master of the Phoenix Eye Fist | 0.10% | ~718 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~718 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,927 (Ranked 23)  
-Completed: 12,947 (1.80%) (Ranked 135)  
+Progressed: 717,928 (Ranked 23)  
+Completed: 12,948 (1.80%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -301,7 +301,7 @@ Completed: 12,947 (1.80%) (Ranked 135)
 | 2023-12-07 | 717,870 | 12,945 |
 | 2023-12-08 | 717,888 | 12,946 |
 | 2023-12-09 | 717,920 | 12,947 |
-| 2023-12-10 | 717,927 | 12,947 |
+| 2023-12-10 | 717,928 | 12,948 |
 ## Awards
 Max (Great Boss Battles): 6,901  (Ranked 55)  
 Sum: 12,109 (Ranked 83)  

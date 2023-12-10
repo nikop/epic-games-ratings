@@ -698,9 +698,9 @@
       "ID": "MINES",
       "SetID": "40o4f14",
       "Name": "The mines",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MIRROR",
@@ -809,8 +809,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-10T08:05:34.1422921+00:00",
+  "LastChanged_Achievements": "2023-12-10T09:05:43.4960335+00:00",
   "LastUpdate_AppInfo": "2023-12-07T01:44:48.8320018+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:59:41.5319132+00:00",
-  "LastUpdate_Achievements": "2023-12-10T08:05:34.1423079+00:00"
+  "LastUpdate_Ratings": "2023-12-10T08:59:58.4805653+00:00",
+  "LastUpdate_Achievements": "2023-12-10T09:05:43.4960532+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 679,
+  "Ranking_Rating": 666,
   "Ranking_Popularity": 304,
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 788,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2023-10-06T05:58:23.6709701+00:00",
@@ -2149,10 +2149,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 1482,
       "NumberOfAwardsMax": 180
+    },
+    {
+      "Time": "2023-12-10T08:58:14.2075738+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1486,
+      "NumberOfAwardsMax": 180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1482,
+  "NumberOfAwards": 1486,
   "NumberOfAwardsMax": 180,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2184,7 +2190,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 151
+      "Count": 155
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2235,8 +2241,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-12-10T04:58:34.5561781+00:00",
+  "LastChanged": "2023-12-10T08:58:14.2075737+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:30.283483+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:57:56.2740838+00:00",
-  "LastUpdate_Achievements": "2023-12-10T08:03:55.627433+00:00"
+  "LastUpdate_Ratings": "2023-12-10T08:58:14.2075741+00:00",
+  "LastUpdate_Achievements": "2023-12-10T09:04:08.3301132+00:00"
 }

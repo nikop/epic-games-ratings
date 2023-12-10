@@ -142,6 +142,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Komnenoi Empire | 0.10% | ~472 |
 | Kow-Tow | 0.10% | ~472 |
 | Krabater | 0.10% | ~472 |
+| Kushite Restoration | 0.10% | ~472 |
 | Land of Eastern Jade | 0.10% | ~472 |
 | Laughingstock | 0.10% | ~472 |
 | Lazarus | 0.10% | ~472 |
@@ -182,6 +183,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.10% | ~472 |
 | Over a Thousand! | 0.10% | ~472 |
 | Parisian Pasha | 0.10% | ~472 |
+| Pick Your Poison | 0.10% | ~472 |
 | Pirate Bay of Janjira | 0.10% | ~472 |
 | Poland can into space | 0.10% | ~472 |
 | Populists in Government | 0.10% | ~472 |
@@ -320,7 +322,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Jihad | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
-| Kushite Restoration | 0.00% | ~0 |
 | Let It Go! | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
@@ -333,7 +334,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Østindisk Kompagni Te | 0.00% | ~0 |
 | Pandya Empire | 0.00% | ~0 |
 | Philippine Tiger | 0.00% | ~0 |
-| Pick Your Poison | 0.00% | ~0 |
 | Purify the Temple | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
 | Rags and Riches | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,264 (Ranked 41)  
+Progressed: 472,283 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -604,7 +604,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-07 | 470,773 | 1 |
 | 2023-12-08 | 471,386 | 1 |
 | 2023-12-09 | 472,114 | 1 |
-| 2023-12-10 | 472,264 | 1 |
+| 2023-12-10 | 472,283 | 1 |
 ## Awards
 Max (Educational): 7,319  (Ranked 54)  
 Sum: 60,304 (Ranked 24)  

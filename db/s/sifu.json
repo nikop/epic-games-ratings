@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8181,10 +8181,10 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 717927,
-  "EOS_Completed": 12947,
-  "EOS_NewPlayers": 201,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 717928,
+  "EOS_Completed": 12948,
+  "EOS_NewPlayers": 202,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -28871,6 +28871,11 @@
       "Time": "2023-12-10T08:05:49.7919469+00:00",
       "NumProgressed": 717927,
       "NumCompleted": 12947
+    },
+    {
+      "Time": "2023-12-10T09:05:58.8025877+00:00",
+      "NumProgressed": 717928,
+      "NumCompleted": 12948
     }
   ],
   "TotalAchievements": 60,
@@ -29016,9 +29021,9 @@
       "ID": "18_Detective_H4",
       "SetID": "adcm20g",
       "Name": "Knowledge Greed",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 718
+      "UsersEstimate": 1436
     },
     {
       "ID": "19_Detective_H5",
@@ -29361,21 +29366,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 27228,
+      "Progressed": 27229,
       "Completed": 10763
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717927,
-      "Completed": 12947
+      "Progressed": 717928,
+      "Completed": 12948
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-10T05:02:55.9925642+00:00",
-  "LastChanged_Achievements": "2023-12-10T08:05:49.7919467+00:00",
+  "LastChanged_Achievements": "2023-12-10T09:05:58.8025871+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.3418066+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:02:43.2997207+00:00",
-  "LastUpdate_Achievements": "2023-12-10T08:05:49.7920615+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:02:57.3883869+00:00",
+  "LastUpdate_Achievements": "2023-12-10T09:05:58.80271+00:00"
 }

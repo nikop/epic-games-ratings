@@ -33,9 +33,9 @@
 | Sentinel Ally | 41.00% | ~638 |
 | Head Hunter | 40.00% | ~622 |
 | Scholar | 40.00% | ~622 |
+| Veteran | 39.00% | ~606 |
 | The Professor | 39.00% | ~606 |
 | Operative | 39.00% | ~606 |
-| Veteran | 38.00% | ~591 |
 | The Archangel | 38.00% | ~591 |
 | Power Full | 37.00% | ~575 |
 | The Convict | 36.00% | ~560 |
@@ -106,7 +106,7 @@
 | Sabotage Specialist | 16.00% | ~249 |
 | Throw Mastery | 16.00% | ~249 |
 | Mail Slot | 15.00% | ~233 |
-| Electronics Specialist | 14.00% | ~218 |
+| Electronics Specialist | 15.00% | ~233 |
 | Combined Arms | 13.00% | ~202 |
 | Bruiser | 12.00% | ~187 |
 | Paramour III | 11.00% | ~171 |

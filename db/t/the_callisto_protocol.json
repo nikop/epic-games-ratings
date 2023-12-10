@@ -2,12 +2,12 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 933,
+  "Ranking_Rating": 934,
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1595,9 +1595,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 16521,
+  "EOS_Progressed": 16522,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9465,6 +9465,11 @@
       "Time": "2023-12-09T23:09:31.6107862+00:00",
       "NumProgressed": 16521,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-10T09:08:49.043567+00:00",
+      "NumProgressed": 16522,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 47,
@@ -9604,7 +9609,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "KILL_ROBOT",
@@ -9668,7 +9673,7 @@
       "Name": "The Outer Way",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "STORY_ESCAPE",
@@ -9851,13 +9856,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16521,
+      "Progressed": 16522,
       "Completed": 81
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4447,
+      "Progressed": 4448,
       "Completed": 29
     }
   ],
@@ -9865,8 +9870,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-07T20:03:01.0520335+00:00",
-  "LastChanged_Achievements": "2023-12-10T08:08:33.2917953+00:00",
+  "LastChanged_Achievements": "2023-12-10T09:08:49.0435665+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.8352858+00:00",
-  "LastUpdate_Ratings": "2023-12-10T08:02:54.1146381+00:00",
-  "LastUpdate_Achievements": "2023-12-10T08:08:33.2918561+00:00"
+  "LastUpdate_Ratings": "2023-12-10T09:03:07.7665004+00:00",
+  "LastUpdate_Achievements": "2023-12-10T09:08:49.0436459+00:00"
 }

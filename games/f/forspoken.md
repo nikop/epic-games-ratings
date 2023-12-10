@@ -34,32 +34,32 @@ Rating: 4.13 (Ranked 969)
 | None the Wiser | 1.00% | ~435 |
 | Forspoken | 1.00% | ~435 |
 | Pilgrimage: Novice | 1.00% | ~435 |
-| Wildfire | 0.70% | ~304 |
-| Realized Potential | 0.70% | ~304 |
+| Wildfire | 0.70% | ~305 |
+| Realized Potential | 0.70% | ~305 |
 | Awakening | 0.60% | ~261 |
 | Explorer: Trailblazer | 0.60% | ~261 |
-| Through the Eyes of Another: Seer | 0.50% | ~217 |
-| Archivist | 0.30% | ~130 |
-| Craftsperson | 0.30% | ~130 |
-| Tit for Tat | 0.30% | ~130 |
-| Promises | 0.30% | ~130 |
-| Rebirth | 0.30% | ~130 |
+| Through the Eyes of Another: Seer | 0.50% | ~218 |
+| Archivist | 0.30% | ~131 |
+| Craftsperson | 0.30% | ~131 |
+| Tit for Tat | 0.30% | ~131 |
+| Promises | 0.30% | ~131 |
+| Rebirth | 0.30% | ~131 |
 | Paragon | 0.20% | ~87 |
 | Pilgrimage: Adept | 0.20% | ~87 |
 | Call of the Fount: Beatified | 0.20% | ~87 |
 | I Can Fly! | 0.20% | ~87 |
 | A Roaring Trade | 0.20% | ~87 |
-| Abominizer | 0.10% | ~43 |
-| Through the Eyes of Another: Visionary | 0.10% | ~43 |
-| Kit and Caboodle | 0.10% | ~43 |
-| Above and Beyond | 0.10% | ~43 |
-| Happy Snapper | 0.10% | ~43 |
-| Barely There | 0.10% | ~43 |
-| Moves | 0.10% | ~43 |
-| Remembrance | 0.10% | ~43 |
-| Cat Person | 0.10% | ~43 |
+| Abominizer | 0.10% | ~44 |
+| Through the Eyes of Another: Visionary | 0.10% | ~44 |
+| Kit and Caboodle | 0.10% | ~44 |
+| Above and Beyond | 0.10% | ~44 |
+| Happy Snapper | 0.10% | ~44 |
+| Barely There | 0.10% | ~44 |
+| Moves | 0.10% | ~44 |
+| Remembrance | 0.10% | ~44 |
+| Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,499 (Ranked 118)  
+Progressed: 43,501 (Ranked 118)  
 Completed: 3 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 3 (0.01%) (Ranked 348)
 | 2023-12-07 | 43,388 | 3 |
 | 2023-12-08 | 43,450 | 3 |
 | 2023-12-09 | 43,486 | 3 |
-| 2023-12-10 | 43,499 | 3 |
+| 2023-12-10 | 43,501 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 502)  
 Sum: 29 (Ranked 517)  

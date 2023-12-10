@@ -4288,7 +4288,7 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 499066,
+  "EOS_Progressed": 499084,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 2715,
   "EOS_NewCompleters": 0,
@@ -31058,6 +31058,11 @@
       "Time": "2023-12-10T08:03:54.2265386+00:00",
       "NumProgressed": 499066,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-10T09:04:06.8941467+00:00",
+      "NumProgressed": 499084,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -31069,7 +31074,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9981
+      "UsersEstimate": 9982
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -31093,7 +31098,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9981
+      "UsersEstimate": 9982
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -31133,7 +31138,7 @@
       "Name": "Firefight Victory",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2994
+      "UsersEstimate": 2995
     },
     {
       "ID": "ACH_FIRST_BLOOD",
@@ -31141,7 +31146,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9981
+      "UsersEstimate": 9982
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -31149,7 +31154,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 9981
+      "UsersEstimate": 9982
     },
     {
       "ID": "ACH_GROUNDED",
@@ -31173,7 +31178,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14972
+      "UsersEstimate": 14973
     },
     {
       "ID": "ACH_JR_50",
@@ -31197,7 +31202,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14972
+      "UsersEstimate": 14973
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -31213,7 +31218,7 @@
       "Name": "#1",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 2994
+      "UsersEstimate": 2995
     },
     {
       "ID": "ACH_PERSONAL",
@@ -31245,7 +31250,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9981
+      "UsersEstimate": 9982
     },
     {
       "ID": "ACH_REFLEXES",
@@ -31277,7 +31282,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9981
+      "UsersEstimate": 9982
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -31293,7 +31298,7 @@
       "Name": "Special Delivery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3493
+      "UsersEstimate": 3494
     },
     {
       "ID": "ACH_STYLING",
@@ -31301,7 +31306,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14972
+      "UsersEstimate": 14973
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -31325,7 +31330,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14972
+      "UsersEstimate": 14973
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -31333,7 +31338,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24953
+      "UsersEstimate": 24954
     },
     {
       "ID": "ACH_WET_FEET",
@@ -31348,15 +31353,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 499066,
+      "Progressed": 499084,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-12-09T15:57:08.530855+00:00",
-  "LastChanged_Achievements": "2023-12-10T08:03:54.2265384+00:00",
+  "LastChanged_Achievements": "2023-12-10T09:04:06.8941464+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.4208286+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:57:20.4481764+00:00",
-  "LastUpdate_Achievements": "2023-12-10T08:03:54.2266476+00:00"
+  "LastUpdate_Ratings": "2023-12-10T08:57:39.2144222+00:00",
+  "LastUpdate_Achievements": "2023-12-10T09:04:06.8943127+00:00"
 }

@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 2.00% | ~314 |
 | Persian Paganism | 2.00% | ~314 |
 | Building Wonders | 2.00% | ~314 |
+| Economic Reform | 2.00% | ~314 |
 | Legalism | 2.00% | ~314 |
 | Mythology | 2.00% | ~314 |
 | Double Victory | 2.00% | ~314 |
@@ -117,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 1.00% | ~157 |
 | Assyrian Paganism | 1.00% | ~157 |
 | Hittite Paganism | 1.00% | ~157 |
-| Economic Reform | 1.00% | ~157 |
 | Industrial Progress | 1.00% | ~157 |
 | Military Prestige | 1.00% | ~157 |
 | Dualism | 1.00% | ~157 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,702 (Ranked 152)  
+Progressed: 15,703 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,7 +583,7 @@ Completed: 5 (0.03%) (Ranked 333)
 | 2023-12-07 | 15,669 | 5 |
 | 2023-12-08 | 15,683 | 5 |
 | 2023-12-09 | 15,699 | 5 |
-| 2023-12-10 | 15,702 | 5 |
+| 2023-12-10 | 15,703 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 275)  
 Sum: 1,897 (Ranked 220)  

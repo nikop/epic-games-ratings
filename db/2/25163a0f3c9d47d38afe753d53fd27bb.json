@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 59,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -4114,9 +4114,9 @@
       "ID": "LEVEL_003",
       "SetID": "212bg48",
       "Name": "A horse in the country",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1153
     },
     {
       "ID": "LEVEL_004",
@@ -4345,8 +4345,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-10T08:09:22.2564588+00:00",
+  "LastChanged_Achievements": "2023-12-10T09:09:36.6062882+00:00",
   "LastUpdate_AppInfo": "2023-12-05T04:57:02.387296+00:00",
-  "LastUpdate_Ratings": "2023-12-10T07:57:46.4986557+00:00",
-  "LastUpdate_Achievements": "2023-12-10T08:09:22.2564879+00:00"
+  "LastUpdate_Ratings": "2023-12-10T08:58:04.2679339+00:00",
+  "LastUpdate_Achievements": "2023-12-10T09:09:36.6063285+00:00"
 }
