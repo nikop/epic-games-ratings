@@ -36,10 +36,10 @@ Rating: 3.47 (Ranked 1,059)
 | Nice Try | 0.70% | ~12 |
 | Curious Finch | 0.70% | ~12 |
 | Revelations | 0.60% | ~11 |
+| Block Party | 0.60% | ~11 |
 | You Clean It Up | 0.60% | ~11 |
 | Check, Please! | 0.60% | ~11 |
 | I Spit On Your Grave | 0.60% | ~11 |
-| Block Party | 0.50% | ~9 |
 | What Lies Below | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
 | Blacklight Down | 0.50% | ~9 |
@@ -72,7 +72,7 @@ Rating: 3.47 (Ranked 1,059)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,776 (Ranked 234)  
+Progressed: 1,776 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |

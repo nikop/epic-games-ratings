@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,9 +216,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 924,
+  "EOS_Progressed": 925,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2296,6 +2296,11 @@
       "Time": "2023-12-10T18:04:06.488113+00:00",
       "NumProgressed": 924,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T19:03:45.3568081+00:00",
+      "NumProgressed": 925,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2370,9 +2375,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 92
     },
     {
       "ID": "Chicken",
@@ -2388,7 +2393,7 @@
       "Name": "Circular Oasis",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "DesolateIsland",
@@ -2428,7 +2433,7 @@
       "Name": "Excellent",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "FloodedValley",
@@ -2436,7 +2441,7 @@
       "Name": "Flooded Valley",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "GnothiSeauton",
@@ -2450,9 +2455,9 @@
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 37
     },
     {
       "ID": "GrasslandsRing",
@@ -2532,7 +2537,7 @@
       "Name": "Museum Visitor",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "NewBeginning",
@@ -2556,7 +2561,7 @@
       "Name": "Not What It Seems",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Overload",
@@ -2580,7 +2585,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "PuzzleFiend",
@@ -2612,15 +2617,15 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 92
     },
     {
       "ID": "SingleRod",
@@ -2642,9 +2647,9 @@
       "ID": "SouthernCoast",
       "SetID": "1n308hc",
       "Name": "Southern Coast",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 65
     },
     {
       "ID": "TeamSpirit",
@@ -2724,7 +2729,7 @@
       "Name": "Touch Grass",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "TrevorsBiographer",
@@ -2740,7 +2745,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Wanderers",
@@ -2779,7 +2784,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 924,
+      "Progressed": 925,
       "Completed": 1
     }
   ],
@@ -2787,8 +2792,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-10T18:04:06.4881127+00:00",
+  "LastChanged_Achievements": "2023-12-10T19:03:45.3568076+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-10T17:58:00.3919483+00:00",
-  "LastUpdate_Achievements": "2023-12-10T18:04:06.488164+00:00"
+  "LastUpdate_Ratings": "2023-12-10T18:57:45.6356048+00:00",
+  "LastUpdate_Achievements": "2023-12-10T19:03:45.3568586+00:00"
 }

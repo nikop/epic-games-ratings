@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13009,11 +13009,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 60330,
       "NumberOfAwardsMax": 7319
+    },
+    {
+      "Time": "2023-12-10T18:59:04.644018+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 60342,
+      "NumberOfAwardsMax": 7331
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 60330,
-  "NumberOfAwardsMax": 7319,
+  "NumberOfAwards": 60342,
+  "NumberOfAwardsMax": 7331,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -13044,7 +13050,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7319
+      "Count": 7331
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -13083,9 +13089,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 472618,
+  "EOS_Progressed": 472643,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3977,
+  "EOS_NewPlayers": 3953,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39998,6 +40004,11 @@
       "Time": "2023-12-10T18:06:24.648283+00:00",
       "NumProgressed": 472618,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T19:05:47.9131046+00:00",
+      "NumProgressed": 472643,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -40127,9 +40138,9 @@
       "ID": "achievement_african_power",
       "SetID": "8p2n7he",
       "Name": "African Power",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 473
     },
     {
       "ID": "achievement_agressive_expander",
@@ -42912,21 +42923,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 472618,
+      "Progressed": 472643,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 472618,
+      "Progressed": 472643,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-10T16:59:25.9785413+00:00",
-  "LastChanged_Achievements": "2023-12-10T18:06:24.6482827+00:00",
+  "LastChanged": "2023-12-10T18:59:04.6440178+00:00",
+  "LastChanged_Achievements": "2023-12-10T19:05:47.9131042+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:01.211805+00:00",
-  "LastUpdate_Ratings": "2023-12-10T17:59:31.7809592+00:00",
-  "LastUpdate_Achievements": "2023-12-10T18:06:24.6493409+00:00"
+  "LastUpdate_Ratings": "2023-12-10T18:59:04.6440184+00:00",
+  "LastUpdate_Achievements": "2023-12-10T19:05:47.9141318+00:00"
 }

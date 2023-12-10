@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1538,9 +1538,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131827,
+  "EOS_Progressed": 131828,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24333,6 +24333,11 @@
       "Time": "2023-12-10T18:05:03.2292885+00:00",
       "NumProgressed": 131827,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-10T19:04:36.3908539+00:00",
+      "NumProgressed": 131828,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24392,7 +24397,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11864
+      "UsersEstimate": 11865
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -24400,7 +24405,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31638
+      "UsersEstimate": 31639
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -24408,7 +24413,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11864
+      "UsersEstimate": 11865
     },
     {
       "ID": "ACH_COP_DORK",
@@ -24663,15 +24668,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131827,
+      "Progressed": 131828,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-10T16:58:01.1113287+00:00",
-  "LastChanged_Achievements": "2023-12-10T18:05:03.2292881+00:00",
+  "LastChanged_Achievements": "2023-12-10T19:04:36.3908533+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:13.3373755+00:00",
-  "LastUpdate_Ratings": "2023-12-10T17:57:54.9026032+00:00",
-  "LastUpdate_Achievements": "2023-12-10T18:05:03.2294267+00:00"
+  "LastUpdate_Ratings": "2023-12-10T18:57:40.5660046+00:00",
+  "LastUpdate_Achievements": "2023-12-10T19:04:36.3909833+00:00"
 }

@@ -18,6 +18,7 @@ Rating: 4.65 (Ranked 316)
 | Hardest Battle In The Game | 3.00% | ~740 |
 | Who's The Boss? | 3.00% | ~740 |
 | Don't Knife The Hand That Feeds | 3.00% | ~740 |
+| Eatin' Good in the Neighborhood | 2.00% | ~493 |
 | Lezduit! | 2.00% | ~493 |
 | Eye Scream, You Scream | 2.00% | ~493 |
 | Legendary Bounty Hunter | 2.00% | ~493 |
@@ -26,7 +27,6 @@ Rating: 4.65 (Ranked 316)
 | Spent 15 Hours At The Alien Strip Club | 2.00% | ~493 |
 | Series Wrap on Suit-O | 2.00% | ~493 |
 | Bathe With A Giant Nude Alien | 2.00% | ~39 |
-| Eatin' Good in the Neighborhood | 1.00% | ~247 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~20 |
 | Gunning For Your Job | 0.80% | ~197 |
 | Mux Ado About Shipping | 0.80% | ~16 |

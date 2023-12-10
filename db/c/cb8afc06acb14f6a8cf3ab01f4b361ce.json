@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -395,9 +395,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 327018,
+  "EOS_Progressed": 327047,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3653,
+  "EOS_NewPlayers": 3641,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9105,6 +9105,11 @@
       "Time": "2023-12-10T18:05:04.3004863+00:00",
       "NumProgressed": 327018,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-10T19:04:37.2964951+00:00",
+      "NumProgressed": 327047,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9125,7 +9130,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6540
+      "UsersEstimate": 6541
     },
     {
       "ID": "S03_OTWA",
@@ -9436,7 +9441,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 327018,
+      "Progressed": 327047,
       "Completed": 5
     }
   ],
@@ -9444,8 +9449,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-06T06:00:13.3250354+00:00",
-  "LastChanged_Achievements": "2023-12-10T18:05:04.3004858+00:00",
+  "LastChanged_Achievements": "2023-12-10T19:04:37.2964943+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-10T17:59:27.6549423+00:00",
-  "LastUpdate_Achievements": "2023-12-10T18:05:04.3350999+00:00"
+  "LastUpdate_Ratings": "2023-12-10T18:59:00.9673001+00:00",
+  "LastUpdate_Achievements": "2023-12-10T19:04:37.296563+00:00"
 }

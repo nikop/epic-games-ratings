@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 3698,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3401,9 +3401,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 17880,
+  "EOS_Progressed": 17886,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": -8,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -15271,6 +15271,11 @@
       "Time": "2023-12-10T18:05:28.0539588+00:00",
       "NumProgressed": 17880,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-10T19:04:58.2965883+00:00",
+      "NumProgressed": 17886,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15449,9 +15454,9 @@
       "ID": "WinNearFishmen",
       "SetID": "cfbk359",
       "Name": "Fishmen Ritual Site",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 54
     },
     {
       "ID": "WinNearForbidden",
@@ -15691,7 +15696,7 @@
       "Name": "Frosts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "WinNearGreed",
@@ -15715,7 +15720,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "WinNearPresence",
@@ -15723,7 +15728,7 @@
       "Name": "Ominous Presence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "WinNearStorms",
@@ -15731,7 +15736,7 @@
       "Name": "Gathering Storm",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -15754,15 +15759,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17880,
+      "Progressed": 17886,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-10T04:57:34.5838562+00:00",
-  "LastChanged_Achievements": "2023-12-10T18:05:28.0539584+00:00",
+  "LastChanged_Achievements": "2023-12-10T19:04:58.2965877+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-10T17:57:46.9408927+00:00",
-  "LastUpdate_Achievements": "2023-12-10T18:05:28.0540448+00:00"
+  "LastUpdate_Ratings": "2023-12-10T18:57:33.9382739+00:00",
+  "LastUpdate_Achievements": "2023-12-10T19:04:58.2966887+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4541,9 +4541,9 @@
       "Count": 400
     }
   ],
-  "EOS_Progressed": 12275,
+  "EOS_Progressed": 12276,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16641,6 +16641,11 @@
       "Time": "2023-12-10T17:09:42.3119818+00:00",
       "NumProgressed": 12275,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T19:08:49.7659807+00:00",
+      "NumProgressed": 12276,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16652,7 +16657,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3314
+      "UsersEstimate": 3315
     },
     {
       "ID": "02_BurningCity",
@@ -16708,7 +16713,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "09_PathOfDemon",
@@ -16860,7 +16865,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "29_StrategicVictory",
@@ -17004,7 +17009,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -17579,21 +17584,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11057,
+      "Progressed": 11058,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12275,
+      "Progressed": 12276,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-10T16:59:40.0109112+00:00",
-  "LastChanged_Achievements": "2023-12-10T18:09:32.6626297+00:00",
+  "LastChanged_Achievements": "2023-12-10T19:08:49.7659801+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-10T17:59:47.8434219+00:00",
-  "LastUpdate_Achievements": "2023-12-10T18:09:32.6628255+00:00"
+  "LastUpdate_Ratings": "2023-12-10T18:59:18.5273421+00:00",
+  "LastUpdate_Achievements": "2023-12-10T19:08:49.7662469+00:00"
 }

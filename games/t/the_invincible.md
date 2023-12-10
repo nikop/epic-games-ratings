@@ -9,7 +9,7 @@
 | The City | 44.00% | ~240 |
 | The field base | 41.00% | ~223 |
 | Survivors | 35.00% | ~191 |
-| The Condor | 32.00% | ~174 |
+| The Condor | 33.00% | ~180 |
 | The End | 32.00% | ~174 |
 | The Alliance | 26.00% | ~142 |
 | The Necroevolution | 26.00% | ~142 |
@@ -20,7 +20,7 @@
 | Evacuation | 17.00% | ~93 |
 | Beyond divisions | 17.00% | ~93 |
 | Fierce fight | 15.00% | ~82 |
-| Flying Objects Operator | 14.00% | ~76 |
+| Flying Objects Operator | 15.00% | ~82 |
 | I remember everything! | 13.00% | ~71 |
 | Another giant | 11.00% | ~60 |
 | Violent solution | 9.00% | ~49 |

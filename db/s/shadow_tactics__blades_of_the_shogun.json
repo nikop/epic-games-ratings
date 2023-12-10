@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2284,7 +2284,7 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 218496,
+  "EOS_Progressed": 218505,
   "EOS_Completed": 100,
   "EOS_NewPlayers": 1190,
   "EOS_NewCompleters": 0,
@@ -29149,6 +29149,11 @@
       "Time": "2023-12-10T18:04:43.9433477+00:00",
       "NumProgressed": 218496,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-10T19:04:18.9048874+00:00",
+      "NumProgressed": 218505,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -29176,7 +29181,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "Chunin",
@@ -29232,7 +29237,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26220
+      "UsersEstimate": 26221
     },
     {
       "ID": "HappyLittleAccidents",
@@ -29288,7 +29293,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "Meticulous",
@@ -29304,7 +29309,7 @@
       "Name": "Mimimi",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "MugenUnchained",
@@ -29368,7 +29373,7 @@
       "Name": "Release the Kraken",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "RescueTakuma",
@@ -29488,7 +29493,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "WinnerWinner",
@@ -29511,15 +29516,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 218496,
+      "Progressed": 218505,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-10T07:58:18.2814048+00:00",
-  "LastChanged_Achievements": "2023-12-10T18:04:43.9433472+00:00",
+  "LastChanged_Achievements": "2023-12-10T19:04:18.9048869+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.0401263+00:00",
-  "LastUpdate_Ratings": "2023-12-10T17:58:59.5122067+00:00",
-  "LastUpdate_Achievements": "2023-12-10T18:04:43.9434999+00:00"
+  "LastUpdate_Ratings": "2023-12-10T18:58:35.9754349+00:00",
+  "LastUpdate_Achievements": "2023-12-10T19:04:18.9050241+00:00"
 }

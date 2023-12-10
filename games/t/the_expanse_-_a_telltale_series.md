@@ -13,8 +13,8 @@ Rating: 4.52 (Ranked 562)
 | Captain Drummer | 7.00% | ~1,123 |
 | Celebrations are in Order | 7.00% | ~1,123 |
 | Impossible Objects | 7.00% | ~1,123 |
-| Safe Cracker | 7.00% | ~139 |
-| Zen Master | 7.00% | ~139 |
+| Safe Cracker | 7.00% | ~140 |
+| Zen Master | 7.00% | ~140 |
 | Stogie for Fogey | 6.00% | ~962 |
 | Spore Taste | 6.00% | ~962 |
 | Call it Even | 6.00% | ~962 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 562)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,038 (Ranked 152)  
+Progressed: 16,040 (Ranked 152)  
 Completed: 42 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 42 (0.26%) (Ranked 249)
 | 2023-12-07 | 15,968 | 41 |
 | 2023-12-08 | 15,988 | 41 |
 | 2023-12-09 | 16,020 | 42 |
-| 2023-12-10 | 16,038 | 42 |
+| 2023-12-10 | 16,040 | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

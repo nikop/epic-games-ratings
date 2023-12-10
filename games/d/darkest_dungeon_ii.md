@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,042 (Ranked 84)  
+Progressed: 126,048 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,10 +310,10 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-07 | 125,791 | 2 |
 | 2023-12-08 | 125,859 | 2 |
 | 2023-12-09 | 125,950 | 2 |
-| 2023-12-10 | 126,042 | 2 |
+| 2023-12-10 | 126,048 | 2 |
 ## Awards
 Max (Character Customization): 7,578  (Ranked 52)  
-Sum: 20,038 (Ranked 59)  
+Sum: 20,042 (Ranked 59)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -322,7 +322,7 @@ Diff (max vs sum): -7
 | This game has Challenging Combat | 1,547 |
 | This game is Highly Recommended | 1,478 |
 | This game has Amazing Characters | 1,425 |
-| This game is Extremely Fun | 1,417 |
+| This game is Extremely Fun | 1,421 |
 | This game has Amazing Storytelling | 1,345 |
 | This game has Quickly Understood Controls | 1,319 |
 | This game has Unique Visuals | 1,314 |
@@ -648,4 +648,4 @@ Diff (max vs sum): -7
 | 2023-12-07 | 4.68 | - | 7,565 | 19,985 |
 | 2023-12-08 | 4.68 | - | 7,565 | 20,002 |
 | 2023-12-09 | 4.68 | - | 7,572 | 20,019 |
-| 2023-12-10 | 4.68 | - | 7,578 | 20,038 |
+| 2023-12-10 | 4.68 | - | 7,578 | 20,042 |

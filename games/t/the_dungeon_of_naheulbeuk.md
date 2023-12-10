@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,179 |
-| Alt+F4 | 9.00% | ~21,795 |
-| Where's that freaking Dwarf? | 8.00% | ~19,373 |
-| Déjà vu | 7.00% | ~16,951 |
-| A beer, two curses, three companions | 5.00% | ~12,108 |
-| Sock! SOCK! | 5.00% | ~12,108 |
-| GG EZ | 5.00% | ~12,108 |
-| Speedrun | 5.00% | ~12,108 |
+| Sowwy! | 36.00% | ~87,182 |
+| Alt+F4 | 9.00% | ~21,796 |
+| Where's that freaking Dwarf? | 8.00% | ~19,374 |
+| Déjà vu | 7.00% | ~16,952 |
+| A beer, two curses, three companions | 5.00% | ~12,109 |
+| Sock! SOCK! | 5.00% | ~12,109 |
+| GG EZ | 5.00% | ~12,109 |
+| Speedrun | 5.00% | ~12,109 |
 | DM intervention | 4.00% | ~9,687 |
 | Fireproof Wizardess | 4.00% | ~9,687 |
 | Livin' in a dwarven paradise | 3.00% | ~7,265 |
@@ -44,7 +44,7 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 1.00% | ~2,422 |
 | Lust and Debauchery | 1.00% | ~2,422 |
 | Material Girl | 1.00% | ~2,422 |
-| In Navalu's footsteps | 0.90% | ~2,179 |
+| In Navalu's footsteps | 0.90% | ~2,180 |
 | We come in peace | 0.80% | ~1,937 |
 | Lëgal Legend | 0.80% | ~1,937 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,695 |
@@ -54,8 +54,8 @@ Number of Ratings: 118  (23.09.2022)
 | It's been a hard day's night | 0.50% | ~1,211 |
 | Friendly fire | 0.40% | ~969 |
 | I'd rather... Just... Sing! | 0.40% | ~969 |
-| The number of the counting shalt be 7 | 0.30% | ~726 |
-| Inception | 0.30% | ~726 |
+| The number of the counting shalt be 7 | 0.30% | ~727 |
+| Inception | 0.30% | ~727 |
 | Cursed die | 0.20% | ~484 |
 | The Blood Countess | 0.20% | ~484 |
 | Free customer service | 0.20% | ~484 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,164 (Ranked 63)  
+Progressed: 242,173 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-07 | 241,693 | 7 |
 | 2023-12-08 | 241,827 | 7 |
 | 2023-12-09 | 242,023 | 7 |
-| 2023-12-10 | 242,164 | 7 |
+| 2023-12-10 | 242,173 | 7 |
 ## Awards
 Max (Character Customization): 245  (Ranked 272)  
 Sum: 497 (Ranked 328)  

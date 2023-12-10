@@ -25,10 +25,10 @@ Rating: 4.87 (Ranked 24)
 | I look cool. But I can look COOLER. | 10.00% | ~450 |
 | Headliner | 9.00% | ~405 |
 | Time to pay up! | 9.00% | ~405 |
+| Who's the boss now? | 9.00% | ~405 |
 | You must like calling me in, Chai | 9.00% | ~405 |
 | Does that say weakpoint? | 9.00% | ~405 |
 | NOW we got a kickass hideout! | 9.00% | ~272 |
-| Who's the boss now? | 8.00% | ~360 |
 | I have to read these things? | 8.00% | ~360 |
 | Perfecter Parry-er! | 8.00% | ~360 |
 | Well that was a rush! | 6.00% | ~270 |
@@ -52,8 +52,8 @@ Rating: 4.87 (Ranked 24)
 | New bad guys? No problem! | 1.00% | ~30 |
 | Easy Listening | 0.60% | ~27 |
 | Choose your own adventure | 0.60% | ~18 |
-| Problem solved... wait, what? | 0.50% | ~22 |
-| Now this is how you fight like a team! | 0.50% | ~22 |
+| Problem solved... wait, what? | 0.50% | ~23 |
+| Now this is how you fight like a team! | 0.50% | ~23 |
 | And the crowd goes wild! | 0.40% | ~18 |
 | I am a good person who likes to help | 0.40% | ~18 |
 | With our powers combined…and to the rhythm… | 0.40% | ~18 |
@@ -65,19 +65,19 @@ Rating: 4.87 (Ranked 24)
 | I saw all those hits coming a measure away! | 0.20% | ~9 |
 | Please don't make this awkward | 0.20% | ~6 |
 | That was just EVIL | 0.20% | ~6 |
-| Didn't skip a beat! | 0.10% | ~4 |
-| I think that's enough health for now | 0.10% | ~4 |
-| I have to read ALL of these things? | 0.10% | ~4 |
-| My Ultimate Setlist | 0.10% | ~4 |
-| What a journey it was... | 0.10% | ~4 |
-| I'm untouchable! | 0.10% | ~4 |
-| I'm trying to FOCUS HERE! | 0.10% | ~4 |
-| OK, I THINK I know what I'm doing now | 0.10% | ~4 |
+| Didn't skip a beat! | 0.10% | ~5 |
+| I think that's enough health for now | 0.10% | ~5 |
+| I have to read ALL of these things? | 0.10% | ~5 |
+| My Ultimate Setlist | 0.10% | ~5 |
+| What a journey it was... | 0.10% | ~5 |
+| I'm untouchable! | 0.10% | ~5 |
+| I'm trying to FOCUS HERE! | 0.10% | ~5 |
+| OK, I THINK I know what I'm doing now | 0.10% | ~5 |
 | It was all for this | 0.10% | ~3 |
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,500 (Ranked 195)  
+Progressed: 4,502 (Ranked 195)  
 Completed: 8 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 8 (0.18%) (Ranked 266)
 | 2023-12-07 | 4,486 | 8 |
 | 2023-12-08 | 4,490 | 8 |
 | 2023-12-09 | 4,494 | 8 |
-| 2023-12-10 | 4,500 | 8 |
+| 2023-12-10 | 4,502 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

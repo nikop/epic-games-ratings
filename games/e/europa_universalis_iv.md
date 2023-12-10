@@ -27,6 +27,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Abu Bakr II’s Ambition | 0.10% | ~473 |
 | Academical | 0.10% | ~473 |
 | AEIOU | 0.10% | ~473 |
+| African Power | 0.10% | ~473 |
 | Aggressive Expander | 0.10% | ~473 |
 | Albania or Iberia | 0.10% | ~473 |
 | All belongs to Mother Russia | 0.10% | ~473 |
@@ -287,7 +288,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Last Crusade | 0.10% | ~473 |
 | Truly Good Maaaaa-tch | 0.10% | ~473 |
 | The 52 Garhs | 0.00% | ~0 |
-| African Power | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Atwix Legacy | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,618 (Ranked 41)  
+Progressed: 472,643 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -604,14 +604,14 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-07 | 470,773 | 1 |
 | 2023-12-08 | 471,386 | 1 |
 | 2023-12-09 | 472,114 | 1 |
-| 2023-12-10 | 472,618 | 1 |
+| 2023-12-10 | 472,643 | 1 |
 ## Awards
-Max (Educational): 7,319  (Ranked 54)  
-Sum: 60,330 (Ranked 24)  
+Max (Educational): 7,331  (Ranked 54)  
+Sum: 60,342 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,319 |
+| This game is Educational | 7,331 |
 | This game has Diverse Characters | 7,090 |
 | This game is Highly Recommended | 7,027 |
 | This game has Challenging Combat | 6,961 |
@@ -951,4 +951,4 @@ Diff (max vs sum): 30
 | 2023-12-07 | 4.69 | - | 7,292 | 60,067 |
 | 2023-12-08 | 4.69 | - | 7,307 | 60,170 |
 | 2023-12-09 | 4.69 | - | 7,319 | 60,264 |
-| 2023-12-10 | 4.69 | - | 7,319 | 60,330 |
+| 2023-12-10 | 4.69 | - | 7,331 | 60,342 |

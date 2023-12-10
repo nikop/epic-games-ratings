@@ -5427,9 +5427,9 @@
       "Count": 413
     }
   ],
-  "EOS_Progressed": 238110,
-  "EOS_Completed": 576,
-  "EOS_NewPlayers": 4152,
+  "EOS_Progressed": 238141,
+  "EOS_Completed": 577,
+  "EOS_NewPlayers": 4118,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22352,6 +22352,11 @@
       "Time": "2023-12-10T18:09:04.017266+00:00",
       "NumProgressed": 238110,
       "NumCompleted": 576
+    },
+    {
+      "Time": "2023-12-10T19:08:24.6276731+00:00",
+      "NumProgressed": 238141,
+      "NumCompleted": 577
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22380,7 +22385,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -22436,7 +22441,7 @@
       "Name": "Power Surge",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Defeat_Mantis",
@@ -22524,7 +22529,7 @@
       "Name": "Equal Measures",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Meet_Mudtooth",
@@ -22540,7 +22545,7 @@
       "Name": "Blue Goddess",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Obtain_Archetype",
@@ -22556,7 +22561,7 @@
       "Name": "Duality",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -22564,7 +22569,7 @@
       "Name": "Top Performer",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -22572,7 +22577,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -22588,7 +22593,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -22652,7 +22657,7 @@
       "Name": "Scrap Collector",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Obtain_Scrap_B",
@@ -22708,7 +22713,7 @@
       "Name": "Almost There",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Upgrade_Relic",
@@ -22716,7 +22721,7 @@
       "Name": "Make Some Room",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -22724,7 +22729,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -22803,13 +22808,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 238110,
-      "Completed": 576
+      "Progressed": 238141,
+      "Completed": 577
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 17275,
+      "Progressed": 17306,
       "Completed": 234
     }
   ],
@@ -22817,8 +22822,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-10T17:03:29.2849977+00:00",
-  "LastChanged_Achievements": "2023-12-10T18:09:04.0172656+00:00",
+  "LastChanged_Achievements": "2023-12-10T19:08:24.6276725+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-10T18:03:09.379598+00:00",
-  "LastUpdate_Achievements": "2023-12-10T18:09:04.0173595+00:00"
+  "LastUpdate_Ratings": "2023-12-10T19:02:53.3694724+00:00",
+  "LastUpdate_Achievements": "2023-12-10T19:08:24.627773+00:00"
 }

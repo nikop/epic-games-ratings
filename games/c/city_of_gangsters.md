@@ -1,28 +1,28 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 863)  
+Rating: 4.28 (Ranked 864)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,805 |
-| Copacetic Coordination | 16.00% | ~56,976 |
-| Fronting the Money | 15.00% | ~53,415 |
-| The Dawn of Automation | 14.00% | ~49,854 |
-| Extraordinary Logistics | 14.00% | ~49,854 |
-| Dirty Money | 13.00% | ~46,293 |
-| Family First | 13.00% | ~46,293 |
-| Cleaning House | 12.00% | ~42,732 |
-| Room in the Back | 12.00% | ~42,732 |
-| Beating the Heat | 11.00% | ~39,171 |
-| Booze Baron | 11.00% | ~39,171 |
-| Friends on the Force | 10.00% | ~35,610 |
-| Neighborhood Watch | 10.00% | ~35,610 |
-| Core Corps | 8.00% | ~28,488 |
-| Sizeable Stash | 8.00% | ~28,488 |
-| Street Fighter | 7.00% | ~24,927 |
-| Friendly Gestures | 7.00% | ~24,927 |
-| People Person | 7.00% | ~24,927 |
+| Corner Clout | 46.00% | ~163,810 |
+| Copacetic Coordination | 16.00% | ~56,977 |
+| Fronting the Money | 15.00% | ~53,416 |
+| The Dawn of Automation | 14.00% | ~49,855 |
+| Extraordinary Logistics | 14.00% | ~49,855 |
+| Dirty Money | 13.00% | ~46,294 |
+| Family First | 13.00% | ~46,294 |
+| Cleaning House | 12.00% | ~42,733 |
+| Room in the Back | 12.00% | ~42,733 |
+| Beating the Heat | 11.00% | ~39,172 |
+| Booze Baron | 11.00% | ~39,172 |
+| Friends on the Force | 10.00% | ~35,611 |
+| Neighborhood Watch | 10.00% | ~35,611 |
+| Core Corps | 8.00% | ~28,489 |
+| Sizeable Stash | 8.00% | ~28,489 |
+| Street Fighter | 7.00% | ~24,928 |
+| Friendly Gestures | 7.00% | ~24,928 |
+| People Person | 7.00% | ~24,928 |
 | Liquor Lord | 6.00% | ~21,366 |
 | Safety in Numbers | 6.00% | ~21,366 |
 | Moving Experiences | 6.00% | ~21,366 |
@@ -64,9 +64,9 @@ Rating: 4.28 (Ranked 863)
 | Crossing Over | 0.90% | ~3,205 |
 | Boots in the Ground | 0.80% | ~2,849 |
 | Getting Fancy | 0.80% | ~2,849 |
-| Still Dreaming | 0.50% | ~1,780 |
-| Working on the Railroad | 0.50% | ~1,780 |
-| Social Butterfly | 0.50% | ~1,780 |
+| Still Dreaming | 0.50% | ~1,781 |
+| Working on the Railroad | 0.50% | ~1,781 |
+| Social Butterfly | 0.50% | ~1,781 |
 | Homemade Hooch | 0.40% | ~1,424 |
 | High End Booze | 0.40% | ~1,424 |
 | In-House Maintenance | 0.40% | ~1,424 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 863)
 | High Pillow | 0.10% | ~356 |
 | Station Master | 0.10% | ~356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 356,097 (Ranked 49)  
+Progressed: 356,108 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-07 | 355,651 | 7 |
 | 2023-12-08 | 355,789 | 7 |
 | 2023-12-09 | 355,964 | 7 |
-| 2023-12-10 | 356,097 | 7 |
+| 2023-12-10 | 356,108 | 7 |
 ## Awards
 Max (Great for Beginners): 51  (Ranked 437)  
 Sum: 248 (Ranked 384)  

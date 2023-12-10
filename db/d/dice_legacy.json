@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -53,9 +53,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1189,
+  "EOS_Progressed": 1190,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2258,6 +2258,11 @@
       "Time": "2023-12-10T14:05:00.2091377+00:00",
       "NumProgressed": 1189,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T19:04:59.1942543+00:00",
+      "NumProgressed": 1190,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2381,7 +2386,7 @@
       "Name": "Ascended",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "DIE_FORGE_CUSTOM",
@@ -2437,7 +2442,7 @@
       "Name": "The Penitent Ones",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "EXILED_SOLDIER_FRIEND",
@@ -2461,7 +2466,7 @@
       "Name": "Greedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "PREVENTRIOT",
@@ -2477,7 +2482,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "SUMMON_BOSS",
@@ -2493,7 +2498,7 @@
       "Name": "We made it",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2557,7 +2562,7 @@
       "Name": "The Stranded King",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WINMATCHWITH_MERCHANT",
@@ -2613,7 +2618,7 @@
       "Name": "Accepting the Prophecy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
@@ -2628,7 +2633,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1189,
+      "Progressed": 1190,
       "Completed": 0
     }
   ],
@@ -2636,8 +2641,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-11-18T18:58:25.1922744+00:00",
-  "LastChanged_Achievements": "2023-12-10T18:05:29.1177373+00:00",
+  "LastChanged_Achievements": "2023-12-10T19:04:59.1942537+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:06.2219482+00:00",
-  "LastUpdate_Ratings": "2023-12-10T18:02:49.2823525+00:00",
-  "LastUpdate_Achievements": "2023-12-10T18:05:29.117783+00:00"
+  "LastUpdate_Ratings": "2023-12-10T19:02:36.7568711+00:00",
+  "LastUpdate_Achievements": "2023-12-10T19:04:59.194298+00:00"
 }

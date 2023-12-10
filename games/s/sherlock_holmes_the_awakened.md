@@ -5,37 +5,37 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~659 |
-| To Hell In A Handcart | 63.00% | ~659 |
-| High Profile | 56.00% | ~586 |
-| Whispers In The Dark | 53.00% | ~554 |
-| Fond Memories | 51.00% | ~533 |
-| A Method To His Madness | 48.00% | ~502 |
-| History Check | 47.00% | ~492 |
-| The New World | 44.00% | ~460 |
-| Gaze Into The Abyss | 43.00% | ~450 |
-| Open Sesame | 43.00% | ~450 |
-| Sticky Fingers | 43.00% | ~450 |
-| Lock, Stock, And Barrel | 42.00% | ~439 |
-| Knives Out | 42.00% | ~439 |
-| Land, Ho! | 42.00% | ~439 |
-| Back In The Saddle | 41.00% | ~429 |
-| No Man Is An Island | 41.00% | ~429 |
-| At Wits' End | 40.00% | ~418 |
-| Fhtagn! | 39.00% | ~408 |
-| Bookworm | 38.00% | ~397 |
-| Up In Flames | 38.00% | ~397 |
-| Going Once... | 36.00% | ~377 |
-| Let Me Be Frank | 34.00% | ~356 |
-| No Stone Unturned | 32.00% | ~335 |
-| Brain Food | 30.00% | ~314 |
+| Read Between The Lines | 63.00% | ~661 |
+| To Hell In A Handcart | 63.00% | ~661 |
+| High Profile | 56.00% | ~587 |
+| Whispers In The Dark | 53.00% | ~556 |
+| Fond Memories | 51.00% | ~535 |
+| A Method To His Madness | 48.00% | ~504 |
+| History Check | 47.00% | ~493 |
+| The New World | 45.00% | ~472 |
+| Gaze Into The Abyss | 43.00% | ~451 |
+| Open Sesame | 43.00% | ~451 |
+| Sticky Fingers | 43.00% | ~451 |
+| Knives Out | 43.00% | ~451 |
+| Lock, Stock, And Barrel | 42.00% | ~441 |
+| Land, Ho! | 42.00% | ~441 |
+| Back In The Saddle | 41.00% | ~430 |
+| No Man Is An Island | 41.00% | ~430 |
+| At Wits' End | 40.00% | ~420 |
+| Fhtagn! | 39.00% | ~409 |
+| Up In Flames | 38.00% | ~399 |
+| Bookworm | 37.00% | ~388 |
+| Going Once... | 36.00% | ~378 |
+| Let Me Be Frank | 34.00% | ~357 |
+| No Stone Unturned | 32.00% | ~336 |
+| Brain Food | 30.00% | ~315 |
 | Curiosity Killed The Cat | 19.00% | ~199 |
 | Read It And Weep | 19.00% | ~199 |
 | Big Breakthrough | 12.00% | ~126 |
 | Reawakened | 3.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,046 (Ranked 268)  
-Completed: 28 (2.68%) (Ranked 117)  
+Progressed: 1,049 (Ranked 268)  
+Completed: 28 (2.67%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,7 +224,7 @@ Completed: 28 (2.68%) (Ranked 117)
 | 2023-12-07 | 895 | 28 |
 | 2023-12-08 | 939 | 28 |
 | 2023-12-09 | 999 | 28 |
-| 2023-12-10 | 1,046 | 28 |
+| 2023-12-10 | 1,049 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

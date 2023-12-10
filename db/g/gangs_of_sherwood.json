@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -662,9 +662,9 @@
       "ID": "ACH_REBEL_INSTINCT",
       "SetID": "5akmpni",
       "Name": "Rebel Unleashed",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_REPUTATION_LVL_4",
@@ -741,8 +741,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-10T18:04:52.2338768+00:00",
+  "LastChanged_Achievements": "2023-12-10T19:04:26.596893+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:48.6634416+00:00",
-  "LastUpdate_Ratings": "2023-12-10T17:57:15.3954186+00:00",
-  "LastUpdate_Achievements": "2023-12-10T18:04:52.2339235+00:00"
+  "LastUpdate_Ratings": "2023-12-10T18:57:08.5313764+00:00",
+  "LastUpdate_Achievements": "2023-12-10T19:04:26.5969342+00:00"
 }

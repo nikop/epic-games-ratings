@@ -19,8 +19,8 @@
 | Anomaly Destroyer | 29.00% | ~28 |
 | Astral Adventurer | 27.00% | ~26 |
 | Star Killer | 27.00% | ~26 |
-| Apian Champion | 26.00% | ~25 |
-| Loyal Partner | 24.00% | ~24 |
+| Apian Champion | 27.00% | ~26 |
+| Loyal Partner | 26.00% | ~25 |
 | Behenian Champion | 22.00% | ~22 |
 | Shard Spender | 19.00% | ~19 |
 | Unbeatable | 17.00% | ~17 |
@@ -47,10 +47,10 @@
 | Purification Avatar | 6.00% | ~6 |
 | The Abyssal Terror | 6.00% | ~6 |
 | Behenian Mastery | 6.00% | ~6 |
+| Astrarium of Holding | 5.00% | ~5 |
 | If I Had Failed... | 5.00% | ~5 |
 | Aquarian Hero | 5.00% | ~5 |
 | Noctuan Hero | 5.00% | ~5 |
-| Astrarium of Holding | 4.00% | ~4 |
 | Aquarian Mastery | 4.00% | ~4 |
 | Eridanian Hero | 4.00% | ~4 |
 | Lacertian Mastery | 4.00% | ~4 |

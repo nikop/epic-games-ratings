@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -2654,9 +2654,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 497
     },
     {
       "ID": "BostonHayDay",
@@ -2790,9 +2790,9 @@
       "ID": "TheSafetyOfDisbelief",
       "SetID": "3ai6ml8",
       "Name": "The Safety of Disbelief",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 547
+      "UsersEstimate": 557
     },
     {
       "ID": "TragedyDocumented",
@@ -2821,8 +2821,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-10T18:09:28.4698406+00:00",
+  "LastChanged_Achievements": "2023-12-10T19:08:45.9706656+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:00.7980109+00:00",
-  "LastUpdate_Ratings": "2023-12-10T18:02:30.9582269+00:00",
-  "LastUpdate_Achievements": "2023-12-10T18:09:28.4698638+00:00"
+  "LastUpdate_Ratings": "2023-12-10T19:02:21.6725236+00:00",
+  "LastUpdate_Achievements": "2023-12-10T19:08:45.9706899+00:00"
 }

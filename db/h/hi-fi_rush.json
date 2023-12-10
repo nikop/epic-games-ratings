@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4500,
+  "EOS_Progressed": 4502,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8255,6 +8255,11 @@
       "Time": "2023-12-10T13:11:05.3889807+00:00",
       "NumProgressed": 4500,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-10T19:06:12.455938+00:00",
+      "NumProgressed": 4502,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8312,9 +8317,9 @@
       "ID": "Ach007",
       "SetID": "12n4k20",
       "Name": "Who\u0027s the boss now?",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 405
     },
     {
       "ID": "Ach008",
@@ -8354,7 +8359,7 @@
       "Name": "Didn\u0027t skip a beat!",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach013",
@@ -8362,7 +8367,7 @@
       "Name": "Problem solved... wait, what?",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Ach014",
@@ -8410,7 +8415,7 @@
       "Name": "I think that\u0027s enough health for now",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach020",
@@ -8434,7 +8439,7 @@
       "Name": "I have to read ALL of these things?",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach023",
@@ -8578,7 +8583,7 @@
       "Name": "Now this is how you fight like a team!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Ach041",
@@ -8586,7 +8591,7 @@
       "Name": "My Ultimate Setlist",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach042",
@@ -8602,7 +8607,7 @@
       "Name": "What a journey it was...",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach044",
@@ -8658,7 +8663,7 @@
       "Name": "I\u0027m untouchable!",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach051",
@@ -8714,7 +8719,7 @@
       "Name": "I\u0027m trying to FOCUS HERE!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach058",
@@ -8746,7 +8751,7 @@
       "Name": "OK, I THINK I know what I\u0027m doing now",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach062",
@@ -8833,13 +8838,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4500,
+      "Progressed": 4502,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 3021,
+      "Progressed": 3023,
       "Completed": 1930
     }
   ],
@@ -8847,8 +8852,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-10T18:08:03.5431254+00:00",
+  "LastChanged_Achievements": "2023-12-10T19:06:12.4559374+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:18.6418134+00:00",
-  "LastUpdate_Ratings": "2023-12-10T18:00:07.78974+00:00",
-  "LastUpdate_Achievements": "2023-12-10T18:08:03.5432238+00:00"
+  "LastUpdate_Ratings": "2023-12-10T18:59:36.6403393+00:00",
+  "LastUpdate_Achievements": "2023-12-10T19:06:12.4560371+00:00"
 }
