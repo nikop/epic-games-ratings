@@ -9,7 +9,7 @@
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.85% |
 | 8 | [greensheen Production](games/g/greensheen_production.md) | 46.67% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.67% |
-| 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.14% |
+| 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.62% |
 | 11 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 33.33% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 28.95% |
@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.64% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.62% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -110,9 +110,9 @@
 | 108 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.94% |
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 110 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 111 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.79% |
-| 112 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
-| 112 | [Night Book](games/n/night_book.md) | 2.78% |
+| 111 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
+| 111 | [Night Book](games/n/night_book.md) | 2.78% |
+| 111 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.78% |
 | 114 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 115 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
 | 115 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
@@ -136,8 +136,8 @@
 | 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.84% |
 | 135 | [Sifu](games/s/sifu.md) | 1.80% |
 | 136 | [Frogun](games/f/frogun.md) | 1.77% |
-| 137 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.74% |
-| 138 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.73% |
+| 137 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.73% |
+| 138 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.72% |
 | 139 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.62% |
 | 140 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 141 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.56% |
@@ -171,7 +171,7 @@
 | 169 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
 | 170 | [Sable](games/s/sable.md) | 1.01% |
 | 171 | [Trifox](games/t/trifox.md) | 0.96% |
-| 172 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.95% |
+| 172 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.94% |
 | 173 | [A Musical Story](games/a/a_musical_story.md) | 0.93% |
 | 174 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.92% |
 | 175 | [Hades](games/h/hades.md) | 0.91% |
