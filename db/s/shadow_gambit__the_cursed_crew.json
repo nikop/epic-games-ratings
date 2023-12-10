@@ -3,11 +3,11 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 89,
-  "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 559,
+  "Ranking_Popularity": 560,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -143,7 +143,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1074,
+  "EOS_Progressed": 1075,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 1,
@@ -3593,6 +3593,11 @@
       "Time": "2023-12-10T10:06:23.9854215+00:00",
       "NumProgressed": 1074,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-10T11:07:03.5242566+00:00",
+      "NumProgressed": 1075,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3603,9 +3608,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 301
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3613,7 +3618,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "_03_FinishAct1",
@@ -3621,15 +3626,15 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 355
     },
     {
       "ID": "_05_FinishAct2",
@@ -3645,7 +3650,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "_07_FinishAct3",
@@ -3693,7 +3698,7 @@
       "Name": "Privateer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "_13_Completion_60",
@@ -3733,7 +3738,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3765,7 +3770,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -3812,7 +3817,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1074,
+      "Progressed": 1075,
       "Completed": 32
     }
   ],
@@ -3820,8 +3825,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-09T12:00:24.7987919+00:00",
-  "LastChanged_Achievements": "2023-12-10T10:06:23.985421+00:00",
+  "LastChanged_Achievements": "2023-12-10T11:07:03.5242562+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-10T09:59:35.3181323+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:06:23.9854581+00:00"
+  "LastUpdate_Ratings": "2023-12-10T11:00:15.0142561+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:07:03.5242848+00:00"
 }

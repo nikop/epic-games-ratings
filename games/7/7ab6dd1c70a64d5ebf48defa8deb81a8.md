@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Break Out | 15.00% | ~39 |
 | Trinity | 15.00% | ~39 |
-| Find Allies | 12.00% | ~31 |
+| Find Allies | 13.00% | ~33 |
 | Powerful Allies | 11.00% | ~28 |
 | A Taste of Wrath | 11.00% | ~28 |
 | Adventurer | 11.00% | ~28 |

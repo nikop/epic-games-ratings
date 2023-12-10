@@ -3,11 +3,11 @@
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
   "Ranking_Rating": 145,
-  "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 559,
+  "Ranking_Popularity": 560,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -207,9 +207,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7653,
+  "EOS_Progressed": 7655,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6077,6 +6077,11 @@
       "Time": "2023-12-10T10:09:16.1752235+00:00",
       "NumProgressed": 7653,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-10T11:09:42.9204288+00:00",
+      "NumProgressed": 7655,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6129,7 +6134,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "Eavesdropper",
@@ -6145,7 +6150,7 @@
       "Name": "Explosive Personality",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "FasterThanLight",
@@ -6161,7 +6166,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2219
+      "UsersEstimate": 2220
     },
     {
       "ID": "FuneralForTheDeath",
@@ -6193,7 +6198,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -6233,7 +6238,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "NoMoreTotems",
@@ -6281,7 +6286,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "TheQuarterback",
@@ -6289,7 +6294,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "ThisIsDharma",
@@ -6297,7 +6302,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -6305,7 +6310,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "UnResurrected",
@@ -6321,7 +6326,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -6360,7 +6365,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7653,
+      "Progressed": 7655,
       "Completed": 15
     }
   ],
@@ -6368,8 +6373,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-09T07:57:44.7970456+00:00",
-  "LastChanged_Achievements": "2023-12-10T10:09:16.1752228+00:00",
+  "LastChanged_Achievements": "2023-12-10T11:09:42.9204286+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-10T09:57:43.7259237+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:09:16.1752806+00:00"
+  "LastUpdate_Ratings": "2023-12-10T10:58:05.8269573+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:09:42.9204782+00:00"
 }

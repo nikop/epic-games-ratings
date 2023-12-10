@@ -5409,9 +5409,9 @@
       "Count": 412
     }
   ],
-  "EOS_Progressed": 237866,
+  "EOS_Progressed": 237887,
   "EOS_Completed": 575,
-  "EOS_NewPlayers": 4327,
+  "EOS_NewPlayers": 4306,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22294,6 +22294,11 @@
       "Time": "2023-12-10T10:08:45.118008+00:00",
       "NumProgressed": 237866,
       "NumCompleted": 575
+    },
+    {
+      "Time": "2023-12-10T11:09:08.5889401+00:00",
+      "NumProgressed": 237887,
+      "NumCompleted": 575
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22322,7 +22327,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -22378,7 +22383,7 @@
       "Name": "Power Surge",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "Defeat_Mantis",
@@ -22448,9 +22453,9 @@
       "ID": "Meet_Custodian",
       "SetID": "bkp3b1a",
       "Name": "Not a Janitor",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 951
+      "UsersEstimate": 1189
     },
     {
       "ID": "Meet_Flautist",
@@ -22466,7 +22471,7 @@
       "Name": "Equal Measures",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "Meet_Mudtooth",
@@ -22482,7 +22487,7 @@
       "Name": "Blue Goddess",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "Obtain_Archetype",
@@ -22498,7 +22503,7 @@
       "Name": "Duality",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -22506,7 +22511,7 @@
       "Name": "Top Performer",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -22514,7 +22519,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -22530,7 +22535,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -22594,7 +22599,7 @@
       "Name": "Scrap Collector",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "Obtain_Scrap_B",
@@ -22650,7 +22655,7 @@
       "Name": "Almost There",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "Upgrade_Relic",
@@ -22658,7 +22663,7 @@
       "Name": "Make Some Room",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -22666,7 +22671,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -22745,22 +22750,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 237866,
+      "Progressed": 237887,
       "Completed": 575
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 17031,
-      "Completed": 231
+      "Progressed": 17052,
+      "Completed": 232
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-10T06:03:04.9812704+00:00",
-  "LastChanged_Achievements": "2023-12-10T10:08:45.1180077+00:00",
+  "LastChanged_Achievements": "2023-12-10T11:09:08.5889399+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-10T10:03:02.4055215+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:08:45.1181605+00:00"
+  "LastUpdate_Ratings": "2023-12-10T11:03:17.9662845+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:09:08.589083+00:00"
 }

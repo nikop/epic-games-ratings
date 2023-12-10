@@ -3,8 +3,8 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1060,
-  "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 559,
+  "Ranking_Popularity": 560,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 194,
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1995,
+  "EOS_Progressed": 1996,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7588,6 +7588,11 @@
       "Time": "2023-12-10T08:05:28.3315584+00:00",
       "NumProgressed": 1995,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T11:06:03.950206+00:00",
+      "NumProgressed": 1996,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7719,7 +7724,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -7783,7 +7788,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -7902,7 +7907,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1995,
+      "Progressed": 1996,
       "Completed": 1
     }
   ],
@@ -7910,8 +7915,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-10T10:05:30.0702415+00:00",
+  "LastChanged_Achievements": "2023-12-10T11:06:03.9502057+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-10T09:57:52.0572998+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:05:30.0703117+00:00"
+  "LastUpdate_Ratings": "2023-12-10T10:58:15.4936422+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:06:03.9502701+00:00"
 }

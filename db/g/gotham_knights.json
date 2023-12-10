@@ -4,10 +4,10 @@
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 942,
   "Ranking_Popularity": 98,
-  "Ranking_PopularitySum": 140,
+  "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4601,9 +4601,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77849,
+  "EOS_Progressed": 77850,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25546,6 +25546,11 @@
       "Time": "2023-12-10T10:05:22.3837494+00:00",
       "NumProgressed": 77849,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-10T11:05:55.2902555+00:00",
+      "NumProgressed": 77850,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25645,7 +25650,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11677
+      "UsersEstimate": 11678
     },
     {
       "ID": "CHALLENGES_1",
@@ -25653,7 +25658,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13234
+      "UsersEstimate": 13235
     },
     {
       "ID": "CLAYFACE_1",
@@ -25701,7 +25706,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5449
+      "UsersEstimate": 5450
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -25797,7 +25802,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14791
+      "UsersEstimate": 14792
     },
     {
       "ID": "FREEZE_3",
@@ -25901,7 +25906,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38924
+      "UsersEstimate": 38925
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25917,7 +25922,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2336
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -25933,7 +25938,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 21019
+      "UsersEstimate": 21020
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -25989,7 +25994,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11677
+      "UsersEstimate": 11678
     },
     {
       "ID": "MYSTERY_07",
@@ -26013,7 +26018,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8563
+      "UsersEstimate": 8564
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -26037,20 +26042,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2336
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77849,
+      "Progressed": 77850,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48129,
+      "Progressed": 48130,
       "Completed": 2675
     }
   ],
@@ -26058,8 +26063,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-10T02:57:07.7320951+00:00",
-  "LastChanged_Achievements": "2023-12-10T10:05:22.3837491+00:00",
+  "LastChanged_Achievements": "2023-12-10T11:05:55.2902553+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-10T09:57:10.5361016+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:05:22.38395+00:00"
+  "LastUpdate_Ratings": "2023-12-10T10:57:26.2644605+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:05:55.2903855+00:00"
 }

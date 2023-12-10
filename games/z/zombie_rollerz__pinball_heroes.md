@@ -7,7 +7,7 @@ Rating: 4.29 (Ranked 853)
 | ---- | ---------- | ----- |
 | Level Up! | 88.00% | ~176 |
 | Bullseye! | 85.00% | ~170 |
-| Graduation! | 79.00% | ~158 |
+| Graduation! | 80.00% | ~160 |
 | Villfir Forest | 74.00% | ~148 |
 | Right in the kisser! | 58.00% | ~116 |
 | The Thrower | 47.00% | ~94 |

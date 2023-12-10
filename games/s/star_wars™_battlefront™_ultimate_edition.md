@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,464 |
-| Off to a good start | 66.00% | ~1,086 |
-| Do... or do not. There is no try | 51.00% | ~839 |
+| New Recruit | 89.00% | ~1,467 |
+| Off to a good start | 66.00% | ~1,088 |
+| Do... or do not. There is no try | 51.00% | ~840 |
 | A good blaster at your side | 30.00% | ~494 |
 | I suggest a new strategy | 19.00% | ~313 |
-| Scrap collector | 18.00% | ~296 |
-| Great shot, kid! | 18.00% | ~296 |
+| Scrap collector | 18.00% | ~297 |
+| Great shot, kid! | 18.00% | ~297 |
 | All right, I'll give it a try | 17.00% | ~280 |
 | Shoot first | 15.00% | ~247 |
-| The power of the Force | 14.00% | ~230 |
-| Collector | 14.00% | ~230 |
+| The power of the Force | 14.00% | ~231 |
+| Collector | 14.00% | ~231 |
 | Together we can rule the galaxy | 13.00% | ~214 |
-| Tell Jabba that I've got his money | 10.00% | ~164 |
+| Tell Jabba that I've got his money | 10.00% | ~165 |
 | Best star-pilot in the galaxy | 9.00% | ~148 |
 | Survivor | 9.00% | ~148 |
 | Never tell me the odds! | 8.00% | ~132 |
@@ -53,9 +53,9 @@
 | Onwards! | 1.00% | ~16 |
 | The circle is now complete | 1.00% | ~16 |
 | A New Hope | 0.90% | ~15 |
-| Walker defender | 0.90% | ~15 |
-| Stop that Droid | 0.90% | ~15 |
+| Walker defender | 0.80% | ~13 |
 | Do we take prisoners? | 0.80% | ~13 |
+| Stop that Droid | 0.80% | ~13 |
 | No such thing as luck | 0.70% | ~12 |
 | I’ll take that bet | 0.60% | ~10 |
 | Greed can be a very powerful ally | 0.50% | ~8 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,645 (Ranked 239)  
+Progressed: 1,648 (Ranked 239)  
 Completed: 1 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 1 (0.06%) (Ranked 313)
 | 2023-12-07 | 1,604 | 1 |
 | 2023-12-08 | 1,621 | 1 |
 | 2023-12-09 | 1,636 | 1 |
-| 2023-12-10 | 1,645 | 1 |
+| 2023-12-10 | 1,648 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

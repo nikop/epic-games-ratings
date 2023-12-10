@@ -3,11 +3,11 @@
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
   "Ranking_Rating": 913,
-  "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 559,
+  "Ranking_Popularity": 560,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22305,
+  "EOS_Progressed": 22306,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 742,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -19558,6 +19558,11 @@
       "Time": "2023-12-10T10:03:29.7608092+00:00",
       "NumProgressed": 22305,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-10T11:03:50.3446674+00:00",
+      "NumProgressed": 22306,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 14,
@@ -19569,7 +19574,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 17175
+      "UsersEstimate": 17176
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -19593,7 +19598,7 @@
       "Name": "Danger Ahead",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 5799
+      "UsersEstimate": 5800
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -19649,7 +19654,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 5799
+      "UsersEstimate": 5800
     },
     {
       "ID": "ACH_THE_FALL",
@@ -19680,15 +19685,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 22305,
+      "Progressed": 22306,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-12-10T10:03:29.7608089+00:00",
+  "LastChanged_Achievements": "2023-12-10T11:03:50.3446671+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:15.1629864+00:00",
-  "LastUpdate_Ratings": "2023-12-10T09:59:13.5797312+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:03:29.7609288+00:00"
+  "LastUpdate_Ratings": "2023-12-10T10:59:49.727804+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:03:50.3447959+00:00"
 }

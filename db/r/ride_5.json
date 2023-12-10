@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2409,
+  "EOS_Progressed": 2410,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5932,6 +5932,11 @@
       "Time": "2023-12-10T10:04:29.8337214+00:00",
       "NumProgressed": 2409,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T11:04:57.5015184+00:00",
+      "NumProgressed": 2410,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6094,9 +6099,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "c7hf6a4",
       "Name": "The Road to Liberty",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 96
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -6120,7 +6125,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -6198,9 +6203,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "c7hf6a4",
       "Name": "We\u0027ve Just Begun",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 289
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -6232,7 +6237,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6335,14 +6340,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2409,
+      "Progressed": 2410,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-10T10:04:29.833721+00:00",
+  "LastChanged_Achievements": "2023-12-10T11:04:57.5015181+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-10T09:57:15.805927+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:04:29.8338178+00:00"
+  "LastUpdate_Ratings": "2023-12-10T10:57:32.1284287+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:04:57.5015775+00:00"
 }

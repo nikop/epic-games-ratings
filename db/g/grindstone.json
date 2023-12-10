@@ -3,11 +3,11 @@
   "Name": "Grindstone",
   "ProductSlug": "grindstone",
   "Ranking_Rating": 50,
-  "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 559,
+  "Ranking_Popularity": 560,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5184,
+  "EOS_Progressed": 5185,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -913,6 +913,11 @@
       "Time": "2023-12-04T18:04:25.466896+00:00",
       "NumProgressed": 5184,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-10T11:06:57.9643709+00:00",
+      "NumProgressed": 5185,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -948,7 +953,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -980,7 +985,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -996,7 +1001,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -1028,7 +1033,7 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3162
+      "UsersEstimate": 3163
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1036,7 +1041,7 @@
       "Name": "Yummy!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ACHIEVE_BIOHAZARD",
@@ -1052,7 +1057,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5080
+      "UsersEstimate": 5081
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1060,7 +1065,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3266
+      "UsersEstimate": 3267
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1148,7 +1153,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1164,7 +1169,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3214
+      "UsersEstimate": 3215
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1212,7 +1217,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5080
+      "UsersEstimate": 5081
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1268,7 +1273,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1315,15 +1320,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5184,
+      "Progressed": 5185,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-12-10T10:06:18.8259556+00:00",
+  "LastChanged_Achievements": "2023-12-10T11:06:57.9643705+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:17.5210328+00:00",
-  "LastUpdate_Ratings": "2023-12-10T09:59:58.7113454+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:06:18.8260001+00:00"
+  "LastUpdate_Ratings": "2023-12-10T11:00:41.9558814+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:06:57.9644113+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Lamentum",
   "ProductSlug": "lamentum-962e3e",
   "Ranking_Rating": 777,
-  "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 559,
+  "Ranking_Popularity": 560,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -561,8 +561,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-12-10T10:03:57.6223408+00:00",
+  "LastChanged_Achievements": "2023-12-10T11:04:21.867208+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:13.7945211+00:00",
-  "LastUpdate_Ratings": "2023-12-10T09:58:48.2276896+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:03:57.6223619+00:00"
+  "LastUpdate_Ratings": "2023-12-10T10:59:20.5130633+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:04:21.8672217+00:00"
 }

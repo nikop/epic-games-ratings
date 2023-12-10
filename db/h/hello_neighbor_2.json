@@ -3,11 +3,11 @@
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
   "Ranking_Rating": 680,
-  "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 559,
+  "Ranking_Popularity": 560,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_Completed": 89,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -471,9 +471,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3335,
+  "EOS_Progressed": 3336,
   "EOS_Completed": 137,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
@@ -5246,6 +5246,11 @@
       "Time": "2023-12-10T00:06:30.5420744+00:00",
       "NumProgressed": 3335,
       "NumCompleted": 137
+    },
+    {
+      "Time": "2023-12-10T11:04:44.8832551+00:00",
+      "NumProgressed": 3336,
+      "NumCompleted": 137
     }
   ],
   "TotalAchievements": 14,
@@ -5297,7 +5302,7 @@
       "Name": "Easy As Pie",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -5321,7 +5326,7 @@
       "Name": "Imprisonment",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -5329,7 +5334,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ACH_REUNION",
@@ -5361,14 +5366,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 78,
       "XP": 35,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2602
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3335,
+      "Progressed": 3336,
       "Completed": 137
     }
   ],
@@ -5376,8 +5381,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-10T10:04:18.2613719+00:00",
+  "LastChanged_Achievements": "2023-12-10T11:04:44.8832549+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:09.6040213+00:00",
-  "LastUpdate_Ratings": "2023-12-10T09:57:20.6336622+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:04:18.2614216+00:00"
+  "LastUpdate_Ratings": "2023-12-10T10:57:37.6513224+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:04:44.883299+00:00"
 }

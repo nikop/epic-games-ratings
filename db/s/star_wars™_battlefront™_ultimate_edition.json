@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1645,
+  "EOS_Progressed": 1648,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4924,6 +4924,11 @@
       "Time": "2023-12-10T10:09:26.6586352+00:00",
       "NumProgressed": 1645,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T11:09:54.4469146+00:00",
+      "NumProgressed": 1648,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5008,7 +5013,7 @@
       "Name": "The power of the Force",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_19",
@@ -5032,7 +5037,7 @@
       "Name": "Collector",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_21",
@@ -5040,7 +5045,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_22",
@@ -5128,7 +5133,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "achievement_32",
@@ -5160,7 +5165,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1467
     },
     {
       "ID": "achievement_36",
@@ -5176,7 +5181,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1088
     },
     {
       "ID": "achievement_38",
@@ -5208,7 +5213,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "achievement_41",
@@ -5230,9 +5235,9 @@
       "ID": "achievement_43",
       "SetID": "271ol84",
       "Name": "Walker defender",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_44",
@@ -5334,9 +5339,9 @@
       "ID": "achievement_55",
       "SetID": "cemm4l8",
       "Name": "Stop that Droid",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_56",
@@ -5376,7 +5381,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "achievement_60",
@@ -5439,13 +5444,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1645,
+      "Progressed": 1648,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1645,
+      "Progressed": 1648,
       "Completed": 1
     }
   ],
@@ -5453,8 +5458,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-10T10:09:26.6586347+00:00",
+  "LastChanged_Achievements": "2023-12-10T11:09:54.4469135+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-10T09:59:09.9848492+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:09:26.6587287+00:00"
+  "LastUpdate_Ratings": "2023-12-10T10:59:45.5811142+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:09:54.4469913+00:00"
 }

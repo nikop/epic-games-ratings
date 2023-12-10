@@ -3,8 +3,8 @@
 [View Rawdata](../../db/s/shapez.json)  
 Rating: 4.71 (Ranked 196)  
 ## Awards
-Max (Relaxing): 20  (Ranked 551)  
-Sum: 20 (Ranked 552)  
+Max (Relaxing): 20  (Ranked 552)  
+Sum: 20 (Ranked 553)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |

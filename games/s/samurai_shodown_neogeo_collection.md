@@ -1,7 +1,7 @@
 # SAMURAI SHODOWN NEOGEO COLLECTION
 [Store](https://store.epicgames.com/en-US/p/samurai-shodown-neogeo-collection)  
 [View Rawdata](../../db/s/samurai_shodown_neogeo_collection.json)  
-Rating: 4.46 (Ranked 652)  
+Rating: 4.47 (Ranked 642)  
 Number of Ratings: 83  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -68,3 +68,4 @@ Number of Ratings: 83  (23.09.2022)
 | 2023-10-06 | 4.48 | - | 0 | 0 |
 | 2023-11-27 | 4.49 | - | 0 | 0 |
 | 2023-12-03 | 4.46 | - | 0 | 0 |
+| 2023-12-10 | 4.47 | - | 0 | 0 |

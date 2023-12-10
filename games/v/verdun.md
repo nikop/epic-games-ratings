@@ -6,13 +6,13 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~51,460 |
-| Worth it | 63.00% | ~41,564 |
-| Eagle Eye | 55.00% | ~36,286 |
-| Corpseman I | 40.00% | ~26,390 |
-| Blast fishing | 37.00% | ~24,410 |
-| Not alone | 32.00% | ~21,112 |
-| Headhunter I | 26.00% | ~17,153 |
+| Setting an example | 78.00% | ~51,462 |
+| Worth it | 63.00% | ~41,566 |
+| Eagle Eye | 55.00% | ~36,287 |
+| Corpseman I | 40.00% | ~26,391 |
+| Blast fishing | 37.00% | ~24,411 |
+| Not alone | 32.00% | ~21,113 |
+| Headhunter I | 26.00% | ~17,154 |
 | Manual Labour I | 25.00% | ~16,494 |
 | Developers, Developers, Developers | 24.00% | ~15,834 |
 | Basic Training | 24.00% | ~15,834 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~1,979 |
 | Silver x100 | 3.00% | ~1,979 |
 | Impavidum Ferient Bella! | 3.00% | ~1,979 |
-| Bronze x100 | 2.00% | ~1,319 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,319 |
+| Bronze x100 | 2.00% | ~1,320 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,320 |
 | Gold x100 | 1.00% | ~660 |
 | Hunting the Hun | 1.00% | ~660 |
 | #1 | 1.00% | ~660 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~66 |
 | Blood Brother | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,974 (Ranked 105)  
+Progressed: 65,977 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 4 (0.01%) (Ranked 348)
 | 2023-12-07 | 65,741 | 4 |
 | 2023-12-08 | 65,819 | 4 |
 | 2023-12-09 | 65,935 | 4 |
-| 2023-12-10 | 65,974 | 4 |
+| 2023-12-10 | 65,977 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 359)  
 Sum: 817 (Ranked 282)  

@@ -3,8 +3,8 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 25,
-  "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 559,
+  "Ranking_Popularity": 560,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 176,
@@ -216,7 +216,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 918,
+  "EOS_Progressed": 919,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -2271,6 +2271,11 @@
       "Time": "2023-12-10T09:03:53.6935153+00:00",
       "NumProgressed": 918,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T11:04:05.321289+00:00",
+      "NumProgressed": 919,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2339,7 +2344,7 @@
       "Name": "Bridge Builder",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ChasingTheLight",
@@ -2377,9 +2382,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 147
     },
     {
       "ID": "EasternWetlands",
@@ -2449,9 +2454,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 147
     },
     {
       "ID": "JustOneLap",
@@ -2481,9 +2486,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 101
     },
     {
       "ID": "Mnemosyne",
@@ -2561,9 +2566,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 83
     },
     {
       "ID": "RemnantsOfThePast",
@@ -2571,7 +2576,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "RenaissanceRobot",
@@ -2633,9 +2638,9 @@
       "ID": "TextAdventurer",
       "SetID": "1n308hc",
       "Name": "Text Adventurer",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TheAllGifted",
@@ -2691,7 +2696,7 @@
       "Name": "The Word Endures",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "TouchGrass",
@@ -2739,7 +2744,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "YourBiggestFan",
@@ -2754,7 +2759,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 918,
+      "Progressed": 919,
       "Completed": 1
     }
   ],
@@ -2762,8 +2767,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-10T10:03:42.8802684+00:00",
+  "LastChanged_Achievements": "2023-12-10T11:04:05.3212886+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-10T09:57:30.818337+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:03:42.880345+00:00"
+  "LastUpdate_Ratings": "2023-12-10T10:57:50.2903104+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:04:05.3213461+00:00"
 }

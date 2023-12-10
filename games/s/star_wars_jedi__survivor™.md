@@ -5,44 +5,44 @@ Rating: 4.50 (Ranked 595)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,454 |
-| For Saw Gerrera | 98.00% | ~9,359 |
-| Grab Some Seat | 91.00% | ~8,690 |
-| Can You Pet the Bogling? | 87.00% | ~8,308 |
-| The Past Made Present | 83.00% | ~7,926 |
-| Survivors, We Adapt | 80.00% | ~7,640 |
-| They Never Saw It Coming | 78.00% | ~7,449 |
-| Among the Masters | 78.00% | ~7,449 |
-| Who Gives a Puck | 74.00% | ~7,067 |
-| For the Path | 67.00% | ~6,398 |
+| Rooftop Duel | 99.00% | ~9,455 |
+| For Saw Gerrera | 98.00% | ~9,360 |
+| Grab Some Seat | 91.00% | ~8,691 |
+| Can You Pet the Bogling? | 87.00% | ~8,309 |
+| The Past Made Present | 83.00% | ~7,927 |
+| Survivors, We Adapt | 80.00% | ~7,641 |
+| They Never Saw It Coming | 78.00% | ~7,450 |
+| Among the Masters | 78.00% | ~7,450 |
+| Who Gives a Puck | 74.00% | ~7,068 |
+| For the Path | 67.00% | ~6,399 |
 | Now, This Isn't Podracing | 65.00% | ~6,208 |
-| Mirror Match | 64.00% | ~6,112 |
-| Skywalker | 63.00% | ~6,016 |
-| Out of Bedlam | 62.00% | ~5,921 |
-| Cleaning Up | 55.00% | ~5,252 |
-| Tanalorr Bound | 55.00% | ~5,252 |
+| Mirror Match | 64.00% | ~6,113 |
+| Skywalker | 63.00% | ~6,017 |
+| Out of Bedlam | 62.00% | ~5,922 |
+| Cleaning Up | 55.00% | ~5,253 |
+| Tanalorr Bound | 55.00% | ~5,253 |
 | Kitted Out | 53.00% | ~5,062 |
-| Tragedy | 52.00% | ~4,966 |
-| At the Precipice | 51.00% | ~4,870 |
-| Hey, Luke At Us | 50.00% | ~4,775 |
+| Tragedy | 52.00% | ~4,967 |
+| At the Precipice | 51.00% | ~4,871 |
+| Hey, Luke At Us | 50.00% | ~4,776 |
 | Into the Abyss | 49.00% | ~4,680 |
-| A Place You Could Call Home | 47.00% | ~4,488 |
-| Riposte | 47.00% | ~4,488 |
+| A Place You Could Call Home | 47.00% | ~4,489 |
+| Riposte | 47.00% | ~4,489 |
 | Greezy Money | 45.00% | ~4,298 |
-| Catch! | 41.00% | ~3,915 |
+| Catch! | 41.00% | ~3,916 |
 | They're Probably Fine | 40.00% | ~3,820 |
-| Han Slowlo | 39.00% | ~3,724 |
+| Han Slowlo | 39.00% | ~3,725 |
 | There Is No Try | 38.00% | ~3,629 |
 | The Jedi Path | 33.00% | ~3,152 |
 | This Is Canon | 30.00% | ~2,865 |
-| It's a Trap | 27.00% | ~2,578 |
-| You've Got A Friend | 23.00% | ~2,196 |
+| It's a Trap | 27.00% | ~2,579 |
+| You've Got A Friend | 23.00% | ~2,197 |
 | King of the World | 17.00% | ~1,624 |
-| Max Capacity | 15.00% | ~1,432 |
-| A Presence I've Not Felt Since... | 15.00% | ~1,432 |
-| Reconnaissance | 15.00% | ~1,432 |
+| Max Capacity | 15.00% | ~1,433 |
+| A Presence I've Not Felt Since... | 15.00% | ~1,433 |
+| Reconnaissance | 15.00% | ~1,433 |
 | Slam Dunk | 12.00% | ~1,146 |
-| Star Tours | 11.00% | ~1,050 |
+| Star Tours | 11.00% | ~1,051 |
 | Caij Match | 10.00% | ~955 |
 | Gambler | 10.00% | ~955 |
 | Growth Spurt | 9.00% | ~860 |
@@ -53,13 +53,13 @@ Rating: 4.50 (Ranked 595)
 | Get Down From There | 5.00% | ~478 |
 | Intergalactic Geographic | 5.00% | ~478 |
 | Blood, Sweat, and Tears | 4.00% | ~382 |
-| So Uncivilized | 3.00% | ~286 |
-| One With the Force | 3.00% | ~286 |
-| Cobra Cal | 3.00% | ~286 |
-| Splurgle | 3.00% | ~286 |
+| So Uncivilized | 3.00% | ~287 |
+| One With the Force | 3.00% | ~287 |
+| Cobra Cal | 3.00% | ~287 |
+| Splurgle | 3.00% | ~287 |
 | Pinpoint | 2.00% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,550 (Ranked 170)  
+Progressed: 9,551 (Ranked 170)  
 Completed: 57 (0.60%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,10 +144,10 @@ Completed: 57 (0.60%) (Ranked 193)
 | 2023-12-07 | 9,386 | 56 |
 | 2023-12-08 | 9,450 | 56 |
 | 2023-12-09 | 9,519 | 57 |
-| 2023-12-10 | 9,550 | 57 |
+| 2023-12-10 | 9,551 | 57 |
 ## Awards
 Max (Great Boss Battles): 3,442  (Ranked 92)  
-Sum: 5,354 (Ranked 136)  
+Sum: 5,356 (Ranked 136)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
@@ -158,7 +158,7 @@ Diff (max vs sum): -44
 | This game has Diverse Characters | 222 |
 | This game is Extremely Fun | 216 |
 | This game is Relaxing | 214 |
-| This game is Highly Recommended | 210 |
+| This game is Highly Recommended | 212 |
 | This game has Challenging Combat | 210 |
 | This game has a Creative Community | 142 |
 ## Ratings History
@@ -388,4 +388,4 @@ Diff (max vs sum): -44
 | 2023-12-07 | 4.50 | 3,413 | 5,312 |
 | 2023-12-08 | 4.50 | 3,426 | 5,332 |
 | 2023-12-09 | 4.50 | 3,433 | 5,345 |
-| 2023-12-10 | 4.50 | 3,442 | 5,354 |
+| 2023-12-10 | 4.50 | 3,442 | 5,356 |

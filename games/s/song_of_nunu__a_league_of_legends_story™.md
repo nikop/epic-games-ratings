@@ -10,8 +10,8 @@ Rating: 4.57 (Ranked 479)
 | Better On Ice | 69.00% | ~765 |
 | Notai Notes | 68.00% | ~754 |
 | Blue Dreams | 67.00% | ~743 |
+| He's Famous! | 67.00% | ~743 |
 | Cutie Poro | 67.00% | ~743 |
-| He's Famous! | 66.00% | ~732 |
 | Krugmazing | 65.00% | ~721 |
 | Moneyball | 61.00% | ~676 |
 | The Fire Below the Mountain | 61.00% | ~676 |

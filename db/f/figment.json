@@ -2,12 +2,12 @@
   "ID": "270e1d648a5e4060b7b441615c4da4d9",
   "Name": "Figment",
   "ProductSlug": "figment",
-  "Ranking_Rating": 652,
-  "Ranking_Popularity": 551,
-  "Ranking_PopularitySum": 552,
+  "Ranking_Rating": 653,
+  "Ranking_Popularity": 552,
+  "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -355,6 +355,6 @@
   "FirstSeen": "2022-07-22T20:26:25.7495486+00:00",
   "LastChanged": "2023-07-11T04:00:12.115645+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:22.1236383+00:00",
-  "LastUpdate_Ratings": "2023-12-10T09:57:41.1891451+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:03:38.6041452+00:00"
+  "LastUpdate_Ratings": "2023-12-10T10:58:02.9668275+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:04:00.364696+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Rain World",
   "ProductSlug": "rain-world-4c860c",
   "Ranking_Rating": 17,
-  "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 559,
+  "Ranking_Popularity": 560,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-01-25T06:00:00+00:00",
@@ -151,6 +151,6 @@
   "FirstSeenRating": "2023-03-31T05:57:25.9902032+00:00",
   "LastChanged": "2023-12-07T01:45:26.148941+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.1900068+00:00",
-  "LastUpdate_Ratings": "2023-12-10T09:59:10.6470489+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:05:25.6093057+00:00"
+  "LastUpdate_Ratings": "2023-12-10T10:59:46.3692+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:05:58.8832253+00:00"
 }

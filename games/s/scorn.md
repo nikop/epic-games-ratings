@@ -1,7 +1,7 @@
 # Scorn
 [Store](https://store.epicgames.com/en-US/p/scorn)  
 [View Rawdata](../../db/s/scorn.json)  
-Rating: 4.46 (Ranked 652)  
+Rating: 4.46 (Ranked 653)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,7 +18,7 @@ Rating: 4.46 (Ranked 652)
 | 011 | 8.00% | ~208 |
 | 012 | 8.00% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,600 (Ranked 217)  
+Progressed: 2,602 (Ranked 217)  
 Completed: 186 (7.15%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,6 +216,7 @@ Completed: 186 (7.15%) (Ranked 58)
 | 2023-12-05 | 2,598 | 184 |
 | 2023-12-06 | 2,600 | 185 |
 | 2023-12-08 | 2,600 | 186 |
+| 2023-12-10 | 2,602 | 186 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -378,9 +378,9 @@
       "ID": "2",
       "SetID": "41h3j82",
       "Name": "Welcome to Barcelona",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "3",
@@ -410,9 +410,9 @@
       "ID": "6",
       "SetID": "41h3j82",
       "Name": "Scooter Race",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "7",
@@ -434,9 +434,9 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 70,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
@@ -451,8 +451,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-10T10:03:06.2297338+00:00",
+  "LastChanged_Achievements": "2023-12-10T11:03:23.8855405+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:26.8638955+00:00",
-  "LastUpdate_Ratings": "2023-12-10T09:59:33.5452242+00:00",
-  "LastUpdate_Achievements": "2023-12-10T10:03:06.2297538+00:00"
+  "LastUpdate_Ratings": "2023-12-10T11:00:13.0456317+00:00",
+  "LastUpdate_Achievements": "2023-12-10T11:03:23.8855662+00:00"
 }
