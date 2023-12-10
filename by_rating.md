@@ -24,7 +24,7 @@
 | 16 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 23 | 534 |
 | 16 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 560 |
 | 24 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.87 | 22 | 542 |
-| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,521 | 132 |
+| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,522 | 132 |
 | 24 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 744 | 182 |
 | 24 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 0 | 560 |
 | 24 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.87 | 0 | 560 |
@@ -178,6 +178,7 @@
 | 172 | [Fez](games/f/fez.md) | 4.73 | 24 | 527 |
 | 172 | [GoNNER](games/g/gonner.md) | 4.73 | 0 | 560 |
 | 172 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 649 | 192 |
+| 172 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 146 | 322 |
 | 172 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 560 |
 | 172 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.73 | 136 | 328 |
 | 172 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 560 |
@@ -187,14 +188,13 @@
 | 172 | [Townscaper](games/t/townscaper.md) | 4.73 | 0 | 560 |
 | 172 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 701 | 188 |
 | 172 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 560 |
-| 188 | [Barony](games/b/barony.md) | 4.72 | 97 | 371 |
-| 188 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 524 | 211 |
-| 188 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 146 | 322 |
-| 188 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.72 | 256 | 270 |
-| 188 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 80 | 392 |
-| 188 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 352 | 243 |
-| 188 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 560 |
-| 188 | [Timberborn](games/t/timberborn.md) | 4.72 | 150 | 321 |
+| 189 | [Barony](games/b/barony.md) | 4.72 | 97 | 371 |
+| 189 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 524 | 211 |
+| 189 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.72 | 256 | 270 |
+| 189 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 80 | 392 |
+| 189 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 352 | 243 |
+| 189 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 560 |
+| 189 | [Timberborn](games/t/timberborn.md) | 4.72 | 150 | 321 |
 | 196 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.71 | 475 | 218 |
 | 196 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 481 |
 | 196 | [GNOG](games/g/gnog.md) | 4.71 | 0 | 560 |
@@ -640,19 +640,19 @@
 | 636 | [First Class Trouble](games/f/first_class_trouble.md) | 4.48 | 145 | 323 |
 | 636 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.48 | 0 | 560 |
 | 636 | [MythForce](games/m/mythforce.md) | 4.48 | 36 | 477 |
+| 636 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 560 |
 | 636 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 560 |
 | 636 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 560 |
-| 643 | [ATOM RPG](games/a/atom_rpg.md) | 4.47 | 52 | 431 |
-| 643 | [Death Coming](games/d/death_coming.md) | 4.47 | 0 | 560 |
-| 643 | [ELEX](games/e/elex.md) | 4.47 | 24 | 527 |
-| 643 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,598 | 90 |
-| 643 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.47 | 0 | 560 |
-| 643 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 560 |
-| 643 | [Riverbond](games/r/riverbond.md) | 4.47 | 20 | 552 |
-| 643 | [Rocket League®](games/r/rocket_league®.md) | 4.47 | 651,342 | 2 |
-| 643 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 560 |
-| 643 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 0 | 560 |
-| 643 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 560 |
+| 644 | [ATOM RPG](games/a/atom_rpg.md) | 4.47 | 52 | 431 |
+| 644 | [Death Coming](games/d/death_coming.md) | 4.47 | 0 | 560 |
+| 644 | [ELEX](games/e/elex.md) | 4.47 | 24 | 527 |
+| 644 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,598 | 90 |
+| 644 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.47 | 0 | 560 |
+| 644 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 560 |
+| 644 | [Riverbond](games/r/riverbond.md) | 4.47 | 20 | 552 |
+| 644 | [Rocket League®](games/r/rocket_league®.md) | 4.47 | 651,342 | 2 |
+| 644 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 560 |
+| 644 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 560 |
 | 654 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.46 | 0 | 560 |
 | 654 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 560 |
 | 654 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,774 | 89 |
@@ -994,7 +994,7 @@
 | 988 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.07 | 0 | 560 |
 | 988 | [Tharsis](games/t/tharsis.md) | 4.07 | 0 | 560 |
 | 994 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,616 | 70 |
-| 994 | [Pinball FX](games/p/pinball_fx.md) | 4.06 | 203 | 289 |
+| 994 | [Pinball FX](games/p/pinball_fx.md) | 4.06 | 204 | 289 |
 | 996 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.05 | 0 | 560 |
 | 996 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 560 |
 | 996 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.05 | 0 | 560 |
