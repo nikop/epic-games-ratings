@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.69% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.68% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -75,12 +75,12 @@
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 74 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.50% |
 | 75 | [JARS](games/j/jars.md) | 4.95% |
-| 76 | [Bugsnax](games/b/bugsnax.md) | 4.85% |
+| 76 | [Bugsnax](games/b/bugsnax.md) | 4.86% |
 | 77 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
 | 77 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
 | 77 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 4.76% |
 | 80 | [ZZT!](games/z/zzt!.md) | 4.66% |
-| 81 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.64% |
+| 81 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.65% |
 | 82 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.54% |
 | 83 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.49% |
 | 84 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.35% |
@@ -110,7 +110,7 @@
 | 108 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.94% |
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 110 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 111 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.80% |
+| 111 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.79% |
 | 112 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 112 | [Night Book](games/n/night_book.md) | 2.78% |
 | 114 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
@@ -125,10 +125,10 @@
 | 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.44% |
 | 124 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 125 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.35% |
-| 126 | [Bloodshore](games/b/bloodshore.md) | 2.22% |
 | 126 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
-| 128 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
-| 129 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.15% |
+| 127 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
+| 127 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
+| 129 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.14% |
 | 130 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 131 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.88% |
 | 132 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.87% |
@@ -153,7 +153,7 @@
 | 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.33% |
 | 152 | [Chorus](games/c/chorus.md) | 1.30% |
 | 152 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
-| 154 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.28% |
+| 154 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.29% |
 | 155 | [Late Shift](games/l/late_shift.md) | 1.27% |
 | 156 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.25% |
 | 156 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
