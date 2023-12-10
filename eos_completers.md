@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.53% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.51% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -69,7 +69,7 @@
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.06% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.78% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.77% |
 | 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
@@ -99,7 +99,7 @@
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
 | 98 | [Destiny 2](games/d/destiny_2.md) | 3.22% |
 | 98 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.22% |
-| 100 | [The Complex](games/t/the_complex.md) | 3.18% |
+| 100 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 101 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 101 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
 | 103 | [Doodle God](games/d/doodle_god.md) | 3.08% |
@@ -110,13 +110,13 @@
 | 108 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.94% |
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 110 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 111 | [Dungeons 4](games/d/dungeons_4.md) | 2.78% |
 | 111 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 111 | [Night Book](games/n/night_book.md) | 2.78% |
+| 113 | [Dungeons 4](games/d/dungeons_4.md) | 2.77% |
 | 114 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 115 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
 | 115 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
-| 117 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.72% |
+| 117 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.71% |
 | 118 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.62% |
 | 119 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.56% |
 | 120 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -147,7 +147,7 @@
 | 145 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.47% |
 | 145 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
 | 147 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.43% |
-| 148 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.37% |
+| 148 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.35% |
 | 149 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.34% |
 | 149 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.34% |
 | 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.32% |
