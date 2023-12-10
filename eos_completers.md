@@ -130,9 +130,9 @@
 | 127 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
 | 129 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.14% |
 | 130 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
-| 131 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.88% |
-| 131 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.88% |
-| 133 | [Somerville](games/s/somerville.md) | 1.86% |
+| 130 | [Somerville](games/s/somerville.md) | 1.92% |
+| 132 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.88% |
+| 132 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.88% |
 | 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.84% |
 | 135 | [Sifu](games/s/sifu.md) | 1.80% |
 | 136 | [Frogun](games/f/frogun.md) | 1.77% |
@@ -144,7 +144,7 @@
 | 141 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.56% |
 | 143 | [Five Dates](games/f/five_dates.md) | 1.53% |
 | 144 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.52% |
-| 144 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.52% |
+| 145 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.49% |
 | 146 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
 | 147 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.43% |
 | 148 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.37% |
