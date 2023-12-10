@@ -6,17 +6,17 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~52,766 |
-| INFUSED WITH LIGHT | 53.00% | ~40,531 |
-| FOXIN' AROUND | 29.00% | ~22,177 |
-| FETCH | 28.00% | ~21,412 |
-| BLOOMS OF LIGHT | 26.00% | ~19,883 |
-| AWAKEN | 22.00% | ~16,824 |
-| BEST FRIENDS | 22.00% | ~16,824 |
-| ERADICATE | 21.00% | ~16,059 |
-| SPIRIT BARK | 21.00% | ~16,059 |
-| GARDEN OF LIGHT | 18.00% | ~13,765 |
-| SPIRIT FORM | 17.00% | ~13,000 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~52,768 |
+| INFUSED WITH LIGHT | 53.00% | ~40,532 |
+| FOXIN' AROUND | 29.00% | ~22,178 |
+| FETCH | 28.00% | ~21,413 |
+| BLOOMS OF LIGHT | 26.00% | ~19,884 |
+| AWAKEN | 22.00% | ~16,825 |
+| BEST FRIENDS | 22.00% | ~16,825 |
+| ERADICATE | 21.00% | ~16,060 |
+| SPIRIT BARK | 21.00% | ~16,060 |
+| GARDEN OF LIGHT | 18.00% | ~13,766 |
+| SPIRIT FORM | 17.00% | ~13,001 |
 | UPROOTING DARKNESS | 16.00% | ~12,236 |
 | WRITTEN IN STONE | 16.00% | ~12,236 |
 | WEIGHTLESS | 12.00% | ~9,177 |
@@ -28,10 +28,10 @@ Number of Ratings: 1,175  (23.09.2022)
 | SPIRITED AWAY | 8.00% | ~6,118 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~3,059 |
 | ANCIENT HISTORY | 3.00% | ~2,294 |
-| NONE FORGOTTEN | 2.00% | ~1,529 |
+| NONE FORGOTTEN | 2.00% | ~1,530 |
 | KINDRED SPIRITS | 0.60% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,473 (Ranked 100)  
+Progressed: 76,476 (Ranked 100)  
 Completed: 410 (0.54%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 410 (0.54%) (Ranked 204)
 | 2023-12-07 | 76,208 | 409 |
 | 2023-12-08 | 76,296 | 409 |
 | 2023-12-09 | 76,412 | 410 |
-| 2023-12-10 | 76,473 | 410 |
+| 2023-12-10 | 76,476 | 410 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 521)  
 Sum: 115 (Ranked 446)  

@@ -6,52 +6,52 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 79.00% | ~51,134 |
-| Initial Capital | 66.00% | ~42,719 |
-| Moneybags | 43.00% | ~27,832 |
-| Junior Supply Officer | 43.00% | ~27,832 |
-| Naval Warfare. Arson | 33.00% | ~21,360 |
-| Naval Warfare. Ramming | 32.00% | ~20,712 |
-| Amateur | 30.00% | ~19,418 |
-| Naval Warfare. Tactics | 30.00% | ~19,418 |
-| Naval Constructor | 30.00% | ~19,418 |
-| Naval Warfare. Weaponry Basics | 22.00% | ~14,240 |
-| Naval Warfare. Lucky Shot | 19.00% | ~12,298 |
-| Naval Warfare. Flooding | 18.00% | ~11,651 |
-| Business Magnate | 16.00% | ~10,356 |
-| Battle Hero | 15.00% | ~9,709 |
-| Warrior | 12.00% | ~7,767 |
-| Supply Officer | 12.00% | ~7,767 |
-| Smooth Supply | 12.00% | ~7,767 |
-| Veteran | 7.00% | ~4,531 |
-| Legend of the Seas | 3.00% | ~1,942 |
-| Chief Naval Architect | 3.00% | ~1,942 |
-| Important Missions | 3.00% | ~1,942 |
-| Shield | 3.00% | ~1,942 |
+| Junior Naval Designer | 79.00% | ~51,167 |
+| Initial Capital | 66.00% | ~42,747 |
+| Moneybags | 43.00% | ~27,850 |
+| Junior Supply Officer | 43.00% | ~27,850 |
+| Naval Warfare. Arson | 33.00% | ~21,373 |
+| Naval Warfare. Ramming | 32.00% | ~20,726 |
+| Amateur | 30.00% | ~19,430 |
+| Naval Warfare. Tactics | 30.00% | ~19,430 |
+| Naval Constructor | 30.00% | ~19,430 |
+| Naval Warfare. Weaponry Basics | 22.00% | ~14,249 |
+| Naval Warfare. Lucky Shot | 19.00% | ~12,306 |
+| Naval Warfare. Flooding | 18.00% | ~11,658 |
+| Business Magnate | 16.00% | ~10,363 |
+| Battle Hero | 15.00% | ~9,715 |
+| Warrior | 12.00% | ~7,772 |
+| Supply Officer | 12.00% | ~7,772 |
+| Smooth Supply | 12.00% | ~7,772 |
+| Veteran | 7.00% | ~4,534 |
+| Legend of the Seas | 3.00% | ~1,943 |
+| Chief Naval Architect | 3.00% | ~1,943 |
+| Important Missions | 3.00% | ~1,943 |
+| Shield | 3.00% | ~1,943 |
 | Senior Supply Officer | 2.00% | ~1,295 |
 | "Science of Victory" | 2.00% | ~1,295 |
 | Weather Beaten | 2.00% | ~1,295 |
 | Guardian | 2.00% | ~1,295 |
-| Bane of the Oceans | 1.00% | ~647 |
-| Old-Timer | 1.00% | ~647 |
-| Special Orders | 1.00% | ~647 |
-| Protector | 1.00% | ~647 |
-| Exterminator | 1.00% | ~647 |
-| American Cruisers | 1.00% | ~647 |
+| Bane of the Oceans | 1.00% | ~648 |
+| Old-Timer | 1.00% | ~648 |
+| Special Orders | 1.00% | ~648 |
+| Protector | 1.00% | ~648 |
+| Exterminator | 1.00% | ~648 |
+| American Cruisers | 1.00% | ~648 |
 | Secret Instructions | 0.70% | ~453 |
-| Raider | 0.60% | ~388 |
+| Raider | 0.60% | ~389 |
 | Experienced One | 0.50% | ~324 |
 | Ravager | 0.30% | ~194 |
 | "Yamamoto Isoroku" | 0.30% | ~194 |
 | "Yamamoto Isoroku" | 0.30% | ~194 |
-| "Honorable Service" | 0.20% | ~129 |
-| Hit Hard! Hit Fast! Hit Often! | 0.20% | ~129 |
+| "Honorable Service" | 0.20% | ~130 |
+| Hit Hard! Hit Fast! Hit Often! | 0.20% | ~130 |
 | "Science of Victory" with Honors | 0.10% | ~65 |
 | "Honorable Service" with Honors | 0.10% | ~65 |
 | "Yamamoto Isoroku" with Honors | 0.10% | ~65 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,726 (Ranked 107)  
+Progressed: 64,768 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,10 +170,10 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-07 | 63,199 | 0 |
 | 2023-12-08 | 63,732 | 0 |
 | 2023-12-09 | 64,368 | 0 |
-| 2023-12-10 | 64,726 | 0 |
+| 2023-12-10 | 64,768 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,580  (Ranked 130)  
-Sum: 13,222 (Ranked 78)  
+Sum: 13,226 (Ranked 78)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -184,7 +184,7 @@ Diff (max vs sum): 52
 | This game is Extremely Fun | 1,531 |
 | This game is Highly Recommended | 1,520 |
 | This game has Realistic Visuals | 1,374 |
-| This game has Amazing Storytelling | 1,306 |
+| This game has Amazing Storytelling | 1,310 |
 | This game has a Competitive Community | 1,239 |
 | This game has Amazing Characters | 942 |
 ## Ratings History
@@ -522,4 +522,4 @@ Diff (max vs sum): 52
 | 2023-12-07 | 4.41 | - | 1,572 | 13,149 |
 | 2023-12-08 | 4.41 | - | 1,573 | 13,183 |
 | 2023-12-09 | 4.41 | - | 1,577 | 13,209 |
-| 2023-12-10 | 4.41 | - | 1,580 | 13,222 |
+| 2023-12-10 | 4.41 | - | 1,580 | 13,226 |

@@ -10,10 +10,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.40% | ~957 |
 | Beast Intentions | 0.30% | ~718 |
 | The Mad Wizard | 0.30% | ~718 |
-| Were-verpowered | 0.20% | ~478 |
-| The Ring of Regeneration | 0.20% | ~478 |
-| Seeking Allies | 0.20% | ~478 |
-| Are Ya Chicken? | 0.20% | ~478 |
+| Were-verpowered | 0.20% | ~479 |
+| The Ring of Regeneration | 0.20% | ~479 |
+| Seeking Allies | 0.20% | ~479 |
+| Are Ya Chicken? | 0.20% | ~479 |
 | The Beginning is the End | 0.20% | ~411 |
 | The End is the Beginning | 0.20% | ~411 |
 | Maddening | 0.10% | ~239 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~206 |
 | See You on the Flipside | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,250 (Ranked 65)  
+Progressed: 239,257 (Ranked 65)  
 Completed: 2,511 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -773,7 +773,7 @@ Completed: 2,511 (1.05%) (Ranked 167)
 | 2023-12-07 | 238,772 | 2,504 |
 | 2023-12-08 | 238,975 | 2,506 |
 | 2023-12-09 | 239,141 | 2,510 |
-| 2023-12-10 | 239,250 | 2,511 |
+| 2023-12-10 | 239,257 | 2,511 |
 ## Awards
 Max (Great for Beginners): 5,612  (Ranked 70)  
 Sum: 32,802 (Ranked 41)  

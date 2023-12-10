@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1999,
+  "EOS_Progressed": 2001,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7603,6 +7603,11 @@
       "Time": "2023-12-10T13:09:57.1577203+00:00",
       "NumProgressed": 1999,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T14:05:33.2562998+00:00",
+      "NumProgressed": 2001,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7684,9 +7689,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 100
     },
     {
       "ID": "objective_headquarters_10",
@@ -7820,9 +7825,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -7884,9 +7889,9 @@
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Titan Tanks",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 20
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -7917,7 +7922,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1999,
+      "Progressed": 2001,
       "Completed": 1
     }
   ],
@@ -7925,8 +7930,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-10T13:09:57.1577199+00:00",
+  "LastChanged_Achievements": "2023-12-10T14:05:33.2562997+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:01:10.6479209+00:00",
-  "LastUpdate_Achievements": "2023-12-10T13:09:57.1577807+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:58:16.7704829+00:00",
+  "LastUpdate_Achievements": "2023-12-10T14:05:33.2563557+00:00"
 }

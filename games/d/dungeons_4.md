@@ -41,8 +41,8 @@
 | The Finitude Drill | 28.00% | ~151 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~146 |
 | Hungry, Hungry Gorgu! | 26.00% | ~140 |
+| Doom Hill | 26.00% | ~140 |
 | Stop Tanos! | 25.00% | ~135 |
-| Doom Hill | 25.00% | ~135 |
 | Brimstone Shaken, Not Stirred | 24.00% | ~130 |
 | Sabotage! | 23.00% | ~124 |
 | Raiders of the Lost Stone | 22.00% | ~119 |

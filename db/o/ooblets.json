@@ -2,12 +2,12 @@
   "ID": "413361d2d5db4912ac2dfbcf27a38141",
   "Name": "Ooblets",
   "ProductSlug": "ooblets",
-  "Ranking_Rating": 17,
+  "Ranking_Rating": 16,
   "Ranking_Popularity": 151,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-01T13:00:00+00:00",
@@ -1971,6 +1971,6 @@
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
   "LastChanged": "2023-12-10T00:00:44.4237677+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.629506+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:02:04.9865728+00:00",
-  "LastUpdate_Achievements": "2023-12-10T13:11:08.1993323+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:58:51.3424702+00:00",
+  "LastUpdate_Achievements": "2023-12-10T14:06:21.1907148+00:00"
 }

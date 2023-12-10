@@ -2,7 +2,7 @@
   "ID": "2a535f0e7c754dbe9157bf96adc62d56",
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
-  "Ranking_EOS_Progress": 244,
+  "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 119,
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1557,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -5065,9 +5065,9 @@
       "ID": "achievement_42",
       "SetID": "b9pe172",
       "Name": "No One Left Behind",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 311
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_43",
@@ -5581,8 +5581,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-10T13:12:53.5123559+00:00",
+  "LastChanged_Achievements": "2023-12-10T14:09:14.9579985+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.2992366+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:06:09.6175903+00:00",
-  "LastUpdate_Achievements": "2023-12-10T13:12:53.5125103+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:02:56.3548864+00:00",
+  "LastUpdate_Achievements": "2023-12-10T14:09:14.9581498+00:00"
 }

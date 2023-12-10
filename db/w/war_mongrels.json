@@ -2,12 +2,12 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
-  "Ranking_Rating": 778,
+  "Ranking_Rating": 779,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -2759,8 +2759,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-10T13:13:19.9830157+00:00",
+  "LastChanged_Achievements": "2023-12-10T14:09:33.6295803+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.83707+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:03:54.0099773+00:00",
-  "LastUpdate_Achievements": "2023-12-10T13:13:19.9830574+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:00:01.9723067+00:00",
+  "LastUpdate_Achievements": "2023-12-10T14:09:33.6296227+00:00"
 }

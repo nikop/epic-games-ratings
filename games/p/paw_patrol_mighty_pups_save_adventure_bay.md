@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mighty Powers | 80.00% | ~36 |
-| Grand Re-Opening | 67.00% | ~30 |
+| Grand Re-Opening | 69.00% | ~31 |
 | Pup Pup Boogie | 64.00% | ~29 |
 | Summer Day | 62.00% | ~28 |
 | Mr. Porter | 53.00% | ~24 |

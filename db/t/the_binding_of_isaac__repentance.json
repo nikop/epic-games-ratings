@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-03-31T07:00:00+00:00",
@@ -5386,10 +5386,16 @@
       "Rating": 4.9,
       "NumberOfAwards": 9151,
       "NumberOfAwardsMax": 1959
+    },
+    {
+      "Time": "2023-12-10T13:59:45.6328115+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 9153,
+      "NumberOfAwardsMax": 1959
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9151,
+  "NumberOfAwards": 9153,
   "NumberOfAwardsMax": 1959,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5421,7 +5427,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 639
+      "Count": 641
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5483,8 +5489,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2023-12-09T20:59:39.1062736+00:00",
+  "LastChanged": "2023-12-10T13:59:45.6328115+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:18.7783353+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:03:27.9058075+00:00",
-  "LastUpdate_Achievements": "2023-12-10T13:08:43.4332266+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:59:45.6328119+00:00",
+  "LastUpdate_Achievements": "2023-12-10T14:04:41.599644+00:00"
 }

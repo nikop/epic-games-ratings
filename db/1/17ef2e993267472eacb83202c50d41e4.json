@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8694,
+  "EOS_Progressed": 8695,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8409,6 +8409,11 @@
       "Time": "2023-12-10T13:13:24.4692642+00:00",
       "NumProgressed": 8694,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T14:09:37.2320261+00:00",
+      "NumProgressed": 8695,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8469,7 +8474,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "CreditsSpent50000",
@@ -8533,7 +8538,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "GamesPlayed1",
@@ -8613,7 +8618,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "HAUpgraded1",
@@ -8637,7 +8642,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "HSUPurchased1",
@@ -8685,7 +8690,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "InhibitorKills3",
@@ -8789,7 +8794,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "MaxTowersKilled6",
@@ -9012,7 +9017,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8694,
+      "Progressed": 8695,
       "Completed": 1
     }
   ],
@@ -9020,8 +9025,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-05T02:57:10.0290174+00:00",
-  "LastChanged_Achievements": "2023-12-10T13:13:24.4692638+00:00",
+  "LastChanged_Achievements": "2023-12-10T14:09:37.2320259+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.1858441+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:03:46.9223412+00:00",
-  "LastUpdate_Achievements": "2023-12-10T13:13:24.4693455+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:59:57.6823842+00:00",
+  "LastUpdate_Achievements": "2023-12-10T14:09:37.2321371+00:00"
 }

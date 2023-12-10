@@ -20,10 +20,10 @@
 | Drunken Master | 74.00% | ~135 |
 | V.I.P. Cemetery | 72.00% | ~131 |
 | Woodcutter | 71.00% | ~129 |
+| Architect of Darkness | 71.00% | ~129 |
 | Top of the World | 70.00% | ~127 |
 | Takeover | 70.00% | ~127 |
 | Sharpshooter | 70.00% | ~127 |
-| Architect of Darkness | 70.00% | ~127 |
 | The Apotheosis of War | 68.00% | ~124 |
 | Stasis Alcatraz | 68.00% | ~124 |
 | Tastes Like Chicken | 64.00% | ~116 |

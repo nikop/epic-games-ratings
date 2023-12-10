@@ -1,23 +1,23 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.86 (Ranked 33)  
+Rating: 4.86 (Ranked 32)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,921 |
-| keep it tidy | 78.00% | ~8,061 |
-| podium | 72.00% | ~7,440 |
-| medium attack | 60.00% | ~6,200 |
-| brail | 57.00% | ~5,890 |
-| good drivers have dead flies on the side windows | 44.00% | ~4,547 |
+| light attack | 96.00% | ~9,923 |
+| keep it tidy | 78.00% | ~8,062 |
+| podium | 72.00% | ~7,442 |
+| medium attack | 60.00% | ~6,202 |
+| brail | 57.00% | ~5,892 |
+| good drivers have dead flies on the side windows | 44.00% | ~4,548 |
 | grocery-getter | 40.00% | ~4,134 |
-| rwd only | 27.00% | ~2,790 |
-| food tour: pasta | 27.00% | ~2,790 |
-| to finish first, first you must finish | 22.00% | ~2,273 |
-| autopilot | 22.00% | ~2,273 |
-| you can't treat a car like a human being. a car requires love | 22.00% | ~2,273 |
+| rwd only | 27.00% | ~2,791 |
+| food tour: pasta | 27.00% | ~2,791 |
+| to finish first, first you must finish | 22.00% | ~2,274 |
+| autopilot | 22.00% | ~2,274 |
+| you can't treat a car like a human being. a car requires love | 22.00% | ~2,274 |
 | turbo | 20.00% | ~2,067 |
 | food tour: pretzel | 20.00% | ~2,067 |
 | bicycle race | 15.00% | ~1,550 |
@@ -27,16 +27,16 @@ Number of Ratings: 56  (23.09.2022)
 | night ride | 14.00% | ~1,447 |
 | the artist | 14.00% | ~1,447 |
 | snorkel | 14.00% | ~1,447 |
-| where is the stage? | 13.00% | ~1,343 |
+| where is the stage? | 13.00% | ~1,344 |
 | maximum attack | 11.00% | ~1,137 |
-| espresso | 10.00% | ~1,033 |
-| parallel universe | 10.00% | ~1,033 |
+| espresso | 10.00% | ~1,034 |
+| parallel universe | 10.00% | ~1,034 |
 | mittens | 8.00% | ~827 |
 | samir | 8.00% | ~827 |
-| eurobeat | 7.00% | ~723 |
-| viking | 7.00% | ~723 |
-| master of rally | 7.00% | ~723 |
-| antilag | 7.00% | ~723 |
+| eurobeat | 7.00% | ~724 |
+| viking | 7.00% | ~724 |
+| master of rally | 7.00% | ~724 |
+| antilag | 7.00% | ~724 |
 | parking lot | 6.00% | ~620 |
 | oktoberfest | 6.00% | ~620 |
 | in like a lamb, out like a lion | 6.00% | ~620 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,334 (Ranked 166)  
+Progressed: 10,336 (Ranked 166)  
 Completed: 10 (0.10%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,6 +215,7 @@ Completed: 10 (0.10%) (Ranked 291)
 | 2023-12-03 | 10,333 | 9 |
 | 2023-12-04 | 10,334 | 9 |
 | 2023-12-07 | 10,334 | 10 |
+| 2023-12-10 | 10,336 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

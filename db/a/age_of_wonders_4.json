@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 388,
+  "Ranking_Rating": 370,
   "Ranking_Popularity": 477,
-  "Ranking_PopularitySum": 460,
+  "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-05-02T18:59:30.6410122+00:00",
@@ -511,10 +511,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 90,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-12-10T13:58:27.8110874+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 91,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 90,
+  "NumberOfAwards": 91,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -528,7 +534,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8365,9 +8371,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-12-08T22:57:52.6860138+00:00",
-  "LastChanged_Achievements": "2023-12-10T13:07:47.5279666+00:00",
+  "LastChanged": "2023-12-10T13:58:27.8110872+00:00",
+  "LastChanged_Achievements": "2023-12-10T14:04:03.0388258+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.604119+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:01:27.6332779+00:00",
-  "LastUpdate_Achievements": "2023-12-10T13:07:47.5280311+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:58:27.8110876+00:00",
+  "LastUpdate_Achievements": "2023-12-10T14:04:03.0389097+00:00"
 }

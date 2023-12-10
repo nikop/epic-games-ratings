@@ -96,6 +96,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bountiful Harvest | 1.00% | ~1,446 |
 | Precision Engineering | 1.00% | ~1,446 |
 | Scourge of the Seas | 1.00% | ~1,446 |
+| Eternal Crusade | 1.00% | ~1,446 |
 | Treasure Trove | 1.00% | ~1,446 |
 | Moment of Respite | 1.00% | ~1,446 |
 | King's Shadow | 1.00% | ~1,446 |
@@ -104,7 +105,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 1.00% | ~1,446 |
 | King's Blade | 1.00% | ~1,446 |
 | The Free Encyclopedia | 0.90% | ~1,301 |
-| Eternal Crusade | 0.90% | ~1,301 |
 | The Greatest Grind | 0.70% | ~1,012 |
 | All or Nothing! | 0.70% | ~1,012 |
 | Anything not Nailed Down | 0.60% | ~868 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~434 |
 | Capitalist Camaraderie | 0.20% | ~289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,597 (Ranked 80)  
-Completed: 292 (0.20%) (Ranked 258)  
+Progressed: 144,601 (Ranked 80)  
+Completed: 293 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -353,7 +353,7 @@ Completed: 292 (0.20%) (Ranked 258)
 | 2023-12-07 | 144,162 | 291 |
 | 2023-12-08 | 144,354 | 291 |
 | 2023-12-09 | 144,503 | 291 |
-| 2023-12-10 | 144,597 | 292 |
+| 2023-12-10 | 144,601 | 293 |
 ## Awards
 Max (Great for Beginners): 4,871  (Ranked 75)  
 Sum: 27,680 (Ranked 50)  

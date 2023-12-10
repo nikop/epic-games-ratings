@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 15490,
+  "EOS_Progressed": 15494,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 830,
+  "EOS_NewPlayers": 831,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13085,6 +13085,11 @@
       "Time": "2023-12-10T13:12:33.9803127+00:00",
       "NumProgressed": 15490,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-10T14:09:01.1801254+00:00",
+      "NumProgressed": 15494,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -13145,7 +13150,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6506
+      "UsersEstimate": 6507
     },
     {
       "ID": "a_19",
@@ -13153,7 +13158,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "a_2",
@@ -13161,7 +13166,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "a_20",
@@ -13169,7 +13174,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "a_21",
@@ -13177,7 +13182,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "a_22",
@@ -13193,7 +13198,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "a_25",
@@ -13201,7 +13206,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "a_26",
@@ -13344,7 +13349,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 15490,
+      "Progressed": 15494,
       "Completed": 12
     }
   ],
@@ -13352,8 +13357,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-10T13:12:33.9803124+00:00",
+  "LastChanged_Achievements": "2023-12-10T14:09:01.180125+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:11.7677951+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:00:06.5272639+00:00",
-  "LastUpdate_Achievements": "2023-12-10T13:12:33.9803768+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:57:35.0974185+00:00",
+  "LastUpdate_Achievements": "2023-12-10T14:09:01.1801959+00:00"
 }

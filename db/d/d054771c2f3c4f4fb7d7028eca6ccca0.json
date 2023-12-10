@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1580,
+  "EOS_Progressed": 1584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 765,
+  "EOS_NewPlayers": 760,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1154,6 +1154,11 @@
       "Time": "2023-12-10T13:08:21.784166+00:00",
       "NumProgressed": 1580,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T14:04:26.8632352+00:00",
+      "NumProgressed": 1584,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1174,7 +1179,7 @@
       "Name": "Done for Today",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -1230,7 +1235,7 @@
       "Name": "Terrible Journey",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -1278,7 +1283,7 @@
       "Name": "High Level Mastery",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1541,14 +1546,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1580,
+      "Progressed": 1584,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-10T13:08:21.7841656+00:00",
+  "LastChanged_Achievements": "2023-12-10T14:04:26.863235+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:03:26.0467372+00:00",
-  "LastUpdate_Achievements": "2023-12-10T13:08:21.7842046+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:59:44.4439491+00:00",
+  "LastUpdate_Achievements": "2023-12-10T14:04:26.8632677+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 25,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,9 +216,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 920,
+  "EOS_Progressed": 922,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2281,6 +2281,11 @@
       "Time": "2023-12-10T13:07:23.0046172+00:00",
       "NumProgressed": 920,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T14:03:45.8748371+00:00",
+      "NumProgressed": 922,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2333,7 +2338,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "BreakTheLoop",
@@ -2381,7 +2386,7 @@
       "Name": "Desolate Island",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Discovery",
@@ -2389,7 +2394,7 @@
       "Name": "Discovery",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "EasternWetlands",
@@ -2445,7 +2450,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "HighPlain",
@@ -2461,7 +2466,7 @@
       "Name": "Into the Machine",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "JustOneLap",
@@ -2469,7 +2474,7 @@
       "Name": "Just One Lap",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "LordOfTheFiles",
@@ -2485,7 +2490,7 @@
       "Name": "Lost Marshes",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "MistressOfRiddles",
@@ -2515,9 +2520,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 129
     },
     {
       "ID": "NewBeginning",
@@ -2541,7 +2546,7 @@
       "Name": "Not What It Seems",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Overload",
@@ -2643,9 +2648,9 @@
       "ID": "TextAdventurer",
       "SetID": "1n308hc",
       "Name": "Text Adventurer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TheAllGifted",
@@ -2683,17 +2688,17 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 148
     },
     {
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 138
     },
     {
       "ID": "TheWordEndures",
@@ -2707,9 +2712,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 129
     },
     {
       "ID": "TrevorsBiographer",
@@ -2757,14 +2762,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 920,
+      "Progressed": 922,
       "Completed": 1
     }
   ],
@@ -2772,8 +2777,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-10T13:07:23.0046169+00:00",
+  "LastChanged_Achievements": "2023-12-10T14:03:45.8748368+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:00:37.2024867+00:00",
-  "LastUpdate_Achievements": "2023-12-10T13:07:23.0046591+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:57:55.18858+00:00",
+  "LastUpdate_Achievements": "2023-12-10T14:03:45.8748918+00:00"
 }

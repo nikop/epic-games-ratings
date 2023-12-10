@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1827,9 +1827,9 @@
       "ID": "ach_main16ring_completed",
       "SetID": "4hg22ll",
       "Name": "Doom Hill",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 140
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -1954,8 +1954,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-10T13:06:48.8552121+00:00",
+  "LastChanged_Achievements": "2023-12-10T14:03:22.8543018+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:01:30.3517814+00:00",
-  "LastUpdate_Achievements": "2023-12-10T13:06:48.8552553+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:58:29.5645548+00:00",
+  "LastUpdate_Achievements": "2023-12-10T14:03:22.8543453+00:00"
 }

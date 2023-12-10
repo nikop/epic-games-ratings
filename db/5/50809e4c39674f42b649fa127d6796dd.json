@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 443,
+  "EOS_Progressed": 444,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1117,6 +1117,11 @@
       "Time": "2023-12-10T09:05:20.7611116+00:00",
       "NumProgressed": 443,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T14:05:15.6419554+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1137,7 +1142,7 @@
       "Name": "Kronos Island Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND2",
@@ -1217,7 +1222,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1233,15 +1238,15 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 200
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1441,21 +1446,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 443,
+      "Progressed": 444,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-10T13:09:32.0166754+00:00",
+  "LastChanged_Achievements": "2023-12-10T14:05:15.6419552+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:05:56.1752967+00:00",
-  "LastUpdate_Achievements": "2023-12-10T13:09:32.0166988+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:02:47.7577017+00:00",
+  "LastUpdate_Achievements": "2023-12-10T14:05:15.6419867+00:00"
 }

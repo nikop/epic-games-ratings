@@ -23,8 +23,8 @@ Number of Ratings: 58  (23.09.2022)
 | Born to Drift | 51.00% | ~665 |
 | Relentless | 48.00% | ~625 |
 | The Path Forward | 45.00% | ~586 |
+| Phoenix | 44.00% | ~573 |
 | Disruption | 43.00% | ~560 |
-| Phoenix | 43.00% | ~560 |
 | Cult Slayer | 41.00% | ~534 |
 | Origin | 40.00% | ~521 |
 | It Was An Accident | 40.00% | ~521 |
@@ -242,8 +242,8 @@ Completed: 17 (1.30%) (Ranked 152)
 | 2023-12-03 | 1,303 | 17 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 485)  
-Sum: 34 (Ranked 510)  
-Diff (max vs sum): -25  
+Sum: 34 (Ranked 511)  
+Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 34 |

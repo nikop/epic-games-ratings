@@ -2,12 +2,12 @@
   "ID": "1368a7f14c3344bbaededbae528fafed",
   "Name": "Dead Cells",
   "ProductSlug": "dead-cells",
-  "Ranking_Rating": 17,
+  "Ranking_Rating": 16,
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-10-22T15:00:00+00:00",
@@ -3335,10 +3335,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 2542,
       "NumberOfAwardsMax": 305
+    },
+    {
+      "Time": "2023-12-10T14:00:16.658033+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 2545,
+      "NumberOfAwardsMax": 305
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2542,
+  "NumberOfAwards": 2545,
   "NumberOfAwardsMax": 305,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3358,7 +3364,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 262
+      "Count": 264
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3382,7 +3388,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 259
+      "Count": 260
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3426,8 +3432,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-12-09T15:59:41.4674554+00:00",
+  "LastChanged": "2023-12-10T14:00:16.6580328+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:41.5612316+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:04:16.2647766+00:00",
-  "LastUpdate_Achievements": "2023-12-10T13:10:29.7798055+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:00:16.6580333+00:00",
+  "LastUpdate_Achievements": "2023-12-10T14:05:55.2840077+00:00"
 }

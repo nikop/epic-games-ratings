@@ -93,11 +93,11 @@
 | Problem Solver | 22.00% | ~343 |
 | Under Pressure | 21.00% | ~327 |
 | Last Resort | 21.00% | ~327 |
+| No One Left Behind | 21.00% | ~327 |
 | Saboteur | 21.00% | ~327 |
 | Last Witness | 21.00% | ~327 |
 | Well Connected | 21.00% | ~327 |
 | Pyromaniac | 20.00% | ~311 |
-| No One Left Behind | 20.00% | ~311 |
 | Executioner | 19.00% | ~296 |
 | Patriot | 19.00% | ~296 |
 | Legend | 19.00% | ~296 |
@@ -132,7 +132,7 @@
 | The One and Only | 1.00% | ~16 |
 | Insanity III | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,557 (Ranked 244)  
+Progressed: 1,557 (Ranked 245)  
 Completed: 7 (0.45%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |

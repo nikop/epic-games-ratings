@@ -4,12 +4,13 @@
 Rating: 4.71 (Ranked 197)  
 ## Awards
 Max (Relaxing): 20  (Ranked 552)  
-Sum: 20 (Ranked 553)  
-Diff (max vs sum): -1  
+Sum: 40 (Ranked 501)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |
 | This game is Relaxing | 20 |
+| This game is Great for Beginners | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -75,4 +76,4 @@ Diff (max vs sum): -1
 | 2023-07-15 | 4.71 | 209 | 209 |
 | 2023-07-19 | 4.71 | 214 | 214 |
 | 2023-07-21 | 4.71 | 215 | 215 |
-| 2023-12-10 | 4.71 | 20 | 20 |
+| 2023-12-10 | 4.71 | 20 | 40 |

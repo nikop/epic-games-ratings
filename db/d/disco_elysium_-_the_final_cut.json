@@ -2,7 +2,7 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
-  "Ranking_Rating": 25,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 183,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 83,
@@ -1532,7 +1532,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131811,
+  "EOS_Progressed": 131813,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
@@ -24302,6 +24302,11 @@
       "Time": "2023-12-10T13:08:36.554865+00:00",
       "NumProgressed": 131811,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-10T14:04:36.9657282+00:00",
+      "NumProgressed": 131813,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24313,7 +24318,7 @@
       "Name": "Baddest Brow in Town",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "ACH_CAUSE_SHITSTORM",
@@ -24393,7 +24398,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36907
+      "UsersEstimate": 36908
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -24409,7 +24414,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5272
+      "UsersEstimate": 5273
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -24425,7 +24430,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27680
+      "UsersEstimate": 27681
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -24441,7 +24446,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17135
+      "UsersEstimate": 17136
     },
     {
       "ID": "ACH_COP_STAR",
@@ -24609,7 +24614,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5272
+      "UsersEstimate": 5273
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -24632,15 +24637,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131811,
+      "Progressed": 131813,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-09T07:57:19.028339+00:00",
-  "LastChanged_Achievements": "2023-12-10T13:08:36.5548646+00:00",
+  "LastChanged_Achievements": "2023-12-10T14:04:36.965728+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:13.3373755+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:00:30.0079169+00:00",
-  "LastUpdate_Achievements": "2023-12-10T13:08:36.5549928+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:57:50.5169797+00:00",
+  "LastUpdate_Achievements": "2023-12-10T14:04:36.9658588+00:00"
 }

@@ -14,8 +14,8 @@
 | Destroy Erase Improve | 67.00% | ~129 |
 | Power Overload | 64.00% | ~123 |
 | Quite A Snack | 61.00% | ~117 |
-| Impenetrable Skin | 57.00% | ~109 |
-| Overwhelming Power | 55.00% | ~106 |
+| Impenetrable Skin | 58.00% | ~111 |
+| Overwhelming Power | 56.00% | ~108 |
 | Chomp Chomp! | 47.00% | ~90 |
 | Supreme Power | 46.00% | ~88 |
 | The Duelist | 44.00% | ~84 |
