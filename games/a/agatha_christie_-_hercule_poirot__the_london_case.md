@@ -34,19 +34,19 @@
 | Bartholomew | 28.00% | ~11 |
 | The Scheme | 28.00% | ~11 |
 | A curious phrase | 23.00% | ~9 |
+| Evelyn Lakshmi Warbeck | 23.00% | ~9 |
 | The Suspects | 23.00% | ~9 |
-| Evelyn Lakshmi Warbeck | 21.00% | ~8 |
+| Horace Mountjoy | 18.00% | ~7 |
 | Johan Kristiansen | 18.00% | ~7 |
-| Horace Mountjoy | 15.00% | ~6 |
-| The Secrets | 15.00% | ~6 |
-| Well-travelled | 13.00% | ~5 |
-| A peculiar fellow | 13.00% | ~5 |
+| The Secrets | 18.00% | ~7 |
+| Well-travelled | 15.00% | ~6 |
+| A peculiar fellow | 15.00% | ~6 |
+| Mortimer Ailsworth | 15.00% | ~6 |
+| A perilous journey | 13.00% | ~5 |
 | Florence Farquhar | 13.00% | ~5 |
-| Mortimer Ailsworth | 13.00% | ~5 |
 | The Investigation Starts Anew | 13.00% | ~5 |
 | The Denouement | 10.00% | ~4 |
 | A treasured heirloom | 10.00% | ~4 |
-| A perilous journey | 10.00% | ~4 |
 | The Penitent Magdalene | 10.00% | ~4 |
 | A true performance | 10.00% | ~4 |
 | Perkins | 8.00% | ~3 |

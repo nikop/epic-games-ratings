@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -913,9 +913,9 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 11323,
+  "EOS_Progressed": 11326,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -14063,6 +14063,11 @@
       "Time": "2023-12-10T14:08:53.669881+00:00",
       "NumProgressed": 11323,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-10T15:09:15.429217+00:00",
+      "NumProgressed": 11326,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -14090,7 +14095,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "ACH04",
@@ -14106,7 +14111,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH06",
@@ -14162,7 +14167,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH13",
@@ -14178,7 +14183,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 4869
+      "UsersEstimate": 4870
     },
     {
       "ID": "ACH15",
@@ -14234,7 +14239,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5322
+      "UsersEstimate": 5323
     },
     {
       "ID": "ACH22",
@@ -14250,7 +14255,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "ACH24",
@@ -14258,7 +14263,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "ACH25",
@@ -14266,7 +14271,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "ACH26",
@@ -14298,7 +14303,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH30",
@@ -14314,7 +14319,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH32",
@@ -14345,7 +14350,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11323,
+      "Progressed": 11326,
       "Completed": 65
     }
   ],
@@ -14353,8 +14358,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-10T03:59:04.4069107+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:08:53.6698807+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:09:15.4292166+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.0199326+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:59:22.6004941+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:08:53.669964+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:59:36.5120749+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:09:15.4293023+00:00"
 }

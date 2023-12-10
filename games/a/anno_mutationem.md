@@ -5,30 +5,30 @@ Rating: 4.54 (Ranked 536)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~579 |
-| Don't judge a manhole by its cover | 60.00% | ~463 |
-| I just love stuff! | 42.00% | ~324 |
-| Keep 'em coming! | 42.00% | ~324 |
-| The things they print nowadays | 39.00% | ~301 |
-| Big Spender | 38.00% | ~293 |
-| That's gotta hurt | 36.00% | ~278 |
+| Tell me your story | 75.00% | ~580 |
+| Don't judge a manhole by its cover | 60.00% | ~464 |
+| Keep 'em coming! | 42.00% | ~325 |
+| I just love stuff! | 41.00% | ~317 |
+| The things they print nowadays | 39.00% | ~302 |
+| Big Spender | 38.00% | ~294 |
+| That's gotta hurt | 36.00% | ~279 |
 | I think it's broke | 26.00% | ~201 |
 | The Ann Flores Combo Experience | 26.00% | ~201 |
-| Club Star | 25.00% | ~193 |
-| Fire in the hole! | 21.00% | ~162 |
-| Omnipotence | 20.00% | ~154 |
+| Club Star | 25.00% | ~194 |
+| Fire in the hole! | 21.00% | ~163 |
+| Omnipotence | 20.00% | ~155 |
 | The Warlord | 19.00% | ~147 |
 | You are the One | 19.00% | ~147 |
 | Deadly Kombationem | 18.00% | ~139 |
 | The truth is out there | 16.00% | ~124 |
-| Annakin Skyscroller | 13.00% | ~100 |
+| Annakin Skyscroller | 13.00% | ~101 |
 | In the smacker...I think | 10.00% | ~77 |
-| Arm Wrestlin' | 9.00% | ~69 |
-| 1+1>2 | 9.00% | ~69 |
-| So Fresh and So clean clean | 8.00% | ~62 |
+| Arm Wrestlin' | 9.00% | ~70 |
+| 1+1>2 | 9.00% | ~70 |
 | This can't be right… | 8.00% | ~62 |
 | Welcome home, 06 | 8.00% | ~62 |
 | I'm walking here! | 7.00% | ~54 |
+| So Fresh and So clean clean | 7.00% | ~54 |
 | Supreme Bartender Ann | 7.00% | ~54 |
 | Clarity of Mind | 6.00% | ~46 |
 | I feel secure, contained & protected | 6.00% | ~46 |
@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 536)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 772 (Ranked 285)  
+Progressed: 774 (Ranked 285)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,6 +141,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-07 | 767 | 0 |
 | 2023-12-08 | 768 | 0 |
 | 2023-12-09 | 772 | 0 |
+| 2023-12-10 | 774 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

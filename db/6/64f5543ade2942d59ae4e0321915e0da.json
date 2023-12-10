@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -434,9 +434,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AC_BOSS_02",
@@ -530,9 +530,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -562,9 +562,9 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 45,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -610,9 +610,9 @@
       "ID": "AC_MONEY_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Winner",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -634,9 +634,9 @@
       "ID": "AC_RECIPES_DONE_1",
       "SetID": "16i2akc",
       "Name": "Cook",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -697,8 +697,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:08:22.2478018+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:08:42.999616+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.4442779+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:58:52.2060877+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:08:22.2478285+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:59:04.3591201+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:08:42.9996395+00:00"
 }

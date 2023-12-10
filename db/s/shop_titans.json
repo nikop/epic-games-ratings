@@ -7459,7 +7459,7 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144601,
+  "EOS_Progressed": 144613,
   "EOS_Completed": 293,
   "EOS_NewPlayers": 974,
   "EOS_NewCompleters": 2,
@@ -31829,6 +31829,11 @@
       "Time": "2023-12-10T14:05:13.4125444+00:00",
       "NumProgressed": 144601,
       "NumCompleted": 293
+    },
+    {
+      "Time": "2023-12-10T15:05:34.3749242+00:00",
+      "NumProgressed": 144613,
+      "NumCompleted": 293
     }
   ],
   "TotalAchievements": 112,
@@ -31920,7 +31925,7 @@
       "Name": "One Easy Payment",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5784
+      "UsersEstimate": 5785
     },
     {
       "ID": "bigsale02",
@@ -31944,7 +31949,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5784
+      "UsersEstimate": 5785
     },
     {
       "ID": "blueprint02",
@@ -32008,7 +32013,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10122
+      "UsersEstimate": 10123
     },
     {
       "ID": "chest02",
@@ -32056,7 +32061,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "collection05",
@@ -32072,7 +32077,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10122
+      "UsersEstimate": 10123
     },
     {
       "ID": "commonres02",
@@ -32104,7 +32109,7 @@
       "Name": "Disintermediation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7230
+      "UsersEstimate": 7231
     },
     {
       "ID": "craft02",
@@ -32192,7 +32197,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5784
+      "UsersEstimate": 5785
     },
     {
       "ID": "energy02",
@@ -32216,7 +32221,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7230
+      "UsersEstimate": 7231
     },
     {
       "ID": "expansion02",
@@ -32312,7 +32317,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8676
+      "UsersEstimate": 8677
     },
     {
       "ID": "gold02",
@@ -32320,7 +32325,7 @@
       "Name": "Pretty Penny",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5784
+      "UsersEstimate": 5785
     },
     {
       "ID": "gold03",
@@ -32424,7 +32429,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5784
+      "UsersEstimate": 5785
     },
     {
       "ID": "level02",
@@ -32616,7 +32621,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7230
+      "UsersEstimate": 7231
     },
     {
       "ID": "sell02",
@@ -32656,7 +32661,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10122
+      "UsersEstimate": 10123
     },
     {
       "ID": "twinenchant01",
@@ -32704,7 +32709,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5784
+      "UsersEstimate": 5785
     },
     {
       "ID": "workers02",
@@ -32735,15 +32740,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144601,
+      "Progressed": 144613,
       "Completed": 293
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-09T21:03:37.7526468+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:05:13.4125386+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:05:34.3749238+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:02:52.2559347+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:05:13.4127576+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:03:07.0397057+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:05:34.3751141+00:00"
 }

@@ -1,38 +1,38 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.64 (Ranked 336)  
+Rating: 4.64 (Ranked 337)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marksman | 93.00% | ~2,053 |
-| Welcome Aboard | 86.00% | ~1,898 |
-| Lab Rat | 77.00% | ~1,699 |
+| Welcome Aboard | 86.00% | ~1,899 |
+| Lab Rat | 77.00% | ~1,700 |
 | All Systems Go | 67.00% | ~1,479 |
 | Brute Force | 67.00% | ~1,479 |
-| Cannon Fodder | 63.00% | ~1,390 |
-| Autofire | 59.00% | ~1,302 |
-| True Believer | 58.00% | ~1,280 |
-| Story Teller | 57.00% | ~1,258 |
+| Cannon Fodder | 63.00% | ~1,391 |
+| Autofire | 59.00% | ~1,303 |
+| True Believer | 58.00% | ~1,281 |
+| Story Teller | 57.00% | ~1,259 |
 | Raise the Stakes | 56.00% | ~1,236 |
 | Surgeon | 54.00% | ~1,192 |
 | Exterminator | 53.00% | ~1,170 |
 | Greenhouse Effect | 53.00% | ~1,170 |
 | Freeze | 52.00% | ~1,148 |
-| S.O.S. | 48.00% | ~1,059 |
-| Full Arsenal | 46.00% | ~1,015 |
-| Get Off My Ship! | 46.00% | ~1,015 |
-| Strange Transmissions | 45.00% | ~993 |
-| Wreckage | 44.00% | ~971 |
+| S.O.S. | 48.00% | ~1,060 |
+| Full Arsenal | 46.00% | ~1,016 |
+| Get Off My Ship! | 46.00% | ~1,016 |
+| Strange Transmissions | 45.00% | ~994 |
+| Wreckage | 44.00% | ~972 |
 | Keeper of the Faith | 42.00% | ~927 |
 | Live with the Hot Ones | 42.00% | ~927 |
 | Betrayed | 41.00% | ~905 |
 | Exodus | 39.00% | ~861 |
 | Legend Teller | 39.00% | ~861 |
-| There's Always Peng! | 39.00% | ~861 |
 | Mindless Prey | 39.00% | ~861 |
-| Front Toward Enemy | 34.00% | ~750 |
-| A Cut Above | 33.00% | ~728 |
+| There's Always Peng! | 38.00% | ~839 |
+| Front Toward Enemy | 34.00% | ~751 |
+| A Cut Above | 33.00% | ~729 |
 | Whole Again | 30.00% | ~662 |
 | Set A Benchmark | 30.00% | ~662 |
 | Full Contact | 27.00% | ~596 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 336)
 | Pusher | 23.00% | ~508 |
 | Z-Baller | 23.00% | ~508 |
 | Marked | 22.00% | ~486 |
-| Eviscerator | 19.00% | ~419 |
+| Eviscerator | 19.00% | ~420 |
 | Backbreaker | 14.00% | ~309 |
 | Wishbone | 9.00% | ~199 |
 | Trusted Contractor | 8.00% | ~177 |
@@ -53,7 +53,7 @@ Rating: 4.64 (Ranked 336)
 | Untouchable | 2.00% | ~44 |
 | One Gun | 2.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,207 (Ranked 227)  
+Progressed: 2,208 (Ranked 227)  
 Completed: 14 (0.63%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 14 (0.63%) (Ranked 191)
 | 2023-12-07 | 2,165 | 13 |
 | 2023-12-08 | 2,183 | 13 |
 | 2023-12-09 | 2,200 | 13 |
-| 2023-12-10 | 2,207 | 14 |
+| 2023-12-10 | 2,208 | 14 |
 ## Awards
 Max (Great Boss Battles): 118  (Ranked 346)  
 Sum: 118 (Ranked 442)  

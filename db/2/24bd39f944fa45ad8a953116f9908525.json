@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
     "PcReleaseDate": "2022-08-25T02:30:00+00:00",
@@ -686,9 +686,9 @@
       "ID": "ach_47_brutalMoment",
       "SetID": "16n29hg",
       "Name": "Squishy Moment",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_48_moneySmell",
@@ -771,8 +771,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:08:22.4875355+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:08:43.2933336+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.6186571+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:57:59.9529546+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:08:22.4875804+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:58:09.1580315+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:08:43.293375+00:00"
 }

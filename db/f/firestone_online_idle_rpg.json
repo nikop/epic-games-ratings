@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -607,7 +607,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3235,
+  "EOS_Progressed": 3237,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
@@ -9392,6 +9392,11 @@
       "Time": "2023-12-10T14:05:23.7243416+00:00",
       "NumProgressed": 3235,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-10T15:05:45.0028482+00:00",
+      "NumProgressed": 3237,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9587,7 +9592,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "fourleafclover",
@@ -9635,7 +9640,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "herewegoagain",
@@ -9643,7 +9648,7 @@
       "Name": "Here We Go Again",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "heroinspection",
@@ -9675,7 +9680,7 @@
       "Name": "Inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "jewelenchanting",
@@ -9715,7 +9720,7 @@
       "Name": "Master Enchanter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "mastery",
@@ -9739,7 +9744,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "missionsdedication",
@@ -9795,7 +9800,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "prestigiousx10",
@@ -9803,7 +9808,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "relicofthepast",
@@ -9859,7 +9864,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "thealchemist",
@@ -9883,7 +9888,7 @@
       "Name": "The father of Dragons",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "thegameison",
@@ -9923,7 +9928,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -9963,7 +9968,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "warmachinesarmy",
@@ -9995,14 +10000,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2525
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3235,
+      "Progressed": 3237,
       "Completed": 2
     }
   ],
@@ -10010,8 +10015,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-09T22:00:58.0026734+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:05:23.7243414+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:05:45.002848+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:59:41.4802749+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:05:23.7244275+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:59:55.3584189+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:05:45.0029306+00:00"
 }

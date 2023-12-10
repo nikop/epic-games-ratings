@@ -1,22 +1,22 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.56 (Ranked 497)  
+Rating: 4.56 (Ranked 496)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,174 |
-| First Steps | 80.00% | ~35,418 |
-| Control the Shadows | 67.00% | ~29,663 |
-| Tools of the Trade | 63.00% | ~27,892 |
+| Awakening | 93.00% | ~41,175 |
+| First Steps | 80.00% | ~35,419 |
+| Control the Shadows | 67.00% | ~29,664 |
+| Tools of the Trade | 63.00% | ~27,893 |
 | Apprentice | 60.00% | ~26,564 |
 | Secret Seeker | 57.00% | ~25,236 |
-| Forge of Assassins | 55.00% | ~24,350 |
+| Forge of Assassins | 55.00% | ~24,351 |
 | Revenant | 52.00% | ~23,022 |
 | I don’t Care! | 45.00% | ~19,923 |
 | Bird of Prey | 37.00% | ~16,381 |
-| Engraved with Power | 32.00% | ~14,167 |
+| Engraved with Power | 32.00% | ~14,168 |
 | Lady | 31.00% | ~13,725 |
 | Fashionable Assassin | 27.00% | ~11,954 |
 | Apex Predator | 24.00% | ~10,626 |
@@ -24,7 +24,7 @@ Number of Ratings: 88  (23.09.2022)
 | Embers | 22.00% | ~9,740 |
 | Wall Lizard | 20.00% | ~8,855 |
 | Clinging to Life | 18.00% | ~7,969 |
-| Burning | 17.00% | ~7,526 |
+| Burning | 17.00% | ~7,527 |
 | Look Behind You | 16.00% | ~7,084 |
 | Sleeping on the Job | 16.00% | ~7,084 |
 | Family | 14.00% | ~6,198 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~885 |
 | Legacy | 2.00% | ~885 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,273 (Ranked 116)  
+Progressed: 44,274 (Ranked 116)  
 Completed: 245 (0.55%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 245 (0.55%) (Ranked 203)
 | 2023-12-07 | 44,238 | 245 |
 | 2023-12-08 | 44,251 | 245 |
 | 2023-12-09 | 44,264 | 245 |
-| 2023-12-10 | 44,273 | 245 |
+| 2023-12-10 | 44,274 | 245 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

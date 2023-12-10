@@ -30,6 +30,7 @@
 | Despised | 4.00% | ~8 |
 | Been There | 4.00% | ~8 |
 | Spiritual Journey | 4.00% | ~8 |
+| Inquisitions of Discord | 4.00% | ~8 |
 | Trouble at Fort Larius | 4.00% | ~8 |
 | Unseen Patterns | 4.00% | ~8 |
 | Bounty Hunter | 3.00% | ~6 |
@@ -37,7 +38,6 @@
 | Xevarian Gambit | 3.00% | ~6 |
 | A Terrible Will | 3.00% | ~6 |
 | Life... Finds a Way | 3.00% | ~6 |
-| Inquisitions of Discord | 3.00% | ~6 |
 | Supercargo | 2.00% | ~4 |
 | Talent Nurtured | 2.00% | ~4 |
 | Huntress Unbound | 2.00% | ~4 |

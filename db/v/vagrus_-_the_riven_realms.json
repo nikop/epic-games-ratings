@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -1509,9 +1509,9 @@
       "ID": "Vanilla_TheSourceOfDiscord",
       "SetID": "27kik8p",
       "Name": "Inquisitions of Discord",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_ThreeCurses",
@@ -1606,8 +1606,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:03:37.9101545+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:03:56.4879903+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.4841893+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:57:27.3369512+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:03:37.9102377+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:57:36.2175947+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:03:56.4881042+00:00"
 }

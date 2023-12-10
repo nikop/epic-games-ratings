@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 440,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 78,
@@ -1645,9 +1645,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 161976,
-  "EOS_Completed": 279,
-  "EOS_NewPlayers": 922,
+  "EOS_Progressed": 161984,
+  "EOS_Completed": 280,
+  "EOS_NewPlayers": 921,
   "EOS_NewCompleters": 123,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18685,6 +18685,11 @@
       "Time": "2023-12-10T14:04:23.1163792+00:00",
       "NumProgressed": 161976,
       "NumCompleted": 279
+    },
+    {
+      "Time": "2023-12-10T15:04:42.5970062+00:00",
+      "NumProgressed": 161984,
+      "NumCompleted": 280
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18807,9 +18812,9 @@
       "ID": "DEFEAT_FLOWERROCKGIANT",
       "SetID": "72k7oh",
       "Name": "Glare",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 323
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -19064,21 +19069,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161559,
+      "Progressed": 161567,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 161976,
-      "Completed": 279
+      "Progressed": 161984,
+      "Completed": 280
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-08T18:02:42.2195822+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:04:23.116379+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:04:42.5970057+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:57:46.2558581+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:04:23.1165182+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:57:55.0276082+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:04:42.5971474+00:00"
 }

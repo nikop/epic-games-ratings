@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1304,
+  "EOS_Progressed": 1305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2505,6 +2505,11 @@
       "Time": "2023-12-10T08:05:48.0168667+00:00",
       "NumProgressed": 1304,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T15:06:15.2632365+00:00",
+      "NumProgressed": 1305,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2619,9 +2624,9 @@
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "Obsessively Thorough",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -2661,7 +2666,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -2725,7 +2730,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -2756,14 +2761,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1304,
+      "Progressed": 1305,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:05:53.1092027+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:06:15.263236+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.2067733+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:59:06.4350296+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:05:53.1092355+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:59:19.0875271+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:06:15.26326+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 36,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -437,25 +437,25 @@
       "ID": "02_ACHIEVEMENT_Level_10",
       "SetID": "6opd2eg",
       "Name": "Hanoi beginner",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "04_ACHIEVEMENT_Level_30",
       "SetID": "6opd2eg",
       "Name": "I see through deception",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "05_ACHIEVEMENT_Level_40",
@@ -469,17 +469,17 @@
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "07_ACHIEVEMENT_Half_Master",
       "SetID": "6opd2eg",
       "Name": "Master Half of the game",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 125,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "08_ACHIEVEMENT_Game_Complete",
@@ -524,8 +524,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:09:28.2201347+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:09:50.8826459+00:00",
   "LastUpdate_AppInfo": "2023-12-05T06:57:08.3217686+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:00:24.0990036+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:09:28.2201428+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:00:39.4726427+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:09:50.8826548+00:00"
 }

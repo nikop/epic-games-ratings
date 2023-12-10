@@ -125,9 +125,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14829,
+  "EOS_Progressed": 14830,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3170,6 +3170,11 @@
       "Time": "2023-12-10T14:08:48.1490669+00:00",
       "NumProgressed": 14829,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-10T15:09:09.6836242+00:00",
+      "NumProgressed": 14830,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -3198,7 +3203,7 @@
       "Name": "One-Track Mind",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_AE_12",
@@ -3230,7 +3235,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3262
+      "UsersEstimate": 3263
     },
     {
       "ID": "ACH_AE_16",
@@ -3422,7 +3427,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "ACH_AE_6",
@@ -3461,7 +3466,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 14829,
+      "Progressed": 14830,
       "Completed": 15
     }
   ],
@@ -3469,8 +3474,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-09T16:57:04.7047902+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:08:48.1490663+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:09:09.683624+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.7146917+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:57:38.5415778+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:08:48.1490952+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:57:47.0165327+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:09:09.6836595+00:00"
 }

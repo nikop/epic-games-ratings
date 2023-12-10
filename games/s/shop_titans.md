@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 7.00% | ~10,122 |
-| Basic in Bulk | 7.00% | ~10,122 |
-| Titan's First Steps | 7.00% | ~10,122 |
-| Tinkle of Coins | 6.00% | ~8,676 |
-| Disintermediation | 5.00% | ~7,230 |
-| It's Free Real Estate | 5.00% | ~7,230 |
-| Capitalism Ho! | 5.00% | ~7,230 |
-| One Easy Payment | 4.00% | ~5,784 |
-| Some Assembly Required | 4.00% | ~5,784 |
-| Another Satisfied Customer | 4.00% | ~5,784 |
-| Pretty Penny | 4.00% | ~5,784 |
-| Budding Merchant | 4.00% | ~5,784 |
-| Own the Means of Production | 4.00% | ~5,784 |
+| Sponsored by Argon | 7.00% | ~10,123 |
+| Basic in Bulk | 7.00% | ~10,123 |
+| Titan's First Steps | 7.00% | ~10,123 |
+| Tinkle of Coins | 6.00% | ~8,677 |
+| Disintermediation | 5.00% | ~7,231 |
+| It's Free Real Estate | 5.00% | ~7,231 |
+| Capitalism Ho! | 5.00% | ~7,231 |
+| One Easy Payment | 4.00% | ~5,785 |
+| Some Assembly Required | 4.00% | ~5,785 |
+| Another Satisfied Customer | 4.00% | ~5,785 |
+| Pretty Penny | 4.00% | ~5,785 |
+| Budding Merchant | 4.00% | ~5,785 |
+| Own the Means of Production | 4.00% | ~5,785 |
 | The Daily Grind | 3.00% | ~4,338 |
 | Bounty Hunters | 3.00% | ~4,338 |
 | Demand for Supplies | 3.00% | ~4,338 |
@@ -104,7 +104,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | All Accounted For | 1.00% | ~1,446 |
 | Economy of Scarce | 1.00% | ~1,446 |
 | King's Blade | 1.00% | ~1,446 |
-| The Free Encyclopedia | 0.90% | ~1,301 |
+| The Free Encyclopedia | 0.90% | ~1,302 |
 | The Greatest Grind | 0.70% | ~1,012 |
 | All or Nothing! | 0.70% | ~1,012 |
 | Anything not Nailed Down | 0.60% | ~868 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~434 |
 | Capitalist Camaraderie | 0.20% | ~289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,601 (Ranked 80)  
+Progressed: 144,613 (Ranked 80)  
 Completed: 293 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 293 (0.20%) (Ranked 258)
 | 2023-12-07 | 144,162 | 291 |
 | 2023-12-08 | 144,354 | 291 |
 | 2023-12-09 | 144,503 | 291 |
-| 2023-12-10 | 144,601 | 293 |
+| 2023-12-10 | 144,613 | 293 |
 ## Awards
 Max (Great for Beginners): 4,871  (Ranked 75)  
 Sum: 27,680 (Ranked 50)  

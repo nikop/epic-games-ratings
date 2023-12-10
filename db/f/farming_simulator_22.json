@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -12172,10 +12172,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 43986,
       "NumberOfAwardsMax": 5774
+    },
+    {
+      "Time": "2023-12-10T14:57:18.9822794+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 43990,
+      "NumberOfAwardsMax": 5774
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43986,
+  "NumberOfAwards": 43990,
   "NumberOfAwardsMax": 5774,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12231,7 +12237,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3825
+      "Count": 3829
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12252,9 +12258,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 55346,
+  "EOS_Progressed": 55347,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 710,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33907,6 +33913,11 @@
       "Time": "2023-12-10T14:05:23.644186+00:00",
       "NumProgressed": 55346,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-10T15:05:44.8623381+00:00",
+      "NumProgressed": 55347,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -34014,7 +34025,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 32654
+      "UsersEstimate": 32655
     },
     {
       "ID": "DeliveryGrapes",
@@ -34054,7 +34065,7 @@
       "Name": "Plant get enough",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 32654
+      "UsersEstimate": 32655
     },
     {
       "ID": "Harvested",
@@ -34070,7 +34081,7 @@
       "Name": "Own use",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 40956
+      "UsersEstimate": 40957
     },
     {
       "ID": "HorseJumps",
@@ -34126,7 +34137,7 @@
       "Name": "Hard work pays off",
       "Percentage": 51,
       "XP": 55,
-      "UsersEstimate": 28226
+      "UsersEstimate": 28227
     },
     {
       "ID": "NumBeehives",
@@ -34158,7 +34169,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "NumVehiclesLarge",
@@ -34182,7 +34193,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 14943
+      "UsersEstimate": 14944
     },
     {
       "ID": "PlayTime",
@@ -34190,7 +34201,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 31547
+      "UsersEstimate": 31548
     },
     {
       "ID": "Sow",
@@ -34206,7 +34217,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 33761
+      "UsersEstimate": 33762
     },
     {
       "ID": "Stones",
@@ -34222,7 +34233,7 @@
       "Name": "Field Trip",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 23245
+      "UsersEstimate": 23246
     },
     {
       "ID": "TruckDriving",
@@ -34238,7 +34249,7 @@
       "Name": "Van Gogh",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 13836
+      "UsersEstimate": 13837
     },
     {
       "ID": "VehicleRepair",
@@ -34254,22 +34265,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7748
+      "UsersEstimate": 7749
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 55346,
+      "Progressed": 55347,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-12-10T12:59:29.9810633+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:05:23.6441858+00:00",
+  "LastChanged": "2023-12-10T14:57:18.9822792+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:05:44.8623379+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:21.0443716+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:57:11.2012941+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:05:23.6443157+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:57:18.9822798+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:05:44.8624505+00:00"
 }

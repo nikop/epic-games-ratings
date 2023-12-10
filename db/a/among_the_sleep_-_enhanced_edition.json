@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -494,9 +494,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95123,
+  "EOS_Progressed": 95133,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 683,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -26504,6 +26504,11 @@
       "Time": "2023-12-10T14:08:40.0000625+00:00",
       "NumProgressed": 95123,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-12-10T15:09:00.8838145+00:00",
+      "NumProgressed": 95133,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 10,
@@ -26515,7 +26520,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4756
+      "UsersEstimate": 4757
     },
     {
       "ID": "Drawings01",
@@ -26571,7 +26576,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9512
+      "UsersEstimate": 9513
     },
     {
       "ID": "Level00BowlingStrike",
@@ -26579,7 +26584,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33293
+      "UsersEstimate": 33297
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -26587,22 +26592,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10464
+      "UsersEstimate": 10465
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 95123,
+      "Progressed": 95133,
       "Completed": 432
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-07T22:03:08.3516808+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:08:40.0000622+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:09:00.8838141+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2634868+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:02:52.1401839+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:08:40.0002251+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:03:06.9164423+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:09:00.883936+00:00"
 }

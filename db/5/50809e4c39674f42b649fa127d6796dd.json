@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 444,
+  "EOS_Progressed": 445,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1122,6 +1122,11 @@
       "Time": "2023-12-10T14:05:15.6419554+00:00",
       "NumProgressed": 444,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T15:05:36.6955653+00:00",
+      "NumProgressed": 445,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1172,9 +1177,9 @@
       "ID": "DEFENCE_LEVEL_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hardened Hedgehog",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 18
     },
     {
       "ID": "ENEMY_DEFEATED_ALL",
@@ -1190,15 +1195,15 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 138
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1254,7 +1259,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1278,7 +1283,7 @@
       "Name": "Koco Leader",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1324,9 +1329,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 240
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1453,14 +1458,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 444,
+      "Progressed": 445,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:05:15.6419552+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:05:36.6955647+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:02:47.7577017+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:05:15.6419867+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:03:02.5115802+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:05:36.6955978+00:00"
 }

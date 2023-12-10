@@ -3401,9 +3401,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 17856,
+  "EOS_Progressed": 17859,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": -7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15251,6 +15251,11 @@
       "Time": "2023-12-10T14:04:59.1573037+00:00",
       "NumProgressed": 17856,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-10T15:05:20.1509564+00:00",
+      "NumProgressed": 17859,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15469,9 +15474,9 @@
       "ID": "WinNearMonastery",
       "SetID": "cfbk359",
       "Name": "Monastery of the Holy Flame",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 89
     },
     {
       "ID": "WinNearOutpost",
@@ -15549,9 +15554,9 @@
       "ID": "WinOnMoorlands",
       "SetID": "cfbk359",
       "Name": "The Scarlet Orchard",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 161
     },
     {
       "ID": "WinPrestige10",
@@ -15734,15 +15739,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17856,
+      "Progressed": 17859,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-10T04:57:34.5838562+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:04:59.1573034+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:05:20.1509561+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:57:44.1491342+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:04:59.1574505+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:57:52.8544631+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:05:20.151102+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "e24498202a7b4c80af7e3c18e63a0b34",
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
-  "Ranking_Rating": 188,
+  "Ranking_Rating": 196,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.72,
+  "Rating": 4.71,
   "RatingHistory": [
     {
       "Time": "2023-09-26T18:04:36.0445809+00:00",
@@ -133,6 +133,12 @@
       "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-10T14:58:54.1455519+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -141,7 +147,7 @@
   "Tags": [],
   "EOS_Progressed": 7227,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -7181,9 +7187,9 @@
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged": "2023-11-30T01:44:39.305196+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:05:18.140771+00:00",
+  "LastChanged": "2023-12-10T14:58:54.1455517+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:05:39.3638935+00:00",
   "LastUpdate_AppInfo": "2023-12-07T22:57:02.7581961+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:58:42.3069424+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:05:18.1408131+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:58:54.1455524+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:05:39.3639475+00:00"
 }

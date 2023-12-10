@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2412,
+  "EOS_Progressed": 2414,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5942,6 +5942,11 @@
       "Time": "2023-12-10T13:08:30.7651497+00:00",
       "NumProgressed": 2412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T15:04:53.0107727+00:00",
+      "NumProgressed": 2414,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5954,7 +5959,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5970,7 +5975,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -5986,7 +5991,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -6010,7 +6015,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -6026,7 +6031,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -6042,7 +6047,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -6058,7 +6063,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -6082,7 +6087,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -6106,7 +6111,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -6162,7 +6167,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6178,7 +6183,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -6210,7 +6215,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -6242,7 +6247,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6250,7 +6255,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -6258,7 +6263,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -6306,7 +6311,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -6345,14 +6350,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2412,
+      "Progressed": 2414,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:04:33.0509195+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:04:53.0107721+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:57:40.0584206+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:04:33.0510102+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:57:48.4280039+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:04:53.0108875+00:00"
 }

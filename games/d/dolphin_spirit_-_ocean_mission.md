@@ -37,7 +37,7 @@
 | Picture of the creek | 0.00% | ~0 |
 | Well of science | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 573)  
+Progressed: 20 (Ranked 574)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |

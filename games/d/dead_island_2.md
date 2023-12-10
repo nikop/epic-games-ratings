@@ -5,30 +5,30 @@ Rating: 4.54 (Ranked 536)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,986 |
-| Whatever It Takes | 3.00% | ~1,752 |
-| Pork Chopped | 3.00% | ~1,752 |
-| Dr. Reed, I Presume? | 2.00% | ~14,657 |
-| Git Gutte! | 2.00% | ~14,657 |
-| Anger Management | 2.00% | ~14,657 |
-| Bookworm | 2.00% | ~14,657 |
-| Break A Leg | 2.00% | ~14,657 |
-| But Doctor, I am Butcho | 2.00% | ~14,657 |
-| Can't Handle the Truth | 2.00% | ~14,657 |
-| Coup de Grâce | 2.00% | ~14,657 |
-| Hazardous Materials | 2.00% | ~14,657 |
-| Friends Like These | 2.00% | ~14,657 |
-| Hotel California | 2.00% | ~14,657 |
-| Apex Predator | 2.00% | ~14,657 |
-| Stacking the Deck | 2.00% | ~14,657 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,657 |
-| This is My Weapon | 2.00% | ~14,657 |
-| One of Us | 2.00% | ~1,168 |
+| Welcome To Hell-A | 3.00% | ~21,987 |
+| Whatever It Takes | 3.00% | ~1,753 |
+| Pork Chopped | 3.00% | ~1,753 |
+| Dr. Reed, I Presume? | 2.00% | ~14,658 |
+| Git Gutte! | 2.00% | ~14,658 |
+| Anger Management | 2.00% | ~14,658 |
+| Bookworm | 2.00% | ~14,658 |
+| Break A Leg | 2.00% | ~14,658 |
+| But Doctor, I am Butcho | 2.00% | ~14,658 |
+| Can't Handle the Truth | 2.00% | ~14,658 |
+| Coup de Grâce | 2.00% | ~14,658 |
+| Like Riding a Bike | 2.00% | ~14,658 |
+| Hazardous Materials | 2.00% | ~14,658 |
+| Friends Like These | 2.00% | ~14,658 |
+| Hotel California | 2.00% | ~14,658 |
+| Apex Predator | 2.00% | ~14,658 |
+| Stacking the Deck | 2.00% | ~14,658 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,658 |
+| This is My Weapon | 2.00% | ~14,658 |
+| One of Us | 2.00% | ~1,169 |
 | Making Your Mark | 1.00% | ~7,329 |
 | Perks of the Job | 1.00% | ~7,329 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,329 |
 | Slayer Squad | 1.00% | ~7,329 |
-| Like Riding a Bike | 1.00% | ~7,329 |
 | Zombologist | 1.00% | ~7,329 |
 | Ooh, Shiny! | 1.00% | ~7,329 |
 | A Patton Emerges | 1.00% | ~7,329 |
@@ -46,10 +46,10 @@ Rating: 4.54 (Ranked 536)
 | On Safari | 0.60% | ~4,397 |
 | Smorgasbord | 0.60% | ~4,397 |
 | Variety is the Spice of Death | 0.60% | ~4,397 |
-| LA Influential | 0.50% | ~3,664 |
-| Sole Survivor | 0.40% | ~2,931 |
-| Gore Horse | 0.40% | ~2,931 |
-| Sharpest Tool in the Box | 0.40% | ~2,931 |
+| LA Influential | 0.50% | ~3,665 |
+| Sole Survivor | 0.40% | ~2,932 |
+| Gore Horse | 0.40% | ~2,932 |
+| Sharpest Tool in the Box | 0.40% | ~2,932 |
 | Top That, Tisha! | 0.40% | ~234 |
 | Survival Skills | 0.20% | ~1,466 |
 | Lawn and Order | 0.20% | ~117 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 536)
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,872 (Ranked 21)  
+Progressed: 732,903 (Ranked 21)  
 Completed: 2,474 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,14 +291,14 @@ Completed: 2,474 (0.34%) (Ranked 234)
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
-| 2023-12-10 | 732,872 | 2,474 |
+| 2023-12-10 | 732,903 | 2,474 |
 ## Awards
-Max (Great Boss Battles): 8,042  (Ranked 49)  
-Sum: 12,375 (Ranked 82)  
+Max (Great Boss Battles): 8,071  (Ranked 49)  
+Sum: 12,404 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 8,042 |
+| This game has Great Boss Battles | 8,071 |
 | This game is Great for Beginners | 629 |
 | This game has Diverse Characters | 592 |
 | This game has Quickly Understood Controls | 563 |
@@ -543,4 +543,4 @@ Diff (max vs sum): -33
 | 2023-12-07 | 4.54 | 7,994 | 12,284 |
 | 2023-12-08 | 4.54 | 8,017 | 12,324 |
 | 2023-12-09 | 4.54 | 8,042 | 12,362 |
-| 2023-12-10 | 4.54 | 8,042 | 12,375 |
+| 2023-12-10 | 4.54 | 8,071 | 12,404 |

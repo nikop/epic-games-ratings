@@ -20,8 +20,8 @@
 | Evacuation | 17.00% | ~92 |
 | Beyond divisions | 17.00% | ~92 |
 | Fierce fight | 15.00% | ~81 |
-| Flying Objects Operator | 14.00% | ~76 |
-| I remember everything! | 13.00% | ~70 |
+| Flying Objects Operator | 15.00% | ~81 |
+| I remember everything! | 14.00% | ~76 |
 | Another giant | 11.00% | ~59 |
 | Violent solution | 9.00% | ~49 |
 | Innate curiosity | 8.00% | ~43 |
@@ -34,7 +34,7 @@
 | Convoy list | 0.90% | ~5 |
 | No more mistakes | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 540 (Ranked 311)  
+Progressed: 540 (Ranked 312)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,9 +7,9 @@
 | First Step | 54.00% | ~113 |
 | The 4 Pillars | 51.00% | ~107 |
 | Capitalism | 21.00% | ~44 |
+| Green Energy | 12.00% | ~25 |
 | Indebted | 11.00% | ~23 |
 | Great Producer | 11.00% | ~23 |
-| Green Energy | 11.00% | ~23 |
 | There's something in those trees | 10.00% | ~21 |
 | Desert Power | 10.00% | ~21 |
 | Desert Rat | 9.00% | ~19 |

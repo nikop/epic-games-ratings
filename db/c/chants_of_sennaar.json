@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 935,
+  "EOS_Progressed": 936,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.78,
+  "EOS_Completed_Percentage": 5.77,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3755,6 +3755,11 @@
       "Time": "2023-12-10T13:10:31.6091623+00:00",
       "NumProgressed": 935,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-10T15:06:18.7018549+00:00",
+      "NumProgressed": 936,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 25,
@@ -3790,7 +3795,7 @@
       "Name": "Cable guy",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3806,7 +3811,7 @@
       "Name": "Half the way",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3910,7 +3915,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3934,7 +3939,7 @@
       "Name": "The great escape",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "PROGRESS_N3",
@@ -3958,21 +3963,21 @@
       "Name": "One last step",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 935,
+      "Progressed": 936,
       "Completed": 54
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:05:56.5840239+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:06:18.7018543+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:00:18.1254+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:05:56.5840484+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:00:33.449737+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:06:18.7018805+00:00"
 }

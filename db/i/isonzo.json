@@ -2,13 +2,13 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 479,
+  "Ranking_Rating": 478,
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -991,9 +991,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9316,
+  "EOS_Progressed": 9317,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9111,6 +9111,11 @@
       "Time": "2023-12-10T13:11:31.1098389+00:00",
       "NumProgressed": 9316,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-10T15:08:38.3255085+00:00",
+      "NumProgressed": 9317,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9130,7 +9135,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -9178,7 +9183,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -9258,7 +9263,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -9266,7 +9271,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -9298,7 +9303,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -9314,7 +9319,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4285
+      "UsersEstimate": 4286
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -9354,7 +9359,7 @@
       "Name": "Seeing Red",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -9370,7 +9375,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2516
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -9418,7 +9423,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -9450,7 +9455,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4751
+      "UsersEstimate": 4752
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -9474,14 +9479,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4751
+      "UsersEstimate": 4752
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9316,
+      "Progressed": 9317,
       "Completed": 10
     }
   ],
@@ -9489,8 +9494,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-09T14:58:44.4952754+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:08:17.5861504+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:08:38.3255081+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:02.1312935+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:59:21.6109903+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:08:17.5862073+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:59:35.3978985+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:08:38.3255598+00:00"
 }

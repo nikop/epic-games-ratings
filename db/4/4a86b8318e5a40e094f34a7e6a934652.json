@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1144,9 +1144,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1271,8 +1271,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:04:15.2223394+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:04:34.4857364+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:02.2533693+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:57:35.1753948+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:04:15.2223663+00:00"
+  "LastUpdate_Ratings": "2023-12-10T14:57:43.6963685+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:04:34.4857529+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -439,9 +439,9 @@
       "ID": "ProtectedPower",
       "SetID": "7m88n8p",
       "Name": "Protected by Divine Power",
-      "Percentage": 93,
+      "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "RoadToSalvation",
@@ -502,8 +502,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-10T14:05:05.1723923+00:00",
+  "LastChanged_Achievements": "2023-12-10T15:05:26.2008762+00:00",
   "LastUpdate_AppInfo": "2023-12-04T11:56:57.3079922+00:00",
-  "LastUpdate_Ratings": "2023-12-10T13:59:58.9090285+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:05:05.1724062+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:00:13.5689779+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:05:26.2008892+00:00"
 }

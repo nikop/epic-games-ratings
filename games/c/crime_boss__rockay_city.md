@@ -17,10 +17,10 @@ Rating: 3.95 (Ranked 1,023)
 | Roid Ranger | 1.00% | ~918 |
 | Hidden Sonata | 1.00% | ~918 |
 | Case Closed | 1.00% | ~918 |
+| True Player | 1.00% | ~918 |
 | Raider’s Ruin | 1.00% | ~918 |
 | Rockay Rex | 1.00% | ~918 |
 | Track Star | 0.90% | ~827 |
-| True Player | 0.90% | ~827 |
 | Headhunter | 0.80% | ~735 |
 | I Like Trains | 0.60% | ~551 |
 | Freebooter | 0.60% | ~551 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,023)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,842 (Ranked 92)  
+Progressed: 91,843 (Ranked 92)  
 Completed: 58 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 58 (0.06%) (Ranked 313)
 | 2023-12-07 | 91,792 | 58 |
 | 2023-12-08 | 91,806 | 58 |
 | 2023-12-09 | 91,827 | 58 |
-| 2023-12-10 | 91,842 | 58 |
+| 2023-12-10 | 91,843 | 58 |
 ## Awards
 Max (Diverse Characters): 559  (Ranked 207)  
 Sum: 2,660 (Ranked 188)  

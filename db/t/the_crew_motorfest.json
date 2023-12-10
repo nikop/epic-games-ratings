@@ -2,13 +2,13 @@
   "ID": "9533b9db84274b15886caa464445a975",
   "Name": "The Crew\u2122 Motorfest Standard Edition",
   "ProductSlug": "the-crew-motorfest",
-  "Ranking_Rating": 315,
+  "Ranking_Rating": 295,
   "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 162,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
     "PcReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -20,7 +20,7 @@
       "isPrepurchase": "true"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2023-09-15T10:57:58.1384791+00:00",
@@ -3045,10 +3045,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 3733,
       "NumberOfAwardsMax": 519
+    },
+    {
+      "Time": "2023-12-10T15:03:04.6919517+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 3736,
+      "NumberOfAwardsMax": 519
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3733,
+  "NumberOfAwards": 3736,
   "NumberOfAwardsMax": 519,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -3098,7 +3104,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 466
+      "Count": 469
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3131,8 +3137,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-12-10T12:03:09.8320283+00:00",
+  "LastChanged": "2023-12-10T15:03:04.6919515+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.8530957+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:02:49.993746+00:00",
-  "LastUpdate_Achievements": "2023-12-10T14:08:58.5242945+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:03:04.691952+00:00",
+  "LastUpdate_Achievements": "2023-12-10T15:09:20.2750535+00:00"
 }
