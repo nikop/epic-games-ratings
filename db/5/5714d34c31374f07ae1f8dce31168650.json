@@ -4,7 +4,7 @@
   "ProductSlug": "edwards-journey-6dbfde",
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-08T20:56:55.6316688+00:00",
-  "LastUpdate_Ratings": "2023-12-10T05:00:29.9365442+00:00",
-  "LastUpdate_Achievements": "2023-12-10T05:09:20.6213605+00:00"
+  "LastUpdate_Ratings": "2023-12-10T05:59:12.0301855+00:00",
+  "LastUpdate_Achievements": "2023-12-10T06:08:46.9124666+00:00"
 }

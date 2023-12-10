@@ -24,9 +24,9 @@ Number of Ratings: 90  (23.09.2022)
 | Lie Back and Think of Albion | 7.00% | ~2 |
 | Bodied Sattva | 7.00% | ~2 |
 | Kaijuiced | 7.00% | ~2 |
+| Lobster Blisque | 7.00% | ~2 |
 | Transmitting From Sol-3 | 4.00% | ~1 |
 | Forbidden Donut | 4.00% | ~1 |
-| Lobster Blisque | 4.00% | ~1 |
 | Freshly Squeezed | 4.00% | ~1 |
 | Die Nasty | 4.00% | ~1 |
 | Yettisoned | 4.00% | ~1 |

@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8688,
+  "EOS_Progressed": 8690,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8394,6 +8394,11 @@
       "Time": "2023-12-10T04:09:52.2053041+00:00",
       "NumProgressed": 8688,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T06:09:33.2951845+00:00",
+      "NumProgressed": 8690,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8526,7 +8531,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2694
     },
     {
       "ID": "GamesPlayed10",
@@ -8814,7 +8819,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "NeutralKills200",
@@ -8902,7 +8907,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "SEUpgraded1",
@@ -8997,7 +9002,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8688,
+      "Progressed": 8690,
       "Completed": 1
     }
   ],
@@ -9005,8 +9010,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-05T02:57:10.0290174+00:00",
-  "LastChanged_Achievements": "2023-12-10T05:10:24.4824281+00:00",
+  "LastChanged_Achievements": "2023-12-10T06:09:33.2951842+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.1858441+00:00",
-  "LastUpdate_Ratings": "2023-12-10T05:00:59.1362079+00:00",
-  "LastUpdate_Achievements": "2023-12-10T05:10:24.4825334+00:00"
+  "LastUpdate_Ratings": "2023-12-10T05:59:30.5710303+00:00",
+  "LastUpdate_Achievements": "2023-12-10T06:09:33.2952627+00:00"
 }

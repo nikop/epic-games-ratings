@@ -6,12 +6,12 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~10,473 |
-| Overkill | 34.00% | ~8,685 |
-| Vaccine Incoming | 33.00% | ~8,430 |
-| A normal day in Gloomhaven | 31.00% | ~7,919 |
-| Spread the plague | 29.00% | ~7,408 |
-| Get over here! | 24.00% | ~6,131 |
+| I'm not dead yet | 41.00% | ~10,475 |
+| Overkill | 34.00% | ~8,686 |
+| Vaccine Incoming | 33.00% | ~8,431 |
+| A normal day in Gloomhaven | 31.00% | ~7,920 |
+| Spread the plague | 29.00% | ~7,409 |
+| Get over here! | 24.00% | ~6,132 |
 | Just when I thought I was out... | 19.00% | ~4,854 |
 | Precious! | 17.00% | ~4,343 |
 | Mine... All Mine... | 17.00% | ~4,343 |
@@ -19,10 +19,10 @@ Number of Ratings: 68  (23.09.2022)
 | Anatomy Lesson | 15.00% | ~3,832 |
 | Obstacle race | 13.00% | ~3,321 |
 | Light of my life | 13.00% | ~3,321 |
-| You activated my trap card! | 12.00% | ~3,065 |
+| You activated my trap card! | 12.00% | ~3,066 |
 | Who's the Boss? | 11.00% | ~2,810 |
 | Augmented rat | 11.00% | ~2,810 |
-| Doom and gloom | 10.00% | ~2,554 |
+| Doom and gloom | 10.00% | ~2,555 |
 | Dungeon Veteran | 9.00% | ~2,299 |
 | Pack leader | 8.00% | ~2,044 |
 | Pain is your friend | 8.00% | ~2,044 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~26 |
 | Murder Death Kill | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,545 (Ranked 132)  
+Progressed: 25,548 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,14 +156,14 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-07 | 25,131 | 1 |
 | 2023-12-08 | 25,283 | 1 |
 | 2023-12-09 | 25,492 | 1 |
-| 2023-12-10 | 25,545 | 1 |
+| 2023-12-10 | 25,548 | 1 |
 ## Awards
-Max (Character Customization): 3,595  (Ranked 90)  
-Sum: 8,401 (Ranked 102)  
+Max (Character Customization): 3,598  (Ranked 90)  
+Sum: 8,404 (Ranked 102)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,595 |
+| This game has Inclusive Character Customization | 3,598 |
 | This game has Diverse Characters | 601 |
 | This game has Challenging Combat | 554 |
 | This game is Highly Recommended | 548 |
@@ -414,3 +414,4 @@ Diff (max vs sum): -12
 | 2023-12-05 | 4.47 | - | 3,592 | 8,398 |
 | 2023-12-06 | 4.47 | - | 3,594 | 8,400 |
 | 2023-12-08 | 4.47 | - | 3,595 | 8,401 |
+| 2023-12-10 | 4.47 | - | 3,598 | 8,404 |

@@ -125,9 +125,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14808,
+  "EOS_Progressed": 14809,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3125,6 +3125,11 @@
       "Time": "2023-12-10T05:09:15.6114055+00:00",
       "NumProgressed": 14808,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-10T06:08:43.4754502+00:00",
+      "NumProgressed": 14809,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -3161,7 +3166,7 @@
       "Name": "Versatile",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ACH_AE_13",
@@ -3169,7 +3174,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11106
+      "UsersEstimate": 11107
     },
     {
       "ID": "ACH_AE_14",
@@ -3313,7 +3318,7 @@
       "Name": "Pajama Boy",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2518
     },
     {
       "ID": "ACH_AE_30",
@@ -3416,7 +3421,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 14808,
+      "Progressed": 14809,
       "Completed": 15
     }
   ],
@@ -3424,8 +3429,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-09T16:57:04.7047902+00:00",
-  "LastChanged_Achievements": "2023-12-10T05:09:15.6114048+00:00",
+  "LastChanged_Achievements": "2023-12-10T06:08:43.4754498+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.7146917+00:00",
-  "LastUpdate_Ratings": "2023-12-10T04:57:26.3676946+00:00",
-  "LastUpdate_Achievements": "2023-12-10T05:09:15.6114473+00:00"
+  "LastUpdate_Ratings": "2023-12-10T05:57:10.3121289+00:00",
+  "LastUpdate_Achievements": "2023-12-10T06:08:43.4754859+00:00"
 }

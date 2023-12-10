@@ -54,12 +54,12 @@
 | Ghost of the Father | 32.00% | ~498 |
 | The Cure | 32.00% | ~498 |
 | The Prodigal | 32.00% | ~498 |
+| Revenge! | 32.00% | ~498 |
 | Driven | 32.00% | ~498 |
 | Focused | 31.00% | ~482 |
 | Completionist | 31.00% | ~482 |
 | Fade Away | 31.00% | ~482 |
 | Big Game Hunter | 31.00% | ~482 |
-| Revenge! | 31.00% | ~482 |
 | Heart of Darkness | 31.00% | ~482 |
 | Bringer of War | 31.00% | ~482 |
 | Cat's in the Cradle | 30.00% | ~466 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 76433,
+  "EOS_Progressed": 76434,
   "EOS_Completed": 410,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -26063,6 +26063,11 @@
       "Time": "2023-12-10T05:09:38.3350803+00:00",
       "NumProgressed": 76433,
       "NumCompleted": 410
+    },
+    {
+      "Time": "2023-12-10T06:08:59.4225898+00:00",
+      "NumProgressed": 76434,
+      "NumCompleted": 410
     }
   ],
   "TotalAchievements": 24,
@@ -26122,7 +26127,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21401
+      "UsersEstimate": 21402
     },
     {
       "ID": "FOXIN_AROUND",
@@ -26154,7 +26159,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 40509
+      "UsersEstimate": 40510
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -26265,7 +26270,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 76433,
+      "Progressed": 76434,
       "Completed": 410
     }
   ],
@@ -26273,8 +26278,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-12-10T05:09:38.3350798+00:00",
+  "LastChanged_Achievements": "2023-12-10T06:08:59.4225893+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:25.3960201+00:00",
-  "LastUpdate_Ratings": "2023-12-10T05:00:57.210453+00:00",
-  "LastUpdate_Achievements": "2023-12-10T05:09:38.3352417+00:00"
+  "LastUpdate_Ratings": "2023-12-10T05:59:29.3289332+00:00",
+  "LastUpdate_Achievements": "2023-12-10T06:08:59.4227169+00:00"
 }

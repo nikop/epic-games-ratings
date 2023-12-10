@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1555,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -5343,9 +5343,9 @@
       "ID": "achievement_75",
       "SetID": "d252ncf",
       "Name": "Revenge!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 498
     },
     {
       "ID": "achievement_76",
@@ -5571,8 +5571,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-10T05:09:53.0401133+00:00",
+  "LastChanged_Achievements": "2023-12-10T06:09:10.0759456+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.2992366+00:00",
-  "LastUpdate_Ratings": "2023-12-10T05:03:17.7113906+00:00",
-  "LastUpdate_Achievements": "2023-12-10T05:09:53.0402665+00:00"
+  "LastUpdate_Ratings": "2023-12-10T06:03:00.3965225+00:00",
+  "LastUpdate_Achievements": "2023-12-10T06:09:10.0761303+00:00"
 }

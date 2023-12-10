@@ -4,7 +4,7 @@
   "ProductSlug": "xuan-yuan-sword-7-22c442",
   "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
@@ -178,17 +178,17 @@
       "ID": "BuyLowSellHigh",
       "SetID": "c8fdd59",
       "Name": "Buy Low Sell High",
-      "Percentage": 41,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Catcha",
       "SetID": "c8fdd59",
       "Name": "Catcha",
-      "Percentage": 45,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Chapter01_TheDesperado",
@@ -370,17 +370,17 @@
       "ID": "HitTheBoardRunning",
       "SetID": "c8fdd59",
       "Name": "Hit the Board Running",
-      "Percentage": 41,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Marker",
       "SetID": "c8fdd59",
       "Name": "Alchemist",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PowerFromDiscipline",
@@ -490,9 +490,9 @@
       "ID": "WeWasHere",
       "SetID": "c8fdd59",
       "Name": "We Was Here",
-      "Percentage": 27,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WithoutDiscrimination",
@@ -513,8 +513,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-12-10T05:10:19.8870776+00:00",
+  "LastChanged_Achievements": "2023-12-10T06:09:29.442179+00:00",
   "LastUpdate_AppInfo": "2023-12-04T14:57:04.244792+00:00",
-  "LastUpdate_Ratings": "2023-12-10T04:59:56.6071991+00:00",
-  "LastUpdate_Achievements": "2023-12-10T05:10:19.8871118+00:00"
+  "LastUpdate_Ratings": "2023-12-10T05:58:50.2099542+00:00",
+  "LastUpdate_Achievements": "2023-12-10T06:09:29.4422078+00:00"
 }

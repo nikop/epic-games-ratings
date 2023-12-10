@@ -909,9 +909,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4105,
+  "EOS_Progressed": 4106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6864,6 +6864,11 @@
       "Time": "2023-12-10T05:03:37.764935+00:00",
       "NumProgressed": 4105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T06:03:13.7588115+00:00",
+      "NumProgressed": 4106,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6900,7 +6905,7 @@
       "Name": "Dealmaker",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "achievement_13",
@@ -6964,7 +6969,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "achievement_20",
@@ -6972,7 +6977,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2422
+      "UsersEstimate": 2423
     },
     {
       "ID": "achievement_21",
@@ -7012,7 +7017,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "achievement_7",
@@ -7043,7 +7048,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4105,
+      "Progressed": 4106,
       "Completed": 0
     }
   ],
@@ -7051,8 +7056,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-10T02:58:06.7636739+00:00",
-  "LastChanged_Achievements": "2023-12-10T05:03:37.7649346+00:00",
+  "LastChanged_Achievements": "2023-12-10T06:03:13.7588111+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-10T04:58:49.8873+00:00",
-  "LastUpdate_Achievements": "2023-12-10T05:03:37.764983+00:00"
+  "LastUpdate_Ratings": "2023-12-10T05:58:05.8888357+00:00",
+  "LastUpdate_Achievements": "2023-12-10T06:03:13.7588481+00:00"
 }

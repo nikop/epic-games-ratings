@@ -37,7 +37,7 @@ Rating: 4.52 (Ranked 562)
 | Keepie-Uppy Okie Dokie | 1.00% | ~113 |
 | I'm Famous! | 1.00% | ~113 |
 | Daredevil | 1.00% | ~113 |
-| Done it All | 0.90% | ~102 |
+| Done it All | 1.00% | ~113 |
 | Kingpin | 0.60% | ~68 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11,318 (Ranked 163)  

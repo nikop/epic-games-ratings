@@ -42,10 +42,10 @@ Rating: 4.29 (Ranked 853)
 | Iron | 10.00% | ~20 |
 | The Bomber | 8.00% | ~16 |
 | Tested | 8.00% | ~16 |
+| The Astronaut | 7.00% | ~14 |
 | Highway to Hell | 7.00% | ~14 |
 | Power Overwhelming | 6.00% | ~12 |
 | The Exorcist | 6.00% | ~12 |
-| The Astronaut | 6.00% | ~12 |
 | Mithril | 6.00% | ~12 |
 | Anvil | 6.00% | ~12 |
 | Aluminum | 5.00% | ~10 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -609,7 +609,7 @@
   ],
   "EOS_Progressed": 3218,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9686,9 +9686,9 @@
       "ID": "mastery",
       "SetID": "3nl4bcg",
       "Name": "Mastery",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 290
     },
     {
       "ID": "milestonecollector",
@@ -9975,8 +9975,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-09T22:00:58.0026734+00:00",
-  "LastChanged_Achievements": "2023-12-10T05:06:36.4857032+00:00",
+  "LastChanged_Achievements": "2023-12-10T06:05:20.4098193+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
-  "LastUpdate_Ratings": "2023-12-10T05:00:33.2365191+00:00",
-  "LastUpdate_Achievements": "2023-12-10T05:06:36.485793+00:00"
+  "LastUpdate_Ratings": "2023-12-10T05:59:14.1108367+00:00",
+  "LastUpdate_Achievements": "2023-12-10T06:05:20.4099195+00:00"
 }

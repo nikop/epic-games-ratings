@@ -151,19 +151,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beja Archer | 0.70% | ~110 |
 | Old | 0.60% | ~94 |
 | Ten Crowns | 0.60% | ~94 |
-| Ancient | 0.50% | ~78 |
-| Glorious Difficulty | 0.50% | ~78 |
-| Magnificent Difficulty | 0.50% | ~78 |
-| Hatti | 0.50% | ~78 |
-| Persia | 0.50% | ~78 |
-| Pantheon of Gods | 0.50% | ~78 |
-| Play a Network Game | 0.50% | ~78 |
-| Capturing Cities | 0.50% | ~78 |
-| Three Man Chariot | 0.50% | ~78 |
-| Siege Tower | 0.50% | ~78 |
-| Conquest Victory | 0.50% | ~78 |
-| Rmt n Kmt Buhen | 0.50% | ~78 |
-| Greater Kmt Unified | 0.50% | ~78 |
+| Ancient | 0.50% | ~79 |
+| Glorious Difficulty | 0.50% | ~79 |
+| Magnificent Difficulty | 0.50% | ~79 |
+| Hatti | 0.50% | ~79 |
+| Persia | 0.50% | ~79 |
+| Pantheon of Gods | 0.50% | ~79 |
+| Play a Network Game | 0.50% | ~79 |
+| Capturing Cities | 0.50% | ~79 |
+| Three Man Chariot | 0.50% | ~79 |
+| Siege Tower | 0.50% | ~79 |
+| Conquest Victory | 0.50% | ~79 |
+| Rmt n Kmt Buhen | 0.50% | ~79 |
+| Greater Kmt Unified | 0.50% | ~79 |
 | Bronze Victory (Carthage 1) | 0.40% | ~63 |
 | Silver Victory (Carthage 1) | 0.40% | ~63 |
 | Carthage - Riches and Influence | 0.40% | ~63 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,700 (Ranked 152)  
+Progressed: 15,701 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,7 +583,7 @@ Completed: 5 (0.03%) (Ranked 333)
 | 2023-12-07 | 15,669 | 5 |
 | 2023-12-08 | 15,683 | 5 |
 | 2023-12-09 | 15,699 | 5 |
-| 2023-12-10 | 15,700 | 5 |
+| 2023-12-10 | 15,701 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 275)  
 Sum: 1,897 (Ranked 220)  

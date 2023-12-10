@@ -5806,9 +5806,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 718044,
+  "EOS_Progressed": 718045,
   "EOS_Completed": 6529,
-  "EOS_NewPlayers": 917,
+  "EOS_NewPlayers": 914,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -31216,6 +31216,11 @@
       "Time": "2023-12-10T05:10:06.6683783+00:00",
       "NumProgressed": 718044,
       "NumCompleted": 6529
+    },
+    {
+      "Time": "2023-12-10T06:09:19.770129+00:00",
+      "NumProgressed": 718045,
+      "NumCompleted": 6529
     }
   ],
   "TotalAchievements": 49,
@@ -31291,7 +31296,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 567255
+      "UsersEstimate": 567256
     },
     {
       "ID": "AchClearElysium",
@@ -31299,7 +31304,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 473909
+      "UsersEstimate": 473910
     },
     {
       "ID": "AchClearElysiumEM",
@@ -31331,7 +31336,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 631879
+      "UsersEstimate": 631880
     },
     {
       "ID": "AchCrushedThanatos",
@@ -31355,7 +31360,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 201052
+      "UsersEstimate": 201053
     },
     {
       "ID": "AchForgedBond",
@@ -31363,7 +31368,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 201052
+      "UsersEstimate": 201053
     },
     {
       "ID": "AchFoundAllSummons",
@@ -31379,7 +31384,7 @@
       "Name": "Something From Everyone",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 136428
+      "UsersEstimate": 136429
     },
     {
       "ID": "AchFoundSummon",
@@ -31395,7 +31400,7 @@
       "Name": "Friends in High Places",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 481089
+      "UsersEstimate": 481090
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -31419,7 +31424,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 265676
+      "UsersEstimate": 265677
     },
     {
       "ID": "AchManyCosmetics",
@@ -31443,7 +31448,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 251315
+      "UsersEstimate": 251316
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -31451,7 +31456,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 445187
+      "UsersEstimate": 445188
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -31491,7 +31496,7 @@
       "Name": "Well Versed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 122067
+      "UsersEstimate": 122068
     },
     {
       "ID": "AchOrpheusSingsAgain",
@@ -31515,7 +31520,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 265676
+      "UsersEstimate": 265677
     },
     {
       "ID": "AchPickedManyHammers",
@@ -31579,7 +31584,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 301578
+      "UsersEstimate": 301579
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -31618,15 +31623,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 718044,
+      "Progressed": 718045,
       "Completed": 6529
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-12-09T23:01:21.9654455+00:00",
-  "LastChanged_Achievements": "2023-12-10T05:10:06.6683777+00:00",
+  "LastChanged_Achievements": "2023-12-10T06:09:19.7701282+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:36.6248453+00:00",
-  "LastUpdate_Ratings": "2023-12-10T05:01:19.1274895+00:00",
-  "LastUpdate_Achievements": "2023-12-10T05:10:06.6685345+00:00"
+  "LastUpdate_Ratings": "2023-12-10T05:59:43.8424981+00:00",
+  "LastUpdate_Achievements": "2023-12-10T06:09:19.7703192+00:00"
 }

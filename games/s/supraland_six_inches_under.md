@@ -19,8 +19,8 @@ Number of Ratings: 209  (23.09.2022)
 | Stone Pickaxe | 93.00% | ~2,194 |
 | Revenge | 93.00% | ~2,194 |
 | Surprise | 93.00% | ~2,194 |
+| Magnet | 91.00% | ~2,147 |
 | Industrial Area | 90.00% | ~2,123 |
-| Magnet | 90.00% | ~2,123 |
 | Magnet Repel | 88.00% | ~2,076 |
 | You feel middle classy | 87.00% | ~2,052 |
 | Boomeraxe | 87.00% | ~2,052 |
@@ -45,13 +45,13 @@ Number of Ratings: 209  (23.09.2022)
 | Greenhouse | 72.00% | ~1,698 |
 | Played with fire | 70.00% | ~1,651 |
 | You feel very sorry | 70.00% | ~1,651 |
-| No Match for you | 65.00% | ~1,533 |
+| No Match for you | 66.00% | ~1,557 |
 | Bouncy | 62.00% | ~1,463 |
 | Plumbster | 61.00% | ~1,439 |
 | Faster | 60.00% | ~1,415 |
 | Much Magic | 58.00% | ~1,368 |
 | Chest Detector | 56.00% | ~1,321 |
-| Flames | 52.00% | ~1,227 |
+| Flames | 53.00% | ~1,250 |
 | Momentum | 46.00% | ~1,085 |
 | You're unsure if you broke the game or not | 43.00% | ~1,014 |
 | But wait... ...There's more... | 40.00% | ~944 |

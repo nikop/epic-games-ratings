@@ -1645,9 +1645,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 161918,
+  "EOS_Progressed": 161921,
   "EOS_Completed": 275,
-  "EOS_NewPlayers": 956,
+  "EOS_NewPlayers": 951,
   "EOS_NewCompleters": 129,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18640,6 +18640,11 @@
       "Time": "2023-12-10T05:05:09.773019+00:00",
       "NumProgressed": 161918,
       "NumCompleted": 275
+    },
+    {
+      "Time": "2023-12-10T06:04:19.0180535+00:00",
+      "NumProgressed": 161921,
+      "NumCompleted": 275
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18922,9 +18927,9 @@
       "ID": "MISC_REACHMAXARDOR",
       "SetID": "ccc0dlh",
       "Name": "Ravenous",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 972
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -19019,21 +19024,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161501,
+      "Progressed": 161504,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 161918,
+      "Progressed": 161921,
       "Completed": 275
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-08T18:02:42.2195822+00:00",
-  "LastChanged_Achievements": "2023-12-10T05:05:09.7730185+00:00",
+  "LastChanged_Achievements": "2023-12-10T06:04:19.018053+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-10T04:57:38.0100179+00:00",
-  "LastUpdate_Achievements": "2023-12-10T05:05:09.7731284+00:00"
+  "LastUpdate_Ratings": "2023-12-10T05:57:17.9932756+00:00",
+  "LastUpdate_Achievements": "2023-12-10T06:04:19.0181467+00:00"
 }
