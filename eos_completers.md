@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.48% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.46% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -122,7 +122,7 @@
 | 120 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 121 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.48% |
 | 121 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.48% |
-| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.45% |
+| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.46% |
 | 124 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 125 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.35% |
 | 126 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
@@ -184,8 +184,8 @@
 | 182 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 183 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.80% |
 | 184 | [Infindustry](games/i/infindustry.md) | 0.79% |
-| 185 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.77% |
-| 186 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
+| 185 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
+| 185 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.76% |
 | 187 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.72% |
 | 188 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.68% |
 | 188 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.68% |
@@ -257,13 +257,13 @@
 | 253 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.23% |
 | 256 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 256 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
-| 258 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.20% |
-| 258 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.20% |
-| 258 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
-| 258 | [Scrapnaut](games/s/scrapnaut.md) | 0.20% |
-| 258 | [Shop Titans](games/s/shop_titans.md) | 0.20% |
-| 258 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.20% |
-| 258 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
+| 256 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.21% |
+| 259 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.20% |
+| 259 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
+| 259 | [Scrapnaut](games/s/scrapnaut.md) | 0.20% |
+| 259 | [Shop Titans](games/s/shop_titans.md) | 0.20% |
+| 259 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.20% |
+| 259 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
 | 265 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 266 | [Blanc](games/b/blanc.md) | 0.18% |
 | 266 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
@@ -786,4 +786,4 @@
 | 371 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 371 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 371 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,698 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,699 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
