@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.55% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.54% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -105,7 +105,7 @@
 | 103 | [Doodle God](games/d/doodle_god.md) | 3.08% |
 | 103 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 105 | [HordeCore](games/h/hordecore.md) | 3.04% |
-| 106 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.98% |
+| 106 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.97% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
 | 108 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.94% |
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
@@ -128,7 +128,7 @@
 | 126 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
 | 127 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 127 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
-| 129 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.14% |
+| 129 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.13% |
 | 130 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 130 | [Somerville](games/s/somerville.md) | 1.92% |
 | 132 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.88% |
@@ -137,7 +137,7 @@
 | 135 | [Sifu](games/s/sifu.md) | 1.80% |
 | 136 | [Frogun](games/f/frogun.md) | 1.77% |
 | 137 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.73% |
-| 138 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.72% |
+| 138 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.71% |
 | 139 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.62% |
 | 140 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 141 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.56% |
@@ -150,7 +150,7 @@
 | 148 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.37% |
 | 149 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.34% |
 | 149 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.34% |
-| 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.33% |
+| 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.32% |
 | 152 | [Chorus](games/c/chorus.md) | 1.30% |
 | 152 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
 | 154 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.29% |
@@ -224,15 +224,15 @@
 | 219 | [Tchia](games/t/tchia.md) | 0.43% |
 | 223 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.40% |
 | 223 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.40% |
-| 223 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.40% |
 | 223 | [Wildermyth](games/w/wildermyth.md) | 0.40% |
-| 227 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
-| 227 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
+| 226 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
+| 226 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
+| 226 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.39% |
 | 229 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 229 | [Train Valley](games/t/train_valley.md) | 0.37% |
-| 231 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.35% |
-| 231 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 231 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
+| 231 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.36% |
+| 232 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
+| 232 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 234 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
 | 234 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.34% |
 | 236 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.33% |
