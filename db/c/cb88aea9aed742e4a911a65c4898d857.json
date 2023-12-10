@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1251,
+  "EOS_Progressed": 1281,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1249,
+  "EOS_NewPlayers": 1279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -322,6 +322,11 @@
       "Time": "2023-12-10T00:11:22.5455383+00:00",
       "NumProgressed": 1251,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T02:00:26.7366877+00:00",
+      "NumProgressed": 1281,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -334,7 +339,7 @@
       "Name": "Conspiracy",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 615
     },
     {
       "ID": "03_TheStolenStar",
@@ -342,15 +347,15 @@
       "Name": "Stolen Star",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "04_TheTradeEmpire",
       "SetID": "37a94m8",
       "Name": "Trade Empire",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -446,7 +451,7 @@
       "Name": "The Rise",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "17_TheExemplar",
@@ -462,7 +467,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "19_TheVoidWolf",
@@ -492,9 +497,9 @@
       "ID": "22_PerfectTiming",
       "SetID": "37a94m8",
       "Name": "Perfect Timing",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 51
     },
     {
       "ID": "23_DynastyRestored",
@@ -550,7 +555,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 550
+      "UsersEstimate": 564
     },
     {
       "ID": "30_The GreatestExploration",
@@ -582,7 +587,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -686,7 +691,7 @@
       "Name": "A Spark",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 167
     },
     {
       "ID": "47_AFlame",
@@ -853,14 +858,14 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 1251,
+      "Progressed": 1281,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:11:22.5455378+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:00:26.7366873+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:01:06.9344538+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:11:22.5455886+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:50:42.3998077+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:00:26.736728+00:00"
 }

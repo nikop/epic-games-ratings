@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1645,10 +1645,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 161891,
-  "EOS_Completed": 273,
+  "EOS_Progressed": 161903,
+  "EOS_Completed": 274,
   "EOS_NewPlayers": 967,
-  "EOS_NewCompleters": 135,
+  "EOS_NewCompleters": 132,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -18615,6 +18615,11 @@
       "Time": "2023-12-10T00:06:31.900819+00:00",
       "NumProgressed": 161891,
       "NumCompleted": 273
+    },
+    {
+      "Time": "2023-12-10T01:56:10.3177008+00:00",
+      "NumProgressed": 161903,
+      "NumCompleted": 274
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18899,7 +18904,7 @@
       "Name": "Ravenous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -18994,21 +18999,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161474,
+      "Progressed": 161486,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 161891,
-      "Completed": 273
+      "Progressed": 161903,
+      "Completed": 274
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-08T18:02:42.2195822+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:06:31.9008186+00:00",
+  "LastChanged_Achievements": "2023-12-10T01:56:10.3177002+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:59:37.727527+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:06:31.900931+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:48:37.460008+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:56:10.3178202+00:00"
 }

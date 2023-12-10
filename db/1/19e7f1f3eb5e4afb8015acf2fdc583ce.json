@@ -2,10 +2,10 @@
   "ID": "19e7f1f3eb5e4afb8015acf2fdc583ce",
   "Name": "Kubikon 3D",
   "ProductSlug": "kubikon-3d-fc0422",
-  "Ranking_EOS_Progress": 787,
+  "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-03T06:57:03.3916698+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:59:35.1086616+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:08:04.6215856+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:48:33.6807812+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:58:14.8867012+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3408,
+  "EOS_Progressed": 3411,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5196,6 +5196,11 @@
       "Time": "2023-12-09T22:05:04.9969189+00:00",
       "NumProgressed": 3408,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-10T01:55:28.7081935+00:00",
+      "NumProgressed": 3411,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5271,7 +5276,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -5303,14 +5308,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3408,
+      "Progressed": 3411,
       "Completed": 6
     }
   ],
@@ -5318,8 +5323,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:06:00.9170733+00:00",
+  "LastChanged_Achievements": "2023-12-10T01:55:28.7081931+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:18.0649883+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:59:48.1891914+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:06:00.9171057+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:48:52.3945318+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:55:28.7082273+00:00"
 }

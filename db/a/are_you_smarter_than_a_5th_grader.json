@@ -2,10 +2,10 @@
   "ID": "1293d5a9bfc84e7e8574d02b6ee5a3af",
   "Name": "Are You Smarter Than A 5th Grader",
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
-  "Ranking_EOS_Progress": 338,
+  "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
     "PcReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -525,6 +525,11 @@
       "Time": "2023-12-08T07:05:22.3250884+00:00",
       "NumProgressed": 371,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T01:58:17.9503671+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -656,7 +661,7 @@
       "Name": "Smarter than a 5th Grader",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "StudySession",
@@ -687,7 +692,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 0
     }
   ],
@@ -695,8 +700,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:08:06.867634+00:00",
+  "LastChanged_Achievements": "2023-12-10T01:58:17.9503668+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:23.1188395+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:01:46.7825917+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:08:06.8676433+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:51:39.5569478+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:58:17.9503802+00:00"
 }

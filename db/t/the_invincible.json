@@ -2,10 +2,10 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 310,
+  "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 537,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1597,9 +1597,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 113
+      "UsersEstimate": 118
     },
     {
       "ID": "AchvBombing",
@@ -1645,9 +1645,9 @@
       "ID": "AchvEvacuate",
       "SetID": "1hj060c",
       "Name": "Evacuation",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 86
+      "UsersEstimate": 91
     },
     {
       "ID": "AchvInvShip",
@@ -1781,9 +1781,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 55,
-      "UsersEstimate": 166
+      "UsersEstimate": 172
     },
     {
       "ID": "AchvUnity",
@@ -1804,8 +1804,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:11:15.3899882+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:00:17.2581756+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.1415487+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:02:37.87518+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:11:15.3900084+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:53:43.6744929+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:00:17.2582004+00:00"
 }

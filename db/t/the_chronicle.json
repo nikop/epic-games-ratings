@@ -2,10 +2,10 @@
   "ID": "97794f7b4a954a2d87af91eb5cef8bfc",
   "Name": "The Chronicle",
   "ProductSlug": "the-chronicle-221497",
-  "Ranking_EOS_Progress": 787,
+  "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-04T00:00:00+00:00",
     "PcReleaseDate": "2022-06-28T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-09T21:57:17.088415+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:59:45.3392556+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:06:21.1946142+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:48:48.3310742+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:55:55.8650915+00:00"
 }

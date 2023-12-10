@@ -2,13 +2,13 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 914,
+  "Ranking_Rating": 913,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1332,9 +1332,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30043,
+  "EOS_Progressed": 30048,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -26332,6 +26332,11 @@
       "Time": "2023-12-10T00:11:37.151139+00:00",
       "NumProgressed": 30043,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-12-10T02:00:45.8829386+00:00",
+      "NumProgressed": 30048,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 22,
@@ -26415,7 +26420,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "1025",
@@ -26447,7 +26452,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5408
+      "UsersEstimate": 5409
     },
     {
       "ID": "1029",
@@ -26455,7 +26460,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "1030",
@@ -26463,7 +26468,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6009
+      "UsersEstimate": 6010
     },
     {
       "ID": "1031",
@@ -26471,7 +26476,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4206
+      "UsersEstimate": 4207
     },
     {
       "ID": "1032",
@@ -26479,7 +26484,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12017
+      "UsersEstimate": 12019
     },
     {
       "ID": "1033",
@@ -26511,22 +26516,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30043,
+      "Progressed": 30048,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:11:37.1511384+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:00:45.8829379+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:17.8374063+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:02:20.5777939+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:11:37.1512784+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:52:28.4532789+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:00:45.8830595+00:00"
 }

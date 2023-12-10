@@ -1,7 +1,7 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.64 (Ranked 336)  
+Rating: 4.64 (Ranked 335)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -48,13 +48,13 @@ Rating: 4.64 (Ranked 336)
 | Trusted Contractor | 8.00% | ~176 |
 | Built To Order | 6.00% | ~132 |
 | Merchant | 5.00% | ~110 |
+| Untouchable | 3.00% | ~66 |
 | Maxed Out | 3.00% | ~66 |
 | Reunion | 3.00% | ~66 |
-| Untouchable | 2.00% | ~44 |
 | One Gun | 2.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,200 (Ranked 226)  
-Completed: 13 (0.59%) (Ranked 198)  
+Completed: 14 (0.64%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -140,10 +140,11 @@ Completed: 13 (0.59%) (Ranked 198)
 | 2023-12-07 | 2,165 | 13 |
 | 2023-12-08 | 2,183 | 13 |
 | 2023-12-09 | 2,200 | 13 |
+| 2023-12-10 | 2,200 | 14 |
 ## Awards
-Max (Great Boss Battles): 118  (Ranked 345)  
+Max (Great Boss Battles): 118  (Ranked 346)  
 Sum: 118 (Ranked 442)  
-Diff (max vs sum): -97  
+Diff (max vs sum): -96  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

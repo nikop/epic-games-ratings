@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -537,9 +537,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5582,
+  "EOS_Progressed": 5584,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7857,6 +7857,11 @@
       "Time": "2023-12-09T19:04:11.4626339+00:00",
       "NumProgressed": 5582,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-10T01:55:43.8984797+00:00",
+      "NumProgressed": 5584,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7884,7 +7889,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "12",
@@ -7892,7 +7897,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "13",
@@ -7908,7 +7913,7 @@
       "Name": "Full Ascension",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "15",
@@ -7964,7 +7969,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "21",
@@ -8012,7 +8017,7 @@
       "Name": "Bone Peddler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "27",
@@ -8028,7 +8033,7 @@
       "Name": "From Friends to Family",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "29",
@@ -8076,7 +8081,7 @@
       "Name": "Seat of Power",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "34",
@@ -8180,7 +8185,7 @@
       "Name": "Grexolis",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "6",
@@ -8188,7 +8193,7 @@
       "Name": "One for All, All for One",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "7",
@@ -8347,13 +8352,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5582,
+      "Progressed": 5584,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5582,
+      "Progressed": 5584,
       "Completed": 7
     }
   ],
@@ -8361,8 +8366,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-08T22:57:52.6860138+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:06:12.2747307+00:00",
+  "LastChanged_Achievements": "2023-12-10T01:55:43.8984796+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.604119+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:00:18.8010853+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:06:12.2748092+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:49:36.2286816+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:55:43.8985571+00:00"
 }

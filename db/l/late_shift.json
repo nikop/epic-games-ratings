@@ -2,10 +2,10 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 288,
+  "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -1786,9 +1786,9 @@
       "ID": "ENDING_3",
       "SetID": "8eejhlh",
       "Name": "The Ploy",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 113
     },
     {
       "ID": "ENDING_4",
@@ -1923,8 +1923,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:11:13.3907618+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:00:14.5945336+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:45.8510282+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:02:15.7520351+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:11:13.3907793+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:52:21.3625485+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:00:14.594554+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,978 |
-| Whatever It Takes | 3.00% | ~1,744 |
-| Pork Chopped | 3.00% | ~1,744 |
+| Welcome To Hell-A | 3.00% | ~21,979 |
+| Whatever It Takes | 3.00% | ~1,745 |
+| Pork Chopped | 3.00% | ~1,745 |
 | Dr. Reed, I Presume? | 2.00% | ~14,652 |
 | Git Gutte! | 2.00% | ~14,652 |
 | Anger Management | 2.00% | ~14,652 |
@@ -41,9 +41,9 @@ Rating: 4.54 (Ranked 534)
 | Jumbo Keyring | 0.80% | ~5,861 |
 | Go, Bobcats! | 0.80% | ~5,861 |
 | Rising Star | 0.80% | ~5,861 |
+| Internet Famous | 0.70% | ~5,128 |
 | On Safari | 0.60% | ~4,396 |
 | Smorgasbord | 0.60% | ~4,396 |
-| Internet Famous | 0.60% | ~4,396 |
 | Variety is the Spice of Death | 0.60% | ~4,396 |
 | Make it So | 0.50% | ~3,663 |
 | LA Influential | 0.50% | ~3,663 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 534)
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,604 (Ranked 21)  
+Progressed: 732,624 (Ranked 21)  
 Completed: 2,471 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,22 +291,22 @@ Completed: 2,471 (0.34%) (Ranked 234)
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
-| 2023-12-10 | 732,604 | 2,471 |
+| 2023-12-10 | 732,624 | 2,471 |
 ## Awards
 Max (Great Boss Battles): 8,042  (Ranked 49)  
-Sum: 12,362 (Ranked 82)  
+Sum: 12,371 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 8,042 |
-| This game is Great for Beginners | 625 |
+| This game is Great for Beginners | 629 |
 | This game has Diverse Characters | 592 |
 | This game has Quickly Understood Controls | 560 |
 | This game is Relaxing | 537 |
 | This game has Amazing Storytelling | 524 |
 | This game is Extremely Fun | 509 |
 | This game is Highly Recommended | 506 |
-| This game has Amazing Characters | 467 |
+| This game has Amazing Characters | 472 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -543,3 +543,4 @@ Diff (max vs sum): -33
 | 2023-12-07 | 4.54 | 7,994 | 12,284 |
 | 2023-12-08 | 4.54 | 8,017 | 12,324 |
 | 2023-12-09 | 4.54 | 8,042 | 12,362 |
+| 2023-12-10 | 4.54 | 8,042 | 12,371 |

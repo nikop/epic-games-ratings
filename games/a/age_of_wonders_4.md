@@ -10,11 +10,11 @@ Rating: 4.61 (Ranked 387)
 | Secret Technique | 4.00% | ~223 |
 | Walls Cannot Stop Us | 4.00% | ~223 |
 | But this one is mine | 4.00% | ~223 |
-| There Can Only Be One! | 3.00% | ~167 |
-| Full Ascension | 3.00% | ~167 |
-| Bone Peddler | 3.00% | ~167 |
-| From Friends to Family | 3.00% | ~167 |
-| Seat of Power | 3.00% | ~167 |
+| There Can Only Be One! | 3.00% | ~168 |
+| Full Ascension | 3.00% | ~168 |
+| Bone Peddler | 3.00% | ~168 |
+| From Friends to Family | 3.00% | ~168 |
+| Seat of Power | 3.00% | ~168 |
 | Valley of Wonders | 2.00% | ~112 |
 | Enchanted Archipelago | 2.00% | ~112 |
 | Stronger Together | 2.00% | ~112 |
@@ -47,10 +47,10 @@ Rating: 4.61 (Ranked 387)
 | The Eternal Court | 0.80% | ~45 |
 | God Emperor | 0.70% | ~39 |
 | Manufactured War | 0.70% | ~39 |
-| I've Got Everything I Need Right Here | 0.60% | ~33 |
-| The Goddess of Nature | 0.60% | ~33 |
-| Grexolis | 0.60% | ~33 |
-| One for All, All for One | 0.60% | ~33 |
+| I've Got Everything I Need Right Here | 0.60% | ~34 |
+| The Goddess of Nature | 0.60% | ~34 |
+| Grexolis | 0.60% | ~34 |
+| One for All, All for One | 0.60% | ~34 |
 | Pruning for Progress | 0.50% | ~28 |
 | Duality | 0.50% | ~28 |
 | Against the Odds | 0.40% | ~22 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 387)
 | Draconic Connoisseur | 0.10% | ~6 |
 | Master of Evilness | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,582 (Ranked 189)  
+Progressed: 5,584 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,6 +268,7 @@ Completed: 7 (0.13%) (Ranked 278)
 | 2023-12-07 | 5,575 | 7 |
 | 2023-12-08 | 5,576 | 7 |
 | 2023-12-09 | 5,582 | 7 |
+| 2023-12-10 | 5,584 | 7 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 477)  
 Sum: 90 (Ranked 460)  

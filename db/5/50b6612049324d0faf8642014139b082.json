@@ -5,10 +5,10 @@
   "Ranking_Rating": 823,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -133,7 +133,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 775,
+  "EOS_Progressed": 776,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -1958,6 +1958,11 @@
       "Time": "2023-12-10T00:11:54.936343+00:00",
       "NumProgressed": 775,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T02:01:09.1582439+00:00",
+      "NumProgressed": 776,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1978,7 +1983,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_11",
@@ -2026,7 +2031,7 @@
       "Name": "Class Act",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_17",
@@ -2058,7 +2063,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "achievement_20",
@@ -2098,7 +2103,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_25",
@@ -2106,7 +2111,7 @@
       "Name": "E-stonia",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_26",
@@ -2177,7 +2182,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 775,
+      "Progressed": 776,
       "Completed": 0
     }
   ],
@@ -2185,8 +2190,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-09T18:58:37.9229412+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:11:54.9363425+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:01:09.1582436+00:00",
   "LastUpdate_AppInfo": "2023-12-05T21:56:59.3509515+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:00:54.2646431+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:11:54.9363659+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:50:24.6482685+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:01:09.1582658+00:00"
 }

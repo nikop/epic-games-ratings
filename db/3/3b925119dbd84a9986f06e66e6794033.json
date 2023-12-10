@@ -2,10 +2,10 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 364,
+  "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -1137,9 +1137,9 @@
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
       "SetID": "9j9h72e",
       "Name": "FixyText: Co-author",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "TIME_JINX",
@@ -1216,8 +1216,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:11:32.6619335+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:00:39.9511741+00:00",
   "LastUpdate_AppInfo": "2023-12-09T01:42:08.195524+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:00:14.3564609+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:11:32.6619475+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:49:29.9556112+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:00:39.9511888+00:00"
 }

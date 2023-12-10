@@ -1,33 +1,33 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.66 (Ranked 295)  
+Rating: 4.66 (Ranked 294)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,815 |
-| Gun Fu | 7.00% | ~68,142 |
-| The Fool | 6.00% | ~58,408 |
-| Right Back At Ya | 5.00% | ~48,673 |
-| The Lovers | 5.00% | ~48,673 |
-| Full Body Conversion | 4.00% | ~38,938 |
-| True Soldier | 4.00% | ~38,938 |
-| Christmas Tree Attack | 3.00% | ~29,204 |
-| Stanislavski's Method | 3.00% | ~29,204 |
-| The Hermit | 3.00% | ~29,204 |
-| The Wheel of Fortune | 3.00% | ~29,204 |
-| Relic Ruler | 3.00% | ~3,063 |
-| All the President's Men | 3.00% | ~3,063 |
-| Arachnophobia | 3.00% | ~3,063 |
-| Bushido and Chill | 2.00% | ~19,469 |
-| Master Crafter | 2.00% | ~19,469 |
-| The Quick and the Dead | 2.00% | ~19,469 |
-| Life of the Road | 2.00% | ~19,469 |
-| The High Priestess | 2.00% | ~19,469 |
-| The World | 2.00% | ~19,469 |
-| True Warrior | 2.00% | ~19,469 |
-| Legend of The Afterlife | 2.00% | ~19,469 |
+| V for Vendetta | 12.00% | ~116,819 |
+| Gun Fu | 7.00% | ~68,145 |
+| The Fool | 6.00% | ~58,410 |
+| Right Back At Ya | 5.00% | ~48,675 |
+| The Lovers | 5.00% | ~48,675 |
+| Full Body Conversion | 4.00% | ~38,940 |
+| True Soldier | 4.00% | ~38,940 |
+| Christmas Tree Attack | 3.00% | ~29,205 |
+| Stanislavski's Method | 3.00% | ~29,205 |
+| The Hermit | 3.00% | ~29,205 |
+| The Wheel of Fortune | 3.00% | ~29,205 |
+| Relic Ruler | 3.00% | ~3,064 |
+| All the President's Men | 3.00% | ~3,064 |
+| Arachnophobia | 3.00% | ~3,064 |
+| Bushido and Chill | 2.00% | ~19,470 |
+| Master Crafter | 2.00% | ~19,470 |
+| The Quick and the Dead | 2.00% | ~19,470 |
+| Life of the Road | 2.00% | ~19,470 |
+| The High Priestess | 2.00% | ~19,470 |
+| The World | 2.00% | ~19,470 |
+| True Warrior | 2.00% | ~19,470 |
+| Legend of The Afterlife | 2.00% | ~19,470 |
 | To Protect and Serve | 1.00% | ~9,735 |
 | I Am The Law | 1.00% | ~9,735 |
 | Two Heads, One Bullet | 1.00% | ~9,735 |
@@ -42,7 +42,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Bad Decisions! | 0.60% | ~5,841 |
 | The Star | 0.60% | ~5,841 |
 | Breathtaking | 0.50% | ~4,867 |
-| The Tower | 0.50% | ~510 |
+| The Tower | 0.50% | ~511 |
 | Autojock | 0.40% | ~3,894 |
 | Must Be Rats | 0.40% | ~3,894 |
 | Temperance | 0.40% | ~3,894 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 973,462 (Ranked 15)  
+Progressed: 973,495 (Ranked 15)  
 Completed: 2,872 (0.30%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 2,872 (0.30%) (Ranked 239)
 | 2023-12-07 | 971,994 | 2,852 |
 | 2023-12-08 | 972,634 | 2,860 |
 | 2023-12-09 | 973,443 | 2,872 |
-| 2023-12-10 | 973,462 | 2,872 |
+| 2023-12-10 | 973,495 | 2,872 |
 ## Awards
 Max (Character Customization): 120,272  (Ranked 9)  
 Sum: 405,418 (Ranked 9)  

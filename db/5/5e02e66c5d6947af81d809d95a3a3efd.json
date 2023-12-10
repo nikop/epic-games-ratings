@@ -2,10 +2,10 @@
   "ID": "5e02e66c5d6947af81d809d95a3a3efd",
   "Name": "Brain Show: Party Quiz",
   "ProductSlug": "brain-show-89d0fd",
-  "Ranking_EOS_Progress": 787,
+  "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-11-28T05:30:00+00:00",
     "PcReleaseDate": "2023-06-07T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-05T08:57:14.6471111+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:01:26.7140069+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:08:35.480961+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:51:10.8333359+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:58:58.2024581+00:00"
 }

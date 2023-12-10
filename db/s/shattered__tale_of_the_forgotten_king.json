@@ -2,10 +2,10 @@
   "ID": "2176462c35e843e3bb1bacdf5a3f05bf",
   "Name": "Shattered: Tale of the Forgotten King",
   "ProductSlug": "shattered-tale-of-the-forgotten-king",
-  "Ranking_EOS_Progress": 787,
+  "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-22T13:00:00+00:00",
     "PcReleaseDate": "2021-02-17T13:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:25.6607845+00:00",
   "LastChanged": "2023-03-31T05:58:25.6607846+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:09.5175531+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:59:36.0037327+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:05:30.8144479+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:48:34.9669109+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:54:44.1294981+00:00"
 }

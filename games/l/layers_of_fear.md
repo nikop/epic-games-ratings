@@ -22,11 +22,11 @@
 | A new way | 12.00% | ~13 |
 | A Slice of Life | 12.00% | ~13 |
 | Debut | 12.00% | ~13 |
+| First steps | 12.00% | ~13 |
 | The art of movement | 12.00% | ~13 |
-| First steps | 11.00% | ~12 |
+| Breaking free | 11.00% | ~12 |
 | Sound Bite | 11.00% | ~12 |
 | True Reflection | 11.00% | ~12 |
-| Breaking free | 10.00% | ~11 |
 | Lights! Camera! Action! | 10.00% | ~11 |
 | Another perspective | 9.00% | ~10 |
 | Heavy Burden | 8.00% | ~9 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 437)  
+Progressed: 108 (Ranked 438)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |

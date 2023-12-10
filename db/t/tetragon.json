@@ -2,10 +2,10 @@
   "ID": "6e842eaed1ff4ba4bcf04aac8238e124",
   "Name": "Tetragon",
   "ProductSlug": "tetragon-edc5d5",
-  "Ranking_EOS_Progress": 787,
+  "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-24T15:00:00+00:00",
     "PcReleaseDate": "2021-08-12T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-16T11:58:05.7407941+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:38.9702788+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:02:06.2432774+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:05:40.5903695+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:52:08.1867527+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:55:02.0998857+00:00"
 }

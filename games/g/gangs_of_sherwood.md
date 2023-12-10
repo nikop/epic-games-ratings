@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 86.00% | ~55 |
-| Air Fighter | 80.00% | ~51 |
-| Oo-De-Lally | 67.00% | ~43 |
-| Treasure Hunter | 67.00% | ~43 |
-| The Altruist | 67.00% | ~43 |
-| Watch your Step! | 56.00% | ~36 |
-| Tap Dancing | 53.00% | ~34 |
-| MAX LEVEL | 52.00% | ~33 |
+| Act of Kindness | 86.00% | ~56 |
+| Air Fighter | 78.00% | ~51 |
+| Oo-De-Lally | 68.00% | ~44 |
+| Treasure Hunter | 66.00% | ~43 |
+| The Altruist | 66.00% | ~43 |
+| Watch your Step! | 55.00% | ~36 |
+| Tap Dancing | 52.00% | ~34 |
+| MAX LEVEL | 51.00% | ~33 |
 | Right between the eyes | 45.00% | ~29 |
 | Spring Board | 45.00% | ~29 |
-| Starry Night | 41.00% | ~26 |
-| Rebel Unleashed | 39.00% | ~25 |
-| Locksley's Tears | 38.00% | ~24 |
+| Starry Night | 40.00% | ~26 |
+| Rebel Unleashed | 38.00% | ~25 |
+| Locksley's Tears | 37.00% | ~24 |
 | Merry Co-operation | 31.00% | ~20 |
 | Assault on the Ram | 31.00% | ~20 |
-| Finish Him! | 30.00% | ~19 |
-| Savior | 27.00% | ~17 |
+| Finish Him! | 29.00% | ~19 |
+| Savior | 26.00% | ~17 |
 | Ultra Rebel Instinct | 25.00% | ~16 |
 | Merry Go Round | 23.00% | ~15 |
 | Take Action! | 22.00% | ~14 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64 (Ranked 487)  
+Progressed: 65 (Ranked 488)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,3 +79,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-07 | 60 | 0 |
 | 2023-12-08 | 62 | 0 |
 | 2023-12-09 | 64 | 0 |
+| 2023-12-10 | 65 | 0 |

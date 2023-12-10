@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -807,9 +807,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6083,
+  "EOS_Progressed": 6084,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7082,6 +7082,11 @@
       "Time": "2023-12-09T23:08:09.652463+00:00",
       "NumProgressed": 6083,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T01:58:46.2740987+00:00",
+      "NumProgressed": 6084,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -7142,7 +7147,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5718
+      "UsersEstimate": 5719
     },
     {
       "ID": "achievement_0008",
@@ -7150,7 +7155,7 @@
       "Name": "On the Top Step",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     },
     {
       "ID": "achievement_0009",
@@ -7182,7 +7187,7 @@
       "Name": "Seasoned Rookie",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_0013",
@@ -7206,7 +7211,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "achievement_0016",
@@ -7254,7 +7259,7 @@
       "Name": "Team Orders",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 4623
+      "UsersEstimate": 4624
     },
     {
       "ID": "achievement_0022",
@@ -7286,7 +7291,7 @@
       "Name": "Wait, I know you?",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_0026",
@@ -7318,7 +7323,7 @@
       "Name": "Reduce",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "achievement_0030",
@@ -7350,7 +7355,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 3406
+      "UsersEstimate": 3407
     },
     {
       "ID": "achievement_0034",
@@ -7358,7 +7363,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2068
+      "UsersEstimate": 2069
     },
     {
       "ID": "achievement_0035",
@@ -7374,7 +7379,7 @@
       "Name": "Ups and Downs",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "achievement_0037",
@@ -7414,7 +7419,7 @@
       "Name": "Filling in the Gaps",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_0042",
@@ -7422,7 +7427,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_0043",
@@ -7485,7 +7490,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 6083,
+      "Progressed": 6084,
       "Completed": 0
     }
   ],
@@ -7493,8 +7498,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-12-09T20:00:15.536226+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:08:26.4965303+00:00",
+  "LastChanged_Achievements": "2023-12-10T01:58:46.2740984+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:20.5741991+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:02:34.5741532+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:08:26.4966179+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:53:39.0520541+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:58:46.2741504+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -207,9 +207,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7641,
+  "EOS_Progressed": 7645,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6042,6 +6042,11 @@
       "Time": "2023-12-10T00:11:50.1230669+00:00",
       "NumProgressed": 7641,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-10T02:01:03.0079385+00:00",
+      "NumProgressed": 7645,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6062,7 +6067,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "BeLikeWater",
@@ -6126,7 +6131,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2216
+      "UsersEstimate": 2217
     },
     {
       "ID": "FuneralForTheDeath",
@@ -6206,7 +6211,7 @@
       "Name": "No More Totems",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "NotLikeTheOthers",
@@ -6254,7 +6259,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "ThisIsDharma",
@@ -6278,7 +6283,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -6310,7 +6315,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "k01101110",
@@ -6318,14 +6323,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7641,
+      "Progressed": 7645,
       "Completed": 15
     }
   ],
@@ -6333,8 +6338,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-09T07:57:44.7970456+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:11:50.1230664+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:01:03.0079381+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:59:59.6422525+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:11:50.1231038+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:49:08.7590381+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:01:03.007986+00:00"
 }

@@ -1,11 +1,11 @@
 # League of Legends
 [Store](https://store.epicgames.com/en-US/p/league-of-legends)  
 [View Rawdata](../../db/l/league_of_legends.json)  
-Rating: 4.21 (Ranked 914)  
+Rating: 4.21 (Ranked 913)  
 Number of Ratings: 10,796  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 4,719  (Ranked 78)  
-Sum: 21,997 (Ranked 57)  
+Sum: 22,007 (Ranked 57)  
 Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 21
 | This game has Amazing Characters | 3,503 |
 | This game has Competitive Players | 3,431 |
 | This game has a Competitive Community | 3,293 |
-| This game has Amazing Storytelling | 3,226 |
+| This game has Amazing Storytelling | 3,236 |
 | This game has Obsessive Gameplay | 403 |
 | This game has Quickly Understood Controls | 260 |
 ## Ratings History
@@ -358,3 +358,4 @@ Diff (max vs sum): 21
 | 2023-12-07 | 4.21 | - | 4,689 | 21,859 |
 | 2023-12-08 | 4.21 | - | 4,710 | 21,930 |
 | 2023-12-09 | 4.21 | - | 4,719 | 21,997 |
+| 2023-12-10 | 4.21 | - | 4,719 | 22,007 |

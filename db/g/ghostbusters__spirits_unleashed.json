@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3687,9 +3687,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32109,
+  "EOS_Progressed": 32114,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -21877,6 +21877,11 @@
       "Time": "2023-12-10T00:06:08.4663872+00:00",
       "NumProgressed": 32109,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-10T01:55:38.6987611+00:00",
+      "NumProgressed": 32114,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21928,7 +21933,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "Collect_Spores",
@@ -21936,7 +21941,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "Collector",
@@ -21952,7 +21957,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "Daily_Dose",
@@ -21960,7 +21965,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "Diabolical",
@@ -21976,7 +21981,7 @@
       "Name": "Discovery",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "Dont_Need_These",
@@ -22024,7 +22029,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "GB_In_Training",
@@ -22176,7 +22181,7 @@
       "Name": "Solo Capture",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "Stunner",
@@ -22216,7 +22221,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "Teamwork",
@@ -22224,7 +22229,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "Terrifying",
@@ -22248,7 +22253,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "Tobins_Prodigy",
@@ -22272,7 +22277,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "Welcome_Crew",
@@ -22288,14 +22293,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32109,
+      "Progressed": 32114,
       "Completed": 69
     }
   ],
@@ -22303,8 +22308,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-09T22:57:42.7462802+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:06:08.4663867+00:00",
+  "LastChanged_Achievements": "2023-12-10T01:55:38.6987607+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:16.7242615+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:59:36.2519427+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:06:08.4664792+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:48:35.3215901+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:55:38.6989329+00:00"
 }

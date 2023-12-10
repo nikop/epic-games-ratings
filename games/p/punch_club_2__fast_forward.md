@@ -35,12 +35,12 @@
 | Intriguing candies | 58.00% | ~211 |
 | Legal courier | 56.00% | ~203 |
 | Extreme neuropower! | 55.00% | ~200 |
-| Escaped from a big trouble | 52.00% | ~189 |
-| Now you are worthy | 48.00% | ~174 |
+| Escaped from a big trouble | 53.00% | ~192 |
+| Now you are worthy | 49.00% | ~178 |
 | Fight is life | 48.00% | ~174 |
 | Mysterious voice | 47.00% | ~171 |
 | Guiding on the right path | 47.00% | ~171 |
-| No blades in the gym | 44.00% | ~160 |
+| No blades in the gym | 45.00% | ~163 |
 | Champion – no way back | 43.00% | ~156 |
 | Underground dwellers | 42.00% | ~152 |
 | Responsible approach | 42.00% | ~152 |
@@ -71,7 +71,7 @@
 | The only right decision | 31.00% | ~113 |
 | Silver’s past | 30.00% | ~109 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 339)  
+Progressed: 363 (Ranked 340)  
 Completed: 9 (2.48%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |

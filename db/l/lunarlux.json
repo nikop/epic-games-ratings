@@ -2,10 +2,10 @@
   "ID": "5b61a021e285436a9c826389d731090d",
   "Name": "LunarLux",
   "ProductSlug": "lunarlux-41403d",
-  "Ranking_EOS_Progress": 787,
+  "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-25T16:00:00+00:00",
     "PcReleaseDate": "2023-09-25T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-29T14:58:06.7703781+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:43.4619762+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:02:12.6274993+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:07:08.1288237+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:52:16.8665024+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:56:59.4459253+00:00"
 }

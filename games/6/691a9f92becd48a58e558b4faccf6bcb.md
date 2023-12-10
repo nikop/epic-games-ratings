@@ -23,7 +23,7 @@
 | So close! | 0.70% | ~2 |
 | Bling Bling | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303 (Ranked 358)  
+Progressed: 303 (Ranked 359)  
 Completed: 1 (0.33%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |

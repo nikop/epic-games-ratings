@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -857,10 +857,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 119,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2023-12-10T01:54:09.1424577+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 120,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 119,
+  "NumberOfAwards": 120,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -880,7 +886,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Extremely Fun",
@@ -889,9 +895,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3920,
+  "EOS_Progressed": 3921,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6824,6 +6830,11 @@
       "Time": "2023-12-10T00:10:33.0641392+00:00",
       "NumProgressed": 3920,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T01:59:19.8563819+00:00",
+      "NumProgressed": 3921,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6844,7 +6855,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2156
+      "UsersEstimate": 2157
     },
     {
       "ID": "achievement_11",
@@ -6892,7 +6903,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "achievement_17",
@@ -6948,7 +6959,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "achievement_4",
@@ -6964,7 +6975,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "achievement_6",
@@ -6980,7 +6991,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "achievement_8",
@@ -7003,16 +7014,16 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3920,
+      "Progressed": 3921,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
-  "LastChanged": "2023-12-04T09:02:50.9038857+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:10:33.0641388+00:00",
+  "LastChanged": "2023-12-10T01:54:09.1424575+00:00",
+  "LastChanged_Achievements": "2023-12-10T01:59:19.8563816+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:06.4979086+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:05:07.9195674+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:10:33.0641728+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:54:09.142458+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:59:19.8564189+00:00"
 }

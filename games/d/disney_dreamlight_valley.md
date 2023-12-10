@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 69.00% | ~8,576 |
-| Photographer | 68.00% | ~8,452 |
-| Valley's Helper | 61.00% | ~7,582 |
-| Constructor | 51.00% | ~6,339 |
-| Renovator | 51.00% | ~6,339 |
-| Bestest Friend | 46.00% | ~5,717 |
-| Banker | 39.00% | ~4,847 |
-| Gardener | 31.00% | ~3,853 |
-| Generous | 25.00% | ~3,107 |
-| Chef Cook | 18.00% | ~2,237 |
+| Goofy's Investor | 69.00% | ~8,579 |
+| Photographer | 68.00% | ~8,454 |
+| Valley's Helper | 61.00% | ~7,584 |
+| Constructor | 51.00% | ~6,341 |
+| Renovator | 51.00% | ~6,341 |
+| Bestest Friend | 46.00% | ~5,719 |
+| Banker | 39.00% | ~4,849 |
+| Gardener | 31.00% | ~3,854 |
+| Generous | 25.00% | ~3,108 |
+| Chef Cook | 18.00% | ~2,238 |
 | Miner | 10.00% | ~1,243 |
 | Duty Bound | 7.00% | ~870 |
 | Angler | 6.00% | ~746 |
 | Thorn Cleaner | 6.00% | ~746 |
 | Chit Chatter | 3.00% | ~373 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,429 (Ranked 160)  
+Progressed: 12,433 (Ranked 160)  
 Completed: 303 (2.44%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,17 +207,17 @@ Completed: 303 (2.44%) (Ranked 123)
 | 2023-12-07 | 12,345 | 302 |
 | 2023-12-08 | 12,387 | 302 |
 | 2023-12-09 | 12,427 | 303 |
-| 2023-12-10 | 12,429 | 303 |
+| 2023-12-10 | 12,433 | 303 |
 ## Awards
 Max (Great for Beginners): 1,110  (Ranked 145)  
-Sum: 8,081 (Ranked 108)  
+Sum: 8,083 (Ranked 108)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,110 |
 | This game has Diverse Characters | 923 |
 | This game is Highly Recommended | 844 |
-| This game has Amazing Characters | 829 |
+| This game has Amazing Characters | 831 |
 | This game is Relaxing | 815 |
 | This game has Amazing Storytelling | 789 |
 | This game is Extremely Fun | 773 |
@@ -498,3 +498,4 @@ Diff (max vs sum): 37
 | 2023-12-07 | 4.76 | - | 1,100 | 8,056 |
 | 2023-12-08 | 4.76 | - | 1,105 | 8,074 |
 | 2023-12-09 | 4.76 | - | 1,110 | 8,081 |
+| 2023-12-10 | 4.76 | - | 1,110 | 8,083 |

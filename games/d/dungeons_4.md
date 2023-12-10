@@ -11,8 +11,8 @@
 | The Hellwoods | 77.00% | ~413 |
 | Experienced Thalya | 73.00% | ~392 |
 | The Plains of Strothalm | 72.00% | ~387 |
+| Bad Elves Go Everywhere | 70.00% | ~376 |
 | Thalya's Concentrated Fury | 69.00% | ~371 |
-| Bad Elves Go Everywhere | 69.00% | ~371 |
 | Heroes’ Gorge | 65.00% | ~349 |
 | Master of Magic | 64.00% | ~344 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~338 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 8.00% | ~43 |
 | I Don't Need Any Help | 7.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537 (Ranked 310)  
+Progressed: 537 (Ranked 311)  
 Completed: 14 (2.61%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |

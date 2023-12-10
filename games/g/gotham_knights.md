@@ -1,36 +1,36 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 933)  
+Rating: 4.18 (Ranked 943)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~38,920 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,466 |
-| Loose Ends | 33.00% | ~25,688 |
-| To the Victor Go the Spoils | 28.00% | ~21,795 |
-| Knighthood | 27.00% | ~21,017 |
-| Get ReQ'd | 25.00% | ~19,460 |
-| Whispered Words | 24.00% | ~18,682 |
-| The Batman Family | 22.00% | ~17,125 |
-| Lock and Key | 22.00% | ~17,125 |
+| First Step Into the Knight | 50.00% | ~38,922 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,467 |
+| Loose Ends | 33.00% | ~25,689 |
+| To the Victor Go the Spoils | 28.00% | ~21,797 |
+| Knighthood | 27.00% | ~21,018 |
+| Get ReQ'd | 25.00% | ~19,461 |
+| Whispered Words | 24.00% | ~18,683 |
+| The Batman Family | 22.00% | ~17,126 |
+| Lock and Key | 22.00% | ~17,126 |
 | Something in the Clay | 21.00% | ~16,347 |
-| Quartzer Life Crisis | 20.00% | ~15,568 |
-| Working Hard or Harley Working? | 20.00% | ~15,568 |
-| Unstoppable Force | 20.00% | ~15,568 |
-| Bad Apples in Every Orchard | 20.00% | ~15,568 |
-| Snow Problem | 19.00% | ~14,790 |
-| The Show Mud Go On | 18.00% | ~14,011 |
-| From Inside Gotham's Walls | 18.00% | ~14,011 |
-| Protector of Gotham | 17.00% | ~13,233 |
+| Quartzer Life Crisis | 20.00% | ~15,569 |
+| Working Hard or Harley Working? | 20.00% | ~15,569 |
+| Unstoppable Force | 20.00% | ~15,569 |
+| Bad Apples in Every Orchard | 20.00% | ~15,569 |
+| Snow Problem | 19.00% | ~14,791 |
+| The Show Mud Go On | 18.00% | ~14,012 |
+| From Inside Gotham's Walls | 18.00% | ~14,012 |
+| Protector of Gotham | 17.00% | ~13,234 |
 | Universal Health Scare | 16.00% | ~12,455 |
-| In Your Element | 15.00% | ~11,676 |
-| Voiceless | 15.00% | ~11,676 |
+| In Your Element | 15.00% | ~11,677 |
+| Voiceless | 15.00% | ~11,677 |
 | Rock and a Hard Place | 14.00% | ~10,898 |
 | Cooldown | 14.00% | ~10,898 |
 | Seeking Asylum | 14.00% | ~10,898 |
-| Not On My Watch | 13.00% | ~10,119 |
-| Shock Til They Drop | 13.00% | ~10,119 |
+| Not On My Watch | 13.00% | ~10,120 |
+| Shock Til They Drop | 13.00% | ~10,120 |
 | End of an Era | 12.00% | ~9,341 |
 | Bulldozed | 12.00% | ~9,341 |
 | Gotham Knight | 12.00% | ~9,341 |
@@ -39,8 +39,8 @@ Rating: 4.19 (Ranked 933)
 | Out of Their League | 9.00% | ~7,006 |
 | Solid Alibi | 9.00% | ~7,006 |
 | Fusion Expert | 7.00% | ~5,449 |
-| Family Meeting | 6.00% | ~4,670 |
-| A Worthy Successor | 6.00% | ~4,670 |
+| Family Meeting | 6.00% | ~4,671 |
+| A Worthy Successor | 6.00% | ~4,671 |
 | Expert Crime Fighter | 5.00% | ~3,892 |
 | Dressed to Impress | 4.00% | ~3,114 |
 | A Momentum Occasion | 3.00% | ~2,335 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 933)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,841 (Ranked 99)  
+Progressed: 77,845 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,17 +301,17 @@ Completed: 124 (0.16%) (Ranked 272)
 | 2023-12-07 | 77,772 | 124 |
 | 2023-12-08 | 77,802 | 124 |
 | 2023-12-09 | 77,840 | 124 |
-| 2023-12-10 | 77,841 | 124 |
+| 2023-12-10 | 77,845 | 124 |
 ## Awards
 Max (Great Boss Battles): 3,001  (Ranked 98)  
-Sum: 5,126 (Ranked 140)  
+Sum: 5,127 (Ranked 140)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,001 |
 | This game has Diverse Characters | 270 |
+| This game is Relaxing | 268 |
 | This game is Extremely Fun | 268 |
-| This game is Relaxing | 267 |
 | This game is Great for Beginners | 266 |
 | This game has Quickly Understood Controls | 265 |
 | This game has Amazing Characters | 263 |
@@ -609,3 +609,4 @@ Diff (max vs sum): -42
 | 2023-12-07 | 4.18 | 2,996 | 5,118 |
 | 2023-12-08 | 4.18 | 3,001 | 5,123 |
 | 2023-12-09 | 4.19 | 3,001 | 5,126 |
+| 2023-12-10 | 4.18 | 3,001 | 5,127 |

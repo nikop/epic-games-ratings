@@ -2,10 +2,10 @@
   "ID": "e6059b123f9045878919974afd435691",
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
-  "Ranking_EOS_Progress": 263,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -3141,9 +3141,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "End the Infestation",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 97
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -3348,8 +3348,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:12:00.8742633+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:01:16.4170153+00:00",
   "LastUpdate_AppInfo": "2023-12-08T02:20:37.1231344+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:00:45.32017+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:12:00.8743174+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:50:11.5767905+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:01:16.4170789+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Ghostwire: Tokyo",
   "ProductSlug": "ghostwire-tokyo",
   "Ranking_Rating": 546,
-  "Ranking_Popularity": 134,
-  "Ranking_PopularitySum": 213,
-  "Ranking_EOS_Progress": 787,
+  "Ranking_Popularity": 133,
+  "Ranking_PopularitySum": 212,
+  "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
     "PcReleaseDate": "2022-03-25T04:00:00+00:00",
@@ -2524,24 +2524,30 @@
       "Rating": 4.53,
       "NumberOfAwards": 2090,
       "NumberOfAwardsMax": 1499
+    },
+    {
+      "Time": "2023-12-10T01:51:12.5710393+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 2104,
+      "NumberOfAwardsMax": 1511
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2090,
-  "NumberOfAwardsMax": 1499,
+  "NumberOfAwards": 2104,
+  "NumberOfAwardsMax": 1511,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1499
+      "Count": 1511
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 70
+      "Count": 72
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2609,8 +2615,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2023-12-09T17:59:14.3160525+00:00",
+  "LastChanged": "2023-12-10T01:51:12.5710391+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.5290116+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:01:27.9431878+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:08:45.0780841+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:51:12.5710397+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:59:11.0353219+00:00"
 }

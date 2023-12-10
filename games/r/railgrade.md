@@ -5,18 +5,18 @@ Rating: 4.55 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 105.00% | ~19,152 |
-| Before the Downfall | 100.00% | ~18,240 |
-| Money like Water | 98.00% | ~17,875 |
-| Minimalist | 96.00% | ~17,510 |
-| Builder | 89.00% | ~16,234 |
-| Eraser | 75.00% | ~13,680 |
-| Pocket of Trains | 70.00% | ~12,768 |
+| Trevithick's Legacy | 105.00% | ~19,151 |
+| Before the Downfall | 100.00% | ~18,239 |
+| Money like Water | 98.00% | ~17,874 |
+| Minimalist | 96.00% | ~17,509 |
+| Builder | 89.00% | ~16,233 |
+| Eraser | 75.00% | ~13,679 |
+| Pocket of Trains | 70.00% | ~12,767 |
 | Inspector | 63.00% | ~11,491 |
 | Going the Distance | 58.00% | ~10,579 |
 | Oil Baron | 45.00% | ~8,208 |
 | Loads-a-Money | 45.00% | ~8,208 |
-| Helper of the People | 42.00% | ~7,661 |
+| Helper of the People | 42.00% | ~7,660 |
 | Simplification | 36.00% | ~6,566 |
 | Box of Trains | 36.00% | ~6,566 |
 | Let There be Light | 35.00% | ~6,384 |
@@ -26,9 +26,9 @@ Rating: 4.55 (Ranked 511)
 | Industrialist | 27.00% | ~4,925 |
 | Perfectionist | 25.00% | ~4,560 |
 | Trains over Pipes | 25.00% | ~4,560 |
-| 8K is Enough for Everyone | 24.00% | ~4,378 |
+| 8K is Enough for Everyone | 24.00% | ~4,377 |
 | Man of Steel | 18.00% | ~3,283 |
-| Room Full of Trains | 14.00% | ~2,554 |
+| Room Full of Trains | 14.00% | ~2,553 |
 | Investor | 11.00% | ~2,006 |
 | Multiverse | 8.00% | ~1,459 |
 | The poor groundwater levels | 8.00% | ~1,459 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 511)
 | Overdeer | 0.60% | ~109 |
 | Cloud Services | 0.30% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,240 (Ranked 145)  
+Progressed: 18,239 (Ranked 145)  
 Completed: 27 (0.15%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,6 +274,7 @@ Completed: 27 (0.15%) (Ranked 276)
 | 2023-12-07 | 18,263 | 27 |
 | 2023-12-08 | 18,256 | 27 |
 | 2023-12-09 | 18,245 | 27 |
+| 2023-12-10 | 18,239 | 27 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 379)  
 Sum: 679 (Ranked 306)  

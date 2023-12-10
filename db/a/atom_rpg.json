@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -3430,9 +3430,9 @@
       "ID": "SUPERHUMAN_1",
       "SetID": "bf13m8j",
       "Name": "Superhuman",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 121
     },
     {
       "ID": "TRAVELER_1",
@@ -3478,8 +3478,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:11:47.9929848+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:01:00.2757144+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.8327471+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:01:44.2148155+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:11:47.9930121+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:51:36.1232239+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:01:00.2757437+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9418,10 +9418,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20019,
       "NumberOfAwardsMax": 7572
+    },
+    {
+      "Time": "2023-12-10T01:48:41.042646+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20023,
+      "NumberOfAwardsMax": 7572
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20019,
+  "NumberOfAwards": 20023,
   "NumberOfAwardsMax": 7572,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9471,7 +9477,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1630
+      "Count": 1632
     },
     {
       "Text": "This game is Relaxing",
@@ -9489,7 +9495,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1343
+      "Count": 1345
     },
     {
       "Text": "This game has a Creative Community",
@@ -9498,9 +9504,9 @@
       "Count": 983
     }
   ],
-  "EOS_Progressed": 125954,
+  "EOS_Progressed": 125963,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34248,6 +34254,11 @@
       "Time": "2023-12-10T00:10:56.9097278+00:00",
       "NumProgressed": 125954,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-10T01:59:52.2186883+00:00",
+      "NumProgressed": 125963,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34505,9 +34516,9 @@
       "ID": "combat_kill_shambler_pet_shambler",
       "SetID": "64l4lke",
       "Name": "Circle of Life",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 126
     },
     {
       "ID": "combat_kill_swine",
@@ -34890,21 +34901,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 125954,
+      "Progressed": 125963,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 823,
+      "Progressed": 832,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-09T15:57:09.2241371+00:00",
-  "LastChanged_Achievements": "2023-12-10T00:10:56.9097276+00:00",
+  "LastChanged": "2023-12-10T01:48:41.0426459+00:00",
+  "LastChanged_Achievements": "2023-12-10T01:59:52.2186879+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-09T23:59:40.1764773+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:10:56.9098677+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:48:41.0426464+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:59:52.2188723+00:00"
 }

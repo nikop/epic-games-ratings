@@ -16,6 +16,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.70% | ~5,025 |
 | Qi Gong: Breath | 0.70% | ~5,025 |
 | Lightning Hands | 0.70% | ~5,025 |
+| Path of the Prospect | 0.70% | ~5,025 |
 | Rumble in the Hangar | 0.70% | ~5,025 |
 | Lady Wing Chun | 0.60% | ~4,308 |
 | Furious Fists | 0.60% | ~4,308 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Street Fighting | 0.60% | ~4,308 |
 | Qi Gong: Essence | 0.60% | ~4,308 |
 | Old Child | 0.60% | ~4,308 |
-| Path of the Prospect | 0.60% | ~4,308 |
 | Fight the way you practice | 0.60% | ~163 |
 | Scareless | 0.50% | ~3,590 |
 | Kung-Fu Tussle | 0.50% | ~3,590 |

@@ -20,9 +20,9 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 9.00% | ~280 |
 | Bottom ply killer | 8.00% | ~249 |
 | Fashionista | 8.00% | ~249 |
+| Finally he zips it | 8.00% | ~249 |
 | That pinch! | 8.00% | ~249 |
 | Tight lipslides | 8.00% | ~249 |
-| Finally he zips it | 7.00% | ~218 |
 | Fulfilled the dream | 7.00% | ~218 |
 | G'Day Mate! | 7.00% | ~218 |
 | Commence the Hijinx! | 6.00% | ~186 |

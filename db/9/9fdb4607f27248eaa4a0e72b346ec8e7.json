@@ -2,10 +2,10 @@
   "ID": "9fdb4607f27248eaa4a0e72b346ec8e7",
   "Name": "The World of Nifty Craft",
   "ProductSlug": "the-world-of-nifty-craft-f6c350",
-  "Ranking_EOS_Progress": 787,
+  "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.223114+00:00",
-  "LastUpdate_Ratings": "2023-12-10T00:01:04.9271179+00:00",
-  "LastUpdate_Achievements": "2023-12-10T00:06:56.244031+00:00"
+  "LastUpdate_Ratings": "2023-12-10T01:50:39.5137684+00:00",
+  "LastUpdate_Achievements": "2023-12-10T01:56:43.5219879+00:00"
 }
