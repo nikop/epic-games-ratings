@@ -15,15 +15,15 @@ Number of Ratings: 90  (23.09.2022)
 | I Look Up As I Walk to Takoshima | 14.00% | ~4 |
 | Upgreatest | 14.00% | ~4 |
 | Pimp My Raid | 14.00% | ~4 |
+| Fly Me to the Moon Base | 11.00% | ~3 |
+| Scuttled | 11.00% | ~3 |
 | Earthly Pleasures | 11.00% | ~3 |
 | Dusted | 11.00% | ~3 |
 | Perfect Probulator | 7.00% | ~2 |
 | Cult Following | 7.00% | ~2 |
 | Lie Back and Think of Albion | 7.00% | ~2 |
-| Fly Me to the Moon Base | 7.00% | ~2 |
 | Bodied Sattva | 7.00% | ~2 |
 | Kaijuiced | 7.00% | ~2 |
-| Scuttled | 7.00% | ~2 |
 | Transmitting From Sol-3 | 4.00% | ~1 |
 | Forbidden Donut | 4.00% | ~1 |
 | Lobster Blisque | 4.00% | ~1 |

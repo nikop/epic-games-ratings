@@ -2,13 +2,13 @@
   "ID": "8c7ed85dae4341d385919ee4d832eb1a",
   "Name": "Just Die Already",
   "ProductSlug": "just-die-already",
-  "Ranking_Rating": 563,
+  "Ranking_Rating": 562,
   "Ranking_Popularity": 356,
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-05-20T17:00:00+00:00",
     "PcReleaseDate": "2021-05-20T17:00:00+00:00",
@@ -1809,6 +1809,6 @@
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
   "LastChanged": "2023-12-04T18:57:32.0718431+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:44.2857746+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:59:53.6315773+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:03:15.2553293+00:00"
+  "LastUpdate_Ratings": "2023-12-10T04:00:00.9299078+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:03:22.2611433+00:00"
 }

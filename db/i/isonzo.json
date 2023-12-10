@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -991,9 +991,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9309,
+  "EOS_Progressed": 9310,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9096,6 +9096,11 @@
       "Time": "2023-12-10T01:59:23.258506+00:00",
       "NumProgressed": 9309,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-10T04:08:26.2820397+00:00",
+      "NumProgressed": 9310,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9139,7 +9144,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -9299,7 +9304,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4282
+      "UsersEstimate": 4283
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -9355,7 +9360,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2513
+      "UsersEstimate": 2514
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -9466,7 +9471,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9309,
+      "Progressed": 9310,
       "Completed": 10
     }
   ],
@@ -9474,8 +9479,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-09T14:58:44.4952754+00:00",
-  "LastChanged_Achievements": "2023-12-10T03:08:21.5952985+00:00",
+  "LastChanged_Achievements": "2023-12-10T04:08:26.2820391+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:02.1312935+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:58:55.8751674+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:08:21.5953615+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:59:03.4157917+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:08:26.2820972+00:00"
 }

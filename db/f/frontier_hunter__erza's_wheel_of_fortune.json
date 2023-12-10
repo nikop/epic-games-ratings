@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -1931,9 +1931,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2260,8 +2260,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-10T03:08:40.0459745+00:00",
+  "LastChanged_Achievements": "2023-12-10T04:08:44.5850553+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:58:54.9486082+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:08:40.0460072+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:59:02.4891132+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:08:44.5850942+00:00"
 }

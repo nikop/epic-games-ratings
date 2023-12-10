@@ -4,11 +4,11 @@
   "ProductSlug": "kerbal-space-program",
   "Ranking_Rating": 98,
   "Ranking_Popularity": 142,
-  "Ranking_PopularitySum": 123,
+  "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-01-05T16:00:00+00:00",
     "PcReleaseDate": "2015-04-27T15:00:00+00:00",
@@ -7351,10 +7351,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 7079,
       "NumberOfAwardsMax": 1192
+    },
+    {
+      "Time": "2023-12-10T03:58:21.6702307+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 7082,
+      "NumberOfAwardsMax": 1192
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7079,
+  "NumberOfAwards": 7082,
   "NumberOfAwardsMax": 1192,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -7386,7 +7392,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1050
+      "Count": 1053
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7419,8 +7425,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-12-09T19:58:14.7899324+00:00",
+  "LastChanged": "2023-12-10T03:58:21.6702305+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:58.4304915+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:58:14.4013638+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:04:52.7167103+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:58:21.6702312+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:04:58.3814303+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.29 (Ranked 853)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~2,157 |
-| MVP | 54.00% | ~2,117 |
-| Big Spender | 53.00% | ~2,078 |
-| Stud Finder | 40.00% | ~1,568 |
-| Dealmaker | 39.00% | ~1,529 |
-| ROTY | 32.00% | ~1,255 |
+| Bragging Rights | 55.00% | ~2,158 |
+| MVP | 54.00% | ~2,119 |
+| Big Spender | 53.00% | ~2,080 |
+| Stud Finder | 40.00% | ~1,570 |
+| Dealmaker | 39.00% | ~1,530 |
+| ROTY | 32.00% | ~1,256 |
 | Roster Reshuffle | 31.00% | ~1,216 |
-| Future of the Franchise | 19.00% | ~745 |
+| Future of the Franchise | 19.00% | ~746 |
 | Throwin’ Dots | 17.00% | ~667 |
 | Already in Progress | 17.00% | ~667 |
-| Primetime | 16.00% | ~627 |
-| Change of Scenery | 16.00% | ~627 |
-| Pro Bowler | 16.00% | ~627 |
+| Primetime | 16.00% | ~628 |
+| Change of Scenery | 16.00% | ~628 |
+| Pro Bowler | 16.00% | ~628 |
 | Unblockable | 9.00% | ~353 |
 | Pocket Ace | 5.00% | ~196 |
 | Lockdown Corner | 5.00% | ~196 |
@@ -27,7 +27,7 @@ Rating: 4.29 (Ranked 853)
 | Lockdown Leader | 0.50% | ~20 |
 | The Fortress | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,921 (Ranked 199)  
+Progressed: 3,924 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,17 +113,18 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-07 | 3,893 | 0 |
 | 2023-12-08 | 3,904 | 0 |
 | 2023-12-09 | 3,919 | 0 |
-| 2023-12-10 | 3,921 | 0 |
+| 2023-12-10 | 3,924 | 0 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 460)  
-Sum: 120 (Ranked 440)  
-Diff (max vs sum): 20  
+Sum: 140 (Ranked 433)  
+Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 41 |
 | This game has a Competitive Community | 32 |
 | This game is Highly Recommended | 25 |
 | This game is Extremely Fun | 22 |
+| This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -264,4 +265,4 @@ Diff (max vs sum): 20
 | 2023-11-30 | 4.27 | 40 | 117 |
 | 2023-12-03 | 4.29 | 40 | 118 |
 | 2023-12-04 | 4.29 | 41 | 119 |
-| 2023-12-10 | 4.29 | 41 | 120 |
+| 2023-12-10 | 4.29 | 41 | 140 |

@@ -14,14 +14,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 2.00% | ~356 |
 | Ominous Presence | 2.00% | ~356 |
 | Untamed Wilds | 2.00% | ~356 |
+| No Deaths | 1.00% | ~178 |
 | The Marshlands | 0.90% | ~160 |
 | Taking Action | 0.90% | ~160 |
-| No Deaths | 0.90% | ~160 |
 | Overcoming Difficulty | 0.80% | ~143 |
+| The Scarlet Orchard | 0.80% | ~143 |
 | First Real Expedition | 0.70% | ~125 |
+| Fertile Meadows | 0.70% | ~125 |
 | Coral Forest | 0.70% | ~125 |
-| The Scarlet Orchard | 0.70% | ~125 |
-| Fertile Meadows | 0.60% | ~107 |
 | Royal Outpost | 0.60% | ~107 |
 | Watchtower | 0.60% | ~107 |
 | Bandit Camp | 0.50% | ~89 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,817 (Ranked 146)  
+Progressed: 17,822 (Ranked 146)  
 Completed: 43 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 43 (0.24%) (Ranked 251)
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
-| 2023-12-10 | 17,817 | 43 |
+| 2023-12-10 | 17,822 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,248 (Ranked 174)  

@@ -4,8 +4,8 @@
   "ProductSlug": "drift-reign-b3a663",
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-06-01T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-05T19:57:19.6166065+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:57:42.2158369+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:03:29.8889617+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:57:49.4896179+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:03:36.780122+00:00"
 }

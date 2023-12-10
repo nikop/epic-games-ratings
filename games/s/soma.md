@@ -1,7 +1,7 @@
 # SOMA
 [Store](https://store.epicgames.com/en-US/p/soma)  
 [View Rawdata](../../db/s/soma.json)  
-Rating: 4.66 (Ranked 294)  
+Rating: 4.65 (Ranked 314)  
 Number of Ratings: 295  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -88,3 +88,4 @@ Number of Ratings: 295  (23.09.2022)
 | 2023-06-21 | 4.66 | - | 0 | 0 |
 | 2023-10-19 | 4.65 | - | 0 | 0 |
 | 2023-12-05 | 4.66 | - | 0 | 0 |
+| 2023-12-10 | 4.65 | - | 0 | 0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80219,
+  "EOS_Progressed": 80221,
   "EOS_Completed": 868,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -26158,6 +26158,11 @@
       "Time": "2023-12-10T03:04:54.1041692+00:00",
       "NumProgressed": 80219,
       "NumCompleted": 868
+    },
+    {
+      "Time": "2023-12-10T04:04:59.8120134+00:00",
+      "NumProgressed": 80221,
+      "NumCompleted": 868
     }
   ],
   "TotalAchievements": 25,
@@ -26201,7 +26206,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17648
+      "UsersEstimate": 17649
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -26209,7 +26214,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14439
+      "UsersEstimate": 14440
     },
     {
       "ID": "Butcher",
@@ -26368,7 +26373,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80219,
+      "Progressed": 80221,
       "Completed": 868
     }
   ],
@@ -26376,8 +26381,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-10T03:04:54.104169+00:00",
+  "LastChanged_Achievements": "2023-12-10T04:04:59.8120132+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:29.3194806+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:57:54.613318+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:04:54.1042749+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:58:01.7453503+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:04:59.8121804+00:00"
 }

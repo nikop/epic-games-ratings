@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -272,7 +272,7 @@
   ],
   "EOS_Progressed": 28,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -559,9 +559,9 @@
       "ID": "ACH_ENTER_SOLARIS",
       "SetID": "4n84pon",
       "Name": "Fly Me to the Moon Base",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -639,9 +639,9 @@
       "ID": "ACH_KILL_WARSHIP",
       "SetID": "4n84pon",
       "Name": "Scuttled",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -776,8 +776,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-10-14T18:57:04.8470544+00:00",
-  "LastChanged_Achievements": "2023-12-10T03:06:11.2577081+00:00",
+  "LastChanged_Achievements": "2023-12-10T04:06:17.2532769+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.5493724+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:59:25.0505961+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:06:11.2577493+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:59:32.0420862+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:06:17.2532993+00:00"
 }

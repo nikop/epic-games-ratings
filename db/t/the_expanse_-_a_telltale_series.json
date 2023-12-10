@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16021,
+  "EOS_Progressed": 16022,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13470,6 +13470,11 @@
       "Time": "2023-12-10T01:56:19.3846137+00:00",
       "NumProgressed": 16021,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-10T04:04:34.1547667+00:00",
+      "NumProgressed": 16022,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13562,7 +13567,7 @@
       "Name": "Martian Music",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "2",
@@ -13586,7 +13591,7 @@
       "Name": "Drone Dodger",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "22",
@@ -13658,7 +13663,7 @@
       "Name": "Captain Drummer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "30",
@@ -13690,7 +13695,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "7",
@@ -13714,7 +13719,7 @@
       "Name": "Impossible Objects",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "31",
@@ -13754,20 +13759,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16021,
+      "Progressed": 16022,
       "Completed": 42
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1975,
+      "Progressed": 1976,
       "Completed": 850
     }
   ],
@@ -13775,8 +13780,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-09T17:58:45.997893+00:00",
-  "LastChanged_Achievements": "2023-12-10T03:04:28.4942165+00:00",
+  "LastChanged_Achievements": "2023-12-10T04:04:34.1547662+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:58:41.7859019+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:04:28.4943037+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:58:48.4395004+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:04:34.1548563+00:00"
 }

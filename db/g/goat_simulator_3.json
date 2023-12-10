@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5701,10 +5701,10 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 253647,
-  "EOS_Completed": 898,
-  "EOS_NewPlayers": 812,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 253648,
+  "EOS_Completed": 899,
+  "EOS_NewPlayers": 810,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
@@ -31146,6 +31146,11 @@
       "Time": "2023-12-10T03:09:44.4681191+00:00",
       "NumProgressed": 253647,
       "NumCompleted": 898
+    },
+    {
+      "Time": "2023-12-10T04:09:47.654156+00:00",
+      "NumProgressed": 253648,
+      "NumCompleted": 899
     }
   ],
   "TotalAchievements": 39,
@@ -31221,7 +31226,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 230819
+      "UsersEstimate": 230820
     },
     {
       "ID": "AchievementClownID",
@@ -31317,7 +31322,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 114141
+      "UsersEstimate": 114142
     },
     {
       "ID": "AchievementIntroID",
@@ -31389,7 +31394,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 187699
+      "UsersEstimate": 187700
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -31437,7 +31442,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 119214
+      "UsersEstimate": 119215
     },
     {
       "ID": "AchievementTrinketID",
@@ -31468,16 +31473,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 253647,
-      "Completed": 898
+      "Progressed": 253648,
+      "Completed": 899
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-12-10T02:56:58.5804474+00:00",
-  "LastChanged_Achievements": "2023-12-10T03:09:44.4681189+00:00",
+  "LastChanged_Achievements": "2023-12-10T04:09:47.6541558+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:59.5237496+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:56:58.5804479+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:09:44.4682706+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:57:06.6296929+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:09:47.6542891+00:00"
 }

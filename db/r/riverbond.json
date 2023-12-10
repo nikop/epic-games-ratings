@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 532855,
+  "EOS_Progressed": 532856,
   "EOS_Completed": 506,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -25212,6 +25212,11 @@
       "Time": "2023-12-10T02:30:04.1707125+00:00",
       "NumProgressed": 532855,
       "NumCompleted": 506
+    },
+    {
+      "Time": "2023-12-10T04:05:10.0264835+00:00",
+      "NumProgressed": 532856,
+      "NumCompleted": 506
     }
   ],
   "TotalAchievements": 57,
@@ -25239,7 +25244,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372998
+      "UsersEstimate": 372999
     },
     {
       "ID": "12",
@@ -25303,7 +25308,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 330370
+      "UsersEstimate": 330371
     },
     {
       "ID": "2",
@@ -25519,7 +25524,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 90585
+      "UsersEstimate": 90586
     },
     {
       "ID": "44",
@@ -25551,7 +25556,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 330370
+      "UsersEstimate": 330371
     },
     {
       "ID": "48",
@@ -25599,7 +25604,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 245113
+      "UsersEstimate": 245114
     },
     {
       "ID": "53",
@@ -25678,15 +25683,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 532855,
+      "Progressed": 532856,
       "Completed": 506
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-12-10T03:05:04.1402873+00:00",
+  "LastChanged_Achievements": "2023-12-10T04:05:10.0264833+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:06.8552827+00:00",
   "LastUpdate_Ratings": "2023-12-10T03:00:11.8760959+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:05:04.1404481+00:00"
+  "LastUpdate_Achievements": "2023-12-10T04:05:10.0266158+00:00"
 }

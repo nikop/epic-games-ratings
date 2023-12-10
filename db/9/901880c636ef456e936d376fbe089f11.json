@@ -4,8 +4,8 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.95,
+  "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
     {
       "Time": "2023-06-14T04:03:10.0787902+00:00",
@@ -549,6 +549,11 @@
       "Time": "2023-12-09T09:04:56.8769326+00:00",
       "NumProgressed": 105,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T04:05:44.4749993+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -622,7 +627,7 @@
       "ID": "ACH_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "First Brew",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 5,
       "UsersEstimate": 93
     },
@@ -630,7 +635,7 @@
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "It\u0027s a masterpiece!",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 5,
       "UsersEstimate": 88
     },
@@ -710,7 +715,7 @@
       "ID": "ACH_FIVE_STARS",
       "SetID": "8h8m55b",
       "Name": "\u201CFive Stars!\u201D",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 10
     },
@@ -744,15 +749,15 @@
       "Name": "A Hardboiled Advice",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_HOW_I_MET_YOUR_ANCESTOR",
       "SetID": "8h8m55b",
       "Name": "How I Met Your Ancestor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_HYDE_LEIBOVITZ",
@@ -782,7 +787,7 @@
       "ID": "ACH_LOCAL_FAVORITE",
       "SetID": "8h8m55b",
       "Name": "Local Favorite",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -790,9 +795,9 @@
       "ID": "ACH_MASTER_PURLOINER",
       "SetID": "8h8m55b",
       "Name": "Master Purloiner",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_NEW_GAME_FIRST_TIME",
@@ -800,7 +805,7 @@
       "Name": "Welcome to Coffee Talk",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_NOTHING_TO_SHOW",
@@ -822,7 +827,7 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 71
     },
@@ -832,7 +837,7 @@
       "Name": "Remembrance",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_SAVED100",
@@ -902,7 +907,7 @@
       "ID": "ACH_UNLOCK_ALL",
       "SetID": "8h8m55b",
       "Name": "Oh wow, thank you ... I guess",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 190,
       "UsersEstimate": 1
     },
@@ -910,7 +915,7 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 48
     },
@@ -934,9 +939,9 @@
       "ID": "ACH_UNSOLICITED_BOUNCER",
       "SetID": "8h8m55b",
       "Name": "Unsolicited Bouncer",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_VAMPIRES_DONT_CHANGE",
@@ -974,23 +979,23 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "8h8m55b",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-10T03:05:38.5640686+00:00",
+  "LastChanged_Achievements": "2023-12-10T04:05:44.4749988+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.1388786+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:57:37.1592485+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:05:38.5641007+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:57:44.5704173+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:05:44.4750621+00:00"
 }

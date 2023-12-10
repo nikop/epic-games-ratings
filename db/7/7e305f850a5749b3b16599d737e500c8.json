@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 10,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 210,
-  "EOS_Completed": 78,
+  "EOS_Completed": 79,
   "EOS_NewPlayers": 10,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 37.14,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 37.62,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -1214,6 +1214,11 @@
       "Time": "2023-12-10T01:55:21.6592934+00:00",
       "NumProgressed": 210,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-12-10T04:03:50.382182+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 18,
@@ -1223,9 +1228,9 @@
       "ID": "Best_friends_forever",
       "SetID": "b7i210",
       "Name": "Best friends forever",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 150,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "Dreamkeeper",
@@ -1369,13 +1374,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 210,
-      "Completed": 78
+      "Completed": 79
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-12-10T03:03:43.5572012+00:00",
+  "LastChanged_Achievements": "2023-12-10T04:03:50.3821814+00:00",
   "LastUpdate_AppInfo": "2023-12-05T06:57:08.536016+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:57:21.6399486+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:03:43.5572193+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:57:29.4838875+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:03:50.3822276+00:00"
 }

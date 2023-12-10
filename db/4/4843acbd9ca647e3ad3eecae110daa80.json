@@ -4,8 +4,8 @@
   "ProductSlug": "kanea-fc0dea",
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-11-10T05:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-04T20:57:11.4166815+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:59:49.1724063+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:06:33.9501998+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:59:56.5269017+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:08:19.683751+00:00"
 }

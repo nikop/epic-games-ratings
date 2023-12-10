@@ -4,8 +4,8 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -511,9 +511,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBROTHER",
       "SetID": "caeik3h",
       "Name": "My Watch Begins",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
@@ -1055,9 +1055,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_THING",
       "SetID": "caeik3h",
       "Name": "Get Away From That!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "KR4_ACHIEVEMENT_TROLL",
@@ -1108,8 +1108,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-10T03:04:15.5472592+00:00",
+  "LastChanged_Achievements": "2023-12-10T04:04:20.7041948+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:53.8103037+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:58:51.7359654+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:04:15.5473198+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:58:59.3123585+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:04:20.7042593+00:00"
 }

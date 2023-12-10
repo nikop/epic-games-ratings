@@ -6,48 +6,48 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~308,388 |
-| Full garage | 61.00% | ~257,694 |
-| To the eyeballs! | 51.00% | ~215,449 |
-| Individual delivery | 47.00% | ~198,551 |
-| Non-Stop | 45.00% | ~190,102 |
-| Juggler | 36.00% | ~152,082 |
-| Forgot something | 35.00% | ~147,857 |
-| Close call! | 30.00% | ~126,735 |
-| Get out my way | 28.00% | ~118,286 |
-| Common cause | 26.00% | ~109,837 |
-| Critical care | 26.00% | ~109,837 |
-| Mega-railroad | 23.00% | ~97,163 |
-| Upgrade complete | 23.00% | ~97,163 |
-| Just in time! | 18.00% | ~76,041 |
-| Builder | 17.00% | ~71,816 |
-| Long Haul | 17.00% | ~71,704 |
-| Steam Age | 16.00% | ~67,592 |
-| Multilevel road | 15.00% | ~63,367 |
-| Bridgemania | 14.00% | ~59,143 |
-| Need to think | 14.00% | ~59,143 |
-| The Tortoise | 12.00% | ~50,694 |
-| Beginner | 11.00% | ~46,469 |
-| Without a lunch break | 11.00% | ~46,469 |
-| One way | 10.00% | ~42,245 |
-| Relocation | 10.00% | ~42,245 |
-| Industrial Age | 9.00% | ~38,020 |
-| Just One More Valley | 9.00% | ~37,961 |
-| Prick of conscience | 8.00% | ~33,796 |
-| Missed it! | 7.00% | ~29,571 |
-| At the last moment! | 6.00% | ~25,347 |
-| Overseer | 6.00% | ~25,347 |
-| Highlander | 5.00% | ~21,122 |
-| Jewelry accuracy | 5.00% | ~21,122 |
-| Stargazer | 5.00% | ~21,122 |
+| Dealmaker | 73.00% | ~308,397 |
+| Full garage | 61.00% | ~257,702 |
+| To the eyeballs! | 51.00% | ~215,456 |
+| Individual delivery | 47.00% | ~198,557 |
+| Non-Stop | 45.00% | ~190,108 |
+| Juggler | 36.00% | ~152,086 |
+| Forgot something | 35.00% | ~147,862 |
+| Close call! | 30.00% | ~126,739 |
+| Get out my way | 28.00% | ~118,289 |
+| Common cause | 26.00% | ~109,840 |
+| Critical care | 26.00% | ~109,840 |
+| Mega-railroad | 23.00% | ~97,166 |
+| Upgrade complete | 23.00% | ~97,166 |
+| Just in time! | 18.00% | ~76,043 |
+| Builder | 17.00% | ~71,819 |
+| Long Haul | 17.00% | ~71,707 |
+| Steam Age | 16.00% | ~67,594 |
+| Multilevel road | 15.00% | ~63,369 |
+| Bridgemania | 14.00% | ~59,145 |
+| Need to think | 14.00% | ~59,145 |
+| The Tortoise | 12.00% | ~50,695 |
+| Beginner | 11.00% | ~46,471 |
+| Without a lunch break | 11.00% | ~46,471 |
+| One way | 10.00% | ~42,246 |
+| Relocation | 10.00% | ~42,246 |
+| Industrial Age | 9.00% | ~38,022 |
+| Just One More Valley | 9.00% | ~37,962 |
+| Prick of conscience | 8.00% | ~33,797 |
+| Missed it! | 7.00% | ~29,572 |
+| At the last moment! | 6.00% | ~25,348 |
+| Overseer | 6.00% | ~25,348 |
+| Highlander | 5.00% | ~21,123 |
+| Jewelry accuracy | 5.00% | ~21,123 |
+| Stargazer | 5.00% | ~21,123 |
 | Bridge builder | 4.00% | ~16,898 |
 | Electrical Age | 4.00% | ~16,898 |
 | Engineer | 4.00% | ~16,898 |
 | Large construction | 4.00% | ~16,898 |
 | Squander | 4.00% | ~16,898 |
-| Globalisation Age | 3.00% | ~12,673 |
-| Living it large | 3.00% | ~12,673 |
-| Sabotage | 3.00% | ~12,673 |
+| Globalisation Age | 3.00% | ~12,674 |
+| Living it large | 3.00% | ~12,674 |
+| Sabotage | 3.00% | ~12,674 |
 | Test Batch | 3.00% | ~12,654 |
 | Astronomer | 2.00% | ~8,449 |
 | Innovator | 2.00% | ~8,449 |
@@ -57,11 +57,11 @@ Number of Ratings: 87  (23.09.2022)
 | Will work | 2.00% | ~8,449 |
 | Woodcutter | 2.00% | ~8,449 |
 | Occupied! | 2.00% | ~8,436 |
-| Achiever | 1.00% | ~4,224 |
-| Environmental activist | 1.00% | ~4,224 |
-| Metro builder | 1.00% | ~4,224 |
-| Ouroboros | 1.00% | ~4,224 |
-| Space Age | 1.00% | ~4,224 |
+| Achiever | 1.00% | ~4,225 |
+| Environmental activist | 1.00% | ~4,225 |
+| Metro builder | 1.00% | ~4,225 |
+| Ouroboros | 1.00% | ~4,225 |
+| Space Age | 1.00% | ~4,225 |
 | BBQ | 0.80% | ~3,380 |
 | Miscalculation | 0.80% | ~3,380 |
 | Voyager | 0.60% | ~2,535 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~422 |
 | World Zapper | 0.10% | ~422 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 422,449 (Ranked 45)  
+Progressed: 422,462 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 23 (0.01%) (Ranked 348)
 | 2023-12-07 | 421,876 | 23 |
 | 2023-12-08 | 422,117 | 23 |
 | 2023-12-09 | 422,410 | 23 |
-| 2023-12-10 | 422,449 | 23 |
+| 2023-12-10 | 422,462 | 23 |
 ## Awards
 Max (Challenging Puzzles): 956  (Ranked 158)  
 Sum: 1,934 (Ranked 217)  

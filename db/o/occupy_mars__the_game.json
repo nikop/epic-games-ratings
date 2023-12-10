@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1776,
+  "EOS_Progressed": 1777,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4533,6 +4533,11 @@
       "Time": "2023-12-09T18:08:13.0206894+00:00",
       "NumProgressed": 1776,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T04:08:50.5509887+00:00",
+      "NumProgressed": 1777,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4718,9 +4723,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 586
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4768,7 +4773,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -4927,7 +4932,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1776,
+      "Progressed": 1777,
       "Completed": 0
     }
   ],
@@ -4935,8 +4940,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-06T17:58:25.3194639+00:00",
-  "LastChanged_Achievements": "2023-12-10T03:08:45.8610883+00:00",
+  "LastChanged_Achievements": "2023-12-10T04:08:50.5509883+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:00.8104796+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:59:42.8092271+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:08:45.8611279+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:59:50.1888164+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:08:50.5510317+00:00"
 }

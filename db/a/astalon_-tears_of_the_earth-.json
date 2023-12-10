@@ -4,8 +4,8 @@
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -314,9 +314,9 @@
       "ID": "Defeat_Tauros",
       "SetID": "4f0g260",
       "Name": "Horn prize!",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Defeat_Volantis",
@@ -387,8 +387,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-12-10T03:04:24.6445979+00:00",
+  "LastChanged_Achievements": "2023-12-10T04:04:30.1748949+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:28.3481633+00:00",
-  "LastUpdate_Ratings": "2023-12-10T02:57:52.288684+00:00",
-  "LastUpdate_Achievements": "2023-12-10T03:04:24.6446158+00:00"
+  "LastUpdate_Ratings": "2023-12-10T03:57:59.653037+00:00",
+  "LastUpdate_Achievements": "2023-12-10T04:04:30.1749116+00:00"
 }
