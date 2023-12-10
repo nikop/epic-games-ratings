@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -471,9 +471,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3338,
+  "EOS_Progressed": 3339,
   "EOS_Completed": 137,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.1,
   "EosHistory": [
@@ -5261,6 +5261,11 @@
       "Time": "2023-12-10T19:04:20.8238049+00:00",
       "NumProgressed": 3338,
       "NumCompleted": 137
+    },
+    {
+      "Time": "2023-12-10T20:04:38.5870323+00:00",
+      "NumProgressed": 3339,
+      "NumCompleted": 137
     }
   ],
   "TotalAchievements": 14,
@@ -5296,7 +5301,7 @@
       "Name": "Climber",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -5312,7 +5317,7 @@
       "Name": "Easy As Pie",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -5350,9 +5355,9 @@
       "ID": "ACH_REUNION",
       "SetID": "4kfb9pd",
       "Name": "Reunion",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 834
+      "UsersEstimate": 801
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -5383,7 +5388,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3338,
+      "Progressed": 3339,
       "Completed": 137
     }
   ],
@@ -5391,8 +5396,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-10T19:04:20.8238044+00:00",
+  "LastChanged_Achievements": "2023-12-10T20:04:38.587032+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:09.6040213+00:00",
-  "LastUpdate_Ratings": "2023-12-10T18:57:34.5985061+00:00",
-  "LastUpdate_Achievements": "2023-12-10T19:04:20.8238385+00:00"
+  "LastUpdate_Ratings": "2023-12-10T19:57:44.5808591+00:00",
+  "LastUpdate_Achievements": "2023-12-10T20:04:38.5870655+00:00"
 }

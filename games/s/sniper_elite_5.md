@@ -38,8 +38,8 @@ Rating: 4.43 (Ranked 696)
 | My Little Friend | 10.00% | ~400 |
 | Rigged to Blow | 9.00% | ~360 |
 | Herr Today, Gone Tomorrow | 7.00% | ~276 |
+| The Long Game | 6.00% | ~240 |
 | Operation Foxley | 6.00% | ~237 |
-| The Long Game | 5.00% | ~200 |
 | Tinkerer | 5.00% | ~200 |
 | It'll Buff Right Out | 5.00% | ~200 |
 | Road Rage | 5.00% | ~200 |

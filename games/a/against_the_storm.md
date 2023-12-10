@@ -6,18 +6,18 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 4.00% | ~715 |
-| Overgrown Library | 4.00% | ~715 |
+| Abandoned Settlement | 4.00% | ~716 |
+| Overgrown Library | 4.00% | ~716 |
 | Frosts | 3.00% | ~537 |
 | Petrified Necropolis | 3.00% | ~537 |
 | Ominous Presence | 3.00% | ~537 |
 | Gathering Storm | 3.00% | ~537 |
 | Land of Greed | 2.00% | ~358 |
 | Untamed Wilds | 2.00% | ~358 |
+| First Real Expedition | 1.00% | ~179 |
 | The Marshlands | 1.00% | ~179 |
 | Taking Action | 1.00% | ~179 |
 | No Deaths | 1.00% | ~179 |
-| First Real Expedition | 0.90% | ~161 |
 | Overcoming Difficulty | 0.90% | ~161 |
 | Coral Forest | 0.90% | ~161 |
 | The Scarlet Orchard | 0.90% | ~161 |
@@ -34,6 +34,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Barren Lands | 0.40% | ~72 |
 | Ancient Battleground | 0.40% | ~72 |
 | Levitating Monument | 0.40% | ~72 |
+| Flooded Mines | 0.40% | ~72 |
 | Statue of the Forefathers | 0.40% | ~72 |
 | Cursed Lands | 0.40% | ~72 |
 | Trade Baron | 0.40% | ~72 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 0.30% | ~54 |
 | Fishmen Ritual Site | 0.30% | ~54 |
 | Haunted Forest | 0.30% | ~54 |
-| Flooded Mines | 0.30% | ~54 |
 | Defying the Crown | 0.30% | ~54 |
 | Fox Utopia | 0.30% | ~54 |
 | Efficient Explorer | 0.20% | ~36 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,886 (Ranked 147)  
+Progressed: 17,894 (Ranked 147)  
 Completed: 41 (0.23%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 41 (0.23%) (Ranked 253)
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
-| 2023-12-10 | 17,886 | 43 |
+| 2023-12-10 | 17,894 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 224)  
 Sum: 3,250 (Ranked 175)  

@@ -21,7 +21,7 @@
 | Beyond divisions | 17.00% | ~93 |
 | Fierce fight | 15.00% | ~82 |
 | Flying Objects Operator | 15.00% | ~82 |
-| I remember everything! | 13.00% | ~71 |
+| I remember everything! | 14.00% | ~76 |
 | Another giant | 11.00% | ~60 |
 | Violent solution | 9.00% | ~49 |
 | Innate curiosity | 8.00% | ~44 |

@@ -6,8 +6,8 @@ Rating: 4.75 (Ranked 145)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.80% | ~1,905 |
-| Regicide | 0.80% | ~138 |
-| Master of the Dark Arts | 0.80% | ~138 |
+| Regicide | 0.80% | ~139 |
+| Master of the Dark Arts | 0.80% | ~139 |
 | First of Many | 0.70% | ~1,667 |
 | Expanding Horizons | 0.60% | ~1,429 |
 | Not Your Average Trait | 0.60% | ~1,429 |
@@ -19,6 +19,7 @@ Rating: 4.75 (Ranked 145)
 | Boss'n Up | 0.50% | ~1,191 |
 | Trait Chaser | 0.50% | ~1,191 |
 | Am I Seeing This? | 0.40% | ~953 |
+| Chaos | 0.40% | ~953 |
 | Power Surge | 0.40% | ~953 |
 | Equal Measures | 0.40% | ~953 |
 | Blue Goddess | 0.40% | ~953 |
@@ -30,24 +31,23 @@ Rating: 4.75 (Ranked 145)
 | Almost There | 0.40% | ~953 |
 | Make Some Room | 0.40% | ~953 |
 | Good, But Could Be Better! | 0.40% | ~953 |
-| Ghost in the Machine | 0.30% | ~714 |
-| Chaos | 0.30% | ~714 |
-| Traitor | 0.30% | ~714 |
-| Forever is a Long Time Coming | 0.30% | ~714 |
-| The God Gambit | 0.30% | ~714 |
-| Dark Designs | 0.30% | ~714 |
-| Madman's Paradise | 0.30% | ~714 |
-| The Agenda | 0.30% | ~714 |
-| Tall Tales | 0.30% | ~714 |
-| Bad Moon Rising | 0.30% | ~714 |
-| Strapped | 0.30% | ~714 |
-| Edgelord | 0.30% | ~714 |
-| The Web | 0.30% | ~714 |
-| Scrap Hoarder | 0.30% | ~714 |
-| All These Traits� | 0.30% | ~714 |
-| The Ultimate Weapon | 0.30% | ~714 |
-| No One Should Have All That Power | 0.30% | ~714 |
-| Transmutate | 0.30% | ~714 |
+| Ghost in the Machine | 0.30% | ~715 |
+| Traitor | 0.30% | ~715 |
+| Forever is a Long Time Coming | 0.30% | ~715 |
+| The God Gambit | 0.30% | ~715 |
+| Dark Designs | 0.30% | ~715 |
+| Madman's Paradise | 0.30% | ~715 |
+| The Agenda | 0.30% | ~715 |
+| Tall Tales | 0.30% | ~715 |
+| Bad Moon Rising | 0.30% | ~715 |
+| Strapped | 0.30% | ~715 |
+| Edgelord | 0.30% | ~715 |
+| The Web | 0.30% | ~715 |
+| Scrap Hoarder | 0.30% | ~715 |
+| All These Traits� | 0.30% | ~715 |
+| The Ultimate Weapon | 0.30% | ~715 |
+| No One Should Have All That Power | 0.30% | ~715 |
+| Transmutate | 0.30% | ~715 |
 | Crafty | 0.20% | ~476 |
 | Only Human | 0.20% | ~476 |
 | Red Room | 0.20% | ~476 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 145)
 | You Shall Pass | 0.20% | ~35 |
 | A Foul Feast | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,141 (Ranked 66)  
+Progressed: 238,168 (Ranked 66)  
 Completed: 577 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 577 (0.24%) (Ranked 251)
 | 2023-12-07 | 236,590 | 567 |
 | 2023-12-08 | 237,044 | 572 |
 | 2023-12-09 | 237,633 | 573 |
-| 2023-12-10 | 238,141 | 577 |
+| 2023-12-10 | 238,168 | 577 |
 ## Awards
 Max (Great Boss Battles): 2,704  (Ranked 102)  
 Sum: 6,738 (Ranked 126)  

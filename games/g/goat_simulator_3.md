@@ -5,47 +5,47 @@ Rating: 4.84 (Ranked 50)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~230,910 |
-| Private Club | 74.00% | ~187,773 |
-| Rogue Guild | 65.00% | ~164,936 |
-| I Watched the Intro | 57.00% | ~144,636 |
-| Covert Consortium | 55.00% | ~139,561 |
-| Goat Queen | 53.00% | ~134,486 |
-| Reach the Stratosphere | 51.00% | ~129,411 |
-| Synchronization Complete | 47.00% | ~119,261 |
-| Secret Society | 45.00% | ~114,186 |
-| Shadow Syndicate | 38.00% | ~96,424 |
-| What a Waste of Money | 33.00% | ~83,737 |
-| New Goat Order | 30.00% | ~76,124 |
-| Don't touch the servers | 28.00% | ~71,049 |
-| San Angora: Become Human | 27.00% | ~68,512 |
-| Real Buoy | 27.00% | ~68,512 |
-| Raider of the Lost Parking Garage | 26.00% | ~65,974 |
-| Welcome to Earth | 25.00% | ~63,437 |
-| Egg Simulator | 19.00% | ~48,212 |
-| Into the Matrix | 19.00% | ~48,212 |
-| Where is It? | 17.00% | ~43,137 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~38,062 |
-| 401(K.O.) | 15.00% | ~38,062 |
-| Black Market | 14.00% | ~35,525 |
-| Car Cave | 12.00% | ~30,450 |
+| Forgotten Sorority | 91.00% | ~230,917 |
+| Private Club | 74.00% | ~187,779 |
+| Rogue Guild | 65.00% | ~164,941 |
+| I Watched the Intro | 57.00% | ~144,640 |
+| Covert Consortium | 55.00% | ~139,565 |
+| Goat Queen | 53.00% | ~134,490 |
+| Reach the Stratosphere | 51.00% | ~129,415 |
+| Synchronization Complete | 47.00% | ~119,265 |
+| Secret Society | 45.00% | ~114,190 |
+| Shadow Syndicate | 38.00% | ~96,427 |
+| What a Waste of Money | 33.00% | ~83,739 |
+| New Goat Order | 30.00% | ~76,126 |
+| Don't touch the servers | 28.00% | ~71,051 |
+| San Angora: Become Human | 27.00% | ~68,514 |
+| Real Buoy | 27.00% | ~68,514 |
+| Raider of the Lost Parking Garage | 26.00% | ~65,976 |
+| Welcome to Earth | 25.00% | ~63,439 |
+| Egg Simulator | 19.00% | ~48,213 |
+| Into the Matrix | 19.00% | ~48,213 |
+| Where is It? | 17.00% | ~43,138 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~38,063 |
+| 401(K.O.) | 15.00% | ~38,063 |
+| Black Market | 14.00% | ~35,526 |
+| Car Cave | 12.00% | ~30,451 |
 | Club Mohair | 8.00% | ~20,300 |
 | A Center for Ants? | 8.00% | ~20,300 |
-| French Fika | 7.00% | ~17,762 |
-| Nasty! | 5.00% | ~12,687 |
-| [REDACTED] | 5.00% | ~12,687 |
+| French Fika | 7.00% | ~17,763 |
+| Nasty! | 5.00% | ~12,688 |
+| [REDACTED] | 5.00% | ~12,688 |
 | Who Baywatches the Baywatch? | 4.00% | ~10,150 |
 | Cannibanana | 2.00% | ~5,075 |
 | Daredevil | 2.00% | ~5,075 |
-| Crocsquatch | 1.00% | ~2,537 |
-| You Trusted Your Instincts | 1.00% | ~2,537 |
-| Certified Fresh | 1.00% | ~2,537 |
-| Streaking | 1.00% | ~2,537 |
-| Try Hard 2 | 1.00% | ~2,537 |
-| Move! That! Bus! | 0.60% | ~1,522 |
+| Crocsquatch | 1.00% | ~2,538 |
+| You Trusted Your Instincts | 1.00% | ~2,538 |
+| Certified Fresh | 1.00% | ~2,538 |
+| Streaking | 1.00% | ~2,538 |
+| Try Hard 2 | 1.00% | ~2,538 |
+| Move! That! Bus! | 0.60% | ~1,523 |
 | G.O.A.T | 0.40% | ~1,015 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,747 (Ranked 61)  
+Progressed: 253,755 (Ranked 61)  
 Completed: 900 (0.35%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,19 +279,19 @@ Completed: 900 (0.35%) (Ranked 232)
 | 2023-12-07 | 253,334 | 895 |
 | 2023-12-08 | 253,447 | 896 |
 | 2023-12-09 | 253,634 | 898 |
-| 2023-12-10 | 253,747 | 900 |
+| 2023-12-10 | 253,755 | 900 |
 ## Awards
 Max (Great for Beginners): 488  (Ranked 215)  
-Sum: 4,054 (Ranked 155)  
+Sum: 4,059 (Ranked 155)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 488 |
 | This game has Diverse Characters | 467 |
-| This game is Highly Recommended | 434 |
+| This game is Highly Recommended | 436 |
 | This game has Amazing Characters | 405 |
 | This game is Extremely Fun | 398 |
-| This game has Amazing Storytelling | 382 |
+| This game has Amazing Storytelling | 385 |
 | This game has a Silly Community | 377 |
 | This game has Quickly Understood Controls | 375 |
 | This game is Relaxing | 374 |
@@ -557,4 +557,4 @@ Diff (max vs sum): 60
 | 2023-12-07 | 4.84 | 484 | 4,014 |
 | 2023-12-08 | 4.84 | 488 | 4,034 |
 | 2023-12-09 | 4.84 | 488 | 4,047 |
-| 2023-12-10 | 4.84 | 488 | 4,054 |
+| 2023-12-10 | 4.84 | 488 | 4,059 |

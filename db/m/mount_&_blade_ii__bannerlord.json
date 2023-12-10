@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -9630,9 +9630,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67566,
+  "EOS_Progressed": 67568,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 545,
+  "EOS_NewPlayers": 544,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34365,6 +34365,11 @@
       "Time": "2023-12-10T18:09:47.8157156+00:00",
       "NumProgressed": 67566,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T20:09:26.0431177+00:00",
+      "NumProgressed": 67568,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34600,7 +34605,7 @@
       "Name": "Landlord",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 22972
+      "UsersEstimate": 22973
     },
     {
       "ID": "Lawbringer",
@@ -34608,7 +34613,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 27026
+      "UsersEstimate": 27027
     },
     {
       "ID": "Lawmaker",
@@ -34736,7 +34741,7 @@
       "Name": "This Is Our Land",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 9459
+      "UsersEstimate": 9460
     },
     {
       "ID": "This is Sparta",
@@ -34783,15 +34788,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67566,
+      "Progressed": 67568,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-10T18:58:25.8897868+00:00",
-  "LastChanged_Achievements": "2023-12-10T19:09:03.5955209+00:00",
+  "LastChanged_Achievements": "2023-12-10T20:09:26.0431175+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.7190339+00:00",
-  "LastUpdate_Ratings": "2023-12-10T18:58:25.8897875+00:00",
-  "LastUpdate_Achievements": "2023-12-10T19:09:03.5956607+00:00"
+  "LastUpdate_Ratings": "2023-12-10T19:58:37.48718+00:00",
+  "LastUpdate_Achievements": "2023-12-10T20:09:26.0432323+00:00"
 }

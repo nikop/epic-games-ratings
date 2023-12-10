@@ -26,9 +26,9 @@
 | YOU SHALL NOT PASS! | 50.00% | ~272 |
 | “… like son” | 50.00% | ~272 |
 | The Cathedral of Light | 47.00% | ~255 |
-| Shame! Shame! Shame! | 46.00% | ~250 |
+| Shame! Shame! Shame! | 47.00% | ~255 |
 | Pure Dynamite! | 45.00% | ~244 |
-| Dungeonlord Gorgu | 44.00% | ~239 |
+| Dungeonlord Gorgu | 45.00% | ~244 |
 | Tanos' Crusade Against Thalya | 44.00% | ~239 |
 | Mana Cannon | 41.00% | ~223 |
 | All’s Well That Ends Evil | 38.00% | ~206 |
@@ -37,17 +37,17 @@
 | The Duel | 34.00% | ~185 |
 | If Looks Could Kill | 31.00% | ~168 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~157 |
+| Forbidden Knowledge | 28.00% | ~152 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~147 |
-| Forbidden Knowledge | 27.00% | ~147 |
 | The Finitude Drill | 27.00% | ~147 |
 | Hungry, Hungry Gorgu! | 26.00% | ~141 |
-| Stop Tanos! | 25.00% | ~136 |
+| Stop Tanos! | 26.00% | ~141 |
 | Doom Hill | 25.00% | ~136 |
 | Brimstone Shaken, Not Stirred | 24.00% | ~130 |
 | Sabotage! | 22.00% | ~119 |
 | Raiders of the Lost Stone | 22.00% | ~119 |
+| The Rune Sockets of Finitude (Part 1) | 22.00% | ~119 |
 | Bonus Evilness | 21.00% | ~114 |
-| The Rune Sockets of Finitude (Part 1) | 21.00% | ~114 |
 | The Rune Sockets of Finitude (Part 2) | 20.00% | ~109 |
 | Rubble and Ashes | 18.00% | ~98 |
 | The Last Stand - This Time For Real! | 18.00% | ~98 |

@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~21,718 |
-| It wakes | 2.00% | ~21,718 |
-| Not half bad | 2.00% | ~21,718 |
-| Skillful | 2.00% | ~21,718 |
-| Make Some Noise | 2.00% | ~21,718 |
-| The Grand Sacrifice | 1.00% | ~10,859 |
-| No one left behind | 1.00% | ~10,859 |
-| Medic | 1.00% | ~10,859 |
-| Handyman | 1.00% | ~10,859 |
-| Bloody Millionaire | 1.00% | ~10,859 |
-| Apt Survivor | 1.00% | ~10,859 |
-| Survival Treasures | 1.00% | ~10,859 |
-| I | 1.00% | ~10,859 |
-| Sorted | 1.00% | ~10,859 |
-| Healthy Obsession | 1.00% | ~10,859 |
-| Resurgence | 1.00% | ~10,859 |
-| Preemptive Strike | 1.00% | ~10,859 |
-| Humanitarian | 1.00% | ~10,859 |
-| Agonizing Escape | 0.90% | ~9,773 |
-| Backdoor Escape | 0.90% | ~9,773 |
-| Perfect Escape | 0.90% | ~9,773 |
-| Perfect Killing | 0.90% | ~9,773 |
-| Close Shave | 0.90% | ~9,773 |
-| I've got your back | 0.80% | ~8,687 |
-| Apt Killer | 0.80% | ~8,687 |
-| Risk it all | 0.80% | ~8,687 |
-| II | 0.80% | ~8,687 |
-| Engineer | 0.80% | ~8,687 |
-| Wounded Healer | 0.80% | ~8,687 |
-| III | 0.70% | ~7,601 |
+| Zealous | 2.00% | ~21,721 |
+| It wakes | 2.00% | ~21,721 |
+| Not half bad | 2.00% | ~21,721 |
+| Skillful | 2.00% | ~21,721 |
+| Make Some Noise | 2.00% | ~21,721 |
+| The Grand Sacrifice | 1.00% | ~10,861 |
+| No one left behind | 1.00% | ~10,861 |
+| Medic | 1.00% | ~10,861 |
+| Handyman | 1.00% | ~10,861 |
+| Perfect Escape | 1.00% | ~10,861 |
+| Bloody Millionaire | 1.00% | ~10,861 |
+| Apt Survivor | 1.00% | ~10,861 |
+| Survival Treasures | 1.00% | ~10,861 |
+| I | 1.00% | ~10,861 |
+| Sorted | 1.00% | ~10,861 |
+| Healthy Obsession | 1.00% | ~10,861 |
+| Resurgence | 1.00% | ~10,861 |
+| Preemptive Strike | 1.00% | ~10,861 |
+| Humanitarian | 1.00% | ~10,861 |
+| Agonizing Escape | 0.90% | ~9,775 |
+| Backdoor Escape | 0.90% | ~9,775 |
+| Perfect Killing | 0.90% | ~9,775 |
+| Close Shave | 0.90% | ~9,775 |
+| I've got your back | 0.80% | ~8,689 |
+| Apt Killer | 0.80% | ~8,689 |
+| Risk it all | 0.80% | ~8,689 |
+| II | 0.80% | ~8,689 |
+| Engineer | 0.80% | ~8,689 |
+| Wounded Healer | 0.80% | ~8,689 |
+| III | 0.70% | ~7,603 |
 | Escape Artist | 0.60% | ~6,516 |
 | Vulture | 0.60% | ~6,516 |
 | First to the Punch | 0.60% | ~6,516 |
@@ -78,6 +78,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Serial Killer | 0.30% | ~3,258 |
 | Escaping the Nightmare | 0.30% | ~3,258 |
 | Game Over | 0.30% | ~3,258 |
+| Party Crasher | 0.30% | ~3,258 |
 | Devoted Gatekeeping | 0.30% | ~3,258 |
 | Shrine Apparatus | 0.30% | ~3,258 |
 | Broken Bodies | 0.30% | ~3,258 |
@@ -94,7 +95,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Deep Cleansing | 0.20% | ~2,172 |
 | Texas BBQ | 0.20% | ~2,172 |
 | Looter | 0.20% | ~2,172 |
-| Party Crasher | 0.20% | ~2,172 |
 | Whiffing to Success | 0.20% | ~2,172 |
 | Outrage | 0.20% | ~2,172 |
 | Heavy Burden | 0.20% | ~2,172 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,086 |
 | Adept Good Guy | 0.10% | ~1,086 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,085,922 (Ranked 12)  
+Progressed: 1,086,072 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -473,10 +473,10 @@ Completed: 62 (0.01%) (Ranked 348)
 | 2023-12-07 | 1,077,876 | 61 |
 | 2023-12-08 | 1,080,483 | 61 |
 | 2023-12-09 | 1,083,532 | 61 |
-| 2023-12-10 | 1,085,922 | 62 |
+| 2023-12-10 | 1,086,072 | 62 |
 ## Awards
 Max (Diverse Characters): 37,638  (Ranked 15)  
-Sum: 285,345 (Ranked 12)  
+Sum: 285,387 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -488,7 +488,7 @@ Diff (max vs sum): 3
 | This game has Challenging Combat | 31,551 |
 | This game has Quickly Understood Controls | 30,778 |
 | This game has Amazing Storytelling | 29,130 |
-| This game has a Competitive Community | 27,847 |
+| This game has a Competitive Community | 27,889 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -814,4 +814,4 @@ Diff (max vs sum): 3
 | 2023-12-07 | 4.51 | - | 37,449 | 284,097 |
 | 2023-12-08 | 4.51 | - | 37,508 | 284,549 |
 | 2023-12-09 | 4.51 | - | 37,578 | 285,006 |
-| 2023-12-10 | 4.51 | - | 37,638 | 285,345 |
+| 2023-12-10 | 4.51 | - | 37,638 | 285,387 |

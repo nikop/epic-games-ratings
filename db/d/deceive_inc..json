@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19022,
+  "EOS_Progressed": 19023,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13569,6 +13569,11 @@
       "Time": "2023-12-10T16:05:04.0126136+00:00",
       "NumProgressed": 19022,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-10T20:04:49.2971179+00:00",
+      "NumProgressed": 19023,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13788,7 +13793,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "0028",
@@ -13820,7 +13825,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "0032",
@@ -13828,7 +13833,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "0033",
@@ -13836,7 +13841,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "0034",
@@ -13867,7 +13872,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19022,
+      "Progressed": 19023,
       "Completed": 4
     }
   ],
@@ -13875,8 +13880,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-10T19:04:30.6545842+00:00",
+  "LastChanged_Achievements": "2023-12-10T20:04:49.2971175+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:34.3621794+00:00",
-  "LastUpdate_Ratings": "2023-12-10T18:59:58.4655344+00:00",
-  "LastUpdate_Achievements": "2023-12-10T19:04:30.6546697+00:00"
+  "LastUpdate_Ratings": "2023-12-10T20:00:11.1910053+00:00",
+  "LastUpdate_Achievements": "2023-12-10T20:04:49.2971889+00:00"
 }

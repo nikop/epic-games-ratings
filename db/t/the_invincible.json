@@ -4,8 +4,8 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1593,9 +1593,9 @@
       "ID": "AchvAllMemories",
       "SetID": "1hj060c",
       "Name": "I remember everything!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 76
     },
     {
       "ID": "AchvAssertive",
@@ -1824,8 +1824,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-10T19:08:21.1369366+00:00",
+  "LastChanged_Achievements": "2023-12-10T20:08:42.589664+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.1415487+00:00",
-  "LastUpdate_Ratings": "2023-12-10T18:57:15.8244226+00:00",
-  "LastUpdate_Achievements": "2023-12-10T19:08:21.1369709+00:00"
+  "LastUpdate_Ratings": "2023-12-10T19:57:25.2869554+00:00",
+  "LastUpdate_Achievements": "2023-12-10T20:08:42.5896834+00:00"
 }

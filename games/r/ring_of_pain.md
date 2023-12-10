@@ -31,6 +31,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.50% | ~1,204 |
 | Deflection | 0.50% | ~1,204 |
 | Sneaky | 0.50% | ~1,204 |
+| Expensive Look | 0.50% | ~12 |
 | What Doesn't Kill You | 0.50% | ~12 |
 | Consecutive Curses | 0.40% | ~963 |
 | Dig Your Own Grave | 0.40% | ~963 |
@@ -42,10 +43,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shootout | 0.40% | ~963 |
 | Stone Touch | 0.40% | ~963 |
 | Toxic | 0.40% | ~963 |
+| New Perspectives | 0.40% | ~963 |
 | Shadow Walker | 0.40% | ~963 |
 | Flesh Wound | 0.40% | ~963 |
 | Shapeshifting | 0.40% | ~963 |
-| Expensive Look | 0.40% | ~9 |
 | Thank You, Friend | 0.30% | ~723 |
 | Shadow Spreads | 0.30% | ~723 |
 | Max Damage! | 0.30% | ~723 |
@@ -63,7 +64,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spreading Plague | 0.30% | ~723 |
 | Acid Bath | 0.30% | ~723 |
 | Antivenom | 0.30% | ~723 |
-| New Perspectives | 0.30% | ~723 |
 | The Long Run | 0.30% | ~723 |
 | Who Needs Luck? | 0.30% | ~7 |
 | Achievement Hunter | 0.20% | ~482 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,855 (Ranked 64)  
+Progressed: 240,856 (Ranked 64)  
 Completed: 293 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,10 +379,10 @@ Completed: 293 (0.12%) (Ranked 283)
 | 2023-12-07 | 240,750 | 292 |
 | 2023-12-08 | 240,784 | 292 |
 | 2023-12-09 | 240,828 | 293 |
-| 2023-12-10 | 240,855 | 293 |
+| 2023-12-10 | 240,856 | 293 |
 ## Awards
 Max (Quickly Understood Controls): 1,507  (Ranked 134)  
-Sum: 11,721 (Ranked 85)  
+Sum: 11,722 (Ranked 85)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -394,7 +394,7 @@ Diff (max vs sum): 49
 | This game is Highly Recommended | 1,386 |
 | This game has Amazing Storytelling | 1,327 |
 | This game has Amazing Characters | 1,230 |
-| This game has Unique Visuals | 1,229 |
+| This game has Unique Visuals | 1,230 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 746 |
 ## Ratings History
@@ -626,4 +626,4 @@ Diff (max vs sum): 49
 | 2023-12-07 | 4.58 | - | 1,505 | 11,714 |
 | 2023-12-08 | 4.58 | - | 1,505 | 11,716 |
 | 2023-12-09 | 4.58 | - | 1,506 | 11,719 |
-| 2023-12-10 | 4.58 | - | 1,507 | 11,721 |
+| 2023-12-10 | 4.58 | - | 1,507 | 11,722 |

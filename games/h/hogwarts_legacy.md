@@ -5,9 +5,9 @@ Rating: 4.76 (Ranked 129)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,669 |
-| First Class Student | 15.00% | ~45,627 |
-| Troll with the Punches | 15.00% | ~45,627 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,670 |
+| First Class Student | 15.00% | ~45,628 |
+| Troll with the Punches | 15.00% | ~45,628 |
 | A Keen Sense of Spell | 14.00% | ~42,586 |
 | That's a Keeper | 13.00% | ~39,544 |
 | The Hallowed Hero | 12.00% | ~36,502 |
@@ -21,10 +21,10 @@ Rating: 4.76 (Ranked 129)
 | Challenge Accepted | 11.00% | ~33,460 |
 | Followed the Butterflies | 10.00% | ~30,418 |
 | Rising From the Ashes | 10.00% | ~30,418 |
-| The Avenging Gazelle | 9.00% | ~27,376 |
-| A Sallow Grave | 9.00% | ~27,376 |
-| Flight the Good Flight | 9.00% | ~27,376 |
-| The Spell Master | 9.00% | ~27,376 |
+| The Avenging Gazelle | 9.00% | ~27,377 |
+| A Sallow Grave | 9.00% | ~27,377 |
+| Flight the Good Flight | 9.00% | ~27,377 |
+| The Spell Master | 9.00% | ~27,377 |
 | Beast Friends | 8.00% | ~24,335 |
 | Raising Expectations | 7.00% | ~21,293 |
 | The Seeker of Knowledge | 6.00% | ~18,251 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 129)
 | Room with a View | 4.00% | ~12,167 |
 | The Intrepid Explorer | 4.00% | ~12,167 |
 | The Wise Owl | 4.00% | ~12,167 |
-| Put Down Roots | 3.00% | ~9,125 |
-| The Auror's Apprentice | 3.00% | ~9,125 |
-| Floo Around the World | 3.00% | ~9,125 |
+| Put Down Roots | 3.00% | ~9,126 |
+| The Auror's Apprentice | 3.00% | ~9,126 |
+| Floo Around the World | 3.00% | ~9,126 |
 | The Good Samaritan | 2.00% | ~6,084 |
 | Savvy Spender | 2.00% | ~6,084 |
 | Rise to the Challenges | 2.00% | ~6,084 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 129)
 | The Nature of the Beast | 0.70% | ~2,129 |
 | Collector's Edition | 0.40% | ~1,217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,183 (Ranked 54)  
+Progressed: 304,185 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,10 +285,10 @@ Completed: 525 (0.17%) (Ranked 269)
 | 2023-12-07 | 304,059 | 525 |
 | 2023-12-08 | 304,099 | 525 |
 | 2023-12-09 | 304,151 | 525 |
-| 2023-12-10 | 304,183 | 525 |
+| 2023-12-10 | 304,185 | 525 |
 ## Awards
 Max (Character Customization): 25,081  (Ranked 17)  
-Sum: 50,389 (Ranked 30)  
+Sum: 50,394 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -300,7 +300,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,319 |
 | This game is Relaxing | 1,315 |
 | This game has Amazing Characters | 1,281 |
-| This game is Highly Recommended | 1,252 |
+| This game is Highly Recommended | 1,257 |
 | This game has Quickly Understood Controls | 1,217 |
 | This game has Beautiful Visuals | 1,095 |
 | This game has a Creative Community | 849 |
@@ -568,4 +568,4 @@ Diff (max vs sum): -13
 | 2023-12-07 | 4.76 | 25,000 | 50,137 |
 | 2023-12-08 | 4.76 | 25,029 | 50,225 |
 | 2023-12-09 | 4.76 | 25,052 | 50,306 |
-| 2023-12-10 | 4.76 | 25,081 | 50,389 |
+| 2023-12-10 | 4.76 | 25,081 | 50,394 |

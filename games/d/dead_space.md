@@ -21,7 +21,7 @@ Rating: 4.64 (Ranked 337)
 | Freeze | 52.00% | ~1,150 |
 | S.O.S. | 48.00% | ~1,062 |
 | Full Arsenal | 46.00% | ~1,018 |
-| Get Off My Ship! | 45.00% | ~995 |
+| Get Off My Ship! | 46.00% | ~1,018 |
 | Strange Transmissions | 45.00% | ~995 |
 | Wreckage | 44.00% | ~973 |
 | Keeper of the Faith | 42.00% | ~929 |

@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,991 |
-| Whatever It Takes | 3.00% | ~1,757 |
-| Pork Chopped | 3.00% | ~1,757 |
+| Welcome To Hell-A | 3.00% | ~21,992 |
+| Whatever It Takes | 3.00% | ~1,758 |
+| Pork Chopped | 3.00% | ~1,758 |
 | Dr. Reed, I Presume? | 2.00% | ~14,661 |
 | Git Gutte! | 2.00% | ~14,661 |
 | Anger Management | 2.00% | ~14,661 |
@@ -24,7 +24,7 @@ Rating: 4.54 (Ranked 535)
 | Stacking the Deck | 2.00% | ~14,661 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,661 |
 | This is My Weapon | 2.00% | ~14,661 |
-| One of Us | 2.00% | ~1,171 |
+| One of Us | 2.00% | ~1,172 |
 | Making Your Mark | 1.00% | ~7,330 |
 | Perks of the Job | 1.00% | ~7,330 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,330 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 535)
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,027 (Ranked 21)  
+Progressed: 733,050 (Ranked 21)  
 Completed: 2,474 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,10 +291,10 @@ Completed: 2,474 (0.34%) (Ranked 234)
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
-| 2023-12-10 | 733,027 | 2,474 |
+| 2023-12-10 | 733,050 | 2,474 |
 ## Awards
 Max (Great Boss Battles): 8,071  (Ranked 49)  
-Sum: 12,406 (Ranked 82)  
+Sum: 12,407 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -304,7 +304,7 @@ Diff (max vs sum): -33
 | This game has Quickly Understood Controls | 563 |
 | This game is Relaxing | 538 |
 | This game has Amazing Storytelling | 524 |
-| This game is Extremely Fun | 509 |
+| This game is Extremely Fun | 510 |
 | This game is Highly Recommended | 506 |
 | This game has Amazing Characters | 472 |
 ## Ratings History
@@ -543,4 +543,4 @@ Diff (max vs sum): -33
 | 2023-12-07 | 4.54 | 7,994 | 12,284 |
 | 2023-12-08 | 4.54 | 8,017 | 12,324 |
 | 2023-12-09 | 4.54 | 8,042 | 12,362 |
-| 2023-12-10 | 4.54 | 8,071 | 12,406 |
+| 2023-12-10 | 4.54 | 8,071 | 12,407 |

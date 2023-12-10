@@ -18,12 +18,12 @@
 | One last step | 21.00% | ~197 |
 | I did it | 20.00% | ~188 |
 | Peace walker | 20.00% | ~188 |
+| Champollion | 20.00% | ~188 |
 | In this together | 19.00% | ~178 |
-| Champollion | 19.00% | ~178 |
 | Open door | 17.00% | ~159 |
 | Feels like springtime | 17.00% | ~159 |
 | Alchemists Express | 17.00% | ~159 |
-| Free at last | 14.00% | ~131 |
+| Free at last | 15.00% | ~141 |
 | Rascal | 14.00% | ~131 |
 | A Link to the Past | 13.00% | ~122 |
 | A great audience | 11.00% | ~103 |

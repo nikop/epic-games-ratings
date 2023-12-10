@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2421,
+  "EOS_Progressed": 2423,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5957,6 +5957,11 @@
       "Time": "2023-12-10T18:04:58.9937143+00:00",
       "NumProgressed": 2421,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T20:04:51.5052413+00:00",
+      "NumProgressed": 2423,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5969,7 +5974,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5977,7 +5982,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -6041,7 +6046,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -6057,7 +6062,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -6145,7 +6150,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -6265,7 +6270,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -6273,7 +6278,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -6360,14 +6365,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2421,
+      "Progressed": 2423,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-10T19:04:32.8245046+00:00",
+  "LastChanged_Achievements": "2023-12-10T20:04:51.5052409+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-10T18:57:29.9830122+00:00",
-  "LastUpdate_Achievements": "2023-12-10T19:04:32.8245656+00:00"
+  "LastUpdate_Ratings": "2023-12-10T19:57:39.4895785+00:00",
+  "LastUpdate_Achievements": "2023-12-10T20:04:51.5053239+00:00"
 }

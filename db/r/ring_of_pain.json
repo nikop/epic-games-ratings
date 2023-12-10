@@ -3536,10 +3536,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11721,
       "NumberOfAwardsMax": 1507
+    },
+    {
+      "Time": "2023-12-10T19:57:46.5788491+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11722,
+      "NumberOfAwardsMax": 1507
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11721,
+  "NumberOfAwards": 11722,
   "NumberOfAwardsMax": 1507,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3565,7 +3571,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1229
+      "Count": 1230
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3610,9 +3616,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240855,
+  "EOS_Progressed": 240856,
   "EOS_Completed": 293,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -27760,6 +27766,11 @@
       "Time": "2023-12-10T19:09:06.5192627+00:00",
       "NumProgressed": 240855,
       "NumCompleted": 293
+    },
+    {
+      "Time": "2023-12-10T20:09:29.1703694+00:00",
+      "NumProgressed": 240856,
+      "NumCompleted": 293
     }
   ],
   "TotalAchievements": 138,
@@ -28497,9 +28508,9 @@
       "ID": "SHUFFLE10TIMES",
       "SetID": "5l8oe0h",
       "Name": "New Perspectives",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 963
     },
     {
       "ID": "SNAKESTEALTH",
@@ -28849,9 +28860,9 @@
       "ID": "SPEND200SOULSONREROLLANDDISCARD",
       "SetID": "1peahb6",
       "Name": "Expensive Look",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "SURVIVE60DAMAGESWAMPNEST",
@@ -28874,22 +28885,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240855,
+      "Progressed": 240856,
       "Completed": 293
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2335,
+      "Progressed": 2336,
       "Completed": 397
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-12-10T18:57:36.976902+00:00",
-  "LastChanged_Achievements": "2023-12-10T19:09:06.5192622+00:00",
+  "LastChanged": "2023-12-10T19:57:46.5788489+00:00",
+  "LastChanged_Achievements": "2023-12-10T20:09:29.1703692+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-10T18:57:36.9769026+00:00",
-  "LastUpdate_Achievements": "2023-12-10T19:09:06.5195322+00:00"
+  "LastUpdate_Ratings": "2023-12-10T19:57:46.5788493+00:00",
+  "LastUpdate_Achievements": "2023-12-10T20:09:29.1706022+00:00"
 }

@@ -6,11 +6,11 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 37.00% | ~153 |
+| Adept | 37.00% | ~154 |
 | Double Kill | 28.00% | ~116 |
 | Critical Hit | 16.00% | ~66 |
 | Veteran | 14.00% | ~58 |
-| Dressed For Success | 10.00% | ~41 |
+| Dressed For Success | 10.00% | ~42 |
 | Humiliation | 8.00% | ~33 |
 | Sorcerous Spree | 7.00% | ~29 |
 | Veni, Vidi, Vici | 6.00% | ~25 |
@@ -37,17 +37,17 @@ Number of Ratings: 292  (23.09.2022)
 | Coming Through! | 0.50% | ~2 |
 | Barbecue | 0.50% | ~2 |
 | In The Thick of It | 0.50% | ~2 |
+| Oops! | 0.50% | ~2 |
 | From the Ashes | 0.50% | ~2 |
 | The Marsh Expands | 0.50% | ~2 |
 | Get Over Here! | 0.50% | ~2 |
 | Cleave | 0.50% | ~2 |
+| Bringer of Ruin | 0.20% | ~1 |
+| Attack Bonanza | 0.20% | ~1 |
 | Hello There | 0.20% | ~1 |
 | Fully Charged | 0.20% | ~1 |
 | Killing Spree | 0.20% | ~1 |
 | An Empress's Hope | 0.20% | ~1 |
-| Oops! | 0.20% | ~1 |
-| Bringer of Ruin | 0.00% | ~0 |
-| Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |
 | A Free Man | 0.00% | ~0 |
 | Die by the Bow | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 414 (Ranked 332)  
+Progressed: 415 (Ranked 332)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-07 | 373 | 0 |
 | 2023-12-08 | 386 | 0 |
 | 2023-12-09 | 400 | 0 |
-| 2023-12-10 | 414 | 0 |
+| 2023-12-10 | 415 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 515)  
 Sum: 194 (Ranked 407)  

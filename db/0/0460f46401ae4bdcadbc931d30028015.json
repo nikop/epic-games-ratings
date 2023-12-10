@@ -3,12 +3,12 @@
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 943,
-  "Ranking_Popularity": 457,
+  "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -909,7 +909,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4112,
+  "EOS_Progressed": 4114,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -6894,6 +6894,11 @@
       "Time": "2023-12-10T18:03:35.4705184+00:00",
       "NumProgressed": 4112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T20:03:32.7436642+00:00",
+      "NumProgressed": 4114,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6906,7 +6911,7 @@
       "Name": "Primetime",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_10",
@@ -6914,7 +6919,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "achievement_11",
@@ -6930,15 +6935,15 @@
       "Name": "Dealmaker",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "achievement_13",
       "SetID": "aiin7da",
       "Name": "MVP",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1399
     },
     {
       "ID": "achievement_14",
@@ -7002,7 +7007,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2426
+      "UsersEstimate": 2427
     },
     {
       "ID": "achievement_21",
@@ -7034,7 +7039,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "achievement_6",
@@ -7042,7 +7047,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "achievement_7",
@@ -7073,7 +7078,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4112,
+      "Progressed": 4114,
       "Completed": 0
     }
   ],
@@ -7081,8 +7086,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-10T02:58:06.7636739+00:00",
-  "LastChanged_Achievements": "2023-12-10T19:03:17.7924583+00:00",
+  "LastChanged_Achievements": "2023-12-10T20:03:32.7436635+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-10T18:58:24.2680854+00:00",
-  "LastUpdate_Achievements": "2023-12-10T19:03:17.7924991+00:00"
+  "LastUpdate_Ratings": "2023-12-10T19:58:35.8515466+00:00",
+  "LastUpdate_Achievements": "2023-12-10T20:03:32.7437102+00:00"
 }

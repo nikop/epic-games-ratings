@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 414,
+  "EOS_Progressed": 415,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1763,6 +1763,11 @@
       "Time": "2023-12-10T19:05:18.5657454+00:00",
       "NumProgressed": 414,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T20:05:38.3591674+00:00",
+      "NumProgressed": 415,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1773,9 +1778,9 @@
       "ID": "ApocalypseSuccession",
       "SetID": "71c0n9i",
       "Name": "Bringer of Ruin",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ArleonCampaign",
@@ -1799,15 +1804,15 @@
       "Name": "Dressed For Success",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "AttackCount",
       "SetID": "71c0n9i",
       "Name": "Attack Bonanza",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BaryaCampaign",
@@ -1997,9 +2002,9 @@
       "ID": "Oops",
       "SetID": "71c0n9i",
       "Name": "Oops!",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PhoenixKills",
@@ -2103,7 +2108,7 @@
       "Name": "Adept",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WielderLevel2",
@@ -2206,15 +2211,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 414,
+      "Progressed": 415,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-10T19:05:18.565745+00:00",
+  "LastChanged_Achievements": "2023-12-10T20:05:38.3591672+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-10T19:02:31.4721595+00:00",
-  "LastUpdate_Achievements": "2023-12-10T19:05:18.5658002+00:00"
+  "LastUpdate_Ratings": "2023-12-10T20:02:43.6443427+00:00",
+  "LastUpdate_Achievements": "2023-12-10T20:05:38.3592128+00:00"
 }

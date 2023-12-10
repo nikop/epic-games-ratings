@@ -27,10 +27,10 @@ Rating: 3.78 (Ranked 1,049)
 | A New Legend Awaits | 1.00% | ~172 |
 | Pirate King | 0.90% | ~155 |
 | Oooh, We're Half Way There | 0.80% | ~137 |
+| O Captain! My Captain! | 0.20% | ~34 |
 | Devilishly Talented | 0.10% | ~17 |
 | Heavy Tunaing | 0.10% | ~17 |
 | Pufferfish | 0.10% | ~17 |
-| O Captain! My Captain! | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,186 (Ranked 148)  
 Completed: 1 (0.01%) (Ranked 348)  
