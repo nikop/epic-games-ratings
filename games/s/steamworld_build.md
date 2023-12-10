@@ -12,7 +12,7 @@
 | Digging a Hole | 61.00% | ~41 |
 | Tutti Frutti | 55.00% | ~37 |
 | Gotta Go Fast | 51.00% | ~34 |
-| Slotting Machine | 39.00% | ~26 |
+| Slotting Machine | 40.00% | ~27 |
 | Systematic | 39.00% | ~26 |
 | Mine Sweeper | 36.00% | ~24 |
 | Roll Out | 33.00% | ~22 |

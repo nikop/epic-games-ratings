@@ -3,9 +3,9 @@
   "Name": "Dark Fantasy Jigsaw Puzzle",
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
   "Ranking_EOS_Progress": 346,
-  "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Completed": 6,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
     "PcReleaseDate": "2018-11-16T06:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 345,
-  "EOS_Completed": 161,
+  "EOS_Completed": 162,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 46.67,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 46.96,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -1999,6 +1999,11 @@
       "Time": "2023-12-08T19:09:11.0365881+00:00",
       "NumProgressed": 345,
       "NumCompleted": 161
+    },
+    {
+      "Time": "2023-12-10T02:34:15.2118888+00:00",
+      "NumProgressed": 345,
+      "NumCompleted": 162
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -2073,9 +2078,9 @@
       "ID": "PORTRAIT_17",
       "SetID": "2fge00i",
       "Name": "Portrait 17",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 172
     },
     {
       "ID": "PORTRAIT_18",
@@ -2171,13 +2176,13 @@
       "ID": "2fge00i",
       "IsBase": true,
       "Progressed": 345,
-      "Completed": 161
+      "Completed": 162
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:00:28.6436934+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:34:15.2118883+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:59.3336261+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:49:19.9206517+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:00:28.6437137+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:23:00.1793503+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:34:15.2119093+00:00"
 }

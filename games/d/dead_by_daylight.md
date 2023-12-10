@@ -6,10 +6,10 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~21,677 |
-| It wakes | 2.00% | ~21,677 |
-| Not half bad | 2.00% | ~21,677 |
-| Skillful | 2.00% | ~21,677 |
+| Zealous | 2.00% | ~21,678 |
+| It wakes | 2.00% | ~21,678 |
+| Not half bad | 2.00% | ~21,678 |
+| Skillful | 2.00% | ~21,678 |
 | The Grand Sacrifice | 1.00% | ~10,839 |
 | No one left behind | 1.00% | ~10,839 |
 | Medic | 1.00% | ~10,839 |
@@ -41,35 +41,35 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 0.60% | ~6,503 |
 | Lifting The Fog | 0.60% | ~6,503 |
 | Second Act | 0.60% | ~6,503 |
-| Blood on your hands | 0.50% | ~5,419 |
-| Escape Artist | 0.50% | ~5,419 |
-| Gifts for the Fog | 0.50% | ~5,419 |
-| III-50 | 0.50% | ~5,419 |
-| Cherish your Life | 0.50% | ~5,419 |
-| Unforgettable Getaway | 0.50% | ~5,419 |
-| Operation: Survival | 0.50% | ~5,419 |
-| Old West Oasis | 0.50% | ~5,419 |
-| Every Last Drop | 0.50% | ~5,419 |
-| Raccoon City Recruit | 0.50% | ~5,419 |
-| Flight to Freedom | 0.50% | ~5,419 |
-| Chorus of Chaos | 0.50% | ~5,419 |
-| Made it out alive! | 0.40% | ~4,335 |
-| Nerves of steel | 0.40% | ~4,335 |
-| Shock Therapy | 0.40% | ~4,335 |
-| All Aboard | 0.40% | ~4,335 |
-| Item of Obsession | 0.40% | ~4,335 |
-| House of Pain | 0.40% | ~4,335 |
-| Cottage Owner | 0.40% | ~4,335 |
-| Holiday Get-Together | 0.40% | ~4,335 |
-| Near-Death Experience | 0.40% | ~4,335 |
-| Campbell's Chapel Legacy | 0.40% | ~4,335 |
-| Ancestor's Rite | 0.40% | ~4,335 |
-| Cutting Out | 0.40% | ~4,335 |
-| Outrun Evil | 0.40% | ~4,335 |
-| Grim Pilgrimage | 0.40% | ~4,335 |
-| Classy Act | 0.40% | ~4,335 |
-| One More Step | 0.40% | ~4,335 |
-| MU/TH/UR Dearest | 0.40% | ~4,335 |
+| Blood on your hands | 0.50% | ~5,420 |
+| Escape Artist | 0.50% | ~5,420 |
+| Gifts for the Fog | 0.50% | ~5,420 |
+| III-50 | 0.50% | ~5,420 |
+| Cherish your Life | 0.50% | ~5,420 |
+| Unforgettable Getaway | 0.50% | ~5,420 |
+| Operation: Survival | 0.50% | ~5,420 |
+| Old West Oasis | 0.50% | ~5,420 |
+| Every Last Drop | 0.50% | ~5,420 |
+| Raccoon City Recruit | 0.50% | ~5,420 |
+| Flight to Freedom | 0.50% | ~5,420 |
+| Chorus of Chaos | 0.50% | ~5,420 |
+| Made it out alive! | 0.40% | ~4,336 |
+| Nerves of steel | 0.40% | ~4,336 |
+| Shock Therapy | 0.40% | ~4,336 |
+| All Aboard | 0.40% | ~4,336 |
+| Item of Obsession | 0.40% | ~4,336 |
+| House of Pain | 0.40% | ~4,336 |
+| Cottage Owner | 0.40% | ~4,336 |
+| Holiday Get-Together | 0.40% | ~4,336 |
+| Near-Death Experience | 0.40% | ~4,336 |
+| Campbell's Chapel Legacy | 0.40% | ~4,336 |
+| Ancestor's Rite | 0.40% | ~4,336 |
+| Cutting Out | 0.40% | ~4,336 |
+| Outrun Evil | 0.40% | ~4,336 |
+| Grim Pilgrimage | 0.40% | ~4,336 |
+| Classy Act | 0.40% | ~4,336 |
+| One More Step | 0.40% | ~4,336 |
+| MU/TH/UR Dearest | 0.40% | ~4,336 |
 | A bite for the Entity | 0.30% | ~3,252 |
 | Blood on your face | 0.30% | ~3,252 |
 | Hemophobia | 0.30% | ~3,252 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,084 |
 | Adept Good Guy | 0.10% | ~1,084 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,083,856 (Ranked 13)  
+Progressed: 1,083,911 (Ranked 13)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -473,7 +473,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-07 | 1,077,876 | 61 |
 | 2023-12-08 | 1,080,483 | 61 |
 | 2023-12-09 | 1,083,532 | 61 |
-| 2023-12-10 | 1,083,856 | 61 |
+| 2023-12-10 | 1,083,911 | 61 |
 ## Awards
 Max (Diverse Characters): 37,638  (Ranked 15)  
 Sum: 285,066 (Ranked 12)  

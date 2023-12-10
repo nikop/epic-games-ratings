@@ -3,11 +3,11 @@
   "Name": "Surgeon Simulator 2",
   "ProductSlug": "surgeon-simulator-2",
   "Ranking_Rating": 666,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-08-27T16:00:00+00:00",
@@ -131,6 +131,6 @@
   "FirstSeenRating": "2022-08-10T16:30:22.2242938+00:00",
   "LastChanged": "2023-12-03T13:59:59.4317794+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:01.7442761+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:52:42.1863688+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:00:21.8428779+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:25:21.7895242+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:34:10.0471329+00:00"
 }

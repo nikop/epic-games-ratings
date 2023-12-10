@@ -2,9 +2,9 @@
   "ID": "3f6efdc449db4175833c86acfc8ce34c",
   "Name": "Aya \u0026 Naya",
   "ProductSlug": "aya-and-naya-b7791e",
-  "Ranking_EOS_Progress": 245,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1419,
+  "EOS_Progressed": 1420,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 4.3,
   "EosHistory": [
@@ -3734,6 +3734,11 @@
       "Time": "2023-12-09T19:09:52.98329+00:00",
       "NumProgressed": 1419,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-10T02:34:43.2361959+00:00",
+      "NumProgressed": 1420,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -3746,7 +3751,7 @@
       "Name": "Played!",
       "Percentage": 83,
       "XP": 200,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "Mission2",
@@ -3785,14 +3790,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 1419,
+      "Progressed": 1420,
       "Completed": 61
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:01:05.8091549+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:34:43.2361956+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.571818+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:48:54.0546296+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:01:05.8091771+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:22:41.9895135+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:34:43.2362186+00:00"
 }

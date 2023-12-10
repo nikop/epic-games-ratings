@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -807,9 +807,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6084,
+  "EOS_Progressed": 6085,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7087,6 +7087,11 @@
       "Time": "2023-12-10T01:58:46.2740987+00:00",
       "NumProgressed": 6084,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T02:31:19.8833456+00:00",
+      "NumProgressed": 6085,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -7139,7 +7144,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4806
+      "UsersEstimate": 4807
     },
     {
       "ID": "achievement_0007",
@@ -7147,7 +7152,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5719
+      "UsersEstimate": 5720
     },
     {
       "ID": "achievement_0008",
@@ -7155,7 +7160,7 @@
       "Name": "On the Top Step",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 5415
+      "UsersEstimate": 5416
     },
     {
       "ID": "achievement_0009",
@@ -7171,7 +7176,7 @@
       "Name": "Network Success",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "achievement_0011",
@@ -7195,7 +7200,7 @@
       "Name": "Oil and Water",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "achievement_0014",
@@ -7219,7 +7224,7 @@
       "Name": "Hitting a Season",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "achievement_0017",
@@ -7227,7 +7232,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "achievement_0018",
@@ -7259,7 +7264,7 @@
       "Name": "Team Orders",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 4624
+      "UsersEstimate": 4625
     },
     {
       "ID": "achievement_0022",
@@ -7267,7 +7272,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "achievement_0023",
@@ -7355,7 +7360,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 3407
+      "UsersEstimate": 3408
     },
     {
       "ID": "achievement_0034",
@@ -7435,7 +7440,7 @@
       "Name": "Familiar Faces",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2981
+      "UsersEstimate": 2982
     },
     {
       "ID": "achievement_0044",
@@ -7443,7 +7448,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "achievement_0045",
@@ -7490,7 +7495,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 6084,
+      "Progressed": 6085,
       "Completed": 0
     }
   ],
@@ -7498,8 +7503,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-12-09T20:00:15.536226+00:00",
-  "LastChanged_Achievements": "2023-12-10T01:58:46.2740984+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:31:19.8833452+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:20.5741991+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:53:39.0520541+00:00",
-  "LastUpdate_Achievements": "2023-12-10T01:58:46.2741504+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:25:26.026+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:31:19.8833978+00:00"
 }

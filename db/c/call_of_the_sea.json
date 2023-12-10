@@ -3,8 +3,8 @@
   "Name": "Call of the Sea",
   "ProductSlug": "call-of-the-sea",
   "Ranking_Rating": 738,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 72,
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133549,
+  "EOS_Progressed": 133550,
   "EOS_Completed": 1187,
-  "EOS_NewPlayers": 1026,
+  "EOS_NewPlayers": 1024,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -26928,6 +26928,11 @@
       "Time": "2023-12-10T01:55:30.7558117+00:00",
       "NumProgressed": 133549,
       "NumCompleted": 1187
+    },
+    {
+      "Time": "2023-12-10T02:28:52.6609308+00:00",
+      "NumProgressed": 133550,
+      "NumCompleted": 1187
     }
   ],
   "TotalAchievements": 34,
@@ -26947,7 +26952,7 @@
       "Name": "The only thing I have now",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 22703
+      "UsersEstimate": 22704
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -26979,7 +26984,7 @@
       "Name": "I\u0027ll make a note of that...",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12019
+      "UsersEstimate": 12020
     },
     {
       "ID": "ACH_GAME_REPLAY",
@@ -26995,7 +27000,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 106839
+      "UsersEstimate": 106840
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -27003,7 +27008,7 @@
       "Name": "Gently down the stream...",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "ACH_L01_WHITEBEACH_END",
@@ -27011,7 +27016,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 74787
+      "UsersEstimate": 74788
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -27043,7 +27048,7 @@
       "Name": "Fawning Developers",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 6677
+      "UsersEstimate": 6678
     },
     {
       "ID": "ACH_L03_BLACKBEACH_END",
@@ -27059,7 +27064,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 28045
+      "UsersEstimate": 28046
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -27147,7 +27152,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 33387
+      "UsersEstimate": 33388
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -27155,7 +27160,7 @@
       "Name": "Sunken",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 33387
+      "UsersEstimate": 33388
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -27179,7 +27184,7 @@
       "Name": "Meta-reference",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "ACH_L06_RITUAL",
@@ -27203,14 +27208,14 @@
       "Name": "Candid Photo",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6677
+      "UsersEstimate": 6678
     }
   ],
   "AchievementSets": [
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 133549,
+      "Progressed": 133550,
       "Completed": 1187
     }
   ],
@@ -27218,8 +27223,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-12-10T01:55:30.7558114+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:28:52.6609302+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:22.0226794+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:51:36.5161862+00:00",
-  "LastUpdate_Achievements": "2023-12-10T01:55:30.7559615+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:24:35.5920262+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:28:52.6610608+00:00"
 }

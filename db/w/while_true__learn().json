@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
@@ -511,9 +511,9 @@
       "Count": 138
     }
   ],
-  "EOS_Progressed": 613352,
+  "EOS_Progressed": 613353,
   "EOS_Completed": 553,
-  "EOS_NewPlayers": 780,
+  "EOS_NewPlayers": 781,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -26761,6 +26761,11 @@
       "Time": "2023-12-10T01:59:14.3505749+00:00",
       "NumProgressed": 613352,
       "NumCompleted": 553
+    },
+    {
+      "Time": "2023-12-10T02:33:20.3973596+00:00",
+      "NumProgressed": 613353,
+      "NumCompleted": 553
     }
   ],
   "TotalAchievements": 28,
@@ -26900,7 +26905,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 570417
+      "UsersEstimate": 570418
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -26908,7 +26913,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 147204
+      "UsersEstimate": 147205
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -26932,7 +26937,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 404812
+      "UsersEstimate": 404813
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -26940,7 +26945,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 110403
+      "UsersEstimate": 110404
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -26995,15 +27000,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 613352,
+      "Progressed": 613353,
       "Completed": 553
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-11-16T16:58:16.9123223+00:00",
-  "LastChanged_Achievements": "2023-12-10T01:59:14.3505743+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:33:20.3973594+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:44.8137954+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:52:19.759619+00:00",
-  "LastUpdate_Achievements": "2023-12-10T01:59:14.3507143+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:25:05.8579882+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:33:20.3975211+00:00"
 }

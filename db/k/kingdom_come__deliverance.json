@@ -9147,9 +9147,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 811846,
+  "EOS_Progressed": 811848,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 992,
+  "EOS_NewPlayers": 994,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -35442,6 +35442,11 @@
       "Time": "2023-12-10T02:00:33.1256647+00:00",
       "NumProgressed": 811846,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-10T02:34:18.6963953+00:00",
+      "NumProgressed": 811848,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -35477,7 +35482,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129895
+      "UsersEstimate": 129896
     },
     {
       "ID": "Awakening",
@@ -35669,7 +35674,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129895
+      "UsersEstimate": 129896
     },
     {
       "ID": "Freud",
@@ -35933,7 +35938,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162369
+      "UsersEstimate": 162370
     },
     {
       "ID": "RevenantOfLedechko",
@@ -35973,7 +35978,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162369
+      "UsersEstimate": 162370
     },
     {
       "ID": "SerialKiller",
@@ -36108,15 +36113,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 811846,
+      "Progressed": 811848,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-09T23:59:50.6526861+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:00:33.1256642+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:34:18.696395+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:13.9714541+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:48:55.8897449+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:00:33.1258521+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:22:43.2693673+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:34:18.696595+00:00"
 }

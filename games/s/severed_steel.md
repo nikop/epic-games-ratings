@@ -5,27 +5,27 @@ Rating: 4.69 (Ranked 231)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 31.00% | ~212,949 |
-| 50 HEADSHOTS | 29.00% | ~199,210 |
-| SCIENCE AND INDUSTRY | 28.00% | ~192,341 |
-| FINISHED CHAPTER 1 | 27.00% | ~185,471 |
-| FINISHED CHAPTER 2 | 20.00% | ~137,386 |
-| 200 HEADSHOTS | 18.00% | ~123,648 |
-| FINISHED CHAPTER 3 | 17.00% | ~116,778 |
-| FINISHED CHAPTER 4 | 14.00% | ~96,170 |
-| FINISH CHAPTER 5 | 12.00% | ~82,432 |
-| CATHARTIC ESCAPISM | 11.00% | ~75,562 |
-| FINISH CHAPTER 6 | 10.00% | ~68,693 |
-| 1000 KILLS | 9.00% | ~61,824 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,477 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,739 |
-| FIRST BLOOD | 2.00% | ~13,739 |
+| 100 KILLS | 31.00% | ~212,943 |
+| 50 HEADSHOTS | 29.00% | ~199,204 |
+| SCIENCE AND INDUSTRY | 28.00% | ~192,335 |
+| FINISHED CHAPTER 1 | 27.00% | ~185,466 |
+| FINISHED CHAPTER 2 | 20.00% | ~137,382 |
+| 200 HEADSHOTS | 18.00% | ~123,644 |
+| FINISHED CHAPTER 3 | 17.00% | ~116,775 |
+| FINISHED CHAPTER 4 | 14.00% | ~96,168 |
+| FINISH CHAPTER 5 | 12.00% | ~82,429 |
+| CATHARTIC ESCAPISM | 11.00% | ~75,560 |
+| FINISH CHAPTER 6 | 10.00% | ~68,691 |
+| 1000 KILLS | 9.00% | ~61,822 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,476 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,738 |
+| FIRST BLOOD | 2.00% | ~13,738 |
 | PACEMAKER | 1.00% | ~6,869 |
 | TIME PARADOX | 1.00% | ~6,869 |
 | FIREFIGHT LEVEL 30 | 0.90% | ~6,182 |
 | OUT OF ORDER | 0.90% | ~6,182 |
 | PARTYHARD | 0.80% | ~5,495 |
-| NEW GAME PLUS | 0.70% | ~4,809 |
+| NEW GAME PLUS | 0.70% | ~4,808 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,435 |
 | CHURCH | 0.40% | ~2,748 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~2,061 |
@@ -58,8 +58,8 @@ Rating: 4.69 (Ranked 231)
 | THE GAMBLER | 0.10% | ~687 |
 | WARRIOR IN A GARDEN | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,931 (Ranked 27)  
-Completed: 75 (0.01%) (Ranked 348)  
+Progressed: 686,912 (Ranked 27)  
+Completed: 74 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

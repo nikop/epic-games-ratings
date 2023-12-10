@@ -1,28 +1,28 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.54 (Ranked 535)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 3.00% | ~21,979 |
 | Whatever It Takes | 3.00% | ~1,745 |
 | Pork Chopped | 3.00% | ~1,745 |
-| Dr. Reed, I Presume? | 2.00% | ~14,652 |
-| Git Gutte! | 2.00% | ~14,652 |
-| Anger Management | 2.00% | ~14,652 |
-| Bookworm | 2.00% | ~14,652 |
-| Break A Leg | 2.00% | ~14,652 |
-| But Doctor, I am Butcho | 2.00% | ~14,652 |
-| Can't Handle the Truth | 2.00% | ~14,652 |
-| Coup de Grâce | 2.00% | ~14,652 |
-| Hazardous Materials | 2.00% | ~14,652 |
-| Friends Like These | 2.00% | ~14,652 |
-| Hotel California | 2.00% | ~14,652 |
-| Apex Predator | 2.00% | ~14,652 |
-| Stacking the Deck | 2.00% | ~14,652 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,652 |
-| This is My Weapon | 2.00% | ~14,652 |
+| Dr. Reed, I Presume? | 2.00% | ~14,653 |
+| Git Gutte! | 2.00% | ~14,653 |
+| Anger Management | 2.00% | ~14,653 |
+| Bookworm | 2.00% | ~14,653 |
+| Break A Leg | 2.00% | ~14,653 |
+| But Doctor, I am Butcho | 2.00% | ~14,653 |
+| Can't Handle the Truth | 2.00% | ~14,653 |
+| Coup de Grâce | 2.00% | ~14,653 |
+| Hazardous Materials | 2.00% | ~14,653 |
+| Friends Like These | 2.00% | ~14,653 |
+| Hotel California | 2.00% | ~14,653 |
+| Apex Predator | 2.00% | ~14,653 |
+| Stacking the Deck | 2.00% | ~14,653 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,653 |
+| This is My Weapon | 2.00% | ~14,653 |
 | One of Us | 2.00% | ~1,163 |
 | Making Your Mark | 1.00% | ~7,326 |
 | Perks of the Job | 1.00% | ~7,326 |
@@ -42,14 +42,14 @@ Rating: 4.54 (Ranked 534)
 | Go, Bobcats! | 0.80% | ~5,861 |
 | Rising Star | 0.80% | ~5,861 |
 | Internet Famous | 0.70% | ~5,128 |
+| Make it So | 0.60% | ~4,396 |
 | On Safari | 0.60% | ~4,396 |
 | Smorgasbord | 0.60% | ~4,396 |
 | Variety is the Spice of Death | 0.60% | ~4,396 |
-| Make it So | 0.50% | ~3,663 |
 | LA Influential | 0.50% | ~3,663 |
-| Sole Survivor | 0.40% | ~2,930 |
-| Gore Horse | 0.40% | ~2,930 |
-| Sharpest Tool in the Box | 0.40% | ~2,930 |
+| Sole Survivor | 0.40% | ~2,931 |
+| Gore Horse | 0.40% | ~2,931 |
+| Sharpest Tool in the Box | 0.40% | ~2,931 |
 | Top That, Tisha! | 0.40% | ~233 |
 | Survival Skills | 0.20% | ~1,465 |
 | Lawn and Order | 0.20% | ~116 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 534)
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,624 (Ranked 21)  
+Progressed: 732,631 (Ranked 21)  
 Completed: 2,471 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 2,471 (0.34%) (Ranked 234)
 | 2023-12-07 | 731,505 | 2,465 |
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
-| 2023-12-10 | 732,624 | 2,471 |
+| 2023-12-10 | 732,631 | 2,471 |
 ## Awards
 Max (Great Boss Battles): 8,042  (Ranked 49)  
 Sum: 12,371 (Ranked 82)  

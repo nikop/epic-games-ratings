@@ -3,11 +3,11 @@
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
   "Ranking_Rating": 862,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -494,9 +494,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95079,
+  "EOS_Progressed": 95083,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 730,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -26439,6 +26439,11 @@
       "Time": "2023-12-10T02:00:01.4373556+00:00",
       "NumProgressed": 95079,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-12-10T02:33:54.9324306+00:00",
+      "NumProgressed": 95083,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 10,
@@ -26514,7 +26519,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33278
+      "UsersEstimate": 33279
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -26529,15 +26534,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 95079,
+      "Progressed": 95083,
       "Completed": 432
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-07T22:03:08.3516808+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:00:01.437355+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:33:54.9324304+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2634868+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:54:20.0274913+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:00:01.4374851+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:28:04.583963+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:33:54.9325801+00:00"
 }

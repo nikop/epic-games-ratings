@@ -3,11 +3,11 @@
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
   "Ranking_Rating": 439,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8390,
+  "EOS_Progressed": 8391,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8326,6 +8326,11 @@
       "Time": "2023-12-10T00:11:57.0899264+00:00",
       "NumProgressed": 8390,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T02:34:47.9744474+00:00",
+      "NumProgressed": 8391,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8338,7 +8343,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 6041
+      "UsersEstimate": 6042
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -8346,7 +8351,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5873
+      "UsersEstimate": 5874
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8354,7 +8359,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -8426,7 +8431,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -8442,7 +8447,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4111
+      "UsersEstimate": 4112
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -8490,7 +8495,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 5118
+      "UsersEstimate": 5119
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -8514,7 +8519,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3943
+      "UsersEstimate": 3944
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8617,22 +8622,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8390,
+      "Progressed": 8391,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1007,
-      "Completed": 1007
+      "Progressed": 1008,
+      "Completed": 1008
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-09T19:03:20.556047+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:01:11.76161+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:34:47.9744472+00:00",
   "LastUpdate_AppInfo": "2023-12-08T10:57:06.6464777+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:54:23.023434+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:01:11.7616565+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:28:06.7407304+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:34:47.9745123+00:00"
 }

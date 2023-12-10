@@ -35,12 +35,12 @@ Number of Ratings: 45  (23.09.2022)
 | Everfading | 0.50% | ~8 |
 | Astrology | 0.50% | ~8 |
 | Plague Doctor | 0.40% | ~6 |
+| In Soil, In Smoke | 0.40% | ~6 |
 | All My Birds, Safely Home | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
 | Storied Past | 0.30% | ~5 |
 | Worldwalker | 0.30% | ~5 |
 | No More Nightmares | 0.30% | ~5 |
-| In Soil, In Smoke | 0.30% | ~5 |
 | Wingknight's Prowess | 0.30% | ~5 |
 | Bears are Scary | 0.30% | ~5 |
 | Grillmaster | 0.30% | ~5 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,517 (Ranked 244)  
+Progressed: 1,517 (Ranked 245)  
 Completed: 6 (0.40%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |

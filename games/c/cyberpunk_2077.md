@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,819 |
-| Gun Fu | 7.00% | ~68,145 |
-| The Fool | 6.00% | ~58,410 |
-| Right Back At Ya | 5.00% | ~48,675 |
-| The Lovers | 5.00% | ~48,675 |
+| V for Vendetta | 12.00% | ~116,821 |
+| Gun Fu | 7.00% | ~68,146 |
+| The Fool | 6.00% | ~58,411 |
+| Right Back At Ya | 5.00% | ~48,676 |
+| The Lovers | 5.00% | ~48,676 |
 | Full Body Conversion | 4.00% | ~38,940 |
 | True Soldier | 4.00% | ~38,940 |
 | Christmas Tree Attack | 3.00% | ~29,205 |
@@ -33,23 +33,23 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 1.00% | ~9,735 |
 | Judy vs Night City | 1.00% | ~9,735 |
 | Spin Doctor | 1.00% | ~1,021 |
-| The Wandering Fool | 0.90% | ~8,761 |
+| The Wandering Fool | 0.90% | ~8,762 |
 | Easy Come, Easy Go | 0.90% | ~919 |
 | King of Wands | 0.80% | ~817 |
-| Ten out of Ten | 0.70% | ~6,814 |
-| The Sun | 0.70% | ~6,814 |
+| Ten out of Ten | 0.70% | ~6,815 |
+| The Sun | 0.70% | ~6,815 |
 | Dirty Deeds | 0.70% | ~715 |
 | To Bad Decisions! | 0.60% | ~5,841 |
 | The Star | 0.60% | ~5,841 |
-| Breathtaking | 0.50% | ~4,867 |
+| Breathtaking | 0.50% | ~4,868 |
 | The Tower | 0.50% | ~511 |
 | Autojock | 0.40% | ~3,894 |
 | Must Be Rats | 0.40% | ~3,894 |
 | Temperance | 0.40% | ~3,894 |
-| The APB is Not Enough | 0.40% | ~408 |
-| Judgement Day | 0.40% | ~408 |
-| King of Pentacles | 0.40% | ~408 |
-| King of Swords | 0.40% | ~408 |
+| The APB is Not Enough | 0.40% | ~409 |
+| Judgement Day | 0.40% | ~409 |
+| King of Pentacles | 0.40% | ~409 |
+| King of Swords | 0.40% | ~409 |
 | City Lights | 0.20% | ~1,947 |
 | Little Tokyo | 0.20% | ~1,947 |
 | The Wasteland | 0.20% | ~1,947 |
@@ -57,12 +57,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 0.20% | ~1,947 |
 | It's Elementary | 0.20% | ~1,947 |
 | King of Cups | 0.20% | ~204 |
-| Frequent Flyer | 0.10% | ~973 |
-| Gunslinger | 0.10% | ~973 |
-| Mean Streets | 0.10% | ~973 |
-| Daemon In The Shell | 0.10% | ~973 |
-| Rough Landing | 0.10% | ~973 |
-| Greetings from Pacifica! | 0.10% | ~973 |
+| Frequent Flyer | 0.10% | ~974 |
+| Gunslinger | 0.10% | ~974 |
+| Mean Streets | 0.10% | ~974 |
+| Daemon In The Shell | 0.10% | ~974 |
+| Rough Landing | 0.10% | ~974 |
+| Greetings from Pacifica! | 0.10% | ~974 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 973,495 (Ranked 15)  
-Completed: 2,872 (0.30%) (Ranked 239)  
+Progressed: 973,511 (Ranked 15)  
+Completed: 2,873 (0.30%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -308,7 +308,7 @@ Completed: 2,872 (0.30%) (Ranked 239)
 | 2023-12-07 | 971,994 | 2,852 |
 | 2023-12-08 | 972,634 | 2,860 |
 | 2023-12-09 | 973,443 | 2,872 |
-| 2023-12-10 | 973,495 | 2,872 |
+| 2023-12-10 | 973,511 | 2,873 |
 ## Awards
 Max (Character Customization): 120,272  (Ranked 9)  
 Sum: 405,418 (Ranked 9)  

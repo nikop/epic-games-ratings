@@ -6,23 +6,23 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~18,165 |
+| Longrunner | 76.00% | ~18,166 |
 | Sword Runner | 61.00% | ~14,580 |
 | Running out of breath | 54.00% | ~12,907 |
 | Wallrunner | 53.00% | ~12,668 |
-| Homerunner | 45.00% | ~10,755 |
-| Out of order | 44.00% | ~10,516 |
-| I call it luck | 43.00% | ~10,277 |
-| Where are my Keys? | 40.00% | ~9,560 |
-| Back to hell | 37.00% | ~8,843 |
-| Perfection | 32.00% | ~7,648 |
-| Why not both | 30.00% | ~7,170 |
-| Sword to a gunfight | 29.00% | ~6,931 |
-| Upgrades not mandatory | 29.00% | ~6,931 |
-| Artificial selection | 28.00% | ~6,692 |
-| Control freak | 27.00% | ~6,453 |
-| Finish line | 26.00% | ~6,214 |
-| Running Wild | 26.00% | ~6,214 |
+| Homerunner | 45.00% | ~10,756 |
+| Out of order | 44.00% | ~10,517 |
+| I call it luck | 43.00% | ~10,278 |
+| Where are my Keys? | 40.00% | ~9,561 |
+| Back to hell | 37.00% | ~8,844 |
+| Perfection | 32.00% | ~7,649 |
+| Why not both | 30.00% | ~7,171 |
+| Sword to a gunfight | 29.00% | ~6,932 |
+| Upgrades not mandatory | 29.00% | ~6,932 |
+| Artificial selection | 28.00% | ~6,693 |
+| Control freak | 27.00% | ~6,454 |
+| Finish line | 26.00% | ~6,215 |
+| Running Wild | 26.00% | ~6,215 |
 | Unstoppable force | 22.00% | ~5,258 |
 | Wave of mutilation | 22.00% | ~5,258 |
 | Can't Run Can't Hide | 16.00% | ~3,824 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~96 |
 | Up Close And Personal | 0.40% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,901 (Ranked 137)  
+Progressed: 23,902 (Ranked 137)  
 Completed: 93 (0.39%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,11 +286,11 @@ Completed: 93 (0.39%) (Ranked 227)
 | 2023-12-07 | 23,805 | 93 |
 | 2023-12-08 | 23,851 | 93 |
 | 2023-12-09 | 23,898 | 93 |
-| 2023-12-10 | 23,901 | 93 |
+| 2023-12-10 | 23,902 | 93 |
 ## Awards
 Max (Great Boss Battles): 524  (Ranked 210)  
-Sum: 757 (Ranked 288)  
-Diff (max vs sum): -78  
+Sum: 757 (Ranked 289)  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 524 |

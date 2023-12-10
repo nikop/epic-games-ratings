@@ -10,13 +10,13 @@ Rating: 4.75 (Ranked 146)
 | Master of the Dark Arts | 0.80% | ~135 |
 | First of Many | 0.70% | ~1,664 |
 | Not Your Average Trait | 0.60% | ~1,426 |
-| Expanding Horizons | 0.50% | ~1,188 |
-| Gleaming the Cube | 0.50% | ~1,188 |
-| Not So Special Now | 0.50% | ~1,188 |
-| Quest for Survival | 0.50% | ~1,188 |
-| Familiar Face | 0.50% | ~1,188 |
-| Boss'n Up | 0.50% | ~1,188 |
-| Trait Chaser | 0.50% | ~1,188 |
+| Expanding Horizons | 0.50% | ~1,189 |
+| Gleaming the Cube | 0.50% | ~1,189 |
+| Not So Special Now | 0.50% | ~1,189 |
+| Quest for Survival | 0.50% | ~1,189 |
+| Familiar Face | 0.50% | ~1,189 |
+| Boss'n Up | 0.50% | ~1,189 |
+| Trait Chaser | 0.50% | ~1,189 |
 | Am I Seeing This? | 0.40% | ~951 |
 | Not a Janitor | 0.40% | ~951 |
 | Equal Measures | 0.40% | ~951 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 146)
 | You Shall Pass | 0.20% | ~34 |
 | A Foul Feast | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,700 (Ranked 66)  
+Progressed: 237,709 (Ranked 66)  
 Completed: 574 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,14 +208,14 @@ Completed: 574 (0.24%) (Ranked 251)
 | 2023-12-07 | 236,590 | 567 |
 | 2023-12-08 | 237,044 | 572 |
 | 2023-12-09 | 237,633 | 573 |
-| 2023-12-10 | 237,700 | 574 |
+| 2023-12-10 | 237,709 | 574 |
 ## Awards
-Max (Great Boss Battles): 2,690  (Ranked 102)  
-Sum: 6,711 (Ranked 127)  
+Max (Great Boss Battles): 2,704  (Ranked 102)  
+Sum: 6,725 (Ranked 127)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,690 |
+| This game has Great Boss Battles | 2,704 |
 | This game has Diverse Characters | 449 |
 | This game is Highly Recommended | 427 |
 | This game has Challenging Combat | 425 |
@@ -366,3 +366,4 @@ Diff (max vs sum): -25
 | 2023-12-07 | 4.75 | 2,678 | 6,634 |
 | 2023-12-08 | 4.75 | 2,690 | 6,681 |
 | 2023-12-09 | 4.75 | 2,690 | 6,711 |
+| 2023-12-10 | 4.75 | 2,704 | 6,725 |

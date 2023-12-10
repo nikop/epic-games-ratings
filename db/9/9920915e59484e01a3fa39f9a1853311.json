@@ -3,11 +3,11 @@
   "Name": "Starship Troopers: Extermination",
   "ProductSlug": "starship-troopers-extermination-57f59d",
   "Ranking_Rating": 1057,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-11-21T18:00:00+00:00",
@@ -127,6 +127,6 @@
   "FirstSeenRating": "2023-11-28T23:59:42.1977188+00:00",
   "LastChanged": "2023-12-09T17:58:44.4696467+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.9456609+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:50:31.6184058+00:00",
-  "LastUpdate_Achievements": "2023-12-10T01:58:08.3974182+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:23:50.2378151+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:30:53.7926096+00:00"
 }

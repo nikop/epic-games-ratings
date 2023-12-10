@@ -40,7 +40,7 @@
 | Primetime Content Consumer | 47.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15 (Ranked 597)  
-Completed: 7 (46.67%) (Ranked 7)  
+Completed: 7 (46.67%) (Ranked 8)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

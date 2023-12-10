@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~542 |
-| Training Simulation | 78.00% | ~455 |
-| Kuku Bird Hunter | 64.00% | ~373 |
-| Storm Traveller | 58.00% | ~338 |
-| Wolf King Killer | 53.00% | ~309 |
-| Fashion Connoisseur | 52.00% | ~303 |
-| Arms Mechanic | 48.00% | ~280 |
-| Flower Thief | 43.00% | ~251 |
+| Travel Streamer | 93.00% | ~543 |
+| Training Simulation | 78.00% | ~456 |
+| Kuku Bird Hunter | 64.00% | ~374 |
+| Storm Traveller | 58.00% | ~339 |
+| Wolf King Killer | 53.00% | ~310 |
+| Fashion Connoisseur | 52.00% | ~304 |
+| Arms Mechanic | 47.00% | ~274 |
+| Flower Thief | 42.00% | ~245 |
 | Beginner Artificer | 37.00% | ~216 |
 | Apostle of Flame | 37.00% | ~216 |
 | Beginner Cook | 35.00% | ~204 |
 | Seal Breaker | 31.00% | ~181 |
-| Handyman | 27.00% | ~157 |
+| Handyman | 27.00% | ~158 |
 | Giant Lizard Killer | 26.00% | ~152 |
 | Guardian | 25.00% | ~146 |
 | Nosebleeder | 25.00% | ~146 |
-| Trader | 21.00% | ~122 |
-| Weapon Boost | 21.00% | ~122 |
+| Trader | 21.00% | ~123 |
+| Weapon Boost | 21.00% | ~123 |
 | Flying Kobold Killer | 18.00% | ~105 |
 | Youth Magnet | 17.00% | ~99 |
 | Furious Scorpion Killer | 16.00% | ~93 |
@@ -37,7 +37,7 @@
 | Master Cook | 8.00% | ~47 |
 | Giantess Slayer | 8.00% | ~47 |
 | Warden Slayer | 8.00% | ~47 |
-| Silver Moon Wolf King Challenge | 3.00% | ~17 |
+| Silver Moon Wolf King Challenge | 3.00% | ~18 |
 | Rebellious | 2.00% | ~12 |
 | Blade Mantis Challenge | 2.00% | ~12 |
 | Big Face Goalkeeper Challenge | 2.00% | ~12 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 583 (Ranked 307)  
+Progressed: 584 (Ranked 307)  
 Completed: 1 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 1 (0.17%) (Ranked 269)
 | 2023-12-07 | 566 | 1 |
 | 2023-12-08 | 572 | 1 |
 | 2023-12-09 | 581 | 1 |
-| 2023-12-10 | 583 | 1 |
+| 2023-12-10 | 584 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

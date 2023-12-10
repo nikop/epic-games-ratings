@@ -3,11 +3,11 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 666,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -419,7 +419,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25898,
+  "EOS_Progressed": 25900,
   "EOS_Completed": 487,
   "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 6,
@@ -25504,6 +25504,11 @@
       "Time": "2023-12-10T01:58:19.2579921+00:00",
       "NumProgressed": 25898,
       "NumCompleted": 487
+    },
+    {
+      "Time": "2023-12-10T02:31:01.7205137+00:00",
+      "NumProgressed": 25900,
+      "NumCompleted": 487
     }
   ],
   "TotalAchievements": 20,
@@ -25635,7 +25640,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19682
+      "UsersEstimate": 19684
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -25643,7 +25648,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6992
+      "UsersEstimate": 6993
     },
     {
       "ID": "NORTH_FINISHED",
@@ -25674,15 +25679,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25898,
+      "Progressed": 25900,
       "Completed": 487
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-10T01:58:19.2579918+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:31:01.7205134+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.8810572+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:50:59.0824224+00:00",
-  "LastUpdate_Achievements": "2023-12-10T01:58:19.2581209+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:24:09.5815786+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:31:01.7206519+00:00"
 }

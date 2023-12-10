@@ -3,11 +3,11 @@
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
   "Ranking_Rating": 146,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -207,7 +207,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7645,
+  "EOS_Progressed": 7646,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 2,
@@ -6047,6 +6047,11 @@
       "Time": "2023-12-10T02:01:03.0079385+00:00",
       "NumProgressed": 7645,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-10T02:34:41.0102304+00:00",
+      "NumProgressed": 7646,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6115,7 +6120,7 @@
       "Name": "Explosive Personality",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "FasterThanLight",
@@ -6163,7 +6168,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -6259,7 +6264,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "ThisIsDharma",
@@ -6267,7 +6272,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -6275,7 +6280,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "UnResurrected",
@@ -6291,7 +6296,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -6330,7 +6335,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7645,
+      "Progressed": 7646,
       "Completed": 15
     }
   ],
@@ -6338,8 +6343,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-09T07:57:44.7970456+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:01:03.0079381+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:34:41.0102301+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:49:08.7590381+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:01:03.007986+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:22:52.6244136+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:34:41.0102767+00:00"
 }

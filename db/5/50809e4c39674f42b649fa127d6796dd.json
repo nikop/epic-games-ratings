@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -1232,9 +1232,9 @@
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1439,8 +1439,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-10T01:57:21.6282674+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:30:18.1777297+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:54:13.7683403+00:00",
-  "LastUpdate_Achievements": "2023-12-10T01:57:21.6282979+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:28:00.1424243+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:30:18.1777647+00:00"
 }

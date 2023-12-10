@@ -3,11 +3,11 @@
   "Name": "Smalland: Survive the Wilds",
   "ProductSlug": "smalland",
   "Ranking_Rating": 422,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -9356,8 +9356,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-12-08T03:59:13.6536752+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:00:45.2498106+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:34:27.5452345+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:00.2326585+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:51:26.163718+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:00:45.2498591+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:24:28.2258068+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:34:27.5452843+00:00"
 }

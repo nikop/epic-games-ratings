@@ -2133,9 +2133,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1292844,
+  "EOS_Progressed": 1292850,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1220,
+  "EOS_NewPlayers": 1221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24533,6 +24533,11 @@
       "Time": "2023-12-10T01:59:18.239485+00:00",
       "NumProgressed": 1292844,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T02:33:23.3926392+00:00",
+      "NumProgressed": 1292850,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -24656,7 +24661,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 142213
+      "UsersEstimate": 142214
     },
     {
       "ID": "10_ghost_wins",
@@ -24680,7 +24685,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 206855
+      "UsersEstimate": 206856
     },
     {
       "ID": "10_hunter_wins",
@@ -24832,7 +24837,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 129284
+      "UsersEstimate": 129285
     },
     {
       "ID": "ghost_win",
@@ -24840,7 +24845,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 762778
+      "UsersEstimate": 762782
     },
     {
       "ID": "hunter_win",
@@ -24848,7 +24853,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 698136
+      "UsersEstimate": 698139
     },
     {
       "ID": "master_of_loadouts",
@@ -24872,14 +24877,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 284426
+      "UsersEstimate": 284427
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1292844,
+      "Progressed": 1292850,
       "Completed": 0
     }
   ],
@@ -24887,8 +24892,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-12-09T11:57:28.0208538+00:00",
-  "LastChanged_Achievements": "2023-12-10T01:59:18.2394848+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:33:23.3926389+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:57:00.0927863+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:48:59.6827649+00:00",
-  "LastUpdate_Achievements": "2023-12-10T01:59:18.2395871+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:22:45.9142937+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:33:23.3927795+00:00"
 }

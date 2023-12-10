@@ -34,8 +34,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Freedom! | 3.00% | ~2,025 |
 | Long live the Empire! | 3.00% | ~2,025 |
 | Real Estate | 3.00% | ~2,025 |
+| Supreme Emperor | 2.00% | ~1,350 |
 | Entrepreneur | 1.00% | ~675 |
-| Supreme Emperor | 1.00% | ~675 |
 | Crackshot | 0.90% | ~608 |
 | Undercover | 0.90% | ~608 |
 | Fat Cat | 0.70% | ~473 |

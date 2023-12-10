@@ -4,7 +4,7 @@
   "ProductSlug": "locks-quest-befcf1",
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:20.9689847+00:00",
   "LastChanged": "2023-03-31T05:58:20.9689848+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:58.9989742+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:49:58.9017344+00:00",
-  "LastUpdate_Achievements": "2023-12-10T01:54:42.9460982+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:23:27.5908981+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:28:20.7582071+00:00"
 }

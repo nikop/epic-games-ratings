@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -34632,9 +34632,9 @@
       "ID": "Supreme Emperor",
       "SetID": "den0lp1",
       "Name": "Supreme Emperor",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 675
+      "UsersEstimate": 1350
     },
     {
       "ID": "Swordbearer",
@@ -34712,8 +34712,8 @@
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-09T20:58:28.2245817+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:01:13.6772917+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:34:49.5687557+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.7190339+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:49:47.0755545+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:01:13.6774046+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:23:19.3349806+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:34:49.568923+00:00"
 }

@@ -15,9 +15,9 @@ Rating: 4.22 (Ranked 910)
 | Understanding | 0.60% | ~10 |
 | Family First | 0.50% | ~8 |
 | “Here boy…“ | 0.50% | ~8 |
-| First contact | 0.20% | ~3 |
+| First contact | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,667 (Ranked 237)  
+Progressed: 1,667 (Ranked 238)  
 Completed: 31 (1.86%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |

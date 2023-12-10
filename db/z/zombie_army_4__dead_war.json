@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2422,10 +2422,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2583,
       "NumberOfAwardsMax": 855
+    },
+    {
+      "Time": "2023-12-10T02:23:32.1930826+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2584,
+      "NumberOfAwardsMax": 855
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2583,
+  "NumberOfAwards": 2584,
   "NumberOfAwardsMax": 855,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2487,7 +2493,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 222
+      "Count": 223
     },
     {
       "Text": "This game has a Creative Community",
@@ -2502,7 +2508,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44097,
+  "EOS_Progressed": 44098,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -9687,6 +9693,11 @@
       "Time": "2023-12-09T21:04:52.9938089+00:00",
       "NumProgressed": 44097,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-10T02:29:20.7354209+00:00",
+      "NumProgressed": 44098,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9698,7 +9709,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27340
+      "UsersEstimate": 27341
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -9738,7 +9749,7 @@
       "Name": "Bad Blood",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7496
+      "UsersEstimate": 7497
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -9890,7 +9901,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27781
+      "UsersEstimate": 27782
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -9938,7 +9949,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8378
+      "UsersEstimate": 8379
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -9970,7 +9981,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10142
+      "UsersEstimate": 10143
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -10002,7 +10013,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22489
+      "UsersEstimate": 22490
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -10026,7 +10037,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30427
+      "UsersEstimate": 30428
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -10058,7 +10069,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25135
+      "UsersEstimate": 25136
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -10098,7 +10109,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29104
+      "UsersEstimate": 29105
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -10114,7 +10125,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7496
+      "UsersEstimate": 7497
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -10154,7 +10165,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29104
+      "UsersEstimate": 29105
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -10162,7 +10173,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10583
+      "UsersEstimate": 10584
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -10194,7 +10205,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10142
+      "UsersEstimate": 10143
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -10210,7 +10221,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7937
+      "UsersEstimate": 7938
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -10225,15 +10236,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44097,
+      "Progressed": 44098,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2023-12-09T18:58:24.2902227+00:00",
-  "LastChanged_Achievements": "2023-12-10T01:56:08.8100391+00:00",
+  "LastChanged": "2023-12-10T02:23:32.1930823+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:29:20.7354202+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.7466868+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:50:05.4977406+00:00",
-  "LastUpdate_Achievements": "2023-12-10T01:56:08.8101234+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:23:32.1930829+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:29:20.7355312+00:00"
 }

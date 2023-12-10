@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1281,
+  "EOS_Progressed": 1286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1279,
+  "EOS_NewPlayers": 1284,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -327,6 +327,11 @@
       "Time": "2023-12-10T02:00:26.7366877+00:00",
       "NumProgressed": 1281,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T02:34:13.8348307+00:00",
+      "NumProgressed": 1286,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -339,7 +344,7 @@
       "Name": "Conspiracy",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 615
+      "UsersEstimate": 617
     },
     {
       "ID": "03_TheStolenStar",
@@ -443,15 +448,15 @@
       "Name": "Pentakill",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 77
     },
     {
       "ID": "17_TheExemplar",
@@ -465,9 +470,9 @@
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 90
     },
     {
       "ID": "19_TheVoidWolf",
@@ -547,7 +552,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -555,7 +560,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 564
+      "UsersEstimate": 566
     },
     {
       "ID": "30_The GreatestExploration",
@@ -571,15 +576,15 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "32_AviationSaviour",
       "SetID": "37a94m8",
       "Name": "Aviation Saviour",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -587,7 +592,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -858,14 +863,14 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 1281,
+      "Progressed": 1286,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-10T02:00:26.7366873+00:00",
+  "LastChanged_Achievements": "2023-12-10T02:34:13.8348302+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-10T01:50:42.3998077+00:00",
-  "LastUpdate_Achievements": "2023-12-10T02:00:26.736728+00:00"
+  "LastUpdate_Ratings": "2023-12-10T02:23:57.6909012+00:00",
+  "LastUpdate_Achievements": "2023-12-10T02:34:13.8348705+00:00"
 }

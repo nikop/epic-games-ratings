@@ -5,37 +5,37 @@ Rating: 4.50 (Ranked 595)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,432 |
-| For Saw Gerrera | 98.00% | ~9,336 |
+| Rooftop Duel | 99.00% | ~9,433 |
+| For Saw Gerrera | 98.00% | ~9,337 |
 | Grab Some Seat | 91.00% | ~8,670 |
-| Can You Pet the Bogling? | 87.00% | ~8,288 |
-| The Past Made Present | 83.00% | ~7,907 |
+| Can You Pet the Bogling? | 87.00% | ~8,289 |
+| The Past Made Present | 83.00% | ~7,908 |
 | Survivors, We Adapt | 80.00% | ~7,622 |
-| They Never Saw It Coming | 78.00% | ~7,431 |
-| Among the Masters | 78.00% | ~7,431 |
-| Who Gives a Puck | 74.00% | ~7,050 |
-| For the Path | 67.00% | ~6,383 |
+| They Never Saw It Coming | 78.00% | ~7,432 |
+| Among the Masters | 78.00% | ~7,432 |
+| Who Gives a Puck | 74.00% | ~7,051 |
+| For the Path | 67.00% | ~6,384 |
 | Now, This Isn't Podracing | 65.00% | ~6,193 |
-| Mirror Match | 64.00% | ~6,097 |
-| Skywalker | 63.00% | ~6,002 |
+| Mirror Match | 64.00% | ~6,098 |
+| Skywalker | 63.00% | ~6,003 |
 | Out of Bedlam | 62.00% | ~5,907 |
 | Cleaning Up | 55.00% | ~5,240 |
 | Tanalorr Bound | 55.00% | ~5,240 |
-| Kitted Out | 53.00% | ~5,049 |
-| Tragedy | 52.00% | ~4,954 |
+| Kitted Out | 53.00% | ~5,050 |
+| Tragedy | 52.00% | ~4,955 |
 | At the Precipice | 51.00% | ~4,859 |
 | Hey, Luke At Us | 50.00% | ~4,764 |
-| Into the Abyss | 49.00% | ~4,668 |
+| Into the Abyss | 49.00% | ~4,669 |
 | A Place You Could Call Home | 47.00% | ~4,478 |
 | Riposte | 47.00% | ~4,478 |
-| Greezy Money | 45.00% | ~4,287 |
+| Greezy Money | 45.00% | ~4,288 |
 | Catch! | 41.00% | ~3,906 |
 | They're Probably Fine | 40.00% | ~3,811 |
 | Han Slowlo | 39.00% | ~3,716 |
-| There Is No Try | 38.00% | ~3,620 |
+| There Is No Try | 38.00% | ~3,621 |
 | The Jedi Path | 33.00% | ~3,144 |
 | This Is Canon | 29.00% | ~2,763 |
-| It's a Trap | 27.00% | ~2,572 |
+| It's a Trap | 27.00% | ~2,573 |
 | You've Got A Friend | 23.00% | ~2,191 |
 | King of the World | 17.00% | ~1,620 |
 | Max Capacity | 15.00% | ~1,429 |
@@ -45,7 +45,7 @@ Rating: 4.50 (Ranked 595)
 | Star Tours | 11.00% | ~1,048 |
 | Caij Match | 10.00% | ~953 |
 | Gambler | 10.00% | ~953 |
-| Growth Spurt | 9.00% | ~857 |
+| Growth Spurt | 9.00% | ~858 |
 | I'm a Living Legend | 7.00% | ~667 |
 | Perk of the Job | 7.00% | ~667 |
 | Skoova Diving | 7.00% | ~667 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 595)
 | Blood, Sweat, and Tears | 3.00% | ~286 |
 | Pinpoint | 2.00% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,527 (Ranked 169)  
+Progressed: 9,528 (Ranked 169)  
 Completed: 57 (0.60%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 57 (0.60%) (Ranked 193)
 | 2023-12-07 | 9,386 | 56 |
 | 2023-12-08 | 9,450 | 56 |
 | 2023-12-09 | 9,519 | 57 |
-| 2023-12-10 | 9,527 | 57 |
+| 2023-12-10 | 9,528 | 57 |
 ## Awards
 Max (Great Boss Battles): 3,433  (Ranked 92)  
 Sum: 5,345 (Ranked 136)  
