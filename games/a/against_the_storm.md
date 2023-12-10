@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 4.00% | ~714 |
-| Abandoned Settlement | 3.00% | ~536 |
+| Abandoned Settlement | 4.00% | ~715 |
+| Overgrown Library | 4.00% | ~715 |
 | Petrified Necropolis | 3.00% | ~536 |
 | Gathering Storm | 3.00% | ~536 |
 | Frosts | 2.00% | ~357 |
@@ -19,29 +19,29 @@ Number of Ratings: 1,845  (23.09.2022)
 | No Deaths | 1.00% | ~179 |
 | First Real Expedition | 0.90% | ~161 |
 | Overcoming Difficulty | 0.90% | ~161 |
+| Coral Forest | 0.90% | ~161 |
 | The Scarlet Orchard | 0.90% | ~161 |
-| Coral Forest | 0.80% | ~143 |
 | Fertile Meadows | 0.70% | ~125 |
 | Royal Outpost | 0.70% | ~125 |
+| Watchtower | 0.70% | ~125 |
 | Lost Colonies | 0.60% | ~107 |
-| Watchtower | 0.60% | ~107 |
 | Homesick | 0.50% | ~89 |
 | Bandit Camp | 0.50% | ~89 |
 | Monastery of the Holy Flame | 0.50% | ~89 |
+| Corrosive Torrent | 0.50% | ~89 |
 | A Real Challenge | 0.50% | ~89 |
 | Ruined Armory | 0.40% | ~71 |
 | Barren Lands | 0.40% | ~71 |
+| Ancient Battleground | 0.40% | ~71 |
 | Levitating Monument | 0.40% | ~71 |
-| Corrosive Torrent | 0.40% | ~71 |
+| Statue of the Forefathers | 0.40% | ~71 |
 | Cursed Lands | 0.40% | ~71 |
 | Trade Baron | 0.40% | ~71 |
 | Serving Ale | 0.30% | ~54 |
 | Against All Odds | 0.30% | ~54 |
-| Ancient Battleground | 0.30% | ~54 |
 | Sparkdew Crystals | 0.30% | ~54 |
 | Haunted Forest | 0.30% | ~54 |
 | Flooded Mines | 0.30% | ~54 |
-| Statue of the Forefathers | 0.30% | ~54 |
 | Defying the Crown | 0.30% | ~54 |
 | Fox Utopia | 0.30% | ~54 |
 | Efficient Explorer | 0.20% | ~36 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,859 (Ranked 147)  
+Progressed: 17,867 (Ranked 147)  
 Completed: 42 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,10 +300,10 @@ Completed: 42 (0.24%) (Ranked 251)
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
-| 2023-12-10 | 17,859 | 43 |
+| 2023-12-10 | 17,867 | 43 |
 ## Awards
-Max (Quickly Understood Controls): 442  (Ranked 223)  
-Sum: 3,250 (Ranked 174)  
+Max (Quickly Understood Controls): 442  (Ranked 224)  
+Sum: 3,250 (Ranked 175)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |

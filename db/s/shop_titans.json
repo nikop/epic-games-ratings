@@ -7403,10 +7403,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27680,
       "NumberOfAwardsMax": 4871
+    },
+    {
+      "Time": "2023-12-10T16:03:00.3984426+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27681,
+      "NumberOfAwardsMax": 4871
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27680,
+  "NumberOfAwards": 27681,
   "NumberOfAwardsMax": 4871,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7444,7 +7450,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4056
+      "Count": 4057
     },
     {
       "Text": "This game has Playful Visuals",
@@ -7459,9 +7465,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144613,
+  "EOS_Progressed": 144621,
   "EOS_Completed": 293,
-  "EOS_NewPlayers": 974,
+  "EOS_NewPlayers": 963,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -31834,6 +31840,11 @@
       "Time": "2023-12-10T15:05:34.3749242+00:00",
       "NumProgressed": 144613,
       "NumCompleted": 293
+    },
+    {
+      "Time": "2023-12-10T16:05:50.2487125+00:00",
+      "NumProgressed": 144621,
+      "NumCompleted": 293
     }
   ],
   "TotalAchievements": 112,
@@ -31845,7 +31856,7 @@
       "Name": "The Daily Grind",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "advlevel02",
@@ -31981,7 +31992,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "boss02",
@@ -32085,7 +32096,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "commonres03",
@@ -32117,7 +32128,7 @@
       "Name": "Flooding the Market",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "craft03",
@@ -32149,7 +32160,7 @@
       "Name": "Where it Hurts",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "damage02",
@@ -32333,7 +32344,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "gold04",
@@ -32397,7 +32408,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "jackslot02",
@@ -32469,7 +32480,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "loot02",
@@ -32501,7 +32512,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "master02",
@@ -32651,9 +32662,9 @@
       "ID": "transmuter",
       "SetID": "anfd17p",
       "Name": "Master Recycler",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1446
+      "UsersEstimate": 2892
     },
     {
       "ID": "tutorial",
@@ -32740,15 +32751,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144613,
+      "Progressed": 144621,
       "Completed": 293
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-09T21:03:37.7526468+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:05:34.3749238+00:00",
+  "LastChanged": "2023-12-10T16:03:00.3984424+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:05:50.2487122+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:03:07.0397057+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:05:34.3751141+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:03:00.398443+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:05:50.2489065+00:00"
 }

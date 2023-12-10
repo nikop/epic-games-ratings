@@ -6,16 +6,16 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~73,752 |
-| Powergamer | 27.00% | ~68,665 |
-| Write that down | 25.00% | ~63,579 |
-| Barely scratched the surface | 25.00% | ~63,579 |
+| I will finish what you started | 29.00% | ~73,753 |
+| Powergamer | 27.00% | ~68,666 |
+| Write that down | 25.00% | ~63,580 |
+| Barely scratched the surface | 25.00% | ~63,580 |
 | Guns, lots of guns | 13.00% | ~33,061 |
 | Collector | 12.00% | ~30,518 |
-| Elementary! | 9.00% | ~22,888 |
-| Griever | 8.00% | ~20,345 |
-| Pumpkin Jack | 8.00% | ~20,345 |
-| Wake up! | 8.00% | ~20,345 |
+| Elementary! | 9.00% | ~22,889 |
+| Griever | 8.00% | ~20,346 |
+| Pumpkin Jack | 8.00% | ~20,346 |
+| Wake up! | 8.00% | ~20,346 |
 | It's honest work | 7.00% | ~17,802 |
 | Me smart | 6.00% | ~15,259 |
 | Trash compactor | 6.00% | ~15,259 |
@@ -24,9 +24,9 @@ Number of Ratings: 33  (23.09.2022)
 | BOY! | 4.00% | ~10,173 |
 | Ka-ching! | 4.00% | ~10,173 |
 | So you like to read? | 4.00% | ~10,173 |
-| Hoarder | 3.00% | ~7,629 |
-| I like to sniff around | 3.00% | ~7,629 |
-| Mind reader | 3.00% | ~7,629 |
+| Hoarder | 3.00% | ~7,630 |
+| I like to sniff around | 3.00% | ~7,630 |
+| Mind reader | 3.00% | ~7,630 |
 | Catnip | 2.00% | ~5,086 |
 | Gentleman's classic | 2.00% | ~5,086 |
 | Is that a rift? | 2.00% | ~5,086 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~509 |
 | Memory 5 | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,316 (Ranked 60)  
+Progressed: 254,319 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-07 | 254,064 | 7 |
 | 2023-12-08 | 254,148 | 7 |
 | 2023-12-09 | 254,249 | 7 |
-| 2023-12-10 | 254,316 | 7 |
+| 2023-12-10 | 254,319 | 7 |
 ## Awards
 Max (Character Customization): 92  (Ranked 380)  
 Sum: 92 (Ranked 458)  

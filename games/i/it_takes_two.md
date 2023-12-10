@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~23,832 |
-| Fried Friendship | 87.00% | ~23,561 |
-| Look At Him Go | 79.00% | ~21,395 |
-| On Rails Experience | 58.00% | ~15,708 |
-| A Daring Devil | 53.00% | ~14,353 |
-| It Took Two | 45.00% | ~12,187 |
-| Break the Bank | 43.00% | ~11,645 |
-| Bug Sized Relaxation | 22.00% | ~5,958 |
-| Plastic Prison Breakers | 18.00% | ~4,875 |
-| Terror Of The Seven Seas | 16.00% | ~4,333 |
-| Meditation Maestro | 13.00% | ~3,521 |
-| Realize Your Art | 12.00% | ~3,250 |
-| Force Triangulated | 12.00% | ~3,250 |
-| Lost And Found | 11.00% | ~2,979 |
-| Something Fishy | 11.00% | ~2,979 |
-| Platforming Prodigy | 9.00% | ~2,437 |
+| Struck A Pose | 88.00% | ~23,838 |
+| Fried Friendship | 87.00% | ~23,567 |
+| Look At Him Go | 79.00% | ~21,400 |
+| On Rails Experience | 58.00% | ~15,712 |
+| A Daring Devil | 53.00% | ~14,357 |
+| It Took Two | 45.00% | ~12,190 |
+| Break the Bank | 43.00% | ~11,648 |
+| Bug Sized Relaxation | 22.00% | ~5,960 |
+| Plastic Prison Breakers | 18.00% | ~4,876 |
+| Terror Of The Seven Seas | 16.00% | ~4,334 |
+| Meditation Maestro | 13.00% | ~3,522 |
+| Realize Your Art | 12.00% | ~3,251 |
+| Force Triangulated | 12.00% | ~3,251 |
+| Lost And Found | 11.00% | ~2,980 |
+| Something Fishy | 11.00% | ~2,980 |
+| Platforming Prodigy | 9.00% | ~2,438 |
 | Snackosaurus | 8.00% | ~2,167 |
 | Mood Swing | 7.00% | ~1,896 |
-| Minigame Megalomania | 4.00% | ~1,083 |
-| Faraway Frequencies | 4.00% | ~1,083 |
+| Minigame Megalomania | 4.00% | ~1,084 |
+| Faraway Frequencies | 4.00% | ~1,084 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,082 (Ranked 130)  
+Progressed: 27,089 (Ranked 130)  
 Completed: 117 (0.43%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,4 +111,4 @@ Completed: 117 (0.43%) (Ranked 219)
 | 2023-12-07 | 26,415 | 113 |
 | 2023-12-08 | 26,617 | 113 |
 | 2023-12-09 | 26,893 | 117 |
-| 2023-12-10 | 27,082 | 117 |
+| 2023-12-10 | 27,089 | 117 |

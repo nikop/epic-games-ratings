@@ -2,7 +2,7 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 214,
+  "Ranking_Rating": 213,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 177,
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7920,
+  "EOS_Progressed": 7923,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8881,6 +8881,11 @@
       "Time": "2023-12-10T15:04:23.3513885+00:00",
       "NumProgressed": 7920,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-10T16:04:34.1319085+00:00",
+      "NumProgressed": 7923,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8916,7 +8921,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -8932,7 +8937,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ENERGY_SAVER",
@@ -8940,7 +8945,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -8964,7 +8969,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -8996,7 +9001,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "LIBERATOR",
@@ -9059,7 +9064,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7920,
+      "Progressed": 7923,
       "Completed": 34
     }
   ],
@@ -9067,8 +9072,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:04:23.351388+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:04:34.1319081+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:00:17.6303966+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:04:23.3514823+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:00:37.450176+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:04:34.1319474+00:00"
 }

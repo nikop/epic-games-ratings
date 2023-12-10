@@ -4553,9 +4553,9 @@
       "ID": "achievement_1",
       "SetID": "b9pe172",
       "Name": "Medal of Honor",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 125,
-      "UsersEstimate": 810
+      "UsersEstimate": 825
     },
     {
       "ID": "achievement_10",
@@ -4793,9 +4793,9 @@
       "ID": "achievement_126",
       "SetID": "d252ncf",
       "Name": "Veteran",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 592
+      "UsersEstimate": 607
     },
     {
       "ID": "achievement_127",
@@ -4865,9 +4865,9 @@
       "ID": "achievement_2",
       "SetID": "b9pe172",
       "Name": "Medal of Heroism",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 934
+      "UsersEstimate": 950
     },
     {
       "ID": "achievement_20",
@@ -5209,9 +5209,9 @@
       "ID": "achievement_59",
       "SetID": "d252ncf",
       "Name": "The Prodigal",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 514
     },
     {
       "ID": "achievement_6",
@@ -5561,9 +5561,9 @@
       "ID": "achievement_99",
       "SetID": "d252ncf",
       "Name": "Lost and Found",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 374
+      "UsersEstimate": 389
     }
   ],
   "AchievementSets": [
@@ -5581,8 +5581,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:09:37.2116751+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:09:24.8102696+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.2992366+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:03:11.3536363+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:09:37.2118241+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:03:05.0690042+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:09:24.8104212+00:00"
 }

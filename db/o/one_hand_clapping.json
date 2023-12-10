@@ -4,7 +4,7 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -701,9 +701,9 @@
       "ID": "3",
       "SetID": "7l2nmpm",
       "Name": "Maestro Mountain",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "4",
@@ -766,8 +766,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:04:26.4647859+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:04:37.4668531+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:11.8896902+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:59:08.7644291+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:04:26.4648101+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:59:20.8182083+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:04:37.4668712+00:00"
 }

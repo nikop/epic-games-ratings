@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
@@ -511,9 +511,9 @@
       "Count": 138
     }
   ],
-  "EOS_Progressed": 613415,
+  "EOS_Progressed": 613417,
   "EOS_Completed": 554,
-  "EOS_NewPlayers": 763,
+  "EOS_NewPlayers": 754,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -26831,6 +26831,11 @@
       "Time": "2023-12-10T15:08:32.9180447+00:00",
       "NumProgressed": 613415,
       "NumCompleted": 554
+    },
+    {
+      "Time": "2023-12-10T16:08:05.5533382+00:00",
+      "NumProgressed": 613417,
+      "NumCompleted": 554
     }
   ],
   "TotalAchievements": 28,
@@ -26906,7 +26911,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 374183
+      "UsersEstimate": 374184
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -26954,7 +26959,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 294439
+      "UsersEstimate": 294440
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -26970,7 +26975,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 570476
+      "UsersEstimate": 570478
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -26986,7 +26991,7 @@
       "Name": "Data scientist",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 18402
+      "UsersEstimate": 18403
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -27002,7 +27007,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 404854
+      "UsersEstimate": 404855
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -27018,7 +27023,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 325110
+      "UsersEstimate": 325111
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -27034,7 +27039,7 @@
       "Name": "One small step for a man...",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 18402
+      "UsersEstimate": 18403
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -27065,15 +27070,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 613415,
+      "Progressed": 613417,
       "Completed": 554
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-11-16T16:58:16.9123223+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:08:32.9180443+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:08:05.5533379+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:44.8137954+00:00",
   "LastUpdate_Ratings": "2023-12-10T15:00:36.4286396+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:08:32.9181919+00:00"
+  "LastUpdate_Achievements": "2023-12-10T16:08:05.5534469+00:00"
 }

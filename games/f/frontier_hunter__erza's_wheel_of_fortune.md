@@ -8,14 +8,14 @@
 | Training Simulation | 78.00% | ~458 |
 | Kuku Bird Hunter | 64.00% | ~376 |
 | Storm Traveller | 58.00% | ~340 |
-| Wolf King Killer | 53.00% | ~311 |
+| Wolf King Killer | 54.00% | ~317 |
 | Fashion Connoisseur | 52.00% | ~305 |
 | Arms Mechanic | 48.00% | ~282 |
-| Flower Thief | 42.00% | ~247 |
+| Flower Thief | 43.00% | ~252 |
 | Beginner Artificer | 37.00% | ~217 |
 | Apostle of Flame | 37.00% | ~217 |
-| Beginner Cook | 35.00% | ~205 |
-| Seal Breaker | 30.00% | ~176 |
+| Beginner Cook | 36.00% | ~211 |
+| Seal Breaker | 31.00% | ~182 |
 | Handyman | 27.00% | ~158 |
 | Giant Lizard Killer | 26.00% | ~153 |
 | Guardian | 25.00% | ~147 |

@@ -990,7 +990,7 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229054,
+  "EOS_Progressed": 229057,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 0,
@@ -26585,6 +26585,11 @@
       "Time": "2023-12-10T15:09:52.8829239+00:00",
       "NumProgressed": 229054,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-10T16:09:42.1301836+00:00",
+      "NumProgressed": 229057,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -26604,7 +26609,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59554
+      "UsersEstimate": 59555
     },
     {
       "ID": "ACH_BASE_11",
@@ -26644,7 +26649,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22905
+      "UsersEstimate": 22906
     },
     {
       "ID": "ACH_BASE_17",
@@ -26660,7 +26665,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22905
+      "UsersEstimate": 22906
     },
     {
       "ID": "ACH_BASE_19",
@@ -26867,7 +26872,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229054,
+      "Progressed": 229057,
       "Completed": 5
     }
   ],
@@ -26875,8 +26880,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-09T22:00:42.4257161+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:09:52.8829237+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:09:42.1301833+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.549712+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:59:45.0255209+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:09:52.8830517+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:00:01.104696+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:09:42.1302961+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "2755e0338895421ebeb217fe1f742e7b",
   "Name": "Nocturnal",
   "ProductSlug": "nocturnal-ef3fa0",
-  "Ranking_EOS_Progress": 539,
-  "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_Progress": 538,
+  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 33,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.12,
+  "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
     {
       "Time": "2023-06-12T20:01:31.4959965+00:00",
@@ -194,6 +194,11 @@
       "Time": "2023-11-23T18:09:24.7670274+00:00",
       "NumProgressed": 32,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T16:09:41.2991602+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 11,
@@ -203,7 +208,7 @@
       "ID": "Nocturnal_Achivement_10_Brun",
       "SetID": "329ifed",
       "Name": "Mr. Brightside",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 150,
       "UsersEstimate": 11
     },
@@ -219,7 +224,7 @@
       "ID": "Nocturnal_Achivement_1_Flame",
       "SetID": "329ifed",
       "Name": "Form Blazing Sword",
-      "Percentage": 91,
+      "Percentage": 88,
       "XP": 25,
       "UsersEstimate": 29
     },
@@ -227,7 +232,7 @@
       "ID": "Nocturnal_Achivement_2_Shrine",
       "SetID": "329ifed",
       "Name": "A Light in Dark Places",
-      "Percentage": 66,
+      "Percentage": 64,
       "XP": 25,
       "UsersEstimate": 21
     },
@@ -235,7 +240,7 @@
       "ID": "Nocturnal_Achivement_3_Azita",
       "SetID": "329ifed",
       "Name": "Unfortunate Enemies",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 75,
       "UsersEstimate": 5
     },
@@ -243,7 +248,7 @@
       "ID": "Nocturnal_Achivement_4_Avatar",
       "SetID": "329ifed",
       "Name": "Avatar Ascendant",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -251,7 +256,7 @@
       "ID": "Nocturnal_Achivement_5_Berserker",
       "SetID": "329ifed",
       "Name": "Stand Your Ground",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 75,
       "UsersEstimate": 5
     },
@@ -259,7 +264,7 @@
       "ID": "Nocturnal_Achivement_6_Arsia",
       "SetID": "329ifed",
       "Name": "Baleful Shadow",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -267,7 +272,7 @@
       "ID": "Nocturnal_Achivement_7_Letter",
       "SetID": "329ifed",
       "Name": "Words Unspoken",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -275,7 +280,7 @@
       "ID": "Nocturnal_Achivement_8_End",
       "SetID": "329ifed",
       "Name": "A Grim Farewell",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 200,
       "UsersEstimate": 5
     },
@@ -283,7 +288,7 @@
       "ID": "Nocturnal_Achivement_9_Torches",
       "SetID": "329ifed",
       "Name": "The Torchbearer",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 150,
       "UsersEstimate": 19
     }
@@ -292,14 +297,14 @@
     {
       "ID": "329ifed",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 33,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:09:52.0663668+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:09:41.2991598+00:00",
   "LastUpdate_AppInfo": "2023-12-05T04:57:01.885659+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:58:16.4671148+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:09:52.0663768+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:58:22.6954952+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:09:41.2991672+00:00"
 }

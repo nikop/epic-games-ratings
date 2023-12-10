@@ -15,8 +15,8 @@
 | Bad Elves Go Everywhere | 69.00% | ~374 |
 | Heroes’ Gorge | 65.00% | ~352 |
 | Master of Magic | 64.00% | ~347 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~336 |
-| Magic Accidents | 59.00% | ~320 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~341 |
+| Magic Accidents | 60.00% | ~325 |
 | The Ascent | 58.00% | ~314 |
 | It's Warm and Cozy at Home | 58.00% | ~314 |
 | Trap Master | 55.00% | ~298 |
@@ -59,8 +59,8 @@
 | Evilification | 14.00% | ~76 |
 | Mirror, Mirror | 13.00% | ~70 |
 | Untouchable | 13.00% | ~70 |
+| Heal Heal Blessing | 12.00% | ~65 |
 | Laser Eyes Are So Useless | 11.00% | ~60 |
-| Heal Heal Blessing | 11.00% | ~60 |
 | Hands Off My Stones | 11.00% | ~60 |
 | Gorgu is in the Best of Health | 9.00% | ~49 |
 | No Mana, No Cry | 8.00% | ~43 |

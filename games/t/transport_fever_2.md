@@ -20,8 +20,8 @@ Number of Ratings: 180  (23.09.2022)
 | Cadet | 54.00% | ~1,038 |
 | Transport master | 52.00% | ~1,000 |
 | Cargo hub | 52.00% | ~1,000 |
+| Sculpturer | 50.00% | ~962 |
 | Settled down | 49.00% | ~942 |
-| Sculpturer | 49.00% | ~942 |
 | First electric train arrived | 47.00% | ~904 |
 | Now what? | 46.00% | ~885 |
 | First ship arrived | 45.00% | ~865 |
@@ -31,8 +31,8 @@ Number of Ratings: 180  (23.09.2022)
 | First aircraft arrived | 41.00% | ~788 |
 | Mass production | 35.00% | ~673 |
 | Aircraft entrepreneur | 33.00% | ~635 |
+| The future is now, old man | 32.00% | ~615 |
 | Crowd in a train | 31.00% | ~596 |
-| The future is now, old man | 31.00% | ~596 |
 | Not in my backyard | 30.00% | ~577 |
 | The king of the sea | 29.00% | ~558 |
 | City | 28.00% | ~538 |
@@ -48,8 +48,8 @@ Number of Ratings: 180  (23.09.2022)
 | Back to the future | 9.00% | ~173 |
 | Transport belt | 9.00% | ~173 |
 | Penny pincher | 9.00% | ~173 |
+| Campaign shark | 6.00% | ~115 |
 | E.P.E.C. | 6.00% | ~115 |
-| Campaign shark | 5.00% | ~96 |
 | Transport shark (Hard mode) | 4.00% | ~77 |
 | Antique | 4.00% | ~77 |
 | Cannot get enough | 4.00% | ~77 |

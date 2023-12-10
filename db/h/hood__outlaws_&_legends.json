@@ -4,10 +4,10 @@
   "ProductSlug": "hood-outlaws-and-legends",
   "Ranking_Rating": 1014,
   "Ranking_Popularity": 238,
-  "Ranking_PopularitySum": 182,
+  "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-05-10T15:00:00+00:00",
@@ -2720,6 +2720,6 @@
   "FirstSeen": "2022-07-22T20:17:31.7735861+00:00",
   "LastChanged": "2023-12-09T01:44:13.8991657+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:33.8995264+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:00:21.7133834+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:08:29.1028751+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:00:42.2545078+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:08:00.9185249+00:00"
 }

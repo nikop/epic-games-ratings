@@ -4,7 +4,7 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -540,9 +540,9 @@
       "ID": "WhenIsTheNextDevBlog",
       "SetID": "d11cl5p",
       "Name": "\u0022When is the next dev blog?\u0022",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "YoungSuccessfullEntrepreneur",
@@ -563,8 +563,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:04:01.4897595+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:04:10.613385+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.4460096+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:57:48.4120723+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:04:01.4897851+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:57:50.9371138+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:04:10.6134086+00:00"
 }

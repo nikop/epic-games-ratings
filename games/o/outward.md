@@ -6,12 +6,12 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,837 |
-| Ready for Winter | 65.00% | ~2,426 |
-| Ready for Summer | 53.00% | ~1,978 |
+| Venture Outward | 76.00% | ~2,838 |
+| Ready for Winter | 65.00% | ~2,427 |
+| Ready for Summer | 53.00% | ~1,979 |
 | Cordon Bleu | 45.00% | ~1,680 |
 | Tapped! | 38.00% | ~1,419 |
-| Eureka | 34.00% | ~1,269 |
+| Eureka | 34.00% | ~1,270 |
 | Scourge Slayer | 27.00% | ~1,008 |
 | Science, Troglodyte! | 24.00% | ~896 |
 | Exceptional Skill | 23.00% | ~859 |
@@ -44,12 +44,12 @@ Number of Ratings: 266  (23.09.2022)
 | The blood is life | 1.00% | ~37 |
 | They'll Tell Stories About This | 1.00% | ~37 |
 | Vanquisher of nightmares | 1.00% | ~37 |
-| Through fire and flame. | 0.80% | ~30 |
+| Through fire and flame. | 0.70% | ~26 |
 | Legacy of a master hunter | 0.40% | ~15 |
 | Master of Aurai | 0.30% | ~11 |
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,733 (Ranked 204)  
+Progressed: 3,734 (Ranked 204)  
 Completed: 4 (0.11%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,10 +270,11 @@ Completed: 4 (0.11%) (Ranked 286)
 | 2023-12-07 | 3,726 | 4 |
 | 2023-12-08 | 3,729 | 4 |
 | 2023-12-09 | 3,733 | 4 |
+| 2023-12-10 | 3,734 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 481)  
-Sum: 246 (Ranked 386)  
-Diff (max vs sum): 95  
+Sum: 246 (Ranked 387)  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

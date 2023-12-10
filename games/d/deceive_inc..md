@@ -5,20 +5,20 @@ Rating: 4.58 (Ranked 450)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,705 |
-| Mainframe Hacker | 23.00% | ~4,374 |
-| The Spy who eliminated me | 23.00% | ~4,374 |
-| Tomorrow Never Dyes | 22.00% | ~4,184 |
-| From the Vault with Love | 18.00% | ~3,423 |
-| Never Say Loser Again | 18.00% | ~3,423 |
-| Tailor-Made | 18.00% | ~3,423 |
-| For your Eyes only | 18.00% | ~3,423 |
-| Assistant Accountant | 17.00% | ~3,233 |
-| You Only Live Twice | 16.00% | ~3,043 |
-| Fully Decked Out | 16.00% | ~3,043 |
-| A view to Win | 13.00% | ~2,472 |
-| The Living Portrait | 12.00% | ~2,282 |
-| Smells Like Trouble | 12.00% | ~2,282 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,707 |
+| Mainframe Hacker | 23.00% | ~4,375 |
+| The Spy who eliminated me | 23.00% | ~4,375 |
+| Tomorrow Never Dyes | 22.00% | ~4,185 |
+| From the Vault with Love | 18.00% | ~3,424 |
+| Never Say Loser Again | 18.00% | ~3,424 |
+| Tailor-Made | 18.00% | ~3,424 |
+| For your Eyes only | 18.00% | ~3,424 |
+| Assistant Accountant | 17.00% | ~3,234 |
+| You Only Live Twice | 16.00% | ~3,044 |
+| Fully Decked Out | 16.00% | ~3,044 |
+| A view to Win | 13.00% | ~2,473 |
+| The Living Portrait | 12.00% | ~2,283 |
+| Smells Like Trouble | 12.00% | ~2,283 |
 | My Motto, My Creed | 11.00% | ~2,092 |
 | Private Collection | 11.00% | ~2,092 |
 | Killer Looks | 11.00% | ~2,092 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 450)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,017 (Ranked 145)  
+Progressed: 19,022 (Ranked 145)  
 Completed: 4 (0.02%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 4 (0.02%) (Ranked 339)
 | 2023-12-07 | 19,002 | 4 |
 | 2023-12-08 | 19,005 | 4 |
 | 2023-12-09 | 19,015 | 4 |
-| 2023-12-10 | 19,017 | 4 |
+| 2023-12-10 | 19,022 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

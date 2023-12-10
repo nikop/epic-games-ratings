@@ -3241,9 +3241,9 @@
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1063
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -3409,9 +3409,9 @@
       "ID": "GSS_ACH_43_CARAVAN_02",
       "SetID": "5fn8ia4",
       "Name": "Raising the Stakes",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 513
     },
     {
       "ID": "GSS_ACH_44_CARAVAN_03",
@@ -3738,8 +3738,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:05:31.5474839+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:05:47.051164+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:58:48.5526255+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:05:31.5475605+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:58:57.6573609+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:05:47.0512433+00:00"
 }

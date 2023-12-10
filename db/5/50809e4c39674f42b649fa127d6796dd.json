@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 446,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1127,6 +1127,11 @@
       "Time": "2023-12-10T15:05:36.6955653+00:00",
       "NumProgressed": 445,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T16:05:52.6384623+00:00",
+      "NumProgressed": 446,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1211,7 +1216,7 @@
       "Name": "Big Encounter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1219,7 +1224,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1235,7 +1240,7 @@
       "Name": "Celestial Rain",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1243,7 +1248,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1251,7 +1256,7 @@
       "Name": "Speed Demon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1267,7 +1272,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1291,7 +1296,7 @@
       "Name": "The Beginning",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1299,7 +1304,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -1331,7 +1336,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1449,23 +1454,23 @@
       "ID": "TOTAL_DESTROYED_OBJECT",
       "SetID": "apihg0e",
       "Name": "Swath of Destruction",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 134
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 446,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:05:36.6955647+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:05:52.638462+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:03:02.5115802+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:05:36.6955978+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:02:55.321591+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:05:52.6384868+00:00"
 }

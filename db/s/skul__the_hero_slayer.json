@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1211,7 +1211,7 @@
       "Count": 136
     }
   ],
-  "EOS_Progressed": 8414,
+  "EOS_Progressed": 8415,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
@@ -5981,6 +5981,11 @@
       "Time": "2023-12-10T14:08:28.360204+00:00",
       "NumProgressed": 8414,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-10T16:08:23.1884247+00:00",
+      "NumProgressed": 8415,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 24,
@@ -5992,7 +5997,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "Chatterbox",
@@ -6048,7 +6053,7 @@
       "Name": "Deadly Power",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -6088,7 +6093,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "LeoniasFall_2",
@@ -6152,7 +6157,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7825
+      "UsersEstimate": 7826
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -6168,7 +6173,7 @@
       "Name": "Master of Speed",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "WhattoBuy",
@@ -6176,22 +6181,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7068
+      "UsersEstimate": 7069
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8414,
+      "Progressed": 8415,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-10T13:02:49.5439507+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:08:49.3139221+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:08:23.1884242+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:02.7118419+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:59:33.8239145+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:08:49.313962+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:59:48.9791233+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:08:23.1884619+00:00"
 }

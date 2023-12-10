@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -179,10 +179,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65606,
-  "EOS_Completed": 65,
-  "EOS_NewPlayers": 2961,
-  "EOS_NewCompleters": 12,
+  "EOS_Progressed": 65627,
+  "EOS_Completed": 67,
+  "EOS_NewPlayers": 2938,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -3044,6 +3044,11 @@
       "Time": "2023-12-10T15:06:23.1886839+00:00",
       "NumProgressed": 65606,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-10T16:06:44.156867+00:00",
+      "NumProgressed": 65627,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -3056,7 +3061,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24274
+      "UsersEstimate": 24282
     },
     {
       "ID": "Achievement_10",
@@ -3064,7 +3069,7 @@
       "Name": "Inside Ma\u00E1to\u0027s Mind",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "Achievement_11",
@@ -3088,7 +3093,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "Achievement_14",
@@ -3096,7 +3101,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "Achievement_15",
@@ -3112,7 +3117,7 @@
       "Name": "Diligent Hogbunny",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "Achievement_17",
@@ -3136,7 +3141,7 @@
       "Name": "Fearless in Karba",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "Achievement_2",
@@ -3144,7 +3149,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17714
+      "UsersEstimate": 17719
     },
     {
       "ID": "Achievement_20",
@@ -3160,7 +3165,7 @@
       "Name": "Heroic Hoarder",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "Achievement_22",
@@ -3168,7 +3173,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "Achievement_23",
@@ -3184,15 +3189,15 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "Achievement_25",
       "SetID": "2md12pi",
       "Name": "Konkylian Custodian",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 328
     },
     {
       "ID": "Achievement_26",
@@ -3200,7 +3205,7 @@
       "Name": "Fruits of Labour",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "Achievement_27",
@@ -3232,7 +3237,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7873
+      "UsersEstimate": 7875
     },
     {
       "ID": "Achievement_30",
@@ -3272,7 +3277,7 @@
       "Name": "Warden",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "Achievement_4",
@@ -3280,7 +3285,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5248
+      "UsersEstimate": 5250
     },
     {
       "ID": "Achievement_5",
@@ -3288,7 +3293,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3936
+      "UsersEstimate": 3938
     },
     {
       "ID": "Achievement_6",
@@ -3296,7 +3301,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "Achievement_7",
@@ -3304,7 +3309,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "Achievement_8",
@@ -3312,7 +3317,7 @@
       "Name": "House In Order",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "Achievement_9",
@@ -3327,16 +3332,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 65606,
-      "Completed": 65
+      "Progressed": 65627,
+      "Completed": 67
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-10T04:02:59.357636+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:06:23.1886834+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:06:44.1568666+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-10T15:03:00.5105263+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:06:23.1887172+00:00"
+  "LastUpdate_Ratings": "2023-12-10T16:02:53.1955179+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:06:44.1568944+00:00"
 }

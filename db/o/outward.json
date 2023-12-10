@@ -4,10 +4,10 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 496,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 386,
+  "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -535,9 +535,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3733,
+  "EOS_Progressed": 3734,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5890,6 +5890,11 @@
       "Time": "2023-12-09T23:05:17.0868359+00:00",
       "NumProgressed": 3733,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-10T16:04:43.4876613+00:00",
+      "NumProgressed": 3734,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5965,7 +5970,7 @@
       "Name": "Eureka",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -6085,7 +6090,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6093,7 +6098,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2426
+      "UsersEstimate": 2427
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6203,9 +6208,9 @@
       "ID": "ThroughFireAndFlame",
       "SetID": "c4hee28",
       "Name": "Through fire and flame.",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 26
     },
     {
       "ID": "VanquisherOfNightmares_52",
@@ -6221,7 +6226,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6236,15 +6241,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3733,
+      "Progressed": 3734,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:04:31.9936641+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:04:43.4876608+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.9668311+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:59:04.4825232+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:04:31.9937241+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:59:16.1817102+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:04:43.4877163+00:00"
 }

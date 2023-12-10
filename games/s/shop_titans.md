@@ -19,15 +19,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 4.00% | ~5,785 |
 | Budding Merchant | 4.00% | ~5,785 |
 | Own the Means of Production | 4.00% | ~5,785 |
-| The Daily Grind | 3.00% | ~4,338 |
-| Bounty Hunters | 3.00% | ~4,338 |
-| Demand for Supplies | 3.00% | ~4,338 |
-| Flooding the Market | 3.00% | ~4,338 |
-| Where it Hurts | 3.00% | ~4,338 |
-| Gild-Gotten Goods | 3.00% | ~4,338 |
-| One-Armed Bandit | 3.00% | ~4,338 |
-| Dungeon Imports | 3.00% | ~4,338 |
-| Through Repetition, Perfection | 3.00% | ~4,338 |
+| The Daily Grind | 3.00% | ~4,339 |
+| Bounty Hunters | 3.00% | ~4,339 |
+| Demand for Supplies | 3.00% | ~4,339 |
+| Flooding the Market | 3.00% | ~4,339 |
+| Where it Hurts | 3.00% | ~4,339 |
+| Gild-Gotten Goods | 3.00% | ~4,339 |
+| One-Armed Bandit | 3.00% | ~4,339 |
+| Dungeon Imports | 3.00% | ~4,339 |
+| Through Repetition, Perfection | 3.00% | ~4,339 |
 | On the Path to Greatness | 2.00% | ~2,892 |
 | A Notch Above the Rest | 2.00% | ~2,892 |
 | Cream of the Crop | 2.00% | ~2,892 |
@@ -71,6 +71,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Attrition Mission | 2.00% | ~2,892 |
 | Glittering Collection | 2.00% | ~2,892 |
 | Black Friday Special | 2.00% | ~2,892 |
+| Master Recycler | 2.00% | ~2,892 |
 | Magical Harmony | 2.00% | ~2,892 |
 | Special Ingredient | 2.00% | ~2,892 |
 | Exotic Commodities | 2.00% | ~2,892 |
@@ -100,7 +101,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Treasure Trove | 1.00% | ~1,446 |
 | Moment of Respite | 1.00% | ~1,446 |
 | King's Shadow | 1.00% | ~1,446 |
-| Master Recycler | 1.00% | ~1,446 |
 | All Accounted For | 1.00% | ~1,446 |
 | Economy of Scarce | 1.00% | ~1,446 |
 | King's Blade | 1.00% | ~1,446 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~434 |
 | Capitalist Camaraderie | 0.20% | ~289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,613 (Ranked 80)  
+Progressed: 144,621 (Ranked 80)  
 Completed: 293 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,15 +353,15 @@ Completed: 293 (0.20%) (Ranked 258)
 | 2023-12-07 | 144,162 | 291 |
 | 2023-12-08 | 144,354 | 291 |
 | 2023-12-09 | 144,503 | 291 |
-| 2023-12-10 | 144,613 | 293 |
+| 2023-12-10 | 144,621 | 293 |
 ## Awards
 Max (Great for Beginners): 4,871  (Ranked 75)  
-Sum: 27,680 (Ranked 50)  
+Sum: 27,681 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,871 |
-| This game is Relaxing | 4,056 |
+| This game is Relaxing | 4,057 |
 | This game has Quickly Understood Controls | 4,040 |
 | This game has Diverse Characters | 3,965 |
 | This game is Highly Recommended | 3,792 |
@@ -684,3 +684,4 @@ Diff (max vs sum): 25
 | 2023-12-07 | 3.99 | - | 4,870 | 27,674 |
 | 2023-12-08 | 3.99 | - | 4,870 | 27,678 |
 | 2023-12-09 | 3.99 | - | 4,871 | 27,680 |
+| 2023-12-10 | 3.99 | - | 4,871 | 27,681 |

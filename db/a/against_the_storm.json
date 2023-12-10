@@ -3,12 +3,12 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 67,
-  "Ranking_Popularity": 223,
-  "Ranking_PopularitySum": 174,
+  "Ranking_Popularity": 224,
+  "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 3696,
+  "Ranking_EOS_NewCompleters": 3697,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3401,9 +3401,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 17859,
+  "EOS_Progressed": 17867,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": -7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -15256,6 +15256,11 @@
       "Time": "2023-12-10T15:05:20.1509564+00:00",
       "NumProgressed": 17859,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-10T16:05:34.793647+00:00",
+      "NumProgressed": 17867,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15402,9 +15407,9 @@
       "ID": "WinNearBattleground",
       "SetID": "cfbk359",
       "Name": "Ancient Battleground",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 71
     },
     {
       "ID": "WinNearCrystals",
@@ -15498,9 +15503,9 @@
       "ID": "WinNearStatue",
       "SetID": "cfbk359",
       "Name": "Statue of the Forefathers",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 71
     },
     {
       "ID": "WinNearTemple",
@@ -15514,25 +15519,25 @@
       "ID": "WinNearTorrent",
       "SetID": "cfbk359",
       "Name": "Corrosive Torrent",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 89
     },
     {
       "ID": "WinNearWatchtower",
       "SetID": "cfbk359",
       "Name": "Watchtower",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 125
     },
     {
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 161
     },
     {
       "ID": "WinOnCursed",
@@ -15666,9 +15671,9 @@
       "ID": "WinNearAbandoned",
       "SetID": "cfbk359",
       "Name": "Abandoned Settlement",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 715
     },
     {
       "ID": "WinNearFrosts",
@@ -15692,7 +15697,7 @@
       "Name": "Overgrown Library",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "WinNearPetrified",
@@ -15739,15 +15744,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17859,
+      "Progressed": 17867,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-10T04:57:34.5838562+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:05:20.1509561+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:05:34.7936468+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:57:52.8544631+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:05:20.151102+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:57:55.7102692+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:05:34.7938132+00:00"
 }

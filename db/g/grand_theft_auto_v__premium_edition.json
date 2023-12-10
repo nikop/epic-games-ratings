@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
@@ -10145,10 +10145,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1859446,
       "NumberOfAwardsMax": 272412
+    },
+    {
+      "Time": "2023-12-10T15:58:54.892221+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1861164,
+      "NumberOfAwardsMax": 272412
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1859446,
+  "NumberOfAwards": 1861164,
   "NumberOfAwardsMax": 272412,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10162,7 +10168,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 220395
+      "Count": 220983
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10180,7 +10186,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 220848
+      "Count": 221402
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10192,7 +10198,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 227440
+      "Count": 228016
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10224,8 +10230,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-12-10T14:58:46.07093+00:00",
+  "LastChanged": "2023-12-10T15:58:54.8922209+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.2543807+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:58:46.0709305+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:06:29.5060468+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:58:54.8922215+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:06:50.9036432+00:00"
 }

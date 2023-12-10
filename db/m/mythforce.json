@@ -818,9 +818,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5434,
+  "EOS_Progressed": 5435,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -10828,6 +10828,11 @@
       "Time": "2023-12-10T13:06:29.1800065+00:00",
       "NumProgressed": 5434,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-10T16:03:33.2482227+00:00",
+      "NumProgressed": 5435,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10840,7 +10845,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -10928,7 +10933,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -10952,7 +10957,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -10992,7 +10997,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -11023,15 +11028,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5434,
+      "Progressed": 5435,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-06T15:59:42.180054+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:03:26.2820523+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:03:33.2482223+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:57:51.2901464+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:03:26.2821266+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:57:53.9924279+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:03:33.2482881+00:00"
 }

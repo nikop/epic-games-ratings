@@ -1528,9 +1528,9 @@
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 325
     },
     {
       "ID": "ach_main04undead_completed",
@@ -1576,9 +1576,9 @@
       "ID": "ach_main05evil_unicorn",
       "SetID": "4hg22ll",
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 341
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -1912,9 +1912,9 @@
       "ID": "ach_main19war_heal",
       "SetID": "4hg22ll",
       "Name": "Heal Heal Blessing",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_main19war_stonedamage",
@@ -1959,8 +1959,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:03:40.3313565+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:03:48.3237248+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:58:41.0935598+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:03:40.3314178+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:58:48.899946+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:03:48.3237764+00:00"
 }

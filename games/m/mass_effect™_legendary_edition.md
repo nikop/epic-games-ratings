@@ -10,12 +10,12 @@
 | Recruit | 68.00% | ~1,059 |
 | Search and Rescue | 68.00% | ~1,059 |
 | Quarian Ally | 64.00% | ~996 |
-| Medal of Heroism | 60.00% | ~934 |
+| Medal of Heroism | 61.00% | ~950 |
 | Honorarium of Corporate Service | 60.00% | ~934 |
 | Council Legion of Merit | 55.00% | ~856 |
 | Medal of Exploration II | 54.00% | ~841 |
+| Medal of Honor | 53.00% | ~825 |
 | Turian Ally | 53.00% | ~825 |
-| Medal of Honor | 52.00% | ~810 |
 | Meritorious Service Medal | 52.00% | ~810 |
 | Soldier | 51.00% | ~794 |
 | Charismatic | 51.00% | ~794 |
@@ -33,9 +33,9 @@
 | Sentinel Ally | 41.00% | ~638 |
 | Head Hunter | 40.00% | ~623 |
 | Scholar | 40.00% | ~623 |
+| Veteran | 39.00% | ~607 |
 | The Professor | 39.00% | ~607 |
 | Operative | 39.00% | ~607 |
-| Veteran | 38.00% | ~592 |
 | The Archangel | 38.00% | ~592 |
 | Power Full | 37.00% | ~576 |
 | The Convict | 36.00% | ~561 |
@@ -45,6 +45,7 @@
 | A Personal Touch | 33.00% | ~514 |
 | Ghost Ship | 33.00% | ~514 |
 | The Quarian | 33.00% | ~514 |
+| The Prodigal | 33.00% | ~514 |
 | Galactic Explorer | 33.00% | ~514 |
 | Shopaholic | 33.00% | ~514 |
 | The Assassin | 32.00% | ~498 |
@@ -53,7 +54,6 @@
 | Catharsis | 32.00% | ~498 |
 | Ghost of the Father | 32.00% | ~498 |
 | The Cure | 32.00% | ~498 |
-| The Prodigal | 32.00% | ~498 |
 | Revenge! | 32.00% | ~498 |
 | Driven | 32.00% | ~498 |
 | Focused | 31.00% | ~483 |
@@ -84,8 +84,8 @@
 | Tunnel Rat | 26.00% | ~405 |
 | Weapon Specialist | 25.00% | ~389 |
 | Arbiter | 25.00% | ~389 |
+| Lost and Found | 25.00% | ~389 |
 | Savior | 24.00% | ~374 |
-| Lost and Found | 24.00% | ~374 |
 | Paramour II | 22.00% | ~343 |
 | Party Crasher | 22.00% | ~343 |
 | Hard Target | 22.00% | ~343 |

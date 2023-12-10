@@ -20,9 +20,9 @@ Number of Ratings: 281  (23.09.2022)
 | School's Out for Summer | 2.00% | ~135 |
 | License to Gill | 1.00% | ~68 |
 | I'm Hooked! | 1.00% | ~68 |
+| Marathon | 0.60% | ~41 |
 | Diamond in the Rough | 0.60% | ~41 |
 | I'm the Captain Now | 0.50% | ~34 |
-| Marathon | 0.50% | ~34 |
 | More than a Tourist | 0.40% | ~27 |
 | Hook, Line and Sinker | 0.40% | ~27 |
 | No Fin left to give | 0.40% | ~27 |

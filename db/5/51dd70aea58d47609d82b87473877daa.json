@@ -4,7 +4,7 @@
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
@@ -1329,8 +1329,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:04:27.5259914+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:04:38.656565+00:00",
   "LastUpdate_AppInfo": "2023-12-08T10:57:06.335436+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:59:40.8772925+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:04:27.5260126+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:59:56.8922699+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:04:38.6565844+00:00"
 }

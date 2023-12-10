@@ -5,15 +5,15 @@ Rating: 4.43 (Ranked 696)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,879 |
-| Confirming Suspicions | 42.00% | ~1,679 |
-| The Kraken Wakes | 37.00% | ~1,479 |
-| It's Starting to Crack | 34.00% | ~1,359 |
-| Lord of War | 31.00% | ~1,239 |
-| Change the Channel | 31.00% | ~1,239 |
-| Taking it back | 29.00% | ~1,159 |
-| Resourceful | 27.00% | ~1,079 |
-| Target America | 27.00% | ~1,079 |
+| Meeting Resistance | 47.00% | ~1,880 |
+| Confirming Suspicions | 42.00% | ~1,680 |
+| The Kraken Wakes | 37.00% | ~1,480 |
+| It's Starting to Crack | 34.00% | ~1,360 |
+| Lord of War | 31.00% | ~1,240 |
+| Change the Channel | 31.00% | ~1,240 |
+| Taking it back | 29.00% | ~1,160 |
+| Resourceful | 27.00% | ~1,080 |
+| Target America | 27.00% | ~1,080 |
 | The Kraken Sleeps | 25.00% | ~1,000 |
 | As Quiet as a Mouse | 24.00% | ~960 |
 | Liberté | 23.00% | ~920 |
@@ -44,9 +44,9 @@ Rating: 4.43 (Ranked 696)
 | It'll Buff Right Out | 5.00% | ~200 |
 | Road Rage | 5.00% | ~200 |
 | Don't hold your breath | 5.00% | ~200 |
-| Last Resort | 5.00% | ~197 |
-| Siegebreaker | 5.00% | ~197 |
-| Ghost of Falaise | 5.00% | ~197 |
+| Last Resort | 5.00% | ~198 |
+| Siegebreaker | 5.00% | ~198 |
+| Ghost of Falaise | 5.00% | ~198 |
 | Strategist | 4.00% | ~160 |
 | Locomotion Commotion | 4.00% | ~160 |
 | From Paris with Love | 3.00% | ~120 |
@@ -67,9 +67,9 @@ Rating: 4.43 (Ranked 696)
 | Best of the Best | 1.00% | ~40 |
 | Master of Secondaries | 1.00% | ~40 |
 | Sight Beyond Sights | 1.00% | ~40 |
-| From Führer Away | 1.00% | ~39 |
-| Alpha | 1.00% | ~39 |
-| Das Familienjuwel | 1.00% | ~39 |
+| From Führer Away | 1.00% | ~40 |
+| Alpha | 1.00% | ~40 |
+| Das Familienjuwel | 1.00% | ~40 |
 | Master of Rifles | 0.90% | ~36 |
 | Master of Pistols | 0.80% | ~32 |
 | Operation Overlord | 0.80% | ~32 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 696)
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,998 (Ranked 199)  
+Progressed: 3,999 (Ranked 199)  
 Completed: 11 (0.28%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 11 (0.28%) (Ranked 245)
 | 2023-12-07 | 3,986 | 11 |
 | 2023-12-08 | 3,991 | 11 |
 | 2023-12-09 | 3,996 | 11 |
-| 2023-12-10 | 3,998 | 11 |
+| 2023-12-10 | 3,999 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 508)  
 Sum: 28 (Ranked 524)  

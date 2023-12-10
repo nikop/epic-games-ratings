@@ -1,18 +1,18 @@
 # Tchia
 [Store](https://store.epicgames.com/en-US/p/tchia)  
 [View Rawdata](../../db/t/tchia.json)  
-Rating: 4.70 (Ranked 214)  
+Rating: 4.70 (Ranked 213)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In a Pinch | 21.00% | ~1,663 |
-| Energy Saver | 17.00% | ~1,346 |
+| In a Pinch | 21.00% | ~1,664 |
+| Energy Saver | 17.00% | ~1,347 |
 | The Journey Onwards | 14.00% | ~1,109 |
-| Body and Soul | 11.00% | ~871 |
-| Globe Trotter | 11.00% | ~871 |
+| Body and Soul | 11.00% | ~872 |
+| Globe Trotter | 11.00% | ~872 |
 | Ahem Ahem | 10.00% | ~792 |
 | Audiophile | 8.00% | ~634 |
-| Clay Pigeon | 7.00% | ~554 |
+| Clay Pigeon | 7.00% | ~555 |
 | Historian | 6.00% | ~475 |
 | Iconoclast | 6.00% | ~475 |
 | Soul-Canon | 6.00% | ~475 |
@@ -27,7 +27,7 @@ Rating: 4.70 (Ranked 214)
 | Ça de Wizz! | 1.00% | ~79 |
 | Thing | 1.00% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,920 (Ranked 177)  
+Progressed: 7,923 (Ranked 177)  
 Completed: 34 (0.43%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 34 (0.43%) (Ranked 219)
 | 2023-12-07 | 7,884 | 34 |
 | 2023-12-08 | 7,898 | 34 |
 | 2023-12-09 | 7,911 | 34 |
-| 2023-12-10 | 7,920 | 34 |
+| 2023-12-10 | 7,923 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

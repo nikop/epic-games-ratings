@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2229,
+  "EOS_Progressed": 2230,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -3902,6 +3902,11 @@
       "Time": "2023-12-10T13:10:13.955912+00:00",
       "NumProgressed": 2229,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-10T16:06:25.4633403+00:00",
+      "NumProgressed": 2230,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3913,7 +3918,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "Collect20Gold",
@@ -3921,7 +3926,7 @@
       "Name": "Collect Gold",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "Collect20Iron",
@@ -3977,7 +3982,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "CompleteElderFaction",
@@ -3993,7 +3998,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "CompleteHunterFaction",
@@ -4049,7 +4054,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "GetRangedWeapon",
@@ -4057,7 +4062,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "GetTHWeapon",
@@ -4073,7 +4078,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "Kill25Frogs",
@@ -4081,7 +4086,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "Kill25Mozi",
@@ -4097,7 +4102,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "MysteryKingsChamber",
@@ -4121,7 +4126,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "RepairThroneRoom",
@@ -4129,7 +4134,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "RescueBrothers",
@@ -4137,7 +4142,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ReturnPowerInMines",
@@ -4145,29 +4150,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2229,
+      "Progressed": 2230,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 870,
-      "Completed": 870
+      "Progressed": 871,
+      "Completed": 871
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-10T15:06:06.611982+00:00",
+  "LastChanged_Achievements": "2023-12-10T16:06:25.4633396+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:13.9280126+00:00",
-  "LastUpdate_Ratings": "2023-12-10T14:59:26.5449853+00:00",
-  "LastUpdate_Achievements": "2023-12-10T15:06:06.6120166+00:00"
+  "LastUpdate_Ratings": "2023-12-10T15:59:41.2680479+00:00",
+  "LastUpdate_Achievements": "2023-12-10T16:06:25.4633721+00:00"
 }
