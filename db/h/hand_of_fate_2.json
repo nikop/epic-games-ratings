@@ -2,12 +2,12 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 511,
+  "Ranking_Rating": 512,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,7 +943,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 665643,
+  "EOS_Progressed": 665646,
   "EOS_Completed": 173,
   "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 1,
@@ -23053,6 +23053,11 @@
       "Time": "2023-12-10T12:08:54.9325397+00:00",
       "NumProgressed": 665643,
       "NumCompleted": 173
+    },
+    {
+      "Time": "2023-12-10T13:11:48.8042389+00:00",
+      "NumProgressed": 665646,
+      "NumCompleted": 173
     }
   ],
   "TotalAchievements": 48,
@@ -23064,7 +23069,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 479263
+      "UsersEstimate": 479265
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -23072,7 +23077,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386073
+      "UsersEstimate": 386075
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -23080,7 +23085,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153098
+      "UsersEstimate": 153099
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -23104,7 +23109,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 53251
+      "UsersEstimate": 53252
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -23128,7 +23133,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66564
+      "UsersEstimate": 66565
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -23160,7 +23165,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66564
+      "UsersEstimate": 66565
     },
     {
       "ID": "Achievement_14_Magician",
@@ -23200,7 +23205,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153098
+      "UsersEstimate": 153099
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -23216,7 +23221,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113159
+      "UsersEstimate": 113160
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -23232,7 +23237,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53251
+      "UsersEstimate": 53252
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -23288,7 +23293,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 53251
+      "UsersEstimate": 53252
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -23304,7 +23309,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79877
+      "UsersEstimate": 79878
     },
     {
       "ID": "Achievement_32_Karma",
@@ -23328,7 +23333,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166411
+      "UsersEstimate": 166412
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -23360,7 +23365,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53251
+      "UsersEstimate": 53252
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -23447,15 +23452,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 665643,
+      "Progressed": 665646,
       "Completed": 173
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:08:54.9325394+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:11:48.8042387+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:06.5520599+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:57:40.8228718+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:08:54.9326671+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:00:07.4699803+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:11:48.8043803+00:00"
 }

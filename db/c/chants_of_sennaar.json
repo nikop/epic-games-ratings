@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 934,
+  "EOS_Progressed": 935,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 5.78,
   "EosHistory": [
@@ -3750,6 +3750,11 @@
       "Time": "2023-12-10T07:07:25.3876787+00:00",
       "NumProgressed": 934,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-10T13:10:31.6091623+00:00",
+      "NumProgressed": 935,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 25,
@@ -3769,7 +3774,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "META_ALL_LINK",
@@ -3849,7 +3854,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -3857,7 +3862,7 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3897,7 +3902,7 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3919,9 +3924,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 309
     },
     {
       "ID": "PROGRESS_N2",
@@ -3960,14 +3965,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 934,
+      "Progressed": 935,
       "Completed": 54
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:06:34.7996168+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:10:31.609162+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-10T12:00:42.3734872+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:06:34.7996508+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:04:18.7843127+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:10:31.6091906+00:00"
 }

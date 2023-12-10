@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4675,9 +4675,9 @@
       "ID": "good_host_2",
       "SetID": "53c1p3k",
       "Name": "Good Host 2",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "good_host_3",
@@ -4938,8 +4938,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:10:06.2189527+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:13:21.5245929+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.3284719+00:00",
-  "LastUpdate_Ratings": "2023-12-10T12:00:33.5121752+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:10:06.2190318+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:04:06.2332116+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:13:21.5246515+00:00"
 }

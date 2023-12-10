@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 439,
+  "Ranking_Rating": 440,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 78,
@@ -1645,10 +1645,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 161958,
-  "EOS_Completed": 277,
-  "EOS_NewPlayers": 934,
-  "EOS_NewCompleters": 125,
+  "EOS_Progressed": 161970,
+  "EOS_Completed": 278,
+  "EOS_NewPlayers": 931,
+  "EOS_NewCompleters": 123,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -18675,6 +18675,11 @@
       "Time": "2023-12-10T12:04:52.3665335+00:00",
       "NumProgressed": 161958,
       "NumCompleted": 277
+    },
+    {
+      "Time": "2023-12-10T13:08:16.2778208+00:00",
+      "NumProgressed": 161970,
+      "NumCompleted": 278
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18781,9 +18786,9 @@
       "ID": "DEFEAT_FIDUS",
       "SetID": "ccc0dlh",
       "Name": "Shapely",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 162
+      "UsersEstimate": 324
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -19054,21 +19059,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161541,
+      "Progressed": 161553,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 161958,
-      "Completed": 277
+      "Progressed": 161970,
+      "Completed": 278
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-08T18:02:42.2195822+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:04:52.366533+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:08:16.2778204+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:57:52.7640276+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:04:52.3666435+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:00:23.5006051+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:08:16.2779395+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 170,
+  "Ranking_Rating": 171,
   "Ranking_Popularity": 328,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1131,12 +1131,18 @@
       "Rating": 4.73,
       "NumberOfAwards": 949,
       "NumberOfAwardsMax": 136
+    },
+    {
+      "Time": "2023-12-10T13:02:49.5439509+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 950,
+      "NumberOfAwardsMax": 136
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 949,
+  "NumberOfAwards": 950,
   "NumberOfAwardsMax": 136,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -1154,7 +1160,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 135
+      "Count": 136
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1205,9 +1211,9 @@
       "Count": 136
     }
   ],
-  "EOS_Progressed": 8412,
+  "EOS_Progressed": 8413,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5965,6 +5971,11 @@
       "Time": "2023-12-10T10:08:18.3860223+00:00",
       "NumProgressed": 8412,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-10T13:11:46.350451+00:00",
+      "NumProgressed": 8413,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 24,
@@ -6040,7 +6051,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -6056,7 +6067,7 @@
       "Name": "Go Home...",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2439
+      "UsersEstimate": 2440
     },
     {
       "ID": "HeroSlayer",
@@ -6096,7 +6107,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "SavedElderEnt",
@@ -6112,7 +6123,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "SkeletonKing",
@@ -6128,7 +6139,7 @@
       "Name": "Inventory Management",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "TheLegendBegins",
@@ -6136,7 +6147,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7823
+      "UsersEstimate": 7824
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -6160,22 +6171,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8412,
+      "Progressed": 8413,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-12-07T17:57:51.9878192+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:08:52.9412878+00:00",
+  "LastChanged": "2023-12-10T13:02:49.5439507+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:11:46.3504507+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:02.7118419+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:59:37.5482628+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:08:52.9413177+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:02:49.5439514+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:11:46.3504794+00:00"
 }

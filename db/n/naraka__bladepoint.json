@@ -2,13 +2,13 @@
   "ID": "0c6aee83b9b64372bf44a043001325f2",
   "Name": "NARAKA: BLADEPOINT",
   "ProductSlug": "naraka-bladepoint",
-  "Ranking_Rating": 942,
+  "Ranking_Rating": 943,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 788,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-12-08T16:00:00+00:00",
     "PcReleaseDate": "2021-08-11T12:00:00+00:00",
@@ -8533,10 +8533,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 466478,
       "NumberOfAwardsMax": 214239
+    },
+    {
+      "Time": "2023-12-10T13:03:26.9233415+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 466542,
+      "NumberOfAwardsMax": 214239
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 466478,
+  "NumberOfAwards": 466542,
   "NumberOfAwardsMax": 214239,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8580,7 +8586,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 66651
+      "Count": 66715
     }
   ],
   "EOS_Progressed": 0,
@@ -8594,8 +8600,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:04.1152302+00:00",
-  "LastChanged": "2023-12-10T08:59:34.0057637+00:00",
+  "LastChanged": "2023-12-10T13:03:26.9233413+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:18.1027548+00:00",
-  "LastUpdate_Ratings": "2023-12-10T12:00:05.2656662+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:08:51.9222094+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:03:26.9233419+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:11:44.9977409+00:00"
 }

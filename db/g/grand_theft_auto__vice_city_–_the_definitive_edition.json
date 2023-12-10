@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 562,
+  "Ranking_Rating": 563,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -913,9 +913,9 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 11320,
+  "EOS_Progressed": 11322,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -14053,6 +14053,11 @@
       "Time": "2023-12-10T09:09:00.1329648+00:00",
       "NumProgressed": 11320,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-10T13:12:22.6433466+00:00",
+      "NumProgressed": 11322,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -14136,7 +14141,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACH11",
@@ -14224,7 +14229,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5320
+      "UsersEstimate": 5321
     },
     {
       "ID": "ACH22",
@@ -14232,7 +14237,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "ACH23",
@@ -14240,7 +14245,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "ACH24",
@@ -14264,7 +14269,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "ACH27",
@@ -14280,7 +14285,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACH29",
@@ -14335,7 +14340,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11320,
+      "Progressed": 11322,
       "Completed": 65
     }
   ],
@@ -14343,8 +14348,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-10T03:59:04.4069107+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:09:21.160358+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:12:22.6433463+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.0199326+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:59:40.4353478+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:09:21.1604403+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:02:53.5100856+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:12:22.643415+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 257,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9510,9 +9510,9 @@
       "Count": 983
     }
   ],
-  "EOS_Progressed": 126004,
+  "EOS_Progressed": 126006,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34320,6 +34320,11 @@
       "Time": "2023-12-10T12:08:58.9646882+00:00",
       "NumProgressed": 126004,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-10T13:11:53.9851199+00:00",
+      "NumProgressed": 126006,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34745,9 +34750,9 @@
       "ID": "inn_visit_all_variants",
       "SetID": "64l4lke",
       "Name": "Worldly Traveller",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 126
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -34962,21 +34967,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126004,
+      "Progressed": 126006,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 873,
+      "Progressed": 875,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-10T02:22:32.4482053+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:08:58.9646878+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:11:53.9851195+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:57:55.5897399+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:08:58.9648616+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:00:27.4861385+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:11:53.9852621+00:00"
 }

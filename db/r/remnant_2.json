@@ -5415,10 +5415,10 @@
       "Count": 413
     }
   ],
-  "EOS_Progressed": 237909,
+  "EOS_Progressed": 237940,
   "EOS_Completed": 575,
-  "EOS_NewPlayers": 4281,
-  "EOS_NewCompleters": 26,
+  "EOS_NewPlayers": 4246,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -22310,6 +22310,11 @@
       "Time": "2023-12-10T12:09:22.6916161+00:00",
       "NumProgressed": 237909,
       "NumCompleted": 575
+    },
+    {
+      "Time": "2023-12-10T13:12:24.9665653+00:00",
+      "NumProgressed": 237940,
+      "NumCompleted": 575
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22402,7 +22407,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -22506,7 +22511,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -22626,7 +22631,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "Obtain_Traits_B",
@@ -22761,13 +22766,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 237909,
+      "Progressed": 237940,
       "Completed": 575
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 17074,
+      "Progressed": 17105,
       "Completed": 233
     }
   ],
@@ -22775,8 +22780,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-10T12:03:22.3326163+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:09:22.6916157+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:12:24.9665649+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-10T12:03:22.3326169+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:09:22.6917505+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:06:16.8408077+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:12:24.9667257+00:00"
 }

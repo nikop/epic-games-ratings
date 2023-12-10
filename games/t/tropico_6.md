@@ -1,26 +1,26 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.66 (Ranked 294)  
+Rating: 4.66 (Ranked 295)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,712 |
-| Un-Lonely Island | 46.00% | ~2,890 |
-| The Beginning of a Servantship | 45.00% | ~2,827 |
+| Just One...More...Term... | 75.00% | ~4,713 |
+| Un-Lonely Island | 46.00% | ~2,891 |
+| The Beginning of a Servantship | 45.00% | ~2,828 |
 | Trade Is My Trait | 37.00% | ~2,325 |
 | Number 18 | 24.00% | ~1,508 |
 | We Don't Have Time For That | 19.00% | ~1,194 |
 | The Governator | 17.00% | ~1,068 |
 | The Legend of Langostino | 16.00% | ~1,005 |
-| Caribbean Comrade | 15.00% | ~942 |
-| The Dreamer of Dreams | 15.00% | ~942 |
+| Caribbean Comrade | 15.00% | ~943 |
+| The Dreamer of Dreams | 15.00% | ~943 |
 | Go Sovereigns! | 11.00% | ~691 |
 | For Science! | 11.00% | ~691 |
 | Happy Ending? | 10.00% | ~628 |
-| Of Seals And Men | 9.00% | ~565 |
-| Shackadelic | 9.00% | ~565 |
+| Of Seals And Men | 9.00% | ~566 |
+| Shackadelic | 9.00% | ~566 |
 | Double Trouble | 8.00% | ~503 |
 | Firestarter | 8.00% | ~503 |
 | I Owe You Nothing | 7.00% | ~440 |
@@ -32,10 +32,10 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~314 |
 | Watch The World Burn | 5.00% | ~314 |
 | Fairy Tale Come True | 5.00% | ~314 |
-| Been there, Done That | 3.00% | ~188 |
-| Apocalypso | 3.00% | ~188 |
-| Narcissist | 3.00% | ~188 |
-| The Time For Wonders | 3.00% | ~188 |
+| Been there, Done That | 3.00% | ~189 |
+| Apocalypso | 3.00% | ~189 |
+| Narcissist | 3.00% | ~189 |
+| The Time For Wonders | 3.00% | ~189 |
 | One Does Not Simply Stage A Coup | 2.00% | ~126 |
 | Promising Endeavors | 2.00% | ~126 |
 | Sublime Subliminal Supreme | 2.00% | ~126 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~50 |
 | My Ways | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,283 (Ranked 186)  
+Progressed: 6,284 (Ranked 186)  
 Completed: 2 (0.03%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 2 (0.03%) (Ranked 333)
 | 2023-12-07 | 6,251 | 2 |
 | 2023-12-08 | 6,260 | 2 |
 | 2023-12-09 | 6,276 | 2 |
-| 2023-12-10 | 6,283 | 2 |
+| 2023-12-10 | 6,284 | 2 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 360)  
 Sum: 739 (Ranked 293)  

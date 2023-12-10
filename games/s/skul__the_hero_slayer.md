@@ -1,26 +1,26 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.73 (Ranked 170)  
+Rating: 4.73 (Ranked 171)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,823 |
-| What should I buy? | 84.00% | ~7,066 |
+| The Legend Begins | 93.00% | ~7,824 |
+| What should I buy? | 84.00% | ~7,067 |
 | Focus! | 63.00% | ~5,300 |
 | Rescued Elder Ent | 63.00% | ~5,300 |
 | The End of the Gold Mane Knights | 49.00% | ~4,122 |
 | False Goddess, Disappear | 42.00% | ~3,533 |
 | Rules of Etiquette | 42.00% | ~3,533 |
-| Quick Movements | 35.00% | ~2,944 |
-| Inventory Management | 35.00% | ~2,944 |
+| Quick Movements | 35.00% | ~2,945 |
+| Inventory Management | 35.00% | ~2,945 |
 | The Fall of the Leonia Order | 32.00% | ~2,692 |
 | The Hero Killer | 30.00% | ~2,524 |
-| Go Home... | 29.00% | ~2,439 |
-| The Final Battle of the First Hero | 28.00% | ~2,355 |
+| Go Home... | 29.00% | ~2,440 |
+| The Final Battle of the First Hero | 28.00% | ~2,356 |
 | Brain at Full Throttle | 24.00% | ~2,019 |
-| Rookies Welcome | 20.00% | ~1,682 |
+| Rookies Welcome | 20.00% | ~1,683 |
 | Deadly Power | 17.00% | ~1,430 |
 | Castle Restoration Plans | 15.00% | ~1,262 |
 | The Dwarven Chandelier | 13.00% | ~1,094 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~168 |
 | Cold-Blooded | 0.90% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,412 (Ranked 175)  
+Progressed: 8,413 (Ranked 175)  
 Completed: 17 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,15 +244,15 @@ Completed: 17 (0.20%) (Ranked 258)
 | 2023-12-07 | 8,399 | 17 |
 | 2023-12-08 | 8,405 | 17 |
 | 2023-12-09 | 8,409 | 17 |
-| 2023-12-10 | 8,412 | 17 |
+| 2023-12-10 | 8,413 | 17 |
 ## Awards
-Max (Great for Beginners): 136  (Ranked 328)  
-Sum: 949 (Ranked 271)  
+Max (Diverse Characters): 136  (Ranked 328)  
+Sum: 950 (Ranked 271)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
+| This game has Diverse Characters | 136 |
 | This game is Great for Beginners | 136 |
-| This game has Diverse Characters | 135 |
 | This game is Highly Recommended | 115 |
 | This game is Extremely Fun | 112 |
 | This game is Relaxing | 108 |
@@ -413,3 +413,4 @@ Diff (max vs sum): 57
 | 2023-12-04 | 4.73 | - | 136 | 943 |
 | 2023-12-05 | 4.73 | - | 136 | 945 |
 | 2023-12-07 | 4.73 | - | 136 | 949 |
+| 2023-12-10 | 4.73 | - | 136 | 950 |

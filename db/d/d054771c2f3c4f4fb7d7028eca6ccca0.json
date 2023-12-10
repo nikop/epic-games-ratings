@@ -4,8 +4,8 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1576,
+  "EOS_Progressed": 1580,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 784,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1149,6 +1149,11 @@
       "Time": "2023-12-10T12:04:56.5922385+00:00",
       "NumProgressed": 1576,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T13:08:21.784166+00:00",
+      "NumProgressed": 1580,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1185,15 +1190,15 @@
       "Name": "Highest Among the Highest",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "c167foo",
       "Name": "Gruesome Ball Handler",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1265,7 +1270,7 @@
       "Name": "Worthy Badge",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1361,7 +1366,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1495,9 +1500,9 @@
       "ID": "ACHIEVEMENT_51",
       "SetID": "c167foo",
       "Name": "Trap Season",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_52",
@@ -1536,14 +1541,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1576,
+      "Progressed": 1580,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:04:56.5922381+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:08:21.7841656+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-10T12:00:04.6228442+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:04:56.5922835+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:03:26.0467372+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:08:21.7842046+00:00"
 }

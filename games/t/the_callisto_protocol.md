@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 934)  
+Rating: 4.19 (Ranked 935)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 934)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,522 (Ranked 150)  
+Progressed: 16,523 (Ranked 150)  
 Completed: 81 (0.49%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 81 (0.49%) (Ranked 211)
 | 2023-12-07 | 16,517 | 81 |
 | 2023-12-08 | 16,519 | 81 |
 | 2023-12-09 | 16,521 | 81 |
-| 2023-12-10 | 16,522 | 81 |
+| 2023-12-10 | 16,523 | 81 |
 ## Awards
 Max (Highly Recommended): 85  (Ranked 388)  
 Sum: 504 (Ranked 325)  

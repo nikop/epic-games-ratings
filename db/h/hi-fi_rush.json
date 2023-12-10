@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4499,
+  "EOS_Progressed": 4500,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8250,6 +8250,11 @@
       "Time": "2023-12-10T12:06:59.9450629+00:00",
       "NumProgressed": 4499,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-10T13:11:05.3889807+00:00",
+      "NumProgressed": 4500,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8365,7 +8370,7 @@
       "Name": "I can\u0027t see this ever being a problem again",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach015",
@@ -8413,7 +8418,7 @@
       "Name": "Fully Powered Up!",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach021",
@@ -8828,13 +8833,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4499,
+      "Progressed": 4500,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 3020,
+      "Progressed": 3021,
       "Completed": 1930
     }
   ],
@@ -8842,8 +8847,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:06:59.9450626+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:11:05.3889804+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:18.6418134+00:00",
-  "LastUpdate_Ratings": "2023-12-10T12:00:05.9300724+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:06:59.9451664+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:03:27.7442189+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:11:05.38906+00:00"
 }

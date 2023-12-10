@@ -2,13 +2,13 @@
   "ID": "95cda0d0b9124cc790f3893ac41cc29a",
   "Name": "Imagine Earth",
   "ProductSlug": "imagine-earth-7498e4",
-  "Ranking_Rating": 833,
+  "Ranking_Rating": 834,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -653,8 +653,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:06:12.6665495+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:10:01.66128+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.9874259+00:00",
-  "LastUpdate_Ratings": "2023-12-10T12:02:54.4813341+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:06:12.6665655+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:05:38.5261479+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:10:01.661294+00:00"
 }

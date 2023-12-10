@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 1193,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3132,9 +3132,9 @@
       "ID": "GSS_ACH_08_FUEL_03",
       "SetID": "5fn8ia4",
       "Name": "Fueling Superstar!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 931
+      "UsersEstimate": 942
     },
     {
       "ID": "GSS_ACH_09_THROW_01",
@@ -3236,9 +3236,9 @@
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1062
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -3356,9 +3356,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 811
+      "UsersEstimate": 823
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -3420,9 +3420,9 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 978
+      "UsersEstimate": 990
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
@@ -3733,8 +3733,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:05:44.3997935+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:09:24.362145+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:58:48.9207076+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:05:44.3998941+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:01:41.8793829+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:09:24.3622267+00:00"
 }

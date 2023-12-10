@@ -1,21 +1,21 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.29 (Ranked 853)  
+Rating: 4.29 (Ranked 854)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~73,745 |
-| Powergamer | 27.00% | ~68,659 |
-| Write that down | 25.00% | ~63,573 |
-| Barely scratched the surface | 25.00% | ~63,573 |
-| Guns, lots of guns | 13.00% | ~33,058 |
-| Collector | 12.00% | ~30,515 |
-| Elementary! | 9.00% | ~22,886 |
-| Griever | 8.00% | ~20,343 |
-| Pumpkin Jack | 8.00% | ~20,343 |
-| Wake up! | 8.00% | ~20,343 |
+| I will finish what you started | 29.00% | ~73,747 |
+| Powergamer | 27.00% | ~68,661 |
+| Write that down | 25.00% | ~63,575 |
+| Barely scratched the surface | 25.00% | ~63,575 |
+| Guns, lots of guns | 13.00% | ~33,059 |
+| Collector | 12.00% | ~30,516 |
+| Elementary! | 9.00% | ~22,887 |
+| Griever | 8.00% | ~20,344 |
+| Pumpkin Jack | 8.00% | ~20,344 |
+| Wake up! | 8.00% | ~20,344 |
 | It's honest work | 7.00% | ~17,801 |
 | Me smart | 6.00% | ~15,258 |
 | Trash compactor | 6.00% | ~15,258 |
@@ -47,8 +47,8 @@ Number of Ratings: 33  (23.09.2022)
 | Let's try another | 0.80% | ~2,034 |
 | Home run | 0.80% | ~2,034 |
 | I have the high ground | 0.70% | ~1,780 |
-| Enjoy these little moments | 0.50% | ~1,271 |
-| Who wouldn't love a troll? | 0.50% | ~1,271 |
+| Enjoy these little moments | 0.50% | ~1,272 |
+| Who wouldn't love a troll? | 0.50% | ~1,272 |
 | Irondec | 0.40% | ~1,017 |
 | LET ME OUT! | 0.40% | ~1,017 |
 | Un-bear-able | 0.40% | ~1,017 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~509 |
 | Memory 5 | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,293 (Ranked 60)  
+Progressed: 254,300 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-07 | 254,064 | 7 |
 | 2023-12-08 | 254,148 | 7 |
 | 2023-12-09 | 254,249 | 7 |
-| 2023-12-10 | 254,293 | 7 |
+| 2023-12-10 | 254,300 | 7 |
 ## Awards
 Max (Character Customization): 92  (Ranked 380)  
 Sum: 92 (Ranked 458)  

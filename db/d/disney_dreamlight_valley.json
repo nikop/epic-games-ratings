@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5169,9 +5169,9 @@
       "Count": 538
     }
   ],
-  "EOS_Progressed": 12439,
+  "EOS_Progressed": 12440,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 2.45,
   "EosHistory": [
@@ -21194,6 +21194,11 @@
       "Time": "2023-12-10T12:08:57.1309481+00:00",
       "NumProgressed": 12439,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2023-12-10T13:11:51.6095274+00:00",
+      "NumProgressed": 12440,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 15,
@@ -21213,7 +21218,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4851
+      "UsersEstimate": 4852
     },
     {
       "ID": "Bestest_Friend",
@@ -21277,7 +21282,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8583
+      "UsersEstimate": 8584
     },
     {
       "ID": "Miner",
@@ -21324,7 +21329,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12439,
+      "Progressed": 12440,
       "Completed": 305
     }
   ],
@@ -21332,8 +21337,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-10T07:58:02.8319019+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:08:57.1309476+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:11:51.609527+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:33.6610619+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:58:41.8148815+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:08:57.1310446+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:01:31.6722317+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:11:51.6096062+00:00"
 }

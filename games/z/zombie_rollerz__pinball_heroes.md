@@ -1,7 +1,7 @@
 # Zombie Rollerz: Pinball Heroes
 [Store](https://store.epicgames.com/en-US/p/zombie-rollerz-7aa027)  
 [View Rawdata](../../db/z/zombie_rollerz__pinball_heroes.json)  
-Rating: 4.29 (Ranked 853)  
+Rating: 4.29 (Ranked 854)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,7 +17,7 @@ Rating: 4.29 (Ranked 853)
 | The Magician | 40.00% | ~80 |
 | The Tunneler | 40.00% | ~80 |
 | Level Up!! | 37.00% | ~74 |
-| The Shield | 36.00% | ~72 |
+| The Shield | 37.00% | ~74 |
 | Kill-streak | 30.00% | ~60 |
 | Topped up | 29.00% | ~58 |
 | The Bird | 28.00% | ~56 |

@@ -1,39 +1,39 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.66 (Ranked 294)  
+Rating: 4.66 (Ranked 295)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,859 |
-| Gun Fu | 7.00% | ~68,168 |
-| The Fool | 6.00% | ~58,430 |
-| Right Back At Ya | 5.00% | ~48,691 |
-| The Lovers | 5.00% | ~48,691 |
-| Full Body Conversion | 4.00% | ~38,953 |
-| True Soldier | 4.00% | ~38,953 |
-| Christmas Tree Attack | 3.00% | ~29,215 |
-| Stanislavski's Method | 3.00% | ~29,215 |
-| The Hermit | 3.00% | ~29,215 |
-| The Wheel of Fortune | 3.00% | ~29,215 |
-| Relic Ruler | 3.00% | ~3,073 |
-| All the President's Men | 3.00% | ~3,073 |
-| Arachnophobia | 3.00% | ~3,073 |
-| Bushido and Chill | 2.00% | ~19,477 |
-| Master Crafter | 2.00% | ~19,477 |
-| The Quick and the Dead | 2.00% | ~19,477 |
-| Life of the Road | 2.00% | ~19,477 |
-| The High Priestess | 2.00% | ~19,477 |
-| The World | 2.00% | ~19,477 |
-| True Warrior | 2.00% | ~19,477 |
-| Legend of The Afterlife | 2.00% | ~19,477 |
-| To Protect and Serve | 1.00% | ~9,738 |
-| I Am The Law | 1.00% | ~9,738 |
-| Two Heads, One Bullet | 1.00% | ~9,738 |
-| Judy vs Night City | 1.00% | ~9,738 |
-| Spin Doctor | 1.00% | ~1,024 |
-| The Wandering Fool | 0.90% | ~8,764 |
+| V for Vendetta | 12.00% | ~116,865 |
+| Gun Fu | 7.00% | ~68,171 |
+| The Fool | 6.00% | ~58,433 |
+| Right Back At Ya | 5.00% | ~48,694 |
+| The Lovers | 5.00% | ~48,694 |
+| Full Body Conversion | 4.00% | ~38,955 |
+| True Soldier | 4.00% | ~38,955 |
+| Christmas Tree Attack | 3.00% | ~29,216 |
+| Stanislavski's Method | 3.00% | ~29,216 |
+| The Hermit | 3.00% | ~29,216 |
+| The Wheel of Fortune | 3.00% | ~29,216 |
+| Relic Ruler | 3.00% | ~3,075 |
+| All the President's Men | 3.00% | ~3,075 |
+| Arachnophobia | 3.00% | ~3,075 |
+| Bushido and Chill | 2.00% | ~19,478 |
+| Master Crafter | 2.00% | ~19,478 |
+| The Quick and the Dead | 2.00% | ~19,478 |
+| Life of the Road | 2.00% | ~19,478 |
+| The High Priestess | 2.00% | ~19,478 |
+| The World | 2.00% | ~19,478 |
+| True Warrior | 2.00% | ~19,478 |
+| Legend of The Afterlife | 2.00% | ~19,478 |
+| To Protect and Serve | 1.00% | ~9,739 |
+| I Am The Law | 1.00% | ~9,739 |
+| Two Heads, One Bullet | 1.00% | ~9,739 |
+| Judy vs Night City | 1.00% | ~9,739 |
+| Spin Doctor | 1.00% | ~1,025 |
+| The Wandering Fool | 0.90% | ~8,765 |
 | Easy Come, Easy Go | 0.90% | ~922 |
 | King of Wands | 0.80% | ~820 |
 | Dirty Deeds | 0.80% | ~820 |
@@ -44,8 +44,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Autojock | 0.50% | ~4,869 |
 | Breathtaking | 0.50% | ~4,869 |
 | The Tower | 0.50% | ~512 |
-| Must Be Rats | 0.40% | ~3,895 |
-| Temperance | 0.40% | ~3,895 |
+| Must Be Rats | 0.40% | ~3,896 |
+| Temperance | 0.40% | ~3,896 |
 | The APB is Not Enough | 0.40% | ~410 |
 | Judgement Day | 0.40% | ~410 |
 | King of Pentacles | 0.40% | ~410 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 973,826 (Ranked 15)  
-Completed: 2,874 (0.30%) (Ranked 239)  
+Progressed: 973,876 (Ranked 15)  
+Completed: 2,875 (0.30%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -308,7 +308,7 @@ Completed: 2,874 (0.30%) (Ranked 239)
 | 2023-12-07 | 971,994 | 2,852 |
 | 2023-12-08 | 972,634 | 2,860 |
 | 2023-12-09 | 973,443 | 2,872 |
-| 2023-12-10 | 973,826 | 2,874 |
+| 2023-12-10 | 973,876 | 2,875 |
 ## Awards
 Max (Character Customization): 120,272  (Ranked 9)  
 Sum: 406,612 (Ranked 9)  

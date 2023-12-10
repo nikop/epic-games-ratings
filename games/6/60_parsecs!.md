@@ -12,7 +12,7 @@
 | Tinkerer | 63.00% | ~491 |
 | Dust to Dust | 58.00% | ~452 |
 | Across The Stars | 49.00% | ~382 |
-| Crafty | 48.00% | ~374 |
+| Crafty | 49.00% | ~382 |
 | All Seats Taken | 39.00% | ~304 |
 | For Science! | 35.00% | ~273 |
 | Meet the Petersons | 32.00% | ~249 |

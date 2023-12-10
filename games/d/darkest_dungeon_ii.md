@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 257)  
+Rating: 4.68 (Ranked 258)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -57,6 +57,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 0.10% | ~126 |
 | When You Want Something Done Right | 0.10% | ~126 |
 | FNG | 0.10% | ~126 |
+| Worldly Traveller | 0.10% | ~126 |
 | Utopia | 0.10% | ~126 |
 | Eidetic | 0.10% | ~126 |
 | Nope | 0.10% | ~126 |
@@ -71,7 +72,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Malpractice Assurance | 0.10% | ~1 |
 | This guy... again? | 0.10% | ~1 |
 | No Gravestone Left Unturned | 0.00% | ~0 |
-| Worldly Traveller | 0.00% | ~0 |
 | The Clash | 0.00% | ~0 |
 | Battle Hardened | 0.00% | ~0 |
 | Maître De La Lame | 0.00% | ~0 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,004 (Ranked 84)  
+Progressed: 126,006 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-07 | 125,791 | 2 |
 | 2023-12-08 | 125,859 | 2 |
 | 2023-12-09 | 125,950 | 2 |
-| 2023-12-10 | 126,004 | 2 |
+| 2023-12-10 | 126,006 | 2 |
 ## Awards
 Max (Character Customization): 7,578  (Ranked 52)  
 Sum: 20,029 (Ranked 59)  

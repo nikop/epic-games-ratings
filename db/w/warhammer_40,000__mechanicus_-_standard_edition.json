@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 695,
+  "Ranking_Rating": 696,
   "Ranking_Popularity": 258,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -990,9 +990,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229041,
+  "EOS_Progressed": 229042,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26570,6 +26570,11 @@
       "Time": "2023-12-10T12:10:01.181659+00:00",
       "NumProgressed": 229041,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-10T13:13:15.3690149+00:00",
+      "NumProgressed": 229042,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -26661,7 +26666,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13742
+      "UsersEstimate": 13743
     },
     {
       "ID": "ACH_BASE_20",
@@ -26852,7 +26857,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229041,
+      "Progressed": 229042,
       "Completed": 5
     }
   ],
@@ -26860,8 +26865,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-09T22:00:42.4257161+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:10:01.1816586+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:13:15.3690145+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.549712+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:59:49.5240311+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:10:01.181789+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:03:05.6387469+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:13:15.3691549+00:00"
 }

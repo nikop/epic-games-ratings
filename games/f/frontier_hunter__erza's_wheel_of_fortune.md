@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~544 |
-| Training Simulation | 78.00% | ~456 |
-| Kuku Bird Hunter | 64.00% | ~374 |
-| Storm Traveller | 58.00% | ~339 |
+| Travel Streamer | 93.00% | ~545 |
+| Training Simulation | 78.00% | ~457 |
+| Kuku Bird Hunter | 64.00% | ~375 |
+| Storm Traveller | 58.00% | ~340 |
 | Wolf King Killer | 54.00% | ~316 |
-| Fashion Connoisseur | 52.00% | ~304 |
+| Fashion Connoisseur | 52.00% | ~305 |
 | Arms Mechanic | 48.00% | ~281 |
-| Flower Thief | 43.00% | ~252 |
-| Beginner Artificer | 37.00% | ~216 |
-| Apostle of Flame | 37.00% | ~216 |
-| Beginner Cook | 36.00% | ~211 |
-| Seal Breaker | 31.00% | ~181 |
+| Flower Thief | 42.00% | ~246 |
+| Beginner Artificer | 37.00% | ~217 |
+| Apostle of Flame | 37.00% | ~217 |
+| Beginner Cook | 35.00% | ~205 |
+| Seal Breaker | 31.00% | ~182 |
 | Handyman | 27.00% | ~158 |
 | Giant Lizard Killer | 26.00% | ~152 |
 | Guardian | 25.00% | ~146 |
@@ -32,11 +32,11 @@
 | Mermaid Killer | 14.00% | ~82 |
 | Face Slapper | 14.00% | ~82 |
 | Cave Master | 13.00% | ~76 |
-| Boss challenge | 10.00% | ~58 |
-| Berserker Slayer | 10.00% | ~58 |
+| Boss challenge | 10.00% | ~59 |
+| Berserker Slayer | 10.00% | ~59 |
 | Giantess Slayer | 9.00% | ~53 |
+| Warden Slayer | 9.00% | ~53 |
 | Master Cook | 8.00% | ~47 |
-| Warden Slayer | 8.00% | ~47 |
 | Silver Moon Wolf King Challenge | 3.00% | ~18 |
 | Rebellious | 2.00% | ~12 |
 | Blade Mantis Challenge | 2.00% | ~12 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 585 (Ranked 307)  
+Progressed: 586 (Ranked 307)  
 Completed: 1 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 1 (0.17%) (Ranked 269)
 | 2023-12-07 | 566 | 1 |
 | 2023-12-08 | 572 | 1 |
 | 2023-12-09 | 581 | 1 |
-| 2023-12-10 | 585 | 1 |
+| 2023-12-10 | 586 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

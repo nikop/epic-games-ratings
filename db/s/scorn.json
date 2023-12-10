@@ -2,13 +2,13 @@
   "ID": "135201128d4f428699a891fc501a5097",
   "Name": "Scorn",
   "ProductSlug": "scorn",
-  "Ranking_Rating": 653,
+  "Ranking_Rating": 654,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -3777,9 +3777,9 @@
       "ID": "002",
       "SetID": "94k0mj8",
       "Name": "002",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 364
+      "UsersEstimate": 390
     },
     {
       "ID": "003",
@@ -3874,8 +3874,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-11-28T11:59:38.0602265+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:03:56.471594+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:07:04.1056457+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.1690917+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:57:43.5902566+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:03:56.4716202+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:00:11.2744077+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:07:04.1056724+00:00"
 }

@@ -58,8 +58,8 @@ Rating: 4.87 (Ranked 25)
 | I am a good person who likes to help | 0.40% | ~18 |
 | With our powers combined…and to the rhythm… | 0.40% | ~18 |
 | It'll do, CNMN | 0.40% | ~12 |
-| I can't see this ever being a problem again | 0.30% | ~13 |
-| Fully Powered Up! | 0.30% | ~13 |
+| I can't see this ever being a problem again | 0.30% | ~14 |
+| Fully Powered Up! | 0.30% | ~14 |
 | This was... not what I expected. | 0.20% | ~9 |
 | Have we met before? | 0.20% | ~9 |
 | I saw all those hits coming a measure away! | 0.20% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,499 (Ranked 195)  
+Progressed: 4,500 (Ranked 195)  
 Completed: 8 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 8 (0.18%) (Ranked 266)
 | 2023-12-07 | 4,486 | 8 |
 | 2023-12-08 | 4,490 | 8 |
 | 2023-12-09 | 4,494 | 8 |
-| 2023-12-10 | 4,499 | 8 |
+| 2023-12-10 | 4,500 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

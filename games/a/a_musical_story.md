@@ -4,45 +4,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 96.00% | ~103 |
-| Rehearsal | 95.00% | ~102 |
+| ECG | 96.00% | ~104 |
+| Rehearsal | 95.00% | ~103 |
 | Daily Life | 93.00% | ~100 |
-| Assembly Line Work | 90.00% | ~96 |
-| Solitude | 85.00% | ~91 |
-| Pinewood, Here we come! | 77.00% | ~82 |
-| The Van | 72.00% | ~77 |
-| Road-Trip | 65.00% | ~70 |
-| A Musical Pause | 64.00% | ~68 |
-| Briget's | 55.00% | ~59 |
+| Assembly Line Work | 90.00% | ~97 |
+| Solitude | 85.00% | ~92 |
+| Pinewood, Here we come! | 77.00% | ~83 |
+| The Van | 72.00% | ~78 |
+| Road-Trip | 66.00% | ~71 |
+| A Musical Pause | 64.00% | ~69 |
+| Briget's | 56.00% | ~60 |
 | Sound of Noise | 50.00% | ~54 |
-| Big City Music | 49.00% | ~52 |
-| Love at First Sight | 47.00% | ~50 |
-| First Kiss | 39.00% | ~42 |
-| Symbiosis | 36.00% | ~39 |
-| A Bigger Band | 35.00% | ~37 |
+| Big City Music | 49.00% | ~53 |
+| Love at First Sight | 47.00% | ~51 |
+| First Kiss | 40.00% | ~43 |
+| Symbiosis | 37.00% | ~40 |
+| A Bigger Band | 35.00% | ~38 |
 | Fuel | 31.00% | ~33 |
-| Alone Together | 30.00% | ~32 |
-| Threatening Nature | 28.00% | ~30 |
-| Flat Tire | 27.00% | ~29 |
-| The Clash | 23.00% | ~25 |
-| TV Dreams | 23.00% | ~25 |
-| Dreamers | 20.00% | ~21 |
-| The Fix | 19.00% | ~20 |
-| Time | 18.00% | ~19 |
-| Bad Trip | 15.00% | ~16 |
-| Regrets | 15.00% | ~16 |
-| The Mountains, The Valleys | 15.00% | ~16 |
-| Chase the Crow | 12.00% | ~13 |
+| Alone Together | 31.00% | ~33 |
+| Threatening Nature | 29.00% | ~31 |
+| Flat Tire | 28.00% | ~30 |
+| The Clash | 24.00% | ~26 |
+| TV Dreams | 24.00% | ~26 |
+| Dreamers | 20.00% | ~22 |
+| Time | 19.00% | ~21 |
+| The Fix | 19.00% | ~21 |
+| Bad Trip | 16.00% | ~17 |
+| Regrets | 16.00% | ~17 |
+| The Mountains, The Valleys | 16.00% | ~17 |
+| Chase the Crow | 13.00% | ~14 |
+| The Accident | 13.00% | ~14 |
+| The Awakening | 13.00% | ~14 |
 | Love | 12.00% | ~13 |
-| The Accident | 12.00% | ~13 |
-| The Awakening | 12.00% | ~13 |
 | Here we go again! | 11.00% | ~12 |
-| Flight of the Bumblebee | 10.00% | ~11 |
+| Flight of the Bumblebee | 11.00% | ~12 |
 | Milk and Alcohol | 8.00% | ~9 |
-| Under the Bridge | 7.00% | ~7 |
-| As the Crow Flies | 7.00% | ~7 |
+| As the Crow Flies | 7.00% | ~8 |
 | Gasoline | 6.00% | ~6 |
 | On the Road Again | 6.00% | ~6 |
+| Under the Bridge | 6.00% | ~6 |
 | Unintended | 6.00% | ~6 |
 | Hospital Flowers | 5.00% | ~5 |
 | Riders on the Storm | 4.00% | ~4 |
@@ -59,7 +59,7 @@
 | Pinewood | 0.90% | ~1 |
 | Love is All | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 439)  
+Progressed: 108 (Ranked 438)  
 Completed: 1 (0.93%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 1 (0.93%) (Ranked 172)
 | 2023-10-26 | 105 | 1 |
 | 2023-11-18 | 106 | 1 |
 | 2023-12-08 | 107 | 1 |
+| 2023-12-10 | 108 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

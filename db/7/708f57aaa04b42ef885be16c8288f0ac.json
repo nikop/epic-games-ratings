@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -207,9 +207,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7656,
+  "EOS_Progressed": 7658,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6087,6 +6087,11 @@
       "Time": "2023-12-10T12:09:56.4545898+00:00",
       "NumProgressed": 7656,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-10T13:13:09.248136+00:00",
+      "NumProgressed": 7658,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6107,7 +6112,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "BeLikeWater",
@@ -6171,7 +6176,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "FuneralForTheDeath",
@@ -6251,7 +6256,7 @@
       "Name": "No More Totems",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "NotLikeTheOthers",
@@ -6323,7 +6328,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -6370,7 +6375,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7656,
+      "Progressed": 7658,
       "Completed": 15
     }
   ],
@@ -6378,8 +6383,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-09T07:57:44.7970456+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:09:56.4545894+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:13:09.2481355+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:58:17.510062+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:09:56.4546374+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:00:57.48325+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:13:09.2481829+00:00"
 }

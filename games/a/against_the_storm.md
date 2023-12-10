@@ -17,23 +17,23 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 1.00% | ~178 |
 | Taking Action | 1.00% | ~178 |
 | No Deaths | 1.00% | ~178 |
+| First Real Expedition | 0.90% | ~161 |
 | Overcoming Difficulty | 0.90% | ~161 |
-| First Real Expedition | 0.80% | ~143 |
 | Coral Forest | 0.80% | ~143 |
 | The Scarlet Orchard | 0.80% | ~143 |
 | Fertile Meadows | 0.70% | ~125 |
-| Royal Outpost | 0.70% | ~125 |
+| Royal Outpost | 0.60% | ~107 |
 | Lost Colonies | 0.60% | ~107 |
 | Watchtower | 0.60% | ~107 |
 | Homesick | 0.50% | ~89 |
 | Bandit Camp | 0.50% | ~89 |
+| A Real Challenge | 0.50% | ~89 |
 | Ruined Armory | 0.40% | ~71 |
 | Barren Lands | 0.40% | ~71 |
 | Levitating Monument | 0.40% | ~71 |
 | Monastery of the Holy Flame | 0.40% | ~71 |
 | Corrosive Torrent | 0.40% | ~71 |
 | Cursed Lands | 0.40% | ~71 |
-| A Real Challenge | 0.40% | ~71 |
 | Trade Baron | 0.40% | ~71 |
 | Against All Odds | 0.30% | ~54 |
 | Ancient Battleground | 0.30% | ~54 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,840 (Ranked 147)  
+Progressed: 17,848 (Ranked 147)  
 Completed: 42 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 42 (0.24%) (Ranked 251)
 | 2023-12-07 | 17,654 | 48 |
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
-| 2023-12-10 | 17,840 | 43 |
+| 2023-12-10 | 17,848 | 43 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,250 (Ranked 174)  

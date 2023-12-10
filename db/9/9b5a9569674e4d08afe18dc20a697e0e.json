@@ -4,8 +4,8 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 138,
+  "EOS_Progressed": 139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -544,6 +544,11 @@
       "Time": "2023-12-10T00:07:47.8136388+00:00",
       "NumProgressed": 138,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T13:10:05.8251239+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -556,7 +561,7 @@
       "Name": "Adventure awaits",
       "Percentage": 80,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "BARON",
@@ -604,7 +609,7 @@
       "Name": "How to train your...",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "DRESSED",
@@ -700,7 +705,7 @@
       "Name": "The mines",
       "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "MIRROR",
@@ -714,9 +719,9 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "MOUNTAINEER",
@@ -732,7 +737,7 @@
       "Name": "The prison",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "RECOVERING",
@@ -748,7 +753,7 @@
       "Name": "Savior of the people",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SKILLED",
@@ -770,9 +775,9 @@
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 65
     },
     {
       "ID": "WASHING",
@@ -788,7 +793,7 @@
       "Name": "Resurrection",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "WYVERN",
@@ -796,21 +801,21 @@
       "Name": "Winged creature",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 138,
+      "Progressed": 139,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:06:15.7278239+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:10:05.8251235+00:00",
   "LastUpdate_AppInfo": "2023-12-07T01:44:48.8320018+00:00",
-  "LastUpdate_Ratings": "2023-12-10T12:00:33.3694612+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:06:15.7278453+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:04:06.0378462+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:10:05.8251449+00:00"
 }

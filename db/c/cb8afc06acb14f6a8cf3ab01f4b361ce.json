@@ -2,7 +2,7 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 922,
+  "Ranking_Rating": 923,
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 52,
@@ -395,9 +395,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 326811,
+  "EOS_Progressed": 326850,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3677,
+  "EOS_NewPlayers": 3659,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9075,6 +9075,11 @@
       "Time": "2023-12-10T12:05:09.1240848+00:00",
       "NumProgressed": 326811,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-10T13:08:38.2028708+00:00",
+      "NumProgressed": 326850,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9087,7 +9092,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9804
+      "UsersEstimate": 9806
     },
     {
       "ID": "S02_BRDA",
@@ -9095,7 +9100,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6536
+      "UsersEstimate": 6537
     },
     {
       "ID": "S03_OTWA",
@@ -9159,7 +9164,7 @@
       "Name": "Counting on you",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "S11_MMR6",
@@ -9167,7 +9172,7 @@
       "Name": "This is the end",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "S12_ALL",
@@ -9175,7 +9180,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "S13_ALL_HARD",
@@ -9223,7 +9228,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9804
+      "UsersEstimate": 9806
     },
     {
       "ID": "S19_CHALLENGES",
@@ -9391,7 +9396,7 @@
       "Name": "I took a risk",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "S40_BONUS",
@@ -9406,7 +9411,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 326811,
+      "Progressed": 326850,
       "Completed": 5
     }
   ],
@@ -9414,8 +9419,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-06T06:00:13.3250354+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:05:09.1240845+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:08:38.2028705+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:59:26.588523+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:05:09.1241548+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:02:34.2001479+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:08:38.2029251+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 823,
+  "Ranking_Rating": 824,
   "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -348,7 +348,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 206803,
+  "EOS_Progressed": 206809,
   "EOS_Completed": 540,
   "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 3,
@@ -25363,6 +25363,11 @@
       "Time": "2023-12-10T12:04:36.126347+00:00",
       "NumProgressed": 206803,
       "NumCompleted": 540
+    },
+    {
+      "Time": "2023-12-10T13:07:55.0858081+00:00",
+      "NumProgressed": 206809,
+      "NumCompleted": 540
     }
   ],
   "TotalAchievements": 29,
@@ -25398,7 +25403,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 194395
+      "UsersEstimate": 194400
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -25510,7 +25515,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12408
+      "UsersEstimate": 12409
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -25558,7 +25563,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20680
+      "UsersEstimate": 20681
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -25574,7 +25579,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16544
+      "UsersEstimate": 16545
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -25605,7 +25610,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 206803,
+      "Progressed": 206809,
       "Completed": 540
     }
   ],
@@ -25613,8 +25618,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-09T14:02:31.6226625+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:04:36.1263467+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:07:55.0858077+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:21.2833289+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:57:27.8285237+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:04:36.1264794+00:00"
+  "LastUpdate_Ratings": "2023-12-10T12:59:49.32284+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:07:55.0859568+00:00"
 }

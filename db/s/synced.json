@@ -2,12 +2,12 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 951,
+  "Ranking_Rating": 952,
   "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1257,9 +1257,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 68372,
+  "EOS_Progressed": 68374,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12062,6 +12062,11 @@
       "Time": "2023-12-10T12:03:54.4895554+00:00",
       "NumProgressed": 68372,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-10T13:07:01.4905575+00:00",
+      "NumProgressed": 68374,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -12074,7 +12079,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 24614
+      "UsersEstimate": 24615
     },
     {
       "ID": "10",
@@ -12146,7 +12151,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8888
+      "UsersEstimate": 8889
     },
     {
       "ID": "4",
@@ -12201,7 +12206,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 68372,
+      "Progressed": 68374,
       "Completed": 39
     }
   ],
@@ -12209,8 +12214,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-12-09T05:59:31.1700998+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:03:54.4895551+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:07:01.4905571+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:19.3364255+00:00",
-  "LastUpdate_Ratings": "2023-12-10T12:00:46.5286721+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:03:54.4896107+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:04:24.7939987+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:07:01.4906412+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_Rating": 257,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -813,7 +813,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6090,
+  "EOS_Progressed": 6091,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
@@ -7108,6 +7108,11 @@
       "Time": "2023-12-10T12:06:55.8536148+00:00",
       "NumProgressed": 6090,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-10T13:10:59.7483311+00:00",
+      "NumProgressed": 6091,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -7120,7 +7125,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "achievement_0002",
@@ -7160,7 +7165,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4811
+      "UsersEstimate": 4812
     },
     {
       "ID": "achievement_0007",
@@ -7168,7 +7173,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5725
+      "UsersEstimate": 5726
     },
     {
       "ID": "achievement_0008",
@@ -7176,7 +7181,7 @@
       "Name": "On the Top Step",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 5420
+      "UsersEstimate": 5421
     },
     {
       "ID": "achievement_0009",
@@ -7216,7 +7221,7 @@
       "Name": "Oil and Water",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "achievement_0014",
@@ -7248,7 +7253,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "achievement_0018",
@@ -7280,7 +7285,7 @@
       "Name": "Team Orders",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4629
     },
     {
       "ID": "achievement_0022",
@@ -7304,7 +7309,7 @@
       "Name": "Loyal Bond",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "achievement_0025",
@@ -7376,7 +7381,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 3410
+      "UsersEstimate": 3411
     },
     {
       "ID": "achievement_0034",
@@ -7456,7 +7461,7 @@
       "Name": "Familiar Faces",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2984
+      "UsersEstimate": 2985
     },
     {
       "ID": "achievement_0044",
@@ -7480,7 +7485,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "achievement_0047",
@@ -7488,7 +7493,7 @@
       "Name": "Peak Performance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "achievement_0048",
@@ -7511,7 +7516,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 6090,
+      "Progressed": 6091,
       "Completed": 0
     }
   ],
@@ -7519,8 +7524,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-12-10T10:02:29.8343312+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:06:55.8536144+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:10:59.7483307+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:20.5741991+00:00",
-  "LastUpdate_Ratings": "2023-12-10T12:00:56.5206284+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:06:55.8536796+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:05:28.8594684+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:10:59.7483958+00:00"
 }

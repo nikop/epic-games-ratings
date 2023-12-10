@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 88.00% | ~475 |
 | For the Horde! | 83.00% | ~448 |
 | Hammer Time, Round Two | 81.00% | ~437 |
-| The Hellwoods | 76.00% | ~410 |
+| The Hellwoods | 77.00% | ~416 |
 | Experienced Thalya | 73.00% | ~394 |
 | The Plains of Strothalm | 72.00% | ~389 |
 | Bad Elves Go Everywhere | 70.00% | ~378 |
@@ -16,7 +16,7 @@
 | Heroes’ Gorge | 65.00% | ~351 |
 | Master of Magic | 64.00% | ~346 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~340 |
-| Magic Accidents | 59.00% | ~319 |
+| Magic Accidents | 60.00% | ~324 |
 | The Ascent | 58.00% | ~313 |
 | It's Warm and Cozy at Home | 58.00% | ~313 |
 | Trap Master | 55.00% | ~297 |
@@ -35,7 +35,7 @@
 | Unstoppable Horde | 34.00% | ~184 |
 | The Duel | 34.00% | ~184 |
 | Master of the Undead | 33.00% | ~178 |
-| If Looks Could Kill | 30.00% | ~162 |
+| If Looks Could Kill | 31.00% | ~167 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~157 |
 | Forbidden Knowledge | 28.00% | ~151 |
 | The Finitude Drill | 28.00% | ~151 |
@@ -56,8 +56,8 @@
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~86 |
 | To Infinity And Beyond! | 16.00% | ~86 |
 | To the Max! | 15.00% | ~81 |
+| Mirror, Mirror | 14.00% | ~76 |
 | Evilification | 14.00% | ~76 |
-| Mirror, Mirror | 13.00% | ~70 |
 | Untouchable | 13.00% | ~70 |
 | Laser Eyes Are So Useless | 11.00% | ~59 |
 | Heal Heal Blessing | 11.00% | ~59 |

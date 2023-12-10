@@ -1,16 +1,16 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.68 (Ranked 257)  
+Rating: 4.68 (Ranked 258)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,725 |
-| On the Top Step | 89.00% | ~5,420 |
-| Setting up for Success | 79.00% | ~4,811 |
-| Team Orders | 76.00% | ~4,628 |
-| Engineer | 56.00% | ~3,410 |
-| Familiar Faces | 49.00% | ~2,984 |
+| Getting on the Step | 94.00% | ~5,726 |
+| On the Top Step | 89.00% | ~5,421 |
+| Setting up for Success | 79.00% | ~4,812 |
+| Team Orders | 76.00% | ~4,629 |
+| Engineer | 56.00% | ~3,411 |
+| Familiar Faces | 49.00% | ~2,985 |
 | Sharing the Love | 44.00% | ~2,680 |
 | Going the Extra Mile | 43.00% | ~2,619 |
 | Hitting a Season | 42.00% | ~2,558 |
@@ -18,8 +18,8 @@ Rating: 4.68 (Ranked 257)
 | Challenge Yourself | 34.00% | ~2,071 |
 | Making History | 32.00% | ~1,949 |
 | Network Success | 29.00% | ~1,766 |
-| Writing a new Chapter | 26.00% | ~1,583 |
-| Spring Cleaning | 25.00% | ~1,522 |
+| Writing a new Chapter | 26.00% | ~1,584 |
+| Spring Cleaning | 25.00% | ~1,523 |
 | Reduce | 21.00% | ~1,279 |
 | Ups and Downs | 21.00% | ~1,279 |
 | Crucial Combo | 20.00% | ~1,218 |
@@ -27,8 +27,8 @@ Rating: 4.68 (Ranked 257)
 | Proving Them Wrong | 18.00% | ~1,096 |
 | Gathering Dust | 17.00% | ~1,035 |
 | One for the Book | 17.00% | ~1,035 |
-| Oil and Water | 16.00% | ~974 |
-| Hitting a Bullseye | 16.00% | ~974 |
+| Oil and Water | 16.00% | ~975 |
+| Hitting a Bullseye | 16.00% | ~975 |
 | Lightning Round the World | 15.00% | ~914 |
 | Spinning Around | 14.00% | ~853 |
 | Eagle Eye | 13.00% | ~792 |
@@ -41,8 +41,8 @@ Rating: 4.68 (Ranked 257)
 | For all Those Back at the Factory | 7.00% | ~426 |
 | Living up to Expectations | 7.00% | ~426 |
 | Smooth Operator | 7.00% | ~426 |
-| Loyal Bond | 5.00% | ~304 |
-| Peak Performance | 5.00% | ~304 |
+| Loyal Bond | 5.00% | ~305 |
+| Peak Performance | 5.00% | ~305 |
 | Hitting a Century | 4.00% | ~244 |
 | Seasoned Rookie | 3.00% | ~183 |
 | Wait, I know you? | 3.00% | ~183 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 257)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,090 (Ranked 187)  
+Progressed: 6,091 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-07 | 6,064 | 0 |
 | 2023-12-08 | 6,069 | 0 |
 | 2023-12-09 | 6,083 | 0 |
-| 2023-12-10 | 6,090 | 0 |
+| 2023-12-10 | 6,091 | 0 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 466)  
 Sum: 185 (Ranked 414)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1120,9 +1120,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 169
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1271,8 +1271,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:04:43.5615559+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:08:04.8450249+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:02.2533693+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:57:40.2822082+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:04:43.5615738+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:00:06.706704+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:08:04.8450427+00:00"
 }

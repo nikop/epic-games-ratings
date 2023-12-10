@@ -23,6 +23,7 @@
 | Picture of the atoll | 5.00% | ~1 |
 | Picture of the reef | 5.00% | ~1 |
 | Picture of the island | 5.00% | ~1 |
+| Power of the shark | 5.00% | ~1 |
 | The fifth one! | 5.00% | ~1 |
 | Recycling Legend | 0.00% | ~0 |
 | Bay cleanup | 0.00% | ~0 |
@@ -35,7 +36,6 @@
 | Island gardian angel | 0.00% | ~0 |
 | Picture of the creek | 0.00% | ~0 |
 | Well of science | 0.00% | ~0 |
-| Power of the shark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20 (Ranked 573)  
 Completed: 0 (0.00%) (Ranked 371)  

@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 439)  
+Rating: 4.59 (Ranked 440)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,6 +13,7 @@ Number of Ratings: 46  (23.09.2022)
 | Weeper | 0.50% | ~810 |
 | Silenced Whispers | 0.30% | ~486 |
 | Devourer | 0.30% | ~486 |
+| Shapely | 0.20% | ~324 |
 | Scion | 0.20% | ~323 |
 | Harmless | 0.20% | ~324 |
 | Jawcrab | 0.20% | ~324 |
@@ -30,7 +31,6 @@ Number of Ratings: 46  (23.09.2022)
 | Breath | 0.10% | ~162 |
 | Hunt Down | 0.10% | ~162 |
 | Artisan | 0.10% | ~162 |
-| Shapely | 0.10% | ~162 |
 | Glare | 0.10% | ~162 |
 | Host | 0.10% | ~162 |
 | Hush | 0.10% | ~162 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~162 |
 | Intensify | 0.10% | ~162 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 161,958 (Ranked 78)  
-Completed: 277 (0.17%) (Ranked 269)  
+Progressed: 161,970 (Ranked 78)  
+Completed: 278 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,7 +264,7 @@ Completed: 277 (0.17%) (Ranked 269)
 | 2023-12-07 | 161,604 | 237 |
 | 2023-12-08 | 161,741 | 258 |
 | 2023-12-09 | 161,887 | 273 |
-| 2023-12-10 | 161,958 | 277 |
+| 2023-12-10 | 161,970 | 278 |
 ## Awards
 Max (Highly Recommended): 55  (Ranked 424)  
 Sum: 400 (Ranked 346)  

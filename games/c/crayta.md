@@ -1,7 +1,7 @@
 # Crayta
 [Store](https://store.epicgames.com/en-US/p/crayta)  
 [View Rawdata](../../db/c/crayta.json)  
-Rating: 4.19 (Ranked 934)  
+Rating: 4.19 (Ranked 935)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,9 +13,9 @@ Number of Ratings: 94  (23.09.2022)
 | Challenge Apprentice | 5.00% | ~5,494 |
 | Building Block - Bronze | 4.00% | ~4,395 |
 | Variety Player - Silver | 4.00% | ~4,395 |
-| Building Block - Silver | 2.00% | ~2,197 |
-| Challenge Veteran | 2.00% | ~2,197 |
-| Express Yourself - Silver | 2.00% | ~2,197 |
+| Building Block - Silver | 2.00% | ~2,198 |
+| Challenge Veteran | 2.00% | ~2,198 |
+| Express Yourself - Silver | 2.00% | ~2,198 |
 | Building Block - Gold | 1.00% | ~1,099 |
 | Grouping Up - Bronze | 1.00% | ~1,099 |
 | Community Creativity | 1.00% | ~1,099 |
@@ -25,7 +25,7 @@ Number of Ratings: 94  (23.09.2022)
 | Going Public! | 0.60% | ~659 |
 | Variety Player - Gold | 0.50% | ~549 |
 | Challenge Master | 0.50% | ~549 |
-| Getting Equipped! | 0.40% | ~439 |
+| Getting Equipped! | 0.40% | ~440 |
 | Getting Creative - Bronze | 0.30% | ~330 |
 | Reap the Rewards! | 0.30% | ~330 |
 | Grouping Up - Silver | 0.30% | ~330 |
@@ -41,7 +41,7 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~110 |
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,874 (Ranked 86)  
+Progressed: 109,875 (Ranked 86)  
 Completed: 5 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,6 +263,7 @@ Completed: 5 (0.00%) (Ranked 371)
 | 2023-12-07 | 109,867 | 5 |
 | 2023-12-08 | 109,868 | 5 |
 | 2023-12-09 | 109,874 | 5 |
+| 2023-12-10 | 109,875 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 441)  
 Sum: 370 (Ranked 353)  

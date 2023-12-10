@@ -2,13 +2,13 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1060,
+  "Ranking_Rating": 1061,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1998,
+  "EOS_Progressed": 1999,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -7598,6 +7598,11 @@
       "Time": "2023-12-10T12:06:09.2094011+00:00",
       "NumProgressed": 1998,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-10T13:09:57.1577203+00:00",
+      "NumProgressed": 1999,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7785,7 +7790,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7912,7 +7917,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1998,
+      "Progressed": 1999,
       "Completed": 1
     }
   ],
@@ -7920,8 +7925,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-10T12:06:09.2094005+00:00",
+  "LastChanged_Achievements": "2023-12-10T13:09:57.1577199+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-10T11:58:26.6723464+00:00",
-  "LastUpdate_Achievements": "2023-12-10T12:06:09.2094673+00:00"
+  "LastUpdate_Ratings": "2023-12-10T13:01:10.6479209+00:00",
+  "LastUpdate_Achievements": "2023-12-10T13:09:57.1577807+00:00"
 }

@@ -1,12 +1,12 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.43 (Ranked 695)  
+Rating: 4.43 (Ranked 696)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,878 |
-| Confirming Suspicions | 42.00% | ~1,678 |
+| Meeting Resistance | 47.00% | ~1,879 |
+| Confirming Suspicions | 42.00% | ~1,679 |
 | The Kraken Wakes | 37.00% | ~1,479 |
 | It's Starting to Crack | 34.00% | ~1,359 |
 | Lord of War | 31.00% | ~1,239 |
@@ -14,26 +14,26 @@ Rating: 4.43 (Ranked 695)
 | Taking it back | 29.00% | ~1,159 |
 | Resourceful | 27.00% | ~1,079 |
 | Target America | 27.00% | ~1,079 |
-| The Kraken Sleeps | 25.00% | ~999 |
-| As Quiet as a Mouse | 24.00% | ~959 |
-| Liberté | 23.00% | ~919 |
-| Organ Grinder | 23.00% | ~919 |
-| Sharpshooter | 23.00% | ~919 |
-| Gunslinger | 19.00% | ~759 |
-| Explosive Efficiency | 19.00% | ~759 |
-| Climbing the Ladder | 17.00% | ~679 |
-| Just a Flesh Wound | 17.00% | ~679 |
-| Der Geist | 17.00% | ~679 |
-| Close Quarters | 16.00% | ~639 |
-| Snake in the Grass | 16.00% | ~639 |
-| Brains of the Operation | 16.00% | ~639 |
-| No Stone Unturned | 15.00% | ~599 |
-| Skirmisher | 15.00% | ~599 |
-| Die Nussknacker Sweet! | 15.00% | ~599 |
-| Opposing Force | 14.00% | ~559 |
-| Enemy at the Gates | 14.00% | ~559 |
-| Fields of Glory | 14.00% | ~559 |
-| Set Europe Ablaze | 13.00% | ~519 |
+| The Kraken Sleeps | 25.00% | ~1,000 |
+| As Quiet as a Mouse | 24.00% | ~960 |
+| Liberté | 23.00% | ~920 |
+| Organ Grinder | 23.00% | ~920 |
+| Sharpshooter | 23.00% | ~920 |
+| Gunslinger | 19.00% | ~760 |
+| Explosive Efficiency | 19.00% | ~760 |
+| Climbing the Ladder | 17.00% | ~680 |
+| Just a Flesh Wound | 17.00% | ~680 |
+| Der Geist | 17.00% | ~680 |
+| Close Quarters | 16.00% | ~640 |
+| Snake in the Grass | 16.00% | ~640 |
+| Brains of the Operation | 16.00% | ~640 |
+| No Stone Unturned | 15.00% | ~600 |
+| Skirmisher | 15.00% | ~600 |
+| Die Nussknacker Sweet! | 15.00% | ~600 |
+| Opposing Force | 14.00% | ~560 |
+| Enemy at the Gates | 14.00% | ~560 |
+| Fields of Glory | 14.00% | ~560 |
+| Set Europe Ablaze | 13.00% | ~520 |
 | Precision Is Key | 10.00% | ~400 |
 | My Little Friend | 10.00% | ~400 |
 | Rigged to Blow | 9.00% | ~360 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 695)
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,996 (Ranked 199)  
+Progressed: 3,998 (Ranked 199)  
 Completed: 11 (0.28%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,6 +309,7 @@ Completed: 11 (0.28%) (Ranked 245)
 | 2023-12-07 | 3,986 | 11 |
 | 2023-12-08 | 3,991 | 11 |
 | 2023-12-09 | 3,996 | 11 |
+| 2023-12-10 | 3,998 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 508)  
 Sum: 28 (Ranked 523)  
