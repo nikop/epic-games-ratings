@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 588,
+  "EOS_Progressed": 589,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2688,6 +2688,11 @@
       "Time": "2023-12-10T21:06:20.4770956+00:00",
       "NumProgressed": 588,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T09:06:30.9117939+00:00",
+      "NumProgressed": 589,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2705,7 +2710,7 @@
       "ID": "COMPLETE_ALL_HISTORIC BATTLES",
       "SetID": "6kcl14p",
       "Name": "A Student of History",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 80,
       "UsersEstimate": 5
     },
@@ -2721,9 +2726,9 @@
       "ID": "COMPLETE_ANY_HISTORIC BATTLE",
       "SetID": "6kcl14p",
       "Name": "From the Pages of History",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 85,
-      "UsersEstimate": 53
+      "UsersEstimate": 47
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -2763,15 +2768,15 @@
       "Name": "Earth Shattering",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
       "SetID": "6kcl14p",
       "Name": "La Der des Ders",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 106
+      "UsersEstimate": 100
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -2794,7 +2799,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 588,
+      "Progressed": 589,
       "Completed": 0
     }
   ],
@@ -2802,8 +2807,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-11T08:05:35.9785378+00:00",
+  "LastChanged_Achievements": "2023-12-11T09:06:30.9117937+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.7146339+00:00",
-  "LastUpdate_Ratings": "2023-12-11T07:59:55.300843+00:00",
-  "LastUpdate_Achievements": "2023-12-11T08:05:35.9785557+00:00"
+  "LastUpdate_Ratings": "2023-12-11T09:00:49.6380519+00:00",
+  "LastUpdate_Achievements": "2023-12-11T09:06:30.9118144+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 306,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 122,
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 588,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2280,8 +2280,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-11T08:09:01.7522672+00:00",
+  "LastChanged_Achievements": "2023-12-11T09:08:37.0680775+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-11T07:59:51.2860886+00:00",
-  "LastUpdate_Achievements": "2023-12-11T08:09:01.7523033+00:00"
+  "LastUpdate_Ratings": "2023-12-11T09:00:43.8833899+00:00",
+  "LastUpdate_Achievements": "2023-12-11T09:08:37.068112+00:00"
 }

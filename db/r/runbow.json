@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252064,
+  "EOS_Progressed": 252066,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21032,6 +21032,11 @@
       "Time": "2023-12-11T08:09:46.0967755+00:00",
       "NumProgressed": 252064,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-11T09:09:37.5053358+00:00",
+      "NumProgressed": 252066,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21043,7 +21048,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17644
+      "UsersEstimate": 17645
     },
     {
       "ID": "aWinnerIsYou",
@@ -21067,7 +21072,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52933
+      "UsersEstimate": 52934
     },
     {
       "ID": "blotbuster",
@@ -21219,7 +21224,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133594
+      "UsersEstimate": 133595
     },
     {
       "ID": "indegestible",
@@ -21235,7 +21240,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17644
+      "UsersEstimate": 17645
     },
     {
       "ID": "itsTheFall",
@@ -21283,7 +21288,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126032
+      "UsersEstimate": 126033
     },
     {
       "ID": "notScared",
@@ -21315,7 +21320,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17644
+      "UsersEstimate": 17645
     },
     {
       "ID": "rideTheWave",
@@ -21347,7 +21352,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55454
+      "UsersEstimate": 55455
     },
     {
       "ID": "thunderstruck",
@@ -21363,7 +21368,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32768
+      "UsersEstimate": 32769
     },
     {
       "ID": "treeMedalist",
@@ -21403,14 +21408,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40330
+      "UsersEstimate": 40331
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252064,
+      "Progressed": 252066,
       "Completed": 6
     }
   ],
@@ -21418,8 +21423,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-11T08:09:46.096775+00:00",
+  "LastChanged_Achievements": "2023-12-11T09:09:37.5053354+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.3008765+00:00",
-  "LastUpdate_Ratings": "2023-12-11T07:58:03.6665659+00:00",
-  "LastUpdate_Achievements": "2023-12-11T08:09:46.0968772+00:00"
+  "LastUpdate_Ratings": "2023-12-11T08:58:10.2696557+00:00",
+  "LastUpdate_Achievements": "2023-12-11T09:09:37.5054463+00:00"
 }

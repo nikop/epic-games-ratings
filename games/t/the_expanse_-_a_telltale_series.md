@@ -1,11 +1,11 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.52 (Ranked 562)  
+Rating: 4.52 (Ranked 563)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,086 |
+| Oyedang, Kopengs | 13.00% | ~2,087 |
 | The Pit and the Pirates | 8.00% | ~1,284 |
 | Bosmang | 8.00% | ~1,284 |
 | Celebrations are in Order | 8.00% | ~1,284 |
@@ -20,9 +20,9 @@ Rating: 4.52 (Ranked 562)
 | Call it Even | 6.00% | ~963 |
 | Keep Arjun in Check | 6.00% | ~120 |
 | Madame Undersecretary | 6.00% | ~120 |
-| Data Archivist | 5.00% | ~802 |
-| Drug Gifter | 5.00% | ~802 |
-| Heal Thy Medic | 5.00% | ~802 |
+| Data Archivist | 5.00% | ~803 |
+| Drug Gifter | 5.00% | ~803 |
+| Heal Thy Medic | 5.00% | ~803 |
 | Thorston Mayer | 4.00% | ~642 |
 | Khan's Revenge | 4.00% | ~642 |
 | Master Negotiator | 4.00% | ~80 |
@@ -31,17 +31,17 @@ Rating: 4.52 (Ranked 562)
 | Miraculous Maya | 3.00% | ~482 |
 | Data Logger | 2.00% | ~321 |
 | Data Master | 2.00% | ~321 |
-| Brother's Reaper | 1.00% | ~160 |
-| No Belter Left Behind | 1.00% | ~160 |
-| Debris Spree | 1.00% | ~160 |
-| Data Recoverer | 1.00% | ~160 |
+| Brother's Reaper | 1.00% | ~161 |
+| No Belter Left Behind | 1.00% | ~161 |
+| Debris Spree | 1.00% | ~161 |
+| Data Recoverer | 1.00% | ~161 |
 | Urshanabi Hoarder | 0.70% | ~112 |
 | Data Miner | 0.40% | ~64 |
 | Grave Robber | 0.30% | ~48 |
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,050 (Ranked 152)  
+Progressed: 16,051 (Ranked 152)  
 Completed: 42 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 42 (0.26%) (Ranked 249)
 | 2023-12-08 | 15,988 | 41 |
 | 2023-12-09 | 16,020 | 42 |
 | 2023-12-10 | 16,041 | 42 |
-| 2023-12-11 | 16,050 | 42 |
+| 2023-12-11 | 16,051 | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237012,
+  "EOS_Progressed": 237013,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24967,6 +24967,11 @@
       "Time": "2023-12-11T08:08:50.6996722+00:00",
       "NumProgressed": 237012,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-11T09:08:22.0567193+00:00",
+      "NumProgressed": 237013,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -24994,7 +24999,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66363
+      "UsersEstimate": 66364
     },
     {
       "ID": "CENTAUR",
@@ -25066,7 +25071,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47402
+      "UsersEstimate": 47403
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -25194,7 +25199,7 @@
       "Name": "SHOWOFF",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 9480
+      "UsersEstimate": 9481
     },
     {
       "ID": "SNEAKYSNEAKY",
@@ -25249,15 +25254,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237012,
+      "Progressed": 237013,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-11T08:08:50.699672+00:00",
+  "LastChanged_Achievements": "2023-12-11T09:08:22.0567189+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.1696277+00:00",
-  "LastUpdate_Ratings": "2023-12-11T07:58:03.1725248+00:00",
-  "LastUpdate_Achievements": "2023-12-11T08:08:50.6997731+00:00"
+  "LastUpdate_Ratings": "2023-12-11T08:58:09.545949+00:00",
+  "LastUpdate_Achievements": "2023-12-11T09:08:22.0568287+00:00"
 }

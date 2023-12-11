@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7421,11 +7421,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27684,
       "NumberOfAwardsMax": 4871
+    },
+    {
+      "Time": "2023-12-11T09:03:17.189699+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27688,
+      "NumberOfAwardsMax": 4875
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27684,
-  "NumberOfAwardsMax": 4871,
+  "NumberOfAwards": 27688,
+  "NumberOfAwardsMax": 4875,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7444,7 +7450,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4871
+      "Count": 4875
     },
     {
       "Text": "This game has Easy Combat",
@@ -7477,9 +7483,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144695,
+  "EOS_Progressed": 144702,
   "EOS_Completed": 293,
-  "EOS_NewPlayers": 939,
+  "EOS_NewPlayers": 942,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -31932,6 +31938,11 @@
       "Time": "2023-12-11T08:05:56.0479078+00:00",
       "NumProgressed": 144695,
       "NumCompleted": 293
+    },
+    {
+      "Time": "2023-12-11T09:06:58.2226396+00:00",
+      "NumProgressed": 144702,
+      "NumCompleted": 293
     }
   ],
   "TotalAchievements": 112,
@@ -32167,7 +32178,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "commonres01",
@@ -32287,7 +32298,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "energy01",
@@ -32511,7 +32522,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "legenchant01",
@@ -32838,15 +32849,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144695,
+      "Progressed": 144702,
       "Completed": 293
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-11T02:27:06.8114217+00:00",
-  "LastChanged_Achievements": "2023-12-11T08:05:56.0479072+00:00",
+  "LastChanged": "2023-12-11T09:03:17.1896989+00:00",
+  "LastChanged_Achievements": "2023-12-11T09:06:58.2226393+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-11T08:03:17.0801652+00:00",
-  "LastUpdate_Achievements": "2023-12-11T08:05:56.0481199+00:00"
+  "LastUpdate_Ratings": "2023-12-11T09:03:17.1896994+00:00",
+  "LastUpdate_Achievements": "2023-12-11T09:06:58.2228368+00:00"
 }

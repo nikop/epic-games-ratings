@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.21,
+  "Rating": 3.23,
   "RatingHistory": [
     {
       "Time": "2023-10-02T15:57:56.3745228+00:00",
@@ -75,6 +75,12 @@
     {
       "Time": "2023-11-21T23:00:15.9826993+00:00",
       "Rating": 3.21,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-11T08:59:11.563945+00:00",
+      "Rating": 3.23,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -7719,9 +7725,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 120
     },
     {
       "ID": "objective_headquarters_10",
@@ -7959,9 +7965,9 @@
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-11T08:06:13.9884161+00:00",
+  "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
+  "LastChanged_Achievements": "2023-12-11T09:07:22.4994144+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-11T07:58:46.0017779+00:00",
-  "LastUpdate_Achievements": "2023-12-11T08:06:13.9884616+00:00"
+  "LastUpdate_Ratings": "2023-12-11T08:59:11.5639454+00:00",
+  "LastUpdate_Achievements": "2023-12-11T09:07:22.4994579+00:00"
 }

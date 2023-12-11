@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~21,743 |
-| It wakes | 2.00% | ~21,743 |
-| Not half bad | 2.00% | ~21,743 |
-| Skillful | 2.00% | ~21,743 |
-| Make Some Noise | 2.00% | ~21,743 |
-| The Grand Sacrifice | 1.00% | ~10,871 |
-| Backdoor Escape | 1.00% | ~10,871 |
-| No one left behind | 1.00% | ~10,871 |
-| Medic | 1.00% | ~10,871 |
-| Handyman | 1.00% | ~10,871 |
-| Perfect Escape | 1.00% | ~10,871 |
-| Bloody Millionaire | 1.00% | ~10,871 |
-| Apt Survivor | 1.00% | ~10,871 |
-| Survival Treasures | 1.00% | ~10,871 |
-| I | 1.00% | ~10,871 |
-| Sorted | 1.00% | ~10,871 |
-| Healthy Obsession | 1.00% | ~10,871 |
-| Resurgence | 1.00% | ~10,871 |
-| Preemptive Strike | 1.00% | ~10,871 |
-| Humanitarian | 1.00% | ~10,871 |
-| Agonizing Escape | 0.90% | ~9,784 |
-| Perfect Killing | 0.90% | ~9,784 |
-| Risk it all | 0.90% | ~9,784 |
-| II | 0.90% | ~9,784 |
-| Engineer | 0.90% | ~9,784 |
-| Close Shave | 0.90% | ~9,784 |
-| I've got your back | 0.80% | ~8,697 |
-| Apt Killer | 0.80% | ~8,697 |
-| Wounded Healer | 0.80% | ~8,697 |
+| Zealous | 2.00% | ~21,744 |
+| It wakes | 2.00% | ~21,744 |
+| Not half bad | 2.00% | ~21,744 |
+| Skillful | 2.00% | ~21,744 |
+| Make Some Noise | 2.00% | ~21,744 |
+| The Grand Sacrifice | 1.00% | ~10,872 |
+| Backdoor Escape | 1.00% | ~10,872 |
+| No one left behind | 1.00% | ~10,872 |
+| Medic | 1.00% | ~10,872 |
+| Handyman | 1.00% | ~10,872 |
+| Perfect Escape | 1.00% | ~10,872 |
+| Bloody Millionaire | 1.00% | ~10,872 |
+| Apt Survivor | 1.00% | ~10,872 |
+| Survival Treasures | 1.00% | ~10,872 |
+| I | 1.00% | ~10,872 |
+| Sorted | 1.00% | ~10,872 |
+| Healthy Obsession | 1.00% | ~10,872 |
+| Resurgence | 1.00% | ~10,872 |
+| Preemptive Strike | 1.00% | ~10,872 |
+| Humanitarian | 1.00% | ~10,872 |
+| Agonizing Escape | 0.90% | ~9,785 |
+| Perfect Killing | 0.90% | ~9,785 |
+| Risk it all | 0.90% | ~9,785 |
+| II | 0.90% | ~9,785 |
+| Engineer | 0.90% | ~9,785 |
+| Close Shave | 0.90% | ~9,785 |
+| I've got your back | 0.80% | ~8,698 |
+| Apt Killer | 0.80% | ~8,698 |
+| Wounded Healer | 0.80% | ~8,698 |
 | Vulture | 0.70% | ~7,610 |
 | III | 0.70% | ~7,610 |
 | Lifting The Fog | 0.70% | ~7,610 |
@@ -77,21 +77,21 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.40% | ~4,349 |
 | MU/TH/UR Dearest | 0.40% | ~4,349 |
 | Outta Nowhere | 0.40% | ~4,349 |
-| A bite for the Entity | 0.30% | ~3,261 |
-| Jump Scares | 0.30% | ~3,261 |
-| Hemophobia | 0.30% | ~3,261 |
-| Deep Cleansing | 0.30% | ~3,261 |
-| Serial Killer | 0.30% | ~3,261 |
-| Game Over | 0.30% | ~3,261 |
-| Party Crasher | 0.30% | ~3,261 |
-| Devoted Gatekeeping | 0.30% | ~3,261 |
-| Shrine Apparatus | 0.30% | ~3,261 |
-| Broken Bodies | 0.30% | ~3,261 |
-| Selfless Survival | 0.30% | ~3,261 |
-| End of Days | 0.30% | ~3,261 |
-| Insult and Injury | 0.30% | ~3,261 |
-| High Speed Pursuit | 0.30% | ~3,261 |
-| Rebuilding The Borgo | 0.30% | ~3,261 |
+| A bite for the Entity | 0.30% | ~3,262 |
+| Jump Scares | 0.30% | ~3,262 |
+| Hemophobia | 0.30% | ~3,262 |
+| Deep Cleansing | 0.30% | ~3,262 |
+| Serial Killer | 0.30% | ~3,262 |
+| Game Over | 0.30% | ~3,262 |
+| Party Crasher | 0.30% | ~3,262 |
+| Devoted Gatekeeping | 0.30% | ~3,262 |
+| Shrine Apparatus | 0.30% | ~3,262 |
+| Broken Bodies | 0.30% | ~3,262 |
+| Selfless Survival | 0.30% | ~3,262 |
+| End of Days | 0.30% | ~3,262 |
+| Insult and Injury | 0.30% | ~3,262 |
+| High Speed Pursuit | 0.30% | ~3,262 |
+| Rebuilding The Borgo | 0.30% | ~3,262 |
 | Blood in your mouth | 0.20% | ~2,174 |
 | Texas BBQ | 0.20% | ~2,174 |
 | Looter | 0.20% | ~2,174 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,087 |
 | Adept Good Guy | 0.10% | ~1,087 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,087,148 (Ranked 12)  
+Progressed: 1,087,209 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -474,21 +474,21 @@ Completed: 62 (0.01%) (Ranked 348)
 | 2023-12-08 | 1,080,483 | 61 |
 | 2023-12-09 | 1,083,532 | 61 |
 | 2023-12-10 | 1,086,485 | 62 |
-| 2023-12-11 | 1,087,148 | 62 |
+| 2023-12-11 | 1,087,209 | 62 |
 ## Awards
 Max (Diverse Characters): 37,692  (Ranked 15)  
-Sum: 285,591 (Ranked 12)  
+Sum: 285,669 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37,692 |
 | This game is Highly Recommended | 32,697 |
 | This game has Amazing Characters | 32,203 |
-| This game has Competitive Players | 31,968 |
+| This game has Competitive Players | 32,004 |
 | This game is Extremely Fun | 31,651 |
 | This game has Challenging Combat | 31,551 |
 | This game has Quickly Understood Controls | 30,810 |
-| This game has Amazing Storytelling | 29,130 |
+| This game has Amazing Storytelling | 29,172 |
 | This game has a Competitive Community | 27,889 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -816,4 +816,4 @@ Diff (max vs sum): 3
 | 2023-12-08 | 4.51 | - | 37,508 | 284,549 |
 | 2023-12-09 | 4.51 | - | 37,578 | 285,006 |
 | 2023-12-10 | 4.51 | - | 37,638 | 285,419 |
-| 2023-12-11 | 4.51 | - | 37,692 | 285,591 |
+| 2023-12-11 | 4.51 | - | 37,692 | 285,669 |

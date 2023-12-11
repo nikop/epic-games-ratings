@@ -6,7 +6,7 @@ Rating: 4.41 (Ranked 726)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sector 1 | 26.00% | ~6,391 |
-| Sector 2 | 23.00% | ~5,653 |
+| Sector 2 | 23.00% | ~5,654 |
 | Crush That Cube! | 20.00% | ~4,916 |
 | Sector 3 | 20.00% | ~4,916 |
 | Sector 4 | 16.00% | ~3,933 |
@@ -30,7 +30,7 @@ Rating: 4.41 (Ranked 726)
 | Master Of The Collectables | 1.00% | ~246 |
 | Maxed Out | 1.00% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,579 (Ranked 137)  
+Progressed: 24,582 (Ranked 137)  
 Completed: 148 (0.60%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 148 (0.60%) (Ranked 193)
 | 2023-12-08 | 24,198 | 145 |
 | 2023-12-09 | 24,371 | 146 |
 | 2023-12-10 | 24,541 | 147 |
-| 2023-12-11 | 24,579 | 148 |
+| 2023-12-11 | 24,582 | 148 |
 ## Awards
 Max (Challenging Puzzles): 22  (Ranked 542)  
 Sum: 22 (Ranked 544)  

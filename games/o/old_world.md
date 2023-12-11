@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Play a Single Player Game | 8.00% | ~1,258 |
 | Explorer | 7.00% | ~1,100 |
 | Settler | 7.00% | ~1,100 |
-| Play a Single Player Game | 7.00% | ~1,100 |
 | Friendly Family | 6.00% | ~943 |
 | Able | 5.00% | ~786 |
 | Architect | 5.00% | ~786 |

@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 598)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,894 |
+| Stylish | 9.00% | ~2,895 |
 | Advancement | 7.00% | ~2,251 |
 | Meticulously Efficient | 7.00% | ~2,251 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,608 |
@@ -14,12 +14,12 @@ Rating: 4.50 (Ranked 598)
 | Solo Capture | 5.00% | ~1,608 |
 | Swift Rift Removers | 5.00% | ~1,608 |
 | Teamwork | 5.00% | ~1,608 |
-| Clutch Capture | 4.00% | ~1,286 |
-| Cultured | 4.00% | ~1,286 |
-| Daily Dose | 4.00% | ~1,286 |
-| There you are! | 4.00% | ~1,286 |
-| Vaporous Expansion | 4.00% | ~1,286 |
-| Whoopsie | 4.00% | ~1,286 |
+| Clutch Capture | 4.00% | ~1,287 |
+| Cultured | 4.00% | ~1,287 |
+| Daily Dose | 4.00% | ~1,287 |
+| There you are! | 4.00% | ~1,287 |
+| Vaporous Expansion | 4.00% | ~1,287 |
+| Whoopsie | 4.00% | ~1,287 |
 | Animated | 3.00% | ~965 |
 | We have the best insurance | 3.00% | ~965 |
 | Ectoplasmic Entity | 3.00% | ~965 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 598)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,161 (Ranked 125)  
+Progressed: 32,163 (Ranked 125)  
 Completed: 69 (0.21%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 69 (0.21%) (Ranked 256)
 | 2023-12-08 | 32,068 | 69 |
 | 2023-12-09 | 32,106 | 69 |
 | 2023-12-10 | 32,151 | 69 |
-| 2023-12-11 | 32,161 | 69 |
+| 2023-12-11 | 32,163 | 69 |
 ## Awards
 Max (Great for Beginners): 321  (Ranked 251)  
 Sum: 2,895 (Ranked 180)  

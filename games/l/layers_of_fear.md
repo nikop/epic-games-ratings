@@ -14,29 +14,29 @@
 | Refuse to look | 39.00% | ~42 |
 | Sign of weakness | 39.00% | ~42 |
 | Finished it | 33.00% | ~36 |
-| Face your fears | 30.00% | ~32 |
+| Face your fears | 31.00% | ~33 |
 | Whispers long forgotten | 18.00% | ~19 |
 | Playtime | 15.00% | ~16 |
 | Tough conversation | 15.00% | ~16 |
+| Debut | 14.00% | ~15 |
+| The art of movement | 14.00% | ~15 |
 | The tragedy unfolds | 14.00% | ~15 |
-| Debut | 13.00% | ~14 |
+| A Slice of Life | 13.00% | ~14 |
 | First steps | 13.00% | ~14 |
-| The art of movement | 13.00% | ~14 |
 | A new way | 12.00% | ~13 |
-| A Slice of Life | 12.00% | ~13 |
+| Sound Bite | 12.00% | ~13 |
+| Another perspective | 11.00% | ~12 |
 | Breaking free | 11.00% | ~12 |
-| Sound Bite | 11.00% | ~12 |
+| Lights! Camera! Action! | 11.00% | ~12 |
 | True Reflection | 11.00% | ~12 |
-| Another perspective | 10.00% | ~11 |
-| Lights! Camera! Action! | 10.00% | ~11 |
 | Casting Finished | 8.00% | ~9 |
 | Heavy Burden | 8.00% | ~9 |
+| Fisherman | 7.00% | ~8 |
 | We Are Not Alone | 6.00% | ~6 |
-| Fisherman | 6.00% | ~6 |
+| The Perfect Storm | 5.00% | ~5 |
 | Something to think about | 4.00% | ~4 |
 | I remember It Like Was Yesterday | 4.00% | ~4 |
 | Body of Work | 4.00% | ~4 |
-| The Perfect Storm | 4.00% | ~4 |
 | Instinct of self-preservation | 4.00% | ~4 |
 | Dark correspondence | 3.00% | ~3 |
 | It was worth a try | 3.00% | ~3 |
@@ -46,7 +46,7 @@
 | Se7en Seas | 3.00% | ~3 |
 | A Mosaic of Misery | 3.00% | ~3 |
 | The Big Picture | 2.00% | ~2 |
-| In One Take | 0.90% | ~1 |
+| In One Take | 2.00% | ~2 |
 | Rocket Science | 0.90% | ~1 |
 | The Tree and the Apple | 0.90% | ~1 |
 | Sword of the Serpent | 0.90% | ~1 |

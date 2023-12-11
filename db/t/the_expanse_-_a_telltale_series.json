@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 562,
+  "Ranking_Rating": 563,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16050,
+  "EOS_Progressed": 16051,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13571,6 +13571,11 @@
       "Time": "2023-12-11T08:05:11.8647909+00:00",
       "NumProgressed": 16050,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-11T09:05:58.0585588+00:00",
+      "NumProgressed": 16051,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13607,7 +13612,7 @@
       "Name": "Data Archivist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "13",
@@ -13615,7 +13620,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2087
     },
     {
       "ID": "14",
@@ -13639,7 +13644,7 @@
       "Name": "Drug Gifter",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "17",
@@ -13695,7 +13700,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "23",
@@ -13703,7 +13708,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "24",
@@ -13767,7 +13772,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "4",
@@ -13775,7 +13780,7 @@
       "Name": "Debris Spree",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "5",
@@ -13807,7 +13812,7 @@
       "Name": "Data Recoverer",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "9",
@@ -13862,13 +13867,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16050,
+      "Progressed": 16051,
       "Completed": 42
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2004,
+      "Progressed": 2005,
       "Completed": 862
     }
   ],
@@ -13876,8 +13881,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-10T17:59:24.4089771+00:00",
-  "LastChanged_Achievements": "2023-12-11T08:05:11.8647906+00:00",
+  "LastChanged_Achievements": "2023-12-11T09:05:58.0585585+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-11T07:59:37.5200006+00:00",
-  "LastUpdate_Achievements": "2023-12-11T08:05:11.8648824+00:00"
+  "LastUpdate_Ratings": "2023-12-11T09:00:24.8086788+00:00",
+  "LastUpdate_Achievements": "2023-12-11T09:05:58.0586252+00:00"
 }

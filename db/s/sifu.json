@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8113,10 +8113,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12112,
       "NumberOfAwardsMax": 6901
+    },
+    {
+      "Time": "2023-12-11T09:03:03.8102772+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12114,
+      "NumberOfAwardsMax": 6901
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12112,
+  "NumberOfAwards": 12114,
   "NumberOfAwardsMax": 6901,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8166,7 +8172,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 614
+      "Count": 616
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8195,7 +8201,7 @@
   ],
   "EOS_Progressed": 717957,
   "EOS_Completed": 12952,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -29459,7 +29465,7 @@
       "ID": "14c2oii",
       "IsBase": false,
       "Progressed": 27258,
-      "Completed": 10766
+      "Completed": 10767
     },
     {
       "ID": "adcm20g",
@@ -29470,9 +29476,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-11T06:03:26.1449475+00:00",
-  "LastChanged_Achievements": "2023-12-11T08:06:34.9969548+00:00",
+  "LastChanged": "2023-12-11T09:03:03.810277+00:00",
+  "LastChanged_Achievements": "2023-12-11T09:07:49.0772981+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.3418066+00:00",
-  "LastUpdate_Ratings": "2023-12-11T08:03:07.9349177+00:00",
-  "LastUpdate_Achievements": "2023-12-11T08:06:34.9970648+00:00"
+  "LastUpdate_Ratings": "2023-12-11T09:03:03.8102777+00:00",
+  "LastUpdate_Achievements": "2023-12-11T09:07:49.0774438+00:00"
 }

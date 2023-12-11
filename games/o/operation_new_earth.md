@@ -1,7 +1,7 @@
 # Operation New Earth
 [Store](https://store.epicgames.com/en-US/p/operation-new-earth-1d27c4)  
 [View Rawdata](../../db/o/operation_new_earth.json)  
-Rating: 3.21 (Ranked 1,062)  
+Rating: 3.23 (Ranked 1,062)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,11 +22,11 @@ Rating: 3.21 (Ranked 1,062)
 | Captain | 8.00% | ~161 |
 | Factory Expansion | 8.00% | ~161 |
 | Exterminator | 7.00% | ~141 |
+| Silver Achiever | 6.00% | ~120 |
 | Moving On Up | 6.00% | ~120 |
 | Brothers in Arms | 6.00% | ~120 |
 | Know The Enemy | 5.00% | ~100 |
 | Player Betrayer | 5.00% | ~100 |
-| Silver Achiever | 5.00% | ~100 |
 | Major | 5.00% | ~100 |
 | Gold Achiever | 4.00% | ~80 |
 | Resourceful | 4.00% | ~80 |
@@ -243,3 +243,4 @@ Completed: 1 (0.05%) (Ranked 322)
 | 2023-11-15 | 3.35 | 0 | 0 |
 | 2023-11-19 | 3.26 | 0 | 0 |
 | 2023-11-21 | 3.21 | 0 | 0 |
+| 2023-12-11 | 3.23 | 0 | 0 |

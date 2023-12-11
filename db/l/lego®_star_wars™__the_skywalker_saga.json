@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3779,9 +3779,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 52068,
+  "EOS_Progressed": 52069,
   "EOS_Completed": 251,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -14384,6 +14384,11 @@
       "Time": "2023-12-11T05:05:32.2318689+00:00",
       "NumProgressed": 52068,
       "NumCompleted": 251
+    },
+    {
+      "Time": "2023-12-11T09:06:42.7983092+00:00",
+      "NumProgressed": 52069,
+      "NumCompleted": 251
     }
   ],
   "TotalAchievements": 45,
@@ -14419,7 +14424,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 41134
+      "UsersEstimate": 41135
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -14507,7 +14512,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30720
+      "UsersEstimate": 30721
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -14555,7 +14560,7 @@
       "Name": "The Force Awakens",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 14058
+      "UsersEstimate": 14059
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -14635,7 +14640,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 30720
+      "UsersEstimate": 30721
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -14659,7 +14664,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50506
+      "UsersEstimate": 50507
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -14699,7 +14704,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37489
+      "UsersEstimate": 37490
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -14747,22 +14752,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37489
+      "UsersEstimate": 37490
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 52068,
+      "Progressed": 52069,
       "Completed": 251
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-12-10T14:58:45.676429+00:00",
-  "LastChanged_Achievements": "2023-12-11T08:05:44.7788893+00:00",
+  "LastChanged_Achievements": "2023-12-11T09:06:42.798309+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:10.3071296+00:00",
-  "LastUpdate_Ratings": "2023-12-11T07:59:03.72983+00:00",
-  "LastUpdate_Achievements": "2023-12-11T08:05:44.7789506+00:00"
+  "LastUpdate_Ratings": "2023-12-11T08:59:36.6885957+00:00",
+  "LastUpdate_Achievements": "2023-12-11T09:06:42.7983868+00:00"
 }

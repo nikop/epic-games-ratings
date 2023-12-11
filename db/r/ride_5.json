@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2431,
+  "EOS_Progressed": 2432,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5992,6 +5992,11 @@
       "Time": "2023-12-11T07:05:21.2196133+00:00",
       "NumProgressed": 2431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T09:06:03.12233+00:00",
+      "NumProgressed": 2432,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6004,7 +6009,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6068,7 +6073,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -6292,7 +6297,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6395,14 +6400,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2431,
+      "Progressed": 2432,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-11T08:05:15.634166+00:00",
+  "LastChanged_Achievements": "2023-12-11T09:06:03.1223299+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-11T07:58:09.5377948+00:00",
-  "LastUpdate_Achievements": "2023-12-11T08:05:15.6342174+00:00"
+  "LastUpdate_Ratings": "2023-12-11T08:58:19.0112861+00:00",
+  "LastUpdate_Achievements": "2023-12-11T09:06:03.1223833+00:00"
 }

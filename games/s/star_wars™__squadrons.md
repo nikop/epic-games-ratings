@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~27,067 |
-| Safety in the Storm | 24.00% | ~6,838 |
-| A Better Idea | 24.00% | ~6,838 |
-| Begin the Ceremony | 20.00% | ~5,698 |
-| Mission Accomplished | 19.00% | ~5,413 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~4,274 |
-| Asset Secured | 13.00% | ~3,704 |
-| A Starfighter of Your Own | 13.00% | ~3,704 |
-| Unkillable | 8.00% | ~2,279 |
-| Together, Vanguard | 7.00% | ~1,994 |
+| Fracture at Fostar Haven | 95.00% | ~27,075 |
+| Safety in the Storm | 24.00% | ~6,840 |
+| A Better Idea | 24.00% | ~6,840 |
+| Begin the Ceremony | 20.00% | ~5,700 |
+| Mission Accomplished | 19.00% | ~5,415 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~4,275 |
+| Asset Secured | 13.00% | ~3,705 |
+| A Starfighter of Your Own | 13.00% | ~3,705 |
+| Unkillable | 8.00% | ~2,280 |
+| Together, Vanguard | 7.00% | ~1,995 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~1,710 |
 | Sound Strategy | 6.00% | ~1,710 |
 | Stomped | 5.00% | ~1,425 |
@@ -31,7 +31,7 @@
 | Stun 'Em | 2.00% | ~570 |
 | Dressed for the Job You Want | 2.00% | ~570 |
 | I Have You Now | 1.00% | ~285 |
-| Against the Current | 0.90% | ~256 |
+| Against the Current | 0.90% | ~257 |
 | Denied | 0.80% | ~228 |
 | Found Your Place | 0.60% | ~171 |
 | Unstoppable Ace | 0.50% | ~142 |
@@ -39,11 +39,11 @@
 | The Galaxy's Finest (Veteran) | 0.40% | ~114 |
 | Got 'Em | 0.40% | ~114 |
 | Special Modifications | 0.40% | ~114 |
-| Victory for the New Republic | 0.30% | ~85 |
-| Victory for the Empire | 0.30% | ~85 |
-| Heavy Hitter | 0.30% | ~85 |
-| The Trap is Set | 0.30% | ~85 |
-| Across the Stars | 0.30% | ~85 |
+| Victory for the New Republic | 0.30% | ~86 |
+| Victory for the Empire | 0.30% | ~86 |
+| Heavy Hitter | 0.30% | ~86 |
+| The Trap is Set | 0.30% | ~86 |
+| Across the Stars | 0.30% | ~86 |
 | Stay on Target | 0.20% | ~57 |
 | Shallow Grave | 0.20% | ~57 |
 | Ultimate Weapon | 0.20% | ~57 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~28 |
 | The Galaxy's Finest (Ace) | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,492 (Ranked 129)  
+Progressed: 28,500 (Ranked 129)  
 Completed: 2 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 2 (0.01%) (Ranked 348)
 | 2023-12-08 | 27,675 | 2 |
 | 2023-12-09 | 28,073 | 2 |
 | 2023-12-10 | 28,415 | 2 |
-| 2023-12-11 | 28,492 | 2 |
+| 2023-12-11 | 28,500 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 598,
+  "EOS_Progressed": 599,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.51,
+  "EOS_Completed_Percentage": 1.5,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -2130,6 +2130,11 @@
       "Time": "2023-12-11T04:09:20.5673795+00:00",
       "NumProgressed": 598,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-11T09:09:23.6032109+00:00",
+      "NumProgressed": 599,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2158,7 +2163,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "achievement_12",
@@ -2174,7 +2179,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_14",
@@ -2198,7 +2203,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "achievement_17",
@@ -2214,7 +2219,7 @@
       "Name": "Perfect Round",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "achievement_2",
@@ -2238,15 +2243,15 @@
       "Name": "From Many, One",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_5",
       "SetID": "7ldgi7j",
       "Name": "Golf\u0027s Original Championship",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_6",
@@ -2254,7 +2259,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_7",
@@ -2278,20 +2283,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 598,
+      "Progressed": 599,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-11T08:09:35.8126754+00:00",
+  "LastChanged_Achievements": "2023-12-11T09:09:23.6032105+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:12.3261518+00:00",
-  "LastUpdate_Ratings": "2023-12-11T07:58:05.607+00:00",
-  "LastUpdate_Achievements": "2023-12-11T08:09:35.8126921+00:00"
+  "LastUpdate_Ratings": "2023-12-11T08:58:13.1434093+00:00",
+  "LastUpdate_Achievements": "2023-12-11T09:09:23.603231+00:00"
 }

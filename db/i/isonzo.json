@@ -2,7 +2,7 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 480,
+  "Ranking_Rating": 481,
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 171,
@@ -993,7 +993,7 @@
   ],
   "EOS_Progressed": 9324,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9519,8 +9519,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-09T14:58:44.4952754+00:00",
-  "LastChanged_Achievements": "2023-12-11T08:08:48.745327+00:00",
+  "LastChanged_Achievements": "2023-12-11T09:08:19.5541352+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:02.1312935+00:00",
-  "LastUpdate_Ratings": "2023-12-11T07:59:52.1539881+00:00",
-  "LastUpdate_Achievements": "2023-12-11T08:08:48.7453839+00:00"
+  "LastUpdate_Ratings": "2023-12-11T09:00:45.1509617+00:00",
+  "LastUpdate_Achievements": "2023-12-11T09:08:19.5541885+00:00"
 }

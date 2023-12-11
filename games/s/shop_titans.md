@@ -110,16 +110,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bane of Legends | 0.60% | ~868 |
 | Anything not Nailed Down | 0.60% | ~868 |
 | Marvels from the World Over | 0.60% | ~868 |
-| Ultimate Collector | 0.50% | ~723 |
-| Unleashed Potential | 0.50% | ~723 |
-| JACKPOT!!! | 0.50% | ~723 |
+| Ultimate Collector | 0.50% | ~724 |
+| Unleashed Potential | 0.50% | ~724 |
+| JACKPOT!!! | 0.50% | ~724 |
 | Oligarch Monarch | 0.40% | ~579 |
 | Merchant Extraordinaire | 0.40% | ~579 |
 | To Hell and Back | 0.30% | ~434 |
 | Cash Only Please | 0.30% | ~434 |
 | Capitalist Camaraderie | 0.20% | ~289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,695 (Ranked 80)  
+Progressed: 144,702 (Ranked 80)  
 Completed: 293 (0.20%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,14 +354,14 @@ Completed: 293 (0.20%) (Ranked 259)
 | 2023-12-08 | 144,354 | 291 |
 | 2023-12-09 | 144,503 | 291 |
 | 2023-12-10 | 144,657 | 293 |
-| 2023-12-11 | 144,695 | 293 |
+| 2023-12-11 | 144,702 | 293 |
 ## Awards
-Max (Great for Beginners): 4,871  (Ranked 75)  
-Sum: 27,684 (Ranked 50)  
+Max (Great for Beginners): 4,875  (Ranked 75)  
+Sum: 27,688 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,871 |
+| This game is Great for Beginners | 4,875 |
 | This game is Relaxing | 4,057 |
 | This game has Quickly Understood Controls | 4,040 |
 | This game has Diverse Characters | 3,965 |
@@ -686,4 +686,4 @@ Diff (max vs sum): 25
 | 2023-12-08 | 3.99 | - | 4,870 | 27,678 |
 | 2023-12-09 | 3.99 | - | 4,871 | 27,680 |
 | 2023-12-10 | 3.99 | - | 4,871 | 27,683 |
-| 2023-12-11 | 3.99 | - | 4,871 | 27,684 |
+| 2023-12-11 | 3.99 | - | 4,875 | 27,688 |
