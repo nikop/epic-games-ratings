@@ -19,12 +19,12 @@ Rating: 4.76 (Ranked 128)
 | The One Who Mastered Memories | 11.00% | ~33,461 |
 | The Hero of Hogwarts | 11.00% | ~33,461 |
 | Challenge Accepted | 11.00% | ~33,461 |
-| Followed the Butterflies | 10.00% | ~30,419 |
-| Rising From the Ashes | 10.00% | ~30,419 |
-| The Avenging Gazelle | 9.00% | ~27,377 |
-| A Sallow Grave | 9.00% | ~27,377 |
-| Flight the Good Flight | 9.00% | ~27,377 |
-| The Spell Master | 9.00% | ~27,377 |
+| Followed the Butterflies | 10.00% | ~30,420 |
+| Rising From the Ashes | 10.00% | ~30,420 |
+| The Avenging Gazelle | 9.00% | ~27,378 |
+| A Sallow Grave | 9.00% | ~27,378 |
+| Flight the Good Flight | 9.00% | ~27,378 |
+| The Spell Master | 9.00% | ~27,378 |
 | Beast Friends | 8.00% | ~24,336 |
 | Raising Expectations | 7.00% | ~21,294 |
 | The Seeker of Knowledge | 6.00% | ~18,252 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 128)
 | The Nature of the Beast | 0.70% | ~2,129 |
 | Collector's Edition | 0.40% | ~1,217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,194 (Ranked 54)  
+Progressed: 304,195 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,10 +286,10 @@ Completed: 525 (0.17%) (Ranked 269)
 | 2023-12-08 | 304,099 | 525 |
 | 2023-12-09 | 304,151 | 525 |
 | 2023-12-10 | 304,188 | 525 |
-| 2023-12-11 | 304,194 | 525 |
+| 2023-12-11 | 304,195 | 525 |
 ## Awards
 Max (Character Customization): 25,081  (Ranked 17)  
-Sum: 50,405 (Ranked 30)  
+Sum: 50,409 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -298,7 +298,7 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,397 |
 | This game has Diverse Characters | 1,354 |
 | This game has Amazing Storytelling | 1,354 |
-| This game is Extremely Fun | 1,319 |
+| This game is Extremely Fun | 1,323 |
 | This game is Relaxing | 1,315 |
 | This game has Amazing Characters | 1,281 |
 | This game is Highly Recommended | 1,257 |
@@ -570,3 +570,4 @@ Diff (max vs sum): -13
 | 2023-12-08 | 4.76 | 25,029 | 50,225 |
 | 2023-12-09 | 4.76 | 25,052 | 50,306 |
 | 2023-12-10 | 4.76 | 25,081 | 50,405 |
+| 2023-12-11 | 4.76 | 25,081 | 50,409 |

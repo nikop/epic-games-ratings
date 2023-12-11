@@ -1009,9 +1009,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 542577,
+  "EOS_Progressed": 542578,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1283,
+  "EOS_NewPlayers": 1282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27659,6 +27659,11 @@
       "Time": "2023-12-11T02:32:36.4886908+00:00",
       "NumProgressed": 542577,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-11T03:08:58.3705506+00:00",
+      "NumProgressed": 542578,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -27822,7 +27827,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 227882
+      "UsersEstimate": 227883
     },
     {
       "ID": "HoldingYourOwn",
@@ -28029,7 +28034,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 542577,
+      "Progressed": 542578,
       "Completed": 2
     }
   ],
@@ -28037,8 +28042,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-12-08T22:58:15.3697268+00:00",
-  "LastChanged_Achievements": "2023-12-11T02:32:36.4886903+00:00",
+  "LastChanged_Achievements": "2023-12-11T03:08:58.3705503+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:41.1804314+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:23:28.9743277+00:00",
-  "LastUpdate_Achievements": "2023-12-11T02:32:36.4888539+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:59:20.8060876+00:00",
+  "LastUpdate_Achievements": "2023-12-11T03:08:58.3706908+00:00"
 }

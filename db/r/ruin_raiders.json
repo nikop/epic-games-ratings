@@ -4,7 +4,7 @@
   "ProductSlug": "ruin-raiders-d2d613",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-10-14T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:08.7005218+00:00",
   "LastChanged": "2023-03-31T05:58:08.7005219+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:46.8009891+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:21:09.9860702+00:00",
-  "LastUpdate_Achievements": "2023-12-11T02:29:32.7125894+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:57:45.1876096+00:00",
+  "LastUpdate_Achievements": "2023-12-11T03:05:14.1812463+00:00"
 }

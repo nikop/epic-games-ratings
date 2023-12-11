@@ -6,16 +6,16 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~27,033 |
-| Landlord | 34.00% | ~22,978 |
+| Lawbringer | 40.00% | ~27,034 |
+| Landlord | 34.00% | ~22,979 |
 | Bannerlord | 24.00% | ~16,220 |
 | Horde breaker | 24.00% | ~16,220 |
 | Lawmaker | 24.00% | ~16,220 |
 | Trained | 24.00% | ~16,220 |
 | The king is pleased | 19.00% | ~12,841 |
 | King Solomon | 18.00% | ~12,165 |
-| Apple of my eye | 16.00% | ~10,813 |
-| I can do it | 16.00% | ~10,813 |
+| Apple of my eye | 16.00% | ~10,814 |
+| I can do it | 16.00% | ~10,814 |
 | This Is Our Land | 14.00% | ~9,462 |
 | Against all odds | 13.00% | ~8,786 |
 | God of the Arena | 13.00% | ~8,786 |
@@ -24,22 +24,22 @@ Number of Ratings: 5,603  (23.09.2022)
 | Dynasty | 10.00% | ~6,758 |
 | I spit on your grave | 10.00% | ~6,758 |
 | What have the Romans ever done for us? | 10.00% | ~6,758 |
-| Butterlord | 9.00% | ~6,082 |
+| Butterlord | 9.00% | ~6,083 |
 | Mastery | 8.00% | ~5,407 |
 | Know your enemy | 7.00% | ~4,731 |
 | Crowdfunded | 5.00% | ~3,379 |
 | Crush your enemies | 5.00% | ~3,379 |
 | My way | 5.00% | ~3,379 |
 | Veni vidi vici | 4.00% | ~2,703 |
-| Freedom! | 3.00% | ~2,027 |
-| Long live the Empire! | 3.00% | ~2,027 |
-| Real Estate | 3.00% | ~2,027 |
+| Freedom! | 3.00% | ~2,028 |
+| Long live the Empire! | 3.00% | ~2,028 |
+| Real Estate | 3.00% | ~2,028 |
 | Supreme Emperor | 2.00% | ~1,352 |
 | Entrepreneur | 1.00% | ~676 |
 | Crackshot | 0.90% | ~608 |
 | Undercover | 0.90% | ~608 |
 | Fat Cat | 0.80% | ~541 |
-| Catch | 0.60% | ~405 |
+| Catch | 0.60% | ~406 |
 | Slice 'n dice | 0.50% | ~338 |
 | Ride it like you stole it | 0.40% | ~270 |
 | Mounted Archery | 0.30% | ~203 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,583 (Ranked 104)  
+Progressed: 67,585 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,14 +293,14 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 67,387 | 0 |
 | 2023-12-09 | 67,516 | 0 |
 | 2023-12-10 | 67,577 | 0 |
-| 2023-12-11 | 67,583 | 0 |
+| 2023-12-11 | 67,585 | 0 |
 ## Awards
-Max (Character Customization): 7,535  (Ranked 53)  
-Sum: 15,717 (Ranked 68)  
+Max (Character Customization): 7,547  (Ranked 53)  
+Sum: 15,729 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,535 |
+| This game has Inclusive Character Customization | 7,547 |
 | This game is Great for Beginners | 1,106 |
 | This game has Diverse Characters | 1,043 |
 | This game is Highly Recommended | 969 |
@@ -645,4 +645,4 @@ Diff (max vs sum): -15
 | 2023-12-08 | 4.74 | - | 7,526 | 15,679 |
 | 2023-12-09 | 4.74 | - | 7,535 | 15,703 |
 | 2023-12-10 | 4.74 | - | 7,535 | 15,715 |
-| 2023-12-11 | 4.74 | - | 7,535 | 15,717 |
+| 2023-12-11 | 4.74 | - | 7,547 | 15,729 |

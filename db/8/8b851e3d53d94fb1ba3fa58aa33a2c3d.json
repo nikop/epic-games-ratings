@@ -4,7 +4,7 @@
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -463,9 +463,9 @@
       "ID": "BAD_SHOT",
       "SetID": "e4de54",
       "Name": "Bad shot",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BEVERAGE_OF_THE_GODS",
@@ -495,9 +495,9 @@
       "ID": "DANGEROUS_MEDUSA",
       "SetID": "e4de54",
       "Name": "Dangerous Medusa",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ERIS",
@@ -535,9 +535,9 @@
       "ID": "GREEK_LANGUAGE_LOVER",
       "SetID": "e4de54",
       "Name": "Greek language lover",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HEBE",
@@ -694,8 +694,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-12-11T02:31:45.0592305+00:00",
+  "LastChanged_Achievements": "2023-12-11T03:06:51.5967168+00:00",
   "LastUpdate_AppInfo": "2023-12-09T07:57:15.513485+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:24:36.431421+00:00",
-  "LastUpdate_Achievements": "2023-12-11T02:31:45.059257+00:00"
+  "LastUpdate_Ratings": "2023-12-11T03:00:08.8317334+00:00",
+  "LastUpdate_Achievements": "2023-12-11T03:06:51.5967387+00:00"
 }

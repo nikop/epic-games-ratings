@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 24781,
+  "EOS_Progressed": 24782,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1081,
+  "EOS_NewPlayers": 1079,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9593,6 +9593,11 @@
       "Time": "2023-12-11T02:33:40.0380982+00:00",
       "NumProgressed": 24781,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T03:09:45.1640995+00:00",
+      "NumProgressed": 24782,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -9661,7 +9666,7 @@
       "Name": "Heads Down",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 18338
+      "UsersEstimate": 18339
     },
     {
       "ID": "achievement_17",
@@ -9701,7 +9706,7 @@
       "Name": "Last Man Standing",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 23046
+      "UsersEstimate": 23047
     },
     {
       "ID": "achievement_21",
@@ -9772,13 +9777,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 24781,
+      "Progressed": 24782,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-12-11T02:33:40.0380978+00:00",
+  "LastChanged_Achievements": "2023-12-11T03:09:45.164099+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:18.2422283+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:21:13.8719124+00:00",
-  "LastUpdate_Achievements": "2023-12-11T02:33:40.0381578+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:57:48.1093613+00:00",
+  "LastUpdate_Achievements": "2023-12-11T03:09:45.164161+00:00"
 }

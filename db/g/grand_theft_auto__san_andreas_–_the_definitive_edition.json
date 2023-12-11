@@ -3,11 +3,11 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 513,
-  "Ranking_Popularity": 229,
+  "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1643,18 +1643,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 710,
       "NumberOfAwardsMax": 431
+    },
+    {
+      "Time": "2023-12-11T03:00:55.2046803+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 714,
+      "NumberOfAwardsMax": 435
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 710,
-  "NumberOfAwardsMax": 431,
+  "NumberOfAwards": 714,
+  "NumberOfAwardsMax": 435,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 431
+      "Count": 435
     },
     {
       "Text": "This game is Relaxing",
@@ -1711,9 +1717,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 13931,
+  "EOS_Progressed": 13932,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -15766,6 +15772,11 @@
       "Time": "2023-12-11T01:57:55.4693207+00:00",
       "NumProgressed": 13931,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-11T03:09:43.540272+00:00",
+      "NumProgressed": 13932,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15777,7 +15788,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11423
+      "UsersEstimate": 11424
     },
     {
       "ID": "ACH02",
@@ -15793,7 +15804,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "ACH04",
@@ -15833,7 +15844,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7244
+      "UsersEstimate": 7245
     },
     {
       "ID": "ACH09",
@@ -15881,7 +15892,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "ACH15",
@@ -15953,7 +15964,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3761
+      "UsersEstimate": 3762
     },
     {
       "ID": "ACH24",
@@ -16056,16 +16067,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13931,
+      "Progressed": 13932,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-09T19:59:59.085868+00:00",
-  "LastChanged_Achievements": "2023-12-11T02:33:37.969511+00:00",
+  "LastChanged": "2023-12-11T03:00:55.2046801+00:00",
+  "LastChanged_Achievements": "2023-12-11T03:09:43.5402717+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:47.2955256+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:26:34.5415036+00:00",
-  "LastUpdate_Achievements": "2023-12-11T02:33:37.9695969+00:00"
+  "LastUpdate_Ratings": "2023-12-11T03:00:55.2046806+00:00",
+  "LastUpdate_Achievements": "2023-12-11T03:09:43.5403853+00:00"
 }

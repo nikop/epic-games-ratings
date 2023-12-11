@@ -4,7 +4,7 @@
   "ProductSlug": "uncontained-65dbe2",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-07T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-09T11:57:00.5701114+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:22:42.9290013+00:00",
-  "LastUpdate_Achievements": "2023-12-11T02:30:41.5214355+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:58:48.3354226+00:00",
+  "LastUpdate_Achievements": "2023-12-11T03:06:05.5450995+00:00"
 }

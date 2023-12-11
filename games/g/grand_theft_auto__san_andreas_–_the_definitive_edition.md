@@ -5,18 +5,18 @@ Rating: 4.55 (Ranked 513)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,423 |
-| Pay 'n' Spray | 52.00% | ~7,244 |
-| All Dressed Up for San Fierro | 27.00% | ~3,761 |
+| Getting Started | 82.00% | ~11,424 |
+| Pay 'n' Spray | 52.00% | ~7,245 |
+| All Dressed Up for San Fierro | 27.00% | ~3,762 |
 | The American Dream | 20.00% | ~2,786 |
 | School's Out | 19.00% | ~2,647 |
 | Smooth Moves | 17.00% | ~2,368 |
 | What happens in Las Venturas... | 16.00% | ~2,229 |
 | Today Was a Good Day | 16.00% | ~2,229 |
-| Horror of the Santa Maria | 11.00% | ~1,532 |
+| Horror of the Santa Maria | 11.00% | ~1,533 |
 | Liberty City State of Mind | 10.00% | ~1,393 |
 | Original Gangster | 9.00% | ~1,254 |
-| The End of the Line | 8.00% | ~1,114 |
+| The End of the Line | 8.00% | ~1,115 |
 | With Extra Dip | 7.00% | ~975 |
 | Saviour | 6.00% | ~836 |
 | They Can’t Stop All of Us | 5.00% | ~697 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 513)
 | ...Here we go again | 0.50% | ~70 |
 | I Ain't No Buster | 0.40% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,931 (Ranked 159)  
+Progressed: 13,932 (Ranked 159)  
 Completed: 56 (0.40%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,14 +276,14 @@ Completed: 56 (0.40%) (Ranked 223)
 | 2023-12-08 | 13,900 | 56 |
 | 2023-12-09 | 13,917 | 56 |
 | 2023-12-10 | 13,930 | 56 |
-| 2023-12-11 | 13,931 | 56 |
+| 2023-12-11 | 13,932 | 56 |
 ## Awards
-Max (Great Boss Battles): 431  (Ranked 229)  
-Sum: 710 (Ranked 297)  
-Diff (max vs sum): -68  
+Max (Great Boss Battles): 435  (Ranked 226)  
+Sum: 714 (Ranked 297)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 431 |
+| This game has Great Boss Battles | 435 |
 | This game is Relaxing | 40 |
 | This game has Amazing Characters | 39 |
 | This game is Great for Beginners | 38 |
@@ -492,3 +492,4 @@ Diff (max vs sum): -68
 | 2023-12-07 | 4.55 | 425 | 701 |
 | 2023-12-08 | 4.55 | 427 | 703 |
 | 2023-12-09 | 4.55 | 431 | 710 |
+| 2023-12-11 | 4.55 | 435 | 714 |

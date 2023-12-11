@@ -4,7 +4,7 @@
   "ProductSlug": "rez-plz-324485",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-26T14:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:49.8010329+00:00",
   "LastChanged": "2023-03-31T05:57:49.801033+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:26.2823869+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:22:47.4652179+00:00",
-  "LastUpdate_Achievements": "2023-12-11T02:30:13.0498803+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:58:51.4057551+00:00",
+  "LastUpdate_Achievements": "2023-12-11T03:05:44.1159568+00:00"
 }

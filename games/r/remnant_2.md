@@ -11,13 +11,13 @@ Rating: 4.75 (Ranked 145)
 | Master of the Dark Arts | 0.80% | ~140 |
 | Expanding Horizons | 0.60% | ~1,430 |
 | Not Your Average Trait | 0.60% | ~1,430 |
-| Gleaming the Cube | 0.50% | ~1,191 |
-| Not So Special Now | 0.50% | ~1,191 |
-| Quest for Survival | 0.50% | ~1,191 |
-| Not a Janitor | 0.50% | ~1,191 |
-| Familiar Face | 0.50% | ~1,191 |
-| Boss'n Up | 0.50% | ~1,191 |
-| Trait Chaser | 0.50% | ~1,191 |
+| Gleaming the Cube | 0.50% | ~1,192 |
+| Not So Special Now | 0.50% | ~1,192 |
+| Quest for Survival | 0.50% | ~1,192 |
+| Not a Janitor | 0.50% | ~1,192 |
+| Familiar Face | 0.50% | ~1,192 |
+| Boss'n Up | 0.50% | ~1,192 |
+| Trait Chaser | 0.50% | ~1,192 |
 | Am I Seeing This? | 0.40% | ~953 |
 | Chaos | 0.40% | ~953 |
 | Power Surge | 0.40% | ~953 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 145)
 | You Shall Pass | 0.20% | ~35 |
 | A Foul Feast | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,298 (Ranked 66)  
+Progressed: 238,305 (Ranked 66)  
 Completed: 577 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 577 (0.24%) (Ranked 251)
 | 2023-12-08 | 237,044 | 572 |
 | 2023-12-09 | 237,633 | 573 |
 | 2023-12-10 | 238,247 | 577 |
-| 2023-12-11 | 238,298 | 577 |
+| 2023-12-11 | 238,305 | 577 |
 ## Awards
 Max (Great Boss Battles): 2,704  (Ranked 102)  
 Sum: 6,749 (Ranked 126)  

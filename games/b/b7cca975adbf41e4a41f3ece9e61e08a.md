@@ -6,16 +6,16 @@ Rating: 4.75 (Ranked 145)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 92.00% | ~10,034 |
-| I Challenge You To Save More Money! | 86.00% | ~9,379 |
-| I Love How Tough You Are | 73.00% | ~7,961 |
-| Wanna Come To My Place For Dinner? | 67.00% | ~7,307 |
+| I Challenge You To Save More Money! | 86.00% | ~9,380 |
+| I Love How Tough You Are | 73.00% | ~7,962 |
+| Wanna Come To My Place For Dinner? | 67.00% | ~7,308 |
 | What I Want Is You | 61.00% | ~6,653 |
-| To Be Or Not To Be | 58.00% | ~6,325 |
-| Are You Alright? | 50.00% | ~5,453 |
+| To Be Or Not To Be | 58.00% | ~6,326 |
+| Are You Alright? | 50.00% | ~5,454 |
 | Love Actually | 49.00% | ~5,344 |
 | Drama King | 42.00% | ~4,581 |
-| You're Really Something Else | 38.00% | ~4,144 |
-| Go Clean up In Your Own Way | 36.00% | ~3,926 |
+| You're Really Something Else | 38.00% | ~4,145 |
+| Go Clean up In Your Own Way | 36.00% | ~3,927 |
 | Happy Family | 35.00% | ~3,817 |
 | ONE PUNCH | 35.00% | ~3,817 |
 | FIRST LOVE | 35.00% | ~3,817 |
@@ -27,11 +27,11 @@ Rating: 4.75 (Ranked 145)
 | Days Of Innocence | 30.00% | ~3,272 |
 | David | 30.00% | ~3,272 |
 | A Slap In The Face! | 26.00% | ~2,836 |
-| All I Have Is Money | 25.00% | ~2,726 |
-| Lover In Dark Alley | 25.00% | ~2,726 |
-| That's So You | 25.00% | ~2,726 |
-| SALUTE | 25.00% | ~2,726 |
-| Let Me Be Your Toy Boy | 24.00% | ~2,617 |
+| All I Have Is Money | 25.00% | ~2,727 |
+| Lover In Dark Alley | 25.00% | ~2,727 |
+| That's So You | 25.00% | ~2,727 |
+| SALUTE | 25.00% | ~2,727 |
+| Let Me Be Your Toy Boy | 24.00% | ~2,618 |
 | Off We Sail Tonight | 19.00% | ~2,072 |
 | Love You Three Thousand | 16.00% | ~1,745 |
 | Can You Do This Or Not? | 16.00% | ~1,745 |
@@ -42,14 +42,14 @@ Rating: 4.75 (Ranked 145)
 | Life Is A Rollercoaster | 9.00% | ~982 |
 | Counting Sheep? | 9.00% | ~982 |
 | This Ain't Right In Many Ways... | 9.00% | ~982 |
-| Boys Need To Protect Themselves | 8.00% | ~872 |
-| Stubborn Noob | 8.00% | ~872 |
+| Boys Need To Protect Themselves | 8.00% | ~873 |
+| Stubborn Noob | 8.00% | ~873 |
 | Hurrah! | 2.00% | ~218 |
 | Tall; Grande; Venti | 2.00% | ~218 |
 | Limerence | 2.00% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,906 (Ranked 165)  
-Completed: 201 (1.84%) (Ranked 134)  
+Progressed: 10,907 (Ranked 165)  
+Completed: 202 (1.85%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,7 +113,7 @@ Completed: 201 (1.84%) (Ranked 134)
 | 2023-12-08 | 10,827 | 198 |
 | 2023-12-09 | 10,871 | 200 |
 | 2023-12-10 | 10,902 | 201 |
-| 2023-12-11 | 10,906 | 201 |
+| 2023-12-11 | 10,907 | 202 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 534)  
 Sum: 23 (Ranked 538)  

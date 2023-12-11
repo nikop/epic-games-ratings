@@ -5,9 +5,9 @@
   "Ranking_Rating": 545,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 542,
+  "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -270,9 +270,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 32,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -420,6 +420,11 @@
       "Time": "2023-12-11T01:56:41.0559132+00:00",
       "NumProgressed": 31,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T03:06:58.7122309+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -430,7 +435,7 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -462,9 +467,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -542,9 +547,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -566,15 +571,15 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
       "SetID": "4n84pon",
       "Name": "Fly Me to the Moon Base",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -598,7 +603,7 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -654,7 +659,7 @@
       "ID": "ACH_KILL_WARSHIP",
       "SetID": "4n84pon",
       "Name": "Scuttled",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -718,7 +723,7 @@
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
       "SetID": "4n84pon",
       "Name": "Dusted",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -766,7 +771,7 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -774,16 +779,16 @@
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "4n84pon",
       "Name": "Pimp My Raid",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 32,
       "Completed": 0
     }
   ],
@@ -791,8 +796,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-10-14T18:57:04.8470544+00:00",
-  "LastChanged_Achievements": "2023-12-11T02:31:54.7258747+00:00",
+  "LastChanged_Achievements": "2023-12-11T03:06:58.7122307+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.5493724+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:25:10.2079486+00:00",
-  "LastUpdate_Achievements": "2023-12-11T02:31:54.7259017+00:00"
+  "LastUpdate_Ratings": "2023-12-11T03:00:31.4626385+00:00",
+  "LastUpdate_Achievements": "2023-12-11T03:06:58.7122562+00:00"
 }

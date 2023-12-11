@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-art-learn-with-jigsaw-puzzles-c908c2",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -842,8 +842,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-07T15:03:10.8160278+00:00",
-  "LastChanged_Achievements": "2023-12-11T02:29:23.0569175+00:00",
+  "LastChanged_Achievements": "2023-12-11T03:05:06.8245087+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:57.2223615+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:23:26.9763556+00:00",
-  "LastUpdate_Achievements": "2023-12-11T02:29:23.0570268+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:59:19.4013747+00:00",
+  "LastUpdate_Achievements": "2023-12-11T03:05:06.8245913+00:00"
 }

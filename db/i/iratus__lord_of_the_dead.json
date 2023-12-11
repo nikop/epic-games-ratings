@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
@@ -2389,9 +2389,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 46733,
+  "EOS_Progressed": 46734,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -27904,6 +27904,11 @@
       "Time": "2023-12-11T02:28:28.4420968+00:00",
       "NumProgressed": 46733,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-12-11T03:04:27.3871633+00:00",
+      "NumProgressed": 46734,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -27979,7 +27984,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 13085
+      "UsersEstimate": 13086
     },
     {
       "ID": "achievements_2",
@@ -28027,7 +28032,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 25703
+      "UsersEstimate": 25704
     },
     {
       "ID": "achievements_25",
@@ -28035,7 +28040,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 13085
+      "UsersEstimate": 13086
     },
     {
       "ID": "achievements_26",
@@ -28083,7 +28088,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 14487
+      "UsersEstimate": 14488
     },
     {
       "ID": "achievements_31",
@@ -28099,7 +28104,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 15889
+      "UsersEstimate": 15890
     },
     {
       "ID": "achievements_33",
@@ -28163,7 +28168,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 30376
+      "UsersEstimate": 30377
     },
     {
       "ID": "achievements_40",
@@ -28219,7 +28224,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 39723
+      "UsersEstimate": 39724
     },
     {
       "ID": "achievements_47",
@@ -28267,7 +28272,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 18693
+      "UsersEstimate": 18694
     },
     {
       "ID": "achievements_52",
@@ -28291,7 +28296,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 20095
+      "UsersEstimate": 20096
     },
     {
       "ID": "achievements_55",
@@ -28339,7 +28344,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 15889
+      "UsersEstimate": 15890
     },
     {
       "ID": "achievements_61",
@@ -28363,7 +28368,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 11683
+      "UsersEstimate": 11684
     },
     {
       "ID": "achievements_64",
@@ -28491,7 +28496,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 34115
+      "UsersEstimate": 34116
     },
     {
       "ID": "achievements_8",
@@ -28514,15 +28519,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 46733,
+      "Progressed": 46734,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-09T13:01:33.078822+00:00",
-  "LastChanged_Achievements": "2023-12-11T02:28:28.4420964+00:00",
+  "LastChanged_Achievements": "2023-12-11T03:04:27.3871629+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:11.5197894+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:24:43.7930924+00:00",
-  "LastUpdate_Achievements": "2023-12-11T02:28:28.4422659+00:00"
+  "LastUpdate_Ratings": "2023-12-11T03:00:13.687693+00:00",
+  "LastUpdate_Achievements": "2023-12-11T03:04:27.3873578+00:00"
 }

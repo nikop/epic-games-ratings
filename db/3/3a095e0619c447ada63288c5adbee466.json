@@ -4,7 +4,7 @@
   "ProductSlug": "cooking-trip-d45abd",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-22T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-22T19:57:59.7107426+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:56:58.1866918+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:23:36.2835076+00:00",
-  "LastUpdate_Achievements": "2023-12-11T02:31:05.8461778+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:59:27.2220134+00:00",
+  "LastUpdate_Achievements": "2023-12-11T03:06:23.0135352+00:00"
 }
