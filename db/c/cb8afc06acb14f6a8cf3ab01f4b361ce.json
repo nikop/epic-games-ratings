@@ -401,9 +401,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 327452,
+  "EOS_Progressed": 327469,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3569,
+  "EOS_NewPlayers": 3562,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9226,6 +9226,11 @@
       "Time": "2023-12-11T17:05:28.7176914+00:00",
       "NumProgressed": 327452,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-11T18:05:14.2690809+00:00",
+      "NumProgressed": 327469,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9276,9 +9281,9 @@
       "ID": "S06_LWTC",
       "SetID": "4j44ol8",
       "Name": "They tricked me",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1637
     },
     {
       "ID": "S07_INWA",
@@ -9557,7 +9562,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 327452,
+      "Progressed": 327469,
       "Completed": 5
     }
   ],
@@ -9565,8 +9570,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-11T15:59:42.1436221+00:00",
-  "LastChanged_Achievements": "2023-12-11T17:05:28.717691+00:00",
+  "LastChanged_Achievements": "2023-12-11T18:05:14.2690805+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:59:48.0567687+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:05:28.7177632+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:59:48.35252+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:05:14.2691578+00:00"
 }

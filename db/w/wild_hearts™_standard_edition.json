@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 378,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -1926,9 +1926,9 @@
       "ID": "achievement_29",
       "SetID": "2cpn27e",
       "Name": "Fair Means or Foul",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_3",
@@ -2148,8 +2148,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-11T17:08:40.9507543+00:00",
+  "LastChanged_Achievements": "2023-12-11T18:08:27.3474593+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:59.7578969+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:59:43.4100005+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:08:40.9507943+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:59:43.5933698+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:08:27.3474969+00:00"
 }

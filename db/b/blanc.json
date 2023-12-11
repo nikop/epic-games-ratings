@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3448,
+  "EOS_Progressed": 3450,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5276,6 +5276,11 @@
       "Time": "2023-12-11T16:04:35.9271402+00:00",
       "NumProgressed": 3448,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-11T18:04:26.6096688+00:00",
+      "NumProgressed": 3450,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5311,7 +5316,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "MOVE_ON",
@@ -5327,7 +5332,7 @@
       "Name": "Reunion",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "SLIDERS",
@@ -5335,7 +5340,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "SNOW_RUINS",
@@ -5351,7 +5356,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -5390,7 +5395,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3448,
+      "Progressed": 3450,
       "Completed": 6
     }
   ],
@@ -5398,8 +5403,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-11T17:04:41.0240304+00:00",
+  "LastChanged_Achievements": "2023-12-11T18:04:26.6096684+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:18.0649883+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:58:34.5243219+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:04:41.024069+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:58:31.9733539+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:04:26.6097036+00:00"
 }

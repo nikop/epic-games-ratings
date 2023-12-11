@@ -10,7 +10,7 @@ Rating: 4.05 (Ranked 998)
 | Enlisted | 85.00% | ~281 |
 | Maybe Engage a Little | 82.00% | ~271 |
 | No More Names | 71.00% | ~235 |
-| Initiate | 57.00% | ~189 |
+| Initiate | 58.00% | ~192 |
 | Thrada-Kul | 54.00% | ~179 |
 | Gravity-Challenged Rocks | 44.00% | ~146 |
 | Soldier | 39.00% | ~129 |
@@ -40,12 +40,12 @@ Rating: 4.05 (Ranked 998)
 | Veteran | 5.00% | ~17 |
 | Master of Ultramarine | 2.00% | ~7 |
 | Master of Carmine | 2.00% | ~7 |
+| Master of Malachite | 2.00% | ~7 |
 | Shroudfane Surveyor | 2.00% | ~7 |
 | Tip of the Spear | 2.00% | ~7 |
 | Treasure Hunter | 2.00% | ~7 |
 | Backtracker | 2.00% | ~7 |
 | Petite Bourgeoisie | 1.00% | ~3 |
-| Master of Malachite | 1.00% | ~3 |
 | Grand Magnus | 0.90% | ~3 |
 | Family Business | 0.60% | ~2 |
 | Diplomat | 0.60% | ~2 |
@@ -54,7 +54,7 @@ Rating: 4.05 (Ranked 998)
 | Fowl Play | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 331 (Ranked 351)  
-Completed: 1 (0.30%) (Ranked 239)  
+Completed: 2 (0.60%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,6 +128,7 @@ Completed: 1 (0.30%) (Ranked 239)
 | 2023-12-08 | 326 | 1 |
 | 2023-12-09 | 329 | 1 |
 | 2023-12-10 | 331 | 1 |
+| 2023-12-11 | 331 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

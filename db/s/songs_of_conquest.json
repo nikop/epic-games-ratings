@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 418,
+  "EOS_Progressed": 419,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -1783,6 +1783,11 @@
       "Time": "2023-12-10T23:05:24.8808508+00:00",
       "NumProgressed": 418,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T18:05:57.5571306+00:00",
+      "NumProgressed": 419,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2001,9 +2006,9 @@
       "ID": "MultiKill",
       "SetID": "71c0n9i",
       "Name": "Multi Kill",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 21
     },
     {
       "ID": "MultiplayerWins",
@@ -2121,9 +2126,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 155
     },
     {
       "ID": "WielderLevel2",
@@ -2155,7 +2160,7 @@
       "Name": "Humiliation",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -2226,15 +2231,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 418,
+      "Progressed": 419,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-11T17:06:10.6596159+00:00",
+  "LastChanged_Achievements": "2023-12-11T18:05:57.5571303+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:57:18.7462413+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:06:10.6596718+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:57:13.6564592+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:05:57.557166+00:00"
 }

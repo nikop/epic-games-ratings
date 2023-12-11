@@ -20,7 +20,7 @@ Number of Ratings: 892  (23.09.2022)
 | Diamonds are Forever | 77.00% | ~413 |
 | Can We Keep It? | 76.00% | ~408 |
 | Pack Mule | 75.00% | ~403 |
-| First Love | 73.00% | ~392 |
+| First Love | 74.00% | ~397 |
 | Unboxing | 71.00% | ~381 |
 | Elementary, My Dear | 68.00% | ~365 |
 | Chatterbox | 67.00% | ~360 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1779,
+  "EOS_Progressed": 1780,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4548,6 +4548,11 @@
       "Time": "2023-12-10T13:11:57.4237527+00:00",
       "NumProgressed": 1779,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T18:08:33.8430327+00:00",
+      "NumProgressed": 1780,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4709,9 +4714,9 @@
       "ID": "NEW_ACHIEVEMENT_DETECTIVE",
       "SetID": "l546gc",
       "Name": "Detective",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 338
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4733,9 +4738,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 587
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4815,7 +4820,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4942,7 +4947,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1779,
+      "Progressed": 1780,
       "Completed": 0
     }
   ],
@@ -4950,8 +4955,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-06T17:58:25.3194639+00:00",
-  "LastChanged_Achievements": "2023-12-11T17:08:47.389254+00:00",
+  "LastChanged_Achievements": "2023-12-11T18:08:33.8430324+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:00.8104796+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:57:25.3423374+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:08:47.3893097+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:57:21.5559559+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:08:33.8430899+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 959,
+  "Ranking_Rating": 960,
   "Ranking_Popularity": 362,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 102,
@@ -1263,9 +1263,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 68445,
+  "EOS_Progressed": 68446,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12198,6 +12198,11 @@
       "Time": "2023-12-11T17:04:20.9638132+00:00",
       "NumProgressed": 68445,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-11T18:04:05.7230477+00:00",
+      "NumProgressed": 68446,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -12210,7 +12215,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 24640
+      "UsersEstimate": 24641
     },
     {
       "ID": "10",
@@ -12290,7 +12295,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6844
+      "UsersEstimate": 6845
     },
     {
       "ID": "5",
@@ -12337,7 +12342,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 68445,
+      "Progressed": 68446,
       "Completed": 39
     }
   ],
@@ -12345,8 +12350,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-12-11T14:58:05.9879163+00:00",
-  "LastChanged_Achievements": "2023-12-11T17:04:20.9638127+00:00",
+  "LastChanged_Achievements": "2023-12-11T18:04:05.7230473+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:19.3364255+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:57:43.9808063+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:04:20.9638732+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:57:40.5546553+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:04:05.7231163+00:00"
 }

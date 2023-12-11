@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -8750,9 +8750,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477499,
+  "EOS_Progressed": 477501,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32525,6 +32525,11 @@
       "Time": "2023-12-11T17:06:26.5914995+00:00",
       "NumProgressed": 477499,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-11T18:06:13.4082856+00:00",
+      "NumProgressed": 477501,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -32584,7 +32589,7 @@
       "Name": "Immortality",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "achievement_20_matches_without_losing",
@@ -32608,7 +32613,7 @@
       "Name": "Immovable Object",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "achievement_30_matches_without_losing",
@@ -33000,7 +33005,7 @@
       "Name": "Value For Money",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "achievement_player_in_team_of_the_year",
@@ -33104,7 +33109,7 @@
       "Name": "Perfect Host",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3343
     },
     {
       "ID": "achievement_undefeated_season",
@@ -33240,7 +33245,7 @@
       "Name": "100 Club",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "fantasy_draft_200_club",
@@ -33248,7 +33253,7 @@
       "Name": "200 Club",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "fantasy_draft_draft_dominator",
@@ -33264,7 +33269,7 @@
       "Name": "Draft Rivalry",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2388
     },
     {
       "ID": "fantasy_draft_knockout_king",
@@ -33272,7 +33277,7 @@
       "Name": "Knockout King",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "fantasy_draft_one_more_draft",
@@ -33280,7 +33285,7 @@
       "Name": "One more draft",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3343
     },
     {
       "ID": "fantasy_draft_online_streak",
@@ -33296,7 +33301,7 @@
       "Name": "Draft Value",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "fantasy_draft_squad_budget_shoestring",
@@ -33304,7 +33309,7 @@
       "Name": "Shoestring Budget",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "setup_routines_for_all_free_kicks",
@@ -33312,22 +33317,22 @@
       "Name": "Set Piece Specialist",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3343
     }
   ],
   "AchievementSets": [
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477499,
+      "Progressed": 477501,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-11T06:00:19.5813667+00:00",
-  "LastChanged_Achievements": "2023-12-11T17:06:26.5914992+00:00",
+  "LastChanged_Achievements": "2023-12-11T18:06:13.4082851+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.1665984+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:00:01.3826496+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:06:26.5916779+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:00:01.5679502+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:06:13.4084549+00:00"
 }

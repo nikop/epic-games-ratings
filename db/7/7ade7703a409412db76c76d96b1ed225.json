@@ -4,8 +4,8 @@
   "ProductSlug": "reef-escape-22dfdd",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-12-15T08:00:00+00:00",
     "PcReleaseDate": "2023-12-15T08:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-09T20:57:21.3239226+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:57:53.2846964+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:06:36.1763625+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:57:50.0511416+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:06:23.153829+00:00"
 }

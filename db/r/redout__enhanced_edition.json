@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237032,
+  "EOS_Progressed": 237033,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -25002,6 +25002,11 @@
       "Time": "2023-12-11T17:03:28.3652462+00:00",
       "NumProgressed": 237032,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-11T18:03:11.5554911+00:00",
+      "NumProgressed": 237033,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -25101,7 +25106,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47406
+      "UsersEstimate": 47407
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -25277,22 +25282,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97183
+      "UsersEstimate": 97184
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237032,
+      "Progressed": 237033,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-11T17:03:28.3652457+00:00",
+  "LastChanged_Achievements": "2023-12-11T18:03:11.5554908+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.1696277+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:58:11.0883528+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:03:28.3654162+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:58:08.0021765+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:03:11.5556252+00:00"
 }

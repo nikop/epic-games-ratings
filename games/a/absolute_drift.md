@@ -6,20 +6,20 @@ Number of Ratings: 216  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~155,555 |
-| Good Skills | 9.00% | ~139,999 |
-| Multiplier Master | 9.00% | ~139,999 |
-| Maverick | 7.00% | ~108,888 |
-| The Long Drift | 5.00% | ~77,777 |
-| Drift Line Apprentice | 3.00% | ~46,666 |
-| Mad Skills | 3.00% | ~46,666 |
+| Midnight Drifter | 10.00% | ~155,556 |
+| Good Skills | 9.00% | ~140,000 |
+| Multiplier Master | 9.00% | ~140,000 |
+| Maverick | 7.00% | ~108,889 |
+| The Long Drift | 5.00% | ~77,778 |
+| Drift Line Apprentice | 3.00% | ~46,667 |
+| Mad Skills | 3.00% | ~46,667 |
 | Bring the Cubic Ruckus | 2.00% | ~31,111 |
 | Jelly Donuts | 2.00% | ~31,111 |
 | Master Drifter | 2.00% | ~31,111 |
 | Spin Doctor | 2.00% | ~31,111 |
-| Hoon Airlines | 1.00% | ~15,555 |
-| Midnight Master | 1.00% | ~15,555 |
-| Sake Bombs | 1.00% | ~15,555 |
+| Hoon Airlines | 1.00% | ~15,556 |
+| Midnight Master | 1.00% | ~15,556 |
+| Sake Bombs | 1.00% | ~15,556 |
 | Insane Skills | 0.80% | ~12,444 |
 | Drift Line Master | 0.70% | ~10,889 |
 | Bacon Donuts | 0.60% | ~9,333 |
@@ -27,7 +27,7 @@ Number of Ratings: 216  (23.09.2022)
 | Washing Machine | 0.40% | ~6,222 |
 | The Completionist | 0.10% | ~1,556 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,555,549 (Ranked 8)  
+Progressed: 1,555,555 (Ranked 8)  
 Completed: 743 (0.05%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 743 (0.05%) (Ranked 322)
 | 2023-12-08 | 1,555,035 | 741 |
 | 2023-12-09 | 1,555,251 | 741 |
 | 2023-12-10 | 1,555,448 | 743 |
-| 2023-12-11 | 1,555,549 | 743 |
+| 2023-12-11 | 1,555,555 | 743 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

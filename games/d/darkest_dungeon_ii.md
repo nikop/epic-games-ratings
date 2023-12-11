@@ -6,9 +6,15 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 0.50% | ~5 |
-| This guy... again? | 0.30% | ~3 |
-| This Belongs in a Museum | 0.20% | ~252 |
+| Malpractice Assurance | 0.80% | ~8 |
+| This guy... again? | 0.50% | ~5 |
+| This Belongs in a Museum | 0.30% | ~378 |
+| Not Today! | 0.20% | ~252 |
+| Creep and Sleep | 0.20% | ~252 |
+| Meat and Greet | 0.20% | ~252 |
+| Catch and Decease | 0.20% | ~252 |
+| Overdue Notice | 0.20% | ~252 |
+| Escape from the Black Hole | 0.20% | ~252 |
 | A Place to Lay Your Head | 0.20% | ~252 |
 | Don't Make Me Turn This Coach Around | 0.10% | ~126 |
 | Serenity Now! | 0.10% | ~126 |
@@ -28,18 +34,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Predator | 0.10% | ~126 |
 | Dissector | 0.10% | ~126 |
 | Banishment | 0.10% | ~126 |
-| Not Today! | 0.10% | ~126 |
-| Creep and Sleep | 0.10% | ~126 |
 | Deprogramming | 0.10% | ~126 |
 | Ichthyophobic | 0.10% | ~126 |
 | Now Stay Dead | 0.10% | ~126 |
 | No More Mouths to Feed | 0.10% | ~126 |
-| Meat and Greet | 0.10% | ~126 |
 | Clearing the Ledger | 0.10% | ~126 |
-| Catch and Decease | 0.10% | ~126 |
-| Overdue Notice | 0.10% | ~126 |
 | Reverse Banditry | 0.10% | ~126 |
-| Escape from the Black Hole | 0.10% | ~126 |
 | Circle of Life | 0.10% | ~126 |
 | Bacon Bits | 0.10% | ~126 |
 | It Happens | 0.10% | ~126 |
@@ -71,22 +71,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | Grand Slam | 0.10% | ~126 |
 | Hard Mode | 0.10% | ~126 |
 | Road Trip | 0.10% | ~126 |
+| Maître De La Lame | 0.10% | ~1 |
 | Slap on the Wrist | 0.10% | ~1 |
 | Et Tu, Riposte? | 0.10% | ~1 |
+| Bloody Graduation | 0.10% | ~1 |
+| Lost and Found | 0.10% | ~1 |
 | No Gravestone Left Unturned | 0.00% | ~0 |
 | The Clash | 0.00% | ~0 |
 | Battle Hardened | 0.00% | ~0 |
-| Maître De La Lame | 0.00% | ~0 |
 | These Boots Are Made For Kickin' | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |
 | Ploughshares to Swords | 0.00% | ~0 |
-| Bloody Graduation | 0.00% | ~0 |
-| Lost and Found | 0.00% | ~0 |
 | Friends 'Til the End | 0.00% | ~0 |
 | For Old Time' Sake | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,141 (Ranked 84)  
+Progressed: 126,159 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,16 +311,16 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-08 | 125,859 | 2 |
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
-| 2023-12-11 | 126,141 | 2 |
+| 2023-12-11 | 126,159 | 2 |
 ## Awards
 Max (Character Customization): 7,586  (Ranked 52)  
-Sum: 20,065 (Ranked 59)  
+Sum: 20,071 (Ranked 59)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,586 |
 | This game has Diverse Characters | 1,636 |
-| This game has Challenging Combat | 1,547 |
+| This game has Challenging Combat | 1,553 |
 | This game is Highly Recommended | 1,481 |
 | This game has Amazing Characters | 1,425 |
 | This game is Extremely Fun | 1,421 |
@@ -650,4 +650,4 @@ Diff (max vs sum): -7
 | 2023-12-08 | 4.68 | - | 7,565 | 20,002 |
 | 2023-12-09 | 4.68 | - | 7,572 | 20,019 |
 | 2023-12-10 | 4.68 | - | 7,578 | 20,042 |
-| 2023-12-11 | 4.68 | - | 7,586 | 20,065 |
+| 2023-12-11 | 4.68 | - | 7,586 | 20,071 |

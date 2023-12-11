@@ -2,13 +2,13 @@
   "ID": "ceaa24233cdb4b678a1cf515e3a912e8",
   "Name": "God\u0027s Trigger",
   "ProductSlug": "gods-trigger",
-  "Ranking_Rating": 959,
+  "Ranking_Rating": 953,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-08-20T15:00:00+00:00",
     "PcReleaseDate": "2020-08-20T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.15,
+  "Rating": 4.16,
   "NumberOfRatings": 114,
   "RatingHistory": [
     {
@@ -355,6 +355,12 @@
       "Rating": 4.15,
       "NumberOfAwards": 28,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-12-11T17:58:00.9984102+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
@@ -380,8 +386,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:51.7607722+00:00",
-  "LastChanged": "2023-11-10T07:59:35.0255075+00:00",
+  "LastChanged": "2023-12-11T17:58:00.99841+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:56.8206389+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:58:03.750773+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:03:44.7389449+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:58:00.9984104+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:03:28.3597041+00:00"
 }

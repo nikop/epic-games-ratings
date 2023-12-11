@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,7 +216,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 934,
+  "EOS_Progressed": 935,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -2341,6 +2341,11 @@
       "Time": "2023-12-11T17:04:37.1570068+00:00",
       "NumProgressed": 934,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-11T18:04:22.5446407+00:00",
+      "NumProgressed": 935,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2393,7 +2398,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "BreakTheLoop",
@@ -2409,7 +2414,7 @@
       "Name": "Bridge Builder",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ChasingTheLight",
@@ -2417,7 +2422,7 @@
       "Name": "Chasing the Light",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Chicken",
@@ -2449,7 +2454,7 @@
       "Name": "Discovery",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "EasternWetlands",
@@ -2521,7 +2526,7 @@
       "Name": "Into the Machine",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "JustOneLap",
@@ -2537,7 +2542,7 @@
       "Name": "Lord of the Files",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "LostMarshes",
@@ -2569,7 +2574,7 @@
       "Name": "Museum Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "MuseumVisitor",
@@ -2609,7 +2614,7 @@
       "Name": "Overload",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Persistent",
@@ -2617,7 +2622,7 @@
       "Name": "Persistent",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "PrometheusUnbound",
@@ -2633,15 +2638,15 @@
       "Name": "Puzzle Fiend",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 187
     },
     {
       "ID": "RenaissanceRobot",
@@ -2665,7 +2670,7 @@
       "Name": "Signatory",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "SingleRod",
@@ -2697,7 +2702,7 @@
       "Name": "Team Spirit",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "TextAdventurer",
@@ -2745,7 +2750,7 @@
       "Name": "The Spark",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "TheThiefOfFire",
@@ -2824,7 +2829,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 934,
+      "Progressed": 935,
       "Completed": 1
     }
   ],
@@ -2832,8 +2837,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-11T17:04:37.1570064+00:00",
+  "LastChanged_Achievements": "2023-12-11T18:04:22.5446402+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:58:32.9703094+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:04:37.1570928+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:58:30.2904492+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:04:22.5446996+00:00"
 }

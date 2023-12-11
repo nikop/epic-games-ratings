@@ -5,48 +5,48 @@ Rating: 4.84 (Ranked 52)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~231,002 |
-| Private Club | 74.00% | ~187,848 |
-| Rogue Guild | 65.00% | ~165,001 |
-| I Watched the Intro | 57.00% | ~144,693 |
-| Covert Consortium | 55.00% | ~139,616 |
-| Goat Queen | 53.00% | ~134,539 |
-| Reach the Stratosphere | 51.00% | ~129,462 |
-| Synchronization Complete | 47.00% | ~119,309 |
-| Secret Society | 45.00% | ~114,232 |
-| Shadow Syndicate | 38.00% | ~96,462 |
-| What a Waste of Money | 33.00% | ~83,770 |
-| New Goat Order | 30.00% | ~76,154 |
-| Don't touch the servers | 28.00% | ~71,077 |
-| San Angora: Become Human | 27.00% | ~68,539 |
-| Real Buoy | 27.00% | ~68,539 |
-| Raider of the Lost Parking Garage | 26.00% | ~66,000 |
-| Welcome to Earth | 25.00% | ~63,462 |
-| Egg Simulator | 19.00% | ~48,231 |
-| Into the Matrix | 19.00% | ~48,231 |
-| Where is It? | 17.00% | ~43,154 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~38,077 |
-| 401(K.O.) | 15.00% | ~38,077 |
-| Black Market | 14.00% | ~35,539 |
-| Car Cave | 12.00% | ~30,462 |
+| Forgotten Sorority | 91.00% | ~231,009 |
+| Private Club | 74.00% | ~187,853 |
+| Rogue Guild | 65.00% | ~165,006 |
+| I Watched the Intro | 57.00% | ~144,698 |
+| Covert Consortium | 55.00% | ~139,621 |
+| Goat Queen | 53.00% | ~134,544 |
+| Reach the Stratosphere | 51.00% | ~129,467 |
+| Synchronization Complete | 47.00% | ~119,312 |
+| Secret Society | 45.00% | ~114,235 |
+| Shadow Syndicate | 38.00% | ~96,465 |
+| What a Waste of Money | 33.00% | ~83,772 |
+| New Goat Order | 30.00% | ~76,157 |
+| Don't touch the servers | 28.00% | ~71,080 |
+| San Angora: Become Human | 27.00% | ~68,541 |
+| Real Buoy | 27.00% | ~68,541 |
+| Raider of the Lost Parking Garage | 26.00% | ~66,003 |
+| Welcome to Earth | 25.00% | ~63,464 |
+| Egg Simulator | 19.00% | ~48,233 |
+| Into the Matrix | 19.00% | ~48,233 |
+| Where is It? | 17.00% | ~43,156 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~38,078 |
+| 401(K.O.) | 15.00% | ~38,078 |
+| Black Market | 14.00% | ~35,540 |
+| Car Cave | 12.00% | ~30,463 |
 | Club Mohair | 8.00% | ~20,308 |
 | A Center for Ants? | 8.00% | ~20,308 |
-| French Fika | 7.00% | ~17,769 |
-| Nasty! | 5.00% | ~12,692 |
-| [REDACTED] | 5.00% | ~12,692 |
+| French Fika | 7.00% | ~17,770 |
+| Nasty! | 5.00% | ~12,693 |
+| [REDACTED] | 5.00% | ~12,693 |
 | Who Baywatches the Baywatch? | 4.00% | ~10,154 |
 | Cannibanana | 2.00% | ~5,077 |
 | Daredevil | 2.00% | ~5,077 |
-| Crocsquatch | 1.00% | ~2,538 |
-| You Trusted Your Instincts | 1.00% | ~2,538 |
-| Certified Fresh | 1.00% | ~2,538 |
-| Streaking | 1.00% | ~2,538 |
-| Try Hard 2 | 1.00% | ~2,538 |
+| Crocsquatch | 1.00% | ~2,539 |
+| You Trusted Your Instincts | 1.00% | ~2,539 |
+| Certified Fresh | 1.00% | ~2,539 |
+| Streaking | 1.00% | ~2,539 |
+| Try Hard 2 | 1.00% | ~2,539 |
 | Move! That! Bus! | 0.60% | ~1,523 |
 | G.O.A.T | 0.40% | ~1,015 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,848 (Ranked 61)  
-Completed: 901 (0.35%) (Ranked 232)  
+Progressed: 253,856 (Ranked 61)  
+Completed: 901 (0.35%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,15 +280,15 @@ Completed: 901 (0.35%) (Ranked 232)
 | 2023-12-08 | 253,447 | 896 |
 | 2023-12-09 | 253,634 | 898 |
 | 2023-12-10 | 253,775 | 900 |
-| 2023-12-11 | 253,848 | 901 |
+| 2023-12-11 | 253,856 | 901 |
 ## Awards
 Max (Great for Beginners): 491  (Ranked 215)  
-Sum: 4,064 (Ranked 155)  
-Diff (max vs sum): 60  
+Sum: 4,066 (Ranked 156)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 491 |
-| This game has Diverse Characters | 467 |
+| This game has Diverse Characters | 468 |
 | This game is Highly Recommended | 436 |
 | This game has Amazing Characters | 405 |
 | This game is Extremely Fun | 398 |
@@ -296,7 +296,7 @@ Diff (max vs sum): 60
 | This game has Quickly Understood Controls | 377 |
 | This game has a Silly Community | 377 |
 | This game is Relaxing | 374 |
-| This game has Easy Combat | 354 |
+| This game has Easy Combat | 355 |
 | This game is Educational | 263 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -559,4 +559,4 @@ Diff (max vs sum): 60
 | 2023-12-08 | 4.84 | 488 | 4,034 |
 | 2023-12-09 | 4.84 | 488 | 4,047 |
 | 2023-12-10 | 4.84 | 491 | 4,062 |
-| 2023-12-11 | 4.84 | 491 | 4,064 |
+| 2023-12-11 | 4.84 | 491 | 4,066 |

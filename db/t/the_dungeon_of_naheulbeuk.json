@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1485,9 +1485,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 242296,
+  "EOS_Progressed": 242300,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1014,
+  "EOS_NewPlayers": 1008,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21895,6 +21895,11 @@
       "Time": "2023-12-11T17:09:23.988002+00:00",
       "NumProgressed": 242296,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-11T18:09:10.9164634+00:00",
+      "NumProgressed": 242300,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -21946,7 +21951,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "Chapter1",
@@ -22354,7 +22359,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87227
+      "UsersEstimate": 87228
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -22498,7 +22503,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "QuestMinstrel",
@@ -22609,21 +22614,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 242296,
+      "Progressed": 242300,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 242296,
+      "Progressed": 242300,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-10T05:02:45.7220672+00:00",
-  "LastChanged_Achievements": "2023-12-11T17:09:23.9880016+00:00",
+  "LastChanged_Achievements": "2023-12-11T18:09:10.9164632+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.1177484+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:02:59.9202377+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:09:23.988152+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:02:41.1437395+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:09:10.9166142+00:00"
 }

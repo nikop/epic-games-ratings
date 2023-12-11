@@ -2,10 +2,10 @@
   "ID": "18ba5ade23ee4b49a65d84712ef4c895",
   "Name": "Volley Pals",
   "ProductSlug": "volley-pals-0120b4",
-  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 30.16,
+  "EOS_Completed_Percentage": 29.92,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -694,6 +694,11 @@
       "Time": "2023-11-08T07:04:26.5340589+00:00",
       "NumProgressed": 126,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-11T18:05:22.936643+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 10,
@@ -705,7 +710,7 @@
       "Name": "Beach",
       "Percentage": 94,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "LEVEL_1",
@@ -713,15 +718,15 @@
       "Name": "Library",
       "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 70
     },
     {
       "ID": "LEVEL_3",
@@ -753,7 +758,7 @@
       "Name": "Mecha Wars",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_7",
@@ -761,7 +766,7 @@
       "Name": "Sewer",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_8",
@@ -775,23 +780,23 @@
       "ID": "LEVEL_9",
       "SetID": "1fnbp5h",
       "Name": "Custom Court",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 38
     }
   ],
   "FirstSeen": "2023-09-02T02:13:34.6238392+00:00",
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-12-11T17:05:36.976968+00:00",
+  "LastChanged_Achievements": "2023-12-11T18:05:22.9366425+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:55.7699039+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:58:55.7942159+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:05:36.9769804+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:58:54.1699691+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:05:22.9366547+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -837,9 +837,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -989,9 +989,9 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     }
   ],
   "AchievementSets": [
@@ -1004,8 +1004,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-11T17:06:29.1452916+00:00",
+  "LastChanged_Achievements": "2023-12-11T18:06:16.0510038+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.1388786+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:58:41.665146+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:06:29.1453253+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:58:39.5223682+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:06:16.0510365+00:00"
 }

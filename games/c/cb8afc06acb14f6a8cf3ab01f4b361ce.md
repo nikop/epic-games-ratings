@@ -14,9 +14,9 @@ Rating: 4.21 (Ranked 915)
 | Pride is a sin, young Knight | 0.70% | ~2,292 |
 | We'll be careful | 0.60% | ~1,965 |
 | Back to your senses | 0.50% | ~1,637 |
+| They tricked me | 0.50% | ~1,637 |
 | They won't last long | 0.50% | ~1,637 |
 | Bring it on! | 0.50% | ~1,637 |
-| They tricked me | 0.40% | ~1,310 |
 | We need to talk | 0.40% | ~1,310 |
 | I feel drawn to it | 0.40% | ~1,310 |
 | Here to stay | 0.40% | ~1,310 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 915)
 | Something... unnatural | 0.10% | ~327 |
 | We strike as one | 0.10% | ~327 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,452 (Ranked 52)  
+Progressed: 327,469 (Ranked 52)  
 Completed: 5 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 5 (0.00%) (Ranked 371)
 | 2023-12-08 | 325,868 | 5 |
 | 2023-12-09 | 326,517 | 5 |
 | 2023-12-10 | 327,167 | 5 |
-| 2023-12-11 | 327,452 | 5 |
+| 2023-12-11 | 327,469 | 5 |
 ## Awards
 Max (Great Boss Battles): 65  (Ranked 411)  
 Sum: 65 (Ranked 478)  

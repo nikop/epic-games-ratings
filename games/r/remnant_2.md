@@ -1,14 +1,14 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 147)  
+Rating: 4.75 (Ranked 148)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.80% | ~1,908 |
 | First of Many | 0.80% | ~1,908 |
-| Regicide | 0.80% | ~141 |
-| Master of the Dark Arts | 0.80% | ~141 |
+| Regicide | 0.80% | ~142 |
+| Master of the Dark Arts | 0.80% | ~142 |
 | Expanding Horizons | 0.60% | ~1,431 |
 | Not Your Average Trait | 0.60% | ~1,431 |
 | Gleaming the Cube | 0.50% | ~1,193 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | You Shall Pass | 0.20% | ~35 |
 | A Foul Feast | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,520 (Ranked 66)  
+Progressed: 238,543 (Ranked 66)  
 Completed: 578 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 578 (0.24%) (Ranked 251)
 | 2023-12-08 | 237,044 | 572 |
 | 2023-12-09 | 237,633 | 573 |
 | 2023-12-10 | 238,247 | 577 |
-| 2023-12-11 | 238,520 | 578 |
+| 2023-12-11 | 238,543 | 578 |
 ## Awards
 Max (Great Boss Battles): 2,717  (Ranked 102)  
 Sum: 6,769 (Ranked 126)  

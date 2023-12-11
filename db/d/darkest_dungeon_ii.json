@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9484,10 +9484,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20065,
       "NumberOfAwardsMax": 7586
+    },
+    {
+      "Time": "2023-12-11T17:58:23.8243013+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20071,
+      "NumberOfAwardsMax": 7586
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20065,
+  "NumberOfAwards": 20071,
   "NumberOfAwardsMax": 7586,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9519,7 +9525,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1547
+      "Count": 1553
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9564,9 +9570,9 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126141,
+  "EOS_Progressed": 126159,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34519,6 +34525,11 @@
       "Time": "2023-12-11T17:08:45.6552404+00:00",
       "NumProgressed": 126141,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-11T18:08:32.0226722+00:00",
+      "NumProgressed": 126159,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34656,9 +34667,9 @@
       "ID": "combat_kill_antiquarian",
       "SetID": "64l4lke",
       "Name": "This Belongs in a Museum",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 378
     },
     {
       "ID": "combat_kill_cadavers",
@@ -34680,17 +34691,17 @@
       "ID": "combat_kill_death",
       "SetID": "64l4lke",
       "Name": "Not Today!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "combat_kill_dreaming_general",
       "SetID": "64l4lke",
       "Name": "Creep and Sleep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "combat_kill_fanatics",
@@ -34728,9 +34739,9 @@
       "ID": "combat_kill_harvest_child",
       "SetID": "64l4lke",
       "Name": "Meat and Greet",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -34744,17 +34755,17 @@
       "ID": "combat_kill_leviathan",
       "SetID": "64l4lke",
       "Name": "Catch and Decease",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "combat_kill_librarian",
       "SetID": "64l4lke",
       "Name": "Overdue Notice",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "combat_kill_pillagers",
@@ -34768,9 +34779,9 @@
       "ID": "combat_kill_shambler",
       "SetID": "64l4lke",
       "Name": "Escape from the Black Hole",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35056,25 +35067,25 @@
       "ID": "altar_of_hope_memory_equip_all_duelist",
       "SetID": "d3bcpc8",
       "Name": "Ma\u00EEtre De La Lame",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "combat_kill_chirurgeon",
       "SetID": "d3bcpc8",
       "Name": "Malpractice Assurance",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "combat_kill_collector",
       "SetID": "d3bcpc8",
       "Name": "This guy... again?",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35120,17 +35131,17 @@
       "ID": "hero_story_complete_duelist",
       "SetID": "d3bcpc8",
       "Name": "Bloody Graduation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "quest_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Lost and Found",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35161,21 +35172,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126141,
+      "Progressed": 126159,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1010,
+      "Progressed": 1028,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-11T16:58:26.3752655+00:00",
-  "LastChanged_Achievements": "2023-12-11T17:08:45.6552401+00:00",
+  "LastChanged": "2023-12-11T17:58:23.8243011+00:00",
+  "LastChanged_Achievements": "2023-12-11T18:08:32.0226718+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:58:26.3752664+00:00",
-  "LastUpdate_Achievements": "2023-12-11T17:08:45.655431+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:58:23.8243017+00:00",
+  "LastUpdate_Achievements": "2023-12-11T18:08:32.0228163+00:00"
 }

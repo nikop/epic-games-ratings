@@ -5,27 +5,27 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~22,001 |
-| Whatever It Takes | 3.00% | ~1,767 |
-| Pork Chopped | 3.00% | ~1,767 |
-| Dr. Reed, I Presume? | 2.00% | ~14,667 |
-| Git Gutte! | 2.00% | ~14,667 |
-| Anger Management | 2.00% | ~14,667 |
-| Bookworm | 2.00% | ~14,667 |
-| Break A Leg | 2.00% | ~14,667 |
-| But Doctor, I am Butcho | 2.00% | ~14,667 |
-| Can't Handle the Truth | 2.00% | ~14,667 |
-| Coup de Grâce | 2.00% | ~14,667 |
-| Like Riding a Bike | 2.00% | ~14,667 |
-| Hazardous Materials | 2.00% | ~14,667 |
-| Friends Like These | 2.00% | ~14,667 |
-| Hotel California | 2.00% | ~14,667 |
-| Apex Predator | 2.00% | ~14,667 |
-| A Patton Emerges | 2.00% | ~14,667 |
-| Stacking the Deck | 2.00% | ~14,667 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,667 |
-| This is My Weapon | 2.00% | ~14,667 |
-| One of Us | 2.00% | ~1,178 |
+| Welcome To Hell-A | 3.00% | ~22,002 |
+| Whatever It Takes | 3.00% | ~1,768 |
+| Pork Chopped | 3.00% | ~1,768 |
+| Dr. Reed, I Presume? | 2.00% | ~14,668 |
+| Git Gutte! | 2.00% | ~14,668 |
+| Anger Management | 2.00% | ~14,668 |
+| Bookworm | 2.00% | ~14,668 |
+| Break A Leg | 2.00% | ~14,668 |
+| But Doctor, I am Butcho | 2.00% | ~14,668 |
+| Can't Handle the Truth | 2.00% | ~14,668 |
+| Coup de Grâce | 2.00% | ~14,668 |
+| Like Riding a Bike | 2.00% | ~14,668 |
+| Hazardous Materials | 2.00% | ~14,668 |
+| Friends Like These | 2.00% | ~14,668 |
+| Hotel California | 2.00% | ~14,668 |
+| Apex Predator | 2.00% | ~14,668 |
+| A Patton Emerges | 2.00% | ~14,668 |
+| Stacking the Deck | 2.00% | ~14,668 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,668 |
+| This is My Weapon | 2.00% | ~14,668 |
+| One of Us | 2.00% | ~1,179 |
 | Making Your Mark | 1.00% | ~7,334 |
 | Perks of the Job | 1.00% | ~7,334 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,334 |
@@ -47,9 +47,9 @@ Rating: 4.54 (Ranked 533)
 | On Safari | 0.60% | ~4,400 |
 | Variety is the Spice of Death | 0.60% | ~4,400 |
 | LA Influential | 0.50% | ~3,667 |
-| Sole Survivor | 0.40% | ~2,933 |
-| Gore Horse | 0.40% | ~2,933 |
-| Sharpest Tool in the Box | 0.40% | ~2,933 |
+| Sole Survivor | 0.40% | ~2,934 |
+| Gore Horse | 0.40% | ~2,934 |
+| Sharpest Tool in the Box | 0.40% | ~2,934 |
 | Top That, Tisha! | 0.40% | ~236 |
 | Survival Skills | 0.30% | ~2,200 |
 | Lawn and Order | 0.20% | ~118 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 533)
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,369 (Ranked 21)  
-Completed: 2,476 (0.34%) (Ranked 234)  
+Progressed: 733,401 (Ranked 21)  
+Completed: 2,476 (0.34%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -292,7 +292,7 @@ Completed: 2,476 (0.34%) (Ranked 234)
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
 | 2023-12-10 | 733,123 | 2,475 |
-| 2023-12-11 | 733,369 | 2,476 |
+| 2023-12-11 | 733,401 | 2,476 |
 ## Awards
 Max (Great Boss Battles): 8,071  (Ranked 49)  
 Sum: 12,418 (Ranked 82)  
