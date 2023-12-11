@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116376,
+  "EOS_Progressed": 116378,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20829,6 +20829,11 @@
       "Time": "2023-12-11T01:57:58.6160713+00:00",
       "NumProgressed": 116376,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-11T02:33:42.2543812+00:00",
+      "NumProgressed": 116378,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20848,7 +20853,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89610
+      "UsersEstimate": 89611
     },
     {
       "ID": "EAwards_10",
@@ -20872,7 +20877,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17456
+      "UsersEstimate": 17457
     },
     {
       "ID": "EAwards_13",
@@ -20912,7 +20917,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43059
+      "UsersEstimate": 43060
     },
     {
       "ID": "EAwards_18",
@@ -20936,7 +20941,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55860
+      "UsersEstimate": 55861
     },
     {
       "ID": "EAwards_20",
@@ -20944,7 +20949,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12801
+      "UsersEstimate": 12802
     },
     {
       "ID": "EAwards_21",
@@ -20984,7 +20989,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22111
+      "UsersEstimate": 22112
     },
     {
       "ID": "EAwards_26",
@@ -20992,7 +20997,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12801
+      "UsersEstimate": 12802
     },
     {
       "ID": "EAwards_27",
@@ -21024,7 +21029,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23275
+      "UsersEstimate": 23276
     },
     {
       "ID": "EAwards_30",
@@ -21224,14 +21229,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12801
+      "UsersEstimate": 12802
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116376,
+      "Progressed": 116378,
       "Completed": 51
     }
   ],
@@ -21239,8 +21244,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-11T01:57:58.6160708+00:00",
+  "LastChanged_Achievements": "2023-12-11T02:33:42.2543808+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.236213+00:00",
-  "LastUpdate_Ratings": "2023-12-11T01:48:09.2558436+00:00",
-  "LastUpdate_Achievements": "2023-12-11T01:57:58.6162085+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:24:42.469817+00:00",
+  "LastUpdate_Achievements": "2023-12-11T02:33:42.2545085+00:00"
 }

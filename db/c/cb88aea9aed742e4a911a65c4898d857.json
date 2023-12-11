@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1959,
+  "EOS_Progressed": 1965,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1957,
+  "EOS_NewPlayers": 1963,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -447,6 +447,11 @@
       "Time": "2023-12-11T01:57:39.0580629+00:00",
       "NumProgressed": 1959,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T02:33:15.6075156+00:00",
+      "NumProgressed": 1965,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -459,7 +464,7 @@
       "Name": "Conspiracy",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 963
     },
     {
       "ID": "03_TheStolenStar",
@@ -467,7 +472,7 @@
       "Name": "Stolen Star",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -569,9 +574,9 @@
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 196
     },
     {
       "ID": "17_TheExemplar",
@@ -675,7 +680,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 882
+      "UsersEstimate": 884
     },
     {
       "ID": "30_The GreatestExploration",
@@ -691,7 +696,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "32_AviationSaviour",
@@ -707,7 +712,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -811,7 +816,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "47_AFlame",
@@ -978,14 +983,14 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 1959,
+      "Progressed": 1965,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-11T01:57:39.0580625+00:00",
+  "LastChanged_Achievements": "2023-12-11T02:33:15.6075153+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-11T01:47:51.0298321+00:00",
-  "LastUpdate_Achievements": "2023-12-11T01:57:39.0581056+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:24:14.8483652+00:00",
+  "LastUpdate_Achievements": "2023-12-11T02:33:15.6076034+00:00"
 }

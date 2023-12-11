@@ -713,7 +713,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 237071,
+  "EOS_Progressed": 237074,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1154,
   "EOS_NewCompleters": 0,
@@ -16953,6 +16953,11 @@
       "Time": "2023-12-11T01:58:09.3670176+00:00",
       "NumProgressed": 237071,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T02:33:56.8754508+00:00",
+      "NumProgressed": 237074,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -17021,7 +17026,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49785
+      "UsersEstimate": 49786
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -17029,7 +17034,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21336
+      "UsersEstimate": 21337
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -17101,7 +17106,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -17109,7 +17114,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -17197,7 +17202,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -17205,7 +17210,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -17236,7 +17241,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 237071,
+      "Progressed": 237074,
       "Completed": 0
     }
   ],
@@ -17244,8 +17249,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-09T14:59:28.1830393+00:00",
-  "LastChanged_Achievements": "2023-12-11T01:58:09.3670173+00:00",
+  "LastChanged_Achievements": "2023-12-11T02:33:56.8754505+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:08.4919895+00:00",
-  "LastUpdate_Ratings": "2023-12-11T01:48:40.6349304+00:00",
-  "LastUpdate_Achievements": "2023-12-11T01:58:09.36709+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:26:18.9817775+00:00",
+  "LastUpdate_Achievements": "2023-12-11T02:33:56.875541+00:00"
 }

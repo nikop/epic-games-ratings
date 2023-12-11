@@ -154,6 +154,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.50% | ~79 |
 | Glorious Difficulty | 0.50% | ~79 |
 | Magnificent Difficulty | 0.50% | ~79 |
+| The Eternal Treaty | 0.50% | ~79 |
 | Hatti | 0.50% | ~79 |
 | Persia | 0.50% | ~79 |
 | Pantheon of Gods | 0.50% | ~79 |
@@ -167,7 +168,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 1) | 0.40% | ~63 |
 | Silver Victory (Carthage 1) | 0.40% | ~63 |
 | Carthage - Riches and Influence | 0.40% | ~63 |
-| The Eternal Treaty | 0.40% | ~63 |
 | Five Routs | 0.40% | ~63 |
 | Run, Pheidippides, Run! | 0.40% | ~63 |
 | Nenikekamen | 0.40% | ~63 |

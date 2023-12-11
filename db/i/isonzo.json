@@ -9294,9 +9294,9 @@
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
       "SetID": "akchbl3",
       "Name": "Luigi Cadorna",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1492
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -9519,8 +9519,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-09T14:58:44.4952754+00:00",
-  "LastChanged_Achievements": "2023-12-11T01:56:58.5344308+00:00",
+  "LastChanged_Achievements": "2023-12-11T02:32:19.4994853+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:02.1312935+00:00",
-  "LastUpdate_Ratings": "2023-12-11T01:47:58.9379975+00:00",
-  "LastUpdate_Achievements": "2023-12-11T01:56:58.534485+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:24:27.125654+00:00",
+  "LastUpdate_Achievements": "2023-12-11T02:32:19.4995386+00:00"
 }

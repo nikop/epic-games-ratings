@@ -5,15 +5,15 @@ Rating: 4.51 (Ranked 575)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~172,508 |
-| FIRST BLOOD | 40.00% | ~153,340 |
-| KEVIN! | 30.00% | ~115,005 |
-| JACK OF ALL TRADES | 23.00% | ~88,171 |
-| CRIMINAL | 20.00% | ~76,670 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~42,169 |
+| MASTER CHEF | 45.00% | ~172,512 |
+| FIRST BLOOD | 40.00% | ~153,344 |
+| KEVIN! | 30.00% | ~115,008 |
+| JACK OF ALL TRADES | 23.00% | ~88,173 |
+| CRIMINAL | 20.00% | ~76,672 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~42,170 |
 | WITHOUT BREAKING A SWEAT | 9.00% | ~34,502 |
-| HONORS STUDENT | 8.00% | ~30,668 |
-| BUTCHER | 6.00% | ~23,001 |
+| HONORS STUDENT | 8.00% | ~30,669 |
+| BUTCHER | 6.00% | ~23,002 |
 | INDIVIDUAL APPROACH | 5.00% | ~19,168 |
 | RAMBO | 5.00% | ~19,168 |
 | HELL'S KITCHEN | 4.00% | ~15,334 |
@@ -25,8 +25,8 @@ Rating: 4.51 (Ranked 575)
 | GOURMET | 1.00% | ~3,834 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,834 |
 | PRUDENT | 1.00% | ~3,834 |
-| HIGH TECHNOLOGIES | 0.70% | ~2,683 |
-| SCATTERBRAIN | 0.70% | ~2,683 |
+| HIGH TECHNOLOGIES | 0.70% | ~2,684 |
+| SCATTERBRAIN | 0.70% | ~2,684 |
 | TASTE UNTASTY | 0.50% | ~1,917 |
 | DEBTOR | 0.20% | ~767 |
 | I'VE SEEN SOME… | 0.20% | ~767 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 575)
 | MISTER ALL THUMBS | 0.10% | ~383 |
 | TRAVELER | 0.10% | ~383 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383,351 (Ranked 47)  
+Progressed: 383,361 (Ranked 47)  
 Completed: 47 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 47 (0.01%) (Ranked 348)
 | 2023-12-08 | 382,120 | 46 |
 | 2023-12-09 | 382,726 | 46 |
 | 2023-12-10 | 383,301 | 46 |
-| 2023-12-11 | 383,351 | 47 |
+| 2023-12-11 | 383,361 | 47 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

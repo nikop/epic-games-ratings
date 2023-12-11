@@ -7415,10 +7415,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27683,
       "NumberOfAwardsMax": 4871
+    },
+    {
+      "Time": "2023-12-11T02:27:06.8114219+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27684,
+      "NumberOfAwardsMax": 4871
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27683,
+  "NumberOfAwards": 27684,
   "NumberOfAwardsMax": 4871,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7462,7 +7468,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3217
+      "Count": 3218
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7471,9 +7477,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144666,
+  "EOS_Progressed": 144671,
   "EOS_Completed": 293,
-  "EOS_NewPlayers": 932,
+  "EOS_NewPlayers": 935,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -31891,6 +31897,11 @@
       "Time": "2023-12-11T01:54:17.6550106+00:00",
       "NumProgressed": 144666,
       "NumCompleted": 293
+    },
+    {
+      "Time": "2023-12-11T02:30:41.258833+00:00",
+      "NumProgressed": 144671,
+      "NumCompleted": 293
     }
   ],
   "TotalAchievements": 112,
@@ -32166,7 +32177,7 @@
       "Name": "Disintermediation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7233
+      "UsersEstimate": 7234
     },
     {
       "ID": "craft02",
@@ -32278,7 +32289,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7233
+      "UsersEstimate": 7234
     },
     {
       "ID": "expansion02",
@@ -32678,7 +32689,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7233
+      "UsersEstimate": 7234
     },
     {
       "ID": "sell02",
@@ -32797,15 +32808,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144666,
+      "Progressed": 144671,
       "Completed": 293
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-10T18:02:59.7267882+00:00",
-  "LastChanged_Achievements": "2023-12-11T01:54:17.6550101+00:00",
+  "LastChanged": "2023-12-11T02:27:06.8114217+00:00",
+  "LastChanged_Achievements": "2023-12-11T02:30:41.2588326+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-11T01:51:44.5032652+00:00",
-  "LastUpdate_Achievements": "2023-12-11T01:54:17.6552539+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:27:06.8114223+00:00",
+  "LastUpdate_Achievements": "2023-12-11T02:30:41.2590166+00:00"
 }

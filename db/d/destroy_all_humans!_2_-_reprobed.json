@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 542,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -678,17 +678,17 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -766,9 +766,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -791,8 +791,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-10-14T18:57:04.8470544+00:00",
-  "LastChanged_Achievements": "2023-12-11T01:56:41.0559128+00:00",
+  "LastChanged_Achievements": "2023-12-11T02:31:54.7258747+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.5493724+00:00",
-  "LastUpdate_Ratings": "2023-12-11T01:48:27.6834672+00:00",
-  "LastUpdate_Achievements": "2023-12-11T01:56:41.0559414+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:25:10.2079486+00:00",
+  "LastUpdate_Achievements": "2023-12-11T02:31:54.7259017+00:00"
 }

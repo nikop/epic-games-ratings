@@ -319,9 +319,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "10",
@@ -542,8 +542,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-11T01:53:24.9783908+00:00",
+  "LastChanged_Achievements": "2023-12-11T02:29:28.0803616+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:47.1183869+00:00",
-  "LastUpdate_Ratings": "2023-12-11T01:51:39.0340328+00:00",
-  "LastUpdate_Achievements": "2023-12-11T01:53:24.9784131+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:26:58.4844878+00:00",
+  "LastUpdate_Achievements": "2023-12-11T02:29:28.0803838+00:00"
 }

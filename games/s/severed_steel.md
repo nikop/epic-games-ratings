@@ -5,23 +5,23 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 31.00% | ~212,744 |
-| 50 HEADSHOTS | 29.00% | ~199,018 |
-| SCIENCE AND INDUSTRY | 28.00% | ~192,156 |
-| FINISHED CHAPTER 1 | 27.00% | ~185,293 |
-| FINISHED CHAPTER 2 | 20.00% | ~137,254 |
-| 200 HEADSHOTS | 18.00% | ~123,529 |
-| FINISHED CHAPTER 3 | 17.00% | ~116,666 |
-| FINISHED CHAPTER 4 | 14.00% | ~96,078 |
-| FINISH CHAPTER 5 | 12.00% | ~82,352 |
-| CATHARTIC ESCAPISM | 11.00% | ~75,490 |
-| FINISH CHAPTER 6 | 10.00% | ~68,627 |
-| 1000 KILLS | 9.00% | ~61,764 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,451 |
+| 100 KILLS | 31.00% | ~212,737 |
+| 50 HEADSHOTS | 29.00% | ~199,012 |
+| SCIENCE AND INDUSTRY | 28.00% | ~192,149 |
+| FINISHED CHAPTER 1 | 27.00% | ~185,287 |
+| FINISHED CHAPTER 2 | 20.00% | ~137,250 |
+| 200 HEADSHOTS | 18.00% | ~123,525 |
+| FINISHED CHAPTER 3 | 17.00% | ~116,662 |
+| FINISHED CHAPTER 4 | 14.00% | ~96,075 |
+| FINISH CHAPTER 5 | 12.00% | ~82,350 |
+| CATHARTIC ESCAPISM | 11.00% | ~75,487 |
+| FINISH CHAPTER 6 | 10.00% | ~68,625 |
+| 1000 KILLS | 9.00% | ~61,762 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,450 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,725 |
 | FIRST BLOOD | 2.00% | ~13,725 |
-| PACEMAKER | 1.00% | ~6,863 |
-| TIME PARADOX | 1.00% | ~6,863 |
+| PACEMAKER | 1.00% | ~6,862 |
+| TIME PARADOX | 1.00% | ~6,862 |
 | FIREFIGHT LEVEL 30 | 0.90% | ~6,176 |
 | OUT OF ORDER | 0.90% | ~6,176 |
 | PARTYHARD | 0.80% | ~5,490 |
@@ -31,9 +31,9 @@ Rating: 4.69 (Ranked 232)
 | FIREFIGHT LEVEL 50 | 0.30% | ~2,059 |
 | REMEMBER THE ARMORY | 0.30% | ~2,059 |
 | 5 RUNS | 0.30% | ~2,059 |
-| CHALET | 0.20% | ~1,373 |
-| FIREFIGHT LEVEL 60 | 0.20% | ~1,373 |
-| SOUL - HORIZONS | 0.20% | ~1,373 |
+| CHALET | 0.20% | ~1,372 |
+| FIREFIGHT LEVEL 60 | 0.20% | ~1,372 |
+| SOUL - HORIZONS | 0.20% | ~1,372 |
 | HEY THATS CHEATING | 0.10% | ~686 |
 | COMPLIMENTS TO THE CHEF | 0.10% | ~686 |
 | BUT WHY? | 0.10% | ~686 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 232)
 | THE GAMBLER | 0.10% | ~686 |
 | WARRIOR IN A GARDEN | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,270 (Ranked 27)  
+Progressed: 686,248 (Ranked 27)  
 Completed: 74 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |

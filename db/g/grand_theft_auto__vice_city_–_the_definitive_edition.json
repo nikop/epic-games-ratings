@@ -913,9 +913,9 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 11336,
+  "EOS_Progressed": 11337,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -14108,6 +14108,11 @@
       "Time": "2023-12-11T01:57:34.0339104+00:00",
       "NumProgressed": 11336,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-12-11T02:33:08.5720562+00:00",
+      "NumProgressed": 11337,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 34,
@@ -14223,7 +14228,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 4874
+      "UsersEstimate": 4875
     },
     {
       "ID": "ACH15",
@@ -14303,7 +14308,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "ACH25",
@@ -14311,7 +14316,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "ACH26",
@@ -14390,7 +14395,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11336,
+      "Progressed": 11337,
       "Completed": 67
     }
   ],
@@ -14398,8 +14403,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-10T03:59:04.4069107+00:00",
-  "LastChanged_Achievements": "2023-12-11T01:57:34.0339099+00:00",
+  "LastChanged_Achievements": "2023-12-11T02:33:08.5720559+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.0199326+00:00",
-  "LastUpdate_Ratings": "2023-12-11T01:48:00.0626683+00:00",
-  "LastUpdate_Achievements": "2023-12-11T01:57:34.033992+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:24:28.5736204+00:00",
+  "LastUpdate_Achievements": "2023-12-11T02:33:08.5721379+00:00"
 }

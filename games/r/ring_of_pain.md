@@ -11,6 +11,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Uncharted Territory | 0.70% | ~1,686 |
 | Not Touching You | 0.70% | ~16 |
 | Getting A Glimpse | 0.60% | ~1,445 |
+| Colorful Corpse | 0.60% | ~1,445 |
 | Defeat The Dark | 0.60% | ~1,445 |
 | A Quick Escape | 0.60% | ~1,445 |
 | Explorer | 0.60% | ~1,445 |
@@ -21,7 +22,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Delving Deeper | 0.50% | ~1,204 |
 | R.I.P | 0.50% | ~1,204 |
 | That Was Quick | 0.50% | ~1,204 |
-| Colorful Corpse | 0.50% | ~1,204 |
 | The Bestiary | 0.50% | ~1,204 |
 | Goodbye, Frog Friend | 0.50% | ~1,204 |
 | Heartless | 0.50% | ~1,204 |

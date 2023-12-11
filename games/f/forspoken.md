@@ -5,14 +5,14 @@ Rating: 4.13 (Ranked 970)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,352 |
+| Attachments | 10.00% | ~4,353 |
 | Unlocked Potential | 9.00% | ~3,917 |
 | Tinkerer | 7.00% | ~3,047 |
-| Leapfrogger | 6.00% | ~2,611 |
-| Knock 'Em Dead | 6.00% | ~2,611 |
-| Pilgrimage: Initiate | 6.00% | ~2,611 |
-| Hell of a Run | 6.00% | ~2,611 |
-| Call of the Fount: Baptized | 6.00% | ~2,611 |
+| Leapfrogger | 6.00% | ~2,612 |
+| Knock 'Em Dead | 6.00% | ~2,612 |
+| Pilgrimage: Initiate | 6.00% | ~2,612 |
+| Hell of a Run | 6.00% | ~2,612 |
+| Call of the Fount: Baptized | 6.00% | ~2,612 |
 | No Mercy | 5.00% | ~2,176 |
 | Explorer: Seeker | 5.00% | ~2,176 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,741 |
@@ -22,12 +22,12 @@ Rating: 4.13 (Ranked 970)
 | The Interloper | 3.00% | ~1,306 |
 | Hop, Step, Jump | 3.00% | ~1,306 |
 | Endless Runner | 3.00% | ~1,306 |
-| What Must Be Done | 2.00% | ~870 |
-| Might and Main | 2.00% | ~870 |
-| Damned If You Do... | 2.00% | ~870 |
-| Explorer: Pathfinder | 2.00% | ~870 |
-| Shocker | 2.00% | ~870 |
-| From Every Angle | 2.00% | ~870 |
+| What Must Be Done | 2.00% | ~871 |
+| Might and Main | 2.00% | ~871 |
+| Damned If You Do... | 2.00% | ~871 |
+| Explorer: Pathfinder | 2.00% | ~871 |
+| Shocker | 2.00% | ~871 |
+| From Every Angle | 2.00% | ~871 |
 | The Hue of Blue | 1.00% | ~435 |
 | The Truth Will Out | 1.00% | ~435 |
 | Breaking Point | 1.00% | ~435 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 970)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,524 (Ranked 118)  
+Progressed: 43,526 (Ranked 118)  
 Completed: 3 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 3 (0.01%) (Ranked 348)
 | 2023-12-08 | 43,450 | 3 |
 | 2023-12-09 | 43,486 | 3 |
 | 2023-12-10 | 43,521 | 3 |
-| 2023-12-11 | 43,524 | 3 |
+| 2023-12-11 | 43,526 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 502)  
 Sum: 29 (Ranked 518)  

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Seeds of War | 81.00% | ~282 |
 | First Blood | 63.00% | ~219 |
-| Triple Kill | 61.00% | ~212 |
+| Triple Kill | 62.00% | ~216 |
 | Aspairagus | 59.00% | ~176 |
 | No Asperascope | 58.00% | ~202 |
 | Survivor | 57.00% | ~170 |

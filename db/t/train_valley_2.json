@@ -3689,9 +3689,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 422743,
+  "EOS_Progressed": 422744,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1600,
+  "EOS_NewPlayers": 1595,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21854,6 +21854,11 @@
       "Time": "2023-12-11T01:54:27.8605625+00:00",
       "NumProgressed": 422743,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-12-11T02:30:55.4690467+00:00",
+      "NumProgressed": 422744,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 89,
@@ -21993,7 +21998,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 308602
+      "UsersEstimate": 308603
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -22049,7 +22054,7 @@
       "Name": "Full garage",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 257873
+      "UsersEstimate": 257874
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -22089,7 +22094,7 @@
       "Name": "Individual delivery",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 198689
+      "UsersEstimate": 198690
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -22145,7 +22150,7 @@
       "Name": "Juggler",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 152187
+      "UsersEstimate": 152188
     },
     {
       "ID": "AchievementJustInTime",
@@ -22225,7 +22230,7 @@
       "Name": "Multilevel road",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 63411
+      "UsersEstimate": 63412
     },
     {
       "ID": "AchievementNeedToThink",
@@ -22241,7 +22246,7 @@
       "Name": "Non-Stop",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 190234
+      "UsersEstimate": 190235
     },
     {
       "ID": "AchievementOneWay",
@@ -22281,7 +22286,7 @@
       "Name": "Prick of conscience",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 33819
+      "UsersEstimate": 33820
     },
     {
       "ID": "AchievementRailroadTycoon",
@@ -22576,21 +22581,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 422084,
+      "Progressed": 422085,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 422743,
+      "Progressed": 422744,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-12-10T21:58:59.3147535+00:00",
-  "LastChanged_Achievements": "2023-12-11T01:54:27.860562+00:00",
+  "LastChanged_Achievements": "2023-12-11T02:30:55.4690464+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:57.7448768+00:00",
-  "LastUpdate_Ratings": "2023-12-11T01:46:57.3137614+00:00",
-  "LastUpdate_Achievements": "2023-12-11T01:54:27.860705+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:22:56.0361431+00:00",
+  "LastUpdate_Achievements": "2023-12-11T02:30:55.4691871+00:00"
 }

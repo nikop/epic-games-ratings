@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 254365,
+  "EOS_Progressed": 254366,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26725,6 +26725,11 @@
       "Time": "2023-12-11T01:52:03.1209635+00:00",
       "NumProgressed": 254365,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-11T02:27:34.2200142+00:00",
+      "NumProgressed": 254366,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -26800,7 +26805,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33067
+      "UsersEstimate": 33068
     },
     {
       "ID": "ACH_HATTRICK",
@@ -26952,7 +26957,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63591
+      "UsersEstimate": 63592
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -27056,7 +27061,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63591
+      "UsersEstimate": 63592
     },
     {
       "ID": "ACH_SOREAD",
@@ -27151,7 +27156,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 254365,
+      "Progressed": 254366,
       "Completed": 7
     }
   ],
@@ -27159,8 +27164,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-11T01:52:03.1209631+00:00",
+  "LastChanged_Achievements": "2023-12-11T02:27:34.2200136+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:18.8009639+00:00",
-  "LastUpdate_Ratings": "2023-12-11T01:51:19.8630939+00:00",
-  "LastUpdate_Achievements": "2023-12-11T01:52:03.1211063+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:26:30.20278+00:00",
+  "LastUpdate_Achievements": "2023-12-11T02:27:34.2201755+00:00"
 }

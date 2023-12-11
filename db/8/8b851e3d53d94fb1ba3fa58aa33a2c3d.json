@@ -455,9 +455,9 @@
       "ID": "BAD_MUSICIAN",
       "SetID": "e4de54",
       "Name": "Bad musician",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BAD_SHOT",
@@ -471,9 +471,9 @@
       "ID": "BEVERAGE_OF_THE_GODS",
       "SetID": "e4de54",
       "Name": "Beverage of the gods",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CAREFULNESS",
@@ -639,17 +639,17 @@
       "ID": "RED_HERRING",
       "SetID": "e4de54",
       "Name": "Red herring",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SELF_CONFIDENCE",
       "SetID": "e4de54",
       "Name": "Self-confidence",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SPIDER",
@@ -694,8 +694,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-12-11T01:55:02.8840388+00:00",
+  "LastChanged_Achievements": "2023-12-11T02:31:45.0592305+00:00",
   "LastUpdate_AppInfo": "2023-12-09T07:57:15.513485+00:00",
-  "LastUpdate_Ratings": "2023-12-11T01:48:05.4387441+00:00",
-  "LastUpdate_Achievements": "2023-12-11T01:55:02.8840646+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:24:36.431421+00:00",
+  "LastUpdate_Achievements": "2023-12-11T02:31:45.059257+00:00"
 }

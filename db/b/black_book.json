@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 59312,
+  "EOS_Progressed": 59313,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 1466,
+  "EOS_NewPlayers": 1465,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12768,6 +12768,11 @@
       "Time": "2023-12-11T01:52:12.7025741+00:00",
       "NumProgressed": 59312,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-12-11T02:27:47.7058098+00:00",
+      "NumProgressed": 59313,
+      "NumCompleted": 59
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -12932,7 +12937,7 @@
       "Name": "Righteous",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "GREAT_SORCERER",
@@ -12980,7 +12985,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 16607
+      "UsersEstimate": 16608
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -13012,7 +13017,7 @@
       "Name": "Musician",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "NEW_SPIRITS",
@@ -13028,7 +13033,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7117
+      "UsersEstimate": 7118
     },
     {
       "ID": "NORMAL_END",
@@ -13036,7 +13041,7 @@
       "Name": "Koldun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "OLD_SPIRITS",
@@ -13179,15 +13184,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 59312,
+      "Progressed": 59313,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-11T01:52:12.7025736+00:00",
+  "LastChanged_Achievements": "2023-12-11T02:27:47.7058091+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:06.7954209+00:00",
-  "LastUpdate_Ratings": "2023-12-11T01:48:03.5349911+00:00",
-  "LastUpdate_Achievements": "2023-12-11T01:52:12.7026615+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:24:33.4947751+00:00",
+  "LastUpdate_Achievements": "2023-12-11T02:27:47.7058904+00:00"
 }

@@ -190,9 +190,9 @@
       "ID": "ACH_DEFEAT_KUKUTEKO",
       "SetID": "7m06add",
       "Name": "Kukuteko",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DEFEAT_OMOTOKE",
@@ -206,9 +206,9 @@
       "ID": "ACH_DEFEAT_SANGODELE",
       "SetID": "7m06add",
       "Name": "Sangodele",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DEFEAT_SPECIAL_GUARDIAN",
@@ -349,8 +349,8 @@
   ],
   "FirstSeen": "2023-07-23T09:57:14.6972253+00:00",
   "FirstSeenAchievements": "2023-07-01T13:14:13.8674761+00:00",
-  "LastChanged_Achievements": "2023-12-11T01:57:49.530251+00:00",
+  "LastChanged_Achievements": "2023-12-11T02:33:30.0198409+00:00",
   "LastUpdate_AppInfo": "2023-12-09T04:57:12.7477134+00:00",
-  "LastUpdate_Ratings": "2023-12-11T01:46:44.7402684+00:00",
-  "LastUpdate_Achievements": "2023-12-11T01:57:49.5302718+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:22:37.0792034+00:00",
+  "LastUpdate_Achievements": "2023-12-11T02:33:30.0198539+00:00"
 }

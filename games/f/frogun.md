@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Historian | 93.00% | ~211 |
+| Historian | 94.00% | ~213 |
 | Treasure hunter | 90.00% | ~204 |
-| Survivalist | 83.00% | ~188 |
-| Challenge seeker | 79.00% | ~179 |
+| Survivalist | 84.00% | ~191 |
+| Challenge seeker | 80.00% | ~182 |
 | Coin collector | 74.00% | ~168 |
 | Floater | 59.00% | ~134 |
 | Speedrunner | 44.00% | ~100 |

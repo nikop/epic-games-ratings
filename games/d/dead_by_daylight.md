@@ -6,25 +6,25 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~21,735 |
-| It wakes | 2.00% | ~21,735 |
-| Not half bad | 2.00% | ~21,735 |
-| Skillful | 2.00% | ~21,735 |
-| Make Some Noise | 2.00% | ~21,735 |
-| The Grand Sacrifice | 1.00% | ~10,867 |
-| No one left behind | 1.00% | ~10,867 |
-| Medic | 1.00% | ~10,867 |
-| Handyman | 1.00% | ~10,867 |
-| Perfect Escape | 1.00% | ~10,867 |
-| Bloody Millionaire | 1.00% | ~10,867 |
-| Apt Survivor | 1.00% | ~10,867 |
-| Survival Treasures | 1.00% | ~10,867 |
-| I | 1.00% | ~10,867 |
-| Sorted | 1.00% | ~10,867 |
-| Healthy Obsession | 1.00% | ~10,867 |
-| Resurgence | 1.00% | ~10,867 |
-| Preemptive Strike | 1.00% | ~10,867 |
-| Humanitarian | 1.00% | ~10,867 |
+| Zealous | 2.00% | ~21,736 |
+| It wakes | 2.00% | ~21,736 |
+| Not half bad | 2.00% | ~21,736 |
+| Skillful | 2.00% | ~21,736 |
+| Make Some Noise | 2.00% | ~21,736 |
+| The Grand Sacrifice | 1.00% | ~10,868 |
+| No one left behind | 1.00% | ~10,868 |
+| Medic | 1.00% | ~10,868 |
+| Handyman | 1.00% | ~10,868 |
+| Perfect Escape | 1.00% | ~10,868 |
+| Bloody Millionaire | 1.00% | ~10,868 |
+| Apt Survivor | 1.00% | ~10,868 |
+| Survival Treasures | 1.00% | ~10,868 |
+| I | 1.00% | ~10,868 |
+| Sorted | 1.00% | ~10,868 |
+| Healthy Obsession | 1.00% | ~10,868 |
+| Resurgence | 1.00% | ~10,868 |
+| Preemptive Strike | 1.00% | ~10,868 |
+| Humanitarian | 1.00% | ~10,868 |
 | Agonizing Escape | 0.90% | ~9,781 |
 | Backdoor Escape | 0.90% | ~9,781 |
 | Perfect Killing | 0.90% | ~9,781 |
@@ -35,17 +35,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | I've got your back | 0.80% | ~8,694 |
 | Apt Killer | 0.80% | ~8,694 |
 | Wounded Healer | 0.80% | ~8,694 |
-| Vulture | 0.70% | ~7,607 |
-| III | 0.70% | ~7,607 |
-| Blood on your hands | 0.60% | ~6,520 |
-| Escape Artist | 0.60% | ~6,520 |
-| First to the Punch | 0.60% | ~6,520 |
-| Operation: Survival | 0.60% | ~6,520 |
-| Every Last Drop | 0.60% | ~6,520 |
-| With Scars to Show | 0.60% | ~6,520 |
-| Flight to Freedom | 0.60% | ~6,520 |
-| Lifting The Fog | 0.60% | ~6,520 |
-| Second Act | 0.60% | ~6,520 |
+| Vulture | 0.70% | ~7,608 |
+| III | 0.70% | ~7,608 |
+| Lifting The Fog | 0.70% | ~7,608 |
+| Blood on your hands | 0.60% | ~6,521 |
+| Escape Artist | 0.60% | ~6,521 |
+| First to the Punch | 0.60% | ~6,521 |
+| Operation: Survival | 0.60% | ~6,521 |
+| Every Last Drop | 0.60% | ~6,521 |
+| With Scars to Show | 0.60% | ~6,521 |
+| Flight to Freedom | 0.60% | ~6,521 |
+| Second Act | 0.60% | ~6,521 |
 | Made it out alive! | 0.50% | ~5,434 |
 | Nerves of steel | 0.50% | ~5,434 |
 | Gifts for the Fog | 0.50% | ~5,434 |
@@ -91,22 +91,22 @@ Number of Ratings: 70,340  (23.09.2022)
 | Insult and Injury | 0.30% | ~3,260 |
 | High Speed Pursuit | 0.30% | ~3,260 |
 | Rebuilding The Borgo | 0.30% | ~3,260 |
-| Blood in your mouth | 0.20% | ~2,173 |
-| Deep Cleansing | 0.20% | ~2,173 |
-| Texas BBQ | 0.20% | ~2,173 |
-| Looter | 0.20% | ~2,173 |
-| Whiffing to Success | 0.20% | ~2,173 |
-| Outrage | 0.20% | ~2,173 |
-| Heavy Burden | 0.20% | ~2,173 |
-| Death of Ignorance | 0.20% | ~2,173 |
-| I See You | 0.20% | ~2,173 |
-| Power Moves | 0.20% | ~2,173 |
-| Punch Drunk | 0.20% | ~2,173 |
-| Prowler | 0.20% | ~2,173 |
-| Triage | 0.20% | ~2,173 |
-| Complete the Evolution | 0.20% | ~2,173 |
-| Kitted Out | 0.20% | ~2,173 |
-| Joke’s On You | 0.20% | ~2,173 |
+| Blood in your mouth | 0.20% | ~2,174 |
+| Deep Cleansing | 0.20% | ~2,174 |
+| Texas BBQ | 0.20% | ~2,174 |
+| Looter | 0.20% | ~2,174 |
+| Whiffing to Success | 0.20% | ~2,174 |
+| Outrage | 0.20% | ~2,174 |
+| Heavy Burden | 0.20% | ~2,174 |
+| Death of Ignorance | 0.20% | ~2,174 |
+| I See You | 0.20% | ~2,174 |
+| Power Moves | 0.20% | ~2,174 |
+| Punch Drunk | 0.20% | ~2,174 |
+| Prowler | 0.20% | ~2,174 |
+| Triage | 0.20% | ~2,174 |
+| Complete the Evolution | 0.20% | ~2,174 |
+| Kitted Out | 0.20% | ~2,174 |
+| Joke’s On You | 0.20% | ~2,174 |
 | A feast for the Entity | 0.10% | ~1,087 |
 | Cripple them all | 0.10% | ~1,087 |
 | The Grind | 0.10% | ~1,087 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,087 |
 | Adept Good Guy | 0.10% | ~1,087 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,086,738 (Ranked 12)  
+Progressed: 1,086,797 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -474,7 +474,7 @@ Completed: 62 (0.01%) (Ranked 348)
 | 2023-12-08 | 1,080,483 | 61 |
 | 2023-12-09 | 1,083,532 | 61 |
 | 2023-12-10 | 1,086,485 | 62 |
-| 2023-12-11 | 1,086,738 | 62 |
+| 2023-12-11 | 1,086,797 | 62 |
 ## Awards
 Max (Diverse Characters): 37,692  (Ranked 15)  
 Sum: 285,473 (Ranked 12)  

@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 532935,
+  "EOS_Progressed": 532936,
   "EOS_Completed": 506,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -25317,6 +25317,11 @@
       "Time": "2023-12-11T01:54:09.5325708+00:00",
       "NumProgressed": 532935,
       "NumCompleted": 506
+    },
+    {
+      "Time": "2023-12-11T02:30:29.820407+00:00",
+      "NumProgressed": 532936,
+      "NumCompleted": 506
     }
   ],
   "TotalAchievements": 57,
@@ -25344,7 +25349,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 373054
+      "UsersEstimate": 373055
     },
     {
       "ID": "12",
@@ -25424,7 +25429,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127904
+      "UsersEstimate": 127905
     },
     {
       "ID": "21",
@@ -25448,7 +25453,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 37305
+      "UsersEstimate": 37306
     },
     {
       "ID": "24",
@@ -25528,7 +25533,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 37305
+      "UsersEstimate": 37306
     },
     {
       "ID": "33",
@@ -25704,7 +25709,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 245150
+      "UsersEstimate": 245151
     },
     {
       "ID": "53",
@@ -25783,15 +25788,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 532935,
+      "Progressed": 532936,
       "Completed": 506
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-12-11T01:54:09.5325703+00:00",
+  "LastChanged_Achievements": "2023-12-11T02:30:29.8204066+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:06.8552827+00:00",
-  "LastUpdate_Ratings": "2023-12-11T01:46:00.3478338+00:00",
-  "LastUpdate_Achievements": "2023-12-11T01:54:09.5327681+00:00"
+  "LastUpdate_Ratings": "2023-12-11T02:21:27.9922859+00:00",
+  "LastUpdate_Achievements": "2023-12-11T02:30:29.820543+00:00"
 }
