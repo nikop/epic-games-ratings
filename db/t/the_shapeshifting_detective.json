@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -519,9 +519,9 @@
       "ID": "a_woman_scorned",
       "SetID": "2db2j74",
       "Name": "A Woman Scorned",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "book_em_danny",
@@ -696,8 +696,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-11T04:04:50.4787765+00:00",
+  "LastChanged_Achievements": "2023-12-11T05:04:54.8812378+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:09.2551695+00:00",
-  "LastUpdate_Ratings": "2023-12-11T04:02:55.2402899+00:00",
-  "LastUpdate_Achievements": "2023-12-11T04:04:50.4787984+00:00"
+  "LastUpdate_Ratings": "2023-12-11T05:02:46.9403946+00:00",
+  "LastUpdate_Achievements": "2023-12-11T05:04:54.8812611+00:00"
 }

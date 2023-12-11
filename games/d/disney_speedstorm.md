@@ -1,19 +1,19 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.39 (Ranked 754)  
+Rating: 4.39 (Ranked 753)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~40,100 |
-| IT MAKES BOOM! | 7.00% | ~23,392 |
-| EXTRA BOOST | 6.00% | ~20,050 |
-| PROTECTED | 4.00% | ~13,367 |
-| PRO | 4.00% | ~13,367 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,025 |
-| AGGRESSIVE RACER | 3.00% | ~10,025 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,683 |
-| A TIGER'S FEAR | 2.00% | ~6,683 |
+| ROOKIE | 12.00% | ~40,104 |
+| IT MAKES BOOM! | 7.00% | ~23,394 |
+| EXTRA BOOST | 6.00% | ~20,052 |
+| PROTECTED | 4.00% | ~13,368 |
+| PRO | 4.00% | ~13,368 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,026 |
+| AGGRESSIVE RACER | 3.00% | ~10,026 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,684 |
+| A TIGER'S FEAR | 2.00% | ~6,684 |
 | TRAINING HARD | 1.00% | ~3,342 |
 | RELEASE THE KRAKEN | 1.00% | ~3,342 |
 | BE OUR GUEST | 1.00% | ~3,342 |
@@ -21,7 +21,7 @@ Rating: 4.39 (Ranked 754)
 | FRIENDLY | 1.00% | ~3,342 |
 | MASTER | 1.00% | ~3,342 |
 | LEGENDARY HERO | 0.90% | ~3,008 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,673 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,674 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,339 |
 | EXPERIENCED CREW | 0.60% | ~2,005 |
 | ACE BRAWLER | 0.50% | ~1,671 |
@@ -30,8 +30,8 @@ Rating: 4.39 (Ranked 754)
 | ACE TRICKSTER | 0.40% | ~1,337 |
 | PERFECTLY POISED | 0.30% | ~1,003 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 334,169 (Ranked 50)  
-Completed: 540 (0.16%) (Ranked 272)  
+Progressed: 334,197 (Ranked 50)  
+Completed: 541 (0.16%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -261,7 +261,7 @@ Completed: 540 (0.16%) (Ranked 272)
 | 2023-12-08 | 331,482 | 521 |
 | 2023-12-09 | 332,745 | 532 |
 | 2023-12-10 | 333,976 | 537 |
-| 2023-12-11 | 334,169 | 540 |
+| 2023-12-11 | 334,197 | 541 |
 ## Awards
 Max (Great for Beginners): 119  (Ranked 344)  
 Sum: 832 (Ranked 279)  

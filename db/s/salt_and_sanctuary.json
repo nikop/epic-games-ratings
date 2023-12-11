@@ -2844,9 +2844,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 540485,
+  "EOS_Progressed": 540486,
   "EOS_Completed": 1639,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -28729,6 +28729,11 @@
       "Time": "2023-12-11T04:05:15.1604576+00:00",
       "NumProgressed": 540485,
       "NumCompleted": 1639
+    },
+    {
+      "Time": "2023-12-11T05:05:22.4059318+00:00",
+      "NumProgressed": 540486,
+      "NumCompleted": 1639
     }
   ],
   "TotalAchievements": 37,
@@ -28756,7 +28761,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 167550
+      "UsersEstimate": 167551
     },
     {
       "ID": "DEVOTED",
@@ -28996,7 +29001,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 345910
+      "UsersEstimate": 345911
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -29012,7 +29017,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91882
+      "UsersEstimate": 91883
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -29035,15 +29040,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 540485,
+      "Progressed": 540486,
       "Completed": 1639
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-07T16:58:03.1533125+00:00",
-  "LastChanged_Achievements": "2023-12-11T04:05:15.1604572+00:00",
+  "LastChanged_Achievements": "2023-12-11T05:05:22.4059313+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.0345559+00:00",
-  "LastUpdate_Ratings": "2023-12-11T03:59:38.0691132+00:00",
-  "LastUpdate_Achievements": "2023-12-11T04:05:15.1605967+00:00"
+  "LastUpdate_Ratings": "2023-12-11T04:59:54.655952+00:00",
+  "LastUpdate_Achievements": "2023-12-11T05:05:22.4061358+00:00"
 }

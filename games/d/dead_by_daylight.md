@@ -6,38 +6,38 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~21,738 |
-| It wakes | 2.00% | ~21,738 |
-| Not half bad | 2.00% | ~21,738 |
-| Skillful | 2.00% | ~21,738 |
-| Make Some Noise | 2.00% | ~21,738 |
-| The Grand Sacrifice | 1.00% | ~10,869 |
-| Backdoor Escape | 1.00% | ~10,869 |
-| No one left behind | 1.00% | ~10,869 |
-| Medic | 1.00% | ~10,869 |
-| Handyman | 1.00% | ~10,869 |
-| Perfect Escape | 1.00% | ~10,869 |
-| Bloody Millionaire | 1.00% | ~10,869 |
-| Apt Survivor | 1.00% | ~10,869 |
-| Survival Treasures | 1.00% | ~10,869 |
-| I | 1.00% | ~10,869 |
-| Sorted | 1.00% | ~10,869 |
-| Healthy Obsession | 1.00% | ~10,869 |
-| Resurgence | 1.00% | ~10,869 |
-| Preemptive Strike | 1.00% | ~10,869 |
-| Humanitarian | 1.00% | ~10,869 |
-| Agonizing Escape | 0.90% | ~9,782 |
-| Perfect Killing | 0.90% | ~9,782 |
-| Risk it all | 0.90% | ~9,782 |
-| II | 0.90% | ~9,782 |
-| Engineer | 0.90% | ~9,782 |
-| Close Shave | 0.90% | ~9,782 |
-| I've got your back | 0.80% | ~8,695 |
-| Apt Killer | 0.80% | ~8,695 |
-| Wounded Healer | 0.80% | ~8,695 |
-| Vulture | 0.70% | ~7,608 |
-| III | 0.70% | ~7,608 |
-| Lifting The Fog | 0.70% | ~7,608 |
+| Zealous | 2.00% | ~21,740 |
+| It wakes | 2.00% | ~21,740 |
+| Not half bad | 2.00% | ~21,740 |
+| Skillful | 2.00% | ~21,740 |
+| Make Some Noise | 2.00% | ~21,740 |
+| The Grand Sacrifice | 1.00% | ~10,870 |
+| Backdoor Escape | 1.00% | ~10,870 |
+| No one left behind | 1.00% | ~10,870 |
+| Medic | 1.00% | ~10,870 |
+| Handyman | 1.00% | ~10,870 |
+| Perfect Escape | 1.00% | ~10,870 |
+| Bloody Millionaire | 1.00% | ~10,870 |
+| Apt Survivor | 1.00% | ~10,870 |
+| Survival Treasures | 1.00% | ~10,870 |
+| I | 1.00% | ~10,870 |
+| Sorted | 1.00% | ~10,870 |
+| Healthy Obsession | 1.00% | ~10,870 |
+| Resurgence | 1.00% | ~10,870 |
+| Preemptive Strike | 1.00% | ~10,870 |
+| Humanitarian | 1.00% | ~10,870 |
+| Agonizing Escape | 0.90% | ~9,783 |
+| Perfect Killing | 0.90% | ~9,783 |
+| Risk it all | 0.90% | ~9,783 |
+| II | 0.90% | ~9,783 |
+| Engineer | 0.90% | ~9,783 |
+| Close Shave | 0.90% | ~9,783 |
+| I've got your back | 0.80% | ~8,696 |
+| Apt Killer | 0.80% | ~8,696 |
+| Wounded Healer | 0.80% | ~8,696 |
+| Vulture | 0.70% | ~7,609 |
+| III | 0.70% | ~7,609 |
+| Lifting The Fog | 0.70% | ~7,609 |
 | Blood on your hands | 0.60% | ~6,522 |
 | Escape Artist | 0.60% | ~6,522 |
 | First to the Punch | 0.60% | ~6,522 |
@@ -66,6 +66,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | All Aboard | 0.40% | ~4,348 |
 | Leapfrog | 0.40% | ~4,348 |
 | Cottage Owner | 0.40% | ~4,348 |
+| Escaping the Nightmare | 0.40% | ~4,348 |
 | Campbell's Chapel Legacy | 0.40% | ~4,348 |
 | Ancestor's Rite | 0.40% | ~4,348 |
 | Outrun Evil | 0.40% | ~4,348 |
@@ -80,7 +81,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Jump Scares | 0.30% | ~3,261 |
 | Hemophobia | 0.30% | ~3,261 |
 | Serial Killer | 0.30% | ~3,261 |
-| Escaping the Nightmare | 0.30% | ~3,261 |
 | Game Over | 0.30% | ~3,261 |
 | Party Crasher | 0.30% | ~3,261 |
 | Devoted Gatekeeping | 0.30% | ~3,261 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,087 |
 | Adept Good Guy | 0.10% | ~1,087 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,086,918 (Ranked 12)  
+Progressed: 1,086,984 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -474,15 +474,15 @@ Completed: 62 (0.01%) (Ranked 348)
 | 2023-12-08 | 1,080,483 | 61 |
 | 2023-12-09 | 1,083,532 | 61 |
 | 2023-12-10 | 1,086,485 | 62 |
-| 2023-12-11 | 1,086,918 | 62 |
+| 2023-12-11 | 1,086,984 | 62 |
 ## Awards
 Max (Diverse Characters): 37,692  (Ranked 15)  
-Sum: 285,473 (Ranked 12)  
+Sum: 285,523 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37,692 |
-| This game is Highly Recommended | 32,647 |
+| This game is Highly Recommended | 32,697 |
 | This game has Amazing Characters | 32,167 |
 | This game has Competitive Players | 31,968 |
 | This game is Extremely Fun | 31,619 |
@@ -816,4 +816,4 @@ Diff (max vs sum): 3
 | 2023-12-08 | 4.51 | - | 37,508 | 284,549 |
 | 2023-12-09 | 4.51 | - | 37,578 | 285,006 |
 | 2023-12-10 | 4.51 | - | 37,638 | 285,419 |
-| 2023-12-11 | 4.51 | - | 37,692 | 285,473 |
+| 2023-12-11 | 4.51 | - | 37,692 | 285,523 |

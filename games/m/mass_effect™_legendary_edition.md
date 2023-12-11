@@ -45,6 +45,7 @@
 | A Personal Touch | 33.00% | ~517 |
 | Ghost Ship | 33.00% | ~517 |
 | The Quarian | 33.00% | ~517 |
+| The Prodigal | 33.00% | ~517 |
 | Galactic Explorer | 33.00% | ~517 |
 | Driven | 33.00% | ~517 |
 | Shopaholic | 33.00% | ~517 |
@@ -54,7 +55,6 @@
 | Catharsis | 32.00% | ~502 |
 | Ghost of the Father | 32.00% | ~502 |
 | The Cure | 32.00% | ~502 |
-| The Prodigal | 32.00% | ~502 |
 | Revenge! | 32.00% | ~502 |
 | Focused | 31.00% | ~486 |
 | Fade Away | 31.00% | ~486 |
@@ -82,10 +82,10 @@
 | First Aid Specialist | 26.00% | ~408 |
 | Pathfinder | 26.00% | ~408 |
 | Tunnel Rat | 26.00% | ~408 |
+| Weapon Specialist | 25.00% | ~392 |
 | Arbiter | 25.00% | ~392 |
 | Lost and Found | 25.00% | ~392 |
 | Savior | 24.00% | ~376 |
-| Weapon Specialist | 24.00% | ~376 |
 | Party Crasher | 23.00% | ~361 |
 | Paramour II | 22.00% | ~345 |
 | Hard Target | 22.00% | ~345 |

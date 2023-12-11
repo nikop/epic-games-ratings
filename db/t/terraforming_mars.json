@@ -4,11 +4,11 @@
   "ProductSlug": "terraforming-mars-18c3ad",
   "Ranking_Rating": 545,
   "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 173,
+  "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3315,7 +3315,7 @@
   ],
   "EOS_Progressed": 85760,
   "EOS_Completed": 173,
-  "EOS_NewPlayers": 763,
+  "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -29790,8 +29790,8 @@
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-10T21:02:51.9386947+00:00",
-  "LastChanged_Achievements": "2023-12-11T04:05:57.478063+00:00",
+  "LastChanged_Achievements": "2023-12-11T05:06:08.5922018+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:46.6200613+00:00",
-  "LastUpdate_Ratings": "2023-12-11T03:00:54.9937904+00:00",
-  "LastUpdate_Achievements": "2023-12-11T04:05:57.4782173+00:00"
+  "LastUpdate_Ratings": "2023-12-11T04:56:53.4205618+00:00",
+  "LastUpdate_Achievements": "2023-12-11T05:06:08.5923747+00:00"
 }

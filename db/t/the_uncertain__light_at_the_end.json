@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 577,
+  "EOS_Progressed": 578,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -963,6 +963,11 @@
       "Time": "2023-12-10T18:05:57.227669+00:00",
       "NumProgressed": 577,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-11T05:05:55.9354643+00:00",
+      "NumProgressed": 578,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1054,7 +1059,7 @@
       "Name": "U Mad Bro?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Healthy_Child",
@@ -1062,7 +1067,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "Hitman",
@@ -1070,7 +1075,7 @@
       "Name": "Short Circuit",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Illustrator",
@@ -1094,7 +1099,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "Leisurely_Strol",
@@ -1116,9 +1121,9 @@
       "ID": "Misanthrope",
       "SetID": "ek310c",
       "Name": "Antisocial Club",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 23
     },
     {
       "ID": "Missing_Shot",
@@ -1190,7 +1195,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -1205,7 +1210,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 577,
+      "Progressed": 578,
       "Completed": 6
     }
   ],
@@ -1213,8 +1218,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-11T04:05:45.647147+00:00",
+  "LastChanged_Achievements": "2023-12-11T05:05:55.9354637+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:04.1542275+00:00",
-  "LastUpdate_Ratings": "2023-12-11T04:03:09.8730261+00:00",
-  "LastUpdate_Achievements": "2023-12-11T04:05:45.6471879+00:00"
+  "LastUpdate_Ratings": "2023-12-11T05:03:02.5200157+00:00",
+  "LastUpdate_Achievements": "2023-12-11T05:05:55.9354874+00:00"
 }

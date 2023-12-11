@@ -49,9 +49,9 @@
 | Raiders of the Lost Stone | 22.00% | ~119 |
 | The Rune Sockets of Finitude (Part 1) | 22.00% | ~119 |
 | The Rune Sockets of Finitude (Part 2) | 20.00% | ~109 |
+| Rubble and Ashes | 19.00% | ~103 |
 | The Last Stand - This Time For Real! | 19.00% | ~103 |
-| Rubble and Ashes | 18.00% | ~98 |
-| My Little Torture Chamber | 17.00% | ~92 |
+| My Little Torture Chamber | 18.00% | ~98 |
 | Lavalumps on Ice! | 17.00% | ~92 |
 | To Infinity And Beyond! | 17.00% | ~92 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~87 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 7.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 543 (Ranked 312)  
-Completed: 15 (2.76%) (Ranked 114)  
+Completed: 15 (2.76%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

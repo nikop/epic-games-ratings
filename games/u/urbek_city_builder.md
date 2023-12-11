@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Small town | 13.00% | ~53 |
 | I like parks | 12.00% | ~49 |
-| Small town | 12.00% | ~49 |
 | The spiritual world... | 7.00% | ~29 |
 | The woodcutter | 6.00% | ~25 |
 | It is nice to share with friends in the city | 6.00% | ~25 |
@@ -21,7 +21,7 @@
 | King of fish | 1.00% | ~4 |
 | Metropolurbek | 1.00% | ~4 |
 | Rebel city | 1.00% | ~4 |
-| Banking city | 0.50% | ~2 |
+| Banking city | 0.70% | ~3 |
 | City crisis | 0.50% | ~2 |
 | I am very happy! | 0.50% | ~2 |
 | What would we do if we can't go out with friends? | 0.50% | ~2 |
@@ -32,6 +32,7 @@
 | ¡Muy feliz! | 0.20% | ~1 |
 | Farming Frenzy | 0.20% | ~1 |
 | Farming Frenzy Plus | 0.20% | ~1 |
+| Oh, I love parks, listening to birds! | 0.20% | ~1 |
 | Little Mayor | 0.20% | ~1 |
 | Town planner | 0.20% | ~1 |
 | Restorer | 0.20% | ~1 |
@@ -62,7 +63,6 @@
 | Perfect city | 0.00% | ~0 |
 | Smile? I don't understand | 0.00% | ~0 |
 | Work, work, work... | 0.00% | ~0 |
-| Oh, I love parks, listening to birds! | 0.00% | ~0 |
 | Freedom to go to the mall! | 0.00% | ~0 |
 | Only freedom to go to the mall! | 0.00% | ~0 |
 | I don't feel well, I have to drink a coffe | 0.00% | ~0 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 409 (Ranked 334)  
+Progressed: 410 (Ranked 334)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,6 +233,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 406 | 0 |
 | 2023-12-09 | 407 | 0 |
 | 2023-12-10 | 409 | 0 |
+| 2023-12-11 | 410 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

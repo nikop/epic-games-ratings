@@ -2,10 +2,10 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 251,
+  "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1305,
+  "EOS_Progressed": 1306,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -3012,6 +3012,11 @@
       "Time": "2023-12-11T01:54:25.7184109+00:00",
       "NumProgressed": 1305,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-11T05:05:52.8346106+00:00",
+      "NumProgressed": 1306,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3024,7 +3029,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3040,7 +3045,7 @@
       "Name": "Out of control",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3072,7 +3077,7 @@
       "Name": "Globetrotter",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -3080,7 +3085,7 @@
       "Name": "Versatile riding",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -3198,9 +3203,9 @@
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "5k00jcd",
       "Name": "The Scorpion",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 118
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -3280,7 +3285,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -3288,7 +3293,7 @@
       "Name": "Beyond the limit",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -3367,20 +3372,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1305,
+      "Progressed": 1306,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 973,
-      "Completed": 973
+      "Progressed": 974,
+      "Completed": 974
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-11T04:05:42.8659619+00:00",
+  "LastChanged_Achievements": "2023-12-11T05:05:52.8346101+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:57:05.8729105+00:00",
-  "LastUpdate_Ratings": "2023-12-11T03:59:28.6866314+00:00",
-  "LastUpdate_Achievements": "2023-12-11T04:05:42.8660134+00:00"
+  "LastUpdate_Ratings": "2023-12-11T04:59:44.3790138+00:00",
+  "LastUpdate_Achievements": "2023-12-11T05:05:52.8346603+00:00"
 }

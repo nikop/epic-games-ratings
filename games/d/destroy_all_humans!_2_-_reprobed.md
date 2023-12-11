@@ -17,17 +17,17 @@ Number of Ratings: 90  (23.09.2022)
 | Pimp My Raid | 15.00% | ~5 |
 | Cult Following | 12.00% | ~4 |
 | I Look Up As I Walk to Takoshima | 12.00% | ~4 |
+| Perfect Probulator | 9.00% | ~3 |
 | Transmitting From Sol-3 | 9.00% | ~3 |
+| Lie Back and Think of Albion | 9.00% | ~3 |
 | Fly Me to the Moon Base | 9.00% | ~3 |
 | Bodied Sattva | 9.00% | ~3 |
 | Scuttled | 9.00% | ~3 |
 | Dusted | 9.00% | ~3 |
-| Perfect Probulator | 6.00% | ~2 |
-| Lie Back and Think of Albion | 6.00% | ~2 |
 | Kaijuiced | 6.00% | ~2 |
 | Lobster Blisque | 6.00% | ~2 |
+| Freshly Squeezed | 6.00% | ~2 |
 | Forbidden Donut | 3.00% | ~1 |
-| Freshly Squeezed | 3.00% | ~1 |
 | Die Nasty | 3.00% | ~1 |
 | Yettisoned | 3.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |

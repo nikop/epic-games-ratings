@@ -21,12 +21,12 @@ Number of Ratings: 292  (23.09.2022)
 | Expert Essence Employment | 4.00% | ~17 |
 | Trojan Horse | 3.00% | ~13 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~13 |
+| The Song of Stoutheart | 2.00% | ~8 |
 | This Spot's Taken | 2.00% | ~8 |
 | Deepstrike | 2.00% | ~8 |
 | Don't Touch My Stuff | 2.00% | ~8 |
 | Such A Fungi | 2.00% | ~8 |
 | Pyrrhic Victory | 2.00% | ~8 |
-| The Song of Stoutheart | 1.00% | ~4 |
 | Versatile Wielder | 1.00% | ~4 |
 | Infernal Influence | 1.00% | ~4 |
 | Ultra Kill | 1.00% | ~4 |

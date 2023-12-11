@@ -4,8 +4,8 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1211,
+  "EOS_Progressed": 1212,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.21,
   "EosHistory": [
@@ -2719,6 +2719,11 @@
       "Time": "2023-12-10T20:09:00.3992764+00:00",
       "NumProgressed": 1211,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-11T05:09:03.5559744+00:00",
+      "NumProgressed": 1212,
+      "NumCompleted": 51
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2731,7 +2736,7 @@
       "Name": "Time traveller",
       "Percentage": 21,
       "XP": 140,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_CUBES",
@@ -2755,7 +2760,7 @@
       "Name": "An apple a day",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -2769,9 +2774,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 593
+      "UsersEstimate": 606
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -2787,7 +2792,7 @@
       "Name": "Food lover",
       "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -2803,21 +2808,21 @@
       "Name": "Exit",
       "Percentage": 56,
       "XP": 65,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1211,
+      "Progressed": 1212,
       "Completed": 51
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-12-11T04:09:23.1927765+00:00",
+  "LastChanged_Achievements": "2023-12-11T05:09:03.5559742+00:00",
   "LastUpdate_AppInfo": "2023-12-08T16:57:22.7972891+00:00",
-  "LastUpdate_Ratings": "2023-12-11T04:02:43.7704954+00:00",
-  "LastUpdate_Achievements": "2023-12-11T04:09:23.1927972+00:00"
+  "LastUpdate_Ratings": "2023-12-11T05:02:33.8851791+00:00",
+  "LastUpdate_Achievements": "2023-12-11T05:09:03.556005+00:00"
 }

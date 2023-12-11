@@ -21,7 +21,7 @@
 | Twin Thorns | 5.00% | ~5 |
 | Sommelier | 4.00% | ~4 |
 | Let Me Solo Them | 4.00% | ~4 |
-| Frigid Winds | 3.00% | ~3 |
+| Frigid Winds | 4.00% | ~4 |
 | Smotherly Love | 2.00% | ~2 |
 | Missing Melodies | 1.00% | ~1 |
 | Transformative Nature | 1.00% | ~1 |

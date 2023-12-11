@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,995 |
+| Welcome To Hell-A | 3.00% | ~21,996 |
 | Whatever It Takes | 3.00% | ~1,762 |
 | Pork Chopped | 3.00% | ~1,762 |
 | Dr. Reed, I Presume? | 2.00% | ~14,664 |
@@ -24,7 +24,7 @@ Rating: 4.54 (Ranked 535)
 | Stacking the Deck | 2.00% | ~14,664 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,664 |
 | This is My Weapon | 2.00% | ~14,664 |
-| One of Us | 2.00% | ~1,174 |
+| One of Us | 2.00% | ~1,175 |
 | Making Your Mark | 1.00% | ~7,332 |
 | Perks of the Job | 1.00% | ~7,332 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,332 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 535)
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,177 (Ranked 21)  
+Progressed: 733,185 (Ranked 21)  
 Completed: 2,476 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 2,476 (0.34%) (Ranked 234)
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
 | 2023-12-10 | 733,123 | 2,475 |
-| 2023-12-11 | 733,177 | 2,476 |
+| 2023-12-11 | 733,185 | 2,476 |
 ## Awards
 Max (Great Boss Battles): 8,071  (Ranked 49)  
 Sum: 12,409 (Ranked 82)  

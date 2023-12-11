@@ -6,11 +6,11 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,786 |
-| Man of politics | 34.00% | ~5,768 |
-| Friends of sorts | 33.00% | ~5,598 |
-| Yet another secret | 33.00% | ~5,598 |
-| Let there be darkness | 31.00% | ~5,259 |
+| Tattletale | 40.00% | ~6,787 |
+| Man of politics | 34.00% | ~5,769 |
+| Friends of sorts | 33.00% | ~5,599 |
+| Yet another secret | 33.00% | ~5,599 |
+| Let there be darkness | 31.00% | ~5,260 |
 | End of Book One | 29.00% | ~4,920 |
 | Garden of Eden | 24.00% | ~4,072 |
 | Wannabe knight | 23.00% | ~3,902 |
@@ -20,15 +20,15 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 18.00% | ~3,054 |
 | Workers' union | 18.00% | ~3,054 |
 | End of Book Two | 18.00% | ~3,054 |
-| Everything's in order | 16.00% | ~2,714 |
+| Everything's in order | 16.00% | ~2,715 |
 | Twist of Fate | 14.00% | ~2,375 |
 | Jack was here! | 14.00% | ~2,375 |
-| Exterminator | 13.00% | ~2,205 |
+| Exterminator | 13.00% | ~2,206 |
 | Whodunnit | 12.00% | ~2,036 |
-| Good midwife | 10.00% | ~1,696 |
-| Friar Tuck | 10.00% | ~1,696 |
-| First profit | 10.00% | ~1,696 |
-| Team player | 10.00% | ~1,696 |
+| Good midwife | 10.00% | ~1,697 |
+| Friar Tuck | 10.00% | ~1,697 |
+| First profit | 10.00% | ~1,697 |
+| Team player | 10.00% | ~1,697 |
 | Skilled merchant | 9.00% | ~1,527 |
 | Brother Marcus | 9.00% | ~1,527 |
 | The oath | 9.00% | ~1,527 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~509 |
 | Boy of mystery | 2.00% | ~339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,965 (Ranked 149)  
+Progressed: 16,967 (Ranked 149)  
 Completed: 116 (0.68%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 116 (0.68%) (Ranked 188)
 | 2023-12-08 | 16,911 | 116 |
 | 2023-12-09 | 16,935 | 116 |
 | 2023-12-10 | 16,962 | 116 |
-| 2023-12-11 | 16,965 | 116 |
+| 2023-12-11 | 16,967 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 318)  
 Sum: 198 (Ranked 404)  
