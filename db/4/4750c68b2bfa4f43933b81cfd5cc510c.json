@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -2505,9 +2505,9 @@
       "Count": 504
     }
   ],
-  "EOS_Progressed": 56527,
+  "EOS_Progressed": 56528,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 508,
+  "EOS_NewPlayers": 504,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11970,6 +11970,11 @@
       "Time": "2023-12-11T22:06:14.0628102+00:00",
       "NumProgressed": 56527,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T23:05:06.0206828+00:00",
+      "NumProgressed": 56528,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -12030,7 +12035,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 27698
+      "UsersEstimate": 27699
     },
     {
       "ID": "achievement_16",
@@ -12046,7 +12051,7 @@
       "Name": "One Moment Please!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 33351
+      "UsersEstimate": 33352
     },
     {
       "ID": "achievement_18",
@@ -12086,7 +12091,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 46917
+      "UsersEstimate": 46918
     },
     {
       "ID": "achievement_22",
@@ -12094,7 +12099,7 @@
       "Name": "Level Up!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 29394
+      "UsersEstimate": 29395
     },
     {
       "ID": "achievement_23",
@@ -12214,7 +12219,7 @@
       "Name": "An ace up your sleeve",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "achievement_37",
@@ -12270,7 +12275,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 33916
+      "UsersEstimate": 33917
     },
     {
       "ID": "achievement_7",
@@ -12278,7 +12283,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 21480
+      "UsersEstimate": 21481
     },
     {
       "ID": "achievement_8",
@@ -12286,7 +12291,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 41830
+      "UsersEstimate": 41831
     },
     {
       "ID": "achievement_9",
@@ -12301,7 +12306,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 56527,
+      "Progressed": 56528,
       "Completed": 0
     }
   ],
@@ -12309,8 +12314,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-12-11T21:59:47.5024934+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:06:14.0628095+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:05:06.0206823+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:08.0940773+00:00",
-  "LastUpdate_Ratings": "2023-12-11T21:59:47.5024941+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:06:14.0628955+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:58:44.0441616+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:05:06.0208018+00:00"
 }

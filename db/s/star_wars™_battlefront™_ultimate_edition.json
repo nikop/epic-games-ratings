@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1673,
+  "EOS_Progressed": 1674,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -5019,6 +5019,11 @@
       "Time": "2023-12-11T21:09:10.4609513+00:00",
       "NumProgressed": 1673,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-11T23:09:26.7045403+00:00",
+      "NumProgressed": 1674,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5175,7 +5180,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "achievement_27",
@@ -5231,7 +5236,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_33",
@@ -5255,7 +5260,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "achievement_36",
@@ -5271,7 +5276,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "achievement_38",
@@ -5303,7 +5308,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "achievement_41",
@@ -5471,7 +5476,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_60",
@@ -5534,13 +5539,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1673,
+      "Progressed": 1674,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1673,
+      "Progressed": 1674,
       "Completed": 1
     }
   ],
@@ -5548,8 +5553,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:10:26.8384229+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:09:26.7045399+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-11T22:01:52.4221469+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:10:26.8384888+00:00"
+  "LastUpdate_Ratings": "2023-12-11T23:00:06.4899723+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:09:26.7046192+00:00"
 }

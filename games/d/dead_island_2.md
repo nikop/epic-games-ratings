@@ -41,24 +41,24 @@ Rating: 4.54 (Ranked 533)
 | Jumbo Keyring | 0.80% | ~5,868 |
 | Go, Bobcats! | 0.80% | ~5,868 |
 | Rising Star | 0.80% | ~5,868 |
-| Smorgasbord | 0.70% | ~5,134 |
-| Internet Famous | 0.70% | ~5,134 |
+| Smorgasbord | 0.70% | ~5,135 |
+| Internet Famous | 0.70% | ~5,135 |
 | Make it So | 0.60% | ~4,401 |
 | On Safari | 0.60% | ~4,401 |
 | Variety is the Spice of Death | 0.60% | ~4,401 |
-| LA Influential | 0.50% | ~3,667 |
+| LA Influential | 0.50% | ~3,668 |
 | Sole Survivor | 0.40% | ~2,934 |
 | Gore Horse | 0.40% | ~2,934 |
 | Sharpest Tool in the Box | 0.40% | ~2,934 |
 | Top That, Tisha! | 0.40% | ~236 |
-| Survival Skills | 0.30% | ~2,200 |
+| Survival Skills | 0.30% | ~2,201 |
 | Lawn and Order | 0.20% | ~118 |
-| Donk! | 0.10% | ~733 |
-| Bucket List | 0.10% | ~733 |
+| Donk! | 0.10% | ~734 |
+| Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,487 (Ranked 21)  
-Completed: 2,476 (0.34%) (Ranked 235)  
+Progressed: 733,504 (Ranked 21)  
+Completed: 2,477 (0.34%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -292,16 +292,16 @@ Completed: 2,476 (0.34%) (Ranked 235)
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
 | 2023-12-10 | 733,123 | 2,475 |
-| 2023-12-11 | 733,487 | 2,476 |
+| 2023-12-11 | 733,504 | 2,477 |
 ## Awards
 Max (Great Boss Battles): 8,094  (Ranked 49)  
-Sum: 12,441 (Ranked 81)  
+Sum: 12,447 (Ranked 81)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 8,094 |
-| This game is Great for Beginners | 629 |
-| This game has Diverse Characters | 594 |
+| This game is Great for Beginners | 633 |
+| This game has Diverse Characters | 596 |
 | This game has Quickly Understood Controls | 569 |
 | This game is Relaxing | 539 |
 | This game has Amazing Storytelling | 526 |
@@ -545,4 +545,4 @@ Diff (max vs sum): -32
 | 2023-12-08 | 4.54 | 8,017 | 12,324 |
 | 2023-12-09 | 4.54 | 8,042 | 12,362 |
 | 2023-12-10 | 4.54 | 8,071 | 12,407 |
-| 2023-12-11 | 4.54 | 8,094 | 12,441 |
+| 2023-12-11 | 4.54 | 8,094 | 12,447 |

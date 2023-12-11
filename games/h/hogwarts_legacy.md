@@ -8,7 +8,7 @@ Rating: 4.76 (Ranked 129)
 | The Sort Who Makes an Entrance | 16.00% | ~48,675 |
 | First Class Student | 15.00% | ~45,633 |
 | Troll with the Punches | 15.00% | ~45,633 |
-| A Keen Sense of Spell | 14.00% | ~42,590 |
+| A Keen Sense of Spell | 14.00% | ~42,591 |
 | That's a Keeper | 13.00% | ~39,548 |
 | The Hallowed Hero | 12.00% | ~36,506 |
 | The Defender of Dragons | 12.00% | ~36,506 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 129)
 | The Nature of the Beast | 0.70% | ~2,130 |
 | Collector's Edition | 0.40% | ~1,217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,217 (Ranked 54)  
+Progressed: 304,218 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,10 +286,10 @@ Completed: 525 (0.17%) (Ranked 269)
 | 2023-12-08 | 304,099 | 525 |
 | 2023-12-09 | 304,151 | 525 |
 | 2023-12-10 | 304,188 | 525 |
-| 2023-12-11 | 304,217 | 525 |
+| 2023-12-11 | 304,218 | 525 |
 ## Awards
 Max (Character Customization): 25,106  (Ranked 17)  
-Sum: 50,471 (Ranked 30)  
+Sum: 50,475 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -297,12 +297,12 @@ Diff (max vs sum): -13
 | This game has Great Boss Battles | 12,907 |
 | This game is Great for Beginners | 1,400 |
 | This game has Amazing Storytelling | 1,360 |
-| This game has Diverse Characters | 1,354 |
+| This game has Diverse Characters | 1,357 |
 | This game is Extremely Fun | 1,323 |
 | This game is Relaxing | 1,315 |
 | This game has Amazing Characters | 1,283 |
 | This game is Highly Recommended | 1,257 |
-| This game has Quickly Understood Controls | 1,217 |
+| This game has Quickly Understood Controls | 1,218 |
 | This game has Beautiful Visuals | 1,097 |
 | This game has a Creative Community | 852 |
 ## Ratings History
@@ -570,4 +570,4 @@ Diff (max vs sum): -13
 | 2023-12-08 | 4.76 | 25,029 | 50,225 |
 | 2023-12-09 | 4.76 | 25,052 | 50,306 |
 | 2023-12-10 | 4.76 | 25,081 | 50,405 |
-| 2023-12-11 | 4.76 | 25,106 | 50,471 |
+| 2023-12-11 | 4.76 | 25,106 | 50,475 |

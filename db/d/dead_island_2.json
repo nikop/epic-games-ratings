@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7423,10 +7423,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 12441,
       "NumberOfAwardsMax": 8094
+    },
+    {
+      "Time": "2023-12-11T22:57:12.6725877+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12447,
+      "NumberOfAwardsMax": 8094
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12441,
+  "NumberOfAwards": 12447,
   "NumberOfAwardsMax": 8094,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7440,7 +7446,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 594
+      "Count": 596
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7452,7 +7458,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 629
+      "Count": 633
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7485,10 +7491,10 @@
       "Count": 526
     }
   ],
-  "EOS_Progressed": 733487,
-  "EOS_Completed": 2476,
-  "EOS_NewPlayers": 3234,
-  "EOS_NewCompleters": 13,
+  "EOS_Progressed": 733504,
+  "EOS_Completed": 2477,
+  "EOS_NewPlayers": 3232,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -34500,6 +34506,11 @@
       "Time": "2023-12-11T22:09:14.3745494+00:00",
       "NumProgressed": 733487,
       "NumCompleted": 2476
+    },
+    {
+      "Time": "2023-12-11T23:08:34.0687655+00:00",
+      "NumProgressed": 733504,
+      "NumCompleted": 2477
     }
   ],
   "TotalAchievements": 51,
@@ -34551,7 +34562,7 @@
       "Name": "LA Influential",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3667
+      "UsersEstimate": 3668
     },
     {
       "ID": "ach_blueprinted",
@@ -34615,7 +34626,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5134
+      "UsersEstimate": 5135
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -34679,7 +34690,7 @@
       "Name": "Donk!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ach_internet_famous",
@@ -34687,7 +34698,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5134
+      "UsersEstimate": 5135
     },
     {
       "ID": "ach_investigator",
@@ -34799,7 +34810,7 @@
       "Name": "Survival Skills",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "ach_survival_of_the_fittest",
@@ -34863,7 +34874,7 @@
       "Name": "Bucket List",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ach_brink_of_success",
@@ -34918,22 +34929,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 733487,
-      "Completed": 2476
+      "Progressed": 733504,
+      "Completed": 2477
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 59029,
+      "Progressed": 59046,
       "Completed": 36655
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-11T18:57:26.9511641+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:09:14.3745486+00:00",
+  "LastChanged": "2023-12-11T22:57:12.6725875+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:08:34.068765+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:31.7932919+00:00",
-  "LastUpdate_Ratings": "2023-12-11T21:57:29.536801+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:09:14.374713+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:57:12.6725881+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:08:34.0689371+00:00"
 }

@@ -16484,9 +16484,9 @@
       "Count": 15269
     }
   ],
-  "EOS_Progressed": 974693,
+  "EOS_Progressed": 974702,
   "EOS_Completed": 2886,
-  "EOS_NewPlayers": 4706,
+  "EOS_NewPlayers": 4698,
   "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -43284,6 +43284,11 @@
       "Time": "2023-12-11T22:06:29.7753093+00:00",
       "NumProgressed": 974693,
       "NumCompleted": 2886
+    },
+    {
+      "Time": "2023-12-11T23:05:17.2093355+00:00",
+      "NumProgressed": 974702,
+      "NumCompleted": 2886
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -43352,7 +43357,7 @@
       "Name": "Autojock",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4873
+      "UsersEstimate": 4874
     },
     {
       "ID": "GetMeThereScottie",
@@ -43440,7 +43445,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4873
+      "UsersEstimate": 4874
     },
     {
       "ID": "NoMansLand",
@@ -43624,7 +43629,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116963
+      "UsersEstimate": 116964
     },
     {
       "ID": "YipMan",
@@ -43736,7 +43741,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     },
     {
       "ID": "UltimateSurvivor",
@@ -43752,7 +43757,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     },
     {
       "ID": "HydraIsDead",
@@ -43768,7 +43773,7 @@
       "Name": "Arachnophobia",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     },
     {
       "ID": "KingOfTheCups",
@@ -43798,9 +43803,9 @@
       "ID": "KingOfTheWands",
       "SetID": "23nboa5",
       "Name": "King of Wands",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 827
+      "UsersEstimate": 930
     },
     {
       "ID": "TheTower",
@@ -43831,21 +43836,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 974693,
+      "Progressed": 974702,
       "Completed": 2886
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 103316,
+      "Progressed": 103325,
       "Completed": 10347
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-11T22:03:08.6461154+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:06:29.7753089+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:05:17.2093353+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:22.348953+00:00",
-  "LastUpdate_Ratings": "2023-12-11T22:03:08.6461165+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:06:29.7755236+00:00"
+  "LastUpdate_Ratings": "2023-12-11T23:02:55.4530598+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:05:17.209486+00:00"
 }

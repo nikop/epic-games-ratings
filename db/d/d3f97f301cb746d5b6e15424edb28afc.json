@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 1203,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3126,9 +3126,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1059
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -3783,8 +3783,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:07:25.7797955+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:05:57.0927871+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-11T22:00:23.3876145+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:07:25.7798833+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:59:07.1669441+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:05:57.0928677+00:00"
 }

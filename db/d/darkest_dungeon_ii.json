@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9582,9 +9582,9 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126221,
+  "EOS_Progressed": 126232,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34562,6 +34562,11 @@
       "Time": "2023-12-11T22:09:02.350114+00:00",
       "NumProgressed": 126221,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-11T23:08:25.5590266+00:00",
+      "NumProgressed": 126232,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34603,9 +34608,9 @@
       "ID": "altar_of_hope_unlock_hero_flagellant",
       "SetID": "64l4lke",
       "Name": "Resurrection",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -34627,17 +34632,17 @@
       "ID": "altar_of_hope_unlock_hero_leper",
       "SetID": "64l4lke",
       "Name": "Long Live the King",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
       "SetID": "64l4lke",
       "Name": "Wyrdly Reconstructed",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -34747,9 +34752,9 @@
       "ID": "combat_kill_fisherfolk",
       "SetID": "64l4lke",
       "Name": "Ichthyophobic",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "combat_kill_gaunts",
@@ -34771,9 +34776,9 @@
       "ID": "combat_kill_harvest_child",
       "SetID": "64l4lke",
       "Name": "Meat and Greet",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 631
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -34795,17 +34800,17 @@
       "ID": "combat_kill_librarian",
       "SetID": "64l4lke",
       "Name": "Overdue Notice",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 631
     },
     {
       "ID": "combat_kill_pillagers",
       "SetID": "64l4lke",
       "Name": "Reverse Banditry",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "combat_kill_shambler",
@@ -34899,9 +34904,9 @@
       "ID": "driving_distance_easy",
       "SetID": "64l4lke",
       "Name": "Ramble On",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "driving_distance_hard",
@@ -34979,9 +34984,9 @@
       "ID": "inn_replacement_hero_add",
       "SetID": "64l4lke",
       "Name": "FNG",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35027,9 +35032,9 @@
       "ID": "run_victory_act01",
       "SetID": "64l4lke",
       "Name": "Unshackled",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "run_victory_act02",
@@ -35115,9 +35120,9 @@
       "ID": "combat_kill_collector",
       "SetID": "d3bcpc8",
       "Name": "This guy... again?",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35163,17 +35168,17 @@
       "ID": "hero_story_complete_duelist",
       "SetID": "d3bcpc8",
       "Name": "Bloody Graduation",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "quest_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Lost and Found",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35204,21 +35209,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126221,
+      "Progressed": 126232,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1090,
+      "Progressed": 1101,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-11T19:58:09.4753037+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:09:02.3501136+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:08:25.5590261+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-11T21:59:10.1648332+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:09:02.350286+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:58:19.0469891+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:08:25.5591737+00:00"
 }

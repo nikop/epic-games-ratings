@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -299,9 +299,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2369,
+  "EOS_Progressed": 2370,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6644,6 +6644,11 @@
       "Time": "2023-12-11T22:04:14.894911+00:00",
       "NumProgressed": 2369,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T23:03:41.5068216+00:00",
+      "NumProgressed": 2370,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -6655,7 +6660,7 @@
       "Name": "Apprentice",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "A01",
@@ -6671,7 +6676,7 @@
       "Name": "Trailblazer",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "A03",
@@ -6735,7 +6740,7 @@
       "Name": "From X to Y",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "A11",
@@ -6751,7 +6756,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "A13",
@@ -6767,15 +6772,15 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 782
+      "UsersEstimate": 758
     },
     {
       "ID": "A16",
@@ -6791,7 +6796,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "A18",
@@ -6799,7 +6804,7 @@
       "Name": "General Manager",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "A19",
@@ -6815,7 +6820,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "A21",
@@ -6823,7 +6828,7 @@
       "Name": "Country Life",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "A22",
@@ -6847,7 +6852,7 @@
       "Name": "Access granted",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "A25",
@@ -6879,7 +6884,7 @@
       "Name": "We brake for nobody",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "A29",
@@ -6895,7 +6900,7 @@
       "Name": "All mine",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "A31",
@@ -6911,7 +6916,7 @@
       "Name": "Assimilated",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "A33",
@@ -6927,7 +6932,7 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "A35",
@@ -6935,7 +6940,7 @@
       "Name": "Traffic Junction",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "A36",
@@ -6943,7 +6948,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "A37",
@@ -6951,7 +6956,7 @@
       "Name": "All around the World",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "A38",
@@ -6959,7 +6964,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "A39",
@@ -6967,7 +6972,7 @@
       "Name": "Bold and beautiful",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "A40",
@@ -6983,7 +6988,7 @@
       "Name": "Right through the middle",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "A42",
@@ -7015,7 +7020,7 @@
       "Name": "Settler",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "A46",
@@ -7039,7 +7044,7 @@
       "Name": "Bull and bear",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "A49",
@@ -7047,7 +7052,7 @@
       "Name": "Financial Shark",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "A50",
@@ -7079,7 +7084,7 @@
       "Name": "Networker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "A54",
@@ -7094,7 +7099,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2369,
+      "Progressed": 2370,
       "Completed": 0
     }
   ],
@@ -7102,8 +7107,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:04:14.8949105+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:03:41.506821+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:15.8149041+00:00",
-  "LastUpdate_Ratings": "2023-12-11T21:00:08.7195386+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:04:14.8949943+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:56:54.7593083+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:03:41.5068758+00:00"
 }

@@ -5389,10 +5389,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6786,
       "NumberOfAwardsMax": 2717
+    },
+    {
+      "Time": "2023-12-11T23:03:10.1548718+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6788,
+      "NumberOfAwardsMax": 2717
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6786,
+  "NumberOfAwards": 6788,
   "NumberOfAwardsMax": 2717,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5448,7 +5454,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 408
+      "Count": 410
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5463,9 +5469,9 @@
       "Count": 417
     }
   ],
-  "EOS_Progressed": 238652,
+  "EOS_Progressed": 238673,
   "EOS_Completed": 579,
-  "EOS_NewPlayers": 3780,
+  "EOS_NewPlayers": 3777,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22528,6 +22534,11 @@
       "Time": "2023-12-11T22:09:30.4650229+00:00",
       "NumProgressed": 238652,
       "NumCompleted": 579
+    },
+    {
+      "Time": "2023-12-11T23:08:45.4928711+00:00",
+      "NumProgressed": 238673,
+      "NumCompleted": 579
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22626,9 +22637,9 @@
       "ID": "Defeat_Many_Faces",
       "SetID": "bkp3b1a",
       "Name": "The God Gambit",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 716
+      "UsersEstimate": 955
     },
     {
       "ID": "Defeat_Nightweaver",
@@ -22979,22 +22990,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 238652,
+      "Progressed": 238673,
       "Completed": 579
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 17817,
+      "Progressed": 17838,
       "Completed": 241
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-11T20:03:00.1602483+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:09:30.4650225+00:00",
+  "LastChanged": "2023-12-11T23:03:10.1548717+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:08:45.4928706+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-11T22:03:30.2135013+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:09:30.4651754+00:00"
+  "LastUpdate_Ratings": "2023-12-11T23:03:10.1548725+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:08:45.4929731+00:00"
 }

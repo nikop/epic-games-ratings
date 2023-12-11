@@ -21,6 +21,7 @@ Rating: 4.75 (Ranked 148)
 | Am I Seeing This? | 0.40% | ~955 |
 | Chaos | 0.40% | ~955 |
 | Power Surge | 0.40% | ~955 |
+| The God Gambit | 0.40% | ~955 |
 | Dark Designs | 0.40% | ~955 |
 | Equal Measures | 0.40% | ~955 |
 | Blue Goddess | 0.40% | ~955 |
@@ -36,7 +37,6 @@ Rating: 4.75 (Ranked 148)
 | Ghost in the Machine | 0.30% | ~716 |
 | Traitor | 0.30% | ~716 |
 | Forever is a Long Time Coming | 0.30% | ~716 |
-| The God Gambit | 0.30% | ~716 |
 | Madman's Paradise | 0.30% | ~716 |
 | The Agenda | 0.30% | ~716 |
 | Tall Tales | 0.30% | ~716 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | You Shall Pass | 0.20% | ~36 |
 | A Foul Feast | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,652 (Ranked 66)  
+Progressed: 238,673 (Ranked 66)  
 Completed: 579 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,10 +209,10 @@ Completed: 579 (0.24%) (Ranked 251)
 | 2023-12-08 | 237,044 | 572 |
 | 2023-12-09 | 237,633 | 573 |
 | 2023-12-10 | 238,247 | 577 |
-| 2023-12-11 | 238,652 | 579 |
+| 2023-12-11 | 238,673 | 579 |
 ## Awards
 Max (Great Boss Battles): 2,717  (Ranked 102)  
-Sum: 6,786 (Ranked 126)  
+Sum: 6,788 (Ranked 126)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -224,7 +224,7 @@ Diff (max vs sum): -24
 | This game is Extremely Fun | 417 |
 | This game is Relaxing | 417 |
 | This game has Quickly Understood Controls | 415 |
-| This game has Amazing Characters | 408 |
+| This game has Amazing Characters | 410 |
 | This game has Unique Visuals | 361 |
 | This game has a Creative Community | 306 |
 ## Ratings History
@@ -368,4 +368,4 @@ Diff (max vs sum): -24
 | 2023-12-08 | 4.75 | 2,690 | 6,681 |
 | 2023-12-09 | 4.75 | 2,690 | 6,711 |
 | 2023-12-10 | 4.75 | 2,704 | 6,738 |
-| 2023-12-11 | 4.75 | 2,717 | 6,786 |
+| 2023-12-11 | 4.75 | 2,717 | 6,788 |

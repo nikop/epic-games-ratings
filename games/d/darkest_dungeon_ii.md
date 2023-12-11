@@ -7,45 +7,49 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 2.00% | ~22 |
-| This guy... again? | 0.90% | ~10 |
+| This guy... again? | 1.00% | ~11 |
 | This Belongs in a Museum | 0.60% | ~757 |
 | Not Today! | 0.50% | ~631 |
+| Meat and Greet | 0.50% | ~631 |
 | Catch and Decease | 0.50% | ~631 |
+| Overdue Notice | 0.50% | ~631 |
 | Escape from the Black Hole | 0.50% | ~631 |
 | Creep and Sleep | 0.40% | ~505 |
-| Meat and Greet | 0.40% | ~505 |
-| Overdue Notice | 0.40% | ~505 |
 | Autodidact | 0.30% | ~379 |
+| Bloody Graduation | 0.30% | ~3 |
 | Don't Make Me Turn This Coach Around | 0.20% | ~252 |
 | Serenity Now! | 0.20% | ~252 |
+| Resurrection | 0.20% | ~252 |
 | Unleash Hell | 0.20% | ~252 |
 | Funny Guy | 0.20% | ~252 |
+| Long Live the King | 0.20% | ~252 |
+| Wyrdly Reconstructed | 0.20% | ~252 |
 | Boxcar Kid | 0.20% | ~252 |
 | Unfulfilled Desires | 0.20% | ~252 |
 | Dissector | 0.20% | ~252 |
 | Banishment | 0.20% | ~252 |
 | Deprogramming | 0.20% | ~252 |
+| Ichthyophobic | 0.20% | ~252 |
+| Reverse Banditry | 0.20% | ~252 |
 | Rush Hour | 0.20% | ~252 |
 | To Grandmother's House | 0.20% | ~252 |
+| Ramble On | 0.20% | ~252 |
 | A Clear Conscience | 0.20% | ~252 |
 | A Place to Lay Your Head | 0.20% | ~252 |
+| FNG | 0.20% | ~252 |
 | Nope | 0.20% | ~252 |
-| Bloody Graduation | 0.20% | ~2 |
+| Unshackled | 0.20% | ~252 |
+| Lost and Found | 0.20% | ~2 |
 | It Rings a Bell | 0.10% | ~126 |
 | A Life Well Lived | 0.10% | ~126 |
-| Resurrection | 0.10% | ~126 |
-| Long Live the King | 0.10% | ~126 |
-| Wyrdly Reconstructed | 0.10% | ~126 |
 | The World As It Was | 0.10% | ~126 |
 | This Looks Familiar | 0.10% | ~126 |
 | Hope Rekindled | 0.10% | ~126 |
 | Loop Year | 0.10% | ~126 |
 | Predator | 0.10% | ~126 |
-| Ichthyophobic | 0.10% | ~126 |
 | Now Stay Dead | 0.10% | ~126 |
 | No More Mouths to Feed | 0.10% | ~126 |
 | Clearing the Ledger | 0.10% | ~126 |
-| Reverse Banditry | 0.10% | ~126 |
 | Circle of Life | 0.10% | ~126 |
 | Bacon Bits | 0.10% | ~126 |
 | No Gravestone Left Unturned | 0.10% | ~126 |
@@ -54,18 +58,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Spelunker | 0.10% | ~126 |
 | Merry Time | 0.10% | ~126 |
 | Harvest Festival | 0.10% | ~126 |
-| Ramble On | 0.10% | ~126 |
 | 20,000 Leagues Above the Sea | 0.10% | ~126 |
 | Tears in the Rain | 0.10% | ~126 |
 | Shrine of Reflection | 0.10% | ~126 |
 | Whale | 0.10% | ~126 |
 | Triage | 0.10% | ~126 |
 | When You Want Something Done Right | 0.10% | ~126 |
-| FNG | 0.10% | ~126 |
 | Worldly Traveller | 0.10% | ~126 |
 | Utopia | 0.10% | ~126 |
 | Eidetic | 0.10% | ~126 |
-| Unshackled | 0.10% | ~126 |
 | Hot Air | 0.10% | ~126 |
 | Eyes Up | 0.10% | ~126 |
 | Handled | 0.10% | ~126 |
@@ -78,7 +79,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 0.10% | ~1 |
 | Et Tu, Riposte? | 0.10% | ~1 |
 | Ploughshares to Swords | 0.10% | ~1 |
-| Lost and Found | 0.10% | ~1 |
 | Friends 'Til the End | 0.10% | ~1 |
 | For Old Time' Sake | 0.10% | ~1 |
 | The Clash | 0.00% | ~0 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,221 (Ranked 84)  
+Progressed: 126,232 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-08 | 125,859 | 2 |
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
-| 2023-12-11 | 126,221 | 2 |
+| 2023-12-11 | 126,232 | 2 |
 ## Awards
 Max (Character Customization): 7,586  (Ranked 52)  
 Sum: 20,081 (Ranked 59)  

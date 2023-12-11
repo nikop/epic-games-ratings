@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 599)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,896 |
+| Stylish | 9.00% | ~2,897 |
 | Advancement | 7.00% | ~2,253 |
 | Meticulously Efficient | 7.00% | ~2,253 |
 | Swift Rift Removers | 6.00% | ~1,931 |
@@ -20,16 +20,16 @@ Rating: 4.50 (Ranked 599)
 | There you are! | 4.00% | ~1,287 |
 | Vaporous Expansion | 4.00% | ~1,287 |
 | Whoopsie | 4.00% | ~1,287 |
-| Animated | 3.00% | ~965 |
-| We have the best insurance | 3.00% | ~965 |
-| Ectoplasmic Entity | 3.00% | ~965 |
-| Ghostbuster In Training | 3.00% | ~965 |
-| Icing on the Cake | 3.00% | ~965 |
-| Legions | 3.00% | ~965 |
-| Pesky Jerks | 3.00% | ~965 |
-| Right back at ya | 3.00% | ~965 |
-| Side Hustle | 3.00% | ~965 |
-| Summoner | 3.00% | ~965 |
+| Animated | 3.00% | ~966 |
+| We have the best insurance | 3.00% | ~966 |
+| Ectoplasmic Entity | 3.00% | ~966 |
+| Ghostbuster In Training | 3.00% | ~966 |
+| Icing on the Cake | 3.00% | ~966 |
+| Legions | 3.00% | ~966 |
+| Pesky Jerks | 3.00% | ~966 |
+| Right back at ya | 3.00% | ~966 |
+| Side Hustle | 3.00% | ~966 |
+| Summoner | 3.00% | ~966 |
 | Back Off | 2.00% | ~644 |
 | Collector | 2.00% | ~644 |
 | Escape Artist | 2.00% | ~644 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 599)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,182 (Ranked 125)  
+Progressed: 32,184 (Ranked 125)  
 Completed: 69 (0.21%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,17 +292,17 @@ Completed: 69 (0.21%) (Ranked 256)
 | 2023-12-08 | 32,068 | 69 |
 | 2023-12-09 | 32,106 | 69 |
 | 2023-12-10 | 32,151 | 69 |
-| 2023-12-11 | 32,182 | 69 |
+| 2023-12-11 | 32,184 | 69 |
 ## Awards
 Max (Great for Beginners): 321  (Ranked 252)  
-Sum: 2,896 (Ranked 180)  
+Sum: 2,897 (Ranked 180)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 321 |
 | This game is Great for Quick Sessions | 316 |
 | This game has Diverse Characters | 301 |
-| This game has Amazing Storytelling | 288 |
+| This game has Amazing Storytelling | 289 |
 | This game is Highly Recommended | 288 |
 | This game has Competitive Players | 283 |
 | This game is Extremely Fun | 281 |
@@ -550,4 +550,4 @@ Diff (max vs sum): 72
 | 2023-12-08 | 4.51 | 321 | 2,888 |
 | 2023-12-09 | 4.51 | 321 | 2,893 |
 | 2023-12-10 | 4.50 | 321 | 2,894 |
-| 2023-12-11 | 4.50 | 321 | 2,896 |
+| 2023-12-11 | 4.50 | 321 | 2,897 |

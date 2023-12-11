@@ -16,6 +16,7 @@ Rating: 4.62 (Ranked 371)
 | From Friends to Family | 3.00% | ~168 |
 | Seat of Power | 3.00% | ~168 |
 | Valley of Wonders | 2.00% | ~112 |
+| Return of the Wizard King | 2.00% | ~112 |
 | Enchanted Archipelago | 2.00% | ~112 |
 | Digging for Treasure | 2.00% | ~112 |
 | Stronger Together | 2.00% | ~112 |
@@ -29,7 +30,6 @@ Rating: 4.62 (Ranked 371)
 | Freed Lands of Manuhari | 2.00% | ~112 |
 | Sehiran Oasis | 2.00% | ~112 |
 | Chaos Surge | 2.00% | ~112 |
-| Return of the Wizard King | 1.00% | ~56 |
 | Arch Mage | 1.00% | ~56 |
 | Crimson Caldera | 1.00% | ~56 |
 | Preparation Is Everything | 1.00% | ~56 |

@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 532976,
+  "EOS_Progressed": 532977,
   "EOS_Completed": 506,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -25417,6 +25417,11 @@
       "Time": "2023-12-11T22:07:18.5838703+00:00",
       "NumProgressed": 532976,
       "NumCompleted": 506
+    },
+    {
+      "Time": "2023-12-11T23:05:51.9109523+00:00",
+      "NumProgressed": 532977,
+      "NumCompleted": 506
     }
   ],
   "TotalAchievements": 57,
@@ -25428,7 +25433,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 122584
+      "UsersEstimate": 122585
     },
     {
       "ID": "10",
@@ -25436,7 +25441,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 239839
+      "UsersEstimate": 239840
     },
     {
       "ID": "11",
@@ -25444,7 +25449,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 373083
+      "UsersEstimate": 373084
     },
     {
       "ID": "12",
@@ -25500,7 +25505,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79946
+      "UsersEstimate": 79947
     },
     {
       "ID": "19",
@@ -25508,7 +25513,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 330445
+      "UsersEstimate": 330446
     },
     {
       "ID": "2",
@@ -25756,7 +25761,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 330445
+      "UsersEstimate": 330446
     },
     {
       "ID": "48",
@@ -25812,7 +25817,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122584
+      "UsersEstimate": 122585
     },
     {
       "ID": "54",
@@ -25883,15 +25888,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 532976,
+      "Progressed": 532977,
       "Completed": 506
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:07:18.58387+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:05:51.910952+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:06.8552827+00:00",
-  "LastUpdate_Ratings": "2023-12-11T21:58:29.7666906+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:07:18.5840201+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:57:52.0001356+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:05:51.9110722+00:00"
 }

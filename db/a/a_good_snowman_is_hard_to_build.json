@@ -4,7 +4,7 @@
   "ProductSlug": "a-good-snowman-is-hard-to-build",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 457,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-04-27T14:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:23.4364881+00:00",
   "LastChanged": "2023-03-31T05:58:23.4364882+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:26.8788673+00:00",
-  "LastUpdate_Ratings": "2023-12-11T21:58:20.7117055+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:06:51.8096341+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:57:45.8947674+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:05:32.5697267+00:00"
 }

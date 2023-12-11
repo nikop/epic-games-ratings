@@ -5,25 +5,25 @@ Rating: 4.18 (Ranked 945)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~38,953 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,488 |
-| Loose Ends | 33.00% | ~25,709 |
-| To the Victor Go the Spoils | 28.00% | ~21,814 |
-| Knighthood | 27.00% | ~21,035 |
-| Get ReQ'd | 25.00% | ~19,476 |
-| Whispered Words | 24.00% | ~18,697 |
-| The Batman Family | 22.00% | ~17,139 |
-| Lock and Key | 22.00% | ~17,139 |
-| Something in the Clay | 21.00% | ~16,360 |
-| Quartzer Life Crisis | 20.00% | ~15,581 |
-| Working Hard or Harley Working? | 20.00% | ~15,581 |
-| Unstoppable Force | 20.00% | ~15,581 |
-| Bad Apples in Every Orchard | 20.00% | ~15,581 |
-| Snow Problem | 19.00% | ~14,802 |
-| The Show Mud Go On | 18.00% | ~14,023 |
-| From Inside Gotham's Walls | 18.00% | ~14,023 |
-| Protector of Gotham | 17.00% | ~13,244 |
-| Universal Health Scare | 16.00% | ~12,465 |
+| First Step Into the Knight | 50.00% | ~38,955 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,489 |
+| Loose Ends | 33.00% | ~25,710 |
+| To the Victor Go the Spoils | 28.00% | ~21,815 |
+| Knighthood | 27.00% | ~21,036 |
+| Get ReQ'd | 25.00% | ~19,478 |
+| Whispered Words | 24.00% | ~18,698 |
+| The Batman Family | 22.00% | ~17,140 |
+| Lock and Key | 22.00% | ~17,140 |
+| Something in the Clay | 21.00% | ~16,361 |
+| Quartzer Life Crisis | 20.00% | ~15,582 |
+| Working Hard or Harley Working? | 20.00% | ~15,582 |
+| Unstoppable Force | 20.00% | ~15,582 |
+| Bad Apples in Every Orchard | 20.00% | ~15,582 |
+| Snow Problem | 19.00% | ~14,803 |
+| The Show Mud Go On | 18.00% | ~14,024 |
+| From Inside Gotham's Walls | 18.00% | ~14,024 |
+| Protector of Gotham | 17.00% | ~13,245 |
+| Universal Health Scare | 16.00% | ~12,466 |
 | In Your Element | 15.00% | ~11,686 |
 | Voiceless | 15.00% | ~11,686 |
 | Rock and a Hard Place | 14.00% | ~10,907 |
@@ -38,10 +38,10 @@ Rating: 4.18 (Ranked 945)
 | Drone You Out | 10.00% | ~7,791 |
 | Out of Their League | 9.00% | ~7,012 |
 | Solid Alibi | 9.00% | ~7,012 |
-| Fusion Expert | 7.00% | ~5,453 |
-| Expert Crime Fighter | 6.00% | ~4,674 |
-| Family Meeting | 6.00% | ~4,674 |
-| A Worthy Successor | 6.00% | ~4,674 |
+| Fusion Expert | 7.00% | ~5,454 |
+| Expert Crime Fighter | 6.00% | ~4,675 |
+| Family Meeting | 6.00% | ~4,675 |
+| A Worthy Successor | 6.00% | ~4,675 |
 | Dressed to Impress | 4.00% | ~3,116 |
 | A Momentum Occasion | 3.00% | ~2,337 |
 | Bat Out of Hell | 3.00% | ~2,337 |
@@ -51,9 +51,9 @@ Rating: 4.18 (Ranked 945)
 | The Man-Bat Family | 1.00% | ~779 |
 | Batarang Collector | 1.00% | ~779 |
 | Claiming the Mural High Ground | 1.00% | ~779 |
-| Icebreaker | 0.80% | ~385 |
+| Icebreaker | 0.80% | ~386 |
 | History Major | 0.80% | ~623 |
-| A Sophisticated Mallet | 0.80% | ~385 |
+| A Sophisticated Mallet | 0.80% | ~386 |
 | Read Owl About It | 0.70% | ~545 |
 | Gotham's Greatest Depths | 0.60% | ~289 |
 | Don't Mecha Big Deal About It | 0.60% | ~289 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 945)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,906 (Ranked 99)  
+Progressed: 77,910 (Ranked 99)  
 Completed: 125 (0.16%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,22 +302,22 @@ Completed: 125 (0.16%) (Ranked 272)
 | 2023-12-08 | 77,802 | 124 |
 | 2023-12-09 | 77,840 | 124 |
 | 2023-12-10 | 77,873 | 125 |
-| 2023-12-11 | 77,906 | 125 |
+| 2023-12-11 | 77,910 | 125 |
 ## Awards
 Max (Great Boss Battles): 3,003  (Ranked 98)  
-Sum: 5,133 (Ranked 141)  
+Sum: 5,137 (Ranked 141)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,003 |
+| This game is Great for Beginners | 270 |
 | This game has Diverse Characters | 270 |
-| This game is Great for Beginners | 268 |
 | This game is Relaxing | 268 |
 | This game is Extremely Fun | 268 |
 | This game has Quickly Understood Controls | 265 |
 | This game has Amazing Storytelling | 265 |
-| This game has Amazing Characters | 263 |
-| This game is Highly Recommended | 263 |
+| This game has Amazing Characters | 264 |
+| This game is Highly Recommended | 264 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -611,4 +611,4 @@ Diff (max vs sum): -43
 | 2023-12-08 | 4.18 | 3,001 | 5,123 |
 | 2023-12-09 | 4.19 | 3,001 | 5,126 |
 | 2023-12-10 | 4.18 | 3,003 | 5,131 |
-| 2023-12-11 | 4.18 | 3,003 | 5,133 |
+| 2023-12-11 | 4.18 | 3,003 | 5,137 |

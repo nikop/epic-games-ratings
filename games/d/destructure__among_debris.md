@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 79.00% | ~137 |
-| You Have Been Deaded | 75.00% | ~130 |
-| Rookie | 68.00% | ~118 |
-| Apprentice Destructor | 29.00% | ~50 |
+| Graduation | 79.00% | ~138 |
+| You Have Been Deaded | 75.00% | ~131 |
+| Rookie | 68.00% | ~119 |
+| Apprentice Destructor | 29.00% | ~51 |
 | I Prefer Jazz Fusion | 12.00% | ~21 |
 | Master Destructor | 11.00% | ~19 |
 | Avaricerite | 9.00% | ~16 |
@@ -24,11 +24,11 @@
 | Detoxed | 3.00% | ~5 |
 | Medium Rare | 3.00% | ~5 |
 | Scrap Collector | 3.00% | ~5 |
-| Bullet Hell | 2.00% | ~3 |
-| Ice Breaker | 2.00% | ~3 |
-| Monster of Fashion | 2.00% | ~3 |
-| Single Person On Earth | 2.00% | ~3 |
-| Untouchable | 2.00% | ~3 |
+| Bullet Hell | 2.00% | ~4 |
+| Ice Breaker | 2.00% | ~4 |
+| Monster of Fashion | 2.00% | ~4 |
+| Single Person On Earth | 2.00% | ~4 |
+| Untouchable | 2.00% | ~4 |
 | Machine Man | 1.00% | ~2 |
 | Mushroom Man | 1.00% | ~2 |
 | Total Walrus | 1.00% | ~2 |
@@ -36,8 +36,8 @@
 | Victory That Is Even More True | 1.00% | ~2 |
 | What Even Are You? | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174 (Ranked 401)  
-Completed: 2 (1.15%) (Ranked 165)  
+Progressed: 175 (Ranked 400)  
+Completed: 2 (1.14%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,6 +108,7 @@ Completed: 2 (1.15%) (Ranked 165)
 | 2023-10-14 | 172 | 2 |
 | 2023-10-15 | 173 | 2 |
 | 2023-12-02 | 174 | 2 |
+| 2023-12-11 | 175 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

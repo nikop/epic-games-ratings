@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-06-08T15:00:00+00:00",
     "PcReleaseDate": "2013-08-12T22:00:00+00:00",
@@ -8077,9 +8077,9 @@
       "Count": 1421
     }
   ],
-  "EOS_Progressed": 1799585,
+  "EOS_Progressed": 1799600,
   "EOS_Completed": 719,
-  "EOS_NewPlayers": 6330,
+  "EOS_NewPlayers": 6316,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -30012,6 +30012,11 @@
       "Time": "2023-12-11T22:10:32.2040852+00:00",
       "NumProgressed": 1799585,
       "NumCompleted": 719
+    },
+    {
+      "Time": "2023-12-11T23:09:31.5132769+00:00",
+      "NumProgressed": 1799600,
+      "NumCompleted": 719
     }
   ],
   "TotalAchievements": 1328,
@@ -30079,7 +30084,7 @@
       "Name": "The Collector",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 107975
+      "UsersEstimate": 107976
     },
     {
       "ID": "armed_and_dangerous",
@@ -30095,7 +30100,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 89979
+      "UsersEstimate": 89980
     },
     {
       "ID": "armored_1",
@@ -31223,7 +31228,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 197954
+      "UsersEstimate": 197956
     },
     {
       "ID": "brooklyn_2",
@@ -31447,7 +31452,7 @@
       "Name": "Virus",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 107975
+      "UsersEstimate": 107976
     },
     {
       "ID": "cac_29",
@@ -34495,7 +34500,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 71983
+      "UsersEstimate": 71984
     },
     {
       "ID": "gorilla_1",
@@ -34639,7 +34644,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 125971
+      "UsersEstimate": 125972
     },
     {
       "ID": "halloween_1",
@@ -34775,7 +34780,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 107975
+      "UsersEstimate": 107976
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -35735,7 +35740,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 161963
+      "UsersEstimate": 161964
     },
     {
       "ID": "no_turning_back",
@@ -35743,7 +35748,7 @@
       "Name": "No Turning Back",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 161963
+      "UsersEstimate": 161964
     },
     {
       "ID": "orange_1",
@@ -40527,7 +40532,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 89979
+      "UsersEstimate": 89980
     },
     {
       "ID": "wwh_1",
@@ -40631,7 +40636,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 161963
+      "UsersEstimate": 161964
     },
     {
       "ID": "you_shall_not_pass",
@@ -40646,13 +40651,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1799585,
+      "Progressed": 1799600,
       "Completed": 719
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1799585,
+      "Progressed": 1799600,
       "Completed": 117
     }
   ],
@@ -40660,8 +40665,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-12-11T22:00:53.5605268+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:10:32.2040848+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:09:31.5132764+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:06.7545968+00:00",
-  "LastUpdate_Ratings": "2023-12-11T22:00:53.5605274+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:10:32.2162111+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:59:26.9467853+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:09:31.5254673+00:00"
 }

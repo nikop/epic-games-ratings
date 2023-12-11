@@ -59,13 +59,13 @@
 | Focused | 31.00% | ~488 |
 | Completionist | 31.00% | ~488 |
 | Fade Away | 31.00% | ~488 |
+| Treason | 31.00% | ~488 |
 | Big Game Hunter | 31.00% | ~488 |
 | Heart of Darkness | 31.00% | ~488 |
 | Bringer of War | 31.00% | ~488 |
 | Friend or Foe | 30.00% | ~472 |
 | Cat's in the Cradle | 30.00% | ~472 |
 | Doppelganger | 30.00% | ~472 |
-| Treason | 30.00% | ~472 |
 | Agent | 30.00% | ~472 |
 | Digital Exorcist | 30.00% | ~472 |
 | Mobilizer | 30.00% | ~472 |

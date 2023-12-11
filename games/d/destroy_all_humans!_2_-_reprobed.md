@@ -22,12 +22,12 @@ Number of Ratings: 90  (23.09.2022)
 | Lie Back and Think of Albion | 8.00% | ~3 |
 | Fly Me to the Moon Base | 8.00% | ~3 |
 | Bodied Sattva | 8.00% | ~3 |
+| Die Nasty | 8.00% | ~3 |
 | Scuttled | 8.00% | ~3 |
 | Dusted | 8.00% | ~3 |
 | Kaijuiced | 6.00% | ~2 |
 | Lobster Blisque | 6.00% | ~2 |
 | Freshly Squeezed | 6.00% | ~2 |
-| Die Nasty | 6.00% | ~2 |
 | Forbidden Donut | 3.00% | ~1 |
 | Deincarnated | 3.00% | ~1 |
 | Yettisoned | 3.00% | ~1 |

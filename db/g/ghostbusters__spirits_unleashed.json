@@ -3625,10 +3625,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2896,
       "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-12-11T22:58:15.3448937+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2897,
+      "NumberOfAwardsMax": 321
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2896,
+  "NumberOfAwards": 2897,
   "NumberOfAwardsMax": 321,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3678,7 +3684,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 288
+      "Count": 289
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3705,9 +3711,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32182,
+  "EOS_Progressed": 32184,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22075,6 +22081,11 @@
       "Time": "2023-12-11T21:04:22.8364959+00:00",
       "NumProgressed": 32182,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-11T23:04:45.481346+00:00",
+      "NumProgressed": 32184,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22094,7 +22105,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Back_Off",
@@ -22110,7 +22121,7 @@
       "Name": "We have the best insurance",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -22190,7 +22201,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Efficient",
@@ -22230,7 +22241,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Ghost_Expert",
@@ -22246,7 +22257,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Legions",
@@ -22254,7 +22265,7 @@
       "Name": "Legions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Liability",
@@ -22302,7 +22313,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Reckless",
@@ -22334,7 +22345,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Rivalry",
@@ -22358,7 +22369,7 @@
       "Name": "Side Hustle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Skilled",
@@ -22390,7 +22401,7 @@
       "Name": "Stylish",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2896
+      "UsersEstimate": 2897
     },
     {
       "ID": "Summoner",
@@ -22398,7 +22409,7 @@
       "Name": "Summoner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Surprise",
@@ -22493,16 +22504,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32182,
+      "Progressed": 32184,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-11T11:57:55.5441299+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:05:45.2513392+00:00",
+  "LastChanged": "2023-12-11T22:58:15.3448936+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:04:45.4813456+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:16.7242615+00:00",
-  "LastUpdate_Ratings": "2023-12-11T21:59:04.5024229+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:05:45.2514531+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:58:15.3448942+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:04:45.4814526+00:00"
 }

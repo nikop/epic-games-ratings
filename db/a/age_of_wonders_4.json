@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7941,9 +7941,9 @@
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "16",
@@ -8388,8 +8388,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-11T09:58:49.361776+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:05:51.1756856+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:04:49.6914156+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.604119+00:00",
-  "LastUpdate_Ratings": "2023-12-11T22:00:09.2379912+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:05:51.1757817+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:58:58.2753399+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:04:49.6914925+00:00"
 }

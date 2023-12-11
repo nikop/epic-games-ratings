@@ -820,17 +820,17 @@
       "ID": "ach_chapter_complete_3",
       "SetID": "d499apg",
       "Name": "Chapter III - Complete",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_complete_difficulty_easy",
       "SetID": "d499apg",
       "Name": "The Emperor Protects",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -907,8 +907,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:09:58.4334417+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:09:05.7349811+00:00",
   "LastUpdate_AppInfo": "2023-12-08T13:57:10.1011387+00:00",
-  "LastUpdate_Ratings": "2023-12-11T22:02:54.2878357+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:09:58.4334535+00:00"
+  "LastUpdate_Ratings": "2023-12-11T23:02:45.7996343+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:09:05.7349954+00:00"
 }

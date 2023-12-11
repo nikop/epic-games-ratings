@@ -2,9 +2,9 @@
   "ID": "654424d5bf5d4687bd06b0354eccf38e",
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.15,
+  "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -836,6 +836,11 @@
       "Time": "2023-12-02T08:04:34.1971395+00:00",
       "NumProgressed": 174,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-11T23:05:12.4542053+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 31,
@@ -847,7 +852,7 @@
       "Name": "Apprentice Destructor",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "avaricerite",
@@ -895,7 +900,7 @@
       "Name": "Bullet Hell",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "collector",
@@ -919,7 +924,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "easy_victory",
@@ -935,7 +940,7 @@
       "Name": "Graduation",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -951,7 +956,7 @@
       "Name": "Ice Breaker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "legendary_destructor",
@@ -991,7 +996,7 @@
       "Name": "Monster of Fashion",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "mushroom_man",
@@ -1015,7 +1020,7 @@
       "Name": "Rookie",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "scrap_collector",
@@ -1031,7 +1036,7 @@
       "Name": "Single Person On Earth",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ticking_clock",
@@ -1071,7 +1076,7 @@
       "Name": "Untouchable",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "weapons",
@@ -1094,7 +1099,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 2
     }
   ],
@@ -1102,8 +1107,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:06:23.0452518+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:05:12.4542048+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:55.1100511+00:00",
-  "LastUpdate_Ratings": "2023-12-11T21:58:17.8143417+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:06:23.045279+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:57:43.9231176+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:05:12.4542234+00:00"
 }

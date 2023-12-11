@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -991,7 +991,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9333,
+  "EOS_Progressed": 9334,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -9176,6 +9176,11 @@
       "Time": "2023-12-11T22:08:45.1932015+00:00",
       "NumProgressed": 9333,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-11T23:08:13.1768227+00:00",
+      "NumProgressed": 9334,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9379,7 +9384,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4293
+      "UsersEstimate": 4294
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -9546,7 +9551,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9333,
+      "Progressed": 9334,
       "Completed": 10
     }
   ],
@@ -9554,8 +9559,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-09T14:58:44.4952754+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:08:45.1932011+00:00",
+  "LastChanged_Achievements": "2023-12-11T23:08:13.1768223+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:02.1312935+00:00",
-  "LastUpdate_Ratings": "2023-12-11T22:01:33.6143155+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:08:45.193276+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:59:53.2037785+00:00",
+  "LastUpdate_Achievements": "2023-12-11T23:08:13.1768904+00:00"
 }
