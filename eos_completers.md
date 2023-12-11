@@ -69,8 +69,8 @@
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.88% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.72% |
-| 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
+| 70 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.71% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 74 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.50% |
@@ -111,7 +111,7 @@
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 110 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.91% |
-| 112 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.80% |
+| 112 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.79% |
 | 113 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 113 | [Night Book](games/n/night_book.md) | 2.78% |
 | 115 | [Dungeons 4](games/d/dungeons_4.md) | 2.76% |
