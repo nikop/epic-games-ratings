@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Hero Arrives | 85.00% | ~29 |
 | Eat the Rich | 59.00% | ~20 |
+| Killing Machine | 47.00% | ~16 |
 | Phantom Kunoichi | 44.00% | ~15 |
-| Killing Machine | 44.00% | ~15 |
 | Death Battle | 41.00% | ~14 |
 | Divine Retribution | 38.00% | ~13 |
 | Final Showdown | 35.00% | ~12 |

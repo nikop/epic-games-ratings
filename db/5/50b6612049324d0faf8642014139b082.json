@@ -5,10 +5,10 @@
   "Ranking_Rating": 825,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 782,
+  "EOS_Progressed": 783,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1993,6 +1993,11 @@
       "Time": "2023-12-10T22:10:08.6774464+00:00",
       "NumProgressed": 782,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T10:09:12.2403451+00:00",
+      "NumProgressed": 783,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -2013,7 +2018,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "achievement_11",
@@ -2069,7 +2074,7 @@
       "Name": "Your first time?",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_18",
@@ -2093,7 +2098,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "achievement_20",
@@ -2155,9 +2160,9 @@
       "ID": "achievement_3",
       "SetID": "jnappp",
       "Name": "Rookie Season",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_4",
@@ -2189,7 +2194,7 @@
       "Name": "NEW PB!",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "achievement_8",
@@ -2212,7 +2217,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 782,
+      "Progressed": 783,
       "Completed": 0
     }
   ],
@@ -2220,8 +2225,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-09T18:58:37.9229412+00:00",
-  "LastChanged_Achievements": "2023-12-11T09:09:55.6702565+00:00",
+  "LastChanged_Achievements": "2023-12-11T10:09:12.2403447+00:00",
   "LastUpdate_AppInfo": "2023-12-05T21:56:59.3509515+00:00",
-  "LastUpdate_Ratings": "2023-12-11T09:00:16.2912015+00:00",
-  "LastUpdate_Achievements": "2023-12-11T09:09:55.670277+00:00"
+  "LastUpdate_Ratings": "2023-12-11T09:59:24.2731119+00:00",
+  "LastUpdate_Achievements": "2023-12-11T10:09:12.24037+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -319,7 +319,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233418,
+  "EOS_Progressed": 233420,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
@@ -24109,6 +24109,11 @@
       "Time": "2023-12-11T09:08:49.0957095+00:00",
       "NumProgressed": 233418,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-11T10:08:21.996128+00:00",
+      "NumProgressed": 233420,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -24184,7 +24189,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84030
+      "UsersEstimate": 84031
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -24264,7 +24269,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79362
+      "UsersEstimate": 79363
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -24343,7 +24348,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233418,
+      "Progressed": 233420,
       "Completed": 5
     }
   ],
@@ -24351,8 +24356,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-08T19:00:51.9158199+00:00",
-  "LastChanged_Achievements": "2023-12-11T09:08:49.0957092+00:00",
+  "LastChanged_Achievements": "2023-12-11T10:08:21.9961277+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:19.2756281+00:00",
-  "LastUpdate_Ratings": "2023-12-11T08:58:47.926646+00:00",
-  "LastUpdate_Achievements": "2023-12-11T09:08:49.095857+00:00"
+  "LastUpdate_Ratings": "2023-12-11T09:58:21.6543994+00:00",
+  "LastUpdate_Achievements": "2023-12-11T10:08:21.9962762+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -583,9 +583,9 @@
       "ID": "look_mum_im_a_detective",
       "SetID": "2db2j74",
       "Name": "Look Mum I\u0027m A Detective",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "oscar_winning_performance",
@@ -696,8 +696,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-11T09:05:57.2209733+00:00",
+  "LastChanged_Achievements": "2023-12-11T10:04:41.0095084+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:09.2551695+00:00",
-  "LastUpdate_Ratings": "2023-12-11T09:03:11.9959185+00:00",
-  "LastUpdate_Achievements": "2023-12-11T09:05:57.2209952+00:00"
+  "LastUpdate_Ratings": "2023-12-11T10:02:38.5036682+00:00",
+  "LastUpdate_Achievements": "2023-12-11T10:04:41.0095295+00:00"
 }

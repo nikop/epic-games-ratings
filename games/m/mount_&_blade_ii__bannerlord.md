@@ -14,8 +14,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Trained | 24.00% | ~16,222 |
 | The king is pleased | 19.00% | ~12,842 |
 | King Solomon | 18.00% | ~12,166 |
-| Apple of my eye | 16.00% | ~10,814 |
-| I can do it | 16.00% | ~10,814 |
+| Apple of my eye | 16.00% | ~10,815 |
+| I can do it | 16.00% | ~10,815 |
 | This Is Our Land | 14.00% | ~9,463 |
 | Against all odds | 13.00% | ~8,787 |
 | God of the Arena | 13.00% | ~8,787 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,590 (Ranked 104)  
+Progressed: 67,591 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,10 +293,10 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 67,387 | 0 |
 | 2023-12-09 | 67,516 | 0 |
 | 2023-12-10 | 67,577 | 0 |
-| 2023-12-11 | 67,590 | 0 |
+| 2023-12-11 | 67,591 | 0 |
 ## Awards
 Max (Character Customization): 7,547  (Ranked 53)  
-Sum: 15,732 (Ranked 68)  
+Sum: 15,736 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -305,7 +305,7 @@ Diff (max vs sum): -15
 | This game has Diverse Characters | 1,046 |
 | This game is Highly Recommended | 969 |
 | This game is Extremely Fun | 900 |
-| This game has Amazing Storytelling | 889 |
+| This game has Amazing Storytelling | 893 |
 | This game has Amazing Characters | 889 |
 | This game is Relaxing | 874 |
 | This game has Quickly Understood Controls | 854 |
@@ -645,4 +645,4 @@ Diff (max vs sum): -15
 | 2023-12-08 | 4.74 | - | 7,526 | 15,679 |
 | 2023-12-09 | 4.74 | - | 7,535 | 15,703 |
 | 2023-12-10 | 4.74 | - | 7,535 | 15,715 |
-| 2023-12-11 | 4.74 | - | 7,547 | 15,732 |
+| 2023-12-11 | 4.74 | - | 7,547 | 15,736 |

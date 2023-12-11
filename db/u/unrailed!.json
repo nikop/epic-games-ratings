@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2861,9 +2861,9 @@
       "Count": 149
     }
   ],
-  "EOS_Progressed": 669126,
+  "EOS_Progressed": 669130,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1708,
+  "EOS_NewPlayers": 1703,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29726,6 +29726,11 @@
       "Time": "2023-12-11T09:09:55.1801031+00:00",
       "NumProgressed": 669126,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-11T10:09:11.8619501+00:00",
+      "NumProgressed": 669130,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -29737,7 +29742,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 100369
+      "UsersEstimate": 100370
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -29745,7 +29750,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 80295
+      "UsersEstimate": 80296
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -29785,7 +29790,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 86986
+      "UsersEstimate": 86987
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -29985,7 +29990,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 113751
+      "UsersEstimate": 113752
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -30057,7 +30062,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 107060
+      "UsersEstimate": 107061
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -30152,15 +30157,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 669126,
+      "Progressed": 669130,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-12-11T01:46:03.4573298+00:00",
-  "LastChanged_Achievements": "2023-12-11T09:09:55.1801024+00:00",
+  "LastChanged_Achievements": "2023-12-11T10:09:11.8619496+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.2669458+00:00",
-  "LastUpdate_Ratings": "2023-12-11T08:57:58.066597+00:00",
-  "LastUpdate_Achievements": "2023-12-11T09:09:55.1802267+00:00"
+  "LastUpdate_Ratings": "2023-12-11T09:57:45.4450474+00:00",
+  "LastUpdate_Achievements": "2023-12-11T10:09:11.8621288+00:00"
 }

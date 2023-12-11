@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3833,
+  "EOS_Progressed": 3834,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4792,6 +4792,11 @@
       "Time": "2023-12-11T09:05:22.4946706+00:00",
       "NumProgressed": 3833,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-11T10:04:15.0300117+00:00",
+      "NumProgressed": 3834,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4843,7 +4848,7 @@
       "Name": "All Geared Up",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "campaign1",
@@ -4851,7 +4856,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3335
+      "UsersEstimate": 3336
     },
     {
       "ID": "campaign10",
@@ -4939,7 +4944,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2913
+      "UsersEstimate": 2914
     },
     {
       "ID": "campaign20",
@@ -5066,7 +5071,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3833,
+      "Progressed": 3834,
       "Completed": 11
     }
   ],
@@ -5074,8 +5079,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-11T09:05:22.4946704+00:00",
+  "LastChanged_Achievements": "2023-12-11T10:04:15.0300113+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.2611829+00:00",
-  "LastUpdate_Ratings": "2023-12-11T09:01:03.0402214+00:00",
-  "LastUpdate_Achievements": "2023-12-11T09:05:22.4947143+00:00"
+  "LastUpdate_Ratings": "2023-12-11T09:59:58.0040683+00:00",
+  "LastUpdate_Achievements": "2023-12-11T10:04:15.0300622+00:00"
 }

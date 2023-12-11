@@ -731,7 +731,7 @@
       "Count": 118
     }
   ],
-  "EOS_Progressed": 2220,
+  "EOS_Progressed": 2221,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 1,
@@ -6971,6 +6971,11 @@
       "Time": "2023-12-11T09:09:02.8150844+00:00",
       "NumProgressed": 2220,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-11T10:08:32.1395933+00:00",
+      "NumProgressed": 2221,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -6983,7 +6988,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "achievement_10",
@@ -6991,7 +6996,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "achievement_11",
@@ -7055,7 +7060,7 @@
       "Name": "Full Arsenal",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "achievement_19",
@@ -7071,15 +7076,15 @@
       "Name": "Lab Rat",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "achievement_20",
       "SetID": "222fo9l",
       "Name": "Autofire",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1288
     },
     {
       "ID": "achievement_21",
@@ -7087,7 +7092,7 @@
       "Name": "Live with the Hot Ones",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "achievement_22",
@@ -7119,7 +7124,7 @@
       "Name": "Full Contact",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "achievement_26",
@@ -7135,7 +7140,7 @@
       "Name": "Pack Rat",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "achievement_28",
@@ -7143,7 +7148,7 @@
       "Name": "Story Teller",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "achievement_29",
@@ -7159,7 +7164,7 @@
       "Name": "All Systems Go",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "achievement_30",
@@ -7175,7 +7180,7 @@
       "Name": "Marksman",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "achievement_32",
@@ -7199,7 +7204,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "achievement_35",
@@ -7207,7 +7212,7 @@
       "Name": "Freeze",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "achievement_36",
@@ -7271,7 +7276,7 @@
       "Name": "Brute Force",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "achievement_43",
@@ -7287,7 +7292,7 @@
       "Name": "Get Off My Ship!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "achievement_45",
@@ -7303,7 +7308,7 @@
       "Name": "Marked",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "achievement_47",
@@ -7358,7 +7363,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 2220,
+      "Progressed": 2221,
       "Completed": 14
     }
   ],
@@ -7366,8 +7371,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-12-06T16:57:59.3139948+00:00",
-  "LastChanged_Achievements": "2023-12-11T09:09:02.815084+00:00",
+  "LastChanged_Achievements": "2023-12-11T10:08:32.1395928+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.7137254+00:00",
-  "LastUpdate_Ratings": "2023-12-11T09:01:36.4364741+00:00",
-  "LastUpdate_Achievements": "2023-12-11T09:09:02.8151346+00:00"
+  "LastUpdate_Ratings": "2023-12-11T10:00:23.6368299+00:00",
+  "LastUpdate_Achievements": "2023-12-11T10:08:32.1396742+00:00"
 }

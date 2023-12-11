@@ -6,9 +6,9 @@
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -243,10 +243,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 4365,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.07,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:46.2656162+00:00",
@@ -1647,6 +1647,11 @@
       "Time": "2023-12-07T18:09:29.5829251+00:00",
       "NumProgressed": 4365,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-11T10:09:19.1579105+00:00",
+      "NumProgressed": 4365,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -1720,9 +1725,9 @@
       "ID": "ACHIEVEMENT_BUILDINGS1",
       "SetID": "9eacipp",
       "Name": "I like to build stuff... I",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 436
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS2",
@@ -2466,14 +2471,14 @@
       "ID": "9eacipp",
       "IsBase": true,
       "Progressed": 4365,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-04T22:59:34.0965429+00:00",
-  "LastChanged_Achievements": "2023-12-11T09:10:03.9430977+00:00",
+  "LastChanged_Achievements": "2023-12-11T10:09:19.1579097+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:57.9071019+00:00",
-  "LastUpdate_Ratings": "2023-12-11T09:00:31.1252423+00:00",
-  "LastUpdate_Achievements": "2023-12-11T09:10:03.9431896+00:00"
+  "LastUpdate_Ratings": "2023-12-11T09:59:35.0034743+00:00",
+  "LastUpdate_Achievements": "2023-12-11T10:09:19.1580231+00:00"
 }

@@ -12,7 +12,7 @@
 | Hashtag Winning | 38.00% | ~95 |
 | A Woman Scorned | 29.00% | ~73 |
 | Chameleon | 22.00% | ~55 |
-| Look Mum I'm A Detective | 21.00% | ~53 |
+| Look Mum I'm A Detective | 22.00% | ~55 |
 | Highlander | 18.00% | ~45 |
 | You Had One Job | 14.00% | ~35 |
 | Book 'em Danny | 13.00% | ~33 |

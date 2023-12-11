@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,924 |
-| Gun Fu | 7.00% | ~68,205 |
-| The Fool | 6.00% | ~58,462 |
-| Right Back At Ya | 5.00% | ~48,718 |
-| The Lovers | 5.00% | ~48,718 |
+| V for Vendetta | 12.00% | ~116,926 |
+| Gun Fu | 7.00% | ~68,207 |
+| The Fool | 6.00% | ~58,463 |
+| Right Back At Ya | 5.00% | ~48,719 |
+| The Lovers | 5.00% | ~48,719 |
 | Full Body Conversion | 4.00% | ~38,975 |
 | Stanislavski's Method | 4.00% | ~38,975 |
 | True Soldier | 4.00% | ~38,975 |
@@ -20,14 +20,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | Relic Ruler | 3.00% | ~3,090 |
 | All the President's Men | 3.00% | ~3,090 |
 | Arachnophobia | 3.00% | ~3,090 |
-| Bushido and Chill | 2.00% | ~19,487 |
-| Master Crafter | 2.00% | ~19,487 |
-| The Quick and the Dead | 2.00% | ~19,487 |
-| Life of the Road | 2.00% | ~19,487 |
-| The High Priestess | 2.00% | ~19,487 |
-| The World | 2.00% | ~19,487 |
-| True Warrior | 2.00% | ~19,487 |
-| Legend of The Afterlife | 2.00% | ~19,487 |
+| Bushido and Chill | 2.00% | ~19,488 |
+| Master Crafter | 2.00% | ~19,488 |
+| The Quick and the Dead | 2.00% | ~19,488 |
+| Life of the Road | 2.00% | ~19,488 |
+| The High Priestess | 2.00% | ~19,488 |
+| The World | 2.00% | ~19,488 |
+| True Warrior | 2.00% | ~19,488 |
+| Legend of The Afterlife | 2.00% | ~19,488 |
 | To Protect and Serve | 1.00% | ~9,744 |
 | I Am The Law | 1.00% | ~9,744 |
 | Two Heads, One Bullet | 1.00% | ~9,744 |
@@ -45,8 +45,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.50% | ~4,872 |
 | Judgement Day | 0.50% | ~515 |
 | The Tower | 0.50% | ~515 |
-| Must Be Rats | 0.40% | ~3,897 |
-| Temperance | 0.40% | ~3,897 |
+| Must Be Rats | 0.40% | ~3,898 |
+| Temperance | 0.40% | ~3,898 |
 | The APB is Not Enough | 0.40% | ~412 |
 | King of Pentacles | 0.40% | ~412 |
 | King of Swords | 0.40% | ~412 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974,363 (Ranked 15)  
+Progressed: 974,381 (Ranked 15)  
 Completed: 2,883 (0.30%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,10 +309,10 @@ Completed: 2,883 (0.30%) (Ranked 239)
 | 2023-12-08 | 972,634 | 2,860 |
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
-| 2023-12-11 | 974,363 | 2,883 |
+| 2023-12-11 | 974,381 | 2,883 |
 ## Awards
 Max (Character Customization): 120,955  (Ranked 9)  
-Sum: 408,857 (Ranked 9)  
+Sum: 409,025 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -321,7 +321,7 @@ Diff (max vs sum): 0
 | This game is Great for Beginners | 24,926 |
 | This game has Diverse Characters | 24,477 |
 | This game is Highly Recommended | 23,281 |
-| This game has Amazing Storytelling | 23,026 |
+| This game has Amazing Storytelling | 23,194 |
 | This game is Extremely Fun | 22,941 |
 | This game has Amazing Characters | 22,702 |
 | This game is Relaxing | 21,915 |
@@ -656,4 +656,4 @@ Diff (max vs sum): 0
 | 2023-12-08 | 4.66 | - | 119,484 | 401,865 |
 | 2023-12-09 | 4.66 | - | 120,272 | 405,418 |
 | 2023-12-10 | 4.66 | - | 120,955 | 408,628 |
-| 2023-12-11 | 4.66 | - | 120,955 | 408,857 |
+| 2023-12-11 | 4.66 | - | 120,955 | 409,025 |
