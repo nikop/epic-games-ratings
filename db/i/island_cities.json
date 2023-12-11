@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -32,10 +32,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 837,
-  "EOS_Completed": 138,
-  "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.49,
+  "EOS_Completed": 139,
+  "EOS_NewPlayers": 5,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 16.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3566,6 +3566,11 @@
       "Time": "2023-12-10T01:58:09.6165914+00:00",
       "NumProgressed": 837,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-12-11T12:02:55.2300775+00:00",
+      "NumProgressed": 837,
+      "NumCompleted": 139
     }
   ],
   "TotalAchievements": 22,
@@ -3743,9 +3748,9 @@
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
@@ -3753,15 +3758,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 837,
-      "Completed": 138
+      "Completed": 139
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-12-11T10:06:03.1840609+00:00",
+  "LastChanged_Achievements": "2023-12-11T12:02:55.2300769+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:33.3015256+00:00",
-  "LastUpdate_Ratings": "2023-12-11T10:58:44.8595605+00:00",
-  "LastUpdate_Achievements": "2023-12-11T10:06:03.1841026+00:00"
+  "LastUpdate_Ratings": "2023-12-11T11:58:39.1871718+00:00",
+  "LastUpdate_Achievements": "2023-12-11T12:02:55.2301225+00:00"
 }

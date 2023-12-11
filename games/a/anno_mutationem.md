@@ -7,8 +7,8 @@ Rating: 4.54 (Ranked 536)
 | ---- | ---------- | ----- |
 | Tell me your story | 75.00% | ~580 |
 | Don't judge a manhole by its cover | 60.00% | ~464 |
+| I just love stuff! | 42.00% | ~325 |
 | Keep 'em coming! | 42.00% | ~325 |
-| I just love stuff! | 41.00% | ~317 |
 | The things they print nowadays | 39.00% | ~302 |
 | Big Spender | 38.00% | ~294 |
 | That's gotta hurt | 36.00% | ~279 |
@@ -17,7 +17,7 @@ Rating: 4.54 (Ranked 536)
 | Club Star | 25.00% | ~194 |
 | Fire in the hole! | 21.00% | ~163 |
 | Omnipotence | 20.00% | ~155 |
-| The Warlord | 19.00% | ~147 |
+| The Warlord | 20.00% | ~155 |
 | You are the One | 19.00% | ~147 |
 | Deadly Kombationem | 18.00% | ~139 |
 | The truth is out there | 16.00% | ~124 |

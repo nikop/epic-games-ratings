@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9552,9 +9552,9 @@
       "Count": 983
     }
   ],
-  "EOS_Progressed": 126117,
+  "EOS_Progressed": 126121,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34477,6 +34477,11 @@
       "Time": "2023-12-11T11:08:49.0937227+00:00",
       "NumProgressed": 126117,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-11T12:08:21.8487266+00:00",
+      "NumProgressed": 126121,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -35030,9 +35035,9 @@
       "ID": "combat_kill_collector",
       "SetID": "d3bcpc8",
       "Name": "This guy... again?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35119,21 +35124,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126117,
+      "Progressed": 126121,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 986,
+      "Progressed": 990,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-11T08:58:31.6424435+00:00",
-  "LastChanged_Achievements": "2023-12-11T11:08:49.0937217+00:00",
+  "LastChanged_Achievements": "2023-12-11T12:08:21.8487263+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-11T10:58:05.484631+00:00",
-  "LastUpdate_Achievements": "2023-12-11T11:08:49.0938999+00:00"
+  "LastUpdate_Ratings": "2023-12-11T11:57:59.450174+00:00",
+  "LastUpdate_Achievements": "2023-12-11T12:08:21.8488927+00:00"
 }

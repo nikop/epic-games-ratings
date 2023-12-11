@@ -475,9 +475,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1555497,
+  "EOS_Progressed": 1555504,
   "EOS_Completed": 743,
-  "EOS_NewPlayers": 1263,
+  "EOS_NewPlayers": 1264,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27320,6 +27320,11 @@
       "Time": "2023-12-11T11:04:36.9817611+00:00",
       "NumProgressed": 1555497,
       "NumCompleted": 743
+    },
+    {
+      "Time": "2023-12-11T12:04:21.0044906+00:00",
+      "NumProgressed": 1555504,
+      "NumCompleted": 743
     }
   ],
   "TotalAchievements": 20,
@@ -27355,7 +27360,7 @@
       "Name": "Double Rainbow",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7777
+      "UsersEstimate": 7778
     },
     {
       "ID": "ACH_DRIFT_LINE_APPRENTICE",
@@ -27371,7 +27376,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 10888
+      "UsersEstimate": 10889
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -27467,7 +27472,7 @@
       "Name": "The Completionist",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1556
     },
     {
       "ID": "ACH_THE_LONG_DRIFT",
@@ -27490,15 +27495,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1555497,
+      "Progressed": 1555504,
       "Completed": 743
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-12-08T12:00:51.5497062+00:00",
-  "LastChanged_Achievements": "2023-12-11T11:04:36.9817605+00:00",
+  "LastChanged_Achievements": "2023-12-11T12:04:21.0044902+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.3878969+00:00",
-  "LastUpdate_Ratings": "2023-12-11T10:57:44.6653516+00:00",
-  "LastUpdate_Achievements": "2023-12-11T11:04:36.9818924+00:00"
+  "LastUpdate_Ratings": "2023-12-11T11:57:37.9325225+00:00",
+  "LastUpdate_Achievements": "2023-12-11T12:04:21.0046197+00:00"
 }

@@ -7,6 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 0.20% | ~2 |
+| This guy... again? | 0.20% | ~2 |
 | Don't Make Me Turn This Coach Around | 0.10% | ~126 |
 | Serenity Now! | 0.10% | ~126 |
 | It Rings a Bell | 0.10% | ~126 |
@@ -70,7 +71,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Grand Slam | 0.10% | ~126 |
 | Hard Mode | 0.10% | ~126 |
 | Road Trip | 0.10% | ~126 |
-| This guy... again? | 0.10% | ~1 |
 | No Gravestone Left Unturned | 0.00% | ~0 |
 | The Clash | 0.00% | ~0 |
 | Battle Hardened | 0.00% | ~0 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,117 (Ranked 84)  
+Progressed: 126,121 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-08 | 125,859 | 2 |
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
-| 2023-12-11 | 126,117 | 2 |
+| 2023-12-11 | 126,121 | 2 |
 ## Awards
 Max (Character Customization): 7,586  (Ranked 52)  
 Sum: 20,059 (Ranked 59)  

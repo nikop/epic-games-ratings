@@ -8,7 +8,7 @@
 | Training Simulation | 78.00% | ~459 |
 | Kuku Bird Hunter | 64.00% | ~377 |
 | Storm Traveller | 59.00% | ~348 |
-| Wolf King Killer | 53.00% | ~312 |
+| Wolf King Killer | 54.00% | ~318 |
 | Fashion Connoisseur | 52.00% | ~306 |
 | Arms Mechanic | 48.00% | ~283 |
 | Flower Thief | 43.00% | ~253 |

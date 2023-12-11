@@ -46,6 +46,7 @@
 | Ghost Ship | 33.00% | ~518 |
 | The Quarian | 33.00% | ~518 |
 | Galactic Explorer | 33.00% | ~518 |
+| Driven | 33.00% | ~518 |
 | Shopaholic | 33.00% | ~518 |
 | The Assassin | 32.00% | ~502 |
 | The Justicar | 32.00% | ~502 |
@@ -55,7 +56,6 @@
 | The Cure | 32.00% | ~502 |
 | The Prodigal | 32.00% | ~502 |
 | Revenge! | 32.00% | ~502 |
-| Driven | 32.00% | ~502 |
 | Focused | 31.00% | ~487 |
 | Completionist | 31.00% | ~487 |
 | Fade Away | 31.00% | ~487 |

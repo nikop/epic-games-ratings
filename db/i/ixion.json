@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3422,
+  "EOS_Progressed": 3423,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6196,6 +6196,11 @@
       "Time": "2023-12-11T11:06:11.0136077+00:00",
       "NumProgressed": 3422,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T12:05:55.0181353+00:00",
+      "NumProgressed": 3423,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6207,7 +6212,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACH_BASE_10",
@@ -6343,7 +6348,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACH_BASE_28",
@@ -6662,13 +6667,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1606,
+      "Progressed": 1607,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3422,
+      "Progressed": 3423,
       "Completed": 0
     }
   ],
@@ -6676,8 +6681,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-11T11:06:11.0136072+00:00",
+  "LastChanged_Achievements": "2023-12-11T12:05:55.0181348+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4855137+00:00",
-  "LastUpdate_Ratings": "2023-12-11T10:58:49.0369086+00:00",
-  "LastUpdate_Achievements": "2023-12-11T11:06:11.0136727+00:00"
+  "LastUpdate_Ratings": "2023-12-11T11:58:43.4828723+00:00",
+  "LastUpdate_Achievements": "2023-12-11T12:05:55.0182232+00:00"
 }

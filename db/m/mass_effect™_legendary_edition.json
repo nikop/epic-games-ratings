@@ -5435,9 +5435,9 @@
       "ID": "achievement_79",
       "SetID": "d252ncf",
       "Name": "Driven",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 518
     },
     {
       "ID": "achievement_8",
@@ -5631,8 +5631,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-11T11:09:30.3869161+00:00",
+  "LastChanged_Achievements": "2023-12-11T12:09:03.0432942+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.2992366+00:00",
-  "LastUpdate_Ratings": "2023-12-11T11:03:06.6392297+00:00",
-  "LastUpdate_Achievements": "2023-12-11T11:09:30.3870769+00:00"
+  "LastUpdate_Ratings": "2023-12-11T12:02:48.2038336+00:00",
+  "LastUpdate_Achievements": "2023-12-11T12:09:03.04345+00:00"
 }

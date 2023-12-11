@@ -5,14 +5,14 @@ Rating: 4.50 (Ranked 598)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,505 |
-| For Saw Gerrera | 98.00% | ~9,409 |
-| Grab Some Seat | 92.00% | ~8,833 |
-| Can You Pet the Bogling? | 87.00% | ~8,353 |
-| The Past Made Present | 84.00% | ~8,065 |
-| Survivors, We Adapt | 80.00% | ~7,681 |
-| They Never Saw It Coming | 78.00% | ~7,489 |
-| Among the Masters | 78.00% | ~7,489 |
+| Rooftop Duel | 99.00% | ~9,506 |
+| For Saw Gerrera | 98.00% | ~9,410 |
+| Grab Some Seat | 92.00% | ~8,834 |
+| Can You Pet the Bogling? | 87.00% | ~8,354 |
+| The Past Made Present | 84.00% | ~8,066 |
+| Survivors, We Adapt | 80.00% | ~7,682 |
+| They Never Saw It Coming | 78.00% | ~7,490 |
+| Among the Masters | 78.00% | ~7,490 |
 | Who Gives a Puck | 74.00% | ~7,105 |
 | For the Path | 67.00% | ~6,433 |
 | Now, This Isn't Podracing | 65.00% | ~6,241 |
@@ -24,18 +24,18 @@ Rating: 4.50 (Ranked 598)
 | Kitted Out | 53.00% | ~5,089 |
 | Tragedy | 52.00% | ~4,993 |
 | At the Precipice | 51.00% | ~4,897 |
-| Hey, Luke At Us | 50.00% | ~4,800 |
-| Into the Abyss | 49.00% | ~4,704 |
-| A Place You Could Call Home | 47.00% | ~4,512 |
-| Riposte | 47.00% | ~4,512 |
-| Greezy Money | 45.00% | ~4,320 |
-| Catch! | 42.00% | ~4,032 |
-| They're Probably Fine | 40.00% | ~3,840 |
-| Han Slowlo | 39.00% | ~3,744 |
-| There Is No Try | 38.00% | ~3,648 |
-| The Jedi Path | 33.00% | ~3,168 |
-| This Is Canon | 30.00% | ~2,880 |
-| It's a Trap | 27.00% | ~2,592 |
+| Hey, Luke At Us | 50.00% | ~4,801 |
+| Into the Abyss | 49.00% | ~4,705 |
+| A Place You Could Call Home | 47.00% | ~4,513 |
+| Riposte | 47.00% | ~4,513 |
+| Greezy Money | 45.00% | ~4,321 |
+| Catch! | 42.00% | ~4,033 |
+| They're Probably Fine | 40.00% | ~3,841 |
+| Han Slowlo | 39.00% | ~3,745 |
+| There Is No Try | 38.00% | ~3,649 |
+| The Jedi Path | 33.00% | ~3,169 |
+| This Is Canon | 30.00% | ~2,881 |
+| It's a Trap | 27.00% | ~2,593 |
 | You've Got A Friend | 23.00% | ~2,208 |
 | King of the World | 17.00% | ~1,632 |
 | Max Capacity | 15.00% | ~1,440 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 598)
 | Splurgle | 3.00% | ~288 |
 | Pinpoint | 2.00% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,601 (Ranked 169)  
+Progressed: 9,602 (Ranked 169)  
 Completed: 57 (0.59%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 57 (0.59%) (Ranked 197)
 | 2023-12-08 | 9,450 | 56 |
 | 2023-12-09 | 9,519 | 57 |
 | 2023-12-10 | 9,581 | 57 |
-| 2023-12-11 | 9,601 | 57 |
+| 2023-12-11 | 9,602 | 57 |
 ## Awards
 Max (Great Boss Battles): 3,442  (Ranked 92)  
 Sum: 5,367 (Ranked 136)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2008,
+  "EOS_Progressed": 2009,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7644,6 +7644,11 @@
       "Time": "2023-12-11T07:06:20.6112971+00:00",
       "NumProgressed": 2008,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-11T12:05:46.7022485+00:00",
+      "NumProgressed": 2009,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7727,7 +7732,7 @@
       "Name": "Silver Achiever",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "objective_headquarters_10",
@@ -7743,7 +7748,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "objective_headquarters_20",
@@ -7823,7 +7828,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -7958,7 +7963,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2008,
+      "Progressed": 2009,
       "Completed": 1
     }
   ],
@@ -7966,8 +7971,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-11T11:06:02.7710467+00:00",
+  "LastChanged_Achievements": "2023-12-11T12:05:46.7022481+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-11T10:58:33.0730357+00:00",
-  "LastUpdate_Achievements": "2023-12-11T11:06:02.7711048+00:00"
+  "LastUpdate_Ratings": "2023-12-11T11:58:27.3793021+00:00",
+  "LastUpdate_Achievements": "2023-12-11T12:05:46.7023122+00:00"
 }

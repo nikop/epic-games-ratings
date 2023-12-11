@@ -37,6 +37,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dig Your Own Grave | 0.40% | ~964 |
 | Who To Trust? | 0.40% | ~964 |
 | Walk It Off | 0.40% | ~964 |
+| Just Chilling | 0.40% | ~964 |
 | Cold Hearted | 0.40% | ~964 |
 | I Am Overburdened | 0.40% | ~964 |
 | Destroy Your Fears | 0.40% | ~964 |
@@ -53,7 +54,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Rough Road | 0.30% | ~723 |
 | To The Death! | 0.30% | ~723 |
 | Well Prepared | 0.30% | ~723 |
-| Just Chilling | 0.30% | ~723 |
 | Save Our Souls | 0.30% | ~723 |
 | Don't Ignore Me! | 0.30% | ~723 |
 | All Consuming | 0.30% | ~723 |

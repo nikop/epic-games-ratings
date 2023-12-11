@@ -5,13 +5,13 @@ Rating: 4.18 (Ranked 945)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~38,942 |
+| First Step Into the Knight | 50.00% | ~38,943 |
 | Har, Har, Har, Very Funny | 34.00% | ~26,481 |
 | Loose Ends | 33.00% | ~25,702 |
 | To the Victor Go the Spoils | 28.00% | ~21,808 |
 | Knighthood | 27.00% | ~21,029 |
-| Get ReQ'd | 25.00% | ~19,471 |
-| Whispered Words | 24.00% | ~18,692 |
+| Get ReQ'd | 25.00% | ~19,472 |
+| Whispered Words | 24.00% | ~18,693 |
 | The Batman Family | 22.00% | ~17,135 |
 | Lock and Key | 22.00% | ~17,135 |
 | Something in the Clay | 21.00% | ~16,356 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 945)
 | Snow Problem | 19.00% | ~14,798 |
 | The Show Mud Go On | 18.00% | ~14,019 |
 | From Inside Gotham's Walls | 18.00% | ~14,019 |
-| Protector of Gotham | 17.00% | ~13,240 |
+| Protector of Gotham | 17.00% | ~13,241 |
 | Universal Health Scare | 16.00% | ~12,462 |
 | In Your Element | 15.00% | ~11,683 |
 | Voiceless | 15.00% | ~11,683 |
@@ -35,7 +35,7 @@ Rating: 4.18 (Ranked 945)
 | Bulldozed | 12.00% | ~9,346 |
 | Gotham Knight | 12.00% | ~9,346 |
 | Gotham City Confidential | 11.00% | ~8,567 |
-| Drone You Out | 10.00% | ~7,788 |
+| Drone You Out | 10.00% | ~7,789 |
 | Out of Their League | 9.00% | ~7,010 |
 | Solid Alibi | 9.00% | ~7,010 |
 | Fusion Expert | 7.00% | ~5,452 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 945)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,885 (Ranked 99)  
+Progressed: 77,886 (Ranked 99)  
 Completed: 125 (0.16%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 125 (0.16%) (Ranked 272)
 | 2023-12-08 | 77,802 | 124 |
 | 2023-12-09 | 77,840 | 124 |
 | 2023-12-10 | 77,873 | 125 |
-| 2023-12-11 | 77,885 | 125 |
+| 2023-12-11 | 77,886 | 125 |
 ## Awards
 Max (Great Boss Battles): 3,003  (Ranked 98)  
 Sum: 5,131 (Ranked 141)  

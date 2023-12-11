@@ -4607,7 +4607,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77885,
+  "EOS_Progressed": 77886,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 1,
@@ -25632,6 +25632,11 @@
       "Time": "2023-12-11T10:05:37.7932735+00:00",
       "NumProgressed": 77885,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-11T12:05:39.5837605+00:00",
+      "NumProgressed": 77886,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25739,7 +25744,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13240
+      "UsersEstimate": 13241
     },
     {
       "ID": "CLAYFACE_1",
@@ -25859,7 +25864,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7788
+      "UsersEstimate": 7789
     },
     {
       "ID": "FREEZE_1",
@@ -25955,7 +25960,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19471
+      "UsersEstimate": 19472
     },
     {
       "ID": "HARLEY_3",
@@ -25987,7 +25992,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38942
+      "UsersEstimate": 38943
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -26043,7 +26048,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18692
+      "UsersEstimate": 18693
     },
     {
       "ID": "MYSTERY_03",
@@ -26130,13 +26135,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77885,
+      "Progressed": 77886,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48165,
+      "Progressed": 48166,
       "Completed": 2675
     }
   ],
@@ -26144,8 +26149,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-10T21:57:48.3381968+00:00",
-  "LastChanged_Achievements": "2023-12-11T11:05:55.6097389+00:00",
+  "LastChanged_Achievements": "2023-12-11T12:05:39.5837602+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-11T10:57:51.9853999+00:00",
-  "LastUpdate_Achievements": "2023-12-11T11:05:55.6098515+00:00"
+  "LastUpdate_Ratings": "2023-12-11T11:57:45.8429919+00:00",
+  "LastUpdate_Achievements": "2023-12-11T12:05:39.5839207+00:00"
 }

@@ -292,9 +292,9 @@
       "ID": "ACH_02_PHOTO_TEAM",
       "SetID": "9loam6m",
       "Name": "Photo team",
-      "Percentage": 84,
+      "Percentage": 86,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_03_MODEL",
@@ -524,9 +524,9 @@
       "ID": "ACH_31_BEST_MUFFINS",
       "SetID": "9loam6m",
       "Name": "The best muffins",
-      "Percentage": 84,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_32_HEART_FOR_ANIMALS",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-11T11:05:21.2987379+00:00",
+  "LastChanged_Achievements": "2023-12-11T12:05:05.2522112+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:43.2221056+00:00",
-  "LastUpdate_Ratings": "2023-12-11T10:57:07.0632555+00:00",
-  "LastUpdate_Achievements": "2023-12-11T11:05:21.2987675+00:00"
+  "LastUpdate_Ratings": "2023-12-11T11:57:01.2319889+00:00",
+  "LastUpdate_Achievements": "2023-12-11T12:05:05.2522428+00:00"
 }

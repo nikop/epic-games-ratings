@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 536)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,997 |
-| Whatever It Takes | 3.00% | ~1,763 |
-| Pork Chopped | 3.00% | ~1,763 |
+| Welcome To Hell-A | 3.00% | ~21,998 |
+| Whatever It Takes | 3.00% | ~1,764 |
+| Pork Chopped | 3.00% | ~1,764 |
 | Dr. Reed, I Presume? | 2.00% | ~14,665 |
 | Git Gutte! | 2.00% | ~14,665 |
 | Anger Management | 2.00% | ~14,665 |
@@ -25,27 +25,27 @@ Rating: 4.54 (Ranked 536)
 | Personal Assistant Personally Assisted | 2.00% | ~14,665 |
 | This is My Weapon | 2.00% | ~14,665 |
 | One of Us | 2.00% | ~1,176 |
-| Making Your Mark | 1.00% | ~7,332 |
-| Perks of the Job | 1.00% | ~7,332 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,332 |
-| Slayer Squad | 1.00% | ~7,332 |
-| Zombologist | 1.00% | ~7,332 |
-| Ooh, Shiny! | 1.00% | ~7,332 |
-| A Patton Emerges | 1.00% | ~7,332 |
-| Humanity Distilled | 1.00% | ~7,332 |
-| I Am the Resurrection | 1.00% | ~7,332 |
-| Down with the Sickness | 1.00% | ~7,332 |
-| Max Headroom | 1.00% | ~7,332 |
-| Our True Nature | 1.00% | ~7,332 |
+| Making Your Mark | 1.00% | ~7,333 |
+| Perks of the Job | 1.00% | ~7,333 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,333 |
+| Slayer Squad | 1.00% | ~7,333 |
+| Zombologist | 1.00% | ~7,333 |
+| Ooh, Shiny! | 1.00% | ~7,333 |
+| A Patton Emerges | 1.00% | ~7,333 |
+| Humanity Distilled | 1.00% | ~7,333 |
+| I Am the Resurrection | 1.00% | ~7,333 |
+| Down with the Sickness | 1.00% | ~7,333 |
+| Max Headroom | 1.00% | ~7,333 |
+| Our True Nature | 1.00% | ~7,333 |
 | Not Even My Final Form | 0.80% | ~5,866 |
 | Jumbo Keyring | 0.80% | ~5,866 |
 | Go, Bobcats! | 0.80% | ~5,866 |
 | Rising Star | 0.80% | ~5,866 |
 | Smorgasbord | 0.70% | ~5,133 |
 | Internet Famous | 0.70% | ~5,133 |
-| Make it So | 0.60% | ~4,399 |
-| On Safari | 0.60% | ~4,399 |
-| Variety is the Spice of Death | 0.60% | ~4,399 |
+| Make it So | 0.60% | ~4,400 |
+| On Safari | 0.60% | ~4,400 |
+| Variety is the Spice of Death | 0.60% | ~4,400 |
 | LA Influential | 0.50% | ~3,666 |
 | Sole Survivor | 0.40% | ~2,933 |
 | Gore Horse | 0.40% | ~2,933 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 536)
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,238 (Ranked 21)  
+Progressed: 733,258 (Ranked 21)  
 Completed: 2,476 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 2,476 (0.34%) (Ranked 234)
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
 | 2023-12-10 | 733,123 | 2,475 |
-| 2023-12-11 | 733,238 | 2,476 |
+| 2023-12-11 | 733,258 | 2,476 |
 ## Awards
 Max (Great Boss Battles): 8,071  (Ranked 49)  
 Sum: 12,415 (Ranked 82)  

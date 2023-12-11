@@ -4,7 +4,7 @@
   "ProductSlug": "ira-9709d2",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewPlayers": 459,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-04T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-09T19:57:06.7475061+00:00",
-  "LastUpdate_Ratings": "2023-12-11T11:02:56.6994087+00:00",
-  "LastUpdate_Achievements": "2023-12-11T11:08:11.5781033+00:00"
+  "LastUpdate_Ratings": "2023-12-11T12:02:38.3620692+00:00",
+  "LastUpdate_Achievements": "2023-12-11T12:06:04.2762273+00:00"
 }
