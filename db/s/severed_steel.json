@@ -3,7 +3,7 @@
   "Name": "Severed Steel",
   "ProductSlug": "severed-steel",
   "Ranking_Rating": 233,
-  "Ranking_Popularity": 228,
+  "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 348,
@@ -837,18 +837,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 454,
       "NumberOfAwardsMax": 433
+    },
+    {
+      "Time": "2023-12-11T19:57:26.9697538+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 457,
+      "NumberOfAwardsMax": 436
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 454,
-  "NumberOfAwardsMax": 433,
+  "NumberOfAwards": 457,
+  "NumberOfAwardsMax": 436,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 433
+      "Count": 436
     },
     {
       "Text": "This game is Great for Beginners",
@@ -857,9 +863,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 685902,
+  "EOS_Progressed": 685900,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": -4981,
+  "EOS_NewPlayers": -4945,
   "EOS_NewCompleters": -14,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27847,6 +27853,11 @@
       "Time": "2023-12-11T19:10:10.6908946+00:00",
       "NumProgressed": 685902,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-12-11T20:09:00.6230466+00:00",
+      "NumProgressed": 685900,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 52,
@@ -27866,7 +27877,7 @@
       "Name": "100 KILLS",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 212630
+      "UsersEstimate": 212629
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -27882,7 +27893,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 198912
+      "UsersEstimate": 198911
     },
     {
       "ID": "BIGUPS",
@@ -27922,7 +27933,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 185194
+      "UsersEstimate": 185193
     },
     {
       "ID": "CHAPTER2",
@@ -28234,7 +28245,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 192053
+      "UsersEstimate": 192052
     },
     {
       "ID": "SOUL",
@@ -28273,16 +28284,16 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 685902,
+      "Progressed": 685900,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
-  "LastChanged": "2023-12-10T04:00:11.2847965+00:00",
-  "LastChanged_Achievements": "2023-12-11T19:10:10.6908939+00:00",
+  "LastChanged": "2023-12-11T19:57:26.9697536+00:00",
+  "LastChanged_Achievements": "2023-12-11T20:09:00.6230464+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:51.2237449+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:58:00.6043239+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:10:10.6910224+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:57:26.9697541+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:09:00.6232686+00:00"
 }

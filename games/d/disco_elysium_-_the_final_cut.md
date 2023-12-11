@@ -9,25 +9,25 @@ Number of Ratings: 1,611  (23.09.2022)
 | Goodest Of The Good Cops | 28.00% | ~36,925 |
 | Biggest Communism Builder | 24.00% | ~31,650 |
 | The World's Most Laughable Centrist | 21.00% | ~27,694 |
-| Il Coppo Del'Arte! | 18.00% | ~23,737 |
+| Il Coppo Del'Arte! | 18.00% | ~23,738 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,100 |
 | Hyperstellar Law Official | 16.00% | ~21,100 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,462 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,462 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,463 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,463 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,144 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,506 |
-| The Figurines Won't Win Her Back | 10.00% | ~13,187 |
+| The Figurines Won't Win Her Back | 10.00% | ~13,188 |
 | Unbelievably Boring **** | 9.00% | ~11,869 |
 | Enemy Of The Physical Realm | 9.00% | ~11,869 |
-| Hardie's Heroes | 6.00% | ~7,912 |
+| Hardie's Heroes | 6.00% | ~7,913 |
 | The Lawbringer | 4.00% | ~5,275 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,275 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,956 |
 | Bother Kim After Hours | 3.00% | ~3,956 |
-| Baddest Of the Bad Cops | 2.00% | ~2,637 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,637 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,637 |
-| Wheel of Pleasure and Light | 2.00% | ~2,637 |
+| Baddest Of the Bad Cops | 2.00% | ~2,638 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,638 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,638 |
+| Wheel of Pleasure and Light | 2.00% | ~2,638 |
 | Massive Torque Dork | 1.00% | ~1,319 |
 | Avowed Inframaterialist | 1.00% | ~1,319 |
 | Committee of la Responsabilité | 0.90% | ~1,187 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~132 |
 | What body? | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,874 (Ranked 83)  
+Progressed: 131,876 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,14 +282,14 @@ Completed: 28 (0.02%) (Ranked 339)
 | 2023-12-08 | 131,744 | 28 |
 | 2023-12-09 | 131,790 | 28 |
 | 2023-12-10 | 131,838 | 28 |
-| 2023-12-11 | 131,874 | 28 |
+| 2023-12-11 | 131,876 | 28 |
 ## Awards
-Max (Character Customization): 744  (Ranked 182)  
-Sum: 1,135 (Ranked 256)  
-Diff (max vs sum): -74  
+Max (Character Customization): 745  (Ranked 183)  
+Sum: 1,136 (Ranked 256)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 744 |
+| This game has Inclusive Character Customization | 745 |
 | This game has Amazing Storytelling | 51 |
 | This game is Educational | 47 |
 | This game is Highly Recommended | 45 |
@@ -467,3 +467,4 @@ Diff (max vs sum): -74
 | 2023-12-07 | 4.87 | - | 739 | 1,130 |
 | 2023-12-09 | 4.87 | - | 742 | 1,133 |
 | 2023-12-10 | 4.87 | - | 744 | 1,135 |
+| 2023-12-11 | 4.87 | - | 745 | 1,136 |

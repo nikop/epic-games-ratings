@@ -7495,9 +7495,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144743,
+  "EOS_Progressed": 144747,
   "EOS_Completed": 293,
-  "EOS_NewPlayers": 937,
+  "EOS_NewPlayers": 935,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -32005,6 +32005,11 @@
       "Time": "2023-12-11T19:07:40.0724741+00:00",
       "NumProgressed": 144743,
       "NumCompleted": 293
+    },
+    {
+      "Time": "2023-12-11T20:05:44.8547807+00:00",
+      "NumProgressed": 144747,
+      "NumCompleted": 293
     }
   ],
   "TotalAchievements": 112,
@@ -32182,9 +32187,9 @@
       "ID": "chest01",
       "SetID": "anfd17p",
       "Name": "Sponsored by Argon",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10132
+      "UsersEstimate": 11580
     },
     {
       "ID": "chest02",
@@ -32911,15 +32916,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144743,
+      "Progressed": 144747,
       "Completed": 293
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-11T16:03:09.8312345+00:00",
-  "LastChanged_Achievements": "2023-12-11T19:07:40.0724735+00:00",
+  "LastChanged_Achievements": "2023-12-11T20:05:44.8547804+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:03:29.8898913+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:07:40.0726781+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:02:51.9699379+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:05:44.8549826+00:00"
 }

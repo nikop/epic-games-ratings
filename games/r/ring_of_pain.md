@@ -40,6 +40,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Chilling | 0.40% | ~964 |
 | Cold Hearted | 0.40% | ~964 |
 | I Am Overburdened | 0.40% | ~964 |
+| Save Our Souls | 0.40% | ~964 |
 | Destroy Your Fears | 0.40% | ~964 |
 | Shootout | 0.40% | ~964 |
 | Stone Touch | 0.40% | ~964 |
@@ -54,7 +55,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Rough Road | 0.30% | ~723 |
 | To The Death! | 0.30% | ~723 |
 | Well Prepared | 0.30% | ~723 |
-| Save Our Souls | 0.30% | ~723 |
 | Don't Ignore Me! | 0.30% | ~723 |
 | All Consuming | 0.30% | ~723 |
 | Stop Hitting Yourself | 0.30% | ~723 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,891 (Ranked 64)  
+Progressed: 240,896 (Ranked 64)  
 Completed: 294 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 294 (0.12%) (Ranked 283)
 | 2023-12-08 | 240,784 | 292 |
 | 2023-12-09 | 240,828 | 293 |
 | 2023-12-10 | 240,862 | 293 |
-| 2023-12-11 | 240,891 | 294 |
+| 2023-12-11 | 240,896 | 294 |
 ## Awards
 Max (Quickly Understood Controls): 1,507  (Ranked 134)  
 Sum: 11,723 (Ranked 85)  

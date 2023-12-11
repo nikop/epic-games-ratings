@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 543,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.76,
   "EosHistory": [
@@ -1605,9 +1605,9 @@
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 277
     },
     {
       "ID": "ach_main07storm_classified",
@@ -1765,9 +1765,9 @@
       "ID": "ach_main13tanos_completed",
       "SetID": "4hg22ll",
       "Name": "The Duel",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 190
     },
     {
       "ID": "ach_main13tanos_dungeonlord",
@@ -1964,8 +1964,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-11T19:05:02.1692789+00:00",
+  "LastChanged_Achievements": "2023-12-11T20:03:54.9340547+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:00:08.9860204+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:05:02.1693384+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:58:49.9557797+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:03:54.9341096+00:00"
 }

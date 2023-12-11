@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9496,10 +9496,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20076,
       "NumberOfAwardsMax": 7586
+    },
+    {
+      "Time": "2023-12-11T19:58:09.4753039+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20081,
+      "NumberOfAwardsMax": 7586
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20076,
+  "NumberOfAwards": 20081,
   "NumberOfAwardsMax": 7586,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9543,7 +9549,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1425
+      "Count": 1430
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9576,9 +9582,9 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126177,
+  "EOS_Progressed": 126193,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34541,6 +34547,11 @@
       "Time": "2023-12-11T19:09:13.4295363+00:00",
       "NumProgressed": 126177,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-11T20:08:20.2762999+00:00",
+      "NumProgressed": 126193,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34550,17 +34561,17 @@
       "ID": "affinity_meltdown_first_time",
       "SetID": "64l4lke",
       "Name": "Don\u0027t Make Me Turn This Coach Around",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "affinity_resolute_first_time",
       "SetID": "64l4lke",
       "Name": "Serenity Now!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -34678,9 +34689,9 @@
       "ID": "combat_kill_antiquarian",
       "SetID": "64l4lke",
       "Name": "This Belongs in a Museum",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 631
     },
     {
       "ID": "combat_kill_cadavers",
@@ -34766,9 +34777,9 @@
       "ID": "combat_kill_leviathan",
       "SetID": "64l4lke",
       "Name": "Catch and Decease",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 505
     },
     {
       "ID": "combat_kill_librarian",
@@ -34790,9 +34801,9 @@
       "ID": "combat_kill_shambler",
       "SetID": "64l4lke",
       "Name": "Escape from the Black Hole",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 505
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -34902,9 +34913,9 @@
       "ID": "hero_skill_mastery_five",
       "SetID": "64l4lke",
       "Name": "Autodidact",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "hero_story_complete_all",
@@ -34998,9 +35009,9 @@
       "ID": "run_end_abandon",
       "SetID": "64l4lke",
       "Name": "Nope",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "run_victory_act01",
@@ -35088,15 +35099,15 @@
       "Name": "Malpractice Assurance",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "combat_kill_collector",
       "SetID": "d3bcpc8",
       "Name": "This guy... again?",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35158,9 +35169,9 @@
       "ID": "relationships_positive_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "Friends \u0027Til the End",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35183,21 +35194,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126177,
+      "Progressed": 126193,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1046,
+      "Progressed": 1062,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-11T18:59:06.5105711+00:00",
-  "LastChanged_Achievements": "2023-12-11T19:09:13.4295357+00:00",
+  "LastChanged": "2023-12-11T19:58:09.4753037+00:00",
+  "LastChanged_Achievements": "2023-12-11T20:08:20.2762996+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:59:06.5105716+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:09:13.4297226+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:58:09.4753044+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:08:20.2764823+00:00"
 }

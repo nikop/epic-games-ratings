@@ -4,8 +4,8 @@
   "ProductSlug": "virtual-rides-3-2add3b",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2017-03-16T00:00:00+00:00",
@@ -122,8 +122,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-11T19:03:46.1606302+00:00",
-  "LastChanged_Achievements": "2023-12-11T19:03:46.1595866+00:00",
+  "LastChanged_Achievements": "2023-12-11T20:03:02.047397+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:04.787976+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:57:07.3548758+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:03:46.1630387+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:56:52.4895037+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:03:02.0485894+00:00"
 }

@@ -3413,7 +3413,7 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 17944,
+  "EOS_Progressed": 17945,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 343,
   "EOS_NewCompleters": -9,
@@ -15388,6 +15388,11 @@
       "Time": "2023-12-11T19:07:18.2865799+00:00",
       "NumProgressed": 17944,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-11T20:05:29.8126035+00:00",
+      "NumProgressed": 17945,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15502,17 +15507,17 @@
       "ID": "WinImpossible",
       "SetID": "cfbk359",
       "Name": "Against All Odds",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 72
     },
     {
       "ID": "WinNearArmory",
       "SetID": "cfbk359",
       "Name": "Ruined Armory",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 108
     },
     {
       "ID": "WinNearBandit",
@@ -15560,7 +15565,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "WinNearFishmen",
@@ -15616,15 +15621,15 @@
       "Name": "Royal Outpost",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "WinNearRuins",
       "SetID": "cfbk359",
       "Name": "Lost Colonies",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 144
     },
     {
       "ID": "WinNearStatue",
@@ -15871,15 +15876,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17944,
+      "Progressed": 17945,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-11T16:58:21.5812918+00:00",
-  "LastChanged_Achievements": "2023-12-11T19:07:18.2865793+00:00",
+  "LastChanged_Achievements": "2023-12-11T20:05:29.8126032+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:58:59.7910429+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:07:18.286689+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:58:05.0508386+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:05:29.8127073+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 182,
+  "Ranking_Popularity": 183,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1452,18 +1452,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1135,
       "NumberOfAwardsMax": 744
+    },
+    {
+      "Time": "2023-12-11T19:58:11.0173011+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1136,
+      "NumberOfAwardsMax": 745
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1135,
-  "NumberOfAwardsMax": 744,
+  "NumberOfAwards": 1136,
+  "NumberOfAwardsMax": 745,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 744
+      "Count": 745
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1538,9 +1544,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131874,
+  "EOS_Progressed": 131876,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24438,6 +24444,11 @@
       "Time": "2023-12-11T19:06:46.0262857+00:00",
       "NumProgressed": 131874,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-11T20:05:07.575153+00:00",
+      "NumProgressed": 131876,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24481,7 +24492,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23737
+      "UsersEstimate": 23738
     },
     {
       "ID": "ACH_COP_BAD",
@@ -24489,7 +24500,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "ACH_COP_BORING",
@@ -24569,7 +24580,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -24601,7 +24612,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "ACH_DOLORES",
@@ -24609,7 +24620,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13187
+      "UsersEstimate": 13188
     },
     {
       "ID": "ACH_GLUTEN",
@@ -24641,7 +24652,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7912
+      "UsersEstimate": 7913
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -24665,7 +24676,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18462
+      "UsersEstimate": 18463
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -24729,7 +24740,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18462
+      "UsersEstimate": 18463
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -24737,7 +24748,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -24768,15 +24779,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131874,
+      "Progressed": 131876,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-12-10T16:58:01.1113287+00:00",
-  "LastChanged_Achievements": "2023-12-11T19:06:46.0262851+00:00",
+  "LastChanged": "2023-12-11T19:58:11.017301+00:00",
+  "LastChanged_Achievements": "2023-12-11T20:05:07.5751526+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:13.3373755+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:59:08.8608861+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:06:46.0263859+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:58:11.0173015+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:05:07.575336+00:00"
 }

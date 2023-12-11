@@ -4,8 +4,8 @@
   "ProductSlug": "espiocracy-e70901",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-09T23:59:08.6131001+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:03:21.5264299+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:08:37.858539+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:02:46.735389+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:07:54.924582+00:00"
 }

@@ -5383,10 +5383,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6773,
       "NumberOfAwardsMax": 2717
+    },
+    {
+      "Time": "2023-12-11T20:03:00.1602485+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6786,
+      "NumberOfAwardsMax": 2717
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6773,
+  "NumberOfAwards": 6786,
   "NumberOfAwardsMax": 2717,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5400,7 +5406,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 427
+      "Count": 436
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5454,12 +5460,12 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 413
+      "Count": 417
     }
   ],
-  "EOS_Progressed": 238572,
+  "EOS_Progressed": 238605,
   "EOS_Completed": 579,
-  "EOS_NewPlayers": 3803,
+  "EOS_NewPlayers": 3806,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22507,6 +22513,11 @@
       "Time": "2023-12-11T19:09:41.3497405+00:00",
       "NumProgressed": 238572,
       "NumCompleted": 579
+    },
+    {
+      "Time": "2023-12-11T20:08:39.9867335+00:00",
+      "NumProgressed": 238605,
+      "NumCompleted": 579
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22519,7 +22530,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -22823,7 +22834,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "Obtain_Traits_B",
@@ -22927,7 +22938,7 @@
       "Name": "Succession",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -22951,29 +22962,29 @@
       "Name": "You Shall Pass",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 238572,
+      "Progressed": 238605,
       "Completed": 579
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 17737,
+      "Progressed": 17770,
       "Completed": 241
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-11T19:03:42.1586819+00:00",
-  "LastChanged_Achievements": "2023-12-11T19:09:41.3497398+00:00",
+  "LastChanged": "2023-12-11T20:03:00.1602483+00:00",
+  "LastChanged_Achievements": "2023-12-11T20:08:39.9867331+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:03:42.1586824+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:09:41.3498452+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:03:00.1602489+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:08:39.9868934+00:00"
 }

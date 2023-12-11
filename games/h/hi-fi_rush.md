@@ -20,14 +20,14 @@ Rating: 4.87 (Ranked 24)
 | Z-shielding's got nothing on us! | 12.00% | ~541 |
 | Kissing the sky! | 12.00% | ~541 |
 | Whoa! There's ANOTHER health bar!? | 11.00% | ~496 |
-| The Negotiator | 10.00% | ~450 |
-| Out in a puff of smoke | 10.00% | ~450 |
-| I look cool. But I can look COOLER. | 10.00% | ~450 |
-| Headliner | 9.00% | ~405 |
-| Time to pay up! | 9.00% | ~405 |
-| Who's the boss now? | 9.00% | ~405 |
-| You must like calling me in, Chai | 9.00% | ~405 |
-| Does that say weakpoint? | 9.00% | ~405 |
+| The Negotiator | 10.00% | ~451 |
+| Out in a puff of smoke | 10.00% | ~451 |
+| I look cool. But I can look COOLER. | 10.00% | ~451 |
+| Headliner | 9.00% | ~406 |
+| Time to pay up! | 9.00% | ~406 |
+| Who's the boss now? | 9.00% | ~406 |
+| You must like calling me in, Chai | 9.00% | ~406 |
+| Does that say weakpoint? | 9.00% | ~406 |
 | NOW we got a kickass hideout! | 9.00% | ~272 |
 | I have to read these things? | 8.00% | ~360 |
 | Perfecter Parry-er! | 8.00% | ~360 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,505 (Ranked 195)  
+Progressed: 4,506 (Ranked 195)  
 Completed: 8 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 8 (0.18%) (Ranked 266)
 | 2023-12-08 | 4,490 | 8 |
 | 2023-12-09 | 4,494 | 8 |
 | 2023-12-10 | 4,502 | 8 |
-| 2023-12-11 | 4,505 | 8 |
+| 2023-12-11 | 4,506 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

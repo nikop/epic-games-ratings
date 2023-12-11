@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -400,9 +400,9 @@
       "ID": "ACH_10_SARAH",
       "SetID": "9dl0ei6",
       "Name": "Sarah",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_11_SOFIA",
@@ -551,8 +551,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-11T19:10:30.1476628+00:00",
+  "LastChanged_Achievements": "2023-12-11T20:09:14.7718265+00:00",
   "LastUpdate_AppInfo": "2023-12-11T01:45:33.6720715+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:58:41.5877482+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:10:30.1476803+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:57:53.1287331+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:09:14.7718425+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
     "PcReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -2431,10 +2431,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 4067,
       "NumberOfAwardsMax": 961
+    },
+    {
+      "Time": "2023-12-11T19:58:34.222001+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 4079,
+      "NumberOfAwardsMax": 961
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4067,
+  "NumberOfAwards": 4079,
   "NumberOfAwardsMax": 961,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2484,18 +2490,18 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 585
+      "Count": 591
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 498
+      "Count": 504
     }
   ],
-  "EOS_Progressed": 56518,
+  "EOS_Progressed": 56519,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11943,6 +11949,11 @@
       "Time": "2023-12-11T19:06:21.0387791+00:00",
       "NumProgressed": 56518,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T20:04:50.5971779+00:00",
+      "NumProgressed": 56519,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -11995,7 +12006,7 @@
       "Name": "The Alchemist",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 28824
+      "UsersEstimate": 28825
     },
     {
       "ID": "achievement_15",
@@ -12027,7 +12038,7 @@
       "Name": "Welcome to the Big Leagues!",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 28259
+      "UsersEstimate": 28260
     },
     {
       "ID": "achievement_19",
@@ -12059,7 +12070,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 46910
+      "UsersEstimate": 46911
     },
     {
       "ID": "achievement_22",
@@ -12067,7 +12078,7 @@
       "Name": "Level Up!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 29389
+      "UsersEstimate": 29390
     },
     {
       "ID": "achievement_23",
@@ -12083,7 +12094,7 @@
       "Name": "End of the Line",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 10738
+      "UsersEstimate": 10739
     },
     {
       "ID": "achievement_25",
@@ -12259,7 +12270,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 41823
+      "UsersEstimate": 41824
     },
     {
       "ID": "achievement_9",
@@ -12267,23 +12278,23 @@
       "Name": "Bring it on",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 16390
+      "UsersEstimate": 16391
     }
   ],
   "AchievementSets": [
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 56518,
+      "Progressed": 56519,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-29T00:00:53.2265881+00:00",
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged": "2023-12-11T17:58:49.4456239+00:00",
-  "LastChanged_Achievements": "2023-12-11T19:06:21.0387786+00:00",
+  "LastChanged": "2023-12-11T19:58:34.2220008+00:00",
+  "LastChanged_Achievements": "2023-12-11T20:04:50.5971775+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:08.0940773+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:59:43.7824837+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:06:21.0388505+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:58:34.2220014+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:04:50.5972569+00:00"
 }

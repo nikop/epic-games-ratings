@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1699,9 +1699,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 346
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -1755,9 +1755,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 311
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -1826,8 +1826,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-12-11T19:08:50.089577+00:00",
+  "LastChanged_Achievements": "2023-12-11T20:08:03.7541258+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:15.0426087+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:58:54.4056546+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:08:50.0896008+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:58:01.5722023+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:08:03.7541577+00:00"
 }

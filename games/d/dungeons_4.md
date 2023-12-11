@@ -23,7 +23,7 @@
 | Minions, Minions! | 55.00% | ~299 |
 | Hard Work | 53.00% | ~288 |
 | The Big Eaty | 53.00% | ~288 |
-| YOU SHALL NOT PASS! | 50.00% | ~272 |
+| YOU SHALL NOT PASS! | 51.00% | ~277 |
 | “… like son” | 50.00% | ~272 |
 | The Cathedral of Light | 47.00% | ~255 |
 | Shame! Shame! Shame! | 47.00% | ~255 |
@@ -32,9 +32,9 @@
 | Tanos' Crusade Against Thalya | 45.00% | ~244 |
 | Mana Cannon | 42.00% | ~228 |
 | All’s Well That Ends Evil | 38.00% | ~206 |
+| The Duel | 35.00% | ~190 |
 | Unstoppable Horde | 34.00% | ~185 |
 | Master of the Undead | 34.00% | ~185 |
-| The Duel | 34.00% | ~185 |
 | If Looks Could Kill | 31.00% | ~168 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~157 |
 | Forbidden Knowledge | 28.00% | ~152 |

@@ -1651,10 +1651,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162162,
+  "EOS_Progressed": 162167,
   "EOS_Completed": 294,
-  "EOS_NewPlayers": 919,
-  "EOS_NewCompleters": 107,
+  "EOS_NewPlayers": 918,
+  "EOS_NewCompleters": 106,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
@@ -18836,6 +18836,11 @@
       "Time": "2023-12-11T19:06:25.136851+00:00",
       "NumProgressed": 162162,
       "NumCompleted": 294
+    },
+    {
+      "Time": "2023-12-11T20:04:52.8768749+00:00",
+      "NumProgressed": 162167,
+      "NumCompleted": 294
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18952,7 +18957,7 @@
       "Name": "Scion",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -18960,7 +18965,7 @@
       "Name": "Glare",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -18984,7 +18989,7 @@
       "Name": "Harmless",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -19040,7 +19045,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -19048,7 +19053,7 @@
       "Name": "Devourer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -19064,7 +19069,7 @@
       "Name": "Imprint",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -19112,7 +19117,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -19215,21 +19220,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161745,
+      "Progressed": 161750,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162162,
+      "Progressed": 162167,
       "Completed": 294
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-10T17:57:49.4464039+00:00",
-  "LastChanged_Achievements": "2023-12-11T19:06:25.1368504+00:00",
+  "LastChanged_Achievements": "2023-12-11T20:04:52.8768745+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:59:03.3728271+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:06:25.1369374+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:58:07.3637681+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:04:52.8770238+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.53 (Ranked 545)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,087 |
+| Oyedang, Kopengs | 13.00% | ~2,088 |
 | The Pit and the Pirates | 8.00% | ~1,285 |
 | Bosmang | 8.00% | ~1,285 |
 | Celebrations are in Order | 8.00% | ~1,285 |
@@ -15,9 +15,9 @@ Rating: 4.53 (Ranked 545)
 | Impossible Objects | 7.00% | ~1,124 |
 | Safe Cracker | 7.00% | ~141 |
 | Zen Master | 7.00% | ~141 |
-| Stogie for Fogey | 6.00% | ~963 |
-| Spore Taste | 6.00% | ~963 |
-| Call it Even | 6.00% | ~963 |
+| Stogie for Fogey | 6.00% | ~964 |
+| Spore Taste | 6.00% | ~964 |
+| Call it Even | 6.00% | ~964 |
 | Keep Arjun in Check | 6.00% | ~121 |
 | Madame Undersecretary | 6.00% | ~121 |
 | Data Archivist | 5.00% | ~803 |
@@ -25,7 +25,7 @@ Rating: 4.53 (Ranked 545)
 | Heal Thy Medic | 5.00% | ~803 |
 | Thorston Mayer | 4.00% | ~642 |
 | Khan's Revenge | 4.00% | ~642 |
-| Master Negotiator | 4.00% | ~80 |
+| Master Negotiator | 4.00% | ~81 |
 | Doctor Approved | 3.00% | ~482 |
 | Bottoms up! | 3.00% | ~482 |
 | Miraculous Maya | 3.00% | ~482 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 545)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,057 (Ranked 152)  
+Progressed: 16,059 (Ranked 152)  
 Completed: 42 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 42 (0.26%) (Ranked 249)
 | 2023-12-08 | 15,988 | 41 |
 | 2023-12-09 | 16,020 | 42 |
 | 2023-12-10 | 16,041 | 42 |
-| 2023-12-11 | 16,057 | 42 |
+| 2023-12-11 | 16,059 | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

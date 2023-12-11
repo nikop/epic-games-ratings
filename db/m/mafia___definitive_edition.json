@@ -4,11 +4,11 @@
   "ProductSlug": "mafia-definitive-edition",
   "Ranking_Rating": 353,
   "Ranking_Popularity": 193,
-  "Ranking_PopularitySum": 286,
+  "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-09-24T23:00:00+00:00",
     "PcReleaseDate": "2020-09-24T23:00:00+00:00",
@@ -1161,6 +1161,6 @@
   "FirstSeen": "2022-07-22T20:22:45.942623+00:00",
   "LastChanged": "2023-12-08T15:02:45.5974051+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:18.1809377+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:59:18.6974617+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:09:41.5479371+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:58:17.2811848+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:08:40.1154068+00:00"
 }

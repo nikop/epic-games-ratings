@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -451,9 +451,9 @@
       "ID": "SOS_HE_WILL_REMEMBER",
       "SetID": "6ci4lm2",
       "Name": "He will remember that",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SOS_INFERNAL_TONES",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-11T19:04:56.59697+00:00",
+  "LastChanged_Achievements": "2023-12-11T20:03:51.033747+00:00",
   "LastUpdate_AppInfo": "2023-12-11T16:57:10.7137617+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:00:01.0642553+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:04:56.5970194+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:58:45.0214346+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:03:51.0338058+00:00"
 }

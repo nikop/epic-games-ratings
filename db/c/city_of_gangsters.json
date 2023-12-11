@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -886,9 +886,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 356238,
+  "EOS_Progressed": 356242,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 987,
+  "EOS_NewPlayers": 983,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27651,6 +27651,11 @@
       "Time": "2023-12-11T19:05:57.8299355+00:00",
       "NumProgressed": 356238,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-11T20:04:34.4215947+00:00",
+      "NumProgressed": 356242,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -27870,7 +27875,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163869
+      "UsersEstimate": 163871
     },
     {
       "ID": "ach028",
@@ -27886,7 +27891,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39186
+      "UsersEstimate": 39187
     },
     {
       "ID": "ach030",
@@ -28062,7 +28067,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39186
+      "UsersEstimate": 39187
     },
     {
       "ID": "ach052",
@@ -28070,7 +28075,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21374
+      "UsersEstimate": 21375
     },
     {
       "ID": "ach053",
@@ -28134,7 +28139,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21374
+      "UsersEstimate": 21375
     },
     {
       "ID": "ach061",
@@ -28158,7 +28163,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21374
+      "UsersEstimate": 21375
     },
     {
       "ID": "ach065",
@@ -28174,7 +28179,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49873
+      "UsersEstimate": 49874
     },
     {
       "ID": "ach067",
@@ -28190,7 +28195,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56998
+      "UsersEstimate": 56999
     },
     {
       "ID": "ach069",
@@ -28198,7 +28203,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49873
+      "UsersEstimate": 49874
     },
     {
       "ID": "ach070",
@@ -28222,7 +28227,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21374
+      "UsersEstimate": 21375
     },
     {
       "ID": "ach073",
@@ -28230,7 +28235,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21374
+      "UsersEstimate": 21375
     },
     {
       "ID": "ach074",
@@ -28246,7 +28251,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21374
+      "UsersEstimate": 21375
     },
     {
       "ID": "ach076",
@@ -28301,7 +28306,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 356238,
+      "Progressed": 356242,
       "Completed": 7
     }
   ],
@@ -28309,8 +28314,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-09T03:58:10.9802896+00:00",
-  "LastChanged_Achievements": "2023-12-11T19:05:57.8299349+00:00",
+  "LastChanged_Achievements": "2023-12-11T20:04:34.4215942+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.9367355+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:01:09.6509194+00:00",
-  "LastUpdate_Achievements": "2023-12-11T19:05:57.8301139+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:59:28.2412054+00:00",
+  "LastUpdate_Achievements": "2023-12-11T20:04:34.4217587+00:00"
 }

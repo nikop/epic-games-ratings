@@ -5,10 +5,10 @@ Rating: 4.69 (Ranked 233)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 31.00% | ~212,630 |
-| 50 HEADSHOTS | 29.00% | ~198,912 |
-| SCIENCE AND INDUSTRY | 28.00% | ~192,053 |
-| FINISHED CHAPTER 1 | 27.00% | ~185,194 |
+| 100 KILLS | 31.00% | ~212,629 |
+| 50 HEADSHOTS | 29.00% | ~198,911 |
+| SCIENCE AND INDUSTRY | 28.00% | ~192,052 |
+| FINISHED CHAPTER 1 | 27.00% | ~185,193 |
 | FINISHED CHAPTER 2 | 20.00% | ~137,180 |
 | 200 HEADSHOTS | 18.00% | ~123,462 |
 | FINISHED CHAPTER 3 | 17.00% | ~116,603 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 233)
 | THE GAMBLER | 0.10% | ~686 |
 | WARRIOR IN A GARDEN | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,902 (Ranked 27)  
+Progressed: 685,900 (Ranked 27)  
 Completed: 74 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,12 +295,12 @@ Completed: 74 (0.01%) (Ranked 348)
 | 2023-12-10 | 686,980 | 75 |
 | 2023-12-11 | 686,327 | 74 |
 ## Awards
-Max (Great Boss Battles): 433  (Ranked 228)  
-Sum: 454 (Ranked 336)  
-Diff (max vs sum): -108  
+Max (Great Boss Battles): 436  (Ranked 226)  
+Sum: 457 (Ranked 336)  
+Diff (max vs sum): -110  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 433 |
+| This game has Great Boss Battles | 436 |
 | This game is Great for Beginners | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -440,3 +440,4 @@ Diff (max vs sum): -108
 | 2023-12-07 | 4.69 | 430 | 450 |
 | 2023-12-09 | 4.69 | 430 | 451 |
 | 2023-12-10 | 4.69 | 433 | 454 |
+| 2023-12-11 | 4.69 | 436 | 457 |

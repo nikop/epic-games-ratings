@@ -6,20 +6,20 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,958 |
-| Gun Fu | 7.00% | ~68,226 |
-| The Fool | 6.00% | ~58,479 |
-| Right Back At Ya | 5.00% | ~48,733 |
-| The Lovers | 5.00% | ~48,733 |
-| Full Body Conversion | 4.00% | ~38,986 |
-| Stanislavski's Method | 4.00% | ~38,986 |
-| True Soldier | 4.00% | ~38,986 |
+| V for Vendetta | 12.00% | ~116,961 |
+| Gun Fu | 7.00% | ~68,227 |
+| The Fool | 6.00% | ~58,480 |
+| Right Back At Ya | 5.00% | ~48,734 |
+| The Lovers | 5.00% | ~48,734 |
+| Full Body Conversion | 4.00% | ~38,987 |
+| Stanislavski's Method | 4.00% | ~38,987 |
+| True Soldier | 4.00% | ~38,987 |
 | Christmas Tree Attack | 3.00% | ~29,240 |
 | The Hermit | 3.00% | ~29,240 |
 | The Wheel of Fortune | 3.00% | ~29,240 |
-| Relic Ruler | 3.00% | ~3,098 |
-| All the President's Men | 3.00% | ~3,098 |
-| Arachnophobia | 3.00% | ~3,098 |
+| Relic Ruler | 3.00% | ~3,099 |
+| All the President's Men | 3.00% | ~3,099 |
+| Arachnophobia | 3.00% | ~3,099 |
 | Bushido and Chill | 2.00% | ~19,493 |
 | Master Crafter | 2.00% | ~19,493 |
 | The Quick and the Dead | 2.00% | ~19,493 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974,654 (Ranked 15)  
-Completed: 2,884 (0.30%) (Ranked 240)  
+Progressed: 974,671 (Ranked 15)  
+Completed: 2,885 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -309,7 +309,7 @@ Completed: 2,884 (0.30%) (Ranked 240)
 | 2023-12-08 | 972,634 | 2,860 |
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
-| 2023-12-11 | 974,654 | 2,884 |
+| 2023-12-11 | 974,671 | 2,885 |
 ## Awards
 Max (Character Customization): 121,434  (Ranked 9)  
 Sum: 411,071 (Ranked 9)  

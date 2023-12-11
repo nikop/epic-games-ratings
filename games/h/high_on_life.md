@@ -18,14 +18,14 @@ Rating: 4.65 (Ranked 318)
 | Hardest Battle In The Game | 3.00% | ~740 |
 | Who's The Boss? | 3.00% | ~740 |
 | Don't Knife The Hand That Feeds | 3.00% | ~740 |
-| Eatin' Good in the Neighborhood | 2.00% | ~493 |
-| Lezduit! | 2.00% | ~493 |
-| Eye Scream, You Scream | 2.00% | ~493 |
-| Legendary Bounty Hunter | 2.00% | ~493 |
-| Self-Actualization | 2.00% | ~493 |
-| Fallout Doesn't Let You Do This | 2.00% | ~493 |
-| Spent 15 Hours At The Alien Strip Club | 2.00% | ~493 |
-| Series Wrap on Suit-O | 2.00% | ~493 |
+| Eatin' Good in the Neighborhood | 2.00% | ~494 |
+| Lezduit! | 2.00% | ~494 |
+| Eye Scream, You Scream | 2.00% | ~494 |
+| Legendary Bounty Hunter | 2.00% | ~494 |
+| Self-Actualization | 2.00% | ~494 |
+| Fallout Doesn't Let You Do This | 2.00% | ~494 |
+| Spent 15 Hours At The Alien Strip Club | 2.00% | ~494 |
+| Series Wrap on Suit-O | 2.00% | ~494 |
 | Bathe With A Giant Nude Alien | 2.00% | ~39 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~20 |
 | Gunning For Your Job | 0.80% | ~197 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 318)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,674 (Ranked 136)  
+Progressed: 24,675 (Ranked 136)  
 Completed: 14 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 14 (0.06%) (Ranked 313)
 | 2023-12-08 | 24,662 | 14 |
 | 2023-12-09 | 24,668 | 14 |
 | 2023-12-10 | 24,670 | 14 |
-| 2023-12-11 | 24,674 | 14 |
+| 2023-12-11 | 24,675 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

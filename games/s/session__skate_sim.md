@@ -14,8 +14,8 @@ Number of Ratings: 111  (23.09.2022)
 | Go with the Flow | 14.00% | ~436 |
 | Plastic Surgeon | 11.00% | ~342 |
 | The flip trick crown jewel | 11.00% | ~342 |
+| The hard way | 11.00% | ~342 |
 | Keep the dream alive | 10.00% | ~311 |
-| The hard way | 10.00% | ~311 |
 | Upfront shredder | 10.00% | ~311 |
 | Good vibes | 9.00% | ~280 |
 | Bottom ply killer | 8.00% | ~249 |
