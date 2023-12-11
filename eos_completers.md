@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.28% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.27% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -84,7 +84,7 @@
 | 82 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.49% |
 | 83 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.35% |
 | 83 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.28% |
+| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.27% |
 | 86 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.23% |
 | 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.21% |
 | 88 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 4.17% |
@@ -110,11 +110,11 @@
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 109 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 109 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.93% |
-| 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.91% |
+| 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.90% |
 | 112 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 112 | [Night Book](games/n/night_book.md) | 2.78% |
-| 114 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.77% |
-| 115 | [Dungeons 4](games/d/dungeons_4.md) | 2.76% |
+| 114 | [Dungeons 4](games/d/dungeons_4.md) | 2.76% |
+| 114 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.76% |
 | 116 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 117 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
 | 117 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
@@ -155,9 +155,9 @@
 | 152 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
 | 154 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.29% |
 | 155 | [Late Shift](games/l/late_shift.md) | 1.27% |
-| 156 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
-| 157 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.24% |
-| 157 | [Ten Dates](games/t/ten_dates.md) | 1.24% |
+| 156 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.24% |
+| 156 | [Ten Dates](games/t/ten_dates.md) | 1.24% |
+| 158 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.23% |
 | 159 | [Iron Danger](games/i/iron_danger.md) | 1.22% |
 | 160 | [The Devil's Face](games/t/the_devil's_face.md) | 1.21% |
 | 160 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.21% |
@@ -213,8 +213,8 @@
 | 211 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.49% |
 | 212 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.48% |
 | 212 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
-| 214 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.47% |
-| 215 | [Eternights](games/e/eternights.md) | 0.46% |
+| 214 | [Eternights](games/e/eternights.md) | 0.46% |
+| 214 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.46% |
 | 216 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 216 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.45% |
 | 218 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
