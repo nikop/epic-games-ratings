@@ -3401,9 +3401,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 17927,
+  "EOS_Progressed": 17929,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": -8,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -15341,6 +15341,11 @@
       "Time": "2023-12-11T09:06:38.1832016+00:00",
       "NumProgressed": 17927,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-11T11:05:30.2143831+00:00",
+      "NumProgressed": 17929,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15577,7 +15582,7 @@
       "Name": "Lost Colonies",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "WinNearStatue",
@@ -15599,9 +15604,9 @@
       "ID": "WinNearTorrent",
       "SetID": "cfbk359",
       "Name": "Corrosive Torrent",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 108
     },
     {
       "ID": "WinNearWatchtower",
@@ -15663,9 +15668,9 @@
       "ID": "WinVeryHard",
       "SetID": "cfbk359",
       "Name": "A Real Challenge",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 108
     },
     {
       "ID": "WinWIthCaches",
@@ -15824,15 +15829,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17927,
+      "Progressed": 17929,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-10T04:57:34.5838562+00:00",
-  "LastChanged_Achievements": "2023-12-11T10:05:11.6680597+00:00",
+  "LastChanged_Achievements": "2023-12-11T11:05:30.2143826+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-11T09:58:04.7868724+00:00",
-  "LastUpdate_Achievements": "2023-12-11T10:05:11.6681466+00:00"
+  "LastUpdate_Ratings": "2023-12-11T10:58:00.9179158+00:00",
+  "LastUpdate_Achievements": "2023-12-11T11:05:30.2144654+00:00"
 }

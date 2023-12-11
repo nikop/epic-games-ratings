@@ -4,7 +4,7 @@
   "ProductSlug": "wolfenstein-the-new-order",
   "Ranking_Rating": 452,
   "Ranking_Popularity": 26,
-  "Ranking_PopularitySum": 63,
+  "Ranking_PopularitySum": 64,
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 460,
@@ -3874,6 +3874,6 @@
   "FirstSeen": "2022-07-22T20:25:17.2471647+00:00",
   "LastChanged": "2023-12-10T18:57:25.028665+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.8547639+00:00",
-  "LastUpdate_Ratings": "2023-12-11T09:57:55.222896+00:00",
-  "LastUpdate_Achievements": "2023-12-11T10:06:29.9168087+00:00"
+  "LastUpdate_Ratings": "2023-12-11T10:57:51.5738561+00:00",
+  "LastUpdate_Achievements": "2023-12-11T11:08:34.3132119+00:00"
 }

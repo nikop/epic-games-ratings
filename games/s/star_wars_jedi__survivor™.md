@@ -5,25 +5,25 @@ Rating: 4.50 (Ranked 598)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,504 |
-| For Saw Gerrera | 98.00% | ~9,408 |
-| Grab Some Seat | 92.00% | ~8,832 |
-| Can You Pet the Bogling? | 87.00% | ~8,352 |
-| The Past Made Present | 84.00% | ~8,064 |
-| Survivors, We Adapt | 80.00% | ~7,680 |
-| They Never Saw It Coming | 78.00% | ~7,488 |
-| Among the Masters | 78.00% | ~7,488 |
-| Who Gives a Puck | 74.00% | ~7,104 |
-| For the Path | 67.00% | ~6,432 |
-| Now, This Isn't Podracing | 65.00% | ~6,240 |
-| Mirror Match | 64.00% | ~6,144 |
-| Skywalker | 63.00% | ~6,048 |
-| Out of Bedlam | 63.00% | ~6,048 |
-| Cleaning Up | 55.00% | ~5,280 |
-| Tanalorr Bound | 55.00% | ~5,280 |
-| Kitted Out | 53.00% | ~5,088 |
-| Tragedy | 52.00% | ~4,992 |
-| At the Precipice | 51.00% | ~4,896 |
+| Rooftop Duel | 99.00% | ~9,505 |
+| For Saw Gerrera | 98.00% | ~9,409 |
+| Grab Some Seat | 92.00% | ~8,833 |
+| Can You Pet the Bogling? | 87.00% | ~8,353 |
+| The Past Made Present | 84.00% | ~8,065 |
+| Survivors, We Adapt | 80.00% | ~7,681 |
+| They Never Saw It Coming | 78.00% | ~7,489 |
+| Among the Masters | 78.00% | ~7,489 |
+| Who Gives a Puck | 74.00% | ~7,105 |
+| For the Path | 67.00% | ~6,433 |
+| Now, This Isn't Podracing | 65.00% | ~6,241 |
+| Mirror Match | 64.00% | ~6,145 |
+| Skywalker | 63.00% | ~6,049 |
+| Out of Bedlam | 63.00% | ~6,049 |
+| Cleaning Up | 55.00% | ~5,281 |
+| Tanalorr Bound | 55.00% | ~5,281 |
+| Kitted Out | 53.00% | ~5,089 |
+| Tragedy | 52.00% | ~4,993 |
+| At the Precipice | 51.00% | ~4,897 |
 | Hey, Luke At Us | 50.00% | ~4,800 |
 | Into the Abyss | 49.00% | ~4,704 |
 | A Place You Could Call Home | 47.00% | ~4,512 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 598)
 | Splurgle | 3.00% | ~288 |
 | Pinpoint | 2.00% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,600 (Ranked 169)  
+Progressed: 9,601 (Ranked 169)  
 Completed: 57 (0.59%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 57 (0.59%) (Ranked 197)
 | 2023-12-08 | 9,450 | 56 |
 | 2023-12-09 | 9,519 | 57 |
 | 2023-12-10 | 9,581 | 57 |
-| 2023-12-11 | 9,600 | 57 |
+| 2023-12-11 | 9,601 | 57 |
 ## Awards
 Max (Great Boss Battles): 3,442  (Ranked 92)  
 Sum: 5,367 (Ranked 136)  

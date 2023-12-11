@@ -4306,9 +4306,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 499427,
+  "EOS_Progressed": 499438,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2522,
+  "EOS_NewPlayers": 2524,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31206,6 +31206,11 @@
       "Time": "2023-12-11T10:04:10.921789+00:00",
       "NumProgressed": 499427,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-11T11:04:30.1420932+00:00",
+      "NumProgressed": 499438,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -31273,7 +31278,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19977
+      "UsersEstimate": 19978
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -31305,7 +31310,7 @@
       "Name": "Grounded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 3995
+      "UsersEstimate": 3996
     },
     {
       "ID": "ACH_HIT_RUN",
@@ -31377,7 +31382,7 @@
       "Name": "Play to Win",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 3995
+      "UsersEstimate": 3996
     },
     {
       "ID": "ACH_POINT_SHOOTING",
@@ -31385,7 +31390,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19977
+      "UsersEstimate": 19978
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -31481,7 +31486,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24971
+      "UsersEstimate": 24972
     },
     {
       "ID": "ACH_WET_FEET",
@@ -31489,22 +31494,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19977
+      "UsersEstimate": 19978
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 499427,
+      "Progressed": 499438,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-12-11T03:57:55.9998437+00:00",
-  "LastChanged_Achievements": "2023-12-11T10:04:10.9217885+00:00",
+  "LastChanged_Achievements": "2023-12-11T11:04:30.1420928+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.4208286+00:00",
-  "LastUpdate_Ratings": "2023-12-11T09:58:09.2566007+00:00",
-  "LastUpdate_Achievements": "2023-12-11T10:04:10.9219301+00:00"
+  "LastUpdate_Ratings": "2023-12-11T10:58:04.8639002+00:00",
+  "LastUpdate_Achievements": "2023-12-11T11:04:30.1422147+00:00"
 }

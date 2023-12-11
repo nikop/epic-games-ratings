@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3438,
+  "EOS_Progressed": 3441,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5256,6 +5256,11 @@
       "Time": "2023-12-11T07:04:38.826628+00:00",
       "NumProgressed": 3438,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-11T11:04:22.2818426+00:00",
+      "NumProgressed": 3441,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5291,7 +5296,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "MOVE_ON",
@@ -5355,7 +5360,7 @@
       "Name": "Transmission",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -5363,14 +5368,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3438,
+      "Progressed": 3441,
       "Completed": 6
     }
   ],
@@ -5378,8 +5383,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-11T10:04:03.0274566+00:00",
+  "LastChanged_Achievements": "2023-12-11T11:04:22.2818421+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:18.0649883+00:00",
-  "LastUpdate_Ratings": "2023-12-11T09:58:18.3464405+00:00",
-  "LastUpdate_Achievements": "2023-12-11T10:04:03.0274935+00:00"
+  "LastUpdate_Ratings": "2023-12-11T10:58:13.5405734+00:00",
+  "LastUpdate_Achievements": "2023-12-11T11:04:22.2818707+00:00"
 }

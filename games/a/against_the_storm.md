@@ -24,15 +24,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 0.90% | ~161 |
 | Royal Outpost | 0.80% | ~143 |
 | Watchtower | 0.80% | ~143 |
-| Lost Colonies | 0.70% | ~125 |
+| Lost Colonies | 0.70% | ~126 |
 | Homesick | 0.60% | ~108 |
 | Bandit Camp | 0.60% | ~108 |
+| Corrosive Torrent | 0.60% | ~108 |
+| A Real Challenge | 0.60% | ~108 |
 | Ruined Armory | 0.50% | ~90 |
 | Barren Lands | 0.50% | ~90 |
 | Levitating Monument | 0.50% | ~90 |
 | Monastery of the Holy Flame | 0.50% | ~90 |
-| Corrosive Torrent | 0.50% | ~90 |
-| A Real Challenge | 0.50% | ~90 |
 | Trade Baron | 0.50% | ~90 |
 | Ancient Battleground | 0.40% | ~72 |
 | Sparkdew Crystals | 0.40% | ~72 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,927 (Ranked 147)  
+Progressed: 17,929 (Ranked 147)  
 Completed: 41 (0.23%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 41 (0.23%) (Ranked 253)
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
 | 2023-12-10 | 17,908 | 43 |
-| 2023-12-11 | 17,927 | 41 |
+| 2023-12-11 | 17,929 | 41 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 224)  
 Sum: 3,250 (Ranked 175)  

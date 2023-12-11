@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 440,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 78,
@@ -1651,10 +1651,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162104,
+  "EOS_Progressed": 162108,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 913,
-  "EOS_NewCompleters": 108,
+  "EOS_NewPlayers": 912,
+  "EOS_NewCompleters": 106,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
@@ -18791,6 +18791,11 @@
       "Time": "2023-12-11T10:04:34.423947+00:00",
       "NumProgressed": 162104,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-12-11T11:04:53.5752545+00:00",
+      "NumProgressed": 162108,
+      "NumCompleted": 288
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19025,9 +19030,9 @@
       "ID": "MISC_DISCOVERALLPREY",
       "SetID": "ccc0dlh",
       "Name": "Predator",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 324
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -19170,21 +19175,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161687,
+      "Progressed": 161691,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162104,
+      "Progressed": 162108,
       "Completed": 288
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-10T17:57:49.4464039+00:00",
-  "LastChanged_Achievements": "2023-12-11T10:04:34.4239466+00:00",
+  "LastChanged_Achievements": "2023-12-11T11:04:53.5752542+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-11T09:58:07.1517998+00:00",
-  "LastUpdate_Achievements": "2023-12-11T10:04:34.4240673+00:00"
+  "LastUpdate_Ratings": "2023-12-11T10:58:03.2899417+00:00",
+  "LastUpdate_Achievements": "2023-12-11T11:04:53.5753763+00:00"
 }

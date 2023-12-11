@@ -1,20 +1,20 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.75 (Ranked 146)  
+Rating: 4.75 (Ranked 147)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~10,041 |
-| I Challenge You To Save More Money! | 86.00% | ~9,386 |
-| I Love How Tough You Are | 73.00% | ~7,967 |
-| Wanna Come To My Place For Dinner? | 67.00% | ~7,312 |
+| Last Night...Did We... | 92.00% | ~10,042 |
+| I Challenge You To Save More Money! | 86.00% | ~9,387 |
+| I Love How Tough You Are | 73.00% | ~7,968 |
+| Wanna Come To My Place For Dinner? | 67.00% | ~7,313 |
 | What I Want Is You | 61.00% | ~6,658 |
-| To Be Or Not To Be | 58.00% | ~6,330 |
-| Are You Alright? | 50.00% | ~5,457 |
+| To Be Or Not To Be | 58.00% | ~6,331 |
+| Are You Alright? | 50.00% | ~5,458 |
 | Love Actually | 49.00% | ~5,348 |
 | Drama King | 42.00% | ~4,584 |
-| You're Really Something Else | 38.00% | ~4,147 |
+| You're Really Something Else | 38.00% | ~4,148 |
 | Go Clean up In Your Own Way | 36.00% | ~3,929 |
 | Happy Family | 35.00% | ~3,820 |
 | ONE PUNCH | 35.00% | ~3,820 |
@@ -22,16 +22,16 @@ Rating: 4.75 (Ranked 146)
 | Drama CP: Reel to Real | 35.00% | ~3,820 |
 | Worthless Speech | 35.00% | ~3,820 |
 | Absolutely Elegant | 34.00% | ~3,711 |
-| Still Single | 32.00% | ~3,492 |
+| Still Single | 32.00% | ~3,493 |
 | Go Get Some Fries On The Pier | 30.00% | ~3,274 |
 | Days Of Innocence | 30.00% | ~3,274 |
 | David | 30.00% | ~3,274 |
 | A Slap In The Face! | 26.00% | ~2,838 |
-| All I Have Is Money | 25.00% | ~2,728 |
-| Lover In Dark Alley | 25.00% | ~2,728 |
-| That's So You | 25.00% | ~2,728 |
-| SALUTE | 25.00% | ~2,728 |
-| Let Me Be Your Toy Boy | 24.00% | ~2,619 |
+| All I Have Is Money | 25.00% | ~2,729 |
+| Lover In Dark Alley | 25.00% | ~2,729 |
+| That's So You | 25.00% | ~2,729 |
+| SALUTE | 25.00% | ~2,729 |
+| Let Me Be Your Toy Boy | 24.00% | ~2,620 |
 | Off We Sail Tonight | 19.00% | ~2,074 |
 | Love You Three Thousand | 16.00% | ~1,746 |
 | Can You Do This Or Not? | 16.00% | ~1,746 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 146)
 | Tall; Grande; Venti | 2.00% | ~218 |
 | Limerence | 2.00% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,914 (Ranked 165)  
+Progressed: 10,915 (Ranked 165)  
 Completed: 202 (1.85%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 202 (1.85%) (Ranked 135)
 | 2023-12-08 | 10,827 | 198 |
 | 2023-12-09 | 10,871 | 200 |
 | 2023-12-10 | 10,902 | 201 |
-| 2023-12-11 | 10,914 | 202 |
+| 2023-12-11 | 10,915 | 202 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 534)  
 Sum: 23 (Ranked 538)  

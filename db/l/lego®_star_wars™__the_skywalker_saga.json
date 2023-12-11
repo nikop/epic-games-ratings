@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3779,9 +3779,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 52069,
+  "EOS_Progressed": 52070,
   "EOS_Completed": 251,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -14389,6 +14389,11 @@
       "Time": "2023-12-11T09:06:42.7983092+00:00",
       "NumProgressed": 52069,
       "NumCompleted": 251
+    },
+    {
+      "Time": "2023-12-11T11:05:33.6786152+00:00",
+      "NumProgressed": 52070,
+      "NumCompleted": 251
     }
   ],
   "TotalAchievements": 45,
@@ -14520,7 +14525,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 24472
+      "UsersEstimate": 24473
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -14528,7 +14533,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 21348
+      "UsersEstimate": 21349
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -14536,7 +14541,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24993
+      "UsersEstimate": 24994
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -14544,7 +14549,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 19786
+      "UsersEstimate": 19787
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -14592,7 +14597,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29679
+      "UsersEstimate": 29680
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -14608,7 +14613,7 @@
       "Name": "Rishi Maze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "COMPLETE_KASHYYYK_KIJIMI",
@@ -14656,7 +14661,7 @@
       "Name": "\u0027\u0027Only one business in the Galaxy...\u0027\u0027",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "EARN_17K_STUDS",
@@ -14664,7 +14669,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50507
+      "UsersEstimate": 50508
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -14720,7 +14725,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 19786
+      "UsersEstimate": 19787
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -14736,7 +14741,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 28117
+      "UsersEstimate": 28118
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -14759,15 +14764,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 52069,
+      "Progressed": 52070,
       "Completed": 251
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-12-10T14:58:45.676429+00:00",
-  "LastChanged_Achievements": "2023-12-11T10:05:15.2400915+00:00",
+  "LastChanged_Achievements": "2023-12-11T11:05:33.6786147+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:10.3071296+00:00",
-  "LastUpdate_Ratings": "2023-12-11T09:58:55.7340794+00:00",
-  "LastUpdate_Achievements": "2023-12-11T10:05:15.2401672+00:00"
+  "LastUpdate_Ratings": "2023-12-11T10:58:50.7717058+00:00",
+  "LastUpdate_Achievements": "2023-12-11T11:05:33.6786773+00:00"
 }
