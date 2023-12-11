@@ -14,12 +14,12 @@
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.71% |
 | 13 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 28.95% |
 | 14 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.26% |
-| 15 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.31% |
+| 15 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.23% |
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.19% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.18% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -43,7 +43,7 @@
 | 41 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.34% |
 | 42 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
-| 44 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.73% |
+| 44 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.65% |
 | 45 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 9.59% |
 | 46 | [Smelter](games/s/smelter.md) | 9.52% |
 | 47 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
@@ -53,12 +53,12 @@
 | 51 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 7.69% |
-| 52 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 7.69% |
-| 55 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.66% |
-| 56 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.49% |
-| 57 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.46% |
-| 58 | [Scorn](games/s/scorn.md) | 7.18% |
-| 59 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
+| 54 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.66% |
+| 55 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.49% |
+| 56 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.46% |
+| 57 | [Scorn](games/s/scorn.md) | 7.18% |
+| 58 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 7.14% |
+| 58 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
 | 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.12% |
 | 61 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 62 | [Sonic Origins](games/s/sonic_origins.md) | 7.01% |
@@ -122,14 +122,14 @@
 | 120 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.56% |
 | 121 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 122 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.48% |
-| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
 | 122 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.48% |
+| 124 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.47% |
 | 125 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.35% |
 | 127 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
 | 128 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 128 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
-| 130 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.11% |
+| 130 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.10% |
 | 131 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 131 | [Somerville](games/s/somerville.md) | 1.92% |
 | 133 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.88% |
@@ -164,7 +164,7 @@
 | 162 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
 | 163 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.18% |
 | 163 | [Lemon Cake](games/l/lemon_cake.md) | 1.18% |
-| 165 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.15% |
+| 165 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.14% |
 | 166 | [Adios](games/a/adios.md) | 1.09% |
 | 167 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
 | 168 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |

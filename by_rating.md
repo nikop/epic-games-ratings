@@ -74,7 +74,7 @@
 | 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 560 |
 | 68 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 485 |
 | 68 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.82 | 23 | 534 |
-| 68 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 940 | 161 |
+| 68 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 946 | 161 |
 | 68 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 232 | 274 |
 | 68 | [Sifu](games/s/sifu.md) | 4.82 | 6,909 | 55 |
 | 68 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 432 | 230 |
@@ -735,27 +735,27 @@
 | 727 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 560 |
 | 727 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.41 | 0 | 560 |
 | 727 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 38 | 468 |
+| 727 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 504 | 214 |
 | 727 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,234 | 108 |
 | 727 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 72 | 403 |
 | 727 | [Sheltered](games/s/sheltered.md) | 4.41 | 276 | 264 |
 | 727 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 0 | 560 |
 | 727 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,585 | 129 |
-| 741 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.40 | 0 | 560 |
-| 741 | [Beyond Blue](games/b/beyond_blue.md) | 4.40 | 0 | 560 |
-| 741 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 560 |
-| 741 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 560 |
-| 741 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,057 | 150 |
-| 741 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 560 |
-| 741 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.40 | 21 | 549 |
-| 741 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.40 | 0 | 560 |
-| 741 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 560 |
-| 741 | [Metalstorm](games/m/metalstorm.md) | 4.40 | 0 | 560 |
-| 741 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 75 | 400 |
-| 741 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 504 | 214 |
-| 741 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 0 | 560 |
-| 741 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.40 | 186 | 302 |
-| 741 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 0 | 560 |
-| 741 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.40 | 583 | 201 |
+| 742 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.40 | 0 | 560 |
+| 742 | [Beyond Blue](games/b/beyond_blue.md) | 4.40 | 0 | 560 |
+| 742 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 560 |
+| 742 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 560 |
+| 742 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,057 | 150 |
+| 742 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 560 |
+| 742 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.40 | 21 | 549 |
+| 742 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.40 | 0 | 560 |
+| 742 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 560 |
+| 742 | [Metalstorm](games/m/metalstorm.md) | 4.40 | 0 | 560 |
+| 742 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 75 | 400 |
+| 742 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 0 | 560 |
+| 742 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.40 | 186 | 302 |
+| 742 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 0 | 560 |
+| 742 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.40 | 583 | 201 |
 | 757 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 0 | 560 |
 | 757 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.39 | 0 | 560 |
 | 757 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.39 | 122 | 344 |
@@ -875,7 +875,7 @@
 | 872 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,880 | 88 |
 | 872 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 20 | 552 |
 | 872 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 560 |
-| 872 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,795 | 100 |
+| 872 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,797 | 100 |
 | 872 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.27 | 0 | 560 |
 | 878 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.26 | 0 | 560 |
 | 878 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 560 |

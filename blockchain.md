@@ -38,12 +38,12 @@
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | - |
 | [The Harvest](games/1/171eb5b083604de697c6d64e243d308b.md) | 2024-01-31 | - |  | - | - |
 | [OpenSeason](games/5/53b4ffb651f04ca0bbd47c310ad6efd8.md) | 2024-01-05 | - |  | - | - |
-| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-31 | - |  | - | - |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2023-12-31 | - |  | - | - |
 | [KibaGames](games/d/d9dec92aafc5427699be1f9a259dba83.md) | 2023-12-31 | - |  | - | - |
 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2023-12-31 | - |  | - | - |
 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 2023-12-31 | - |  | - | - |
 | [Underground Waifus TCG](games/4/469efc19125a4c3fb518e4723ad3010e.md) | 2023-12-31 | - |  | - | - |
+| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | - |  | - | - |
 | [Bezogia](games/l/legends_of_bezogia.md) | 2023-12-11 | - |  | - | - |
 | [Champions Ascension](games/a/a3499df604cc40488fdba44d01acd1fd.md) | 2023-11-30 | - |  | - | - |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | - | 0 |
@@ -56,7 +56,7 @@
 | [Bluelight.inc](games/e/e48a41ece2354513aabb1473743ec43d.md) | 2023-10-31 | - |  | - | - |
 | [Yaku](games/3/3ad47e385f544acaa228638fe650e078.md) | 2023-10-31 | - |  | - | 0 |
 | [Kugle](games/5/5b14619578434ff7b6cde619be141d38.md) | 2023-10-30 | - |  | - | 0 |
-| [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 24,922 | - | 0 |
+| [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 24,925 | - | 0 |
 | [Brawlers](games/0/03daf1d62b1b42c0a2a5168d91cb61b2.md) | 2023-10-17 | - |  | - | 0 |
 | [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 2023-10-16 | - |  | - | 0 |
 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 2023-10-02 | - |  | 3.39 | 0 |
