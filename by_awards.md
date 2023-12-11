@@ -7,7 +7,7 @@
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 214,239 | 4.18 | 943 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 207,656 | 4.88 | 16 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 152,963 | 4.51 | 575 |
-| 8 | [Borderlands 3](games/b/borderlands_3.md) | 122,174 | 4.69 | 232 |
+| 8 | [Borderlands 3](games/b/borderlands_3.md) | 122,254 | 4.69 | 232 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 120,955 | 4.66 | 295 |
 | 10 | [VALORANT](games/v/valorant.md) | 86,726 | 4.52 | 561 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 64,536 | 4.58 | 451 |
@@ -27,7 +27,7 @@
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 15,259 | 4.60 | 421 |
 | 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,638 | 4.58 | 451 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 14,109 | 4.60 | 421 |
-| 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,877 | 4.43 | 696 |
+| 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,890 | 4.43 | 696 |
 | 29 | [Maneater](games/m/maneater.md) | 13,844 | 4.49 | 617 |
 | 30 | [Satisfactory](games/s/satisfactory.md) | 13,827 | 4.87 | 24 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 13,386 | 4.86 | 32 |
@@ -387,7 +387,7 @@
 | 385 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 88 | 4.35 | 800 |
 | 386 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 87 | 4.59 | 440 |
 | 387 | [Super Meat Boy](games/s/super_meat_boy.md) | 86 | 4.71 | 196 |
-| 388 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 85 | 4.19 | 935 |
+| 388 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 85 | 4.19 | 936 |
 | 389 | [Carcassonne](games/c/carcassonne.md) | 83 | 4.66 | 295 |
 | 389 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 83 | 4.55 | 513 |
 | 391 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 82 | 4.60 | 421 |
@@ -440,7 +440,7 @@
 | 437 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 51 | 4.43 | 696 |
 | 437 | [STG Football](games/s/stg_football.md) | 51 | 4.42 | 716 |
 | 437 | [Witchfire](games/w/witchfire.md) | 51 | 4.62 | 370 |
-| 441 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 935 |
+| 441 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 936 |
 | 442 | [Expeditions: Rome](games/e/expeditions__rome.md) | 49 | 4.67 | 279 |
 | 443 | [AXIOM VERGE](games/a/axiom_verge.md) | 48 | 4.56 | 496 |
 | 443 | [Desperados III](games/d/desperados_iii.md) | 48 | 4.84 | 51 |
@@ -457,7 +457,7 @@
 | 452 | [Voidtrain](games/v/voidtrain.md) | 44 | 4.51 | 575 |
 | 456 | [Bugsnax](games/b/bugsnax.md) | 43 | 4.86 | 32 |
 | 456 | [Coromon](games/c/coromon.md) | 43 | 4.68 | 258 |
-| 458 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 42 | 4.19 | 935 |
+| 458 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 42 | 4.19 | 936 |
 | 458 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 42 | 4.76 | 128 |
 | 460 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 41 | 4.61 | 389 |
 | 460 | [Madden NFL 23](games/m/madden_nfl_23.md) | 41 | 4.29 | 854 |
@@ -508,7 +508,7 @@
 | 502 | [Weird West: Definitive Edition](games/w/weird_west.md) | 29 | 4.44 | 681 |
 | 502 | [Wildermyth](games/w/wildermyth.md) | 29 | 4.78 | 108 |
 | 508 | [DOOM II](games/d/doom_ii.md) | 28 | 4.64 | 337 |
-| 508 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 28 | 4.19 | 935 |
+| 508 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 28 | 4.20 | 925 |
 | 508 | [God's Trigger](games/g/god's_trigger.md) | 28 | 4.15 | 959 |
 | 508 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 28 | 4.56 | 496 |
 | 508 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 28 | 4.43 | 696 |

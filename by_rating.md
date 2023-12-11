@@ -232,7 +232,7 @@
 | 213 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.70 | 0 | 560 |
 | 213 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 560 |
 | 232 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 560 |
-| 232 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 122,174 | 8 |
+| 232 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 122,254 | 8 |
 | 232 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 560 |
 | 232 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 119 | 344 |
 | 232 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 7,331 | 54 |
@@ -696,7 +696,7 @@
 | 681 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 956 | 158 |
 | 681 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.44 | 29 | 502 |
 | 696 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 51 | 437 |
-| 696 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,877 | 28 |
+| 696 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,890 | 28 |
 | 696 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.43 | 0 | 560 |
 | 696 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.43 | 0 | 560 |
 | 696 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 560 |
@@ -927,6 +927,7 @@
 | 925 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 130 | 332 |
 | 925 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.20 | 38 | 467 |
 | 925 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 560 |
+| 925 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.20 | 28 | 508 |
 | 925 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 560 |
 | 925 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 33 | 491 |
 | 925 | [Gone Home](games/g/gone_home.md) | 4.20 | 0 | 560 |
@@ -934,14 +935,13 @@
 | 925 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 0 | 560 |
 | 925 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 78 | 395 |
 | 925 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.20 | 65 | 411 |
-| 935 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 441 |
-| 935 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.19 | 28 | 508 |
-| 935 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 0 | 560 |
-| 935 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.19 | 42 | 458 |
-| 935 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 560 |
-| 935 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 85 | 388 |
-| 935 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 560 |
-| 935 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 560 |
+| 936 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 441 |
+| 936 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 0 | 560 |
+| 936 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.19 | 42 | 458 |
+| 936 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 560 |
+| 936 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 85 | 388 |
+| 936 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 560 |
+| 936 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 560 |
 | 943 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.18 | 0 | 560 |
 | 943 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.18 | 0 | 560 |
 | 943 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 560 |
