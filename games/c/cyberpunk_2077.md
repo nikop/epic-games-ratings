@@ -6,14 +6,14 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,920 |
-| Gun Fu | 7.00% | ~68,203 |
+| V for Vendetta | 12.00% | ~116,921 |
+| Gun Fu | 7.00% | ~68,204 |
 | The Fool | 6.00% | ~58,460 |
 | Right Back At Ya | 5.00% | ~48,717 |
 | The Lovers | 5.00% | ~48,717 |
-| Full Body Conversion | 4.00% | ~38,973 |
-| Stanislavski's Method | 4.00% | ~38,973 |
-| True Soldier | 4.00% | ~38,973 |
+| Full Body Conversion | 4.00% | ~38,974 |
+| Stanislavski's Method | 4.00% | ~38,974 |
+| True Soldier | 4.00% | ~38,974 |
 | Christmas Tree Attack | 3.00% | ~29,230 |
 | The Hermit | 3.00% | ~29,230 |
 | The Wheel of Fortune | 3.00% | ~29,230 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974,331 (Ranked 15)  
+Progressed: 974,340 (Ranked 15)  
 Completed: 2,883 (0.30%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 2,883 (0.30%) (Ranked 239)
 | 2023-12-08 | 972,634 | 2,860 |
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
-| 2023-12-11 | 974,331 | 2,883 |
+| 2023-12-11 | 974,340 | 2,883 |
 ## Awards
 Max (Character Customization): 120,955  (Ranked 9)  
 Sum: 408,857 (Ranked 9)  

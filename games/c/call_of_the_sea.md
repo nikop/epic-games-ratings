@@ -1,14 +1,14 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.40 (Ranked 742)  
+Rating: 4.40 (Ranked 741)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~106,994 |
-| 74 miles East of Otaheité | 56.00% | ~74,896 |
+| A Family Heirloom | 80.00% | ~106,995 |
+| 74 miles East of Otaheité | 56.00% | ~74,897 |
 | Interesting... | 42.00% | ~56,172 |
-| The Everhart Expedition | 40.00% | ~53,497 |
+| The Everhart Expedition | 40.00% | ~53,498 |
 | Halfway there | 30.00% | ~40,123 |
 | The Vanishing of the Lady Shannon | 30.00% | ~40,123 |
 | Seaside Serenade | 30.00% | ~40,123 |
@@ -18,13 +18,13 @@ Rating: 4.40 (Ranked 742)
 | Quite a Show | 27.00% | ~36,111 |
 | Dark Water Ride | 25.00% | ~33,436 |
 | Sunken | 25.00% | ~33,436 |
-| Deep Cut | 24.00% | ~32,098 |
+| Deep Cut | 24.00% | ~32,099 |
 | FHALGOF'N' | 23.00% | ~30,761 |
 | Marsh Cannery | 21.00% | ~28,086 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~24,074 |
 | The only thing I have now | 17.00% | ~22,736 |
 | Naacalvision | 16.00% | ~21,399 |
-| Not Another Boring Slideshow! | 15.00% | ~20,061 |
+| Not Another Boring Slideshow! | 15.00% | ~20,062 |
 | The Norahnomicon | 10.00% | ~13,374 |
 | I'll make a note of that... | 9.00% | ~12,037 |
 | Written in Stone | 7.00% | ~9,362 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 742)
 | Gently down the stream... | 1.00% | ~1,337 |
 | Meta-reference | 1.00% | ~1,337 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,743 (Ranked 82)  
+Progressed: 133,744 (Ranked 82)  
 Completed: 1,188 (0.89%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 1,188 (0.89%) (Ranked 176)
 | 2023-12-08 | 133,350 | 1,182 |
 | 2023-12-09 | 133,533 | 1,187 |
 | 2023-12-10 | 133,712 | 1,188 |
-| 2023-12-11 | 133,743 | 1,188 |
+| 2023-12-11 | 133,744 | 1,188 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

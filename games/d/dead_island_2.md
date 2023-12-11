@@ -6,8 +6,8 @@ Rating: 4.54 (Ranked 536)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 3.00% | ~21,996 |
-| Whatever It Takes | 3.00% | ~1,762 |
-| Pork Chopped | 3.00% | ~1,762 |
+| Whatever It Takes | 3.00% | ~1,763 |
+| Pork Chopped | 3.00% | ~1,763 |
 | Dr. Reed, I Presume? | 2.00% | ~14,664 |
 | Git Gutte! | 2.00% | ~14,664 |
 | Anger Management | 2.00% | ~14,664 |
@@ -52,12 +52,12 @@ Rating: 4.54 (Ranked 536)
 | Sharpest Tool in the Box | 0.40% | ~2,933 |
 | Top That, Tisha! | 0.40% | ~235 |
 | Survival Skills | 0.20% | ~1,466 |
-| Lawn and Order | 0.20% | ~117 |
+| Lawn and Order | 0.20% | ~118 |
 | Donk! | 0.10% | ~733 |
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,206 (Ranked 21)  
+Progressed: 733,213 (Ranked 21)  
 Completed: 2,476 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 2,476 (0.34%) (Ranked 234)
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
 | 2023-12-10 | 733,123 | 2,475 |
-| 2023-12-11 | 733,206 | 2,476 |
+| 2023-12-11 | 733,213 | 2,476 |
 ## Awards
 Max (Great Boss Battles): 8,071  (Ranked 49)  
 Sum: 12,409 (Ranked 82)  

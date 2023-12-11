@@ -14,12 +14,12 @@ Rating: 3.95 (Ranked 1,024)
 | Fancy Pants | 2.00% | ~1,837 |
 | Off the Rocks | 2.00% | ~1,837 |
 | Dragonslayer | 2.00% | ~1,837 |
-| Roid Ranger | 1.00% | ~918 |
-| Hidden Sonata | 1.00% | ~918 |
-| Case Closed | 1.00% | ~918 |
-| True Player | 1.00% | ~918 |
-| Raider’s Ruin | 1.00% | ~918 |
-| Rockay Rex | 1.00% | ~918 |
+| Roid Ranger | 1.00% | ~919 |
+| Hidden Sonata | 1.00% | ~919 |
+| Case Closed | 1.00% | ~919 |
+| True Player | 1.00% | ~919 |
+| Raider’s Ruin | 1.00% | ~919 |
+| Rockay Rex | 1.00% | ~919 |
 | Track Star | 0.90% | ~827 |
 | Headhunter | 0.80% | ~735 |
 | Freebooter | 0.70% | ~643 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,024)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,850 (Ranked 92)  
+Progressed: 91,853 (Ranked 92)  
 Completed: 58 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 58 (0.06%) (Ranked 313)
 | 2023-12-08 | 91,806 | 58 |
 | 2023-12-09 | 91,827 | 58 |
 | 2023-12-10 | 91,849 | 58 |
-| 2023-12-11 | 91,850 | 58 |
+| 2023-12-11 | 91,853 | 58 |
 ## Awards
 Max (Diverse Characters): 559  (Ranked 207)  
 Sum: 2,664 (Ranked 187)  

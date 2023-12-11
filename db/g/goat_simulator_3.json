@@ -5725,9 +5725,9 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 253801,
+  "EOS_Progressed": 253802,
   "EOS_Completed": 900,
-  "EOS_NewPlayers": 812,
+  "EOS_NewPlayers": 809,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -31300,6 +31300,11 @@
       "Time": "2023-12-11T07:09:52.345198+00:00",
       "NumProgressed": 253801,
       "NumCompleted": 900
+    },
+    {
+      "Time": "2023-12-11T08:10:01.3611207+00:00",
+      "NumProgressed": 253802,
+      "NumCompleted": 900
     }
   ],
   "TotalAchievements": 39,
@@ -31343,7 +31348,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 68526
+      "UsersEstimate": 68527
     },
     {
       "ID": "AchievementBigFootID",
@@ -31359,7 +31364,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 76140
+      "UsersEstimate": 76141
     },
     {
       "ID": "AchievementBoulderID",
@@ -31367,7 +31372,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 65988
+      "UsersEstimate": 65989
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -31375,7 +31380,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 230959
+      "UsersEstimate": 230960
     },
     {
       "ID": "AchievementClownID",
@@ -31399,7 +31404,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 71064
+      "UsersEstimate": 71065
     },
     {
       "ID": "AchievementEggID",
@@ -31423,7 +31428,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 83754
+      "UsersEstimate": 83755
     },
     {
       "ID": "AchievementGoatID",
@@ -31471,7 +31476,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 114210
+      "UsersEstimate": 114211
     },
     {
       "ID": "AchievementIntroID",
@@ -31511,7 +31516,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 96444
+      "UsersEstimate": 96445
     },
     {
       "ID": "AchievementRampID",
@@ -31591,7 +31596,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 119286
+      "UsersEstimate": 119287
     },
     {
       "ID": "AchievementTrinketID",
@@ -31615,14 +31620,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 68526
+      "UsersEstimate": 68527
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 253801,
+      "Progressed": 253802,
       "Completed": 900
     }
   ],
@@ -31630,8 +31635,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-12-10T20:57:50.7811102+00:00",
-  "LastChanged_Achievements": "2023-12-11T07:09:52.3451975+00:00",
+  "LastChanged_Achievements": "2023-12-11T08:10:01.3611203+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:59.5237496+00:00",
-  "LastUpdate_Ratings": "2023-12-11T06:57:52.8357749+00:00",
-  "LastUpdate_Achievements": "2023-12-11T07:09:52.3453525+00:00"
+  "LastUpdate_Ratings": "2023-12-11T07:57:55.5485002+00:00",
+  "LastUpdate_Achievements": "2023-12-11T08:10:01.3612678+00:00"
 }

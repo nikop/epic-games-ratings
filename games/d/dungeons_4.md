@@ -30,7 +30,7 @@
 | Pure Dynamite! | 45.00% | ~244 |
 | Dungeonlord Gorgu | 45.00% | ~244 |
 | Tanos' Crusade Against Thalya | 44.00% | ~239 |
-| Mana Cannon | 41.00% | ~223 |
+| Mana Cannon | 42.00% | ~228 |
 | All’s Well That Ends Evil | 38.00% | ~206 |
 | Unstoppable Horde | 34.00% | ~185 |
 | Master of the Undead | 34.00% | ~185 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -207,7 +207,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7685,
+  "EOS_Progressed": 7686,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 3,
@@ -6152,6 +6152,11 @@
       "Time": "2023-12-11T04:09:40.5421824+00:00",
       "NumProgressed": 7685,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-11T08:09:55.5940295+00:00",
+      "NumProgressed": 7686,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6372,7 +6377,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -6435,7 +6440,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7685,
+      "Progressed": 7686,
       "Completed": 16
     }
   ],
@@ -6443,8 +6448,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-09T07:57:44.7970456+00:00",
-  "LastChanged_Achievements": "2023-12-11T07:09:46.3971401+00:00",
+  "LastChanged_Achievements": "2023-12-11T08:09:55.5940291+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-11T06:58:35.8583715+00:00",
-  "LastUpdate_Achievements": "2023-12-11T07:09:46.3971863+00:00"
+  "LastUpdate_Ratings": "2023-12-11T07:58:37.8956939+00:00",
+  "LastUpdate_Achievements": "2023-12-11T08:09:55.5940747+00:00"
 }

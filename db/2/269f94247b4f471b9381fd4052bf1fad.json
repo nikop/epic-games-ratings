@@ -172,9 +172,9 @@
       "ID": "ACH_COSPLAY",
       "SetID": "6lg1p1e",
       "Name": "Cosplay",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DADDY-ISSUES",
@@ -260,9 +260,9 @@
       "ID": "ACH_LITTLE-ARSONIST",
       "SetID": "6lg1p1e",
       "Name": "Little Arsonist",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_LOREMASTER",
@@ -324,9 +324,9 @@
       "ID": "ACH_PHYSIOLOGUS",
       "SetID": "6lg1p1e",
       "Name": "Physiologus",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_PRIVATE-EYE",
@@ -348,9 +348,9 @@
       "ID": "ACH_PROPERTY-DAMAGE",
       "SetID": "6lg1p1e",
       "Name": "Property Damage",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_RACER-CHAMPION",
@@ -419,8 +419,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-11T07:06:31.5789426+00:00",
+  "LastChanged_Achievements": "2023-12-11T08:06:24.4762043+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.6928375+00:00",
-  "LastUpdate_Ratings": "2023-12-11T06:58:18.2350404+00:00",
-  "LastUpdate_Achievements": "2023-12-11T07:06:31.578965+00:00"
+  "LastUpdate_Ratings": "2023-12-11T07:58:20.0470635+00:00",
+  "LastUpdate_Achievements": "2023-12-11T08:06:24.4762278+00:00"
 }

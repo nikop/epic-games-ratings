@@ -5019,9 +5019,9 @@
       "Count": 511
     }
   ],
-  "EOS_Progressed": 91850,
+  "EOS_Progressed": 91853,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -27674,6 +27674,11 @@
       "Time": "2023-12-11T01:53:42.567128+00:00",
       "NumProgressed": 91850,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-11T08:05:20.5103686+00:00",
+      "NumProgressed": 91853,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -27701,7 +27706,7 @@
       "Name": "Roid Ranger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACH_0013",
@@ -27709,7 +27714,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACH_0014",
@@ -27901,7 +27906,7 @@
       "Name": "Case Closed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACH_0420",
@@ -27933,7 +27938,7 @@
       "Name": "True Player",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACH_0450",
@@ -27949,7 +27954,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACH_0452",
@@ -27973,7 +27978,7 @@
       "Name": "Rockay Rex",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACH_1010",
@@ -28012,13 +28017,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91850,
+      "Progressed": 91853,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20197,
+      "Progressed": 20200,
       "Completed": 15584
     }
   ],
@@ -28026,8 +28031,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-10T18:02:34.0485254+00:00",
-  "LastChanged_Achievements": "2023-12-11T07:05:25.9442866+00:00",
+  "LastChanged_Achievements": "2023-12-11T08:05:20.5103681+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:49.1202074+00:00",
-  "LastUpdate_Ratings": "2023-12-11T07:02:42.3035674+00:00",
-  "LastUpdate_Achievements": "2023-12-11T07:05:25.9444023+00:00"
+  "LastUpdate_Ratings": "2023-12-11T08:02:59.4034159+00:00",
+  "LastUpdate_Achievements": "2023-12-11T08:05:20.5104758+00:00"
 }

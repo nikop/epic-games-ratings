@@ -3622,9 +3622,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 240875,
+  "EOS_Progressed": 240878,
   "EOS_Completed": 294,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -27822,6 +27822,11 @@
       "Time": "2023-12-11T07:09:57.228667+00:00",
       "NumProgressed": 240875,
       "NumCompleted": 294
+    },
+    {
+      "Time": "2023-12-11T08:10:06.2434639+00:00",
+      "NumProgressed": 240878,
+      "NumCompleted": 294
     }
   ],
   "TotalAchievements": 138,
@@ -28889,7 +28894,7 @@
       "Name": "Not Touching You",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -28936,13 +28941,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240875,
+      "Progressed": 240878,
       "Completed": 294
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2355,
+      "Progressed": 2358,
       "Completed": 399
     }
   ],
@@ -28950,8 +28955,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-11T05:58:28.0417684+00:00",
-  "LastChanged_Achievements": "2023-12-11T07:09:57.2286665+00:00",
+  "LastChanged_Achievements": "2023-12-11T08:10:06.2434637+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-11T06:58:14.3053829+00:00",
-  "LastUpdate_Achievements": "2023-12-11T07:09:57.2289028+00:00"
+  "LastUpdate_Ratings": "2023-12-11T07:58:16.2658049+00:00",
+  "LastUpdate_Achievements": "2023-12-11T08:10:06.2436972+00:00"
 }

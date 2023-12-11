@@ -6,13 +6,13 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,315 |
+| Devoured by Darkness | 27.00% | ~3,316 |
 | A Spark | 19.00% | ~2,333 |
-| Burning City | 18.00% | ~2,210 |
+| Burning City | 18.00% | ~2,211 |
 | Defender's Heart | 16.00% | ~1,965 |
 | Mythic Choices | 15.00% | ~1,842 |
 | Banner over the Citadel | 14.00% | ~1,719 |
-| Queen's Gratitude | 12.00% | ~1,473 |
+| Queen's Gratitude | 12.00% | ~1,474 |
 | Fifth Crusade | 9.00% | ~1,105 |
 | Embrace of the Abyss | 7.00% | ~860 |
 | Demonic and Divine | 7.00% | ~860 |
@@ -33,7 +33,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Trickster | 3.00% | ~368 |
 | Path of the Lich | 3.00% | ~368 |
 | Heroic Victory | 3.00% | ~368 |
-| Capitulation Is Now Moot | 3.00% | ~368 |
 | Core of the Riddle | 3.00% | ~368 |
 | Hanged Man's Notes | 3.00% | ~332 |
 | Sarkoris Will Be Green | 3.00% | ~332 |
@@ -41,6 +40,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Beware Still Water | 3.00% | ~332 |
 | Path of the Demon | 2.00% | ~246 |
 | Path of the Aeon | 2.00% | ~246 |
+| Capitulation Is Now Moot | 2.00% | ~246 |
 | Your First Big Enemy | 2.00% | ~246 |
 | Truly Important Deed | 2.00% | ~246 |
 | Stay Underground | 2.00% | ~221 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,279 (Ranked 162)  
+Progressed: 12,281 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,7 +358,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 12,255 | 0 |
 | 2023-12-09 | 12,266 | 0 |
 | 2023-12-10 | 12,277 | 0 |
-| 2023-12-11 | 12,279 | 0 |
+| 2023-12-11 | 12,281 | 0 |
 ## Awards
 Max (Character Customization): 1,759  (Ranked 123)  
 Sum: 7,128 (Ranked 121)  

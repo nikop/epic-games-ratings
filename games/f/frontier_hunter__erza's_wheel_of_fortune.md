@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Travel Streamer | 93.00% | ~547 |
-| Training Simulation | 78.00% | ~459 |
+| Training Simulation | 79.00% | ~465 |
 | Kuku Bird Hunter | 64.00% | ~376 |
 | Storm Traveller | 59.00% | ~347 |
 | Wolf King Killer | 54.00% | ~318 |

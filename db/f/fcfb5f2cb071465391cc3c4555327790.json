@@ -28,9 +28,283 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-12-11T08:05:47.7810024+00:00",
+  "TotalAchievements": 34,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "completionist_world_1",
+      "SetID": "776m76d",
+      "Name": "Red planet freak",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "completionist_world_2",
+      "SetID": "776m76d",
+      "Name": "Blue planet freak",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "completionist_world_3",
+      "SetID": "776m76d",
+      "Name": "Green planet freak",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "completionist_world_4",
+      "SetID": "776m76d",
+      "Name": "Brown planet freak",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "completionist_world_5",
+      "SetID": "776m76d",
+      "Name": "Yellow planet freak",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "completionist_world_6",
+      "SetID": "776m76d",
+      "Name": "Pink planet freak",
+      "Percentage": 0,
+      "XP": 125,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fan_world_1",
+      "SetID": "776m76d",
+      "Name": "Red planet fan",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fan_world_2",
+      "SetID": "776m76d",
+      "Name": "Blue planet fan",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fan_world_3",
+      "SetID": "776m76d",
+      "Name": "Green planet fan",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fan_world_4",
+      "SetID": "776m76d",
+      "Name": "Brown planet fan",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fan_world_5",
+      "SetID": "776m76d",
+      "Name": "Yellow planet fan",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fan_world_6",
+      "SetID": "776m76d",
+      "Name": "Pink planet fan",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "planet_destroyer_20",
+      "SetID": "776m76d",
+      "Name": "Planet smasher",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "planet_destroyer_50",
+      "SetID": "776m76d",
+      "Name": "Planet destroyer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "player_world_1",
+      "SetID": "776m76d",
+      "Name": "Red planet player",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "player_world_2",
+      "SetID": "776m76d",
+      "Name": "Blue planet player",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "player_world_3",
+      "SetID": "776m76d",
+      "Name": "Green planet player",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "player_world_4",
+      "SetID": "776m76d",
+      "Name": "Brown planet player",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "player_world_5",
+      "SetID": "776m76d",
+      "Name": "Yellow planet player",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "player_world_6",
+      "SetID": "776m76d",
+      "Name": "Pink planet player",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "stars_100",
+      "SetID": "776m76d",
+      "Name": "Star gatherer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "stars_150",
+      "SetID": "776m76d",
+      "Name": "Star collector",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "stars_180",
+      "SetID": "776m76d",
+      "Name": "Star hoarder",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "stars_50",
+      "SetID": "776m76d",
+      "Name": "Star saver",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unlock_world_2",
+      "SetID": "776m76d",
+      "Name": "Blue Planet",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unlock_world_3",
+      "SetID": "776m76d",
+      "Name": "Green Planet",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unlock_world_4",
+      "SetID": "776m76d",
+      "Name": "Brown Planet",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unlock_world_5",
+      "SetID": "776m76d",
+      "Name": "Yellow\u00A0Planet",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unstoppable_world_1",
+      "SetID": "776m76d",
+      "Name": "The unstoppable red planet",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unstoppable_world_2",
+      "SetID": "776m76d",
+      "Name": "The unstoppable\u00A0blue planet",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unstoppable_world_3",
+      "SetID": "776m76d",
+      "Name": "The unstoppable\u00A0green planet",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unstoppable_world_4",
+      "SetID": "776m76d",
+      "Name": "The unstoppable\u00A0brown planet",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unstoppable_world_5",
+      "SetID": "776m76d",
+      "Name": "The unstoppable\u00A0yellow planet",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unstoppable_world_6",
+      "SetID": "776m76d",
+      "Name": "The unstoppable pink planet",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "776m76d",
@@ -40,8 +314,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-08T16:04:47.8734626+00:00",
-  "LastChanged_Achievements": "2023-12-11T07:05:53.8971289+00:00",
+  "LastChanged_Achievements": "2023-12-11T08:05:47.7810011+00:00",
   "LastUpdate_AppInfo": "2023-12-05T08:57:14.1258092+00:00",
-  "LastUpdate_Ratings": "2023-12-11T07:00:18.8772221+00:00",
-  "LastUpdate_Achievements": "2023-12-11T07:05:53.8971321+00:00"
+  "LastUpdate_Ratings": "2023-12-11T08:00:18.9412387+00:00",
+  "LastUpdate_Achievements": "2023-12-11T08:05:47.8139499+00:00"
 }

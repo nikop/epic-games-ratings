@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 588,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1999,9 +1999,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 465
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2280,8 +2280,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-11T07:08:50.7459328+00:00",
+  "LastChanged_Achievements": "2023-12-11T08:09:01.7522672+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-11T06:59:50.148261+00:00",
-  "LastUpdate_Achievements": "2023-12-11T07:08:50.7459658+00:00"
+  "LastUpdate_Ratings": "2023-12-11T07:59:51.2860886+00:00",
+  "LastUpdate_Achievements": "2023-12-11T08:09:01.7523033+00:00"
 }

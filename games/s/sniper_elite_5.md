@@ -40,6 +40,7 @@ Rating: 4.43 (Ranked 696)
 | Herr Today, Gone Tomorrow | 7.00% | ~277 |
 | The Long Game | 6.00% | ~240 |
 | Operation Foxley | 6.00% | ~237 |
+| Strategist | 5.00% | ~200 |
 | Tinkerer | 5.00% | ~200 |
 | It'll Buff Right Out | 5.00% | ~200 |
 | Road Rage | 5.00% | ~200 |
@@ -47,7 +48,6 @@ Rating: 4.43 (Ranked 696)
 | Last Resort | 5.00% | ~198 |
 | Siegebreaker | 5.00% | ~198 |
 | Ghost of Falaise | 5.00% | ~198 |
-| Strategist | 4.00% | ~160 |
 | Locomotion Commotion | 4.00% | ~160 |
 | From Paris with Love | 3.00% | ~120 |
 | Burn after reading | 3.00% | ~120 |

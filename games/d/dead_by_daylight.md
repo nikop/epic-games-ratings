@@ -6,11 +6,11 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~21,742 |
-| It wakes | 2.00% | ~21,742 |
-| Not half bad | 2.00% | ~21,742 |
-| Skillful | 2.00% | ~21,742 |
-| Make Some Noise | 2.00% | ~21,742 |
+| Zealous | 2.00% | ~21,743 |
+| It wakes | 2.00% | ~21,743 |
+| Not half bad | 2.00% | ~21,743 |
+| Skillful | 2.00% | ~21,743 |
+| Make Some Noise | 2.00% | ~21,743 |
 | The Grand Sacrifice | 1.00% | ~10,871 |
 | Backdoor Escape | 1.00% | ~10,871 |
 | No one left behind | 1.00% | ~10,871 |
@@ -46,37 +46,37 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 0.60% | ~6,523 |
 | Flight to Freedom | 0.60% | ~6,523 |
 | Second Act | 0.60% | ~6,523 |
-| Made it out alive! | 0.50% | ~5,435 |
-| Nerves of steel | 0.50% | ~5,435 |
-| Gifts for the Fog | 0.50% | ~5,435 |
-| III-50 | 0.50% | ~5,435 |
-| Item of Obsession | 0.50% | ~5,435 |
-| House of Pain | 0.50% | ~5,435 |
-| Holiday Get-Together | 0.50% | ~5,435 |
-| Near-Death Experience | 0.50% | ~5,435 |
-| Cherish your Life | 0.50% | ~5,435 |
-| Unforgettable Getaway | 0.50% | ~5,435 |
-| Cutting Out | 0.50% | ~5,435 |
-| Old West Oasis | 0.50% | ~5,435 |
-| Classy Act | 0.50% | ~5,435 |
-| Raccoon City Recruit | 0.50% | ~5,435 |
-| Chorus of Chaos | 0.50% | ~5,435 |
-| Blood on your face | 0.40% | ~4,348 |
-| Shock Therapy | 0.40% | ~4,348 |
-| All Aboard | 0.40% | ~4,348 |
-| Leapfrog | 0.40% | ~4,348 |
-| Cottage Owner | 0.40% | ~4,348 |
-| Escaping the Nightmare | 0.40% | ~4,348 |
-| Campbell's Chapel Legacy | 0.40% | ~4,348 |
-| Ancestor's Rite | 0.40% | ~4,348 |
-| Outrun Evil | 0.40% | ~4,348 |
-| Grim Pilgrimage | 0.40% | ~4,348 |
-| Outrun the Overlap | 0.40% | ~4,348 |
-| A Fast Death | 0.40% | ~4,348 |
-| Extraterrestrial | 0.40% | ~4,348 |
-| One More Step | 0.40% | ~4,348 |
-| MU/TH/UR Dearest | 0.40% | ~4,348 |
-| Outta Nowhere | 0.40% | ~4,348 |
+| Made it out alive! | 0.50% | ~5,436 |
+| Nerves of steel | 0.50% | ~5,436 |
+| Gifts for the Fog | 0.50% | ~5,436 |
+| III-50 | 0.50% | ~5,436 |
+| Item of Obsession | 0.50% | ~5,436 |
+| House of Pain | 0.50% | ~5,436 |
+| Holiday Get-Together | 0.50% | ~5,436 |
+| Near-Death Experience | 0.50% | ~5,436 |
+| Cherish your Life | 0.50% | ~5,436 |
+| Unforgettable Getaway | 0.50% | ~5,436 |
+| Cutting Out | 0.50% | ~5,436 |
+| Old West Oasis | 0.50% | ~5,436 |
+| Classy Act | 0.50% | ~5,436 |
+| Raccoon City Recruit | 0.50% | ~5,436 |
+| Chorus of Chaos | 0.50% | ~5,436 |
+| Blood on your face | 0.40% | ~4,349 |
+| Shock Therapy | 0.40% | ~4,349 |
+| All Aboard | 0.40% | ~4,349 |
+| Leapfrog | 0.40% | ~4,349 |
+| Cottage Owner | 0.40% | ~4,349 |
+| Escaping the Nightmare | 0.40% | ~4,349 |
+| Campbell's Chapel Legacy | 0.40% | ~4,349 |
+| Ancestor's Rite | 0.40% | ~4,349 |
+| Outrun Evil | 0.40% | ~4,349 |
+| Grim Pilgrimage | 0.40% | ~4,349 |
+| Outrun the Overlap | 0.40% | ~4,349 |
+| A Fast Death | 0.40% | ~4,349 |
+| Extraterrestrial | 0.40% | ~4,349 |
+| One More Step | 0.40% | ~4,349 |
+| MU/TH/UR Dearest | 0.40% | ~4,349 |
+| Outta Nowhere | 0.40% | ~4,349 |
 | A bite for the Entity | 0.30% | ~3,261 |
 | Jump Scares | 0.30% | ~3,261 |
 | Hemophobia | 0.30% | ~3,261 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,087 |
 | Adept Good Guy | 0.10% | ~1,087 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,087,089 (Ranked 12)  
+Progressed: 1,087,148 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -474,7 +474,7 @@ Completed: 62 (0.01%) (Ranked 348)
 | 2023-12-08 | 1,080,483 | 61 |
 | 2023-12-09 | 1,083,532 | 61 |
 | 2023-12-10 | 1,086,485 | 62 |
-| 2023-12-11 | 1,087,089 | 62 |
+| 2023-12-11 | 1,087,148 | 62 |
 ## Awards
 Max (Diverse Characters): 37,692  (Ranked 15)  
 Sum: 285,591 (Ranked 12)  

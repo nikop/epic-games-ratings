@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.30% | ~1,418 |
+| Until death do us apart | 0.30% | ~1,419 |
 | Brothers in Arms | 0.20% | ~946 |
 | That's a Grand Army | 0.20% | ~946 |
 | That's a Grand Navy | 0.20% | ~946 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,832 (Ranked 41)  
+Progressed: 472,863 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -605,7 +605,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-08 | 471,386 | 1 |
 | 2023-12-09 | 472,114 | 1 |
 | 2023-12-10 | 472,739 | 1 |
-| 2023-12-11 | 472,832 | 1 |
+| 2023-12-11 | 472,863 | 1 |
 ## Awards
 Max (Educational): 7,331  (Ranked 54)  
 Sum: 60,411 (Ranked 24)  

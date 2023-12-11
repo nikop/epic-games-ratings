@@ -9,10 +9,10 @@ Rating: 4.52 (Ranked 562)
 | The Pit and the Pirates | 8.00% | ~1,284 |
 | Bosmang | 8.00% | ~1,284 |
 | Celebrations are in Order | 8.00% | ~1,284 |
-| Martian Music | 7.00% | ~1,123 |
-| Drone Dodger | 7.00% | ~1,123 |
-| Captain Drummer | 7.00% | ~1,123 |
-| Impossible Objects | 7.00% | ~1,123 |
+| Martian Music | 7.00% | ~1,124 |
+| Drone Dodger | 7.00% | ~1,124 |
+| Captain Drummer | 7.00% | ~1,124 |
+| Impossible Objects | 7.00% | ~1,124 |
 | Safe Cracker | 7.00% | ~140 |
 | Zen Master | 7.00% | ~140 |
 | Stogie for Fogey | 6.00% | ~963 |
@@ -26,9 +26,9 @@ Rating: 4.52 (Ranked 562)
 | Thorston Mayer | 4.00% | ~642 |
 | Khan's Revenge | 4.00% | ~642 |
 | Master Negotiator | 4.00% | ~80 |
-| Doctor Approved | 3.00% | ~481 |
-| Bottoms up! | 3.00% | ~481 |
-| Miraculous Maya | 3.00% | ~481 |
+| Doctor Approved | 3.00% | ~482 |
+| Bottoms up! | 3.00% | ~482 |
+| Miraculous Maya | 3.00% | ~482 |
 | Data Logger | 2.00% | ~321 |
 | Data Master | 2.00% | ~321 |
 | Brother's Reaper | 1.00% | ~160 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 562)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,048 (Ranked 152)  
+Progressed: 16,050 (Ranked 152)  
 Completed: 42 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 42 (0.26%) (Ranked 249)
 | 2023-12-08 | 15,988 | 41 |
 | 2023-12-09 | 16,020 | 42 |
 | 2023-12-10 | 16,041 | 42 |
-| 2023-12-11 | 16,048 | 42 |
+| 2023-12-11 | 16,050 | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

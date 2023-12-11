@@ -11,15 +11,15 @@ Number of Ratings: 892  (23.09.2022)
 | Super Spelunker | 136.00% | ~729 |
 | Greeno-B-Gone | 129.00% | ~691 |
 | The Little Wood that Could | 114.00% | ~611 |
-| Your Especially Earned Trajectory | 106.00% | ~568 |
+| Your Especially Earned Trajectory | 107.00% | ~574 |
 | No Mountain Wide Enough | 86.00% | ~461 |
 | One of the Cool Kids | 85.00% | ~456 |
 | Yakmel Whisperer | 81.00% | ~434 |
 | On that Grindset | 79.00% | ~423 |
 | I Do! | 78.00% | ~418 |
 | Diamonds are Forever | 77.00% | ~413 |
+| Can We Keep It? | 76.00% | ~407 |
 | Pack Mule | 75.00% | ~402 |
-| Can We Keep It? | 75.00% | ~402 |
 | First Love | 73.00% | ~391 |
 | Unboxing | 70.00% | ~375 |
 | Elementary, My Dear | 67.00% | ~359 |
@@ -47,7 +47,7 @@ Number of Ratings: 892  (23.09.2022)
 | Got the Flow Back | 51.00% | ~273 |
 | Sepia Toned Memories | 50.00% | ~268 |
 | Who Ya Gonna Call...? | 47.00% | ~252 |
-| Time Flies | 45.00% | ~241 |
+| Time Flies | 46.00% | ~247 |
 | Jewel of the Eufaula | 45.00% | ~241 |
 | Kind of a Big Deal | 44.00% | ~236 |
 | My Time Mansion | 42.00% | ~225 |

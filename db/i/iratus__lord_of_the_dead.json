@@ -2,12 +2,12 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
-  "Ranking_Rating": 781,
+  "Ranking_Rating": 780,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
@@ -2391,7 +2391,7 @@
   ],
   "EOS_Progressed": 46741,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28541,8 +28541,8 @@
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-09T13:01:33.078822+00:00",
-  "LastChanged_Achievements": "2023-12-11T07:04:25.1852181+00:00",
+  "LastChanged_Achievements": "2023-12-11T08:04:20.2724984+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:11.5197894+00:00",
-  "LastUpdate_Ratings": "2023-12-11T07:00:03.0962765+00:00",
-  "LastUpdate_Achievements": "2023-12-11T07:04:25.1853643+00:00"
+  "LastUpdate_Ratings": "2023-12-11T08:00:03.2004958+00:00",
+  "LastUpdate_Achievements": "2023-12-11T08:04:20.2726498+00:00"
 }

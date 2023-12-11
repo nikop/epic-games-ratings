@@ -12,8 +12,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Petrified Necropolis | 3.00% | ~538 |
 | Ominous Presence | 3.00% | ~538 |
 | Gathering Storm | 3.00% | ~538 |
-| Land of Greed | 2.00% | ~358 |
-| Untamed Wilds | 2.00% | ~358 |
+| Land of Greed | 2.00% | ~359 |
+| Untamed Wilds | 2.00% | ~359 |
 | First Real Expedition | 1.00% | ~179 |
 | Overcoming Difficulty | 1.00% | ~179 |
 | Coral Forest | 1.00% | ~179 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,924 (Ranked 147)  
+Progressed: 17,926 (Ranked 147)  
 Completed: 41 (0.23%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 41 (0.23%) (Ranked 253)
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
 | 2023-12-10 | 17,908 | 43 |
-| 2023-12-11 | 17,924 | 41 |
+| 2023-12-11 | 17,926 | 41 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 224)  
 Sum: 3,250 (Ranked 175)  
