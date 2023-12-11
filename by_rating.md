@@ -4,14 +4,14 @@
 | 1 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.96 | 0 | 560 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.95 | 0 | 560 |
 | 4 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 560 |
-| 5 | [Celeste](games/c/celeste.md) | 4.92 | 1,736 | 124 |
+| 5 | [Celeste](games/c/celeste.md) | 4.92 | 1,742 | 124 |
 | 5 | [Hades](games/h/hades.md) | 4.92 | 3,420 | 93 |
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 560 |
 | 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 560 |
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 560 |
 | 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,960 | 113 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 560 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,872 | 41 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,888 | 41 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 560 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 460 | 221 |
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 560 |
@@ -408,7 +408,7 @@
 | 390 | [Operation: Tango](games/o/operation__tango.md) | 4.61 | 0 | 560 |
 | 390 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,733 | 101 |
 | 390 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 110 | 354 |
-| 390 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 598 | 200 |
+| 390 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 599 | 200 |
 | 390 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,545 | 38 |
 | 390 | [RiME](games/r/rime.md) | 4.61 | 0 | 560 |
 | 390 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,101 | 146 |
@@ -421,7 +421,7 @@
 | 390 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.61 | 0 | 560 |
 | 390 | [Warframe](games/w/warframe.md) | 4.61 | 18,962 | 23 |
 | 390 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 608 | 195 |
-| 422 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 15,259 | 25 |
+| 422 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 15,284 | 25 |
 | 422 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 560 |
 | 422 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 5,037 | 74 |
 | 422 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 224 | 281 |
@@ -1046,11 +1046,11 @@
 | 1,044 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 560 |
 | 1,044 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.82 | 95 | 377 |
 | 1,044 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 560 |
+| 1,047 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 3.81 | 0 | 560 |
 | 1,047 | [Spelldrifter](games/s/spelldrifter.md) | 3.81 | 0 | 560 |
 | 1,047 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 0 | 560 |
-| 1,049 | [Saints Row](games/s/saints_row.md) | 3.79 | 1,079 | 147 |
-| 1,050 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.78 | 0 | 560 |
-| 1,051 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 3.77 | 0 | 560 |
+| 1,050 | [Saints Row](games/s/saints_row.md) | 3.79 | 1,079 | 147 |
+| 1,051 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.78 | 0 | 560 |
 | 1,052 | [Blood of Steel](games/b/blood_of_steel.md) | 3.76 | 0 | 560 |
 | 1,053 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.75 | 0 | 560 |
 | 1,053 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.75 | 0 | 560 |

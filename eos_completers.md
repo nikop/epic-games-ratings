@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.31% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.30% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -28,7 +28,7 @@
 | 26 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.52% |
 | 27 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
 | 27 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
-| 29 | [Island Cities](games/i/island_cities.md) | 16.49% |
+| 29 | [Island Cities](games/i/island_cities.md) | 16.61% |
 | 30 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.38% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 31 | [Remains](games/r/remains.md) | 14.29% |
@@ -57,7 +57,7 @@
 | 55 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.67% |
 | 56 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.50% |
 | 57 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.46% |
-| 58 | [Scorn](games/s/scorn.md) | 7.19% |
+| 58 | [Scorn](games/s/scorn.md) | 7.18% |
 | 59 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
 | 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.12% |
 | 61 | [Time Loader](games/t/time_loader.md) | 7.03% |

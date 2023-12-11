@@ -24,7 +24,7 @@
 | 22 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,748 | 4.57 | 481 |
 | 23 | [Warframe](games/w/warframe.md) | 18,962 | 4.61 | 390 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 16,086 | 4.76 | 129 |
-| 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 15,259 | 4.60 | 422 |
+| 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 15,284 | 4.60 | 422 |
 | 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,638 | 4.58 | 452 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 14,109 | 4.60 | 422 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,890 | 4.43 | 696 |
@@ -40,7 +40,7 @@
 | 38 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,545 | 4.61 | 390 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 10,544 | 4.58 | 452 |
 | 40 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,881 | 4.58 | 452 |
-| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,872 | 4.89 | 12 |
+| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,888 | 4.89 | 12 |
 | 42 | [Control](games/c/control.md) | 8,852 | 4.61 | 390 |
 | 43 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,635 | 4.49 | 618 |
 | 44 | [Bloons TD 6](games/b/bloons_td_6.md) | 8,382 | 4.77 | 117 |
@@ -123,7 +123,7 @@
 | 121 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,793 | 4.57 | 481 |
 | 122 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,768 | 4.55 | 514 |
 | 123 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,759 | 4.76 | 129 |
-| 124 | [Celeste](games/c/celeste.md) | 1,736 | 4.92 | 5 |
+| 124 | [Celeste](games/c/celeste.md) | 1,742 | 4.92 | 5 |
 | 125 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 1,709 | 4.49 | 618 |
 | 126 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,685 | 4.62 | 371 |
 | 127 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,594 | 4.79 | 99 |
@@ -146,7 +146,7 @@
 | 144 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,116 | 4.66 | 296 |
 | 145 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,113 | 4.76 | 129 |
 | 146 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,101 | 4.61 | 390 |
-| 147 | [Saints Row](games/s/saints_row.md) | 1,079 | 3.79 | 1,049 |
+| 147 | [Saints Row](games/s/saints_row.md) | 1,079 | 3.79 | 1,050 |
 | 148 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,060 | 4.69 | 233 |
 | 149 | [Torchlight II](games/t/torchlight_ii.md) | 1,058 | 4.59 | 439 |
 | 150 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,057 | 4.40 | 741 |
@@ -199,7 +199,7 @@
 | 196 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 607 | 4.68 | 258 |
 | 198 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 605 | 4.62 | 371 |
 | 198 | [Star Trek Online](games/s/star_trek_online.md) | 605 | 4.44 | 682 |
-| 200 | [Prison Architect](games/p/prison_architect.md) | 598 | 4.61 | 390 |
+| 200 | [Prison Architect](games/p/prison_architect.md) | 599 | 4.61 | 390 |
 | 201 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 583 | 4.67 | 280 |
 | 202 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 582 | 4.40 | 741 |
 | 203 | [Vampyr](games/v/vampyr.md) | 581 | 4.32 | 835 |
