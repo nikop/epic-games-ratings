@@ -432,7 +432,7 @@
 | 421 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.60 | 0 | 560 |
 | 421 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 805 | 174 |
 | 421 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 748 | 181 |
-| 421 | [Returnal™](games/r/returnal™.md) | 4.60 | 99 | 366 |
+| 421 | [Returnal™](games/r/returnal™.md) | 4.60 | 100 | 364 |
 | 421 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.60 | 0 | 560 |
 | 421 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.60 | 82 | 391 |
 | 421 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 521 | 212 |
@@ -527,7 +527,7 @@
 | 513 | [Observation](games/o/observation.md) | 4.55 | 0 | 560 |
 | 513 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 93 | 379 |
 | 513 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.55 | 0 | 560 |
-| 513 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 99 | 366 |
+| 513 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 99 | 367 |
 | 513 | [Tails of Iron](games/t/tails_of_iron.md) | 4.55 | 0 | 560 |
 | 513 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 560 |
 | 513 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 560 |
@@ -827,7 +827,7 @@
 | 824 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 124 | 340 |
 | 824 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 0 | 560 |
 | 824 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.33 | 0 | 560 |
-| 824 | [Filament](games/f/filament.md) | 4.33 | 577 | 204 |
+| 824 | [Filament](games/f/filament.md) | 4.33 | 578 | 204 |
 | 824 | [House Party](games/h/house_party.md) | 4.33 | 0 | 560 |
 | 824 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 560 |
 | 824 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 502 |
@@ -899,7 +899,7 @@
 | 896 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 485 |
 | 896 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 560 |
 | 896 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,157 | 143 |
-| 896 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 836 | 172 |
+| 896 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 839 | 172 |
 | 896 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.24 | 0 | 560 |
 | 896 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 560 |
 | 896 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 447 |
@@ -935,7 +935,6 @@
 | 925 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 78 | 395 |
 | 925 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.20 | 65 | 411 |
 | 935 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 441 |
-| 935 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.19 | 0 | 560 |
 | 935 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.19 | 28 | 508 |
 | 935 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 0 | 560 |
 | 935 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.19 | 42 | 458 |
@@ -943,11 +942,12 @@
 | 935 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 85 | 388 |
 | 935 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 560 |
 | 935 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 560 |
-| 944 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.18 | 0 | 560 |
-| 944 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 560 |
-| 944 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 3,003 | 98 |
-| 944 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 214,239 | 5 |
-| 944 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 375 |
+| 943 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.18 | 0 | 560 |
+| 943 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.18 | 0 | 560 |
+| 943 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 560 |
+| 943 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 3,003 | 98 |
+| 943 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 214,239 | 5 |
+| 943 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 375 |
 | 949 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.17 | 0 | 560 |
 | 949 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 97 | 371 |
 | 949 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 560 |

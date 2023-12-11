@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 652,995 | 4.47 | 644 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 318,430 | 4.68 | 258 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 272,412 | 4.68 | 258 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 214,239 | 4.18 | 944 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 214,239 | 4.18 | 943 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 207,656 | 4.88 | 16 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 152,963 | 4.51 | 575 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 122,174 | 4.69 | 232 |
@@ -97,7 +97,7 @@
 | 95 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,393 | 4.68 | 258 |
 | 96 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,384 | 4.57 | 479 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,132 | 4.51 | 575 |
-| 98 | [Gotham Knights](games/g/gotham_knights.md) | 3,003 | 4.18 | 944 |
+| 98 | [Gotham Knights](games/g/gotham_knights.md) | 3,003 | 4.18 | 943 |
 | 99 | [Among Us](games/a/among_us.md) | 2,910 | 4.57 | 479 |
 | 100 | [RAGE 2](games/r/rage_2.md) | 2,795 | 4.27 | 871 |
 | 101 | [Path of Exile](games/p/path_of_exile.md) | 2,733 | 4.61 | 389 |
@@ -171,7 +171,7 @@
 | 169 | [Auto Chess](games/a/auto_chess.md) | 854 | 4.51 | 575 |
 | 170 | [Riders Republic](games/r/riders_republic.md) | 851 | 4.75 | 145 |
 | 171 | [Frostpunk](games/f/frostpunk.md) | 843 | 4.74 | 161 |
-| 172 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 836 | 4.24 | 896 |
+| 172 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 839 | 4.24 | 896 |
 | 173 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 826 | 4.79 | 98 |
 | 174 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 805 | 4.60 | 421 |
 | 175 | [Neverwinter](games/n/neverwinter.md) | 778 | 4.30 | 849 |
@@ -203,7 +203,7 @@
 | 201 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 583 | 4.67 | 279 |
 | 202 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 582 | 4.40 | 741 |
 | 203 | [Vampyr](games/v/vampyr.md) | 581 | 4.32 | 834 |
-| 204 | [Filament](games/f/filament.md) | 577 | 4.33 | 824 |
+| 204 | [Filament](games/f/filament.md) | 578 | 4.33 | 824 |
 | 205 | [Brawlhalla](games/b/brawlhalla.md) | 569 | 4.60 | 421 |
 | 206 | [Godfall Ultimate Edition](games/g/godfall.md) | 567 | 4.07 | 989 |
 | 207 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 559 | 3.95 | 1,023 |
@@ -365,8 +365,8 @@
 | 362 | [SYNCED](games/s/synced.md) | 103 | 4.16 | 952 |
 | 364 | [Armored Warfare](games/a/armored_warfare.md) | 100 | 4.10 | 976 |
 | 364 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 100 | 4.49 | 616 |
-| 366 | [Returnal™](games/r/returnal™.md) | 99 | 4.60 | 421 |
-| 366 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 99 | 4.55 | 513 |
+| 364 | [Returnal™](games/r/returnal™.md) | 100 | 4.60 | 421 |
+| 367 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 99 | 4.55 | 513 |
 | 368 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 98 | 4.86 | 32 |
 | 368 | [The Captain](games/t/the_captain.md) | 98 | 4.44 | 681 |
 | 368 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 98 | 4.82 | 67 |
@@ -375,7 +375,7 @@
 | 371 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 97 | 4.54 | 535 |
 | 371 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 97 | 4.38 | 768 |
 | 375 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 96 | 4.41 | 725 |
-| 375 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 944 |
+| 375 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 943 |
 | 377 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 95 | 3.82 | 1,043 |
 | 377 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 95 | 4.69 | 232 |
 | 379 | [RAILGRADE](games/r/railgrade.md) | 93 | 4.55 | 513 |
