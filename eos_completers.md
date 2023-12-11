@@ -9,7 +9,7 @@
 | 7 | [greensheen Production](games/g/greensheen_production.md) | 46.67% |
 | 8 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.53% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.67% |
-| 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.44% |
+| 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.26% |
 | 11 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 33.33% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 28.95% |
@@ -111,7 +111,7 @@
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 110 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.91% |
-| 112 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.81% |
+| 112 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.80% |
 | 113 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 113 | [Night Book](games/n/night_book.md) | 2.78% |
 | 115 | [Dungeons 4](games/d/dungeons_4.md) | 2.76% |
@@ -222,8 +222,8 @@
 | 219 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.43% |
 | 219 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
 | 219 | [Tchia](games/t/tchia.md) | 0.43% |
-| 223 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.40% |
-| 223 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.40% |
+| 223 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.41% |
+| 224 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.40% |
 | 225 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
 | 225 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 225 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.39% |
