@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -869,7 +869,7 @@
   ],
   "EOS_Progressed": 2331,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4496,9 +4496,9 @@
       "ID": "TLOTF_ACHIEVEMENT_004",
       "SetID": "87e61g",
       "Name": "Weapon Collector",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_005",
@@ -4528,41 +4528,41 @@
       "ID": "TLOTF_ACHIEVEMENT_008",
       "SetID": "87e61g",
       "Name": "Ammunition Collector",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_009",
       "SetID": "87e61g",
       "Name": "Inferno Adept",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_010",
       "SetID": "87e61g",
       "Name": "Radiant Adept",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_011",
       "SetID": "87e61g",
       "Name": "Umbral Adept",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_012",
       "SetID": "87e61g",
       "Name": "Throwable Collector",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_013",
@@ -4985,8 +4985,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-10T15:57:17.5036695+00:00",
-  "LastChanged_Achievements": "2023-12-11T12:06:13.3299643+00:00",
+  "LastChanged_Achievements": "2023-12-11T13:15:44.5490569+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:58.7777436+00:00",
-  "LastUpdate_Ratings": "2023-12-11T11:57:20.9618859+00:00",
-  "LastUpdate_Achievements": "2023-12-11T12:06:13.330038+00:00"
+  "LastUpdate_Ratings": "2023-12-11T13:05:12.7464376+00:00",
+  "LastUpdate_Achievements": "2023-12-11T13:15:44.5491319+00:00"
 }

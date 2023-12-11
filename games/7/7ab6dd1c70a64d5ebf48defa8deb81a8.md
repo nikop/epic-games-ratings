@@ -26,22 +26,22 @@
 | The Mentor | 6.00% | ~16 |
 | Alchemist | 6.00% | ~16 |
 | Fine Feathers Make Fine Birds | 5.00% | ~13 |
-| Clear Sight | 4.00% | ~10 |
-| Airborne | 4.00% | ~10 |
+| Clear Sight | 4.00% | ~11 |
+| Airborne | 4.00% | ~11 |
 | Shatterer | 3.00% | ~8 |
 | Miner | 3.00% | ~8 |
+| A Queen's Tale | 3.00% | ~8 |
 | Slayer | 2.00% | ~5 |
 | Flawless Victory | 2.00% | ~5 |
 | All There Is | 2.00% | ~5 |
 | False God | 2.00% | ~5 |
 | All That Gold | 2.00% | ~5 |
-| A Queen's Tale | 2.00% | ~5 |
 | Summiter | 2.00% | ~5 |
 | Forgemaster | 1.00% | ~3 |
 | Shardbearer | 0.80% | ~2 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262 (Ranked 373)  
+Progressed: 263 (Ranked 373)  
 Completed: 2 (0.76%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,3 +101,4 @@ Completed: 2 (0.76%) (Ranked 185)
 | 2023-12-08 | 252 | 2 |
 | 2023-12-09 | 256 | 2 |
 | 2023-12-10 | 262 | 2 |
+| 2023-12-11 | 263 | 2 |

@@ -24,9 +24,9 @@ Rating: 4.57 (Ranked 481)
 | Rhythm Of Willump | 47.00% | ~523 |
 | A Tragic Reminder | 46.00% | ~512 |
 | 3000 Year Blackout | 46.00% | ~512 |
+| The Finisher | 44.00% | ~490 |
 | So Close | 43.00% | ~479 |
 | You Get Used To It | 43.00% | ~479 |
-| The Finisher | 43.00% | ~479 |
 | Family | 40.00% | ~445 |
 | Biggest Snowball Ever | 40.00% | ~445 |
 | Freeze The Ice Witch | 40.00% | ~445 |

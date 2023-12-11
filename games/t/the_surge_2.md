@@ -8,8 +8,8 @@ Rating: 4.25 (Ranked 891)
 | Rigged And Ready | 80.00% | ~1,778 |
 | Don't I Know You...? | 77.00% | ~1,712 |
 | Jailbreak | 66.00% | ~1,467 |
+| HEADSHOT! | 39.00% | ~867 |
 | Suited and Booted | 39.00% | ~867 |
-| HEADSHOT! | 38.00% | ~845 |
 | Sleeping With The Fishes | 36.00% | ~800 |
 | Overheated | 31.00% | ~689 |
 | High Performance | 31.00% | ~689 |
@@ -19,8 +19,8 @@ Rating: 4.25 (Ranked 891)
 | Luminary | 23.00% | ~511 |
 | True Survivor | 22.00% | ~489 |
 | It's a Trap | 22.00% | ~489 |
+| Offensive Defense | 21.00% | ~467 |
 | Shocking | 21.00% | ~467 |
-| Offensive Defense | 20.00% | ~445 |
 | Unforeseeable Consequences | 20.00% | ~445 |
 | Court Martial | 19.00% | ~422 |
 | Clean Cut | 19.00% | ~422 |

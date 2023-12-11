@@ -6,21 +6,21 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,857 |
+| Blacksmith's Son | 32.00% | ~259,858 |
 | Cavalier | 25.00% | ~203,014 |
-| Fatso | 23.00% | ~186,772 |
-| Awakening | 21.00% | ~170,531 |
+| Fatso | 23.00% | ~186,773 |
+| Awakening | 21.00% | ~170,532 |
 | Ranger | 20.00% | ~162,411 |
 | Scrooge | 20.00% | ~162,411 |
 | Anorectic | 16.00% | ~129,929 |
 | Firestarter | 16.00% | ~129,929 |
-| Bookworm | 15.00% | ~121,808 |
+| Bookworm | 15.00% | ~121,809 |
 | Insomniac | 13.00% | ~105,567 |
-| Buddy | 12.00% | ~97,446 |
-| Thief | 12.00% | ~97,446 |
+| Buddy | 12.00% | ~97,447 |
+| Thief | 12.00% | ~97,447 |
 | Sinner | 11.00% | ~89,326 |
 | Traveller | 11.00% | ~89,326 |
-| Convict | 10.00% | ~81,205 |
+| Convict | 10.00% | ~81,206 |
 | Haggler | 9.00% | ~73,085 |
 | McLovin | 7.00% | ~56,844 |
 | Runt | 7.00% | ~56,844 |
@@ -51,8 +51,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~8,121 |
 | Master Huntsman | 1.00% | ~8,121 |
 | Stealth Killer | 1.00% | ~8,121 |
-| Bailiff | 0.90% | ~7,308 |
-| Tracker | 0.90% | ~7,308 |
+| Bailiff | 0.90% | ~7,309 |
+| Tracker | 0.90% | ~7,309 |
 | David Horak | 0.80% | ~6,496 |
 | Fighter | 0.70% | ~5,684 |
 | Mercenary's Honour | 0.70% | ~5,684 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~812 |
 | Wingman | 0.10% | ~812 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 812,054 (Ranked 17)  
+Progressed: 812,057 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 52 (0.01%) (Ranked 348)
 | 2023-12-08 | 811,655 | 52 |
 | 2023-12-09 | 811,832 | 52 |
 | 2023-12-10 | 812,001 | 52 |
-| 2023-12-11 | 812,054 | 52 |
+| 2023-12-11 | 812,057 | 52 |
 ## Awards
 Max (Character Customization): 7,662  (Ranked 51)  
 Sum: 28,467 (Ranked 49)  

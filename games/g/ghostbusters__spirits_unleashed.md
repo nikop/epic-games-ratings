@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 598)  
+Rating: 4.50 (Ranked 599)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -49,7 +49,7 @@ Rating: 4.50 (Ranked 598)
 | Therapeutic | 0.80% | ~257 |
 | Rift Seeker | 0.60% | ~193 |
 | Master Collector | 0.50% | ~161 |
-| Ghost Expert | 0.30% | ~96 |
+| Ghost Expert | 0.30% | ~97 |
 | Catostrophic Destroyer | 0.20% | ~64 |
 | I don't need these | 0.20% | ~64 |
 | Little Help Here | 0.20% | ~64 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 598)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,166 (Ranked 125)  
+Progressed: 32,168 (Ranked 125)  
 Completed: 69 (0.21%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 69 (0.21%) (Ranked 256)
 | 2023-12-08 | 32,068 | 69 |
 | 2023-12-09 | 32,106 | 69 |
 | 2023-12-10 | 32,151 | 69 |
-| 2023-12-11 | 32,166 | 69 |
+| 2023-12-11 | 32,168 | 69 |
 ## Awards
 Max (Great for Beginners): 321  (Ranked 251)  
 Sum: 2,896 (Ranked 180)  

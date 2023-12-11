@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3441,
+  "EOS_Progressed": 3444,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5261,6 +5261,11 @@
       "Time": "2023-12-11T11:04:22.2818426+00:00",
       "NumProgressed": 3441,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-11T13:12:05.3802035+00:00",
+      "NumProgressed": 3444,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5304,7 +5309,7 @@
       "Name": "The will to move on",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "REUNION",
@@ -5336,7 +5341,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -5344,7 +5349,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "THE_END",
@@ -5352,7 +5357,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "TRANSMISSION",
@@ -5375,7 +5380,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3441,
+      "Progressed": 3444,
       "Completed": 6
     }
   ],
@@ -5383,8 +5388,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-11T12:04:06.3928731+00:00",
+  "LastChanged_Achievements": "2023-12-11T13:12:05.3802031+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:18.0649883+00:00",
-  "LastUpdate_Ratings": "2023-12-11T11:58:07.5988584+00:00",
-  "LastUpdate_Achievements": "2023-12-11T12:04:06.3929142+00:00"
+  "LastUpdate_Ratings": "2023-12-11T13:06:00.4357291+00:00",
+  "LastUpdate_Achievements": "2023-12-11T13:12:05.3802441+00:00"
 }

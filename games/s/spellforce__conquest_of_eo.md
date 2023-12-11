@@ -35,6 +35,7 @@
 | Friend of Orgash | 14.00% | ~6 |
 | Friend of Silver Drift Hollow | 14.00% | ~6 |
 | Defeat Gor | 12.00% | ~5 |
+| Lore's Tale | 12.00% | ~5 |
 | Yngrid's Tale | 12.00% | ~5 |
 | The Forge of Regan Gor | 12.00% | ~5 |
 | Silver Drift Hollow Mine | 12.00% | ~5 |
@@ -47,7 +48,6 @@
 | Defeat Undergast | 10.00% | ~4 |
 | Defeat Uram | 10.00% | ~4 |
 | Elynn's Tale | 10.00% | ~4 |
-| Lore's Tale | 10.00% | ~4 |
 | Mage Teacher | 10.00% | ~4 |
 | Get to the Airship! | 7.00% | ~3 |
 | Defeat Ianna | 7.00% | ~3 |

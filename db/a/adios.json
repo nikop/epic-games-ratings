@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80335,
+  "EOS_Progressed": 80337,
   "EOS_Completed": 871,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -26308,6 +26308,11 @@
       "Time": "2023-12-11T12:05:09.5941458+00:00",
       "NumProgressed": 80335,
       "NumCompleted": 871
+    },
+    {
+      "Time": "2023-12-11T13:13:09.8407209+00:00",
+      "NumProgressed": 80337,
+      "NumCompleted": 871
     }
   ],
   "TotalAchievements": 25,
@@ -26359,7 +26364,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14460
+      "UsersEstimate": 14461
     },
     {
       "ID": "Butcher",
@@ -26423,7 +26428,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16870
+      "UsersEstimate": 16871
     },
     {
       "ID": "Meaty",
@@ -26455,7 +26460,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5623
+      "UsersEstimate": 5624
     },
     {
       "ID": "Piano Man",
@@ -26479,7 +26484,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5623
+      "UsersEstimate": 5624
     },
     {
       "ID": "Spicy",
@@ -26518,7 +26523,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80335,
+      "Progressed": 80337,
       "Completed": 871
     }
   ],
@@ -26526,8 +26531,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-11T12:05:09.5941455+00:00",
+  "LastChanged_Achievements": "2023-12-11T13:13:09.8407206+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:29.3194806+00:00",
-  "LastUpdate_Ratings": "2023-12-11T11:58:32.3375907+00:00",
-  "LastUpdate_Achievements": "2023-12-11T12:05:09.5943152+00:00"
+  "LastUpdate_Ratings": "2023-12-11T13:06:25.5506082+00:00",
+  "LastUpdate_Achievements": "2023-12-11T13:13:09.8408669+00:00"
 }

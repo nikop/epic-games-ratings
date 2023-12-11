@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -3474,17 +3474,17 @@
       "ID": "ACHV_22",
       "SetID": "8p5mlmc",
       "Name": "Offensive Defense",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHV_23",
       "SetID": "8p5mlmc",
       "Name": "HEADSHOT!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 845
+      "UsersEstimate": 867
     },
     {
       "ID": "ACHV_24",
@@ -3771,8 +3771,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-12-11T12:04:15.3283179+00:00",
+  "LastChanged_Achievements": "2023-12-11T13:12:14.388194+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:57.0176831+00:00",
-  "LastUpdate_Ratings": "2023-12-11T11:58:14.8100928+00:00",
-  "LastUpdate_Achievements": "2023-12-11T12:04:15.3283796+00:00"
+  "LastUpdate_Ratings": "2023-12-11T13:06:07.2475572+00:00",
+  "LastUpdate_Achievements": "2023-12-11T13:12:14.388273+00:00"
 }

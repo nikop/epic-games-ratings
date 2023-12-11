@@ -3,12 +3,12 @@
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
   "Ranking_Rating": 855,
-  "Ranking_Popularity": 380,
+  "Ranking_Popularity": 381,
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -495,7 +495,7 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 254391,
+  "EOS_Progressed": 254395,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 0,
@@ -26770,6 +26770,11 @@
       "Time": "2023-12-11T12:03:14.5062872+00:00",
       "NumProgressed": 254391,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-11T13:11:11.8697138+00:00",
+      "NumProgressed": 254395,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -26781,7 +26786,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68686
+      "UsersEstimate": 68687
     },
     {
       "ID": "ACH_AON",
@@ -26861,7 +26866,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22895
+      "UsersEstimate": 22896
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -26925,7 +26930,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73773
+      "UsersEstimate": 73775
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -26997,7 +27002,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63598
+      "UsersEstimate": 63599
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -27053,7 +27058,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17807
+      "UsersEstimate": 17808
     },
     {
       "ID": "ACH_MEMESMART",
@@ -27061,7 +27066,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15263
+      "UsersEstimate": 15264
     },
     {
       "ID": "ACH_MEMORY5",
@@ -27085,7 +27090,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20351
+      "UsersEstimate": 20352
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -27093,7 +27098,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20351
+      "UsersEstimate": 20352
     },
     {
       "ID": "ACH_SCRATCH",
@@ -27101,7 +27106,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63598
+      "UsersEstimate": 63599
     },
     {
       "ID": "ACH_SOREAD",
@@ -27149,7 +27154,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15263
+      "UsersEstimate": 15264
     },
     {
       "ID": "ACH_TROLLKING",
@@ -27165,7 +27170,7 @@
       "Name": "Valedictorian",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15263
+      "UsersEstimate": 15264
     },
     {
       "ID": "ACH_WAKEUP",
@@ -27173,7 +27178,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20351
+      "UsersEstimate": 20352
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -27196,7 +27201,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 254391,
+      "Progressed": 254395,
       "Completed": 7
     }
   ],
@@ -27204,8 +27209,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-11T12:03:14.5062868+00:00",
+  "LastChanged_Achievements": "2023-12-11T13:11:11.8697134+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:18.8009639+00:00",
-  "LastUpdate_Ratings": "2023-12-11T12:00:15.3165106+00:00",
-  "LastUpdate_Achievements": "2023-12-11T12:03:14.5064173+00:00"
+  "LastUpdate_Ratings": "2023-12-11T13:10:21.54372+00:00",
+  "LastUpdate_Achievements": "2023-12-11T13:11:11.8698501+00:00"
 }

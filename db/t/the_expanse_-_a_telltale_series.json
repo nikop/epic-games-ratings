@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 563,
+  "Ranking_Rating": 564,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 152,
@@ -271,7 +271,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16052,
+  "EOS_Progressed": 16053,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 2,
@@ -13581,6 +13581,11 @@
       "Time": "2023-12-11T11:05:00.7236699+00:00",
       "NumProgressed": 16052,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-11T13:12:44.4361851+00:00",
+      "NumProgressed": 16053,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13872,13 +13877,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16052,
+      "Progressed": 16053,
       "Completed": 42
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2006,
+      "Progressed": 2007,
       "Completed": 862
     }
   ],
@@ -13886,8 +13891,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-10T17:59:24.4089771+00:00",
-  "LastChanged_Achievements": "2023-12-11T12:04:44.5450367+00:00",
+  "LastChanged_Achievements": "2023-12-11T13:12:44.4361847+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-11T11:59:18.6097856+00:00",
-  "LastUpdate_Achievements": "2023-12-11T12:04:44.5451325+00:00"
+  "LastUpdate_Ratings": "2023-12-11T13:07:14.0437417+00:00",
+  "LastUpdate_Achievements": "2023-12-11T13:12:44.4362888+00:00"
 }

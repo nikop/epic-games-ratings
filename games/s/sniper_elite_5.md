@@ -6,7 +6,7 @@ Rating: 4.43 (Ranked 696)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,880 |
-| Confirming Suspicions | 42.00% | ~1,680 |
+| Confirming Suspicions | 41.00% | ~1,640 |
 | The Kraken Wakes | 37.00% | ~1,480 |
 | It's Starting to Crack | 34.00% | ~1,360 |
 | Lord of War | 31.00% | ~1,240 |
@@ -38,9 +38,9 @@ Rating: 4.43 (Ranked 696)
 | My Little Friend | 10.00% | ~400 |
 | Rigged to Blow | 9.00% | ~360 |
 | Herr Today, Gone Tomorrow | 7.00% | ~277 |
-| The Long Game | 6.00% | ~240 |
 | Operation Foxley | 6.00% | ~237 |
 | Strategist | 5.00% | ~200 |
+| The Long Game | 5.00% | ~200 |
 | Tinkerer | 5.00% | ~200 |
 | It'll Buff Right Out | 5.00% | ~200 |
 | Road Rage | 5.00% | ~200 |
@@ -72,12 +72,12 @@ Rating: 4.43 (Ranked 696)
 | Das Familienjuwel | 1.00% | ~40 |
 | Master of Rifles | 0.90% | ~36 |
 | Master of Pistols | 0.80% | ~32 |
-| Operation Overlord | 0.80% | ~32 |
-| Master-at-arms | 0.70% | ~28 |
+| Operation Overlord | 0.70% | ~28 |
+| Master-at-arms | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,000 (Ranked 199)  
+Progressed: 4,001 (Ranked 199)  
 Completed: 11 (0.27%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 11 (0.27%) (Ranked 247)
 | 2023-12-08 | 3,991 | 11 |
 | 2023-12-09 | 3,996 | 11 |
 | 2023-12-10 | 3,999 | 11 |
-| 2023-12-11 | 4,000 | 11 |
+| 2023-12-11 | 4,001 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 508)  
 Sum: 28 (Ranked 524)  

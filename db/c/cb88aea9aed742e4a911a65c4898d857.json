@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 42,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -33,9 +33,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2078,
+  "EOS_Progressed": 2104,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2076,
+  "EOS_NewPlayers": 2102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -513,6 +513,11 @@
       "Time": "2023-12-11T12:08:46.0179379+00:00",
       "NumProgressed": 2078,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T13:16:37.0993353+00:00",
+      "NumProgressed": 2104,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -523,9 +528,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1052
     },
     {
       "ID": "03_TheStolenStar",
@@ -533,7 +538,7 @@
       "Name": "Stolen Star",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 231
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -629,7 +634,7 @@
       "Name": "Pentakill",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "16_TheRise",
@@ -637,7 +642,7 @@
       "Name": "The Rise",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 231
     },
     {
       "ID": "17_TheExemplar",
@@ -653,7 +658,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 231
     },
     {
       "ID": "19_TheVoidWolf",
@@ -685,7 +690,7 @@
       "Name": "Perfect Timing",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 147
     },
     {
       "ID": "23_DynastyRestored",
@@ -693,7 +698,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "24_TheHighrise",
@@ -733,15 +738,15 @@
       "Name": "Light of the Astronomican",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 956
+      "UsersEstimate": 989
     },
     {
       "ID": "30_The GreatestExploration",
@@ -757,7 +762,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "32_AviationSaviour",
@@ -773,7 +778,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 274
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -837,15 +842,15 @@
       "Name": "Jungle Heat",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "42_TheIronJudgement",
       "SetID": "37a94m8",
       "Name": "Iron Judgement",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -853,7 +858,7 @@
       "Name": "No Place Like Home",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -877,7 +882,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 337
     },
     {
       "ID": "47_AFlame",
@@ -939,9 +944,9 @@
       "ID": "54_ThisIsAJobForLordCaptain",
       "SetID": "37a94m8",
       "Name": "This Is a Job for the Lord Captain!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -1044,7 +1049,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 2078,
+      "Progressed": 2104,
       "Completed": 0
     }
   ],
@@ -1052,8 +1057,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-11T06:59:42.8971748+00:00",
-  "LastChanged_Achievements": "2023-12-11T12:08:46.0179375+00:00",
+  "LastChanged_Achievements": "2023-12-11T13:16:37.0993348+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-11T11:59:24.9017031+00:00",
-  "LastUpdate_Achievements": "2023-12-11T12:08:46.0179827+00:00"
+  "LastUpdate_Ratings": "2023-12-11T13:07:20.2098016+00:00",
+  "LastUpdate_Achievements": "2023-12-11T13:16:37.0993831+00:00"
 }

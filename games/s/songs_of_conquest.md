@@ -15,9 +15,9 @@ Number of Ratings: 292  (23.09.2022)
 | Sorcerous Spree | 6.00% | ~25 |
 | Veni, Vidi, Vici | 6.00% | ~25 |
 | Multi Kill | 5.00% | ~21 |
+| Master | 5.00% | ~21 |
 | Whoops! | 4.00% | ~17 |
 | Landlord Extraordinaire | 4.00% | ~17 |
-| Master | 4.00% | ~17 |
 | Expert Essence Employment | 4.00% | ~17 |
 | Trojan Horse | 3.00% | ~13 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~13 |

@@ -10,9 +10,9 @@
 | The woodcutter | 6.00% | ~25 |
 | It is nice to share with friends in the city | 6.00% | ~25 |
 | Sport is good for you | 6.00% | ~25 |
-| I like books | 5.00% | ~20 |
-| I like my life | 5.00% | ~20 |
-| Soviet town | 5.00% | ~20 |
+| I like books | 5.00% | ~21 |
+| I like my life | 5.00% | ~21 |
+| Soviet town | 5.00% | ~21 |
 | Clean energy | 4.00% | ~16 |
 | Bucolic city | 4.00% | ~16 |
 | I love books! | 2.00% | ~8 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 410 (Ranked 334)  
+Progressed: 411 (Ranked 334)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 406 | 0 |
 | 2023-12-09 | 407 | 0 |
 | 2023-12-10 | 409 | 0 |
-| 2023-12-11 | 410 | 0 |
+| 2023-12-11 | 411 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

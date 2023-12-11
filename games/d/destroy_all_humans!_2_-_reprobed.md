@@ -10,7 +10,7 @@ Number of Ratings: 90  (23.09.2022)
 | Rock of the Bay | 41.00% | ~14 |
 | Furon Fashion | 32.00% | ~11 |
 | Ducks in a Row, Fish in a Barrel | 32.00% | ~11 |
-| Shop Til They Drop | 24.00% | ~8 |
+| Shop Til They Drop | 26.00% | ~9 |
 | Upgreatest | 21.00% | ~7 |
 | Earthly Pleasures | 18.00% | ~6 |
 | I Look Up As I Walk to Takoshima | 15.00% | ~5 |

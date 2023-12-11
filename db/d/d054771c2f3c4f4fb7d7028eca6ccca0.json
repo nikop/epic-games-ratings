@@ -4,8 +4,8 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1665,
+  "EOS_Progressed": 1666,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1264,6 +1264,11 @@
       "Time": "2023-12-11T12:04:41.5280029+00:00",
       "NumProgressed": 1665,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T13:12:41.4059357+00:00",
+      "NumProgressed": 1666,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1314,9 +1319,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "c167foo",
       "Name": "Monster Power",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -1460,7 +1465,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1476,7 +1481,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1602,9 +1607,9 @@
       "ID": "ACHIEVEMENT_50",
       "SetID": "c167foo",
       "Name": "Skill Check Master",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_51",
@@ -1651,14 +1656,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1665,
+      "Progressed": 1666,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-11T12:04:41.5280026+00:00",
+  "LastChanged_Achievements": "2023-12-11T13:12:41.4059354+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-11T11:59:55.8609403+00:00",
-  "LastUpdate_Achievements": "2023-12-11T12:04:41.5280436+00:00"
+  "LastUpdate_Ratings": "2023-12-11T13:07:51.7336889+00:00",
+  "LastUpdate_Achievements": "2023-12-11T13:12:41.4059766+00:00"
 }
