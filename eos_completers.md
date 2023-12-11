@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.39% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.38% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -109,7 +109,7 @@
 | 107 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.94% |
 | 107 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 109 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 110 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.92% |
+| 110 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.91% |
 | 111 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 111 | [Night Book](games/n/night_book.md) | 2.78% |
 | 113 | [Dungeons 4](games/d/dungeons_4.md) | 2.76% |
@@ -214,7 +214,7 @@
 | 212 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.48% |
 | 212 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
 | 214 | [Eternights](games/e/eternights.md) | 0.47% |
-| 215 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.46% |
+| 214 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.47% |
 | 216 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 216 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.45% |
 | 218 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.44% |
@@ -246,8 +246,8 @@
 | 242 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 245 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.28% |
 | 245 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
-| 245 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
-| 248 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.27% |
+| 247 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.27% |
+| 247 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
 | 249 | [Filament](games/f/filament.md) | 0.26% |
 | 249 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.26% |
 | 251 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
