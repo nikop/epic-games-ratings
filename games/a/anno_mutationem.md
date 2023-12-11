@@ -1,28 +1,28 @@
 # ANNO Mutationem
 [Store](https://store.epicgames.com/en-US/p/anno-mutationem-ef8b9e)  
 [View Rawdata](../../db/a/anno_mutationem.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.54 (Ranked 533)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~580 |
-| Don't judge a manhole by its cover | 60.00% | ~464 |
-| I just love stuff! | 42.00% | ~325 |
-| Keep 'em coming! | 42.00% | ~325 |
+| Tell me your story | 75.00% | ~581 |
+| Don't judge a manhole by its cover | 60.00% | ~465 |
+| I just love stuff! | 42.00% | ~326 |
+| Keep 'em coming! | 42.00% | ~326 |
 | The things they print nowadays | 39.00% | ~302 |
 | Big Spender | 38.00% | ~294 |
 | That's gotta hurt | 36.00% | ~279 |
-| I think it's broke | 26.00% | ~201 |
-| The Ann Flores Combo Experience | 26.00% | ~201 |
+| I think it's broke | 26.00% | ~202 |
+| The Ann Flores Combo Experience | 26.00% | ~202 |
 | Club Star | 25.00% | ~194 |
 | Fire in the hole! | 21.00% | ~163 |
-| Omnipotence | 20.00% | ~155 |
-| The Warlord | 20.00% | ~155 |
+| Omnipotence | 19.00% | ~147 |
+| The Warlord | 19.00% | ~147 |
 | You are the One | 19.00% | ~147 |
-| Deadly Kombationem | 18.00% | ~139 |
+| Deadly Kombationem | 18.00% | ~140 |
 | The truth is out there | 16.00% | ~124 |
 | Annakin Skyscroller | 13.00% | ~101 |
-| In the smacker...I think | 10.00% | ~77 |
+| In the smacker...I think | 10.00% | ~78 |
 | Arm Wrestlin' | 9.00% | ~70 |
 | 1+1>2 | 9.00% | ~70 |
 | This can't be right… | 8.00% | ~62 |
@@ -37,12 +37,12 @@ Rating: 4.54 (Ranked 534)
 | Woman on a (side) mission | 4.00% | ~31 |
 | Ann ULTRA | 3.00% | ~23 |
 | Lady Luck is a cool cat | 3.00% | ~23 |
-| SERENITY NOW | 2.00% | ~15 |
-| I just got real good | 2.00% | ~15 |
+| SERENITY NOW | 2.00% | ~16 |
+| I just got real good | 2.00% | ~16 |
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 774 (Ranked 285)  
+Progressed: 775 (Ranked 285)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 768 | 0 |
 | 2023-12-09 | 772 | 0 |
 | 2023-12-10 | 774 | 0 |
+| 2023-12-11 | 775 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

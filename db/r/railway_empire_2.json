@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -6763,9 +6763,9 @@
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 757
+      "UsersEstimate": 781
     },
     {
       "ID": "A16",
@@ -7092,8 +7092,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-11T15:04:27.803603+00:00",
+  "LastChanged_Achievements": "2023-12-11T16:03:41.5909581+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:15.8149041+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:02:01.0430589+00:00",
-  "LastUpdate_Achievements": "2023-12-11T15:04:27.8036974+00:00"
+  "LastUpdate_Ratings": "2023-12-11T16:02:30.5424969+00:00",
+  "LastUpdate_Achievements": "2023-12-11T16:03:41.5910135+00:00"
 }

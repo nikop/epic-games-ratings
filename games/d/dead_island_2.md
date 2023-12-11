@@ -1,31 +1,31 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.54 (Ranked 533)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,999 |
-| Whatever It Takes | 3.00% | ~1,766 |
-| Pork Chopped | 3.00% | ~1,766 |
-| Dr. Reed, I Presume? | 2.00% | ~14,666 |
-| Git Gutte! | 2.00% | ~14,666 |
-| Anger Management | 2.00% | ~14,666 |
-| Bookworm | 2.00% | ~14,666 |
-| Break A Leg | 2.00% | ~14,666 |
-| But Doctor, I am Butcho | 2.00% | ~14,666 |
-| Can't Handle the Truth | 2.00% | ~14,666 |
-| Coup de Grâce | 2.00% | ~14,666 |
-| Like Riding a Bike | 2.00% | ~14,666 |
-| Hazardous Materials | 2.00% | ~14,666 |
-| Friends Like These | 2.00% | ~14,666 |
-| Hotel California | 2.00% | ~14,666 |
-| Apex Predator | 2.00% | ~14,666 |
-| A Patton Emerges | 2.00% | ~14,666 |
-| Stacking the Deck | 2.00% | ~14,666 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,666 |
-| This is My Weapon | 2.00% | ~14,666 |
-| One of Us | 2.00% | ~1,177 |
+| Welcome To Hell-A | 3.00% | ~22,000 |
+| Whatever It Takes | 3.00% | ~1,767 |
+| Pork Chopped | 3.00% | ~1,767 |
+| Dr. Reed, I Presume? | 2.00% | ~14,667 |
+| Git Gutte! | 2.00% | ~14,667 |
+| Anger Management | 2.00% | ~14,667 |
+| Bookworm | 2.00% | ~14,667 |
+| Break A Leg | 2.00% | ~14,667 |
+| But Doctor, I am Butcho | 2.00% | ~14,667 |
+| Can't Handle the Truth | 2.00% | ~14,667 |
+| Coup de Grâce | 2.00% | ~14,667 |
+| Like Riding a Bike | 2.00% | ~14,667 |
+| Hazardous Materials | 2.00% | ~14,667 |
+| Friends Like These | 2.00% | ~14,667 |
+| Hotel California | 2.00% | ~14,667 |
+| Apex Predator | 2.00% | ~14,667 |
+| A Patton Emerges | 2.00% | ~14,667 |
+| Stacking the Deck | 2.00% | ~14,667 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,667 |
+| This is My Weapon | 2.00% | ~14,667 |
+| One of Us | 2.00% | ~1,178 |
 | Making Your Mark | 1.00% | ~7,333 |
 | Perks of the Job | 1.00% | ~7,333 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,333 |
@@ -50,14 +50,14 @@ Rating: 4.54 (Ranked 534)
 | Sole Survivor | 0.40% | ~2,933 |
 | Gore Horse | 0.40% | ~2,933 |
 | Sharpest Tool in the Box | 0.40% | ~2,933 |
-| Top That, Tisha! | 0.40% | ~235 |
+| Top That, Tisha! | 0.40% | ~236 |
 | Survival Skills | 0.30% | ~2,200 |
 | Lawn and Order | 0.20% | ~118 |
 | Donk! | 0.10% | ~733 |
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,313 (Ranked 21)  
+Progressed: 733,347 (Ranked 21)  
 Completed: 2,476 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,10 +292,10 @@ Completed: 2,476 (0.34%) (Ranked 234)
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
 | 2023-12-10 | 733,123 | 2,475 |
-| 2023-12-11 | 733,313 | 2,476 |
+| 2023-12-11 | 733,347 | 2,476 |
 ## Awards
 Max (Great Boss Battles): 8,071  (Ranked 49)  
-Sum: 12,415 (Ranked 82)  
+Sum: 12,416 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -303,7 +303,7 @@ Diff (max vs sum): -33
 | This game is Great for Beginners | 629 |
 | This game has Diverse Characters | 594 |
 | This game has Quickly Understood Controls | 569 |
-| This game is Relaxing | 538 |
+| This game is Relaxing | 539 |
 | This game has Amazing Storytelling | 526 |
 | This game is Extremely Fun | 510 |
 | This game is Highly Recommended | 506 |
@@ -545,4 +545,4 @@ Diff (max vs sum): -33
 | 2023-12-08 | 4.54 | 8,017 | 12,324 |
 | 2023-12-09 | 4.54 | 8,042 | 12,362 |
 | 2023-12-10 | 4.54 | 8,071 | 12,407 |
-| 2023-12-11 | 4.54 | 8,071 | 12,415 |
+| 2023-12-11 | 4.54 | 8,071 | 12,416 |

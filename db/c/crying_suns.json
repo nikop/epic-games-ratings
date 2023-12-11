@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -655,9 +655,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 472100,
+  "EOS_Progressed": 472102,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25000,6 +25000,11 @@
       "Time": "2023-12-11T15:10:50.1779895+00:00",
       "NumProgressed": 472100,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-11T16:09:50.7144531+00:00",
+      "NumProgressed": 472102,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25099,7 +25104,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311586
+      "UsersEstimate": 311587
     },
     {
       "ID": "achievement_story_landa",
@@ -25131,7 +25136,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118025
+      "UsersEstimate": 118026
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -25195,7 +25200,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160514
+      "UsersEstimate": 160515
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -25435,7 +25440,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207724
+      "UsersEstimate": 207725
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -25443,7 +25448,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141630
+      "UsersEstimate": 141631
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -25467,7 +25472,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184119
+      "UsersEstimate": 184120
     },
     {
       "ID": "achievement_win_run_hard",
@@ -25475,7 +25480,7 @@
       "Name": "The greatest admiral of all time",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "achievement_win_run_with_as",
@@ -25642,21 +25647,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16034,
+      "Progressed": 16036,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472100,
+      "Progressed": 472102,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-06T08:57:12.0332693+00:00",
-  "LastChanged_Achievements": "2023-12-11T15:10:50.1779891+00:00",
+  "LastChanged_Achievements": "2023-12-11T16:09:50.714453+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.6716506+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:01:48.0720415+00:00",
-  "LastUpdate_Achievements": "2023-12-11T15:10:50.1781615+00:00"
+  "LastUpdate_Ratings": "2023-12-11T16:00:02.7659965+00:00",
+  "LastUpdate_Achievements": "2023-12-11T16:09:50.7146189+00:00"
 }

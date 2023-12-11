@@ -31,7 +31,7 @@
 | The Legend | 6.00% | ~2 |
 | Taoist | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 537)  
+Progressed: 34 (Ranked 538)  
 Completed: 2 (5.88%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |

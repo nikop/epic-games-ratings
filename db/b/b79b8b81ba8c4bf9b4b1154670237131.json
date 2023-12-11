@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -131,9 +131,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14912,
+  "EOS_Progressed": 14914,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3291,6 +3291,11 @@
       "Time": "2023-12-11T15:09:43.7922125+00:00",
       "NumProgressed": 14912,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-11T16:09:03.4784371+00:00",
+      "NumProgressed": 14914,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -3335,7 +3340,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11184
+      "UsersEstimate": 11186
     },
     {
       "ID": "ACH_AE_14",
@@ -3343,7 +3348,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2833
+      "UsersEstimate": 2834
     },
     {
       "ID": "ACH_AE_15",
@@ -3375,7 +3380,7 @@
       "Name": "Crime Fighter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ACH_AE_19",
@@ -3423,7 +3428,7 @@
       "Name": "Emergency Services",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ACH_AE_24",
@@ -3431,7 +3436,7 @@
       "Name": "Think Fast",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ACH_AE_25",
@@ -3439,7 +3444,7 @@
       "Name": "Family History",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ACH_AE_26",
@@ -3447,7 +3452,7 @@
       "Name": "Live With It",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ACH_AE_27",
@@ -3543,7 +3548,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "ACH_AE_6",
@@ -3559,7 +3564,7 @@
       "Name": "Renewal",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ACH_AE_8",
@@ -3582,7 +3587,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 14912,
+      "Progressed": 14914,
       "Completed": 15
     }
   ],
@@ -3590,8 +3595,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-10T15:57:49.3917476+00:00",
-  "LastChanged_Achievements": "2023-12-11T15:09:43.7922122+00:00",
+  "LastChanged_Achievements": "2023-12-11T16:09:03.4784366+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.7146917+00:00",
-  "LastUpdate_Ratings": "2023-12-11T14:58:54.6232975+00:00",
-  "LastUpdate_Achievements": "2023-12-11T15:09:43.7922547+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:58:09.4409441+00:00",
+  "LastUpdate_Achievements": "2023-12-11T16:09:03.4784783+00:00"
 }

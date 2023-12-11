@@ -4,8 +4,8 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1766,9 +1766,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 328
     },
     {
       "ID": "AchvReachCity",
@@ -1829,8 +1829,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-11T15:09:49.1842875+00:00",
+  "LastChanged_Achievements": "2023-12-11T16:09:07.1964403+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.1415487+00:00",
-  "LastUpdate_Ratings": "2023-12-11T14:58:35.0348137+00:00",
-  "LastUpdate_Achievements": "2023-12-11T15:09:49.1843194+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:57:56.5491183+00:00",
+  "LastUpdate_Achievements": "2023-12-11T16:09:07.196464+00:00"
 }

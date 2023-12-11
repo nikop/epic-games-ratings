@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-10-22T15:00:00+00:00",
     "PcReleaseDate": "2020-10-22T15:00:00+00:00",
@@ -3353,10 +3353,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 2546,
       "NumberOfAwardsMax": 305
+    },
+    {
+      "Time": "2023-12-11T15:57:25.8287731+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 2547,
+      "NumberOfAwardsMax": 305
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2546,
+  "NumberOfAwards": 2547,
   "NumberOfAwardsMax": 305,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3418,7 +3424,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3444,8 +3450,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-12-11T14:57:48.6314478+00:00",
+  "LastChanged": "2023-12-11T15:57:25.8287729+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:41.5612316+00:00",
-  "LastUpdate_Ratings": "2023-12-11T14:57:48.6314484+00:00",
-  "LastUpdate_Achievements": "2023-12-11T15:08:34.8255643+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:57:25.8287735+00:00",
+  "LastUpdate_Achievements": "2023-12-11T16:08:14.8999612+00:00"
 }

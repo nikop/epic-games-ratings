@@ -4,8 +4,8 @@
   "ProductSlug": "astro-duel-2-e1261d",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -39,8 +39,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:06.8606043+00:00",
-  "LastChanged_Achievements": "2023-12-11T15:06:49.8130452+00:00",
+  "LastChanged_Achievements": "2023-12-11T16:05:21.5869049+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:14.3196736+00:00",
-  "LastUpdate_Ratings": "2023-12-11T14:59:41.7480349+00:00",
-  "LastUpdate_Achievements": "2023-12-11T15:06:49.8130496+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:58:38.7324603+00:00",
+  "LastUpdate_Achievements": "2023-12-11T16:05:21.5869082+00:00"
 }

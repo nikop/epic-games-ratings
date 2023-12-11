@@ -9,10 +9,10 @@ Rating: 4.58 (Ranked 452)
 | Mainframe Hacker | 23.00% | ~4,376 |
 | The Spy who eliminated me | 23.00% | ~4,376 |
 | Tomorrow Never Dyes | 22.00% | ~4,186 |
-| From the Vault with Love | 18.00% | ~3,424 |
-| Never Say Loser Again | 18.00% | ~3,424 |
-| Tailor-Made | 18.00% | ~3,424 |
-| For your Eyes only | 18.00% | ~3,424 |
+| From the Vault with Love | 18.00% | ~3,425 |
+| Never Say Loser Again | 18.00% | ~3,425 |
+| Tailor-Made | 18.00% | ~3,425 |
+| For your Eyes only | 18.00% | ~3,425 |
 | Assistant Accountant | 17.00% | ~3,234 |
 | You Only Live Twice | 16.00% | ~3,044 |
 | Fully Decked Out | 16.00% | ~3,044 |
@@ -23,17 +23,17 @@ Rating: 4.58 (Ranked 452)
 | Private Collection | 11.00% | ~2,093 |
 | Killer Looks | 11.00% | ~2,093 |
 | Hostile Takeover | 11.00% | ~2,093 |
-| Keycards Royale | 10.00% | ~1,902 |
-| Dr. No Kill | 10.00% | ~1,902 |
+| Keycards Royale | 10.00% | ~1,903 |
+| Dr. No Kill | 10.00% | ~1,903 |
 | In It to Win It | 9.00% | ~1,712 |
 | Security Supervisor | 6.00% | ~1,142 |
 | License to Thrill | 5.00% | ~951 |
 | Social of Solace | 4.00% | ~761 |
 | Live and let lie | 3.00% | ~571 |
 | Safe Withdrawal | 3.00% | ~571 |
-| Branch Manager | 2.00% | ~380 |
-| Call Me Maybe | 2.00% | ~380 |
-| PHD in VIP | 2.00% | ~380 |
+| Branch Manager | 2.00% | ~381 |
+| Call Me Maybe | 2.00% | ~381 |
+| PHD in VIP | 2.00% | ~381 |
 | The terminals are not enough | 1.00% | ~190 |
 | Lose Another Day | 1.00% | ~190 |
 | Chairman of Deceive Inc. | 0.90% | ~171 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 452)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,025 (Ranked 145)  
+Progressed: 19,026 (Ranked 145)  
 Completed: 4 (0.02%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 4 (0.02%) (Ranked 339)
 | 2023-12-08 | 19,005 | 4 |
 | 2023-12-09 | 19,015 | 4 |
 | 2023-12-10 | 19,023 | 4 |
-| 2023-12-11 | 19,025 | 4 |
+| 2023-12-11 | 19,026 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

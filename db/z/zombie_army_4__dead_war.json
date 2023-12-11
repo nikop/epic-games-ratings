@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2520,9 +2520,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44115,
+  "EOS_Progressed": 44117,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9765,6 +9765,11 @@
       "Time": "2023-12-11T14:05:54.474292+00:00",
       "NumProgressed": 44115,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-11T16:05:08.1358082+00:00",
+      "NumProgressed": 44117,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9776,7 +9781,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27351
+      "UsersEstimate": 27353
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -9832,7 +9837,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12352
+      "UsersEstimate": 12353
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -9848,7 +9853,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18087
+      "UsersEstimate": 18088
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -9856,7 +9861,7 @@
       "Name": "Damnedbusters",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3971
     },
     {
       "ID": "SE_COMPLETE_DEAD_ZEPPELIN",
@@ -9880,7 +9885,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17205
+      "UsersEstimate": 17206
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -9888,7 +9893,7 @@
       "Name": "People don\u0027t change. We go round in circles",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "SE_COMPLETE_HELLBASE",
@@ -9920,7 +9925,7 @@
       "Name": "The blighters got through a second time.",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_HELLBASE",
@@ -9968,7 +9973,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27792
+      "UsersEstimate": 27794
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -9984,7 +9989,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14999
+      "UsersEstimate": 15000
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -10024,7 +10029,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21616
+      "UsersEstimate": 21617
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -10032,7 +10037,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15881
+      "UsersEstimate": 15882
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -10048,7 +10053,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10146
+      "UsersEstimate": 10147
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -10072,7 +10077,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18528
+      "UsersEstimate": 18529
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -10080,7 +10085,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22499
+      "UsersEstimate": 22500
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -10104,7 +10109,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30439
+      "UsersEstimate": 30441
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -10128,7 +10133,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20734
+      "UsersEstimate": 20735
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -10136,7 +10141,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25146
+      "UsersEstimate": 25147
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -10144,7 +10149,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20734
+      "UsersEstimate": 20735
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -10152,7 +10157,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15881
+      "UsersEstimate": 15882
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -10160,7 +10165,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11911
+      "UsersEstimate": 11912
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -10168,7 +10173,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19852
+      "UsersEstimate": 19853
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -10176,7 +10181,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29116
+      "UsersEstimate": 29117
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -10216,7 +10221,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14999
+      "UsersEstimate": 15000
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -10232,7 +10237,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29116
+      "UsersEstimate": 29117
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -10248,7 +10253,7 @@
       "Name": "I\u0027m a survivor!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "SE_REACH_WAVE_X_WITH_PISTOL",
@@ -10272,7 +10277,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10146
+      "UsersEstimate": 10147
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -10280,7 +10285,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6617
+      "UsersEstimate": 6618
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -10296,22 +10301,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15881
+      "UsersEstimate": 15882
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44115,
+      "Progressed": 44117,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-10T19:58:50.6568261+00:00",
-  "LastChanged_Achievements": "2023-12-11T15:06:30.9160965+00:00",
+  "LastChanged_Achievements": "2023-12-11T16:05:08.1358079+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.7466868+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:00:41.8496182+00:00",
-  "LastUpdate_Achievements": "2023-12-11T15:06:30.9162168+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:59:18.8583101+00:00",
+  "LastUpdate_Achievements": "2023-12-11T16:05:08.1359021+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.88 (Ranked 17)
 Number of Ratings: 102,658  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 207,656  (Ranked 6)  
-Sum: 545,576 (Ranked 7)  
+Sum: 545,628 (Ranked 7)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -21,7 +21,7 @@ Diff (max vs sum): -1
 | This game is Educational | 22,210 |
 | This game has Quickly Understood Controls | 21,663 |
 | This game has Realistic Visuals | 17,056 |
-| This game has a Creative Community | 16,372 |
+| This game has a Creative Community | 16,424 |
 | This game has Obsessive Gameplay | 5,801 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -347,4 +347,4 @@ Diff (max vs sum): -1
 | 2023-12-08 | 4.88 | - | 206,654 | 541,614 |
 | 2023-12-09 | 4.88 | - | 207,155 | 543,216 |
 | 2023-12-10 | 4.88 | - | 207,656 | 544,853 |
-| 2023-12-11 | 4.88 | - | 207,656 | 545,576 |
+| 2023-12-11 | 4.88 | - | 207,656 | 545,628 |

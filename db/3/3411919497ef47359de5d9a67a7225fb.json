@@ -4,8 +4,8 @@
   "ProductSlug": "dinodashgame-46ad90",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-04T21:57:05.7085476+00:00",
   "LastUpdate_AppInfo": "2023-12-08T13:57:10.622225+00:00",
-  "LastUpdate_Ratings": "2023-12-11T14:59:01.430008+00:00",
-  "LastUpdate_Achievements": "2023-12-11T15:08:45.4759697+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:58:13.3130119+00:00",
+  "LastUpdate_Achievements": "2023-12-11T16:08:22.084049+00:00"
 }

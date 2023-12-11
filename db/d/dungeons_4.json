@@ -3,9 +3,9 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
-  "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1565,9 +1565,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 380
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -1717,9 +1717,9 @@
       "ID": "ach_main11blessing_completed",
       "SetID": "4hg22ll",
       "Name": "Tanos\u0027 Crusade Against Thalya",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 244
     },
     {
       "ID": "ach_main11blessing_ghostheroes",
@@ -1964,8 +1964,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-11T15:05:07.3880268+00:00",
+  "LastChanged_Achievements": "2023-12-11T16:04:09.0728025+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:00:14.153695+00:00",
-  "LastUpdate_Achievements": "2023-12-11T15:05:07.3880892+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:58:59.972422+00:00",
+  "LastUpdate_Achievements": "2023-12-11T16:04:09.0728669+00:00"
 }

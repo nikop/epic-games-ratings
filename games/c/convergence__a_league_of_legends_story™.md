@@ -8,19 +8,19 @@ Rating: 4.62 (Ranked 371)
 | Time Heals All Wounds | 33.00% | ~313 |
 | Rail Rat | 27.00% | ~256 |
 | The Mysterious Stranger | 26.00% | ~246 |
+| Make Up For Lost Time | 23.00% | ~218 |
 | Immaculate Aim | 23.00% | ~218 |
 | The Brass Boss | 23.00% | ~218 |
 | The Steel Shadow | 22.00% | ~208 |
-| Make Up For Lost Time | 22.00% | ~208 |
 | Time Flies | 22.00% | ~208 |
 | The Harder They Fall | 22.00% | ~208 |
 | No, Thanks! | 22.00% | ~208 |
 | Breaking Down Barriers | 22.00% | ~208 |
 | The Wicked Twins | 22.00% | ~208 |
 | The Prince in Heels | 22.00% | ~208 |
+| Honest Mistake | 22.00% | ~208 |
+| Fast Learner | 22.00% | ~208 |
 | Immaculate Aim | 22.00% | ~208 |
-| Honest Mistake | 21.00% | ~199 |
-| Fast Learner | 21.00% | ~199 |
 | Like Clockwork | 20.00% | ~189 |
 | The Betrayer | 20.00% | ~189 |
 | Golem Chaser | 20.00% | ~189 |
@@ -33,7 +33,7 @@ Rating: 4.62 (Ranked 371)
 | Treasure Trove | 15.00% | ~142 |
 | Whiz Kid | 15.00% | ~142 |
 | Cartographer | 15.00% | ~142 |
-| Good Neighbor | 13.00% | ~123 |
+| Good Neighbor | 14.00% | ~133 |
 | Chaincrawler Explorer | 12.00% | ~114 |
 | Family Memories | 12.00% | ~114 |
 | Ask Questions Later | 12.00% | ~114 |

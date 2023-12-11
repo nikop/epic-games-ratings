@@ -3,9 +3,9 @@
   "Name": "Mokoko X",
   "ProductSlug": "mokoko-x-e2b09d",
   "Ranking_EOS_Progress": 467,
-  "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
     "PcReleaseDate": "2022-04-06T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.25,
+  "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
     {
       "Time": "2023-05-26T14:03:15.2605358+00:00",
@@ -404,6 +404,11 @@
       "Time": "2023-11-08T01:47:32.1957831+00:00",
       "NumProgressed": 80,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-11T16:05:46.4138367+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 73,
@@ -421,7 +426,7 @@
       "ID": "ADS_CLOSE",
       "SetID": "50pdlpn",
       "Name": "Close Ads",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 40,
       "UsersEstimate": 19
     },
@@ -431,21 +436,21 @@
       "Name": "Beyond Time",
       "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "BLIND_DATE",
       "SetID": "50pdlpn",
       "Name": "Blind Date",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "BLITZKRIEG",
       "SetID": "50pdlpn",
       "Name": "Blitzkrieg",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 40,
       "UsersEstimate": 26
     },
@@ -453,7 +458,7 @@
       "ID": "COMPLEX_MOVE",
       "SetID": "50pdlpn",
       "Name": "Complex Move",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 40,
       "UsersEstimate": 48
     },
@@ -463,7 +468,7 @@
       "Name": "Conqueror",
       "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ENEMY_0",
@@ -471,7 +476,7 @@
       "Name": "Federic the Conscious Toy",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ENEMY_1",
@@ -479,7 +484,7 @@
       "Name": "Norman the Useless Gyroscope",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ENEMY_10",
@@ -493,7 +498,7 @@
       "ID": "ENEMY_11",
       "SetID": "50pdlpn",
       "Name": "Kabeer, Lizardman God \u0026 Captain Smithers",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -501,7 +506,7 @@
       "ID": "ENEMY_12",
       "SetID": "50pdlpn",
       "Name": "Captain Joseph the Living Bullet Hell",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -525,7 +530,7 @@
       "ID": "ENEMY_15",
       "SetID": "50pdlpn",
       "Name": "Captain Joseph, Ali Baba \u0026 Pillows",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -557,7 +562,7 @@
       "ID": "ENEMY_19",
       "SetID": "50pdlpn",
       "Name": "Neil, Fizz-Bizz \u0026 Toru",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -565,15 +570,15 @@
       "ID": "ENEMY_2",
       "SetID": "50pdlpn",
       "Name": "Vanunu the Heartless but not Soulless Emperor",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ENEMY_20",
       "SetID": "50pdlpn",
       "Name": "Arnold the Young Lieutenant",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -581,7 +586,7 @@
       "ID": "ENEMY_21",
       "SetID": "50pdlpn",
       "Name": "Boom Bang Dang the Master Exploder",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -655,7 +660,7 @@
       "Name": "Federic, Norman \u0026 Vanunu",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ENEMY_30",
@@ -677,9 +682,9 @@
       "ID": "ENEMY_4",
       "SetID": "50pdlpn",
       "Name": "Khalil the Grim Ant",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ENEMY_5",
@@ -693,7 +698,7 @@
       "ID": "ENEMY_6",
       "SetID": "50pdlpn",
       "Name": "Mr. Fyodorov the Imaginary Spider",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 43
     },
@@ -701,7 +706,7 @@
       "ID": "ENEMY_7",
       "SetID": "50pdlpn",
       "Name": "Khalil, Scorpon-pink.png \u0026 Mr. Fyodorov",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 40
     },
@@ -709,7 +714,7 @@
       "ID": "ENEMY_8",
       "SetID": "50pdlpn",
       "Name": "Kabeer the Demonic Headphone",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -725,7 +730,7 @@
       "ID": "ENEMY_ARCADE_0",
       "SetID": "50pdlpn",
       "Name": "Arcade - Federic the Conscious Toy",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -749,7 +754,7 @@
       "ID": "ENEMY_ARCADE_11",
       "SetID": "50pdlpn",
       "Name": "Arcade - Kabeer, Lizardman God, Captain Smithers",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -757,7 +762,7 @@
       "ID": "ENEMY_ARCADE_12",
       "SetID": "50pdlpn",
       "Name": "Arcade - Captain Joseph the Living Bullet Hell",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -765,7 +770,7 @@
       "ID": "ENEMY_ARCADE_13",
       "SetID": "50pdlpn",
       "Name": "Arcade - Ali Baba the Piece of Crap",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -773,7 +778,7 @@
       "ID": "ENEMY_ARCADE_14",
       "SetID": "50pdlpn",
       "Name": "Arcade - Pillows the Hobby Plane Armada Colonel",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -781,7 +786,7 @@
       "ID": "ENEMY_ARCADE_15",
       "SetID": "50pdlpn",
       "Name": "Arcade - Captain Joseph, Ali Baba, Pillows",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -957,7 +962,7 @@
       "ID": "ENEMY_ARCADE_7",
       "SetID": "50pdlpn",
       "Name": "Arcade - Khalil, Scorpon-pink.png, Mr. Fyodorov",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -989,7 +994,7 @@
       "ID": "SERIAL_KISSER",
       "SetID": "50pdlpn",
       "Name": "Serial Kisser",
-      "Percentage": 83,
+      "Percentage": 81,
       "XP": 40,
       "UsersEstimate": 66
     }
@@ -998,14 +1003,14 @@
     {
       "ID": "50pdlpn",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-12-11T15:07:25.2829986+00:00",
+  "LastChanged_Achievements": "2023-12-11T16:05:46.4138362+00:00",
   "LastUpdate_AppInfo": "2023-12-05T01:45:31.7432953+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:00:18.9322714+00:00",
-  "LastUpdate_Achievements": "2023-12-11T15:07:25.283099+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:59:03.1629302+00:00",
+  "LastUpdate_Achievements": "2023-12-11T16:05:46.4138927+00:00"
 }

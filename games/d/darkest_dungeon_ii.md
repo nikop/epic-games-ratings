@@ -6,6 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Place to Lay Your Head | 0.20% | ~252 |
 | Malpractice Assurance | 0.20% | ~2 |
 | This guy... again? | 0.20% | ~2 |
 | Don't Make Me Turn This Coach Around | 0.10% | ~126 |
@@ -56,7 +57,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 0.10% | ~126 |
 | Whale | 0.10% | ~126 |
 | Triage | 0.10% | ~126 |
-| A Place to Lay Your Head | 0.10% | ~126 |
 | When You Want Something Done Right | 0.10% | ~126 |
 | FNG | 0.10% | ~126 |
 | Worldly Traveller | 0.10% | ~126 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,134 (Ranked 84)  
+Progressed: 126,137 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-08 | 125,859 | 2 |
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
-| 2023-12-11 | 126,134 | 2 |
+| 2023-12-11 | 126,137 | 2 |
 ## Awards
 Max (Character Customization): 7,586  (Ranked 52)  
 Sum: 20,062 (Ranked 59)  

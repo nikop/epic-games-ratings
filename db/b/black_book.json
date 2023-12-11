@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 59398,
+  "EOS_Progressed": 59403,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1465,
+  "EOS_NewPlayers": 1460,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12838,6 +12838,11 @@
       "Time": "2023-12-11T15:04:44.8062682+00:00",
       "NumProgressed": 59398,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-11T16:03:53.3806245+00:00",
+      "NumProgressed": 59403,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -12962,7 +12967,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 13068
+      "UsersEstimate": 13069
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -13050,7 +13055,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 16631
+      "UsersEstimate": 16633
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -13249,15 +13254,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 59398,
+      "Progressed": 59403,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-11T15:04:44.8062678+00:00",
+  "LastChanged_Achievements": "2023-12-11T16:03:53.3806241+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:06.7954209+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:01:41.0630102+00:00",
-  "LastUpdate_Achievements": "2023-12-11T15:04:44.806397+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:59:58.0369515+00:00",
+  "LastUpdate_Achievements": "2023-12-11T16:03:53.3807269+00:00"
 }

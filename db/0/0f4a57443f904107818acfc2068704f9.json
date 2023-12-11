@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 865,
+  "EOS_Progressed": 866,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1917,6 +1917,11 @@
       "Time": "2023-12-11T03:05:16.9429061+00:00",
       "NumProgressed": 865,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-11T16:05:11.9034888+00:00",
+      "NumProgressed": 866,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2015,9 +2020,9 @@
       "ID": "CompleteChapter13",
       "SetID": "52ail55",
       "Name": "Slaughter and Siege wiv da Squeeze",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 95
     },
     {
       "ID": "CompleteChapter14",
@@ -2073,7 +2078,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "CompleteChapter3",
@@ -2089,7 +2094,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "CompleteChapter5",
@@ -2113,7 +2118,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "CompleteChapter8",
@@ -2224,14 +2229,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 865,
+      "Progressed": 866,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-11T15:06:36.2893807+00:00",
+  "LastChanged_Achievements": "2023-12-11T16:05:11.9034884+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:56:58.482812+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:01:29.0845375+00:00",
-  "LastUpdate_Achievements": "2023-12-11T15:06:36.2894215+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:59:50.7448376+00:00",
+  "LastUpdate_Achievements": "2023-12-11T16:05:11.9035507+00:00"
 }

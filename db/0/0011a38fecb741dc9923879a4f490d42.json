@@ -4,8 +4,8 @@
   "ProductSlug": "deadwater-saloon-391b9d",
   "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-21T13:00:00+00:00",
     "PcReleaseDate": "2022-09-13T13:00:00+00:00",
@@ -633,8 +633,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2023-12-11T15:08:39.821183+00:00",
+  "LastChanged_Achievements": "2023-12-11T16:08:18.1477699+00:00",
   "LastUpdate_AppInfo": "2023-12-06T17:57:25.0445336+00:00",
-  "LastUpdate_Ratings": "2023-12-11T14:59:56.124152+00:00",
-  "LastUpdate_Achievements": "2023-12-11T15:08:39.8212568+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:58:48.0518207+00:00",
+  "LastUpdate_Achievements": "2023-12-11T16:08:18.1478248+00:00"
 }

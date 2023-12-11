@@ -33,13 +33,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Barren Lands | 0.50% | ~90 |
 | Levitating Monument | 0.50% | ~90 |
 | Monastery of the Holy Flame | 0.50% | ~90 |
+| Cursed Lands | 0.50% | ~90 |
 | Trade Baron | 0.50% | ~90 |
 | Ancient Battleground | 0.40% | ~72 |
 | Sparkdew Crystals | 0.40% | ~72 |
 | Haunted Forest | 0.40% | ~72 |
 | Flooded Mines | 0.40% | ~72 |
 | Statue of the Forefathers | 0.40% | ~72 |
-| Cursed Lands | 0.40% | ~72 |
 | Fox Utopia | 0.40% | ~72 |
 | Serving Ale | 0.30% | ~54 |
 | Against All Odds | 0.30% | ~54 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,932 (Ranked 147)  
+Progressed: 17,935 (Ranked 147)  
 Completed: 41 (0.23%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,16 +301,16 @@ Completed: 41 (0.23%) (Ranked 253)
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
 | 2023-12-10 | 17,908 | 43 |
-| 2023-12-11 | 17,932 | 41 |
+| 2023-12-11 | 17,935 | 41 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 225)  
-Sum: 3,250 (Ranked 175)  
+Sum: 3,252 (Ranked 175)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |
 | This game is Relaxing | 433 |
-| This game is Great for Beginners | 424 |
+| This game is Great for Beginners | 426 |
 | This game is Extremely Fun | 409 |
 | This game is Highly Recommended | 391 |
 | This game has Unique Visuals | 330 |
@@ -571,3 +571,4 @@ Diff (max vs sum): 50
 | 2023-12-08 | 4.82 | - | 442 | 3,245 |
 | 2023-12-09 | 4.82 | - | 442 | 3,248 |
 | 2023-12-10 | 4.82 | - | 442 | 3,250 |
+| 2023-12-11 | 4.82 | - | 442 | 3,252 |

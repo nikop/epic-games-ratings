@@ -3333,10 +3333,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3250,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-11T15:58:15.0772511+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3252,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3250,
+  "NumberOfAwards": 3252,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3374,7 +3380,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 424
+      "Count": 426
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3401,9 +3407,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 17932,
+  "EOS_Progressed": 17935,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": -8,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -15356,6 +15362,11 @@
       "Time": "2023-12-11T15:07:22.969422+00:00",
       "NumProgressed": 17932,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-11T16:05:44.800064+00:00",
+      "NumProgressed": 17935,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15638,9 +15649,9 @@
       "ID": "WinOnCursed",
       "SetID": "cfbk359",
       "Name": "Cursed Lands",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 90
     },
     {
       "ID": "WinOnMarshlands",
@@ -15839,15 +15850,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17932,
+      "Progressed": 17935,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-10T04:57:34.5838562+00:00",
-  "LastChanged_Achievements": "2023-12-11T15:07:22.9694216+00:00",
+  "LastChanged": "2023-12-11T15:58:15.0772509+00:00",
+  "LastChanged_Achievements": "2023-12-11T16:05:44.8000635+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-11T14:59:03.5909048+00:00",
-  "LastUpdate_Achievements": "2023-12-11T15:07:22.9695435+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:58:15.0772515+00:00",
+  "LastUpdate_Achievements": "2023-12-11T16:05:44.8001871+00:00"
 }
