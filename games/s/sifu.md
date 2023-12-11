@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 1.00% | ~272 |
+| Diligence as a goal | 1.00% | ~273 |
 | Project Arena | 0.80% | ~218 |
 | The Old Grandmaster | 0.70% | ~5,026 |
 | The Assault | 0.70% | ~5,026 |
@@ -25,7 +25,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Street Fighting | 0.60% | ~4,308 |
 | Qi Gong: Essence | 0.60% | ~4,308 |
 | Old Child | 0.60% | ~4,308 |
-| Fight the way you practice | 0.60% | ~163 |
+| Fight the way you practice | 0.60% | ~164 |
 | Scareless | 0.50% | ~3,590 |
 | Kung-Fu Tussle | 0.50% | ~3,590 |
 | Take damage to save time | 0.50% | ~3,590 |
@@ -46,9 +46,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.20% | ~1,436 |
 | Sword Stained With Blood | 0.20% | ~1,436 |
 | The Pit Protector | 0.20% | ~1,436 |
-| Deadly Venom | 0.20% | ~54 |
-| A Touch of Acumen | 0.20% | ~54 |
-| Beatmaker | 0.20% | ~54 |
+| Deadly Venom | 0.20% | ~55 |
+| A Touch of Acumen | 0.20% | ~55 |
+| Beatmaker | 0.20% | ~55 |
 | Drunken Fighter | 0.10% | ~718 |
 | Martial Artist | 0.10% | ~718 |
 | Healing Memory | 0.10% | ~718 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,948 (Ranked 24)  
+Progressed: 717,950 (Ranked 24)  
 Completed: 12,951 (1.80%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,6 +302,7 @@ Completed: 12,951 (1.80%) (Ranked 135)
 | 2023-12-08 | 717,888 | 12,946 |
 | 2023-12-09 | 717,920 | 12,947 |
 | 2023-12-10 | 717,948 | 12,951 |
+| 2023-12-11 | 717,950 | 12,951 |
 ## Awards
 Max (Great Boss Battles): 6,901  (Ranked 55)  
 Sum: 12,110 (Ranked 83)  

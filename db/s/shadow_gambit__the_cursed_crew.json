@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -143,11 +143,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1097,
+  "EOS_Progressed": 1098,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.92,
+  "EOS_Completed_Percentage": 2.91,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3648,6 +3648,11 @@
       "Time": "2023-12-10T23:03:09.1378321+00:00",
       "NumProgressed": 1097,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-11T00:04:01.834819+00:00",
+      "NumProgressed": 1098,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3668,7 +3673,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "_03_FinishAct1",
@@ -3676,7 +3681,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3708,7 +3713,7 @@
       "Name": "All Good Things",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "_08_Completion_10",
@@ -3732,7 +3737,7 @@
       "Name": "Buccaneer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "_11_Completion_40",
@@ -3780,7 +3785,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3812,7 +3817,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -3867,7 +3872,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1097,
+      "Progressed": 1098,
       "Completed": 32
     }
   ],
@@ -3875,8 +3880,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-09T12:00:24.7987919+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:03:09.1378318+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:04:01.8348185+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:59:58.1998235+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:03:09.1378665+00:00"
+  "LastUpdate_Ratings": "2023-12-11T00:02:30.2181435+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:04:01.834857+00:00"
 }

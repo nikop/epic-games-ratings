@@ -2,13 +2,13 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 943,
+  "Ranking_Rating": 935,
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.18,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2023-08-25T11:00:17.1063519+00:00",
@@ -859,10 +859,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 176,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-12-10T23:59:28.999056+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 177,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 176,
+  "NumberOfAwards": 177,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -894,7 +900,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Relaxing",
@@ -909,9 +915,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4116,
+  "EOS_Progressed": 4117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6904,6 +6910,11 @@
       "Time": "2023-12-10T21:04:12.6300144+00:00",
       "NumProgressed": 4116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T00:04:22.9200552+00:00",
+      "NumProgressed": 4117,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6940,7 +6951,7 @@
       "Name": "Dealmaker",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "achievement_13",
@@ -6948,7 +6959,7 @@
       "Name": "MVP",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "achievement_14",
@@ -7004,7 +7015,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "achievement_20",
@@ -7012,7 +7023,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "achievement_21",
@@ -7036,7 +7047,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_5",
@@ -7060,7 +7071,7 @@
       "Name": "Head-to-Head",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_8",
@@ -7083,16 +7094,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4116,
+      "Progressed": 4117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-12-10T02:58:06.7636739+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:03:24.319846+00:00",
+  "LastChanged": "2023-12-10T23:59:28.9990558+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:04:22.9200545+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:58:32.5090103+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:03:24.3198967+00:00"
+  "LastUpdate_Ratings": "2023-12-10T23:59:28.9990562+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:04:22.9200919+00:00"
 }

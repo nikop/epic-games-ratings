@@ -4,8 +4,8 @@
   "ProductSlug": "deserted-3b61b7",
   "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -242,8 +242,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-06T15:03:12.0917617+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:08:17.1076627+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:09:39.1544894+00:00",
   "LastUpdate_AppInfo": "2023-12-08T20:56:56.0483876+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:57:52.0450492+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:08:17.1076757+00:00"
+  "LastUpdate_Ratings": "2023-12-10T23:58:26.7204809+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:09:39.1545022+00:00"
 }

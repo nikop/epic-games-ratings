@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2136,9 +2136,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15719,
+  "EOS_Progressed": 15720,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17481,6 +17481,11 @@
       "Time": "2023-12-10T23:08:06.5214783+00:00",
       "NumProgressed": 15719,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-11T00:09:25.0259639+00:00",
+      "NumProgressed": 15720,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -19242,9 +19247,9 @@
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Play a Single Player Game",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1258
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -20227,21 +20232,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15719,
+      "Progressed": 15720,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15719,
+      "Progressed": 15720,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-10T16:00:41.1272395+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:08:06.5214776+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:09:25.0259635+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:32.9927843+00:00",
-  "LastUpdate_Ratings": "2023-12-10T23:00:04.0766332+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:08:06.5225645+00:00"
+  "LastUpdate_Ratings": "2023-12-11T00:02:38.937632+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:09:25.0269282+00:00"
 }

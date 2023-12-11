@@ -123,10 +123,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80309,
-  "EOS_Completed": 870,
-  "EOS_NewPlayers": 551,
-  "EOS_NewCompleters": 9,
+  "EOS_Progressed": 80311,
+  "EOS_Completed": 871,
+  "EOS_NewPlayers": 548,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
     {
@@ -26248,6 +26248,11 @@
       "Time": "2023-12-10T23:04:59.7848378+00:00",
       "NumProgressed": 80309,
       "NumCompleted": 870
+    },
+    {
+      "Time": "2023-12-11T00:06:39.6625854+00:00",
+      "NumProgressed": 80311,
+      "NumCompleted": 871
     }
   ],
   "TotalAchievements": 25,
@@ -26355,7 +26360,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "Master, Commander",
@@ -26387,7 +26392,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12849
+      "UsersEstimate": 12850
     },
     {
       "ID": "Nothing Left to Say",
@@ -26411,7 +26416,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11243
+      "UsersEstimate": 11244
     },
     {
       "ID": "Sniper",
@@ -26458,16 +26463,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80309,
-      "Completed": 870
+      "Progressed": 80311,
+      "Completed": 871
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:04:59.7848372+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:06:39.6625849+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:29.3194806+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:58:20.4918693+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:04:59.7849574+00:00"
+  "LastUpdate_Ratings": "2023-12-10T23:59:10.1923022+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:06:39.6627381+00:00"
 }

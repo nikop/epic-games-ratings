@@ -22,10 +22,10 @@ Number of Ratings: 90  (23.09.2022)
 | Scuttled | 10.00% | ~3 |
 | Dusted | 10.00% | ~3 |
 | Perfect Probulator | 7.00% | ~2 |
+| Transmitting From Sol-3 | 7.00% | ~2 |
 | Lie Back and Think of Albion | 7.00% | ~2 |
 | Kaijuiced | 7.00% | ~2 |
 | Lobster Blisque | 7.00% | ~2 |
-| Transmitting From Sol-3 | 3.00% | ~1 |
 | Forbidden Donut | 3.00% | ~1 |
 | Freshly Squeezed | 3.00% | ~1 |
 | Die Nasty | 3.00% | ~1 |

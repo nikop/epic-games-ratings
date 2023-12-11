@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 731,
+  "EOS_Progressed": 732,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3242,6 +3242,11 @@
       "Time": "2023-12-09T23:09:42.6741899+00:00",
       "NumProgressed": 731,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T00:10:02.5531787+00:00",
+      "NumProgressed": 732,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3307,9 +3312,9 @@
       "ID": "CleanRestaurantDays10",
       "SetID": "d1bm05f",
       "Name": "So Clean You Can Eat Off the Floor",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 124
     },
     {
       "ID": "Clothes10",
@@ -3429,7 +3434,7 @@
       "Name": "The Big Day",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "Packing20",
@@ -3572,7 +3577,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 731,
+      "Progressed": 732,
       "Completed": 0
     }
   ],
@@ -3580,8 +3585,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:08:33.3778401+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:10:02.5531781+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:44.3806487+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:57:00.9406188+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:08:33.3778735+00:00"
+  "LastUpdate_Ratings": "2023-12-10T23:57:11.3846654+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:10:02.5532479+00:00"
 }

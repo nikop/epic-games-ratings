@@ -19,7 +19,7 @@ Number of Ratings: 706  (23.09.2022)
 | Studious Researcher | 53.00% | ~3,815 |
 | Putting Food on the Table | 46.00% | ~3,312 |
 | Adept Researcher | 45.00% | ~3,240 |
-| Retribution | 42.00% | ~3,024 |
+| Retribution | 43.00% | ~3,096 |
 | ...And Don’t Come Back! | 42.00% | ~3,024 |
 | Feast or Famine | 38.00% | ~2,736 |
 | Heating Up | 32.00% | ~2,304 |

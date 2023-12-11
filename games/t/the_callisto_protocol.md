@@ -29,7 +29,7 @@ Rating: 4.19 (Ranked 935)
 | It's Time | 5.00% | ~222 |
 | Giving Back | 4.00% | ~661 |
 | The Commonality | 3.00% | ~496 |
-| One Last Job | 3.00% | ~133 |
+| One Last Job | 3.00% | ~134 |
 | In Striking Distance | 2.00% | ~330 |
 | Big Spender | 1.00% | ~44 |
 | This Isn't About Escape | 1.00% | ~44 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 935)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,523 (Ranked 150)  
+Progressed: 16,524 (Ranked 150)  
 Completed: 81 (0.49%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,6 +281,7 @@ Completed: 81 (0.49%) (Ranked 211)
 | 2023-12-08 | 16,519 | 81 |
 | 2023-12-09 | 16,521 | 81 |
 | 2023-12-10 | 16,523 | 81 |
+| 2023-12-11 | 16,524 | 81 |
 ## Awards
 Max (Highly Recommended): 85  (Ranked 388)  
 Sum: 504 (Ranked 325)  

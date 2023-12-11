@@ -5353,10 +5353,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6738,
       "NumberOfAwardsMax": 2704
+    },
+    {
+      "Time": "2023-12-11T00:03:42.3569961+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6742,
+      "NumberOfAwardsMax": 2704
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6738,
+  "NumberOfAwards": 6742,
   "NumberOfAwardsMax": 2704,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5418,7 +5424,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 357
+      "Count": 361
     },
     {
       "Text": "This game is Relaxing",
@@ -5427,9 +5433,9 @@
       "Count": 413
     }
   ],
-  "EOS_Progressed": 238247,
+  "EOS_Progressed": 238264,
   "EOS_Completed": 577,
-  "EOS_NewPlayers": 4043,
+  "EOS_NewPlayers": 4026,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22377,6 +22383,11 @@
       "Time": "2023-12-10T23:08:38.2308412+00:00",
       "NumProgressed": 238247,
       "NumCompleted": 577
+    },
+    {
+      "Time": "2023-12-11T00:10:09.437779+00:00",
+      "NumProgressed": 238264,
+      "NumCompleted": 577
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22389,7 +22400,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -22397,7 +22408,7 @@
       "Name": "Crafty",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Defeat_Abberations_A",
@@ -22421,7 +22432,7 @@
       "Name": "Only Human",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Defeat_Corrupted_Ravager",
@@ -22517,7 +22528,7 @@
       "Name": "Red Room",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Discover_Letos_Lab",
@@ -22637,7 +22648,7 @@
       "Name": "The Trigger",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Obtain_Melee_Weapons_A",
@@ -22653,7 +22664,7 @@
       "Name": "Cutting Edge",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Obtain_Nightweaver_Item",
@@ -22669,7 +22680,7 @@
       "Name": "The Collector",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Obtain_Scrap_A",
@@ -22693,7 +22704,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "Obtain_Traits_B",
@@ -22709,7 +22720,7 @@
       "Name": "Proving Grounds",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Obtain_Water_Harp_Item",
@@ -22717,7 +22728,7 @@
       "Name": "Carnage in C-Minor",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -22773,7 +22784,7 @@
       "Name": "Maxed Out!",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Upgrade_Weapon_Mutator",
@@ -22828,22 +22839,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 238247,
+      "Progressed": 238264,
       "Completed": 577
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 17412,
+      "Progressed": 17429,
       "Completed": 235
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-10T17:03:29.2849977+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:08:38.2308407+00:00",
+  "LastChanged": "2023-12-11T00:03:42.356996+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:10:09.4377785+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-10T23:02:57.0159044+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:08:38.2309327+00:00"
+  "LastUpdate_Ratings": "2023-12-11T00:03:42.3569966+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:10:09.4379275+00:00"
 }

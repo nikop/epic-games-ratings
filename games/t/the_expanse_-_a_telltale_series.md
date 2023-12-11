@@ -15,9 +15,9 @@ Rating: 4.52 (Ranked 561)
 | Impossible Objects | 7.00% | ~1,123 |
 | Safe Cracker | 7.00% | ~140 |
 | Zen Master | 7.00% | ~140 |
-| Stogie for Fogey | 6.00% | ~962 |
-| Spore Taste | 6.00% | ~962 |
-| Call it Even | 6.00% | ~962 |
+| Stogie for Fogey | 6.00% | ~963 |
+| Spore Taste | 6.00% | ~963 |
+| Call it Even | 6.00% | ~963 |
 | Keep Arjun in Check | 6.00% | ~120 |
 | Madame Undersecretary | 6.00% | ~120 |
 | Data Archivist | 5.00% | ~802 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 561)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,041 (Ranked 152)  
+Progressed: 16,042 (Ranked 152)  
 Completed: 42 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,6 +183,7 @@ Completed: 42 (0.26%) (Ranked 249)
 | 2023-12-08 | 15,988 | 41 |
 | 2023-12-09 | 16,020 | 42 |
 | 2023-12-10 | 16,041 | 42 |
+| 2023-12-11 | 16,042 | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

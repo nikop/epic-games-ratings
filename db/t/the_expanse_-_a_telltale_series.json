@@ -271,7 +271,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16041,
+  "EOS_Progressed": 16042,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 2,
@@ -13541,6 +13541,11 @@
       "Time": "2023-12-10T23:04:34.9032375+00:00",
       "NumProgressed": 16041,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-11T00:06:04.0040461+00:00",
+      "NumProgressed": 16042,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13601,7 +13606,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "16",
@@ -13617,7 +13622,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "18",
@@ -13697,7 +13702,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "27",
@@ -13832,22 +13837,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16041,
+      "Progressed": 16042,
       "Completed": 42
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1995,
-      "Completed": 858
+      "Progressed": 1996,
+      "Completed": 860
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-10T17:59:24.4089771+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:04:34.9032372+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:06:04.0040454+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:59:06.3911135+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:04:34.9033126+00:00"
+  "LastUpdate_Ratings": "2023-12-11T00:00:19.987232+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:06:04.0042128+00:00"
 }

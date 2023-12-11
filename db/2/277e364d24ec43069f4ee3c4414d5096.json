@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116366,
+  "EOS_Progressed": 116370,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 546,
+  "EOS_NewPlayers": 544,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20819,6 +20819,11 @@
       "Time": "2023-12-10T23:09:01.5190607+00:00",
       "NumProgressed": 116366,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-11T00:10:42.6971757+00:00",
+      "NumProgressed": 116370,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20838,7 +20843,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89602
+      "UsersEstimate": 89605
     },
     {
       "ID": "EAwards_10",
@@ -20854,7 +20859,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30255
+      "UsersEstimate": 30256
     },
     {
       "ID": "EAwards_12",
@@ -20862,7 +20867,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17455
+      "UsersEstimate": 17456
     },
     {
       "ID": "EAwards_13",
@@ -20902,7 +20907,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43055
+      "UsersEstimate": 43057
     },
     {
       "ID": "EAwards_18",
@@ -20926,7 +20931,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55856
+      "UsersEstimate": 55858
     },
     {
       "ID": "EAwards_20",
@@ -20934,7 +20939,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12800
+      "UsersEstimate": 12801
     },
     {
       "ID": "EAwards_21",
@@ -20958,7 +20963,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9309
+      "UsersEstimate": 9310
     },
     {
       "ID": "EAwards_24",
@@ -20982,7 +20987,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12800
+      "UsersEstimate": 12801
     },
     {
       "ID": "EAwards_27",
@@ -21014,7 +21019,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23273
+      "UsersEstimate": 23274
     },
     {
       "ID": "EAwards_30",
@@ -21214,14 +21219,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12800
+      "UsersEstimate": 12801
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116366,
+      "Progressed": 116370,
       "Completed": 51
     }
   ],
@@ -21229,8 +21234,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:09:01.5190602+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:10:42.6971752+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.236213+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:59:30.589778+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:09:01.5191729+00:00"
+  "LastUpdate_Ratings": "2023-12-11T00:00:58.0115003+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:10:42.6973405+00:00"
 }

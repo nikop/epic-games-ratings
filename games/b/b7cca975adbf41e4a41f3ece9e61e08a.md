@@ -5,13 +5,13 @@ Rating: 4.75 (Ranked 145)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~10,030 |
-| I Challenge You To Save More Money! | 86.00% | ~9,376 |
-| I Love How Tough You Are | 73.00% | ~7,958 |
-| Wanna Come To My Place For Dinner? | 67.00% | ~7,304 |
-| What I Want Is You | 61.00% | ~6,650 |
-| To Be Or Not To Be | 58.00% | ~6,323 |
-| Are You Alright? | 50.00% | ~5,451 |
+| Last Night...Did We... | 92.00% | ~10,031 |
+| I Challenge You To Save More Money! | 86.00% | ~9,377 |
+| I Love How Tough You Are | 73.00% | ~7,959 |
+| Wanna Come To My Place For Dinner? | 67.00% | ~7,305 |
+| What I Want Is You | 61.00% | ~6,651 |
+| To Be Or Not To Be | 58.00% | ~6,324 |
+| Are You Alright? | 50.00% | ~5,452 |
 | Love Actually | 49.00% | ~5,342 |
 | Drama King | 42.00% | ~4,579 |
 | You're Really Something Else | 38.00% | ~4,143 |
@@ -31,8 +31,8 @@ Rating: 4.75 (Ranked 145)
 | Lover In Dark Alley | 25.00% | ~2,726 |
 | That's So You | 25.00% | ~2,726 |
 | SALUTE | 25.00% | ~2,726 |
-| Let Me Be Your Toy Boy | 24.00% | ~2,616 |
-| Off We Sail Tonight | 19.00% | ~2,071 |
+| Let Me Be Your Toy Boy | 24.00% | ~2,617 |
+| Off We Sail Tonight | 19.00% | ~2,072 |
 | Love You Three Thousand | 16.00% | ~1,744 |
 | Can You Do This Or Not? | 16.00% | ~1,744 |
 | Doesn't Matter I'll Handle It | 14.00% | ~1,526 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 145)
 | Tall; Grande; Venti | 2.00% | ~218 |
 | Limerence | 2.00% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,902 (Ranked 165)  
+Progressed: 10,903 (Ranked 165)  
 Completed: 201 (1.84%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 201 (1.84%) (Ranked 134)
 | 2023-12-08 | 10,827 | 198 |
 | 2023-12-09 | 10,871 | 200 |
 | 2023-12-10 | 10,902 | 201 |
+| 2023-12-11 | 10,903 | 201 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 534)  
 Sum: 23 (Ranked 538)  

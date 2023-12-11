@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5725,7 +5725,7 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 253775,
+  "EOS_Progressed": 253776,
   "EOS_Completed": 900,
   "EOS_NewPlayers": 798,
   "EOS_NewCompleters": 6,
@@ -31270,6 +31270,11 @@
       "Time": "2023-12-10T23:09:15.2122222+00:00",
       "NumProgressed": 253775,
       "NumCompleted": 900
+    },
+    {
+      "Time": "2023-12-11T00:11:01.2981469+00:00",
+      "NumProgressed": 253776,
+      "NumCompleted": 900
     }
   ],
   "TotalAchievements": 39,
@@ -31313,7 +31318,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 68519
+      "UsersEstimate": 68520
     },
     {
       "ID": "AchievementBigFootID",
@@ -31329,7 +31334,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 76132
+      "UsersEstimate": 76133
     },
     {
       "ID": "AchievementBoulderID",
@@ -31345,7 +31350,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 230935
+      "UsersEstimate": 230936
     },
     {
       "ID": "AchievementClownID",
@@ -31457,7 +31462,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 35528
+      "UsersEstimate": 35529
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -31481,7 +31486,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 96434
+      "UsersEstimate": 96435
     },
     {
       "ID": "AchievementRampID",
@@ -31529,7 +31534,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 129425
+      "UsersEstimate": 129426
     },
     {
       "ID": "AchievementStreakingID",
@@ -31553,7 +31558,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 139576
+      "UsersEstimate": 139577
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -31561,7 +31566,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 119274
+      "UsersEstimate": 119275
     },
     {
       "ID": "AchievementTrinketID",
@@ -31585,14 +31590,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 68519
+      "UsersEstimate": 68520
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 253775,
+      "Progressed": 253776,
       "Completed": 900
     }
   ],
@@ -31600,8 +31605,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-12-10T20:57:50.7811102+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:09:15.2122217+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:11:01.2981465+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:59.5237496+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:57:24.3788764+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:09:15.2124063+00:00"
+  "LastUpdate_Ratings": "2023-12-10T23:57:46.2375212+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:11:01.2983073+00:00"
 }

@@ -38,14 +38,14 @@
 | If Looks Could Kill | 31.00% | ~168 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~157 |
 | Forbidden Knowledge | 28.00% | ~152 |
+| The Finitude Drill | 28.00% | ~152 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~147 |
-| The Finitude Drill | 27.00% | ~147 |
 | Hungry, Hungry Gorgu! | 26.00% | ~141 |
 | Stop Tanos! | 26.00% | ~141 |
 | Doom Hill | 26.00% | ~141 |
 | Brimstone Shaken, Not Stirred | 24.00% | ~130 |
+| Sabotage! | 23.00% | ~125 |
 | Bonus Evilness | 22.00% | ~119 |
-| Sabotage! | 22.00% | ~119 |
 | Raiders of the Lost Stone | 22.00% | ~119 |
 | The Rune Sockets of Finitude (Part 1) | 22.00% | ~119 |
 | The Rune Sockets of Finitude (Part 2) | 20.00% | ~109 |

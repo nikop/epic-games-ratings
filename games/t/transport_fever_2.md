@@ -61,14 +61,14 @@ Number of Ratings: 180  (23.09.2022)
 | Campaign tycoon | 2.00% | ~38 |
 | Metropolis | 2.00% | ~38 |
 | Speed of light | 2.00% | ~38 |
-| Trans-Siberian Railway | 1.00% | ~19 |
+| Trans-Siberian Railway | 2.00% | ~38 |
 | Louis Favre | 1.00% | ~19 |
 | Train Fever | 0.90% | ~17 |
 | Big spender | 0.60% | ~12 |
 | Glacier express | 0.20% | ~4 |
 | Museum line | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,925 (Ranked 231)  
+Progressed: 1,925 (Ranked 232)  
 Completed: 1 (0.05%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,073 (Ranked 84)  
+Progressed: 126,074 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,6 +311,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-08 | 125,859 | 2 |
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
+| 2023-12-11 | 126,074 | 2 |
 ## Awards
 Max (Character Customization): 7,578  (Ranked 52)  
 Sum: 20,042 (Ranked 59)  

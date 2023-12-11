@@ -2,10 +2,10 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 445,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101,
+  "EOS_Progressed": 102,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -479,6 +479,11 @@
       "Time": "2023-12-04T15:04:00.3912538+00:00",
       "NumProgressed": 101,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T00:08:41.8720351+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -497,7 +502,7 @@
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -529,9 +534,9 @@
       "ID": "SG_BRANDNEWCHORUS",
       "SetID": "bj5g0n4",
       "Name": "Brand New Chorus",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_BRAVEONTIME",
@@ -561,9 +566,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 73,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -641,9 +646,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -713,7 +718,7 @@
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -737,9 +742,9 @@
       "ID": "SG_THEMUSESENCORE",
       "SetID": "bj5g0n4",
       "Name": "The Muse\u2019s Encore",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -786,14 +791,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 101,
+      "Progressed": 102,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:06:05.2649885+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:08:41.8720342+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:54.1006899+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:59:27.5528712+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:06:05.2650093+00:00"
+  "LastUpdate_Ratings": "2023-12-11T00:00:53.573775+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:08:41.8720611+00:00"
 }

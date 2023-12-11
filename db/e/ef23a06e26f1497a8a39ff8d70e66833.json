@@ -2,10 +2,10 @@
   "ID": "ef23a06e26f1497a8a39ff8d70e66833",
   "Name": "Outbreak Epidemic Viral Terror",
   "ProductSlug": "outbreak-epidemic-viral-terror-54b6e9",
-  "Ranking_EOS_Progress": 634,
+  "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-27T14:00:00+00:00",
     "PcReleaseDate": "2023-09-27T14:00:00+00:00",
@@ -154,8 +154,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:20.9427782+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:06:08.3708781+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:08:46.5089964+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:42.0851005+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:59:27.2497555+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:06:08.3708875+00:00"
+  "LastUpdate_Ratings": "2023-12-11T00:00:53.1837958+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:08:46.5090061+00:00"
 }

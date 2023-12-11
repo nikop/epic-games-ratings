@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1637,
+  "EOS_Progressed": 1640,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 726,
+  "EOS_NewPlayers": 724,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1204,6 +1204,11 @@
       "Time": "2023-12-10T23:04:32.0949069+00:00",
       "NumProgressed": 1637,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T00:05:59.9255136+00:00",
+      "NumProgressed": 1640,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1280,7 +1285,7 @@
       "Name": "Terrible Journey",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -1320,7 +1325,7 @@
       "Name": "Worthy Badge",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1591,14 +1596,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1637,
+      "Progressed": 1640,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:04:32.0949066+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:05:59.9255132+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:59:41.8732916+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:04:32.0949474+00:00"
+  "LastUpdate_Ratings": "2023-12-11T00:01:16.437221+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:05:59.9255543+00:00"
 }

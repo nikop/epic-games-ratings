@@ -6,9 +6,9 @@
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 199,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -637,11 +637,11 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 3999,
+  "EOS_Progressed": 4000,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -8527,6 +8527,11 @@
       "Time": "2023-12-10T16:08:15.7667947+00:00",
       "NumProgressed": 3999,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-11T00:09:23.0013162+00:00",
+      "NumProgressed": 4000,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9002,7 +9007,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -9058,7 +9063,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -9066,15 +9071,15 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
       "SetID": "83mdf7p",
       "Name": "Stroll in the Woods",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_DLC04_01_SHIPBREAKER",
@@ -9082,7 +9087,7 @@
       "Name": "Shipbreaker",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
@@ -9105,13 +9110,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3950,
+      "Progressed": 3951,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3999,
+      "Progressed": 4000,
       "Completed": 11
     }
   ],
@@ -9119,8 +9124,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-07T15:59:27.2603128+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:08:05.1631685+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:09:23.0013157+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.4789046+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:57:33.2716283+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:08:05.1632503+00:00"
+  "LastUpdate_Ratings": "2023-12-10T23:57:59.3853577+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:09:23.0014013+00:00"
 }

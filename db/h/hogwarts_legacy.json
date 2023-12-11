@@ -11817,9 +11817,9 @@
       "Count": 852
     }
   ],
-  "EOS_Progressed": 304188,
+  "EOS_Progressed": 304189,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36942,6 +36942,11 @@
       "Time": "2023-12-10T23:04:30.5976173+00:00",
       "NumProgressed": 304188,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-11T00:05:57.6707944+00:00",
+      "NumProgressed": 304189,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37297,7 +37302,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39544
+      "UsersEstimate": 39545
     },
     {
       "ID": "PFA_9",
@@ -37312,7 +37317,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304188,
+      "Progressed": 304189,
       "Completed": 525
     }
   ],
@@ -37320,8 +37325,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-10T22:58:54.3258936+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:04:30.5976166+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:05:57.670794+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:58:54.3258942+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:04:30.5977479+00:00"
+  "LastUpdate_Ratings": "2023-12-11T00:00:01.9222544+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:05:57.6709089+00:00"
 }

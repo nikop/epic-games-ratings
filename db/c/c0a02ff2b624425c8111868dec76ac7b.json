@@ -2,10 +2,10 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 417,
+  "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -584,6 +584,11 @@
       "Time": "2023-12-09T12:06:37.4342659+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T00:07:35.2041814+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -642,9 +647,9 @@
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -668,7 +673,7 @@
       "Name": "Dark Paladin",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_DEMON_ABSORBED",
@@ -700,15 +705,15 @@
       "Name": "Edda and Aven",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -732,7 +737,7 @@
       "Name": "Phoenix",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_PLATINUM",
@@ -787,14 +792,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:05:39.2971099+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:07:35.2041802+00:00",
   "LastUpdate_AppInfo": "2023-12-08T13:57:09.5238384+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:58:40.086029+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:05:39.2971285+00:00"
+  "LastUpdate_Ratings": "2023-12-10T23:59:40.4021691+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:07:35.2042007+00:00"
 }

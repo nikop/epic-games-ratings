@@ -1,22 +1,22 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.55 (Ranked 512)  
+Rating: 4.55 (Ranked 513)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~976,885 |
-| I Need a Bigger Garage | 63.00% | ~683,820 |
-| Pump my Ride | 47.00% | ~510,151 |
-| Ghostbuster | 34.00% | ~369,046 |
-| Call Roadside Assistance | 18.00% | ~195,377 |
-| That Was Close | 18.00% | ~195,377 |
-| Quickie | 11.00% | ~119,397 |
-| California Dreamer | 7.00% | ~75,980 |
-| Can't Touch This | 5.00% | ~54,271 |
-| Carménère Taster | 4.00% | ~43,417 |
-| Comeback | 4.00% | ~43,417 |
+| The First of Many | 90.00% | ~976,898 |
+| I Need a Bigger Garage | 63.00% | ~683,828 |
+| Pump my Ride | 47.00% | ~510,158 |
+| Ghostbuster | 34.00% | ~369,050 |
+| Call Roadside Assistance | 18.00% | ~195,380 |
+| That Was Close | 18.00% | ~195,380 |
+| Quickie | 11.00% | ~119,399 |
+| California Dreamer | 7.00% | ~75,981 |
+| Can't Touch This | 5.00% | ~54,272 |
+| Carménère Taster | 4.00% | ~43,418 |
+| Comeback | 4.00% | ~43,418 |
 | Driver from Ipanema | 3.00% | ~32,563 |
 | Supersonic | 3.00% | ~32,563 |
 | Marathonist | 3.00% | ~32,563 |
@@ -35,7 +35,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~10,854 |
 | Old Master | 0.90% | ~9,769 |
 | Otaku | 0.90% | ~9,769 |
-| Volcano Surfer | 0.80% | ~8,683 |
+| Volcano Surfer | 0.80% | ~8,684 |
 | Survivor | 0.60% | ~6,513 |
 | King of the World | 0.60% | ~6,513 |
 | Getting Famous | 0.50% | ~5,427 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,171 |
 | Transporter | 0.10% | ~1,085 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,085,428 (Ranked 13)  
+Progressed: 1,085,442 (Ranked 13)  
 Completed: 504 (0.05%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,6 +279,7 @@ Completed: 504 (0.05%) (Ranked 322)
 | 2023-12-08 | 1,084,325 | 503 |
 | 2023-12-09 | 1,084,867 | 503 |
 | 2023-12-10 | 1,085,428 | 504 |
+| 2023-12-11 | 1,085,442 | 504 |
 ## Awards
 Max (Great for Beginners): 175  (Ranked 307)  
 Sum: 1,572 (Ranked 234)  

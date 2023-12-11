@@ -15,8 +15,8 @@
 | The artist | 13.00% | ~6 |
 | The seer | 13.00% | ~6 |
 | Pulp! Terror Tales in the Night | 13.00% | ~6 |
+| Pulp! Out of this World | 13.00% | ~6 |
 | A rival with no options | 11.00% | ~5 |
-| Pulp! Out of this World | 11.00% | ~5 |
 | You have two wishes left | 11.00% | ~5 |
 | You had one wish left | 9.00% | ~4 |
 | Pulp! Adventures into the Unknown | 9.00% | ~4 |

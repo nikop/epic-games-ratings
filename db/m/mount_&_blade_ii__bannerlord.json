@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -9636,9 +9636,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67577,
+  "EOS_Progressed": 67579,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 540,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34391,6 +34391,11 @@
       "Time": "2023-12-10T23:09:17.1730162+00:00",
       "NumProgressed": 67577,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T00:11:03.9568648+00:00",
+      "NumProgressed": 67579,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34410,7 +34415,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10812
+      "UsersEstimate": 10813
     },
     {
       "ID": "Bannerlord",
@@ -34418,7 +34423,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 16218
+      "UsersEstimate": 16219
     },
     {
       "ID": "Best served cold",
@@ -34562,7 +34567,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 16218
+      "UsersEstimate": 16219
     },
     {
       "ID": "I can do it",
@@ -34570,7 +34575,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10812
+      "UsersEstimate": 10813
     },
     {
       "ID": "I spit on your grave",
@@ -34610,7 +34615,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4730
+      "UsersEstimate": 4731
     },
     {
       "ID": "Lance-a-lot",
@@ -34626,7 +34631,7 @@
       "Name": "Landlord",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 22976
+      "UsersEstimate": 22977
     },
     {
       "ID": "Lawbringer",
@@ -34634,7 +34639,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 27031
+      "UsersEstimate": 27032
     },
     {
       "ID": "Lawmaker",
@@ -34642,7 +34647,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16218
+      "UsersEstimate": 16219
     },
     {
       "ID": "Long live the Empire",
@@ -34746,7 +34751,7 @@
       "Name": "Swordbearer",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 7433
+      "UsersEstimate": 7434
     },
     {
       "ID": "The king is pleased",
@@ -34778,7 +34783,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16218
+      "UsersEstimate": 16219
     },
     {
       "ID": "Undercover",
@@ -34809,15 +34814,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67577,
+      "Progressed": 67579,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-10T21:59:21.3116518+00:00",
-  "LastChanged_Achievements": "2023-12-10T23:09:17.1730156+00:00",
+  "LastChanged_Achievements": "2023-12-11T00:11:03.9568643+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.7190339+00:00",
-  "LastUpdate_Ratings": "2023-12-10T22:58:34.3045244+00:00",
-  "LastUpdate_Achievements": "2023-12-10T23:09:17.1731574+00:00"
+  "LastUpdate_Ratings": "2023-12-10T23:59:31.7863766+00:00",
+  "LastUpdate_Achievements": "2023-12-11T00:11:03.9569799+00:00"
 }

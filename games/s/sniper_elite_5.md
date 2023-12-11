@@ -37,7 +37,7 @@ Rating: 4.43 (Ranked 696)
 | Precision Is Key | 10.00% | ~400 |
 | My Little Friend | 10.00% | ~400 |
 | Rigged to Blow | 9.00% | ~360 |
-| Herr Today, Gone Tomorrow | 7.00% | ~276 |
+| Herr Today, Gone Tomorrow | 7.00% | ~277 |
 | The Long Game | 6.00% | ~240 |
 | Operation Foxley | 6.00% | ~237 |
 | Tinkerer | 5.00% | ~200 |
@@ -53,9 +53,9 @@ Rating: 4.43 (Ranked 696)
 | Burn after reading | 3.00% | ~120 |
 | Souvenir hunter | 3.00% | ~120 |
 | Shoot for the Moon | 3.00% | ~120 |
-| If You Go Down To The Woods Today | 3.00% | ~118 |
-| Fight Another Day | 3.00% | ~118 |
-| Shipbreaker | 3.00% | ~118 |
+| If You Go Down To The Woods Today | 3.00% | ~119 |
+| Fight Another Day | 3.00% | ~119 |
+| Shipbreaker | 3.00% | ~119 |
 | Out of Scope | 2.00% | ~80 |
 | Eagle Eyed | 2.00% | ~80 |
 | Up close and personal | 2.00% | ~80 |
@@ -74,11 +74,11 @@ Rating: 4.43 (Ranked 696)
 | Master of Pistols | 0.80% | ~32 |
 | Operation Overlord | 0.80% | ~32 |
 | Master-at-arms | 0.70% | ~28 |
-| Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
+| Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,999 (Ranked 199)  
-Completed: 11 (0.28%) (Ranked 245)  
+Progressed: 4,000 (Ranked 199)  
+Completed: 11 (0.27%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -310,6 +310,7 @@ Completed: 11 (0.28%) (Ranked 245)
 | 2023-12-08 | 3,991 | 11 |
 | 2023-12-09 | 3,996 | 11 |
 | 2023-12-10 | 3,999 | 11 |
+| 2023-12-11 | 4,000 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 508)  
 Sum: 28 (Ranked 524)  
