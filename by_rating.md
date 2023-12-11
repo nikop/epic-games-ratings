@@ -132,7 +132,7 @@
 | 129 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,410 | 94 |
 | 129 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,113 | 145 |
 | 129 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,254 | 140 |
-| 129 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 25,081 | 17 |
+| 129 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 25,106 | 17 |
 | 129 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 5,250 | 72 |
 | 129 | [Journey](games/j/journey.md) | 4.76 | 0 | 560 |
 | 129 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 560 |
@@ -370,7 +370,7 @@
 | 353 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,812 | 120 |
 | 353 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.63 | 58 | 420 |
 | 353 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 2,186 | 109 |
-| 371 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.62 | 36 | 477 |
+| 371 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.62 | 37 | 475 |
 | 371 | [Aimlabs](games/a/aimlabs.md) | 4.62 | 63 | 413 |
 | 371 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 905 | 164 |
 | 371 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.62 | 0 | 560 |
@@ -492,7 +492,7 @@
 | 481 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.57 | 0 | 560 |
 | 481 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 560 |
 | 481 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,563 | 81 |
-| 481 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 31 | 499 |
+| 481 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 32 | 496 |
 | 481 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 20,748 | 22 |
 | 481 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,793 | 121 |
 | 481 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 92 | 380 |
@@ -521,7 +521,7 @@
 | 514 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,768 | 122 |
 | 514 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 435 | 226 |
 | 514 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.55 | 0 | 560 |
-| 514 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 36 | 477 |
+| 514 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 36 | 478 |
 | 514 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 33 | 491 |
 | 514 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 175 | 307 |
 | 514 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 73 | 401 |
@@ -562,7 +562,7 @@
 | 546 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 560 |
 | 546 | [Verdun](games/v/verdun.md) | 4.53 | 105 | 359 |
 | 546 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.53 | 0 | 560 |
-| 563 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 36 | 477 |
+| 563 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 36 | 478 |
 | 563 | [Everything](games/e/everything.md) | 4.52 | 0 | 560 |
 | 563 | [Far Cry](games/f/far_cry.md) | 4.52 | 0 | 560 |
 | 563 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 560 |
@@ -596,7 +596,7 @@
 | 576 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 560 |
 | 576 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 44 | 452 |
 | 576 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 138 | 326 |
-| 576 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 31 | 499 |
+| 576 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 31 | 500 |
 | 598 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,850 | 118 |
 | 598 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 440 | 225 |
 | 598 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 111 | 351 |
@@ -640,7 +640,7 @@
 | 637 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 560 |
 | 637 | [First Class Trouble](games/f/first_class_trouble.md) | 4.48 | 145 | 323 |
 | 637 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.48 | 0 | 560 |
-| 637 | [MythForce](games/m/mythforce.md) | 4.48 | 36 | 477 |
+| 637 | [MythForce](games/m/mythforce.md) | 4.48 | 36 | 478 |
 | 637 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 560 |
 | 637 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 560 |
 | 637 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 560 |
@@ -744,7 +744,7 @@
 | 741 | [Beyond Blue](games/b/beyond_blue.md) | 4.40 | 0 | 560 |
 | 741 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 560 |
 | 741 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 560 |
-| 741 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,056 | 150 |
+| 741 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,057 | 150 |
 | 741 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 560 |
 | 741 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.40 | 0 | 560 |
 | 741 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 560 |
