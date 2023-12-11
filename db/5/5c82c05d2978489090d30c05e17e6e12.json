@@ -2,7 +2,7 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 981,
+  "Ranking_Rating": 989,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 106,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.08,
+  "Rating": 4.07,
   "RatingHistory": [
     {
       "Time": "2023-11-20T03:59:04.4319756+00:00",
@@ -173,16 +173,22 @@
       "Rating": 4.08,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-11T15:03:31.6017441+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65945,
-  "EOS_Completed": 72,
-  "EOS_NewPlayers": 2787,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 65955,
+  "EOS_Completed": 73,
+  "EOS_NewPlayers": 2771,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -3154,6 +3160,11 @@
       "Time": "2023-12-11T14:03:36.9865222+00:00",
       "NumProgressed": 65945,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-12-11T15:04:07.8424295+00:00",
+      "NumProgressed": 65955,
+      "NumCompleted": 73
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -3166,7 +3177,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24400
+      "UsersEstimate": 24403
     },
     {
       "ID": "Achievement_10",
@@ -3198,7 +3209,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "Achievement_14",
@@ -3222,7 +3233,7 @@
       "Name": "Diligent Hogbunny",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "Achievement_17",
@@ -3254,7 +3265,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17805
+      "UsersEstimate": 17808
     },
     {
       "ID": "Achievement_20",
@@ -3294,7 +3305,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "Achievement_25",
@@ -3342,7 +3353,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7913
+      "UsersEstimate": 7915
     },
     {
       "ID": "Achievement_30",
@@ -3366,7 +3377,7 @@
       "Name": "Art Director",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "Achievement_33",
@@ -3414,7 +3425,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "Achievement_8",
@@ -3430,23 +3441,23 @@
       "Name": "Shielded by L\u00FFs",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     }
   ],
   "AchievementSets": [
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 65945,
-      "Completed": 72
+      "Progressed": 65955,
+      "Completed": 73
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
-  "LastChanged": "2023-12-10T04:02:59.357636+00:00",
-  "LastChanged_Achievements": "2023-12-11T14:03:36.9865218+00:00",
+  "LastChanged": "2023-12-11T15:03:31.6017439+00:00",
+  "LastChanged_Achievements": "2023-12-11T15:04:07.8424292+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-11T14:03:02.6346451+00:00",
-  "LastUpdate_Achievements": "2023-12-11T14:03:36.9865619+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:03:31.6017447+00:00",
+  "LastUpdate_Achievements": "2023-12-11T15:04:07.8424809+00:00"
 }

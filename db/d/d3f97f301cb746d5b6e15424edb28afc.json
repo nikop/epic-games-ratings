@@ -3682,9 +3682,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 623
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -3763,8 +3763,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-11T14:06:59.295806+00:00",
+  "LastChanged_Achievements": "2023-12-11T15:07:38.7273542+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-11T14:00:02.2572675+00:00",
-  "LastUpdate_Achievements": "2023-12-11T14:06:59.2958883+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:00:24.4905657+00:00",
+  "LastUpdate_Achievements": "2023-12-11T15:07:38.7274721+00:00"
 }

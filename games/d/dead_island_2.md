@@ -1,13 +1,13 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 535)  
+Rating: 4.54 (Ranked 534)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 3.00% | ~21,999 |
-| Whatever It Takes | 3.00% | ~1,765 |
-| Pork Chopped | 3.00% | ~1,765 |
+| Whatever It Takes | 3.00% | ~1,766 |
+| Pork Chopped | 3.00% | ~1,766 |
 | Dr. Reed, I Presume? | 2.00% | ~14,666 |
 | Git Gutte! | 2.00% | ~14,666 |
 | Anger Management | 2.00% | ~14,666 |
@@ -37,16 +37,16 @@ Rating: 4.54 (Ranked 535)
 | Down with the Sickness | 1.00% | ~7,333 |
 | Max Headroom | 1.00% | ~7,333 |
 | Our True Nature | 1.00% | ~7,333 |
-| Not Even My Final Form | 0.80% | ~5,866 |
-| Jumbo Keyring | 0.80% | ~5,866 |
-| Go, Bobcats! | 0.80% | ~5,866 |
-| Rising Star | 0.80% | ~5,866 |
+| Not Even My Final Form | 0.80% | ~5,867 |
+| Jumbo Keyring | 0.80% | ~5,867 |
+| Go, Bobcats! | 0.80% | ~5,867 |
+| Rising Star | 0.80% | ~5,867 |
 | Smorgasbord | 0.70% | ~5,133 |
 | Internet Famous | 0.70% | ~5,133 |
 | Make it So | 0.60% | ~4,400 |
 | On Safari | 0.60% | ~4,400 |
 | Variety is the Spice of Death | 0.60% | ~4,400 |
-| LA Influential | 0.50% | ~3,666 |
+| LA Influential | 0.50% | ~3,667 |
 | Sole Survivor | 0.40% | ~2,933 |
 | Gore Horse | 0.40% | ~2,933 |
 | Sharpest Tool in the Box | 0.40% | ~2,933 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 535)
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,290 (Ranked 21)  
+Progressed: 733,313 (Ranked 21)  
 Completed: 2,476 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 2,476 (0.34%) (Ranked 234)
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
 | 2023-12-10 | 733,123 | 2,475 |
-| 2023-12-11 | 733,290 | 2,476 |
+| 2023-12-11 | 733,313 | 2,476 |
 ## Awards
 Max (Great Boss Battles): 8,071  (Ranked 49)  
 Sum: 12,415 (Ranked 82)  

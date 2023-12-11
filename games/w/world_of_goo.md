@@ -1,7 +1,7 @@
 # World of Goo
 [Store](https://store.epicgames.com/en-US/p/world-of-goo)  
 [View Rawdata](../../db/w/world_of_goo.json)  
-Rating: 4.71 (Ranked 197)  
+Rating: 4.72 (Ranked 190)  
 Number of Ratings: 46  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -46,3 +46,4 @@ Number of Ratings: 46  (23.09.2022)
 | 2023-04-01 | 4.69 | - | 0 | 0 |
 | 2023-08-22 | 4.70 | - | 0 | 0 |
 | 2023-11-22 | 4.71 | - | 0 | 0 |
+| 2023-12-11 | 4.72 | - | 0 | 0 |

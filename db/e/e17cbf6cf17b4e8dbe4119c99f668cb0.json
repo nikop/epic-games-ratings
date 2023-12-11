@@ -4,7 +4,7 @@
   "ProductSlug": "archery-red-88925d",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-05T14:57:04.2850857+00:00",
-  "LastUpdate_Ratings": "2023-12-11T14:01:33.7539176+00:00",
-  "LastUpdate_Achievements": "2023-12-11T14:06:53.0459279+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:02:02.0329346+00:00",
+  "LastUpdate_Achievements": "2023-12-11T15:07:32.238322+00:00"
 }

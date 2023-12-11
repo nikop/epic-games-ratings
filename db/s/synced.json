@@ -2,9 +2,9 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 953,
+  "Ranking_Rating": 959,
   "Ranking_Popularity": 362,
-  "Ranking_PopularitySum": 336,
+  "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 116,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.16,
+  "Rating": 4.15,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -1189,10 +1189,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 463,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-12-11T14:58:05.9879165+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 409,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 463,
+  "NumberOfAwards": 409,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1259,7 +1265,7 @@
   ],
   "EOS_Progressed": 68441,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12328,9 +12334,9 @@
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-12-09T05:59:31.1700998+00:00",
-  "LastChanged_Achievements": "2023-12-11T14:04:42.9550529+00:00",
+  "LastChanged": "2023-12-11T14:58:05.9879163+00:00",
+  "LastChanged_Achievements": "2023-12-11T15:05:17.0218031+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:19.3364255+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:57:53.1470546+00:00",
-  "LastUpdate_Achievements": "2023-12-11T14:04:42.9551009+00:00"
+  "LastUpdate_Ratings": "2023-12-11T14:58:05.9879169+00:00",
+  "LastUpdate_Achievements": "2023-12-11T15:05:17.0218884+00:00"
 }

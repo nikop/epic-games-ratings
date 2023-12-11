@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7931,
+  "EOS_Progressed": 7932,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8921,6 +8921,11 @@
       "Time": "2023-12-11T13:12:17.7448302+00:00",
       "NumProgressed": 7931,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-11T15:06:03.6674415+00:00",
+      "NumProgressed": 7932,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8948,7 +8953,7 @@
       "Name": "Audiophile",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -8956,7 +8961,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -9004,7 +9009,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -9099,7 +9104,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7931,
+      "Progressed": 7932,
       "Completed": 34
     }
   ],
@@ -9107,8 +9112,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-11T14:05:27.7176005+00:00",
+  "LastChanged_Achievements": "2023-12-11T15:06:03.6674413+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-11T14:02:39.6888514+00:00",
-  "LastUpdate_Achievements": "2023-12-11T14:05:27.717642+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:03:07.3333221+00:00",
+  "LastUpdate_Achievements": "2023-12-11T15:06:03.6675241+00:00"
 }

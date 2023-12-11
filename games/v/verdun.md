@@ -1,19 +1,19 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 546)  
+Rating: 4.53 (Ranked 545)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~51,534 |
-| Worth it | 63.00% | ~41,623 |
+| Setting an example | 78.00% | ~51,535 |
+| Worth it | 63.00% | ~41,624 |
 | Eagle Eye | 55.00% | ~36,338 |
 | Corpseman I | 40.00% | ~26,428 |
 | Blast fishing | 37.00% | ~24,446 |
 | Not alone | 32.00% | ~21,142 |
 | Headhunter I | 26.00% | ~17,178 |
-| Manual Labour I | 25.00% | ~16,517 |
+| Manual Labour I | 25.00% | ~16,518 |
 | Developers, Developers, Developers | 24.00% | ~15,857 |
 | Basic Training | 24.00% | ~15,857 |
 | Furchtlos und Treu | 13.00% | ~8,589 |
@@ -25,9 +25,9 @@ Number of Ratings: 1,999  (23.09.2022)
 | Battle hardened | 8.00% | ~5,286 |
 | Semper Fidelis! | 7.00% | ~4,625 |
 | Honneur et Patrie | 7.00% | ~4,625 |
-| In Treue Fest | 5.00% | ~3,303 |
-| Voor De Koning | 5.00% | ~3,303 |
-| Extreme Headhunter | 5.00% | ~3,303 |
+| In Treue Fest | 5.00% | ~3,304 |
+| Voor De Koning | 5.00% | ~3,304 |
+| Extreme Headhunter | 5.00% | ~3,304 |
 | Advance Australia | 4.00% | ~2,643 |
 | We Stand on Guard | 4.00% | ~2,643 |
 | Sidi Brahim | 4.00% | ~2,643 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~66 |
 | Blood Brother | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,069 (Ranked 105)  
+Progressed: 66,070 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 4 (0.01%) (Ranked 348)
 | 2023-12-08 | 65,819 | 4 |
 | 2023-12-09 | 65,935 | 4 |
 | 2023-12-10 | 66,035 | 4 |
-| 2023-12-11 | 66,069 | 4 |
+| 2023-12-11 | 66,070 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 359)  
 Sum: 817 (Ranked 282)  

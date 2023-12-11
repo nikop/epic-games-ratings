@@ -9,13 +9,13 @@
 | For the Horde! | 83.00% | ~451 |
 | Hammer Time, Round Two | 81.00% | ~440 |
 | The Hellwoods | 77.00% | ~418 |
+| Experienced Thalya | 73.00% | ~396 |
 | The Plains of Strothalm | 72.00% | ~391 |
-| Experienced Thalya | 72.00% | ~391 |
 | Thalya's Concentrated Fury | 69.00% | ~375 |
 | Bad Elves Go Everywhere | 69.00% | ~375 |
 | Heroes’ Gorge | 65.00% | ~353 |
 | Master of Magic | 64.00% | ~348 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~337 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~342 |
 | Magic Accidents | 60.00% | ~326 |
 | The Ascent | 58.00% | ~315 |
 | It's Warm and Cozy at Home | 58.00% | ~315 |
@@ -27,7 +27,7 @@
 | “… like son” | 50.00% | ~272 |
 | The Cathedral of Light | 47.00% | ~255 |
 | Shame! Shame! Shame! | 47.00% | ~255 |
-| Pure Dynamite! | 45.00% | ~244 |
+| Pure Dynamite! | 46.00% | ~250 |
 | Dungeonlord Gorgu | 45.00% | ~244 |
 | Tanos' Crusade Against Thalya | 44.00% | ~239 |
 | Mana Cannon | 42.00% | ~228 |

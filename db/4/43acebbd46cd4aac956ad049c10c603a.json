@@ -2,7 +2,7 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 25,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 276,
@@ -216,7 +216,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 931,
+  "EOS_Progressed": 932,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
@@ -2326,6 +2326,11 @@
       "Time": "2023-12-11T13:12:01.20023+00:00",
       "NumProgressed": 931,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-11T15:05:40.22124+00:00",
+      "NumProgressed": 932,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2514,7 +2519,7 @@
       "Name": "Just One Lap",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "LordOfTheFiles",
@@ -2698,7 +2703,7 @@
       "Name": "The All-Gifted",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2778,7 +2783,7 @@
       "Name": "Wanderers",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "WesternDelta",
@@ -2809,7 +2814,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 931,
+      "Progressed": 932,
       "Completed": 1
     }
   ],
@@ -2817,8 +2822,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-11T14:05:05.1619961+00:00",
+  "LastChanged_Achievements": "2023-12-11T15:05:40.2212396+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:59:03.1652395+00:00",
-  "LastUpdate_Achievements": "2023-12-11T14:05:05.162072+00:00"
+  "LastUpdate_Ratings": "2023-12-11T14:59:20.7975398+00:00",
+  "LastUpdate_Achievements": "2023-12-11T15:05:40.2213104+00:00"
 }

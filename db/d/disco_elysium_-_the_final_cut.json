@@ -2,7 +2,7 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
-  "Ranking_Rating": 25,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 182,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 83,
@@ -1538,9 +1538,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131861,
+  "EOS_Progressed": 131866,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24413,6 +24413,11 @@
       "Time": "2023-12-11T14:06:13.666186+00:00",
       "NumProgressed": 131861,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-11T15:06:50.9147548+00:00",
+      "NumProgressed": 131866,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24456,7 +24461,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23735
+      "UsersEstimate": 23736
     },
     {
       "ID": "ACH_COP_BAD",
@@ -24472,7 +24477,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11867
+      "UsersEstimate": 11868
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -24480,7 +24485,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31647
+      "UsersEstimate": 31648
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -24488,7 +24493,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11867
+      "UsersEstimate": 11868
     },
     {
       "ID": "ACH_COP_DORK",
@@ -24504,7 +24509,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36921
+      "UsersEstimate": 36922
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -24520,7 +24525,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5274
+      "UsersEstimate": 5275
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -24528,7 +24533,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21098
+      "UsersEstimate": 21099
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -24536,7 +24541,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27691
+      "UsersEstimate": 27692
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -24552,7 +24557,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17142
+      "UsersEstimate": 17143
     },
     {
       "ID": "ACH_COP_STAR",
@@ -24560,7 +24565,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21098
+      "UsersEstimate": 21099
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -24584,7 +24589,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13186
+      "UsersEstimate": 13187
     },
     {
       "ID": "ACH_GLUTEN",
@@ -24720,7 +24725,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5274
+      "UsersEstimate": 5275
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -24743,15 +24748,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131861,
+      "Progressed": 131866,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-10T16:58:01.1113287+00:00",
-  "LastChanged_Achievements": "2023-12-11T14:06:13.6661857+00:00",
+  "LastChanged_Achievements": "2023-12-11T15:06:50.9147545+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:13.3373755+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:58:56.2064595+00:00",
-  "LastUpdate_Achievements": "2023-12-11T14:06:13.6662932+00:00"
+  "LastUpdate_Ratings": "2023-12-11T14:59:13.3839513+00:00",
+  "LastUpdate_Achievements": "2023-12-11T15:06:50.9149182+00:00"
 }

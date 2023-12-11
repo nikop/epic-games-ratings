@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 546)  
+Rating: 4.53 (Ranked 545)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,8 +12,8 @@ Number of Ratings: 90  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 32.00% | ~11 |
 | Shop Til They Drop | 26.00% | ~9 |
 | Upgreatest | 21.00% | ~7 |
+| I Look Up As I Walk to Takoshima | 18.00% | ~6 |
 | Earthly Pleasures | 18.00% | ~6 |
-| I Look Up As I Walk to Takoshima | 15.00% | ~5 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 15.00% | ~5 |
 | Pimp My Raid | 15.00% | ~5 |
 | Cult Following | 12.00% | ~4 |
@@ -27,8 +27,8 @@ Number of Ratings: 90  (23.09.2022)
 | Kaijuiced | 6.00% | ~2 |
 | Lobster Blisque | 6.00% | ~2 |
 | Freshly Squeezed | 6.00% | ~2 |
+| Die Nasty | 6.00% | ~2 |
 | Forbidden Donut | 3.00% | ~1 |
-| Die Nasty | 3.00% | ~1 |
 | Yettisoned | 3.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |

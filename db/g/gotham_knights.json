@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4607,7 +4607,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77888,
+  "EOS_Progressed": 77890,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 1,
@@ -25642,6 +25642,11 @@
       "Time": "2023-12-11T14:07:19.6584781+00:00",
       "NumProgressed": 77888,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-11T15:07:59.6425425+00:00",
+      "NumProgressed": 77890,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25701,7 +25706,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17135
+      "UsersEstimate": 17136
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -25741,7 +25746,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11683
+      "UsersEstimate": 11684
     },
     {
       "ID": "CHALLENGES_1",
@@ -25757,7 +25762,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16356
+      "UsersEstimate": 16357
     },
     {
       "ID": "CLAYFACE_2",
@@ -25773,7 +25778,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10904
+      "UsersEstimate": 10905
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -25813,7 +25818,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 10125
+      "UsersEstimate": 10126
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -25861,7 +25866,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10125
+      "UsersEstimate": 10126
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -25901,7 +25906,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10904
+      "UsersEstimate": 10905
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -25957,7 +25962,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26482
+      "UsersEstimate": 26483
     },
     {
       "ID": "HARLEY_2",
@@ -25997,7 +26002,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38944
+      "UsersEstimate": 38945
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -26045,7 +26050,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25703
+      "UsersEstimate": 25704
     },
     {
       "ID": "MYSTERY_02",
@@ -26053,7 +26058,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18693
+      "UsersEstimate": 18694
     },
     {
       "ID": "MYSTERY_03",
@@ -26061,7 +26066,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17135
+      "UsersEstimate": 17136
     },
     {
       "ID": "MYSTERY_04",
@@ -26085,7 +26090,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11683
+      "UsersEstimate": 11684
     },
     {
       "ID": "MYSTERY_07",
@@ -26093,7 +26098,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10904
+      "UsersEstimate": 10905
     },
     {
       "ID": "MYSTERY_08",
@@ -26140,13 +26145,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77888,
+      "Progressed": 77890,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48168,
+      "Progressed": 48170,
       "Completed": 2675
     }
   ],
@@ -26154,8 +26159,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-10T21:57:48.3381968+00:00",
-  "LastChanged_Achievements": "2023-12-11T14:07:19.6584776+00:00",
+  "LastChanged_Achievements": "2023-12-11T15:07:59.6425418+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:58:34.6133837+00:00",
-  "LastUpdate_Achievements": "2023-12-11T14:07:19.6586236+00:00"
+  "LastUpdate_Ratings": "2023-12-11T14:58:49.0995142+00:00",
+  "LastUpdate_Achievements": "2023-12-11T15:07:59.6427252+00:00"
 }

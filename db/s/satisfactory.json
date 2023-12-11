@@ -2,12 +2,12 @@
   "ID": "crab",
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
-  "Ranking_Rating": 25,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 30,
   "Ranking_PopularitySum": 14,
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -14513,10 +14513,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 110292,
       "NumberOfAwardsMax": 13827
+    },
+    {
+      "Time": "2023-12-11T15:01:34.0171418+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 110322,
+      "NumberOfAwardsMax": 13827
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 110292,
+  "NumberOfAwards": 110322,
   "NumberOfAwardsMax": 13827,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -14584,7 +14590,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 8579
+      "Count": 8609
     }
   ],
   "EOS_Progressed": 0,
@@ -14606,9 +14612,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2023-12-11T11:59:33.3284681+00:00",
-  "LastChanged_Achievements": "2023-12-11T14:07:03.971192+00:00",
+  "LastChanged": "2023-12-11T15:01:34.0171416+00:00",
+  "LastChanged_Achievements": "2023-12-11T15:07:43.6809377+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.2911694+00:00",
-  "LastUpdate_Ratings": "2023-12-11T14:01:07.7406172+00:00",
-  "LastUpdate_Achievements": "2023-12-11T14:07:03.9711955+00:00"
+  "LastUpdate_Ratings": "2023-12-11T15:01:34.0171424+00:00",
+  "LastUpdate_Achievements": "2023-12-11T15:07:43.6809413+00:00"
 }

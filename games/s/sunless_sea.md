@@ -10,7 +10,7 @@ Number of Ratings: 401  (23.09.2022)
 | Sweet Sorrow | 18.00% | ~7,568 |
 | Rules the Waves | 17.00% | ~7,148 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,307 |
-| Rival | 14.00% | ~5,886 |
+| Rival | 14.00% | ~5,887 |
 | Correspondent | 12.00% | ~5,046 |
 | Lose Your Mind | 12.00% | ~5,046 |
 | Sound Mind? | 12.00% | ~5,046 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~42 |
 | Ten Years at Zee | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,046 (Ranked 122)  
+Progressed: 42,047 (Ranked 122)  
 Completed: 4 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 4 (0.01%) (Ranked 348)
 | 2023-12-08 | 41,875 | 4 |
 | 2023-12-09 | 41,951 | 4 |
 | 2023-12-10 | 42,024 | 4 |
-| 2023-12-11 | 42,046 | 4 |
+| 2023-12-11 | 42,047 | 4 |
 ## Awards
 Max (Character Customization): 219  (Ranked 284)  
 Sum: 313 (Ranked 365)  

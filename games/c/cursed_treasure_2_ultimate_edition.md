@@ -27,8 +27,8 @@
 | The Apotheosis of War | 68.00% | ~124 |
 | Stasis Alcatraz | 68.00% | ~124 |
 | Brilliant: Holy Mountain | 64.00% | ~116 |
+| Combo Breaker | 64.00% | ~116 |
 | Tastes Like Chicken | 64.00% | ~116 |
-| Combo Breaker | 63.00% | ~115 |
 | Thunderstorm | 63.00% | ~115 |
 | Clean Forests | 62.00% | ~113 |
 | Starry: Meadowshire | 58.00% | ~106 |
@@ -50,7 +50,7 @@
 | Dwarven Countdown | 31.00% | ~56 |
 | Starry: Wasteland | 30.00% | ~55 |
 | Deadman's Chest | 29.00% | ~53 |
-| Monument Keeper | 28.00% | ~51 |
+| Monument Keeper | 29.00% | ~53 |
 | Brilliant: Free Coast | 27.00% | ~49 |
 | Brilliant: The Deep | 25.00% | ~46 |
 | Starry: Free Coast | 24.00% | ~44 |

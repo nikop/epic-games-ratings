@@ -5,37 +5,37 @@ Rating: 4.66 (Ranked 296)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~22,864 |
-| A Long Time Ago | 93.00% | ~21,264 |
-| Sabersmith | 80.00% | ~18,291 |
-| The Obstacle is the Way | 78.00% | ~17,834 |
-| Back At You | 73.00% | ~16,691 |
-| Happy Go Wookiee | 69.00% | ~15,776 |
-| Everything is Connected | 60.00% | ~13,718 |
-| Her Name Was Masana Tide | 55.00% | ~12,575 |
-| Bank Shot | 54.00% | ~12,347 |
-| Perfect Timing | 53.00% | ~12,118 |
-| Gorgara Falls | 51.00% | ~11,661 |
-| The Full Glow-Up | 50.00% | ~11,432 |
-| For A More Civilized Age | 49.00% | ~11,203 |
-| I Knew He Was No Good | 47.00% | ~10,746 |
-| The Holocron Awaits | 46.00% | ~10,517 |
-| Look Out Below | 44.00% | ~10,060 |
-| Trust Only In The Force | 44.00% | ~10,060 |
-| Scum and Villainy | 43.00% | ~9,832 |
-| Don't Mess with BD-1 | 42.00% | ~9,603 |
-| Blade Master | 39.00% | ~8,917 |
-| Full House | 36.00% | ~8,231 |
-| Legendary Beasts | 22.00% | ~5,030 |
-| Echo Location | 20.00% | ~4,573 |
-| Visiting Alderaan Places | 18.00% | ~4,116 |
-| Triple Take | 14.00% | ~3,201 |
-| Cal Got Your Tongue? | 14.00% | ~3,201 |
+| The Mantis | 100.00% | ~22,870 |
+| A Long Time Ago | 93.00% | ~21,269 |
+| Sabersmith | 80.00% | ~18,296 |
+| The Obstacle is the Way | 78.00% | ~17,839 |
+| Back At You | 73.00% | ~16,695 |
+| Happy Go Wookiee | 69.00% | ~15,780 |
+| Everything is Connected | 60.00% | ~13,722 |
+| Her Name Was Masana Tide | 55.00% | ~12,579 |
+| Bank Shot | 54.00% | ~12,350 |
+| Perfect Timing | 53.00% | ~12,121 |
+| Gorgara Falls | 51.00% | ~11,664 |
+| The Full Glow-Up | 50.00% | ~11,435 |
+| For A More Civilized Age | 49.00% | ~11,206 |
+| I Knew He Was No Good | 47.00% | ~10,749 |
+| The Holocron Awaits | 46.00% | ~10,520 |
+| Look Out Below | 44.00% | ~10,063 |
+| Trust Only In The Force | 44.00% | ~10,063 |
+| Scum and Villainy | 43.00% | ~9,834 |
+| Don't Mess with BD-1 | 42.00% | ~9,605 |
+| Blade Master | 39.00% | ~8,919 |
+| Full House | 36.00% | ~8,233 |
+| Legendary Beasts | 22.00% | ~5,031 |
+| Echo Location | 20.00% | ~4,574 |
+| Visiting Alderaan Places | 18.00% | ~4,117 |
+| Triple Take | 14.00% | ~3,202 |
+| Cal Got Your Tongue? | 14.00% | ~3,202 |
 | Big Bang | 12.00% | ~2,744 |
-| Feel the Force | 10.00% | ~2,286 |
+| Feel the Force | 10.00% | ~2,287 |
 | Can't Touch This | 9.00% | ~2,058 |
-| Medical Droid | 8.00% | ~1,829 |
-| Data Collector | 8.00% | ~1,829 |
+| Medical Droid | 8.00% | ~1,830 |
+| Data Collector | 8.00% | ~1,830 |
 | Collector | 6.00% | ~1,372 |
 | Data Disk | 6.00% | ~1,372 |
 | Kickoff | 4.00% | ~915 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 296)
 | Kicking Back | 2.00% | ~457 |
 | Not So Fast | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,864 (Ranked 141)  
+Progressed: 22,870 (Ranked 141)  
 Completed: 237 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 237 (1.04%) (Ranked 168)
 | 2023-12-08 | 22,371 | 231 |
 | 2023-12-09 | 22,586 | 233 |
 | 2023-12-10 | 22,804 | 235 |
-| 2023-12-11 | 22,864 | 237 |
+| 2023-12-11 | 22,870 | 237 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

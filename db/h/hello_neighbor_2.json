@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -472,10 +472,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3341,
-  "EOS_Completed": 137,
+  "EOS_Completed": 138,
   "EOS_NewPlayers": 36,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.1,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 4.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -5276,6 +5276,11 @@
       "Time": "2023-12-11T14:05:52.0386364+00:00",
       "NumProgressed": 3341,
       "NumCompleted": 137
+    },
+    {
+      "Time": "2023-12-11T15:06:28.4022411+00:00",
+      "NumProgressed": 3341,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 14,
@@ -5365,9 +5370,9 @@
       "ID": "ACH_REUNION",
       "SetID": "4kfb9pd",
       "Name": "Reunion",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 802
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -5399,15 +5404,15 @@
       "ID": "4kfb9pd",
       "IsBase": true,
       "Progressed": 3341,
-      "Completed": 137
+      "Completed": 138
     }
   ],
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-11T14:05:52.038636+00:00",
+  "LastChanged_Achievements": "2023-12-11T15:06:28.4022406+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:09.6040213+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:58:48.3080302+00:00",
-  "LastUpdate_Achievements": "2023-12-11T14:05:52.0386726+00:00"
+  "LastUpdate_Ratings": "2023-12-11T14:59:04.6323371+00:00",
+  "LastUpdate_Achievements": "2023-12-11T15:06:28.4022781+00:00"
 }

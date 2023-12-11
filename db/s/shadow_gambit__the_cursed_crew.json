@@ -143,7 +143,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1100,
+  "EOS_Progressed": 1101,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
@@ -3663,6 +3663,11 @@
       "Time": "2023-12-11T09:04:01.5208704+00:00",
       "NumProgressed": 1100,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-11T15:04:37.9680113+00:00",
+      "NumProgressed": 1101,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3683,7 +3688,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "_03_FinishAct1",
@@ -3882,7 +3887,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1100,
+      "Progressed": 1101,
       "Completed": 32
     }
   ],
@@ -3890,8 +3895,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-09T12:00:24.7987919+00:00",
-  "LastChanged_Achievements": "2023-12-11T14:04:05.8105584+00:00",
+  "LastChanged_Achievements": "2023-12-11T15:04:37.9680109+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:08:04.0877927+00:00",
-  "LastUpdate_Achievements": "2023-12-11T14:04:05.810619+00:00"
+  "LastUpdate_Ratings": "2023-12-11T14:57:18.1899021+00:00",
+  "LastUpdate_Achievements": "2023-12-11T15:04:37.9680545+00:00"
 }

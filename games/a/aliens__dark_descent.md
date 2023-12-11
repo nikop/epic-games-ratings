@@ -22,8 +22,8 @@ Rating: 4.51 (Ranked 576)
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,573 |
 | Where It All Begun | 41.00% | ~1,535 |
 | Recouped Investment | 39.00% | ~1,461 |
+| The More The Merrier | 36.00% | ~1,348 |
 | Living Nightmare | 35.00% | ~1,311 |
-| The More The Merrier | 35.00% | ~1,311 |
 | Omelette Du Fromage | 34.00% | ~1,273 |
 | The Darwin Era Was Here | 32.00% | ~1,198 |
 | Deep Into Insanity | 30.00% | ~1,124 |
@@ -48,8 +48,8 @@ Rating: 4.51 (Ranked 576)
 | Fair And Square | 3.00% | ~112 |
 | Archivist | 2.00% | ~75 |
 | Perfect Organism | 1.00% | ~37 |
+| Chalk It Up To Experience | 0.80% | ~30 |
 | This Ain't No Picnic | 0.70% | ~26 |
-| Chalk It Up To Experience | 0.70% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,745 (Ranked 203)  
 Completed: 3 (0.08%) (Ranked 305)  

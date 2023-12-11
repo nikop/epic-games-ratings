@@ -6,17 +6,17 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~5,471 |
-| Having A Field Day | 76.00% | ~5,471 |
-| Reap What You Sow | 73.00% | ~5,255 |
-| The First Day | 70.00% | ~5,039 |
-| Novice Researcher | 68.00% | ~4,895 |
-| Green Thumb | 67.00% | ~4,823 |
-| Home Cooked Meal | 62.00% | ~4,463 |
-| Onward | 58.00% | ~4,175 |
-| The First Week | 56.00% | ~4,031 |
-| Beam Me Up | 53.00% | ~3,815 |
-| Studious Researcher | 53.00% | ~3,815 |
+| Get A Room | 76.00% | ~5,472 |
+| Having A Field Day | 76.00% | ~5,472 |
+| Reap What You Sow | 73.00% | ~5,256 |
+| The First Day | 70.00% | ~5,040 |
+| Novice Researcher | 68.00% | ~4,896 |
+| Green Thumb | 67.00% | ~4,824 |
+| Home Cooked Meal | 62.00% | ~4,464 |
+| Onward | 58.00% | ~4,176 |
+| The First Week | 56.00% | ~4,032 |
+| Beam Me Up | 53.00% | ~3,816 |
+| Studious Researcher | 53.00% | ~3,816 |
 | Putting Food on the Table | 46.00% | ~3,312 |
 | Adept Researcher | 45.00% | ~3,240 |
 | Retribution | 43.00% | ~3,096 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~144 |
 | Wabbit Season | 0.50% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,199 (Ranked 183)  
+Progressed: 7,200 (Ranked 183)  
 Completed: 14 (0.19%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,6 +252,7 @@ Completed: 14 (0.19%) (Ranked 264)
 | 2023-12-08 | 7,165 | 14 |
 | 2023-12-09 | 7,184 | 14 |
 | 2023-12-10 | 7,199 | 14 |
+| 2023-12-11 | 7,200 | 14 |
 ## Awards
 Max (Great for Beginners): 130  (Ranked 332)  
 Sum: 1,039 (Ranked 260)  

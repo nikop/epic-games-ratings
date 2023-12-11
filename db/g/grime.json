@@ -3,7 +3,7 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 439,
-  "Ranking_Popularity": 424,
+  "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 266,
@@ -1651,10 +1651,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162128,
-  "EOS_Completed": 290,
-  "EOS_NewPlayers": 923,
-  "EOS_NewCompleters": 107,
+  "EOS_Progressed": 162135,
+  "EOS_Completed": 292,
+  "EOS_NewPlayers": 924,
+  "EOS_NewCompleters": 109,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
@@ -18811,6 +18811,11 @@
       "Time": "2023-12-11T14:05:54.1518944+00:00",
       "NumProgressed": 162128,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-11T15:06:30.4081552+00:00",
+      "NumProgressed": 162135,
+      "NumCompleted": 292
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19037,9 +19042,9 @@
       "ID": "MISC_ACTIVATESURROGATE",
       "SetID": "ccc0dlh",
       "Name": "Imprint",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1459
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -19190,21 +19195,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161711,
+      "Progressed": 161718,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162128,
-      "Completed": 290
+      "Progressed": 162135,
+      "Completed": 292
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-10T17:57:49.4464039+00:00",
-  "LastChanged_Achievements": "2023-12-11T14:05:54.1518938+00:00",
+  "LastChanged_Achievements": "2023-12-11T15:06:30.4081549+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:58:50.9546533+00:00",
-  "LastUpdate_Achievements": "2023-12-11T14:05:54.1520234+00:00"
+  "LastUpdate_Ratings": "2023-12-11T14:59:07.3863615+00:00",
+  "LastUpdate_Achievements": "2023-12-11T15:06:30.4082949+00:00"
 }

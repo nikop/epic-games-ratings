@@ -525,9 +525,9 @@
       "ID": "id_3",
       "SetID": "bk9jib6",
       "Name": "Philanthropist",
-      "Percentage": 73,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "id_30",
@@ -814,8 +814,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-07T03:59:22.4212557+00:00",
-  "LastChanged_Achievements": "2023-12-11T14:10:01.2602806+00:00",
+  "LastChanged_Achievements": "2023-12-11T15:10:28.4664153+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:56.0981722+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:58:40.6625176+00:00",
-  "LastUpdate_Achievements": "2023-12-11T14:10:01.260319+00:00"
+  "LastUpdate_Ratings": "2023-12-11T14:58:55.7620355+00:00",
+  "LastUpdate_Achievements": "2023-12-11T15:10:28.4664549+00:00"
 }
