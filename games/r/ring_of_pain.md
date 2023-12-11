@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 451)  
+Rating: 4.58 (Ranked 452)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -33,20 +33,20 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sneaky | 0.50% | ~1,204 |
 | Expensive Look | 0.50% | ~12 |
 | What Doesn't Kill You | 0.50% | ~12 |
-| Consecutive Curses | 0.40% | ~963 |
-| Dig Your Own Grave | 0.40% | ~963 |
-| Who To Trust? | 0.40% | ~963 |
-| Walk It Off | 0.40% | ~963 |
-| Cold Hearted | 0.40% | ~963 |
-| I Am Overburdened | 0.40% | ~963 |
-| Destroy Your Fears | 0.40% | ~963 |
-| Shootout | 0.40% | ~963 |
-| Stone Touch | 0.40% | ~963 |
-| Toxic | 0.40% | ~963 |
-| New Perspectives | 0.40% | ~963 |
-| Shadow Walker | 0.40% | ~963 |
-| Flesh Wound | 0.40% | ~963 |
-| Shapeshifting | 0.40% | ~963 |
+| Consecutive Curses | 0.40% | ~964 |
+| Dig Your Own Grave | 0.40% | ~964 |
+| Who To Trust? | 0.40% | ~964 |
+| Walk It Off | 0.40% | ~964 |
+| Cold Hearted | 0.40% | ~964 |
+| I Am Overburdened | 0.40% | ~964 |
+| Destroy Your Fears | 0.40% | ~964 |
+| Shootout | 0.40% | ~964 |
+| Stone Touch | 0.40% | ~964 |
+| Toxic | 0.40% | ~964 |
+| New Perspectives | 0.40% | ~964 |
+| Shadow Walker | 0.40% | ~964 |
+| Flesh Wound | 0.40% | ~964 |
+| Shapeshifting | 0.40% | ~964 |
 | Thank You, Friend | 0.30% | ~723 |
 | Shadow Spreads | 0.30% | ~723 |
 | Max Damage! | 0.30% | ~723 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,874 (Ranked 64)  
+Progressed: 240,875 (Ranked 64)  
 Completed: 294 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 294 (0.12%) (Ranked 283)
 | 2023-12-08 | 240,784 | 292 |
 | 2023-12-09 | 240,828 | 293 |
 | 2023-12-10 | 240,862 | 293 |
-| 2023-12-11 | 240,874 | 294 |
+| 2023-12-11 | 240,875 | 294 |
 ## Awards
 Max (Quickly Understood Controls): 1,507  (Ranked 134)  
 Sum: 11,723 (Ranked 85)  

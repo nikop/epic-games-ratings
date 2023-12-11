@@ -19,7 +19,7 @@
 | On her own | 18.00% | ~98 |
 | Evacuation | 17.00% | ~93 |
 | Beyond divisions | 17.00% | ~93 |
-| Fierce fight | 15.00% | ~82 |
+| Fierce fight | 16.00% | ~87 |
 | Flying Objects Operator | 15.00% | ~82 |
 | I remember everything! | 14.00% | ~76 |
 | Another giant | 11.00% | ~60 |

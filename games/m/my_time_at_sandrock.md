@@ -1,25 +1,25 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 258)  
+Rating: 4.68 (Ranked 259)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 234.00% | ~1,254 |
+| Adept Assembler | 233.00% | ~1,249 |
 | Iron Chef | 167.00% | ~895 |
 | Super Spelunker | 136.00% | ~729 |
 | Greeno-B-Gone | 129.00% | ~691 |
-| The Little Wood that Could | 115.00% | ~616 |
-| Your Especially Earned Trajectory | 107.00% | ~574 |
+| The Little Wood that Could | 114.00% | ~611 |
+| Your Especially Earned Trajectory | 106.00% | ~568 |
 | No Mountain Wide Enough | 86.00% | ~461 |
 | One of the Cool Kids | 85.00% | ~456 |
 | Yakmel Whisperer | 81.00% | ~434 |
 | On that Grindset | 79.00% | ~423 |
 | I Do! | 78.00% | ~418 |
-| Diamonds are Forever | 78.00% | ~418 |
-| Can We Keep It? | 76.00% | ~407 |
+| Diamonds are Forever | 77.00% | ~413 |
 | Pack Mule | 75.00% | ~402 |
+| Can We Keep It? | 75.00% | ~402 |
 | First Love | 73.00% | ~391 |
 | Unboxing | 70.00% | ~375 |
 | Elementary, My Dear | 67.00% | ~359 |
@@ -31,13 +31,13 @@ Number of Ratings: 892  (23.09.2022)
 | Lifeline Pipeline | 62.00% | ~332 |
 | Happier-est Place on Earth | 61.00% | ~327 |
 | You Don't Win Friends With Salad | 61.00% | ~327 |
-| Waste Not Want Not | 61.00% | ~327 |
 | Panda-kin | 60.00% | ~322 |
 | Commissions, commissions...! | 60.00% | ~322 |
 | Martle's Dream | 60.00% | ~322 |
 | Anti-Santa | 60.00% | ~322 |
-| What Plants Crave | 58.00% | ~311 |
+| Waste Not Want Not | 60.00% | ~322 |
 | Better Late than Never | 57.00% | ~306 |
+| What Plants Crave | 57.00% | ~306 |
 | Mole Masher | 57.00% | ~306 |
 | Call Me Fishmael | 57.00% | ~306 |
 | Finishing Touches | 56.00% | ~300 |
@@ -52,15 +52,15 @@ Number of Ratings: 892  (23.09.2022)
 | Kind of a Big Deal | 44.00% | ~236 |
 | My Time Mansion | 42.00% | ~225 |
 | Just What I Always Wanted! | 42.00% | ~225 |
-| Sandrunning Speedster | 39.00% | ~209 |
 | He Can Spin A Yarn... | 38.00% | ~204 |
+| Sandrunning Speedster | 38.00% | ~204 |
 | Santa In Training | 37.00% | ~198 |
 | It Belongs in a Museum! | 36.00% | ~193 |
 | Pro Gamer | 34.00% | ~182 |
 | Newton | 34.00% | ~182 |
 | Do Your Part | 33.00% | ~177 |
 | Cardistry | 23.00% | ~123 |
-| Winner and Still Champeen | 20.00% | ~107 |
+| Winner and Still Champeen | 21.00% | ~113 |
 | It's High Noon... | 16.00% | ~86 |
 | Strong Arms | 16.00% | ~86 |
 | Got the Receipt? | 15.00% | ~80 |

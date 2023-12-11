@@ -2,7 +2,7 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 389,
+  "Ranking_Rating": 390,
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 34,
@@ -2846,7 +2846,7 @@
   ],
   "EOS_Progressed": 540491,
   "EOS_Completed": 1639,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -29052,8 +29052,8 @@
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-07T16:58:03.1533125+00:00",
-  "LastChanged_Achievements": "2023-12-11T06:06:10.5946043+00:00",
+  "LastChanged_Achievements": "2023-12-11T07:05:41.5454872+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.0345559+00:00",
-  "LastUpdate_Ratings": "2023-12-11T06:00:29.13569+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:06:10.5947599+00:00"
+  "LastUpdate_Ratings": "2023-12-11T07:00:01.3076081+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:05:41.5456204+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "9359fa123dbf4b89b7d70be316d7810c",
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
-  "Ranking_Rating": 575,
+  "Ranking_Rating": 576,
   "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 30,
@@ -511,9 +511,9 @@
       "Count": 138
     }
   ],
-  "EOS_Progressed": 613467,
+  "EOS_Progressed": 613468,
   "EOS_Completed": 554,
-  "EOS_NewPlayers": 735,
+  "EOS_NewPlayers": 734,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -26906,6 +26906,11 @@
       "Time": "2023-12-11T06:09:00.9853238+00:00",
       "NumProgressed": 613467,
       "NumCompleted": 554
+    },
+    {
+      "Time": "2023-12-11T07:08:31.6542442+00:00",
+      "NumProgressed": 613468,
+      "NumCompleted": 554
     }
   ],
   "TotalAchievements": 28,
@@ -26997,7 +27002,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 269925
+      "UsersEstimate": 269926
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -27013,7 +27018,7 @@
       "Name": "Cosplay",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 85885
+      "UsersEstimate": 85886
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -27029,7 +27034,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 294464
+      "UsersEstimate": 294465
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -27045,7 +27050,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 570524
+      "UsersEstimate": 570525
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -27077,7 +27082,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 404888
+      "UsersEstimate": 404889
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -27140,15 +27145,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 613467,
+      "Progressed": 613468,
       "Completed": 554
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-11-16T16:58:16.9123223+00:00",
-  "LastChanged_Achievements": "2023-12-11T06:09:00.9853228+00:00",
+  "LastChanged_Achievements": "2023-12-11T07:08:31.6542439+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:44.8137954+00:00",
-  "LastUpdate_Ratings": "2023-12-11T05:57:39.4630325+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:09:00.9855475+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:57:32.0440979+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:08:31.6543492+00:00"
 }

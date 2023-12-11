@@ -1,7 +1,7 @@
 # Child of Light: Ultimate Edition
 [Store](https://store.epicgames.com/en-US/p/child-of-light)  
 [View Rawdata](../../db/c/child_of_light__ultimate_edition.json)  
-Rating: 4.82 (Ranked 67)  
+Rating: 4.82 (Ranked 68)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

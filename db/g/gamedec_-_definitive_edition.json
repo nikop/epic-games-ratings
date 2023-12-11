@@ -2,12 +2,12 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 854,
+  "Ranking_Rating": 855,
   "Ranking_Popularity": 380,
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 254374,
+  "EOS_Progressed": 254375,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26745,6 +26745,11 @@
       "Time": "2023-12-11T05:03:15.8693131+00:00",
       "NumProgressed": 254374,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-11T07:03:45.7303589+00:00",
+      "NumProgressed": 254375,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -26788,7 +26793,7 @@
       "Name": "Catnip",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "ACH_COLLECTOR",
@@ -26812,7 +26817,7 @@
       "Name": "Gentleman\u0027s classic",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "ACH_GUNSGUNS",
@@ -26884,7 +26889,7 @@
       "Name": "Irondec",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "ACH_ISRIFT",
@@ -26892,7 +26897,7 @@
       "Name": "Is that a rift?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "ACH_ISTARTED",
@@ -26900,7 +26905,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73768
+      "UsersEstimate": 73769
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -26908,7 +26913,7 @@
       "Name": "It\u0027s alive!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "ACH_ITSALWAYSBLUE",
@@ -26932,7 +26937,7 @@
       "Name": "LET ME OUT!",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "ACH_LETSABLE",
@@ -26940,7 +26945,7 @@
       "Name": "Un-bear-able",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "ACH_LETSANOTHER",
@@ -26956,7 +26961,7 @@
       "Name": "Enjoy the beach",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "ACH_LETSCHAINS",
@@ -27004,7 +27009,7 @@
       "Name": "Rinse and repeat",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "ACH_LETSSCOFIELD",
@@ -27012,7 +27017,7 @@
       "Name": "Mama, I\u0027m a criminal",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "ACH_LETSSMILE",
@@ -27132,7 +27137,7 @@
       "Name": "Never gonna give you up",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "ACH_VALEDICTORIAN",
@@ -27171,7 +27176,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 254374,
+      "Progressed": 254375,
       "Completed": 7
     }
   ],
@@ -27179,8 +27184,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-11T06:04:02.4439807+00:00",
+  "LastChanged_Achievements": "2023-12-11T07:03:45.7303584+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:18.8009639+00:00",
-  "LastUpdate_Ratings": "2023-12-11T06:03:14.1373949+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:04:02.4441006+00:00"
+  "LastUpdate_Ratings": "2023-12-11T07:02:40.4138012+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:03:45.73048+00:00"
 }

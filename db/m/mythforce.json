@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 636,
+  "Ranking_Rating": 637,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 191,
@@ -818,9 +818,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5439,
+  "EOS_Progressed": 5441,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -10843,6 +10843,11 @@
       "Time": "2023-12-10T23:03:15.3612551+00:00",
       "NumProgressed": 5439,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-11T07:03:56.956434+00:00",
+      "NumProgressed": 5441,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10887,7 +10892,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -10895,7 +10900,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -10903,7 +10908,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1415
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10975,7 +10980,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -10991,7 +10996,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -11007,7 +11012,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -11023,7 +11028,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -11038,15 +11043,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5439,
+      "Progressed": 5441,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-06T15:59:42.180054+00:00",
-  "LastChanged_Achievements": "2023-12-11T06:04:14.8247615+00:00",
+  "LastChanged_Achievements": "2023-12-11T07:03:56.9564337+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-11T05:58:23.3089198+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:04:14.8248251+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:58:10.3190353+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:03:56.9564965+00:00"
 }

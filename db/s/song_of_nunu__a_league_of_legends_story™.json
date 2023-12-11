@@ -2,7 +2,7 @@
   "ID": "c7ab6cc723fe4bc6b24237d61b58687b",
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
-  "Ranking_Rating": 479,
+  "Ranking_Rating": 480,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 262,
@@ -2628,9 +2628,9 @@
       "ID": "EV_ACH09",
       "SetID": "6jeac23",
       "Name": "You Get Used To It",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 479
     },
     {
       "ID": "EV_ACH10",
@@ -2925,8 +2925,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-09T18:58:15.9696889+00:00",
-  "LastChanged_Achievements": "2023-12-11T06:10:32.8496807+00:00",
+  "LastChanged_Achievements": "2023-12-11T07:09:55.6773639+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:39.9940514+00:00",
-  "LastUpdate_Ratings": "2023-12-11T05:59:29.4676282+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:10:32.8497231+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:59:08.0151794+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:09:55.6774045+00:00"
 }

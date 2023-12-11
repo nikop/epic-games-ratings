@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 864,
+  "Ranking_Rating": 865,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 91,
@@ -494,9 +494,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95205,
+  "EOS_Progressed": 95207,
   "EOS_Completed": 433,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -26579,6 +26579,11 @@
       "Time": "2023-12-11T05:08:31.273084+00:00",
       "NumProgressed": 95205,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2023-12-11T07:08:59.1902011+00:00",
+      "NumProgressed": 95207,
+      "NumCompleted": 433
     }
   ],
   "TotalAchievements": 10,
@@ -26646,7 +26651,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9520
+      "UsersEstimate": 9521
     },
     {
       "ID": "Level00BowlingStrike",
@@ -26669,15 +26674,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 95205,
+      "Progressed": 95207,
       "Completed": 433
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-07T22:03:08.3516808+00:00",
-  "LastChanged_Achievements": "2023-12-11T06:09:30.7982688+00:00",
+  "LastChanged_Achievements": "2023-12-11T07:08:59.1902007+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2634868+00:00",
-  "LastUpdate_Ratings": "2023-12-11T06:03:36.8150979+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:09:30.7984183+00:00"
+  "LastUpdate_Ratings": "2023-12-11T07:03:01.0806405+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:08:59.1903525+00:00"
 }

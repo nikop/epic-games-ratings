@@ -2,7 +2,7 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 389,
+  "Ranking_Rating": 390,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 75,
@@ -7401,9 +7401,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 202278,
+  "EOS_Progressed": 202281,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 1980,
+  "EOS_NewPlayers": 1976,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -34246,6 +34246,11 @@
       "Time": "2023-12-11T06:10:01.0848436+00:00",
       "NumProgressed": 202278,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-11T07:09:26.7283613+00:00",
+      "NumProgressed": 202281,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -34289,7 +34294,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 32364
+      "UsersEstimate": 32365
     },
     {
       "ID": "Achievement_13",
@@ -34384,15 +34389,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 202278,
+      "Progressed": 202281,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-12-10T21:58:15.5110023+00:00",
-  "LastChanged_Achievements": "2023-12-11T06:10:01.0848434+00:00",
+  "LastChanged_Achievements": "2023-12-11T07:09:26.728361+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:07.4120655+00:00",
-  "LastUpdate_Ratings": "2023-12-11T05:58:34.8525956+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:10:01.0849813+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:58:20.4226062+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:09:26.7285058+00:00"
 }

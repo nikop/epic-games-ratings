@@ -1,7 +1,7 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.80 (Ranked 89)  
+Rating: 4.80 (Ranked 90)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.80 (Ranked 89)
 | The Adventure Begins | 50.00% | ~550 |
 | Swabbie | 38.00% | ~418 |
 | With Great Power… | 37.00% | ~407 |
-| This Belongs in a Museum | 33.00% | ~363 |
+| This Belongs in a Museum | 34.00% | ~374 |
 | The Gambit Has Begun | 30.00% | ~330 |
 | Somewhere Deep in the Lost Caribbean | 27.00% | ~297 |
 | Powder Monkey | 27.00% | ~297 |

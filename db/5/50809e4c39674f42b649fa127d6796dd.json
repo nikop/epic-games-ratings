@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 450,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1147,6 +1147,11 @@
       "Time": "2023-12-11T05:05:45.5205314+00:00",
       "NumProgressed": 449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T07:06:03.2207153+00:00",
+      "NumProgressed": 450,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1223,7 +1228,7 @@
       "Name": "Perfect Run",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1231,7 +1236,7 @@
       "Name": "Big Encounter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1255,7 +1260,7 @@
       "Name": "Celestial Rain",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1263,7 +1268,7 @@
       "Name": "Unknown Threat",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1279,7 +1284,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1343,7 +1348,7 @@
       "Name": "A Land at Peace",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MAIN_CLEAR_TUTORIAL",
@@ -1351,7 +1356,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1478,14 +1483,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 450,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-11T06:06:34.2182306+00:00",
+  "LastChanged_Achievements": "2023-12-11T07:06:03.2207148+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-11T06:03:31.7490853+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:06:34.2182615+00:00"
+  "LastUpdate_Ratings": "2023-12-11T07:02:56.1992547+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:06:03.220741+00:00"
 }

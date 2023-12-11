@@ -2,7 +2,7 @@
   "ID": "2f32d18c2cba4a2a92e359224f308770",
   "Name": "WarmSnow",
   "ProductSlug": "warmsnow-7e3180",
-  "Ranking_Rating": 51,
+  "Ranking_Rating": 52,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 789,
@@ -199,6 +199,6 @@
   "FirstSeenRating": "2023-03-31T05:57:32.8296597+00:00",
   "LastChanged": "2023-12-09T11:58:47.3986288+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:48.5453335+00:00",
-  "LastUpdate_Ratings": "2023-12-11T05:59:46.9087264+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:09:40.5516676+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:59:23.4930973+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:09:07.8065951+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "f76d927e6a344026a1cdd6b44b52c055",
   "Name": "The Riflemen",
   "ProductSlug": "the-riflemen-8be608",
-  "Ranking_Rating": 814,
+  "Ranking_Rating": 815,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 112,
@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 52677,
+  "EOS_Progressed": 52687,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 4412,
+  "EOS_NewPlayers": 4411,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 22.32,
   "EosHistory": [
@@ -12451,6 +12451,11 @@
       "Time": "2023-12-11T06:09:41.6122909+00:00",
       "NumProgressed": 52677,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-12-11T07:09:08.8559027+00:00",
+      "NumProgressed": 52687,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -12471,7 +12476,7 @@
       "Name": "First blood",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 38454
+      "UsersEstimate": 38462
     },
     {
       "ID": "grenadeKills",
@@ -12574,7 +12579,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 52677,
+      "Progressed": 52687,
       "Completed": 11759
     }
   ],
@@ -12582,8 +12587,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-12-08T14:58:39.5420526+00:00",
-  "LastChanged_Achievements": "2023-12-11T06:09:41.6122905+00:00",
+  "LastChanged_Achievements": "2023-12-11T07:09:08.8559022+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:59.5320614+00:00",
-  "LastUpdate_Ratings": "2023-12-11T06:00:34.0646259+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:09:41.612362+00:00"
+  "LastUpdate_Ratings": "2023-12-11T07:00:05.694464+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:09:08.8559669+00:00"
 }

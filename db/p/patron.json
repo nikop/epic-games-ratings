@@ -2,7 +2,7 @@
   "ID": "27d0a607d01545038e7c3ba1b9ad8c80",
   "Name": "Patron",
   "ProductSlug": "patron-4ab1c1",
-  "Ranking_Rating": 1026,
+  "Ranking_Rating": 1027,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 789,
@@ -170,6 +170,6 @@
   "FirstSeenRating": "2022-08-04T14:01:33.7640592+00:00",
   "LastChanged": "2023-03-31T05:57:53.7264319+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:08.0311513+00:00",
-  "LastUpdate_Ratings": "2023-12-11T05:58:41.0809722+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:04:16.7591477+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:58:25.8491729+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:03:58.5772756+00:00"
 }

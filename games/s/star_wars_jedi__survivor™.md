@@ -1,41 +1,41 @@
 # STAR WARS Jedi: Survivor™
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
-Rating: 4.50 (Ranked 597)  
+Rating: 4.50 (Ranked 598)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,498 |
-| For Saw Gerrera | 98.00% | ~9,402 |
-| Grab Some Seat | 92.00% | ~8,826 |
-| Can You Pet the Bogling? | 87.00% | ~8,347 |
-| The Past Made Present | 84.00% | ~8,059 |
-| Survivors, We Adapt | 80.00% | ~7,675 |
-| They Never Saw It Coming | 78.00% | ~7,483 |
-| Among the Masters | 78.00% | ~7,483 |
+| Rooftop Duel | 99.00% | ~9,499 |
+| For Saw Gerrera | 98.00% | ~9,403 |
+| Grab Some Seat | 92.00% | ~8,827 |
+| Can You Pet the Bogling? | 87.00% | ~8,348 |
+| The Past Made Present | 84.00% | ~8,060 |
+| Survivors, We Adapt | 80.00% | ~7,676 |
+| They Never Saw It Coming | 78.00% | ~7,484 |
+| Among the Masters | 78.00% | ~7,484 |
 | Who Gives a Puck | 74.00% | ~7,100 |
-| For the Path | 67.00% | ~6,428 |
-| Now, This Isn't Podracing | 65.00% | ~6,236 |
-| Mirror Match | 64.00% | ~6,140 |
-| Skywalker | 63.00% | ~6,044 |
-| Out of Bedlam | 63.00% | ~6,044 |
+| For the Path | 67.00% | ~6,429 |
+| Now, This Isn't Podracing | 65.00% | ~6,237 |
+| Mirror Match | 64.00% | ~6,141 |
+| Skywalker | 63.00% | ~6,045 |
+| Out of Bedlam | 63.00% | ~6,045 |
 | Cleaning Up | 55.00% | ~5,277 |
 | Tanalorr Bound | 55.00% | ~5,277 |
 | Kitted Out | 53.00% | ~5,085 |
 | Tragedy | 52.00% | ~4,989 |
 | At the Precipice | 51.00% | ~4,893 |
-| Hey, Luke At Us | 50.00% | ~4,797 |
-| Into the Abyss | 49.00% | ~4,701 |
-| A Place You Could Call Home | 47.00% | ~4,509 |
-| Riposte | 47.00% | ~4,509 |
-| Greezy Money | 45.00% | ~4,317 |
-| Catch! | 42.00% | ~4,029 |
+| Hey, Luke At Us | 50.00% | ~4,798 |
+| Into the Abyss | 49.00% | ~4,702 |
+| A Place You Could Call Home | 47.00% | ~4,510 |
+| Riposte | 47.00% | ~4,510 |
+| Greezy Money | 45.00% | ~4,318 |
+| Catch! | 42.00% | ~4,030 |
 | They're Probably Fine | 40.00% | ~3,838 |
 | Han Slowlo | 39.00% | ~3,742 |
 | There Is No Try | 38.00% | ~3,646 |
 | The Jedi Path | 33.00% | ~3,166 |
 | This Is Canon | 30.00% | ~2,878 |
-| It's a Trap | 27.00% | ~2,590 |
+| It's a Trap | 27.00% | ~2,591 |
 | You've Got A Friend | 23.00% | ~2,207 |
 | King of the World | 17.00% | ~1,631 |
 | Max Capacity | 15.00% | ~1,439 |
@@ -43,9 +43,9 @@ Rating: 4.50 (Ranked 597)
 | Reconnaissance | 15.00% | ~1,439 |
 | Slam Dunk | 13.00% | ~1,247 |
 | Star Tours | 11.00% | ~1,055 |
-| Caij Match | 10.00% | ~959 |
-| Gambler | 10.00% | ~959 |
-| Growth Spurt | 9.00% | ~863 |
+| Caij Match | 10.00% | ~960 |
+| Gambler | 10.00% | ~960 |
+| Growth Spurt | 9.00% | ~864 |
 | I'm a Living Legend | 7.00% | ~672 |
 | Perk of the Job | 7.00% | ~672 |
 | Skoova Diving | 7.00% | ~672 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 597)
 | Splurgle | 3.00% | ~288 |
 | Pinpoint | 2.00% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,594 (Ranked 170)  
+Progressed: 9,595 (Ranked 170)  
 Completed: 57 (0.59%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,10 +145,10 @@ Completed: 57 (0.59%) (Ranked 197)
 | 2023-12-08 | 9,450 | 56 |
 | 2023-12-09 | 9,519 | 57 |
 | 2023-12-10 | 9,581 | 57 |
-| 2023-12-11 | 9,594 | 57 |
+| 2023-12-11 | 9,595 | 57 |
 ## Awards
 Max (Great Boss Battles): 3,442  (Ranked 92)  
-Sum: 5,364 (Ranked 136)  
+Sum: 5,367 (Ranked 136)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
@@ -157,8 +157,8 @@ Diff (max vs sum): -44
 | This game has Quickly Understood Controls | 231 |
 | This game has Amazing Characters | 229 |
 | This game has Diverse Characters | 223 |
+| This game is Extremely Fun | 219 |
 | This game is Relaxing | 218 |
-| This game is Extremely Fun | 216 |
 | This game is Highly Recommended | 212 |
 | This game has Challenging Combat | 210 |
 | This game has a Creative Community | 142 |
@@ -390,4 +390,4 @@ Diff (max vs sum): -44
 | 2023-12-08 | 4.50 | 3,426 | 5,332 |
 | 2023-12-09 | 4.50 | 3,433 | 5,345 |
 | 2023-12-10 | 4.50 | 3,442 | 5,361 |
-| 2023-12-11 | 4.50 | 3,442 | 5,364 |
+| 2023-12-11 | 4.50 | 3,442 | 5,367 |

@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.57 (Ranked 479)  
+Rating: 4.57 (Ranked 480)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -36,8 +36,8 @@ Number of Ratings: 98  (23.09.2022)
 | The Show Must Go On | 8.00% | ~746 |
 | Tosca | 8.00% | ~746 |
 | 12th Bottle of the Isonzo | 6.00% | ~559 |
+| Cercatore d'Oro | 6.00% | ~559 |
 | The Enlightment | 6.00% | ~559 |
-| Cercatore d'Oro | 5.00% | ~466 |
 | Generalissimo | 4.00% | ~373 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~373 |
 | Seeing Red | 3.00% | ~280 |

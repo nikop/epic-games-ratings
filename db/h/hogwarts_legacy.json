@@ -2,12 +2,12 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 128,
+  "Ranking_Rating": 129,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11743,10 +11743,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 50409,
       "NumberOfAwardsMax": 25081
+    },
+    {
+      "Time": "2023-12-11T06:59:23.7975237+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50412,
+      "NumberOfAwardsMax": 25081
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50409,
+  "NumberOfAwards": 50412,
   "NumberOfAwardsMax": 25081,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11778,7 +11784,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1397
+      "Count": 1400
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11823,9 +11829,9 @@
       "Count": 852
     }
   ],
-  "EOS_Progressed": 304199,
+  "EOS_Progressed": 304200,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36973,6 +36979,11 @@
       "Time": "2023-12-11T06:05:39.1713193+00:00",
       "NumProgressed": 304199,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-11T07:05:13.2334971+00:00",
+      "NumProgressed": 304200,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37343,16 +37354,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304199,
+      "Progressed": 304200,
       "Completed": 525
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-11T02:59:35.3655538+00:00",
-  "LastChanged_Achievements": "2023-12-11T06:05:39.1713189+00:00",
+  "LastChanged": "2023-12-11T06:59:23.7975235+00:00",
+  "LastChanged_Achievements": "2023-12-11T07:05:13.2334967+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-11T05:59:47.3310725+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:05:39.1714466+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:59:23.7975242+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:05:13.233666+00:00"
 }

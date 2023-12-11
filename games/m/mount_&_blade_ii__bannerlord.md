@@ -1,7 +1,7 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 161)  
+Rating: 4.74 (Ranked 162)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -30,7 +30,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crowdfunded | 5.00% | ~3,379 |
 | Crush your enemies | 5.00% | ~3,379 |
 | My way | 5.00% | ~3,379 |
-| Veni vidi vici | 4.00% | ~2,703 |
+| Veni vidi vici | 4.00% | ~2,704 |
 | Freedom! | 3.00% | ~2,028 |
 | Long live the Empire! | 3.00% | ~2,028 |
 | Real Estate | 3.00% | ~2,028 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,587 (Ranked 104)  
+Progressed: 67,588 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 67,387 | 0 |
 | 2023-12-09 | 67,516 | 0 |
 | 2023-12-10 | 67,577 | 0 |
-| 2023-12-11 | 67,587 | 0 |
+| 2023-12-11 | 67,588 | 0 |
 ## Awards
 Max (Character Customization): 7,547  (Ranked 53)  
 Sum: 15,732 (Ranked 68)  

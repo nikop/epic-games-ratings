@@ -1,25 +1,25 @@
 # HITMAN World of Assassination
 [Store](https://store.epicgames.com/en-US/p/hitman-3)  
 [View Rawdata](../../db/h/hitman_3.json)  
-Rating: 4.78 (Ranked 108)  
+Rating: 4.78 (Ranked 109)  
 Number of Ratings: 21,082  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~628,496 |
-| Death From Above | 45.00% | ~614,833 |
-| Master of the Household | 38.00% | ~519,192 |
-| Death of the Party | 35.00% | ~478,204 |
-| NEXUS-47 | 32.00% | ~437,215 |
-| The Last Tango | 31.00% | ~423,552 |
-| Nightmare Fuel | 30.00% | ~409,889 |
-| The Result of Previous Training | 28.00% | ~382,563 |
-| Tools of the Trade | 28.00% | ~382,563 |
-| Cleared for Field Duty | 27.00% | ~368,900 |
-| Seizing the Opportunity | 26.00% | ~355,237 |
-| Bullet Train | 21.00% | ~286,922 |
-| Stylish Assassin | 20.00% | ~273,259 |
-| Silent Assassin | 14.00% | ~191,281 |
+| Unseen Assassin | 46.00% | ~628,498 |
+| Death From Above | 45.00% | ~614,835 |
+| Master of the Household | 38.00% | ~519,194 |
+| Death of the Party | 35.00% | ~478,205 |
+| NEXUS-47 | 32.00% | ~437,216 |
+| The Last Tango | 31.00% | ~423,553 |
+| Nightmare Fuel | 30.00% | ~409,890 |
+| The Result of Previous Training | 28.00% | ~382,564 |
+| Tools of the Trade | 28.00% | ~382,564 |
+| Cleared for Field Duty | 27.00% | ~368,901 |
+| Seizing the Opportunity | 26.00% | ~355,238 |
+| Bullet Train | 21.00% | ~286,923 |
+| Stylish Assassin | 20.00% | ~273,260 |
+| Silent Assassin | 14.00% | ~191,282 |
 | Rise Up | 12.00% | ~163,956 |
 | Evil Wine Club | 11.00% | ~150,293 |
 | Console Cowboy | 10.00% | ~136,630 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,663 |
 | The Creative Assassin | 0.70% | ~9,564 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,366,296 (Ranked 9)  
+Progressed: 1,366,301 (Ranked 9)  
 Completed: 2,200 (0.16%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2,200 (0.16%) (Ranked 272)
 | 2023-12-08 | 1,365,464 | 2,199 |
 | 2023-12-09 | 1,365,856 | 2,199 |
 | 2023-12-10 | 1,366,239 | 2,200 |
-| 2023-12-11 | 1,366,296 | 2,200 |
+| 2023-12-11 | 1,366,301 | 2,200 |
 ## Awards
 Max (Diverse Characters): 10,958  (Ranked 37)  
 Sum: 74,980 (Ranked 22)  

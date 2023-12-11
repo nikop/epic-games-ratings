@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.01 (Ranked 1,008)  
+Rating: 4.01 (Ranked 1,009)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.01 (Ranked 1,008)
 | Guild Power | 24.00% | ~781 |
 | Full Party | 22.00% | ~716 |
 | Prestigious x10 | 21.00% | ~683 |
-| The game is on | 18.00% | ~586 |
+| The game is on | 19.00% | ~618 |
 | Exotic Merchant | 17.00% | ~553 |
 | Dragon Clicker | 16.00% | ~521 |
 | Inspection | 15.00% | ~488 |

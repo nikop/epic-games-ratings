@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.57 (Ranked 479)  
+Rating: 4.57 (Ranked 480)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,8 +25,8 @@ Rating: 4.57 (Ranked 479)
 | A Tragic Reminder | 46.00% | ~512 |
 | 3000 Year Blackout | 46.00% | ~512 |
 | So Close | 43.00% | ~479 |
+| You Get Used To It | 43.00% | ~479 |
 | The Finisher | 43.00% | ~479 |
-| You Get Used To It | 42.00% | ~467 |
 | Family | 40.00% | ~445 |
 | Biggest Snowball Ever | 40.00% | ~445 |
 | Freeze The Ice Witch | 40.00% | ~445 |

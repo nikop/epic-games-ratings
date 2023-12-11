@@ -1,20 +1,20 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 644)  
+Rating: 4.47 (Ranked 645)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~10,564 |
+| I'm not dead yet | 41.00% | ~10,565 |
 | Overkill | 34.00% | ~8,761 |
 | Vaccine Incoming | 33.00% | ~8,503 |
 | A normal day in Gloomhaven | 31.00% | ~7,988 |
-| Spread the plague | 29.00% | ~7,472 |
+| Spread the plague | 29.00% | ~7,473 |
 | Get over here! | 25.00% | ~6,442 |
 | Just when I thought I was out... | 19.00% | ~4,896 |
-| Precious! | 17.00% | ~4,380 |
-| Mine... All Mine... | 17.00% | ~4,380 |
+| Precious! | 17.00% | ~4,381 |
+| Mine... All Mine... | 17.00% | ~4,381 |
 | Grizzled veteran | 15.00% | ~3,865 |
 | Anatomy Lesson | 15.00% | ~3,865 |
 | Obstacle race | 13.00% | ~3,350 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~26 |
 | Murder Death Kill | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,767 (Ranked 133)  
+Progressed: 25,768 (Ranked 133)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-08 | 25,283 | 1 |
 | 2023-12-09 | 25,492 | 1 |
 | 2023-12-10 | 25,709 | 1 |
-| 2023-12-11 | 25,767 | 1 |
+| 2023-12-11 | 25,768 | 1 |
 ## Awards
 Max (Character Customization): 3,598  (Ranked 90)  
 Sum: 8,406 (Ranked 102)  

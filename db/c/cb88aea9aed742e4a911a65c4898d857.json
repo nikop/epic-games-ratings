@@ -2,6 +2,9 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
+  "Ranking_Rating": 1,
+  "Ranking_Popularity": 560,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 45,
@@ -17,14 +20,22 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.96,
+  "RatingHistory": [
+    {
+      "Time": "2023-12-11T06:59:42.897175+00:00",
+      "Rating": 4.96,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1998,
+  "EOS_Progressed": 2006,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1996,
+  "EOS_NewPlayers": 2004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -472,6 +483,11 @@
       "Time": "2023-12-11T06:09:52.5102786+00:00",
       "NumProgressed": 1998,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T07:09:18.9034354+00:00",
+      "NumProgressed": 2006,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -482,9 +498,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 959
+      "UsersEstimate": 983
     },
     {
       "ID": "03_TheStolenStar",
@@ -492,7 +508,7 @@
       "Name": "Stolen Star",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -570,9 +586,9 @@
       "ID": "13_TheDoomTrader",
       "SetID": "37a94m8",
       "Name": "Doom Trader",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -596,15 +612,15 @@
       "Name": "The Rise",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "17_TheExemplar",
       "SetID": "37a94m8",
       "Name": "Exemplar",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -612,7 +628,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "19_TheVoidWolf",
@@ -700,7 +716,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 899
+      "UsersEstimate": 903
     },
     {
       "ID": "30_The GreatestExploration",
@@ -732,7 +748,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -762,9 +778,9 @@
       "ID": "37_TheSirenicalDiplomat",
       "SetID": "37a94m8",
       "Name": "Silver-Tongued Diplomat",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -810,9 +826,9 @@
       "ID": "43_ThereIsNoPlaceLikeHome",
       "SetID": "37a94m8",
       "Name": "No Place Like Home",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -836,7 +852,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "47_AFlame",
@@ -1003,14 +1019,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 1998,
+      "Progressed": 2006,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
+  "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-11T06:09:52.5102782+00:00",
+  "LastChanged": "2023-12-11T06:59:42.8971748+00:00",
+  "LastChanged_Achievements": "2023-12-11T07:09:18.9034349+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-11T06:00:08.4148144+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:09:52.5103354+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:59:42.8971758+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:09:18.9034872+00:00"
 }

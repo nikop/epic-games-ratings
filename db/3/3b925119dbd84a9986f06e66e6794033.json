@@ -1086,9 +1086,9 @@
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -1221,8 +1221,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-11T06:10:02.4592615+00:00",
+  "LastChanged_Achievements": "2023-12-11T07:09:27.9466957+00:00",
   "LastUpdate_AppInfo": "2023-12-09T01:42:08.195524+00:00",
-  "LastUpdate_Ratings": "2023-12-11T05:59:09.577496+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:10:02.4592779+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:58:50.7057483+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:09:27.9467146+00:00"
 }

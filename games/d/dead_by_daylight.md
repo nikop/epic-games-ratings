@@ -1,51 +1,51 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 575)  
+Rating: 4.51 (Ranked 576)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~21,741 |
-| It wakes | 2.00% | ~21,741 |
-| Not half bad | 2.00% | ~21,741 |
-| Skillful | 2.00% | ~21,741 |
-| Make Some Noise | 2.00% | ~21,741 |
-| The Grand Sacrifice | 1.00% | ~10,870 |
-| Backdoor Escape | 1.00% | ~10,870 |
-| No one left behind | 1.00% | ~10,870 |
-| Medic | 1.00% | ~10,870 |
-| Handyman | 1.00% | ~10,870 |
-| Perfect Escape | 1.00% | ~10,870 |
-| Bloody Millionaire | 1.00% | ~10,870 |
-| Apt Survivor | 1.00% | ~10,870 |
-| Survival Treasures | 1.00% | ~10,870 |
-| I | 1.00% | ~10,870 |
-| Sorted | 1.00% | ~10,870 |
-| Healthy Obsession | 1.00% | ~10,870 |
-| Resurgence | 1.00% | ~10,870 |
-| Preemptive Strike | 1.00% | ~10,870 |
-| Humanitarian | 1.00% | ~10,870 |
-| Agonizing Escape | 0.90% | ~9,783 |
-| Perfect Killing | 0.90% | ~9,783 |
-| Risk it all | 0.90% | ~9,783 |
-| II | 0.90% | ~9,783 |
-| Engineer | 0.90% | ~9,783 |
-| Close Shave | 0.90% | ~9,783 |
-| I've got your back | 0.80% | ~8,696 |
-| Apt Killer | 0.80% | ~8,696 |
-| Wounded Healer | 0.80% | ~8,696 |
-| Vulture | 0.70% | ~7,609 |
-| III | 0.70% | ~7,609 |
-| Lifting The Fog | 0.70% | ~7,609 |
-| Blood on your hands | 0.60% | ~6,522 |
-| Escape Artist | 0.60% | ~6,522 |
-| First to the Punch | 0.60% | ~6,522 |
-| Operation: Survival | 0.60% | ~6,522 |
-| Every Last Drop | 0.60% | ~6,522 |
-| With Scars to Show | 0.60% | ~6,522 |
-| Flight to Freedom | 0.60% | ~6,522 |
-| Second Act | 0.60% | ~6,522 |
+| Zealous | 2.00% | ~21,742 |
+| It wakes | 2.00% | ~21,742 |
+| Not half bad | 2.00% | ~21,742 |
+| Skillful | 2.00% | ~21,742 |
+| Make Some Noise | 2.00% | ~21,742 |
+| The Grand Sacrifice | 1.00% | ~10,871 |
+| Backdoor Escape | 1.00% | ~10,871 |
+| No one left behind | 1.00% | ~10,871 |
+| Medic | 1.00% | ~10,871 |
+| Handyman | 1.00% | ~10,871 |
+| Perfect Escape | 1.00% | ~10,871 |
+| Bloody Millionaire | 1.00% | ~10,871 |
+| Apt Survivor | 1.00% | ~10,871 |
+| Survival Treasures | 1.00% | ~10,871 |
+| I | 1.00% | ~10,871 |
+| Sorted | 1.00% | ~10,871 |
+| Healthy Obsession | 1.00% | ~10,871 |
+| Resurgence | 1.00% | ~10,871 |
+| Preemptive Strike | 1.00% | ~10,871 |
+| Humanitarian | 1.00% | ~10,871 |
+| Agonizing Escape | 0.90% | ~9,784 |
+| Perfect Killing | 0.90% | ~9,784 |
+| Risk it all | 0.90% | ~9,784 |
+| II | 0.90% | ~9,784 |
+| Engineer | 0.90% | ~9,784 |
+| Close Shave | 0.90% | ~9,784 |
+| I've got your back | 0.80% | ~8,697 |
+| Apt Killer | 0.80% | ~8,697 |
+| Wounded Healer | 0.80% | ~8,697 |
+| Vulture | 0.70% | ~7,610 |
+| III | 0.70% | ~7,610 |
+| Lifting The Fog | 0.70% | ~7,610 |
+| Blood on your hands | 0.60% | ~6,523 |
+| Escape Artist | 0.60% | ~6,523 |
+| First to the Punch | 0.60% | ~6,523 |
+| Operation: Survival | 0.60% | ~6,523 |
+| Every Last Drop | 0.60% | ~6,523 |
+| With Scars to Show | 0.60% | ~6,523 |
+| Flight to Freedom | 0.60% | ~6,523 |
+| Second Act | 0.60% | ~6,523 |
 | Made it out alive! | 0.50% | ~5,435 |
 | Nerves of steel | 0.50% | ~5,435 |
 | Gifts for the Fog | 0.50% | ~5,435 |
@@ -80,6 +80,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | A bite for the Entity | 0.30% | ~3,261 |
 | Jump Scares | 0.30% | ~3,261 |
 | Hemophobia | 0.30% | ~3,261 |
+| Deep Cleansing | 0.30% | ~3,261 |
 | Serial Killer | 0.30% | ~3,261 |
 | Game Over | 0.30% | ~3,261 |
 | Party Crasher | 0.30% | ~3,261 |
@@ -92,7 +93,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | High Speed Pursuit | 0.30% | ~3,261 |
 | Rebuilding The Borgo | 0.30% | ~3,261 |
 | Blood in your mouth | 0.20% | ~2,174 |
-| Deep Cleansing | 0.20% | ~2,174 |
 | Texas BBQ | 0.20% | ~2,174 |
 | Looter | 0.20% | ~2,174 |
 | Whiffing to Success | 0.20% | ~2,174 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,087 |
 | Adept Good Guy | 0.10% | ~1,087 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,087,042 (Ranked 12)  
+Progressed: 1,087,089 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -474,18 +474,18 @@ Completed: 62 (0.01%) (Ranked 348)
 | 2023-12-08 | 1,080,483 | 61 |
 | 2023-12-09 | 1,083,532 | 61 |
 | 2023-12-10 | 1,086,485 | 62 |
-| 2023-12-11 | 1,087,042 | 62 |
+| 2023-12-11 | 1,087,089 | 62 |
 ## Awards
 Max (Diverse Characters): 37,692  (Ranked 15)  
-Sum: 285,523 (Ranked 12)  
+Sum: 285,591 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37,692 |
 | This game is Highly Recommended | 32,697 |
-| This game has Amazing Characters | 32,167 |
+| This game has Amazing Characters | 32,203 |
 | This game has Competitive Players | 31,968 |
-| This game is Extremely Fun | 31,619 |
+| This game is Extremely Fun | 31,651 |
 | This game has Challenging Combat | 31,551 |
 | This game has Quickly Understood Controls | 30,810 |
 | This game has Amazing Storytelling | 29,130 |
@@ -816,4 +816,4 @@ Diff (max vs sum): 3
 | 2023-12-08 | 4.51 | - | 37,508 | 284,549 |
 | 2023-12-09 | 4.51 | - | 37,578 | 285,006 |
 | 2023-12-10 | 4.51 | - | 37,638 | 285,419 |
-| 2023-12-11 | 4.51 | - | 37,692 | 285,523 |
+| 2023-12-11 | 4.51 | - | 37,692 | 285,591 |

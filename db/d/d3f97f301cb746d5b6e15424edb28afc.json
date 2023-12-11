@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 389,
+  "Ranking_Rating": 390,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 256,
@@ -3011,9 +3011,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -3571,9 +3571,9 @@
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 957
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -3667,9 +3667,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 622
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -3748,8 +3748,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-11T06:06:28.8421422+00:00",
+  "LastChanged_Achievements": "2023-12-11T07:05:58.3017226+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-11T05:59:25.2113008+00:00",
-  "LastUpdate_Achievements": "2023-12-11T06:06:28.842227+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:59:04.3934744+00:00",
+  "LastUpdate_Achievements": "2023-12-11T07:05:58.3018066+00:00"
 }

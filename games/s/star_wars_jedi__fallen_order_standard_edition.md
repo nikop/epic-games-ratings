@@ -1,30 +1,30 @@
 # STAR WARS Jedi: Fallen Order Standard Edition
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-fallen-order)  
 [View Rawdata](../../db/s/star_wars_jedi__fallen_order_standard_edition.json)  
-Rating: 4.66 (Ranked 295)  
+Rating: 4.66 (Ranked 296)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~22,844 |
-| A Long Time Ago | 93.00% | ~21,245 |
-| Sabersmith | 80.00% | ~18,275 |
-| The Obstacle is the Way | 78.00% | ~17,818 |
-| Back At You | 73.00% | ~16,676 |
-| Happy Go Wookiee | 69.00% | ~15,762 |
-| Everything is Connected | 60.00% | ~13,706 |
-| Her Name Was Masana Tide | 55.00% | ~12,564 |
+| The Mantis | 100.00% | ~22,845 |
+| A Long Time Ago | 93.00% | ~21,246 |
+| Sabersmith | 80.00% | ~18,276 |
+| The Obstacle is the Way | 78.00% | ~17,819 |
+| Back At You | 73.00% | ~16,677 |
+| Happy Go Wookiee | 69.00% | ~15,763 |
+| Everything is Connected | 60.00% | ~13,707 |
+| Her Name Was Masana Tide | 55.00% | ~12,565 |
 | Bank Shot | 54.00% | ~12,336 |
-| Perfect Timing | 53.00% | ~12,107 |
-| Gorgara Falls | 51.00% | ~11,650 |
+| Perfect Timing | 53.00% | ~12,108 |
+| Gorgara Falls | 51.00% | ~11,651 |
 | The Full Glow-Up | 50.00% | ~11,422 |
 | For A More Civilized Age | 49.00% | ~11,194 |
 | I Knew He Was No Good | 47.00% | ~10,737 |
-| The Holocron Awaits | 46.00% | ~10,508 |
-| Look Out Below | 44.00% | ~10,051 |
-| Trust Only In The Force | 44.00% | ~10,051 |
+| The Holocron Awaits | 46.00% | ~10,509 |
+| Look Out Below | 44.00% | ~10,052 |
+| Trust Only In The Force | 44.00% | ~10,052 |
 | Scum and Villainy | 43.00% | ~9,823 |
-| Don't Mess with BD-1 | 42.00% | ~9,594 |
-| Blade Master | 39.00% | ~8,909 |
+| Don't Mess with BD-1 | 42.00% | ~9,595 |
+| Blade Master | 39.00% | ~8,910 |
 | Full House | 36.00% | ~8,224 |
 | Legendary Beasts | 22.00% | ~5,026 |
 | Echo Location | 20.00% | ~4,569 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 295)
 | Kicking Back | 2.00% | ~457 |
 | Not So Fast | 1.00% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,844 (Ranked 141)  
+Progressed: 22,845 (Ranked 141)  
 Completed: 236 (1.03%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 236 (1.03%) (Ranked 169)
 | 2023-12-08 | 22,371 | 231 |
 | 2023-12-09 | 22,586 | 233 |
 | 2023-12-10 | 22,804 | 235 |
-| 2023-12-11 | 22,844 | 236 |
+| 2023-12-11 | 22,845 | 236 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
