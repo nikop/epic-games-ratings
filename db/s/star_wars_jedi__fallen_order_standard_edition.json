@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22863,
+  "EOS_Progressed": 22864,
   "EOS_Completed": 237,
-  "EOS_NewPlayers": 1179,
+  "EOS_NewPlayers": 1173,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -12051,6 +12051,11 @@
       "Time": "2023-12-11T13:11:27.4245671+00:00",
       "NumProgressed": 22863,
       "NumCompleted": 237
+    },
+    {
+      "Time": "2023-12-11T14:04:20.5435875+00:00",
+      "NumProgressed": 22864,
+      "NumCompleted": 237
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -12087,7 +12092,7 @@
       "Name": "Happy Go Wookiee",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 15775
+      "UsersEstimate": 15776
     },
     {
       "ID": "achievement_13",
@@ -12103,7 +12108,7 @@
       "Name": "Visiting Alderaan Places",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 4115
+      "UsersEstimate": 4116
     },
     {
       "ID": "achievement_15",
@@ -12111,7 +12116,7 @@
       "Name": "Gorgara Falls",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 11660
+      "UsersEstimate": 11661
     },
     {
       "ID": "achievement_16",
@@ -12135,7 +12140,7 @@
       "Name": "Back At You",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16690
+      "UsersEstimate": 16691
     },
     {
       "ID": "achievement_19",
@@ -12143,7 +12148,7 @@
       "Name": "Perfect Timing",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 12117
+      "UsersEstimate": 12118
     },
     {
       "ID": "achievement_2",
@@ -12191,7 +12196,7 @@
       "Name": "Don\u0027t Mess with BD-1",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 9602
+      "UsersEstimate": 9603
     },
     {
       "ID": "achievement_25",
@@ -12223,7 +12228,7 @@
       "Name": "Bank Shot",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 12346
+      "UsersEstimate": 12347
     },
     {
       "ID": "achievement_29",
@@ -12287,7 +12292,7 @@
       "Name": "Sabersmith",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 18290
+      "UsersEstimate": 18291
     },
     {
       "ID": "achievement_36",
@@ -12311,7 +12316,7 @@
       "Name": "Scum and Villainy",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 9831
+      "UsersEstimate": 9832
     },
     {
       "ID": "achievement_39",
@@ -12351,7 +12356,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 22863
+      "UsersEstimate": 22864
     },
     {
       "ID": "achievement_8",
@@ -12359,7 +12364,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 21263
+      "UsersEstimate": 21264
     },
     {
       "ID": "achievement_9",
@@ -12367,14 +12372,14 @@
       "Name": "The Obstacle is the Way",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 17833
+      "UsersEstimate": 17834
     }
   ],
   "AchievementSets": [
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 22863,
+      "Progressed": 22864,
       "Completed": 237
     }
   ],
@@ -12382,8 +12387,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-11-12T21:59:15.958654+00:00",
-  "LastChanged_Achievements": "2023-12-11T13:11:27.4245668+00:00",
+  "LastChanged_Achievements": "2023-12-11T14:04:20.5435869+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:58.897376+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:07:00.9279085+00:00",
-  "LastUpdate_Achievements": "2023-12-11T13:11:27.4246484+00:00"
+  "LastUpdate_Ratings": "2023-12-11T14:00:30.8616406+00:00",
+  "LastUpdate_Achievements": "2023-12-11T14:04:20.543653+00:00"
 }

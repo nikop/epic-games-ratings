@@ -35,8 +35,8 @@
 | Lieutenant of the Evil | 58.00% | ~106 |
 | Avada Kedavra | 57.00% | ~104 |
 | Brilliant: Tanglewood | 54.00% | ~98 |
+| Starry: Holy Mountain | 54.00% | ~98 |
 | It's a Trap | 54.00% | ~98 |
-| Starry: Holy Mountain | 53.00% | ~96 |
 | Brilliant: Arcania | 51.00% | ~93 |
 | Deposition | 50.00% | ~91 |
 | Starry: Tanglewood | 47.00% | ~86 |

@@ -1,23 +1,23 @@
 # MORDHAU
 [Store](https://store.epicgames.com/en-US/p/mordhau)  
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.38 (Ranked 769)  
+Rating: 4.38 (Ranked 768)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~769,246 |
-| The ABCs | 43.00% | ~675,053 |
-| Home Run | 41.00% | ~643,655 |
-| Keeps Coming Off | 41.00% | ~643,655 |
-| Guts | 20.00% | ~313,978 |
-| Meat Grinder | 19.00% | ~298,279 |
-| Burning Man | 16.00% | ~251,182 |
-| Lived to Tell the Tale | 12.00% | ~188,387 |
-| Highlander | 10.00% | ~156,989 |
-| Unstoppable | 10.00% | ~156,989 |
-| Just a Scratch | 9.00% | ~141,290 |
-| Tough Nut to Crack | 6.00% | ~94,193 |
-| Yoink | 6.00% | ~94,193 |
+| Justice from the Grave | 49.00% | ~769,254 |
+| The ABCs | 43.00% | ~675,060 |
+| Home Run | 41.00% | ~643,662 |
+| Keeps Coming Off | 41.00% | ~643,662 |
+| Guts | 20.00% | ~313,981 |
+| Meat Grinder | 19.00% | ~298,282 |
+| Burning Man | 16.00% | ~251,185 |
+| Lived to Tell the Tale | 12.00% | ~188,389 |
+| Highlander | 10.00% | ~156,991 |
+| Unstoppable | 10.00% | ~156,991 |
+| Just a Scratch | 9.00% | ~141,292 |
+| Tough Nut to Crack | 6.00% | ~94,194 |
+| Yoink | 6.00% | ~94,194 |
 | Long List of Names | 4.00% | ~62,796 |
 | Pyromaniac | 4.00% | ~62,796 |
 | The Queen of Weapons | 4.00% | ~62,796 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 769)
 | That’s No Ordinary Cold | 0.10% | ~1,570 |
 | Stairway to Hell | 0.10% | ~1,570 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,569,890 (Ranked 7)  
+Progressed: 1,569,907 (Ranked 7)  
 Completed: 70 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 70 (0.00%) (Ranked 371)
 | 2023-12-08 | 1,568,491 | 70 |
 | 2023-12-09 | 1,569,098 | 70 |
 | 2023-12-10 | 1,569,707 | 70 |
-| 2023-12-11 | 1,569,890 | 70 |
+| 2023-12-11 | 1,569,907 | 70 |
 ## Awards
 Max (Diverse Characters): 1,034  (Ranked 152)  
 Sum: 5,408 (Ranked 135)  

@@ -74,9 +74,9 @@
 | Mission Accomplished | 29.00% | ~455 |
 | Suicide Mission | 29.00% | ~455 |
 | Against All Odds | 29.00% | ~455 |
+| Eye of the Hurricane | 28.00% | ~440 |
 | Giant Killer | 28.00% | ~440 |
 | A House Divided | 28.00% | ~440 |
-| Eye of the Hurricane | 27.00% | ~424 |
 | World Shaker | 27.00% | ~424 |
 | Liberator | 27.00% | ~424 |
 | First Aid Specialist | 26.00% | ~408 |

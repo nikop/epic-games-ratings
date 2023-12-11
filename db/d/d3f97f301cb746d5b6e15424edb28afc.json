@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3026,9 +3026,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 600
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -3226,9 +3226,9 @@
       "ID": "GSS_ACH_16_ORDER_FUEL",
       "SetID": "5fn8ia4",
       "Name": "Fuel Ordered",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1127
     },
     {
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
@@ -3290,9 +3290,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1103
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -3763,8 +3763,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-11T13:13:25.5589601+00:00",
+  "LastChanged_Achievements": "2023-12-11T14:06:59.295806+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:06:41.0685225+00:00",
-  "LastUpdate_Achievements": "2023-12-11T13:13:25.559041+00:00"
+  "LastUpdate_Ratings": "2023-12-11T14:00:02.2572675+00:00",
+  "LastUpdate_Achievements": "2023-12-11T14:06:59.2958883+00:00"
 }

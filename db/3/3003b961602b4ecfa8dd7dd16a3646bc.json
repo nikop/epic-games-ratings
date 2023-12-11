@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -328,9 +328,9 @@
       "ID": "ACH_01_TUTORIAL",
       "SetID": "9dl0ei6",
       "Name": "Tutorial",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_02_FIRSTRACE",
@@ -551,8 +551,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-11T13:17:08.1413208+00:00",
+  "LastChanged_Achievements": "2023-12-11T14:10:16.0951706+00:00",
   "LastUpdate_AppInfo": "2023-12-11T01:45:33.6720715+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:05:35.1104932+00:00",
-  "LastUpdate_Achievements": "2023-12-11T13:17:08.1413405+00:00"
+  "LastUpdate_Ratings": "2023-12-11T13:58:30.4787805+00:00",
+  "LastUpdate_Achievements": "2023-12-11T14:10:16.0951874+00:00"
 }

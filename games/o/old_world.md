@@ -43,6 +43,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 3.00% | ~472 |
 | Wise | 3.00% | ~472 |
 | Able Difficulty | 3.00% | ~472 |
+| Artisans | 3.00% | ~472 |
 | Furious Family | 3.00% | ~472 |
 | Great Ziggurat | 3.00% | ~472 |
 | Ishtar Gate | 3.00% | ~472 |
@@ -69,8 +70,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 2.00% | ~314 |
 | Good Difficulty | 2.00% | ~314 |
 | Just Difficulty | 2.00% | ~314 |
-| Artisans | 2.00% | ~314 |
 | Champions | 2.00% | ~314 |
+| Landowners | 2.00% | ~314 |
 | Patrons | 2.00% | ~314 |
 | Riders | 2.00% | ~314 |
 | Sages | 2.00% | ~314 |
@@ -101,7 +102,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 1.00% | ~157 |
 | Clerics | 1.00% | ~157 |
 | Hunters | 1.00% | ~157 |
-| Landowners | 1.00% | ~157 |
 | Statesmen | 1.00% | ~157 |
 | Traders | 1.00% | ~157 |
 | Hittite Iron | 1.00% | ~157 |

@@ -5,30 +5,30 @@ Rating: 4.66 (Ranked 296)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~22,863 |
-| A Long Time Ago | 93.00% | ~21,263 |
-| Sabersmith | 80.00% | ~18,290 |
-| The Obstacle is the Way | 78.00% | ~17,833 |
-| Back At You | 73.00% | ~16,690 |
-| Happy Go Wookiee | 69.00% | ~15,775 |
+| The Mantis | 100.00% | ~22,864 |
+| A Long Time Ago | 93.00% | ~21,264 |
+| Sabersmith | 80.00% | ~18,291 |
+| The Obstacle is the Way | 78.00% | ~17,834 |
+| Back At You | 73.00% | ~16,691 |
+| Happy Go Wookiee | 69.00% | ~15,776 |
 | Everything is Connected | 60.00% | ~13,718 |
 | Her Name Was Masana Tide | 55.00% | ~12,575 |
-| Bank Shot | 54.00% | ~12,346 |
-| Perfect Timing | 53.00% | ~12,117 |
-| Gorgara Falls | 51.00% | ~11,660 |
+| Bank Shot | 54.00% | ~12,347 |
+| Perfect Timing | 53.00% | ~12,118 |
+| Gorgara Falls | 51.00% | ~11,661 |
 | The Full Glow-Up | 50.00% | ~11,432 |
 | For A More Civilized Age | 49.00% | ~11,203 |
 | I Knew He Was No Good | 47.00% | ~10,746 |
 | The Holocron Awaits | 46.00% | ~10,517 |
 | Look Out Below | 44.00% | ~10,060 |
 | Trust Only In The Force | 44.00% | ~10,060 |
-| Scum and Villainy | 43.00% | ~9,831 |
-| Don't Mess with BD-1 | 42.00% | ~9,602 |
+| Scum and Villainy | 43.00% | ~9,832 |
+| Don't Mess with BD-1 | 42.00% | ~9,603 |
 | Blade Master | 39.00% | ~8,917 |
 | Full House | 36.00% | ~8,231 |
 | Legendary Beasts | 22.00% | ~5,030 |
 | Echo Location | 20.00% | ~4,573 |
-| Visiting Alderaan Places | 18.00% | ~4,115 |
+| Visiting Alderaan Places | 18.00% | ~4,116 |
 | Triple Take | 14.00% | ~3,201 |
 | Cal Got Your Tongue? | 14.00% | ~3,201 |
 | Big Bang | 12.00% | ~2,744 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 296)
 | Kicking Back | 2.00% | ~457 |
 | Not So Fast | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,863 (Ranked 141)  
+Progressed: 22,864 (Ranked 141)  
 Completed: 237 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 237 (1.04%) (Ranked 168)
 | 2023-12-08 | 22,371 | 231 |
 | 2023-12-09 | 22,586 | 233 |
 | 2023-12-10 | 22,804 | 235 |
-| 2023-12-11 | 22,863 | 237 |
+| 2023-12-11 | 22,864 | 237 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -51,7 +51,7 @@ Rating: 4.68 (Ranked 258)
 | Media Darling | 2.00% | ~122 |
 | Under the Microscope | 1.00% | ~61 |
 | Ultimate Collector | 0.60% | ~37 |
-| Golden Touch | 0.30% | ~18 |
+| Golden Touch | 0.40% | ~24 |
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

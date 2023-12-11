@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1570,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -4675,9 +4675,9 @@
       "ID": "achievement_107",
       "SetID": "d252ncf",
       "Name": "Eye of the Hurricane",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 440
     },
     {
       "ID": "achievement_108",
@@ -5631,8 +5631,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-11T13:16:54.6415526+00:00",
+  "LastChanged_Achievements": "2023-12-11T14:09:57.9204338+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.2992366+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:10:43.530748+00:00",
-  "LastUpdate_Achievements": "2023-12-11T13:16:54.6417068+00:00"
+  "LastUpdate_Ratings": "2023-12-11T14:03:18.3152264+00:00",
+  "LastUpdate_Achievements": "2023-12-11T14:09:57.9205903+00:00"
 }

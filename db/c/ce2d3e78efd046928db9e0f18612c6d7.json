@@ -3,9 +3,9 @@
   "Name": "Hanoi Puzzles - Solid Match",
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
   "Ranking_EOS_Progress": 466,
-  "Ranking_EOS_Completed": 36,
+  "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 82,
-  "EOS_Completed": 10,
+  "EOS_Completed": 11,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 12.2,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 13.41,
   "EosHistory": [
     {
       "Time": "2023-11-02T21:11:02.0754149+00:00",
@@ -419,6 +419,11 @@
       "Time": "2023-12-10T14:09:28.220135+00:00",
       "NumProgressed": 82,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-11T14:10:12.2600073+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-11-02T15:09:10.4117013+00:00",
@@ -493,9 +498,9 @@
       "ID": "09_ACHIEVEMENT_Complete_Master",
       "SetID": "6opd2eg",
       "Name": "Hanoi Master",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 200,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "10_ACHIEVEMENT_Shortcut_Beginner",
@@ -509,9 +514,9 @@
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
       "SetID": "6opd2eg",
       "Name": "Shortcut Master",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
@@ -519,13 +524,13 @@
       "ID": "6opd2eg",
       "IsBase": true,
       "Progressed": 82,
-      "Completed": 10
+      "Completed": 11
     }
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-12-11T13:17:05.2576742+00:00",
+  "LastChanged_Achievements": "2023-12-11T14:10:12.2600066+00:00",
   "LastUpdate_AppInfo": "2023-12-05T06:57:08.3217686+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:04:53.3044993+00:00",
-  "LastUpdate_Achievements": "2023-12-11T13:17:05.2576846+00:00"
+  "LastUpdate_Ratings": "2023-12-11T13:57:30.6345044+00:00",
+  "LastUpdate_Achievements": "2023-12-11T14:10:12.2600177+00:00"
 }

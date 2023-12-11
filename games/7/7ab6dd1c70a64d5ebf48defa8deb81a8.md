@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 16.00% | ~42 |
-| Trinity | 15.00% | ~39 |
+| Trinity | 15.00% | ~40 |
 | Find Allies | 13.00% | ~34 |
 | Powerful Allies | 11.00% | ~29 |
 | A Taste of Wrath | 11.00% | ~29 |
@@ -38,10 +38,10 @@
 | All That Gold | 2.00% | ~5 |
 | Summiter | 2.00% | ~5 |
 | Forgemaster | 1.00% | ~3 |
-| Shardbearer | 0.80% | ~2 |
+| Shardbearer | 1.00% | ~3 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 263 (Ranked 373)  
+Progressed: 264 (Ranked 373)  
 Completed: 2 (0.76%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,4 +101,4 @@ Completed: 2 (0.76%) (Ranked 185)
 | 2023-12-08 | 252 | 2 |
 | 2023-12-09 | 256 | 2 |
 | 2023-12-10 | 262 | 2 |
-| 2023-12-11 | 263 | 2 |
+| 2023-12-11 | 264 | 2 |

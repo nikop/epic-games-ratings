@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -8279,9 +8279,9 @@
       "ID": "Ach001",
       "SetID": "12n4k20",
       "Name": "Start with a bang!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 856
+      "UsersEstimate": 901
     },
     {
       "ID": "Ach002",
@@ -8575,9 +8575,9 @@
       "ID": "Ach038",
       "SetID": "12n4k20",
       "Name": "I\u0027m not done with you yet",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 90
     },
     {
       "ID": "Ach039",
@@ -8862,8 +8862,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-11T13:15:46.9233967+00:00",
+  "LastChanged_Achievements": "2023-12-11T14:08:27.211672+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:18.6418134+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:07:53.0025332+00:00",
-  "LastUpdate_Achievements": "2023-12-11T13:15:46.9234878+00:00"
+  "LastUpdate_Ratings": "2023-12-11T14:01:42.0066953+00:00",
+  "LastUpdate_Achievements": "2023-12-11T14:08:27.2117582+00:00"
 }

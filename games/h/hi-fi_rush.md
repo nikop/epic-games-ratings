@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Start with a bang! | 20.00% | ~901 |
 | Feeling the beat! | 20.00% | ~901 |
-| Start with a bang! | 19.00% | ~856 |
 | You can pet the cat! | 18.00% | ~811 |
 | Who put gears in there? | 17.00% | ~766 |
 | Cream of the Crop | 16.00% | ~721 |
@@ -43,11 +43,11 @@ Rating: 4.87 (Ranked 25)
 | I think I found your calling, Macaron | 2.00% | ~90 |
 | This is a breeze! | 2.00% | ~90 |
 | We're Jammin' | 2.00% | ~90 |
+| I'm not done with you yet | 2.00% | ~90 |
 | First we parry, then we counter | 2.00% | ~90 |
 | I hit things with a guitar really well. | 2.00% | ~90 |
 | Call me Turbo Chai | 2.00% | ~60 |
 | OK, well THEY came after ME! | 1.00% | ~45 |
-| I'm not done with you yet | 1.00% | ~45 |
 | You ever parry a volcano? | 1.00% | ~45 |
 | New bad guys? No problem! | 1.00% | ~30 |
 | Easy Listening | 0.60% | ~27 |

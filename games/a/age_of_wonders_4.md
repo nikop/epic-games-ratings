@@ -17,6 +17,7 @@ Rating: 4.62 (Ranked 371)
 | Seat of Power | 3.00% | ~168 |
 | Valley of Wonders | 2.00% | ~112 |
 | Enchanted Archipelago | 2.00% | ~112 |
+| Digging for Treasure | 2.00% | ~112 |
 | Stronger Together | 2.00% | ~112 |
 | Magical Synergy | 2.00% | ~112 |
 | My Final Form | 2.00% | ~112 |
@@ -30,7 +31,6 @@ Rating: 4.62 (Ranked 371)
 | Chaos Surge | 2.00% | ~112 |
 | Return of the Wizard King | 1.00% | ~56 |
 | Arch Mage | 1.00% | ~56 |
-| Digging for Treasure | 1.00% | ~56 |
 | Crimson Caldera | 1.00% | ~56 |
 | Preparation Is Everything | 1.00% | ~56 |
 | Here be Dragons | 1.00% | ~56 |

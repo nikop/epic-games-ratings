@@ -7,7 +7,7 @@
 | First Blood | 6.00% | ~32 |
 | Half a Life | 4.00% | ~21 |
 | Shock to the System | 3.00% | ~16 |
-| Bad Blood | 2.00% | ~10 |
+| Bad Blood | 2.00% | ~11 |
 | Serious Bam | 1.00% | ~5 |
 | Doomed | 0.80% | ~4 |
 | Postal Service | 0.80% | ~4 |
@@ -35,7 +35,7 @@
 | Unreal 4 | 0.00% | ~0 |
 | Until Dusk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525 (Ranked 316)  
+Progressed: 527 (Ranked 316)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 485 | 0 |
 | 2023-12-09 | 504 | 0 |
 | 2023-12-10 | 522 | 0 |
-| 2023-12-11 | 525 | 0 |
+| 2023-12-11 | 527 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

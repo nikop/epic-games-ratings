@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156136,
+  "EOS_Progressed": 156138,
   "EOS_Completed": 358,
-  "EOS_NewPlayers": 799,
+  "EOS_NewPlayers": 794,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -21215,6 +21215,11 @@
       "Time": "2023-12-11T13:13:39.9642687+00:00",
       "NumProgressed": 156136,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2023-12-11T14:07:19.0042052+00:00",
+      "NumProgressed": 156138,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 31,
@@ -21234,7 +21239,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 109295
+      "UsersEstimate": 109297
     },
     {
       "ID": "EAwards_10",
@@ -21274,7 +21279,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 60893
+      "UsersEstimate": 60894
     },
     {
       "ID": "EAwards_15",
@@ -21282,7 +21287,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18736
+      "UsersEstimate": 18737
     },
     {
       "ID": "EAwards_16",
@@ -21322,7 +21327,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 43718
+      "UsersEstimate": 43719
     },
     {
       "ID": "EAwards_20",
@@ -21346,7 +21351,7 @@
       "Name": "Poncho\u0027d Out",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6245
+      "UsersEstimate": 6246
     },
     {
       "ID": "EAwards_23",
@@ -21426,7 +21431,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23420
+      "UsersEstimate": 23421
     },
     {
       "ID": "EAwards_5",
@@ -21434,7 +21439,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18736
+      "UsersEstimate": 18737
     },
     {
       "ID": "EAwards_6",
@@ -21466,14 +21471,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18736
+      "UsersEstimate": 18737
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 156136,
+      "Progressed": 156138,
       "Completed": 358
     }
   ],
@@ -21481,8 +21486,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-11T13:07:34.3622541+00:00",
-  "LastChanged_Achievements": "2023-12-11T13:13:39.9642685+00:00",
+  "LastChanged_Achievements": "2023-12-11T14:07:19.0042048+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.48101+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:07:34.3622546+00:00",
-  "LastUpdate_Achievements": "2023-12-11T13:13:39.9643798+00:00"
+  "LastUpdate_Ratings": "2023-12-11T14:01:14.7293123+00:00",
+  "LastUpdate_Achievements": "2023-12-11T14:07:19.0043284+00:00"
 }

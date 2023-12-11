@@ -5,18 +5,18 @@ Rating: 4.42 (Ranked 717)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,798 |
-| A new Journey | 75.00% | ~1,774 |
-| Departure | 74.00% | ~1,751 |
-| From X to Y | 73.00% | ~1,727 |
-| Way of Iron | 70.00% | ~1,656 |
+| Country Bumpkin | 76.00% | ~1,799 |
+| A new Journey | 75.00% | ~1,775 |
+| Departure | 74.00% | ~1,752 |
+| From X to Y | 73.00% | ~1,728 |
+| Way of Iron | 71.00% | ~1,681 |
 | Mystery Tour | 69.00% | ~1,633 |
-| We brake for nobody | 68.00% | ~1,609 |
+| We brake for nobody | 68.00% | ~1,610 |
 | Brainstorm | 66.00% | ~1,562 |
 | Travel Company | 66.00% | ~1,562 |
-| Mind the Gap | 65.00% | ~1,538 |
+| Mind the Gap | 65.00% | ~1,539 |
 | All around the World | 63.00% | ~1,491 |
-| Right through the middle | 58.00% | ~1,372 |
+| Right through the middle | 58.00% | ~1,373 |
 | Facility Manager | 54.00% | ~1,278 |
 | Poor Devil | 54.00% | ~1,278 |
 | Producer | 51.00% | ~1,207 |
@@ -24,15 +24,15 @@ Rating: 4.42 (Ranked 717)
 | Apprentice | 41.00% | ~970 |
 | Going once, going twice, sold | 36.00% | ~852 |
 | Access granted | 35.00% | ~828 |
-| Bull and bear | 34.00% | ~804 |
+| Bull and bear | 34.00% | ~805 |
 | Stoker | 33.00% | ~781 |
 | Full Steam ahead | 32.00% | ~757 |
-| All mine | 31.00% | ~733 |
-| Financial Shark | 31.00% | ~733 |
+| All mine | 31.00% | ~734 |
+| Financial Shark | 31.00% | ~734 |
 | Mole | 30.00% | ~710 |
 | Socializer | 30.00% | ~710 |
-| General Manager | 28.00% | ~662 |
-| Country Life | 28.00% | ~662 |
+| General Manager | 28.00% | ~663 |
+| Country Life | 28.00% | ~663 |
 | Hostile Takeover | 25.00% | ~592 |
 | Seven at one stroke | 24.00% | ~568 |
 | Breaking Ground | 22.00% | ~521 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 717)
 | United States | 0.60% | ~14 |
 | Together we stand | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,366 (Ranked 221)  
+Progressed: 2,367 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 2,353 | 0 |
 | 2023-12-09 | 2,358 | 0 |
 | 2023-12-10 | 2,364 | 0 |
-| 2023-12-11 | 2,366 | 0 |
+| 2023-12-11 | 2,367 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

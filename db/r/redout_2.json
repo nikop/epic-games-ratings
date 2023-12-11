@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1178,
+  "EOS_Progressed": 1179,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1159,6 +1159,11 @@
       "Time": "2023-12-08T17:04:22.7409763+00:00",
       "NumProgressed": 1178,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T14:06:11.3219031+00:00",
+      "NumProgressed": 1179,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1242,7 +1247,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -1322,7 +1327,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1354,7 +1359,7 @@
       "Name": "EZ game EZ life",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CAREERTRIALSMASTERS",
@@ -1450,7 +1455,7 @@
       "Name": "First step into a larger world",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LOSEONEONLINE",
@@ -1466,7 +1471,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ONELIVERY",
@@ -1474,7 +1479,7 @@
       "Name": "Suit up",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ONEMODULE",
@@ -1585,7 +1590,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1178,
+      "Progressed": 1179,
       "Completed": 0
     }
   ],
@@ -1593,8 +1598,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-11-23T19:59:23.2109032+00:00",
-  "LastChanged_Achievements": "2023-12-11T13:12:50.0445028+00:00",
+  "LastChanged_Achievements": "2023-12-11T14:06:11.3219026+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0086911+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:10:35.8830754+00:00",
-  "LastUpdate_Achievements": "2023-12-11T13:12:50.0445443+00:00"
+  "LastUpdate_Ratings": "2023-12-11T14:03:07.3373784+00:00",
+  "LastUpdate_Achievements": "2023-12-11T14:06:11.3219393+00:00"
 }

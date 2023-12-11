@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -201,7 +201,7 @@
   ],
   "EOS_Progressed": 10919,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
@@ -6082,9 +6082,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7opfcp",
       "Name": "I Challenge You To Save More Money!",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 9390
+      "UsersEstimate": 9500
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -6419,8 +6419,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-10T15:00:14.2676379+00:00",
-  "LastChanged_Achievements": "2023-12-11T13:16:22.243623+00:00",
+  "LastChanged_Achievements": "2023-12-11T14:09:14.9819389+00:00",
   "LastUpdate_AppInfo": "2023-12-09T02:17:01.4764819+00:00",
-  "LastUpdate_Ratings": "2023-12-11T13:04:48.4130149+00:00",
-  "LastUpdate_Achievements": "2023-12-11T13:16:22.2436885+00:00"
+  "LastUpdate_Ratings": "2023-12-11T13:57:23.4387725+00:00",
+  "LastUpdate_Achievements": "2023-12-11T14:09:14.9819968+00:00"
 }
