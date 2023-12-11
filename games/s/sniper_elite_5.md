@@ -5,25 +5,25 @@ Rating: 4.43 (Ranked 696)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,880 |
-| Confirming Suspicions | 41.00% | ~1,640 |
-| The Kraken Wakes | 37.00% | ~1,480 |
-| It's Starting to Crack | 34.00% | ~1,360 |
-| Lord of War | 31.00% | ~1,240 |
-| Change the Channel | 31.00% | ~1,240 |
-| Taking it back | 29.00% | ~1,160 |
-| Resourceful | 27.00% | ~1,080 |
-| Target America | 27.00% | ~1,080 |
-| The Kraken Sleeps | 25.00% | ~1,000 |
-| As Quiet as a Mouse | 24.00% | ~960 |
-| Liberté | 23.00% | ~920 |
-| Organ Grinder | 23.00% | ~920 |
-| Sharpshooter | 23.00% | ~920 |
-| Gunslinger | 19.00% | ~760 |
-| Explosive Efficiency | 19.00% | ~760 |
-| Climbing the Ladder | 17.00% | ~680 |
-| Just a Flesh Wound | 17.00% | ~680 |
-| Der Geist | 17.00% | ~680 |
+| Meeting Resistance | 47.00% | ~1,881 |
+| Confirming Suspicions | 41.00% | ~1,641 |
+| The Kraken Wakes | 37.00% | ~1,481 |
+| It's Starting to Crack | 34.00% | ~1,361 |
+| Lord of War | 31.00% | ~1,241 |
+| Change the Channel | 31.00% | ~1,241 |
+| Taking it back | 29.00% | ~1,161 |
+| Resourceful | 27.00% | ~1,081 |
+| Target America | 27.00% | ~1,081 |
+| The Kraken Sleeps | 25.00% | ~1,001 |
+| As Quiet as a Mouse | 24.00% | ~961 |
+| Liberté | 23.00% | ~921 |
+| Organ Grinder | 23.00% | ~921 |
+| Sharpshooter | 23.00% | ~921 |
+| Gunslinger | 19.00% | ~761 |
+| Explosive Efficiency | 19.00% | ~761 |
+| Climbing the Ladder | 17.00% | ~681 |
+| Just a Flesh Wound | 17.00% | ~681 |
+| Der Geist | 17.00% | ~681 |
 | Close Quarters | 16.00% | ~640 |
 | Snake in the Grass | 16.00% | ~640 |
 | Brains of the Operation | 16.00% | ~640 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 696)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,001 (Ranked 199)  
+Progressed: 4,003 (Ranked 199)  
 Completed: 11 (0.27%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 11 (0.27%) (Ranked 247)
 | 2023-12-08 | 3,991 | 11 |
 | 2023-12-09 | 3,996 | 11 |
 | 2023-12-10 | 3,999 | 11 |
-| 2023-12-11 | 4,001 | 11 |
+| 2023-12-11 | 4,003 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 508)  
 Sum: 28 (Ranked 524)  

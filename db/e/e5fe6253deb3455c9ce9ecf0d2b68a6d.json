@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -1242,9 +1242,9 @@
       "ID": "Dangerous_dose",
       "SetID": "cjfnji1",
       "Name": "Dangerous dose",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "Dissatisfaction",
@@ -1353,8 +1353,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-12-11T16:04:17.4906697+00:00",
+  "LastChanged_Achievements": "2023-12-11T17:04:22.3202412+00:00",
   "LastUpdate_AppInfo": "2023-12-05T02:57:04.0681832+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:58:32.4617865+00:00",
-  "LastUpdate_Achievements": "2023-12-11T16:04:17.4906849+00:00"
+  "LastUpdate_Ratings": "2023-12-11T16:58:39.6765835+00:00",
+  "LastUpdate_Achievements": "2023-12-11T17:04:22.3202628+00:00"
 }

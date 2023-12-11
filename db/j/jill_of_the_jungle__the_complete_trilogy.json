@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2061,
+  "EOS_Progressed": 2062,
   "EOS_Completed": 158,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.67,
+  "EOS_Completed_Percentage": 7.66,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -7532,6 +7532,11 @@
       "Time": "2023-12-11T16:04:18.4200173+00:00",
       "NumProgressed": 2061,
       "NumCompleted": 158
+    },
+    {
+      "Time": "2023-12-11T17:04:23.4021714+00:00",
+      "NumProgressed": 2062,
+      "NumCompleted": 158
     }
   ],
   "TotalAchievements": 5,
@@ -7543,7 +7548,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2062
     },
     {
       "ID": "2",
@@ -7567,7 +7572,7 @@
       "Name": "Jill the Courageous",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "5",
@@ -7582,7 +7587,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 2061,
+      "Progressed": 2062,
       "Completed": 158
     }
   ],
@@ -7590,8 +7595,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-12-11T16:04:18.4200169+00:00",
+  "LastChanged_Achievements": "2023-12-11T17:04:23.4021712+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:02.1038042+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:59:52.1006587+00:00",
-  "LastUpdate_Achievements": "2023-12-11T16:04:18.420068+00:00"
+  "LastUpdate_Ratings": "2023-12-11T16:59:58.2350396+00:00",
+  "LastUpdate_Achievements": "2023-12-11T17:04:23.402232+00:00"
 }

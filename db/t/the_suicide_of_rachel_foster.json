@@ -3924,9 +3924,9 @@
       "ID": "ACH_StanzaSegreta",
       "SetID": "7a9m7mj",
       "Name": "Someone was here",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 700
+      "UsersEstimate": 718
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -3948,8 +3948,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-12-11T16:05:17.3285978+00:00",
+  "LastChanged_Achievements": "2023-12-11T17:05:22.6022977+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:28.7894804+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:58:50.434238+00:00",
-  "LastUpdate_Achievements": "2023-12-11T16:05:17.3286295+00:00"
+  "LastUpdate_Ratings": "2023-12-11T16:58:58.2797359+00:00",
+  "LastUpdate_Achievements": "2023-12-11T17:05:22.6023339+00:00"
 }

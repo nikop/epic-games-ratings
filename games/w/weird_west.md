@@ -47,7 +47,7 @@ Number of Ratings: 125  (23.09.2022)
 | Healing Old Wounds | 5.00% | ~101 |
 | This Is Sparta | 5.00% | ~101 |
 | What’s in the Box? | 5.00% | ~101 |
-| Ghost Town | 3.00% | ~61 |
+| Ghost Town | 4.00% | ~81 |
 | Lord Inut Sends His Regards | 3.00% | ~61 |
 | Moondrunk | 3.00% | ~61 |
 | 'Ma Barker | 2.00% | ~41 |

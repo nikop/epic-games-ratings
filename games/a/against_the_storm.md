@@ -6,10 +6,10 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 4.00% | ~717 |
-| Overgrown Library | 4.00% | ~717 |
+| Abandoned Settlement | 4.00% | ~718 |
+| Overgrown Library | 4.00% | ~718 |
+| Petrified Necropolis | 4.00% | ~718 |
 | Frosts | 3.00% | ~538 |
-| Petrified Necropolis | 3.00% | ~538 |
 | Ominous Presence | 3.00% | ~538 |
 | Gathering Storm | 3.00% | ~538 |
 | Land of Greed | 2.00% | ~359 |
@@ -22,17 +22,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 1.00% | ~179 |
 | No Deaths | 1.00% | ~179 |
 | Fertile Meadows | 0.90% | ~161 |
-| Royal Outpost | 0.80% | ~143 |
-| Watchtower | 0.80% | ~143 |
+| Royal Outpost | 0.80% | ~144 |
+| Watchtower | 0.80% | ~144 |
+| Homesick | 0.70% | ~126 |
 | Lost Colonies | 0.70% | ~126 |
-| Homesick | 0.60% | ~108 |
 | Bandit Camp | 0.60% | ~108 |
+| Monastery of the Holy Flame | 0.60% | ~108 |
 | Corrosive Torrent | 0.60% | ~108 |
 | A Real Challenge | 0.60% | ~108 |
 | Ruined Armory | 0.50% | ~90 |
 | Barren Lands | 0.50% | ~90 |
 | Levitating Monument | 0.50% | ~90 |
-| Monastery of the Holy Flame | 0.50% | ~90 |
 | Cursed Lands | 0.50% | ~90 |
 | Trade Baron | 0.50% | ~90 |
 | Ancient Battleground | 0.40% | ~72 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,935 (Ranked 147)  
-Completed: 41 (0.23%) (Ranked 253)  
+Progressed: 17,938 (Ranked 147)  
+Completed: 40 (0.22%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -301,10 +301,10 @@ Completed: 41 (0.23%) (Ranked 253)
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
 | 2023-12-10 | 17,908 | 43 |
-| 2023-12-11 | 17,935 | 41 |
+| 2023-12-11 | 17,938 | 41 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 225)  
-Sum: 3,252 (Ranked 175)  
+Sum: 3,253 (Ranked 175)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -313,7 +313,7 @@ Diff (max vs sum): 50
 | This game is Great for Beginners | 426 |
 | This game is Extremely Fun | 409 |
 | This game is Highly Recommended | 391 |
-| This game has Unique Visuals | 330 |
+| This game has Unique Visuals | 331 |
 | This game has Amazing Storytelling | 319 |
 | This game has Amazing Characters | 287 |
 | This game has Obsessive Gameplay | 254 |
@@ -571,4 +571,4 @@ Diff (max vs sum): 50
 | 2023-12-08 | 4.82 | - | 442 | 3,245 |
 | 2023-12-09 | 4.82 | - | 442 | 3,248 |
 | 2023-12-10 | 4.82 | - | 442 | 3,250 |
-| 2023-12-11 | 4.82 | - | 442 | 3,252 |
+| 2023-12-11 | 4.82 | - | 442 | 3,253 |

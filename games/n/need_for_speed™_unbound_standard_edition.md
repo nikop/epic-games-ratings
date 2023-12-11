@@ -5,26 +5,26 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Throwing up Tags | 92.00% | ~11,195 |
-| Cool Whip | 90.00% | ~10,951 |
-| Fashion Killa | 88.00% | ~10,708 |
-| Drop the Beat | 86.00% | ~10,464 |
-| Hey Lakeshore | 85.00% | ~10,343 |
-| 100 Miles and Runnin' | 84.00% | ~10,221 |
-| Public Enemy | 82.00% | ~9,978 |
-| Rebel Without a Pause | 68.00% | ~8,274 |
-| Hey Speedie! | 68.00% | ~8,274 |
+| Cool Whip | 90.00% | ~10,952 |
+| Fashion Killa | 88.00% | ~10,709 |
+| Drop the Beat | 86.00% | ~10,465 |
+| Hey Lakeshore | 85.00% | ~10,344 |
+| 100 Miles and Runnin' | 84.00% | ~10,222 |
+| Public Enemy | 82.00% | ~9,979 |
+| Rebel Without a Pause | 68.00% | ~8,275 |
+| Hey Speedie! | 68.00% | ~8,275 |
 | Most Wanted | 64.00% | ~7,788 |
 | New Crew | 63.00% | ~7,666 |
 | Escape Artist | 54.00% | ~6,571 |
-| Serious Guap | 53.00% | ~6,449 |
-| Style it Out | 53.00% | ~6,449 |
-| Untouchable | 52.00% | ~6,327 |
+| Serious Guap | 53.00% | ~6,450 |
+| Style it Out | 53.00% | ~6,450 |
+| Untouchable | 52.00% | ~6,328 |
 | Oh, It's On | 50.00% | ~6,084 |
-| Rydell's Rydes | 49.00% | ~5,962 |
-| Cash Money Millionaire | 46.00% | ~5,597 |
-| Lake Better Watch Out | 40.00% | ~4,867 |
+| Rydell's Rydes | 49.00% | ~5,963 |
+| Cash Money Millionaire | 46.00% | ~5,598 |
+| Lake Better Watch Out | 40.00% | ~4,868 |
 | #Blessed | 34.00% | ~4,137 |
-| Access All Areas | 33.00% | ~4,015 |
+| Access All Areas | 33.00% | ~4,016 |
 | Found Family | 31.00% | ~3,772 |
 | In the Flow | 29.00% | ~3,529 |
 | The Collector | 29.00% | ~3,529 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~243 |
 | Cleaning Up | 2.00% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,168 (Ranked 163)  
+Progressed: 12,169 (Ranked 163)  
 Completed: 52 (0.43%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,4 +133,4 @@ Completed: 52 (0.43%) (Ranked 220)
 | 2023-12-08 | 11,958 | 52 |
 | 2023-12-09 | 12,036 | 52 |
 | 2023-12-10 | 12,135 | 52 |
-| 2023-12-11 | 12,168 | 52 |
+| 2023-12-11 | 12,169 | 52 |

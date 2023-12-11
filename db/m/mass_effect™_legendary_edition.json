@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1571,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -4664,9 +4664,9 @@
       "ID": "achievement_105",
       "SetID": "d252ncf",
       "Name": "Sky High",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_106",
@@ -5636,8 +5636,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-11T16:09:32.5440769+00:00",
+  "LastChanged_Achievements": "2023-12-11T17:09:28.0236708+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.2992366+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:03:14.0368127+00:00",
-  "LastUpdate_Achievements": "2023-12-11T16:09:32.5442569+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:03:17.566931+00:00",
+  "LastUpdate_Achievements": "2023-12-11T17:09:28.023829+00:00"
 }

@@ -42,9 +42,9 @@ Rating: 4.62 (Ranked 371)
 | Spoils of War | 1.00% | ~56 |
 | Dawn of the Dread | 1.00% | ~56 |
 | The Creator | 0.90% | ~50 |
+| The Eternal Court | 0.90% | ~50 |
 | Lord of Chaos | 0.80% | ~45 |
 | Eternal Lord | 0.80% | ~45 |
-| The Eternal Court | 0.80% | ~45 |
 | God Emperor | 0.70% | ~39 |
 | Manufactured War | 0.70% | ~39 |
 | Grexolis | 0.70% | ~39 |

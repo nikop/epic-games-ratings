@@ -216,7 +216,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 933,
+  "EOS_Progressed": 934,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -2336,6 +2336,11 @@
       "Time": "2023-12-11T16:04:32.0876677+00:00",
       "NumProgressed": 933,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-11T17:04:37.1570068+00:00",
+      "NumProgressed": 934,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2386,9 +2391,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 205
     },
     {
       "ID": "BreakTheLoop",
@@ -2634,9 +2639,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 177
     },
     {
       "ID": "RenaissanceRobot",
@@ -2698,7 +2703,7 @@
       "ID": "TextAdventurer",
       "SetID": "1n308hc",
       "Name": "Text Adventurer",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -2819,7 +2824,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 933,
+      "Progressed": 934,
       "Completed": 1
     }
   ],
@@ -2827,8 +2832,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-11T16:04:32.0876672+00:00",
+  "LastChanged_Achievements": "2023-12-11T17:04:37.1570064+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:58:25.8130839+00:00",
-  "LastUpdate_Achievements": "2023-12-11T16:04:32.0877144+00:00"
+  "LastUpdate_Ratings": "2023-12-11T16:58:32.9703094+00:00",
+  "LastUpdate_Achievements": "2023-12-11T17:04:37.1570928+00:00"
 }

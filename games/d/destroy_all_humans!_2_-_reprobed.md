@@ -6,29 +6,30 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 46.00% | ~16 |
-| Rock of the Bay | 43.00% | ~15 |
+| Mash Machine | 47.00% | ~17 |
+| Rock of the Bay | 42.00% | ~15 |
 | Furon Fashion | 31.00% | ~11 |
 | Ducks in a Row, Fish in a Barrel | 31.00% | ~11 |
-| Shop Til They Drop | 26.00% | ~9 |
-| I Look Up As I Walk to Takoshima | 20.00% | ~7 |
-| Upgreatest | 20.00% | ~7 |
+| Shop Til They Drop | 25.00% | ~9 |
+| I Look Up As I Walk to Takoshima | 22.00% | ~8 |
+| Upgreatest | 19.00% | ~7 |
 | Earthly Pleasures | 17.00% | ~6 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 14.00% | ~5 |
 | Pimp My Raid | 14.00% | ~5 |
 | Cult Following | 11.00% | ~4 |
-| Perfect Probulator | 9.00% | ~3 |
-| Transmitting From Sol-3 | 9.00% | ~3 |
-| Lie Back and Think of Albion | 9.00% | ~3 |
-| Fly Me to the Moon Base | 9.00% | ~3 |
-| Bodied Sattva | 9.00% | ~3 |
-| Scuttled | 9.00% | ~3 |
-| Dusted | 9.00% | ~3 |
+| Perfect Probulator | 8.00% | ~3 |
+| Transmitting From Sol-3 | 8.00% | ~3 |
+| Lie Back and Think of Albion | 8.00% | ~3 |
+| Fly Me to the Moon Base | 8.00% | ~3 |
+| Bodied Sattva | 8.00% | ~3 |
+| Scuttled | 8.00% | ~3 |
+| Dusted | 8.00% | ~3 |
 | Kaijuiced | 6.00% | ~2 |
 | Lobster Blisque | 6.00% | ~2 |
 | Freshly Squeezed | 6.00% | ~2 |
 | Die Nasty | 6.00% | ~2 |
 | Forbidden Donut | 3.00% | ~1 |
+| Deincarnated | 3.00% | ~1 |
 | Yettisoned | 3.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |
@@ -40,7 +41,6 @@ Number of Ratings: 90  (23.09.2022)
 | Toilet Break | 0.00% | ~0 |
 | Albion Bridge Is for Falling Down | 0.00% | ~0 |
 | Ouch of Body Experience | 0.00% | ~0 |
-| Deincarnated | 0.00% | ~0 |
 | The Optional Mandate | 0.00% | ~0 |
 | Higher Than the Futen Zoku | 0.00% | ~0 |
 | Re-Return of the Clone of the Invasion II-2 | 0.00% | ~0 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 | Arkvoodle Doodle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35 (Ranked 536)  
+Progressed: 36 (Ranked 533)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 25 | 0 |
 | 2023-12-09 | 28 | 0 |
 | 2023-12-10 | 30 | 0 |
-| 2023-12-11 | 35 | 0 |
+| 2023-12-11 | 36 | 0 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 481)  
 Sum: 35 (Ranked 509)  

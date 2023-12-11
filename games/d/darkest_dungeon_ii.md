@@ -6,9 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Malpractice Assurance | 0.50% | ~5 |
+| This guy... again? | 0.30% | ~3 |
+| This Belongs in a Museum | 0.20% | ~252 |
 | A Place to Lay Your Head | 0.20% | ~252 |
-| Malpractice Assurance | 0.20% | ~2 |
-| This guy... again? | 0.20% | ~2 |
 | Don't Make Me Turn This Coach Around | 0.10% | ~126 |
 | Serenity Now! | 0.10% | ~126 |
 | It Rings a Bell | 0.10% | ~126 |
@@ -25,7 +26,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hope Rekindled | 0.10% | ~126 |
 | Loop Year | 0.10% | ~126 |
 | Predator | 0.10% | ~126 |
-| This Belongs in a Museum | 0.10% | ~126 |
 | Dissector | 0.10% | ~126 |
 | Banishment | 0.10% | ~126 |
 | Not Today! | 0.10% | ~126 |
@@ -71,14 +71,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Grand Slam | 0.10% | ~126 |
 | Hard Mode | 0.10% | ~126 |
 | Road Trip | 0.10% | ~126 |
+| Slap on the Wrist | 0.10% | ~1 |
+| Et Tu, Riposte? | 0.10% | ~1 |
 | No Gravestone Left Unturned | 0.00% | ~0 |
 | The Clash | 0.00% | ~0 |
 | Battle Hardened | 0.00% | ~0 |
 | Maître De La Lame | 0.00% | ~0 |
 | These Boots Are Made For Kickin' | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |
-| Slap on the Wrist | 0.00% | ~0 |
-| Et Tu, Riposte? | 0.00% | ~0 |
 | Ploughshares to Swords | 0.00% | ~0 |
 | Bloody Graduation | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,137 (Ranked 84)  
+Progressed: 126,141 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,10 +311,10 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-08 | 125,859 | 2 |
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
-| 2023-12-11 | 126,137 | 2 |
+| 2023-12-11 | 126,141 | 2 |
 ## Awards
 Max (Character Customization): 7,586  (Ranked 52)  
-Sum: 20,062 (Ranked 59)  
+Sum: 20,065 (Ranked 59)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -326,7 +326,7 @@ Diff (max vs sum): -7
 | This game is Extremely Fun | 1,421 |
 | This game has Amazing Storytelling | 1,347 |
 | This game has Quickly Understood Controls | 1,319 |
-| This game has Unique Visuals | 1,314 |
+| This game has Unique Visuals | 1,317 |
 | This game has a Creative Community | 986 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -650,4 +650,4 @@ Diff (max vs sum): -7
 | 2023-12-08 | 4.68 | - | 7,565 | 20,002 |
 | 2023-12-09 | 4.68 | - | 7,572 | 20,019 |
 | 2023-12-10 | 4.68 | - | 7,578 | 20,042 |
-| 2023-12-11 | 4.68 | - | 7,586 | 20,062 |
+| 2023-12-11 | 4.68 | - | 7,586 | 20,065 |

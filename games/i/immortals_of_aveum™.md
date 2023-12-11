@@ -25,7 +25,7 @@ Rating: 4.05 (Ranked 998)
 | Geas Aristeya | 23.00% | ~76 |
 | A Perfect Cycle | 21.00% | ~70 |
 | Recruit | 19.00% | ~63 |
-| Armsman | 17.00% | ~56 |
+| Armsman | 18.00% | ~60 |
 | Lights Army | 13.00% | ~43 |
 | Periapt Cerulean | 13.00% | ~43 |
 | Good Boy | 12.00% | ~40 |

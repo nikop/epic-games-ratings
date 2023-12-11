@@ -4539,10 +4539,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 5131,
       "NumberOfAwardsMax": 3003
+    },
+    {
+      "Time": "2023-12-11T16:58:12.7849932+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5133,
+      "NumberOfAwardsMax": 3003
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5131,
+  "NumberOfAwards": 5133,
   "NumberOfAwardsMax": 3003,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4574,7 +4580,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 263
+      "Count": 265
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4607,9 +4613,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77894,
+  "EOS_Progressed": 77895,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25652,6 +25658,11 @@
       "Time": "2023-12-11T16:06:10.7100097+00:00",
       "NumProgressed": 77894,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-11T17:06:16.0107678+00:00",
+      "NumProgressed": 77895,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25847,7 +25858,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7010
+      "UsersEstimate": 7011
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -25879,7 +25890,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7789
+      "UsersEstimate": 7790
     },
     {
       "ID": "FREEZE_1",
@@ -25887,7 +25898,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21810
+      "UsersEstimate": 21811
     },
     {
       "ID": "FREEZE_1_5",
@@ -26007,7 +26018,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38947
+      "UsersEstimate": 38948
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -26039,7 +26050,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 21031
+      "UsersEstimate": 21032
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -26127,7 +26138,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7010
+      "UsersEstimate": 7011
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -26150,22 +26161,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77894,
+      "Progressed": 77895,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48174,
+      "Progressed": 48175,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-12-10T21:57:48.3381968+00:00",
-  "LastChanged_Achievements": "2023-12-11T16:06:10.7100092+00:00",
+  "LastChanged": "2023-12-11T16:58:12.784993+00:00",
+  "LastChanged_Achievements": "2023-12-11T17:06:16.0107674+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:58:05.827449+00:00",
-  "LastUpdate_Achievements": "2023-12-11T16:06:10.7101232+00:00"
+  "LastUpdate_Ratings": "2023-12-11T16:58:12.7849936+00:00",
+  "LastUpdate_Achievements": "2023-12-11T17:06:16.0109668+00:00"
 }

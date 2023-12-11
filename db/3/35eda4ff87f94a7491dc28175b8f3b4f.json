@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13897,
+  "EOS_Progressed": 13907,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 1838,
+  "EOS_NewPlayers": 1832,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3980,6 +3980,11 @@
       "Time": "2023-12-11T16:08:15.0911184+00:00",
       "NumProgressed": 13897,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-12-11T17:06:40.0068354+00:00",
+      "NumProgressed": 13907,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -4024,7 +4029,7 @@
       "Name": "Savior",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -4040,7 +4045,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -4056,22 +4061,22 @@
       "Name": "Locksmith",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
       "SetID": "24fdn9j",
       "Name": "Investigator",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 139
+      "UsersEstimate": 278
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 13897,
+      "Progressed": 13907,
       "Completed": 50
     }
   ],
@@ -4079,8 +4084,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-09T13:57:32.4799136+00:00",
-  "LastChanged_Achievements": "2023-12-11T16:08:15.091118+00:00",
+  "LastChanged_Achievements": "2023-12-11T17:06:40.0068348+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:57.9778302+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:58:31.3642505+00:00",
-  "LastUpdate_Achievements": "2023-12-11T16:08:15.091148+00:00"
+  "LastUpdate_Ratings": "2023-12-11T16:58:38.4915862+00:00",
+  "LastUpdate_Achievements": "2023-12-11T17:06:40.0068715+00:00"
 }

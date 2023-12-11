@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1562,
+  "EOS_Progressed": 1563,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2303,6 +2303,11 @@
       "Time": "2023-12-10T19:03:41.8746775+00:00",
       "NumProgressed": 1562,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-11T17:04:32.7448212+00:00",
+      "NumProgressed": 1563,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2314,7 +2319,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "10",
@@ -2362,7 +2367,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "16",
@@ -2370,7 +2375,7 @@
       "Name": "My little pony",
       "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "17",
@@ -2378,7 +2383,7 @@
       "Name": "Balding bloot!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "18",
@@ -2394,7 +2399,7 @@
       "Name": "Second thoughts",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "2",
@@ -2402,7 +2407,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "20",
@@ -2418,7 +2423,7 @@
       "Name": "Mooning the moon",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "22",
@@ -2458,7 +2463,7 @@
       "Name": "Strip-a-bobble",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "29",
@@ -2522,7 +2527,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "7",
@@ -2553,15 +2558,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1562,
+      "Progressed": 1563,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-11T16:04:27.8920408+00:00",
+  "LastChanged_Achievements": "2023-12-11T17:04:32.7448207+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:06.0236888+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:58:05.7026483+00:00",
-  "LastUpdate_Achievements": "2023-12-11T16:04:27.892073+00:00"
+  "LastUpdate_Ratings": "2023-12-11T16:58:12.6538766+00:00",
+  "LastUpdate_Achievements": "2023-12-11T17:04:32.7448531+00:00"
 }

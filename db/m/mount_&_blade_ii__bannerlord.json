@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -9660,7 +9660,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67619,
+  "EOS_Progressed": 67621,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 0,
@@ -34490,6 +34490,11 @@
       "Time": "2023-12-11T16:09:49.3466811+00:00",
       "NumProgressed": 67619,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T17:09:45.2442923+00:00",
+      "NumProgressed": 67621,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34501,7 +34506,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8790
+      "UsersEstimate": 8791
     },
     {
       "ID": "Apple of my eye",
@@ -34629,7 +34634,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8790
+      "UsersEstimate": 8791
     },
     {
       "ID": "Great Granny",
@@ -34693,7 +34698,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12171
+      "UsersEstimate": 12172
     },
     {
       "ID": "Kingslayer",
@@ -34725,7 +34730,7 @@
       "Name": "Landlord",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 22990
+      "UsersEstimate": 22991
     },
     {
       "ID": "Lawbringer",
@@ -34908,15 +34913,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67619,
+      "Progressed": 67621,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-11T09:58:57.0713067+00:00",
-  "LastChanged_Achievements": "2023-12-11T16:09:49.3466806+00:00",
+  "LastChanged_Achievements": "2023-12-11T17:09:45.2442919+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.7190339+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:59:05.5263945+00:00",
-  "LastUpdate_Achievements": "2023-12-11T16:09:49.3468553+00:00"
+  "LastUpdate_Ratings": "2023-12-11T16:59:12.9049282+00:00",
+  "LastUpdate_Achievements": "2023-12-11T17:09:45.2444324+00:00"
 }

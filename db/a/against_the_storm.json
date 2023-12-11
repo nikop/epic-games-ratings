@@ -6,7 +6,7 @@
   "Ranking_Popularity": 225,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 147,
-  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 3698,
   "Store": {
@@ -3339,10 +3339,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3252,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-11T16:58:21.581292+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3253,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3252,
+  "NumberOfAwards": 3253,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3404,14 +3410,14 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 330
+      "Count": 331
     }
   ],
-  "EOS_Progressed": 17935,
-  "EOS_Completed": 41,
+  "EOS_Progressed": 17938,
+  "EOS_Completed": 40,
   "EOS_NewPlayers": 338,
-  "EOS_NewCompleters": -8,
-  "EOS_Completed_Percentage": 0.23,
+  "EOS_NewCompleters": -9,
+  "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:44.0193336+00:00",
@@ -15367,6 +15373,11 @@
       "Time": "2023-12-11T16:05:44.800064+00:00",
       "NumProgressed": 17935,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-11T17:05:50.0604691+00:00",
+      "NumProgressed": 17938,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15457,9 +15468,9 @@
       "ID": "Win5Years",
       "SetID": "cfbk359",
       "Name": "Homesick",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 126
     },
     {
       "ID": "WinFirstGame",
@@ -15585,9 +15596,9 @@
       "ID": "WinNearMonastery",
       "SetID": "cfbk359",
       "Name": "Monastery of the Holy Flame",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 108
     },
     {
       "ID": "WinNearOutpost",
@@ -15595,7 +15606,7 @@
       "Name": "Royal Outpost",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "WinNearRuins",
@@ -15635,7 +15646,7 @@
       "Name": "Watchtower",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "WinOnCoral",
@@ -15779,7 +15790,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "WinNearFrosts",
@@ -15803,15 +15814,15 @@
       "Name": "Overgrown Library",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "WinNearPetrified",
       "SetID": "cfbk359",
       "Name": "Petrified Necropolis",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 718
     },
     {
       "ID": "WinNearPresence",
@@ -15850,15 +15861,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17935,
-      "Completed": 41
+      "Progressed": 17938,
+      "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-11T15:58:15.0772509+00:00",
-  "LastChanged_Achievements": "2023-12-11T16:05:44.8000635+00:00",
+  "LastChanged": "2023-12-11T16:58:21.5812918+00:00",
+  "LastChanged_Achievements": "2023-12-11T17:05:50.0604688+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:58:15.0772515+00:00",
-  "LastUpdate_Achievements": "2023-12-11T16:05:44.8001871+00:00"
+  "LastUpdate_Ratings": "2023-12-11T16:58:21.5812923+00:00",
+  "LastUpdate_Achievements": "2023-12-11T17:05:50.0605553+00:00"
 }

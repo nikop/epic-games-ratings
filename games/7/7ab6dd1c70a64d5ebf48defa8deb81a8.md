@@ -20,7 +20,7 @@
 | Big Bazar | 9.00% | ~24 |
 | Fashion Victim | 9.00% | ~24 |
 | Essence Blow | 8.00% | ~21 |
-| Calm before the Storm | 6.00% | ~16 |
+| Calm before the Storm | 7.00% | ~18 |
 | To Battle | 6.00% | ~16 |
 | Godslayer | 6.00% | ~16 |
 | The Mentor | 6.00% | ~16 |

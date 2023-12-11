@@ -6,18 +6,18 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~32,422 |
-| Quick Understanding of Block Extrusion | 68.00% | ~29,396 |
-| Nature or Nurture | 52.00% | ~22,480 |
-| Power Glove | 50.00% | ~21,615 |
-| Forgotten Memories | 43.00% | ~18,589 |
-| Cogs in the Machine | 36.00% | ~15,563 |
-| Mission Success | 23.00% | ~9,943 |
-| There's No Place Like Home | 23.00% | ~9,943 |
-| Green Cube Killer | 20.00% | ~8,646 |
-| Infinity Loop | 17.00% | ~7,349 |
-| Path to Salvation | 17.00% | ~7,349 |
-| Descendants | 15.00% | ~6,484 |
+| Lost in Space | 75.00% | ~32,425 |
+| Quick Understanding of Block Extrusion | 68.00% | ~29,398 |
+| Nature or Nurture | 52.00% | ~22,481 |
+| Power Glove | 50.00% | ~21,616 |
+| Forgotten Memories | 43.00% | ~18,590 |
+| Cogs in the Machine | 36.00% | ~15,564 |
+| Mission Success | 23.00% | ~9,944 |
+| There's No Place Like Home | 23.00% | ~9,944 |
+| Green Cube Killer | 20.00% | ~8,647 |
+| Infinity Loop | 17.00% | ~7,350 |
+| Path to Salvation | 17.00% | ~7,350 |
+| Descendants | 15.00% | ~6,485 |
 | The Flawed Teacher | 12.00% | ~5,188 |
 | To Infinity and Beyond | 6.00% | ~2,594 |
 | The Truthful Enemy | 5.00% | ~2,162 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~432 |
 | Expert Collector | 1.00% | ~432 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,230 (Ranked 120)  
+Progressed: 43,233 (Ranked 120)  
 Completed: 201 (0.46%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 201 (0.46%) (Ranked 214)
 | 2023-12-08 | 42,892 | 196 |
 | 2023-12-09 | 43,028 | 198 |
 | 2023-12-10 | 43,177 | 200 |
-| 2023-12-11 | 43,230 | 201 |
+| 2023-12-11 | 43,233 | 201 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

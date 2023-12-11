@@ -6,77 +6,77 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~21,757 |
-| It wakes | 2.00% | ~21,757 |
-| Not half bad | 2.00% | ~21,757 |
-| Apt Survivor | 2.00% | ~21,757 |
-| Survival Treasures | 2.00% | ~21,757 |
-| Skillful | 2.00% | ~21,757 |
-| Make Some Noise | 2.00% | ~21,757 |
-| The Grand Sacrifice | 1.00% | ~10,879 |
-| Agonizing Escape | 1.00% | ~10,879 |
-| Backdoor Escape | 1.00% | ~10,879 |
-| No one left behind | 1.00% | ~10,879 |
-| Medic | 1.00% | ~10,879 |
-| Handyman | 1.00% | ~10,879 |
-| Perfect Escape | 1.00% | ~10,879 |
-| Bloody Millionaire | 1.00% | ~10,879 |
-| I | 1.00% | ~10,879 |
-| Sorted | 1.00% | ~10,879 |
-| Healthy Obsession | 1.00% | ~10,879 |
-| Resurgence | 1.00% | ~10,879 |
-| Preemptive Strike | 1.00% | ~10,879 |
-| Humanitarian | 1.00% | ~10,879 |
-| I've got your back | 0.90% | ~9,791 |
-| Perfect Killing | 0.90% | ~9,791 |
-| Risk it all | 0.90% | ~9,791 |
-| II | 0.90% | ~9,791 |
-| Engineer | 0.90% | ~9,791 |
-| Close Shave | 0.90% | ~9,791 |
-| Apt Killer | 0.80% | ~8,703 |
-| Wounded Healer | 0.80% | ~8,703 |
-| Vulture | 0.70% | ~7,615 |
-| III | 0.70% | ~7,615 |
-| Lifting The Fog | 0.70% | ~7,615 |
-| Blood on your hands | 0.60% | ~6,527 |
-| Escape Artist | 0.60% | ~6,527 |
-| First to the Punch | 0.60% | ~6,527 |
-| Operation: Survival | 0.60% | ~6,527 |
-| Every Last Drop | 0.60% | ~6,527 |
-| Raccoon City Recruit | 0.60% | ~6,527 |
-| With Scars to Show | 0.60% | ~6,527 |
-| Flight to Freedom | 0.60% | ~6,527 |
-| Chorus of Chaos | 0.60% | ~6,527 |
-| Second Act | 0.60% | ~6,527 |
-| Made it out alive! | 0.50% | ~5,439 |
-| Nerves of steel | 0.50% | ~5,439 |
-| Gifts for the Fog | 0.50% | ~5,439 |
-| III-50 | 0.50% | ~5,439 |
-| All Aboard | 0.50% | ~5,439 |
-| Item of Obsession | 0.50% | ~5,439 |
-| House of Pain | 0.50% | ~5,439 |
-| Holiday Get-Together | 0.50% | ~5,439 |
-| Near-Death Experience | 0.50% | ~5,439 |
-| Cherish your Life | 0.50% | ~5,439 |
-| Unforgettable Getaway | 0.50% | ~5,439 |
-| Cutting Out | 0.50% | ~5,439 |
-| Old West Oasis | 0.50% | ~5,439 |
-| Classy Act | 0.50% | ~5,439 |
-| One More Step | 0.50% | ~5,439 |
-| Blood on your face | 0.40% | ~4,351 |
-| Shock Therapy | 0.40% | ~4,351 |
-| Leapfrog | 0.40% | ~4,351 |
-| Cottage Owner | 0.40% | ~4,351 |
-| Escaping the Nightmare | 0.40% | ~4,351 |
-| Campbell's Chapel Legacy | 0.40% | ~4,351 |
-| Ancestor's Rite | 0.40% | ~4,351 |
-| Outrun Evil | 0.40% | ~4,351 |
-| Grim Pilgrimage | 0.40% | ~4,351 |
-| Outrun the Overlap | 0.40% | ~4,351 |
-| A Fast Death | 0.40% | ~4,351 |
-| Extraterrestrial | 0.40% | ~4,351 |
-| MU/TH/UR Dearest | 0.40% | ~4,351 |
-| Outta Nowhere | 0.40% | ~4,351 |
+| Zealous | 2.00% | ~21,759 |
+| It wakes | 2.00% | ~21,759 |
+| Not half bad | 2.00% | ~21,759 |
+| Apt Survivor | 2.00% | ~21,759 |
+| Survival Treasures | 2.00% | ~21,759 |
+| Skillful | 2.00% | ~21,759 |
+| Make Some Noise | 2.00% | ~21,759 |
+| The Grand Sacrifice | 1.00% | ~10,880 |
+| Agonizing Escape | 1.00% | ~10,880 |
+| Backdoor Escape | 1.00% | ~10,880 |
+| No one left behind | 1.00% | ~10,880 |
+| Medic | 1.00% | ~10,880 |
+| Handyman | 1.00% | ~10,880 |
+| Perfect Escape | 1.00% | ~10,880 |
+| Bloody Millionaire | 1.00% | ~10,880 |
+| I | 1.00% | ~10,880 |
+| Sorted | 1.00% | ~10,880 |
+| Healthy Obsession | 1.00% | ~10,880 |
+| Resurgence | 1.00% | ~10,880 |
+| Preemptive Strike | 1.00% | ~10,880 |
+| Humanitarian | 1.00% | ~10,880 |
+| I've got your back | 0.90% | ~9,792 |
+| Perfect Killing | 0.90% | ~9,792 |
+| Risk it all | 0.90% | ~9,792 |
+| II | 0.90% | ~9,792 |
+| Engineer | 0.90% | ~9,792 |
+| Close Shave | 0.90% | ~9,792 |
+| Apt Killer | 0.80% | ~8,704 |
+| Wounded Healer | 0.80% | ~8,704 |
+| Vulture | 0.70% | ~7,616 |
+| III | 0.70% | ~7,616 |
+| Lifting The Fog | 0.70% | ~7,616 |
+| Blood on your hands | 0.60% | ~6,528 |
+| Escape Artist | 0.60% | ~6,528 |
+| First to the Punch | 0.60% | ~6,528 |
+| Operation: Survival | 0.60% | ~6,528 |
+| Every Last Drop | 0.60% | ~6,528 |
+| Raccoon City Recruit | 0.60% | ~6,528 |
+| With Scars to Show | 0.60% | ~6,528 |
+| Flight to Freedom | 0.60% | ~6,528 |
+| Chorus of Chaos | 0.60% | ~6,528 |
+| Second Act | 0.60% | ~6,528 |
+| Made it out alive! | 0.50% | ~5,440 |
+| Nerves of steel | 0.50% | ~5,440 |
+| Gifts for the Fog | 0.50% | ~5,440 |
+| III-50 | 0.50% | ~5,440 |
+| All Aboard | 0.50% | ~5,440 |
+| Item of Obsession | 0.50% | ~5,440 |
+| House of Pain | 0.50% | ~5,440 |
+| Holiday Get-Together | 0.50% | ~5,440 |
+| Near-Death Experience | 0.50% | ~5,440 |
+| Cherish your Life | 0.50% | ~5,440 |
+| Unforgettable Getaway | 0.50% | ~5,440 |
+| Cutting Out | 0.50% | ~5,440 |
+| Old West Oasis | 0.50% | ~5,440 |
+| Classy Act | 0.50% | ~5,440 |
+| One More Step | 0.50% | ~5,440 |
+| Blood on your face | 0.40% | ~4,352 |
+| Shock Therapy | 0.40% | ~4,352 |
+| Leapfrog | 0.40% | ~4,352 |
+| Cottage Owner | 0.40% | ~4,352 |
+| Escaping the Nightmare | 0.40% | ~4,352 |
+| Campbell's Chapel Legacy | 0.40% | ~4,352 |
+| Ancestor's Rite | 0.40% | ~4,352 |
+| Outrun Evil | 0.40% | ~4,352 |
+| Grim Pilgrimage | 0.40% | ~4,352 |
+| Outrun the Overlap | 0.40% | ~4,352 |
+| A Fast Death | 0.40% | ~4,352 |
+| Extraterrestrial | 0.40% | ~4,352 |
+| MU/TH/UR Dearest | 0.40% | ~4,352 |
+| Outta Nowhere | 0.40% | ~4,352 |
 | A bite for the Entity | 0.30% | ~3,264 |
 | Jump Scares | 0.30% | ~3,264 |
 | Hemophobia | 0.30% | ~3,264 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,088 |
 | Adept Good Guy | 0.10% | ~1,088 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,087,851 (Ranked 12)  
+Progressed: 1,087,952 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -474,7 +474,7 @@ Completed: 62 (0.01%) (Ranked 348)
 | 2023-12-08 | 1,080,483 | 61 |
 | 2023-12-09 | 1,083,532 | 61 |
 | 2023-12-10 | 1,086,485 | 62 |
-| 2023-12-11 | 1,087,851 | 62 |
+| 2023-12-11 | 1,087,952 | 62 |
 ## Awards
 Max (Diverse Characters): 37,692  (Ranked 15)  
 Sum: 285,711 (Ranked 12)  

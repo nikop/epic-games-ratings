@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 949,
+  "EOS_Progressed": 950,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.69,
+  "EOS_Completed_Percentage": 5.68,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3805,6 +3805,11 @@
       "Time": "2023-12-11T15:08:37.560104+00:00",
       "NumProgressed": 949,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-11T17:06:41.449821+00:00",
+      "NumProgressed": 950,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 25,
@@ -3816,7 +3821,7 @@
       "Name": "I did it",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "END_GOOD",
@@ -3840,7 +3845,7 @@
       "Name": "Cable guy",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3856,7 +3861,7 @@
       "Name": "Half the way",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3864,7 +3869,7 @@
       "Name": "Open door",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3880,7 +3885,7 @@
       "Name": "Feels like springtime",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3904,7 +3909,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -3944,7 +3949,7 @@
       "Name": "Fashion victim",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -3974,9 +3979,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 314
     },
     {
       "ID": "PROGRESS_N2",
@@ -3992,7 +3997,7 @@
       "Name": "A new dawn",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "PROGRESS_N4",
@@ -4008,21 +4013,21 @@
       "Name": "One last step",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 949,
+      "Progressed": 950,
       "Completed": 54
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-11T16:08:16.5640159+00:00",
+  "LastChanged_Achievements": "2023-12-11T17:06:41.4498206+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:57:32.2066629+00:00",
-  "LastUpdate_Achievements": "2023-12-11T16:08:16.5640521+00:00"
+  "LastUpdate_Ratings": "2023-12-11T16:57:38.6132275+00:00",
+  "LastUpdate_Achievements": "2023-12-11T17:06:41.4498643+00:00"
 }

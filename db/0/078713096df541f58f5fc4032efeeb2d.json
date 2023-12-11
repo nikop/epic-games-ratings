@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -192,9 +192,9 @@
       "ID": "creepytale3_ach_17",
       "SetID": "7idcjbn",
       "Name": "Pain lover",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "creepytale3_ach_18",
@@ -415,8 +415,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-11T16:05:42.6411065+00:00",
+  "LastChanged_Achievements": "2023-12-11T17:05:47.7399448+00:00",
   "LastUpdate_AppInfo": "2023-12-06T06:56:59.8532257+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:57:44.4171284+00:00",
-  "LastUpdate_Achievements": "2023-12-11T16:05:42.6411282+00:00"
+  "LastUpdate_Ratings": "2023-12-11T16:57:51.4845129+00:00",
+  "LastUpdate_Achievements": "2023-12-11T17:05:47.7399633+00:00"
 }

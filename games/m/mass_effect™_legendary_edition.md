@@ -113,10 +113,10 @@
 | Overload Specialist | 11.00% | ~173 |
 | Warp Mastery | 11.00% | ~173 |
 | Barrier Mastery | 10.00% | ~157 |
+| Sky High | 10.00% | ~157 |
 | Hijacker | 10.00% | ~157 |
 | Always Prepared | 10.00% | ~157 |
 | Lift Mastery | 10.00% | ~157 |
-| Sky High | 9.00% | ~141 |
 | Insanity I | 6.00% | ~94 |
 | Singularity Mastery | 6.00% | ~94 |
 | Damping Specialist | 5.00% | ~79 |

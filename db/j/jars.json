@@ -415,9 +415,9 @@
       "ID": "ACH_CHAPTER_1_DONE",
       "SetID": "3jfhgga",
       "Name": "Vampires",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_CHAPTER_2_DONE",
@@ -471,9 +471,9 @@
       "ID": "ACH_FIND_SECRET",
       "SetID": "3jfhgga",
       "Name": "A horrible thing will happen...",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_GET10K_ESSENCE",
@@ -535,9 +535,9 @@
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
       "SetID": "3jfhgga",
       "Name": "Broken jar",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
@@ -552,8 +552,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-12-11T16:08:37.9976673+00:00",
+  "LastChanged_Achievements": "2023-12-11T17:08:32.807764+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:08.447638+00:00",
-  "LastUpdate_Ratings": "2023-12-11T16:00:00.3115489+00:00",
-  "LastUpdate_Achievements": "2023-12-11T16:08:37.9976793+00:00"
+  "LastUpdate_Ratings": "2023-12-11T17:00:06.5144426+00:00",
+  "LastUpdate_Achievements": "2023-12-11T17:08:32.8077773+00:00"
 }

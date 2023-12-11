@@ -2,9 +2,9 @@
   "ID": "901880c636ef456e936d376fbe089f11",
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
-  "Ranking_EOS_Progress": 440,
+  "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -559,6 +559,11 @@
       "Time": "2023-12-10T08:05:34.8774658+00:00",
       "NumProgressed": 107,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-11T17:06:29.1452919+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -586,7 +591,7 @@
       "Name": "40,075Km",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_50_DRINK_CHALLENGEMODE",
@@ -608,7 +613,7 @@
       "ID": "ACH_BAD_MEMORY",
       "SetID": "8h8m55b",
       "Name": "Bad Memory",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -634,15 +639,15 @@
       "Name": "First Brew",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "It\u0027s a masterpiece!",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -656,7 +661,7 @@
       "ID": "ACH_CHILDS_PLAY",
       "SetID": "8h8m55b",
       "Name": "Child\u2019s Play",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -762,7 +767,7 @@
       "Name": "How I Met Your Ancestor",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_HYDE_LEIBOVITZ",
@@ -864,9 +869,9 @@
       "ID": "ACH_TENDER_SOUL",
       "SetID": "8h8m55b",
       "Name": "Tender Soul",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_THE_HIBISCUS_AND_BUTTERFLY",
@@ -898,7 +903,7 @@
       "Name": "Let me start over",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -920,7 +925,7 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
       "UsersEstimate": 48
     },
@@ -993,14 +998,14 @@
     {
       "ID": "8h8m55b",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-11T16:08:04.2527725+00:00",
+  "LastChanged_Achievements": "2023-12-11T17:06:29.1452916+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.1388786+00:00",
-  "LastUpdate_Ratings": "2023-12-11T15:58:34.4995302+00:00",
-  "LastUpdate_Achievements": "2023-12-11T16:08:04.2528244+00:00"
+  "LastUpdate_Ratings": "2023-12-11T16:58:41.665146+00:00",
+  "LastUpdate_Achievements": "2023-12-11T17:06:29.1453253+00:00"
 }
