@@ -38,13 +38,13 @@ Number of Ratings: 43  (23.09.2022)
 | Trellick's Pillar | 9.00% | ~9,316 |
 | Centre Of Brunswick | 9.00% | ~9,316 |
 | Bike Collector | 9.00% | ~9,316 |
+| Dune Rider | 9.00% | ~9,316 |
 | Not That Kind Of Gliding | 9.00% | ~9,316 |
 | The Scrapper Mask | 8.00% | ~8,281 |
 | Shadow Of Neave | 8.00% | ~8,281 |
 | Fragile Goods | 8.00% | ~8,281 |
 | Glider on the Storm | 8.00% | ~8,281 |
 | Squeeze One Out | 8.00% | ~8,281 |
-| Dune Rider | 8.00% | ~8,281 |
 | Amateur Historian | 7.00% | ~7,246 |
 | The Beetle Mask | 7.00% | ~7,246 |
 | The Guard Mask | 7.00% | ~7,246 |

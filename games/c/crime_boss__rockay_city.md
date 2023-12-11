@@ -22,8 +22,8 @@ Rating: 3.95 (Ranked 1,023)
 | Rockay Rex | 1.00% | ~918 |
 | Track Star | 0.90% | ~827 |
 | Headhunter | 0.80% | ~735 |
+| Freebooter | 0.70% | ~643 |
 | I Like Trains | 0.60% | ~551 |
-| Freebooter | 0.60% | ~551 |
 | Legend Looter | 0.50% | ~459 |
 | Imports and Exports | 0.50% | ~459 |
 | Savvy Seeker | 0.50% | ~459 |

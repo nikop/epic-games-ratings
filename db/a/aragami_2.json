@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -245,7 +245,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44283,
+  "EOS_Progressed": 44284,
   "EOS_Completed": 245,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -18870,6 +18870,11 @@
       "Time": "2023-12-11T04:04:24.2383909+00:00",
       "NumProgressed": 44283,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-12-11T06:05:14.4904758+00:00",
+      "NumProgressed": 44284,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 44,
@@ -18881,7 +18886,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25241
+      "UsersEstimate": 25242
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -18937,7 +18942,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3985
+      "UsersEstimate": 3986
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -18985,7 +18990,7 @@
       "Name": "The Lion\u2019s Den",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -19001,7 +19006,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35426
+      "UsersEstimate": 35427
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -19025,7 +19030,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3985
+      "UsersEstimate": 3986
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -19049,7 +19054,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3985
+      "UsersEstimate": 3986
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -19121,7 +19126,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27898
+      "UsersEstimate": 27899
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -19129,7 +19134,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11956
+      "UsersEstimate": 11957
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -19185,7 +19190,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19927
+      "UsersEstimate": 19928
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -19209,7 +19214,7 @@
       "Name": "Forest Spirits",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -19217,7 +19222,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41183
+      "UsersEstimate": 41184
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19225,14 +19230,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23027
+      "UsersEstimate": 23028
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44283,
+      "Progressed": 44284,
       "Completed": 245
     }
   ],
@@ -19240,8 +19245,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-03T18:02:47.0707275+00:00",
-  "LastChanged_Achievements": "2023-12-11T05:04:26.7319415+00:00",
+  "LastChanged_Achievements": "2023-12-11T06:05:14.4904755+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:11.003832+00:00",
-  "LastUpdate_Ratings": "2023-12-11T05:02:49.4480457+00:00",
-  "LastUpdate_Achievements": "2023-12-11T05:04:26.7320381+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:03:34.7321135+00:00",
+  "LastUpdate_Achievements": "2023-12-11T06:05:14.4905778+00:00"
 }

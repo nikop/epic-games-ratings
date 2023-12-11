@@ -5,28 +5,28 @@ Rating: 4.40 (Ranked 741)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~106,990 |
-| 74 miles East of Otaheité | 56.00% | ~74,893 |
+| A Family Heirloom | 80.00% | ~106,991 |
+| 74 miles East of Otaheité | 56.00% | ~74,894 |
 | Interesting... | 42.00% | ~56,170 |
-| The Everhart Expedition | 40.00% | ~53,495 |
-| Halfway there | 30.00% | ~40,121 |
-| The Vanishing of the Lady Shannon | 30.00% | ~40,121 |
-| Seaside Serenade | 30.00% | ~40,121 |
+| The Everhart Expedition | 40.00% | ~53,496 |
+| Halfway there | 30.00% | ~40,122 |
+| The Vanishing of the Lady Shannon | 30.00% | ~40,122 |
+| Seaside Serenade | 30.00% | ~40,122 |
 | A brigantine, a brig and a barque | 28.00% | ~37,447 |
 | 506 East Hampden Avenue | 28.00% | ~37,447 |
-| Weekend at Walakea's | 27.00% | ~36,109 |
-| Quite a Show | 27.00% | ~36,109 |
-| Dark Water Ride | 25.00% | ~33,434 |
-| Sunken | 25.00% | ~33,434 |
+| Weekend at Walakea's | 27.00% | ~36,110 |
+| Quite a Show | 27.00% | ~36,110 |
+| Dark Water Ride | 25.00% | ~33,435 |
+| Sunken | 25.00% | ~33,435 |
 | Deep Cut | 24.00% | ~32,097 |
 | FHALGOF'N' | 23.00% | ~30,760 |
 | Marsh Cannery | 21.00% | ~28,085 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~24,073 |
-| The only thing I have now | 17.00% | ~22,735 |
+| The only thing I have now | 17.00% | ~22,736 |
 | Naacalvision | 16.00% | ~21,398 |
 | Not Another Boring Slideshow! | 15.00% | ~20,061 |
 | The Norahnomicon | 10.00% | ~13,374 |
-| I'll make a note of that... | 9.00% | ~12,036 |
+| I'll make a note of that... | 9.00% | ~12,037 |
 | Written in Stone | 7.00% | ~9,362 |
 | Play it again, Norah | 7.00% | ~9,362 |
 | Underwater Royalty | 7.00% | ~9,362 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 741)
 | Gently down the stream... | 1.00% | ~1,337 |
 | Meta-reference | 1.00% | ~1,337 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,738 (Ranked 82)  
+Progressed: 133,739 (Ranked 82)  
 Completed: 1,188 (0.89%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 1,188 (0.89%) (Ranked 176)
 | 2023-12-08 | 133,350 | 1,182 |
 | 2023-12-09 | 133,533 | 1,187 |
 | 2023-12-10 | 133,712 | 1,188 |
-| 2023-12-11 | 133,738 | 1,188 |
+| 2023-12-11 | 133,739 | 1,188 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5365,18 +5365,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 6749,
       "NumberOfAwardsMax": 2704
+    },
+    {
+      "Time": "2023-12-11T06:03:46.2056114+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6765,
+      "NumberOfAwardsMax": 2717
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6749,
-  "NumberOfAwardsMax": 2704,
+  "NumberOfAwards": 6765,
+  "NumberOfAwardsMax": 2717,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2704
+      "Count": 2717
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5388,7 +5394,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 414
+      "Count": 417
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5439,9 +5445,9 @@
       "Count": 413
     }
   ],
-  "EOS_Progressed": 238332,
+  "EOS_Progressed": 238338,
   "EOS_Completed": 577,
-  "EOS_NewPlayers": 3966,
+  "EOS_NewPlayers": 3952,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22419,6 +22425,11 @@
       "Time": "2023-12-11T05:08:48.1456021+00:00",
       "NumProgressed": 238332,
       "NumCompleted": 577
+    },
+    {
+      "Time": "2023-12-11T06:09:47.8914157+00:00",
+      "NumProgressed": 238338,
+      "NumCompleted": 577
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22855,7 +22866,7 @@
       "Name": "A Foul Feast",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "DLC1_Obtain_Warden_Reward",
@@ -22870,22 +22881,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 238332,
+      "Progressed": 238338,
       "Completed": 577
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 17497,
+      "Progressed": 17503,
       "Completed": 235
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-11T01:51:53.3647634+00:00",
-  "LastChanged_Achievements": "2023-12-11T05:08:48.1456017+00:00",
+  "LastChanged": "2023-12-11T06:03:46.2056112+00:00",
+  "LastChanged_Achievements": "2023-12-11T06:09:47.8914153+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-11T05:03:00.9112596+00:00",
-  "LastUpdate_Achievements": "2023-12-11T05:08:48.145767+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:03:46.2056118+00:00",
+  "LastUpdate_Achievements": "2023-12-11T06:09:47.89154+00:00"
 }

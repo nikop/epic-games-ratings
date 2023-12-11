@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -4197,9 +4197,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 82368,
+  "EOS_Progressed": 82370,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 1103,
+  "EOS_NewPlayers": 1099,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -30867,6 +30867,11 @@
       "Time": "2023-12-11T05:09:03.50786+00:00",
       "NumProgressed": 82368,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-11T06:10:03.2778377+00:00",
+      "NumProgressed": 82370,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 53,
@@ -30894,7 +30899,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14826
+      "UsersEstimate": 14827
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -30910,7 +30915,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 9060
+      "UsersEstimate": 9061
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -30974,7 +30979,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 25534
+      "UsersEstimate": 25535
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -30990,7 +30995,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 37889
+      "UsersEstimate": 37890
     },
     {
       "ID": "customize_a_vehicle",
@@ -30998,7 +31003,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 28005
+      "UsersEstimate": 28006
     },
     {
       "ID": "customize_a_weapon",
@@ -31006,7 +31011,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 30476
+      "UsersEstimate": 30477
     },
     {
       "ID": "cutting_edge_materials",
@@ -31086,7 +31091,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 27181
+      "UsersEstimate": 27182
     },
     {
       "ID": "fully_complete_a_building",
@@ -31126,7 +31131,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 29652
+      "UsersEstimate": 29653
     },
     {
       "ID": "hit_max_level",
@@ -31158,7 +31163,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 23063
+      "UsersEstimate": 23064
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -31190,7 +31195,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6589
+      "UsersEstimate": 6590
     },
     {
       "ID": "prank_coop_partner",
@@ -31230,7 +31235,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 22239
+      "UsersEstimate": 22240
     },
     {
       "ID": "two_thirds_purple",
@@ -31301,22 +31306,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 82368,
+      "Progressed": 82370,
       "Completed": 54
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 54005,
-      "Completed": 4485
+      "Progressed": 54007,
+      "Completed": 4486
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-12-11T01:51:52.4043603+00:00",
-  "LastChanged_Achievements": "2023-12-11T05:09:03.5078595+00:00",
+  "LastChanged_Achievements": "2023-12-11T06:10:03.2778372+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:17.4924832+00:00",
-  "LastUpdate_Ratings": "2023-12-11T05:02:59.8637932+00:00",
-  "LastUpdate_Achievements": "2023-12-11T05:09:03.5080697+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:03:45.0966053+00:00",
+  "LastUpdate_Achievements": "2023-12-11T06:10:03.2779583+00:00"
 }

@@ -1935,9 +1935,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 334197,
+  "EOS_Progressed": 334212,
   "EOS_Completed": 541,
-  "EOS_NewPlayers": 8272,
+  "EOS_NewPlayers": 8242,
   "EOS_NewCompleters": 91,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15935,6 +15935,11 @@
       "Time": "2023-12-11T05:06:22.2824538+00:00",
       "NumProgressed": 334197,
       "NumCompleted": 541
+    },
+    {
+      "Time": "2023-12-11T06:07:11.6230375+00:00",
+      "NumProgressed": 334212,
+      "NumCompleted": 541
     }
   ],
   "TotalAchievements": 24,
@@ -15954,7 +15959,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 20052
+      "UsersEstimate": 20053
     },
     {
       "ID": "11",
@@ -15986,7 +15991,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 23394
+      "UsersEstimate": 23395
     },
     {
       "ID": "15",
@@ -16098,7 +16103,7 @@
       "Name": "ROOKIE",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40104
+      "UsersEstimate": 40105
     },
     {
       "ID": "6",
@@ -16137,7 +16142,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 334197,
+      "Progressed": 334212,
       "Completed": 541
     }
   ],
@@ -16145,8 +16150,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-12-11T03:57:25.2433924+00:00",
-  "LastChanged_Achievements": "2023-12-11T05:06:22.2824532+00:00",
+  "LastChanged_Achievements": "2023-12-11T06:07:11.6230371+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:19.4263176+00:00",
-  "LastUpdate_Ratings": "2023-12-11T04:57:22.9146024+00:00",
-  "LastUpdate_Achievements": "2023-12-11T05:06:22.2825516+00:00"
+  "LastUpdate_Ratings": "2023-12-11T05:57:53.8487818+00:00",
+  "LastUpdate_Achievements": "2023-12-11T06:07:11.6230964+00:00"
 }

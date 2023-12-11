@@ -8107,10 +8107,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12110,
       "NumberOfAwardsMax": 6901
+    },
+    {
+      "Time": "2023-12-11T06:03:26.1449477+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12112,
+      "NumberOfAwardsMax": 6901
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12110,
+  "NumberOfAwards": 12112,
   "NumberOfAwardsMax": 6901,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8148,7 +8154,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 674
+      "Count": 676
     },
     {
       "Text": "This game is Relaxing",
@@ -8189,7 +8195,7 @@
   ],
   "EOS_Progressed": 717956,
   "EOS_Completed": 12952,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -29278,9 +29284,9 @@
       "ID": "40_CustomTrophy_H4",
       "SetID": "adcm20g",
       "Name": "Take damage to save time",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3590
+      "UsersEstimate": 4308
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -29459,9 +29465,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-10T15:02:57.3118297+00:00",
-  "LastChanged_Achievements": "2023-12-11T05:06:27.8486844+00:00",
+  "LastChanged": "2023-12-11T06:03:26.1449475+00:00",
+  "LastChanged_Achievements": "2023-12-11T06:07:17.5586619+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.3418066+00:00",
-  "LastUpdate_Ratings": "2023-12-11T05:02:41.161621+00:00",
-  "LastUpdate_Achievements": "2023-12-11T05:06:27.8488587+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:03:26.1449481+00:00",
+  "LastUpdate_Achievements": "2023-12-11T06:07:17.5587967+00:00"
 }

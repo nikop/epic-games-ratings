@@ -25,9 +25,9 @@ Rating: 3.83 (Ranked 1,040)
 | Community Helper | 18.00% | ~302 |
 | Expert Chemist | 15.00% | ~251 |
 | Stone Specialist | 15.00% | ~251 |
+| Line Cook | 13.00% | ~218 |
 | Sociable | 13.00% | ~218 |
 | Ablutomaniac | 13.00% | ~218 |
-| Line Cook | 12.00% | ~201 |
 | Production Sorter | 12.00% | ~201 |
 | Good Samaritan | 11.00% | ~184 |
 | Acrobatic Adventurer | 10.00% | ~168 |

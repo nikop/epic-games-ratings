@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -523,7 +523,7 @@
   ],
   "EOS_Progressed": 103512,
   "EOS_Completed": 1049,
-  "EOS_NewPlayers": 1161,
+  "EOS_NewPlayers": 1156,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -27781,9 +27781,9 @@
       "ID": "ach_047_drive_long_distance",
       "SetID": "585ckk9",
       "Name": "Dune Rider",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8281
+      "UsersEstimate": 9316
     },
     {
       "ID": "ach_048_glide_long_distance",
@@ -27861,8 +27861,8 @@
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-12-10T02:23:43.2292964+00:00",
-  "LastChanged_Achievements": "2023-12-11T05:09:21.9864056+00:00",
+  "LastChanged_Achievements": "2023-12-11T06:10:22.2314675+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:50.4106439+00:00",
-  "LastUpdate_Ratings": "2023-12-11T04:59:18.9837017+00:00",
-  "LastUpdate_Achievements": "2023-12-11T05:09:21.986676+00:00"
+  "LastUpdate_Ratings": "2023-12-11T05:59:51.6386871+00:00",
+  "LastUpdate_Achievements": "2023-12-11T06:10:22.2315956+00:00"
 }

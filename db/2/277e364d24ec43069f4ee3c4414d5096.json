@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116384,
+  "EOS_Progressed": 116385,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 540,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20849,6 +20849,11 @@
       "Time": "2023-12-11T05:09:14.2294973+00:00",
       "NumProgressed": 116384,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-11T06:10:14.1112732+00:00",
+      "NumProgressed": 116385,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20956,7 +20961,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55864
+      "UsersEstimate": 55865
     },
     {
       "ID": "EAwards_20",
@@ -21251,7 +21256,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116384,
+      "Progressed": 116385,
       "Completed": 51
     }
   ],
@@ -21259,8 +21264,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-11T05:09:14.229497+00:00",
+  "LastChanged_Achievements": "2023-12-11T06:10:14.111273+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.236213+00:00",
-  "LastUpdate_Ratings": "2023-12-11T04:59:55.4250932+00:00",
-  "LastUpdate_Achievements": "2023-12-11T05:09:14.2296646+00:00"
+  "LastUpdate_Ratings": "2023-12-11T06:00:29.9237297+00:00",
+  "LastUpdate_Achievements": "2023-12-11T06:10:14.1114002+00:00"
 }

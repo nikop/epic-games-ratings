@@ -25,10 +25,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Street Fighting | 0.60% | ~4,308 |
 | Qi Gong: Essence | 0.60% | ~4,308 |
 | Old Child | 0.60% | ~4,308 |
+| Take damage to save time | 0.60% | ~4,308 |
 | Fight the way you practice | 0.60% | ~164 |
 | Scareless | 0.50% | ~3,590 |
 | Kung-Fu Tussle | 0.50% | ~3,590 |
-| Take damage to save time | 0.50% | ~3,590 |
 | Martial Hub | 0.50% | ~136 |
 | Dance of the Praying Mantis | 0.40% | ~2,872 |
 | Qi Gong: Mind | 0.40% | ~2,872 |
@@ -305,12 +305,12 @@ Completed: 12,952 (1.80%) (Ranked 136)
 | 2023-12-11 | 717,956 | 12,952 |
 ## Awards
 Max (Great Boss Battles): 6,901  (Ranked 55)  
-Sum: 12,110 (Ranked 83)  
+Sum: 12,112 (Ranked 83)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,901 |
-| This game has Diverse Characters | 674 |
+| This game has Diverse Characters | 676 |
 | This game has Challenging Combat | 614 |
 | This game has Amazing Storytelling | 600 |
 | This game has Amazing Characters | 587 |
@@ -651,3 +651,4 @@ Diff (max vs sum): -28
 | 2023-12-08 | 4.82 | - | 6,893 | 12,095 |
 | 2023-12-09 | 4.82 | - | 6,895 | 12,102 |
 | 2023-12-10 | 4.82 | - | 6,901 | 12,110 |
+| 2023-12-11 | 4.82 | - | 6,901 | 12,112 |

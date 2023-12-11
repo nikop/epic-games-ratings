@@ -8,7 +8,7 @@
 | Welcome to the Tower | 34.00% | ~321 |
 | The great escape | 30.00% | ~283 |
 | The Preacher's fate | 28.00% | ~264 |
-| A new dawn | 25.00% | ~236 |
+| A new dawn | 26.00% | ~245 |
 | A good beginning | 23.00% | ~217 |
 | True G3M4R | 23.00% | ~217 |
 | Scholar | 23.00% | ~217 |

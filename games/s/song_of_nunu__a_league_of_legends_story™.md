@@ -23,7 +23,7 @@ Rating: 4.57 (Ranked 479)
 | The Relentless Storm | 48.00% | ~534 |
 | Rhythm Of Willump | 47.00% | ~523 |
 | A Tragic Reminder | 46.00% | ~512 |
-| 3000 Year Blackout | 45.00% | ~501 |
+| 3000 Year Blackout | 46.00% | ~512 |
 | So Close | 43.00% | ~479 |
 | The Finisher | 43.00% | ~479 |
 | You Get Used To It | 42.00% | ~467 |

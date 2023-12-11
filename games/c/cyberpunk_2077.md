@@ -6,20 +6,20 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,915 |
-| Gun Fu | 7.00% | ~68,200 |
-| The Fool | 6.00% | ~58,457 |
-| Right Back At Ya | 5.00% | ~48,714 |
-| The Lovers | 5.00% | ~48,714 |
+| V for Vendetta | 12.00% | ~116,917 |
+| Gun Fu | 7.00% | ~68,202 |
+| The Fool | 6.00% | ~58,459 |
+| Right Back At Ya | 5.00% | ~48,716 |
+| The Lovers | 5.00% | ~48,716 |
 | Full Body Conversion | 4.00% | ~38,972 |
 | Stanislavski's Method | 4.00% | ~38,972 |
 | True Soldier | 4.00% | ~38,972 |
 | Christmas Tree Attack | 3.00% | ~29,229 |
 | The Hermit | 3.00% | ~29,229 |
 | The Wheel of Fortune | 3.00% | ~29,229 |
-| Relic Ruler | 3.00% | ~3,087 |
-| All the President's Men | 3.00% | ~3,087 |
-| Arachnophobia | 3.00% | ~3,087 |
+| Relic Ruler | 3.00% | ~3,088 |
+| All the President's Men | 3.00% | ~3,088 |
+| Arachnophobia | 3.00% | ~3,088 |
 | Bushido and Chill | 2.00% | ~19,486 |
 | Master Crafter | 2.00% | ~19,486 |
 | The Quick and the Dead | 2.00% | ~19,486 |
@@ -41,8 +41,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.70% | ~6,820 |
 | To Bad Decisions! | 0.60% | ~5,846 |
 | The Star | 0.60% | ~5,846 |
-| Autojock | 0.50% | ~4,871 |
-| Breathtaking | 0.50% | ~4,871 |
+| Autojock | 0.50% | ~4,872 |
+| Breathtaking | 0.50% | ~4,872 |
 | Judgement Day | 0.50% | ~515 |
 | The Tower | 0.50% | ~515 |
 | Must Be Rats | 0.40% | ~3,897 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974,288 (Ranked 15)  
+Progressed: 974,310 (Ranked 15)  
 Completed: 2,883 (0.30%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 2,883 (0.30%) (Ranked 239)
 | 2023-12-08 | 972,634 | 2,860 |
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
-| 2023-12-11 | 974,288 | 2,883 |
+| 2023-12-11 | 974,310 | 2,883 |
 ## Awards
 Max (Character Customization): 120,955  (Ranked 9)  
 Sum: 408,857 (Ranked 9)  

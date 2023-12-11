@@ -6,34 +6,34 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~397,999 |
-| Happy Returns | 78.00% | ~383,258 |
-| Hey! That's mine! | 78.00% | ~383,258 |
-| Field Promotion | 74.00% | ~363,604 |
-| Leadhead | 71.00% | ~348,863 |
-| Eradicator | 67.00% | ~329,209 |
-| Surplus | 65.00% | ~319,382 |
-| I Spy | 64.00% | ~314,468 |
+| First Blood | 81.00% | ~398,000 |
+| Happy Returns | 78.00% | ~383,259 |
+| Hey! That's mine! | 78.00% | ~383,259 |
+| Field Promotion | 74.00% | ~363,605 |
+| Leadhead | 71.00% | ~348,864 |
+| Eradicator | 67.00% | ~329,210 |
+| Surplus | 65.00% | ~319,383 |
+| I Spy | 64.00% | ~314,469 |
 | Burn Baby Burn | 59.00% | ~289,901 |
 | Yellow Beats Green | 56.00% | ~275,160 |
-| Salvage Rights | 53.00% | ~260,419 |
-| What IS that? | 51.00% | ~250,592 |
-| Close Call | 50.00% | ~245,678 |
-| Pew Pew | 50.00% | ~245,678 |
+| Salvage Rights | 53.00% | ~260,420 |
+| What IS that? | 51.00% | ~250,593 |
+| Close Call | 50.00% | ~245,679 |
+| Pew Pew | 50.00% | ~245,679 |
 | Penny Pincher | 49.00% | ~240,765 |
-| Arsenal | 46.00% | ~226,024 |
+| Arsenal | 46.00% | ~226,025 |
 | Boot Camp | 45.00% | ~221,111 |
 | Flawless Victory | 42.00% | ~206,370 |
-| Confident | 41.00% | ~201,456 |
+| Confident | 41.00% | ~201,457 |
 | Exterminator | 36.00% | ~176,889 |
-| Sharpshooter | 34.00% | ~167,061 |
+| Sharpshooter | 34.00% | ~167,062 |
 | Not So Fast | 33.00% | ~162,148 |
-| Great Ball of Fire | 32.00% | ~157,234 |
+| Great Ball of Fire | 32.00% | ~157,235 |
 | No Sale | 31.00% | ~152,321 |
 | Kaboom! | 30.00% | ~147,407 |
 | Liquidator | 29.00% | ~142,494 |
 | High Voltage | 24.00% | ~117,926 |
-| Filthy Rich | 20.00% | ~98,271 |
+| Filthy Rich | 20.00% | ~98,272 |
 | Pyrrhic Victory | 18.00% | ~88,444 |
 | The Not-So-Friendly Skies | 18.00% | ~88,444 |
 | Power Builder | 17.00% | ~83,531 |
@@ -62,7 +62,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Planet Defender | 0.90% | ~4,422 |
 | Master Siege Breaker | 0.80% | ~3,931 |
 | Few and Proud | 0.80% | ~3,931 |
-| Shell-shocked | 0.70% | ~3,439 |
+| Shell-shocked | 0.70% | ~3,440 |
 | Alien Tears | 0.50% | ~2,457 |
 | Full House | 0.50% | ~2,457 |
 | Kickstarter | 0.30% | ~1,474 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~491 |
 | You Monster | 0.10% | ~491 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 491,357 (Ranked 38)  
+Progressed: 491,358 (Ranked 38)  
 Completed: 5 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 5 (0.00%) (Ranked 371)
 | 2023-12-08 | 491,194 | 5 |
 | 2023-12-09 | 491,271 | 5 |
 | 2023-12-10 | 491,345 | 5 |
-| 2023-12-11 | 491,357 | 5 |
+| 2023-12-11 | 491,358 | 5 |
 ## Awards
 Max (Great for Beginners): 261  (Ranked 268)  
 Sum: 1,734 (Ranked 222)  

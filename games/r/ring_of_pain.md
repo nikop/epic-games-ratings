@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,871 (Ranked 64)  
-Completed: 293 (0.12%) (Ranked 283)  
+Progressed: 240,874 (Ranked 64)  
+Completed: 294 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -380,10 +380,10 @@ Completed: 293 (0.12%) (Ranked 283)
 | 2023-12-08 | 240,784 | 292 |
 | 2023-12-09 | 240,828 | 293 |
 | 2023-12-10 | 240,862 | 293 |
-| 2023-12-11 | 240,871 | 293 |
+| 2023-12-11 | 240,874 | 294 |
 ## Awards
 Max (Quickly Understood Controls): 1,507  (Ranked 134)  
-Sum: 11,722 (Ranked 85)  
+Sum: 11,723 (Ranked 85)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -397,7 +397,7 @@ Diff (max vs sum): 49
 | This game has Amazing Characters | 1,230 |
 | This game has Unique Visuals | 1,230 |
 | This game has Obsessive Gameplay | 1,088 |
-| This game has a Creative Community | 746 |
+| This game has a Creative Community | 747 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -628,3 +628,4 @@ Diff (max vs sum): 49
 | 2023-12-08 | 4.58 | - | 1,505 | 11,716 |
 | 2023-12-09 | 4.58 | - | 1,506 | 11,719 |
 | 2023-12-10 | 4.58 | - | 1,507 | 11,722 |
+| 2023-12-11 | 4.58 | - | 1,507 | 11,723 |

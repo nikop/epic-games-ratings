@@ -5,28 +5,28 @@ Rating: 4.66 (Ranked 295)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~22,843 |
-| A Long Time Ago | 93.00% | ~21,244 |
-| Sabersmith | 80.00% | ~18,274 |
+| The Mantis | 100.00% | ~22,844 |
+| A Long Time Ago | 93.00% | ~21,245 |
+| Sabersmith | 80.00% | ~18,275 |
 | The Obstacle is the Way | 78.00% | ~17,818 |
-| Back At You | 73.00% | ~16,675 |
+| Back At You | 73.00% | ~16,676 |
 | Happy Go Wookiee | 69.00% | ~15,762 |
 | Everything is Connected | 60.00% | ~13,706 |
 | Her Name Was Masana Tide | 55.00% | ~12,564 |
-| Bank Shot | 54.00% | ~12,335 |
+| Bank Shot | 54.00% | ~12,336 |
 | Perfect Timing | 53.00% | ~12,107 |
 | Gorgara Falls | 51.00% | ~11,650 |
 | The Full Glow-Up | 50.00% | ~11,422 |
-| For A More Civilized Age | 49.00% | ~11,193 |
-| I Knew He Was No Good | 47.00% | ~10,736 |
+| For A More Civilized Age | 49.00% | ~11,194 |
+| I Knew He Was No Good | 47.00% | ~10,737 |
 | The Holocron Awaits | 46.00% | ~10,508 |
 | Look Out Below | 44.00% | ~10,051 |
 | Trust Only In The Force | 44.00% | ~10,051 |
-| Scum and Villainy | 43.00% | ~9,822 |
+| Scum and Villainy | 43.00% | ~9,823 |
 | Don't Mess with BD-1 | 42.00% | ~9,594 |
 | Blade Master | 39.00% | ~8,909 |
-| Full House | 36.00% | ~8,223 |
-| Legendary Beasts | 22.00% | ~5,025 |
+| Full House | 36.00% | ~8,224 |
+| Legendary Beasts | 22.00% | ~5,026 |
 | Echo Location | 20.00% | ~4,569 |
 | Visiting Alderaan Places | 18.00% | ~4,112 |
 | Triple Take | 14.00% | ~3,198 |
@@ -34,8 +34,8 @@ Rating: 4.66 (Ranked 295)
 | Big Bang | 12.00% | ~2,741 |
 | Feel the Force | 10.00% | ~2,284 |
 | Can't Touch This | 9.00% | ~2,056 |
-| Medical Droid | 8.00% | ~1,827 |
-| Data Collector | 8.00% | ~1,827 |
+| Medical Droid | 8.00% | ~1,828 |
+| Data Collector | 8.00% | ~1,828 |
 | Collector | 6.00% | ~1,371 |
 | Data Disk | 6.00% | ~1,371 |
 | Kickoff | 4.00% | ~914 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 295)
 | Kicking Back | 2.00% | ~457 |
 | Not So Fast | 1.00% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,843 (Ranked 141)  
+Progressed: 22,844 (Ranked 141)  
 Completed: 236 (1.03%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 236 (1.03%) (Ranked 169)
 | 2023-12-08 | 22,371 | 231 |
 | 2023-12-09 | 22,586 | 233 |
 | 2023-12-10 | 22,804 | 235 |
-| 2023-12-11 | 22,843 | 236 |
+| 2023-12-11 | 22,844 | 236 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

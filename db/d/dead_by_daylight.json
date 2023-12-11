@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 5,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -13610,9 +13610,9 @@
       "Count": 27889
     }
   ],
-  "EOS_Progressed": 1086984,
+  "EOS_Progressed": 1087042,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 18882,
+  "EOS_NewPlayers": 18856,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40615,6 +40615,11 @@
       "Time": "2023-12-11T05:09:35.0524844+00:00",
       "NumProgressed": 1086984,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-12-11T06:10:35.3489649+00:00",
+      "NumProgressed": 1087042,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 232,
@@ -40794,7 +40799,7 @@
       "Name": "Zealous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21740
+      "UsersEstimate": 21741
     },
     {
       "ID": "ACH_023",
@@ -40802,7 +40807,7 @@
       "Name": "It wakes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21740
+      "UsersEstimate": 21741
     },
     {
       "ID": "ACH_024",
@@ -40810,7 +40815,7 @@
       "Name": "Not half bad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21740
+      "UsersEstimate": 21741
     },
     {
       "ID": "ACH_025",
@@ -40930,7 +40935,7 @@
       "Name": "Skillful",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21740
+      "UsersEstimate": 21741
     },
     {
       "ID": "ACH_040",
@@ -42394,7 +42399,7 @@
       "Name": "Make Some Noise",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 21740
+      "UsersEstimate": 21741
     },
     {
       "ID": "ACH_226",
@@ -42481,21 +42486,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1086984,
+      "Progressed": 1087042,
       "Completed": 71
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1086984,
+      "Progressed": 1087042,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-11T04:57:40.1592619+00:00",
-  "LastChanged_Achievements": "2023-12-11T05:09:35.0524841+00:00",
+  "LastChanged_Achievements": "2023-12-11T06:10:35.3489645+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:04.6915989+00:00",
-  "LastUpdate_Ratings": "2023-12-11T04:57:40.1592625+00:00",
-  "LastUpdate_Achievements": "2023-12-11T05:09:35.0532883+00:00"
+  "LastUpdate_Ratings": "2023-12-11T05:58:11.8224668+00:00",
+  "LastUpdate_Achievements": "2023-12-11T06:10:35.3495613+00:00"
 }

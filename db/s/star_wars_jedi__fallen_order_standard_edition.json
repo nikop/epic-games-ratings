@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22843,
+  "EOS_Progressed": 22844,
   "EOS_Completed": 236,
-  "EOS_NewPlayers": 1199,
+  "EOS_NewPlayers": 1194,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -12011,6 +12011,11 @@
       "Time": "2023-12-11T05:03:33.3192865+00:00",
       "NumProgressed": 22843,
       "NumCompleted": 236
+    },
+    {
+      "Time": "2023-12-11T06:04:20.0867016+00:00",
+      "NumProgressed": 22844,
+      "NumCompleted": 236
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -12079,7 +12084,7 @@
       "Name": "For A More Civilized Age",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 11193
+      "UsersEstimate": 11194
     },
     {
       "ID": "achievement_17",
@@ -12087,7 +12092,7 @@
       "Name": "I Knew He Was No Good",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 10736
+      "UsersEstimate": 10737
     },
     {
       "ID": "achievement_18",
@@ -12095,7 +12100,7 @@
       "Name": "Back At You",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16675
+      "UsersEstimate": 16676
     },
     {
       "ID": "achievement_19",
@@ -12183,7 +12188,7 @@
       "Name": "Bank Shot",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 12335
+      "UsersEstimate": 12336
     },
     {
       "ID": "achievement_29",
@@ -12199,7 +12204,7 @@
       "Name": "Legendary Beasts",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 5025
+      "UsersEstimate": 5026
     },
     {
       "ID": "achievement_30",
@@ -12215,7 +12220,7 @@
       "Name": "Medical Droid",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "achievement_32",
@@ -12231,7 +12236,7 @@
       "Name": "Full House",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 8223
+      "UsersEstimate": 8224
     },
     {
       "ID": "achievement_34",
@@ -12247,7 +12252,7 @@
       "Name": "Sabersmith",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 18274
+      "UsersEstimate": 18275
     },
     {
       "ID": "achievement_36",
@@ -12263,7 +12268,7 @@
       "Name": "Data Collector",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "achievement_38",
@@ -12271,7 +12276,7 @@
       "Name": "Scum and Villainy",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 9822
+      "UsersEstimate": 9823
     },
     {
       "ID": "achievement_39",
@@ -12311,7 +12316,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 22843
+      "UsersEstimate": 22844
     },
     {
       "ID": "achievement_8",
@@ -12319,7 +12324,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 21244
+      "UsersEstimate": 21245
     },
     {
       "ID": "achievement_9",
@@ -12334,7 +12339,7 @@
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 22843,
+      "Progressed": 22844,
       "Completed": 236
     }
   ],
@@ -12342,8 +12347,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-11-12T21:59:15.958654+00:00",
-  "LastChanged_Achievements": "2023-12-11T05:03:33.3192862+00:00",
+  "LastChanged_Achievements": "2023-12-11T06:04:20.0867013+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:58.897376+00:00",
-  "LastUpdate_Ratings": "2023-12-11T04:59:15.3480631+00:00",
-  "LastUpdate_Achievements": "2023-12-11T05:03:33.3193462+00:00"
+  "LastUpdate_Ratings": "2023-12-11T05:59:47.9842486+00:00",
+  "LastUpdate_Achievements": "2023-12-11T06:04:20.0867786+00:00"
 }

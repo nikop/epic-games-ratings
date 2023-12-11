@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3420,
+  "EOS_Progressed": 3421,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6186,6 +6186,11 @@
       "Time": "2023-12-10T11:06:12.7195203+00:00",
       "NumProgressed": 3420,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T06:07:02.6664668+00:00",
+      "NumProgressed": 3421,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6301,7 +6306,7 @@
       "Name": "Space Society",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ACH_BASE_24",
@@ -6365,7 +6370,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_BASE_31",
@@ -6405,7 +6410,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_BASE_36",
@@ -6581,7 +6586,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_BASE_60",
@@ -6652,13 +6657,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1604,
+      "Progressed": 1605,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3420,
+      "Progressed": 3421,
       "Completed": 0
     }
   ],
@@ -6666,8 +6671,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-11T05:06:13.5401027+00:00",
+  "LastChanged_Achievements": "2023-12-11T06:07:02.6664662+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4855137+00:00",
-  "LastUpdate_Ratings": "2023-12-11T04:58:48.9701104+00:00",
-  "LastUpdate_Achievements": "2023-12-11T05:06:13.5401984+00:00"
+  "LastUpdate_Ratings": "2023-12-11T05:59:20.6394739+00:00",
+  "LastUpdate_Achievements": "2023-12-11T06:07:02.6665524+00:00"
 }

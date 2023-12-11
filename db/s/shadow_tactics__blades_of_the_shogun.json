@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2284,9 +2284,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 218563,
+  "EOS_Progressed": 218565,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1198,
+  "EOS_NewPlayers": 1194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -29204,6 +29204,11 @@
       "Time": "2023-12-11T05:04:45.0498071+00:00",
       "NumProgressed": 218563,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-11T06:05:33.2103906+00:00",
+      "NumProgressed": 218565,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -29303,7 +29308,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15299
+      "UsersEstimate": 15300
     },
     {
       "ID": "HighFiveTheMoon",
@@ -29319,7 +29324,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15299
+      "UsersEstimate": 15300
     },
     {
       "ID": "ItsRainingMen",
@@ -29335,7 +29340,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 15299
+      "UsersEstimate": 15300
     },
     {
       "ID": "Mercyful",
@@ -29559,22 +29564,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 15299
+      "UsersEstimate": 15300
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 218563,
+      "Progressed": 218565,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-10T07:58:18.2814048+00:00",
-  "LastChanged_Achievements": "2023-12-11T05:04:45.0498066+00:00",
+  "LastChanged_Achievements": "2023-12-11T06:05:33.2103902+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.0401263+00:00",
-  "LastUpdate_Ratings": "2023-12-11T04:59:03.9550129+00:00",
-  "LastUpdate_Achievements": "2023-12-11T05:04:45.0500823+00:00"
+  "LastUpdate_Ratings": "2023-12-11T05:59:36.1004598+00:00",
+  "LastUpdate_Achievements": "2023-12-11T06:05:33.2105088+00:00"
 }
