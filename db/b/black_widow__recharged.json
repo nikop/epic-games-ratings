@@ -173,7 +173,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22423,
+  "EOS_Progressed": 22429,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 1,
@@ -19713,6 +19713,11 @@
       "Time": "2023-12-11T18:04:06.6151314+00:00",
       "NumProgressed": 22423,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-11T19:05:12.8387885+00:00",
+      "NumProgressed": 22429,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 14,
@@ -19724,7 +19729,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 17266
+      "UsersEstimate": 17270
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -19748,7 +19753,7 @@
       "Name": "Danger Ahead",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 5830
+      "UsersEstimate": 5832
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -19756,7 +19761,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 4036
+      "UsersEstimate": 4037
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -19764,7 +19769,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 3363
+      "UsersEstimate": 3364
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -19780,7 +19785,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 52,
       "XP": 90,
-      "UsersEstimate": 11660
+      "UsersEstimate": 11663
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -19804,7 +19809,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 5830
+      "UsersEstimate": 5832
     },
     {
       "ID": "ACH_THE_FALL",
@@ -19812,7 +19817,7 @@
       "Name": "The Fall",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -19828,22 +19833,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 22423,
+      "Progressed": 22429,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:04:06.6151311+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:05:12.8387879+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:15.1629864+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:57:06.9346708+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:04:06.6152466+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:57:14.7456244+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:05:12.8388819+00:00"
 }

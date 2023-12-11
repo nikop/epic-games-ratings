@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Wanderer | 79.00% | ~85 |
 | Something important | 78.00% | ~84 |
-| Wanderer | 78.00% | ~84 |
 | A piece of the story | 60.00% | ~65 |
 | Do what you have to | 47.00% | ~51 |
 | It's covered up for a reason | 45.00% | ~49 |
@@ -15,7 +15,7 @@
 | Sign of weakness | 39.00% | ~42 |
 | Finished it | 33.00% | ~36 |
 | Face your fears | 31.00% | ~33 |
-| Whispers long forgotten | 18.00% | ~19 |
+| Whispers long forgotten | 19.00% | ~21 |
 | Playtime | 15.00% | ~16 |
 | Tough conversation | 15.00% | ~16 |
 | Debut | 14.00% | ~15 |

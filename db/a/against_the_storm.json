@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 3698,
+  "Ranking_EOS_NewCompleters": 3699,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3413,9 +3413,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 17941,
+  "EOS_Progressed": 17944,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": -9,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15383,6 +15383,11 @@
       "Time": "2023-12-11T18:05:36.4832361+00:00",
       "NumProgressed": 17941,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-11T19:07:18.2865799+00:00",
+      "NumProgressed": 17944,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15513,9 +15518,9 @@
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 126
     },
     {
       "ID": "WinNearBarren",
@@ -15609,9 +15614,9 @@
       "ID": "WinNearOutpost",
       "SetID": "cfbk359",
       "Name": "Royal Outpost",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 161
     },
     {
       "ID": "WinNearRuins",
@@ -15866,15 +15871,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17941,
+      "Progressed": 17944,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-11T16:58:21.5812918+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:05:36.4832357+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:07:18.2865793+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:58:19.1284991+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:05:36.4833339+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:58:59.7910429+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:07:18.286689+00:00"
 }

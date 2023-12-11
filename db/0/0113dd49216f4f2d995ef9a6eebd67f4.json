@@ -4,8 +4,8 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -662,9 +662,9 @@
       "ID": "SG_QUEENWITHOUTATHRONE",
       "SetID": "bj5g0n4",
       "Name": "Queen Without A Throne",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "SG_SAYINGGOODBYE",
@@ -718,9 +718,9 @@
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -797,8 +797,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:07:40.0922457+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:08:30.3266085+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:54.1006899+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:00:07.8447454+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:07:40.0922837+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:01:42.4657242+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:08:30.3266312+00:00"
 }

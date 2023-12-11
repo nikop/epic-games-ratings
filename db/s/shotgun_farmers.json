@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 349,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2147,8 +2147,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:04:22.8002402+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:05:34.9243884+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:14.0226849+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:58:12.5695397+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:04:22.8003124+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:58:50.0773961+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:05:34.9244659+00:00"
 }

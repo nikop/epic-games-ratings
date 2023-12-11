@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9490,10 +9490,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20071,
       "NumberOfAwardsMax": 7586
+    },
+    {
+      "Time": "2023-12-11T18:59:06.5105712+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20076,
+      "NumberOfAwardsMax": 7586
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20071,
+  "NumberOfAwards": 20076,
   "NumberOfAwardsMax": 7586,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9519,7 +9525,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1421
+      "Count": 1424
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9531,7 +9537,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1319
+      "Count": 1321
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9570,9 +9576,9 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126159,
+  "EOS_Progressed": 126177,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34530,6 +34536,11 @@
       "Time": "2023-12-11T18:08:32.0226722+00:00",
       "NumProgressed": 126159,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-11T19:09:13.4295363+00:00",
+      "NumProgressed": 126177,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34667,9 +34678,9 @@
       "ID": "combat_kill_antiquarian",
       "SetID": "64l4lke",
       "Name": "This Belongs in a Museum",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 505
     },
     {
       "ID": "combat_kill_cadavers",
@@ -34691,17 +34702,17 @@
       "ID": "combat_kill_death",
       "SetID": "64l4lke",
       "Name": "Not Today!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 379
     },
     {
       "ID": "combat_kill_dreaming_general",
       "SetID": "64l4lke",
       "Name": "Creep and Sleep",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 379
     },
     {
       "ID": "combat_kill_fanatics",
@@ -34739,9 +34750,9 @@
       "ID": "combat_kill_harvest_child",
       "SetID": "64l4lke",
       "Name": "Meat and Greet",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 379
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -34755,17 +34766,17 @@
       "ID": "combat_kill_leviathan",
       "SetID": "64l4lke",
       "Name": "Catch and Decease",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 379
     },
     {
       "ID": "combat_kill_librarian",
       "SetID": "64l4lke",
       "Name": "Overdue Notice",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 379
     },
     {
       "ID": "combat_kill_pillagers",
@@ -34779,9 +34790,9 @@
       "ID": "combat_kill_shambler",
       "SetID": "64l4lke",
       "Name": "Escape from the Black Hole",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 379
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35075,25 +35086,25 @@
       "ID": "combat_kill_chirurgeon",
       "SetID": "d3bcpc8",
       "Name": "Malpractice Assurance",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "combat_kill_collector",
       "SetID": "d3bcpc8",
       "Name": "This guy... again?",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
       "SetID": "d3bcpc8",
       "Name": "These Boots Are Made For Kickin\u0027",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "combat_kill_warlord_crusader",
@@ -35123,9 +35134,9 @@
       "ID": "hero_story_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Ploughshares to Swords",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35172,21 +35183,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126159,
+      "Progressed": 126177,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1028,
+      "Progressed": 1046,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-11T17:58:23.8243011+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:08:32.0226718+00:00",
+  "LastChanged": "2023-12-11T18:59:06.5105711+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:09:13.4295357+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:58:23.8243017+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:08:32.0228163+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:59:06.5105716+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:09:13.4297226+00:00"
 }

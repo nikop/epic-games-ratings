@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewPlayers": 27,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5377,10 +5377,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6769,
       "NumberOfAwardsMax": 2717
+    },
+    {
+      "Time": "2023-12-11T19:03:42.1586821+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6773,
+      "NumberOfAwardsMax": 2717
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6769,
+  "NumberOfAwards": 6773,
   "NumberOfAwardsMax": 2717,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5412,7 +5418,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 454
+      "Count": 458
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5451,10 +5457,10 @@
       "Count": 413
     }
   ],
-  "EOS_Progressed": 238543,
-  "EOS_Completed": 578,
-  "EOS_NewPlayers": 3830,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 238572,
+  "EOS_Completed": 579,
+  "EOS_NewPlayers": 3803,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -22496,6 +22502,11 @@
       "Time": "2023-12-11T18:08:52.7708913+00:00",
       "NumProgressed": 238543,
       "NumCompleted": 578
+    },
+    {
+      "Time": "2023-12-11T19:09:41.3497405+00:00",
+      "NumProgressed": 238572,
+      "NumCompleted": 579
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22588,7 +22599,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -22692,7 +22703,7 @@
       "Name": "First of Many",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -22947,22 +22958,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 238543,
-      "Completed": 578
+      "Progressed": 238572,
+      "Completed": 579
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 17708,
+      "Progressed": 17737,
       "Completed": 241
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-11T12:02:51.814988+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:08:52.770891+00:00",
+  "LastChanged": "2023-12-11T19:03:42.1586819+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:09:41.3497398+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:03:03.3029852+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:08:52.7710259+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:03:42.1586824+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:09:41.3498452+00:00"
 }

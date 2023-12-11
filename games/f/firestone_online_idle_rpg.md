@@ -5,14 +5,14 @@ Rating: 4.01 (Ranked 1,009)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,040 |
-| World Map | 78.00% | ~2,550 |
+| Victor | 93.00% | ~3,041 |
+| World Map | 78.00% | ~2,551 |
 | Temple of Eternals | 56.00% | ~1,831 |
 | Prestigious | 53.00% | ~1,733 |
 | Fellowship Power | 42.00% | ~1,373 |
-| Guild Power | 23.00% | ~752 |
+| Guild Power | 24.00% | ~785 |
 | Full Party | 22.00% | ~719 |
-| Prestigious x10 | 21.00% | ~686 |
+| Prestigious x10 | 21.00% | ~687 |
 | The game is on | 19.00% | ~621 |
 | Dragon Clicker | 16.00% | ~523 |
 | Exotic Merchant | 16.00% | ~523 |
@@ -51,12 +51,12 @@ Rating: 4.01 (Ranked 1,009)
 | How Do You Turn This On? | 6.00% | ~196 |
 | The Expeditioner | 6.00% | ~196 |
 | Weekly Quest Completionist | 6.00% | ~196 |
-| Active Member | 5.00% | ~163 |
-| Ancient Knowledge | 5.00% | ~163 |
-| Lock And Load | 5.00% | ~163 |
-| Missions Dedication | 5.00% | ~163 |
-| Sailor | 5.00% | ~163 |
-| The Alchemist | 5.00% | ~163 |
+| Active Member | 5.00% | ~164 |
+| Ancient Knowledge | 5.00% | ~164 |
+| Lock And Load | 5.00% | ~164 |
+| Missions Dedication | 5.00% | ~164 |
+| Sailor | 5.00% | ~164 |
+| The Alchemist | 5.00% | ~164 |
 | Arena Challenger | 4.00% | ~131 |
 | Background Story | 4.00% | ~131 |
 | Ebony Jungle Liberator | 4.00% | ~131 |
@@ -81,7 +81,7 @@ Rating: 4.01 (Ranked 1,009)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,269 (Ranked 212)  
+Progressed: 3,270 (Ranked 212)  
 Completed: 2 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-08 | 3,164 | 2 |
 | 2023-12-09 | 3,213 | 2 |
 | 2023-12-10 | 3,250 | 2 |
-| 2023-12-11 | 3,269 | 2 |
+| 2023-12-11 | 3,270 | 2 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 475)  
 Sum: 141 (Ranked 432)  

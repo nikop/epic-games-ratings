@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1425,9 +1425,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 23977,
+  "EOS_Progressed": 23978,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -26775,6 +26775,11 @@
       "Time": "2023-12-11T18:04:10.4465335+00:00",
       "NumProgressed": 23977,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-12-11T19:05:18.112622+00:00",
+      "NumProgressed": 23978,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 45,
@@ -26810,7 +26815,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 8871
+      "UsersEstimate": 8872
     },
     {
       "ID": "CantRunCantHide",
@@ -26882,7 +26887,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 10310
+      "UsersEstimate": 10311
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -26930,7 +26935,7 @@
       "Name": "More than human",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "Neuromancer",
@@ -27058,7 +27063,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 14626
+      "UsersEstimate": 14627
     },
     {
       "ID": "SwordToAGunfight",
@@ -27066,7 +27071,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 6953
+      "UsersEstimate": 6954
     },
     {
       "ID": "TripleA",
@@ -27098,7 +27103,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6953
+      "UsersEstimate": 6954
     },
     {
       "ID": "Wallrunner",
@@ -27145,21 +27150,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 23977,
+      "Progressed": 23978,
       "Completed": 63
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 23977,
+      "Progressed": 23978,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-12-07T15:02:32.9024528+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:04:10.4465327+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:05:18.1126213+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:13.9393312+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:58:26.768285+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:04:10.4466576+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:59:10.986581+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:05:18.1127781+00:00"
 }

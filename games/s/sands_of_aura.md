@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Setting Sail | 88.00% | ~92 |
 | A Small Thirsty Thing | 14.00% | ~15 |
+| Dousing a Venerable Flame | 11.00% | ~12 |
 | Spirit Within | 11.00% | ~12 |
-| Dousing a Venerable Flame | 10.00% | ~10 |
 | Advanced Armaments | 10.00% | ~10 |
 | Rain Must Fall | 9.00% | ~9 |
 | Overboard | 9.00% | ~9 |

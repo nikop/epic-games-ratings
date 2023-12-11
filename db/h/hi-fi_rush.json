@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4504,
+  "EOS_Progressed": 4505,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -8270,6 +8270,11 @@
       "Time": "2023-12-11T11:08:22.7727629+00:00",
       "NumProgressed": 4504,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-11T19:08:38.2463202+00:00",
+      "NumProgressed": 4505,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8409,7 +8414,7 @@
       "Name": "I play my own way!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "Ach018",
@@ -8417,7 +8422,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "Ach019",
@@ -8489,7 +8494,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "Ach028",
@@ -8561,7 +8566,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "Ach037",
@@ -8777,7 +8782,7 @@
       "Name": "Call me Turbo Chai",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Ach064",
@@ -8848,13 +8853,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4504,
+      "Progressed": 4505,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 3025,
+      "Progressed": 3026,
       "Completed": 1930
     }
   ],
@@ -8862,8 +8867,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:07:46.2217076+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:08:38.2463193+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:18.6418134+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:00:22.1073239+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:07:46.2218187+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:02:44.1795559+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:08:38.2464043+00:00"
 }

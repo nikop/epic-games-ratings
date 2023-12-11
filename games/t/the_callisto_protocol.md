@@ -11,28 +11,28 @@ Rating: 4.19 (Ranked 937)
 | Float Like A Butterfly | 8.00% | ~1,322 |
 | Chew 'Em Up | 7.00% | ~1,157 |
 | The Outer Way | 7.00% | ~1,157 |
-| Two Heads Are Better Than One | 6.00% | ~991 |
-| Workplace Hazard | 6.00% | ~991 |
-| Reforged | 6.00% | ~991 |
-| If the SHU Fits... | 6.00% | ~991 |
-| Without A Paddle | 6.00% | ~991 |
-| In the Pipe, Five by Five | 6.00% | ~991 |
-| Desperate Times | 6.00% | ~991 |
-| Crash Site | 6.00% | ~991 |
-| Full Circle | 6.00% | ~991 |
-| Power Up | 6.00% | ~991 |
+| Two Heads Are Better Than One | 6.00% | ~992 |
+| Workplace Hazard | 6.00% | ~992 |
+| Reforged | 6.00% | ~992 |
+| If the SHU Fits... | 6.00% | ~992 |
+| Without A Paddle | 6.00% | ~992 |
+| In the Pipe, Five by Five | 6.00% | ~992 |
+| Desperate Times | 6.00% | ~992 |
+| Crash Site | 6.00% | ~992 |
+| Full Circle | 6.00% | ~992 |
+| Power Up | 6.00% | ~992 |
 | Keep Fighting | 6.00% | ~267 |
 | You Need a Gun | 5.00% | ~826 |
 | I Do Belong Here | 5.00% | ~826 |
 | Terminated | 5.00% | ~826 |
 | What Lies Beneath | 5.00% | ~826 |
-| It's Time | 5.00% | ~222 |
+| It's Time | 5.00% | ~223 |
 | Giving Back | 4.00% | ~661 |
 | The Commonality | 3.00% | ~496 |
 | One Last Job | 3.00% | ~134 |
 | In Striking Distance | 2.00% | ~330 |
-| Big Spender | 1.00% | ~44 |
-| This Isn't About Escape | 1.00% | ~44 |
+| Big Spender | 1.00% | ~45 |
+| This Isn't About Escape | 1.00% | ~45 |
 | Armed to the Teeth | 0.90% | ~40 |
 | Grim Reaper | 0.80% | ~132 |
 | Parole Denied | 0.80% | ~36 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 937)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,524 (Ranked 150)  
+Progressed: 16,525 (Ranked 150)  
 Completed: 81 (0.49%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 81 (0.49%) (Ranked 212)
 | 2023-12-08 | 16,519 | 81 |
 | 2023-12-09 | 16,521 | 81 |
 | 2023-12-10 | 16,523 | 81 |
-| 2023-12-11 | 16,524 | 81 |
+| 2023-12-11 | 16,525 | 81 |
 ## Awards
 Max (Highly Recommended): 85  (Ranked 388)  
 Sum: 504 (Ranked 325)  

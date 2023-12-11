@@ -5,12 +5,12 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~581 |
-| Don't judge a manhole by its cover | 60.00% | ~465 |
-| I just love stuff! | 42.00% | ~326 |
+| Tell me your story | 75.00% | ~582 |
+| Don't judge a manhole by its cover | 60.00% | ~466 |
 | Keep 'em coming! | 42.00% | ~326 |
-| The things they print nowadays | 39.00% | ~302 |
-| Big Spender | 38.00% | ~294 |
+| I just love stuff! | 41.00% | ~318 |
+| The things they print nowadays | 39.00% | ~303 |
+| Big Spender | 38.00% | ~295 |
 | That's gotta hurt | 36.00% | ~279 |
 | I think it's broke | 26.00% | ~202 |
 | The Ann Flores Combo Experience | 26.00% | ~202 |
@@ -30,10 +30,10 @@ Rating: 4.54 (Ranked 533)
 | I'm walking here! | 7.00% | ~54 |
 | So Fresh and So clean clean | 7.00% | ~54 |
 | Supreme Bartender Ann | 7.00% | ~54 |
-| Clarity of Mind | 6.00% | ~46 |
-| I feel secure, contained & protected | 6.00% | ~46 |
-| Science, it works! | 6.00% | ~46 |
-| The Traveler | 6.00% | ~46 |
+| Clarity of Mind | 6.00% | ~47 |
+| I feel secure, contained & protected | 6.00% | ~47 |
+| Science, it works! | 6.00% | ~47 |
+| The Traveler | 6.00% | ~47 |
 | Woman on a (side) mission | 4.00% | ~31 |
 | Ann ULTRA | 3.00% | ~23 |
 | Lady Luck is a cool cat | 3.00% | ~23 |
@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 533)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 775 (Ranked 285)  
+Progressed: 776 (Ranked 285)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 768 | 0 |
 | 2023-12-09 | 772 | 0 |
 | 2023-12-10 | 774 | 0 |
-| 2023-12-11 | 775 | 0 |
+| 2023-12-11 | 776 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 10,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2139,9 +2139,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1293107,
+  "EOS_Progressed": 1293109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1119,
+  "EOS_NewPlayers": 1108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24734,6 +24734,11 @@
       "Time": "2023-12-11T18:03:48.4569093+00:00",
       "NumProgressed": 1293107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T19:04:47.5811571+00:00",
+      "NumProgressed": 1293109,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -24889,7 +24894,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 77586
+      "UsersEstimate": 77587
     },
     {
       "ID": "10_prop_headshots",
@@ -25041,7 +25046,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 762933
+      "UsersEstimate": 762934
     },
     {
       "ID": "hunter_win",
@@ -25049,7 +25054,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 698278
+      "UsersEstimate": 698279
     },
     {
       "ID": "master_of_loadouts",
@@ -25080,7 +25085,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1293107,
+      "Progressed": 1293109,
       "Completed": 0
     }
   ],
@@ -25088,8 +25093,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-12-10T15:58:16.8516993+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:03:48.4569089+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:04:47.5811564+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:57:00.0927863+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:58:37.6421325+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:03:48.4570311+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:59:26.7210737+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:04:47.5812827+00:00"
 }

@@ -21,8 +21,8 @@
 | Alchemist's Apprentice | 48.00% | ~20 |
 | Redecorating | 43.00% | ~18 |
 | Slave to the rhythm | 31.00% | ~13 |
+| Bad JuJu | 31.00% | ~13 |
 | Friend of Sevenkeeps | 29.00% | ~12 |
-| Bad JuJu | 29.00% | ~12 |
 | Castle Meldec | 24.00% | ~10 |
 | Sevenkeeps Seat of Kings | 24.00% | ~10 |
 | Friend of Gillyshire | 21.00% | ~9 |

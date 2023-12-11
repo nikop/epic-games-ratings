@@ -6,12 +6,12 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,871 |
-| Cavalier | 25.00% | ~203,024 |
-| Fatso | 23.00% | ~186,782 |
-| Awakening | 21.00% | ~170,540 |
-| Ranger | 20.00% | ~162,419 |
-| Scrooge | 20.00% | ~162,419 |
+| Blacksmith's Son | 32.00% | ~259,873 |
+| Cavalier | 25.00% | ~203,026 |
+| Fatso | 23.00% | ~186,784 |
+| Awakening | 21.00% | ~170,542 |
+| Ranger | 20.00% | ~162,421 |
+| Scrooge | 20.00% | ~162,421 |
 | Anorectic | 16.00% | ~129,936 |
 | Firestarter | 16.00% | ~129,936 |
 | Bookworm | 15.00% | ~121,815 |
@@ -58,8 +58,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Mercenary's Honour | 0.70% | ~5,685 |
 | Saviour | 0.70% | ~5,685 |
 | Edward Kelly | 0.60% | ~4,873 |
-| I Can Quit Anytime | 0.50% | ~4,060 |
-| Perfectionist | 0.50% | ~4,060 |
+| I Can Quit Anytime | 0.50% | ~4,061 |
+| Perfectionist | 0.50% | ~4,061 |
 | Alcoholic | 0.30% | ~2,436 |
 | Sniper | 0.30% | ~2,436 |
 | Angel of Mercy | 0.20% | ~1,624 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~812 |
 | Wingman | 0.10% | ~812 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 812,097 (Ranked 17)  
+Progressed: 812,103 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,14 +324,14 @@ Completed: 52 (0.01%) (Ranked 348)
 | 2023-12-08 | 811,655 | 52 |
 | 2023-12-09 | 811,832 | 52 |
 | 2023-12-10 | 812,001 | 52 |
-| 2023-12-11 | 812,097 | 52 |
+| 2023-12-11 | 812,103 | 52 |
 ## Awards
-Max (Character Customization): 7,662  (Ranked 51)  
-Sum: 28,467 (Ranked 49)  
+Max (Character Customization): 7,664  (Ranked 51)  
+Sum: 28,469 (Ranked 49)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,662 |
+| This game has Inclusive Character Customization | 7,664 |
 | This game has Great Boss Battles | 5,609 |
 | This game has Challenging Combat | 1,785 |
 | This game has Diverse Characters | 1,747 |
@@ -664,3 +664,4 @@ Diff (max vs sum): 2
 | 2023-12-08 | 4.71 | - | 7,657 | 28,439 |
 | 2023-12-09 | 4.71 | - | 7,659 | 28,455 |
 | 2023-12-10 | 4.71 | - | 7,662 | 28,467 |
+| 2023-12-11 | 4.71 | - | 7,664 | 28,469 |

@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1104,
+  "EOS_Progressed": 1105,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.9,
   "EosHistory": [
@@ -3683,6 +3683,11 @@
       "Time": "2023-12-11T18:03:37.6588976+00:00",
       "NumProgressed": 1104,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-11T19:04:32.7926636+00:00",
+      "NumProgressed": 1105,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3719,7 +3724,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "_05_FinishAct2",
@@ -3727,7 +3732,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3823,7 +3828,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3879,7 +3884,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -3887,7 +3892,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -3902,7 +3907,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1104,
+      "Progressed": 1105,
       "Completed": 32
     }
   ],
@@ -3910,8 +3915,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-09T12:00:24.7987919+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:03:37.6588972+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:04:32.792663+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:57:08.0547832+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:03:37.6589385+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:57:16.52845+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:04:32.792703+00:00"
 }

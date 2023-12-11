@@ -8627,10 +8627,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32818,
       "NumberOfAwardsMax": 5616
+    },
+    {
+      "Time": "2023-12-11T19:01:51.6132109+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32819,
+      "NumberOfAwardsMax": 5616
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32818,
+  "NumberOfAwards": 32819,
   "NumberOfAwardsMax": 5616,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8674,12 +8680,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3564
+      "Count": 3565
     }
   ],
-  "EOS_Progressed": 239419,
+  "EOS_Progressed": 239427,
   "EOS_Completed": 2516,
-  "EOS_NewPlayers": 1026,
+  "EOS_NewPlayers": 1024,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35172,6 +35178,11 @@
       "Time": "2023-12-11T18:09:36.4750177+00:00",
       "NumProgressed": 239419,
       "NumCompleted": 2516
+    },
+    {
+      "Time": "2023-12-11T19:10:40.1974908+00:00",
+      "NumProgressed": 239427,
+      "NumCompleted": 2516
     }
   ],
   "TotalAchievements": 532,
@@ -35549,9 +35560,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 718
+      "UsersEstimate": 958
     },
     {
       "ID": "objective_completed_110",
@@ -39438,21 +39449,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 205693,
+      "Progressed": 205701,
       "Completed": 3964
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 239419,
+      "Progressed": 239427,
       "Completed": 2516
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-10T21:00:52.1457154+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:09:36.4750174+00:00",
+  "LastChanged": "2023-12-11T19:01:51.6132107+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:10:40.1974899+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:00:13.822896+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:09:36.4772081+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:01:51.6132112+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:10:40.1996919+00:00"
 }

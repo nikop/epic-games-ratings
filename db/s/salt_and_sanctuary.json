@@ -2776,10 +2776,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2007,
       "NumberOfAwardsMax": 294
+    },
+    {
+      "Time": "2023-12-11T19:01:46.3585398+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2008,
+      "NumberOfAwardsMax": 294
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2007,
+  "NumberOfAwards": 2008,
   "NumberOfAwardsMax": 294,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2793,7 +2799,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 235
+      "Count": 236
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2844,9 +2850,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 540528,
+  "EOS_Progressed": 540529,
   "EOS_Completed": 1641,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -28794,6 +28800,11 @@
       "Time": "2023-12-11T18:05:30.0846689+00:00",
       "NumProgressed": 540528,
       "NumCompleted": 1641
+    },
+    {
+      "Time": "2023-12-11T19:07:09.6139834+00:00",
+      "NumProgressed": 540529,
+      "NumCompleted": 1641
     }
   ],
   "TotalAchievements": 37,
@@ -28861,7 +28872,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 448638
+      "UsersEstimate": 448639
     },
     {
       "ID": "HONED",
@@ -28917,7 +28928,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216211
+      "UsersEstimate": 216212
     },
     {
       "ID": "THE_CASTLE",
@@ -28981,7 +28992,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 102700
+      "UsersEstimate": 102701
     },
     {
       "ID": "THE_KEEP",
@@ -29061,7 +29072,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 345938
+      "UsersEstimate": 345939
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -29100,15 +29111,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 540528,
+      "Progressed": 540529,
       "Completed": 1641
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2023-12-07T16:58:03.1533125+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:05:30.0846685+00:00",
+  "LastChanged": "2023-12-11T19:01:46.3585396+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:07:09.6139827+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.0345559+00:00",
-  "LastUpdate_Ratings": "2023-12-11T18:00:10.3265055+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:05:30.0847806+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:01:46.3585401+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:07:09.6141297+00:00"
 }

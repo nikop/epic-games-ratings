@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,9 +216,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 935,
+  "EOS_Progressed": 936,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2346,6 +2346,11 @@
       "Time": "2023-12-11T18:04:22.5446407+00:00",
       "NumProgressed": 935,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-11T19:05:34.6193871+00:00",
+      "NumProgressed": 936,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2412,9 +2417,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 187
     },
     {
       "ID": "ChasingTheLight",
@@ -2446,23 +2451,23 @@
       "Name": "Desolate Island",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 159
     },
     {
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 94
     },
     {
       "ID": "EcstaticTruth",
@@ -2510,7 +2515,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "HighPlain",
@@ -2550,7 +2555,7 @@
       "Name": "Lost Marshes",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "MistressOfRiddles",
@@ -2604,9 +2609,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 66
     },
     {
       "ID": "Overload",
@@ -2694,7 +2699,7 @@
       "Name": "Southern Coast",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "TeamSpirit",
@@ -2716,9 +2721,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 112
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2822,14 +2827,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 935,
+      "Progressed": 936,
       "Completed": 1
     }
   ],
@@ -2837,8 +2842,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:04:22.5446402+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:05:34.6193864+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:58:30.2904492+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:04:22.5446996+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:59:16.0910003+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:05:34.6194355+00:00"
 }

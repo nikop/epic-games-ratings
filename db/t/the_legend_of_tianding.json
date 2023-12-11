@@ -4,8 +4,8 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -425,9 +425,9 @@
       "ID": "TrickLiHong",
       "SetID": "123m9l1",
       "Name": "Fight Fire With Fire",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -442,8 +442,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:03:29.6894867+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:04:21.7868342+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:55.2838081+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:57:55.7456719+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:03:29.6895034+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:58:25.2054738+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:04:21.7868538+00:00"
 }

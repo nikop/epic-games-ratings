@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245,
+  "EOS_Progressed": 246,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 11.02,
+  "EOS_Completed_Percentage": 10.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -585,6 +585,11 @@
       "Time": "2023-12-10T17:09:29.685604+00:00",
       "NumProgressed": 245,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-11T19:09:58.5614311+00:00",
+      "NumProgressed": 246,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 17,
@@ -596,7 +601,7 @@
       "Name": "And away we go!",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "bless_the_rain",
@@ -642,9 +647,9 @@
       "ID": "dont_fear_the_baldness",
       "SetID": "202dmm8",
       "Name": "Don\u0027t fear the baldness",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 96
     },
     {
       "ID": "instinct",
@@ -652,15 +657,15 @@
       "Name": "Instinct",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 155
     },
     {
       "ID": "just_like_me",
@@ -692,7 +697,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "the_truth",
@@ -714,9 +719,9 @@
       "ID": "toby_foolery",
       "SetID": "202dmm8",
       "Name": "Toby foolery",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 128
     },
     {
       "ID": "you_are_carol_vorderman",
@@ -724,14 +729,14 @@
       "Name": "You are Carol Vorderman",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     }
   ],
   "AchievementSets": [
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 245,
+      "Progressed": 246,
       "Completed": 27
     }
   ],
@@ -739,8 +744,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:09:05.1341546+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:09:58.5614302+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:28.158497+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:58:55.2037244+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:09:05.1341655+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:59:52.571226+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:09:58.5614415+00:00"
 }

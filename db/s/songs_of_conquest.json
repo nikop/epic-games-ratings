@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 419,
+  "EOS_Progressed": 420,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1788,6 +1788,11 @@
       "Time": "2023-12-11T18:05:57.5571306+00:00",
       "NumProgressed": 419,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T19:07:46.8695879+00:00",
+      "NumProgressed": 420,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1822,9 +1827,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "AttackCount",
@@ -1944,7 +1949,7 @@
       "Name": "Double Kill",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2231,15 +2236,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 419,
+      "Progressed": 420,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:05:57.5571303+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:07:46.8695872+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:57:13.6564592+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:05:57.557166+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:57:24.5647828+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:07:46.8696249+00:00"
 }

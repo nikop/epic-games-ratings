@@ -19,8 +19,8 @@
 | Urban Explorer | 26.00% | ~9 |
 | Steal Her Away | 26.00% | ~9 |
 | Coward | 26.00% | ~9 |
+| Fight Fire With Fire | 26.00% | ~9 |
 | Not Today | 24.00% | ~8 |
-| Fight Fire With Fire | 24.00% | ~8 |
 | Big Eater | 21.00% | ~7 |
 | Tour Guide | 21.00% | ~7 |
 | The Real O.G. | 18.00% | ~6 |

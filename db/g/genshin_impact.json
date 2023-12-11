@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
     "PcReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -15381,10 +15381,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1451916,
       "NumberOfAwardsMax": 318537
+    },
+    {
+      "Time": "2023-12-11T18:59:56.0388009+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1451949,
+      "NumberOfAwardsMax": 318537
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1451916,
+  "NumberOfAwards": 1451949,
   "NumberOfAwardsMax": 318537,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15428,7 +15434,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 121874
+      "Count": 121907
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -15466,8 +15472,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-12-11T16:58:59.0886995+00:00",
+  "LastChanged": "2023-12-11T18:59:56.0388007+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:29.1829559+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:58:57.4466993+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:07:48.3556095+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:59:56.0388019+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:08:41.1624623+00:00"
 }

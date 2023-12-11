@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.90% | ~2,155 |
+| Beast Intentions | 0.40% | ~958 |
 | The Cursed Farmer | 0.40% | ~958 |
-| Beast Intentions | 0.30% | ~718 |
 | The Mad Wizard | 0.30% | ~718 |
 | Were-verpowered | 0.20% | ~479 |
 | The Ring of Regeneration | 0.20% | ~479 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~206 |
 | See You on the Flipside | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,419 (Ranked 65)  
+Progressed: 239,427 (Ranked 65)  
 Completed: 2,516 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -774,10 +774,10 @@ Completed: 2,516 (1.05%) (Ranked 167)
 | 2023-12-08 | 238,975 | 2,506 |
 | 2023-12-09 | 239,141 | 2,510 |
 | 2023-12-10 | 239,334 | 2,513 |
-| 2023-12-11 | 239,419 | 2,516 |
+| 2023-12-11 | 239,427 | 2,516 |
 ## Awards
 Max (Great for Beginners): 5,616  (Ranked 70)  
-Sum: 32,818 (Ranked 41)  
+Sum: 32,819 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -787,7 +787,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,724 |
 | This game has Amazing Characters | 4,245 |
 | This game is Highly Recommended | 4,239 |
-| This game has Playful Visuals | 3,564 |
+| This game has Playful Visuals | 3,565 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1110,3 +1110,4 @@ Diff (max vs sum): 29
 | 2023-12-08 | 4.06 | - | 5,606 | 32,786 |
 | 2023-12-09 | 4.06 | - | 5,612 | 32,799 |
 | 2023-12-10 | 4.06 | - | 5,616 | 32,818 |
+| 2023-12-11 | 4.06 | - | 5,616 | 32,819 |

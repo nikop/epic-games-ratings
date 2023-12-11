@@ -16,10 +16,10 @@ Rating: 4.87 (Ranked 24)
 | Alright, that felt AWESOME! | 14.00% | ~631 |
 | This will cost you big time | 13.00% | ~586 |
 | Uh, they were broken when I got here | 13.00% | ~586 |
-| I play my own way! | 12.00% | ~540 |
-| Z-shielding's got nothing on us! | 12.00% | ~540 |
-| Kissing the sky! | 12.00% | ~540 |
-| Whoa! There's ANOTHER health bar!? | 11.00% | ~495 |
+| I play my own way! | 12.00% | ~541 |
+| Z-shielding's got nothing on us! | 12.00% | ~541 |
+| Kissing the sky! | 12.00% | ~541 |
+| Whoa! There's ANOTHER health bar!? | 11.00% | ~496 |
 | The Negotiator | 10.00% | ~450 |
 | Out in a puff of smoke | 10.00% | ~450 |
 | I look cool. But I can look COOLER. | 10.00% | ~450 |
@@ -46,7 +46,7 @@ Rating: 4.87 (Ranked 24)
 | I'm not done with you yet | 2.00% | ~90 |
 | First we parry, then we counter | 2.00% | ~90 |
 | I hit things with a guitar really well. | 2.00% | ~90 |
-| Call me Turbo Chai | 2.00% | ~60 |
+| Call me Turbo Chai | 2.00% | ~61 |
 | OK, well THEY came after ME! | 1.00% | ~45 |
 | You ever parry a volcano? | 1.00% | ~45 |
 | New bad guys? No problem! | 1.00% | ~30 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,504 (Ranked 195)  
+Progressed: 4,505 (Ranked 195)  
 Completed: 8 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 8 (0.18%) (Ranked 266)
 | 2023-12-08 | 4,490 | 8 |
 | 2023-12-09 | 4,494 | 8 |
 | 2023-12-10 | 4,502 | 8 |
-| 2023-12-11 | 4,504 | 8 |
+| 2023-12-11 | 4,505 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

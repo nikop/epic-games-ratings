@@ -45,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 3.00% | ~472 |
 | Artisans | 3.00% | ~472 |
 | Furious Family | 3.00% | ~472 |
+| Colossus | 3.00% | ~472 |
 | Great Ziggurat | 3.00% | ~472 |
 | Ishtar Gate | 3.00% | ~472 |
 | Lighthouse | 3.00% | ~472 |
@@ -77,7 +78,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 2.00% | ~314 |
 | Acropolis | 2.00% | ~314 |
 | Apadana | 2.00% | ~314 |
-| Colossus | 2.00% | ~314 |
 | Temple of Solomon | 2.00% | ~314 |
 | Mausoleum | 2.00% | ~314 |
 | Learn to Play 3 | 2.00% | ~314 |
@@ -132,10 +132,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 1.00% | ~157 |
 | Turreted Elephant | 1.00% | ~157 |
 | Ambition Victory | 1.00% | ~157 |
-| Noble Difficulty | 0.90% | ~141 |
-| Adur Burzen-Mihr | 0.90% | ~141 |
-| All Nations | 0.90% | ~141 |
-| Poetic Leader | 0.90% | ~141 |
+| Noble Difficulty | 0.90% | ~142 |
+| Adur Burzen-Mihr | 0.90% | ~142 |
+| All Nations | 0.90% | ~142 |
+| Poetic Leader | 0.90% | ~142 |
 | Ishtar Gate in Babylon | 0.80% | ~126 |
 | Peacemaker | 0.80% | ~126 |
 | Cao'an | 0.80% | ~126 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,722 (Ranked 153)  
+Progressed: 15,723 (Ranked 153)  
 Completed: 5 (0.03%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -584,7 +584,7 @@ Completed: 5 (0.03%) (Ranked 333)
 | 2023-12-08 | 15,683 | 5 |
 | 2023-12-09 | 15,699 | 5 |
 | 2023-12-10 | 15,719 | 5 |
-| 2023-12-11 | 15,722 | 5 |
+| 2023-12-11 | 15,723 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 277)  
 Sum: 1,899 (Ranked 220)  

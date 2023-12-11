@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2437,
+  "EOS_Progressed": 2438,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6012,6 +6012,11 @@
       "Time": "2023-12-11T15:06:45.9471824+00:00",
       "NumProgressed": 2437,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T19:06:41.1325817+00:00",
+      "NumProgressed": 2438,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6032,7 +6037,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -6094,9 +6099,9 @@
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "c7hf6a4",
       "Name": "We\u0027re Going to Need a Bigger Garage",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 610
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -6152,7 +6157,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -6176,7 +6181,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -6232,7 +6237,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6248,7 +6253,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -6280,7 +6285,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -6328,7 +6333,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -6376,7 +6381,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -6415,14 +6420,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2437,
+      "Progressed": 2438,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:05:09.8330634+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:06:41.1325813+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:58:14.9885479+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:05:09.8331357+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:58:53.248714+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:06:41.1326399+00:00"
 }

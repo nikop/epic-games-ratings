@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16974,
+  "EOS_Progressed": 16975,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -15878,6 +15878,11 @@
       "Time": "2023-12-11T18:04:32.3819547+00:00",
       "NumProgressed": 16974,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-11T19:05:48.0206117+00:00",
+      "NumProgressed": 16975,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15889,7 +15894,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "tpote_achievement_10",
@@ -15929,7 +15934,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5601
+      "UsersEstimate": 5602
     },
     {
       "ID": "tpote_achievement_15",
@@ -15961,7 +15966,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "tpote_achievement_19",
@@ -15969,7 +15974,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3055
+      "UsersEstimate": 3056
     },
     {
       "ID": "tpote_achievement_2",
@@ -15977,7 +15982,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5601
+      "UsersEstimate": 5602
     },
     {
       "ID": "tpote_achievement_20",
@@ -15985,7 +15990,7 @@
       "Name": "Boy of mystery",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "tpote_achievement_21",
@@ -15993,7 +15998,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4922
+      "UsersEstimate": 4923
     },
     {
       "ID": "tpote_achievement_22",
@@ -16017,7 +16022,7 @@
       "Name": "First profit",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "tpote_achievement_25",
@@ -16041,7 +16046,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3055
+      "UsersEstimate": 3056
     },
     {
       "ID": "tpote_achievement_28",
@@ -16073,7 +16078,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "tpote_achievement_31",
@@ -16081,7 +16086,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3055
+      "UsersEstimate": 3056
     },
     {
       "ID": "tpote_achievement_32",
@@ -16209,22 +16214,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5771
+      "UsersEstimate": 5772
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16974,
+      "Progressed": 16975,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:04:32.3819541+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:05:48.0206111+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.5508408+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:58:45.409997+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:04:32.3820477+00:00"
+  "LastUpdate_Ratings": "2023-12-11T18:59:37.886865+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:05:48.0206918+00:00"
 }

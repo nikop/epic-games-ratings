@@ -22,11 +22,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 1.00% | ~179 |
 | No Deaths | 1.00% | ~179 |
 | Fertile Meadows | 0.90% | ~161 |
-| Royal Outpost | 0.80% | ~144 |
+| Royal Outpost | 0.90% | ~161 |
 | Watchtower | 0.80% | ~144 |
 | Homesick | 0.70% | ~126 |
+| Bandit Camp | 0.70% | ~126 |
 | Lost Colonies | 0.70% | ~126 |
-| Bandit Camp | 0.60% | ~108 |
 | Monastery of the Holy Flame | 0.60% | ~108 |
 | Corrosive Torrent | 0.60% | ~108 |
 | A Real Challenge | 0.60% | ~108 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,941 (Ranked 147)  
+Progressed: 17,944 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 40 (0.22%) (Ranked 255)
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
 | 2023-12-10 | 17,908 | 43 |
-| 2023-12-11 | 17,941 | 41 |
+| 2023-12-11 | 17,944 | 41 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 225)  
 Sum: 3,253 (Ranked 175)  

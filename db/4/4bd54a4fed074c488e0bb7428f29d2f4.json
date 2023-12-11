@@ -2,10 +2,10 @@
   "ID": "4bd54a4fed074c488e0bb7428f29d2f4",
   "Name": "1428: Shadows over Silesia",
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
-  "Ranking_EOS_Progress": 520,
+  "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -204,6 +204,11 @@
       "Time": "2023-12-11T16:04:05.1300594+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T19:04:56.5969706+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-05T18:06:01.4667778+00:00",
@@ -286,7 +291,7 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -318,7 +323,7 @@
       "ID": "SOS_ENEMY_OF_MY_ENEMY",
       "SetID": "6ci4lm2",
       "Name": "Enemy of my enemy",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -366,7 +371,7 @@
       "ID": "SOS_FIRST_BLOOD",
       "SetID": "6ci4lm2",
       "Name": "First blood",
-      "Percentage": 66,
+      "Percentage": 64,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -414,7 +419,7 @@
       "ID": "SOS_HEADACHE",
       "SetID": "6ci4lm2",
       "Name": "By fire and blood",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 35,
       "UsersEstimate": 10
     },
@@ -422,7 +427,7 @@
       "ID": "SOS_HEARTBREAKING_END",
       "SetID": "6ci4lm2",
       "Name": "Heartbreaking end",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -446,7 +451,7 @@
       "ID": "SOS_HE_WILL_REMEMBER",
       "SetID": "6ci4lm2",
       "Name": "He will remember that",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -582,7 +587,7 @@
       "ID": "SOS_POISON",
       "SetID": "6ci4lm2",
       "Name": "Last cup",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -590,7 +595,7 @@
       "ID": "SOS_PRISON_BREAK",
       "SetID": "6ci4lm2",
       "Name": "At the bottom",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 35,
       "UsersEstimate": 6
     },
@@ -630,7 +635,7 @@
       "ID": "SOS_SHAFT_INTO_DARKNESS",
       "SetID": "6ci4lm2",
       "Name": "Shaft into the darkness",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -711,14 +716,14 @@
     {
       "ID": "6ci4lm2",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-11T18:03:54.9080043+00:00",
+  "LastChanged_Achievements": "2023-12-11T19:04:56.59697+00:00",
   "LastUpdate_AppInfo": "2023-12-11T16:57:10.7137617+00:00",
-  "LastUpdate_Ratings": "2023-12-11T17:59:00.9540881+00:00",
-  "LastUpdate_Achievements": "2023-12-11T18:03:54.9080456+00:00"
+  "LastUpdate_Ratings": "2023-12-11T19:00:01.0642553+00:00",
+  "LastUpdate_Achievements": "2023-12-11T19:04:56.5970194+00:00"
 }

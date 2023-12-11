@@ -33,7 +33,7 @@ Rating: 4.57 (Ranked 480)
 | True Legends | 40.00% | ~446 |
 | Boosted! | 40.00% | ~446 |
 | Deadliest and Biggest Snowball Ever! | 40.00% | ~446 |
-| Bullseye | 37.00% | ~413 |
+| Bullseye | 38.00% | ~424 |
 | It Is Not Over | 36.00% | ~401 |
 | On The Rocks | 35.00% | ~390 |
 | Snowy Poro | 32.00% | ~357 |

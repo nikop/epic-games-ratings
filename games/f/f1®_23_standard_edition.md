@@ -5,24 +5,24 @@ Rating: 4.68 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,741 |
-| On the Top Step | 89.00% | ~5,435 |
+| Getting on the Step | 94.00% | ~5,742 |
+| On the Top Step | 89.00% | ~5,436 |
 | Setting up for Success | 79.00% | ~4,825 |
-| Team Orders | 76.00% | ~4,641 |
+| Team Orders | 76.00% | ~4,642 |
 | Engineer | 56.00% | ~3,420 |
-| Familiar Faces | 49.00% | ~2,992 |
-| Sharing the Love | 44.00% | ~2,687 |
+| Familiar Faces | 49.00% | ~2,993 |
+| Sharing the Love | 44.00% | ~2,688 |
 | Going the Extra Mile | 43.00% | ~2,626 |
 | Hitting a Season | 42.00% | ~2,565 |
-| A Dozen Pieces | 35.00% | ~2,137 |
-| Challenge Yourself | 34.00% | ~2,076 |
-| Making History | 32.00% | ~1,954 |
+| A Dozen Pieces | 35.00% | ~2,138 |
+| Challenge Yourself | 34.00% | ~2,077 |
+| Making History | 32.00% | ~1,955 |
 | Network Success | 29.00% | ~1,771 |
 | Writing a new Chapter | 26.00% | ~1,588 |
 | Spring Cleaning | 25.00% | ~1,527 |
-| Reduce | 21.00% | ~1,282 |
-| Ups and Downs | 21.00% | ~1,282 |
-| Crucial Combo | 20.00% | ~1,221 |
+| Reduce | 21.00% | ~1,283 |
+| Ups and Downs | 21.00% | ~1,283 |
+| Crucial Combo | 20.00% | ~1,222 |
 | Reuse | 18.00% | ~1,099 |
 | Proving Them Wrong | 18.00% | ~1,099 |
 | Gathering Dust | 17.00% | ~1,038 |
@@ -38,9 +38,9 @@ Rating: 4.68 (Ranked 258)
 | Recycle | 12.00% | ~733 |
 | Undisputed Winner | 10.00% | ~611 |
 | Tinkerer | 10.00% | ~611 |
-| For all Those Back at the Factory | 7.00% | ~427 |
-| Living up to Expectations | 7.00% | ~427 |
-| Smooth Operator | 7.00% | ~427 |
+| For all Those Back at the Factory | 7.00% | ~428 |
+| Living up to Expectations | 7.00% | ~428 |
+| Smooth Operator | 7.00% | ~428 |
 | Loyal Bond | 5.00% | ~305 |
 | Peak Performance | 5.00% | ~305 |
 | Hitting a Century | 4.00% | ~244 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 258)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,107 (Ranked 187)  
+Progressed: 6,108 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,11 +144,11 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 6,069 | 0 |
 | 2023-12-09 | 6,083 | 0 |
 | 2023-12-10 | 6,105 | 0 |
-| 2023-12-11 | 6,107 | 0 |
+| 2023-12-11 | 6,108 | 0 |
 ## Awards
 Max (Diverse Characters): 39  (Ranked 463)  
-Sum: 187 (Ranked 413)  
-Diff (max vs sum): 50  
+Sum: 188 (Ranked 410)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 39 |
@@ -157,8 +157,8 @@ Diff (max vs sum): 50
 | This game is Highly Recommended | 28 |
 | This game is Extremely Fun | 26 |
 | This game is Great for Quick Sessions | 24 |
+| This game has Amazing Characters | 22 |
 | This game has Quickly Understood Controls | 21 |
-| This game has Amazing Characters | 21 |
 | This game has Challenging Combat | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -254,4 +254,4 @@ Diff (max vs sum): 50
 | 2023-12-08 | 4.68 | 35 | 179 |
 | 2023-12-09 | 4.68 | 38 | 184 |
 | 2023-12-10 | 4.68 | 38 | 186 |
-| 2023-12-11 | 4.68 | 39 | 187 |
+| 2023-12-11 | 4.68 | 39 | 188 |
