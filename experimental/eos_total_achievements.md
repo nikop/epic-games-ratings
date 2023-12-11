@@ -375,6 +375,7 @@
 | [Ragnarok Survivors Valhalla](../games/3/377c7afca797475bb73be258c94f82ea.md) | 34 | 1,000 |
 | [Redout: Enhanced Edition](../games/r/redout__enhanced_edition.md) | 34 | 1,000 |
 | [Roboplant](../games/r/roboplant.md) | 34 | 1,000 |
+| [Tales of the Tiny Planet](../games/f/fcfb5f2cb071465391cc3c4555327790.md) | 34 | 1,000 |
 | [The Future Project](../games/1/1846202a6db1495189ceefd84672b545.md) | 34 | 1,100 |
 | [There Is No Game - Wrong Dimension](../games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 34 | 1,000 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](../games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 34 | 1,000 |
