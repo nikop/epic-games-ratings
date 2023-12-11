@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.33% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.32% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -32,8 +32,8 @@
 | 30 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.38% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 31 | [Remains](games/r/remains.md) | 14.29% |
-| 33 | [Seven Doors](games/s/seven_doors.md) | 13.64% |
-| 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 12.77% |
+| 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 13.83% |
+| 34 | [Seven Doors](games/s/seven_doors.md) | 13.64% |
 | 35 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.28% |
 | 36 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.20% |
 | 37 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -69,7 +69,7 @@
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.06% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.73% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.72% |
 | 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
@@ -111,13 +111,13 @@
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 110 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.91% |
-| 112 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
-| 112 | [Night Book](games/n/night_book.md) | 2.78% |
-| 114 | [Dungeons 4](games/d/dungeons_4.md) | 2.76% |
-| 115 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
-| 116 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
-| 116 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
-| 118 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.72% |
+| 112 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.81% |
+| 113 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
+| 113 | [Night Book](games/n/night_book.md) | 2.78% |
+| 115 | [Dungeons 4](games/d/dungeons_4.md) | 2.76% |
+| 116 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
+| 117 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
+| 117 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
 | 119 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.62% |
 | 120 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.56% |
 | 121 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -213,8 +213,8 @@
 | 211 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.49% |
 | 212 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.48% |
 | 212 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
-| 214 | [Eternights](games/e/eternights.md) | 0.47% |
 | 214 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.47% |
+| 215 | [Eternights](games/e/eternights.md) | 0.46% |
 | 216 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 216 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.45% |
 | 218 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.44% |
