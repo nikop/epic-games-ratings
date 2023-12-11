@@ -4,8 +4,8 @@
   "ProductSlug": "lakeside-d653d3",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2024-02-29T00:00:00+00:00",
     "PcReleaseDate": "2022-09-27T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-07T10:57:05.4972321+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:59:26.3618577+00:00",
-  "LastUpdate_Achievements": "2023-12-11T03:05:05.9890799+00:00"
+  "LastUpdate_Ratings": "2023-12-11T03:58:53.4797914+00:00",
+  "LastUpdate_Achievements": "2023-12-11T04:04:37.0982924+00:00"
 }

@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 6.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 377 (Ranked 337)  
-Completed: 8 (2.12%) (Ranked 129)  
+Completed: 8 (2.12%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1332,9 +1332,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30129,
+  "EOS_Progressed": 30132,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -26462,6 +26462,11 @@
       "Time": "2023-12-11T03:09:40.977278+00:00",
       "NumProgressed": 30129,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-12-11T04:09:27.4378565+00:00",
+      "NumProgressed": 30132,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 22,
@@ -26497,7 +26502,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "1019",
@@ -26513,7 +26518,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "1021",
@@ -26521,7 +26526,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "1022",
@@ -26545,7 +26550,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "1025",
@@ -26577,7 +26582,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5423
+      "UsersEstimate": 5424
     },
     {
       "ID": "1029",
@@ -26585,7 +26590,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "1030",
@@ -26609,7 +26614,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12052
+      "UsersEstimate": 12053
     },
     {
       "ID": "1033",
@@ -26641,22 +26646,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30129,
+      "Progressed": 30132,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-11T03:09:40.9772777+00:00",
+  "LastChanged_Achievements": "2023-12-11T04:09:27.4378563+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:17.8374063+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:57:52.7788576+00:00",
-  "LastUpdate_Achievements": "2023-12-11T03:09:40.9774273+00:00"
+  "LastUpdate_Ratings": "2023-12-11T03:57:25.126432+00:00",
+  "LastUpdate_Achievements": "2023-12-11T04:09:27.4379861+00:00"
 }

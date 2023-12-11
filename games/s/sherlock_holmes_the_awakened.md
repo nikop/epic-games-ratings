@@ -5,9 +5,9 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~673 |
+| Read Between The Lines | 64.00% | ~684 |
 | To Hell In A Handcart | 63.00% | ~673 |
-| High Profile | 55.00% | ~587 |
+| High Profile | 56.00% | ~598 |
 | Whispers In The Dark | 53.00% | ~566 |
 | Fond Memories | 51.00% | ~545 |
 | A Method To His Madness | 49.00% | ~523 |
@@ -35,7 +35,7 @@ Rating: 4.69 (Ranked 232)
 | Reawakened | 3.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,068 (Ranked 268)  
-Completed: 28 (2.62%) (Ranked 117)  
+Completed: 29 (2.72%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,7 +225,7 @@ Completed: 28 (2.62%) (Ranked 117)
 | 2023-12-08 | 939 | 28 |
 | 2023-12-09 | 999 | 28 |
 | 2023-12-10 | 1,063 | 28 |
-| 2023-12-11 | 1,068 | 28 |
+| 2023-12-11 | 1,068 | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

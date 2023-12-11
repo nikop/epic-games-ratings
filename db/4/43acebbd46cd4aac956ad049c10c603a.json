@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,9 +216,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 927,
+  "EOS_Progressed": 929,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2311,6 +2311,11 @@
       "Time": "2023-12-10T23:03:52.4565506+00:00",
       "NumProgressed": 927,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-11T04:04:08.1254614+00:00",
+      "NumProgressed": 929,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2379,7 +2384,7 @@
       "Name": "Bridge Builder",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ChasingTheLight",
@@ -2419,7 +2424,7 @@
       "Name": "Discovery",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "EasternWetlands",
@@ -2427,7 +2432,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "EcstaticTruth",
@@ -2491,7 +2496,7 @@
       "Name": "Into the Machine",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "JustOneLap",
@@ -2507,7 +2512,7 @@
       "Name": "Lord of the Files",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "LostMarshes",
@@ -2521,9 +2526,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 111
     },
     {
       "ID": "Mnemosyne",
@@ -2579,7 +2584,7 @@
       "Name": "Overload",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Persistent",
@@ -2611,7 +2616,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "RenaissanceRobot",
@@ -2715,7 +2720,7 @@
       "Name": "The Spark",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "TheThiefOfFire",
@@ -2731,7 +2736,7 @@
       "Name": "The Word Endures",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "TouchGrass",
@@ -2779,7 +2784,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "YourBiggestFan",
@@ -2794,7 +2799,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 927,
+      "Progressed": 929,
       "Completed": 1
     }
   ],
@@ -2802,8 +2807,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-11T03:04:36.8453106+00:00",
+  "LastChanged_Achievements": "2023-12-11T04:04:08.1254612+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:58:30.869903+00:00",
-  "LastUpdate_Achievements": "2023-12-11T03:04:36.8453554+00:00"
+  "LastUpdate_Ratings": "2023-12-11T03:58:02.6262264+00:00",
+  "LastUpdate_Achievements": "2023-12-11T04:04:08.1255645+00:00"
 }

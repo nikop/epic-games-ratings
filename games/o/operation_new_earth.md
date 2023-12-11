@@ -13,9 +13,9 @@ Rating: 3.21 (Ranked 1,061)
 | Covert Operative | 12.00% | ~241 |
 | Lieutenant | 10.00% | ~201 |
 | Getting Deployment | 10.00% | ~201 |
+| Stocking Up | 10.00% | ~201 |
 | On Target | 10.00% | ~201 |
 | Keeping Busy | 9.00% | ~181 |
-| Stocking Up | 9.00% | ~181 |
 | Infantry Reporting | 9.00% | ~181 |
 | Fighting for Survival | 8.00% | ~161 |
 | Silver Competitor | 8.00% | ~161 |

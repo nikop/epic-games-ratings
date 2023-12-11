@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2428,
+  "EOS_Progressed": 2429,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5982,6 +5982,11 @@
       "Time": "2023-12-11T03:05:23.8200939+00:00",
       "NumProgressed": 2428,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-11T04:04:54.7097407+00:00",
+      "NumProgressed": 2429,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6026,7 +6031,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -6050,7 +6055,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -6098,7 +6103,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -6170,7 +6175,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -6202,7 +6207,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6385,14 +6390,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2428,
+      "Progressed": 2429,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-11T03:05:23.8200935+00:00",
+  "LastChanged_Achievements": "2023-12-11T04:04:54.7097404+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:58:15.503478+00:00",
-  "LastUpdate_Achievements": "2023-12-11T03:05:23.8201657+00:00"
+  "LastUpdate_Ratings": "2023-12-11T03:57:48.03852+00:00",
+  "LastUpdate_Achievements": "2023-12-11T04:04:54.7098109+00:00"
 }

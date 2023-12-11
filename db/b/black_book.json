@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 59317,
+  "EOS_Progressed": 59320,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 1466,
+  "EOS_NewPlayers": 1463,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12778,6 +12778,11 @@
       "Time": "2023-12-11T03:03:57.3880882+00:00",
       "NumProgressed": 59317,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-12-11T04:03:29.7218443+00:00",
+      "NumProgressed": 59320,
+      "NumCompleted": 59
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -12814,7 +12819,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8304
+      "UsersEstimate": 8305
     },
     {
       "ID": "BAD_END",
@@ -12846,7 +12851,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4745
+      "UsersEstimate": 4746
     },
     {
       "ID": "CHEATER",
@@ -12966,7 +12971,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8304
+      "UsersEstimate": 8305
     },
     {
       "ID": "HERBS_2",
@@ -12990,7 +12995,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 16609
+      "UsersEstimate": 16610
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -13006,7 +13011,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4745
+      "UsersEstimate": 4746
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -13070,7 +13075,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4745
+      "UsersEstimate": 4746
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -13118,7 +13123,7 @@
       "Name": "Collector",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4745
+      "UsersEstimate": 4746
     },
     {
       "ID": "TALES_3",
@@ -13189,15 +13194,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 59317,
+      "Progressed": 59320,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-11T03:03:57.3880878+00:00",
+  "LastChanged_Achievements": "2023-12-11T04:03:29.721844+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:06.7954209+00:00",
-  "LastUpdate_Ratings": "2023-12-11T03:00:06.8755774+00:00",
-  "LastUpdate_Achievements": "2023-12-11T03:03:57.3881835+00:00"
+  "LastUpdate_Ratings": "2023-12-11T03:59:32.8766419+00:00",
+  "LastUpdate_Achievements": "2023-12-11T04:03:29.7219309+00:00"
 }

@@ -3401,9 +3401,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 17916,
+  "EOS_Progressed": 17918,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": -8,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -15311,6 +15311,11 @@
       "Time": "2023-12-11T03:05:50.5290467+00:00",
       "NumProgressed": 17916,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-11T04:05:20.527062+00:00",
+      "NumProgressed": 17918,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15403,7 +15408,7 @@
       "Name": "Homesick",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "WinFirstGame",
@@ -15443,7 +15448,7 @@
       "Name": "Bandit Camp",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "WinNearBarren",
@@ -15731,7 +15736,7 @@
       "Name": "Frosts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "WinNearGreed",
@@ -15755,7 +15760,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "WinNearPresence",
@@ -15763,7 +15768,7 @@
       "Name": "Ominous Presence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "WinNearStorms",
@@ -15771,7 +15776,7 @@
       "Name": "Gathering Storm",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -15794,15 +15799,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17916,
+      "Progressed": 17918,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-10T04:57:34.5838562+00:00",
-  "LastChanged_Achievements": "2023-12-11T03:05:50.5290463+00:00",
+  "LastChanged_Achievements": "2023-12-11T04:05:20.5270617+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-11T02:58:19.5910661+00:00",
-  "LastUpdate_Achievements": "2023-12-11T03:05:50.5291625+00:00"
+  "LastUpdate_Ratings": "2023-12-11T03:57:51.9910421+00:00",
+  "LastUpdate_Achievements": "2023-12-11T04:05:20.5271465+00:00"
 }
