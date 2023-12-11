@@ -393,9 +393,9 @@
       "ID": "2",
       "SetID": "41h3j82",
       "Name": "Welcome to Barcelona",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "3",
@@ -433,9 +433,9 @@
       "ID": "7",
       "SetID": "41h3j82",
       "Name": "Roller Race",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "8",
@@ -466,8 +466,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-11T20:03:39.7706019+00:00",
+  "LastChanged_Achievements": "2023-12-11T21:03:31.9567033+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:26.8638955+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:57:08.3243921+00:00",
-  "LastUpdate_Achievements": "2023-12-11T20:03:39.7706133+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:57:18.2945686+00:00",
+  "LastUpdate_Achievements": "2023-12-11T21:03:31.9567204+00:00"
 }

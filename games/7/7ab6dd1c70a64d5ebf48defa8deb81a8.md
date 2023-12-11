@@ -21,15 +21,15 @@
 | Fashion Victim | 9.00% | ~24 |
 | Essence Blow | 8.00% | ~21 |
 | Calm before the Storm | 7.00% | ~18 |
+| The Mentor | 7.00% | ~18 |
 | To Battle | 6.00% | ~16 |
 | Godslayer | 6.00% | ~16 |
-| The Mentor | 6.00% | ~16 |
 | Alchemist | 6.00% | ~16 |
 | Fine Feathers Make Fine Birds | 5.00% | ~13 |
 | Clear Sight | 4.00% | ~11 |
 | Airborne | 4.00% | ~11 |
+| Miner | 4.00% | ~11 |
 | Shatterer | 3.00% | ~8 |
-| Miner | 3.00% | ~8 |
 | A Queen's Tale | 3.00% | ~8 |
 | Slayer | 2.00% | ~5 |
 | Flawless Victory | 2.00% | ~5 |

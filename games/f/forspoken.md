@@ -6,34 +6,34 @@ Rating: 4.13 (Ranked 971)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 10.00% | ~4,355 |
-| Unlocked Potential | 9.00% | ~3,919 |
-| Tinkerer | 7.00% | ~3,048 |
+| Unlocked Potential | 9.00% | ~3,920 |
+| Tinkerer | 7.00% | ~3,049 |
 | Leapfrogger | 6.00% | ~2,613 |
 | Knock 'Em Dead | 6.00% | ~2,613 |
 | Pilgrimage: Initiate | 6.00% | ~2,613 |
 | Hell of a Run | 6.00% | ~2,613 |
 | Call of the Fount: Baptized | 6.00% | ~2,613 |
-| No Mercy | 5.00% | ~2,177 |
-| Explorer: Seeker | 5.00% | ~2,177 |
+| No Mercy | 5.00% | ~2,178 |
+| Explorer: Seeker | 5.00% | ~2,178 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,742 |
 | Stuck | 4.00% | ~1,742 |
 | Help Me Out Here | 4.00% | ~1,742 |
-| Outdoorsperson | 3.00% | ~1,306 |
-| The Interloper | 3.00% | ~1,306 |
-| Hop, Step, Jump | 3.00% | ~1,306 |
-| Endless Runner | 3.00% | ~1,306 |
+| Outdoorsperson | 3.00% | ~1,307 |
+| The Interloper | 3.00% | ~1,307 |
+| Hop, Step, Jump | 3.00% | ~1,307 |
+| Endless Runner | 3.00% | ~1,307 |
 | What Must Be Done | 2.00% | ~871 |
 | Might and Main | 2.00% | ~871 |
 | Damned If You Do... | 2.00% | ~871 |
 | Explorer: Pathfinder | 2.00% | ~871 |
 | Shocker | 2.00% | ~871 |
 | From Every Angle | 2.00% | ~871 |
-| The Hue of Blue | 1.00% | ~435 |
-| The Truth Will Out | 1.00% | ~435 |
-| Breaking Point | 1.00% | ~435 |
-| None the Wiser | 1.00% | ~435 |
-| Forspoken | 1.00% | ~435 |
-| Pilgrimage: Novice | 1.00% | ~435 |
+| The Hue of Blue | 1.00% | ~436 |
+| The Truth Will Out | 1.00% | ~436 |
+| Breaking Point | 1.00% | ~436 |
+| None the Wiser | 1.00% | ~436 |
+| Forspoken | 1.00% | ~436 |
+| Pilgrimage: Novice | 1.00% | ~436 |
 | Wildfire | 0.70% | ~305 |
 | Realized Potential | 0.70% | ~305 |
 | Awakening | 0.60% | ~261 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 971)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,549 (Ranked 119)  
+Progressed: 43,553 (Ranked 119)  
 Completed: 3 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 3 (0.01%) (Ranked 348)
 | 2023-12-08 | 43,450 | 3 |
 | 2023-12-09 | 43,486 | 3 |
 | 2023-12-10 | 43,521 | 3 |
-| 2023-12-11 | 43,549 | 3 |
+| 2023-12-11 | 43,553 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 502)  
 Sum: 29 (Ranked 518)  

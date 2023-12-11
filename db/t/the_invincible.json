@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1680,9 +1680,9 @@
       "ID": "AchvEvacuate",
       "SetID": "1hj060c",
       "Name": "Evacuation",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 93
+      "UsersEstimate": 99
     },
     {
       "ID": "AchvInvShip",
@@ -1776,9 +1776,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 329
     },
     {
       "ID": "AchvReachCity",
@@ -1816,9 +1816,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 175
+      "UsersEstimate": 181
     },
     {
       "ID": "AchvUnity",
@@ -1839,8 +1839,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-11T20:08:36.5699825+00:00",
+  "LastChanged_Achievements": "2023-12-11T21:08:26.5406832+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.1415487+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:57:46.9371964+00:00",
-  "LastUpdate_Achievements": "2023-12-11T20:08:36.5700079+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:57:58.5789188+00:00",
+  "LastUpdate_Achievements": "2023-12-11T21:08:26.5407086+00:00"
 }

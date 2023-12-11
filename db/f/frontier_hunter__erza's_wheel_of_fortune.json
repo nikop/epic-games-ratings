@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 593,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2014,9 +2014,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 463
+      "UsersEstimate": 468
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2038,9 +2038,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "7pimpda",
       "Name": "Beginner Cook",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -2246,9 +2246,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 320
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2295,8 +2295,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-11T20:08:16.8298059+00:00",
+  "LastChanged_Achievements": "2023-12-11T21:08:07.1399534+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:59:40.6244458+00:00",
-  "LastUpdate_Achievements": "2023-12-11T20:08:16.8298436+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:59:52.6859535+00:00",
+  "LastUpdate_Achievements": "2023-12-11T21:08:07.1399945+00:00"
 }

@@ -18,20 +18,20 @@ Rating: 4.75 (Ranked 148)
 | Familiar Face | 0.50% | ~1,193 |
 | Boss'n Up | 0.50% | ~1,193 |
 | Trait Chaser | 0.50% | ~1,193 |
-| Am I Seeing This? | 0.40% | ~954 |
-| Chaos | 0.40% | ~954 |
-| Power Surge | 0.40% | ~954 |
-| Equal Measures | 0.40% | ~954 |
-| Blue Goddess | 0.40% | ~954 |
-| Duality | 0.40% | ~954 |
-| Top Performer | 0.40% | ~954 |
-| Shhh...It's a Secret | 0.40% | ~954 |
-| Was This Supposed To Happen? | 0.40% | ~954 |
-| Scrap Collector | 0.40% | ~954 |
-| All These Traits� | 0.40% | ~954 |
-| Almost There | 0.40% | ~954 |
-| Make Some Room | 0.40% | ~954 |
-| Good, But Could Be Better! | 0.40% | ~954 |
+| Am I Seeing This? | 0.40% | ~955 |
+| Chaos | 0.40% | ~955 |
+| Power Surge | 0.40% | ~955 |
+| Equal Measures | 0.40% | ~955 |
+| Blue Goddess | 0.40% | ~955 |
+| Duality | 0.40% | ~955 |
+| Top Performer | 0.40% | ~955 |
+| Shhh...It's a Secret | 0.40% | ~955 |
+| Was This Supposed To Happen? | 0.40% | ~955 |
+| Scrap Collector | 0.40% | ~955 |
+| All These Traits� | 0.40% | ~955 |
+| Almost There | 0.40% | ~955 |
+| Make Some Room | 0.40% | ~955 |
+| Good, But Could Be Better! | 0.40% | ~955 |
 | Ghost in the Machine | 0.30% | ~716 |
 | Traitor | 0.30% | ~716 |
 | Forever is a Long Time Coming | 0.30% | ~716 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | You Shall Pass | 0.20% | ~36 |
 | A Foul Feast | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,605 (Ranked 66)  
+Progressed: 238,631 (Ranked 66)  
 Completed: 579 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 579 (0.24%) (Ranked 251)
 | 2023-12-08 | 237,044 | 572 |
 | 2023-12-09 | 237,633 | 573 |
 | 2023-12-10 | 238,247 | 577 |
-| 2023-12-11 | 238,605 | 579 |
+| 2023-12-11 | 238,631 | 579 |
 ## Awards
 Max (Great Boss Battles): 2,717  (Ranked 102)  
 Sum: 6,786 (Ranked 126)  

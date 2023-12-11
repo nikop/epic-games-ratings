@@ -73,6 +73,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Soul Stash | 0.20% | ~482 |
 | Berzerker | 0.20% | ~482 |
 | Juggernaut | 0.20% | ~482 |
+| Gigantic | 0.20% | ~482 |
 | Clearing The Room | 0.20% | ~482 |
 | Path To Enlightenment | 0.20% | ~482 |
 | Decisions, Decisions | 0.20% | ~482 |
@@ -99,7 +100,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Powerful Potion | 0.10% | ~241 |
 | For Science | 0.10% | ~241 |
 | Willing the World | 0.10% | ~241 |
-| Gigantic | 0.10% | ~241 |
 | Power Score | 0.10% | ~241 |
 | Predator | 0.10% | ~241 |
 | Here Comes The Airplane | 0.10% | ~241 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,896 (Ranked 64)  
+Progressed: 240,898 (Ranked 64)  
 Completed: 294 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 294 (0.12%) (Ranked 283)
 | 2023-12-08 | 240,784 | 292 |
 | 2023-12-09 | 240,828 | 293 |
 | 2023-12-10 | 240,862 | 293 |
-| 2023-12-11 | 240,896 | 294 |
+| 2023-12-11 | 240,898 | 294 |
 ## Awards
 Max (Quickly Understood Controls): 1,507  (Ranked 134)  
 Sum: 11,723 (Ranked 85)  

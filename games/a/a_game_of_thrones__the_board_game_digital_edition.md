@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~12,067 |
-| Battering Crew | 20.00% | ~6,034 |
-| The Kingsroad | 18.00% | ~5,430 |
-| Well Stocked | 14.00% | ~4,224 |
-| Royal Fleet | 13.00% | ~3,922 |
-| The Kraken’s Grasp | 9.00% | ~2,715 |
-| Daggers in the Dark | 8.00% | ~2,413 |
-| Alliance | 8.00% | ~2,413 |
-| A Long Journey | 8.00% | ~2,413 |
+| Conqueror | 40.00% | ~12,071 |
+| Battering Crew | 20.00% | ~6,035 |
+| The Kingsroad | 18.00% | ~5,432 |
+| Well Stocked | 14.00% | ~4,225 |
+| Royal Fleet | 13.00% | ~3,923 |
+| The Kraken’s Grasp | 9.00% | ~2,716 |
+| Daggers in the Dark | 8.00% | ~2,414 |
+| Alliance | 8.00% | ~2,414 |
+| A Long Journey | 8.00% | ~2,414 |
 | Winter is Coming | 7.00% | ~2,112 |
 | Oathkeeper | 7.00% | ~2,112 |
 | Influential | 7.00% | ~2,112 |
-| Ours is the Fury | 6.00% | ~1,810 |
-| We Do Not Sow | 6.00% | ~1,810 |
-| Defender of the Wall | 6.00% | ~1,810 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,508 |
-| Growing Strong | 5.00% | ~1,508 |
-| Hear me Roar! | 5.00% | ~1,508 |
+| Ours is the Fury | 6.00% | ~1,811 |
+| We Do Not Sow | 6.00% | ~1,811 |
+| Defender of the Wall | 6.00% | ~1,811 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,509 |
+| Growing Strong | 5.00% | ~1,509 |
+| Hear me Roar! | 5.00% | ~1,509 |
 | What is Dead may Never Die | 3.00% | ~905 |
 | The Swift | 3.00% | ~905 |
-| King in the North | 2.00% | ~603 |
+| King in the North | 2.00% | ~604 |
 | War of the Five Kings | 1.00% | ~302 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,168 (Ranked 126)  
+Progressed: 30,177 (Ranked 126)  
 Completed: 83 (0.28%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 83 (0.28%) (Ranked 245)
 | 2023-12-08 | 29,953 | 82 |
 | 2023-12-09 | 30,040 | 83 |
 | 2023-12-10 | 30,124 | 83 |
-| 2023-12-11 | 30,168 | 83 |
+| 2023-12-11 | 30,177 | 83 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 337)  
 Sum: 801 (Ranked 284)  

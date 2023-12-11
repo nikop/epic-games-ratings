@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5737,9 +5737,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 253873,
+  "EOS_Progressed": 253875,
   "EOS_Completed": 901,
-  "EOS_NewPlayers": 826,
+  "EOS_NewPlayers": 827,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -31377,6 +31377,11 @@
       "Time": "2023-12-11T20:09:16.0449913+00:00",
       "NumProgressed": 253873,
       "NumCompleted": 901
+    },
+    {
+      "Time": "2023-12-11T21:09:06.5696056+00:00",
+      "NumProgressed": 253875,
+      "NumCompleted": 901
     }
   ],
   "TotalAchievements": 39,
@@ -31388,7 +31393,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 63468
+      "UsersEstimate": 63469
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -31396,7 +31401,7 @@
       "Name": "Cannibanana",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5077
+      "UsersEstimate": 5078
     },
     {
       "ID": "AchievementBatGoatID",
@@ -31444,7 +31449,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 66007
+      "UsersEstimate": 66008
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -31452,7 +31457,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 231024
+      "UsersEstimate": 231026
     },
     {
       "ID": "AchievementClownID",
@@ -31460,7 +31465,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 43158
+      "UsersEstimate": 43159
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -31476,7 +31481,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 71084
+      "UsersEstimate": 71085
     },
     {
       "ID": "AchievementEggID",
@@ -31500,7 +31505,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 83778
+      "UsersEstimate": 83779
     },
     {
       "ID": "AchievementGoatID",
@@ -31508,7 +31513,7 @@
       "Name": "G.O.A.T",
       "Percentage": 0.4,
       "XP": 120,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "AchievementGoatQueenID",
@@ -31516,7 +31521,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 134553
+      "UsersEstimate": 134554
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -31548,7 +31553,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 114243
+      "UsersEstimate": 114244
     },
     {
       "ID": "AchievementIntroID",
@@ -31556,7 +31561,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 144708
+      "UsersEstimate": 144709
     },
     {
       "ID": "AchievementLootBoxID",
@@ -31596,7 +31601,7 @@
       "Name": "Daredevil",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5077
+      "UsersEstimate": 5078
     },
     {
       "ID": "AchievementRedactedID",
@@ -31620,7 +31625,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 187866
+      "UsersEstimate": 187868
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -31636,7 +31641,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 129475
+      "UsersEstimate": 129476
     },
     {
       "ID": "AchievementStreakingID",
@@ -31660,7 +31665,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 139630
+      "UsersEstimate": 139631
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -31668,7 +31673,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 119320
+      "UsersEstimate": 119321
     },
     {
       "ID": "AchievementTrinketID",
@@ -31684,7 +31689,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 165017
+      "UsersEstimate": 165019
     },
     {
       "ID": "AchievementWhaleID",
@@ -31699,7 +31704,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 253873,
+      "Progressed": 253875,
       "Completed": 901
     }
   ],
@@ -31707,8 +31712,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-12-11T17:58:00.2497959+00:00",
-  "LastChanged_Achievements": "2023-12-11T20:09:16.0449911+00:00",
+  "LastChanged_Achievements": "2023-12-11T21:09:06.5696051+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:59.5237496+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:57:46.9977824+00:00",
-  "LastUpdate_Achievements": "2023-12-11T20:09:16.0452093+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:57:58.5869321+00:00",
+  "LastUpdate_Achievements": "2023-12-11T21:09:06.5697224+00:00"
 }

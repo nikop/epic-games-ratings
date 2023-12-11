@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -1133,9 +1133,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_10",
@@ -1317,9 +1317,9 @@
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_34",
@@ -1364,8 +1364,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-11T20:09:16.1063241+00:00",
+  "LastChanged_Achievements": "2023-12-11T21:09:06.6432977+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:12.3755943+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:59:31.7300988+00:00",
-  "LastUpdate_Achievements": "2023-12-11T20:09:16.1063555+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:59:43.6478802+00:00",
+  "LastUpdate_Achievements": "2023-12-11T21:09:06.6433249+00:00"
 }

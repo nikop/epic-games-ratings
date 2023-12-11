@@ -6,21 +6,21 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,232 |
-| Alt+F4 | 9.00% | ~21,808 |
+| Sowwy! | 36.00% | ~87,234 |
+| Alt+F4 | 9.00% | ~21,809 |
 | Where's that freaking Dwarf? | 8.00% | ~19,385 |
 | Déjà vu | 7.00% | ~16,962 |
 | A beer, two curses, three companions | 5.00% | ~12,116 |
 | Sock! SOCK! | 5.00% | ~12,116 |
 | GG EZ | 5.00% | ~12,116 |
 | Speedrun | 5.00% | ~12,116 |
-| DM intervention | 4.00% | ~9,692 |
-| Fireproof Wizardess | 4.00% | ~9,692 |
-| Livin' in a dwarven paradise | 3.00% | ~7,269 |
-| Way of the Wimp | 3.00% | ~7,269 |
-| The plot thickens... At the tavern | 3.00% | ~7,269 |
-| The demons' feast | 3.00% | ~7,269 |
-| The Woman in the High Castle | 3.00% | ~7,269 |
+| DM intervention | 4.00% | ~9,693 |
+| Fireproof Wizardess | 4.00% | ~9,693 |
+| Livin' in a dwarven paradise | 3.00% | ~7,270 |
+| Way of the Wimp | 3.00% | ~7,270 |
+| The plot thickens... At the tavern | 3.00% | ~7,270 |
+| The demons' feast | 3.00% | ~7,270 |
+| The Woman in the High Castle | 3.00% | ~7,270 |
 | Shiny and Crôm | 2.00% | ~4,846 |
 | The Great Library | 2.00% | ~4,846 |
 | Torture and Sensibility | 2.00% | ~4,846 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,423 |
 | In Navalu's footsteps | 0.90% | ~2,181 |
 | Lëgal Legend | 0.90% | ~2,181 |
-| We come in peace | 0.80% | ~1,938 |
+| We come in peace | 0.80% | ~1,939 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,696 |
 | Holistic Adventuring Party | 0.60% | ~1,454 |
 | Law and Order | 0.60% | ~1,454 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,310 (Ranked 63)  
+Progressed: 242,317 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-08 | 241,827 | 7 |
 | 2023-12-09 | 242,023 | 7 |
 | 2023-12-10 | 242,215 | 7 |
-| 2023-12-11 | 242,310 | 7 |
+| 2023-12-11 | 242,317 | 7 |
 ## Awards
 Max (Character Customization): 245  (Ranked 272)  
 Sum: 497 (Ranked 328)  

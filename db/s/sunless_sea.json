@@ -772,9 +772,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 42063,
+  "EOS_Progressed": 42064,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24722,6 +24722,11 @@
       "Time": "2023-12-11T20:03:24.1744551+00:00",
       "NumProgressed": 42063,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-11T21:03:16.591532+00:00",
+      "NumProgressed": 42064,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -25085,7 +25090,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7571
+      "UsersEstimate": 7572
     },
     {
       "ID": "ach_terror100",
@@ -25101,7 +25106,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6309
+      "UsersEstimate": 6310
     },
     {
       "ID": "ach_undercurrent",
@@ -25164,15 +25169,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 42063,
+      "Progressed": 42064,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-05T21:58:32.7550379+00:00",
-  "LastChanged_Achievements": "2023-12-11T20:03:24.1744547+00:00",
+  "LastChanged_Achievements": "2023-12-11T21:03:16.5915316+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:24.6930369+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:57:45.9311347+00:00",
-  "LastUpdate_Achievements": "2023-12-11T20:03:24.1745915+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:57:57.5179014+00:00",
+  "LastUpdate_Achievements": "2023-12-11T21:03:16.5916507+00:00"
 }

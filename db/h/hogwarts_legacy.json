@@ -11855,7 +11855,7 @@
   ],
   "EOS_Progressed": 304215,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -37286,9 +37286,9 @@
       "ID": "PFA_35",
       "SetID": "1hf4dep",
       "Name": "Followed the Butterflies",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 30422
+      "UsersEstimate": 33464
     },
     {
       "ID": "PFA_36",
@@ -37431,8 +37431,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-11T19:00:49.4646769+00:00",
-  "LastChanged_Achievements": "2023-12-11T20:04:56.1110858+00:00",
+  "LastChanged_Achievements": "2023-12-11T21:04:48.5557774+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:59:15.7289578+00:00",
-  "LastUpdate_Achievements": "2023-12-11T20:04:56.1112317+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:59:27.3326166+00:00",
+  "LastUpdate_Achievements": "2023-12-11T21:04:48.5559059+00:00"
 }

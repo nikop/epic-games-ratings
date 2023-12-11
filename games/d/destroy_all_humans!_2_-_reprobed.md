@@ -12,7 +12,7 @@ Number of Ratings: 90  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 31.00% | ~11 |
 | Shop Til They Drop | 28.00% | ~10 |
 | I Look Up As I Walk to Takoshima | 22.00% | ~8 |
-| Upgreatest | 19.00% | ~7 |
+| Upgreatest | 22.00% | ~8 |
 | Earthly Pleasures | 17.00% | ~6 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 14.00% | ~5 |
 | Pimp My Raid | 14.00% | ~5 |

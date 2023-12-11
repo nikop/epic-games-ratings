@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9582,9 +9582,9 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126193,
+  "EOS_Progressed": 126211,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34552,6 +34552,11 @@
       "Time": "2023-12-11T20:08:20.2762999+00:00",
       "NumProgressed": 126193,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-11T21:08:10.4831556+00:00",
+      "NumProgressed": 126211,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34601,9 +34606,9 @@
       "ID": "altar_of_hope_unlock_hero_hellion",
       "SetID": "64l4lke",
       "Name": "Unleash Hell",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -34641,9 +34646,9 @@
       "ID": "altar_of_hope_unlock_hero_vestal",
       "SetID": "64l4lke",
       "Name": "Unfulfilled Desires",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -34713,9 +34718,9 @@
       "ID": "combat_kill_death",
       "SetID": "64l4lke",
       "Name": "Not Today!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 505
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -34761,9 +34766,9 @@
       "ID": "combat_kill_harvest_child",
       "SetID": "64l4lke",
       "Name": "Meat and Greet",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 505
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -34785,9 +34790,9 @@
       "ID": "combat_kill_librarian",
       "SetID": "64l4lke",
       "Name": "Overdue Notice",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 505
     },
     {
       "ID": "combat_kill_pillagers",
@@ -34857,9 +34862,9 @@
       "ID": "driving_biome_clear_city",
       "SetID": "64l4lke",
       "Name": "Rush Hour",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -34881,9 +34886,9 @@
       "ID": "driving_biome_clear_forest",
       "SetID": "64l4lke",
       "Name": "To Grandmother\u0027s House",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 252
     },
     {
       "ID": "driving_distance_easy",
@@ -35105,9 +35110,9 @@
       "ID": "combat_kill_collector",
       "SetID": "d3bcpc8",
       "Name": "This guy... again?",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35177,9 +35182,9 @@
       "ID": "run_victory_any_ves_pd_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "For Old Time\u0027 Sake",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -35194,21 +35199,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126193,
+      "Progressed": 126211,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1062,
+      "Progressed": 1080,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-11T19:58:09.4753037+00:00",
-  "LastChanged_Achievements": "2023-12-11T20:08:20.2762996+00:00",
+  "LastChanged_Achievements": "2023-12-11T21:08:10.4831552+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:58:09.4753044+00:00",
-  "LastUpdate_Achievements": "2023-12-11T20:08:20.2764823+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:58:21.0886094+00:00",
+  "LastUpdate_Achievements": "2023-12-11T21:08:10.483298+00:00"
 }

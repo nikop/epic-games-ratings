@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -591,9 +591,9 @@
       "ID": "CULT",
       "SetID": "40o4f14",
       "Name": "Dragon Cult",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "DISCIPLE",
@@ -671,9 +671,9 @@
       "ID": "LIBERATOR",
       "SetID": "40o4f14",
       "Name": "Liberator",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "LIBRARY",
@@ -775,9 +775,9 @@
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "WASHING",
@@ -791,17 +791,17 @@
       "ID": "WITCH",
       "SetID": "40o4f14",
       "Name": "Resurrection",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "WYVERN",
       "SetID": "40o4f14",
       "Name": "Winged creature",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
@@ -814,8 +814,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-11T20:06:06.2392106+00:00",
+  "LastChanged_Achievements": "2023-12-11T21:05:58.7304417+00:00",
   "LastUpdate_AppInfo": "2023-12-07T01:44:48.8320018+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:56:58.5503093+00:00",
-  "LastUpdate_Achievements": "2023-12-11T20:06:06.2392376+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:57:08.3735235+00:00",
+  "LastUpdate_Achievements": "2023-12-11T21:05:58.7304647+00:00"
 }

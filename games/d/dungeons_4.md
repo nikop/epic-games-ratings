@@ -37,13 +37,13 @@
 | Master of the Undead | 34.00% | ~185 |
 | If Looks Could Kill | 31.00% | ~168 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~157 |
+| The Finitude Drill | 29.00% | ~157 |
 | Forbidden Knowledge | 28.00% | ~152 |
-| The Finitude Drill | 28.00% | ~152 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~147 |
 | Hungry, Hungry Gorgu! | 26.00% | ~141 |
 | Stop Tanos! | 26.00% | ~141 |
 | Doom Hill | 26.00% | ~141 |
-| Brimstone Shaken, Not Stirred | 24.00% | ~130 |
+| Brimstone Shaken, Not Stirred | 25.00% | ~136 |
 | Sabotage! | 23.00% | ~125 |
 | Bonus Evilness | 22.00% | ~119 |
 | Raiders of the Lost Stone | 22.00% | ~119 |
@@ -58,7 +58,7 @@
 | To the Max! | 16.00% | ~87 |
 | Evilification | 15.00% | ~81 |
 | Mirror, Mirror | 14.00% | ~76 |
-| Untouchable | 13.00% | ~71 |
+| Untouchable | 14.00% | ~76 |
 | Heal Heal Blessing | 12.00% | ~65 |
 | Laser Eyes Are So Useless | 11.00% | ~60 |
 | Hands Off My Stones | 11.00% | ~60 |

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1672,
+  "EOS_Progressed": 1673,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5014,6 +5014,11 @@
       "Time": "2023-12-11T19:10:36.6629557+00:00",
       "NumProgressed": 1672,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-11T21:09:10.4609513+00:00",
+      "NumProgressed": 1673,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5088,9 +5093,9 @@
       "ID": "achievement_17",
       "SetID": "271ol84",
       "Name": "\u0022Gonk? Gonk!\u0022",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_18",
@@ -5242,7 +5247,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_35",
@@ -5250,7 +5255,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "achievement_36",
@@ -5274,7 +5279,7 @@
       "Name": "Survivor",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_39",
@@ -5529,13 +5534,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1672,
+      "Progressed": 1673,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1672,
+      "Progressed": 1673,
       "Completed": 1
     }
   ],
@@ -5543,8 +5548,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-11T20:09:19.8888476+00:00",
+  "LastChanged_Achievements": "2023-12-11T21:09:10.4609509+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:59:54.9368149+00:00",
-  "LastUpdate_Achievements": "2023-12-11T20:09:19.8889186+00:00"
+  "LastUpdate_Ratings": "2023-12-11T21:00:05.6936922+00:00",
+  "LastUpdate_Achievements": "2023-12-11T21:09:10.4610103+00:00"
 }

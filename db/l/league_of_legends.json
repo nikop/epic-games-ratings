@@ -3,11 +3,11 @@
   "Name": "League of Legends",
   "ProductSlug": "league-of-legends",
   "Ranking_Rating": 915,
-  "Ranking_Popularity": 78,
+  "Ranking_Popularity": 76,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
@@ -11401,11 +11401,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 22095,
       "NumberOfAwardsMax": 4736
+    },
+    {
+      "Time": "2023-12-11T20:57:40.8895721+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 22123,
+      "NumberOfAwardsMax": 4751
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22095,
-  "NumberOfAwardsMax": 4736,
+  "NumberOfAwards": 22123,
+  "NumberOfAwardsMax": 4751,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -11418,7 +11424,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4736
+      "Count": 4751
     },
     {
       "Text": "This game has Challenging Combat",
@@ -11430,7 +11436,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3512
+      "Count": 3518
     },
     {
       "Text": "This game has Competitive Players",
@@ -11442,7 +11448,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 3306
+      "Count": 3313
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11474,8 +11480,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2023-12-11T18:58:05.1788968+00:00",
+  "LastChanged": "2023-12-11T20:57:40.8895718+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:18.6295515+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:57:29.9132669+00:00",
-  "LastUpdate_Achievements": "2023-12-11T20:05:17.5410373+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:57:40.8895725+00:00",
+  "LastUpdate_Achievements": "2023-12-11T21:05:09.8440683+00:00"
 }

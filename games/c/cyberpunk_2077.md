@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,961 |
-| Gun Fu | 7.00% | ~68,227 |
-| The Fool | 6.00% | ~58,480 |
+| V for Vendetta | 12.00% | ~116,962 |
+| Gun Fu | 7.00% | ~68,228 |
+| The Fool | 6.00% | ~58,481 |
 | Right Back At Ya | 5.00% | ~48,734 |
 | The Lovers | 5.00% | ~48,734 |
 | Full Body Conversion | 4.00% | ~38,987 |
@@ -20,14 +20,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | Relic Ruler | 3.00% | ~3,099 |
 | All the President's Men | 3.00% | ~3,099 |
 | Arachnophobia | 3.00% | ~3,099 |
-| Bushido and Chill | 2.00% | ~19,493 |
-| Master Crafter | 2.00% | ~19,493 |
-| The Quick and the Dead | 2.00% | ~19,493 |
-| Life of the Road | 2.00% | ~19,493 |
-| The High Priestess | 2.00% | ~19,493 |
-| The World | 2.00% | ~19,493 |
-| True Warrior | 2.00% | ~19,493 |
-| Legend of The Afterlife | 2.00% | ~19,493 |
+| Bushido and Chill | 2.00% | ~19,494 |
+| Master Crafter | 2.00% | ~19,494 |
+| The Quick and the Dead | 2.00% | ~19,494 |
+| Life of the Road | 2.00% | ~19,494 |
+| The High Priestess | 2.00% | ~19,494 |
+| The World | 2.00% | ~19,494 |
+| True Warrior | 2.00% | ~19,494 |
+| Legend of The Afterlife | 2.00% | ~19,494 |
 | To Protect and Serve | 1.00% | ~9,747 |
 | I Am The Law | 1.00% | ~9,747 |
 | Two Heads, One Bullet | 1.00% | ~9,747 |
@@ -43,9 +43,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Star | 0.60% | ~5,848 |
 | Autojock | 0.50% | ~4,873 |
 | Breathtaking | 0.50% | ~4,873 |
-| Judgement Day | 0.50% | ~516 |
-| King of Swords | 0.50% | ~516 |
-| The Tower | 0.50% | ~516 |
+| Judgement Day | 0.50% | ~517 |
+| King of Swords | 0.50% | ~517 |
+| The Tower | 0.50% | ~517 |
 | Must Be Rats | 0.40% | ~3,899 |
 | Temperance | 0.40% | ~3,899 |
 | The APB is Not Enough | 0.40% | ~413 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974,671 (Ranked 15)  
+Progressed: 974,683 (Ranked 15)  
 Completed: 2,885 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 2,885 (0.30%) (Ranked 240)
 | 2023-12-08 | 972,634 | 2,860 |
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
-| 2023-12-11 | 974,671 | 2,885 |
+| 2023-12-11 | 974,683 | 2,885 |
 ## Awards
 Max (Character Customization): 121,434  (Ranked 9)  
 Sum: 411,071 (Ranked 9)  

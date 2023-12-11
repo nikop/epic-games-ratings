@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -996,9 +996,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229152,
+  "EOS_Progressed": 229159,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 515,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26716,6 +26716,11 @@
       "Time": "2023-12-11T20:09:13.9507531+00:00",
       "NumProgressed": 229152,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-11T21:09:04.3224763+00:00",
+      "NumProgressed": 229159,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -26727,7 +26732,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45830
+      "UsersEstimate": 45832
     },
     {
       "ID": "ACH_BASE_10",
@@ -26735,7 +26740,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59580
+      "UsersEstimate": 59581
     },
     {
       "ID": "ACH_BASE_11",
@@ -26775,7 +26780,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22915
+      "UsersEstimate": 22916
     },
     {
       "ID": "ACH_BASE_17",
@@ -26791,7 +26796,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22915
+      "UsersEstimate": 22916
     },
     {
       "ID": "ACH_BASE_19",
@@ -26807,7 +26812,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13749
+      "UsersEstimate": 13750
     },
     {
       "ID": "ACH_BASE_20",
@@ -26975,7 +26980,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 29790
+      "UsersEstimate": 29791
     },
     {
       "ID": "ACH_BASE_8",
@@ -26998,7 +27003,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229152,
+      "Progressed": 229159,
       "Completed": 5
     }
   ],
@@ -27006,8 +27011,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-10T17:59:51.7841007+00:00",
-  "LastChanged_Achievements": "2023-12-11T20:09:13.9507528+00:00",
+  "LastChanged_Achievements": "2023-12-11T21:09:04.3224758+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.549712+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:59:51.2656545+00:00",
-  "LastUpdate_Achievements": "2023-12-11T20:09:13.9509316+00:00"
+  "LastUpdate_Ratings": "2023-12-11T21:00:02.6961096+00:00",
+  "LastUpdate_Achievements": "2023-12-11T21:09:04.3225976+00:00"
 }

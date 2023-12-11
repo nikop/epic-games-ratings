@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -731,9 +731,9 @@
       "Count": 118
     }
   ],
-  "EOS_Progressed": 2228,
+  "EOS_Progressed": 2229,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -7001,6 +7001,11 @@
       "Time": "2023-12-11T20:08:35.8099666+00:00",
       "NumProgressed": 2228,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-11T21:08:25.8402371+00:00",
+      "NumProgressed": 2229,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -7013,7 +7018,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "achievement_10",
@@ -7029,7 +7034,7 @@
       "Name": "Betrayed",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "achievement_12",
@@ -7045,7 +7050,7 @@
       "Name": "Final Regeneration",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "achievement_14",
@@ -7053,7 +7058,7 @@
       "Name": "Whole Again",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "achievement_15",
@@ -7061,7 +7066,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "achievement_16",
@@ -7101,7 +7106,7 @@
       "Name": "Lab Rat",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "achievement_20",
@@ -7125,7 +7130,7 @@
       "Name": "A Cut Above",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "achievement_23",
@@ -7133,7 +7138,7 @@
       "Name": "Pusher",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "achievement_24",
@@ -7141,7 +7146,7 @@
       "Name": "Eviscerator",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_25",
@@ -7173,7 +7178,7 @@
       "Name": "Story Teller",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "achievement_29",
@@ -7205,7 +7210,7 @@
       "Name": "Marksman",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "achievement_32",
@@ -7213,7 +7218,7 @@
       "Name": "Surgeon",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1204
     },
     {
       "ID": "achievement_33",
@@ -7269,7 +7274,7 @@
       "Name": "Z-Baller",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "achievement_4",
@@ -7349,7 +7354,7 @@
       "Name": "True Believer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "achievement_6",
@@ -7365,7 +7370,7 @@
       "Name": "S.O.S.",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "achievement_8",
@@ -7381,14 +7386,14 @@
       "Name": "Wreckage",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 2228,
+      "Progressed": 2229,
       "Completed": 14
     }
   ],
@@ -7396,8 +7401,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-12-06T16:57:59.3139948+00:00",
-  "LastChanged_Achievements": "2023-12-11T20:08:35.8099663+00:00",
+  "LastChanged_Achievements": "2023-12-11T21:08:25.8402368+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.7137254+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:56:58.2146011+00:00",
-  "LastUpdate_Achievements": "2023-12-11T20:08:35.8100464+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:57:08.0850355+00:00",
+  "LastUpdate_Achievements": "2023-12-11T21:08:25.8403046+00:00"
 }

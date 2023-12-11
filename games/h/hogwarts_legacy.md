@@ -19,7 +19,7 @@ Rating: 4.76 (Ranked 129)
 | The One Who Mastered Memories | 11.00% | ~33,464 |
 | The Hero of Hogwarts | 11.00% | ~33,464 |
 | Challenge Accepted | 11.00% | ~33,464 |
-| Followed the Butterflies | 10.00% | ~30,422 |
+| Followed the Butterflies | 11.00% | ~33,464 |
 | Rising From the Ashes | 10.00% | ~30,422 |
 | The Avenging Gazelle | 9.00% | ~27,379 |
 | A Sallow Grave | 9.00% | ~27,379 |

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,488 |
+| New Recruit | 89.00% | ~1,489 |
 | Off to a good start | 66.00% | ~1,104 |
 | Do... or do not. There is no try | 51.00% | ~853 |
 | A good blaster at your side | 30.00% | ~502 |
@@ -17,15 +17,15 @@
 | Collector | 14.00% | ~234 |
 | Together we can rule the galaxy | 13.00% | ~217 |
 | Tell Jabba that I've got his money | 10.00% | ~167 |
-| Best star-pilot in the galaxy | 9.00% | ~150 |
-| Survivor | 9.00% | ~150 |
+| Best star-pilot in the galaxy | 9.00% | ~151 |
+| Survivor | 9.00% | ~151 |
 | Never tell me the odds! | 8.00% | ~134 |
 | A cunning warrior | 8.00% | ~134 |
 | What's the cargo? | 7.00% | ~117 |
-| "Gonk? Gonk!" | 6.00% | ~100 |
 | Impressive. Most impressive. | 6.00% | ~100 |
 | Judge me by my size, do you? | 6.00% | ~100 |
 | Support the troops | 6.00% | ~100 |
+| "Gonk? Gonk!" | 5.00% | ~84 |
 | Distinguished | 5.00% | ~84 |
 | A tremor in the Force | 5.00% | ~84 |
 | Safety ain't the point of a joyride | 4.00% | ~67 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,672 (Ranked 240)  
+Progressed: 1,673 (Ranked 240)  
 Completed: 1 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 1 (0.06%) (Ranked 313)
 | 2023-12-08 | 1,621 | 1 |
 | 2023-12-09 | 1,636 | 1 |
 | 2023-12-10 | 1,659 | 1 |
-| 2023-12-11 | 1,672 | 1 |
+| 2023-12-11 | 1,673 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

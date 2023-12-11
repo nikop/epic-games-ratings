@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -3233,9 +3233,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 865
+      "UsersEstimate": 877
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -3505,9 +3505,9 @@
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 5",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 361
+      "UsersEstimate": 373
     },
     {
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
@@ -3778,8 +3778,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-11T20:05:40.4471265+00:00",
+  "LastChanged_Achievements": "2023-12-11T21:05:32.8068694+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-11T19:58:57.0112984+00:00",
-  "LastUpdate_Achievements": "2023-12-11T20:05:40.4472553+00:00"
+  "LastUpdate_Ratings": "2023-12-11T20:59:07.7521195+00:00",
+  "LastUpdate_Achievements": "2023-12-11T21:05:32.8069554+00:00"
 }
