@@ -5,56 +5,56 @@ Rating: 4.76 (Ranked 128)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 68.00% | ~247,672 |
-| The Player Whisperer | 68.00% | ~247,672 |
-| One of Us, One of Us! | 62.00% | ~225,818 |
-| First Victory | 55.00% | ~200,323 |
-| Clean Sheet | 54.00% | ~196,680 |
-| #DoneDeal | 54.00% | ~196,680 |
-| Off the Books | 51.00% | ~185,754 |
-| Super-Sub | 51.00% | ~185,754 |
-| Hat-trick | 46.00% | ~167,543 |
-| Planned Signing | 44.00% | ~160,258 |
-| "I Would Love It If We Beat Them" | 43.00% | ~156,616 |
-| Scoring Streak | 40.00% | ~145,689 |
-| Wheeler Dealer | 40.00% | ~145,689 |
-| Thumping | 39.00% | ~142,047 |
-| People Pleaser | 38.00% | ~138,405 |
-| Unbeatable! | 37.00% | ~134,763 |
-| One Of Our Own | 36.00% | ~131,120 |
-| They're a Natural | 31.00% | ~112,909 |
-| Record Signing | 31.00% | ~112,909 |
-| Team Performance | 30.00% | ~109,267 |
-| Star Player | 29.00% | ~105,625 |
-| The Only Stat That Matters | 29.00% | ~105,625 |
-| Parked The Bus | 27.00% | ~98,340 |
-| Full Faith | 27.00% | ~98,340 |
-| Goal Rush | 27.00% | ~98,340 |
-| The People's Champion | 27.00% | ~98,340 |
-| Squad Goals | 26.00% | ~94,698 |
-| Beating Expectations | 25.00% | ~91,056 |
-| Unstoppable Force | 25.00% | ~91,056 |
-| Record Sale | 25.00% | ~91,056 |
-| You're on Fire | 24.00% | ~87,414 |
-| Tremendous Trio | 24.00% | ~87,414 |
-| On a Roll | 23.00% | ~83,771 |
-| Drilling Down | 23.00% | ~83,771 |
-| Flavour Of The Month | 23.00% | ~83,771 |
-| The Special One | 23.00% | ~83,771 |
-| Shots For Days | 23.00% | ~83,771 |
-| What A Goal! | 22.00% | ~80,129 |
-| Immovable Object | 20.00% | ~72,845 |
-| Goal Machine | 20.00% | ~72,845 |
-| Cup Glory! | 20.00% | ~72,845 |
-| Splashing the Cash | 19.00% | ~69,202 |
-| Irresistible Force | 18.00% | ~65,560 |
+| Motivational Speaker | 68.00% | ~247,675 |
+| The Player Whisperer | 68.00% | ~247,675 |
+| One of Us, One of Us! | 62.00% | ~225,821 |
+| First Victory | 55.00% | ~200,325 |
+| Clean Sheet | 54.00% | ~196,683 |
+| #DoneDeal | 54.00% | ~196,683 |
+| Off the Books | 51.00% | ~185,756 |
+| Super-Sub | 51.00% | ~185,756 |
+| Hat-trick | 46.00% | ~167,545 |
+| Planned Signing | 44.00% | ~160,260 |
+| "I Would Love It If We Beat Them" | 43.00% | ~156,618 |
+| Scoring Streak | 40.00% | ~145,691 |
+| Wheeler Dealer | 40.00% | ~145,691 |
+| Thumping | 39.00% | ~142,049 |
+| People Pleaser | 38.00% | ~138,407 |
+| Unbeatable! | 37.00% | ~134,764 |
+| One Of Our Own | 36.00% | ~131,122 |
+| They're a Natural | 31.00% | ~112,911 |
+| Record Signing | 31.00% | ~112,911 |
+| Team Performance | 30.00% | ~109,268 |
+| Star Player | 29.00% | ~105,626 |
+| The Only Stat That Matters | 29.00% | ~105,626 |
+| Parked The Bus | 27.00% | ~98,342 |
+| Full Faith | 27.00% | ~98,342 |
+| Goal Rush | 27.00% | ~98,342 |
+| The People's Champion | 27.00% | ~98,342 |
+| Squad Goals | 26.00% | ~94,699 |
+| Beating Expectations | 25.00% | ~91,057 |
+| Unstoppable Force | 25.00% | ~91,057 |
+| Record Sale | 25.00% | ~91,057 |
+| You're on Fire | 24.00% | ~87,415 |
+| Tremendous Trio | 24.00% | ~87,415 |
+| On a Roll | 23.00% | ~83,772 |
+| Drilling Down | 23.00% | ~83,772 |
+| Flavour Of The Month | 23.00% | ~83,772 |
+| The Special One | 23.00% | ~83,772 |
+| Shots For Days | 23.00% | ~83,772 |
+| What A Goal! | 22.00% | ~80,130 |
+| Splashing the Cash | 20.00% | ~72,846 |
+| Immovable Object | 20.00% | ~72,846 |
+| Goal Machine | 20.00% | ~72,846 |
+| Cup Glory! | 20.00% | ~72,846 |
+| Irresistible Force | 18.00% | ~65,561 |
 | Do The Double | 16.00% | ~58,276 |
 | Cash to Burn | 16.00% | ~58,276 |
-| Window Shopping | 14.00% | ~50,991 |
-| Top Form | 13.00% | ~47,349 |
-| A Game of Two Halves | 13.00% | ~47,349 |
+| Window Shopping | 14.00% | ~50,992 |
+| Top Form | 13.00% | ~47,350 |
+| A Game of Two Halves | 13.00% | ~47,350 |
 | You're Up! | 12.00% | ~43,707 |
-| Money, Money, Money | 10.00% | ~36,422 |
+| Money, Money, Money | 10.00% | ~36,423 |
 | Clean Sheet Network | 8.00% | ~29,138 |
 | First Goal Network | 8.00% | ~29,138 |
 | First Win Network | 8.00% | ~29,138 |
@@ -64,23 +64,23 @@ Rating: 4.76 (Ranked 128)
 | National Service | 7.00% | ~25,496 |
 | Invincible! | 7.00% | ~25,496 |
 | Domination | 7.00% | ~25,496 |
-| Best in the Business | 6.00% | ~21,853 |
-| Total Support | 6.00% | ~21,853 |
-| Second Hand Signing | 6.00% | ~21,853 |
-| You Can Buy Happiness | 6.00% | ~21,853 |
+| Best in the Business | 6.00% | ~21,854 |
+| Total Support | 6.00% | ~21,854 |
+| Second Hand Signing | 6.00% | ~21,854 |
+| You Can Buy Happiness | 6.00% | ~21,854 |
 | Legend | 4.00% | ~14,569 |
 | Bragging Rights | 4.00% | ~14,569 |
 | World Beaters | 4.00% | ~14,569 |
 | Parked The Tank | 4.00% | ~14,569 |
 | World Renowned | 4.00% | ~14,569 |
 | Invitational | 3.00% | ~10,927 |
-| Cupset Between Friends | 2.00% | ~7,284 |
-| National Hero | 2.00% | ~7,284 |
-| Mini League Champion | 2.00% | ~7,284 |
-| Beat Your Mates | 2.00% | ~7,284 |
-| Trophy Hoarder | 2.00% | ~7,284 |
-| Freedom of the Country | 2.00% | ~7,284 |
-| On Top of the World | 2.00% | ~7,284 |
+| Cupset Between Friends | 2.00% | ~7,285 |
+| National Hero | 2.00% | ~7,285 |
+| Mini League Champion | 2.00% | ~7,285 |
+| Beat Your Mates | 2.00% | ~7,285 |
+| Trophy Hoarder | 2.00% | ~7,285 |
+| Freedom of the Country | 2.00% | ~7,285 |
+| On Top of the World | 2.00% | ~7,285 |
 | Part of the Furniture | 1.00% | ~3,642 |
 | First Goal Versus | 0.80% | ~2,914 |
 | The Greatest | 0.70% | ~2,550 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 128)
 | 200 Club | 0.10% | ~364 |
 | Draft Value | 0.10% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 364,223 (Ranked 48)  
+Progressed: 364,228 (Ranked 48)  
 Completed: 27 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 27 (0.01%) (Ranked 348)
 | 2023-12-08 | 363,693 | 27 |
 | 2023-12-09 | 363,948 | 27 |
 | 2023-12-10 | 364,216 | 27 |
-| 2023-12-11 | 364,223 | 27 |
+| 2023-12-11 | 364,228 | 27 |
 ## Awards
 Max (Diverse Characters): 1,254  (Ranked 140)  
 Sum: 8,701 (Ranked 99)  

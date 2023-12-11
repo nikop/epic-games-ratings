@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -207,9 +207,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7682,
+  "EOS_Progressed": 7683,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -6137,6 +6137,11 @@
       "Time": "2023-12-11T00:10:52.9489803+00:00",
       "NumProgressed": 7682,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-11T01:58:05.8153456+00:00",
+      "NumProgressed": 7683,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6189,7 +6194,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "Eavesdropper",
@@ -6341,7 +6346,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "TheQuarterback",
@@ -6420,7 +6425,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7682,
+      "Progressed": 7683,
       "Completed": 16
     }
   ],
@@ -6428,8 +6433,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-09T07:57:44.7970456+00:00",
-  "LastChanged_Achievements": "2023-12-11T00:10:52.9489797+00:00",
+  "LastChanged_Achievements": "2023-12-11T01:58:05.815345+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-10T23:58:50.2100757+00:00",
-  "LastUpdate_Achievements": "2023-12-11T00:10:52.9490328+00:00"
+  "LastUpdate_Ratings": "2023-12-11T01:46:45.2097628+00:00",
+  "LastUpdate_Achievements": "2023-12-11T01:58:05.8153847+00:00"
 }

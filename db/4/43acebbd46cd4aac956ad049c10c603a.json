@@ -2601,9 +2601,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 93
     },
     {
       "ID": "RemnantsOfThePast",
@@ -2802,8 +2802,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-11T00:05:03.6252385+00:00",
+  "LastChanged_Achievements": "2023-12-11T01:52:51.312234+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-10T23:58:30.0576837+00:00",
-  "LastUpdate_Achievements": "2023-12-11T00:05:03.625304+00:00"
+  "LastUpdate_Ratings": "2023-12-11T01:46:32.1742546+00:00",
+  "LastUpdate_Achievements": "2023-12-11T01:52:51.3122833+00:00"
 }

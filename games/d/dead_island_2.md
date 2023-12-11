@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~21,994 |
-| Whatever It Takes | 3.00% | ~1,760 |
-| Pork Chopped | 3.00% | ~1,760 |
+| Welcome To Hell-A | 3.00% | ~21,995 |
+| Whatever It Takes | 3.00% | ~1,761 |
+| Pork Chopped | 3.00% | ~1,761 |
 | Dr. Reed, I Presume? | 2.00% | ~14,663 |
 | Git Gutte! | 2.00% | ~14,663 |
 | Anger Management | 2.00% | ~14,663 |
@@ -25,18 +25,18 @@ Rating: 4.54 (Ranked 535)
 | Personal Assistant Personally Assisted | 2.00% | ~14,663 |
 | This is My Weapon | 2.00% | ~14,663 |
 | One of Us | 2.00% | ~1,174 |
-| Making Your Mark | 1.00% | ~7,331 |
-| Perks of the Job | 1.00% | ~7,331 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,331 |
-| Slayer Squad | 1.00% | ~7,331 |
-| Zombologist | 1.00% | ~7,331 |
-| Ooh, Shiny! | 1.00% | ~7,331 |
-| A Patton Emerges | 1.00% | ~7,331 |
-| Humanity Distilled | 1.00% | ~7,331 |
-| I Am the Resurrection | 1.00% | ~7,331 |
-| Down with the Sickness | 1.00% | ~7,331 |
-| Max Headroom | 1.00% | ~7,331 |
-| Our True Nature | 1.00% | ~7,331 |
+| Making Your Mark | 1.00% | ~7,332 |
+| Perks of the Job | 1.00% | ~7,332 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,332 |
+| Slayer Squad | 1.00% | ~7,332 |
+| Zombologist | 1.00% | ~7,332 |
+| Ooh, Shiny! | 1.00% | ~7,332 |
+| A Patton Emerges | 1.00% | ~7,332 |
+| Humanity Distilled | 1.00% | ~7,332 |
+| I Am the Resurrection | 1.00% | ~7,332 |
+| Down with the Sickness | 1.00% | ~7,332 |
+| Max Headroom | 1.00% | ~7,332 |
+| Our True Nature | 1.00% | ~7,332 |
 | Not Even My Final Form | 0.80% | ~5,865 |
 | Jumbo Keyring | 0.80% | ~5,865 |
 | Go, Bobcats! | 0.80% | ~5,865 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 535)
 | Bucket List | 0.10% | ~733 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,139 (Ranked 21)  
+Progressed: 733,161 (Ranked 21)  
 Completed: 2,476 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,10 +292,10 @@ Completed: 2,476 (0.34%) (Ranked 234)
 | 2023-12-08 | 731,964 | 2,466 |
 | 2023-12-09 | 732,585 | 2,471 |
 | 2023-12-10 | 733,123 | 2,475 |
-| 2023-12-11 | 733,139 | 2,476 |
+| 2023-12-11 | 733,161 | 2,476 |
 ## Awards
 Max (Great Boss Battles): 8,071  (Ranked 49)  
-Sum: 12,407 (Ranked 82)  
+Sum: 12,409 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -304,7 +304,7 @@ Diff (max vs sum): -33
 | This game has Diverse Characters | 594 |
 | This game has Quickly Understood Controls | 563 |
 | This game is Relaxing | 538 |
-| This game has Amazing Storytelling | 524 |
+| This game has Amazing Storytelling | 526 |
 | This game is Extremely Fun | 510 |
 | This game is Highly Recommended | 506 |
 | This game has Amazing Characters | 472 |
@@ -545,3 +545,4 @@ Diff (max vs sum): -33
 | 2023-12-08 | 4.54 | 8,017 | 12,324 |
 | 2023-12-09 | 4.54 | 8,042 | 12,362 |
 | 2023-12-10 | 4.54 | 8,071 | 12,407 |
+| 2023-12-11 | 4.54 | 8,071 | 12,409 |

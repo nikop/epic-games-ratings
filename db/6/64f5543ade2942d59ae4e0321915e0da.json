@@ -431,9 +431,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "AC_BOSS_01",
@@ -527,9 +527,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -551,17 +551,17 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -702,8 +702,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-11T00:09:23.2548178+00:00",
+  "LastChanged_Achievements": "2023-12-11T01:57:02.3726692+00:00",
   "LastUpdate_AppInfo": "2023-12-05T19:57:20.4442779+00:00",
-  "LastUpdate_Ratings": "2023-12-10T23:59:57.1106494+00:00",
-  "LastUpdate_Achievements": "2023-12-11T00:09:23.2548498+00:00"
+  "LastUpdate_Ratings": "2023-12-11T01:47:29.4867824+00:00",
+  "LastUpdate_Achievements": "2023-12-11T01:57:02.3726925+00:00"
 }

@@ -6,37 +6,37 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~21,732 |
-| It wakes | 2.00% | ~21,732 |
-| Not half bad | 2.00% | ~21,732 |
-| Skillful | 2.00% | ~21,732 |
-| Make Some Noise | 2.00% | ~21,732 |
-| The Grand Sacrifice | 1.00% | ~10,866 |
-| No one left behind | 1.00% | ~10,866 |
-| Medic | 1.00% | ~10,866 |
-| Handyman | 1.00% | ~10,866 |
-| Perfect Escape | 1.00% | ~10,866 |
-| Bloody Millionaire | 1.00% | ~10,866 |
-| Apt Survivor | 1.00% | ~10,866 |
-| Survival Treasures | 1.00% | ~10,866 |
-| I | 1.00% | ~10,866 |
-| Sorted | 1.00% | ~10,866 |
-| Healthy Obsession | 1.00% | ~10,866 |
-| Resurgence | 1.00% | ~10,866 |
-| Preemptive Strike | 1.00% | ~10,866 |
-| Humanitarian | 1.00% | ~10,866 |
-| Agonizing Escape | 0.90% | ~9,779 |
-| Backdoor Escape | 0.90% | ~9,779 |
-| Perfect Killing | 0.90% | ~9,779 |
-| Risk it all | 0.90% | ~9,779 |
-| II | 0.90% | ~9,779 |
-| Close Shave | 0.90% | ~9,779 |
-| I've got your back | 0.80% | ~8,693 |
-| Apt Killer | 0.80% | ~8,693 |
-| Engineer | 0.80% | ~8,693 |
-| Wounded Healer | 0.80% | ~8,693 |
-| Vulture | 0.70% | ~7,606 |
-| III | 0.70% | ~7,606 |
+| Zealous | 2.00% | ~21,735 |
+| It wakes | 2.00% | ~21,735 |
+| Not half bad | 2.00% | ~21,735 |
+| Skillful | 2.00% | ~21,735 |
+| Make Some Noise | 2.00% | ~21,735 |
+| The Grand Sacrifice | 1.00% | ~10,867 |
+| No one left behind | 1.00% | ~10,867 |
+| Medic | 1.00% | ~10,867 |
+| Handyman | 1.00% | ~10,867 |
+| Perfect Escape | 1.00% | ~10,867 |
+| Bloody Millionaire | 1.00% | ~10,867 |
+| Apt Survivor | 1.00% | ~10,867 |
+| Survival Treasures | 1.00% | ~10,867 |
+| I | 1.00% | ~10,867 |
+| Sorted | 1.00% | ~10,867 |
+| Healthy Obsession | 1.00% | ~10,867 |
+| Resurgence | 1.00% | ~10,867 |
+| Preemptive Strike | 1.00% | ~10,867 |
+| Humanitarian | 1.00% | ~10,867 |
+| Agonizing Escape | 0.90% | ~9,781 |
+| Backdoor Escape | 0.90% | ~9,781 |
+| Perfect Killing | 0.90% | ~9,781 |
+| Risk it all | 0.90% | ~9,781 |
+| II | 0.90% | ~9,781 |
+| Engineer | 0.90% | ~9,781 |
+| Close Shave | 0.90% | ~9,781 |
+| I've got your back | 0.80% | ~8,694 |
+| Apt Killer | 0.80% | ~8,694 |
+| Wounded Healer | 0.80% | ~8,694 |
+| Vulture | 0.70% | ~7,607 |
+| III | 0.70% | ~7,607 |
 | Blood on your hands | 0.60% | ~6,520 |
 | Escape Artist | 0.60% | ~6,520 |
 | First to the Punch | 0.60% | ~6,520 |
@@ -46,36 +46,36 @@ Number of Ratings: 70,340  (23.09.2022)
 | Flight to Freedom | 0.60% | ~6,520 |
 | Lifting The Fog | 0.60% | ~6,520 |
 | Second Act | 0.60% | ~6,520 |
-| Nerves of steel | 0.50% | ~5,433 |
-| Gifts for the Fog | 0.50% | ~5,433 |
-| III-50 | 0.50% | ~5,433 |
-| Item of Obsession | 0.50% | ~5,433 |
-| House of Pain | 0.50% | ~5,433 |
-| Holiday Get-Together | 0.50% | ~5,433 |
-| Near-Death Experience | 0.50% | ~5,433 |
-| Cherish your Life | 0.50% | ~5,433 |
-| Unforgettable Getaway | 0.50% | ~5,433 |
-| Cutting Out | 0.50% | ~5,433 |
-| Old West Oasis | 0.50% | ~5,433 |
-| Classy Act | 0.50% | ~5,433 |
-| Raccoon City Recruit | 0.50% | ~5,433 |
-| Chorus of Chaos | 0.50% | ~5,433 |
-| Blood on your face | 0.40% | ~4,346 |
-| Made it out alive! | 0.40% | ~4,346 |
-| Shock Therapy | 0.40% | ~4,346 |
-| All Aboard | 0.40% | ~4,346 |
-| Leapfrog | 0.40% | ~4,346 |
-| Cottage Owner | 0.40% | ~4,346 |
-| Campbell's Chapel Legacy | 0.40% | ~4,346 |
-| Ancestor's Rite | 0.40% | ~4,346 |
-| Outrun Evil | 0.40% | ~4,346 |
-| Grim Pilgrimage | 0.40% | ~4,346 |
-| Outrun the Overlap | 0.40% | ~4,346 |
-| A Fast Death | 0.40% | ~4,346 |
-| Extraterrestrial | 0.40% | ~4,346 |
-| One More Step | 0.40% | ~4,346 |
-| MU/TH/UR Dearest | 0.40% | ~4,346 |
-| Outta Nowhere | 0.40% | ~4,346 |
+| Made it out alive! | 0.50% | ~5,434 |
+| Nerves of steel | 0.50% | ~5,434 |
+| Gifts for the Fog | 0.50% | ~5,434 |
+| III-50 | 0.50% | ~5,434 |
+| Item of Obsession | 0.50% | ~5,434 |
+| House of Pain | 0.50% | ~5,434 |
+| Holiday Get-Together | 0.50% | ~5,434 |
+| Near-Death Experience | 0.50% | ~5,434 |
+| Cherish your Life | 0.50% | ~5,434 |
+| Unforgettable Getaway | 0.50% | ~5,434 |
+| Cutting Out | 0.50% | ~5,434 |
+| Old West Oasis | 0.50% | ~5,434 |
+| Classy Act | 0.50% | ~5,434 |
+| Raccoon City Recruit | 0.50% | ~5,434 |
+| Chorus of Chaos | 0.50% | ~5,434 |
+| Blood on your face | 0.40% | ~4,347 |
+| Shock Therapy | 0.40% | ~4,347 |
+| All Aboard | 0.40% | ~4,347 |
+| Leapfrog | 0.40% | ~4,347 |
+| Cottage Owner | 0.40% | ~4,347 |
+| Campbell's Chapel Legacy | 0.40% | ~4,347 |
+| Ancestor's Rite | 0.40% | ~4,347 |
+| Outrun Evil | 0.40% | ~4,347 |
+| Grim Pilgrimage | 0.40% | ~4,347 |
+| Outrun the Overlap | 0.40% | ~4,347 |
+| A Fast Death | 0.40% | ~4,347 |
+| Extraterrestrial | 0.40% | ~4,347 |
+| One More Step | 0.40% | ~4,347 |
+| MU/TH/UR Dearest | 0.40% | ~4,347 |
+| Outta Nowhere | 0.40% | ~4,347 |
 | A bite for the Entity | 0.30% | ~3,260 |
 | Jump Scares | 0.30% | ~3,260 |
 | Hemophobia | 0.30% | ~3,260 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,087 |
 | Adept Good Guy | 0.10% | ~1,087 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,086,596 (Ranked 12)  
+Progressed: 1,086,738 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -474,14 +474,14 @@ Completed: 62 (0.01%) (Ranked 348)
 | 2023-12-08 | 1,080,483 | 61 |
 | 2023-12-09 | 1,083,532 | 61 |
 | 2023-12-10 | 1,086,485 | 62 |
-| 2023-12-11 | 1,086,596 | 62 |
+| 2023-12-11 | 1,086,738 | 62 |
 ## Awards
-Max (Diverse Characters): 37,638  (Ranked 15)  
-Sum: 285,419 (Ranked 12)  
+Max (Diverse Characters): 37,692  (Ranked 15)  
+Sum: 285,473 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 37,638 |
+| This game has Diverse Characters | 37,692 |
 | This game is Highly Recommended | 32,647 |
 | This game has Amazing Characters | 32,167 |
 | This game has Competitive Players | 31,968 |
@@ -816,3 +816,4 @@ Diff (max vs sum): 3
 | 2023-12-08 | 4.51 | - | 37,508 | 284,549 |
 | 2023-12-09 | 4.51 | - | 37,578 | 285,006 |
 | 2023-12-10 | 4.51 | - | 37,638 | 285,419 |
+| 2023-12-11 | 4.51 | - | 37,692 | 285,473 |

@@ -16,7 +16,7 @@ Rating: 4.57 (Ranked 479)
 | The Fire Below the Mountain | 62.00% | ~689 |
 | Moneyball | 61.00% | ~678 |
 | No Bites | 56.00% | ~623 |
-| Iceborn | 55.00% | ~612 |
+| Iceborn | 56.00% | ~623 |
 | Boom Things | 54.00% | ~600 |
 | Tear of Freedom | 53.00% | ~589 |
 | My Darkest Day | 50.00% | ~556 |
@@ -24,8 +24,8 @@ Rating: 4.57 (Ranked 479)
 | Rhythm Of Willump | 47.00% | ~523 |
 | A Tragic Reminder | 46.00% | ~512 |
 | 3000 Year Blackout | 45.00% | ~500 |
+| The Finisher | 44.00% | ~489 |
 | So Close | 43.00% | ~478 |
-| The Finisher | 43.00% | ~478 |
 | You Get Used To It | 42.00% | ~467 |
 | Family | 40.00% | ~445 |
 | Biggest Snowball Ever | 40.00% | ~445 |

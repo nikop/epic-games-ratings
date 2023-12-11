@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16042,
+  "EOS_Progressed": 16045,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13546,6 +13546,11 @@
       "Time": "2023-12-11T00:06:04.0040461+00:00",
       "NumProgressed": 16042,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-11T01:53:34.0514675+00:00",
+      "NumProgressed": 16045,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13574,7 +13579,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "12",
@@ -13590,7 +13595,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "14",
@@ -13710,7 +13715,7 @@
       "Name": "Bosmang",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "28",
@@ -13764,9 +13769,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1284
     },
     {
       "ID": "7",
@@ -13837,22 +13842,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16042,
+      "Progressed": 16045,
       "Completed": 42
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1996,
-      "Completed": 860
+      "Progressed": 1999,
+      "Completed": 862
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-10T17:59:24.4089771+00:00",
-  "LastChanged_Achievements": "2023-12-11T00:06:04.0040454+00:00",
+  "LastChanged_Achievements": "2023-12-11T01:53:34.0514671+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-11T00:00:19.987232+00:00",
-  "LastUpdate_Achievements": "2023-12-11T00:06:04.0042128+00:00"
+  "LastUpdate_Ratings": "2023-12-11T01:47:44.6662333+00:00",
+  "LastUpdate_Achievements": "2023-12-11T01:53:34.0515419+00:00"
 }

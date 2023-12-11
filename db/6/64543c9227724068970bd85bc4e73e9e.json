@@ -2,12 +2,12 @@
   "ID": "64543c9227724068970bd85bc4e73e9e",
   "Name": "Farlight 84",
   "ProductSlug": "farlight-84-8e689a",
-  "Ranking_Rating": 739,
+  "Ranking_Rating": 741,
   "Ranking_Popularity": 549,
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_NewPlayers": 464,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-26T06:00:00+00:00",
@@ -387,6 +387,6 @@
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
   "LastChanged": "2023-12-10T17:00:21.2142886+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.3497819+00:00",
-  "LastUpdate_Ratings": "2023-12-11T00:02:42.691439+00:00",
-  "LastUpdate_Achievements": "2023-12-11T00:05:21.9651279+00:00"
+  "LastUpdate_Ratings": "2023-12-11T01:48:44.3042914+00:00",
+  "LastUpdate_Achievements": "2023-12-11T01:53:04.313048+00:00"
 }

@@ -3401,9 +3401,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 17911,
+  "EOS_Progressed": 17914,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": -8,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -15301,6 +15301,11 @@
       "Time": "2023-12-11T00:06:45.767595+00:00",
       "NumProgressed": 17911,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-11T01:54:03.2700461+00:00",
+      "NumProgressed": 17914,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15495,9 +15500,9 @@
       "ID": "WinNearHaunted",
       "SetID": "cfbk359",
       "Name": "Haunted Forest",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 72
     },
     {
       "ID": "WinNearLevitating",
@@ -15527,9 +15532,9 @@
       "ID": "WinNearOutpost",
       "SetID": "cfbk359",
       "Name": "Royal Outpost",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 143
     },
     {
       "ID": "WinNearRuins",
@@ -15679,9 +15684,9 @@
       "ID": "WinWithTradeRoutes",
       "SetID": "cfbk359",
       "Name": "Trade Baron",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 90
     },
     {
       "ID": "WinWithoutDeath",
@@ -15713,7 +15718,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "WinNearFrosts",
@@ -15737,7 +15742,7 @@
       "Name": "Overgrown Library",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "WinNearPetrified",
@@ -15784,15 +15789,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17911,
+      "Progressed": 17914,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-10T04:57:34.5838562+00:00",
-  "LastChanged_Achievements": "2023-12-11T00:06:45.7675945+00:00",
+  "LastChanged_Achievements": "2023-12-11T01:54:03.2700456+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-10T23:58:13.7300618+00:00",
-  "LastUpdate_Achievements": "2023-12-11T00:06:45.7676854+00:00"
+  "LastUpdate_Ratings": "2023-12-11T01:46:21.640664+00:00",
+  "LastUpdate_Achievements": "2023-12-11T01:54:03.2701483+00:00"
 }

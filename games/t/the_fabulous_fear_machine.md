@@ -10,19 +10,19 @@
 | The battle of Great Britain | 20.00% | ~9 |
 | Pulp! Where Monsters Dwell | 20.00% | ~9 |
 | A continent with chemistry | 17.00% | ~8 |
+| The seer | 15.00% | ~7 |
 | The happy farmer girl | 15.00% | ~7 |
 | Giant | 13.00% | ~6 |
 | The artist | 13.00% | ~6 |
-| The seer | 13.00% | ~6 |
 | Pulp! Terror Tales in the Night | 13.00% | ~6 |
 | Pulp! Out of this World | 13.00% | ~6 |
 | A rival with no options | 11.00% | ~5 |
+| Pulp! Adventures into the Unknown | 11.00% | ~5 |
+| Diagnosis: fear | 11.00% | ~5 |
+| Ambition is... blind | 11.00% | ~5 |
 | You have two wishes left | 11.00% | ~5 |
 | You had one wish left | 9.00% | ~4 |
-| Pulp! Adventures into the Unknown | 9.00% | ~4 |
 | Kirlian's best disciple | 9.00% | ~4 |
-| Diagnosis: fear | 9.00% | ~4 |
-| Ambition is... blind | 9.00% | ~4 |
 | You've awakened the beast | 7.00% | ~3 |
 | Hate is... addictive | 7.00% | ~3 |
 | Bread and bocaua | 7.00% | ~3 |

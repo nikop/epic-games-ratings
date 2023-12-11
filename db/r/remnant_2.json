@@ -5359,10 +5359,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6742,
       "NumberOfAwardsMax": 2704
+    },
+    {
+      "Time": "2023-12-11T01:51:53.3647636+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6749,
+      "NumberOfAwardsMax": 2704
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6742,
+  "NumberOfAwards": 6749,
   "NumberOfAwardsMax": 2704,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5400,7 +5406,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 408
+      "Count": 415
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5433,9 +5439,9 @@
       "Count": 413
     }
   ],
-  "EOS_Progressed": 238264,
+  "EOS_Progressed": 238290,
   "EOS_Completed": 577,
-  "EOS_NewPlayers": 4026,
+  "EOS_NewPlayers": 3991,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22388,6 +22394,11 @@
       "Time": "2023-12-11T00:10:09.437779+00:00",
       "NumProgressed": 238264,
       "NumCompleted": 577
+    },
+    {
+      "Time": "2023-12-11T01:57:34.9293593+00:00",
+      "NumProgressed": 238290,
+      "NumCompleted": 577
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22800,7 +22811,7 @@
       "Name": "Regicide",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -22816,7 +22827,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -22839,22 +22850,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 238264,
+      "Progressed": 238290,
       "Completed": 577
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 17429,
+      "Progressed": 17455,
       "Completed": 235
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-11T00:03:42.356996+00:00",
-  "LastChanged_Achievements": "2023-12-11T00:10:09.4377785+00:00",
+  "LastChanged": "2023-12-11T01:51:53.3647634+00:00",
+  "LastChanged_Achievements": "2023-12-11T01:57:34.9293589+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-11T00:03:42.3569966+00:00",
-  "LastUpdate_Achievements": "2023-12-11T00:10:09.4379275+00:00"
+  "LastUpdate_Ratings": "2023-12-11T01:51:53.364764+00:00",
+  "LastUpdate_Achievements": "2023-12-11T01:57:34.929473+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 43.00% | ~13 |
-| Rock of the Bay | 37.00% | ~11 |
-| Ducks in a Row, Fish in a Barrel | 30.00% | ~9 |
-| Furon Fashion | 27.00% | ~8 |
+| Mash Machine | 45.00% | ~14 |
+| Rock of the Bay | 39.00% | ~12 |
+| Ducks in a Row, Fish in a Barrel | 29.00% | ~9 |
+| Furon Fashion | 26.00% | ~8 |
 | Shop Til They Drop | 23.00% | ~7 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 17.00% | ~5 |
-| Upgreatest | 17.00% | ~5 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 16.00% | ~5 |
+| Upgreatest | 16.00% | ~5 |
+| Cult Following | 13.00% | ~4 |
 | I Look Up As I Walk to Takoshima | 13.00% | ~4 |
 | Earthly Pleasures | 13.00% | ~4 |
 | Pimp My Raid | 13.00% | ~4 |
-| Cult Following | 10.00% | ~3 |
 | Fly Me to the Moon Base | 10.00% | ~3 |
 | Bodied Sattva | 10.00% | ~3 |
 | Scuttled | 10.00% | ~3 |
 | Dusted | 10.00% | ~3 |
-| Perfect Probulator | 7.00% | ~2 |
-| Transmitting From Sol-3 | 7.00% | ~2 |
-| Lie Back and Think of Albion | 7.00% | ~2 |
-| Kaijuiced | 7.00% | ~2 |
-| Lobster Blisque | 7.00% | ~2 |
+| Perfect Probulator | 6.00% | ~2 |
+| Transmitting From Sol-3 | 6.00% | ~2 |
+| Lie Back and Think of Albion | 6.00% | ~2 |
+| Kaijuiced | 6.00% | ~2 |
+| Lobster Blisque | 6.00% | ~2 |
 | Forbidden Donut | 3.00% | ~1 |
 | Freshly Squeezed | 3.00% | ~1 |
 | Die Nasty | 3.00% | ~1 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 | Arkvoodle Doodle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 543)  
+Progressed: 31 (Ranked 542)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 25 | 0 |
 | 2023-12-09 | 28 | 0 |
 | 2023-12-10 | 30 | 0 |
+| 2023-12-11 | 31 | 0 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 481)  
 Sum: 35 (Ranked 509)  

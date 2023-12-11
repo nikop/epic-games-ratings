@@ -4,7 +4,7 @@
   "ProductSlug": "car-tuning-simulator-38ddaf",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_NewPlayers": 464,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-01-07T21:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:40.2231381+00:00",
   "LastChanged": "2023-03-31T05:58:40.2231382+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:27.3345396+00:00",
-  "LastUpdate_Ratings": "2023-12-10T23:57:32.7136332+00:00",
-  "LastUpdate_Achievements": "2023-12-11T00:05:32.0180325+00:00"
+  "LastUpdate_Ratings": "2023-12-11T01:45:55.0478863+00:00",
+  "LastUpdate_Achievements": "2023-12-11T01:53:11.5371766+00:00"
 }

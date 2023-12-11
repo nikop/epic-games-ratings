@@ -2,10 +2,10 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -2001,9 +2001,9 @@
       "ID": "achievement_38",
       "SetID": "2cpn27e",
       "Name": "Superlative View",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_39",
@@ -2143,8 +2143,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-11T00:09:34.8144979+00:00",
+  "LastChanged_Achievements": "2023-12-11T01:57:10.6251228+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:59.7578969+00:00",
-  "LastUpdate_Ratings": "2023-12-11T00:00:17.1935874+00:00",
-  "LastUpdate_Achievements": "2023-12-11T00:09:34.8145752+00:00"
+  "LastUpdate_Ratings": "2023-12-11T01:47:42.8308213+00:00",
+  "LastUpdate_Achievements": "2023-12-11T01:57:10.6251563+00:00"
 }

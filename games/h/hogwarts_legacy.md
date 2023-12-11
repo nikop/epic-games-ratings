@@ -5,10 +5,10 @@ Rating: 4.76 (Ranked 128)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,670 |
-| First Class Student | 15.00% | ~45,628 |
-| Troll with the Punches | 15.00% | ~45,628 |
-| A Keen Sense of Spell | 14.00% | ~42,586 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,671 |
+| First Class Student | 15.00% | ~45,629 |
+| Troll with the Punches | 15.00% | ~45,629 |
+| A Keen Sense of Spell | 14.00% | ~42,587 |
 | That's a Keeper | 13.00% | ~39,545 |
 | The Hallowed Hero | 12.00% | ~36,503 |
 | The Defender of Dragons | 12.00% | ~36,503 |
@@ -25,14 +25,14 @@ Rating: 4.76 (Ranked 128)
 | A Sallow Grave | 9.00% | ~27,377 |
 | Flight the Good Flight | 9.00% | ~27,377 |
 | The Spell Master | 9.00% | ~27,377 |
-| Beast Friends | 8.00% | ~24,335 |
-| Raising Expectations | 7.00% | ~21,293 |
-| The Seeker of Knowledge | 6.00% | ~18,251 |
-| The Root of the Problem | 6.00% | ~18,251 |
-| Third Time's a Charm | 6.00% | ~18,251 |
-| The Toast of the Town | 5.00% | ~15,209 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,209 |
-| The Ends Petrify the Means | 5.00% | ~15,209 |
+| Beast Friends | 8.00% | ~24,336 |
+| Raising Expectations | 7.00% | ~21,294 |
+| The Seeker of Knowledge | 6.00% | ~18,252 |
+| The Root of the Problem | 6.00% | ~18,252 |
+| Third Time's a Charm | 6.00% | ~18,252 |
+| The Toast of the Town | 5.00% | ~15,210 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,210 |
+| The Ends Petrify the Means | 5.00% | ~15,210 |
 | Going Through the Potions | 4.00% | ~12,168 |
 | Room with a View | 4.00% | ~12,168 |
 | The Intrepid Explorer | 4.00% | ~12,168 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 128)
 | The Nature of the Beast | 0.70% | ~2,129 |
 | Collector's Edition | 0.40% | ~1,217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,189 (Ranked 54)  
+Progressed: 304,194 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 525 (0.17%) (Ranked 269)
 | 2023-12-08 | 304,099 | 525 |
 | 2023-12-09 | 304,151 | 525 |
 | 2023-12-10 | 304,188 | 525 |
-| 2023-12-11 | 304,189 | 525 |
+| 2023-12-11 | 304,194 | 525 |
 ## Awards
 Max (Character Customization): 25,081  (Ranked 17)  
 Sum: 50,405 (Ranked 30)  

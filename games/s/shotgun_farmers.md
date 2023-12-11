@@ -15,7 +15,7 @@
 | No Diggity | 45.00% | ~134 |
 | Early Survivor | 40.00% | ~119 |
 | Bouncemato | 31.00% | ~92 |
-| 10K | 29.00% | ~101 |
+| 10K | 30.00% | ~104 |
 | Amateur Survivor | 29.00% | ~86 |
 | 15K | 27.00% | ~94 |
 | Grave Digger | 23.00% | ~69 |

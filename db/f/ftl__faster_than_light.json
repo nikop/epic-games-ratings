@@ -4,10 +4,10 @@
   "ProductSlug": "faster-than-light",
   "Ranking_Rating": 98,
   "Ranking_Popularity": 312,
-  "Ranking_PopularitySum": 244,
+  "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_NewPlayers": 464,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2019-12-26T16:00:00+00:00",
@@ -1858,10 +1858,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1315,
       "NumberOfAwardsMax": 167
+    },
+    {
+      "Time": "2023-12-11T01:48:36.8074968+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1316,
+      "NumberOfAwardsMax": 167
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1315,
+  "NumberOfAwards": 1316,
   "NumberOfAwardsMax": 167,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1881,7 +1887,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 146
+      "Count": 147
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1943,8 +1949,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2023-12-03T10:59:53.7151519+00:00",
+  "LastChanged": "2023-12-11T01:48:36.8074966+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:18.0552331+00:00",
-  "LastUpdate_Ratings": "2023-12-11T00:02:31.5738744+00:00",
-  "LastUpdate_Achievements": "2023-12-11T00:08:43.345839+00:00"
+  "LastUpdate_Ratings": "2023-12-11T01:48:36.807497+00:00",
+  "LastUpdate_Achievements": "2023-12-11T01:55:04.4432585+00:00"
 }

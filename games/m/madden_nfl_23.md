@@ -5,12 +5,12 @@ Rating: 4.29 (Ranked 854)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~2,164 |
-| Big Spender | 53.00% | ~2,086 |
-| MVP | 53.00% | ~2,086 |
-| Stud Finder | 40.00% | ~1,574 |
+| Bragging Rights | 55.00% | ~2,165 |
+| Big Spender | 53.00% | ~2,087 |
+| MVP | 53.00% | ~2,087 |
+| Stud Finder | 40.00% | ~1,575 |
 | Dealmaker | 39.00% | ~1,535 |
-| ROTY | 32.00% | ~1,259 |
+| ROTY | 32.00% | ~1,260 |
 | Roster Reshuffle | 31.00% | ~1,220 |
 | Future of the Franchise | 19.00% | ~748 |
 | Throwin’ Dots | 17.00% | ~669 |
@@ -27,7 +27,7 @@ Rating: 4.29 (Ranked 854)
 | Lockdown Leader | 0.50% | ~20 |
 | The Fortress | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,935 (Ranked 200)  
+Progressed: 3,937 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,16 +114,17 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 3,904 | 0 |
 | 2023-12-09 | 3,919 | 0 |
 | 2023-12-10 | 3,935 | 0 |
+| 2023-12-11 | 3,937 | 0 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 460)  
-Sum: 140 (Ranked 433)  
-Diff (max vs sum): 27  
+Sum: 141 (Ranked 432)  
+Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 41 |
 | This game has a Competitive Community | 32 |
 | This game is Highly Recommended | 25 |
-| This game is Extremely Fun | 22 |
+| This game is Extremely Fun | 23 |
 | This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -266,3 +267,4 @@ Diff (max vs sum): 27
 | 2023-12-03 | 4.29 | 40 | 118 |
 | 2023-12-04 | 4.29 | 41 | 119 |
 | 2023-12-10 | 4.29 | 41 | 140 |
+| 2023-12-11 | 4.29 | 41 | 141 |

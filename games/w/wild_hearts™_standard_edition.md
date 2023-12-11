@@ -46,14 +46,14 @@
 | Volatile Vocation | 19.00% | ~72 |
 | Haven Hunter | 19.00% | ~72 |
 | Tender Touch | 17.00% | ~64 |
-| Superlative View | 16.00% | ~60 |
+| Superlative View | 17.00% | ~64 |
 | Relentless Kemono Hunter | 14.00% | ~53 |
 | Vanquisher of the Volatile | 14.00% | ~53 |
 | Big Spender | 11.00% | ~41 |
 | Bewitched by Bathing | 10.00% | ~38 |
 | Tsukumo Whisperer | 6.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377 (Ranked 336)  
+Progressed: 377 (Ranked 337)  
 Completed: 8 (2.12%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |

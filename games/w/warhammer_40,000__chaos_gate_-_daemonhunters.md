@@ -45,10 +45,10 @@ Number of Ratings: 371  (23.09.2022)
 | Engine Kill | 0.70% | ~23 |
 | Harvest No More | 0.70% | ~23 |
 | Strike Force | 0.60% | ~20 |
+| Suffer Not the Mutant | 0.50% | ~17 |
 | Exercise in Restraint | 0.40% | ~13 |
 | True Mastery | 0.40% | ~13 |
 | Reign of Confusion | 0.40% | ~13 |
-| Suffer Not the Mutant | 0.40% | ~13 |
 | Blood and Iron | 0.30% | ~10 |
 | Warp Flickers | 0.30% | ~10 |
 | Abomination | 0.30% | ~10 |

@@ -6,49 +6,49 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,336 |
-| Hit Rock Bottom | 97.00% | ~2,289 |
-| Rocket Launched | 97.00% | ~2,289 |
-| Speed | 97.00% | ~2,289 |
-| High Jump | 96.00% | ~2,266 |
-| Knee bending | 96.00% | ~2,266 |
-| Pickaxe | 94.00% | ~2,218 |
-| Cage Town | 94.00% | ~2,218 |
-| Force Beam | 93.00% | ~2,195 |
-| Entered Cage Town | 93.00% | ~2,195 |
-| Stone Pickaxe | 93.00% | ~2,195 |
-| Revenge | 93.00% | ~2,195 |
-| Surprise | 93.00% | ~2,195 |
-| Magnet | 91.00% | ~2,148 |
-| Industrial Area | 90.00% | ~2,124 |
-| Magnet Repel | 88.00% | ~2,077 |
-| You feel middle classy | 87.00% | ~2,053 |
-| Boomeraxe | 87.00% | ~2,053 |
-| Iron Pickaxe | 87.00% | ~2,053 |
+| Good Morning | 99.00% | ~2,337 |
+| Hit Rock Bottom | 97.00% | ~2,290 |
+| Rocket Launched | 97.00% | ~2,290 |
+| Speed | 97.00% | ~2,290 |
+| High Jump | 96.00% | ~2,267 |
+| Knee bending | 96.00% | ~2,267 |
+| Pickaxe | 94.00% | ~2,219 |
+| Cage Town | 94.00% | ~2,219 |
+| Force Beam | 93.00% | ~2,196 |
+| Entered Cage Town | 93.00% | ~2,196 |
+| Stone Pickaxe | 93.00% | ~2,196 |
+| Revenge | 93.00% | ~2,196 |
+| Surprise | 93.00% | ~2,196 |
+| Industrial Area | 90.00% | ~2,125 |
+| Magnet | 90.00% | ~2,125 |
+| Magnet Repel | 88.00% | ~2,078 |
+| You feel middle classy | 87.00% | ~2,054 |
+| Boomeraxe | 87.00% | ~2,054 |
+| Iron Pickaxe | 87.00% | ~2,054 |
 | Banking District | 86.00% | ~2,030 |
 | Mission Unlikely | 86.00% | ~2,030 |
-| Arrested | 85.00% | ~2,006 |
-| Zappy Gun | 85.00% | ~2,006 |
-| Got your own one now | 85.00% | ~2,006 |
-| Don't draw dicks pls | 85.00% | ~2,006 |
-| Ripped | 84.00% | ~1,982 |
-| Beat the big arena | 83.00% | ~1,959 |
-| Force Cube | 82.00% | ~1,935 |
+| Arrested | 85.00% | ~2,007 |
+| Zappy Gun | 85.00% | ~2,007 |
+| Got your own one now | 85.00% | ~2,007 |
+| Don't draw dicks pls | 85.00% | ~2,007 |
+| Ripped | 84.00% | ~1,983 |
+| Beat the big arena | 83.00% | ~1,960 |
+| Force Cube | 82.00% | ~1,936 |
 | Got Battery | 81.00% | ~1,912 |
-| Guard Distracted | 80.00% | ~1,888 |
-| Translocator | 80.00% | ~1,888 |
-| Inner Peace | 78.00% | ~1,841 |
-| Diamond Pickaxe | 77.00% | ~1,817 |
-| Trickle Down Economy | 77.00% | ~1,817 |
+| Guard Distracted | 80.00% | ~1,889 |
+| Translocator | 80.00% | ~1,889 |
+| Inner Peace | 78.00% | ~1,842 |
+| Diamond Pickaxe | 77.00% | ~1,818 |
+| Trickle Down Economy | 77.00% | ~1,818 |
 | Killed them all | 76.00% | ~1,794 |
 | Win | 76.00% | ~1,794 |
-| Greenhouse | 72.00% | ~1,699 |
-| Played with fire | 70.00% | ~1,652 |
-| You feel very sorry | 70.00% | ~1,652 |
-| No Match for you | 66.00% | ~1,558 |
-| Bouncy | 62.00% | ~1,463 |
+| Greenhouse | 72.00% | ~1,700 |
+| Played with fire | 70.00% | ~1,653 |
+| You feel very sorry | 70.00% | ~1,653 |
+| No Match for you | 65.00% | ~1,535 |
+| Bouncy | 62.00% | ~1,464 |
 | Plumbster | 61.00% | ~1,440 |
-| Faster | 60.00% | ~1,416 |
+| Faster | 60.00% | ~1,417 |
 | Much Magic | 58.00% | ~1,369 |
 | Chest Detector | 56.00% | ~1,322 |
 | Flames | 53.00% | ~1,251 |
@@ -56,12 +56,12 @@ Number of Ratings: 209  (23.09.2022)
 | You're unsure if you broke the game or not | 43.00% | ~1,015 |
 | But wait... ...There's more... | 40.00% | ~944 |
 | So much force | 35.00% | ~826 |
-| You feel fully engaged | 24.00% | ~566 |
+| You feel fully engaged | 24.00% | ~567 |
 | Too hot | 20.00% | ~472 |
-| All the chests | 14.00% | ~330 |
+| All the chests | 14.00% | ~331 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,360 (Ranked 222)  
-Completed: 290 (12.29%) (Ranked 35)  
+Progressed: 2,361 (Ranked 222)  
+Completed: 290 (12.28%) (Ranked 35)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,6 +264,7 @@ Completed: 290 (12.29%) (Ranked 35)
 | 2023-12-08 | 2,357 | 290 |
 | 2023-12-09 | 2,359 | 290 |
 | 2023-12-10 | 2,360 | 290 |
+| 2023-12-11 | 2,361 | 290 |
 ## Awards
 Max (Challenging Puzzles): 108  (Ranked 355)  
 Sum: 108 (Ranked 450)  

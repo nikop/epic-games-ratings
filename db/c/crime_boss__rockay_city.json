@@ -5019,9 +5019,9 @@
       "Count": 511
     }
   ],
-  "EOS_Progressed": 91849,
+  "EOS_Progressed": 91850,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -27669,6 +27669,11 @@
       "Time": "2023-12-10T23:04:43.2662948+00:00",
       "NumProgressed": 91849,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-11T01:53:42.567128+00:00",
+      "NumProgressed": 91850,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -27680,7 +27685,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "ACH_0011",
@@ -27824,7 +27829,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "ACH_0210",
@@ -27832,7 +27837,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "ACH_0211",
@@ -28007,13 +28012,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91849,
+      "Progressed": 91850,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20196,
+      "Progressed": 20197,
       "Completed": 15583
     }
   ],
@@ -28021,8 +28026,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-10T18:02:34.0485254+00:00",
-  "LastChanged_Achievements": "2023-12-11T00:06:15.940118+00:00",
+  "LastChanged_Achievements": "2023-12-11T01:53:42.5671277+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:49.1202074+00:00",
-  "LastUpdate_Ratings": "2023-12-11T00:02:59.1102957+00:00",
-  "LastUpdate_Achievements": "2023-12-11T00:06:15.9402638+00:00"
+  "LastUpdate_Ratings": "2023-12-11T01:51:24.8923835+00:00",
+  "LastUpdate_Achievements": "2023-12-11T01:53:42.5672432+00:00"
 }

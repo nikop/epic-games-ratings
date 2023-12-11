@@ -16436,9 +16436,9 @@
       "Count": 15141
     }
   ],
-  "EOS_Progressed": 974198,
+  "EOS_Progressed": 974220,
   "EOS_Completed": 2882,
-  "EOS_NewPlayers": 4934,
+  "EOS_NewPlayers": 4917,
   "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -43126,6 +43126,11 @@
       "Time": "2023-12-11T00:06:05.3350222+00:00",
       "NumProgressed": 974198,
       "NumCompleted": 2882
+    },
+    {
+      "Time": "2023-12-11T01:53:35.122596+00:00",
+      "NumProgressed": 974220,
+      "NumCompleted": 2882
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -43162,7 +43167,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38968
+      "UsersEstimate": 38969
     },
     {
       "ID": "Denied",
@@ -43170,7 +43175,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48710
+      "UsersEstimate": 48711
     },
     {
       "ID": "FollowingTheRiver",
@@ -43210,7 +43215,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68194
+      "UsersEstimate": 68195
     },
     {
       "ID": "Gunslinger",
@@ -43258,7 +43263,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29226
+      "UsersEstimate": 29227
     },
     {
       "ID": "MaxPain",
@@ -43314,7 +43319,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38968
+      "UsersEstimate": 38969
     },
     {
       "ID": "Specialist",
@@ -43322,7 +43327,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6819
+      "UsersEstimate": 6820
     },
     {
       "ID": "Temperance",
@@ -43354,7 +43359,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58452
+      "UsersEstimate": 58453
     },
     {
       "ID": "TheHermit",
@@ -43362,7 +43367,7 @@
       "Name": "The Hermit",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29226
+      "UsersEstimate": 29227
     },
     {
       "ID": "TheHightPriestess",
@@ -43378,7 +43383,7 @@
       "Name": "The Lovers",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48710
+      "UsersEstimate": 48711
     },
     {
       "ID": "TheStar",
@@ -43394,7 +43399,7 @@
       "Name": "The Sun",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6819
+      "UsersEstimate": 6820
     },
     {
       "ID": "TheWheelOfFortune",
@@ -43402,7 +43407,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29226
+      "UsersEstimate": 29227
     },
     {
       "ID": "TheWorld",
@@ -43434,7 +43439,7 @@
       "Name": "True Soldier",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 38968
+      "UsersEstimate": 38969
     },
     {
       "ID": "TrueWarrior",
@@ -43466,7 +43471,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116904
+      "UsersEstimate": 116906
     },
     {
       "ID": "YipMan",
@@ -43666,28 +43671,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 974198,
+      "Progressed": 974220,
       "Completed": 2882
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 102821,
-      "Completed": 10336
+      "Progressed": 102843,
+      "Completed": 10337
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-11T00:03:20.8862602+00:00",
-  "LastChanged_Achievements": "2023-12-11T00:06:05.3350217+00:00",
+  "LastChanged_Achievements": "2023-12-11T01:53:35.1225956+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:22.348953+00:00",
-  "LastUpdate_Ratings": "2023-12-11T00:03:20.8862608+00:00",
-  "LastUpdate_Achievements": "2023-12-11T00:06:05.3351885+00:00"
+  "LastUpdate_Ratings": "2023-12-11T01:51:39.0076801+00:00",
+  "LastUpdate_Achievements": "2023-12-11T01:53:35.1227492+00:00"
 }
