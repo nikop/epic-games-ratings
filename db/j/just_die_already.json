@@ -3,11 +3,11 @@
   "Name": "Just Die Already",
   "ProductSlug": "just-die-already",
   "Ranking_Rating": 565,
-  "Ranking_Popularity": 356,
+  "Ranking_Popularity": 357,
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-05-20T17:00:00+00:00",
@@ -1722,10 +1722,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 860,
       "NumberOfAwardsMax": 107
+    },
+    {
+      "Time": "2023-12-11T21:58:00.2930101+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 861,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 860,
+  "NumberOfAwards": 861,
   "NumberOfAwardsMax": 107,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1799,7 +1805,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 85
+      "Count": 86
     }
   ],
   "EOS_Progressed": 0,
@@ -1813,8 +1819,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2023-12-10T09:00:08.8632633+00:00",
+  "LastChanged": "2023-12-11T21:58:00.2930096+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:44.2857746+00:00",
-  "LastUpdate_Ratings": "2023-12-11T20:57:36.0665509+00:00",
-  "LastUpdate_Achievements": "2023-12-11T21:03:40.2055555+00:00"
+  "LastUpdate_Ratings": "2023-12-11T21:58:00.2930103+00:00",
+  "LastUpdate_Achievements": "2023-12-11T22:04:44.5252304+00:00"
 }

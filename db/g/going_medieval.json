@@ -3,7 +3,7 @@
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
   "Ranking_Rating": 422,
-  "Ranking_Popularity": 332,
+  "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 264,
@@ -14579,9 +14579,9 @@
       "ID": "SURVIVE_FIRST_RAID",
       "SetID": "5349c2e",
       "Name": "...And Don\u2019t Come Back!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3097
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -14667,8 +14667,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-10T16:58:57.2440189+00:00",
-  "LastChanged_Achievements": "2023-12-11T21:04:09.6352064+00:00",
+  "LastChanged_Achievements": "2023-12-11T22:05:26.2025472+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.1438392+00:00",
-  "LastUpdate_Ratings": "2023-12-11T20:59:16.9695792+00:00",
-  "LastUpdate_Achievements": "2023-12-11T21:04:09.6352973+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:00:38.150383+00:00",
+  "LastUpdate_Achievements": "2023-12-11T22:05:26.2026453+00:00"
 }

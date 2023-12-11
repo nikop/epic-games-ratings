@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trainee | 29.00% | ~5 |
+| City Link | 29.00% | ~5 |
 | Line Up | 24.00% | ~4 |
 | Steam Power | 24.00% | ~4 |
 | Task Apprentice | 24.00% | ~4 |
-| City Link | 24.00% | ~4 |
 | Billionaire Club | 12.00% | ~2 |
 | Full House | 12.00% | ~2 |
 | Speed Demon | 12.00% | ~2 |

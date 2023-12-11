@@ -2,7 +2,7 @@
   "ID": "bc079f73f020432fac896d30c8e2c330",
   "Name": "Gloomhaven",
   "ProductSlug": "gloomhaven-92f741",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 643,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 133,
@@ -2639,9 +2639,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 25858,
+  "EOS_Progressed": 25867,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1224,
+  "EOS_NewPlayers": 1226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12644,6 +12644,11 @@
       "Time": "2023-12-11T21:08:17.0357329+00:00",
       "NumProgressed": 25858,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-11T22:09:11.9087837+00:00",
+      "NumProgressed": 25867,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -12664,7 +12669,7 @@
       "Name": "Dungeon Veteran",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "Achievement_Trophy03",
@@ -12680,7 +12685,7 @@
       "Name": "Merchant of doom",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "Achievement_Trophy05",
@@ -12696,7 +12701,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     },
     {
       "ID": "Achievement_Trophy07",
@@ -12824,7 +12829,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4396
+      "UsersEstimate": 4397
     },
     {
       "ID": "Achievement_Trophy23",
@@ -12832,7 +12837,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3879
+      "UsersEstimate": 3880
     },
     {
       "ID": "Achievement_Trophy24",
@@ -12840,7 +12845,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10602
+      "UsersEstimate": 10605
     },
     {
       "ID": "Achievement_Trophy25",
@@ -12848,7 +12853,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3103
+      "UsersEstimate": 3104
     },
     {
       "ID": "Achievement_Trophy26",
@@ -12856,7 +12861,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8792
+      "UsersEstimate": 8795
     },
     {
       "ID": "Achievement_Trophy27",
@@ -12872,7 +12877,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 8533
+      "UsersEstimate": 8536
     },
     {
       "ID": "Achievement_Trophy29",
@@ -12888,7 +12893,7 @@
       "Name": "Spread the plague",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7501
     },
     {
       "ID": "Achievement_Trophy31",
@@ -12896,7 +12901,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 8016
+      "UsersEstimate": 8019
     },
     {
       "ID": "Achievement_Trophy32",
@@ -12920,7 +12925,7 @@
       "Name": "Augmented rat",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     },
     {
       "ID": "Achievement_Trophy35",
@@ -12928,7 +12933,7 @@
       "Name": "The Pro from Dover",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "Achievement_Trophy36",
@@ -12944,7 +12949,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6464
+      "UsersEstimate": 6467
     },
     {
       "ID": "Achievement_Trophy38",
@@ -12952,7 +12957,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4396
+      "UsersEstimate": 4397
     },
     {
       "ID": "Achievement_Trophy39",
@@ -12960,7 +12965,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4913
+      "UsersEstimate": 4915
     },
     {
       "ID": "Achievement_Trophy40",
@@ -12976,7 +12981,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "Achievement_Trophy42",
@@ -12992,7 +12997,7 @@
       "Name": "Light of my life",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "Achievement_Trophy44",
@@ -13000,7 +13005,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "Achievement_Trophy45",
@@ -13032,7 +13037,7 @@
       "Name": "Doom and gloom",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "Achievement_Trophy49",
@@ -13040,7 +13045,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3879
+      "UsersEstimate": 3880
     },
     {
       "ID": "Achievement_Trophy50",
@@ -13143,7 +13148,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 25858,
+      "Progressed": 25867,
       "Completed": 1
     }
   ],
@@ -13151,8 +13156,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-11T20:59:16.6140903+00:00",
-  "LastChanged_Achievements": "2023-12-11T21:08:17.0357324+00:00",
+  "LastChanged_Achievements": "2023-12-11T22:09:11.9087833+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:42.7229324+00:00",
-  "LastUpdate_Ratings": "2023-12-11T20:59:16.6140908+00:00",
-  "LastUpdate_Achievements": "2023-12-11T21:08:17.0358312+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:00:37.5887118+00:00",
+  "LastUpdate_Achievements": "2023-12-11T22:09:11.9088705+00:00"
 }

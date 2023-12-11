@@ -6,18 +6,18 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 87.00% | ~8,586 |
-| Photogenic | 84.00% | ~8,290 |
-| Plug It In | 80.00% | ~7,895 |
-| Surge Gauntlet Jockey | 80.00% | ~7,895 |
-| Adventure Time | 76.00% | ~7,500 |
-| Playing With Power | 73.00% | ~7,204 |
+| Let's Get This Party Started | 87.00% | ~8,587 |
+| Photogenic | 84.00% | ~8,291 |
+| Plug It In | 80.00% | ~7,896 |
+| Surge Gauntlet Jockey | 80.00% | ~7,896 |
+| Adventure Time | 76.00% | ~7,501 |
+| Playing With Power | 73.00% | ~7,205 |
 | Coup d'Etat | 56.00% | ~5,527 |
 | You're Fired | 55.00% | ~5,428 |
-| Get Furious | 54.00% | ~5,329 |
+| Get Furious | 54.00% | ~5,330 |
 | Hacks In Stacks | 53.00% | ~5,231 |
 | Gunplay And Cosplay | 52.00% | ~5,132 |
-| Meching Enemies | 47.00% | ~4,638 |
+| Meching Enemies | 47.00% | ~4,639 |
 | Ticket Toddler | 42.00% | ~4,145 |
 | Booty Bashing | 37.00% | ~3,652 |
 | Field Medic | 36.00% | ~3,553 |
@@ -40,8 +40,8 @@ Number of Ratings: 801  (23.09.2022)
 | Rescue Ranger | 8.00% | ~790 |
 | Surge Gauntlet Scholar | 6.00% | ~592 |
 | Ticket Titan | 6.00% | ~592 |
-| Master of Arms | 5.00% | ~493 |
-| Stop Hitting Yourself | 5.00% | ~493 |
+| Master of Arms | 5.00% | ~494 |
+| Stop Hitting Yourself | 5.00% | ~494 |
 | No Chill | 4.00% | ~395 |
 | Start Your Collection | 4.00% | ~395 |
 | Team Player | 4.00% | ~395 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~39 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,869 (Ranked 167)  
+Progressed: 9,870 (Ranked 167)  
 Completed: 2 (0.02%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,10 +292,10 @@ Completed: 2 (0.02%) (Ranked 339)
 | 2023-12-08 | 9,848 | 2 |
 | 2023-12-09 | 9,855 | 2 |
 | 2023-12-10 | 9,862 | 2 |
-| 2023-12-11 | 9,869 | 2 |
+| 2023-12-11 | 9,870 | 2 |
 ## Awards
-Max (Great for Beginners): 65  (Ranked 411)  
-Sum: 465 (Ranked 335)  
+Max (Great for Beginners): 65  (Ranked 412)  
+Sum: 465 (Ranked 336)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |

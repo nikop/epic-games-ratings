@@ -45,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 3.00% | ~472 |
 | Artisans | 3.00% | ~472 |
 | Furious Family | 3.00% | ~472 |
+| Apadana | 3.00% | ~472 |
 | Colossus | 3.00% | ~472 |
 | Great Ziggurat | 3.00% | ~472 |
 | Ishtar Gate | 3.00% | ~472 |
@@ -77,7 +78,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 2.00% | ~314 |
 | Sages | 2.00% | ~314 |
 | Acropolis | 2.00% | ~314 |
-| Apadana | 2.00% | ~314 |
 | Temple of Solomon | 2.00% | ~314 |
 | Mausoleum | 2.00% | ~314 |
 | Learn to Play 3 | 2.00% | ~314 |
@@ -586,9 +586,9 @@ Completed: 5 (0.03%) (Ranked 333)
 | 2023-12-10 | 15,719 | 5 |
 | 2023-12-11 | 15,723 | 5 |
 ## Awards
-Max (Relaxing): 228  (Ranked 277)  
+Max (Relaxing): 228  (Ranked 278)  
 Sum: 1,900 (Ranked 220)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 228 |

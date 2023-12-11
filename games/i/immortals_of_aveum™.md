@@ -34,8 +34,8 @@ Rating: 4.05 (Ranked 998)
 | Shroudfane Explorer | 9.00% | ~30 |
 | Best Dressed | 8.00% | ~26 |
 | Armaments Gules | 7.00% | ~23 |
+| Scholar | 6.00% | ~20 |
 | Kitted Out | 6.00% | ~20 |
-| Scholar | 5.00% | ~17 |
 | Armaments Vert | 5.00% | ~17 |
 | Veteran | 5.00% | ~17 |
 | Master of Ultramarine | 2.00% | ~7 |

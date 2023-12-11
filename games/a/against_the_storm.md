@@ -9,22 +9,22 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 4.00% | ~718 |
 | Overgrown Library | 4.00% | ~718 |
 | Petrified Necropolis | 4.00% | ~718 |
-| Frosts | 3.00% | ~538 |
-| Ominous Presence | 3.00% | ~538 |
-| Gathering Storm | 3.00% | ~538 |
+| Frosts | 3.00% | ~539 |
+| Ominous Presence | 3.00% | ~539 |
+| Gathering Storm | 3.00% | ~539 |
 | Land of Greed | 2.00% | ~359 |
 | Untamed Wilds | 2.00% | ~359 |
-| First Real Expedition | 1.00% | ~179 |
-| Overcoming Difficulty | 1.00% | ~179 |
-| Coral Forest | 1.00% | ~179 |
-| The Marshlands | 1.00% | ~179 |
-| The Scarlet Orchard | 1.00% | ~179 |
-| Taking Action | 1.00% | ~179 |
-| No Deaths | 1.00% | ~179 |
+| First Real Expedition | 1.00% | ~180 |
+| Overcoming Difficulty | 1.00% | ~180 |
+| Coral Forest | 1.00% | ~180 |
+| The Marshlands | 1.00% | ~180 |
+| The Scarlet Orchard | 1.00% | ~180 |
+| Taking Action | 1.00% | ~180 |
+| No Deaths | 1.00% | ~180 |
 | Fertile Meadows | 0.90% | ~162 |
 | Royal Outpost | 0.90% | ~162 |
+| Watchtower | 0.90% | ~162 |
 | Lost Colonies | 0.80% | ~144 |
-| Watchtower | 0.80% | ~144 |
 | Homesick | 0.70% | ~126 |
 | Bandit Camp | 0.70% | ~126 |
 | Ruined Armory | 0.60% | ~108 |
@@ -33,6 +33,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 0.60% | ~108 |
 | A Real Challenge | 0.60% | ~108 |
 | Barren Lands | 0.50% | ~90 |
+| Statue of the Forefathers | 0.50% | ~90 |
 | Cursed Lands | 0.50% | ~90 |
 | Trade Baron | 0.50% | ~90 |
 | Against All Odds | 0.40% | ~72 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 0.40% | ~72 |
 | Haunted Forest | 0.40% | ~72 |
 | Flooded Mines | 0.40% | ~72 |
-| Statue of the Forefathers | 0.40% | ~72 |
 | Fox Utopia | 0.40% | ~72 |
 | Serving Ale | 0.30% | ~54 |
 | Fishmen Ritual Site | 0.30% | ~54 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,948 (Ranked 147)  
+Progressed: 17,954 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,11 +301,11 @@ Completed: 40 (0.22%) (Ranked 255)
 | 2023-12-08 | 17,706 | 44 |
 | 2023-12-09 | 17,808 | 43 |
 | 2023-12-10 | 17,908 | 43 |
-| 2023-12-11 | 17,948 | 41 |
+| 2023-12-11 | 17,954 | 41 |
 ## Awards
-Max (Quickly Understood Controls): 442  (Ranked 225)  
+Max (Quickly Understood Controls): 442  (Ranked 226)  
 Sum: 3,253 (Ranked 175)  
-Diff (max vs sum): 50  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |

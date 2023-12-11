@@ -20,7 +20,7 @@ Number of Ratings: 706  (23.09.2022)
 | Putting Food on the Table | 46.00% | ~3,313 |
 | Adept Researcher | 45.00% | ~3,241 |
 | Retribution | 43.00% | ~3,097 |
-| ...And Don’t Come Back! | 42.00% | ~3,025 |
+| ...And Don’t Come Back! | 43.00% | ~3,097 |
 | Feast or Famine | 38.00% | ~2,737 |
 | Heating Up | 32.00% | ~2,305 |
 | Luminary Researcher | 31.00% | ~2,233 |
@@ -254,9 +254,9 @@ Completed: 14 (0.19%) (Ranked 264)
 | 2023-12-10 | 7,199 | 14 |
 | 2023-12-11 | 7,203 | 14 |
 ## Awards
-Max (Great for Beginners): 130  (Ranked 332)  
+Max (Great for Beginners): 130  (Ranked 333)  
 Sum: 1,039 (Ranked 260)  
-Diff (max vs sum): 72  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 130 |

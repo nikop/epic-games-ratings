@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4549,7 +4549,7 @@
   ],
   "EOS_Progressed": 12286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16962,9 +16962,9 @@
       "ID": "34_CapitulationIsNowMoot",
       "SetID": "989of5o",
       "Name": "Capitulation Is Now Moot",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 369
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -17648,8 +17648,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-11T01:48:04.8603378+00:00",
-  "LastChanged_Achievements": "2023-12-11T21:08:56.6490591+00:00",
+  "LastChanged_Achievements": "2023-12-11T22:10:08.1739444+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-11T20:59:59.3768565+00:00",
-  "LastUpdate_Achievements": "2023-12-11T21:08:56.6492139+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:01:42.5564531+00:00",
+  "LastUpdate_Achievements": "2023-12-11T22:10:08.1741161+00:00"
 }

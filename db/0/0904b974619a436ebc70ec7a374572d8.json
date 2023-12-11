@@ -4,7 +4,7 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -200,33 +200,33 @@
       "ID": "ach_picklock11",
       "SetID": "753ghg2",
       "Name": "Neighbor\u0027s house",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_picklock12",
       "SetID": "753ghg2",
       "Name": "Sewing factory",
-      "Percentage": 71,
+      "Percentage": 74,
       "XP": 45,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_picklock13",
       "SetID": "753ghg2",
       "Name": "Butcher shop",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_picklock14",
       "SetID": "753ghg2",
       "Name": "Cinema",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_picklock15",
@@ -352,9 +352,9 @@
       "ID": "ach_picklock7",
       "SetID": "753ghg2",
       "Name": "Good movie",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_picklock8",
@@ -383,8 +383,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-12-11T21:08:57.2038765+00:00",
+  "LastChanged_Achievements": "2023-12-11T22:10:08.8414156+00:00",
   "LastUpdate_AppInfo": "2023-12-06T07:57:07.1577349+00:00",
-  "LastUpdate_Ratings": "2023-12-11T21:02:32.4042376+00:00",
-  "LastUpdate_Achievements": "2023-12-11T21:08:57.2038897+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:03:02.5309855+00:00",
+  "LastUpdate_Achievements": "2023-12-11T22:10:08.8414306+00:00"
 }

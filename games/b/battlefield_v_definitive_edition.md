@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 93.00% | ~23,141 |
-| Grim Reaper | 77.00% | ~19,160 |
-| Enemy Attrition | 75.00% | ~18,662 |
-| Heads Down | 74.00% | ~18,413 |
-| Not On My Watch | 71.00% | ~17,667 |
-| Combat Engineer | 54.00% | ~13,437 |
-| Eager Beaver | 48.00% | ~11,944 |
-| Call ’em in! | 43.00% | ~10,700 |
+| Last Man Standing | 93.00% | ~23,143 |
+| Grim Reaper | 77.00% | ~19,161 |
+| Enemy Attrition | 75.00% | ~18,664 |
+| Heads Down | 74.00% | ~18,415 |
+| Not On My Watch | 71.00% | ~17,668 |
+| Combat Engineer | 54.00% | ~13,438 |
+| Eager Beaver | 48.00% | ~11,945 |
+| Call ’em in! | 43.00% | ~10,701 |
 | Lovely | 38.00% | ~9,456 |
 | Elite | 26.00% | ~6,470 |
 | Store fuglar fanga ingi flugor | 26.00% | ~6,470 |
-| Ou La Mort | 23.00% | ~5,723 |
+| Ou La Mort | 23.00% | ~5,724 |
 | Fender Bender | 17.00% | ~4,230 |
 | Globetrotter | 13.00% | ~3,235 |
 | Jack of All Trades | 12.00% | ~2,986 |
@@ -26,7 +26,7 @@
 | Hoist the Flag | 0.50% | ~124 |
 | Sins of the Fathers | 0.40% | ~100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,883 (Ranked 135)  
+Progressed: 24,885 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,4 +112,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-08 | 24,377 | 0 |
 | 2023-12-09 | 24,575 | 0 |
 | 2023-12-10 | 24,772 | 0 |
-| 2023-12-11 | 24,883 | 0 |
+| 2023-12-11 | 24,885 | 0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7599,
+  "EOS_Progressed": 7600,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6193,6 +6193,11 @@
       "Time": "2023-12-11T19:04:29.5243472+00:00",
       "NumProgressed": 7599,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-11T22:04:21.382454+00:00",
+      "NumProgressed": 7600,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6236,7 +6241,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4027
+      "UsersEstimate": 4028
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6356,7 +6361,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4255
+      "UsersEstimate": 4256
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6419,15 +6424,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7599,
+      "Progressed": 7600,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-11T21:03:24.46311+00:00",
+  "LastChanged_Achievements": "2023-12-11T22:04:21.3824537+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:23.3516207+00:00",
-  "LastUpdate_Ratings": "2023-12-11T21:02:47.1404054+00:00",
-  "LastUpdate_Achievements": "2023-12-11T21:03:24.4631573+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:03:24.5214466+00:00",
+  "LastUpdate_Achievements": "2023-12-11T22:04:21.3824962+00:00"
 }

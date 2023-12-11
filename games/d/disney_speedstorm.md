@@ -1,28 +1,28 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.39 (Ranked 756)  
+Rating: 4.39 (Ranked 757)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~40,156 |
-| IT MAKES BOOM! | 7.00% | ~23,424 |
-| EXTRA BOOST | 6.00% | ~20,078 |
-| PROTECTED | 4.00% | ~13,385 |
-| PRO | 4.00% | ~13,385 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,039 |
-| AGGRESSIVE RACER | 3.00% | ~10,039 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,693 |
-| A TIGER'S FEAR | 2.00% | ~6,693 |
-| TRAINING HARD | 1.00% | ~3,346 |
-| RELEASE THE KRAKEN | 1.00% | ~3,346 |
-| BE OUR GUEST | 1.00% | ~3,346 |
-| ACE SPEEDSTER | 1.00% | ~3,346 |
-| FRIENDLY | 1.00% | ~3,346 |
-| MASTER | 1.00% | ~3,346 |
-| LEGENDARY HERO | 0.90% | ~3,012 |
+| ROOKIE | 12.00% | ~40,161 |
+| IT MAKES BOOM! | 7.00% | ~23,427 |
+| EXTRA BOOST | 6.00% | ~20,081 |
+| PROTECTED | 4.00% | ~13,387 |
+| PRO | 4.00% | ~13,387 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,040 |
+| AGGRESSIVE RACER | 3.00% | ~10,040 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,694 |
+| A TIGER'S FEAR | 2.00% | ~6,694 |
+| TRAINING HARD | 1.00% | ~3,347 |
+| RELEASE THE KRAKEN | 1.00% | ~3,347 |
+| BE OUR GUEST | 1.00% | ~3,347 |
+| ACE SPEEDSTER | 1.00% | ~3,347 |
+| FRIENDLY | 1.00% | ~3,347 |
+| MASTER | 1.00% | ~3,347 |
+| LEGENDARY HERO | 1.00% | ~3,347 |
 | DEFEAT OUR CHAMPION | 0.80% | ~2,677 |
-| THE EYE OF THE HUNTER | 0.70% | ~2,342 |
+| THE EYE OF THE HUNTER | 0.70% | ~2,343 |
 | EXPERIENCED CREW | 0.60% | ~2,008 |
 | ACE DEFENDER | 0.60% | ~2,008 |
 | ACE BRAWLER | 0.50% | ~1,673 |
@@ -30,8 +30,8 @@ Rating: 4.39 (Ranked 756)
 | ACE TRICKSTER | 0.40% | ~1,339 |
 | PERFECTLY POISED | 0.30% | ~1,004 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 334,635 (Ranked 50)  
-Completed: 547 (0.16%) (Ranked 272)  
+Progressed: 334,678 (Ranked 50)  
+Completed: 548 (0.16%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -261,11 +261,11 @@ Completed: 547 (0.16%) (Ranked 272)
 | 2023-12-08 | 331,482 | 521 |
 | 2023-12-09 | 332,745 | 532 |
 | 2023-12-10 | 333,976 | 537 |
-| 2023-12-11 | 334,635 | 547 |
+| 2023-12-11 | 334,678 | 548 |
 ## Awards
-Max (Great for Beginners): 122  (Ranked 343)  
+Max (Great for Beginners): 122  (Ranked 344)  
 Sum: 840 (Ranked 279)  
-Diff (max vs sum): 64  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 122 |

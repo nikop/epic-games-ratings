@@ -266,8 +266,8 @@ Completed: 5 (0.00%) (Ranked 371)
 | 2023-12-10 | 109,876 | 5 |
 | 2023-12-11 | 109,879 | 5 |
 ## Awards
-Max (Diverse Characters): 50  (Ranked 441)  
-Sum: 370 (Ranked 354)  
+Max (Diverse Characters): 50  (Ranked 442)  
+Sum: 370 (Ranked 355)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |

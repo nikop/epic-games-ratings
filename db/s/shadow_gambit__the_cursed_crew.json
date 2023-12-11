@@ -3711,9 +3711,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 742
     },
     {
       "ID": "_03_FinishAct1",
@@ -3920,8 +3920,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-09T12:00:24.7987919+00:00",
-  "LastChanged_Achievements": "2023-12-11T21:03:26.7189281+00:00",
+  "LastChanged_Achievements": "2023-12-11T22:04:24.6013269+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-11T20:57:08.205006+00:00",
-  "LastUpdate_Achievements": "2023-12-11T21:03:26.7189817+00:00"
+  "LastUpdate_Ratings": "2023-12-11T21:57:19.5996288+00:00",
+  "LastUpdate_Achievements": "2023-12-11T22:04:24.6013623+00:00"
 }

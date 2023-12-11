@@ -14,7 +14,7 @@
 | Gotta Go Fast | 54.00% | ~42 |
 | Slotting Machine | 45.00% | ~35 |
 | Systematic | 42.00% | ~33 |
-| Mine Sweeper | 37.00% | ~29 |
+| Mine Sweeper | 38.00% | ~30 |
 | Roll Out | 36.00% | ~28 |
 | Dopa-Miner | 28.00% | ~22 |
 | Botropolis | 26.00% | ~20 |

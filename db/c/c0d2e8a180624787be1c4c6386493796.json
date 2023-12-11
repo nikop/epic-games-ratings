@@ -489,9 +489,9 @@
       "ID": "KR4_ACHIEVEMENT_APEX_PREDATOR",
       "SetID": "caeik3h",
       "Name": "Apex Predator",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
@@ -1118,8 +1118,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-11T21:04:40.9623366+00:00",
+  "LastChanged_Achievements": "2023-12-11T22:06:11.3805491+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:53.8103037+00:00",
-  "LastUpdate_Ratings": "2023-12-11T20:59:49.8868978+00:00",
-  "LastUpdate_Achievements": "2023-12-11T21:04:40.9623914+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:01:26.9772884+00:00",
+  "LastUpdate_Achievements": "2023-12-11T22:06:11.3806313+00:00"
 }

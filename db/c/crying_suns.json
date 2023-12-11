@@ -3,8 +3,8 @@
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 599,
-  "Ranking_Popularity": 280,
-  "Ranking_PopularitySum": 385,
+  "Ranking_Popularity": 281,
+  "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 123,
@@ -655,9 +655,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 472114,
+  "EOS_Progressed": 472115,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25025,6 +25025,11 @@
       "Time": "2023-12-11T20:09:19.7135383+00:00",
       "NumProgressed": 472114,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-11T22:10:26.5178949+00:00",
+      "NumProgressed": 472115,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25052,7 +25057,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113307
+      "UsersEstimate": 113308
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -25076,7 +25081,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47211
+      "UsersEstimate": 47212
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -25124,7 +25129,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311595
+      "UsersEstimate": 311596
     },
     {
       "ID": "achievement_story_landa",
@@ -25156,7 +25161,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118028
+      "UsersEstimate": 118029
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -25460,7 +25465,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207730
+      "UsersEstimate": 207731
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -25492,7 +25497,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184124
+      "UsersEstimate": 184125
     },
     {
       "ID": "achievement_win_run_hard",
@@ -25667,21 +25672,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16048,
+      "Progressed": 16049,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472114,
+      "Progressed": 472115,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-06T08:57:12.0332693+00:00",
-  "LastChanged_Achievements": "2023-12-11T21:09:10.2092787+00:00",
+  "LastChanged_Achievements": "2023-12-11T22:10:26.5178946+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.6716506+00:00",
-  "LastUpdate_Ratings": "2023-12-11T21:00:02.5157375+00:00",
-  "LastUpdate_Achievements": "2023-12-11T21:09:10.209439+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:01:47.4422437+00:00",
+  "LastUpdate_Achievements": "2023-12-11T22:10:26.5180626+00:00"
 }

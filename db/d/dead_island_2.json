@@ -7485,9 +7485,9 @@
       "Count": 526
     }
   ],
-  "EOS_Progressed": 733478,
+  "EOS_Progressed": 733487,
   "EOS_Completed": 2476,
-  "EOS_NewPlayers": 3247,
+  "EOS_NewPlayers": 3234,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -34495,6 +34495,11 @@
       "Time": "2023-12-11T21:08:18.6543692+00:00",
       "NumProgressed": 733478,
       "NumCompleted": 2476
+    },
+    {
+      "Time": "2023-12-11T22:09:14.3745494+00:00",
+      "NumProgressed": 733487,
+      "NumCompleted": 2476
     }
   ],
   "TotalAchievements": 51,
@@ -34664,9 +34669,9 @@
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14670
+      "UsersEstimate": 22005
     },
     {
       "ID": "ach_impressive_aim",
@@ -34842,7 +34847,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22004
+      "UsersEstimate": 22005
     },
     {
       "ID": "ach_well_known_survivor",
@@ -34866,7 +34871,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "ach_dark_magic",
@@ -34913,22 +34918,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 733478,
+      "Progressed": 733487,
       "Completed": 2476
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 59020,
-      "Completed": 36654
+      "Progressed": 59029,
+      "Completed": 36655
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-11T18:57:26.9511641+00:00",
-  "LastChanged_Achievements": "2023-12-11T21:08:18.6543688+00:00",
+  "LastChanged_Achievements": "2023-12-11T22:09:14.3745486+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:31.7932919+00:00",
-  "LastUpdate_Ratings": "2023-12-11T20:57:15.6405833+00:00",
-  "LastUpdate_Achievements": "2023-12-11T21:08:18.6544923+00:00"
+  "LastUpdate_Ratings": "2023-12-11T21:57:29.536801+00:00",
+  "LastUpdate_Achievements": "2023-12-11T22:09:14.374713+00:00"
 }

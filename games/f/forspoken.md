@@ -5,7 +5,7 @@ Rating: 4.13 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,355 |
+| Attachments | 10.00% | ~4,356 |
 | Unlocked Potential | 9.00% | ~3,920 |
 | Tinkerer | 7.00% | ~3,049 |
 | Leapfrogger | 6.00% | ~2,613 |
@@ -38,7 +38,7 @@ Rating: 4.13 (Ranked 971)
 | Realized Potential | 0.70% | ~305 |
 | Awakening | 0.60% | ~261 |
 | Explorer: Trailblazer | 0.60% | ~261 |
-| Through the Eyes of Another: Seer | 0.50% | ~218 |
+| Through the Eyes of Another: Seer | 0.40% | ~174 |
 | Archivist | 0.30% | ~131 |
 | Craftsperson | 0.30% | ~131 |
 | Tit for Tat | 0.30% | ~131 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 971)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,553 (Ranked 119)  
+Progressed: 43,556 (Ranked 119)  
 Completed: 3 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 3 (0.01%) (Ranked 348)
 | 2023-12-08 | 43,450 | 3 |
 | 2023-12-09 | 43,486 | 3 |
 | 2023-12-10 | 43,521 | 3 |
-| 2023-12-11 | 43,553 | 3 |
+| 2023-12-11 | 43,556 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 502)  
 Sum: 29 (Ranked 518)  

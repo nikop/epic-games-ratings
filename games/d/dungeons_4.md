@@ -31,7 +31,7 @@
 | Dungeonlord Gorgu | 45.00% | ~244 |
 | Tanos' Crusade Against Thalya | 45.00% | ~244 |
 | Mana Cannon | 42.00% | ~228 |
-| All’s Well That Ends Evil | 38.00% | ~206 |
+| All’s Well That Ends Evil | 39.00% | ~212 |
 | The Duel | 35.00% | ~190 |
 | Unstoppable Horde | 34.00% | ~185 |
 | Master of the Undead | 34.00% | ~185 |
@@ -40,13 +40,13 @@
 | The Finitude Drill | 29.00% | ~157 |
 | Forbidden Knowledge | 28.00% | ~152 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~147 |
+| Stop Tanos! | 27.00% | ~147 |
 | Hungry, Hungry Gorgu! | 26.00% | ~141 |
-| Stop Tanos! | 26.00% | ~141 |
 | Doom Hill | 26.00% | ~141 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~136 |
 | Sabotage! | 23.00% | ~125 |
+| Raiders of the Lost Stone | 23.00% | ~125 |
 | Bonus Evilness | 22.00% | ~119 |
-| Raiders of the Lost Stone | 22.00% | ~119 |
 | The Rune Sockets of Finitude (Part 1) | 22.00% | ~119 |
 | The Rune Sockets of Finitude (Part 2) | 20.00% | ~109 |
 | Rubble and Ashes | 19.00% | ~103 |

@@ -3,11 +3,11 @@
   "Name": "DEATHLOOP",
   "ProductSlug": "deathloop",
   "Ranking_Rating": 576,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 396,
+  "Ranking_Popularity": 217,
+  "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-03-24T15:00:00+00:00",
@@ -853,12 +853,18 @@
       "Rating": 4.51,
       "NumberOfAwards": 219,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-12-11T21:57:06.4552341+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 703,
+      "NumberOfAwardsMax": 483
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 219,
-  "NumberOfAwardsMax": 36,
-  "MaxAwardTitle": "Unique Visuals",
+  "NumberOfAwards": 703,
+  "NumberOfAwardsMax": 483,
+  "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
@@ -882,7 +888,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Extremely Fun",
@@ -901,6 +907,12 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 30
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 483
     }
   ],
   "EOS_Progressed": 0,
@@ -914,8 +926,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2023-12-11T14:01:50.8719236+00:00",
+  "LastChanged": "2023-12-11T21:57:06.4552339+00:00",
   "LastUpdate_AppInfo": "2023-12-09T13:57:02.2733307+00:00",
-  "LastUpdate_Ratings": "2023-12-11T20:57:00.62861+00:00",
-  "LastUpdate_Achievements": "2023-12-11T21:08:17.3021961+00:00"
+  "LastUpdate_Ratings": "2023-12-11T21:57:06.4552343+00:00",
+  "LastUpdate_Achievements": "2023-12-11T22:09:12.3062734+00:00"
 }

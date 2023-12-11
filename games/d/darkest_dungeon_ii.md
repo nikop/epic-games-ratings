@@ -6,39 +6,41 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 1.00% | ~11 |
+| Malpractice Assurance | 2.00% | ~22 |
 | This guy... again? | 0.90% | ~10 |
-| This Belongs in a Museum | 0.50% | ~631 |
-| Not Today! | 0.40% | ~505 |
+| This Belongs in a Museum | 0.60% | ~757 |
+| Not Today! | 0.50% | ~631 |
+| Catch and Decease | 0.50% | ~631 |
+| Escape from the Black Hole | 0.50% | ~631 |
+| Creep and Sleep | 0.40% | ~505 |
 | Meat and Greet | 0.40% | ~505 |
-| Catch and Decease | 0.40% | ~505 |
 | Overdue Notice | 0.40% | ~505 |
-| Escape from the Black Hole | 0.40% | ~505 |
-| Creep and Sleep | 0.30% | ~379 |
+| Autodidact | 0.30% | ~379 |
 | Don't Make Me Turn This Coach Around | 0.20% | ~252 |
 | Serenity Now! | 0.20% | ~252 |
 | Unleash Hell | 0.20% | ~252 |
+| Funny Guy | 0.20% | ~252 |
+| Boxcar Kid | 0.20% | ~252 |
 | Unfulfilled Desires | 0.20% | ~252 |
+| Dissector | 0.20% | ~252 |
+| Banishment | 0.20% | ~252 |
+| Deprogramming | 0.20% | ~252 |
 | Rush Hour | 0.20% | ~252 |
 | To Grandmother's House | 0.20% | ~252 |
-| Autodidact | 0.20% | ~252 |
+| A Clear Conscience | 0.20% | ~252 |
 | A Place to Lay Your Head | 0.20% | ~252 |
 | Nope | 0.20% | ~252 |
+| Bloody Graduation | 0.20% | ~2 |
 | It Rings a Bell | 0.10% | ~126 |
 | A Life Well Lived | 0.10% | ~126 |
 | Resurrection | 0.10% | ~126 |
-| Funny Guy | 0.10% | ~126 |
 | Long Live the King | 0.10% | ~126 |
 | Wyrdly Reconstructed | 0.10% | ~126 |
-| Boxcar Kid | 0.10% | ~126 |
 | The World As It Was | 0.10% | ~126 |
 | This Looks Familiar | 0.10% | ~126 |
 | Hope Rekindled | 0.10% | ~126 |
 | Loop Year | 0.10% | ~126 |
 | Predator | 0.10% | ~126 |
-| Dissector | 0.10% | ~126 |
-| Banishment | 0.10% | ~126 |
-| Deprogramming | 0.10% | ~126 |
 | Ichthyophobic | 0.10% | ~126 |
 | Now Stay Dead | 0.10% | ~126 |
 | No More Mouths to Feed | 0.10% | ~126 |
@@ -46,6 +48,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Reverse Banditry | 0.10% | ~126 |
 | Circle of Life | 0.10% | ~126 |
 | Bacon Bits | 0.10% | ~126 |
+| No Gravestone Left Unturned | 0.10% | ~126 |
 | It Happens | 0.10% | ~126 |
 | Hat Trick | 0.10% | ~126 |
 | Spelunker | 0.10% | ~126 |
@@ -55,7 +58,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | 20,000 Leagues Above the Sea | 0.10% | ~126 |
 | Tears in the Rain | 0.10% | ~126 |
 | Shrine of Reflection | 0.10% | ~126 |
-| A Clear Conscience | 0.10% | ~126 |
 | Whale | 0.10% | ~126 |
 | Triage | 0.10% | ~126 |
 | When You Want Something Done Right | 0.10% | ~126 |
@@ -76,17 +78,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 0.10% | ~1 |
 | Et Tu, Riposte? | 0.10% | ~1 |
 | Ploughshares to Swords | 0.10% | ~1 |
-| Bloody Graduation | 0.10% | ~1 |
 | Lost and Found | 0.10% | ~1 |
 | Friends 'Til the End | 0.10% | ~1 |
 | For Old Time' Sake | 0.10% | ~1 |
-| No Gravestone Left Unturned | 0.00% | ~0 |
 | The Clash | 0.00% | ~0 |
 | Battle Hardened | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,211 (Ranked 84)  
+Progressed: 126,221 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-08 | 125,859 | 2 |
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
-| 2023-12-11 | 126,211 | 2 |
+| 2023-12-11 | 126,221 | 2 |
 ## Awards
 Max (Character Customization): 7,586  (Ranked 52)  
 Sum: 20,081 (Ranked 59)  

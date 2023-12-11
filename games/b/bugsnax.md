@@ -273,8 +273,8 @@ Completed: 1,396 (4.86%) (Ranked 76)
 | 2023-12-10 | 28,732 | 1,396 |
 | 2023-12-11 | 28,737 | 1,396 |
 ## Awards
-Max (Amazing Storytelling): 43  (Ranked 456)  
-Sum: 368 (Ranked 355)  
+Max (Amazing Storytelling): 43  (Ranked 457)  
+Sum: 368 (Ranked 356)  
 Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |

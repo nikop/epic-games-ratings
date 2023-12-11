@@ -3,11 +3,11 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 68,
-  "Ranking_Popularity": 225,
+  "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 3699,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3413,9 +3413,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 17948,
+  "EOS_Progressed": 17954,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": -9,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15398,6 +15398,11 @@
       "Time": "2023-12-11T21:05:21.9895942+00:00",
       "NumProgressed": 17948,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-11T22:07:10.4176663+00:00",
+      "NumProgressed": 17954,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15498,7 +15503,7 @@
       "Name": "First Real Expedition",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "WinHard",
@@ -15506,7 +15511,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "WinImpossible",
@@ -15640,9 +15645,9 @@
       "ID": "WinNearStatue",
       "SetID": "cfbk359",
       "Name": "Statue of the Forefathers",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 90
     },
     {
       "ID": "WinNearTemple",
@@ -15664,9 +15669,9 @@
       "ID": "WinNearWatchtower",
       "SetID": "cfbk359",
       "Name": "Watchtower",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 162
     },
     {
       "ID": "WinOnCoral",
@@ -15674,7 +15679,7 @@
       "Name": "Coral Forest",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "WinOnCursed",
@@ -15690,7 +15695,7 @@
       "Name": "The Marshlands",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "WinOnMoorlands",
@@ -15698,7 +15703,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "WinPrestige10",
@@ -15746,7 +15751,7 @@
       "Name": "Taking Action",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "WinWithResolve",
@@ -15786,7 +15791,7 @@
       "Name": "No Deaths",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "WinWithoutOrders",
@@ -15818,7 +15823,7 @@
       "Name": "Frosts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "WinNearGreed",
@@ -15850,7 +15855,7 @@
       "Name": "Ominous Presence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "WinNearStorms",
@@ -15858,7 +15863,7 @@
       "Name": "Gathering Storm",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -15881,15 +15886,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17948,
+      "Progressed": 17954,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-11T16:58:21.5812918+00:00",
-  "LastChanged_Achievements": "2023-12-11T21:05:21.9895936+00:00",
+  "LastChanged_Achievements": "2023-12-11T22:07:10.4176659+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-11T20:58:16.3547629+00:00",
-  "LastUpdate_Achievements": "2023-12-11T21:05:21.9896761+00:00"
+  "LastUpdate_Ratings": "2023-12-11T21:59:03.4261676+00:00",
+  "LastUpdate_Achievements": "2023-12-11T22:07:10.4177904+00:00"
 }

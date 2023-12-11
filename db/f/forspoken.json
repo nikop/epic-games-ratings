@@ -469,9 +469,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43553,
+  "EOS_Progressed": 43556,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14789,6 +14789,11 @@
       "Time": "2023-12-11T21:06:11.9378434+00:00",
       "NumProgressed": 43553,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-11T22:08:22.5979473+00:00",
+      "NumProgressed": 43556,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -14838,9 +14843,9 @@
       "ID": "CHALLENGE_TEN",
       "SetID": "6d0g7k8",
       "Name": "Through the Eyes of Another: Seer",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 174
     },
     {
       "ID": "CHAPTER_01_CLEAR",
@@ -14848,7 +14853,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4355
+      "UsersEstimate": 4356
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15223,22 +15228,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43553,
+      "Progressed": 43556,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8390,
-      "Completed": 8390
+      "Progressed": 8393,
+      "Completed": 8393
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-09T13:58:58.5190883+00:00",
-  "LastChanged_Achievements": "2023-12-11T21:06:11.9378428+00:00",
+  "LastChanged_Achievements": "2023-12-11T22:08:22.597947+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:12.2339808+00:00",
-  "LastUpdate_Ratings": "2023-12-11T20:59:29.5301937+00:00",
-  "LastUpdate_Achievements": "2023-12-11T21:06:11.937956+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:00:56.0459853+00:00",
+  "LastUpdate_Achievements": "2023-12-11T22:08:22.5980428+00:00"
 }

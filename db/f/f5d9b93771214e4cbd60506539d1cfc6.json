@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156174,
+  "EOS_Progressed": 156178,
   "EOS_Completed": 358,
-  "EOS_NewPlayers": 794,
+  "EOS_NewPlayers": 796,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -21255,6 +21255,11 @@
       "Time": "2023-12-11T21:05:46.5449272+00:00",
       "NumProgressed": 156174,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2023-12-11T22:07:45.5738381+00:00",
+      "NumProgressed": 156178,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 31,
@@ -21274,7 +21279,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 109322
+      "UsersEstimate": 109325
     },
     {
       "ID": "EAwards_10",
@@ -21282,7 +21287,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 21864
+      "UsersEstimate": 21865
     },
     {
       "ID": "EAwards_11",
@@ -21306,7 +21311,7 @@
       "Name": "Next-gen!!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9370
+      "UsersEstimate": 9371
     },
     {
       "ID": "EAwards_14",
@@ -21314,7 +21319,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 60908
+      "UsersEstimate": 60909
     },
     {
       "ID": "EAwards_15",
@@ -21330,7 +21335,7 @@
       "Name": "Cock of the Walk",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3123
+      "UsersEstimate": 3124
     },
     {
       "ID": "EAwards_17",
@@ -21338,7 +21343,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 34358
+      "UsersEstimate": 34359
     },
     {
       "ID": "EAwards_18",
@@ -21346,7 +21351,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 34358
+      "UsersEstimate": 34359
     },
     {
       "ID": "EAwards_19",
@@ -21354,7 +21359,7 @@
       "Name": "Lore Master",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3123
+      "UsersEstimate": 3124
     },
     {
       "ID": "EAwards_2",
@@ -21362,7 +21367,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 43729
+      "UsersEstimate": 43730
     },
     {
       "ID": "EAwards_20",
@@ -21378,7 +21383,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 17179
+      "UsersEstimate": 17180
     },
     {
       "ID": "EAwards_22",
@@ -21394,7 +21399,7 @@
       "Name": "Heavyweight",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3123
+      "UsersEstimate": 3124
     },
     {
       "ID": "EAwards_24",
@@ -21450,7 +21455,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 29673
+      "UsersEstimate": 29674
     },
     {
       "ID": "EAwards_30",
@@ -21466,7 +21471,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23426
+      "UsersEstimate": 23427
     },
     {
       "ID": "EAwards_5",
@@ -21490,7 +21495,7 @@
       "Name": "I swat you",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3123
+      "UsersEstimate": 3124
     },
     {
       "ID": "EAwards_8",
@@ -21498,7 +21503,7 @@
       "Name": "Flawless",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 59346
+      "UsersEstimate": 59348
     },
     {
       "ID": "EAwards_9",
@@ -21513,7 +21518,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 156174,
+      "Progressed": 156178,
       "Completed": 358
     }
   ],
@@ -21521,8 +21526,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-11T13:07:34.3622541+00:00",
-  "LastChanged_Achievements": "2023-12-11T21:05:46.5449267+00:00",
+  "LastChanged_Achievements": "2023-12-11T22:07:45.5738377+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.48101+00:00",
-  "LastUpdate_Ratings": "2023-12-11T20:59:58.5168434+00:00",
-  "LastUpdate_Achievements": "2023-12-11T21:05:46.5450443+00:00"
+  "LastUpdate_Ratings": "2023-12-11T22:01:41.1049913+00:00",
+  "LastUpdate_Achievements": "2023-12-11T22:07:45.5739315+00:00"
 }

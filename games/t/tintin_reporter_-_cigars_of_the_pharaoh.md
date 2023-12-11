@@ -20,12 +20,12 @@
 | Dynamite, Treason and Coconuts | 6.00% | ~5 |
 | Save a Friend | 6.00% | ~5 |
 | The Eyes! | 5.00% | ~4 |
+| Punctual | 5.00% | ~4 |
 | Keep the Doctor Away | 3.00% | ~3 |
 | Just a Palm Tree | 3.00% | ~3 |
 | Under the Hood | 3.00% | ~3 |
 | Long Live Gaipajama! | 3.00% | ~3 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
-| Punctual | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
 | Eyes Shut | 2.00% | ~2 |
 | A Diagnosis | 2.00% | ~2 |

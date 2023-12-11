@@ -267,8 +267,8 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-10 | 3,111 | 2 |
 | 2023-12-11 | 3,112 | 2 |
 ## Awards
-Max (Great for Quick Sessions): 59  (Ranked 417)  
-Sum: 560 (Ranked 320)  
+Max (Great for Quick Sessions): 59  (Ranked 418)  
+Sum: 560 (Ranked 321)  
 Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
