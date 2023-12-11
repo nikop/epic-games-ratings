@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.20% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.19% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -117,7 +117,7 @@
 | 115 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.75% |
 | 116 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
 | 116 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
-| 118 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.72% |
+| 118 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.71% |
 | 119 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.62% |
 | 120 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.56% |
 | 121 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -170,8 +170,8 @@
 | 168 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |
 | 169 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
 | 170 | [Sable](games/s/sable.md) | 1.01% |
+| 171 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.96% |
 | 171 | [Trifox](games/t/trifox.md) | 0.96% |
-| 172 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.94% |
 | 173 | [A Musical Story](games/a/a_musical_story.md) | 0.93% |
 | 174 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.92% |
 | 175 | [Hades](games/h/hades.md) | 0.91% |
@@ -179,8 +179,8 @@
 | 176 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.89% |
 | 178 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
 | 179 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.86% |
-| 180 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.84% |
-| 181 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
+| 180 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
+| 180 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
 | 182 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 183 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.80% |
 | 184 | [Infindustry](games/i/infindustry.md) | 0.79% |
@@ -244,10 +244,10 @@
 | 242 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.29% |
 | 242 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.29% |
 | 242 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
-| 245 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.28% |
 | 245 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
-| 247 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.27% |
-| 247 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
+| 246 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
+| 246 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.27% |
+| 246 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
 | 249 | [Filament](games/f/filament.md) | 0.26% |
 | 249 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.26% |
 | 251 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
