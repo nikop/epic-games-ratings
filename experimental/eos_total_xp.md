@@ -130,6 +130,7 @@
 | [Battlefield V Definitive Edition](../games/b/battlefield_v_definitive_edition.md) | 21 | 1,000 |
 | [Battlefield™ 2042](../games/b/battlefield™_2042.md) | 34 | 1,000 |
 | [Beach Invasion 1944](../games/b/beach_invasion_1944.md) | 40 | 1,000 |
+| [Bio Inc. Redemption](../games/f/f00f2d0ae4f04fc987d4218d9355f026.md) | 32 | 1,000 |
 | [Biped](../games/b/biped.md) | 15 | 1,000 |
 | [Black Academy](../games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 29 | 1,000 |
 | [Black Book](../games/b/black_book.md) | 50 | 1,000 |

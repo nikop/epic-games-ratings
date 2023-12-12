@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.14% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.13% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -69,8 +69,8 @@
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.88% |
-| 70 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.67% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.77% |
+| 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 74 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.50% |
@@ -117,7 +117,7 @@
 | 115 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.75% |
 | 116 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
 | 116 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
-| 118 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.70% |
+| 118 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.69% |
 | 119 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.62% |
 | 120 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.56% |
 | 121 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -139,7 +139,7 @@
 | 137 | [Frogun](games/f/frogun.md) | 1.76% |
 | 138 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.73% |
 | 139 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.63% |
-| 140 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.62% |
+| 140 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.61% |
 | 141 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 142 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
 | 143 | [Five Dates](games/f/five_dates.md) | 1.52% |
@@ -148,10 +148,10 @@
 | 146 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.45% |
 | 147 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.43% |
 | 148 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.34% |
+| 149 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.33% |
 | 149 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.33% |
 | 149 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.33% |
-| 151 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.32% |
-| 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.32% |
+| 152 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.32% |
 | 153 | [Chorus](games/c/chorus.md) | 1.30% |
 | 153 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
 | 155 | [Late Shift](games/l/late_shift.md) | 1.26% |
@@ -208,9 +208,9 @@
 | 205 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
 | 205 | [Tails of Iron](games/t/tails_of_iron.md) | 0.54% |
 | 208 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.52% |
-| 209 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.51% |
-| 210 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.50% |
-| 210 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.50% |
+| 209 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.50% |
+| 209 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.50% |
+| 209 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.50% |
 | 212 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.49% |
 | 213 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.48% |
 | 213 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
@@ -403,6 +403,7 @@
 | 371 | [Batora: Lost Haven](games/c/c609e63aa7f44e55835f51df979ee6b8.md) | 0.00% |
 | 371 | [Battle Ram](games/b/battle_ram.md) | 0.00% |
 | 371 | [Battlefield V Definitive Edition](games/b/battlefield_v_definitive_edition.md) | 0.00% |
+| 371 | [Bio Inc. Redemption](games/f/f00f2d0ae4f04fc987d4218d9355f026.md) | 0.00% |
 | 371 | [Biped](games/b/biped.md) | 0.00% |
 | 371 | [Black Academy](games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 0.00% |
 | 371 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 0.00% |
@@ -787,4 +788,4 @@
 | 371 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 371 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 371 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,701 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,702 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |

@@ -390,6 +390,7 @@
 | [ACL Pro Cornhole](../games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 32 | 1,000 |
 | [Asterix and Obelix Slap Them All 2](../games/3/3afeb43f23944b2da7aba1f04ad5756c.md) | 32 | 1,000 |
 | [ATOM RPG Trudograd](../games/a/atom_rpg_trudograd.md) | 32 | 1,000 |
+| [Bio Inc. Redemption](../games/f/f00f2d0ae4f04fc987d4218d9355f026.md) | 32 | 1,000 |
 | [BLACKTAIL](../games/b/blacktail.md) | 32 | 1,000 |
 | [Dolphin Spirit - Ocean Mission](../games/d/dolphin_spirit_-_ocean_mission.md) | 32 | 1,000 |
 | [International Basketball Manager 23](../games/e/e9543b5d696d4129af27a26b22ceeaff.md) | 32 | 1,000 |
