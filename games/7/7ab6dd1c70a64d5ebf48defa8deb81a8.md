@@ -21,7 +21,7 @@
 | Fashion Victim | 9.00% | ~24 |
 | The Mentor | 8.00% | ~21 |
 | Essence Blow | 8.00% | ~21 |
-| Calm before the Storm | 7.00% | ~18 |
+| Calm before the Storm | 7.00% | ~19 |
 | To Battle | 6.00% | ~16 |
 | Godslayer | 6.00% | ~16 |
 | Alchemist | 6.00% | ~16 |
@@ -41,8 +41,8 @@
 | Shardbearer | 1.00% | ~3 |
 | Feeling Fancy | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 264 (Ranked 373)  
-Completed: 2 (0.76%) (Ranked 185)  
+Progressed: 265 (Ranked 373)  
+Completed: 2 (0.75%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,3 +102,4 @@ Completed: 2 (0.76%) (Ranked 185)
 | 2023-12-09 | 256 | 2 |
 | 2023-12-10 | 262 | 2 |
 | 2023-12-11 | 264 | 2 |
+| 2023-12-12 | 265 | 2 |

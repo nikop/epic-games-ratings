@@ -3,12 +3,12 @@
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
   "Ranking_Rating": 497,
-  "Ranking_Popularity": 560,
-  "Ranking_PopularitySum": 560,
+  "Ranking_Popularity": 561,
+  "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -19305,8 +19305,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-03T18:02:47.0707275+00:00",
-  "LastChanged_Achievements": "2023-12-12T15:05:53.8805362+00:00",
+  "LastChanged_Achievements": "2023-12-12T16:06:28.7274902+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:11.003832+00:00",
-  "LastUpdate_Ratings": "2023-12-12T15:03:49.3929109+00:00",
-  "LastUpdate_Achievements": "2023-12-12T15:05:53.8806372+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:03:28.3923667+00:00",
+  "LastUpdate_Achievements": "2023-12-12T16:06:28.7275848+00:00"
 }

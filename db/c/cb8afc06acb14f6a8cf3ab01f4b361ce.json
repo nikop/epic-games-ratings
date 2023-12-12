@@ -2,7 +2,7 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 926,
+  "Ranking_Rating": 927,
   "Ranking_Popularity": 412,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 52,
@@ -407,9 +407,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 327801,
+  "EOS_Progressed": 327825,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3465,
+  "EOS_NewPlayers": 3462,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9342,6 +9342,11 @@
       "Time": "2023-12-12T15:06:28.3178328+00:00",
       "NumProgressed": 327801,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-12T16:07:17.6022595+00:00",
+      "NumProgressed": 327825,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9354,7 +9359,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9834
+      "UsersEstimate": 9835
     },
     {
       "ID": "S02_BRDA",
@@ -9490,7 +9495,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9834
+      "UsersEstimate": 9835
     },
     {
       "ID": "S19_CHALLENGES",
@@ -9578,7 +9583,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "S30_DIAMOND",
@@ -9673,7 +9678,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 327801,
+      "Progressed": 327825,
       "Completed": 5
     }
   ],
@@ -9681,8 +9686,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-12T02:24:05.66625+00:00",
-  "LastChanged_Achievements": "2023-12-12T15:06:28.3178321+00:00",
+  "LastChanged_Achievements": "2023-12-12T16:07:17.6022591+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-12T15:00:50.0297778+00:00",
-  "LastUpdate_Achievements": "2023-12-12T15:06:28.3179036+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:01:59.5461081+00:00",
+  "LastUpdate_Achievements": "2023-12-12T16:07:17.6023276+00:00"
 }

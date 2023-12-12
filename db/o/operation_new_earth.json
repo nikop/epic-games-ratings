@@ -3,12 +3,12 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1062,
-  "Ranking_Popularity": 560,
-  "Ranking_PopularitySum": 560,
+  "Ranking_Popularity": 561,
+  "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2016,
+  "EOS_Progressed": 2017,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7679,6 +7679,11 @@
       "Time": "2023-12-12T15:04:17.0627336+00:00",
       "NumProgressed": 2016,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-12T16:04:11.5375332+00:00",
+      "NumProgressed": 2017,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7770,7 +7775,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "objective_headquarters_15",
@@ -7802,7 +7807,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -7842,7 +7847,7 @@
       "Name": "Colonel",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -7866,7 +7871,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7898,7 +7903,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -7930,7 +7935,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -7986,14 +7991,14 @@
       "Name": "Control the Skies",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2016,
+      "Progressed": 2017,
       "Completed": 1
     }
   ],
@@ -8001,8 +8006,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-12T15:04:17.062733+00:00",
+  "LastChanged_Achievements": "2023-12-12T16:04:11.5375328+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:59:55.8317805+00:00",
-  "LastUpdate_Achievements": "2023-12-12T15:04:17.0628051+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:00:36.0298162+00:00",
+  "LastUpdate_Achievements": "2023-12-12T16:04:11.5375799+00:00"
 }

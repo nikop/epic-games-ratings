@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 497)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,439 |
-| Pay 'n' Spray | 52.00% | ~7,254 |
+| Getting Started | 82.00% | ~11,440 |
+| Pay 'n' Spray | 52.00% | ~7,255 |
 | All Dressed Up for San Fierro | 27.00% | ~3,767 |
 | The American Dream | 20.00% | ~2,790 |
-| School's Out | 19.00% | ~2,650 |
+| School's Out | 19.00% | ~2,651 |
 | Smooth Moves | 17.00% | ~2,372 |
 | What happens in Las Venturas... | 16.00% | ~2,232 |
 | Today Was a Good Day | 16.00% | ~2,232 |
-| Horror of the Santa Maria | 11.00% | ~1,534 |
+| Horror of the Santa Maria | 11.00% | ~1,535 |
 | Liberty City State of Mind | 10.00% | ~1,395 |
 | Original Gangster | 9.00% | ~1,256 |
 | The End of the Line | 8.00% | ~1,116 |
@@ -22,11 +22,11 @@ Rating: 4.56 (Ranked 497)
 | They Can’t Stop All of Us | 5.00% | ~698 |
 | Rescue a Kitten Too? | 5.00% | ~698 |
 | What are the Odds | 4.00% | ~558 |
-| I’ll Have Two Number 9s | 3.00% | ~418 |
-| Bike or Biker | 3.00% | ~418 |
-| What the City Needs | 3.00% | ~418 |
-| Yes I Speak English | 3.00% | ~418 |
-| Public Enemy No. 1 | 3.00% | ~418 |
+| I’ll Have Two Number 9s | 3.00% | ~419 |
+| Bike or Biker | 3.00% | ~419 |
+| What the City Needs | 3.00% | ~419 |
+| Yes I Speak English | 3.00% | ~419 |
+| Public Enemy No. 1 | 3.00% | ~419 |
 | A Legitimate Business | 2.00% | ~279 |
 | Who Needs Directions? | 2.00% | ~279 |
 | Swiss Army Strife | 2.00% | ~279 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 497)
 | ...Here we go again | 0.50% | ~70 |
 | I Ain't No Buster | 0.40% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,950 (Ranked 160)  
+Progressed: 13,951 (Ranked 160)  
 Completed: 57 (0.41%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 57 (0.41%) (Ranked 224)
 | 2023-12-09 | 13,917 | 56 |
 | 2023-12-10 | 13,930 | 56 |
 | 2023-12-11 | 13,941 | 57 |
-| 2023-12-12 | 13,950 | 57 |
+| 2023-12-12 | 13,951 | 57 |
 ## Awards
 Max (Great Boss Battles): 439  (Ranked 227)  
 Sum: 719 (Ranked 297)  

@@ -3,8 +3,8 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 90,
-  "Ranking_Popularity": 560,
-  "Ranking_PopularitySum": 560,
+  "Ranking_Popularity": 561,
+  "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 156,
@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1114,
+  "EOS_Progressed": 1115,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.87,
   "EosHistory": [
@@ -3718,6 +3718,11 @@
       "Time": "2023-12-12T14:04:54.0872041+00:00",
       "NumProgressed": 1114,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-12T16:05:02.8573755+00:00",
+      "NumProgressed": 1115,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3738,7 +3743,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "_03_FinishAct1",
@@ -3746,7 +3751,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3786,7 +3791,7 @@
       "Name": "Swabbie",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "_09_Completion_20",
@@ -3818,7 +3823,7 @@
       "Name": "Privateer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "_13_Completion_60",
@@ -3850,7 +3855,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3858,7 +3863,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3890,7 +3895,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -3937,7 +3942,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1114,
+      "Progressed": 1115,
       "Completed": 32
     }
   ],
@@ -3945,8 +3950,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-09T12:00:24.7987919+00:00",
-  "LastChanged_Achievements": "2023-12-12T15:04:53.4813326+00:00",
+  "LastChanged_Achievements": "2023-12-12T16:05:02.8573752+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:58:13.6027862+00:00",
-  "LastUpdate_Achievements": "2023-12-12T15:04:53.4813638+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:58:02.294422+00:00",
+  "LastUpdate_Achievements": "2023-12-12T16:05:02.8574046+00:00"
 }

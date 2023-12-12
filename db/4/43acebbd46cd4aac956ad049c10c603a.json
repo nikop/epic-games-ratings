@@ -3,12 +3,12 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 560,
-  "Ranking_PopularitySum": 560,
+  "Ranking_Popularity": 561,
+  "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,9 +216,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 941,
+  "EOS_Progressed": 942,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2371,6 +2371,11 @@
       "Time": "2023-12-12T05:05:56.4723327+00:00",
       "NumProgressed": 941,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-12T16:06:05.9794381+00:00",
+      "NumProgressed": 942,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2463,7 +2468,7 @@
       "Name": "Circular Oasis",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "DesolateIsland",
@@ -2503,7 +2508,7 @@
       "Name": "Excellent",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "FloodedValley",
@@ -2511,15 +2516,15 @@
       "Name": "Flooded Valley",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 38
     },
     {
       "ID": "GoodCitizen",
@@ -2631,7 +2636,7 @@
       "Name": "Not What It Seems",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Overload",
@@ -2687,7 +2692,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Signatory",
@@ -2781,9 +2786,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 141
     },
     {
       "ID": "TheWordEndures",
@@ -2807,7 +2812,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "VerdantCanyon",
@@ -2815,7 +2820,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Wanderers",
@@ -2831,7 +2836,7 @@
       "Name": "Western Delta",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "WoodedPlateau",
@@ -2854,7 +2859,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 941,
+      "Progressed": 942,
       "Completed": 1
     }
   ],
@@ -2862,8 +2867,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-12T15:05:37.5876222+00:00",
+  "LastChanged_Achievements": "2023-12-12T16:06:05.9794378+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:59:34.1431334+00:00",
-  "LastUpdate_Achievements": "2023-12-12T15:05:37.5876708+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:00:03.6398139+00:00",
+  "LastUpdate_Achievements": "2023-12-12T16:06:05.9794911+00:00"
 }

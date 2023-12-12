@@ -239,8 +239,8 @@ Completed: 7 (0.35%) (Ranked 233)
 | 2023-12-10 | 2,026 | 7 |
 | 2023-12-11 | 2,027 | 7 |
 ## Awards
-Max (Impact the Story): 29  (Ranked 503)  
-Sum: 29 (Ranked 519)  
+Max (Impact the Story): 29  (Ranked 504)  
+Sum: 29 (Ranked 520)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |

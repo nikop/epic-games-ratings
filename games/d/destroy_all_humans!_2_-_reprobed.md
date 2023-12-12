@@ -6,19 +6,19 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 47.00% | ~18 |
-| Rock of the Bay | 42.00% | ~16 |
-| Furon Fashion | 29.00% | ~11 |
-| Ducks in a Row, Fish in a Barrel | 29.00% | ~11 |
-| Shop Til They Drop | 26.00% | ~10 |
-| I Look Up As I Walk to Takoshima | 24.00% | ~9 |
-| Upgreatest | 21.00% | ~8 |
+| Mash Machine | 45.00% | ~18 |
+| Rock of the Bay | 40.00% | ~16 |
+| Furon Fashion | 28.00% | ~11 |
+| Ducks in a Row, Fish in a Barrel | 28.00% | ~11 |
+| Shop Til They Drop | 25.00% | ~10 |
+| I Look Up As I Walk to Takoshima | 23.00% | ~9 |
+| Upgreatest | 20.00% | ~8 |
 | Earthly Pleasures | 18.00% | ~7 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~5 |
 | Pimp My Raid | 13.00% | ~5 |
-| Perfect Probulator | 11.00% | ~4 |
-| Cult Following | 11.00% | ~4 |
-| Fly Me to the Moon Base | 11.00% | ~4 |
+| Perfect Probulator | 10.00% | ~4 |
+| Cult Following | 10.00% | ~4 |
+| Fly Me to the Moon Base | 10.00% | ~4 |
 | Transmitting From Sol-3 | 8.00% | ~3 |
 | Lie Back and Think of Albion | 8.00% | ~3 |
 | Bodied Sattva | 8.00% | ~3 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 | Arkvoodle Doodle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 530)  
+Progressed: 40 (Ranked 526)  
 Completed: 0 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,10 +67,10 @@ Completed: 0 (0.00%) (Ranked 372)
 | 2023-12-09 | 28 | 0 |
 | 2023-12-10 | 30 | 0 |
 | 2023-12-11 | 36 | 0 |
-| 2023-12-12 | 38 | 0 |
+| 2023-12-12 | 40 | 0 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 479)  
-Sum: 36 (Ranked 509)  
+Max (Great Boss Battles): 36  (Ranked 480)  
+Sum: 36 (Ranked 510)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |

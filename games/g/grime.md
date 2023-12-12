@@ -16,14 +16,14 @@ Number of Ratings: 46  (23.09.2022)
 | Devourer | 0.30% | ~487 |
 | Yank | 0.30% | ~487 |
 | Sharpened Vessel | 0.30% | ~487 |
-| Shapely | 0.20% | ~324 |
+| Shapely | 0.20% | ~325 |
 | Scion | 0.20% | ~324 |
 | Glare | 0.20% | ~324 |
-| Jawcrab | 0.20% | ~324 |
-| Jawstag | 0.20% | ~324 |
-| Feast | 0.20% | ~324 |
-| Watcher | 0.20% | ~324 |
-| Predator | 0.20% | ~324 |
+| Jawcrab | 0.20% | ~325 |
+| Jawstag | 0.20% | ~325 |
+| Feast | 0.20% | ~325 |
+| Watcher | 0.20% | ~325 |
+| Predator | 0.20% | ~325 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~162 |
 | Skinmaker | 0.10% | ~162 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~162 |
 | Intensify | 0.10% | ~162 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162,250 (Ranked 78)  
-Completed: 296 (0.18%) (Ranked 267)  
+Progressed: 162,267 (Ranked 78)  
+Completed: 297 (0.18%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -266,14 +266,14 @@ Completed: 296 (0.18%) (Ranked 267)
 | 2023-12-09 | 161,887 | 273 |
 | 2023-12-10 | 162,054 | 284 |
 | 2023-12-11 | 162,182 | 294 |
-| 2023-12-12 | 162,250 | 296 |
+| 2023-12-12 | 162,267 | 297 |
 ## Awards
-Max (Highly Recommended): 55  (Ranked 427)  
-Sum: 401 (Ranked 347)  
-Diff (max vs sum): 80  
+Max (Highly Recommended): 56  (Ranked 423)  
+Sum: 402 (Ranked 346)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 55 |
+| This game is Highly Recommended | 56 |
 | This game has Quickly Understood Controls | 55 |
 | This game has Unique Visuals | 55 |
 | This game has Amazing Storytelling | 54 |
@@ -442,3 +442,4 @@ Diff (max vs sum): 80
 | 2023-12-07 | 4.59 | - | 55 | 398 |
 | 2023-12-08 | 4.59 | - | 55 | 400 |
 | 2023-12-10 | 4.59 | - | 55 | 401 |
+| 2023-12-12 | 4.59 | - | 56 | 402 |

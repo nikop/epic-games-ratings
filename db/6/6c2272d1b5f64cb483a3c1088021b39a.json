@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4938,9 +4938,9 @@
       "ID": "tomb_raider_3",
       "SetID": "53c1p3k",
       "Name": "Tomb Raider 3",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -4953,8 +4953,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-12T15:10:23.1504259+00:00",
+  "LastChanged_Achievements": "2023-12-12T16:10:41.4378911+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.3284719+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:58:13.8763807+00:00",
-  "LastUpdate_Achievements": "2023-12-12T15:10:23.1504997+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:58:02.717501+00:00",
+  "LastUpdate_Achievements": "2023-12-12T16:10:41.4379748+00:00"
 }

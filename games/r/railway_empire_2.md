@@ -6,35 +6,35 @@ Rating: 4.42 (Ranked 717)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 76.00% | ~1,803 |
-| A new Journey | 75.00% | ~1,779 |
-| Departure | 74.00% | ~1,755 |
+| A new Journey | 75.00% | ~1,780 |
+| Departure | 74.00% | ~1,756 |
 | From X to Y | 73.00% | ~1,732 |
-| Way of Iron | 71.00% | ~1,684 |
+| Way of Iron | 71.00% | ~1,685 |
 | Mystery Tour | 69.00% | ~1,637 |
-| We brake for nobody | 68.00% | ~1,613 |
+| We brake for nobody | 68.00% | ~1,614 |
 | Brainstorm | 66.00% | ~1,566 |
 | Travel Company | 66.00% | ~1,566 |
 | Mind the Gap | 65.00% | ~1,542 |
-| All around the World | 63.00% | ~1,494 |
+| All around the World | 63.00% | ~1,495 |
 | Right through the middle | 58.00% | ~1,376 |
 | Facility Manager | 54.00% | ~1,281 |
 | Poor Devil | 54.00% | ~1,281 |
 | Producer | 51.00% | ~1,210 |
-| Bridge Builder | 42.00% | ~996 |
+| Bridge Builder | 42.00% | ~997 |
 | Apprentice | 41.00% | ~973 |
 | Going once, going twice, sold | 36.00% | ~854 |
-| Access granted | 35.00% | ~830 |
-| Bull and bear | 34.00% | ~806 |
+| Access granted | 35.00% | ~831 |
+| Bull and bear | 34.00% | ~807 |
 | Stoker | 33.00% | ~783 |
-| Full Steam ahead | 33.00% | ~783 |
-| All mine | 31.00% | ~735 |
-| Financial Shark | 31.00% | ~735 |
+| Full Steam ahead | 32.00% | ~759 |
+| All mine | 31.00% | ~736 |
+| Financial Shark | 31.00% | ~736 |
 | Mole | 30.00% | ~712 |
 | Socializer | 30.00% | ~712 |
 | General Manager | 28.00% | ~664 |
 | Country Life | 28.00% | ~664 |
 | Hostile Takeover | 25.00% | ~593 |
-| Seven at one stroke | 24.00% | ~569 |
+| Seven at one stroke | 24.00% | ~570 |
 | Traffic Junction | 22.00% | ~522 |
 | Breaking Ground | 22.00% | ~522 |
 | Trailblazer | 21.00% | ~498 |
@@ -49,9 +49,9 @@ Rating: 4.42 (Ranked 717)
 | Locusts | 14.00% | ~332 |
 | A new Hope | 11.00% | ~261 |
 | Tycoon | 11.00% | ~261 |
-| Unstoppable | 9.00% | ~213 |
-| Track to the Future | 9.00% | ~213 |
-| Call of Duty | 9.00% | ~213 |
+| Unstoppable | 9.00% | ~214 |
+| Track to the Future | 9.00% | ~214 |
+| Call of Duty | 9.00% | ~214 |
 | Conductor | 7.00% | ~166 |
 | Engineer | 4.00% | ~95 |
 | Let off some steam | 4.00% | ~95 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 717)
 | United States | 0.60% | ~14 |
 | Together we stand | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,372 (Ranked 222)  
+Progressed: 2,373 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 0 (0.00%) (Ranked 372)
 | 2023-12-09 | 2,358 | 0 |
 | 2023-12-10 | 2,364 | 0 |
 | 2023-12-11 | 2,370 | 0 |
-| 2023-12-12 | 2,372 | 0 |
+| 2023-12-12 | 2,373 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

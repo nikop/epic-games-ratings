@@ -3,12 +3,12 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 560,
-  "Ranking_PopularitySum": 560,
+  "Ranking_Popularity": 561,
+  "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4508,
+  "EOS_Progressed": 4509,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8290,6 +8290,11 @@
       "Time": "2023-12-12T14:08:45.8360615+00:00",
       "NumProgressed": 4508,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-12T16:08:51.2477033+00:00",
+      "NumProgressed": 4509,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8365,7 +8370,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "Ach010",
@@ -8565,7 +8570,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "Ach035",
@@ -8653,7 +8658,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "Ach046",
@@ -8669,7 +8674,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "Ach048",
@@ -8701,7 +8706,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "Ach052",
@@ -8868,13 +8873,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4508,
+      "Progressed": 4509,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 3029,
+      "Progressed": 3030,
       "Completed": 1930
     }
   ],
@@ -8882,8 +8887,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-12T15:09:05.3006394+00:00",
+  "LastChanged_Achievements": "2023-12-12T16:08:51.2477029+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:18.6418134+00:00",
-  "LastUpdate_Ratings": "2023-12-12T15:03:33.139957+00:00",
-  "LastUpdate_Achievements": "2023-12-12T15:09:05.3007167+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:03:03.4460866+00:00",
+  "LastUpdate_Achievements": "2023-12-12T16:08:51.2477828+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,269 |
-| Alt+F4 | 9.00% | ~21,817 |
-| Where's that freaking Dwarf? | 8.00% | ~19,393 |
-| Déjà vu | 7.00% | ~16,969 |
+| Sowwy! | 36.00% | ~87,272 |
+| Alt+F4 | 9.00% | ~21,818 |
+| Where's that freaking Dwarf? | 8.00% | ~19,394 |
+| Déjà vu | 7.00% | ~16,970 |
 | A beer, two curses, three companions | 5.00% | ~12,121 |
 | Sock! SOCK! | 5.00% | ~12,121 |
 | GG EZ | 5.00% | ~12,121 |
 | Speedrun | 5.00% | ~12,121 |
 | DM intervention | 4.00% | ~9,697 |
 | Fireproof Wizardess | 4.00% | ~9,697 |
-| Livin' in a dwarven paradise | 3.00% | ~7,272 |
-| Way of the Wimp | 3.00% | ~7,272 |
-| The plot thickens... At the tavern | 3.00% | ~7,272 |
-| The demons' feast | 3.00% | ~7,272 |
-| The Woman in the High Castle | 3.00% | ~7,272 |
+| Livin' in a dwarven paradise | 3.00% | ~7,273 |
+| Way of the Wimp | 3.00% | ~7,273 |
+| The plot thickens... At the tavern | 3.00% | ~7,273 |
+| The demons' feast | 3.00% | ~7,273 |
+| The Woman in the High Castle | 3.00% | ~7,273 |
 | Shiny and Crôm | 2.00% | ~4,848 |
 | The Great Library | 2.00% | ~4,848 |
 | Torture and Sensibility | 2.00% | ~4,848 |
@@ -48,8 +48,8 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 0.90% | ~2,182 |
 | We come in peace | 0.80% | ~1,939 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,697 |
-| Holistic Adventuring Party | 0.60% | ~1,454 |
-| Law and Order | 0.60% | ~1,454 |
+| Holistic Adventuring Party | 0.60% | ~1,455 |
+| Law and Order | 0.60% | ~1,455 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,212 |
 | It's been a hard day's night | 0.50% | ~1,212 |
 | Friendly fire | 0.40% | ~970 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,415 (Ranked 63)  
+Progressed: 242,422 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 7 (0.00%) (Ranked 372)
 | 2023-12-09 | 242,023 | 7 |
 | 2023-12-10 | 242,215 | 7 |
 | 2023-12-11 | 242,333 | 7 |
-| 2023-12-12 | 242,415 | 7 |
+| 2023-12-12 | 242,422 | 7 |
 ## Awards
 Max (Character Customization): 245  (Ranked 273)  
 Sum: 517 (Ranked 326)  

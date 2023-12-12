@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -866,9 +866,9 @@
       "ID": "Poosh Past 2500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 2500",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "Poosh Past 5000",
@@ -890,9 +890,9 @@
       "ID": "Poosh over 250000",
       "SetID": "5n829i",
       "Name": "Pooshed over 250000",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Terrible Start",
@@ -912,8 +912,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-12-12T15:09:15.7602274+00:00",
+  "LastChanged_Achievements": "2023-12-12T16:09:06.4825751+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:06.2667338+00:00",
-  "LastUpdate_Ratings": "2023-12-12T15:03:42.830898+00:00",
-  "LastUpdate_Achievements": "2023-12-12T15:09:15.7602436+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:03:18.5386678+00:00",
+  "LastUpdate_Achievements": "2023-12-12T16:09:06.4825901+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 3714,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3351,10 +3351,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3254,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-12T15:59:46.1889639+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3255,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3254,
+  "NumberOfAwards": 3255,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3410,7 +3416,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 215
+      "Count": 216
     },
     {
       "Text": "This game has Unique Visuals",
@@ -15559,9 +15565,9 @@
       "ID": "Win5Years",
       "SetID": "cfbk359",
       "Name": "Homesick",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 144
     },
     {
       "ID": "WinFirstGame",
@@ -15958,9 +15964,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-12T03:59:13.9193704+00:00",
-  "LastChanged_Achievements": "2023-12-12T15:06:50.0296311+00:00",
+  "LastChanged": "2023-12-12T15:59:46.1889637+00:00",
+  "LastChanged_Achievements": "2023-12-12T16:07:48.1461528+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:59:22.1025084+00:00",
-  "LastUpdate_Achievements": "2023-12-12T15:06:50.0297512+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:59:46.1889642+00:00",
+  "LastUpdate_Achievements": "2023-12-12T16:07:48.1462403+00:00"
 }

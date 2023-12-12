@@ -6,7 +6,7 @@ Rating: 4.44 (Ranked 681)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,882 |
-| Confirming Suspicions | 41.00% | ~1,642 |
+| Confirming Suspicions | 42.00% | ~1,682 |
 | The Kraken Wakes | 37.00% | ~1,481 |
 | It's Starting to Crack | 34.00% | ~1,361 |
 | Lord of War | 31.00% | ~1,241 |
@@ -313,8 +313,8 @@ Completed: 11 (0.27%) (Ranked 246)
 | 2023-12-11 | 4,003 | 11 |
 | 2023-12-12 | 4,004 | 11 |
 ## Awards
-Max (Great for Beginners): 28  (Ranked 508)  
-Sum: 28 (Ranked 524)  
+Max (Great for Beginners): 28  (Ranked 509)  
+Sum: 28 (Ranked 525)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |

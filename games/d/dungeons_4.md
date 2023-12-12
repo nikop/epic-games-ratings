@@ -44,9 +44,9 @@
 | Hungry, Hungry Gorgu! | 26.00% | ~141 |
 | Doom Hill | 26.00% | ~141 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~136 |
+| Bonus Evilness | 23.00% | ~125 |
 | Sabotage! | 23.00% | ~125 |
 | Raiders of the Lost Stone | 23.00% | ~125 |
-| Bonus Evilness | 22.00% | ~119 |
 | The Rune Sockets of Finitude (Part 1) | 22.00% | ~119 |
 | The Rune Sockets of Finitude (Part 2) | 20.00% | ~109 |
 | Rubble and Ashes | 19.00% | ~103 |
@@ -63,7 +63,7 @@
 | Laser Eyes Are So Useless | 11.00% | ~60 |
 | Hands Off My Stones | 11.00% | ~60 |
 | Gorgu is in the Best of Health | 10.00% | ~54 |
-| No Mana, No Cry | 8.00% | ~43 |
+| No Mana, No Cry | 9.00% | ~49 |
 | I Don't Need Any Help | 8.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 543 (Ranked 312)  

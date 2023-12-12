@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2446,
+  "EOS_Progressed": 2447,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6042,6 +6042,11 @@
       "Time": "2023-12-12T13:11:22.0202259+00:00",
       "NumProgressed": 2446,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T16:07:12.4732513+00:00",
+      "NumProgressed": 2447,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6230,7 +6235,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -6342,7 +6347,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6445,14 +6450,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2446,
+      "Progressed": 2447,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-12T15:06:24.5769071+00:00",
+  "LastChanged_Achievements": "2023-12-12T16:07:12.473251+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:59:18.2142392+00:00",
-  "LastUpdate_Achievements": "2023-12-12T15:06:24.5769597+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:59:40.0838863+00:00",
+  "LastUpdate_Achievements": "2023-12-12T16:07:12.4733118+00:00"
 }

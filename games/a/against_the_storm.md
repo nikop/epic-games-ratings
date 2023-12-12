@@ -24,8 +24,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 1.00% | ~180 |
 | The Scarlet Orchard | 1.00% | ~180 |
 | Watchtower | 0.90% | ~162 |
+| Homesick | 0.80% | ~144 |
 | Lost Colonies | 0.80% | ~144 |
-| Homesick | 0.70% | ~126 |
 | Bandit Camp | 0.70% | ~126 |
 | Monastery of the Holy Flame | 0.70% | ~126 |
 | Ruined Armory | 0.60% | ~108 |
@@ -305,7 +305,7 @@ Completed: 40 (0.22%) (Ranked 255)
 | 2023-12-12 | 17,977 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 226)  
-Sum: 3,254 (Ranked 175)  
+Sum: 3,255 (Ranked 175)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): 51
 | This game has Amazing Storytelling | 319 |
 | This game has Amazing Characters | 287 |
 | This game has Obsessive Gameplay | 254 |
-| This game has a Creative Community | 215 |
+| This game has a Creative Community | 216 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -573,4 +573,4 @@ Diff (max vs sum): 51
 | 2023-12-09 | 4.82 | - | 442 | 3,248 |
 | 2023-12-10 | 4.82 | - | 442 | 3,250 |
 | 2023-12-11 | 4.82 | - | 442 | 3,253 |
-| 2023-12-12 | 4.82 | - | 442 | 3,254 |
+| 2023-12-12 | 4.82 | - | 442 | 3,255 |

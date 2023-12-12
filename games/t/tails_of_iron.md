@@ -29,7 +29,7 @@ Rating: 4.55 (Ranked 514)
 | Defeat Rattus Augustail | 27.00% | ~603 |
 | Complete the Chefs Book | 25.00% | ~558 |
 | Complete Ranger Faction | 21.00% | ~469 |
-| Defeat Avor Warden of the Northern Wastes | 20.00% | ~447 |
+| Defeat Avor Warden of the Northern Wastes | 21.00% | ~469 |
 | Discover the mystery of the Kings Chambers | 19.00% | ~424 |
 | Complete Arena Faction | 16.00% | ~357 |
 | Complete Redgi's Armory | 8.00% | ~179 |

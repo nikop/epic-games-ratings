@@ -3,11 +3,11 @@
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
   "Ranking_Rating": 681,
-  "Ranking_Popularity": 560,
-  "Ranking_PopularitySum": 560,
+  "Ranking_Popularity": 561,
+  "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -471,7 +471,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3343,
+  "EOS_Progressed": 3344,
   "EOS_Completed": 138,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 3,
@@ -5291,6 +5291,11 @@
       "Time": "2023-12-12T15:06:10.9726944+00:00",
       "NumProgressed": 3343,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-12-12T16:06:53.1880564+00:00",
+      "NumProgressed": 3344,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 14,
@@ -5300,9 +5305,9 @@
       "ID": "ACH_ANCIENT_CURSE",
       "SetID": "4kfb9pd",
       "Name": "Ancient Curse",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 969
+      "UsersEstimate": 936
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -5350,7 +5355,7 @@
       "Name": "Family Lost",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -5366,7 +5371,7 @@
       "Name": "Imprisonment",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -5374,7 +5379,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "ACH_REUNION",
@@ -5382,7 +5387,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -5398,7 +5403,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -5413,7 +5418,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3343,
+      "Progressed": 3344,
       "Completed": 138
     }
   ],
@@ -5421,8 +5426,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-12T15:06:10.9726935+00:00",
+  "LastChanged_Achievements": "2023-12-12T16:06:53.1880561+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:09.6040213+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:59:22.8539619+00:00",
-  "LastUpdate_Achievements": "2023-12-12T15:06:10.9727312+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:59:47.8853061+00:00",
+  "LastUpdate_Achievements": "2023-12-12T16:06:53.1880876+00:00"
 }

@@ -23,6 +23,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Heavy Hitter | 0.50% | ~1,205 |
 | Delving Deeper | 0.50% | ~1,205 |
 | R.I.P | 0.50% | ~1,205 |
+| Cold Hearted | 0.50% | ~1,205 |
 | The Bestiary | 0.50% | ~1,205 |
 | Goodbye, Frog Friend | 0.50% | ~1,205 |
 | Heartless | 0.50% | ~1,205 |
@@ -39,7 +40,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Who To Trust? | 0.40% | ~964 |
 | Walk It Off | 0.40% | ~964 |
 | Just Chilling | 0.40% | ~964 |
-| Cold Hearted | 0.40% | ~964 |
 | I Am Overburdened | 0.40% | ~964 |
 | Save Our Souls | 0.40% | ~964 |
 | Destroy Your Fears | 0.40% | ~964 |

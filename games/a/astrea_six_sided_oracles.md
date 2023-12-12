@@ -8,7 +8,7 @@
 | Purification Pioneer | 55.00% | ~55 |
 | Mechanical Buddy | 52.00% | ~52 |
 | Dicesmithing Time! | 49.00% | ~49 |
-| Endless Tricks | 45.00% | ~45 |
+| Endless Tricks | 46.00% | ~46 |
 | Sanctuary Guardian | 44.00% | ~44 |
 | Mind Illuminator | 39.00% | ~39 |
 | Noctuan Champion | 38.00% | ~38 |
