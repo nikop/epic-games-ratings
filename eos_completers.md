@@ -109,7 +109,7 @@
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 109 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 109 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.93% |
+| 110 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.92% |
 | 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.88% |
 | 112 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 112 | [Night Book](games/n/night_book.md) | 2.78% |
@@ -138,7 +138,7 @@
 | 136 | [Sifu](games/s/sifu.md) | 1.80% |
 | 137 | [Frogun](games/f/frogun.md) | 1.76% |
 | 138 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.73% |
-| 139 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.64% |
+| 139 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.63% |
 | 140 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.62% |
 | 141 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 142 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
@@ -214,9 +214,9 @@
 | 212 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.49% |
 | 213 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.48% |
 | 213 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
-| 215 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 215 | [Eternights](games/e/eternights.md) | 0.46% |
-| 215 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.46% |
+| 215 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.47% |
+| 216 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 216 | [Eternights](games/e/eternights.md) | 0.46% |
 | 218 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
 | 218 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.44% |
 | 218 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.44% |
@@ -296,14 +296,14 @@
 | 292 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.10% |
 | 292 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 292 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.10% |
+| 292 | [Riverbond](games/r/riverbond.md) | 0.10% |
 | 292 | [Supraland](games/s/supraland.md) | 0.10% |
-| 298 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.09% |
-| 298 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 298 | [Port Royale 4](games/p/port_royale_4.md) | 0.09% |
-| 298 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 298 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 298 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
-| 298 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 299 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.09% |
+| 299 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 299 | [Port Royale 4](games/p/port_royale_4.md) | 0.09% |
+| 299 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 299 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
+| 299 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 305 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.08% |
 | 305 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.08% |
 | 305 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.08% |
@@ -787,4 +787,4 @@
 | 371 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 371 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 371 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,700 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,701 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
