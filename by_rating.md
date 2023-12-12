@@ -104,7 +104,7 @@
 | 99 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 680 | 189 |
 | 99 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 167 | 313 |
 | 99 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 560 |
-| 99 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,202 | 142 |
+| 99 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,206 | 142 |
 | 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 826 | 173 |
 | 99 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 410 | 234 |
 | 99 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 45 | 450 |
@@ -191,7 +191,7 @@
 | 173 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 560 |
 | 190 | [Barony](games/b/barony.md) | 4.72 | 97 | 373 |
 | 190 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 524 | 212 |
-| 190 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.72 | 256 | 271 |
+| 190 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.72 | 257 | 270 |
 | 190 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 80 | 393 |
 | 190 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 352 | 244 |
 | 190 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 560 |
@@ -374,7 +374,7 @@
 | 371 | [Aimlabs](games/a/aimlabs.md) | 4.62 | 63 | 414 |
 | 371 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 905 | 164 |
 | 371 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.62 | 0 | 560 |
-| 371 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 289 | 262 |
+| 371 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 290 | 261 |
 | 371 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 104 | 361 |
 | 371 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.62 | 0 | 560 |
 | 371 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,690 | 126 |
@@ -608,7 +608,7 @@
 | 599 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 321 | 252 |
 | 599 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 560 |
 | 599 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 560 |
-| 599 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 655 | 191 |
+| 599 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 656 | 191 |
 | 599 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 4.50 | 0 | 560 |
 | 599 | [Redout 2](games/r/redout_2.md) | 4.50 | 0 | 560 |
 | 599 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 0 | 560 |
@@ -698,7 +698,7 @@
 | 681 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.44 | 29 | 503 |
 | 697 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 51 | 438 |
 | 697 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.43 | 111 | 352 |
-| 697 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,890 | 28 |
+| 697 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,897 | 28 |
 | 697 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.43 | 0 | 560 |
 | 697 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.43 | 0 | 560 |
 | 697 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 560 |
@@ -1060,5 +1060,5 @@
 | 1,058 | [Adios](games/a/adios.md) | 3.53 | 0 | 560 |
 | 1,059 | [Redfall](games/r/redfall.md) | 3.47 | 0 | 560 |
 | 1,060 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.46 | 0 | 560 |
-| 1,061 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.39 | 0 | 560 |
+| 1,060 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.46 | 0 | 560 |
 | 1,062 | [Operation New Earth](games/o/operation_new_earth.md) | 3.23 | 0 | 560 |
