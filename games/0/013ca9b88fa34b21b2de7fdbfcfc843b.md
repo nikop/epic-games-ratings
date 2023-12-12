@@ -42,7 +42,7 @@ Rating: 4.60 (Ranked 422)
 | Workaholic | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,419 (Ranked 176)  
-Completed: 1 (0.01%) (Ranked 348)  
+Completed: 1 (0.01%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

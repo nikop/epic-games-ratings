@@ -2,10 +2,10 @@
   "ID": "36bcb7861f4e48adbdb7adbe04b683e0",
   "Name": "WORLD OF ART - learn with JIGSAW PUZZLES",
   "ProductSlug": "world-of-art-learn-with-jigsaw-puzzles-c908c2",
-  "Ranking_EOS_Progress": 790,
-  "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2020-06-17T22:00:00+00:00",
@@ -842,8 +842,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-07T15:03:10.8160278+00:00",
-  "LastChanged_Achievements": "2023-12-12T09:06:27.8872565+00:00",
+  "LastChanged_Achievements": "2023-12-12T10:06:26.2833763+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:57.2223615+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:00:36.4318557+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:06:27.8873414+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:00:55.8196351+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:06:26.2834628+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "b78765716f0f4fa0b9940efc0281ea54",
   "Name": "SeaOrama: World of Shipping",
   "ProductSlug": "seaorama-world-of-shipping-ff5abb",
-  "Ranking_EOS_Progress": 790,
-  "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-14T16:00:00+00:00",
     "PcReleaseDate": "2023-12-14T16:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-07T10:03:17.8516037+00:00",
-  "LastChanged_Achievements": "2023-12-12T09:06:25.6289986+00:00",
+  "LastChanged_Achievements": "2023-12-12T10:06:24.3162201+00:00",
   "LastUpdate_AppInfo": "2023-12-07T09:57:00.9515701+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:00:46.8202118+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:06:25.6290026+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:01:06.8960894+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:06:24.3162239+00:00"
 }

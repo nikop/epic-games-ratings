@@ -2,10 +2,10 @@
   "ID": "2c526317445249939868f82d02425e2f",
   "Name": "Syncromania",
   "ProductSlug": "syncromania-fcabc9",
-  "Ranking_EOS_Progress": 790,
-  "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-09T20:57:06.2425196+00:00",
-  "LastUpdate_Ratings": "2023-12-12T08:58:58.8644605+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:04:56.5336777+00:00"
+  "LastUpdate_Ratings": "2023-12-12T09:59:12.3275043+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:04:52.2072902+00:00"
 }

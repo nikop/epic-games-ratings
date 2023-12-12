@@ -3,9 +3,9 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 208,
-  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3453,
+  "EOS_Progressed": 3457,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5291,6 +5291,11 @@
       "Time": "2023-12-11T20:04:21.8904353+00:00",
       "NumProgressed": 3453,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-12T10:05:47.7634709+00:00",
+      "NumProgressed": 3457,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5310,7 +5315,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "FALLEN_TREE",
@@ -5334,7 +5339,7 @@
       "Name": "The will to move on",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "REUNION",
@@ -5366,7 +5371,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -5398,14 +5403,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3453,
+      "Progressed": 3457,
       "Completed": 6
     }
   ],
@@ -5413,8 +5418,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-12T09:05:50.2763594+00:00",
+  "LastChanged_Achievements": "2023-12-12T10:05:47.7634704+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:18.0649883+00:00",
-  "LastUpdate_Ratings": "2023-12-12T08:59:31.6084627+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:05:50.2764067+00:00"
+  "LastUpdate_Ratings": "2023-12-12T09:59:46.7854586+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:05:47.7635329+00:00"
 }

@@ -28,9 +28,9 @@ Rating: 4.58 (Ranked 452)
 | The fourth triplet | 27.00% | ~18 |
 | Little hero | 25.00% | ~17 |
 | Pandora's box | 25.00% | ~17 |
+| Ghost hunter | 24.00% | ~16 |
 | Sidelined | 24.00% | ~16 |
 | Master detective | 24.00% | ~16 |
-| Ghost hunter | 22.00% | ~15 |
 | Peacekeeper | 22.00% | ~15 |
 | Defender | 21.00% | ~14 |
 | Showdown | 19.00% | ~13 |
@@ -40,8 +40,8 @@ Rating: 4.58 (Ranked 452)
 | Freedom fighter | 15.00% | ~10 |
 | Titan Lord | 15.00% | ~10 |
 | Safecracker | 15.00% | ~10 |
+| King of the handymen | 13.00% | ~9 |
 | Expert | 12.00% | ~8 |
-| King of the handymen | 12.00% | ~8 |
 | The traveler | 10.00% | ~7 |
 | Terror of the hens | 10.00% | ~7 |
 | Moneybags | 9.00% | ~6 |
@@ -57,7 +57,7 @@ Rating: 4.58 (Ranked 452)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 67 (Ranked 487)  
-Completed: 0 (0.00%) (Ranked 371)  
+Completed: 0 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "066f15e046bf499e96c0ae352eb4a6ab",
   "Name": "Men of War: Vietnam - Special edition",
   "ProductSlug": "men-of-war-vietnam-a61b4f",
-  "Ranking_EOS_Progress": 790,
-  "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-06T14:00:00+00:00",
     "PcReleaseDate": "2011-09-09T08:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.8010257+00:00",
   "LastChanged": "2023-03-31T05:57:52.8010258+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:31.4674517+00:00",
-  "LastUpdate_Ratings": "2023-12-12T08:57:45.5528501+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:10:06.3467946+00:00"
+  "LastUpdate_Ratings": "2023-12-12T09:57:54.200825+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:10:10.42772+00:00"
 }

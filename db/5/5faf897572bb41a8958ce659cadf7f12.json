@@ -2,10 +2,10 @@
   "ID": "5faf897572bb41a8958ce659cadf7f12",
   "Name": "Silver Chains",
   "ProductSlug": "silver-chains-0d3bd1",
-  "Ranking_EOS_Progress": 790,
-  "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-08T16:00:00+00:00",
     "PcReleaseDate": "2019-08-06T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-08T16:57:21.8008188+00:00",
-  "LastUpdate_Ratings": "2023-12-12T08:59:46.9758488+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:05:42.7701649+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:00:03.7246945+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:05:39.7233379+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "cb27e4a1c1a345208e0c152df39f0b54",
   "Name": "Funtasia",
   "ProductSlug": "funtasia-furry-road-bd0756",
-  "Ranking_EOS_Progress": 790,
-  "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -51,8 +51,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.6152542+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.2013126+00:00",
   "LastChanged": "2023-03-31T05:58:08.6152543+00:00",
-  "LastChanged_Achievements": "2023-12-12T09:09:27.1049187+00:00",
+  "LastChanged_Achievements": "2023-12-12T10:09:29.5580719+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:34.726499+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:00:22.0928863+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:09:27.1049203+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:00:40.4640213+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:09:29.5580735+00:00"
 }

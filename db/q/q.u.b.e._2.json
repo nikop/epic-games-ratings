@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -575,10 +575,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43282,
-  "EOS_Completed": 202,
-  "EOS_NewPlayers": 826,
-  "EOS_NewCompleters": 12,
+  "EOS_Progressed": 43284,
+  "EOS_Completed": 203,
+  "EOS_NewPlayers": 824,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
     {
@@ -10310,6 +10310,11 @@
       "Time": "2023-12-12T09:09:35.6215932+00:00",
       "NumProgressed": 43282,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-12-12T10:09:38.3822279+00:00",
+      "NumProgressed": 43284,
+      "NumCompleted": 203
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -10322,7 +10327,7 @@
       "Name": "Descendants",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6492
+      "UsersEstimate": 6493
     },
     {
       "ID": "ACH_BLUEEND",
@@ -10338,7 +10343,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 8656
+      "UsersEstimate": 8657
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -10450,7 +10455,7 @@
       "Name": "Laser Sharp",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "ACH_EXSITE",
@@ -10482,7 +10487,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22507
+      "UsersEstimate": 22508
     },
     {
       "ID": "ACH_PEAK",
@@ -10514,7 +10519,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 29432
+      "UsersEstimate": 29433
     },
     {
       "ID": "ACH_S4",
@@ -10522,7 +10527,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 21641
+      "UsersEstimate": 21642
     },
     {
       "ID": "ACH_S5",
@@ -10538,7 +10543,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 32462
+      "UsersEstimate": 32463
     },
     {
       "ID": "ACH_STATUE",
@@ -10546,22 +10551,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 18611
+      "UsersEstimate": 18612
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 43282,
-      "Completed": 202
+      "Progressed": 43284,
+      "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-07T07:57:07.2452699+00:00",
-  "LastChanged_Achievements": "2023-12-12T09:09:35.6215928+00:00",
+  "LastChanged_Achievements": "2023-12-12T10:09:38.3822274+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.6550495+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:00:51.5502463+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:09:35.6216625+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:01:12.1455432+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:09:38.3822916+00:00"
 }

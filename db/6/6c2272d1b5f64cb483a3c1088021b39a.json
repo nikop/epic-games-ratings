@@ -3,9 +3,9 @@
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 254,
-  "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1249,
+  "EOS_Progressed": 1250,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4404,6 +4404,11 @@
       "Time": "2023-12-12T04:10:19.8783203+00:00",
       "NumProgressed": 1249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T10:10:44.6483377+00:00",
+      "NumProgressed": 1250,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4423,7 +4428,7 @@
       "Name": "Adventurous 2",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "adventurous_3",
@@ -4431,7 +4436,7 @@
       "Name": "Adventurous 3",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "archmage_1",
@@ -4487,7 +4492,7 @@
       "Name": "Catacombs Raid 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "catacombs_raid_2",
@@ -4527,7 +4532,7 @@
       "Name": "Collector 3",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "conqueror_1",
@@ -4535,7 +4540,7 @@
       "Name": "Conqueror 1",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "conqueror_2",
@@ -4559,7 +4564,7 @@
       "Name": "Diehard 1",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "diehard_2",
@@ -4581,9 +4586,9 @@
       "ID": "elemental_stones_1",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 1",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 625
     },
     {
       "ID": "elemental_stones_2",
@@ -4727,7 +4732,7 @@
       "Name": "Lord of the Tower 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "lord_of_the_tower_2",
@@ -4775,7 +4780,7 @@
       "Name": "Obsessed Carver 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "obsessed_carver_2",
@@ -4871,7 +4876,7 @@
       "Name": "Stronghold 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "stronghold_2",
@@ -4919,7 +4924,7 @@
       "Name": "Tomb Raider 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "tomb_raider_2",
@@ -4935,21 +4940,21 @@
       "Name": "Tomb Raider 3",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1249,
+      "Progressed": 1250,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-12T09:10:39.2684293+00:00",
+  "LastChanged_Achievements": "2023-12-12T10:10:44.6483373+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.3284719+00:00",
-  "LastUpdate_Ratings": "2023-12-12T08:57:36.3454325+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:10:39.2685051+00:00"
+  "LastUpdate_Ratings": "2023-12-12T09:57:43.9990499+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:10:44.6484106+00:00"
 }

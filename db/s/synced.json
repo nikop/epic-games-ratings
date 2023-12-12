@@ -3,10 +3,10 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 960,
-  "Ranking_Popularity": 363,
+  "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 313,
+  "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
@@ -1201,18 +1201,24 @@
       "Rating": 4.15,
       "NumberOfAwards": 411,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-12-12T09:58:30.0245498+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 412,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 411,
-  "NumberOfAwardsMax": 103,
+  "NumberOfAwards": 412,
+  "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 103
+      "Count": 104
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1269,7 +1275,7 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 68475,
+  "EOS_Progressed": 68476,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 1,
@@ -12274,6 +12280,11 @@
       "Time": "2023-12-12T09:05:22.4163603+00:00",
       "NumProgressed": 68475,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-12T10:05:18.8180691+00:00",
+      "NumProgressed": 68476,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -12326,7 +12337,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 4108
+      "UsersEstimate": 4109
     },
     {
       "ID": "15",
@@ -12382,7 +12393,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4108
+      "UsersEstimate": 4109
     },
     {
       "ID": "7",
@@ -12413,16 +12424,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 68475,
+      "Progressed": 68476,
       "Completed": 39
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-12-12T02:58:20.4118578+00:00",
-  "LastChanged_Achievements": "2023-12-12T09:05:22.41636+00:00",
+  "LastChanged": "2023-12-12T09:58:30.0245496+00:00",
+  "LastChanged_Achievements": "2023-12-12T10:05:18.8180686+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:19.3364255+00:00",
-  "LastUpdate_Ratings": "2023-12-12T08:58:19.0263699+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:05:22.4164125+00:00"
+  "LastUpdate_Ratings": "2023-12-12T09:58:30.02455+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:05:18.8181217+00:00"
 }

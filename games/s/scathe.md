@@ -9,34 +9,34 @@
 | Shock to the System | 3.00% | ~16 |
 | Bad Blood | 2.00% | ~11 |
 | Serious Bam | 1.00% | ~5 |
-| Doomed | 0.70% | ~4 |
-| Postal Service | 0.70% | ~4 |
-| Unreal | 0.70% | ~4 |
-| Bloodstorm | 0.60% | ~3 |
-| Pacifantastic | 0.60% | ~3 |
-| SCATHE Too | 0.60% | ~3 |
-| Amaging Work | 0.40% | ~2 |
-| ...And I'm All Out Of Gun | 0.40% | ~2 |
-| Castle Of The Wolf | 0.40% | ~2 |
-| Nuke Them All | 0.40% | ~2 |
-| Purely Not | 0.40% | ~2 |
-| Quakin' | 0.40% | ~2 |
-| Rune Escape | 0.40% | ~2 |
-| Shocking Bio | 0.40% | ~2 |
-| Such Sin | 0.40% | ~2 |
-| Gears of Door | 0.20% | ~1 |
-| Ice Work | 0.20% | ~1 |
-| Slaving Grace | 0.20% | ~1 |
-| Takin' Names | 0.20% | ~1 |
-| The Kingpin | 0.20% | ~1 |
-| Unreal 4 | 0.20% | ~1 |
-| Fear Nothing | 0.00% | ~0 |
-| Max Pain | 0.00% | ~0 |
-| Rage Quit | 0.00% | ~0 |
-| Until Dusk | 0.00% | ~0 |
+| Doomed | 0.90% | ~5 |
+| Postal Service | 0.90% | ~5 |
+| Unreal | 0.90% | ~5 |
+| Bloodstorm | 0.70% | ~4 |
+| Pacifantastic | 0.70% | ~4 |
+| SCATHE Too | 0.70% | ~4 |
+| Amaging Work | 0.60% | ~3 |
+| ...And I'm All Out Of Gun | 0.60% | ~3 |
+| Castle Of The Wolf | 0.60% | ~3 |
+| Nuke Them All | 0.60% | ~3 |
+| Purely Not | 0.60% | ~3 |
+| Quakin' | 0.60% | ~3 |
+| Rune Escape | 0.60% | ~3 |
+| Shocking Bio | 0.60% | ~3 |
+| Such Sin | 0.60% | ~3 |
+| Gears of Door | 0.40% | ~2 |
+| Ice Work | 0.40% | ~2 |
+| Slaving Grace | 0.40% | ~2 |
+| Takin' Names | 0.40% | ~2 |
+| The Kingpin | 0.40% | ~2 |
+| Unreal 4 | 0.40% | ~2 |
+| Fear Nothing | 0.20% | ~1 |
+| Max Pain | 0.20% | ~1 |
+| Rage Quit | 0.20% | ~1 |
+| Until Dusk | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536 (Ranked 314)  
-Completed: 0 (0.00%) (Ranked 371)  
+Progressed: 537 (Ranked 314)  
+Completed: 1 (0.19%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,7 +187,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-09 | 504 | 0 |
 | 2023-12-10 | 522 | 0 |
 | 2023-12-11 | 529 | 0 |
-| 2023-12-12 | 536 | 0 |
+| 2023-12-12 | 537 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,17 +6,18 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,980 |
-| Gun Fu | 7.00% | ~68,238 |
-| The Fool | 6.00% | ~58,490 |
-| Right Back At Ya | 5.00% | ~48,742 |
-| The Lovers | 5.00% | ~48,742 |
-| Full Body Conversion | 4.00% | ~38,993 |
-| Stanislavski's Method | 4.00% | ~38,993 |
-| The Wheel of Fortune | 4.00% | ~38,993 |
-| True Soldier | 4.00% | ~38,993 |
-| Christmas Tree Attack | 3.00% | ~29,245 |
-| The Hermit | 3.00% | ~29,245 |
+| V for Vendetta | 12.00% | ~116,982 |
+| Gun Fu | 7.00% | ~68,240 |
+| The Fool | 6.00% | ~58,491 |
+| Right Back At Ya | 5.00% | ~48,743 |
+| The Lovers | 5.00% | ~48,743 |
+| Full Body Conversion | 4.00% | ~38,994 |
+| Stanislavski's Method | 4.00% | ~38,994 |
+| The Wheel of Fortune | 4.00% | ~38,994 |
+| True Soldier | 4.00% | ~38,994 |
+| Christmas Tree Attack | 3.00% | ~29,246 |
+| The Hermit | 3.00% | ~29,246 |
+| Legend of The Afterlife | 3.00% | ~29,246 |
 | Relic Ruler | 3.00% | ~3,104 |
 | All the President's Men | 3.00% | ~3,104 |
 | Arachnophobia | 3.00% | ~3,104 |
@@ -27,14 +28,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 2.00% | ~19,497 |
 | The World | 2.00% | ~19,497 |
 | True Warrior | 2.00% | ~19,497 |
-| Legend of The Afterlife | 2.00% | ~19,497 |
-| To Protect and Serve | 1.00% | ~9,748 |
-| I Am The Law | 1.00% | ~9,748 |
-| Two Heads, One Bullet | 1.00% | ~9,748 |
-| Judy vs Night City | 1.00% | ~9,748 |
+| To Protect and Serve | 1.00% | ~9,749 |
+| I Am The Law | 1.00% | ~9,749 |
+| Two Heads, One Bullet | 1.00% | ~9,749 |
+| Judy vs Night City | 1.00% | ~9,749 |
 | Spin Doctor | 1.00% | ~1,035 |
 | Easy Come, Easy Go | 1.00% | ~1,035 |
-| The Wandering Fool | 0.90% | ~8,773 |
+| The Wandering Fool | 0.90% | ~8,774 |
 | King of Wands | 0.90% | ~931 |
 | The Sun | 0.80% | ~7,799 |
 | Dirty Deeds | 0.80% | ~828 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974,833 (Ranked 15)  
-Completed: 2,888 (0.30%) (Ranked 240)  
+Progressed: 974,851 (Ranked 15)  
+Completed: 2,889 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -310,10 +310,10 @@ Completed: 2,888 (0.30%) (Ranked 240)
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
-| 2023-12-12 | 974,833 | 2,888 |
+| 2023-12-12 | 974,851 | 2,889 |
 ## Awards
 Max (Character Customization): 121,434  (Ranked 9)  
-Sum: 411,438 (Ranked 9)  
+Sum: 411,615 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -322,7 +322,7 @@ Diff (max vs sum): 0
 | This game is Great for Beginners | 25,134 |
 | This game has Diverse Characters | 24,680 |
 | This game is Highly Recommended | 23,469 |
-| This game has Amazing Storytelling | 23,194 |
+| This game has Amazing Storytelling | 23,371 |
 | This game is Extremely Fun | 23,105 |
 | This game has Amazing Characters | 22,866 |
 | This game is Relaxing | 22,083 |
@@ -658,4 +658,4 @@ Diff (max vs sum): 0
 | 2023-12-09 | 4.66 | - | 120,272 | 405,418 |
 | 2023-12-10 | 4.66 | - | 120,955 | 408,628 |
 | 2023-12-11 | 4.66 | - | 121,434 | 411,235 |
-| 2023-12-12 | 4.66 | - | 121,434 | 411,438 |
+| 2023-12-12 | 4.66 | - | 121,434 | 411,615 |

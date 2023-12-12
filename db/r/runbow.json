@@ -6,9 +6,9 @@
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 371,
+  "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252089,
+  "EOS_Progressed": 252091,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21107,6 +21107,11 @@
       "Time": "2023-12-12T08:09:32.2628597+00:00",
       "NumProgressed": 252089,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-12T10:10:21.340038+00:00",
+      "NumProgressed": 252091,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21190,7 +21195,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37813
+      "UsersEstimate": 37814
     },
     {
       "ID": "clearCut",
@@ -21294,7 +21299,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133607
+      "UsersEstimate": 133608
     },
     {
       "ID": "indegestible",
@@ -21318,7 +21323,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65543
+      "UsersEstimate": 65544
     },
     {
       "ID": "justABit",
@@ -21350,7 +21355,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35292
+      "UsersEstimate": 35293
     },
     {
       "ID": "myFirstRunbow",
@@ -21358,7 +21363,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126044
+      "UsersEstimate": 126046
     },
     {
       "ID": "notScared",
@@ -21478,14 +21483,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40334
+      "UsersEstimate": 40335
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252089,
+      "Progressed": 252091,
       "Completed": 6
     }
   ],
@@ -21493,8 +21498,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-12T09:10:16.8098506+00:00",
+  "LastChanged_Achievements": "2023-12-12T10:10:21.3400375+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.3008765+00:00",
-  "LastUpdate_Ratings": "2023-12-12T08:58:58.9617232+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:10:16.8099657+00:00"
+  "LastUpdate_Ratings": "2023-12-12T09:59:12.4500872+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:10:21.3401825+00:00"
 }

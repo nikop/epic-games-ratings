@@ -2,10 +2,10 @@
   "ID": "613858ed797f4c4ba4724d03b6e4a57e",
   "Name": "1001 Jigsaw Cute Cats",
   "ProductSlug": "1001-jigsaw-cute-cats-36eb93",
-  "Ranking_EOS_Progress": 790,
-  "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-02T02:00:00+00:00",
     "PcReleaseDate": "2022-03-14T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-16T06:00:22.6403473+00:00",
   "LastUpdate_AppInfo": "2023-12-10T22:56:54.599372+00:00",
-  "LastUpdate_Ratings": "2023-12-12T08:59:28.0669294+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:09:44.560745+00:00"
+  "LastUpdate_Ratings": "2023-12-12T09:59:42.9953069+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:09:47.816778+00:00"
 }

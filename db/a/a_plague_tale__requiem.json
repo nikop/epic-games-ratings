@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -695,9 +695,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 14107,
+  "EOS_Progressed": 14108,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -12150,6 +12150,11 @@
       "Time": "2023-12-12T01:52:49.1112886+00:00",
       "NumProgressed": 14107,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-12T10:05:22.2238341+00:00",
+      "NumProgressed": 14108,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 35,
@@ -12177,7 +12182,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10439
+      "UsersEstimate": 10440
     },
     {
       "ID": "ACH_04",
@@ -12185,7 +12190,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 10016
+      "UsersEstimate": 10017
     },
     {
       "ID": "ACH_05",
@@ -12193,7 +12198,7 @@
       "Name": "In our Wake",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9734
+      "UsersEstimate": 9735
     },
     {
       "ID": "ACH_06",
@@ -12209,7 +12214,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8887
+      "UsersEstimate": 8888
     },
     {
       "ID": "ACH_08",
@@ -12217,7 +12222,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8746
+      "UsersEstimate": 8747
     },
     {
       "ID": "ACH_09",
@@ -12225,7 +12230,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 8323
+      "UsersEstimate": 8324
     },
     {
       "ID": "ACH_10",
@@ -12249,7 +12254,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 6630
+      "UsersEstimate": 6631
     },
     {
       "ID": "ACH_13",
@@ -12273,7 +12278,7 @@
       "Name": "Dying Sun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4796
+      "UsersEstimate": 4797
     },
     {
       "ID": "ACH_16",
@@ -12289,7 +12294,7 @@
       "Name": "Knights!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2962
+      "UsersEstimate": 2963
     },
     {
       "ID": "ACH_18",
@@ -12369,7 +12374,7 @@
       "Name": "Night guard",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 6207
+      "UsersEstimate": 6208
     },
     {
       "ID": "ACH_28",
@@ -12377,7 +12382,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9734
+      "UsersEstimate": 9735
     },
     {
       "ID": "ACH_29",
@@ -12440,7 +12445,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 14107,
+      "Progressed": 14108,
       "Completed": 57
     }
   ],
@@ -12448,8 +12453,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-12-11T11:58:15.4803491+00:00",
-  "LastChanged_Achievements": "2023-12-12T09:05:25.6412104+00:00",
+  "LastChanged_Achievements": "2023-12-12T10:05:22.2238336+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:21.8341782+00:00",
-  "LastUpdate_Ratings": "2023-12-12T08:59:42.4809897+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:05:25.6413032+00:00"
+  "LastUpdate_Ratings": "2023-12-12T09:59:58.9289583+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:05:22.2239142+00:00"
 }

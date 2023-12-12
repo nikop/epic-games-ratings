@@ -3,9 +3,9 @@
   "Name": "Scathe",
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 314,
-  "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 537,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 95,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
       "Time": "2023-06-13T14:00:29.0951291+00:00",
@@ -2271,6 +2271,11 @@
       "Time": "2023-12-12T09:09:43.580655+00:00",
       "NumProgressed": 536,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T10:09:46.7386047+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2280,17 +2285,17 @@
       "ID": "ACHIEVEMENT_AMAGING_WORK",
       "SetID": "2ff85j2",
       "Name": "Amaging Work",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_AND_IM_ALL_OUT_OF_GUN",
       "SetID": "2ff85j2",
       "Name": "...And I\u0027m All Out Of Gun",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_BAD_BLOOD",
@@ -2304,33 +2309,33 @@
       "ID": "ACHIEVEMENT_BLOODSTORM",
       "SetID": "2ff85j2",
       "Name": "Bloodstorm",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_CASTLE_OF_THE_WOLF",
       "SetID": "2ff85j2",
       "Name": "Castle Of The Wolf",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_DOOMED",
       "SetID": "2ff85j2",
       "Name": "Doomed",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_FEAR_NOTHING",
       "SetID": "2ff85j2",
       "Name": "Fear Nothing",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_FIRST_BLOOD",
@@ -2344,9 +2349,9 @@
       "ID": "ACHIEVEMENT_GEARS_OF_DOOR",
       "SetID": "2ff85j2",
       "Name": "Gears of Door",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_HALF_A_LIFE",
@@ -2360,81 +2365,81 @@
       "ID": "ACHIEVEMENT_ICE_WORK",
       "SetID": "2ff85j2",
       "Name": "Ice Work",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_MAX_PAIN",
       "SetID": "2ff85j2",
       "Name": "Max Pain",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_NUKE_THEM_ALL",
       "SetID": "2ff85j2",
       "Name": "Nuke Them All",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_PACIFANTASTIC",
       "SetID": "2ff85j2",
       "Name": "Pacifantastic",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_POSTAL_SERVICE",
       "SetID": "2ff85j2",
       "Name": "Postal Service",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_PURELY_NOT",
       "SetID": "2ff85j2",
       "Name": "Purely Not",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_QUAKIN",
       "SetID": "2ff85j2",
       "Name": "Quakin\u0027",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_RAGE_QUIT",
       "SetID": "2ff85j2",
       "Name": "Rage Quit",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_RUNE_ESCAPE",
       "SetID": "2ff85j2",
       "Name": "Rune Escape",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SCATHE_TOO",
       "SetID": "2ff85j2",
       "Name": "SCATHE Too",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_SERIOUS_BAM",
@@ -2448,9 +2453,9 @@
       "ID": "ACHIEVEMENT_SHOCKING_BIO",
       "SetID": "2ff85j2",
       "Name": "Shocking Bio",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SHOCK_TO_THE_SYSTEM",
@@ -2464,73 +2469,73 @@
       "ID": "ACHIEVEMENT_SLAVING_GRACE",
       "SetID": "2ff85j2",
       "Name": "Slaving Grace",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_SUCH_SIN",
       "SetID": "2ff85j2",
       "Name": "Such Sin",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_TAKIN_NAMES",
       "SetID": "2ff85j2",
       "Name": "Takin\u0027 Names",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_THE_KINGPIN",
       "SetID": "2ff85j2",
       "Name": "The Kingpin",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_UNREAL",
       "SetID": "2ff85j2",
       "Name": "Unreal",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_UNREAL_4",
       "SetID": "2ff85j2",
       "Name": "Unreal 4",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_UNTIL_DUSK",
       "SetID": "2ff85j2",
       "Name": "Until Dusk",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 536,
-      "Completed": 0
+      "Progressed": 537,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-04-24T10:58:16.8028395+00:00",
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-12-12T09:09:43.5806547+00:00",
+  "LastChanged_Achievements": "2023-12-12T10:09:46.7386041+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.4195463+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:00:15.7221666+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:09:43.5806835+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:00:33.7901427+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:09:46.7386328+00:00"
 }

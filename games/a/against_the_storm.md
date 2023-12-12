@@ -43,13 +43,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 0.40% | ~72 |
 | Fox Utopia | 0.40% | ~72 |
 | Serving Ale | 0.30% | ~54 |
+| Refinery | 0.30% | ~54 |
 | Fishmen Ritual Site | 0.30% | ~54 |
 | Forsaken Gods Temple | 0.30% | ~54 |
 | Victory Through Prosperity | 0.30% | ~54 |
 | Defying the Crown | 0.30% | ~54 |
 | Into the Forest | 0.30% | ~54 |
 | Efficient Explorer | 0.20% | ~36 |
-| Refinery | 0.20% | ~36 |
 | Dangerous Lands | 0.20% | ~36 |
 | Forbidden Lands | 0.20% | ~36 |
 | Like a Machine | 0.20% | ~36 |

@@ -6,13 +6,13 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,681 |
-| Zealous | 2.00% | ~21,788 |
-| Not half bad | 2.00% | ~21,788 |
-| Apt Survivor | 2.00% | ~21,788 |
-| Survival Treasures | 2.00% | ~21,788 |
-| Skillful | 2.00% | ~21,788 |
-| Make Some Noise | 2.00% | ~21,788 |
+| It wakes | 3.00% | ~32,683 |
+| Zealous | 2.00% | ~21,789 |
+| Not half bad | 2.00% | ~21,789 |
+| Apt Survivor | 2.00% | ~21,789 |
+| Survival Treasures | 2.00% | ~21,789 |
+| Skillful | 2.00% | ~21,789 |
+| Make Some Noise | 2.00% | ~21,789 |
 | The Grand Sacrifice | 1.00% | ~10,894 |
 | Agonizing Escape | 1.00% | ~10,894 |
 | Backdoor Escape | 1.00% | ~10,894 |
@@ -28,12 +28,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Resurgence | 1.00% | ~10,894 |
 | Preemptive Strike | 1.00% | ~10,894 |
 | Humanitarian | 1.00% | ~10,894 |
-| I've got your back | 0.90% | ~9,804 |
-| Apt Killer | 0.90% | ~9,804 |
-| Risk it all | 0.90% | ~9,804 |
-| II | 0.90% | ~9,804 |
-| Engineer | 0.90% | ~9,804 |
-| Close Shave | 0.90% | ~9,804 |
+| I've got your back | 0.90% | ~9,805 |
+| Apt Killer | 0.90% | ~9,805 |
+| Risk it all | 0.90% | ~9,805 |
+| II | 0.90% | ~9,805 |
+| Engineer | 0.90% | ~9,805 |
+| Close Shave | 0.90% | ~9,805 |
 | III | 0.80% | ~8,715 |
 | Wounded Healer | 0.80% | ~8,715 |
 | Vulture | 0.70% | ~7,626 |
@@ -41,13 +41,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 0.70% | ~7,626 |
 | Lifting The Fog | 0.70% | ~7,626 |
 | Second Act | 0.70% | ~7,626 |
-| Blood on your hands | 0.60% | ~6,536 |
-| Escape Artist | 0.60% | ~6,536 |
-| Operation: Survival | 0.60% | ~6,536 |
-| Every Last Drop | 0.60% | ~6,536 |
-| Raccoon City Recruit | 0.60% | ~6,536 |
-| Flight to Freedom | 0.60% | ~6,536 |
-| Chorus of Chaos | 0.60% | ~6,536 |
+| Blood on your hands | 0.60% | ~6,537 |
+| Escape Artist | 0.60% | ~6,537 |
+| Operation: Survival | 0.60% | ~6,537 |
+| Every Last Drop | 0.60% | ~6,537 |
+| Raccoon City Recruit | 0.60% | ~6,537 |
+| Flight to Freedom | 0.60% | ~6,537 |
+| Chorus of Chaos | 0.60% | ~6,537 |
 | Made it out alive! | 0.50% | ~5,447 |
 | Nerves of steel | 0.50% | ~5,447 |
 | Gifts for the Fog | 0.50% | ~5,447 |
@@ -72,8 +72,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escaping the Nightmare | 0.40% | ~4,358 |
 | Campbell's Chapel Legacy | 0.40% | ~4,358 |
 | Ancestor's Rite | 0.40% | ~4,358 |
+| Shrine Apparatus | 0.40% | ~4,358 |
 | Outrun Evil | 0.40% | ~4,358 |
 | Grim Pilgrimage | 0.40% | ~4,358 |
+| End of Days | 0.40% | ~4,358 |
 | Outrun the Overlap | 0.40% | ~4,358 |
 | A Fast Death | 0.40% | ~4,358 |
 | Extraterrestrial | 0.40% | ~4,358 |
@@ -87,11 +89,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | Party Crasher | 0.30% | ~3,268 |
 | Outrage | 0.30% | ~3,268 |
 | Devoted Gatekeeping | 0.30% | ~3,268 |
-| Shrine Apparatus | 0.30% | ~3,268 |
 | Broken Bodies | 0.30% | ~3,268 |
 | Selfless Survival | 0.30% | ~3,268 |
 | I See You | 0.30% | ~3,268 |
-| End of Days | 0.30% | ~3,268 |
 | Insult and Injury | 0.30% | ~3,268 |
 | High Speed Pursuit | 0.30% | ~3,268 |
 | Rebuilding The Borgo | 0.30% | ~3,268 |
@@ -239,8 +239,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,089 |
 | Adept Good Guy | 0.10% | ~1,089 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,089,378 (Ranked 12)  
-Completed: 62 (0.01%) (Ranked 348)  
+Progressed: 1,089,428 (Ranked 12)  
+Completed: 62 (0.01%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -475,17 +475,17 @@ Completed: 62 (0.01%) (Ranked 348)
 | 2023-12-09 | 1,083,532 | 61 |
 | 2023-12-10 | 1,086,485 | 62 |
 | 2023-12-11 | 1,088,746 | 62 |
-| 2023-12-12 | 1,089,378 | 62 |
+| 2023-12-12 | 1,089,428 | 62 |
 ## Awards
 Max (Diverse Characters): 37,733  (Ranked 15)  
-Sum: 285,956 (Ranked 12)  
+Sum: 285,987 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37,733 |
 | This game is Highly Recommended | 32,727 |
 | This game has Amazing Characters | 32,240 |
-| This game has Competitive Players | 32,004 |
+| This game has Competitive Players | 32,035 |
 | This game is Extremely Fun | 31,690 |
 | This game has Challenging Combat | 31,593 |
 | This game has Quickly Understood Controls | 30,837 |
@@ -818,4 +818,4 @@ Diff (max vs sum): 3
 | 2023-12-09 | 4.51 | - | 37,578 | 285,006 |
 | 2023-12-10 | 4.51 | - | 37,638 | 285,419 |
 | 2023-12-11 | 4.51 | - | 37,692 | 285,774 |
-| 2023-12-12 | 4.51 | - | 37,733 | 285,956 |
+| 2023-12-12 | 4.51 | - | 37,733 | 285,987 |

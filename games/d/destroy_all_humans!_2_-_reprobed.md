@@ -52,7 +52,7 @@ Number of Ratings: 90  (23.09.2022)
 | Arkvoodle Doodle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 38 (Ranked 530)  
-Completed: 0 (0.00%) (Ranked 371)  
+Completed: 0 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,12 +69,12 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-11 | 36 | 0 |
 | 2023-12-12 | 38 | 0 |
 ## Awards
-Max (Great Boss Battles): 35  (Ranked 481)  
-Sum: 35 (Ranked 509)  
-Diff (max vs sum): -28  
+Max (Great Boss Battles): 36  (Ranked 479)  
+Sum: 36 (Ranked 509)  
+Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 35 |
+| This game has Great Boss Battles | 36 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -120,3 +120,4 @@ Diff (max vs sum): -28
 | 2023-08-11 | 4.52 | - | 34 | 34 |
 | 2023-09-08 | 4.52 | - | 35 | 35 |
 | 2023-10-14 | 4.53 | - | 35 | 35 |
+| 2023-12-12 | 4.53 | - | 36 | 36 |

@@ -2,10 +2,10 @@
   "ID": "6272ed59a9894d5499e8d8818fdbea1a",
   "Name": "Trinity Fusion",
   "ProductSlug": "trinity-fusion-e036cf",
-  "Ranking_EOS_Progress": 790,
-  "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-13T14:00:00+00:00",
     "PcReleaseDate": "2023-04-13T08:00:00+00:00",
@@ -37,9 +37,379 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-12-12T10:05:25.0197419+00:00",
+  "TotalAchievements": 46,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AC_Air_Killer",
+      "SetID": "c366bjl",
+      "Name": "Aerial Ace",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Beat_AMALGAMATION",
+      "SetID": "c366bjl",
+      "Name": "End of the World(s)",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Beat_M1",
+      "SetID": "c366bjl",
+      "Name": "Ophthalmologist",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Beat_M2",
+      "SetID": "c366bjl",
+      "Name": "Fierce Boss, Big Now",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Beat_R1",
+      "SetID": "c366bjl",
+      "Name": "Security Breach",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Beat_R2",
+      "SetID": "c366bjl",
+      "Name": "No Gods or Masters",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Beat_W1",
+      "SetID": "c366bjl",
+      "Name": "Titan Slayer",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Beat_W2",
+      "SetID": "c366bjl",
+      "Name": "Steward None",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Bring_Claw17",
+      "SetID": "c366bjl",
+      "Name": "Robots can be Friends",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Clear_Curse",
+      "SetID": "c366bjl",
+      "Name": "Curse Breaker",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Complete_CW",
+      "SetID": "c366bjl",
+      "Name": "Infiltrator",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Complete_FC",
+      "SetID": "c366bjl",
+      "Name": "Industrial Sabotage",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Complete_FG",
+      "SetID": "c366bjl",
+      "Name": "Forgemaster",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Complete_FT",
+      "SetID": "c366bjl",
+      "Name": "Stone and Circuitry",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Complete_IC",
+      "SetID": "c366bjl",
+      "Name": "Public Enemy #1",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Complete_NO",
+      "SetID": "c366bjl",
+      "Name": "Explorer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Complete_NU",
+      "SetID": "c366bjl",
+      "Name": "Spelunker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Complete_On_Casual_Standard",
+      "SetID": "c366bjl",
+      "Name": "One down...",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Complete_On_Hard",
+      "SetID": "c366bjl",
+      "Name": "Hardcore Hitchhiker",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Complete_Tutorial",
+      "SetID": "c366bjl",
+      "Name": "Connection Interrupted",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Complete_UL",
+      "SetID": "c366bjl",
+      "Name": "Tunnel Rat",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Complete_WS",
+      "SetID": "c366bjl",
+      "Name": "Survivor",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Defeat_With_Evade",
+      "SetID": "c366bjl",
+      "Name": "Merciful Master",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Discover_All_Stages",
+      "SetID": "c366bjl",
+      "Name": "Multiversal Cartographer",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Dismantle_Weapons",
+      "SetID": "c366bjl",
+      "Name": "Scavenger",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Enemies_Discovered",
+      "SetID": "c366bjl",
+      "Name": "Bestiary",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Enemy_Killed_In_Lava",
+      "SetID": "c366bjl",
+      "Name": "They won\u0027t be back",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Equip_More_Powerups",
+      "SetID": "c366bjl",
+      "Name": "Amplifier Overload",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Equip_Powerup",
+      "SetID": "c366bjl",
+      "Name": "Power Amplifier",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Equip_Ressurect",
+      "SetID": "c366bjl",
+      "Name": "Immortal-ish",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Equip_Spirit_Upgrade",
+      "SetID": "c366bjl",
+      "Name": "Augmented",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Evade100",
+      "SetID": "c366bjl",
+      "Name": "Evasive",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Evade1000",
+      "SetID": "c366bjl",
+      "Name": "Ghost Walker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_First_Death",
+      "SetID": "c366bjl",
+      "Name": "Death, a new beginning",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_First_Fuse_Characters",
+      "SetID": "c366bjl",
+      "Name": "Woah.",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Glitch_Dash_Kill",
+      "SetID": "c366bjl",
+      "Name": "Coming Through!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_IB_Complete_Hard_Arena",
+      "SetID": "c366bjl",
+      "Name": "Void Gladiator",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_IB_Complete_Hard_Platforming",
+      "SetID": "c366bjl",
+      "Name": "Adept Acrobat",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Kill_2000",
+      "SetID": "c366bjl",
+      "Name": "Doombringer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Kill_50",
+      "SetID": "c366bjl",
+      "Name": "Karate Kid With a Sword",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Kill_800",
+      "SetID": "c366bjl",
+      "Name": "Slayer on Duty",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Kill_Elite",
+      "SetID": "c366bjl",
+      "Name": "Titles Mean Nothing",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Reach_InBetween",
+      "SetID": "c366bjl",
+      "Name": "Void-Charter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Reach_Power_Level",
+      "SetID": "c366bjl",
+      "Name": "Unlimited Power",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Unlock_Spirit_Upgrade",
+      "SetID": "c366bjl",
+      "Name": "Heavily Augmented",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC_Use_Weapon_Upgrade_Desk",
+      "SetID": "c366bjl",
+      "Name": "Still Good",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "c366bjl",
@@ -52,8 +422,8 @@
   "FirstSeenRating": "2023-04-14T02:57:39.6098813+00:00",
   "FirstSeenAchievements": "2023-12-09T14:03:41.1725839+00:00",
   "LastChanged": "2023-04-14T02:57:39.6098814+00:00",
-  "LastChanged_Achievements": "2023-12-12T09:05:28.3521188+00:00",
+  "LastChanged_Achievements": "2023-12-12T10:05:25.0197411+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:06.1296395+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:03:11.2063185+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:05:28.3521226+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:03:04.8741151+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:05:25.0526214+00:00"
 }

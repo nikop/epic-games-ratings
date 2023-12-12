@@ -7,19 +7,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 3.00% | ~36 |
+| This guy... again? | 2.00% | ~24 |
 | This Belongs in a Museum | 1.00% | ~1,263 |
-| This guy... again? | 1.00% | ~12 |
+| Catch and Decease | 0.90% | ~1,137 |
 | Not Today! | 0.80% | ~1,011 |
-| Catch and Decease | 0.80% | ~1,011 |
 | Escape from the Black Hole | 0.80% | ~1,011 |
 | Meat and Greet | 0.70% | ~884 |
 | Overdue Notice | 0.70% | ~884 |
 | Bloody Graduation | 0.70% | ~8 |
+| Lost and Found | 0.70% | ~8 |
 | Creep and Sleep | 0.60% | ~758 |
-| Lost and Found | 0.60% | ~7 |
-| Autodidact | 0.50% | ~632 |
+| Autodidact | 0.60% | ~758 |
 | Don't Make Me Turn This Coach Around | 0.30% | ~379 |
 | Serenity Now! | 0.30% | ~379 |
+| It Rings a Bell | 0.30% | ~379 |
 | Dissector | 0.30% | ~379 |
 | Banishment | 0.30% | ~379 |
 | Deprogramming | 0.30% | ~379 |
@@ -28,7 +29,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 0.30% | ~379 |
 | FNG | 0.30% | ~379 |
 | Nope | 0.30% | ~379 |
-| It Rings a Bell | 0.20% | ~253 |
 | Resurrection | 0.20% | ~253 |
 | Unleash Hell | 0.20% | ~253 |
 | Funny Guy | 0.20% | ~253 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | On This Long Road, We Found Redemption | 0.10% | ~1 |
 | The Clash | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,333 (Ranked 84)  
-Completed: 2 (0.00%) (Ranked 371)  
+Progressed: 126,338 (Ranked 84)  
+Completed: 2 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -312,7 +312,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
-| 2023-12-12 | 126,333 | 2 |
+| 2023-12-12 | 126,338 | 2 |
 ## Awards
 Max (Character Customization): 7,622  (Ranked 52)  
 Sum: 20,137 (Ranked 59)  

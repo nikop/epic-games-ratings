@@ -6,9 +6,9 @@
   "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 331,
-  "Ranking_EOS_Completed": 371,
+  "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1818,6 +1818,11 @@
       "Time": "2023-12-12T09:07:54.0298912+00:00",
       "NumProgressed": 425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T10:08:14.3747208+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1838,7 +1843,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -1886,7 +1891,7 @@
       "Name": "This Spot\u0027s Taken",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BurrowUp",
@@ -1942,7 +1947,7 @@
       "Name": "Deepstrike",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DieByTheBow",
@@ -2094,7 +2099,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -2102,7 +2107,7 @@
       "Name": "Such A Fungi",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SorcerousSpree",
@@ -2198,7 +2203,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "WinBattleWithoutAttacking",
@@ -2261,15 +2266,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-12T09:07:54.0298907+00:00",
+  "LastChanged_Achievements": "2023-12-12T10:08:14.3747203+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-12T08:57:43.2610294+00:00",
-  "LastUpdate_Achievements": "2023-12-12T09:07:54.0299273+00:00"
+  "LastUpdate_Ratings": "2023-12-12T09:57:51.3643141+00:00",
+  "LastUpdate_Achievements": "2023-12-12T10:08:14.3747797+00:00"
 }
