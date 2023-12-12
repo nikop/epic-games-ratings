@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.12% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.11% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -69,7 +69,7 @@
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.88% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.77% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.76% |
 | 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
@@ -258,11 +258,11 @@
 | 256 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 256 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 256 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.21% |
-| 259 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
-| 259 | [Scrapnaut](games/s/scrapnaut.md) | 0.20% |
-| 259 | [Shop Titans](games/s/shop_titans.md) | 0.20% |
-| 259 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.20% |
-| 259 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
+| 256 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.21% |
+| 260 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
+| 260 | [Scrapnaut](games/s/scrapnaut.md) | 0.20% |
+| 260 | [Shop Titans](games/s/shop_titans.md) | 0.20% |
+| 260 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
 | 264 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.19% |
 | 264 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 266 | [GRIME](games/g/grime.md) | 0.18% |
