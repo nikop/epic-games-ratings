@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -913,9 +913,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3945,
+  "EOS_Progressed": 3946,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6938,6 +6938,11 @@
       "Time": "2023-12-11T23:03:59.0783229+00:00",
       "NumProgressed": 3945,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T00:04:04.8880955+00:00",
+      "NumProgressed": 3946,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6998,7 +7003,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2131
     },
     {
       "ID": "achievement_16",
@@ -7006,7 +7011,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "achievement_17",
@@ -7028,9 +7033,9 @@
       "ID": "achievement_19",
       "SetID": "c8fif6p",
       "Name": "Ol\u0027 Reliable",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_2",
@@ -7117,7 +7122,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3945,
+      "Progressed": 3946,
       "Completed": 0
     }
   ],
@@ -7125,8 +7130,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-11T01:51:37.1042559+00:00",
-  "LastChanged_Achievements": "2023-12-11T23:03:59.0783227+00:00",
+  "LastChanged_Achievements": "2023-12-12T00:04:04.8880952+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:06.4979086+00:00",
-  "LastUpdate_Ratings": "2023-12-11T23:02:53.4052206+00:00",
-  "LastUpdate_Achievements": "2023-12-11T23:03:59.0783579+00:00"
+  "LastUpdate_Ratings": "2023-12-12T00:02:58.3709938+00:00",
+  "LastUpdate_Achievements": "2023-12-12T00:04:04.8881319+00:00"
 }

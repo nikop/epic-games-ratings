@@ -5,10 +5,10 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~22,005 |
-| Welcome To Hell-A | 3.00% | ~22,005 |
-| Whatever It Takes | 3.00% | ~1,771 |
-| Pork Chopped | 3.00% | ~1,771 |
+| Hotel California | 3.00% | ~22,006 |
+| Welcome To Hell-A | 3.00% | ~22,006 |
+| Whatever It Takes | 3.00% | ~1,772 |
+| Pork Chopped | 3.00% | ~1,772 |
 | Dr. Reed, I Presume? | 2.00% | ~14,670 |
 | Git Gutte! | 2.00% | ~14,670 |
 | Anger Management | 2.00% | ~14,670 |
@@ -37,10 +37,10 @@ Rating: 4.54 (Ranked 533)
 | Down with the Sickness | 1.00% | ~7,335 |
 | Max Headroom | 1.00% | ~7,335 |
 | Our True Nature | 1.00% | ~7,335 |
+| Rising Star | 0.90% | ~6,602 |
 | Not Even My Final Form | 0.80% | ~5,868 |
 | Jumbo Keyring | 0.80% | ~5,868 |
 | Go, Bobcats! | 0.80% | ~5,868 |
-| Rising Star | 0.80% | ~5,868 |
 | Smorgasbord | 0.70% | ~5,135 |
 | Internet Famous | 0.70% | ~5,135 |
 | Make it So | 0.60% | ~4,401 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 533)
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,504 (Ranked 21)  
+Progressed: 733,517 (Ranked 21)  
 Completed: 2,477 (0.34%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,6 +293,7 @@ Completed: 2,477 (0.34%) (Ranked 235)
 | 2023-12-09 | 732,585 | 2,471 |
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
+| 2023-12-12 | 733,517 | 2,477 |
 ## Awards
 Max (Great Boss Battles): 8,094  (Ranked 49)  
 Sum: 12,447 (Ranked 81)  

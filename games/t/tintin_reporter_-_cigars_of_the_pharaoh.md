@@ -21,16 +21,16 @@
 | Save a Friend | 6.00% | ~5 |
 | The Eyes! | 5.00% | ~4 |
 | Keep the Doctor Away | 5.00% | ~4 |
+| Just a Palm Tree | 5.00% | ~4 |
 | Punctual | 5.00% | ~4 |
-| Just a Palm Tree | 3.00% | ~3 |
 | Under the Hood | 3.00% | ~3 |
 | Long Live Gaipajama! | 3.00% | ~3 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
+| Tintin, Reporter | 2.00% | ~2 |
 | Eyes Shut | 2.00% | ~2 |
 | A Diagnosis | 2.00% | ~2 |
 | A Yummy Detour | 2.00% | ~2 |
-| Tintin, Reporter | 1.00% | ~1 |
 | Jungle Runner | 1.00% | ~1 |
 | Mountain Runner | 1.00% | ~1 |
 | The Pharaoh's New Clothes | 1.00% | ~1 |

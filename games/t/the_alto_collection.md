@@ -6,18 +6,18 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,439 |
-| Finding Your Footing | 25.00% | ~12,443 |
-| Nomad | 17.00% | ~8,461 |
+| Rookie | 27.00% | ~13,440 |
+| Finding Your Footing | 25.00% | ~12,444 |
+| Nomad | 17.00% | ~8,462 |
 | Picking Up Speed | 16.00% | ~7,964 |
-| Welcome Maya | 14.00% | ~6,968 |
-| Scout | 11.00% | ~5,475 |
-| Sightseer | 11.00% | ~5,475 |
-| Amateur | 10.00% | ~4,977 |
+| Welcome Maya | 14.00% | ~6,969 |
+| Scout | 11.00% | ~5,476 |
+| Sightseer | 11.00% | ~5,476 |
+| Amateur | 10.00% | ~4,978 |
 | Unlock Maya | 8.00% | ~3,982 |
 | Wanderer | 8.00% | ~3,982 |
 | Enter Paz | 7.00% | ~3,484 |
-| Aviator | 6.00% | ~2,986 |
+| Aviator | 6.00% | ~2,987 |
 | My Little Friend | 5.00% | ~2,489 |
 | One With The Board | 5.00% | ~2,489 |
 | Voyager | 5.00% | ~2,489 |
@@ -27,11 +27,11 @@ Number of Ratings: 332  (23.09.2022)
 | Human Flight | 3.00% | ~1,493 |
 | Sandboarder | 3.00% | ~1,493 |
 | Izel Has Arrived | 3.00% | ~1,493 |
-| Explorer | 2.00% | ~995 |
-| Pro | 2.00% | ~995 |
-| Journeyer | 2.00% | ~995 |
-| Unlock Izel | 2.00% | ~995 |
-| Here Comes Felipe | 2.00% | ~995 |
+| Explorer | 2.00% | ~996 |
+| Pro | 2.00% | ~996 |
+| Journeyer | 2.00% | ~996 |
+| Unlock Izel | 2.00% | ~996 |
+| Here Comes Felipe | 2.00% | ~996 |
 | Hoist the Mainsail | 1.00% | ~498 |
 | Daredevil | 1.00% | ~498 |
 | Introducing Sumara | 1.00% | ~498 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~50 |
 | Windswept | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,773 (Ranked 114)  
+Progressed: 49,778 (Ranked 114)  
 Completed: 5 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,9 +282,10 @@ Completed: 5 (0.01%) (Ranked 348)
 | 2023-12-09 | 49,525 | 5 |
 | 2023-12-10 | 49,661 | 5 |
 | 2023-12-11 | 49,773 | 5 |
+| 2023-12-12 | 49,778 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 444)  
-Sum: 381 (Ranked 353)  
+Sum: 382 (Ranked 353)  
 Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
@@ -297,7 +298,7 @@ Diff (max vs sum): 91
 | This game is Relaxing | 36 |
 | This game has Diverse Characters | 33 |
 | This game has Amazing Storytelling | 30 |
-| This game has Amazing Characters | 26 |
+| This game has Amazing Characters | 27 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -420,3 +421,4 @@ Diff (max vs sum): 91
 | 2023-12-05 | 4.71 | - | 48 | 376 |
 | 2023-12-06 | 4.71 | - | 48 | 377 |
 | 2023-12-09 | 4.71 | - | 48 | 381 |
+| 2023-12-12 | 4.71 | - | 48 | 382 |

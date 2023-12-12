@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3325,9 +3325,9 @@
       "Count": 258
     }
   ],
-  "EOS_Progressed": 85830,
+  "EOS_Progressed": 85832,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 759,
+  "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -29635,6 +29635,11 @@
       "Time": "2023-12-11T23:07:40.7384185+00:00",
       "NumProgressed": 85830,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-12T00:07:57.0992416+00:00",
+      "NumProgressed": 85832,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 30,
@@ -29678,7 +29683,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 15449
+      "UsersEstimate": 15450
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -29686,7 +29691,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9441
+      "UsersEstimate": 9442
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -29702,7 +29707,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9441
+      "UsersEstimate": 9442
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -29726,7 +29731,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 31757
+      "UsersEstimate": 31758
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -29734,7 +29739,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 24032
+      "UsersEstimate": 24033
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -29798,7 +29803,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 18024
+      "UsersEstimate": 18025
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -29814,7 +29819,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 12874
+      "UsersEstimate": 12875
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -29822,7 +29827,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 30040
+      "UsersEstimate": 30041
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -29838,7 +29843,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6866
+      "UsersEstimate": 6867
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -29846,7 +29851,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 9441
+      "UsersEstimate": 9442
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -29862,7 +29867,7 @@
       "Name": "Grand champion",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9441
+      "UsersEstimate": 9442
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -29870,7 +29875,7 @@
       "Name": "Master",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 15449
+      "UsersEstimate": 15450
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -29878,22 +29883,22 @@
       "Name": "Determined",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6866
+      "UsersEstimate": 6867
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 85830,
+      "Progressed": 85832,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-11T15:57:22.127103+00:00",
-  "LastChanged_Achievements": "2023-12-11T23:07:40.7384178+00:00",
+  "LastChanged_Achievements": "2023-12-12T00:07:57.0992412+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:46.6200613+00:00",
-  "LastUpdate_Ratings": "2023-12-11T22:57:21.3752358+00:00",
-  "LastUpdate_Achievements": "2023-12-11T23:07:40.7385416+00:00"
+  "LastUpdate_Ratings": "2023-12-11T23:57:28.1830448+00:00",
+  "LastUpdate_Achievements": "2023-12-12T00:07:57.0993663+00:00"
 }

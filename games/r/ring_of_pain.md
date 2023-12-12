@@ -17,20 +17,20 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Quick Escape | 0.60% | ~1,445 |
 | Explorer | 0.60% | ~1,445 |
 | An Offering | 0.60% | ~1,445 |
-| Ambitious Intent | 0.50% | ~1,204 |
-| Nothing To Lose | 0.50% | ~1,204 |
-| Heavy Hitter | 0.50% | ~1,204 |
-| Delving Deeper | 0.50% | ~1,204 |
-| R.I.P | 0.50% | ~1,204 |
-| The Bestiary | 0.50% | ~1,204 |
-| Goodbye, Frog Friend | 0.50% | ~1,204 |
-| Heartless | 0.50% | ~1,204 |
-| What's Yours Is Mine | 0.50% | ~1,204 |
-| Spine Breaker | 0.50% | ~1,204 |
-| A Donation | 0.50% | ~1,204 |
-| C-C-Combo | 0.50% | ~1,204 |
-| Deflection | 0.50% | ~1,204 |
-| Sneaky | 0.50% | ~1,204 |
+| Ambitious Intent | 0.50% | ~1,205 |
+| Nothing To Lose | 0.50% | ~1,205 |
+| Heavy Hitter | 0.50% | ~1,205 |
+| Delving Deeper | 0.50% | ~1,205 |
+| R.I.P | 0.50% | ~1,205 |
+| The Bestiary | 0.50% | ~1,205 |
+| Goodbye, Frog Friend | 0.50% | ~1,205 |
+| Heartless | 0.50% | ~1,205 |
+| What's Yours Is Mine | 0.50% | ~1,205 |
+| Spine Breaker | 0.50% | ~1,205 |
+| A Donation | 0.50% | ~1,205 |
+| C-C-Combo | 0.50% | ~1,205 |
+| Deflection | 0.50% | ~1,205 |
+| Sneaky | 0.50% | ~1,205 |
 | Expensive Look | 0.50% | ~12 |
 | What Doesn't Kill You | 0.50% | ~12 |
 | Consecutive Curses | 0.40% | ~964 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,899 (Ranked 64)  
-Completed: 294 (0.12%) (Ranked 283)  
+Progressed: 240,901 (Ranked 64)  
+Completed: 295 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -381,6 +381,7 @@ Completed: 294 (0.12%) (Ranked 283)
 | 2023-12-09 | 240,828 | 293 |
 | 2023-12-10 | 240,862 | 293 |
 | 2023-12-11 | 240,899 | 294 |
+| 2023-12-12 | 240,901 | 295 |
 ## Awards
 Max (Quickly Understood Controls): 1,507  (Ranked 134)  
 Sum: 11,723 (Ranked 85)  

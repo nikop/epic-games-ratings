@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,490 |
-| Off to a good start | 66.00% | ~1,105 |
+| New Recruit | 89.00% | ~1,491 |
+| Off to a good start | 66.00% | ~1,106 |
 | Do... or do not. There is no try | 51.00% | ~854 |
 | A good blaster at your side | 30.00% | ~502 |
 | I suggest a new strategy | 19.00% | ~318 |
-| Scrap collector | 18.00% | ~301 |
+| Scrap collector | 18.00% | ~302 |
 | All right, I'll give it a try | 17.00% | ~285 |
 | Great shot, kid! | 17.00% | ~285 |
 | Shoot first | 15.00% | ~251 |
-| The power of the Force | 14.00% | ~234 |
-| Collector | 14.00% | ~234 |
+| The power of the Force | 14.00% | ~235 |
+| Collector | 14.00% | ~235 |
 | Together we can rule the galaxy | 13.00% | ~218 |
-| Tell Jabba that I've got his money | 10.00% | ~167 |
+| Tell Jabba that I've got his money | 10.00% | ~168 |
 | Best star-pilot in the galaxy | 9.00% | ~151 |
 | Survivor | 9.00% | ~151 |
 | Never tell me the odds! | 8.00% | ~134 |
@@ -36,15 +36,15 @@
 | When 900 years old you reach... | 3.00% | ~50 |
 | Your journey has only started | 3.00% | ~50 |
 | On the ball | 3.00% | ~50 |
-| The Force is strong with this one | 2.00% | ~33 |
-| Determined | 2.00% | ~33 |
-| Precision shot | 2.00% | ~33 |
-| This is a new day, a new beginning | 2.00% | ~33 |
-| City in the Clouds | 2.00% | ~33 |
-| That's no moon | 2.00% | ~33 |
-| Alternative solution | 2.00% | ~33 |
-| What will you become? | 2.00% | ~33 |
-| Disturbed tranquility | 2.00% | ~33 |
+| The Force is strong with this one | 2.00% | ~34 |
+| Determined | 2.00% | ~34 |
+| Precision shot | 2.00% | ~34 |
+| This is a new day, a new beginning | 2.00% | ~34 |
+| City in the Clouds | 2.00% | ~34 |
+| That's no moon | 2.00% | ~34 |
+| Alternative solution | 2.00% | ~34 |
+| What will you become? | 2.00% | ~34 |
+| Disturbed tranquility | 2.00% | ~34 |
 | Hold the line! | 1.00% | ~17 |
 | Playing the objective | 1.00% | ~17 |
 | Ackbar's Elite | 1.00% | ~17 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,674 (Ranked 240)  
+Progressed: 1,675 (Ranked 240)  
 Completed: 1 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,6 +155,7 @@ Completed: 1 (0.06%) (Ranked 313)
 | 2023-12-09 | 1,636 | 1 |
 | 2023-12-10 | 1,659 | 1 |
 | 2023-12-11 | 1,674 | 1 |
+| 2023-12-12 | 1,675 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

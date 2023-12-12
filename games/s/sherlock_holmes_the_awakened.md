@@ -23,9 +23,9 @@ Rating: 4.68 (Ranked 258)
 | No Man Is An Island | 40.00% | ~444 |
 | At Wits' End | 39.00% | ~433 |
 | Fhtagn! | 38.00% | ~421 |
+| Bookworm | 37.00% | ~410 |
 | Up In Flames | 37.00% | ~410 |
 | Going Once... | 36.00% | ~399 |
-| Bookworm | 36.00% | ~399 |
 | Let Me Be Frank | 34.00% | ~377 |
 | No Stone Unturned | 31.00% | ~344 |
 | Brain Food | 30.00% | ~333 |
@@ -34,7 +34,7 @@ Rating: 4.68 (Ranked 258)
 | Big Breakthrough | 12.00% | ~133 |
 | Reawakened | 3.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,109 (Ranked 263)  
+Progressed: 1,109 (Ranked 264)  
 Completed: 30 (2.71%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |

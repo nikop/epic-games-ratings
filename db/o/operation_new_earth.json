@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2010,
+  "EOS_Progressed": 2012,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7654,6 +7654,11 @@
       "Time": "2023-12-11T20:06:02.1165237+00:00",
       "NumProgressed": 2010,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-12T00:03:17.752212+00:00",
+      "NumProgressed": 2012,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7665,7 +7670,7 @@
       "Name": "Know The Enemy",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -7689,7 +7694,7 @@
       "Name": "Player Betrayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -7809,7 +7814,7 @@
       "Name": "Major",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -7871,9 +7876,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -7921,7 +7926,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -7968,7 +7973,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2010,
+      "Progressed": 2012,
       "Completed": 1
     }
   ],
@@ -7976,8 +7981,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-11T22:07:56.8744554+00:00",
+  "LastChanged_Achievements": "2023-12-12T00:03:17.7522116+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-11T22:58:47.3163624+00:00",
-  "LastUpdate_Achievements": "2023-12-11T22:07:56.8745213+00:00"
+  "LastUpdate_Ratings": "2023-12-11T23:58:54.1799036+00:00",
+  "LastUpdate_Achievements": "2023-12-12T00:03:17.7527247+00:00"
 }

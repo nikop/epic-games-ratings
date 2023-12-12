@@ -8,15 +8,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 2.00% | ~22 |
 | This guy... again? | 1.00% | ~11 |
-| This Belongs in a Museum | 0.60% | ~757 |
+| This Belongs in a Museum | 0.70% | ~884 |
+| Catch and Decease | 0.60% | ~757 |
 | Not Today! | 0.50% | ~631 |
 | Meat and Greet | 0.50% | ~631 |
-| Catch and Decease | 0.50% | ~631 |
 | Overdue Notice | 0.50% | ~631 |
 | Escape from the Black Hole | 0.50% | ~631 |
 | Creep and Sleep | 0.40% | ~505 |
 | Autodidact | 0.30% | ~379 |
 | Bloody Graduation | 0.30% | ~3 |
+| Lost and Found | 0.30% | ~3 |
 | Don't Make Me Turn This Coach Around | 0.20% | ~252 |
 | Serenity Now! | 0.20% | ~252 |
 | Resurrection | 0.20% | ~252 |
@@ -26,10 +27,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Wyrdly Reconstructed | 0.20% | ~252 |
 | Boxcar Kid | 0.20% | ~252 |
 | Unfulfilled Desires | 0.20% | ~252 |
+| Predator | 0.20% | ~252 |
 | Dissector | 0.20% | ~252 |
 | Banishment | 0.20% | ~252 |
 | Deprogramming | 0.20% | ~252 |
 | Ichthyophobic | 0.20% | ~252 |
+| Now Stay Dead | 0.20% | ~252 |
 | Reverse Banditry | 0.20% | ~252 |
 | Rush Hour | 0.20% | ~252 |
 | To Grandmother's House | 0.20% | ~252 |
@@ -39,15 +42,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 0.20% | ~252 |
 | Nope | 0.20% | ~252 |
 | Unshackled | 0.20% | ~252 |
-| Lost and Found | 0.20% | ~2 |
 | It Rings a Bell | 0.10% | ~126 |
 | A Life Well Lived | 0.10% | ~126 |
 | The World As It Was | 0.10% | ~126 |
 | This Looks Familiar | 0.10% | ~126 |
 | Hope Rekindled | 0.10% | ~126 |
 | Loop Year | 0.10% | ~126 |
-| Predator | 0.10% | ~126 |
-| Now Stay Dead | 0.10% | ~126 |
 | No More Mouths to Feed | 0.10% | ~126 |
 | Clearing the Ledger | 0.10% | ~126 |
 | Circle of Life | 0.10% | ~126 |
@@ -74,6 +74,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Grand Slam | 0.10% | ~126 |
 | Hard Mode | 0.10% | ~126 |
 | Road Trip | 0.10% | ~126 |
+| Battle Hardened | 0.10% | ~1 |
 | Maître De La Lame | 0.10% | ~1 |
 | These Boots Are Made For Kickin' | 0.10% | ~1 |
 | Slap on the Wrist | 0.10% | ~1 |
@@ -82,11 +83,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Friends 'Til the End | 0.10% | ~1 |
 | For Old Time' Sake | 0.10% | ~1 |
 | The Clash | 0.00% | ~0 |
-| Battle Hardened | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,232 (Ranked 84)  
+Progressed: 126,240 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,6 +312,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
+| 2023-12-12 | 126,240 | 2 |
 ## Awards
 Max (Character Customization): 7,586  (Ranked 52)  
 Sum: 20,081 (Ranked 59)  
