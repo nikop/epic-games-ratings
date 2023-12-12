@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -1117,9 +1117,9 @@
       "ID": "ACH_07",
       "SetID": "efe2lj",
       "Name": "Clear Sight",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_08",
@@ -1364,8 +1364,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-12T08:09:46.7096034+00:00",
+  "LastChanged_Achievements": "2023-12-12T09:10:36.2538338+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-12T08:00:14.9244472+00:00",
-  "LastUpdate_Achievements": "2023-12-12T08:09:46.7096237+00:00"
+  "LastUpdate_Ratings": "2023-12-12T09:01:20.6378055+00:00",
+  "LastUpdate_Achievements": "2023-12-12T09:10:36.2538619+00:00"
 }

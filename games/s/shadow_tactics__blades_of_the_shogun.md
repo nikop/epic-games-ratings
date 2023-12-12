@@ -6,22 +6,22 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,249 |
-| A thief's beginning | 10.00% | ~21,874 |
-| Thorough | 10.00% | ~21,874 |
+| Genin | 12.00% | ~26,250 |
+| A thief's beginning | 10.00% | ~21,875 |
+| Thorough | 10.00% | ~21,875 |
 | Disguised | 9.00% | ~19,687 |
 | Rollin' | 9.00% | ~19,687 |
 | Tanuki Time | 9.00% | ~19,687 |
-| Rescue Takuma | 8.00% | ~17,499 |
-| Stoned Ox | 8.00% | ~17,499 |
+| Rescue Takuma | 8.00% | ~17,500 |
+| Stoned Ox | 8.00% | ~17,500 |
 | Happy Planning | 7.00% | ~15,312 |
 | Ice Ice Yuki | 7.00% | ~15,312 |
 | Jonin | 7.00% | ~15,312 |
 | Yabu | 7.00% | ~15,312 |
-| Chunin | 6.00% | ~13,124 |
-| Flying Rocks | 6.00% | ~13,124 |
-| Mugen Unchained | 6.00% | ~13,124 |
-| Warzone | 6.00% | ~13,124 |
+| Chunin | 6.00% | ~13,125 |
+| Flying Rocks | 6.00% | ~13,125 |
+| Mugen Unchained | 6.00% | ~13,125 |
+| Warzone | 6.00% | ~13,125 |
 | Okkoto | 5.00% | ~10,937 |
 | Prisoners | 5.00% | ~10,937 |
 | Too Early | 5.00% | ~10,937 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~219 |
 | Release the Kraken | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,739 (Ranked 72)  
+Progressed: 218,746 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,14 +287,14 @@ Completed: 100 (0.05%) (Ranked 322)
 | 2023-12-09 | 218,323 | 100 |
 | 2023-12-10 | 218,536 | 100 |
 | 2023-12-11 | 218,692 | 100 |
-| 2023-12-12 | 218,739 | 100 |
+| 2023-12-12 | 218,746 | 100 |
 ## Awards
-Max (Great for Beginners): 583  (Ranked 201)  
-Sum: 4,902 (Ranked 144)  
+Max (Great for Beginners): 584  (Ranked 201)  
+Sum: 4,903 (Ranked 144)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 583 |
+| This game is Great for Beginners | 584 |
 | This game has Diverse Characters | 543 |
 | This game is Extremely Fun | 539 |
 | This game has Amazing Storytelling | 520 |
@@ -541,3 +541,4 @@ Diff (max vs sum): 57
 | 2023-12-07 | 4.67 | - | 581 | 4,897 |
 | 2023-12-09 | 4.67 | - | 583 | 4,901 |
 | 2023-12-10 | 4.67 | - | 583 | 4,902 |
+| 2023-12-12 | 4.67 | - | 584 | 4,903 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -713,7 +713,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 237236,
+  "EOS_Progressed": 237238,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1125,
   "EOS_NewCompleters": 0,
@@ -17098,6 +17098,11 @@
       "Time": "2023-12-12T08:09:44.0732188+00:00",
       "NumProgressed": 237236,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T09:10:32.8609916+00:00",
+      "NumProgressed": 237238,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -17190,7 +17195,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9489
+      "UsersEstimate": 9490
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -17366,7 +17371,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59309
+      "UsersEstimate": 59310
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -17381,7 +17386,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 237236,
+      "Progressed": 237238,
       "Completed": 0
     }
   ],
@@ -17389,8 +17394,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-09T14:59:28.1830393+00:00",
-  "LastChanged_Achievements": "2023-12-12T08:09:44.0732186+00:00",
+  "LastChanged_Achievements": "2023-12-12T09:10:32.8609913+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:08.4919895+00:00",
-  "LastUpdate_Ratings": "2023-12-12T08:00:45.8955678+00:00",
-  "LastUpdate_Achievements": "2023-12-12T08:09:44.0733234+00:00"
+  "LastUpdate_Ratings": "2023-12-12T09:03:04.349148+00:00",
+  "LastUpdate_Achievements": "2023-12-12T09:10:32.861087+00:00"
 }

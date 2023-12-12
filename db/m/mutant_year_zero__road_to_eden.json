@@ -4,11 +4,11 @@
   "ProductSlug": "mutant-year-zero",
   "Ranking_Rating": 599,
   "Ranking_Popularity": 191,
-  "Ranking_PopularitySum": 268,
+  "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 790,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2018-12-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1467,10 +1467,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 966,
       "NumberOfAwardsMax": 656
+    },
+    {
+      "Time": "2023-12-12T08:57:53.3386898+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 967,
+      "NumberOfAwardsMax": 656
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 966,
+  "NumberOfAwards": 967,
   "NumberOfAwardsMax": 656,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1490,7 +1496,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game is Relaxing",
@@ -1546,8 +1552,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2023-12-12T05:57:59.9955559+00:00",
+  "LastChanged": "2023-12-12T08:57:53.3386896+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:35.651882+00:00",
-  "LastUpdate_Ratings": "2023-12-12T07:57:50.4507077+00:00",
-  "LastUpdate_Achievements": "2023-12-12T08:03:54.1055605+00:00"
+  "LastUpdate_Ratings": "2023-12-12T08:57:53.3386902+00:00",
+  "LastUpdate_Achievements": "2023-12-12T09:04:13.6257277+00:00"
 }

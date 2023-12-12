@@ -22,12 +22,12 @@ Rating: 4.75 (Ranked 148)
 | Drama CP: Reel to Real | 35.00% | ~3,827 |
 | Worthless Speech | 35.00% | ~3,827 |
 | Absolutely Elegant | 34.00% | ~3,718 |
-| Still Single | 32.00% | ~3,499 |
+| Still Single | 33.00% | ~3,609 |
 | Go Get Some Fries On The Pier | 30.00% | ~3,280 |
 | Days Of Innocence | 30.00% | ~3,280 |
 | David | 30.00% | ~3,280 |
+| All I Have Is Money | 26.00% | ~2,843 |
 | A Slap In The Face! | 26.00% | ~2,843 |
-| All I Have Is Money | 25.00% | ~2,734 |
 | Lover In Dark Alley | 25.00% | ~2,734 |
 | That's So You | 25.00% | ~2,734 |
 | SALUTE | 25.00% | ~2,734 |
@@ -116,9 +116,9 @@ Completed: 203 (1.86%) (Ranked 135)
 | 2023-12-11 | 10,928 | 203 |
 | 2023-12-12 | 10,935 | 203 |
 ## Awards
-Max (Impact the Story): 23  (Ranked 536)  
+Max (Impact the Story): 23  (Ranked 537)  
 Sum: 23 (Ranked 540)  
-Diff (max vs sum): -4  
+Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 23 |

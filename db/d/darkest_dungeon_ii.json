@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9594,9 +9594,9 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126323,
+  "EOS_Progressed": 126333,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 741,
+  "EOS_NewPlayers": 751,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34624,6 +34624,11 @@
       "Time": "2023-12-12T08:08:52.1392009+00:00",
       "NumProgressed": 126323,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T09:09:21.4936401+00:00",
+      "NumProgressed": 126333,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34777,9 +34782,9 @@
       "ID": "combat_kill_cosmic",
       "SetID": "64l4lke",
       "Name": "Banishment",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "combat_kill_death",
@@ -35193,9 +35198,9 @@
       "ID": "combat_kill_warlord_crusader",
       "SetID": "d3bcpc8",
       "Name": "No Mercy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -35209,9 +35214,9 @@
       "ID": "combat_land_riposte_maa_hwy_dul",
       "SetID": "d3bcpc8",
       "Name": "Et Tu, Riposte?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -35225,9 +35230,9 @@
       "ID": "hero_story_complete_duelist",
       "SetID": "d3bcpc8",
       "Name": "Bloody Graduation",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "quest_complete_crusader",
@@ -35266,21 +35271,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126323,
+      "Progressed": 126333,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1192,
+      "Progressed": 1202,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T03:59:20.098061+00:00",
-  "LastChanged_Achievements": "2023-12-12T08:08:52.1392006+00:00",
+  "LastChanged_Achievements": "2023-12-12T09:09:21.4936397+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T07:58:52.2613674+00:00",
-  "LastUpdate_Achievements": "2023-12-12T08:08:52.1394346+00:00"
+  "LastUpdate_Ratings": "2023-12-12T08:59:19.9590632+00:00",
+  "LastUpdate_Achievements": "2023-12-12T09:09:21.4937985+00:00"
 }

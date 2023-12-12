@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -1009,7 +1009,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 542768,
+  "EOS_Progressed": 542769,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1302,
   "EOS_NewCompleters": 0,
@@ -27804,6 +27804,11 @@
       "Time": "2023-12-12T08:08:46.7894175+00:00",
       "NumProgressed": 542768,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T09:09:14.0080002+00:00",
+      "NumProgressed": 542769,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -27815,7 +27820,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 146547
+      "UsersEstimate": 146548
     },
     {
       "ID": "Backdoor",
@@ -27911,7 +27916,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 217107
+      "UsersEstimate": 217108
     },
     {
       "ID": "DeadlyAssassin",
@@ -28015,7 +28020,7 @@
       "Name": "Never Give Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43421
+      "UsersEstimate": 43422
     },
     {
       "ID": "OnTheButton",
@@ -28135,7 +28140,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 43421
+      "UsersEstimate": 43422
     },
     {
       "ID": "ThreeWay",
@@ -28159,7 +28164,7 @@
       "Name": "Total Knock Out",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 43421
+      "UsersEstimate": 43422
     },
     {
       "ID": "WHIP",
@@ -28174,7 +28179,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 542768,
+      "Progressed": 542769,
       "Completed": 2
     }
   ],
@@ -28182,8 +28187,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-12-08T22:58:15.3697268+00:00",
-  "LastChanged_Achievements": "2023-12-12T08:08:46.7894173+00:00",
+  "LastChanged_Achievements": "2023-12-12T09:09:14.0079999+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:41.1804314+00:00",
-  "LastUpdate_Ratings": "2023-12-12T07:59:45.8600309+00:00",
-  "LastUpdate_Achievements": "2023-12-12T08:08:46.7895723+00:00"
+  "LastUpdate_Ratings": "2023-12-12T09:00:38.2428168+00:00",
+  "LastUpdate_Achievements": "2023-12-12T09:09:14.008142+00:00"
 }

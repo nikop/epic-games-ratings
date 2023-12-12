@@ -2,10 +2,10 @@
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
   "ProductSlug": "scathe-ca258f",
-  "Ranking_EOS_Progress": 315,
+  "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 534,
+  "EOS_Progressed": 536,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2266,6 +2266,11 @@
       "Time": "2023-12-12T08:09:08.4563237+00:00",
       "NumProgressed": 534,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T09:09:43.580655+00:00",
+      "NumProgressed": 536,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -2275,9 +2280,9 @@
       "ID": "ACHIEVEMENT_AMAGING_WORK",
       "SetID": "2ff85j2",
       "Name": "Amaging Work",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_AND_IM_ALL_OUT_OF_GUN",
@@ -2307,9 +2312,9 @@
       "ID": "ACHIEVEMENT_CASTLE_OF_THE_WOLF",
       "SetID": "2ff85j2",
       "Name": "Castle Of The Wolf",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_DOOMED",
@@ -2371,17 +2376,17 @@
       "ID": "ACHIEVEMENT_NUKE_THEM_ALL",
       "SetID": "2ff85j2",
       "Name": "Nuke Them All",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_PACIFANTASTIC",
       "SetID": "2ff85j2",
       "Name": "Pacifantastic",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_POSTAL_SERVICE",
@@ -2395,17 +2400,17 @@
       "ID": "ACHIEVEMENT_PURELY_NOT",
       "SetID": "2ff85j2",
       "Name": "Purely Not",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_QUAKIN",
       "SetID": "2ff85j2",
       "Name": "Quakin\u0027",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_RAGE_QUIT",
@@ -2419,17 +2424,17 @@
       "ID": "ACHIEVEMENT_RUNE_ESCAPE",
       "SetID": "2ff85j2",
       "Name": "Rune Escape",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_SCATHE_TOO",
       "SetID": "2ff85j2",
       "Name": "SCATHE Too",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SERIOUS_BAM",
@@ -2467,9 +2472,9 @@
       "ID": "ACHIEVEMENT_SUCH_SIN",
       "SetID": "2ff85j2",
       "Name": "Such Sin",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_TAKIN_NAMES",
@@ -2491,17 +2496,17 @@
       "ID": "ACHIEVEMENT_UNREAL",
       "SetID": "2ff85j2",
       "Name": "Unreal",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_UNREAL_4",
       "SetID": "2ff85j2",
       "Name": "Unreal 4",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_UNTIL_DUSK",
@@ -2516,7 +2521,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 534,
+      "Progressed": 536,
       "Completed": 0
     }
   ],
@@ -2524,8 +2529,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-12-12T08:09:08.4563234+00:00",
+  "LastChanged_Achievements": "2023-12-12T09:09:43.5806547+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.4195463+00:00",
-  "LastUpdate_Ratings": "2023-12-12T07:59:30.1713235+00:00",
-  "LastUpdate_Achievements": "2023-12-12T08:09:08.4563479+00:00"
+  "LastUpdate_Ratings": "2023-12-12T09:00:15.7221666+00:00",
+  "LastUpdate_Achievements": "2023-12-12T09:09:43.5806835+00:00"
 }

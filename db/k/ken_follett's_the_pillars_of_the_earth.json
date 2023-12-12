@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16980,
+  "EOS_Progressed": 16982,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15913,6 +15913,11 @@
       "Time": "2023-12-12T07:04:35.72722+00:00",
       "NumProgressed": 16980,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-12T09:05:58.233178+00:00",
+      "NumProgressed": 16982,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 41,
@@ -15940,7 +15945,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3906
     },
     {
       "ID": "tpote_achievement_12",
@@ -15964,7 +15969,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5603
+      "UsersEstimate": 5604
     },
     {
       "ID": "tpote_achievement_15",
@@ -16004,7 +16009,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "tpote_achievement_2",
@@ -16012,7 +16017,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5603
+      "UsersEstimate": 5604
     },
     {
       "ID": "tpote_achievement_20",
@@ -16028,7 +16033,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4924
+      "UsersEstimate": 4925
     },
     {
       "ID": "tpote_achievement_22",
@@ -16068,7 +16073,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "tpote_achievement_27",
@@ -16076,7 +16081,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "tpote_achievement_28",
@@ -16116,7 +16121,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "tpote_achievement_32",
@@ -16132,7 +16137,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "tpote_achievement_34",
@@ -16140,7 +16145,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "tpote_achievement_35",
@@ -16188,7 +16193,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6792
+      "UsersEstimate": 6793
     },
     {
       "ID": "tpote_achievement_40",
@@ -16212,7 +16217,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4075
+      "UsersEstimate": 4076
     },
     {
       "ID": "tpote_achievement_6",
@@ -16220,7 +16225,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3906
     },
     {
       "ID": "tpote_achievement_7",
@@ -16244,22 +16249,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5773
+      "UsersEstimate": 5774
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16980,
+      "Progressed": 16982,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-12T08:05:09.2362345+00:00",
+  "LastChanged_Achievements": "2023-12-12T09:05:58.2331776+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.5508408+00:00",
-  "LastUpdate_Ratings": "2023-12-12T07:59:13.342625+00:00",
-  "LastUpdate_Achievements": "2023-12-12T08:05:09.2363563+00:00"
+  "LastUpdate_Ratings": "2023-12-12T08:59:50.1469336+00:00",
+  "LastUpdate_Achievements": "2023-12-12T09:05:58.2332599+00:00"
 }

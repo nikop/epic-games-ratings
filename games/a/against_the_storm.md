@@ -13,6 +13,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 3.00% | ~539 |
 | Ominous Presence | 3.00% | ~539 |
 | Gathering Storm | 3.00% | ~539 |
+| Taking Action | 2.00% | ~359 |
 | No Deaths | 2.00% | ~359 |
 | Untamed Wilds | 2.00% | ~359 |
 | First Real Expedition | 1.00% | ~180 |
@@ -21,7 +22,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 1.00% | ~180 |
 | The Marshlands | 1.00% | ~180 |
 | The Scarlet Orchard | 1.00% | ~180 |
-| Taking Action | 1.00% | ~180 |
 | Royal Outpost | 0.90% | ~162 |
 | Watchtower | 0.90% | ~162 |
 | Lost Colonies | 0.80% | ~144 |

@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | All systems go | 84.00% | ~61 |
 | Do a barrel roll! | 64.00% | ~47 |
-| Huh? What was that? | 52.00% | ~38 |
-| Whatever it is, fix it! | 36.00% | ~26 |
+| Huh? What was that? | 53.00% | ~39 |
+| Whatever it is, fix it! | 37.00% | ~27 |
 | The opposite of good news | 29.00% | ~21 |
 | My Emperor... I've failed you! | 22.00% | ~16 |
 | Priceless company | 15.00% | ~11 |

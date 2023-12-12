@@ -59,7 +59,7 @@
 | Evilification | 15.00% | ~81 |
 | Mirror, Mirror | 14.00% | ~76 |
 | Untouchable | 14.00% | ~76 |
-| Heal Heal Blessing | 12.00% | ~65 |
+| Heal Heal Blessing | 13.00% | ~71 |
 | Laser Eyes Are So Useless | 11.00% | ~60 |
 | Hands Off My Stones | 11.00% | ~60 |
 | Gorgu is in the Best of Health | 10.00% | ~54 |

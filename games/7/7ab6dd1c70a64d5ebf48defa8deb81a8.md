@@ -25,8 +25,8 @@
 | To Battle | 6.00% | ~16 |
 | Godslayer | 6.00% | ~16 |
 | Alchemist | 6.00% | ~16 |
+| Clear Sight | 5.00% | ~13 |
 | Fine Feathers Make Fine Birds | 5.00% | ~13 |
-| Clear Sight | 4.00% | ~11 |
 | Airborne | 4.00% | ~11 |
 | Miner | 4.00% | ~11 |
 | Shatterer | 3.00% | ~8 |

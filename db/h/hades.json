@@ -5848,9 +5848,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 718265,
+  "EOS_Progressed": 718266,
   "EOS_Completed": 6532,
-  "EOS_NewPlayers": 801,
+  "EOS_NewPlayers": 798,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -31503,6 +31503,11 @@
       "Time": "2023-12-12T08:09:39.5439501+00:00",
       "NumProgressed": 718265,
       "NumCompleted": 6532
+    },
+    {
+      "Time": "2023-12-12T09:10:26.7853921+00:00",
+      "NumProgressed": 718266,
+      "NumCompleted": 6532
     }
   ],
   "TotalAchievements": 49,
@@ -31530,7 +31535,7 @@
       "Name": "To Charon\u0027s Credit",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 158018
+      "UsersEstimate": 158019
     },
     {
       "ID": "AchBronzeSkellyTrophy",
@@ -31538,7 +31543,7 @@
       "Name": "The Useless Trinket",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 93374
+      "UsersEstimate": 93375
     },
     {
       "ID": "AchBuffedButterfly",
@@ -31578,7 +31583,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 567429
+      "UsersEstimate": 567430
     },
     {
       "ID": "AchClearElysium",
@@ -31586,7 +31591,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 474055
+      "UsersEstimate": 474056
     },
     {
       "ID": "AchClearElysiumEM",
@@ -31594,7 +31599,7 @@
       "Name": "Champion of Elysium",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 93374
+      "UsersEstimate": 93375
     },
     {
       "ID": "AchClearHeatGate",
@@ -31618,7 +31623,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 632073
+      "UsersEstimate": 632074
     },
     {
       "ID": "AchCrushedThanatos",
@@ -31626,7 +31631,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 323219
+      "UsersEstimate": 323220
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -31666,7 +31671,7 @@
       "Name": "Something From Everyone",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 136470
+      "UsersEstimate": 136471
     },
     {
       "ID": "AchFoundSummon",
@@ -31674,7 +31679,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 158018
+      "UsersEstimate": 158019
     },
     {
       "ID": "AchGreaterCall",
@@ -31690,7 +31695,7 @@
       "Name": "Bad Call",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 71826
+      "UsersEstimate": 71827
     },
     {
       "ID": "AchLeveledKeepsakes",
@@ -31738,7 +31743,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 445324
+      "UsersEstimate": 445325
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -31746,7 +31751,7 @@
       "Name": "Nyx\u0027s Mirror",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 71826
+      "UsersEstimate": 71827
     },
     {
       "ID": "AchMirrorUpgradeClears",
@@ -31770,7 +31775,7 @@
       "Name": "Night and Darkness",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 71826
+      "UsersEstimate": 71827
     },
     {
       "ID": "AchOlympiansCodex",
@@ -31786,7 +31791,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 258575
+      "UsersEstimate": 258576
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -31858,7 +31863,7 @@
       "Name": "End to Torment",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 71826
+      "UsersEstimate": 71827
     },
     {
       "ID": "AchSkellyKills",
@@ -31866,7 +31871,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 301671
+      "UsersEstimate": 301672
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -31874,7 +31879,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 502785
+      "UsersEstimate": 502786
     },
     {
       "ID": "AchWeaponClears",
@@ -31905,15 +31910,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 718265,
+      "Progressed": 718266,
       "Completed": 6532
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-12-11T23:57:13.633983+00:00",
-  "LastChanged_Achievements": "2023-12-12T08:09:39.5439498+00:00",
+  "LastChanged_Achievements": "2023-12-12T09:10:26.7853918+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:36.6248453+00:00",
-  "LastUpdate_Ratings": "2023-12-12T07:57:38.7971787+00:00",
-  "LastUpdate_Achievements": "2023-12-12T08:09:39.5440935+00:00"
+  "LastUpdate_Ratings": "2023-12-12T08:57:37.4763837+00:00",
+  "LastUpdate_Achievements": "2023-12-12T09:10:26.7855538+00:00"
 }

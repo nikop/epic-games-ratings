@@ -3,12 +3,12 @@
   "Name": "Spiritfarer\u00AE: Farewell Edition",
   "ProductSlug": "spiritfarer",
   "Ranking_Rating": 17,
-  "Ranking_Popularity": 536,
+  "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 790,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -418,6 +418,6 @@
   "FirstSeen": "2022-07-22T20:25:28.7454672+00:00",
   "LastChanged": "2023-12-07T17:02:37.7172767+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:37.342739+00:00",
-  "LastUpdate_Ratings": "2023-12-12T07:59:38.9129703+00:00",
-  "LastUpdate_Achievements": "2023-12-12T08:06:55.2706038+00:00"
+  "LastUpdate_Ratings": "2023-12-12T09:00:28.4150382+00:00",
+  "LastUpdate_Achievements": "2023-12-12T09:08:44.6834111+00:00"
 }

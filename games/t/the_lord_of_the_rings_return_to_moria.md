@@ -5,25 +5,25 @@ Rating: 4.43 (Ranked 697)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 84.00% | ~243,911 |
-| Delving Onward | 72.00% | ~209,066 |
-| Miner's Helper | 62.00% | ~180,029 |
-| Suit Up | 56.00% | ~162,607 |
-| To the Mountain's Roots | 52.00% | ~150,992 |
-| Remains To Be Seen | 36.00% | ~104,533 |
-| Covered Head to Toe | 34.00% | ~98,726 |
-| Line of Azog, Ended | 33.00% | ~95,822 |
-| Risk a Little Real Light | 32.00% | ~92,918 |
-| Caradhras The Cruel | 18.00% | ~52,267 |
-| A Memory of this Place | 18.00% | ~52,267 |
-| Battering Ram | 14.00% | ~40,652 |
-| False King, Deposed | 14.00% | ~40,652 |
-| Baruk Khazâd! | 13.00% | ~37,748 |
-| Shadow's Bane | 10.00% | ~29,037 |
-| Westgate Weaponcraft | 9.00% | ~26,133 |
+| Speak Friend | 84.00% | ~243,916 |
+| Delving Onward | 72.00% | ~209,071 |
+| Miner's Helper | 62.00% | ~180,033 |
+| Suit Up | 56.00% | ~162,611 |
+| To the Mountain's Roots | 52.00% | ~150,996 |
+| Remains To Be Seen | 36.00% | ~104,535 |
+| Covered Head to Toe | 34.00% | ~98,728 |
+| Line of Azog, Ended | 33.00% | ~95,824 |
+| Risk a Little Real Light | 32.00% | ~92,920 |
+| Caradhras The Cruel | 18.00% | ~52,268 |
+| A Memory of this Place | 18.00% | ~52,268 |
+| Battering Ram | 14.00% | ~40,653 |
+| False King, Deposed | 14.00% | ~40,653 |
+| Baruk Khazâd! | 13.00% | ~37,749 |
+| Shadow's Bane | 10.00% | ~29,038 |
+| Westgate Weaponcraft | 9.00% | ~26,134 |
 | Deeps Weaponcraft | 8.00% | ~23,230 |
 | Darkness Is Passing | 7.00% | ~20,326 |
-| Decked Out | 5.00% | ~14,518 |
+| Decked Out | 5.00% | ~14,519 |
 | Guarded from Despair | 4.00% | ~11,615 |
 | Master of All Trades | 4.00% | ~11,615 |
 | Eregion Weaponcraft | 3.00% | ~8,711 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 697)
 | Shielded | 1.00% | ~2,904 |
 | We're Gonna Need More Mugs | 0.10% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,370 (Ranked 55)  
+Progressed: 290,376 (Ranked 55)  
 Completed: 137 (0.05%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 137 (0.05%) (Ranked 322)
 | 2023-12-09 | 288,790 | 114 |
 | 2023-12-10 | 289,634 | 127 |
 | 2023-12-11 | 290,206 | 137 |
-| 2023-12-12 | 290,370 | 137 |
+| 2023-12-12 | 290,376 | 137 |
 ## Awards
 Max (Great for Beginners): 671  (Ranked 190)  
 Sum: 3,898 (Ranked 159)  

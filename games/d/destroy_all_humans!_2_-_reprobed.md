@@ -13,7 +13,7 @@ Number of Ratings: 90  (23.09.2022)
 | Shop Til They Drop | 26.00% | ~10 |
 | I Look Up As I Walk to Takoshima | 24.00% | ~9 |
 | Upgreatest | 21.00% | ~8 |
-| Earthly Pleasures | 16.00% | ~6 |
+| Earthly Pleasures | 18.00% | ~7 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~5 |
 | Pimp My Raid | 13.00% | ~5 |
 | Perfect Probulator | 11.00% | ~4 |
@@ -28,12 +28,12 @@ Number of Ratings: 90  (23.09.2022)
 | Kaijuiced | 5.00% | ~2 |
 | Lobster Blisque | 5.00% | ~2 |
 | Freshly Squeezed | 5.00% | ~2 |
+| Arty Facts | 3.00% | ~1 |
 | Forbidden Donut | 3.00% | ~1 |
 | Deincarnated | 3.00% | ~1 |
 | Yettisoned | 3.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |
-| Arty Facts | 0.00% | ~0 |
 | Gotta Catch All the Pop Art | 0.00% | ~0 |
 | This Is Earth Radio | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
