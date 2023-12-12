@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -898,7 +898,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 49791,
+  "EOS_Progressed": 49793,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 866,
   "EOS_NewCompleters": 0,
@@ -27603,6 +27603,11 @@
       "Time": "2023-12-12T04:03:37.0712037+00:00",
       "NumProgressed": 49791,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-12T05:04:08.6728559+00:00",
+      "NumProgressed": 49793,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -27694,7 +27699,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2988
     },
     {
       "ID": "journeyer",
@@ -27734,7 +27739,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8464
+      "UsersEstimate": 8465
     },
     {
       "ID": "novice",
@@ -27886,7 +27891,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3485
+      "UsersEstimate": 3486
     },
     {
       "ID": "vandal",
@@ -27925,15 +27930,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 49791,
+      "Progressed": 49793,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-12-12T04:01:33.9660023+00:00",
-  "LastChanged_Achievements": "2023-12-12T04:03:37.0712033+00:00",
+  "LastChanged_Achievements": "2023-12-12T05:04:08.6728555+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.4724862+00:00",
-  "LastUpdate_Ratings": "2023-12-12T04:01:33.9660027+00:00",
-  "LastUpdate_Achievements": "2023-12-12T04:03:37.0713398+00:00"
+  "LastUpdate_Ratings": "2023-12-12T05:01:50.0866596+00:00",
+  "LastUpdate_Achievements": "2023-12-12T05:04:08.672975+00:00"
 }

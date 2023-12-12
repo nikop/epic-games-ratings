@@ -3,12 +3,12 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 971,
-  "Ranking_Popularity": 502,
+  "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -455,18 +455,24 @@
       "Rating": 4.13,
       "NumberOfAwards": 29,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-12-12T05:01:14.3926087+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 30,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29,
-  "NumberOfAwardsMax": 29,
+  "NumberOfAwards": 30,
+  "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 29
+      "Count": 30
     }
   ],
   "EOS_Progressed": 43562,
@@ -15266,9 +15272,9 @@
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2023-12-09T13:58:58.5190883+00:00",
-  "LastChanged_Achievements": "2023-12-12T04:08:29.6433756+00:00",
+  "LastChanged": "2023-12-12T05:01:14.3926085+00:00",
+  "LastChanged_Achievements": "2023-12-12T05:09:02.8014238+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:12.2339808+00:00",
-  "LastUpdate_Ratings": "2023-12-12T04:00:59.4492803+00:00",
-  "LastUpdate_Achievements": "2023-12-12T04:08:29.643454+00:00"
+  "LastUpdate_Ratings": "2023-12-12T05:01:14.3926091+00:00",
+  "LastUpdate_Achievements": "2023-12-12T05:09:02.8015384+00:00"
 }

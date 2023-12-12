@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1497,9 +1497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242354,
+  "EOS_Progressed": 242361,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1008,
+  "EOS_NewPlayers": 1014,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21957,6 +21957,11 @@
       "Time": "2023-12-12T04:09:53.8911756+00:00",
       "NumProgressed": 242354,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-12T05:10:29.6844401+00:00",
+      "NumProgressed": 242361,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -22368,7 +22373,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19388
+      "UsersEstimate": 19389
     },
     {
       "ID": "DwarfElf15Support",
@@ -22416,7 +22421,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87247
+      "UsersEstimate": 87250
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -22480,7 +22485,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "InsultLoose",
@@ -22671,21 +22676,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 242354,
+      "Progressed": 242361,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 242354,
+      "Progressed": 242361,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-12T01:45:34.0297906+00:00",
-  "LastChanged_Achievements": "2023-12-12T04:09:53.8911751+00:00",
+  "LastChanged_Achievements": "2023-12-12T05:10:29.6844398+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.1177484+00:00",
-  "LastUpdate_Ratings": "2023-12-12T03:57:21.5522903+00:00",
-  "LastUpdate_Achievements": "2023-12-12T04:09:53.8913261+00:00"
+  "LastUpdate_Ratings": "2023-12-12T04:57:25.5299015+00:00",
+  "LastUpdate_Achievements": "2023-12-12T05:10:29.6845817+00:00"
 }

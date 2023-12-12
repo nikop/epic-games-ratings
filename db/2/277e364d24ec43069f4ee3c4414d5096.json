@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116447,
+  "EOS_Progressed": 116449,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20954,6 +20954,11 @@
       "Time": "2023-12-12T04:09:59.8084602+00:00",
       "NumProgressed": 116447,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-12T05:10:35.5975493+00:00",
+      "NumProgressed": 116449,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20973,7 +20978,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89664
+      "UsersEstimate": 89666
     },
     {
       "ID": "EAwards_10",
@@ -20989,7 +20994,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30276
+      "UsersEstimate": 30277
     },
     {
       "ID": "EAwards_12",
@@ -21037,7 +21042,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43085
+      "UsersEstimate": 43086
     },
     {
       "ID": "EAwards_18",
@@ -21061,7 +21066,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55895
+      "UsersEstimate": 55896
     },
     {
       "ID": "EAwards_20",
@@ -21149,7 +21154,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23289
+      "UsersEstimate": 23290
     },
     {
       "ID": "EAwards_30",
@@ -21356,7 +21361,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116447,
+      "Progressed": 116449,
       "Completed": 51
     }
   ],
@@ -21364,8 +21369,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-12T04:09:59.8084599+00:00",
+  "LastChanged_Achievements": "2023-12-12T05:10:35.5975491+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.236213+00:00",
-  "LastUpdate_Ratings": "2023-12-12T04:01:45.5647988+00:00",
-  "LastUpdate_Achievements": "2023-12-12T04:09:59.8085809+00:00"
+  "LastUpdate_Ratings": "2023-12-12T05:02:51.9011033+00:00",
+  "LastUpdate_Achievements": "2023-12-12T05:10:35.5976659+00:00"
 }

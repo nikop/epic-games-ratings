@@ -10,9 +10,9 @@ Rating: 4.53 (Ranked 545)
 | Bosmang | 8.00% | ~1,285 |
 | Celebrations are in Order | 8.00% | ~1,285 |
 | Impossible Objects | 8.00% | ~1,285 |
-| Martian Music | 7.00% | ~1,124 |
-| Drone Dodger | 7.00% | ~1,124 |
-| Captain Drummer | 7.00% | ~1,124 |
+| Martian Music | 7.00% | ~1,125 |
+| Drone Dodger | 7.00% | ~1,125 |
+| Captain Drummer | 7.00% | ~1,125 |
 | Safe Cracker | 7.00% | ~141 |
 | Zen Master | 7.00% | ~141 |
 | Stogie for Fogey | 6.00% | ~964 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 545)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,063 (Ranked 152)  
+Progressed: 16,065 (Ranked 152)  
 Completed: 42 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 42 (0.26%) (Ranked 249)
 | 2023-12-09 | 16,020 | 42 |
 | 2023-12-10 | 16,041 | 42 |
 | 2023-12-11 | 16,062 | 42 |
-| 2023-12-12 | 16,063 | 42 |
+| 2023-12-12 | 16,065 | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "midevil-ceab3e",
   "Ranking_EOS_Progress": 790,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-06T17:57:24.6302115+00:00",
-  "LastUpdate_Ratings": "2023-12-12T03:58:51.9180543+00:00",
-  "LastUpdate_Achievements": "2023-12-12T04:09:07.4450559+00:00"
+  "LastUpdate_Ratings": "2023-12-12T04:59:00.3392669+00:00",
+  "LastUpdate_Achievements": "2023-12-12T05:09:42.076733+00:00"
 }

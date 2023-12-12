@@ -8,8 +8,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | ---- | ---------- | ----- |
 | First F#@!ing Day | 46.00% | ~37,947 |
 | To The Nines | 42.00% | ~34,647 |
-| Optimized | 37.00% | ~30,522 |
-| Performance Review | 36.00% | ~29,697 |
+| Optimized | 37.00% | ~30,523 |
+| Performance Review | 36.00% | ~29,698 |
 | Making a Name | 35.00% | ~28,873 |
 | Tune Up | 34.00% | ~28,048 |
 | Landlord | 33.00% | ~27,223 |
@@ -19,7 +19,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Food for Thought | 27.00% | ~22,273 |
 | Finders Keepers | 26.00% | ~21,448 |
 | A Young Empire | 26.00% | ~21,448 |
-| Work Ethic | 23.00% | ~18,973 |
+| Work Ethic | 23.00% | ~18,974 |
 | Picking Fights | 20.00% | ~16,499 |
 | Power Players | 19.00% | ~15,674 |
 | Quality Time | 18.00% | ~14,849 |
@@ -31,7 +31,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Hijacked | 11.00% | ~9,074 |
 | The Spins | 10.00% | ~8,249 |
 | The Mechanic | 10.00% | ~8,249 |
-| Closet Space | 8.00% | ~6,599 |
+| Closet Space | 8.00% | ~6,600 |
 | We could go home, or… | 7.00% | ~5,775 |
 | Challenge Accepted | 7.00% | ~5,775 |
 | A Golden Age | 7.00% | ~5,775 |
@@ -43,7 +43,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Free Refills | 5.00% | ~4,125 |
 | Neighborly | 5.00% | ~4,125 |
 | Smooth Moves | 5.00% | ~4,125 |
-| Hazardous Heist | 5.00% | ~2,706 |
+| Hazardous Heist | 5.00% | ~2,707 |
 | Prankster | 4.00% | ~3,300 |
 | Tourist | 4.00% | ~3,300 |
 | Shopping Spree | 3.00% | ~2,475 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~165 |
 | Fiesta Time | 0.20% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,493 (Ranked 96)  
+Progressed: 82,494 (Ranked 96)  
 Completed: 55 (0.07%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 55 (0.07%) (Ranked 309)
 | 2023-12-09 | 82,164 | 54 |
 | 2023-12-10 | 82,319 | 54 |
 | 2023-12-11 | 82,462 | 55 |
-| 2023-12-12 | 82,493 | 55 |
+| 2023-12-12 | 82,494 | 55 |
 ## Awards
 Max (Extremely Fun): 1,079  (Ranked 147)  
 Sum: 8,765 (Ranked 98)  

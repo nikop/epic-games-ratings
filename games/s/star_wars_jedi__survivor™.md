@@ -21,8 +21,8 @@ Rating: 4.50 (Ranked 599)
 | Out of Bedlam | 63.00% | ~6,071 |
 | Cleaning Up | 55.00% | ~5,300 |
 | Tanalorr Bound | 55.00% | ~5,300 |
+| Tragedy | 53.00% | ~5,108 |
 | Kitted Out | 53.00% | ~5,108 |
-| Tragedy | 52.00% | ~5,011 |
 | At the Precipice | 51.00% | ~4,915 |
 | Hey, Luke At Us | 50.00% | ~4,818 |
 | Into the Abyss | 49.00% | ~4,722 |

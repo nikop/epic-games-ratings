@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -945,9 +945,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 7412,
+  "EOS_Progressed": 7413,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9100,6 +9100,11 @@
       "Time": "2023-12-12T00:09:17.3699012+00:00",
       "NumProgressed": 7412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T05:10:23.0764936+00:00",
+      "NumProgressed": 7413,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9143,7 +9148,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2150
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -9151,7 +9156,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4521
+      "UsersEstimate": 4522
     },
     {
       "ID": "Control_All_Relics",
@@ -9215,7 +9220,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5707
+      "UsersEstimate": 5708
     },
     {
       "ID": "First_Race_Met",
@@ -9231,7 +9236,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "First_Stream_Travel",
@@ -9247,7 +9252,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5633
+      "UsersEstimate": 5634
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9431,7 +9436,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4447
+      "UsersEstimate": 4448
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9615,7 +9620,7 @@
       "Name": "Conquest Victory!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "Win_CustomFaction",
@@ -9671,7 +9676,7 @@
       "Name": "Win Quickly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "Win_Research",
@@ -9686,15 +9691,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7412,
+      "Progressed": 7413,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-05T01:55:09.6981089+00:00",
-  "LastChanged_Achievements": "2023-12-12T04:09:47.4697212+00:00",
+  "LastChanged_Achievements": "2023-12-12T05:10:23.0764933+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:03.4642275+00:00",
-  "LastUpdate_Ratings": "2023-12-12T03:57:21.1410559+00:00",
-  "LastUpdate_Achievements": "2023-12-12T04:09:47.4698148+00:00"
+  "LastUpdate_Ratings": "2023-12-12T04:57:25.1018311+00:00",
+  "LastUpdate_Achievements": "2023-12-12T05:10:23.0765934+00:00"
 }

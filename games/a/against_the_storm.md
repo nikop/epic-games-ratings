@@ -52,6 +52,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 0.20% | ~36 |
 | Dangerous Lands | 0.20% | ~36 |
 | Forbidden Lands | 0.20% | ~36 |
+| Like a Machine | 0.20% | ~36 |
 | Feeding The People | 0.10% | ~18 |
 | Paradise | 0.10% | ~18 |
 | Higher Needs | 0.10% | ~18 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~18 |
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
-| Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,967 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 255)  

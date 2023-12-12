@@ -8,16 +8,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 2.00% | ~23 |
 | This guy... again? | 1.00% | ~12 |
-| This Belongs in a Museum | 0.80% | ~1,010 |
+| This Belongs in a Museum | 0.90% | ~1,137 |
+| Catch and Decease | 0.80% | ~1,010 |
 | Not Today! | 0.70% | ~884 |
-| Catch and Decease | 0.70% | ~884 |
 | Escape from the Black Hole | 0.70% | ~884 |
+| Creep and Sleep | 0.60% | ~758 |
 | Meat and Greet | 0.60% | ~758 |
 | Overdue Notice | 0.60% | ~758 |
-| Creep and Sleep | 0.50% | ~631 |
+| Autodidact | 0.50% | ~631 |
 | Bloody Graduation | 0.50% | ~6 |
-| Autodidact | 0.40% | ~505 |
-| Lost and Found | 0.40% | ~5 |
+| Lost and Found | 0.50% | ~6 |
 | Don't Make Me Turn This Coach Around | 0.30% | ~379 |
 | Serenity Now! | 0.30% | ~379 |
 | Rush Hour | 0.30% | ~379 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,282 (Ranked 84)  
+Progressed: 126,290 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
-| 2023-12-12 | 126,282 | 2 |
+| 2023-12-12 | 126,290 | 2 |
 ## Awards
 Max (Character Customization): 7,622  (Ranked 52)  
 Sum: 20,137 (Ranked 59)  

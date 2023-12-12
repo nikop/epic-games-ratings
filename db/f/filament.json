@@ -354,9 +354,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 206893,
+  "EOS_Progressed": 206895,
   "EOS_Completed": 540,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -25544,6 +25544,11 @@
       "Time": "2023-12-12T04:05:47.0719645+00:00",
       "NumProgressed": 206893,
       "NumCompleted": 540
+    },
+    {
+      "Time": "2023-12-12T05:06:25.5454541+00:00",
+      "NumProgressed": 206895,
+      "NumCompleted": 540
     }
   ],
   "TotalAchievements": 29,
@@ -25579,7 +25584,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 194479
+      "UsersEstimate": 194481
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -25739,7 +25744,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20689
+      "UsersEstimate": 20690
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -25755,7 +25760,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16551
+      "UsersEstimate": 16552
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -25786,7 +25791,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 206893,
+      "Progressed": 206895,
       "Completed": 540
     }
   ],
@@ -25794,8 +25799,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-11T02:21:32.1838327+00:00",
-  "LastChanged_Achievements": "2023-12-12T04:05:47.071964+00:00",
+  "LastChanged_Achievements": "2023-12-12T05:06:25.5454532+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:21.2833289+00:00",
-  "LastUpdate_Ratings": "2023-12-12T03:58:45.8094032+00:00",
-  "LastUpdate_Achievements": "2023-12-12T04:05:47.072089+00:00"
+  "LastUpdate_Ratings": "2023-12-12T04:58:53.5341324+00:00",
+  "LastUpdate_Achievements": "2023-12-12T05:06:25.5456311+00:00"
 }

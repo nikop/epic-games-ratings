@@ -9,23 +9,23 @@ Rating: 4.75 (Ranked 148)
 | First of Many | 0.80% | ~1,910 |
 | Regicide | 0.80% | ~143 |
 | Master of the Dark Arts | 0.80% | ~143 |
-| Expanding Horizons | 0.60% | ~1,432 |
-| Not Your Average Trait | 0.60% | ~1,432 |
+| Expanding Horizons | 0.60% | ~1,433 |
+| Not Your Average Trait | 0.60% | ~1,433 |
+| Am I Seeing This? | 0.50% | ~1,194 |
 | Gleaming the Cube | 0.50% | ~1,194 |
 | Not So Special Now | 0.50% | ~1,194 |
 | Quest for Survival | 0.50% | ~1,194 |
 | Not a Janitor | 0.50% | ~1,194 |
 | Familiar Face | 0.50% | ~1,194 |
+| Duality | 0.50% | ~1,194 |
 | Boss'n Up | 0.50% | ~1,194 |
 | Trait Chaser | 0.50% | ~1,194 |
-| Am I Seeing This? | 0.40% | ~955 |
 | Chaos | 0.40% | ~955 |
 | Power Surge | 0.40% | ~955 |
 | The God Gambit | 0.40% | ~955 |
 | Dark Designs | 0.40% | ~955 |
 | Equal Measures | 0.40% | ~955 |
 | Blue Goddess | 0.40% | ~955 |
-| Duality | 0.40% | ~955 |
 | Top Performer | 0.40% | ~955 |
 | Shhh...It's a Secret | 0.40% | ~955 |
 | Was This Supposed To Happen? | 0.40% | ~955 |
@@ -48,20 +48,20 @@ Rating: 4.75 (Ranked 148)
 | The Ultimate Weapon | 0.30% | ~716 |
 | No One Should Have All That Power | 0.30% | ~716 |
 | Transmutate | 0.30% | ~716 |
-| Crafty | 0.20% | ~477 |
-| Only Human | 0.20% | ~477 |
-| Red Room | 0.20% | ~477 |
-| The Trigger | 0.20% | ~477 |
-| Cutting Edge | 0.20% | ~477 |
-| The Collector | 0.20% | ~477 |
-| Proving Grounds | 0.20% | ~477 |
-| Carnage in C-Minor | 0.20% | ~477 |
-| Maxed Out! | 0.20% | ~477 |
+| Crafty | 0.20% | ~478 |
+| Only Human | 0.20% | ~478 |
+| Red Room | 0.20% | ~478 |
+| The Trigger | 0.20% | ~478 |
+| Cutting Edge | 0.20% | ~478 |
+| The Collector | 0.20% | ~478 |
+| Proving Grounds | 0.20% | ~478 |
+| Carnage in C-Minor | 0.20% | ~478 |
+| Maxed Out! | 0.20% | ~478 |
 | Succession | 0.20% | ~36 |
 | You Shall Pass | 0.20% | ~36 |
 | A Foul Feast | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,744 (Ranked 66)  
+Progressed: 238,752 (Ranked 66)  
 Completed: 580 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 580 (0.24%) (Ranked 251)
 | 2023-12-09 | 237,633 | 573 |
 | 2023-12-10 | 238,247 | 577 |
 | 2023-12-11 | 238,673 | 579 |
-| 2023-12-12 | 238,744 | 580 |
+| 2023-12-12 | 238,752 | 580 |
 ## Awards
 Max (Great Boss Battles): 2,717  (Ranked 102)  
 Sum: 6,796 (Ranked 126)  

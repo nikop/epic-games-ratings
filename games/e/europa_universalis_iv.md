@@ -75,6 +75,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Combined Arms | 0.10% | ~473 |
 | Consulate of the Sea | 0.10% | ~473 |
 | Copium Wars | 0.10% | ~473 |
+| Cotton Kandy | 0.10% | ~473 |
 | Cowardly Tactics | 0.10% | ~473 |
 | Czechs and Balances | 0.10% | ~473 |
 | Dar al-Islam | 0.10% | ~473 |
@@ -298,7 +299,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Bunte Kuh | 0.00% | ~0 |
 | Cherrypicking | 0.00% | ~0 |
 | Core-fu | 0.00% | ~0 |
-| Cotton Kandy | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,286 (Ranked 41)  
+Progressed: 473,293 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -606,15 +606,15 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-09 | 472,114 | 1 |
 | 2023-12-10 | 472,739 | 1 |
 | 2023-12-11 | 473,225 | 1 |
-| 2023-12-12 | 473,286 | 1 |
+| 2023-12-12 | 473,293 | 1 |
 ## Awards
 Max (Educational): 7,340  (Ranked 54)  
-Sum: 60,472 (Ranked 24)  
+Sum: 60,487 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,340 |
-| This game has Diverse Characters | 7,107 |
+| This game has Diverse Characters | 7,122 |
 | This game is Highly Recommended | 7,044 |
 | This game has Challenging Combat | 6,972 |
 | This game is Extremely Fun | 6,891 |
@@ -955,3 +955,4 @@ Diff (max vs sum): 30
 | 2023-12-09 | 4.69 | - | 7,319 | 60,264 |
 | 2023-12-10 | 4.69 | - | 7,331 | 60,369 |
 | 2023-12-11 | 4.69 | - | 7,340 | 60,472 |
+| 2023-12-12 | 4.69 | - | 7,340 | 60,487 |

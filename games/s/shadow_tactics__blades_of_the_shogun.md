@@ -6,7 +6,7 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,246 |
+| Genin | 12.00% | ~26,247 |
 | A thief's beginning | 10.00% | ~21,872 |
 | Thorough | 10.00% | ~21,872 |
 | Disguised | 9.00% | ~19,685 |
@@ -14,10 +14,10 @@ Number of Ratings: 495  (23.09.2022)
 | Tanuki Time | 9.00% | ~19,685 |
 | Rescue Takuma | 8.00% | ~17,498 |
 | Stoned Ox | 8.00% | ~17,498 |
-| Happy Planning | 7.00% | ~15,310 |
-| Ice Ice Yuki | 7.00% | ~15,310 |
-| Jonin | 7.00% | ~15,310 |
-| Yabu | 7.00% | ~15,310 |
+| Happy Planning | 7.00% | ~15,311 |
+| Ice Ice Yuki | 7.00% | ~15,311 |
+| Jonin | 7.00% | ~15,311 |
+| Yabu | 7.00% | ~15,311 |
 | Chunin | 6.00% | ~13,123 |
 | Flying Rocks | 6.00% | ~13,123 |
 | Mugen Unchained | 6.00% | ~13,123 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | Winner Winner | 2.00% | ~4,374 |
 | Meticulous | 1.00% | ~2,187 |
 | Undeserved Honor | 1.00% | ~2,187 |
-| When Cut Across the Neck | 0.90% | ~1,968 |
+| When Cut Across the Neck | 0.90% | ~1,969 |
 | High Five the Moon | 0.80% | ~1,750 |
 | The Cave | 0.80% | ~1,750 |
 | Time Paradox | 0.60% | ~1,312 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~219 |
 | Release the Kraken | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,719 (Ranked 72)  
+Progressed: 218,724 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 100 (0.05%) (Ranked 322)
 | 2023-12-09 | 218,323 | 100 |
 | 2023-12-10 | 218,536 | 100 |
 | 2023-12-11 | 218,692 | 100 |
-| 2023-12-12 | 218,719 | 100 |
+| 2023-12-12 | 218,724 | 100 |
 ## Awards
 Max (Great for Beginners): 583  (Ranked 201)  
 Sum: 4,902 (Ranked 144)  

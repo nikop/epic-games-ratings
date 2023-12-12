@@ -4197,9 +4197,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 82493,
+  "EOS_Progressed": 82494,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 1099,
+  "EOS_NewPlayers": 1089,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -30982,6 +30982,11 @@
       "Time": "2023-12-12T04:09:48.3181579+00:00",
       "NumProgressed": 82493,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-12-12T05:10:23.9221016+00:00",
+      "NumProgressed": 82494,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 53,
@@ -31121,7 +31126,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 30522
+      "UsersEstimate": 30523
     },
     {
       "ID": "cutting_edge_materials",
@@ -31209,7 +31214,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 18973
+      "UsersEstimate": 18974
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -31241,7 +31246,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 29697
+      "UsersEstimate": 29698
     },
     {
       "ID": "hit_max_level",
@@ -31305,7 +31310,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6599
+      "UsersEstimate": 6600
     },
     {
       "ID": "prank_coop_partner",
@@ -31409,20 +31414,20 @@
       "Name": "Hazardous Heist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 82493,
+      "Progressed": 82494,
       "Completed": 55
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 54130,
+      "Progressed": 54131,
       "Completed": 4490
     }
   ],
@@ -31430,8 +31435,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-12-11T01:51:52.4043603+00:00",
-  "LastChanged_Achievements": "2023-12-12T04:09:48.3181577+00:00",
+  "LastChanged_Achievements": "2023-12-12T05:10:23.9221014+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:17.4924832+00:00",
-  "LastUpdate_Ratings": "2023-12-12T04:03:20.2845858+00:00",
-  "LastUpdate_Achievements": "2023-12-12T04:09:48.3183264+00:00"
+  "LastUpdate_Ratings": "2023-12-12T05:03:49.6296465+00:00",
+  "LastUpdate_Achievements": "2023-12-12T05:10:23.9222534+00:00"
 }

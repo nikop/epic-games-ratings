@@ -5,42 +5,42 @@ Rating: 3.83 (Ranked 1,041)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~412,489 |
-| Handy | 42.00% | ~227,955 |
-| Cold Caller | 40.00% | ~217,100 |
-| A Bit On The Side | 27.00% | ~146,542 |
-| Backdoor | 25.00% | ~135,687 |
-| Rank Amateur | 22.00% | ~119,405 |
-| Three Way | 19.00% | ~103,122 |
-| Deadly Assassin | 16.00% | ~86,840 |
-| Gutshot | 14.00% | ~75,985 |
-| Risk It For A Biscuit | 14.00% | ~75,985 |
-| Showoff | 13.00% | ~70,557 |
+| Pro Creation | 76.00% | ~412,493 |
+| Handy | 42.00% | ~227,957 |
+| Cold Caller | 40.00% | ~217,102 |
+| A Bit On The Side | 27.00% | ~146,544 |
+| Backdoor | 25.00% | ~135,688 |
+| Rank Amateur | 22.00% | ~119,406 |
+| Three Way | 19.00% | ~103,123 |
+| Deadly Assassin | 16.00% | ~86,841 |
+| Gutshot | 14.00% | ~75,986 |
+| Risk It For A Biscuit | 14.00% | ~75,986 |
+| Showoff | 13.00% | ~70,558 |
 | W.H.I.P. | 12.00% | ~65,130 |
 | Bet Bet Bet | 10.00% | ~54,275 |
-| Blindman's Bluff | 9.00% | ~48,847 |
-| Poker Joker | 9.00% | ~48,847 |
+| Blindman's Bluff | 9.00% | ~48,848 |
+| Poker Joker | 9.00% | ~48,848 |
 | Never Give Up | 8.00% | ~43,420 |
 | The Bigger They Are | 8.00% | ~43,420 |
 | Total Knock Out | 8.00% | ~43,420 |
-| Dog Eat Dog | 7.00% | ~37,992 |
-| Quack Quack | 7.00% | ~37,992 |
+| Dog Eat Dog | 7.00% | ~37,993 |
+| Quack Quack | 7.00% | ~37,993 |
 | Give Your Regards To Broadway | 6.00% | ~32,565 |
 | Check Yourself | 4.00% | ~21,710 |
 | Moneymaker | 4.00% | ~21,710 |
-| In The Gang | 3.00% | ~16,282 |
-| On The Button | 3.00% | ~16,282 |
+| In The Gang | 3.00% | ~16,283 |
+| On The Button | 3.00% | ~16,283 |
 | Before You Wreck Yourself | 2.00% | ~10,855 |
 | Holding Your Own | 2.00% | ~10,855 |
 | Keep Your Heads Up | 2.00% | ~10,855 |
-| Bluffing Eh? | 1.00% | ~5,427 |
-| Go For It | 1.00% | ~5,427 |
+| Bluffing Eh? | 1.00% | ~5,428 |
+| Go For It | 1.00% | ~5,428 |
 | Regular Punter | 0.70% | ~3,799 |
-| How I Roll | 0.60% | ~3,256 |
+| How I Roll | 0.60% | ~3,257 |
 | Club Legend | 0.50% | ~2,714 |
-| Bring It On | 0.20% | ~1,085 |
-| Dress To Impress | 0.20% | ~1,085 |
-| Rock & High Roller | 0.20% | ~1,085 |
+| Bring It On | 0.20% | ~1,086 |
+| Dress To Impress | 0.20% | ~1,086 |
+| Rock & High Roller | 0.20% | ~1,086 |
 | Bounty Hunter | 0.10% | ~543 |
 | Choke A Dozen Donkeys | 0.10% | ~543 |
 | Clubman | 0.10% | ~543 |
@@ -51,7 +51,7 @@ Rating: 3.83 (Ranked 1,041)
 | Rounder | 0.10% | ~543 |
 | Top Dog | 0.10% | ~543 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 542,749 (Ranked 33)  
+Progressed: 542,754 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-09 | 542,330 | 2 |
 | 2023-12-10 | 542,553 | 2 |
 | 2023-12-11 | 542,722 | 2 |
-| 2023-12-12 | 542,749 | 2 |
+| 2023-12-12 | 542,754 | 2 |
 ## Awards
 Max (Great for Beginners): 62  (Ranked 417)  
 Sum: 188 (Ranked 412)  

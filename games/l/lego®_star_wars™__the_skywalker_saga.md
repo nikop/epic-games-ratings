@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You needn't worry about your reward'' | 2.00% | ~1,042 |
 | ''I've never seen a real one!'' | 1.00% | ~521 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,075 (Ranked 113)  
+Progressed: 52,075 (Ranked 114)  
 Completed: 251 (0.48%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |

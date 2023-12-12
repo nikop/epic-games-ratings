@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9594,9 +9594,9 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126282,
+  "EOS_Progressed": 126290,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 713,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34604,6 +34604,11 @@
       "Time": "2023-12-12T04:09:03.3056871+00:00",
       "NumProgressed": 126282,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T05:09:37.8850065+00:00",
+      "NumProgressed": 126290,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34741,9 +34746,9 @@
       "ID": "combat_kill_antiquarian",
       "SetID": "64l4lke",
       "Name": "This Belongs in a Museum",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1137
     },
     {
       "ID": "combat_kill_cadavers",
@@ -34773,9 +34778,9 @@
       "ID": "combat_kill_dreaming_general",
       "SetID": "64l4lke",
       "Name": "Creep and Sleep",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 758
     },
     {
       "ID": "combat_kill_fanatics",
@@ -34829,9 +34834,9 @@
       "ID": "combat_kill_leviathan",
       "SetID": "64l4lke",
       "Name": "Catch and Decease",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 1010
     },
     {
       "ID": "combat_kill_librarian",
@@ -34965,9 +34970,9 @@
       "ID": "hero_skill_mastery_five",
       "SetID": "64l4lke",
       "Name": "Autodidact",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 631
     },
     {
       "ID": "hero_story_complete_all",
@@ -35213,9 +35218,9 @@
       "ID": "quest_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Lost and Found",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35246,21 +35251,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126282,
+      "Progressed": 126290,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1151,
+      "Progressed": 1159,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T03:59:20.098061+00:00",
-  "LastChanged_Achievements": "2023-12-12T04:09:03.3056868+00:00",
+  "LastChanged_Achievements": "2023-12-12T05:09:37.8850062+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T03:59:20.0980617+00:00",
-  "LastUpdate_Achievements": "2023-12-12T04:09:03.3058397+00:00"
+  "LastUpdate_Ratings": "2023-12-12T04:59:29.2540538+00:00",
+  "LastUpdate_Achievements": "2023-12-12T05:09:37.8851729+00:00"
 }

@@ -6,27 +6,27 @@ Rating: 4.68 (Ranked 258)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting on the Step | 94.00% | ~5,742 |
-| On the Top Step | 89.00% | ~5,436 |
-| Setting up for Success | 79.00% | ~4,825 |
-| Team Orders | 76.00% | ~4,642 |
-| Engineer | 56.00% | ~3,420 |
+| On the Top Step | 89.00% | ~5,437 |
+| Setting up for Success | 79.00% | ~4,826 |
+| Team Orders | 76.00% | ~4,643 |
+| Engineer | 56.00% | ~3,421 |
 | Familiar Faces | 49.00% | ~2,993 |
 | Sharing the Love | 44.00% | ~2,688 |
-| Going the Extra Mile | 43.00% | ~2,626 |
-| Hitting a Season | 42.00% | ~2,565 |
+| Going the Extra Mile | 43.00% | ~2,627 |
+| Hitting a Season | 42.00% | ~2,566 |
 | A Dozen Pieces | 35.00% | ~2,138 |
 | Challenge Yourself | 34.00% | ~2,077 |
 | Making History | 32.00% | ~1,955 |
-| Network Success | 29.00% | ~1,771 |
+| Network Success | 29.00% | ~1,772 |
 | Writing a new Chapter | 26.00% | ~1,588 |
 | Spring Cleaning | 25.00% | ~1,527 |
 | Reduce | 21.00% | ~1,283 |
 | Ups and Downs | 21.00% | ~1,283 |
 | Crucial Combo | 20.00% | ~1,222 |
-| Reuse | 18.00% | ~1,099 |
-| Proving Them Wrong | 18.00% | ~1,099 |
-| Gathering Dust | 17.00% | ~1,038 |
-| One for the Book | 17.00% | ~1,038 |
+| Reuse | 18.00% | ~1,100 |
+| Proving Them Wrong | 18.00% | ~1,100 |
+| Gathering Dust | 17.00% | ~1,039 |
+| One for the Book | 17.00% | ~1,039 |
 | Oil and Water | 16.00% | ~977 |
 | Hitting a Bullseye | 16.00% | ~977 |
 | Lightning Round the World | 15.00% | ~916 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 258)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,108 (Ranked 187)  
+Progressed: 6,109 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-09 | 6,083 | 0 |
 | 2023-12-10 | 6,105 | 0 |
 | 2023-12-11 | 6,108 | 0 |
+| 2023-12-12 | 6,109 | 0 |
 ## Awards
 Max (Diverse Characters): 39  (Ranked 464)  
 Sum: 190 (Ranked 410)  

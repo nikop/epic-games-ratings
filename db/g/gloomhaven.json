@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2645,9 +2645,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 25909,
+  "EOS_Progressed": 25910,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1220,
+  "EOS_NewPlayers": 1219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12685,6 +12685,11 @@
       "Time": "2023-12-12T04:09:11.912153+00:00",
       "NumProgressed": 25909,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-12T05:09:46.7603767+00:00",
+      "NumProgressed": 25910,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -12697,7 +12702,7 @@
       "Name": "Power Up!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "Achievement_Trophy02",
@@ -12761,7 +12766,7 @@
       "Name": "Caught off guard",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "Achievement_Trophy10",
@@ -12969,7 +12974,7 @@
       "Name": "The Pro from Dover",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "Achievement_Trophy36",
@@ -12977,7 +12982,7 @@
       "Name": "Pretty lights!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "Achievement_Trophy37",
@@ -12985,7 +12990,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6477
+      "UsersEstimate": 6478
     },
     {
       "ID": "Achievement_Trophy38",
@@ -13049,7 +13054,7 @@
       "Name": "Now you see me...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "Achievement_Trophy46",
@@ -13184,7 +13189,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 25909,
+      "Progressed": 25910,
       "Completed": 1
     }
   ],
@@ -13192,8 +13197,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-12T01:47:51.3395701+00:00",
-  "LastChanged_Achievements": "2023-12-12T04:09:11.9121528+00:00",
+  "LastChanged_Achievements": "2023-12-12T05:09:46.7603764+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:42.7229324+00:00",
-  "LastUpdate_Ratings": "2023-12-12T04:00:42.1535949+00:00",
-  "LastUpdate_Achievements": "2023-12-12T04:09:11.912227+00:00"
+  "LastUpdate_Ratings": "2023-12-12T05:00:56.3795422+00:00",
+  "LastUpdate_Achievements": "2023-12-12T05:09:46.7604495+00:00"
 }

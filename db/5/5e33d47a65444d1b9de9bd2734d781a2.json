@@ -4,8 +4,8 @@
   "ProductSlug": "skirmish-8d47f1",
   "Ranking_EOS_Progress": 790,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-19T20:00:00+00:00",
     "PcReleaseDate": "2023-11-19T20:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-10T13:57:09.0888835+00:00",
-  "LastUpdate_Ratings": "2023-12-12T04:01:32.639839+00:00",
-  "LastUpdate_Achievements": "2023-12-12T04:05:04.4466487+00:00"
+  "LastUpdate_Ratings": "2023-12-12T05:01:48.6589678+00:00",
+  "LastUpdate_Achievements": "2023-12-12T05:05:40.101306+00:00"
 }

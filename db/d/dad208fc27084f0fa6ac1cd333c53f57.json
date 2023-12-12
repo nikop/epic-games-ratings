@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5243,
+  "EOS_Progressed": 5244,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -4684,6 +4684,11 @@
       "Time": "2023-12-12T04:08:38.5330082+00:00",
       "NumProgressed": 5243,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-12-12T05:09:11.940587+00:00",
+      "NumProgressed": 5244,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -4696,7 +4701,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -4704,7 +4709,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -4752,7 +4757,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 4194
+      "UsersEstimate": 4195
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -4823,14 +4828,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5243,
+      "Progressed": 5244,
       "Completed": 50
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-12T04:08:38.5330078+00:00",
+  "LastChanged_Achievements": "2023-12-12T05:09:11.9405866+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:54.5364953+00:00",
-  "LastUpdate_Ratings": "2023-12-12T03:59:31.7056614+00:00",
-  "LastUpdate_Achievements": "2023-12-12T04:08:38.5330327+00:00"
+  "LastUpdate_Ratings": "2023-12-12T04:59:42.0573819+00:00",
+  "LastUpdate_Achievements": "2023-12-12T05:09:11.9406181+00:00"
 }
