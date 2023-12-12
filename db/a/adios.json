@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80388,
+  "EOS_Progressed": 80389,
   "EOS_Completed": 873,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 540,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -26373,6 +26373,11 @@
       "Time": "2023-12-12T02:29:54.5711375+00:00",
       "NumProgressed": 80388,
       "NumCompleted": 873
+    },
+    {
+      "Time": "2023-12-12T04:06:48.8753128+00:00",
+      "NumProgressed": 80389,
+      "NumCompleted": 873
     }
   ],
   "TotalAchievements": 25,
@@ -26416,7 +26421,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17685
+      "UsersEstimate": 17686
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -26488,7 +26493,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16881
+      "UsersEstimate": 16882
     },
     {
       "ID": "Meaty",
@@ -26583,7 +26588,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80388,
+      "Progressed": 80389,
       "Completed": 873
     }
   ],
@@ -26591,8 +26596,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-12T03:07:10.2347721+00:00",
+  "LastChanged_Achievements": "2023-12-12T04:06:48.8753126+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:29.3194806+00:00",
-  "LastUpdate_Ratings": "2023-12-12T03:00:09.581979+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:07:10.2349086+00:00"
+  "LastUpdate_Ratings": "2023-12-12T04:00:07.6587552+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:06:48.8754303+00:00"
 }

@@ -7,22 +7,23 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 2.00% | ~23 |
-| This guy... again? | 1.00% | ~11 |
+| This guy... again? | 1.00% | ~12 |
 | This Belongs in a Museum | 0.80% | ~1,010 |
+| Not Today! | 0.70% | ~884 |
 | Catch and Decease | 0.70% | ~884 |
-| Not Today! | 0.60% | ~758 |
+| Escape from the Black Hole | 0.70% | ~884 |
 | Meat and Greet | 0.60% | ~758 |
 | Overdue Notice | 0.60% | ~758 |
-| Escape from the Black Hole | 0.60% | ~758 |
 | Creep and Sleep | 0.50% | ~631 |
+| Bloody Graduation | 0.50% | ~6 |
 | Autodidact | 0.40% | ~505 |
-| Bloody Graduation | 0.40% | ~5 |
 | Lost and Found | 0.40% | ~5 |
+| Don't Make Me Turn This Coach Around | 0.30% | ~379 |
 | Serenity Now! | 0.30% | ~379 |
 | Rush Hour | 0.30% | ~379 |
 | To Grandmother's House | 0.30% | ~379 |
 | A Place to Lay Your Head | 0.30% | ~379 |
-| Don't Make Me Turn This Coach Around | 0.20% | ~253 |
+| Nope | 0.30% | ~379 |
 | It Rings a Bell | 0.20% | ~253 |
 | Resurrection | 0.20% | ~253 |
 | Unleash Hell | 0.20% | ~253 |
@@ -37,14 +38,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Deprogramming | 0.20% | ~253 |
 | Ichthyophobic | 0.20% | ~253 |
 | Now Stay Dead | 0.20% | ~253 |
+| No More Mouths to Feed | 0.20% | ~253 |
 | Reverse Banditry | 0.20% | ~253 |
+| It Happens | 0.20% | ~253 |
+| Spelunker | 0.20% | ~253 |
 | Merry Time | 0.20% | ~253 |
 | Harvest Festival | 0.20% | ~253 |
 | Ramble On | 0.20% | ~253 |
 | A Clear Conscience | 0.20% | ~253 |
 | Whale | 0.20% | ~253 |
 | FNG | 0.20% | ~253 |
-| Nope | 0.20% | ~253 |
 | Unshackled | 0.20% | ~253 |
 | Road Trip | 0.20% | ~253 |
 | A Life Well Lived | 0.10% | ~126 |
@@ -52,14 +55,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Looks Familiar | 0.10% | ~126 |
 | Hope Rekindled | 0.10% | ~126 |
 | Loop Year | 0.10% | ~126 |
-| No More Mouths to Feed | 0.10% | ~126 |
 | Clearing the Ledger | 0.10% | ~126 |
 | Circle of Life | 0.10% | ~126 |
 | Bacon Bits | 0.10% | ~126 |
 | No Gravestone Left Unturned | 0.10% | ~126 |
-| It Happens | 0.10% | ~126 |
 | Hat Trick | 0.10% | ~126 |
-| Spelunker | 0.10% | ~126 |
 | 20,000 Leagues Above the Sea | 0.10% | ~126 |
 | Tears in the Rain | 0.10% | ~126 |
 | Shrine of Reflection | 0.10% | ~126 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,273 (Ranked 84)  
+Progressed: 126,282 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,14 +312,14 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
-| 2023-12-12 | 126,273 | 2 |
+| 2023-12-12 | 126,282 | 2 |
 ## Awards
-Max (Character Customization): 7,586  (Ranked 52)  
-Sum: 20,101 (Ranked 59)  
+Max (Character Customization): 7,622  (Ranked 52)  
+Sum: 20,137 (Ranked 59)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,586 |
+| This game has Inclusive Character Customization | 7,622 |
 | This game has Diverse Characters | 1,656 |
 | This game has Challenging Combat | 1,553 |
 | This game is Highly Recommended | 1,481 |
@@ -652,4 +652,4 @@ Diff (max vs sum): -7
 | 2023-12-09 | 4.68 | - | 7,572 | 20,019 |
 | 2023-12-10 | 4.68 | - | 7,578 | 20,042 |
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
-| 2023-12-12 | 4.68 | - | 7,586 | 20,101 |
+| 2023-12-12 | 4.68 | - | 7,622 | 20,137 |

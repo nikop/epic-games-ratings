@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 37.00% | ~157 |
+| Adept | 38.00% | ~161 |
 | Double Kill | 28.00% | ~118 |
 | Critical Hit | 17.00% | ~72 |
 | Veteran | 15.00% | ~63 |
@@ -95,9 +95,9 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-11 | 421 | 0 |
 | 2023-12-12 | 423 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 27  (Ranked 515)  
+Max (Quickly Understood Controls): 27  (Ranked 516)  
 Sum: 194 (Ranked 408)  
-Diff (max vs sum): 107  
+Diff (max vs sum): 108  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

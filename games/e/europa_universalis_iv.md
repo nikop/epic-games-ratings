@@ -268,6 +268,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trustworthy | 0.10% | ~473 |
 | Turn the Table | 0.10% | ~473 |
 | Turning the Tide | 0.10% | ~473 |
+| Turtles all the way down | 0.10% | ~473 |
 | Vasa or Wettin? | 0.10% | ~473 |
 | Victorian Three | 0.10% | ~473 |
 | Viva la Revolución! | 0.10% | ~473 |
@@ -360,7 +361,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | To the Bone | 0.00% | ~0 |
 | True Heir of Timur | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
-| Turtles all the way down | 0.00% | ~0 |
 | Ultimate Military | 0.00% | ~0 |
 | Venetian Sea | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,277 (Ranked 41)  
+Progressed: 473,286 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -606,7 +606,7 @@ Completed: 1 (0.00%) (Ranked 371)
 | 2023-12-09 | 472,114 | 1 |
 | 2023-12-10 | 472,739 | 1 |
 | 2023-12-11 | 473,225 | 1 |
-| 2023-12-12 | 473,277 | 1 |
+| 2023-12-12 | 473,286 | 1 |
 ## Awards
 Max (Educational): 7,340  (Ranked 54)  
 Sum: 60,472 (Ranked 24)  

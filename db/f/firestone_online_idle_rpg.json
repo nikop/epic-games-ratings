@@ -613,9 +613,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3280,
+  "EOS_Progressed": 3281,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9528,6 +9528,11 @@
       "Time": "2023-12-12T01:54:38.4304546+00:00",
       "NumProgressed": 3280,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T04:07:27.9166675+00:00",
+      "NumProgressed": 3281,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9651,7 +9656,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "dragonslayer",
@@ -9769,9 +9774,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 787
+      "UsersEstimate": 755
     },
     {
       "ID": "herewegoagain",
@@ -9835,7 +9840,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "lockandload",
@@ -9931,7 +9936,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "prestigiousx10",
@@ -10099,7 +10104,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3050
+      "UsersEstimate": 3051
     },
     {
       "ID": "warmachinesarmy",
@@ -10131,14 +10136,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2558
+      "UsersEstimate": 2559
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3280,
+      "Progressed": 3281,
       "Completed": 2
     }
   ],
@@ -10146,8 +10151,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-11T19:56:52.1316806+00:00",
-  "LastChanged_Achievements": "2023-12-12T03:08:18.7373754+00:00",
+  "LastChanged_Achievements": "2023-12-12T04:07:27.9166671+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:57:27.465+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:08:18.7374575+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:57:25.9740619+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:07:27.9167525+00:00"
 }

@@ -1437,9 +1437,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6298,
+  "EOS_Progressed": 6299,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14197,6 +14197,11 @@
       "Time": "2023-12-11T20:04:55.9327043+00:00",
       "NumProgressed": 6298,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T04:06:10.0404078+00:00",
+      "NumProgressed": 6299,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14304,7 +14309,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2834
+      "UsersEstimate": 2835
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -14464,7 +14469,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2897
+      "UsersEstimate": 2898
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14480,7 +14485,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2331
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -14527,15 +14532,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6298,
+      "Progressed": 6299,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-08T21:58:11.7577271+00:00",
-  "LastChanged_Achievements": "2023-12-12T03:06:30.3992339+00:00",
+  "LastChanged_Achievements": "2023-12-12T04:06:10.0404072+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.3070216+00:00",
-  "LastUpdate_Ratings": "2023-12-12T03:00:46.6268912+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:06:30.3992971+00:00"
+  "LastUpdate_Ratings": "2023-12-12T04:00:43.0694439+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:06:10.0404717+00:00"
 }

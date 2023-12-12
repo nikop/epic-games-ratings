@@ -2,7 +2,7 @@
   "ID": "1d712926020a45dc8fe28cb4c963c9ce",
   "Name": "NINJA KATO 1",
   "ProductSlug": "ninja-kato-1-47e118",
-  "Ranking_EOS_Progress": 724,
+  "Ranking_EOS_Progress": 725,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 125,
@@ -112,8 +112,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-03T01:47:31.2338754+00:00",
-  "LastChanged_Achievements": "2023-12-12T03:05:04.5419875+00:00",
+  "LastChanged_Achievements": "2023-12-12T04:04:45.157659+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:08.0414888+00:00",
-  "LastUpdate_Ratings": "2023-12-12T03:01:39.3258825+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:05:04.541993+00:00"
+  "LastUpdate_Ratings": "2023-12-12T04:01:33.7954961+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:04:45.1576713+00:00"
 }

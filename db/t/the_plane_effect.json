@@ -2,7 +2,7 @@
   "ID": "933b9e4b242147f5ab3048f031ea68c0",
   "Name": "The Plane Effect",
   "ProductSlug": "the-plane-effect",
-  "Ranking_EOS_Progress": 789,
+  "Ranking_EOS_Progress": 790,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 125,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:03.6255481+00:00",
   "LastChanged": "2023-03-31T05:58:03.6255482+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:42.5346894+00:00",
-  "LastUpdate_Ratings": "2023-12-12T03:00:45.0365297+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:04:33.7474396+00:00"
+  "LastUpdate_Ratings": "2023-12-12T04:00:41.4450697+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:04:14.6789057+00:00"
 }

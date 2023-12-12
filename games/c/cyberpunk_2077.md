@@ -6,17 +6,17 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,969 |
-| Gun Fu | 7.00% | ~68,232 |
+| V for Vendetta | 12.00% | ~116,971 |
+| Gun Fu | 7.00% | ~68,233 |
 | The Fool | 6.00% | ~58,485 |
-| Right Back At Ya | 5.00% | ~48,737 |
-| The Lovers | 5.00% | ~48,737 |
+| Right Back At Ya | 5.00% | ~48,738 |
+| The Lovers | 5.00% | ~48,738 |
 | Full Body Conversion | 4.00% | ~38,990 |
 | Stanislavski's Method | 4.00% | ~38,990 |
 | True Soldier | 4.00% | ~38,990 |
-| Christmas Tree Attack | 3.00% | ~29,242 |
-| The Hermit | 3.00% | ~29,242 |
-| The Wheel of Fortune | 3.00% | ~29,242 |
+| Christmas Tree Attack | 3.00% | ~29,243 |
+| The Hermit | 3.00% | ~29,243 |
+| The Wheel of Fortune | 3.00% | ~29,243 |
 | Relic Ruler | 3.00% | ~3,101 |
 | All the President's Men | 3.00% | ~3,101 |
 | Arachnophobia | 3.00% | ~3,101 |
@@ -28,10 +28,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 2.00% | ~19,495 |
 | True Warrior | 2.00% | ~19,495 |
 | Legend of The Afterlife | 2.00% | ~19,495 |
-| To Protect and Serve | 1.00% | ~9,747 |
-| I Am The Law | 1.00% | ~9,747 |
-| Two Heads, One Bullet | 1.00% | ~9,747 |
-| Judy vs Night City | 1.00% | ~9,747 |
+| To Protect and Serve | 1.00% | ~9,748 |
+| I Am The Law | 1.00% | ~9,748 |
+| Two Heads, One Bullet | 1.00% | ~9,748 |
+| Judy vs Night City | 1.00% | ~9,748 |
 | Spin Doctor | 1.00% | ~1,034 |
 | Easy Come, Easy Go | 1.00% | ~1,034 |
 | The Wandering Fool | 0.90% | ~8,773 |
@@ -40,23 +40,23 @@ Number of Ratings: 32,700  (23.09.2022)
 | Dirty Deeds | 0.80% | ~827 |
 | To Bad Decisions! | 0.70% | ~6,823 |
 | Ten out of Ten | 0.70% | ~6,823 |
-| The Star | 0.60% | ~5,848 |
+| The Star | 0.60% | ~5,849 |
 | Autojock | 0.50% | ~4,874 |
 | Breathtaking | 0.50% | ~4,874 |
+| The APB is Not Enough | 0.50% | ~517 |
 | Judgement Day | 0.50% | ~517 |
 | King of Swords | 0.50% | ~517 |
 | The Tower | 0.50% | ~517 |
 | Must Be Rats | 0.40% | ~3,899 |
 | Temperance | 0.40% | ~3,899 |
-| The APB is Not Enough | 0.40% | ~413 |
-| King of Pentacles | 0.40% | ~413 |
-| City Lights | 0.20% | ~1,949 |
-| Little Tokyo | 0.20% | ~1,949 |
-| The Wasteland | 0.20% | ~1,949 |
-| The Devil | 0.20% | ~1,949 |
-| Greetings from Pacifica! | 0.20% | ~1,949 |
-| The Jungle | 0.20% | ~1,949 |
-| It's Elementary | 0.20% | ~1,949 |
+| King of Pentacles | 0.40% | ~414 |
+| City Lights | 0.20% | ~1,950 |
+| Little Tokyo | 0.20% | ~1,950 |
+| The Wasteland | 0.20% | ~1,950 |
+| The Devil | 0.20% | ~1,950 |
+| Greetings from Pacifica! | 0.20% | ~1,950 |
+| The Jungle | 0.20% | ~1,950 |
+| It's Elementary | 0.20% | ~1,950 |
 | King of Cups | 0.20% | ~207 |
 | Frequent Flyer | 0.10% | ~975 |
 | Gunslinger | 0.10% | ~975 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974,744 (Ranked 15)  
+Progressed: 974,757 (Ranked 15)  
 Completed: 2,886 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 2,886 (0.30%) (Ranked 240)
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
-| 2023-12-12 | 974,744 | 2,886 |
+| 2023-12-12 | 974,757 | 2,886 |
 ## Awards
 Max (Character Customization): 121,434  (Ranked 9)  
 Sum: 411,438 (Ranked 9)  

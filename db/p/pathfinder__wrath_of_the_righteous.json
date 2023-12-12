@@ -4553,9 +4553,9 @@
       "Count": 400
     }
   ],
-  "EOS_Progressed": 12286,
+  "EOS_Progressed": 12287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16703,6 +16703,11 @@
       "Time": "2023-12-11T18:09:19.4106871+00:00",
       "NumProgressed": 12286,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T04:10:04.7050399+00:00",
+      "NumProgressed": 12287,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16722,7 +16727,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -16768,9 +16773,9 @@
       "ID": "08_PathOfAngel",
       "SetID": "989of5o",
       "Name": "Path of the Angel",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 860
     },
     {
       "ID": "09_PathOfDemon",
@@ -17082,7 +17087,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "49_Flame",
@@ -17641,21 +17646,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11068,
+      "Progressed": 11069,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12286,
+      "Progressed": 12287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-11T22:59:59.3228172+00:00",
-  "LastChanged_Achievements": "2023-12-12T03:10:29.7610707+00:00",
+  "LastChanged_Achievements": "2023-12-12T04:10:04.7050394+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-12T03:01:48.0982057+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:10:29.7612493+00:00"
+  "LastUpdate_Ratings": "2023-12-12T04:01:42.5899775+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:10:04.7051907+00:00"
 }

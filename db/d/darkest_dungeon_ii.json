@@ -9508,18 +9508,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 20101,
       "NumberOfAwardsMax": 7586
+    },
+    {
+      "Time": "2023-12-12T03:59:20.0980612+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20137,
+      "NumberOfAwardsMax": 7622
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20101,
-  "NumberOfAwardsMax": 7586,
+  "NumberOfAwards": 20137,
+  "NumberOfAwardsMax": 7622,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7586
+      "Count": 7622
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9588,9 +9594,9 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126273,
+  "EOS_Progressed": 126282,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 708,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34593,6 +34599,11 @@
       "Time": "2023-12-12T03:09:26.8312227+00:00",
       "NumProgressed": 126273,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T04:09:03.3056871+00:00",
+      "NumProgressed": 126282,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34602,9 +34613,9 @@
       "ID": "affinity_meltdown_first_time",
       "SetID": "64l4lke",
       "Name": "Don\u0027t Make Me Turn This Coach Around",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -34754,9 +34765,9 @@
       "ID": "combat_kill_death",
       "SetID": "64l4lke",
       "Name": "Not Today!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 884
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -34794,9 +34805,9 @@
       "ID": "combat_kill_gentry",
       "SetID": "64l4lke",
       "Name": "No More Mouths to Feed",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 253
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -34842,9 +34853,9 @@
       "ID": "combat_kill_shambler",
       "SetID": "64l4lke",
       "Name": "Escape from the Black Hole",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 884
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -34874,9 +34885,9 @@
       "ID": "combat_party_wipe_any_run_boss",
       "SetID": "64l4lke",
       "Name": "It Happens",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 253
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -34890,9 +34901,9 @@
       "ID": "driving_biome_clear_cave",
       "SetID": "64l4lke",
       "Name": "Spelunker",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 253
     },
     {
       "ID": "driving_biome_clear_city",
@@ -35050,9 +35061,9 @@
       "ID": "run_end_abandon",
       "SetID": "64l4lke",
       "Name": "Nope",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "run_victory_act01",
@@ -35148,7 +35159,7 @@
       "Name": "This guy... again?",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35194,9 +35205,9 @@
       "ID": "hero_story_complete_duelist",
       "SetID": "d3bcpc8",
       "Name": "Bloody Graduation",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "quest_complete_crusader",
@@ -35235,21 +35246,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126273,
+      "Progressed": 126282,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1142,
+      "Progressed": 1151,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-12T02:22:43.6817485+00:00",
-  "LastChanged_Achievements": "2023-12-12T03:09:26.8312225+00:00",
+  "LastChanged": "2023-12-12T03:59:20.098061+00:00",
+  "LastChanged_Achievements": "2023-12-12T04:09:03.3056868+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:59:22.0680495+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:09:26.831374+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:59:20.0980617+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:09:03.3058397+00:00"
 }

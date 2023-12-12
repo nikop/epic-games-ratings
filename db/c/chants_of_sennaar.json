@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -21,10 +21,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 953,
-  "EOS_Completed": 54,
+  "EOS_Completed": 55,
   "EOS_NewPlayers": 80,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.67,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 5.77,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3815,6 +3815,11 @@
       "Time": "2023-12-11T19:03:46.8579007+00:00",
       "NumProgressed": 953,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-12T04:03:37.8804839+00:00",
+      "NumProgressed": 953,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 25,
@@ -3880,9 +3885,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 143
     },
     {
       "ID": "META_RESULT_1-4",
@@ -4026,13 +4031,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 953,
-      "Completed": 54
+      "Completed": 55
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-12T03:03:55.7905469+00:00",
+  "LastChanged_Achievements": "2023-12-12T04:03:37.8804836+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:58:13.1411599+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:03:55.7905918+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:58:11.6186821+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:03:37.8805276+00:00"
 }

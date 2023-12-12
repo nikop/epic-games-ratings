@@ -2,7 +2,7 @@
   "ID": "d5e454695400407ea77e0fc351f09d10",
   "Name": "Senile Wizards",
   "ProductSlug": "senile-wizards-98b114",
-  "Ranking_EOS_Progress": 789,
+  "Ranking_EOS_Progress": 790,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 125,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-07T15:57:16.5074959+00:00",
   "LastUpdate_AppInfo": "2023-12-06T07:57:05.6609782+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:57:49.5275212+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:06:30.9764754+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:57:48.1512534+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:06:10.5384768+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5669,10 +5669,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 4069,
       "NumberOfAwardsMax": 491
+    },
+    {
+      "Time": "2023-12-12T03:58:47.4056566+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4073,
+      "NumberOfAwardsMax": 491
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4069,
+  "NumberOfAwards": 4073,
   "NumberOfAwardsMax": 491,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5692,13 +5698,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 398
+      "Count": 399
     },
     {
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 377
+      "Count": 378
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5710,7 +5716,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 436
+      "Count": 438
     },
     {
       "Text": "This game is Educational",
@@ -5743,9 +5749,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 253896,
+  "EOS_Progressed": 253897,
   "EOS_Completed": 901,
-  "EOS_NewPlayers": 833,
+  "EOS_NewPlayers": 832,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -31413,6 +31419,11 @@
       "Time": "2023-12-12T03:10:41.8375737+00:00",
       "NumProgressed": 253896,
       "NumCompleted": 901
+    },
+    {
+      "Time": "2023-12-12T04:10:16.4789008+00:00",
+      "NumProgressed": 253897,
+      "NumCompleted": 901
     }
   ],
   "TotalAchievements": 39,
@@ -31488,7 +31499,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 231045
+      "UsersEstimate": 231046
     },
     {
       "ID": "AchievementClownID",
@@ -31568,7 +31579,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 38084
+      "UsersEstimate": 38085
     },
     {
       "ID": "AchievementInstinctID",
@@ -31584,7 +31595,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 114253
+      "UsersEstimate": 114254
     },
     {
       "ID": "AchievementIntroID",
@@ -31600,7 +31611,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 35545
+      "UsersEstimate": 35546
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -31624,7 +31635,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 96480
+      "UsersEstimate": 96481
     },
     {
       "ID": "AchievementRampID",
@@ -31656,7 +31667,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 187883
+      "UsersEstimate": 187884
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -31688,7 +31699,7 @@
       "Name": "401(K.O.)",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 38084
+      "UsersEstimate": 38085
     },
     {
       "ID": "AchievementThroneID",
@@ -31704,7 +31715,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 119331
+      "UsersEstimate": 119332
     },
     {
       "ID": "AchievementTrinketID",
@@ -31720,7 +31731,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 165032
+      "UsersEstimate": 165033
     },
     {
       "ID": "AchievementWhaleID",
@@ -31735,16 +31746,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 253896,
+      "Progressed": 253897,
       "Completed": 901
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-12-12T01:46:32.2226254+00:00",
-  "LastChanged_Achievements": "2023-12-12T03:10:41.8375735+00:00",
+  "LastChanged": "2023-12-12T03:58:47.4056564+00:00",
+  "LastChanged_Achievements": "2023-12-12T04:10:16.4789005+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:59.5237496+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:58:49.5409788+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:10:41.8377177+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:58:47.4056569+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:10:16.4790113+00:00"
 }

@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252085,
+  "EOS_Progressed": 252087,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21092,6 +21092,11 @@
       "Time": "2023-12-12T02:33:27.3252352+00:00",
       "NumProgressed": 252085,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-12T04:09:57.2646824+00:00",
+      "NumProgressed": 252087,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21159,7 +21164,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42854
+      "UsersEstimate": 42855
     },
     {
       "ID": "cantBeKeptDown",
@@ -21199,7 +21204,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45375
+      "UsersEstimate": 45376
     },
     {
       "ID": "curator",
@@ -21279,7 +21284,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133605
+      "UsersEstimate": 133606
     },
     {
       "ID": "indegestible",
@@ -21303,7 +21308,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65542
+      "UsersEstimate": 65543
     },
     {
       "ID": "justABit",
@@ -21343,7 +21348,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126042
+      "UsersEstimate": 126044
     },
     {
       "ID": "notScared",
@@ -21470,7 +21475,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252085,
+      "Progressed": 252087,
       "Completed": 6
     }
   ],
@@ -21478,8 +21483,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-12T03:10:22.1609568+00:00",
+  "LastChanged_Achievements": "2023-12-12T04:09:57.2646822+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.3008765+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:59:01.0959554+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:10:22.1610535+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:58:59.2349676+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:09:57.2647864+00:00"
 }

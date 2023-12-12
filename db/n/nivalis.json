@@ -2,7 +2,7 @@
   "ID": "ce644cd84f3a4aa688835a0cb79d59ad",
   "Name": "Nivalis",
   "ProductSlug": "nivalis",
-  "Ranking_EOS_Progress": 789,
+  "Ranking_EOS_Progress": 790,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 125,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-09T23:58:53.9496085+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:58:41.0852234+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:07:35.397528+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:58:38.4267162+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:07:14.8897728+00:00"
 }

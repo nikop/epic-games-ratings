@@ -3,9 +3,9 @@
   "Name": "Karos",
   "ProductSlug": "karos-09de0a",
   "Ranking_Rating": 353,
-  "Ranking_Popularity": 522,
-  "Ranking_PopularitySum": 530,
-  "Ranking_EOS_Progress": 789,
+  "Ranking_Popularity": 508,
+  "Ranking_PopularitySum": 524,
+  "Ranking_EOS_Progress": 790,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 125,
@@ -131,18 +131,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-12-12T04:03:07.5247429+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 28,
+  "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 26
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -157,8 +163,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-16T17:57:12.71751+00:00",
   "FirstSeenRating": "2023-11-30T13:08:42.1369125+00:00",
-  "LastChanged": "2023-12-11T01:51:42.9885881+00:00",
+  "LastChanged": "2023-12-12T04:03:07.5247427+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.5144766+00:00",
-  "LastUpdate_Ratings": "2023-12-12T03:03:25.542255+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:03:52.6860263+00:00"
+  "LastUpdate_Ratings": "2023-12-12T04:03:07.5247432+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:03:35.0515045+00:00"
 }

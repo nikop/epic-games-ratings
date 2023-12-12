@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16978,
+  "EOS_Progressed": 16979,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15903,6 +15903,11 @@
       "Time": "2023-12-12T03:05:51.7726026+00:00",
       "NumProgressed": 16978,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-12T04:05:31.9175186+00:00",
+      "NumProgressed": 16979,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 41,
@@ -15978,7 +15983,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "tpote_achievement_18",
@@ -16178,7 +16183,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6791
+      "UsersEstimate": 6792
     },
     {
       "ID": "tpote_achievement_40",
@@ -16218,7 +16223,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "tpote_achievement_8",
@@ -16226,7 +16231,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3565
+      "UsersEstimate": 3566
     },
     {
       "ID": "tpote_achievement_9",
@@ -16241,15 +16246,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16978,
+      "Progressed": 16979,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-12T03:05:51.7726023+00:00",
+  "LastChanged_Achievements": "2023-12-12T04:05:31.9175184+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.5508408+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:59:52.5958061+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:05:51.7727123+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:59:50.7897051+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:05:31.9176039+00:00"
 }

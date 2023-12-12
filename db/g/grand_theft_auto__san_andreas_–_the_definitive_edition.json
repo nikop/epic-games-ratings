@@ -3,7 +3,7 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 497,
-  "Ranking_Popularity": 228,
+  "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 224,
@@ -1655,18 +1655,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 714,
       "NumberOfAwardsMax": 435
+    },
+    {
+      "Time": "2023-12-12T03:57:54.1547286+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 718,
+      "NumberOfAwardsMax": 439
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 714,
-  "NumberOfAwardsMax": 435,
+  "NumberOfAwards": 718,
+  "NumberOfAwardsMax": 439,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 435
+      "Count": 439
     },
     {
       "Text": "This game is Relaxing",
@@ -1723,7 +1729,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 13944,
+  "EOS_Progressed": 13945,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
@@ -15818,6 +15824,11 @@
       "Time": "2023-12-12T01:57:48.4034062+00:00",
       "NumProgressed": 13944,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-12T04:09:55.5131113+00:00",
+      "NumProgressed": 13945,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 35,
@@ -15829,7 +15840,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11434
+      "UsersEstimate": 11435
     },
     {
       "ID": "ACH02",
@@ -15925,7 +15936,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "ACH14",
@@ -15949,7 +15960,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2370
+      "UsersEstimate": 2371
     },
     {
       "ID": "ACH17",
@@ -16108,16 +16119,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13944,
+      "Progressed": 13945,
       "Completed": 57
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-12T02:57:55.6302893+00:00",
-  "LastChanged_Achievements": "2023-12-12T03:10:20.3478676+00:00",
+  "LastChanged": "2023-12-12T03:57:54.1547284+00:00",
+  "LastChanged_Achievements": "2023-12-12T04:09:55.513111+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:47.2955256+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:57:55.6302897+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:10:20.3479657+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:57:54.1547289+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:09:55.5132032+00:00"
 }

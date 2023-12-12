@@ -3,8 +3,8 @@
 [View Rawdata](../../db/s/star_trek__resurgence.json)  
 Rating: 4.37 (Ranked 780)  
 ## Awards
-Max (Impact the Story): 23  (Ranked 534)  
-Sum: 23 (Ranked 538)  
+Max (Impact the Story): 23  (Ranked 535)  
+Sum: 23 (Ranked 539)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |

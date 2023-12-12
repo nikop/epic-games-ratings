@@ -495,7 +495,7 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 254432,
+  "EOS_Progressed": 254435,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 0,
@@ -26840,6 +26840,11 @@
       "Time": "2023-12-12T03:04:34.3067693+00:00",
       "NumProgressed": 254432,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-12T04:04:15.3579818+00:00",
+      "NumProgressed": 254435,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -26915,7 +26920,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33076
+      "UsersEstimate": 33077
     },
     {
       "ID": "ACH_HATTRICK",
@@ -26995,7 +27000,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73785
+      "UsersEstimate": 73786
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -27067,7 +27072,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63608
+      "UsersEstimate": 63609
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -27171,7 +27176,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63608
+      "UsersEstimate": 63609
     },
     {
       "ID": "ACH_SOREAD",
@@ -27266,7 +27271,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 254432,
+      "Progressed": 254435,
       "Completed": 7
     }
   ],
@@ -27274,8 +27279,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-12T03:04:34.3067691+00:00",
+  "LastChanged_Achievements": "2023-12-12T04:04:15.3579813+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:18.8009639+00:00",
-  "LastUpdate_Ratings": "2023-12-12T03:03:10.6302887+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:04:34.3069298+00:00"
+  "LastUpdate_Ratings": "2023-12-12T04:02:52.933104+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:04:15.3581037+00:00"
 }

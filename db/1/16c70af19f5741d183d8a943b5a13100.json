@@ -2,7 +2,7 @@
   "ID": "16c70af19f5741d183d8a943b5a13100",
   "Name": "Tornado",
   "ProductSlug": "tornado-814fc7",
-  "Ranking_EOS_Progress": 789,
+  "Ranking_EOS_Progress": 790,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 125,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-09T04:57:13.9705977+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:57:39.3571257+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:05:45.0850291+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:57:38.3824267+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:05:25.16817+00:00"
 }

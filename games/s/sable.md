@@ -6,64 +6,64 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~35,240 |
-| Just The Two of Us | 33.00% | ~34,203 |
-| Up On High | 25.00% | ~25,912 |
-| Under The Hood | 25.00% | ~25,912 |
-| Got Your Nose | 24.00% | ~24,875 |
-| The Gift of Gab | 24.00% | ~24,875 |
-| Wrapping Up | 22.00% | ~22,802 |
-| More Than A Box Of Sand | 18.00% | ~18,656 |
-| The Dunboyne | 17.00% | ~17,620 |
-| Badge Hobbyist | 17.00% | ~17,620 |
-| Chum Novice | 16.00% | ~16,583 |
-| Silver-Tongued Sable | 16.00% | ~16,583 |
-| Sticky Paws | 16.00% | ~16,583 |
-| Bubble Up | 16.00% | ~16,583 |
-| Thread The Needle | 15.00% | ~15,547 |
-| Power to the People | 14.00% | ~14,510 |
-| Nesting Giant | 14.00% | ~14,510 |
-| Take That! | 13.00% | ~13,474 |
-| Treasure Tracker | 13.00% | ~13,474 |
-| Big Spender | 13.00% | ~13,474 |
+| Simoon | 34.00% | ~35,242 |
+| Just The Two of Us | 33.00% | ~34,206 |
+| Up On High | 25.00% | ~25,914 |
+| Under The Hood | 25.00% | ~25,914 |
+| Got Your Nose | 24.00% | ~24,877 |
+| The Gift of Gab | 24.00% | ~24,877 |
+| Wrapping Up | 22.00% | ~22,804 |
+| More Than A Box Of Sand | 18.00% | ~18,658 |
+| The Dunboyne | 17.00% | ~17,621 |
+| Badge Hobbyist | 17.00% | ~17,621 |
+| Chum Novice | 16.00% | ~16,585 |
+| Silver-Tongued Sable | 16.00% | ~16,585 |
+| Sticky Paws | 16.00% | ~16,585 |
+| Bubble Up | 16.00% | ~16,585 |
+| Thread The Needle | 15.00% | ~15,548 |
+| Power to the People | 14.00% | ~14,512 |
+| Nesting Giant | 14.00% | ~14,512 |
+| Take That! | 13.00% | ~13,475 |
+| Treasure Tracker | 13.00% | ~13,475 |
+| Big Spender | 13.00% | ~13,475 |
 | Badge Collector | 12.00% | ~12,438 |
 | Quite The Catch | 12.00% | ~12,438 |
-| Rowleys Way | 11.00% | ~11,401 |
+| Rowleys Way | 11.00% | ~11,402 |
 | The Machinist Mask | 10.00% | ~10,365 |
 | The Cartographer Mask | 10.00% | ~10,365 |
 | Balfron Connection | 10.00% | ~10,365 |
 | Ceiling Of Stars | 10.00% | ~10,365 |
 | Playing Dress Up | 10.00% | ~10,365 |
-| Many Different Faces | 9.00% | ~9,328 |
-| Trellick's Pillar | 9.00% | ~9,328 |
-| Centre Of Brunswick | 9.00% | ~9,328 |
-| Bike Collector | 9.00% | ~9,328 |
-| Dune Rider | 9.00% | ~9,328 |
-| Not That Kind Of Gliding | 9.00% | ~9,328 |
+| Many Different Faces | 9.00% | ~9,329 |
+| Trellick's Pillar | 9.00% | ~9,329 |
+| Centre Of Brunswick | 9.00% | ~9,329 |
+| Bike Collector | 9.00% | ~9,329 |
+| Not That Kind Of Gliding | 9.00% | ~9,329 |
 | The Scrapper Mask | 8.00% | ~8,292 |
 | Shadow Of Neave | 8.00% | ~8,292 |
 | Fragile Goods | 8.00% | ~8,292 |
 | Glider on the Storm | 8.00% | ~8,292 |
 | Squeeze One Out | 8.00% | ~8,292 |
-| Amateur Historian | 7.00% | ~7,255 |
-| The Beetle Mask | 7.00% | ~7,255 |
-| The Guard Mask | 7.00% | ~7,255 |
-| Smoked Out | 7.00% | ~7,255 |
-| A Hard Place | 7.00% | ~7,255 |
+| Dune Rider | 8.00% | ~8,292 |
+| Amateur Historian | 7.00% | ~7,256 |
+| The Beetle Mask | 7.00% | ~7,256 |
+| The Guard Mask | 7.00% | ~7,256 |
+| Smoked Out | 7.00% | ~7,256 |
+| A Hard Place | 7.00% | ~7,256 |
 | The Climber Mask | 6.00% | ~6,219 |
 | The Merchant Mask | 6.00% | ~6,219 |
 | Honorary Chum | 6.00% | ~6,219 |
 | Bikes Don't Fly | 6.00% | ~6,219 |
-| The Gliding | 5.00% | ~5,182 |
-| The Entertainer Mask | 5.00% | ~5,182 |
+| The Gliding | 5.00% | ~5,183 |
+| The Entertainer Mask | 5.00% | ~5,183 |
 | The Quick and the Curious | 4.00% | ~4,146 |
 | Bike Aficionado | 4.00% | ~4,146 |
-| Chum Expert | 3.00% | ~3,109 |
-| Gastric Bypass | 3.00% | ~3,109 |
-| The Angler Mask | 3.00% | ~3,109 |
+| Chum Expert | 3.00% | ~3,110 |
+| Gastric Bypass | 3.00% | ~3,110 |
+| The Angler Mask | 3.00% | ~3,110 |
 | Vivacious Vivarium | 2.00% | ~2,073 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103,646 (Ranked 88)  
+Progressed: 103,654 (Ranked 88)  
 Completed: 1,050 (1.01%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,11 +299,11 @@ Completed: 1,050 (1.01%) (Ranked 170)
 | 2023-12-09 | 103,267 | 1,044 |
 | 2023-12-10 | 103,474 | 1,049 |
 | 2023-12-11 | 103,630 | 1,050 |
-| 2023-12-12 | 103,646 | 1,050 |
+| 2023-12-12 | 103,654 | 1,050 |
 ## Awards
-Max (Extremely Fun): 27  (Ranked 515)  
+Max (Extremely Fun): 27  (Ranked 516)  
 Sum: 95 (Ranked 457)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 27 |

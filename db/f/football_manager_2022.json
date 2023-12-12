@@ -8682,10 +8682,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 51106,
       "NumberOfAwardsMax": 6479
+    },
+    {
+      "Time": "2023-12-12T04:01:36.8101774+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 51107,
+      "NumberOfAwardsMax": 6479
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51106,
+  "NumberOfAwards": 51107,
   "NumberOfAwardsMax": 6479,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -8717,7 +8723,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 5904
+      "Count": 5905
     },
     {
       "Text": "This game is Educational",
@@ -8756,9 +8762,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477521,
+  "EOS_Progressed": 477522,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32581,6 +32587,11 @@
       "Time": "2023-12-12T03:08:31.8891984+00:00",
       "NumProgressed": 477521,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-12T04:07:40.8910661+00:00",
+      "NumProgressed": 477522,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -32648,7 +32659,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 124155
+      "UsersEstimate": 124156
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -32704,7 +32715,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143256
+      "UsersEstimate": 143257
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -32734,9 +32745,9 @@
       "ID": "achievement_beating_expectations",
       "SetID": "8k91p5b",
       "Name": "Beating Expectations",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 71628
+      "UsersEstimate": 76404
     },
     {
       "ID": "achievement_big_win",
@@ -32776,7 +32787,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238760
+      "UsersEstimate": 238761
     },
     {
       "ID": "achievement_club_world_cup",
@@ -32984,7 +32995,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 124155
+      "UsersEstimate": 124156
     },
     {
       "ID": "achievement_mr_delegator",
@@ -33008,7 +33019,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76403
+      "UsersEstimate": 76404
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -33016,7 +33027,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 167132
+      "UsersEstimate": 167133
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -33104,7 +33115,7 @@
       "Name": "Rushed signing",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76403
+      "UsersEstimate": 76404
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -33136,7 +33147,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229210
+      "UsersEstimate": 229211
     },
     {
       "ID": "achievement_signed_a_player",
@@ -33144,7 +33155,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238760
+      "UsersEstimate": 238761
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -33224,7 +33235,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238760
+      "UsersEstimate": 238761
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -33375,15 +33386,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477521,
+      "Progressed": 477522,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-12-11T19:01:33.2634644+00:00",
-  "LastChanged_Achievements": "2023-12-12T03:08:31.8891982+00:00",
+  "LastChanged": "2023-12-12T04:01:36.8101772+00:00",
+  "LastChanged_Achievements": "2023-12-12T04:07:40.8910657+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.1665984+00:00",
-  "LastUpdate_Ratings": "2023-12-12T03:01:42.1852225+00:00",
-  "LastUpdate_Achievements": "2023-12-12T03:08:31.8893584+00:00"
+  "LastUpdate_Ratings": "2023-12-12T04:01:36.8101778+00:00",
+  "LastUpdate_Achievements": "2023-12-12T04:07:40.8912338+00:00"
 }

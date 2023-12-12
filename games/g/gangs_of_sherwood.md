@@ -21,13 +21,13 @@
 | Merry Co-operation | 30.00% | ~20 |
 | Finish Him! | 28.00% | ~19 |
 | Savior | 25.00% | ~17 |
-| Ultra Rebel Instinct | 24.00% | ~16 |
+| Ultra Rebel Instinct | 25.00% | ~17 |
 | Merry Go Round | 22.00% | ~15 |
 | Take Action! | 21.00% | ~14 |
 | First Aid | 21.00% | ~14 |
 | Ascending Will | 16.00% | ~11 |
 | Ultra Combo | 16.00% | ~11 |
-| Hidden Experiment | 13.00% | ~9 |
+| Hidden Experiment | 15.00% | ~10 |
 | Haute Couture | 13.00% | ~9 |
 | Brilliant Executioner | 9.00% | ~6 |
 | Into the Lion's Den | 9.00% | ~6 |
