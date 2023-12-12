@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -465,17 +465,17 @@
       "ID": "Achievement16",
       "SetID": "9fa3l5n",
       "Name": "Under the Hood",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement17",
       "SetID": "9fa3l5n",
       "Name": "Long Live Gaipajama!",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 85,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement18",
@@ -712,8 +712,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-12T00:08:02.9637539+00:00",
+  "LastChanged_Achievements": "2023-12-12T01:54:52.107979+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:01.5960329+00:00",
-  "LastUpdate_Ratings": "2023-12-11T23:59:57.4901635+00:00",
-  "LastUpdate_Achievements": "2023-12-12T00:08:02.9637966+00:00"
+  "LastUpdate_Ratings": "2023-12-12T01:48:24.8089529+00:00",
+  "LastUpdate_Achievements": "2023-12-12T01:54:52.1080052+00:00"
 }

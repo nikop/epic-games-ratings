@@ -32,7 +32,7 @@
 | Bad Trip | 16.00% | ~17 |
 | Regrets | 16.00% | ~17 |
 | The Mountains, The Valleys | 16.00% | ~17 |
-| Chase the Crow | 13.00% | ~14 |
+| Chase the Crow | 14.00% | ~15 |
 | The Accident | 13.00% | ~14 |
 | The Awakening | 13.00% | ~14 |
 | Love | 12.00% | ~13 |

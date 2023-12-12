@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,242 |
-| Alt+F4 | 9.00% | ~21,811 |
-| Where's that freaking Dwarf? | 8.00% | ~19,387 |
+| Sowwy! | 36.00% | ~87,246 |
+| Alt+F4 | 9.00% | ~21,812 |
+| Where's that freaking Dwarf? | 8.00% | ~19,388 |
 | Déjà vu | 7.00% | ~16,964 |
-| A beer, two curses, three companions | 5.00% | ~12,117 |
-| Sock! SOCK! | 5.00% | ~12,117 |
-| GG EZ | 5.00% | ~12,117 |
-| Speedrun | 5.00% | ~12,117 |
+| A beer, two curses, three companions | 5.00% | ~12,118 |
+| Sock! SOCK! | 5.00% | ~12,118 |
+| GG EZ | 5.00% | ~12,118 |
+| Speedrun | 5.00% | ~12,118 |
 | DM intervention | 4.00% | ~9,694 |
 | Fireproof Wizardess | 4.00% | ~9,694 |
 | Livin' in a dwarven paradise | 3.00% | ~7,270 |
@@ -38,12 +38,12 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,847 |
 | Team Building Exercise | 2.00% | ~4,847 |
 | Oh, when I'll be level 10... | 2.00% | ~4,847 |
-| %#*!$*! | 1.00% | ~2,423 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,423 |
-| Dead for good | 1.00% | ~2,423 |
-| Gargantua | 1.00% | ~2,423 |
-| Lust and Debauchery | 1.00% | ~2,423 |
-| Material Girl | 1.00% | ~2,423 |
+| %#*!$*! | 1.00% | ~2,424 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,424 |
+| Dead for good | 1.00% | ~2,424 |
+| Gargantua | 1.00% | ~2,424 |
+| Lust and Debauchery | 1.00% | ~2,424 |
+| Material Girl | 1.00% | ~2,424 |
 | In Navalu's footsteps | 0.90% | ~2,181 |
 | Lëgal Legend | 0.90% | ~2,181 |
 | We come in peace | 0.80% | ~1,939 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,339 (Ranked 63)  
+Progressed: 242,350 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,11 +290,11 @@ Completed: 7 (0.00%) (Ranked 371)
 | 2023-12-09 | 242,023 | 7 |
 | 2023-12-10 | 242,215 | 7 |
 | 2023-12-11 | 242,333 | 7 |
-| 2023-12-12 | 242,339 | 7 |
+| 2023-12-12 | 242,350 | 7 |
 ## Awards
 Max (Character Customization): 245  (Ranked 273)  
-Sum: 497 (Ranked 329)  
-Diff (max vs sum): -56  
+Sum: 517 (Ranked 326)  
+Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 245 |
@@ -306,6 +306,7 @@ Diff (max vs sum): -56
 | This game has Amazing Characters | 28 |
 | This game has Diverse Characters | 27 |
 | This game is Extremely Fun | 26 |
+| This game has Playful Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -502,3 +503,4 @@ Diff (max vs sum): -56
 | 2023-12-06 | 4.58 | - | 242 | 493 |
 | 2023-12-07 | 4.58 | - | 244 | 495 |
 | 2023-12-10 | 4.58 | - | 245 | 497 |
+| 2023-12-12 | 4.58 | - | 245 | 517 |

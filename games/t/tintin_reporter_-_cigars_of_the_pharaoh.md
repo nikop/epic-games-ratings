@@ -22,9 +22,9 @@
 | The Eyes! | 5.00% | ~4 |
 | Keep the Doctor Away | 5.00% | ~4 |
 | Just a Palm Tree | 5.00% | ~4 |
+| Under the Hood | 5.00% | ~4 |
+| Long Live Gaipajama! | 5.00% | ~4 |
 | Punctual | 5.00% | ~4 |
-| Under the Hood | 3.00% | ~3 |
-| Long Live Gaipajama! | 3.00% | ~3 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
 | Tintin, Reporter | 2.00% | ~2 |

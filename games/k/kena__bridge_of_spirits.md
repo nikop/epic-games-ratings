@@ -6,15 +6,15 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~408,042 |
-| Haikyo | 80.00% | ~343,614 |
-| Good as New | 72.00% | ~309,253 |
+| Found a Friend | 95.00% | ~408,043 |
+| Haikyo | 80.00% | ~343,615 |
+| Good as New | 72.00% | ~309,254 |
 | Into the Woods | 70.00% | ~300,663 |
 | Hunter in the Forest | 60.00% | ~257,711 |
 | Rot Commander | 60.00% | ~257,711 |
-| Taro's Fear | 56.00% | ~240,530 |
-| Between the Eyes | 47.00% | ~201,873 |
-| Taro's Love | 46.00% | ~197,578 |
+| Taro's Fear | 56.00% | ~240,531 |
+| Between the Eyes | 47.00% | ~201,874 |
+| Taro's Love | 46.00% | ~197,579 |
 | Taro's Regret | 44.00% | ~188,988 |
 | Spirit Guide | 42.00% | ~180,398 |
 | Harness Your Power | 39.00% | ~167,512 |
@@ -23,9 +23,9 @@ Number of Ratings: 3,313  (23.09.2022)
 | Adira's Fear | 33.00% | ~141,741 |
 | Weigh Them Down | 31.00% | ~133,151 |
 | Adira's Regret | 31.00% | ~133,151 |
-| A Heavy Hammer | 30.00% | ~128,855 |
-| Crossing Over | 29.00% | ~124,560 |
-| Quick Draw | 29.00% | ~124,560 |
+| A Heavy Hammer | 30.00% | ~128,856 |
+| Crossing Over | 29.00% | ~124,561 |
+| Quick Draw | 29.00% | ~124,561 |
 | Toshi's Fear | 28.00% | ~120,265 |
 | Toshi's Regret | 27.00% | ~115,970 |
 | Toshi's Love | 27.00% | ~115,970 |
@@ -36,7 +36,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Say Cheese | 16.00% | ~68,723 |
 | Skillful Spirit Guide | 15.00% | ~64,428 |
 | Piercing Blow | 14.00% | ~60,133 |
-| Zen Master | 8.00% | ~34,361 |
+| Zen Master | 8.00% | ~34,362 |
 | Curse Collector | 7.00% | ~30,066 |
 | The Last Stop | 7.00% | ~30,066 |
 | Hat Collector | 4.00% | ~17,181 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,866 |
 | Master Spirit Guide | 0.30% | ~1,289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429,518 (Ranked 44)  
+Progressed: 429,519 (Ranked 44)  
 Completed: 553 (0.13%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,6 +284,7 @@ Completed: 553 (0.13%) (Ranked 278)
 | 2023-12-09 | 429,471 | 553 |
 | 2023-12-10 | 429,498 | 553 |
 | 2023-12-11 | 429,518 | 553 |
+| 2023-12-12 | 429,519 | 553 |
 ## Awards
 Max (Great Boss Battles): 1,344  (Ranked 136)  
 Sum: 1,763 (Ranked 221)  

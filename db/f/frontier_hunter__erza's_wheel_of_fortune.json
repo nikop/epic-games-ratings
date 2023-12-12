@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 593,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2030,9 +2030,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "7pimpda",
       "Name": "Face Slapper",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -2295,8 +2295,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-12T00:08:39.6574464+00:00",
+  "LastChanged_Achievements": "2023-12-12T01:56:46.3393921+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-11T23:59:59.3567119+00:00",
-  "LastUpdate_Achievements": "2023-12-12T00:08:39.657479+00:00"
+  "LastUpdate_Ratings": "2023-12-12T01:48:27.1384823+00:00",
+  "LastUpdate_Achievements": "2023-12-12T01:56:46.3394253+00:00"
 }

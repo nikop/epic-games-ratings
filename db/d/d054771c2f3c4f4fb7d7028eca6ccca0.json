@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1709,
+  "EOS_Progressed": 1712,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1324,6 +1324,11 @@
       "Time": "2023-12-12T00:05:19.842473+00:00",
       "NumProgressed": 1709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T01:53:41.9178369+00:00",
+      "NumProgressed": 1712,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1360,7 +1365,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1520,7 +1525,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1711,14 +1716,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1709,
+      "Progressed": 1712,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-12T00:05:19.8424727+00:00",
+  "LastChanged_Achievements": "2023-12-12T01:53:41.9178366+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-12T00:02:37.9393328+00:00",
-  "LastUpdate_Achievements": "2023-12-12T00:05:19.842511+00:00"
+  "LastUpdate_Ratings": "2023-12-12T01:48:43.9975675+00:00",
+  "LastUpdate_Achievements": "2023-12-12T01:53:41.9178698+00:00"
 }

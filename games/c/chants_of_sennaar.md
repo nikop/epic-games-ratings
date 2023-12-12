@@ -13,10 +13,10 @@
 | Scholar | 23.00% | ~219 |
 | The darkness | 23.00% | ~219 |
 | True G3M4R | 22.00% | ~210 |
+| One last step | 22.00% | ~210 |
 | I did it | 21.00% | ~200 |
 | Cable guy | 21.00% | ~200 |
 | Half the way | 21.00% | ~200 |
-| One last step | 21.00% | ~200 |
 | In this together | 20.00% | ~191 |
 | Peace walker | 20.00% | ~191 |
 | Champollion | 20.00% | ~191 |

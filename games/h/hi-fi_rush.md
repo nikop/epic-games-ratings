@@ -28,9 +28,9 @@ Rating: 4.87 (Ranked 24)
 | Who's the boss now? | 9.00% | ~406 |
 | You must like calling me in, Chai | 9.00% | ~406 |
 | Does that say weakpoint? | 9.00% | ~406 |
-| NOW we got a kickass hideout! | 9.00% | ~272 |
-| I have to read these things? | 8.00% | ~360 |
-| Perfecter Parry-er! | 8.00% | ~360 |
+| NOW we got a kickass hideout! | 9.00% | ~273 |
+| I have to read these things? | 8.00% | ~361 |
+| Perfecter Parry-er! | 8.00% | ~361 |
 | Well that was a rush! | 6.00% | ~270 |
 | That's a lot of junk metal… | 6.00% | ~270 |
 | There's such a thing as TOO helpful | 6.00% | ~270 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,506 (Ranked 195)  
+Progressed: 4,507 (Ranked 195)  
 Completed: 8 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,6 +303,7 @@ Completed: 8 (0.18%) (Ranked 266)
 | 2023-12-09 | 4,494 | 8 |
 | 2023-12-10 | 4,502 | 8 |
 | 2023-12-11 | 4,506 | 8 |
+| 2023-12-12 | 4,507 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

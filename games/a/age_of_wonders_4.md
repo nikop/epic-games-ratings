@@ -30,6 +30,7 @@ Rating: 4.62 (Ranked 371)
 | Freed Lands of Manuhari | 2.00% | ~112 |
 | Sehiran Oasis | 2.00% | ~112 |
 | Chaos Surge | 2.00% | ~112 |
+| Spoils of War | 2.00% | ~112 |
 | Arch Mage | 1.00% | ~56 |
 | Crimson Caldera | 1.00% | ~56 |
 | Preparation Is Everything | 1.00% | ~56 |
@@ -39,7 +40,6 @@ Rating: 4.62 (Ranked 371)
 | Prometheus Avenged | 1.00% | ~56 |
 | Seal the Deal | 1.00% | ~56 |
 | A Conqueror's Cohort | 1.00% | ~56 |
-| Spoils of War | 1.00% | ~56 |
 | Dawn of the Dread | 1.00% | ~56 |
 | The Creator | 0.90% | ~50 |
 | The Eternal Court | 0.90% | ~50 |
@@ -52,7 +52,7 @@ Rating: 4.62 (Ranked 371)
 | I've Got Everything I Need Right Here | 0.60% | ~34 |
 | The Goddess of Nature | 0.60% | ~34 |
 | Pruning for Progress | 0.60% | ~34 |
-| Duality | 0.50% | ~28 |
+| Duality | 0.60% | ~34 |
 | Against the Odds | 0.40% | ~22 |
 | Snap Out of It! | 0.30% | ~17 |
 | The Magic That Empowers Me! | 0.30% | ~17 |

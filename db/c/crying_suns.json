@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -655,9 +655,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 472120,
+  "EOS_Progressed": 472121,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25040,6 +25040,11 @@
       "Time": "2023-12-12T00:09:44.7052709+00:00",
       "NumProgressed": 472120,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-12T01:58:08.4117479+00:00",
+      "NumProgressed": 472121,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25075,7 +25080,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103866
+      "UsersEstimate": 103867
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -25139,7 +25144,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311599
+      "UsersEstimate": 311600
     },
     {
       "ID": "achievement_story_landa",
@@ -25499,7 +25504,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56654
+      "UsersEstimate": 56655
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -25563,7 +25568,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103866
+      "UsersEstimate": 103867
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -25682,21 +25687,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16054,
+      "Progressed": 16055,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472120,
+      "Progressed": 472121,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-06T08:57:12.0332693+00:00",
-  "LastChanged_Achievements": "2023-12-12T00:09:44.7052706+00:00",
+  "LastChanged_Achievements": "2023-12-12T01:58:08.4117478+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.6716506+00:00",
-  "LastUpdate_Ratings": "2023-12-11T23:00:02.9520857+00:00",
-  "LastUpdate_Achievements": "2023-12-12T00:09:44.7054158+00:00"
+  "LastUpdate_Ratings": "2023-12-12T01:45:31.163923+00:00",
+  "LastUpdate_Achievements": "2023-12-12T01:58:08.4118903+00:00"
 }

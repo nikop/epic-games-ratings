@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -613,9 +613,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3279,
+  "EOS_Progressed": 3280,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9523,6 +9523,11 @@
       "Time": "2023-12-12T00:06:17.8999664+00:00",
       "NumProgressed": 3279,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T01:54:38.4304546+00:00",
+      "NumProgressed": 3280,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9718,7 +9723,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "fourleafclover",
@@ -9742,7 +9747,7 @@
       "Name": "Full Party",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "gearenchanting",
@@ -9910,7 +9915,7 @@
       "Name": "Natural Talent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "pokerface",
@@ -9982,7 +9987,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "templeofeternals",
@@ -9990,7 +9995,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "thealchemist",
@@ -10038,7 +10043,7 @@
       "Name": "The Unstoppable",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "titanpower",
@@ -10094,7 +10099,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3049
+      "UsersEstimate": 3050
     },
     {
       "ID": "warmachinesarmy",
@@ -10133,7 +10138,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3279,
+      "Progressed": 3280,
       "Completed": 2
     }
   ],
@@ -10141,8 +10146,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-11T19:56:52.1316806+00:00",
-  "LastChanged_Achievements": "2023-12-12T00:06:17.8999662+00:00",
+  "LastChanged_Achievements": "2023-12-12T01:54:38.4304543+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
-  "LastUpdate_Ratings": "2023-12-11T23:57:06.0902138+00:00",
-  "LastUpdate_Achievements": "2023-12-12T00:06:17.9000469+00:00"
+  "LastUpdate_Ratings": "2023-12-12T01:45:37.1075982+00:00",
+  "LastUpdate_Achievements": "2023-12-12T01:54:38.4305452+00:00"
 }

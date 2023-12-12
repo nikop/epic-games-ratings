@@ -1651,10 +1651,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162188,
-  "EOS_Completed": 294,
-  "EOS_NewPlayers": 913,
-  "EOS_NewCompleters": 103,
+  "EOS_Progressed": 162194,
+  "EOS_Completed": 295,
+  "EOS_NewPlayers": 907,
+  "EOS_NewCompleters": 104,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
@@ -18861,6 +18861,11 @@
       "Time": "2023-12-12T00:05:15.663925+00:00",
       "NumProgressed": 162188,
       "NumCompleted": 294
+    },
+    {
+      "Time": "2023-12-12T01:53:37.8831931+00:00",
+      "NumProgressed": 162194,
+      "NumCompleted": 295
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18935,9 +18940,9 @@
       "ID": "ACQUIRE_TRAIT",
       "SetID": "ccc0dlh",
       "Name": "Taste",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1460
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -19127,9 +19132,9 @@
       "ID": "MISC_PULLANENEMY",
       "SetID": "ccc0dlh",
       "Name": "Yank",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 487
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -19240,21 +19245,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161771,
+      "Progressed": 161777,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162188,
-      "Completed": 294
+      "Progressed": 162194,
+      "Completed": 295
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-10T17:57:49.4464039+00:00",
-  "LastChanged_Achievements": "2023-12-12T00:05:15.6639247+00:00",
+  "LastChanged_Achievements": "2023-12-12T01:53:37.8831928+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-11T23:58:24.1382431+00:00",
-  "LastUpdate_Achievements": "2023-12-12T00:05:15.66415+00:00"
+  "LastUpdate_Ratings": "2023-12-12T01:46:53.79528+00:00",
+  "LastUpdate_Achievements": "2023-12-12T01:53:37.8832792+00:00"
 }

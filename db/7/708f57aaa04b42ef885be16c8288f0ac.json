@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7710,
+  "EOS_Progressed": 7711,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -6228,6 +6228,11 @@
       "Time": "2023-12-12T00:09:35.6907343+00:00",
       "NumProgressed": 7710,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-12T01:57:59.6068967+00:00",
+      "NumProgressed": 7711,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6280,7 +6285,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "Eavesdropper",
@@ -6432,7 +6437,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "TheQuarterback",
@@ -6440,7 +6445,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "ThisIsDharma",
@@ -6511,7 +6516,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7710,
+      "Progressed": 7711,
       "Completed": 16
     }
   ],
@@ -6519,8 +6524,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-11T17:58:44.1681748+00:00",
-  "LastChanged_Achievements": "2023-12-12T00:09:35.690734+00:00",
+  "LastChanged_Achievements": "2023-12-12T01:57:59.6068965+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-11T23:58:45.9658303+00:00",
-  "LastUpdate_Achievements": "2023-12-12T00:09:35.6907892+00:00"
+  "LastUpdate_Ratings": "2023-12-12T01:47:14.7100346+00:00",
+  "LastUpdate_Achievements": "2023-12-12T01:57:59.6069483+00:00"
 }

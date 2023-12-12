@@ -30,6 +30,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 0.50% | ~1,205 |
 | C-C-Combo | 0.50% | ~1,205 |
 | Deflection | 0.50% | ~1,205 |
+| Toxic | 0.50% | ~1,205 |
 | Sneaky | 0.50% | ~1,205 |
 | Expensive Look | 0.50% | ~12 |
 | What Doesn't Kill You | 0.50% | ~12 |
@@ -44,7 +45,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Destroy Your Fears | 0.40% | ~964 |
 | Shootout | 0.40% | ~964 |
 | Stone Touch | 0.40% | ~964 |
-| Toxic | 0.40% | ~964 |
 | New Perspectives | 0.40% | ~964 |
 | Shadow Walker | 0.40% | ~964 |
 | Flesh Wound | 0.40% | ~964 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,901 (Ranked 64)  
+Progressed: 240,902 (Ranked 64)  
 Completed: 295 (0.12%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -381,10 +381,10 @@ Completed: 295 (0.12%) (Ranked 283)
 | 2023-12-09 | 240,828 | 293 |
 | 2023-12-10 | 240,862 | 293 |
 | 2023-12-11 | 240,899 | 294 |
-| 2023-12-12 | 240,901 | 295 |
+| 2023-12-12 | 240,902 | 295 |
 ## Awards
 Max (Quickly Understood Controls): 1,507  (Ranked 134)  
-Sum: 11,723 (Ranked 85)  
+Sum: 11,724 (Ranked 85)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -392,7 +392,7 @@ Diff (max vs sum): 49
 | This game has Quickly Understood Controls | 1,507 |
 | This game has Challenging Combat | 1,439 |
 | This game is Relaxing | 1,439 |
-| This game is Extremely Fun | 1,418 |
+| This game is Extremely Fun | 1,419 |
 | This game is Highly Recommended | 1,386 |
 | This game has Amazing Storytelling | 1,327 |
 | This game has Amazing Characters | 1,230 |
@@ -630,3 +630,4 @@ Diff (max vs sum): 49
 | 2023-12-09 | 4.58 | - | 1,506 | 11,719 |
 | 2023-12-10 | 4.58 | - | 1,507 | 11,722 |
 | 2023-12-11 | 4.58 | - | 1,507 | 11,723 |
+| 2023-12-12 | 4.58 | - | 1,507 | 11,724 |

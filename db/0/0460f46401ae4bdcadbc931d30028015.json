@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -927,9 +927,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4126,
+  "EOS_Progressed": 4127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6957,6 +6957,11 @@
       "Time": "2023-12-12T00:04:09.0799257+00:00",
       "NumProgressed": 4126,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T01:52:34.1225519+00:00",
+      "NumProgressed": 4127,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6993,7 +6998,7 @@
       "Name": "Dealmaker",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "achievement_13",
@@ -7065,7 +7070,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2434
+      "UsersEstimate": 2435
     },
     {
       "ID": "achievement_21",
@@ -7136,7 +7141,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4126,
+      "Progressed": 4127,
       "Completed": 0
     }
   ],
@@ -7144,8 +7149,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-11T22:59:04.3127286+00:00",
-  "LastChanged_Achievements": "2023-12-12T00:04:09.0799252+00:00",
+  "LastChanged_Achievements": "2023-12-12T01:52:34.1225514+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-11T23:59:11.4889017+00:00",
-  "LastUpdate_Achievements": "2023-12-12T00:04:09.0799711+00:00"
+  "LastUpdate_Ratings": "2023-12-12T01:47:39.9400728+00:00",
+  "LastUpdate_Achievements": "2023-12-12T01:52:34.1225924+00:00"
 }

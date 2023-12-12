@@ -6,43 +6,46 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 2.00% | ~22 |
+| Malpractice Assurance | 2.00% | ~23 |
 | This guy... again? | 1.00% | ~11 |
-| This Belongs in a Museum | 0.70% | ~884 |
-| Catch and Decease | 0.60% | ~757 |
-| Not Today! | 0.50% | ~631 |
+| This Belongs in a Museum | 0.80% | ~1,010 |
+| Catch and Decease | 0.70% | ~884 |
+| Not Today! | 0.60% | ~758 |
+| Overdue Notice | 0.60% | ~758 |
+| Escape from the Black Hole | 0.60% | ~758 |
+| Creep and Sleep | 0.50% | ~631 |
 | Meat and Greet | 0.50% | ~631 |
-| Overdue Notice | 0.50% | ~631 |
-| Escape from the Black Hole | 0.50% | ~631 |
-| Creep and Sleep | 0.40% | ~505 |
-| Autodidact | 0.30% | ~379 |
-| Bloody Graduation | 0.30% | ~3 |
+| Autodidact | 0.40% | ~505 |
+| Bloody Graduation | 0.40% | ~5 |
+| Serenity Now! | 0.30% | ~379 |
 | Lost and Found | 0.30% | ~3 |
-| Don't Make Me Turn This Coach Around | 0.20% | ~252 |
-| Serenity Now! | 0.20% | ~252 |
-| Resurrection | 0.20% | ~252 |
-| Unleash Hell | 0.20% | ~252 |
-| Funny Guy | 0.20% | ~252 |
-| Long Live the King | 0.20% | ~252 |
-| Wyrdly Reconstructed | 0.20% | ~252 |
-| Boxcar Kid | 0.20% | ~252 |
-| Unfulfilled Desires | 0.20% | ~252 |
-| Predator | 0.20% | ~252 |
-| Dissector | 0.20% | ~252 |
-| Banishment | 0.20% | ~252 |
-| Deprogramming | 0.20% | ~252 |
-| Ichthyophobic | 0.20% | ~252 |
-| Now Stay Dead | 0.20% | ~252 |
-| Reverse Banditry | 0.20% | ~252 |
-| Rush Hour | 0.20% | ~252 |
-| To Grandmother's House | 0.20% | ~252 |
-| Ramble On | 0.20% | ~252 |
-| A Clear Conscience | 0.20% | ~252 |
-| A Place to Lay Your Head | 0.20% | ~252 |
-| FNG | 0.20% | ~252 |
-| Nope | 0.20% | ~252 |
-| Unshackled | 0.20% | ~252 |
-| It Rings a Bell | 0.10% | ~126 |
+| Don't Make Me Turn This Coach Around | 0.20% | ~253 |
+| It Rings a Bell | 0.20% | ~253 |
+| Resurrection | 0.20% | ~253 |
+| Unleash Hell | 0.20% | ~253 |
+| Funny Guy | 0.20% | ~253 |
+| Long Live the King | 0.20% | ~253 |
+| Wyrdly Reconstructed | 0.20% | ~253 |
+| Boxcar Kid | 0.20% | ~253 |
+| Unfulfilled Desires | 0.20% | ~253 |
+| Predator | 0.20% | ~253 |
+| Dissector | 0.20% | ~253 |
+| Banishment | 0.20% | ~253 |
+| Deprogramming | 0.20% | ~253 |
+| Ichthyophobic | 0.20% | ~253 |
+| Now Stay Dead | 0.20% | ~253 |
+| Reverse Banditry | 0.20% | ~253 |
+| Rush Hour | 0.20% | ~253 |
+| Merry Time | 0.20% | ~253 |
+| Harvest Festival | 0.20% | ~253 |
+| To Grandmother's House | 0.20% | ~253 |
+| Ramble On | 0.20% | ~253 |
+| A Clear Conscience | 0.20% | ~253 |
+| Whale | 0.20% | ~253 |
+| A Place to Lay Your Head | 0.20% | ~253 |
+| FNG | 0.20% | ~253 |
+| Nope | 0.20% | ~253 |
+| Unshackled | 0.20% | ~253 |
 | A Life Well Lived | 0.10% | ~126 |
 | The World As It Was | 0.10% | ~126 |
 | This Looks Familiar | 0.10% | ~126 |
@@ -56,12 +59,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Happens | 0.10% | ~126 |
 | Hat Trick | 0.10% | ~126 |
 | Spelunker | 0.10% | ~126 |
-| Merry Time | 0.10% | ~126 |
-| Harvest Festival | 0.10% | ~126 |
 | 20,000 Leagues Above the Sea | 0.10% | ~126 |
 | Tears in the Rain | 0.10% | ~126 |
 | Shrine of Reflection | 0.10% | ~126 |
-| Whale | 0.10% | ~126 |
 | Triage | 0.10% | ~126 |
 | When You Want Something Done Right | 0.10% | ~126 |
 | Worldly Traveller | 0.10% | ~126 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,240 (Ranked 84)  
+Progressed: 126,261 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
-| 2023-12-12 | 126,240 | 2 |
+| 2023-12-12 | 126,261 | 2 |
 ## Awards
 Max (Character Customization): 7,586  (Ranked 52)  
 Sum: 20,081 (Ranked 59)  

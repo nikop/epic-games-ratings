@@ -2,13 +2,13 @@
   "ID": "4bc43145bb8245a5b5cc9ea262ffbe0e",
   "Name": "Marvel\u0027s Spider-Man Remastered",
   "ProductSlug": "marvels-spider-man-remastered",
-  "Ranking_Rating": 33,
+  "Ranking_Rating": 34,
   "Ranking_Popularity": 31,
   "Ranking_PopularitySum": 55,
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-12T15:00:00+00:00",
     "PcReleaseDate": "2022-08-12T15:00:00+00:00",
@@ -8225,10 +8225,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 22688,
       "NumberOfAwardsMax": 13386
+    },
+    {
+      "Time": "2023-12-12T01:47:09.3626949+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 22690,
+      "NumberOfAwardsMax": 13386
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22688,
+  "NumberOfAwards": 22690,
   "NumberOfAwardsMax": 13386,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8284,7 +8290,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1031
+      "Count": 1033
     },
     {
       "Text": "This game has a Creative Community",
@@ -8317,8 +8323,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-12T18:01:31.1852692+00:00",
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
-  "LastChanged": "2023-12-11T18:59:27.6718962+00:00",
+  "LastChanged": "2023-12-12T01:47:09.3626948+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:18.9926813+00:00",
-  "LastUpdate_Ratings": "2023-12-11T23:58:40.1414759+00:00",
-  "LastUpdate_Achievements": "2023-12-12T00:04:13.4302943+00:00"
+  "LastUpdate_Ratings": "2023-12-12T01:47:09.3626953+00:00",
+  "LastUpdate_Achievements": "2023-12-12T01:52:38.3419024+00:00"
 }

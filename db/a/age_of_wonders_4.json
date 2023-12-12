@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -8261,9 +8261,9 @@
       "ID": "47",
       "SetID": "7132754",
       "Name": "Duality",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 34
     },
     {
       "ID": "48",
@@ -8341,9 +8341,9 @@
       "ID": "57",
       "SetID": "7132754",
       "Name": "Spoils of War",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "58",
@@ -8388,8 +8388,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-11T09:58:49.361776+00:00",
-  "LastChanged_Achievements": "2023-12-12T00:04:56.9082543+00:00",
+  "LastChanged_Achievements": "2023-12-12T01:53:19.5931702+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.604119+00:00",
-  "LastUpdate_Ratings": "2023-12-11T23:59:05.54745+00:00",
-  "LastUpdate_Achievements": "2023-12-12T00:04:56.9083332+00:00"
+  "LastUpdate_Ratings": "2023-12-12T01:47:34.1668746+00:00",
+  "LastUpdate_Achievements": "2023-12-12T01:53:19.5932407+00:00"
 }
