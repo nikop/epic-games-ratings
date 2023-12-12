@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7726,
+  "EOS_Progressed": 7727,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -6278,6 +6278,11 @@
       "Time": "2023-12-12T16:10:31.5582651+00:00",
       "NumProgressed": 7726,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-12T18:09:55.1238925+00:00",
+      "NumProgressed": 7727,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6528,9 +6533,9 @@
       "ID": "WhatsWithAllTheReferences",
       "SetID": "acc6ea0",
       "Name": "Digestive Issues",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 695
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -6561,7 +6566,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7726,
+      "Progressed": 7727,
       "Completed": 16
     }
   ],
@@ -6569,8 +6574,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-11T17:58:44.1681748+00:00",
-  "LastChanged_Achievements": "2023-12-12T17:10:20.9069348+00:00",
+  "LastChanged_Achievements": "2023-12-12T18:09:55.123892+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-12T16:59:52.3573194+00:00",
-  "LastUpdate_Achievements": "2023-12-12T17:10:20.9069994+00:00"
+  "LastUpdate_Ratings": "2023-12-12T17:59:08.9466239+00:00",
+  "LastUpdate_Achievements": "2023-12-12T18:09:55.1239481+00:00"
 }

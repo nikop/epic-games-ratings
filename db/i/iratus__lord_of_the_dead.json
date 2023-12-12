@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2389,9 +2389,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 46817,
+  "EOS_Progressed": 46818,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28064,6 +28064,11 @@
       "Time": "2023-12-12T17:05:22.3684945+00:00",
       "NumProgressed": 46817,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-12-12T18:04:55.3183097+00:00",
+      "NumProgressed": 46818,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -28075,7 +28080,7 @@
       "Name": "That Was Easy!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9363
+      "UsersEstimate": 9364
     },
     {
       "ID": "achievements_10",
@@ -28179,7 +28184,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 28090
+      "UsersEstimate": 28091
     },
     {
       "ID": "achievements_24",
@@ -28187,7 +28192,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 25749
+      "UsersEstimate": 25750
     },
     {
       "ID": "achievements_25",
@@ -28227,7 +28232,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14981
+      "UsersEstimate": 14982
     },
     {
       "ID": "achievements_3",
@@ -28243,7 +28248,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 14513
+      "UsersEstimate": 14514
     },
     {
       "ID": "achievements_31",
@@ -28291,7 +28296,7 @@
       "Name": "Grand Arena",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6554
+      "UsersEstimate": 6555
     },
     {
       "ID": "achievements_37",
@@ -28323,7 +28328,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 30431
+      "UsersEstimate": 30432
     },
     {
       "ID": "achievements_40",
@@ -28331,7 +28336,7 @@
       "Name": "Silent Waters",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9363
+      "UsersEstimate": 9364
     },
     {
       "ID": "achievements_41",
@@ -28379,7 +28384,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 39794
+      "UsersEstimate": 39795
     },
     {
       "ID": "achievements_47",
@@ -28435,7 +28440,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 19663
+      "UsersEstimate": 19664
     },
     {
       "ID": "achievements_53",
@@ -28451,7 +28456,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 20131
+      "UsersEstimate": 20132
     },
     {
       "ID": "achievements_55",
@@ -28507,7 +28512,7 @@
       "Name": "Head of Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9363
+      "UsersEstimate": 9364
     },
     {
       "ID": "achievements_62",
@@ -28515,7 +28520,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 12172
+      "UsersEstimate": 12173
     },
     {
       "ID": "achievements_63",
@@ -28579,7 +28584,7 @@
       "Name": "Blind Rage",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 17790
+      "UsersEstimate": 17791
     },
     {
       "ID": "achievements_70",
@@ -28651,7 +28656,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 34176
+      "UsersEstimate": 34177
     },
     {
       "ID": "achievements_8",
@@ -28674,15 +28679,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 46817,
+      "Progressed": 46818,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-09T13:01:33.078822+00:00",
-  "LastChanged_Achievements": "2023-12-12T17:05:22.3684942+00:00",
+  "LastChanged_Achievements": "2023-12-12T18:04:55.3183091+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:11.5197894+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:03:05.3643957+00:00",
-  "LastUpdate_Achievements": "2023-12-12T17:05:22.368656+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:02:48.924155+00:00",
+  "LastUpdate_Achievements": "2023-12-12T18:04:55.3185247+00:00"
 }

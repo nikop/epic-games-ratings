@@ -649,9 +649,9 @@
       "ID": "Max_Reputation_Coldmark",
       "SetID": "7b9f97e",
       "Name": "Friend of Grey Dusk Vale",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Max_Reputation_Gillyshire",
@@ -818,8 +818,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-12T17:09:22.4157503+00:00",
+  "LastChanged_Achievements": "2023-12-12T18:09:01.0258542+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:57.4155187+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:00:23.0272322+00:00",
-  "LastUpdate_Achievements": "2023-12-12T17:09:22.4158506+00:00"
+  "LastUpdate_Ratings": "2023-12-12T17:59:35.1553833+00:00",
+  "LastUpdate_Achievements": "2023-12-12T18:09:01.0259047+00:00"
 }

@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mathematic | 86.00% | ~69 |
-| It's Yours, My Friend | 73.00% | ~58 |
+| It's Yours, My Friend | 74.00% | ~59 |
 | Conducted Trade | 71.00% | ~57 |
-| Going Places | 70.00% | ~56 |
-| Aristocratic | 66.00% | ~53 |
+| Going Places | 71.00% | ~57 |
+| Aristocratic | 68.00% | ~54 |
 | Digging a Hole | 65.00% | ~52 |
 | Tutti Frutti | 63.00% | ~50 |
-| Gotta Go Fast | 53.00% | ~42 |
+| Gotta Go Fast | 54.00% | ~43 |
 | Slotting Machine | 45.00% | ~36 |
 | Systematic | 41.00% | ~33 |
 | Mine Sweeper | 38.00% | ~30 |
@@ -20,14 +20,14 @@
 | Botropolis | 26.00% | ~21 |
 | Up, Up And Away! | 24.00% | ~19 |
 | Whoa! | 23.00% | ~18 |
-| Steaming Rich | 19.00% | ~15 |
+| Steaming Rich | 20.00% | ~16 |
 | Steam Powered | 18.00% | ~14 |
 | Manic Mechanic | 15.00% | ~12 |
 | Room To Spare | 13.00% | ~10 |
 | Real Purdy | 6.00% | ~5 |
 | Stack Overflow | 6.00% | ~5 |
+| Click 'Em All | 4.00% | ~3 |
 | Accustomed Customer | 3.00% | ~2 |
-| Click 'Em All | 3.00% | ~2 |
 | Yup. | 1.00% | ~1 |
 | I'm A Lumberbot | 0.00% | ~0 |
 | Interstellar Performance | 0.00% | ~0 |

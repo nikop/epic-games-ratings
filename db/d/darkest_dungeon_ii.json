@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9526,10 +9526,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20173,
       "NumberOfAwardsMax": 7622
+    },
+    {
+      "Time": "2023-12-12T17:58:48.6959336+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20210,
+      "NumberOfAwardsMax": 7622
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20173,
+  "NumberOfAwards": 20210,
   "NumberOfAwardsMax": 7622,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9561,7 +9567,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1553
+      "Count": 1570
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9591,7 +9597,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1317
+      "Count": 1337
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9606,9 +9612,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126404,
+  "EOS_Progressed": 126415,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34681,6 +34687,11 @@
       "Time": "2023-12-12T17:09:24.5155624+00:00",
       "NumProgressed": 126404,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T18:09:02.8225542+00:00",
+      "NumProgressed": 126415,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34698,17 +34709,17 @@
       "ID": "affinity_resolute_first_time",
       "SetID": "64l4lke",
       "Name": "Serenity Now!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 632
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
       "SetID": "64l4lke",
       "Name": "It Rings a Bell",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -34986,9 +34997,9 @@
       "ID": "driving_biome_clear_city",
       "SetID": "64l4lke",
       "Name": "Rush Hour",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 632
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35228,7 +35239,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "combat_kill_collector",
@@ -35236,7 +35247,7 @@
       "Name": "This guy... again?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35298,9 +35309,9 @@
       "ID": "relationships_positive_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "Friends \u0027Til the End",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35323,21 +35334,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126404,
+      "Progressed": 126415,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1273,
+      "Progressed": 1284,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-12T14:59:27.5428401+00:00",
-  "LastChanged_Achievements": "2023-12-12T17:09:24.5155619+00:00",
+  "LastChanged": "2023-12-12T17:58:48.6959334+00:00",
+  "LastChanged_Achievements": "2023-12-12T18:09:02.8225539+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T16:59:29.3738525+00:00",
-  "LastUpdate_Achievements": "2023-12-12T17:09:24.5157499+00:00"
+  "LastUpdate_Ratings": "2023-12-12T17:58:48.695934+00:00",
+  "LastUpdate_Achievements": "2023-12-12T18:09:02.8227009+00:00"
 }

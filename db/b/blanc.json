@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3464,
+  "EOS_Progressed": 3466,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5321,6 +5321,11 @@
       "Time": "2023-12-12T16:06:10.7181973+00:00",
       "NumProgressed": 3464,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-12T18:05:06.8545469+00:00",
+      "NumProgressed": 3466,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5340,7 +5345,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "FALLEN_TREE",
@@ -5372,7 +5377,7 @@
       "Name": "Reunion",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "SLIDERS",
@@ -5404,7 +5409,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "THE_END",
@@ -5428,14 +5433,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3464,
+      "Progressed": 3466,
       "Completed": 6
     }
   ],
@@ -5443,8 +5448,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-12T17:05:35.0838825+00:00",
+  "LastChanged_Achievements": "2023-12-12T18:05:06.8545463+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:18.0649883+00:00",
-  "LastUpdate_Ratings": "2023-12-12T16:59:38.7897407+00:00",
-  "LastUpdate_Achievements": "2023-12-12T17:05:35.0839328+00:00"
+  "LastUpdate_Ratings": "2023-12-12T17:58:57.1216163+00:00",
+  "LastUpdate_Achievements": "2023-12-12T18:05:06.8545813+00:00"
 }

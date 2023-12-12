@@ -4839,9 +4839,9 @@
       "ID": "NEW_ACHIEVEMENT_OCCUPY_MARS",
       "SetID": "l546gc",
       "Name": "Occupy Mars!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 552
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -4960,8 +4960,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-06T17:58:25.3194639+00:00",
-  "LastChanged_Achievements": "2023-12-12T17:09:25.811956+00:00",
+  "LastChanged_Achievements": "2023-12-12T18:09:03.9354464+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:00.8104796+00:00",
-  "LastUpdate_Ratings": "2023-12-12T16:58:20.1958853+00:00",
-  "LastUpdate_Achievements": "2023-12-12T17:09:25.8120251+00:00"
+  "LastUpdate_Ratings": "2023-12-12T17:57:46.5780443+00:00",
+  "LastUpdate_Achievements": "2023-12-12T18:09:03.9355109+00:00"
 }

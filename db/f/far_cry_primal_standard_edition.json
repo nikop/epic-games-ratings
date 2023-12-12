@@ -2,12 +2,12 @@
   "ID": "larkspur",
   "Name": "Far Cry Primal Standard Edition",
   "ProductSlug": "far-cry-primal",
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 197,
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2016-03-01T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 463,
   "RatingHistory": [
     {
@@ -1547,18 +1547,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 695,
       "NumberOfAwardsMax": 477
+    },
+    {
+      "Time": "2023-12-12T17:58:26.6755554+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 698,
+      "NumberOfAwardsMax": 480
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 695,
-  "NumberOfAwardsMax": 477,
+  "NumberOfAwards": 698,
+  "NumberOfAwardsMax": 480,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 477
+      "Count": 480
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1620,8 +1626,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2023-12-12T04:58:56.6337992+00:00",
+  "LastChanged": "2023-12-12T17:58:26.6755553+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:18.475219+00:00",
-  "LastUpdate_Ratings": "2023-12-12T16:59:04.4090243+00:00",
-  "LastUpdate_Achievements": "2023-12-12T17:04:16.2673847+00:00"
+  "LastUpdate_Ratings": "2023-12-12T17:58:26.6755557+00:00",
+  "LastUpdate_Achievements": "2023-12-12T18:03:55.6169742+00:00"
 }

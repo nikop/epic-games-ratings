@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -3141,9 +3141,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1061
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -3253,9 +3253,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 868
+      "UsersEstimate": 880
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -3798,8 +3798,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-12T17:08:24.431185+00:00",
+  "LastChanged_Achievements": "2023-12-12T18:06:28.6053977+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:00:26.7972018+00:00",
-  "LastUpdate_Achievements": "2023-12-12T17:08:24.4313159+00:00"
+  "LastUpdate_Ratings": "2023-12-12T17:59:38.6381595+00:00",
+  "LastUpdate_Achievements": "2023-12-12T18:06:28.6054937+00:00"
 }

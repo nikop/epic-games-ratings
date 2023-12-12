@@ -8,7 +8,7 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 38.00% | ~163 |
 | Double Kill | 28.00% | ~120 |
-| Critical Hit | 16.00% | ~69 |
+| Critical Hit | 17.00% | ~73 |
 | Veteran | 15.00% | ~64 |
 | Dressed For Success | 10.00% | ~43 |
 | Humiliation | 8.00% | ~34 |

@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,274 |
-| Alt+F4 | 9.00% | ~21,819 |
-| Where's that freaking Dwarf? | 8.00% | ~19,394 |
-| Déjà vu | 7.00% | ~16,970 |
-| A beer, two curses, three companions | 5.00% | ~12,121 |
-| Sock! SOCK! | 5.00% | ~12,121 |
-| GG EZ | 5.00% | ~12,121 |
-| Speedrun | 5.00% | ~12,121 |
-| DM intervention | 4.00% | ~9,697 |
-| Fireproof Wizardess | 4.00% | ~9,697 |
+| Sowwy! | 36.00% | ~87,278 |
+| Alt+F4 | 9.00% | ~21,820 |
+| Where's that freaking Dwarf? | 8.00% | ~19,395 |
+| Déjà vu | 7.00% | ~16,971 |
+| A beer, two curses, three companions | 5.00% | ~12,122 |
+| Sock! SOCK! | 5.00% | ~12,122 |
+| GG EZ | 5.00% | ~12,122 |
+| Speedrun | 5.00% | ~12,122 |
+| DM intervention | 4.00% | ~9,698 |
+| Fireproof Wizardess | 4.00% | ~9,698 |
 | Livin' in a dwarven paradise | 3.00% | ~7,273 |
 | Way of the Wimp | 3.00% | ~7,273 |
 | The plot thickens... At the tavern | 3.00% | ~7,273 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,424 |
 | In Navalu's footsteps | 0.90% | ~2,182 |
 | Lëgal Legend | 0.90% | ~2,182 |
-| We come in peace | 0.80% | ~1,939 |
+| We come in peace | 0.80% | ~1,940 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,697 |
 | Holistic Adventuring Party | 0.60% | ~1,455 |
 | Law and Order | 0.60% | ~1,455 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,429 (Ranked 63)  
+Progressed: 242,440 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 7 (0.00%) (Ranked 372)
 | 2023-12-09 | 242,023 | 7 |
 | 2023-12-10 | 242,215 | 7 |
 | 2023-12-11 | 242,333 | 7 |
-| 2023-12-12 | 242,429 | 7 |
+| 2023-12-12 | 242,440 | 7 |
 ## Awards
 Max (Character Customization): 245  (Ranked 273)  
 Sum: 517 (Ranked 326)  

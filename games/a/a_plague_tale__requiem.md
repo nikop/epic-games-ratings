@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 172)
 | Old protector | 2.00% | ~282 |
 | Malignant | 1.00% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,108 (Ranked 158)  
+Progressed: 14,108 (Ranked 159)  
 Completed: 57 (0.40%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |

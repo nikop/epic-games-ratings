@@ -49,6 +49,7 @@
 | Defeat Uram | 10.00% | ~4 |
 | Elynn's Tale | 10.00% | ~4 |
 | Mage Teacher | 10.00% | ~4 |
+| Friend of Grey Dusk Vale | 10.00% | ~4 |
 | Get to the Airship! | 7.00% | ~3 |
 | Defeat Ianna | 7.00% | ~3 |
 | Defeat Rohen | 7.00% | ~3 |
@@ -60,7 +61,6 @@
 | A Monopoly of Might | 7.00% | ~3 |
 | Heroes | 7.00% | ~3 |
 | Balanced | 7.00% | ~3 |
-| Friend of Grey Dusk Vale | 7.00% | ~3 |
 | Friend of Uram Gor | 7.00% | ~3 |
 | Defeat Raith | 5.00% | ~2 |
 | Fireforge | 5.00% | ~2 |

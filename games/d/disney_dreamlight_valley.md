@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 69.00% | ~8,627 |
-| Photographer | 68.00% | ~8,502 |
-| Valley's Helper | 61.00% | ~7,627 |
-| Constructor | 51.00% | ~6,377 |
-| Renovator | 51.00% | ~6,377 |
-| Bestest Friend | 46.00% | ~5,751 |
-| Banker | 39.00% | ~4,876 |
-| Gardener | 31.00% | ~3,876 |
-| Generous | 25.00% | ~3,126 |
+| Goofy's Investor | 69.00% | ~8,630 |
+| Photographer | 68.00% | ~8,505 |
+| Valley's Helper | 61.00% | ~7,629 |
+| Constructor | 51.00% | ~6,379 |
+| Renovator | 51.00% | ~6,379 |
+| Bestest Friend | 46.00% | ~5,753 |
+| Banker | 39.00% | ~4,878 |
+| Gardener | 31.00% | ~3,877 |
+| Generous | 25.00% | ~3,127 |
 | Chef Cook | 19.00% | ~2,376 |
-| Miner | 10.00% | ~1,250 |
+| Miner | 10.00% | ~1,251 |
 | Duty Bound | 7.00% | ~875 |
 | Angler | 6.00% | ~750 |
 | Thorn Cleaner | 6.00% | ~750 |
 | Chit Chatter | 3.00% | ~375 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,503 (Ranked 161)  
+Progressed: 12,507 (Ranked 161)  
 Completed: 310 (2.48%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,15 +209,15 @@ Completed: 310 (2.48%) (Ranked 123)
 | 2023-12-09 | 12,427 | 303 |
 | 2023-12-10 | 12,460 | 307 |
 | 2023-12-11 | 12,485 | 309 |
-| 2023-12-12 | 12,503 | 310 |
+| 2023-12-12 | 12,507 | 310 |
 ## Awards
 Max (Great for Beginners): 1,113  (Ranked 145)  
-Sum: 8,111 (Ranked 108)  
+Sum: 8,114 (Ranked 108)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,113 |
-| This game has Diverse Characters | 929 |
+| This game has Diverse Characters | 932 |
 | This game is Highly Recommended | 851 |
 | This game has Amazing Characters | 831 |
 | This game is Relaxing | 816 |
@@ -502,3 +502,4 @@ Diff (max vs sum): 37
 | 2023-12-09 | 4.76 | - | 1,110 | 8,081 |
 | 2023-12-10 | 4.76 | - | 1,113 | 8,098 |
 | 2023-12-11 | 4.76 | - | 1,113 | 8,111 |
+| 2023-12-12 | 4.76 | - | 1,113 | 8,114 |

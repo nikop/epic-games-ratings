@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,7 +943,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 665734,
+  "EOS_Progressed": 665735,
   "EOS_Completed": 173,
   "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 1,
@@ -23283,6 +23283,11 @@
       "Time": "2023-12-12T17:09:17.8717991+00:00",
       "NumProgressed": 665734,
       "NumCompleted": 173
+    },
+    {
+      "Time": "2023-12-12T18:08:56.2775038+00:00",
+      "NumProgressed": 665735,
+      "NumCompleted": 173
     }
   ],
   "TotalAchievements": 48,
@@ -23294,7 +23299,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 479328
+      "UsersEstimate": 479329
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -23358,7 +23363,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66573
+      "UsersEstimate": 66574
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -23390,7 +23395,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66573
+      "UsersEstimate": 66574
     },
     {
       "ID": "Achievement_14_Magician",
@@ -23677,15 +23682,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 665734,
+      "Progressed": 665735,
       "Completed": 173
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-12T17:09:17.8717987+00:00",
+  "LastChanged_Achievements": "2023-12-12T18:08:56.2775034+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:06.5520599+00:00",
-  "LastUpdate_Ratings": "2023-12-12T16:59:15.0675173+00:00",
-  "LastUpdate_Achievements": "2023-12-12T17:09:17.8719905+00:00"
+  "LastUpdate_Ratings": "2023-12-12T17:58:36.0240916+00:00",
+  "LastUpdate_Achievements": "2023-12-12T18:08:56.2776153+00:00"
 }

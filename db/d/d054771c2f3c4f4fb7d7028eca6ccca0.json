@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1737,
+  "EOS_Progressed": 1741,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1399,6 +1399,11 @@
       "Time": "2023-12-12T17:06:14.6027309+00:00",
       "NumProgressed": 1737,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T18:05:43.4646307+00:00",
+      "NumProgressed": 1741,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1435,7 +1440,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1515,7 +1520,7 @@
       "Name": "Worthy Badge",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1593,9 +1598,9 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "c167foo",
       "Name": "Personal Sanctuary",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 279
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1786,14 +1791,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1737,
+      "Progressed": 1741,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-12T17:06:14.6027306+00:00",
+  "LastChanged_Achievements": "2023-12-12T18:05:43.46463+00:00",
   "LastUpdate_AppInfo": "2023-12-12T11:56:59.8157094+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:03:08.4988778+00:00",
-  "LastUpdate_Achievements": "2023-12-12T17:06:14.6027815+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:02:51.9475187+00:00",
+  "LastUpdate_Achievements": "2023-12-12T18:05:43.4646706+00:00"
 }

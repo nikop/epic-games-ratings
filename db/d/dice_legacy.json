@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -53,9 +53,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1191,
+  "EOS_Progressed": 1192,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2268,6 +2268,11 @@
       "Time": "2023-12-11T13:13:15.1031285+00:00",
       "NumProgressed": 1191,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T18:06:16.4114178+00:00",
+      "NumProgressed": 1192,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2431,7 +2436,7 @@
       "Name": "Burn and Pillage",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "EXILED_MERCHANT_FRIEND",
@@ -2503,7 +2508,7 @@
       "Name": "We made it",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2511,7 +2516,7 @@
       "Name": "Listening to the crowd",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "TRIPLE_FAIR",
@@ -2638,7 +2643,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1191,
+      "Progressed": 1192,
       "Completed": 0
     }
   ],
@@ -2646,8 +2651,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-11-18T18:58:25.1922744+00:00",
-  "LastChanged_Achievements": "2023-12-12T17:08:11.020985+00:00",
+  "LastChanged_Achievements": "2023-12-12T18:06:16.4114174+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:06.2219482+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:03:20.3690195+00:00",
-  "LastUpdate_Achievements": "2023-12-12T17:08:11.0210367+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:03:02.7142797+00:00",
+  "LastUpdate_Achievements": "2023-12-12T18:06:16.4114557+00:00"
 }

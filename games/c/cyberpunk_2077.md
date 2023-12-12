@@ -6,35 +6,35 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,003 |
-| Gun Fu | 7.00% | ~68,251 |
-| The Fool | 6.00% | ~58,501 |
-| Right Back At Ya | 5.00% | ~48,751 |
-| The Lovers | 5.00% | ~48,751 |
-| Full Body Conversion | 4.00% | ~39,001 |
-| Stanislavski's Method | 4.00% | ~39,001 |
-| The Wheel of Fortune | 4.00% | ~39,001 |
-| True Soldier | 4.00% | ~39,001 |
+| V for Vendetta | 12.00% | ~117,005 |
+| Gun Fu | 7.00% | ~68,253 |
+| The Fool | 6.00% | ~58,502 |
+| Right Back At Ya | 5.00% | ~48,752 |
+| The Lovers | 5.00% | ~48,752 |
+| Full Body Conversion | 4.00% | ~39,002 |
+| Stanislavski's Method | 4.00% | ~39,002 |
+| The Wheel of Fortune | 4.00% | ~39,002 |
+| True Soldier | 4.00% | ~39,002 |
 | Christmas Tree Attack | 3.00% | ~29,251 |
 | The Hermit | 3.00% | ~29,251 |
 | The High Priestess | 3.00% | ~29,251 |
 | Legend of The Afterlife | 3.00% | ~29,251 |
-| Relic Ruler | 3.00% | ~3,109 |
-| All the President's Men | 3.00% | ~3,109 |
-| Arachnophobia | 3.00% | ~3,109 |
-| Bushido and Chill | 2.00% | ~19,500 |
-| Master Crafter | 2.00% | ~19,500 |
-| The Quick and the Dead | 2.00% | ~19,500 |
-| Life of the Road | 2.00% | ~19,500 |
-| The World | 2.00% | ~19,500 |
-| True Warrior | 2.00% | ~19,500 |
+| Relic Ruler | 3.00% | ~3,110 |
+| All the President's Men | 3.00% | ~3,110 |
+| Arachnophobia | 3.00% | ~3,110 |
+| Bushido and Chill | 2.00% | ~19,501 |
+| Master Crafter | 2.00% | ~19,501 |
+| The Quick and the Dead | 2.00% | ~19,501 |
+| Life of the Road | 2.00% | ~19,501 |
+| The World | 2.00% | ~19,501 |
+| True Warrior | 2.00% | ~19,501 |
 | To Protect and Serve | 1.00% | ~9,750 |
 | The Wandering Fool | 1.00% | ~9,750 |
 | I Am The Law | 1.00% | ~9,750 |
 | Two Heads, One Bullet | 1.00% | ~9,750 |
 | Judy vs Night City | 1.00% | ~9,750 |
-| Spin Doctor | 1.00% | ~1,036 |
-| Easy Come, Easy Go | 1.00% | ~1,036 |
+| Spin Doctor | 1.00% | ~1,037 |
+| Easy Come, Easy Go | 1.00% | ~1,037 |
 | King of Wands | 0.90% | ~933 |
 | The Sun | 0.80% | ~7,800 |
 | Dirty Deeds | 0.80% | ~829 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,021 (Ranked 15)  
-Completed: 2,890 (0.30%) (Ranked 240)  
+Progressed: 975,040 (Ranked 15)  
+Completed: 2,891 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -310,21 +310,21 @@ Completed: 2,890 (0.30%) (Ranked 240)
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
-| 2023-12-12 | 975,021 | 2,890 |
+| 2023-12-12 | 975,040 | 2,891 |
 ## Awards
-Max (Character Customization): 121,434  (Ranked 9)  
-Sum: 412,718 (Ranked 9)  
+Max (Character Customization): 121,863  (Ranked 9)  
+Sum: 413,319 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 121,434 |
+| This game has Inclusive Character Customization | 121,863 |
 | This game has Great Boss Battles | 88,701 |
 | This game is Great for Beginners | 25,327 |
 | This game has Diverse Characters | 24,680 |
 | This game is Highly Recommended | 23,644 |
 | This game has Amazing Storytelling | 23,371 |
 | This game is Extremely Fun | 23,105 |
-| This game has Amazing Characters | 22,866 |
+| This game has Amazing Characters | 23,038 |
 | This game has Quickly Understood Controls | 22,118 |
 | This game is Relaxing | 22,083 |
 | This game has a Creative Community | 15,389 |
@@ -658,4 +658,4 @@ Diff (max vs sum): 0
 | 2023-12-09 | 4.66 | - | 120,272 | 405,418 |
 | 2023-12-10 | 4.66 | - | 120,955 | 408,628 |
 | 2023-12-11 | 4.66 | - | 121,434 | 411,235 |
-| 2023-12-12 | 4.66 | - | 121,434 | 412,718 |
+| 2023-12-12 | 4.66 | - | 121,863 | 413,319 |
