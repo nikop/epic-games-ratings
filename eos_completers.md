@@ -19,13 +19,13 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.02% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.00% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
-| 25 | [Doodle Devil](games/d/doodle_devil.md) | 18.60% |
-| 26 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.47% |
+| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.73% |
+| 26 | [Doodle Devil](games/d/doodle_devil.md) | 18.60% |
 | 27 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
 | 27 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
 | 29 | [Island Cities](games/i/island_cities.md) | 16.59% |
@@ -69,7 +69,7 @@
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.88% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.73% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.72% |
 | 71 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
@@ -110,14 +110,14 @@
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 109 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 110 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.92% |
-| 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.87% |
+| 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.86% |
 | 112 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 112 | [Night Book](games/n/night_book.md) | 2.78% |
 | 114 | [Dungeons 4](games/d/dungeons_4.md) | 2.76% |
 | 115 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.75% |
 | 116 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
 | 116 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
-| 118 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.66% |
+| 118 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.65% |
 | 119 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.62% |
 | 120 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.56% |
 | 121 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.50% |
@@ -229,9 +229,9 @@
 | 226 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 226 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.39% |
 | 226 | [Wildermyth](games/w/wildermyth.md) | 0.39% |
+| 230 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.37% |
 | 230 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 230 | [Train Valley](games/t/train_valley.md) | 0.37% |
-| 232 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.36% |
 | 233 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 233 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 235 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
