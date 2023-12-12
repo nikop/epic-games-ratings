@@ -5,7 +5,7 @@
 | 1 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 100.00% |
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
 | 5 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 55.56% |
-| 6 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.82% |
+| 6 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.69% |
 | 7 | [greensheen Production](games/g/greensheen_production.md) | 46.67% |
 | 8 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.53% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.36% |
@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.09% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.08% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -47,7 +47,7 @@
 | 45 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 9.59% |
 | 46 | [Smelter](games/s/smelter.md) | 9.52% |
 | 47 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 48 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.05% |
+| 48 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
 | 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.49% |
 | 50 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
 | 51 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
@@ -97,7 +97,7 @@
 | 95 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
 | 96 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.33% |
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
-| 98 | [Destiny 2](games/d/destiny_2.md) | 3.24% |
+| 98 | [Destiny 2](games/d/destiny_2.md) | 3.25% |
 | 99 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.22% |
 | 100 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 101 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
@@ -110,7 +110,7 @@
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 109 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 110 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.92% |
-| 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.88% |
+| 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.87% |
 | 112 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 112 | [Night Book](games/n/night_book.md) | 2.78% |
 | 114 | [Dungeons 4](games/d/dungeons_4.md) | 2.76% |
@@ -192,7 +192,7 @@
 | 190 | [Haven](games/h/haven.md) | 0.64% |
 | 191 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.63% |
 | 191 | [Dead Space](games/d/dead_space.md) | 0.63% |
-| 193 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.61% |
+| 193 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.62% |
 | 194 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.60% |
 | 194 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.60% |
 | 194 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
