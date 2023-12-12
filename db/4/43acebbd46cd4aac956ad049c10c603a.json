@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,7 +216,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 942,
+  "EOS_Progressed": 943,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -2376,6 +2376,11 @@
       "Time": "2023-12-12T16:06:05.9794381+00:00",
       "NumProgressed": 942,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-12T17:05:31.3085439+00:00",
+      "NumProgressed": 943,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2444,7 +2449,7 @@
       "Name": "Bridge Builder",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ChasingTheLight",
@@ -2522,9 +2527,9 @@
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 28
     },
     {
       "ID": "GoodCitizen",
@@ -2588,7 +2593,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Mnemosyne",
@@ -2642,17 +2647,17 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 189
     },
     {
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 94
     },
     {
       "ID": "PrometheusUnbound",
@@ -2676,7 +2681,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "RenaissanceRobot",
@@ -2859,7 +2864,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 942,
+      "Progressed": 943,
       "Completed": 1
     }
   ],
@@ -2867,8 +2872,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-12T16:06:05.9794378+00:00",
+  "LastChanged_Achievements": "2023-12-12T17:05:31.3085437+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-12T16:00:03.6398139+00:00",
-  "LastUpdate_Achievements": "2023-12-12T16:06:05.9794911+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:59:36.985636+00:00",
+  "LastUpdate_Achievements": "2023-12-12T17:05:31.3086321+00:00"
 }

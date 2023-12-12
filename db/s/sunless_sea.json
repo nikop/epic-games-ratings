@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -772,9 +772,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 42088,
+  "EOS_Progressed": 42090,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24797,6 +24797,11 @@
       "Time": "2023-12-12T16:04:48.6643956+00:00",
       "NumProgressed": 42088,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-12T17:04:30.1201107+00:00",
+      "NumProgressed": 42090,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -25016,7 +25021,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5892
+      "UsersEstimate": 5893
     },
     {
       "ID": "ach_legacysalvager",
@@ -25176,7 +25181,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6313
+      "UsersEstimate": 6314
     },
     {
       "ID": "ach_undercurrent",
@@ -25239,15 +25244,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 42088,
+      "Progressed": 42090,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-05T21:58:32.7550379+00:00",
-  "LastChanged_Achievements": "2023-12-12T16:04:48.6643951+00:00",
+  "LastChanged_Achievements": "2023-12-12T17:04:30.1201103+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:24.6930369+00:00",
-  "LastUpdate_Ratings": "2023-12-12T15:59:17.2590715+00:00",
-  "LastUpdate_Achievements": "2023-12-12T16:04:48.6645452+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:59:02.1506549+00:00",
+  "LastUpdate_Achievements": "2023-12-12T17:04:30.1203209+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1616,9 +1616,9 @@
       "ID": "AchvAssertive",
       "SetID": "1hj060c",
       "Name": "On her own",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 104
     },
     {
       "ID": "AchvBattleScore",
@@ -1839,8 +1839,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-12T16:09:42.8835245+00:00",
+  "LastChanged_Achievements": "2023-12-12T17:09:42.4939356+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.1415487+00:00",
-  "LastUpdate_Ratings": "2023-12-12T15:59:18.7957777+00:00",
-  "LastUpdate_Achievements": "2023-12-12T16:09:42.883548+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:59:03.4054089+00:00",
+  "LastUpdate_Achievements": "2023-12-12T17:09:42.4939649+00:00"
 }

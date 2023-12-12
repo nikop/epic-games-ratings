@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -661,9 +661,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 472148,
+  "EOS_Progressed": 472153,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25101,6 +25101,11 @@
       "Time": "2023-12-12T16:10:42.7352474+00:00",
       "NumProgressed": 472148,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-12T17:10:30.2255276+00:00",
+      "NumProgressed": 472153,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25112,7 +25117,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70822
+      "UsersEstimate": 70823
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -25120,7 +25125,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70822
+      "UsersEstimate": 70823
     },
     {
       "ID": "achievement_first_death",
@@ -25128,7 +25133,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113316
+      "UsersEstimate": 113317
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -25136,7 +25141,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103873
+      "UsersEstimate": 103874
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -25144,7 +25149,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70822
+      "UsersEstimate": 70823
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -25176,7 +25181,7 @@
       "Name": "A Rock in the Dark",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4721
+      "UsersEstimate": 4722
     },
     {
       "ID": "achievement_story_ending_emperor",
@@ -25184,7 +25189,7 @@
       "Name": "Emperor of Misery",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4721
+      "UsersEstimate": 4722
     },
     {
       "ID": "achievement_story_ending_rebecca",
@@ -25192,7 +25197,7 @@
       "Name": "A Frozen Lady",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4721
+      "UsersEstimate": 4722
     },
     {
       "ID": "achievement_story_event_bowie_ended",
@@ -25200,7 +25205,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311618
+      "UsersEstimate": 311621
     },
     {
       "ID": "achievement_story_landa",
@@ -25208,7 +25213,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23607
+      "UsersEstimate": 23608
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -25216,7 +25221,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23607
+      "UsersEstimate": 23608
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -25232,7 +25237,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118037
+      "UsersEstimate": 118038
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -25248,7 +25253,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33050
+      "UsersEstimate": 33051
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -25256,7 +25261,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33050
+      "UsersEstimate": 33051
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -25264,7 +25269,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51936
+      "UsersEstimate": 51937
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -25280,7 +25285,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70822
+      "UsersEstimate": 70823
     },
     {
       "ID": "achievement_story_neon_child",
@@ -25288,7 +25293,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94430
+      "UsersEstimate": 94431
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -25296,7 +25301,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160530
+      "UsersEstimate": 160532
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -25312,7 +25317,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23607
+      "UsersEstimate": 23608
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -25352,7 +25357,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33050
+      "UsersEstimate": 33051
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -25536,7 +25541,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207745
+      "UsersEstimate": 207747
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -25544,7 +25549,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141644
+      "UsersEstimate": 141646
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -25568,7 +25573,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184138
+      "UsersEstimate": 184140
     },
     {
       "ID": "achievement_win_run_hard",
@@ -25584,7 +25589,7 @@
       "Name": "Geno Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14164
+      "UsersEstimate": 14165
     },
     {
       "ID": "achievement_win_run_with_church",
@@ -25592,7 +25597,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23607
+      "UsersEstimate": 23608
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -25600,7 +25605,7 @@
       "Name": "Hammer Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14164
+      "UsersEstimate": 14165
     },
     {
       "ID": "achievement_win_run_with_pirate",
@@ -25608,7 +25613,7 @@
       "Name": "Void Rule",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4721
+      "UsersEstimate": 4722
     },
     {
       "ID": "achievement_win_run_with_scrapper",
@@ -25624,7 +25629,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103873
+      "UsersEstimate": 103874
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -25672,7 +25677,7 @@
       "Name": "Hand of the Emperor",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -25743,21 +25748,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16082,
+      "Progressed": 16087,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472148,
+      "Progressed": 472153,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-12T15:57:42.7726748+00:00",
-  "LastChanged_Achievements": "2023-12-12T16:10:42.7352471+00:00",
+  "LastChanged_Achievements": "2023-12-12T17:10:30.2255272+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.6716506+00:00",
-  "LastUpdate_Ratings": "2023-12-12T15:57:42.7726752+00:00",
-  "LastUpdate_Achievements": "2023-12-12T16:10:42.7353917+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:57:50.8518844+00:00",
+  "LastUpdate_Achievements": "2023-12-12T17:10:30.2257892+00:00"
 }

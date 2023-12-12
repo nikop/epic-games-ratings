@@ -10,7 +10,7 @@ Number of Ratings: 892  (23.09.2022)
 | Iron Chef | 167.00% | ~903 |
 | Super Spelunker | 136.00% | ~736 |
 | Greeno-B-Gone | 129.00% | ~698 |
-| The Little Wood that Could | 117.00% | ~633 |
+| The Little Wood that Could | 118.00% | ~638 |
 | Your Especially Earned Trajectory | 107.00% | ~579 |
 | No Mountain Wide Enough | 86.00% | ~465 |
 | One of the Cool Kids | 86.00% | ~465 |
@@ -29,10 +29,10 @@ Number of Ratings: 892  (23.09.2022)
 | Got Served | 65.00% | ~352 |
 | Builder of the Month | 63.00% | ~341 |
 | Lifeline Pipeline | 63.00% | ~341 |
+| Happier-est Place on Earth | 62.00% | ~335 |
+| You Don't Win Friends With Salad | 62.00% | ~335 |
 | Martle's Dream | 61.00% | ~330 |
-| Happier-est Place on Earth | 61.00% | ~330 |
 | Anti-Santa | 61.00% | ~330 |
-| You Don't Win Friends With Salad | 61.00% | ~330 |
 | Waste Not Want Not | 61.00% | ~330 |
 | Panda-kin | 60.00% | ~325 |
 | Commissions, commissions...! | 60.00% | ~325 |
@@ -40,7 +40,7 @@ Number of Ratings: 892  (23.09.2022)
 | Finishing Touches | 57.00% | ~308 |
 | Better Late than Never | 57.00% | ~308 |
 | What Plants Crave | 57.00% | ~308 |
-| Call Me Fishmael | 56.00% | ~303 |
+| Call Me Fishmael | 57.00% | ~308 |
 | Bridging the Gap | 55.00% | ~298 |
 | Officially Official | 55.00% | ~298 |
 | Knowledge is Power | 53.00% | ~287 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Jack of All Trades | 8.00% | ~43 |
 | Sandrock's Hottest Club | 5.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 541 (Ranked 313)  
+Progressed: 541 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |

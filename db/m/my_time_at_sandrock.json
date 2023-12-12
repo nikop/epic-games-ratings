@@ -5,10 +5,10 @@
   "Ranking_Rating": 258,
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 240,
-  "Ranking_EOS_Progress": 313,
+  "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1844,7 +1844,7 @@
   ],
   "EOS_Progressed": 541,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6383,9 +6383,9 @@
       "ID": "P_FOREST",
       "SetID": "80dcan0",
       "Name": "The Little Wood that Could",
-      "Percentage": 117,
+      "Percentage": 118,
       "XP": 20,
-      "UsersEstimate": 633
+      "UsersEstimate": 638
     },
     {
       "ID": "P_HYDROGEL",
@@ -6455,9 +6455,9 @@
       "ID": "P_THEMEPARK",
       "SetID": "80dcan0",
       "Name": "Happier-est Place on Earth",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 335
     },
     {
       "ID": "P_TUNNEL",
@@ -6615,9 +6615,9 @@
       "ID": "S_WINTERSOLSTICE",
       "SetID": "80dcan0",
       "Name": "You Don\u0027t Win Friends With Salad",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 335
     },
     {
       "ID": "S_YAKMEL",
@@ -6647,9 +6647,9 @@
       "ID": "X_FISH_RARE",
       "SetID": "80dcan0",
       "Name": "Call Me Fishmael",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 308
     },
     {
       "ID": "X_GET_DIAMOND",
@@ -6695,8 +6695,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-12T06:58:45.9294515+00:00",
-  "LastChanged_Achievements": "2023-12-12T16:04:54.4295278+00:00",
+  "LastChanged_Achievements": "2023-12-12T17:04:34.7447233+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:20.3336123+00:00",
-  "LastUpdate_Ratings": "2023-12-12T16:00:12.712429+00:00",
-  "LastUpdate_Achievements": "2023-12-12T16:04:54.4296001+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:59:43.8294065+00:00",
+  "LastUpdate_Achievements": "2023-12-12T17:04:34.7447794+00:00"
 }

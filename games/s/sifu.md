@@ -15,6 +15,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Life is your teacher | 0.70% | ~5,026 |
 | State of constant learning | 0.70% | ~5,026 |
 | Qi Gong: Breath | 0.70% | ~5,026 |
+| Qi Gong: Essence | 0.70% | ~5,026 |
 | Lightning Hands | 0.70% | ~5,026 |
 | Path of the Prospect | 0.70% | ~5,026 |
 | Rumble in the Hangar | 0.70% | ~5,026 |
@@ -23,7 +24,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.60% | ~4,308 |
 | Stuntmaster | 0.60% | ~4,308 |
 | Street Fighting | 0.60% | ~4,308 |
-| Qi Gong: Essence | 0.60% | ~4,308 |
 | Old Child | 0.60% | ~4,308 |
 | Take damage to save time | 0.60% | ~4,308 |
 | Fight the way you practice | 0.60% | ~164 |

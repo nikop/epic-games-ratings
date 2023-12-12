@@ -244,9 +244,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 41926,
+  "EOS_Progressed": 41930,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -25889,6 +25889,11 @@
       "Time": "2023-12-12T16:04:16.7075473+00:00",
       "NumProgressed": 41926,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-12-12T17:04:05.2765187+00:00",
+      "NumProgressed": 41930,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 29,
@@ -25898,9 +25903,9 @@
       "ID": "ACH_01_DIED_MANY_TIMES",
       "SetID": "443p4o4",
       "Name": "A Good Day To Die",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6708
+      "UsersEstimate": 6290
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -25908,7 +25913,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8804
+      "UsersEstimate": 8805
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -25916,7 +25921,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -26076,7 +26081,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -26084,7 +26089,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -26131,7 +26136,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41926,
+      "Progressed": 41930,
       "Completed": 29
     }
   ],
@@ -26139,8 +26144,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-12T16:04:16.707547+00:00",
+  "LastChanged_Achievements": "2023-12-12T17:04:05.2765181+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:15.3748793+00:00",
-  "LastUpdate_Ratings": "2023-12-12T16:00:30.8289315+00:00",
-  "LastUpdate_Achievements": "2023-12-12T16:04:16.7076607+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:59:57.8285681+00:00",
+  "LastUpdate_Achievements": "2023-12-12T17:04:05.2767114+00:00"
 }

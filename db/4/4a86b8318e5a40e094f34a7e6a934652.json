@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1109,9 +1109,9 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 220
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1276,8 +1276,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-12T16:06:44.7640819+00:00",
+  "LastChanged_Achievements": "2023-12-12T17:06:01.7823988+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:02.2533693+00:00",
-  "LastUpdate_Ratings": "2023-12-12T15:59:33.0457993+00:00",
-  "LastUpdate_Achievements": "2023-12-12T16:06:44.7640997+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:59:14.1478006+00:00",
+  "LastUpdate_Achievements": "2023-12-12T17:06:01.7824271+00:00"
 }

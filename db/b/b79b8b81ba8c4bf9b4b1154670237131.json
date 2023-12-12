@@ -137,9 +137,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14981,
+  "EOS_Progressed": 14986,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3407,6 +3407,11 @@
       "Time": "2023-12-12T15:09:38.0337046+00:00",
       "NumProgressed": 14981,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-12T17:09:38.3395927+00:00",
+      "NumProgressed": 14986,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -3419,7 +3424,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5693
+      "UsersEstimate": 5695
     },
     {
       "ID": "ACH_AE_10",
@@ -3427,7 +3432,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "ACH_AE_11",
@@ -3451,7 +3456,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11236
+      "UsersEstimate": 11240
     },
     {
       "ID": "ACH_AE_14",
@@ -3459,7 +3464,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2846
+      "UsersEstimate": 2847
     },
     {
       "ID": "ACH_AE_15",
@@ -3467,7 +3472,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "ACH_AE_16",
@@ -3499,7 +3504,7 @@
       "Name": "Signature Style",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "ACH_AE_2",
@@ -3507,7 +3512,7 @@
       "Name": "Back to School",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     },
     {
       "ID": "ACH_AE_20",
@@ -3515,7 +3520,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "ACH_AE_21",
@@ -3531,7 +3536,7 @@
       "Name": "The High Road",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     },
     {
       "ID": "ACH_AE_23",
@@ -3587,7 +3592,7 @@
       "Name": "Swiped Right",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_AE_3",
@@ -3595,7 +3600,7 @@
       "Name": "Pajama Boy",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "ACH_AE_30",
@@ -3667,7 +3672,7 @@
       "Name": "Betrayal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "ACH_AE_7",
@@ -3683,7 +3688,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "ACH_AE_9",
@@ -3691,14 +3696,14 @@
       "Name": "Paradise Lost",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 14981,
+      "Progressed": 14986,
       "Completed": 15
     }
   ],
@@ -3706,8 +3711,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-12T15:59:38.0346769+00:00",
-  "LastChanged_Achievements": "2023-12-12T16:09:37.8908635+00:00",
-  "LastUpdate_AppInfo": "2023-12-05T16:57:22.7146917+00:00",
-  "LastUpdate_Ratings": "2023-12-12T15:59:38.0346774+00:00",
-  "LastUpdate_Achievements": "2023-12-12T16:09:37.890893+00:00"
+  "LastChanged_Achievements": "2023-12-12T17:09:38.3395923+00:00",
+  "LastUpdate_AppInfo": "2023-12-12T16:57:28.350985+00:00",
+  "LastUpdate_Ratings": "2023-12-12T16:59:18.0958436+00:00",
+  "LastUpdate_Achievements": "2023-12-12T17:09:38.3396358+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "murder-is-game-over-deal-killer-7449bf",
   "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
-    "ReleaseDate": "2024-01-31T00:00:00+00:00",
-    "PcReleaseDate": "2024-01-31T00:00:00+00:00",
+    "ReleaseDate": "2024-03-31T00:00:00+00:00",
+    "PcReleaseDate": "2024-03-31T00:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-08T10:57:06.464211+00:00",
-  "LastUpdate_Ratings": "2023-12-12T15:58:10.6663023+00:00",
-  "LastUpdate_Achievements": "2023-12-12T16:06:42.3828393+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:58:12.6413847+00:00",
+  "LastUpdate_Achievements": "2023-12-12T17:05:59.9087997+00:00"
 }

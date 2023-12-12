@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9606,9 +9606,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126394,
+  "EOS_Progressed": 126404,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 795,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34676,6 +34676,11 @@
       "Time": "2023-12-12T16:09:20.465673+00:00",
       "NumProgressed": 126394,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T17:09:24.5155624+00:00",
+      "NumProgressed": 126404,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34837,9 +34842,9 @@
       "ID": "combat_kill_death",
       "SetID": "64l4lke",
       "Name": "Not Today!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1264
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -34885,9 +34890,9 @@
       "ID": "combat_kill_harvest_child",
       "SetID": "64l4lke",
       "Name": "Meat and Greet",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1138
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -34973,9 +34978,9 @@
       "ID": "driving_biome_clear_cave",
       "SetID": "64l4lke",
       "Name": "Spelunker",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "driving_biome_clear_city",
@@ -35077,9 +35082,9 @@
       "ID": "inn_first_time",
       "SetID": "64l4lke",
       "Name": "A Place to Lay Your Head",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35269,25 +35274,25 @@
       "ID": "hero_story_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Ploughshares to Swords",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "hero_story_complete_duelist",
       "SetID": "d3bcpc8",
       "Name": "Bloody Graduation",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "quest_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Lost and Found",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35318,21 +35323,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126394,
+      "Progressed": 126404,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1263,
+      "Progressed": 1273,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T14:59:27.5428401+00:00",
-  "LastChanged_Achievements": "2023-12-12T16:09:20.4656726+00:00",
+  "LastChanged_Achievements": "2023-12-12T17:09:24.5155619+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T15:59:53.4840856+00:00",
-  "LastUpdate_Achievements": "2023-12-12T16:09:20.4658797+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:59:29.3738525+00:00",
+  "LastUpdate_Achievements": "2023-12-12T17:09:24.5157499+00:00"
 }

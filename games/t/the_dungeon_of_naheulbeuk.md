@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,272 |
-| Alt+F4 | 9.00% | ~21,818 |
+| Sowwy! | 36.00% | ~87,274 |
+| Alt+F4 | 9.00% | ~21,819 |
 | Where's that freaking Dwarf? | 8.00% | ~19,394 |
 | Déjà vu | 7.00% | ~16,970 |
 | A beer, two curses, three companions | 5.00% | ~12,121 |
@@ -21,23 +21,23 @@ Number of Ratings: 118  (23.09.2022)
 | The plot thickens... At the tavern | 3.00% | ~7,273 |
 | The demons' feast | 3.00% | ~7,273 |
 | The Woman in the High Castle | 3.00% | ~7,273 |
-| Shiny and Crôm | 2.00% | ~4,848 |
-| The Great Library | 2.00% | ~4,848 |
-| Torture and Sensibility | 2.00% | ~4,848 |
-| Urik's Depths | 2.00% | ~4,848 |
-| The Dungeon Master | 2.00% | ~4,848 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,848 |
-| Res Judicata | 2.00% | ~4,848 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,848 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,848 |
-| Dwarf Fortress | 2.00% | ~4,848 |
-| Look but don't touch | 2.00% | ~4,848 |
-| The beards of change | 2.00% | ~4,848 |
-| The Ranger of Chaos | 2.00% | ~4,848 |
-| I am the night | 2.00% | ~4,848 |
-| Thieves' Guild Accreditation | 2.00% | ~4,848 |
-| Team Building Exercise | 2.00% | ~4,848 |
-| Oh, when I'll be level 10... | 2.00% | ~4,848 |
+| Shiny and Crôm | 2.00% | ~4,849 |
+| The Great Library | 2.00% | ~4,849 |
+| Torture and Sensibility | 2.00% | ~4,849 |
+| Urik's Depths | 2.00% | ~4,849 |
+| The Dungeon Master | 2.00% | ~4,849 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,849 |
+| Res Judicata | 2.00% | ~4,849 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,849 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,849 |
+| Dwarf Fortress | 2.00% | ~4,849 |
+| Look but don't touch | 2.00% | ~4,849 |
+| The beards of change | 2.00% | ~4,849 |
+| The Ranger of Chaos | 2.00% | ~4,849 |
+| I am the night | 2.00% | ~4,849 |
+| Thieves' Guild Accreditation | 2.00% | ~4,849 |
+| Team Building Exercise | 2.00% | ~4,849 |
+| Oh, when I'll be level 10... | 2.00% | ~4,849 |
 | %#*!$*! | 1.00% | ~2,424 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,424 |
 | Dead for good | 1.00% | ~2,424 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,422 (Ranked 63)  
+Progressed: 242,429 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 7 (0.00%) (Ranked 372)
 | 2023-12-09 | 242,023 | 7 |
 | 2023-12-10 | 242,215 | 7 |
 | 2023-12-11 | 242,333 | 7 |
-| 2023-12-12 | 242,422 | 7 |
+| 2023-12-12 | 242,429 | 7 |
 ## Awards
 Max (Character Customization): 245  (Ranked 273)  
 Sum: 517 (Ranked 326)  

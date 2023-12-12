@@ -2,10 +2,10 @@
   "ID": "974d75969ed043489745f61eb0a25baf",
   "Name": "SteamWorld Build",
   "ProductSlug": "steamworld-build-71ee6c",
-  "Ranking_EOS_Progress": 470,
+  "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79,
+  "EOS_Progressed": 80,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -304,6 +304,11 @@
       "Time": "2023-12-12T10:04:36.3961421+00:00",
       "NumProgressed": 79,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T17:04:37.6370453+00:00",
+      "NumProgressed": 80,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -322,7 +327,7 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
       "UsersEstimate": 53
     },
@@ -330,7 +335,7 @@
       "ID": "Botropolis",
       "SetID": "4bd750m",
       "Name": "Botropolis",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 21
     },
@@ -348,7 +353,7 @@
       "Name": "Conducted Trade",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "DiggingAHole",
@@ -356,21 +361,21 @@
       "Name": "Digging a Hole",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "DopaMiner",
       "SetID": "4bd750m",
       "Name": "Dopa-Miner",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
       "UsersEstimate": 56
     },
@@ -420,7 +425,7 @@
       "Name": "Mathematic",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "MineSweeper",
@@ -466,7 +471,7 @@
       "ID": "SlottingMachine",
       "SetID": "4bd750m",
       "Name": "Slotting Machine",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -498,7 +503,7 @@
       "ID": "Systematic",
       "SetID": "4bd750m",
       "Name": "Systematic",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
       "UsersEstimate": 33
     },
@@ -539,14 +544,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 79,
+      "Progressed": 80,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-12T16:04:58.2529603+00:00",
+  "LastChanged_Achievements": "2023-12-12T17:04:37.637045+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:13.5200104+00:00",
-  "LastUpdate_Ratings": "2023-12-12T16:03:34.1164429+00:00",
-  "LastUpdate_Achievements": "2023-12-12T16:04:58.2529826+00:00"
+  "LastUpdate_Ratings": "2023-12-12T17:03:32.3852171+00:00",
+  "LastUpdate_Achievements": "2023-12-12T17:04:37.637065+00:00"
 }

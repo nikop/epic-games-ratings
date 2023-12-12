@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 3714,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3425,9 +3425,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 17977,
+  "EOS_Progressed": 17982,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": -9,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15475,6 +15475,11 @@
       "Time": "2023-12-12T15:06:50.0296316+00:00",
       "NumProgressed": 17977,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-12T17:08:11.3025135+00:00",
+      "NumProgressed": 17982,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15637,9 +15642,9 @@
       "ID": "WinNearDangerous",
       "SetID": "cfbk359",
       "Name": "Dangerous Lands",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 54
     },
     {
       "ID": "WinNearFertile",
@@ -15685,9 +15690,9 @@
       "ID": "WinNearMines",
       "SetID": "cfbk359",
       "Name": "Flooded Mines",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 90
     },
     {
       "ID": "WinNearMonastery",
@@ -15797,9 +15802,9 @@
       "ID": "WinVeryHard",
       "SetID": "cfbk359",
       "Name": "A Real Challenge",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 126
     },
     {
       "ID": "WinWIthCaches",
@@ -15958,15 +15963,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17977,
+      "Progressed": 17982,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-12T15:59:46.1889637+00:00",
-  "LastChanged_Achievements": "2023-12-12T16:07:48.1461528+00:00",
+  "LastChanged_Achievements": "2023-12-12T17:08:11.302513+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-12T15:59:46.1889642+00:00",
-  "LastUpdate_Achievements": "2023-12-12T16:07:48.1462403+00:00"
+  "LastUpdate_Ratings": "2023-12-12T16:59:24.1570535+00:00",
+  "LastUpdate_Achievements": "2023-12-12T17:08:11.3026522+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~22,012 |
-| Welcome To Hell-A | 3.00% | ~22,012 |
+| Hotel California | 3.00% | ~22,013 |
+| Welcome To Hell-A | 3.00% | ~22,013 |
 | Whatever It Takes | 3.00% | ~1,779 |
 | Pork Chopped | 3.00% | ~1,779 |
 | Dr. Reed, I Presume? | 2.00% | ~14,675 |
@@ -26,26 +26,26 @@ Rating: 4.54 (Ranked 533)
 | Personal Assistant Personally Assisted | 2.00% | ~14,675 |
 | This is My Weapon | 2.00% | ~14,675 |
 | One of Us | 2.00% | ~1,186 |
-| Making Your Mark | 1.00% | ~7,337 |
-| Perks of the Job | 1.00% | ~7,337 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,337 |
-| Slayer Squad | 1.00% | ~7,337 |
-| Zombologist | 1.00% | ~7,337 |
-| Ooh, Shiny! | 1.00% | ~7,337 |
-| Humanity Distilled | 1.00% | ~7,337 |
-| I Am the Resurrection | 1.00% | ~7,337 |
-| Down with the Sickness | 1.00% | ~7,337 |
-| Max Headroom | 1.00% | ~7,337 |
-| Our True Nature | 1.00% | ~7,337 |
+| Making Your Mark | 1.00% | ~7,338 |
+| Perks of the Job | 1.00% | ~7,338 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,338 |
+| Slayer Squad | 1.00% | ~7,338 |
+| Zombologist | 1.00% | ~7,338 |
+| Ooh, Shiny! | 1.00% | ~7,338 |
+| Humanity Distilled | 1.00% | ~7,338 |
+| I Am the Resurrection | 1.00% | ~7,338 |
+| Down with the Sickness | 1.00% | ~7,338 |
+| Max Headroom | 1.00% | ~7,338 |
+| Our True Nature | 1.00% | ~7,338 |
 | Go, Bobcats! | 0.90% | ~6,604 |
 | Rising Star | 0.90% | ~6,604 |
 | Not Even My Final Form | 0.80% | ~5,870 |
 | Jumbo Keyring | 0.80% | ~5,870 |
 | Smorgasbord | 0.70% | ~5,136 |
 | Internet Famous | 0.70% | ~5,136 |
-| Make it So | 0.60% | ~4,402 |
-| On Safari | 0.60% | ~4,402 |
-| Variety is the Spice of Death | 0.60% | ~4,402 |
+| Make it So | 0.60% | ~4,403 |
+| On Safari | 0.60% | ~4,403 |
+| Variety is the Spice of Death | 0.60% | ~4,403 |
 | LA Influential | 0.50% | ~3,669 |
 | Gore Horse | 0.50% | ~3,669 |
 | Sole Survivor | 0.40% | ~2,935 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 533)
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,745 (Ranked 21)  
+Progressed: 733,767 (Ranked 21)  
 Completed: 2,479 (0.34%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,10 +293,10 @@ Completed: 2,479 (0.34%) (Ranked 235)
 | 2023-12-09 | 732,585 | 2,471 |
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
-| 2023-12-12 | 733,745 | 2,479 |
+| 2023-12-12 | 733,767 | 2,479 |
 ## Awards
 Max (Great Boss Battles): 8,094  (Ranked 49)  
-Sum: 12,454 (Ranked 81)  
+Sum: 12,457 (Ranked 81)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -308,7 +308,7 @@ Diff (max vs sum): -32
 | This game has Amazing Storytelling | 526 |
 | This game is Extremely Fun | 513 |
 | This game is Highly Recommended | 508 |
-| This game has Amazing Characters | 472 |
+| This game has Amazing Characters | 475 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -547,4 +547,4 @@ Diff (max vs sum): -32
 | 2023-12-09 | 4.54 | 8,042 | 12,362 |
 | 2023-12-10 | 4.54 | 8,071 | 12,407 |
 | 2023-12-11 | 4.54 | 8,094 | 12,447 |
-| 2023-12-12 | 4.54 | 8,094 | 12,454 |
+| 2023-12-12 | 4.54 | 8,094 | 12,457 |

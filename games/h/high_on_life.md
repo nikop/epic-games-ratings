@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 317)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,676 (Ranked 137)  
+Progressed: 24,677 (Ranked 137)  
 Completed: 14 (0.06%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 14 (0.06%) (Ranked 314)
 | 2023-12-09 | 24,668 | 14 |
 | 2023-12-10 | 24,670 | 14 |
 | 2023-12-11 | 24,675 | 14 |
-| 2023-12-12 | 24,676 | 14 |
+| 2023-12-12 | 24,677 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

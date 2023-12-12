@@ -407,9 +407,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 327825,
+  "EOS_Progressed": 327848,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3462,
+  "EOS_NewPlayers": 3461,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9347,6 +9347,11 @@
       "Time": "2023-12-12T16:07:17.6022595+00:00",
       "NumProgressed": 327825,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-12T17:06:27.6280349+00:00",
+      "NumProgressed": 327848,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9367,7 +9372,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6556
+      "UsersEstimate": 6557
     },
     {
       "ID": "S03_OTWA",
@@ -9431,7 +9436,7 @@
       "Name": "Counting on you",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "S11_MMR6",
@@ -9439,7 +9444,7 @@
       "Name": "This is the end",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "S12_ALL",
@@ -9447,7 +9452,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "S13_ALL_HARD",
@@ -9663,7 +9668,7 @@
       "Name": "I took a risk",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "S40_BONUS",
@@ -9678,7 +9683,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 327825,
+      "Progressed": 327848,
       "Completed": 5
     }
   ],
@@ -9686,8 +9691,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-12T02:24:05.66625+00:00",
-  "LastChanged_Achievements": "2023-12-12T16:07:17.6022591+00:00",
+  "LastChanged_Achievements": "2023-12-12T17:06:27.6280345+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-12T16:01:59.5461081+00:00",
-  "LastUpdate_Achievements": "2023-12-12T16:07:17.6023276+00:00"
+  "LastUpdate_Ratings": "2023-12-12T17:01:05.8171217+00:00",
+  "LastUpdate_Achievements": "2023-12-12T17:06:27.6281426+00:00"
 }

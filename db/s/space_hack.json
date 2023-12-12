@@ -4,8 +4,8 @@
   "ProductSlug": "space-hack-02fd17",
   "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-30T16:00:00+00:00",
     "PcReleaseDate": "2005-11-14T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.2593181+00:00",
   "LastChanged": "2023-03-31T05:57:46.2593182+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.312465+00:00",
-  "LastUpdate_Ratings": "2023-12-12T16:02:13.1075389+00:00",
-  "LastUpdate_Achievements": "2023-12-12T16:09:41.6425171+00:00"
+  "LastUpdate_Ratings": "2023-12-12T17:02:55.7833866+00:00",
+  "LastUpdate_Achievements": "2023-12-12T17:09:41.3321854+00:00"
 }

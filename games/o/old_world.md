@@ -78,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 2.00% | ~315 |
 | Sages | 2.00% | ~315 |
 | Acropolis | 2.00% | ~315 |
+| Circus Maximus | 2.00% | ~315 |
 | Temple of Solomon | 2.00% | ~315 |
 | Mausoleum | 2.00% | ~315 |
 | Learn to Play 3 | 2.00% | ~315 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 1.00% | ~157 |
 | Traders | 1.00% | ~157 |
 | Hittite Iron | 1.00% | ~157 |
-| Circus Maximus | 1.00% | ~157 |
 | Hagia Sophia | 1.00% | ~157 |
 | Church of the Holy Sepulchre | 1.00% | ~157 |
 | Pantheon | 1.00% | ~157 |
@@ -150,9 +150,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.70% | ~110 |
 | Kush | 0.70% | ~110 |
 | Beja Archer | 0.70% | ~110 |
+| Glorious Difficulty | 0.60% | ~94 |
 | Ten Crowns | 0.60% | ~94 |
+| Siege Tower | 0.60% | ~94 |
 | Ancient | 0.50% | ~79 |
-| Glorious Difficulty | 0.50% | ~79 |
 | Magnificent Difficulty | 0.50% | ~79 |
 | The Eternal Treaty | 0.50% | ~79 |
 | Hatti | 0.50% | ~79 |
@@ -161,7 +162,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.50% | ~79 |
 | Capturing Cities | 0.50% | ~79 |
 | Three Man Chariot | 0.50% | ~79 |
-| Siege Tower | 0.50% | ~79 |
 | Conquest Victory | 0.50% | ~79 |
 | Necropolis in Waset | 0.50% | ~79 |
 | Rmt n Kmt Buhen | 0.50% | ~79 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,740 (Ranked 153)  
+Progressed: 15,741 (Ranked 153)  
 Completed: 5 (0.03%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,7 +585,7 @@ Completed: 5 (0.03%) (Ranked 334)
 | 2023-12-09 | 15,699 | 5 |
 | 2023-12-10 | 15,719 | 5 |
 | 2023-12-11 | 15,723 | 5 |
-| 2023-12-12 | 15,740 | 5 |
+| 2023-12-12 | 15,741 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 278)  
 Sum: 1,900 (Ranked 220)  
