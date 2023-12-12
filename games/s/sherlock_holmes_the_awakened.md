@@ -10,8 +10,8 @@ Rating: 4.68 (Ranked 258)
 | High Profile | 55.00% | ~613 |
 | Whispers In The Dark | 52.00% | ~580 |
 | Fond Memories | 50.00% | ~558 |
-| A Method To His Madness | 47.00% | ~524 |
-| History Check | 46.00% | ~513 |
+| A Method To His Madness | 48.00% | ~535 |
+| History Check | 47.00% | ~524 |
 | The New World | 44.00% | ~491 |
 | Gaze Into The Abyss | 43.00% | ~479 |
 | Lock, Stock, And Barrel | 42.00% | ~468 |

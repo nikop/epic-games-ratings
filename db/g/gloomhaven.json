@@ -2645,9 +2645,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 25910,
+  "EOS_Progressed": 25911,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1214,
+  "EOS_NewPlayers": 1212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12690,6 +12690,11 @@
       "Time": "2023-12-12T05:09:46.7603767+00:00",
       "NumProgressed": 25910,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-12T07:08:29.1651101+00:00",
+      "NumProgressed": 25911,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -12878,7 +12883,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3886
+      "UsersEstimate": 3887
     },
     {
       "ID": "Achievement_Trophy24",
@@ -12886,7 +12891,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10623
+      "UsersEstimate": 10624
     },
     {
       "ID": "Achievement_Trophy25",
@@ -12902,7 +12907,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8809
+      "UsersEstimate": 8810
     },
     {
       "ID": "Achievement_Trophy27",
@@ -12918,7 +12923,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 8550
+      "UsersEstimate": 8551
     },
     {
       "ID": "Achievement_Trophy29",
@@ -13086,7 +13091,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3886
+      "UsersEstimate": 3887
     },
     {
       "ID": "Achievement_Trophy50",
@@ -13189,7 +13194,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 25910,
+      "Progressed": 25911,
       "Completed": 1
     }
   ],
@@ -13197,8 +13202,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-12T01:47:51.3395701+00:00",
-  "LastChanged_Achievements": "2023-12-12T06:09:17.8905982+00:00",
+  "LastChanged_Achievements": "2023-12-12T07:08:29.1651098+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:42.7229324+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:00:58.4994926+00:00",
-  "LastUpdate_Achievements": "2023-12-12T06:09:17.8906842+00:00"
+  "LastUpdate_Ratings": "2023-12-12T06:59:31.9762338+00:00",
+  "LastUpdate_Achievements": "2023-12-12T07:08:29.1651825+00:00"
 }

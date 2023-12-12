@@ -6,7 +6,7 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,247 |
+| Genin | 12.00% | ~26,248 |
 | A thief's beginning | 10.00% | ~21,873 |
 | Thorough | 10.00% | ~21,873 |
 | Disguised | 9.00% | ~19,686 |
@@ -22,9 +22,9 @@ Number of Ratings: 495  (23.09.2022)
 | Flying Rocks | 6.00% | ~13,124 |
 | Mugen Unchained | 6.00% | ~13,124 |
 | Warzone | 6.00% | ~13,124 |
-| Okkoto | 5.00% | ~10,936 |
-| Prisoners | 5.00% | ~10,936 |
-| Too Early | 5.00% | ~10,936 |
+| Okkoto | 5.00% | ~10,937 |
+| Prisoners | 5.00% | ~10,937 |
+| Too Early | 5.00% | ~10,937 |
 | Gear up | 4.00% | ~8,749 |
 | Happy little accidents | 4.00% | ~8,749 |
 | Noboru | 4.00% | ~8,749 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~219 |
 | Release the Kraken | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,728 (Ranked 72)  
+Progressed: 218,731 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 100 (0.05%) (Ranked 322)
 | 2023-12-09 | 218,323 | 100 |
 | 2023-12-10 | 218,536 | 100 |
 | 2023-12-11 | 218,692 | 100 |
-| 2023-12-12 | 218,728 | 100 |
+| 2023-12-12 | 218,731 | 100 |
 ## Awards
 Max (Great for Beginners): 583  (Ranked 201)  
 Sum: 4,902 (Ranked 144)  

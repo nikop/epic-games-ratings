@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -575,9 +575,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43275,
+  "EOS_Progressed": 43276,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 832,
+  "EOS_NewPlayers": 827,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -10295,6 +10295,11 @@
       "Time": "2023-12-12T06:09:23.62389+00:00",
       "NumProgressed": 43275,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-12-12T07:08:33.2525956+00:00",
+      "NumProgressed": 43276,
+      "NumCompleted": 202
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -10467,7 +10472,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22503
+      "UsersEstimate": 22504
     },
     {
       "ID": "ACH_PEAK",
@@ -10483,7 +10488,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "ACH_REDEND",
@@ -10499,7 +10504,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 29427
+      "UsersEstimate": 29428
     },
     {
       "ID": "ACH_S4",
@@ -10523,7 +10528,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 32456
+      "UsersEstimate": 32457
     },
     {
       "ID": "ACH_STATUE",
@@ -10531,22 +10536,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 18608
+      "UsersEstimate": 18609
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 43275,
+      "Progressed": 43276,
       "Completed": 202
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-07T07:57:07.2452699+00:00",
-  "LastChanged_Achievements": "2023-12-12T06:09:23.6238896+00:00",
+  "LastChanged_Achievements": "2023-12-12T07:08:33.2525952+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.6550495+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:01:08.7330207+00:00",
-  "LastUpdate_Achievements": "2023-12-12T06:09:23.623954+00:00"
+  "LastUpdate_Ratings": "2023-12-12T06:59:38.6263401+00:00",
+  "LastUpdate_Achievements": "2023-12-12T07:08:33.2526436+00:00"
 }

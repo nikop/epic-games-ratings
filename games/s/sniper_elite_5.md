@@ -5,13 +5,13 @@ Rating: 4.44 (Ranked 681)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,881 |
-| Confirming Suspicions | 41.00% | ~1,641 |
+| Meeting Resistance | 47.00% | ~1,882 |
+| Confirming Suspicions | 41.00% | ~1,642 |
 | The Kraken Wakes | 37.00% | ~1,481 |
 | It's Starting to Crack | 34.00% | ~1,361 |
 | Lord of War | 31.00% | ~1,241 |
 | Change the Channel | 31.00% | ~1,241 |
-| Taking it back | 30.00% | ~1,201 |
+| Taking it back | 29.00% | ~1,161 |
 | Resourceful | 27.00% | ~1,081 |
 | Target America | 27.00% | ~1,081 |
 | The Kraken Sleeps | 25.00% | ~1,001 |
@@ -24,16 +24,16 @@ Rating: 4.44 (Ranked 681)
 | Climbing the Ladder | 17.00% | ~681 |
 | Just a Flesh Wound | 17.00% | ~681 |
 | Der Geist | 17.00% | ~681 |
-| Close Quarters | 16.00% | ~640 |
-| Snake in the Grass | 16.00% | ~640 |
-| Brains of the Operation | 16.00% | ~640 |
-| No Stone Unturned | 15.00% | ~600 |
-| Skirmisher | 15.00% | ~600 |
-| Die Nussknacker Sweet! | 15.00% | ~600 |
-| Opposing Force | 14.00% | ~560 |
-| Enemy at the Gates | 14.00% | ~560 |
-| Fields of Glory | 14.00% | ~560 |
-| Set Europe Ablaze | 13.00% | ~520 |
+| Close Quarters | 16.00% | ~641 |
+| Snake in the Grass | 16.00% | ~641 |
+| Brains of the Operation | 16.00% | ~641 |
+| No Stone Unturned | 15.00% | ~601 |
+| Skirmisher | 15.00% | ~601 |
+| Die Nussknacker Sweet! | 15.00% | ~601 |
+| Opposing Force | 14.00% | ~561 |
+| Enemy at the Gates | 14.00% | ~561 |
+| Fields of Glory | 14.00% | ~561 |
+| Set Europe Ablaze | 13.00% | ~521 |
 | Precision Is Key | 10.00% | ~400 |
 | My Little Friend | 10.00% | ~400 |
 | Rigged to Blow | 9.00% | ~360 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 681)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,003 (Ranked 199)  
+Progressed: 4,004 (Ranked 199)  
 Completed: 11 (0.27%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,6 +311,7 @@ Completed: 11 (0.27%) (Ranked 246)
 | 2023-12-09 | 3,996 | 11 |
 | 2023-12-10 | 3,999 | 11 |
 | 2023-12-11 | 4,003 | 11 |
+| 2023-12-12 | 4,004 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 508)  
 Sum: 28 (Ranked 524)  

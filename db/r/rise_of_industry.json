@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 758680,
+  "EOS_Progressed": 758684,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1550,
+  "EOS_NewPlayers": 1551,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27386,6 +27386,11 @@
       "Time": "2023-12-12T06:04:26.7542294+00:00",
       "NumProgressed": 758680,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-12T07:03:32.6395779+00:00",
+      "NumProgressed": 758684,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -27461,7 +27466,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 280712
+      "UsersEstimate": 280713
     },
     {
       "ID": "ach_demolish_trees",
@@ -27525,7 +27530,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 364166
+      "UsersEstimate": 364168
     },
     {
       "ID": "ach_produced",
@@ -27533,7 +27538,7 @@
       "Name": "Apprentice Manufacturer",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 98628
+      "UsersEstimate": 98629
     },
     {
       "ID": "ach_products_moved",
@@ -27557,7 +27562,7 @@
       "Name": "Salesman",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 22760
+      "UsersEstimate": 22761
     },
     {
       "ID": "ach_sell_to_state",
@@ -27565,7 +27570,7 @@
       "Name": "Exporter",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 98628
+      "UsersEstimate": 98629
     },
     {
       "ID": "ach_setup_route_boat",
@@ -27581,7 +27586,7 @@
       "Name": "Railwayman",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 60694
+      "UsersEstimate": 60695
     },
     {
       "ID": "ach_setup_route_zepplin",
@@ -27605,14 +27610,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 144149
+      "UsersEstimate": 144150
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 758680,
+      "Progressed": 758684,
       "Completed": 4
     }
   ],
@@ -27620,8 +27625,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-12-01T16:00:20.573033+00:00",
-  "LastChanged_Achievements": "2023-12-12T06:04:26.754229+00:00",
+  "LastChanged_Achievements": "2023-12-12T07:03:32.6395772+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:52.124546+00:00",
-  "LastUpdate_Ratings": "2023-12-12T05:58:13.1655398+00:00",
-  "LastUpdate_Achievements": "2023-12-12T06:04:26.7543828+00:00"
+  "LastUpdate_Ratings": "2023-12-12T06:57:41.9757682+00:00",
+  "LastUpdate_Achievements": "2023-12-12T07:03:32.6397114+00:00"
 }

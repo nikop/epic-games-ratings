@@ -32,7 +32,7 @@ Rating: 4.50 (Ranked 599)
 | Catch! | 42.00% | ~4,048 |
 | They're Probably Fine | 40.00% | ~3,855 |
 | Han Slowlo | 39.00% | ~3,759 |
-| There Is No Try | 38.00% | ~3,662 |
+| There Is No Try | 39.00% | ~3,759 |
 | The Jedi Path | 33.00% | ~3,181 |
 | This Is Canon | 30.00% | ~2,891 |
 | It's a Trap | 27.00% | ~2,602 |

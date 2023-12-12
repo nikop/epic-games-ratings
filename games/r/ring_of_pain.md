@@ -68,6 +68,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Who Needs Luck? | 0.30% | ~7 |
 | Achievement Hunter | 0.20% | ~482 |
 | Challenge Increases | 0.20% | ~482 |
+| A Long Climb | 0.20% | ~482 |
 | New Game+ | 0.20% | ~482 |
 | Barbecue | 0.20% | ~482 |
 | Soul Stash | 0.20% | ~482 |
@@ -88,7 +89,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.20% | ~5 |
 | Quick Descent | 0.10% | ~241 |
 | A Week Attempt | 0.10% | ~241 |
-| A Long Climb | 0.10% | ~241 |
 | Hydrophobe | 0.10% | ~241 |
 | Disposal | 0.10% | ~241 |
 | Dead Revels | 0.10% | ~241 |

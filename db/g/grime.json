@@ -1651,9 +1651,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162213,
+  "EOS_Progressed": 162218,
   "EOS_Completed": 295,
-  "EOS_NewPlayers": 917,
+  "EOS_NewPlayers": 921,
   "EOS_NewCompleters": 101,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -18891,6 +18891,11 @@
       "Time": "2023-12-12T06:06:33.1919207+00:00",
       "NumProgressed": 162213,
       "NumCompleted": 295
+    },
+    {
+      "Time": "2023-12-12T07:05:01.542501+00:00",
+      "NumProgressed": 162218,
+      "NumCompleted": 295
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18951,7 +18956,7 @@
       "Name": "The Hunt",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -19173,9 +19178,9 @@
       "ID": "MISC_REACHMAXARDOR",
       "SetID": "ccc0dlh",
       "Name": "Ravenous",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 973
+      "UsersEstimate": 1136
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -19270,21 +19275,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161796,
+      "Progressed": 161801,
       "Completed": 1235
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162213,
+      "Progressed": 162218,
       "Completed": 295
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-10T17:57:49.4464039+00:00",
-  "LastChanged_Achievements": "2023-12-12T06:06:33.1919203+00:00",
+  "LastChanged_Achievements": "2023-12-12T07:05:01.5425007+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-12T05:59:29.2014085+00:00",
-  "LastUpdate_Achievements": "2023-12-12T06:06:33.1920252+00:00"
+  "LastUpdate_Ratings": "2023-12-12T06:58:31.2400803+00:00",
+  "LastUpdate_Achievements": "2023-12-12T07:05:01.5425958+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,975 |
+| V for Vendetta | 12.00% | ~116,977 |
 | Gun Fu | 7.00% | ~68,236 |
 | The Fool | 6.00% | ~58,488 |
 | Right Back At Ya | 5.00% | ~48,740 |
 | The Lovers | 5.00% | ~48,740 |
 | Full Body Conversion | 4.00% | ~38,992 |
 | Stanislavski's Method | 4.00% | ~38,992 |
+| The Wheel of Fortune | 4.00% | ~38,992 |
 | True Soldier | 4.00% | ~38,992 |
 | Christmas Tree Attack | 3.00% | ~29,244 |
 | The Hermit | 3.00% | ~29,244 |
-| The Wheel of Fortune | 3.00% | ~29,244 |
 | Relic Ruler | 3.00% | ~3,103 |
 | All the President's Men | 3.00% | ~3,103 |
 | Arachnophobia | 3.00% | ~3,103 |
@@ -40,9 +40,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Dirty Deeds | 0.80% | ~827 |
 | To Bad Decisions! | 0.70% | ~6,824 |
 | Ten out of Ten | 0.70% | ~6,824 |
+| Breathtaking | 0.60% | ~5,849 |
 | The Star | 0.60% | ~5,849 |
 | Autojock | 0.50% | ~4,874 |
-| Breathtaking | 0.50% | ~4,874 |
 | The APB is Not Enough | 0.50% | ~517 |
 | Judgement Day | 0.50% | ~517 |
 | King of Swords | 0.50% | ~517 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974,794 (Ranked 15)  
+Progressed: 974,806 (Ranked 15)  
 Completed: 2,887 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 2,887 (0.30%) (Ranked 240)
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
-| 2023-12-12 | 974,794 | 2,887 |
+| 2023-12-12 | 974,806 | 2,887 |
 ## Awards
 Max (Character Customization): 121,434  (Ranked 9)  
 Sum: 411,438 (Ranked 9)  

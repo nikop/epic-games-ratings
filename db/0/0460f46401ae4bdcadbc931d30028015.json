@@ -927,9 +927,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4133,
+  "EOS_Progressed": 4135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6977,6 +6977,11 @@
       "Time": "2023-12-12T06:05:00.0655851+00:00",
       "NumProgressed": 4133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T07:03:56.1542215+00:00",
+      "NumProgressed": 4135,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -7005,7 +7010,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "achievement_12",
@@ -7013,7 +7018,7 @@
       "Name": "Dealmaker",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "achievement_13",
@@ -7021,7 +7026,7 @@
       "Name": "MVP",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "achievement_14",
@@ -7075,9 +7080,9 @@
       "ID": "achievement_2",
       "SetID": "aiin7da",
       "Name": "Unblockable",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 372
+      "UsersEstimate": 414
     },
     {
       "ID": "achievement_20",
@@ -7085,7 +7090,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2440
     },
     {
       "ID": "achievement_21",
@@ -7117,7 +7122,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "achievement_6",
@@ -7149,14 +7154,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4133,
+      "Progressed": 4135,
       "Completed": 0
     }
   ],
@@ -7164,8 +7169,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-11T22:59:04.3127286+00:00",
-  "LastChanged_Achievements": "2023-12-12T06:05:00.0655846+00:00",
+  "LastChanged_Achievements": "2023-12-12T07:03:56.1542212+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:00:40.3368507+00:00",
-  "LastUpdate_Achievements": "2023-12-12T06:05:00.065632+00:00"
+  "LastUpdate_Ratings": "2023-12-12T06:59:19.4645727+00:00",
+  "LastUpdate_Achievements": "2023-12-12T07:03:56.1542615+00:00"
 }

@@ -3630,7 +3630,7 @@
   ],
   "EOS_Progressed": 240909,
   "EOS_Completed": 295,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28021,9 +28021,9 @@
       "ID": "DEPTH12HARD",
       "SetID": "5l8oe0h",
       "Name": "A Long Climb",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 482
     },
     {
       "ID": "DEPTH12MEDIUM",
@@ -29036,8 +29036,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-12T01:46:54.057672+00:00",
-  "LastChanged_Achievements": "2023-12-12T06:10:33.1906842+00:00",
+  "LastChanged_Achievements": "2023-12-12T07:09:27.3301521+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-12T05:59:29.5705339+00:00",
-  "LastUpdate_Achievements": "2023-12-12T06:10:33.190965+00:00"
+  "LastUpdate_Ratings": "2023-12-12T06:58:31.5951209+00:00",
+  "LastUpdate_Achievements": "2023-12-12T07:09:27.330396+00:00"
 }

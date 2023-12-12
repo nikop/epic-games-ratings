@@ -6,14 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 2.00% | ~23 |
+| Malpractice Assurance | 3.00% | ~35 |
 | This guy... again? | 1.00% | ~12 |
 | This Belongs in a Museum | 0.90% | ~1,137 |
-| Catch and Decease | 0.80% | ~1,010 |
+| Catch and Decease | 0.80% | ~1,011 |
+| Escape from the Black Hole | 0.80% | ~1,011 |
 | Not Today! | 0.70% | ~884 |
 | Meat and Greet | 0.70% | ~884 |
 | Overdue Notice | 0.70% | ~884 |
-| Escape from the Black Hole | 0.70% | ~884 |
 | Creep and Sleep | 0.60% | ~758 |
 | Bloody Graduation | 0.60% | ~7 |
 | Autodidact | 0.50% | ~632 |
@@ -21,6 +21,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Don't Make Me Turn This Coach Around | 0.30% | ~379 |
 | Serenity Now! | 0.30% | ~379 |
 | Dissector | 0.30% | ~379 |
+| Deprogramming | 0.30% | ~379 |
 | Rush Hour | 0.30% | ~379 |
 | To Grandmother's House | 0.30% | ~379 |
 | A Place to Lay Your Head | 0.30% | ~379 |
@@ -37,7 +38,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hope Rekindled | 0.20% | ~253 |
 | Predator | 0.20% | ~253 |
 | Banishment | 0.20% | ~253 |
-| Deprogramming | 0.20% | ~253 |
 | Ichthyophobic | 0.20% | ~253 |
 | Now Stay Dead | 0.20% | ~253 |
 | No More Mouths to Feed | 0.20% | ~253 |
@@ -49,8 +49,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 0.20% | ~253 |
 | A Clear Conscience | 0.20% | ~253 |
 | Whale | 0.20% | ~253 |
+| When You Want Something Done Right | 0.20% | ~253 |
 | Unshackled | 0.20% | ~253 |
 | Hot Air | 0.20% | ~253 |
+| Eyes Up | 0.20% | ~253 |
 | Road Trip | 0.20% | ~253 |
 | A Life Well Lived | 0.10% | ~126 |
 | The World As It Was | 0.10% | ~126 |
@@ -65,11 +67,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Tears in the Rain | 0.10% | ~126 |
 | Shrine of Reflection | 0.10% | ~126 |
 | Triage | 0.10% | ~126 |
-| When You Want Something Done Right | 0.10% | ~126 |
 | Worldly Traveller | 0.10% | ~126 |
 | Utopia | 0.10% | ~126 |
 | Eidetic | 0.10% | ~126 |
-| Eyes Up | 0.10% | ~126 |
 | Handled | 0.10% | ~126 |
 | Body of Work | 0.10% | ~126 |
 | Grand Slam | 0.10% | ~126 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,304 (Ranked 84)  
+Progressed: 126,313 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
-| 2023-12-12 | 126,304 | 2 |
+| 2023-12-12 | 126,313 | 2 |
 ## Awards
 Max (Character Customization): 7,622  (Ranked 52)  
 Sum: 20,137 (Ranked 59)  

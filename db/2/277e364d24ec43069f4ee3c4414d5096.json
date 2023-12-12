@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116450,
+  "EOS_Progressed": 116451,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20964,6 +20964,11 @@
       "Time": "2023-12-12T06:10:08.8631695+00:00",
       "NumProgressed": 116450,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-12T07:09:05.919598+00:00",
+      "NumProgressed": 116451,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20983,7 +20988,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89666
+      "UsersEstimate": 89667
     },
     {
       "ID": "EAwards_10",
@@ -21023,7 +21028,7 @@
       "Name": "6-Piece Combo",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "EAwards_15",
@@ -21047,7 +21052,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43086
+      "UsersEstimate": 43087
     },
     {
       "ID": "EAwards_18",
@@ -21055,7 +21060,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10480
+      "UsersEstimate": 10481
     },
     {
       "ID": "EAwards_19",
@@ -21207,7 +21212,7 @@
       "Name": "Nacho Libre",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10480
+      "UsersEstimate": 10481
     },
     {
       "ID": "EAwards_36",
@@ -21247,7 +21252,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15138
+      "UsersEstimate": 15139
     },
     {
       "ID": "EAwards_40",
@@ -21335,7 +21340,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10480
+      "UsersEstimate": 10481
     },
     {
       "ID": "EAwards_7",
@@ -21366,7 +21371,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116450,
+      "Progressed": 116451,
       "Completed": 51
     }
   ],
@@ -21374,8 +21379,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-12T06:10:08.8631691+00:00",
+  "LastChanged_Achievements": "2023-12-12T07:09:05.9195975+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.236213+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:02:04.4211324+00:00",
-  "LastUpdate_Achievements": "2023-12-12T06:10:08.8632791+00:00"
+  "LastUpdate_Ratings": "2023-12-12T07:00:15.7480853+00:00",
+  "LastUpdate_Achievements": "2023-12-12T07:09:05.9197362+00:00"
 }

@@ -12324,9 +12324,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 55467,
+  "EOS_Progressed": 55468,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 660,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -34139,6 +34139,11 @@
       "Time": "2023-12-12T06:07:58.2443844+00:00",
       "NumProgressed": 55467,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-12T07:06:02.1080424+00:00",
+      "NumProgressed": 55468,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -34358,7 +34363,7 @@
       "Name": "Hard work pays off",
       "Percentage": 51,
       "XP": 55,
-      "UsersEstimate": 28288
+      "UsersEstimate": 28289
     },
     {
       "ID": "NumBeehives",
@@ -34374,7 +34379,7 @@
       "Name": "I like to switch it up",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 21632
+      "UsersEstimate": 21633
     },
     {
       "ID": "NumPlaceables",
@@ -34422,7 +34427,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 31616
+      "UsersEstimate": 31617
     },
     {
       "ID": "Sow",
@@ -34454,7 +34459,7 @@
       "Name": "Field Trip",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 23296
+      "UsersEstimate": 23297
     },
     {
       "ID": "TruckDriving",
@@ -34486,22 +34491,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7765
+      "UsersEstimate": 7766
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 55467,
+      "Progressed": 55468,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-12-12T01:46:18.0317181+00:00",
-  "LastChanged_Achievements": "2023-12-12T06:07:58.244384+00:00",
+  "LastChanged_Achievements": "2023-12-12T07:06:02.108042+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:21.0443716+00:00",
-  "LastUpdate_Ratings": "2023-12-12T05:58:34.8280812+00:00",
-  "LastUpdate_Achievements": "2023-12-12T06:07:58.2445362+00:00"
+  "LastUpdate_Ratings": "2023-12-12T06:57:56.3105658+00:00",
+  "LastUpdate_Achievements": "2023-12-12T07:06:02.1081406+00:00"
 }
