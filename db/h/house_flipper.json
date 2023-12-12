@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2145,7 +2145,7 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 21489,
+  "EOS_Progressed": 21490,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -11225,6 +11225,11 @@
       "Time": "2023-12-12T19:05:58.7318758+00:00",
       "NumProgressed": 21489,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-12T20:05:39.8032134+00:00",
+      "NumProgressed": 21490,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -11268,7 +11273,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "EstateAgent",
@@ -11284,7 +11289,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20415
+      "UsersEstimate": 20416
     },
     {
       "ID": "GameOver",
@@ -11419,15 +11424,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21489,
+      "Progressed": 21490,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-10T14:57:24.5394548+00:00",
-  "LastChanged_Achievements": "2023-12-12T19:05:58.731875+00:00",
+  "LastChanged_Achievements": "2023-12-12T20:05:39.8032124+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:23.2037957+00:00",
-  "LastUpdate_Ratings": "2023-12-12T18:58:22.7470089+00:00",
-  "LastUpdate_Achievements": "2023-12-12T19:05:58.7319275+00:00"
+  "LastUpdate_Ratings": "2023-12-12T19:58:15.8780049+00:00",
+  "LastUpdate_Achievements": "2023-12-12T20:05:39.8032758+00:00"
 }

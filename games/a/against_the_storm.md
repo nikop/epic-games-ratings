@@ -20,10 +20,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 1.00% | ~180 |
 | Fertile Meadows | 1.00% | ~180 |
 | Royal Outpost | 1.00% | ~180 |
+| Watchtower | 1.00% | ~180 |
 | Coral Forest | 1.00% | ~180 |
 | The Marshlands | 1.00% | ~180 |
 | The Scarlet Orchard | 1.00% | ~180 |
-| Watchtower | 0.90% | ~162 |
 | Homesick | 0.80% | ~144 |
 | Lost Colonies | 0.80% | ~144 |
 | Bandit Camp | 0.70% | ~126 |
@@ -33,11 +33,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Barren Lands | 0.60% | ~108 |
 | Levitating Monument | 0.60% | ~108 |
 | Corrosive Torrent | 0.60% | ~108 |
+| Cursed Lands | 0.60% | ~108 |
 | Trade Baron | 0.60% | ~108 |
 | Ancient Battleground | 0.50% | ~90 |
 | Flooded Mines | 0.50% | ~90 |
 | Statue of the Forefathers | 0.50% | ~90 |
-| Cursed Lands | 0.50% | ~90 |
 | Against All Odds | 0.40% | ~72 |
 | Sparkdew Crystals | 0.40% | ~72 |
 | Haunted Forest | 0.40% | ~72 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,989 (Ranked 147)  
+Progressed: 17,990 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 40 (0.22%) (Ranked 255)
 | 2023-12-09 | 17,808 | 43 |
 | 2023-12-10 | 17,908 | 43 |
 | 2023-12-11 | 17,957 | 41 |
-| 2023-12-12 | 17,989 | 40 |
+| 2023-12-12 | 17,990 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 226)  
 Sum: 3,255 (Ranked 175)  

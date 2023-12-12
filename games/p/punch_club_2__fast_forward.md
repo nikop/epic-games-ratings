@@ -54,18 +54,18 @@
 | Gang wrangler | 37.00% | ~135 |
 | Undercover robot | 37.00% | ~135 |
 | Problems of cyborgs | 36.00% | ~131 |
+| Not little hacker | 36.00% | ~131 |
 | Absolute Champion! | 36.00% | ~131 |
-| Not little hacker | 35.00% | ~127 |
+| The lonesome road | 35.00% | ~127 |
+| The heart of the Resistance | 35.00% | ~127 |
 | Your own way | 35.00% | ~127 |
 | Trap disarmed | 34.00% | ~124 |
 | Another world | 34.00% | ~124 |
-| The lonesome road | 34.00% | ~124 |
 | Keep nature safe | 34.00% | ~124 |
 | Family comes first | 34.00% | ~124 |
 | Key memories | 34.00% | ~124 |
 | Careerist | 34.00% | ~124 |
 | Anyone can resist | 34.00% | ~124 |
-| The heart of the Resistance | 34.00% | ~124 |
 | The last bell ring | 32.00% | ~116 |
 | Better cooking at home | 31.00% | ~113 |
 | The only right decision | 31.00% | ~113 |

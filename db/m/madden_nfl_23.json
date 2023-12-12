@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -919,9 +919,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3951,
+  "EOS_Progressed": 3953,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6974,6 +6974,11 @@
       "Time": "2023-12-12T19:04:19.1227359+00:00",
       "NumProgressed": 3951,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T20:04:01.6325422+00:00",
+      "NumProgressed": 3953,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6994,7 +6999,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "achievement_11",
@@ -7010,7 +7015,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "achievement_13",
@@ -7018,7 +7023,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "achievement_14",
@@ -7026,7 +7031,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "achievement_15",
@@ -7034,7 +7039,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2135
     },
     {
       "ID": "achievement_16",
@@ -7042,7 +7047,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "achievement_17",
@@ -7098,7 +7103,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "achievement_4",
@@ -7153,7 +7158,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3951,
+      "Progressed": 3953,
       "Completed": 0
     }
   ],
@@ -7161,8 +7166,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-12T01:51:23.6885803+00:00",
-  "LastChanged_Achievements": "2023-12-12T19:04:19.1227352+00:00",
+  "LastChanged_Achievements": "2023-12-12T20:04:01.6325419+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:06.4979086+00:00",
-  "LastUpdate_Ratings": "2023-12-12T19:02:36.1157886+00:00",
-  "LastUpdate_Achievements": "2023-12-12T19:04:19.1228132+00:00"
+  "LastUpdate_Ratings": "2023-12-12T20:02:38.4468547+00:00",
+  "LastUpdate_Achievements": "2023-12-12T20:04:01.6325927+00:00"
 }

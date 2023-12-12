@@ -11815,10 +11815,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 50538,
       "NumberOfAwardsMax": 25134
+    },
+    {
+      "Time": "2023-12-12T19:59:57.7504313+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50540,
+      "NumberOfAwardsMax": 25134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50538,
+  "NumberOfAwards": 50540,
   "NumberOfAwardsMax": 25134,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11880,7 +11886,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1360
+      "Count": 1362
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11895,9 +11901,9 @@
       "Count": 852
     }
   ],
-  "EOS_Progressed": 304252,
+  "EOS_Progressed": 304253,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -37180,6 +37186,11 @@
       "Time": "2023-12-12T19:05:32.0314226+00:00",
       "NumProgressed": 304252,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-12T20:05:13.5649943+00:00",
+      "NumProgressed": 304253,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37550,16 +37561,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304252,
+      "Progressed": 304253,
       "Completed": 525
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-12T17:59:57.8557308+00:00",
-  "LastChanged_Achievements": "2023-12-12T19:05:32.0314221+00:00",
+  "LastChanged": "2023-12-12T19:59:57.7504311+00:00",
+  "LastChanged_Achievements": "2023-12-12T20:05:13.564994+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-12T19:00:02.6448463+00:00",
-  "LastUpdate_Achievements": "2023-12-12T19:05:32.0315586+00:00"
+  "LastUpdate_Ratings": "2023-12-12T19:59:57.7504316+00:00",
+  "LastUpdate_Achievements": "2023-12-12T20:05:13.5651055+00:00"
 }

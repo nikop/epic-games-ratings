@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 960,
+  "EOS_Progressed": 961,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.73,
+  "EOS_Completed_Percentage": 5.72,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3845,6 +3845,11 @@
       "Time": "2023-12-12T15:04:20.4902772+00:00",
       "NumProgressed": 960,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-12-12T20:03:19.7693371+00:00",
+      "NumProgressed": 961,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 25,
@@ -3912,7 +3917,7 @@
       "Name": "Free at last",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "META_RESULT_1-4",
@@ -3960,15 +3965,15 @@
       "Name": "Rascal",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 211
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -4055,14 +4060,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 960,
+      "Progressed": 961,
       "Completed": 55
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-12T19:03:37.1156675+00:00",
+  "LastChanged_Achievements": "2023-12-12T20:03:19.7693368+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-12T18:58:05.7378092+00:00",
-  "LastUpdate_Achievements": "2023-12-12T19:03:37.1156956+00:00"
+  "LastUpdate_Ratings": "2023-12-12T19:58:00.260984+00:00",
+  "LastUpdate_Achievements": "2023-12-12T20:03:19.7693639+00:00"
 }

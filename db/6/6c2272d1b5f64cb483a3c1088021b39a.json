@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1250,
+  "EOS_Progressed": 1251,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -4409,6 +4409,11 @@
       "Time": "2023-12-12T10:10:44.6483377+00:00",
       "NumProgressed": 1250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T20:09:13.4404468+00:00",
+      "NumProgressed": 1251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4452,7 +4457,7 @@
       "Name": "Archmage 2",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "archmage_3",
@@ -4468,7 +4473,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "call_of_mana_2",
@@ -4476,7 +4481,7 @@
       "Name": "Call of Mana 2",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "call_of_mana_3",
@@ -4500,7 +4505,7 @@
       "Name": "Catacombs Raid 2",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "catacombs_raid_3",
@@ -4508,7 +4513,7 @@
       "Name": "Catacombs Raid 3",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "collector_1",
@@ -4556,7 +4561,7 @@
       "Name": "Conqueror 3",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "diehard_1",
@@ -4588,7 +4593,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "elemental_stones_2",
@@ -4604,7 +4609,7 @@
       "Name": "Elemental stones 3",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "elite_deck_1",
@@ -4628,7 +4633,7 @@
       "Name": "Elite Deck 3",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "from_day_to_day_1",
@@ -4636,7 +4641,7 @@
       "Name": "From Day to Day 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "from_day_to_day_2",
@@ -4660,7 +4665,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "glitter_of_gold_2",
@@ -4668,7 +4673,7 @@
       "Name": "Glitter of Gold 2",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "glitter_of_gold_3",
@@ -4740,7 +4745,7 @@
       "Name": "Lord of the Tower 2",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "lord_of_the_tower_3",
@@ -4756,7 +4761,7 @@
       "Name": "Nimble Thief 1",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "nimble_thief_2",
@@ -4772,7 +4777,7 @@
       "Name": "Nimble Thief 3",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "obsessed_carver_1",
@@ -4788,7 +4793,7 @@
       "Name": "Obsessed Carver 2",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "obsessed_carver_3",
@@ -4804,7 +4809,7 @@
       "Name": "Punctual 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "punctual_2",
@@ -4812,7 +4817,7 @@
       "Name": "Punctual 2",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "punctual_3",
@@ -4860,7 +4865,7 @@
       "Name": "Soul Shards 2",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "soul_shards_3",
@@ -4884,7 +4889,7 @@
       "Name": "Stronghold 2",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "stronghold_3",
@@ -4947,14 +4952,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1250,
+      "Progressed": 1251,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-12T19:09:40.2128669+00:00",
+  "LastChanged_Achievements": "2023-12-12T20:09:13.4404466+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.95796+00:00",
-  "LastUpdate_Ratings": "2023-12-12T18:57:40.9409408+00:00",
-  "LastUpdate_Achievements": "2023-12-12T19:09:40.2129302+00:00"
+  "LastUpdate_Ratings": "2023-12-12T19:57:35.4890405+00:00",
+  "LastUpdate_Achievements": "2023-12-12T20:09:13.4405144+00:00"
 }

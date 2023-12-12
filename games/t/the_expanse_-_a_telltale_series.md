@@ -5,7 +5,7 @@ Rating: 4.53 (Ranked 546)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,089 |
+| Oyedang, Kopengs | 13.00% | ~2,090 |
 | The Pit and the Pirates | 8.00% | ~1,286 |
 | Bosmang | 8.00% | ~1,286 |
 | Celebrations are in Order | 8.00% | ~1,286 |
@@ -29,8 +29,8 @@ Rating: 4.53 (Ranked 546)
 | Doctor Approved | 3.00% | ~482 |
 | Bottoms up! | 3.00% | ~482 |
 | Miraculous Maya | 3.00% | ~482 |
-| Data Logger | 2.00% | ~321 |
-| Data Master | 2.00% | ~321 |
+| Data Logger | 2.00% | ~322 |
+| Data Master | 2.00% | ~322 |
 | Brother's Reaper | 1.00% | ~161 |
 | No Belter Left Behind | 1.00% | ~161 |
 | Debris Spree | 1.00% | ~161 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 546)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,072 (Ranked 152)  
+Progressed: 16,075 (Ranked 152)  
 Completed: 42 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 42 (0.26%) (Ranked 249)
 | 2023-12-09 | 16,020 | 42 |
 | 2023-12-10 | 16,041 | 42 |
 | 2023-12-11 | 16,062 | 42 |
-| 2023-12-12 | 16,072 | 42 |
+| 2023-12-12 | 16,075 | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

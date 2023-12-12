@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 59584,
+  "EOS_Progressed": 59586,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1442,
+  "EOS_NewPlayers": 1439,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12978,6 +12978,11 @@
       "Time": "2023-12-12T19:04:13.9999259+00:00",
       "NumProgressed": 59584,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-12T20:03:56.5551777+00:00",
+      "NumProgressed": 59586,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -13102,7 +13107,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 13108
+      "UsersEstimate": 13109
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -13174,7 +13179,7 @@
       "Name": "Herbalist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "HERBS_3",
@@ -13342,7 +13347,7 @@
       "Name": "Water",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "WOLF",
@@ -13366,7 +13371,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 9533
+      "UsersEstimate": 9534
     },
     {
       "ID": "ZNATKOST_2",
@@ -13389,15 +13394,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 59584,
+      "Progressed": 59586,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-12T19:04:13.9999253+00:00",
+  "LastChanged_Achievements": "2023-12-12T20:03:56.5551772+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:06.7954209+00:00",
-  "LastUpdate_Ratings": "2023-12-12T19:00:27.8656051+00:00",
-  "LastUpdate_Achievements": "2023-12-12T19:04:14.0000663+00:00"
+  "LastUpdate_Ratings": "2023-12-12T20:00:21.5358625+00:00",
+  "LastUpdate_Achievements": "2023-12-12T20:03:56.5552731+00:00"
 }

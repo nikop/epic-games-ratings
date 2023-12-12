@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4553,9 +4553,9 @@
       "Count": 400
     }
   ],
-  "EOS_Progressed": 12290,
+  "EOS_Progressed": 12291,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16723,6 +16723,11 @@
       "Time": "2023-12-12T13:15:24.7813786+00:00",
       "NumProgressed": 12290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T20:09:01.9942069+00:00",
+      "NumProgressed": 12291,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16734,7 +16739,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     },
     {
       "ID": "02_BurningCity",
@@ -16806,7 +16811,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "11_PathOfAeon",
@@ -16862,7 +16867,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "18_MythicChoices",
@@ -16918,7 +16923,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "25_MasterfulDispell",
@@ -16982,7 +16987,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -17078,7 +17083,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "46_AllPathsOpen",
@@ -17110,7 +17115,7 @@
       "Name": "A Flame",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -17158,7 +17163,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "56_GetToad",
@@ -17166,7 +17171,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "57_PathOfDevil",
@@ -17661,21 +17666,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11072,
+      "Progressed": 11073,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12290,
+      "Progressed": 12291,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-11T22:59:59.3228172+00:00",
-  "LastChanged_Achievements": "2023-12-12T19:09:29.5330189+00:00",
+  "LastChanged_Achievements": "2023-12-12T20:09:01.9942064+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-12T18:57:21.4805764+00:00",
-  "LastUpdate_Achievements": "2023-12-12T19:09:29.5331716+00:00"
+  "LastUpdate_Ratings": "2023-12-12T19:57:15.2752763+00:00",
+  "LastUpdate_Achievements": "2023-12-12T20:09:01.9943592+00:00"
 }

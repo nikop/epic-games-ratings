@@ -13,12 +13,12 @@ Number of Ratings: 281  (23.09.2022)
 | More Fish in the Sea | 4.00% | ~271 |
 | Scaling up | 4.00% | ~271 |
 | Ready to Rod and Roll | 3.00% | ~203 |
-| Fish Out of Water | 2.00% | ~135 |
-| Things that go Splash in the Night | 2.00% | ~135 |
-| License to Gill | 2.00% | ~135 |
-| Goldfish? | 2.00% | ~135 |
-| Going for Gold | 2.00% | ~135 |
-| School's Out for Summer | 2.00% | ~135 |
+| Fish Out of Water | 2.00% | ~136 |
+| Things that go Splash in the Night | 2.00% | ~136 |
+| License to Gill | 2.00% | ~136 |
+| Goldfish? | 2.00% | ~136 |
+| Going for Gold | 2.00% | ~136 |
+| School's Out for Summer | 2.00% | ~136 |
 | I'm Hooked! | 1.00% | ~68 |
 | Marathon | 0.60% | ~41 |
 | Diamond in the Rough | 0.60% | ~41 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,774 (Ranked 184)  
+Progressed: 6,775 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,17 +283,17 @@ Completed: 0 (0.00%) (Ranked 372)
 | 2023-12-09 | 6,760 | 0 |
 | 2023-12-10 | 6,762 | 0 |
 | 2023-12-11 | 6,766 | 0 |
-| 2023-12-12 | 6,774 | 0 |
+| 2023-12-12 | 6,775 | 0 |
 ## Awards
 Max (Relaxing): 38  (Ranked 469)  
-Sum: 199 (Ranked 403)  
+Sum: 200 (Ranked 403)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 38 |
+| This game is Highly Recommended | 36 |
 | This game is Great for Beginners | 36 |
 | This game has Amazing Storytelling | 35 |
-| This game is Highly Recommended | 35 |
 | This game is Extremely Fun | 31 |
 | This game has Quickly Understood Controls | 24 |
 ## Ratings History
@@ -394,3 +394,4 @@ Diff (max vs sum): 66
 | 2023-11-25 | 4.20 | - | 37 | 197 |
 | 2023-11-28 | 4.20 | - | 37 | 198 |
 | 2023-12-05 | 4.20 | - | 38 | 199 |
+| 2023-12-12 | 4.20 | - | 38 | 200 |

@@ -6,22 +6,22 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,007 |
-| Gun Fu | 7.00% | ~68,254 |
-| The Fool | 6.00% | ~58,503 |
-| Right Back At Ya | 5.00% | ~48,753 |
-| The Lovers | 5.00% | ~48,753 |
-| Full Body Conversion | 4.00% | ~39,002 |
-| Stanislavski's Method | 4.00% | ~39,002 |
-| The Wheel of Fortune | 4.00% | ~39,002 |
-| True Soldier | 4.00% | ~39,002 |
+| V for Vendetta | 12.00% | ~117,009 |
+| Gun Fu | 7.00% | ~68,255 |
+| The Fool | 6.00% | ~58,504 |
+| Right Back At Ya | 5.00% | ~48,754 |
+| The Lovers | 5.00% | ~48,754 |
+| Full Body Conversion | 4.00% | ~39,003 |
+| Stanislavski's Method | 4.00% | ~39,003 |
+| The Wheel of Fortune | 4.00% | ~39,003 |
+| True Soldier | 4.00% | ~39,003 |
 | Christmas Tree Attack | 3.00% | ~29,252 |
 | The Hermit | 3.00% | ~29,252 |
 | The High Priestess | 3.00% | ~29,252 |
 | Legend of The Afterlife | 3.00% | ~29,252 |
-| Relic Ruler | 3.00% | ~3,110 |
-| All the President's Men | 3.00% | ~3,110 |
-| Arachnophobia | 3.00% | ~3,110 |
+| Relic Ruler | 3.00% | ~3,111 |
+| All the President's Men | 3.00% | ~3,111 |
+| Arachnophobia | 3.00% | ~3,111 |
 | Bushido and Chill | 2.00% | ~19,501 |
 | Master Crafter | 2.00% | ~19,501 |
 | The Quick and the Dead | 2.00% | ~19,501 |
@@ -36,10 +36,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 1.00% | ~1,037 |
 | Easy Come, Easy Go | 1.00% | ~1,037 |
 | King of Wands | 0.90% | ~933 |
-| The Sun | 0.80% | ~7,800 |
-| Dirty Deeds | 0.80% | ~829 |
-| To Bad Decisions! | 0.70% | ~6,825 |
-| Ten out of Ten | 0.70% | ~6,825 |
+| The Sun | 0.80% | ~7,801 |
+| Dirty Deeds | 0.80% | ~830 |
+| To Bad Decisions! | 0.70% | ~6,826 |
+| Ten out of Ten | 0.70% | ~6,826 |
 | Breathtaking | 0.60% | ~5,850 |
 | The Star | 0.60% | ~5,850 |
 | Autojock | 0.50% | ~4,875 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,055 (Ranked 15)  
+Progressed: 975,073 (Ranked 15)  
 Completed: 2,891 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 2,891 (0.30%) (Ranked 240)
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
-| 2023-12-12 | 975,055 | 2,891 |
+| 2023-12-12 | 975,073 | 2,891 |
 ## Awards
 Max (Character Customization): 121,863  (Ranked 9)  
 Sum: 413,493 (Ranked 9)  

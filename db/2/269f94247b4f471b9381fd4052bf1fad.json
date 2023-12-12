@@ -2,10 +2,10 @@
   "ID": "269f94247b4f471b9381fd4052bf1fad",
   "Name": "Born of Bread",
   "ProductSlug": "born-of-bread-008e66",
-  "Ranking_EOS_Progress": 583,
+  "Ranking_EOS_Progress": 578,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
@@ -114,6 +114,11 @@
       "Time": "2023-12-11T01:54:47.0148685+00:00",
       "NumProgressed": 18,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T20:06:14.9795385+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T15:04:34.1379111+00:00",
@@ -124,7 +129,7 @@
       "ID": "ACH_ARCHEOLOGIST",
       "SetID": "6lg1p1e",
       "Name": "Archeologist",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -132,7 +137,7 @@
       "ID": "ACH_ATLAS",
       "SetID": "6lg1p1e",
       "Name": "Atlas",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -140,7 +145,7 @@
       "ID": "ACH_BARGAIN-HUNTER",
       "SetID": "6lg1p1e",
       "Name": "Bargain Hunter",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -148,7 +153,7 @@
       "ID": "ACH_BEACHED",
       "SetID": "6lg1p1e",
       "Name": "Beached",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -156,7 +161,7 @@
       "ID": "ACH_BIG-BROTHER",
       "SetID": "6lg1p1e",
       "Name": "Big Brother",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -164,7 +169,7 @@
       "ID": "ACH_BREAD-AND-BREAKFAST",
       "SetID": "6lg1p1e",
       "Name": "Bread and Breakfast",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -204,7 +209,7 @@
       "ID": "ACH_FIRST-PAYCHECK",
       "SetID": "6lg1p1e",
       "Name": "First Paycheck",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -212,7 +217,7 @@
       "ID": "ACH_FRIENEMY",
       "SetID": "6lg1p1e",
       "Name": "Frienemy",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -220,7 +225,7 @@
       "ID": "ACH_GOTTA-PET-THEM-ALL",
       "SetID": "6lg1p1e",
       "Name": "Gotta Pet Them All",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -228,7 +233,7 @@
       "ID": "ACH_HEART-OF-THE-CARDS",
       "SetID": "6lg1p1e",
       "Name": "Heart of the Cards",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -236,7 +241,7 @@
       "ID": "ACH_HELPFUL-BREAD",
       "SetID": "6lg1p1e",
       "Name": "Helpful Bread",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -244,7 +249,7 @@
       "ID": "ACH_HOUSE-ARREST",
       "SetID": "6lg1p1e",
       "Name": "House Arrest",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -276,9 +281,9 @@
       "ID": "ACH_MISCHIEVOUS-BREAD",
       "SetID": "6lg1p1e",
       "Name": "Mischievous Bread",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_MYSTERY-SOLVED",
@@ -308,9 +313,9 @@
       "ID": "ACH_PARTNER",
       "SetID": "6lg1p1e",
       "Name": "Partner",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_PHOTOGRAPHIC-MEMORY",
@@ -324,7 +329,7 @@
       "ID": "ACH_PHYSIOLOGUS",
       "SetID": "6lg1p1e",
       "Name": "Physiologus",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -340,7 +345,7 @@
       "ID": "ACH_PRO-EXCAVATOR",
       "SetID": "6lg1p1e",
       "Name": "Pro Excavator",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -348,7 +353,7 @@
       "ID": "ACH_PROPERTY-DAMAGE",
       "SetID": "6lg1p1e",
       "Name": "Property Damage",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -364,7 +369,7 @@
       "ID": "ACH_RATATOUIED",
       "SetID": "6lg1p1e",
       "Name": "Ratatouied",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -372,7 +377,7 @@
       "ID": "ACH_ROYAL-PARDON",
       "SetID": "6lg1p1e",
       "Name": "Royal Pardon",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -396,7 +401,7 @@
       "ID": "ACH_WHACK-A-MOLE",
       "SetID": "6lg1p1e",
       "Name": "Whack-a-mole",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -404,7 +409,7 @@
       "ID": "ACH_ZEN-MASTER",
       "SetID": "6lg1p1e",
       "Name": "Zen Master",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 3
     }
@@ -413,14 +418,14 @@
     {
       "ID": "6lg1p1e",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-12T19:07:46.0947846+00:00",
+  "LastChanged_Achievements": "2023-12-12T20:06:14.9795382+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.6928375+00:00",
-  "LastUpdate_Ratings": "2023-12-12T18:58:57.4735678+00:00",
-  "LastUpdate_Achievements": "2023-12-12T19:07:46.0948057+00:00"
+  "LastUpdate_Ratings": "2023-12-12T19:58:50.4593278+00:00",
+  "LastUpdate_Achievements": "2023-12-12T20:06:14.9795625+00:00"
 }

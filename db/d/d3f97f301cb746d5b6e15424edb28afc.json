@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3146,9 +3146,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1062
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -3322,9 +3322,9 @@
       "ID": "GSS_ACH_23_LOCKPICKING_03",
       "SetID": "5fn8ia4",
       "Name": "Just Checking!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 398
     },
     {
       "ID": "GSS_ACH_25_DENNIS",
@@ -3803,8 +3803,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-12T19:06:16.1659931+00:00",
+  "LastChanged_Achievements": "2023-12-12T20:05:56.6992652+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-12T18:59:43.8260813+00:00",
-  "LastUpdate_Achievements": "2023-12-12T19:06:16.1660727+00:00"
+  "LastUpdate_Ratings": "2023-12-12T19:59:38.2107924+00:00",
+  "LastUpdate_Achievements": "2023-12-12T20:05:56.6993454+00:00"
 }

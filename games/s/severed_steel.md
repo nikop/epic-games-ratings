@@ -5,25 +5,25 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 31.00% | ~212,477 |
-| 50 HEADSHOTS | 29.00% | ~198,769 |
-| SCIENCE AND INDUSTRY | 28.00% | ~191,915 |
-| FINISHED CHAPTER 1 | 27.00% | ~185,061 |
-| FINISHED CHAPTER 2 | 20.00% | ~137,082 |
-| 200 HEADSHOTS | 18.00% | ~123,374 |
-| FINISHED CHAPTER 3 | 17.00% | ~116,520 |
-| FINISHED CHAPTER 4 | 14.00% | ~95,957 |
-| FINISH CHAPTER 5 | 12.00% | ~82,249 |
-| CATHARTIC ESCAPISM | 11.00% | ~75,395 |
-| FINISH CHAPTER 6 | 10.00% | ~68,541 |
-| 1000 KILLS | 9.00% | ~61,687 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,416 |
+| 100 KILLS | 31.00% | ~212,468 |
+| 50 HEADSHOTS | 29.00% | ~198,760 |
+| SCIENCE AND INDUSTRY | 28.00% | ~191,907 |
+| FINISHED CHAPTER 1 | 27.00% | ~185,053 |
+| FINISHED CHAPTER 2 | 20.00% | ~137,076 |
+| 200 HEADSHOTS | 18.00% | ~123,369 |
+| FINISHED CHAPTER 3 | 17.00% | ~116,515 |
+| FINISHED CHAPTER 4 | 14.00% | ~95,953 |
+| FINISH CHAPTER 5 | 12.00% | ~82,246 |
+| CATHARTIC ESCAPISM | 11.00% | ~75,392 |
+| FINISH CHAPTER 6 | 10.00% | ~68,538 |
+| 1000 KILLS | 9.00% | ~61,684 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,415 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,708 |
 | FIRST BLOOD | 2.00% | ~13,708 |
 | PACEMAKER | 1.00% | ~6,854 |
 | TIME PARADOX | 1.00% | ~6,854 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~6,169 |
-| OUT OF ORDER | 0.90% | ~6,169 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~6,168 |
+| OUT OF ORDER | 0.90% | ~6,168 |
 | PARTYHARD | 0.80% | ~5,483 |
 | NEW GAME PLUS | 0.70% | ~4,798 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,427 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 232)
 | THE GAMBLER | 0.10% | ~685 |
 | WARRIOR IN A GARDEN | 0.10% | ~685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,410 (Ranked 27)  
+Progressed: 685,381 (Ranked 27)  
 Completed: 74 (0.01%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,12 +296,12 @@ Completed: 74 (0.01%) (Ranked 349)
 | 2023-12-11 | 686,327 | 74 |
 | 2023-12-12 | 685,838 | 74 |
 ## Awards
-Max (Great Boss Battles): 436  (Ranked 229)  
-Sum: 457 (Ranked 338)  
+Max (Great Boss Battles): 439  (Ranked 228)  
+Sum: 460 (Ranked 337)  
 Diff (max vs sum): -109  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 436 |
+| This game has Great Boss Battles | 439 |
 | This game is Great for Beginners | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -442,3 +442,4 @@ Diff (max vs sum): -109
 | 2023-12-09 | 4.69 | 430 | 451 |
 | 2023-12-10 | 4.69 | 433 | 454 |
 | 2023-12-11 | 4.69 | 436 | 457 |
+| 2023-12-12 | 4.69 | 439 | 460 |

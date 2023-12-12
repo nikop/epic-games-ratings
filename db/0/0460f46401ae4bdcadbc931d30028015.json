@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -927,9 +927,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4139,
+  "EOS_Progressed": 4140,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6992,6 +6992,11 @@
       "Time": "2023-12-12T18:04:32.5815732+00:00",
       "NumProgressed": 4139,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T20:04:05.4270717+00:00",
+      "NumProgressed": 4140,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -7036,7 +7041,7 @@
       "Name": "MVP",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "achievement_14",
@@ -7100,7 +7105,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2442
+      "UsersEstimate": 2443
     },
     {
       "ID": "achievement_21",
@@ -7132,7 +7137,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "achievement_6",
@@ -7171,7 +7176,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4139,
+      "Progressed": 4140,
       "Completed": 0
     }
   ],
@@ -7179,8 +7184,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-11T22:59:04.3127286+00:00",
-  "LastChanged_Achievements": "2023-12-12T19:04:22.9934128+00:00",
+  "LastChanged_Achievements": "2023-12-12T20:04:05.427071+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-12T18:59:40.8350791+00:00",
-  "LastUpdate_Achievements": "2023-12-12T19:04:22.9934649+00:00"
+  "LastUpdate_Ratings": "2023-12-12T19:59:35.2431665+00:00",
+  "LastUpdate_Achievements": "2023-12-12T20:04:05.4271183+00:00"
 }

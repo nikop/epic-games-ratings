@@ -153,6 +153,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.60% | ~94 |
 | Ten Crowns | 0.60% | ~94 |
 | Siege Tower | 0.60% | ~94 |
+| Bronze Victory (Carthage 1) | 0.50% | ~79 |
 | Ancient | 0.50% | ~79 |
 | Magnificent Difficulty | 0.50% | ~79 |
 | The Eternal Treaty | 0.50% | ~79 |
@@ -166,7 +167,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.50% | ~79 |
 | Rmt n Kmt Buhen | 0.50% | ~79 |
 | Greater Kmt Unified | 0.50% | ~79 |
-| Bronze Victory (Carthage 1) | 0.40% | ~63 |
 | Silver Victory (Carthage 1) | 0.40% | ~63 |
 | Carthage - Riches and Influence | 0.40% | ~63 |
 | Five Routs | 0.40% | ~63 |

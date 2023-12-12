@@ -17,16 +17,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Lost and Found | 1.00% | ~13 |
 | Creep and Sleep | 0.90% | ~1,138 |
 | Meat and Greet | 0.90% | ~1,138 |
-| Autodidact | 0.80% | ~1,011 |
+| Autodidact | 0.90% | ~1,138 |
 | Serenity Now! | 0.50% | ~632 |
 | Rush Hour | 0.50% | ~632 |
 | To Grandmother's House | 0.50% | ~632 |
+| FNG | 0.50% | ~632 |
 | Don't Make Me Turn This Coach Around | 0.40% | ~506 |
 | It Rings a Bell | 0.40% | ~506 |
 | Dissector | 0.40% | ~506 |
+| Banishment | 0.40% | ~506 |
 | Deprogramming | 0.40% | ~506 |
 | A Place to Lay Your Head | 0.40% | ~506 |
-| FNG | 0.40% | ~506 |
 | Nope | 0.40% | ~506 |
 | Resurrection | 0.30% | ~379 |
 | Unleash Hell | 0.30% | ~379 |
@@ -36,9 +37,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Boxcar Kid | 0.30% | ~379 |
 | Unfulfilled Desires | 0.30% | ~379 |
 | Predator | 0.30% | ~379 |
-| Banishment | 0.30% | ~379 |
 | Ichthyophobic | 0.30% | ~379 |
 | Now Stay Dead | 0.30% | ~379 |
+| No More Mouths to Feed | 0.30% | ~379 |
 | Reverse Banditry | 0.30% | ~379 |
 | It Happens | 0.30% | ~379 |
 | Spelunker | 0.30% | ~379 |
@@ -49,18 +50,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 0.30% | ~379 |
 | Unshackled | 0.30% | ~379 |
 | Road Trip | 0.30% | ~379 |
+| Slap on the Wrist | 0.30% | ~4 |
 | Ploughshares to Swords | 0.30% | ~4 |
 | Friends 'Til the End | 0.30% | ~4 |
 | This Looks Familiar | 0.20% | ~253 |
 | Hope Rekindled | 0.20% | ~253 |
-| No More Mouths to Feed | 0.20% | ~253 |
 | When You Want Something Done Right | 0.20% | ~253 |
 | Utopia | 0.20% | ~253 |
 | Hot Air | 0.20% | ~253 |
 | Eyes Up | 0.20% | ~253 |
+| Handled | 0.20% | ~253 |
 | Body of Work | 0.20% | ~253 |
 | Maître De La Lame | 0.20% | ~3 |
-| Slap on the Wrist | 0.20% | ~3 |
 | Et Tu, Riposte? | 0.20% | ~3 |
 | A Life Well Lived | 0.10% | ~126 |
 | The World As It Was | 0.10% | ~126 |
@@ -77,7 +78,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 0.10% | ~126 |
 | The Clash | 0.10% | ~126 |
 | Eidetic | 0.10% | ~126 |
-| Handled | 0.10% | ~126 |
 | Grand Slam | 0.10% | ~126 |
 | Hard Mode | 0.10% | ~126 |
 | Battle Hardened | 0.10% | ~1 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.10% | ~1 |
 | On This Long Road, We Found Redemption | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,426 (Ranked 84)  
+Progressed: 126,437 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,10 +312,10 @@ Completed: 2 (0.00%) (Ranked 372)
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
-| 2023-12-12 | 126,426 | 2 |
+| 2023-12-12 | 126,437 | 2 |
 ## Awards
 Max (Character Customization): 7,622  (Ranked 52)  
-Sum: 20,210 (Ranked 59)  
+Sum: 20,221 (Ranked 59)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -327,7 +327,7 @@ Diff (max vs sum): -7
 | This game is Extremely Fun | 1,424 |
 | This game has Amazing Storytelling | 1,358 |
 | This game has Unique Visuals | 1,337 |
-| This game has Quickly Understood Controls | 1,321 |
+| This game has Quickly Understood Controls | 1,332 |
 | This game has a Creative Community | 998 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -652,4 +652,4 @@ Diff (max vs sum): -7
 | 2023-12-09 | 4.68 | - | 7,572 | 20,019 |
 | 2023-12-10 | 4.68 | - | 7,578 | 20,042 |
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
-| 2023-12-12 | 4.68 | - | 7,622 | 20,210 |
+| 2023-12-12 | 4.68 | - | 7,622 | 20,221 |

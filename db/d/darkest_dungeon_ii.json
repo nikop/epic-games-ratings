@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9532,10 +9532,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20210,
       "NumberOfAwardsMax": 7622
+    },
+    {
+      "Time": "2023-12-12T19:58:48.3219199+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20221,
+      "NumberOfAwardsMax": 7622
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20210,
+  "NumberOfAwards": 20221,
   "NumberOfAwardsMax": 7622,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9573,7 +9579,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1321
+      "Count": 1332
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9612,9 +9618,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126426,
+  "EOS_Progressed": 126437,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 820,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34697,6 +34703,11 @@
       "Time": "2023-12-12T19:08:23.0198868+00:00",
       "NumProgressed": 126426,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T20:08:16.43921+00:00",
+      "NumProgressed": 126437,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34850,9 +34861,9 @@
       "ID": "combat_kill_cosmic",
       "SetID": "64l4lke",
       "Name": "Banishment",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "combat_kill_death",
@@ -34898,9 +34909,9 @@
       "ID": "combat_kill_gentry",
       "SetID": "64l4lke",
       "Name": "No More Mouths to Feed",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -35058,9 +35069,9 @@
       "ID": "hero_skill_mastery_five",
       "SetID": "64l4lke",
       "Name": "Autodidact",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1138
     },
     {
       "ID": "hero_story_complete_all",
@@ -35114,9 +35125,9 @@
       "ID": "inn_replacement_hero_add",
       "SetID": "64l4lke",
       "Name": "FNG",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 632
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35186,9 +35197,9 @@
       "ID": "run_victory_act04",
       "SetID": "64l4lke",
       "Name": "Handled",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 253
     },
     {
       "ID": "run_victory_act05",
@@ -35274,9 +35285,9 @@
       "ID": "combat_land_riposte_dmg_threshold_duelist",
       "SetID": "d3bcpc8",
       "Name": "Slap on the Wrist",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -35339,21 +35350,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126426,
+      "Progressed": 126437,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1295,
+      "Progressed": 1306,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-12T17:58:48.6959334+00:00",
-  "LastChanged_Achievements": "2023-12-12T19:08:23.0198861+00:00",
+  "LastChanged": "2023-12-12T19:58:48.3219197+00:00",
+  "LastChanged_Achievements": "2023-12-12T20:08:16.4392093+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T18:58:54.8076343+00:00",
-  "LastUpdate_Achievements": "2023-12-12T19:08:23.0200961+00:00"
+  "LastUpdate_Ratings": "2023-12-12T19:58:48.3219205+00:00",
+  "LastUpdate_Achievements": "2023-12-12T20:08:16.4393828+00:00"
 }

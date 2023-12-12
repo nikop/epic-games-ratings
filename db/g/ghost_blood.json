@@ -4,8 +4,8 @@
   "ProductSlug": "ghost-blood-91ed9f",
   "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-28T14:00:00+00:00",
     "PcReleaseDate": "2021-09-21T16:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:42.599759+00:00",
   "LastChanged": "2023-03-31T05:57:42.5997591+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:06.2413375+00:00",
-  "LastUpdate_Ratings": "2023-12-12T18:58:39.1283845+00:00",
-  "LastUpdate_Achievements": "2023-12-12T19:04:39.8578434+00:00"
+  "LastUpdate_Ratings": "2023-12-12T19:58:34.075664+00:00",
+  "LastUpdate_Achievements": "2023-12-12T20:04:21.7236874+00:00"
 }

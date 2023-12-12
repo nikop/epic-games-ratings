@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -7693,9 +7693,9 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 101
+      "UsersEstimate": 121
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -8006,8 +8006,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-12T19:03:33.7911933+00:00",
+  "LastChanged_Achievements": "2023-12-12T20:03:16.4592223+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-12T18:59:23.6965803+00:00",
-  "LastUpdate_Achievements": "2023-12-12T19:03:33.7912471+00:00"
+  "LastUpdate_Ratings": "2023-12-12T19:59:16.2436217+00:00",
+  "LastUpdate_Achievements": "2023-12-12T20:03:16.4592713+00:00"
 }

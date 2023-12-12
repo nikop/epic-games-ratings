@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1202,9 +1202,9 @@
       "ID": "BehenianChampion",
       "SetID": "1jeo1g7",
       "Name": "Behenian Champion",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "BehenianHero",
@@ -1305,8 +1305,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-12T19:05:05.0353782+00:00",
+  "LastChanged_Achievements": "2023-12-12T20:04:46.5714191+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.3287789+00:00",
-  "LastUpdate_Ratings": "2023-12-12T18:57:24.4902819+00:00",
-  "LastUpdate_Achievements": "2023-12-12T19:05:05.0354562+00:00"
+  "LastUpdate_Ratings": "2023-12-12T19:57:18.993602+00:00",
+  "LastUpdate_Achievements": "2023-12-12T20:04:46.5715139+00:00"
 }
