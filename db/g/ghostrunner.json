@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1431,9 +1431,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 24011,
+  "EOS_Progressed": 24012,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -26866,6 +26866,11 @@
       "Time": "2023-12-12T20:04:23.879443+00:00",
       "NumProgressed": 24011,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-12-12T21:04:43.7018543+00:00",
+      "NumProgressed": 24012,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 45,
@@ -27013,7 +27018,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 18248
+      "UsersEstimate": 18249
     },
     {
       "ID": "MoreThanHuman",
@@ -27173,7 +27178,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5283
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -27205,7 +27210,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5283
     },
     {
       "ID": "WhereAreMyKeys",
@@ -27213,7 +27218,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9604
+      "UsersEstimate": 9605
     },
     {
       "ID": "WhereHeStood",
@@ -27229,28 +27234,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 7203
+      "UsersEstimate": 7204
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 24011,
+      "Progressed": 24012,
       "Completed": 63
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 24011,
+      "Progressed": 24012,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-12-12T17:58:51.9287756+00:00",
-  "LastChanged_Achievements": "2023-12-12T20:04:23.8794427+00:00",
+  "LastChanged_Achievements": "2023-12-12T21:04:43.701854+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:13.9393312+00:00",
-  "LastUpdate_Ratings": "2023-12-12T19:58:51.4324013+00:00",
-  "LastUpdate_Achievements": "2023-12-12T20:04:23.8796112+00:00"
+  "LastUpdate_Ratings": "2023-12-12T20:58:56.4257132+00:00",
+  "LastUpdate_Achievements": "2023-12-12T21:04:43.7019807+00:00"
 }

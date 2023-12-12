@@ -4,11 +4,11 @@
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 598,
   "Ranking_Popularity": 281,
-  "Ranking_PopularitySum": 386,
+  "Ranking_PopularitySum": 395,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -641,10 +641,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 248,
       "NumberOfAwardsMax": 226
+    },
+    {
+      "Time": "2023-12-12T20:57:25.1414438+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 226,
+      "NumberOfAwardsMax": 226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 248,
+  "NumberOfAwards": 226,
   "NumberOfAwardsMax": 226,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -661,9 +667,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 472157,
+  "EOS_Progressed": 472158,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25121,6 +25127,11 @@
       "Time": "2023-12-12T20:09:14.4324061+00:00",
       "NumProgressed": 472157,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-12T21:09:47.1077445+00:00",
+      "NumProgressed": 472158,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25252,7 +25263,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118039
+      "UsersEstimate": 118040
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -25308,7 +25319,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94431
+      "UsersEstimate": 94432
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -25316,7 +25327,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160533
+      "UsersEstimate": 160534
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -25556,7 +25567,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207749
+      "UsersEstimate": 207750
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -25588,7 +25599,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184141
+      "UsersEstimate": 184142
     },
     {
       "ID": "achievement_win_run_hard",
@@ -25763,21 +25774,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16091,
+      "Progressed": 16092,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472157,
+      "Progressed": 472158,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
-  "LastChanged": "2023-12-12T15:57:42.7726748+00:00",
-  "LastChanged_Achievements": "2023-12-12T20:09:14.4324059+00:00",
+  "LastChanged": "2023-12-12T20:57:25.1414435+00:00",
+  "LastChanged_Achievements": "2023-12-12T21:09:47.1077443+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.6716506+00:00",
-  "LastUpdate_Ratings": "2023-12-12T19:57:22.5227592+00:00",
-  "LastUpdate_Achievements": "2023-12-12T20:09:14.4326401+00:00"
+  "LastUpdate_Ratings": "2023-12-12T20:57:25.1414441+00:00",
+  "LastUpdate_Achievements": "2023-12-12T21:09:47.1079116+00:00"
 }

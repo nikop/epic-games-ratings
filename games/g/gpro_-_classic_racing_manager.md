@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 75.00% | ~370 |
+| Newbie | 75.00% | ~371 |
 | Photo shoot | 15.00% | ~74 |
 | No brakes | 13.00% | ~64 |
-| Wannabe | 10.00% | ~49 |
-| First taste | 8.00% | ~39 |
+| Wannabe | 10.00% | ~50 |
+| First taste | 7.00% | ~35 |
 | Better than cake | 7.00% | ~35 |
 | Amateur hitchhiker | 6.00% | ~30 |
 | Amateur newbie | 3.00% | ~15 |
@@ -21,11 +21,11 @@
 | Loyalty | 1.00% | ~5 |
 | No brakes Amateur | 1.00% | ~5 |
 | Amateur photo shoot | 1.00% | ~5 |
+| Amateur wannabe | 0.80% | ~4 |
 | Addict | 0.80% | ~4 |
 | Untouchable | 0.80% | ~4 |
 | Monster Amateur car | 0.60% | ~3 |
 | Pro hitchhiker | 0.60% | ~3 |
-| Amateur wannabe | 0.60% | ~3 |
 | First Amateur taste | 0.60% | ~3 |
 | Weatherman | 0.60% | ~3 |
 | Pro newbie | 0.40% | ~2 |
@@ -167,7 +167,7 @@
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493 (Ranked 319)  
+Progressed: 495 (Ranked 319)  
 Completed: 0 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,3 +300,4 @@ Completed: 0 (0.00%) (Ranked 372)
 | 2023-12-07 | 488 | 0 |
 | 2023-12-08 | 492 | 0 |
 | 2023-12-09 | 493 | 0 |
+| 2023-12-12 | 495 | 0 |

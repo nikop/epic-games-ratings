@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 961,
+  "EOS_Progressed": 962,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 5.72,
   "EosHistory": [
@@ -3850,6 +3850,11 @@
       "Time": "2023-12-12T20:03:19.7693371+00:00",
       "NumProgressed": 961,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-12-12T21:03:37.4095322+00:00",
+      "NumProgressed": 962,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 25,
@@ -3909,7 +3914,7 @@
       "Name": "Open door",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3925,7 +3930,7 @@
       "Name": "Feels like springtime",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3973,7 +3978,7 @@
       "Name": "True G3M4R",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -4005,7 +4010,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4029,7 +4034,7 @@
       "Name": "The great escape",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "PROGRESS_N3",
@@ -4060,14 +4065,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 961,
+      "Progressed": 962,
       "Completed": 55
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-12T20:03:19.7693368+00:00",
+  "LastChanged_Achievements": "2023-12-12T21:03:37.4095319+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-12T19:58:00.260984+00:00",
-  "LastUpdate_Achievements": "2023-12-12T20:03:19.7693639+00:00"
+  "LastUpdate_Ratings": "2023-12-12T20:58:03.4402488+00:00",
+  "LastUpdate_Achievements": "2023-12-12T21:03:37.4095675+00:00"
 }

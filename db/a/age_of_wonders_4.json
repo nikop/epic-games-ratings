@@ -4,11 +4,11 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 370,
   "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 458,
+  "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7994,9 +7994,9 @@
       "ID": "20",
       "SetID": "3aa2279",
       "Name": "The Goddess of Nature",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "21",
@@ -8393,8 +8393,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-11T09:58:49.361776+00:00",
-  "LastChanged_Achievements": "2023-12-12T20:04:51.4976455+00:00",
+  "LastChanged_Achievements": "2023-12-12T21:05:11.980462+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.604119+00:00",
-  "LastUpdate_Ratings": "2023-12-12T19:59:27.8488607+00:00",
-  "LastUpdate_Achievements": "2023-12-12T20:04:51.4977108+00:00"
+  "LastUpdate_Ratings": "2023-12-12T20:59:33.1305068+00:00",
+  "LastUpdate_Achievements": "2023-12-12T21:05:11.9805271+00:00"
 }

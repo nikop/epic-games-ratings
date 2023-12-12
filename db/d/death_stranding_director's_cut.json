@@ -8965,9 +8965,9 @@
       "Count": 662
     }
   ],
-  "EOS_Progressed": 549767,
+  "EOS_Progressed": 549768,
   "EOS_Completed": 2171,
-  "EOS_NewPlayers": 1300,
+  "EOS_NewPlayers": 1293,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -36035,6 +36035,11 @@
       "Time": "2023-12-12T20:08:51.7986135+00:00",
       "NumProgressed": 549767,
       "NumCompleted": 2171
+    },
+    {
+      "Time": "2023-12-12T21:09:24.8001518+00:00",
+      "NumProgressed": 549768,
+      "NumCompleted": 2171
     }
   ],
   "TotalAchievements": 63,
@@ -36054,7 +36059,7 @@
       "Name": "Delivering Is What I Do",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 505786
+      "UsersEstimate": 505787
     },
     {
       "ID": "10",
@@ -36102,7 +36107,7 @@
       "Name": "Thanks for Everything",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 109953
+      "UsersEstimate": 109954
     },
     {
       "ID": "16",
@@ -36166,7 +36171,7 @@
       "Name": "Apprentice Builder",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 395832
+      "UsersEstimate": 395833
     },
     {
       "ID": "23",
@@ -36222,7 +36227,7 @@
       "Name": "The People\u0027s Porter",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 313367
+      "UsersEstimate": 313368
     },
     {
       "ID": "3",
@@ -36230,7 +36235,7 @@
       "Name": "We Need You",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 247395
+      "UsersEstimate": 247396
     },
     {
       "ID": "30",
@@ -36246,7 +36251,7 @@
       "Name": "Good Samaritan",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 494790
+      "UsersEstimate": 494791
     },
     {
       "ID": "32",
@@ -36254,7 +36259,7 @@
       "Name": "Giver of Gifts",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 214409
+      "UsersEstimate": 214410
     },
     {
       "ID": "33",
@@ -36270,7 +36275,7 @@
       "Name": "A Thirst for Knowledge",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 263888
+      "UsersEstimate": 263889
     },
     {
       "ID": "35",
@@ -36302,7 +36307,7 @@
       "Name": "The Post Guides the Present",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 93460
+      "UsersEstimate": 93461
     },
     {
       "ID": "39",
@@ -36334,7 +36339,7 @@
       "Name": "Childminder",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 76967
+      "UsersEstimate": 76968
     },
     {
       "ID": "42",
@@ -36374,7 +36379,7 @@
       "Name": "Snooze \u0027n\u0027 Soothe",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 263888
+      "UsersEstimate": 263889
     },
     {
       "ID": "47",
@@ -36430,7 +36435,7 @@
       "Name": "Rest In Pieces",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 93460
+      "UsersEstimate": 93461
     },
     {
       "ID": "53",
@@ -36446,7 +36451,7 @@
       "Name": "Sleep Tight, Little BB",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 241897
+      "UsersEstimate": 241898
     },
     {
       "ID": "55",
@@ -36486,7 +36491,7 @@
       "Name": "All Roads Lead to the UCA",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 214409
+      "UsersEstimate": 214410
     },
     {
       "ID": "6",
@@ -36510,7 +36515,7 @@
       "Name": "Building Bridges",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 351851
+      "UsersEstimate": 351852
     },
     {
       "ID": "62",
@@ -36526,7 +36531,7 @@
       "Name": "BBs: A Bridge Between This World and the One Beyond",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 142939
+      "UsersEstimate": 142940
     },
     {
       "ID": "8",
@@ -36534,7 +36539,7 @@
       "Name": "\u0022BB\u0022",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 142939
+      "UsersEstimate": 142940
     },
     {
       "ID": "9",
@@ -36542,22 +36547,22 @@
       "Name": "Sixty Deaths and Sixty Births in a Day",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 126446
+      "UsersEstimate": 126447
     }
   ],
   "AchievementSets": [
     {
       "ID": "aho6p5h",
       "IsBase": true,
-      "Progressed": 549767,
+      "Progressed": 549768,
       "Completed": 2171
     }
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "LastChanged": "2023-12-12T17:01:05.4508699+00:00",
-  "LastChanged_Achievements": "2023-12-12T20:08:51.7986133+00:00",
+  "LastChanged_Achievements": "2023-12-12T21:09:24.8001514+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:56.9880331+00:00",
-  "LastUpdate_Ratings": "2023-12-12T20:00:11.928848+00:00",
-  "LastUpdate_Achievements": "2023-12-12T20:08:51.79878+00:00"
+  "LastUpdate_Ratings": "2023-12-12T21:00:16.3339425+00:00",
+  "LastUpdate_Achievements": "2023-12-12T21:09:24.800352+00:00"
 }

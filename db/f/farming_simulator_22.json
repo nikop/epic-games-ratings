@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 34,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -12354,7 +12354,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 55517,
+  "EOS_Progressed": 55518,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 0,
@@ -34229,6 +34229,11 @@
       "Time": "2023-12-12T20:06:04.6936804+00:00",
       "NumProgressed": 55517,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-12T21:07:46.6133146+00:00",
+      "NumProgressed": 55518,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -34336,7 +34341,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 32755
+      "UsersEstimate": 32756
     },
     {
       "ID": "DeliveryGrapes",
@@ -34376,7 +34381,7 @@
       "Name": "Plant get enough",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 32755
+      "UsersEstimate": 32756
     },
     {
       "ID": "Harvested",
@@ -34424,7 +34429,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 27203
+      "UsersEstimate": 27204
     },
     {
       "ID": "Mission",
@@ -34440,7 +34445,7 @@
       "Name": "Help me to help you",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20541
+      "UsersEstimate": 20542
     },
     {
       "ID": "Money",
@@ -34472,7 +34477,7 @@
       "Name": "All out of Land",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 23872
+      "UsersEstimate": 23873
     },
     {
       "ID": "NumProductionPoints",
@@ -34528,7 +34533,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 33865
+      "UsersEstimate": 33866
     },
     {
       "ID": "Stones",
@@ -34544,7 +34549,7 @@
       "Name": "Field Trip",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 23317
+      "UsersEstimate": 23318
     },
     {
       "ID": "TruckDriving",
@@ -34560,7 +34565,7 @@
       "Name": "Van Gogh",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 13879
+      "UsersEstimate": 13880
     },
     {
       "ID": "VehicleRepair",
@@ -34576,22 +34581,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7772
+      "UsersEstimate": 7773
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 55517,
+      "Progressed": 55518,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-12-12T19:58:10.4290075+00:00",
-  "LastChanged_Achievements": "2023-12-12T20:06:04.6936801+00:00",
+  "LastChanged_Achievements": "2023-12-12T21:07:46.6133142+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:21.0443716+00:00",
-  "LastUpdate_Ratings": "2023-12-12T19:58:10.4290081+00:00",
-  "LastUpdate_Achievements": "2023-12-12T20:06:04.6938086+00:00"
+  "LastUpdate_Ratings": "2023-12-12T20:58:14.2735192+00:00",
+  "LastUpdate_Achievements": "2023-12-12T21:07:46.6134605+00:00"
 }

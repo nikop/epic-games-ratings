@@ -7,8 +7,8 @@ Rating: 4.54 (Ranked 533)
 | ---- | ---------- | ----- |
 | Hotel California | 3.00% | ~22,015 |
 | Welcome To Hell-A | 3.00% | ~22,015 |
-| Whatever It Takes | 3.00% | ~1,781 |
-| Pork Chopped | 3.00% | ~1,781 |
+| Whatever It Takes | 3.00% | ~1,782 |
+| Pork Chopped | 3.00% | ~1,782 |
 | Dr. Reed, I Presume? | 2.00% | ~14,677 |
 | Git Gutte! | 2.00% | ~14,677 |
 | Anger Management | 2.00% | ~14,677 |
@@ -25,7 +25,7 @@ Rating: 4.54 (Ranked 533)
 | Stacking the Deck | 2.00% | ~14,677 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,677 |
 | This is My Weapon | 2.00% | ~14,677 |
-| One of Us | 2.00% | ~1,187 |
+| One of Us | 2.00% | ~1,188 |
 | Making Your Mark | 1.00% | ~7,338 |
 | Perks of the Job | 1.00% | ~7,338 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,338 |
@@ -37,9 +37,9 @@ Rating: 4.54 (Ranked 533)
 | Down with the Sickness | 1.00% | ~7,338 |
 | Max Headroom | 1.00% | ~7,338 |
 | Our True Nature | 1.00% | ~7,338 |
-| Jumbo Keyring | 0.90% | ~6,604 |
-| Go, Bobcats! | 0.90% | ~6,604 |
-| Rising Star | 0.90% | ~6,604 |
+| Jumbo Keyring | 0.90% | ~6,605 |
+| Go, Bobcats! | 0.90% | ~6,605 |
+| Rising Star | 0.90% | ~6,605 |
 | Not Even My Final Form | 0.80% | ~5,871 |
 | Smorgasbord | 0.70% | ~5,137 |
 | Internet Famous | 0.70% | ~5,137 |
@@ -50,14 +50,14 @@ Rating: 4.54 (Ranked 533)
 | Gore Horse | 0.50% | ~3,669 |
 | Sole Survivor | 0.40% | ~2,935 |
 | Sharpest Tool in the Box | 0.40% | ~2,935 |
-| Top That, Tisha! | 0.40% | ~237 |
-| Survival Skills | 0.30% | ~2,201 |
+| Top That, Tisha! | 0.40% | ~238 |
+| Survival Skills | 0.30% | ~2,202 |
 | Lawn and Order | 0.20% | ~119 |
 | Donk! | 0.10% | ~734 |
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,827 (Ranked 21)  
+Progressed: 733,842 (Ranked 21)  
 Completed: 2,479 (0.34%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 2,479 (0.34%) (Ranked 235)
 | 2023-12-09 | 732,585 | 2,471 |
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
-| 2023-12-12 | 733,827 | 2,479 |
+| 2023-12-12 | 733,842 | 2,479 |
 ## Awards
 Max (Great Boss Battles): 8,108  (Ranked 49)  
 Sum: 12,476 (Ranked 81)  

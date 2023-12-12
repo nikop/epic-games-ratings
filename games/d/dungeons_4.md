@@ -52,9 +52,9 @@
 | Rubble and Ashes | 19.00% | ~103 |
 | The Last Stand - This Time For Real! | 19.00% | ~103 |
 | My Little Torture Chamber | 18.00% | ~98 |
+| Sacrificial Pit = Garbage Disposal? | 17.00% | ~92 |
 | Lavalumps on Ice! | 17.00% | ~92 |
 | To Infinity And Beyond! | 17.00% | ~92 |
-| Sacrificial Pit = Garbage Disposal? | 16.00% | ~87 |
 | To the Max! | 16.00% | ~87 |
 | Evilification | 15.00% | ~82 |
 | Mirror, Mirror | 14.00% | ~76 |

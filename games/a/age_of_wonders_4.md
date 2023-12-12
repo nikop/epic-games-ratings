@@ -46,11 +46,11 @@ Rating: 4.62 (Ranked 370)
 | Lord of Chaos | 0.80% | ~45 |
 | Eternal Lord | 0.80% | ~45 |
 | God Emperor | 0.70% | ~39 |
+| The Goddess of Nature | 0.70% | ~39 |
 | Manufactured War | 0.70% | ~39 |
 | Grexolis | 0.70% | ~39 |
 | One for All, All for One | 0.70% | ~39 |
 | I've Got Everything I Need Right Here | 0.60% | ~34 |
-| The Goddess of Nature | 0.60% | ~34 |
 | Pruning for Progress | 0.60% | ~34 |
 | Duality | 0.60% | ~34 |
 | Against the Odds | 0.40% | ~22 |
@@ -273,8 +273,8 @@ Completed: 7 (0.13%) (Ranked 279)
 | 2023-12-12 | 5,587 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 478)  
-Sum: 92 (Ranked 458)  
-Diff (max vs sum): 20  
+Sum: 92 (Ranked 459)  
+Diff (max vs sum): 19  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 37 |

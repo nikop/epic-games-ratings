@@ -13,8 +13,8 @@ Number of Ratings: 266  (23.09.2022)
 | Tapped! | 39.00% | ~1,457 |
 | Eureka | 34.00% | ~1,270 |
 | Scourge Slayer | 27.00% | ~1,009 |
+| Exceptional Skill | 24.00% | ~897 |
 | Science, Troglodyte! | 24.00% | ~897 |
-| Exceptional Skill | 23.00% | ~859 |
 | Home Sweet Home | 23.00% | ~859 |
 | Encyclopedic! | 20.00% | ~747 |
 | A Fortress Toppled! | 17.00% | ~635 |
@@ -44,7 +44,7 @@ Number of Ratings: 266  (23.09.2022)
 | The blood is life | 1.00% | ~37 |
 | They'll Tell Stories About This | 1.00% | ~37 |
 | Vanquisher of nightmares | 1.00% | ~37 |
-| Through fire and flame. | 0.70% | ~26 |
+| Through fire and flame. | 0.80% | ~30 |
 | Legacy of a master hunter | 0.50% | ~19 |
 | Master of Aurai | 0.30% | ~11 |
 | The Absolute Pinnacle. | 0.30% | ~11 |
@@ -274,8 +274,8 @@ Completed: 4 (0.11%) (Ranked 286)
 | 2023-12-11 | 3,736 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 483)  
-Sum: 246 (Ranked 388)  
-Diff (max vs sum): 95  
+Sum: 246 (Ranked 387)  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

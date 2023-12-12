@@ -4,11 +4,11 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 497,
   "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 388,
+  "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -537,7 +537,7 @@
   ],
   "EOS_Progressed": 3736,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5986,9 +5986,9 @@
       "ID": "ExceptionalSkill_24",
       "SetID": "c4hee28",
       "Name": "Exceptional Skill",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 859
+      "UsersEstimate": 897
     },
     {
       "ID": "ForAllAurai_8",
@@ -6218,9 +6218,9 @@
       "ID": "ThroughFireAndFlame",
       "SetID": "c4hee28",
       "Name": "Through fire and flame.",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "VanquisherOfNightmares_52",
@@ -6258,8 +6258,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-12T20:05:00.7561407+00:00",
+  "LastChanged_Achievements": "2023-12-12T21:05:21.228728+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.9668311+00:00",
-  "LastUpdate_Ratings": "2023-12-12T19:59:55.5006236+00:00",
-  "LastUpdate_Achievements": "2023-12-12T20:05:00.756184+00:00"
+  "LastUpdate_Ratings": "2023-12-12T20:59:58.9745259+00:00",
+  "LastUpdate_Achievements": "2023-12-12T21:05:21.228784+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
     "PcReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -2461,10 +2461,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 4126,
       "NumberOfAwardsMax": 975
+    },
+    {
+      "Time": "2023-12-12T20:59:18.3380603+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 4131,
+      "NumberOfAwardsMax": 975
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4126,
+  "NumberOfAwards": 4131,
   "NumberOfAwardsMax": 975,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2514,7 +2520,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 591
+      "Count": 596
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2523,9 +2529,9 @@
       "Count": 510
     }
   ],
-  "EOS_Progressed": 56583,
+  "EOS_Progressed": 56584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12083,6 +12089,11 @@
       "Time": "2023-12-12T20:05:07.6731491+00:00",
       "NumProgressed": 56583,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T21:05:28.5431128+00:00",
+      "NumProgressed": 56584,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -12103,7 +12114,7 @@
       "Name": "Surgical Aim",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "achievement_11",
@@ -12119,7 +12130,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 36779
+      "UsersEstimate": 36780
     },
     {
       "ID": "achievement_13",
@@ -12135,7 +12146,7 @@
       "Name": "The Alchemist",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 28857
+      "UsersEstimate": 28858
     },
     {
       "ID": "achievement_15",
@@ -12159,7 +12170,7 @@
       "Name": "One Moment Please!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 33384
+      "UsersEstimate": 33385
     },
     {
       "ID": "achievement_18",
@@ -12199,7 +12210,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 46964
+      "UsersEstimate": 46965
     },
     {
       "ID": "achievement_22",
@@ -12207,7 +12218,7 @@
       "Name": "Level Up!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 29423
+      "UsersEstimate": 29424
     },
     {
       "ID": "achievement_23",
@@ -12327,7 +12338,7 @@
       "Name": "An ace up your sleeve",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 5092
+      "UsersEstimate": 5093
     },
     {
       "ID": "achievement_37",
@@ -12343,7 +12354,7 @@
       "Name": "European Legend",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8487
+      "UsersEstimate": 8488
     },
     {
       "ID": "achievement_39",
@@ -12367,7 +12378,7 @@
       "Name": "Football is Everything",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "achievement_5",
@@ -12399,7 +12410,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 41871
+      "UsersEstimate": 41872
     },
     {
       "ID": "achievement_9",
@@ -12414,16 +12425,16 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 56583,
+      "Progressed": 56584,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-29T00:00:53.2265881+00:00",
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged": "2023-12-12T19:59:13.1869063+00:00",
-  "LastChanged_Achievements": "2023-12-12T20:05:07.6731489+00:00",
+  "LastChanged": "2023-12-12T20:59:18.3380601+00:00",
+  "LastChanged_Achievements": "2023-12-12T21:05:28.5431124+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:08.0940773+00:00",
-  "LastUpdate_Ratings": "2023-12-12T19:59:13.1869068+00:00",
-  "LastUpdate_Achievements": "2023-12-12T20:05:07.6732042+00:00"
+  "LastUpdate_Ratings": "2023-12-12T20:59:18.3380612+00:00",
+  "LastUpdate_Achievements": "2023-12-12T21:05:28.543193+00:00"
 }

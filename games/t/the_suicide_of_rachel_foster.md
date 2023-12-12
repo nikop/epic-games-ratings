@@ -18,7 +18,7 @@ Number of Ratings: 71  (23.09.2022)
 | All together, again | 33.00% | ~578 |
 | Spicy | 5.00% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,750 (Ranked 236)  
+Progressed: 1,750 (Ranked 237)  
 Completed: 74 (4.23%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |

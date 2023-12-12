@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 3.00% | ~39 |
+| Malpractice Assurance | 4.00% | ~53 |
 | This guy... again? | 2.00% | ~26 |
-| This Belongs in a Museum | 1.00% | ~1,264 |
-| Not Today! | 1.00% | ~1,264 |
-| Catch and Decease | 1.00% | ~1,264 |
-| Overdue Notice | 1.00% | ~1,264 |
-| Escape from the Black Hole | 1.00% | ~1,264 |
+| This Belongs in a Museum | 1.00% | ~1,265 |
+| Not Today! | 1.00% | ~1,265 |
+| Catch and Decease | 1.00% | ~1,265 |
+| Overdue Notice | 1.00% | ~1,265 |
+| Escape from the Black Hole | 1.00% | ~1,265 |
 | Bloody Graduation | 1.00% | ~13 |
 | Lost and Found | 1.00% | ~13 |
 | Creep and Sleep | 0.90% | ~1,138 |
@@ -29,6 +29,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Deprogramming | 0.40% | ~506 |
 | A Place to Lay Your Head | 0.40% | ~506 |
 | Nope | 0.40% | ~506 |
+| Ploughshares to Swords | 0.40% | ~5 |
 | Resurrection | 0.30% | ~379 |
 | Unleash Hell | 0.30% | ~379 |
 | Funny Guy | 0.30% | ~379 |
@@ -48,14 +49,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 0.30% | ~379 |
 | A Clear Conscience | 0.30% | ~379 |
 | Whale | 0.30% | ~379 |
+| When You Want Something Done Right | 0.30% | ~379 |
 | Unshackled | 0.30% | ~379 |
 | Road Trip | 0.30% | ~379 |
 | Slap on the Wrist | 0.30% | ~4 |
-| Ploughshares to Swords | 0.30% | ~4 |
 | Friends 'Til the End | 0.30% | ~4 |
 | This Looks Familiar | 0.20% | ~253 |
 | Hope Rekindled | 0.20% | ~253 |
-| When You Want Something Done Right | 0.20% | ~253 |
 | Utopia | 0.20% | ~253 |
 | Hot Air | 0.20% | ~253 |
 | Eyes Up | 0.20% | ~253 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.10% | ~1 |
 | On This Long Road, We Found Redemption | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,437 (Ranked 84)  
+Progressed: 126,451 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 2 (0.00%) (Ranked 372)
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
-| 2023-12-12 | 126,437 | 2 |
+| 2023-12-12 | 126,451 | 2 |
 ## Awards
 Max (Character Customization): 7,622  (Ranked 52)  
 Sum: 20,221 (Ranked 59)  

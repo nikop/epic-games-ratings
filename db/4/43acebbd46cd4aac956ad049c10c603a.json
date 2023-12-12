@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2575,9 +2575,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 189
     },
     {
       "ID": "LostMarshes",
@@ -2872,8 +2872,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-12T20:04:35.1963783+00:00",
+  "LastChanged_Achievements": "2023-12-12T21:04:55.0920279+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-12T19:58:54.7534476+00:00",
-  "LastUpdate_Achievements": "2023-12-12T20:04:35.1964227+00:00"
+  "LastUpdate_Ratings": "2023-12-12T20:58:59.894374+00:00",
+  "LastUpdate_Achievements": "2023-12-12T21:04:55.0920952+00:00"
 }

@@ -10,8 +10,8 @@ Rating: 4.03 (Ranked 1,007)
 | Temple of Eternals | 56.00% | ~1,846 |
 | Prestigious | 53.00% | ~1,747 |
 | Fellowship Power | 42.00% | ~1,385 |
+| Guild Power | 24.00% | ~791 |
 | Full Party | 23.00% | ~758 |
-| Guild Power | 23.00% | ~758 |
 | Prestigious x10 | 21.00% | ~692 |
 | The game is on | 19.00% | ~626 |
 | Dragon Clicker | 16.00% | ~528 |

@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -1418,9 +1418,9 @@
       "ID": "SKILL_ALL_OBTAINED",
       "SetID": "apihg0e",
       "Name": "Unrivaled Aptitude",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "SPEED_STATUS_REACH_NUM",
@@ -1489,8 +1489,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-12T20:05:59.3096821+00:00",
+  "LastChanged_Achievements": "2023-12-12T21:07:40.9751755+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-12T20:02:41.4361008+00:00",
-  "LastUpdate_Achievements": "2023-12-12T20:05:59.3097128+00:00"
+  "LastUpdate_Ratings": "2023-12-12T21:02:55.5653557+00:00",
+  "LastUpdate_Achievements": "2023-12-12T21:07:40.9751981+00:00"
 }

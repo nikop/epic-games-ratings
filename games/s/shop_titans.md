@@ -10,9 +10,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 7.00% | ~10,140 |
 | Tinkle of Coins | 7.00% | ~10,140 |
 | Titan's First Steps | 7.00% | ~10,140 |
-| Disintermediation | 5.00% | ~7,242 |
-| It's Free Real Estate | 5.00% | ~7,242 |
-| Capitalism Ho! | 5.00% | ~7,242 |
+| Disintermediation | 5.00% | ~7,243 |
+| It's Free Real Estate | 5.00% | ~7,243 |
+| Capitalism Ho! | 5.00% | ~7,243 |
 | One Easy Payment | 4.00% | ~5,794 |
 | Some Assembly Required | 4.00% | ~5,794 |
 | Another Satisfied Customer | 4.00% | ~5,794 |
@@ -77,33 +77,33 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 2.00% | ~2,897 |
 | Arcane Industries | 2.00% | ~2,897 |
 | Complete Monopoly | 2.00% | ~2,897 |
-| Top of the World | 1.00% | ~1,448 |
-| Proud Paladin | 1.00% | ~1,448 |
-| Constellated | 1.00% | ~1,448 |
-| A Ronin Reborn | 1.00% | ~1,448 |
-| Thirst for Knowledge | 1.00% | ~1,448 |
-| Booty by the Boatload | 1.00% | ~1,448 |
-| Archivist | 1.00% | ~1,448 |
-| Fillin' the Bin | 1.00% | ~1,448 |
-| Industrial Evolution | 1.00% | ~1,448 |
-| Master of Transmutation | 1.00% | ~1,448 |
-| Thank You Tom Nook | 1.00% | ~1,448 |
-| Fit for a King | 1.00% | ~1,448 |
-| A Legend is Born | 1.00% | ~1,448 |
-| Necromancer Queen | 1.00% | ~1,448 |
-| Jackpot! | 1.00% | ~1,448 |
-| Item of Renown | 1.00% | ~1,448 |
-| Miracle Alchemist | 1.00% | ~1,448 |
-| Bountiful Harvest | 1.00% | ~1,448 |
-| Precision Engineering | 1.00% | ~1,448 |
-| Scourge of the Seas | 1.00% | ~1,448 |
-| Eternal Crusade | 1.00% | ~1,448 |
-| Treasure Trove | 1.00% | ~1,448 |
-| Moment of Respite | 1.00% | ~1,448 |
-| King's Shadow | 1.00% | ~1,448 |
-| All Accounted For | 1.00% | ~1,448 |
-| Economy of Scarce | 1.00% | ~1,448 |
-| King's Blade | 1.00% | ~1,448 |
+| Top of the World | 1.00% | ~1,449 |
+| Proud Paladin | 1.00% | ~1,449 |
+| Constellated | 1.00% | ~1,449 |
+| A Ronin Reborn | 1.00% | ~1,449 |
+| Thirst for Knowledge | 1.00% | ~1,449 |
+| Booty by the Boatload | 1.00% | ~1,449 |
+| Archivist | 1.00% | ~1,449 |
+| Fillin' the Bin | 1.00% | ~1,449 |
+| Industrial Evolution | 1.00% | ~1,449 |
+| Master of Transmutation | 1.00% | ~1,449 |
+| Thank You Tom Nook | 1.00% | ~1,449 |
+| Fit for a King | 1.00% | ~1,449 |
+| A Legend is Born | 1.00% | ~1,449 |
+| Necromancer Queen | 1.00% | ~1,449 |
+| Jackpot! | 1.00% | ~1,449 |
+| Item of Renown | 1.00% | ~1,449 |
+| Miracle Alchemist | 1.00% | ~1,449 |
+| Bountiful Harvest | 1.00% | ~1,449 |
+| Precision Engineering | 1.00% | ~1,449 |
+| Scourge of the Seas | 1.00% | ~1,449 |
+| Eternal Crusade | 1.00% | ~1,449 |
+| Treasure Trove | 1.00% | ~1,449 |
+| Moment of Respite | 1.00% | ~1,449 |
+| King's Shadow | 1.00% | ~1,449 |
+| All Accounted For | 1.00% | ~1,449 |
+| Economy of Scarce | 1.00% | ~1,449 |
+| King's Blade | 1.00% | ~1,449 |
 | The Free Encyclopedia | 0.90% | ~1,304 |
 | The Greatest Grind | 0.70% | ~1,014 |
 | All or Nothing! | 0.70% | ~1,014 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~435 |
 | Capitalist Camaraderie | 0.20% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,850 (Ranked 80)  
+Progressed: 144,855 (Ranked 80)  
 Completed: 294 (0.20%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 294 (0.20%) (Ranked 260)
 | 2023-12-09 | 144,503 | 291 |
 | 2023-12-10 | 144,657 | 293 |
 | 2023-12-11 | 144,756 | 293 |
-| 2023-12-12 | 144,850 | 294 |
+| 2023-12-12 | 144,855 | 294 |
 ## Awards
 Max (Great for Beginners): 4,878  (Ranked 75)  
 Sum: 27,697 (Ranked 51)  

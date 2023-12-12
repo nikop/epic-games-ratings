@@ -23,12 +23,12 @@ Rating: 4.05 (Ranked 998)
 | A Familiar Nest | 25.00% | ~83 |
 | Geas Aristeya | 24.00% | ~79 |
 | Periapt Alizarin | 24.00% | ~79 |
-| A Perfect Cycle | 21.00% | ~70 |
+| A Perfect Cycle | 22.00% | ~73 |
 | Recruit | 20.00% | ~66 |
 | Armsman | 18.00% | ~60 |
 | Lights Army | 13.00% | ~43 |
 | Periapt Cerulean | 13.00% | ~43 |
-| Good Boy | 12.00% | ~40 |
+| Good Boy | 13.00% | ~43 |
 | Periapt Viridian | 10.00% | ~33 |
 | Armaments Azure | 9.00% | ~30 |
 | Shroudfane Explorer | 9.00% | ~30 |
