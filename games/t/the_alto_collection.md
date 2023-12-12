@@ -6,13 +6,13 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,449 |
-| Finding Your Footing | 25.00% | ~12,453 |
+| Rookie | 27.00% | ~13,450 |
+| Finding Your Footing | 25.00% | ~12,454 |
 | Nomad | 17.00% | ~8,468 |
 | Picking Up Speed | 16.00% | ~7,970 |
 | Welcome Maya | 14.00% | ~6,974 |
-| Scout | 11.00% | ~5,479 |
-| Sightseer | 11.00% | ~5,479 |
+| Scout | 11.00% | ~5,480 |
+| Sightseer | 11.00% | ~5,480 |
 | Amateur | 10.00% | ~4,981 |
 | Unlock Maya | 8.00% | ~3,985 |
 | Wanderer | 8.00% | ~3,985 |
@@ -37,7 +37,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~498 |
 | Vandal | 1.00% | ~498 |
 | Unlock Felipe | 0.90% | ~448 |
-| Adventurer | 0.80% | ~398 |
+| Adventurer | 0.80% | ~399 |
 | Unlock Tupa | 0.50% | ~249 |
 | Master Of The Sands | 0.30% | ~149 |
 | Master | 0.20% | ~100 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~50 |
 | Windswept | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,812 (Ranked 115)  
+Progressed: 49,814 (Ranked 115)  
 Completed: 5 (0.01%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,19 +282,19 @@ Completed: 5 (0.01%) (Ranked 349)
 | 2023-12-09 | 49,525 | 5 |
 | 2023-12-10 | 49,661 | 5 |
 | 2023-12-11 | 49,773 | 5 |
-| 2023-12-12 | 49,812 | 5 |
+| 2023-12-12 | 49,814 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 48  (Ranked 444)  
-Sum: 383 (Ranked 353)  
-Diff (max vs sum): 91  
+Max (Great for Quick Sessions): 49  (Ranked 443)  
+Sum: 385 (Ranked 353)  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 48 |
+| This game is Great for Quick Sessions | 49 |
 | This game is Great for Beginners | 45 |
 | This game has Beautiful Visuals | 43 |
 | This game is Highly Recommended | 43 |
 | This game has Quickly Understood Controls | 40 |
-| This game is Extremely Fun | 38 |
+| This game is Extremely Fun | 39 |
 | This game is Relaxing | 36 |
 | This game has Diverse Characters | 33 |
 | This game has Amazing Storytelling | 30 |
@@ -421,4 +421,4 @@ Diff (max vs sum): 91
 | 2023-12-05 | 4.71 | - | 48 | 376 |
 | 2023-12-06 | 4.71 | - | 48 | 377 |
 | 2023-12-09 | 4.71 | - | 48 | 381 |
-| 2023-12-12 | 4.71 | - | 48 | 383 |
+| 2023-12-12 | 4.71 | - | 49 | 385 |

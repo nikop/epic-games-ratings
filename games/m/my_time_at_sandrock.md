@@ -1,40 +1,40 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 257)  
+Rating: 4.68 (Ranked 258)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 235.00% | ~1,260 |
-| Iron Chef | 169.00% | ~906 |
-| Super Spelunker | 137.00% | ~734 |
-| Greeno-B-Gone | 130.00% | ~697 |
-| The Little Wood that Could | 117.00% | ~627 |
-| Your Especially Earned Trajectory | 107.00% | ~574 |
-| One of the Cool Kids | 87.00% | ~466 |
-| No Mountain Wide Enough | 86.00% | ~461 |
+| Adept Assembler | 235.00% | ~1,262 |
+| Iron Chef | 168.00% | ~902 |
+| Super Spelunker | 137.00% | ~736 |
+| Greeno-B-Gone | 130.00% | ~698 |
+| The Little Wood that Could | 117.00% | ~628 |
+| Your Especially Earned Trajectory | 107.00% | ~575 |
+| One of the Cool Kids | 87.00% | ~467 |
+| No Mountain Wide Enough | 86.00% | ~462 |
 | Yakmel Whisperer | 82.00% | ~440 |
-| On that Grindset | 79.00% | ~423 |
-| I Do! | 79.00% | ~423 |
-| Diamonds are Forever | 78.00% | ~418 |
-| Pack Mule | 76.00% | ~407 |
-| Can We Keep It? | 76.00% | ~407 |
-| First Love | 75.00% | ~402 |
+| On that Grindset | 79.00% | ~424 |
+| I Do! | 78.00% | ~419 |
+| Diamonds are Forever | 78.00% | ~419 |
+| Pack Mule | 76.00% | ~408 |
+| Can We Keep It? | 76.00% | ~408 |
+| First Love | 75.00% | ~403 |
 | Unboxing | 71.00% | ~381 |
-| Elementary, My Dear | 68.00% | ~364 |
-| Chatterbox | 68.00% | ~364 |
+| Elementary, My Dear | 68.00% | ~365 |
+| Chatterbox | 67.00% | ~360 |
 | Big Game Hunter | 66.00% | ~354 |
-| Financially Secure | 65.00% | ~348 |
-| Got Served | 65.00% | ~348 |
+| Financially Secure | 65.00% | ~349 |
+| Got Served | 65.00% | ~349 |
 | Builder of the Month | 63.00% | ~338 |
 | Lifeline Pipeline | 63.00% | ~338 |
-| Happier-est Place on Earth | 62.00% | ~332 |
-| You Don't Win Friends With Salad | 62.00% | ~332 |
-| Panda-kin | 61.00% | ~327 |
-| Martle's Dream | 61.00% | ~327 |
-| Anti-Santa | 61.00% | ~327 |
-| Waste Not Want Not | 61.00% | ~327 |
+| Happier-est Place on Earth | 62.00% | ~333 |
+| You Don't Win Friends With Salad | 62.00% | ~333 |
+| Panda-kin | 61.00% | ~328 |
+| Martle's Dream | 61.00% | ~328 |
+| Anti-Santa | 61.00% | ~328 |
+| Waste Not Want Not | 61.00% | ~328 |
 | Commissions, commissions...! | 60.00% | ~322 |
 | What Plants Crave | 58.00% | ~311 |
 | Mole Masher | 58.00% | ~311 |
@@ -43,31 +43,31 @@ Number of Ratings: 892  (23.09.2022)
 | Call Me Fishmael | 57.00% | ~306 |
 | Bridging the Gap | 55.00% | ~295 |
 | Officially Official | 55.00% | ~295 |
-| Knowledge is Power | 54.00% | ~289 |
+| Knowledge is Power | 54.00% | ~290 |
 | Got the Flow Back | 52.00% | ~279 |
-| Sepia Toned Memories | 51.00% | ~273 |
+| Sepia Toned Memories | 51.00% | ~274 |
 | Who Ya Gonna Call...? | 47.00% | ~252 |
 | Time Flies | 46.00% | ~247 |
 | Jewel of the Eufaula | 46.00% | ~247 |
-| Kind of a Big Deal | 45.00% | ~241 |
-| My Time Mansion | 43.00% | ~230 |
-| Just What I Always Wanted! | 43.00% | ~230 |
+| Kind of a Big Deal | 45.00% | ~242 |
+| My Time Mansion | 43.00% | ~231 |
+| Just What I Always Wanted! | 43.00% | ~231 |
 | Sandrunning Speedster | 39.00% | ~209 |
 | He Can Spin A Yarn... | 38.00% | ~204 |
-| Santa In Training | 38.00% | ~204 |
-| It Belongs in a Museum! | 37.00% | ~198 |
+| Santa In Training | 37.00% | ~199 |
+| It Belongs in a Museum! | 37.00% | ~199 |
 | Pro Gamer | 35.00% | ~188 |
-| Newton | 34.00% | ~182 |
+| Newton | 34.00% | ~183 |
 | Do Your Part | 33.00% | ~177 |
 | Cardistry | 24.00% | ~129 |
 | Winner and Still Champeen | 22.00% | ~118 |
 | It's High Noon... | 16.00% | ~86 |
 | Strong Arms | 16.00% | ~86 |
-| Got the Receipt? | 15.00% | ~80 |
+| Got the Receipt? | 15.00% | ~81 |
 | Jack of All Trades | 8.00% | ~43 |
 | Sandrock's Hottest Club | 5.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536 (Ranked 314)  
+Progressed: 537 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |

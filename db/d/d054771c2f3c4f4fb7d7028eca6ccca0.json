@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1724,
+  "EOS_Progressed": 1727,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 618,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1374,6 +1374,11 @@
       "Time": "2023-12-12T12:06:53.4753604+00:00",
       "NumProgressed": 1724,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T13:11:13.6384407+00:00",
+      "NumProgressed": 1727,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1496,9 +1501,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "c167foo",
       "Name": "High Level Mastery",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1554,7 +1559,7 @@
       "Name": "Competitor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -1586,7 +1591,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1720,9 +1725,9 @@
       "ID": "ACHIEVEMENT_51",
       "SetID": "c167foo",
       "Name": "Trap Season",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_52",
@@ -1761,14 +1766,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1724,
+      "Progressed": 1727,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-12T12:06:53.4753602+00:00",
+  "LastChanged_Achievements": "2023-12-12T13:11:13.6384405+00:00",
   "LastUpdate_AppInfo": "2023-12-12T11:56:59.8157094+00:00",
-  "LastUpdate_Ratings": "2023-12-12T12:02:56.6925215+00:00",
-  "LastUpdate_Achievements": "2023-12-12T12:06:53.4753964+00:00"
+  "LastUpdate_Ratings": "2023-12-12T13:06:15.828448+00:00",
+  "LastUpdate_Achievements": "2023-12-12T13:11:13.63847+00:00"
 }

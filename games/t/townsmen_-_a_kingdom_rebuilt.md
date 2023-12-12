@@ -34,6 +34,7 @@ Number of Ratings: 37  (23.09.2022)
 | Conflicting parties | 5.00% | ~218 |
 | Another one bites the dust | 4.00% | ~175 |
 | Experienced decorator | 4.00% | ~175 |
+| My precious... I | 4.00% | ~175 |
 | An honorable Governor II | 4.00% | ~175 |
 | Full-time job III | 4.00% | ~175 |
 | Tax-man IV | 4.00% | ~175 |
@@ -44,7 +45,6 @@ Number of Ratings: 37  (23.09.2022)
 | I like to build stuff... V | 3.00% | ~131 |
 | The King's new clothes II | 3.00% | ~131 |
 | Saint Florian | 3.00% | ~131 |
-| My precious... I | 3.00% | ~131 |
 | My precious... II | 3.00% | ~131 |
 | Cosmas and Damian | 3.00% | ~131 |
 | Builder III | 3.00% | ~131 |
@@ -53,6 +53,7 @@ Number of Ratings: 37  (23.09.2022)
 | The Art of War | 2.00% | ~87 |
 | Five brews are a schnitzel | 2.00% | ~87 |
 | The King's new clothes III | 2.00% | ~87 |
+| Survivalist | 2.00% | ~87 |
 | My precious... III | 2.00% | ~87 |
 | Lord of War | 2.00% | ~87 |
 | Plague strikes! | 2.00% | ~87 |
@@ -60,13 +61,12 @@ Number of Ratings: 37  (23.09.2022)
 | Completionist II | 2.00% | ~87 |
 | Completionist III | 2.00% | ~87 |
 | Genius | 2.00% | ~87 |
+| Only the sausage has two ends. | 2.00% | ~87 |
 | I've been everywhere V | 2.00% | ~87 |
 | Tax-man V | 2.00% | ~87 |
 | Tools of the trade III | 2.00% | ~87 |
 | When there's fire... | 1.00% | ~44 |
-| Survivalist | 1.00% | ~44 |
 | An honorable Governor III | 1.00% | ~44 |
-| Only the sausage has two ends. | 1.00% | ~44 |
 | Reunification | 1.00% | ~44 |
 | Treat her well… | 1.00% | ~44 |
 | I've been everywhere II | 1.00% | ~44 |

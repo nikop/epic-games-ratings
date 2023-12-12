@@ -3,12 +3,12 @@
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 197,
-  "Ranking_Popularity": 444,
+  "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -830,18 +830,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 383,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-12-12T13:06:02.6726262+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 385,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 383,
-  "NumberOfAwardsMax": 48,
+  "NumberOfAwards": 385,
+  "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game is Great for Beginners",
@@ -853,7 +859,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -898,9 +904,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 49812,
+  "EOS_Progressed": 49814,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 860,
+  "EOS_NewPlayers": 856,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27643,6 +27649,11 @@
       "Time": "2023-12-12T12:04:07.8593246+00:00",
       "NumProgressed": 49812,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-12T13:09:14.2053135+00:00",
+      "NumProgressed": 49814,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -27662,7 +27673,7 @@
       "Name": "Adventurer",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "distance250000",
@@ -27678,7 +27689,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5479
+      "UsersEstimate": 5480
     },
     {
       "ID": "distance500000",
@@ -27694,7 +27705,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 13449
+      "UsersEstimate": 13450
     },
     {
       "ID": "goals180",
@@ -27862,7 +27873,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 12453
+      "UsersEstimate": 12454
     },
     {
       "ID": "sandboarder",
@@ -27878,7 +27889,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5479
+      "UsersEstimate": 5480
     },
     {
       "ID": "ultimate",
@@ -27965,15 +27976,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 49812,
+      "Progressed": 49814,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2023-12-12T04:01:33.9660023+00:00",
-  "LastChanged_Achievements": "2023-12-12T12:04:07.8593241+00:00",
+  "LastChanged": "2023-12-12T13:06:02.672626+00:00",
+  "LastChanged_Achievements": "2023-12-12T13:09:14.2053132+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.4724862+00:00",
-  "LastUpdate_Ratings": "2023-12-12T12:01:55.47847+00:00",
-  "LastUpdate_Achievements": "2023-12-12T12:04:07.8594569+00:00"
+  "LastUpdate_Ratings": "2023-12-12T13:06:02.6726266+00:00",
+  "LastUpdate_Achievements": "2023-12-12T13:09:14.2054384+00:00"
 }

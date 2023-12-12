@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,7 +943,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 665722,
+  "EOS_Progressed": 665724,
   "EOS_Completed": 173,
   "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 1,
@@ -23258,6 +23258,11 @@
       "Time": "2023-12-12T12:09:07.2497871+00:00",
       "NumProgressed": 665722,
       "NumCompleted": 173
+    },
+    {
+      "Time": "2023-12-12T13:14:31.3832911+00:00",
+      "NumProgressed": 665724,
+      "NumCompleted": 173
     }
   ],
   "TotalAchievements": 48,
@@ -23269,7 +23274,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 479320
+      "UsersEstimate": 479321
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -23277,7 +23282,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386119
+      "UsersEstimate": 386120
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -23285,7 +23290,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153116
+      "UsersEstimate": 153117
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -23405,7 +23410,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153116
+      "UsersEstimate": 153117
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -23533,7 +23538,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166430
+      "UsersEstimate": 166431
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -23597,7 +23602,7 @@
       "Name": "Thomas\u0027 Bane",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5991
+      "UsersEstimate": 5992
     },
     {
       "ID": "Achievement_43_Final_Death",
@@ -23652,15 +23657,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 665722,
+      "Progressed": 665724,
       "Completed": 173
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-12T12:09:07.2497866+00:00",
+  "LastChanged_Achievements": "2023-12-12T13:14:31.3832907+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:06.5520599+00:00",
-  "LastUpdate_Ratings": "2023-12-12T11:59:16.1283706+00:00",
-  "LastUpdate_Achievements": "2023-12-12T12:09:07.2499042+00:00"
+  "LastUpdate_Ratings": "2023-12-12T13:04:15.8545004+00:00",
+  "LastUpdate_Achievements": "2023-12-12T13:14:31.3833932+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3480,
+  "EOS_Progressed": 3481,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.66,
+  "EOS_Completed_Percentage": 4.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -5994,6 +5994,11 @@
       "Time": "2023-12-12T00:07:59.1931406+00:00",
       "NumProgressed": 3480,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-12-12T13:12:19.7684082+00:00",
+      "NumProgressed": 3481,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 5,
@@ -6005,7 +6010,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3480
+      "UsersEstimate": 3481
     },
     {
       "ID": "2",
@@ -6044,7 +6049,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3480,
+      "Progressed": 3481,
       "Completed": 162
     }
   ],
@@ -6052,8 +6057,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-12-12T12:08:23.4490213+00:00",
+  "LastChanged_Achievements": "2023-12-12T13:12:19.7684079+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:11.9098661+00:00",
-  "LastUpdate_Ratings": "2023-12-12T12:01:18.6318159+00:00",
-  "LastUpdate_Achievements": "2023-12-12T12:08:23.4490575+00:00"
+  "LastUpdate_Ratings": "2023-12-12T13:05:39.4061476+00:00",
+  "LastUpdate_Achievements": "2023-12-12T13:12:19.7684378+00:00"
 }

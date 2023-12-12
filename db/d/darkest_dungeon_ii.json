@@ -2,13 +2,13 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 257,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9600,9 +9600,9 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126349,
+  "EOS_Progressed": 126354,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 755,
+  "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34650,6 +34650,11 @@
       "Time": "2023-12-12T12:09:15.6451746+00:00",
       "NumProgressed": 126349,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T13:14:37.4298287+00:00",
+      "NumProgressed": 126354,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34659,9 +34664,9 @@
       "ID": "affinity_meltdown_first_time",
       "SetID": "64l4lke",
       "Name": "Don\u0027t Make Me Turn This Coach Around",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 505
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -34699,9 +34704,9 @@
       "ID": "altar_of_hope_unlock_hero_hellion",
       "SetID": "64l4lke",
       "Name": "Unleash Hell",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -34779,9 +34784,9 @@
       "ID": "combat_kill_animal",
       "SetID": "64l4lke",
       "Name": "Predator",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -34789,7 +34794,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "combat_kill_cadavers",
@@ -34963,33 +34968,33 @@
       "ID": "driving_biome_clear_coast",
       "SetID": "64l4lke",
       "Name": "Merry Time",
-      "Percentage": 0.2,
-      "XP": 5,
-      "UsersEstimate": 253
-    },
-    {
-      "ID": "driving_biome_clear_farm",
-      "SetID": "64l4lke",
-      "Name": "Harvest Festival",
-      "Percentage": 0.2,
-      "XP": 5,
-      "UsersEstimate": 253
-    },
-    {
-      "ID": "driving_biome_clear_forest",
-      "SetID": "64l4lke",
-      "Name": "To Grandmother\u0027s House",
       "Percentage": 0.3,
       "XP": 5,
       "UsersEstimate": 379
     },
     {
+      "ID": "driving_biome_clear_farm",
+      "SetID": "64l4lke",
+      "Name": "Harvest Festival",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 379
+    },
+    {
+      "ID": "driving_biome_clear_forest",
+      "SetID": "64l4lke",
+      "Name": "To Grandmother\u0027s House",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 505
+    },
+    {
       "ID": "driving_distance_easy",
       "SetID": "64l4lke",
       "Name": "Ramble On",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "driving_distance_hard",
@@ -35011,9 +35016,9 @@
       "ID": "hero_skill_mastery_five",
       "SetID": "64l4lke",
       "Name": "Autodidact",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 884
     },
     {
       "ID": "hero_story_complete_all",
@@ -35147,9 +35152,9 @@
       "ID": "run_victory_act05",
       "SetID": "64l4lke",
       "Name": "Body of Work",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 253
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -35259,9 +35264,9 @@
       "ID": "quest_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Lost and Found",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35292,21 +35297,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126349,
+      "Progressed": 126354,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1218,
+      "Progressed": 1223,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T10:58:40.4140307+00:00",
-  "LastChanged_Achievements": "2023-12-12T12:09:15.645174+00:00",
+  "LastChanged_Achievements": "2023-12-12T13:14:37.4298283+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T11:59:35.2679991+00:00",
-  "LastUpdate_Achievements": "2023-12-12T12:09:15.6453355+00:00"
+  "LastUpdate_Ratings": "2023-12-12T13:04:29.2113673+00:00",
+  "LastUpdate_Achievements": "2023-12-12T13:14:37.4300044+00:00"
 }

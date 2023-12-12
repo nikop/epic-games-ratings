@@ -6,18 +6,18 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,987 |
-| Gun Fu | 7.00% | ~68,243 |
-| The Fool | 6.00% | ~58,494 |
-| Right Back At Ya | 5.00% | ~48,745 |
-| The Lovers | 5.00% | ~48,745 |
-| Full Body Conversion | 4.00% | ~38,996 |
-| Stanislavski's Method | 4.00% | ~38,996 |
-| The Wheel of Fortune | 4.00% | ~38,996 |
-| True Soldier | 4.00% | ~38,996 |
-| Christmas Tree Attack | 3.00% | ~29,247 |
-| The Hermit | 3.00% | ~29,247 |
-| Legend of The Afterlife | 3.00% | ~29,247 |
+| V for Vendetta | 12.00% | ~116,991 |
+| Gun Fu | 7.00% | ~68,245 |
+| The Fool | 6.00% | ~58,495 |
+| Right Back At Ya | 5.00% | ~48,746 |
+| The Lovers | 5.00% | ~48,746 |
+| Full Body Conversion | 4.00% | ~38,997 |
+| Stanislavski's Method | 4.00% | ~38,997 |
+| The Wheel of Fortune | 4.00% | ~38,997 |
+| True Soldier | 4.00% | ~38,997 |
+| Christmas Tree Attack | 3.00% | ~29,248 |
+| The Hermit | 3.00% | ~29,248 |
+| Legend of The Afterlife | 3.00% | ~29,248 |
 | Relic Ruler | 3.00% | ~3,106 |
 | All the President's Men | 3.00% | ~3,106 |
 | Arachnophobia | 3.00% | ~3,106 |
@@ -40,9 +40,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Dirty Deeds | 0.80% | ~828 |
 | To Bad Decisions! | 0.70% | ~6,824 |
 | Ten out of Ten | 0.70% | ~6,824 |
-| Breathtaking | 0.60% | ~5,849 |
-| The Star | 0.60% | ~5,849 |
-| Autojock | 0.50% | ~4,874 |
+| Breathtaking | 0.60% | ~5,850 |
+| The Star | 0.60% | ~5,850 |
+| Autojock | 0.50% | ~4,875 |
 | The APB is Not Enough | 0.50% | ~518 |
 | Judgement Day | 0.50% | ~518 |
 | King of Swords | 0.50% | ~518 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974,894 (Ranked 15)  
+Progressed: 974,923 (Ranked 15)  
 Completed: 2,889 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 2,889 (0.30%) (Ranked 240)
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
-| 2023-12-12 | 974,894 | 2,889 |
+| 2023-12-12 | 974,923 | 2,889 |
 ## Awards
 Max (Character Customization): 121,434  (Ranked 9)  
 Sum: 412,230 (Ranked 9)  

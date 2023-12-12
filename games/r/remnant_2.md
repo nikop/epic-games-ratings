@@ -34,20 +34,20 @@ Rating: 4.75 (Ranked 147)
 | Almost There | 0.40% | ~955 |
 | Make Some Room | 0.40% | ~955 |
 | Good, But Could Be Better! | 0.40% | ~955 |
-| Ghost in the Machine | 0.30% | ~716 |
-| Traitor | 0.30% | ~716 |
-| Forever is a Long Time Coming | 0.30% | ~716 |
-| Madman's Paradise | 0.30% | ~716 |
-| The Agenda | 0.30% | ~716 |
-| Tall Tales | 0.30% | ~716 |
-| Bad Moon Rising | 0.30% | ~716 |
-| Strapped | 0.30% | ~716 |
-| Edgelord | 0.30% | ~716 |
-| The Web | 0.30% | ~716 |
-| Scrap Hoarder | 0.30% | ~716 |
-| The Ultimate Weapon | 0.30% | ~716 |
-| No One Should Have All That Power | 0.30% | ~716 |
-| Transmutate | 0.30% | ~716 |
+| Ghost in the Machine | 0.30% | ~717 |
+| Traitor | 0.30% | ~717 |
+| Forever is a Long Time Coming | 0.30% | ~717 |
+| Madman's Paradise | 0.30% | ~717 |
+| The Agenda | 0.30% | ~717 |
+| Tall Tales | 0.30% | ~717 |
+| Bad Moon Rising | 0.30% | ~717 |
+| Strapped | 0.30% | ~717 |
+| Edgelord | 0.30% | ~717 |
+| The Web | 0.30% | ~717 |
+| Scrap Hoarder | 0.30% | ~717 |
+| The Ultimate Weapon | 0.30% | ~717 |
+| No One Should Have All That Power | 0.30% | ~717 |
+| Transmutate | 0.30% | ~717 |
 | Crafty | 0.20% | ~478 |
 | Only Human | 0.20% | ~478 |
 | Red Room | 0.20% | ~478 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 147)
 | You Shall Pass | 0.20% | ~36 |
 | A Foul Feast | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,826 (Ranked 66)  
-Completed: 580 (0.24%) (Ranked 251)  
+Progressed: 238,849 (Ranked 66)  
+Completed: 581 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,10 +210,10 @@ Completed: 580 (0.24%) (Ranked 251)
 | 2023-12-09 | 237,633 | 573 |
 | 2023-12-10 | 238,247 | 577 |
 | 2023-12-11 | 238,673 | 579 |
-| 2023-12-12 | 238,826 | 580 |
+| 2023-12-12 | 238,849 | 581 |
 ## Awards
 Max (Great Boss Battles): 2,730  (Ranked 102)  
-Sum: 6,809 (Ranked 126)  
+Sum: 6,813 (Ranked 126)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -221,9 +221,9 @@ Diff (max vs sum): -24
 | This game has Diverse Characters | 458 |
 | This game is Highly Recommended | 436 |
 | This game has Challenging Combat | 431 |
+| This game is Extremely Fun | 421 |
 | This game has Quickly Understood Controls | 420 |
 | This game has Amazing Storytelling | 420 |
-| This game is Extremely Fun | 417 |
 | This game is Relaxing | 417 |
 | This game has Amazing Characters | 410 |
 | This game has Unique Visuals | 361 |
@@ -370,4 +370,4 @@ Diff (max vs sum): -24
 | 2023-12-09 | 4.75 | 2,690 | 6,711 |
 | 2023-12-10 | 4.75 | 2,704 | 6,738 |
 | 2023-12-11 | 4.75 | 2,717 | 6,788 |
-| 2023-12-12 | 4.75 | 2,730 | 6,809 |
+| 2023-12-12 | 4.75 | 2,730 | 6,813 |

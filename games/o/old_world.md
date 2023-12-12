@@ -7,8 +7,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 8.00% | ~1,259 |
-| Explorer | 7.00% | ~1,101 |
-| Settler | 7.00% | ~1,101 |
+| Explorer | 7.00% | ~1,102 |
+| Settler | 7.00% | ~1,102 |
 | Friendly Family | 6.00% | ~944 |
 | Able | 5.00% | ~787 |
 | Architect | 5.00% | ~787 |
@@ -163,6 +163,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.50% | ~79 |
 | Siege Tower | 0.50% | ~79 |
 | Conquest Victory | 0.50% | ~79 |
+| Necropolis in Waset | 0.50% | ~79 |
 | Rmt n Kmt Buhen | 0.50% | ~79 |
 | Greater Kmt Unified | 0.50% | ~79 |
 | Bronze Victory (Carthage 1) | 0.40% | ~63 |
@@ -175,7 +176,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.40% | ~63 |
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~63 |
 | Circus Maximus in Roma | 0.40% | ~63 |
-| Necropolis in Waset | 0.40% | ~63 |
 | Prosperous Kmt | 0.40% | ~63 |
 | Gold Victory (Carthage 1) | 0.30% | ~47 |
 | Bronze Victory (Carthage 2) | 0.30% | ~47 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,732 (Ranked 153)  
+Progressed: 15,736 (Ranked 153)  
 Completed: 5 (0.03%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,7 +585,7 @@ Completed: 5 (0.03%) (Ranked 334)
 | 2023-12-09 | 15,699 | 5 |
 | 2023-12-10 | 15,719 | 5 |
 | 2023-12-11 | 15,723 | 5 |
-| 2023-12-12 | 15,732 | 5 |
+| 2023-12-12 | 15,736 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 278)  
 Sum: 1,900 (Ranked 220)  

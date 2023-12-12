@@ -6,44 +6,44 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~728,444 |
-| The Blues | 85.00% | ~625,432 |
-| Fast | 66.00% | ~485,629 |
-| Healthbar | 55.00% | ~404,691 |
-| Force Cube | 53.00% | ~389,975 |
-| Double Jump | 48.00% | ~353,185 |
-| Regeneration | 47.00% | ~345,827 |
-| Triple Jump | 43.00% | ~316,395 |
-| Climb the hill | 42.00% | ~309,037 |
-| Through the fire pipe | 39.00% | ~286,963 |
-| MacGuffin | 38.00% | ~279,605 |
-| Just once | 37.00% | ~272,247 |
-| Armor | 30.00% | ~220,741 |
+| Out of bed | 99.00% | ~728,447 |
+| The Blues | 85.00% | ~625,434 |
+| Fast | 66.00% | ~485,631 |
+| Healthbar | 55.00% | ~404,693 |
+| Force Cube | 53.00% | ~389,977 |
+| Double Jump | 48.00% | ~353,186 |
+| Regeneration | 47.00% | ~345,828 |
+| Triple Jump | 43.00% | ~316,396 |
+| Climb the hill | 42.00% | ~309,038 |
+| Through the fire pipe | 39.00% | ~286,964 |
+| MacGuffin | 38.00% | ~279,606 |
+| Just once | 37.00% | ~272,248 |
+| Armor | 30.00% | ~220,742 |
 | True holy spirit | 28.00% | ~206,025 |
 | That's how electronics work obviously | 27.00% | ~198,667 |
-| Force Cube Catapult | 25.00% | ~183,950 |
-| Holy Sword | 23.00% | ~169,234 |
-| Telefrag | 23.00% | ~169,234 |
-| Freed from prison | 21.00% | ~154,518 |
-| Stomp | 21.00% | ~154,518 |
-| Double Health | 19.00% | ~139,802 |
-| Buckle | 18.00% | ~132,444 |
-| Green Keycard | 18.00% | ~132,444 |
-| Rattle Hag | 16.00% | ~117,728 |
-| All Shells | 15.00% | ~110,370 |
-| Beam | 14.00% | ~103,012 |
-| 9 | 14.00% | ~103,012 |
-| Health Drink | 13.00% | ~95,654 |
-| Helped a star | 13.00% | ~95,654 |
-| Purple Cube | 13.00% | ~95,654 |
-| Supraball Noob | 13.00% | ~95,654 |
-| Strong | 12.00% | ~88,296 |
-| Blue King's lair | 11.00% | ~80,938 |
-| Payback | 11.00% | ~80,938 |
-| Got the coins back | 11.00% | ~80,938 |
-| Got the gun back | 11.00% | ~80,938 |
-| Infiltrated | 11.00% | ~80,938 |
-| Robbed | 11.00% | ~80,938 |
+| Force Cube Catapult | 25.00% | ~183,951 |
+| Holy Sword | 23.00% | ~169,235 |
+| Telefrag | 23.00% | ~169,235 |
+| Freed from prison | 21.00% | ~154,519 |
+| Stomp | 21.00% | ~154,519 |
+| Double Health | 19.00% | ~139,803 |
+| Buckle | 18.00% | ~132,445 |
+| Green Keycard | 18.00% | ~132,445 |
+| Rattle Hag | 16.00% | ~117,729 |
+| All Shells | 15.00% | ~110,371 |
+| Beam | 14.00% | ~103,013 |
+| 9 | 14.00% | ~103,013 |
+| Health Drink | 13.00% | ~95,655 |
+| Helped a star | 13.00% | ~95,655 |
+| Purple Cube | 13.00% | ~95,655 |
+| Supraball Noob | 13.00% | ~95,655 |
+| Strong | 12.00% | ~88,297 |
+| Blue King's lair | 11.00% | ~80,939 |
+| Payback | 11.00% | ~80,939 |
+| Got the coins back | 11.00% | ~80,939 |
+| Got the gun back | 11.00% | ~80,939 |
+| Infiltrated | 11.00% | ~80,939 |
+| Robbed | 11.00% | ~80,939 |
 | Fire Flies | 10.00% | ~73,580 |
 | Cave Flies | 10.00% | ~73,580 |
 | Gold Scam | 10.00% | ~73,580 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~736 |
 | DLC: Top of the world | 0.10% | ~736 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,802 (Ranked 20)  
+Progressed: 735,805 (Ranked 20)  
 Completed: 769 (0.10%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,14 +341,14 @@ Completed: 769 (0.10%) (Ranked 293)
 | 2023-12-09 | 735,537 | 768 |
 | 2023-12-10 | 735,683 | 769 |
 | 2023-12-11 | 735,777 | 769 |
-| 2023-12-12 | 735,802 | 769 |
+| 2023-12-12 | 735,805 | 769 |
 ## Awards
-Max (Challenging Puzzles): 7,743  (Ranked 50)  
-Sum: 10,104 (Ranked 92)  
+Max (Challenging Puzzles): 7,745  (Ranked 50)  
+Sum: 10,106 (Ranked 92)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 7,743 |
+| This game features Challenging Puzzles | 7,745 |
 | This game is Educational | 284 |
 | This game has Amazing Storytelling | 281 |
 | This game has Amazing Characters | 280 |
@@ -564,3 +564,4 @@ Diff (max vs sum): -42
 | 2023-12-05 | 4.61 | - | 7,741 | 10,102 |
 | 2023-12-06 | 4.61 | - | 7,742 | 10,103 |
 | 2023-12-10 | 4.61 | - | 7,743 | 10,104 |
+| 2023-12-12 | 4.61 | - | 7,745 | 10,106 |
