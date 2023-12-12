@@ -10,7 +10,7 @@ Rating: 4.01 (Ranked 1,009)
 | Temple of Eternals | 56.00% | ~1,837 |
 | Prestigious | 53.00% | ~1,738 |
 | Fellowship Power | 42.00% | ~1,378 |
-| Guild Power | 23.00% | ~754 |
+| Guild Power | 24.00% | ~787 |
 | Full Party | 22.00% | ~722 |
 | Prestigious x10 | 21.00% | ~689 |
 | The game is on | 19.00% | ~623 |
@@ -314,9 +314,9 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-11 | 3,276 | 2 |
 | 2023-12-12 | 3,280 | 2 |
 ## Awards
-Max (Great for Beginners): 38  (Ranked 468)  
+Max (Great for Beginners): 38  (Ranked 469)  
 Sum: 142 (Ranked 431)  
-Diff (max vs sum): 37  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |

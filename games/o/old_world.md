@@ -144,12 +144,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Deposed Tribe | 0.80% | ~126 |
 | Kmt Unified | 0.80% | ~126 |
 | Carthage - Ox Hide | 0.70% | ~110 |
+| Old | 0.70% | ~110 |
 | Old World Order | 0.70% | ~110 |
 | No Undo | 0.70% | ~110 |
 | The Great Mage | 0.70% | ~110 |
 | Kush | 0.70% | ~110 |
 | Beja Archer | 0.70% | ~110 |
-| Old | 0.60% | ~94 |
 | Ten Crowns | 0.60% | ~94 |
 | Ancient | 0.50% | ~79 |
 | Glorious Difficulty | 0.50% | ~79 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,726 (Ranked 153)  
+Progressed: 15,727 (Ranked 153)  
 Completed: 5 (0.03%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,7 +585,7 @@ Completed: 5 (0.03%) (Ranked 333)
 | 2023-12-09 | 15,699 | 5 |
 | 2023-12-10 | 15,719 | 5 |
 | 2023-12-11 | 15,723 | 5 |
-| 2023-12-12 | 15,726 | 5 |
+| 2023-12-12 | 15,727 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 278)  
 Sum: 1,900 (Ranked 220)  

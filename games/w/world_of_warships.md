@@ -6,24 +6,24 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 79.00% | ~51,794 |
-| Initial Capital | 65.00% | ~42,615 |
-| Moneybags | 43.00% | ~28,192 |
-| Junior Supply Officer | 43.00% | ~28,192 |
-| Naval Warfare. Arson | 33.00% | ~21,635 |
-| Naval Warfare. Ramming | 32.00% | ~20,980 |
-| Amateur | 30.00% | ~19,669 |
-| Naval Warfare. Tactics | 30.00% | ~19,669 |
-| Naval Constructor | 29.00% | ~19,013 |
-| Naval Warfare. Weaponry Basics | 22.00% | ~14,424 |
-| Naval Warfare. Lucky Shot | 19.00% | ~12,457 |
-| Naval Warfare. Flooding | 18.00% | ~11,801 |
-| Business Magnate | 16.00% | ~10,490 |
-| Battle Hero | 15.00% | ~9,834 |
-| Warrior | 12.00% | ~7,867 |
-| Supply Officer | 12.00% | ~7,867 |
-| Smooth Supply | 12.00% | ~7,867 |
-| Veteran | 7.00% | ~4,589 |
+| Junior Naval Designer | 79.00% | ~51,798 |
+| Initial Capital | 65.00% | ~42,619 |
+| Moneybags | 43.00% | ~28,194 |
+| Junior Supply Officer | 43.00% | ~28,194 |
+| Naval Warfare. Arson | 33.00% | ~21,637 |
+| Naval Warfare. Ramming | 32.00% | ~20,981 |
+| Amateur | 30.00% | ~19,670 |
+| Naval Warfare. Tactics | 30.00% | ~19,670 |
+| Naval Constructor | 29.00% | ~19,014 |
+| Naval Warfare. Weaponry Basics | 22.00% | ~14,425 |
+| Naval Warfare. Lucky Shot | 19.00% | ~12,458 |
+| Naval Warfare. Flooding | 18.00% | ~11,802 |
+| Business Magnate | 16.00% | ~10,491 |
+| Battle Hero | 15.00% | ~9,835 |
+| Warrior | 12.00% | ~7,868 |
+| Supply Officer | 12.00% | ~7,868 |
+| Smooth Supply | 12.00% | ~7,868 |
+| Veteran | 7.00% | ~4,590 |
 | Legend of the Seas | 3.00% | ~1,967 |
 | Chief Naval Architect | 3.00% | ~1,967 |
 | Important Missions | 3.00% | ~1,967 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~66 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,562 (Ranked 107)  
+Progressed: 65,567 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-09 | 64,368 | 0 |
 | 2023-12-10 | 65,077 | 0 |
 | 2023-12-11 | 65,520 | 0 |
-| 2023-12-12 | 65,562 | 0 |
+| 2023-12-12 | 65,567 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,585  (Ranked 129)  
 Sum: 13,265 (Ranked 78)  

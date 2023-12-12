@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adapt and Overcome | 100.00% | ~87,268 |
-| Foot Soldier | 92.00% | ~80,287 |
-| Making Dunn Proud | 90.00% | ~78,541 |
-| Good Company | 87.00% | ~75,923 |
-| Showoff | 85.00% | ~74,178 |
-| Luck of the Irish | 78.00% | ~68,069 |
-| Squad Wiper | 77.00% | ~67,196 |
-| Burnout | 74.00% | ~64,578 |
-| War machine | 68.00% | ~59,342 |
-| Deadshot | 65.00% | ~56,724 |
-| Thank you, Santa | 64.00% | ~55,852 |
-| The Winner Takes It All | 57.00% | ~49,743 |
-| No-one gets left behind | 56.00% | ~48,870 |
-| Going Places | 54.00% | ~47,125 |
-| Dead in their tracks! | 54.00% | ~47,125 |
-| Wrecking Crew | 49.00% | ~42,761 |
-| I'm Five by Five, B | 38.00% | ~33,162 |
-| Command and Conquest | 34.00% | ~29,671 |
+| Adapt and Overcome | 100.00% | ~87,270 |
+| Foot Soldier | 92.00% | ~80,288 |
+| Making Dunn Proud | 90.00% | ~78,543 |
+| Good Company | 87.00% | ~75,925 |
+| Showoff | 85.00% | ~74,180 |
+| Luck of the Irish | 78.00% | ~68,071 |
+| Squad Wiper | 77.00% | ~67,198 |
+| Burnout | 74.00% | ~64,580 |
+| War machine | 68.00% | ~59,344 |
+| Deadshot | 65.00% | ~56,726 |
+| Thank you, Santa | 64.00% | ~55,853 |
+| The Winner Takes It All | 57.00% | ~49,744 |
+| No-one gets left behind | 56.00% | ~48,871 |
+| Going Places | 54.00% | ~47,126 |
+| Dead in their tracks! | 54.00% | ~47,126 |
+| Wrecking Crew | 49.00% | ~42,762 |
+| I'm Five by Five, B | 38.00% | ~33,163 |
+| Command and Conquest | 34.00% | ~29,672 |
 | A bird?  A plane? | 19.00% | ~16,581 |
 | One Careful Owner | 17.00% | ~14,836 |
 | Happy birthday | 15.00% | ~13,090 |
@@ -39,7 +39,7 @@
 | Pack Rat | 0.40% | ~349 |
 | Escape Artist | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,268 (Ranked 94)  
+Progressed: 87,270 (Ranked 94)  
 Completed: 5 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 5 (0.01%) (Ranked 348)
 | 2023-12-09 | 86,634 | 5 |
 | 2023-12-10 | 87,000 | 5 |
 | 2023-12-11 | 87,247 | 5 |
-| 2023-12-12 | 87,268 | 5 |
+| 2023-12-12 | 87,270 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 4.00% | ~718 |
-| Overgrown Library | 4.00% | ~718 |
-| Petrified Necropolis | 4.00% | ~718 |
+| Abandoned Settlement | 4.00% | ~719 |
+| Overgrown Library | 4.00% | ~719 |
+| Petrified Necropolis | 4.00% | ~719 |
 | Frosts | 3.00% | ~539 |
 | Ominous Presence | 3.00% | ~539 |
 | Gathering Storm | 3.00% | ~539 |
@@ -33,11 +33,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 0.60% | ~108 |
 | A Real Challenge | 0.60% | ~108 |
 | Barren Lands | 0.50% | ~90 |
+| Ancient Battleground | 0.50% | ~90 |
 | Statue of the Forefathers | 0.50% | ~90 |
 | Cursed Lands | 0.50% | ~90 |
 | Trade Baron | 0.50% | ~90 |
 | Against All Odds | 0.40% | ~72 |
-| Ancient Battleground | 0.40% | ~72 |
 | Sparkdew Crystals | 0.40% | ~72 |
 | Haunted Forest | 0.40% | ~72 |
 | Flooded Mines | 0.40% | ~72 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,962 (Ranked 147)  
+Progressed: 17,965 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 40 (0.22%) (Ranked 255)
 | 2023-12-09 | 17,808 | 43 |
 | 2023-12-10 | 17,908 | 43 |
 | 2023-12-11 | 17,957 | 41 |
-| 2023-12-12 | 17,962 | 40 |
+| 2023-12-12 | 17,965 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 226)  
 Sum: 3,253 (Ranked 175)  

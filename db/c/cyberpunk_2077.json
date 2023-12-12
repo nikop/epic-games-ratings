@@ -16490,9 +16490,9 @@
       "Count": 15269
     }
   ],
-  "EOS_Progressed": 974734,
+  "EOS_Progressed": 974740,
   "EOS_Completed": 2886,
-  "EOS_NewPlayers": 4667,
+  "EOS_NewPlayers": 4664,
   "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -43305,6 +43305,11 @@
       "Time": "2023-12-12T01:53:46.6024624+00:00",
       "NumProgressed": 974734,
       "NumCompleted": 2886
+    },
+    {
+      "Time": "2023-12-12T02:29:30.302117+00:00",
+      "NumProgressed": 974740,
+      "NumCompleted": 2886
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -43341,7 +43346,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38989
+      "UsersEstimate": 38990
     },
     {
       "ID": "Denied",
@@ -43389,7 +43394,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68231
+      "UsersEstimate": 68232
     },
     {
       "ID": "Gunslinger",
@@ -43493,7 +43498,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38989
+      "UsersEstimate": 38990
     },
     {
       "ID": "Specialist",
@@ -43613,7 +43618,7 @@
       "Name": "True Soldier",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 38989
+      "UsersEstimate": 38990
     },
     {
       "ID": "TrueWarrior",
@@ -43645,7 +43650,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116968
+      "UsersEstimate": 116969
     },
     {
       "ID": "YipMan",
@@ -43852,21 +43857,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 974734,
+      "Progressed": 974740,
       "Completed": 2886
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 103357,
+      "Progressed": 103363,
       "Completed": 10347
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-12T01:51:25.606662+00:00",
-  "LastChanged_Achievements": "2023-12-12T01:53:46.6024621+00:00",
+  "LastChanged_Achievements": "2023-12-12T02:29:30.3021167+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:22.348953+00:00",
-  "LastUpdate_Ratings": "2023-12-12T01:51:25.6066626+00:00",
-  "LastUpdate_Achievements": "2023-12-12T01:53:46.60261+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:27:04.0135328+00:00",
+  "LastUpdate_Achievements": "2023-12-12T02:29:30.3022937+00:00"
 }

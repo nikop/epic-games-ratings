@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 50,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-11-08T00:00:00+00:00",
@@ -8503,9 +8503,9 @@
       "Count": 633
     }
   ],
-  "EOS_Progressed": 364429,
+  "EOS_Progressed": 364431,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1595,
+  "EOS_NewPlayers": 1593,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -35108,6 +35108,11 @@
       "Time": "2023-12-12T01:58:09.5654683+00:00",
       "NumProgressed": 364429,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-12T02:33:47.3801679+00:00",
+      "NumProgressed": 364431,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 100,
@@ -35223,7 +35228,7 @@
       "Name": "\u0022I Would Love It If We Beat Them\u0022",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 156704
+      "UsersEstimate": 156705
     },
     {
       "ID": "achievement_beating_expectations",
@@ -35231,7 +35236,7 @@
       "Name": "Beating Expectations",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 91107
+      "UsersEstimate": 91108
     },
     {
       "ID": "achievement_big_win",
@@ -35239,7 +35244,7 @@
       "Name": "Thumping",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 142127
+      "UsersEstimate": 142128
     },
     {
       "ID": "achievement_bragging_rights",
@@ -35263,7 +35268,7 @@
       "Name": "Clean Sheet",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 196792
+      "UsersEstimate": 196793
     },
     {
       "ID": "achievement_clean_sheet_network",
@@ -35391,7 +35396,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 80174
+      "UsersEstimate": 80175
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -35415,7 +35420,7 @@
       "Name": "Irresistible Force",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 65597
+      "UsersEstimate": 65598
     },
     {
       "ID": "achievement_hattrick",
@@ -35423,7 +35428,7 @@
       "Name": "Hat-trick",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 167637
+      "UsersEstimate": 167638
     },
     {
       "ID": "achievement_head_to_head",
@@ -35439,7 +35444,7 @@
       "Name": "They\u0027re a Natural",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 112973
+      "UsersEstimate": 112974
     },
     {
       "ID": "achievement_import_to_victory",
@@ -35495,7 +35500,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 91107
+      "UsersEstimate": 91108
     },
     {
       "ID": "achievement_motivational_speaker",
@@ -35503,7 +35508,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 247812
+      "UsersEstimate": 247813
     },
     {
       "ID": "achievement_new_kids_on_the_block",
@@ -35519,7 +35524,7 @@
       "Name": "One Of Our Own",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 131194
+      "UsersEstimate": 131195
     },
     {
       "ID": "achievement_one_of_us",
@@ -35527,7 +35532,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 225946
+      "UsersEstimate": 225947
     },
     {
       "ID": "achievement_people_pleaser",
@@ -35535,7 +35540,7 @@
       "Name": "People Pleaser",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 142127
+      "UsersEstimate": 142128
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -35551,7 +35556,7 @@
       "Name": "Planned Signing",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 160349
+      "UsersEstimate": 160350
     },
     {
       "ID": "achievement_played_30_seasons",
@@ -35567,7 +35572,7 @@
       "Name": "Star Player",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 105684
+      "UsersEstimate": 105685
     },
     {
       "ID": "achievement_reach_top_of_hall_of_fame",
@@ -35583,7 +35588,7 @@
       "Name": "Record Sale",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 91107
+      "UsersEstimate": 91108
     },
     {
       "ID": "achievement_record_signing",
@@ -35591,7 +35596,7 @@
       "Name": "Record Signing",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 112973
+      "UsersEstimate": 112974
     },
     {
       "ID": "achievement_red_hot_newgen",
@@ -35623,7 +35628,7 @@
       "Name": "Off the Books",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 185859
+      "UsersEstimate": 185860
     },
     {
       "ID": "achievement_shots_for_days",
@@ -35639,7 +35644,7 @@
       "Name": "#DoneDeal",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 196792
+      "UsersEstimate": 196793
     },
     {
       "ID": "achievement_signed_a_player_from_another_network_user",
@@ -35663,7 +35668,7 @@
       "Name": "Super-Sub",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 185859
+      "UsersEstimate": 185860
     },
     {
       "ID": "achievement_the_only_stat_that_matters",
@@ -35671,7 +35676,7 @@
       "Name": "The Only Stat That Matters",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 105684
+      "UsersEstimate": 105685
     },
     {
       "ID": "achievement_the_peoples_champion",
@@ -35687,7 +35692,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 247812
+      "UsersEstimate": 247813
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -35807,7 +35812,7 @@
       "Name": "First Victory",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 200436
+      "UsersEstimate": 200437
     },
     {
       "ID": "achievement_won_international_championship",
@@ -35823,7 +35828,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 43731
+      "UsersEstimate": 43732
     },
     {
       "ID": "achievement_won_top_domestic_cup",
@@ -35918,7 +35923,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 364429,
+      "Progressed": 364431,
       "Completed": 28
     }
   ],
@@ -35926,8 +35931,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-12-12T01:47:22.5341611+00:00",
-  "LastChanged_Achievements": "2023-12-12T01:58:09.5654681+00:00",
+  "LastChanged_Achievements": "2023-12-12T02:33:47.3801675+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:26.8582363+00:00",
-  "LastUpdate_Ratings": "2023-12-12T01:47:22.5341616+00:00",
-  "LastUpdate_Achievements": "2023-12-12T01:58:09.5660099+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:23:10.8681842+00:00",
+  "LastUpdate_Achievements": "2023-12-12T02:33:47.3803645+00:00"
 }

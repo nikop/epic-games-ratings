@@ -209,9 +209,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89287,
+  "EOS_Progressed": 89288,
   "EOS_Completed": 303,
-  "EOS_NewPlayers": 679,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -13969,6 +13969,11 @@
       "Time": "2023-12-12T01:54:44.1864183+00:00",
       "NumProgressed": 89287,
       "NumCompleted": 303
+    },
+    {
+      "Time": "2023-12-12T02:30:29.3619451+00:00",
+      "NumProgressed": 89288,
+      "NumCompleted": 303
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -13997,7 +14002,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 68751
+      "UsersEstimate": 68752
     },
     {
       "ID": "grp_endless",
@@ -14005,7 +14010,7 @@
       "Name": "That Sinking Feeling",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 31250
+      "UsersEstimate": 31251
     },
     {
       "ID": "grp_finallevel",
@@ -14069,7 +14074,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 48215
+      "UsersEstimate": 48216
     },
     {
       "ID": "grp_money_tree",
@@ -14077,7 +14082,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 66072
+      "UsersEstimate": 66073
     },
     {
       "ID": "grp_speed",
@@ -14101,7 +14106,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 38393
+      "UsersEstimate": 38394
     },
     {
       "ID": "grp_weekly_beaten",
@@ -14116,7 +14121,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 89287,
+      "Progressed": 89288,
       "Completed": 303
     }
   ],
@@ -14124,8 +14129,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-12-03T07:02:36.7795942+00:00",
-  "LastChanged_Achievements": "2023-12-12T01:54:44.1864179+00:00",
+  "LastChanged_Achievements": "2023-12-12T02:30:29.3619446+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:57.2107285+00:00",
-  "LastUpdate_Ratings": "2023-12-12T01:46:31.8914266+00:00",
-  "LastUpdate_Achievements": "2023-12-12T01:54:44.1864931+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:22:19.4294051+00:00",
+  "LastUpdate_Achievements": "2023-12-12T02:30:29.3620405+00:00"
 }

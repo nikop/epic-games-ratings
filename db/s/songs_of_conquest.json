@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 421,
+  "EOS_Progressed": 422,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1798,6 +1798,11 @@
       "Time": "2023-12-11T23:06:06.5903599+00:00",
       "NumProgressed": 421,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T02:30:20.1903496+00:00",
+      "NumProgressed": 422,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2128,7 +2133,7 @@
       "ID": "UltraKill",
       "SetID": "71c0n9i",
       "Name": "Ultra Kill",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -2136,9 +2141,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 156
     },
     {
       "ID": "WielderLevel2",
@@ -2241,15 +2246,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 421,
+      "Progressed": 422,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-12T01:54:35.0008731+00:00",
+  "LastChanged_Achievements": "2023-12-12T02:30:20.1903492+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-12T01:45:48.6041902+00:00",
-  "LastUpdate_Achievements": "2023-12-12T01:54:35.0009192+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:21:33.6329779+00:00",
+  "LastUpdate_Achievements": "2023-12-12T02:30:20.1903889+00:00"
 }

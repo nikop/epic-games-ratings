@@ -4619,9 +4619,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77910,
+  "EOS_Progressed": 77911,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25689,6 +25689,11 @@
       "Time": "2023-12-11T23:06:12.1614594+00:00",
       "NumProgressed": 77910,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-12T02:30:23.9862749+00:00",
+      "NumProgressed": 77911,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25788,7 +25793,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11686
+      "UsersEstimate": 11687
     },
     {
       "ID": "CHALLENGES_1",
@@ -25820,7 +25825,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10907
+      "UsersEstimate": 10908
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -25948,7 +25953,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10907
+      "UsersEstimate": 10908
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -26004,7 +26009,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26489
+      "UsersEstimate": 26490
     },
     {
       "ID": "HARLEY_2",
@@ -26044,7 +26049,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38955
+      "UsersEstimate": 38956
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -26092,7 +26097,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25710
+      "UsersEstimate": 25711
     },
     {
       "ID": "MYSTERY_02",
@@ -26100,7 +26105,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18698
+      "UsersEstimate": 18699
     },
     {
       "ID": "MYSTERY_03",
@@ -26132,7 +26137,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11686
+      "UsersEstimate": 11687
     },
     {
       "ID": "MYSTERY_07",
@@ -26140,7 +26145,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10907
+      "UsersEstimate": 10908
     },
     {
       "ID": "MYSTERY_08",
@@ -26187,13 +26192,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77910,
+      "Progressed": 77911,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48190,
+      "Progressed": 48191,
       "Completed": 2675
     }
   ],
@@ -26201,8 +26206,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-11T22:58:05.5851944+00:00",
-  "LastChanged_Achievements": "2023-12-12T01:54:38.7168241+00:00",
+  "LastChanged_Achievements": "2023-12-12T02:30:23.9862745+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-12T01:46:42.1038185+00:00",
-  "LastUpdate_Achievements": "2023-12-12T01:54:38.7169788+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:22:29.2988149+00:00",
+  "LastUpdate_Achievements": "2023-12-12T02:30:23.9863893+00:00"
 }

@@ -9502,10 +9502,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20081,
       "NumberOfAwardsMax": 7586
+    },
+    {
+      "Time": "2023-12-12T02:22:43.6817487+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20101,
+      "NumberOfAwardsMax": 7586
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20081,
+  "NumberOfAwards": 20101,
   "NumberOfAwardsMax": 7586,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9555,7 +9561,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1636
+      "Count": 1656
     },
     {
       "Text": "This game is Relaxing",
@@ -9582,9 +9588,9 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126261,
+  "EOS_Progressed": 126267,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 705,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34577,6 +34583,11 @@
       "Time": "2023-12-12T01:56:49.8352535+00:00",
       "NumProgressed": 126261,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T02:32:45.4235892+00:00",
+      "NumProgressed": 126267,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34786,9 +34797,9 @@
       "ID": "combat_kill_harvest_child",
       "SetID": "64l4lke",
       "Name": "Meat and Greet",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 758
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35098,9 +35109,9 @@
       "ID": "stagecoach_upgrade_equip_all",
       "SetID": "64l4lke",
       "Name": "Road Trip",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 253
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -35186,9 +35197,9 @@
       "ID": "quest_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Lost and Found",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35219,21 +35230,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126261,
+      "Progressed": 126267,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1130,
+      "Progressed": 1136,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-11T19:58:09.4753037+00:00",
-  "LastChanged_Achievements": "2023-12-12T01:56:49.8352531+00:00",
+  "LastChanged": "2023-12-12T02:22:43.6817485+00:00",
+  "LastChanged_Achievements": "2023-12-12T02:32:45.4235888+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T01:46:55.8358362+00:00",
-  "LastUpdate_Achievements": "2023-12-12T01:56:49.8354233+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:22:43.6817492+00:00",
+  "LastUpdate_Achievements": "2023-12-12T02:32:45.423742+00:00"
 }

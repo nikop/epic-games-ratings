@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -681,9 +681,9 @@
       "ID": "killGoldSkeleton1",
       "SetID": "ci65fo0",
       "Name": "The First Golden Skeleton",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "killGoldSkeleton10",
@@ -841,9 +841,9 @@
       "ID": "locDungeon2",
       "SetID": "ci65fo0",
       "Name": "Bone cave",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "locGoblins",
@@ -857,9 +857,9 @@
       "ID": "locGraveyard",
       "SetID": "ci65fo0",
       "Name": "Graveyard",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "locSmith",
@@ -921,9 +921,9 @@
       "ID": "questCemetery",
       "SetID": "ci65fo0",
       "Name": "Cemetery secrets",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "questCemetery2",
@@ -953,9 +953,9 @@
       "ID": "questDeadArtifact",
       "SetID": "ci65fo0",
       "Name": "The Mystery of the Dead",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "questDefeatMainEnemy",
@@ -993,9 +993,9 @@
       "ID": "questGenerous",
       "SetID": "ci65fo0",
       "Name": "Generous",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "questHallucinationsKing",
@@ -1158,8 +1158,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-12T01:57:06.5007261+00:00",
+  "LastChanged_Achievements": "2023-12-12T02:33:02.7966507+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.3472582+00:00",
-  "LastUpdate_Ratings": "2023-12-12T01:46:46.6036074+00:00",
-  "LastUpdate_Achievements": "2023-12-12T01:57:06.5007799+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:22:33.9253976+00:00",
+  "LastUpdate_Achievements": "2023-12-12T02:33:02.7967095+00:00"
 }

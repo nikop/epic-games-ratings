@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -299,9 +299,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2370,
+  "EOS_Progressed": 2371,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6649,6 +6649,11 @@
       "Time": "2023-12-11T23:03:41.5068216+00:00",
       "NumProgressed": 2370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T02:27:54.3319946+00:00",
+      "NumProgressed": 2371,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -6740,7 +6745,7 @@
       "Name": "From X to Y",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "A11",
@@ -6756,7 +6761,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "A13",
@@ -6780,7 +6785,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "A16",
@@ -6820,7 +6825,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "A21",
@@ -6836,7 +6841,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "A23",
@@ -6892,7 +6897,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "A30",
@@ -6908,7 +6913,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "A32",
@@ -6940,7 +6945,7 @@
       "Name": "Traffic Junction",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "A36",
@@ -6956,7 +6961,7 @@
       "Name": "All around the World",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "A38",
@@ -6980,7 +6985,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "A41",
@@ -6996,7 +7001,7 @@
       "Name": "Bridge Builder",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "A43",
@@ -7012,7 +7017,7 @@
       "Name": "Breaking Ground",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "A45",
@@ -7028,7 +7033,7 @@
       "Name": "Mystery Tour",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "A47",
@@ -7036,7 +7041,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "A48",
@@ -7099,7 +7104,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2370,
+      "Progressed": 2371,
       "Completed": 0
     }
   ],
@@ -7107,8 +7112,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-12T01:52:13.3772418+00:00",
+  "LastChanged_Achievements": "2023-12-12T02:27:54.331994+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:15.8149041+00:00",
-  "LastUpdate_Ratings": "2023-12-12T01:45:33.5225052+00:00",
-  "LastUpdate_Achievements": "2023-12-12T01:52:13.3773046+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:21:18.0641345+00:00",
+  "LastUpdate_Achievements": "2023-12-12T02:27:54.3320507+00:00"
 }

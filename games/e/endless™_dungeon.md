@@ -11,12 +11,12 @@
 | Blobmeister | 27.00% | ~354 |
 | Exhaustive Explorer | 27.00% | ~354 |
 | How Low Can We Go? | 25.00% | ~328 |
-| Team Builder | 21.00% | ~275 |
+| Team Builder | 21.00% | ~276 |
 | Long Live Rock | 17.00% | ~223 |
 | Aggressive Antivirus | 16.00% | ~210 |
-| Unblurred Lines | 13.00% | ~170 |
-| Obsessively Thorough | 13.00% | ~170 |
-| Effective Efficiency | 13.00% | ~170 |
+| Unblurred Lines | 13.00% | ~171 |
+| Obsessively Thorough | 13.00% | ~171 |
+| Effective Efficiency | 13.00% | ~171 |
 | Endlessly Effective | 11.00% | ~144 |
 | What's Behind Every Door? | 6.00% | ~79 |
 | No Stone Unturned | 5.00% | ~66 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,311 (Ranked 250)  
+Progressed: 1,312 (Ranked 250)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,3 +93,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-09 | 1,302 | 0 |
 | 2023-12-10 | 1,306 | 0 |
 | 2023-12-11 | 1,311 | 0 |
+| 2023-12-12 | 1,312 | 0 |

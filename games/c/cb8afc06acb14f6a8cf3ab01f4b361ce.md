@@ -1,7 +1,7 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 915)  
+Rating: 4.20 (Ranked 926)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 915)
 | Something... unnatural | 0.10% | ~328 |
 | We strike as one | 0.10% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,600 (Ranked 52)  
+Progressed: 327,605 (Ranked 52)  
 Completed: 5 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 5 (0.00%) (Ranked 371)
 | 2023-12-09 | 326,517 | 5 |
 | 2023-12-10 | 327,167 | 5 |
 | 2023-12-11 | 327,554 | 5 |
-| 2023-12-12 | 327,600 | 5 |
+| 2023-12-12 | 327,605 | 5 |
 ## Awards
 Max (Great Boss Battles): 65  (Ranked 412)  
 Sum: 65 (Ranked 478)  
@@ -178,3 +178,4 @@ Diff (max vs sum): -66
 | 2023-12-02 | 4.20 | 63 | 63 |
 | 2023-12-06 | 4.20 | 65 | 65 |
 | 2023-12-11 | 4.21 | 65 | 65 |
+| 2023-12-12 | 4.20 | 65 | 65 |

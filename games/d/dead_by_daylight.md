@@ -6,13 +6,13 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~21,779 |
-| It wakes | 2.00% | ~21,779 |
-| Not half bad | 2.00% | ~21,779 |
-| Apt Survivor | 2.00% | ~21,779 |
-| Survival Treasures | 2.00% | ~21,779 |
-| Skillful | 2.00% | ~21,779 |
-| Make Some Noise | 2.00% | ~21,779 |
+| Zealous | 2.00% | ~21,780 |
+| It wakes | 2.00% | ~21,780 |
+| Not half bad | 2.00% | ~21,780 |
+| Apt Survivor | 2.00% | ~21,780 |
+| Survival Treasures | 2.00% | ~21,780 |
+| Skillful | 2.00% | ~21,780 |
+| Make Some Noise | 2.00% | ~21,780 |
 | The Grand Sacrifice | 1.00% | ~10,890 |
 | Agonizing Escape | 1.00% | ~10,890 |
 | Backdoor Escape | 1.00% | ~10,890 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,089 |
 | Adept Good Guy | 0.10% | ~1,089 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,088,966 (Ranked 12)  
+Progressed: 1,089,014 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -475,7 +475,7 @@ Completed: 62 (0.01%) (Ranked 348)
 | 2023-12-09 | 1,083,532 | 61 |
 | 2023-12-10 | 1,086,485 | 62 |
 | 2023-12-11 | 1,088,746 | 62 |
-| 2023-12-12 | 1,088,966 | 62 |
+| 2023-12-12 | 1,089,014 | 62 |
 ## Awards
 Max (Diverse Characters): 37,733  (Ranked 15)  
 Sum: 285,815 (Ranked 12)  

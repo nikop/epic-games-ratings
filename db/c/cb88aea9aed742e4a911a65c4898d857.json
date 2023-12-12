@@ -33,9 +33,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2381,
+  "EOS_Progressed": 2386,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2379,
+  "EOS_NewPlayers": 2384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -578,6 +578,11 @@
       "Time": "2023-12-12T01:57:13.5862823+00:00",
       "NumProgressed": 2381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T02:33:10.4769444+00:00",
+      "NumProgressed": 2386,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -590,7 +595,7 @@
       "Name": "Conspiracy",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1265
     },
     {
       "ID": "03_TheStolenStar",
@@ -598,7 +603,7 @@
       "Name": "Stolen Star",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -750,7 +755,7 @@
       "Name": "Perfect Timing",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "23_DynastyRestored",
@@ -798,7 +803,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -806,7 +811,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1193
     },
     {
       "ID": "30_The GreatestExploration",
@@ -838,7 +843,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -942,7 +947,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "47_AFlame",
@@ -1109,7 +1114,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 2381,
+      "Progressed": 2386,
       "Completed": 0
     }
   ],
@@ -1117,8 +1122,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-11T06:59:42.8971748+00:00",
-  "LastChanged_Achievements": "2023-12-12T01:57:13.5862821+00:00",
+  "LastChanged_Achievements": "2023-12-12T02:33:10.4769441+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-12T01:48:19.4902073+00:00",
-  "LastUpdate_Achievements": "2023-12-12T01:57:13.586324+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:24:09.2147693+00:00",
+  "LastUpdate_Achievements": "2023-12-12T02:33:10.4769889+00:00"
 }

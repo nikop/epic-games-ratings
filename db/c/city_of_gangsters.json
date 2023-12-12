@@ -886,9 +886,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 356273,
+  "EOS_Progressed": 356274,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 985,
+  "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27681,6 +27681,11 @@
       "Time": "2023-12-12T01:53:19.3274449+00:00",
       "NumProgressed": 356273,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-12T02:29:02.5900429+00:00",
+      "NumProgressed": 356274,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -27820,7 +27825,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46315
+      "UsersEstimate": 46316
     },
     {
       "ID": "ach018",
@@ -28044,7 +28049,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46315
+      "UsersEstimate": 46316
     },
     {
       "ID": "ach046",
@@ -28331,7 +28336,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 356273,
+      "Progressed": 356274,
       "Completed": 7
     }
   ],
@@ -28339,8 +28344,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-09T03:58:10.9802896+00:00",
-  "LastChanged_Achievements": "2023-12-12T01:53:19.3274445+00:00",
+  "LastChanged_Achievements": "2023-12-12T02:29:02.5900426+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.9367355+00:00",
-  "LastUpdate_Ratings": "2023-12-12T01:48:13.974151+00:00",
-  "LastUpdate_Achievements": "2023-12-12T01:53:19.3276096+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:24:03.5808666+00:00",
+  "LastUpdate_Achievements": "2023-12-12T02:29:02.590237+00:00"
 }

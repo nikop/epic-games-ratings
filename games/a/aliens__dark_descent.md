@@ -19,8 +19,8 @@ Rating: 4.51 (Ranked 576)
 | Colonial Barrels | 51.00% | ~1,910 |
 | Harper's Hell | 47.00% | ~1,761 |
 | Making a Stand | 45.00% | ~1,686 |
+| Where It All Begun | 42.00% | ~1,573 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,573 |
-| Where It All Begun | 41.00% | ~1,536 |
 | Recouped Investment | 39.00% | ~1,461 |
 | The More The Merrier | 36.00% | ~1,349 |
 | Living Nightmare | 35.00% | ~1,311 |
@@ -221,9 +221,9 @@ Completed: 3 (0.08%) (Ranked 305)
 | 2023-12-10 | 3,744 | 3 |
 | 2023-12-11 | 3,746 | 3 |
 ## Awards
-Max (Great Boss Battles): 38  (Ranked 468)  
+Max (Great Boss Battles): 38  (Ranked 469)  
 Sum: 38 (Ranked 506)  
-Diff (max vs sum): -38  
+Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 38 |

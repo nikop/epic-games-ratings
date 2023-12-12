@@ -4,7 +4,7 @@
   "ProductSlug": "trash-sailors-3ae2e5",
   "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-12-16T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.8740703+00:00",
   "LastChanged": "2023-03-31T05:58:18.8740704+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:14.2096422+00:00",
-  "LastUpdate_Ratings": "2023-12-12T01:46:59.0635067+00:00",
-  "LastUpdate_Achievements": "2023-12-12T01:57:08.8710573+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:22:46.8223293+00:00",
+  "LastUpdate_Achievements": "2023-12-12T02:33:05.1764999+00:00"
 }

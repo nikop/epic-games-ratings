@@ -11,14 +11,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 0.80% | ~1,010 |
 | Catch and Decease | 0.70% | ~884 |
 | Not Today! | 0.60% | ~758 |
+| Meat and Greet | 0.60% | ~758 |
 | Overdue Notice | 0.60% | ~758 |
 | Escape from the Black Hole | 0.60% | ~758 |
 | Creep and Sleep | 0.50% | ~631 |
-| Meat and Greet | 0.50% | ~631 |
 | Autodidact | 0.40% | ~505 |
 | Bloody Graduation | 0.40% | ~5 |
+| Lost and Found | 0.40% | ~5 |
 | Serenity Now! | 0.30% | ~379 |
-| Lost and Found | 0.30% | ~3 |
 | Don't Make Me Turn This Coach Around | 0.20% | ~253 |
 | It Rings a Bell | 0.20% | ~253 |
 | Resurrection | 0.20% | ~253 |
@@ -46,6 +46,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 0.20% | ~253 |
 | Nope | 0.20% | ~253 |
 | Unshackled | 0.20% | ~253 |
+| Road Trip | 0.20% | ~253 |
 | A Life Well Lived | 0.10% | ~126 |
 | The World As It Was | 0.10% | ~126 |
 | This Looks Familiar | 0.10% | ~126 |
@@ -73,7 +74,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 0.10% | ~126 |
 | Grand Slam | 0.10% | ~126 |
 | Hard Mode | 0.10% | ~126 |
-| Road Trip | 0.10% | ~126 |
 | Battle Hardened | 0.10% | ~1 |
 | Maître De La Lame | 0.10% | ~1 |
 | These Boots Are Made For Kickin' | 0.10% | ~1 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.00% | ~0 |
 | On This Long Road, We Found Redemption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,261 (Ranked 84)  
+Progressed: 126,267 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,15 +312,15 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
-| 2023-12-12 | 126,261 | 2 |
+| 2023-12-12 | 126,267 | 2 |
 ## Awards
 Max (Character Customization): 7,586  (Ranked 52)  
-Sum: 20,081 (Ranked 59)  
+Sum: 20,101 (Ranked 59)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,586 |
-| This game has Diverse Characters | 1,636 |
+| This game has Diverse Characters | 1,656 |
 | This game has Challenging Combat | 1,553 |
 | This game is Highly Recommended | 1,481 |
 | This game has Amazing Characters | 1,430 |
@@ -652,3 +652,4 @@ Diff (max vs sum): -7
 | 2023-12-09 | 4.68 | - | 7,572 | 20,019 |
 | 2023-12-10 | 4.68 | - | 7,578 | 20,042 |
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
+| 2023-12-12 | 4.68 | - | 7,586 | 20,101 |

@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 38.00% | ~160 |
+| Adept | 37.00% | ~156 |
 | Double Kill | 28.00% | ~118 |
 | Critical Hit | 17.00% | ~72 |
 | Veteran | 15.00% | ~63 |
@@ -29,8 +29,8 @@ Number of Ratings: 292  (23.09.2022)
 | Pyrrhic Victory | 2.00% | ~8 |
 | Versatile Wielder | 1.00% | ~4 |
 | Infernal Influence | 1.00% | ~4 |
-| Ultra Kill | 1.00% | ~4 |
 | Grand Master | 1.00% | ~4 |
+| Ultra Kill | 0.90% | ~4 |
 | Together For Her | 0.70% | ~3 |
 | Death To Diplomacy | 0.50% | ~2 |
 | Unlimited Power! | 0.50% | ~2 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421 (Ranked 332)  
+Progressed: 422 (Ranked 332)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-09 | 400 | 0 |
 | 2023-12-10 | 418 | 0 |
 | 2023-12-11 | 421 | 0 |
+| 2023-12-12 | 422 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 515)  
 Sum: 194 (Ranked 408)  
