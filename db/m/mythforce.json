@@ -824,9 +824,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5454,
+  "EOS_Progressed": 5456,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -10894,6 +10894,11 @@
       "Time": "2023-12-12T01:52:26.3308172+00:00",
       "NumProgressed": 5454,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-12T08:04:23.0876431+00:00",
+      "NumProgressed": 5456,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10906,7 +10911,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -10954,7 +10959,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11058,7 +11063,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -11089,15 +11094,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5454,
+      "Progressed": 5456,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-11T15:58:13.4917399+00:00",
-  "LastChanged_Achievements": "2023-12-12T07:03:48.4639171+00:00",
+  "LastChanged_Achievements": "2023-12-12T08:04:23.0876428+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:58:27.4137743+00:00",
-  "LastUpdate_Achievements": "2023-12-12T07:03:48.4639755+00:00"
+  "LastUpdate_Ratings": "2023-12-12T07:58:46.6166665+00:00",
+  "LastUpdate_Achievements": "2023-12-12T08:04:23.0877173+00:00"
 }

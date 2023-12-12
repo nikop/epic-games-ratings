@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7716,
+  "EOS_Progressed": 7717,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -6253,6 +6253,11 @@
       "Time": "2023-12-12T06:10:20.2161587+00:00",
       "NumProgressed": 7716,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-12T08:09:41.9007453+00:00",
+      "NumProgressed": 7717,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6345,7 +6350,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "GarbageMan",
@@ -6449,7 +6454,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "TheOldSchoolWay",
@@ -6457,7 +6462,7 @@
       "Name": "The Old-School Way",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "TheQuarterback",
@@ -6505,7 +6510,7 @@
       "Name": "Digestive Issues",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -6536,7 +6541,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7716,
+      "Progressed": 7717,
       "Completed": 16
     }
   ],
@@ -6544,8 +6549,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-11T17:58:44.1681748+00:00",
-  "LastChanged_Achievements": "2023-12-12T07:09:15.6835679+00:00",
+  "LastChanged_Achievements": "2023-12-12T08:09:41.9007451+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:58:53.3251131+00:00",
-  "LastUpdate_Achievements": "2023-12-12T07:09:15.6836058+00:00"
+  "LastUpdate_Ratings": "2023-12-12T07:59:11.4625868+00:00",
+  "LastUpdate_Achievements": "2023-12-12T08:09:41.9007974+00:00"
 }

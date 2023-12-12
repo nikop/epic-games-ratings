@@ -2,12 +2,12 @@
   "ID": "a0c5d9d8a9a940e8a8f63118c7323210",
   "Name": "Murder by Numbers",
   "ProductSlug": "murder-by-numbers",
-  "Ranking_Rating": 855,
+  "Ranking_Rating": 863,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 790,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-03-23T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.28,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:06.0023598+00:00",
@@ -357,6 +357,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-12T07:59:38.0786562+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -375,8 +381,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:06.0974426+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.0023596+00:00",
-  "LastChanged": "2023-12-02T02:16:13.173006+00:00",
+  "LastChanged": "2023-12-12T07:59:38.078656+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.5698104+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:59:20.7257866+00:00",
-  "LastUpdate_Achievements": "2023-12-12T07:03:03.9699929+00:00"
+  "LastUpdate_Ratings": "2023-12-12T07:59:38.0786565+00:00",
+  "LastUpdate_Achievements": "2023-12-12T08:03:39.8615495+00:00"
 }

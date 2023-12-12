@@ -46,9 +46,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Do The Double | 19.00% | ~90,730 |
 | Top Form | 17.00% | ~81,179 |
 | Cash To Burn | 17.00% | ~81,179 |
+| Beating Expectations | 16.00% | ~76,404 |
 | Overachiever! | 16.00% | ~76,404 |
 | Rushed signing | 16.00% | ~76,404 |
-| Beating Expectations | 15.00% | ~71,629 |
 | Window Shopping | 15.00% | ~71,629 |
 | Eyes and Ears | 14.00% | ~66,853 |
 | Comeback King! | 14.00% | ~66,853 |

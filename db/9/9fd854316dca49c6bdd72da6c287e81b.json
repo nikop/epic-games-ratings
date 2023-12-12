@@ -4,7 +4,7 @@
   "ProductSlug": "gom-c4ffb6",
   "Ranking_EOS_Progress": 790,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-08T03:57:07.1208916+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:59:08.395777+00:00",
-  "LastUpdate_Achievements": "2023-12-12T07:04:36.602101+00:00"
+  "LastUpdate_Ratings": "2023-12-12T07:59:25.93064+00:00",
+  "LastUpdate_Achievements": "2023-12-12T08:05:10.0233021+00:00"
 }

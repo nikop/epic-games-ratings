@@ -772,7 +772,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 42077,
+  "EOS_Progressed": 42078,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 0,
@@ -24757,6 +24757,11 @@
       "Time": "2023-12-12T06:04:25.8934487+00:00",
       "NumProgressed": 42077,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-12T08:04:07.1652816+00:00",
+      "NumProgressed": 42078,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -24832,7 +24837,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4629
     },
     {
       "ID": "ach_cursestone",
@@ -24856,7 +24861,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4629
     },
     {
       "ID": "ach_deathofermod",
@@ -24936,7 +24941,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4629
     },
     {
       "ID": "ach_invictus",
@@ -24992,7 +24997,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4629
     },
     {
       "ID": "ach_newstories",
@@ -25199,15 +25204,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 42077,
+      "Progressed": 42078,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-05T21:58:32.7550379+00:00",
-  "LastChanged_Achievements": "2023-12-12T07:03:32.0404305+00:00",
+  "LastChanged_Achievements": "2023-12-12T08:04:07.1652814+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:24.6930369+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:58:09.6876534+00:00",
-  "LastUpdate_Achievements": "2023-12-12T07:03:32.0405744+00:00"
+  "LastUpdate_Ratings": "2023-12-12T07:58:27.7304913+00:00",
+  "LastUpdate_Achievements": "2023-12-12T08:04:07.1653991+00:00"
 }

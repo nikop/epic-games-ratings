@@ -48,6 +48,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.20% | ~1,436 |
 | Deadly Venom | 0.20% | ~55 |
 | A Touch of Acumen | 0.20% | ~55 |
+| Skill and an even stronger will | 0.20% | ~55 |
 | Beatmaker | 0.20% | ~55 |
 | Drunken Fighter | 0.10% | ~718 |
 | Martial Artist | 0.10% | ~718 |
@@ -60,14 +61,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Secure, Protect, Leave | 0.10% | ~27 |
 | Crouching Tiger | 0.10% | ~27 |
 | Hidden Dragon | 0.10% | ~27 |
-| Skill and an even stronger will | 0.10% | ~27 |
 | Master of the Flying Assassins | 0.10% | ~27 |
 | Here Cometh the Iceman | 0.10% | ~27 |
 | Fighter in the Pond | 0.10% | ~27 |
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,978 (Ranked 24)  
+Progressed: 717,980 (Ranked 24)  
 Completed: 12,952 (1.80%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 12,952 (1.80%) (Ranked 136)
 | 2023-12-09 | 717,920 | 12,947 |
 | 2023-12-10 | 717,948 | 12,951 |
 | 2023-12-11 | 717,971 | 12,952 |
-| 2023-12-12 | 717,978 | 12,952 |
+| 2023-12-12 | 717,980 | 12,952 |
 ## Awards
 Max (Great Boss Battles): 6,909  (Ranked 55)  
 Sum: 12,128 (Ranked 83)  

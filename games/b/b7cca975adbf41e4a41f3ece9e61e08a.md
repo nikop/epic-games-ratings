@@ -5,17 +5,17 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~10,059 |
+| Last Night...Did We... | 92.00% | ~10,060 |
 | I Challenge You To Save More Money! | 87.00% | ~9,513 |
-| I Love How Tough You Are | 73.00% | ~7,982 |
+| I Love How Tough You Are | 73.00% | ~7,983 |
 | Wanna Come To My Place For Dinner? | 67.00% | ~7,326 |
 | What I Want Is You | 61.00% | ~6,670 |
 | To Be Or Not To Be | 58.00% | ~6,342 |
-| Are You Alright? | 50.00% | ~5,467 |
+| Are You Alright? | 50.00% | ~5,468 |
 | Love Actually | 49.00% | ~5,358 |
-| Drama King | 42.00% | ~4,592 |
+| Drama King | 42.00% | ~4,593 |
 | You're Really Something Else | 38.00% | ~4,155 |
-| Go Clean up In Your Own Way | 36.00% | ~3,936 |
+| Go Clean up In Your Own Way | 36.00% | ~3,937 |
 | Happy Family | 35.00% | ~3,827 |
 | ONE PUNCH | 35.00% | ~3,827 |
 | FIRST LOVE | 35.00% | ~3,827 |
@@ -32,9 +32,9 @@ Rating: 4.75 (Ranked 148)
 | That's So You | 25.00% | ~2,734 |
 | SALUTE | 25.00% | ~2,734 |
 | Let Me Be Your Toy Boy | 24.00% | ~2,624 |
-| Off We Sail Tonight | 19.00% | ~2,077 |
-| Love You Three Thousand | 16.00% | ~1,749 |
-| Can You Do This Or Not? | 16.00% | ~1,749 |
+| Off We Sail Tonight | 19.00% | ~2,078 |
+| Love You Three Thousand | 16.00% | ~1,750 |
+| Can You Do This Or Not? | 16.00% | ~1,750 |
 | Doesn't Matter I'll Handle It | 14.00% | ~1,531 |
 | The Flash | 12.00% | ~1,312 |
 | New Yoga Pose Unlocked | 12.00% | ~1,312 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 148)
 | Tall; Grande; Venti | 2.00% | ~219 |
 | Limerence | 2.00% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,934 (Ranked 165)  
+Progressed: 10,935 (Ranked 165)  
 Completed: 203 (1.86%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 203 (1.86%) (Ranked 135)
 | 2023-12-09 | 10,871 | 200 |
 | 2023-12-10 | 10,902 | 201 |
 | 2023-12-11 | 10,928 | 203 |
-| 2023-12-12 | 10,934 | 203 |
+| 2023-12-12 | 10,935 | 203 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 536)  
 Sum: 23 (Ranked 540)  

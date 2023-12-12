@@ -2,9 +2,9 @@
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
   "ProductSlug": "scathe-ca258f",
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 533,
+  "EOS_Progressed": 534,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2261,6 +2261,11 @@
       "Time": "2023-12-12T06:09:32.0297715+00:00",
       "NumProgressed": 533,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T08:09:08.4563237+00:00",
+      "NumProgressed": 534,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -2310,7 +2315,7 @@
       "ID": "ACHIEVEMENT_DOOMED",
       "SetID": "2ff85j2",
       "Name": "Doomed",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -2382,7 +2387,7 @@
       "ID": "ACHIEVEMENT_POSTAL_SERVICE",
       "SetID": "2ff85j2",
       "Name": "Postal Service",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -2511,7 +2516,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 533,
+      "Progressed": 534,
       "Completed": 0
     }
   ],
@@ -2519,8 +2524,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-12-12T07:08:39.24064+00:00",
+  "LastChanged_Achievements": "2023-12-12T08:09:08.4563234+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.4195463+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:59:12.8567015+00:00",
-  "LastUpdate_Achievements": "2023-12-12T07:08:39.2406675+00:00"
+  "LastUpdate_Ratings": "2023-12-12T07:59:30.1713235+00:00",
+  "LastUpdate_Achievements": "2023-12-12T08:09:08.4563479+00:00"
 }

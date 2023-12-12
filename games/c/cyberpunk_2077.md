@@ -6,15 +6,15 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,977 |
-| Gun Fu | 7.00% | ~68,236 |
-| The Fool | 6.00% | ~58,488 |
-| Right Back At Ya | 5.00% | ~48,740 |
-| The Lovers | 5.00% | ~48,740 |
-| Full Body Conversion | 4.00% | ~38,992 |
-| Stanislavski's Method | 4.00% | ~38,992 |
-| The Wheel of Fortune | 4.00% | ~38,992 |
-| True Soldier | 4.00% | ~38,992 |
+| V for Vendetta | 12.00% | ~116,978 |
+| Gun Fu | 7.00% | ~68,237 |
+| The Fool | 6.00% | ~58,489 |
+| Right Back At Ya | 5.00% | ~48,741 |
+| The Lovers | 5.00% | ~48,741 |
+| Full Body Conversion | 4.00% | ~38,993 |
+| Stanislavski's Method | 4.00% | ~38,993 |
+| The Wheel of Fortune | 4.00% | ~38,993 |
+| True Soldier | 4.00% | ~38,993 |
 | Christmas Tree Attack | 3.00% | ~29,244 |
 | The Hermit | 3.00% | ~29,244 |
 | Relic Ruler | 3.00% | ~3,103 |
@@ -36,7 +36,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Easy Come, Easy Go | 1.00% | ~1,034 |
 | The Wandering Fool | 0.90% | ~8,773 |
 | King of Wands | 0.90% | ~931 |
-| The Sun | 0.80% | ~7,798 |
+| The Sun | 0.80% | ~7,799 |
 | Dirty Deeds | 0.80% | ~827 |
 | To Bad Decisions! | 0.70% | ~6,824 |
 | Ten out of Ten | 0.70% | ~6,824 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974,806 (Ranked 15)  
-Completed: 2,887 (0.30%) (Ranked 240)  
+Progressed: 974,814 (Ranked 15)  
+Completed: 2,888 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -310,7 +310,7 @@ Completed: 2,887 (0.30%) (Ranked 240)
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
-| 2023-12-12 | 974,806 | 2,887 |
+| 2023-12-12 | 974,814 | 2,888 |
 ## Awards
 Max (Character Customization): 121,434  (Ranked 9)  
 Sum: 411,438 (Ranked 9)  

@@ -4,10 +4,10 @@
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 45,
   "Ranking_Popularity": 283,
-  "Ranking_PopularitySum": 224,
+  "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -10447,17 +10447,17 @@
       "ID": "AllSkills",
       "SetID": "3ojhj46",
       "Name": "Looks Familiar",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 166
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Justice",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 142
     },
     {
       "ID": "BossBridgeDefeated",
@@ -10725,8 +10725,8 @@
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-12T07:08:56.6589726+00:00",
+  "LastChanged_Achievements": "2023-12-12T08:09:25.1818509+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:17.8828255+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:57:29.022635+00:00",
-  "LastUpdate_Achievements": "2023-12-12T07:08:56.6590553+00:00"
+  "LastUpdate_Ratings": "2023-12-12T07:57:46.1767859+00:00",
+  "LastUpdate_Achievements": "2023-12-12T08:09:25.1819227+00:00"
 }

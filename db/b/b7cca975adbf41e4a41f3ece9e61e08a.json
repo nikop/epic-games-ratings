@@ -199,9 +199,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10934,
+  "EOS_Progressed": 10935,
   "EOS_Completed": 203,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.86,
   "EosHistory": [
@@ -6104,6 +6104,11 @@
       "Time": "2023-12-12T07:08:32.3612687+00:00",
       "NumProgressed": 10934,
       "NumCompleted": 203
+    },
+    {
+      "Time": "2023-12-12T08:09:01.7305551+00:00",
+      "NumProgressed": 10935,
+      "NumCompleted": 203
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -6116,7 +6121,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 10059
+      "UsersEstimate": 10060
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -6148,7 +6153,7 @@
       "Name": "Off We Sail Tonight",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -6212,7 +6217,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 7982
+      "UsersEstimate": 7983
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -6236,7 +6241,7 @@
       "Name": "Love You Three Thousand",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_23",
@@ -6292,7 +6297,7 @@
       "Name": "Can You Do This Or Not?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -6372,7 +6377,7 @@
       "Name": "Are You Alright?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 5467
+      "UsersEstimate": 5468
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -6380,7 +6385,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3936
+      "UsersEstimate": 3937
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -6428,7 +6433,7 @@
       "Name": "Drama King",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4592
+      "UsersEstimate": 4593
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -6451,7 +6456,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10934,
+      "Progressed": 10935,
       "Completed": 203
     }
   ],
@@ -6459,8 +6464,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-10T15:00:14.2676379+00:00",
-  "LastChanged_Achievements": "2023-12-12T07:08:32.3612684+00:00",
+  "LastChanged_Achievements": "2023-12-12T08:09:01.7305547+00:00",
   "LastUpdate_AppInfo": "2023-12-09T02:17:01.4764819+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:57:31.8287061+00:00",
-  "LastUpdate_Achievements": "2023-12-12T07:08:32.361322+00:00"
+  "LastUpdate_Ratings": "2023-12-12T07:57:48.8581979+00:00",
+  "LastUpdate_Achievements": "2023-12-12T08:09:01.7306128+00:00"
 }

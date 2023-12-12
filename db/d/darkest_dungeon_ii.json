@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9594,9 +9594,9 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126313,
+  "EOS_Progressed": 126323,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 734,
+  "EOS_NewPlayers": 741,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34619,6 +34619,11 @@
       "Time": "2023-12-12T07:08:22.6969191+00:00",
       "NumProgressed": 126313,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T08:08:52.1392009+00:00",
+      "NumProgressed": 126323,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34756,9 +34761,9 @@
       "ID": "combat_kill_antiquarian",
       "SetID": "64l4lke",
       "Name": "This Belongs in a Museum",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1263
     },
     {
       "ID": "combat_kill_cadavers",
@@ -34780,9 +34785,9 @@
       "ID": "combat_kill_death",
       "SetID": "64l4lke",
       "Name": "Not Today!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 1011
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35166,7 +35171,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "combat_kill_collector",
@@ -35196,9 +35201,9 @@
       "ID": "combat_land_riposte_dmg_threshold_duelist",
       "SetID": "d3bcpc8",
       "Name": "Slap on the Wrist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -35228,9 +35233,9 @@
       "ID": "quest_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Lost and Found",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35261,21 +35266,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126313,
+      "Progressed": 126323,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1182,
+      "Progressed": 1192,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T03:59:20.098061+00:00",
-  "LastChanged_Achievements": "2023-12-12T07:08:22.6969186+00:00",
+  "LastChanged_Achievements": "2023-12-12T08:08:52.1392006+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:58:33.2160742+00:00",
-  "LastUpdate_Achievements": "2023-12-12T07:08:22.6971542+00:00"
+  "LastUpdate_Ratings": "2023-12-12T07:58:52.2613674+00:00",
+  "LastUpdate_Achievements": "2023-12-12T08:08:52.1394346+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 864,
+  "Ranking_Rating": 863,
   "Ranking_Popularity": 438,
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 49,
@@ -886,7 +886,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 356297,
+  "EOS_Progressed": 356302,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 993,
   "EOS_NewCompleters": 0,
@@ -27711,6 +27711,11 @@
       "Time": "2023-12-12T07:04:42.9248204+00:00",
       "NumProgressed": 356297,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-12T08:05:16.2222662+00:00",
+      "NumProgressed": 356302,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -27930,7 +27935,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163897
+      "UsersEstimate": 163899
     },
     {
       "ID": "ach028",
@@ -28002,7 +28007,7 @@
       "Name": "Still Dreaming",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "ach037",
@@ -28170,7 +28175,7 @@
       "Name": "Working on the Railroad",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "ach058",
@@ -28338,7 +28343,7 @@
       "Name": "Social Butterfly",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "ach080",
@@ -28361,7 +28366,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 356297,
+      "Progressed": 356302,
       "Completed": 7
     }
   ],
@@ -28369,8 +28374,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-09T03:58:10.9802896+00:00",
-  "LastChanged_Achievements": "2023-12-12T07:04:42.9248201+00:00",
+  "LastChanged_Achievements": "2023-12-12T08:05:16.2222658+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.9367355+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:59:55.0630183+00:00",
-  "LastUpdate_Achievements": "2023-12-12T07:04:42.9249919+00:00"
+  "LastUpdate_Ratings": "2023-12-12T08:00:11.419848+00:00",
+  "LastUpdate_Achievements": "2023-12-12T08:05:16.2225134+00:00"
 }

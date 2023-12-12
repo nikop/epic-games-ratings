@@ -6,12 +6,12 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~16,660 |
-| Student | 22.00% | ~13,090 |
-| Knower | 16.00% | ~9,520 |
-| Listener | 15.00% | ~8,925 |
-| Aspen Tree | 14.00% | ~8,330 |
-| Healer | 14.00% | ~8,330 |
+| Initiation | 28.00% | ~16,661 |
+| Student | 22.00% | ~13,091 |
+| Knower | 16.00% | ~9,521 |
+| Listener | 15.00% | ~8,926 |
+| Aspen Tree | 14.00% | ~8,331 |
+| Healer | 14.00% | ~8,331 |
 | Soldier | 12.00% | ~7,140 |
 | Cow Level | 11.00% | ~6,545 |
 | Scientist | 11.00% | ~6,545 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,190 |
 | Word Master | 0.20% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,500 (Ranked 108)  
+Progressed: 59,504 (Ranked 108)  
 Completed: 60 (0.10%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 60 (0.10%) (Ranked 292)
 | 2023-12-09 | 59,033 | 58 |
 | 2023-12-10 | 59,292 | 59 |
 | 2023-12-11 | 59,462 | 60 |
-| 2023-12-12 | 59,500 | 60 |
+| 2023-12-12 | 59,504 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

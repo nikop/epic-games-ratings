@@ -18,10 +18,10 @@ Number of Ratings: 1,331  (23.09.2022)
 | Prequel to the Sequel | 1.00% | ~237 |
 | For Glory | 0.80% | ~190 |
 | Pillow Investments | 0.70% | ~166 |
+| Looks Familiar | 0.70% | ~166 |
 | Truly Blessed | 0.60% | ~142 |
-| Looks Familiar | 0.60% | ~142 |
+| For Justice | 0.60% | ~142 |
 | Good Boy! | 0.60% | ~142 |
-| For Justice | 0.50% | ~118 |
 | For Survival | 0.50% | ~118 |
 | For Love | 0.40% | ~95 |
 | Jack of all Trades | 0.40% | ~95 |
@@ -283,8 +283,8 @@ Completed: 35 (0.15%) (Ranked 276)
 | 2023-12-12 | 23,700 | 35 |
 ## Awards
 Max (Extremely Fun): 223  (Ranked 283)  
-Sum: 1,704 (Ranked 224)  
-Diff (max vs sum): 59  
+Sum: 1,704 (Ranked 225)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 223 |

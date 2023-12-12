@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~22,007 |
-| Welcome To Hell-A | 3.00% | ~22,007 |
+| Hotel California | 3.00% | ~22,008 |
+| Welcome To Hell-A | 3.00% | ~22,008 |
 | Whatever It Takes | 3.00% | ~1,774 |
 | Pork Chopped | 3.00% | ~1,774 |
 | Dr. Reed, I Presume? | 2.00% | ~14,672 |
@@ -25,7 +25,7 @@ Rating: 4.54 (Ranked 533)
 | Stacking the Deck | 2.00% | ~14,672 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,672 |
 | This is My Weapon | 2.00% | ~14,672 |
-| One of Us | 2.00% | ~1,182 |
+| One of Us | 2.00% | ~1,183 |
 | Making Your Mark | 1.00% | ~7,336 |
 | Perks of the Job | 1.00% | ~7,336 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,336 |
@@ -43,21 +43,21 @@ Rating: 4.54 (Ranked 533)
 | Go, Bobcats! | 0.80% | ~5,869 |
 | Smorgasbord | 0.70% | ~5,135 |
 | Internet Famous | 0.70% | ~5,135 |
-| Make it So | 0.60% | ~4,401 |
-| On Safari | 0.60% | ~4,401 |
-| Variety is the Spice of Death | 0.60% | ~4,401 |
+| Make it So | 0.60% | ~4,402 |
+| On Safari | 0.60% | ~4,402 |
+| Variety is the Spice of Death | 0.60% | ~4,402 |
 | LA Influential | 0.50% | ~3,668 |
+| Gore Horse | 0.50% | ~3,668 |
 | Sole Survivor | 0.40% | ~2,934 |
-| Gore Horse | 0.40% | ~2,934 |
 | Sharpest Tool in the Box | 0.40% | ~2,934 |
-| Top That, Tisha! | 0.40% | ~236 |
+| Top That, Tisha! | 0.40% | ~237 |
 | Survival Skills | 0.30% | ~2,201 |
 | Lawn and Order | 0.20% | ~118 |
 | Donk! | 0.10% | ~734 |
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,581 (Ranked 21)  
+Progressed: 733,589 (Ranked 21)  
 Completed: 2,478 (0.34%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 2,478 (0.34%) (Ranked 235)
 | 2023-12-09 | 732,585 | 2,471 |
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
-| 2023-12-12 | 733,581 | 2,478 |
+| 2023-12-12 | 733,589 | 2,478 |
 ## Awards
 Max (Great Boss Battles): 8,094  (Ranked 49)  
 Sum: 12,447 (Ranked 81)  

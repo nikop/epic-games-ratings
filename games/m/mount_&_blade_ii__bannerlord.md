@@ -16,7 +16,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | King Solomon | 18.00% | ~12,180 |
 | Apple of my eye | 16.00% | ~10,827 |
 | I can do it | 16.00% | ~10,827 |
-| This Is Our Land | 14.00% | ~9,473 |
+| This Is Our Land | 14.00% | ~9,474 |
 | Against all odds | 13.00% | ~8,797 |
 | God of the Arena | 13.00% | ~8,797 |
 | Duelist | 11.00% | ~7,443 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,667 (Ranked 104)  
+Progressed: 67,668 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-09 | 67,516 | 0 |
 | 2023-12-10 | 67,577 | 0 |
 | 2023-12-11 | 67,658 | 0 |
-| 2023-12-12 | 67,667 | 0 |
+| 2023-12-12 | 67,668 | 0 |
 ## Awards
 Max (Character Customization): 7,553  (Ranked 53)  
 Sum: 15,752 (Ranked 67)  

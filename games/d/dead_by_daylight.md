@@ -6,13 +6,13 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,678 |
-| Zealous | 2.00% | ~21,786 |
-| Not half bad | 2.00% | ~21,786 |
-| Apt Survivor | 2.00% | ~21,786 |
-| Survival Treasures | 2.00% | ~21,786 |
-| Skillful | 2.00% | ~21,786 |
-| Make Some Noise | 2.00% | ~21,786 |
+| It wakes | 3.00% | ~32,680 |
+| Zealous | 2.00% | ~21,787 |
+| Not half bad | 2.00% | ~21,787 |
+| Apt Survivor | 2.00% | ~21,787 |
+| Survival Treasures | 2.00% | ~21,787 |
+| Skillful | 2.00% | ~21,787 |
+| Make Some Noise | 2.00% | ~21,787 |
 | The Grand Sacrifice | 1.00% | ~10,893 |
 | Agonizing Escape | 1.00% | ~10,893 |
 | Backdoor Escape | 1.00% | ~10,893 |
@@ -28,14 +28,14 @@ Number of Ratings: 70,340  (23.09.2022)
 | Resurgence | 1.00% | ~10,893 |
 | Preemptive Strike | 1.00% | ~10,893 |
 | Humanitarian | 1.00% | ~10,893 |
-| I've got your back | 0.90% | ~9,803 |
-| Apt Killer | 0.90% | ~9,803 |
-| Risk it all | 0.90% | ~9,803 |
-| II | 0.90% | ~9,803 |
-| Engineer | 0.90% | ~9,803 |
-| Close Shave | 0.90% | ~9,803 |
-| III | 0.80% | ~8,714 |
-| Wounded Healer | 0.80% | ~8,714 |
+| I've got your back | 0.90% | ~9,804 |
+| Apt Killer | 0.90% | ~9,804 |
+| Risk it all | 0.90% | ~9,804 |
+| II | 0.90% | ~9,804 |
+| Engineer | 0.90% | ~9,804 |
+| Close Shave | 0.90% | ~9,804 |
+| III | 0.80% | ~8,715 |
+| Wounded Healer | 0.80% | ~8,715 |
 | Vulture | 0.70% | ~7,625 |
 | First to the Punch | 0.70% | ~7,625 |
 | With Scars to Show | 0.70% | ~7,625 |
@@ -48,21 +48,21 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.60% | ~6,536 |
 | Flight to Freedom | 0.60% | ~6,536 |
 | Chorus of Chaos | 0.60% | ~6,536 |
-| Made it out alive! | 0.50% | ~5,446 |
-| Nerves of steel | 0.50% | ~5,446 |
-| Gifts for the Fog | 0.50% | ~5,446 |
-| III-50 | 0.50% | ~5,446 |
-| All Aboard | 0.50% | ~5,446 |
-| Item of Obsession | 0.50% | ~5,446 |
-| House of Pain | 0.50% | ~5,446 |
-| Holiday Get-Together | 0.50% | ~5,446 |
-| Near-Death Experience | 0.50% | ~5,446 |
-| Cherish your Life | 0.50% | ~5,446 |
-| Unforgettable Getaway | 0.50% | ~5,446 |
-| Cutting Out | 0.50% | ~5,446 |
-| Old West Oasis | 0.50% | ~5,446 |
-| Classy Act | 0.50% | ~5,446 |
-| One More Step | 0.50% | ~5,446 |
+| Made it out alive! | 0.50% | ~5,447 |
+| Nerves of steel | 0.50% | ~5,447 |
+| Gifts for the Fog | 0.50% | ~5,447 |
+| III-50 | 0.50% | ~5,447 |
+| All Aboard | 0.50% | ~5,447 |
+| Item of Obsession | 0.50% | ~5,447 |
+| House of Pain | 0.50% | ~5,447 |
+| Holiday Get-Together | 0.50% | ~5,447 |
+| Near-Death Experience | 0.50% | ~5,447 |
+| Cherish your Life | 0.50% | ~5,447 |
+| Unforgettable Getaway | 0.50% | ~5,447 |
+| Cutting Out | 0.50% | ~5,447 |
+| Old West Oasis | 0.50% | ~5,447 |
+| Classy Act | 0.50% | ~5,447 |
+| One More Step | 0.50% | ~5,447 |
 | A bite for the Entity | 0.40% | ~4,357 |
 | Blood on your face | 0.40% | ~4,357 |
 | Shock Therapy | 0.40% | ~4,357 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,089 |
 | Adept Good Guy | 0.10% | ~1,089 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,089,276 (Ranked 12)  
+Progressed: 1,089,334 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -475,10 +475,10 @@ Completed: 62 (0.01%) (Ranked 348)
 | 2023-12-09 | 1,083,532 | 61 |
 | 2023-12-10 | 1,086,485 | 62 |
 | 2023-12-11 | 1,088,746 | 62 |
-| 2023-12-12 | 1,089,276 | 62 |
+| 2023-12-12 | 1,089,334 | 62 |
 ## Awards
 Max (Diverse Characters): 37,733  (Ranked 15)  
-Sum: 285,882 (Ranked 12)  
+Sum: 285,921 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -486,7 +486,7 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 32,727 |
 | This game has Amazing Characters | 32,240 |
 | This game has Competitive Players | 32,004 |
-| This game is Extremely Fun | 31,651 |
+| This game is Extremely Fun | 31,690 |
 | This game has Challenging Combat | 31,593 |
 | This game has Quickly Understood Controls | 30,837 |
 | This game has Amazing Storytelling | 29,172 |
@@ -818,4 +818,4 @@ Diff (max vs sum): 3
 | 2023-12-09 | 4.51 | - | 37,578 | 285,006 |
 | 2023-12-10 | 4.51 | - | 37,638 | 285,419 |
 | 2023-12-11 | 4.51 | - | 37,692 | 285,774 |
-| 2023-12-12 | 4.51 | - | 37,733 | 285,882 |
+| 2023-12-12 | 4.51 | - | 37,733 | 285,921 |

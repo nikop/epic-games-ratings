@@ -7491,7 +7491,7 @@
       "Count": 526
     }
   ],
-  "EOS_Progressed": 733581,
+  "EOS_Progressed": 733589,
   "EOS_Completed": 2478,
   "EOS_NewPlayers": 3230,
   "EOS_NewCompleters": 15,
@@ -34551,6 +34551,11 @@
       "Time": "2023-12-12T07:08:31.3665831+00:00",
       "NumProgressed": 733581,
       "NumCompleted": 2478
+    },
+    {
+      "Time": "2023-12-12T08:09:00.8501232+00:00",
+      "NumProgressed": 733589,
+      "NumCompleted": 2478
     }
   ],
   "TotalAchievements": 51,
@@ -34594,7 +34599,7 @@
       "Name": "Make it So",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4401
+      "UsersEstimate": 4402
     },
     {
       "ID": "ach_big_name_in_town",
@@ -34634,7 +34639,7 @@
       "Name": "On Safari",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4401
+      "UsersEstimate": 4402
     },
     {
       "ID": "ach_defensive",
@@ -34722,7 +34727,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22007
+      "UsersEstimate": 22008
     },
     {
       "ID": "ach_impressive_aim",
@@ -34784,9 +34789,9 @@
       "ID": "ach_magnum_opus",
       "SetID": "7km39fm",
       "Name": "Gore Horse",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2934
+      "UsersEstimate": 3668
     },
     {
       "ID": "ach_metropolitan",
@@ -34890,7 +34895,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4401
+      "UsersEstimate": 4402
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -34898,7 +34903,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22007
+      "UsersEstimate": 22008
     },
     {
       "ID": "ach_well_known_survivor",
@@ -34922,7 +34927,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "ach_dark_magic",
@@ -34962,20 +34967,20 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 733581,
+      "Progressed": 733589,
       "Completed": 2478
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 59123,
+      "Progressed": 59131,
       "Completed": 36655
     }
   ],
@@ -34983,8 +34988,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-11T22:57:12.6725875+00:00",
-  "LastChanged_Achievements": "2023-12-12T07:08:31.3665826+00:00",
+  "LastChanged_Achievements": "2023-12-12T08:09:00.8501229+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:31.7932919+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:57:27.8333722+00:00",
-  "LastUpdate_Achievements": "2023-12-12T07:08:31.3668045+00:00"
+  "LastUpdate_Ratings": "2023-12-12T07:57:44.5675299+00:00",
+  "LastUpdate_Achievements": "2023-12-12T08:09:00.8502877+00:00"
 }

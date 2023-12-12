@@ -2218,9 +2218,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 687522,
+  "EOS_Progressed": 687532,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1583,
+  "EOS_NewPlayers": 1590,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29253,6 +29253,11 @@
       "Time": "2023-12-12T07:09:22.7273018+00:00",
       "NumProgressed": 687522,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-12T08:09:48.6384381+00:00",
+      "NumProgressed": 687532,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -29264,7 +29269,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 543142
+      "UsersEstimate": 543150
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -29272,7 +29277,7 @@
       "Name": "Fighting on all fronts",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13750
+      "UsersEstimate": 13751
     },
     {
       "ID": "95_PERCENT_STRIPE",
@@ -29352,7 +29357,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 247508
+      "UsersEstimate": 247512
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -29360,7 +29365,7 @@
       "Name": "Mighty Mowing Park Ranger",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13750
+      "UsersEstimate": 13751
     },
     {
       "ID": "COMPLETE_STRIPING_CONTRACT",
@@ -29504,7 +29509,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 213132
+      "UsersEstimate": 213135
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -29528,7 +29533,7 @@
       "Name": "Every good deed\u2026",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13750
+      "UsersEstimate": 13751
     },
     {
       "ID": "HIRE_FIRST_EMPLOYEE",
@@ -29536,7 +29541,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 41251
+      "UsersEstimate": 41252
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -29568,7 +29573,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 103128
+      "UsersEstimate": 103130
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -29576,7 +29581,7 @@
       "Name": "Leaner and meaner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13750
+      "UsersEstimate": 13751
     },
     {
       "ID": "PART_EX_MORE_EXPENSIVE",
@@ -29600,7 +29605,7 @@
       "Name": "The top of the mountain",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13750
+      "UsersEstimate": 13751
     },
     {
       "ID": "PURCHASE_SECOND_HQ",
@@ -29608,7 +29613,7 @@
       "Name": "First step on the ladder",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13750
+      "UsersEstimate": 13751
     },
     {
       "ID": "PURCHASE_THIRD_HQ",
@@ -29664,7 +29669,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 123754
+      "UsersEstimate": 123756
     },
     {
       "ID": "RP_TRUSTED",
@@ -29672,7 +29677,7 @@
       "Name": "Trusted",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13750
+      "UsersEstimate": 13751
     },
     {
       "ID": "SPRINT_1_MILE",
@@ -29680,7 +29685,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 61877
+      "UsersEstimate": 61878
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -29695,15 +29700,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 687522,
+      "Progressed": 687532,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-09T22:58:11.4349202+00:00",
-  "LastChanged_Achievements": "2023-12-12T07:09:22.7273015+00:00",
+  "LastChanged_Achievements": "2023-12-12T08:09:48.6384378+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:21.1373981+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:58:48.9577337+00:00",
-  "LastUpdate_Achievements": "2023-12-12T07:09:22.7274562+00:00"
+  "LastUpdate_Ratings": "2023-12-12T07:59:07.2361477+00:00",
+  "LastUpdate_Achievements": "2023-12-12T08:09:48.6386245+00:00"
 }

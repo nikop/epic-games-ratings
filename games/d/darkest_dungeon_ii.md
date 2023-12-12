@@ -6,18 +6,18 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 3.00% | ~35 |
+| Malpractice Assurance | 3.00% | ~36 |
+| This Belongs in a Museum | 1.00% | ~1,263 |
 | This guy... again? | 1.00% | ~12 |
-| This Belongs in a Museum | 0.90% | ~1,137 |
+| Not Today! | 0.80% | ~1,011 |
 | Catch and Decease | 0.80% | ~1,011 |
 | Escape from the Black Hole | 0.80% | ~1,011 |
-| Not Today! | 0.70% | ~884 |
 | Meat and Greet | 0.70% | ~884 |
 | Overdue Notice | 0.70% | ~884 |
 | Creep and Sleep | 0.60% | ~758 |
 | Bloody Graduation | 0.60% | ~7 |
+| Lost and Found | 0.60% | ~7 |
 | Autodidact | 0.50% | ~632 |
-| Lost and Found | 0.50% | ~6 |
 | Don't Make Me Turn This Coach Around | 0.30% | ~379 |
 | Serenity Now! | 0.30% | ~379 |
 | Dissector | 0.30% | ~379 |
@@ -54,6 +54,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hot Air | 0.20% | ~253 |
 | Eyes Up | 0.20% | ~253 |
 | Road Trip | 0.20% | ~253 |
+| Slap on the Wrist | 0.20% | ~2 |
 | A Life Well Lived | 0.10% | ~126 |
 | The World As It Was | 0.10% | ~126 |
 | This Looks Familiar | 0.10% | ~126 |
@@ -77,7 +78,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Battle Hardened | 0.10% | ~1 |
 | Maître De La Lame | 0.10% | ~1 |
 | These Boots Are Made For Kickin' | 0.10% | ~1 |
-| Slap on the Wrist | 0.10% | ~1 |
 | Et Tu, Riposte? | 0.10% | ~1 |
 | Ploughshares to Swords | 0.10% | ~1 |
 | Friends 'Til the End | 0.10% | ~1 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,313 (Ranked 84)  
+Progressed: 126,323 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 2 (0.00%) (Ranked 371)
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
-| 2023-12-12 | 126,313 | 2 |
+| 2023-12-12 | 126,323 | 2 |
 ## Awards
 Max (Character Customization): 7,622  (Ranked 52)  
 Sum: 20,137 (Ranked 59)  

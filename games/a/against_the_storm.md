@@ -28,11 +28,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Homesick | 0.70% | ~126 |
 | Bandit Camp | 0.70% | ~126 |
 | Ruined Armory | 0.60% | ~108 |
+| Barren Lands | 0.60% | ~108 |
 | Levitating Monument | 0.60% | ~108 |
 | Monastery of the Holy Flame | 0.60% | ~108 |
 | Corrosive Torrent | 0.60% | ~108 |
 | A Real Challenge | 0.60% | ~108 |
-| Barren Lands | 0.50% | ~90 |
 | Ancient Battleground | 0.50% | ~90 |
 | Statue of the Forefathers | 0.50% | ~90 |
 | Cursed Lands | 0.50% | ~90 |

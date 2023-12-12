@@ -2139,7 +2139,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1293166,
+  "EOS_Progressed": 1293167,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1086,
   "EOS_NewCompleters": 0,
@@ -24799,6 +24799,11 @@
       "Time": "2023-12-12T07:03:52.7936369+00:00",
       "NumProgressed": 1293166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T08:04:27.2822441+00:00",
+      "NumProgressed": 1293167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -24834,7 +24839,7 @@
       "Name": "100 Kills as a Ghost!",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3879
+      "UsersEstimate": 3880
     },
     {
       "ID": "100_ghost_wins",
@@ -25106,7 +25111,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 762968
+      "UsersEstimate": 762969
     },
     {
       "ID": "hunter_win",
@@ -25145,7 +25150,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1293166,
+      "Progressed": 1293167,
       "Completed": 0
     }
   ],
@@ -25153,8 +25158,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-12-10T15:58:16.8516993+00:00",
-  "LastChanged_Achievements": "2023-12-12T07:03:52.7936365+00:00",
+  "LastChanged_Achievements": "2023-12-12T08:04:27.2822437+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:57:00.0927863+00:00",
-  "LastUpdate_Ratings": "2023-12-12T06:58:46.9770135+00:00",
-  "LastUpdate_Achievements": "2023-12-12T07:03:52.7937654+00:00"
+  "LastUpdate_Ratings": "2023-12-12T07:59:05.6438238+00:00",
+  "LastUpdate_Achievements": "2023-12-12T08:04:27.2823801+00:00"
 }
