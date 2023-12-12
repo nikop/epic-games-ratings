@@ -122,8 +122,8 @@
 | 120 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.56% |
 | 121 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.50% |
 | 121 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
-| 124 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.48% |
+| 123 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.48% |
+| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
 | 125 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.47% |
 | 126 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 127 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
@@ -159,9 +159,9 @@
 | 156 | [Ten Dates](games/t/ten_dates.md) | 1.24% |
 | 158 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.23% |
 | 159 | [Iron Danger](games/i/iron_danger.md) | 1.22% |
-| 160 | [The Devil's Face](games/t/the_devil's_face.md) | 1.21% |
 | 160 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.21% |
-| 162 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
+| 161 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
+| 161 | [The Devil's Face](games/t/the_devil's_face.md) | 1.20% |
 | 163 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.18% |
 | 163 | [Lemon Cake](games/l/lemon_cake.md) | 1.18% |
 | 165 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.14% |
@@ -170,7 +170,7 @@
 | 168 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |
 | 169 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
 | 170 | [Sable](games/s/sable.md) | 1.01% |
-| 171 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.97% |
+| 171 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.99% |
 | 172 | [Trifox](games/t/trifox.md) | 0.96% |
 | 173 | [A Musical Story](games/a/a_musical_story.md) | 0.93% |
 | 174 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.92% |
@@ -187,7 +187,7 @@
 | 185 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 186 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.75% |
 | 187 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.71% |
-| 188 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
+| 188 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 189 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.68% |
 | 190 | [Dead Space](games/d/dead_space.md) | 0.67% |
 | 191 | [Haven](games/h/haven.md) | 0.64% |
@@ -220,9 +220,9 @@
 | 218 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.44% |
 | 218 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.44% |
 | 220 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
+| 220 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.43% |
 | 220 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
 | 220 | [Tchia](games/t/tchia.md) | 0.43% |
-| 223 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.42% |
 | 224 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.41% |
 | 225 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.40% |
 | 226 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
