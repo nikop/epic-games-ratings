@@ -22,7 +22,7 @@
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 21,648 | 4.26 | 878 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 21,314 | 4.89 | 12 |
 | 22 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,756 | 4.57 | 480 |
-| 23 | [Warframe](games/w/warframe.md) | 18,962 | 4.61 | 390 |
+| 23 | [Warframe](games/w/warframe.md) | 18,983 | 4.61 | 390 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 16,094 | 4.76 | 129 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 15,284 | 4.60 | 422 |
 | 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,638 | 4.58 | 452 |
@@ -61,7 +61,7 @@
 | 59 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,479 | 4.80 | 90 |
 | 60 | [Cities: Skylines](games/c/cities__skylines.md) | 6,423 | 4.66 | 296 |
 | 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,189 | 4.82 | 68 |
-| 62 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,143 | 4.78 | 109 |
+| 62 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,149 | 4.78 | 109 |
 | 63 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 6,095 | 4.69 | 233 |
 | 64 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,005 | 4.66 | 296 |
 | 65 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,004 | 4.64 | 338 |
@@ -111,7 +111,7 @@
 | 109 | [The Sims™ 4](games/t/the_sims™_4.md) | 2,202 | 4.63 | 353 |
 | 110 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,163 | 4.37 | 780 |
 | 111 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,154 | 4.70 | 214 |
-| 112 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,027 | 4.49 | 618 |
+| 112 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,028 | 4.49 | 618 |
 | 113 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,960 | 4.90 | 7 |
 | 114 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,956 | 4.70 | 214 |
 | 115 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,948 | 4.66 | 296 |
@@ -500,13 +500,13 @@
 | 496 | [Warpips](games/w/warpips.md) | 32 | 4.43 | 697 |
 | 496 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 32 | 4.37 | 780 |
 | 500 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 31 | 4.51 | 576 |
+| 501 | [Forspoken](games/f/forspoken.md) | 30 | 4.13 | 971 |
 | 501 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 30 | 4.15 | 960 |
-| 502 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.94 | 1,027 |
-| 502 | [Forspoken](games/f/forspoken.md) | 29 | 4.13 | 971 |
-| 502 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.33 | 826 |
-| 502 | [The Surge](games/t/the_surge.md) | 29 | 4.43 | 697 |
-| 502 | [Weird West: Definitive Edition](games/w/weird_west.md) | 29 | 4.44 | 681 |
-| 502 | [Wildermyth](games/w/wildermyth.md) | 29 | 4.78 | 109 |
+| 503 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.94 | 1,027 |
+| 503 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.33 | 826 |
+| 503 | [The Surge](games/t/the_surge.md) | 29 | 4.43 | 697 |
+| 503 | [Weird West: Definitive Edition](games/w/weird_west.md) | 29 | 4.44 | 681 |
+| 503 | [Wildermyth](games/w/wildermyth.md) | 29 | 4.78 | 109 |
 | 508 | [DOOM II](games/d/doom_ii.md) | 28 | 4.64 | 338 |
 | 508 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 28 | 4.19 | 937 |
 | 508 | [God's Trigger](games/g/god's_trigger.md) | 28 | 4.16 | 953 |

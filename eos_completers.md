@@ -138,15 +138,15 @@
 | 136 | [Sifu](games/s/sifu.md) | 1.80% |
 | 137 | [Frogun](games/f/frogun.md) | 1.76% |
 | 138 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.73% |
-| 139 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.63% |
-| 140 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.61% |
-| 141 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
-| 142 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
-| 143 | [Five Dates](games/f/five_dates.md) | 1.52% |
-| 144 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.50% |
+| 139 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.67% |
+| 140 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.63% |
+| 141 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.61% |
+| 142 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
+| 143 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
+| 144 | [Five Dates](games/f/five_dates.md) | 1.52% |
 | 145 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
-| 146 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.45% |
-| 147 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.43% |
+| 146 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.43% |
+| 146 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.43% |
 | 148 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.34% |
 | 149 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.33% |
 | 149 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.33% |
@@ -788,4 +788,4 @@
 | 371 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 371 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 371 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,702 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,711 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
