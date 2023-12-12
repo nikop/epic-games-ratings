@@ -269,12 +269,12 @@
 | 266 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
 | 266 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
 | 269 | [Blanc](games/b/blanc.md) | 0.17% |
+| 269 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.17% |
 | 269 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.17% |
 | 269 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
-| 272 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.16% |
-| 272 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 272 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 272 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.16% |
+| 273 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 273 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 273 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.16% |
 | 276 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 276 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 278 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
