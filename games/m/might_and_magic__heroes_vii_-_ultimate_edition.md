@@ -1,11 +1,11 @@
 # Might and Magic: Heroes VII - Ultimate Edition
 [Store](https://store.epicgames.com/en-US/p/might-and-magic-heroes-7)  
 [View Rawdata](../../db/m/might_and_magic__heroes_vii_-_ultimate_edition.json)  
-Rating: 4.46 (Ranked 653)  
+Rating: 4.46 (Ranked 654)  
 Number of Ratings: 96  (23.09.2022)  
 ## Awards
-Max (Quickly Understood Controls): 38  (Ranked 469)  
-Sum: 244 (Ranked 389)  
+Max (Quickly Understood Controls): 38  (Ranked 468)  
+Sum: 244 (Ranked 388)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |

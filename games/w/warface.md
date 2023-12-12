@@ -1,12 +1,12 @@
 # Warface
 [Store](https://store.epicgames.com/en-US/p/warface)  
 [View Rawdata](../../db/w/warface.json)  
-Rating: 3.90 (Ranked 1,034)  
+Rating: 3.90 (Ranked 1,035)  
 Number of Ratings: 3,179  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 463  (Ranked 221)  
+Max (Diverse Characters): 463  (Ranked 220)  
 Sum: 3,440 (Ranked 168)  
-Diff (max vs sum): 53  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 463 |

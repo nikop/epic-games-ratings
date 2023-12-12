@@ -1,11 +1,11 @@
 # The Drone Racing League®
 [Store](https://store.epicgames.com/en-US/p/the-drone-racing-league-simulator)  
 [View Rawdata](../../db/t/the_drone_racing_league®.json)  
-Rating: 4.51 (Ranked 575)  
+Rating: 4.51 (Ranked 576)  
 Number of Ratings: 36  (23.09.2022)  
 ## Awards
-Max (Extremely Fun): 69  (Ranked 408)  
-Sum: 541 (Ranked 324)  
+Max (Extremely Fun): 69  (Ranked 407)  
+Sum: 541 (Ranked 323)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |

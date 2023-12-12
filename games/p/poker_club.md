@@ -1,28 +1,28 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.83 (Ranked 1,041)  
+Rating: 3.83 (Ranked 1,042)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~412,561 |
-| Handy | 42.00% | ~227,994 |
-| Cold Caller | 40.00% | ~217,137 |
+| Pro Creation | 76.00% | ~412,563 |
+| Handy | 42.00% | ~227,995 |
+| Cold Caller | 40.00% | ~217,138 |
 | A Bit On The Side | 27.00% | ~146,568 |
-| Backdoor | 25.00% | ~135,711 |
-| Rank Amateur | 22.00% | ~119,425 |
-| Three Way | 19.00% | ~103,140 |
+| Backdoor | 25.00% | ~135,712 |
+| Rank Amateur | 22.00% | ~119,426 |
+| Three Way | 19.00% | ~103,141 |
 | Deadly Assassin | 16.00% | ~86,855 |
 | Gutshot | 14.00% | ~75,998 |
 | Risk It For A Biscuit | 14.00% | ~75,998 |
 | Showoff | 13.00% | ~70,570 |
-| W.H.I.P. | 12.00% | ~65,141 |
-| Bet Bet Bet | 10.00% | ~54,284 |
+| W.H.I.P. | 12.00% | ~65,142 |
+| Bet Bet Bet | 10.00% | ~54,285 |
 | Blindman's Bluff | 9.00% | ~48,856 |
 | Poker Joker | 9.00% | ~48,856 |
-| Never Give Up | 8.00% | ~43,427 |
-| The Bigger They Are | 8.00% | ~43,427 |
-| Total Knock Out | 8.00% | ~43,427 |
+| Never Give Up | 8.00% | ~43,428 |
+| The Bigger They Are | 8.00% | ~43,428 |
+| Total Knock Out | 8.00% | ~43,428 |
 | Dog Eat Dog | 7.00% | ~37,999 |
 | Quack Quack | 7.00% | ~37,999 |
 | Give Your Regards To Broadway | 6.00% | ~32,571 |
@@ -51,7 +51,7 @@ Rating: 3.83 (Ranked 1,041)
 | Rounder | 0.10% | ~543 |
 | Top Dog | 0.10% | ~543 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 542,843 (Ranked 33)  
+Progressed: 542,846 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,11 +286,11 @@ Completed: 2 (0.00%) (Ranked 372)
 | 2023-12-09 | 542,330 | 2 |
 | 2023-12-10 | 542,553 | 2 |
 | 2023-12-11 | 542,722 | 2 |
-| 2023-12-12 | 542,843 | 2 |
+| 2023-12-12 | 542,846 | 2 |
 ## Awards
-Max (Great for Beginners): 62  (Ranked 417)  
+Max (Great for Beginners): 62  (Ranked 416)  
 Sum: 188 (Ranked 412)  
-Diff (max vs sum): 5  
+Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 62 |

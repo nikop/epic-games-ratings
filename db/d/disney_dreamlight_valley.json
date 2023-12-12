@@ -2,7 +2,7 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 129,
+  "Ranking_Rating": 130,
   "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 161,
@@ -5161,10 +5161,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8121,
       "NumberOfAwardsMax": 1120
+    },
+    {
+      "Time": "2023-12-12T23:00:34.265765+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8122,
+      "NumberOfAwardsMax": 1120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8121,
+  "NumberOfAwards": 8122,
   "NumberOfAwardsMax": 1120,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5220,7 +5226,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 792
+      "Count": 793
     },
     {
       "Text": "This game has a Creative Community",
@@ -5235,11 +5241,11 @@
       "Count": 538
     }
   ],
-  "EOS_Progressed": 12513,
+  "EOS_Progressed": 12516,
   "EOS_Completed": 311,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 2.49,
+  "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:05:01.9582543+00:00",
@@ -21465,6 +21471,11 @@
       "Time": "2023-12-12T22:08:25.2718849+00:00",
       "NumProgressed": 12513,
       "NumCompleted": 311
+    },
+    {
+      "Time": "2023-12-12T23:09:09.2047488+00:00",
+      "NumProgressed": 12516,
+      "NumCompleted": 311
     }
   ],
   "TotalAchievements": 15,
@@ -21484,7 +21495,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "Bestest_Friend",
@@ -21492,7 +21503,7 @@
       "Name": "Bestest Friend",
       "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 5756
+      "UsersEstimate": 5757
     },
     {
       "ID": "Chef_Cook",
@@ -21500,7 +21511,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "Chit_Chatter",
@@ -21516,7 +21527,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6382
+      "UsersEstimate": 6383
     },
     {
       "ID": "Duty_Bound",
@@ -21532,7 +21543,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3879
+      "UsersEstimate": 3880
     },
     {
       "ID": "Generous",
@@ -21540,7 +21551,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3128
+      "UsersEstimate": 3129
     },
     {
       "ID": "Goofys_Investor",
@@ -21548,7 +21559,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8634
+      "UsersEstimate": 8636
     },
     {
       "ID": "Miner",
@@ -21556,7 +21567,7 @@
       "Name": "Miner",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "Photographer",
@@ -21564,7 +21575,7 @@
       "Name": "Photographer",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 8509
+      "UsersEstimate": 8511
     },
     {
       "ID": "Renovator",
@@ -21572,7 +21583,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 6382
+      "UsersEstimate": 6383
     },
     {
       "ID": "Thorn_Cleaner",
@@ -21588,23 +21599,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7633
+      "UsersEstimate": 7635
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12513,
+      "Progressed": 12516,
       "Completed": 311
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-12-12T18:59:37.2739295+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:08:25.2718845+00:00",
+  "LastChanged": "2023-12-12T23:00:34.2657648+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:09:09.2047483+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:33.6610619+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:59:46.2829664+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:08:25.2719905+00:00"
+  "LastUpdate_Ratings": "2023-12-12T23:00:34.2657656+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:09:09.2048573+00:00"
 }

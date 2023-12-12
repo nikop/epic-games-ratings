@@ -1,11 +1,11 @@
 # The Escapists 2
 [Store](https://store.epicgames.com/en-US/p/the-escapists-2)  
 [View Rawdata](../../db/t/the_escapists_2.json)  
-Rating: 4.58 (Ranked 452)  
+Rating: 4.58 (Ranked 453)  
 Number of Ratings: 1,941  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 56  (Ranked 423)  
-Sum: 500 (Ranked 329)  
+Max (Great for Quick Sessions): 56  (Ranked 422)  
+Sum: 500 (Ranked 328)  
 Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |

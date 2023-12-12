@@ -1,24 +1,24 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.51 (Ranked 575)  
+Rating: 4.51 (Ranked 576)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~3,037 |
-| Snatched Out | 74.00% | ~2,774 |
-| Keep 'Em Coming | 73.00% | ~2,737 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~3,038 |
+| Snatched Out | 74.00% | ~2,775 |
+| Keep 'Em Coming | 73.00% | ~2,738 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,512 |
 | Call Me Snake | 63.00% | ~2,362 |
-| Something Lurks Under The Hills | 61.00% | ~2,287 |
+| Something Lurks Under The Hills | 61.00% | ~2,288 |
 | This Was No Papercut | 59.00% | ~2,212 |
-| People Person | 57.00% | ~2,137 |
-| The Shrink Hates Me | 57.00% | ~2,137 |
-| First Steps Into Madness | 54.00% | ~2,024 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,987 |
+| People Person | 57.00% | ~2,138 |
+| The Shrink Hates Me | 57.00% | ~2,138 |
+| First Steps Into Madness | 54.00% | ~2,025 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,988 |
 | Colonial Barrels | 51.00% | ~1,912 |
 | Harper's Hell | 47.00% | ~1,762 |
-| Making a Stand | 45.00% | ~1,687 |
+| Making a Stand | 45.00% | ~1,688 |
 | Where It All Begun | 42.00% | ~1,575 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,575 |
 | Recouped Investment | 39.00% | ~1,462 |
@@ -29,29 +29,29 @@ Rating: 4.51 (Ranked 575)
 | Deep Into Insanity | 30.00% | ~1,125 |
 | The Passenger | 30.00% | ~1,125 |
 | Come on, You Wanna Live Forever? | 28.00% | ~1,050 |
-| The Spire | 27.00% | ~1,012 |
+| The Spire | 27.00% | ~1,013 |
 | El Riesgo Siempre Vive | 26.00% | ~975 |
 | Stuff Of Nightmares | 24.00% | ~900 |
 | Excavating The Truth | 24.00% | ~900 |
 | Abysmal Horrors | 23.00% | ~862 |
 | Frontliner | 22.00% | ~825 |
-| One For Every Occasion | 21.00% | ~787 |
-| The Cable Guy | 21.00% | ~787 |
+| One For Every Occasion | 21.00% | ~788 |
+| The Cable Guy | 21.00% | ~788 |
 | Bandage Lover | 20.00% | ~750 |
-| Regicide | 17.00% | ~637 |
+| Regicide | 17.00% | ~638 |
 | This Went Smoothly | 15.00% | ~562 |
 | Flawless Victory | 14.00% | ~525 |
-| Heavy Steps | 13.00% | ~487 |
+| Heavy Steps | 13.00% | ~488 |
 | Perfect Enhancements | 10.00% | ~375 |
 | Hardened In The Heat Of Battle | 8.00% | ~300 |
 | The True Experience | 7.00% | ~262 |
 | Fair And Square | 3.00% | ~112 |
 | Archivist | 2.00% | ~75 |
-| Perfect Organism | 1.00% | ~37 |
+| Perfect Organism | 1.00% | ~38 |
 | Chalk It Up To Experience | 0.80% | ~30 |
 | This Ain't No Picnic | 0.70% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,749 (Ranked 203)  
+Progressed: 3,750 (Ranked 203)  
 Completed: 3 (0.08%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,11 +220,11 @@ Completed: 3 (0.08%) (Ranked 306)
 | 2023-12-09 | 3,743 | 3 |
 | 2023-12-10 | 3,744 | 3 |
 | 2023-12-11 | 3,746 | 3 |
-| 2023-12-12 | 3,749 | 3 |
+| 2023-12-12 | 3,750 | 3 |
 ## Awards
-Max (Great Boss Battles): 38  (Ranked 469)  
+Max (Great Boss Battles): 38  (Ranked 468)  
 Sum: 38 (Ranked 506)  
-Diff (max vs sum): -37  
+Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 38 |

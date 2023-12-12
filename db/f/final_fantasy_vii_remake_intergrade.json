@@ -2,13 +2,13 @@
   "ID": "6f43ab8025ad42d18510aa91e9eb688b",
   "Name": "FINAL FANTASY VII REMAKE INTERGRADE",
   "ProductSlug": "final-fantasy-vii-remake-intergrade",
-  "Ranking_Rating": 45,
+  "Ranking_Rating": 46,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-12-16T14:30:00+00:00",
     "PcReleaseDate": "2021-12-16T14:30:00+00:00",
@@ -4922,6 +4922,6 @@
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
   "LastChanged": "2023-12-12T07:58:47.9277116+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:08.9682642+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:59:01.3533076+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:08:55.1421571+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:59:28.7130185+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:09:49.5167797+00:00"
 }

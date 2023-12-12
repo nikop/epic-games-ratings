@@ -1,13 +1,13 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 800)  
+Rating: 4.35 (Ranked 801)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 42.00% | ~6,604 |
-| It's a good start | 10.00% | ~1,572 |
+| Bye Bye | 42.00% | ~6,606 |
+| It's a good start | 10.00% | ~1,573 |
 | Bonjour! | 8.00% | ~1,258 |
 | Quack | 8.00% | ~1,258 |
 | The Assistant | 6.00% | ~944 |
@@ -19,13 +19,13 @@ Number of Ratings: 7,669  (23.09.2022)
 | Keep the doctor away | 3.00% | ~472 |
 | Surprise of Langhe | 3.00% | ~472 |
 | Famous | 3.00% | ~472 |
-| What is that? A castle? | 2.00% | ~314 |
-| A lot of space | 2.00% | ~314 |
-| A big garage | 2.00% | ~314 |
-| Millionaire | 2.00% | ~314 |
-| Exotic | 2.00% | ~314 |
-| Welcome to the club | 2.00% | ~314 |
-| Very Important Winemaker | 2.00% | ~314 |
+| What is that? A castle? | 2.00% | ~315 |
+| A lot of space | 2.00% | ~315 |
+| A big garage | 2.00% | ~315 |
+| Millionaire | 2.00% | ~315 |
+| Exotic | 2.00% | ~315 |
+| Welcome to the club | 2.00% | ~315 |
+| Very Important Winemaker | 2.00% | ~315 |
 | Pastry Chef | 1.00% | ~157 |
 | King of Langhe | 1.00% | ~157 |
 | Gem of Monferrato | 1.00% | ~157 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~16 |
 | Master Winemaker | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,725 (Ranked 154)  
+Progressed: 15,728 (Ranked 154)  
 Completed: 12 (0.08%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,11 +147,11 @@ Completed: 12 (0.08%) (Ranked 306)
 | 2023-12-09 | 15,420 | 12 |
 | 2023-12-10 | 15,545 | 12 |
 | 2023-12-11 | 15,647 | 12 |
-| 2023-12-12 | 15,725 | 12 |
+| 2023-12-12 | 15,728 | 12 |
 ## Awards
-Max (Relaxing): 207  (Ranked 288)  
+Max (Relaxing): 207  (Ranked 287)  
 Sum: 1,730 (Ranked 223)  
-Diff (max vs sum): 65  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 207 |

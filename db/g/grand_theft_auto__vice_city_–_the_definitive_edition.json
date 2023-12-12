@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 546,
-  "Ranking_Popularity": 347,
+  "Ranking_Rating": 547,
+  "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -925,7 +925,7 @@
       "Count": 118
     }
   ],
-  "EOS_Progressed": 11362,
+  "EOS_Progressed": 11363,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 2,
@@ -14225,6 +14225,11 @@
       "Time": "2023-12-12T22:08:46.9752065+00:00",
       "NumProgressed": 11362,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-12-12T23:09:38.4483559+00:00",
+      "NumProgressed": 11363,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 34,
@@ -14284,7 +14289,7 @@
       "Name": "High Quality H2O",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH08",
@@ -14292,7 +14297,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH09",
@@ -14396,7 +14401,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5340
+      "UsersEstimate": 5341
     },
     {
       "ID": "ACH22",
@@ -14507,7 +14512,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11362,
+      "Progressed": 11363,
       "Completed": 67
     }
   ],
@@ -14515,8 +14520,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-12T00:00:01.4899045+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:08:46.9752059+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:09:38.4483556+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.0199326+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:57:30.0368232+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:08:46.9753008+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:57:17.5767721+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:09:38.4484267+00:00"
 }

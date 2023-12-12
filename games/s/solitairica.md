@@ -1,11 +1,11 @@
 # Solitairica
 [Store](https://store.epicgames.com/en-US/p/solitairica)  
 [View Rawdata](../../db/s/solitairica.json)  
-Rating: 4.50 (Ranked 598)  
+Rating: 4.50 (Ranked 599)  
 Number of Ratings: 474  (23.09.2022)  
 ## Awards
-Max (Quickly Understood Controls): 89  (Ranked 384)  
-Sum: 604 (Ranked 315)  
+Max (Quickly Understood Controls): 89  (Ranked 383)  
+Sum: 604 (Ranked 314)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |

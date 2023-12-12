@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -33,9 +33,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2735,
+  "EOS_Progressed": 2745,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2732,
+  "EOS_NewPlayers": 2742,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -683,6 +683,11 @@
       "Time": "2023-12-12T22:08:52.9640797+00:00",
       "NumProgressed": 2735,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T23:09:46.5058758+00:00",
+      "NumProgressed": 2745,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -695,7 +700,7 @@
       "Name": "Conspiracy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1482
     },
     {
       "ID": "03_TheStolenStar",
@@ -703,7 +708,7 @@
       "Name": "Stolen Star",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 412
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -799,23 +804,23 @@
       "Name": "Pentakill",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 384
     },
     {
       "ID": "17_TheExemplar",
       "SetID": "37a94m8",
       "Name": "Exemplar",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -823,7 +828,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 412
     },
     {
       "ID": "19_TheVoidWolf",
@@ -853,9 +858,9 @@
       "ID": "22_PerfectTiming",
       "SetID": "37a94m8",
       "Name": "Perfect Timing",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 247
     },
     {
       "ID": "23_DynastyRestored",
@@ -903,7 +908,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -911,7 +916,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1400
     },
     {
       "ID": "30_The GreatestExploration",
@@ -943,7 +948,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -1047,7 +1052,7 @@
       "Name": "A Spark",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 549
     },
     {
       "ID": "47_AFlame",
@@ -1214,7 +1219,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 2735,
+      "Progressed": 2745,
       "Completed": 0
     }
   ],
@@ -1222,8 +1227,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-11T06:59:42.8971748+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:08:52.9640793+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:09:46.5058755+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:57:16.5310852+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:08:52.9641243+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:56:58.241762+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:09:46.5059295+00:00"
 }

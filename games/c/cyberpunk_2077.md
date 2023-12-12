@@ -1,24 +1,24 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.66 (Ranked 295)  
+Rating: 4.66 (Ranked 296)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,013 |
-| Gun Fu | 7.00% | ~68,257 |
-| The Fool | 6.00% | ~58,506 |
-| Right Back At Ya | 5.00% | ~48,755 |
-| The Lovers | 5.00% | ~48,755 |
-| Full Body Conversion | 4.00% | ~39,004 |
-| Stanislavski's Method | 4.00% | ~39,004 |
-| The Wheel of Fortune | 4.00% | ~39,004 |
-| True Soldier | 4.00% | ~39,004 |
-| Christmas Tree Attack | 3.00% | ~29,253 |
-| The Hermit | 3.00% | ~29,253 |
-| The High Priestess | 3.00% | ~29,253 |
-| Legend of The Afterlife | 3.00% | ~29,253 |
+| V for Vendetta | 12.00% | ~117,015 |
+| Gun Fu | 7.00% | ~68,258 |
+| The Fool | 6.00% | ~58,507 |
+| Right Back At Ya | 5.00% | ~48,756 |
+| The Lovers | 5.00% | ~48,756 |
+| Full Body Conversion | 4.00% | ~39,005 |
+| Stanislavski's Method | 4.00% | ~39,005 |
+| The Wheel of Fortune | 4.00% | ~39,005 |
+| True Soldier | 4.00% | ~39,005 |
+| Christmas Tree Attack | 3.00% | ~29,254 |
+| The Hermit | 3.00% | ~29,254 |
+| The High Priestess | 3.00% | ~29,254 |
+| Legend of The Afterlife | 3.00% | ~29,254 |
 | Relic Ruler | 3.00% | ~3,112 |
 | All the President's Men | 3.00% | ~3,112 |
 | Arachnophobia | 3.00% | ~3,112 |
@@ -52,6 +52,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Pentacles | 0.40% | ~415 |
 | King of Cups | 0.30% | ~311 |
 | City Lights | 0.20% | ~1,950 |
+| Mean Streets | 0.20% | ~1,950 |
 | Little Tokyo | 0.20% | ~1,950 |
 | The Wasteland | 0.20% | ~1,950 |
 | The Devil | 0.20% | ~1,950 |
@@ -60,7 +61,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | It's Elementary | 0.20% | ~1,950 |
 | Frequent Flyer | 0.10% | ~975 |
 | Gunslinger | 0.10% | ~975 |
-| Mean Streets | 0.10% | ~975 |
 | Daemon In The Shell | 0.10% | ~975 |
 | Rough Landing | 0.10% | ~975 |
 | All the President's Men | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,105 (Ranked 15)  
+Progressed: 975,121 (Ranked 15)  
 Completed: 2,891 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 2,891 (0.30%) (Ranked 240)
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
-| 2023-12-12 | 975,105 | 2,891 |
+| 2023-12-12 | 975,121 | 2,891 |
 ## Awards
 Max (Character Customization): 121,863  (Ranked 9)  
 Sum: 413,636 (Ranked 9)  

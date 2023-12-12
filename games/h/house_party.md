@@ -1,7 +1,7 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.33 (Ranked 826)  
+Rating: 4.33 (Ranked 827)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,8 +22,8 @@ Number of Ratings: 177  (23.09.2022)
 | Newcomer: Vickie | 1.00% | ~66 |
 | Social Butterfly | 1.00% | ~66 |
 | The Muse: Madison | 1.00% | ~66 |
-| Smooth Operator: Ashley | 0.80% | ~52 |
-| The Crush | 0.80% | ~52 |
+| Smooth Operator: Ashley | 0.80% | ~53 |
+| The Crush | 0.80% | ~53 |
 | Amy: Scavenger Hunt | 0.70% | ~46 |
 | Casanova | 0.70% | ~46 |
 | It Smells Like Roses | 0.70% | ~25 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,562 (Ranked 185)  
+Progressed: 6,563 (Ranked 185)  
 Completed: 3 (0.05%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 3 (0.05%) (Ranked 323)
 | 2023-12-08 | 6,554 | 3 |
 | 2023-12-09 | 6,556 | 3 |
 | 2023-12-10 | 6,559 | 3 |
-| 2023-12-12 | 6,562 | 3 |
+| 2023-12-12 | 6,563 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

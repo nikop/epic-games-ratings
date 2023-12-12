@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1975,9 +1975,9 @@
       "ID": "achievement_31",
       "SetID": "2cpn27e",
       "Name": "Snare Specialist",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_32",
@@ -2173,8 +2173,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:08:23.801208+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:09:07.2493653+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:59.7578969+00:00",
-  "LastUpdate_Ratings": "2023-12-12T22:00:21.5666796+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:08:23.801247+00:00"
+  "LastUpdate_Ratings": "2023-12-12T23:01:27.0581545+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:09:07.2494027+00:00"
 }

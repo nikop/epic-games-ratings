@@ -1,7 +1,7 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.87 (Ranked 24)  
+Rating: 4.87 (Ranked 25)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,8 +9,8 @@ Rating: 4.87 (Ranked 24)
 | Feeling the beat! | 20.00% | ~902 |
 | You can pet the cat! | 18.00% | ~812 |
 | Who put gears in there? | 17.00% | ~767 |
-| Cream of the Crop | 16.00% | ~721 |
-| Thanks for the free chip, Peppermint! | 16.00% | ~721 |
+| Cream of the Crop | 16.00% | ~722 |
+| Thanks for the free chip, Peppermint! | 16.00% | ~722 |
 | You got this, Peppermint? | 15.00% | ~676 |
 | Perfect Parry | 14.00% | ~631 |
 | Alright, that felt AWESOME! | 14.00% | ~631 |
@@ -34,7 +34,7 @@ Rating: 4.87 (Ranked 24)
 | Well that was a rush! | 6.00% | ~271 |
 | That's a lot of junk metal… | 6.00% | ~271 |
 | There's such a thing as TOO helpful | 6.00% | ~271 |
-| Beat-hit mania | 5.00% | ~225 |
+| Beat-hit mania | 5.00% | ~226 |
 | Chip-tuned | 3.00% | ~135 |
 | Wanna hear my playlist? | 3.00% | ~135 |
 | I told you I'd be fine, Peppermint! | 3.00% | ~135 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,509 (Ranked 195)  
+Progressed: 4,510 (Ranked 195)  
 Completed: 8 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 8 (0.18%) (Ranked 266)
 | 2023-12-09 | 4,494 | 8 |
 | 2023-12-10 | 4,502 | 8 |
 | 2023-12-11 | 4,506 | 8 |
-| 2023-12-12 | 4,509 | 8 |
+| 2023-12-12 | 4,510 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

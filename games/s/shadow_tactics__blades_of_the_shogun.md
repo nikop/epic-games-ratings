@@ -1,34 +1,34 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 278)  
+Rating: 4.67 (Ranked 279)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,263 |
+| Genin | 12.00% | ~26,264 |
 | A thief's beginning | 10.00% | ~21,886 |
 | Thorough | 10.00% | ~21,886 |
-| Disguised | 9.00% | ~19,697 |
-| Rollin' | 9.00% | ~19,697 |
-| Tanuki Time | 9.00% | ~19,697 |
+| Disguised | 9.00% | ~19,698 |
+| Rollin' | 9.00% | ~19,698 |
+| Tanuki Time | 9.00% | ~19,698 |
 | Rescue Takuma | 8.00% | ~17,509 |
 | Stoned Ox | 8.00% | ~17,509 |
 | Happy Planning | 7.00% | ~15,320 |
 | Ice Ice Yuki | 7.00% | ~15,320 |
 | Jonin | 7.00% | ~15,320 |
 | Yabu | 7.00% | ~15,320 |
-| Chunin | 6.00% | ~13,131 |
-| Flying Rocks | 6.00% | ~13,131 |
-| Mugen Unchained | 6.00% | ~13,131 |
-| Warzone | 6.00% | ~13,131 |
+| Chunin | 6.00% | ~13,132 |
+| Flying Rocks | 6.00% | ~13,132 |
+| Mugen Unchained | 6.00% | ~13,132 |
+| Warzone | 6.00% | ~13,132 |
 | Okkoto | 5.00% | ~10,943 |
 | Prisoners | 5.00% | ~10,943 |
 | Too Early | 5.00% | ~10,943 |
-| Gear up | 4.00% | ~8,754 |
-| Happy little accidents | 4.00% | ~8,754 |
-| Noboru | 4.00% | ~8,754 |
-| Still Rollin' | 4.00% | ~8,754 |
+| Gear up | 4.00% | ~8,755 |
+| Happy little accidents | 4.00% | ~8,755 |
+| Noboru | 4.00% | ~8,755 |
+| Still Rollin' | 4.00% | ~8,755 |
 | It's raining men | 3.00% | ~6,566 |
 | Stoned | 3.00% | ~6,566 |
 | The Old Way | 3.00% | ~6,566 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~219 |
 | Release the Kraken | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,858 (Ranked 72)  
+Progressed: 218,864 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 100 (0.05%) (Ranked 323)
 | 2023-12-09 | 218,323 | 100 |
 | 2023-12-10 | 218,536 | 100 |
 | 2023-12-11 | 218,692 | 100 |
-| 2023-12-12 | 218,858 | 100 |
+| 2023-12-12 | 218,864 | 100 |
 ## Awards
 Max (Great for Beginners): 584  (Ranked 201)  
 Sum: 4,903 (Ranked 144)  

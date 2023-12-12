@@ -1,15 +1,15 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.03 (Ranked 1,007)  
+Rating: 4.03 (Ranked 1,008)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,067 |
-| World Map | 78.00% | ~2,572 |
-| Temple of Eternals | 56.00% | ~1,847 |
-| Prestigious | 53.00% | ~1,748 |
-| Fellowship Power | 42.00% | ~1,385 |
+| Victor | 93.00% | ~3,069 |
+| World Map | 78.00% | ~2,574 |
+| Temple of Eternals | 56.00% | ~1,848 |
+| Prestigious | 53.00% | ~1,749 |
+| Fellowship Power | 42.00% | ~1,386 |
 | Full Party | 23.00% | ~759 |
 | Guild Power | 23.00% | ~759 |
 | Prestigious x10 | 21.00% | ~693 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 1,007)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,298 (Ranked 212)  
+Progressed: 3,300 (Ranked 212)  
 Completed: 2 (0.06%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,11 +312,11 @@ Completed: 2 (0.06%) (Ranked 314)
 | 2023-12-09 | 3,213 | 2 |
 | 2023-12-10 | 3,250 | 2 |
 | 2023-12-11 | 3,276 | 2 |
-| 2023-12-12 | 3,298 | 2 |
+| 2023-12-12 | 3,300 | 2 |
 ## Awards
-Max (Great for Beginners): 38  (Ranked 469)  
+Max (Great for Beginners): 38  (Ranked 468)  
 Sum: 142 (Ranked 431)  
-Diff (max vs sum): 38  
+Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |

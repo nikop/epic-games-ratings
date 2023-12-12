@@ -1,26 +1,26 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.71 (Ranked 197)  
+Rating: 4.71 (Ranked 198)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,464 |
-| Finding Your Footing | 25.00% | ~12,466 |
-| Nomad | 17.00% | ~8,477 |
-| Picking Up Speed | 16.00% | ~7,979 |
-| Welcome Maya | 14.00% | ~6,981 |
-| Scout | 11.00% | ~5,485 |
-| Sightseer | 11.00% | ~5,485 |
+| Rookie | 27.00% | ~13,466 |
+| Finding Your Footing | 25.00% | ~12,468 |
+| Nomad | 17.00% | ~8,478 |
+| Picking Up Speed | 16.00% | ~7,980 |
+| Welcome Maya | 14.00% | ~6,982 |
+| Scout | 11.00% | ~5,486 |
+| Sightseer | 11.00% | ~5,486 |
 | Amateur | 10.00% | ~4,987 |
-| Unlock Maya | 8.00% | ~3,989 |
-| Wanderer | 8.00% | ~3,989 |
+| Unlock Maya | 8.00% | ~3,990 |
+| Wanderer | 8.00% | ~3,990 |
 | Enter Paz | 7.00% | ~3,491 |
 | Aviator | 6.00% | ~2,992 |
-| My Little Friend | 5.00% | ~2,493 |
-| One With The Board | 5.00% | ~2,493 |
-| Voyager | 5.00% | ~2,493 |
+| My Little Friend | 5.00% | ~2,494 |
+| One With The Board | 5.00% | ~2,494 |
+| Voyager | 5.00% | ~2,494 |
 | Junkie | 3.00% | ~1,496 |
 | Traveler | 3.00% | ~1,496 |
 | Unlock Paz | 3.00% | ~1,496 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~50 |
 | Windswept | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,866 (Ranked 115)  
+Progressed: 49,873 (Ranked 115)  
 Completed: 5 (0.01%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,10 +282,10 @@ Completed: 5 (0.01%) (Ranked 349)
 | 2023-12-09 | 49,525 | 5 |
 | 2023-12-10 | 49,661 | 5 |
 | 2023-12-11 | 49,773 | 5 |
-| 2023-12-12 | 49,866 | 5 |
+| 2023-12-12 | 49,873 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 49  (Ranked 443)  
-Sum: 385 (Ranked 353)  
+Max (Great for Quick Sessions): 49  (Ranked 442)  
+Sum: 385 (Ranked 352)  
 Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |

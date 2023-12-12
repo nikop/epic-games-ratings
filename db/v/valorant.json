@@ -2,13 +2,13 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 564,
+  "Ranking_Rating": 565,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-06-02T18:52:01+00:00",
@@ -12803,10 +12803,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 622391,
       "NumberOfAwardsMax": 86994
+    },
+    {
+      "Time": "2023-12-12T23:02:46.491978+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 622501,
+      "NumberOfAwardsMax": 86994
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 622391,
+  "NumberOfAwards": 622501,
   "NumberOfAwardsMax": 86994,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -12838,7 +12844,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 72221
+      "Count": 72331
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12882,8 +12888,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-12-12T15:01:05.7606975+00:00",
+  "LastChanged": "2023-12-12T23:02:46.4919779+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.5518198+00:00",
-  "LastUpdate_Ratings": "2023-12-12T22:00:35.7573069+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:08:22.7165698+00:00"
+  "LastUpdate_Ratings": "2023-12-12T23:02:46.4919785+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:09:05.7333429+00:00"
 }

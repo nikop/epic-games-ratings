@@ -2,13 +2,13 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9618,9 +9618,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126457,
+  "EOS_Progressed": 126469,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 832,
+  "EOS_NewPlayers": 839,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34718,6 +34718,11 @@
       "Time": "2023-12-12T22:08:29.3649262+00:00",
       "NumProgressed": 126457,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T23:09:14.5662452+00:00",
+      "NumProgressed": 126469,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34959,9 +34964,9 @@
       "ID": "combat_kill_pillagers",
       "SetID": "64l4lke",
       "Name": "Reverse Banditry",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "combat_kill_shambler",
@@ -34999,9 +35004,9 @@
       "ID": "combat_party_wipe_any_run_boss",
       "SetID": "64l4lke",
       "Name": "It Happens",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35039,9 +35044,9 @@
       "ID": "driving_biome_clear_farm",
       "SetID": "64l4lke",
       "Name": "Harvest Festival",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -35265,7 +35270,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "combat_kill_collector",
@@ -35360,21 +35365,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126457,
+      "Progressed": 126469,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1326,
+      "Progressed": 1338,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T19:58:48.3219197+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:08:29.3649258+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:09:14.5662448+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:59:05.5416576+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:08:29.3651717+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:59:34.7537636+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:09:14.5664032+00:00"
 }

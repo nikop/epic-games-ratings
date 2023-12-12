@@ -1,26 +1,26 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 452)  
+Rating: 4.58 (Ranked 453)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,294 |
-| Alt+F4 | 9.00% | ~21,823 |
+| Sowwy! | 36.00% | ~87,297 |
+| Alt+F4 | 9.00% | ~21,824 |
 | Where's that freaking Dwarf? | 8.00% | ~19,399 |
 | Déjà vu | 7.00% | ~16,974 |
-| Sock! SOCK! | 6.00% | ~14,549 |
-| A beer, two curses, three companions | 5.00% | ~12,124 |
-| GG EZ | 5.00% | ~12,124 |
-| Speedrun | 5.00% | ~12,124 |
-| DM intervention | 4.00% | ~9,699 |
-| Fireproof Wizardess | 4.00% | ~9,699 |
-| Livin' in a dwarven paradise | 3.00% | ~7,274 |
-| Way of the Wimp | 3.00% | ~7,274 |
-| The plot thickens... At the tavern | 3.00% | ~7,274 |
-| The demons' feast | 3.00% | ~7,274 |
-| The Woman in the High Castle | 3.00% | ~7,274 |
+| Sock! SOCK! | 6.00% | ~14,550 |
+| A beer, two curses, three companions | 5.00% | ~12,125 |
+| GG EZ | 5.00% | ~12,125 |
+| Speedrun | 5.00% | ~12,125 |
+| DM intervention | 4.00% | ~9,700 |
+| Fireproof Wizardess | 4.00% | ~9,700 |
+| Livin' in a dwarven paradise | 3.00% | ~7,275 |
+| Way of the Wimp | 3.00% | ~7,275 |
+| The plot thickens... At the tavern | 3.00% | ~7,275 |
+| The demons' feast | 3.00% | ~7,275 |
+| The Woman in the High Castle | 3.00% | ~7,275 |
 | Shiny and Crôm | 2.00% | ~4,850 |
 | The Great Library | 2.00% | ~4,850 |
 | Torture and Sensibility | 2.00% | ~4,850 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,482 (Ranked 63)  
+Progressed: 242,492 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,10 +290,10 @@ Completed: 7 (0.00%) (Ranked 372)
 | 2023-12-09 | 242,023 | 7 |
 | 2023-12-10 | 242,215 | 7 |
 | 2023-12-11 | 242,333 | 7 |
-| 2023-12-12 | 242,482 | 7 |
+| 2023-12-12 | 242,492 | 7 |
 ## Awards
-Max (Character Customization): 246  (Ranked 273)  
-Sum: 518 (Ranked 326)  
+Max (Character Customization): 246  (Ranked 272)  
+Sum: 518 (Ranked 325)  
 Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |

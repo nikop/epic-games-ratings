@@ -1,15 +1,15 @@
 # Tyranny - Gold Edition
 [Store](https://store.epicgames.com/en-US/p/tyranny)  
 [View Rawdata](../../db/t/tyranny_-_gold_edition.json)  
-Rating: 4.59 (Ranked 438)  
+Rating: 4.59 (Ranked 439)  
 Number of Ratings: 1,278  (23.09.2022)  
 ## Awards
-Max (Character Customization): 723  (Ranked 184)  
-Sum: 1,427 (Ranked 241)  
+Max (Character Customization): 724  (Ranked 184)  
+Sum: 1,428 (Ranked 241)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 723 |
+| This game has Inclusive Character Customization | 724 |
 | This game has Great Boss Battles | 363 |
 | This game has Amazing Storytelling | 53 |
 | This game is Extremely Fun | 48 |
@@ -173,3 +173,4 @@ Diff (max vs sum): -57
 | 2023-12-03 | 4.59 | - | 722 | 1,470 |
 | 2023-12-04 | 4.59 | - | 722 | 1,426 |
 | 2023-12-07 | 4.59 | - | 723 | 1,427 |
+| 2023-12-12 | 4.59 | - | 724 | 1,428 |

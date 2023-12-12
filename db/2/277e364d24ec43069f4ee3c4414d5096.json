@@ -2,13 +2,13 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 422,
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116499,
+  "EOS_Progressed": 116500,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 531,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -21044,6 +21044,11 @@
       "Time": "2023-12-12T22:09:10.4053351+00:00",
       "NumProgressed": 116499,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-12T23:10:09.9305615+00:00",
+      "NumProgressed": 116500,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -21063,7 +21068,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89704
+      "UsersEstimate": 89705
     },
     {
       "ID": "EAwards_10",
@@ -21279,7 +21284,7 @@
       "Name": "Even Darkester",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "EAwards_35",
@@ -21446,7 +21451,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116499,
+      "Progressed": 116500,
       "Completed": 51
     }
   ],
@@ -21454,8 +21459,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:09:10.4053346+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:10:09.930561+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.236213+00:00",
-  "LastUpdate_Ratings": "2023-12-12T22:00:35.541976+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:09:10.4054547+00:00"
+  "LastUpdate_Ratings": "2023-12-12T23:02:46.2684281+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:10:09.9306664+00:00"
 }

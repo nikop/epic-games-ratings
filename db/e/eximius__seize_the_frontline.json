@@ -2,13 +2,13 @@
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
-  "Ranking_Rating": 945,
+  "Ranking_Rating": 946,
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -333,9 +333,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 201287,
+  "EOS_Progressed": 201288,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25218,6 +25218,11 @@
       "Time": "2023-12-12T22:04:08.4673913+00:00",
       "NumProgressed": 201287,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-12T23:04:54.3024253+00:00",
+      "NumProgressed": 201288,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -25356,7 +25361,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 201287,
+      "Progressed": 201288,
       "Completed": 4
     }
   ],
@@ -25364,8 +25369,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-11-21T16:01:30.5134894+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:04:08.4673907+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:04:54.3024246+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.8579111+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:58:00.6731219+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:04:08.4675342+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:58:02.5852141+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:04:54.30254+00:00"
 }

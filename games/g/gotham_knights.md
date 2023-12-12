@@ -1,29 +1,29 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 945)  
+Rating: 4.18 (Ranked 946)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~38,964 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,495 |
-| Loose Ends | 33.00% | ~25,716 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,496 |
+| Loose Ends | 33.00% | ~25,717 |
 | To the Victor Go the Spoils | 28.00% | ~21,820 |
-| Knighthood | 27.00% | ~21,040 |
+| Knighthood | 27.00% | ~21,041 |
 | Get ReQ'd | 25.00% | ~19,482 |
-| Whispered Words | 24.00% | ~18,702 |
+| Whispered Words | 24.00% | ~18,703 |
 | The Batman Family | 22.00% | ~17,144 |
 | Lock and Key | 22.00% | ~17,144 |
 | Something in the Clay | 21.00% | ~16,365 |
-| Quartzer Life Crisis | 20.00% | ~15,585 |
-| Working Hard or Harley Working? | 20.00% | ~15,585 |
-| Unstoppable Force | 20.00% | ~15,585 |
-| Bad Apples in Every Orchard | 20.00% | ~15,585 |
-| Snow Problem | 19.00% | ~14,806 |
+| Quartzer Life Crisis | 20.00% | ~15,586 |
+| Working Hard or Harley Working? | 20.00% | ~15,586 |
+| Unstoppable Force | 20.00% | ~15,586 |
+| Bad Apples in Every Orchard | 20.00% | ~15,586 |
+| Snow Problem | 19.00% | ~14,807 |
 | The Show Mud Go On | 18.00% | ~14,027 |
 | From Inside Gotham's Walls | 18.00% | ~14,027 |
 | Protector of Gotham | 17.00% | ~13,248 |
-| Universal Health Scare | 16.00% | ~12,468 |
+| Universal Health Scare | 16.00% | ~12,469 |
 | In Your Element | 15.00% | ~11,689 |
 | Voiceless | 15.00% | ~11,689 |
 | Rock and a Hard Place | 14.00% | ~10,910 |
@@ -36,8 +36,8 @@ Rating: 4.18 (Ranked 945)
 | Gotham Knight | 12.00% | ~9,351 |
 | Gotham City Confidential | 11.00% | ~8,572 |
 | Drone You Out | 10.00% | ~7,793 |
-| Out of Their League | 9.00% | ~7,013 |
-| Solid Alibi | 9.00% | ~7,013 |
+| Out of Their League | 9.00% | ~7,014 |
+| Solid Alibi | 9.00% | ~7,014 |
 | Fusion Expert | 7.00% | ~5,455 |
 | Expert Crime Fighter | 6.00% | ~4,676 |
 | Family Meeting | 6.00% | ~4,676 |
@@ -54,7 +54,7 @@ Rating: 4.18 (Ranked 945)
 | Icebreaker | 0.80% | ~386 |
 | History Major | 0.80% | ~623 |
 | A Sophisticated Mallet | 0.80% | ~386 |
-| Read Owl About It | 0.70% | ~545 |
+| Read Owl About It | 0.70% | ~546 |
 | Gotham's Greatest Depths | 0.60% | ~289 |
 | Don't Mecha Big Deal About It | 0.60% | ~289 |
 | Confronting Your Demon | 0.60% | ~289 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 945)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,927 (Ranked 99)  
+Progressed: 77,929 (Ranked 99)  
 Completed: 125 (0.16%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 125 (0.16%) (Ranked 274)
 | 2023-12-09 | 77,840 | 124 |
 | 2023-12-10 | 77,873 | 125 |
 | 2023-12-11 | 77,910 | 125 |
-| 2023-12-12 | 77,927 | 125 |
+| 2023-12-12 | 77,929 | 125 |
 ## Awards
 Max (Great Boss Battles): 3,007  (Ranked 98)  
 Sum: 5,144 (Ranked 140)  

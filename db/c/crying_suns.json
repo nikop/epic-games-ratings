@@ -2,13 +2,13 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 598,
-  "Ranking_Popularity": 281,
-  "Ranking_PopularitySum": 395,
+  "Ranking_Rating": 599,
+  "Ranking_Popularity": 280,
+  "Ranking_PopularitySum": 394,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -667,9 +667,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 472160,
+  "EOS_Progressed": 472161,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25137,6 +25137,11 @@
       "Time": "2023-12-12T22:09:26.6497623+00:00",
       "NumProgressed": 472160,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-12T23:10:30.6805162+00:00",
+      "NumProgressed": 472161,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25164,7 +25169,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113318
+      "UsersEstimate": 113319
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -25332,7 +25337,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160534
+      "UsersEstimate": 160535
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -25572,7 +25577,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207750
+      "UsersEstimate": 207751
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -25604,7 +25609,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184142
+      "UsersEstimate": 184143
     },
     {
       "ID": "achievement_win_run_hard",
@@ -25779,21 +25784,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16094,
+      "Progressed": 16095,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472160,
+      "Progressed": 472161,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-12T20:57:25.1414435+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:09:26.649762+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:10:30.680516+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.6716506+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:57:41.4527556+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:09:26.649935+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:57:34.3942564+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:10:30.6806671+00:00"
 }

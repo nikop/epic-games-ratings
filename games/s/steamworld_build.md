@@ -18,7 +18,7 @@
 | Roll Out | 37.00% | ~30 |
 | Dopa-Miner | 30.00% | ~24 |
 | Botropolis | 27.00% | ~22 |
-| Up, Up And Away! | 25.00% | ~20 |
+| Up, Up And Away! | 26.00% | ~21 |
 | Whoa! | 25.00% | ~20 |
 | Steaming Rich | 20.00% | ~16 |
 | Steam Powered | 19.00% | ~15 |
@@ -33,7 +33,7 @@
 | I'm A Lumberbot | 0.00% | ~0 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81 (Ranked 467)  
+Progressed: 81 (Ranked 468)  
 Completed: 0 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |

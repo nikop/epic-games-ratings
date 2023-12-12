@@ -1,26 +1,26 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.54 (Ranked 533)  
+Rating: 4.54 (Ranked 534)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~977,503 |
-| I Need a Bigger Garage | 63.00% | ~684,252 |
-| Pump my Ride | 47.00% | ~510,474 |
-| Ghostbuster | 34.00% | ~369,279 |
-| Call Roadside Assistance | 18.00% | ~195,501 |
-| That Was Close | 18.00% | ~195,501 |
+| The First of Many | 90.00% | ~977,509 |
+| I Need a Bigger Garage | 63.00% | ~684,256 |
+| Pump my Ride | 47.00% | ~510,477 |
+| Ghostbuster | 34.00% | ~369,281 |
+| Call Roadside Assistance | 18.00% | ~195,502 |
+| That Was Close | 18.00% | ~195,502 |
 | Quickie | 11.00% | ~119,473 |
 | California Dreamer | 7.00% | ~76,028 |
 | Can't Touch This | 5.00% | ~54,306 |
 | Carménère Taster | 4.00% | ~43,445 |
 | Comeback | 4.00% | ~43,445 |
-| Driver from Ipanema | 3.00% | ~32,583 |
-| Supersonic | 3.00% | ~32,583 |
-| Marathonist | 3.00% | ~32,583 |
-| Living Legend | 3.00% | ~32,583 |
+| Driver from Ipanema | 3.00% | ~32,584 |
+| Supersonic | 3.00% | ~32,584 |
+| Marathonist | 3.00% | ~32,584 |
+| Living Legend | 3.00% | ~32,584 |
 | God of Roads | 2.00% | ~21,722 |
 | Pathfinder | 2.00% | ~21,722 |
 | Go-Kart Champion | 2.00% | ~21,722 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,172 |
 | Transporter | 0.10% | ~1,086 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,086,114 (Ranked 13)  
+Progressed: 1,086,121 (Ranked 13)  
 Completed: 505 (0.05%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,11 +280,11 @@ Completed: 505 (0.05%) (Ranked 323)
 | 2023-12-09 | 1,084,867 | 503 |
 | 2023-12-10 | 1,085,428 | 504 |
 | 2023-12-11 | 1,085,782 | 504 |
-| 2023-12-12 | 1,086,114 | 505 |
+| 2023-12-12 | 1,086,121 | 505 |
 ## Awards
-Max (Great for Beginners): 175  (Ranked 308)  
+Max (Great for Beginners): 175  (Ranked 307)  
 Sum: 1,577 (Ranked 234)  
-Diff (max vs sum): 74  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 175 |

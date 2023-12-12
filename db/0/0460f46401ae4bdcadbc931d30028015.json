@@ -2,13 +2,13 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 937,
-  "Ranking_Popularity": 457,
-  "Ranking_PopularitySum": 405,
+  "Ranking_Rating": 938,
+  "Ranking_Popularity": 456,
+  "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -877,10 +877,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 198,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-12-12T23:00:39.4522794+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 200,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 198,
+  "NumberOfAwards": 200,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -906,7 +912,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Amazing Characters",
@@ -924,7 +930,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Extremely Fun",
@@ -933,9 +939,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4142,
+  "EOS_Progressed": 4143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7013,6 +7019,11 @@
       "Time": "2023-12-12T22:04:20.7550338+00:00",
       "NumProgressed": 4142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T23:05:10.8868363+00:00",
+      "NumProgressed": 4143,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -7057,7 +7068,7 @@
       "Name": "MVP",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "achievement_14",
@@ -7192,16 +7203,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4142,
+      "Progressed": 4143,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-12-12T21:59:49.8080874+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:04:20.7550334+00:00",
+  "LastChanged": "2023-12-12T23:00:39.4522791+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:05:10.8868358+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:59:49.8080879+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:04:20.75511+00:00"
+  "LastUpdate_Ratings": "2023-12-12T23:00:39.4522797+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:05:10.8868717+00:00"
 }

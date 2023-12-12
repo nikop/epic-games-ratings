@@ -22,8 +22,8 @@
 | Sommelier | 4.00% | ~4 |
 | Let Me Solo Them | 4.00% | ~4 |
 | Frigid Winds | 4.00% | ~4 |
+| Missing Melodies | 2.00% | ~2 |
 | Smotherly Love | 2.00% | ~2 |
-| Missing Melodies | 0.90% | ~1 |
 | Transformative Nature | 0.90% | ~1 |
 | Champion of Starspire | 0.90% | ~1 |
 | No Salvation | 0.00% | ~0 |

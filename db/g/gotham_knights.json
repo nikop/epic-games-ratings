@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 945,
+  "Ranking_Rating": 946,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 99,
@@ -4637,7 +4637,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77927,
+  "EOS_Progressed": 77929,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 1,
@@ -25777,6 +25777,11 @@
       "Time": "2023-12-12T22:03:13.170073+00:00",
       "NumProgressed": 77927,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-12T23:03:40.0222065+00:00",
+      "NumProgressed": 77929,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25972,7 +25977,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7013
+      "UsersEstimate": 7014
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -26020,7 +26025,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15585
+      "UsersEstimate": 15586
     },
     {
       "ID": "FREEZE_2",
@@ -26028,7 +26033,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14806
+      "UsersEstimate": 14807
     },
     {
       "ID": "FREEZE_3",
@@ -26068,7 +26073,7 @@
       "Name": "Read Owl About It",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "GOTHAM_HISTORICAL_PLATES",
@@ -26092,7 +26097,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26495
+      "UsersEstimate": 26496
     },
     {
       "ID": "HARLEY_2",
@@ -26108,7 +26113,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15585
+      "UsersEstimate": 15586
     },
     {
       "ID": "HARLEY_4",
@@ -26116,7 +26121,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12468
+      "UsersEstimate": 12469
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -26156,7 +26161,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15585
+      "UsersEstimate": 15586
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -26164,7 +26169,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 21040
+      "UsersEstimate": 21041
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -26180,7 +26185,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25716
+      "UsersEstimate": 25717
     },
     {
       "ID": "MYSTERY_02",
@@ -26188,7 +26193,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18702
+      "UsersEstimate": 18703
     },
     {
       "ID": "MYSTERY_03",
@@ -26204,7 +26209,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15585
+      "UsersEstimate": 15586
     },
     {
       "ID": "MYSTERY_05",
@@ -26252,7 +26257,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7013
+      "UsersEstimate": 7014
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -26275,13 +26280,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77927,
+      "Progressed": 77929,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48207,
+      "Progressed": 48209,
       "Completed": 2675
     }
   ],
@@ -26289,8 +26294,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-12T19:58:35.1362928+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:03:13.1700727+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:03:40.022206+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:58:52.2601797+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:03:13.1702241+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:59:15.7214674+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:03:40.0223416+00:00"
 }

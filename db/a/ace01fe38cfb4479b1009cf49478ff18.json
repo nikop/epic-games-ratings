@@ -2,10 +2,10 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -794,6 +794,11 @@
       "Time": "2023-12-10T23:08:57.869967+00:00",
       "NumProgressed": 175,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-12T23:03:59.9812966+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -804,17 +809,17 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 45,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_chapter_complete_2",
       "SetID": "d499apg",
       "Name": "Chapter II - Complete",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -870,7 +875,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 31,
       "XP": 45,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -901,14 +906,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:03:28.5307017+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:03:59.9812962+00:00",
   "LastUpdate_AppInfo": "2023-12-08T13:57:10.1011387+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:57:31.5408774+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:03:28.5307142+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:57:19.8421045+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:03:59.9813095+00:00"
 }

@@ -1,17 +1,17 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.29 (Ranked 855)  
+Rating: 4.29 (Ranked 856)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~73,801 |
-| Powergamer | 27.00% | ~68,711 |
+| I will finish what you started | 29.00% | ~73,802 |
+| Powergamer | 27.00% | ~68,712 |
 | Write that down | 25.00% | ~63,622 |
 | Barely scratched the surface | 25.00% | ~63,622 |
 | Guns, lots of guns | 13.00% | ~33,083 |
-| Collector | 12.00% | ~30,538 |
+| Collector | 12.00% | ~30,539 |
 | Elementary! | 9.00% | ~22,904 |
 | Griever | 8.00% | ~20,359 |
 | Pumpkin Jack | 8.00% | ~20,359 |
@@ -21,9 +21,9 @@ Number of Ratings: 33  (23.09.2022)
 | Trash compactor | 6.00% | ~15,269 |
 | Valedictorian | 6.00% | ~15,269 |
 | Good listener | 5.00% | ~12,724 |
-| BOY! | 4.00% | ~10,179 |
-| Ka-ching! | 4.00% | ~10,179 |
-| So you like to read? | 4.00% | ~10,179 |
+| BOY! | 4.00% | ~10,180 |
+| Ka-ching! | 4.00% | ~10,180 |
+| So you like to read? | 4.00% | ~10,180 |
 | Hoarder | 3.00% | ~7,635 |
 | I like to sniff around | 3.00% | ~7,635 |
 | Mind reader | 3.00% | ~7,635 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~509 |
 | Memory 5 | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,487 (Ranked 60)  
+Progressed: 254,488 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,11 +295,11 @@ Completed: 7 (0.00%) (Ranked 372)
 | 2023-12-09 | 254,249 | 7 |
 | 2023-12-10 | 254,357 | 7 |
 | 2023-12-11 | 254,428 | 7 |
-| 2023-12-12 | 254,487 | 7 |
+| 2023-12-12 | 254,488 | 7 |
 ## Awards
-Max (Character Customization): 92  (Ranked 382)  
+Max (Character Customization): 92  (Ranked 381)  
 Sum: 92 (Ranked 459)  
-Diff (max vs sum): -77  
+Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 92 |

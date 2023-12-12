@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 233,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13185,9 +13185,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 473653,
+  "EOS_Progressed": 473663,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3845,
+  "EOS_NewPlayers": 3836,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40355,6 +40355,11 @@
       "Time": "2023-12-12T22:03:57.5701806+00:00",
       "NumProgressed": 473653,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-12T23:04:39.5586501+00:00",
+      "NumProgressed": 473663,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43269,21 +43274,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 473653,
+      "Progressed": 473663,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 473653,
+      "Progressed": 473663,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-12T21:57:16.9700355+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:03:57.5701802+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:04:39.5586493+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:01.211805+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:57:16.970036+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:03:57.5712447+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:56:58.7680872+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:04:39.5597654+00:00"
 }

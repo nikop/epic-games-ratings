@@ -2,13 +2,13 @@
   "ID": "b4d9169e1b8548f2babec33107253309",
   "Name": "Ticket To Ride: Classic Edition",
   "ProductSlug": "ticket-to-ride",
-  "Ranking_Rating": 370,
-  "Ranking_Popularity": 398,
-  "Ranking_PopularitySum": 343,
+  "Ranking_Rating": 372,
+  "Ranking_Popularity": 397,
+  "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2012-05-24T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -792,8 +792,8 @@
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.6058604+00:00",
   "LastChanged": "2023-12-09T06:03:01.0788132+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:03:36.1023129+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:04:10.3604861+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:17.5546817+00:00",
-  "LastUpdate_Ratings": "2023-12-12T22:03:04.1294236+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:03:36.1023161+00:00"
+  "LastUpdate_Ratings": "2023-12-12T23:03:25.1690847+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:04:10.360489+00:00"
 }

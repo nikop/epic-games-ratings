@@ -1,7 +1,7 @@
 # Crayta
 [Store](https://store.epicgames.com/en-US/p/crayta)  
 [View Rawdata](../../db/c/crayta.json)  
-Rating: 4.19 (Ranked 937)  
+Rating: 4.19 (Ranked 938)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -267,8 +267,8 @@ Completed: 5 (0.00%) (Ranked 372)
 | 2023-12-11 | 109,879 | 5 |
 | 2023-12-12 | 109,881 | 5 |
 ## Awards
-Max (Diverse Characters): 50  (Ranked 442)  
-Sum: 370 (Ranked 355)  
+Max (Diverse Characters): 50  (Ranked 441)  
+Sum: 370 (Ranked 354)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |

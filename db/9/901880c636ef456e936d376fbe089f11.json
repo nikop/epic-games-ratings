@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -842,9 +842,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -1009,8 +1009,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:06:28.3457728+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:08:33.3137147+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:55.8022632+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:59:20.5044795+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:06:28.3458065+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:59:57.4421307+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:08:33.3137507+00:00"
 }

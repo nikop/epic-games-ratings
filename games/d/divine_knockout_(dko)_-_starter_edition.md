@@ -1,11 +1,11 @@
 # Divine Knockout
 [Store](https://store.epicgames.com/en-US/p/divine-knockout)  
 [View Rawdata](../../db/d/divine_knockout_(dko)_-_starter_edition.json)  
-Rating: 4.31 (Ranked 842)  
+Rating: 4.31 (Ranked 843)  
 Number of Ratings: 60  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 71  (Ranked 404)  
-Sum: 582 (Ranked 318)  
+Max (Diverse Characters): 71  (Ranked 403)  
+Sum: 582 (Ranked 317)  
 Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |

@@ -1,7 +1,7 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.64 (Ranked 337)  
+Rating: 4.64 (Ranked 338)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,7 +38,7 @@ Rating: 4.64 (Ranked 337)
 | Full Contact | 27.00% | ~605 |
 | Pack Rat | 27.00% | ~605 |
 | Final Regeneration | 26.00% | ~583 |
-| Full Clearance | 25.00% | ~560 |
+| Full Clearance | 26.00% | ~583 |
 | Pusher | 23.00% | ~516 |
 | Z-Baller | 23.00% | ~516 |
 | Marked | 21.00% | ~471 |
@@ -144,9 +144,9 @@ Completed: 15 (0.67%) (Ranked 190)
 | 2023-12-11 | 2,230 | 14 |
 | 2023-12-12 | 2,242 | 15 |
 ## Awards
-Max (Great Boss Battles): 118  (Ranked 347)  
+Max (Great Boss Battles): 118  (Ranked 346)  
 Sum: 118 (Ranked 442)  
-Diff (max vs sum): -95  
+Diff (max vs sum): -96  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

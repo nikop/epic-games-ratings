@@ -2,13 +2,13 @@
   "ID": "752b276b9bff4070be17669b1519eeb1",
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
-  "Ranking_Rating": 780,
-  "Ranking_Popularity": 368,
-  "Ranking_PopularitySum": 312,
+  "Ranking_Rating": 781,
+  "Ranking_Popularity": 367,
+  "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-07-20T02:00:00+00:00",
     "PcReleaseDate": "2023-07-20T02:00:00+00:00",
@@ -1889,10 +1889,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 634,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-12-12T22:57:14.2132631+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 635,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 634,
+  "NumberOfAwards": 635,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1954,7 +1960,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 60
+      "Count": 61
     }
   ],
   "EOS_Progressed": 0,
@@ -1969,8 +1975,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2023-12-12T13:02:46.259081+00:00",
+  "LastChanged": "2023-12-12T22:57:14.2132628+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:54.5320085+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:57:27.7690353+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:03:09.0083577+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:57:14.2132636+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:03:34.3555518+00:00"
 }

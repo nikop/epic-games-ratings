@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 681,
+  "Ranking_Rating": 682,
   "Ranking_Popularity": 510,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,7 +643,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4005,
+  "EOS_Progressed": 4006,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -8558,6 +8558,11 @@
       "Time": "2023-12-12T18:08:50.9533399+00:00",
       "NumProgressed": 4005,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-12T23:08:59.7844604+00:00",
+      "NumProgressed": 4006,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8649,7 +8654,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8729,7 +8734,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -8737,7 +8742,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8753,7 +8758,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -8761,7 +8766,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -8793,7 +8798,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8961,7 +8966,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8977,7 +8982,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -9136,13 +9141,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3956,
+      "Progressed": 3957,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4005,
+      "Progressed": 4006,
       "Completed": 11
     }
   ],
@@ -9150,8 +9155,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:08:18.2402681+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:08:59.7844599+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.4789046+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:58:51.1697832+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:08:18.2403602+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:59:14.721027+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:08:59.7845478+00:00"
 }

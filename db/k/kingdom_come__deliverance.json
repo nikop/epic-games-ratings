@@ -2,13 +2,13 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 197,
+  "Ranking_Rating": 198,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -9213,9 +9213,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 812230,
+  "EOS_Progressed": 812234,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 957,
+  "EOS_NewPlayers": 958,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -35848,6 +35848,11 @@
       "Time": "2023-12-12T22:08:58.6851229+00:00",
       "NumProgressed": 812230,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-12T23:09:54.3354775+00:00",
+      "NumProgressed": 812234,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -35891,7 +35896,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 170568
+      "UsersEstimate": 170569
     },
     {
       "ID": "BadGirl",
@@ -35939,7 +35944,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 259914
+      "UsersEstimate": 259915
     },
     {
       "ID": "Bookworm",
@@ -35947,7 +35952,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121834
+      "UsersEstimate": 121835
     },
     {
       "ID": "Buddy",
@@ -36059,7 +36064,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186813
+      "UsersEstimate": 186814
     },
     {
       "ID": "Fighter",
@@ -36339,7 +36344,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162446
+      "UsersEstimate": 162447
     },
     {
       "ID": "RevenantOfLedechko",
@@ -36379,7 +36384,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162446
+      "UsersEstimate": 162447
     },
     {
       "ID": "SerialKiller",
@@ -36395,7 +36400,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89345
+      "UsersEstimate": 89346
     },
     {
       "ID": "Sniper",
@@ -36467,7 +36472,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89345
+      "UsersEstimate": 89346
     },
     {
       "ID": "TrialAndError",
@@ -36514,15 +36519,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 812230,
+      "Progressed": 812234,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-12T21:59:16.6081938+00:00",
-  "LastChanged_Achievements": "2023-12-12T22:08:58.6851225+00:00",
+  "LastChanged_Achievements": "2023-12-12T23:09:54.3354772+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:13.9714541+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:59:16.6081944+00:00",
-  "LastUpdate_Achievements": "2023-12-12T22:08:58.6852726+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:59:51.4137025+00:00",
+  "LastUpdate_Achievements": "2023-12-12T23:09:54.3356465+00:00"
 }

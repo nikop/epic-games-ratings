@@ -1,13 +1,13 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.65 (Ranked 317)  
+Rating: 4.65 (Ranked 318)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~16,687 |
-| Student | 22.00% | ~13,111 |
+| Initiation | 28.00% | ~16,689 |
+| Student | 22.00% | ~13,113 |
 | Knower | 16.00% | ~9,536 |
 | Listener | 15.00% | ~8,940 |
 | Aspen Tree | 14.00% | ~8,344 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,192 |
 | Word Master | 0.20% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,597 (Ranked 109)  
+Progressed: 59,603 (Ranked 109)  
 Completed: 60 (0.10%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 60 (0.10%) (Ranked 293)
 | 2023-12-09 | 59,033 | 58 |
 | 2023-12-10 | 59,292 | 59 |
 | 2023-12-11 | 59,462 | 60 |
-| 2023-12-12 | 59,597 | 60 |
+| 2023-12-12 | 59,603 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

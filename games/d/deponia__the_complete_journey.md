@@ -1,11 +1,11 @@
 # Deponia: The Complete Journey
 [Store](https://store.epicgames.com/en-US/p/deponia-the-complete-journey)  
 [View Rawdata](../../db/d/deponia__the_complete_journey.json)  
-Rating: 4.62 (Ranked 370)  
+Rating: 4.62 (Ranked 372)  
 Number of Ratings: 777  (23.09.2022)  
 ## Awards
-Max (Challenging Puzzles): 290  (Ranked 261)  
-Sum: 290 (Ranked 372)  
+Max (Challenging Puzzles): 290  (Ranked 260)  
+Sum: 290 (Ranked 371)  
 Diff (max vs sum): -111  
 | Award | Count |
 | ----- | ----- |

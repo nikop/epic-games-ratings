@@ -1,11 +1,11 @@
 # The Riflemen
 [Store](https://store.epicgames.com/en-US/p/the-riflemen-8be608)  
 [View Rawdata](../../db/t/the_riflemen.json)  
-Rating: 4.34 (Ranked 816)  
+Rating: 4.34 (Ranked 817)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First blood | 73.00% | ~39,064 |
+| First blood | 73.00% | ~39,078 |
 | Head popping I | 4.00% | ~2,141 |
 | It's a piece of cake | 1.00% | ~535 |
 | Rifle Master | 0.60% | ~321 |
@@ -20,7 +20,7 @@ Rating: 4.34 (Ranked 816)
 | Sword Master | 0.10% | ~54 |
 | Grenade Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,513 (Ranked 113)  
+Progressed: 53,532 (Ranked 113)  
 Completed: 11,759 (21.97%) (Ranked 20)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 11,759 (21.97%) (Ranked 20)
 | 2023-12-09 | 51,817 | 11,759 |
 | 2023-12-10 | 52,530 | 11,759 |
 | 2023-12-11 | 53,025 | 11,759 |
-| 2023-12-12 | 53,513 | 11,759 |
+| 2023-12-12 | 53,532 | 11,759 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

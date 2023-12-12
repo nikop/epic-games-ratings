@@ -1,11 +1,11 @@
 # Tetris® Effect: Connected
 [Store](https://store.epicgames.com/en-US/p/tetris-effect)  
 [View Rawdata](../../db/t/tetris®_effect__connected.json)  
-Rating: 4.86 (Ranked 34)  
+Rating: 4.86 (Ranked 35)  
 Number of Ratings: 272  (23.09.2022)  
 ## Awards
-Max (Challenging Puzzles): 162  (Ranked 315)  
-Sum: 537 (Ranked 325)  
+Max (Challenging Puzzles): 162  (Ranked 314)  
+Sum: 537 (Ranked 324)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |

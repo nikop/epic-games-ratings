@@ -1,72 +1,72 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 575)  
+Rating: 4.51 (Ranked 576)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,719 |
-| Zealous | 2.00% | ~21,813 |
-| Not half bad | 2.00% | ~21,813 |
-| Apt Survivor | 2.00% | ~21,813 |
-| Survival Treasures | 2.00% | ~21,813 |
-| Skillful | 2.00% | ~21,813 |
-| Make Some Noise | 2.00% | ~21,813 |
-| The Grand Sacrifice | 1.00% | ~10,906 |
-| Agonizing Escape | 1.00% | ~10,906 |
-| Backdoor Escape | 1.00% | ~10,906 |
-| No one left behind | 1.00% | ~10,906 |
-| Medic | 1.00% | ~10,906 |
-| Handyman | 1.00% | ~10,906 |
-| Perfect Escape | 1.00% | ~10,906 |
-| Perfect Killing | 1.00% | ~10,906 |
-| Bloody Millionaire | 1.00% | ~10,906 |
-| I | 1.00% | ~10,906 |
-| Engineer | 1.00% | ~10,906 |
-| Sorted | 1.00% | ~10,906 |
-| Healthy Obsession | 1.00% | ~10,906 |
-| Resurgence | 1.00% | ~10,906 |
-| Close Shave | 1.00% | ~10,906 |
-| Preemptive Strike | 1.00% | ~10,906 |
-| Humanitarian | 1.00% | ~10,906 |
-| I've got your back | 0.90% | ~9,816 |
-| Apt Killer | 0.90% | ~9,816 |
-| Risk it all | 0.90% | ~9,816 |
-| II | 0.90% | ~9,816 |
-| Wounded Healer | 0.90% | ~9,816 |
-| III | 0.80% | ~8,725 |
+| It wakes | 3.00% | ~32,722 |
+| Zealous | 2.00% | ~21,815 |
+| Not half bad | 2.00% | ~21,815 |
+| Apt Survivor | 2.00% | ~21,815 |
+| Survival Treasures | 2.00% | ~21,815 |
+| Skillful | 2.00% | ~21,815 |
+| Make Some Noise | 2.00% | ~21,815 |
+| The Grand Sacrifice | 1.00% | ~10,907 |
+| Agonizing Escape | 1.00% | ~10,907 |
+| Backdoor Escape | 1.00% | ~10,907 |
+| No one left behind | 1.00% | ~10,907 |
+| Medic | 1.00% | ~10,907 |
+| Handyman | 1.00% | ~10,907 |
+| Perfect Escape | 1.00% | ~10,907 |
+| Perfect Killing | 1.00% | ~10,907 |
+| Bloody Millionaire | 1.00% | ~10,907 |
+| I | 1.00% | ~10,907 |
+| Engineer | 1.00% | ~10,907 |
+| Sorted | 1.00% | ~10,907 |
+| Healthy Obsession | 1.00% | ~10,907 |
+| Resurgence | 1.00% | ~10,907 |
+| Close Shave | 1.00% | ~10,907 |
+| Preemptive Strike | 1.00% | ~10,907 |
+| Humanitarian | 1.00% | ~10,907 |
+| I've got your back | 0.90% | ~9,817 |
+| Apt Killer | 0.90% | ~9,817 |
+| Risk it all | 0.90% | ~9,817 |
+| II | 0.90% | ~9,817 |
+| Wounded Healer | 0.90% | ~9,817 |
+| III | 0.80% | ~8,726 |
 | Escape Artist | 0.70% | ~7,635 |
 | Vulture | 0.70% | ~7,635 |
 | First to the Punch | 0.70% | ~7,635 |
+| Operation: Survival | 0.70% | ~7,635 |
 | With Scars to Show | 0.70% | ~7,635 |
 | Lifting The Fog | 0.70% | ~7,635 |
 | Second Act | 0.70% | ~7,635 |
 | Blood on your hands | 0.60% | ~6,544 |
 | Gifts for the Fog | 0.60% | ~6,544 |
+| III-50 | 0.60% | ~6,544 |
+| Cherish your Life | 0.60% | ~6,544 |
 | Unforgettable Getaway | 0.60% | ~6,544 |
-| Operation: Survival | 0.60% | ~6,544 |
 | Old West Oasis | 0.60% | ~6,544 |
 | Every Last Drop | 0.60% | ~6,544 |
 | Raccoon City Recruit | 0.60% | ~6,544 |
 | Flight to Freedom | 0.60% | ~6,544 |
 | Chorus of Chaos | 0.60% | ~6,544 |
-| Made it out alive! | 0.50% | ~5,453 |
-| Nerves of steel | 0.50% | ~5,453 |
-| III-50 | 0.50% | ~5,453 |
-| Shock Therapy | 0.50% | ~5,453 |
-| All Aboard | 0.50% | ~5,453 |
-| Item of Obsession | 0.50% | ~5,453 |
-| House of Pain | 0.50% | ~5,453 |
-| Holiday Get-Together | 0.50% | ~5,453 |
-| Near-Death Experience | 0.50% | ~5,453 |
-| Cherish your Life | 0.50% | ~5,453 |
-| Ancestor's Rite | 0.50% | ~5,453 |
-| Cutting Out | 0.50% | ~5,453 |
-| Outrun Evil | 0.50% | ~5,453 |
-| Classy Act | 0.50% | ~5,453 |
-| One More Step | 0.50% | ~5,453 |
-| MU/TH/UR Dearest | 0.50% | ~5,453 |
+| Made it out alive! | 0.50% | ~5,454 |
+| Nerves of steel | 0.50% | ~5,454 |
+| Shock Therapy | 0.50% | ~5,454 |
+| All Aboard | 0.50% | ~5,454 |
+| Item of Obsession | 0.50% | ~5,454 |
+| House of Pain | 0.50% | ~5,454 |
+| Holiday Get-Together | 0.50% | ~5,454 |
+| Near-Death Experience | 0.50% | ~5,454 |
+| Ancestor's Rite | 0.50% | ~5,454 |
+| Cutting Out | 0.50% | ~5,454 |
+| Outrun Evil | 0.50% | ~5,454 |
+| Classy Act | 0.50% | ~5,454 |
+| One More Step | 0.50% | ~5,454 |
+| MU/TH/UR Dearest | 0.50% | ~5,454 |
 | A bite for the Entity | 0.40% | ~4,363 |
 | Blood on your face | 0.40% | ~4,363 |
 | Leapfrog | 0.40% | ~4,363 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,091 |
 | Adept Good Guy | 0.10% | ~1,091 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,090,649 (Ranked 12)  
+Progressed: 1,090,736 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -475,10 +475,10 @@ Completed: 62 (0.01%) (Ranked 349)
 | 2023-12-09 | 1,083,532 | 61 |
 | 2023-12-10 | 1,086,485 | 62 |
 | 2023-12-11 | 1,088,746 | 62 |
-| 2023-12-12 | 1,090,649 | 62 |
+| 2023-12-12 | 1,090,736 | 62 |
 ## Awards
 Max (Diverse Characters): 37,733  (Ranked 15)  
-Sum: 286,049 (Ranked 12)  
+Sum: 286,071 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -488,7 +488,7 @@ Diff (max vs sum): 3
 | This game has Competitive Players | 32,035 |
 | This game is Extremely Fun | 31,690 |
 | This game has Challenging Combat | 31,620 |
-| This game has Quickly Understood Controls | 30,837 |
+| This game has Quickly Understood Controls | 30,859 |
 | This game has Amazing Storytelling | 29,207 |
 | This game has a Competitive Community | 27,960 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -818,4 +818,4 @@ Diff (max vs sum): 3
 | 2023-12-09 | 4.51 | - | 37,578 | 285,006 |
 | 2023-12-10 | 4.51 | - | 37,638 | 285,419 |
 | 2023-12-11 | 4.51 | - | 37,692 | 285,774 |
-| 2023-12-12 | 4.51 | - | 37,733 | 286,049 |
+| 2023-12-12 | 4.51 | - | 37,733 | 286,071 |

@@ -1,24 +1,24 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,016)  
+Rating: 3.99 (Ranked 1,017)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,589 |
-| Basic in Bulk | 7.00% | ~10,140 |
-| Tinkle of Coins | 7.00% | ~10,140 |
-| Titan's First Steps | 7.00% | ~10,140 |
-| Disintermediation | 5.00% | ~7,243 |
-| It's Free Real Estate | 5.00% | ~7,243 |
-| Capitalism Ho! | 5.00% | ~7,243 |
-| One Easy Payment | 4.00% | ~5,794 |
-| Some Assembly Required | 4.00% | ~5,794 |
-| Another Satisfied Customer | 4.00% | ~5,794 |
-| Pretty Penny | 4.00% | ~5,794 |
-| Budding Merchant | 4.00% | ~5,794 |
-| Own the Means of Production | 4.00% | ~5,794 |
+| Sponsored by Argon | 8.00% | ~11,590 |
+| Basic in Bulk | 7.00% | ~10,141 |
+| Tinkle of Coins | 7.00% | ~10,141 |
+| Titan's First Steps | 7.00% | ~10,141 |
+| Disintermediation | 5.00% | ~7,244 |
+| It's Free Real Estate | 5.00% | ~7,244 |
+| Capitalism Ho! | 5.00% | ~7,244 |
+| One Easy Payment | 4.00% | ~5,795 |
+| Some Assembly Required | 4.00% | ~5,795 |
+| Another Satisfied Customer | 4.00% | ~5,795 |
+| Pretty Penny | 4.00% | ~5,795 |
+| Budding Merchant | 4.00% | ~5,795 |
+| Own the Means of Production | 4.00% | ~5,795 |
 | The Daily Grind | 3.00% | ~4,346 |
 | Bounty Hunters | 3.00% | ~4,346 |
 | Demand for Supplies | 3.00% | ~4,346 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~435 |
 | Capitalist Camaraderie | 0.20% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,859 (Ranked 80)  
+Progressed: 144,871 (Ranked 80)  
 Completed: 294 (0.20%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 294 (0.20%) (Ranked 260)
 | 2023-12-09 | 144,503 | 291 |
 | 2023-12-10 | 144,657 | 293 |
 | 2023-12-11 | 144,756 | 293 |
-| 2023-12-12 | 144,859 | 294 |
+| 2023-12-12 | 144,871 | 294 |
 ## Awards
 Max (Great for Beginners): 4,878  (Ranked 75)  
 Sum: 27,700 (Ranked 51)  
