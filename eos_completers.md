@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.18% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 22.17% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -35,7 +35,7 @@
 | 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 13.83% |
 | 34 | [Seven Doors](games/s/seven_doors.md) | 13.64% |
 | 35 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 13.41% |
-| 36 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.28% |
+| 36 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.27% |
 | 37 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 38 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.98% |
 | 39 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
@@ -92,7 +92,7 @@
 | 90 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.10% |
 | 91 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 4.03% |
 | 92 | [The Bunker](games/t/the_bunker.md) | 4.00% |
-| 93 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.72% |
+| 93 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.70% |
 | 94 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.61% |
 | 95 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
 | 96 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.33% |
@@ -110,7 +110,7 @@
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 109 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 109 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.93% |
-| 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.89% |
+| 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.88% |
 | 112 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 112 | [Night Book](games/n/night_book.md) | 2.78% |
 | 114 | [Dungeons 4](games/d/dungeons_4.md) | 2.76% |
@@ -150,8 +150,8 @@
 | 148 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.34% |
 | 149 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.33% |
 | 149 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.33% |
+| 151 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.32% |
 | 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.32% |
-| 152 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.31% |
 | 153 | [Chorus](games/c/chorus.md) | 1.30% |
 | 153 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
 | 155 | [Late Shift](games/l/late_shift.md) | 1.26% |
@@ -170,8 +170,8 @@
 | 168 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |
 | 169 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
 | 170 | [Sable](games/s/sable.md) | 1.01% |
-| 171 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.96% |
 | 171 | [Trifox](games/t/trifox.md) | 0.96% |
+| 172 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.95% |
 | 173 | [A Musical Story](games/a/a_musical_story.md) | 0.93% |
 | 174 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.92% |
 | 175 | [Hades](games/h/hades.md) | 0.91% |
@@ -192,7 +192,7 @@
 | 190 | [Haven](games/h/haven.md) | 0.64% |
 | 191 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.63% |
 | 191 | [Dead Space](games/d/dead_space.md) | 0.63% |
-| 193 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.61% |
+| 193 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.62% |
 | 194 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.60% |
 | 194 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.60% |
 | 194 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
