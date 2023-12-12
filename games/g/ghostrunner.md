@@ -6,10 +6,10 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~18,239 |
-| Sword Runner | 61.00% | ~14,639 |
-| Running out of breath | 54.00% | ~12,959 |
-| Wallrunner | 53.00% | ~12,719 |
+| Longrunner | 76.00% | ~18,240 |
+| Sword Runner | 61.00% | ~14,640 |
+| Running out of breath | 54.00% | ~12,960 |
+| Wallrunner | 53.00% | ~12,720 |
 | Homerunner | 45.00% | ~10,800 |
 | Out of order | 44.00% | ~10,560 |
 | I call it luck | 43.00% | ~10,320 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~96 |
 | Up Close And Personal | 0.40% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,999 (Ranked 138)  
+Progressed: 24,000 (Ranked 138)  
 Completed: 93 (0.39%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 93 (0.39%) (Ranked 226)
 | 2023-12-09 | 23,898 | 93 |
 | 2023-12-10 | 23,954 | 93 |
 | 2023-12-11 | 23,982 | 93 |
-| 2023-12-12 | 23,999 | 93 |
+| 2023-12-12 | 24,000 | 93 |
 ## Awards
 Max (Great Boss Battles): 524  (Ranked 212)  
 Sum: 757 (Ranked 289)  

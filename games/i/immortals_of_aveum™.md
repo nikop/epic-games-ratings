@@ -24,7 +24,7 @@ Rating: 4.05 (Ranked 998)
 | Periapt Alizarin | 24.00% | ~79 |
 | Geas Aristeya | 23.00% | ~76 |
 | A Perfect Cycle | 21.00% | ~70 |
-| Recruit | 19.00% | ~63 |
+| Recruit | 20.00% | ~66 |
 | Armsman | 18.00% | ~60 |
 | Lights Army | 13.00% | ~43 |
 | Periapt Cerulean | 13.00% | ~43 |
@@ -45,8 +45,8 @@ Rating: 4.05 (Ranked 998)
 | Tip of the Spear | 2.00% | ~7 |
 | Treasure Hunter | 2.00% | ~7 |
 | Backtracker | 2.00% | ~7 |
+| Grand Magnus | 1.00% | ~3 |
 | Petite Bourgeoisie | 1.00% | ~3 |
-| Grand Magnus | 0.90% | ~3 |
 | Family Business | 0.60% | ~2 |
 | Diplomat | 0.60% | ~2 |
 | Witch-Taker | 0.60% | ~2 |

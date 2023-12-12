@@ -1333,9 +1333,9 @@
       "ID": "ACH_35",
       "SetID": "efe2lj",
       "Name": "Feeling Fancy",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_36",
@@ -1364,8 +1364,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-12T13:15:33.4768043+00:00",
+  "LastChanged_Achievements": "2023-12-12T14:10:32.4944037+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:05:54.8396487+00:00",
-  "LastUpdate_Achievements": "2023-12-12T13:15:33.4768319+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:01:52.5946752+00:00",
+  "LastUpdate_Achievements": "2023-12-12T14:10:32.49443+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 543,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.76,
   "EosHistory": [
@@ -1964,8 +1964,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-12T13:10:10.0993792+00:00",
+  "LastChanged_Achievements": "2023-12-12T14:05:24.2926915+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:05:11.4267448+00:00",
-  "LastUpdate_Achievements": "2023-12-12T13:10:10.0994365+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:00:46.8238454+00:00",
+  "LastUpdate_Achievements": "2023-12-12T14:05:24.292744+00:00"
 }

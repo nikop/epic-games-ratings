@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -213,7 +213,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7724,
+  "EOS_Progressed": 7725,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 2,
@@ -6268,6 +6268,11 @@
       "Time": "2023-12-12T13:15:28.3979089+00:00",
       "NumProgressed": 7724,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-12T14:10:25.7159204+00:00",
+      "NumProgressed": 7725,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6288,7 +6293,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "BeLikeWater",
@@ -6320,7 +6325,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "Eavesdropper",
@@ -6472,7 +6477,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "TheQuarterback",
@@ -6518,9 +6523,9 @@
       "ID": "WhatsWithAllTheReferences",
       "SetID": "acc6ea0",
       "Name": "Digestive Issues",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 695
+      "UsersEstimate": 772
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -6536,7 +6541,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "k01101110",
@@ -6544,14 +6549,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7724,
+      "Progressed": 7725,
       "Completed": 16
     }
   ],
@@ -6559,8 +6564,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-11T17:58:44.1681748+00:00",
-  "LastChanged_Achievements": "2023-12-12T13:15:28.3979087+00:00",
+  "LastChanged_Achievements": "2023-12-12T14:10:25.7159197+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:04:49.6974675+00:00",
-  "LastUpdate_Achievements": "2023-12-12T13:15:28.397954+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:00:13.6515698+00:00",
+  "LastUpdate_Achievements": "2023-12-12T14:10:25.7159803+00:00"
 }

@@ -10,14 +10,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 0.80% | ~1,927 |
 | Uncharted Territory | 0.70% | ~1,686 |
 | Not Touching You | 0.70% | ~17 |
-| Getting A Glimpse | 0.60% | ~1,445 |
-| That Was Quick | 0.60% | ~1,445 |
-| Colorful Corpse | 0.60% | ~1,445 |
-| Defeat The Dark | 0.60% | ~1,445 |
-| A Donation | 0.60% | ~1,445 |
-| A Quick Escape | 0.60% | ~1,445 |
-| Explorer | 0.60% | ~1,445 |
-| An Offering | 0.60% | ~1,445 |
+| Getting A Glimpse | 0.60% | ~1,446 |
+| That Was Quick | 0.60% | ~1,446 |
+| Colorful Corpse | 0.60% | ~1,446 |
+| Defeat The Dark | 0.60% | ~1,446 |
+| A Donation | 0.60% | ~1,446 |
+| A Quick Escape | 0.60% | ~1,446 |
+| Explorer | 0.60% | ~1,446 |
+| An Offering | 0.60% | ~1,446 |
 | Ambitious Intent | 0.50% | ~1,205 |
 | Nothing To Lose | 0.50% | ~1,205 |
 | Heavy Hitter | 0.50% | ~1,205 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,915 (Ranked 64)  
+Progressed: 240,919 (Ranked 64)  
 Completed: 295 (0.12%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -381,7 +381,7 @@ Completed: 295 (0.12%) (Ranked 284)
 | 2023-12-09 | 240,828 | 293 |
 | 2023-12-10 | 240,862 | 293 |
 | 2023-12-11 | 240,899 | 294 |
-| 2023-12-12 | 240,915 | 295 |
+| 2023-12-12 | 240,919 | 295 |
 ## Awards
 Max (Quickly Understood Controls): 1,507  (Ranked 134)  
 Sum: 11,724 (Ranked 85)  

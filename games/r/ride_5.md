@@ -16,7 +16,7 @@
 | I Want One Too! | 19.00% | ~465 |
 | Legendary!!! | 19.00% | ~465 |
 | Quick Pit Stop | 19.00% | ~465 |
-| Go-Faster Stripes | 17.00% | ~416 |
+| Go-Faster Stripes | 18.00% | ~440 |
 | I'm Here Too! | 16.00% | ~391 |
 | We've Just Begun | 12.00% | ~294 |
 | Stamina Star | 9.00% | ~220 |

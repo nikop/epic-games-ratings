@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -783,9 +783,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3346,
+  "EOS_Progressed": 3347,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4088,6 +4088,11 @@
       "Time": "2023-12-10T22:05:29.9560498+00:00",
       "NumProgressed": 3346,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T14:06:52.0674171+00:00",
+      "NumProgressed": 3347,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4225,9 +4230,9 @@
       "ID": "FrequentWarpSurges",
       "SetID": "3jha1np",
       "Name": "Unstable Immaterium",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "FullBarracks",
@@ -4345,9 +4350,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 234
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -4642,21 +4647,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3346,
+      "Progressed": 3347,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3346,
+      "Progressed": 3347,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-09T02:23:51.7784821+00:00",
-  "LastChanged_Achievements": "2023-12-12T13:11:12.8093955+00:00",
+  "LastChanged_Achievements": "2023-12-12T14:06:52.0674165+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0749768+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:08:44.2611403+00:00",
-  "LastUpdate_Achievements": "2023-12-12T13:11:12.8094504+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:03:21.4458019+00:00",
+  "LastUpdate_Achievements": "2023-12-12T14:06:52.0674961+00:00"
 }

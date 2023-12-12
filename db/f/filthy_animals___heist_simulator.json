@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8582,
+  "EOS_Progressed": 8584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6781,6 +6781,11 @@
       "Time": "2023-12-12T01:51:58.0849836+00:00",
       "NumProgressed": 8582,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T14:04:22.0984984+00:00",
+      "NumProgressed": 8584,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -6856,7 +6861,7 @@
       "Name": "Bank Heisted",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "chickenMax",
@@ -7015,7 +7020,7 @@
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 8582,
+      "Progressed": 8584,
       "Completed": 0
     }
   ],
@@ -7023,8 +7028,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-12-12T13:09:25.2640026+00:00",
+  "LastChanged_Achievements": "2023-12-12T14:04:22.0984974+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:54.8623112+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:05:49.9117426+00:00",
-  "LastUpdate_Achievements": "2023-12-12T13:09:25.2640501+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:01:45.2419778+00:00",
+  "LastUpdate_Achievements": "2023-12-12T14:04:22.0985697+00:00"
 }

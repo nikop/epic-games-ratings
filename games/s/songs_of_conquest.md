@@ -23,17 +23,17 @@ Number of Ratings: 292  (23.09.2022)
 | Venisti, Vidisti, Perdidisti | 3.00% | ~13 |
 | The Song of Stoutheart | 2.00% | ~9 |
 | This Spot's Taken | 2.00% | ~9 |
+| Versatile Wielder | 2.00% | ~9 |
 | Deepstrike | 2.00% | ~9 |
 | Don't Touch My Stuff | 2.00% | ~9 |
 | Such A Fungi | 2.00% | ~9 |
 | Pyrrhic Victory | 2.00% | ~9 |
-| Versatile Wielder | 1.00% | ~4 |
 | Infernal Influence | 1.00% | ~4 |
 | Grand Master | 1.00% | ~4 |
 | Ultra Kill | 0.90% | ~4 |
+| Unlimited Power! | 0.70% | ~3 |
 | Together For Her | 0.70% | ~3 |
 | Death To Diplomacy | 0.50% | ~2 |
-| Unlimited Power! | 0.50% | ~2 |
 | Coming Through! | 0.50% | ~2 |
 | Barbecue | 0.50% | ~2 |
 | In The Thick of It | 0.50% | ~2 |

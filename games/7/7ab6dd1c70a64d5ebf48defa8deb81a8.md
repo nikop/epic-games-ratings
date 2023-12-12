@@ -39,7 +39,7 @@
 | All That Gold | 2.00% | ~5 |
 | Summiter | 2.00% | ~5 |
 | Shardbearer | 1.00% | ~3 |
-| Feeling Fancy | 0.00% | ~0 |
+| Feeling Fancy | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 264 (Ranked 373)  
 Completed: 2 (0.76%) (Ranked 185)  

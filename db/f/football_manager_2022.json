@@ -5,7 +5,7 @@
   "Ranking_Rating": 90,
   "Ranking_Popularity": 59,
   "Ranking_PopularitySum": 29,
-  "Ranking_EOS_Progress": 39,
+  "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 127,
@@ -8762,9 +8762,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477536,
+  "EOS_Progressed": 477537,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32622,6 +32622,11 @@
       "Time": "2023-12-12T13:12:20.7555564+00:00",
       "NumProgressed": 477536,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-12T14:08:25.9927274+00:00",
+      "NumProgressed": 477537,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -32657,7 +32662,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 176688
+      "UsersEstimate": 176689
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -32689,7 +32694,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 124159
+      "UsersEstimate": 124160
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -32729,7 +32734,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138485
+      "UsersEstimate": 138486
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -32785,7 +32790,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 176688
+      "UsersEstimate": 176689
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -32865,7 +32870,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 200565
+      "UsersEstimate": 200566
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -32945,7 +32950,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138485
+      "UsersEstimate": 138486
     },
     {
       "ID": "achievement_hattrick",
@@ -33009,7 +33014,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109833
+      "UsersEstimate": 109834
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -33025,7 +33030,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 124159
+      "UsersEstimate": 124160
     },
     {
       "ID": "achievement_mr_delegator",
@@ -33105,7 +33110,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138485
+      "UsersEstimate": 138486
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -33177,7 +33182,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229217
+      "UsersEstimate": 229218
     },
     {
       "ID": "achievement_signed_a_player",
@@ -33193,7 +33198,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109833
+      "UsersEstimate": 109834
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -33249,7 +33254,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 71630
+      "UsersEstimate": 71631
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -33416,15 +33421,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477536,
+      "Progressed": 477537,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-12T04:01:36.8101772+00:00",
-  "LastChanged_Achievements": "2023-12-12T13:12:20.7555562+00:00",
+  "LastChanged_Achievements": "2023-12-12T14:08:25.9927268+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.1665984+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:06:04.1199278+00:00",
-  "LastUpdate_Achievements": "2023-12-12T13:12:20.7557175+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:02:36.8696495+00:00",
+  "LastUpdate_Achievements": "2023-12-12T14:08:25.9929194+00:00"
 }

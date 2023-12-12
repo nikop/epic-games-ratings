@@ -18,12 +18,12 @@ Number of Ratings: 892  (23.09.2022)
 | On that Grindset | 79.00% | ~424 |
 | I Do! | 78.00% | ~419 |
 | Diamonds are Forever | 78.00% | ~419 |
+| Can We Keep It? | 77.00% | ~413 |
 | Pack Mule | 76.00% | ~408 |
-| Can We Keep It? | 76.00% | ~408 |
 | First Love | 75.00% | ~403 |
 | Unboxing | 71.00% | ~381 |
 | Elementary, My Dear | 68.00% | ~365 |
-| Chatterbox | 67.00% | ~360 |
+| Chatterbox | 68.00% | ~365 |
 | Big Game Hunter | 66.00% | ~354 |
 | Financially Secure | 65.00% | ~349 |
 | Got Served | 65.00% | ~349 |
@@ -54,7 +54,7 @@ Number of Ratings: 892  (23.09.2022)
 | Just What I Always Wanted! | 43.00% | ~231 |
 | Sandrunning Speedster | 39.00% | ~209 |
 | He Can Spin A Yarn... | 38.00% | ~204 |
-| Santa In Training | 37.00% | ~199 |
+| Santa In Training | 38.00% | ~204 |
 | It Belongs in a Museum! | 37.00% | ~199 |
 | Pro Gamer | 35.00% | ~188 |
 | Newton | 34.00% | ~183 |

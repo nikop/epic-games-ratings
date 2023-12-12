@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1137,11 +1137,17 @@
       "Rating": 4.73,
       "NumberOfAwards": 950,
       "NumberOfAwardsMax": 136
+    },
+    {
+      "Time": "2023-12-12T14:02:32.6312293+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 951,
+      "NumberOfAwardsMax": 137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 950,
-  "NumberOfAwardsMax": 136,
+  "NumberOfAwards": 951,
+  "NumberOfAwardsMax": 137,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -1160,7 +1166,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 136
+      "Count": 137
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1211,9 +1217,9 @@
       "Count": 136
     }
   ],
-  "EOS_Progressed": 8423,
+  "EOS_Progressed": 8424,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -6031,6 +6037,11 @@
       "Time": "2023-12-12T09:09:11.2798867+00:00",
       "NumProgressed": 8423,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-12T14:09:04.9154355+00:00",
+      "NumProgressed": 8424,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 24,
@@ -6066,7 +6077,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5306
+      "UsersEstimate": 5307
     },
     {
       "ID": "DemonCastleRestoration",
@@ -6074,7 +6085,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "DwarfChandelier",
@@ -6106,7 +6117,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2359
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -6138,7 +6149,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "LeoniasFall_2",
@@ -6170,7 +6181,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5306
+      "UsersEstimate": 5307
     },
     {
       "ID": "SavedElderEnt_2",
@@ -6202,7 +6213,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7833
+      "UsersEstimate": 7834
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -6210,7 +6221,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -6226,22 +6237,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7075
+      "UsersEstimate": 7076
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8423,
+      "Progressed": 8424,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-12-10T13:02:49.5439507+00:00",
-  "LastChanged_Achievements": "2023-12-12T13:14:29.8207733+00:00",
+  "LastChanged": "2023-12-12T14:02:32.631229+00:00",
+  "LastChanged_Achievements": "2023-12-12T14:09:04.9154348+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:02.7118419+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:06:01.2967435+00:00",
-  "LastUpdate_Achievements": "2023-12-12T13:14:29.8208083+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:02:32.6312298+00:00",
+  "LastUpdate_Achievements": "2023-12-12T14:09:04.9154752+00:00"
 }

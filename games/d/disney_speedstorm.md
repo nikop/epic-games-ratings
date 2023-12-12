@@ -5,13 +5,13 @@ Rating: 4.39 (Ranked 757)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~40,209 |
-| IT MAKES BOOM! | 7.00% | ~23,455 |
-| EXTRA BOOST | 6.00% | ~20,105 |
-| PROTECTED | 4.00% | ~13,403 |
-| PRO | 4.00% | ~13,403 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,052 |
-| AGGRESSIVE RACER | 3.00% | ~10,052 |
+| ROOKIE | 12.00% | ~40,212 |
+| IT MAKES BOOM! | 7.00% | ~23,457 |
+| EXTRA BOOST | 6.00% | ~20,106 |
+| PROTECTED | 4.00% | ~13,404 |
+| PRO | 4.00% | ~13,404 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,053 |
+| AGGRESSIVE RACER | 3.00% | ~10,053 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~6,702 |
 | A TIGER'S FEAR | 2.00% | ~6,702 |
 | TRAINING HARD | 1.00% | ~3,351 |
@@ -23,14 +23,14 @@ Rating: 4.39 (Ranked 757)
 | LEGENDARY HERO | 1.00% | ~3,351 |
 | DEFEAT OUR CHAMPION | 0.80% | ~2,681 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,346 |
-| EXPERIENCED CREW | 0.60% | ~2,010 |
-| ACE DEFENDER | 0.60% | ~2,010 |
+| EXPERIENCED CREW | 0.60% | ~2,011 |
+| ACE DEFENDER | 0.60% | ~2,011 |
 | ACE BRAWLER | 0.50% | ~1,675 |
 | FRAMED! | 0.40% | ~1,340 |
 | ACE TRICKSTER | 0.40% | ~1,340 |
 | PERFECTLY POISED | 0.30% | ~1,005 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335,078 (Ranked 50)  
+Progressed: 335,098 (Ranked 50)  
 Completed: 555 (0.17%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,14 +262,14 @@ Completed: 555 (0.17%) (Ranked 270)
 | 2023-12-09 | 332,745 | 532 |
 | 2023-12-10 | 333,976 | 537 |
 | 2023-12-11 | 334,723 | 548 |
-| 2023-12-12 | 335,078 | 555 |
+| 2023-12-12 | 335,098 | 555 |
 ## Awards
-Max (Great for Beginners): 122  (Ranked 344)  
-Sum: 845 (Ranked 279)  
-Diff (max vs sum): 65  
+Max (Great for Beginners): 127  (Ranked 338)  
+Sum: 850 (Ranked 278)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 122 |
+| This game is Great for Beginners | 127 |
 | This game is Great for Quick Sessions | 108 |
 | This game has Diverse Characters | 94 |
 | This game has a Competitive Community | 74 |
@@ -356,4 +356,4 @@ Diff (max vs sum): 65
 | 2023-12-09 | 4.39 | 117 | 816 |
 | 2023-12-10 | 4.39 | 119 | 826 |
 | 2023-12-11 | 4.39 | 122 | 840 |
-| 2023-12-12 | 4.39 | 122 | 845 |
+| 2023-12-12 | 4.39 | 127 | 850 |

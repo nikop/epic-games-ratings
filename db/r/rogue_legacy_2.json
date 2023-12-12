@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23700,
+  "EOS_Progressed": 23701,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10390,6 +10390,11 @@
       "Time": "2023-12-12T07:08:56.658973+00:00",
       "NumProgressed": 23700,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-12T14:10:01.8179443+00:00",
+      "NumProgressed": 23701,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10521,7 +10526,7 @@
       "Name": "For Survival",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "BossForestDefeated",
@@ -10712,21 +10717,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23700,
+      "Progressed": 23701,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2630,
+      "Progressed": 2631,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-12T13:15:11.0651761+00:00",
+  "LastChanged_Achievements": "2023-12-12T14:10:01.8179435+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:17.8828255+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:03:22.1416711+00:00",
-  "LastUpdate_Achievements": "2023-12-12T13:15:11.0652395+00:00"
+  "LastUpdate_Ratings": "2023-12-12T13:58:05.0097651+00:00",
+  "LastUpdate_Achievements": "2023-12-12T14:10:01.818035+00:00"
 }

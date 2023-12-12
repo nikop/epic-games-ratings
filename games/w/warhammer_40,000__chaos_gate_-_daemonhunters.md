@@ -10,8 +10,8 @@ Number of Ratings: 371  (23.09.2022)
 | Look Over There! | 8.00% | ~268 |
 | Not So Fast... | 8.00% | ~268 |
 | Watch Where You Step... | 8.00% | ~268 |
-| An Ill Omen | 8.00% | ~268 |
 | Purging Spree | 7.00% | ~234 |
+| An Ill Omen | 7.00% | ~234 |
 | Blood for the Blood God! | 6.00% | ~201 |
 | Bloodless | 5.00% | ~167 |
 | Honoured Battle-Brother | 4.00% | ~134 |
@@ -55,6 +55,7 @@ Number of Ratings: 371  (23.09.2022)
 | Killing Rampage | 0.30% | ~10 |
 | The Flesh is Weak | 0.20% | ~7 |
 | Clean Slate | 0.20% | ~7 |
+| Unstable Immaterium | 0.20% | ~7 |
 | Phalanx | 0.20% | ~7 |
 | Strategic Command | 0.20% | ~7 |
 | Terminal Meltdown | 0.20% | ~7 |
@@ -63,7 +64,6 @@ Number of Ratings: 371  (23.09.2022)
 | Grand Master | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
 | Drone Army | 0.10% | ~3 |
-| Unstable Immaterium | 0.10% | ~3 |
 | Opportunist | 0.10% | ~3 |
 | Master of the Forge | 0.10% | ~3 |
 | Field Apothecarion | 0.10% | ~3 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,346 (Ranked 210)  
+Progressed: 3,347 (Ranked 210)  
 Completed: 0 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,6 +280,7 @@ Completed: 0 (0.00%) (Ranked 372)
 | 2023-12-08 | 3,341 | 0 |
 | 2023-12-09 | 3,345 | 0 |
 | 2023-12-10 | 3,346 | 0 |
+| 2023-12-12 | 3,347 | 0 |
 ## Awards
 Max (Character Customization): 226  (Ranked 280)  
 Sum: 487 (Ranked 331)  

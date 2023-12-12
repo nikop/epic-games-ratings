@@ -34,13 +34,13 @@
 | Stormwatch Faste | 17.00% | ~7 |
 | Friend of Orgash | 14.00% | ~6 |
 | Friend of Silver Drift Hollow | 14.00% | ~6 |
+| Friend of Windholme | 14.00% | ~6 |
 | Defeat Gor | 12.00% | ~5 |
 | Lore's Tale | 12.00% | ~5 |
 | Yngrid's Tale | 12.00% | ~5 |
 | The Forge of Regan Gor | 12.00% | ~5 |
 | Silver Drift Hollow Mine | 12.00% | ~5 |
 | A Master of Magic | 12.00% | ~5 |
-| Friend of Windholme | 12.00% | ~5 |
 | Magic Academy | 12.00% | ~5 |
 | A Joke | 12.00% | ~5 |
 | Defeat Hokan | 10.00% | ~4 |

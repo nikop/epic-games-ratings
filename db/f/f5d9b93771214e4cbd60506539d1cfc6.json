@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156236,
+  "EOS_Progressed": 156238,
   "EOS_Completed": 358,
-  "EOS_NewPlayers": 804,
+  "EOS_NewPlayers": 799,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -21330,6 +21330,11 @@
       "Time": "2023-12-12T13:09:08.7834279+00:00",
       "NumProgressed": 156236,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2023-12-12T14:03:59.3798825+00:00",
+      "NumProgressed": 156238,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 31,
@@ -21349,7 +21354,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 109365
+      "UsersEstimate": 109367
     },
     {
       "ID": "EAwards_10",
@@ -21389,7 +21394,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 60932
+      "UsersEstimate": 60933
     },
     {
       "ID": "EAwards_15",
@@ -21397,7 +21402,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18748
+      "UsersEstimate": 18749
     },
     {
       "ID": "EAwards_16",
@@ -21437,7 +21442,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 43746
+      "UsersEstimate": 43747
     },
     {
       "ID": "EAwards_20",
@@ -21461,7 +21466,7 @@
       "Name": "Poncho\u0027d Out",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6249
+      "UsersEstimate": 6250
     },
     {
       "ID": "EAwards_23",
@@ -21541,7 +21546,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23435
+      "UsersEstimate": 23436
     },
     {
       "ID": "EAwards_5",
@@ -21549,7 +21554,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18748
+      "UsersEstimate": 18749
     },
     {
       "ID": "EAwards_6",
@@ -21557,7 +21562,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 39059
+      "UsersEstimate": 39060
     },
     {
       "ID": "EAwards_7",
@@ -21581,14 +21586,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18748
+      "UsersEstimate": 18749
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 156236,
+      "Progressed": 156238,
       "Completed": 358
     }
   ],
@@ -21596,8 +21601,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-11T13:07:34.3622541+00:00",
-  "LastChanged_Achievements": "2023-12-12T13:09:08.7834276+00:00",
+  "LastChanged_Achievements": "2023-12-12T14:03:59.3798819+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.48101+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:06:07.3695479+00:00",
-  "LastUpdate_Achievements": "2023-12-12T13:09:08.7835363+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:02:41.8331934+00:00",
+  "LastUpdate_Achievements": "2023-12-12T14:03:59.3800334+00:00"
 }

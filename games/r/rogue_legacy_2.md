@@ -22,7 +22,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Truly Blessed | 0.60% | ~142 |
 | For Justice | 0.60% | ~142 |
 | Good Boy! | 0.60% | ~142 |
-| For Survival | 0.50% | ~118 |
+| For Survival | 0.50% | ~119 |
 | For Love | 0.40% | ~95 |
 | Jack of all Trades | 0.40% | ~95 |
 | Color Coordination | 0.40% | ~95 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,700 (Ranked 139)  
+Progressed: 23,701 (Ranked 139)  
 Completed: 35 (0.15%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 35 (0.15%) (Ranked 277)
 | 2023-12-09 | 23,681 | 35 |
 | 2023-12-10 | 23,693 | 35 |
 | 2023-12-11 | 23,696 | 35 |
-| 2023-12-12 | 23,700 | 35 |
+| 2023-12-12 | 23,701 | 35 |
 ## Awards
 Max (Extremely Fun): 223  (Ranked 283)  
 Sum: 1,704 (Ranked 225)  
