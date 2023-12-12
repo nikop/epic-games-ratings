@@ -2,10 +2,10 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 206,
+  "EOS_Progressed": 207,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -796,6 +796,11 @@
       "Time": "2023-12-08T20:08:30.5919012+00:00",
       "NumProgressed": 206,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T19:04:45.3041162+00:00",
+      "NumProgressed": 207,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1143,7 +1148,7 @@
       "Name": "Acquaintance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Vanilla_FirstFactionTier5Neg",
@@ -1421,9 +1426,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1598,7 +1603,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 206,
+      "Progressed": 207,
       "Completed": 0
     }
   ],
@@ -1606,8 +1611,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-12T18:04:55.1493208+00:00",
+  "LastChanged_Achievements": "2023-12-12T19:04:45.3041159+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.4841893+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:58:27.702968+00:00",
-  "LastUpdate_Achievements": "2023-12-12T18:04:55.1494249+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:58:33.4865698+00:00",
+  "LastUpdate_Achievements": "2023-12-12T19:04:45.3042152+00:00"
 }

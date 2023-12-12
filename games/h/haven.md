@@ -13,17 +13,17 @@ Number of Ratings: 38  (23.09.2022)
 | Over my dead body | 40.00% | ~626 |
 | Shake the rust off their feet | 21.00% | ~329 |
 | My little pony | 20.00% | ~313 |
-| Strike! | 19.00% | ~297 |
-| A love supreme | 19.00% | ~297 |
+| Strike! | 19.00% | ~298 |
+| A love supreme | 19.00% | ~298 |
 | In my shoes | 17.00% | ~266 |
 | Like new! | 15.00% | ~235 |
 | Heartstrings | 14.00% | ~219 |
-| Don't look back | 13.00% | ~203 |
-| Head in the clouds | 13.00% | ~203 |
+| Don't look back | 13.00% | ~204 |
+| Head in the clouds | 13.00% | ~204 |
 | Back to rust | 12.00% | ~188 |
 | Flower Powered | 12.00% | ~188 |
-| Perfect timing | 10.00% | ~156 |
-| Unstoppable | 10.00% | ~156 |
+| Perfect timing | 10.00% | ~157 |
+| Unstoppable | 10.00% | ~157 |
 | Self-sustainability | 8.00% | ~125 |
 | Ain't no mountain high enough | 8.00% | ~125 |
 | Can't get wetter... | 5.00% | ~78 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~31 |
 | À la carte | 2.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,565 (Ranked 245)  
+Progressed: 1,566 (Ranked 245)  
 Completed: 10 (0.64%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 10 (0.64%) (Ranked 191)
 | 2023-12-08 | 1,560 | 10 |
 | 2023-12-10 | 1,562 | 10 |
 | 2023-12-11 | 1,563 | 10 |
-| 2023-12-12 | 1,565 | 10 |
+| 2023-12-12 | 1,566 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

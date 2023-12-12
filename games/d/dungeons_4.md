@@ -25,7 +25,7 @@
 | Hard Work | 53.00% | ~288 |
 | YOU SHALL NOT PASS! | 51.00% | ~277 |
 | “… like son” | 51.00% | ~277 |
-| The Cathedral of Light | 47.00% | ~255 |
+| The Cathedral of Light | 48.00% | ~261 |
 | Shame! Shame! Shame! | 47.00% | ~255 |
 | Pure Dynamite! | 46.00% | ~250 |
 | Dungeonlord Gorgu | 45.00% | ~244 |

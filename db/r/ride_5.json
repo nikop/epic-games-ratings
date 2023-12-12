@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2450,
+  "EOS_Progressed": 2451,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
@@ -6057,6 +6057,11 @@
       "Time": "2023-12-12T18:05:52.0608648+00:00",
       "NumProgressed": 2450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T19:05:40.1786356+00:00",
+      "NumProgressed": 2451,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6093,7 +6098,7 @@
       "Name": "Stamina Star",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -6109,7 +6114,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -6141,7 +6146,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -6277,7 +6282,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6333,7 +6338,7 @@
       "Name": "Next Level",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -6365,7 +6370,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -6373,7 +6378,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -6405,7 +6410,7 @@
       "Name": "I Don\u0027t Stop",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -6421,7 +6426,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -6460,14 +6465,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2450,
+      "Progressed": 2451,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-12T18:05:52.0608643+00:00",
+  "LastChanged_Achievements": "2023-12-12T19:05:40.1786351+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:58:39.9711396+00:00",
-  "LastUpdate_Achievements": "2023-12-12T18:05:52.0609194+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:58:45.9324934+00:00",
+  "LastUpdate_Achievements": "2023-12-12T19:05:40.1786961+00:00"
 }

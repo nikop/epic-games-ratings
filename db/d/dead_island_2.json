@@ -7453,18 +7453,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 12460,
       "NumberOfAwardsMax": 8094
+    },
+    {
+      "Time": "2023-12-12T18:57:47.204249+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12476,
+      "NumberOfAwardsMax": 8108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12460,
-  "NumberOfAwardsMax": 8094,
+  "NumberOfAwards": 12476,
+  "NumberOfAwardsMax": 8108,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8094
+      "Count": 8108
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7488,7 +7494,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 508
+      "Count": 510
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7515,9 +7521,9 @@
       "Count": 529
     }
   ],
-  "EOS_Progressed": 733782,
+  "EOS_Progressed": 733807,
   "EOS_Completed": 2479,
-  "EOS_NewPlayers": 3225,
+  "EOS_NewPlayers": 3220,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -34630,6 +34636,11 @@
       "Time": "2023-12-12T18:09:11.5660306+00:00",
       "NumProgressed": 733782,
       "NumCompleted": 2479
+    },
+    {
+      "Time": "2023-12-12T19:08:31.443184+00:00",
+      "NumProgressed": 733807,
+      "NumCompleted": 2479
     }
   ],
   "TotalAchievements": 51,
@@ -34745,7 +34756,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5136
+      "UsersEstimate": 5137
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -34801,7 +34812,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22013
+      "UsersEstimate": 22014
     },
     {
       "ID": "ach_impressive_aim",
@@ -34817,7 +34828,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5136
+      "UsersEstimate": 5137
     },
     {
       "ID": "ach_investigator",
@@ -34977,7 +34988,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22013
+      "UsersEstimate": 22014
     },
     {
       "ID": "ach_well_known_survivor",
@@ -35001,7 +35012,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "ach_dark_magic",
@@ -35048,22 +35059,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 733782,
+      "Progressed": 733807,
       "Completed": 2479
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 59324,
+      "Progressed": 59349,
       "Completed": 36655
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-12T17:57:41.2715695+00:00",
-  "LastChanged_Achievements": "2023-12-12T18:09:11.5660302+00:00",
+  "LastChanged": "2023-12-12T18:57:47.2042488+00:00",
+  "LastChanged_Achievements": "2023-12-12T19:08:31.4431833+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:31.7932919+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:57:41.2715702+00:00",
-  "LastUpdate_Achievements": "2023-12-12T18:09:11.5661898+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:57:47.2042493+00:00",
+  "LastUpdate_Achievements": "2023-12-12T19:08:31.443371+00:00"
 }

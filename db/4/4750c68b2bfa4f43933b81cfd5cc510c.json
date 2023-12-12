@@ -3,12 +3,12 @@
   "Name": "EA SPORTS FC\u2122 24 Standard Edition",
   "ProductSlug": "ea-sports-fc-24",
   "Ranking_Rating": 842,
-  "Ranking_Popularity": 159,
+  "Ranking_Popularity": 157,
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
     "PcReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -2449,11 +2449,17 @@
       "Rating": 4.31,
       "NumberOfAwards": 4096,
       "NumberOfAwardsMax": 961
+    },
+    {
+      "Time": "2023-12-12T18:59:20.1577468+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 4110,
+      "NumberOfAwardsMax": 975
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4096,
-  "NumberOfAwardsMax": 961,
+  "NumberOfAwards": 4110,
+  "NumberOfAwardsMax": 975,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2466,7 +2472,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 961
+      "Count": 975
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2511,9 +2517,9 @@
       "Count": 504
     }
   ],
-  "EOS_Progressed": 56577,
+  "EOS_Progressed": 56578,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12061,6 +12067,11 @@
       "Time": "2023-12-12T18:05:37.4029775+00:00",
       "NumProgressed": 56577,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T19:05:26.1058788+00:00",
+      "NumProgressed": 56578,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -12097,7 +12108,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 36775
+      "UsersEstimate": 36776
     },
     {
       "ID": "achievement_13",
@@ -12113,7 +12124,7 @@
       "Name": "The Alchemist",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 28854
+      "UsersEstimate": 28855
     },
     {
       "ID": "achievement_15",
@@ -12129,7 +12140,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 24328
+      "UsersEstimate": 24329
     },
     {
       "ID": "achievement_17",
@@ -12137,7 +12148,7 @@
       "Name": "One Moment Please!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 33380
+      "UsersEstimate": 33381
     },
     {
       "ID": "achievement_18",
@@ -12145,7 +12156,7 @@
       "Name": "Welcome to the Big Leagues!",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 28288
+      "UsersEstimate": 28289
     },
     {
       "ID": "achievement_19",
@@ -12177,7 +12188,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 46959
+      "UsersEstimate": 46960
     },
     {
       "ID": "achievement_22",
@@ -12185,7 +12196,7 @@
       "Name": "Level Up!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 29420
+      "UsersEstimate": 29421
     },
     {
       "ID": "achievement_23",
@@ -12361,7 +12372,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 33946
+      "UsersEstimate": 33947
     },
     {
       "ID": "achievement_7",
@@ -12369,7 +12380,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 21499
+      "UsersEstimate": 21500
     },
     {
       "ID": "achievement_8",
@@ -12377,7 +12388,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 41867
+      "UsersEstimate": 41868
     },
     {
       "ID": "achievement_9",
@@ -12385,23 +12396,23 @@
       "Name": "Bring it on",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 16407
+      "UsersEstimate": 16408
     }
   ],
   "AchievementSets": [
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 56577,
+      "Progressed": 56578,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-29T00:00:53.2265881+00:00",
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged": "2023-12-12T10:59:05.5879318+00:00",
-  "LastChanged_Achievements": "2023-12-12T18:05:37.4029771+00:00",
+  "LastChanged": "2023-12-12T18:59:20.1577466+00:00",
+  "LastChanged_Achievements": "2023-12-12T19:05:26.1058781+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:08.0940773+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:59:14.175392+00:00",
-  "LastUpdate_Achievements": "2023-12-12T18:05:37.4030495+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:59:20.1577472+00:00",
+  "LastUpdate_Achievements": "2023-12-12T19:05:26.1059607+00:00"
 }

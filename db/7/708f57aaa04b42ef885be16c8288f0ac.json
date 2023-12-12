@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7727,
+  "EOS_Progressed": 7728,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -6283,6 +6283,11 @@
       "Time": "2023-12-12T18:09:55.1238925+00:00",
       "NumProgressed": 7727,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-12T19:09:32.6067181+00:00",
+      "NumProgressed": 7728,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6375,7 +6380,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "GarbageMan",
@@ -6535,7 +6540,7 @@
       "Name": "Digestive Issues",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -6566,7 +6571,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7727,
+      "Progressed": 7728,
       "Completed": 16
     }
   ],
@@ -6574,8 +6579,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-11T17:58:44.1681748+00:00",
-  "LastChanged_Achievements": "2023-12-12T18:09:55.123892+00:00",
+  "LastChanged_Achievements": "2023-12-12T19:09:32.6067175+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:59:08.9466239+00:00",
-  "LastUpdate_Achievements": "2023-12-12T18:09:55.1239481+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:59:15.1356846+00:00",
+  "LastUpdate_Achievements": "2023-12-12T19:09:32.6067568+00:00"
 }

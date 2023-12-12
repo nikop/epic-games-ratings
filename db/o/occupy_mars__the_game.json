@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1781,
+  "EOS_Progressed": 1782,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4558,6 +4558,11 @@
       "Time": "2023-12-12T06:09:10.7507477+00:00",
       "NumProgressed": 1781,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T19:08:24.0870294+00:00",
+      "NumProgressed": 1782,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4649,7 +4654,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4673,7 +4678,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -4785,7 +4790,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -4929,7 +4934,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4952,7 +4957,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1781,
+      "Progressed": 1782,
       "Completed": 0
     }
   ],
@@ -4960,8 +4965,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-06T17:58:25.3194639+00:00",
-  "LastChanged_Achievements": "2023-12-12T18:09:03.9354464+00:00",
+  "LastChanged_Achievements": "2023-12-12T19:08:24.0870291+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:00.8104796+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:57:46.5780443+00:00",
-  "LastUpdate_Achievements": "2023-12-12T18:09:03.9355109+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:57:52.2754575+00:00",
+  "LastUpdate_Achievements": "2023-12-12T19:08:24.0870791+00:00"
 }

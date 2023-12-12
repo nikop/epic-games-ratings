@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1565,
+  "EOS_Progressed": 1566,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2313,6 +2313,11 @@
       "Time": "2023-12-12T12:05:51.5356882+00:00",
       "NumProgressed": 1565,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-12T19:04:49.0325727+00:00",
+      "NumProgressed": 1566,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2332,7 +2337,7 @@
       "Name": "Perfect timing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "11",
@@ -2340,7 +2345,7 @@
       "Name": "Strike!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "12",
@@ -2356,7 +2361,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "14",
@@ -2420,7 +2425,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 13,
       "XP": 70,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "21",
@@ -2476,7 +2481,7 @@
       "Name": "A love supreme",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "3",
@@ -2516,7 +2521,7 @@
       "Name": "Head in the clouds",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "5",
@@ -2563,15 +2568,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1565,
+      "Progressed": 1566,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-12T18:04:58.8400921+00:00",
+  "LastChanged_Achievements": "2023-12-12T19:04:49.032572+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:06.0236888+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:58:34.8693421+00:00",
-  "LastUpdate_Achievements": "2023-12-12T18:04:58.8401236+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:58:40.9507538+00:00",
+  "LastUpdate_Achievements": "2023-12-12T19:04:49.0326013+00:00"
 }

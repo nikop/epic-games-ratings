@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9612,9 +9612,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126415,
+  "EOS_Progressed": 126426,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 804,
+  "EOS_NewPlayers": 813,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34692,6 +34692,11 @@
       "Time": "2023-12-12T18:09:02.8225542+00:00",
       "NumProgressed": 126415,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T19:08:23.0198868+00:00",
+      "NumProgressed": 126426,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34861,17 +34866,17 @@
       "ID": "combat_kill_dreaming_general",
       "SetID": "64l4lke",
       "Name": "Creep and Sleep",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1138
     },
     {
       "ID": "combat_kill_fanatics",
       "SetID": "64l4lke",
       "Name": "Deprogramming",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -34925,9 +34930,9 @@
       "ID": "combat_kill_librarian",
       "SetID": "64l4lke",
       "Name": "Overdue Notice",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1264
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35021,9 +35026,9 @@
       "ID": "driving_biome_clear_forest",
       "SetID": "64l4lke",
       "Name": "To Grandmother\u0027s House",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 632
     },
     {
       "ID": "driving_distance_easy",
@@ -35334,21 +35339,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126415,
+      "Progressed": 126426,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1284,
+      "Progressed": 1295,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T17:58:48.6959334+00:00",
-  "LastChanged_Achievements": "2023-12-12T18:09:02.8225539+00:00",
+  "LastChanged_Achievements": "2023-12-12T19:08:23.0198861+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:58:48.695934+00:00",
-  "LastUpdate_Achievements": "2023-12-12T18:09:02.8227009+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:58:54.8076343+00:00",
+  "LastUpdate_Achievements": "2023-12-12T19:08:23.0200961+00:00"
 }

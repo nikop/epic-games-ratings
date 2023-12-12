@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 44,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
     "PcReleaseDate": "2016-01-20T12:00:00+00:00",
@@ -263,9 +263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 331486,
+  "EOS_Progressed": 331503,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1975,
+  "EOS_NewPlayers": 1978,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13478,6 +13478,11 @@
       "Time": "2023-12-12T18:04:44.6294735+00:00",
       "NumProgressed": 331486,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T19:04:34.8782802+00:00",
+      "NumProgressed": 331503,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -13490,7 +13495,7 @@
       "Name": "Expedition complete - Easy",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "ACHV_CAMPAIGN_HARD",
@@ -13498,7 +13503,7 @@
       "Name": "Are you classified as human?",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_CAMPAIGN_MEDIUM",
@@ -13506,7 +13511,7 @@
       "Name": "Expedition complete - Medium",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "ACHV_M01_COMPLETE",
@@ -13514,7 +13519,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 145854
+      "UsersEstimate": 145861
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -13522,7 +13527,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 106076
+      "UsersEstimate": 106081
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -13530,7 +13535,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 69612
+      "UsersEstimate": 69616
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -13538,7 +13543,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 49723
+      "UsersEstimate": 49725
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -13546,7 +13551,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 39778
+      "UsersEstimate": 39780
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -13554,7 +13559,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 33149
+      "UsersEstimate": 33150
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -13562,7 +13567,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 29834
+      "UsersEstimate": 29835
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -13570,7 +13575,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 29834
+      "UsersEstimate": 29835
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -13578,7 +13583,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 26519
+      "UsersEstimate": 26520
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -13586,7 +13591,7 @@
       "Name": "Khashar Approach",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 26519
+      "UsersEstimate": 26520
     },
     {
       "ID": "ACHV_M11_COMPLETE",
@@ -13594,7 +13599,7 @@
       "Name": "Khashar Plateau",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 23204
+      "UsersEstimate": 23205
     },
     {
       "ID": "ACHV_M12_COMPLETE",
@@ -13602,7 +13607,7 @@
       "Name": "Torin Crater",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 23204
+      "UsersEstimate": 23205
     },
     {
       "ID": "ACHV_M13_COMPLETE",
@@ -13610,7 +13615,7 @@
       "Name": "Khar-Toba Site",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 19889
+      "UsersEstimate": 19890
     },
     {
       "ID": "ACHV_MP_1V1_TIER_LV_1",
@@ -13618,7 +13623,7 @@
       "Name": "Multiplayer: 1v1 - Bronze",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_2V2_TIER_LV_1",
@@ -13626,7 +13631,7 @@
       "Name": "Multiplayer: 2v2 - Bronze",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_3V3_TIER_LV_1",
@@ -13634,7 +13639,7 @@
       "Name": "Multiplayer: 3v3 - Bronze",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_ANNIHILATION_COALITION_10",
@@ -13642,7 +13647,7 @@
       "Name": "Multiplayer: Annihilation Coalition",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_ANNIHILATION_GAALSI_10",
@@ -13650,7 +13655,7 @@
       "Name": "Multiplayer: Annihilation Gaalsien",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_ANNIHILATION_KHAANEPH_10",
@@ -13674,7 +13679,7 @@
       "Name": "Multiplayer: Carrier Annihilation Coalition",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_C_ANNIHILATION_COALITION_100",
@@ -13682,7 +13687,7 @@
       "Name": "Multiplayer: Carrier Annihilation Master Coalition",
       "Percentage": 0.1,
       "XP": 45,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_C_ANNIHILATION_GAALSI_10",
@@ -13690,7 +13695,7 @@
       "Name": "Multiplayer: Carrier Annihilation Gaalsien",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_C_ANNIHILATION_GAALSI_100",
@@ -13698,7 +13703,7 @@
       "Name": "Multiplayer: Carrier Annihilation Master Gaalsien",
       "Percentage": 0.1,
       "XP": 45,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_C_ANNIHILATION_KHAANEPH_10",
@@ -13738,7 +13743,7 @@
       "Name": "Multiplayer: Artifact Retrieval Coalition",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_RETRIEVAL_COALITION_100",
@@ -13746,7 +13751,7 @@
       "Name": "Multiplayer: Artifact Retrieval Master Coalition",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_RETRIEVAL_COUNT_COALITION_10",
@@ -13754,7 +13759,7 @@
       "Name": "Multiplayer: Artifact Hunter 50 Coalition",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_RETRIEVAL_COUNT_COALITION_500",
@@ -13762,7 +13767,7 @@
       "Name": "Multiplayer: Artifact Hunter 500 Coalition",
       "Percentage": 0.1,
       "XP": 45,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_RETRIEVAL_COUNT_GAALSI_10",
@@ -13770,7 +13775,7 @@
       "Name": "Multiplayer: Artifact Hunter 50 Gaalsien",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_RETRIEVAL_COUNT_GAALSI_500",
@@ -13778,7 +13783,7 @@
       "Name": "Multiplayer: Artifact Hunter 500 Gaalsien",
       "Percentage": 0.1,
       "XP": 45,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_RETRIEVAL_COUNT_KHAANEPH_50",
@@ -13818,7 +13823,7 @@
       "Name": "Multiplayer: Artifact Retrieval Gaalsien",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_RETRIEVAL_GAALSI_100",
@@ -13826,7 +13831,7 @@
       "Name": "Multiplayer: Artifact Retrieval Master Gaalsien",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_MP_RETRIEVAL_KHAANEPH_10",
@@ -13866,20 +13871,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 169058
+      "UsersEstimate": 169067
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 331486,
+      "Progressed": 331503,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 331475,
+      "Progressed": 331492,
       "Completed": 1
     }
   ],
@@ -13887,8 +13892,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-12-11T01:46:59.4340581+00:00",
-  "LastChanged_Achievements": "2023-12-12T18:04:44.6294731+00:00",
+  "LastChanged_Achievements": "2023-12-12T19:04:34.8782798+00:00",
   "LastUpdate_AppInfo": "2023-12-08T02:20:40.3139242+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:59:23.446447+00:00",
-  "LastUpdate_Achievements": "2023-12-12T18:04:44.6295819+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:59:29.5452553+00:00",
+  "LastUpdate_Achievements": "2023-12-12T19:04:34.878401+00:00"
 }

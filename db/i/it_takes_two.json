@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 27388,
+  "EOS_Progressed": 27389,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 1265,
+  "EOS_NewPlayers": 1264,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -9778,6 +9778,11 @@
       "Time": "2023-12-12T18:09:21.9031088+00:00",
       "NumProgressed": 27388,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-12T19:09:01.2762455+00:00",
+      "NumProgressed": 27389,
+      "NumCompleted": 119
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -9814,7 +9819,7 @@
       "Name": "On Rails Experience",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 15885
+      "UsersEstimate": 15886
     },
     {
       "ID": "achievement_13",
@@ -9870,7 +9875,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 6025
+      "UsersEstimate": 6026
     },
     {
       "ID": "achievement_2",
@@ -9886,7 +9891,7 @@
       "Name": "Meditation Maestro",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "achievement_3",
@@ -9902,7 +9907,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 24101
+      "UsersEstimate": 24102
     },
     {
       "ID": "achievement_5",
@@ -9949,13 +9954,13 @@
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 27388,
+      "Progressed": 27389,
       "Completed": 119
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-12-12T18:09:21.9031085+00:00",
+  "LastChanged_Achievements": "2023-12-12T19:09:01.2762451+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:16.8565582+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:57:38.1949386+00:00",
-  "LastUpdate_Achievements": "2023-12-12T18:09:21.9031807+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:57:44.1495039+00:00",
+  "LastUpdate_Achievements": "2023-12-12T19:09:01.2762981+00:00"
 }

@@ -9,7 +9,7 @@ Rating: 4.42 (Ranked 717)
 | A new Journey | 75.00% | ~1,780 |
 | Departure | 74.00% | ~1,757 |
 | From X to Y | 73.00% | ~1,733 |
-| Way of Iron | 70.00% | ~1,662 |
+| Way of Iron | 71.00% | ~1,686 |
 | Mystery Tour | 69.00% | ~1,638 |
 | We brake for nobody | 68.00% | ~1,614 |
 | Brainstorm | 66.00% | ~1,567 |
@@ -38,7 +38,7 @@ Rating: 4.42 (Ranked 717)
 | Traffic Junction | 22.00% | ~522 |
 | Breaking Ground | 22.00% | ~522 |
 | Trailblazer | 21.00% | ~499 |
-| Traffic Jam | 19.00% | ~451 |
+| Traffic Jam | 20.00% | ~475 |
 | Networker | 18.00% | ~427 |
 | Resistance is futile | 17.00% | ~404 |
 | Assimilated | 15.00% | ~356 |

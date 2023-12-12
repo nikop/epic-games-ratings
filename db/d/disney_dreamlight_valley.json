@@ -3,12 +3,12 @@
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
   "Ranking_Rating": 129,
-  "Ranking_Popularity": 145,
-  "Ranking_PopularitySum": 108,
+  "Ranking_Popularity": 144,
+  "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5155,11 +5155,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 8114,
       "NumberOfAwardsMax": 1113
+    },
+    {
+      "Time": "2023-12-12T18:59:37.2739297+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8121,
+      "NumberOfAwardsMax": 1120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8114,
-  "NumberOfAwardsMax": 1113,
+  "NumberOfAwards": 8121,
+  "NumberOfAwardsMax": 1120,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5172,7 +5178,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1113
+      "Count": 1120
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5230,10 +5236,10 @@
     }
   ],
   "EOS_Progressed": 12507,
-  "EOS_Completed": 310,
-  "EOS_NewPlayers": 289,
-  "EOS_NewCompleters": 18,
-  "EOS_Completed_Percentage": 2.48,
+  "EOS_Completed": 311,
+  "EOS_NewPlayers": 281,
+  "EOS_NewCompleters": 19,
+  "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:05:01.9582543+00:00",
@@ -21439,6 +21445,11 @@
       "Time": "2023-12-12T18:08:58.8273725+00:00",
       "NumProgressed": 12507,
       "NumCompleted": 310
+    },
+    {
+      "Time": "2023-12-12T19:08:18.9964595+00:00",
+      "NumProgressed": 12507,
+      "NumCompleted": 311
     }
   ],
   "TotalAchievements": 15,
@@ -21570,15 +21581,15 @@
       "ID": "chapdi4",
       "IsBase": true,
       "Progressed": 12507,
-      "Completed": 310
+      "Completed": 311
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-12-12T17:59:31.8661483+00:00",
-  "LastChanged_Achievements": "2023-12-12T18:08:58.827372+00:00",
+  "LastChanged": "2023-12-12T18:59:37.2739295+00:00",
+  "LastChanged_Achievements": "2023-12-12T19:08:18.9964585+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:33.6610619+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:59:31.8661489+00:00",
-  "LastUpdate_Achievements": "2023-12-12T18:08:58.8274535+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:59:37.27393+00:00",
+  "LastUpdate_Achievements": "2023-12-12T19:08:18.9965663+00:00"
 }

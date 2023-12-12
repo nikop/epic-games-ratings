@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2145,9 +2145,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 21486,
+  "EOS_Progressed": 21489,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11220,6 +11220,11 @@
       "Time": "2023-12-12T12:07:30.5771551+00:00",
       "NumProgressed": 21486,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-12T19:05:58.7318758+00:00",
+      "NumProgressed": 21489,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -11231,7 +11236,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "CarMechanic",
@@ -11279,7 +11284,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20412
+      "UsersEstimate": 20415
     },
     {
       "ID": "GameOver",
@@ -11319,7 +11324,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "KnockKnock",
@@ -11343,7 +11348,7 @@
       "Name": "Just Enough",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4297
+      "UsersEstimate": 4298
     },
     {
       "ID": "Negotiator",
@@ -11367,7 +11372,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4297
+      "UsersEstimate": 4298
     },
     {
       "ID": "SeniorEstateAgent",
@@ -11383,7 +11388,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4082
+      "UsersEstimate": 4083
     },
     {
       "ID": "Strongman",
@@ -11391,7 +11396,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6661
+      "UsersEstimate": 6662
     },
     {
       "ID": "VeronicaLiptson",
@@ -11414,15 +11419,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21486,
+      "Progressed": 21489,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-10T14:57:24.5394548+00:00",
-  "LastChanged_Achievements": "2023-12-12T18:06:10.7633158+00:00",
+  "LastChanged_Achievements": "2023-12-12T19:05:58.731875+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:23.2037957+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:58:16.5154623+00:00",
-  "LastUpdate_Achievements": "2023-12-12T18:06:10.7634089+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:58:22.7470089+00:00",
+  "LastUpdate_Achievements": "2023-12-12T19:05:58.7319275+00:00"
 }

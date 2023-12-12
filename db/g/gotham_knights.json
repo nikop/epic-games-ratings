@@ -4557,10 +4557,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 5139,
       "NumberOfAwardsMax": 3003
+    },
+    {
+      "Time": "2023-12-12T18:58:41.0853938+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5140,
+      "NumberOfAwardsMax": 3003
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5139,
+  "NumberOfAwards": 5140,
   "NumberOfAwardsMax": 3003,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4604,7 +4610,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 268
+      "Count": 269
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4625,7 +4631,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77923,
+  "EOS_Progressed": 77924,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 1,
@@ -25750,6 +25756,11 @@
       "Time": "2023-12-12T17:08:36.0227051+00:00",
       "NumProgressed": 77923,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-12T19:02:55.5310146+00:00",
+      "NumProgressed": 77924,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25849,7 +25860,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11688
+      "UsersEstimate": 11689
     },
     {
       "ID": "CHALLENGES_1",
@@ -25985,7 +25996,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21818
+      "UsersEstimate": 21819
     },
     {
       "ID": "FREEZE_1_5",
@@ -26001,7 +26012,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14805
+      "UsersEstimate": 14806
     },
     {
       "ID": "FREEZE_3",
@@ -26193,7 +26204,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11688
+      "UsersEstimate": 11689
     },
     {
       "ID": "MYSTERY_07",
@@ -26248,22 +26259,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77923,
+      "Progressed": 77924,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48203,
+      "Progressed": 48204,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-12-12T10:58:26.7843116+00:00",
-  "LastChanged_Achievements": "2023-12-12T17:08:36.0227047+00:00",
+  "LastChanged": "2023-12-12T18:58:41.0853936+00:00",
+  "LastChanged_Achievements": "2023-12-12T19:02:55.5310141+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:58:35.0085456+00:00",
-  "LastUpdate_Achievements": "2023-12-12T17:08:36.0228533+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:58:41.0853946+00:00",
+  "LastUpdate_Achievements": "2023-12-12T19:02:55.5311603+00:00"
 }

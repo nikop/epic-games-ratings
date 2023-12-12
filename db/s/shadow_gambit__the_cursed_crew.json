@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -143,10 +143,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1115,
+  "EOS_Progressed": 1116,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 112,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 113,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.87,
   "EosHistory": [
     {
@@ -3723,6 +3723,11 @@
       "Time": "2023-12-12T16:05:02.8573755+00:00",
       "NumProgressed": 1115,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-12T19:04:09.2984272+00:00",
+      "NumProgressed": 1116,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3743,7 +3748,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "_03_FinishAct1",
@@ -3767,7 +3772,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3879,7 +3884,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -3942,7 +3947,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1115,
+      "Progressed": 1116,
       "Completed": 32
     }
   ],
@@ -3950,8 +3955,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-09T12:00:24.7987919+00:00",
-  "LastChanged_Achievements": "2023-12-12T18:04:18.5896076+00:00",
+  "LastChanged_Achievements": "2023-12-12T19:04:09.2984266+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-12T17:57:34.3380869+00:00",
-  "LastUpdate_Achievements": "2023-12-12T18:04:18.5896467+00:00"
+  "LastUpdate_Ratings": "2023-12-12T18:57:40.6171281+00:00",
+  "LastUpdate_Achievements": "2023-12-12T19:04:09.2984678+00:00"
 }
