@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3717,9 +3717,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32192,
+  "EOS_Progressed": 32193,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22122,6 +22122,11 @@
       "Time": "2023-12-12T09:06:02.7788956+00:00",
       "NumProgressed": 32192,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-12T12:06:16.2791631+00:00",
+      "NumProgressed": 32193,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22133,7 +22138,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "Animated",
@@ -22245,7 +22250,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "Escape_Artist",
@@ -22540,7 +22545,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32192,
+      "Progressed": 32193,
       "Completed": 69
     }
   ],
@@ -22548,8 +22553,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-12T01:46:52.0753723+00:00",
-  "LastChanged_Achievements": "2023-12-12T11:05:03.7829641+00:00",
+  "LastChanged_Achievements": "2023-12-12T12:06:16.2791626+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:16.7242615+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:58:36.4137843+00:00",
-  "LastUpdate_Achievements": "2023-12-12T11:05:03.7830988+00:00"
+  "LastUpdate_Ratings": "2023-12-12T11:59:29.6251924+00:00",
+  "LastUpdate_Achievements": "2023-12-12T12:06:16.2792896+00:00"
 }

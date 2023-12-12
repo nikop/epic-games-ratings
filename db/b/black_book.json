@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 59530,
+  "EOS_Progressed": 59532,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1456,
+  "EOS_NewPlayers": 1449,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12938,6 +12938,11 @@
       "Time": "2023-12-12T11:04:12.0219142+00:00",
       "NumProgressed": 59530,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-12T12:05:02.139452+00:00",
+      "NumProgressed": 59532,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -13006,7 +13011,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "CHEATER",
@@ -13022,7 +13027,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6548
+      "UsersEstimate": 6549
     },
     {
       "ID": "DEAD_MAN",
@@ -13070,7 +13075,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6548
+      "UsersEstimate": 6549
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -13150,15 +13155,15 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 16668
+      "UsersEstimate": 16669
     },
     {
       "ID": "KARNYSH_LOYAL",
       "SetID": "bijn3c8",
       "Name": "Vorsa",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 2976
+      "UsersEstimate": 3572
     },
     {
       "ID": "MERMAID_FREE",
@@ -13166,7 +13171,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -13230,7 +13235,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -13262,7 +13267,7 @@
       "Name": "Susanin",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2976
+      "UsersEstimate": 2977
     },
     {
       "ID": "TALES_1",
@@ -13278,7 +13283,7 @@
       "Name": "Collector",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "TALES_3",
@@ -13294,7 +13299,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2976
+      "UsersEstimate": 2977
     },
     {
       "ID": "WATER",
@@ -13349,15 +13354,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 59530,
+      "Progressed": 59532,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-12T11:04:12.0219137+00:00",
+  "LastChanged_Achievements": "2023-12-12T12:05:02.1394514+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:06.7954209+00:00",
-  "LastUpdate_Ratings": "2023-12-12T11:02:38.253833+00:00",
-  "LastUpdate_Achievements": "2023-12-12T11:04:12.0220228+00:00"
+  "LastUpdate_Ratings": "2023-12-12T12:02:01.8071625+00:00",
+  "LastUpdate_Achievements": "2023-12-12T12:05:02.1395464+00:00"
 }

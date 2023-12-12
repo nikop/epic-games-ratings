@@ -8,7 +8,7 @@
 | The Teleprobe | 49.00% | ~269 |
 | The City | 45.00% | ~247 |
 | The field base | 42.00% | ~230 |
-| Survivors | 36.00% | ~197 |
+| Survivors | 37.00% | ~203 |
 | The Condor | 34.00% | ~186 |
 | The End | 33.00% | ~181 |
 | The Alliance | 27.00% | ~148 |
@@ -18,9 +18,9 @@
 | Volcanologist | 21.00% | ~115 |
 | On her own | 18.00% | ~99 |
 | Evacuation | 18.00% | ~99 |
-| Beyond divisions | 17.00% | ~93 |
+| Beyond divisions | 18.00% | ~99 |
 | Fierce fight | 16.00% | ~88 |
-| Flying Objects Operator | 15.00% | ~82 |
+| Flying Objects Operator | 16.00% | ~88 |
 | I remember everything! | 14.00% | ~77 |
 | Another giant | 11.00% | ~60 |
 | Violent solution | 9.00% | ~49 |

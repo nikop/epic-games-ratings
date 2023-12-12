@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 379,
+  "EOS_Progressed": 381,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1184,6 +1184,11 @@
       "Time": "2023-12-11T16:05:45.1471129+00:00",
       "NumProgressed": 379,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T12:07:41.2193522+00:00",
+      "NumProgressed": 381,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1250,9 +1255,9 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 114
     },
     {
       "ID": "REMAKE_002",
@@ -1260,15 +1265,15 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 286
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 235
+      "UsersEstimate": 232
     },
     {
       "ID": "Remake_005",
@@ -1340,7 +1345,7 @@
       "Name": "Toasted",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Remake_14",
@@ -1419,14 +1424,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 379,
+      "Progressed": 381,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-12T11:06:03.4070999+00:00",
+  "LastChanged_Achievements": "2023-12-12T12:07:41.2193516+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:57:57.3493989+00:00",
-  "LastUpdate_Achievements": "2023-12-12T11:06:03.4071177+00:00"
+  "LastUpdate_Ratings": "2023-12-12T11:58:29.1863645+00:00",
+  "LastUpdate_Achievements": "2023-12-12T12:07:41.2193765+00:00"
 }

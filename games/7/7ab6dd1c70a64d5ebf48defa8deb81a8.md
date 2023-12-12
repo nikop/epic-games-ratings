@@ -32,10 +32,10 @@
 | Miner | 4.00% | ~11 |
 | Slayer | 3.00% | ~8 |
 | All There Is | 3.00% | ~8 |
+| False God | 3.00% | ~8 |
 | A Queen's Tale | 3.00% | ~8 |
 | Forgemaster | 2.00% | ~5 |
 | Flawless Victory | 2.00% | ~5 |
-| False God | 2.00% | ~5 |
 | All That Gold | 2.00% | ~5 |
 | Summiter | 2.00% | ~5 |
 | Shardbearer | 1.00% | ~3 |

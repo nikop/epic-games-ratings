@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -886,9 +886,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 356313,
+  "EOS_Progressed": 356315,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 991,
+  "EOS_NewPlayers": 992,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27731,6 +27731,11 @@
       "Time": "2023-12-12T11:05:07.4987595+00:00",
       "NumProgressed": 356313,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-12T12:06:21.8186149+00:00",
+      "NumProgressed": 356315,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -27950,7 +27955,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163904
+      "UsersEstimate": 163905
     },
     {
       "ID": "ach028",
@@ -27966,7 +27971,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39194
+      "UsersEstimate": 39195
     },
     {
       "ID": "ach030",
@@ -28046,7 +28051,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35631
+      "UsersEstimate": 35632
     },
     {
       "ID": "ach040",
@@ -28142,7 +28147,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39194
+      "UsersEstimate": 39195
     },
     {
       "ID": "ach052",
@@ -28206,7 +28211,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35631
+      "UsersEstimate": 35632
     },
     {
       "ID": "ach060",
@@ -28381,7 +28386,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 356313,
+      "Progressed": 356315,
       "Completed": 7
     }
   ],
@@ -28389,8 +28394,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-09T03:58:10.9802896+00:00",
-  "LastChanged_Achievements": "2023-12-12T11:05:07.498759+00:00",
+  "LastChanged_Achievements": "2023-12-12T12:06:21.8186143+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.9367355+00:00",
-  "LastUpdate_Ratings": "2023-12-12T11:00:01.6126728+00:00",
-  "LastUpdate_Achievements": "2023-12-12T11:05:07.4989928+00:00"
+  "LastUpdate_Ratings": "2023-12-12T12:01:38.9536595+00:00",
+  "LastUpdate_Achievements": "2023-12-12T12:06:21.8188096+00:00"
 }

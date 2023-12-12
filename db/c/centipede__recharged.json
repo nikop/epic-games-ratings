@@ -2,7 +2,7 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 826,
+  "Ranking_Rating": 841,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 140,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.33,
+  "Rating": 4.31,
   "NumberOfRatings": 76,
   "RatingHistory": [
     {
@@ -323,6 +323,12 @@
       "Rating": 4.33,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-12T11:59:02.472278+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -331,7 +337,7 @@
   "Tags": [],
   "EOS_Progressed": 23190,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 696,
+  "EOS_NewPlayers": 695,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -19723,9 +19729,9 @@
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
-  "LastChanged": "2023-11-18T21:04:30.8986363+00:00",
-  "LastChanged_Achievements": "2023-12-12T11:03:53.4313295+00:00",
+  "LastChanged": "2023-12-12T11:59:02.4722779+00:00",
+  "LastChanged_Achievements": "2023-12-12T12:04:35.3036728+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:23.9972538+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:58:18.5991525+00:00",
-  "LastUpdate_Achievements": "2023-12-12T11:03:53.4314343+00:00"
+  "LastUpdate_Ratings": "2023-12-12T11:59:02.4722783+00:00",
+  "LastUpdate_Achievements": "2023-12-12T12:04:35.3038091+00:00"
 }

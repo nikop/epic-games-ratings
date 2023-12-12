@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -4318,9 +4318,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 499750,
+  "EOS_Progressed": 499752,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2448,
+  "EOS_NewPlayers": 2443,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31343,6 +31343,11 @@
       "Time": "2023-12-12T11:05:02.9928625+00:00",
       "NumProgressed": 499750,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T12:06:15.1858539+00:00",
+      "NumProgressed": 499752,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -31418,7 +31423,7 @@
       "Name": "Firefight Victory",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2998
+      "UsersEstimate": 2999
     },
     {
       "ID": "ACH_FIRST_BLOOD",
@@ -31458,7 +31463,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14992
+      "UsersEstimate": 14993
     },
     {
       "ID": "ACH_JR_50",
@@ -31482,7 +31487,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14992
+      "UsersEstimate": 14993
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -31498,7 +31503,7 @@
       "Name": "#1",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 2998
+      "UsersEstimate": 2999
     },
     {
       "ID": "ACH_PERSONAL",
@@ -31586,7 +31591,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14992
+      "UsersEstimate": 14993
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -31610,7 +31615,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14992
+      "UsersEstimate": 14993
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -31633,15 +31638,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 499750,
+      "Progressed": 499752,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-12-11T23:58:25.8526558+00:00",
-  "LastChanged_Achievements": "2023-12-12T11:05:02.9928622+00:00",
+  "LastChanged_Achievements": "2023-12-12T12:06:15.1858534+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.4208286+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:58:40.2903819+00:00",
-  "LastUpdate_Achievements": "2023-12-12T11:05:02.9930389+00:00"
+  "LastUpdate_Ratings": "2023-12-12T11:59:35.1895896+00:00",
+  "LastUpdate_Achievements": "2023-12-12T12:06:15.1860245+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "gray-dawn-a0cc44",
   "Ranking_EOS_Progress": 725,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-10T07:00:00+00:00",
     "PcReleaseDate": "2018-06-06T21:00:00+00:00",
@@ -195,8 +195,8 @@
   ],
   "FirstSeen": "2023-10-22T02:17:52.1495485+00:00",
   "FirstSeenAchievements": "2023-06-07T11:01:54.2593242+00:00",
-  "LastChanged_Achievements": "2023-12-12T11:03:45.6529356+00:00",
+  "LastChanged_Achievements": "2023-12-12T12:04:23.7359111+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.5952994+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:01:49.3338326+00:00",
-  "LastUpdate_Achievements": "2023-12-12T11:03:45.6529456+00:00"
+  "LastUpdate_Ratings": "2023-12-12T11:57:02.6868554+00:00",
+  "LastUpdate_Achievements": "2023-12-12T12:04:23.7359274+00:00"
 }

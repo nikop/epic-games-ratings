@@ -6,15 +6,15 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~16,668 |
+| Initiation | 28.00% | ~16,669 |
 | Student | 22.00% | ~13,097 |
 | Knower | 16.00% | ~9,525 |
 | Listener | 15.00% | ~8,930 |
 | Aspen Tree | 14.00% | ~8,334 |
 | Healer | 14.00% | ~8,334 |
 | Soldier | 12.00% | ~7,144 |
-| Cow Level | 11.00% | ~6,548 |
-| Scientist | 11.00% | ~6,548 |
+| Cow Level | 11.00% | ~6,549 |
+| Scientist | 11.00% | ~6,549 |
 | Herbalist | 10.00% | ~5,953 |
 | Water | 10.00% | ~5,953 |
 | Old Friend | 9.00% | ~5,358 |
@@ -22,10 +22,10 @@ Number of Ratings: 96  (23.09.2022)
 | Voipel | 9.00% | ~5,358 |
 | Wolf | 9.00% | ~5,358 |
 | Black Mage | 9.00% | ~5,358 |
-| Card Player | 8.00% | ~4,762 |
-| Dead Friend | 8.00% | ~4,762 |
-| Pine Tree | 8.00% | ~4,762 |
-| Collector | 8.00% | ~4,762 |
+| Card Player | 8.00% | ~4,763 |
+| Dead Friend | 8.00% | ~4,763 |
+| Pine Tree | 8.00% | ~4,763 |
+| Collector | 8.00% | ~4,763 |
 | Worthy | 7.00% | ~4,167 |
 | Black Book | 7.00% | ~4,167 |
 | Black Sorcerer | 7.00% | ~4,167 |
@@ -36,13 +36,13 @@ Number of Ratings: 96  (23.09.2022)
 | Savvy | 7.00% | ~4,167 |
 | Encyclopedist | 6.00% | ~3,572 |
 | Witch | 6.00% | ~3,572 |
+| Vorsa | 6.00% | ~3,572 |
 | Old Spirits | 6.00% | ~3,572 |
 | Sinner | 6.00% | ~3,572 |
 | Folklorist | 6.00% | ~3,572 |
 | Keeper of Knowledge | 6.00% | ~3,572 |
-| Vorsa | 5.00% | ~2,976 |
-| Susanin | 5.00% | ~2,976 |
-| Traveller | 5.00% | ~2,976 |
+| Susanin | 5.00% | ~2,977 |
+| Traveller | 5.00% | ~2,977 |
 | Righteous | 4.00% | ~2,381 |
 | Musician | 4.00% | ~2,381 |
 | Koldun | 4.00% | ~2,381 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,191 |
 | Word Master | 0.20% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,530 (Ranked 108)  
+Progressed: 59,532 (Ranked 108)  
 Completed: 60 (0.10%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 60 (0.10%) (Ranked 293)
 | 2023-12-09 | 59,033 | 58 |
 | 2023-12-10 | 59,292 | 59 |
 | 2023-12-11 | 59,462 | 60 |
-| 2023-12-12 | 59,530 | 60 |
+| 2023-12-12 | 59,532 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

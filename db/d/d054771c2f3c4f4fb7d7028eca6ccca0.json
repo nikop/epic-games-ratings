@@ -4,8 +4,8 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1723,
+  "EOS_Progressed": 1724,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
@@ -1369,6 +1369,11 @@
       "Time": "2023-12-12T11:05:29.8780917+00:00",
       "NumProgressed": 1723,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T12:06:53.4753604+00:00",
+      "NumProgressed": 1724,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1565,7 +1570,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1756,14 +1761,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1723,
+      "Progressed": 1724,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-12T11:05:29.8780912+00:00",
-  "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-12T11:02:48.1932656+00:00",
-  "LastUpdate_Achievements": "2023-12-12T11:05:29.8781283+00:00"
+  "LastChanged_Achievements": "2023-12-12T12:06:53.4753602+00:00",
+  "LastUpdate_AppInfo": "2023-12-12T11:56:59.8157094+00:00",
+  "LastUpdate_Ratings": "2023-12-12T12:02:56.6925215+00:00",
+  "LastUpdate_Achievements": "2023-12-12T12:06:53.4753964+00:00"
 }

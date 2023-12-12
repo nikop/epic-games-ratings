@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11877,9 +11877,9 @@
       "Count": 852
     }
   ],
-  "EOS_Progressed": 304236,
+  "EOS_Progressed": 304237,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -37127,6 +37127,11 @@
       "Time": "2023-12-12T11:05:29.675284+00:00",
       "NumProgressed": 304236,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-12T12:06:53.2030705+00:00",
+      "NumProgressed": 304237,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37466,7 +37471,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45635
+      "UsersEstimate": 45636
     },
     {
       "ID": "PFA_7",
@@ -37474,7 +37479,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 45635
+      "UsersEstimate": 45636
     },
     {
       "ID": "PFA_8",
@@ -37497,7 +37502,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304236,
+      "Progressed": 304237,
       "Completed": 525
     }
   ],
@@ -37505,8 +37510,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-12T10:59:48.0597106+00:00",
-  "LastChanged_Achievements": "2023-12-12T11:05:29.6752836+00:00",
+  "LastChanged_Achievements": "2023-12-12T12:06:53.2030696+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:59:48.0597112+00:00",
-  "LastUpdate_Achievements": "2023-12-12T11:05:29.6754342+00:00"
+  "LastUpdate_Ratings": "2023-12-12T12:01:16.7788555+00:00",
+  "LastUpdate_Achievements": "2023-12-12T12:06:53.2032066+00:00"
 }

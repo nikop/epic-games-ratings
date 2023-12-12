@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 86.00% | ~60 |
-| Killing Spree | 70.00% | ~49 |
-| Merchant Prince I | 56.00% | ~39 |
+| First Blood | 86.00% | ~61 |
+| Killing Spree | 70.00% | ~50 |
+| Merchant Prince I | 56.00% | ~40 |
 | 5Gb HDD | 54.00% | ~38 |
-| Dominating | 36.00% | ~25 |
-| Fighting Fit I | 34.00% | ~24 |
+| Dominating | 35.00% | ~25 |
+| Fighting Fit I | 35.00% | ~25 |
 | Rambo I | 30.00% | ~21 |
 | 10Gb HDD | 30.00% | ~21 |
-| The Vette | 29.00% | ~20 |
+| The Vette | 28.00% | ~20 |
 | Mega Kill | 24.00% | ~17 |
-| Almost There I | 20.00% | ~14 |
-| Stoic | 19.00% | ~13 |
+| Almost There I | 21.00% | ~15 |
+| Stoic | 18.00% | ~13 |
 | Galactic Cadet | 17.00% | ~12 |
-| Omicron Alpha | 16.00% | ~11 |
+| Omicron Alpha | 15.00% | ~11 |
 | Bronze Prince of Ball-air | 13.00% | ~9 |
 | Pacifist | 13.00% | ~9 |
 | Collateral Damage I | 13.00% | ~9 |
@@ -27,9 +27,9 @@
 | Rambo II | 10.00% | ~7 |
 | Unstoppable | 10.00% | ~7 |
 | Silver Prince of Ball-air | 10.00% | ~7 |
-| Golden Prince of Ball-air | 9.00% | ~6 |
-| Space Surfer | 9.00% | ~6 |
-| Merchant Prince II | 9.00% | ~6 |
+| Golden Prince of Ball-air | 8.00% | ~6 |
+| Space Surfer | 8.00% | ~6 |
+| Merchant Prince II | 8.00% | ~6 |
 | Hitchhiker | 7.00% | ~5 |
 | Diligent | 7.00% | ~5 |
 | Hoarder | 7.00% | ~5 |
@@ -137,7 +137,7 @@
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70 (Ranked 480)  
+Progressed: 71 (Ranked 479)  
 Completed: 0 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,3 +186,4 @@ Completed: 0 (0.00%) (Ranked 372)
 | 2023-11-03 | 68 | 0 |
 | 2023-11-05 | 69 | 0 |
 | 2023-11-24 | 70 | 0 |
+| 2023-12-12 | 71 | 0 |

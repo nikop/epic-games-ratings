@@ -6,18 +6,18 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~77,738 |
-| No Escape | 86.00% | ~68,922 |
-| Seeker of Power | 85.00% | ~68,121 |
-| Hopes and Dreams | 82.00% | ~65,716 |
-| Lantern Smasher | 78.00% | ~62,511 |
-| The Pirate's Way | 74.00% | ~59,305 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~56,901 |
+| Manifestation of the Soul | 97.00% | ~77,739 |
+| No Escape | 86.00% | ~68,923 |
+| Seeker of Power | 85.00% | ~68,122 |
+| Hopes and Dreams | 82.00% | ~65,717 |
+| Lantern Smasher | 78.00% | ~62,512 |
+| The Pirate's Way | 74.00% | ~59,306 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~56,902 |
 | The King of the Dark Elves | 68.00% | ~54,497 |
 | Memories of the Distant Past | 66.00% | ~52,894 |
-| Distortion's Progeny | 63.00% | ~50,489 |
-| Savant | 62.00% | ~49,688 |
-| A Landscape of Memory | 58.00% | ~46,482 |
+| Distortion's Progeny | 63.00% | ~50,490 |
+| Savant | 62.00% | ~49,689 |
+| A Landscape of Memory | 58.00% | ~46,483 |
 | The Wind's Light | 54.00% | ~43,277 |
 | Vague Remembrances | 49.00% | ~39,270 |
 | The Fire's Light | 47.00% | ~37,667 |
@@ -34,12 +34,12 @@ Number of Ratings: 1,919  (23.09.2022)
 | Duty's Course | 36.00% | ~28,851 |
 | Path of the Liberator | 35.00% | ~28,050 |
 | Path of the Tyrant | 35.00% | ~28,050 |
-| Led by the Nose | 34.00% | ~27,248 |
-| Path of the Void Knight | 34.00% | ~27,248 |
+| Led by the Nose | 34.00% | ~27,249 |
+| Path of the Void Knight | 34.00% | ~27,249 |
 | Terminus of Fate | 33.00% | ~26,447 |
 | Path of the Ninja | 33.00% | ~26,447 |
 | His Name Is Garland | 33.00% | ~26,447 |
-| Path of the Assassin | 32.00% | ~25,645 |
+| Path of the Assassin | 32.00% | ~25,646 |
 | Seeker of Ultimate Power | 24.00% | ~19,234 |
 | Artifact Collector | 22.00% | ~17,631 |
 | True Potential | 22.00% | ~17,631 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,404 |
 | A Tale of Origins and Endings | 2.00% | ~1,603 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,142 (Ranked 98)  
+Progressed: 80,143 (Ranked 98)  
 Completed: 2,200 (2.75%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2,200 (2.75%) (Ranked 115)
 | 2023-12-09 | 80,128 | 2,198 |
 | 2023-12-10 | 80,133 | 2,199 |
 | 2023-12-11 | 80,140 | 2,200 |
-| 2023-12-12 | 80,142 | 2,200 |
+| 2023-12-12 | 80,143 | 2,200 |
 ## Awards
 Max (Great Boss Battles): 775  (Ranked 176)  
 Sum: 1,598 (Ranked 233)  

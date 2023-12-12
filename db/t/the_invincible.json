@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1800,17 +1800,17 @@
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 203
     },
     {
       "ID": "AchvTeleprobeOperator",
       "SetID": "1hj060c",
       "Name": "Flying Objects Operator",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 88
     },
     {
       "ID": "AchvTheEnd",
@@ -1824,9 +1824,9 @@
       "ID": "AchvUnity",
       "SetID": "1hj060c",
       "Name": "Beyond divisions",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 99
     }
   ],
   "AchievementSets": [
@@ -1839,8 +1839,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-12T11:09:06.5361777+00:00",
+  "LastChanged_Achievements": "2023-12-12T12:09:37.843782+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.1415487+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:58:17.2013255+00:00",
-  "LastUpdate_Achievements": "2023-12-12T11:09:06.5362002+00:00"
+  "LastUpdate_Ratings": "2023-12-12T11:59:00.2069982+00:00",
+  "LastUpdate_Achievements": "2023-12-12T12:09:37.8438056+00:00"
 }

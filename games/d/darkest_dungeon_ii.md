@@ -6,25 +6,28 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 3.00% | ~36 |
+| Malpractice Assurance | 3.00% | ~37 |
 | This guy... again? | 2.00% | ~24 |
 | This Belongs in a Museum | 1.00% | ~1,263 |
+| Not Today! | 0.90% | ~1,137 |
 | Catch and Decease | 0.90% | ~1,137 |
-| Not Today! | 0.80% | ~1,011 |
+| Escape from the Black Hole | 0.90% | ~1,137 |
+| Meat and Greet | 0.80% | ~1,011 |
 | Overdue Notice | 0.80% | ~1,011 |
-| Escape from the Black Hole | 0.80% | ~1,011 |
+| Bloody Graduation | 0.80% | ~10 |
 | Creep and Sleep | 0.70% | ~884 |
-| Meat and Greet | 0.70% | ~884 |
-| Bloody Graduation | 0.70% | ~8 |
-| Lost and Found | 0.70% | ~8 |
+| Lost and Found | 0.70% | ~9 |
 | Autodidact | 0.60% | ~758 |
 | Serenity Now! | 0.40% | ~505 |
 | Rush Hour | 0.40% | ~505 |
 | Don't Make Me Turn This Coach Around | 0.30% | ~379 |
 | It Rings a Bell | 0.30% | ~379 |
+| Unfulfilled Desires | 0.30% | ~379 |
 | Dissector | 0.30% | ~379 |
 | Banishment | 0.30% | ~379 |
 | Deprogramming | 0.30% | ~379 |
+| Now Stay Dead | 0.30% | ~379 |
+| Reverse Banditry | 0.30% | ~379 |
 | To Grandmother's House | 0.30% | ~379 |
 | A Place to Lay Your Head | 0.30% | ~379 |
 | FNG | 0.30% | ~379 |
@@ -35,13 +38,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Long Live the King | 0.20% | ~253 |
 | Wyrdly Reconstructed | 0.20% | ~253 |
 | Boxcar Kid | 0.20% | ~253 |
-| Unfulfilled Desires | 0.20% | ~253 |
 | Hope Rekindled | 0.20% | ~253 |
 | Predator | 0.20% | ~253 |
 | Ichthyophobic | 0.20% | ~253 |
-| Now Stay Dead | 0.20% | ~253 |
 | No More Mouths to Feed | 0.20% | ~253 |
-| Reverse Banditry | 0.20% | ~253 |
 | It Happens | 0.20% | ~253 |
 | Spelunker | 0.20% | ~253 |
 | Merry Time | 0.20% | ~253 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.10% | ~1 |
 | On This Long Road, We Found Redemption | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,342 (Ranked 84)  
+Progressed: 126,349 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 2 (0.00%) (Ranked 372)
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
-| 2023-12-12 | 126,342 | 2 |
+| 2023-12-12 | 126,349 | 2 |
 ## Awards
 Max (Character Customization): 7,622  (Ranked 52)  
 Sum: 20,161 (Ranked 59)  

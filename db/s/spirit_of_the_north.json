@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 76607,
+  "EOS_Progressed": 76608,
   "EOS_Completed": 411,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -26309,6 +26309,11 @@
       "Time": "2023-12-12T10:10:02.001142+00:00",
       "NumProgressed": 76607,
       "NumCompleted": 411
+    },
+    {
+      "Time": "2023-12-12T12:09:53.0411651+00:00",
+      "NumProgressed": 76608,
+      "NumCompleted": 411
     }
   ],
   "TotalAchievements": 24,
@@ -26336,7 +26341,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 52859
+      "UsersEstimate": 52860
     },
     {
       "ID": "BEST_FRIENDS",
@@ -26360,7 +26365,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16087
+      "UsersEstimate": 16088
     },
     {
       "ID": "FETCH",
@@ -26464,7 +26469,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 16087
+      "UsersEstimate": 16088
     },
     {
       "ID": "SPIRIT_DASH",
@@ -26511,7 +26516,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 76607,
+      "Progressed": 76608,
       "Completed": 411
     }
   ],
@@ -26519,8 +26524,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-12T11:09:17.289072+00:00",
+  "LastChanged_Achievements": "2023-12-12T12:09:53.0411645+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:25.3960201+00:00",
-  "LastUpdate_Ratings": "2023-12-12T11:02:53.4655569+00:00",
-  "LastUpdate_Achievements": "2023-12-12T11:09:17.2892012+00:00"
+  "LastUpdate_Ratings": "2023-12-12T12:03:04.9343437+00:00",
+  "LastUpdate_Achievements": "2023-12-12T12:09:53.0412951+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9600,9 +9600,9 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126342,
+  "EOS_Progressed": 126349,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 752,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34645,6 +34645,11 @@
       "Time": "2023-12-12T11:08:50.9337123+00:00",
       "NumProgressed": 126342,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T12:09:15.6451746+00:00",
+      "NumProgressed": 126349,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34734,9 +34739,9 @@
       "ID": "altar_of_hope_unlock_hero_vestal",
       "SetID": "64l4lke",
       "Name": "Unfulfilled Desires",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -34806,9 +34811,9 @@
       "ID": "combat_kill_death",
       "SetID": "64l4lke",
       "Name": "Not Today!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1137
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -34838,9 +34843,9 @@
       "ID": "combat_kill_gaunts",
       "SetID": "64l4lke",
       "Name": "Now Stay Dead",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "combat_kill_gentry",
@@ -34854,9 +34859,9 @@
       "ID": "combat_kill_harvest_child",
       "SetID": "64l4lke",
       "Name": "Meat and Greet",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 1011
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -34886,17 +34891,17 @@
       "ID": "combat_kill_pillagers",
       "SetID": "64l4lke",
       "Name": "Reverse Banditry",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "combat_kill_shambler",
       "SetID": "64l4lke",
       "Name": "Escape from the Black Hole",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1137
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35192,7 +35197,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "combat_kill_collector",
@@ -35246,9 +35251,9 @@
       "ID": "hero_story_complete_duelist",
       "SetID": "d3bcpc8",
       "Name": "Bloody Graduation",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "quest_complete_crusader",
@@ -35256,7 +35261,7 @@
       "Name": "Lost and Found",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35287,21 +35292,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126342,
+      "Progressed": 126349,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1211,
+      "Progressed": 1218,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T10:58:40.4140307+00:00",
-  "LastChanged_Achievements": "2023-12-12T11:08:50.9337119+00:00",
+  "LastChanged_Achievements": "2023-12-12T12:09:15.645174+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:58:40.4140312+00:00",
-  "LastUpdate_Achievements": "2023-12-12T11:08:50.9338907+00:00"
+  "LastUpdate_Ratings": "2023-12-12T11:59:35.2679991+00:00",
+  "LastUpdate_Achievements": "2023-12-12T12:09:15.6453355+00:00"
 }

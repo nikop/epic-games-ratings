@@ -24,7 +24,7 @@
 | The Big Eaty | 54.00% | ~293 |
 | Hard Work | 53.00% | ~288 |
 | YOU SHALL NOT PASS! | 51.00% | ~277 |
-| “… like son” | 50.00% | ~272 |
+| “… like son” | 51.00% | ~277 |
 | The Cathedral of Light | 47.00% | ~255 |
 | Shame! Shame! Shame! | 47.00% | ~255 |
 | Pure Dynamite! | 46.00% | ~250 |

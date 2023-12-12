@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3458,
+  "EOS_Progressed": 3460,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5301,6 +5301,11 @@
       "Time": "2023-12-12T11:04:54.7046271+00:00",
       "NumProgressed": 3458,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-12T12:06:03.3417378+00:00",
+      "NumProgressed": 3460,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5336,7 +5341,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "MOVE_ON",
@@ -5392,7 +5397,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "TRANSMISSION",
@@ -5408,14 +5413,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3458,
+      "Progressed": 3460,
       "Completed": 6
     }
   ],
@@ -5423,8 +5428,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-12T11:04:54.7046267+00:00",
+  "LastChanged_Achievements": "2023-12-12T12:06:03.3417373+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:18.0649883+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:58:48.8820463+00:00",
-  "LastUpdate_Achievements": "2023-12-12T11:04:54.7046576+00:00"
+  "LastUpdate_Ratings": "2023-12-12T11:59:48.2213724+00:00",
+  "LastUpdate_Achievements": "2023-12-12T12:06:03.3417734+00:00"
 }

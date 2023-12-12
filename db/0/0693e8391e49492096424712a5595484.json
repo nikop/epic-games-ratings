@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2288,9 +2288,9 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 155
     },
     {
       "ID": "DwarDevil",
@@ -2320,9 +2320,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 364
     },
     {
       "ID": "HastrmanAcorn",
@@ -2535,8 +2535,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-12T11:03:29.9256356+00:00",
+  "LastChanged_Achievements": "2023-12-12T12:04:01.0990534+00:00",
   "LastUpdate_AppInfo": "2023-12-06T02:20:22.0516383+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:57:48.2462292+00:00",
-  "LastUpdate_Achievements": "2023-12-12T11:03:29.9257448+00:00"
+  "LastUpdate_Ratings": "2023-12-12T11:58:15.0606018+00:00",
+  "LastUpdate_Achievements": "2023-12-12T12:04:01.0991038+00:00"
 }

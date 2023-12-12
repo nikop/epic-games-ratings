@@ -11,9 +11,9 @@ Rating: 4.55 (Ranked 514)
 | Kuvaq Minigame-Master | 62.00% | ~303 |
 | FunScore | 55.00% | ~269 |
 | Funtime's over | 53.00% | ~259 |
-| Chunky | 50.00% | ~244 |
+| Chunky | 51.00% | ~249 |
 | Boat of love, boat of love | 49.00% | ~240 |
-| Shall we play a game? | 47.00% | ~230 |
+| Shall we play a game? | 48.00% | ~235 |
 | School's out | 44.00% | ~215 |
 | Scaffolding Expert | 37.00% | ~181 |
 | Elysian Minigame-Master | 37.00% | ~181 |
@@ -21,7 +21,7 @@ Rating: 4.55 (Ranked 514)
 | Portals come in packs | 30.00% | ~147 |
 | No man left behind! | 29.00% | ~142 |
 | Photo Friend | 26.00% | ~127 |
-| Brainfreeze | 20.00% | ~98 |
+| Brainfreeze | 21.00% | ~103 |
 | And everything comes full circle. | 20.00% | ~98 |
 | Masseltov | 19.00% | ~93 |
 | Quickdraw | 16.00% | ~78 |
