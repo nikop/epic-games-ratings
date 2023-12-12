@@ -166,6 +166,7 @@
 | [Ghostbusters: Spirits Unleashed Ecto Edition](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |
 | [Miasma Chronicles](../games/m/miasma_chronicles.md) | 51 | 1,000 |
 | [Mount & Blade II: Bannerlord](../games/m/mount_&_blade_ii__bannerlord.md) | 51 | 1,000 |
+| [Settlement Survival](../games/0/0407f287e7574d88b7c00895f14628d8.md) | 51 | 1,000 |
 | [Smelter](../games/s/smelter.md) | 51 | 1,000 |
 | [The Evil Within 2](../games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 51 | 1,000 |
 | [Arcadegeddon](../games/a/arcadegeddon.md) | 50 | 1,000 |

@@ -620,6 +620,7 @@
 | [Sea Horizon](../games/b/bcd479d96de045fa8805f2bf4962475e.md) | 17 | 1,000 |
 | [SEASON®: A letter to the future](../games/s/season®__a_letter_to_the_future.md) | 16 | 1,000 |
 | [Session: Skate Sim](../games/s/session__skate_sim.md) | 48 | 1,000 |
+| [Settlement Survival](../games/0/0407f287e7574d88b7c00895f14628d8.md) | 51 | 1,000 |
 | [Seven Doors](../games/s/seven_doors.md) | 17 | 1,000 |
 | [Severed Steel](../games/s/severed_steel.md) | 52 | 1,000 |
 | [Shadow Gambit: The Cursed Crew](../games/s/shadow_gambit__the_cursed_crew.md) | 26 | 1,000 |
