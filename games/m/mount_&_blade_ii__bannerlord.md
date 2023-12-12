@@ -30,7 +30,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crowdfunded | 5.00% | ~3,386 |
 | Crush your enemies | 5.00% | ~3,386 |
 | My way | 5.00% | ~3,386 |
-| Veni vidi vici | 4.00% | ~2,708 |
+| Veni vidi vici | 4.00% | ~2,709 |
 | Freedom! | 3.00% | ~2,031 |
 | Long live the Empire! | 3.00% | ~2,031 |
 | Real Estate | 3.00% | ~2,031 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,712 (Ranked 104)  
+Progressed: 67,713 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 0 (0.00%) (Ranked 372)
 | 2023-12-09 | 67,516 | 0 |
 | 2023-12-10 | 67,577 | 0 |
 | 2023-12-11 | 67,658 | 0 |
-| 2023-12-12 | 67,712 | 0 |
+| 2023-12-12 | 67,713 | 0 |
 ## Awards
 Max (Character Customization): 7,553  (Ranked 53)  
 Sum: 15,754 (Ranked 67)  

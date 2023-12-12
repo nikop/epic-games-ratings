@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 1207,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3746,9 +3746,9 @@
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
       "SetID": "5fn8ia4",
       "Name": "Well Versed",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 797
     },
     {
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
@@ -3803,8 +3803,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-12T21:07:38.1298208+00:00",
+  "LastChanged_Achievements": "2023-12-12T22:06:11.0903531+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-12T20:59:42.7437943+00:00",
-  "LastUpdate_Achievements": "2023-12-12T21:07:38.1299001+00:00"
+  "LastUpdate_Ratings": "2023-12-12T21:59:52.5742089+00:00",
+  "LastUpdate_Achievements": "2023-12-12T22:06:11.090475+00:00"
 }

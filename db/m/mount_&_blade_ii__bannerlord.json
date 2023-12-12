@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -9690,9 +9690,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67712,
+  "EOS_Progressed": 67713,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34650,6 +34650,11 @@
       "Time": "2023-12-12T21:09:45.7568348+00:00",
       "NumProgressed": 67712,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T22:09:25.2522311+00:00",
+      "NumProgressed": 67713,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -35053,7 +35058,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2708
+      "UsersEstimate": 2709
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -35068,15 +35073,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67712,
+      "Progressed": 67713,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-12T10:00:46.1369812+00:00",
-  "LastChanged_Achievements": "2023-12-12T21:09:45.7568346+00:00",
+  "LastChanged_Achievements": "2023-12-12T22:09:25.2522306+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.7190339+00:00",
-  "LastUpdate_Ratings": "2023-12-12T20:59:41.4190996+00:00",
-  "LastUpdate_Achievements": "2023-12-12T21:09:45.7569484+00:00"
+  "LastUpdate_Ratings": "2023-12-12T21:59:51.3968918+00:00",
+  "LastUpdate_Achievements": "2023-12-12T22:09:25.2523448+00:00"
 }

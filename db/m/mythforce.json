@@ -824,9 +824,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5463,
+  "EOS_Progressed": 5465,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -10919,6 +10919,11 @@
       "Time": "2023-12-12T20:03:57.9992819+00:00",
       "NumProgressed": 5463,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-12T22:04:13.1961838+00:00",
+      "NumProgressed": 5465,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10963,7 +10968,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -10979,7 +10984,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10995,7 +11000,7 @@
       "Name": "Flawless Victory",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -11027,7 +11032,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11067,7 +11072,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -11091,7 +11096,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -11099,7 +11104,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -11114,15 +11119,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5463,
+      "Progressed": 5465,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-11T15:58:13.4917399+00:00",
-  "LastChanged_Achievements": "2023-12-12T21:04:16.744488+00:00",
+  "LastChanged_Achievements": "2023-12-12T22:04:13.1961833+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-12T20:58:47.1971875+00:00",
-  "LastUpdate_Achievements": "2023-12-12T21:04:16.7445393+00:00"
+  "LastUpdate_Ratings": "2023-12-12T21:58:59.9094783+00:00",
+  "LastUpdate_Achievements": "2023-12-12T22:04:13.1962614+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-knight-0cfa08",
   "Ranking_EOS_Progress": 726,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -143,8 +143,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-11T03:23:14.6505823+00:00",
-  "LastChanged_Achievements": "2023-12-12T21:08:59.798811+00:00",
+  "LastChanged_Achievements": "2023-12-12T22:08:40.2578579+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:00.6967558+00:00",
-  "LastUpdate_Ratings": "2023-12-12T20:58:04.0589886+00:00",
-  "LastUpdate_Achievements": "2023-12-12T21:08:59.7988183+00:00"
+  "LastUpdate_Ratings": "2023-12-12T21:58:18.9963881+00:00",
+  "LastUpdate_Achievements": "2023-12-12T22:08:40.257865+00:00"
 }

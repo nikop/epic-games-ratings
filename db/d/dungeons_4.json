@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1826,9 +1826,9 @@
       "ID": "ach_main15drill_sabotage",
       "SetID": "4hg22ll",
       "Name": "Sabotage!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 131
     },
     {
       "ID": "ach_main15drill_untouchable",
@@ -1969,8 +1969,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-12T21:04:32.0691178+00:00",
+  "LastChanged_Achievements": "2023-12-12T22:04:28.1739743+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-12T20:59:35.0647229+00:00",
-  "LastUpdate_Achievements": "2023-12-12T21:04:32.0692006+00:00"
+  "LastUpdate_Ratings": "2023-12-12T21:59:46.0029826+00:00",
+  "LastUpdate_Achievements": "2023-12-12T22:04:28.1740204+00:00"
 }

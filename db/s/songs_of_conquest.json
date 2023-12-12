@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1848,6 +1848,11 @@
       "Time": "2023-12-12T19:07:33.6921566+00:00",
       "NumProgressed": 431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T22:06:17.9182193+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2220,7 +2225,7 @@
       "Name": "Humiliation",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -2291,15 +2296,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-12T21:07:45.1431448+00:00",
+  "LastChanged_Achievements": "2023-12-12T22:06:17.9182188+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-12T20:57:43.3887727+00:00",
-  "LastUpdate_Achievements": "2023-12-12T21:07:45.1431825+00:00"
+  "LastUpdate_Ratings": "2023-12-12T21:57:59.0193748+00:00",
+  "LastUpdate_Achievements": "2023-12-12T22:06:17.9182699+00:00"
 }

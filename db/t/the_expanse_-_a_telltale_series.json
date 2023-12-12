@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -277,7 +277,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16075,
+  "EOS_Progressed": 16078,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 1,
@@ -13662,6 +13662,11 @@
       "Time": "2023-12-12T20:05:17.5895284+00:00",
       "NumProgressed": 16075,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-12T22:05:33.0202592+00:00",
+      "NumProgressed": 16078,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13722,7 +13727,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "16",
@@ -13738,7 +13743,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "18",
@@ -13818,7 +13823,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "27",
@@ -13953,13 +13958,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16075,
+      "Progressed": 16078,
       "Completed": 42
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2029,
+      "Progressed": 2032,
       "Completed": 868
     }
   ],
@@ -13967,8 +13972,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-12T21:05:38.5153404+00:00",
+  "LastChanged_Achievements": "2023-12-12T22:05:33.0202589+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:00:14.3574667+00:00",
-  "LastUpdate_Achievements": "2023-12-12T21:05:38.515426+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:00:23.4603015+00:00",
+  "LastUpdate_Achievements": "2023-12-12T22:05:33.0203355+00:00"
 }

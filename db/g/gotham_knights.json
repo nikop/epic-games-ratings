@@ -4637,9 +4637,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77926,
+  "EOS_Progressed": 77927,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25772,6 +25772,11 @@
       "Time": "2023-12-12T20:02:58.4015594+00:00",
       "NumProgressed": 77926,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-12T22:03:13.170073+00:00",
+      "NumProgressed": 77927,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25879,7 +25884,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13247
+      "UsersEstimate": 13248
     },
     {
       "ID": "CLAYFACE_1",
@@ -25887,7 +25892,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16364
+      "UsersEstimate": 16365
     },
     {
       "ID": "CLAYFACE_2",
@@ -25943,7 +25948,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 10130
+      "UsersEstimate": 10131
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -25991,7 +25996,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10130
+      "UsersEstimate": 10131
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -26007,7 +26012,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21819
+      "UsersEstimate": 21820
     },
     {
       "ID": "FREEZE_1_5",
@@ -26127,7 +26132,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38963
+      "UsersEstimate": 38964
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -26270,13 +26275,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77926,
+      "Progressed": 77927,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48206,
+      "Progressed": 48207,
       "Completed": 2675
     }
   ],
@@ -26284,8 +26289,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-12T19:58:35.1362928+00:00",
-  "LastChanged_Achievements": "2023-12-12T21:03:15.7629168+00:00",
+  "LastChanged_Achievements": "2023-12-12T22:03:13.1700727+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-12T20:58:38.488805+00:00",
-  "LastUpdate_Achievements": "2023-12-12T21:03:15.7630832+00:00"
+  "LastUpdate_Ratings": "2023-12-12T21:58:52.2601797+00:00",
+  "LastUpdate_Achievements": "2023-12-12T22:03:13.1702241+00:00"
 }

@@ -4318,9 +4318,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 499857,
+  "EOS_Progressed": 499870,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2399,
+  "EOS_NewPlayers": 2392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31393,6 +31393,11 @@
       "Time": "2023-12-12T21:05:07.48183+00:00",
       "NumProgressed": 499857,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T22:05:02.7077297+00:00",
+      "NumProgressed": 499870,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -31460,7 +31465,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19994
+      "UsersEstimate": 19995
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -31572,7 +31577,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19994
+      "UsersEstimate": 19995
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -31668,7 +31673,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24993
+      "UsersEstimate": 24994
     },
     {
       "ID": "ACH_WET_FEET",
@@ -31676,22 +31681,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19994
+      "UsersEstimate": 19995
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 499857,
+      "Progressed": 499870,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-12-11T23:58:25.8526558+00:00",
-  "LastChanged_Achievements": "2023-12-12T21:05:07.4818298+00:00",
+  "LastChanged_Achievements": "2023-12-12T22:05:02.7077291+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.4208286+00:00",
-  "LastUpdate_Ratings": "2023-12-12T20:58:53.3059993+00:00",
-  "LastUpdate_Achievements": "2023-12-12T21:05:07.4819762+00:00"
+  "LastUpdate_Ratings": "2023-12-12T21:59:05.6267073+00:00",
+  "LastUpdate_Achievements": "2023-12-12T22:05:02.7079115+00:00"
 }

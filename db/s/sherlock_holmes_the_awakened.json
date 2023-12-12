@@ -123,7 +123,7 @@
   "Tags": [],
   "EOS_Progressed": 1131,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.65,
   "EosHistory": [
@@ -3939,9 +3939,9 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 520
+      "UsersEstimate": 532
     },
     {
       "ID": "MQ03_4",
@@ -3963,9 +3963,9 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 396
+      "UsersEstimate": 407
     },
     {
       "ID": "MQ04_2",
@@ -4027,9 +4027,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 407
+      "UsersEstimate": 418
     },
     {
       "ID": "MQ06_3",
@@ -4108,8 +4108,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-12T11:03:07.9199744+00:00",
-  "LastChanged_Achievements": "2023-12-12T21:07:57.0586444+00:00",
+  "LastChanged_Achievements": "2023-12-12T22:06:29.2676618+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:02:58.1104079+00:00",
-  "LastUpdate_Achievements": "2023-12-12T21:07:57.0586717+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:02:55.3159871+00:00",
+  "LastUpdate_Achievements": "2023-12-12T22:06:29.2676933+00:00"
 }

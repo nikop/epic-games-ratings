@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9618,9 +9618,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126451,
+  "EOS_Progressed": 126457,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 829,
+  "EOS_NewPlayers": 832,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34713,6 +34713,11 @@
       "Time": "2023-12-12T21:08:48.669334+00:00",
       "NumProgressed": 126451,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T22:08:29.3649262+00:00",
+      "NumProgressed": 126457,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34722,9 +34727,9 @@
       "ID": "affinity_meltdown_first_time",
       "SetID": "64l4lke",
       "Name": "Don\u0027t Make Me Turn This Coach Around",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 632
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -34906,9 +34911,9 @@
       "ID": "combat_kill_gaunts",
       "SetID": "64l4lke",
       "Name": "Now Stay Dead",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "combat_kill_gentry",
@@ -34922,9 +34927,9 @@
       "ID": "combat_kill_harvest_child",
       "SetID": "64l4lke",
       "Name": "Meat and Greet",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1265
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35026,9 +35031,9 @@
       "ID": "driving_biome_clear_coast",
       "SetID": "64l4lke",
       "Name": "Merry Time",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -35098,9 +35103,9 @@
       "ID": "hoarder_buy_epic_trinket",
       "SetID": "64l4lke",
       "Name": "Whale",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "hospital_full_service",
@@ -35234,9 +35239,9 @@
       "ID": "stagecoach_upgrade_equip_all",
       "SetID": "64l4lke",
       "Name": "Road Trip",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -35268,7 +35273,7 @@
       "Name": "This guy... again?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35355,21 +35360,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126451,
+      "Progressed": 126457,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1320,
+      "Progressed": 1326,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T19:58:48.3219197+00:00",
-  "LastChanged_Achievements": "2023-12-12T21:08:48.6693335+00:00",
+  "LastChanged_Achievements": "2023-12-12T22:08:29.3649258+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T20:58:53.2307126+00:00",
-  "LastUpdate_Achievements": "2023-12-12T21:08:48.6694821+00:00"
+  "LastUpdate_Ratings": "2023-12-12T21:59:05.5416576+00:00",
+  "LastUpdate_Achievements": "2023-12-12T22:08:29.3651717+00:00"
 }

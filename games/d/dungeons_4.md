@@ -44,8 +44,8 @@
 | Stop Tanos! | 26.00% | ~141 |
 | Doom Hill | 26.00% | ~141 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~136 |
+| Sabotage! | 24.00% | ~131 |
 | Bonus Evilness | 23.00% | ~125 |
-| Sabotage! | 23.00% | ~125 |
 | Raiders of the Lost Stone | 23.00% | ~125 |
 | The Rune Sockets of Finitude (Part 1) | 22.00% | ~120 |
 | The Rune Sockets of Finitude (Part 2) | 20.00% | ~109 |

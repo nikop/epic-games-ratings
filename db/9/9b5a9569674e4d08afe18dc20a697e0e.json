@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -791,9 +791,9 @@
       "ID": "WITCH",
       "SetID": "40o4f14",
       "Name": "Resurrection",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "WYVERN",
@@ -814,8 +814,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-12T21:07:54.4022413+00:00",
+  "LastChanged_Achievements": "2023-12-12T22:06:26.7736637+00:00",
   "LastUpdate_AppInfo": "2023-12-07T01:44:48.8320018+00:00",
-  "LastUpdate_Ratings": "2023-12-12T20:57:37.9412325+00:00",
-  "LastUpdate_Achievements": "2023-12-12T21:07:54.4022579+00:00"
+  "LastUpdate_Ratings": "2023-12-12T21:57:53.731441+00:00",
+  "LastUpdate_Achievements": "2023-12-12T22:06:26.7736976+00:00"
 }

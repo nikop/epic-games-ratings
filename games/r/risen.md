@@ -26,7 +26,7 @@ Rating: 4.58 (Ranked 452)
 | The fourth triplet | 28.00% | ~19 |
 | Family man | 27.00% | ~18 |
 | Archaeologist | 27.00% | ~18 |
-| Little hero | 25.00% | ~17 |
+| Little hero | 27.00% | ~18 |
 | Pandora's box | 25.00% | ~17 |
 | Ghost hunter | 24.00% | ~16 |
 | Sidelined | 24.00% | ~16 |

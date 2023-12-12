@@ -16,8 +16,8 @@
 | Systematic | 42.00% | ~34 |
 | Mine Sweeper | 38.00% | ~31 |
 | Roll Out | 37.00% | ~30 |
-| Dopa-Miner | 28.00% | ~23 |
-| Botropolis | 26.00% | ~21 |
+| Dopa-Miner | 30.00% | ~24 |
+| Botropolis | 27.00% | ~22 |
 | Up, Up And Away! | 25.00% | ~20 |
 | Whoa! | 25.00% | ~20 |
 | Steaming Rich | 20.00% | ~16 |

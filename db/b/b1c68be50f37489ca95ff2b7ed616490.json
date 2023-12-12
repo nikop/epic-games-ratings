@@ -479,9 +479,9 @@
       "ID": "3",
       "SetID": "6bgoh8g",
       "Name": "It was not in the book",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "4",
@@ -542,8 +542,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-12T21:05:28.9860918+00:00",
+  "LastChanged_Achievements": "2023-12-12T22:05:23.761775+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:47.1183869+00:00",
-  "LastUpdate_Ratings": "2023-12-12T21:02:54.9338452+00:00",
-  "LastUpdate_Achievements": "2023-12-12T21:05:28.9861067+00:00"
+  "LastUpdate_Ratings": "2023-12-12T22:02:52.2355019+00:00",
+  "LastUpdate_Achievements": "2023-12-12T22:05:23.7617934+00:00"
 }

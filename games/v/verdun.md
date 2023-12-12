@@ -6,13 +6,13 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~51,613 |
+| Setting an example | 78.00% | ~51,614 |
 | Worth it | 63.00% | ~41,688 |
-| Eagle Eye | 55.00% | ~36,394 |
-| Corpseman I | 40.00% | ~26,468 |
-| Blast fishing | 37.00% | ~24,483 |
+| Eagle Eye | 55.00% | ~36,395 |
+| Corpseman I | 40.00% | ~26,469 |
+| Blast fishing | 37.00% | ~24,484 |
 | Not alone | 32.00% | ~21,175 |
-| Headhunter I | 26.00% | ~17,204 |
+| Headhunter I | 26.00% | ~17,205 |
 | Manual Labour I | 25.00% | ~16,543 |
 | Developers, Developers, Developers | 24.00% | ~15,881 |
 | Basic Training | 24.00% | ~15,881 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~66 |
 | Blood Brother | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,171 (Ranked 106)  
+Progressed: 66,172 (Ranked 106)  
 Completed: 4 (0.01%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,10 +302,10 @@ Completed: 4 (0.01%) (Ranked 349)
 | 2023-12-09 | 65,935 | 4 |
 | 2023-12-10 | 66,035 | 4 |
 | 2023-12-11 | 66,103 | 4 |
-| 2023-12-12 | 66,171 | 4 |
+| 2023-12-12 | 66,172 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 360)  
-Sum: 817 (Ranked 282)  
+Sum: 819 (Ranked 282)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
@@ -314,8 +314,8 @@ Diff (max vs sum): 78
 | This game is Extremely Fun | 95 |
 | This game has Diverse Characters | 92 |
 | This game has Quickly Understood Controls | 90 |
+| This game has Amazing Characters | 78 |
 | This game has Competitive Players | 76 |
-| This game has Amazing Characters | 76 |
 | This game is Educational | 76 |
 | This game is Relaxing | 75 |
 | This game has Realistic Visuals | 75 |
@@ -478,3 +478,4 @@ Diff (max vs sum): 78
 | 2023-12-01 | 4.53 | - | 104 | 814 |
 | 2023-12-03 | 4.53 | - | 104 | 816 |
 | 2023-12-09 | 4.53 | - | 105 | 817 |
+| 2023-12-12 | 4.53 | - | 105 | 819 |

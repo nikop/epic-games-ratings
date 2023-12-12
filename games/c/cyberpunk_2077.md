@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,011 |
-| Gun Fu | 7.00% | ~68,256 |
-| The Fool | 6.00% | ~58,505 |
+| V for Vendetta | 12.00% | ~117,013 |
+| Gun Fu | 7.00% | ~68,257 |
+| The Fool | 6.00% | ~58,506 |
 | Right Back At Ya | 5.00% | ~48,755 |
 | The Lovers | 5.00% | ~48,755 |
 | Full Body Conversion | 4.00% | ~39,004 |
@@ -19,9 +19,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 3.00% | ~29,253 |
 | The High Priestess | 3.00% | ~29,253 |
 | Legend of The Afterlife | 3.00% | ~29,253 |
-| Relic Ruler | 3.00% | ~3,111 |
-| All the President's Men | 3.00% | ~3,111 |
-| Arachnophobia | 3.00% | ~3,111 |
+| Relic Ruler | 3.00% | ~3,112 |
+| All the President's Men | 3.00% | ~3,112 |
+| Arachnophobia | 3.00% | ~3,112 |
 | Bushido and Chill | 2.00% | ~19,502 |
 | Master Crafter | 2.00% | ~19,502 |
 | The Quick and the Dead | 2.00% | ~19,502 |
@@ -35,14 +35,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 1.00% | ~9,751 |
 | Spin Doctor | 1.00% | ~1,037 |
 | Easy Come, Easy Go | 1.00% | ~1,037 |
-| King of Wands | 0.90% | ~933 |
+| King of Wands | 0.90% | ~934 |
 | The Sun | 0.80% | ~7,801 |
 | Dirty Deeds | 0.80% | ~830 |
 | To Bad Decisions! | 0.70% | ~6,826 |
 | Ten out of Ten | 0.70% | ~6,826 |
 | Breathtaking | 0.60% | ~5,851 |
 | The Star | 0.60% | ~5,851 |
-| Autojock | 0.50% | ~4,875 |
+| Autojock | 0.50% | ~4,876 |
 | The APB is Not Enough | 0.50% | ~519 |
 | Judgement Day | 0.50% | ~519 |
 | King of Swords | 0.50% | ~519 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,091 (Ranked 15)  
+Progressed: 975,105 (Ranked 15)  
 Completed: 2,891 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,10 +310,10 @@ Completed: 2,891 (0.30%) (Ranked 240)
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
-| 2023-12-12 | 975,091 | 2,891 |
+| 2023-12-12 | 975,105 | 2,891 |
 ## Awards
 Max (Character Customization): 121,863  (Ranked 9)  
-Sum: 413,493 (Ranked 9)  
+Sum: 413,636 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -323,7 +323,7 @@ Diff (max vs sum): 0
 | This game has Diverse Characters | 24,680 |
 | This game is Highly Recommended | 23,644 |
 | This game has Amazing Storytelling | 23,371 |
-| This game is Extremely Fun | 23,105 |
+| This game is Extremely Fun | 23,248 |
 | This game has Amazing Characters | 23,038 |
 | This game is Relaxing | 22,257 |
 | This game has Quickly Understood Controls | 22,118 |
@@ -658,4 +658,4 @@ Diff (max vs sum): 0
 | 2023-12-09 | 4.66 | - | 120,272 | 405,418 |
 | 2023-12-10 | 4.66 | - | 120,955 | 408,628 |
 | 2023-12-11 | 4.66 | - | 121,434 | 411,235 |
-| 2023-12-12 | 4.66 | - | 121,863 | 413,493 |
+| 2023-12-12 | 4.66 | - | 121,863 | 413,636 |

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2452,
+  "EOS_Progressed": 2453,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6067,6 +6067,11 @@
       "Time": "2023-12-12T21:05:42.6683047+00:00",
       "NumProgressed": 2452,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T22:05:37.1198219+00:00",
+      "NumProgressed": 2453,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6079,7 +6084,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6087,7 +6092,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -6095,7 +6100,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -6287,7 +6292,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6375,7 +6380,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -6429,9 +6434,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 711
+      "UsersEstimate": 687
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -6470,14 +6475,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2452,
+      "Progressed": 2453,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-12T21:05:42.6683043+00:00",
+  "LastChanged_Achievements": "2023-12-12T22:05:37.119821+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-12T20:58:43.8325055+00:00",
-  "LastUpdate_Achievements": "2023-12-12T21:05:42.6683611+00:00"
+  "LastUpdate_Ratings": "2023-12-12T21:58:57.2728575+00:00",
+  "LastUpdate_Achievements": "2023-12-12T22:05:37.1198787+00:00"
 }
