@@ -2052,9 +2052,9 @@
       "ID": "ACHV_CITY",
       "SetID": "cceobco",
       "Name": "The City",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 164
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -2267,8 +2267,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:09:49.1136756+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:09:08.4004801+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:16.1200559+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:00:35.6078995+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:09:49.1136991+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:59:21.173816+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:09:08.4005097+00:00"
 }

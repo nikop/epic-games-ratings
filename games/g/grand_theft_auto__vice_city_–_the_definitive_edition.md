@@ -19,8 +19,8 @@ Rating: 4.53 (Ranked 545)
 | Vice City Mogul | 7.00% | ~795 |
 | Catch Me if You Can | 7.00% | ~795 |
 | Bloodstained Hands | 7.00% | ~795 |
+| Grand Theft Auto | 6.00% | ~681 |
 | Not my First Time | 5.00% | ~568 |
-| Grand Theft Auto | 5.00% | ~568 |
 | High Quality H2O | 4.00% | ~454 |
 | Pie Guy | 4.00% | ~454 |
 | Running Rampant | 3.00% | ~341 |

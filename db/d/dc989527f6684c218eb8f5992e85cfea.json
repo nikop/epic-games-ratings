@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14371,
+  "EOS_Progressed": 14373,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16309,6 +16309,11 @@
       "Time": "2023-12-12T10:06:26.3892041+00:00",
       "NumProgressed": 14371,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T11:05:21.7498031+00:00",
+      "NumProgressed": 14373,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -16392,7 +16397,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6323
+      "UsersEstimate": 6324
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -16406,9 +16411,9 @@
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
       "SetID": "5ck0pmd",
       "Name": "Facepalm",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2587
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -16488,7 +16493,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2875
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -16519,14 +16524,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 14371,
+      "Progressed": 14373,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:06:26.3892038+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:05:21.7498026+00:00",
   "LastUpdate_AppInfo": "2023-12-09T05:56:59.7438466+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:58:23.4267055+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:06:26.3892887+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:57:53.9303081+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:05:21.7498966+00:00"
 }

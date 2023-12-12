@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1721,
+  "EOS_Progressed": 1723,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1364,6 +1364,11 @@
       "Time": "2023-12-12T10:06:37.4481679+00:00",
       "NumProgressed": 1721,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T11:05:29.8780917+00:00",
+      "NumProgressed": 1723,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1400,7 +1405,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1480,7 +1485,7 @@
       "Name": "Worthy Badge",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1608,7 +1613,7 @@
       "Name": "Profile Outfitted",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -1751,14 +1756,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1721,
+      "Progressed": 1723,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:06:37.4481675+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:05:29.8780912+00:00",
   "LastUpdate_AppInfo": "2023-12-05T10:57:24.488231+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:02:47.7337979+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:06:37.4482021+00:00"
+  "LastUpdate_Ratings": "2023-12-12T11:02:48.1932656+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:05:29.8781283+00:00"
 }

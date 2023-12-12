@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,683 |
-| Zealous | 2.00% | ~21,789 |
-| Not half bad | 2.00% | ~21,789 |
-| Apt Survivor | 2.00% | ~21,789 |
-| Survival Treasures | 2.00% | ~21,789 |
-| Skillful | 2.00% | ~21,789 |
-| Make Some Noise | 2.00% | ~21,789 |
-| The Grand Sacrifice | 1.00% | ~10,894 |
-| Agonizing Escape | 1.00% | ~10,894 |
-| Backdoor Escape | 1.00% | ~10,894 |
-| No one left behind | 1.00% | ~10,894 |
-| Medic | 1.00% | ~10,894 |
-| Handyman | 1.00% | ~10,894 |
-| Perfect Escape | 1.00% | ~10,894 |
-| Perfect Killing | 1.00% | ~10,894 |
-| Bloody Millionaire | 1.00% | ~10,894 |
-| I | 1.00% | ~10,894 |
-| Sorted | 1.00% | ~10,894 |
-| Healthy Obsession | 1.00% | ~10,894 |
-| Resurgence | 1.00% | ~10,894 |
-| Preemptive Strike | 1.00% | ~10,894 |
-| Humanitarian | 1.00% | ~10,894 |
+| It wakes | 3.00% | ~32,684 |
+| Zealous | 2.00% | ~21,790 |
+| Not half bad | 2.00% | ~21,790 |
+| Apt Survivor | 2.00% | ~21,790 |
+| Survival Treasures | 2.00% | ~21,790 |
+| Skillful | 2.00% | ~21,790 |
+| Make Some Noise | 2.00% | ~21,790 |
+| The Grand Sacrifice | 1.00% | ~10,895 |
+| Agonizing Escape | 1.00% | ~10,895 |
+| Backdoor Escape | 1.00% | ~10,895 |
+| No one left behind | 1.00% | ~10,895 |
+| Medic | 1.00% | ~10,895 |
+| Handyman | 1.00% | ~10,895 |
+| Perfect Escape | 1.00% | ~10,895 |
+| Perfect Killing | 1.00% | ~10,895 |
+| Bloody Millionaire | 1.00% | ~10,895 |
+| I | 1.00% | ~10,895 |
+| Sorted | 1.00% | ~10,895 |
+| Healthy Obsession | 1.00% | ~10,895 |
+| Resurgence | 1.00% | ~10,895 |
+| Preemptive Strike | 1.00% | ~10,895 |
+| Humanitarian | 1.00% | ~10,895 |
 | I've got your back | 0.90% | ~9,805 |
 | Apt Killer | 0.90% | ~9,805 |
 | Risk it all | 0.90% | ~9,805 |
 | II | 0.90% | ~9,805 |
 | Engineer | 0.90% | ~9,805 |
 | Close Shave | 0.90% | ~9,805 |
-| III | 0.80% | ~8,715 |
-| Wounded Healer | 0.80% | ~8,715 |
+| III | 0.80% | ~8,716 |
+| Wounded Healer | 0.80% | ~8,716 |
 | Vulture | 0.70% | ~7,626 |
 | First to the Punch | 0.70% | ~7,626 |
 | With Scars to Show | 0.70% | ~7,626 |
@@ -52,6 +52,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Nerves of steel | 0.50% | ~5,447 |
 | Gifts for the Fog | 0.50% | ~5,447 |
 | III-50 | 0.50% | ~5,447 |
+| Shock Therapy | 0.50% | ~5,447 |
 | All Aboard | 0.50% | ~5,447 |
 | Item of Obsession | 0.50% | ~5,447 |
 | House of Pain | 0.50% | ~5,447 |
@@ -66,7 +67,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | MU/TH/UR Dearest | 0.50% | ~5,447 |
 | A bite for the Entity | 0.40% | ~4,358 |
 | Blood on your face | 0.40% | ~4,358 |
-| Shock Therapy | 0.40% | ~4,358 |
 | Leapfrog | 0.40% | ~4,358 |
 | Cottage Owner | 0.40% | ~4,358 |
 | Escaping the Nightmare | 0.40% | ~4,358 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,089 |
 | Adept Good Guy | 0.10% | ~1,089 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,089,428 (Ranked 12)  
+Progressed: 1,089,482 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -475,7 +475,7 @@ Completed: 62 (0.01%) (Ranked 349)
 | 2023-12-09 | 1,083,532 | 61 |
 | 2023-12-10 | 1,086,485 | 62 |
 | 2023-12-11 | 1,088,746 | 62 |
-| 2023-12-12 | 1,089,428 | 62 |
+| 2023-12-12 | 1,089,482 | 62 |
 ## Awards
 Max (Diverse Characters): 37,733  (Ranked 15)  
 Sum: 285,987 (Ranked 12)  

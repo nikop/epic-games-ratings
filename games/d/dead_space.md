@@ -1,13 +1,13 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.64 (Ranked 338)  
+Rating: 4.64 (Ranked 337)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marksman | 93.00% | ~2,079 |
 | Welcome Aboard | 86.00% | ~1,923 |
-| Lab Rat | 76.00% | ~1,699 |
+| Lab Rat | 77.00% | ~1,722 |
 | All Systems Go | 67.00% | ~1,498 |
 | Brute Force | 67.00% | ~1,498 |
 | Cannon Fodder | 63.00% | ~1,409 |

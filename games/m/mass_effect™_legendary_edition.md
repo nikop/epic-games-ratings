@@ -86,8 +86,8 @@
 | Weapon Specialist | 25.00% | ~394 |
 | Arbiter | 25.00% | ~394 |
 | Lost and Found | 25.00% | ~394 |
+| Paramour II | 23.00% | ~363 |
 | Party Crasher | 23.00% | ~363 |
-| Paramour II | 22.00% | ~347 |
 | Hard Target | 22.00% | ~347 |
 | Fact Finder | 22.00% | ~347 |
 | Problem Solver | 22.00% | ~347 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 3711,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3419,9 +3419,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 17968,
+  "EOS_Progressed": 17970,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": -9,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15444,6 +15444,11 @@
       "Time": "2023-12-12T07:05:39.106812+00:00",
       "NumProgressed": 17968,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-12T11:06:02.8165665+00:00",
+      "NumProgressed": 17970,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15822,9 +15827,9 @@
       "ID": "WinWithTradeRoutes",
       "SetID": "cfbk359",
       "Name": "Trade Baron",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 108
     },
     {
       "ID": "WinWithoutDeath",
@@ -15838,9 +15843,9 @@
       "ID": "WinWithoutOrders",
       "SetID": "cfbk359",
       "Name": "Defying the Crown",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 72
     },
     {
       "ID": "Year1Dangerous",
@@ -15927,15 +15932,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17968,
+      "Progressed": 17970,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-12T03:59:13.9193704+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:07:24.9055067+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:06:02.8165663+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:59:27.5835213+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:07:24.9056079+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:58:35.5495945+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:06:02.8166554+00:00"
 }

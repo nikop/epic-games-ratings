@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 451,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 63,
@@ -1497,9 +1497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242383,
+  "EOS_Progressed": 242386,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1021,
+  "EOS_NewPlayers": 1019,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21987,6 +21987,11 @@
       "Time": "2023-12-12T10:10:17.4230227+00:00",
       "NumProgressed": 242383,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-12T11:09:28.2738223+00:00",
+      "NumProgressed": 242386,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -21998,7 +22003,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7271
+      "UsersEstimate": 7272
     },
     {
       "ID": "100Fail",
@@ -22030,7 +22035,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7271
+      "UsersEstimate": 7272
     },
     {
       "ID": "BookCollection",
@@ -22062,7 +22067,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7271
+      "UsersEstimate": 7272
     },
     {
       "ID": "Chapter4",
@@ -22070,7 +22075,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7271
+      "UsersEstimate": 7272
     },
     {
       "ID": "Chapter5",
@@ -22150,7 +22155,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7271
+      "UsersEstimate": 7272
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -22446,7 +22451,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87258
+      "UsersEstimate": 87259
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -22494,7 +22499,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21814
+      "UsersEstimate": 21815
     },
     {
       "ID": "FollowBraztok",
@@ -22701,21 +22706,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 242383,
+      "Progressed": 242386,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 242383,
+      "Progressed": 242386,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-12T01:45:34.0297906+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:10:17.4230221+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:09:28.273822+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.1177484+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:57:29.020553+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:10:17.423175+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:57:18.0074218+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:09:28.2739733+00:00"
 }

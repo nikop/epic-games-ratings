@@ -1,14 +1,14 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 280)  
+Rating: 4.67 (Ranked 278)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,250 |
-| A thief's beginning | 10.00% | ~21,875 |
-| Thorough | 10.00% | ~21,875 |
+| Genin | 12.00% | ~26,251 |
+| A thief's beginning | 10.00% | ~21,876 |
+| Thorough | 10.00% | ~21,876 |
 | Disguised | 9.00% | ~19,688 |
 | Rollin' | 9.00% | ~19,688 |
 | Tanuki Time | 9.00% | ~19,688 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~219 |
 | Release the Kraken | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,752 (Ranked 72)  
+Progressed: 218,756 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 100 (0.05%) (Ranked 323)
 | 2023-12-09 | 218,323 | 100 |
 | 2023-12-10 | 218,536 | 100 |
 | 2023-12-11 | 218,692 | 100 |
-| 2023-12-12 | 218,752 | 100 |
+| 2023-12-12 | 218,756 | 100 |
 ## Awards
 Max (Great for Beginners): 584  (Ranked 201)  
 Sum: 4,903 (Ranked 144)  

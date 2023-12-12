@@ -33,21 +33,21 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 0.60% | ~108 |
 | Corrosive Torrent | 0.60% | ~108 |
 | A Real Challenge | 0.60% | ~108 |
+| Trade Baron | 0.60% | ~108 |
 | Ancient Battleground | 0.50% | ~90 |
 | Statue of the Forefathers | 0.50% | ~90 |
 | Cursed Lands | 0.50% | ~90 |
-| Trade Baron | 0.50% | ~90 |
 | Against All Odds | 0.40% | ~72 |
 | Sparkdew Crystals | 0.40% | ~72 |
 | Haunted Forest | 0.40% | ~72 |
 | Flooded Mines | 0.40% | ~72 |
+| Defying the Crown | 0.40% | ~72 |
 | Fox Utopia | 0.40% | ~72 |
 | Serving Ale | 0.30% | ~54 |
 | Refinery | 0.30% | ~54 |
 | Fishmen Ritual Site | 0.30% | ~54 |
 | Forsaken Gods Temple | 0.30% | ~54 |
 | Victory Through Prosperity | 0.30% | ~54 |
-| Defying the Crown | 0.30% | ~54 |
 | Into the Forest | 0.30% | ~54 |
 | Efficient Explorer | 0.20% | ~36 |
 | Dangerous Lands | 0.20% | ~36 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,968 (Ranked 147)  
+Progressed: 17,970 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 40 (0.22%) (Ranked 255)
 | 2023-12-09 | 17,808 | 43 |
 | 2023-12-10 | 17,908 | 43 |
 | 2023-12-11 | 17,957 | 41 |
-| 2023-12-12 | 17,968 | 40 |
+| 2023-12-12 | 17,970 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 226)  
 Sum: 3,254 (Ranked 175)  

@@ -97,7 +97,7 @@
   "Tags": [],
   "EOS_Progressed": 8737,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8701,9 +8701,9 @@
       "ID": "GamesPlayed100",
       "SetID": "12d07c7",
       "Name": "Played 100 Matches",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "GamesWon1",
@@ -9166,8 +9166,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-11T03:00:37.8400947+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:10:47.4360464+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:09:49.978881+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.1858441+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:57:57.4432386+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:10:47.4361601+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:57:37.4437262+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:09:49.9789866+00:00"
 }

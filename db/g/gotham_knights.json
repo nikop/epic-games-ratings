@@ -4551,10 +4551,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 5137,
       "NumberOfAwardsMax": 3003
+    },
+    {
+      "Time": "2023-12-12T10:58:26.7843118+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5139,
+      "NumberOfAwardsMax": 3003
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5137,
+  "NumberOfAwards": 5139,
   "NumberOfAwardsMax": 3003,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4610,7 +4616,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 270
+      "Count": 272
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4619,7 +4625,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77917,
+  "EOS_Progressed": 77918,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 1,
@@ -25719,6 +25725,11 @@
       "Time": "2023-12-12T08:06:35.8825961+00:00",
       "NumProgressed": 77917,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-12T11:08:05.601754+00:00",
+      "NumProgressed": 77918,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25850,7 +25861,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10908
+      "UsersEstimate": 10909
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -25962,7 +25973,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15583
+      "UsersEstimate": 15584
     },
     {
       "ID": "FREEZE_2",
@@ -25978,7 +25989,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10908
+      "UsersEstimate": 10909
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -26042,7 +26053,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19479
+      "UsersEstimate": 19480
     },
     {
       "ID": "HARLEY_3",
@@ -26050,7 +26061,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15583
+      "UsersEstimate": 15584
     },
     {
       "ID": "HARLEY_4",
@@ -26074,7 +26085,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38958
+      "UsersEstimate": 38959
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -26098,7 +26109,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15583
+      "UsersEstimate": 15584
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -26146,7 +26157,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15583
+      "UsersEstimate": 15584
     },
     {
       "ID": "MYSTERY_05",
@@ -26170,7 +26181,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10908
+      "UsersEstimate": 10909
     },
     {
       "ID": "MYSTERY_08",
@@ -26217,22 +26228,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77917,
+      "Progressed": 77918,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48197,
+      "Progressed": 48198,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-12-11T22:58:05.5851944+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:08:18.2922393+00:00",
+  "LastChanged": "2023-12-12T10:58:26.7843116+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:08:05.6017536+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:59:14.1380276+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:08:18.2923575+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:58:26.7843121+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:08:05.6019301+00:00"
 }

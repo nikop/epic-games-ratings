@@ -6,17 +6,17 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~10,628 |
+| I'm not dead yet | 41.00% | ~10,629 |
 | Overkill | 34.00% | ~8,814 |
 | Vaccine Incoming | 33.00% | ~8,555 |
-| A normal day in Gloomhaven | 31.00% | ~8,036 |
+| A normal day in Gloomhaven | 31.00% | ~8,037 |
 | Spread the plague | 29.00% | ~7,518 |
 | Get over here! | 25.00% | ~6,481 |
-| Just when I thought I was out... | 19.00% | ~4,925 |
+| Just when I thought I was out... | 19.00% | ~4,926 |
 | Precious! | 17.00% | ~4,407 |
 | Mine... All Mine... | 17.00% | ~4,407 |
-| Grizzled veteran | 15.00% | ~3,888 |
-| Anatomy Lesson | 15.00% | ~3,888 |
+| Grizzled veteran | 15.00% | ~3,889 |
+| Anatomy Lesson | 15.00% | ~3,889 |
 | Obstacle race | 13.00% | ~3,370 |
 | Light of my life | 13.00% | ~3,370 |
 | You activated my trap card! | 12.00% | ~3,111 |
@@ -28,7 +28,7 @@ Number of Ratings: 68  (23.09.2022)
 | Pain is your friend | 8.00% | ~2,074 |
 | Black death | 8.00% | ~2,074 |
 | Play it again, Sam | 8.00% | ~2,074 |
-| Quad damage | 6.00% | ~1,555 |
+| Quad damage | 6.00% | ~1,556 |
 | Power Up! | 5.00% | ~1,296 |
 | Caught off guard | 5.00% | ~1,296 |
 | The Pro from Dover | 5.00% | ~1,296 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~26 |
 | Murder Death Kill | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,923 (Ranked 133)  
+Progressed: 25,925 (Ranked 133)  
 Completed: 1 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 1 (0.00%) (Ranked 372)
 | 2023-12-09 | 25,492 | 1 |
 | 2023-12-10 | 25,709 | 1 |
 | 2023-12-11 | 25,874 | 1 |
-| 2023-12-12 | 25,923 | 1 |
+| 2023-12-12 | 25,925 | 1 |
 ## Awards
 Max (Character Customization): 3,598  (Ranked 90)  
 Sum: 8,408 (Ranked 102)  

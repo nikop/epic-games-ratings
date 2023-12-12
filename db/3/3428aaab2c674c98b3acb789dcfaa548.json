@@ -2,13 +2,13 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 233,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 62,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2010-10-19T11:26:00+00:00",
@@ -8855,9 +8855,9 @@
       "Count": 1338
     }
   ],
-  "EOS_Progressed": 858391,
+  "EOS_Progressed": 858404,
   "EOS_Completed": 213,
-  "EOS_NewPlayers": 5050,
+  "EOS_NewPlayers": 5040,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -32480,6 +32480,11 @@
       "Time": "2023-12-12T10:08:56.287067+00:00",
       "NumProgressed": 858391,
       "NumCompleted": 213
+    },
+    {
+      "Time": "2023-12-12T11:08:31.7117213+00:00",
+      "NumProgressed": 858404,
+      "NumCompleted": 213
     }
   ],
   "TotalAchievements": 75,
@@ -32491,7 +32496,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 223182
+      "UsersEstimate": 223185
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -32571,7 +32576,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 51503
+      "UsersEstimate": 51504
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -32587,7 +32592,7 @@
       "Name": "Crafty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 51503
+      "UsersEstimate": 51504
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -32787,7 +32792,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 51503
+      "UsersEstimate": 51504
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -32827,7 +32832,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 51503
+      "UsersEstimate": 51504
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -32963,7 +32968,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 51503
+      "UsersEstimate": 51504
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -33090,13 +33095,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 858391,
+      "Progressed": 858404,
       "Completed": 260
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 858391,
+      "Progressed": 858404,
       "Completed": 213
     }
   ],
@@ -33104,8 +33109,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-12-12T08:58:24.0863177+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:08:56.2870665+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:08:31.7117208+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:57:00.3375823+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:58:35.6069551+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:08:56.2872139+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:58:01.7564314+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:08:31.711887+00:00"
 }

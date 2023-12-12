@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 257,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
@@ -9514,10 +9514,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20137,
       "NumberOfAwardsMax": 7622
+    },
+    {
+      "Time": "2023-12-12T10:58:40.4140308+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20161,
+      "NumberOfAwardsMax": 7622
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20137,
+  "NumberOfAwards": 20161,
   "NumberOfAwardsMax": 7622,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9537,7 +9543,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1481
+      "Count": 1494
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9585,7 +9591,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1347
+      "Count": 1358
     },
     {
       "Text": "This game has a Creative Community",
@@ -9594,7 +9600,7 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126338,
+  "EOS_Progressed": 126342,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 752,
   "EOS_NewCompleters": 0,
@@ -34634,6 +34640,11 @@
       "Time": "2023-12-12T10:09:23.7578661+00:00",
       "NumProgressed": 126338,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T11:08:50.9337123+00:00",
+      "NumProgressed": 126342,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34651,9 +34662,9 @@
       "ID": "affinity_resolute_first_time",
       "SetID": "64l4lke",
       "Name": "Serenity Now!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 505
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -34803,9 +34814,9 @@
       "ID": "combat_kill_dreaming_general",
       "SetID": "64l4lke",
       "Name": "Creep and Sleep",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 884
     },
     {
       "ID": "combat_kill_fanatics",
@@ -34867,9 +34878,9 @@
       "ID": "combat_kill_librarian",
       "SetID": "64l4lke",
       "Name": "Overdue Notice",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 1011
     },
     {
       "ID": "combat_kill_pillagers",
@@ -34939,9 +34950,9 @@
       "ID": "driving_biome_clear_city",
       "SetID": "64l4lke",
       "Name": "Rush Hour",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 505
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35067,9 +35078,9 @@
       "ID": "relationships_all_negative_mountain",
       "SetID": "64l4lke",
       "Name": "The Clash",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 126
     },
     {
       "ID": "relationships_all_positive_mountain",
@@ -35227,9 +35238,9 @@
       "ID": "hero_story_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Ploughshares to Swords",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35251,9 +35262,9 @@
       "ID": "relationships_positive_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "Friends \u0027Til the End",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35276,21 +35287,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126338,
+      "Progressed": 126342,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1207,
+      "Progressed": 1211,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-12T03:59:20.098061+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:09:23.7578656+00:00",
+  "LastChanged": "2023-12-12T10:58:40.4140307+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:08:50.9337119+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:59:34.6243964+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:09:23.758052+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:58:40.4140312+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:08:50.9338907+00:00"
 }

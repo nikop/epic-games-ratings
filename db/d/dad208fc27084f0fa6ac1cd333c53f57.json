@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5246,
+  "EOS_Progressed": 5247,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 3,
@@ -4694,6 +4694,11 @@
       "Time": "2023-12-12T08:07:03.9592652+00:00",
       "NumProgressed": 5246,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-12-12T11:08:33.6073035+00:00",
+      "NumProgressed": 5247,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -4754,7 +4759,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -4762,7 +4767,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 4197
+      "UsersEstimate": 4198
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -4833,14 +4838,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5246,
+      "Progressed": 5247,
       "Completed": 50
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:08:59.0448716+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:08:33.6073031+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:54.5364953+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:59:46.847934+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:08:59.0448996+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:58:48.8778528+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:08:33.6073413+00:00"
 }

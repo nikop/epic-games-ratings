@@ -1,40 +1,40 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 190)  
+Rating: 4.72 (Ranked 189)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~18,232 |
-| Sword Runner | 61.00% | ~14,634 |
-| Running out of breath | 54.00% | ~12,955 |
-| Wallrunner | 53.00% | ~12,715 |
+| Longrunner | 76.00% | ~18,234 |
+| Sword Runner | 61.00% | ~14,635 |
+| Running out of breath | 54.00% | ~12,956 |
+| Wallrunner | 53.00% | ~12,716 |
 | Homerunner | 45.00% | ~10,796 |
 | Out of order | 44.00% | ~10,556 |
-| I call it luck | 43.00% | ~10,316 |
-| Where are my Keys? | 40.00% | ~9,596 |
-| Back to hell | 37.00% | ~8,876 |
+| I call it luck | 43.00% | ~10,317 |
+| Where are my Keys? | 40.00% | ~9,597 |
+| Back to hell | 37.00% | ~8,877 |
 | Perfection | 32.00% | ~7,677 |
-| Why not both | 30.00% | ~7,197 |
-| Sword to a gunfight | 29.00% | ~6,957 |
-| Upgrades not mandatory | 29.00% | ~6,957 |
-| Artificial selection | 28.00% | ~6,717 |
-| Control freak | 27.00% | ~6,477 |
-| Finish line | 26.00% | ~6,237 |
-| Running Wild | 26.00% | ~6,237 |
+| Why not both | 30.00% | ~7,198 |
+| Sword to a gunfight | 29.00% | ~6,958 |
+| Upgrades not mandatory | 29.00% | ~6,958 |
+| Artificial selection | 28.00% | ~6,718 |
+| Control freak | 27.00% | ~6,478 |
+| Finish line | 26.00% | ~6,238 |
+| Running Wild | 26.00% | ~6,238 |
 | Unstoppable force | 22.00% | ~5,278 |
 | Wave of mutilation | 22.00% | ~5,278 |
-| Can't Run Can't Hide | 16.00% | ~3,838 |
-| R is for Running | 16.00% | ~3,838 |
-| Dead in the air | 15.00% | ~3,598 |
+| Can't Run Can't Hide | 16.00% | ~3,839 |
+| R is for Running | 16.00% | ~3,839 |
+| Dead in the air | 15.00% | ~3,599 |
 | Improvise, adapt, overrun | 12.00% | ~2,879 |
 | Pre-empative strike | 12.00% | ~2,879 |
 | Strike | 12.00% | ~2,879 |
 | More than human | 11.00% | ~2,639 |
 | Triple A | 9.00% | ~2,159 |
-| Fine addition | 6.00% | ~1,439 |
-| One Of Those Days | 6.00% | ~1,439 |
+| Fine addition | 6.00% | ~1,440 |
+| One Of Those Days | 6.00% | ~1,440 |
 | Where He Stood | 5.00% | ~1,200 |
 | Push it to the limit | 4.00% | ~960 |
 | Scrapped | 4.00% | ~960 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~96 |
 | Up Close And Personal | 0.40% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,990 (Ranked 138)  
+Progressed: 23,992 (Ranked 138)  
 Completed: 93 (0.39%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 93 (0.39%) (Ranked 226)
 | 2023-12-09 | 23,898 | 93 |
 | 2023-12-10 | 23,954 | 93 |
 | 2023-12-11 | 23,982 | 93 |
-| 2023-12-12 | 23,990 | 93 |
+| 2023-12-12 | 23,992 | 93 |
 ## Awards
 Max (Great Boss Battles): 524  (Ranked 212)  
 Sum: 757 (Ranked 289)  

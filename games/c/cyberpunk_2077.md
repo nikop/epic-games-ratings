@@ -1,26 +1,26 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.66 (Ranked 296)  
+Rating: 4.66 (Ranked 295)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,982 |
-| Gun Fu | 7.00% | ~68,240 |
-| The Fool | 6.00% | ~58,491 |
+| V for Vendetta | 12.00% | ~116,984 |
+| Gun Fu | 7.00% | ~68,241 |
+| The Fool | 6.00% | ~58,492 |
 | Right Back At Ya | 5.00% | ~48,743 |
 | The Lovers | 5.00% | ~48,743 |
-| Full Body Conversion | 4.00% | ~38,994 |
-| Stanislavski's Method | 4.00% | ~38,994 |
-| The Wheel of Fortune | 4.00% | ~38,994 |
-| True Soldier | 4.00% | ~38,994 |
+| Full Body Conversion | 4.00% | ~38,995 |
+| Stanislavski's Method | 4.00% | ~38,995 |
+| The Wheel of Fortune | 4.00% | ~38,995 |
+| True Soldier | 4.00% | ~38,995 |
 | Christmas Tree Attack | 3.00% | ~29,246 |
 | The Hermit | 3.00% | ~29,246 |
 | Legend of The Afterlife | 3.00% | ~29,246 |
-| Relic Ruler | 3.00% | ~3,104 |
-| All the President's Men | 3.00% | ~3,104 |
-| Arachnophobia | 3.00% | ~3,104 |
+| Relic Ruler | 3.00% | ~3,105 |
+| All the President's Men | 3.00% | ~3,105 |
+| Arachnophobia | 3.00% | ~3,105 |
 | Bushido and Chill | 2.00% | ~19,497 |
 | Master Crafter | 2.00% | ~19,497 |
 | The Quick and the Dead | 2.00% | ~19,497 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974,851 (Ranked 15)  
+Progressed: 974,869 (Ranked 15)  
 Completed: 2,889 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,15 +310,15 @@ Completed: 2,889 (0.30%) (Ranked 240)
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
-| 2023-12-12 | 974,851 | 2,889 |
+| 2023-12-12 | 974,869 | 2,889 |
 ## Awards
 Max (Character Customization): 121,434  (Ranked 9)  
-Sum: 411,615 (Ranked 9)  
+Sum: 412,071 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 121,434 |
-| This game has Great Boss Battles | 88,245 |
+| This game has Great Boss Battles | 88,701 |
 | This game is Great for Beginners | 25,134 |
 | This game has Diverse Characters | 24,680 |
 | This game is Highly Recommended | 23,469 |
@@ -658,4 +658,4 @@ Diff (max vs sum): 0
 | 2023-12-09 | 4.66 | - | 120,272 | 405,418 |
 | 2023-12-10 | 4.66 | - | 120,955 | 408,628 |
 | 2023-12-11 | 4.66 | - | 121,434 | 411,235 |
-| 2023-12-12 | 4.66 | - | 121,434 | 411,615 |
+| 2023-12-12 | 4.66 | - | 121,434 | 412,071 |

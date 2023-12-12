@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 258)  
+Rating: 4.68 (Ranked 257)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,20 +11,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 1.00% | ~1,263 |
 | Catch and Decease | 0.90% | ~1,137 |
 | Not Today! | 0.80% | ~1,011 |
+| Overdue Notice | 0.80% | ~1,011 |
 | Escape from the Black Hole | 0.80% | ~1,011 |
+| Creep and Sleep | 0.70% | ~884 |
 | Meat and Greet | 0.70% | ~884 |
-| Overdue Notice | 0.70% | ~884 |
 | Bloody Graduation | 0.70% | ~8 |
 | Lost and Found | 0.70% | ~8 |
-| Creep and Sleep | 0.60% | ~758 |
 | Autodidact | 0.60% | ~758 |
+| Serenity Now! | 0.40% | ~505 |
+| Rush Hour | 0.40% | ~505 |
 | Don't Make Me Turn This Coach Around | 0.30% | ~379 |
-| Serenity Now! | 0.30% | ~379 |
 | It Rings a Bell | 0.30% | ~379 |
 | Dissector | 0.30% | ~379 |
 | Banishment | 0.30% | ~379 |
 | Deprogramming | 0.30% | ~379 |
-| Rush Hour | 0.30% | ~379 |
 | To Grandmother's House | 0.30% | ~379 |
 | A Place to Lay Your Head | 0.30% | ~379 |
 | FNG | 0.30% | ~379 |
@@ -56,6 +56,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Road Trip | 0.20% | ~253 |
 | Slap on the Wrist | 0.20% | ~2 |
 | Et Tu, Riposte? | 0.20% | ~2 |
+| Ploughshares to Swords | 0.20% | ~2 |
+| Friends 'Til the End | 0.20% | ~2 |
 | A Life Well Lived | 0.10% | ~126 |
 | The World As It Was | 0.10% | ~126 |
 | This Looks Familiar | 0.10% | ~126 |
@@ -70,6 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Shrine of Reflection | 0.10% | ~126 |
 | Triage | 0.10% | ~126 |
 | Worldly Traveller | 0.10% | ~126 |
+| The Clash | 0.10% | ~126 |
 | Utopia | 0.10% | ~126 |
 | Eidetic | 0.10% | ~126 |
 | Handled | 0.10% | ~126 |
@@ -80,13 +83,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Maître De La Lame | 0.10% | ~1 |
 | These Boots Are Made For Kickin' | 0.10% | ~1 |
 | No Mercy | 0.10% | ~1 |
-| Ploughshares to Swords | 0.10% | ~1 |
-| Friends 'Til the End | 0.10% | ~1 |
 | For Old Time' Sake | 0.10% | ~1 |
 | On This Long Road, We Found Redemption | 0.10% | ~1 |
-| The Clash | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,338 (Ranked 84)  
+Progressed: 126,342 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,20 +312,20 @@ Completed: 2 (0.00%) (Ranked 372)
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
-| 2023-12-12 | 126,338 | 2 |
+| 2023-12-12 | 126,342 | 2 |
 ## Awards
 Max (Character Customization): 7,622  (Ranked 52)  
-Sum: 20,137 (Ranked 59)  
+Sum: 20,161 (Ranked 59)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,622 |
 | This game has Diverse Characters | 1,656 |
 | This game has Challenging Combat | 1,553 |
-| This game is Highly Recommended | 1,481 |
+| This game is Highly Recommended | 1,494 |
 | This game has Amazing Characters | 1,430 |
 | This game is Extremely Fun | 1,424 |
-| This game has Amazing Storytelling | 1,347 |
+| This game has Amazing Storytelling | 1,358 |
 | This game has Quickly Understood Controls | 1,321 |
 | This game has Unique Visuals | 1,317 |
 | This game has a Creative Community | 986 |
@@ -652,4 +652,4 @@ Diff (max vs sum): -7
 | 2023-12-09 | 4.68 | - | 7,572 | 20,019 |
 | 2023-12-10 | 4.68 | - | 7,578 | 20,042 |
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
-| 2023-12-12 | 4.68 | - | 7,622 | 20,137 |
+| 2023-12-12 | 4.68 | - | 7,622 | 20,161 |

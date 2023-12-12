@@ -1,16 +1,16 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 390)  
+Rating: 4.61 (Ranked 389)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~728,441 |
-| The Blues | 85.00% | ~625,429 |
-| Fast | 66.00% | ~485,627 |
-| Healthbar | 55.00% | ~404,689 |
-| Force Cube | 53.00% | ~389,973 |
+| Out of bed | 99.00% | ~728,442 |
+| The Blues | 85.00% | ~625,430 |
+| Fast | 66.00% | ~485,628 |
+| Healthbar | 55.00% | ~404,690 |
+| Force Cube | 53.00% | ~389,974 |
 | Double Jump | 48.00% | ~353,184 |
 | Regeneration | 47.00% | ~345,826 |
 | Triple Jump | 43.00% | ~316,394 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~736 |
 | DLC: Top of the world | 0.10% | ~736 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,799 (Ranked 20)  
+Progressed: 735,800 (Ranked 20)  
 Completed: 769 (0.10%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 769 (0.10%) (Ranked 293)
 | 2023-12-09 | 735,537 | 768 |
 | 2023-12-10 | 735,683 | 769 |
 | 2023-12-11 | 735,777 | 769 |
-| 2023-12-12 | 735,799 | 769 |
+| 2023-12-12 | 735,800 | 769 |
 ## Awards
 Max (Challenging Puzzles): 7,743  (Ranked 50)  
 Sum: 10,104 (Ranked 92)  

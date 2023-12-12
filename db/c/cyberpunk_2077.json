@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 296,
+  "Ranking_Rating": 295,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 15,
@@ -16416,10 +16416,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 411615,
       "NumberOfAwardsMax": 121434
+    },
+    {
+      "Time": "2023-12-12T11:03:04.0610932+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 412071,
+      "NumberOfAwardsMax": 121434
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 411615,
+  "NumberOfAwards": 412071,
   "NumberOfAwardsMax": 121434,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16433,7 +16439,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 88245
+      "Count": 88701
     },
     {
       "Text": "This game has Diverse Characters",
@@ -16496,9 +16502,9 @@
       "Count": 15269
     }
   ],
-  "EOS_Progressed": 974851,
+  "EOS_Progressed": 974869,
   "EOS_Completed": 2889,
-  "EOS_NewPlayers": 4567,
+  "EOS_NewPlayers": 4553,
   "EOS_NewCompleters": 45,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -43356,6 +43362,11 @@
       "Time": "2023-12-12T10:06:45.1608501+00:00",
       "NumProgressed": 974851,
       "NumCompleted": 2889
+    },
+    {
+      "Time": "2023-12-12T11:05:35.1163259+00:00",
+      "NumProgressed": 974869,
+      "NumCompleted": 2889
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -43392,7 +43403,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38994
+      "UsersEstimate": 38995
     },
     {
       "ID": "Denied",
@@ -43440,7 +43451,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68240
+      "UsersEstimate": 68241
     },
     {
       "ID": "Gunslinger",
@@ -43544,7 +43555,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38994
+      "UsersEstimate": 38995
     },
     {
       "ID": "Specialist",
@@ -43584,7 +43595,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58491
+      "UsersEstimate": 58492
     },
     {
       "ID": "TheHermit",
@@ -43632,7 +43643,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38994
+      "UsersEstimate": 38995
     },
     {
       "ID": "TheWorld",
@@ -43664,7 +43675,7 @@
       "Name": "True Soldier",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 38994
+      "UsersEstimate": 38995
     },
     {
       "ID": "TrueWarrior",
@@ -43696,7 +43707,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116982
+      "UsersEstimate": 116984
     },
     {
       "ID": "YipMan",
@@ -43808,7 +43819,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "UltimateSurvivor",
@@ -43824,7 +43835,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "HydraIsDead",
@@ -43840,7 +43851,7 @@
       "Name": "Arachnophobia",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "KingOfTheCups",
@@ -43903,21 +43914,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 974851,
+      "Progressed": 974869,
       "Completed": 2889
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 103474,
+      "Progressed": 103492,
       "Completed": 10352
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-12T10:03:10.6547544+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:06:45.1608497+00:00",
+  "LastChanged": "2023-12-12T11:03:04.061093+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:05:35.1163251+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:22.348953+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:03:10.6547549+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:06:45.1609951+00:00"
+  "LastUpdate_Ratings": "2023-12-12T11:03:04.0610936+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:05:35.1164964+00:00"
 }

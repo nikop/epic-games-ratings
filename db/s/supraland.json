@@ -2,13 +2,13 @@
   "ID": "ae373893881044d2bf26d6f8363a120e",
   "Name": "Supraland",
   "ProductSlug": "supraland",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -3265,9 +3265,9 @@
       "Count": 196
     }
   ],
-  "EOS_Progressed": 735799,
+  "EOS_Progressed": 735800,
   "EOS_Completed": 769,
-  "EOS_NewPlayers": 712,
+  "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -29830,6 +29830,11 @@
       "Time": "2023-12-12T10:10:24.6081268+00:00",
       "NumProgressed": 735799,
       "NumCompleted": 769
+    },
+    {
+      "Time": "2023-12-12T11:09:33.2364662+00:00",
+      "NumProgressed": 735800,
+      "NumCompleted": 769
     }
   ],
   "TotalAchievements": 98,
@@ -30089,7 +30094,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 389973
+      "UsersEstimate": 389974
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -30201,7 +30206,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 404689
+      "UsersEstimate": 404690
     },
     {
       "ID": "Healthregen",
@@ -30353,7 +30358,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 728441
+      "UsersEstimate": 728442
     },
     {
       "ID": "PanicLights",
@@ -30473,7 +30478,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 485627
+      "UsersEstimate": 485628
     },
     {
       "ID": "Strong",
@@ -30513,7 +30518,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 625429
+      "UsersEstimate": 625430
     },
     {
       "ID": "ThroughPipe",
@@ -30624,15 +30629,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 735799,
+      "Progressed": 735800,
       "Completed": 769
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-12-10T19:02:35.9226413+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:10:24.6081263+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:09:33.2364658+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.2624045+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:03:05.2214255+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:10:24.6083018+00:00"
+  "LastUpdate_Ratings": "2023-12-12T11:02:59.9612717+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:09:33.2366865+00:00"
 }

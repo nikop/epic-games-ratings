@@ -2,12 +2,12 @@
   "ID": "71d19da3678943098859baa9c4c39f95",
   "Name": "A Plague Tale: Innocence",
   "ProductSlug": "a-plague-tale-innocence",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 257,
   "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 161,
   "Ranking_EOS_Progress": 791,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2019-05-14T15:00:00+00:00",
@@ -1571,6 +1571,6 @@
   "FirstSeen": "2022-07-22T20:22:00.8447799+00:00",
   "LastChanged": "2023-12-08T01:48:08.3596426+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:20.4773926+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:59:53.9254436+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:09:37.7315446+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:58:53.1757305+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:09:00.5031051+00:00"
 }

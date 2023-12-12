@@ -1,13 +1,13 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 452)  
+Rating: 4.58 (Ranked 451)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,258 |
-| Alt+F4 | 9.00% | ~21,814 |
+| Sowwy! | 36.00% | ~87,259 |
+| Alt+F4 | 9.00% | ~21,815 |
 | Where's that freaking Dwarf? | 8.00% | ~19,391 |
 | Déjà vu | 7.00% | ~16,967 |
 | A beer, two curses, three companions | 5.00% | ~12,119 |
@@ -16,11 +16,11 @@ Number of Ratings: 118  (23.09.2022)
 | Speedrun | 5.00% | ~12,119 |
 | DM intervention | 4.00% | ~9,695 |
 | Fireproof Wizardess | 4.00% | ~9,695 |
-| Livin' in a dwarven paradise | 3.00% | ~7,271 |
-| Way of the Wimp | 3.00% | ~7,271 |
-| The plot thickens... At the tavern | 3.00% | ~7,271 |
-| The demons' feast | 3.00% | ~7,271 |
-| The Woman in the High Castle | 3.00% | ~7,271 |
+| Livin' in a dwarven paradise | 3.00% | ~7,272 |
+| Way of the Wimp | 3.00% | ~7,272 |
+| The plot thickens... At the tavern | 3.00% | ~7,272 |
+| The demons' feast | 3.00% | ~7,272 |
+| The Woman in the High Castle | 3.00% | ~7,272 |
 | Shiny and Crôm | 2.00% | ~4,848 |
 | The Great Library | 2.00% | ~4,848 |
 | Torture and Sensibility | 2.00% | ~4,848 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,383 (Ranked 63)  
+Progressed: 242,386 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 7 (0.00%) (Ranked 372)
 | 2023-12-09 | 242,023 | 7 |
 | 2023-12-10 | 242,215 | 7 |
 | 2023-12-11 | 242,333 | 7 |
-| 2023-12-12 | 242,383 | 7 |
+| 2023-12-12 | 242,386 | 7 |
 ## Awards
 Max (Character Customization): 245  (Ranked 273)  
 Sum: 517 (Ranked 326)  

@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 280,
+  "Ranking_Rating": 278,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
@@ -2290,9 +2290,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 218752,
+  "EOS_Progressed": 218756,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1206,
+  "EOS_NewPlayers": 1201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -29355,6 +29355,11 @@
       "Time": "2023-12-12T10:06:29.8163223+00:00",
       "NumProgressed": 218752,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-12T11:05:24.2730465+00:00",
+      "NumProgressed": 218756,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -29366,7 +29371,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21875
+      "UsersEstimate": 21876
     },
     {
       "ID": "AtheistOx",
@@ -29438,7 +29443,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26250
+      "UsersEstimate": 26251
     },
     {
       "ID": "HappyLittleAccidents",
@@ -29654,7 +29659,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21875
+      "UsersEstimate": 21876
     },
     {
       "ID": "TimeParadox",
@@ -29717,15 +29722,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 218752,
+      "Progressed": 218756,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-12T09:00:42.9288145+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:06:29.8163218+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:05:24.2730462+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.0401263+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:01:02.7837955+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:06:29.8164473+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:59:38.6909019+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:05:24.2732189+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.50 (Ranked 599)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,545 |
-| For Saw Gerrera | 98.00% | ~9,448 |
-| Grab Some Seat | 92.00% | ~8,870 |
-| Can You Pet the Bogling? | 87.00% | ~8,388 |
-| The Past Made Present | 84.00% | ~8,098 |
-| Survivors, We Adapt | 80.00% | ~7,713 |
-| They Never Saw It Coming | 78.00% | ~7,520 |
-| Among the Masters | 78.00% | ~7,520 |
-| Who Gives a Puck | 74.00% | ~7,134 |
-| For the Path | 67.00% | ~6,459 |
+| Rooftop Duel | 99.00% | ~9,546 |
+| For Saw Gerrera | 98.00% | ~9,449 |
+| Grab Some Seat | 92.00% | ~8,871 |
+| Can You Pet the Bogling? | 87.00% | ~8,389 |
+| The Past Made Present | 84.00% | ~8,099 |
+| Survivors, We Adapt | 80.00% | ~7,714 |
+| They Never Saw It Coming | 78.00% | ~7,521 |
+| Among the Masters | 78.00% | ~7,521 |
+| Who Gives a Puck | 74.00% | ~7,135 |
+| For the Path | 67.00% | ~6,460 |
 | Now, This Isn't Podracing | 65.00% | ~6,267 |
-| Mirror Match | 64.00% | ~6,170 |
+| Mirror Match | 64.00% | ~6,171 |
 | Skywalker | 63.00% | ~6,074 |
 | Out of Bedlam | 63.00% | ~6,074 |
 | Cleaning Up | 55.00% | ~5,303 |
@@ -24,19 +24,19 @@ Rating: 4.50 (Ranked 599)
 | Tragedy | 53.00% | ~5,110 |
 | Kitted Out | 53.00% | ~5,110 |
 | At the Precipice | 51.00% | ~4,917 |
-| Hey, Luke At Us | 50.00% | ~4,820 |
-| Into the Abyss | 49.00% | ~4,724 |
-| A Place You Could Call Home | 47.00% | ~4,531 |
-| Riposte | 47.00% | ~4,531 |
-| Greezy Money | 45.00% | ~4,338 |
-| Catch! | 42.00% | ~4,049 |
-| They're Probably Fine | 40.00% | ~3,856 |
+| Hey, Luke At Us | 50.00% | ~4,821 |
+| Into the Abyss | 49.00% | ~4,725 |
+| A Place You Could Call Home | 47.00% | ~4,532 |
+| Riposte | 47.00% | ~4,532 |
+| Greezy Money | 45.00% | ~4,339 |
+| Catch! | 42.00% | ~4,050 |
+| They're Probably Fine | 40.00% | ~3,857 |
 | Han Slowlo | 39.00% | ~3,760 |
 | There Is No Try | 39.00% | ~3,760 |
 | The Jedi Path | 33.00% | ~3,182 |
-| This Is Canon | 30.00% | ~2,892 |
+| This Is Canon | 30.00% | ~2,893 |
 | It's a Trap | 27.00% | ~2,603 |
-| You've Got A Friend | 23.00% | ~2,217 |
+| You've Got A Friend | 23.00% | ~2,218 |
 | King of the World | 17.00% | ~1,639 |
 | Max Capacity | 15.00% | ~1,446 |
 | A Presence I've Not Felt Since... | 15.00% | ~1,446 |
@@ -49,8 +49,8 @@ Rating: 4.50 (Ranked 599)
 | I'm a Living Legend | 7.00% | ~675 |
 | Perk of the Job | 7.00% | ~675 |
 | Skoova Diving | 7.00% | ~675 |
-| Get Down From There | 6.00% | ~578 |
-| Road House | 6.00% | ~578 |
+| Get Down From There | 6.00% | ~579 |
+| Road House | 6.00% | ~579 |
 | Intergalactic Geographic | 5.00% | ~482 |
 | Blood, Sweat, and Tears | 4.00% | ~386 |
 | So Uncivilized | 3.00% | ~289 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 599)
 | Splurgle | 3.00% | ~289 |
 | Pinpoint | 2.00% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,641 (Ranked 169)  
+Progressed: 9,642 (Ranked 169)  
 Completed: 57 (0.59%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 57 (0.59%) (Ranked 198)
 | 2023-12-09 | 9,519 | 57 |
 | 2023-12-10 | 9,581 | 57 |
 | 2023-12-11 | 9,626 | 57 |
-| 2023-12-12 | 9,641 | 57 |
+| 2023-12-12 | 9,642 | 57 |
 ## Awards
 Max (Great Boss Battles): 3,449  (Ranked 92)  
 Sum: 5,386 (Ranked 136)  

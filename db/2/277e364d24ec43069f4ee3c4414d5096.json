@@ -2,7 +2,7 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 421,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 85,
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116457,
+  "EOS_Progressed": 116460,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20984,6 +20984,11 @@
       "Time": "2023-12-12T10:10:23.9756049+00:00",
       "NumProgressed": 116457,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-12T11:09:32.7217237+00:00",
+      "NumProgressed": 116460,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -21003,7 +21008,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89672
+      "UsersEstimate": 89674
     },
     {
       "ID": "EAwards_10",
@@ -21019,7 +21024,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30279
+      "UsersEstimate": 30280
     },
     {
       "ID": "EAwards_12",
@@ -21067,7 +21072,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43089
+      "UsersEstimate": 43090
     },
     {
       "ID": "EAwards_18",
@@ -21083,7 +21088,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6987
+      "UsersEstimate": 6988
     },
     {
       "ID": "EAwards_2",
@@ -21091,7 +21096,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55899
+      "UsersEstimate": 55901
     },
     {
       "ID": "EAwards_20",
@@ -21099,7 +21104,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12810
+      "UsersEstimate": 12811
     },
     {
       "ID": "EAwards_21",
@@ -21115,7 +21120,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6987
+      "UsersEstimate": 6988
     },
     {
       "ID": "EAwards_23",
@@ -21147,7 +21152,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12810
+      "UsersEstimate": 12811
     },
     {
       "ID": "EAwards_27",
@@ -21179,7 +21184,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23291
+      "UsersEstimate": 23292
     },
     {
       "ID": "EAwards_30",
@@ -21195,7 +21200,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12810
+      "UsersEstimate": 12811
     },
     {
       "ID": "EAwards_32",
@@ -21267,7 +21272,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15139
+      "UsersEstimate": 15140
     },
     {
       "ID": "EAwards_40",
@@ -21379,14 +21384,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12810
+      "UsersEstimate": 12811
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116457,
+      "Progressed": 116460,
       "Completed": 51
     }
   ],
@@ -21394,8 +21399,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:10:23.9756044+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:09:32.7217224+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.236213+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:02:37.828622+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:10:23.975706+00:00"
+  "LastUpdate_Ratings": "2023-12-12T11:02:41.0195697+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:09:32.7218625+00:00"
 }

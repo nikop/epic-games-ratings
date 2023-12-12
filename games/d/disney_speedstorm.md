@@ -5,15 +5,15 @@ Rating: 4.39 (Ranked 757)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~40,202 |
-| IT MAKES BOOM! | 7.00% | ~23,451 |
-| EXTRA BOOST | 6.00% | ~20,101 |
+| ROOKIE | 12.00% | ~40,204 |
+| IT MAKES BOOM! | 7.00% | ~23,452 |
+| EXTRA BOOST | 6.00% | ~20,102 |
 | PROTECTED | 4.00% | ~13,401 |
 | PRO | 4.00% | ~13,401 |
 | HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,051 |
 | AGGRESSIVE RACER | 3.00% | ~10,051 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,700 |
-| A TIGER'S FEAR | 2.00% | ~6,700 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,701 |
+| A TIGER'S FEAR | 2.00% | ~6,701 |
 | TRAINING HARD | 1.00% | ~3,350 |
 | RELEASE THE KRAKEN | 1.00% | ~3,350 |
 | BE OUR GUEST | 1.00% | ~3,350 |
@@ -30,8 +30,8 @@ Rating: 4.39 (Ranked 757)
 | ACE TRICKSTER | 0.40% | ~1,340 |
 | PERFECTLY POISED | 0.30% | ~1,005 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335,020 (Ranked 50)  
-Completed: 554 (0.17%) (Ranked 270)  
+Progressed: 335,033 (Ranked 50)  
+Completed: 555 (0.17%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -262,10 +262,10 @@ Completed: 554 (0.17%) (Ranked 270)
 | 2023-12-09 | 332,745 | 532 |
 | 2023-12-10 | 333,976 | 537 |
 | 2023-12-11 | 334,723 | 548 |
-| 2023-12-12 | 335,020 | 554 |
+| 2023-12-12 | 335,033 | 555 |
 ## Awards
 Max (Great for Beginners): 122  (Ranked 344)  
-Sum: 844 (Ranked 279)  
+Sum: 845 (Ranked 279)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
@@ -275,7 +275,7 @@ Diff (max vs sum): 65
 | This game has a Competitive Community | 74 |
 | This game has Amazing Characters | 69 |
 | This game has Playful Visuals | 62 |
-| This game is Highly Recommended | 58 |
+| This game is Highly Recommended | 59 |
 | This game is Extremely Fun | 57 |
 | This game has Competitive Players | 55 |
 | This game has Quickly Understood Controls | 50 |
@@ -356,4 +356,4 @@ Diff (max vs sum): 65
 | 2023-12-09 | 4.39 | 117 | 816 |
 | 2023-12-10 | 4.39 | 119 | 826 |
 | 2023-12-11 | 4.39 | 122 | 840 |
-| 2023-12-12 | 4.39 | 122 | 844 |
+| 2023-12-12 | 4.39 | 122 | 845 |

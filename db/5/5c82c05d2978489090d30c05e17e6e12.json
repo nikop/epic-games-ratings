@@ -6,7 +6,7 @@
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 105,
-  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 36,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66149,
+  "EOS_Progressed": 66156,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 2657,
+  "EOS_NewPlayers": 2649,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3260,6 +3260,11 @@
       "Time": "2023-12-12T10:04:10.9006178+00:00",
       "NumProgressed": 66149,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-12-12T11:03:46.3828521+00:00",
+      "NumProgressed": 66156,
+      "NumCompleted": 74
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -3272,7 +3277,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24475
+      "UsersEstimate": 24478
     },
     {
       "ID": "Achievement_10",
@@ -3304,7 +3309,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "Achievement_14",
@@ -3328,7 +3333,7 @@
       "Name": "Diligent Hogbunny",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "Achievement_17",
@@ -3360,7 +3365,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17860
+      "UsersEstimate": 17862
     },
     {
       "ID": "Achievement_20",
@@ -3448,7 +3453,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7938
+      "UsersEstimate": 7939
     },
     {
       "ID": "Achievement_30",
@@ -3472,7 +3477,7 @@
       "Name": "Art Director",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "Achievement_33",
@@ -3520,7 +3525,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "Achievement_8",
@@ -3536,14 +3541,14 @@
       "Name": "Shielded by L\u00FFs",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     }
   ],
   "AchievementSets": [
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 66149,
+      "Progressed": 66156,
       "Completed": 74
     }
   ],
@@ -3551,8 +3556,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-11T15:03:31.6017439+00:00",
-  "LastChanged_Achievements": "2023-12-12T10:04:10.9006172+00:00",
+  "LastChanged_Achievements": "2023-12-12T11:03:46.3828517+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-12T10:03:09.7227124+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:04:10.9006515+00:00"
+  "LastUpdate_Ratings": "2023-12-12T11:03:03.412546+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:03:46.3828868+00:00"
 }

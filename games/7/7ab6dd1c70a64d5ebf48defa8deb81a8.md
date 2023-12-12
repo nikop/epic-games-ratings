@@ -19,9 +19,9 @@
 | Stone Collection | 10.00% | ~26 |
 | Big Bazar | 9.00% | ~24 |
 | Fashion Victim | 9.00% | ~24 |
+| The Mentor | 8.00% | ~21 |
 | Essence Blow | 8.00% | ~21 |
 | Calm before the Storm | 7.00% | ~18 |
-| The Mentor | 7.00% | ~18 |
 | To Battle | 6.00% | ~16 |
 | Godslayer | 6.00% | ~16 |
 | Alchemist | 6.00% | ~16 |
@@ -30,14 +30,14 @@
 | Airborne | 4.00% | ~11 |
 | Shatterer | 4.00% | ~11 |
 | Miner | 4.00% | ~11 |
+| Slayer | 3.00% | ~8 |
 | All There Is | 3.00% | ~8 |
 | A Queen's Tale | 3.00% | ~8 |
-| Slayer | 2.00% | ~5 |
+| Forgemaster | 2.00% | ~5 |
 | Flawless Victory | 2.00% | ~5 |
 | False God | 2.00% | ~5 |
 | All That Gold | 2.00% | ~5 |
 | Summiter | 2.00% | ~5 |
-| Forgemaster | 1.00% | ~3 |
 | Shardbearer | 1.00% | ~3 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

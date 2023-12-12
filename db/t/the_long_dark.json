@@ -2,12 +2,12 @@
   "ID": "58dfcd1952ee48c1a1fa31c6ace5fe3d",
   "Name": "The Long Dark",
   "ProductSlug": "the-long-dark",
-  "Ranking_Rating": 162,
+  "Ranking_Rating": 161,
   "Ranking_Popularity": 166,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 791,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-12-19T16:00:00+00:00",
@@ -5480,6 +5480,6 @@
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
   "LastChanged": "2023-12-12T07:57:41.0004645+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.5860728+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:57:48.13638+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:04:58.7299275+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:57:31.7717234+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:04:20.1255933+00:00"
 }

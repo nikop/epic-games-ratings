@@ -1,29 +1,29 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 198)  
+Rating: 4.71 (Ranked 197)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,892 |
-| Cavalier | 25.00% | ~203,041 |
-| Fatso | 23.00% | ~186,797 |
-| Awakening | 21.00% | ~170,554 |
-| Ranger | 20.00% | ~162,433 |
-| Scrooge | 20.00% | ~162,433 |
-| Anorectic | 16.00% | ~129,946 |
-| Firestarter | 16.00% | ~129,946 |
-| Bookworm | 15.00% | ~121,824 |
-| Insomniac | 13.00% | ~105,581 |
+| Blacksmith's Son | 32.00% | ~259,894 |
+| Cavalier | 25.00% | ~203,042 |
+| Fatso | 23.00% | ~186,799 |
+| Awakening | 21.00% | ~170,555 |
+| Ranger | 20.00% | ~162,434 |
+| Scrooge | 20.00% | ~162,434 |
+| Anorectic | 16.00% | ~129,947 |
+| Firestarter | 16.00% | ~129,947 |
+| Bookworm | 15.00% | ~121,825 |
+| Insomniac | 13.00% | ~105,582 |
 | Buddy | 12.00% | ~97,460 |
 | Thief | 12.00% | ~97,460 |
 | Sinner | 11.00% | ~89,338 |
 | Traveller | 11.00% | ~89,338 |
-| Convict | 10.00% | ~81,216 |
+| Convict | 10.00% | ~81,217 |
 | Haggler | 9.00% | ~73,095 |
-| McLovin | 7.00% | ~56,851 |
-| Runt | 7.00% | ~56,851 |
+| McLovin | 7.00% | ~56,852 |
+| Runt | 7.00% | ~56,852 |
 | Casanova | 6.00% | ~48,730 |
 | Bad Trip | 5.00% | ~40,608 |
 | Monk | 5.00% | ~40,608 |
@@ -51,8 +51,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~8,122 |
 | Master Huntsman | 1.00% | ~8,122 |
 | Stealth Killer | 1.00% | ~8,122 |
-| Bailiff | 0.90% | ~7,309 |
-| Tracker | 0.90% | ~7,309 |
+| Bailiff | 0.90% | ~7,310 |
+| Tracker | 0.90% | ~7,310 |
 | David Horak | 0.80% | ~6,497 |
 | Fighter | 0.70% | ~5,685 |
 | Mercenary's Honour | 0.70% | ~5,685 |
@@ -60,8 +60,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Edward Kelly | 0.60% | ~4,873 |
 | I Can Quit Anytime | 0.50% | ~4,061 |
 | Perfectionist | 0.50% | ~4,061 |
-| Alcoholic | 0.30% | ~2,436 |
-| Sniper | 0.30% | ~2,436 |
+| Alcoholic | 0.30% | ~2,437 |
+| Sniper | 0.30% | ~2,437 |
 | Angel of Mercy | 0.20% | ~1,624 |
 | Christian Burial | 0.20% | ~1,624 |
 | Friends without benefits | 0.20% | ~1,624 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~812 |
 | Wingman | 0.10% | ~812 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 812,163 (Ranked 17)  
+Progressed: 812,168 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,10 +325,10 @@ Completed: 52 (0.01%) (Ranked 349)
 | 2023-12-09 | 811,832 | 52 |
 | 2023-12-10 | 812,001 | 52 |
 | 2023-12-11 | 812,130 | 52 |
-| 2023-12-12 | 812,163 | 52 |
+| 2023-12-12 | 812,168 | 52 |
 ## Awards
 Max (Character Customization): 7,664  (Ranked 51)  
-Sum: 28,471 (Ranked 50)  
+Sum: 28,472 (Ranked 50)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -336,7 +336,7 @@ Diff (max vs sum): 1
 | This game has Great Boss Battles | 5,611 |
 | This game has Challenging Combat | 1,785 |
 | This game has Diverse Characters | 1,747 |
-| This game has Amazing Storytelling | 1,734 |
+| This game has Amazing Storytelling | 1,735 |
 | This game is Highly Recommended | 1,707 |
 | This game is Extremely Fun | 1,700 |
 | This game has Amazing Characters | 1,679 |
@@ -666,3 +666,4 @@ Diff (max vs sum): 1
 | 2023-12-09 | 4.71 | - | 7,659 | 28,455 |
 | 2023-12-10 | 4.71 | - | 7,662 | 28,467 |
 | 2023-12-11 | 4.71 | - | 7,664 | 28,471 |
+| 2023-12-12 | 4.71 | - | 7,664 | 28,472 |

@@ -2,12 +2,12 @@
   "ID": "109273d8719f46b9b89cb912a6649e5c",
   "Name": "GoNNER",
   "ProductSlug": "gonner",
-  "Ranking_Rating": 173,
+  "Ranking_Rating": 172,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 791,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-02-27T16:00:00+00:00",
@@ -65,6 +65,6 @@
   "FirstSeenRating": "2023-03-31T05:57:55.2756017+00:00",
   "LastChanged": "2023-11-15T02:58:19.3648107+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:20.7139036+00:00",
-  "LastUpdate_Ratings": "2023-12-12T09:58:07.9337908+00:00",
-  "LastUpdate_Achievements": "2023-12-12T10:04:00.727916+00:00"
+  "LastUpdate_Ratings": "2023-12-12T10:57:44.0523466+00:00",
+  "LastUpdate_Achievements": "2023-12-12T11:03:39.0105387+00:00"
 }
