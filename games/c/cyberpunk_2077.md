@@ -8,7 +8,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | V for Vendetta | 12.00% | ~116,969 |
 | Gun Fu | 7.00% | ~68,232 |
-| The Fool | 6.00% | ~58,484 |
+| The Fool | 6.00% | ~58,485 |
 | Right Back At Ya | 5.00% | ~48,737 |
 | The Lovers | 5.00% | ~48,737 |
 | Full Body Conversion | 4.00% | ~38,990 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974,740 (Ranked 15)  
+Progressed: 974,744 (Ranked 15)  
 Completed: 2,886 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 2,886 (0.30%) (Ranked 240)
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
-| 2023-12-12 | 974,740 | 2,886 |
+| 2023-12-12 | 974,744 | 2,886 |
 ## Awards
 Max (Character Customization): 121,434  (Ranked 9)  
 Sum: 411,438 (Ranked 9)  

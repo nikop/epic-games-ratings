@@ -1797,9 +1797,9 @@
       "ID": "achievement_12",
       "SetID": "2cpn27e",
       "Name": "Canyon of Karakuri",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_13",
@@ -2163,8 +2163,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-12T02:32:40.2601213+00:00",
+  "LastChanged_Achievements": "2023-12-12T03:09:19.661327+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:59.7578969+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:24:00.9507914+00:00",
-  "LastUpdate_Achievements": "2023-12-12T02:32:40.2601571+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:01:15.9453142+00:00",
+  "LastUpdate_Achievements": "2023-12-12T03:09:19.6613686+00:00"
 }

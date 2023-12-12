@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16977,
+  "EOS_Progressed": 16978,
   "EOS_Completed": 117,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 1,
@@ -15898,6 +15898,11 @@
       "Time": "2023-12-12T01:53:12.4234819+00:00",
       "NumProgressed": 16977,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-12T03:05:51.7726026+00:00",
+      "NumProgressed": 16978,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 41,
@@ -15949,7 +15954,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5602
+      "UsersEstimate": 5603
     },
     {
       "ID": "tpote_achievement_15",
@@ -15997,7 +16002,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5602
+      "UsersEstimate": 5603
     },
     {
       "ID": "tpote_achievement_20",
@@ -16013,7 +16018,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4923
+      "UsersEstimate": 4924
     },
     {
       "ID": "tpote_achievement_22",
@@ -16021,7 +16026,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3395
+      "UsersEstimate": 3396
     },
     {
       "ID": "tpote_achievement_23",
@@ -16197,7 +16202,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4074
+      "UsersEstimate": 4075
     },
     {
       "ID": "tpote_achievement_6",
@@ -16229,22 +16234,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5772
+      "UsersEstimate": 5773
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16977,
+      "Progressed": 16978,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-12T02:28:55.5639215+00:00",
+  "LastChanged_Achievements": "2023-12-12T03:05:51.7726023+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.5508408+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:23:04.5118044+00:00",
-  "LastUpdate_Achievements": "2023-12-12T02:28:55.5640256+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:59:52.5958061+00:00",
+  "LastUpdate_Achievements": "2023-12-12T03:05:51.7727123+00:00"
 }

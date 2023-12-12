@@ -37,8 +37,8 @@
 | Unrivaled in Arms | 27.00% | ~103 |
 | Left Arm Leverager | 26.00% | ~99 |
 | Style Seeker | 26.00% | ~99 |
+| Canyon of Karakuri | 25.00% | ~95 |
 | Karakuri Minato | 25.00% | ~95 |
-| Canyon of Karakuri | 24.00% | ~91 |
 | Threaded Harmony | 24.00% | ~91 |
 | Quintessence of Form | 22.00% | ~84 |
 | Karakuri Fortress | 20.00% | ~76 |

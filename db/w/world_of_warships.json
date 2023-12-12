@@ -11899,10 +11899,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 13265,
       "NumberOfAwardsMax": 1585
+    },
+    {
+      "Time": "2023-12-12T03:02:39.8517414+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 13268,
+      "NumberOfAwardsMax": 1585
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13265,
+  "NumberOfAwards": 13268,
   "NumberOfAwardsMax": 1585,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -11910,7 +11916,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1560
+      "Count": 1563
     },
     {
       "Text": "This game has Competitive Players",
@@ -11967,9 +11973,9 @@
       "Count": 1584
     }
   ],
-  "EOS_Progressed": 65567,
+  "EOS_Progressed": 65578,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3314,
+  "EOS_NewPlayers": 3318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25787,6 +25793,11 @@
       "Time": "2023-12-12T02:28:21.5262319+00:00",
       "NumProgressed": 65567,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T03:05:06.6270224+00:00",
+      "NumProgressed": 65578,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-18T08:07:13.1799428+00:00",
@@ -25799,7 +25810,7 @@
       "Name": "Battle Hero",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 9835
+      "UsersEstimate": 9837
     },
     {
       "ID": "PCH026",
@@ -25823,7 +25834,7 @@
       "Name": "Amateur",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 19670
+      "UsersEstimate": 19673
     },
     {
       "ID": "PCH029",
@@ -25831,7 +25842,7 @@
       "Name": "Warrior",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7868
+      "UsersEstimate": 7869
     },
     {
       "ID": "PCH030",
@@ -25847,7 +25858,7 @@
       "Name": "Initial Capital",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 42619
+      "UsersEstimate": 42626
     },
     {
       "ID": "PCH032",
@@ -25855,7 +25866,7 @@
       "Name": "Moneybags",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 28194
+      "UsersEstimate": 28199
     },
     {
       "ID": "PCH033",
@@ -25863,7 +25874,7 @@
       "Name": "Business Magnate",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 10491
+      "UsersEstimate": 10492
     },
     {
       "ID": "PCH034",
@@ -25871,7 +25882,7 @@
       "Name": "Naval Warfare. Arson",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 21637
+      "UsersEstimate": 21641
     },
     {
       "ID": "PCH035",
@@ -25879,7 +25890,7 @@
       "Name": "Naval Warfare. Flooding",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 11802
+      "UsersEstimate": 11804
     },
     {
       "ID": "PCH036",
@@ -25887,7 +25898,7 @@
       "Name": "Naval Warfare. Ramming",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 20981
+      "UsersEstimate": 20985
     },
     {
       "ID": "PCH037",
@@ -25895,7 +25906,7 @@
       "Name": "Naval Warfare. Lucky Shot",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 12458
+      "UsersEstimate": 12460
     },
     {
       "ID": "PCH038",
@@ -25903,7 +25914,7 @@
       "Name": "Naval Warfare. Tactics",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 19670
+      "UsersEstimate": 19673
     },
     {
       "ID": "PCH039",
@@ -25911,7 +25922,7 @@
       "Name": "Naval Warfare. Weaponry Basics",
       "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 14425
+      "UsersEstimate": 14427
     },
     {
       "ID": "PCH044",
@@ -25919,7 +25930,7 @@
       "Name": "Junior Naval Designer",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 51798
+      "UsersEstimate": 51807
     },
     {
       "ID": "PCH045",
@@ -25927,7 +25938,7 @@
       "Name": "Naval Constructor",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19014
+      "UsersEstimate": 19018
     },
     {
       "ID": "PCH046",
@@ -25943,7 +25954,7 @@
       "Name": "Junior Supply Officer",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 28194
+      "UsersEstimate": 28199
     },
     {
       "ID": "PCH065",
@@ -25951,7 +25962,7 @@
       "Name": "Supply Officer",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7868
+      "UsersEstimate": 7869
     },
     {
       "ID": "PCH066",
@@ -25959,7 +25970,7 @@
       "Name": "Senior Supply Officer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "PCH067",
@@ -25967,7 +25978,7 @@
       "Name": "Smooth Supply",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 7868
+      "UsersEstimate": 7869
     },
     {
       "ID": "PCH070",
@@ -26007,7 +26018,7 @@
       "Name": "Weather Beaten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "PCH099",
@@ -26063,7 +26074,7 @@
       "Name": "Guardian",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "PCH109",
@@ -26150,15 +26161,15 @@
     {
       "ID": "4pi10fc",
       "IsBase": true,
-      "Progressed": 65567,
+      "Progressed": 65578,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "FirstSeenAchievements": "2023-08-17T14:05:57.9480502+00:00",
-  "LastChanged": "2023-12-11T23:00:00.803476+00:00",
-  "LastChanged_Achievements": "2023-12-12T02:28:21.5262313+00:00",
+  "LastChanged": "2023-12-12T03:02:39.8517411+00:00",
+  "LastChanged_Achievements": "2023-12-12T03:05:06.6270223+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:15.324595+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:24:24.2876341+00:00",
-  "LastUpdate_Achievements": "2023-12-12T02:28:21.5263312+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:02:39.8517418+00:00",
+  "LastUpdate_Achievements": "2023-12-12T03:05:06.6270935+00:00"
 }

@@ -469,9 +469,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43560,
+  "EOS_Progressed": 43561,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14809,6 +14809,11 @@
       "Time": "2023-12-12T02:30:48.1295768+00:00",
       "NumProgressed": 43560,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-12T03:08:51.4565837+00:00",
+      "NumProgressed": 43561,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -14834,9 +14839,9 @@
       "ID": "CAMP",
       "SetID": "6d0g7k8",
       "Name": "Outdoorsperson",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 871
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -15243,22 +15248,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43560,
+      "Progressed": 43561,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8397,
-      "Completed": 8397
+      "Progressed": 8398,
+      "Completed": 8398
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-09T13:58:58.5190883+00:00",
-  "LastChanged_Achievements": "2023-12-12T02:30:48.1295766+00:00",
+  "LastChanged_Achievements": "2023-12-12T03:08:51.4565835+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:12.2339808+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:23:52.8497611+00:00",
-  "LastUpdate_Achievements": "2023-12-12T02:30:48.1296647+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:01:04.0231351+00:00",
+  "LastUpdate_Achievements": "2023-12-12T03:08:51.4566622+00:00"
 }

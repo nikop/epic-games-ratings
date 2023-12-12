@@ -5848,9 +5848,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 718256,
+  "EOS_Progressed": 718257,
   "EOS_Completed": 6532,
-  "EOS_NewPlayers": 806,
+  "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -31473,6 +31473,11 @@
       "Time": "2023-12-12T01:57:57.2267145+00:00",
       "NumProgressed": 718256,
       "NumCompleted": 6532
+    },
+    {
+      "Time": "2023-12-12T03:10:32.1127092+00:00",
+      "NumProgressed": 718257,
+      "NumCompleted": 6532
     }
   ],
   "TotalAchievements": 49,
@@ -31484,7 +31489,7 @@
       "Name": "Back to Work",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 272937
+      "UsersEstimate": 272938
     },
     {
       "ID": "AchAresKills",
@@ -31492,7 +31497,7 @@
       "Name": "War-God\u0027s Bloodlust",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 107738
+      "UsersEstimate": 107739
     },
     {
       "ID": "AchBeatCharon",
@@ -31500,7 +31505,7 @@
       "Name": "To Charon\u0027s Credit",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 158016
+      "UsersEstimate": 158017
     },
     {
       "ID": "AchBronzeSkellyTrophy",
@@ -31540,7 +31545,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 373493
+      "UsersEstimate": 373494
     },
     {
       "ID": "AchClearAsphodel",
@@ -31548,7 +31553,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 567422
+      "UsersEstimate": 567423
     },
     {
       "ID": "AchClearElysium",
@@ -31556,7 +31561,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 474049
+      "UsersEstimate": 474050
     },
     {
       "ID": "AchClearElysiumEM",
@@ -31588,7 +31593,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 632065
+      "UsersEstimate": 632066
     },
     {
       "ID": "AchCrushedThanatos",
@@ -31596,7 +31601,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 323215
+      "UsersEstimate": 323216
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -31644,7 +31649,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 158016
+      "UsersEstimate": 158017
     },
     {
       "ID": "AchGreaterCall",
@@ -31732,7 +31737,7 @@
       "Name": "Divided by Death",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 57460
+      "UsersEstimate": 57461
     },
     {
       "ID": "AchNyxChaosReunion",
@@ -31756,7 +31761,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 258572
+      "UsersEstimate": 258573
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -31844,7 +31849,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 502779
+      "UsersEstimate": 502780
     },
     {
       "ID": "AchWeaponClears",
@@ -31860,7 +31865,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 287302
+      "UsersEstimate": 287303
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -31875,15 +31880,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 718256,
+      "Progressed": 718257,
       "Completed": 6532
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-12-11T23:57:13.633983+00:00",
-  "LastChanged_Achievements": "2023-12-12T02:33:34.7732545+00:00",
+  "LastChanged_Achievements": "2023-12-12T03:10:32.1127089+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:36.6248453+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:21:29.4148459+00:00",
-  "LastUpdate_Achievements": "2023-12-12T02:33:34.773398+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:57:38.1043619+00:00",
+  "LastUpdate_Achievements": "2023-12-12T03:10:32.112853+00:00"
 }

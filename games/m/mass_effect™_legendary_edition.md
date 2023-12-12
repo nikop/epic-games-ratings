@@ -82,10 +82,10 @@
 | First Aid Specialist | 26.00% | ~410 |
 | Pathfinder | 26.00% | ~410 |
 | Tunnel Rat | 26.00% | ~410 |
+| Savior | 25.00% | ~394 |
 | Weapon Specialist | 25.00% | ~394 |
 | Arbiter | 25.00% | ~394 |
 | Lost and Found | 25.00% | ~394 |
-| Savior | 24.00% | ~378 |
 | Party Crasher | 23.00% | ~362 |
 | Paramour II | 22.00% | ~347 |
 | Hard Target | 22.00% | ~347 |

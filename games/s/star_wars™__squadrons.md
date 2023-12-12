@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~27,233 |
-| Safety in the Storm | 24.00% | ~6,880 |
-| A Better Idea | 24.00% | ~6,880 |
-| Begin the Ceremony | 20.00% | ~5,733 |
+| Fracture at Fostar Haven | 95.00% | ~27,236 |
+| Safety in the Storm | 24.00% | ~6,881 |
+| A Better Idea | 24.00% | ~6,881 |
+| Begin the Ceremony | 20.00% | ~5,734 |
 | Mission Accomplished | 19.00% | ~5,447 |
 | The Galaxy's Finest (Story Mode) | 15.00% | ~4,300 |
 | Asset Secured | 13.00% | ~3,727 |
 | A Starfighter of Your Own | 13.00% | ~3,727 |
-| Unkillable | 8.00% | ~2,293 |
+| Unkillable | 8.00% | ~2,294 |
 | Together, Vanguard | 7.00% | ~2,007 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~1,720 |
 | Sound Strategy | 6.00% | ~1,720 |
@@ -45,14 +45,14 @@
 | The Trap is Set | 0.30% | ~86 |
 | Across the Stars | 0.30% | ~86 |
 | Stay on Target | 0.20% | ~57 |
-| Shallow Grave | 0.20% | ~57 |
 | Ultimate Weapon | 0.20% | ~57 |
 | I Know a Few Maneuvers | 0.10% | ~29 |
 | Trigger Happy | 0.10% | ~29 |
+| Shallow Grave | 0.10% | ~29 |
 | Fully Decorated | 0.10% | ~29 |
 | The Galaxy's Finest (Ace) | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,666 (Ranked 129)  
+Progressed: 28,669 (Ranked 129)  
 Completed: 2 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 2 (0.01%) (Ranked 348)
 | 2023-12-09 | 28,073 | 2 |
 | 2023-12-10 | 28,415 | 2 |
 | 2023-12-11 | 28,645 | 2 |
-| 2023-12-12 | 28,666 | 2 |
+| 2023-12-12 | 28,669 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

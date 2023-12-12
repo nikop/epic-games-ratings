@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -4769,9 +4769,9 @@
       "ID": "achievement_114",
       "SetID": "d252ncf",
       "Name": "Savior",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 378
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_115",
@@ -5661,8 +5661,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-12T02:33:28.771852+00:00",
+  "LastChanged_Achievements": "2023-12-12T03:10:24.0940886+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.2992366+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:27:14.5488409+00:00",
-  "LastUpdate_Achievements": "2023-12-12T02:33:28.7720088+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:03:34.0529117+00:00",
+  "LastUpdate_Achievements": "2023-12-12T03:10:24.0942376+00:00"
 }

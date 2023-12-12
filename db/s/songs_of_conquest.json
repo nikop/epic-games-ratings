@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 422,
+  "EOS_Progressed": 423,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1803,6 +1803,11 @@
       "Time": "2023-12-12T02:30:20.1903496+00:00",
       "NumProgressed": 422,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T03:07:44.2296395+00:00",
+      "NumProgressed": 423,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1839,7 +1844,7 @@
       "Name": "Dressed For Success",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "AttackCount",
@@ -2143,7 +2148,7 @@
       "Name": "Adept",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "WielderLevel2",
@@ -2246,15 +2251,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 422,
+      "Progressed": 423,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-12T02:30:20.1903492+00:00",
+  "LastChanged_Achievements": "2023-12-12T03:07:44.2296392+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:21:33.6329779+00:00",
-  "LastUpdate_Achievements": "2023-12-12T02:30:20.1903889+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:57:44.0193353+00:00",
+  "LastUpdate_Achievements": "2023-12-12T03:07:44.2296861+00:00"
 }

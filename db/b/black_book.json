@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 59479,
+  "EOS_Progressed": 59481,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1448,
+  "EOS_NewPlayers": 1447,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12893,6 +12893,11 @@
       "Time": "2023-12-12T02:28:06.036358+00:00",
       "NumProgressed": 59479,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-12T03:04:46.2967929+00:00",
+      "NumProgressed": 59481,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -13017,7 +13022,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 13085
+      "UsersEstimate": 13086
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -13105,7 +13110,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 16654
+      "UsersEstimate": 16655
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -13153,7 +13158,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7137
+      "UsersEstimate": 7138
     },
     {
       "ID": "NORMAL_END",
@@ -13304,15 +13309,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 59479,
+      "Progressed": 59481,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-12T02:28:06.0363576+00:00",
+  "LastChanged_Achievements": "2023-12-12T03:04:46.2967927+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:06.7954209+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:24:21.6894045+00:00",
-  "LastUpdate_Achievements": "2023-12-12T02:28:06.0364436+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:01:46.1838391+00:00",
+  "LastUpdate_Achievements": "2023-12-12T03:04:46.2968608+00:00"
 }

@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~11,222 |
-| Cool Whip | 90.00% | ~10,978 |
-| Fashion Killa | 88.00% | ~10,734 |
-| Drop the Beat | 86.00% | ~10,490 |
-| Hey Lakeshore | 85.00% | ~10,368 |
-| 100 Miles and Runnin' | 84.00% | ~10,246 |
-| Public Enemy | 82.00% | ~10,002 |
+| Throwing up Tags | 92.00% | ~11,223 |
+| Cool Whip | 90.00% | ~10,979 |
+| Fashion Killa | 88.00% | ~10,735 |
+| Drop the Beat | 86.00% | ~10,491 |
+| Hey Lakeshore | 85.00% | ~10,369 |
+| 100 Miles and Runnin' | 84.00% | ~10,247 |
+| Public Enemy | 82.00% | ~10,003 |
 | Rebel Without a Pause | 68.00% | ~8,295 |
 | Hey Speedie! | 68.00% | ~8,295 |
 | Most Wanted | 64.00% | ~7,807 |
@@ -20,15 +20,15 @@
 | Style it Out | 53.00% | ~6,465 |
 | Untouchable | 52.00% | ~6,343 |
 | Oh, It's On | 51.00% | ~6,221 |
-| Rydell's Rydes | 49.00% | ~5,977 |
-| Cash Money Millionaire | 46.00% | ~5,611 |
-| Lake Better Watch Out | 40.00% | ~4,879 |
-| #Blessed | 34.00% | ~4,147 |
-| Access All Areas | 33.00% | ~4,025 |
-| Found Family | 32.00% | ~3,903 |
-| In the Flow | 29.00% | ~3,537 |
-| The Collector | 29.00% | ~3,537 |
-| Kick it | 29.00% | ~3,537 |
+| Rydell's Rydes | 49.00% | ~5,978 |
+| Cash Money Millionaire | 46.00% | ~5,612 |
+| Lake Better Watch Out | 40.00% | ~4,880 |
+| #Blessed | 34.00% | ~4,148 |
+| Access All Areas | 33.00% | ~4,026 |
+| Found Family | 32.00% | ~3,904 |
+| In the Flow | 29.00% | ~3,538 |
+| The Collector | 29.00% | ~3,538 |
+| Kick it | 29.00% | ~3,538 |
 | Top Billin' | 21.00% | ~2,562 |
 | Teacher's Pet | 20.00% | ~2,440 |
 | Full House | 18.00% | ~2,196 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~244 |
 | Cleaning Up | 2.00% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,198 (Ranked 163)  
+Progressed: 12,199 (Ranked 163)  
 Completed: 52 (0.43%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,4 +134,4 @@ Completed: 52 (0.43%) (Ranked 221)
 | 2023-12-09 | 12,036 | 52 |
 | 2023-12-10 | 12,135 | 52 |
 | 2023-12-11 | 12,194 | 52 |
-| 2023-12-12 | 12,198 | 52 |
+| 2023-12-12 | 12,199 | 52 |

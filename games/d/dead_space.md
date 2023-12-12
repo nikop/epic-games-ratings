@@ -7,7 +7,7 @@ Rating: 4.64 (Ranked 338)
 | ---- | ---------- | ----- |
 | Marksman | 93.00% | ~2,076 |
 | Welcome Aboard | 86.00% | ~1,920 |
-| Lab Rat | 76.00% | ~1,696 |
+| Lab Rat | 77.00% | ~1,719 |
 | All Systems Go | 67.00% | ~1,495 |
 | Brute Force | 67.00% | ~1,495 |
 | Cannon Fodder | 63.00% | ~1,406 |
@@ -20,7 +20,7 @@ Rating: 4.64 (Ranked 338)
 | Greenhouse Effect | 53.00% | ~1,183 |
 | Freeze | 52.00% | ~1,161 |
 | S.O.S. | 48.00% | ~1,071 |
-| Full Arsenal | 46.00% | ~1,027 |
+| Full Arsenal | 47.00% | ~1,049 |
 | Get Off My Ship! | 46.00% | ~1,027 |
 | Strange Transmissions | 45.00% | ~1,004 |
 | Wreckage | 44.00% | ~982 |

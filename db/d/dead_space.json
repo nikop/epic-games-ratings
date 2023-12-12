@@ -7103,9 +7103,9 @@
       "ID": "achievement_18",
       "SetID": "222fo9l",
       "Name": "Full Arsenal",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1049
     },
     {
       "ID": "achievement_19",
@@ -7119,9 +7119,9 @@
       "ID": "achievement_2",
       "SetID": "222fo9l",
       "Name": "Lab Rat",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1719
     },
     {
       "ID": "achievement_20",
@@ -7416,8 +7416,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-12-06T16:57:59.3139948+00:00",
-  "LastChanged_Achievements": "2023-12-12T02:33:01.3665779+00:00",
+  "LastChanged_Achievements": "2023-12-12T03:09:48.0078267+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.7137254+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:21:27.9443339+00:00",
-  "LastUpdate_Achievements": "2023-12-12T02:33:01.3666393+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:57:36.1414906+00:00",
+  "LastUpdate_Achievements": "2023-12-12T03:09:48.0078882+00:00"
 }

@@ -5,81 +5,81 @@ Rating: 4.29 (Ranked 855)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~176 |
-| Bullseye! | 85.00% | ~170 |
-| Graduation! | 80.00% | ~160 |
-| Villfir Forest | 74.00% | ~148 |
-| Right in the kisser! | 58.00% | ~116 |
+| Level Up! | 88.00% | ~177 |
+| Bullseye! | 85.00% | ~171 |
+| Graduation! | 80.00% | ~161 |
+| Villfir Forest | 74.00% | ~149 |
+| Right in the kisser! | 58.00% | ~117 |
 | The Thrower | 47.00% | ~94 |
 | Duscot Steamcity | 47.00% | ~94 |
-| The Penguin | 45.00% | ~90 |
 | The Shaman | 45.00% | ~90 |
-| The Magician | 40.00% | ~80 |
-| The Tunneler | 40.00% | ~80 |
-| Level Up!! | 37.00% | ~74 |
-| The Shield | 37.00% | ~74 |
-| Kill-streak | 30.00% | ~60 |
+| The Penguin | 44.00% | ~88 |
+| The Magician | 39.00% | ~78 |
+| The Tunneler | 39.00% | ~78 |
+| Level Up!! | 36.00% | ~72 |
+| The Shield | 36.00% | ~72 |
+| Kill-streak | 29.00% | ~58 |
 | Topped up | 29.00% | ~58 |
-| The Bird | 28.00% | ~56 |
-| The Ninja | 26.00% | ~52 |
+| The Bird | 27.00% | ~54 |
 | The Idol | 25.00% | ~50 |
-| Inferno Ruins | 25.00% | ~50 |
+| The Ninja | 25.00% | ~50 |
+| Inferno Ruins | 24.00% | ~48 |
 | I'm Rich | 22.00% | ~44 |
-| Untouchable | 21.00% | ~42 |
 | 1 is all I need | 21.00% | ~42 |
 | The Slime | 21.00% | ~42 |
-| The Flower | 17.00% | ~34 |
+| Untouchable | 20.00% | ~40 |
 | The Giant | 17.00% | ~34 |
 | The Blacksmith | 16.00% | ~32 |
+| The Flower | 16.00% | ~32 |
 | The Ooze | 16.00% | ~32 |
 | Out of the Frying Pan... | 16.00% | ~32 |
 | Ember | 16.00% | ~32 |
-| The Assistant | 14.00% | ~28 |
 | Turquoise | 14.00% | ~28 |
+| The Assistant | 13.00% | ~26 |
 | The Steampunk | 13.00% | ~26 |
-| The Droid | 11.00% | ~22 |
-| Verse | 11.00% | ~22 |
-| Iron | 10.00% | ~20 |
+| The Droid | 10.00% | ~20 |
+| Verse | 10.00% | ~20 |
+| Iron | 9.00% | ~18 |
 | The Bomber | 8.00% | ~16 |
-| Tested | 8.00% | ~16 |
-| The Astronaut | 7.00% | ~14 |
 | Highway to Hell | 7.00% | ~14 |
+| Tested | 7.00% | ~14 |
 | Power Overwhelming | 6.00% | ~12 |
-| The Exorcist | 6.00% | ~12 |
-| Mithril | 6.00% | ~12 |
-| Anvil | 6.00% | ~12 |
-| Aluminum | 5.00% | ~10 |
-| Analyzed | 4.00% | ~8 |
-| It's a Trap! | 3.00% | ~6 |
-| Blaze | 3.00% | ~6 |
-| Topaz | 3.00% | ~6 |
-| Chorus | 3.00% | ~6 |
-| TNT | 3.00% | ~6 |
+| The Astronaut | 6.00% | ~12 |
+| The Exorcist | 5.00% | ~10 |
+| Mithril | 5.00% | ~10 |
+| Anvil | 5.00% | ~10 |
+| Aluminum | 4.00% | ~8 |
+| Analyzed | 3.00% | ~6 |
 | Tongs | 3.00% | ~6 |
 | Platinum | 3.00% | ~6 |
 | Hammer | 3.00% | ~6 |
-| Gunpowder | 3.00% | ~6 |
 | Combo Master | 2.00% | ~4 |
-| Really Bad Luck | 2.00% | ~4 |
-| Immortality | 2.00% | ~4 |
+| It's a Trap! | 2.00% | ~4 |
+| Blaze | 2.00% | ~4 |
+| Topaz | 2.00% | ~4 |
+| Chorus | 2.00% | ~4 |
+| TNT | 2.00% | ~4 |
 | Titanium | 2.00% | ~4 |
 | Rocket | 2.00% | ~4 |
-| Encore | 2.00% | ~4 |
 | Adamantite | 2.00% | ~4 |
-| Nuclear Bomb | 2.00% | ~4 |
 | Concluded | 2.00% | ~4 |
-| Divinity | 2.00% | ~4 |
-| Warp Drive Spacecraft | 2.00% | ~4 |
-| Wu-wei | 2.00% | ~4 |
+| Gunpowder | 2.00% | ~4 |
 | Satellite | 2.00% | ~4 |
-| Zombie Slayer | 2.00% | ~4 |
+| Really Bad Luck | 1.00% | ~2 |
+| Immortality | 1.00% | ~2 |
 | Zombie Hunter | 1.00% | ~2 |
 | Inferno | 1.00% | ~2 |
 | Sapphire | 1.00% | ~2 |
+| Encore | 1.00% | ~2 |
+| Nuclear Bomb | 1.00% | ~2 |
+| Divinity | 1.00% | ~2 |
+| Warp Drive Spacecraft | 1.00% | ~2 |
+| Wu-wei | 1.00% | ~2 |
+| Zombie Slayer | 1.00% | ~2 |
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200 (Ranked 394)  
+Progressed: 201 (Ranked 394)  
 Completed: 1 (0.50%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,6 +188,7 @@ Completed: 1 (0.50%) (Ranked 210)
 | 2023-12-02 | 197 | 1 |
 | 2023-12-03 | 199 | 1 |
 | 2023-12-09 | 200 | 1 |
+| 2023-12-12 | 201 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

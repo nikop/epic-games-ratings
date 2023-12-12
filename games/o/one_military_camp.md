@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 54.00% | ~113 |
-| The 4 Pillars | 51.00% | ~107 |
+| First Step | 54.00% | ~114 |
+| The 4 Pillars | 51.00% | ~108 |
 | Capitalism | 21.00% | ~44 |
 | Green Energy | 12.00% | ~25 |
 | Indebted | 11.00% | ~23 |
 | Great Producer | 11.00% | ~23 |
 | There's something in those trees | 10.00% | ~21 |
-| Desert Power | 10.00% | ~21 |
+| Desert Power | 9.00% | ~19 |
 | Desert Rat | 9.00% | ~19 |
 | Health Care | 8.00% | ~17 |
 | Perfect Soldier | 7.00% | ~15 |
@@ -23,10 +23,10 @@
 | Ammo Tycoon | 7.00% | ~15 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~13 |
 | Self-sufficient | 6.00% | ~13 |
-| Outdoor Decorator | 5.00% | ~10 |
-| Overpopulation | 5.00% | ~10 |
-| Property Bro | 5.00% | ~10 |
-| Medicine Tycoon | 5.00% | ~10 |
+| Outdoor Decorator | 5.00% | ~11 |
+| Overpopulation | 5.00% | ~11 |
+| Property Bro | 5.00% | ~11 |
+| Medicine Tycoon | 5.00% | ~11 |
 | Tear Down the Wall! | 3.00% | ~6 |
 | Supersoldier | 3.00% | ~6 |
 | Human Resources | 3.00% | ~6 |
@@ -35,11 +35,11 @@
 | No News is Good News | 2.00% | ~4 |
 | Winter Soldier | 2.00% | ~4 |
 | Economist | 1.00% | ~2 |
-| Counter-espionage | 1.00% | ~2 |
 | Crisis Committee | 1.00% | ~2 |
 | Snowman | 1.00% | ~2 |
 | Reconquest | 1.00% | ~2 |
 | Researcher | 1.00% | ~2 |
+| Counter-espionage | 0.90% | ~2 |
 | Conveyor Belt Madness | 0.50% | ~1 |
 | Against Adversity | 0.50% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210 (Ranked 391)  
+Progressed: 211 (Ranked 391)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,3 +125,4 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-11-28 | 207 | 0 |
 | 2023-12-01 | 209 | 0 |
 | 2023-12-08 | 210 | 0 |
+| 2023-12-12 | 211 | 0 |

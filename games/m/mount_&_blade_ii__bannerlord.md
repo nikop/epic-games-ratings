@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~27,064 |
+| Lawbringer | 40.00% | ~27,065 |
 | Landlord | 34.00% | ~23,005 |
 | Bannerlord | 24.00% | ~16,239 |
 | Horde breaker | 24.00% | ~16,239 |
@@ -24,7 +24,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Dynasty | 10.00% | ~6,766 |
 | I spit on your grave | 10.00% | ~6,766 |
 | What have the Romans ever done for us? | 10.00% | ~6,766 |
-| Butterlord | 9.00% | ~6,089 |
+| Butterlord | 9.00% | ~6,090 |
 | Mastery | 8.00% | ~5,413 |
 | Know your enemy | 7.00% | ~4,736 |
 | Crowdfunded | 5.00% | ~3,383 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,661 (Ranked 104)  
+Progressed: 67,662 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,14 +294,14 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-09 | 67,516 | 0 |
 | 2023-12-10 | 67,577 | 0 |
 | 2023-12-11 | 67,658 | 0 |
-| 2023-12-12 | 67,661 | 0 |
+| 2023-12-12 | 67,662 | 0 |
 ## Awards
-Max (Character Customization): 7,547  (Ranked 53)  
-Sum: 15,746 (Ranked 68)  
-Diff (max vs sum): -15  
+Max (Character Customization): 7,553  (Ranked 53)  
+Sum: 15,752 (Ranked 67)  
+Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,547 |
+| This game has Inclusive Character Customization | 7,553 |
 | This game is Great for Beginners | 1,110 |
 | This game has Diverse Characters | 1,046 |
 | This game is Highly Recommended | 969 |
@@ -647,3 +647,4 @@ Diff (max vs sum): -15
 | 2023-12-09 | 4.74 | - | 7,535 | 15,703 |
 | 2023-12-10 | 4.74 | - | 7,535 | 15,715 |
 | 2023-12-11 | 4.74 | - | 7,547 | 15,746 |
+| 2023-12-12 | 4.74 | - | 7,553 | 15,752 |

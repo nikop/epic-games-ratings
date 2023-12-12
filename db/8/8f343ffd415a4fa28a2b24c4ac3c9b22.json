@@ -4,7 +4,7 @@
   "ProductSlug": "mountain-racing-47178d",
   "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-12-04T18:30:00+00:00",
@@ -113,8 +113,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-02T04:03:05.9562297+00:00",
-  "LastChanged_Achievements": "2023-12-12T02:28:10.6294628+00:00",
+  "LastChanged_Achievements": "2023-12-12T03:04:51.9174163+00:00",
   "LastUpdate_AppInfo": "2023-12-09T04:57:14.1316927+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:22:01.5336303+00:00",
-  "LastUpdate_Achievements": "2023-12-12T02:28:10.6294688+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:58:23.4488954+00:00",
+  "LastUpdate_Achievements": "2023-12-12T03:04:51.9174217+00:00"
 }

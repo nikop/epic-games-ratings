@@ -32,9 +32,9 @@
 | Tanos' Crusade Against Thalya | 45.00% | ~244 |
 | Mana Cannon | 42.00% | ~228 |
 | All’s Well That Ends Evil | 39.00% | ~212 |
+| Master of the Undead | 35.00% | ~190 |
 | The Duel | 35.00% | ~190 |
 | Unstoppable Horde | 34.00% | ~185 |
-| Master of the Undead | 34.00% | ~185 |
 | If Looks Could Kill | 31.00% | ~168 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~157 |
 | The Finitude Drill | 29.00% | ~157 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9588,9 +9588,9 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126267,
+  "EOS_Progressed": 126273,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 705,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34588,6 +34588,11 @@
       "Time": "2023-12-12T02:32:45.4235892+00:00",
       "NumProgressed": 126267,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T03:09:26.8312227+00:00",
+      "NumProgressed": 126273,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34893,9 +34898,9 @@
       "ID": "driving_biome_clear_city",
       "SetID": "64l4lke",
       "Name": "Rush Hour",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -34917,9 +34922,9 @@
       "ID": "driving_biome_clear_forest",
       "SetID": "64l4lke",
       "Name": "To Grandmother\u0027s House",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "driving_distance_easy",
@@ -34989,9 +34994,9 @@
       "ID": "inn_first_time",
       "SetID": "64l4lke",
       "Name": "A Place to Lay Your Head",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35221,30 +35226,30 @@
       "ID": "run_victory_final_boss_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "On This Long Road, We Found Redemption",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126267,
+      "Progressed": 126273,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1136,
+      "Progressed": 1142,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T02:22:43.6817485+00:00",
-  "LastChanged_Achievements": "2023-12-12T02:32:45.4235888+00:00",
+  "LastChanged_Achievements": "2023-12-12T03:09:26.8312225+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:22:43.6817492+00:00",
-  "LastUpdate_Achievements": "2023-12-12T02:32:45.423742+00:00"
+  "LastUpdate_Ratings": "2023-12-12T02:59:22.0680495+00:00",
+  "LastUpdate_Achievements": "2023-12-12T03:09:26.831374+00:00"
 }

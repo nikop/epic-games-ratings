@@ -16,8 +16,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.20% | ~479 |
 | Mad Cow Disease | 0.20% | ~479 |
 | Friendly Imps | 0.20% | ~479 |
-| The Beginning is the End | 0.20% | ~411 |
-| The End is the Beginning | 0.20% | ~411 |
+| The Beginning is the End | 0.20% | ~412 |
+| The End is the Beginning | 0.20% | ~412 |
 | Maddening | 0.10% | ~239 |
 | Pros and CONs | 0.10% | ~239 |
 | Upholding the Law | 0.10% | ~239 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~206 |
 | See You on the Flipside | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,475 (Ranked 65)  
+Progressed: 239,479 (Ranked 65)  
 Completed: 2,517 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -775,7 +775,7 @@ Completed: 2,517 (1.05%) (Ranked 167)
 | 2023-12-09 | 239,141 | 2,510 |
 | 2023-12-10 | 239,334 | 2,513 |
 | 2023-12-11 | 239,456 | 2,517 |
-| 2023-12-12 | 239,475 | 2,517 |
+| 2023-12-12 | 239,479 | 2,517 |
 ## Awards
 Max (Great for Beginners): 5,622  (Ranked 70)  
 Sum: 32,826 (Ranked 41)  

@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66098,
+  "EOS_Progressed": 66103,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 2691,
+  "EOS_NewPlayers": 2689,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3220,6 +3220,11 @@
       "Time": "2023-12-12T02:27:39.8459577+00:00",
       "NumProgressed": 66098,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-12-12T03:04:11.0808655+00:00",
+      "NumProgressed": 66103,
+      "NumCompleted": 73
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -3232,7 +3237,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24456
+      "UsersEstimate": 24458
     },
     {
       "ID": "Achievement_10",
@@ -3304,7 +3309,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "Achievement_19",
@@ -3312,7 +3317,7 @@
       "Name": "Fearless in Karba",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "Achievement_2",
@@ -3320,7 +3325,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17846
+      "UsersEstimate": 17848
     },
     {
       "ID": "Achievement_20",
@@ -3368,7 +3373,7 @@
       "Name": "Konkylian Custodian",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "Achievement_26",
@@ -3400,7 +3405,7 @@
       "Name": "Gold Finger",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "Achievement_3",
@@ -3503,7 +3508,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 66098,
+      "Progressed": 66103,
       "Completed": 73
     }
   ],
@@ -3511,8 +3516,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-11T15:03:31.6017439+00:00",
-  "LastChanged_Achievements": "2023-12-12T02:27:39.8459573+00:00",
+  "LastChanged_Achievements": "2023-12-12T03:04:11.0808652+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-12T02:27:03.3950016+00:00",
-  "LastUpdate_Achievements": "2023-12-12T02:27:39.8459999+00:00"
+  "LastUpdate_Ratings": "2023-12-12T03:03:18.5166809+00:00",
+  "LastUpdate_Achievements": "2023-12-12T03:04:11.0809+00:00"
 }
