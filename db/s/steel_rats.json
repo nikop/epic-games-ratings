@@ -2,7 +2,7 @@
   "ID": "d1349ac0db0b48ee879304383782ae19",
   "Name": "Steel Rats",
   "ProductSlug": "steel-rats-445306",
-  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 127,
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.8267684+00:00",
   "LastChanged": "2023-03-31T05:57:34.8267684+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:31.1869121+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:00:41.3135189+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:10:14.2538597+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:00:05.8977433+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:10:07.4425524+00:00"
 }

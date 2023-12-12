@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 428,
+  "EOS_Progressed": 429,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -1833,6 +1833,11 @@
       "Time": "2023-12-12T13:12:08.1024572+00:00",
       "NumProgressed": 428,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T15:07:09.4894008+00:00",
+      "NumProgressed": 429,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1867,9 +1872,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 43
     },
     {
       "ID": "AttackCount",
@@ -1949,7 +1954,7 @@
       "Name": "Critical Hit",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Deepstrike",
@@ -2276,15 +2281,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 428,
+      "Progressed": 429,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:08:08.2584435+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:07:09.4894001+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:58:01.0099089+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:08:08.2584957+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:58:18.9485301+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:07:09.4894564+00:00"
 }

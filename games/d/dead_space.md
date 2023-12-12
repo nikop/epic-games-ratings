@@ -54,7 +54,7 @@ Rating: 4.64 (Ranked 337)
 | One Gun | 2.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,239 (Ranked 226)  
-Completed: 14 (0.63%) (Ranked 191)  
+Completed: 15 (0.67%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,7 +142,7 @@ Completed: 14 (0.63%) (Ranked 191)
 | 2023-12-09 | 2,200 | 13 |
 | 2023-12-10 | 2,214 | 14 |
 | 2023-12-11 | 2,230 | 14 |
-| 2023-12-12 | 2,239 | 14 |
+| 2023-12-12 | 2,239 | 15 |
 ## Awards
 Max (Great Boss Battles): 118  (Ranked 347)  
 Sum: 118 (Ranked 442)  

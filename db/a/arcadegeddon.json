@@ -2,7 +2,7 @@
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
   "ProductSlug": "arcadegeddon",
-  "Ranking_Rating": 618,
+  "Ranking_Rating": 617,
   "Ranking_Popularity": 412,
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 167,
@@ -832,9 +832,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9875,
+  "EOS_Progressed": 9876,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12537,6 +12537,11 @@
       "Time": "2023-12-12T12:03:57.7191533+00:00",
       "NumProgressed": 9875,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T15:04:12.4358909+00:00",
+      "NumProgressed": 9876,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 50,
@@ -12548,7 +12553,7 @@
       "Name": "Adventure Time",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 7505
+      "UsersEstimate": 7506
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -12580,7 +12585,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5530
+      "UsersEstimate": 5531
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -12612,7 +12617,7 @@
       "Name": "Get Furious",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 5332
+      "UsersEstimate": 5333
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -12652,7 +12657,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 5135
+      "UsersEstimate": 5136
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -12692,7 +12697,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 8591
+      "UsersEstimate": 8592
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -12716,7 +12721,7 @@
       "Name": "Meching Enemies",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 4641
+      "UsersEstimate": 4642
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -12748,7 +12753,7 @@
       "Name": "Photogenic",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 8196
+      "UsersEstimate": 8197
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -12764,7 +12769,7 @@
       "Name": "Plug It In",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7900
+      "UsersEstimate": 7901
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -12852,7 +12857,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7900
+      "UsersEstimate": 7901
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -12860,7 +12865,7 @@
       "Name": "Surge Gauntlet Scholar",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_TEAM_PLAYER",
@@ -12908,7 +12913,7 @@
       "Name": "Ticket Titan",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_TICKET_TODDLER",
@@ -12940,22 +12945,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 5431
+      "UsersEstimate": 5432
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9875,
+      "Progressed": 9876,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-12-06T04:01:07.9880717+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:03:56.6251905+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:04:12.4358904+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:53.3749038+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:01:39.768806+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:03:56.6253078+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:00:43.3794085+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:04:12.4360403+00:00"
 }

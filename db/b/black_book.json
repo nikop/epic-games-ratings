@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 59551,
+  "EOS_Progressed": 59555,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1452,
+  "EOS_NewPlayers": 1448,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12953,6 +12953,11 @@
       "Time": "2023-12-12T14:05:00.95064+00:00",
       "NumProgressed": 59551,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-12T15:04:58.1702515+00:00",
+      "NumProgressed": 59555,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -12989,7 +12994,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8337
+      "UsersEstimate": 8338
     },
     {
       "ID": "BAD_END",
@@ -13077,7 +13082,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 13101
+      "UsersEstimate": 13102
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -13141,7 +13146,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8337
+      "UsersEstimate": 8338
     },
     {
       "ID": "HERBS_2",
@@ -13149,7 +13154,7 @@
       "Name": "Herbalist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 5955
+      "UsersEstimate": 5956
     },
     {
       "ID": "HERBS_3",
@@ -13165,15 +13170,15 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 16674
+      "UsersEstimate": 16675
     },
     {
       "ID": "KARNYSH_LOYAL",
       "SetID": "bijn3c8",
       "Name": "Vorsa",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 2978
+      "UsersEstimate": 3573
     },
     {
       "ID": "MERMAID_FREE",
@@ -13213,7 +13218,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7146
+      "UsersEstimate": 7147
     },
     {
       "ID": "NORMAL_END",
@@ -13317,7 +13322,7 @@
       "Name": "Water",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 5955
+      "UsersEstimate": 5956
     },
     {
       "ID": "WOLF",
@@ -13341,7 +13346,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 9528
+      "UsersEstimate": 9529
     },
     {
       "ID": "ZNATKOST_2",
@@ -13364,15 +13369,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 59551,
+      "Progressed": 59555,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:05:00.9506391+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:04:58.1702509+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:06.7954209+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:02:41.2678761+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:05:00.9507325+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:01:02.8471617+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:04:58.1703331+00:00"
 }

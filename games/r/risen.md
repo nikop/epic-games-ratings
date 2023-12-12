@@ -23,9 +23,9 @@ Rating: 4.58 (Ranked 451)
 | Death of a legend | 28.00% | ~19 |
 | Ogre friend | 28.00% | ~19 |
 | Hard worker | 28.00% | ~19 |
+| The fourth triplet | 28.00% | ~19 |
 | Family man | 27.00% | ~18 |
 | Archaeologist | 27.00% | ~18 |
-| The fourth triplet | 27.00% | ~18 |
 | Little hero | 25.00% | ~17 |
 | Pandora's box | 25.00% | ~17 |
 | Ghost hunter | 24.00% | ~16 |

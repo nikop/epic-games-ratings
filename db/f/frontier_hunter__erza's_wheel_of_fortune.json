@@ -2,7 +2,7 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 306,
+  "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 127,
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 593,
+  "EOS_Progressed": 594,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1917,6 +1917,11 @@
       "Time": "2023-12-11T19:09:08.5377355+00:00",
       "NumProgressed": 593,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-12T15:09:21.9180205+00:00",
+      "NumProgressed": 594,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1928,7 +1933,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1998,9 +2003,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "7pimpda",
       "Name": "Kind Adventurer",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -2016,7 +2021,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2040,7 +2045,7 @@
       "Name": "Beginner Cook",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -2048,7 +2053,7 @@
       "Name": "Master Cook",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -2064,7 +2069,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2080,7 +2085,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2096,7 +2101,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2248,7 +2253,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2264,7 +2269,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2287,7 +2292,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 593,
+      "Progressed": 594,
       "Completed": 1
     }
   ],
@@ -2295,8 +2300,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:09:09.6356061+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:09:21.9180197+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:02:33.4162567+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:09:09.6356426+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:00:57.73167+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:09:21.9180531+00:00"
 }

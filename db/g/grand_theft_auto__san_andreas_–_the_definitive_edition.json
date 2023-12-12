@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1735,7 +1735,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 13948,
+  "EOS_Progressed": 13950,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
@@ -15850,6 +15850,11 @@
       "Time": "2023-12-12T11:09:29.1083155+00:00",
       "NumProgressed": 13948,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-12T15:10:04.2058032+00:00",
+      "NumProgressed": 13950,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 35,
@@ -15861,7 +15866,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11437
+      "UsersEstimate": 11439
     },
     {
       "ID": "ACH02",
@@ -15869,7 +15874,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "ACH03",
@@ -15885,7 +15890,7 @@
       "Name": "Hoopin\u0027 it Up",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH05",
@@ -15917,7 +15922,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7253
+      "UsersEstimate": 7254
     },
     {
       "ID": "ACH09",
@@ -15973,7 +15978,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ACH16",
@@ -15981,7 +15986,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2372
     },
     {
       "ID": "ACH17",
@@ -16005,7 +16010,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ACH20",
@@ -16021,7 +16026,7 @@
       "Name": "Lucky Spinner",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH22",
@@ -16037,7 +16042,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3766
+      "UsersEstimate": 3767
     },
     {
       "ID": "ACH24",
@@ -16045,7 +16050,7 @@
       "Name": "Not a Player",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH25",
@@ -16077,7 +16082,7 @@
       "Name": "Original Gangster",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "ACH29",
@@ -16101,7 +16106,7 @@
       "Name": "Chick Magnet",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH32",
@@ -16140,7 +16145,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13948,
+      "Progressed": 13950,
       "Completed": 57
     }
   ],
@@ -16148,8 +16153,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-12T13:58:12.8669753+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:10:09.4428888+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:10:04.2058026+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:47.2955256+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:58:12.8669759+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:10:09.4429711+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:58:27.440109+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:10:04.2058893+00:00"
 }

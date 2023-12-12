@@ -3,8 +3,8 @@
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 435,
-  "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_NewPlayers": 386,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.89,
+  "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.0797761+00:00",
@@ -299,6 +299,11 @@
       "Time": "2023-12-06T01:53:16.9214042+00:00",
       "NumProgressed": 112,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-12T15:04:58.3565312+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 16,
@@ -372,7 +377,7 @@
       "ID": "ACH_NOW_IM_HERE",
       "SetID": "ca3jj1k",
       "Name": "Now I\u0027m Here",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 50,
       "UsersEstimate": 75
     },
@@ -382,7 +387,7 @@
       "Name": "Put Out the Fire",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_ROCK_IT",
@@ -404,7 +409,7 @@
       "ID": "ACH_THE_HITMAN",
       "SetID": "ca3jj1k",
       "Name": "The Hitman",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 75,
       "UsersEstimate": 59
     },
@@ -412,7 +417,7 @@
       "ID": "ACH_THE_INVISIBLE",
       "SetID": "ca3jj1k",
       "Name": "The Invisible Man",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
       "UsersEstimate": 40
     },
@@ -420,7 +425,7 @@
       "ID": "ACH_THE_MIRACLE",
       "SetID": "ca3jj1k",
       "Name": "The Miracle",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
       "UsersEstimate": 40
     },
@@ -437,7 +442,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 1
     }
   ],
@@ -445,8 +450,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:05:01.2498123+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:04:58.3565306+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:54.5971912+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:01:43.3510097+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:05:01.2498243+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:00:45.2357269+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:04:58.3565483+00:00"
 }

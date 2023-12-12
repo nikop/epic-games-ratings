@@ -1,23 +1,23 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 618)  
+Rating: 4.49 (Ranked 617)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 87.00% | ~8,591 |
-| Photogenic | 83.00% | ~8,196 |
-| Plug It In | 80.00% | ~7,900 |
-| Surge Gauntlet Jockey | 80.00% | ~7,900 |
-| Adventure Time | 76.00% | ~7,505 |
+| Let's Get This Party Started | 87.00% | ~8,592 |
+| Photogenic | 83.00% | ~8,197 |
+| Plug It In | 80.00% | ~7,901 |
+| Surge Gauntlet Jockey | 80.00% | ~7,901 |
+| Adventure Time | 76.00% | ~7,506 |
 | Playing With Power | 73.00% | ~7,209 |
-| Coup d'Etat | 56.00% | ~5,530 |
-| You're Fired | 55.00% | ~5,431 |
-| Get Furious | 54.00% | ~5,332 |
+| Coup d'Etat | 56.00% | ~5,531 |
+| You're Fired | 55.00% | ~5,432 |
+| Get Furious | 54.00% | ~5,333 |
 | Hacks In Stacks | 53.00% | ~5,234 |
-| Gunplay And Cosplay | 52.00% | ~5,135 |
-| Meching Enemies | 47.00% | ~4,641 |
+| Gunplay And Cosplay | 52.00% | ~5,136 |
+| Meching Enemies | 47.00% | ~4,642 |
 | Ticket Toddler | 42.00% | ~4,148 |
 | Booty Bashing | 37.00% | ~3,654 |
 | Field Medic | 36.00% | ~3,555 |
@@ -38,8 +38,8 @@ Number of Ratings: 801  (23.09.2022)
 | 1.21 Gigawatts | 9.00% | ~889 |
 | This Is My Boomstick! | 9.00% | ~889 |
 | Rescue Ranger | 8.00% | ~790 |
-| Surge Gauntlet Scholar | 6.00% | ~592 |
-| Ticket Titan | 6.00% | ~592 |
+| Surge Gauntlet Scholar | 6.00% | ~593 |
+| Ticket Titan | 6.00% | ~593 |
 | Master of Arms | 5.00% | ~494 |
 | Stop Hitting Yourself | 5.00% | ~494 |
 | No Chill | 4.00% | ~395 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~40 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,875 (Ranked 167)  
+Progressed: 9,876 (Ranked 167)  
 Completed: 2 (0.02%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 2 (0.02%) (Ranked 340)
 | 2023-12-09 | 9,855 | 2 |
 | 2023-12-10 | 9,862 | 2 |
 | 2023-12-11 | 9,870 | 2 |
-| 2023-12-12 | 9,875 | 2 |
+| 2023-12-12 | 9,876 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 412)  
 Sum: 465 (Ranked 336)  

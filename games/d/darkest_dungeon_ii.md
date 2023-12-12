@@ -6,57 +6,58 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 3.00% | ~37 |
+| Malpractice Assurance | 3.00% | ~38 |
 | This guy... again? | 2.00% | ~25 |
 | This Belongs in a Museum | 1.00% | ~1,264 |
 | Catch and Decease | 1.00% | ~1,264 |
 | Not Today! | 0.90% | ~1,137 |
+| Overdue Notice | 0.90% | ~1,137 |
 | Escape from the Black Hole | 0.90% | ~1,137 |
+| Bloody Graduation | 0.90% | ~11 |
+| Lost and Found | 0.90% | ~11 |
+| Creep and Sleep | 0.80% | ~1,011 |
 | Meat and Greet | 0.80% | ~1,011 |
-| Overdue Notice | 0.80% | ~1,011 |
-| Bloody Graduation | 0.80% | ~10 |
-| Lost and Found | 0.80% | ~10 |
-| Creep and Sleep | 0.70% | ~885 |
 | Autodidact | 0.70% | ~885 |
-| Don't Make Me Turn This Coach Around | 0.40% | ~505 |
-| Serenity Now! | 0.40% | ~505 |
-| Rush Hour | 0.40% | ~505 |
-| To Grandmother's House | 0.40% | ~505 |
-| FNG | 0.40% | ~505 |
+| Don't Make Me Turn This Coach Around | 0.40% | ~506 |
+| Serenity Now! | 0.40% | ~506 |
+| Rush Hour | 0.40% | ~506 |
+| To Grandmother's House | 0.40% | ~506 |
+| FNG | 0.40% | ~506 |
+| Nope | 0.40% | ~506 |
 | It Rings a Bell | 0.30% | ~379 |
+| Resurrection | 0.30% | ~379 |
 | Unleash Hell | 0.30% | ~379 |
 | Funny Guy | 0.30% | ~379 |
 | Long Live the King | 0.30% | ~379 |
+| Boxcar Kid | 0.30% | ~379 |
 | Unfulfilled Desires | 0.30% | ~379 |
 | Predator | 0.30% | ~379 |
 | Dissector | 0.30% | ~379 |
 | Banishment | 0.30% | ~379 |
 | Deprogramming | 0.30% | ~379 |
+| Ichthyophobic | 0.30% | ~379 |
 | Now Stay Dead | 0.30% | ~379 |
 | Reverse Banditry | 0.30% | ~379 |
+| It Happens | 0.30% | ~379 |
 | Merry Time | 0.30% | ~379 |
 | Harvest Festival | 0.30% | ~379 |
 | Ramble On | 0.30% | ~379 |
+| A Clear Conscience | 0.30% | ~379 |
 | Whale | 0.30% | ~379 |
 | A Place to Lay Your Head | 0.30% | ~379 |
-| Nope | 0.30% | ~379 |
 | Unshackled | 0.30% | ~379 |
 | Road Trip | 0.30% | ~379 |
-| Resurrection | 0.20% | ~253 |
 | Wyrdly Reconstructed | 0.20% | ~253 |
-| Boxcar Kid | 0.20% | ~253 |
 | This Looks Familiar | 0.20% | ~253 |
 | Hope Rekindled | 0.20% | ~253 |
-| Ichthyophobic | 0.20% | ~253 |
 | No More Mouths to Feed | 0.20% | ~253 |
-| It Happens | 0.20% | ~253 |
 | Spelunker | 0.20% | ~253 |
-| A Clear Conscience | 0.20% | ~253 |
 | When You Want Something Done Right | 0.20% | ~253 |
 | Utopia | 0.20% | ~253 |
 | Hot Air | 0.20% | ~253 |
 | Eyes Up | 0.20% | ~253 |
 | Body of Work | 0.20% | ~253 |
+| Maître De La Lame | 0.20% | ~2 |
 | Slap on the Wrist | 0.20% | ~2 |
 | Et Tu, Riposte? | 0.20% | ~2 |
 | Ploughshares to Swords | 0.20% | ~2 |
@@ -80,13 +81,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Grand Slam | 0.10% | ~126 |
 | Hard Mode | 0.10% | ~126 |
 | Battle Hardened | 0.10% | ~1 |
-| Maître De La Lame | 0.10% | ~1 |
 | These Boots Are Made For Kickin' | 0.10% | ~1 |
 | No Mercy | 0.10% | ~1 |
 | For Old Time' Sake | 0.10% | ~1 |
 | On This Long Road, We Found Redemption | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,364 (Ranked 84)  
+Progressed: 126,381 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,10 +312,10 @@ Completed: 2 (0.00%) (Ranked 372)
 | 2023-12-09 | 125,950 | 2 |
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
-| 2023-12-12 | 126,364 | 2 |
+| 2023-12-12 | 126,381 | 2 |
 ## Awards
 Max (Character Customization): 7,622  (Ranked 52)  
-Sum: 20,161 (Ranked 59)  
+Sum: 20,173 (Ranked 59)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -328,7 +328,7 @@ Diff (max vs sum): -7
 | This game has Amazing Storytelling | 1,358 |
 | This game has Quickly Understood Controls | 1,321 |
 | This game has Unique Visuals | 1,317 |
-| This game has a Creative Community | 986 |
+| This game has a Creative Community | 998 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -652,4 +652,4 @@ Diff (max vs sum): -7
 | 2023-12-09 | 4.68 | - | 7,572 | 20,019 |
 | 2023-12-10 | 4.68 | - | 7,578 | 20,042 |
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
-| 2023-12-12 | 4.68 | - | 7,622 | 20,161 |
+| 2023-12-12 | 4.68 | - | 7,622 | 20,173 |

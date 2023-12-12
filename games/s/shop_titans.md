@@ -6,7 +6,7 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,585 |
+| Sponsored by Argon | 8.00% | ~11,586 |
 | Basic in Bulk | 7.00% | ~10,137 |
 | Tinkle of Coins | 7.00% | ~10,137 |
 | Titan's First Steps | 7.00% | ~10,137 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~434 |
 | Capitalist Camaraderie | 0.20% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,817 (Ranked 80)  
+Progressed: 144,821 (Ranked 80)  
 Completed: 293 (0.20%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,14 +355,14 @@ Completed: 293 (0.20%) (Ranked 260)
 | 2023-12-09 | 144,503 | 291 |
 | 2023-12-10 | 144,657 | 293 |
 | 2023-12-11 | 144,756 | 293 |
-| 2023-12-12 | 144,817 | 293 |
+| 2023-12-12 | 144,821 | 293 |
 ## Awards
-Max (Great for Beginners): 4,875  (Ranked 75)  
-Sum: 27,694 (Ranked 51)  
+Max (Great for Beginners): 4,878  (Ranked 75)  
+Sum: 27,697 (Ranked 51)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,875 |
+| This game is Great for Beginners | 4,878 |
 | This game is Relaxing | 4,059 |
 | This game has Quickly Understood Controls | 4,041 |
 | This game has Diverse Characters | 3,967 |
@@ -688,4 +688,4 @@ Diff (max vs sum): 24
 | 2023-12-09 | 3.99 | - | 4,871 | 27,680 |
 | 2023-12-10 | 3.99 | - | 4,871 | 27,683 |
 | 2023-12-11 | 3.99 | - | 4,875 | 27,691 |
-| 2023-12-12 | 3.99 | - | 4,875 | 27,694 |
+| 2023-12-12 | 3.99 | - | 4,878 | 27,697 |

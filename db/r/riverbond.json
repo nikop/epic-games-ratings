@@ -2,13 +2,13 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 643,
+  "Ranking_Rating": 642,
   "Ranking_Popularity": 552,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 532998,
+  "EOS_Progressed": 532999,
   "EOS_Completed": 507,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -25487,6 +25487,11 @@
       "Time": "2023-12-12T14:07:49.2058543+00:00",
       "NumProgressed": 532998,
       "NumCompleted": 507
+    },
+    {
+      "Time": "2023-12-12T15:06:55.9813423+00:00",
+      "NumProgressed": 532999,
+      "NumCompleted": 507
     }
   ],
   "TotalAchievements": 57,
@@ -25506,7 +25511,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 239849
+      "UsersEstimate": 239850
     },
     {
       "ID": "11",
@@ -25722,7 +25727,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 266499
+      "UsersEstimate": 266500
     },
     {
       "ID": "36",
@@ -25754,7 +25759,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 181219
+      "UsersEstimate": 181220
     },
     {
       "ID": "4",
@@ -25842,7 +25847,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 181219
+      "UsersEstimate": 181220
     },
     {
       "ID": "5",
@@ -25874,7 +25879,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 245179
+      "UsersEstimate": 245180
     },
     {
       "ID": "53",
@@ -25953,15 +25958,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 532998,
+      "Progressed": 532999,
       "Completed": 507
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:07:49.2058535+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:06:55.9813416+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:06.8552827+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:59:02.7288618+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:07:49.2060287+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:59:00.3497741+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:06:55.9814993+00:00"
 }

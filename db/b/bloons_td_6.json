@@ -5,7 +5,7 @@
   "Ranking_Rating": 117,
   "Ranking_Popularity": 44,
   "Ranking_PopularitySum": 33,
-  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 127,
@@ -11851,11 +11851,17 @@
       "Rating": 4.77,
       "NumberOfAwards": 45319,
       "NumberOfAwardsMax": 8401
+    },
+    {
+      "Time": "2023-12-12T14:58:21.9135022+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 45370,
+      "NumberOfAwardsMax": 8430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45319,
-  "NumberOfAwardsMax": 8401,
+  "NumberOfAwards": 45370,
+  "NumberOfAwardsMax": 8430,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -11874,7 +11880,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3287
+      "Count": 3295
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11892,13 +11898,13 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 4687
+      "Count": 4701
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 8401
+      "Count": 8430
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -11949,8 +11955,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-12-12T13:58:05.5903584+00:00",
+  "LastChanged": "2023-12-12T14:58:21.913502+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:29.5447915+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:58:05.5903593+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:03:44.144889+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:58:21.9135027+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:04:03.2876021+00:00"
 }

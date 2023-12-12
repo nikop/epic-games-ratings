@@ -2,7 +2,7 @@
   "ID": "fc26bb604bcb4130bc0798c8d9ef95b1",
   "Name": "Avoid It",
   "ProductSlug": "avoid-it-df26e8",
-  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 127,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-29T09:57:08.909754+00:00",
   "LastUpdate_AppInfo": "2023-12-12T07:57:16.3570788+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:03:33.6766535+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:04:43.9324556+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:03:56.3508875+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:04:46.2390577+00:00"
 }

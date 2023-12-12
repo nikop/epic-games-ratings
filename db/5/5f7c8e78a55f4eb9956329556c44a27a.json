@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 186,
+  "EOS_Progressed": 187,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -709,6 +709,11 @@
       "Time": "2023-12-08T14:03:15.8549007+00:00",
       "NumProgressed": 186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T15:05:46.1728353+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -719,9 +724,9 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 148
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -729,7 +734,7 @@
       "Name": "A friend of the animals... or not.",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TINGWD_BEATEM",
@@ -737,7 +742,7 @@
       "Name": "This is not a Beat\u0027em up",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TINGWD_BLUEMOON",
@@ -753,7 +758,7 @@
       "Name": "I want to PLAY!!",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TINGWD_BUTTON_UNINSTALL",
@@ -785,7 +790,7 @@
       "Name": "There\u0027s a bug in the soup",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -809,7 +814,7 @@
       "Name": "The end of the ordeal",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "TINGWD_CHAP_END_05",
@@ -841,7 +846,7 @@
       "Name": "Conspiracy theorist",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -849,7 +854,7 @@
       "Name": "Private Detective",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -873,7 +878,7 @@
       "Name": "Headshot",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "TINGWD_HONEY",
@@ -897,15 +902,15 @@
       "Name": "Have you no shame?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "TINGWD_OUTBOX",
       "SetID": "c0imaa6",
       "Name": "Outside the box",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "TINGWD_PERPETUITY",
@@ -921,7 +926,7 @@
       "Name": "One Punch Man",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TINGWD_RADAR",
@@ -992,14 +997,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 186,
+      "Progressed": 187,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:06:09.9332695+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:05:46.1728346+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:03.1671166+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:02:58.5318892+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:06:09.9333025+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:03:33.5387105+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:05:46.1728631+00:00"
 }

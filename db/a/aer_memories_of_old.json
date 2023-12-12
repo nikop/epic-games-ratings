@@ -2,13 +2,13 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 669,
+  "Ranking_Rating": 668,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -419,7 +419,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26060,
+  "EOS_Progressed": 26065,
   "EOS_Completed": 488,
   "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 5,
@@ -25779,6 +25779,11 @@
       "Time": "2023-12-12T14:04:14.1789569+00:00",
       "NumProgressed": 26060,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-12-12T15:04:24.9769354+00:00",
+      "NumProgressed": 26065,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 20,
@@ -25790,7 +25795,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4430
+      "UsersEstimate": 4431
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -25806,7 +25811,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3648
+      "UsersEstimate": 3649
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -25814,7 +25819,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2346
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -25838,7 +25843,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -25846,7 +25851,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -25854,7 +25859,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3648
+      "UsersEstimate": 3649
     },
     {
       "ID": "FOUND_ERIN",
@@ -25862,7 +25867,7 @@
       "Name": "Hide and Seek",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -25902,7 +25907,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "INTRO_FINISHED",
@@ -25910,7 +25915,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19806
+      "UsersEstimate": 19809
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -25918,7 +25923,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7036
+      "UsersEstimate": 7038
     },
     {
       "ID": "NORTH_FINISHED",
@@ -25942,22 +25947,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4691
+      "UsersEstimate": 4692
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26060,
+      "Progressed": 26065,
       "Completed": 488
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:04:14.1789562+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:04:24.9769349+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.8810572+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:02:39.7242656+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:04:14.1791435+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:01:01.7893995+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:04:24.9770964+00:00"
 }

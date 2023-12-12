@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2233,
+  "EOS_Progressed": 2234,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3922,6 +3922,11 @@
       "Time": "2023-12-12T14:04:36.5738891+00:00",
       "NumProgressed": 2233,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-12T15:04:40.8015301+00:00",
+      "NumProgressed": 2234,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3933,7 +3938,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "Collect20Gold",
@@ -3941,7 +3946,7 @@
       "Name": "Collect Gold",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "Collect20Iron",
@@ -3957,7 +3962,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "CollectAllStatues",
@@ -4013,7 +4018,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "CompleteHunterFaction",
@@ -4077,7 +4082,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "GetTHWeapon",
@@ -4093,7 +4098,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "Kill25Frogs",
@@ -4141,7 +4146,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "RepairThroneRoom",
@@ -4157,7 +4162,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ReturnPowerInMines",
@@ -4172,22 +4177,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2233,
+      "Progressed": 2234,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 874,
-      "Completed": 874
+      "Progressed": 875,
+      "Completed": 875
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:04:36.5738885+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:04:40.8015295+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:13.9280126+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:01:55.6191974+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:04:36.5739326+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:00:53.2160511+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:04:40.8015678+00:00"
 }

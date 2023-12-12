@@ -9690,9 +9690,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67687,
+  "EOS_Progressed": 67689,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 558,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34615,6 +34615,11 @@
       "Time": "2023-12-12T14:10:34.9705201+00:00",
       "NumProgressed": 67687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T15:10:22.6473903+00:00",
+      "NumProgressed": 67689,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34626,7 +34631,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8799
+      "UsersEstimate": 8800
     },
     {
       "ID": "Apple of my eye",
@@ -34738,7 +34743,7 @@
       "Name": "Fat Cat",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "Freedom",
@@ -34754,7 +34759,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8799
+      "UsersEstimate": 8800
     },
     {
       "ID": "Great Granny",
@@ -34858,7 +34863,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 27075
+      "UsersEstimate": 27076
     },
     {
       "ID": "Lawmaker",
@@ -35018,7 +35023,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -35033,15 +35038,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67687,
+      "Progressed": 67689,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-12T10:00:46.1369812+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:10:34.9705195+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:10:22.6473897+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.7190339+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:00:55.5919117+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:10:34.9706745+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:00:15.0191045+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:10:22.6475238+00:00"
 }

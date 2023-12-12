@@ -2,7 +2,7 @@
   "ID": "057d6f9b0cd24dc188dd81193c02837b",
   "Name": "The Outbound Ghost",
   "ProductSlug": "the-outbound-ghost-113ccc",
-  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 127,
@@ -300,8 +300,8 @@
   "FirstSeenRating": "2023-03-31T05:58:15.4326938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.5003214+00:00",
   "LastChanged": "2023-03-31T05:58:15.4326939+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:06:47.0559453+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:06:12.0778159+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:04.8399693+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:03:10.3396181+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:06:47.0559603+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:03:41.0200518+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:06:12.0778343+00:00"
 }

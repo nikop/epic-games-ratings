@@ -945,9 +945,9 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -1018,8 +1018,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:05:43.3376988+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:05:27.275305+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.7722761+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:01:22.8668327+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:05:43.3377432+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:00:32.5759338+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:05:27.2753504+00:00"
 }

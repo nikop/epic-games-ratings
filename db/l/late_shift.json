@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 712,
+  "EOS_Progressed": 713,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.26,
   "EosHistory": [
@@ -1765,6 +1765,11 @@
       "Time": "2023-12-11T21:08:24.6292493+00:00",
       "NumProgressed": 712,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-12T15:09:39.2657154+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1776,7 +1781,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1824,7 +1829,7 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ENDING_6",
@@ -1864,7 +1869,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "GOOD_KARMA",
@@ -1888,7 +1893,7 @@
       "Name": "Office Clerk",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1896,7 +1901,7 @@
       "Name": "Proficient Storyteller",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "PROTECTOR",
@@ -1904,7 +1909,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "SABOTAGE",
@@ -1935,7 +1940,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 712,
+      "Progressed": 713,
       "Completed": 9
     }
   ],
@@ -1943,8 +1948,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:09:34.6117409+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:09:39.2657151+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:45.8510282+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:58:12.7806522+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:09:34.6117647+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:58:27.3835569+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:09:39.2657307+00:00"
 }

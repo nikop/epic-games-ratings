@@ -7,8 +7,8 @@ Rating: 4.54 (Ranked 533)
 | ---- | ---------- | ----- |
 | Hotel California | 3.00% | ~22,011 |
 | Welcome To Hell-A | 3.00% | ~22,011 |
-| Whatever It Takes | 3.00% | ~1,777 |
-| Pork Chopped | 3.00% | ~1,777 |
+| Whatever It Takes | 3.00% | ~1,778 |
+| Pork Chopped | 3.00% | ~1,778 |
 | Dr. Reed, I Presume? | 2.00% | ~14,674 |
 | Git Gutte! | 2.00% | ~14,674 |
 | Anger Management | 2.00% | ~14,674 |
@@ -46,18 +46,18 @@ Rating: 4.54 (Ranked 533)
 | Make it So | 0.60% | ~4,402 |
 | On Safari | 0.60% | ~4,402 |
 | Variety is the Spice of Death | 0.60% | ~4,402 |
-| LA Influential | 0.50% | ~3,668 |
-| Gore Horse | 0.50% | ~3,668 |
+| LA Influential | 0.50% | ~3,669 |
+| Gore Horse | 0.50% | ~3,669 |
 | Sole Survivor | 0.40% | ~2,935 |
 | Sharpest Tool in the Box | 0.40% | ~2,935 |
 | Top That, Tisha! | 0.40% | ~237 |
 | Survival Skills | 0.30% | ~2,201 |
-| Lawn and Order | 0.20% | ~118 |
+| Lawn and Order | 0.20% | ~119 |
 | Donk! | 0.10% | ~734 |
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,693 (Ranked 21)  
+Progressed: 733,715 (Ranked 21)  
 Completed: 2,479 (0.34%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 2,479 (0.34%) (Ranked 235)
 | 2023-12-09 | 732,585 | 2,471 |
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
-| 2023-12-12 | 733,693 | 2,479 |
+| 2023-12-12 | 733,715 | 2,479 |
 ## Awards
 Max (Great Boss Battles): 8,094  (Ranked 49)  
 Sum: 12,454 (Ranked 81)  

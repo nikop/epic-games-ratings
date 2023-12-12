@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Jacques a Dit | 37.00% | ~1,019 |
-| Little Helper | 33.00% | ~908 |
+| Jacques a Dit | 38.00% | ~1,046 |
+| Little Helper | 34.00% | ~936 |
 | Nazis in Paris | 26.00% | ~716 |
 | Building the Fox | 22.00% | ~606 |
 | Green Ticket Roundup | 19.00% | ~523 |

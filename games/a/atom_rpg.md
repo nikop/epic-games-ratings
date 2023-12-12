@@ -1,7 +1,7 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.47 (Ranked 643)  
+Rating: 4.47 (Ranked 642)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,8 +17,8 @@ Number of Ratings: 54  (23.09.2022)
 | Double agent | 16.00% | ~216 |
 | Paranoia | 16.00% | ~216 |
 | Kraina Grzybow | 10.00% | ~135 |
+| Love Guru | 10.00% | ~135 |
 | Savant | 10.00% | ~135 |
-| Love Guru | 9.00% | ~121 |
 | Superhuman | 9.00% | ~121 |
 | Bustin' nuts | 8.00% | ~108 |
 | Not-so-private Eye | 8.00% | ~108 |

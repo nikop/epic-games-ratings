@@ -13161,9 +13161,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 473433,
+  "EOS_Progressed": 473464,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3864,
+  "EOS_NewPlayers": 3863,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40291,6 +40291,11 @@
       "Time": "2023-12-12T14:04:37.4177854+00:00",
       "NumProgressed": 473433,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-12T15:04:41.8134094+00:00",
+      "NumProgressed": 473464,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -41412,9 +41417,9 @@
       "ID": "achievement_holy_trinity",
       "SetID": "8p2n7he",
       "Name": "Holy Trinity",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 473
     },
     {
       "ID": "achievement_home_and_away",
@@ -43205,21 +43210,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 473433,
+      "Progressed": 473464,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 473433,
+      "Progressed": 473464,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-12T14:01:56.6734029+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:04:37.4177847+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:04:41.8134085+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:01.211805+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:01:56.6734035+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:04:37.4188877+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:00:53.8195982+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:04:41.814455+00:00"
 }

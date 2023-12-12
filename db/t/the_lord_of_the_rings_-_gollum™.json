@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 619,
+  "EOS_Progressed": 620,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1698,6 +1698,11 @@
       "Time": "2023-12-08T18:04:10.9563254+00:00",
       "NumProgressed": 619,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-12T15:06:35.1517623+00:00",
+      "NumProgressed": 620,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1733,7 +1738,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "Chapter10",
@@ -1749,7 +1754,7 @@
       "Name": "The Maggot",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Chapter3",
@@ -1861,7 +1866,7 @@
       "Name": "Like Flying...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "GollumChoices",
@@ -1877,7 +1882,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Memories",
@@ -1989,21 +1994,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 619,
+      "Progressed": 620,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:07:19.8465969+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:06:35.1517618+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:19.044384+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:59:59.0870597+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:07:19.846626+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:59:38.2257089+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:06:35.151793+00:00"
 }

@@ -124,6 +124,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Guarantor of Peace | 0.10% | ~473 |
 | Hard Bargaining | 0.10% | ~473 |
 | Holiest Roman Empire | 0.10% | ~473 |
+| Holy Trinity | 0.10% | ~473 |
 | Home and Away | 0.10% | ~473 |
 | Imperio español | 0.10% | ~473 |
 | Imposter Syndrome | 0.10% | ~473 |
@@ -316,7 +317,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hessian Mercenaries | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
 | Holy Horder | 0.00% | ~0 |
-| Holy Trinity | 0.00% | ~0 |
 | Ideas Guy | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,433 (Ranked 41)  
+Progressed: 473,464 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -606,7 +606,7 @@ Completed: 1 (0.00%) (Ranked 372)
 | 2023-12-09 | 472,114 | 1 |
 | 2023-12-10 | 472,739 | 1 |
 | 2023-12-11 | 473,225 | 1 |
-| 2023-12-12 | 473,433 | 1 |
+| 2023-12-12 | 473,464 | 1 |
 ## Awards
 Max (Educational): 7,340  (Ranked 54)  
 Sum: 60,507 (Ranked 24)  

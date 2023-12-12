@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 959,
+  "EOS_Progressed": 960,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.74,
+  "EOS_Completed_Percentage": 5.73,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3840,6 +3840,11 @@
       "Time": "2023-12-12T13:09:14.7038939+00:00",
       "NumProgressed": 959,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-12-12T15:04:20.4902772+00:00",
+      "NumProgressed": 960,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 25,
@@ -3851,7 +3856,7 @@
       "Name": "I did it",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "END_GOOD",
@@ -3875,7 +3880,7 @@
       "Name": "Cable guy",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3891,7 +3896,7 @@
       "Name": "Half the way",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3923,7 +3928,7 @@
       "Name": "A great audience",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "META_RESULT_2-4",
@@ -3931,7 +3936,7 @@
       "Name": "For its own good",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "META_RESULT_3-4",
@@ -3947,7 +3952,7 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -4011,7 +4016,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "PROGRESS_N2",
@@ -4043,21 +4048,21 @@
       "Name": "One last step",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 959,
+      "Progressed": 960,
       "Completed": 55
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:04:07.6196875+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:04:20.4902768+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:58:31.1586641+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:04:07.6197237+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:58:39.9678739+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:04:20.4903161+00:00"
 }

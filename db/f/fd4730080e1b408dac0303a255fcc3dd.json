@@ -2,7 +2,7 @@
   "ID": "fd4730080e1b408dac0303a255fcc3dd",
   "Name": "Hamster on Rails",
   "ProductSlug": "hamster-on-rails-34148e",
-  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 127,
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-07T16:02:18.0697733+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:04:08.3385907+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:04:20.959623+00:00",
   "LastUpdate_AppInfo": "2023-12-12T02:21:11.7446301+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:01:14.7028602+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:04:08.3385939+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:00:27.5926639+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:04:20.9596262+00:00"
 }

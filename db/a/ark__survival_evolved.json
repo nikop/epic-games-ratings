@@ -5,7 +5,7 @@
   "Ranking_Rating": 451,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 13,
-  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 127,
@@ -15360,10 +15360,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 280322,
       "NumberOfAwardsMax": 64568
+    },
+    {
+      "Time": "2023-12-12T14:58:27.8355883+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 280341,
+      "NumberOfAwardsMax": 64568
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 280322,
+  "NumberOfAwards": 280341,
   "NumberOfAwardsMax": 64568,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15383,7 +15389,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22530
+      "Count": 22536
     },
     {
       "Text": "This game is Extremely Fun",
@@ -15407,7 +15413,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20604
+      "Count": 20608
     },
     {
       "Text": "This game has Competitive Players",
@@ -15431,7 +15437,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24089
+      "Count": 24098
     },
     {
       "Text": "This game is Relaxing",
@@ -15451,8 +15457,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-12-12T01:45:56.8002535+00:00",
+  "LastChanged": "2023-12-12T14:58:27.8355881+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:22.0213405+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:58:13.4431337+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:05:01.7622181+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:58:27.8355888+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:04:58.7226954+00:00"
 }

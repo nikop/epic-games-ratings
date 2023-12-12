@@ -615,7 +615,7 @@
   ],
   "EOS_Progressed": 3287,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9994,9 +9994,9 @@
       "ID": "scrollmaster",
       "SetID": "3nl4bcg",
       "Name": "Scroll Master",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 296
     },
     {
       "ID": "silverwoodliberator",
@@ -10171,8 +10171,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-11T19:56:52.1316806+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:08:11.7998409+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:07:11.7878604+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:57:42.653947+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:08:11.7999271+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:58:06.8797534+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:07:11.7879493+00:00"
 }

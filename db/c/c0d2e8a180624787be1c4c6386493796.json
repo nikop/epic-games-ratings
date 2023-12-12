@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -515,9 +515,9 @@
       "ID": "KR4_ACHIEVEMENT_BARNY",
       "SetID": "caeik3h",
       "Name": "BUUURP!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "KR4_ACHIEVEMENT_BILBO_DOOR",
@@ -1128,8 +1128,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:06:42.7497217+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:06:09.0832658+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:53.8103037+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:05:58.6958636+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:06:42.7497939+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:57:44.9208953+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:06:09.0833249+00:00"
 }

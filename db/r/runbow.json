@@ -2,12 +2,12 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 655,
+  "Ranking_Rating": 654,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252094,
+  "EOS_Progressed": 252095,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21122,6 +21122,11 @@
       "Time": "2023-12-12T13:15:18.6484995+00:00",
       "NumProgressed": 252094,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-12T15:10:06.2833909+00:00",
+      "NumProgressed": 252095,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21333,7 +21338,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65544
+      "UsersEstimate": 65545
     },
     {
       "ID": "justABit",
@@ -21373,7 +21378,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126047
+      "UsersEstimate": 126048
     },
     {
       "ID": "notScared",
@@ -21500,7 +21505,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252094,
+      "Progressed": 252095,
       "Completed": 6
     }
   ],
@@ -21508,8 +21513,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:10:12.3427183+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:10:06.2833903+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.3008765+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:59:21.2553281+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:10:12.3428394+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:59:12.3491354+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:10:06.283498+00:00"
 }

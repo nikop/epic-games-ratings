@@ -121,11 +121,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1121,
+  "EOS_Progressed": 1122,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.68,
+  "EOS_Completed_Percentage": 2.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -3836,6 +3836,11 @@
       "Time": "2023-12-12T14:08:29.700893+00:00",
       "NumProgressed": 1121,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-12T15:08:53.9820594+00:00",
+      "NumProgressed": 1122,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 28,
@@ -3847,7 +3852,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "MQ01_2",
@@ -3855,7 +3860,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "MQ02_1",
@@ -3895,7 +3900,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "MQ03_2",
@@ -3935,15 +3940,15 @@
       "Name": "Going Once...",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 370
+      "UsersEstimate": 381
     },
     {
       "ID": "MQ04_3",
@@ -3951,7 +3956,7 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "MQ05_1",
@@ -3967,7 +3972,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "MQ05_3",
@@ -3991,7 +3996,7 @@
       "Name": "Brain Food",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "MQ06_2",
@@ -4015,7 +4020,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "MQ07_1",
@@ -4031,7 +4036,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "MQ08_1",
@@ -4070,7 +4075,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1121,
+      "Progressed": 1122,
       "Completed": 30
     }
   ],
@@ -4078,8 +4083,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-12T11:03:07.9199744+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:08:29.7008924+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:08:53.9820589+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:03:22.8707337+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:08:29.7009259+00:00"
+  "LastUpdate_Ratings": "2023-12-12T15:03:49.532939+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:08:53.9820883+00:00"
 }

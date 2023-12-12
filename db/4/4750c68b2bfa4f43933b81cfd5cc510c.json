@@ -2511,9 +2511,9 @@
       "Count": 504
     }
   ],
-  "EOS_Progressed": 56563,
+  "EOS_Progressed": 56564,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 507,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12041,6 +12041,11 @@
       "Time": "2023-12-12T14:06:44.9369692+00:00",
       "NumProgressed": 56563,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T15:06:10.6421776+00:00",
+      "NumProgressed": 56564,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -12077,7 +12082,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 36766
+      "UsersEstimate": 36767
     },
     {
       "ID": "achievement_13",
@@ -12085,7 +12090,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 30544
+      "UsersEstimate": 30545
     },
     {
       "ID": "achievement_14",
@@ -12093,7 +12098,7 @@
       "Name": "The Alchemist",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 28847
+      "UsersEstimate": 28848
     },
     {
       "ID": "achievement_15",
@@ -12109,7 +12114,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 24322
+      "UsersEstimate": 24323
     },
     {
       "ID": "achievement_17",
@@ -12117,7 +12122,7 @@
       "Name": "One Moment Please!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 33372
+      "UsersEstimate": 33373
     },
     {
       "ID": "achievement_18",
@@ -12157,7 +12162,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 46947
+      "UsersEstimate": 46948
     },
     {
       "ID": "achievement_22",
@@ -12173,7 +12178,7 @@
       "Name": "Graduation Day",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 27150
+      "UsersEstimate": 27151
     },
     {
       "ID": "achievement_24",
@@ -12245,7 +12250,7 @@
       "Name": "Dazzling Personality",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 13009
+      "UsersEstimate": 13010
     },
     {
       "ID": "achievement_32",
@@ -12301,7 +12306,7 @@
       "Name": "European Legend",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8484
+      "UsersEstimate": 8485
     },
     {
       "ID": "achievement_39",
@@ -12365,14 +12370,14 @@
       "Name": "Bring it on",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 16403
+      "UsersEstimate": 16404
     }
   ],
   "AchievementSets": [
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 56563,
+      "Progressed": 56564,
       "Completed": 0
     }
   ],
@@ -12380,8 +12385,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-12-12T10:59:05.5879318+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:06:44.9369686+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:06:10.6421768+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:08.0940773+00:00",
-  "LastUpdate_Ratings": "2023-12-12T14:00:21.4430774+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:06:44.9370286+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:59:52.5956008+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:06:10.6422374+00:00"
 }

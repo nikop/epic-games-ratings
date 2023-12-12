@@ -9,9 +9,9 @@
 | Daddy’s Glasses | 53.00% | ~47 |
 | The Best Snowman Ever! | 47.00% | ~42 |
 | Whose tracks are these? | 46.00% | ~41 |
-| Rounding Up the Chickens. | 45.00% | ~40 |
+| Rounding Up the Chickens. | 46.00% | ~41 |
 | Collecting Sticks For the Campfire. | 40.00% | ~36 |
-| What’s in These Rockpools? | 37.00% | ~33 |
+| What’s in These Rockpools? | 38.00% | ~34 |
 | Where’s Mr. Dinosaur? | 24.00% | ~21 |
 | Helping Tiddles the Tortoise. | 24.00% | ~21 |
 | Always Remember To Eat Your Five! | 10.00% | ~9 |

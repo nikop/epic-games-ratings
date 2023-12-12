@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4625,9 +4625,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77920,
+  "EOS_Progressed": 77922,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25740,6 +25740,11 @@
       "Time": "2023-12-12T14:08:12.1032927+00:00",
       "NumProgressed": 77920,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-12T15:07:12.1393434+00:00",
+      "NumProgressed": 77922,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25799,7 +25804,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17142
+      "UsersEstimate": 17143
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -25831,7 +25836,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9350
+      "UsersEstimate": 9351
     },
     {
       "ID": "APPLY_STATUS",
@@ -25847,7 +25852,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13246
+      "UsersEstimate": 13247
     },
     {
       "ID": "CLAYFACE_1",
@@ -25855,7 +25860,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16363
+      "UsersEstimate": 16364
     },
     {
       "ID": "CLAYFACE_2",
@@ -25895,7 +25900,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5454
+      "UsersEstimate": 5455
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -25927,7 +25932,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9350
+      "UsersEstimate": 9351
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -26079,7 +26084,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12467
+      "UsersEstimate": 12468
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -26095,7 +26100,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38960
+      "UsersEstimate": 38961
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -26127,7 +26132,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 21038
+      "UsersEstimate": 21039
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -26159,7 +26164,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17142
+      "UsersEstimate": 17143
     },
     {
       "ID": "MYSTERY_04",
@@ -26199,7 +26204,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9350
+      "UsersEstimate": 9351
     },
     {
       "ID": "SECRET_CACHE",
@@ -26238,13 +26243,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77920,
+      "Progressed": 77922,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48200,
+      "Progressed": 48202,
       "Completed": 2675
     }
   ],
@@ -26252,8 +26257,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-12T10:58:26.7843116+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:08:12.1032921+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:07:12.1393428+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:59:22.922837+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:08:12.1034411+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:59:13.3689182+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:07:12.1394535+00:00"
 }

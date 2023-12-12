@@ -6,19 +6,19 @@ Number of Ratings: 154  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sonic the Hedgehog | 93.00% | ~597 |
-| Newbie Hero | 81.00% | ~520 |
-| Welcome to Sonic CD | 70.00% | ~449 |
-| Welcome to Sonic 3 & Knuckles | 70.00% | ~449 |
-| Welcome to Sonic the Hedgehog 2 | 69.00% | ~443 |
+| Welcome to Sonic the Hedgehog | 93.00% | ~598 |
+| Newbie Hero | 81.00% | ~521 |
+| Welcome to Sonic CD | 70.00% | ~450 |
+| Welcome to Sonic 3 & Knuckles | 70.00% | ~450 |
+| Welcome to Sonic the Hedgehog 2 | 69.00% | ~444 |
 | Ring Collector | 66.00% | ~424 |
-| Time Traveler | 65.00% | ~417 |
-| Everyone's Hero | 62.00% | ~398 |
-| Easy Peasy with Shields | 58.00% | ~372 |
-| Bubbly Breath | 57.00% | ~366 |
-| Gallant Spin Dash | 57.00% | ~366 |
+| Time Traveler | 65.00% | ~418 |
+| Everyone's Hero | 62.00% | ~399 |
+| Easy Peasy with Shields | 58.00% | ~373 |
+| Bubbly Breath | 57.00% | ~367 |
+| Gallant Spin Dash | 57.00% | ~367 |
 | Knuckles the Echidna | 56.00% | ~360 |
-| Miles "Tails" Prower | 55.00% | ~353 |
+| Miles "Tails" Prower | 55.00% | ~354 |
 | Boss Rush Attempt | 49.00% | ~315 |
 | Cleared Sonic the Hedgehog | 47.00% | ~302 |
 | Super Sonic | 42.00% | ~270 |
@@ -38,12 +38,12 @@ Number of Ratings: 154  (23.09.2022)
 | Sonic the Hedgehog Mission Master | 16.00% | ~103 |
 | Beware Rhinobots! | 14.00% | ~90 |
 | Art Appreciator | 14.00% | ~90 |
-| Sonic CD Mission Master | 13.00% | ~83 |
-| S3 & K Mission Master | 13.00% | ~83 |
+| Sonic CD Mission Master | 13.00% | ~84 |
+| S3 & K Mission Master | 13.00% | ~84 |
 | Sonic the Hedgehog 2 Mission Master | 11.00% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 642 (Ranked 298)  
-Completed: 45 (7.01%) (Ranked 62)  
+Progressed: 643 (Ranked 298)  
+Completed: 45 (7.00%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,6 +199,7 @@ Completed: 45 (7.01%) (Ranked 62)
 | 2023-12-08 | 640 | 45 |
 | 2023-12-09 | 641 | 45 |
 | 2023-12-10 | 642 | 45 |
+| 2023-12-12 | 643 | 45 |
 ## Awards
 Max (Great Boss Battles): 131  (Ranked 332)  
 Sum: 131 (Ranked 436)  

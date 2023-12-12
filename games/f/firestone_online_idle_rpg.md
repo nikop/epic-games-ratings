@@ -33,12 +33,12 @@ Rating: 4.01 (Ranked 1,009)
 | Doing My Part | 9.00% | ~296 |
 | Hunter | 9.00% | ~296 |
 | Mastery | 9.00% | ~296 |
+| Scroll Master | 9.00% | ~296 |
 | The power of Awakening | 9.00% | ~296 |
 | Four Leaf Clover | 8.00% | ~263 |
 | Frostfire Liberator | 8.00% | ~263 |
 | Moving Up The Ladder | 8.00% | ~263 |
 | Relic Of The Past | 8.00% | ~263 |
-| Scroll Master | 8.00% | ~263 |
 | Here We Go Again | 7.00% | ~230 |
 | Master Enchanter | 7.00% | ~230 |
 | The father of Dragons | 7.00% | ~230 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -669,9 +669,9 @@
       "ID": "id_51",
       "SetID": "bk9jib6",
       "Name": "The fourth triplet",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "id_52",
@@ -814,8 +814,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-07T03:59:22.4212557+00:00",
-  "LastChanged_Achievements": "2023-12-12T14:10:16.5053383+00:00",
+  "LastChanged_Achievements": "2023-12-12T15:10:09.1273829+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:56.0981722+00:00",
-  "LastUpdate_Ratings": "2023-12-12T13:59:29.6866899+00:00",
-  "LastUpdate_Achievements": "2023-12-12T14:10:16.5053743+00:00"
+  "LastUpdate_Ratings": "2023-12-12T14:59:17.7592694+00:00",
+  "LastUpdate_Achievements": "2023-12-12T15:10:09.1274177+00:00"
 }
