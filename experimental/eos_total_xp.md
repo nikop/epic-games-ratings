@@ -797,6 +797,7 @@
 | [Tri6 Infinite](../games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 24 | 1,000 |
 | [Tribu](../games/e/e7b4e081597b4c148f26d6e8d6866efd.md) | 14 | 1,000 |
 | [Trifox](../games/t/trifox.md) | 46 | 1,000 |
+| [Trinity Fusion](../games/t/trinity_fusion.md) | 46 | 1,000 |
 | [Tropico 6](../games/t/tropico_6.md) | 40 | 1,000 |
 | [Troublemaker](../games/t/troublemaker.md) | 25 | 1,000 |
 | [TT Isle of Man: Ride on the Edge 3](../games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 39 | 1,000 |
