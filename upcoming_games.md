@@ -150,7 +150,7 @@
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 396,678 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 396,695 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -163,6 +163,7 @@
 | [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | - |  | - | - |
 | [BoltBreak 2](games/5/597a33e3a06945278a30506a8496345f.md) | 2024-09-30 | - |  | - | - |
 | [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2024-09-30 | - |  | - | - |
+| [Ememe](games/2/2a5c8c9ac1d54eb39a5df0bce74cc66e.md) | 2024-09-30 | - |  | - | - |
 | [Flintlock: The Siege of Dawn](games/f/flintlock_-_the_siege_of_dawn.md) | 2024-09-30 | - |  | - | - |
 | [Hidden Pass](games/9/9cda6b0af2b040728763a7f798370910.md) | 2024-09-30 | - |  | - | - |
 | [Spiral](games/4/4ac2b56f3cbb4de58183d6f20ee834a1.md) | 2024-09-30 | - |  | - | - |
@@ -227,6 +228,7 @@
 | [Vampire Clans](games/b/b9db41117c624579ae611ce280503693.md) | 2024-12-31 | - |  | - | - |
 | [VED](games/v/ved.md) | 2024-12-31 | - |  | - | - |
 | [While We Wait Here](games/w/while_we_wait_here.md) | 2024-12-31 | - |  | - | - |
+| [Zoological Era II](games/1/18c28ba59bcd422d82458f75452d6c34.md) | 2024-12-31 | - |  | - | - |
 | [SpaceSlog](games/s/spaceslog.md) | 2025-02-28 | - |  | - | - |
 | [Crystal Ball Critters](games/9/9f72ba7c750948d0ba91b26f9c989b3f.md) | 2025-06-30 | - |  | - | - |
 | [Big Walk](games/2/271473d449b34fa5825cd0c6af7ca728.md) | 2025-12-31 | - |  | - | - |
@@ -326,6 +328,7 @@
 | [Goldilock One - BOSS Arena](games/g/goldilock_one_-_boss_arena.md) | 2099-01-01 | - |  | - | - |
 | [Good Heavens!](games/g/good_heavens!.md) | 2099-01-01 | - |  | - | - |
 | [Guardians of Elderon](games/g/guardians_of_elderon.md) | 2099-01-01 | - |  | - | - |
+| [Happy Time](games/0/0c3400dec5ec47399810c08113c09958.md) | 2099-01-01 | - |  | - | - |
 | [Headquarters World War 2](games/h/headquarters_world_war_2.md) | 2099-01-01 | - |  | - | - |
 | [HELIX](games/b/bfaeb968e658400db8cc48fd4bae1081.md) | 2099-01-01 | - |  | - | - |
 | [Highwater](games/h/highwater.md) | 2099-01-01 | - |  | - | - |
