@@ -6,14 +6,14 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 47.00% | ~17 |
-| Rock of the Bay | 42.00% | ~15 |
-| Furon Fashion | 31.00% | ~11 |
-| Ducks in a Row, Fish in a Barrel | 31.00% | ~11 |
-| Shop Til They Drop | 28.00% | ~10 |
-| I Look Up As I Walk to Takoshima | 22.00% | ~8 |
+| Mash Machine | 46.00% | ~17 |
+| Rock of the Bay | 43.00% | ~16 |
+| Furon Fashion | 30.00% | ~11 |
+| Ducks in a Row, Fish in a Barrel | 30.00% | ~11 |
+| Shop Til They Drop | 27.00% | ~10 |
+| I Look Up As I Walk to Takoshima | 24.00% | ~9 |
 | Upgreatest | 22.00% | ~8 |
-| Earthly Pleasures | 17.00% | ~6 |
+| Earthly Pleasures | 16.00% | ~6 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 14.00% | ~5 |
 | Pimp My Raid | 14.00% | ~5 |
 | Cult Following | 11.00% | ~4 |
@@ -25,9 +25,9 @@ Number of Ratings: 90  (23.09.2022)
 | Die Nasty | 8.00% | ~3 |
 | Scuttled | 8.00% | ~3 |
 | Dusted | 8.00% | ~3 |
-| Kaijuiced | 6.00% | ~2 |
-| Lobster Blisque | 6.00% | ~2 |
-| Freshly Squeezed | 6.00% | ~2 |
+| Kaijuiced | 5.00% | ~2 |
+| Lobster Blisque | 5.00% | ~2 |
+| Freshly Squeezed | 5.00% | ~2 |
 | Forbidden Donut | 3.00% | ~1 |
 | Deincarnated | 3.00% | ~1 |
 | Yettisoned | 3.00% | ~1 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 | Arkvoodle Doodle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 533)  
+Progressed: 37 (Ranked 530)  
 Completed: 0 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,6 +67,7 @@ Completed: 0 (0.00%) (Ranked 371)
 | 2023-12-09 | 28 | 0 |
 | 2023-12-10 | 30 | 0 |
 | 2023-12-11 | 36 | 0 |
+| 2023-12-12 | 37 | 0 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 481)  
 Sum: 35 (Ranked 509)  

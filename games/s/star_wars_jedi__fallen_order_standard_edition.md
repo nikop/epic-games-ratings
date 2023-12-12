@@ -5,27 +5,27 @@ Rating: 4.66 (Ranked 296)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~22,950 |
-| A Long Time Ago | 93.00% | ~21,344 |
-| Sabersmith | 80.00% | ~18,360 |
-| The Obstacle is the Way | 78.00% | ~17,901 |
-| Back At You | 73.00% | ~16,754 |
-| Happy Go Wookiee | 69.00% | ~15,835 |
-| Everything is Connected | 60.00% | ~13,770 |
-| Her Name Was Masana Tide | 55.00% | ~12,623 |
-| Bank Shot | 54.00% | ~12,393 |
-| Perfect Timing | 53.00% | ~12,164 |
-| Gorgara Falls | 51.00% | ~11,704 |
-| The Full Glow-Up | 50.00% | ~11,475 |
+| The Mantis | 100.00% | ~22,952 |
+| A Long Time Ago | 93.00% | ~21,345 |
+| Sabersmith | 80.00% | ~18,362 |
+| The Obstacle is the Way | 78.00% | ~17,903 |
+| Back At You | 73.00% | ~16,755 |
+| Happy Go Wookiee | 69.00% | ~15,837 |
+| Everything is Connected | 60.00% | ~13,771 |
+| Her Name Was Masana Tide | 55.00% | ~12,624 |
+| Bank Shot | 54.00% | ~12,394 |
+| Perfect Timing | 53.00% | ~12,165 |
+| Gorgara Falls | 51.00% | ~11,706 |
+| The Full Glow-Up | 50.00% | ~11,476 |
 | For A More Civilized Age | 49.00% | ~11,246 |
-| I Knew He Was No Good | 47.00% | ~10,786 |
-| The Holocron Awaits | 46.00% | ~10,557 |
-| Look Out Below | 44.00% | ~10,098 |
-| Trust Only In The Force | 44.00% | ~10,098 |
-| Scum and Villainy | 43.00% | ~9,868 |
-| Don't Mess with BD-1 | 42.00% | ~9,639 |
-| Blade Master | 39.00% | ~8,950 |
-| Full House | 36.00% | ~8,262 |
+| I Knew He Was No Good | 47.00% | ~10,787 |
+| The Holocron Awaits | 46.00% | ~10,558 |
+| Look Out Below | 44.00% | ~10,099 |
+| Trust Only In The Force | 44.00% | ~10,099 |
+| Scum and Villainy | 43.00% | ~9,869 |
+| Don't Mess with BD-1 | 42.00% | ~9,640 |
+| Blade Master | 39.00% | ~8,951 |
+| Full House | 36.00% | ~8,263 |
 | Legendary Beasts | 22.00% | ~5,049 |
 | Echo Location | 20.00% | ~4,590 |
 | Visiting Alderaan Places | 18.00% | ~4,131 |
@@ -41,11 +41,11 @@ Rating: 4.66 (Ranked 296)
 | Kickoff | 4.00% | ~918 |
 | Green Thumb | 4.00% | ~918 |
 | A Galaxy Far, Far Away | 4.00% | ~918 |
-| What Goes Around... | 3.00% | ~688 |
+| What Goes Around... | 3.00% | ~689 |
 | Kicking Back | 2.00% | ~459 |
 | Not So Fast | 1.00% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,950 (Ranked 141)  
+Progressed: 22,952 (Ranked 141)  
 Completed: 237 (1.03%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 237 (1.03%) (Ranked 169)
 | 2023-12-09 | 22,586 | 233 |
 | 2023-12-10 | 22,804 | 235 |
 | 2023-12-11 | 22,911 | 237 |
-| 2023-12-12 | 22,950 | 237 |
+| 2023-12-12 | 22,952 | 237 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

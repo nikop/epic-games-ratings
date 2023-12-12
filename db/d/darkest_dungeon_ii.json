@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9594,9 +9594,9 @@
       "Count": 986
     }
   ],
-  "EOS_Progressed": 126290,
+  "EOS_Progressed": 126304,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34609,6 +34609,11 @@
       "Time": "2023-12-12T05:09:37.8850065+00:00",
       "NumProgressed": 126290,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-12T06:09:08.7957888+00:00",
+      "NumProgressed": 126304,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34722,9 +34727,9 @@
       "ID": "altar_of_hope_upgrade_total_quarter",
       "SetID": "64l4lke",
       "Name": "Hope Rekindled",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 253
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -34754,9 +34759,9 @@
       "ID": "combat_kill_cadavers",
       "SetID": "64l4lke",
       "Name": "Dissector",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "combat_kill_cosmic",
@@ -34818,9 +34823,9 @@
       "ID": "combat_kill_harvest_child",
       "SetID": "64l4lke",
       "Name": "Meat and Greet",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 884
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -34842,9 +34847,9 @@
       "ID": "combat_kill_librarian",
       "SetID": "64l4lke",
       "Name": "Overdue Notice",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 884
     },
     {
       "ID": "combat_kill_pillagers",
@@ -34972,7 +34977,7 @@
       "Name": "Autodidact",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "hero_story_complete_all",
@@ -35026,9 +35031,9 @@
       "ID": "inn_replacement_hero_add",
       "SetID": "64l4lke",
       "Name": "FNG",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35082,9 +35087,9 @@
       "ID": "run_victory_act02",
       "SetID": "64l4lke",
       "Name": "Hot Air",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 253
     },
     {
       "ID": "run_victory_act03",
@@ -35210,9 +35215,9 @@
       "ID": "hero_story_complete_duelist",
       "SetID": "d3bcpc8",
       "Name": "Bloody Graduation",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "quest_complete_crusader",
@@ -35251,21 +35256,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126290,
+      "Progressed": 126304,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1159,
+      "Progressed": 1173,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T03:59:20.098061+00:00",
-  "LastChanged_Achievements": "2023-12-12T05:09:37.8850062+00:00",
+  "LastChanged_Achievements": "2023-12-12T06:09:08.7957883+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T04:59:29.2540538+00:00",
-  "LastUpdate_Achievements": "2023-12-12T05:09:37.8851729+00:00"
+  "LastUpdate_Ratings": "2023-12-12T05:59:32.0027862+00:00",
+  "LastUpdate_Achievements": "2023-12-12T06:09:08.7959654+00:00"
 }

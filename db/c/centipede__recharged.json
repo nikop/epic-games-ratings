@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23176,
+  "EOS_Progressed": 23178,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -19549,6 +19549,11 @@
       "Time": "2023-12-12T05:04:36.3287883+00:00",
       "NumProgressed": 23176,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-12T06:04:20.6787207+00:00",
+      "NumProgressed": 23178,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 16,
@@ -19560,7 +19565,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 5562
+      "UsersEstimate": 5563
     },
     {
       "ID": "Burning_For_You",
@@ -19592,7 +19597,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "Feel_The_Thunder",
@@ -19638,9 +19643,9 @@
       "ID": "Mirrors",
       "SetID": "96f13ae",
       "Name": "Mirrors",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 209
+      "UsersEstimate": 185
     },
     {
       "ID": "Shadow_Warrior",
@@ -19656,7 +19661,7 @@
       "Name": "Shooting Shark",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 11124
+      "UsersEstimate": 11125
     },
     {
       "ID": "Sole_Survivor",
@@ -19687,15 +19692,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 23176,
+      "Progressed": 23178,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-11-18T21:04:30.8986363+00:00",
-  "LastChanged_Achievements": "2023-12-12T05:04:36.328788+00:00",
+  "LastChanged_Achievements": "2023-12-12T06:04:20.6787203+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:23.9972538+00:00",
-  "LastUpdate_Ratings": "2023-12-12T04:58:57.4703233+00:00",
-  "LastUpdate_Achievements": "2023-12-12T05:04:36.3288915+00:00"
+  "LastUpdate_Ratings": "2023-12-12T05:58:59.001187+00:00",
+  "LastUpdate_Achievements": "2023-12-12T06:04:20.6788296+00:00"
 }

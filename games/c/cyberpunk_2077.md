@@ -6,20 +6,20 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,973 |
-| Gun Fu | 7.00% | ~68,234 |
-| The Fool | 6.00% | ~58,487 |
-| Right Back At Ya | 5.00% | ~48,739 |
-| The Lovers | 5.00% | ~48,739 |
-| Full Body Conversion | 4.00% | ~38,991 |
-| Stanislavski's Method | 4.00% | ~38,991 |
-| True Soldier | 4.00% | ~38,991 |
-| Christmas Tree Attack | 3.00% | ~29,243 |
-| The Hermit | 3.00% | ~29,243 |
-| The Wheel of Fortune | 3.00% | ~29,243 |
-| Relic Ruler | 3.00% | ~3,102 |
-| All the President's Men | 3.00% | ~3,102 |
-| Arachnophobia | 3.00% | ~3,102 |
+| V for Vendetta | 12.00% | ~116,975 |
+| Gun Fu | 7.00% | ~68,236 |
+| The Fool | 6.00% | ~58,488 |
+| Right Back At Ya | 5.00% | ~48,740 |
+| The Lovers | 5.00% | ~48,740 |
+| Full Body Conversion | 4.00% | ~38,992 |
+| Stanislavski's Method | 4.00% | ~38,992 |
+| True Soldier | 4.00% | ~38,992 |
+| Christmas Tree Attack | 3.00% | ~29,244 |
+| The Hermit | 3.00% | ~29,244 |
+| The Wheel of Fortune | 3.00% | ~29,244 |
+| Relic Ruler | 3.00% | ~3,103 |
+| All the President's Men | 3.00% | ~3,103 |
+| Arachnophobia | 3.00% | ~3,103 |
 | Bushido and Chill | 2.00% | ~19,496 |
 | Master Crafter | 2.00% | ~19,496 |
 | The Quick and the Dead | 2.00% | ~19,496 |
@@ -38,8 +38,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.90% | ~931 |
 | The Sun | 0.80% | ~7,798 |
 | Dirty Deeds | 0.80% | ~827 |
-| To Bad Decisions! | 0.70% | ~6,823 |
-| Ten out of Ten | 0.70% | ~6,823 |
+| To Bad Decisions! | 0.70% | ~6,824 |
+| Ten out of Ten | 0.70% | ~6,824 |
 | The Star | 0.60% | ~5,849 |
 | Autojock | 0.50% | ~4,874 |
 | Breathtaking | 0.50% | ~4,874 |
@@ -50,6 +50,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Must Be Rats | 0.40% | ~3,899 |
 | Temperance | 0.40% | ~3,899 |
 | King of Pentacles | 0.40% | ~414 |
+| King of Cups | 0.30% | ~310 |
 | City Lights | 0.20% | ~1,950 |
 | Little Tokyo | 0.20% | ~1,950 |
 | The Wasteland | 0.20% | ~1,950 |
@@ -57,7 +58,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Greetings from Pacifica! | 0.20% | ~1,950 |
 | The Jungle | 0.20% | ~1,950 |
 | It's Elementary | 0.20% | ~1,950 |
-| King of Cups | 0.20% | ~207 |
 | Frequent Flyer | 0.10% | ~975 |
 | Gunslinger | 0.10% | ~975 |
 | Mean Streets | 0.10% | ~975 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974,776 (Ranked 15)  
+Progressed: 974,794 (Ranked 15)  
 Completed: 2,887 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 2,887 (0.30%) (Ranked 240)
 | 2023-12-09 | 973,443 | 2,872 |
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
-| 2023-12-12 | 974,776 | 2,887 |
+| 2023-12-12 | 974,794 | 2,887 |
 ## Awards
 Max (Character Customization): 121,434  (Ranked 9)  
 Sum: 411,438 (Ranked 9)  

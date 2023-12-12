@@ -5,10 +5,10 @@
   "Ranking_Rating": 545,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 533,
+  "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -270,9 +270,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -445,6 +445,11 @@
       "Time": "2023-12-11T17:06:47.8815535+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-12T06:08:34.9697551+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -455,7 +460,7 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -487,7 +492,7 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -567,7 +572,7 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -591,9 +596,9 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -607,9 +612,9 @@
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -631,7 +636,7 @@
       "ID": "ACH_KILL_KOJIRA",
       "SetID": "4n84pon",
       "Name": "Kaijuiced",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -639,7 +644,7 @@
       "ID": "ACH_KILL_MILENKOV",
       "SetID": "4n84pon",
       "Name": "Lobster Blisque",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -647,7 +652,7 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -703,7 +708,7 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -791,7 +796,7 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -808,7 +813,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
@@ -816,8 +821,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-10-14T18:57:04.8470544+00:00",
-  "LastChanged_Achievements": "2023-12-12T05:09:05.227718+00:00",
+  "LastChanged_Achievements": "2023-12-12T06:08:34.9697546+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.5493724+00:00",
-  "LastUpdate_Ratings": "2023-12-12T04:57:46.6883762+00:00",
-  "LastUpdate_Achievements": "2023-12-12T05:09:05.2277449+00:00"
+  "LastUpdate_Ratings": "2023-12-12T05:57:47.6486336+00:00",
+  "LastUpdate_Achievements": "2023-12-12T06:08:34.9697837+00:00"
 }

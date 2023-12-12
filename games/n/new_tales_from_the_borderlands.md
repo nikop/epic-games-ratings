@@ -9,8 +9,8 @@ Rating: 4.08 (Ranked 983)
 | Totally Intentional | 45.00% | ~1,670 |
 | Each Sold Separately | 38.00% | ~1,410 |
 | We're In | 33.00% | ~1,224 |
+| You're Not Naked | 30.00% | ~1,113 |
 | Tale in the Toilet | 30.00% | ~1,113 |
-| You're Not Naked | 29.00% | ~1,076 |
 | From Zeroes... | 29.00% | ~1,076 |
 | Don't Get Cocky | 27.00% | ~1,002 |
 | Shard Snatchers | 25.00% | ~928 |

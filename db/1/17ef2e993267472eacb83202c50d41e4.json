@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8727,
+  "EOS_Progressed": 8728,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8530,6 +8530,11 @@
       "Time": "2023-12-12T00:09:45.7645144+00:00",
       "NumProgressed": 8727,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-12T06:10:32.7422513+00:00",
+      "NumProgressed": 8728,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8590,7 +8595,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "CreditsSpent50000",
@@ -8662,7 +8667,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "GamesPlayed10",
@@ -8686,7 +8691,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "GamesWon10",
@@ -8716,9 +8721,9 @@
       "ID": "GrenadeLauncherUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded the Grenade Launcher to Level 3",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 349
     },
     {
       "ID": "HAPurchased1",
@@ -8734,7 +8739,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "HAUpgraded1",
@@ -8758,7 +8763,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "HSUPurchased1",
@@ -8806,7 +8811,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "InhibitorKills3",
@@ -9133,7 +9138,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8727,
+      "Progressed": 8728,
       "Completed": 1
     }
   ],
@@ -9141,8 +9146,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-11T03:00:37.8400947+00:00",
-  "LastChanged_Achievements": "2023-12-12T05:10:58.9368227+00:00",
+  "LastChanged_Achievements": "2023-12-12T06:10:32.742251+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.1858441+00:00",
-  "LastUpdate_Ratings": "2023-12-12T04:57:53.7779598+00:00",
-  "LastUpdate_Achievements": "2023-12-12T05:10:58.9369128+00:00"
+  "LastUpdate_Ratings": "2023-12-12T05:57:54.7730342+00:00",
+  "LastUpdate_Achievements": "2023-12-12T06:10:32.7423516+00:00"
 }

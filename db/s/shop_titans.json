@@ -7439,10 +7439,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27691,
       "NumberOfAwardsMax": 4875
+    },
+    {
+      "Time": "2023-12-12T06:03:22.5806641+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27692,
+      "NumberOfAwardsMax": 4875
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27691,
+  "NumberOfAwards": 27692,
   "NumberOfAwardsMax": 4875,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7468,7 +7474,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3741
+      "Count": 3742
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7495,9 +7501,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144782,
+  "EOS_Progressed": 144785,
   "EOS_Completed": 293,
-  "EOS_NewPlayers": 929,
+  "EOS_NewPlayers": 928,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -32055,6 +32061,11 @@
       "Time": "2023-12-12T05:07:58.9022596+00:00",
       "NumProgressed": 144782,
       "NumCompleted": 293
+    },
+    {
+      "Time": "2023-12-12T06:07:48.5813645+00:00",
+      "NumProgressed": 144785,
+      "NumCompleted": 293
     }
   ],
   "TotalAchievements": 112,
@@ -32066,7 +32077,7 @@
       "Name": "The Daily Grind",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "advlevel02",
@@ -32202,7 +32213,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "boss02",
@@ -32306,7 +32317,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "commonres03",
@@ -32338,7 +32349,7 @@
       "Name": "Flooding the Market",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "craft03",
@@ -32370,7 +32381,7 @@
       "Name": "Where it Hurts",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "damage02",
@@ -32554,7 +32565,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "gold04",
@@ -32618,7 +32629,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "jackslot02",
@@ -32690,7 +32701,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "loot02",
@@ -32722,7 +32733,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "master02",
@@ -32778,7 +32789,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "quest02",
@@ -32961,15 +32972,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144782,
+      "Progressed": 144785,
       "Completed": 293
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-11T16:03:09.8312345+00:00",
-  "LastChanged_Achievements": "2023-12-12T05:07:58.9022592+00:00",
+  "LastChanged": "2023-12-12T06:03:22.580664+00:00",
+  "LastChanged_Achievements": "2023-12-12T06:07:48.581364+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-12T05:03:39.3858969+00:00",
-  "LastUpdate_Achievements": "2023-12-12T05:07:58.9024909+00:00"
+  "LastUpdate_Ratings": "2023-12-12T06:03:22.5806645+00:00",
+  "LastUpdate_Achievements": "2023-12-12T06:07:48.5815743+00:00"
 }

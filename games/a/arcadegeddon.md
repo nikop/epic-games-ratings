@@ -6,19 +6,19 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 87.00% | ~8,589 |
-| Photogenic | 84.00% | ~8,292 |
+| Let's Get This Party Started | 87.00% | ~8,590 |
+| Photogenic | 84.00% | ~8,293 |
 | Plug It In | 80.00% | ~7,898 |
 | Surge Gauntlet Jockey | 80.00% | ~7,898 |
 | Adventure Time | 76.00% | ~7,503 |
 | Playing With Power | 73.00% | ~7,207 |
-| Coup d'Etat | 56.00% | ~5,528 |
+| Coup d'Etat | 56.00% | ~5,529 |
 | You're Fired | 55.00% | ~5,430 |
 | Get Furious | 54.00% | ~5,331 |
-| Hacks In Stacks | 53.00% | ~5,232 |
-| Gunplay And Cosplay | 52.00% | ~5,133 |
+| Hacks In Stacks | 53.00% | ~5,233 |
+| Gunplay And Cosplay | 52.00% | ~5,134 |
 | Meching Enemies | 47.00% | ~4,640 |
-| Ticket Toddler | 42.00% | ~4,146 |
+| Ticket Toddler | 42.00% | ~4,147 |
 | Booty Bashing | 37.00% | ~3,653 |
 | Field Medic | 36.00% | ~3,554 |
 | Here Comes a New Challenger | 36.00% | ~3,554 |
@@ -34,9 +34,9 @@ Number of Ratings: 801  (23.09.2022)
 | To Be Continued | 13.00% | ~1,283 |
 | Light My Fire | 11.00% | ~1,086 |
 | Seasoned Adventurer | 11.00% | ~1,086 |
-| Get In The Ring! | 9.00% | ~888 |
-| 1.21 Gigawatts | 9.00% | ~888 |
-| This Is My Boomstick! | 9.00% | ~888 |
+| Get In The Ring! | 9.00% | ~889 |
+| 1.21 Gigawatts | 9.00% | ~889 |
+| This Is My Boomstick! | 9.00% | ~889 |
 | Rescue Ranger | 8.00% | ~790 |
 | Surge Gauntlet Scholar | 6.00% | ~592 |
 | Ticket Titan | 6.00% | ~592 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~39 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,872 (Ranked 167)  
+Progressed: 9,873 (Ranked 167)  
 Completed: 2 (0.02%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 2 (0.02%) (Ranked 339)
 | 2023-12-09 | 9,855 | 2 |
 | 2023-12-10 | 9,862 | 2 |
 | 2023-12-11 | 9,870 | 2 |
-| 2023-12-12 | 9,872 | 2 |
+| 2023-12-12 | 9,873 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 412)  
 Sum: 465 (Ranked 336)  
