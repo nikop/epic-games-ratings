@@ -202,7 +202,7 @@
 | 198 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 483 |
 | 198 | [GNOG](games/g/gnog.md) | 4.71 | 0 | 562 |
 | 198 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.71 | 0 | 562 |
-| 198 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,664 | 52 |
+| 198 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,668 | 51 |
 | 198 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.71 | 39 | 463 |
 | 198 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 562 |
 | 198 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 562 |
@@ -247,7 +247,7 @@
 | 233 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 562 |
 | 233 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 562 |
 | 233 | [Northgard](games/n/northgard.md) | 4.69 | 33 | 492 |
-| 233 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,698 | 36 |
+| 233 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,702 | 36 |
 | 233 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 59 | 418 |
 | 233 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 439 | 226 |
 | 233 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 517 |
@@ -257,7 +257,7 @@
 | 233 | [The Red Lantern](games/t/the_red_lantern.md) | 4.69 | 0 | 562 |
 | 233 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 95 | 377 |
 | 233 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,060 | 148 |
-| 233 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 856 | 168 |
+| 233 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 856 | 169 |
 | 259 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,393 | 95 |
 | 259 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,954 | 86 |
 | 259 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 702 | 188 |
@@ -265,7 +265,7 @@
 | 259 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 562 |
 | 259 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 562 |
 | 259 | [Coromon](games/c/coromon.md) | 4.68 | 43 | 456 |
-| 259 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,665 | 51 |
+| 259 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,665 | 52 |
 | 259 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,081 | 85 |
 | 259 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.68 | 39 | 463 |
 | 259 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 754 | 180 |
@@ -579,7 +579,7 @@
 | 576 | [Anno 2070](games/a/anno_2070.md) | 4.51 | 0 | 562 |
 | 576 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 134 | 329 |
 | 576 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.51 | 0 | 562 |
-| 576 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 854 | 169 |
+| 576 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 857 | 168 |
 | 576 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,154 | 84 |
 | 576 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 562 |
 | 576 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 37,782 | 15 |

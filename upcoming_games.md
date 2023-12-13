@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Settlement Survival](games/0/0407f287e7574d88b7c00895f14628d8.md) | 2023-12-13 | 51 (1,000 XP) | 0 | - | - |
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | 2023-12-13 | - |  | - | - |
 | [Zoological Era II](games/1/18c28ba59bcd422d82458f75452d6c34.md) | 2023-12-14 | - |  | - | - |
 | [Christmas Wonderland Collectors Edition](games/6/63bc55ffe1f4419da23adac028ceba62.md) | 2023-12-14 | - |  | - | - |
@@ -57,7 +56,7 @@
 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2023-12-31 | - |  | - | - |
 | [Mara's Quest](games/m/mara's_quest.md) | 2023-12-31 | - |  | - | - |
 | [Match Three Pirates 2](games/9/99b0be691570460b8cfdc9282fc011ab.md) | 2023-12-31 | - |  | - | - |
-| [Mediterranea Inferno](games/3/3623ba5530504da8a3f6e8d7f51177df.md) | 2023-12-31 | 11 (1,000 XP) | 1 | - | - |
+| [Mediterranea Inferno](games/3/3623ba5530504da8a3f6e8d7f51177df.md) | 2023-12-31 | 11 (1,000 XP) | 2 | - | - |
 | [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2023-12-31 | - |  | - | - |
 | [Moon Village Simulator](games/m/moon_village_simulator.md) | 2023-12-31 | - |  | - | - |
 | [Mushrooms: Forest Walker](games/m/mushrooms__forest_walker.md) | 2023-12-31 | - |  | - | - |
@@ -95,21 +94,31 @@
 | [Fairytale Solitaire: Red Riding Hood](games/4/4f08134bd1c74665a7372714be114f6a.md) | 2024-01-23 | - |  | - | - |
 | [Alice's Jigsaw. Wonderland Chronicles 2](games/6/6445bb085c274bb58007a3febb1df67e.md) | 2024-01-26 | - |  | - | - |
 | [Tiny Jump](games/0/08d22307c66c4923ae6fab7edfa6e227.md) | 2024-01-29 | - |  | - | - |
+| [Rainbow Pixel - Color by Number](games/5/58c551d60fa348e899b68bbc6381ea42.md) | 2024-01-29 | - |  | - | - |
 | [Geometric Sniper](games/1/17514f68442f4cb19f6219f45309142b.md) | 2024-01-31 | - |  | - | - |
 | [Project XSTING](games/2/23742f73e6594075a1f74e57ed7a6d5b.md) | 2024-01-31 | - |  | - | - |
 | [The Harvest](games/1/171eb5b083604de697c6d64e243d308b.md) | 2024-01-31 | - |  | - | - |
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | - |
+| [Argonauts Agency 5: Captive of Circe](games/7/7f9155561a3e461a83739c94459d013b.md) | 2024-02-01 | - |  | - | - |
 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-02-02 | - |  | - | - |
+| [1001 Jigsaw. World Tour: Great America](games/1/12d6ced529194cd583ec2690325036bc.md) | 2024-02-04 | - |  | - | - |
+| [Mahjong Valentine's Day](games/f/f6228e2659d24439b49d918618787b44.md) | 2024-02-07 | - |  | - | - |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | - |  | - | - |
+| [Travel Cuisine 2: Sweet Life](games/d/d99b2443a1034447902438a935849b80.md) | 2024-02-10 | - |  | - | - |
 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | - |  | - | - |
 | [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2024-02-13 | - |  | - | - |
+| [Pirate Mosaic Puzzle. Caribbean Treasures](games/d/d5507cf7f5784a24ac44bff891ffa8e3.md) | 2024-02-13 | - |  | - | - |
 | [Iragon](games/6/693d136b854d4a38a1dee6bc9020a5a4.md) | 2024-02-14 | - |  | - | - |
 | [Amber](games/e/e0ee1d8777e441d3ae01f796ed427261.md) | 2024-02-14 | - |  | - | - |
 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | - |  | - | - |
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2024-02-16 | - |  | - | - |
+| [Argonauts Agency: Glove of Midas](games/3/3713adaa73dc47f39d2c38fa5f3b8f75.md) | 2024-02-16 | - |  | - | - |
+| [Detective Solitaire. Butler Story](games/a/a7722186eef74d2291599308b18a89c2.md) | 2024-02-19 | - |  | - | - |
 | [The Thaumaturge](games/t/the_thaumaturge.md) | 2024-02-20 | - |  | - | - |
 | [qomp2](games/2/21d4aa1a99174082b7a63e1e97fb673c.md) | 2024-02-20 | - |  | - | - |
 | [Nightingale](games/n/nightingale.md) | 2024-02-22 | - |  | - | - |
+| [1001 Jigsaw. World Tour: Australian Puzzles](games/a/aa3cf4b6b9d8471fb8474f19ce118ac2.md) | 2024-02-22 | - |  | - | - |
+| [Spooky Mahjong](games/5/52c79a87370744d0aec8b50bf5d9502d.md) | 2024-02-25 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2024-02-26 | - |  | - | - |
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2024-02-27 | - |  | - | - |
 | [Brothers: A Tale of Two Sons Remake](games/0/0246b51e02da40329ad6d20f5c8dc631.md) | 2024-02-28 | - |  | - | - |
@@ -147,7 +156,7 @@
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 397,115 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 397,137 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |

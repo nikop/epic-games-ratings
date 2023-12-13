@@ -35,7 +35,7 @@
 | 33 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,794 | 4.36 | 793 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 12,643 | 4.46 | 654 |
 | 35 | [NBA 2K21](games/n/nba_2k21.md) | 11,801 | 4.39 | 758 |
-| 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,698 | 4.69 | 233 |
+| 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,702 | 4.69 | 233 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,974 | 4.78 | 110 |
 | 38 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 10,559 | 4.58 | 453 |
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,556 | 4.61 | 390 |
@@ -50,8 +50,8 @@
 | 48 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,156 | 4.85 | 46 |
 | 49 | [Dead Island 2](games/d/dead_island_2.md) | 8,108 | 4.54 | 535 |
 | 50 | [Supraland](games/s/supraland.md) | 7,745 | 4.61 | 390 |
-| 51 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,665 | 4.68 | 259 |
-| 52 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,664 | 4.71 | 198 |
+| 51 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,668 | 4.71 | 198 |
+| 52 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,665 | 4.68 | 259 |
 | 53 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,553 | 4.74 | 162 |
 | 54 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 7,352 | 4.69 | 233 |
 | 55 | [Sifu](games/s/sifu.md) | 6,915 | 4.82 | 70 |
@@ -167,8 +167,8 @@
 | 165 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 898 | 4.45 | 669 |
 | 166 | [The Long Dark](games/t/the_long_dark.md) | 861 | 4.74 | 162 |
 | 167 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 860 | 4.75 | 148 |
-| 168 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 856 | 4.69 | 233 |
-| 169 | [Auto Chess](games/a/auto_chess.md) | 854 | 4.51 | 576 |
+| 168 | [Auto Chess](games/a/auto_chess.md) | 857 | 4.51 | 576 |
+| 169 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 856 | 4.69 | 233 |
 | 170 | [Riders Republic](games/r/riders_republic.md) | 851 | 4.75 | 148 |
 | 171 | [Frostpunk](games/f/frostpunk.md) | 847 | 4.74 | 162 |
 | 172 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 843 | 4.24 | 898 |
