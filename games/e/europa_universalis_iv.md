@@ -64,6 +64,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brentry! | 0.10% | ~474 |
 | Brick by Brick | 0.10% | ~474 |
 | Bright Spark | 0.10% | ~474 |
+| The Buddhists Strike Back | 0.10% | ~474 |
 | Carthago Delenda Est | 0.10% | ~474 |
 | Center of Attention | 0.10% | ~474 |
 | Chop Chop | 0.10% | ~474 |
@@ -296,7 +297,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Animal Kingdom | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
-| The Buddhists Strike Back | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
 | Cherrypicking | 0.00% | ~0 |
 | Core-fu | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,725 (Ranked 41)  
+Progressed: 473,733 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -607,7 +607,7 @@ Completed: 1 (0.00%) (Ranked 373)
 | 2023-12-10 | 472,739 | 1 |
 | 2023-12-11 | 473,225 | 1 |
 | 2023-12-12 | 473,663 | 1 |
-| 2023-12-13 | 473,725 | 1 |
+| 2023-12-13 | 473,733 | 1 |
 ## Awards
 Max (Educational): 7,352  (Ranked 54)  
 Sum: 60,573 (Ranked 24)  

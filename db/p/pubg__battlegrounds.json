@@ -6451,9 +6451,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 781404,
+  "EOS_Progressed": 781407,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 25658,
+  "EOS_NewPlayers": 25660,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33606,6 +33606,11 @@
       "Time": "2023-12-13T05:05:20.1648858+00:00",
       "NumProgressed": 781404,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-13T06:05:53.3468123+00:00",
+      "NumProgressed": 781407,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 37,
@@ -33633,7 +33638,7 @@
       "Name": "Marksman Expert",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 62512
+      "UsersEstimate": 62513
     },
     {
       "ID": "12",
@@ -33689,7 +33694,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 203165
+      "UsersEstimate": 203166
     },
     {
       "ID": "19",
@@ -33697,7 +33702,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 554797
+      "UsersEstimate": 554799
     },
     {
       "ID": "2",
@@ -33745,7 +33750,7 @@
       "Name": "First Blood",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 93768
+      "UsersEstimate": 93769
     },
     {
       "ID": "25",
@@ -33777,7 +33782,7 @@
       "Name": "Now You See Me, Now You Don\u0027t",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 78140
+      "UsersEstimate": 78141
     },
     {
       "ID": "29",
@@ -33809,7 +33814,7 @@
       "Name": "Guardian Angel",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 257863
+      "UsersEstimate": 257864
     },
     {
       "ID": "32",
@@ -33841,7 +33846,7 @@
       "Name": "You Complete Me",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 289119
+      "UsersEstimate": 289121
     },
     {
       "ID": "36",
@@ -33857,7 +33862,7 @@
       "Name": "Health Junkie",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 304748
+      "UsersEstimate": 304749
     },
     {
       "ID": "4",
@@ -33873,7 +33878,7 @@
       "Name": "Top 10",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 85954
+      "UsersEstimate": 85955
     },
     {
       "ID": "6",
@@ -33912,7 +33917,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 781404,
+      "Progressed": 781407,
       "Completed": 12
     }
   ],
@@ -33920,8 +33925,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-12-13T04:57:33.8308149+00:00",
-  "LastChanged_Achievements": "2023-12-13T05:05:20.1648854+00:00",
+  "LastChanged_Achievements": "2023-12-13T06:05:53.346812+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:11.9480397+00:00",
-  "LastUpdate_Ratings": "2023-12-13T04:57:33.8308154+00:00",
-  "LastUpdate_Achievements": "2023-12-13T05:05:20.1650063+00:00"
+  "LastUpdate_Ratings": "2023-12-13T05:57:55.9933668+00:00",
+  "LastUpdate_Achievements": "2023-12-13T06:05:53.3469513+00:00"
 }

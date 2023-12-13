@@ -575,9 +575,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43371,
+  "EOS_Progressed": 43373,
   "EOS_Completed": 205,
-  "EOS_NewPlayers": 811,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -10405,6 +10405,11 @@
       "Time": "2023-12-13T05:09:12.4590839+00:00",
       "NumProgressed": 43371,
       "NumCompleted": 205
+    },
+    {
+      "Time": "2023-12-13T06:09:16.8463579+00:00",
+      "NumProgressed": 43373,
+      "NumCompleted": 205
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -10433,7 +10438,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 8674
+      "UsersEstimate": 8675
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -10561,7 +10566,7 @@
       "Name": "Mission Success",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 9975
+      "UsersEstimate": 9976
     },
     {
       "ID": "ACH_HUB2",
@@ -10577,7 +10582,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22553
+      "UsersEstimate": 22554
     },
     {
       "ID": "ACH_PEAK",
@@ -10585,7 +10590,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 9975
+      "UsersEstimate": 9976
     },
     {
       "ID": "ACH_PROPELL",
@@ -10609,7 +10614,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 29492
+      "UsersEstimate": 29494
     },
     {
       "ID": "ACH_S4",
@@ -10633,7 +10638,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 32528
+      "UsersEstimate": 32530
     },
     {
       "ID": "ACH_STATUE",
@@ -10648,15 +10653,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 43371,
+      "Progressed": 43373,
       "Completed": 205
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-07T07:57:07.2452699+00:00",
-  "LastChanged_Achievements": "2023-12-13T05:09:12.4590833+00:00",
+  "LastChanged_Achievements": "2023-12-13T06:09:16.8463575+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.6550495+00:00",
-  "LastUpdate_Ratings": "2023-12-13T05:00:13.0746634+00:00",
-  "LastUpdate_Achievements": "2023-12-13T05:09:12.4591445+00:00"
+  "LastUpdate_Ratings": "2023-12-13T06:00:53.488762+00:00",
+  "LastUpdate_Achievements": "2023-12-13T06:09:16.846425+00:00"
 }

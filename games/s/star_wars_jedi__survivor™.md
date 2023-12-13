@@ -5,38 +5,38 @@ Rating: 4.50 (Ranked 599)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,574 |
-| For Saw Gerrera | 98.00% | ~9,478 |
-| Grab Some Seat | 92.00% | ~8,897 |
-| Can You Pet the Bogling? | 87.00% | ~8,414 |
+| Rooftop Duel | 99.00% | ~9,575 |
+| For Saw Gerrera | 98.00% | ~9,479 |
+| Grab Some Seat | 92.00% | ~8,898 |
+| Can You Pet the Bogling? | 87.00% | ~8,415 |
 | The Past Made Present | 84.00% | ~8,124 |
-| Survivors, We Adapt | 80.00% | ~7,737 |
-| They Never Saw It Coming | 78.00% | ~7,543 |
-| Among the Masters | 78.00% | ~7,543 |
+| Survivors, We Adapt | 80.00% | ~7,738 |
+| They Never Saw It Coming | 78.00% | ~7,544 |
+| Among the Masters | 78.00% | ~7,544 |
 | Who Gives a Puck | 74.00% | ~7,157 |
 | For the Path | 67.00% | ~6,480 |
-| Now, This Isn't Podracing | 66.00% | ~6,383 |
-| Mirror Match | 65.00% | ~6,286 |
+| Now, This Isn't Podracing | 66.00% | ~6,384 |
+| Mirror Match | 65.00% | ~6,287 |
 | Skywalker | 63.00% | ~6,093 |
 | Out of Bedlam | 63.00% | ~6,093 |
-| Cleaning Up | 55.00% | ~5,319 |
-| Tanalorr Bound | 55.00% | ~5,319 |
+| Cleaning Up | 55.00% | ~5,320 |
+| Tanalorr Bound | 55.00% | ~5,320 |
 | Tragedy | 53.00% | ~5,126 |
 | Kitted Out | 53.00% | ~5,126 |
-| At the Precipice | 51.00% | ~4,932 |
+| At the Precipice | 51.00% | ~4,933 |
 | Into the Abyss | 50.00% | ~4,836 |
 | Hey, Luke At Us | 50.00% | ~4,836 |
-| A Place You Could Call Home | 47.00% | ~4,545 |
-| Riposte | 47.00% | ~4,545 |
+| A Place You Could Call Home | 47.00% | ~4,546 |
+| Riposte | 47.00% | ~4,546 |
 | Greezy Money | 45.00% | ~4,352 |
 | Catch! | 42.00% | ~4,062 |
-| They're Probably Fine | 40.00% | ~3,868 |
+| They're Probably Fine | 40.00% | ~3,869 |
 | Han Slowlo | 39.00% | ~3,772 |
 | There Is No Try | 39.00% | ~3,772 |
-| The Jedi Path | 33.00% | ~3,191 |
-| This Is Canon | 30.00% | ~2,901 |
+| The Jedi Path | 33.00% | ~3,192 |
+| This Is Canon | 30.00% | ~2,902 |
 | It's a Trap | 28.00% | ~2,708 |
-| You've Got A Friend | 23.00% | ~2,224 |
+| You've Got A Friend | 23.00% | ~2,225 |
 | King of the World | 17.00% | ~1,644 |
 | Max Capacity | 15.00% | ~1,451 |
 | A Presence I've Not Felt Since... | 15.00% | ~1,451 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 599)
 | Splurgle | 3.00% | ~290 |
 | Pinpoint | 2.00% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,671 (Ranked 169)  
+Progressed: 9,672 (Ranked 169)  
 Completed: 58 (0.60%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,10 +147,10 @@ Completed: 58 (0.60%) (Ranked 194)
 | 2023-12-10 | 9,581 | 57 |
 | 2023-12-11 | 9,626 | 57 |
 | 2023-12-12 | 9,659 | 57 |
-| 2023-12-13 | 9,671 | 58 |
+| 2023-12-13 | 9,672 | 58 |
 ## Awards
 Max (Great Boss Battles): 3,455  (Ranked 92)  
-Sum: 5,399 (Ranked 136)  
+Sum: 5,402 (Ranked 136)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
@@ -159,10 +159,10 @@ Diff (max vs sum): -44
 | This game has Amazing Characters | 234 |
 | This game has Quickly Understood Controls | 231 |
 | This game has Diverse Characters | 225 |
+| This game is Relaxing | 221 |
 | This game is Extremely Fun | 221 |
-| This game is Relaxing | 219 |
 | This game is Highly Recommended | 216 |
-| This game has Challenging Combat | 213 |
+| This game has Challenging Combat | 214 |
 | This game has a Creative Community | 144 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -394,4 +394,4 @@ Diff (max vs sum): -44
 | 2023-12-10 | 4.50 | 3,442 | 5,361 |
 | 2023-12-11 | 4.50 | 3,449 | 5,383 |
 | 2023-12-12 | 4.50 | 3,455 | 5,396 |
-| 2023-12-13 | 4.50 | 3,455 | 5,399 |
+| 2023-12-13 | 4.50 | 3,455 | 5,402 |

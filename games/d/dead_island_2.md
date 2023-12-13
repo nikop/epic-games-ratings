@@ -41,8 +41,8 @@ Rating: 4.54 (Ranked 535)
 | Go, Bobcats! | 0.90% | ~6,605 |
 | Rising Star | 0.90% | ~6,605 |
 | Not Even My Final Form | 0.80% | ~5,871 |
-| Smorgasbord | 0.70% | ~5,137 |
-| Internet Famous | 0.70% | ~5,137 |
+| Smorgasbord | 0.70% | ~5,138 |
+| Internet Famous | 0.70% | ~5,138 |
 | Make it So | 0.60% | ~4,404 |
 | On Safari | 0.60% | ~4,404 |
 | Variety is the Spice of Death | 0.60% | ~4,404 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 535)
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,928 (Ranked 21)  
+Progressed: 733,932 (Ranked 21)  
 Completed: 2,480 (0.34%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 2,480 (0.34%) (Ranked 236)
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
 | 2023-12-12 | 733,868 | 2,480 |
-| 2023-12-13 | 733,928 | 2,480 |
+| 2023-12-13 | 733,932 | 2,480 |
 ## Awards
 Max (Great Boss Battles): 8,108  (Ranked 49)  
 Sum: 12,482 (Ranked 81)  

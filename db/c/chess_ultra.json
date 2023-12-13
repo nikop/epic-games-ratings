@@ -449,7 +449,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221745,
+  "EOS_Progressed": 221747,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 927,
   "EOS_NewCompleters": 0,
@@ -27449,6 +27449,11 @@
       "Time": "2023-12-13T05:04:51.6460241+00:00",
       "NumProgressed": 221745,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T06:05:21.3938421+00:00",
+      "NumProgressed": 221747,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -27460,7 +27465,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 104220
+      "UsersEstimate": 104221
     },
     {
       "ID": "AlekhinesGun",
@@ -27508,7 +27513,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 121960
+      "UsersEstimate": 121961
     },
     {
       "ID": "Checkmate",
@@ -27532,7 +27537,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 155222
+      "UsersEstimate": 155223
     },
     {
       "ID": "DoubleCheck",
@@ -27548,7 +27553,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 126395
+      "UsersEstimate": 126396
     },
     {
       "ID": "Elo",
@@ -27676,7 +27681,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 68741
+      "UsersEstimate": 68742
     },
     {
       "ID": "QueenSacrifice",
@@ -27700,7 +27705,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 46566
+      "UsersEstimate": 46567
     },
     {
       "ID": "Stalemate",
@@ -27716,7 +27721,7 @@
       "Name": "Stranger Danger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 26609
+      "UsersEstimate": 26610
     },
     {
       "ID": "TournamentAmateur",
@@ -27763,7 +27768,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 221745,
+      "Progressed": 221747,
       "Completed": 2
     }
   ],
@@ -27771,8 +27776,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-12-01T13:07:49.2205342+00:00",
-  "LastChanged_Achievements": "2023-12-13T05:04:51.6460239+00:00",
+  "LastChanged_Achievements": "2023-12-13T06:05:21.3938418+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:03.579995+00:00",
-  "LastUpdate_Ratings": "2023-12-13T04:57:43.0946925+00:00",
-  "LastUpdate_Achievements": "2023-12-13T05:04:51.6461517+00:00"
+  "LastUpdate_Ratings": "2023-12-13T05:58:06.1066072+00:00",
+  "LastUpdate_Achievements": "2023-12-13T06:05:21.3940258+00:00"
 }

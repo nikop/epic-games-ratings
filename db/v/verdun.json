@@ -1889,9 +1889,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 66188,
+  "EOS_Progressed": 66189,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27924,6 +27924,11 @@
       "Time": "2023-12-13T04:05:31.4157186+00:00",
       "NumProgressed": 66188,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-13T06:05:09.7853186+00:00",
+      "NumProgressed": 66189,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -27935,7 +27940,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 36403
+      "UsersEstimate": 36404
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -28199,7 +28204,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 26475
+      "UsersEstimate": 26476
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -28223,7 +28228,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 41698
+      "UsersEstimate": 41699
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -28351,7 +28356,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8604
+      "UsersEstimate": 8605
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -28406,15 +28411,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 66188,
+      "Progressed": 66189,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-12T21:58:25.0907834+00:00",
-  "LastChanged_Achievements": "2023-12-13T05:04:41.1696884+00:00",
+  "LastChanged_Achievements": "2023-12-13T06:05:09.7853184+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:19.0626719+00:00",
-  "LastUpdate_Ratings": "2023-12-13T04:58:26.4001312+00:00",
-  "LastUpdate_Achievements": "2023-12-13T05:04:41.1698796+00:00"
+  "LastUpdate_Ratings": "2023-12-13T05:58:53.7455748+00:00",
+  "LastUpdate_Achievements": "2023-12-13T06:05:09.7854738+00:00"
 }

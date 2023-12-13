@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 76662,
+  "EOS_Progressed": 76663,
   "EOS_Completed": 411,
-  "EOS_NewPlayers": 613,
+  "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -26399,6 +26399,11 @@
       "Time": "2023-12-13T05:09:30.0336444+00:00",
       "NumProgressed": 76662,
       "NumCompleted": 411
+    },
+    {
+      "Time": "2023-12-13T06:09:34.7898085+00:00",
+      "NumProgressed": 76663,
+      "NumCompleted": 411
     }
   ],
   "TotalAchievements": 24,
@@ -26458,7 +26463,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21465
+      "UsersEstimate": 21466
     },
     {
       "ID": "FOXIN_AROUND",
@@ -26474,7 +26479,7 @@
       "Name": "FOX? OR FLYING SQUIRREL?",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3066
+      "UsersEstimate": 3067
     },
     {
       "ID": "GARDEN_OF_LIGHT",
@@ -26586,7 +26591,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 9199
+      "UsersEstimate": 9200
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -26601,7 +26606,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 76662,
+      "Progressed": 76663,
       "Completed": 411
     }
   ],
@@ -26609,8 +26614,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-13T05:09:30.033644+00:00",
+  "LastChanged_Achievements": "2023-12-13T06:09:34.7898081+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:25.3960201+00:00",
-  "LastUpdate_Ratings": "2023-12-13T05:02:50.0917847+00:00",
-  "LastUpdate_Achievements": "2023-12-13T05:09:30.0337961+00:00"
+  "LastUpdate_Ratings": "2023-12-13T06:03:02.1225814+00:00",
+  "LastUpdate_Achievements": "2023-12-13T06:09:34.7899748+00:00"
 }

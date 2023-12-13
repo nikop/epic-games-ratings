@@ -6,22 +6,22 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,022 |
-| Gun Fu | 7.00% | ~68,263 |
-| The Fool | 6.00% | ~58,511 |
-| Right Back At Ya | 5.00% | ~48,759 |
-| The Lovers | 5.00% | ~48,759 |
-| Full Body Conversion | 4.00% | ~39,007 |
-| Stanislavski's Method | 4.00% | ~39,007 |
-| The Wheel of Fortune | 4.00% | ~39,007 |
-| True Soldier | 4.00% | ~39,007 |
-| Christmas Tree Attack | 3.00% | ~29,255 |
-| The Hermit | 3.00% | ~29,255 |
-| The High Priestess | 3.00% | ~29,255 |
-| Legend of The Afterlife | 3.00% | ~29,255 |
-| Relic Ruler | 3.00% | ~3,114 |
-| All the President's Men | 3.00% | ~3,114 |
-| Arachnophobia | 3.00% | ~3,114 |
+| V for Vendetta | 12.00% | ~117,024 |
+| Gun Fu | 7.00% | ~68,264 |
+| The Fool | 6.00% | ~58,512 |
+| Right Back At Ya | 5.00% | ~48,760 |
+| The Lovers | 5.00% | ~48,760 |
+| Full Body Conversion | 4.00% | ~39,008 |
+| Stanislavski's Method | 4.00% | ~39,008 |
+| The Wheel of Fortune | 4.00% | ~39,008 |
+| True Soldier | 4.00% | ~39,008 |
+| Christmas Tree Attack | 3.00% | ~29,256 |
+| The Hermit | 3.00% | ~29,256 |
+| The High Priestess | 3.00% | ~29,256 |
+| Legend of The Afterlife | 3.00% | ~29,256 |
+| Relic Ruler | 3.00% | ~3,115 |
+| All the President's Men | 3.00% | ~3,115 |
+| Arachnophobia | 3.00% | ~3,115 |
 | Bushido and Chill | 2.00% | ~19,504 |
 | Master Crafter | 2.00% | ~19,504 |
 | The Quick and the Dead | 2.00% | ~19,504 |
@@ -36,8 +36,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 1.00% | ~1,038 |
 | Easy Come, Easy Go | 1.00% | ~1,038 |
 | King of Wands | 0.90% | ~934 |
-| The Sun | 0.80% | ~7,801 |
-| Dirty Deeds | 0.80% | ~830 |
+| The Sun | 0.80% | ~7,802 |
+| Dirty Deeds | 0.80% | ~831 |
 | To Bad Decisions! | 0.70% | ~6,826 |
 | Ten out of Ten | 0.70% | ~6,826 |
 | Breathtaking | 0.60% | ~5,851 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,180 (Ranked 15)  
+Progressed: 975,196 (Ranked 15)  
 Completed: 2,891 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 2,891 (0.30%) (Ranked 241)
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
 | 2023-12-12 | 975,121 | 2,891 |
-| 2023-12-13 | 975,180 | 2,891 |
+| 2023-12-13 | 975,196 | 2,891 |
 ## Awards
 Max (Character Customization): 121,863  (Ranked 9)  
 Sum: 413,835 (Ranked 9)  

@@ -6,16 +6,16 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 44.00% | ~18 |
+| Mash Machine | 46.00% | ~19 |
 | Rock of the Bay | 41.00% | ~17 |
+| Furon Fashion | 29.00% | ~12 |
 | Ducks in a Row, Fish in a Barrel | 29.00% | ~12 |
-| Furon Fashion | 27.00% | ~11 |
-| Shop Til They Drop | 24.00% | ~10 |
+| Shop Til They Drop | 27.00% | ~11 |
 | I Look Up As I Walk to Takoshima | 22.00% | ~9 |
+| Earthly Pleasures | 20.00% | ~8 |
 | Upgreatest | 20.00% | ~8 |
-| Earthly Pleasures | 17.00% | ~7 |
+| Pimp My Raid | 15.00% | ~6 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~5 |
-| Pimp My Raid | 12.00% | ~5 |
 | Perfect Probulator | 10.00% | ~4 |
 | Cult Following | 10.00% | ~4 |
 | Fly Me to the Moon Base | 10.00% | ~4 |

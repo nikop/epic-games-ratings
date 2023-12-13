@@ -12,7 +12,7 @@ Number of Ratings: 43  (23.09.2022)
 | Under The Hood | 25.00% | ~25,956 |
 | Got Your Nose | 24.00% | ~24,918 |
 | The Gift of Gab | 24.00% | ~24,918 |
-| Wrapping Up | 22.00% | ~22,841 |
+| Wrapping Up | 22.00% | ~22,842 |
 | More Than A Box Of Sand | 18.00% | ~18,688 |
 | The Dunboyne | 17.00% | ~17,650 |
 | Badge Hobbyist | 17.00% | ~17,650 |
@@ -20,9 +20,9 @@ Number of Ratings: 43  (23.09.2022)
 | Silver-Tongued Sable | 16.00% | ~16,612 |
 | Sticky Paws | 16.00% | ~16,612 |
 | Bubble Up | 16.00% | ~16,612 |
-| Thread The Needle | 15.00% | ~15,573 |
-| Power to the People | 14.00% | ~14,535 |
-| Nesting Giant | 14.00% | ~14,535 |
+| Thread The Needle | 15.00% | ~15,574 |
+| Power to the People | 14.00% | ~14,536 |
+| Nesting Giant | 14.00% | ~14,536 |
 | Take That! | 13.00% | ~13,497 |
 | Treasure Tracker | 13.00% | ~13,497 |
 | Big Spender | 13.00% | ~13,497 |
@@ -50,10 +50,10 @@ Number of Ratings: 43  (23.09.2022)
 | The Guard Mask | 7.00% | ~7,268 |
 | Smoked Out | 7.00% | ~7,268 |
 | A Hard Place | 7.00% | ~7,268 |
-| The Climber Mask | 6.00% | ~6,229 |
-| The Merchant Mask | 6.00% | ~6,229 |
-| Honorary Chum | 6.00% | ~6,229 |
-| Bikes Don't Fly | 6.00% | ~6,229 |
+| The Climber Mask | 6.00% | ~6,230 |
+| The Merchant Mask | 6.00% | ~6,230 |
+| Honorary Chum | 6.00% | ~6,230 |
+| Bikes Don't Fly | 6.00% | ~6,230 |
 | The Gliding | 5.00% | ~5,191 |
 | The Entertainer Mask | 5.00% | ~5,191 |
 | The Quick and the Curious | 4.00% | ~4,153 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,115 |
 | Vivacious Vivarium | 2.00% | ~2,076 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103,823 (Ranked 88)  
+Progressed: 103,825 (Ranked 88)  
 Completed: 1,052 (1.01%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 1,052 (1.01%) (Ranked 170)
 | 2023-12-10 | 103,474 | 1,049 |
 | 2023-12-11 | 103,630 | 1,050 |
 | 2023-12-12 | 103,781 | 1,052 |
-| 2023-12-13 | 103,823 | 1,052 |
+| 2023-12-13 | 103,825 | 1,052 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 517)  
 Sum: 95 (Ranked 457)  

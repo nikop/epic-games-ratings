@@ -6,28 +6,28 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,920 |
-| Cavalier | 25.00% | ~203,062 |
+| Blacksmith's Son | 32.00% | ~259,921 |
+| Cavalier | 25.00% | ~203,063 |
 | Fatso | 23.00% | ~186,818 |
-| Awakening | 21.00% | ~170,572 |
+| Awakening | 21.00% | ~170,573 |
 | Ranger | 20.00% | ~162,450 |
 | Scrooge | 20.00% | ~162,450 |
 | Anorectic | 16.00% | ~129,960 |
 | Firestarter | 16.00% | ~129,960 |
 | Bookworm | 15.00% | ~121,838 |
-| Insomniac | 13.00% | ~105,592 |
+| Insomniac | 13.00% | ~105,593 |
 | Buddy | 12.00% | ~97,470 |
 | Thief | 12.00% | ~97,470 |
 | Sinner | 11.00% | ~89,348 |
 | Traveller | 11.00% | ~89,348 |
 | Convict | 10.00% | ~81,225 |
-| Haggler | 9.00% | ~73,102 |
+| Haggler | 9.00% | ~73,103 |
 | McLovin | 7.00% | ~56,858 |
 | Runt | 7.00% | ~56,858 |
 | Casanova | 6.00% | ~48,735 |
-| Bad Trip | 5.00% | ~40,612 |
-| Monk | 5.00% | ~40,612 |
-| Serial Killer | 5.00% | ~40,612 |
+| Bad Trip | 5.00% | ~40,613 |
+| Monk | 5.00% | ~40,613 |
+| Serial Killer | 5.00% | ~40,613 |
 | Bastard | 4.00% | ~32,490 |
 | Hunter | 4.00% | ~32,490 |
 | Plague Doctor | 4.00% | ~32,490 |
@@ -44,13 +44,13 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~16,245 |
 | Talmberger | 2.00% | ~16,245 |
 | The End | 2.00% | ~16,245 |
-| Woman's Lot | 1.00% | ~8,122 |
-| Chivalrous Soul | 1.00% | ~8,122 |
-| Spoilsport | 1.00% | ~8,122 |
-| Freud | 1.00% | ~8,122 |
-| Gambler | 1.00% | ~8,122 |
-| Master Huntsman | 1.00% | ~8,122 |
-| Stealth Killer | 1.00% | ~8,122 |
+| Woman's Lot | 1.00% | ~8,123 |
+| Chivalrous Soul | 1.00% | ~8,123 |
+| Spoilsport | 1.00% | ~8,123 |
+| Freud | 1.00% | ~8,123 |
+| Gambler | 1.00% | ~8,123 |
+| Master Huntsman | 1.00% | ~8,123 |
+| Stealth Killer | 1.00% | ~8,123 |
 | Bailiff | 0.90% | ~7,310 |
 | Tracker | 0.90% | ~7,310 |
 | David Horak | 0.80% | ~6,498 |
@@ -62,12 +62,12 @@ Number of Ratings: 9,133  (23.09.2022)
 | Perfectionist | 0.50% | ~4,061 |
 | Alcoholic | 0.30% | ~2,437 |
 | Sniper | 0.30% | ~2,437 |
-| Angel of Mercy | 0.20% | ~1,624 |
-| Christian Burial | 0.20% | ~1,624 |
-| Friends without benefits | 0.20% | ~1,624 |
-| Game Over | 0.20% | ~1,624 |
-| Not-so-Christian Burial | 0.20% | ~1,624 |
-| True Friend | 0.20% | ~1,624 |
+| Angel of Mercy | 0.20% | ~1,625 |
+| Christian Burial | 0.20% | ~1,625 |
+| Friends without benefits | 0.20% | ~1,625 |
+| Game Over | 0.20% | ~1,625 |
+| Not-so-Christian Burial | 0.20% | ~1,625 |
+| True Friend | 0.20% | ~1,625 |
 | Bad Girl | 0.10% | ~812 |
 | Cleric's pet | 0.10% | ~812 |
 | Full House Sinner | 0.10% | ~812 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~812 |
 | Wingman | 0.10% | ~812 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 812,250 (Ranked 17)  
+Progressed: 812,252 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 52 (0.01%) (Ranked 350)
 | 2023-12-10 | 812,001 | 52 |
 | 2023-12-11 | 812,130 | 52 |
 | 2023-12-12 | 812,234 | 52 |
-| 2023-12-13 | 812,250 | 52 |
+| 2023-12-13 | 812,252 | 52 |
 ## Awards
 Max (Character Customization): 7,668  (Ranked 51)  
 Sum: 28,483 (Ranked 50)  

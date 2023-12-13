@@ -2645,7 +2645,7 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 26053,
+  "EOS_Progressed": 26055,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1207,
   "EOS_NewCompleters": 0,
@@ -12805,6 +12805,11 @@
       "Time": "2023-12-13T05:09:08.0423119+00:00",
       "NumProgressed": 26053,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T06:09:11.917324+00:00",
+      "NumProgressed": 26055,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -13001,7 +13006,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10682
+      "UsersEstimate": 10683
     },
     {
       "ID": "Achievement_Trophy25",
@@ -13009,7 +13014,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3126
+      "UsersEstimate": 3127
     },
     {
       "ID": "Achievement_Trophy26",
@@ -13017,7 +13022,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8858
+      "UsersEstimate": 8859
     },
     {
       "ID": "Achievement_Trophy27",
@@ -13033,7 +13038,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 8597
+      "UsersEstimate": 8598
     },
     {
       "ID": "Achievement_Trophy29",
@@ -13049,7 +13054,7 @@
       "Name": "Spread the plague",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7555
+      "UsersEstimate": 7556
     },
     {
       "ID": "Achievement_Trophy31",
@@ -13057,7 +13062,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "Achievement_Trophy32",
@@ -13105,7 +13110,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6513
+      "UsersEstimate": 6514
     },
     {
       "ID": "Achievement_Trophy38",
@@ -13193,7 +13198,7 @@
       "Name": "Doom and gloom",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2606
     },
     {
       "ID": "Achievement_Trophy49",
@@ -13304,7 +13309,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 26053,
+      "Progressed": 26055,
       "Completed": 1
     }
   ],
@@ -13312,8 +13317,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-12T01:47:51.3395701+00:00",
-  "LastChanged_Achievements": "2023-12-13T05:09:08.0423115+00:00",
+  "LastChanged_Achievements": "2023-12-13T06:09:11.9173236+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:42.7229324+00:00",
-  "LastUpdate_Ratings": "2023-12-13T05:00:06.4995239+00:00",
-  "LastUpdate_Achievements": "2023-12-13T05:09:08.0423887+00:00"
+  "LastUpdate_Ratings": "2023-12-13T06:00:45.8015879+00:00",
+  "LastUpdate_Achievements": "2023-12-13T06:09:11.9174132+00:00"
 }

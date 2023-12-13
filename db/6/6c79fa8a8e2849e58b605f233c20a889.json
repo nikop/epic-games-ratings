@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3021,
+  "EOS_Progressed": 3022,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7989,6 +7989,11 @@
       "Time": "2023-12-13T05:09:44.2728171+00:00",
       "NumProgressed": 3021,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T06:09:50.5015712+00:00",
+      "NumProgressed": 3022,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -8000,7 +8005,7 @@
       "Name": "Aggressor",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "AI_DRAW",
@@ -8080,7 +8085,7 @@
       "Name": "Novice",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "GLOVE_SLAP",
@@ -8096,7 +8101,7 @@
       "Name": "Gonna Fly Now",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "GRASSHOPPER",
@@ -8175,14 +8180,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3021,
+      "Progressed": 3022,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-12-13T05:09:44.2728165+00:00",
+  "LastChanged_Achievements": "2023-12-13T06:09:50.5015708+00:00",
   "LastUpdate_AppInfo": "2023-12-06T07:57:05.9412451+00:00",
-  "LastUpdate_Ratings": "2023-12-13T04:58:10.1971026+00:00",
-  "LastUpdate_Achievements": "2023-12-13T05:09:44.2728718+00:00"
+  "LastUpdate_Ratings": "2023-12-13T05:58:35.7348829+00:00",
+  "LastUpdate_Achievements": "2023-12-13T06:09:50.501629+00:00"
 }

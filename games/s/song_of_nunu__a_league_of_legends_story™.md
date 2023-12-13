@@ -6,34 +6,34 @@ Rating: 4.57 (Ranked 481)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 76.00% | ~853 |
-| I Broke It | 73.00% | ~819 |
-| Better On Ice | 69.00% | ~774 |
-| Notai Notes | 68.00% | ~763 |
+| I Broke It | 73.00% | ~820 |
+| Better On Ice | 69.00% | ~775 |
+| Notai Notes | 68.00% | ~764 |
 | Blue Dreams | 67.00% | ~752 |
 | He's Famous! | 67.00% | ~752 |
 | Cutie Poro | 67.00% | ~752 |
-| Krugmazing | 65.00% | ~729 |
-| Moneyball | 61.00% | ~684 |
-| The Fire Below the Mountain | 61.00% | ~684 |
-| No Bites | 56.00% | ~628 |
-| Iceborn | 56.00% | ~628 |
+| Krugmazing | 65.00% | ~730 |
+| Moneyball | 61.00% | ~685 |
+| The Fire Below the Mountain | 61.00% | ~685 |
+| No Bites | 56.00% | ~629 |
+| Iceborn | 56.00% | ~629 |
 | Boom Things | 54.00% | ~606 |
 | Tear of Freedom | 53.00% | ~595 |
-| My Darkest Day | 50.00% | ~561 |
+| My Darkest Day | 50.00% | ~562 |
 | The Relentless Storm | 48.00% | ~539 |
-| Rhythm Of Willump | 47.00% | ~527 |
-| A Tragic Reminder | 46.00% | ~516 |
-| 3000 Year Blackout | 46.00% | ~516 |
+| Rhythm Of Willump | 47.00% | ~528 |
+| A Tragic Reminder | 46.00% | ~517 |
+| 3000 Year Blackout | 46.00% | ~517 |
 | The Finisher | 44.00% | ~494 |
-| So Close | 43.00% | ~482 |
-| You Get Used To It | 43.00% | ~482 |
+| So Close | 43.00% | ~483 |
+| You Get Used To It | 43.00% | ~483 |
 | Family | 40.00% | ~449 |
 | Biggest Snowball Ever | 40.00% | ~449 |
 | True Legends | 40.00% | ~449 |
 | Boosted! | 40.00% | ~449 |
 | Deadliest and Biggest Snowball Ever! | 40.00% | ~449 |
 | Freeze The Ice Witch | 39.00% | ~438 |
-| Bullseye | 38.00% | ~426 |
+| Bullseye | 37.00% | ~416 |
 | It Is Not Over | 36.00% | ~404 |
 | On The Rocks | 35.00% | ~393 |
 | Snowy Poro | 32.00% | ~359 |
@@ -50,7 +50,7 @@ Rating: 4.57 (Ranked 481)
 | We Are Speed | 2.00% | ~22 |
 | Sneaky Notai | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,122 (Ranked 263)  
+Progressed: 1,123 (Ranked 263)  
 Completed: 8 (0.71%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 8 (0.71%) (Ranked 187)
 | 2023-12-10 | 1,112 | 8 |
 | 2023-12-11 | 1,116 | 8 |
 | 2023-12-12 | 1,121 | 8 |
-| 2023-12-13 | 1,122 | 8 |
+| 2023-12-13 | 1,123 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

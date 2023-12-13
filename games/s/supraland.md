@@ -6,21 +6,21 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~728,498 |
-| The Blues | 85.00% | ~625,478 |
+| Out of bed | 99.00% | ~728,499 |
+| The Blues | 85.00% | ~625,479 |
 | Fast | 66.00% | ~485,666 |
-| Healthbar | 55.00% | ~404,721 |
-| Force Cube | 53.00% | ~390,004 |
-| Double Jump | 48.00% | ~353,211 |
+| Healthbar | 55.00% | ~404,722 |
+| Force Cube | 53.00% | ~390,005 |
+| Double Jump | 48.00% | ~353,212 |
 | Regeneration | 47.00% | ~345,853 |
 | Triple Jump | 43.00% | ~316,419 |
 | Climb the hill | 42.00% | ~309,060 |
-| Through the fire pipe | 39.00% | ~286,984 |
+| Through the fire pipe | 39.00% | ~286,985 |
 | MacGuffin | 38.00% | ~279,626 |
 | Just once | 37.00% | ~272,267 |
 | Armor | 30.00% | ~220,757 |
 | True holy spirit | 28.00% | ~206,040 |
-| That's how electronics work obviously | 27.00% | ~198,681 |
+| That's how electronics work obviously | 27.00% | ~198,682 |
 | Force Cube Catapult | 25.00% | ~183,964 |
 | Holy Sword | 23.00% | ~169,247 |
 | Telefrag | 23.00% | ~169,247 |
@@ -33,10 +33,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | All Shells | 15.00% | ~110,379 |
 | Beam | 14.00% | ~103,020 |
 | 9 | 14.00% | ~103,020 |
-| Health Drink | 13.00% | ~95,661 |
-| Helped a star | 13.00% | ~95,661 |
-| Purple Cube | 13.00% | ~95,661 |
-| Supraball Noob | 13.00% | ~95,661 |
+| Health Drink | 13.00% | ~95,662 |
+| Helped a star | 13.00% | ~95,662 |
+| Purple Cube | 13.00% | ~95,662 |
+| Supraball Noob | 13.00% | ~95,662 |
 | Strong | 12.00% | ~88,303 |
 | Blue King's lair | 11.00% | ~80,944 |
 | Payback | 11.00% | ~80,944 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~736 |
 | DLC: Top of the world | 0.10% | ~736 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,857 (Ranked 20)  
+Progressed: 735,858 (Ranked 20)  
 Completed: 769 (0.10%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 769 (0.10%) (Ranked 294)
 | 2023-12-10 | 735,683 | 769 |
 | 2023-12-11 | 735,777 | 769 |
 | 2023-12-12 | 735,839 | 769 |
-| 2023-12-13 | 735,857 | 769 |
+| 2023-12-13 | 735,858 | 769 |
 ## Awards
 Max (Challenging Puzzles): 7,745  (Ranked 50)  
 Sum: 10,106 (Ranked 92)  

@@ -28,8 +28,8 @@ Number of Ratings: 98  (23.09.2022)
 | Shaken, Not Stirred | 12.00% | ~1,121 |
 | Die Bosniaken Kommen! | 11.00% | ~1,028 |
 | Machiavelli | 11.00% | ~1,028 |
+| Thus With A Kiss | 11.00% | ~1,028 |
 | The Devil's Paintbrush | 10.00% | ~934 |
-| Thus With A Kiss | 10.00% | ~934 |
 | Dante's Inferno | 9.00% | ~841 |
 | I Have the High Ground | 9.00% | ~841 |
 | Millenial | 9.00% | ~841 |

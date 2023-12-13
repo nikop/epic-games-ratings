@@ -6,14 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,736 |
-| Zealous | 2.00% | ~21,824 |
-| Not half bad | 2.00% | ~21,824 |
-| Apt Survivor | 2.00% | ~21,824 |
-| Survival Treasures | 2.00% | ~21,824 |
-| Skillful | 2.00% | ~21,824 |
-| I | 2.00% | ~21,824 |
-| Make Some Noise | 2.00% | ~21,824 |
+| It wakes | 3.00% | ~32,737 |
+| Zealous | 2.00% | ~21,825 |
+| Not half bad | 2.00% | ~21,825 |
+| Apt Survivor | 2.00% | ~21,825 |
+| Survival Treasures | 2.00% | ~21,825 |
+| Skillful | 2.00% | ~21,825 |
+| I | 2.00% | ~21,825 |
+| Make Some Noise | 2.00% | ~21,825 |
 | The Grand Sacrifice | 1.00% | ~10,912 |
 | Agonizing Escape | 1.00% | ~10,912 |
 | Backdoor Escape | 1.00% | ~10,912 |
@@ -36,14 +36,14 @@ Number of Ratings: 70,340  (23.09.2022)
 | II | 0.90% | ~9,821 |
 | Wounded Healer | 0.90% | ~9,821 |
 | III | 0.80% | ~8,730 |
-| Escape Artist | 0.70% | ~7,638 |
-| Vulture | 0.70% | ~7,638 |
-| First to the Punch | 0.70% | ~7,638 |
-| Operation: Survival | 0.70% | ~7,638 |
-| Every Last Drop | 0.70% | ~7,638 |
-| With Scars to Show | 0.70% | ~7,638 |
-| Lifting The Fog | 0.70% | ~7,638 |
-| Second Act | 0.70% | ~7,638 |
+| Escape Artist | 0.70% | ~7,639 |
+| Vulture | 0.70% | ~7,639 |
+| First to the Punch | 0.70% | ~7,639 |
+| Operation: Survival | 0.70% | ~7,639 |
+| Every Last Drop | 0.70% | ~7,639 |
+| With Scars to Show | 0.70% | ~7,639 |
+| Lifting The Fog | 0.70% | ~7,639 |
+| Second Act | 0.70% | ~7,639 |
 | Blood on your hands | 0.60% | ~6,547 |
 | Gifts for the Fog | 0.60% | ~6,547 |
 | III-50 | 0.60% | ~6,547 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,091 |
 | Adept Good Guy | 0.10% | ~1,091 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,091,188 (Ranked 12)  
+Progressed: 1,091,240 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -476,7 +476,7 @@ Completed: 62 (0.01%) (Ranked 350)
 | 2023-12-10 | 1,086,485 | 62 |
 | 2023-12-11 | 1,088,746 | 62 |
 | 2023-12-12 | 1,090,736 | 62 |
-| 2023-12-13 | 1,091,188 | 62 |
+| 2023-12-13 | 1,091,240 | 62 |
 ## Awards
 Max (Diverse Characters): 37,782  (Ranked 15)  
 Sum: 286,155 (Ranked 12)  

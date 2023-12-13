@@ -2452,17 +2452,17 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 198
     },
     {
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 104
     },
     {
       "ID": "Chicken",
@@ -2796,17 +2796,17 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 160
     },
     {
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 208
     },
     {
       "ID": "TouchGrass",
@@ -2877,8 +2877,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-13T05:05:07.182488+00:00",
+  "LastChanged_Achievements": "2023-12-13T06:05:38.6585682+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-13T04:59:14.1246265+00:00",
-  "LastUpdate_Achievements": "2023-12-13T05:05:07.1825413+00:00"
+  "LastUpdate_Ratings": "2023-12-13T05:59:47.8093328+00:00",
+  "LastUpdate_Achievements": "2023-12-13T06:05:38.6586229+00:00"
 }

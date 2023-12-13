@@ -4,7 +4,7 @@
   "ProductSlug": "thunder-ray-e9a2e3",
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -149,9 +149,9 @@
       "ID": "ACH_COMPLETE_TUTORIAL",
       "SetID": "b9ng4ag",
       "Name": "Fighting Steps",
-      "Percentage": 81,
+      "Percentage": 77,
       "XP": 45,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_DEFEAT_BOWIE_SPECIAL",
@@ -165,7 +165,7 @@
       "ID": "ACH_DEFEAT_BULLET",
       "SetID": "b9ng4ag",
       "Name": "Snake Eye",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 65,
       "UsersEstimate": 9
     },
@@ -173,15 +173,15 @@
       "ID": "ACH_DEFEAT_CYBER",
       "SetID": "b9ng4ag",
       "Name": "Killer Debut",
-      "Percentage": 57,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_DEFEAT_EVIL_RICO",
       "SetID": "b9ng4ag",
       "Name": "Revival",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 95,
       "UsersEstimate": 2
     },
@@ -189,7 +189,7 @@
       "ID": "ACH_DEFEAT_GOBLIN",
       "SetID": "b9ng4ag",
       "Name": "Sting like a bee",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 90,
       "UsersEstimate": 5
     },
@@ -205,7 +205,7 @@
       "ID": "ACH_DEFEAT_SHAPE",
       "SetID": "b9ng4ag",
       "Name": "Shadow Boxing",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 80,
       "UsersEstimate": 4
     },
@@ -221,7 +221,7 @@
       "ID": "ACH_UNLOCK_ALL_SPECIALS",
       "SetID": "b9ng4ag",
       "Name": "Thunder Fist",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 75,
       "UsersEstimate": 8
     }
@@ -236,8 +236,8 @@
   ],
   "FirstSeen": "2023-10-21T23:58:29.5927099+00:00",
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2023-12-13T05:09:41.0759+00:00",
+  "LastChanged_Achievements": "2023-12-13T06:09:47.0036356+00:00",
   "LastUpdate_AppInfo": "2023-12-09T05:57:00.0111242+00:00",
-  "LastUpdate_Ratings": "2023-12-13T04:59:05.5961524+00:00",
-  "LastUpdate_Achievements": "2023-12-13T05:09:41.0759059+00:00"
+  "LastUpdate_Ratings": "2023-12-13T05:59:38.3507154+00:00",
+  "LastUpdate_Achievements": "2023-12-13T06:09:47.0036417+00:00"
 }

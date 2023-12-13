@@ -9630,9 +9630,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126519,
+  "EOS_Progressed": 126528,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 878,
+  "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34765,6 +34765,11 @@
       "Time": "2023-12-13T05:09:02.3560123+00:00",
       "NumProgressed": 126519,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T06:09:05.5765172+00:00",
+      "NumProgressed": 126528,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34846,9 +34851,9 @@
       "ID": "altar_of_hope_unlock_hero_runaway",
       "SetID": "64l4lke",
       "Name": "Boxcar Kid",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 506
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -34904,7 +34909,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "combat_kill_cadavers",
@@ -34942,9 +34947,9 @@
       "ID": "combat_kill_fanatics",
       "SetID": "64l4lke",
       "Name": "Deprogramming",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 633
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -35134,9 +35139,9 @@
       "ID": "hero_story_complete_all",
       "SetID": "64l4lke",
       "Name": "Shrine of Reflection",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 253
     },
     {
       "ID": "hero_story_complete_any",
@@ -35190,9 +35195,9 @@
       "ID": "inn_visit_all_variants",
       "SetID": "64l4lke",
       "Name": "Worldly Traveller",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 380
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -35206,9 +35211,9 @@
       "ID": "relationships_all_positive_mountain",
       "SetID": "64l4lke",
       "Name": "Utopia",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 380
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -35230,9 +35235,9 @@
       "ID": "run_victory_act01",
       "SetID": "64l4lke",
       "Name": "Unshackled",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 506
     },
     {
       "ID": "run_victory_act02",
@@ -35407,21 +35412,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126519,
+      "Progressed": 126528,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1388,
+      "Progressed": 1397,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-13T04:59:07.2205481+00:00",
-  "LastChanged_Achievements": "2023-12-13T05:09:02.3560119+00:00",
+  "LastChanged_Achievements": "2023-12-13T06:09:05.5765168+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T04:59:07.2205487+00:00",
-  "LastUpdate_Achievements": "2023-12-13T05:09:02.3561912+00:00"
+  "LastUpdate_Ratings": "2023-12-13T05:59:40.129195+00:00",
+  "LastUpdate_Achievements": "2023-12-13T06:09:05.5766617+00:00"
 }
