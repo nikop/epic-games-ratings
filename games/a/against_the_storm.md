@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 70)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -39,12 +39,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ancient Battleground | 0.50% | ~90 |
 | Sparkdew Crystals | 0.50% | ~90 |
 | Flooded Mines | 0.50% | ~90 |
+| Serving Ale | 0.40% | ~72 |
 | Against All Odds | 0.40% | ~72 |
 | Fishmen Ritual Site | 0.40% | ~72 |
 | Haunted Forest | 0.40% | ~72 |
 | Defying the Crown | 0.40% | ~72 |
 | Fox Utopia | 0.40% | ~72 |
-| Serving Ale | 0.30% | ~54 |
 | Efficient Explorer | 0.30% | ~54 |
 | Refinery | 0.30% | ~54 |
 | Dangerous Lands | 0.30% | ~54 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,021 (Ranked 147)  
+Progressed: 18,024 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 40 (0.22%) (Ranked 256)
 | 2023-12-10 | 17,908 | 43 |
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
-| 2023-12-13 | 18,021 | 40 |
+| 2023-12-13 | 18,024 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 224)  
 Sum: 3,256 (Ranked 174)  

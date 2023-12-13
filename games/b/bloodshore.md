@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Super Seducer | 52.00% | ~118 |
 | Um, ok... | 52.00% | ~118 |
-| Congratulations, you are a sadist | 48.00% | ~109 |
+| Congratulations, you are a sadist | 49.00% | ~111 |
 | Superstar-crossed lovers | 40.00% | ~91 |
+| Comedy Killer | 33.00% | ~75 |
 | A leader, you are not | 33.00% | ~75 |
-| Comedy Killer | 32.00% | ~73 |
 | Good job, nerd | 32.00% | ~73 |
+| Mission Complete | 32.00% | ~73 |
 | Bromance | 31.00% | ~70 |
-| Mission Complete | 31.00% | ~70 |
 | This won't end well... | 31.00% | ~70 |
 | Lootaphilia | 22.00% | ~50 |
 | Maybe you should give it another go | 11.00% | ~25 |

@@ -16,10 +16,10 @@ Number of Ratings: 45  (23.09.2022)
 | Daybreak | 3.00% | ~46 |
 | A Mythic Menagerie | 2.00% | ~30 |
 | Completing the Look | 2.00% | ~30 |
+| Who's Counting? | 2.00% | ~30 |
 | War Endured | 2.00% | ~30 |
 | Core Failure | 2.00% | ~30 |
 | Let Me Get My Chisel | 1.00% | ~15 |
-| Who's Counting? | 1.00% | ~15 |
 | Pyrrhic Victory | 1.00% | ~15 |
 | Echoes Die | 1.00% | ~15 |
 | Thematic Divergence | 0.90% | ~14 |

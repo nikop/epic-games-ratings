@@ -6,14 +6,14 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 9.00% | ~301 |
+| Executioner | 9.00% | ~302 |
 | Look Over There! | 8.00% | ~268 |
 | Not So Fast... | 8.00% | ~268 |
 | Watch Where You Step... | 8.00% | ~268 |
 | An Ill Omen | 8.00% | ~268 |
-| Purging Spree | 7.00% | ~234 |
+| Purging Spree | 7.00% | ~235 |
 | Blood for the Blood God! | 6.00% | ~201 |
-| Bloodless | 5.00% | ~167 |
+| Bloodless | 5.00% | ~168 |
 | Honoured Battle-Brother | 4.00% | ~134 |
 | Surgical Excision | 4.00% | ~134 |
 | Friendly Fire | 4.00% | ~134 |
@@ -27,17 +27,17 @@ Number of Ratings: 371  (23.09.2022)
 | Efficient Killer | 2.00% | ~67 |
 | A Gift Spurned | 2.00% | ~67 |
 | Hive Exterminator | 2.00% | ~67 |
-| Fleetmaster | 1.00% | ~33 |
-| Daemonkeeper | 1.00% | ~33 |
-| Exterminator | 1.00% | ~33 |
-| Mind Like a Fortress | 1.00% | ~33 |
-| Only in Death | 1.00% | ~33 |
-| Preservationist | 1.00% | ~33 |
-| Junk Banishment | 1.00% | ~33 |
-| Long Distance Call | 1.00% | ~33 |
-| Tactical Flexibility | 1.00% | ~33 |
-| Execution Force | 1.00% | ~33 |
-| Tactical Sabotage | 1.00% | ~33 |
+| Fleetmaster | 1.00% | ~34 |
+| Daemonkeeper | 1.00% | ~34 |
+| Exterminator | 1.00% | ~34 |
+| Mind Like a Fortress | 1.00% | ~34 |
+| Only in Death | 1.00% | ~34 |
+| Preservationist | 1.00% | ~34 |
+| Junk Banishment | 1.00% | ~34 |
+| Long Distance Call | 1.00% | ~34 |
+| Tactical Flexibility | 1.00% | ~34 |
+| Execution Force | 1.00% | ~34 |
+| Tactical Sabotage | 1.00% | ~34 |
 | For the Machine God | 0.90% | ~30 |
 | Death Comes For All | 0.90% | ~30 |
 | Patron of Deimos | 0.80% | ~27 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,348 (Ranked 210)  
+Progressed: 3,350 (Ranked 210)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,6 +281,7 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-09 | 3,345 | 0 |
 | 2023-12-10 | 3,346 | 0 |
 | 2023-12-12 | 3,348 | 0 |
+| 2023-12-13 | 3,350 | 0 |
 ## Awards
 Max (Character Customization): 227  (Ranked 278)  
 Sum: 488 (Ranked 331)  

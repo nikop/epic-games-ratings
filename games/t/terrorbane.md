@@ -30,7 +30,7 @@
 | Arcade master | 2.00% | ~1 |
 | Real completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 523)  
+Progressed: 42 (Ranked 524)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |

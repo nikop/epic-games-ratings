@@ -15,8 +15,8 @@ Number of Ratings: 111  (23.09.2022)
 | Plastic Surgeon | 11.00% | ~343 |
 | The flip trick crown jewel | 11.00% | ~343 |
 | The hard way | 11.00% | ~343 |
-| Keep the dream alive | 10.00% | ~311 |
-| Upfront shredder | 10.00% | ~311 |
+| Keep the dream alive | 10.00% | ~312 |
+| Upfront shredder | 10.00% | ~312 |
 | Good vibes | 9.00% | ~280 |
 | Bottom ply killer | 8.00% | ~249 |
 | Fashionista | 8.00% | ~249 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,114 (Ranked 213)  
+Progressed: 3,115 (Ranked 213)  
 Completed: 2 (0.06%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,6 +267,7 @@ Completed: 2 (0.06%) (Ranked 315)
 | 2023-12-10 | 3,111 | 2 |
 | 2023-12-11 | 3,112 | 2 |
 | 2023-12-12 | 3,114 | 2 |
+| 2023-12-13 | 3,115 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 418)  
 Sum: 561 (Ranked 320)  

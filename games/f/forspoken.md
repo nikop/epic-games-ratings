@@ -18,10 +18,10 @@ Rating: 4.13 (Ranked 973)
 | Through the Eyes of Another: Empath | 4.00% | ~1,744 |
 | Stuck | 4.00% | ~1,744 |
 | Help Me Out Here | 4.00% | ~1,744 |
-| Outdoorsperson | 3.00% | ~1,308 |
 | The Interloper | 3.00% | ~1,308 |
 | Hop, Step, Jump | 3.00% | ~1,308 |
 | Endless Runner | 3.00% | ~1,308 |
+| Outdoorsperson | 2.00% | ~872 |
 | What Must Be Done | 2.00% | ~872 |
 | Might and Main | 2.00% | ~872 |
 | Damned If You Do... | 2.00% | ~872 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 973)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,597 (Ranked 119)  
+Progressed: 43,601 (Ranked 119)  
 Completed: 3 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 3 (0.01%) (Ranked 350)
 | 2023-12-10 | 43,521 | 3 |
 | 2023-12-11 | 43,556 | 3 |
 | 2023-12-12 | 43,579 | 3 |
-| 2023-12-13 | 43,597 | 3 |
+| 2023-12-13 | 43,601 | 3 |
 ## Awards
 Max (Character Customization): 30  (Ranked 503)  
 Sum: 30 (Ranked 519)  

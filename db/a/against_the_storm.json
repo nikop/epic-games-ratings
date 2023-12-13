@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 70,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 224,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
@@ -3431,9 +3431,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18021,
+  "EOS_Progressed": 18024,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": -8,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15581,6 +15581,11 @@
       "Time": "2023-12-13T17:08:03.821466+00:00",
       "NumProgressed": 18021,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-13T18:08:27.1995436+00:00",
+      "NumProgressed": 18024,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15591,9 +15596,9 @@
       "ID": "AleChain",
       "SetID": "cfbk359",
       "Name": "Serving Ale",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 72
     },
     {
       "ID": "AllFood",
@@ -16064,15 +16069,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18021,
+      "Progressed": 18024,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-13T10:59:18.3182302+00:00",
-  "LastChanged_Achievements": "2023-12-13T17:08:03.8214657+00:00",
+  "LastChanged_Achievements": "2023-12-13T18:08:27.1995433+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:59:34.6892191+00:00",
-  "LastUpdate_Achievements": "2023-12-13T17:08:03.8215473+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:00:28.3754+00:00",
+  "LastUpdate_Achievements": "2023-12-13T18:08:27.1996294+00:00"
 }

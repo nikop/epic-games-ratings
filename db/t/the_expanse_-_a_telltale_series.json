@@ -6,9 +6,9 @@
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -277,11 +277,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16083,
-  "EOS_Completed": 42,
-  "EOS_NewPlayers": 151,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.26,
+  "EOS_Progressed": 16090,
+  "EOS_Completed": 43,
+  "EOS_NewPlayers": 157,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -13692,6 +13692,11 @@
       "Time": "2023-12-13T17:06:36.7903368+00:00",
       "NumProgressed": 16083,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-13T18:07:50.9009237+00:00",
+      "NumProgressed": 16090,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13736,7 +13741,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "14",
@@ -13744,7 +13749,7 @@
       "Name": "Doctor Approved",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "15",
@@ -13776,7 +13781,7 @@
       "Name": "Bottoms up!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "19",
@@ -13800,7 +13805,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "21",
@@ -13832,7 +13837,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "25",
@@ -13840,7 +13845,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "26",
@@ -13944,7 +13949,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "32",
@@ -13968,7 +13973,7 @@
       "Name": "Master Negotiator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "35",
@@ -13976,20 +13981,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16083,
-      "Completed": 42
+      "Progressed": 16090,
+      "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2037,
+      "Progressed": 2044,
       "Completed": 871
     }
   ],
@@ -13997,8 +14002,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-13T17:06:36.7903365+00:00",
+  "LastChanged_Achievements": "2023-12-13T18:07:50.9009233+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:02:43.812546+00:00",
-  "LastUpdate_Achievements": "2023-12-13T17:06:36.7904301+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:02:46.4328224+00:00",
+  "LastUpdate_Achievements": "2023-12-13T18:07:50.901013+00:00"
 }

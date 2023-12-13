@@ -98,7 +98,7 @@
 | Last Witness | 21.00% | ~334 |
 | Well Connected | 21.00% | ~334 |
 | Pyromaniac | 20.00% | ~318 |
-| Executioner | 19.00% | ~302 |
+| Executioner | 20.00% | ~318 |
 | Patriot | 19.00% | ~302 |
 | Legend | 19.00% | ~302 |
 | Master and Commander | 19.00% | ~302 |

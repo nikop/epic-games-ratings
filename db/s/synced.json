@@ -4,11 +4,11 @@
   "ProductSlug": "synced",
   "Ranking_Rating": 962,
   "Ranking_Popularity": 360,
-  "Ranking_PopularitySum": 343,
+  "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1213,10 +1213,16 @@
       "Rating": 4.15,
       "NumberOfAwards": 413,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-12-13T17:59:28.7415944+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 414,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 413,
+  "NumberOfAwards": 414,
   "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1278,10 +1284,10 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 53
+      "Count": 54
     }
   ],
-  "EOS_Progressed": 68535,
+  "EOS_Progressed": 68538,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 1,
@@ -12431,6 +12437,11 @@
       "Time": "2023-12-13T17:05:32.4205011+00:00",
       "NumProgressed": 68535,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-13T18:06:21.1457097+00:00",
+      "NumProgressed": 68538,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -12443,7 +12454,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 24673
+      "UsersEstimate": 24674
     },
     {
       "ID": "10",
@@ -12507,7 +12518,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12336
+      "UsersEstimate": 12337
     },
     {
       "ID": "3",
@@ -12570,16 +12581,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 68535,
+      "Progressed": 68538,
       "Completed": 39
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-12-13T15:59:36.209656+00:00",
-  "LastChanged_Achievements": "2023-12-13T17:05:32.4205005+00:00",
+  "LastChanged": "2023-12-13T17:59:28.7415942+00:00",
+  "LastChanged_Achievements": "2023-12-13T18:06:21.1457092+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:19.3364255+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:58:54.9241381+00:00",
-  "LastUpdate_Achievements": "2023-12-13T17:05:32.4205763+00:00"
+  "LastUpdate_Ratings": "2023-12-13T17:59:28.7415946+00:00",
+  "LastUpdate_Achievements": "2023-12-13T18:06:21.1457688+00:00"
 }

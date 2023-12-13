@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -945,9 +945,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4150,
+  "EOS_Progressed": 4151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7060,6 +7060,11 @@
       "Time": "2023-12-13T14:05:05.8999119+00:00",
       "NumProgressed": 4150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T18:06:01.600175+00:00",
+      "NumProgressed": 4151,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -7080,7 +7085,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "achievement_11",
@@ -7168,7 +7173,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "achievement_21",
@@ -7184,7 +7189,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "achievement_4",
@@ -7192,7 +7197,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_5",
@@ -7200,7 +7205,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "achievement_6",
@@ -7216,7 +7221,7 @@
       "Name": "Head-to-Head",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_8",
@@ -7239,7 +7244,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4150,
+      "Progressed": 4151,
       "Completed": 0
     }
   ],
@@ -7247,8 +7252,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-13T16:01:42.7465124+00:00",
-  "LastChanged_Achievements": "2023-12-13T17:05:18.8277563+00:00",
+  "LastChanged_Achievements": "2023-12-13T18:06:01.6001747+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:00:28.761388+00:00",
-  "LastUpdate_Achievements": "2023-12-13T17:05:18.8278042+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:01:50.2234729+00:00",
+  "LastUpdate_Achievements": "2023-12-13T18:06:01.6002531+00:00"
 }

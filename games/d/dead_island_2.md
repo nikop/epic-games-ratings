@@ -5,29 +5,29 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~22,023 |
-| Welcome To Hell-A | 3.00% | ~22,023 |
-| Whatever It Takes | 3.00% | ~1,789 |
-| Pork Chopped | 3.00% | ~1,789 |
-| Dr. Reed, I Presume? | 2.00% | ~14,682 |
-| Git Gutte! | 2.00% | ~14,682 |
-| Anger Management | 2.00% | ~14,682 |
-| Bookworm | 2.00% | ~14,682 |
-| Break A Leg | 2.00% | ~14,682 |
-| But Doctor, I am Butcho | 2.00% | ~14,682 |
-| Can't Handle the Truth | 2.00% | ~14,682 |
-| Coup de Grâce | 2.00% | ~14,682 |
-| Like Riding a Bike | 2.00% | ~14,682 |
-| Hazardous Materials | 2.00% | ~14,682 |
-| Friends Like These | 2.00% | ~14,682 |
-| Apex Predator | 2.00% | ~14,682 |
-| Zombologist | 2.00% | ~14,682 |
-| A Patton Emerges | 2.00% | ~14,682 |
-| Stacking the Deck | 2.00% | ~14,682 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,682 |
-| Our True Nature | 2.00% | ~14,682 |
-| This is My Weapon | 2.00% | ~14,682 |
-| One of Us | 2.00% | ~1,193 |
+| Hotel California | 3.00% | ~22,024 |
+| Welcome To Hell-A | 3.00% | ~22,024 |
+| Whatever It Takes | 3.00% | ~1,791 |
+| Pork Chopped | 3.00% | ~1,791 |
+| Dr. Reed, I Presume? | 2.00% | ~14,683 |
+| Git Gutte! | 2.00% | ~14,683 |
+| Anger Management | 2.00% | ~14,683 |
+| Bookworm | 2.00% | ~14,683 |
+| Break A Leg | 2.00% | ~14,683 |
+| But Doctor, I am Butcho | 2.00% | ~14,683 |
+| Can't Handle the Truth | 2.00% | ~14,683 |
+| Coup de Grâce | 2.00% | ~14,683 |
+| Like Riding a Bike | 2.00% | ~14,683 |
+| Hazardous Materials | 2.00% | ~14,683 |
+| Friends Like These | 2.00% | ~14,683 |
+| Apex Predator | 2.00% | ~14,683 |
+| Zombologist | 2.00% | ~14,683 |
+| A Patton Emerges | 2.00% | ~14,683 |
+| Stacking the Deck | 2.00% | ~14,683 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,683 |
+| Our True Nature | 2.00% | ~14,683 |
+| This is My Weapon | 2.00% | ~14,683 |
+| One of Us | 2.00% | ~1,194 |
 | Making Your Mark | 1.00% | ~7,341 |
 | Perks of the Job | 1.00% | ~7,341 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,341 |
@@ -48,8 +48,8 @@ Rating: 4.54 (Ranked 534)
 | Variety is the Spice of Death | 0.60% | ~4,405 |
 | LA Influential | 0.50% | ~3,671 |
 | Gore Horse | 0.50% | ~3,671 |
-| Sole Survivor | 0.40% | ~2,936 |
-| Sharpest Tool in the Box | 0.40% | ~2,936 |
+| Sole Survivor | 0.40% | ~2,937 |
+| Sharpest Tool in the Box | 0.40% | ~2,937 |
 | Top That, Tisha! | 0.40% | ~239 |
 | Survival Skills | 0.30% | ~2,202 |
 | Lawn and Order | 0.20% | ~119 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 534)
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,106 (Ranked 21)  
-Completed: 2,481 (0.34%) (Ranked 236)  
+Progressed: 734,149 (Ranked 21)  
+Completed: 2,482 (0.34%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -294,7 +294,7 @@ Completed: 2,481 (0.34%) (Ranked 236)
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
 | 2023-12-12 | 733,868 | 2,480 |
-| 2023-12-13 | 734,106 | 2,481 |
+| 2023-12-13 | 734,149 | 2,482 |
 ## Awards
 Max (Great Boss Battles): 8,108  (Ranked 49)  
 Sum: 12,486 (Ranked 81)  

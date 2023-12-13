@@ -2,10 +2,10 @@
   "ID": "269f94247b4f471b9381fd4052bf1fad",
   "Name": "Born of Bread",
   "ProductSlug": "born-of-bread-008e66",
-  "Ranking_EOS_Progress": 581,
+  "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19,
+  "EOS_Progressed": 20,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -119,6 +119,11 @@
       "Time": "2023-12-12T20:06:14.9795385+00:00",
       "NumProgressed": 19,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T18:08:51.0157464+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T15:04:34.1379111+00:00",
@@ -137,7 +142,7 @@
       "ID": "ACH_ATLAS",
       "SetID": "6lg1p1e",
       "Name": "Atlas",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -145,7 +150,7 @@
       "ID": "ACH_BARGAIN-HUNTER",
       "SetID": "6lg1p1e",
       "Name": "Bargain Hunter",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -161,7 +166,7 @@
       "ID": "ACH_BIG-BROTHER",
       "SetID": "6lg1p1e",
       "Name": "Big Brother",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -169,7 +174,7 @@
       "ID": "ACH_BREAD-AND-BREAKFAST",
       "SetID": "6lg1p1e",
       "Name": "Bread and Breakfast",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -177,7 +182,7 @@
       "ID": "ACH_COSPLAY",
       "SetID": "6lg1p1e",
       "Name": "Cosplay",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -201,7 +206,7 @@
       "ID": "ACH_EXOTIC-ARSENAL",
       "SetID": "6lg1p1e",
       "Name": "Exotic Arsenal",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -209,7 +214,7 @@
       "ID": "ACH_FIRST-PAYCHECK",
       "SetID": "6lg1p1e",
       "Name": "First Paycheck",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -233,7 +238,7 @@
       "ID": "ACH_HEART-OF-THE-CARDS",
       "SetID": "6lg1p1e",
       "Name": "Heart of the Cards",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -265,7 +270,7 @@
       "ID": "ACH_LITTLE-ARSONIST",
       "SetID": "6lg1p1e",
       "Name": "Little Arsonist",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -273,7 +278,7 @@
       "ID": "ACH_LOREMASTER",
       "SetID": "6lg1p1e",
       "Name": "Lore Master",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -281,7 +286,7 @@
       "ID": "ACH_MISCHIEVOUS-BREAD",
       "SetID": "6lg1p1e",
       "Name": "Mischievous Bread",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -313,9 +318,9 @@
       "ID": "ACH_PARTNER",
       "SetID": "6lg1p1e",
       "Name": "Partner",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_PHOTOGRAPHIC-MEMORY",
@@ -329,7 +334,7 @@
       "ID": "ACH_PHYSIOLOGUS",
       "SetID": "6lg1p1e",
       "Name": "Physiologus",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -337,7 +342,7 @@
       "ID": "ACH_PRIVATE-EYE",
       "SetID": "6lg1p1e",
       "Name": "Private Eye",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -345,7 +350,7 @@
       "ID": "ACH_PRO-EXCAVATOR",
       "SetID": "6lg1p1e",
       "Name": "Pro Excavator",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -361,7 +366,7 @@
       "ID": "ACH_RACER-CHAMPION",
       "SetID": "6lg1p1e",
       "Name": "Break a Sweat",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -369,7 +374,7 @@
       "ID": "ACH_RATATOUIED",
       "SetID": "6lg1p1e",
       "Name": "Ratatouied",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -401,7 +406,7 @@
       "ID": "ACH_WHACK-A-MOLE",
       "SetID": "6lg1p1e",
       "Name": "Whack-a-mole",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -409,7 +414,7 @@
       "ID": "ACH_ZEN-MASTER",
       "SetID": "6lg1p1e",
       "Name": "Zen Master",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 3
     }
@@ -418,14 +423,14 @@
     {
       "ID": "6lg1p1e",
       "IsBase": true,
-      "Progressed": 19,
+      "Progressed": 20,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-13T17:08:20.9073886+00:00",
+  "LastChanged_Achievements": "2023-12-13T18:08:51.0157461+00:00",
   "LastUpdate_AppInfo": "2023-12-06T21:57:01.6928375+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:59:42.2223029+00:00",
-  "LastUpdate_Achievements": "2023-12-13T17:08:20.9074103+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:00:39.4139426+00:00",
+  "LastUpdate_Achievements": "2023-12-13T18:08:51.0157683+00:00"
 }

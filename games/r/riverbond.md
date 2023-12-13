@@ -6,22 +6,22 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~373,139 |
+| First Step | 70.00% | ~373,140 |
 | Now You're Talking | 62.00% | ~330,495 |
 | Steel Yourself | 62.00% | ~330,495 |
 | Window Dressing | 50.00% | ~266,528 |
 | Trigger Happy | 46.00% | ~245,206 |
-| Riverborn | 45.00% | ~239,875 |
+| Riverborn | 45.00% | ~239,876 |
 | Starry Eyed | 34.00% | ~181,239 |
 | Poking Around | 34.00% | ~181,239 |
-| Talk of the Town | 24.00% | ~127,933 |
+| Talk of the Town | 24.00% | ~127,934 |
 | AAARR! | 23.00% | ~122,603 |
 | Hello Darkness | 23.00% | ~122,603 |
-| Wind At Our Backs | 22.00% | ~117,272 |
+| Wind At Our Backs | 22.00% | ~117,273 |
 | To the Beat | 20.00% | ~106,611 |
 | Sunny Shores | 17.00% | ~90,620 |
 | Sunday Best | 16.00% | ~85,289 |
-| To Victory! | 15.00% | ~79,958 |
+| To Victory! | 15.00% | ~79,959 |
 | Two of a Kind | 14.00% | ~74,628 |
 | Keep On Trucking | 13.00% | ~69,297 |
 | Going on an Adventure | 11.00% | ~58,636 |
@@ -30,7 +30,7 @@ Number of Ratings: 617  (23.09.2022)
 | Not So Cute Anymore | 10.00% | ~53,306 |
 | Road Less Travelled | 9.00% | ~47,975 |
 | Lost and Found | 9.00% | ~47,975 |
-| Under the Radar | 8.00% | ~42,644 |
+| Under the Radar | 8.00% | ~42,645 |
 | Partner in Crime | 7.00% | ~37,314 |
 | Hard to Hear | 7.00% | ~37,314 |
 | Moving On Up | 6.00% | ~31,983 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,599 |
 | Point Taken | 0.20% | ~1,066 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533,056 (Ranked 35)  
+Progressed: 533,057 (Ranked 35)  
 Completed: 508 (0.10%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 508 (0.10%) (Ranked 294)
 | 2023-12-10 | 532,925 | 506 |
 | 2023-12-11 | 532,977 | 506 |
 | 2023-12-12 | 533,018 | 508 |
-| 2023-12-13 | 533,056 | 508 |
+| 2023-12-13 | 533,057 | 508 |
 ## Awards
 Max (Relaxing): 20  (Ranked 553)  
 Sum: 20 (Ranked 555)  

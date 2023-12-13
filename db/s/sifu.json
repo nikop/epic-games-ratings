@@ -2,12 +2,12 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 70,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8247,9 +8247,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 718009,
+  "EOS_Progressed": 718019,
   "EOS_Completed": 12952,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -29207,6 +29207,11 @@
       "Time": "2023-12-13T17:08:25.9606455+00:00",
       "NumProgressed": 718009,
       "NumCompleted": 12952
+    },
+    {
+      "Time": "2023-12-13T18:08:58.1505761+00:00",
+      "NumProgressed": 718019,
+      "NumCompleted": 12952
     }
   ],
   "TotalAchievements": 60,
@@ -29554,7 +29559,7 @@
       "Name": "Project Arena",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -29697,21 +29702,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 27310,
+      "Progressed": 27320,
       "Completed": 10769
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 718009,
+      "Progressed": 718019,
       "Completed": 12952
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-13T15:02:51.9563265+00:00",
-  "LastChanged_Achievements": "2023-12-13T17:08:25.9606453+00:00",
+  "LastChanged_Achievements": "2023-12-13T18:08:58.1505758+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.3418066+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:02:56.2152392+00:00",
-  "LastUpdate_Achievements": "2023-12-13T17:08:25.9607541+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:03:05.7334372+00:00",
+  "LastUpdate_Achievements": "2023-12-13T18:08:58.1506879+00:00"
 }

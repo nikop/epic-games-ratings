@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -319,7 +319,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233497,
+  "EOS_Progressed": 233500,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
@@ -24324,6 +24324,11 @@
       "Time": "2023-12-13T17:09:14.9895809+00:00",
       "NumProgressed": 233497,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-13T18:09:37.636811+00:00",
+      "NumProgressed": 233500,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -24335,7 +24340,7 @@
       "Name": "Well-Done",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ALL_COMBO_OLEANDER",
@@ -24343,7 +24348,7 @@
       "Name": "Valedictorian",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ALL_COMBO_PAPRIKA",
@@ -24351,7 +24356,7 @@
       "Name": "Love is a Battlefield",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ALL_COMBO_POM",
@@ -24359,7 +24364,7 @@
       "Name": "That\u0027ll Do",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ALL_COMBO_SHANTY",
@@ -24367,7 +24372,7 @@
       "Name": "Swashbuckle\u0027d",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ALL_COMBO_STARTING_6",
@@ -24375,7 +24380,7 @@
       "Name": "School of Hard Knocks",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ALL_COMBO_TIANHUO",
@@ -24383,7 +24388,7 @@
       "Name": "Way of the Dragon",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ALL_COMBO_VELVET",
@@ -24391,7 +24396,7 @@
       "Name": "Iced Out",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "BEGIN_STORY_MODE",
@@ -24399,7 +24404,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84059
+      "UsersEstimate": 84060
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -24407,7 +24412,7 @@
       "Name": "Kickin\u0027 \u0027n Stompin\u0027",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "COMPLETE_ARCADE_OLEANDER_GREENHORN",
@@ -24415,7 +24420,7 @@
       "Name": "Dark Magic",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "COMPLETE_ARCADE_PAPRIKA_GREENHORN",
@@ -24423,7 +24428,7 @@
       "Name": "I Love You This Much",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "COMPLETE_ARCADE_POM_GREENHORN",
@@ -24431,7 +24436,7 @@
       "Name": "Who Let The Dogs Out?",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "COMPLETE_ARCADE_SHANTY_GREENHORN",
@@ -24439,7 +24444,7 @@
       "Name": "The GOAT",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "COMPLETE_ARCADE_STARTING_6",
@@ -24447,7 +24452,7 @@
       "Name": "The Key To Victory",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "COMPLETE_ARCADE_TIANHUO_GREENHORN",
@@ -24455,7 +24460,7 @@
       "Name": "Honor For All",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "COMPLETE_ARCADE_VELVET_GREENHORN",
@@ -24463,7 +24468,7 @@
       "Name": "Ice Queen",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "COMPLETE_ARIZONAS_STORY_MODE_CHAPTER",
@@ -24479,7 +24484,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79389
+      "UsersEstimate": 79390
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -24487,7 +24492,7 @@
       "Name": "Doohickeys",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "PLAY_1_ONLINE_MATCH",
@@ -24495,7 +24500,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51369
+      "UsersEstimate": 51370
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -24511,7 +24516,7 @@
       "Name": "Alpaca Space Program",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "STOMP_SON_OF_DEER_PAINTING",
@@ -24527,7 +24532,7 @@
       "Name": "High Priestess",
       "Percentage": 0.1,
       "XP": 145,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "WIN_10_ONLINE_MATCHES",
@@ -24543,7 +24548,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39694
+      "UsersEstimate": 39695
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -24558,7 +24563,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233497,
+      "Progressed": 233500,
       "Completed": 5
     }
   ],
@@ -24566,8 +24571,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-08T19:00:51.9158199+00:00",
-  "LastChanged_Achievements": "2023-12-13T17:09:14.9895804+00:00",
+  "LastChanged_Achievements": "2023-12-13T18:09:37.6368107+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:19.2756281+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:59:52.126629+00:00",
-  "LastUpdate_Achievements": "2023-12-13T17:09:14.9896986+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:00:55.6360199+00:00",
+  "LastUpdate_Achievements": "2023-12-13T18:09:37.6369423+00:00"
 }

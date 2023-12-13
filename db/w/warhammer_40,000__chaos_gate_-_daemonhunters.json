@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3348,
+  "EOS_Progressed": 3350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4104,6 +4104,11 @@
       "Time": "2023-12-12T23:06:42.9081367+00:00",
       "NumProgressed": 3348,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T18:07:45.6860979+00:00",
+      "NumProgressed": 3350,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4227,7 +4232,7 @@
       "Name": "Fleetmaster",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ForTheMachineGod",
@@ -4267,7 +4272,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -4307,7 +4312,7 @@
       "Name": "Executioner",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "Kills_Exterminator",
@@ -4315,7 +4320,7 @@
       "Name": "Exterminator",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Kills_FriendlyFire",
@@ -4347,7 +4352,7 @@
       "Name": "Purging Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "Kills_Vakir",
@@ -4371,7 +4376,7 @@
       "Name": "Mind Like a Fortress",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -4451,7 +4456,7 @@
       "Name": "Bloodless",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -4499,7 +4504,7 @@
       "Name": "Only in Death",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Preservationist",
@@ -4507,7 +4512,7 @@
       "Name": "Preservationist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -4531,7 +4536,7 @@
       "Name": "Junk Banishment",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -4555,7 +4560,7 @@
       "Name": "Long Distance Call",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SkilledKnight",
@@ -4579,7 +4584,7 @@
       "Name": "Tactical Flexibility",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "AllAssassinsAcquired",
@@ -4587,7 +4592,7 @@
       "Name": "Execution Force",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ExperiencedCallidus",
@@ -4643,7 +4648,7 @@
       "Name": "Tactical Sabotage",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "TentarusHive_Destroyed",
@@ -4658,21 +4663,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3348,
+      "Progressed": 3350,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3348,
+      "Progressed": 3350,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-12T16:03:26.7422514+00:00",
-  "LastChanged_Achievements": "2023-12-13T17:06:32.8892501+00:00",
+  "LastChanged_Achievements": "2023-12-13T18:07:45.6860972+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0749768+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:03:03.3119562+00:00",
-  "LastUpdate_Achievements": "2023-12-13T17:06:32.8893126+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:03:16.6378885+00:00",
+  "LastUpdate_Achievements": "2023-12-13T18:07:45.6861746+00:00"
 }

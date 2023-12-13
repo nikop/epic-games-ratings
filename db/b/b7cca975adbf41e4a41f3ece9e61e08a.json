@@ -3,11 +3,11 @@
   "Name": "Love Is All Around",
   "ProductSlug": "love-is-all-around-3a8046",
   "Ranking_Rating": 148,
-  "Ranking_Popularity": 537,
-  "Ranking_PopularitySum": 540,
+  "Ranking_Popularity": 538,
+  "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -199,9 +199,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10968,
+  "EOS_Progressed": 10969,
   "EOS_Completed": 204,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.86,
   "EosHistory": [
@@ -6194,6 +6194,11 @@
       "Time": "2023-12-13T17:09:20.2315508+00:00",
       "NumProgressed": 10968,
       "NumCompleted": 204
+    },
+    {
+      "Time": "2023-12-13T18:09:44.7153816+00:00",
+      "NumProgressed": 10969,
+      "NumCompleted": 204
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -6214,7 +6219,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 9542
+      "UsersEstimate": 9543
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -6270,7 +6275,7 @@
       "Name": "Boys Need To Protect Themselves",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_17",
@@ -6278,7 +6283,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 3290
+      "UsersEstimate": 3291
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -6286,7 +6291,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 3290
+      "UsersEstimate": 3291
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -6318,7 +6323,7 @@
       "Name": "Let Me Be Your Toy Boy",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -6342,7 +6347,7 @@
       "Name": "Love Actually",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 5374
+      "UsersEstimate": 5375
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -6358,7 +6363,7 @@
       "Name": "Still Single",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 3619
+      "UsersEstimate": 3620
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -6406,7 +6411,7 @@
       "Name": "Stubborn Noob",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -6414,7 +6419,7 @@
       "Name": "What I Want Is You",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 6690
+      "UsersEstimate": 6691
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -6422,7 +6427,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -6470,7 +6475,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3948
+      "UsersEstimate": 3949
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -6486,7 +6491,7 @@
       "Name": "David",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 3290
+      "UsersEstimate": 3291
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -6541,7 +6546,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10968,
+      "Progressed": 10969,
       "Completed": 204
     }
   ],
@@ -6549,8 +6554,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-10T15:00:14.2676379+00:00",
-  "LastChanged_Achievements": "2023-12-13T17:09:20.2315504+00:00",
+  "LastChanged_Achievements": "2023-12-13T18:09:44.7153812+00:00",
   "LastUpdate_AppInfo": "2023-12-09T02:17:01.4764819+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:58:32.3597239+00:00",
-  "LastUpdate_Achievements": "2023-12-13T17:09:20.2315985+00:00"
+  "LastUpdate_Ratings": "2023-12-13T17:58:55.0388618+00:00",
+  "LastUpdate_Achievements": "2023-12-13T18:09:44.7154547+00:00"
 }

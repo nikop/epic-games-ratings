@@ -6,16 +6,16 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~50,710 |
-| Get Busy Living | 16.00% | ~32,454 |
-| Samuel Norton | 9.00% | ~18,256 |
-| Spare The Rod | 5.00% | ~10,142 |
-| Don't Put Me In The Dark | 3.00% | ~6,085 |
-| Wait and Hope | 3.00% | ~6,085 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,085 |
+| Stone Walls | 25.00% | ~50,713 |
+| Get Busy Living | 16.00% | ~32,456 |
+| Samuel Norton | 9.00% | ~18,257 |
+| Spare The Rod | 5.00% | ~10,143 |
+| Don't Put Me In The Dark | 3.00% | ~6,086 |
+| Wait and Hope | 3.00% | ~6,086 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,086 |
 | Throw The Book At Them | 2.00% | ~4,057 |
 | Iron Bars | 2.00% | ~4,057 |
-| D.B. Cooper | 1.00% | ~2,028 |
+| D.B. Cooper | 1.00% | ~2,029 |
 | Reformation | 0.60% | ~1,217 |
 | Crowd Control | 0.50% | ~1,014 |
 | Freedom | 0.40% | ~811 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~203 |
 | ... It's What You Can Prove | 0.10% | ~203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202,840 (Ranked 75)  
+Progressed: 202,853 (Ranked 75)  
 Completed: 11 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 11 (0.01%) (Ranked 350)
 | 2023-12-10 | 202,223 | 11 |
 | 2023-12-11 | 202,460 | 11 |
 | 2023-12-12 | 202,675 | 11 |
-| 2023-12-13 | 202,840 | 11 |
+| 2023-12-13 | 202,853 | 11 |
 ## Awards
 Max (Great for Beginners): 600  (Ranked 200)  
 Sum: 4,601 (Ranked 148)  

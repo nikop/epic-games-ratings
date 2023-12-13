@@ -8,9 +8,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 4.00% | ~59 |
 | This Belongs in a Museum | 2.00% | ~2,532 |
-| This guy... again? | 2.00% | ~29 |
-| Bloody Graduation | 2.00% | ~29 |
-| Lost and Found | 2.00% | ~29 |
+| This guy... again? | 2.00% | ~30 |
+| Bloody Graduation | 2.00% | ~30 |
+| Lost and Found | 2.00% | ~30 |
 | Not Today! | 1.00% | ~1,266 |
 | Creep and Sleep | 1.00% | ~1,266 |
 | Meat and Greet | 1.00% | ~1,266 |
@@ -18,8 +18,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 1.00% | ~1,266 |
 | Escape from the Black Hole | 1.00% | ~1,266 |
 | Autodidact | 1.00% | ~1,266 |
+| Serenity Now! | 0.80% | ~1,013 |
 | Ploughshares to Swords | 0.80% | ~12 |
-| Serenity Now! | 0.70% | ~886 |
 | Rush Hour | 0.70% | ~886 |
 | To Grandmother's House | 0.70% | ~886 |
 | FNG | 0.70% | ~886 |
@@ -30,9 +30,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Happens | 0.60% | ~760 |
 | Nope | 0.60% | ~760 |
 | Friends 'Til the End | 0.60% | ~9 |
+| Predator | 0.50% | ~633 |
 | Banishment | 0.50% | ~633 |
 | Now Stay Dead | 0.50% | ~633 |
 | Reverse Banditry | 0.50% | ~633 |
+| Spelunker | 0.50% | ~633 |
 | Merry Time | 0.50% | ~633 |
 | Harvest Festival | 0.50% | ~633 |
 | Ramble On | 0.50% | ~633 |
@@ -47,13 +49,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Wyrdly Reconstructed | 0.40% | ~506 |
 | Boxcar Kid | 0.40% | ~506 |
 | Unfulfilled Desires | 0.40% | ~506 |
-| Predator | 0.40% | ~506 |
 | Ichthyophobic | 0.40% | ~506 |
-| Spelunker | 0.40% | ~506 |
 | A Clear Conscience | 0.40% | ~506 |
 | When You Want Something Done Right | 0.40% | ~506 |
 | Unshackled | 0.40% | ~506 |
 | Slap on the Wrist | 0.40% | ~6 |
+| This Looks Familiar | 0.30% | ~380 |
 | Hope Rekindled | 0.30% | ~380 |
 | No More Mouths to Feed | 0.30% | ~380 |
 | Utopia | 0.30% | ~380 |
@@ -61,7 +62,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 0.30% | ~380 |
 | Maître De La Lame | 0.30% | ~4 |
 | Et Tu, Riposte? | 0.30% | ~4 |
-| This Looks Familiar | 0.20% | ~253 |
 | Shrine of Reflection | 0.20% | ~253 |
 | Handled | 0.20% | ~253 |
 | Body of Work | 0.20% | ~253 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~1 |
 | On This Long Road, We Found Redemption | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,605 (Ranked 84)  
+Progressed: 126,618 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 3 (0.00%) (Ranked 373)
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
-| 2023-12-13 | 126,605 | 3 |
+| 2023-12-13 | 126,618 | 3 |
 ## Awards
 Max (Character Customization): 7,665  (Ranked 52)  
 Sum: 20,315 (Ranked 59)  

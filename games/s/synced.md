@@ -5,8 +5,8 @@ Rating: 4.15 (Ranked 962)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 36.00% | ~24,673 |
-| As Far Away As Possible | 18.00% | ~12,336 |
+| Your Lucky Day | 36.00% | ~24,674 |
+| As Far Away As Possible | 18.00% | ~12,337 |
 | A Most Unstable Organism | 13.00% | ~8,910 |
 | No Time to Follow Protocol | 10.00% | ~6,854 |
 | Float Like a Butterfly... | 8.00% | ~5,483 |
@@ -22,7 +22,7 @@ Rating: 4.15 (Ranked 962)
 | Gone Rogue | 0.30% | ~206 |
 | Runs for Your Money | 0.30% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,535 (Ranked 103)  
+Progressed: 68,538 (Ranked 103)  
 Completed: 39 (0.06%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,17 +130,17 @@ Completed: 39 (0.06%) (Ranked 315)
 | 2023-12-10 | 68,410 | 39 |
 | 2023-12-11 | 68,456 | 39 |
 | 2023-12-12 | 68,509 | 39 |
-| 2023-12-13 | 68,535 | 39 |
+| 2023-12-13 | 68,538 | 39 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 360)  
-Sum: 413 (Ranked 343)  
-Diff (max vs sum): 17  
+Sum: 414 (Ranked 342)  
+Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 104 |
 | This game has Diverse Characters | 74 |
 | This game has a Competitive Community | 54 |
-| This game has Amazing Characters | 53 |
+| This game has Amazing Characters | 54 |
 | This game is Highly Recommended | 52 |
 | This game is Extremely Fun | 47 |
 | This game has Amazing Storytelling | 43 |
@@ -236,4 +236,4 @@ Diff (max vs sum): 17
 | 2023-12-09 | 4.16 | 103 | 463 |
 | 2023-12-11 | 4.15 | 103 | 409 |
 | 2023-12-12 | 4.15 | 104 | 412 |
-| 2023-12-13 | 4.15 | 104 | 413 |
+| 2023-12-13 | 4.15 | 104 | 414 |

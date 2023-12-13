@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1158,
+  "EOS_Progressed": 1159,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.55,
   "EosHistory": [
@@ -2410,6 +2410,11 @@
       "Time": "2023-12-11T18:03:32.1344607+00:00",
       "NumProgressed": 1158,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-13T18:05:31.9217378+00:00",
+      "NumProgressed": 1159,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -2421,7 +2426,7 @@
       "Name": "Humble beginnings",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -2437,7 +2442,7 @@
       "Name": "Soulmate?",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -2445,7 +2450,7 @@
       "Name": "Roll with it",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -2453,7 +2458,7 @@
       "Name": "Kaboom",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -2509,7 +2514,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -2525,7 +2530,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -2549,7 +2554,7 @@
       "Name": "Island boy",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -2573,7 +2578,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "ACH_STAR_2",
@@ -2621,7 +2626,7 @@
       "Name": "Excellent service",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -2636,7 +2641,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1158,
+      "Progressed": 1159,
       "Completed": 18
     }
   ],
@@ -2644,8 +2649,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-04T06:59:58.8594185+00:00",
-  "LastChanged_Achievements": "2023-12-13T17:04:57.5847446+00:00",
+  "LastChanged_Achievements": "2023-12-13T18:05:31.9217373+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:05.3714871+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:58:00.0082882+00:00",
-  "LastUpdate_Achievements": "2023-12-13T17:04:57.5847711+00:00"
+  "LastUpdate_Ratings": "2023-12-13T17:58:10.5312656+00:00",
+  "LastUpdate_Achievements": "2023-12-13T18:05:31.9217605+00:00"
 }

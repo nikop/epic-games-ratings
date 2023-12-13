@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,599 |
-| Titan's First Steps | 8.00% | ~11,599 |
-| Basic in Bulk | 7.00% | ~10,149 |
-| Tinkle of Coins | 7.00% | ~10,149 |
-| Disintermediation | 5.00% | ~7,249 |
-| It's Free Real Estate | 5.00% | ~7,249 |
-| Budding Merchant | 5.00% | ~7,249 |
-| Capitalism Ho! | 5.00% | ~7,249 |
-| One Easy Payment | 4.00% | ~5,799 |
-| Some Assembly Required | 4.00% | ~5,799 |
-| Another Satisfied Customer | 4.00% | ~5,799 |
-| Pretty Penny | 4.00% | ~5,799 |
-| Own the Means of Production | 4.00% | ~5,799 |
+| Sponsored by Argon | 8.00% | ~11,600 |
+| Titan's First Steps | 8.00% | ~11,600 |
+| Basic in Bulk | 7.00% | ~10,150 |
+| Tinkle of Coins | 7.00% | ~10,150 |
+| Disintermediation | 5.00% | ~7,250 |
+| It's Free Real Estate | 5.00% | ~7,250 |
+| Budding Merchant | 5.00% | ~7,250 |
+| Capitalism Ho! | 5.00% | ~7,250 |
+| One Easy Payment | 4.00% | ~5,800 |
+| Some Assembly Required | 4.00% | ~5,800 |
+| Another Satisfied Customer | 4.00% | ~5,800 |
+| Pretty Penny | 4.00% | ~5,800 |
+| Own the Means of Production | 4.00% | ~5,800 |
 | The Daily Grind | 3.00% | ~4,350 |
 | Bounty Hunters | 3.00% | ~4,350 |
 | Demand for Supplies | 3.00% | ~4,350 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~435 |
 | Capitalist Camaraderie | 0.20% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,984 (Ranked 80)  
-Completed: 295 (0.20%) (Ranked 261)  
+Progressed: 144,994 (Ranked 80)  
+Completed: 296 (0.20%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -356,7 +356,7 @@ Completed: 295 (0.20%) (Ranked 261)
 | 2023-12-10 | 144,657 | 293 |
 | 2023-12-11 | 144,756 | 293 |
 | 2023-12-12 | 144,871 | 294 |
-| 2023-12-13 | 144,984 | 295 |
+| 2023-12-13 | 144,994 | 296 |
 ## Awards
 Max (Great for Beginners): 4,882  (Ranked 75)  
 Sum: 27,707 (Ranked 51)  

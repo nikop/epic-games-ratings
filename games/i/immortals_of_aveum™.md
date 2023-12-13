@@ -5,22 +5,22 @@ Rating: 4.05 (Ranked 1,002)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 92.00% | ~306 |
-| Battlefields Have Memories | 88.00% | ~293 |
-| Enlisted | 85.00% | ~283 |
-| Maybe Engage a Little | 81.00% | ~270 |
-| No More Names | 71.00% | ~236 |
-| Initiate | 58.00% | ~193 |
+| Unforeseen | 92.00% | ~307 |
+| Battlefields Have Memories | 88.00% | ~294 |
+| Enlisted | 85.00% | ~284 |
+| Maybe Engage a Little | 81.00% | ~271 |
+| No More Names | 70.00% | ~234 |
+| Initiate | 57.00% | ~190 |
 | Thrada-Kul | 54.00% | ~180 |
 | Gravity-Challenged Rocks | 44.00% | ~147 |
 | Soldier | 39.00% | ~130 |
 | All the Major Food Groups | 38.00% | ~127 |
-| Beggars Would Ride | 35.00% | ~117 |
+| Beggars Would Ride | 34.00% | ~114 |
 | Control is an Illusion | 32.00% | ~107 |
-| Socialite | 31.00% | ~103 |
-| The Means to Save It | 28.00% | ~93 |
-| Resilience to Sin | 26.00% | ~87 |
-| A Familiar Nest | 25.00% | ~83 |
+| Socialite | 31.00% | ~104 |
+| The Means to Save It | 28.00% | ~94 |
+| Resilience to Sin | 25.00% | ~84 |
+| A Familiar Nest | 25.00% | ~84 |
 | Periapt Alizarin | 24.00% | ~80 |
 | Geas Aristeya | 23.00% | ~77 |
 | A Perfect Cycle | 22.00% | ~73 |
@@ -33,27 +33,27 @@ Rating: 4.05 (Ranked 1,002)
 | Armaments Azure | 9.00% | ~30 |
 | Shroudfane Explorer | 9.00% | ~30 |
 | Best Dressed | 8.00% | ~27 |
-| Armaments Gules | 8.00% | ~27 |
+| Armaments Gules | 7.00% | ~23 |
 | Scholar | 6.00% | ~20 |
 | Kitted Out | 6.00% | ~20 |
 | Armaments Vert | 5.00% | ~17 |
 | Veteran | 5.00% | ~17 |
 | Master of Ultramarine | 2.00% | ~7 |
 | Master of Carmine | 2.00% | ~7 |
-| Master of Malachite | 2.00% | ~7 |
 | Shroudfane Surveyor | 2.00% | ~7 |
 | Tip of the Spear | 2.00% | ~7 |
-| Treasure Hunter | 2.00% | ~7 |
-| Backtracker | 2.00% | ~7 |
 | Grand Magnus | 1.00% | ~3 |
 | Petite Bourgeoisie | 1.00% | ~3 |
+| Master of Malachite | 1.00% | ~3 |
+| Treasure Hunter | 1.00% | ~3 |
+| Backtracker | 1.00% | ~3 |
 | Family Business | 0.60% | ~2 |
 | Diplomat | 0.60% | ~2 |
 | Witch-Taker | 0.60% | ~2 |
 | Out of Time | 0.60% | ~2 |
 | Fowl Play | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 349)  
+Progressed: 334 (Ranked 349)  
 Completed: 2 (0.60%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.60%) (Ranked 195)
 | 2023-12-09 | 329 | 1 |
 | 2023-12-10 | 331 | 1 |
 | 2023-12-11 | 331 | 2 |
-| 2023-12-13 | 333 | 2 |
+| 2023-12-13 | 334 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

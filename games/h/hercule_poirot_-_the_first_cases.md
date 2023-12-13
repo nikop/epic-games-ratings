@@ -5,30 +5,30 @@ Rating: 4.35 (Ranked 800)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 89.00% | ~398 |
-| Luc Piette | 77.00% | ~344 |
-| Angeline Van den Bosch | 74.00% | ~331 |
-| Elizabeth Padget | 71.00% | ~317 |
-| Little Grey Cells | 69.00% | ~308 |
-| The Bracelet | 66.00% | ~295 |
+| It Wasn’t a Burglary | 89.00% | ~399 |
+| Luc Piette | 77.00% | ~345 |
+| Angeline Van den Bosch | 74.00% | ~332 |
+| Elizabeth Padget | 71.00% | ~318 |
+| Little Grey Cells | 69.00% | ~309 |
+| The Bracelet | 66.00% | ~296 |
 | The Blackmail | 55.00% | ~246 |
 | Major Felix Hagen | 55.00% | ~246 |
-| Fine-toothed Comb | 54.00% | ~241 |
-| Florette Duval | 54.00% | ~241 |
-| Order and Method | 53.00% | ~237 |
+| Fine-toothed Comb | 54.00% | ~242 |
+| Florette Duval | 54.00% | ~242 |
+| Order and Method | 52.00% | ~233 |
 | The Altercation | 50.00% | ~224 |
-| Truth from Within | 49.00% | ~219 |
-| The Major | 47.00% | ~210 |
-| Curious and Beautiful | 45.00% | ~201 |
-| Comtesse Margaux de Vos | 45.00% | ~201 |
+| Truth from Within | 49.00% | ~220 |
+| The Major | 47.00% | ~211 |
+| Curious and Beautiful | 45.00% | ~202 |
+| Comtesse Margaux de Vos | 45.00% | ~202 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~197 |
 | The Interrogations | 44.00% | ~197 |
 | Well-acquainted | 42.00% | ~188 |
-| Zakariya Demir | 41.00% | ~183 |
-| Well-read | 39.00% | ~174 |
+| Zakariya Demir | 41.00% | ~184 |
+| Well-read | 39.00% | ~175 |
 | Cassandra Van den Bosch | 38.00% | ~170 |
-| The Secret | 37.00% | ~165 |
-| Gedeon Demir | 35.00% | ~156 |
+| The Secret | 37.00% | ~166 |
+| Gedeon Demir | 35.00% | ~157 |
 | Rehana Piette | 34.00% | ~152 |
 | Instinct is Marvellous | 33.00% | ~148 |
 | Ernesto da Silva | 33.00% | ~148 |
@@ -38,21 +38,21 @@ Rating: 4.35 (Ranked 800)
 | The Family | 28.00% | ~125 |
 | Well-travelled | 27.00% | ~121 |
 | Thinking of Everything | 27.00% | ~121 |
-| Exquisite Artwork | 26.00% | ~116 |
 | Archibald Sterling | 26.00% | ~116 |
 | Viscount Edwin Van den Bosch | 26.00% | ~116 |
+| Exquisite Artwork | 25.00% | ~112 |
 | Well-prepared | 21.00% | ~94 |
 | The Truth | 21.00% | ~94 |
 | I Like an Audience | 19.00% | ~85 |
-| Sunken Secrets | 18.00% | ~80 |
-| What Else Did I Miss? | 18.00% | ~80 |
+| Sunken Secrets | 18.00% | ~81 |
+| What Else Did I Miss? | 18.00% | ~81 |
 | The Denouement | 17.00% | ~76 |
 | Probably the Greatest Detective in the World | 13.00% | ~58 |
 | Take a Break | 11.00% | ~49 |
 | Room with a View | 7.00% | ~31 |
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 447 (Ranked 326)  
+Progressed: 448 (Ranked 326)  
 Completed: 6 (1.34%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,6 +134,7 @@ Completed: 6 (1.34%) (Ranked 149)
 | 2023-11-04 | 445 | 6 |
 | 2023-11-19 | 446 | 6 |
 | 2023-11-29 | 447 | 6 |
+| 2023-12-13 | 448 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

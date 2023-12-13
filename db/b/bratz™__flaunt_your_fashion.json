@@ -2,10 +2,10 @@
   "ID": "2d6693ed985e4774a19d77291f8593db",
   "Name": "Bratz\u2122: Flaunt Your Fashion",
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
-  "Ranking_EOS_Progress": 463,
+  "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 85,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -311,6 +311,11 @@
       "Time": "2023-12-13T04:05:14.289743+00:00",
       "NumProgressed": 84,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T18:05:49.2880759+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -320,7 +325,7 @@
       "ID": "1",
       "SetID": "41h3j82",
       "Name": "Welcome to Stilesville",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 50,
       "UsersEstimate": 79
     },
@@ -432,7 +437,7 @@
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 70,
       "UsersEstimate": 30
     },
@@ -448,7 +453,7 @@
       "ID": "7",
       "SetID": "41h3j82",
       "Name": "Roller Race",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -464,7 +469,7 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 70,
       "UsersEstimate": 45
     }
@@ -473,7 +478,7 @@
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 0
     }
   ],
@@ -481,8 +486,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-13T17:05:09.7214489+00:00",
+  "LastChanged_Achievements": "2023-12-13T18:05:49.2880756+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:26.8638955+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:58:29.2116973+00:00",
-  "LastUpdate_Achievements": "2023-12-13T17:05:09.7214946+00:00"
+  "LastUpdate_Ratings": "2023-12-13T17:58:52.5241858+00:00",
+  "LastUpdate_Achievements": "2023-12-13T18:05:49.2880913+00:00"
 }

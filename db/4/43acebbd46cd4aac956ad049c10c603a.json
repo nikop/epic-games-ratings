@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -218,7 +218,7 @@
   ],
   "EOS_Progressed": 948,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2819,9 +2819,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 209
     },
     {
       "ID": "TouchGrass",
@@ -2892,8 +2892,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-13T17:05:51.7810351+00:00",
+  "LastChanged_Achievements": "2023-12-13T18:06:47.4529838+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:59:47.7487205+00:00",
-  "LastUpdate_Achievements": "2023-12-13T17:05:51.7810914+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:00:47.8268943+00:00",
+  "LastUpdate_Achievements": "2023-12-13T18:06:47.4530295+00:00"
 }

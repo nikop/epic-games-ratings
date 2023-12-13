@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,504 |
-| Off to a good start | 66.00% | ~1,115 |
+| New Recruit | 89.00% | ~1,505 |
+| Off to a good start | 66.00% | ~1,116 |
 | Do... or do not. There is no try | 51.00% | ~862 |
 | A good blaster at your side | 30.00% | ~507 |
 | I suggest a new strategy | 19.00% | ~321 |
@@ -25,9 +25,9 @@
 | Impressive. Most impressive. | 6.00% | ~101 |
 | Judge me by my size, do you? | 6.00% | ~101 |
 | Support the troops | 6.00% | ~101 |
-| "Gonk? Gonk!" | 5.00% | ~84 |
-| Distinguished | 5.00% | ~84 |
-| A tremor in the Force | 5.00% | ~84 |
+| "Gonk? Gonk!" | 5.00% | ~85 |
+| Distinguished | 5.00% | ~85 |
+| A tremor in the Force | 5.00% | ~85 |
 | Safety ain't the point of a joyride | 4.00% | ~68 |
 | Not bad for a little furball | 4.00% | ~68 |
 | Patience you must have | 4.00% | ~68 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,690 (Ranked 239)  
+Progressed: 1,691 (Ranked 239)  
 Completed: 1 (0.06%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 1 (0.06%) (Ranked 315)
 | 2023-12-10 | 1,659 | 1 |
 | 2023-12-11 | 1,674 | 1 |
 | 2023-12-12 | 1,684 | 1 |
-| 2023-12-13 | 1,690 | 1 |
+| 2023-12-13 | 1,691 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

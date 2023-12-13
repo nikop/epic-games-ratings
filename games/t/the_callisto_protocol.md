@@ -5,8 +5,8 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 10.00% | ~1,652 |
-| Paper Jams | 9.00% | ~1,487 |
+| Get a Grip | 10.00% | ~1,653 |
+| Paper Jams | 9.00% | ~1,488 |
 | Flesh Wound | 8.00% | ~1,322 |
 | Float Like A Butterfly | 8.00% | ~1,322 |
 | Chew 'Em Up | 7.00% | ~1,157 |
@@ -30,7 +30,7 @@ Rating: 4.19 (Ranked 939)
 | Giving Back | 4.00% | ~661 |
 | The Commonality | 3.00% | ~496 |
 | One Last Job | 3.00% | ~134 |
-| In Striking Distance | 2.00% | ~330 |
+| In Striking Distance | 2.00% | ~331 |
 | Big Spender | 1.00% | ~45 |
 | This Isn't About Escape | 1.00% | ~45 |
 | Armed to the Teeth | 0.90% | ~40 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,525 (Ranked 150)  
+Progressed: 16,530 (Ranked 150)  
 Completed: 81 (0.49%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,6 +282,7 @@ Completed: 81 (0.49%) (Ranked 213)
 | 2023-12-09 | 16,521 | 81 |
 | 2023-12-10 | 16,523 | 81 |
 | 2023-12-11 | 16,525 | 81 |
+| 2023-12-13 | 16,530 | 81 |
 ## Awards
 Max (Quickly Understood Controls): 85  (Ranked 388)  
 Sum: 505 (Ranked 326)  

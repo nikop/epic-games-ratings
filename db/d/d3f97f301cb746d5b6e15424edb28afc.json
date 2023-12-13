@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3449,9 +3449,9 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 932
+      "UsersEstimate": 944
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
@@ -3513,9 +3513,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 932
+      "UsersEstimate": 944
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -3569,9 +3569,9 @@
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 3",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 484
     },
     {
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
@@ -3818,8 +3818,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-13T17:03:57.7059888+00:00",
+  "LastChanged_Achievements": "2023-12-13T18:04:07.2975891+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:00:31.656451+00:00",
-  "LastUpdate_Achievements": "2023-12-13T17:03:57.7060726+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:01:54.4893111+00:00",
+  "LastUpdate_Achievements": "2023-12-13T18:04:07.2976833+00:00"
 }

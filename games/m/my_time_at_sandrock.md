@@ -9,8 +9,8 @@ Number of Ratings: 892  (23.09.2022)
 | Adept Assembler | 235.00% | ~1,271 |
 | Iron Chef | 169.00% | ~914 |
 | Super Spelunker | 137.00% | ~741 |
-| Greeno-B-Gone | 130.00% | ~703 |
-| The Little Wood that Could | 119.00% | ~644 |
+| Greeno-B-Gone | 131.00% | ~709 |
+| The Little Wood that Could | 120.00% | ~649 |
 | Your Especially Earned Trajectory | 108.00% | ~584 |
 | No Mountain Wide Enough | 87.00% | ~471 |
 | One of the Cool Kids | 87.00% | ~471 |
@@ -50,7 +50,7 @@ Number of Ratings: 892  (23.09.2022)
 | Who Ya Gonna Call...? | 47.00% | ~254 |
 | Jewel of the Eufaula | 46.00% | ~249 |
 | Kind of a Big Deal | 45.00% | ~243 |
-| My Time Mansion | 43.00% | ~233 |
+| My Time Mansion | 44.00% | ~238 |
 | Just What I Always Wanted! | 43.00% | ~233 |
 | Sandrunning Speedster | 40.00% | ~216 |
 | He Can Spin A Yarn... | 38.00% | ~206 |

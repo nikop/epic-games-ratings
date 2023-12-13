@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1657,10 +1657,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162372,
-  "EOS_Completed": 304,
-  "EOS_NewPlayers": 913,
-  "EOS_NewCompleters": 90,
+  "EOS_Progressed": 162378,
+  "EOS_Completed": 305,
+  "EOS_NewPlayers": 910,
+  "EOS_NewCompleters": 91,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
@@ -19072,6 +19072,11 @@
       "Time": "2023-12-13T17:06:28.4089727+00:00",
       "NumProgressed": 162372,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2023-12-13T18:07:39.3567665+00:00",
+      "NumProgressed": 162378,
+      "NumCompleted": 305
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19130,9 +19135,9 @@
       "ID": "ACQUIRE_HUNTPOINT",
       "SetID": "ccc0dlh",
       "Name": "The Hunt",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1299
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -19202,9 +19207,9 @@
       "ID": "DEFEAT_FLOWERVULTURE",
       "SetID": "72k7oh",
       "Name": "Host",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 324
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -19284,7 +19289,7 @@
       "Name": "Devourer",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -19451,21 +19456,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 161955,
+      "Progressed": 161961,
       "Completed": 1236
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162372,
-      "Completed": 304
+      "Progressed": 162378,
+      "Completed": 305
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-12T15:59:50.786914+00:00",
-  "LastChanged_Achievements": "2023-12-13T17:06:28.4089724+00:00",
+  "LastChanged_Achievements": "2023-12-13T18:07:39.3567662+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:59:37.3850414+00:00",
-  "LastUpdate_Achievements": "2023-12-13T17:06:28.40909+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:00:32.4840929+00:00",
+  "LastUpdate_Achievements": "2023-12-13T18:07:39.3568706+00:00"
 }

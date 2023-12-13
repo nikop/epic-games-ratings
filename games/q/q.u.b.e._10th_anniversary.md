@@ -5,32 +5,32 @@ Rating: 4.42 (Ranked 718)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 27.00% | ~6,714 |
-| Sector 2 | 24.00% | ~5,968 |
-| Crush That Cube! | 20.00% | ~4,973 |
-| Sector 3 | 20.00% | ~4,973 |
-| Sector 4 | 17.00% | ~4,227 |
-| Crush That Ball! | 16.00% | ~3,979 |
-| Sector 5 | 11.00% | ~2,735 |
-| Sector 6 | 9.00% | ~2,238 |
+| Sector 1 | 27.00% | ~6,717 |
+| Sector 2 | 24.00% | ~5,970 |
+| Crush That Cube! | 20.00% | ~4,975 |
+| Sector 3 | 20.00% | ~4,975 |
+| Sector 4 | 17.00% | ~4,229 |
+| Crush That Ball! | 16.00% | ~3,980 |
+| Sector 5 | 11.00% | ~2,736 |
+| Sector 6 | 9.00% | ~2,239 |
 | Feeling the Blues | 7.00% | ~1,741 |
 | Squished | 7.00% | ~1,741 |
 | Sector 7 | 7.00% | ~1,741 |
-| Finale | 6.00% | ~1,492 |
-| Did That Work? -- No! | 6.00% | ~1,492 |
+| Finale | 6.00% | ~1,493 |
+| Did That Work? -- No! | 6.00% | ~1,493 |
 | Master Room | 4.00% | ~995 |
-| Bronze Trophy | 2.00% | ~497 |
-| Gold Trophy | 2.00% | ~497 |
-| Hopefully that's all of them! | 2.00% | ~497 |
-| Phew! | 2.00% | ~497 |
-| The Puzzle Master | 2.00% | ~497 |
-| Silver Trophy | 2.00% | ~497 |
-| Completed It. | 2.00% | ~497 |
+| Bronze Trophy | 2.00% | ~498 |
+| Gold Trophy | 2.00% | ~498 |
+| Hopefully that's all of them! | 2.00% | ~498 |
+| Phew! | 2.00% | ~498 |
+| The Puzzle Master | 2.00% | ~498 |
+| Silver Trophy | 2.00% | ~498 |
+| Completed It. | 2.00% | ~498 |
 | The Collector | 1.00% | ~249 |
 | Master Of The Collectables | 1.00% | ~249 |
 | Maxed Out | 1.00% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,867 (Ranked 136)  
+Progressed: 24,876 (Ranked 136)  
 Completed: 155 (0.62%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 155 (0.62%) (Ranked 194)
 | 2023-12-10 | 24,541 | 147 |
 | 2023-12-11 | 24,662 | 151 |
 | 2023-12-12 | 24,785 | 154 |
-| 2023-12-13 | 24,867 | 155 |
+| 2023-12-13 | 24,876 | 155 |
 ## Awards
 Max (Challenging Puzzles): 22  (Ranked 543)  
 Sum: 22 (Ranked 545)  
