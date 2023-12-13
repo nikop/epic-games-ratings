@@ -5,7 +5,7 @@
   "Ranking_Rating": 982,
   "Ranking_Popularity": 562,
   "Ranking_PopularitySum": 562,
-  "Ranking_EOS_Progress": 105,
+  "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 37,
   "Ranking_EOS_NewCompleters": 11,
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66413,
+  "EOS_Progressed": 66419,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 2578,
+  "EOS_NewPlayers": 2570,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3371,6 +3371,11 @@
       "Time": "2023-12-13T07:04:03.8044835+00:00",
       "NumProgressed": 66413,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-12-13T08:04:44.6103853+00:00",
+      "NumProgressed": 66419,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -3383,7 +3388,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24573
+      "UsersEstimate": 24575
     },
     {
       "ID": "Achievement_10",
@@ -3415,7 +3420,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "Achievement_14",
@@ -3471,7 +3476,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17932
+      "UsersEstimate": 17933
     },
     {
       "ID": "Achievement_20",
@@ -3503,7 +3508,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "Achievement_24",
@@ -3607,7 +3612,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5313
+      "UsersEstimate": 5314
     },
     {
       "ID": "Achievement_5",
@@ -3631,7 +3636,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "Achievement_8",
@@ -3654,7 +3659,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 66413,
+      "Progressed": 66419,
       "Completed": 76
     }
   ],
@@ -3662,8 +3667,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-13T02:27:02.0751001+00:00",
-  "LastChanged_Achievements": "2023-12-13T07:04:03.804483+00:00",
+  "LastChanged_Achievements": "2023-12-13T08:04:44.6103844+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-13T07:02:57.4661104+00:00",
-  "LastUpdate_Achievements": "2023-12-13T07:04:03.8045267+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:03:07.4993177+00:00",
+  "LastUpdate_Achievements": "2023-12-13T08:04:44.6104222+00:00"
 }

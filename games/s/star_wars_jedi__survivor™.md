@@ -5,31 +5,31 @@ Rating: 4.50 (Ranked 599)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,575 |
-| For Saw Gerrera | 98.00% | ~9,479 |
-| Grab Some Seat | 92.00% | ~8,898 |
-| Can You Pet the Bogling? | 87.00% | ~8,415 |
-| The Past Made Present | 84.00% | ~8,124 |
+| Rooftop Duel | 99.00% | ~9,576 |
+| For Saw Gerrera | 98.00% | ~9,480 |
+| Grab Some Seat | 92.00% | ~8,899 |
+| Can You Pet the Bogling? | 87.00% | ~8,416 |
+| The Past Made Present | 84.00% | ~8,125 |
 | Survivors, We Adapt | 80.00% | ~7,738 |
-| They Never Saw It Coming | 78.00% | ~7,544 |
-| Among the Masters | 78.00% | ~7,544 |
-| Who Gives a Puck | 74.00% | ~7,157 |
-| For the Path | 67.00% | ~6,480 |
+| They Never Saw It Coming | 78.00% | ~7,545 |
+| Among the Masters | 78.00% | ~7,545 |
+| Who Gives a Puck | 74.00% | ~7,158 |
+| For the Path | 67.00% | ~6,481 |
 | Now, This Isn't Podracing | 66.00% | ~6,384 |
 | Mirror Match | 65.00% | ~6,287 |
-| Skywalker | 63.00% | ~6,093 |
-| Out of Bedlam | 63.00% | ~6,093 |
+| Skywalker | 63.00% | ~6,094 |
+| Out of Bedlam | 63.00% | ~6,094 |
 | Cleaning Up | 55.00% | ~5,320 |
 | Tanalorr Bound | 55.00% | ~5,320 |
-| Tragedy | 53.00% | ~5,126 |
-| Kitted Out | 53.00% | ~5,126 |
+| Tragedy | 53.00% | ~5,127 |
+| Kitted Out | 53.00% | ~5,127 |
 | At the Precipice | 51.00% | ~4,933 |
 | Into the Abyss | 50.00% | ~4,836 |
 | Hey, Luke At Us | 50.00% | ~4,836 |
 | A Place You Could Call Home | 47.00% | ~4,546 |
 | Riposte | 47.00% | ~4,546 |
-| Greezy Money | 45.00% | ~4,352 |
-| Catch! | 42.00% | ~4,062 |
+| Greezy Money | 45.00% | ~4,353 |
+| Catch! | 42.00% | ~4,063 |
 | They're Probably Fine | 40.00% | ~3,869 |
 | Han Slowlo | 39.00% | ~3,772 |
 | There Is No Try | 39.00% | ~3,772 |
@@ -45,7 +45,7 @@ Rating: 4.50 (Ranked 599)
 | Star Tours | 11.00% | ~1,064 |
 | Caij Match | 10.00% | ~967 |
 | Gambler | 10.00% | ~967 |
-| Growth Spurt | 9.00% | ~870 |
+| Growth Spurt | 9.00% | ~871 |
 | I'm a Living Legend | 7.00% | ~677 |
 | Perk of the Job | 7.00% | ~677 |
 | Skoova Diving | 7.00% | ~677 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 599)
 | Splurgle | 3.00% | ~290 |
 | Pinpoint | 2.00% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,672 (Ranked 169)  
+Progressed: 9,673 (Ranked 169)  
 Completed: 58 (0.60%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 58 (0.60%) (Ranked 194)
 | 2023-12-10 | 9,581 | 57 |
 | 2023-12-11 | 9,626 | 57 |
 | 2023-12-12 | 9,659 | 57 |
-| 2023-12-13 | 9,672 | 58 |
+| 2023-12-13 | 9,673 | 58 |
 ## Awards
 Max (Great Boss Battles): 3,455  (Ranked 92)  
 Sum: 5,402 (Ranked 136)  

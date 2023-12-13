@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 5,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -13706,9 +13706,9 @@
       "Count": 27960
     }
   ],
-  "EOS_Progressed": 1091279,
+  "EOS_Progressed": 1091332,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 17839,
+  "EOS_NewPlayers": 17816,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40961,6 +40961,11 @@
       "Time": "2023-12-13T07:09:46.9302163+00:00",
       "NumProgressed": 1091279,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-12-13T08:10:42.8812772+00:00",
+      "NumProgressed": 1091332,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 232,
@@ -41052,7 +41057,7 @@
       "Name": "Made it out alive!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_012",
@@ -41116,7 +41121,7 @@
       "Name": "Nerves of steel",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_020",
@@ -41140,7 +41145,7 @@
       "Name": "Zealous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21826
+      "UsersEstimate": 21827
     },
     {
       "ID": "ACH_023",
@@ -41148,7 +41153,7 @@
       "Name": "It wakes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 32738
+      "UsersEstimate": 32740
     },
     {
       "ID": "ACH_024",
@@ -41156,7 +41161,7 @@
       "Name": "Not half bad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21826
+      "UsersEstimate": 21827
     },
     {
       "ID": "ACH_025",
@@ -41180,7 +41185,7 @@
       "Name": "Apt Survivor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21826
+      "UsersEstimate": 21827
     },
     {
       "ID": "ACH_028",
@@ -41204,7 +41209,7 @@
       "Name": "Survival Treasures",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21826
+      "UsersEstimate": 21827
     },
     {
       "ID": "ACH_031",
@@ -41276,7 +41281,7 @@
       "Name": "Skillful",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21826
+      "UsersEstimate": 21827
     },
     {
       "ID": "ACH_040",
@@ -41284,7 +41289,7 @@
       "Name": "I",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21826
+      "UsersEstimate": 21827
     },
     {
       "ID": "ACH_041",
@@ -41300,7 +41305,7 @@
       "Name": "III",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 8730
+      "UsersEstimate": 8731
     },
     {
       "ID": "ACH_043",
@@ -41348,7 +41353,7 @@
       "Name": "Shock Therapy",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_049",
@@ -41388,7 +41393,7 @@
       "Name": "All Aboard",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_054",
@@ -41484,7 +41489,7 @@
       "Name": "Item of Obsession",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_066",
@@ -41492,7 +41497,7 @@
       "Name": "House of Pain",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_067",
@@ -41628,7 +41633,7 @@
       "Name": "Holiday Get-Together",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_084",
@@ -41676,7 +41681,7 @@
       "Name": "Near-Death Experience",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_090",
@@ -41772,7 +41777,7 @@
       "Name": "Ancestor\u0027s Rite",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_102",
@@ -41892,7 +41897,7 @@
       "Name": "Cutting Out",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_117",
@@ -41900,7 +41905,7 @@
       "Name": "Outrun Evil",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_118",
@@ -42130,9 +42135,9 @@
       "ID": "ACH_149",
       "SetID": "16jml5b",
       "Name": "Classy Act",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5456
+      "UsersEstimate": 6548
     },
     {
       "ID": "ACH_150",
@@ -42716,7 +42721,7 @@
       "Name": "One More Step",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_223",
@@ -42740,7 +42745,7 @@
       "Name": "Make Some Noise",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 21826
+      "UsersEstimate": 21827
     },
     {
       "ID": "ACH_226",
@@ -42780,7 +42785,7 @@
       "Name": "MU/TH/UR Dearest",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_231",
@@ -42827,21 +42832,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1091279,
+      "Progressed": 1091332,
       "Completed": 71
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1091279,
+      "Progressed": 1091332,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-13T04:58:51.1496567+00:00",
-  "LastChanged_Achievements": "2023-12-13T07:09:46.930216+00:00",
+  "LastChanged_Achievements": "2023-12-13T08:10:42.8812769+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:04.6915989+00:00",
-  "LastUpdate_Ratings": "2023-12-13T06:58:58.0810393+00:00",
-  "LastUpdate_Achievements": "2023-12-13T07:09:46.9308287+00:00"
+  "LastUpdate_Ratings": "2023-12-13T07:59:45.5072865+00:00",
+  "LastUpdate_Achievements": "2023-12-13T08:10:42.881823+00:00"
 }

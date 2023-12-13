@@ -4,8 +4,8 @@
   "ProductSlug": "sea-horizon-729355",
   "Ranking_EOS_Progress": 675,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-05T02:00:00+00:00",
     "PcReleaseDate": "2022-10-19T16:00:00+00:00",
@@ -197,8 +197,8 @@
   ],
   "FirstSeen": "2023-12-06T11:00:07.1470992+00:00",
   "FirstSeenAchievements": "2023-08-27T17:02:13.4628733+00:00",
-  "LastChanged_Achievements": "2023-12-13T07:09:07.287612+00:00",
+  "LastChanged_Achievements": "2023-12-13T08:09:55.2306159+00:00",
   "LastUpdate_AppInfo": "2023-12-11T01:45:33.6720365+00:00",
-  "LastUpdate_Ratings": "2023-12-13T06:59:03.0788896+00:00",
-  "LastUpdate_Achievements": "2023-12-13T07:09:07.2876209+00:00"
+  "LastUpdate_Ratings": "2023-12-13T07:59:52.9350219+00:00",
+  "LastUpdate_Achievements": "2023-12-13T08:09:55.2306268+00:00"
 }

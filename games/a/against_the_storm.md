@@ -32,13 +32,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 0.70% | ~126 |
 | Ruined Armory | 0.60% | ~108 |
 | Barren Lands | 0.60% | ~108 |
+| Statue of the Forefathers | 0.60% | ~108 |
 | Corrosive Torrent | 0.60% | ~108 |
 | Cursed Lands | 0.60% | ~108 |
 | Trade Baron | 0.60% | ~108 |
 | Ancient Battleground | 0.50% | ~90 |
 | Sparkdew Crystals | 0.50% | ~90 |
 | Flooded Mines | 0.50% | ~90 |
-| Statue of the Forefathers | 0.50% | ~90 |
 | Against All Odds | 0.40% | ~72 |
 | Haunted Forest | 0.40% | ~72 |
 | Defying the Crown | 0.40% | ~72 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,008 (Ranked 147)  
+Progressed: 18,009 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 40 (0.22%) (Ranked 256)
 | 2023-12-10 | 17,908 | 43 |
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
-| 2023-12-13 | 18,008 | 40 |
+| 2023-12-13 | 18,009 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 224)  
 Sum: 3,255 (Ranked 174)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -475,9 +475,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 43585,
+  "EOS_Progressed": 43586,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14910,6 +14910,11 @@
       "Time": "2023-12-13T07:08:19.2358821+00:00",
       "NumProgressed": 43585,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-13T08:08:37.852497+00:00",
+      "NumProgressed": 43586,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -14969,7 +14974,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15344,22 +15349,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43585,
+      "Progressed": 43586,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8422,
-      "Completed": 8422
+      "Progressed": 8423,
+      "Completed": 8423
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-12T05:01:14.3926085+00:00",
-  "LastChanged_Achievements": "2023-12-13T07:08:19.2358817+00:00",
+  "LastChanged_Achievements": "2023-12-13T08:08:37.8524967+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:12.2339808+00:00",
-  "LastUpdate_Ratings": "2023-12-13T07:00:28.2285284+00:00",
-  "LastUpdate_Achievements": "2023-12-13T07:08:19.2360593+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:01:54.4903519+00:00",
+  "LastUpdate_Achievements": "2023-12-13T08:08:37.8525995+00:00"
 }

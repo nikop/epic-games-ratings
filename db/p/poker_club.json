@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -1009,9 +1009,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 542887,
+  "EOS_Progressed": 542889,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1268,
+  "EOS_NewPlayers": 1266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27914,6 +27914,11 @@
       "Time": "2023-12-13T07:08:36.0745644+00:00",
       "NumProgressed": 542887,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T08:09:01.6024369+00:00",
+      "NumProgressed": 542889,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -27925,7 +27930,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 146579
+      "UsersEstimate": 146580
     },
     {
       "ID": "Backdoor",
@@ -27989,7 +27994,7 @@
       "Name": "Check Yourself",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21715
+      "UsersEstimate": 21716
     },
     {
       "ID": "ChokeADozenDonkeys",
@@ -28021,7 +28026,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 217155
+      "UsersEstimate": 217156
     },
     {
       "ID": "DeadlyAssassin",
@@ -28117,7 +28122,7 @@
       "Name": "Moneymaker",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21715
+      "UsersEstimate": 21716
     },
     {
       "ID": "NeverGiveUp",
@@ -28173,7 +28178,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 412594
+      "UsersEstimate": 412596
     },
     {
       "ID": "ProPlayer",
@@ -28197,7 +28202,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 119435
+      "UsersEstimate": 119436
     },
     {
       "ID": "RegularPunter",
@@ -28237,7 +28242,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70575
+      "UsersEstimate": 70576
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -28277,14 +28282,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 65146
+      "UsersEstimate": 65147
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 542887,
+      "Progressed": 542889,
       "Completed": 2
     }
   ],
@@ -28292,8 +28297,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-12-08T22:58:15.3697268+00:00",
-  "LastChanged_Achievements": "2023-12-13T07:08:36.0745641+00:00",
+  "LastChanged_Achievements": "2023-12-13T08:09:01.6024365+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:41.1804314+00:00",
-  "LastUpdate_Ratings": "2023-12-13T07:00:13.4724628+00:00",
-  "LastUpdate_Achievements": "2023-12-13T07:08:36.0746827+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:01:33.6621868+00:00",
+  "LastUpdate_Achievements": "2023-12-13T08:09:01.6025548+00:00"
 }

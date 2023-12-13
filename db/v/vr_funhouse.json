@@ -4,8 +4,8 @@
   "ProductSlug": "vr-funhouse",
   "Ranking_EOS_Progress": 793,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-09T21:57:17.0949228+00:00",
-  "LastUpdate_Ratings": "2023-12-13T06:59:19.019214+00:00",
-  "LastUpdate_Achievements": "2023-12-13T07:08:58.9171902+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:00:17.0699073+00:00",
+  "LastUpdate_Achievements": "2023-12-13T08:09:43.2056872+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "gravity-oddity-a66e76",
   "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
     "PcReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -330,8 +330,8 @@
   ],
   "FirstSeen": "2023-09-14T17:57:45.1242056+00:00",
   "FirstSeenAchievements": "2023-08-29T18:02:15.6403686+00:00",
-  "LastChanged_Achievements": "2023-12-13T07:06:38.0391141+00:00",
+  "LastChanged_Achievements": "2023-12-13T08:08:23.6262507+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:44.4246984+00:00",
-  "LastUpdate_Ratings": "2023-12-13T07:00:03.8141296+00:00",
-  "LastUpdate_Achievements": "2023-12-13T07:06:38.0391336+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:01:20.7483374+00:00",
+  "LastUpdate_Achievements": "2023-12-13T08:08:23.6262705+00:00"
 }

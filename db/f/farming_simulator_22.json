@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 34,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -12354,9 +12354,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 55540,
+  "EOS_Progressed": 55541,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 646,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -34274,6 +34274,11 @@
       "Time": "2023-12-13T07:06:32.8889537+00:00",
       "NumProgressed": 55540,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-13T08:08:16.397692+00:00",
+      "NumProgressed": 55541,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -34373,7 +34378,7 @@
       "Name": "You wood not believe it",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11663
+      "UsersEstimate": 11664
     },
     {
       "ID": "CutTreeFirst",
@@ -34493,7 +34498,7 @@
       "Name": "Hard work pays off",
       "Percentage": 51,
       "XP": 55,
-      "UsersEstimate": 28325
+      "UsersEstimate": 28326
     },
     {
       "ID": "NumBeehives",
@@ -34517,7 +34522,7 @@
       "Name": "All out of Land",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 23882
+      "UsersEstimate": 23883
     },
     {
       "ID": "NumProductionPoints",
@@ -34525,7 +34530,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8886
+      "UsersEstimate": 8887
     },
     {
       "ID": "NumVehiclesLarge",
@@ -34541,7 +34546,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 31102
+      "UsersEstimate": 31103
     },
     {
       "ID": "PetDog",
@@ -34565,7 +34570,7 @@
       "Name": "It\u0027s sow easy",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 6109
+      "UsersEstimate": 6110
     },
     {
       "ID": "SowFirst",
@@ -34573,7 +34578,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 33879
+      "UsersEstimate": 33880
     },
     {
       "ID": "Stones",
@@ -34581,7 +34586,7 @@
       "Name": "Rock on",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6109
+      "UsersEstimate": 6110
     },
     {
       "ID": "TractorDriving",
@@ -34628,15 +34633,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 55540,
+      "Progressed": 55541,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-12-12T19:58:10.4290075+00:00",
-  "LastChanged_Achievements": "2023-12-13T07:06:32.8889533+00:00",
+  "LastChanged_Achievements": "2023-12-13T08:08:16.3976915+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:21.0443716+00:00",
-  "LastUpdate_Ratings": "2023-12-13T06:58:35.7424133+00:00",
-  "LastUpdate_Achievements": "2023-12-13T07:06:32.8890582+00:00"
+  "LastUpdate_Ratings": "2023-12-13T07:59:12.7656608+00:00",
+  "LastUpdate_Achievements": "2023-12-13T08:08:16.397813+00:00"
 }

@@ -7,8 +7,8 @@ Rating: 4.54 (Ranked 535)
 | ---- | ---------- | ----- |
 | Hotel California | 3.00% | ~22,018 |
 | Welcome To Hell-A | 3.00% | ~22,018 |
-| Whatever It Takes | 3.00% | ~1,784 |
-| Pork Chopped | 3.00% | ~1,784 |
+| Whatever It Takes | 3.00% | ~1,785 |
+| Pork Chopped | 3.00% | ~1,785 |
 | Dr. Reed, I Presume? | 2.00% | ~14,679 |
 | Git Gutte! | 2.00% | ~14,679 |
 | Anger Management | 2.00% | ~14,679 |
@@ -21,6 +21,7 @@ Rating: 4.54 (Ranked 535)
 | Hazardous Materials | 2.00% | ~14,679 |
 | Friends Like These | 2.00% | ~14,679 |
 | Apex Predator | 2.00% | ~14,679 |
+| Zombologist | 2.00% | ~14,679 |
 | A Patton Emerges | 2.00% | ~14,679 |
 | Stacking the Deck | 2.00% | ~14,679 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,679 |
@@ -30,7 +31,6 @@ Rating: 4.54 (Ranked 535)
 | Perks of the Job | 1.00% | ~7,339 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,339 |
 | Slayer Squad | 1.00% | ~7,339 |
-| Zombologist | 1.00% | ~7,339 |
 | Ooh, Shiny! | 1.00% | ~7,339 |
 | Humanity Distilled | 1.00% | ~7,339 |
 | I Am the Resurrection | 1.00% | ~7,339 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 535)
 | Jumbo Keyring | 0.90% | ~6,605 |
 | Go, Bobcats! | 0.90% | ~6,605 |
 | Rising Star | 0.90% | ~6,605 |
-| Not Even My Final Form | 0.80% | ~5,871 |
+| Not Even My Final Form | 0.80% | ~5,872 |
 | Smorgasbord | 0.70% | ~5,138 |
 | Internet Famous | 0.70% | ~5,138 |
 | Make it So | 0.60% | ~4,404 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 535)
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,936 (Ranked 21)  
+Progressed: 733,942 (Ranked 21)  
 Completed: 2,480 (0.34%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 2,480 (0.34%) (Ranked 236)
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
 | 2023-12-12 | 733,868 | 2,480 |
-| 2023-12-13 | 733,936 | 2,480 |
+| 2023-12-13 | 733,942 | 2,480 |
 ## Awards
 Max (Great Boss Battles): 8,108  (Ranked 49)  
 Sum: 12,484 (Ranked 81)  

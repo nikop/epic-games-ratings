@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7254,
+  "EOS_Progressed": 7255,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -6975,6 +6975,11 @@
       "Time": "2023-12-13T01:56:24.6337358+00:00",
       "NumProgressed": 7254,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-13T08:03:37.1467464+00:00",
+      "NumProgressed": 7255,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -6987,7 +6992,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "achievement_01_02",
@@ -7003,7 +7008,7 @@
       "Name": "Brand New Ride",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4715
+      "UsersEstimate": 4716
     },
     {
       "ID": "achievement_01_04",
@@ -7011,7 +7016,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5368
+      "UsersEstimate": 5369
     },
     {
       "ID": "achievement_01_05",
@@ -7019,7 +7024,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "achievement_01_06",
@@ -7027,7 +7032,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "achievement_01_07",
@@ -7043,7 +7048,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 5440
+      "UsersEstimate": 5441
     },
     {
       "ID": "achievement_01_09",
@@ -7075,7 +7080,7 @@
       "Name": "Amateur Champion",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "achievement_02_03",
@@ -7097,9 +7102,9 @@
       "ID": "achievement_02_05",
       "SetID": "4f1m94d",
       "Name": "Fully Upgraded",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2031
+      "UsersEstimate": 1959
     },
     {
       "ID": "achievement_02_06",
@@ -7115,7 +7120,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "achievement_02_08",
@@ -7179,7 +7184,7 @@
       "Name": "Golden Amateur Champion",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "achievement_03_08",
@@ -7251,7 +7256,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2466
+      "UsersEstimate": 2467
     },
     {
       "ID": "achievement_04_06",
@@ -7275,7 +7280,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6238
+      "UsersEstimate": 6239
     },
     {
       "ID": "achievement_04_09",
@@ -7290,7 +7295,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7254,
+      "Progressed": 7255,
       "Completed": 43
     }
   ],
@@ -7298,8 +7303,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-12-10T14:58:54.1455517+00:00",
-  "LastChanged_Achievements": "2023-12-13T07:03:16.3360958+00:00",
+  "LastChanged_Achievements": "2023-12-13T08:03:37.1467458+00:00",
   "LastUpdate_AppInfo": "2023-12-07T22:57:02.7581961+00:00",
-  "LastUpdate_Ratings": "2023-12-13T07:00:12.6529585+00:00",
-  "LastUpdate_Achievements": "2023-12-13T07:03:16.3361712+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:01:32.5315902+00:00",
+  "LastUpdate_Achievements": "2023-12-13T08:03:37.1468128+00:00"
 }

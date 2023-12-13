@@ -6,14 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,738 |
-| Zealous | 2.00% | ~21,826 |
-| Not half bad | 2.00% | ~21,826 |
-| Apt Survivor | 2.00% | ~21,826 |
-| Survival Treasures | 2.00% | ~21,826 |
-| Skillful | 2.00% | ~21,826 |
-| I | 2.00% | ~21,826 |
-| Make Some Noise | 2.00% | ~21,826 |
+| It wakes | 3.00% | ~32,740 |
+| Zealous | 2.00% | ~21,827 |
+| Not half bad | 2.00% | ~21,827 |
+| Apt Survivor | 2.00% | ~21,827 |
+| Survival Treasures | 2.00% | ~21,827 |
+| Skillful | 2.00% | ~21,827 |
+| I | 2.00% | ~21,827 |
+| Make Some Noise | 2.00% | ~21,827 |
 | The Grand Sacrifice | 1.00% | ~10,913 |
 | Agonizing Escape | 1.00% | ~10,913 |
 | Backdoor Escape | 1.00% | ~10,913 |
@@ -35,7 +35,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Killer | 0.90% | ~9,822 |
 | II | 0.90% | ~9,822 |
 | Wounded Healer | 0.90% | ~9,822 |
-| III | 0.80% | ~8,730 |
+| III | 0.80% | ~8,731 |
 | Escape Artist | 0.70% | ~7,639 |
 | Vulture | 0.70% | ~7,639 |
 | First to the Punch | 0.70% | ~7,639 |
@@ -50,23 +50,23 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cherish your Life | 0.60% | ~6,548 |
 | Unforgettable Getaway | 0.60% | ~6,548 |
 | Old West Oasis | 0.60% | ~6,548 |
+| Classy Act | 0.60% | ~6,548 |
 | Raccoon City Recruit | 0.60% | ~6,548 |
 | Flight to Freedom | 0.60% | ~6,548 |
 | Chorus of Chaos | 0.60% | ~6,548 |
-| Made it out alive! | 0.50% | ~5,456 |
-| Nerves of steel | 0.50% | ~5,456 |
-| Shock Therapy | 0.50% | ~5,456 |
-| All Aboard | 0.50% | ~5,456 |
-| Item of Obsession | 0.50% | ~5,456 |
-| House of Pain | 0.50% | ~5,456 |
-| Holiday Get-Together | 0.50% | ~5,456 |
-| Near-Death Experience | 0.50% | ~5,456 |
-| Ancestor's Rite | 0.50% | ~5,456 |
-| Cutting Out | 0.50% | ~5,456 |
-| Outrun Evil | 0.50% | ~5,456 |
-| Classy Act | 0.50% | ~5,456 |
-| One More Step | 0.50% | ~5,456 |
-| MU/TH/UR Dearest | 0.50% | ~5,456 |
+| Made it out alive! | 0.50% | ~5,457 |
+| Nerves of steel | 0.50% | ~5,457 |
+| Shock Therapy | 0.50% | ~5,457 |
+| All Aboard | 0.50% | ~5,457 |
+| Item of Obsession | 0.50% | ~5,457 |
+| House of Pain | 0.50% | ~5,457 |
+| Holiday Get-Together | 0.50% | ~5,457 |
+| Near-Death Experience | 0.50% | ~5,457 |
+| Ancestor's Rite | 0.50% | ~5,457 |
+| Cutting Out | 0.50% | ~5,457 |
+| Outrun Evil | 0.50% | ~5,457 |
+| One More Step | 0.50% | ~5,457 |
+| MU/TH/UR Dearest | 0.50% | ~5,457 |
 | A bite for the Entity | 0.40% | ~4,365 |
 | Blood on your face | 0.40% | ~4,365 |
 | Leapfrog | 0.40% | ~4,365 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,091 |
 | Adept Good Guy | 0.10% | ~1,091 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,091,279 (Ranked 12)  
+Progressed: 1,091,332 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -476,7 +476,7 @@ Completed: 62 (0.01%) (Ranked 350)
 | 2023-12-10 | 1,086,485 | 62 |
 | 2023-12-11 | 1,088,746 | 62 |
 | 2023-12-12 | 1,090,736 | 62 |
-| 2023-12-13 | 1,091,279 | 62 |
+| 2023-12-13 | 1,091,332 | 62 |
 ## Awards
 Max (Diverse Characters): 37,782  (Ranked 15)  
 Sum: 286,155 (Ranked 12)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9630,9 +9630,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126533,
+  "EOS_Progressed": 126543,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 889,
+  "EOS_NewPlayers": 898,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34775,6 +34775,11 @@
       "Time": "2023-12-13T07:08:41.9291974+00:00",
       "NumProgressed": 126533,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T08:09:19.6336457+00:00",
+      "NumProgressed": 126543,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34784,17 +34789,17 @@
       "ID": "affinity_meltdown_first_time",
       "SetID": "64l4lke",
       "Name": "Don\u0027t Make Me Turn This Coach Around",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 759
     },
     {
       "ID": "affinity_resolute_first_time",
       "SetID": "64l4lke",
       "Name": "Serenity Now!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 886
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -34928,9 +34933,9 @@
       "ID": "combat_kill_cosmic",
       "SetID": "64l4lke",
       "Name": "Banishment",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 633
     },
     {
       "ID": "combat_kill_death",
@@ -35152,9 +35157,9 @@
       "ID": "hero_story_complete_any",
       "SetID": "64l4lke",
       "Name": "A Clear Conscience",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 506
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -35256,9 +35261,9 @@
       "ID": "run_victory_act03",
       "SetID": "64l4lke",
       "Name": "Eyes Up",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 380
     },
     {
       "ID": "run_victory_act04",
@@ -35392,9 +35397,9 @@
       "ID": "relationships_positive_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "Friends \u0027Til the End",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35417,21 +35422,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126533,
+      "Progressed": 126543,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1402,
+      "Progressed": 1412,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-13T04:59:07.2205481+00:00",
-  "LastChanged_Achievements": "2023-12-13T07:08:41.9291971+00:00",
+  "LastChanged_Achievements": "2023-12-13T08:09:19.6336452+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T06:59:13.8797771+00:00",
-  "LastUpdate_Achievements": "2023-12-13T07:08:41.9293423+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:00:09.285932+00:00",
+  "LastUpdate_Achievements": "2023-12-13T08:09:19.6337889+00:00"
 }

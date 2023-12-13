@@ -5,22 +5,22 @@ Rating: 4.51 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~172,897 |
-| FIRST BLOOD | 40.00% | ~153,686 |
-| KEVIN! | 30.00% | ~115,264 |
-| JACK OF ALL TRADES | 23.00% | ~88,369 |
-| CRIMINAL | 20.00% | ~76,843 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~42,264 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~34,579 |
-| HONORS STUDENT | 8.00% | ~30,737 |
-| BUTCHER | 6.00% | ~23,053 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,211 |
-| RAMBO | 5.00% | ~19,211 |
+| MASTER CHEF | 45.00% | ~172,904 |
+| FIRST BLOOD | 40.00% | ~153,692 |
+| KEVIN! | 30.00% | ~115,269 |
+| JACK OF ALL TRADES | 23.00% | ~88,373 |
+| CRIMINAL | 20.00% | ~76,846 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~42,265 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~34,581 |
+| HONORS STUDENT | 8.00% | ~30,738 |
+| BUTCHER | 6.00% | ~23,054 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,212 |
+| RAMBO | 5.00% | ~19,212 |
 | HELL'S KITCHEN | 4.00% | ~15,369 |
-| CELEBRITY | 3.00% | ~11,526 |
-| MARTYR | 3.00% | ~11,526 |
-| GRATITUDE | 2.00% | ~7,684 |
-| PATTY-KILLER | 2.00% | ~7,684 |
+| CELEBRITY | 3.00% | ~11,527 |
+| MARTYR | 3.00% | ~11,527 |
+| GRATITUDE | 2.00% | ~7,685 |
+| PATTY-KILLER | 2.00% | ~7,685 |
 | EXPERIMENTALIST | 1.00% | ~3,842 |
 | GOURMET | 1.00% | ~3,842 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,842 |
@@ -34,8 +34,8 @@ Rating: 4.51 (Ranked 576)
 | MISTER ALL THUMBS | 0.10% | ~384 |
 | TRAVELER | 0.10% | ~384 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 384,215 (Ranked 47)  
-Completed: 47 (0.01%) (Ranked 350)  
+Progressed: 384,231 (Ranked 47)  
+Completed: 48 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -198,7 +198,7 @@ Completed: 47 (0.01%) (Ranked 350)
 | 2023-12-10 | 383,301 | 46 |
 | 2023-12-11 | 383,691 | 47 |
 | 2023-12-12 | 384,102 | 47 |
-| 2023-12-13 | 384,215 | 47 |
+| 2023-12-13 | 384,231 | 48 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

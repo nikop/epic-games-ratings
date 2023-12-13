@@ -5,10 +5,10 @@
   "Ranking_Rating": 162,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 67,
-  "Ranking_EOS_Progress": 104,
+  "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -9708,7 +9708,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67724,
+  "EOS_Progressed": 67726,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 0,
@@ -34698,6 +34698,11 @@
       "Time": "2023-12-13T06:10:08.2076433+00:00",
       "NumProgressed": 67724,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T08:10:38.2703417+00:00",
+      "NumProgressed": 67726,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34797,7 +34802,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6772
+      "UsersEstimate": 6773
     },
     {
       "ID": "Entrepreneur",
@@ -34885,7 +34890,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6772
+      "UsersEstimate": 6773
     },
     {
       "ID": "Jack of All Trades",
@@ -34901,7 +34906,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12190
+      "UsersEstimate": 12191
     },
     {
       "ID": "Kingslayer",
@@ -34933,7 +34938,7 @@
       "Name": "Landlord",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 23026
+      "UsersEstimate": 23027
     },
     {
       "ID": "Lawbringer",
@@ -35045,7 +35050,7 @@
       "Name": "Supreme Emperor",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "Swordbearer",
@@ -35069,7 +35074,7 @@
       "Name": "This Is Our Land",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 9481
+      "UsersEstimate": 9482
     },
     {
       "ID": "This is Sparta",
@@ -35109,22 +35114,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6772
+      "UsersEstimate": 6773
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67724,
+      "Progressed": 67726,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-13T04:59:55.9910599+00:00",
-  "LastChanged_Achievements": "2023-12-13T07:09:43.2476059+00:00",
+  "LastChanged_Achievements": "2023-12-13T08:10:38.2703414+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.7190339+00:00",
-  "LastUpdate_Ratings": "2023-12-13T07:00:05.0783591+00:00",
-  "LastUpdate_Achievements": "2023-12-13T07:09:43.2477217+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:01:22.6825067+00:00",
+  "LastUpdate_Achievements": "2023-12-13T08:10:38.2704833+00:00"
 }
