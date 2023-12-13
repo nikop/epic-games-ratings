@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 382,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 708,
+  "EOS_Progressed": 709,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.47,
+  "EOS_Completed_Percentage": 8.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -441,6 +441,11 @@
       "Time": "2023-12-10T08:04:13.28636+00:00",
       "NumProgressed": 708,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-13T05:05:40.1820198+00:00",
+      "NumProgressed": 709,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -450,9 +455,9 @@
       "ID": "ACHIEVEMENT001",
       "SetID": "dejhjd5",
       "Name": "Plenty More to Go",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 617
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -460,7 +465,7 @@
       "Name": "Partners?",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -476,7 +481,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -484,7 +489,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -492,7 +497,7 @@
       "Name": "The Lords of the Snowpeak",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACHIEVEMENT007",
@@ -516,7 +521,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -532,7 +537,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -636,15 +641,15 @@
       "Name": "Amateur Adventurer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACHIEVEMENT025",
       "SetID": "dejhjd5",
       "Name": "Hopeful Hunter",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 475
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -668,7 +673,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -708,7 +713,7 @@
       "Name": "Rune Scholar",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -724,7 +729,7 @@
       "Name": "First Time Fishing",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -780,7 +785,7 @@
       "Name": "The Quarry...On Foot!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHIEVEMENT043",
@@ -788,7 +793,7 @@
       "Name": "The Snowpeak...On Foot!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHIEVEMENT044",
@@ -796,7 +801,7 @@
       "Name": "The Lava Ruins...On Foot!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHIEVEMENT045",
@@ -804,7 +809,7 @@
       "Name": "The Runebarrows...On Foot!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVEMENT046",
@@ -851,15 +856,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 708,
+      "Progressed": 709,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-13T04:06:49.0403127+00:00",
+  "LastChanged_Achievements": "2023-12-13T05:05:40.1820195+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:23.9280041+00:00",
-  "LastUpdate_Ratings": "2023-12-13T03:57:55.311645+00:00",
-  "LastUpdate_Achievements": "2023-12-13T04:06:49.0403429+00:00"
+  "LastUpdate_Ratings": "2023-12-13T04:57:47.7058279+00:00",
+  "LastUpdate_Achievements": "2023-12-13T05:05:40.1820569+00:00"
 }

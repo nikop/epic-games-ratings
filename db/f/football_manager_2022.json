@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -8768,9 +8768,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477571,
+  "EOS_Progressed": 477572,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32703,6 +32703,11 @@
       "Time": "2023-12-13T04:08:40.8142489+00:00",
       "NumProgressed": 477571,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-13T05:08:31.9427105+00:00",
+      "NumProgressed": 477572,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -32738,7 +32743,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 176701
+      "UsersEstimate": 176702
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -32770,7 +32775,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 124168
+      "UsersEstimate": 124169
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -32826,7 +32831,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143271
+      "UsersEstimate": 143272
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -32858,7 +32863,7 @@
       "Name": "Beating Expectations",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76411
+      "UsersEstimate": 76412
     },
     {
       "ID": "achievement_big_win",
@@ -32866,7 +32871,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 176701
+      "UsersEstimate": 176702
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -32914,7 +32919,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90738
+      "UsersEstimate": 90739
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -33034,7 +33039,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 195804
+      "UsersEstimate": 195805
     },
     {
       "ID": "achievement_head_to_head",
@@ -33090,7 +33095,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109841
+      "UsersEstimate": 109842
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -33106,7 +33111,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 124168
+      "UsersEstimate": 124169
     },
     {
       "ID": "achievement_mr_delegator",
@@ -33130,7 +33135,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76411
+      "UsersEstimate": 76412
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -33226,7 +33231,7 @@
       "Name": "Rushed signing",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76411
+      "UsersEstimate": 76412
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -33258,7 +33263,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229234
+      "UsersEstimate": 229235
     },
     {
       "ID": "achievement_signed_a_player",
@@ -33274,7 +33279,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109841
+      "UsersEstimate": 109842
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -33497,15 +33502,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477571,
+      "Progressed": 477572,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-12T19:00:25.5288685+00:00",
-  "LastChanged_Achievements": "2023-12-13T04:08:40.8142486+00:00",
+  "LastChanged_Achievements": "2023-12-13T05:08:31.9427102+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.1665984+00:00",
-  "LastUpdate_Ratings": "2023-12-13T04:02:50.7470457+00:00",
-  "LastUpdate_Achievements": "2023-12-13T04:08:40.8144124+00:00"
+  "LastUpdate_Ratings": "2023-12-13T05:02:41.1123051+00:00",
+  "LastUpdate_Achievements": "2023-12-13T05:08:31.9428732+00:00"
 }

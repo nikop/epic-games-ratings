@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,7 +216,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 943,
+  "EOS_Progressed": 944,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -2381,6 +2381,11 @@
       "Time": "2023-12-12T17:05:31.3085439+00:00",
       "NumProgressed": 943,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T05:05:07.1824886+00:00",
+      "NumProgressed": 944,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2487,9 +2492,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 170
     },
     {
       "ID": "EasternWetlands",
@@ -2569,7 +2574,7 @@
       "Name": "Just One Lap",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LordOfTheFiles",
@@ -2585,7 +2590,7 @@
       "Name": "Lost Marshes",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "MistressOfRiddles",
@@ -2617,7 +2622,7 @@
       "Name": "Museum Visitor",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "NewBeginning",
@@ -2809,7 +2814,7 @@
       "Name": "Touch Grass",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "TrevorsBiographer",
@@ -2857,14 +2862,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 943,
+      "Progressed": 944,
       "Completed": 1
     }
   ],
@@ -2872,8 +2877,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-13T04:06:05.9140463+00:00",
+  "LastChanged_Achievements": "2023-12-13T05:05:07.182488+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-13T03:59:54.690999+00:00",
-  "LastUpdate_Achievements": "2023-12-13T04:06:05.91409+00:00"
+  "LastUpdate_Ratings": "2023-12-13T04:59:14.1246265+00:00",
+  "LastUpdate_Achievements": "2023-12-13T05:05:07.1825413+00:00"
 }

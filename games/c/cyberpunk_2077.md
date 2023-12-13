@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,021 |
-| Gun Fu | 7.00% | ~68,262 |
-| The Fool | 6.00% | ~58,510 |
+| V for Vendetta | 12.00% | ~117,022 |
+| Gun Fu | 7.00% | ~68,263 |
+| The Fool | 6.00% | ~58,511 |
 | Right Back At Ya | 5.00% | ~48,759 |
 | The Lovers | 5.00% | ~48,759 |
 | Full Body Conversion | 4.00% | ~39,007 |
@@ -22,13 +22,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Relic Ruler | 3.00% | ~3,114 |
 | All the President's Men | 3.00% | ~3,114 |
 | Arachnophobia | 3.00% | ~3,114 |
-| Bushido and Chill | 2.00% | ~19,503 |
-| Master Crafter | 2.00% | ~19,503 |
-| The Quick and the Dead | 2.00% | ~19,503 |
-| Life of the Road | 2.00% | ~19,503 |
-| The World | 2.00% | ~19,503 |
-| True Warrior | 2.00% | ~19,503 |
-| Judy vs Night City | 2.00% | ~19,503 |
+| Bushido and Chill | 2.00% | ~19,504 |
+| Master Crafter | 2.00% | ~19,504 |
+| The Quick and the Dead | 2.00% | ~19,504 |
+| Life of the Road | 2.00% | ~19,504 |
+| The World | 2.00% | ~19,504 |
+| True Warrior | 2.00% | ~19,504 |
+| Judy vs Night City | 2.00% | ~19,504 |
 | To Protect and Serve | 1.00% | ~9,752 |
 | The Wandering Fool | 1.00% | ~9,752 |
 | I Am The Law | 1.00% | ~9,752 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,172 (Ranked 15)  
+Progressed: 975,180 (Ranked 15)  
 Completed: 2,891 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 2,891 (0.30%) (Ranked 241)
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
 | 2023-12-12 | 975,121 | 2,891 |
-| 2023-12-13 | 975,172 | 2,891 |
+| 2023-12-13 | 975,180 | 2,891 |
 ## Awards
 Max (Character Customization): 121,863  (Ranked 9)  
 Sum: 413,835 (Ranked 9)  

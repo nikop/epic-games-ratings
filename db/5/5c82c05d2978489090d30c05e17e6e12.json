@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66399,
+  "EOS_Progressed": 66403,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 2591,
+  "EOS_NewPlayers": 2587,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3356,6 +3356,11 @@
       "Time": "2023-12-13T04:04:38.9116705+00:00",
       "NumProgressed": 66399,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-12-13T05:04:01.738627+00:00",
+      "NumProgressed": 66403,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -3368,7 +3373,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24568
+      "UsersEstimate": 24569
     },
     {
       "ID": "Achievement_10",
@@ -3456,7 +3461,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17928
+      "UsersEstimate": 17929
     },
     {
       "ID": "Achievement_20",
@@ -3518,9 +3523,9 @@
       "ID": "Achievement_27",
       "SetID": "2md12pi",
       "Name": "Critter King",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 398
+      "UsersEstimate": 465
     },
     {
       "ID": "Achievement_28",
@@ -3639,7 +3644,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 66399,
+      "Progressed": 66403,
       "Completed": 76
     }
   ],
@@ -3647,8 +3652,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-13T02:27:02.0751001+00:00",
-  "LastChanged_Achievements": "2023-12-13T04:04:38.9116701+00:00",
+  "LastChanged_Achievements": "2023-12-13T05:04:01.7386266+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-13T04:03:16.40676+00:00",
-  "LastUpdate_Achievements": "2023-12-13T04:04:38.9116993+00:00"
+  "LastUpdate_Ratings": "2023-12-13T05:02:59.1944772+00:00",
+  "LastUpdate_Achievements": "2023-12-13T05:04:01.7386689+00:00"
 }

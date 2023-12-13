@@ -1667,10 +1667,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 719,
       "NumberOfAwardsMax": 439
+    },
+    {
+      "Time": "2023-12-13T04:58:07.3585668+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 720,
+      "NumberOfAwardsMax": 439
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 719,
+  "NumberOfAwards": 720,
   "NumberOfAwardsMax": 439,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1732,12 +1738,12 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 22
+      "Count": 23
     }
   ],
-  "EOS_Progressed": 13964,
+  "EOS_Progressed": 13966,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -15900,6 +15906,11 @@
       "Time": "2023-12-13T04:10:10.4158684+00:00",
       "NumProgressed": 13964,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-13T05:09:41.7080528+00:00",
+      "NumProgressed": 13966,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 35,
@@ -15911,7 +15922,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11450
+      "UsersEstimate": 11452
     },
     {
       "ID": "ACH02",
@@ -15919,7 +15930,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ACH03",
@@ -15967,7 +15978,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7261
+      "UsersEstimate": 7262
     },
     {
       "ID": "ACH09",
@@ -15991,7 +16002,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "ACH12",
@@ -16007,7 +16018,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "ACH14",
@@ -16079,7 +16090,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "ACH23",
@@ -16087,7 +16098,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3770
+      "UsersEstimate": 3771
     },
     {
       "ID": "ACH24",
@@ -16135,7 +16146,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "ACH30",
@@ -16190,16 +16201,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13964,
+      "Progressed": 13966,
       "Completed": 57
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-12T13:58:12.8669753+00:00",
-  "LastChanged_Achievements": "2023-12-13T04:10:10.4158679+00:00",
+  "LastChanged": "2023-12-13T04:58:07.3585667+00:00",
+  "LastChanged_Achievements": "2023-12-13T05:09:41.7080524+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:47.2955256+00:00",
-  "LastUpdate_Ratings": "2023-12-13T03:58:20.9189241+00:00",
-  "LastUpdate_Achievements": "2023-12-13T04:10:10.4159584+00:00"
+  "LastUpdate_Ratings": "2023-12-13T04:58:07.3585672+00:00",
+  "LastUpdate_Achievements": "2023-12-13T05:09:41.7081339+00:00"
 }

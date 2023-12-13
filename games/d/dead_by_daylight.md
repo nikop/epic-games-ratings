@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,734 |
-| Zealous | 2.00% | ~21,823 |
-| Not half bad | 2.00% | ~21,823 |
-| Apt Survivor | 2.00% | ~21,823 |
-| Survival Treasures | 2.00% | ~21,823 |
-| Skillful | 2.00% | ~21,823 |
-| I | 2.00% | ~21,823 |
-| Make Some Noise | 2.00% | ~21,823 |
-| The Grand Sacrifice | 1.00% | ~10,911 |
-| Agonizing Escape | 1.00% | ~10,911 |
-| Backdoor Escape | 1.00% | ~10,911 |
-| No one left behind | 1.00% | ~10,911 |
-| Medic | 1.00% | ~10,911 |
-| Handyman | 1.00% | ~10,911 |
-| Perfect Escape | 1.00% | ~10,911 |
-| Perfect Killing | 1.00% | ~10,911 |
-| Bloody Millionaire | 1.00% | ~10,911 |
-| Risk it all | 1.00% | ~10,911 |
-| Engineer | 1.00% | ~10,911 |
-| Sorted | 1.00% | ~10,911 |
-| Healthy Obsession | 1.00% | ~10,911 |
-| Resurgence | 1.00% | ~10,911 |
-| Close Shave | 1.00% | ~10,911 |
-| Preemptive Strike | 1.00% | ~10,911 |
-| Humanitarian | 1.00% | ~10,911 |
-| I've got your back | 0.90% | ~9,820 |
-| Apt Killer | 0.90% | ~9,820 |
-| II | 0.90% | ~9,820 |
-| Wounded Healer | 0.90% | ~9,820 |
-| III | 0.80% | ~8,729 |
+| It wakes | 3.00% | ~32,736 |
+| Zealous | 2.00% | ~21,824 |
+| Not half bad | 2.00% | ~21,824 |
+| Apt Survivor | 2.00% | ~21,824 |
+| Survival Treasures | 2.00% | ~21,824 |
+| Skillful | 2.00% | ~21,824 |
+| I | 2.00% | ~21,824 |
+| Make Some Noise | 2.00% | ~21,824 |
+| The Grand Sacrifice | 1.00% | ~10,912 |
+| Agonizing Escape | 1.00% | ~10,912 |
+| Backdoor Escape | 1.00% | ~10,912 |
+| No one left behind | 1.00% | ~10,912 |
+| Medic | 1.00% | ~10,912 |
+| Handyman | 1.00% | ~10,912 |
+| Perfect Escape | 1.00% | ~10,912 |
+| Perfect Killing | 1.00% | ~10,912 |
+| Bloody Millionaire | 1.00% | ~10,912 |
+| Risk it all | 1.00% | ~10,912 |
+| Engineer | 1.00% | ~10,912 |
+| Sorted | 1.00% | ~10,912 |
+| Healthy Obsession | 1.00% | ~10,912 |
+| Resurgence | 1.00% | ~10,912 |
+| Close Shave | 1.00% | ~10,912 |
+| Preemptive Strike | 1.00% | ~10,912 |
+| Humanitarian | 1.00% | ~10,912 |
+| I've got your back | 0.90% | ~9,821 |
+| Apt Killer | 0.90% | ~9,821 |
+| II | 0.90% | ~9,821 |
+| Wounded Healer | 0.90% | ~9,821 |
+| III | 0.80% | ~8,730 |
 | Escape Artist | 0.70% | ~7,638 |
 | Vulture | 0.70% | ~7,638 |
 | First to the Punch | 0.70% | ~7,638 |
@@ -84,18 +84,18 @@ Number of Ratings: 70,340  (23.09.2022)
 | Rebuilding The Borgo | 0.40% | ~4,365 |
 | Extraterrestrial | 0.40% | ~4,365 |
 | Outta Nowhere | 0.40% | ~4,365 |
-| Jump Scares | 0.30% | ~3,273 |
-| Hemophobia | 0.30% | ~3,273 |
-| Deep Cleansing | 0.30% | ~3,273 |
-| Texas BBQ | 0.30% | ~3,273 |
-| Serial Killer | 0.30% | ~3,273 |
-| Game Over | 0.30% | ~3,273 |
-| Party Crasher | 0.30% | ~3,273 |
-| Outrage | 0.30% | ~3,273 |
-| Broken Bodies | 0.30% | ~3,273 |
-| I See You | 0.30% | ~3,273 |
-| High Speed Pursuit | 0.30% | ~3,273 |
-| Complete the Evolution | 0.30% | ~3,273 |
+| Jump Scares | 0.30% | ~3,274 |
+| Hemophobia | 0.30% | ~3,274 |
+| Deep Cleansing | 0.30% | ~3,274 |
+| Texas BBQ | 0.30% | ~3,274 |
+| Serial Killer | 0.30% | ~3,274 |
+| Game Over | 0.30% | ~3,274 |
+| Party Crasher | 0.30% | ~3,274 |
+| Outrage | 0.30% | ~3,274 |
+| Broken Bodies | 0.30% | ~3,274 |
+| I See You | 0.30% | ~3,274 |
+| High Speed Pursuit | 0.30% | ~3,274 |
+| Complete the Evolution | 0.30% | ~3,274 |
 | Blood in your mouth | 0.20% | ~2,182 |
 | Looter | 0.20% | ~2,182 |
 | Whiffing to Success | 0.20% | ~2,182 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,091 |
 | Adept Good Guy | 0.10% | ~1,091 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,091,134 (Ranked 12)  
+Progressed: 1,091,188 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -476,15 +476,15 @@ Completed: 62 (0.01%) (Ranked 350)
 | 2023-12-10 | 1,086,485 | 62 |
 | 2023-12-11 | 1,088,746 | 62 |
 | 2023-12-12 | 1,090,736 | 62 |
-| 2023-12-13 | 1,091,134 | 62 |
+| 2023-12-13 | 1,091,188 | 62 |
 ## Awards
 Max (Diverse Characters): 37,782  (Ranked 15)  
-Sum: 286,120 (Ranked 12)  
+Sum: 286,155 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37,782 |
-| This game is Highly Recommended | 32,727 |
+| This game is Highly Recommended | 32,762 |
 | This game has Amazing Characters | 32,240 |
 | This game has Competitive Players | 32,035 |
 | This game is Extremely Fun | 31,690 |
@@ -820,4 +820,4 @@ Diff (max vs sum): 3
 | 2023-12-10 | 4.51 | - | 37,638 | 285,419 |
 | 2023-12-11 | 4.51 | - | 37,692 | 285,774 |
 | 2023-12-12 | 4.51 | - | 37,733 | 286,071 |
-| 2023-12-13 | 4.51 | - | 37,782 | 286,120 |
+| 2023-12-13 | 4.51 | - | 37,782 | 286,155 |

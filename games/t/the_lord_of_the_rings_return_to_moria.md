@@ -5,24 +5,24 @@ Rating: 4.43 (Ranked 698)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 84.00% | ~244,248 |
-| Delving Onward | 72.00% | ~209,355 |
-| Miner's Helper | 62.00% | ~180,278 |
-| Suit Up | 56.00% | ~162,832 |
-| To the Mountain's Roots | 52.00% | ~151,201 |
-| Remains To Be Seen | 36.00% | ~104,678 |
-| Covered Head to Toe | 34.00% | ~98,862 |
-| Line of Azog, Ended | 33.00% | ~95,954 |
-| Risk a Little Real Light | 32.00% | ~93,047 |
-| Caradhras The Cruel | 18.00% | ~52,339 |
-| A Memory of this Place | 18.00% | ~52,339 |
-| Battering Ram | 14.00% | ~40,708 |
-| False King, Deposed | 14.00% | ~40,708 |
-| Baruk Khazâd! | 13.00% | ~37,800 |
-| Shadow's Bane | 10.00% | ~29,077 |
-| Westgate Weaponcraft | 9.00% | ~26,169 |
-| Deeps Weaponcraft | 8.00% | ~23,262 |
-| Darkness Is Passing | 7.00% | ~20,354 |
+| Speak Friend | 84.00% | ~244,258 |
+| Delving Onward | 72.00% | ~209,364 |
+| Miner's Helper | 62.00% | ~180,285 |
+| Suit Up | 56.00% | ~162,838 |
+| To the Mountain's Roots | 52.00% | ~151,207 |
+| Remains To Be Seen | 36.00% | ~104,682 |
+| Covered Head to Toe | 34.00% | ~98,866 |
+| Line of Azog, Ended | 33.00% | ~95,958 |
+| Risk a Little Real Light | 32.00% | ~93,051 |
+| Caradhras The Cruel | 18.00% | ~52,341 |
+| A Memory of this Place | 18.00% | ~52,341 |
+| Battering Ram | 14.00% | ~40,710 |
+| False King, Deposed | 14.00% | ~40,710 |
+| Baruk Khazâd! | 13.00% | ~37,802 |
+| Shadow's Bane | 10.00% | ~29,078 |
+| Westgate Weaponcraft | 9.00% | ~26,170 |
+| Deeps Weaponcraft | 8.00% | ~23,263 |
+| Darkness Is Passing | 7.00% | ~20,355 |
 | Decked Out | 5.00% | ~14,539 |
 | Guarded from Despair | 4.00% | ~11,631 |
 | Master of All Trades | 4.00% | ~11,631 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 698)
 | Shielded | 1.00% | ~2,908 |
 | We're Gonna Need More Mugs | 0.10% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,771 (Ranked 55)  
+Progressed: 290,783 (Ranked 55)  
 Completed: 142 (0.05%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 142 (0.05%) (Ranked 324)
 | 2023-12-10 | 289,634 | 127 |
 | 2023-12-11 | 290,206 | 137 |
 | 2023-12-12 | 290,669 | 141 |
-| 2023-12-13 | 290,771 | 142 |
+| 2023-12-13 | 290,783 | 142 |
 ## Awards
 Max (Great for Beginners): 675  (Ranked 190)  
 Sum: 3,916 (Ranked 159)  

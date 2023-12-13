@@ -5,19 +5,19 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,450 |
-| Pay 'n' Spray | 52.00% | ~7,261 |
-| All Dressed Up for San Fierro | 27.00% | ~3,770 |
+| Getting Started | 82.00% | ~11,452 |
+| Pay 'n' Spray | 52.00% | ~7,262 |
+| All Dressed Up for San Fierro | 27.00% | ~3,771 |
 | The American Dream | 20.00% | ~2,793 |
-| School's Out | 19.00% | ~2,653 |
+| School's Out | 19.00% | ~2,654 |
 | Smooth Moves | 17.00% | ~2,374 |
-| What happens in Las Venturas... | 16.00% | ~2,234 |
-| Today Was a Good Day | 16.00% | ~2,234 |
+| What happens in Las Venturas... | 16.00% | ~2,235 |
+| Today Was a Good Day | 16.00% | ~2,235 |
 | Horror of the Santa Maria | 11.00% | ~1,536 |
-| Liberty City State of Mind | 10.00% | ~1,396 |
+| Liberty City State of Mind | 10.00% | ~1,397 |
 | Original Gangster | 9.00% | ~1,257 |
 | The End of the Line | 8.00% | ~1,117 |
-| With Extra Dip | 7.00% | ~977 |
+| With Extra Dip | 7.00% | ~978 |
 | Saviour | 6.00% | ~838 |
 | They Can’t Stop All of Us | 5.00% | ~698 |
 | Rescue a Kitten Too? | 5.00% | ~698 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 498)
 | ...Here we go again | 0.50% | ~70 |
 | I Ain't No Buster | 0.40% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,964 (Ranked 160)  
+Progressed: 13,966 (Ranked 160)  
 Completed: 57 (0.41%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,10 +278,10 @@ Completed: 57 (0.41%) (Ranked 225)
 | 2023-12-10 | 13,930 | 56 |
 | 2023-12-11 | 13,941 | 57 |
 | 2023-12-12 | 13,961 | 57 |
-| 2023-12-13 | 13,964 | 57 |
+| 2023-12-13 | 13,966 | 57 |
 ## Awards
 Max (Great Boss Battles): 439  (Ranked 226)  
-Sum: 719 (Ranked 297)  
+Sum: 720 (Ranked 297)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
@@ -294,7 +294,7 @@ Diff (max vs sum): -71
 | This game has a Creative Community | 27 |
 | This game is Extremely Fun | 25 |
 | This game has Quickly Understood Controls | 23 |
-| This game has Diverse Characters | 22 |
+| This game has Diverse Characters | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -496,3 +496,4 @@ Diff (max vs sum): -71
 | 2023-12-09 | 4.55 | 431 | 710 |
 | 2023-12-11 | 4.55 | 435 | 714 |
 | 2023-12-12 | 4.56 | 439 | 719 |
+| 2023-12-13 | 4.56 | 439 | 720 |

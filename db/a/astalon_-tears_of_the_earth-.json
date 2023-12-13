@@ -4,8 +4,8 @@
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -146,9 +146,9 @@
       "ID": "Beat_Game",
       "SetID": "4f0g260",
       "Name": "Vanquisher!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Beat_Game_100",
@@ -298,9 +298,9 @@
       "ID": "Defeat_Medusa",
       "SetID": "4f0g260",
       "Name": "Snakehead!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Defeat_Solaria",
@@ -370,9 +370,9 @@
       "ID": "Unlock_Zeek",
       "SetID": "4f0g260",
       "Name": "Loot, loot!",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -387,8 +387,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-12-13T04:06:55.1742336+00:00",
+  "LastChanged_Achievements": "2023-12-13T05:05:45.0832488+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:28.3481633+00:00",
-  "LastUpdate_Ratings": "2023-12-13T04:00:28.1626373+00:00",
-  "LastUpdate_Achievements": "2023-12-13T04:06:55.1742497+00:00"
+  "LastUpdate_Ratings": "2023-12-13T04:59:39.9784017+00:00",
+  "LastUpdate_Achievements": "2023-12-13T05:05:45.0832684+00:00"
 }

@@ -5,13 +5,13 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~10,080 |
+| Last Night...Did We... | 92.00% | ~10,081 |
 | I Challenge You To Save More Money! | 87.00% | ~9,533 |
 | I Love How Tough You Are | 73.00% | ~7,999 |
-| Wanna Come To My Place For Dinner? | 67.00% | ~7,341 |
+| Wanna Come To My Place For Dinner? | 67.00% | ~7,342 |
 | What I Want Is You | 61.00% | ~6,684 |
-| To Be Or Not To Be | 58.00% | ~6,355 |
-| Are You Alright? | 50.00% | ~5,478 |
+| To Be Or Not To Be | 58.00% | ~6,356 |
+| Are You Alright? | 50.00% | ~5,479 |
 | Love Actually | 49.00% | ~5,369 |
 | Drama King | 42.00% | ~4,602 |
 | You're Really Something Else | 38.00% | ~4,164 |
@@ -21,16 +21,16 @@ Rating: 4.75 (Ranked 148)
 | FIRST LOVE | 35.00% | ~3,835 |
 | Drama CP: Reel to Real | 35.00% | ~3,835 |
 | Worthless Speech | 35.00% | ~3,835 |
-| Absolutely Elegant | 34.00% | ~3,725 |
-| Still Single | 32.00% | ~3,506 |
+| Absolutely Elegant | 34.00% | ~3,726 |
+| Still Single | 32.00% | ~3,507 |
 | Go Get Some Fries On The Pier | 30.00% | ~3,287 |
 | Days Of Innocence | 30.00% | ~3,287 |
 | David | 30.00% | ~3,287 |
 | A Slap In The Face! | 26.00% | ~2,849 |
-| All I Have Is Money | 25.00% | ~2,739 |
-| Lover In Dark Alley | 25.00% | ~2,739 |
-| That's So You | 25.00% | ~2,739 |
-| SALUTE | 25.00% | ~2,739 |
+| All I Have Is Money | 25.00% | ~2,740 |
+| Lover In Dark Alley | 25.00% | ~2,740 |
+| That's So You | 25.00% | ~2,740 |
+| SALUTE | 25.00% | ~2,740 |
 | Let Me Be Your Toy Boy | 24.00% | ~2,630 |
 | Off We Sail Tonight | 19.00% | ~2,082 |
 | Love You Three Thousand | 16.00% | ~1,753 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 148)
 | Tall; Grande; Venti | 2.00% | ~219 |
 | Limerence | 2.00% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,957 (Ranked 165)  
+Progressed: 10,958 (Ranked 165)  
 Completed: 203 (1.85%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 203 (1.85%) (Ranked 135)
 | 2023-12-10 | 10,902 | 201 |
 | 2023-12-11 | 10,928 | 203 |
 | 2023-12-12 | 10,956 | 203 |
-| 2023-12-13 | 10,957 | 203 |
+| 2023-12-13 | 10,958 | 203 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 538)  
 Sum: 23 (Ranked 541)  

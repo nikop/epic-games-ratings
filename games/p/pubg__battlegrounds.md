@@ -5,14 +5,14 @@ Rating: 3.98 (Ranked 1,021)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 71.00% | ~554,794 |
-| Health Junkie | 39.00% | ~304,746 |
-| You Complete Me | 37.00% | ~289,118 |
-| Guardian Angel | 33.00% | ~257,862 |
-| Devil Inside Me | 26.00% | ~203,164 |
-| Fantastic Four | 19.00% | ~148,466 |
-| Killing Spree | 18.00% | ~140,652 |
-| Marksman Novice | 16.00% | ~125,024 |
+| Blood on My Hands | 71.00% | ~554,797 |
+| Health Junkie | 39.00% | ~304,748 |
+| You Complete Me | 37.00% | ~289,119 |
+| Guardian Angel | 33.00% | ~257,863 |
+| Devil Inside Me | 26.00% | ~203,165 |
+| Fantastic Four | 19.00% | ~148,467 |
+| Killing Spree | 18.00% | ~140,653 |
+| Marksman Novice | 16.00% | ~125,025 |
 | First Blood | 12.00% | ~93,768 |
 | Top 10 | 11.00% | ~85,954 |
 | Now You See Me, Now You Don't | 10.00% | ~78,140 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 1,021)
 | Nade King Master | 0.10% | ~781 |
 | Shoot the Knee | 0.10% | ~781 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 781,400 (Ranked 18)  
+Progressed: 781,404 (Ranked 18)  
 Completed: 12 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,16 +280,16 @@ Completed: 12 (0.00%) (Ranked 373)
 | 2023-12-10 | 774,999 | 12 |
 | 2023-12-11 | 778,280 | 12 |
 | 2023-12-12 | 781,096 | 12 |
-| 2023-12-13 | 781,400 | 12 |
+| 2023-12-13 | 781,404 | 12 |
 ## Awards
 Max (Competitive Players): 5,363  (Ranked 71)  
-Sum: 17,506 (Ranked 63)  
+Sum: 17,533 (Ranked 63)  
 Diff (max vs sum): 8  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 5,363 |
 | This game has Challenging Combat | 4,709 |
-| This game is Highly Recommended | 4,328 |
+| This game is Highly Recommended | 4,355 |
 | This game has Quickly Understood Controls | 3,335 |
 | This game has a Competitive Community | 3,106 |
 | This game is Extremely Fun | 122 |
@@ -587,3 +587,4 @@ Diff (max vs sum): 8
 | 2023-12-10 | 3.98 | 5,306 | 17,338 |
 | 2023-12-11 | 3.98 | 5,332 | 17,422 |
 | 2023-12-12 | 3.98 | 5,363 | 17,506 |
+| 2023-12-13 | 3.98 | 5,363 | 17,533 |

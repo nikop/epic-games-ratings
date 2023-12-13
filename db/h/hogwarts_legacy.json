@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11919,7 +11919,7 @@
       "Count": 852
     }
   ],
-  "EOS_Progressed": 304270,
+  "EOS_Progressed": 304271,
   "EOS_Completed": 525,
   "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 2,
@@ -37249,6 +37249,11 @@
       "Time": "2023-12-13T04:06:57.3452245+00:00",
       "NumProgressed": 304270,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-13T05:05:46.7700172+00:00",
+      "NumProgressed": 304271,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37284,7 +37289,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 36512
+      "UsersEstimate": 36513
     },
     {
       "ID": "PFA_13",
@@ -37316,7 +37321,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36512
+      "UsersEstimate": 36513
     },
     {
       "ID": "PFA_17",
@@ -37388,7 +37393,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36512
+      "UsersEstimate": 36513
     },
     {
       "ID": "PFA_25",
@@ -37444,7 +37449,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36512
+      "UsersEstimate": 36513
     },
     {
       "ID": "PFA_31",
@@ -37516,7 +37521,7 @@
       "Name": "Coasting Along",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36512
+      "UsersEstimate": 36513
     },
     {
       "ID": "PFA_4",
@@ -37588,7 +37593,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45640
+      "UsersEstimate": 45641
     },
     {
       "ID": "PFA_7",
@@ -37596,7 +37601,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 45640
+      "UsersEstimate": 45641
     },
     {
       "ID": "PFA_8",
@@ -37619,7 +37624,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304270,
+      "Progressed": 304271,
       "Completed": 525
     }
   ],
@@ -37627,8 +37632,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-13T03:01:28.8747262+00:00",
-  "LastChanged_Achievements": "2023-12-13T04:06:57.3452241+00:00",
+  "LastChanged_Achievements": "2023-12-13T05:05:46.7700165+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-13T04:01:19.8493608+00:00",
-  "LastUpdate_Achievements": "2023-12-13T04:06:57.3453386+00:00"
+  "LastUpdate_Ratings": "2023-12-13T05:00:16.4719163+00:00",
+  "LastUpdate_Achievements": "2023-12-13T05:05:46.7701601+00:00"
 }

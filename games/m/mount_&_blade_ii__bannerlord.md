@@ -7,11 +7,11 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 40.00% | ~27,089 |
-| Landlord | 34.00% | ~23,025 |
-| Bannerlord | 24.00% | ~16,253 |
-| Horde breaker | 24.00% | ~16,253 |
-| Lawmaker | 24.00% | ~16,253 |
-| Trained | 24.00% | ~16,253 |
+| Landlord | 34.00% | ~23,026 |
+| Bannerlord | 24.00% | ~16,254 |
+| Horde breaker | 24.00% | ~16,254 |
+| Lawmaker | 24.00% | ~16,254 |
+| Trained | 24.00% | ~16,254 |
 | The king is pleased | 19.00% | ~12,867 |
 | King Solomon | 18.00% | ~12,190 |
 | Apple of my eye | 16.00% | ~10,836 |
@@ -19,8 +19,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | This Is Our Land | 14.00% | ~9,481 |
 | Against all odds | 13.00% | ~8,804 |
 | God of the Arena | 13.00% | ~8,804 |
-| Duelist | 11.00% | ~7,449 |
-| Swordbearer | 11.00% | ~7,449 |
+| Duelist | 11.00% | ~7,450 |
+| Swordbearer | 11.00% | ~7,450 |
 | Dynasty | 10.00% | ~6,772 |
 | I spit on your grave | 10.00% | ~6,772 |
 | What have the Romans ever done for us? | 10.00% | ~6,772 |
@@ -36,8 +36,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Real Estate | 3.00% | ~2,032 |
 | Supreme Emperor | 2.00% | ~1,354 |
 | Entrepreneur | 1.00% | ~677 |
-| Crackshot | 0.90% | ~609 |
-| Undercover | 0.90% | ~609 |
+| Crackshot | 0.90% | ~610 |
+| Undercover | 0.90% | ~610 |
 | Fat Cat | 0.80% | ~542 |
 | Catch | 0.60% | ~406 |
 | Slice 'n dice | 0.50% | ~339 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,722 (Ranked 104)  
+Progressed: 67,723 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,16 +295,16 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-10 | 67,577 | 0 |
 | 2023-12-11 | 67,658 | 0 |
 | 2023-12-12 | 67,717 | 0 |
-| 2023-12-13 | 67,722 | 0 |
+| 2023-12-13 | 67,723 | 0 |
 ## Awards
 Max (Character Customization): 7,553  (Ranked 53)  
-Sum: 15,757 (Ranked 67)  
+Sum: 15,762 (Ranked 67)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,553 |
-| This game is Great for Beginners | 1,110 |
-| This game has Diverse Characters | 1,046 |
+| This game is Great for Beginners | 1,112 |
+| This game has Diverse Characters | 1,049 |
 | This game is Highly Recommended | 969 |
 | This game is Extremely Fun | 903 |
 | This game has Amazing Storytelling | 894 |
@@ -649,4 +649,4 @@ Diff (max vs sum): -14
 | 2023-12-10 | 4.74 | - | 7,535 | 15,715 |
 | 2023-12-11 | 4.74 | - | 7,547 | 15,746 |
 | 2023-12-12 | 4.74 | - | 7,553 | 15,755 |
-| 2023-12-13 | 4.74 | - | 7,553 | 15,757 |
+| 2023-12-13 | 4.74 | - | 7,553 | 15,762 |

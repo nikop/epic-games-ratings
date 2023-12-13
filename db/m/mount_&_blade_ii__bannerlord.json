@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -9622,10 +9622,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15757,
       "NumberOfAwardsMax": 7553
+    },
+    {
+      "Time": "2023-12-13T04:59:55.9910601+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15762,
+      "NumberOfAwardsMax": 7553
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15757,
+  "NumberOfAwards": 15762,
   "NumberOfAwardsMax": 7553,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9657,7 +9663,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1110
+      "Count": 1112
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9681,7 +9687,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1046
+      "Count": 1049
     },
     {
       "Text": "This game is Relaxing",
@@ -9702,9 +9708,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67722,
+  "EOS_Progressed": 67723,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34682,6 +34688,11 @@
       "Time": "2023-12-13T01:58:01.8562169+00:00",
       "NumProgressed": 67722,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T05:10:00.2557848+00:00",
+      "NumProgressed": 67723,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34709,7 +34720,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 16253
+      "UsersEstimate": 16254
     },
     {
       "ID": "Best served cold",
@@ -34757,7 +34768,7 @@
       "Name": "Crackshot",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "Crush your enemies",
@@ -34773,7 +34784,7 @@
       "Name": "Duelist",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 7449
+      "UsersEstimate": 7450
     },
     {
       "ID": "Dynasty",
@@ -34853,7 +34864,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 16253
+      "UsersEstimate": 16254
     },
     {
       "ID": "I can do it",
@@ -34917,7 +34928,7 @@
       "Name": "Landlord",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 23025
+      "UsersEstimate": 23026
     },
     {
       "ID": "Lawbringer",
@@ -34933,7 +34944,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16253
+      "UsersEstimate": 16254
     },
     {
       "ID": "Long live the Empire",
@@ -35037,7 +35048,7 @@
       "Name": "Swordbearer",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 7449
+      "UsersEstimate": 7450
     },
     {
       "ID": "The king is pleased",
@@ -35069,7 +35080,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16253
+      "UsersEstimate": 16254
     },
     {
       "ID": "Undercover",
@@ -35077,7 +35088,7 @@
       "Name": "Undercover",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "Veni vidi vici",
@@ -35100,15 +35111,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67722,
+      "Progressed": 67723,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-12-13T01:47:54.4328515+00:00",
-  "LastChanged_Achievements": "2023-12-13T04:10:34.2371734+00:00",
+  "LastChanged": "2023-12-13T04:59:55.9910599+00:00",
+  "LastChanged_Achievements": "2023-12-13T05:10:00.2557841+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.7190339+00:00",
-  "LastUpdate_Ratings": "2023-12-13T04:00:51.7420132+00:00",
-  "LastUpdate_Achievements": "2023-12-13T04:10:34.2373136+00:00"
+  "LastUpdate_Ratings": "2023-12-13T04:59:55.9910604+00:00",
+  "LastUpdate_Achievements": "2023-12-13T05:10:00.2559079+00:00"
 }

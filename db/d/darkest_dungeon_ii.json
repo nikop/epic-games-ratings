@@ -3,12 +3,12 @@
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
   "Ranking_Rating": 259,
-  "Ranking_Popularity": 51,
+  "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9544,10 +9544,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20264,
       "NumberOfAwardsMax": 7665
+    },
+    {
+      "Time": "2023-12-13T04:59:07.2205483+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20275,
+      "NumberOfAwardsMax": 7665
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20264,
+  "NumberOfAwards": 20275,
   "NumberOfAwardsMax": 7665,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9573,7 +9579,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1424
+      "Count": 1435
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9624,9 +9630,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126516,
+  "EOS_Progressed": 126519,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 876,
+  "EOS_NewPlayers": 878,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34754,6 +34760,11 @@
       "Time": "2023-12-13T04:09:20.8028325+00:00",
       "NumProgressed": 126516,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T05:09:02.3560123+00:00",
+      "NumProgressed": 126519,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34819,9 +34830,9 @@
       "ID": "altar_of_hope_unlock_hero_leper",
       "SetID": "64l4lke",
       "Name": "Long Live the King",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 506
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -34891,9 +34902,9 @@
       "ID": "combat_kill_antiquarian",
       "SetID": "64l4lke",
       "Name": "This Belongs in a Museum",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1265
+      "UsersEstimate": 2530
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35171,9 +35182,9 @@
       "ID": "inn_replacement_hero_add",
       "SetID": "64l4lke",
       "Name": "FNG",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 759
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35301,7 +35312,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "combat_kill_collector",
@@ -35363,9 +35374,9 @@
       "ID": "quest_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Lost and Found",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35396,21 +35407,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126516,
+      "Progressed": 126519,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1385,
+      "Progressed": 1388,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-13T03:59:44.9551127+00:00",
-  "LastChanged_Achievements": "2023-12-13T04:09:20.8028322+00:00",
+  "LastChanged": "2023-12-13T04:59:07.2205481+00:00",
+  "LastChanged_Achievements": "2023-12-13T05:09:02.3560119+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T03:59:44.9551133+00:00",
-  "LastUpdate_Achievements": "2023-12-13T04:09:20.8030134+00:00"
+  "LastUpdate_Ratings": "2023-12-13T04:59:07.2205487+00:00",
+  "LastUpdate_Achievements": "2023-12-13T05:09:02.3561912+00:00"
 }

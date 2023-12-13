@@ -6,33 +6,33 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 45.00% | ~18 |
-| Rock of the Bay | 40.00% | ~16 |
-| Furon Fashion | 28.00% | ~11 |
-| Ducks in a Row, Fish in a Barrel | 28.00% | ~11 |
-| Shop Til They Drop | 25.00% | ~10 |
-| I Look Up As I Walk to Takoshima | 23.00% | ~9 |
+| Mash Machine | 44.00% | ~18 |
+| Rock of the Bay | 41.00% | ~17 |
+| Ducks in a Row, Fish in a Barrel | 29.00% | ~12 |
+| Furon Fashion | 27.00% | ~11 |
+| Shop Til They Drop | 24.00% | ~10 |
+| I Look Up As I Walk to Takoshima | 22.00% | ~9 |
 | Upgreatest | 20.00% | ~8 |
-| Earthly Pleasures | 18.00% | ~7 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~5 |
-| Pimp My Raid | 13.00% | ~5 |
+| Earthly Pleasures | 17.00% | ~7 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~5 |
+| Pimp My Raid | 12.00% | ~5 |
 | Perfect Probulator | 10.00% | ~4 |
 | Cult Following | 10.00% | ~4 |
 | Fly Me to the Moon Base | 10.00% | ~4 |
-| Transmitting From Sol-3 | 8.00% | ~3 |
-| Lie Back and Think of Albion | 8.00% | ~3 |
-| Bodied Sattva | 8.00% | ~3 |
-| Die Nasty | 8.00% | ~3 |
-| Scuttled | 8.00% | ~3 |
-| Dusted | 8.00% | ~3 |
+| Transmitting From Sol-3 | 7.00% | ~3 |
+| Lie Back and Think of Albion | 7.00% | ~3 |
+| Bodied Sattva | 7.00% | ~3 |
+| Die Nasty | 7.00% | ~3 |
+| Scuttled | 7.00% | ~3 |
+| Dusted | 7.00% | ~3 |
 | Kaijuiced | 5.00% | ~2 |
 | Lobster Blisque | 5.00% | ~2 |
 | Freshly Squeezed | 5.00% | ~2 |
-| Arty Facts | 3.00% | ~1 |
-| Forbidden Donut | 3.00% | ~1 |
-| Deincarnated | 3.00% | ~1 |
-| Yettisoned | 3.00% | ~1 |
-| Arkvoodle Doodle | 3.00% | ~1 |
+| Arty Facts | 2.00% | ~1 |
+| Forbidden Donut | 2.00% | ~1 |
+| Deincarnated | 2.00% | ~1 |
+| Yettisoned | 2.00% | ~1 |
+| Arkvoodle Doodle | 2.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |
 | Gotta Catch All the Pop Art | 0.00% | ~0 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 527)  
+Progressed: 41 (Ranked 526)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-10 | 30 | 0 |
 | 2023-12-11 | 36 | 0 |
 | 2023-12-12 | 40 | 0 |
+| 2023-12-13 | 41 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 480)  
 Sum: 36 (Ranked 510)  

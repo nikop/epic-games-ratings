@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -11498,9 +11498,9 @@
       "ID": "ach34",
       "SetID": "47in8n6",
       "Name": "Always Accessorize",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3177
     },
     {
       "ID": "ach35",
@@ -11643,8 +11643,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-12-13T01:51:15.2909891+00:00",
-  "LastChanged_Achievements": "2023-12-13T04:04:45.7698758+00:00",
+  "LastChanged_Achievements": "2023-12-13T05:04:06.9656671+00:00",
   "LastUpdate_AppInfo": "2023-12-09T12:59:38.7536822+00:00",
-  "LastUpdate_Ratings": "2023-12-13T04:03:24.8971376+00:00",
-  "LastUpdate_Achievements": "2023-12-13T04:04:45.7699396+00:00"
+  "LastUpdate_Ratings": "2023-12-13T05:03:05.5851002+00:00",
+  "LastUpdate_Achievements": "2023-12-13T05:04:06.9657298+00:00"
 }
