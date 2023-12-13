@@ -2,11 +2,11 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_Rating": 757,
+  "Ranking_Rating": 743,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 50,
-  "Ranking_EOS_Completed": 270,
+  "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 15,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.39,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2023-09-30T08:59:17.2887829+00:00",
@@ -1915,10 +1915,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 858,
       "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2023-12-13T02:22:59.2323807+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 859,
+      "NumberOfAwardsMax": 127
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 858,
+  "NumberOfAwards": 859,
   "NumberOfAwardsMax": 127,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1944,7 +1950,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1995,9 +2001,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 335597,
+  "EOS_Progressed": 335624,
   "EOS_Completed": 560,
-  "EOS_NewPlayers": 7268,
+  "EOS_NewPlayers": 7260,
   "EOS_NewCompleters": 76,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -16210,6 +16216,11 @@
       "Time": "2023-12-13T01:52:04.9406482+00:00",
       "NumProgressed": 335597,
       "NumCompleted": 560
+    },
+    {
+      "Time": "2023-12-13T02:28:25.4156605+00:00",
+      "NumProgressed": 335624,
+      "NumCompleted": 560
     }
   ],
   "TotalAchievements": 24,
@@ -16229,7 +16240,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 20136
+      "UsersEstimate": 20137
     },
     {
       "ID": "11",
@@ -16261,7 +16272,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 23492
+      "UsersEstimate": 23494
     },
     {
       "ID": "15",
@@ -16317,7 +16328,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 13424
+      "UsersEstimate": 13425
     },
     {
       "ID": "21",
@@ -16349,7 +16360,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 10068
+      "UsersEstimate": 10069
     },
     {
       "ID": "3",
@@ -16365,7 +16376,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 10068
+      "UsersEstimate": 10069
     },
     {
       "ID": "5",
@@ -16373,7 +16384,7 @@
       "Name": "ROOKIE",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40272
+      "UsersEstimate": 40275
     },
     {
       "ID": "6",
@@ -16381,7 +16392,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 13424
+      "UsersEstimate": 13425
     },
     {
       "ID": "7",
@@ -16412,16 +16423,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 335597,
+      "Progressed": 335624,
       "Completed": 560
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-12-12T22:58:51.1331306+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:52:04.940648+00:00",
+  "LastChanged": "2023-12-13T02:22:59.2323805+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:28:25.4156603+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:19.4263176+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:46:38.6444589+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:52:04.9407318+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:22:59.232381+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:28:25.4157331+00:00"
 }

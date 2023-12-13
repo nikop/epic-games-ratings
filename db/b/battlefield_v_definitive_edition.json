@@ -3,9 +3,9 @@
   "Name": "Battlefield V Definitive Edition",
   "ProductSlug": "battlefield-v-definitive-edition",
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-06-03T12:00:00+00:00",
     "PcReleaseDate": "2018-11-09T16:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 25005,
+  "EOS_Progressed": 25007,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1017,
+  "EOS_NewPlayers": 1015,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9823,6 +9823,11 @@
       "Time": "2023-12-13T01:57:46.1574382+00:00",
       "NumProgressed": 25005,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T02:34:00.7967669+00:00",
+      "NumProgressed": 25007,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -9867,7 +9872,7 @@
       "Name": "Grim Reaper",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19254
+      "UsersEstimate": 19255
     },
     {
       "ID": "achievement_14",
@@ -9875,7 +9880,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 10752
+      "UsersEstimate": 10753
     },
     {
       "ID": "achievement_15",
@@ -9883,7 +9888,7 @@
       "Name": "Combat Engineer",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13503
+      "UsersEstimate": 13504
     },
     {
       "ID": "achievement_16",
@@ -9891,7 +9896,7 @@
       "Name": "Heads Down",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 18504
+      "UsersEstimate": 18505
     },
     {
       "ID": "achievement_17",
@@ -9907,7 +9912,7 @@
       "Name": "Eager Beaver",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 12252
+      "UsersEstimate": 12253
     },
     {
       "ID": "achievement_19",
@@ -9915,7 +9920,7 @@
       "Name": "Elite",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6501
+      "UsersEstimate": 6502
     },
     {
       "ID": "achievement_2",
@@ -9931,7 +9936,7 @@
       "Name": "Last Man Standing",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 23255
+      "UsersEstimate": 23257
     },
     {
       "ID": "achievement_21",
@@ -9939,7 +9944,7 @@
       "Name": "Not On My Watch",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 17754
+      "UsersEstimate": 17755
     },
     {
       "ID": "achievement_3",
@@ -9955,7 +9960,7 @@
       "Name": "Lovely",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 9502
+      "UsersEstimate": 9503
     },
     {
       "ID": "achievement_5",
@@ -9963,7 +9968,7 @@
       "Name": "Store fuglar fanga ingi flugor",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6501
+      "UsersEstimate": 6502
     },
     {
       "ID": "achievement_6",
@@ -9971,7 +9976,7 @@
       "Name": "Ou La Mort",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 5751
+      "UsersEstimate": 5752
     },
     {
       "ID": "achievement_7",
@@ -9987,7 +9992,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 18754
+      "UsersEstimate": 18755
     },
     {
       "ID": "achievement_9",
@@ -10002,13 +10007,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 25005,
+      "Progressed": 25007,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:57:46.1574379+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:34:00.7967666+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:18.2422283+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:46:33.9645737+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:57:46.1575092+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:22:50.5390926+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:34:00.7968341+00:00"
 }

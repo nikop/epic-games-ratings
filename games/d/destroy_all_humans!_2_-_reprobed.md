@@ -32,6 +32,7 @@ Number of Ratings: 90  (23.09.2022)
 | Forbidden Donut | 3.00% | ~1 |
 | Deincarnated | 3.00% | ~1 |
 | Yettisoned | 3.00% | ~1 |
+| Arkvoodle Doodle | 3.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |
 | Gotta Catch All the Pop Art | 0.00% | ~0 |
@@ -49,10 +50,9 @@ Number of Ratings: 90  (23.09.2022)
 | Steezy Down the Spine | 0.00% | ~0 |
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
-| Arkvoodle Doodle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 40 (Ranked 527)  
-Completed: 0 (0.00%) (Ranked 372)  
+Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

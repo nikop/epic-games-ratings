@@ -1,7 +1,7 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.39 (Ranked 757)  
+Rating: 4.39 (Ranked 758)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -63,7 +63,7 @@ Rating: 4.39 (Ranked 757)
 | Hell Is You | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 259,293 (Ranked 59)  
-Completed: 3 (0.00%) (Ranked 372)  
+Completed: 3 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

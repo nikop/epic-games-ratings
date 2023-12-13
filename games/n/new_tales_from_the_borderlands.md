@@ -1,7 +1,7 @@
 # New Tales from the Borderlands
 [Store](https://store.epicgames.com/en-US/p/new-tales-from-the-borderlands)  
 [View Rawdata](../../db/n/new_tales_from_the_borderlands.json)  
-Rating: 4.08 (Ranked 984)  
+Rating: 4.08 (Ranked 985)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -33,7 +33,7 @@ Rating: 4.08 (Ranked 984)
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,710 (Ranked 205)  
-Completed: 0 (0.00%) (Ranked 372)  
+Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

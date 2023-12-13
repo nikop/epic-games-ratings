@@ -27,7 +27,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 0.50% | ~632 |
 | Nope | 0.50% | ~632 |
 | Ploughshares to Swords | 0.50% | ~7 |
+| Unleash Hell | 0.40% | ~506 |
 | Unfulfilled Desires | 0.40% | ~506 |
+| Predator | 0.40% | ~506 |
 | Banishment | 0.40% | ~506 |
 | Deprogramming | 0.40% | ~506 |
 | Now Stay Dead | 0.40% | ~506 |
@@ -40,20 +42,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 0.40% | ~506 |
 | Road Trip | 0.40% | ~506 |
 | Friends 'Til the End | 0.40% | ~5 |
-| Resurrection | 0.30% | ~379 |
-| Unleash Hell | 0.30% | ~379 |
-| Funny Guy | 0.30% | ~379 |
-| Long Live the King | 0.30% | ~379 |
-| Wyrdly Reconstructed | 0.30% | ~379 |
-| Boxcar Kid | 0.30% | ~379 |
-| Hope Rekindled | 0.30% | ~379 |
-| Predator | 0.30% | ~379 |
-| Ichthyophobic | 0.30% | ~379 |
-| No More Mouths to Feed | 0.30% | ~379 |
-| Spelunker | 0.30% | ~379 |
-| A Clear Conscience | 0.30% | ~379 |
-| When You Want Something Done Right | 0.30% | ~379 |
-| Unshackled | 0.30% | ~379 |
+| Resurrection | 0.30% | ~380 |
+| Funny Guy | 0.30% | ~380 |
+| Long Live the King | 0.30% | ~380 |
+| Wyrdly Reconstructed | 0.30% | ~380 |
+| Boxcar Kid | 0.30% | ~380 |
+| Hope Rekindled | 0.30% | ~380 |
+| Ichthyophobic | 0.30% | ~380 |
+| No More Mouths to Feed | 0.30% | ~380 |
+| Spelunker | 0.30% | ~380 |
+| A Clear Conscience | 0.30% | ~380 |
+| When You Want Something Done Right | 0.30% | ~380 |
+| Unshackled | 0.30% | ~380 |
 | Slap on the Wrist | 0.30% | ~4 |
 | This Looks Familiar | 0.20% | ~253 |
 | Worldly Traveller | 0.20% | ~253 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.10% | ~1 |
 | On This Long Road, We Found Redemption | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,497 (Ranked 84)  
-Completed: 2 (0.00%) (Ranked 372)  
+Progressed: 126,500 (Ranked 84)  
+Completed: 2 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -313,7 +313,7 @@ Completed: 2 (0.00%) (Ranked 372)
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
-| 2023-12-13 | 126,497 | 2 |
+| 2023-12-13 | 126,500 | 2 |
 ## Awards
 Max (Character Customization): 7,622  (Ranked 52)  
 Sum: 20,221 (Ranked 59)  

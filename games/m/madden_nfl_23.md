@@ -28,7 +28,7 @@ Rating: 4.28 (Ranked 864)
 | The Fortress | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,955 (Ranked 200)  
-Completed: 0 (0.00%) (Ranked 372)  
+Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

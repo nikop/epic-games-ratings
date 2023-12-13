@@ -3,9 +3,9 @@
   "Name": "Elemental War 2",
   "ProductSlug": "elemental-war-2-d7db6e",
   "Ranking_EOS_Progress": 584,
-  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2022-05-06T16:00:00+00:00",
@@ -145,17 +145,17 @@
       "ID": "10",
       "SetID": "7095412",
       "Name": "Combiner",
-      "Percentage": 89,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "11",
       "SetID": "7095412",
       "Name": "3 in 1",
-      "Percentage": 67,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "12",
@@ -225,9 +225,9 @@
       "ID": "2",
       "SetID": "7095412",
       "Name": "Equipper",
-      "Percentage": 78,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "20",
@@ -313,9 +313,9 @@
       "ID": "3",
       "SetID": "7095412",
       "Name": "First Time User",
-      "Percentage": 56,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "30",
@@ -472,8 +472,8 @@
   ],
   "FirstSeen": "2023-08-25T14:00:23.6094208+00:00",
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:56:25.5341391+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:32:04.1806291+00:00",
   "LastUpdate_AppInfo": "2023-12-09T01:42:08.6587369+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:50:58.7118588+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:56:25.5341648+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:26:45.5932418+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:32:04.180659+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 96,
-  "Ranking_EOS_Completed": 310,
+  "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
@@ -4209,9 +4209,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 82608,
+  "EOS_Progressed": 82609,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 1073,
+  "EOS_NewPlayers": 1072,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -31099,6 +31099,11 @@
       "Time": "2023-12-13T01:57:39.0806954+00:00",
       "NumProgressed": 82608,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-12-13T02:33:50.6913321+00:00",
+      "NumProgressed": 82609,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 53,
@@ -31126,7 +31131,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14869
+      "UsersEstimate": 14870
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -31198,7 +31203,7 @@
       "Name": "Showdown",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 14043
+      "UsersEstimate": 14044
     },
     {
       "ID": "complete_first_side_hustle",
@@ -31206,7 +31211,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 25608
+      "UsersEstimate": 25609
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -31254,7 +31259,7 @@
       "Name": "Chaos Tamer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 4956
+      "UsersEstimate": 4957
     },
     {
       "ID": "destroy_car_with_fist_cannon",
@@ -31350,7 +31355,7 @@
       "Name": "Et tu?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 14043
+      "UsersEstimate": 14044
     },
     {
       "ID": "get_fired",
@@ -31390,7 +31395,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 23130
+      "UsersEstimate": 23131
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -31494,7 +31499,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 34695
+      "UsersEstimate": 34696
     },
     {
       "ID": "whole_map_purple",
@@ -31533,13 +31538,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 82608,
+      "Progressed": 82609,
       "Completed": 55
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 54245,
+      "Progressed": 54246,
       "Completed": 4492
     }
   ],
@@ -31547,8 +31552,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-12-12T22:03:04.3804501+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:57:39.0806951+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:33:50.6913319+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:17.4924832+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:51:24.0057779+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:57:39.0808689+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:27:22.8937215+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:33:50.6914703+00:00"
 }

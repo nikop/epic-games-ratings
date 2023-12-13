@@ -3,9 +3,9 @@
   "Name": "Miniland Adventure",
   "ProductSlug": "miniland-adventure-ee81ff",
   "Ranking_EOS_Progress": 638,
-  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-12-07T14:00:00+00:00",
     "PcReleaseDate": "2023-04-10T13:00:00+00:00",
@@ -154,9 +154,9 @@
       "ID": "ach-chest",
       "SetID": "6aph42m",
       "Name": "I\u0027ve got no place in inventory",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach-cooked-mutton",
@@ -458,9 +458,9 @@
       "ID": "ach-tool-table",
       "SetID": "6aph42m",
       "Name": "I\u0027m tired of sharp stone",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach-torch",
@@ -482,9 +482,9 @@
       "ID": "ach-workbench",
       "SetID": "6aph42m",
       "Name": "I can craft more!",
-      "Percentage": 86,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -497,8 +497,8 @@
   ],
   "FirstSeen": "2023-12-09T20:59:53.605626+00:00",
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:57:19.6747144+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:33:22.4065685+00:00",
   "LastUpdate_AppInfo": "2023-12-06T11:56:58.1972014+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:45:36.1774622+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:57:19.6747509+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:21:23.4319005+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:33:22.4066046+00:00"
 }

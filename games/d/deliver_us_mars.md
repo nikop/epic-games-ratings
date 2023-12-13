@@ -40,7 +40,7 @@ Rating: 4.18 (Ranked 947)
 | The Gang | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11 (Ranked 620)  
-Completed: 0 (0.00%) (Ranked 372)  
+Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

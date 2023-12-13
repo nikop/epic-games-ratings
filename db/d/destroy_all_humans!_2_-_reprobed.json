@@ -6,9 +6,9 @@
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 527,
-  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -804,9 +804,9 @@
       "ID": "ACH_UNLOCK_BURROW_BEAST",
       "SetID": "4n84pon",
       "Name": "Arkvoodle Doodle",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -837,8 +837,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:56:45.7736115+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:32:33.5990259+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.5493724+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:46:00.0676099+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:56:45.7736326+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:22:00.6496599+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:32:33.5990504+00:00"
 }

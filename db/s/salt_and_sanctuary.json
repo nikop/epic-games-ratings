@@ -6,8 +6,8 @@
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 34,
-  "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_Completed": 241,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2850,9 +2850,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 540618,
+  "EOS_Progressed": 540620,
   "EOS_Completed": 1641,
-  "EOS_NewPlayers": 558,
+  "EOS_NewPlayers": 552,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -28950,6 +28950,11 @@
       "Time": "2023-12-13T01:54:16.7902118+00:00",
       "NumProgressed": 540618,
       "NumCompleted": 1641
+    },
+    {
+      "Time": "2023-12-13T02:31:38.4644449+00:00",
+      "NumProgressed": 540620,
+      "NumCompleted": 1641
     }
   ],
   "TotalAchievements": 37,
@@ -28961,7 +28966,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70280
+      "UsersEstimate": 70281
     },
     {
       "ID": "COASTROCK",
@@ -29017,7 +29022,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 448713
+      "UsersEstimate": 448715
     },
     {
       "ID": "HONED",
@@ -29073,7 +29078,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216247
+      "UsersEstimate": 216248
     },
     {
       "ID": "THE_CASTLE",
@@ -29137,7 +29142,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 102717
+      "UsersEstimate": 102718
     },
     {
       "ID": "THE_KEEP",
@@ -29217,7 +29222,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 345996
+      "UsersEstimate": 345997
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -29241,7 +29246,7 @@
       "Name": "The Ziggurat",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43249
+      "UsersEstimate": 43250
     },
     {
       "ID": "WISE_WORDS",
@@ -29256,15 +29261,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 540618,
+      "Progressed": 540620,
       "Completed": 1641
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-11T19:01:46.3585396+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:54:16.7902115+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:31:38.4644446+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.0345559+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:50:55.0351619+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:54:16.7903634+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:26:39.9242725+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:31:38.4646036+00:00"
 }

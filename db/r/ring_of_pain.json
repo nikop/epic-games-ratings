@@ -6,7 +6,7 @@
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 64,
-  "Ranking_EOS_Completed": 284,
+  "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
@@ -3642,7 +3642,7 @@
   ],
   "EOS_Progressed": 240940,
   "EOS_Completed": 296,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28276,9 +28276,9 @@
       "ID": "FULLINVENTORY",
       "SetID": "5l8oe0h",
       "Name": "I Am Overburdened",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 1205
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -29123,8 +29123,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-12T20:58:51.4793333+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:58:05.0335403+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:34:25.8845982+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:47:08.3019426+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:58:05.0338022+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:23:44.3159913+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:34:25.8848297+00:00"
 }

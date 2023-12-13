@@ -6,9 +6,9 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
-  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9618,9 +9618,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126497,
+  "EOS_Progressed": 126500,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 863,
+  "EOS_NewPlayers": 864,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34733,6 +34733,11 @@
       "Time": "2023-12-13T01:57:06.2686945+00:00",
       "NumProgressed": 126497,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T02:33:03.1181941+00:00",
+      "NumProgressed": 126500,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34776,15 +34781,15 @@
       "Name": "Resurrection",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
       "SetID": "64l4lke",
       "Name": "Unleash Hell",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -34792,7 +34797,7 @@
       "Name": "Funny Guy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -34800,7 +34805,7 @@
       "Name": "Long Live the King",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -34808,7 +34813,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -34816,7 +34821,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -34848,7 +34853,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -34862,9 +34867,9 @@
       "ID": "combat_kill_animal",
       "SetID": "64l4lke",
       "Name": "Predator",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -34920,7 +34925,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "combat_kill_gaunts",
@@ -34936,7 +34941,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -35032,7 +35037,7 @@
       "Name": "Spelunker",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "driving_biome_clear_city",
@@ -35112,7 +35117,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -35144,7 +35149,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -35200,7 +35205,7 @@
       "Name": "Unshackled",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "run_victory_act02",
@@ -35375,21 +35380,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126497,
+      "Progressed": 126500,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1366,
+      "Progressed": 1369,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T19:58:48.3219197+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:57:06.2686942+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:33:03.1181938+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:47:09.5049209+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:57:06.2688419+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:23:46.2358408+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:33:03.1183343+00:00"
 }

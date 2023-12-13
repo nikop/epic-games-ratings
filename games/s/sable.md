@@ -8,24 +8,24 @@ Number of Ratings: 43  (23.09.2022)
 | ---- | ---------- | ----- |
 | Simoon | 34.00% | ~35,293 |
 | Just The Two of Us | 33.00% | ~34,255 |
-| Up On High | 25.00% | ~25,950 |
-| Under The Hood | 25.00% | ~25,950 |
-| Got Your Nose | 24.00% | ~24,912 |
-| The Gift of Gab | 24.00% | ~24,912 |
-| Wrapping Up | 22.00% | ~22,836 |
-| More Than A Box Of Sand | 18.00% | ~18,684 |
-| The Dunboyne | 17.00% | ~17,646 |
-| Badge Hobbyist | 17.00% | ~17,646 |
-| Chum Novice | 16.00% | ~16,608 |
-| Silver-Tongued Sable | 16.00% | ~16,608 |
-| Sticky Paws | 16.00% | ~16,608 |
-| Bubble Up | 16.00% | ~16,608 |
-| Thread The Needle | 15.00% | ~15,570 |
-| Power to the People | 14.00% | ~14,532 |
-| Nesting Giant | 14.00% | ~14,532 |
-| Take That! | 13.00% | ~13,494 |
-| Treasure Tracker | 13.00% | ~13,494 |
-| Big Spender | 13.00% | ~13,494 |
+| Up On High | 25.00% | ~25,951 |
+| Under The Hood | 25.00% | ~25,951 |
+| Got Your Nose | 24.00% | ~24,913 |
+| The Gift of Gab | 24.00% | ~24,913 |
+| Wrapping Up | 22.00% | ~22,837 |
+| More Than A Box Of Sand | 18.00% | ~18,685 |
+| The Dunboyne | 17.00% | ~17,647 |
+| Badge Hobbyist | 17.00% | ~17,647 |
+| Chum Novice | 16.00% | ~16,609 |
+| Silver-Tongued Sable | 16.00% | ~16,609 |
+| Sticky Paws | 16.00% | ~16,609 |
+| Bubble Up | 16.00% | ~16,609 |
+| Thread The Needle | 15.00% | ~15,571 |
+| Power to the People | 14.00% | ~14,533 |
+| Nesting Giant | 14.00% | ~14,533 |
+| Take That! | 13.00% | ~13,495 |
+| Treasure Tracker | 13.00% | ~13,495 |
+| Big Spender | 13.00% | ~13,495 |
 | Badge Collector | 12.00% | ~12,456 |
 | Quite The Catch | 12.00% | ~12,456 |
 | Rowleys Way | 11.00% | ~11,418 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,114 |
 | Vivacious Vivarium | 2.00% | ~2,076 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103,802 (Ranked 88)  
+Progressed: 103,804 (Ranked 88)  
 Completed: 1,052 (1.01%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 1,052 (1.01%) (Ranked 170)
 | 2023-12-10 | 103,474 | 1,049 |
 | 2023-12-11 | 103,630 | 1,050 |
 | 2023-12-12 | 103,781 | 1,052 |
-| 2023-12-13 | 103,802 | 1,052 |
+| 2023-12-13 | 103,804 | 1,052 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 517)  
 Sum: 95 (Ranked 457)  

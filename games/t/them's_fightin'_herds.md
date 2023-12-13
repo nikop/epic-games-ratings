@@ -35,7 +35,7 @@ Rating: 4.61 (Ranked 390)
 | High Priestess | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 233,478 (Ranked 69)  
-Completed: 5 (0.00%) (Ranked 372)  
+Completed: 5 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

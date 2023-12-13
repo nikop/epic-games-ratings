@@ -6,9 +6,9 @@
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 133,
-  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2645,9 +2645,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 26034,
+  "EOS_Progressed": 26036,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1209,
+  "EOS_NewPlayers": 1205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12785,6 +12785,11 @@
       "Time": "2023-12-13T01:57:11.8687381+00:00",
       "NumProgressed": 26034,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T02:33:11.10591+00:00",
+      "NumProgressed": 26036,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -12981,7 +12986,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10674
+      "UsersEstimate": 10675
     },
     {
       "ID": "Achievement_Trophy25",
@@ -13013,7 +13018,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 8591
+      "UsersEstimate": 8592
     },
     {
       "ID": "Achievement_Trophy29",
@@ -13085,7 +13090,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6508
+      "UsersEstimate": 6509
     },
     {
       "ID": "Achievement_Trophy38",
@@ -13101,7 +13106,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4946
+      "UsersEstimate": 4947
     },
     {
       "ID": "Achievement_Trophy40",
@@ -13117,7 +13122,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3384
+      "UsersEstimate": 3385
     },
     {
       "ID": "Achievement_Trophy42",
@@ -13133,7 +13138,7 @@
       "Name": "Light of my life",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3384
+      "UsersEstimate": 3385
     },
     {
       "ID": "Achievement_Trophy44",
@@ -13173,7 +13178,7 @@
       "Name": "Doom and gloom",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "Achievement_Trophy49",
@@ -13284,7 +13289,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 26034,
+      "Progressed": 26036,
       "Completed": 1
     }
   ],
@@ -13292,8 +13297,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-12T01:47:51.3395701+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:57:11.8687377+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:33:11.1059098+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:42.7229324+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:48:04.1589536+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:57:11.8688334+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:25:14.689233+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:33:11.1059812+00:00"
 }

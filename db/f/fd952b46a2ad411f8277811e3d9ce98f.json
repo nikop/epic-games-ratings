@@ -3,9 +3,9 @@
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 46,
-  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 397053,
+  "EOS_Progressed": 397076,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5933,
+  "EOS_NewPlayers": 5902,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11847,6 +11847,11 @@
       "Time": "2023-12-13T01:56:24.113993+00:00",
       "NumProgressed": 397053,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T02:32:01.9941057+00:00",
+      "NumProgressed": 397076,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -11955,7 +11960,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 222350
+      "UsersEstimate": 222363
     },
     {
       "ID": "kills_100",
@@ -12011,7 +12016,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 39705
+      "UsersEstimate": 39708
     },
     {
       "ID": "revives_25",
@@ -12106,13 +12111,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 397053,
+      "Progressed": 397076,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:56:24.1139928+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:32:01.9941054+00:00",
   "LastUpdate_AppInfo": "2023-12-06T17:57:24.4970026+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:46:08.3811174+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:56:24.1140536+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:22:13.6551634+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:32:01.9941813+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~16,693 |
-| Student | 22.00% | ~13,116 |
-| Knower | 16.00% | ~9,539 |
+| Initiation | 28.00% | ~16,694 |
+| Student | 22.00% | ~13,117 |
+| Knower | 16.00% | ~9,540 |
 | Listener | 15.00% | ~8,943 |
 | Aspen Tree | 14.00% | ~8,347 |
 | Healer | 14.00% | ~8,347 |
-| Soldier | 12.00% | ~7,154 |
-| Cow Level | 11.00% | ~6,558 |
-| Scientist | 11.00% | ~6,558 |
+| Soldier | 12.00% | ~7,155 |
+| Cow Level | 11.00% | ~6,559 |
+| Scientist | 11.00% | ~6,559 |
 | Herbalist | 10.00% | ~5,962 |
 | Water | 10.00% | ~5,962 |
 | Old Friend | 9.00% | ~5,366 |
@@ -26,14 +26,14 @@ Number of Ratings: 96  (23.09.2022)
 | Dead Friend | 8.00% | ~4,770 |
 | Pine Tree | 8.00% | ~4,770 |
 | Collector | 8.00% | ~4,770 |
-| Worthy | 7.00% | ~4,173 |
-| Black Book | 7.00% | ~4,173 |
-| Black Sorcerer | 7.00% | ~4,173 |
-| Dead Man | 7.00% | ~4,173 |
-| Fern | 7.00% | ~4,173 |
-| 100 Friends | 7.00% | ~4,173 |
-| Researcher | 7.00% | ~4,173 |
-| Savvy | 7.00% | ~4,173 |
+| Worthy | 7.00% | ~4,174 |
+| Black Book | 7.00% | ~4,174 |
+| Black Sorcerer | 7.00% | ~4,174 |
+| Dead Man | 7.00% | ~4,174 |
+| Fern | 7.00% | ~4,174 |
+| 100 Friends | 7.00% | ~4,174 |
+| Researcher | 7.00% | ~4,174 |
+| Savvy | 7.00% | ~4,174 |
 | Encyclopedist | 6.00% | ~3,577 |
 | Witch | 6.00% | ~3,577 |
 | Vorsa | 6.00% | ~3,577 |
@@ -57,8 +57,8 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,192 |
 | Word Master | 0.20% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,619 (Ranked 109)  
-Completed: 60 (0.10%) (Ranked 293)  
+Progressed: 59,623 (Ranked 109)  
+Completed: 60 (0.10%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,7 +166,7 @@ Completed: 60 (0.10%) (Ranked 293)
 | 2023-12-10 | 59,292 | 59 |
 | 2023-12-11 | 59,462 | 60 |
 | 2023-12-12 | 59,603 | 60 |
-| 2023-12-13 | 59,619 | 60 |
+| 2023-12-13 | 59,623 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

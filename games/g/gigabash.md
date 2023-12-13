@@ -5,33 +5,33 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 49.00% | ~31,251 |
-| I've Had Enough! | 35.00% | ~22,322 |
-| Fists, Fury & a lot of Rage | 25.00% | ~15,944 |
-| Seasoned Fighter | 19.00% | ~12,118 |
-| All For One and One For All | 18.00% | ~11,480 |
-| Home Sweet Home? | 12.00% | ~7,653 |
-| A New Age | 9.00% | ~5,740 |
-| Oh Baby, A Triple | 7.00% | ~4,464 |
-| Symbiotic | 7.00% | ~4,464 |
-| Master of Disguise | 5.00% | ~3,189 |
-| It's Mayhem! | 4.00% | ~2,551 |
-| Right back at'cha | 4.00% | ~2,551 |
-| Battle Hardened | 3.00% | ~1,913 |
-| Cautious Veteran | 3.00% | ~1,913 |
-| Double Punch! | 3.00% | ~1,913 |
-| Martyrdom | 3.00% | ~1,913 |
-| Spectacular Finisher | 3.00% | ~1,913 |
-| Katamari | 2.00% | ~1,276 |
-| Ninja Reflex | 2.00% | ~1,276 |
-| This is GigaBash! | 2.00% | ~1,276 |
-| Zero-sum Game | 2.00% | ~1,276 |
-| Just Getting Warmed Up | 1.00% | ~638 |
-| Taste Your Own Medicine | 1.00% | ~638 |
-| Sidetracked... | 0.90% | ~574 |
-| Top of the Food Chain | 0.90% | ~574 |
-| Eye of the Titan | 0.70% | ~446 |
-| Let Them Fight | 0.30% | ~191 |
+| All Grown Up! | 49.00% | ~31,403 |
+| I've Had Enough! | 35.00% | ~22,430 |
+| Fists, Fury & a lot of Rage | 25.00% | ~16,022 |
+| Seasoned Fighter | 19.00% | ~12,177 |
+| All For One and One For All | 18.00% | ~11,536 |
+| Home Sweet Home? | 12.00% | ~7,690 |
+| A New Age | 9.00% | ~5,768 |
+| Oh Baby, A Triple | 7.00% | ~4,486 |
+| Symbiotic | 7.00% | ~4,486 |
+| Master of Disguise | 5.00% | ~3,204 |
+| It's Mayhem! | 4.00% | ~2,563 |
+| Right back at'cha | 4.00% | ~2,563 |
+| Battle Hardened | 3.00% | ~1,923 |
+| Cautious Veteran | 3.00% | ~1,923 |
+| Double Punch! | 3.00% | ~1,923 |
+| Martyrdom | 3.00% | ~1,923 |
+| Spectacular Finisher | 3.00% | ~1,923 |
+| Katamari | 2.00% | ~1,282 |
+| Ninja Reflex | 2.00% | ~1,282 |
+| This is GigaBash! | 2.00% | ~1,282 |
+| Zero-sum Game | 2.00% | ~1,282 |
+| Just Getting Warmed Up | 1.00% | ~641 |
+| Taste Your Own Medicine | 1.00% | ~641 |
+| Sidetracked... | 0.90% | ~577 |
+| Top of the Food Chain | 0.90% | ~577 |
+| Eye of the Titan | 0.70% | ~449 |
+| Let Them Fight | 0.30% | ~192 |
 | Apex Mode | 0.20% | ~128 |
 | 5 Stages of Grief | 0.10% | ~64 |
 | Bastion of Humanity | 0.10% | ~64 |
@@ -41,15 +41,15 @@ Rating: 4.54 (Ranked 534)
 | What's Mine is Yours | 0.10% | ~64 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,778 (Ranked 108)  
-Completed: 0 (0.00%) (Ranked 372)  
+Progressed: 64,087 (Ranked 108)  
+Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-10 | 32,085 | 0 |
 | 2023-12-11 | 49,284 | 0 |
 | 2023-12-12 | 62,591 | 0 |
-| 2023-12-13 | 63,778 | 0 |
+| 2023-12-13 | 64,087 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

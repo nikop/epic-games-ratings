@@ -1,17 +1,17 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.39 (Ranked 757)  
+Rating: 4.40 (Ranked 743)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~40,272 |
-| IT MAKES BOOM! | 7.00% | ~23,492 |
-| EXTRA BOOST | 6.00% | ~20,136 |
-| PROTECTED | 4.00% | ~13,424 |
-| PRO | 4.00% | ~13,424 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,068 |
-| AGGRESSIVE RACER | 3.00% | ~10,068 |
+| ROOKIE | 12.00% | ~40,275 |
+| IT MAKES BOOM! | 7.00% | ~23,494 |
+| EXTRA BOOST | 6.00% | ~20,137 |
+| PROTECTED | 4.00% | ~13,425 |
+| PRO | 4.00% | ~13,425 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,069 |
+| AGGRESSIVE RACER | 3.00% | ~10,069 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~6,712 |
 | A TIGER'S FEAR | 2.00% | ~6,712 |
 | TRAINING HARD | 1.00% | ~3,356 |
@@ -30,8 +30,8 @@ Rating: 4.39 (Ranked 757)
 | ACE TRICKSTER | 0.40% | ~1,342 |
 | PERFECTLY POISED | 0.30% | ~1,007 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335,597 (Ranked 50)  
-Completed: 560 (0.17%) (Ranked 270)  
+Progressed: 335,624 (Ranked 50)  
+Completed: 560 (0.17%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,10 +263,10 @@ Completed: 560 (0.17%) (Ranked 270)
 | 2023-12-10 | 333,976 | 537 |
 | 2023-12-11 | 334,723 | 548 |
 | 2023-12-12 | 335,467 | 559 |
-| 2023-12-13 | 335,597 | 560 |
+| 2023-12-13 | 335,624 | 560 |
 ## Awards
 Max (Great for Beginners): 127  (Ranked 337)  
-Sum: 858 (Ranked 278)  
+Sum: 859 (Ranked 278)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -281,7 +281,7 @@ Diff (max vs sum): 59
 | This game has Competitive Players | 55 |
 | This game has Quickly Understood Controls | 50 |
 | This game is Relaxing | 49 |
-| This game has Amazing Storytelling | 46 |
+| This game has Amazing Storytelling | 47 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -358,3 +358,4 @@ Diff (max vs sum): 59
 | 2023-12-10 | 4.39 | 119 | 826 |
 | 2023-12-11 | 4.39 | 122 | 840 |
 | 2023-12-12 | 4.39 | 127 | 858 |
+| 2023-12-13 | 4.40 | 127 | 859 |

@@ -3,9 +3,9 @@
   "Name": "ZUBASH",
   "ProductSlug": "zubash-cf4c1a",
   "Ranking_EOS_Progress": 792,
-  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-06T21:57:00.9529646+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:46:45.8078743+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:57:02.989195+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:23:10.6420904+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:32:58.1453313+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "It Takes Two",
   "ProductSlug": "it-takes-two",
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 220,
+  "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 27404,
+  "EOS_Progressed": 27406,
   "EOS_Completed": 119,
   "EOS_NewPlayers": 1264,
   "EOS_NewCompleters": 7,
@@ -9813,6 +9813,11 @@
       "Time": "2023-12-13T01:57:23.7606185+00:00",
       "NumProgressed": 27404,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-13T02:33:28.4497678+00:00",
+      "NumProgressed": 27406,
+      "NumCompleted": 119
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -9825,7 +9830,7 @@
       "Name": "It Took Two",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 12332
+      "UsersEstimate": 12333
     },
     {
       "ID": "achievement_10",
@@ -9841,7 +9846,7 @@
       "Name": "Realize Your Art",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3288
+      "UsersEstimate": 3289
     },
     {
       "ID": "achievement_12",
@@ -9849,7 +9854,7 @@
       "Name": "On Rails Experience",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 15894
+      "UsersEstimate": 15895
     },
     {
       "ID": "achievement_13",
@@ -9857,7 +9862,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2466
+      "UsersEstimate": 2467
     },
     {
       "ID": "achievement_14",
@@ -9865,7 +9870,7 @@
       "Name": "Force Triangulated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3288
+      "UsersEstimate": 3289
     },
     {
       "ID": "achievement_15",
@@ -9873,7 +9878,7 @@
       "Name": "Lost And Found",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3014
+      "UsersEstimate": 3015
     },
     {
       "ID": "achievement_16",
@@ -9889,7 +9894,7 @@
       "Name": "Something Fishy",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3014
+      "UsersEstimate": 3015
     },
     {
       "ID": "achievement_18",
@@ -9929,7 +9934,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 23841
+      "UsersEstimate": 23843
     },
     {
       "ID": "achievement_4",
@@ -9937,7 +9942,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 24116
+      "UsersEstimate": 24117
     },
     {
       "ID": "achievement_5",
@@ -9961,7 +9966,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 21649
+      "UsersEstimate": 21651
     },
     {
       "ID": "achievement_8",
@@ -9969,7 +9974,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 11784
+      "UsersEstimate": 11785
     },
     {
       "ID": "achievement_9",
@@ -9977,20 +9982,20 @@
       "Name": "A Daring Devil",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 14524
+      "UsersEstimate": 14525
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 27404,
+      "Progressed": 27406,
       "Completed": 119
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:57:23.7606182+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:33:28.4497675+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:16.8565582+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:45:59.7113737+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:57:23.760666+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:22:00.0529841+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:33:28.4498584+00:00"
 }

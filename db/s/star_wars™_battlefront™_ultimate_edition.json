@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 239,
-  "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_Completed": 315,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1686,
+  "EOS_Progressed": 1687,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5074,6 +5074,11 @@
       "Time": "2023-12-13T01:58:03.6946645+00:00",
       "NumProgressed": 1686,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T02:34:24.2955793+00:00",
+      "NumProgressed": 1687,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5278,7 +5283,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "achievement_32",
@@ -5350,7 +5355,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "achievement_40",
@@ -5589,13 +5594,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1686,
+      "Progressed": 1687,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1686,
+      "Progressed": 1687,
       "Completed": 1
     }
   ],
@@ -5603,8 +5608,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:58:03.6946642+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:34:24.2955791+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:45:38.2240774+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:58:03.6947313+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:21:26.7885349+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:34:24.2956354+00:00"
 }

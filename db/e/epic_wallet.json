@@ -2,9 +2,9 @@
   "ID": "f7aa799abe0f46d38d6b34491c218dd2",
   "Name": "Epic Wallet",
   "Ranking_EOS_Progress": 792,
-  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:59.5983925+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:47:50.2742762+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:56:50.3123664+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:24:52.0261735+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:32:40.196564+00:00"
 }

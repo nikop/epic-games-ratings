@@ -1,7 +1,7 @@
 # Tannenberg
 [Store](https://store.epicgames.com/en-US/p/tannenberg)  
 [View Rawdata](../../db/t/tannenberg.json)  
-Rating: 4.39 (Ranked 757)  
+Rating: 4.39 (Ranked 758)  
 Number of Ratings: 13,393  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -75,7 +75,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Road to Berlin | 0.60% | ~847 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 141,114 (Ranked 81)  
-Completed: 33 (0.02%) (Ranked 340)  
+Completed: 33 (0.02%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

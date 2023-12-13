@@ -60,6 +60,7 @@
 | Completionist | 31.00% | ~492 |
 | Fade Away | 31.00% | ~492 |
 | Big Game Hunter | 31.00% | ~492 |
+| Digital Exorcist | 31.00% | ~492 |
 | Heart of Darkness | 31.00% | ~492 |
 | Bringer of War | 31.00% | ~492 |
 | Friend or Foe | 30.00% | ~476 |
@@ -67,7 +68,6 @@
 | Doppelganger | 30.00% | ~476 |
 | Treason | 30.00% | ~476 |
 | Agent | 30.00% | ~476 |
-| Digital Exorcist | 30.00% | ~476 |
 | Mobilizer | 30.00% | ~476 |
 | Untouchable | 29.00% | ~460 |
 | Archivist | 29.00% | ~460 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.90% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,586 (Ranked 244)  
-Completed: 7 (0.44%) (Ranked 218)  
+Completed: 7 (0.44%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

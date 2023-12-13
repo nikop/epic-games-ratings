@@ -6,7 +6,7 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
-  "Ranking_EOS_Completed": 270,
+  "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
@@ -11913,7 +11913,7 @@
       "Count": 852
     }
   ],
-  "EOS_Progressed": 304265,
+  "EOS_Progressed": 304266,
   "EOS_Completed": 525,
   "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 3,
@@ -37228,6 +37228,11 @@
       "Time": "2023-12-13T01:53:50.5026326+00:00",
       "NumProgressed": 304265,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-13T02:30:59.8539382+00:00",
+      "NumProgressed": 304266,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37239,7 +37244,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48682
+      "UsersEstimate": 48683
     },
     {
       "ID": "PFA_10",
@@ -37583,7 +37588,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39554
+      "UsersEstimate": 39555
     },
     {
       "ID": "PFA_9",
@@ -37591,14 +37596,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30426
+      "UsersEstimate": 30427
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304265,
+      "Progressed": 304266,
       "Completed": 525
     }
   ],
@@ -37606,8 +37611,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-13T00:00:12.9303426+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:53:50.5026323+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:30:59.8539375+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:48:13.8743789+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:53:50.5027777+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:25:29.8287462+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:30:59.8540493+00:00"
 }

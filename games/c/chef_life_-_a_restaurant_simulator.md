@@ -46,7 +46,7 @@
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 732 (Ranked 286)  
-Completed: 0 (0.00%) (Ranked 372)  
+Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

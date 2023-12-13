@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,300 |
+| Sowwy! | 36.00% | ~87,301 |
 | Alt+F4 | 9.00% | ~21,825 |
 | Where's that freaking Dwarf? | 8.00% | ~19,400 |
 | Déjà vu | 7.00% | ~16,975 |
@@ -47,11 +47,11 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,425 |
 | Lëgal Legend | 0.90% | ~2,183 |
 | We come in peace | 0.80% | ~1,940 |
-| An old poacher makes the best gamekeeper | 0.70% | ~1,697 |
+| An old poacher makes the best gamekeeper | 0.70% | ~1,698 |
 | Holistic Adventuring Party | 0.60% | ~1,455 |
 | Law and Order | 0.60% | ~1,455 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,212 |
-| It's been a hard day's night | 0.50% | ~1,212 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,213 |
+| It's been a hard day's night | 0.50% | ~1,213 |
 | Friendly fire | 0.40% | ~970 |
 | I'd rather... Just... Sing! | 0.40% | ~970 |
 | The number of the counting shalt be 7 | 0.30% | ~728 |
@@ -68,35 +68,35 @@ Number of Ratings: 118  (23.09.2022)
 | Death is for wimps | 0.20% | ~485 |
 | Super-Ultra-Lydian | 0.20% | ~485 |
 | Demisemiquaver | 0.20% | ~485 |
-| Necrophilia | 0.10% | ~242 |
-| He’s alive! Aliiiive! | 0.10% | ~242 |
-| Restless night | 0.10% | ~242 |
-| King of the Arena | 0.10% | ~242 |
-| Finally free | 0.10% | ~242 |
-| Hoarding | 0.10% | ~242 |
-| Staff cut | 0.10% | ~242 |
-| Legendary brew | 0.10% | ~242 |
-| Elite Adventurers | 0.10% | ~242 |
-| Take your time back in time | 0.10% | ~242 |
-| Egghead | 0.10% | ~242 |
-| A broken clock… | 0.10% | ~242 |
-| Sleep schedule mastery | 0.10% | ~242 |
-| Cute Dungeon | 0.10% | ~242 |
-| Mystical Dungeon | 0.10% | ~242 |
-| Gloomy Dungeon | 0.10% | ~242 |
-| Power struggle | 0.10% | ~242 |
-| Hit snooze | 0.10% | ~242 |
-| Minmaxer | 0.10% | ~242 |
-| Iron Golems Tamer | 0.10% | ~242 |
-| And they lived happily ever after... | 0.10% | ~242 |
-| Star-crossed lovers | 0.10% | ~242 |
-| Pyrrhic victory | 0.10% | ~242 |
-| Lord of the Drunks | 0.10% | ~242 |
-| Dumb and dumber | 0.10% | ~242 |
-| Dwarf Candy | 0.10% | ~242 |
+| Necrophilia | 0.10% | ~243 |
+| He’s alive! Aliiiive! | 0.10% | ~243 |
+| Restless night | 0.10% | ~243 |
+| King of the Arena | 0.10% | ~243 |
+| Finally free | 0.10% | ~243 |
+| Hoarding | 0.10% | ~243 |
+| Staff cut | 0.10% | ~243 |
+| Legendary brew | 0.10% | ~243 |
+| Elite Adventurers | 0.10% | ~243 |
+| Take your time back in time | 0.10% | ~243 |
+| Egghead | 0.10% | ~243 |
+| A broken clock… | 0.10% | ~243 |
+| Sleep schedule mastery | 0.10% | ~243 |
+| Cute Dungeon | 0.10% | ~243 |
+| Mystical Dungeon | 0.10% | ~243 |
+| Gloomy Dungeon | 0.10% | ~243 |
+| Power struggle | 0.10% | ~243 |
+| Hit snooze | 0.10% | ~243 |
+| Minmaxer | 0.10% | ~243 |
+| Iron Golems Tamer | 0.10% | ~243 |
+| And they lived happily ever after... | 0.10% | ~243 |
+| Star-crossed lovers | 0.10% | ~243 |
+| Pyrrhic victory | 0.10% | ~243 |
+| Lord of the Drunks | 0.10% | ~243 |
+| Dumb and dumber | 0.10% | ~243 |
+| Dwarf Candy | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,500 (Ranked 63)  
-Completed: 7 (0.00%) (Ranked 372)  
+Progressed: 242,503 (Ranked 63)  
+Completed: 7 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,7 +291,7 @@ Completed: 7 (0.00%) (Ranked 372)
 | 2023-12-10 | 242,215 | 7 |
 | 2023-12-11 | 242,333 | 7 |
 | 2023-12-12 | 242,492 | 7 |
-| 2023-12-13 | 242,500 | 7 |
+| 2023-12-13 | 242,503 | 7 |
 ## Awards
 Max (Character Customization): 246  (Ranked 272)  
 Sum: 518 (Ranked 325)  

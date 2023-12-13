@@ -5,13 +5,13 @@ Rating: 4.28 (Ranked 864)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,938 |
+| Corner Clout | 46.00% | ~163,939 |
 | Copacetic Coordination | 16.00% | ~57,022 |
 | Fronting the Money | 15.00% | ~53,458 |
-| The Dawn of Automation | 14.00% | ~49,894 |
-| Extraordinary Logistics | 14.00% | ~49,894 |
-| Dirty Money | 13.00% | ~46,330 |
-| Family First | 13.00% | ~46,330 |
+| The Dawn of Automation | 14.00% | ~49,895 |
+| Extraordinary Logistics | 14.00% | ~49,895 |
+| Dirty Money | 13.00% | ~46,331 |
+| Family First | 13.00% | ~46,331 |
 | Cleaning House | 12.00% | ~42,767 |
 | Room in the Back | 12.00% | ~42,767 |
 | Beating the Heat | 11.00% | ~39,203 |
@@ -29,13 +29,13 @@ Rating: 4.28 (Ranked 864)
 | Wise Head | 6.00% | ~21,383 |
 | Show ‘em the Sugar | 6.00% | ~21,383 |
 | Killing Them Softly | 6.00% | ~21,383 |
-| Street Knowledge | 5.00% | ~17,819 |
-| Oh Captain | 5.00% | ~17,819 |
-| Branching Out | 5.00% | ~17,819 |
-| Improvement Missions | 5.00% | ~17,819 |
-| Opportunity Knocked | 5.00% | ~17,819 |
-| City of Big Shoulders | 5.00% | ~17,819 |
-| Mission Mastery | 5.00% | ~17,819 |
+| Street Knowledge | 5.00% | ~17,820 |
+| Oh Captain | 5.00% | ~17,820 |
+| Branching Out | 5.00% | ~17,820 |
+| Improvement Missions | 5.00% | ~17,820 |
+| Opportunity Knocked | 5.00% | ~17,820 |
+| City of Big Shoulders | 5.00% | ~17,820 |
+| Mission Mastery | 5.00% | ~17,820 |
 | Considerable Clams | 4.00% | ~14,256 |
 | Gin Joint | 4.00% | ~14,256 |
 | An Affront to the Enemy | 4.00% | ~14,256 |
@@ -61,7 +61,7 @@ Rating: 4.28 (Ranked 864)
 | Cat’s Meow Clubs | 1.00% | ~3,564 |
 | Determined Deliveries | 1.00% | ~3,564 |
 | Stepping It Up | 1.00% | ~3,564 |
-| Crossing Over | 0.90% | ~3,207 |
+| Crossing Over | 0.90% | ~3,208 |
 | Boots in the Ground | 0.80% | ~2,851 |
 | Getting Fancy | 0.80% | ~2,851 |
 | Still Dreaming | 0.50% | ~1,782 |
@@ -86,8 +86,8 @@ Rating: 4.28 (Ranked 864)
 | High Pillow | 0.10% | ~356 |
 | Station Master | 0.10% | ~356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 356,388 (Ranked 49)  
-Completed: 7 (0.00%) (Ranked 372)  
+Progressed: 356,390 (Ranked 49)  
+Completed: 7 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -323,7 +323,7 @@ Completed: 7 (0.00%) (Ranked 372)
 | 2023-12-10 | 356,139 | 7 |
 | 2023-12-11 | 356,266 | 7 |
 | 2023-12-12 | 356,376 | 7 |
-| 2023-12-13 | 356,388 | 7 |
+| 2023-12-13 | 356,390 | 7 |
 ## Awards
 Max (Great for Beginners): 51  (Ranked 437)  
 Sum: 249 (Ranked 384)  

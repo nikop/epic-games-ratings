@@ -6,9 +6,9 @@
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 67,
-  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -719,9 +719,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 237339,
+  "EOS_Progressed": 237340,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1110,
+  "EOS_NewPlayers": 1108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17189,6 +17189,11 @@
       "Time": "2023-12-13T01:57:57.0451014+00:00",
       "NumProgressed": 237339,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T02:34:15.895854+00:00",
+      "NumProgressed": 237340,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -17385,7 +17390,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33227
+      "UsersEstimate": 33228
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -17472,7 +17477,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 237339,
+      "Progressed": 237340,
       "Completed": 0
     }
   ],
@@ -17480,8 +17485,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-13T01:51:01.3924785+00:00",
-  "LastChanged_Achievements": "2023-12-13T01:57:57.0451011+00:00",
+  "LastChanged_Achievements": "2023-12-13T02:34:15.8958538+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:08.4919895+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:51:01.392479+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:57:57.045195+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:26:49.7609663+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:34:15.8959311+00:00"
 }

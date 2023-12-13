@@ -2,9 +2,9 @@
   "ID": "85189f7cf7a64f86aa6aa91d81d36c08",
   "Name": "Borderlands: The Handsome Collection",
   "Ranking_EOS_Progress": 792,
-  "Ranking_EOS_Completed": 372,
+  "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:30.1785525+00:00",
-  "LastUpdate_Ratings": "2023-12-13T01:45:55.8531602+00:00",
-  "LastUpdate_Achievements": "2023-12-13T01:57:08.1626995+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:21:54.1192956+00:00",
+  "LastUpdate_Achievements": "2023-12-13T02:33:05.6923173+00:00"
 }
