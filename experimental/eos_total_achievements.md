@@ -36,6 +36,7 @@
 | [Sir Whoopass - Immortal Death](../games/s/sir_whoopass_-_immortal_death.md) | 82 | 1,000 |
 | [The Crackpet Show: Happy Tree Friends Edition](../games/a/ab4adb59faed46819e63d82b57197b2b.md) | 82 | 1,000 |
 | [Delivery from the Pain](../games/d/delivery_from_the_pain.md) | 81 | 1,000 |
+| [Deus Ex - Mankind Divided](../games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 81 | 1,400 |
 | [Astrea Six Sided Oracles](../games/a/astrea_six_sided_oracles.md) | 80 | 1,000 |
 | [City of Gangsters](../games/c/city_of_gangsters.md) | 80 | 1,000 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 |
@@ -81,7 +82,7 @@
 | [Punch Club 2: Fast Forward](../games/p/punch_club_2__fast_forward.md) | 66 | 1,000 |
 | [Redfall](../games/r/redfall.md) | 66 | 1,000 |
 | [Zombie Army 4: Dead War](../games/z/zombie_army_4__dead_war.md) | 66 | 1,000 |
-| [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
+| [Dying Light 2: Stay Human - Winter Tales Edition](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [Warhammer 40,000: Rogue Trader](../games/c/cb88aea9aed742e4a911a65c4898d857.md) | 65 | 1,000 |
 | [Darksiders III](../games/d/darksiders_iii.md) | 64 | 1,000 |
 | [Deadwater Saloon](../games/0/0011a38fecb741dc9923879a4f490d42.md) | 64 | 1,000 |
@@ -328,6 +329,7 @@
 | [The Crown of Wu](../games/t/the_crown_of_wu.md) | 37 | 1,000 |
 | [The Dragoness Command Of The Flame](../games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | 37 | 1,000 |
 | [The Smurfs 2 - The Prisoner of the Green Stone](../games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 37 | 1,000 |
+| [Thief](../games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 37 | 1,000 |
 | [Tintin Reporter - Cigars of the Pharaoh](../games/t/tintin_reporter_-_cigars_of_the_pharaoh.md) | 37 | 1,000 |
 | [Warhammer Age of Sigmar: Realms of Ruin](../games/0/0f4a57443f904107818acfc2068704f9.md) | 37 | 1,000 |
 | [Your Computer Might Be At Risk](../games/0/04db5160b1fa4fb9acd8f8603f65e12d.md) | 37 | 1,000 |

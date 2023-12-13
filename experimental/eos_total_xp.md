@@ -20,6 +20,7 @@
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 17 | 1,440 |
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 60 | 1,400 |
 | [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 40 | 1,400 |
+| [Deus Ex - Mankind Divided](../games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 81 | 1,400 |
 | [Full Moon Rush](../games/f/full_moon_rush.md) | 17 | 1,400 |
 | [Probo Rush](../games/p/probo_rush.md) | 17 | 1,400 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 |
@@ -34,7 +35,7 @@
 | [Remnant 2](../games/r/remnant_2.md) | 55 | 1,250 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
-| [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
+| [Dying Light 2: Stay Human - Winter Tales Edition](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [GRIME](../games/g/grime.md) | 45 | 1,200 |
 | [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 57 | 1,200 |
 | [Stray Blade](../games/s/stray_blade.md) | 52 | 1,200 |
@@ -776,6 +777,7 @@
 | [Them and Us](../games/t/them_and_us.md) | 40 | 1,000 |
 | [Them's Fightin' Herds](../games/t/them's_fightin'_herds.md) | 28 | 1,000 |
 | [There Is No Game - Wrong Dimension](../games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 34 | 1,000 |
+| [Thief](../games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 37 | 1,000 |
 | [Three Kingdoms The Last Warlord](../games/t/three_kingdoms_the_last_warlord.md) | 192 | 1,000 |
 | [Thunder Ray](../games/3/3c59565688c94fa2807baaa19ed62478.md) | 10 | 1,000 |
 | [Time Loader](../games/t/time_loader.md) | 29 | 1,000 |

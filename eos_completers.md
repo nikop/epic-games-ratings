@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 21.84% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 21.83% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -68,8 +68,8 @@
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 69 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.68% |
+| 69 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.77% |
+| 70 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 73 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.50% |
@@ -127,11 +127,11 @@
 | 125 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.47% |
 | 126 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 127 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
-| 128 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 128 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
+| 129 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 130 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.07% |
-| 131 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 131 | [Somerville](games/s/somerville.md) | 1.92% |
+| 132 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.89% |
 | 133 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.88% |
 | 134 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.87% |
 | 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.86% |
@@ -165,9 +165,9 @@
 | 163 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.18% |
 | 163 | [Lemon Cake](games/l/lemon_cake.md) | 1.18% |
 | 165 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.14% |
-| 166 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 1.13% |
+| 166 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 1.12% |
 | 167 | [Adios](games/a/adios.md) | 1.09% |
-| 167 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 1.09% |
+| 168 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 1.08% |
 | 169 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
 | 170 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
 | 170 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |
@@ -183,7 +183,7 @@
 | 181 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.86% |
 | 182 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
 | 182 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
-| 184 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 184 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 185 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.80% |
 | 186 | [Infindustry](games/i/infindustry.md) | 0.79% |
 | 187 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
@@ -300,16 +300,16 @@
 | 294 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.10% |
 | 294 | [Riverbond](games/r/riverbond.md) | 0.10% |
 | 294 | [Supraland](games/s/supraland.md) | 0.10% |
-| 301 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.09% |
 | 301 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
 | 301 | [Port Royale 4](games/p/port_royale_4.md) | 0.09% |
 | 301 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 301 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
 | 301 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 307 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.08% |
-| 307 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.08% |
-| 307 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.08% |
-| 307 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.08% |
+| 306 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.08% |
+| 306 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.08% |
+| 306 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.08% |
+| 306 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.08% |
+| 306 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.08% |
 | 311 | [ATOM RPG](games/a/atom_rpg.md) | 0.07% |
 | 311 | [MythForce](games/m/mythforce.md) | 0.07% |
 | 311 | [Saints Row](games/s/saints_row.md) | 0.07% |
@@ -351,7 +351,7 @@
 | 342 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 350 | [Battlefield™ 2042](games/b/battlefield™_2042.md) | 0.01% |
 | 350 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 350 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 350 | [Dying Light 2: Stay Human - Winter Tales Edition](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 350 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 0.01% |
 | 350 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
 | 350 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.01% |
@@ -462,6 +462,7 @@
 | 373 | [DESERTED](games/0/0ee52c80fe5e48a48f5c0d80fa9436cc.md) | 0.00% |
 | 373 | [Desktop Girlfriend NEO](games/e/e9e51dd0d086464a9a794d9cfa7da123.md) | 0.00% |
 | 373 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.00% |
+| 373 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 0.00% |
 | 373 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 0.00% |
 | 373 | [Dice Legacy](games/d/dice_legacy.md) | 0.00% |
 | 373 | [Dinobreak](games/5/59b1a57188fb429db7bf5afea8e70d88.md) | 0.00% |
@@ -793,4 +794,4 @@
 | 373 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 373 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 373 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,727 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,729 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
