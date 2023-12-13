@@ -1,7 +1,7 @@
 | Game | Total Achievements | Total XP |
 | ---- | ------------------ | -------- |
 | [PAYDAY 2](../games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,328 | 15,000 |
-| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 532 | 2,660 |
+| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 546 | 2,730 |
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 363 | 5,330 |
 | [Old World](../games/o/old_world.md) | 342 | 3,360 |
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 232 | 5,585 |
