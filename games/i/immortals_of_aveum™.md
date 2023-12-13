@@ -1,32 +1,32 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.05 (Ranked 1,001)  
+Rating: 4.05 (Ranked 1,002)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 92.00% | ~305 |
-| Battlefields Have Memories | 88.00% | ~292 |
-| Enlisted | 86.00% | ~286 |
-| Maybe Engage a Little | 82.00% | ~272 |
+| Unforeseen | 92.00% | ~306 |
+| Battlefields Have Memories | 88.00% | ~293 |
+| Enlisted | 85.00% | ~283 |
+| Maybe Engage a Little | 81.00% | ~270 |
 | No More Names | 71.00% | ~236 |
 | Initiate | 58.00% | ~193 |
-| Thrada-Kul | 54.00% | ~179 |
-| Gravity-Challenged Rocks | 44.00% | ~146 |
-| Soldier | 39.00% | ~129 |
-| All the Major Food Groups | 38.00% | ~126 |
-| Beggars Would Ride | 35.00% | ~116 |
-| Control is an Illusion | 32.00% | ~106 |
+| Thrada-Kul | 54.00% | ~180 |
+| Gravity-Challenged Rocks | 44.00% | ~147 |
+| Soldier | 39.00% | ~130 |
+| All the Major Food Groups | 38.00% | ~127 |
+| Beggars Would Ride | 35.00% | ~117 |
+| Control is an Illusion | 32.00% | ~107 |
 | Socialite | 31.00% | ~103 |
 | The Means to Save It | 28.00% | ~93 |
-| Resilience to Sin | 26.00% | ~86 |
+| Resilience to Sin | 26.00% | ~87 |
 | A Familiar Nest | 25.00% | ~83 |
 | Periapt Alizarin | 24.00% | ~80 |
-| Geas Aristeya | 23.00% | ~76 |
+| Geas Aristeya | 23.00% | ~77 |
 | A Perfect Cycle | 22.00% | ~73 |
-| Recruit | 20.00% | ~66 |
+| Recruit | 20.00% | ~67 |
 | Armsman | 18.00% | ~60 |
-| Lights Army | 14.00% | ~46 |
+| Lights Army | 14.00% | ~47 |
 | Periapt Cerulean | 13.00% | ~43 |
 | Good Boy | 13.00% | ~43 |
 | Periapt Viridian | 10.00% | ~33 |
@@ -53,7 +53,7 @@ Rating: 4.05 (Ranked 1,001)
 | Out of Time | 0.60% | ~2 |
 | Fowl Play | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 332 (Ranked 349)  
+Progressed: 333 (Ranked 349)  
 Completed: 2 (0.60%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.60%) (Ranked 195)
 | 2023-12-09 | 329 | 1 |
 | 2023-12-10 | 331 | 1 |
 | 2023-12-11 | 331 | 2 |
-| 2023-12-13 | 332 | 2 |
+| 2023-12-13 | 333 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -32,6 +32,7 @@ Rating: 4.62 (Ranked 372)
 | Chaos Surge | 2.00% | ~112 |
 | Spoils of War | 2.00% | ~112 |
 | Arch Mage | 1.00% | ~56 |
+| The Creator | 1.00% | ~56 |
 | Crimson Caldera | 1.00% | ~56 |
 | Preparation Is Everything | 1.00% | ~56 |
 | Here be Dragons | 1.00% | ~56 |
@@ -41,7 +42,6 @@ Rating: 4.62 (Ranked 372)
 | Seal the Deal | 1.00% | ~56 |
 | A Conqueror's Cohort | 1.00% | ~56 |
 | Dawn of the Dread | 1.00% | ~56 |
-| The Creator | 0.90% | ~50 |
 | The Eternal Court | 0.90% | ~50 |
 | Lord of Chaos | 0.80% | ~45 |
 | Eternal Lord | 0.80% | ~45 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 372)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,588 (Ranked 190)  
+Progressed: 5,589 (Ranked 190)  
 Completed: 7 (0.13%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 7 (0.13%) (Ranked 280)
 | 2023-12-10 | 5,585 | 7 |
 | 2023-12-11 | 5,586 | 7 |
 | 2023-12-12 | 5,587 | 7 |
-| 2023-12-13 | 5,588 | 7 |
+| 2023-12-13 | 5,589 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 477)  
 Sum: 92 (Ranked 459)  

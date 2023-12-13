@@ -11,12 +11,12 @@ Number of Ratings: 368  (23.09.2022)
 | Friends of sorts | 33.00% | ~5,614 |
 | Yet another secret | 33.00% | ~5,614 |
 | Let there be darkness | 31.00% | ~5,274 |
-| End of Book One | 29.00% | ~4,933 |
+| End of Book One | 29.00% | ~4,934 |
 | Garden of Eden | 24.00% | ~4,083 |
 | Wannabe knight | 23.00% | ~3,913 |
 | Full house | 23.00% | ~3,913 |
 | Help an old friend | 21.00% | ~3,573 |
-| Two of us | 20.00% | ~3,402 |
+| Two of us | 20.00% | ~3,403 |
 | Negotiation skills | 18.00% | ~3,062 |
 | Workers' union | 18.00% | ~3,062 |
 | End of Book Two | 18.00% | ~3,062 |
@@ -24,7 +24,7 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,382 |
 | Jack was here! | 14.00% | ~2,382 |
 | Exterminator | 13.00% | ~2,212 |
-| Whodunnit | 12.00% | ~2,041 |
+| Whodunnit | 12.00% | ~2,042 |
 | Good midwife | 10.00% | ~1,701 |
 | Friar Tuck | 10.00% | ~1,701 |
 | First profit | 10.00% | ~1,701 |
@@ -41,14 +41,14 @@ Number of Ratings: 368  (23.09.2022)
 | Staring contest champion | 5.00% | ~851 |
 | Lone wolf | 5.00% | ~851 |
 | Vox Populi | 5.00% | ~851 |
-| Revenge | 4.00% | ~680 |
-| Countess Aliena | 4.00% | ~680 |
+| Revenge | 4.00% | ~681 |
+| Countess Aliena | 4.00% | ~681 |
 | Care, like a brother cares | 3.00% | ~510 |
 | A brush with death | 3.00% | ~510 |
 | Self-defense | 3.00% | ~510 |
 | Boy of mystery | 2.00% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,012 (Ranked 149)  
+Progressed: 17,013 (Ranked 149)  
 Completed: 119 (0.70%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 119 (0.70%) (Ranked 189)
 | 2023-12-10 | 16,962 | 116 |
 | 2023-12-11 | 16,976 | 116 |
 | 2023-12-12 | 17,002 | 119 |
-| 2023-12-13 | 17,012 | 119 |
+| 2023-12-13 | 17,013 | 119 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 318)  
 Sum: 199 (Ranked 406)  

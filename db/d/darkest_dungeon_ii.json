@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9654,10 +9654,10 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126589,
-  "EOS_Completed": 2,
-  "EOS_NewPlayers": 910,
-  "EOS_NewCompleters": 0,
+  "EOS_Progressed": 126605,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 918,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
@@ -34844,6 +34844,11 @@
       "Time": "2023-12-13T16:09:35.8302303+00:00",
       "NumProgressed": 126589,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T17:09:09.5313229+00:00",
+      "NumProgressed": 126605,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35021,9 +35026,9 @@
       "ID": "combat_kill_fanatics",
       "SetID": "64l4lke",
       "Name": "Deprogramming",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 760
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -35085,9 +35090,9 @@
       "ID": "combat_kill_pillagers",
       "SetID": "64l4lke",
       "Name": "Reverse Banditry",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 633
     },
     {
       "ID": "combat_kill_shambler",
@@ -35125,9 +35130,9 @@
       "ID": "combat_party_wipe_any_run_boss",
       "SetID": "64l4lke",
       "Name": "It Happens",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 760
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35391,7 +35396,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "combat_kill_collector",
@@ -35437,9 +35442,9 @@
       "ID": "hero_story_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Ploughshares to Swords",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35486,21 +35491,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126589,
-      "Completed": 2
+      "Progressed": 126605,
+      "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1458,
+      "Progressed": 1474,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-13T16:00:37.238998+00:00",
-  "LastChanged_Achievements": "2023-12-13T16:09:35.8302299+00:00",
+  "LastChanged_Achievements": "2023-12-13T17:09:09.5313227+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:00:37.2389989+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:09:35.8304065+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:59:39.2664827+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:09:09.5314793+00:00"
 }

@@ -33,10 +33,10 @@
 | Into the Lion's Den | 9.00% | ~6 |
 | Bold and Bossy | 7.00% | ~5 |
 | Sky High Fighter | 7.00% | ~5 |
+| No Mercy | 6.00% | ~4 |
 | The Gang prevails | 6.00% | ~4 |
 | Out of the ring | 6.00% | ~4 |
 | King of the Iron Fist | 4.00% | ~3 |
-| No Mercy | 4.00% | ~3 |
 | Power of Friendship! | 3.00% | ~2 |
 | Five of Friends | 3.00% | ~2 |
 | Only Child | 3.00% | ~2 |

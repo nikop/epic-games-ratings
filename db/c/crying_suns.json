@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -667,9 +667,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 472187,
+  "EOS_Progressed": 472188,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25207,6 +25207,11 @@
       "Time": "2023-12-13T16:10:53.3029887+00:00",
       "NumProgressed": 472187,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-13T17:10:11.6075875+00:00",
+      "NumProgressed": 472188,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25306,7 +25311,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311643
+      "UsersEstimate": 311644
     },
     {
       "ID": "achievement_story_landa",
@@ -25394,7 +25399,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94437
+      "UsersEstimate": 94438
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -25642,7 +25647,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207762
+      "UsersEstimate": 207763
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -25666,7 +25671,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56662
+      "UsersEstimate": 56663
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -25849,21 +25854,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16121,
+      "Progressed": 16122,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472187,
+      "Progressed": 472188,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-12T20:57:25.1414435+00:00",
-  "LastChanged_Achievements": "2023-12-13T16:10:53.3029882+00:00",
+  "LastChanged_Achievements": "2023-12-13T17:10:11.6075872+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.6716506+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:58:33.9593711+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:10:53.3031942+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:58:04.8399551+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:10:11.6077478+00:00"
 }

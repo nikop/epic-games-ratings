@@ -2,10 +2,10 @@
   "ID": "a0a1f3864fe74447bcd8511abe8a2745",
   "Name": "Love Money Rock-n-Roll",
   "ProductSlug": "love-money-rocknroll-b2e684",
-  "Ranking_EOS_Progress": 795,
+  "Ranking_EOS_Progress": 796,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-08-03T21:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-04T08:03:34.1557119+00:00",
-  "LastChanged_Achievements": "2023-12-13T16:08:47.8189701+00:00",
+  "LastChanged_Achievements": "2023-12-13T17:08:12.2524533+00:00",
   "LastUpdate_AppInfo": "2023-12-11T08:56:58.2302382+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:59:19.3929502+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:08:47.8189738+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:58:41.0855764+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:08:12.2524555+00:00"
 }

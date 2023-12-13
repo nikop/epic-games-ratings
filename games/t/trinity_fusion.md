@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Titles Mean Nothing | 100.00% | ~1 |
 | Aerial Ace | 0.00% | ~0 |
 | End of the World(s) | 0.00% | ~0 |
 | Ophthalmologist | 0.00% | ~0 |
@@ -45,7 +46,6 @@
 | Doombringer | 0.00% | ~0 |
 | Karate Kid With a Sword | 0.00% | ~0 |
 | Slayer on Duty | 0.00% | ~0 |
-| Titles Mean Nothing | 0.00% | ~0 |
 | Void-Charter | 0.00% | ~0 |
 | Unlimited Power | 0.00% | ~0 |
 | Heavily Augmented | 0.00% | ~0 |

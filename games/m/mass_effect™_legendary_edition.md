@@ -17,8 +17,8 @@
 | Turian Ally | 53.00% | ~844 |
 | Medal of Honor | 52.00% | ~828 |
 | Meritorious Service Medal | 52.00% | ~828 |
+| Soldier | 51.00% | ~812 |
 | Charismatic | 51.00% | ~812 |
-| Soldier | 50.00% | ~796 |
 | Asari Ally | 48.00% | ~764 |
 | Soldier Ally | 47.00% | ~748 |
 | Medal of Exploration III | 46.00% | ~732 |
@@ -51,13 +51,13 @@
 | Shopaholic | 33.00% | ~525 |
 | The Assassin | 32.00% | ~509 |
 | The Justicar | 32.00% | ~509 |
+| Battlemaster | 32.00% | ~509 |
 | Catharsis | 32.00% | ~509 |
 | Ghost of the Father | 32.00% | ~509 |
 | The Cure | 32.00% | ~509 |
 | Revenge! | 32.00% | ~509 |
 | Focused | 31.00% | ~494 |
 | Completionist | 31.00% | ~494 |
-| Battlemaster | 31.00% | ~494 |
 | Fade Away | 31.00% | ~494 |
 | Big Game Hunter | 31.00% | ~494 |
 | Heart of Darkness | 31.00% | ~494 |
@@ -117,8 +117,8 @@
 | Hijacker | 10.00% | ~159 |
 | Always Prepared | 10.00% | ~159 |
 | Lift Mastery | 10.00% | ~159 |
+| Insanity I | 6.00% | ~96 |
 | Singularity Mastery | 6.00% | ~96 |
-| Insanity I | 5.00% | ~80 |
 | Damping Specialist | 5.00% | ~80 |
 | Incineration Specialist | 5.00% | ~80 |
 | Shield Breaker | 4.00% | ~64 |

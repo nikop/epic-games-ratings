@@ -5,31 +5,31 @@ Rating: 4.50 (Ranked 599)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,585 |
-| For Saw Gerrera | 98.00% | ~9,488 |
-| Grab Some Seat | 92.00% | ~8,907 |
-| Can You Pet the Bogling? | 87.00% | ~8,423 |
-| The Past Made Present | 84.00% | ~8,133 |
+| Rooftop Duel | 99.00% | ~9,586 |
+| For Saw Gerrera | 98.00% | ~9,489 |
+| Grab Some Seat | 92.00% | ~8,908 |
+| Can You Pet the Bogling? | 87.00% | ~8,424 |
+| The Past Made Present | 84.00% | ~8,134 |
 | Survivors, We Adapt | 80.00% | ~7,746 |
-| They Never Saw It Coming | 78.00% | ~7,552 |
-| Among the Masters | 78.00% | ~7,552 |
+| They Never Saw It Coming | 78.00% | ~7,553 |
+| Among the Masters | 78.00% | ~7,553 |
 | Who Gives a Puck | 74.00% | ~7,165 |
-| For the Path | 67.00% | ~6,487 |
-| Now, This Isn't Podracing | 66.00% | ~6,390 |
-| Mirror Match | 65.00% | ~6,293 |
+| For the Path | 67.00% | ~6,488 |
+| Now, This Isn't Podracing | 66.00% | ~6,391 |
+| Mirror Match | 65.00% | ~6,294 |
 | Skywalker | 63.00% | ~6,100 |
 | Out of Bedlam | 63.00% | ~6,100 |
-| Cleaning Up | 55.00% | ~5,325 |
-| Tanalorr Bound | 55.00% | ~5,325 |
-| Tragedy | 53.00% | ~5,131 |
-| Kitted Out | 53.00% | ~5,131 |
+| Cleaning Up | 55.00% | ~5,326 |
+| Tanalorr Bound | 55.00% | ~5,326 |
+| Tragedy | 53.00% | ~5,132 |
+| Kitted Out | 53.00% | ~5,132 |
 | At the Precipice | 51.00% | ~4,938 |
-| Into the Abyss | 50.00% | ~4,841 |
-| Hey, Luke At Us | 50.00% | ~4,841 |
+| Into the Abyss | 50.00% | ~4,842 |
+| Hey, Luke At Us | 50.00% | ~4,842 |
 | A Place You Could Call Home | 47.00% | ~4,551 |
 | Riposte | 47.00% | ~4,551 |
 | Greezy Money | 45.00% | ~4,357 |
-| Catch! | 42.00% | ~4,066 |
+| Catch! | 42.00% | ~4,067 |
 | They're Probably Fine | 40.00% | ~3,873 |
 | Han Slowlo | 39.00% | ~3,776 |
 | There Is No Try | 39.00% | ~3,776 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 599)
 | Splurgle | 3.00% | ~290 |
 | Pinpoint | 2.00% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,682 (Ranked 169)  
+Progressed: 9,683 (Ranked 169)  
 Completed: 58 (0.60%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 58 (0.60%) (Ranked 195)
 | 2023-12-10 | 9,581 | 57 |
 | 2023-12-11 | 9,626 | 57 |
 | 2023-12-12 | 9,659 | 57 |
-| 2023-12-13 | 9,682 | 58 |
+| 2023-12-13 | 9,683 | 58 |
 ## Awards
 Max (Great Boss Battles): 3,455  (Ranked 92)  
 Sum: 5,402 (Ranked 136)  

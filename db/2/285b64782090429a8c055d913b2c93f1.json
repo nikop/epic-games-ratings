@@ -4,8 +4,8 @@
   "ProductSlug": "gladiator-blades-of-fury-1a745b",
   "Ranking_EOS_Progress": 677,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-30T18:30:00+00:00",
     "PcReleaseDate": "2019-03-07T18:30:00+00:00",
@@ -101,8 +101,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-27T19:03:22.4929118+00:00",
-  "LastChanged_Achievements": "2023-12-13T16:08:32.0110726+00:00",
+  "LastChanged_Achievements": "2023-12-13T17:08:00.0604459+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:05.1972491+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:59:01.5971804+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:08:32.0110808+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:58:26.1407635+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:08:00.06045+00:00"
 }

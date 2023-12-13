@@ -121,7 +121,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1141,
+  "EOS_Progressed": 1142,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 2,
@@ -3901,6 +3901,11 @@
       "Time": "2023-12-13T16:04:02.2065027+00:00",
       "NumProgressed": 1141,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-13T17:03:44.2007562+00:00",
+      "NumProgressed": 1142,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 28,
@@ -3920,7 +3925,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "MQ02_1",
@@ -3928,7 +3933,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "MQ02_2",
@@ -3944,7 +3949,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "MQ02_4",
@@ -3952,7 +3957,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "MQ03_1",
@@ -3960,7 +3965,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "MQ03_2",
@@ -3968,7 +3973,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "MQ03_3",
@@ -3992,7 +3997,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "MQ04_1",
@@ -4048,7 +4053,7 @@
       "Name": "Knives Out",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "MQ06_1",
@@ -4056,7 +4061,7 @@
       "Name": "Brain Food",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "MQ06_2",
@@ -4080,7 +4085,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "MQ07_1",
@@ -4088,7 +4093,7 @@
       "Name": "Read It And Weep",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "MQ07_2",
@@ -4135,7 +4140,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1141,
+      "Progressed": 1142,
       "Completed": 30
     }
   ],
@@ -4143,8 +4148,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-12T11:03:07.9199744+00:00",
-  "LastChanged_Achievements": "2023-12-13T16:04:02.2065023+00:00",
+  "LastChanged_Achievements": "2023-12-13T17:03:44.2007556+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:03:37.4894841+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:04:02.2065517+00:00"
+  "LastUpdate_Ratings": "2023-12-13T17:03:04.4610189+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:03:44.2007969+00:00"
 }

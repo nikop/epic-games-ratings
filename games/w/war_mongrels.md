@@ -8,22 +8,22 @@ Number of Ratings: 34  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 68.00% | ~452 |
 | Cowardice | 62.00% | ~412 |
-| NO LIFE IS WORTH SAVING... | 47.00% | ~312 |
+| NO LIFE IS WORTH SAVING... | 47.00% | ~313 |
 | The Breaking Point | 45.00% | ~299 |
 | Eat Lead! | 45.00% | ~299 |
 | Here Comes the Boom | 42.00% | ~279 |
-| Prospector | 41.00% | ~272 |
+| Prospector | 41.00% | ~273 |
 | Sniper Wolf | 40.00% | ~266 |
-| Treasure Hunter | 38.00% | ~252 |
-| The Motivation | 38.00% | ~252 |
+| Treasure Hunter | 38.00% | ~253 |
+| The Motivation | 38.00% | ~253 |
 | Heroism | 36.00% | ~239 |
 | Collectibles of Chapter I | 34.00% | ~226 |
 | Missing in Action | 34.00% | ~226 |
 | King of Knives | 33.00% | ~219 |
-| Consequences | 32.00% | ~212 |
+| Consequences | 32.00% | ~213 |
 | Opportunities | 31.00% | ~206 |
 | The Horror | 29.00% | ~193 |
-| The Difference | 27.00% | ~179 |
+| The Difference | 27.00% | ~180 |
 | Vengeance | 25.00% | ~166 |
 | It's Just an Accident | 25.00% | ~166 |
 | Broken Hopes | 23.00% | ~153 |
@@ -39,8 +39,8 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter V | 11.00% | ~73 |
 | Tiptoe Around | 10.00% | ~66 |
 | Such is War! | 8.00% | ~53 |
-| Collectibles of Chapter XII | 7.00% | ~46 |
-| Piece of Cake | 7.00% | ~46 |
+| Collectibles of Chapter XII | 7.00% | ~47 |
+| Piece of Cake | 7.00% | ~47 |
 | Collectibles of Chapter VII | 6.00% | ~40 |
 | It Will Rain | 6.00% | ~40 |
 | Not Spill a Drop | 6.00% | ~40 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.20% | ~1 |
 | Challenges of Chapter XII | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664 (Ranked 294)  
+Progressed: 665 (Ranked 294)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-09 | 660 | 0 |
 | 2023-12-10 | 662 | 0 |
 | 2023-12-11 | 663 | 0 |
-| 2023-12-13 | 664 | 0 |
+| 2023-12-13 | 665 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

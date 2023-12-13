@@ -2,10 +2,10 @@
   "ID": "631264786bda409f919dd1db541825a9",
   "Name": "Genkai: Primal Awakening",
   "ProductSlug": "genkai-primal-awakening-06774d",
-  "Ranking_EOS_Progress": 795,
+  "Ranking_EOS_Progress": 796,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-08T03:57:09.2008573+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:59:31.5383721+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:07:26.561449+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:58:50.1259394+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:06:24.0685918+00:00"
 }

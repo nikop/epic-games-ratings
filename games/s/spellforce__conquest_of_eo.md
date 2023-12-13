@@ -36,6 +36,7 @@
 | Defeat Gor | 14.00% | ~6 |
 | Friend of Silver Drift Hollow | 14.00% | ~6 |
 | Friend of Windholme | 14.00% | ~6 |
+| Defeat Uram | 12.00% | ~5 |
 | Lore's Tale | 12.00% | ~5 |
 | Yngrid's Tale | 12.00% | ~5 |
 | The Forge of Regan Gor | 12.00% | ~5 |
@@ -47,7 +48,6 @@
 | Defeat Hokan | 10.00% | ~4 |
 | Defeat Isgrimm | 10.00% | ~4 |
 | Defeat Undergast | 10.00% | ~4 |
-| Defeat Uram | 10.00% | ~4 |
 | Elynn's Tale | 10.00% | ~4 |
 | Mage Teacher | 10.00% | ~4 |
 | Friend of Grey Dusk Vale | 10.00% | ~4 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 522)  
+Progressed: 42 (Ranked 523)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |

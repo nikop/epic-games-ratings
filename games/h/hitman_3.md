@@ -6,42 +6,42 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~628,801 |
-| Death From Above | 45.00% | ~615,132 |
-| Master of the Household | 38.00% | ~519,444 |
-| Death of the Party | 35.00% | ~478,436 |
-| NEXUS-47 | 32.00% | ~437,427 |
-| The Last Tango | 31.00% | ~423,757 |
-| Nightmare Fuel | 30.00% | ~410,088 |
-| The Result of Previous Training | 28.00% | ~382,749 |
-| Tools of the Trade | 28.00% | ~382,749 |
-| Cleared for Field Duty | 27.00% | ~369,079 |
-| Seizing the Opportunity | 26.00% | ~355,409 |
-| Bullet Train | 21.00% | ~287,061 |
-| Stylish Assassin | 20.00% | ~273,392 |
-| Silent Assassin | 14.00% | ~191,374 |
-| Rise Up | 12.00% | ~164,035 |
-| Evil Wine Club | 11.00% | ~150,365 |
-| Console Cowboy | 10.00% | ~136,696 |
-| Last Stop | 10.00% | ~136,696 |
-| A New Profile | 9.00% | ~123,026 |
-| Full House | 9.00% | ~123,026 |
-| Dune Raider | 8.00% | ~109,357 |
-| No Stone Unturned | 8.00% | ~109,357 |
-| Train Surfing | 8.00% | ~109,357 |
+| Unseen Assassin | 46.00% | ~628,808 |
+| Death From Above | 45.00% | ~615,138 |
+| Master of the Household | 38.00% | ~519,450 |
+| Death of the Party | 35.00% | ~478,441 |
+| NEXUS-47 | 32.00% | ~437,432 |
+| The Last Tango | 31.00% | ~423,762 |
+| Nightmare Fuel | 30.00% | ~410,092 |
+| The Result of Previous Training | 28.00% | ~382,753 |
+| Tools of the Trade | 28.00% | ~382,753 |
+| Cleared for Field Duty | 27.00% | ~369,083 |
+| Seizing the Opportunity | 26.00% | ~355,413 |
+| Bullet Train | 21.00% | ~287,065 |
+| Stylish Assassin | 20.00% | ~273,395 |
+| Silent Assassin | 14.00% | ~191,376 |
+| Rise Up | 12.00% | ~164,037 |
+| Evil Wine Club | 11.00% | ~150,367 |
+| Console Cowboy | 10.00% | ~136,697 |
+| Last Stop | 10.00% | ~136,697 |
+| A New Profile | 9.00% | ~123,028 |
+| Full House | 9.00% | ~123,028 |
+| Dune Raider | 8.00% | ~109,358 |
+| No Stone Unturned | 8.00% | ~109,358 |
+| Train Surfing | 8.00% | ~109,358 |
 | Family Feud | 6.00% | ~82,018 |
 | Icebreaker | 6.00% | ~82,018 |
 | Count Down From 47 | 6.00% | ~82,018 |
-| Shortcut Killer | 5.00% | ~68,348 |
-| Stair Master | 5.00% | ~68,348 |
-| Followed the Trails | 5.00% | ~68,348 |
-| Last Call | 5.00% | ~68,348 |
-| Rich Harvest | 5.00% | ~68,348 |
-| Treacherous Architecture | 4.00% | ~54,678 |
-| Upstairs, Downstairs | 4.00% | ~54,678 |
-| The Great Outdoors | 4.00% | ~54,678 |
-| Partied Out | 4.00% | ~54,678 |
-| Surveillance Master | 4.00% | ~54,678 |
+| Shortcut Killer | 5.00% | ~68,349 |
+| Stair Master | 5.00% | ~68,349 |
+| Followed the Trails | 5.00% | ~68,349 |
+| Last Call | 5.00% | ~68,349 |
+| Rich Harvest | 5.00% | ~68,349 |
+| Treacherous Architecture | 4.00% | ~54,679 |
+| Upstairs, Downstairs | 4.00% | ~54,679 |
+| The Great Outdoors | 4.00% | ~54,679 |
+| Partied Out | 4.00% | ~54,679 |
+| Surveillance Master | 4.00% | ~54,679 |
 | Training Escalated | 3.00% | ~41,009 |
 | Keep Your Eyes Peeled | 3.00% | ~41,009 |
 | Warehouse Veteran | 3.00% | ~41,009 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,670 |
 | The Creative Assassin | 0.70% | ~9,569 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,366,959 (Ranked 9)  
+Progressed: 1,366,974 (Ranked 9)  
 Completed: 2,204 (0.16%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,15 +291,15 @@ Completed: 2,204 (0.16%) (Ranked 275)
 | 2023-12-10 | 1,366,239 | 2,200 |
 | 2023-12-11 | 1,366,507 | 2,201 |
 | 2023-12-12 | 1,366,805 | 2,204 |
-| 2023-12-13 | 1,366,959 | 2,204 |
+| 2023-12-13 | 1,366,974 | 2,204 |
 ## Awards
 Max (Diverse Characters): 10,974  (Ranked 37)  
-Sum: 75,063 (Ranked 22)  
+Sum: 75,067 (Ranked 22)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 10,974 |
-| This game is Highly Recommended | 9,850 |
+| This game is Highly Recommended | 9,854 |
 | This game is Extremely Fun | 9,514 |
 | This game has Amazing Storytelling | 9,362 |
 | This game has Amazing Characters | 9,212 |
@@ -660,4 +660,4 @@ Diff (max vs sum): 15
 | 2023-12-10 | 4.78 | - | 10,958 | 74,980 |
 | 2023-12-11 | 4.78 | - | 10,964 | 75,013 |
 | 2023-12-12 | 4.78 | - | 10,974 | 75,053 |
-| 2023-12-13 | 4.78 | - | 10,974 | 75,063 |
+| 2023-12-13 | 4.78 | - | 10,974 | 75,067 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1223,9 +1223,9 @@
       "Count": 137
     }
   ],
-  "EOS_Progressed": 8431,
+  "EOS_Progressed": 8432,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -6078,6 +6078,11 @@
       "Time": "2023-12-13T16:09:25.4666583+00:00",
       "NumProgressed": 8431,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-13T17:09:01.3813192+00:00",
+      "NumProgressed": 8432,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 24,
@@ -6089,7 +6094,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2024
     },
     {
       "ID": "Chatterbox",
@@ -6135,9 +6140,9 @@
       "ID": "FakeGoddessGone",
       "SetID": "97dk767",
       "Name": "False Goddess, Disappear",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 3541
+      "UsersEstimate": 3457
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -6177,7 +6182,7 @@
       "Name": "The Hero Killer",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "LeoniasFall",
@@ -6249,7 +6254,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7841
+      "UsersEstimate": 7842
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -6257,7 +6262,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4131
+      "UsersEstimate": 4132
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -6273,22 +6278,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7082
+      "UsersEstimate": 7083
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8431,
+      "Progressed": 8432,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-13T13:57:30.3285629+00:00",
-  "LastChanged_Achievements": "2023-12-13T16:09:25.4666578+00:00",
+  "LastChanged_Achievements": "2023-12-13T17:09:01.3813189+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:02.7118419+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:58:02.9624885+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:09:25.4666943+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:57:42.9995738+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:09:01.3813554+00:00"
 }

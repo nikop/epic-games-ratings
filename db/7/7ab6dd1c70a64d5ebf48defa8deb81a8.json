@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 265,
+  "EOS_Progressed": 268,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.13,
+  "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -1070,6 +1070,11 @@
       "Time": "2023-12-13T09:09:55.6990779+00:00",
       "NumProgressed": 265,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-13T17:10:07.3670201+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1081,7 +1086,7 @@
       "Name": "Break Out",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_02",
@@ -1127,17 +1132,17 @@
       "ID": "ACH_07",
       "SetID": "efe2lj",
       "Name": "Clear Sight",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_09",
@@ -1159,9 +1164,9 @@
       "ID": "ACH_11",
       "SetID": "efe2lj",
       "Name": "Forgemaster",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_12",
@@ -1175,9 +1180,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_14",
@@ -1193,7 +1198,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_16",
@@ -1215,9 +1220,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_19",
@@ -1321,7 +1326,7 @@
       "Name": "Stone Collection",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_33",
@@ -1368,14 +1373,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 265,
+      "Progressed": 268,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-13T16:10:48.4183405+00:00",
+  "LastChanged_Achievements": "2023-12-13T17:10:07.3670199+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:57:55.304237+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:10:48.4183751+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:57:37.240358+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:10:07.3670406+00:00"
 }

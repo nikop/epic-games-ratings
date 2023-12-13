@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -393,9 +393,9 @@
       "ID": "AC_ALL_RECIPES",
       "SetID": "16i2akc",
       "Name": "Cookbook",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AC_ALL_TOYS",
@@ -712,8 +712,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-13T16:04:57.2109011+00:00",
+  "LastChanged_Achievements": "2023-12-13T17:04:26.6807494+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.8907916+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:02:04.6245201+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:04:57.2109305+00:00"
+  "LastUpdate_Ratings": "2023-12-13T17:02:35.401456+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:04:26.6807953+00:00"
 }

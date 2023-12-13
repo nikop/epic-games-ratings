@@ -2,10 +2,10 @@
   "ID": "d53159b0a47c43d08a92968a6fd9cd78",
   "Name": "KIBORG",
   "ProductSlug": "kiborg-demo-3e5369",
-  "Ranking_EOS_Progress": 795,
+  "Ranking_EOS_Progress": 796,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-12T21:57:15.1513223+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:03:06.0202442+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:09:37.6328422+00:00"
+  "LastUpdate_Ratings": "2023-12-13T17:02:42.1657994+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:09:10.9015745+00:00"
 }

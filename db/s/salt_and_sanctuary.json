@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2850,9 +2850,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 540656,
+  "EOS_Progressed": 540658,
   "EOS_Completed": 1641,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -29020,6 +29020,11 @@
       "Time": "2023-12-13T16:08:30.196433+00:00",
       "NumProgressed": 540656,
       "NumCompleted": 1641
+    },
+    {
+      "Time": "2023-12-13T17:07:58.6452205+00:00",
+      "NumProgressed": 540658,
+      "NumCompleted": 1641
     }
   ],
   "TotalAchievements": 37,
@@ -29031,7 +29036,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70285
+      "UsersEstimate": 70286
     },
     {
       "ID": "COASTROCK",
@@ -29047,7 +29052,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 167603
+      "UsersEstimate": 167604
     },
     {
       "ID": "DEVOTED",
@@ -29087,7 +29092,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 448744
+      "UsersEstimate": 448746
     },
     {
       "ID": "HONED",
@@ -29143,7 +29148,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216262
+      "UsersEstimate": 216263
     },
     {
       "ID": "THE_CASTLE",
@@ -29191,7 +29196,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 81098
+      "UsersEstimate": 81099
     },
     {
       "ID": "THE_IMPOSTER",
@@ -29287,7 +29292,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 346020
+      "UsersEstimate": 346021
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -29311,7 +29316,7 @@
       "Name": "The Ziggurat",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43252
+      "UsersEstimate": 43253
     },
     {
       "ID": "WISE_WORDS",
@@ -29326,15 +29331,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 540656,
+      "Progressed": 540658,
       "Completed": 1641
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-11T19:01:46.3585396+00:00",
-  "LastChanged_Achievements": "2023-12-13T16:08:30.1964325+00:00",
+  "LastChanged_Achievements": "2023-12-13T17:07:58.64522+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.0345559+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:03:11.8672781+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:08:30.1966712+00:00"
+  "LastUpdate_Ratings": "2023-12-13T17:02:46.5447505+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:07:58.6453871+00:00"
 }

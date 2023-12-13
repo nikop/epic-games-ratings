@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -4868,9 +4868,9 @@
       "ID": "achievement_117",
       "SetID": "d252ncf",
       "Name": "Insanity I",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_118",
@@ -4940,9 +4940,9 @@
       "ID": "achievement_125",
       "SetID": "d252ncf",
       "Name": "Soldier",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 796
+      "UsersEstimate": 812
     },
     {
       "ID": "achievement_126",
@@ -5308,9 +5308,9 @@
       "ID": "achievement_52",
       "SetID": "d252ncf",
       "Name": "Battlemaster",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 509
     },
     {
       "ID": "achievement_53",
@@ -5736,8 +5736,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-13T16:10:34.8334039+00:00",
+  "LastChanged_Achievements": "2023-12-13T17:09:56.0960933+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.2992366+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:03:46.6185022+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:10:34.833554+00:00"
+  "LastUpdate_Ratings": "2023-12-13T17:03:31.6643464+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:09:56.0962491+00:00"
 }

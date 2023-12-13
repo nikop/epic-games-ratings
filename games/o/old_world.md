@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 5.00% | ~787 |
 | Intrepid | 5.00% | ~787 |
 | Mason | 5.00% | ~787 |
+| Pioneer | 5.00% | ~787 |
 | Strong | 5.00% | ~787 |
 | Hanging Gardens | 5.00% | ~787 |
 | Ambitious | 4.00% | ~630 |
@@ -24,7 +25,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 4.00% | ~630 |
 | Learned | 4.00% | ~630 |
 | Noble | 4.00% | ~630 |
-| Pioneer | 4.00% | ~630 |
 | Warrior | 4.00% | ~630 |
 | Developing Cities | 4.00% | ~630 |
 | Strong Cities | 4.00% | ~630 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,747 (Ranked 154)  
+Progressed: 15,749 (Ranked 154)  
 Completed: 5 (0.03%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,7 +586,7 @@ Completed: 5 (0.03%) (Ranked 335)
 | 2023-12-10 | 15,719 | 5 |
 | 2023-12-11 | 15,723 | 5 |
 | 2023-12-12 | 15,742 | 5 |
-| 2023-12-13 | 15,747 | 5 |
+| 2023-12-13 | 15,749 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 277)  
 Sum: 1,900 (Ranked 220)  

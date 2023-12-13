@@ -7471,10 +7471,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 12484,
       "NumberOfAwardsMax": 8108
+    },
+    {
+      "Time": "2023-12-13T16:58:26.7098292+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12486,
+      "NumberOfAwardsMax": 8108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12484,
+  "NumberOfAwards": 12486,
   "NumberOfAwardsMax": 8108,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7494,7 +7500,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 573
+      "Count": 575
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7533,9 +7539,9 @@
       "Count": 529
     }
   ],
-  "EOS_Progressed": 734080,
+  "EOS_Progressed": 734106,
   "EOS_Completed": 2481,
-  "EOS_NewPlayers": 3169,
+  "EOS_NewPlayers": 3162,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -34758,6 +34764,11 @@
       "Time": "2023-12-13T16:09:47.6371097+00:00",
       "NumProgressed": 734080,
       "NumCompleted": 2481
+    },
+    {
+      "Time": "2023-12-13T17:09:19.2531456+00:00",
+      "NumProgressed": 734106,
+      "NumCompleted": 2481
     }
   ],
   "TotalAchievements": 51,
@@ -34801,7 +34812,7 @@
       "Name": "Make it So",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4404
+      "UsersEstimate": 4405
     },
     {
       "ID": "ach_big_name_in_town",
@@ -34809,7 +34820,7 @@
       "Name": "LA Influential",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3670
+      "UsersEstimate": 3671
     },
     {
       "ID": "ach_blueprinted",
@@ -34841,7 +34852,7 @@
       "Name": "On Safari",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4404
+      "UsersEstimate": 4405
     },
     {
       "ID": "ach_defensive",
@@ -34929,7 +34940,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22022
+      "UsersEstimate": 22023
     },
     {
       "ID": "ach_impressive_aim",
@@ -34993,7 +35004,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3670
+      "UsersEstimate": 3671
     },
     {
       "ID": "ach_metropolitan",
@@ -35097,7 +35108,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4404
+      "UsersEstimate": 4405
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -35105,7 +35116,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22022
+      "UsersEstimate": 22023
     },
     {
       "ID": "ach_well_known_survivor",
@@ -35129,7 +35140,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ach_dark_magic",
@@ -35169,29 +35180,29 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 734080,
+      "Progressed": 734106,
       "Completed": 2481
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 59622,
+      "Progressed": 59648,
       "Completed": 36657
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-13T06:58:06.0948773+00:00",
-  "LastChanged_Achievements": "2023-12-13T16:09:47.6371093+00:00",
+  "LastChanged": "2023-12-13T16:58:26.709829+00:00",
+  "LastChanged_Achievements": "2023-12-13T17:09:19.2531453+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:31.7932919+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:59:02.3326142+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:09:47.6372905+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:58:26.7098295+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:09:19.2532824+00:00"
 }

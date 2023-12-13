@@ -2,10 +2,10 @@
   "ID": "0c3400dec5ec47399810c08113c09958",
   "Name": "Happy Time",
   "ProductSlug": "happy-time-a894d4",
-  "Ranking_EOS_Progress": 795,
+  "Ranking_EOS_Progress": 796,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-12T14:57:43.7319254+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:58:10.3652821+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:04:33.7073954+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:57:47.4834049+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:04:08.5772058+00:00"
 }

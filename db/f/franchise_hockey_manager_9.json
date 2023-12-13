@@ -2,10 +2,10 @@
   "ID": "d049bcea95934599a0ed1b44204c85a7",
   "Name": "Franchise Hockey Manager 9",
   "ProductSlug": "franchise-hockey-manager-9-88aadb",
-  "Ranking_EOS_Progress": 795,
+  "Ranking_EOS_Progress": 796,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-11-08T20:00:00+00:00",
     "PcReleaseDate": "2022-11-08T20:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:16.2162055+00:00",
   "LastChanged": "2023-03-31T05:58:16.2162056+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:34.5575167+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:01:39.777162+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:06:58.5451638+00:00"
+  "LastUpdate_Ratings": "2023-12-13T17:00:26.5465794+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:06:02.0295925+00:00"
 }

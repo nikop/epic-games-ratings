@@ -9,8 +9,8 @@
 | Medal of honor | 36.00% | ~86 |
 | Safety first | 32.00% | ~77 |
 | Professional team! | 24.00% | ~58 |
+| Resource manager | 14.00% | ~34 |
 | Dawn of Victory | 13.00% | ~31 |
-| Resource manager | 13.00% | ~31 |
 | Team assemble | 12.00% | ~29 |
 | Give me a hand | 7.00% | ~17 |
 | Gloable operation | 4.00% | ~10 |

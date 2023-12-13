@@ -2,10 +2,10 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 546,
+  "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30,
+  "EOS_Progressed": 31,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -179,6 +179,11 @@
       "Time": "2023-12-12T16:08:25.9471492+00:00",
       "NumProgressed": 30,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T17:08:15.6423109+00:00",
+      "NumProgressed": 31,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -189,7 +194,7 @@
       "ID": "ach1",
       "SetID": "796kfpa",
       "Name": "Good Morning",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 145,
       "UsersEstimate": 5
     },
@@ -197,7 +202,7 @@
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 70,
+      "Percentage": 68,
       "XP": 145,
       "UsersEstimate": 21
     },
@@ -229,7 +234,7 @@
       "ID": "ach6",
       "SetID": "796kfpa",
       "Name": "Creature Maker",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 140,
       "UsersEstimate": 2
     },
@@ -246,14 +251,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 30,
+      "Progressed": 31,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-13T16:08:52.9713735+00:00",
+  "LastChanged_Achievements": "2023-12-13T17:08:15.6423106+00:00",
   "LastUpdate_AppInfo": "2023-12-06T17:57:25.1764365+00:00",
-  "LastUpdate_Ratings": "2023-12-13T16:00:43.300179+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:08:52.9713806+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:59:44.1610811+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:08:15.642316+00:00"
 }

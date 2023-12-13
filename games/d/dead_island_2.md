@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~22,022 |
-| Welcome To Hell-A | 3.00% | ~22,022 |
+| Hotel California | 3.00% | ~22,023 |
+| Welcome To Hell-A | 3.00% | ~22,023 |
 | Whatever It Takes | 3.00% | ~1,789 |
 | Pork Chopped | 3.00% | ~1,789 |
 | Dr. Reed, I Presume? | 2.00% | ~14,682 |
@@ -27,7 +27,7 @@ Rating: 4.54 (Ranked 534)
 | Personal Assistant Personally Assisted | 2.00% | ~14,682 |
 | Our True Nature | 2.00% | ~14,682 |
 | This is My Weapon | 2.00% | ~14,682 |
-| One of Us | 2.00% | ~1,192 |
+| One of Us | 2.00% | ~1,193 |
 | Making Your Mark | 1.00% | ~7,341 |
 | Perks of the Job | 1.00% | ~7,341 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,341 |
@@ -43,21 +43,21 @@ Rating: 4.54 (Ranked 534)
 | Not Even My Final Form | 0.80% | ~5,873 |
 | Smorgasbord | 0.70% | ~5,139 |
 | Internet Famous | 0.70% | ~5,139 |
-| Make it So | 0.60% | ~4,404 |
-| On Safari | 0.60% | ~4,404 |
-| Variety is the Spice of Death | 0.60% | ~4,404 |
-| LA Influential | 0.50% | ~3,670 |
-| Gore Horse | 0.50% | ~3,670 |
+| Make it So | 0.60% | ~4,405 |
+| On Safari | 0.60% | ~4,405 |
+| Variety is the Spice of Death | 0.60% | ~4,405 |
+| LA Influential | 0.50% | ~3,671 |
+| Gore Horse | 0.50% | ~3,671 |
 | Sole Survivor | 0.40% | ~2,936 |
 | Sharpest Tool in the Box | 0.40% | ~2,936 |
-| Top That, Tisha! | 0.40% | ~238 |
+| Top That, Tisha! | 0.40% | ~239 |
 | Survival Skills | 0.30% | ~2,202 |
 | Lawn and Order | 0.20% | ~119 |
 | Donk! | 0.10% | ~734 |
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,080 (Ranked 21)  
+Progressed: 734,106 (Ranked 21)  
 Completed: 2,481 (0.34%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,17 +294,17 @@ Completed: 2,481 (0.34%) (Ranked 236)
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
 | 2023-12-12 | 733,868 | 2,480 |
-| 2023-12-13 | 734,080 | 2,481 |
+| 2023-12-13 | 734,106 | 2,481 |
 ## Awards
 Max (Great Boss Battles): 8,108  (Ranked 49)  
-Sum: 12,484 (Ranked 81)  
+Sum: 12,486 (Ranked 81)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 8,108 |
 | This game is Great for Beginners | 639 |
 | This game has Diverse Characters | 598 |
-| This game has Quickly Understood Controls | 573 |
+| This game has Quickly Understood Controls | 575 |
 | This game is Relaxing | 539 |
 | This game has Amazing Storytelling | 529 |
 | This game is Extremely Fun | 513 |
@@ -549,4 +549,4 @@ Diff (max vs sum): -32
 | 2023-12-10 | 4.54 | 8,071 | 12,407 |
 | 2023-12-11 | 4.54 | 8,094 | 12,447 |
 | 2023-12-12 | 4.54 | 8,108 | 12,476 |
-| 2023-12-13 | 4.54 | 8,108 | 12,484 |
+| 2023-12-13 | 4.54 | 8,108 | 12,486 |

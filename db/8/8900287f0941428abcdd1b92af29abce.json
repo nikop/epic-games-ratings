@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 630,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-12-07T14:00:00+00:00",
     "PcReleaseDate": "2023-04-10T13:00:00+00:00",
@@ -108,9 +108,9 @@
       "ID": "ach-broccoli",
       "SetID": "6aph42m",
       "Name": "I don\u0027t even like it...",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach-bronze",
@@ -204,9 +204,9 @@
       "ID": "ach-dark-pepper",
       "SetID": "6aph42m",
       "Name": "That\u0027s a big pepper!",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach-enchanted-mushroom",
@@ -316,9 +316,9 @@
       "ID": "ach-monolith",
       "SetID": "6aph42m",
       "Name": "The encounter",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach-obsidian",
@@ -507,8 +507,8 @@
   ],
   "FirstSeen": "2023-12-09T20:59:53.605626+00:00",
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2023-12-13T16:09:54.2972902+00:00",
+  "LastChanged_Achievements": "2023-12-13T17:09:24.4051465+00:00",
   "LastUpdate_AppInfo": "2023-12-13T11:57:08.2416501+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:58:23.4413088+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:09:54.2973275+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:57:56.8810139+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:09:24.405176+00:00"
 }

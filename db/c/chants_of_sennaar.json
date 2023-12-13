@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 969,
-  "EOS_Completed": 55,
-  "EOS_NewPlayers": 82,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.68,
+  "EOS_Progressed": 971,
+  "EOS_Completed": 56,
+  "EOS_NewPlayers": 84,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 5.77,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3885,6 +3885,11 @@
       "Time": "2023-12-13T16:05:00.3564589+00:00",
       "NumProgressed": 969,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-12-13T17:04:29.3714002+00:00",
+      "NumProgressed": 971,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 25,
@@ -3894,9 +3899,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 203
+      "UsersEstimate": 194
     },
     {
       "ID": "END_GOOD",
@@ -3920,7 +3925,7 @@
       "Name": "Cable guy",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3936,7 +3941,7 @@
       "Name": "Half the way",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3950,9 +3955,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 146
     },
     {
       "ID": "META_RESULT_1-4",
@@ -4008,7 +4013,7 @@
       "Name": "True G3M4R",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -4016,7 +4021,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -4024,7 +4029,7 @@
       "Name": "Fashion victim",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -4040,7 +4045,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4072,7 +4077,7 @@
       "Name": "A new dawn",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "PROGRESS_N4",
@@ -4088,21 +4093,21 @@
       "Name": "One last step",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 969,
-      "Completed": 55
+      "Progressed": 971,
+      "Completed": 56
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-13T16:05:00.3564581+00:00",
+  "LastChanged_Achievements": "2023-12-13T17:04:29.3713997+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:59:28.2941784+00:00",
-  "LastUpdate_Achievements": "2023-12-13T16:05:00.3565148+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:58:47.3726237+00:00",
+  "LastUpdate_Achievements": "2023-12-13T17:04:29.3714319+00:00"
 }

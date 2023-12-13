@@ -6,15 +6,15 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,944 |
-| Biggest Communism Builder | 24.00% | ~31,666 |
+| Goodest Of The Good Cops | 28.00% | ~36,945 |
+| Biggest Communism Builder | 24.00% | ~31,667 |
 | The World's Most Laughable Centrist | 21.00% | ~27,708 |
 | Il Coppo Del'Arte! | 18.00% | ~23,750 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,111 |
 | Hyperstellar Law Official | 16.00% | ~21,111 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,472 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,472 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,152 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,153 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,514 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,194 |
 | Unbelievably Boring **** | 9.00% | ~11,875 |
@@ -30,9 +30,9 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,639 |
 | Massive Torque Dork | 1.00% | ~1,319 |
 | Avowed Inframaterialist | 1.00% | ~1,319 |
-| Committee of la Responsabilité | 0.90% | ~1,187 |
-| Venture into the HARDCORE | 0.90% | ~1,187 |
-| Real Musor | 0.90% | ~1,187 |
+| Committee of la Responsabilité | 0.90% | ~1,188 |
+| Venture into the HARDCORE | 0.90% | ~1,188 |
+| Real Musor | 0.90% | ~1,188 |
 | Baddest Brow in Town | 0.80% | ~1,056 |
 | Networthy Individual | 0.70% | ~924 |
 | Leopard Mindset | 0.60% | ~792 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~132 |
 | What body? | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,942 (Ranked 83)  
+Progressed: 131,945 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,18 +284,18 @@ Completed: 28 (0.02%) (Ranked 342)
 | 2023-12-10 | 131,838 | 28 |
 | 2023-12-11 | 131,883 | 28 |
 | 2023-12-12 | 131,916 | 28 |
-| 2023-12-13 | 131,942 | 28 |
+| 2023-12-13 | 131,945 | 28 |
 ## Awards
 Max (Character Customization): 745  (Ranked 183)  
-Sum: 1,136 (Ranked 256)  
+Sum: 1,138 (Ranked 256)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 745 |
 | This game has Amazing Storytelling | 51 |
 | This game is Educational | 47 |
+| This game has Quickly Understood Controls | 45 |
 | This game is Highly Recommended | 45 |
-| This game has Quickly Understood Controls | 43 |
 | This game has Unique Visuals | 38 |
 | This game is Relaxing | 38 |
 | This game has Amazing Characters | 38 |
@@ -470,3 +470,4 @@ Diff (max vs sum): -73
 | 2023-12-09 | 4.87 | - | 742 | 1,133 |
 | 2023-12-10 | 4.87 | - | 744 | 1,135 |
 | 2023-12-11 | 4.87 | - | 745 | 1,136 |
+| 2023-12-13 | 4.87 | - | 745 | 1,138 |

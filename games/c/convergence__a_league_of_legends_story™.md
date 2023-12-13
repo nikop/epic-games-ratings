@@ -9,6 +9,7 @@ Rating: 4.62 (Ranked 372)
 | Rail Rat | 27.00% | ~256 |
 | The Mysterious Stranger | 26.00% | ~246 |
 | Make Up For Lost Time | 23.00% | ~218 |
+| The Prince in Heels | 23.00% | ~218 |
 | Immaculate Aim | 23.00% | ~218 |
 | The Brass Boss | 23.00% | ~218 |
 | The Steel Shadow | 22.00% | ~209 |
@@ -17,7 +18,6 @@ Rating: 4.62 (Ranked 372)
 | No, Thanks! | 22.00% | ~209 |
 | Breaking Down Barriers | 22.00% | ~209 |
 | The Wicked Twins | 22.00% | ~209 |
-| The Prince in Heels | 22.00% | ~209 |
 | Honest Mistake | 22.00% | ~209 |
 | Fast Learner | 22.00% | ~209 |
 | Immaculate Aim | 22.00% | ~209 |

@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 4.00% | ~58 |
+| Malpractice Assurance | 4.00% | ~59 |
 | This Belongs in a Museum | 2.00% | ~2,532 |
 | This guy... again? | 2.00% | ~29 |
 | Bloody Graduation | 2.00% | ~29 |
@@ -18,20 +18,21 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 1.00% | ~1,266 |
 | Escape from the Black Hole | 1.00% | ~1,266 |
 | Autodidact | 1.00% | ~1,266 |
+| Ploughshares to Swords | 0.80% | ~12 |
 | Serenity Now! | 0.70% | ~886 |
 | Rush Hour | 0.70% | ~886 |
 | To Grandmother's House | 0.70% | ~886 |
 | FNG | 0.70% | ~886 |
-| Ploughshares to Swords | 0.70% | ~10 |
 | Don't Make Me Turn This Coach Around | 0.60% | ~760 |
 | It Rings a Bell | 0.60% | ~760 |
 | Dissector | 0.60% | ~760 |
+| Deprogramming | 0.60% | ~760 |
+| It Happens | 0.60% | ~760 |
 | Nope | 0.60% | ~760 |
 | Friends 'Til the End | 0.60% | ~9 |
 | Banishment | 0.50% | ~633 |
-| Deprogramming | 0.50% | ~633 |
 | Now Stay Dead | 0.50% | ~633 |
-| It Happens | 0.50% | ~633 |
+| Reverse Banditry | 0.50% | ~633 |
 | Merry Time | 0.50% | ~633 |
 | Harvest Festival | 0.50% | ~633 |
 | Ramble On | 0.50% | ~633 |
@@ -48,7 +49,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unfulfilled Desires | 0.40% | ~506 |
 | Predator | 0.40% | ~506 |
 | Ichthyophobic | 0.40% | ~506 |
-| Reverse Banditry | 0.40% | ~506 |
 | Spelunker | 0.40% | ~506 |
 | A Clear Conscience | 0.40% | ~506 |
 | When You Want Something Done Right | 0.40% | ~506 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~1 |
 | On This Long Road, We Found Redemption | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,589 (Ranked 84)  
-Completed: 2 (0.00%) (Ranked 373)  
+Progressed: 126,605 (Ranked 84)  
+Completed: 3 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -313,7 +313,7 @@ Completed: 2 (0.00%) (Ranked 373)
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
-| 2023-12-13 | 126,589 | 2 |
+| 2023-12-13 | 126,605 | 3 |
 ## Awards
 Max (Character Customization): 7,665  (Ranked 52)  
 Sum: 20,315 (Ranked 59)  
