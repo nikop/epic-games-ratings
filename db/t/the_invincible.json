@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 551,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1831,9 +1831,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 182
+      "UsersEstimate": 187
     },
     {
       "ID": "AchvUnity",
@@ -1854,8 +1854,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-13T08:09:41.4071046+00:00",
+  "LastChanged_Achievements": "2023-12-13T09:09:17.5854694+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.1415487+00:00",
-  "LastUpdate_Ratings": "2023-12-13T07:59:34.203029+00:00",
-  "LastUpdate_Achievements": "2023-12-13T08:09:41.4071309+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:58:42.3769817+00:00",
+  "LastUpdate_Achievements": "2023-12-13T09:09:17.5854884+00:00"
 }

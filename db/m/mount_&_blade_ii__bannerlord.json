@@ -9708,9 +9708,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67726,
+  "EOS_Progressed": 67727,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34703,6 +34703,11 @@
       "Time": "2023-12-13T08:10:38.2703417+00:00",
       "NumProgressed": 67726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T09:09:57.9843726+00:00",
+      "NumProgressed": 67727,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34714,7 +34719,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8804
+      "UsersEstimate": 8805
     },
     {
       "ID": "Apple of my eye",
@@ -34842,7 +34847,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8804
+      "UsersEstimate": 8805
     },
     {
       "ID": "Great Granny",
@@ -34946,7 +34951,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 27090
+      "UsersEstimate": 27091
     },
     {
       "ID": "Lawmaker",
@@ -35121,15 +35126,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67726,
+      "Progressed": 67727,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-13T04:59:55.9910599+00:00",
-  "LastChanged_Achievements": "2023-12-13T08:10:38.2703414+00:00",
+  "LastChanged_Achievements": "2023-12-13T09:09:57.9843724+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.7190339+00:00",
-  "LastUpdate_Ratings": "2023-12-13T08:01:22.6825067+00:00",
-  "LastUpdate_Achievements": "2023-12-13T08:10:38.2704833+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:59:52.1422208+00:00",
+  "LastUpdate_Achievements": "2023-12-13T09:09:57.9844994+00:00"
 }

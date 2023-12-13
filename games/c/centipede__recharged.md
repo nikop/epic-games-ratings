@@ -10,7 +10,7 @@ Number of Ratings: 76  (23.09.2022)
 | Make Rock Not War | 39.00% | ~9,069 |
 | Sole Survivor | 35.00% | ~8,139 |
 | Fireworks | 30.00% | ~6,976 |
-| Burning For You | 26.00% | ~6,046 |
+| Burning For You | 27.00% | ~6,279 |
 | Beat 'em Up | 24.00% | ~5,581 |
 | Still Burnin' | 17.00% | ~3,953 |
 | I Am The Storm | 16.00% | ~3,721 |

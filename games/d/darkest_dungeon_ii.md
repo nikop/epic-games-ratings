@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 4.00% | ~56 |
+| Malpractice Assurance | 4.00% | ~57 |
 | This Belongs in a Museum | 2.00% | ~2,531 |
 | This guy... again? | 2.00% | ~28 |
 | Lost and Found | 2.00% | ~28 |
@@ -29,6 +29,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Banishment | 0.50% | ~633 |
 | Deprogramming | 0.50% | ~633 |
 | It Happens | 0.50% | ~633 |
+| Merry Time | 0.50% | ~633 |
 | Whale | 0.50% | ~633 |
 | A Place to Lay Your Head | 0.50% | ~633 |
 | Nope | 0.50% | ~633 |
@@ -43,7 +44,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Now Stay Dead | 0.40% | ~506 |
 | Reverse Banditry | 0.40% | ~506 |
 | Spelunker | 0.40% | ~506 |
-| Merry Time | 0.40% | ~506 |
 | Harvest Festival | 0.40% | ~506 |
 | Ramble On | 0.40% | ~506 |
 | A Clear Conscience | 0.40% | ~506 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.10% | ~1 |
 | On This Long Road, We Found Redemption | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,543 (Ranked 84)  
+Progressed: 126,547 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 2 (0.00%) (Ranked 373)
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
-| 2023-12-13 | 126,543 | 2 |
+| 2023-12-13 | 126,547 | 2 |
 ## Awards
 Max (Character Customization): 7,665  (Ranked 52)  
 Sum: 20,275 (Ranked 59)  

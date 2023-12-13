@@ -369,9 +369,9 @@
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "DopaMiner",
@@ -417,9 +417,9 @@
       "ID": "ItsYoursMyFriend",
       "SetID": "4bd750m",
       "Name": "It\u0027s Yours, My Friend",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ManicMechanic",
@@ -433,9 +433,9 @@
       "ID": "Mathematic",
       "SetID": "4bd750m",
       "Name": "Mathematic",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "MineSweeper",
@@ -560,8 +560,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-13T08:05:10.6946484+00:00",
+  "LastChanged_Achievements": "2023-12-13T09:04:17.2977125+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:13.5200104+00:00",
-  "LastUpdate_Ratings": "2023-12-13T08:03:20.1795792+00:00",
-  "LastUpdate_Achievements": "2023-12-13T08:05:10.6946759+00:00"
+  "LastUpdate_Ratings": "2023-12-13T09:03:01.1558625+00:00",
+  "LastUpdate_Achievements": "2023-12-13T09:04:17.2977304+00:00"
 }

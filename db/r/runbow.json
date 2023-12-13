@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252108,
+  "EOS_Progressed": 252109,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21167,6 +21167,11 @@
       "Time": "2023-12-13T00:09:27.6675919+00:00",
       "NumProgressed": 252108,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-13T09:09:41.9874586+00:00",
+      "NumProgressed": 252109,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21226,7 +21231,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15126
+      "UsersEstimate": 15127
     },
     {
       "ID": "canYouDigIt",
@@ -21234,7 +21239,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42858
+      "UsersEstimate": 42859
     },
     {
       "ID": "cantBeKeptDown",
@@ -21274,7 +21279,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45379
+      "UsersEstimate": 45380
     },
     {
       "ID": "curator",
@@ -21354,7 +21359,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133617
+      "UsersEstimate": 133618
     },
     {
       "ID": "indegestible",
@@ -21545,7 +21550,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252108,
+      "Progressed": 252109,
       "Completed": 6
     }
   ],
@@ -21553,8 +21558,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-13T08:10:16.4615311+00:00",
+  "LastChanged_Achievements": "2023-12-13T09:09:41.9874584+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.3008765+00:00",
-  "LastUpdate_Ratings": "2023-12-13T07:59:47.0499271+00:00",
-  "LastUpdate_Achievements": "2023-12-13T08:10:16.4616733+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:58:50.2725259+00:00",
+  "LastUpdate_Achievements": "2023-12-13T09:09:41.9875918+00:00"
 }

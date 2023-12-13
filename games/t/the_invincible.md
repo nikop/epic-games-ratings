@@ -10,7 +10,7 @@
 | The field base | 42.00% | ~231 |
 | Survivors | 37.00% | ~204 |
 | The Condor | 34.00% | ~187 |
-| The End | 33.00% | ~182 |
+| The End | 34.00% | ~187 |
 | The Alliance | 27.00% | ~149 |
 | The Necroevolution | 27.00% | ~149 |
 | Peacemaker | 23.00% | ~127 |

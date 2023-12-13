@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2818,
+  "EOS_Progressed": 2827,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2815,
+  "EOS_NewPlayers": 2824,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -739,6 +739,11 @@
       "Time": "2023-12-13T08:09:54.1644369+00:00",
       "NumProgressed": 2818,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T09:09:26.3676488+00:00",
+      "NumProgressed": 2827,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -749,9 +754,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1555
     },
     {
       "ID": "03_TheStolenStar",
@@ -759,7 +764,7 @@
       "Name": "Stolen Star",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -837,9 +842,9 @@
       "ID": "13_TheDoomTrader",
       "SetID": "37a94m8",
       "Name": "Doom Trader",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -847,7 +852,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "15_Pentakill",
@@ -855,7 +860,7 @@
       "Name": "Pentakill",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "16_TheRise",
@@ -863,7 +868,7 @@
       "Name": "The Rise",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "17_TheExemplar",
@@ -877,9 +882,9 @@
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 452
     },
     {
       "ID": "19_TheVoidWolf",
@@ -911,7 +916,7 @@
       "Name": "Perfect Timing",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "23_DynastyRestored",
@@ -965,9 +970,9 @@
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1470
     },
     {
       "ID": "30_The GreatestExploration",
@@ -997,9 +1002,9 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 452
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -1021,9 +1026,9 @@
       "ID": "36_TheAdventurousArchaelogist",
       "SetID": "37a94m8",
       "Name": "Adventurous Archaeologist",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -1063,7 +1068,7 @@
       "Name": "Jungle Heat",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "42_TheIronJudgement",
@@ -1071,7 +1076,7 @@
       "Name": "Iron Judgement",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -1103,7 +1108,7 @@
       "Name": "A Spark",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "47_AFlame",
@@ -1270,7 +1275,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 2818,
+      "Progressed": 2827,
       "Completed": 0
     }
   ],
@@ -1278,8 +1283,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-13T02:57:09.8398943+00:00",
-  "LastChanged_Achievements": "2023-12-13T08:09:54.1644367+00:00",
+  "LastChanged_Achievements": "2023-12-13T09:09:26.3676487+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-13T07:57:17.8718623+00:00",
-  "LastUpdate_Achievements": "2023-12-13T08:09:54.1644789+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:57:13.1956139+00:00",
+  "LastUpdate_Achievements": "2023-12-13T09:09:26.3676914+00:00"
 }

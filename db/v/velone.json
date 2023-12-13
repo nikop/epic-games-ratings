@@ -4,7 +4,7 @@
   "ProductSlug": "velone-3c0487",
   "Ranking_EOS_Progress": 793,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -45,5 +45,5 @@
   "LastChanged": "2023-03-31T05:57:02.3293491+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.1699954+00:00",
   "LastUpdate_Ratings": "2023-12-13T08:02:48.8745957+00:00",
-  "LastUpdate_Achievements": "2023-12-13T08:09:21.711368+00:00"
+  "LastUpdate_Achievements": "2023-12-13T09:09:03.3357417+00:00"
 }

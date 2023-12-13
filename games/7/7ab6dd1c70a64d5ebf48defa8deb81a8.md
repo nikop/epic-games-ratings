@@ -10,12 +10,12 @@
 | Powerful Allies | 12.00% | ~32 |
 | A Taste of Wrath | 11.00% | ~29 |
 | Adventurer | 11.00% | ~29 |
+| Shatter Them All | 11.00% | ~29 |
 | Geared Up | 11.00% | ~29 |
 | Scholar | 11.00% | ~29 |
 | I Found It | 11.00% | ~29 |
 | The Collector | 11.00% | ~29 |
 | Tributes of Caladrias | 10.00% | ~26 |
-| Shatter Them All | 10.00% | ~26 |
 | Stone Collection | 10.00% | ~26 |
 | Big Bazar | 9.00% | ~24 |
 | Fashion Victim | 9.00% | ~24 |
@@ -42,7 +42,7 @@
 | Feeling Fancy | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 265 (Ranked 373)  
-Completed: 2 (0.75%) (Ranked 186)  
+Completed: 3 (1.13%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,3 +103,4 @@ Completed: 2 (0.75%) (Ranked 186)
 | 2023-12-10 | 262 | 2 |
 | 2023-12-11 | 264 | 2 |
 | 2023-12-12 | 265 | 2 |
+| 2023-12-13 | 265 | 3 |

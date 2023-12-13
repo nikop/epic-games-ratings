@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 965,
+  "EOS_Progressed": 966,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.7,
+  "EOS_Completed_Percentage": 5.69,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3870,6 +3870,11 @@
       "Time": "2023-12-13T08:04:28.5290765+00:00",
       "NumProgressed": 965,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-12-13T09:03:47.7866675+00:00",
+      "NumProgressed": 966,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 25,
@@ -3879,9 +3884,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 203
+      "UsersEstimate": 193
     },
     {
       "ID": "END_GOOD",
@@ -3969,7 +3974,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -3977,7 +3982,7 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3993,7 +3998,7 @@
       "Name": "True G3M4R",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -4017,7 +4022,7 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -4041,7 +4046,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "PROGRESS_N2",
@@ -4057,7 +4062,7 @@
       "Name": "A new dawn",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "PROGRESS_N4",
@@ -4080,14 +4085,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 965,
+      "Progressed": 966,
       "Completed": 55
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-13T08:04:28.5290761+00:00",
+  "LastChanged_Achievements": "2023-12-13T09:03:47.7866672+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-13T07:58:56.3256857+00:00",
-  "LastUpdate_Achievements": "2023-12-13T08:04:28.5291095+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:58:16.4911339+00:00",
+  "LastUpdate_Achievements": "2023-12-13T09:03:47.7866934+00:00"
 }

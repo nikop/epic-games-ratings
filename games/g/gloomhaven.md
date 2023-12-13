@@ -11,10 +11,10 @@ Number of Ratings: 68  (23.09.2022)
 | Vaccine Incoming | 33.00% | ~8,600 |
 | A normal day in Gloomhaven | 31.00% | ~8,079 |
 | Spread the plague | 29.00% | ~7,558 |
-| Get over here! | 25.00% | ~6,515 |
+| Get over here! | 25.00% | ~6,516 |
 | Just when I thought I was out... | 19.00% | ~4,952 |
-| Precious! | 17.00% | ~4,430 |
-| Mine... All Mine... | 17.00% | ~4,430 |
+| Precious! | 17.00% | ~4,431 |
+| Mine... All Mine... | 17.00% | ~4,431 |
 | Grizzled veteran | 15.00% | ~3,909 |
 | Anatomy Lesson | 15.00% | ~3,909 |
 | Obstacle race | 13.00% | ~3,388 |
@@ -23,7 +23,7 @@ Number of Ratings: 68  (23.09.2022)
 | Who's the Boss? | 11.00% | ~2,867 |
 | Augmented rat | 11.00% | ~2,867 |
 | Doom and gloom | 10.00% | ~2,606 |
-| Dungeon Veteran | 9.00% | ~2,345 |
+| Dungeon Veteran | 9.00% | ~2,346 |
 | Pack leader | 8.00% | ~2,085 |
 | Pain is your friend | 8.00% | ~2,085 |
 | Black death | 8.00% | ~2,085 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~26 |
 | Murder Death Kill | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,061 (Ranked 133)  
+Progressed: 26,062 (Ranked 133)  
 Completed: 1 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 1 (0.00%) (Ranked 373)
 | 2023-12-10 | 25,709 | 1 |
 | 2023-12-11 | 25,874 | 1 |
 | 2023-12-12 | 26,015 | 1 |
-| 2023-12-13 | 26,061 | 1 |
+| 2023-12-13 | 26,062 | 1 |
 ## Awards
 Max (Character Customization): 3,598  (Ranked 90)  
 Sum: 8,408 (Ranked 102)  

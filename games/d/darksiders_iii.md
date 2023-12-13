@@ -3,6 +3,73 @@
 [View Rawdata](../../db/d/darksiders_iii.json)  
 Rating: 4.50 (Ranked 599)  
 Number of Ratings: 116  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Unbreakable Will | 0.00% | ~0 |
+| Unyielding Strength | 0.00% | ~0 |
+| Purity of Power | 0.00% | ~0 |
+| Unshakable Fortitude | 0.00% | ~0 |
+| Holy Keeper | 0.00% | ~0 |
+| Demon Keeper | 0.00% | ~0 |
+| One Of the Chosen | 0.00% | ~0 |
+| Increased Capacity | 0.00% | ~0 |
+| Maximum Capacity | 0.00% | ~0 |
+| Increased Vigor | 0.00% | ~0 |
+| Maximum Vigor | 0.00% | ~0 |
+| Fight Fire with Fire | 0.00% | ~0 |
+| I Wanna Rock | 0.00% | ~0 |
+| Freeze Frame | 0.00% | ~0 |
+| Perfect Storm | 0.00% | ~0 |
+| Soul Harvester | 0.00% | ~0 |
+| Soul Reaper | 0.00% | ~0 |
+| Cleanup Crew | 0.00% | ~0 |
+| A Parting Gift | 0.00% | ~0 |
+| Salvation | 0.00% | ~0 |
+| Can you restore the Balance? | 0.00% | ~0 |
+| Balance in all things | 0.00% | ~0 |
+| Enhance! | 0.00% | ~0 |
+| Quite Proper | 0.00% | ~0 |
+| My Evil Twin | 0.00% | ~0 |
+| "Apocalyptic!" | 0.00% | ~0 |
+| "Impressive!" | 0.00% | ~0 |
+| "Incredible!" | 0.00% | ~0 |
+| "Amazing!" | 0.00% | ~0 |
+| Protector of Humanity | 0.00% | ~0 |
+| Death Incarnate | 0.00% | ~0 |
+| Proceed on your way to Armageddon | 0.00% | ~0 |
+| Path of the Horseman | 0.00% | ~0 |
+| Keeper of Colossal Automata | 0.00% | ~0 |
+| Keeper of the Bonfire | 0.00% | ~0 |
+| Keeper of the Vale | 0.00% | ~0 |
+| Keeper of the Tempo | 0.00% | ~0 |
+| Keeper of the Sky | 0.00% | ~0 |
+| Demon Meddler | 0.00% | ~0 |
+| Love Tap | 0.00% | ~0 |
+| Devil's in the Details | 0.00% | ~0 |
+| Beast Mode | 0.00% | ~0 |
+| All That Glitters | 0.00% | ~0 |
+| Everybody Wants to Rule the World | 0.00% | ~0 |
+| Green with Envy | 0.00% | ~0 |
+| Eat Your Heart Out | 0.00% | ~0 |
+| Delusions of Grandeur | 0.00% | ~0 |
+| Egomaniac | 0.00% | ~0 |
+| Throne Potato | 0.00% | ~0 |
+| Seeing Red | 0.00% | ~0 |
+| Keep it 100! | 0.00% | ~0 |
+| Helping Hand | 0.00% | ~0 |
+| Crowd Source | 0.00% | ~0 |
+| Community Outreach | 0.00% | ~0 |
+| Humanitarian | 0.00% | ~0 |
+| Five's a Crowd | 0.00% | ~0 |
+| For Whom the Bell Tolls | 0.00% | ~0 |
+| First of many… | 0.00% | ~0 |
+| 25 to Life | 0.00% | ~0 |
+| Big Spender | 0.00% | ~0 |
+| BFA | 0.00% | ~0 |
+| Made of Sterner Stuff | 0.00% | ~0 |
+| Just the start | 0.00% | ~0 |
+| Take it to the Limit | 0.00% | ~0 |
 ## Awards
 Max (Great Boss Battles): 91  (Ranked 382)  
 Sum: 91 (Ranked 461)  

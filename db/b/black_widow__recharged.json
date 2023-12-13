@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,10 +173,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22549,
+  "EOS_Progressed": 22550,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 663,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 664,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -19898,6 +19898,11 @@
       "Time": "2023-12-13T08:05:54.5409364+00:00",
       "NumProgressed": 22549,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-13T09:04:47.9283161+00:00",
+      "NumProgressed": 22550,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 14,
@@ -19909,7 +19914,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 17363
+      "UsersEstimate": 17364
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -19957,7 +19962,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -19965,7 +19970,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 52,
       "XP": 90,
-      "UsersEstimate": 11725
+      "UsersEstimate": 11726
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -20020,15 +20025,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 22549,
+      "Progressed": 22550,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-12-13T08:05:54.5409051+00:00",
+  "LastChanged_Achievements": "2023-12-13T09:04:47.9283158+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:15.1629864+00:00",
-  "LastUpdate_Ratings": "2023-12-13T07:58:13.9675507+00:00",
-  "LastUpdate_Achievements": "2023-12-13T08:05:54.5410304+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:57:50.1289229+00:00",
+  "LastUpdate_Achievements": "2023-12-13T09:04:47.9284336+00:00"
 }

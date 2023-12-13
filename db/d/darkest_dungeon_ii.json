@@ -9630,9 +9630,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126543,
+  "EOS_Progressed": 126547,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 898,
+  "EOS_NewPlayers": 900,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34780,6 +34780,11 @@
       "Time": "2023-12-13T08:09:19.6336457+00:00",
       "NumProgressed": 126543,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T09:09:01.9238679+00:00",
+      "NumProgressed": 126547,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -35093,9 +35098,9 @@
       "ID": "driving_biome_clear_coast",
       "SetID": "64l4lke",
       "Name": "Merry Time",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 633
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -35327,7 +35332,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "combat_kill_collector",
@@ -35422,21 +35427,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126543,
+      "Progressed": 126547,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1412,
+      "Progressed": 1416,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-13T04:59:07.2205481+00:00",
-  "LastChanged_Achievements": "2023-12-13T08:09:19.6336452+00:00",
+  "LastChanged_Achievements": "2023-12-13T09:09:01.9238677+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T08:00:09.285932+00:00",
-  "LastUpdate_Achievements": "2023-12-13T08:09:19.6337889+00:00"
+  "LastUpdate_Ratings": "2023-12-13T08:59:04.8959335+00:00",
+  "LastUpdate_Achievements": "2023-12-13T09:09:01.9240331+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 79.00% | ~52,142 |
-| Initial Capital | 65.00% | ~42,901 |
-| Moneybags | 43.00% | ~28,381 |
-| Junior Supply Officer | 43.00% | ~28,381 |
-| Naval Warfare. Arson | 32.00% | ~21,121 |
-| Naval Warfare. Ramming | 32.00% | ~21,121 |
-| Amateur | 30.00% | ~19,801 |
-| Naval Warfare. Tactics | 29.00% | ~19,141 |
-| Naval Constructor | 29.00% | ~19,141 |
-| Naval Warfare. Weaponry Basics | 22.00% | ~14,520 |
-| Naval Warfare. Lucky Shot | 19.00% | ~12,540 |
-| Naval Warfare. Flooding | 18.00% | ~11,880 |
-| Business Magnate | 16.00% | ~10,560 |
-| Battle Hero | 15.00% | ~9,900 |
-| Warrior | 12.00% | ~7,920 |
-| Supply Officer | 12.00% | ~7,920 |
-| Smooth Supply | 12.00% | ~7,920 |
+| Junior Naval Designer | 79.00% | ~52,146 |
+| Initial Capital | 65.00% | ~42,905 |
+| Moneybags | 43.00% | ~28,383 |
+| Junior Supply Officer | 43.00% | ~28,383 |
+| Naval Warfare. Arson | 32.00% | ~21,122 |
+| Naval Warfare. Ramming | 32.00% | ~21,122 |
+| Amateur | 30.00% | ~19,802 |
+| Naval Warfare. Tactics | 29.00% | ~19,142 |
+| Naval Constructor | 29.00% | ~19,142 |
+| Naval Warfare. Weaponry Basics | 22.00% | ~14,522 |
+| Naval Warfare. Lucky Shot | 19.00% | ~12,541 |
+| Naval Warfare. Flooding | 18.00% | ~11,881 |
+| Business Magnate | 16.00% | ~10,561 |
+| Battle Hero | 15.00% | ~9,901 |
+| Warrior | 12.00% | ~7,921 |
+| Supply Officer | 12.00% | ~7,921 |
+| Smooth Supply | 12.00% | ~7,921 |
 | Veteran | 7.00% | ~4,620 |
 | Legend of the Seas | 3.00% | ~1,980 |
 | Chief Naval Architect | 3.00% | ~1,980 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~66 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,002 (Ranked 108)  
+Progressed: 66,007 (Ranked 108)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-10 | 65,077 | 0 |
 | 2023-12-11 | 65,520 | 0 |
 | 2023-12-12 | 65,883 | 0 |
-| 2023-12-13 | 66,002 | 0 |
+| 2023-12-13 | 66,007 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,590  (Ranked 128)  
 Sum: 13,302 (Ranked 78)  

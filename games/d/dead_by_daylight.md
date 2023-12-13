@@ -6,7 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,740 |
+| It wakes | 3.00% | ~32,741 |
 | Zealous | 2.00% | ~21,827 |
 | Not half bad | 2.00% | ~21,827 |
 | Apt Survivor | 2.00% | ~21,827 |
@@ -14,36 +14,36 @@ Number of Ratings: 70,340  (23.09.2022)
 | Skillful | 2.00% | ~21,827 |
 | I | 2.00% | ~21,827 |
 | Make Some Noise | 2.00% | ~21,827 |
-| The Grand Sacrifice | 1.00% | ~10,913 |
-| Agonizing Escape | 1.00% | ~10,913 |
-| Backdoor Escape | 1.00% | ~10,913 |
-| No one left behind | 1.00% | ~10,913 |
-| Medic | 1.00% | ~10,913 |
-| Handyman | 1.00% | ~10,913 |
-| Perfect Escape | 1.00% | ~10,913 |
-| Perfect Killing | 1.00% | ~10,913 |
-| Bloody Millionaire | 1.00% | ~10,913 |
-| Risk it all | 1.00% | ~10,913 |
-| Engineer | 1.00% | ~10,913 |
-| Sorted | 1.00% | ~10,913 |
-| Healthy Obsession | 1.00% | ~10,913 |
-| Resurgence | 1.00% | ~10,913 |
-| Close Shave | 1.00% | ~10,913 |
-| Preemptive Strike | 1.00% | ~10,913 |
-| Humanitarian | 1.00% | ~10,913 |
+| The Grand Sacrifice | 1.00% | ~10,914 |
+| Agonizing Escape | 1.00% | ~10,914 |
+| Backdoor Escape | 1.00% | ~10,914 |
+| No one left behind | 1.00% | ~10,914 |
+| Medic | 1.00% | ~10,914 |
+| Handyman | 1.00% | ~10,914 |
+| Perfect Escape | 1.00% | ~10,914 |
+| Perfect Killing | 1.00% | ~10,914 |
+| Bloody Millionaire | 1.00% | ~10,914 |
+| Risk it all | 1.00% | ~10,914 |
+| Engineer | 1.00% | ~10,914 |
+| Sorted | 1.00% | ~10,914 |
+| Healthy Obsession | 1.00% | ~10,914 |
+| Resurgence | 1.00% | ~10,914 |
+| Close Shave | 1.00% | ~10,914 |
+| Preemptive Strike | 1.00% | ~10,914 |
+| Humanitarian | 1.00% | ~10,914 |
 | I've got your back | 0.90% | ~9,822 |
 | Apt Killer | 0.90% | ~9,822 |
 | II | 0.90% | ~9,822 |
 | Wounded Healer | 0.90% | ~9,822 |
 | III | 0.80% | ~8,731 |
-| Escape Artist | 0.70% | ~7,639 |
-| Vulture | 0.70% | ~7,639 |
-| First to the Punch | 0.70% | ~7,639 |
-| Operation: Survival | 0.70% | ~7,639 |
-| Every Last Drop | 0.70% | ~7,639 |
-| With Scars to Show | 0.70% | ~7,639 |
-| Lifting The Fog | 0.70% | ~7,639 |
-| Second Act | 0.70% | ~7,639 |
+| Escape Artist | 0.70% | ~7,640 |
+| Vulture | 0.70% | ~7,640 |
+| First to the Punch | 0.70% | ~7,640 |
+| Operation: Survival | 0.70% | ~7,640 |
+| Every Last Drop | 0.70% | ~7,640 |
+| With Scars to Show | 0.70% | ~7,640 |
+| Lifting The Fog | 0.70% | ~7,640 |
+| Second Act | 0.70% | ~7,640 |
 | Blood on your hands | 0.60% | ~6,548 |
 | Gifts for the Fog | 0.60% | ~6,548 |
 | III-50 | 0.60% | ~6,548 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,091 |
 | Adept Good Guy | 0.10% | ~1,091 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,091,332 (Ranked 12)  
+Progressed: 1,091,370 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -476,10 +476,10 @@ Completed: 62 (0.01%) (Ranked 350)
 | 2023-12-10 | 1,086,485 | 62 |
 | 2023-12-11 | 1,088,746 | 62 |
 | 2023-12-12 | 1,090,736 | 62 |
-| 2023-12-13 | 1,091,332 | 62 |
+| 2023-12-13 | 1,091,370 | 62 |
 ## Awards
 Max (Diverse Characters): 37,782  (Ranked 15)  
-Sum: 286,155 (Ranked 12)  
+Sum: 286,196 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -487,7 +487,7 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 32,762 |
 | This game has Amazing Characters | 32,240 |
 | This game has Competitive Players | 32,035 |
-| This game is Extremely Fun | 31,690 |
+| This game is Extremely Fun | 31,731 |
 | This game has Challenging Combat | 31,620 |
 | This game has Quickly Understood Controls | 30,859 |
 | This game has Amazing Storytelling | 29,207 |
@@ -820,4 +820,4 @@ Diff (max vs sum): 3
 | 2023-12-10 | 4.51 | - | 37,638 | 285,419 |
 | 2023-12-11 | 4.51 | - | 37,692 | 285,774 |
 | 2023-12-12 | 4.51 | - | 37,733 | 286,071 |
-| 2023-12-13 | 4.51 | - | 37,782 | 286,155 |
+| 2023-12-13 | 4.51 | - | 37,782 | 286,196 |
