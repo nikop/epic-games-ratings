@@ -5,19 +5,19 @@ Rating: 4.60 (Ranked 422)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~6,064 |
-| A Thorny Situation | 71.00% | ~5,980 |
-| ... And Spit Back Out | 61.00% | ~5,137 |
-| Break-Net Speed | 49.00% | ~4,127 |
-| Bramble Breaker | 47.00% | ~3,958 |
-| Miner 49er | 44.00% | ~3,706 |
-| Humble Collector | 43.00% | ~3,621 |
-| Calm Sailing | 37.00% | ~3,116 |
-| Open the Gate! | 34.00% | ~2,863 |
-| Mist Walker | 32.00% | ~2,695 |
+| Azoria Beckons | 72.00% | ~6,065 |
+| A Thorny Situation | 71.00% | ~5,981 |
+| ... And Spit Back Out | 61.00% | ~5,139 |
+| Break-Net Speed | 49.00% | ~4,128 |
+| Bramble Breaker | 47.00% | ~3,959 |
+| Miner 49er | 43.00% | ~3,622 |
+| Humble Collector | 43.00% | ~3,622 |
+| Calm Sailing | 37.00% | ~3,117 |
+| Open the Gate! | 34.00% | ~2,864 |
+| Mist Walker | 32.00% | ~2,696 |
 | Lumberjack | 27.00% | ~2,274 |
-| Oui, Chef! | 23.00% | ~1,937 |
-| Clear the Air | 19.00% | ~1,600 |
+| Oui, Chef! | 23.00% | ~1,938 |
+| Clear the Air | 19.00% | ~1,601 |
 | Botanical Breakthrough | 17.00% | ~1,432 |
 | Search for the Hairy Grell | 14.00% | ~1,179 |
 | Beach Comber | 14.00% | ~1,179 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 422)
 | Very Skilled | 0.20% | ~17 |
 | Workaholic | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,422 (Ranked 176)  
+Progressed: 8,424 (Ranked 176)  
 Completed: 1 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.01%) (Ranked 350)
 | 2023-12-09 | 8,389 | 1 |
 | 2023-12-10 | 8,408 | 1 |
 | 2023-12-11 | 8,419 | 1 |
-| 2023-12-13 | 8,422 | 1 |
+| 2023-12-13 | 8,424 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

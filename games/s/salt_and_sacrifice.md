@@ -6,61 +6,61 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~60,959 |
-| The Pyromancer | 86.00% | ~58,250 |
-| The Wastes | 83.00% | ~56,218 |
-| Waste Not | 80.00% | ~54,186 |
-| The Cryomancer | 76.00% | ~51,476 |
-| Stock Up | 75.00% | ~50,799 |
-| The Hydromancer | 73.00% | ~49,444 |
-| The Matriarch | 70.00% | ~47,412 |
-| The Aeromancer | 66.00% | ~44,703 |
-| The Huntsman | 65.00% | ~44,026 |
-| The Venomancer | 65.00% | ~44,026 |
-| Dawnlight Order | 64.00% | ~43,348 |
-| The Electromancer | 61.00% | ~41,317 |
-| The Terramancer | 59.00% | ~39,962 |
-| The Exalted | 57.00% | ~38,607 |
-| Sheriff Inquisitors | 55.00% | ~37,253 |
-| Blueheart Runners | 54.00% | ~36,575 |
-| The Necromancer | 52.00% | ~35,221 |
-| The Swamp | 50.00% | ~33,866 |
-| The Fungalmancer | 47.00% | ~31,834 |
-| The Thaumamancer | 47.00% | ~31,834 |
-| The Hag | 45.00% | ~30,479 |
-| The Corpumancer | 42.00% | ~28,447 |
-| The Mountain | 40.00% | ~27,093 |
-| The Treeheart | 40.00% | ~27,093 |
-| Shroud Alliance | 39.00% | ~26,415 |
-| The Two Monks | 37.00% | ~25,061 |
-| The Neuromancer | 35.00% | ~23,706 |
+| The Champion | 90.00% | ~60,961 |
+| The Pyromancer | 86.00% | ~58,251 |
+| The Wastes | 83.00% | ~56,219 |
+| Waste Not | 80.00% | ~54,187 |
+| The Cryomancer | 76.00% | ~51,478 |
+| Stock Up | 75.00% | ~50,800 |
+| The Hydromancer | 73.00% | ~49,446 |
+| The Matriarch | 70.00% | ~47,414 |
+| The Aeromancer | 66.00% | ~44,704 |
+| The Huntsman | 65.00% | ~44,027 |
+| The Venomancer | 65.00% | ~44,027 |
+| Dawnlight Order | 64.00% | ~43,350 |
+| The Electromancer | 61.00% | ~41,318 |
+| The Terramancer | 59.00% | ~39,963 |
+| The Exalted | 57.00% | ~38,608 |
+| Sheriff Inquisitors | 55.00% | ~37,254 |
+| Blueheart Runners | 54.00% | ~36,576 |
+| The Necromancer | 52.00% | ~35,222 |
+| The Swamp | 50.00% | ~33,867 |
+| The Fungalmancer | 47.00% | ~31,835 |
+| The Thaumamancer | 47.00% | ~31,835 |
+| The Hag | 45.00% | ~30,480 |
+| The Corpumancer | 42.00% | ~28,448 |
+| The Mountain | 40.00% | ~27,094 |
+| The Treeheart | 40.00% | ~27,094 |
+| Shroud Alliance | 39.00% | ~26,416 |
+| The Two Monks | 37.00% | ~25,062 |
+| The Neuromancer | 35.00% | ~23,707 |
 | Oathbound Watchers | 33.00% | ~22,352 |
-| The Chronomancer | 32.00% | ~21,674 |
-| The Mechanomancer | 32.00% | ~21,674 |
+| The Chronomancer | 32.00% | ~21,675 |
+| The Mechanomancer | 32.00% | ~21,675 |
 | The Copse | 30.00% | ~20,320 |
 | The Dragon | 30.00% | ~20,320 |
 | The Dracomancer | 30.00% | ~20,320 |
-| Well Stocked | 28.00% | ~18,965 |
-| The Umbramancer | 28.00% | ~18,965 |
+| Well Stocked | 28.00% | ~18,966 |
+| The Umbramancer | 28.00% | ~18,966 |
 | Chaos Hunger | 27.00% | ~18,288 |
 | The Kinetomancer | 27.00% | ~18,288 |
 | The Sanguimancer | 27.00% | ~18,288 |
-| The Luminimancer | 26.00% | ~17,610 |
-| The Bibliomancer | 25.00% | ~16,933 |
-| The Skylord | 25.00% | ~16,933 |
+| The Luminimancer | 26.00% | ~17,611 |
+| The Bibliomancer | 25.00% | ~16,934 |
+| The Skylord | 25.00% | ~16,934 |
 | The Firelord | 24.00% | ~16,256 |
 | The Diablomancer | 22.00% | ~14,901 |
 | Want Not | 21.00% | ~14,224 |
 | The Sacrifice | 21.00% | ~14,224 |
 | The King | 19.00% | ~12,869 |
-| Take Your Place | 14.00% | ~9,482 |
-| The Nomad | 14.00% | ~9,482 |
+| Take Your Place | 14.00% | ~9,483 |
+| The Nomad | 14.00% | ~9,483 |
 | The Soldier | 11.00% | ~7,451 |
 | Make The Climb | 10.00% | ~6,773 |
 | The Scholar | 10.00% | ~6,773 |
 | Top Shelf | 5.00% | ~3,387 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,732 (Ranked 105)  
+Progressed: 67,734 (Ranked 105)  
 Completed: 1,276 (1.88%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 1,276 (1.88%) (Ranked 133)
 | 2023-12-10 | 67,696 | 1,274 |
 | 2023-12-11 | 67,720 | 1,275 |
 | 2023-12-12 | 67,724 | 1,276 |
-| 2023-12-13 | 67,732 | 1,276 |
+| 2023-12-13 | 67,734 | 1,276 |
 ## Awards
 Max (Character Customization): 992  (Ranked 155)  
 Sum: 1,998 (Ranked 216)  

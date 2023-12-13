@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17196,
+  "EOS_Progressed": 17197,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7139,6 +7139,11 @@
       "Time": "2023-12-13T19:06:25.7633441+00:00",
       "NumProgressed": 17196,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T21:05:11.732737+00:00",
+      "NumProgressed": 17197,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -7150,7 +7155,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16336
+      "UsersEstimate": 16337
     },
     {
       "ID": "ACH001",
@@ -7182,7 +7187,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8426
+      "UsersEstimate": 8427
     },
     {
       "ID": "ACH0013",
@@ -7246,7 +7251,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12381
+      "UsersEstimate": 12382
     },
     {
       "ID": "ACH0020",
@@ -7318,7 +7323,7 @@
       "Name": "Head First",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "ACH006",
@@ -7326,7 +7331,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "ACH007",
@@ -7357,7 +7362,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17196,
+      "Progressed": 17197,
       "Completed": 1
     }
   ],
@@ -7365,8 +7370,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:05:36.0713689+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:05:11.7327367+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:50.9415215+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:59:03.664742+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:05:36.071407+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:58:53.403082+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:05:11.7327908+00:00"
 }

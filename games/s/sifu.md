@@ -7,18 +7,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 1.00% | ~274 |
-| Qi Gong: Breath | 0.80% | ~5,744 |
+| Qi Gong: Breath | 0.80% | ~5,745 |
 | Project Arena | 0.80% | ~219 |
-| The Old Grandmaster | 0.70% | ~5,026 |
-| The Assault | 0.70% | ~5,026 |
-| The Hateful Pole Fighter | 0.70% | ~5,026 |
-| A Lady's Blood in the Snow | 0.70% | ~5,026 |
-| Life is your teacher | 0.70% | ~5,026 |
-| State of constant learning | 0.70% | ~5,026 |
-| Qi Gong: Essence | 0.70% | ~5,026 |
-| Lightning Hands | 0.70% | ~5,026 |
-| Path of the Prospect | 0.70% | ~5,026 |
-| Rumble in the Hangar | 0.70% | ~5,026 |
+| The Old Grandmaster | 0.70% | ~5,027 |
+| The Assault | 0.70% | ~5,027 |
+| The Hateful Pole Fighter | 0.70% | ~5,027 |
+| A Lady's Blood in the Snow | 0.70% | ~5,027 |
+| Life is your teacher | 0.70% | ~5,027 |
+| State of constant learning | 0.70% | ~5,027 |
+| Qi Gong: Essence | 0.70% | ~5,027 |
+| Lightning Hands | 0.70% | ~5,027 |
+| Path of the Prospect | 0.70% | ~5,027 |
+| Rumble in the Hangar | 0.70% | ~5,027 |
 | Lady Wing Chun | 0.60% | ~4,308 |
 | Furious Fists | 0.60% | ~4,308 |
 | Kill Nil | 0.60% | ~4,308 |
@@ -33,7 +33,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.40% | ~2,872 |
 | Qi Gong: Mind | 0.40% | ~2,872 |
 | I know Kung-Fu | 0.40% | ~2,872 |
-| Bloody Sport | 0.40% | ~109 |
+| Bloody Sport | 0.40% | ~110 |
 | Muk Yan Master | 0.30% | ~2,154 |
 | Tiger on Fire | 0.30% | ~2,154 |
 | Source of Flying Daggers | 0.30% | ~2,154 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,056 (Ranked 24)  
+Progressed: 718,083 (Ranked 24)  
 Completed: 12,952 (1.80%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 12,952 (1.80%) (Ranked 136)
 | 2023-12-10 | 717,948 | 12,951 |
 | 2023-12-11 | 717,971 | 12,952 |
 | 2023-12-12 | 717,993 | 12,952 |
-| 2023-12-13 | 718,056 | 12,952 |
+| 2023-12-13 | 718,083 | 12,952 |
 ## Awards
 Max (Great Boss Battles): 6,915  (Ranked 55)  
 Sum: 12,141 (Ranked 83)  

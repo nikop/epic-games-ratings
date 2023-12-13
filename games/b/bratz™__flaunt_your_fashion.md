@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Stilesville | 94.00% | ~80 |
-| Talented Performer | 53.00% | ~45 |
-| Welcome to Barcelona | 52.00% | ~44 |
+| Talented Performer | 54.00% | ~46 |
+| Welcome to Barcelona | 53.00% | ~45 |
 | We will need a bigger wardrobe | 38.00% | ~32 |
 | Roller Race | 34.00% | ~29 |
 | Born to Win | 33.00% | ~28 |
 | Welcome to Seoul | 33.00% | ~28 |
 | Stilesville Hidden Style | 31.00% | ~26 |
+| Creating New Trends | 24.00% | ~20 |
 | Barcelona Hidden Style | 24.00% | ~20 |
 | Scooter Race | 24.00% | ~20 |
-| Creating New Trends | 22.00% | ~19 |
-| Best Gala Ever | 21.00% | ~18 |
-| Welcome to the The Stylin' Soiree | 21.00% | ~18 |
+| Best Gala Ever | 22.00% | ~19 |
+| Welcome to the The Stylin' Soiree | 22.00% | ~19 |
 | Seoul Hidden Style | 16.00% | ~14 |
 | Hoverboard Race | 6.00% | ~5 |
+| Trendy Selfies | 4.00% | ~3 |
 | Xtremely Cool Pictures | 2.00% | ~2 |
-| Trendy Selfies | 2.00% | ~2 |
 | Talented Photographer | 1.00% | ~1 |
 | Exclusive Photoshoot | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)

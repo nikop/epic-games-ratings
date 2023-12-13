@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9660,9 +9660,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126652,
+  "EOS_Progressed": 126669,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 957,
+  "EOS_NewPlayers": 970,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34870,6 +34870,11 @@
       "Time": "2023-12-13T20:09:25.1619569+00:00",
       "NumProgressed": 126652,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-13T21:08:53.9099686+00:00",
+      "NumProgressed": 126669,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -34919,9 +34924,9 @@
       "ID": "altar_of_hope_unlock_hero_hellion",
       "SetID": "64l4lke",
       "Name": "Unleash Hell",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 633
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -34959,9 +34964,9 @@
       "ID": "altar_of_hope_unlock_hero_vestal",
       "SetID": "64l4lke",
       "Name": "Unfulfilled Desires",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 633
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -35175,9 +35180,9 @@
       "ID": "driving_biome_clear_city",
       "SetID": "64l4lke",
       "Name": "Rush Hour",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 1013
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35199,9 +35204,9 @@
       "ID": "driving_biome_clear_forest",
       "SetID": "64l4lke",
       "Name": "To Grandmother\u0027s House",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 1013
     },
     {
       "ID": "driving_distance_easy",
@@ -35271,9 +35276,9 @@
       "ID": "inn_first_time",
       "SetID": "64l4lke",
       "Name": "A Place to Lay Your Head",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 760
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35295,9 +35300,9 @@
       "ID": "inn_visit_all_variants",
       "SetID": "64l4lke",
       "Name": "Worldly Traveller",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 633
+      "UsersEstimate": 760
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -35417,7 +35422,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "combat_kill_collector",
@@ -35425,7 +35430,7 @@
       "Name": "This guy... again?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35463,9 +35468,9 @@
       "ID": "hero_story_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Ploughshares to Swords",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35473,7 +35478,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "quest_complete_crusader",
@@ -35481,7 +35486,7 @@
       "Name": "Lost and Found",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35512,21 +35517,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126652,
+      "Progressed": 126669,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1521,
+      "Progressed": 1538,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-13T19:00:51.3220569+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:09:25.1619566+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:08:53.9099684+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:59:56.341296+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:09:25.1621243+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:59:39.8628475+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:08:53.9101102+00:00"
 }

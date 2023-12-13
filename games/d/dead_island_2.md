@@ -5,59 +5,59 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~22,029 |
-| Welcome To Hell-A | 3.00% | ~22,029 |
-| One of Us | 3.00% | ~1,795 |
-| Whatever It Takes | 3.00% | ~1,795 |
-| Pork Chopped | 3.00% | ~1,795 |
-| Dr. Reed, I Presume? | 2.00% | ~14,686 |
-| Git Gutte! | 2.00% | ~14,686 |
-| Anger Management | 2.00% | ~14,686 |
-| Bookworm | 2.00% | ~14,686 |
-| Break A Leg | 2.00% | ~14,686 |
-| But Doctor, I am Butcho | 2.00% | ~14,686 |
-| Can't Handle the Truth | 2.00% | ~14,686 |
-| Coup de Grâce | 2.00% | ~14,686 |
-| Like Riding a Bike | 2.00% | ~14,686 |
-| Hazardous Materials | 2.00% | ~14,686 |
-| Friends Like These | 2.00% | ~14,686 |
-| Apex Predator | 2.00% | ~14,686 |
-| Zombologist | 2.00% | ~14,686 |
-| A Patton Emerges | 2.00% | ~14,686 |
-| Stacking the Deck | 2.00% | ~14,686 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,686 |
-| Our True Nature | 2.00% | ~14,686 |
-| This is My Weapon | 2.00% | ~14,686 |
-| Making Your Mark | 1.00% | ~7,343 |
-| Perks of the Job | 1.00% | ~7,343 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,343 |
-| Slayer Squad | 1.00% | ~7,343 |
-| Ooh, Shiny! | 1.00% | ~7,343 |
-| Humanity Distilled | 1.00% | ~7,343 |
-| I Am the Resurrection | 1.00% | ~7,343 |
-| Down with the Sickness | 1.00% | ~7,343 |
-| Max Headroom | 1.00% | ~7,343 |
+| Hotel California | 3.00% | ~22,032 |
+| Welcome To Hell-A | 3.00% | ~22,032 |
+| One of Us | 3.00% | ~1,798 |
+| Whatever It Takes | 3.00% | ~1,798 |
+| Pork Chopped | 3.00% | ~1,798 |
+| Dr. Reed, I Presume? | 2.00% | ~14,688 |
+| Git Gutte! | 2.00% | ~14,688 |
+| Anger Management | 2.00% | ~14,688 |
+| Bookworm | 2.00% | ~14,688 |
+| Break A Leg | 2.00% | ~14,688 |
+| But Doctor, I am Butcho | 2.00% | ~14,688 |
+| Can't Handle the Truth | 2.00% | ~14,688 |
+| Coup de Grâce | 2.00% | ~14,688 |
+| Like Riding a Bike | 2.00% | ~14,688 |
+| Hazardous Materials | 2.00% | ~14,688 |
+| Friends Like These | 2.00% | ~14,688 |
+| Apex Predator | 2.00% | ~14,688 |
+| Zombologist | 2.00% | ~14,688 |
+| A Patton Emerges | 2.00% | ~14,688 |
+| Stacking the Deck | 2.00% | ~14,688 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,688 |
+| Our True Nature | 2.00% | ~14,688 |
+| This is My Weapon | 2.00% | ~14,688 |
+| Making Your Mark | 1.00% | ~7,344 |
+| Perks of the Job | 1.00% | ~7,344 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,344 |
+| Slayer Squad | 1.00% | ~7,344 |
+| Ooh, Shiny! | 1.00% | ~7,344 |
+| Humanity Distilled | 1.00% | ~7,344 |
+| I Am the Resurrection | 1.00% | ~7,344 |
+| Down with the Sickness | 1.00% | ~7,344 |
+| Max Headroom | 1.00% | ~7,344 |
 | Jumbo Keyring | 0.90% | ~6,609 |
 | Go, Bobcats! | 0.90% | ~6,609 |
 | Rising Star | 0.90% | ~6,609 |
-| Not Even My Final Form | 0.80% | ~5,874 |
-| Smorgasbord | 0.70% | ~5,140 |
-| Internet Famous | 0.70% | ~5,140 |
+| Not Even My Final Form | 0.80% | ~5,875 |
+| Smorgasbord | 0.70% | ~5,141 |
+| Internet Famous | 0.70% | ~5,141 |
 | Make it So | 0.60% | ~4,406 |
 | On Safari | 0.60% | ~4,406 |
 | Variety is the Spice of Death | 0.60% | ~4,406 |
 | LA Influential | 0.50% | ~3,672 |
 | Gore Horse | 0.50% | ~3,672 |
-| Sole Survivor | 0.40% | ~2,937 |
-| Sharpest Tool in the Box | 0.40% | ~2,937 |
-| Top That, Tisha! | 0.40% | ~239 |
+| Sole Survivor | 0.40% | ~2,938 |
+| Sharpest Tool in the Box | 0.40% | ~2,938 |
+| Top That, Tisha! | 0.40% | ~240 |
 | Survival Skills | 0.30% | ~2,203 |
 | Lawn and Order | 0.20% | ~120 |
 | Donk! | 0.10% | ~734 |
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,300 (Ranked 21)  
+Progressed: 734,385 (Ranked 21)  
 Completed: 2,482 (0.34%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 2,482 (0.34%) (Ranked 235)
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
 | 2023-12-12 | 733,868 | 2,480 |
-| 2023-12-13 | 734,300 | 2,482 |
+| 2023-12-13 | 734,385 | 2,482 |
 ## Awards
 Max (Great Boss Battles): 8,125  (Ranked 49)  
 Sum: 12,503 (Ranked 81)  

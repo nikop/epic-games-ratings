@@ -1,23 +1,23 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.13 (Ranked 973)  
+Rating: 4.13 (Ranked 972)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 10.00% | ~4,361 |
 | Unlocked Potential | 9.00% | ~3,925 |
-| Tinkerer | 7.00% | ~3,052 |
-| Leapfrogger | 6.00% | ~2,616 |
-| Knock 'Em Dead | 6.00% | ~2,616 |
-| Pilgrimage: Initiate | 6.00% | ~2,616 |
-| Hell of a Run | 6.00% | ~2,616 |
-| Call of the Fount: Baptized | 6.00% | ~2,616 |
-| No Mercy | 5.00% | ~2,180 |
-| Explorer: Seeker | 5.00% | ~2,180 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,744 |
-| Stuck | 4.00% | ~1,744 |
-| Help Me Out Here | 4.00% | ~1,744 |
+| Tinkerer | 7.00% | ~3,053 |
+| Leapfrogger | 6.00% | ~2,617 |
+| Knock 'Em Dead | 6.00% | ~2,617 |
+| Pilgrimage: Initiate | 6.00% | ~2,617 |
+| Hell of a Run | 6.00% | ~2,617 |
+| Call of the Fount: Baptized | 6.00% | ~2,617 |
+| No Mercy | 5.00% | ~2,181 |
+| Explorer: Seeker | 5.00% | ~2,181 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,745 |
+| Stuck | 4.00% | ~1,745 |
+| Help Me Out Here | 4.00% | ~1,745 |
 | The Interloper | 3.00% | ~1,308 |
 | Hop, Step, Jump | 3.00% | ~1,308 |
 | Endless Runner | 3.00% | ~1,308 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 973)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,607 (Ranked 119)  
+Progressed: 43,613 (Ranked 119)  
 Completed: 3 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 3 (0.01%) (Ranked 350)
 | 2023-12-10 | 43,521 | 3 |
 | 2023-12-11 | 43,556 | 3 |
 | 2023-12-12 | 43,579 | 3 |
-| 2023-12-13 | 43,607 | 3 |
+| 2023-12-13 | 43,613 | 3 |
 ## Awards
 Max (Character Customization): 30  (Ranked 503)  
 Sum: 30 (Ranked 519)  

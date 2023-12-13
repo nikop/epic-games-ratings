@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -494,6 +494,11 @@
       "Time": "2023-12-13T17:08:24.9958472+00:00",
       "NumProgressed": 104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T21:08:29.4433692+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -528,9 +533,9 @@
       "ID": "SG_ALLTHEHELPYOUNEED",
       "SetID": "bj5g0n4",
       "Name": "All The Help You Need",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -544,9 +549,9 @@
       "ID": "SG_BRANDNEWCHORUS",
       "SetID": "bj5g0n4",
       "Name": "Brand New Chorus",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "SG_BRAVEONTIME",
@@ -560,9 +565,9 @@
       "ID": "SG_CHARISMATIC",
       "SetID": "bj5g0n4",
       "Name": "Charismatic",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "SG_CUNNING",
@@ -576,7 +581,7 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
       "UsersEstimate": 77
     },
@@ -600,7 +605,7 @@
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -648,9 +653,9 @@
       "ID": "SG_MYTIMETOSHINE",
       "SetID": "bj5g0n4",
       "Name": "My Time To Shine",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -680,7 +685,7 @@
       "ID": "SG_SAYINGGOODBYE",
       "SetID": "bj5g0n4",
       "Name": "Saying Goodbye",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -801,14 +806,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:08:58.4938278+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:08:29.4433689+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:54.1006899+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:03:02.3750578+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:08:58.4938517+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:02:42.3672703+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:08:29.4433938+00:00"
 }

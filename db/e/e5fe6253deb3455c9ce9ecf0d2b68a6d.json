@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 320,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1224,6 +1224,11 @@
       "Time": "2023-12-07T15:05:49.448882+00:00",
       "NumProgressed": 319,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T21:05:22.7958311+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1258,9 +1263,9 @@
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 202
     },
     {
       "ID": "Island",
@@ -1276,7 +1281,7 @@
       "Name": "In the last second",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "Master",
@@ -1347,14 +1352,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 320,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:05:48.2886833+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:05:22.7958308+00:00",
   "LastUpdate_AppInfo": "2023-12-12T02:57:11.9041929+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:00:14.6501199+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:05:48.2886976+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:59:54.1364094+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:05:22.7958481+00:00"
 }

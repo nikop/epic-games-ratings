@@ -6,7 +6,7 @@ Rating: 4.62 (Ranked 372)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 34.00% | ~324 |
-| Rail Rat | 27.00% | ~257 |
+| Rail Rat | 27.00% | ~258 |
 | The Mysterious Stranger | 26.00% | ~248 |
 | Immaculate Aim | 23.00% | ~219 |
 | The Brass Boss | 23.00% | ~219 |
@@ -15,9 +15,9 @@ Rating: 4.62 (Ranked 372)
 | Time Flies | 22.00% | ~210 |
 | The Harder They Fall | 22.00% | ~210 |
 | No, Thanks! | 22.00% | ~210 |
-| Breaking Down Barriers | 22.00% | ~210 |
 | The Prince in Heels | 22.00% | ~210 |
 | Immaculate Aim | 22.00% | ~210 |
+| Breaking Down Barriers | 21.00% | ~200 |
 | The Wicked Twins | 21.00% | ~200 |
 | Honest Mistake | 21.00% | ~200 |
 | Fast Learner | 21.00% | ~200 |
@@ -32,8 +32,8 @@ Rating: 4.62 (Ranked 372)
 | Street Style | 17.00% | ~162 |
 | Whiz Kid | 15.00% | ~143 |
 | Cartographer | 15.00% | ~143 |
-| Treasure Trove | 14.00% | ~133 |
-| Good Neighbor | 14.00% | ~133 |
+| Treasure Trove | 14.00% | ~134 |
+| Good Neighbor | 14.00% | ~134 |
 | Chaincrawler Explorer | 12.00% | ~114 |
 | Family Memories | 12.00% | ~114 |
 | Ask Questions Later | 12.00% | ~114 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 372)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 953 (Ranked 274)  
+Progressed: 954 (Ranked 274)  
 Completed: 6 (0.63%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 6 (0.63%) (Ranked 193)
 | 2023-11-30 | 945 | 6 |
 | 2023-12-01 | 946 | 6 |
 | 2023-12-06 | 947 | 6 |
-| 2023-12-13 | 953 | 6 |
+| 2023-12-13 | 954 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,12 +2,12 @@
   "ID": "60e3b72c80a24bc2acefa354e4b71d9f",
   "Name": "Dinosaur Fossil Hunter",
   "ProductSlug": "dinosaur-fossil-hunter",
-  "Ranking_Rating": 928,
+  "Ranking_Rating": 927,
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 463,
+  "Ranking_EOS_NewPlayers": 465,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-04T17:00:00+00:00",
@@ -49,6 +49,6 @@
   "FirstSeenRating": "2022-11-23T10:58:52.2589903+00:00",
   "LastChanged": "2023-03-31T05:58:23.376659+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:11.0530908+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:57:10.7309202+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:08:17.1944441+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:57:12.2083419+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:06:33.091666+00:00"
 }

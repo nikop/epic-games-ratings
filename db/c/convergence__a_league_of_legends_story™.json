@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 953,
+  "EOS_Progressed": 954,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2569,6 +2569,11 @@
       "Time": "2023-12-13T20:10:09.5523074+00:00",
       "NumProgressed": 953,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-13T21:09:34.3066268+00:00",
+      "NumProgressed": 954,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2604,7 +2609,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2740,7 +2745,7 @@
       "Name": "Rail Rat",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "HexlockGift",
@@ -2842,9 +2847,9 @@
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 200
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2980,7 +2985,7 @@
       "Name": "Good Neighbor",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Zarkon1Defeated",
@@ -3003,7 +3008,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 953,
+      "Progressed": 954,
       "Completed": 6
     }
   ],
@@ -3011,8 +3016,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:10:09.5523071+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:09:34.3066264+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:00:25.2361243+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:10:09.5523597+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:00:04.1411946+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:09:34.3066738+00:00"
 }

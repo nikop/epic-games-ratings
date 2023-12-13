@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3350,
+  "EOS_Progressed": 3351,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4109,6 +4109,11 @@
       "Time": "2023-12-13T18:07:45.6860979+00:00",
       "NumProgressed": 3350,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T21:06:19.949869+00:00",
+      "NumProgressed": 3351,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4392,7 +4397,7 @@
       "Name": "Nemesis Master",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -4400,7 +4405,7 @@
       "Name": "Gunmaster",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "MasterOfTheForge",
@@ -4480,7 +4485,7 @@
       "Name": "Just a Scratch",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "NexusCompleted",
@@ -4663,21 +4668,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3350,
+      "Progressed": 3351,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3350,
+      "Progressed": 3351,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-12T16:03:26.7422514+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:08:02.0201907+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:06:19.9498687+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0749768+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:03:23.5641076+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:08:02.0202548+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:02:59.5982662+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:06:19.9499247+00:00"
 }

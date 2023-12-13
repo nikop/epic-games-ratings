@@ -5,9 +5,9 @@
   "Ranking_Rating": 599,
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
-  "Ranking_EOS_Progress": 329,
+  "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 463,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 438,
+  "EOS_Progressed": 439,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -478,6 +478,11 @@
       "Time": "2023-12-09T22:06:09.7176379+00:00",
       "NumProgressed": 438,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T21:06:33.1850253+00:00",
+      "NumProgressed": 439,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -487,9 +492,9 @@
       "ID": "assemble-team1",
       "SetID": "799afm0",
       "Name": "Strength and Sorcery",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "assemble-team2",
@@ -521,7 +526,7 @@
       "Name": "Frugal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "collect-discounted-items2",
@@ -537,7 +542,7 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "different-items1",
@@ -545,7 +550,7 @@
       "Name": "Party",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "different-items2",
@@ -559,9 +564,9 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 158
     },
     {
       "ID": "finished-quest-cube",
@@ -585,7 +590,7 @@
       "Name": "Campaigning",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "finished-quest-nurgle",
@@ -593,7 +598,7 @@
       "Name": "Feed a God",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "finished-quest-pit",
@@ -617,7 +622,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "finished-quest-sci",
@@ -625,7 +630,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "finished-quest-secret",
@@ -641,7 +646,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "get-all",
@@ -705,7 +710,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "win-first-level",
@@ -713,7 +718,7 @@
       "Name": "Good start!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "win-koth-fights1",
@@ -721,7 +726,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "win-koth-fights2",
@@ -768,7 +773,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 438,
+      "Progressed": 439,
       "Completed": 1
     }
   ],
@@ -776,8 +781,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:08:17.3203309+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:06:33.1850249+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:47.7142412+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:58:08.4445343+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:08:17.3203513+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:58:04.5473387+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:06:33.1850446+00:00"
 }

@@ -6,30 +6,30 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,056 |
-| Gun Fu | 7.00% | ~68,283 |
-| Right Back At Ya | 6.00% | ~58,528 |
-| The Fool | 6.00% | ~58,528 |
-| The Lovers | 5.00% | ~48,773 |
+| V for Vendetta | 12.00% | ~117,058 |
+| Gun Fu | 7.00% | ~68,284 |
+| Right Back At Ya | 6.00% | ~58,529 |
+| The Fool | 6.00% | ~58,529 |
+| The Lovers | 5.00% | ~48,774 |
 | Full Body Conversion | 4.00% | ~39,019 |
 | Stanislavski's Method | 4.00% | ~39,019 |
 | The Wheel of Fortune | 4.00% | ~39,019 |
 | True Soldier | 4.00% | ~39,019 |
 | All the President's Men | 4.00% | ~4,164 |
-| Christmas Tree Attack | 3.00% | ~29,264 |
-| The Hermit | 3.00% | ~29,264 |
-| The High Priestess | 3.00% | ~29,264 |
-| True Warrior | 3.00% | ~29,264 |
-| Legend of The Afterlife | 3.00% | ~29,264 |
+| Christmas Tree Attack | 3.00% | ~29,265 |
+| The Hermit | 3.00% | ~29,265 |
+| The High Priestess | 3.00% | ~29,265 |
+| True Warrior | 3.00% | ~29,265 |
+| Legend of The Afterlife | 3.00% | ~29,265 |
 | Relic Ruler | 3.00% | ~3,123 |
 | Arachnophobia | 3.00% | ~3,123 |
-| Bushido and Chill | 2.00% | ~19,509 |
-| Master Crafter | 2.00% | ~19,509 |
-| I Am The Law | 2.00% | ~19,509 |
-| The Quick and the Dead | 2.00% | ~19,509 |
-| Life of the Road | 2.00% | ~19,509 |
-| The World | 2.00% | ~19,509 |
-| Judy vs Night City | 2.00% | ~19,509 |
+| Bushido and Chill | 2.00% | ~19,510 |
+| Master Crafter | 2.00% | ~19,510 |
+| I Am The Law | 2.00% | ~19,510 |
+| The Quick and the Dead | 2.00% | ~19,510 |
+| Life of the Road | 2.00% | ~19,510 |
+| The World | 2.00% | ~19,510 |
+| Judy vs Night City | 2.00% | ~19,510 |
 | To Protect and Serve | 1.00% | ~9,755 |
 | The Wandering Fool | 1.00% | ~9,755 |
 | Two Heads, One Bullet | 1.00% | ~9,755 |
@@ -43,10 +43,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.60% | ~5,853 |
 | The Star | 0.60% | ~5,853 |
 | Autojock | 0.50% | ~4,877 |
-| The APB is Not Enough | 0.50% | ~520 |
-| Judgement Day | 0.50% | ~520 |
-| King of Swords | 0.50% | ~520 |
-| The Tower | 0.50% | ~520 |
+| The APB is Not Enough | 0.50% | ~521 |
+| Judgement Day | 0.50% | ~521 |
+| King of Swords | 0.50% | ~521 |
+| The Tower | 0.50% | ~521 |
 | Must Be Rats | 0.40% | ~3,902 |
 | Temperance | 0.40% | ~3,902 |
 | King of Pentacles | 0.40% | ~416 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,469 (Ranked 15)  
+Progressed: 975,485 (Ranked 15)  
 Completed: 2,899 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 2,899 (0.30%) (Ranked 241)
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
 | 2023-12-12 | 975,121 | 2,891 |
-| 2023-12-13 | 975,469 | 2,899 |
+| 2023-12-13 | 975,485 | 2,899 |
 ## Awards
 Max (Character Customization): 122,342  (Ranked 9)  
 Sum: 415,864 (Ranked 9)  

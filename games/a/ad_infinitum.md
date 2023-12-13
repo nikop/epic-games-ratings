@@ -16,12 +16,12 @@
 | Clarity | 18.00% | ~13 |
 | The shining | 18.00% | ~13 |
 | Mayhem | 17.00% | ~12 |
-| Reflections | 15.00% | ~11 |
-| Health | 13.00% | ~9 |
+| Reflections | 17.00% | ~12 |
+| Health | 14.00% | ~10 |
 | Awaiting orders | 10.00% | ~7 |
+| Jigsaw | 10.00% | ~7 |
 | An act of courage | 8.00% | ~6 |
 | Art critic | 8.00% | ~6 |
-| Jigsaw | 8.00% | ~6 |
 | Lost | 8.00% | ~6 |
 | Peace | 8.00% | ~6 |
 | An act of compassion | 4.00% | ~3 |

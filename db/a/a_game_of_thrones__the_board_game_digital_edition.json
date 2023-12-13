@@ -2,13 +2,13 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 918,
+  "Ranking_Rating": 917,
   "Ranking_Popularity": 338,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1332,7 +1332,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30292,
+  "EOS_Progressed": 30296,
   "EOS_Completed": 83,
   "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 1,
@@ -26752,6 +26752,11 @@
       "Time": "2023-12-13T20:10:06.6097047+00:00",
       "NumProgressed": 30292,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-12-13T21:09:31.3637285+00:00",
+      "NumProgressed": 30296,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 22,
@@ -26795,7 +26800,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "1020",
@@ -26835,7 +26840,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2423
+      "UsersEstimate": 2424
     },
     {
       "ID": "1025",
@@ -26851,7 +26856,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "1027",
@@ -26859,7 +26864,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "1028",
@@ -26875,7 +26880,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2423
+      "UsersEstimate": 2424
     },
     {
       "ID": "1030",
@@ -26883,7 +26888,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6058
+      "UsersEstimate": 6059
     },
     {
       "ID": "1031",
@@ -26899,7 +26904,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12117
+      "UsersEstimate": 12118
     },
     {
       "ID": "1033",
@@ -26915,7 +26920,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "1035",
@@ -26931,22 +26936,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2423
+      "UsersEstimate": 2424
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30292,
+      "Progressed": 30296,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:10:06.6097045+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:09:31.3637282+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:17.8374063+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:59:19.176+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:10:06.6098347+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:59:07.202411+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:09:31.3638576+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "315f40c8c7ae4f95ad7426f364a39194",
   "Name": "Fangs",
   "ProductSlug": "fangs",
-  "Ranking_Rating": 962,
+  "Ranking_Rating": 961,
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 463,
+  "Ranking_EOS_NewPlayers": 465,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-11-30T18:00:00+00:00",
@@ -135,6 +135,6 @@
   "FirstSeenRating": "2022-12-07T16:57:36.8831309+00:00",
   "LastChanged": "2023-12-05T19:00:46.8988725+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:13.8983298+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:00:00.0686561+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:09:47.8728089+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:59:43.3027508+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:09:14.5553915+00:00"
 }

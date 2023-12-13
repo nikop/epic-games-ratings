@@ -6,9 +6,9 @@
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 260,
-  "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_Completed": 118,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -122,10 +122,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1148,
-  "EOS_Completed": 30,
-  "EOS_NewPlayers": 293,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.61,
+  "EOS_Completed": 31,
+  "EOS_NewPlayers": 292,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -3921,6 +3921,11 @@
       "Time": "2023-12-13T20:03:47.8224057+00:00",
       "NumProgressed": 1148,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-13T21:03:22.3720446+00:00",
+      "NumProgressed": 1148,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 28,
@@ -4058,9 +4063,9 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 482
+      "UsersEstimate": 494
     },
     {
       "ID": "MQ05_4",
@@ -4106,9 +4111,9 @@
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 218
     },
     {
       "ID": "MQ07_2",
@@ -4156,15 +4161,15 @@
       "ID": "bbing49",
       "IsBase": true,
       "Progressed": 1148,
-      "Completed": 30
+      "Completed": 31
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-12T11:03:07.9199744+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:03:47.8224052+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:03:22.3720436+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:03:25.0635171+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:03:47.8224774+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:03:00.7387773+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:03:22.3720743+00:00"
 }

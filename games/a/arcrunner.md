@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Augmented | 32.00% | ~277 |
 | Challenge Accepted | 27.00% | ~234 |
-| Terminated I | 26.00% | ~225 |
-| Nanonic I | 25.00% | ~216 |
+| Terminated I | 27.00% | ~234 |
+| Nanonic I | 25.00% | ~217 |
 | Unlocked and Loaded | 24.00% | ~208 |
 | Terminated II | 21.00% | ~182 |
 | The City | 19.00% | ~165 |
@@ -26,15 +26,15 @@
 | Outer Core | 5.00% | ~43 |
 | Inner Core | 4.00% | ~35 |
 | Integration | 3.00% | ~26 |
-| Trickshot | 2.00% | ~17 |
 | Destruction | 1.00% | ~9 |
+| Trickshot | 1.00% | ~9 |
 | Hard Boiled | 0.60% | ~5 |
 | Ripperdoc | 0.60% | ~5 |
 | Weaponsmith | 0.30% | ~3 |
 | Cyborg | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 866 (Ranked 278)  
+Progressed: 867 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-10 | 858 | 0 |
 | 2023-12-11 | 862 | 0 |
 | 2023-12-12 | 865 | 0 |
-| 2023-12-13 | 866 | 0 |
+| 2023-12-13 | 867 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

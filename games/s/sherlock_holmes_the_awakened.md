@@ -15,8 +15,8 @@ Rating: 4.57 (Ranked 482)
 | The New World | 45.00% | ~517 |
 | Gaze Into The Abyss | 43.00% | ~494 |
 | Open Sesame | 43.00% | ~494 |
+| Sticky Fingers | 43.00% | ~494 |
 | Lock, Stock, And Barrel | 42.00% | ~482 |
-| Sticky Fingers | 42.00% | ~482 |
 | Knives Out | 42.00% | ~482 |
 | Back In The Saddle | 41.00% | ~471 |
 | Land, Ho! | 41.00% | ~471 |
@@ -29,13 +29,13 @@ Rating: 4.57 (Ranked 482)
 | Let Me Be Frank | 34.00% | ~390 |
 | No Stone Unturned | 31.00% | ~356 |
 | Brain Food | 30.00% | ~344 |
+| Read It And Weep | 19.00% | ~218 |
 | Curiosity Killed The Cat | 18.00% | ~207 |
-| Read It And Weep | 18.00% | ~207 |
 | Big Breakthrough | 12.00% | ~138 |
 | Reawakened | 3.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,148 (Ranked 260)  
-Completed: 30 (2.61%) (Ranked 119)  
+Completed: 31 (2.70%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 30 (2.61%) (Ranked 119)
 | 2023-12-10 | 1,063 | 28 |
 | 2023-12-11 | 1,109 | 30 |
 | 2023-12-12 | 1,134 | 30 |
-| 2023-12-13 | 1,148 | 30 |
+| 2023-12-13 | 1,148 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

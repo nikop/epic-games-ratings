@@ -13,7 +13,7 @@ Rating: 4.28 (Ranked 864)
 | ROTY | 32.00% | ~1,268 |
 | Roster Reshuffle | 31.00% | ~1,228 |
 | Future of the Franchise | 19.00% | ~753 |
-| Throwin’ Dots | 17.00% | ~674 |
+| Throwin’ Dots | 18.00% | ~713 |
 | Already in Progress | 17.00% | ~674 |
 | Primetime | 16.00% | ~634 |
 | Change of Scenery | 16.00% | ~634 |

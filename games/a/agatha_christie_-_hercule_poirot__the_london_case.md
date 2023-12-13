@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 73.00% | ~29 |
-| Little ideas | 66.00% | ~26 |
-| The Ship | 63.00% | ~25 |
-| Seeking the truth | 56.00% | ~22 |
+| Marc Allard | 78.00% | ~32 |
+| Little ideas | 71.00% | ~29 |
+| The Ship | 68.00% | ~28 |
+| Seeking the truth | 56.00% | ~23 |
 | An old friend | 54.00% | ~22 |
-| The Gala | 51.00% | ~20 |
-| A curious gathering | 51.00% | ~20 |
+| The Gala | 51.00% | ~21 |
+| A curious gathering | 51.00% | ~21 |
 | Little grey cells | 49.00% | ~20 |
 | Impossible is possible | 49.00% | ~20 |
 | The Missing Magdalene | 49.00% | ~20 |
 | Arthur Hastings | 49.00% | ~20 |
 | Everything matters | 44.00% | ~18 |
-| Order and method | 41.00% | ~16 |
-| An expert mediator | 41.00% | ~16 |
-| DI Hardwicke | 41.00% | ~16 |
+| Order and method | 41.00% | ~17 |
+| An expert mediator | 41.00% | ~17 |
+| DI Hardwicke | 41.00% | ~17 |
 | Betty Allen | 39.00% | ~16 |
 | The Investigation Begins | 39.00% | ~16 |
 | Ms. Camilla B. Culsham | 34.00% | ~14 |
@@ -51,8 +51,8 @@
 | A true performance | 12.00% | ~5 |
 | Perkins | 7.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 529)  
-Completed: 1 (2.50%) (Ranked 120)  
+Progressed: 41 (Ranked 528)  
+Completed: 1 (2.44%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,4 +89,4 @@ Completed: 1 (2.50%) (Ranked 120)
 | 2023-11-29 | 36 | 1 |
 | 2023-12-01 | 38 | 1 |
 | 2023-12-04 | 39 | 1 |
-| 2023-12-13 | 40 | 1 |
+| 2023-12-13 | 41 | 1 |

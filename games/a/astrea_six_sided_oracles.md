@@ -7,10 +7,10 @@
 | Meissa's Savior | 58.00% | ~59 |
 | Purification Pioneer | 56.00% | ~57 |
 | Mechanical Buddy | 52.00% | ~53 |
-| Dicesmithing Time! | 48.00% | ~49 |
-| Endless Tricks | 45.00% | ~46 |
-| Sanctuary Guardian | 44.00% | ~45 |
-| Mind Illuminator | 38.00% | ~39 |
+| Dicesmithing Time! | 49.00% | ~50 |
+| Endless Tricks | 46.00% | ~47 |
+| Sanctuary Guardian | 45.00% | ~46 |
+| Mind Illuminator | 39.00% | ~40 |
 | Noctuan Champion | 37.00% | ~38 |
 | Wild's Keeper | 36.00% | ~37 |
 | Stellar Dismantler | 33.00% | ~34 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 445)  
+Progressed: 102 (Ranked 446)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |

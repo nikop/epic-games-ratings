@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -921,7 +921,7 @@
   ],
   "EOS_Progressed": 3962,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7146,9 +7146,9 @@
       "ID": "achievement_3",
       "SetID": "c8fif6p",
       "Name": "Throwin\u2019 Dots",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 674
+      "UsersEstimate": 713
     },
     {
       "ID": "achievement_4",
@@ -7211,8 +7211,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-12T01:51:23.6885803+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:05:26.264254+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:05:02.8404718+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:06.4979086+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:03:17.5386896+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:05:26.2642898+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:02:54.5383701+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:05:02.8405023+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -189,9 +189,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1074,
+  "EOS_Progressed": 1075,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2884,6 +2884,11 @@
       "Time": "2023-12-12T15:05:44.8146057+00:00",
       "NumProgressed": 1074,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T21:05:47.9834723+00:00",
+      "NumProgressed": 1075,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -2904,7 +2909,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "AC02",
@@ -2936,7 +2941,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "AC06",
@@ -2944,7 +2949,7 @@
       "Name": "The Last Ascension",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "AC07",
@@ -2958,9 +2963,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 666
+      "UsersEstimate": 656
     },
     {
       "ID": "AC09",
@@ -2984,7 +2989,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "AC12",
@@ -3022,9 +3027,9 @@
       "ID": "AC16",
       "SetID": "l4abp0",
       "Name": "Weight of Penance",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 226
     },
     {
       "ID": "AC17",
@@ -3040,7 +3045,7 @@
       "Name": "Acquired Taste",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "AC19",
@@ -3048,7 +3053,7 @@
       "Name": "Soledad",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "AC20",
@@ -3072,7 +3077,7 @@
       "Name": "Empty Handed",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "AC23",
@@ -3104,7 +3109,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "AC27",
@@ -3120,7 +3125,7 @@
       "Name": "The Punished One",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "AC29",
@@ -3136,7 +3141,7 @@
       "Name": "The Anointed One",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "AC31",
@@ -3168,7 +3173,7 @@
       "Name": "A Sharp Rendezvous",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "AC35",
@@ -3184,7 +3189,7 @@
       "Name": "Blessed Incense",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "AC37",
@@ -3208,7 +3213,7 @@
       "Name": "Warrior of the Silent Sorrow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "AC40",
@@ -3216,7 +3221,7 @@
       "Name": "Welcome Back!",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "AC41",
@@ -3263,7 +3268,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 1074,
+      "Progressed": 1075,
       "Completed": 0
     }
   ],
@@ -3271,8 +3276,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-08T06:57:28.1346674+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:06:15.5691536+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:05:47.983472+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:44.5606116+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:00:57.6772579+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:06:15.5692021+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:00:32.2936967+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:05:47.9835409+00:00"
 }

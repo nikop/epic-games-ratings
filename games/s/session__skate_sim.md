@@ -10,14 +10,14 @@ Number of Ratings: 111  (23.09.2022)
 | Keeping it classy | 29.00% | ~904 |
 | Welcome to the family | 23.00% | ~717 |
 | The finer things in life | 20.00% | ~623 |
-| Backpacker | 15.00% | ~467 |
+| Backpacker | 15.00% | ~468 |
 | Go with the Flow | 14.00% | ~436 |
 | Plastic Surgeon | 11.00% | ~343 |
 | The flip trick crown jewel | 11.00% | ~343 |
 | The hard way | 11.00% | ~343 |
 | Keep the dream alive | 10.00% | ~312 |
 | Upfront shredder | 10.00% | ~312 |
-| Good vibes | 9.00% | ~280 |
+| Good vibes | 9.00% | ~281 |
 | Bottom ply killer | 8.00% | ~249 |
 | Fashionista | 8.00% | ~249 |
 | Finally he zips it | 8.00% | ~249 |
@@ -44,7 +44,7 @@ Number of Ratings: 111  (23.09.2022)
 | G.O.A.T. status | 4.00% | ~125 |
 | Hoarder | 4.00% | ~125 |
 | Pew-Pew | 4.00% | ~125 |
-| Many plys later... | 3.00% | ~93 |
+| Many plys later... | 3.00% | ~94 |
 | Cross lock country | 2.00% | ~62 |
 | That was wheelie fun | 2.00% | ~62 |
 | Dipped! | 1.00% | ~31 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,116 (Ranked 213)  
+Progressed: 3,117 (Ranked 213)  
 Completed: 2 (0.06%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,15 +267,15 @@ Completed: 2 (0.06%) (Ranked 315)
 | 2023-12-10 | 3,111 | 2 |
 | 2023-12-11 | 3,112 | 2 |
 | 2023-12-12 | 3,114 | 2 |
-| 2023-12-13 | 3,116 | 2 |
+| 2023-12-13 | 3,117 | 2 |
 ## Awards
-Max (Great for Quick Sessions): 59  (Ranked 418)  
-Sum: 561 (Ranked 320)  
-Diff (max vs sum): 98  
+Max (Great for Quick Sessions): 59  (Ranked 419)  
+Sum: 562 (Ranked 320)  
+Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
+| This game is Highly Recommended | 59 |
 | This game is Great for Quick Sessions | 59 |
-| This game is Highly Recommended | 58 |
 | This game has Diverse Characters | 54 |
 | This game has Amazing Characters | 49 |
 | This game has Realistic Visuals | 49 |
@@ -469,4 +469,4 @@ Diff (max vs sum): 98
 | 2023-12-03 | 4.69 | - | 58 | 557 |
 | 2023-12-07 | 4.69 | - | 58 | 558 |
 | 2023-12-09 | 4.69 | - | 59 | 560 |
-| 2023-12-13 | 4.69 | - | 59 | 561 |
+| 2023-12-13 | 4.69 | - | 59 | 562 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,7 +643,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4007,
+  "EOS_Progressed": 4008,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -8568,6 +8568,11 @@
       "Time": "2023-12-13T11:08:45.7215564+00:00",
       "NumProgressed": 4007,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-13T21:08:42.7719046+00:00",
+      "NumProgressed": 4008,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8659,7 +8664,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1884
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8699,7 +8704,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8779,7 +8784,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8891,7 +8896,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9051,7 +9056,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -9146,13 +9151,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3958,
+      "Progressed": 3959,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4007,
+      "Progressed": 4008,
       "Completed": 11
     }
   ],
@@ -9160,8 +9165,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:09:13.3328817+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:08:42.7719043+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.4789046+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:59:39.8142781+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:09:13.3329565+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:59:24.8838397+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:08:42.771978+00:00"
 }

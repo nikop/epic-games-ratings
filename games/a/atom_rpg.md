@@ -24,9 +24,9 @@ Number of Ratings: 54  (23.09.2022)
 | Not-so-private Eye | 8.00% | ~108 |
 | The Vitinsky Rifle | 7.00% | ~95 |
 | Protection racket | 5.00% | ~68 |
+| Sacrifice | 5.00% | ~68 |
 | Secret room | 5.00% | ~68 |
 | Indy | 4.00% | ~54 |
-| Sacrifice | 4.00% | ~54 |
 | Wishmaster | 3.00% | ~40 |
 | Career criminal | 2.00% | ~27 |
 | Neanderthal | 2.00% | ~27 |

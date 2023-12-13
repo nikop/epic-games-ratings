@@ -5,10 +5,10 @@
   "Ranking_Rating": 1002,
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
-  "Ranking_EOS_Progress": 348,
+  "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -1622,6 +1622,11 @@
       "Time": "2023-12-13T20:09:58.3393404+00:00",
       "NumProgressed": 342,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T21:09:23.9940743+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1632,9 +1637,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 316
     },
     {
       "ID": "achievement_10",
@@ -1650,7 +1655,7 @@
       "Name": "The Means to Save It",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_12",
@@ -1690,7 +1695,7 @@
       "Name": "Recruit",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_17",
@@ -1810,7 +1815,7 @@
       "Name": "No More Names",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_41",
@@ -1842,7 +1847,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_45",
@@ -1864,9 +1869,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_49",
@@ -1928,9 +1933,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_60",
@@ -1978,7 +1983,7 @@
       "Name": "Good Boy",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_7",
@@ -2002,14 +2007,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 2
     }
   ],
@@ -2017,8 +2022,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-09T15:57:09.3357471+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:09:58.3393401+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:09:23.9940741+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9844668+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:59:56.8771531+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:09:58.3393725+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:59:40.2346532+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:09:23.9941049+00:00"
 }

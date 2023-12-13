@@ -2,9 +2,9 @@
   "ID": "0904b974619a436ebc70ec7a374572d8",
   "Name": "Picklock",
   "ProductSlug": "picklock-33eab8",
-  "Ranking_EOS_Progress": 545,
+  "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 32,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -174,6 +174,11 @@
       "Time": "2023-12-11T21:08:57.2038772+00:00",
       "NumProgressed": 31,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T21:09:41.0875651+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:08:04.2785789+00:00",
@@ -200,7 +205,7 @@
       "ID": "ach_picklock11",
       "SetID": "753ghg2",
       "Name": "Neighbor\u0027s house",
-      "Percentage": 65,
+      "Percentage": 63,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -208,7 +213,7 @@
       "ID": "ach_picklock12",
       "SetID": "753ghg2",
       "Name": "Sewing factory",
-      "Percentage": 74,
+      "Percentage": 72,
       "XP": 45,
       "UsersEstimate": 23
     },
@@ -216,7 +221,7 @@
       "ID": "ach_picklock13",
       "SetID": "753ghg2",
       "Name": "Butcher shop",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -224,7 +229,7 @@
       "ID": "ach_picklock14",
       "SetID": "753ghg2",
       "Name": "Cinema",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 40,
       "UsersEstimate": 19
     },
@@ -232,7 +237,7 @@
       "ID": "ach_picklock15",
       "SetID": "753ghg2",
       "Name": "Shop dairy",
-      "Percentage": 55,
+      "Percentage": 53,
       "XP": 40,
       "UsersEstimate": 17
     },
@@ -240,7 +245,7 @@
       "ID": "ach_picklock16",
       "SetID": "753ghg2",
       "Name": "Loft",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 40,
       "UsersEstimate": 10
     },
@@ -248,7 +253,7 @@
       "ID": "ach_picklock17",
       "SetID": "753ghg2",
       "Name": "Transport company",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 40,
       "UsersEstimate": 7
     },
@@ -296,7 +301,7 @@
       "ID": "ach_picklock22",
       "SetID": "753ghg2",
       "Name": "Night Club",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -312,7 +317,7 @@
       "ID": "ach_picklock24",
       "SetID": "753ghg2",
       "Name": "Shadow",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 40,
       "UsersEstimate": 7
     },
@@ -328,7 +333,7 @@
       "ID": "ach_picklock4",
       "SetID": "753ghg2",
       "Name": "Fix it",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 40,
       "UsersEstimate": 11
     },
@@ -344,7 +349,7 @@
       "ID": "ach_picklock6",
       "SetID": "753ghg2",
       "Name": "Great bike, bro",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 45,
       "UsersEstimate": 3
     },
@@ -352,7 +357,7 @@
       "ID": "ach_picklock7",
       "SetID": "753ghg2",
       "Name": "Good movie",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 40,
       "UsersEstimate": 19
     },
@@ -368,7 +373,7 @@
       "ID": "ach_picklock9",
       "SetID": "753ghg2",
       "Name": "I, the millionaire!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 3
     }
@@ -377,14 +382,14 @@
     {
       "ID": "753ghg2",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 32,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:10:17.1753017+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:09:41.0875645+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:58.7290951+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:03:15.2802712+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:10:17.1753141+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:02:52.6291922+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:09:41.0875801+00:00"
 }

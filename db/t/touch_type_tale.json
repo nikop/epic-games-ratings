@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3834,
+  "EOS_Progressed": 3835,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4797,6 +4797,11 @@
       "Time": "2023-12-11T10:04:15.0300117+00:00",
       "NumProgressed": 3834,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-13T21:05:56.5767345+00:00",
+      "NumProgressed": 3835,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4808,7 +4813,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "bonus2",
@@ -4944,7 +4949,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2914
+      "UsersEstimate": 2915
     },
     {
       "ID": "campaign20",
@@ -4960,7 +4965,7 @@
       "Name": "Economics 101",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "campaign4",
@@ -4968,7 +4973,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "campaign5",
@@ -4976,7 +4981,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "campaign6",
@@ -4984,7 +4989,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "campaign7",
@@ -5008,7 +5013,7 @@
       "Name": "Boulder Clash",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "scenario1",
@@ -5071,7 +5076,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3834,
+      "Progressed": 3835,
       "Completed": 11
     }
   ],
@@ -5079,8 +5084,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:06:25.253179+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:05:56.5767343+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.2611829+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:58:04.7728067+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:06:25.2532264+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:58:00.8709905+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:05:56.5767676+00:00"
 }

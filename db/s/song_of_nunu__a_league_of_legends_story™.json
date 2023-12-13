@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -2935,9 +2935,9 @@
       "ID": "EV_ACH38",
       "SetID": "6jeac23",
       "Name": "Vertical Power",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 316
     },
     {
       "ID": "EV_ACH39",
@@ -3000,8 +3000,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-09T18:58:15.9696889+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:10:30.8685418+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:09:53.5409566+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:39.9940514+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:02:41.972859+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:10:30.8685822+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:00:35.0872649+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:09:53.5410021+00:00"
 }

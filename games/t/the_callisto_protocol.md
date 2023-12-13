@@ -1,32 +1,32 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 939)  
+Rating: 4.19 (Ranked 938)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 10.00% | ~1,654 |
+| Get a Grip | 10.00% | ~1,655 |
 | Paper Jams | 9.00% | ~1,489 |
-| Flesh Wound | 8.00% | ~1,323 |
-| Float Like A Butterfly | 8.00% | ~1,323 |
+| Flesh Wound | 8.00% | ~1,324 |
+| Float Like A Butterfly | 8.00% | ~1,324 |
 | Chew 'Em Up | 7.00% | ~1,158 |
 | The Outer Way | 7.00% | ~1,158 |
-| Two Heads Are Better Than One | 6.00% | ~992 |
-| Workplace Hazard | 6.00% | ~992 |
-| Reforged | 6.00% | ~992 |
-| If the SHU Fits... | 6.00% | ~992 |
-| Without A Paddle | 6.00% | ~992 |
-| In the Pipe, Five by Five | 6.00% | ~992 |
-| Desperate Times | 6.00% | ~992 |
-| Crash Site | 6.00% | ~992 |
-| Full Circle | 6.00% | ~992 |
-| Power Up | 6.00% | ~992 |
+| Two Heads Are Better Than One | 6.00% | ~993 |
+| Workplace Hazard | 6.00% | ~993 |
+| Reforged | 6.00% | ~993 |
+| If the SHU Fits... | 6.00% | ~993 |
+| Without A Paddle | 6.00% | ~993 |
+| In the Pipe, Five by Five | 6.00% | ~993 |
+| Desperate Times | 6.00% | ~993 |
+| Crash Site | 6.00% | ~993 |
+| Full Circle | 6.00% | ~993 |
+| Power Up | 6.00% | ~993 |
 | Keep Fighting | 6.00% | ~268 |
 | You Need a Gun | 5.00% | ~827 |
 | I Do Belong Here | 5.00% | ~827 |
 | Terminated | 5.00% | ~827 |
 | What Lies Beneath | 5.00% | ~827 |
-| It's Time | 5.00% | ~223 |
+| It's Time | 5.00% | ~224 |
 | Giving Back | 4.00% | ~662 |
 | The Commonality | 3.00% | ~496 |
 | One Last Job | 3.00% | ~134 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,539 (Ranked 150)  
+Progressed: 16,547 (Ranked 150)  
 Completed: 81 (0.49%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 81 (0.49%) (Ranked 213)
 | 2023-12-09 | 16,521 | 81 |
 | 2023-12-10 | 16,523 | 81 |
 | 2023-12-11 | 16,525 | 81 |
-| 2023-12-13 | 16,539 | 81 |
+| 2023-12-13 | 16,547 | 81 |
 ## Awards
 Max (Quickly Understood Controls): 85  (Ranked 388)  
 Sum: 505 (Ranked 327)  

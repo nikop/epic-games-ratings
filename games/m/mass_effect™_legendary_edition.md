@@ -33,8 +33,8 @@
 | Sentinel Ally | 41.00% | ~653 |
 | Head Hunter | 40.00% | ~637 |
 | Scholar | 40.00% | ~637 |
+| Veteran | 39.00% | ~621 |
 | Operative | 39.00% | ~621 |
-| Veteran | 38.00% | ~605 |
 | The Archangel | 38.00% | ~605 |
 | The Professor | 38.00% | ~605 |
 | Power Full | 37.00% | ~589 |
@@ -59,12 +59,12 @@
 | Focused | 31.00% | ~494 |
 | Completionist | 31.00% | ~494 |
 | Fade Away | 31.00% | ~494 |
+| Treason | 31.00% | ~494 |
 | Big Game Hunter | 31.00% | ~494 |
 | Heart of Darkness | 31.00% | ~494 |
 | Bringer of War | 31.00% | ~494 |
 | Cat's in the Cradle | 30.00% | ~478 |
 | Doppelganger | 30.00% | ~478 |
-| Treason | 30.00% | ~478 |
 | Agent | 30.00% | ~478 |
 | Digital Exorcist | 30.00% | ~478 |
 | Mobilizer | 30.00% | ~478 |

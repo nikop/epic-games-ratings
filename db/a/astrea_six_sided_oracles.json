@@ -2,9 +2,9 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 445,
+  "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -748,17 +748,17 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -884,9 +884,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -980,9 +980,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Sentinelphobic",
@@ -1315,8 +1315,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:06:20.9669132+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:05:52.7790031+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.3287789+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:58:07.1312696+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:06:20.9669925+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:58:03.4710828+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:05:52.779078+00:00"
 }

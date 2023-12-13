@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -1458,9 +1458,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "aemieak",
       "Name": "The first of many",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 191
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -1705,8 +1705,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:09:27.1097961+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:08:55.7092846+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:19.1623578+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:00:20.4065804+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:09:27.1098187+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:59:59.1300695+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:08:55.7093082+00:00"
 }

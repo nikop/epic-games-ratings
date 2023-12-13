@@ -778,9 +778,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 42142,
+  "EOS_Progressed": 42145,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24908,6 +24908,11 @@
       "Time": "2023-12-13T20:05:03.0264574+00:00",
       "NumProgressed": 42142,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-13T21:04:41.6368486+00:00",
+      "NumProgressed": 42145,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -24935,7 +24940,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7164
+      "UsersEstimate": 7165
     },
     {
       "ID": "ach_antiquarian10",
@@ -25039,7 +25044,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15171
+      "UsersEstimate": 15172
     },
     {
       "ID": "ach_die10",
@@ -25287,7 +25292,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6321
+      "UsersEstimate": 6322
     },
     {
       "ID": "ach_undercurrent",
@@ -25327,7 +25332,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3371
+      "UsersEstimate": 3372
     },
     {
       "ID": "ach_year10",
@@ -25350,15 +25355,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 42142,
+      "Progressed": 42145,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-12T19:58:23.5805042+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:05:03.026457+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:04:41.6368483+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:24.6930369+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:59:28.1328559+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:05:03.0266185+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:59:15.3035255+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:04:41.6369687+00:00"
 }

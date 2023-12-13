@@ -3,11 +3,11 @@
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 232,
-  "Ranking_Popularity": 418,
+  "Ranking_Popularity": 419,
   "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1169,10 +1169,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 561,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-12-13T20:58:56.6586469+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 562,
+      "NumberOfAwardsMax": 59
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 561,
+  "NumberOfAwards": 562,
   "NumberOfAwardsMax": 59,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1180,7 +1186,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game is Relaxing",
@@ -1249,9 +1255,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 3116,
+  "EOS_Progressed": 3117,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6014,6 +6020,11 @@
       "Time": "2023-12-13T20:03:49.4302819+00:00",
       "NumProgressed": 3116,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T21:03:23.9585109+00:00",
+      "NumProgressed": 3117,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -6025,7 +6036,7 @@
       "Name": "Backpacker",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_BING-BONG",
@@ -6153,7 +6164,7 @@
       "Name": "Good vibes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_HOARDER",
@@ -6217,7 +6228,7 @@
       "Name": "Many plys later...",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_NAHELL",
@@ -6408,15 +6419,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3116,
+      "Progressed": 3117,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-12-13T13:58:46.4117256+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:03:49.4302816+00:00",
+  "LastChanged": "2023-12-13T20:58:56.6586467+00:00",
+  "LastChanged_Achievements": "2023-12-13T21:03:23.9585105+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:24.2282938+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:59:07.2731406+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:03:49.430334+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:58:56.6586472+00:00",
+  "LastUpdate_Achievements": "2023-12-13T21:03:23.9586271+00:00"
 }
