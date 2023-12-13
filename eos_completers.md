@@ -77,10 +77,10 @@
 | 75 | [JARS](games/j/jars.md) | 4.95% |
 | 76 | [Bugsnax](games/b/bugsnax.md) | 4.86% |
 | 77 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
-| 77 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
-| 79 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.68% |
-| 80 | [ZZT!](games/z/zzt!.md) | 4.65% |
-| 81 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.54% |
+| 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.68% |
+| 79 | [ZZT!](games/z/zzt!.md) | 4.65% |
+| 80 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.55% |
+| 81 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.53% |
 | 82 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.49% |
 | 83 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.35% |
 | 83 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
@@ -97,7 +97,7 @@
 | 95 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
 | 96 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.33% |
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
-| 98 | [Destiny 2](games/d/destiny_2.md) | 3.26% |
+| 98 | [Destiny 2](games/d/destiny_2.md) | 3.27% |
 | 99 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.22% |
 | 100 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 101 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
@@ -675,6 +675,7 @@
 | 373 | [Sands of Aura](games/s/sands_of_aura.md) | 0.00% |
 | 373 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 0.00% |
 | 373 | [Sea Horizon](games/b/bcd479d96de045fa8805f2bf4962475e.md) | 0.00% |
+| 373 | [Settlement Survival](games/0/0407f287e7574d88b7c00895f14628d8.md) | 0.00% |
 | 373 | [Shadow Gangs](games/s/shadow_gangs.md) | 0.00% |
 | 373 | [Shalnor Legends 2: Trials of Thunder](games/d/d26c3a62ed20492f90a07c3a27e8db97.md) | 0.00% |
 | 373 | [Shame Legacy](games/s/shame_legacy.md) | 0.00% |
