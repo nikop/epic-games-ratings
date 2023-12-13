@@ -5,15 +5,15 @@ Rating: 4.40 (Ranked 744)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~40,297 |
-| IT MAKES BOOM! | 7.00% | ~23,507 |
-| EXTRA BOOST | 6.00% | ~20,148 |
-| PROTECTED | 4.00% | ~13,432 |
-| PRO | 4.00% | ~13,432 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,074 |
-| AGGRESSIVE RACER | 3.00% | ~10,074 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,716 |
-| A TIGER'S FEAR | 2.00% | ~6,716 |
+| ROOKIE | 12.00% | ~40,300 |
+| IT MAKES BOOM! | 7.00% | ~23,508 |
+| EXTRA BOOST | 6.00% | ~20,150 |
+| PROTECTED | 4.00% | ~13,433 |
+| PRO | 4.00% | ~13,433 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,075 |
+| AGGRESSIVE RACER | 3.00% | ~10,075 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,717 |
+| A TIGER'S FEAR | 2.00% | ~6,717 |
 | TRAINING HARD | 1.00% | ~3,358 |
 | RELEASE THE KRAKEN | 1.00% | ~3,358 |
 | BE OUR GUEST | 1.00% | ~3,358 |
@@ -21,7 +21,7 @@ Rating: 4.40 (Ranked 744)
 | FRIENDLY | 1.00% | ~3,358 |
 | MASTER | 1.00% | ~3,358 |
 | LEGENDARY HERO | 1.00% | ~3,358 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,686 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,687 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,351 |
 | EXPERIENCED CREW | 0.60% | ~2,015 |
 | ACE DEFENDER | 0.60% | ~2,015 |
@@ -30,7 +30,7 @@ Rating: 4.40 (Ranked 744)
 | ACE TRICKSTER | 0.40% | ~1,343 |
 | PERFECTLY POISED | 0.30% | ~1,007 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335,808 (Ranked 50)  
+Progressed: 335,830 (Ranked 50)  
 Completed: 563 (0.17%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,10 +263,10 @@ Completed: 563 (0.17%) (Ranked 271)
 | 2023-12-10 | 333,976 | 537 |
 | 2023-12-11 | 334,723 | 548 |
 | 2023-12-12 | 335,467 | 559 |
-| 2023-12-13 | 335,808 | 563 |
+| 2023-12-13 | 335,830 | 563 |
 ## Awards
 Max (Great for Beginners): 127  (Ranked 337)  
-Sum: 859 (Ranked 278)  
+Sum: 860 (Ranked 278)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -280,7 +280,7 @@ Diff (max vs sum): 59
 | This game is Extremely Fun | 58 |
 | This game has Competitive Players | 55 |
 | This game has Quickly Understood Controls | 50 |
-| This game is Relaxing | 49 |
+| This game is Relaxing | 50 |
 | This game has Amazing Storytelling | 47 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -358,4 +358,4 @@ Diff (max vs sum): 59
 | 2023-12-10 | 4.39 | 119 | 826 |
 | 2023-12-11 | 4.39 | 122 | 840 |
 | 2023-12-12 | 4.39 | 127 | 858 |
-| 2023-12-13 | 4.40 | 127 | 859 |
+| 2023-12-13 | 4.40 | 127 | 860 |

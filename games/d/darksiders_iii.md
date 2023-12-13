@@ -70,6 +70,13 @@ Number of Ratings: 116  (23.09.2022)
 | Made of Sterner Stuff | 0.00% | ~0 |
 | Just the start | 0.00% | ~0 |
 | Take it to the Limit | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 728)  
+Completed: 0 (0.00%) (Ranked 373)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-12-13 | 1 | 0 |
 ## Awards
 Max (Great Boss Battles): 91  (Ranked 382)  
 Sum: 91 (Ranked 461)  

@@ -3,12 +3,12 @@
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
   "Ranking_Rating": 718,
-  "Ranking_Popularity": 544,
-  "Ranking_PopularitySum": 546,
+  "Ranking_Popularity": 543,
+  "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -288,9 +288,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 24823,
+  "EOS_Progressed": 24827,
   "EOS_Completed": 155,
-  "EOS_NewPlayers": 1011,
+  "EOS_NewPlayers": 1007,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -6703,6 +6703,11 @@
       "Time": "2023-12-13T10:09:47.8512187+00:00",
       "NumProgressed": 24823,
       "NumCompleted": 155
+    },
+    {
+      "Time": "2023-12-13T11:09:44.3218212+00:00",
+      "NumProgressed": 24827,
+      "NumCompleted": 155
     }
   ],
   "TotalAchievements": 24,
@@ -6754,7 +6759,7 @@
       "Name": "Finale",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "ACH_S8AllBronze",
@@ -6762,7 +6767,7 @@
       "Name": "Bronze Trophy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_S8AllCubes",
@@ -6778,7 +6783,7 @@
       "Name": "Gold Trophy",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_S8AllMasterRoom",
@@ -6786,7 +6791,7 @@
       "Name": "Hopefully that\u0027s all of them!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_S8AllPuzzleRooms",
@@ -6794,7 +6799,7 @@
       "Name": "Phew!",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_S8AllPuzzles",
@@ -6802,7 +6807,7 @@
       "Name": "The Puzzle Master",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_S8AllSilver",
@@ -6810,7 +6815,7 @@
       "Name": "Silver Trophy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_S8Exit",
@@ -6818,7 +6823,7 @@
       "Name": "Completed It.",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_S8MasterRoom",
@@ -6842,7 +6847,7 @@
       "Name": "Sector 1",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6702
+      "UsersEstimate": 6703
     },
     {
       "ID": "ACH_Sector2",
@@ -6866,7 +6871,7 @@
       "Name": "Sector 4",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 4220
+      "UsersEstimate": 4221
     },
     {
       "ID": "ACH_Sector5",
@@ -6898,14 +6903,14 @@
       "Name": "Did That Work? -- No!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 24823,
+      "Progressed": 24827,
       "Completed": 155
     }
   ],
@@ -6913,8 +6918,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-12-11T17:59:07.2531282+00:00",
-  "LastChanged_Achievements": "2023-12-13T10:09:47.8512185+00:00",
+  "LastChanged_Achievements": "2023-12-13T11:09:44.3218207+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:34.026415+00:00",
-  "LastUpdate_Ratings": "2023-12-13T10:00:11.171095+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:09:47.8512646+00:00"
+  "LastUpdate_Ratings": "2023-12-13T11:00:06.0762754+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:09:44.3218648+00:00"
 }

@@ -13,8 +13,8 @@
 | Carlos Is Tangled | 47.00% | ~21 |
 | Mandy Family | 44.00% | ~20 |
 | Clear the Road | 42.00% | ~19 |
-| Paw patrol member | 38.00% | ~17 |
-| Robot Out of Control | 38.00% | ~17 |
+| Paw patrol member | 40.00% | ~18 |
+| Robot Out of Control | 40.00% | ~18 |
 | Break Time | 36.00% | ~16 |
 | Master of the Rope | 33.00% | ~15 |
 | In the Air | 33.00% | ~15 |

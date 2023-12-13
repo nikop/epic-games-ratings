@@ -7,10 +7,10 @@
 | The Camp | 60.00% | ~331 |
 | The Teleprobe | 49.00% | ~270 |
 | The City | 45.00% | ~248 |
-| The field base | 42.00% | ~231 |
+| The field base | 42.00% | ~232 |
 | Survivors | 37.00% | ~204 |
-| The Condor | 34.00% | ~187 |
-| The End | 34.00% | ~187 |
+| The Condor | 34.00% | ~188 |
+| The End | 34.00% | ~188 |
 | The Alliance | 27.00% | ~149 |
 | The Necroevolution | 27.00% | ~149 |
 | Peacemaker | 23.00% | ~127 |
@@ -34,7 +34,7 @@
 | Convoy list | 0.90% | ~5 |
 | No more mistakes | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 551 (Ranked 311)  
+Progressed: 552 (Ranked 311)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,3 +72,4 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-10 | 545 | 0 |
 | 2023-12-11 | 548 | 0 |
 | 2023-12-12 | 551 | 0 |
+| 2023-12-13 | 552 | 0 |

@@ -651,10 +651,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 212,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-12-13T11:02:58.94356+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 213,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 212,
+  "NumberOfAwards": 213,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -710,7 +716,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -719,9 +725,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 237373,
+  "EOS_Progressed": 237379,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1114,
+  "EOS_NewPlayers": 1116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17234,6 +17240,11 @@
       "Time": "2023-12-13T10:09:50.6533568+00:00",
       "NumProgressed": 237373,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T11:09:46.967913+00:00",
+      "NumProgressed": 237379,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -17302,7 +17313,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49848
+      "UsersEstimate": 49850
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -17334,7 +17345,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4747
+      "UsersEstimate": 4748
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -17358,7 +17369,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4747
+      "UsersEstimate": 4748
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -17366,7 +17377,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4747
+      "UsersEstimate": 4748
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -17430,7 +17441,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33232
+      "UsersEstimate": 33233
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -17438,7 +17449,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16616
+      "UsersEstimate": 16617
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -17446,7 +17457,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4747
+      "UsersEstimate": 4748
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -17502,7 +17513,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59343
+      "UsersEstimate": 59345
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -17510,23 +17521,23 @@
       "Name": "Raiders Retreat Complete",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     }
   ],
   "AchievementSets": [
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 237373,
+      "Progressed": 237379,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-12-13T01:51:01.3924785+00:00",
-  "LastChanged_Achievements": "2023-12-13T10:09:50.6533565+00:00",
+  "LastChanged": "2023-12-13T11:02:58.9435598+00:00",
+  "LastChanged_Achievements": "2023-12-13T11:09:46.9679126+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:08.4919895+00:00",
-  "LastUpdate_Ratings": "2023-12-13T10:03:14.6160048+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:09:50.6534521+00:00"
+  "LastUpdate_Ratings": "2023-12-13T11:02:58.9435604+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:09:46.9680122+00:00"
 }

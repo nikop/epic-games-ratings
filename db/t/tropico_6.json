@@ -1443,9 +1443,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6307,
+  "EOS_Progressed": 6308,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14233,6 +14233,11 @@
       "Time": "2023-12-13T02:30:58.5490353+00:00",
       "NumProgressed": 6307,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T11:05:58.7534819+00:00",
+      "NumProgressed": 6308,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14340,7 +14345,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -14404,7 +14409,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4730
+      "UsersEstimate": 4731
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14428,7 +14433,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -14436,7 +14441,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_MYWAYS",
@@ -14474,9 +14479,9 @@
       "ID": "ACH_SURVIVOR",
       "SetID": "1p8ab95",
       "Name": "Survivor",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -14500,7 +14505,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2901
+      "UsersEstimate": 2902
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14524,7 +14529,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -14548,7 +14553,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -14563,15 +14568,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6307,
+      "Progressed": 6308,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-13T06:00:46.4990656+00:00",
-  "LastChanged_Achievements": "2023-12-13T10:06:11.4426072+00:00",
+  "LastChanged_Achievements": "2023-12-13T11:05:58.7534815+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.3070216+00:00",
-  "LastUpdate_Ratings": "2023-12-13T10:00:27.1404737+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:06:11.4426899+00:00"
+  "LastUpdate_Ratings": "2023-12-13T11:00:23.4608559+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:05:58.7535548+00:00"
 }

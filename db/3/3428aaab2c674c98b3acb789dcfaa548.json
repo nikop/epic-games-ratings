@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2010-10-19T11:26:00+00:00",
@@ -8921,9 +8921,9 @@
       "Count": 1343
     }
   ],
-  "EOS_Progressed": 859030,
+  "EOS_Progressed": 859041,
   "EOS_Completed": 214,
-  "EOS_NewPlayers": 5019,
+  "EOS_NewPlayers": 5013,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -32666,6 +32666,11 @@
       "Time": "2023-12-13T10:08:41.6144124+00:00",
       "NumProgressed": 859030,
       "NumCompleted": 214
+    },
+    {
+      "Time": "2023-12-13T11:08:37.5739815+00:00",
+      "NumProgressed": 859041,
+      "NumCompleted": 214
     }
   ],
   "TotalAchievements": 75,
@@ -32677,7 +32682,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 223348
+      "UsersEstimate": 223351
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -32829,7 +32834,7 @@
       "Name": "G.I. Blues",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34361
+      "UsersEstimate": 34362
     },
     {
       "ID": "ACHIEVEMENT_GLOBE_TROTTER",
@@ -32885,7 +32890,7 @@
       "Name": "Jury Rigger",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34361
+      "UsersEstimate": 34362
     },
     {
       "ID": "ACHIEVEMENT_KNOW_WHEN_TO_FOLD_EM",
@@ -32997,7 +33002,7 @@
       "Name": "No Tumbler Fumbler",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34361
+      "UsersEstimate": 34362
     },
     {
       "ID": "ACHIEVEMENT_OLD_TYME_BRAWLER",
@@ -33037,7 +33042,7 @@
       "Name": "Outstanding Orator",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34361
+      "UsersEstimate": 34362
     },
     {
       "ID": "ACHIEVEMENT_O_DAUGHER_OF_BABYLON",
@@ -33141,7 +33146,7 @@
       "Name": "That Lucky Old Sun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34361
+      "UsersEstimate": 34362
     },
     {
       "ID": "ACHIEVEMENT_THEY_WENT_THAT_A_WAY",
@@ -33197,7 +33202,7 @@
       "Name": "Up and Comer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34361
+      "UsersEstimate": 34362
     },
     {
       "ID": "ACHIEVEMENT_UP_TO_THE_CHALLENGE",
@@ -33221,7 +33226,7 @@
       "Name": "Volare!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34361
+      "UsersEstimate": 34362
     },
     {
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
@@ -33276,13 +33281,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 859030,
+      "Progressed": 859041,
       "Completed": 261
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 859030,
+      "Progressed": 859041,
       "Completed": 214
     }
   ],
@@ -33290,8 +33295,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-12-13T09:58:49.3084786+00:00",
-  "LastChanged_Achievements": "2023-12-13T10:08:41.6144123+00:00",
+  "LastChanged_Achievements": "2023-12-13T11:08:37.5739811+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:57:00.3375823+00:00",
-  "LastUpdate_Ratings": "2023-12-13T09:58:49.3084792+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:08:41.6145722+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:58:44.7140603+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:08:37.5741416+00:00"
 }

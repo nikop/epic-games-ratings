@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11839,10 +11839,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 50554,
       "NumberOfAwardsMax": 25134
+    },
+    {
+      "Time": "2023-12-13T11:00:33.2523337+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50556,
+      "NumberOfAwardsMax": 25134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50554,
+  "NumberOfAwards": 50556,
   "NumberOfAwardsMax": 25134,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11910,7 +11916,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1218
+      "Count": 1220
     },
     {
       "Text": "This game has a Creative Community",
@@ -11919,9 +11925,9 @@
       "Count": 852
     }
   ],
-  "EOS_Progressed": 304278,
+  "EOS_Progressed": 304279,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -37274,6 +37280,11 @@
       "Time": "2023-12-13T10:06:12.5013553+00:00",
       "NumProgressed": 304278,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-13T11:05:59.8439676+00:00",
+      "NumProgressed": 304279,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37285,7 +37296,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48684
+      "UsersEstimate": 48685
     },
     {
       "ID": "PFA_10",
@@ -37573,7 +37584,7 @@
       "Name": "Raising Expectations",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21299
+      "UsersEstimate": 21300
     },
     {
       "ID": "PFA_43",
@@ -37644,16 +37655,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304278,
+      "Progressed": 304279,
       "Completed": 525
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-13T03:01:28.8747262+00:00",
-  "LastChanged_Achievements": "2023-12-13T10:06:12.5013551+00:00",
+  "LastChanged": "2023-12-13T11:00:33.2523335+00:00",
+  "LastChanged_Achievements": "2023-12-13T11:05:59.8439672+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-13T10:00:36.608449+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:06:12.5014814+00:00"
+  "LastUpdate_Ratings": "2023-12-13T11:00:33.2523343+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:05:59.8441509+00:00"
 }

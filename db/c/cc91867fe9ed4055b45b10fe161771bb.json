@@ -2,7 +2,7 @@
   "ID": "cc91867fe9ed4055b45b10fe161771bb",
   "Name": "Yodanji",
   "ProductSlug": "yodanji-5a175c",
-  "Ranking_EOS_Progress": 793,
+  "Ranking_EOS_Progress": 794,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 126,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-31T04:57:13.7069659+00:00",
   "LastUpdate_AppInfo": "2023-12-12T19:56:58.952953+00:00",
-  "LastUpdate_Ratings": "2023-12-13T09:57:23.5541318+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:08:28.3997067+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:57:19.9094502+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:06:44.7656821+00:00"
 }

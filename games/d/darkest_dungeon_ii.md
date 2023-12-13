@@ -8,15 +8,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 4.00% | ~57 |
 | This Belongs in a Museum | 2.00% | ~2,531 |
-| This guy... again? | 2.00% | ~28 |
-| Lost and Found | 2.00% | ~28 |
-| Not Today! | 1.00% | ~1,265 |
-| Creep and Sleep | 1.00% | ~1,265 |
-| Meat and Greet | 1.00% | ~1,265 |
-| Catch and Decease | 1.00% | ~1,265 |
-| Overdue Notice | 1.00% | ~1,265 |
-| Escape from the Black Hole | 1.00% | ~1,265 |
-| Autodidact | 1.00% | ~1,265 |
+| This guy... again? | 2.00% | ~29 |
+| Lost and Found | 2.00% | ~29 |
+| Not Today! | 1.00% | ~1,266 |
+| Creep and Sleep | 1.00% | ~1,266 |
+| Meat and Greet | 1.00% | ~1,266 |
+| Catch and Decease | 1.00% | ~1,266 |
+| Overdue Notice | 1.00% | ~1,266 |
+| Escape from the Black Hole | 1.00% | ~1,266 |
+| Autodidact | 1.00% | ~1,266 |
 | Bloody Graduation | 1.00% | ~14 |
 | Serenity Now! | 0.70% | ~886 |
 | Don't Make Me Turn This Coach Around | 0.60% | ~759 |
@@ -39,6 +39,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unleash Hell | 0.40% | ~506 |
 | Funny Guy | 0.40% | ~506 |
 | Long Live the King | 0.40% | ~506 |
+| Wyrdly Reconstructed | 0.40% | ~506 |
 | Boxcar Kid | 0.40% | ~506 |
 | Unfulfilled Desires | 0.40% | ~506 |
 | Predator | 0.40% | ~506 |
@@ -47,14 +48,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Spelunker | 0.40% | ~506 |
 | Ramble On | 0.40% | ~506 |
 | A Clear Conscience | 0.40% | ~506 |
+| Worldly Traveller | 0.40% | ~506 |
 | Unshackled | 0.40% | ~506 |
 | Road Trip | 0.40% | ~506 |
-| Wyrdly Reconstructed | 0.30% | ~380 |
 | Hope Rekindled | 0.30% | ~380 |
 | Ichthyophobic | 0.30% | ~380 |
 | No More Mouths to Feed | 0.30% | ~380 |
 | When You Want Something Done Right | 0.30% | ~380 |
-| Worldly Traveller | 0.30% | ~380 |
 | Utopia | 0.30% | ~380 |
 | Hot Air | 0.30% | ~380 |
 | Eyes Up | 0.30% | ~380 |
@@ -65,6 +65,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Handled | 0.20% | ~253 |
 | Body of Work | 0.20% | ~253 |
 | Maître De La Lame | 0.20% | ~3 |
+| For Old Time' Sake | 0.20% | ~3 |
 | A Life Well Lived | 0.10% | ~127 |
 | The World As It Was | 0.10% | ~127 |
 | Loop Year | 0.10% | ~127 |
@@ -83,10 +84,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Battle Hardened | 0.10% | ~1 |
 | These Boots Are Made For Kickin' | 0.10% | ~1 |
 | No Mercy | 0.10% | ~1 |
-| For Old Time' Sake | 0.10% | ~1 |
 | On This Long Road, We Found Redemption | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,549 (Ranked 84)  
+Progressed: 126,557 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 2 (0.00%) (Ranked 373)
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
-| 2023-12-13 | 126,549 | 2 |
+| 2023-12-13 | 126,557 | 2 |
 ## Awards
 Max (Character Customization): 7,665  (Ranked 52)  
 Sum: 20,282 (Ranked 59)  

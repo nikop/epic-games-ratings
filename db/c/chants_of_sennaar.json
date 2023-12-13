@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -3884,9 +3884,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 193
+      "UsersEstimate": 203
     },
     {
       "ID": "END_GOOD",
@@ -4020,9 +4020,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 184
+      "UsersEstimate": 193
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -4091,8 +4091,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-13T10:04:18.3584532+00:00",
+  "LastChanged_Achievements": "2023-12-13T11:04:05.989214+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-13T09:58:39.7962257+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:04:18.3584899+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:58:35.9464846+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:04:05.98925+00:00"
 }

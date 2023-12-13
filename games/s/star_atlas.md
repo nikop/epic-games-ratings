@@ -3,8 +3,8 @@
 [View Rawdata](../../db/s/star_atlas.json)  
 Rating: 4.82 (Ranked 70)  
 ## Awards
-Max (Character Customization): 26  (Ranked 525)  
-Sum: 26 (Ranked 533)  
+Max (Character Customization): 26  (Ranked 524)  
+Sum: 26 (Ranked 532)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |

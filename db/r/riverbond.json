@@ -3,12 +3,12 @@
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
   "Ranking_Rating": 643,
-  "Ranking_Popularity": 554,
-  "Ranking_PopularitySum": 556,
+  "Ranking_Popularity": 553,
+  "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -499,7 +499,7 @@
   ],
   "EOS_Progressed": 533045,
   "EOS_Completed": 508,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -26040,8 +26040,8 @@
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-12-13T10:03:39.5224352+00:00",
+  "LastChanged_Achievements": "2023-12-13T11:03:26.8498902+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:06.8552827+00:00",
-  "LastUpdate_Ratings": "2023-12-13T09:59:00.9742096+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:03:39.5228674+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:58:56.572852+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:03:26.8500592+00:00"
 }

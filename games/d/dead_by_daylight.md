@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,743 |
-| Zealous | 2.00% | ~21,828 |
-| Not half bad | 2.00% | ~21,828 |
-| Apt Survivor | 2.00% | ~21,828 |
-| Survival Treasures | 2.00% | ~21,828 |
-| Skillful | 2.00% | ~21,828 |
-| I | 2.00% | ~21,828 |
-| Make Some Noise | 2.00% | ~21,828 |
-| The Grand Sacrifice | 1.00% | ~10,914 |
-| Agonizing Escape | 1.00% | ~10,914 |
-| Backdoor Escape | 1.00% | ~10,914 |
-| No one left behind | 1.00% | ~10,914 |
-| Medic | 1.00% | ~10,914 |
-| Handyman | 1.00% | ~10,914 |
-| Perfect Escape | 1.00% | ~10,914 |
-| Perfect Killing | 1.00% | ~10,914 |
-| Bloody Millionaire | 1.00% | ~10,914 |
-| Risk it all | 1.00% | ~10,914 |
-| II | 1.00% | ~10,914 |
-| Engineer | 1.00% | ~10,914 |
-| Sorted | 1.00% | ~10,914 |
-| Healthy Obsession | 1.00% | ~10,914 |
-| Resurgence | 1.00% | ~10,914 |
-| Close Shave | 1.00% | ~10,914 |
-| Preemptive Strike | 1.00% | ~10,914 |
-| Humanitarian | 1.00% | ~10,914 |
+| It wakes | 3.00% | ~32,745 |
+| Zealous | 2.00% | ~21,830 |
+| Not half bad | 2.00% | ~21,830 |
+| Apt Survivor | 2.00% | ~21,830 |
+| Survival Treasures | 2.00% | ~21,830 |
+| Skillful | 2.00% | ~21,830 |
+| I | 2.00% | ~21,830 |
+| Make Some Noise | 2.00% | ~21,830 |
+| The Grand Sacrifice | 1.00% | ~10,915 |
+| Agonizing Escape | 1.00% | ~10,915 |
+| Backdoor Escape | 1.00% | ~10,915 |
+| No one left behind | 1.00% | ~10,915 |
+| Medic | 1.00% | ~10,915 |
+| Handyman | 1.00% | ~10,915 |
+| Perfect Escape | 1.00% | ~10,915 |
+| Perfect Killing | 1.00% | ~10,915 |
+| Bloody Millionaire | 1.00% | ~10,915 |
+| Risk it all | 1.00% | ~10,915 |
+| II | 1.00% | ~10,915 |
+| Engineer | 1.00% | ~10,915 |
+| Sorted | 1.00% | ~10,915 |
+| Healthy Obsession | 1.00% | ~10,915 |
+| Resurgence | 1.00% | ~10,915 |
+| Close Shave | 1.00% | ~10,915 |
+| Preemptive Strike | 1.00% | ~10,915 |
+| Humanitarian | 1.00% | ~10,915 |
 | I've got your back | 0.90% | ~9,823 |
 | Apt Killer | 0.90% | ~9,823 |
 | Wounded Healer | 0.90% | ~9,823 |
-| III | 0.80% | ~8,731 |
+| III | 0.80% | ~8,732 |
 | Escape Artist | 0.70% | ~7,640 |
 | Vulture | 0.70% | ~7,640 |
 | First to the Punch | 0.70% | ~7,640 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,091 |
 | Adept Good Guy | 0.10% | ~1,091 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,091,424 (Ranked 12)  
+Progressed: 1,091,486 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -476,17 +476,17 @@ Completed: 62 (0.01%) (Ranked 350)
 | 2023-12-10 | 1,086,485 | 62 |
 | 2023-12-11 | 1,088,746 | 62 |
 | 2023-12-12 | 1,090,736 | 62 |
-| 2023-12-13 | 1,091,424 | 62 |
+| 2023-12-13 | 1,091,486 | 62 |
 ## Awards
 Max (Diverse Characters): 37,782  (Ranked 15)  
-Sum: 286,222 (Ranked 12)  
+Sum: 286,257 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37,782 |
 | This game is Highly Recommended | 32,762 |
 | This game has Amazing Characters | 32,240 |
-| This game has Competitive Players | 32,035 |
+| This game has Competitive Players | 32,070 |
 | This game is Extremely Fun | 31,731 |
 | This game has Challenging Combat | 31,620 |
 | This game has Quickly Understood Controls | 30,859 |
@@ -820,4 +820,4 @@ Diff (max vs sum): 3
 | 2023-12-10 | 4.51 | - | 37,638 | 285,419 |
 | 2023-12-11 | 4.51 | - | 37,692 | 285,774 |
 | 2023-12-12 | 4.51 | - | 37,733 | 286,071 |
-| 2023-12-13 | 4.51 | - | 37,782 | 286,222 |
+| 2023-12-13 | 4.51 | - | 37,782 | 286,257 |

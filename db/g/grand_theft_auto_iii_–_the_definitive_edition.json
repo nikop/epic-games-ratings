@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 913,
-  "Ranking_Popularity": 562,
-  "Ranking_PopularitySum": 562,
+  "Ranking_Popularity": 561,
+  "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 171,
@@ -559,9 +559,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8809,
+  "EOS_Progressed": 8810,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -12014,6 +12014,11 @@
       "Time": "2023-12-13T07:03:43.0029967+00:00",
       "NumProgressed": 8809,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-13T11:03:56.8304836+00:00",
+      "NumProgressed": 8810,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -12025,7 +12030,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7311
+      "UsersEstimate": 7312
     },
     {
       "ID": "ACH02",
@@ -12049,7 +12054,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3347
+      "UsersEstimate": 3348
     },
     {
       "ID": "ACH05",
@@ -12145,7 +12150,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "ACH17",
@@ -12256,7 +12261,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8809,
+      "Progressed": 8810,
       "Completed": 60
     }
   ],
@@ -12264,8 +12269,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-13T01:46:30.4576886+00:00",
-  "LastChanged_Achievements": "2023-12-13T10:04:09.3996637+00:00",
+  "LastChanged_Achievements": "2023-12-13T11:03:56.8304832+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:03.1675394+00:00",
-  "LastUpdate_Ratings": "2023-12-13T09:58:48.3389409+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:04:09.3997368+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:58:43.6629232+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:03:56.8305495+00:00"
 }

@@ -441,9 +441,9 @@
       "ID": "29",
       "SetID": "38ide56",
       "Name": "Paw patrol member",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "3",
@@ -473,9 +473,9 @@
       "ID": "6",
       "SetID": "38ide56",
       "Name": "Robot Out of Control",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "7",
@@ -514,8 +514,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-12-13T10:05:58.9029067+00:00",
+  "LastChanged_Achievements": "2023-12-13T11:05:46.0906343+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:54.1296322+00:00",
   "LastUpdate_Ratings": "2023-12-13T10:03:04.6035024+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:05:58.9029238+00:00"
+  "LastUpdate_Achievements": "2023-12-13T11:05:46.090655+00:00"
 }

@@ -3357,10 +3357,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3255,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-13T10:59:18.3182304+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3256,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3255,
+  "NumberOfAwards": 3256,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3374,7 +3380,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 434
+      "Count": 435
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3425,7 +3431,7 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18009,
+  "EOS_Progressed": 18010,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 382,
   "EOS_NewCompleters": -9,
@@ -15545,6 +15551,11 @@
       "Time": "2023-12-13T08:08:00.2286112+00:00",
       "NumProgressed": 18009,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-13T11:06:32.1177499+00:00",
+      "NumProgressed": 18010,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16028,15 +16039,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18009,
+      "Progressed": 18010,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-12T15:59:46.1889637+00:00",
-  "LastChanged_Achievements": "2023-12-13T10:06:44.7497028+00:00",
+  "LastChanged": "2023-12-13T10:59:18.3182302+00:00",
+  "LastChanged_Achievements": "2023-12-13T11:06:32.1177495+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-13T09:59:23.7912206+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:06:44.7498205+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:59:18.3182309+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:06:32.1178498+00:00"
 }

@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,009 (Ranked 147)  
+Progressed: 18,010 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,15 +303,15 @@ Completed: 40 (0.22%) (Ranked 256)
 | 2023-12-10 | 17,908 | 43 |
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
-| 2023-12-13 | 18,009 | 40 |
+| 2023-12-13 | 18,010 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 224)  
-Sum: 3,255 (Ranked 174)  
+Sum: 3,256 (Ranked 174)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |
-| This game is Relaxing | 434 |
+| This game is Relaxing | 435 |
 | This game is Great for Beginners | 426 |
 | This game is Extremely Fun | 409 |
 | This game is Highly Recommended | 391 |
@@ -575,3 +575,4 @@ Diff (max vs sum): 50
 | 2023-12-10 | 4.82 | - | 442 | 3,250 |
 | 2023-12-11 | 4.82 | - | 442 | 3,253 |
 | 2023-12-12 | 4.82 | - | 442 | 3,255 |
+| 2023-12-13 | 4.82 | - | 442 | 3,256 |

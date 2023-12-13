@@ -9636,9 +9636,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126549,
+  "EOS_Progressed": 126557,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 897,
+  "EOS_NewPlayers": 903,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34796,6 +34796,11 @@
       "Time": "2023-12-13T10:09:00.255232+00:00",
       "NumProgressed": 126549,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T11:08:56.251004+00:00",
+      "NumProgressed": 126557,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34869,9 +34874,9 @@
       "ID": "altar_of_hope_unlock_hero_occultist",
       "SetID": "64l4lke",
       "Name": "Wyrdly Reconstructed",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 506
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -34959,7 +34964,7 @@
       "Name": "Not Today!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -34967,7 +34972,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35007,7 +35012,7 @@
       "Name": "Meat and Greet",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35023,7 +35028,7 @@
       "Name": "Catch and Decease",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "combat_kill_librarian",
@@ -35031,7 +35036,7 @@
       "Name": "Overdue Notice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35047,7 +35052,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35159,7 +35164,7 @@
       "Name": "Autodidact",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "hero_story_complete_all",
@@ -35221,9 +35226,9 @@
       "ID": "inn_visit_all_variants",
       "SetID": "64l4lke",
       "Name": "Worldly Traveller",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 506
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -35351,7 +35356,7 @@
       "Name": "This guy... again?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35407,7 +35412,7 @@
       "Name": "Lost and Found",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35421,9 +35426,9 @@
       "ID": "run_victory_any_ves_pd_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "For Old Time\u0027 Sake",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -35438,21 +35443,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126549,
+      "Progressed": 126557,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1418,
+      "Progressed": 1426,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-13T09:59:27.9523664+00:00",
-  "LastChanged_Achievements": "2023-12-13T10:09:00.2552318+00:00",
+  "LastChanged_Achievements": "2023-12-13T11:08:56.2510035+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T09:59:27.952367+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:09:00.255388+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:59:22.7960955+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:08:56.2512104+00:00"
 }

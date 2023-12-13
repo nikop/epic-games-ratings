@@ -2,7 +2,7 @@
   "ID": "116f71b2da434337bba6498e0ea61d9c",
   "Name": "Virtual Rides 3",
   "ProductSlug": "virtual-rides-3-2add3b",
-  "Ranking_EOS_Progress": 793,
+  "Ranking_EOS_Progress": 794,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 126,
@@ -122,8 +122,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-11T19:03:46.1606302+00:00",
-  "LastChanged_Achievements": "2023-12-13T10:04:17.4859343+00:00",
+  "LastChanged_Achievements": "2023-12-13T11:04:05.0411234+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:04.787976+00:00",
-  "LastUpdate_Ratings": "2023-12-13T09:58:09.4190599+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:04:17.4859484+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:58:04.9794657+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:04:05.0411302+00:00"
 }

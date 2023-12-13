@@ -10,7 +10,7 @@ Number of Ratings: 892  (23.09.2022)
 | Iron Chef | 168.00% | ~911 |
 | Super Spelunker | 137.00% | ~743 |
 | Greeno-B-Gone | 130.00% | ~705 |
-| The Little Wood that Could | 118.00% | ~640 |
+| The Little Wood that Could | 119.00% | ~645 |
 | Your Especially Earned Trajectory | 107.00% | ~580 |
 | One of the Cool Kids | 87.00% | ~472 |
 | No Mountain Wide Enough | 86.00% | ~466 |

@@ -2,7 +2,7 @@
   "ID": "89ad85eed51a421bb07c33c4fba929b3",
   "Name": "Lumote: The Mastermote Chronicles",
   "ProductSlug": "lumote",
-  "Ranking_EOS_Progress": 793,
+  "Ranking_EOS_Progress": 794,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 126,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:00.4254175+00:00",
   "LastChanged": "2023-03-31T05:58:00.4254176+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:20.0285737+00:00",
-  "LastUpdate_Ratings": "2023-12-13T09:59:40.6828225+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:04:56.593931+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:59:34.6117245+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:04:44.089743+00:00"
 }

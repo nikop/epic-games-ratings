@@ -2,9 +2,9 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 835,
-  "Ranking_Popularity": 562,
-  "Ranking_PopularitySum": 562,
+  "Ranking_Rating": 834,
+  "Ranking_Popularity": 561,
+  "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 49,
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14236,
+  "EOS_Progressed": 14243,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1783,
+  "EOS_NewPlayers": 1784,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -4191,6 +4191,11 @@
       "Time": "2023-12-13T10:04:00.8386747+00:00",
       "NumProgressed": 14236,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-13T11:03:48.3122176+00:00",
+      "NumProgressed": 14243,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -4235,7 +4240,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -4251,7 +4256,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -4259,7 +4264,7 @@
       "Name": "Secrets Out",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -4282,7 +4287,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 14236,
+      "Progressed": 14243,
       "Completed": 52
     }
   ],
@@ -4290,8 +4295,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-12T14:00:02.3951365+00:00",
-  "LastChanged_Achievements": "2023-12-13T10:04:00.8386743+00:00",
+  "LastChanged_Achievements": "2023-12-13T11:03:48.312216+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:57.9778302+00:00",
-  "LastUpdate_Ratings": "2023-12-13T09:59:41.0511893+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:04:00.8387193+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:59:34.9814509+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:03:48.3122521+00:00"
 }

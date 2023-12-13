@@ -108,9 +108,9 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "f2",
@@ -132,9 +132,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "fw2",
@@ -156,9 +156,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 14,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "g2",
@@ -228,9 +228,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "jk2",
@@ -466,8 +466,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-13T10:06:34.1573262+00:00",
+  "LastChanged_Achievements": "2023-12-13T11:06:21.2549838+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-13T10:03:08.8189657+00:00",
-  "LastUpdate_Achievements": "2023-12-13T10:06:34.1573525+00:00"
+  "LastUpdate_Ratings": "2023-12-13T11:02:53.0369514+00:00",
+  "LastUpdate_Achievements": "2023-12-13T11:06:21.2550147+00:00"
 }
