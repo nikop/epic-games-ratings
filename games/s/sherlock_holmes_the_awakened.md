@@ -5,28 +5,28 @@ Rating: 4.57 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~714 |
-| To Hell In A Handcart | 62.00% | ~703 |
+| Read Between The Lines | 63.00% | ~715 |
+| To Hell In A Handcart | 62.00% | ~704 |
 | High Profile | 55.00% | ~624 |
 | Whispers In The Dark | 52.00% | ~590 |
-| Fond Memories | 50.00% | ~567 |
+| Fond Memories | 50.00% | ~568 |
 | A Method To His Madness | 47.00% | ~533 |
 | History Check | 46.00% | ~522 |
 | The New World | 44.00% | ~499 |
 | Gaze Into The Abyss | 43.00% | ~488 |
-| Lock, Stock, And Barrel | 42.00% | ~476 |
-| Open Sesame | 42.00% | ~476 |
-| Sticky Fingers | 42.00% | ~476 |
-| Knives Out | 42.00% | ~476 |
+| Lock, Stock, And Barrel | 42.00% | ~477 |
+| Open Sesame | 42.00% | ~477 |
+| Sticky Fingers | 42.00% | ~477 |
+| Knives Out | 42.00% | ~477 |
 | Back In The Saddle | 41.00% | ~465 |
 | Land, Ho! | 41.00% | ~465 |
 | No Man Is An Island | 40.00% | ~454 |
-| At Wits' End | 39.00% | ~442 |
+| At Wits' End | 39.00% | ~443 |
 | Fhtagn! | 38.00% | ~431 |
 | Up In Flames | 37.00% | ~420 |
-| Bookworm | 36.00% | ~408 |
-| Going Once... | 35.00% | ~397 |
-| Let Me Be Frank | 33.00% | ~374 |
+| Going Once... | 36.00% | ~409 |
+| Bookworm | 36.00% | ~409 |
+| Let Me Be Frank | 33.00% | ~375 |
 | No Stone Unturned | 31.00% | ~352 |
 | Brain Food | 30.00% | ~340 |
 | Curiosity Killed The Cat | 18.00% | ~204 |
@@ -34,8 +34,8 @@ Rating: 4.57 (Ranked 481)
 | Big Breakthrough | 12.00% | ~136 |
 | Reawakened | 3.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,134 (Ranked 262)  
-Completed: 30 (2.65%) (Ranked 118)  
+Progressed: 1,135 (Ranked 262)  
+Completed: 30 (2.64%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,6 +227,7 @@ Completed: 30 (2.65%) (Ranked 118)
 | 2023-12-10 | 1,063 | 28 |
 | 2023-12-11 | 1,109 | 30 |
 | 2023-12-12 | 1,134 | 30 |
+| 2023-12-13 | 1,135 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

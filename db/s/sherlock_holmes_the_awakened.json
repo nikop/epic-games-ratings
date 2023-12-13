@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -121,11 +121,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1134,
+  "EOS_Progressed": 1135,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.65,
+  "EOS_Completed_Percentage": 2.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -3871,6 +3871,11 @@
       "Time": "2023-12-12T23:08:34.5103252+00:00",
       "NumProgressed": 1134,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-13T00:07:57.0159395+00:00",
+      "NumProgressed": 1135,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 28,
@@ -3882,7 +3887,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "MQ01_2",
@@ -3890,7 +3895,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "MQ02_1",
@@ -3930,7 +3935,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "MQ03_2",
@@ -3938,7 +3943,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "MQ03_3",
@@ -3968,9 +3973,9 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 397
+      "UsersEstimate": 409
     },
     {
       "ID": "MQ04_2",
@@ -3978,7 +3983,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "MQ04_3",
@@ -3994,7 +3999,7 @@
       "Name": "Open Sesame",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "MQ05_2",
@@ -4010,7 +4015,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "MQ05_4",
@@ -4018,7 +4023,7 @@
       "Name": "Knives Out",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "MQ06_1",
@@ -4034,7 +4039,7 @@
       "Name": "Bookworm",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "MQ06_3",
@@ -4066,7 +4071,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "MQ08_1",
@@ -4105,7 +4110,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1134,
+      "Progressed": 1135,
       "Completed": 30
     }
   ],
@@ -4113,8 +4118,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-12T11:03:07.9199744+00:00",
-  "LastChanged_Achievements": "2023-12-12T23:08:34.5103247+00:00",
+  "LastChanged_Achievements": "2023-12-13T00:07:57.0159392+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-12T23:03:12.7730261+00:00",
-  "LastUpdate_Achievements": "2023-12-12T23:08:34.5103623+00:00"
+  "LastUpdate_Ratings": "2023-12-13T00:02:56.5155973+00:00",
+  "LastUpdate_Achievements": "2023-12-13T00:07:57.015974+00:00"
 }

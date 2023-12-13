@@ -4,10 +4,10 @@
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 946,
   "Ranking_Popularity": 98,
-  "Ranking_PopularitySum": 140,
+  "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4637,9 +4637,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77929,
+  "EOS_Progressed": 77930,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25782,6 +25782,11 @@
       "Time": "2023-12-12T23:03:40.0222065+00:00",
       "NumProgressed": 77929,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-13T00:03:17.1925478+00:00",
+      "NumProgressed": 77930,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25841,7 +25846,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17144
+      "UsersEstimate": 17145
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -25873,7 +25878,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9351
+      "UsersEstimate": 9352
     },
     {
       "ID": "APPLY_STATUS",
@@ -25881,7 +25886,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11689
+      "UsersEstimate": 11690
     },
     {
       "ID": "CHALLENGES_1",
@@ -25969,7 +25974,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9351
+      "UsersEstimate": 9352
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -26137,7 +26142,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38964
+      "UsersEstimate": 38965
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -26201,7 +26206,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17144
+      "UsersEstimate": 17145
     },
     {
       "ID": "MYSTERY_04",
@@ -26225,7 +26230,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11689
+      "UsersEstimate": 11690
     },
     {
       "ID": "MYSTERY_07",
@@ -26241,7 +26246,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9351
+      "UsersEstimate": 9352
     },
     {
       "ID": "SECRET_CACHE",
@@ -26280,13 +26285,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77929,
+      "Progressed": 77930,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48209,
+      "Progressed": 48210,
       "Completed": 2675
     }
   ],
@@ -26294,8 +26299,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-12T19:58:35.1362928+00:00",
-  "LastChanged_Achievements": "2023-12-12T23:03:40.022206+00:00",
+  "LastChanged_Achievements": "2023-12-13T00:03:17.1925476+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-12T22:59:15.7214674+00:00",
-  "LastUpdate_Achievements": "2023-12-12T23:03:40.0223416+00:00"
+  "LastUpdate_Ratings": "2023-12-12T23:58:47.5518014+00:00",
+  "LastUpdate_Achievements": "2023-12-13T00:03:17.1926805+00:00"
 }

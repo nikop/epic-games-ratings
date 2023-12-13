@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9618,9 +9618,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126469,
+  "EOS_Progressed": 126483,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 839,
+  "EOS_NewPlayers": 851,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34723,6 +34723,11 @@
       "Time": "2023-12-12T23:09:14.5662452+00:00",
       "NumProgressed": 126469,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T00:08:47.0956706+00:00",
+      "NumProgressed": 126483,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34740,9 +34745,9 @@
       "ID": "affinity_resolute_first_time",
       "SetID": "64l4lke",
       "Name": "Serenity Now!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 759
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -34868,9 +34873,9 @@
       "ID": "combat_kill_cadavers",
       "SetID": "64l4lke",
       "Name": "Dissector",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 632
     },
     {
       "ID": "combat_kill_cosmic",
@@ -34892,9 +34897,9 @@
       "ID": "combat_kill_dreaming_general",
       "SetID": "64l4lke",
       "Name": "Creep and Sleep",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1265
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35084,9 +35089,9 @@
       "ID": "hero_skill_mastery_five",
       "SetID": "64l4lke",
       "Name": "Autodidact",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1265
     },
     {
       "ID": "hero_story_complete_all",
@@ -35326,7 +35331,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "quest_complete_crusader",
@@ -35334,15 +35339,15 @@
       "Name": "Lost and Found",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "relationships_positive_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "Friends \u0027Til the End",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35365,21 +35370,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126469,
+      "Progressed": 126483,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1338,
+      "Progressed": 1352,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T19:58:48.3219197+00:00",
-  "LastChanged_Achievements": "2023-12-12T23:09:14.5662448+00:00",
+  "LastChanged_Achievements": "2023-12-13T00:08:47.0956704+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T22:59:34.7537636+00:00",
-  "LastUpdate_Achievements": "2023-12-12T23:09:14.5664032+00:00"
+  "LastUpdate_Ratings": "2023-12-12T23:59:02.0246629+00:00",
+  "LastUpdate_Achievements": "2023-12-13T00:08:47.0958136+00:00"
 }

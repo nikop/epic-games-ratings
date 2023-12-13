@@ -7,8 +7,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | V for Vendetta | 12.00% | ~117,015 |
-| Gun Fu | 7.00% | ~68,258 |
-| The Fool | 6.00% | ~58,507 |
+| Gun Fu | 7.00% | ~68,259 |
+| The Fool | 6.00% | ~58,508 |
 | Right Back At Ya | 5.00% | ~48,756 |
 | The Lovers | 5.00% | ~48,756 |
 | Full Body Conversion | 4.00% | ~39,005 |
@@ -22,19 +22,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | Relic Ruler | 3.00% | ~3,112 |
 | All the President's Men | 3.00% | ~3,112 |
 | Arachnophobia | 3.00% | ~3,112 |
-| Bushido and Chill | 2.00% | ~19,502 |
-| Master Crafter | 2.00% | ~19,502 |
-| The Quick and the Dead | 2.00% | ~19,502 |
-| Life of the Road | 2.00% | ~19,502 |
-| The World | 2.00% | ~19,502 |
-| True Warrior | 2.00% | ~19,502 |
-| Judy vs Night City | 2.00% | ~19,502 |
+| Bushido and Chill | 2.00% | ~19,503 |
+| Master Crafter | 2.00% | ~19,503 |
+| The Quick and the Dead | 2.00% | ~19,503 |
+| Life of the Road | 2.00% | ~19,503 |
+| The World | 2.00% | ~19,503 |
+| True Warrior | 2.00% | ~19,503 |
+| Judy vs Night City | 2.00% | ~19,503 |
 | To Protect and Serve | 1.00% | ~9,751 |
 | The Wandering Fool | 1.00% | ~9,751 |
 | I Am The Law | 1.00% | ~9,751 |
 | Two Heads, One Bullet | 1.00% | ~9,751 |
-| Spin Doctor | 1.00% | ~1,037 |
-| Easy Come, Easy Go | 1.00% | ~1,037 |
+| Spin Doctor | 1.00% | ~1,038 |
+| Easy Come, Easy Go | 1.00% | ~1,038 |
 | King of Wands | 0.90% | ~934 |
 | The Sun | 0.80% | ~7,801 |
 | Dirty Deeds | 0.80% | ~830 |
@@ -47,8 +47,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judgement Day | 0.50% | ~519 |
 | King of Swords | 0.50% | ~519 |
 | The Tower | 0.50% | ~519 |
-| Must Be Rats | 0.40% | ~3,900 |
-| Temperance | 0.40% | ~3,900 |
+| Must Be Rats | 0.40% | ~3,901 |
+| Temperance | 0.40% | ~3,901 |
 | King of Pentacles | 0.40% | ~415 |
 | King of Cups | 0.30% | ~311 |
 | City Lights | 0.20% | ~1,950 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,121 (Ranked 15)  
+Progressed: 975,127 (Ranked 15)  
 Completed: 2,891 (0.30%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,6 +311,7 @@ Completed: 2,891 (0.30%) (Ranked 240)
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
 | 2023-12-12 | 975,121 | 2,891 |
+| 2023-12-13 | 975,127 | 2,891 |
 ## Awards
 Max (Character Customization): 121,863  (Ranked 9)  
 Sum: 413,636 (Ranked 9)  

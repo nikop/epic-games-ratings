@@ -16544,9 +16544,9 @@
       "Count": 15389
     }
   ],
-  "EOS_Progressed": 975121,
+  "EOS_Progressed": 975127,
   "EOS_Completed": 2891,
-  "EOS_NewPlayers": 4467,
+  "EOS_NewPlayers": 4451,
   "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -43469,6 +43469,11 @@
       "Time": "2023-12-12T23:06:50.6553752+00:00",
       "NumProgressed": 975121,
       "NumCompleted": 2891
+    },
+    {
+      "Time": "2023-12-13T00:05:41.1860087+00:00",
+      "NumProgressed": 975127,
+      "NumCompleted": 2891
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -43497,7 +43502,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19502
+      "UsersEstimate": 19503
     },
     {
       "ID": "Cyberjunkie",
@@ -43553,7 +43558,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68258
+      "UsersEstimate": 68259
     },
     {
       "ID": "Gunslinger",
@@ -43569,7 +43574,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19502
+      "UsersEstimate": 19503
     },
     {
       "ID": "IAmMaxTac",
@@ -43609,7 +43614,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19502
+      "UsersEstimate": 19503
     },
     {
       "ID": "MustBeTheRats",
@@ -43617,7 +43622,7 @@
       "Name": "Must Be Rats",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3900
+      "UsersEstimate": 3901
     },
     {
       "ID": "NeverFadeAway",
@@ -43649,7 +43654,7 @@
       "Name": "Life of the Road",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19502
+      "UsersEstimate": 19503
     },
     {
       "ID": "Roleplayer",
@@ -43673,7 +43678,7 @@
       "Name": "Temperance",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3900
+      "UsersEstimate": 3901
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -43697,7 +43702,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58507
+      "UsersEstimate": 58508
     },
     {
       "ID": "TheHermit",
@@ -43753,7 +43758,7 @@
       "Name": "The World",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 19502
+      "UsersEstimate": 19503
     },
     {
       "ID": "ThisIsPacifica",
@@ -43785,7 +43790,7 @@
       "Name": "True Warrior",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19502
+      "UsersEstimate": 19503
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -43801,7 +43806,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19502
+      "UsersEstimate": 19503
     },
     {
       "ID": "VForVendetta",
@@ -43881,7 +43886,7 @@
       "Name": "Spin Doctor",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "Kingofcups",
@@ -44009,28 +44014,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 975121,
+      "Progressed": 975127,
       "Completed": 2891
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 103744,
+      "Progressed": 103750,
       "Completed": 10356
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-12T22:02:51.5434645+00:00",
-  "LastChanged_Achievements": "2023-12-12T23:06:50.6553747+00:00",
+  "LastChanged_Achievements": "2023-12-13T00:05:41.1860085+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:22.348953+00:00",
-  "LastUpdate_Ratings": "2023-12-12T23:03:06.8546084+00:00",
-  "LastUpdate_Achievements": "2023-12-12T23:06:50.6555415+00:00"
+  "LastUpdate_Ratings": "2023-12-13T00:02:52.4028769+00:00",
+  "LastUpdate_Achievements": "2023-12-13T00:05:41.1861369+00:00"
 }

@@ -824,9 +824,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5465,
+  "EOS_Progressed": 5466,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -10924,6 +10924,11 @@
       "Time": "2023-12-12T22:04:13.1961838+00:00",
       "NumProgressed": 5465,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-13T00:04:17.8489426+00:00",
+      "NumProgressed": 5466,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10936,7 +10941,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -11048,7 +11053,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -11088,7 +11093,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -11119,15 +11124,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5465,
+      "Progressed": 5466,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-11T15:58:13.4917399+00:00",
-  "LastChanged_Achievements": "2023-12-12T23:05:00.6413579+00:00",
+  "LastChanged_Achievements": "2023-12-13T00:04:17.8489424+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-12T22:59:26.5082886+00:00",
-  "LastUpdate_Achievements": "2023-12-12T23:05:00.6414104+00:00"
+  "LastUpdate_Ratings": "2023-12-12T23:58:56.1481377+00:00",
+  "LastUpdate_Achievements": "2023-12-13T00:04:17.8489927+00:00"
 }

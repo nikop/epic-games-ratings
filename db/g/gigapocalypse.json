@@ -446,9 +446,9 @@
       "ID": "secret11",
       "SetID": "39f6ck8",
       "Name": "Math Wizard",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "secret12",
@@ -510,9 +510,9 @@
       "ID": "secret19",
       "SetID": "39f6ck8",
       "Name": "Feng Shui",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 140
     },
     {
       "ID": "secret2",
@@ -590,9 +590,9 @@
       "ID": "secret28",
       "SetID": "39f6ck8",
       "Name": "Thick Skin",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 134
     },
     {
       "ID": "secret29",
@@ -830,17 +830,17 @@
       "ID": "secret7",
       "SetID": "39f6ck8",
       "Name": "Too Cool For School",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 165
     },
     {
       "ID": "secret8",
       "SetID": "39f6ck8",
       "Name": "Destroy Erase Improve",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "secret9",
@@ -863,8 +863,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-12-12T23:06:41.6345474+00:00",
+  "LastChanged_Achievements": "2023-12-13T00:05:34.0993293+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:19.2875641+00:00",
-  "LastUpdate_Ratings": "2023-12-12T23:03:28.0212617+00:00",
-  "LastUpdate_Achievements": "2023-12-12T23:06:41.6345801+00:00"
+  "LastUpdate_Ratings": "2023-12-13T00:03:07.2927354+00:00",
+  "LastUpdate_Achievements": "2023-12-13T00:05:34.0993706+00:00"
 }

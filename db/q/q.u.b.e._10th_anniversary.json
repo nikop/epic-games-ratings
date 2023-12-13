@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
@@ -288,9 +288,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 24785,
+  "EOS_Progressed": 24789,
   "EOS_Completed": 154,
-  "EOS_NewPlayers": 1017,
+  "EOS_NewPlayers": 1015,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -6653,6 +6653,11 @@
       "Time": "2023-12-12T23:10:19.1395642+00:00",
       "NumProgressed": 24785,
       "NumCompleted": 154
+    },
+    {
+      "Time": "2023-12-13T00:09:36.5548954+00:00",
+      "NumProgressed": 24789,
+      "NumCompleted": 154
     }
   ],
   "TotalAchievements": 24,
@@ -6696,7 +6701,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 4957
+      "UsersEstimate": 4958
     },
     {
       "ID": "ACH_Finale",
@@ -6776,7 +6781,7 @@
       "Name": "Master Room",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ACH_S8MaxPoints",
@@ -6792,7 +6797,7 @@
       "Name": "Sector 1",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6692
+      "UsersEstimate": 6693
     },
     {
       "ID": "ACH_Sector2",
@@ -6800,7 +6805,7 @@
       "Name": "Sector 2",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5948
+      "UsersEstimate": 5949
     },
     {
       "ID": "ACH_Sector3",
@@ -6808,7 +6813,7 @@
       "Name": "Sector 3",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4957
+      "UsersEstimate": 4958
     },
     {
       "ID": "ACH_Sector4",
@@ -6824,7 +6829,7 @@
       "Name": "Sector 5",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "ACH_Sector6",
@@ -6855,7 +6860,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 24785,
+      "Progressed": 24789,
       "Completed": 154
     }
   ],
@@ -6863,8 +6868,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-12-11T17:59:07.2531282+00:00",
-  "LastChanged_Achievements": "2023-12-12T23:10:19.1395637+00:00",
+  "LastChanged_Achievements": "2023-12-13T00:09:36.5548952+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:34.026415+00:00",
-  "LastUpdate_Ratings": "2023-12-12T23:00:34.6067376+00:00",
-  "LastUpdate_Achievements": "2023-12-12T23:10:19.1396046+00:00"
+  "LastUpdate_Ratings": "2023-12-12T23:59:46.5792761+00:00",
+  "LastUpdate_Achievements": "2023-12-13T00:09:36.5549287+00:00"
 }

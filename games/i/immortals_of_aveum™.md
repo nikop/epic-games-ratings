@@ -6,11 +6,11 @@ Rating: 4.05 (Ranked 999)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 92.00% | ~305 |
-| Battlefields Have Memories | 89.00% | ~295 |
-| Enlisted | 86.00% | ~285 |
-| Maybe Engage a Little | 82.00% | ~271 |
-| No More Names | 71.00% | ~235 |
-| Initiate | 58.00% | ~192 |
+| Battlefields Have Memories | 88.00% | ~292 |
+| Enlisted | 86.00% | ~286 |
+| Maybe Engage a Little | 82.00% | ~272 |
+| No More Names | 71.00% | ~236 |
+| Initiate | 58.00% | ~193 |
 | Thrada-Kul | 54.00% | ~179 |
 | Gravity-Challenged Rocks | 44.00% | ~146 |
 | Soldier | 39.00% | ~129 |
@@ -21,8 +21,8 @@ Rating: 4.05 (Ranked 999)
 | The Means to Save It | 28.00% | ~93 |
 | Resilience to Sin | 26.00% | ~86 |
 | A Familiar Nest | 25.00% | ~83 |
-| Geas Aristeya | 24.00% | ~79 |
-| Periapt Alizarin | 24.00% | ~79 |
+| Periapt Alizarin | 24.00% | ~80 |
+| Geas Aristeya | 23.00% | ~76 |
 | A Perfect Cycle | 22.00% | ~73 |
 | Recruit | 20.00% | ~66 |
 | Armsman | 18.00% | ~60 |
@@ -32,8 +32,8 @@ Rating: 4.05 (Ranked 999)
 | Periapt Viridian | 10.00% | ~33 |
 | Armaments Azure | 9.00% | ~30 |
 | Shroudfane Explorer | 9.00% | ~30 |
-| Best Dressed | 8.00% | ~26 |
-| Armaments Gules | 8.00% | ~26 |
+| Best Dressed | 8.00% | ~27 |
+| Armaments Gules | 8.00% | ~27 |
 | Scholar | 6.00% | ~20 |
 | Kitted Out | 6.00% | ~20 |
 | Armaments Vert | 5.00% | ~17 |
@@ -53,7 +53,7 @@ Rating: 4.05 (Ranked 999)
 | Out of Time | 0.60% | ~2 |
 | Fowl Play | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 331 (Ranked 351)  
+Progressed: 332 (Ranked 349)  
 Completed: 2 (0.60%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 2 (0.60%) (Ranked 194)
 | 2023-12-09 | 329 | 1 |
 | 2023-12-10 | 331 | 1 |
 | 2023-12-11 | 331 | 2 |
+| 2023-12-13 | 332 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

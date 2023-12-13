@@ -1544,9 +1544,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131916,
+  "EOS_Progressed": 131917,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24544,6 +24544,11 @@
       "Time": "2023-12-12T23:06:58.7045752+00:00",
       "NumProgressed": 131916,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-13T00:05:47.2279615+00:00",
+      "NumProgressed": 131917,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24579,7 +24584,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3957
+      "UsersEstimate": 3958
     },
     {
       "ID": "ACH_COP_ART",
@@ -24603,7 +24608,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11872
+      "UsersEstimate": 11873
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -24619,7 +24624,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11872
+      "UsersEstimate": 11873
     },
     {
       "ID": "ACH_COP_DORK",
@@ -24635,7 +24640,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36936
+      "UsersEstimate": 36937
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -24667,7 +24672,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27702
+      "UsersEstimate": 27703
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -24779,7 +24784,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3957
+      "UsersEstimate": 3958
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -24795,7 +24800,7 @@
       "Name": "Leopard Mindset",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "ACH_MEDAL",
@@ -24874,15 +24879,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131916,
+      "Progressed": 131917,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-11T19:58:11.017301+00:00",
-  "LastChanged_Achievements": "2023-12-12T23:06:58.7045748+00:00",
+  "LastChanged_Achievements": "2023-12-13T00:05:47.2279612+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:13.3373755+00:00",
-  "LastUpdate_Ratings": "2023-12-12T22:59:37.1817986+00:00",
-  "LastUpdate_Achievements": "2023-12-12T23:06:58.7046978+00:00"
+  "LastUpdate_Ratings": "2023-12-12T23:59:03.7586716+00:00",
+  "LastUpdate_Achievements": "2023-12-13T00:05:47.228073+00:00"
 }

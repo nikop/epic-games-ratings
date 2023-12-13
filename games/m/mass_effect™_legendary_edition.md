@@ -45,6 +45,7 @@
 | A Personal Touch | 33.00% | ~523 |
 | Ghost Ship | 33.00% | ~523 |
 | The Quarian | 33.00% | ~523 |
+| The Prodigal | 33.00% | ~523 |
 | Galactic Explorer | 33.00% | ~523 |
 | Driven | 33.00% | ~523 |
 | Shopaholic | 33.00% | ~523 |
@@ -54,7 +55,6 @@
 | Catharsis | 32.00% | ~507 |
 | Ghost of the Father | 32.00% | ~507 |
 | The Cure | 32.00% | ~507 |
-| The Prodigal | 32.00% | ~507 |
 | Revenge! | 32.00% | ~507 |
 | Focused | 31.00% | ~491 |
 | Completionist | 31.00% | ~491 |
@@ -89,13 +89,13 @@
 | Paramour II | 23.00% | ~365 |
 | Party Crasher | 23.00% | ~365 |
 | Hard Target | 22.00% | ~349 |
+| Last Witness | 22.00% | ~349 |
 | Fact Finder | 22.00% | ~349 |
 | Problem Solver | 22.00% | ~349 |
 | Under Pressure | 21.00% | ~333 |
 | Last Resort | 21.00% | ~333 |
 | No One Left Behind | 21.00% | ~333 |
 | Saboteur | 21.00% | ~333 |
-| Last Witness | 21.00% | ~333 |
 | Well Connected | 21.00% | ~333 |
 | Pyromaniac | 20.00% | ~317 |
 | Executioner | 19.00% | ~301 |

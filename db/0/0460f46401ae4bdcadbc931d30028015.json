@@ -4,10 +4,10 @@
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 938,
   "Ranking_Popularity": 456,
-  "Ranking_PopularitySum": 403,
+  "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -939,9 +939,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4143,
+  "EOS_Progressed": 4144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7024,6 +7024,11 @@
       "Time": "2023-12-12T23:05:10.8868363+00:00",
       "NumProgressed": 4143,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T00:04:25.5726257+00:00",
+      "NumProgressed": 4144,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -7052,7 +7057,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "achievement_12",
@@ -7076,7 +7081,7 @@
       "Name": "ROTY",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1575
     },
     {
       "ID": "achievement_15",
@@ -7132,7 +7137,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "achievement_21",
@@ -7203,7 +7208,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4143,
+      "Progressed": 4144,
       "Completed": 0
     }
   ],
@@ -7211,8 +7216,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-12T23:00:39.4522791+00:00",
-  "LastChanged_Achievements": "2023-12-12T23:05:10.8868358+00:00",
+  "LastChanged_Achievements": "2023-12-13T00:04:25.5726255+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-12T23:00:39.4522797+00:00",
-  "LastUpdate_Achievements": "2023-12-12T23:05:10.8868717+00:00"
+  "LastUpdate_Ratings": "2023-12-12T23:59:50.0382779+00:00",
+  "LastUpdate_Achievements": "2023-12-13T00:04:25.57267+00:00"
 }

@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 27399,
+  "EOS_Progressed": 27400,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 1268,
+  "EOS_NewPlayers": 1267,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -9803,6 +9803,11 @@
       "Time": "2023-12-12T23:09:38.2924598+00:00",
       "NumProgressed": 27399,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-13T00:09:04.9801599+00:00",
+      "NumProgressed": 27400,
+      "NumCompleted": 119
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -9839,7 +9844,7 @@
       "Name": "On Rails Experience",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 15891
+      "UsersEstimate": 15892
     },
     {
       "ID": "achievement_13",
@@ -9919,7 +9924,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 23837
+      "UsersEstimate": 23838
     },
     {
       "ID": "achievement_4",
@@ -9927,7 +9932,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 24111
+      "UsersEstimate": 24112
     },
     {
       "ID": "achievement_5",
@@ -9951,7 +9956,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 21645
+      "UsersEstimate": 21646
     },
     {
       "ID": "achievement_8",
@@ -9967,20 +9972,20 @@
       "Name": "A Daring Devil",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 14521
+      "UsersEstimate": 14522
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 27399,
+      "Progressed": 27400,
       "Completed": 119
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-12-12T23:09:38.2924594+00:00",
+  "LastChanged_Achievements": "2023-12-13T00:09:04.9801588+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:16.8565582+00:00",
-  "LastUpdate_Ratings": "2023-12-12T22:57:57.8849492+00:00",
-  "LastUpdate_Achievements": "2023-12-12T23:09:38.2925146+00:00"
+  "LastUpdate_Ratings": "2023-12-12T23:57:52.3017284+00:00",
+  "LastUpdate_Achievements": "2023-12-13T00:09:04.9802173+00:00"
 }

@@ -7,23 +7,23 @@ Number of Ratings: 6,336  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Escaped Tartarus | 88.00% | ~632,137 |
-| Escaped Asphodel | 79.00% | ~567,486 |
-| Arms Collector | 70.00% | ~502,836 |
+| Escaped Asphodel | 79.00% | ~567,487 |
+| Arms Collector | 70.00% | ~502,837 |
 | Friends in High Places | 67.00% | ~481,286 |
-| Escaped Elysium | 66.00% | ~474,102 |
-| Chthonic Colleagues | 62.00% | ~445,369 |
-| Is There No Escape? | 52.00% | ~373,535 |
+| Escaped Elysium | 66.00% | ~474,103 |
+| Chthonic Colleagues | 62.00% | ~445,370 |
+| Is There No Escape? | 52.00% | ~373,536 |
 | Death Dealer | 45.00% | ~323,252 |
 | Skelly Slayer | 42.00% | ~301,702 |
 | Well Stocked | 40.00% | ~287,335 |
 | Back to Work | 38.00% | ~272,968 |
 | Day-or-Night Trader | 37.00% | ~265,785 |
 | Blessed by the Gods | 37.00% | ~265,785 |
-| Urge to Sing | 36.00% | ~258,601 |
+| Urge to Sing | 36.00% | ~258,602 |
 | Blood Bound | 35.00% | ~251,418 |
 | Three-Headed Boy | 32.00% | ~229,868 |
-| River Denizens | 28.00% | ~201,134 |
-| Grown Close | 28.00% | ~201,134 |
+| River Denizens | 28.00% | ~201,135 |
+| Grown Close | 28.00% | ~201,135 |
 | Home Makeover | 27.00% | ~193,951 |
 | Had to Happen | 25.00% | ~179,584 |
 | The Family Secret | 25.00% | ~179,584 |
@@ -39,7 +39,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Musician and Muse | 14.00% | ~100,567 |
 | The Useless Trinket | 13.00% | ~93,384 |
 | Champion of Elysium | 13.00% | ~93,384 |
-| Slashed Benefits | 12.00% | ~86,200 |
+| Slashed Benefits | 12.00% | ~86,201 |
 | Haste of Hermes | 11.00% | ~79,017 |
 | Bad Call | 10.00% | ~71,834 |
 | Nyx's Mirror | 10.00% | ~71,834 |
@@ -53,10 +53,10 @@ Number of Ratings: 6,336  (23.09.2022)
 | One for the Ages | 7.00% | ~50,284 |
 | Complete Set | 6.00% | ~43,100 |
 | Skelly's Last Lamentations | 6.00% | ~43,100 |
-| Thorn of Thanatos | 4.00% | ~28,733 |
-| Friends Forever | 4.00% | ~28,733 |
+| Thorn of Thanatos | 4.00% | ~28,734 |
+| Friends Forever | 4.00% | ~28,734 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,337 (Ranked 23)  
+Progressed: 718,338 (Ranked 23)  
 Completed: 6,535 (0.91%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,6 +293,7 @@ Completed: 6,535 (0.91%) (Ranked 175)
 | 2023-12-10 | 718,159 | 6,530 |
 | 2023-12-11 | 718,248 | 6,532 |
 | 2023-12-12 | 718,337 | 6,535 |
+| 2023-12-13 | 718,338 | 6,535 |
 ## Awards
 Max (Character Customization): 3,428  (Ranked 93)  
 Sum: 8,369 (Ranked 103)  
