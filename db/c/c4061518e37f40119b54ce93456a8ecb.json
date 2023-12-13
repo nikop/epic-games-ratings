@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-grace-92a75a",
   "Ranking_EOS_Progress": 602,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -113,9 +113,9 @@
       "ID": "ACH_ActivateGrace",
       "SetID": "aao9n96",
       "Name": "It\u0027s alive! It\u0027s alive!",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_AlignRelay",
@@ -153,9 +153,9 @@
       "ID": "ACH_AllenEnding",
       "SetID": "aao9n96",
       "Name": "I\u0027ll give her another 20 minutes, but that\u0027s it",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_Bathroom",
@@ -257,9 +257,9 @@
       "ID": "ACH_GraceEnding",
       "SetID": "aao9n96",
       "Name": "The hardest choices require the strongest wills",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 140,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_HeldBreath",
@@ -329,9 +329,9 @@
       "ID": "ACH_ResetRelay",
       "SetID": "aao9n96",
       "Name": "When we fix something it stays fixed",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_Shortcut",
@@ -400,8 +400,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-12-13T09:03:59.3733746+00:00",
+  "LastChanged_Achievements": "2023-12-13T10:04:29.8264199+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:57.2205468+00:00",
-  "LastUpdate_Ratings": "2023-12-13T08:57:22.8741824+00:00",
-  "LastUpdate_Achievements": "2023-12-13T09:03:59.3733973+00:00"
+  "LastUpdate_Ratings": "2023-12-13T09:57:47.2133749+00:00",
+  "LastUpdate_Achievements": "2023-12-13T10:04:29.8264473+00:00"
 }

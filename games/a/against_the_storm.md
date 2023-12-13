@@ -13,11 +13,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 3.00% | ~540 |
 | Ominous Presence | 3.00% | ~540 |
 | Gathering Storm | 3.00% | ~540 |
+| First Real Expedition | 2.00% | ~360 |
 | The Marshlands | 2.00% | ~360 |
 | Taking Action | 2.00% | ~360 |
 | No Deaths | 2.00% | ~360 |
 | Untamed Wilds | 2.00% | ~360 |
-| First Real Expedition | 1.00% | ~180 |
 | Overcoming Difficulty | 1.00% | ~180 |
 | Fertile Meadows | 1.00% | ~180 |
 | Royal Outpost | 1.00% | ~180 |
@@ -26,11 +26,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 1.00% | ~180 |
 | Lost Colonies | 0.90% | ~162 |
 | Homesick | 0.80% | ~144 |
+| Ruined Armory | 0.70% | ~126 |
 | Bandit Camp | 0.70% | ~126 |
 | Levitating Monument | 0.70% | ~126 |
 | Monastery of the Holy Flame | 0.70% | ~126 |
 | A Real Challenge | 0.70% | ~126 |
-| Ruined Armory | 0.60% | ~108 |
 | Barren Lands | 0.60% | ~108 |
 | Statue of the Forefathers | 0.60% | ~108 |
 | Corrosive Torrent | 0.60% | ~108 |

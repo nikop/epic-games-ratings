@@ -9550,10 +9550,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20275,
       "NumberOfAwardsMax": 7665
+    },
+    {
+      "Time": "2023-12-13T09:59:27.9523666+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20282,
+      "NumberOfAwardsMax": 7665
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20275,
+  "NumberOfAwards": 20282,
   "NumberOfAwardsMax": 7665,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9597,7 +9603,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1430
+      "Count": 1437
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9630,9 +9636,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126547,
+  "EOS_Progressed": 126549,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 900,
+  "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34785,6 +34791,11 @@
       "Time": "2023-12-13T09:09:01.9238679+00:00",
       "NumProgressed": 126547,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T10:09:00.255232+00:00",
+      "NumProgressed": 126549,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -35106,9 +35117,9 @@
       "ID": "driving_biome_clear_farm",
       "SetID": "64l4lke",
       "Name": "Harvest Festival",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 633
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -35370,9 +35381,9 @@
       "ID": "combat_land_riposte_maa_hwy_dul",
       "SetID": "d3bcpc8",
       "Name": "Et Tu, Riposte?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -35380,7 +35391,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35427,21 +35438,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126547,
+      "Progressed": 126549,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1416,
+      "Progressed": 1418,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-13T04:59:07.2205481+00:00",
-  "LastChanged_Achievements": "2023-12-13T09:09:01.9238677+00:00",
+  "LastChanged": "2023-12-13T09:59:27.9523664+00:00",
+  "LastChanged_Achievements": "2023-12-13T10:09:00.2552318+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T08:59:04.8959335+00:00",
-  "LastUpdate_Achievements": "2023-12-13T09:09:01.9240331+00:00"
+  "LastUpdate_Ratings": "2023-12-13T09:59:27.952367+00:00",
+  "LastUpdate_Achievements": "2023-12-13T10:09:00.255388+00:00"
 }

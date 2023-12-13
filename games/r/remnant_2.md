@@ -34,20 +34,20 @@ Rating: 4.75 (Ranked 148)
 | All These Traits� | 0.40% | ~957 |
 | Almost There | 0.40% | ~957 |
 | Make Some Room | 0.40% | ~957 |
-| Ghost in the Machine | 0.30% | ~717 |
-| Traitor | 0.30% | ~717 |
-| Forever is a Long Time Coming | 0.30% | ~717 |
-| Madman's Paradise | 0.30% | ~717 |
-| The Agenda | 0.30% | ~717 |
-| Tall Tales | 0.30% | ~717 |
-| Bad Moon Rising | 0.30% | ~717 |
-| Strapped | 0.30% | ~717 |
-| Edgelord | 0.30% | ~717 |
-| The Web | 0.30% | ~717 |
-| Scrap Hoarder | 0.30% | ~717 |
-| The Ultimate Weapon | 0.30% | ~717 |
-| No One Should Have All That Power | 0.30% | ~717 |
-| Transmutate | 0.30% | ~717 |
+| Ghost in the Machine | 0.30% | ~718 |
+| Traitor | 0.30% | ~718 |
+| Forever is a Long Time Coming | 0.30% | ~718 |
+| Madman's Paradise | 0.30% | ~718 |
+| The Agenda | 0.30% | ~718 |
+| Tall Tales | 0.30% | ~718 |
+| Bad Moon Rising | 0.30% | ~718 |
+| Strapped | 0.30% | ~718 |
+| Edgelord | 0.30% | ~718 |
+| The Web | 0.30% | ~718 |
+| Scrap Hoarder | 0.30% | ~718 |
+| The Ultimate Weapon | 0.30% | ~718 |
+| No One Should Have All That Power | 0.30% | ~718 |
+| Transmutate | 0.30% | ~718 |
 | Crafty | 0.20% | ~478 |
 | Only Human | 0.20% | ~478 |
 | Red Room | 0.20% | ~478 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | You Shall Pass | 0.20% | ~37 |
 | A Foul Feast | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,162 (Ranked 66)  
+Progressed: 239,173 (Ranked 66)  
 Completed: 582 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 582 (0.24%) (Ranked 252)
 | 2023-12-10 | 238,247 | 577 |
 | 2023-12-11 | 238,673 | 579 |
 | 2023-12-12 | 239,053 | 581 |
-| 2023-12-13 | 239,162 | 582 |
+| 2023-12-13 | 239,173 | 582 |
 ## Awards
 Max (Great Boss Battles): 2,730  (Ranked 102)  
 Sum: 6,845 (Ranked 126)  

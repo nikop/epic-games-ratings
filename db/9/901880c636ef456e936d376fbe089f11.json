@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -674,9 +674,9 @@
       "ID": "ACH_COLD_SHOULDERS",
       "SetID": "8h8m55b",
       "Name": "Cold Shoulders",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_COMFORTABLE_WITH_YOU",
@@ -754,9 +754,9 @@
       "ID": "ACH_GUEST_OF_HONOR",
       "SetID": "8h8m55b",
       "Name": "Guest of Honor",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_HARDBOILED_ADVICE",
@@ -954,9 +954,9 @@
       "ID": "ACH_UNSOLICITED_BOUNCER",
       "SetID": "8h8m55b",
       "Name": "Unsolicited Bouncer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_VAMPIRES_DONT_CHANGE",
@@ -1009,8 +1009,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-13T09:08:34.4112666+00:00",
+  "LastChanged_Achievements": "2023-12-13T10:08:32.4902911+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:55.8022632+00:00",
-  "LastUpdate_Ratings": "2023-12-13T08:59:20.0837475+00:00",
-  "LastUpdate_Achievements": "2023-12-13T09:08:34.4112979+00:00"
+  "LastUpdate_Ratings": "2023-12-13T09:59:44.3924039+00:00",
+  "LastUpdate_Achievements": "2023-12-13T10:08:32.4903415+00:00"
 }

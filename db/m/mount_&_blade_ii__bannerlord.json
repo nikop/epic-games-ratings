@@ -5,7 +5,7 @@
   "Ranking_Rating": 162,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 67,
-  "Ranking_EOS_Progress": 103,
+  "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 126,
@@ -9628,10 +9628,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15762,
       "NumberOfAwardsMax": 7553
+    },
+    {
+      "Time": "2023-12-13T10:00:16.3065271+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15763,
+      "NumberOfAwardsMax": 7553
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15762,
+  "NumberOfAwards": 15763,
   "NumberOfAwardsMax": 7553,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9645,7 +9651,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 969
+      "Count": 970
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9708,7 +9714,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67727,
+  "EOS_Progressed": 67728,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 0,
@@ -34708,6 +34714,11 @@
       "Time": "2023-12-13T09:09:57.9843726+00:00",
       "NumProgressed": 67727,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T10:09:55.7923208+00:00",
+      "NumProgressed": 67728,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34735,7 +34746,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 16254
+      "UsersEstimate": 16255
     },
     {
       "ID": "Best served cold",
@@ -34759,7 +34770,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 6095
+      "UsersEstimate": 6096
     },
     {
       "ID": "Catch",
@@ -34879,7 +34890,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 16254
+      "UsersEstimate": 16255
     },
     {
       "ID": "I can do it",
@@ -34943,7 +34954,7 @@
       "Name": "Landlord",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 23027
+      "UsersEstimate": 23028
     },
     {
       "ID": "Lawbringer",
@@ -34959,7 +34970,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16254
+      "UsersEstimate": 16255
     },
     {
       "ID": "Long live the Empire",
@@ -35095,7 +35106,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16254
+      "UsersEstimate": 16255
     },
     {
       "ID": "Undercover",
@@ -35126,15 +35137,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67727,
+      "Progressed": 67728,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-12-13T04:59:55.9910599+00:00",
-  "LastChanged_Achievements": "2023-12-13T09:09:57.9843724+00:00",
+  "LastChanged": "2023-12-13T10:00:16.3065269+00:00",
+  "LastChanged_Achievements": "2023-12-13T10:09:55.7923205+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.7190339+00:00",
-  "LastUpdate_Ratings": "2023-12-13T08:59:52.1422208+00:00",
-  "LastUpdate_Achievements": "2023-12-13T09:09:57.9844994+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:00:16.3065618+00:00",
+  "LastUpdate_Achievements": "2023-12-13T10:09:55.7924738+00:00"
 }

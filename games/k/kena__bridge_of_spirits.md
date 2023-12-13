@@ -6,33 +6,33 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~408,056 |
-| Haikyo | 80.00% | ~343,626 |
+| Found a Friend | 95.00% | ~408,057 |
+| Haikyo | 80.00% | ~343,627 |
 | Good as New | 72.00% | ~309,264 |
-| Into the Woods | 70.00% | ~300,673 |
+| Into the Woods | 70.00% | ~300,674 |
 | Hunter in the Forest | 60.00% | ~257,720 |
 | Rot Commander | 60.00% | ~257,720 |
-| Taro's Fear | 56.00% | ~240,538 |
+| Taro's Fear | 56.00% | ~240,539 |
 | Between the Eyes | 47.00% | ~201,881 |
-| Taro's Love | 46.00% | ~197,585 |
+| Taro's Love | 46.00% | ~197,586 |
 | Taro's Regret | 44.00% | ~188,995 |
 | Spirit Guide | 42.00% | ~180,404 |
 | Harness Your Power | 39.00% | ~167,518 |
-| The Open Range | 37.00% | ~158,927 |
-| Adira's Love | 34.00% | ~146,041 |
+| The Open Range | 37.00% | ~158,928 |
+| Adira's Love | 34.00% | ~146,042 |
 | Adira's Fear | 33.00% | ~141,746 |
-| Weigh Them Down | 31.00% | ~133,155 |
-| Adira's Regret | 31.00% | ~133,155 |
+| Weigh Them Down | 31.00% | ~133,156 |
+| Adira's Regret | 31.00% | ~133,156 |
 | A Heavy Hammer | 30.00% | ~128,860 |
 | Crossing Over | 29.00% | ~124,565 |
 | Quick Draw | 29.00% | ~124,565 |
-| Toshi's Fear | 28.00% | ~120,269 |
+| Toshi's Fear | 28.00% | ~120,270 |
 | Toshi's Regret | 27.00% | ~115,974 |
 | Toshi's Love | 27.00% | ~115,974 |
 | A Leader Walks Alone | 26.00% | ~111,679 |
 | Bow Master | 26.00% | ~111,679 |
 | The Lonely Path | 26.00% | ~111,679 |
-| Restore Balance | 25.00% | ~107,383 |
+| Restore Balance | 25.00% | ~107,384 |
 | Say Cheese | 16.00% | ~68,725 |
 | Skillful Spirit Guide | 15.00% | ~64,430 |
 | Piercing Blow | 14.00% | ~60,135 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,866 |
 | Master Spirit Guide | 0.30% | ~1,289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429,533 (Ranked 44)  
+Progressed: 429,534 (Ranked 44)  
 Completed: 553 (0.13%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 553 (0.13%) (Ranked 280)
 | 2023-12-10 | 429,498 | 553 |
 | 2023-12-11 | 429,518 | 553 |
 | 2023-12-12 | 429,529 | 553 |
-| 2023-12-13 | 429,533 | 553 |
+| 2023-12-13 | 429,534 | 553 |
 ## Awards
 Max (Great Boss Battles): 1,344  (Ranked 136)  
 Sum: 1,763 (Ranked 221)  

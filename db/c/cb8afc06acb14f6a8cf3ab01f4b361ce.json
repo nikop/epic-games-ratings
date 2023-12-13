@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewPlayers": 29,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -413,9 +413,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 328095,
+  "EOS_Progressed": 328114,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3417,
+  "EOS_NewPlayers": 3416,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9438,6 +9438,11 @@
       "Time": "2023-12-13T09:05:54.2392332+00:00",
       "NumProgressed": 328095,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-13T10:06:23.8674441+00:00",
+      "NumProgressed": 328114,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9482,7 +9487,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "S06_LWTC",
@@ -9490,7 +9495,7 @@
       "Name": "They tricked me",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "S07_INWA",
@@ -9618,7 +9623,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "S23_ETHEREAL",
@@ -9682,7 +9687,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -9769,7 +9774,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 328095,
+      "Progressed": 328114,
       "Completed": 5
     }
   ],
@@ -9777,8 +9782,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-13T03:57:02.1052572+00:00",
-  "LastChanged_Achievements": "2023-12-13T09:05:54.239233+00:00",
+  "LastChanged_Achievements": "2023-12-13T10:06:23.8674439+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-13T08:57:08.9049761+00:00",
-  "LastUpdate_Achievements": "2023-12-13T09:05:54.2393056+00:00"
+  "LastUpdate_Ratings": "2023-12-13T09:57:32.861657+00:00",
+  "LastUpdate_Achievements": "2023-12-13T10:06:23.8675025+00:00"
 }

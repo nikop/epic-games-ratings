@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2827,
+  "EOS_Progressed": 2837,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2824,
+  "EOS_NewPlayers": 2834,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -744,6 +744,11 @@
       "Time": "2023-12-13T09:09:26.3676488+00:00",
       "NumProgressed": 2827,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T10:09:24.5009025+00:00",
+      "NumProgressed": 2837,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -756,7 +761,7 @@
       "Name": "Conspiracy",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1560
     },
     {
       "ID": "03_TheStolenStar",
@@ -764,7 +769,7 @@
       "Name": "Stolen Star",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 454
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -868,7 +873,7 @@
       "Name": "The Rise",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "17_TheExemplar",
@@ -884,7 +889,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 454
     },
     {
       "ID": "19_TheVoidWolf",
@@ -916,7 +921,7 @@
       "Name": "Perfect Timing",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "23_DynastyRestored",
@@ -964,7 +969,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -972,7 +977,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1475
     },
     {
       "ID": "30_The GreatestExploration",
@@ -988,7 +993,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "32_AviationSaviour",
@@ -1004,7 +1009,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 454
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -1082,9 +1087,9 @@
       "ID": "43_ThereIsNoPlaceLikeHome",
       "SetID": "37a94m8",
       "Name": "No Place Like Home",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 57
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -1108,7 +1113,7 @@
       "Name": "A Spark",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 567
     },
     {
       "ID": "47_AFlame",
@@ -1196,7 +1201,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -1275,7 +1280,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 2827,
+      "Progressed": 2837,
       "Completed": 0
     }
   ],
@@ -1283,8 +1288,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-13T02:57:09.8398943+00:00",
-  "LastChanged_Achievements": "2023-12-13T09:09:26.3676487+00:00",
+  "LastChanged_Achievements": "2023-12-13T10:09:24.5008963+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-13T08:57:13.1956139+00:00",
-  "LastUpdate_Achievements": "2023-12-13T09:09:26.3676914+00:00"
+  "LastUpdate_Ratings": "2023-12-13T09:57:37.1350296+00:00",
+  "LastUpdate_Achievements": "2023-12-13T10:09:24.5009727+00:00"
 }

@@ -449,9 +449,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221758,
+  "EOS_Progressed": 221759,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 931,
+  "EOS_NewPlayers": 930,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27469,6 +27469,11 @@
       "Time": "2023-12-13T09:04:48.965942+00:00",
       "NumProgressed": 221758,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T10:05:18.6520507+00:00",
+      "NumProgressed": 221759,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -27480,7 +27485,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 104226
+      "UsersEstimate": 104227
     },
     {
       "ID": "AlekhinesGun",
@@ -27536,7 +27541,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 66527
+      "UsersEstimate": 66528
     },
     {
       "ID": "ChessChampion",
@@ -27568,7 +27573,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 126402
+      "UsersEstimate": 126403
     },
     {
       "ID": "Elo",
@@ -27616,7 +27621,7 @@
       "Name": "Family Fork",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13305
+      "UsersEstimate": 13306
     },
     {
       "ID": "FoolsMate",
@@ -27672,7 +27677,7 @@
       "Name": "Piece Collector",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13305
+      "UsersEstimate": 13306
     },
     {
       "ID": "ProblemSolved",
@@ -27728,7 +27733,7 @@
       "Name": "Stalemate",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 39916
+      "UsersEstimate": 39917
     },
     {
       "ID": "StrangerDanger",
@@ -27783,7 +27788,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 221758,
+      "Progressed": 221759,
       "Completed": 2
     }
   ],
@@ -27791,8 +27796,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-12-01T13:07:49.2205342+00:00",
-  "LastChanged_Achievements": "2023-12-13T09:04:48.9659419+00:00",
+  "LastChanged_Achievements": "2023-12-13T10:05:18.6520505+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:03.579995+00:00",
-  "LastUpdate_Ratings": "2023-12-13T08:57:41.8583253+00:00",
-  "LastUpdate_Achievements": "2023-12-13T09:04:48.9660753+00:00"
+  "LastUpdate_Ratings": "2023-12-13T09:58:06.3101408+00:00",
+  "LastUpdate_Achievements": "2023-12-13T10:05:18.6521599+00:00"
 }

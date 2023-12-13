@@ -15,11 +15,11 @@ Rating: 4.76 (Ranked 130)
 | Loom for Improvement | 12.00% | ~36,513 |
 | A Talent for Spending | 12.00% | ~36,513 |
 | Coasting Along | 12.00% | ~36,513 |
-| Grappling with a Graphorn | 11.00% | ~33,470 |
-| The One Who Mastered Memories | 11.00% | ~33,470 |
-| The Hero of Hogwarts | 11.00% | ~33,470 |
-| Challenge Accepted | 11.00% | ~33,470 |
-| Followed the Butterflies | 11.00% | ~33,470 |
+| Grappling with a Graphorn | 11.00% | ~33,471 |
+| The One Who Mastered Memories | 11.00% | ~33,471 |
+| The Hero of Hogwarts | 11.00% | ~33,471 |
+| Challenge Accepted | 11.00% | ~33,471 |
+| Followed the Butterflies | 11.00% | ~33,471 |
 | Rising From the Ashes | 10.00% | ~30,428 |
 | The Avenging Gazelle | 9.00% | ~27,385 |
 | A Sallow Grave | 9.00% | ~27,385 |
@@ -47,11 +47,11 @@ Rating: 4.76 (Ranked 130)
 | Finishing Touches | 2.00% | ~6,086 |
 | A Forte for Achievement | 2.00% | ~6,086 |
 | Merlin's Beard! | 1.00% | ~3,043 |
-| Spilled Milk | 0.90% | ~2,738 |
+| Spilled Milk | 0.90% | ~2,739 |
 | The Nature of the Beast | 0.70% | ~2,130 |
 | Collector's Edition | 0.40% | ~1,217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,277 (Ranked 54)  
+Progressed: 304,278 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 525 (0.17%) (Ranked 271)
 | 2023-12-10 | 304,188 | 525 |
 | 2023-12-11 | 304,218 | 525 |
 | 2023-12-12 | 304,258 | 525 |
-| 2023-12-13 | 304,277 | 525 |
+| 2023-12-13 | 304,278 | 525 |
 ## Awards
 Max (Character Customization): 25,134  (Ranked 17)  
 Sum: 50,554 (Ranked 30)  

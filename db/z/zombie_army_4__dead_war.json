@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2532,9 +2532,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44125,
+  "EOS_Progressed": 44126,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9822,6 +9822,11 @@
       "Time": "2023-12-13T04:06:53.2810067+00:00",
       "NumProgressed": 44125,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-13T10:06:09.6031701+00:00",
+      "NumProgressed": 44126,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9849,7 +9854,7 @@
       "Name": "That\u0027s a lot of them, and only 4 of us",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "SE_COMPLETE_ALPINE_BLITZ",
@@ -9905,7 +9910,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18091
+      "UsersEstimate": 18092
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -10081,7 +10086,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21621
+      "UsersEstimate": 21622
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -10121,7 +10126,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16326
+      "UsersEstimate": 16327
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -10129,7 +10134,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18532
+      "UsersEstimate": 18533
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -10153,7 +10158,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16326
+      "UsersEstimate": 16327
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -10161,7 +10166,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30446
+      "UsersEstimate": 30447
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -10193,7 +10198,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25151
+      "UsersEstimate": 25152
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -10225,7 +10230,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19856
+      "UsersEstimate": 19857
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -10233,7 +10238,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29122
+      "UsersEstimate": 29123
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -10289,7 +10294,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29122
+      "UsersEstimate": 29123
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -10345,7 +10350,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7942
+      "UsersEstimate": 7943
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -10360,15 +10365,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44125,
+      "Progressed": 44126,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-13T06:00:48.772534+00:00",
-  "LastChanged_Achievements": "2023-12-13T09:05:39.5589657+00:00",
+  "LastChanged_Achievements": "2023-12-13T10:06:09.6031697+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.7466868+00:00",
-  "LastUpdate_Ratings": "2023-12-13T09:00:05.3234347+00:00",
-  "LastUpdate_Achievements": "2023-12-13T09:05:39.5590342+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:00:29.2256321+00:00",
+  "LastUpdate_Achievements": "2023-12-13T10:06:09.6032673+00:00"
 }

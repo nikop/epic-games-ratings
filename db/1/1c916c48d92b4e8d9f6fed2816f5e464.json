@@ -2,7 +2,7 @@
   "ID": "1c916c48d92b4e8d9f6fed2816f5e464",
   "Name": "No Son Of Mine",
   "ProductSlug": "no-son-of-mine-d40aca",
-  "Ranking_EOS_Progress": 642,
+  "Ranking_EOS_Progress": 643,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 126,
@@ -161,8 +161,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-26T10:03:17.7378826+00:00",
-  "LastChanged_Achievements": "2023-12-13T09:06:13.6702798+00:00",
+  "LastChanged_Achievements": "2023-12-13T10:06:43.4499794+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:03.1427487+00:00",
-  "LastUpdate_Ratings": "2023-12-13T09:02:58.7239921+00:00",
-  "LastUpdate_Achievements": "2023-12-13T09:06:13.6702857+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:03:27.9442224+00:00",
+  "LastUpdate_Achievements": "2023-12-13T10:06:43.4499867+00:00"
 }

@@ -11919,9 +11919,9 @@
       "Count": 852
     }
   ],
-  "EOS_Progressed": 304277,
+  "EOS_Progressed": 304278,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -37269,6 +37269,11 @@
       "Time": "2023-12-13T09:05:42.4501879+00:00",
       "NumProgressed": 304277,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-13T10:06:12.5013553+00:00",
+      "NumProgressed": 304278,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37288,7 +37293,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33470
+      "UsersEstimate": 33471
     },
     {
       "ID": "PFA_11",
@@ -37296,7 +37301,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33470
+      "UsersEstimate": 33471
     },
     {
       "ID": "PFA_12",
@@ -37312,7 +37317,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33470
+      "UsersEstimate": 33471
     },
     {
       "ID": "PFA_14",
@@ -37384,7 +37389,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33470
+      "UsersEstimate": 33471
     },
     {
       "ID": "PFA_22",
@@ -37488,7 +37493,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "PFA_34",
@@ -37504,7 +37509,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33470
+      "UsersEstimate": 33471
     },
     {
       "ID": "PFA_36",
@@ -37639,7 +37644,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304277,
+      "Progressed": 304278,
       "Completed": 525
     }
   ],
@@ -37647,8 +37652,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-13T03:01:28.8747262+00:00",
-  "LastChanged_Achievements": "2023-12-13T09:05:42.4501877+00:00",
+  "LastChanged_Achievements": "2023-12-13T10:06:12.5013551+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-13T09:00:14.4565525+00:00",
-  "LastUpdate_Achievements": "2023-12-13T09:05:42.4503509+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:00:36.608449+00:00",
+  "LastUpdate_Achievements": "2023-12-13T10:06:12.5014814+00:00"
 }

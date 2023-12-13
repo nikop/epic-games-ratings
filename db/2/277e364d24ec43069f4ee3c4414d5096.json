@@ -359,7 +359,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116521,
+  "EOS_Progressed": 116522,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 0,
@@ -21089,6 +21089,11 @@
       "Time": "2023-12-13T09:09:43.5495429+00:00",
       "NumProgressed": 116521,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-13T10:09:41.3840049+00:00",
+      "NumProgressed": 116522,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -21108,7 +21113,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89721
+      "UsersEstimate": 89722
     },
     {
       "ID": "EAwards_10",
@@ -21124,7 +21129,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30295
+      "UsersEstimate": 30296
     },
     {
       "ID": "EAwards_12",
@@ -21164,7 +21169,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8156
+      "UsersEstimate": 8157
     },
     {
       "ID": "EAwards_17",
@@ -21196,7 +21201,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55930
+      "UsersEstimate": 55931
     },
     {
       "ID": "EAwards_20",
@@ -21212,7 +21217,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8156
+      "UsersEstimate": 8157
     },
     {
       "ID": "EAwards_22",
@@ -21236,7 +21241,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8156
+      "UsersEstimate": 8157
     },
     {
       "ID": "EAwards_25",
@@ -21308,7 +21313,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 8156
+      "UsersEstimate": 8157
     },
     {
       "ID": "EAwards_33",
@@ -21491,7 +21496,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116521,
+      "Progressed": 116522,
       "Completed": 51
     }
   ],
@@ -21499,8 +21504,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-13T09:09:43.5495426+00:00",
+  "LastChanged_Achievements": "2023-12-13T10:09:41.3840046+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.236213+00:00",
-  "LastUpdate_Ratings": "2023-12-13T09:00:27.9923876+00:00",
-  "LastUpdate_Achievements": "2023-12-13T09:09:43.5496899+00:00"
+  "LastUpdate_Ratings": "2023-12-13T10:03:10.5332038+00:00",
+  "LastUpdate_Achievements": "2023-12-13T10:09:41.384134+00:00"
 }

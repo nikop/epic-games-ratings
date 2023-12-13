@@ -5,51 +5,51 @@ Rating: 4.76 (Ranked 130)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 68.00% | ~247,955 |
-| The Player Whisperer | 68.00% | ~247,955 |
-| One of Us, One of Us! | 62.00% | ~226,077 |
-| First Victory | 55.00% | ~200,552 |
-| Clean Sheet | 54.00% | ~196,906 |
-| #DoneDeal | 54.00% | ~196,906 |
-| Off the Books | 51.00% | ~185,966 |
-| Super-Sub | 51.00% | ~185,966 |
-| Hat-trick | 46.00% | ~167,734 |
+| Motivational Speaker | 68.00% | ~247,957 |
+| The Player Whisperer | 68.00% | ~247,957 |
+| One of Us, One of Us! | 62.00% | ~226,078 |
+| First Victory | 55.00% | ~200,553 |
+| Clean Sheet | 54.00% | ~196,907 |
+| #DoneDeal | 54.00% | ~196,907 |
+| Off the Books | 51.00% | ~185,967 |
+| Super-Sub | 51.00% | ~185,967 |
+| Hat-trick | 46.00% | ~167,735 |
 | Planned Signing | 44.00% | ~160,442 |
-| "I Would Love It If We Beat Them" | 43.00% | ~156,795 |
-| Scoring Streak | 40.00% | ~145,856 |
-| Wheeler Dealer | 40.00% | ~145,856 |
+| "I Would Love It If We Beat Them" | 43.00% | ~156,796 |
+| Scoring Streak | 40.00% | ~145,857 |
+| Wheeler Dealer | 40.00% | ~145,857 |
 | Thumping | 39.00% | ~142,210 |
 | People Pleaser | 39.00% | ~142,210 |
-| Unbeatable! | 38.00% | ~138,563 |
-| One Of Our Own | 36.00% | ~131,270 |
-| They're a Natural | 31.00% | ~113,038 |
-| Record Signing | 31.00% | ~113,038 |
-| Team Performance | 30.00% | ~109,392 |
+| Unbeatable! | 38.00% | ~138,564 |
+| One Of Our Own | 36.00% | ~131,271 |
+| They're a Natural | 31.00% | ~113,039 |
+| Record Signing | 31.00% | ~113,039 |
+| Team Performance | 30.00% | ~109,393 |
 | Star Player | 29.00% | ~105,746 |
 | The Only Stat That Matters | 29.00% | ~105,746 |
 | Parked The Bus | 27.00% | ~98,453 |
 | Full Faith | 27.00% | ~98,453 |
 | Goal Rush | 27.00% | ~98,453 |
 | The People's Champion | 27.00% | ~98,453 |
-| Beating Expectations | 26.00% | ~94,806 |
-| Squad Goals | 26.00% | ~94,806 |
+| Beating Expectations | 26.00% | ~94,807 |
+| Squad Goals | 26.00% | ~94,807 |
 | Unstoppable Force | 25.00% | ~91,160 |
 | Record Sale | 25.00% | ~91,160 |
 | You're on Fire | 24.00% | ~87,514 |
 | Tremendous Trio | 24.00% | ~87,514 |
-| On a Roll | 23.00% | ~83,867 |
-| Drilling Down | 23.00% | ~83,867 |
-| Flavour Of The Month | 23.00% | ~83,867 |
-| The Special One | 23.00% | ~83,867 |
-| Shots For Days | 23.00% | ~83,867 |
+| On a Roll | 23.00% | ~83,868 |
+| Drilling Down | 23.00% | ~83,868 |
+| Flavour Of The Month | 23.00% | ~83,868 |
+| The Special One | 23.00% | ~83,868 |
+| Shots For Days | 23.00% | ~83,868 |
 | What A Goal! | 22.00% | ~80,221 |
 | Splashing the Cash | 20.00% | ~72,928 |
 | Immovable Object | 20.00% | ~72,928 |
 | Goal Machine | 20.00% | ~72,928 |
 | Cup Glory! | 20.00% | ~72,928 |
-| Irresistible Force | 18.00% | ~65,635 |
-| Do The Double | 16.00% | ~58,342 |
-| Cash to Burn | 16.00% | ~58,342 |
+| Irresistible Force | 18.00% | ~65,636 |
+| Do The Double | 16.00% | ~58,343 |
+| Cash to Burn | 16.00% | ~58,343 |
 | Top Form | 14.00% | ~51,050 |
 | Window Shopping | 14.00% | ~51,050 |
 | A Game of Two Halves | 13.00% | ~47,403 |
@@ -64,10 +64,10 @@ Rating: 4.76 (Ranked 130)
 | National Service | 7.00% | ~25,525 |
 | Invincible! | 7.00% | ~25,525 |
 | Domination | 7.00% | ~25,525 |
-| Best in the Business | 6.00% | ~21,878 |
-| Total Support | 6.00% | ~21,878 |
-| Second Hand Signing | 6.00% | ~21,878 |
-| You Can Buy Happiness | 6.00% | ~21,878 |
+| Best in the Business | 6.00% | ~21,879 |
+| Total Support | 6.00% | ~21,879 |
+| Second Hand Signing | 6.00% | ~21,879 |
+| You Can Buy Happiness | 6.00% | ~21,879 |
 | Legend | 4.00% | ~14,586 |
 | Bragging Rights | 4.00% | ~14,586 |
 | World Beaters | 4.00% | ~14,586 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 130)
 | 200 Club | 0.10% | ~365 |
 | Draft Value | 0.10% | ~365 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 364,640 (Ranked 48)  
+Progressed: 364,642 (Ranked 48)  
 Completed: 28 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,10 +343,10 @@ Completed: 28 (0.01%) (Ranked 350)
 | 2023-12-10 | 364,216 | 27 |
 | 2023-12-11 | 364,413 | 28 |
 | 2023-12-12 | 364,604 | 28 |
-| 2023-12-13 | 364,640 | 28 |
+| 2023-12-13 | 364,642 | 28 |
 ## Awards
 Max (Diverse Characters): 1,259  (Ranked 140)  
-Sum: 8,734 (Ranked 99)  
+Sum: 8,735 (Ranked 99)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -356,7 +356,7 @@ Diff (max vs sum): 41
 | This game is Educational | 995 |
 | This game is Relaxing | 976 |
 | This game has Competitive Players | 896 |
-| This game has Quickly Understood Controls | 871 |
+| This game has Quickly Understood Controls | 872 |
 | This game has Amazing Storytelling | 834 |
 | This game has Amazing Characters | 775 |
 | This game has Challenging Combat | 633 |
@@ -653,3 +653,4 @@ Diff (max vs sum): 41
 | 2023-12-10 | 4.76 | 1,254 | 8,701 |
 | 2023-12-11 | 4.76 | 1,254 | 8,708 |
 | 2023-12-12 | 4.76 | 1,259 | 8,734 |
+| 2023-12-13 | 4.76 | 1,259 | 8,735 |

@@ -29,7 +29,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.60% | ~164 |
 | Scareless | 0.50% | ~3,590 |
 | Kung-Fu Tussle | 0.50% | ~3,590 |
-| Martial Hub | 0.50% | ~136 |
+| Martial Hub | 0.50% | ~137 |
 | Dance of the Praying Mantis | 0.40% | ~2,872 |
 | Qi Gong: Mind | 0.40% | ~2,872 |
 | I know Kung-Fu | 0.40% | ~2,872 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,998 (Ranked 24)  
+Progressed: 718,000 (Ranked 24)  
 Completed: 12,952 (1.80%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 12,952 (1.80%) (Ranked 136)
 | 2023-12-10 | 717,948 | 12,951 |
 | 2023-12-11 | 717,971 | 12,952 |
 | 2023-12-12 | 717,993 | 12,952 |
-| 2023-12-13 | 717,998 | 12,952 |
+| 2023-12-13 | 718,000 | 12,952 |
 ## Awards
 Max (Great Boss Battles): 6,915  (Ranked 55)  
 Sum: 12,138 (Ranked 83)  

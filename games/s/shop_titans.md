@@ -7,28 +7,29 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 8.00% | ~11,593 |
+| Titan's First Steps | 8.00% | ~11,593 |
 | Basic in Bulk | 7.00% | ~10,144 |
 | Tinkle of Coins | 7.00% | ~10,144 |
-| Titan's First Steps | 7.00% | ~10,144 |
 | Disintermediation | 5.00% | ~7,246 |
 | It's Free Real Estate | 5.00% | ~7,246 |
 | Capitalism Ho! | 5.00% | ~7,246 |
-| One Easy Payment | 4.00% | ~5,796 |
-| Some Assembly Required | 4.00% | ~5,796 |
-| Another Satisfied Customer | 4.00% | ~5,796 |
-| Pretty Penny | 4.00% | ~5,796 |
-| Budding Merchant | 4.00% | ~5,796 |
-| Own the Means of Production | 4.00% | ~5,796 |
-| The Daily Grind | 3.00% | ~4,347 |
-| Bounty Hunters | 3.00% | ~4,347 |
-| Demand for Supplies | 3.00% | ~4,347 |
-| Flooding the Market | 3.00% | ~4,347 |
-| Where it Hurts | 3.00% | ~4,347 |
-| Gild-Gotten Goods | 3.00% | ~4,347 |
-| One-Armed Bandit | 3.00% | ~4,347 |
-| Dungeon Imports | 3.00% | ~4,347 |
-| Through Repetition, Perfection | 3.00% | ~4,347 |
-| Did we pack lunch? | 3.00% | ~4,347 |
+| One Easy Payment | 4.00% | ~5,797 |
+| Some Assembly Required | 4.00% | ~5,797 |
+| Another Satisfied Customer | 4.00% | ~5,797 |
+| Pretty Penny | 4.00% | ~5,797 |
+| Budding Merchant | 4.00% | ~5,797 |
+| Own the Means of Production | 4.00% | ~5,797 |
+| The Daily Grind | 3.00% | ~4,348 |
+| Bounty Hunters | 3.00% | ~4,348 |
+| Demand for Supplies | 3.00% | ~4,348 |
+| Flooding the Market | 3.00% | ~4,348 |
+| Where it Hurts | 3.00% | ~4,348 |
+| Gild-Gotten Goods | 3.00% | ~4,348 |
+| One-Armed Bandit | 3.00% | ~4,348 |
+| Dungeon Imports | 3.00% | ~4,348 |
+| Through Repetition, Perfection | 3.00% | ~4,348 |
+| Did we pack lunch? | 3.00% | ~4,348 |
+| Arcane Industries | 3.00% | ~4,348 |
 | On the Path to Greatness | 2.00% | ~2,898 |
 | A Notch Above the Rest | 2.00% | ~2,898 |
 | Cream of the Crop | 2.00% | ~2,898 |
@@ -75,7 +76,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 2.00% | ~2,898 |
 | Special Ingredient | 2.00% | ~2,898 |
 | Exotic Commodities | 2.00% | ~2,898 |
-| Arcane Industries | 2.00% | ~2,898 |
 | Complete Monopoly | 2.00% | ~2,898 |
 | Top of the World | 1.00% | ~1,449 |
 | Proud Paladin | 1.00% | ~1,449 |
@@ -107,9 +107,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Free Encyclopedia | 0.90% | ~1,304 |
 | The Greatest Grind | 0.70% | ~1,014 |
 | All or Nothing! | 0.70% | ~1,014 |
-| Bane of Legends | 0.60% | ~869 |
-| Anything not Nailed Down | 0.60% | ~869 |
-| Marvels from the World Over | 0.60% | ~869 |
+| Bane of Legends | 0.60% | ~870 |
+| Anything not Nailed Down | 0.60% | ~870 |
+| Marvels from the World Over | 0.60% | ~870 |
 | Ultimate Collector | 0.50% | ~725 |
 | Unleashed Potential | 0.50% | ~725 |
 | JACKPOT!!! | 0.50% | ~725 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~435 |
 | Capitalist Camaraderie | 0.20% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,911 (Ranked 80)  
+Progressed: 144,917 (Ranked 80)  
 Completed: 295 (0.20%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 295 (0.20%) (Ranked 261)
 | 2023-12-10 | 144,657 | 293 |
 | 2023-12-11 | 144,756 | 293 |
 | 2023-12-12 | 144,871 | 294 |
-| 2023-12-13 | 144,911 | 295 |
+| 2023-12-13 | 144,917 | 295 |
 ## Awards
 Max (Great for Beginners): 4,878  (Ranked 75)  
 Sum: 27,701 (Ranked 51)  
