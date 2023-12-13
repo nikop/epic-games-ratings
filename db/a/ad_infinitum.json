@@ -4,7 +4,7 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -577,9 +577,9 @@
       "ID": "ACH_PEACE",
       "SetID": "88d7anj",
       "Name": "Peace",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_RAGE",
@@ -624,8 +624,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:05:42.0999196+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:05:36.8885895+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:00.819001+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:57:33.3319755+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:05:42.0999348+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:57:28.7836033+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:05:36.8886091+00:00"
 }

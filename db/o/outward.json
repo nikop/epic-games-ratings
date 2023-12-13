@@ -3,7 +3,7 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 498,
-  "Ranking_Popularity": 483,
+  "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 288,
@@ -535,9 +535,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3740,
+  "EOS_Progressed": 3741,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5920,6 +5920,11 @@
       "Time": "2023-12-13T20:06:36.8346293+00:00",
       "NumProgressed": 3740,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-13T22:06:00.8000041+00:00",
+      "NumProgressed": 3741,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5955,7 +5960,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "BloodAndJustice_50",
@@ -6115,7 +6120,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6123,7 +6128,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2431
+      "UsersEstimate": 2432
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6153,9 +6158,9 @@
       "ID": "Tapped_22",
       "SetID": "c4hee28",
       "Name": "Tapped!",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1422
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -6251,7 +6256,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2842
+      "UsersEstimate": 2843
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6266,15 +6271,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3740,
+      "Progressed": 3741,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:06:06.8942605+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:06:00.8000038+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.9668311+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:00:43.7979077+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:06:06.8943056+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:02:42.3865991+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:06:00.8000462+00:00"
 }

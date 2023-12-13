@@ -270,8 +270,8 @@ Completed: 413 (0.54%) (Ranked 206)
 | 2023-12-12 | 76,653 | 411 |
 | 2023-12-13 | 76,701 | 413 |
 ## Awards
-Max (Extremely Fun): 27  (Ranked 517)  
-Sum: 116 (Ranked 446)  
+Max (Extremely Fun): 27  (Ranked 518)  
+Sum: 116 (Ranked 447)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |

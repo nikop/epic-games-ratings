@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -1189,9 +1189,9 @@
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1205,9 +1205,9 @@
       "ID": "TKO2_DOMINO",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Domino",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "TKO2_DRAGONS_FAVORITE",
@@ -1236,8 +1236,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:09:27.185216+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:09:36.3893796+00:00",
   "LastUpdate_AppInfo": "2023-12-09T01:42:08.195524+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:00:17.8206598+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:09:27.185233+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:00:07.9368973+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:09:36.3893945+00:00"
 }

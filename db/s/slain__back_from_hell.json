@@ -3,8 +3,8 @@
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
   "Ranking_Rating": 855,
-  "Ranking_Popularity": 337,
-  "Ranking_PopularitySum": 437,
+  "Ranking_Popularity": 338,
+  "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 116,
@@ -244,9 +244,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 41979,
+  "EOS_Progressed": 41983,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26009,6 +26009,11 @@
       "Time": "2023-12-13T21:04:17.7577546+00:00",
       "NumProgressed": 41979,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-12-13T22:04:16.0362222+00:00",
+      "NumProgressed": 41983,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 29,
@@ -26251,7 +26256,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41979,
+      "Progressed": 41983,
       "Completed": 29
     }
   ],
@@ -26259,8 +26264,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:04:17.7577544+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:04:16.036222+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:15.3748793+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:00:07.1804831+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:04:17.757911+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:59:56.777063+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:04:16.0363821+00:00"
 }

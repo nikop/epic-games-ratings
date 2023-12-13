@@ -5,29 +5,29 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~22,032 |
-| Welcome To Hell-A | 3.00% | ~22,032 |
-| One of Us | 3.00% | ~1,798 |
-| Whatever It Takes | 3.00% | ~1,798 |
-| Pork Chopped | 3.00% | ~1,798 |
-| Dr. Reed, I Presume? | 2.00% | ~14,688 |
-| Git Gutte! | 2.00% | ~14,688 |
-| Anger Management | 2.00% | ~14,688 |
-| Bookworm | 2.00% | ~14,688 |
-| Break A Leg | 2.00% | ~14,688 |
-| But Doctor, I am Butcho | 2.00% | ~14,688 |
-| Can't Handle the Truth | 2.00% | ~14,688 |
-| Coup de Grâce | 2.00% | ~14,688 |
-| Like Riding a Bike | 2.00% | ~14,688 |
-| Hazardous Materials | 2.00% | ~14,688 |
-| Friends Like These | 2.00% | ~14,688 |
-| Apex Predator | 2.00% | ~14,688 |
-| Zombologist | 2.00% | ~14,688 |
-| A Patton Emerges | 2.00% | ~14,688 |
-| Stacking the Deck | 2.00% | ~14,688 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,688 |
-| Our True Nature | 2.00% | ~14,688 |
-| This is My Weapon | 2.00% | ~14,688 |
+| Hotel California | 3.00% | ~22,033 |
+| Welcome To Hell-A | 3.00% | ~22,033 |
+| One of Us | 3.00% | ~1,800 |
+| Whatever It Takes | 3.00% | ~1,800 |
+| Pork Chopped | 3.00% | ~1,800 |
+| Dr. Reed, I Presume? | 2.00% | ~14,689 |
+| Git Gutte! | 2.00% | ~14,689 |
+| Anger Management | 2.00% | ~14,689 |
+| Bookworm | 2.00% | ~14,689 |
+| Break A Leg | 2.00% | ~14,689 |
+| But Doctor, I am Butcho | 2.00% | ~14,689 |
+| Can't Handle the Truth | 2.00% | ~14,689 |
+| Coup de Grâce | 2.00% | ~14,689 |
+| Like Riding a Bike | 2.00% | ~14,689 |
+| Hazardous Materials | 2.00% | ~14,689 |
+| Friends Like These | 2.00% | ~14,689 |
+| Apex Predator | 2.00% | ~14,689 |
+| Zombologist | 2.00% | ~14,689 |
+| A Patton Emerges | 2.00% | ~14,689 |
+| Stacking the Deck | 2.00% | ~14,689 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,689 |
+| Our True Nature | 2.00% | ~14,689 |
+| This is My Weapon | 2.00% | ~14,689 |
 | Making Your Mark | 1.00% | ~7,344 |
 | Perks of the Job | 1.00% | ~7,344 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,344 |
@@ -37,15 +37,15 @@ Rating: 4.54 (Ranked 534)
 | I Am the Resurrection | 1.00% | ~7,344 |
 | Down with the Sickness | 1.00% | ~7,344 |
 | Max Headroom | 1.00% | ~7,344 |
-| Jumbo Keyring | 0.90% | ~6,609 |
-| Go, Bobcats! | 0.90% | ~6,609 |
-| Rising Star | 0.90% | ~6,609 |
-| Not Even My Final Form | 0.80% | ~5,875 |
+| Jumbo Keyring | 0.90% | ~6,610 |
+| Go, Bobcats! | 0.90% | ~6,610 |
+| Rising Star | 0.90% | ~6,610 |
+| Not Even My Final Form | 0.80% | ~5,876 |
 | Smorgasbord | 0.70% | ~5,141 |
 | Internet Famous | 0.70% | ~5,141 |
-| Make it So | 0.60% | ~4,406 |
-| On Safari | 0.60% | ~4,406 |
-| Variety is the Spice of Death | 0.60% | ~4,406 |
+| Make it So | 0.60% | ~4,407 |
+| On Safari | 0.60% | ~4,407 |
+| Variety is the Spice of Death | 0.60% | ~4,407 |
 | LA Influential | 0.50% | ~3,672 |
 | Gore Horse | 0.50% | ~3,672 |
 | Sole Survivor | 0.40% | ~2,938 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 534)
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,385 (Ranked 21)  
+Progressed: 734,449 (Ranked 21)  
 Completed: 2,482 (0.34%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,10 +294,10 @@ Completed: 2,482 (0.34%) (Ranked 235)
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
 | 2023-12-12 | 733,868 | 2,480 |
-| 2023-12-13 | 734,385 | 2,482 |
+| 2023-12-13 | 734,449 | 2,482 |
 ## Awards
 Max (Great Boss Battles): 8,125  (Ranked 49)  
-Sum: 12,503 (Ranked 81)  
+Sum: 12,504 (Ranked 81)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -307,7 +307,7 @@ Diff (max vs sum): -32
 | This game has Quickly Understood Controls | 575 |
 | This game is Relaxing | 539 |
 | This game has Amazing Storytelling | 529 |
-| This game is Extremely Fun | 513 |
+| This game is Extremely Fun | 514 |
 | This game is Highly Recommended | 510 |
 | This game has Amazing Characters | 475 |
 ## Ratings History
@@ -549,4 +549,4 @@ Diff (max vs sum): -32
 | 2023-12-10 | 4.54 | 8,071 | 12,407 |
 | 2023-12-11 | 4.54 | 8,094 | 12,447 |
 | 2023-12-12 | 4.54 | 8,108 | 12,476 |
-| 2023-12-13 | 4.54 | 8,125 | 12,503 |
+| 2023-12-13 | 4.54 | 8,125 | 12,504 |

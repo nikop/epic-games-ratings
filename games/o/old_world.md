@@ -7,8 +7,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 8.00% | ~1,260 |
-| Explorer | 7.00% | ~1,102 |
-| Settler | 7.00% | ~1,102 |
+| Explorer | 7.00% | ~1,103 |
+| Settler | 7.00% | ~1,103 |
 | Friendly Family | 6.00% | ~945 |
 | Able | 5.00% | ~788 |
 | Architect | 5.00% | ~788 |
@@ -34,33 +34,33 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 4.00% | ~630 |
 | Naming Landmarks | 4.00% | ~630 |
 | Trade Caravan | 4.00% | ~630 |
-| Regicide | 3.00% | ~472 |
-| Drillmaster | 3.00% | ~472 |
-| Brilliant | 3.00% | ~472 |
-| Fountainhead | 3.00% | ~472 |
-| Great | 3.00% | ~472 |
-| Magnificent | 3.00% | ~472 |
-| Valiant | 3.00% | ~472 |
-| Wise | 3.00% | ~472 |
-| Able Difficulty | 3.00% | ~472 |
-| Artisans | 3.00% | ~472 |
-| Furious Family | 3.00% | ~472 |
-| Apadana | 3.00% | ~472 |
-| Colossus | 3.00% | ~472 |
-| Great Ziggurat | 3.00% | ~472 |
-| Ishtar Gate | 3.00% | ~472 |
-| Lighthouse | 3.00% | ~472 |
-| Musaeum | 3.00% | ~472 |
-| Necropolis | 3.00% | ~472 |
-| Learn to Play 1 | 3.00% | ~472 |
-| Learn to Play 2 | 3.00% | ~472 |
-| Christianity | 3.00% | ~472 |
-| Manichaeism | 3.00% | ~472 |
-| Babylonian Paganism | 3.00% | ~472 |
-| Carthaginian Paganism | 3.00% | ~472 |
-| Egyptian Paganism | 3.00% | ~472 |
-| Roman Paganism | 3.00% | ~472 |
-| Zoroastrianism | 3.00% | ~472 |
+| Regicide | 3.00% | ~473 |
+| Drillmaster | 3.00% | ~473 |
+| Brilliant | 3.00% | ~473 |
+| Fountainhead | 3.00% | ~473 |
+| Great | 3.00% | ~473 |
+| Magnificent | 3.00% | ~473 |
+| Valiant | 3.00% | ~473 |
+| Wise | 3.00% | ~473 |
+| Able Difficulty | 3.00% | ~473 |
+| Artisans | 3.00% | ~473 |
+| Furious Family | 3.00% | ~473 |
+| Apadana | 3.00% | ~473 |
+| Colossus | 3.00% | ~473 |
+| Great Ziggurat | 3.00% | ~473 |
+| Ishtar Gate | 3.00% | ~473 |
+| Lighthouse | 3.00% | ~473 |
+| Musaeum | 3.00% | ~473 |
+| Necropolis | 3.00% | ~473 |
+| Learn to Play 1 | 3.00% | ~473 |
+| Learn to Play 2 | 3.00% | ~473 |
+| Christianity | 3.00% | ~473 |
+| Manichaeism | 3.00% | ~473 |
+| Babylonian Paganism | 3.00% | ~473 |
+| Carthaginian Paganism | 3.00% | ~473 |
+| Egyptian Paganism | 3.00% | ~473 |
+| Roman Paganism | 3.00% | ~473 |
+| Zoroastrianism | 3.00% | ~473 |
 | Hanging Gardens in Babylon | 2.00% | ~315 |
 | Beloved | 2.00% | ~315 |
 | Conqueror | 2.00% | ~315 |
@@ -150,10 +150,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.70% | ~110 |
 | Kush | 0.70% | ~110 |
 | Beja Archer | 0.70% | ~110 |
-| Glorious Difficulty | 0.60% | ~94 |
-| Capturing Cities | 0.60% | ~94 |
-| Ten Crowns | 0.60% | ~94 |
-| Siege Tower | 0.60% | ~94 |
+| Glorious Difficulty | 0.60% | ~95 |
+| Capturing Cities | 0.60% | ~95 |
+| Ten Crowns | 0.60% | ~95 |
+| Siege Tower | 0.60% | ~95 |
 | Bronze Victory (Carthage 1) | 0.50% | ~79 |
 | Ancient | 0.50% | ~79 |
 | Magnificent Difficulty | 0.50% | ~79 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,750 (Ranked 154)  
+Progressed: 15,751 (Ranked 154)  
 Completed: 5 (0.03%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,7 +586,7 @@ Completed: 5 (0.03%) (Ranked 335)
 | 2023-12-10 | 15,719 | 5 |
 | 2023-12-11 | 15,723 | 5 |
 | 2023-12-12 | 15,742 | 5 |
-| 2023-12-13 | 15,750 | 5 |
+| 2023-12-13 | 15,751 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 277)  
 Sum: 1,900 (Ranked 220)  

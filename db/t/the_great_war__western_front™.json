@@ -3,11 +3,11 @@
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
   "Ranking_Rating": 1008,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 596,
+  "EOS_Progressed": 597,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2728,6 +2728,11 @@
       "Time": "2023-12-13T19:08:34.9634454+00:00",
       "NumProgressed": 596,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T22:06:36.8187978+00:00",
+      "NumProgressed": 597,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2803,7 +2808,7 @@
       "Name": "Earth Shattering",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2834,7 +2839,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 596,
+      "Progressed": 597,
       "Completed": 0
     }
   ],
@@ -2842,8 +2847,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:06:43.9680679+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:06:36.8187975+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.7146339+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:57:46.9721067+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:06:43.9680882+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:57:42.4291207+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:06:36.8188171+00:00"
 }

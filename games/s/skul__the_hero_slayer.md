@@ -6,21 +6,21 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,848 |
-| What should I buy? | 84.00% | ~7,089 |
-| Focus! | 63.00% | ~5,317 |
-| Rescued Elder Ent | 63.00% | ~5,317 |
-| The End of the Gold Mane Knights | 49.00% | ~4,135 |
-| Rules of Etiquette | 42.00% | ~3,544 |
-| False Goddess, Disappear | 41.00% | ~3,460 |
+| The Legend Begins | 93.00% | ~7,850 |
+| What should I buy? | 84.00% | ~7,090 |
+| Focus! | 63.00% | ~5,318 |
+| Rescued Elder Ent | 63.00% | ~5,318 |
+| The End of the Gold Mane Knights | 49.00% | ~4,136 |
+| Rules of Etiquette | 42.00% | ~3,545 |
+| False Goddess, Disappear | 41.00% | ~3,461 |
 | Quick Movements | 35.00% | ~2,954 |
 | Inventory Management | 35.00% | ~2,954 |
-| The Fall of the Leonia Order | 32.00% | ~2,700 |
+| The Fall of the Leonia Order | 32.00% | ~2,701 |
 | The Hero Killer | 30.00% | ~2,532 |
-| Go Home... | 29.00% | ~2,447 |
+| Go Home... | 29.00% | ~2,448 |
 | The Final Battle of the First Hero | 28.00% | ~2,363 |
-| Brain at Full Throttle | 24.00% | ~2,025 |
-| Rookies Welcome | 19.00% | ~1,603 |
+| Brain at Full Throttle | 24.00% | ~2,026 |
+| Rookies Welcome | 19.00% | ~1,604 |
 | Deadly Power | 17.00% | ~1,435 |
 | Castle Restoration Plans | 15.00% | ~1,266 |
 | The Dwarven Chandelier | 13.00% | ~1,097 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~169 |
 | Cold-Blooded | 0.90% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,439 (Ranked 175)  
+Progressed: 8,441 (Ranked 175)  
 Completed: 18 (0.21%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,11 +247,11 @@ Completed: 18 (0.21%) (Ranked 257)
 | 2023-12-10 | 8,417 | 17 |
 | 2023-12-11 | 8,422 | 17 |
 | 2023-12-12 | 8,430 | 18 |
-| 2023-12-13 | 8,439 | 18 |
+| 2023-12-13 | 8,441 | 18 |
 ## Awards
-Max (Diverse Characters): 137  (Ranked 328)  
+Max (Diverse Characters): 137  (Ranked 329)  
 Sum: 952 (Ranked 271)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 137 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8669,10 +8669,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32840,
       "NumberOfAwardsMax": 5624
+    },
+    {
+      "Time": "2023-12-13T21:57:20.7345732+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32841,
+      "NumberOfAwardsMax": 5624
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32840,
+  "NumberOfAwards": 32841,
   "NumberOfAwardsMax": 5624,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8698,7 +8704,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4725
+      "Count": 4726
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8719,9 +8725,9 @@
       "Count": 3566
     }
   ],
-  "EOS_Progressed": 239795,
+  "EOS_Progressed": 239817,
   "EOS_Completed": 2519,
-  "EOS_NewPlayers": 1135,
+  "EOS_NewPlayers": 1154,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35464,6 +35470,11 @@
       "Time": "2023-12-13T21:09:57.5141632+00:00",
       "NumProgressed": 239795,
       "NumCompleted": 2519
+    },
+    {
+      "Time": "2023-12-13T22:10:05.7764914+00:00",
+      "NumProgressed": 239817,
+      "NumCompleted": 2519
     }
   ],
   "TotalAchievements": 546,
@@ -35649,9 +35660,9 @@
       "ID": "objective_completed_1066",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Breathe the Marsh Gas",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1067",
@@ -35721,9 +35732,9 @@
       "ID": "objective_completed_1081",
       "SetID": "415jc5c",
       "Name": "Uncommon Allies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1082",
@@ -35801,9 +35812,9 @@
       "ID": "objective_completed_1092",
       "SetID": "415jc5c",
       "Name": "End of the Line",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1093",
@@ -36065,9 +36076,9 @@
       "ID": "objective_completed_1147",
       "SetID": "415jc5c",
       "Name": "The Howling Peaks of Yon",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1148",
@@ -36241,9 +36252,9 @@
       "ID": "objective_completed_1179",
       "SetID": "415jc5c",
       "Name": "To Avernus in a Handbasket",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1180",
@@ -36257,9 +36268,9 @@
       "ID": "objective_completed_1183",
       "SetID": "415jc5c",
       "Name": "The Dread Domain of Tovag",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1184",
@@ -36345,9 +36356,9 @@
       "ID": "objective_completed_1203",
       "SetID": "415jc5c",
       "Name": "Checkmate",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1204",
@@ -36393,9 +36404,9 @@
       "ID": "objective_completed_1218",
       "SetID": "415jc5c",
       "Name": "Xanathaaaaaaar!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1219",
@@ -37177,9 +37188,9 @@
       "ID": "objective_completed_37",
       "SetID": "cc37lbc",
       "Name": "Treasure Hunters",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 240
     },
     {
       "ID": "objective_completed_378",
@@ -37649,9 +37660,9 @@
       "ID": "objective_completed_543",
       "SetID": "415jc5c",
       "Name": "A Tale of Two Years",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_545",
@@ -38057,9 +38068,9 @@
       "ID": "objective_completed_603",
       "SetID": "415jc5c",
       "Name": "Hailstorm!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_605",
@@ -38265,9 +38276,9 @@
       "ID": "objective_completed_633",
       "SetID": "415jc5c",
       "Name": "Hearts Aflame",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_635",
@@ -38361,9 +38372,9 @@
       "ID": "objective_completed_648",
       "SetID": "415jc5c",
       "Name": "An Even Worse Time in Avernus",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_655",
@@ -38593,9 +38604,9 @@
       "ID": "objective_completed_696",
       "SetID": "415jc5c",
       "Name": "Enemy Summit",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_697",
@@ -38729,9 +38740,9 @@
       "ID": "objective_completed_805",
       "SetID": "415jc5c",
       "Name": "Ten in Ten-Towns",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_807",
@@ -38769,9 +38780,9 @@
       "ID": "objective_completed_810",
       "SetID": "415jc5c",
       "Name": "Lone Wolf Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_812",
@@ -38857,9 +38868,9 @@
       "ID": "objective_completed_830",
       "SetID": "415jc5c",
       "Name": "It\u0027s Cold Out There Today",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_832",
@@ -39481,9 +39492,9 @@
       "ID": "objective_completed_663",
       "SetID": "415jc5c",
       "Name": "Bazaar Companions",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_668",
@@ -39569,9 +39580,9 @@
       "ID": "objective_completed_1395",
       "SetID": "415jc5c",
       "Name": "The Hunt for The Last Breath",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1396",
@@ -39609,25 +39620,25 @@
       "ID": "objective_completed_1366",
       "SetID": "415jc5c",
       "Name": "Unearthed Arcana",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1370",
       "SetID": "415jc5c",
       "Name": "The End",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1371",
       "SetID": "415jc5c",
       "Name": "All\u0027s Well That Ends Well",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1405",
@@ -39641,9 +39652,9 @@
       "ID": "objective_completed_1406",
       "SetID": "415jc5c",
       "Name": "Slow Down Showdown",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1410",
@@ -39673,17 +39684,17 @@
       "ID": "objective_completed_1416",
       "SetID": "415jc5c",
       "Name": "Fowl Play",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1420",
       "SetID": "415jc5c",
       "Name": "Spelljammers in Training",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1421",
@@ -39705,9 +39716,9 @@
       "ID": "objective_completed_1548",
       "SetID": "415jc5c",
       "Name": "Tomb of Champions",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1552",
@@ -39729,25 +39740,25 @@
       "ID": "objective_completed_1337",
       "SetID": "415jc5c",
       "Name": "A Wise Approach",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1342",
       "SetID": "415jc5c",
       "Name": "The Brains of an Illithid\u0027s Desire",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1347",
       "SetID": "415jc5c",
       "Name": "Arcane Suppression",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1352",
@@ -39793,70 +39804,70 @@
       "ID": "objective_completed_598",
       "SetID": "415jc5c",
       "Name": "The Overgrown Grove",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_673",
       "SetID": "415jc5c",
       "Name": "When Tentacles Attack",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_678",
       "SetID": "415jc5c",
       "Name": "Flames of Avernus",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_683",
       "SetID": "415jc5c",
       "Name": "Mental Gymnastics",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_860",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Lose Your Head",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_865",
       "SetID": "415jc5c",
       "Name": "Mind Spike",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206069,
+      "Progressed": 206091,
       "Completed": 3965
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 239795,
+      "Progressed": 239817,
       "Completed": 2519
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-13T17:57:16.1695111+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:09:57.5141629+00:00",
+  "LastChanged": "2023-12-13T21:57:20.734573+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:10:05.776491+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:57:24.5619062+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:09:57.5164721+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:57:20.7345736+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:10:05.7788736+00:00"
 }

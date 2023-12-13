@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9660,9 +9660,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126669,
+  "EOS_Progressed": 126680,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 970,
+  "EOS_NewPlayers": 977,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34875,6 +34875,11 @@
       "Time": "2023-12-13T21:08:53.9099686+00:00",
       "NumProgressed": 126669,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-13T22:09:04.2001637+00:00",
+      "NumProgressed": 126680,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -34900,9 +34905,9 @@
       "ID": "altar_of_hope_memory_equip_first_time",
       "SetID": "64l4lke",
       "Name": "It Rings a Bell",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 887
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35014,7 +35019,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2533
+      "UsersEstimate": 2534
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35124,9 +35129,9 @@
       "ID": "combat_kill_shambler",
       "SetID": "64l4lke",
       "Name": "Escape from the Black Hole",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 2534
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35316,9 +35321,9 @@
       "ID": "relationships_all_positive_mountain",
       "SetID": "64l4lke",
       "Name": "Utopia",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 507
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -35372,9 +35377,9 @@
       "ID": "run_victory_act05",
       "SetID": "64l4lke",
       "Name": "Body of Work",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 380
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -35404,9 +35409,9 @@
       "ID": "altar_of_hope_memory_equip_all_crusader",
       "SetID": "d3bcpc8",
       "Name": "Battle Hardened",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -35517,21 +35522,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126669,
+      "Progressed": 126680,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1538,
+      "Progressed": 1549,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-13T19:00:51.3220569+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:08:53.9099684+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:09:04.2001631+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:59:39.8628475+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:08:53.9101102+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:59:31.5692419+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:09:04.2003575+00:00"
 }

@@ -5,27 +5,27 @@ Rating: 4.03 (Ranked 1,009)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,112 |
-| World Map | 78.00% | ~2,610 |
-| Temple of Eternals | 56.00% | ~1,874 |
-| Prestigious | 53.00% | ~1,773 |
-| Fellowship Power | 42.00% | ~1,405 |
+| Victor | 93.00% | ~3,114 |
+| World Map | 78.00% | ~2,611 |
+| Temple of Eternals | 56.00% | ~1,875 |
+| Prestigious | 53.00% | ~1,774 |
+| Fellowship Power | 42.00% | ~1,406 |
 | Full Party | 23.00% | ~770 |
 | Guild Power | 23.00% | ~770 |
 | Prestigious x10 | 21.00% | ~703 |
 | The game is on | 19.00% | ~636 |
-| Dragon Clicker | 16.00% | ~535 |
-| Exotic Merchant | 16.00% | ~535 |
+| Dragon Clicker | 16.00% | ~536 |
+| Exotic Merchant | 16.00% | ~536 |
 | Miner Clicker | 15.00% | ~502 |
-| Enlightenment | 14.00% | ~468 |
-| Hero inspection | 14.00% | ~468 |
-| Inspection | 14.00% | ~468 |
+| Enlightenment | 14.00% | ~469 |
+| Hero inspection | 14.00% | ~469 |
+| Inspection | 14.00% | ~469 |
 | Dragon Master | 13.00% | ~435 |
 | Lieutenant | 13.00% | ~435 |
 | Natural Talent | 12.00% | ~402 |
-| Superior | 12.00% | ~402 |
 | The Unstoppable | 12.00% | ~402 |
 | Mysterious Rock | 11.00% | ~368 |
+| Superior | 11.00% | ~368 |
 | Milestone collector | 10.00% | ~335 |
 | Scientist | 10.00% | ~335 |
 | Daily Quest Completionist | 9.00% | ~301 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 1,009)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,346 (Ranked 211)  
+Progressed: 3,348 (Ranked 211)  
 Completed: 2 (0.06%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,10 +313,10 @@ Completed: 2 (0.06%) (Ranked 315)
 | 2023-12-10 | 3,250 | 2 |
 | 2023-12-11 | 3,276 | 2 |
 | 2023-12-12 | 3,300 | 2 |
-| 2023-12-13 | 3,346 | 2 |
+| 2023-12-13 | 3,348 | 2 |
 ## Awards
-Max (Great for Beginners): 38  (Ranked 468)  
-Sum: 142 (Ranked 431)  
+Max (Great for Beginners): 38  (Ranked 469)  
+Sum: 142 (Ranked 432)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |

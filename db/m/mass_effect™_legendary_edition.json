@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -5281,9 +5281,9 @@
       "ID": "achievement_49",
       "SetID": "d252ncf",
       "Name": "The Professor",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 621
     },
     {
       "ID": "achievement_5",
@@ -5741,8 +5741,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:09:40.4108186+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:09:49.2606131+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.2992366+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:03:07.15668+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:09:40.4109722+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:03:15.6860584+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:09:49.2607869+00:00"
 }

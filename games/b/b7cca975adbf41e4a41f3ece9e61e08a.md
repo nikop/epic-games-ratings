@@ -5,12 +5,12 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~10,093 |
-| I Challenge You To Save More Money! | 87.00% | ~9,545 |
-| I Love How Tough You Are | 73.00% | ~8,009 |
+| Last Night...Did We... | 92.00% | ~10,094 |
+| I Challenge You To Save More Money! | 87.00% | ~9,546 |
+| I Love How Tough You Are | 73.00% | ~8,010 |
 | Wanna Come To My Place For Dinner? | 67.00% | ~7,351 |
-| What I Want Is You | 61.00% | ~6,692 |
-| To Be Or Not To Be | 58.00% | ~6,363 |
+| What I Want Is You | 61.00% | ~6,693 |
+| To Be Or Not To Be | 58.00% | ~6,364 |
 | Are You Alright? | 50.00% | ~5,486 |
 | Love Actually | 49.00% | ~5,376 |
 | Drama King | 42.00% | ~4,608 |
@@ -22,19 +22,19 @@ Rating: 4.75 (Ranked 148)
 | Drama CP: Reel to Real | 35.00% | ~3,840 |
 | Worthless Speech | 35.00% | ~3,840 |
 | Absolutely Elegant | 34.00% | ~3,730 |
-| Still Single | 33.00% | ~3,620 |
-| Go Get Some Fries On The Pier | 30.00% | ~3,291 |
-| Days Of Innocence | 30.00% | ~3,291 |
-| David | 30.00% | ~3,291 |
-| All I Have Is Money | 26.00% | ~2,852 |
-| A Slap In The Face! | 26.00% | ~2,852 |
+| Still Single | 33.00% | ~3,621 |
+| Go Get Some Fries On The Pier | 30.00% | ~3,292 |
+| Days Of Innocence | 30.00% | ~3,292 |
+| David | 30.00% | ~3,292 |
+| All I Have Is Money | 26.00% | ~2,853 |
+| A Slap In The Face! | 26.00% | ~2,853 |
 | Lover In Dark Alley | 25.00% | ~2,743 |
 | That's So You | 25.00% | ~2,743 |
 | SALUTE | 25.00% | ~2,743 |
 | Let Me Be Your Toy Boy | 24.00% | ~2,633 |
-| Off We Sail Tonight | 19.00% | ~2,084 |
-| Love You Three Thousand | 16.00% | ~1,755 |
-| Can You Do This Or Not? | 16.00% | ~1,755 |
+| Off We Sail Tonight | 19.00% | ~2,085 |
+| Love You Three Thousand | 16.00% | ~1,756 |
+| Can You Do This Or Not? | 16.00% | ~1,756 |
 | Doesn't Matter I'll Handle It | 14.00% | ~1,536 |
 | The Flash | 12.00% | ~1,317 |
 | New Yoga Pose Unlocked | 12.00% | ~1,317 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 148)
 | Tall; Grande; Venti | 2.00% | ~219 |
 | Limerence | 2.00% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,971 (Ranked 165)  
+Progressed: 10,972 (Ranked 165)  
 Completed: 204 (1.86%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,10 +115,10 @@ Completed: 204 (1.86%) (Ranked 135)
 | 2023-12-10 | 10,902 | 201 |
 | 2023-12-11 | 10,928 | 203 |
 | 2023-12-12 | 10,956 | 203 |
-| 2023-12-13 | 10,971 | 204 |
+| 2023-12-13 | 10,972 | 204 |
 ## Awards
-Max (Impact the Story): 23  (Ranked 538)  
-Sum: 23 (Ranked 541)  
+Max (Impact the Story): 23  (Ranked 540)  
+Sum: 23 (Ranked 543)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |

@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,496 |
-| Finding Your Footing | 25.00% | ~12,496 |
-| Nomad | 17.00% | ~8,497 |
-| Picking Up Speed | 16.00% | ~7,997 |
-| Welcome Maya | 14.00% | ~6,998 |
-| Scout | 11.00% | ~5,498 |
-| Sightseer | 11.00% | ~5,498 |
-| Amateur | 10.00% | ~4,998 |
-| Unlock Maya | 8.00% | ~3,999 |
-| Wanderer | 8.00% | ~3,999 |
-| Enter Paz | 7.00% | ~3,499 |
-| Aviator | 6.00% | ~2,999 |
-| My Little Friend | 5.00% | ~2,499 |
-| One With The Board | 5.00% | ~2,499 |
-| Voyager | 5.00% | ~2,499 |
+| Rookie | 27.00% | ~13,499 |
+| Finding Your Footing | 25.00% | ~12,499 |
+| Nomad | 17.00% | ~8,499 |
+| Picking Up Speed | 16.00% | ~7,999 |
+| Welcome Maya | 14.00% | ~6,999 |
+| Scout | 11.00% | ~5,499 |
+| Sightseer | 11.00% | ~5,499 |
+| Amateur | 10.00% | ~5,000 |
+| Unlock Maya | 8.00% | ~4,000 |
+| Wanderer | 8.00% | ~4,000 |
+| Enter Paz | 7.00% | ~3,500 |
+| Aviator | 6.00% | ~3,000 |
+| My Little Friend | 5.00% | ~2,500 |
+| One With The Board | 5.00% | ~2,500 |
+| Voyager | 5.00% | ~2,500 |
 | Junkie | 3.00% | ~1,500 |
 | Traveler | 3.00% | ~1,500 |
 | Unlock Paz | 3.00% | ~1,500 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~50 |
 | Windswept | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,984 (Ranked 115)  
+Progressed: 49,995 (Ranked 115)  
 Completed: 5 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,11 +283,11 @@ Completed: 5 (0.01%) (Ranked 350)
 | 2023-12-10 | 49,661 | 5 |
 | 2023-12-11 | 49,773 | 5 |
 | 2023-12-12 | 49,873 | 5 |
-| 2023-12-13 | 49,984 | 5 |
+| 2023-12-13 | 49,995 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 49  (Ranked 442)  
+Max (Great for Quick Sessions): 49  (Ranked 443)  
 Sum: 385 (Ranked 352)  
-Diff (max vs sum): 90  
+Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 49 |

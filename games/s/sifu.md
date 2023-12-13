@@ -19,13 +19,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lightning Hands | 0.70% | ~5,027 |
 | Path of the Prospect | 0.70% | ~5,027 |
 | Rumble in the Hangar | 0.70% | ~5,027 |
-| Lady Wing Chun | 0.60% | ~4,308 |
-| Furious Fists | 0.60% | ~4,308 |
-| Kill Nil | 0.60% | ~4,308 |
-| Stuntmaster | 0.60% | ~4,308 |
-| Street Fighting | 0.60% | ~4,308 |
-| Old Child | 0.60% | ~4,308 |
-| Take damage to save time | 0.60% | ~4,308 |
+| Lady Wing Chun | 0.60% | ~4,309 |
+| Furious Fists | 0.60% | ~4,309 |
+| Kill Nil | 0.60% | ~4,309 |
+| Stuntmaster | 0.60% | ~4,309 |
+| Street Fighting | 0.60% | ~4,309 |
+| Old Child | 0.60% | ~4,309 |
+| Take damage to save time | 0.60% | ~4,309 |
 | Fight the way you practice | 0.60% | ~164 |
 | Scareless | 0.50% | ~3,590 |
 | Kung-Fu Tussle | 0.50% | ~3,590 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,083 (Ranked 24)  
-Completed: 12,952 (1.80%) (Ranked 136)  
+Progressed: 718,100 (Ranked 24)  
+Completed: 12,953 (1.80%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -304,7 +304,7 @@ Completed: 12,952 (1.80%) (Ranked 136)
 | 2023-12-10 | 717,948 | 12,951 |
 | 2023-12-11 | 717,971 | 12,952 |
 | 2023-12-12 | 717,993 | 12,952 |
-| 2023-12-13 | 718,083 | 12,952 |
+| 2023-12-13 | 718,100 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,915  (Ranked 55)  
 Sum: 12,141 (Ranked 83)  

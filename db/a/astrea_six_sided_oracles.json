@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1156,9 +1156,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ApianChampion",
@@ -1315,8 +1315,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:05:52.7790031+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:05:47.2944728+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.3287789+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:58:03.4710828+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:05:52.779078+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:57:57.9799508+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:05:47.2945592+00:00"
 }

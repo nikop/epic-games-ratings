@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 372,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Rating": 371,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 954,
+  "EOS_Progressed": 955,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2574,6 +2574,11 @@
       "Time": "2023-12-13T21:09:34.3066268+00:00",
       "NumProgressed": 954,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-13T22:09:43.206654+00:00",
+      "NumProgressed": 955,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2601,7 +2606,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ChestCompletion1",
@@ -2681,7 +2686,7 @@
       "Name": "Family Memories",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "FactorywoodChests1",
@@ -2689,7 +2694,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "FairgroundsChests1",
@@ -2697,7 +2702,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2849,7 +2854,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2857,7 +2862,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "PidgeDefeated",
@@ -2873,7 +2878,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "RewindParry",
@@ -2881,7 +2886,7 @@
       "Name": "Honest Mistake",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2913,7 +2918,7 @@
       "Name": "Fast Learner",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "SpeedRun",
@@ -2953,7 +2958,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -2961,7 +2966,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "WarwickDefeated",
@@ -2977,7 +2982,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "WatcherSpared",
@@ -2993,7 +2998,7 @@
       "Name": "The Brass Boss",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3008,7 +3013,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 954,
+      "Progressed": 955,
       "Completed": 6
     }
   ],
@@ -3016,8 +3021,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:09:34.3066264+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:09:43.2066538+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:00:04.1411946+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:09:34.3066738+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:59:54.1803515+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:09:43.2067001+00:00"
 }

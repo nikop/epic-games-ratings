@@ -3,7 +3,7 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 69,
-  "Ranking_Popularity": 224,
+  "Ranking_Popularity": 225,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 256,
@@ -3431,9 +3431,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18037,
+  "EOS_Progressed": 18042,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": -8,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15596,6 +15596,11 @@
       "Time": "2023-12-13T20:08:35.0502187+00:00",
       "NumProgressed": 18037,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-13T22:03:22.2606854+00:00",
+      "NumProgressed": 18042,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15686,9 +15691,9 @@
       "ID": "Win5Years",
       "SetID": "cfbk359",
       "Name": "Homesick",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 162
     },
     {
       "ID": "WinFirstGame",
@@ -15710,9 +15715,9 @@
       "ID": "WinImpossible",
       "SetID": "cfbk359",
       "Name": "Against All Odds",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 90
     },
     {
       "ID": "WinNearArmory",
@@ -15974,9 +15979,9 @@
       "ID": "WinWithTradeRoutes",
       "SetID": "cfbk359",
       "Name": "Trade Baron",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 126
     },
     {
       "ID": "WinWithoutDeath",
@@ -16008,7 +16013,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "WinNearFrosts",
@@ -16032,7 +16037,7 @@
       "Name": "Overgrown Library",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "WinNearPetrified",
@@ -16040,7 +16045,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "WinNearPresence",
@@ -16079,15 +16084,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18037,
+      "Progressed": 18042,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-13T10:59:18.3182302+00:00",
-  "LastChanged_Achievements": "2023-12-13T20:08:35.050218+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:03:22.2606851+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:59:35.2061105+00:00",
-  "LastUpdate_Achievements": "2023-12-13T20:08:35.0503685+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:59:27.3005552+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:03:22.2608551+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~543,399 |
-| Every story has a beginning | 36.00% | ~247,625 |
-| The first of many | 31.00% | ~213,233 |
-| Positive word of mouth | 18.00% | ~123,812 |
-| Lawn in the U.S.A. | 15.00% | ~103,177 |
-| Blade Runner | 9.00% | ~61,906 |
-| Credible | 7.00% | ~48,149 |
+| The dream begins | 79.00% | ~543,403 |
+| Every story has a beginning | 36.00% | ~247,627 |
+| The first of many | 31.00% | ~213,234 |
+| Positive word of mouth | 18.00% | ~123,813 |
+| Lawn in the U.S.A. | 15.00% | ~103,178 |
+| Blade Runner | 9.00% | ~61,907 |
+| Credible | 7.00% | ~48,150 |
 | Teamwork makes the dream work | 6.00% | ~41,271 |
 | Where there's muck there's brass | 4.00% | ~27,514 |
 | Bigger and better | 4.00% | ~27,514 |
 | Aggressive expansion | 4.00% | ~27,514 |
-| Size isn't everything | 3.00% | ~20,635 |
-| Close shave | 3.00% | ~20,635 |
-| Established | 3.00% | ~20,635 |
+| Size isn't everything | 3.00% | ~20,636 |
+| Close shave | 3.00% | ~20,636 |
+| Established | 3.00% | ~20,636 |
 | Fighting on all fronts | 2.00% | ~13,757 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,757 |
 | Every good deed… | 2.00% | ~13,757 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~688 |
 | Mo mowers, mo problems | 0.10% | ~688 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687,847 (Ranked 26)  
+Progressed: 687,852 (Ranked 26)  
 Completed: 19 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,11 +298,11 @@ Completed: 19 (0.00%) (Ranked 373)
 | 2023-12-10 | 687,270 | 19 |
 | 2023-12-11 | 687,470 | 19 |
 | 2023-12-12 | 687,654 | 19 |
-| 2023-12-13 | 687,847 | 19 |
+| 2023-12-13 | 687,852 | 19 |
 ## Awards
-Max (Quickly Understood Controls): 182  (Ranked 303)  
+Max (Quickly Understood Controls): 182  (Ranked 304)  
 Sum: 990 (Ranked 265)  
-Diff (max vs sum): 38  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 182 |

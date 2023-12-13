@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~162 |
 | Intensify | 0.10% | ~162 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162,399 (Ranked 78)  
+Progressed: 162,405 (Ranked 78)  
 Completed: 307 (0.19%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,11 +267,11 @@ Completed: 307 (0.19%) (Ranked 265)
 | 2023-12-10 | 162,054 | 284 |
 | 2023-12-11 | 162,182 | 294 |
 | 2023-12-12 | 162,296 | 298 |
-| 2023-12-13 | 162,399 | 307 |
+| 2023-12-13 | 162,405 | 307 |
 ## Awards
-Max (Highly Recommended): 56  (Ranked 422)  
+Max (Highly Recommended): 56  (Ranked 423)  
 Sum: 402 (Ranked 345)  
-Diff (max vs sum): 77  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 56 |

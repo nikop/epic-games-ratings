@@ -3,8 +3,8 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 90,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 160,
@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1125,
+  "EOS_Progressed": 1126,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.84,
   "EosHistory": [
@@ -3758,6 +3758,11 @@
       "Time": "2023-12-13T21:04:52.2084887+00:00",
       "NumProgressed": 1125,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-13T22:04:49.4175829+00:00",
+      "NumProgressed": 1126,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3786,7 +3791,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3794,15 +3799,15 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 338
+      "UsersEstimate": 349
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3810,7 +3815,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "_07_FinishAct3",
@@ -3818,7 +3823,7 @@
       "Name": "All Good Things",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "_08_Completion_10",
@@ -3858,7 +3863,7 @@
       "Name": "Privateer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "_13_Completion_60",
@@ -3898,7 +3903,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3930,7 +3935,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -3977,7 +3982,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1125,
+      "Progressed": 1126,
       "Completed": 32
     }
   ],
@@ -3985,8 +3990,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-09T12:00:24.7987919+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:04:52.2084883+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:04:49.4175824+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:58:21.6134399+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:04:52.2085325+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:58:16.6083897+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:04:49.4176257+00:00"
 }

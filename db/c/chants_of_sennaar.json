@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 979,
+  "EOS_Progressed": 981,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.72,
+  "EOS_Completed_Percentage": 5.71,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3905,6 +3905,11 @@
       "Time": "2023-12-13T21:04:17.7206282+00:00",
       "NumProgressed": 979,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-13T22:04:15.913548+00:00",
+      "NumProgressed": 981,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 25,
@@ -3948,7 +3953,7 @@
       "Name": "A good beginning",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "META_HALF_LINK",
@@ -3964,7 +3969,7 @@
       "Name": "Open door",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3980,7 +3985,7 @@
       "Name": "Feels like springtime",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "META_RESULT_2-3",
@@ -4004,7 +4009,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -4028,7 +4033,7 @@
       "Name": "True G3M4R",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -4036,7 +4041,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -4068,23 +4073,23 @@
       "Name": "Scholar",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 334
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 294
     },
     {
       "ID": "PROGRESS_N3",
@@ -4100,7 +4105,7 @@
       "Name": "The darkness",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "PROGRESS_N5",
@@ -4115,14 +4120,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 979,
+      "Progressed": 981,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:04:17.720628+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:04:15.9135476+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:58:49.5353918+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:04:17.720657+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:58:42.0252355+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:04:15.9135887+00:00"
 }

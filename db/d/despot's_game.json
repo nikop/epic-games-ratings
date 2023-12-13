@@ -3,11 +3,11 @@
   "Name": "Despot\u0027s Game",
   "ProductSlug": "despots-game-f61a0a",
   "Ranking_Rating": 599,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 439,
+  "EOS_Progressed": 440,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -483,6 +483,11 @@
       "Time": "2023-12-13T21:06:33.1850253+00:00",
       "NumProgressed": 439,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T22:06:26.109981+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -574,7 +579,7 @@
       "Name": "Impossible Cube",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "finished-quest-flight",
@@ -582,7 +587,7 @@
       "Name": "Great Flight",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "finished-quest-monster",
@@ -614,7 +619,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "finished-quest-reaper",
@@ -628,17 +633,17 @@
       "ID": "finished-quest-sci",
       "SetID": "799afm0",
       "Name": "Knowledge is Power",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 198
     },
     {
       "ID": "finished-quest-secret",
       "SetID": "799afm0",
       "Name": "To the Moon and Back",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 88
     },
     {
       "ID": "finished-quest-sword",
@@ -710,7 +715,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "win-first-level",
@@ -750,7 +755,7 @@
       "Name": "Through the Darkness",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "win-with-3-cultists",
@@ -773,7 +778,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 439,
+      "Progressed": 440,
       "Completed": 1
     }
   ],
@@ -781,8 +786,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:06:33.1850249+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:06:26.1099807+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:47.7142412+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:58:04.5473387+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:06:33.1850446+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:57:59.0662749+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:06:26.1100016+00:00"
 }

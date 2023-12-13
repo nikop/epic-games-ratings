@@ -3,11 +3,11 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 498,
-  "Ranking_Popularity": 224,
+  "Ranking_Popularity": 225,
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1747,9 +1747,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13996,
+  "EOS_Progressed": 14002,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -15947,6 +15947,11 @@
       "Time": "2023-12-13T21:09:33.2712693+00:00",
       "NumProgressed": 13996,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-13T22:09:42.0949916+00:00",
+      "NumProgressed": 14002,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 35,
@@ -15958,7 +15963,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11477
+      "UsersEstimate": 11482
     },
     {
       "ID": "ACH02",
@@ -16006,7 +16011,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "ACH08",
@@ -16014,7 +16019,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7278
+      "UsersEstimate": 7281
     },
     {
       "ID": "ACH09",
@@ -16054,7 +16059,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "ACH14",
@@ -16078,7 +16083,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "ACH17",
@@ -16126,7 +16131,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2240
     },
     {
       "ID": "ACH23",
@@ -16134,7 +16139,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3779
+      "UsersEstimate": 3781
     },
     {
       "ID": "ACH24",
@@ -16182,7 +16187,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2240
     },
     {
       "ID": "ACH30",
@@ -16237,7 +16242,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13996,
+      "Progressed": 14002,
       "Completed": 57
     }
   ],
@@ -16245,8 +16250,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-13T19:58:43.9093163+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:09:33.2712691+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:09:42.0949914+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:47.2955256+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:58:36.571957+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:09:33.2713392+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:58:30.0445794+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:09:42.0950713+00:00"
 }

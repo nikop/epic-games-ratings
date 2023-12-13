@@ -2,12 +2,12 @@
   "ID": "2bc23fc2438c47ec8acb0641980f50c1",
   "Name": "Darksiders Warmastered Edition",
   "ProductSlug": "darksiders",
-  "Ranking_Rating": 422,
-  "Ranking_Popularity": 393,
-  "Ranking_PopularitySum": 466,
+  "Ranking_Rating": 421,
+  "Ranking_Popularity": 394,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 465,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2016-11-26T11:00:00+00:00",
@@ -802,6 +802,6 @@
   "FirstSeen": "2022-07-22T20:24:18.0300294+00:00",
   "LastChanged": "2023-12-08T13:02:25.3218118+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:45.6173911+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:00:41.2267227+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:05:37.0041809+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:02:39.8476735+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:05:31.8984456+00:00"
 }

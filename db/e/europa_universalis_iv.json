@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -13147,10 +13147,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 60712,
       "NumberOfAwardsMax": 7367
+    },
+    {
+      "Time": "2023-12-13T21:57:35.7495143+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 60723,
+      "NumberOfAwardsMax": 7367
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 60712,
+  "NumberOfAwards": 60723,
   "NumberOfAwardsMax": 7367,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13212,7 +13218,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5675
+      "Count": 5686
     },
     {
       "Text": "This game has Unique Visuals",
@@ -13221,9 +13227,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 474098,
+  "EOS_Progressed": 474126,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3823,
+  "EOS_NewPlayers": 3824,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40506,6 +40512,11 @@
       "Time": "2023-12-13T21:04:47.4247227+00:00",
       "NumProgressed": 474098,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T22:04:44.8649796+00:00",
+      "NumProgressed": 474126,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43420,21 +43431,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 474098,
+      "Progressed": 474126,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 474098,
+      "Progressed": 474126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-13T20:57:39.8793114+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:04:47.4247224+00:00",
+  "LastChanged": "2023-12-13T21:57:35.7495141+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:04:44.8649793+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:01.211805+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:57:39.8793123+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:04:47.4257645+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:57:35.7495149+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:04:44.8660073+00:00"
 }

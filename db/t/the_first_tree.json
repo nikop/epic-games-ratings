@@ -3,11 +3,11 @@
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
   "Ranking_Rating": 1011,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38958,
+  "EOS_Progressed": 38959,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20891,6 +20891,11 @@
       "Time": "2023-12-13T21:04:49.3106712+00:00",
       "NumProgressed": 38958,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-13T22:04:46.5624044+00:00",
+      "NumProgressed": 38959,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -21013,15 +21018,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 38958,
+      "Progressed": 38959,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:04:49.3106709+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:04:46.5624041+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:18.6627904+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:59:13.177021+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:04:49.3107748+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:59:06.1754851+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:04:46.5625173+00:00"
 }

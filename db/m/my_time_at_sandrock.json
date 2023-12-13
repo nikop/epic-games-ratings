@@ -5,7 +5,7 @@
   "Ranking_Rating": 259,
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 240,
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 127,
@@ -1850,7 +1850,7 @@
   ],
   "EOS_Progressed": 537,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6594,9 +6594,9 @@
       "ID": "P_TUNNEL",
       "SetID": "80dcan0",
       "Name": "No Mountain Wide Enough",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 467
+      "UsersEstimate": 473
     },
     {
       "ID": "P_WATERPIPELINE",
@@ -6730,9 +6730,9 @@
       "ID": "S_SHOWDOWN",
       "SetID": "80dcan0",
       "Name": "Winner and Still Champeen",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 129
     },
     {
       "ID": "S_WHACKAMOLE",
@@ -6826,8 +6826,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-13T03:00:08.9963586+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:04:45.7112314+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:04:42.9521456+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:20.3336123+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:59:53.5163286+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:04:45.711329+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:59:45.2433273+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:04:42.9522232+00:00"
 }

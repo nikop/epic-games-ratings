@@ -6,28 +6,28 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 48.00% | ~21 |
-| Rock of the Bay | 45.00% | ~20 |
-| Ducks in a Row, Fish in a Barrel | 32.00% | ~14 |
+| Mash Machine | 47.00% | ~21 |
+| Rock of the Bay | 47.00% | ~21 |
+| Ducks in a Row, Fish in a Barrel | 31.00% | ~14 |
 | Furon Fashion | 27.00% | ~12 |
 | Shop Til They Drop | 27.00% | ~12 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~9 |
 | Earthly Pleasures | 18.00% | ~8 |
 | Upgreatest | 18.00% | ~8 |
-| Pimp My Raid | 14.00% | ~6 |
+| Pimp My Raid | 16.00% | ~7 |
 | Cult Following | 11.00% | ~5 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~5 |
 | Perfect Probulator | 9.00% | ~4 |
+| Lie Back and Think of Albion | 9.00% | ~4 |
 | Fly Me to the Moon Base | 9.00% | ~4 |
 | Bodied Sattva | 9.00% | ~4 |
 | Transmitting From Sol-3 | 7.00% | ~3 |
-| Lie Back and Think of Albion | 7.00% | ~3 |
 | Die Nasty | 7.00% | ~3 |
 | Scuttled | 7.00% | ~3 |
 | Dusted | 7.00% | ~3 |
-| Kaijuiced | 5.00% | ~2 |
-| Lobster Blisque | 5.00% | ~2 |
-| Freshly Squeezed | 5.00% | ~2 |
+| Kaijuiced | 4.00% | ~2 |
+| Lobster Blisque | 4.00% | ~2 |
+| Freshly Squeezed | 4.00% | ~2 |
 | Arty Facts | 2.00% | ~1 |
 | Forbidden Donut | 2.00% | ~1 |
 | Deincarnated | 2.00% | ~1 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 522)  
+Progressed: 45 (Ranked 520)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,10 +68,10 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-10 | 30 | 0 |
 | 2023-12-11 | 36 | 0 |
 | 2023-12-12 | 40 | 0 |
-| 2023-12-13 | 44 | 0 |
+| 2023-12-13 | 45 | 0 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 480)  
-Sum: 36 (Ranked 510)  
+Max (Great Boss Battles): 36  (Ranked 481)  
+Sum: 36 (Ranked 511)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |

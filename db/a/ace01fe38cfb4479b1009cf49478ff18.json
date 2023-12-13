@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -872,9 +872,9 @@
       "ID": "ach_complete_difficulty_medium",
       "SetID": "d499apg",
       "Name": "My Armour is Contempt",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 95,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -927,8 +927,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:04:10.8667445+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:04:08.7579014+00:00",
   "LastUpdate_AppInfo": "2023-12-08T13:57:10.1011387+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:57:56.2109329+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:04:10.8667568+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:57:51.6302345+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:04:08.7579096+00:00"
 }

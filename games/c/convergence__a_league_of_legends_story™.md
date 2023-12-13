@@ -1,15 +1,15 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.62 (Ranked 372)  
+Rating: 4.62 (Ranked 371)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 34.00% | ~324 |
+| Time Heals All Wounds | 34.00% | ~325 |
 | Rail Rat | 27.00% | ~258 |
 | The Mysterious Stranger | 26.00% | ~248 |
-| Immaculate Aim | 23.00% | ~219 |
-| The Brass Boss | 23.00% | ~219 |
+| Immaculate Aim | 23.00% | ~220 |
+| The Brass Boss | 23.00% | ~220 |
 | The Steel Shadow | 22.00% | ~210 |
 | Make Up For Lost Time | 22.00% | ~210 |
 | Time Flies | 22.00% | ~210 |
@@ -17,10 +17,10 @@ Rating: 4.62 (Ranked 372)
 | No, Thanks! | 22.00% | ~210 |
 | The Prince in Heels | 22.00% | ~210 |
 | Immaculate Aim | 22.00% | ~210 |
-| Breaking Down Barriers | 21.00% | ~200 |
-| The Wicked Twins | 21.00% | ~200 |
-| Honest Mistake | 21.00% | ~200 |
-| Fast Learner | 21.00% | ~200 |
+| Breaking Down Barriers | 21.00% | ~201 |
+| The Wicked Twins | 21.00% | ~201 |
+| Honest Mistake | 21.00% | ~201 |
+| Fast Learner | 21.00% | ~201 |
 | Like Clockwork | 20.00% | ~191 |
 | The Betrayer | 20.00% | ~191 |
 | Golem Chaser | 20.00% | ~191 |
@@ -34,14 +34,14 @@ Rating: 4.62 (Ranked 372)
 | Cartographer | 15.00% | ~143 |
 | Treasure Trove | 14.00% | ~134 |
 | Good Neighbor | 14.00% | ~134 |
-| Chaincrawler Explorer | 12.00% | ~114 |
-| Family Memories | 12.00% | ~114 |
-| Ask Questions Later | 12.00% | ~114 |
+| Chaincrawler Explorer | 12.00% | ~115 |
+| Family Memories | 12.00% | ~115 |
+| Ask Questions Later | 12.00% | ~115 |
 | Sump Explorer | 11.00% | ~105 |
 | Syron for Hope | 11.00% | ~105 |
-| Factorywood Explorer | 10.00% | ~95 |
-| Fairgrounds Explorer | 10.00% | ~95 |
-| Theater Explorer | 10.00% | ~95 |
+| Factorywood Explorer | 10.00% | ~96 |
+| Fairgrounds Explorer | 10.00% | ~96 |
+| Theater Explorer | 10.00% | ~96 |
 | Cultivair Explorer | 9.00% | ~86 |
 | Entresol Explorer | 9.00% | ~86 |
 | Corin Goes Home | 8.00% | ~76 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 372)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 954 (Ranked 274)  
+Progressed: 955 (Ranked 274)  
 Completed: 6 (0.63%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 6 (0.63%) (Ranked 193)
 | 2023-11-30 | 945 | 6 |
 | 2023-12-01 | 946 | 6 |
 | 2023-12-06 | 947 | 6 |
-| 2023-12-13 | 954 | 6 |
+| 2023-12-13 | 955 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "skeletal-avengers-af85a4",
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 465,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -239,6 +239,11 @@
       "Time": "2023-11-17T01:53:21.5504466+00:00",
       "NumProgressed": 46,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T22:09:15.9007755+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 21,
@@ -248,7 +253,7 @@
       "ID": "BABY_STEPS",
       "SetID": "63n2m0e",
       "Name": "Baby Steps",
-      "Percentage": 89,
+      "Percentage": 87,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -312,7 +317,7 @@
       "ID": "DUNGEON_BOSS",
       "SetID": "63n2m0e",
       "Name": "Master of Dungeon",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -336,7 +341,7 @@
       "ID": "NG",
       "SetID": "63n2m0e",
       "Name": "New Game\u002B\u002B",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -344,7 +349,7 @@
       "ID": "PALACE_BOSS",
       "SetID": "63n2m0e",
       "Name": "Deanimation",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -417,14 +422,14 @@
     {
       "ID": "63n2m0e",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:09:05.9743705+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:09:15.9007745+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.7782616+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:58:23.039552+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:09:05.9743876+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:58:18.0231701+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:09:15.9007905+00:00"
 }

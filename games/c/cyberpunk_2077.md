@@ -6,23 +6,23 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,058 |
-| Gun Fu | 7.00% | ~68,284 |
-| Right Back At Ya | 6.00% | ~58,529 |
-| The Fool | 6.00% | ~58,529 |
-| The Lovers | 5.00% | ~48,774 |
-| Full Body Conversion | 4.00% | ~39,019 |
-| Stanislavski's Method | 4.00% | ~39,019 |
-| The Wheel of Fortune | 4.00% | ~39,019 |
-| True Soldier | 4.00% | ~39,019 |
-| All the President's Men | 4.00% | ~4,164 |
+| V for Vendetta | 12.00% | ~117,060 |
+| Gun Fu | 7.00% | ~68,285 |
+| Right Back At Ya | 6.00% | ~58,530 |
+| The Fool | 6.00% | ~58,530 |
+| The Lovers | 5.00% | ~48,775 |
+| Full Body Conversion | 4.00% | ~39,020 |
+| Stanislavski's Method | 4.00% | ~39,020 |
+| The Wheel of Fortune | 4.00% | ~39,020 |
+| True Soldier | 4.00% | ~39,020 |
+| All the President's Men | 4.00% | ~4,165 |
 | Christmas Tree Attack | 3.00% | ~29,265 |
 | The Hermit | 3.00% | ~29,265 |
 | The High Priestess | 3.00% | ~29,265 |
 | True Warrior | 3.00% | ~29,265 |
 | Legend of The Afterlife | 3.00% | ~29,265 |
-| Relic Ruler | 3.00% | ~3,123 |
-| Arachnophobia | 3.00% | ~3,123 |
+| Relic Ruler | 3.00% | ~3,124 |
+| Arachnophobia | 3.00% | ~3,124 |
 | Bushido and Chill | 2.00% | ~19,510 |
 | Master Crafter | 2.00% | ~19,510 |
 | I Am The Law | 2.00% | ~19,510 |
@@ -39,10 +39,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Ten out of Ten | 0.80% | ~7,804 |
 | The Sun | 0.80% | ~7,804 |
 | Dirty Deeds | 0.80% | ~833 |
-| To Bad Decisions! | 0.70% | ~6,828 |
+| To Bad Decisions! | 0.70% | ~6,829 |
+| The Star | 0.70% | ~6,829 |
 | Breathtaking | 0.60% | ~5,853 |
-| The Star | 0.60% | ~5,853 |
-| Autojock | 0.50% | ~4,877 |
+| Autojock | 0.50% | ~4,878 |
 | The APB is Not Enough | 0.50% | ~521 |
 | Judgement Day | 0.50% | ~521 |
 | King of Swords | 0.50% | ~521 |
@@ -59,10 +59,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Greetings from Pacifica! | 0.20% | ~1,951 |
 | The Jungle | 0.20% | ~1,951 |
 | It's Elementary | 0.20% | ~1,951 |
-| Frequent Flyer | 0.10% | ~975 |
-| Gunslinger | 0.10% | ~975 |
-| Daemon In The Shell | 0.10% | ~975 |
-| Rough Landing | 0.10% | ~975 |
+| Frequent Flyer | 0.10% | ~976 |
+| Gunslinger | 0.10% | ~976 |
+| Daemon In The Shell | 0.10% | ~976 |
+| Rough Landing | 0.10% | ~976 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,485 (Ranked 15)  
-Completed: 2,899 (0.30%) (Ranked 241)  
+Progressed: 975,501 (Ranked 15)  
+Completed: 2,900 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -311,7 +311,7 @@ Completed: 2,899 (0.30%) (Ranked 241)
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
 | 2023-12-12 | 975,121 | 2,891 |
-| 2023-12-13 | 975,485 | 2,899 |
+| 2023-12-13 | 975,501 | 2,900 |
 ## Awards
 Max (Character Customization): 122,342  (Ranked 9)  
 Sum: 415,864 (Ranked 9)  

@@ -3,11 +3,11 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 215,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7949,
+  "EOS_Progressed": 7951,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8996,6 +8996,11 @@
       "Time": "2023-12-13T21:05:56.0804812+00:00",
       "NumProgressed": 7949,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-13T22:05:50.3998823+00:00",
+      "NumProgressed": 7951,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9031,7 +9036,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -9039,7 +9044,7 @@
       "Name": "\u00C7a de Wizz!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "CLAY_PIGEON",
@@ -9047,7 +9052,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ENERGY_SAVER",
@@ -9055,7 +9060,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -9063,7 +9068,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "FASHION_VICTIM",
@@ -9071,7 +9076,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -9079,7 +9084,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -9087,7 +9092,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "HISTORIAN",
@@ -9111,7 +9116,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "LIBERATOR",
@@ -9119,7 +9124,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "LIVE_WIRE",
@@ -9135,7 +9140,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "SNIP_SNIP",
@@ -9167,14 +9172,14 @@
       "Name": "Thing",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7949,
+      "Progressed": 7951,
       "Completed": 34
     }
   ],
@@ -9182,8 +9187,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:05:56.0804809+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:05:50.399882+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:02:46.9568284+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:05:56.0805202+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:02:55.0662682+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:05:50.3999439+00:00"
 }

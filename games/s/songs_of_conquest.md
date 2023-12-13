@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 38.00% | ~169 |
+| Adept | 38.00% | ~170 |
 | Double Kill | 28.00% | ~125 |
 | Critical Hit | 17.00% | ~76 |
 | Veteran | 15.00% | ~67 |
@@ -15,9 +15,9 @@ Number of Ratings: 292  (23.09.2022)
 | Sorcerous Spree | 7.00% | ~31 |
 | Veni, Vidi, Vici | 6.00% | ~27 |
 | Multi Kill | 5.00% | ~22 |
+| Landlord Extraordinaire | 5.00% | ~22 |
 | Master | 5.00% | ~22 |
 | Whoops! | 4.00% | ~18 |
-| Landlord Extraordinaire | 4.00% | ~18 |
 | Expert Essence Employment | 4.00% | ~18 |
 | Trojan Horse | 3.00% | ~13 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~13 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 446 (Ranked 327)  
+Progressed: 447 (Ranked 327)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,11 +94,11 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-10 | 418 | 0 |
 | 2023-12-11 | 421 | 0 |
 | 2023-12-12 | 434 | 0 |
-| 2023-12-13 | 446 | 0 |
+| 2023-12-13 | 447 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 27  (Ranked 517)  
+Max (Quickly Understood Controls): 27  (Ranked 518)  
 Sum: 194 (Ranked 409)  
-Diff (max vs sum): 108  
+Diff (max vs sum): 109  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

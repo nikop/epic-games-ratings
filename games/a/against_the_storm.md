@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 4.00% | ~721 |
-| Overgrown Library | 4.00% | ~721 |
-| Petrified Necropolis | 4.00% | ~721 |
+| Abandoned Settlement | 4.00% | ~722 |
+| Overgrown Library | 4.00% | ~722 |
+| Petrified Necropolis | 4.00% | ~722 |
 | Frosts | 3.00% | ~541 |
 | Land of Greed | 3.00% | ~541 |
 | Ominous Presence | 3.00% | ~541 |
@@ -24,24 +24,24 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 1.00% | ~180 |
 | Coral Forest | 1.00% | ~180 |
 | The Scarlet Orchard | 1.00% | ~180 |
+| Homesick | 0.90% | ~162 |
 | Lost Colonies | 0.90% | ~162 |
-| Homesick | 0.80% | ~144 |
 | Bandit Camp | 0.80% | ~144 |
 | A Real Challenge | 0.80% | ~144 |
 | Ruined Armory | 0.70% | ~126 |
 | Levitating Monument | 0.70% | ~126 |
 | Monastery of the Holy Flame | 0.70% | ~126 |
+| Trade Baron | 0.70% | ~126 |
 | Barren Lands | 0.60% | ~108 |
 | Statue of the Forefathers | 0.60% | ~108 |
 | Corrosive Torrent | 0.60% | ~108 |
 | Cursed Lands | 0.60% | ~108 |
-| Trade Baron | 0.60% | ~108 |
+| Against All Odds | 0.50% | ~90 |
 | Ancient Battleground | 0.50% | ~90 |
 | Sparkdew Crystals | 0.50% | ~90 |
 | Haunted Forest | 0.50% | ~90 |
 | Flooded Mines | 0.50% | ~90 |
 | Serving Ale | 0.40% | ~72 |
-| Against All Odds | 0.40% | ~72 |
 | Fishmen Ritual Site | 0.40% | ~72 |
 | Victory Through Prosperity | 0.40% | ~72 |
 | Defying the Crown | 0.40% | ~72 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,037 (Ranked 147)  
+Progressed: 18,042 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,11 +303,11 @@ Completed: 40 (0.22%) (Ranked 256)
 | 2023-12-10 | 17,908 | 43 |
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
-| 2023-12-13 | 18,037 | 40 |
+| 2023-12-13 | 18,042 | 40 |
 ## Awards
-Max (Quickly Understood Controls): 442  (Ranked 224)  
+Max (Quickly Understood Controls): 442  (Ranked 225)  
 Sum: 3,256 (Ranked 174)  
-Diff (max vs sum): 50  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |

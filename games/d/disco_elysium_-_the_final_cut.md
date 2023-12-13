@@ -17,8 +17,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,155 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,516 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,196 |
-| Unbelievably Boring **** | 9.00% | ~11,876 |
-| Enemy Of The Physical Realm | 9.00% | ~11,876 |
+| Unbelievably Boring **** | 9.00% | ~11,877 |
+| Enemy Of The Physical Realm | 9.00% | ~11,877 |
 | Hardie's Heroes | 6.00% | ~7,918 |
 | The Lawbringer | 4.00% | ~5,278 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,278 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~132 |
 | What body? | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,961 (Ranked 83)  
+Progressed: 131,962 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 28 (0.02%) (Ranked 342)
 | 2023-12-10 | 131,838 | 28 |
 | 2023-12-11 | 131,883 | 28 |
 | 2023-12-12 | 131,916 | 28 |
-| 2023-12-13 | 131,961 | 28 |
+| 2023-12-13 | 131,962 | 28 |
 ## Awards
 Max (Character Customization): 746  (Ranked 183)  
 Sum: 1,139 (Ranked 256)  

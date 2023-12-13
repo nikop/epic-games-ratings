@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 60.00% | ~334 |
-| The Teleprobe | 49.00% | ~273 |
-| The City | 45.00% | ~251 |
-| The field base | 42.00% | ~234 |
-| Survivors | 37.00% | ~206 |
-| The Condor | 34.00% | ~189 |
-| The End | 33.00% | ~184 |
-| The Alliance | 27.00% | ~150 |
-| The Necroevolution | 27.00% | ~150 |
-| Peacemaker | 23.00% | ~128 |
-| Krauta is alive | 23.00% | ~128 |
+| The Camp | 60.00% | ~335 |
+| The Teleprobe | 48.00% | ~268 |
+| The City | 45.00% | ~252 |
+| The field base | 42.00% | ~235 |
+| Survivors | 37.00% | ~207 |
+| The Condor | 34.00% | ~190 |
+| The End | 34.00% | ~190 |
+| The Alliance | 27.00% | ~151 |
+| The Necroevolution | 27.00% | ~151 |
+| Peacemaker | 23.00% | ~129 |
+| Krauta is alive | 23.00% | ~129 |
 | Volcanologist | 21.00% | ~117 |
 | On her own | 19.00% | ~106 |
-| Evacuation | 18.00% | ~100 |
-| Beyond divisions | 18.00% | ~100 |
+| Evacuation | 18.00% | ~101 |
+| Beyond divisions | 18.00% | ~101 |
 | Fierce fight | 16.00% | ~89 |
 | Flying Objects Operator | 16.00% | ~89 |
 | I remember everything! | 14.00% | ~78 |
 | Another giant | 11.00% | ~61 |
 | Violent solution | 9.00% | ~50 |
 | Innate curiosity | 9.00% | ~50 |
-| The Invincible | 6.00% | ~33 |
-| I leave no man behind | 6.00% | ~33 |
-| Strong objection | 6.00% | ~33 |
+| The Invincible | 6.00% | ~34 |
+| I leave no man behind | 6.00% | ~34 |
+| Strong objection | 6.00% | ~34 |
 | Got lost again | 5.00% | ~28 |
 | Ubiquitous holes | 4.00% | ~22 |
 | I leave no man behind (no exceptions) | 2.00% | ~11 |
 | Convoy list | 0.90% | ~5 |
 | No more mistakes | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 557 (Ranked 310)  
+Progressed: 559 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,4 +72,4 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-10 | 545 | 0 |
 | 2023-12-11 | 548 | 0 |
 | 2023-12-12 | 551 | 0 |
-| 2023-12-13 | 557 | 0 |
+| 2023-12-13 | 559 | 0 |

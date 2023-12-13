@@ -5553,9 +5553,9 @@
       "Count": 424
     }
   ],
-  "EOS_Progressed": 239458,
+  "EOS_Progressed": 239502,
   "EOS_Completed": 584,
-  "EOS_NewPlayers": 3425,
+  "EOS_NewPlayers": 3448,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22853,6 +22853,11 @@
       "Time": "2023-12-13T21:09:14.2176291+00:00",
       "NumProgressed": 239458,
       "NumCompleted": 584
+    },
+    {
+      "Time": "2023-12-13T22:09:23.8841058+00:00",
+      "NumProgressed": 239502,
+      "NumCompleted": 584
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22881,7 +22886,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -22889,7 +22894,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Defeat_Boss_No_Damage",
@@ -22913,7 +22918,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -22921,7 +22926,7 @@
       "Name": "Traitor",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Defeat_Final_Boss",
@@ -22943,9 +22948,9 @@
       "ID": "Defeat_Mantis",
       "SetID": "bkp3b1a",
       "Name": "The Killing Jar",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1916
+      "UsersEstimate": 2156
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -22969,7 +22974,7 @@
       "Name": "Not So Special Now",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -22977,7 +22982,7 @@
       "Name": "Madman\u0027s Paradise",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Defeat_World_Boss",
@@ -22985,7 +22990,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -23001,7 +23006,7 @@
       "Name": "The Agenda",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Meet_Custodian",
@@ -23009,7 +23014,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "Meet_Flautist",
@@ -23017,7 +23022,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "Meet_Meidra",
@@ -23033,7 +23038,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Meet_Nimue",
@@ -23057,7 +23062,7 @@
       "Name": "Duality",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -23065,7 +23070,7 @@
       "Name": "Top Performer",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -23081,7 +23086,7 @@
       "Name": "Bad Moon Rising",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Obtain_Boss_Alt_Reward",
@@ -23097,7 +23102,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "Obtain_Guns_A",
@@ -23105,7 +23110,7 @@
       "Name": "Strapped",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Obtain_Guns_B",
@@ -23121,7 +23126,7 @@
       "Name": "Edgelord",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Obtain_Melee_Weapons_B",
@@ -23137,7 +23142,7 @@
       "Name": "The Web",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Obtain_Relics",
@@ -23161,7 +23166,7 @@
       "Name": "Scrap Hoarder",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Obtain_Traits_A",
@@ -23201,7 +23206,7 @@
       "Name": "The Ultimate Weapon",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Upgrade_Boss_Weapon_B",
@@ -23209,7 +23214,7 @@
       "Name": "Almost There",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "Upgrade_Relic",
@@ -23225,7 +23230,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -23233,7 +23238,7 @@
       "Name": "No One Should Have All That Power",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Upgrade_Traits_A",
@@ -23241,7 +23246,7 @@
       "Name": "Trait Chaser",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -23257,7 +23262,7 @@
       "Name": "Transmutate",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "DLC1_Defeat_OneTrueKing",
@@ -23304,13 +23309,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 239458,
+      "Progressed": 239502,
       "Completed": 584
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 18623,
+      "Progressed": 18667,
       "Completed": 249
     }
   ],
@@ -23318,8 +23323,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-13T20:03:36.9080495+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:09:14.2176289+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:09:23.8841055+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:03:10.9362625+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:09:14.2177966+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:03:19.3397615+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:09:23.8842084+00:00"
 }

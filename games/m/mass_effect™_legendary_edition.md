@@ -34,9 +34,9 @@
 | Head Hunter | 40.00% | ~637 |
 | Scholar | 40.00% | ~637 |
 | Veteran | 39.00% | ~621 |
+| The Professor | 39.00% | ~621 |
 | Operative | 39.00% | ~621 |
 | The Archangel | 38.00% | ~605 |
-| The Professor | 38.00% | ~605 |
 | Power Full | 37.00% | ~589 |
 | The Convict | 36.00% | ~573 |
 | Colony Defense | 35.00% | ~558 |

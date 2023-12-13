@@ -6,9 +6,9 @@ Rating: 4.21 (Ranked 917)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Veil Lifted | 0.50% | ~12 |
-| Lost and Found | 0.50% | ~12 |
 | Comrades | 0.50% | ~12 |
 | Shared Triumph | 0.50% | ~12 |
+| Lost and Found | 0.40% | ~10 |
 | No Mercy | 0.40% | ~10 |
 | Shades of Violence | 0.40% | ~10 |
 | Thriving in Darkness | 0.40% | ~10 |
@@ -69,7 +69,7 @@ Rating: 4.21 (Ranked 917)
 | Lingering Moments | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,432 (Ranked 221)  
+Progressed: 2,450 (Ranked 220)  
 Completed: 2 (0.08%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 2 (0.08%) (Ranked 306)
 | 2023-12-10 | 2,324 | 2 |
 | 2023-12-11 | 2,337 | 2 |
 | 2023-12-12 | 2,347 | 2 |
-| 2023-12-13 | 2,432 | 2 |
+| 2023-12-13 | 2,450 | 2 |
 ## Awards
 Max (Character Customization): 197  (Ranked 293)  
 Sum: 460 (Ranked 336)  

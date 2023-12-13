@@ -12,8 +12,8 @@ Number of Ratings: 892  (23.09.2022)
 | Greeno-B-Gone | 132.00% | ~709 |
 | The Little Wood that Could | 120.00% | ~644 |
 | Your Especially Earned Trajectory | 109.00% | ~585 |
+| No Mountain Wide Enough | 88.00% | ~473 |
 | One of the Cool Kids | 88.00% | ~473 |
-| No Mountain Wide Enough | 87.00% | ~467 |
 | Yakmel Whisperer | 84.00% | ~451 |
 | On that Grindset | 80.00% | ~430 |
 | I Do! | 80.00% | ~430 |
@@ -60,14 +60,14 @@ Number of Ratings: 892  (23.09.2022)
 | Do Your Part | 34.00% | ~183 |
 | Newton | 34.00% | ~183 |
 | Cardistry | 24.00% | ~129 |
-| Winner and Still Champeen | 23.00% | ~124 |
+| Winner and Still Champeen | 24.00% | ~129 |
 | It's High Noon... | 16.00% | ~86 |
 | Strong Arms | 16.00% | ~86 |
 | Got the Receipt? | 16.00% | ~86 |
 | Jack of All Trades | 8.00% | ~43 |
 | Sandrock's Hottest Club | 5.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537 (Ranked 314)  
+Progressed: 537 (Ranked 315)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |

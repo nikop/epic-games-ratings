@@ -4,7 +4,7 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516,
+  "EOS_Progressed": 517,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1754,6 +1754,11 @@
       "Time": "2023-12-13T20:09:54.2063393+00:00",
       "NumProgressed": 516,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T22:09:29.901462+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -1814,7 +1819,7 @@
       "Name": "I love customers",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -1822,7 +1827,7 @@
       "Name": "Ready to go",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -1830,7 +1835,7 @@
       "Name": "I can fix that",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -1838,7 +1843,7 @@
       "Name": "Gotta go fast",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_FIRST_SHOCK",
@@ -1846,7 +1851,7 @@
       "Name": "First shock",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -1854,7 +1859,7 @@
       "Name": "Illuminator",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_FIX_OUTLETS",
@@ -1894,7 +1899,7 @@
       "Name": "I like the risk",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -1910,7 +1915,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -1918,7 +1923,7 @@
       "Name": "Huge electricity bill",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_REPAIR_GAME_ITEMS",
@@ -1934,7 +1939,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -1942,7 +1947,7 @@
       "Name": "Shocker",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_START_CAR",
@@ -1956,9 +1961,9 @@
       "ID": "ACH_UNSCREW",
       "SetID": "al4k4nh",
       "Name": "Unscrew you",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 263
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -1973,14 +1978,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 516,
+      "Progressed": 517,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:09:20.2456994+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:09:29.9014617+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:45.5623367+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:00:18.9840146+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:09:20.2457221+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:00:09.0255112+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:09:29.9014829+00:00"
 }

@@ -20,10 +20,10 @@
 | Health | 14.00% | ~10 |
 | Awaiting orders | 10.00% | ~7 |
 | Jigsaw | 10.00% | ~7 |
+| Peace | 10.00% | ~7 |
 | An act of courage | 8.00% | ~6 |
 | Art critic | 8.00% | ~6 |
 | Lost | 8.00% | ~6 |
-| Peace | 8.00% | ~6 |
 | An act of compassion | 4.00% | ~3 |
 | An act of mercy | 4.00% | ~3 |
 | Ad Infinitum | 3.00% | ~2 |

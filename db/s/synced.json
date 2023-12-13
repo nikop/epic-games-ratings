@@ -3,7 +3,7 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 961,
-  "Ranking_Popularity": 361,
+  "Ranking_Popularity": 362,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 315,
@@ -1287,9 +1287,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 68544,
+  "EOS_Progressed": 68547,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12457,6 +12457,11 @@
       "Time": "2023-12-13T21:05:20.869439+00:00",
       "NumProgressed": 68544,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-13T22:05:16.8100916+00:00",
+      "NumProgressed": 68547,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -12469,7 +12474,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 24676
+      "UsersEstimate": 24677
     },
     {
       "ID": "10",
@@ -12549,7 +12554,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6854
+      "UsersEstimate": 6855
     },
     {
       "ID": "5",
@@ -12596,7 +12601,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 68544,
+      "Progressed": 68547,
       "Completed": 39
     }
   ],
@@ -12604,8 +12609,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-12-13T17:59:28.7415942+00:00",
-  "LastChanged_Achievements": "2023-12-13T21:05:20.8694375+00:00",
+  "LastChanged_Achievements": "2023-12-13T22:05:16.8100911+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:19.3364255+00:00",
-  "LastUpdate_Ratings": "2023-12-13T20:58:55.6063339+00:00",
-  "LastUpdate_Achievements": "2023-12-13T21:05:20.8694898+00:00"
+  "LastUpdate_Ratings": "2023-12-13T21:58:48.1268745+00:00",
+  "LastUpdate_Achievements": "2023-12-13T22:05:16.8101594+00:00"
 }
