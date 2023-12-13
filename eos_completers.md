@@ -50,7 +50,7 @@
 | 48 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.08% |
 | 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.49% |
 | 50 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.46% |
-| 51 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
+| 51 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 7.69% |
 | 54 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
@@ -59,10 +59,10 @@
 | 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.24% |
 | 58 | [Scorn](games/s/scorn.md) | 7.18% |
 | 59 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 7.14% |
-| 59 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
-| 61 | [Time Loader](games/t/time_loader.md) | 7.03% |
-| 62 | [Sonic Origins](games/s/sonic_origins.md) | 7.00% |
-| 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.98% |
+| 60 | [Time Loader](games/t/time_loader.md) | 7.03% |
+| 61 | [Sonic Origins](games/s/sonic_origins.md) | 7.00% |
+| 62 | [Anna's Quest](games/a/anna's_quest.md) | 6.98% |
+| 63 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 6.67% |
 | 64 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.54% |
 | 65 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -97,7 +97,7 @@
 | 95 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
 | 96 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.33% |
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
-| 98 | [Destiny 2](games/d/destiny_2.md) | 3.27% |
+| 98 | [Destiny 2](games/d/destiny_2.md) | 3.28% |
 | 99 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.22% |
 | 100 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 101 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
@@ -129,7 +129,7 @@
 | 127 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
 | 128 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 128 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
-| 130 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.08% |
+| 130 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.07% |
 | 131 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 131 | [Somerville](games/s/somerville.md) | 1.92% |
 | 133 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.88% |
@@ -204,10 +204,10 @@
 | 201 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
 | 203 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.57% |
 | 204 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 204 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 0.55% |
-| 206 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.54% |
-| 206 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
-| 206 | [Tails of Iron](games/t/tails_of_iron.md) | 0.54% |
+| 205 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 0.54% |
+| 205 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.54% |
+| 205 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
+| 205 | [Tails of Iron](games/t/tails_of_iron.md) | 0.54% |
 | 209 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.52% |
 | 210 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.50% |
 | 210 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.50% |
