@@ -6,7 +6,7 @@
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 260,
-  "Ranking_EOS_Completed": 118,
+  "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
@@ -121,11 +121,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1145,
+  "EOS_Progressed": 1148,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.62,
+  "EOS_Completed_Percentage": 2.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -3916,6 +3916,11 @@
       "Time": "2023-12-13T19:04:09.6379168+00:00",
       "NumProgressed": 1145,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-13T20:03:47.8224057+00:00",
+      "NumProgressed": 1148,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 28,
@@ -3927,7 +3932,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 721
+      "UsersEstimate": 723
     },
     {
       "ID": "MQ01_2",
@@ -3935,7 +3940,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 710
+      "UsersEstimate": 712
     },
     {
       "ID": "MQ02_1",
@@ -3943,7 +3948,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 618
+      "UsersEstimate": 620
     },
     {
       "ID": "MQ02_2",
@@ -3951,7 +3956,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "MQ02_3",
@@ -3959,15 +3964,15 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 595
+      "UsersEstimate": 585
     },
     {
       "ID": "MQ03_1",
@@ -3975,7 +3980,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 572
+      "UsersEstimate": 574
     },
     {
       "ID": "MQ03_2",
@@ -3983,7 +3988,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "MQ03_3",
@@ -3991,7 +3996,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "MQ03_4",
@@ -3999,7 +4004,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 492
+      "UsersEstimate": 494
     },
     {
       "ID": "MQ03_5",
@@ -4007,7 +4012,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 538
+      "UsersEstimate": 540
     },
     {
       "ID": "MQ04_1",
@@ -4015,7 +4020,7 @@
       "Name": "Going Once...",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "MQ04_2",
@@ -4023,7 +4028,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "MQ04_3",
@@ -4031,7 +4036,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 515
+      "UsersEstimate": 517
     },
     {
       "ID": "MQ05_1",
@@ -4039,7 +4044,7 @@
       "Name": "Open Sesame",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 492
+      "UsersEstimate": 494
     },
     {
       "ID": "MQ05_2",
@@ -4047,7 +4052,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 469
+      "UsersEstimate": 471
     },
     {
       "ID": "MQ05_3",
@@ -4055,7 +4060,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "MQ05_4",
@@ -4063,7 +4068,7 @@
       "Name": "Knives Out",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "MQ06_1",
@@ -4079,7 +4084,7 @@
       "Name": "Bookworm",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "MQ06_3",
@@ -4087,7 +4092,7 @@
       "Name": "Land, Ho!",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 471
     },
     {
       "ID": "MQ06_4",
@@ -4095,7 +4100,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "MQ07_1",
@@ -4103,7 +4108,7 @@
       "Name": "Read It And Weep",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "MQ07_2",
@@ -4111,7 +4116,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "MQ08_1",
@@ -4119,7 +4124,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "MQ08_2",
@@ -4127,7 +4132,7 @@
       "Name": "Up In Flames",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "MQ08_3",
@@ -4135,7 +4140,7 @@
       "Name": "Fhtagn!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "PLTN",
@@ -4150,7 +4155,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1145,
+      "Progressed": 1148,
       "Completed": 30
     }
   ],
@@ -4158,8 +4163,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-12T11:03:07.9199744+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:04:09.6379164+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:03:47.8224052+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:03:39.6304812+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:04:09.6379537+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:03:25.0635171+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:03:47.8224774+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 177  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 6.00% | ~394 |
-| Smooth Operator: Madison | 5.00% | ~328 |
+| Smooth Operator: Madison | 5.00% | ~329 |
 | The Brahdyssey | 3.00% | ~197 |
 | Caught in the Act | 3.00% | ~197 |
 | Katherine | 3.00% | ~197 |
@@ -37,10 +37,10 @@ Number of Ratings: 177  (23.09.2022)
 | I'll Be Back | 0.50% | ~33 |
 | Deck the Balls | 0.50% | ~18 |
 | Love Conquers All | 0.50% | ~33 |
-| The Bride | 0.40% | ~26 |
 | Rule 34 | 0.40% | ~26 |
 | Rachael | 0.40% | ~26 |
 | Good Ol' Days | 0.40% | ~26 |
+| The Bride | 0.30% | ~20 |
 | Drunk and Disorderly: Madison | 0.30% | ~20 |
 | Do Not Burn | 0.30% | ~20 |
 | First Impressions | 0.30% | ~20 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,570 (Ranked 185)  
+Progressed: 6,572 (Ranked 185)  
 Completed: 3 (0.05%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 3 (0.05%) (Ranked 324)
 | 2023-12-09 | 6,556 | 3 |
 | 2023-12-10 | 6,559 | 3 |
 | 2023-12-12 | 6,563 | 3 |
-| 2023-12-13 | 6,570 | 3 |
+| 2023-12-13 | 6,572 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

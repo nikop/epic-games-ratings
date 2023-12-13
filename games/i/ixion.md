@@ -1,22 +1,22 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 452)  
+Rating: 4.58 (Ranked 453)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 30.00% | ~1,028 |
 | Sputnik 2049 | 26.00% | ~891 |
-| Infinite Growth... | 25.00% | ~856 |
+| Infinite Growth... | 25.00% | ~857 |
 | Without Breaking Some Eggs... | 24.00% | ~822 |
 | A Thousand Strong | 18.00% | ~617 |
 | Ready for a New World | 18.00% | ~617 |
-| Space Society | 17.00% | ~582 |
+| Space Society | 17.00% | ~583 |
 | Permanent Redesigns | 16.00% | ~548 |
 | Fully Recycled | 14.00% | ~480 |
 | Ain't Nobody Got Time for That | 14.00% | ~480 |
 | The Ship of Theseus | 14.00% | ~480 |
-| Guy de Borderlands | 13.00% | ~445 |
+| Guy de Borderlands | 13.00% | ~446 |
 | Exceeding Capacity | 12.00% | ~411 |
 | Breaking Protocol | 12.00% | ~411 |
 | Hope Seeker | 12.00% | ~411 |
@@ -34,11 +34,11 @@ Rating: 4.58 (Ranked 452)
 | What They Hide From Us | 5.00% | ~171 |
 | ...  in a finite world | 5.00% | ~171 |
 | BRAWL! | 5.00% | ~171 |
+| Drill-dozer | 5.00% | ~171 |
 | What the Ruins Teach Us | 5.00% | ~171 |
 | Sustainable Energy | 4.00% | ~137 |
 | In Dolos We Trust | 4.00% | ~137 |
 | Pedal to the Metal | 4.00% | ~137 |
-| Drill-dozer | 4.00% | ~137 |
 | Praise the Hull! | 3.00% | ~103 |
 | Delivery! | 3.00% | ~103 |
 | Help of the Forgotten Member | 3.00% | ~103 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 452)
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,426 (Ranked 209)  
+Progressed: 3,427 (Ranked 209)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-09 | 3,418 | 0 |
 | 2023-12-10 | 3,420 | 0 |
 | 2023-12-11 | 3,423 | 0 |
-| 2023-12-13 | 3,426 | 0 |
+| 2023-12-13 | 3,427 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

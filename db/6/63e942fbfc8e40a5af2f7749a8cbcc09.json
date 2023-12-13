@@ -4,7 +4,7 @@
   "ProductSlug": "last-labyrinth-5aed27",
   "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewPlayers": 463,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-21T04:00:00+00:00",
@@ -180,17 +180,17 @@
       "ID": "ClearC01",
       "SetID": "94lmepd",
       "Name": "The Emperor",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ClearC01END",
       "SetID": "94lmepd",
       "Name": "The Moon",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ClearC02",
@@ -244,17 +244,17 @@
       "ID": "ClearE01",
       "SetID": "94lmepd",
       "Name": "The Fool",
-      "Percentage": 55,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ClearE01END",
       "SetID": "94lmepd",
       "Name": "The Sun",
-      "Percentage": 55,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ClearE02",
@@ -276,17 +276,17 @@
       "ID": "ClearF01",
       "SetID": "94lmepd",
       "Name": "The Empress",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ClearF01END",
       "SetID": "94lmepd",
       "Name": "The Tower",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ClearG01",
@@ -435,8 +435,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:04:06.4545421+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:03:45.3381927+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:55.8703337+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:58:21.5498119+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:04:06.4545635+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:58:00.7594402+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:03:45.3382177+00:00"
 }

@@ -10,14 +10,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 7.00% | ~1,102 |
 | Settler | 7.00% | ~1,102 |
 | Friendly Family | 6.00% | ~945 |
-| Able | 5.00% | ~787 |
-| Architect | 5.00% | ~787 |
-| Good | 5.00% | ~787 |
-| Intrepid | 5.00% | ~787 |
-| Mason | 5.00% | ~787 |
-| Pioneer | 5.00% | ~787 |
-| Strong | 5.00% | ~787 |
-| Hanging Gardens | 5.00% | ~787 |
+| Able | 5.00% | ~788 |
+| Architect | 5.00% | ~788 |
+| Good | 5.00% | ~788 |
+| Intrepid | 5.00% | ~788 |
+| Mason | 5.00% | ~788 |
+| Pioneer | 5.00% | ~788 |
+| Strong | 5.00% | ~788 |
+| Hanging Gardens | 5.00% | ~788 |
 | Ambitious | 4.00% | ~630 |
 | Enlightened | 4.00% | ~630 |
 | Glorious | 4.00% | ~630 |
@@ -95,43 +95,43 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 2.00% | ~315 |
 | Kushite Pyramids | 2.00% | ~315 |
 | Kushite Paganism | 2.00% | ~315 |
-| Bad Heir Day | 1.00% | ~157 |
-| Capable | 1.00% | ~157 |
-| Devout | 1.00% | ~157 |
-| Ready | 1.00% | ~157 |
-| Subjugator | 1.00% | ~157 |
-| Strong Difficulty | 1.00% | ~157 |
-| Clerics | 1.00% | ~157 |
-| Hunters | 1.00% | ~157 |
-| Statesmen | 1.00% | ~157 |
-| Traders | 1.00% | ~157 |
-| Hittite Iron | 1.00% | ~157 |
-| Hagia Sophia | 1.00% | ~157 |
-| Church of the Holy Sepulchre | 1.00% | ~157 |
-| Pantheon | 1.00% | ~157 |
-| Via Recta Souk | 1.00% | ~157 |
-| Learn to Play 4 | 1.00% | ~157 |
-| Babylonia | 1.00% | ~157 |
-| Carthage | 1.00% | ~157 |
-| Egypt | 1.00% | ~157 |
-| Rome | 1.00% | ~157 |
-| One True Faith | 1.00% | ~157 |
-| Assyrian Paganism | 1.00% | ~157 |
-| Hittite Paganism | 1.00% | ~157 |
-| Industrial Progress | 1.00% | ~157 |
-| Military Prestige | 1.00% | ~157 |
-| Dualism | 1.00% | ~157 |
-| Enlightenment | 1.00% | ~157 |
-| Gnosticism | 1.00% | ~157 |
-| Redemption | 1.00% | ~157 |
-| Revelation | 1.00% | ~157 |
-| Veneration | 1.00% | ~157 |
-| Cimmerian Archer | 1.00% | ~157 |
-| Mounted Lancer | 1.00% | ~157 |
-| Legionary | 1.00% | ~157 |
-| Phalangite | 1.00% | ~157 |
-| Turreted Elephant | 1.00% | ~157 |
-| Ambition Victory | 1.00% | ~157 |
+| Bad Heir Day | 1.00% | ~158 |
+| Capable | 1.00% | ~158 |
+| Devout | 1.00% | ~158 |
+| Ready | 1.00% | ~158 |
+| Subjugator | 1.00% | ~158 |
+| Strong Difficulty | 1.00% | ~158 |
+| Clerics | 1.00% | ~158 |
+| Hunters | 1.00% | ~158 |
+| Statesmen | 1.00% | ~158 |
+| Traders | 1.00% | ~158 |
+| Hittite Iron | 1.00% | ~158 |
+| Hagia Sophia | 1.00% | ~158 |
+| Church of the Holy Sepulchre | 1.00% | ~158 |
+| Pantheon | 1.00% | ~158 |
+| Via Recta Souk | 1.00% | ~158 |
+| Learn to Play 4 | 1.00% | ~158 |
+| Babylonia | 1.00% | ~158 |
+| Carthage | 1.00% | ~158 |
+| Egypt | 1.00% | ~158 |
+| Rome | 1.00% | ~158 |
+| One True Faith | 1.00% | ~158 |
+| Assyrian Paganism | 1.00% | ~158 |
+| Hittite Paganism | 1.00% | ~158 |
+| Industrial Progress | 1.00% | ~158 |
+| Military Prestige | 1.00% | ~158 |
+| Dualism | 1.00% | ~158 |
+| Enlightenment | 1.00% | ~158 |
+| Gnosticism | 1.00% | ~158 |
+| Redemption | 1.00% | ~158 |
+| Revelation | 1.00% | ~158 |
+| Veneration | 1.00% | ~158 |
+| Cimmerian Archer | 1.00% | ~158 |
+| Mounted Lancer | 1.00% | ~158 |
+| Legionary | 1.00% | ~158 |
+| Phalangite | 1.00% | ~158 |
+| Turreted Elephant | 1.00% | ~158 |
+| Ambition Victory | 1.00% | ~158 |
 | Noble Difficulty | 0.90% | ~142 |
 | Cao'an | 0.90% | ~142 |
 | Adur Burzen-Mihr | 0.90% | ~142 |
@@ -188,26 +188,26 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.30% | ~47 |
 | Pantheon in Roma | 0.30% | ~47 |
 | Randomized Leaders | 0.30% | ~47 |
-| Barbarian Horde | 0.20% | ~31 |
-| Blade of the Monkey | 0.20% | ~31 |
-| Gold Victory (Carthage 2) | 0.20% | ~31 |
-| Silver Victory (Carthage 2) | 0.20% | ~31 |
-| Carthage - Rise of Rome | 0.20% | ~31 |
-| Game of the Week | 0.20% | ~31 |
-| Get the Hellas Out | 0.20% | ~31 |
-| The Turning Point | 0.20% | ~31 |
-| Like a Lion | 0.20% | ~31 |
-| Learn By Playing 1 - Able | 0.20% | ~31 |
-| Macedonian Wars | 0.20% | ~31 |
-| Realistic Mortality | 0.20% | ~31 |
-| Play a MP Teams Game | 0.20% | ~31 |
-| Punic Wars | 0.20% | ~31 |
-| Word of God | 0.20% | ~31 |
-| Role-Playing | 0.20% | ~31 |
-| Hypatia the Teacher | 0.20% | ~31 |
-| Kmt Golden Age | 0.20% | ~31 |
-| Glory to The Aten | 0.20% | ~31 |
-| Akhenaten's Legacy | 0.20% | ~31 |
+| Barbarian Horde | 0.20% | ~32 |
+| Blade of the Monkey | 0.20% | ~32 |
+| Gold Victory (Carthage 2) | 0.20% | ~32 |
+| Silver Victory (Carthage 2) | 0.20% | ~32 |
+| Carthage - Rise of Rome | 0.20% | ~32 |
+| Game of the Week | 0.20% | ~32 |
+| Get the Hellas Out | 0.20% | ~32 |
+| The Turning Point | 0.20% | ~32 |
+| Like a Lion | 0.20% | ~32 |
+| Learn By Playing 1 - Able | 0.20% | ~32 |
+| Macedonian Wars | 0.20% | ~32 |
+| Realistic Mortality | 0.20% | ~32 |
+| Play a MP Teams Game | 0.20% | ~32 |
+| Punic Wars | 0.20% | ~32 |
+| Word of God | 0.20% | ~32 |
+| Role-Playing | 0.20% | ~32 |
+| Hypatia the Teacher | 0.20% | ~32 |
+| Kmt Golden Age | 0.20% | ~32 |
+| Glory to The Aten | 0.20% | ~32 |
+| Akhenaten's Legacy | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
 | Alexander the who? | 0.10% | ~16 |
@@ -235,6 +235,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage Campaign | 0.10% | ~16 |
 | Avenger | 0.10% | ~16 |
 | Destroyer | 0.10% | ~16 |
+| Liberator | 0.10% | ~16 |
 | Rebuilder | 0.10% | ~16 |
 | Restorer | 0.10% | ~16 |
 | White Death | 0.10% | ~16 |
@@ -342,14 +343,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaonic History Repeats | 0.10% | ~16 |
 | Egypt Campaign | 0.10% | ~16 |
 | The Hekau Khasut Slaves | 0.10% | ~16 |
-| Liberator | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,749 (Ranked 154)  
+Progressed: 15,750 (Ranked 154)  
 Completed: 5 (0.03%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,7 +586,7 @@ Completed: 5 (0.03%) (Ranked 335)
 | 2023-12-10 | 15,719 | 5 |
 | 2023-12-11 | 15,723 | 5 |
 | 2023-12-12 | 15,742 | 5 |
-| 2023-12-13 | 15,749 | 5 |
+| 2023-12-13 | 15,750 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 277)  
 Sum: 1,900 (Ranked 220)  

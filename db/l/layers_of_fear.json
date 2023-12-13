@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -549,6 +549,11 @@
       "Time": "2023-12-09T01:50:21.8281137+00:00",
       "NumProgressed": 108,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T20:04:52.3726548+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -617,7 +622,7 @@
       "Name": "We Are Not Alone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "collect_most_of_posters",
@@ -665,7 +670,7 @@
       "Name": "Refuse to look",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "do_what_you_have_to",
@@ -687,7 +692,7 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 25,
       "UsersEstimate": 33
     },
@@ -889,7 +894,7 @@
       "Name": "Sign of weakness",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "something_important",
@@ -897,7 +902,7 @@
       "Name": "Something important",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "spy_one_item",
@@ -959,7 +964,7 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 5,
       "UsersEstimate": 85
     },
@@ -967,23 +972,23 @@
       "ID": "whispers_long_forgotten",
       "SetID": "f2im8d",
       "Name": "Whispers long forgotten",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:05:31.2028778+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:04:52.3726545+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:01.5800746+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:59:22.8242165+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:05:31.2029171+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:58:48.4370598+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:04:52.3727016+00:00"
 }

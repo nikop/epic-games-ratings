@@ -7,10 +7,10 @@ Rating: 4.75 (Ranked 148)
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.80% | ~1,915 |
 | First of Many | 0.80% | ~1,915 |
-| Regicide | 0.80% | ~148 |
-| Master of the Dark Arts | 0.80% | ~148 |
-| Expanding Horizons | 0.60% | ~1,436 |
-| Not Your Average Trait | 0.60% | ~1,436 |
+| Regicide | 0.80% | ~149 |
+| Master of the Dark Arts | 0.80% | ~149 |
+| Expanding Horizons | 0.60% | ~1,437 |
+| Not Your Average Trait | 0.60% | ~1,437 |
 | Am I Seeing This? | 0.50% | ~1,197 |
 | Gleaming the Cube | 0.50% | ~1,197 |
 | Not So Special Now | 0.50% | ~1,197 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | You Shall Pass | 0.20% | ~37 |
 | A Foul Feast | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,390 (Ranked 66)  
+Progressed: 239,422 (Ranked 66)  
 Completed: 584 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,10 +211,10 @@ Completed: 584 (0.24%) (Ranked 252)
 | 2023-12-10 | 238,247 | 577 |
 | 2023-12-11 | 238,673 | 579 |
 | 2023-12-12 | 239,053 | 581 |
-| 2023-12-13 | 239,390 | 584 |
+| 2023-12-13 | 239,422 | 584 |
 ## Awards
 Max (Great Boss Battles): 2,741  (Ranked 101)  
-Sum: 6,868 (Ranked 126)  
+Sum: 6,871 (Ranked 126)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -227,7 +227,7 @@ Diff (max vs sum): -25
 | This game has Quickly Understood Controls | 424 |
 | This game is Relaxing | 424 |
 | This game has Amazing Characters | 416 |
-| This game has Unique Visuals | 364 |
+| This game has Unique Visuals | 367 |
 | This game has a Creative Community | 312 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -372,4 +372,4 @@ Diff (max vs sum): -25
 | 2023-12-10 | 4.75 | 2,704 | 6,738 |
 | 2023-12-11 | 4.75 | 2,717 | 6,788 |
 | 2023-12-12 | 4.75 | 2,730 | 6,825 |
-| 2023-12-13 | 4.75 | 2,741 | 6,868 |
+| 2023-12-13 | 4.75 | 2,741 | 6,871 |

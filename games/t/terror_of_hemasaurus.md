@@ -35,7 +35,7 @@
 | Juggle the People | 4.00% | ~3 |
 | Simulation 8e7d28c1 | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 464)  
+Progressed: 84 (Ranked 465)  
 Completed: 3 (3.57%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |

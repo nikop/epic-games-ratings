@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 57.00% | ~58 |
-| Purification Pioneer | 55.00% | ~56 |
-| Mechanical Buddy | 51.00% | ~52 |
-| Dicesmithing Time! | 49.00% | ~49 |
-| Endless Tricks | 46.00% | ~46 |
-| Sanctuary Guardian | 45.00% | ~45 |
-| Mind Illuminator | 39.00% | ~39 |
-| Noctuan Champion | 38.00% | ~38 |
-| Wild's Keeper | 37.00% | ~37 |
-| Stellar Dismantler | 34.00% | ~34 |
-| Eridanian Champion | 30.00% | ~30 |
-| Lacertian Champion | 30.00% | ~30 |
-| Anomaly Destroyer | 29.00% | ~29 |
-| Astral Adventurer | 28.00% | ~28 |
-| Loyal Partner | 26.00% | ~26 |
-| Star Killer | 26.00% | ~26 |
-| Apian Champion | 26.00% | ~26 |
+| Meissa's Savior | 58.00% | ~59 |
+| Purification Pioneer | 56.00% | ~57 |
+| Mechanical Buddy | 52.00% | ~53 |
+| Dicesmithing Time! | 48.00% | ~49 |
+| Endless Tricks | 45.00% | ~46 |
+| Sanctuary Guardian | 44.00% | ~45 |
+| Mind Illuminator | 38.00% | ~39 |
+| Noctuan Champion | 37.00% | ~38 |
+| Wild's Keeper | 36.00% | ~37 |
+| Stellar Dismantler | 33.00% | ~34 |
+| Eridanian Champion | 29.00% | ~30 |
+| Lacertian Champion | 29.00% | ~30 |
+| Anomaly Destroyer | 28.00% | ~29 |
+| Astral Adventurer | 27.00% | ~28 |
+| Loyal Partner | 25.00% | ~26 |
+| Star Killer | 25.00% | ~26 |
+| Apian Champion | 25.00% | ~26 |
 | Behenian Champion | 23.00% | ~23 |
 | Shard Spender | 19.00% | ~19 |
 | Unbeatable | 18.00% | ~18 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 446)  
+Progressed: 102 (Ranked 445)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,4 +151,4 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-07 | 98 | 0 |
 | 2023-12-11 | 99 | 0 |
 | 2023-12-12 | 100 | 0 |
-| 2023-12-13 | 101 | 0 |
+| 2023-12-13 | 102 | 0 |

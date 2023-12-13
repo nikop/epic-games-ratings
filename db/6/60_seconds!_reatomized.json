@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -8006,9 +8006,9 @@
       "ID": "ACH_MADHATTER",
       "SetID": "5nj1ea3",
       "Name": "Mad Hatter",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_MIB",
@@ -8191,8 +8191,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-12-10T20:57:44.1202704+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:08:36.3838669+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:08:30.8194272+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:54.562099+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:00:07.6886083+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:08:36.3839426+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:59:23.1879633+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:08:30.8194902+00:00"
 }

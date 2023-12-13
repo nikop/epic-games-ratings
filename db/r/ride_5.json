@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2468,
+  "EOS_Progressed": 2469,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6122,6 +6122,11 @@
       "Time": "2023-12-13T19:08:13.560484+00:00",
       "NumProgressed": 2468,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T20:08:12.3086198+00:00",
+      "NumProgressed": 2469,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6134,7 +6139,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6198,7 +6203,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -6220,9 +6225,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "c7hf6a4",
       "Name": "Legendary!!!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 494
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -6422,7 +6427,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6525,14 +6530,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2468,
+      "Progressed": 2469,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:08:13.5604835+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:08:12.3086195+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:00:38.0538288+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:08:13.5605599+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:59:46.5831419+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:08:12.3086716+00:00"
 }

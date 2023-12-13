@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 436,
+  "EOS_Progressed": 437,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1619,6 +1619,11 @@
       "Time": "2023-12-13T18:09:10.1245731+00:00",
       "NumProgressed": 436,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T20:09:08.9610846+00:00",
+      "NumProgressed": 437,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -1631,7 +1636,7 @@
       "Name": "New arm",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -1711,7 +1716,7 @@
       "Name": "Shelter Escape",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -1775,15 +1780,15 @@
       "Name": "Novice Scavenger",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 227
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -1791,7 +1796,7 @@
       "Name": "First wall",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -1830,14 +1835,14 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 436,
+      "Progressed": 437,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:09:25.9509615+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:09:08.9610844+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:15.0426087+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:00:38.5134499+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:09:25.950983+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:59:46.9244517+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:09:08.9611024+00:00"
 }

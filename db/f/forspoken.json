@@ -475,9 +475,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 43603,
+  "EOS_Progressed": 43607,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14960,6 +14960,11 @@
       "Time": "2023-12-13T19:09:14.9483771+00:00",
       "NumProgressed": 43603,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-13T20:09:00.4047448+00:00",
+      "NumProgressed": 43607,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15019,7 +15024,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4361
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15307,7 +15312,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3924
+      "UsersEstimate": 3925
     },
     {
       "ID": "SPRING_ALL",
@@ -15394,22 +15399,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43603,
+      "Progressed": 43607,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8440,
-      "Completed": 8440
+      "Progressed": 8444,
+      "Completed": 8444
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-12T05:01:14.3926085+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:09:14.9483768+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:09:00.4047444+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:12.2339808+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:02:59.0697712+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:09:14.9484575+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:02:53.5119181+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:09:00.4048258+00:00"
 }

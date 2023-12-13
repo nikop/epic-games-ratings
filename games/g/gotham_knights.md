@@ -6,22 +6,22 @@ Rating: 4.18 (Ranked 946)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~38,974 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,502 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,503 |
 | Loose Ends | 33.00% | ~25,723 |
-| To the Victor Go the Spoils | 28.00% | ~21,825 |
+| To the Victor Go the Spoils | 28.00% | ~21,826 |
 | Knighthood | 27.00% | ~21,046 |
 | Get ReQ'd | 25.00% | ~19,487 |
-| Whispered Words | 24.00% | ~18,707 |
-| The Batman Family | 22.00% | ~17,148 |
-| Lock and Key | 22.00% | ~17,148 |
+| Whispered Words | 24.00% | ~18,708 |
+| The Batman Family | 22.00% | ~17,149 |
+| Lock and Key | 22.00% | ~17,149 |
 | Something in the Clay | 21.00% | ~16,369 |
-| Quartzer Life Crisis | 20.00% | ~15,589 |
-| Working Hard or Harley Working? | 20.00% | ~15,589 |
-| Unstoppable Force | 20.00% | ~15,589 |
-| Bad Apples in Every Orchard | 20.00% | ~15,589 |
+| Quartzer Life Crisis | 20.00% | ~15,590 |
+| Working Hard or Harley Working? | 20.00% | ~15,590 |
+| Unstoppable Force | 20.00% | ~15,590 |
+| Bad Apples in Every Orchard | 20.00% | ~15,590 |
 | Snow Problem | 19.00% | ~14,810 |
-| The Show Mud Go On | 18.00% | ~14,030 |
-| From Inside Gotham's Walls | 18.00% | ~14,030 |
+| The Show Mud Go On | 18.00% | ~14,031 |
+| From Inside Gotham's Walls | 18.00% | ~14,031 |
 | Protector of Gotham | 16.00% | ~12,472 |
 | Universal Health Scare | 16.00% | ~12,472 |
 | In Your Element | 15.00% | ~11,692 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 946)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,947 (Ranked 99)  
+Progressed: 77,949 (Ranked 99)  
 Completed: 125 (0.16%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 125 (0.16%) (Ranked 275)
 | 2023-12-10 | 77,873 | 125 |
 | 2023-12-11 | 77,910 | 125 |
 | 2023-12-12 | 77,929 | 125 |
-| 2023-12-13 | 77,947 | 125 |
+| 2023-12-13 | 77,949 | 125 |
 ## Awards
 Max (Great Boss Battles): 3,007  (Ranked 98)  
 Sum: 5,144 (Ranked 141)  

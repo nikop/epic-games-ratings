@@ -8,12 +8,12 @@
 | Do a barrel roll! | 64.00% | ~47 |
 | Huh? What was that? | 53.00% | ~39 |
 | Whatever it is, fix it! | 37.00% | ~27 |
-| The opposite of good news | 29.00% | ~21 |
-| My Emperor... I've failed you! | 22.00% | ~16 |
+| The opposite of good news | 30.00% | ~22 |
+| My Emperor... I've failed you! | 23.00% | ~17 |
 | Priceless company | 15.00% | ~11 |
+| I'm ready, anytime | 4.00% | ~3 |
 | Enemy shield analyzed | 4.00% | ~3 |
 | Piece of cake | 3.00% | ~2 |
-| I'm ready, anytime | 3.00% | ~2 |
 | No need to say goodbye | 3.00% | ~2 |
 | Better hurry up | 1.00% | ~1 |
 | I call her the BF-Worm | 1.00% | ~1 |

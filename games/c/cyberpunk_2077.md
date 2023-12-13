@@ -6,23 +6,23 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,054 |
-| Gun Fu | 7.00% | ~68,282 |
-| Right Back At Ya | 6.00% | ~58,527 |
-| The Fool | 6.00% | ~58,527 |
+| V for Vendetta | 12.00% | ~117,056 |
+| Gun Fu | 7.00% | ~68,283 |
+| Right Back At Ya | 6.00% | ~58,528 |
+| The Fool | 6.00% | ~58,528 |
 | The Lovers | 5.00% | ~48,773 |
-| Full Body Conversion | 4.00% | ~39,018 |
-| Stanislavski's Method | 4.00% | ~39,018 |
-| The Wheel of Fortune | 4.00% | ~39,018 |
-| True Soldier | 4.00% | ~39,018 |
-| All the President's Men | 4.00% | ~4,163 |
+| Full Body Conversion | 4.00% | ~39,019 |
+| Stanislavski's Method | 4.00% | ~39,019 |
+| The Wheel of Fortune | 4.00% | ~39,019 |
+| True Soldier | 4.00% | ~39,019 |
+| All the President's Men | 4.00% | ~4,164 |
 | Christmas Tree Attack | 3.00% | ~29,264 |
 | The Hermit | 3.00% | ~29,264 |
 | The High Priestess | 3.00% | ~29,264 |
 | True Warrior | 3.00% | ~29,264 |
 | Legend of The Afterlife | 3.00% | ~29,264 |
-| Relic Ruler | 3.00% | ~3,122 |
-| Arachnophobia | 3.00% | ~3,122 |
+| Relic Ruler | 3.00% | ~3,123 |
+| Arachnophobia | 3.00% | ~3,123 |
 | Bushido and Chill | 2.00% | ~19,509 |
 | Master Crafter | 2.00% | ~19,509 |
 | I Am The Law | 2.00% | ~19,509 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,451 (Ranked 15)  
-Completed: 2,898 (0.30%) (Ranked 241)  
+Progressed: 975,469 (Ranked 15)  
+Completed: 2,899 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -311,7 +311,7 @@ Completed: 2,898 (0.30%) (Ranked 241)
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
 | 2023-12-12 | 975,121 | 2,891 |
-| 2023-12-13 | 975,451 | 2,898 |
+| 2023-12-13 | 975,469 | 2,899 |
 ## Awards
 Max (Character Customization): 122,342  (Ranked 9)  
 Sum: 415,864 (Ranked 9)  

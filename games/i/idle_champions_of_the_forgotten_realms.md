@@ -6,16 +6,17 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,397 |
+| A Brief Tour of the Realms | 1.00% | ~2,398 |
 | Beast Intentions | 0.40% | ~959 |
 | The Cursed Farmer | 0.40% | ~959 |
 | The Ring of Regeneration | 0.30% | ~719 |
 | The Mad Wizard | 0.30% | ~719 |
-| Were-verpowered | 0.20% | ~479 |
-| Seeking Allies | 0.20% | ~479 |
-| Are Ya Chicken? | 0.20% | ~479 |
-| Mad Cow Disease | 0.20% | ~479 |
-| Friendly Imps | 0.20% | ~479 |
+| Were-verpowered | 0.20% | ~480 |
+| A Persistent Buzzing | 0.20% | ~480 |
+| Seeking Allies | 0.20% | ~480 |
+| Are Ya Chicken? | 0.20% | ~480 |
+| Mad Cow Disease | 0.20% | ~480 |
+| Friendly Imps | 0.20% | ~480 |
 | The Beginning is the End | 0.20% | ~412 |
 | The End is the Beginning | 0.20% | ~412 |
 | Maddening | 0.10% | ~240 |
@@ -137,7 +138,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Struggling Toward Omu | 0.10% | ~240 |
 | Wagon Train | 0.10% | ~240 |
 | The Lost Heir of Omu | 0.10% | ~240 |
-| A Persistent Buzzing | 0.10% | ~240 |
 | Not Very Charming | 0.10% | ~240 |
 | Lobsterfolk Assault | 0.10% | ~240 |
 | Taking Responsibility | 0.10% | ~240 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~206 |
 | See You on the Flipside | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,727 (Ranked 65)  
+Progressed: 239,757 (Ranked 65)  
 Completed: 2,519 (1.05%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -776,7 +776,7 @@ Completed: 2,519 (1.05%) (Ranked 169)
 | 2023-12-10 | 239,334 | 2,513 |
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
-| 2023-12-13 | 239,727 | 2,519 |
+| 2023-12-13 | 239,757 | 2,519 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
 Sum: 32,840 (Ranked 41)  

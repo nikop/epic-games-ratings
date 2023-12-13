@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Mathematic | 85.00% | ~70 |
 | It's Yours, My Friend | 73.00% | ~60 |
+| Conducted Trade | 71.00% | ~58 |
 | Going Places | 71.00% | ~58 |
-| Conducted Trade | 70.00% | ~57 |
 | Aristocratic | 67.00% | ~55 |
 | Digging a Hole | 65.00% | ~53 |
 | Tutti Frutti | 62.00% | ~51 |
@@ -33,7 +33,7 @@
 | I'm A Lumberbot | 0.00% | ~0 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 468)  
+Progressed: 82 (Ranked 469)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,12 +2,12 @@
   "ID": "89b9c510e8d74b9da34c447915b1ffb1",
   "Name": "Arcade Paradise",
   "ProductSlug": "arcade-paradise",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 696,
+  "EOS_Progressed": 698,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -693,6 +693,11 @@
       "Time": "2023-12-03T01:54:43.8506693+00:00",
       "NumProgressed": 696,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T20:05:47.2068763+00:00",
+      "NumProgressed": 698,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -752,7 +757,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 635
     },
     {
       "ID": "AhoyTrophy",
@@ -776,7 +781,7 @@
       "Name": "Goal",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "AllUpgrdTrophy",
@@ -848,7 +853,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 670
     },
     {
       "ID": "Ext4Trophy",
@@ -952,7 +957,7 @@
       "Name": "I ran the numbers",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "KKBossTrophy",
@@ -984,7 +989,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1024,7 +1029,7 @@
       "Name": "Taking the plunge",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "RacerTrophy",
@@ -1072,7 +1077,7 @@
       "Name": "Swish",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "TerrorTrophy",
@@ -1104,7 +1109,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -1135,7 +1140,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 696,
+      "Progressed": 698,
       "Completed": 0
     }
   ],
@@ -1143,8 +1148,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-10-15T06:02:18.0550602+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:06:39.6189332+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:05:47.2068758+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.4672594+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:01:36.0116502+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:06:39.6189659+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:00:34.9155548+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:05:47.2069151+00:00"
 }

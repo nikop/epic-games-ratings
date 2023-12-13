@@ -9,7 +9,7 @@ Number of Ratings: 54  (23.09.2022)
 | Atom Agent | 99.00% | ~1,336 |
 | One HIT wonder | 36.00% | ~486 |
 | Wanderer | 35.00% | ~472 |
-| One shot, one kill | 28.00% | ~378 |
+| One shot, one kill | 29.00% | ~392 |
 | Traveler | 26.00% | ~351 |
 | Grave Robber | 19.00% | ~256 |
 | Head Burst | 19.00% | ~256 |
@@ -19,19 +19,19 @@ Number of Ratings: 54  (23.09.2022)
 | Kraina Grzybow | 10.00% | ~135 |
 | Love Guru | 10.00% | ~135 |
 | Savant | 10.00% | ~135 |
-| Superhuman | 9.00% | ~121 |
+| Superhuman | 9.00% | ~122 |
 | Bustin' nuts | 8.00% | ~108 |
 | Not-so-private Eye | 8.00% | ~108 |
-| The Vitinsky Rifle | 7.00% | ~94 |
-| Protection racket | 5.00% | ~67 |
-| Secret room | 5.00% | ~67 |
+| The Vitinsky Rifle | 7.00% | ~95 |
+| Protection racket | 5.00% | ~68 |
+| Secret room | 5.00% | ~68 |
 | Indy | 4.00% | ~54 |
 | Sacrifice | 4.00% | ~54 |
 | Wishmaster | 3.00% | ~40 |
 | Career criminal | 2.00% | ~27 |
 | Neanderthal | 2.00% | ~27 |
 | Cosmic Horror | 2.00% | ~27 |
-| It was worth a shot | 1.00% | ~13 |
+| It was worth a shot | 1.00% | ~14 |
 | Ghostbuster | 0.70% | ~9 |
 | Comrade Yogi | 0.50% | ~7 |
 | Tourist Korallov | 0.50% | ~7 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~1 |
 | Pacifist | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,349 (Ranked 248)  
+Progressed: 1,350 (Ranked 248)  
 Completed: 1 (0.07%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 1 (0.07%) (Ranked 311)
 | 2023-12-09 | 1,346 | 1 |
 | 2023-12-11 | 1,347 | 1 |
 | 2023-12-12 | 1,348 | 1 |
-| 2023-12-13 | 1,349 | 1 |
+| 2023-12-13 | 1,350 | 1 |
 ## Awards
 Max (Character Customization): 52  (Ranked 431)  
 Sum: 52 (Ranked 485)  

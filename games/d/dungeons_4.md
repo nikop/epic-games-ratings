@@ -35,7 +35,7 @@
 | The Duel | 36.00% | ~196 |
 | Master of the Undead | 35.00% | ~190 |
 | Unstoppable Horde | 34.00% | ~185 |
-| If Looks Could Kill | 32.00% | ~174 |
+| If Looks Could Kill | 33.00% | ~180 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~158 |
 | The Finitude Drill | 29.00% | ~158 |
 | Forbidden Knowledge | 28.00% | ~152 |

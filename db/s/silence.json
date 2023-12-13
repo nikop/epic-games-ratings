@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -460,6 +460,11 @@
       "Time": "2023-12-07T16:04:18.473535+00:00",
       "NumProgressed": 176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T20:04:02.4974238+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -479,7 +484,7 @@
       "Name": "Artistic fool",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "0000_achv_fallspot",
@@ -493,9 +498,9 @@
       "ID": "0000_achv_findbugs",
       "SetID": "dhn82m5",
       "Name": "Quite a buggy game",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "0000_achv_gameovertwice",
@@ -597,17 +602,17 @@
       "ID": "1004_achv_wormtooth",
       "SetID": "dhn82m5",
       "Name": "Open up wide",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "1006_achv_chapter1",
       "SetID": "dhn82m5",
       "Name": "Chapter I",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 88
     },
     {
       "ID": "1006_achv_demoliton",
@@ -631,7 +636,7 @@
       "Name": "Handyman",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "1006_achv_pacifist",
@@ -647,7 +652,7 @@
       "Name": "Keep away from children",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "2002_achv_burnswamp",
@@ -671,7 +676,7 @@
       "Name": "Haute cuisine",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "2004_achv_abyss",
@@ -703,15 +708,15 @@
       "Name": "Bubblekillerfamily",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "2008_achv_spotfly",
       "SetID": "dhn82m5",
       "Name": "Master of Thermodynamics",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "2009_achv_deathwheel",
@@ -765,9 +770,9 @@
       "ID": "3004_achv_sneeze",
       "SetID": "dhn82m5",
       "Name": "Achoo!!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "3005_achv_getting_rich",
@@ -805,17 +810,17 @@
       "ID": "3017_achv_chapter3",
       "SetID": "dhn82m5",
       "Name": "Chapter III",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "3017_achv_flycloud",
       "SetID": "dhn82m5",
       "Name": "Like a moth in the Wind",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "4004_achv_home",
@@ -838,7 +843,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 177,
       "Completed": 0
     }
   ],
@@ -846,8 +851,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:04:28.4727128+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:04:02.4974233+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:41.8852838+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:59:25.8934605+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:04:28.472739+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:58:50.7809175+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:04:02.497465+00:00"
 }

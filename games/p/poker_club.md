@@ -5,26 +5,26 @@ Rating: 3.83 (Ranked 1,043)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~412,663 |
-| Handy | 42.00% | ~228,050 |
-| Cold Caller | 40.00% | ~217,191 |
-| A Bit On The Side | 27.00% | ~146,604 |
-| Backdoor | 25.00% | ~135,744 |
-| Rank Amateur | 22.00% | ~119,455 |
-| Three Way | 19.00% | ~103,166 |
-| Deadly Assassin | 16.00% | ~86,876 |
-| Gutshot | 14.00% | ~76,017 |
-| Risk It For A Biscuit | 14.00% | ~76,017 |
-| Showoff | 13.00% | ~70,587 |
-| W.H.I.P. | 12.00% | ~65,157 |
+| Pro Creation | 76.00% | ~412,667 |
+| Handy | 42.00% | ~228,053 |
+| Cold Caller | 40.00% | ~217,193 |
+| A Bit On The Side | 27.00% | ~146,605 |
+| Backdoor | 25.00% | ~135,746 |
+| Rank Amateur | 22.00% | ~119,456 |
+| Three Way | 19.00% | ~103,167 |
+| Deadly Assassin | 16.00% | ~86,877 |
+| Gutshot | 14.00% | ~76,018 |
+| Risk It For A Biscuit | 14.00% | ~76,018 |
+| Showoff | 13.00% | ~70,588 |
+| W.H.I.P. | 12.00% | ~65,158 |
 | Bet Bet Bet | 10.00% | ~54,298 |
 | Blindman's Bluff | 9.00% | ~48,868 |
 | Poker Joker | 9.00% | ~48,868 |
-| Never Give Up | 8.00% | ~43,438 |
-| The Bigger They Are | 8.00% | ~43,438 |
-| Total Knock Out | 8.00% | ~43,438 |
-| Dog Eat Dog | 7.00% | ~38,008 |
-| Quack Quack | 7.00% | ~38,008 |
+| Never Give Up | 8.00% | ~43,439 |
+| The Bigger They Are | 8.00% | ~43,439 |
+| Total Knock Out | 8.00% | ~43,439 |
+| Dog Eat Dog | 7.00% | ~38,009 |
+| Quack Quack | 7.00% | ~38,009 |
 | Give Your Regards To Broadway | 6.00% | ~32,579 |
 | Check Yourself | 4.00% | ~21,719 |
 | Moneymaker | 4.00% | ~21,719 |
@@ -51,7 +51,7 @@ Rating: 3.83 (Ranked 1,043)
 | Rounder | 0.10% | ~543 |
 | Top Dog | 0.10% | ~543 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 542,977 (Ranked 33)  
+Progressed: 542,983 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,11 +287,11 @@ Completed: 2 (0.00%) (Ranked 373)
 | 2023-12-10 | 542,553 | 2 |
 | 2023-12-11 | 542,722 | 2 |
 | 2023-12-12 | 542,846 | 2 |
-| 2023-12-13 | 542,977 | 2 |
+| 2023-12-13 | 542,983 | 2 |
 ## Awards
-Max (Great for Beginners): 63  (Ranked 413)  
+Max (Great for Beginners): 63  (Ranked 414)  
 Sum: 189 (Ranked 412)  
-Diff (max vs sum): 1  
+Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 63 |

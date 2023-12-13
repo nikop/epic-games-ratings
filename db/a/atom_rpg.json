@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1349,
+  "EOS_Progressed": 1350,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3188,6 +3188,11 @@
       "Time": "2023-12-13T14:09:52.7617424+00:00",
       "NumProgressed": 1349,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T20:10:18.679563+00:00",
+      "NumProgressed": 1350,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3357,9 +3362,9 @@
       "ID": "ONE_SHOT_ONE_KILL_1",
       "SetID": "bf13m8j",
       "Name": "One shot, one kill",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 392
     },
     {
       "ID": "PACIFIST",
@@ -3391,7 +3396,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "RELICTS",
@@ -3407,7 +3412,7 @@
       "Name": "It was worth a shot",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SACRIFICE_1",
@@ -3431,7 +3436,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "SHOG",
@@ -3447,7 +3452,7 @@
       "Name": "Superhuman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "TRAVELER_1",
@@ -3463,7 +3468,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "WANDERER_1",
@@ -3486,15 +3491,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1349,
+      "Progressed": 1350,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:10:52.5994419+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:10:18.6795624+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.8327471+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:59:01.4529409+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:10:52.5994719+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:58:32.3105353+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:10:18.6795939+00:00"
 }

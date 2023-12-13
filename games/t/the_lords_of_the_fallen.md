@@ -12,15 +12,15 @@ Rating: 4.21 (Ranked 918)
 | No Mercy | 0.40% | ~10 |
 | Shades of Violence | 0.40% | ~10 |
 | Thriving in Darkness | 0.40% | ~10 |
-| Weapon Collector | 0.30% | ~7 |
-| Ammunition Collector | 0.30% | ~7 |
-| Throwable Collector | 0.30% | ~7 |
 | The Past Shapes the Present | 0.30% | ~7 |
 | A Rest Among the Dead | 0.30% | ~7 |
+| Weapon Collector | 0.20% | ~5 |
 | What Sights Contained Within | 0.20% | ~5 |
+| Ammunition Collector | 0.20% | ~5 |
 | Inferno Adept | 0.20% | ~5 |
 | Radiant Adept | 0.20% | ~5 |
 | Umbral Adept | 0.20% | ~5 |
+| Throwable Collector | 0.20% | ~5 |
 | Gesture Collector | 0.20% | ~5 |
 | Honed to Perfection | 0.20% | ~5 |
 | Rune Novice | 0.20% | ~5 |
@@ -69,7 +69,7 @@ Rating: 4.21 (Ranked 918)
 | Lingering Moments | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,378 (Ranked 223)  
+Progressed: 2,404 (Ranked 222)  
 Completed: 2 (0.08%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,14 +125,14 @@ Completed: 2 (0.08%) (Ranked 306)
 | 2023-12-10 | 2,324 | 2 |
 | 2023-12-11 | 2,337 | 2 |
 | 2023-12-12 | 2,347 | 2 |
-| 2023-12-13 | 2,378 | 2 |
+| 2023-12-13 | 2,404 | 2 |
 ## Awards
-Max (Character Customization): 195  (Ranked 294)  
-Sum: 458 (Ranked 337)  
+Max (Character Customization): 197  (Ranked 293)  
+Sum: 460 (Ranked 336)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 195 |
+| This game has Inclusive Character Customization | 197 |
 | This game has Great Boss Battles | 144 |
 | This game has Amazing Storytelling | 28 |
 | This game has Competitive Players | 25 |
@@ -198,3 +198,4 @@ Diff (max vs sum): -43
 | 2023-12-10 | 4.21 | 194 | 479 |
 | 2023-12-11 | 4.20 | 194 | 457 |
 | 2023-12-12 | 4.21 | 195 | 458 |
+| 2023-12-13 | 4.21 | 197 | 460 |

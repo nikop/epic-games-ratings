@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19034,
+  "EOS_Progressed": 19035,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13619,6 +13619,11 @@
       "Time": "2023-12-13T19:08:08.3168024+00:00",
       "NumProgressed": 19034,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-13T20:08:07.9036264+00:00",
+      "NumProgressed": 19035,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13718,7 +13723,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3045
+      "UsersEstimate": 3046
     },
     {
       "ID": "0013",
@@ -13726,7 +13731,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "0014",
@@ -13734,7 +13739,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3045
+      "UsersEstimate": 3046
     },
     {
       "ID": "0015",
@@ -13782,7 +13787,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "0021",
@@ -13814,7 +13819,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4187
+      "UsersEstimate": 4188
     },
     {
       "ID": "0025",
@@ -13854,7 +13859,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "0030",
@@ -13917,7 +13922,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19034,
+      "Progressed": 19035,
       "Completed": 4
     }
   ],
@@ -13925,8 +13930,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:08:08.316802+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:08:07.9036259+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:34.3621794+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:59:13.2637531+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:08:08.3168937+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:58:40.9495498+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:08:07.9037128+00:00"
 }

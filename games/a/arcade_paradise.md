@@ -1,22 +1,22 @@
 # Arcade Paradise
 [Store](https://store.epicgames.com/en-US/p/arcade-paradise)  
 [View Rawdata](../../db/a/arcade_paradise.json)  
-Rating: 4.58 (Ranked 452)  
+Rating: 4.58 (Ranked 453)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~668 |
-| Fetch Quest Complete | 91.00% | ~633 |
-| I can't wait! | 83.00% | ~578 |
-| Swish | 57.00% | ~397 |
-| Clean up on Aisle 9 | 41.00% | ~285 |
+| Pushing a pull door | 96.00% | ~670 |
+| Fetch Quest Complete | 91.00% | ~635 |
+| I can't wait! | 83.00% | ~579 |
+| Swish | 57.00% | ~398 |
+| Clean up on Aisle 9 | 41.00% | ~286 |
 | Machine Maxed | 30.00% | ~209 |
 | Bug Fixer | 26.00% | ~181 |
 | Existential dread | 26.00% | ~181 |
 | Gerald of Riviera | 26.00% | ~181 |
-| Goal | 22.00% | ~153 |
-| I ran the numbers | 15.00% | ~104 |
-| Taking the plunge | 14.00% | ~97 |
+| Goal | 22.00% | ~154 |
+| I ran the numbers | 15.00% | ~105 |
+| Taking the plunge | 14.00% | ~98 |
 | Hidden Packages | 11.00% | ~77 |
 | GOOOAAAL | 10.00% | ~70 |
 | Ahoy Hoy | 7.00% | ~49 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 452)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696 (Ranked 292)  
+Progressed: 698 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-11-23 | 694 | 0 |
 | 2023-12-02 | 695 | 0 |
 | 2023-12-03 | 696 | 0 |
+| 2023-12-13 | 698 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

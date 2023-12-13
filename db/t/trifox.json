@@ -4,7 +4,7 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewPlayers": 463,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -551,8 +551,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:08:49.8182808+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:08:40.0185236+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:10.5625015+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:02:05.8484505+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:08:49.8183065+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:00:56.8079454+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:08:40.0185549+00:00"
 }

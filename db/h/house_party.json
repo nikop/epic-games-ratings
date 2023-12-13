@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6570,
+  "EOS_Progressed": 6572,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6702,6 +6702,11 @@
       "Time": "2023-12-13T19:04:37.2955048+00:00",
       "NumProgressed": 6570,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-13T20:04:09.3112817+00:00",
+      "NumProgressed": 6572,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6775,9 +6780,9 @@
       "ID": "Bride",
       "SetID": "bmkn7o4",
       "Name": "The Bride",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 20
     },
     {
       "ID": "Casabrova",
@@ -7081,7 +7086,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "SmellBlood",
@@ -7264,21 +7269,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3609,
+      "Progressed": 3611,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6570,
+      "Progressed": 6572,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:04:37.2955044+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:04:09.3112813+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.173705+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:00:09.1404063+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:04:37.2955814+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:59:24.3398197+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:04:09.3113793+00:00"
 }

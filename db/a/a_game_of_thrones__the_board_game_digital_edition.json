@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1332,9 +1332,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30291,
+  "EOS_Progressed": 30292,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -26747,6 +26747,11 @@
       "Time": "2023-12-13T19:10:37.525071+00:00",
       "NumProgressed": 30291,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-12-13T20:10:06.6097047+00:00",
+      "NumProgressed": 30292,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 22,
@@ -26766,7 +26771,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "1017",
@@ -26774,7 +26779,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "1018",
@@ -26814,7 +26819,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "1023",
@@ -26862,7 +26867,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5452
+      "UsersEstimate": 5453
     },
     {
       "ID": "1029",
@@ -26894,7 +26899,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12116
+      "UsersEstimate": 12117
     },
     {
       "ID": "1033",
@@ -26933,15 +26938,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30291,
+      "Progressed": 30292,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:10:37.5250707+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:10:06.6097045+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:17.8374063+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:00:02.3805235+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:10:37.5251944+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:59:19.176+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:10:06.6098347+00:00"
 }

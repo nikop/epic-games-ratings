@@ -3,7 +3,7 @@
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
   "Ranking_Rating": 999,
-  "Ranking_Popularity": 288,
+  "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 373,
@@ -2015,18 +2015,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 1612,
       "NumberOfAwardsMax": 205
+    },
+    {
+      "Time": "2023-12-13T20:03:36.6216961+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 1614,
+      "NumberOfAwardsMax": 207
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1612,
-  "NumberOfAwardsMax": 205,
+  "NumberOfAwards": 1614,
+  "NumberOfAwardsMax": 207,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 205
+      "Count": 207
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2101,9 +2107,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 282984,
+  "EOS_Progressed": 282994,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29211,6 +29217,11 @@
       "Time": "2023-12-13T19:07:17.5309848+00:00",
       "NumProgressed": 282984,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T20:06:17.3259633+00:00",
+      "NumProgressed": 282994,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -29533,21 +29544,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 282984,
+      "Progressed": 282994,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 1143,
+      "Progressed": 1153,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-12-12T18:03:21.0446162+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:07:17.5309845+00:00",
+  "LastChanged": "2023-12-13T20:03:36.6216959+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:06:17.3259629+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.5678913+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:03:55.086778+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:07:17.5311604+00:00"
+  "LastUpdate_Ratings": "2023-12-13T20:03:36.6216964+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:06:17.3261188+00:00"
 }

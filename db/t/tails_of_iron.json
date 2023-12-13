@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2237,
+  "EOS_Progressed": 2238,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3942,6 +3942,11 @@
       "Time": "2023-12-13T01:52:17.292235+00:00",
       "NumProgressed": 2237,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-13T20:05:00.4179223+00:00",
+      "NumProgressed": 2238,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3953,7 +3958,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "Collect20Gold",
@@ -3977,7 +3982,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "CollectAllStatues",
@@ -4017,7 +4022,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "CompleteElderFaction",
@@ -4025,7 +4030,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "CompleteGuardFaction",
@@ -4033,7 +4038,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1835
     },
     {
       "ID": "CompleteHunterFaction",
@@ -4097,7 +4102,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "GetTHWeapon",
@@ -4105,7 +4110,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "Kill25Bugs",
@@ -4121,7 +4126,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "Kill25Mozi",
@@ -4129,7 +4134,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "MeetTheMoles",
@@ -4137,7 +4142,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "MysteryKingsChamber",
@@ -4169,7 +4174,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "RescueBrothers",
@@ -4177,7 +4182,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "ReturnPowerInMines",
@@ -4185,29 +4190,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2237,
+      "Progressed": 2238,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 878,
-      "Completed": 878
+      "Progressed": 879,
+      "Completed": 879
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:05:41.6605112+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:05:00.4179218+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:13.9280126+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:57:55.1569227+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:05:41.6605531+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:57:41.3906063+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:05:00.4179695+00:00"
 }

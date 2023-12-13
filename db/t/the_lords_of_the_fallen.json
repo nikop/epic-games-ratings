@@ -3,11 +3,11 @@
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
   "Ranking_Rating": 918,
-  "Ranking_Popularity": 294,
-  "Ranking_PopularitySum": 337,
-  "Ranking_EOS_Progress": 223,
+  "Ranking_Popularity": 293,
+  "Ranking_PopularitySum": 336,
+  "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -829,18 +829,24 @@
       "Rating": 4.21,
       "NumberOfAwards": 458,
       "NumberOfAwardsMax": 195
+    },
+    {
+      "Time": "2023-12-13T19:59:10.8483756+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 460,
+      "NumberOfAwardsMax": 197
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 458,
-  "NumberOfAwardsMax": 195,
+  "NumberOfAwards": 460,
+  "NumberOfAwardsMax": 197,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 195
+      "Count": 197
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -885,9 +891,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2378,
+  "EOS_Progressed": 2404,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4575,6 +4581,11 @@
       "Time": "2023-12-13T19:09:18.4571823+00:00",
       "NumProgressed": 2378,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T20:09:02.8234412+00:00",
+      "NumProgressed": 2404,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -4609,9 +4620,9 @@
       "ID": "TLOTF_ACHIEVEMENT_004",
       "SetID": "87e61g",
       "Name": "Weapon Collector",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_005",
@@ -4641,9 +4652,9 @@
       "ID": "TLOTF_ACHIEVEMENT_008",
       "SetID": "87e61g",
       "Name": "Ammunition Collector",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_009",
@@ -4673,9 +4684,9 @@
       "ID": "TLOTF_ACHIEVEMENT_012",
       "SetID": "87e61g",
       "Name": "Throwable Collector",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_013",
@@ -5090,16 +5101,16 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 2378,
+      "Progressed": 2404,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-12-12T15:58:54.954759+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:09:18.457182+00:00",
+  "LastChanged": "2023-12-13T19:59:10.8483754+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:09:02.8234408+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:58.7777436+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:59:50.7659564+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:09:18.4572491+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:59:10.8483758+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:09:02.8235056+00:00"
 }

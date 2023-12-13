@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 1.00% | ~273 |
+| Diligence as a goal | 1.00% | ~274 |
 | Qi Gong: Breath | 0.80% | ~5,744 |
 | Project Arena | 0.80% | ~219 |
 | The Old Grandmaster | 0.70% | ~5,026 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,042 (Ranked 24)  
+Progressed: 718,056 (Ranked 24)  
 Completed: 12,952 (1.80%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,15 +304,15 @@ Completed: 12,952 (1.80%) (Ranked 136)
 | 2023-12-10 | 717,948 | 12,951 |
 | 2023-12-11 | 717,971 | 12,952 |
 | 2023-12-12 | 717,993 | 12,952 |
-| 2023-12-13 | 718,042 | 12,952 |
+| 2023-12-13 | 718,056 | 12,952 |
 ## Awards
 Max (Great Boss Battles): 6,915  (Ranked 55)  
-Sum: 12,139 (Ranked 83)  
+Sum: 12,141 (Ranked 83)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,915 |
-| This game has Diverse Characters | 676 |
+| This game has Diverse Characters | 678 |
 | This game has Challenging Combat | 617 |
 | This game has Amazing Storytelling | 603 |
 | This game has Amazing Characters | 589 |
@@ -655,4 +655,4 @@ Diff (max vs sum): -28
 | 2023-12-10 | 4.82 | - | 6,901 | 12,110 |
 | 2023-12-11 | 4.82 | - | 6,909 | 12,126 |
 | 2023-12-12 | 4.82 | - | 6,915 | 12,138 |
-| 2023-12-13 | 4.82 | - | 6,915 | 12,139 |
+| 2023-12-13 | 4.82 | - | 6,915 | 12,141 |

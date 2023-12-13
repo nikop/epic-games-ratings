@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4637,9 +4637,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77947,
+  "EOS_Progressed": 77949,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25847,6 +25847,11 @@
       "Time": "2023-12-13T19:04:42.0251091+00:00",
       "NumProgressed": 77947,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-13T20:04:12.6662189+00:00",
+      "NumProgressed": 77949,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25906,7 +25911,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17148
+      "UsersEstimate": 17149
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -25970,7 +25975,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 14030
+      "UsersEstimate": 14031
     },
     {
       "ID": "CLAYFACE_3",
@@ -26082,7 +26087,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21825
+      "UsersEstimate": 21826
     },
     {
       "ID": "FREEZE_1_5",
@@ -26090,7 +26095,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15589
+      "UsersEstimate": 15590
     },
     {
       "ID": "FREEZE_2",
@@ -26162,7 +26167,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26502
+      "UsersEstimate": 26503
     },
     {
       "ID": "HARLEY_2",
@@ -26178,7 +26183,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15589
+      "UsersEstimate": 15590
     },
     {
       "ID": "HARLEY_4",
@@ -26226,7 +26231,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15589
+      "UsersEstimate": 15590
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -26258,7 +26263,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18707
+      "UsersEstimate": 18708
     },
     {
       "ID": "MYSTERY_03",
@@ -26266,7 +26271,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17148
+      "UsersEstimate": 17149
     },
     {
       "ID": "MYSTERY_04",
@@ -26274,7 +26279,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15589
+      "UsersEstimate": 15590
     },
     {
       "ID": "MYSTERY_05",
@@ -26282,7 +26287,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 14030
+      "UsersEstimate": 14031
     },
     {
       "ID": "MYSTERY_06",
@@ -26345,13 +26350,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77947,
+      "Progressed": 77949,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48227,
+      "Progressed": 48229,
       "Completed": 2675
     }
   ],
@@ -26359,8 +26364,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-12T19:58:35.1362928+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:04:42.0251089+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:04:12.6662184+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:00:30.7688816+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:04:42.0252382+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:59:40.8865527+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:04:12.6663505+00:00"
 }

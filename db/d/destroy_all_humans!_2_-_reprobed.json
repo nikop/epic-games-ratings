@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -491,9 +491,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -827,9 +827,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -852,8 +852,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:09:18.4058265+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:09:02.6988398+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.5493724+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:59:01.6445705+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:09:18.4058522+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:58:32.5073835+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:09:02.6988646+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9660,9 +9660,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126634,
+  "EOS_Progressed": 126652,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 939,
+  "EOS_NewPlayers": 957,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34865,6 +34865,11 @@
       "Time": "2023-12-13T19:09:45.9482962+00:00",
       "NumProgressed": 126634,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-13T20:09:25.1619569+00:00",
+      "NumProgressed": 126652,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -34876,7 +34881,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35028,7 +35033,7 @@
       "Name": "Not Today!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35036,7 +35041,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35066,9 +35071,9 @@
       "ID": "combat_kill_gentry",
       "SetID": "64l4lke",
       "Name": "No More Mouths to Feed",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 507
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -35076,7 +35081,7 @@
       "Name": "Meat and Greet",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35092,7 +35097,7 @@
       "Name": "Catch and Decease",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "combat_kill_librarian",
@@ -35100,7 +35105,7 @@
       "Name": "Overdue Notice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35116,7 +35121,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35172,7 +35177,7 @@
       "Name": "Rush Hour",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35186,9 +35191,9 @@
       "ID": "driving_biome_clear_farm",
       "SetID": "64l4lke",
       "Name": "Harvest Festival",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 760
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -35196,7 +35201,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "driving_distance_easy",
@@ -35228,7 +35233,7 @@
       "Name": "Autodidact",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "hero_story_complete_all",
@@ -35250,9 +35255,9 @@
       "ID": "hoarder_buy_epic_trinket",
       "SetID": "64l4lke",
       "Name": "Whale",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 760
     },
     {
       "ID": "hospital_full_service",
@@ -35284,7 +35289,7 @@
       "Name": "FNG",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35410,9 +35415,9 @@
       "ID": "combat_kill_chirurgeon",
       "SetID": "d3bcpc8",
       "Name": "Malpractice Assurance",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 76
     },
     {
       "ID": "combat_kill_collector",
@@ -35482,9 +35487,9 @@
       "ID": "relationships_positive_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "Friends \u0027Til the End",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35507,21 +35512,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126634,
+      "Progressed": 126652,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1503,
+      "Progressed": 1521,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-13T19:00:51.3220569+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:09:45.9482959+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:09:25.1619566+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T19:00:51.3220575+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:09:45.9484439+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:59:56.341296+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:09:25.1621243+00:00"
 }

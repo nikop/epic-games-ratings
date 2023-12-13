@@ -5,28 +5,28 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,464 |
-| Pay 'n' Spray | 52.00% | ~7,270 |
-| All Dressed Up for San Fierro | 27.00% | ~3,775 |
-| The American Dream | 20.00% | ~2,796 |
-| School's Out | 19.00% | ~2,656 |
+| Getting Started | 82.00% | ~11,468 |
+| Pay 'n' Spray | 52.00% | ~7,272 |
+| All Dressed Up for San Fierro | 27.00% | ~3,776 |
+| The American Dream | 20.00% | ~2,797 |
+| School's Out | 19.00% | ~2,657 |
 | Smooth Moves | 17.00% | ~2,377 |
-| What happens in Las Venturas... | 16.00% | ~2,237 |
-| Today Was a Good Day | 16.00% | ~2,237 |
+| What happens in Las Venturas... | 16.00% | ~2,238 |
+| Today Was a Good Day | 16.00% | ~2,238 |
 | Horror of the Santa Maria | 11.00% | ~1,538 |
 | Liberty City State of Mind | 10.00% | ~1,398 |
-| Original Gangster | 9.00% | ~1,258 |
-| The End of the Line | 8.00% | ~1,118 |
+| Original Gangster | 9.00% | ~1,259 |
+| The End of the Line | 8.00% | ~1,119 |
 | With Extra Dip | 7.00% | ~979 |
 | Saviour | 6.00% | ~839 |
 | They Can’t Stop All of Us | 5.00% | ~699 |
 | Rescue a Kitten Too? | 5.00% | ~699 |
 | What are the Odds | 4.00% | ~559 |
-| I’ll Have Two Number 9s | 3.00% | ~419 |
-| Bike or Biker | 3.00% | ~419 |
-| What the City Needs | 3.00% | ~419 |
-| Yes I Speak English | 3.00% | ~419 |
-| Public Enemy No. 1 | 3.00% | ~419 |
+| I’ll Have Two Number 9s | 3.00% | ~420 |
+| Bike or Biker | 3.00% | ~420 |
+| What the City Needs | 3.00% | ~420 |
+| Yes I Speak English | 3.00% | ~420 |
+| Public Enemy No. 1 | 3.00% | ~420 |
 | A Legitimate Business | 2.00% | ~280 |
 | Who Needs Directions? | 2.00% | ~280 |
 | Swiss Army Strife | 2.00% | ~280 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 498)
 | ...Here we go again | 0.50% | ~70 |
 | I Ain't No Buster | 0.40% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,980 (Ranked 160)  
+Progressed: 13,985 (Ranked 160)  
 Completed: 57 (0.41%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,14 +278,14 @@ Completed: 57 (0.41%) (Ranked 225)
 | 2023-12-10 | 13,930 | 56 |
 | 2023-12-11 | 13,941 | 57 |
 | 2023-12-12 | 13,961 | 57 |
-| 2023-12-13 | 13,980 | 57 |
+| 2023-12-13 | 13,985 | 57 |
 ## Awards
-Max (Great Boss Battles): 439  (Ranked 226)  
-Sum: 720 (Ranked 297)  
-Diff (max vs sum): -71  
+Max (Great Boss Battles): 442  (Ranked 224)  
+Sum: 723 (Ranked 297)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 439 |
+| This game has Great Boss Battles | 442 |
 | This game is Relaxing | 41 |
 | This game has Amazing Characters | 39 |
 | This game is Great for Beginners | 38 |
@@ -496,4 +496,4 @@ Diff (max vs sum): -71
 | 2023-12-09 | 4.55 | 431 | 710 |
 | 2023-12-11 | 4.55 | 435 | 714 |
 | 2023-12-12 | 4.56 | 439 | 719 |
-| 2023-12-13 | 4.56 | 439 | 720 |
+| 2023-12-13 | 4.56 | 442 | 723 |

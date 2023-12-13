@@ -2065,9 +2065,9 @@
       "ID": "CompleteChapter13",
       "SetID": "52ail55",
       "Name": "Slaughter and Siege wiv da Squeeze",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 96
     },
     {
       "ID": "CompleteChapter14",
@@ -2280,8 +2280,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:08:02.2376866+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:08:02.8161845+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:56:58.482812+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:57:46.6546248+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:08:02.2377227+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:57:34.6153631+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:08:02.8162196+00:00"
 }

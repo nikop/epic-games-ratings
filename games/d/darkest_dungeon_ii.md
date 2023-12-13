@@ -6,39 +6,39 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 4.00% | ~60 |
+| Malpractice Assurance | 5.00% | ~76 |
 | This Belongs in a Museum | 2.00% | ~2,533 |
 | This guy... again? | 2.00% | ~30 |
 | Bloody Graduation | 2.00% | ~30 |
 | Lost and Found | 2.00% | ~30 |
-| Not Today! | 1.00% | ~1,266 |
-| Creep and Sleep | 1.00% | ~1,266 |
-| Meat and Greet | 1.00% | ~1,266 |
-| Catch and Decease | 1.00% | ~1,266 |
-| Overdue Notice | 1.00% | ~1,266 |
-| Escape from the Black Hole | 1.00% | ~1,266 |
-| Autodidact | 1.00% | ~1,266 |
+| Not Today! | 1.00% | ~1,267 |
+| Creep and Sleep | 1.00% | ~1,267 |
+| Meat and Greet | 1.00% | ~1,267 |
+| Catch and Decease | 1.00% | ~1,267 |
+| Overdue Notice | 1.00% | ~1,267 |
+| Escape from the Black Hole | 1.00% | ~1,267 |
+| Autodidact | 1.00% | ~1,267 |
 | Serenity Now! | 0.80% | ~1,013 |
 | Ploughshares to Swords | 0.80% | ~12 |
-| Don't Make Me Turn This Coach Around | 0.70% | ~886 |
-| Rush Hour | 0.70% | ~886 |
-| To Grandmother's House | 0.70% | ~886 |
-| FNG | 0.70% | ~886 |
+| Don't Make Me Turn This Coach Around | 0.70% | ~887 |
+| Rush Hour | 0.70% | ~887 |
+| To Grandmother's House | 0.70% | ~887 |
+| FNG | 0.70% | ~887 |
+| Friends 'Til the End | 0.70% | ~11 |
 | It Rings a Bell | 0.60% | ~760 |
 | Dissector | 0.60% | ~760 |
 | Deprogramming | 0.60% | ~760 |
 | It Happens | 0.60% | ~760 |
 | Merry Time | 0.60% | ~760 |
+| Harvest Festival | 0.60% | ~760 |
+| Whale | 0.60% | ~760 |
 | Nope | 0.60% | ~760 |
-| Friends 'Til the End | 0.60% | ~9 |
 | Predator | 0.50% | ~633 |
 | Banishment | 0.50% | ~633 |
 | Now Stay Dead | 0.50% | ~633 |
 | Reverse Banditry | 0.50% | ~633 |
 | Spelunker | 0.50% | ~633 |
-| Harvest Festival | 0.50% | ~633 |
 | Ramble On | 0.50% | ~633 |
-| Whale | 0.50% | ~633 |
 | A Place to Lay Your Head | 0.50% | ~633 |
 | Worldly Traveller | 0.50% | ~633 |
 | Road Trip | 0.50% | ~633 |
@@ -50,13 +50,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Boxcar Kid | 0.40% | ~507 |
 | Unfulfilled Desires | 0.40% | ~507 |
 | Ichthyophobic | 0.40% | ~507 |
+| No More Mouths to Feed | 0.40% | ~507 |
 | A Clear Conscience | 0.40% | ~507 |
 | When You Want Something Done Right | 0.40% | ~507 |
 | Unshackled | 0.40% | ~507 |
 | Slap on the Wrist | 0.40% | ~6 |
 | This Looks Familiar | 0.30% | ~380 |
 | Hope Rekindled | 0.30% | ~380 |
-| No More Mouths to Feed | 0.30% | ~380 |
 | Utopia | 0.30% | ~380 |
 | Hot Air | 0.30% | ~380 |
 | Eyes Up | 0.30% | ~380 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,634 (Ranked 84)  
+Progressed: 126,652 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 3 (0.00%) (Ranked 373)
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
-| 2023-12-13 | 126,634 | 3 |
+| 2023-12-13 | 126,652 | 3 |
 ## Awards
 Max (Character Customization): 7,665  (Ranked 52)  
 Sum: 20,333 (Ranked 59)  

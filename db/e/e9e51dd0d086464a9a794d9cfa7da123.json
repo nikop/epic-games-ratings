@@ -4,7 +4,7 @@
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65,
+  "EOS_Progressed": 66,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -344,6 +344,11 @@
       "Time": "2023-12-10T20:09:27.7679949+00:00",
       "NumProgressed": 65,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T20:10:32.2601228+00:00",
+      "NumProgressed": 66,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-16T10:08:21.0101681+00:00",
@@ -538,7 +543,7 @@
       "ID": "HAB",
       "SetID": "2621k8c",
       "Name": "Healthy and beautiful",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -594,7 +599,7 @@
       "ID": "IC",
       "SetID": "2621k8c",
       "Name": "Intimate Contact",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
       "UsersEstimate": 28
     },
@@ -746,7 +751,7 @@
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -842,7 +847,7 @@
       "ID": "Preaching",
       "SetID": "2621k8c",
       "Name": "Preaching",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -866,7 +871,7 @@
       "ID": "Richer",
       "SetID": "2621k8c",
       "Name": "Richer",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -1099,14 +1104,14 @@
     {
       "ID": "2621k8c",
       "IsBase": true,
-      "Progressed": 65,
+      "Progressed": 66,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:11:08.7760137+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:10:32.2601222+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.2310853+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:58:39.3453876+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:11:08.776111+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:58:14.8375194+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:10:32.2602121+00:00"
 }

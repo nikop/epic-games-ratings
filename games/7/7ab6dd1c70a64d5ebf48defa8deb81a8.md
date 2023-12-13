@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 17.00% | ~46 |
-| Trinity | 15.00% | ~41 |
+| Break Out | 17.00% | ~47 |
+| Trinity | 14.00% | ~39 |
 | Find Allies | 12.00% | ~33 |
 | Powerful Allies | 11.00% | ~30 |
 | Adventurer | 11.00% | ~30 |
@@ -13,18 +13,18 @@
 | Scholar | 11.00% | ~30 |
 | I Found It | 11.00% | ~30 |
 | The Collector | 11.00% | ~30 |
-| A Taste of Wrath | 10.00% | ~27 |
-| Tributes of Caladrias | 10.00% | ~27 |
-| Shatter Them All | 10.00% | ~27 |
-| Stone Collection | 10.00% | ~27 |
-| Fashion Victim | 9.00% | ~24 |
+| A Taste of Wrath | 10.00% | ~28 |
+| Tributes of Caladrias | 10.00% | ~28 |
+| Shatter Them All | 10.00% | ~28 |
+| Stone Collection | 10.00% | ~28 |
+| Fashion Victim | 9.00% | ~25 |
 | The Mentor | 8.00% | ~22 |
 | Big Bazar | 8.00% | ~22 |
 | Essence Blow | 7.00% | ~19 |
-| Calm before the Storm | 6.00% | ~16 |
-| To Battle | 6.00% | ~16 |
-| Godslayer | 6.00% | ~16 |
-| Alchemist | 6.00% | ~16 |
+| Calm before the Storm | 6.00% | ~17 |
+| To Battle | 6.00% | ~17 |
+| Godslayer | 6.00% | ~17 |
+| Alchemist | 6.00% | ~17 |
 | Fine Feathers Make Fine Birds | 5.00% | ~14 |
 | Clear Sight | 4.00% | ~11 |
 | Airborne | 4.00% | ~11 |
@@ -34,15 +34,15 @@
 | All There Is | 3.00% | ~8 |
 | False God | 3.00% | ~8 |
 | A Queen's Tale | 3.00% | ~8 |
-| Flawless Victory | 2.00% | ~5 |
-| All That Gold | 2.00% | ~5 |
-| Summiter | 2.00% | ~5 |
+| Flawless Victory | 2.00% | ~6 |
+| All That Gold | 2.00% | ~6 |
+| Summiter | 2.00% | ~6 |
 | Forgemaster | 1.00% | ~3 |
 | Shardbearer | 1.00% | ~3 |
 | Feeling Fancy | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 271 (Ranked 373)  
-Completed: 3 (1.11%) (Ranked 166)  
+Progressed: 276 (Ranked 371)  
+Completed: 3 (1.09%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,4 +103,4 @@ Completed: 3 (1.11%) (Ranked 166)
 | 2023-12-10 | 262 | 2 |
 | 2023-12-11 | 264 | 2 |
 | 2023-12-12 | 265 | 2 |
-| 2023-12-13 | 271 | 3 |
+| 2023-12-13 | 276 | 3 |

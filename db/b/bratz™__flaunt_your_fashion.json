@@ -2,9 +2,9 @@
   "ID": "2d6693ed985e4774a19d77291f8593db",
   "Name": "Bratz\u2122: Flaunt Your Fashion",
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
-  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -325,9 +325,9 @@
       "ID": "1",
       "SetID": "41h3j82",
       "Name": "Welcome to Stilesville",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "10",
@@ -341,9 +341,9 @@
       "ID": "11",
       "SetID": "41h3j82",
       "Name": "Creating New Trends",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 70,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "12",
@@ -365,9 +365,9 @@
       "ID": "14",
       "SetID": "41h3j82",
       "Name": "Seoul Hidden Style",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "15",
@@ -437,9 +437,9 @@
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 70,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "6",
@@ -486,8 +486,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:06:06.917878+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:05:21.0837387+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:26.8638955+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:59:10.5152413+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:06:06.9178885+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:58:39.3339893+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:05:21.0837569+00:00"
 }

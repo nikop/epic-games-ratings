@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1143,
+  "EOS_Progressed": 1144,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.7,
+  "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -3175,6 +3175,11 @@
       "Time": "2023-12-13T10:05:12.951728+00:00",
       "NumProgressed": 1143,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-12-13T20:05:42.1885264+00:00",
+      "NumProgressed": 1144,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 50,
@@ -3186,15 +3191,15 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "10",
       "SetID": "d0g98p",
       "Name": "Piece of Cake",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 480
     },
     {
       "ID": "11",
@@ -3202,7 +3207,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "12",
@@ -3226,7 +3231,7 @@
       "Name": "Bird of Prey",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "15",
@@ -3266,7 +3271,7 @@
       "Name": "A Grand Visit",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "2",
@@ -3274,7 +3279,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "20",
@@ -3282,7 +3287,7 @@
       "Name": "Stardust",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "21",
@@ -3290,7 +3295,7 @@
       "Name": "Take Heart",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "22",
@@ -3298,7 +3303,7 @@
       "Name": "Heartbreaker",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "23",
@@ -3314,7 +3319,7 @@
       "Name": "Kidnapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "25",
@@ -3426,7 +3431,7 @@
       "Name": "Stronger!",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "38",
@@ -3498,7 +3503,7 @@
       "Name": "Extraordinary!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "46",
@@ -3522,7 +3527,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "49",
@@ -3538,7 +3543,7 @@
       "Name": "Well Rested",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "50",
@@ -3562,7 +3567,7 @@
       "Name": "Fun Guy",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "8",
@@ -3570,7 +3575,7 @@
       "Name": "Tragic Brave",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "9",
@@ -3578,14 +3583,14 @@
       "Name": "Curtain Call",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 1143,
+      "Progressed": 1144,
       "Completed": 88
     }
   ],
@@ -3593,8 +3598,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-12-13T19:06:33.5453156+00:00",
+  "LastChanged_Achievements": "2023-12-13T20:05:42.1885259+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:03.7064009+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:58:07.7545904+00:00",
-  "LastUpdate_Achievements": "2023-12-13T19:06:33.5453811+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:57:50.9086481+00:00",
+  "LastUpdate_Achievements": "2023-12-13T20:05:42.1885669+00:00"
 }
