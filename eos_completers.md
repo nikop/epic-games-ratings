@@ -35,7 +35,7 @@
 | 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 13.83% |
 | 34 | [Seven Doors](games/s/seven_doors.md) | 13.64% |
 | 35 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 13.25% |
-| 36 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.27% |
+| 36 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.26% |
 | 37 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 38 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.98% |
 | 39 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
@@ -72,8 +72,8 @@
 | 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.69% |
 | 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 71 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
-| 74 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.50% |
+| 73 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.50% |
+| 74 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.41% |
 | 75 | [JARS](games/j/jars.md) | 4.95% |
 | 76 | [Bugsnax](games/b/bugsnax.md) | 4.86% |
 | 77 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
@@ -334,21 +334,21 @@
 | 332 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
 | 332 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
 | 332 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 0.04% |
+| 335 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.03% |
 | 335 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
 | 335 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 335 | [Old World](games/o/old_world.md) | 0.03% |
 | 335 | [Saturnalia](games/s/saturnalia.md) | 0.03% |
 | 335 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
 | 335 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
-| 341 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 341 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
-| 341 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
-| 341 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
-| 341 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 341 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
-| 341 | [Good Company](games/g/good_company.md) | 0.02% |
-| 341 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 341 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 342 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
+| 342 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
+| 342 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
+| 342 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
+| 342 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 342 | [Good Company](games/g/good_company.md) | 0.02% |
+| 342 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 342 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 350 | [Battlefield™ 2042](games/b/battlefield™_2042.md) | 0.01% |
 | 350 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 350 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
@@ -793,4 +793,4 @@
 | 373 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 373 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 373 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,726 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,727 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
