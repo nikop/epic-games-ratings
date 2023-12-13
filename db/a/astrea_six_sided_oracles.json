@@ -2,9 +2,9 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100,
+  "EOS_Progressed": 101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -504,6 +504,11 @@
       "Time": "2023-12-12T13:10:45.4833555+00:00",
       "NumProgressed": 100,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T19:07:21.9958131+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -858,7 +863,7 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
       "UsersEstimate": 52
     },
@@ -868,7 +873,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "MindIlluminator",
@@ -940,7 +945,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ReflexiveMind",
@@ -1299,14 +1304,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 100,
+      "Progressed": 101,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:07:05.5727651+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:07:21.9958128+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.3287789+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:58:11.9068666+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:07:05.5728512+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:58:29.9715104+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:07:21.9958894+00:00"
 }

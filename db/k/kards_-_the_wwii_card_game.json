@@ -2,12 +2,12 @@
   "ID": "d34cf6aeceb94c579af0236fe1185b79",
   "Name": "KARDS - The WWII Card Game",
   "ProductSlug": "kards-the-world-war-ii-card-game",
-  "Ranking_Rating": 758,
+  "Ranking_Rating": 757,
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 160,
-  "Ranking_EOS_Progress": 796,
+  "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -2913,10 +2913,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 3892,
       "NumberOfAwardsMax": 607
+    },
+    {
+      "Time": "2023-12-13T18:58:50.4507872+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 3894,
+      "NumberOfAwardsMax": 607
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3892,
+  "NumberOfAwards": 3894,
   "NumberOfAwardsMax": 607,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2942,7 +2948,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 469
+      "Count": 470
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2966,7 +2972,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 408
+      "Count": 409
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2992,8 +2998,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2023-12-13T17:58:32.4304946+00:00",
+  "LastChanged": "2023-12-13T18:58:50.450787+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:49.2317017+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:58:32.4304952+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:10:24.27473+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:58:50.4507877+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:10:37.697078+00:00"
 }

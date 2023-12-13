@@ -6,35 +6,35 @@ Rating: 4.57 (Ranked 482)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Read Between The Lines | 63.00% | ~721 |
-| To Hell In A Handcart | 62.00% | ~709 |
+| To Hell In A Handcart | 62.00% | ~710 |
 | High Profile | 54.00% | ~618 |
 | Whispers In The Dark | 52.00% | ~595 |
 | Fond Memories | 50.00% | ~572 |
 | A Method To His Madness | 47.00% | ~538 |
-| History Check | 46.00% | ~526 |
-| The New World | 44.00% | ~503 |
+| History Check | 46.00% | ~527 |
+| The New World | 45.00% | ~515 |
 | Gaze Into The Abyss | 43.00% | ~492 |
 | Open Sesame | 43.00% | ~492 |
-| Lock, Stock, And Barrel | 42.00% | ~480 |
-| Sticky Fingers | 42.00% | ~480 |
-| Knives Out | 42.00% | ~480 |
+| Lock, Stock, And Barrel | 42.00% | ~481 |
+| Sticky Fingers | 42.00% | ~481 |
+| Knives Out | 42.00% | ~481 |
 | Back In The Saddle | 41.00% | ~469 |
 | Land, Ho! | 41.00% | ~469 |
 | No Man Is An Island | 40.00% | ~458 |
-| At Wits' End | 39.00% | ~446 |
-| Up In Flames | 38.00% | ~435 |
+| At Wits' End | 39.00% | ~447 |
 | Fhtagn! | 38.00% | ~435 |
+| Up In Flames | 37.00% | ~424 |
 | Going Once... | 36.00% | ~412 |
 | Bookworm | 36.00% | ~412 |
 | Let Me Be Frank | 34.00% | ~389 |
 | No Stone Unturned | 31.00% | ~355 |
-| Brain Food | 30.00% | ~343 |
+| Brain Food | 30.00% | ~344 |
 | Curiosity Killed The Cat | 18.00% | ~206 |
 | Read It And Weep | 18.00% | ~206 |
 | Big Breakthrough | 12.00% | ~137 |
 | Reawakened | 3.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,144 (Ranked 260)  
+Progressed: 1,145 (Ranked 260)  
 Completed: 30 (2.62%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 30 (2.62%) (Ranked 118)
 | 2023-12-10 | 1,063 | 28 |
 | 2023-12-11 | 1,109 | 30 |
 | 2023-12-12 | 1,134 | 30 |
-| 2023-12-13 | 1,144 | 30 |
+| 2023-12-13 | 1,145 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

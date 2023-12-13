@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,505 |
-| Off to a good start | 66.00% | ~1,116 |
-| Do... or do not. There is no try | 51.00% | ~862 |
-| A good blaster at your side | 30.00% | ~507 |
+| New Recruit | 89.00% | ~1,506 |
+| Off to a good start | 66.00% | ~1,117 |
+| Do... or do not. There is no try | 51.00% | ~863 |
+| A good blaster at your side | 30.00% | ~508 |
 | I suggest a new strategy | 19.00% | ~321 |
-| Scrap collector | 18.00% | ~304 |
-| All right, I'll give it a try | 17.00% | ~287 |
-| Great shot, kid! | 17.00% | ~287 |
+| Scrap collector | 18.00% | ~305 |
+| All right, I'll give it a try | 17.00% | ~288 |
+| Great shot, kid! | 17.00% | ~288 |
 | Collector | 14.00% | ~237 |
 | Shoot first | 14.00% | ~237 |
 | The power of the Force | 13.00% | ~220 |
@@ -22,9 +22,9 @@
 | Never tell me the odds! | 8.00% | ~135 |
 | A cunning warrior | 8.00% | ~135 |
 | What's the cargo? | 7.00% | ~118 |
-| Impressive. Most impressive. | 6.00% | ~101 |
-| Judge me by my size, do you? | 6.00% | ~101 |
-| Support the troops | 6.00% | ~101 |
+| Impressive. Most impressive. | 6.00% | ~102 |
+| Judge me by my size, do you? | 6.00% | ~102 |
+| Support the troops | 6.00% | ~102 |
 | "Gonk? Gonk!" | 5.00% | ~85 |
 | Distinguished | 5.00% | ~85 |
 | A tremor in the Force | 5.00% | ~85 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,691 (Ranked 239)  
+Progressed: 1,692 (Ranked 239)  
 Completed: 1 (0.06%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 1 (0.06%) (Ranked 315)
 | 2023-12-10 | 1,659 | 1 |
 | 2023-12-11 | 1,674 | 1 |
 | 2023-12-12 | 1,684 | 1 |
-| 2023-12-13 | 1,691 | 1 |
+| 2023-12-13 | 1,692 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

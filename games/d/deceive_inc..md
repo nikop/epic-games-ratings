@@ -1,28 +1,28 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.58 (Ranked 453)  
+Rating: 4.58 (Ranked 452)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,709 |
-| Mainframe Hacker | 23.00% | ~4,377 |
-| The Spy who eliminated me | 23.00% | ~4,377 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,710 |
+| Mainframe Hacker | 23.00% | ~4,378 |
+| The Spy who eliminated me | 23.00% | ~4,378 |
 | Tomorrow Never Dyes | 22.00% | ~4,187 |
 | From the Vault with Love | 18.00% | ~3,426 |
 | Never Say Loser Again | 18.00% | ~3,426 |
 | Tailor-Made | 18.00% | ~3,426 |
 | For your Eyes only | 18.00% | ~3,426 |
-| Assistant Accountant | 17.00% | ~3,235 |
+| Assistant Accountant | 17.00% | ~3,236 |
 | You Only Live Twice | 16.00% | ~3,045 |
 | Fully Decked Out | 16.00% | ~3,045 |
 | A view to Win | 13.00% | ~2,474 |
 | The Living Portrait | 12.00% | ~2,284 |
 | Smells Like Trouble | 12.00% | ~2,284 |
-| My Motto, My Creed | 11.00% | ~2,093 |
-| Private Collection | 11.00% | ~2,093 |
-| Killer Looks | 11.00% | ~2,093 |
-| Hostile Takeover | 11.00% | ~2,093 |
+| My Motto, My Creed | 11.00% | ~2,094 |
+| Private Collection | 11.00% | ~2,094 |
+| Killer Looks | 11.00% | ~2,094 |
+| Hostile Takeover | 11.00% | ~2,094 |
 | Keycards Royale | 10.00% | ~1,903 |
 | Dr. No Kill | 10.00% | ~1,903 |
 | In It to Win It | 9.00% | ~1,713 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 453)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,031 (Ranked 145)  
+Progressed: 19,034 (Ranked 145)  
 Completed: 4 (0.02%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,6 +279,7 @@ Completed: 4 (0.02%) (Ranked 342)
 | 2023-12-10 | 19,023 | 4 |
 | 2023-12-11 | 19,027 | 4 |
 | 2023-12-12 | 19,031 | 4 |
+| 2023-12-13 | 19,034 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

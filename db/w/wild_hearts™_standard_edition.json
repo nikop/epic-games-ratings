@@ -18,11 +18,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 389,
+  "EOS_Progressed": 390,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.06,
+  "EOS_Completed_Percentage": 2.05,
   "EosHistory": [
     {
       "Time": "2023-09-19T03:08:38.9448107+00:00",
@@ -1788,6 +1788,11 @@
       "Time": "2023-12-13T18:09:23.2885633+00:00",
       "NumProgressed": 389,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-13T19:09:38.5996293+00:00",
+      "NumProgressed": 390,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -1800,7 +1805,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "achievement_10",
@@ -1824,7 +1829,7 @@
       "Name": "Canyon of Karakuri",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_13",
@@ -1840,7 +1845,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "achievement_15",
@@ -1848,7 +1853,7 @@
       "Name": "Memory Rouser",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_16",
@@ -1856,7 +1861,7 @@
       "Name": "Distance Devourer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_17",
@@ -1870,9 +1875,9 @@
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_19",
@@ -1888,7 +1893,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_20",
@@ -1896,7 +1901,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "achievement_21",
@@ -1920,7 +1925,7 @@
       "Name": "Relentless Kemono Hunter",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_24",
@@ -1952,7 +1957,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_28",
@@ -1960,7 +1965,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "achievement_29",
@@ -1968,7 +1973,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_3",
@@ -1976,7 +1981,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_30",
@@ -2040,7 +2045,7 @@
       "Name": "Hidden History",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_38",
@@ -2064,7 +2069,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_40",
@@ -2096,7 +2101,7 @@
       "Name": "Team Hunter",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_44",
@@ -2112,7 +2117,7 @@
       "Name": "Helpful Heart",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_46",
@@ -2120,7 +2125,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_47",
@@ -2128,7 +2133,7 @@
       "Name": "Threaded Harmony",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_48",
@@ -2144,7 +2149,7 @@
       "Name": "Reincarnation Cycle Stopper",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_6",
@@ -2152,15 +2157,15 @@
       "Name": "Commencing of Quests",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_7",
       "SetID": "2cpn27e",
       "Name": "Budding Conjuror",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_8",
@@ -2168,7 +2173,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_9",
@@ -2176,20 +2181,20 @@
       "Name": "Karakuri Minato",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 389,
+      "Progressed": 390,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:09:23.288563+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:09:38.599629+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:59.7578969+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:57:09.3681482+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:09:23.2886059+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:57:26.3457181+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:09:38.5996622+00:00"
 }

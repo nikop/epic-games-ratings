@@ -6,17 +6,17 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 63.00% | ~215 |
+| The Adventure Begins | 63.00% | ~216 |
 | Cartographer | 56.00% | ~192 |
 | A Strange Artefact | 52.00% | ~178 |
-| Insomnia | 48.00% | ~164 |
+| Insomnia | 48.00% | ~165 |
 | Lost & Found & Lost Again | 42.00% | ~144 |
 | From Whence we Came | 42.00% | ~144 |
 | Fire and Flood | 40.00% | ~137 |
 | Spooky! | 37.00% | ~127 |
 | Shennong Herbalist | 35.00% | ~120 |
-| Treasure Hunt | 34.00% | ~116 |
-| Good Mama | 32.00% | ~109 |
+| Treasure Hunt | 34.00% | ~117 |
+| Good Mama | 32.00% | ~110 |
 | O Captain My Captain | 31.00% | ~106 |
 | Taxonomist | 28.00% | ~96 |
 | Plunderer | 28.00% | ~96 |
@@ -36,11 +36,11 @@ Number of Ratings: 20  (23.09.2022)
 | The New Director | 14.00% | ~48 |
 | And Here Is Your Statue | 14.00% | ~48 |
 | Plays Well With Others | 14.00% | ~48 |
-| The Director is Dead | 13.00% | ~44 |
-| Discovery | 13.00% | ~44 |
+| The Director is Dead | 13.00% | ~45 |
+| Discovery | 13.00% | ~45 |
 | Very Classy | 12.00% | ~41 |
 | Under the Table | 11.00% | ~38 |
-| It's Complicated | 11.00% | ~38 |
+| It's Complicated | 10.00% | ~34 |
 | Cold Blood, Warm Heart | 9.00% | ~31 |
 | Errand Runner | 9.00% | ~31 |
 | SCHMETTERLING | 8.00% | ~27 |
@@ -53,12 +53,12 @@ Number of Ratings: 20  (23.09.2022)
 | A Paris Sunset | 6.00% | ~21 |
 | The Director Perseveres | 5.00% | ~17 |
 | The Round Table | 5.00% | ~17 |
-| A Familiar Figure | 4.00% | ~14 |
 | X Marks the Spot | 4.00% | ~14 |
-| Risk/Reward | 4.00% | ~14 |
 | Frugal | 4.00% | ~14 |
+| A Familiar Figure | 3.00% | ~10 |
 | Lunatic | 3.00% | ~10 |
 | A Perfect Map | 3.00% | ~10 |
+| Risk/Reward | 3.00% | ~10 |
 | Look Ma, No Equipment! | 3.00% | ~10 |
 | I Set Forth Again... and Again... and Again... | 3.00% | ~10 |
 | Abominable Hunger | 0.90% | ~3 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.90% | ~3 |
 | Now I've Seen It All | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342 (Ranked 347)  
+Progressed: 343 (Ranked 347)  
 Completed: 1 (0.29%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 1 (0.29%) (Ranked 244)
 | 2023-11-22 | 340 | 1 |
 | 2023-11-26 | 341 | 1 |
 | 2023-12-09 | 342 | 1 |
+| 2023-12-13 | 343 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -340,6 +340,11 @@
       "Time": "2023-12-09T15:09:08.9693206+00:00",
       "NumProgressed": 342,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T19:11:07.8042598+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -407,15 +412,15 @@
       "Name": "The Director is Dead",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach-ascension-inspector-return",
       "SetID": "17ih7ma",
       "Name": "A Familiar Figure",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "ach-butterflies",
@@ -535,7 +540,7 @@
       "Name": "Discovery",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach-drinkingContest",
@@ -575,23 +580,23 @@
       "Name": "The Adventure Begins",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ach-hardExpeditions",
       "SetID": "17ih7ma",
       "Name": "Risk/Reward",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "ach-interspeciesLove",
       "SetID": "17ih7ma",
       "Name": "It\u0027s Complicated",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "ach-joinClubChallenge",
@@ -695,7 +700,7 @@
       "Name": "Insomnia",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ach-pacifist-goals",
@@ -743,7 +748,7 @@
       "Name": "Good Mama",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ach-redElk",
@@ -799,7 +804,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -830,7 +835,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 1
     }
   ],
@@ -838,8 +843,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:10:54.9806574+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:11:07.8042595+00:00",
   "LastUpdate_AppInfo": "2023-12-09T12:59:37.4155215+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:00:47.8503832+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:10:54.9807121+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:01:03.2869275+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:11:07.8043077+00:00"
 }

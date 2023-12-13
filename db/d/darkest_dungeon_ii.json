@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9574,10 +9574,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20315,
       "NumberOfAwardsMax": 7665
+    },
+    {
+      "Time": "2023-12-13T19:00:51.3220571+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20333,
+      "NumberOfAwardsMax": 7665
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20315,
+  "NumberOfAwards": 20333,
   "NumberOfAwardsMax": 7665,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9609,7 +9615,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1570
+      "Count": 1576
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9645,7 +9651,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1358
+      "Count": 1370
     },
     {
       "Text": "This game has a Creative Community",
@@ -9654,9 +9660,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126618,
+  "EOS_Progressed": 126634,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 925,
+  "EOS_NewPlayers": 939,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34854,6 +34860,11 @@
       "Time": "2023-12-13T18:09:30.6389282+00:00",
       "NumProgressed": 126618,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-13T19:09:45.9482962+00:00",
+      "NumProgressed": 126634,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -34863,9 +34874,9 @@
       "ID": "affinity_meltdown_first_time",
       "SetID": "64l4lke",
       "Name": "Don\u0027t Make Me Turn This Coach Around",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 886
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -34897,7 +34908,7 @@
       "Name": "Resurrection",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -34905,7 +34916,7 @@
       "Name": "Unleash Hell",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -34913,7 +34924,7 @@
       "Name": "Funny Guy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -34921,7 +34932,7 @@
       "Name": "Long Live the King",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -34929,7 +34940,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -34937,7 +34948,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -34945,7 +34956,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -34993,7 +35004,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2532
+      "UsersEstimate": 2533
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35041,7 +35052,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "combat_kill_gaunts",
@@ -35167,9 +35178,9 @@
       "ID": "driving_biome_clear_coast",
       "SetID": "64l4lke",
       "Name": "Merry Time",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 760
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -35233,7 +35244,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -35265,7 +35276,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -35321,7 +35332,7 @@
       "Name": "Unshackled",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "run_victory_act02",
@@ -35385,7 +35396,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -35393,7 +35404,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -35401,7 +35412,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "combat_kill_collector",
@@ -35417,7 +35428,7 @@
       "Name": "These Boots Are Made For Kickin\u0027",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "combat_kill_warlord_crusader",
@@ -35425,7 +35436,7 @@
       "Name": "No Mercy",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -35441,7 +35452,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -35489,28 +35500,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126618,
+      "Progressed": 126634,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1487,
+      "Progressed": 1503,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-13T16:00:37.238998+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:09:30.6389279+00:00",
+  "LastChanged": "2023-12-13T19:00:51.3220569+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:09:45.9482959+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:00:35.2603124+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:09:30.6391331+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:00:51.3220575+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:09:45.9484439+00:00"
 }

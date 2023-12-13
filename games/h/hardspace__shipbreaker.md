@@ -6,35 +6,35 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 74.00% | ~721 |
+| Breathe In… Breathe Out… | 74.00% | ~722 |
 | It’s Heating up! | 70.00% | ~682 |
-| Let’s patch things up | 66.00% | ~643 |
+| Let’s patch things up | 66.00% | ~644 |
 | I can fix it! | 63.00% | ~614 |
 | Post No Bills | 55.00% | ~536 |
-| Truly Shocking! | 49.00% | ~477 |
+| Truly Shocking! | 49.00% | ~478 |
 | Critical Thinker | 36.00% | ~351 |
 | Always Finding Your Mark | 30.00% | ~292 |
 | The Weight of the World | 30.00% | ~292 |
-| Act I Complete | 29.00% | ~282 |
-| A drop in the Ocean | 29.00% | ~282 |
-| No Niños | 26.00% | ~253 |
+| Act I Complete | 29.00% | ~283 |
+| A drop in the Ocean | 29.00% | ~283 |
+| No Niños | 26.00% | ~254 |
 | I ain’t afraid of no Ghost | 25.00% | ~244 |
 | Act II Complete | 22.00% | ~214 |
 | A successful procedure! | 19.00% | ~185 |
 | Bing Bang BOOM | 19.00% | ~185 |
-| Breaking the Ice | 18.00% | ~175 |
+| Breaking the Ice | 18.00% | ~176 |
 | Solidarity Forever | 13.00% | ~127 |
-| A Tucked Tale | 10.00% | ~97 |
-| The best thing money can buy | 10.00% | ~97 |
+| A Tucked Tale | 10.00% | ~98 |
+| The best thing money can buy | 10.00% | ~98 |
 | Act III Complete | 7.00% | ~68 |
 | Fire and Brimstone | 6.00% | ~58 |
 | See you Space Cowboy | 6.00% | ~58 |
-| Ghost in the Ship | 2.00% | ~19 |
+| Ghost in the Ship | 2.00% | ~20 |
 | Disagree and Commit | 0.10% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974 (Ranked 272)  
+Progressed: 975 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-09 | 971 | 0 |
 | 2023-12-10 | 973 | 0 |
 | 2023-12-12 | 974 | 0 |
+| 2023-12-13 | 975 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

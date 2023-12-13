@@ -6,19 +6,19 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~868 |
-| My little farm | 64.00% | ~686 |
-| Every beginning is difficult | 63.00% | ~675 |
-| Gofer | 57.00% | ~611 |
-| 3, 2, 1, mine | 56.00% | ~600 |
+| Cabin boy | 81.00% | ~869 |
+| My little farm | 64.00% | ~687 |
+| Every beginning is difficult | 63.00% | ~676 |
+| Gofer | 57.00% | ~612 |
+| 3, 2, 1, mine | 56.00% | ~601 |
 | O Captain! My Captain! | 55.00% | ~590 |
 | Seafarer | 51.00% | ~547 |
 | Intangible | 43.00% | ~461 |
 | Greed for gold | 43.00% | ~461 |
-| I'm out of here for a while | 42.00% | ~450 |
+| I'm out of here for a while | 42.00% | ~451 |
 | In a mint condition | 39.00% | ~418 |
 | Licence to Kill | 37.00% | ~397 |
-| Pirates! | 35.00% | ~375 |
+| Pirates! | 35.00% | ~376 |
 | Collectionitis | 30.00% | ~322 |
 | Megalomania | 29.00% | ~311 |
 | Christening | 28.00% | ~300 |
@@ -30,14 +30,14 @@ Number of Ratings: 53  (23.09.2022)
 | Conquistador | 14.00% | ~150 |
 | Panic buying | 11.00% | ~118 |
 | Your vessel, my vessel | 10.00% | ~107 |
-| Just a scratch | 9.00% | ~96 |
-| All mine! | 9.00% | ~96 |
+| Just a scratch | 9.00% | ~97 |
+| All mine! | 9.00% | ~97 |
 | Paths of Glory | 8.00% | ~86 |
 | Panel of experts | 8.00% | ~86 |
 | Maker | 7.00% | ~75 |
 | Conglomerate | 7.00% | ~75 |
-| Buccaneer | 6.00% | ~64 |
 | The Grande Bouffe | 6.00% | ~64 |
+| Buccaneer | 5.00% | ~54 |
 | Flying Dutchman | 5.00% | ~54 |
 | A true pirate! | 4.00% | ~43 |
 | Overpopulation | 4.00% | ~43 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~8 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,072 (Ranked 268)  
+Progressed: 1,073 (Ranked 268)  
 Completed: 1 (0.09%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,6 +261,7 @@ Completed: 1 (0.09%) (Ranked 301)
 | 2023-12-10 | 1,069 | 1 |
 | 2023-12-11 | 1,070 | 1 |
 | 2023-12-12 | 1,072 | 1 |
+| 2023-12-13 | 1,073 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

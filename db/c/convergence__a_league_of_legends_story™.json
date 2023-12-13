@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 948,
+  "EOS_Progressed": 949,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2559,6 +2559,11 @@
       "Time": "2023-12-13T07:09:20.5945335+00:00",
       "NumProgressed": 948,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-13T19:10:41.0872908+00:00",
+      "NumProgressed": 949,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2690,7 +2695,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2840,9 +2845,9 @@
       "ID": "PidgeAlluraDefeated",
       "SetID": "a9e499d",
       "Name": "The Wicked Twins",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 199
     },
     {
       "ID": "PidgeDefeated",
@@ -2858,15 +2863,15 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 199
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2896,9 +2901,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 199
     },
     {
       "ID": "SpeedRun",
@@ -2993,7 +2998,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 948,
+      "Progressed": 949,
       "Completed": 6
     }
   ],
@@ -3001,8 +3006,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:10:27.8196709+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:10:41.0872906+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:01:12.4772482+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:10:27.8197173+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:01:25.1875477+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:10:41.0873399+00:00"
 }

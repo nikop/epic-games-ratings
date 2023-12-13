@@ -5,9 +5,9 @@
   "Ranking_Rating": 918,
   "Ranking_Popularity": 294,
   "Ranking_PopularitySum": 337,
-  "Ranking_EOS_Progress": 224,
+  "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -885,9 +885,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2361,
+  "EOS_Progressed": 2378,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4570,6 +4570,11 @@
       "Time": "2023-12-13T18:09:02.1314492+00:00",
       "NumProgressed": 2361,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T19:09:18.4571823+00:00",
+      "NumProgressed": 2378,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -4732,9 +4737,9 @@
       "ID": "TLOTF_ACHIEVEMENT_020",
       "SetID": "87e61g",
       "Name": "Comrades",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_021",
@@ -4758,7 +4763,7 @@
       "Name": "No Mercy",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_024",
@@ -4790,7 +4795,7 @@
       "Name": "Shades of Violence",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_028",
@@ -5030,7 +5035,7 @@
       "Name": "Thriving in Darkness",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_058",
@@ -5085,7 +5090,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 2361,
+      "Progressed": 2378,
       "Completed": 2
     }
   ],
@@ -5093,8 +5098,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-12T15:58:54.954759+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:09:02.1314487+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:09:18.457182+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:58.7777436+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:59:34.6051956+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:09:02.1315535+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:59:50.7659564+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:09:18.4572491+00:00"
 }

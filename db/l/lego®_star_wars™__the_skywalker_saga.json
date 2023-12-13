@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3791,9 +3791,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 52083,
+  "EOS_Progressed": 52084,
   "EOS_Completed": 252,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -14451,6 +14451,11 @@
       "Time": "2023-12-13T18:08:30.2880035+00:00",
       "NumProgressed": 52083,
       "NumCompleted": 252
+    },
+    {
+      "Time": "2023-12-13T19:08:46.8743411+00:00",
+      "NumProgressed": 52084,
+      "NumCompleted": 252
     }
   ],
   "TotalAchievements": 45,
@@ -14478,7 +14483,7 @@
       "Name": "\u0027\u0027What have you done with those plans?\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "COMBAT_MULTIPLIER_OF_30",
@@ -14518,7 +14523,7 @@
       "Name": "\u0027\u0027GONK!\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "COMPLETE_ALL_HUB_RACES",
@@ -14574,7 +14579,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30729
+      "UsersEstimate": 30730
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -14622,7 +14627,7 @@
       "Name": "The Force Awakens",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 14062
+      "UsersEstimate": 14063
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -14646,7 +14651,7 @@
       "Name": "\u0027\u0027Hey, what are you trying to push on us?\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "COMPLETE_FLIGHT_LEVEL_WITHOUT_DYING",
@@ -14654,7 +14659,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29687
+      "UsersEstimate": 29688
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -14678,7 +14683,7 @@
       "Name": "The Slice",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "COMPLETE_SKYWALKER_SAGA",
@@ -14702,7 +14707,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 30729
+      "UsersEstimate": 30730
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -14742,7 +14747,7 @@
       "Name": "\u0027\u0027Raw, untamed power\u0027\u0027",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4687
+      "UsersEstimate": 4688
     },
     {
       "ID": "JEDI_MIND_TRICKS_CANTINA",
@@ -14806,7 +14811,7 @@
       "Name": "\u0027\u0027Now I am the Master\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "TRUE_JEDI_ONE_LEVEL",
@@ -14821,15 +14826,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 52083,
+      "Progressed": 52084,
       "Completed": 252
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-12-11T19:00:15.5232847+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:08:30.2880031+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:08:46.8743408+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:10.3071296+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:01:50.4243571+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:08:30.2880765+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:02:02.5496566+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:08:46.8744128+00:00"
 }

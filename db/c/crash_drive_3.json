@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -629,6 +629,11 @@
       "Time": "2023-12-09T23:07:13.3507864+00:00",
       "NumProgressed": 413,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T19:09:02.7742215+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -758,9 +763,9 @@
       "ID": "FRONT_AND_BACKFLIP",
       "SetID": "20koof9",
       "Name": "To and Fro",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -808,7 +813,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -832,7 +837,7 @@
       "Name": "Earth Defense Force",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
@@ -864,7 +869,7 @@
       "Name": "Toot Toot!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -880,7 +885,7 @@
       "Name": "Your Highness",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEFT_LEVEL",
@@ -928,7 +933,7 @@
       "Name": "Multiply that!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -992,15 +997,15 @@
       "Name": "Rocketman",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "USE_TUNNEL",
       "SetID": "20koof9",
       "Name": "I see the light!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -1016,7 +1021,7 @@
       "Name": "Event Amateur",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -1054,9 +1059,9 @@
       "ID": "WIN_ROBBER",
       "SetID": "20koof9",
       "Name": "In the Bag!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -1079,7 +1084,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 2
     }
   ],
@@ -1087,8 +1092,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:08:46.1387911+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:09:02.7742211+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:14.6005473+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:00:18.4478034+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:08:46.1388258+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:00:34.6148228+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:09:02.7742571+00:00"
 }

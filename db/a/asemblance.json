@@ -2,9 +2,9 @@
   "ID": "c2091e25d1cb42ce8fc93136ad484f05",
   "Name": "Asemblance",
   "ProductSlug": "asemblance",
-  "Ranking_EOS_Progress": 796,
+  "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-06-25T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:57.2950095+00:00",
   "LastChanged": "2023-03-31T05:57:57.2950097+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:06.6569509+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:59:39.624395+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:05:40.2588428+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:59:56.4640143+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:05:58.6375658+00:00"
 }

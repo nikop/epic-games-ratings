@@ -7,7 +7,7 @@ Rating: 4.87 (Ranked 25)
 | ---- | ---------- | ----- |
 | Start with a bang! | 20.00% | ~904 |
 | Feeling the beat! | 20.00% | ~904 |
-| You can pet the cat! | 18.00% | ~814 |
+| You can pet the cat! | 19.00% | ~859 |
 | Who put gears in there? | 17.00% | ~768 |
 | Cream of the Crop | 16.00% | ~723 |
 | Thanks for the free chip, Peppermint! | 16.00% | ~723 |
@@ -50,7 +50,7 @@ Rating: 4.87 (Ranked 25)
 | OK, well THEY came after ME! | 1.00% | ~45 |
 | You ever parry a volcano? | 1.00% | ~45 |
 | New bad guys? No problem! | 1.00% | ~30 |
-| Easy Listening | 0.60% | ~27 |
+| Easy Listening | 0.70% | ~32 |
 | Now this is how you fight like a team! | 0.60% | ~27 |
 | Choose your own adventure | 0.60% | ~18 |
 | Problem solved... wait, what? | 0.50% | ~23 |

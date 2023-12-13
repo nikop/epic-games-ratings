@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -376,11 +376,11 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2028,
+  "EOS_Progressed": 2029,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:31.998977+00:00",
@@ -2886,6 +2886,11 @@
       "Time": "2023-12-12T19:04:18.2902331+00:00",
       "NumProgressed": 2028,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-13T19:06:12.9266872+00:00",
+      "NumProgressed": 2029,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2905,7 +2910,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2961,7 +2966,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -2969,7 +2974,7 @@
       "Name": "For Balance",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -2977,7 +2982,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2991,9 +2996,9 @@
       "ID": "ACH_GHOST_TOWN",
       "SetID": "8j30i9k",
       "Name": "Ghost Town",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_GOLD_DIGGER",
@@ -3017,7 +3022,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -3145,7 +3150,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -3193,7 +3198,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3209,7 +3214,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -3225,7 +3230,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -3257,7 +3262,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -3273,7 +3278,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3305,7 +3310,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -3320,15 +3325,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2028,
+      "Progressed": 2029,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-26T10:59:42.9428977+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:05:55.3810021+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:06:12.9266869+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.1210181+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:00:34.0410937+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:05:55.3810475+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:00:50.230365+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:06:12.9267384+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17195,
+  "EOS_Progressed": 17196,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7134,6 +7134,11 @@
       "Time": "2023-12-13T16:06:09.0327663+00:00",
       "NumProgressed": 17195,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T19:06:25.7633441+00:00",
+      "NumProgressed": 17196,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -7145,7 +7150,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16335
+      "UsersEstimate": 16336
     },
     {
       "ID": "ACH001",
@@ -7153,7 +7158,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14788
+      "UsersEstimate": 14789
     },
     {
       "ID": "ACH0010",
@@ -7161,7 +7166,7 @@
       "Name": "Table for Six",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "ACH0011",
@@ -7241,7 +7246,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12380
+      "UsersEstimate": 12381
     },
     {
       "ID": "ACH0020",
@@ -7265,7 +7270,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "ACH0023",
@@ -7297,7 +7302,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9285
+      "UsersEstimate": 9286
     },
     {
       "ID": "ACH004",
@@ -7305,7 +7310,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14960
+      "UsersEstimate": 14961
     },
     {
       "ID": "ACH005",
@@ -7329,7 +7334,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "ACH008",
@@ -7352,7 +7357,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17195,
+      "Progressed": 17196,
       "Completed": 1
     }
   ],
@@ -7360,8 +7365,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:06:08.0317666+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:06:25.7633438+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:50.9415215+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:59:25.0767868+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:06:08.0318209+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:59:41.2807435+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:06:25.7633842+00:00"
 }

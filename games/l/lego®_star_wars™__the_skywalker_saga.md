@@ -10,9 +10,9 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''I don't like you either!'' | 79.00% | ~41,146 |
 | ''Impressive, most impressive'' | 72.00% | ~37,500 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~37,500 |
-| The Phantom Menace | 59.00% | ~30,729 |
-| ''Aggressive Negotiations'' | 59.00% | ~30,729 |
-| ''I can fly anything'' | 57.00% | ~29,687 |
+| The Phantom Menace | 59.00% | ~30,730 |
+| ''Aggressive Negotiations'' | 59.00% | ~30,730 |
+| ''I can fly anything'' | 57.00% | ~29,688 |
 | ''And who gave you permission...?'' | 54.00% | ~28,125 |
 | A New Hope | 48.00% | ~25,000 |
 | Attack of the Clones | 47.00% | ~24,479 |
@@ -20,20 +20,20 @@ Number of Ratings: 2,536  (23.09.2022)
 | The Empire Strikes Back | 38.00% | ~19,792 |
 | ''A fine addition to my collection'' | 38.00% | ~19,792 |
 | Return of the Jedi | 32.00% | ~16,667 |
-| The Force Awakens | 27.00% | ~14,062 |
+| The Force Awakens | 27.00% | ~14,063 |
 | The Last Jedi | 23.00% | ~11,979 |
 | The Rise of Skywalker | 20.00% | ~10,417 |
 | ''It's true... all of it'' | 19.00% | ~9,896 |
 | ''Get the crews to their fighters'' | 19.00% | ~9,896 |
-| ''Raw, untamed power'' | 9.00% | ~4,687 |
+| ''Raw, untamed power'' | 9.00% | ~4,688 |
 | Rishi Maze | 5.00% | ~2,604 |
 | ''Only one business in the Galaxy...'' | 5.00% | ~2,604 |
 | ''You may fire when ready'' | 4.00% | ~2,083 |
-| ''What have you done with those plans?'' | 3.00% | ~1,562 |
-| ''GONK!'' | 3.00% | ~1,562 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,562 |
-| The Slice | 3.00% | ~1,562 |
-| ''Now I am the Master'' | 3.00% | ~1,562 |
+| ''What have you done with those plans?'' | 3.00% | ~1,563 |
+| ''GONK!'' | 3.00% | ~1,563 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,563 |
+| The Slice | 3.00% | ~1,563 |
+| ''Now I am the Master'' | 3.00% | ~1,563 |
 | ''Hello there!'' | 2.00% | ~1,042 |
 | Unknown Regions | 2.00% | ~1,042 |
 | ''Do or do not. There is no try'' | 2.00% | ~1,042 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You needn't worry about your reward'' | 2.00% | ~1,042 |
 | ''I've never seen a real one!'' | 1.00% | ~521 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,083 (Ranked 114)  
+Progressed: 52,084 (Ranked 114)  
 Completed: 252 (0.48%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 252 (0.48%) (Ranked 214)
 | 2023-12-10 | 52,067 | 251 |
 | 2023-12-11 | 52,074 | 251 |
 | 2023-12-12 | 52,078 | 252 |
-| 2023-12-13 | 52,083 | 252 |
+| 2023-12-13 | 52,084 | 252 |
 ## Awards
 Max (Great Boss Battles): 2,450  (Ranked 105)  
 Sum: 6,733 (Ranked 127)  

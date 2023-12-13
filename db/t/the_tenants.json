@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-03-25T23:00:00+00:00",
@@ -315,9 +315,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9749,
+  "EOS_Progressed": 9750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -875,6 +875,11 @@
       "Time": "2023-12-11T11:03:14.9315628+00:00",
       "NumProgressed": 9749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T19:05:35.0959119+00:00",
+      "NumProgressed": 9750,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 86,
@@ -902,7 +907,7 @@
       "Name": "Agent",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_AGENT_EXPERT",
@@ -918,7 +923,7 @@
       "Name": "Master Agent",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_AND_SO_IT_BEGINS",
@@ -942,7 +947,7 @@
       "Name": "A Real Landlord",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_BABYSITTER",
@@ -950,7 +955,7 @@
       "Name": "Babysitter",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_BABYSITTER_EXPERT",
@@ -1038,7 +1043,7 @@
       "Name": "Cleaning Service",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_COLOMBIAN_PRINCE",
@@ -1094,7 +1099,7 @@
       "Name": "Filthy Rich",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_FINDERS_KEEPERS",
@@ -1166,7 +1171,7 @@
       "Name": "Home, Sweet Home",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_HOW_SWEET",
@@ -1222,7 +1227,7 @@
       "Name": "Kill It With Gas",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_KITCHEN_HELL",
@@ -1270,7 +1275,7 @@
       "Name": "Millionaire",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_MR_CLEAN",
@@ -1278,7 +1283,7 @@
       "Name": "Mr Clean",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_NO_RETIREMENT_FOR_YOU",
@@ -1350,7 +1355,7 @@
       "Name": "Rat Race",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_REALTOR",
@@ -1390,7 +1395,7 @@
       "Name": "Expert Renovator",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_RENOVATOR_MASTER",
@@ -1398,7 +1403,7 @@
       "Name": "Master Renovator",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_RENTAL_BONANZA",
@@ -1414,7 +1419,7 @@
       "Name": "Run, Forrest, Run!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_SENPAI",
@@ -1470,7 +1475,7 @@
       "Name": "TGIF",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_THE_AFTERSHOCK",
@@ -1573,21 +1578,21 @@
     {
       "ID": "13614nd",
       "IsBase": true,
-      "Progressed": 9749,
+      "Progressed": 9750,
       "Completed": 0
     },
     {
       "ID": "1ejmoln",
       "IsBase": false,
-      "Progressed": 246,
+      "Progressed": 247,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
   "LastChanged": "2023-07-15T20:59:23.7762639+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:05:16.1981469+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:05:35.0959114+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:35.786665+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:58:56.7593889+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:05:16.1982144+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:59:15.2303973+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:05:35.0960258+00:00"
 }

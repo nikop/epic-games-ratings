@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 57.00% | ~57 |
-| Purification Pioneer | 55.00% | ~55 |
-| Mechanical Buddy | 52.00% | ~52 |
+| Meissa's Savior | 57.00% | ~58 |
+| Purification Pioneer | 55.00% | ~56 |
+| Mechanical Buddy | 51.00% | ~52 |
 | Dicesmithing Time! | 49.00% | ~49 |
 | Endless Tricks | 46.00% | ~46 |
 | Sanctuary Guardian | 45.00% | ~45 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 447)  
+Progressed: 101 (Ranked 446)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,3 +151,4 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-07 | 98 | 0 |
 | 2023-12-11 | 99 | 0 |
 | 2023-12-12 | 100 | 0 |
+| 2023-12-13 | 101 | 0 |

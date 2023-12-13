@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1283,9 +1283,9 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 290
     },
     {
       "ID": "REMAKE_004",
@@ -1331,9 +1331,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 101
     },
     {
       "ID": "Remake_010",
@@ -1450,8 +1450,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:08:26.389037+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:08:42.0614694+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:59:27.4376086+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:08:26.3890603+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:59:43.1793638+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:08:42.0614935+00:00"
 }

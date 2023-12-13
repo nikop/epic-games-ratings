@@ -49,13 +49,13 @@
 | Defeat Isgrimm | 9.00% | ~4 |
 | Defeat Undergast | 9.00% | ~4 |
 | Elynn's Tale | 9.00% | ~4 |
+| Crypt of the Revenant | 9.00% | ~4 |
 | Mage Teacher | 9.00% | ~4 |
 | Friend of Grey Dusk Vale | 9.00% | ~4 |
 | Defeat Ianna | 7.00% | ~3 |
 | Defeat Rohen | 7.00% | ~3 |
 | Defeat Yria | 7.00% | ~3 |
 | Lytra's Tale | 7.00% | ~3 |
-| Crypt of the Revenant | 7.00% | ~3 |
 | Tuscari Sea Portal | 7.00% | ~3 |
 | Master Alchemist | 7.00% | ~3 |
 | A Monopoly of Might | 7.00% | ~3 |

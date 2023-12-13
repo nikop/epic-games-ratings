@@ -216,9 +216,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 948,
+  "EOS_Progressed": 949,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2401,6 +2401,11 @@
       "Time": "2023-12-13T17:05:51.7810355+00:00",
       "NumProgressed": 948,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T19:07:04.6626081+00:00",
+      "NumProgressed": 949,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2635,9 +2640,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 142
     },
     {
       "ID": "NewBeginning",
@@ -2771,9 +2776,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 123
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2884,7 +2889,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 948,
+      "Progressed": 949,
       "Completed": 1
     }
   ],
@@ -2892,8 +2897,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:06:47.4529838+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:07:04.6626078+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:00:47.8268943+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:06:47.4530295+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:01:03.2025063+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:07:04.6626514+00:00"
 }

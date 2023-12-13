@@ -53,7 +53,7 @@ Rating: 4.62 (Ranked 372)
 | I've Got Everything I Need Right Here | 0.60% | ~34 |
 | Pruning for Progress | 0.60% | ~34 |
 | Duality | 0.60% | ~34 |
-| Against the Odds | 0.40% | ~22 |
+| Against the Odds | 0.50% | ~28 |
 | Snap Out of It! | 0.30% | ~17 |
 | The Magic That Empowers Me! | 0.30% | ~17 |
 | Jack of All Tomes | 0.30% | ~17 |

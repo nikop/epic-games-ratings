@@ -2,9 +2,9 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 437,
+  "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.5,
+  "EOS_Completed_Percentage": 5.45,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -589,6 +589,11 @@
       "Time": "2023-12-09T16:04:26.038642+00:00",
       "NumProgressed": 109,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-13T19:08:20.7676899+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 26,
@@ -614,9 +619,9 @@
       "ID": "Bonus",
       "SetID": "6j29jep",
       "Name": "Something more...",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "Bonus_Fragile",
@@ -807,14 +812,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:08:05.6316695+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:08:20.7676896+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:46.2082602+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:01:55.6505602+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:08:05.6316875+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:02:07.6830182+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:08:20.7677056+00:00"
 }

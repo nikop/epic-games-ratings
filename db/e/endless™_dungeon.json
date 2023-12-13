@@ -2,9 +2,9 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 251,
+  "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1314,
+  "EOS_Progressed": 1315,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2550,6 +2550,11 @@
       "Time": "2023-12-13T06:04:23.9035326+00:00",
       "NumProgressed": 1314,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T19:05:26.0028808+00:00",
+      "NumProgressed": 1315,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2674,7 +2679,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -2738,7 +2743,7 @@
       "Name": "Long Live Rock",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -2801,14 +2806,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1314,
+      "Progressed": 1315,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:05:06.7482744+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:05:26.0028804+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.2067733+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:02:44.401807+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:05:06.7483086+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:03:05.4130307+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:05:26.0029174+00:00"
 }

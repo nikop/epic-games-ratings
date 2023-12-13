@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5547,9 +5547,9 @@
       "Count": 424
     }
   ],
-  "EOS_Progressed": 239348,
+  "EOS_Progressed": 239390,
   "EOS_Completed": 584,
-  "EOS_NewPlayers": 3422,
+  "EOS_NewPlayers": 3421,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22832,6 +22832,11 @@
       "Time": "2023-12-13T18:09:59.2374663+00:00",
       "NumProgressed": 239348,
       "NumCompleted": 584
+    },
+    {
+      "Time": "2023-12-13T19:10:13.8737448+00:00",
+      "NumProgressed": 239390,
+      "NumCompleted": 584
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22884,7 +22889,7 @@
       "Name": "Chaos",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "Defeat_Cube",
@@ -22908,7 +22913,7 @@
       "Name": "Forever is a Long Time Coming",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "Defeat_Guardian",
@@ -22916,7 +22921,7 @@
       "Name": "Power Surge",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "Defeat_Mantis",
@@ -22932,7 +22937,7 @@
       "Name": "The God Gambit",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "Defeat_Nightweaver",
@@ -22940,7 +22945,7 @@
       "Name": "Dark Designs",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "Defeat_Special_Enemies",
@@ -23004,7 +23009,7 @@
       "Name": "Equal Measures",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "Meet_Mudtooth",
@@ -23020,7 +23025,7 @@
       "Name": "Blue Goddess",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "Obtain_Archetype",
@@ -23052,7 +23057,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -23068,7 +23073,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -23132,7 +23137,7 @@
       "Name": "Scrap Collector",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "Obtain_Scrap_B",
@@ -23156,7 +23161,7 @@
       "Name": "All These Traits\uFFFD",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "Obtain_Traits_C",
@@ -23196,7 +23201,7 @@
       "Name": "Make Some Room",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -23283,13 +23288,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 239348,
+      "Progressed": 239390,
       "Completed": 584
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 18513,
+      "Progressed": 18555,
       "Completed": 249
     }
   ],
@@ -23297,8 +23302,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-13T18:03:34.2954219+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:09:59.2374659+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:10:13.8737445+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:03:34.2954224+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:09:59.2376139+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:03:55.4639267+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:10:13.8738471+00:00"
 }

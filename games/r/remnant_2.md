@@ -23,18 +23,18 @@ Rating: 4.75 (Ranked 148)
 | Almost There | 0.50% | ~1,197 |
 | Good, But Could Be Better! | 0.50% | ~1,197 |
 | Trait Chaser | 0.50% | ~1,197 |
-| Chaos | 0.40% | ~957 |
-| Forever is a Long Time Coming | 0.40% | ~957 |
-| Power Surge | 0.40% | ~957 |
-| The God Gambit | 0.40% | ~957 |
-| Dark Designs | 0.40% | ~957 |
-| Equal Measures | 0.40% | ~957 |
-| Blue Goddess | 0.40% | ~957 |
-| Shhh...It's a Secret | 0.40% | ~957 |
-| Was This Supposed To Happen? | 0.40% | ~957 |
-| Scrap Collector | 0.40% | ~957 |
-| All These Traits� | 0.40% | ~957 |
-| Make Some Room | 0.40% | ~957 |
+| Chaos | 0.40% | ~958 |
+| Forever is a Long Time Coming | 0.40% | ~958 |
+| Power Surge | 0.40% | ~958 |
+| The God Gambit | 0.40% | ~958 |
+| Dark Designs | 0.40% | ~958 |
+| Equal Measures | 0.40% | ~958 |
+| Blue Goddess | 0.40% | ~958 |
+| Shhh...It's a Secret | 0.40% | ~958 |
+| Was This Supposed To Happen? | 0.40% | ~958 |
+| Scrap Collector | 0.40% | ~958 |
+| All These Traits� | 0.40% | ~958 |
+| Make Some Room | 0.40% | ~958 |
 | Ghost in the Machine | 0.30% | ~718 |
 | Traitor | 0.30% | ~718 |
 | Madman's Paradise | 0.30% | ~718 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | You Shall Pass | 0.20% | ~37 |
 | A Foul Feast | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,348 (Ranked 66)  
+Progressed: 239,390 (Ranked 66)  
 Completed: 584 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 584 (0.24%) (Ranked 252)
 | 2023-12-10 | 238,247 | 577 |
 | 2023-12-11 | 238,673 | 579 |
 | 2023-12-12 | 239,053 | 581 |
-| 2023-12-13 | 239,348 | 584 |
+| 2023-12-13 | 239,390 | 584 |
 ## Awards
 Max (Great Boss Battles): 2,741  (Ranked 101)  
 Sum: 6,868 (Ranked 126)  

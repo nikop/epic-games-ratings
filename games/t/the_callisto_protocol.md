@@ -7,8 +7,8 @@ Rating: 4.19 (Ranked 939)
 | ---- | ---------- | ----- |
 | Get a Grip | 10.00% | ~1,653 |
 | Paper Jams | 9.00% | ~1,488 |
-| Flesh Wound | 8.00% | ~1,322 |
-| Float Like A Butterfly | 8.00% | ~1,322 |
+| Flesh Wound | 8.00% | ~1,323 |
+| Float Like A Butterfly | 8.00% | ~1,323 |
 | Chew 'Em Up | 7.00% | ~1,157 |
 | The Outer Way | 7.00% | ~1,157 |
 | Two Heads Are Better Than One | 6.00% | ~992 |
@@ -21,11 +21,11 @@ Rating: 4.19 (Ranked 939)
 | Crash Site | 6.00% | ~992 |
 | Full Circle | 6.00% | ~992 |
 | Power Up | 6.00% | ~992 |
-| Keep Fighting | 6.00% | ~267 |
-| You Need a Gun | 5.00% | ~826 |
-| I Do Belong Here | 5.00% | ~826 |
-| Terminated | 5.00% | ~826 |
-| What Lies Beneath | 5.00% | ~826 |
+| Keep Fighting | 6.00% | ~268 |
+| You Need a Gun | 5.00% | ~827 |
+| I Do Belong Here | 5.00% | ~827 |
+| Terminated | 5.00% | ~827 |
+| What Lies Beneath | 5.00% | ~827 |
 | It's Time | 5.00% | ~223 |
 | Giving Back | 4.00% | ~661 |
 | The Commonality | 3.00% | ~496 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,530 (Ranked 150)  
+Progressed: 16,533 (Ranked 150)  
 Completed: 81 (0.49%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 81 (0.49%) (Ranked 213)
 | 2023-12-09 | 16,521 | 81 |
 | 2023-12-10 | 16,523 | 81 |
 | 2023-12-11 | 16,525 | 81 |
-| 2023-12-13 | 16,530 | 81 |
+| 2023-12-13 | 16,533 | 81 |
 ## Awards
 Max (Quickly Understood Controls): 85  (Ranked 388)  
 Sum: 505 (Ranked 326)  

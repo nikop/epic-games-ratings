@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58216,
+  "EOS_Progressed": 58217,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14036,6 +14036,11 @@
       "Time": "2023-12-13T14:04:18.1559089+00:00",
       "NumProgressed": 58216,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-13T19:05:18.7715941+00:00",
+      "NumProgressed": 58217,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14135,7 +14140,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5239
+      "UsersEstimate": 5240
     },
     {
       "ID": "FoolMeTwice",
@@ -14207,7 +14212,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "IsThisPossible",
@@ -14391,7 +14396,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "TotalBummer",
@@ -14438,7 +14443,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58216,
+      "Progressed": 58217,
       "Completed": 6
     }
   ],
@@ -14446,8 +14451,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:04:59.1955954+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:05:18.771594+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:54.7796961+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:57:09.5357752+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:04:59.1956931+00:00"
+  "LastUpdate_Ratings": "2023-12-13T18:57:26.3888742+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:05:18.7716722+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1601,9 +1601,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 16530,
+  "EOS_Progressed": 16533,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9496,6 +9496,11 @@
       "Time": "2023-12-13T18:09:42.7968234+00:00",
       "NumProgressed": 16530,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-13T19:09:58.0072687+00:00",
+      "NumProgressed": 16533,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 47,
@@ -9531,7 +9536,7 @@
       "Name": "You Need a Gun",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "DISARM_ENEMY",
@@ -9539,7 +9544,7 @@
       "Name": "Flesh Wound",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -9571,7 +9576,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -9643,7 +9648,7 @@
       "Name": "Terminated",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -9667,7 +9672,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -9731,7 +9736,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -9859,7 +9864,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -9882,13 +9887,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16530,
+      "Progressed": 16533,
       "Completed": 81
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4456,
+      "Progressed": 4459,
       "Completed": 29
     }
   ],
@@ -9896,8 +9901,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-12T20:02:46.8450038+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:09:42.796823+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:09:58.0072683+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.8352858+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:03:22.5346493+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:09:42.7968919+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:03:43.8032191+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:09:58.0073251+00:00"
 }

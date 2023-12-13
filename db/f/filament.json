@@ -354,9 +354,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 206970,
+  "EOS_Progressed": 206972,
   "EOS_Completed": 540,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -25694,6 +25694,11 @@
       "Time": "2023-12-13T18:07:18.4694011+00:00",
       "NumProgressed": 206970,
       "NumCompleted": 540
+    },
+    {
+      "Time": "2023-12-13T19:07:34.5033819+00:00",
+      "NumProgressed": 206972,
+      "NumCompleted": 540
     }
   ],
   "TotalAchievements": 29,
@@ -25729,7 +25734,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 194552
+      "UsersEstimate": 194554
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -25785,7 +25790,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10348
+      "UsersEstimate": 10349
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -25865,7 +25870,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10348
+      "UsersEstimate": 10349
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -25936,7 +25941,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 206970,
+      "Progressed": 206972,
       "Completed": 540
     }
   ],
@@ -25944,8 +25949,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-11T02:21:32.1838327+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:07:18.4694003+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:07:34.5033816+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:21.2833289+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:59:56.5179111+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:07:18.4695721+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:00:13.6800154+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:07:34.5034851+00:00"
 }

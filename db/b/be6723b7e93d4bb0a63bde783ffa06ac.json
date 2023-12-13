@@ -2,9 +2,9 @@
   "ID": "be6723b7e93d4bb0a63bde783ffa06ac",
   "Name": "StrikeForce Kitty",
   "ProductSlug": "strike-force-kitty-4603e5",
-  "Ranking_EOS_Progress": 485,
+  "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 70,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -344,6 +344,11 @@
       "Time": "2023-12-13T18:04:07.5393604+00:00",
       "NumProgressed": 69,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T19:04:29.0481604+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:03:22.1103385+00:00",
@@ -482,9 +487,9 @@
       "ID": "ach24",
       "SetID": "baneh2j",
       "Name": "Researcher",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ach25",
@@ -506,25 +511,25 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ach28",
       "SetID": "baneh2j",
       "Name": "Start",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 35,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach29",
       "SetID": "baneh2j",
       "Name": "My first team",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach3",
@@ -570,9 +575,9 @@
       "ID": "ach6",
       "SetID": "baneh2j",
       "Name": "On the style",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach7",
@@ -603,14 +608,14 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 70,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:04:07.53936+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:04:29.0481601+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:58.3281162+00:00",
-  "LastUpdate_Ratings": "2023-12-13T18:01:45.7544528+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:04:07.5393887+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:01:57.785929+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:04:29.0481799+00:00"
 }

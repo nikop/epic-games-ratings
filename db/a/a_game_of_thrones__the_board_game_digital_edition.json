@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1332,7 +1332,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30289,
+  "EOS_Progressed": 30291,
   "EOS_Completed": 83,
   "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 1,
@@ -26742,6 +26742,11 @@
       "Time": "2023-12-13T18:10:24.1069264+00:00",
       "NumProgressed": 30289,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-12-13T19:10:37.525071+00:00",
+      "NumProgressed": 30291,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 22,
@@ -26777,7 +26782,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "1019",
@@ -26793,7 +26798,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "1021",
@@ -26801,7 +26806,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "1022",
@@ -26881,7 +26886,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4240
+      "UsersEstimate": 4241
     },
     {
       "ID": "1032",
@@ -26928,15 +26933,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30289,
+      "Progressed": 30291,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-13T18:10:24.1069259+00:00",
+  "LastChanged_Achievements": "2023-12-13T19:10:37.5250707+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:17.8374063+00:00",
-  "LastUpdate_Ratings": "2023-12-13T17:59:45.4834542+00:00",
-  "LastUpdate_Achievements": "2023-12-13T18:10:24.1070916+00:00"
+  "LastUpdate_Ratings": "2023-12-13T19:00:02.3805235+00:00",
+  "LastUpdate_Achievements": "2023-12-13T19:10:37.5251944+00:00"
 }

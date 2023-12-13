@@ -14,21 +14,21 @@ Number of Ratings: 82  (23.09.2022)
 | Still Kind Of Poor | 0.30% | ~29 |
 | Treasure Hunter | 0.30% | ~29 |
 | Well Off | 0.30% | ~29 |
-| Agent | 0.20% | ~19 |
-| Master Agent | 0.20% | ~19 |
-| A Real Landlord | 0.20% | ~19 |
-| Babysitter | 0.20% | ~19 |
-| Cleaning Service | 0.20% | ~19 |
-| Filthy Rich | 0.20% | ~19 |
-| Home, Sweet Home | 0.20% | ~19 |
-| Kill It With Gas | 0.20% | ~19 |
-| Millionaire | 0.20% | ~19 |
-| Mr Clean | 0.20% | ~19 |
-| Rat Race | 0.20% | ~19 |
-| Expert Renovator | 0.20% | ~19 |
-| Master Renovator | 0.20% | ~19 |
-| Run, Forrest, Run! | 0.20% | ~19 |
-| TGIF | 0.20% | ~19 |
+| Agent | 0.20% | ~20 |
+| Master Agent | 0.20% | ~20 |
+| A Real Landlord | 0.20% | ~20 |
+| Babysitter | 0.20% | ~20 |
+| Cleaning Service | 0.20% | ~20 |
+| Filthy Rich | 0.20% | ~20 |
+| Home, Sweet Home | 0.20% | ~20 |
+| Kill It With Gas | 0.20% | ~20 |
+| Millionaire | 0.20% | ~20 |
+| Mr Clean | 0.20% | ~20 |
+| Rat Race | 0.20% | ~20 |
+| Expert Renovator | 0.20% | ~20 |
+| Master Renovator | 0.20% | ~20 |
+| Run, Forrest, Run! | 0.20% | ~20 |
+| TGIF | 0.20% | ~20 |
 | Expert Agent | 0.10% | ~10 |
 | Another One | 0.10% | ~10 |
 | Expert Babysitter | 0.10% | ~10 |
@@ -93,7 +93,7 @@ Number of Ratings: 82  (23.09.2022)
 | White House | 0.00% | ~0 |
 | Wondersville Magnate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,749 (Ranked 168)  
+Progressed: 9,750 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,6 +180,7 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-11-30 | 9,747 | 0 |
 | 2023-12-04 | 9,748 | 0 |
 | 2023-12-11 | 9,749 | 0 |
+| 2023-12-13 | 9,750 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
