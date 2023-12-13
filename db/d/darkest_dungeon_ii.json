@@ -9630,9 +9630,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126528,
+  "EOS_Progressed": 126533,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 886,
+  "EOS_NewPlayers": 889,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34770,6 +34770,11 @@
       "Time": "2023-12-13T06:09:05.5765172+00:00",
       "NumProgressed": 126528,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T07:08:41.9291974+00:00",
+      "NumProgressed": 126533,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -35051,9 +35056,9 @@
       "ID": "combat_party_wipe_any_run_boss",
       "SetID": "64l4lke",
       "Name": "It Happens",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 633
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35155,9 +35160,9 @@
       "ID": "hoarder_buy_epic_trinket",
       "SetID": "64l4lke",
       "Name": "Whale",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 633
     },
     {
       "ID": "hospital_full_service",
@@ -35171,9 +35176,9 @@
       "ID": "inn_first_time",
       "SetID": "64l4lke",
       "Name": "A Place to Lay Your Head",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 633
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35243,9 +35248,9 @@
       "ID": "run_victory_act02",
       "SetID": "64l4lke",
       "Name": "Hot Air",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 380
     },
     {
       "ID": "run_victory_act03",
@@ -35363,9 +35368,9 @@
       "ID": "hero_story_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Ploughshares to Swords",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35412,21 +35417,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126528,
+      "Progressed": 126533,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1397,
+      "Progressed": 1402,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-13T04:59:07.2205481+00:00",
-  "LastChanged_Achievements": "2023-12-13T06:09:05.5765168+00:00",
+  "LastChanged_Achievements": "2023-12-13T07:08:41.9291971+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T05:59:40.129195+00:00",
-  "LastUpdate_Achievements": "2023-12-13T06:09:05.5766617+00:00"
+  "LastUpdate_Ratings": "2023-12-13T06:59:13.8797771+00:00",
+  "LastUpdate_Achievements": "2023-12-13T07:08:41.9293423+00:00"
 }

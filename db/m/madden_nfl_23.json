@@ -919,9 +919,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3956,
+  "EOS_Progressed": 3957,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6994,6 +6994,11 @@
       "Time": "2023-12-13T04:05:20.5604928+00:00",
       "NumProgressed": 3956,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T07:04:35.0377358+00:00",
+      "NumProgressed": 3957,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7030,7 +7035,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "achievement_13",
@@ -7054,7 +7059,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "achievement_16",
@@ -7150,7 +7155,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "achievement_8",
@@ -7173,7 +7178,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3956,
+      "Progressed": 3957,
       "Completed": 0
     }
   ],
@@ -7181,8 +7186,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-12T01:51:23.6885803+00:00",
-  "LastChanged_Achievements": "2023-12-13T06:05:00.2103092+00:00",
+  "LastChanged_Achievements": "2023-12-13T07:04:35.0377355+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:06.4979086+00:00",
-  "LastUpdate_Ratings": "2023-12-13T06:03:12.0646065+00:00",
-  "LastUpdate_Achievements": "2023-12-13T06:05:00.2103637+00:00"
+  "LastUpdate_Ratings": "2023-12-13T07:02:56.1042709+00:00",
+  "LastUpdate_Achievements": "2023-12-13T07:04:35.0378078+00:00"
 }

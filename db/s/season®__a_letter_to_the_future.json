@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1323,
+  "EOS_Progressed": 1324,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.54,
+  "EOS_Completed_Percentage": 4.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -2769,6 +2769,11 @@
       "Time": "2023-12-10T05:09:55.0273871+00:00",
       "NumProgressed": 1323,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-13T07:09:19.3995247+00:00",
+      "NumProgressed": 1324,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 16,
@@ -2828,23 +2833,23 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1086
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
       "SetID": "7pam6gn",
       "Name": "Journal Beautifier",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1086
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2868,7 +2873,7 @@
       "Name": "Outside World Seer",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -2876,7 +2881,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -2907,7 +2912,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1323,
+      "Progressed": 1324,
       "Completed": 60
     }
   ],
@@ -2915,8 +2920,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-13T06:09:46.8701552+00:00",
+  "LastChanged_Achievements": "2023-12-13T07:09:19.3995244+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.6887118+00:00",
-  "LastUpdate_Ratings": "2023-12-13T06:02:56.8951837+00:00",
-  "LastUpdate_Achievements": "2023-12-13T06:09:46.8701812+00:00"
+  "LastUpdate_Ratings": "2023-12-13T07:02:43.1350576+00:00",
+  "LastUpdate_Achievements": "2023-12-13T07:09:19.3995463+00:00"
 }

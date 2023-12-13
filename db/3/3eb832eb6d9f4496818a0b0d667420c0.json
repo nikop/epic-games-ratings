@@ -257,9 +257,9 @@
       "ID": "ACHIEVEMENT_026",
       "SetID": "dge1ook",
       "Name": "One Step at a Time",
-      "Percentage": 64,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -407,8 +407,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged_Achievements": "2023-12-13T06:03:38.4215904+00:00",
+  "LastChanged_Achievements": "2023-12-13T07:03:21.0229427+00:00",
   "LastUpdate_AppInfo": "2023-12-12T09:57:05.6253168+00:00",
-  "LastUpdate_Ratings": "2023-12-13T06:03:01.2896657+00:00",
-  "LastUpdate_Achievements": "2023-12-13T06:03:38.4216272+00:00"
+  "LastUpdate_Ratings": "2023-12-13T07:02:47.5738157+00:00",
+  "LastUpdate_Achievements": "2023-12-13T07:03:21.022981+00:00"
 }

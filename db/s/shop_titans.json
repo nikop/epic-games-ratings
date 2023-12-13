@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7525,7 +7525,7 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 144898,
+  "EOS_Progressed": 144901,
   "EOS_Completed": 295,
   "EOS_NewPlayers": 937,
   "EOS_NewCompleters": 4,
@@ -32205,6 +32205,11 @@
       "Time": "2023-12-13T06:03:56.898961+00:00",
       "NumProgressed": 144898,
       "NumCompleted": 295
+    },
+    {
+      "Time": "2023-12-13T07:03:37.7912886+00:00",
+      "NumProgressed": 144901,
+      "NumCompleted": 295
     }
   ],
   "TotalAchievements": 112,
@@ -32440,7 +32445,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "commonres01",
@@ -32560,7 +32565,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "energy01",
@@ -32784,7 +32789,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "legenchant01",
@@ -33111,15 +33116,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 144898,
+      "Progressed": 144901,
       "Completed": 295
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-13T01:51:16.0723115+00:00",
-  "LastChanged_Achievements": "2023-12-13T06:03:56.8989603+00:00",
+  "LastChanged_Achievements": "2023-12-13T07:03:37.7912839+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-13T06:03:21.0517181+00:00",
-  "LastUpdate_Achievements": "2023-12-13T06:03:56.8992+00:00"
+  "LastUpdate_Ratings": "2023-12-13T07:03:05.1533219+00:00",
+  "LastUpdate_Achievements": "2023-12-13T07:03:37.7914944+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -559,9 +559,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8808,
+  "EOS_Progressed": 8809,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -12009,6 +12009,11 @@
       "Time": "2023-12-13T01:51:48.0437785+00:00",
       "NumProgressed": 8808,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-13T07:03:43.0029967+00:00",
+      "NumProgressed": 8809,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -12092,7 +12097,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 2554
+      "UsersEstimate": 2555
     },
     {
       "ID": "ACH11",
@@ -12124,7 +12129,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "ACH15",
@@ -12251,7 +12256,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8808,
+      "Progressed": 8809,
       "Completed": 60
     }
   ],
@@ -12259,8 +12264,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-13T01:46:30.4576886+00:00",
-  "LastChanged_Achievements": "2023-12-13T06:04:03.2461325+00:00",
+  "LastChanged_Achievements": "2023-12-13T07:03:43.0029963+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:03.1675394+00:00",
-  "LastUpdate_Ratings": "2023-12-13T05:58:54.6525842+00:00",
-  "LastUpdate_Achievements": "2023-12-13T06:04:03.2462616+00:00"
+  "LastUpdate_Ratings": "2023-12-13T06:58:32.8275512+00:00",
+  "LastUpdate_Achievements": "2023-12-13T07:03:43.0030686+00:00"
 }

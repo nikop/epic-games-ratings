@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -3325,9 +3325,9 @@
       "Count": 258
     }
   ],
-  "EOS_Progressed": 85924,
+  "EOS_Progressed": 85926,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 747,
+  "EOS_NewPlayers": 744,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -29760,6 +29760,11 @@
       "Time": "2023-12-13T06:03:45.813213+00:00",
       "NumProgressed": 85924,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-13T07:03:27.7894686+00:00",
+      "NumProgressed": 85926,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 30,
@@ -29803,7 +29808,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 15466
+      "UsersEstimate": 15467
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -29819,7 +29824,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 12029
+      "UsersEstimate": 12030
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -29851,7 +29856,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 31792
+      "UsersEstimate": 31793
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -29875,7 +29880,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8592
+      "UsersEstimate": 8593
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -29907,7 +29912,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 22340
+      "UsersEstimate": 22341
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -29947,7 +29952,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 30073
+      "UsersEstimate": 30074
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -29979,7 +29984,7 @@
       "Name": "Ultimate success",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 8592
+      "UsersEstimate": 8593
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -29995,7 +30000,7 @@
       "Name": "Master",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 15466
+      "UsersEstimate": 15467
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -30010,15 +30015,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 85924,
+      "Progressed": 85926,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-11T15:57:22.127103+00:00",
-  "LastChanged_Achievements": "2023-12-13T06:03:45.8132126+00:00",
+  "LastChanged_Achievements": "2023-12-13T07:03:27.7894682+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:46.6200613+00:00",
-  "LastUpdate_Ratings": "2023-12-13T05:58:34.6374674+00:00",
-  "LastUpdate_Achievements": "2023-12-13T06:03:45.8133455+00:00"
+  "LastUpdate_Ratings": "2023-12-13T06:58:14.2607565+00:00",
+  "LastUpdate_Achievements": "2023-12-13T07:03:27.7896156+00:00"
 }

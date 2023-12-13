@@ -2541,7 +2541,7 @@
       "Count": 510
     }
   ],
-  "EOS_Progressed": 56608,
+  "EOS_Progressed": 56609,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 0,
@@ -12151,6 +12151,11 @@
       "Time": "2023-12-13T06:06:15.2201972+00:00",
       "NumProgressed": 56608,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T07:05:43.0946384+00:00",
+      "NumProgressed": 56609,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -12187,7 +12192,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 36795
+      "UsersEstimate": 36796
     },
     {
       "ID": "achievement_13",
@@ -12195,7 +12200,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 30568
+      "UsersEstimate": 30569
     },
     {
       "ID": "achievement_14",
@@ -12203,7 +12208,7 @@
       "Name": "The Alchemist",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 28870
+      "UsersEstimate": 28871
     },
     {
       "ID": "achievement_15",
@@ -12219,7 +12224,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 24341
+      "UsersEstimate": 24342
     },
     {
       "ID": "achievement_17",
@@ -12251,7 +12256,7 @@
       "Name": "Teamwork works",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3397
     },
     {
       "ID": "achievement_20",
@@ -12275,7 +12280,7 @@
       "Name": "Level Up!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 29436
+      "UsersEstimate": 29437
     },
     {
       "ID": "achievement_23",
@@ -12419,7 +12424,7 @@
       "Name": "Best of Five",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3397
     },
     {
       "ID": "achievement_4",
@@ -12467,7 +12472,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 41890
+      "UsersEstimate": 41891
     },
     {
       "ID": "achievement_9",
@@ -12475,14 +12480,14 @@
       "Name": "Bring it on",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 16416
+      "UsersEstimate": 16417
     }
   ],
   "AchievementSets": [
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 56608,
+      "Progressed": 56609,
       "Completed": 0
     }
   ],
@@ -12490,8 +12495,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-12-13T04:00:20.0442075+00:00",
-  "LastChanged_Achievements": "2023-12-13T06:06:15.2201968+00:00",
+  "LastChanged_Achievements": "2023-12-13T07:05:43.0946379+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:08.0940773+00:00",
-  "LastUpdate_Ratings": "2023-12-13T06:00:08.4827947+00:00",
-  "LastUpdate_Achievements": "2023-12-13T06:06:15.2202807+00:00"
+  "LastUpdate_Ratings": "2023-12-13T06:59:40.7069832+00:00",
+  "LastUpdate_Achievements": "2023-12-13T07:05:43.0946992+00:00"
 }

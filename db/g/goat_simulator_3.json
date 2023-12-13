@@ -5773,9 +5773,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 253992,
+  "EOS_Progressed": 253993,
   "EOS_Completed": 903,
-  "EOS_NewPlayers": 840,
+  "EOS_NewPlayers": 838,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -31568,6 +31568,11 @@
       "Time": "2023-12-13T06:10:05.4140221+00:00",
       "NumProgressed": 253992,
       "NumCompleted": 903
+    },
+    {
+      "Time": "2023-12-13T07:09:38.7767179+00:00",
+      "NumProgressed": 253993,
+      "NumCompleted": 903
     }
   ],
   "TotalAchievements": 39,
@@ -31643,7 +31648,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 231133
+      "UsersEstimate": 231134
     },
     {
       "ID": "AchievementClownID",
@@ -31675,7 +31680,7 @@
       "Name": "Egg Simulator",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 48258
+      "UsersEstimate": 48259
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -31683,7 +31688,7 @@
       "Name": "French Fika",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17779
+      "UsersEstimate": 17780
     },
     {
       "ID": "AchievementGatorID",
@@ -31691,7 +31696,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 83817
+      "UsersEstimate": 83818
     },
     {
       "ID": "AchievementGoatID",
@@ -31715,7 +31720,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 48258
+      "UsersEstimate": 48259
     },
     {
       "ID": "AchievementINirvanaID",
@@ -31739,7 +31744,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 114296
+      "UsersEstimate": 114297
     },
     {
       "ID": "AchievementIntroID",
@@ -31747,7 +31752,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 144775
+      "UsersEstimate": 144776
     },
     {
       "ID": "AchievementLootBoxID",
@@ -31811,7 +31816,7 @@
       "Name": "Private Club",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 185414
+      "UsersEstimate": 185415
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -31859,7 +31864,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 119376
+      "UsersEstimate": 119377
     },
     {
       "ID": "AchievementTrinketID",
@@ -31890,7 +31895,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 253992,
+      "Progressed": 253993,
       "Completed": 903
     }
   ],
@@ -31898,8 +31903,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-12-13T04:58:44.136574+00:00",
-  "LastChanged_Achievements": "2023-12-13T06:10:05.4140218+00:00",
+  "LastChanged_Achievements": "2023-12-13T07:09:38.7767175+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:59.5237496+00:00",
-  "LastUpdate_Ratings": "2023-12-13T05:59:14.9792201+00:00",
-  "LastUpdate_Achievements": "2023-12-13T06:10:05.4141615+00:00"
+  "LastUpdate_Ratings": "2023-12-13T06:58:50.717531+00:00",
+  "LastUpdate_Achievements": "2023-12-13T07:09:38.7768429+00:00"
 }

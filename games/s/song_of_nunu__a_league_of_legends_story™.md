@@ -29,10 +29,10 @@ Rating: 4.57 (Ranked 481)
 | You Get Used To It | 43.00% | ~483 |
 | Family | 40.00% | ~449 |
 | Biggest Snowball Ever | 40.00% | ~449 |
+| Freeze The Ice Witch | 40.00% | ~449 |
 | True Legends | 40.00% | ~449 |
 | Boosted! | 40.00% | ~449 |
 | Deadliest and Biggest Snowball Ever! | 40.00% | ~449 |
-| Freeze The Ice Witch | 39.00% | ~438 |
 | Bullseye | 37.00% | ~416 |
 | It Is Not Over | 36.00% | ~404 |
 | On The Rocks | 35.00% | ~393 |

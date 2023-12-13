@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 947,
+  "EOS_Progressed": 948,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2554,6 +2554,11 @@
       "Time": "2023-12-06T22:09:09.4467431+00:00",
       "NumProgressed": 947,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-13T07:09:20.5945335+00:00",
+      "NumProgressed": 948,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2573,7 +2578,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2613,7 +2618,7 @@
       "Name": "Like Clockwork",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ClovemaryGift",
@@ -2693,7 +2698,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2701,7 +2706,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "GadgetCompletion1",
@@ -2805,7 +2810,7 @@
       "Name": "Time Flies",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ParryBoss",
@@ -2813,7 +2818,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ParryRepeated1",
@@ -2821,7 +2826,7 @@
       "Name": "No, Thanks!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2829,7 +2834,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2837,7 +2842,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "PidgeDefeated",
@@ -2845,7 +2850,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "RewindDamage1",
@@ -2861,7 +2866,7 @@
       "Name": "Honest Mistake",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2877,7 +2882,7 @@
       "Name": "Golem Chaser",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "SkillCompletion1",
@@ -2893,7 +2898,7 @@
       "Name": "Fast Learner",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "SpeedRun",
@@ -2949,7 +2954,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "WatcherFought",
@@ -2988,7 +2993,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 947,
+      "Progressed": 948,
       "Completed": 6
     }
   ],
@@ -2996,8 +3001,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-13T06:09:48.1243723+00:00",
+  "LastChanged_Achievements": "2023-12-13T07:09:20.5945332+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-13T06:00:05.349977+00:00",
-  "LastUpdate_Achievements": "2023-12-13T06:09:48.1244215+00:00"
+  "LastUpdate_Ratings": "2023-12-13T06:59:37.9271449+00:00",
+  "LastUpdate_Achievements": "2023-12-13T07:09:20.5945722+00:00"
 }

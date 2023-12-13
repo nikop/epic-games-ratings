@@ -25,7 +25,7 @@ Rating: 4.54 (Ranked 535)
 | Stacking the Deck | 2.00% | ~14,679 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,679 |
 | This is My Weapon | 2.00% | ~14,679 |
-| One of Us | 2.00% | ~1,189 |
+| One of Us | 2.00% | ~1,190 |
 | Making Your Mark | 1.00% | ~7,339 |
 | Perks of the Job | 1.00% | ~7,339 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,339 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 535)
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,932 (Ranked 21)  
+Progressed: 733,936 (Ranked 21)  
 Completed: 2,480 (0.34%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,16 +294,16 @@ Completed: 2,480 (0.34%) (Ranked 236)
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
 | 2023-12-12 | 733,868 | 2,480 |
-| 2023-12-13 | 733,932 | 2,480 |
+| 2023-12-13 | 733,936 | 2,480 |
 ## Awards
 Max (Great Boss Battles): 8,108  (Ranked 49)  
-Sum: 12,482 (Ranked 81)  
+Sum: 12,484 (Ranked 81)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 8,108 |
 | This game is Great for Beginners | 639 |
-| This game has Diverse Characters | 596 |
+| This game has Diverse Characters | 598 |
 | This game has Quickly Understood Controls | 573 |
 | This game is Relaxing | 539 |
 | This game has Amazing Storytelling | 529 |
@@ -549,4 +549,4 @@ Diff (max vs sum): -32
 | 2023-12-10 | 4.54 | 8,071 | 12,407 |
 | 2023-12-11 | 4.54 | 8,094 | 12,447 |
 | 2023-12-12 | 4.54 | 8,108 | 12,476 |
-| 2023-12-13 | 4.54 | 8,108 | 12,482 |
+| 2023-12-13 | 4.54 | 8,108 | 12,484 |

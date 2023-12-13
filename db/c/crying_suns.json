@@ -667,7 +667,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 472172,
+  "EOS_Progressed": 472173,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
@@ -25172,6 +25172,11 @@
       "Time": "2023-12-13T06:10:09.8405621+00:00",
       "NumProgressed": 472172,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-13T07:09:44.7955075+00:00",
+      "NumProgressed": 472173,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25199,7 +25204,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113321
+      "UsersEstimate": 113322
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -25359,7 +25364,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94434
+      "UsersEstimate": 94435
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -25367,7 +25372,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160538
+      "UsersEstimate": 160539
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -25814,21 +25819,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16106,
+      "Progressed": 16107,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472172,
+      "Progressed": 472173,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-12T20:57:25.1414435+00:00",
-  "LastChanged_Achievements": "2023-12-13T06:10:09.8405618+00:00",
+  "LastChanged_Achievements": "2023-12-13T07:09:44.7955073+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.6716506+00:00",
-  "LastUpdate_Ratings": "2023-12-13T05:58:02.5568803+00:00",
-  "LastUpdate_Achievements": "2023-12-13T06:10:09.840718+00:00"
+  "LastUpdate_Ratings": "2023-12-13T06:57:45.3486856+00:00",
+  "LastUpdate_Achievements": "2023-12-13T07:09:44.7956561+00:00"
 }

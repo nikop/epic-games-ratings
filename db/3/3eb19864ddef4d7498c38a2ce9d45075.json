@@ -2,7 +2,7 @@
   "ID": "3eb19864ddef4d7498c38a2ce9d45075",
   "Name": "SNWBRD: Freestyle Snowboarding",
   "ProductSlug": "snwbrd-freestyle-snowboarding-2803cf",
-  "Ranking_EOS_Progress": 792,
+  "Ranking_EOS_Progress": 793,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 127,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-11T17:57:15.9970559+00:00",
   "LastUpdate_AppInfo": "2023-12-07T23:57:12.8269331+00:00",
-  "LastUpdate_Ratings": "2023-12-13T05:59:27.5025187+00:00",
-  "LastUpdate_Achievements": "2023-12-13T06:04:35.2467603+00:00"
+  "LastUpdate_Ratings": "2023-12-13T06:59:02.6478536+00:00",
+  "LastUpdate_Achievements": "2023-12-13T07:04:12.276799+00:00"
 }

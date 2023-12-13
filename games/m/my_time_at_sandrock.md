@@ -20,7 +20,7 @@ Number of Ratings: 892  (23.09.2022)
 | Diamonds are Forever | 78.00% | ~419 |
 | Can We Keep It? | 77.00% | ~413 |
 | Pack Mule | 76.00% | ~408 |
-| First Love | 75.00% | ~403 |
+| First Love | 76.00% | ~408 |
 | Unboxing | 72.00% | ~387 |
 | Elementary, My Dear | 69.00% | ~371 |
 | Chatterbox | 68.00% | ~365 |
@@ -45,7 +45,7 @@ Number of Ratings: 892  (23.09.2022)
 | Officially Official | 56.00% | ~301 |
 | Knowledge is Power | 54.00% | ~290 |
 | Got the Flow Back | 53.00% | ~285 |
-| Sepia Toned Memories | 51.00% | ~274 |
+| Sepia Toned Memories | 52.00% | ~279 |
 | Time Flies | 47.00% | ~252 |
 | Who Ya Gonna Call...? | 47.00% | ~252 |
 | Jewel of the Eufaula | 46.00% | ~247 |

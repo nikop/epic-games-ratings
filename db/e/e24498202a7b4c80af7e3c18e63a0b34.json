@@ -147,7 +147,7 @@
   "Tags": [],
   "EOS_Progressed": 7254,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -7097,9 +7097,9 @@
       "ID": "achievement_02_05",
       "SetID": "4f1m94d",
       "Name": "Fully Upgraded",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1959
+      "UsersEstimate": 2031
     },
     {
       "ID": "achievement_02_06",
@@ -7298,8 +7298,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-12-10T14:58:54.1455517+00:00",
-  "LastChanged_Achievements": "2023-12-13T05:08:20.0645862+00:00",
+  "LastChanged_Achievements": "2023-12-13T07:03:16.3360958+00:00",
   "LastUpdate_AppInfo": "2023-12-07T22:57:02.7581961+00:00",
-  "LastUpdate_Ratings": "2023-12-13T06:00:41.3034064+00:00",
-  "LastUpdate_Achievements": "2023-12-13T05:08:20.0646428+00:00"
+  "LastUpdate_Ratings": "2023-12-13T07:00:12.6529585+00:00",
+  "LastUpdate_Achievements": "2023-12-13T07:03:16.3361712+00:00"
 }

@@ -26,7 +26,7 @@ Rating: 4.57 (Ranked 481)
 | Fhtagn! | 38.00% | ~432 |
 | Going Once... | 36.00% | ~410 |
 | Bookworm | 36.00% | ~410 |
-| Let Me Be Frank | 33.00% | ~376 |
+| Let Me Be Frank | 34.00% | ~387 |
 | No Stone Unturned | 31.00% | ~353 |
 | Brain Food | 30.00% | ~341 |
 | Curiosity Killed The Cat | 18.00% | ~205 |

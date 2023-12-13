@@ -27,9 +27,9 @@ Rating: 4.76 (Ranked 130)
 | The Spell Master | 9.00% | ~27,385 |
 | Beast Friends | 8.00% | ~24,342 |
 | Raising Expectations | 7.00% | ~21,299 |
-| The Seeker of Knowledge | 6.00% | ~18,256 |
-| The Root of the Problem | 6.00% | ~18,256 |
-| Third Time's a Charm | 6.00% | ~18,256 |
+| The Seeker of Knowledge | 6.00% | ~18,257 |
+| The Root of the Problem | 6.00% | ~18,257 |
+| Third Time's a Charm | 6.00% | ~18,257 |
 | The Toast of the Town | 5.00% | ~15,214 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,214 |
 | The Ends Petrify the Means | 5.00% | ~15,214 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,130 |
 | Collector's Edition | 0.40% | ~1,217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,275 (Ranked 54)  
+Progressed: 304,276 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 525 (0.17%) (Ranked 271)
 | 2023-12-10 | 304,188 | 525 |
 | 2023-12-11 | 304,218 | 525 |
 | 2023-12-12 | 304,258 | 525 |
-| 2023-12-13 | 304,275 | 525 |
+| 2023-12-13 | 304,276 | 525 |
 ## Awards
 Max (Character Customization): 25,134  (Ranked 17)  
 Sum: 50,554 (Ranked 30)  

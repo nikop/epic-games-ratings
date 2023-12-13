@@ -2,7 +2,7 @@
   "ID": "1a75390ae85d492d875b29a6e7fe1466",
   "Name": "Intravenous",
   "ProductSlug": "intravenous-caf301",
-  "Ranking_EOS_Progress": 792,
+  "Ranking_EOS_Progress": 793,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 127,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.7703969+00:00",
-  "LastUpdate_Ratings": "2023-12-13T06:00:51.5922743+00:00",
-  "LastUpdate_Achievements": "2023-12-13T06:06:40.5823879+00:00"
+  "LastUpdate_Ratings": "2023-12-13T07:00:22.2333771+00:00",
+  "LastUpdate_Achievements": "2023-12-13T07:06:05.8464904+00:00"
 }
