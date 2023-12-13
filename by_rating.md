@@ -1,8 +1,8 @@
 | # | Game | Rating | Awards | Popularity Ranking |
 | - | ---- | ------ | ------ | ------------------ |
-| 1 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.97 | 0 | 561 |
-| 2 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 561 |
-| 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.95 | 0 | 561 |
+| 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 561 |
+| 2 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.95 | 0 | 561 |
+| 2 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.95 | 0 | 561 |
 | 4 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 561 |
 | 5 | [Celeste](games/c/celeste.md) | 4.92 | 1,743 | 124 |
 | 5 | [Hades](games/h/hades.md) | 4.92 | 3,428 | 93 |
@@ -48,7 +48,7 @@
 | 46 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.85 | 0 | 561 |
 | 46 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 159 | 315 |
 | 46 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 8,156 | 48 |
-| 46 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,721 | 69 |
+| 46 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,725 | 69 |
 | 46 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 223 | 282 |
 | 46 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 169 | 311 |
 | 46 | [Subnautica](games/s/subnautica.md) | 4.85 | 770 | 178 |
@@ -158,7 +158,7 @@
 | 148 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 4.75 | 23 | 537 |
 | 148 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.75 | 0 | 561 |
 | 148 | [Remnant 2](games/r/remnant_2.md) | 4.75 | 2,730 | 102 |
-| 148 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 851 | 170 |
+| 148 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 854 | 170 |
 | 148 | [Sailing Era](games/s/sailing_era.md) | 4.75 | 0 | 561 |
 | 148 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 419 | 231 |
 | 162 | [Diabotical](games/d/diabotical.md) | 4.74 | 291 | 258 |
@@ -373,7 +373,7 @@
 | 354 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 2,221 | 109 |
 | 372 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.62 | 37 | 477 |
 | 372 | [Aimlabs](games/a/aimlabs.md) | 4.62 | 63 | 413 |
-| 372 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 907 | 164 |
+| 372 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 908 | 164 |
 | 372 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.62 | 0 | 561 |
 | 372 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 290 | 260 |
 | 372 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 104 | 360 |
@@ -538,7 +538,7 @@
 | 534 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,585 | 130 |
 | 534 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 8,108 | 49 |
 | 534 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 561 |
-| 534 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 175 | 307 |
+| 534 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 176 | 305 |
 | 534 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 561 |
 | 534 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 993 | 154 |
 | 534 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 486 |
@@ -751,24 +751,24 @@
 | 744 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 561 |
 | 744 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.40 | 127 | 337 |
 | 744 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.40 | 0 | 561 |
+| 744 | [Hero's Hour](games/h/hero's_hour.md) | 4.40 | 0 | 561 |
 | 744 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 561 |
 | 744 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 75 | 399 |
 | 744 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 0 | 561 |
 | 744 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.40 | 189 | 296 |
 | 744 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 0 | 561 |
 | 744 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.40 | 583 | 202 |
-| 758 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 0 | 561 |
-| 758 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.39 | 0 | 561 |
-| 758 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 52 | 431 |
-| 758 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 561 |
-| 758 | [Metalstorm](games/m/metalstorm.md) | 4.39 | 0 | 561 |
-| 758 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,801 | 35 |
-| 758 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 561 |
-| 758 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 74 | 400 |
-| 758 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 561 |
-| 758 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 335 | 247 |
-| 758 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.39 | 56 | 422 |
-| 758 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.39 | 0 | 561 |
+| 759 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 0 | 561 |
+| 759 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.39 | 0 | 561 |
+| 759 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 52 | 431 |
+| 759 | [Metalstorm](games/m/metalstorm.md) | 4.39 | 0 | 561 |
+| 759 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,801 | 35 |
+| 759 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 561 |
+| 759 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 74 | 400 |
+| 759 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 561 |
+| 759 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 335 | 247 |
+| 759 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.39 | 56 | 422 |
+| 759 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.39 | 0 | 561 |
 | 770 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 561 |
 | 770 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.38 | 0 | 561 |
 | 770 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.38 | 0 | 561 |
