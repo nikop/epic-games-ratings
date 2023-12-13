@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2019,
+  "EOS_Progressed": 2021,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7694,6 +7694,11 @@
       "Time": "2023-12-13T14:04:08.5980907+00:00",
       "NumProgressed": 2019,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T16:04:55.3399891+00:00",
+      "NumProgressed": 2021,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7825,7 +7830,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -7881,7 +7886,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7889,7 +7894,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -8008,7 +8013,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2019,
+      "Progressed": 2021,
       "Completed": 1
     }
   ],
@@ -8016,8 +8021,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:04:03.963988+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:04:55.3399888+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:00:16.1490299+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:04:03.96405+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:01:17.8987253+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:04:55.3400489+00:00"
 }

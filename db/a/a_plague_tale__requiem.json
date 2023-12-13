@@ -4,11 +4,11 @@
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 174,
   "Ranking_Popularity": 229,
-  "Ranking_PopularitySum": 304,
+  "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -633,18 +633,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 688,
       "NumberOfAwardsMax": 434
+    },
+    {
+      "Time": "2023-12-13T16:01:00.8437213+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 690,
+      "NumberOfAwardsMax": 436
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 688,
-  "NumberOfAwardsMax": 434,
+  "NumberOfAwards": 690,
+  "NumberOfAwardsMax": 436,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 434
+      "Count": 436
     },
     {
       "Text": "This game is Great for Beginners",
@@ -12463,9 +12469,9 @@
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2023-12-12T20:59:09.5853681+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:05:19.5678245+00:00",
+  "LastChanged": "2023-12-13T16:01:00.8437212+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:06:25.610265+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:21.8341782+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:00:02.5123716+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:05:19.5678992+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:01:00.8437218+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:06:25.6103404+00:00"
 }

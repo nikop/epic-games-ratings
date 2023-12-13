@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 947,
+  "Ranking_Rating": 946,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 99,
@@ -4637,7 +4637,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77940,
+  "EOS_Progressed": 77941,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
@@ -25827,6 +25827,11 @@
       "Time": "2023-12-13T15:03:44.2379751+00:00",
       "NumProgressed": 77940,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-13T16:04:31.3697524+00:00",
+      "NumProgressed": 77941,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25934,7 +25939,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 12470
+      "UsersEstimate": 12471
     },
     {
       "ID": "CLAYFACE_1",
@@ -25942,7 +25947,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16367
+      "UsersEstimate": 16368
     },
     {
       "ID": "CLAYFACE_2",
@@ -26166,7 +26171,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12470
+      "UsersEstimate": 12471
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -26230,7 +26235,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25720
+      "UsersEstimate": 25721
     },
     {
       "ID": "MYSTERY_02",
@@ -26294,7 +26299,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8573
+      "UsersEstimate": 8574
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -26325,13 +26330,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77940,
+      "Progressed": 77941,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48220,
+      "Progressed": 48221,
       "Completed": 2675
     }
   ],
@@ -26339,8 +26344,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-12T19:58:35.1362928+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:03:44.2379748+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:04:31.369752+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:59:28.542757+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:03:44.238119+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:00:18.3806416+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:04:31.3699314+00:00"
 }

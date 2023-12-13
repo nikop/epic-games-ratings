@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Break Out | 17.00% | ~45 |
 | Trinity | 15.00% | ~40 |
-| Find Allies | 13.00% | ~34 |
+| Find Allies | 12.00% | ~32 |
 | Powerful Allies | 12.00% | ~32 |
 | A Taste of Wrath | 11.00% | ~29 |
 | Adventurer | 11.00% | ~29 |
@@ -20,8 +20,8 @@
 | Big Bazar | 9.00% | ~24 |
 | Fashion Victim | 9.00% | ~24 |
 | The Mentor | 8.00% | ~21 |
-| Essence Blow | 8.00% | ~21 |
-| Calm before the Storm | 7.00% | ~19 |
+| Essence Blow | 7.00% | ~19 |
+| Calm before the Storm | 6.00% | ~16 |
 | To Battle | 6.00% | ~16 |
 | Godslayer | 6.00% | ~16 |
 | Alchemist | 6.00% | ~16 |

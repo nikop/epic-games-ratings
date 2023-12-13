@@ -33,9 +33,9 @@
 | Philo's Tale | 17.00% | ~7 |
 | Stormwatch Faste | 17.00% | ~7 |
 | Friend of Orgash | 17.00% | ~7 |
+| Defeat Gor | 14.00% | ~6 |
 | Friend of Silver Drift Hollow | 14.00% | ~6 |
 | Friend of Windholme | 14.00% | ~6 |
-| Defeat Gor | 12.00% | ~5 |
 | Lore's Tale | 12.00% | ~5 |
 | Yngrid's Tale | 12.00% | ~5 |
 | The Forge of Regan Gor | 12.00% | ~5 |

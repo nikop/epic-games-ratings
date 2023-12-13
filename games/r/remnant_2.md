@@ -7,8 +7,8 @@ Rating: 4.75 (Ranked 148)
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.80% | ~1,914 |
 | First of Many | 0.80% | ~1,914 |
-| Regicide | 0.80% | ~147 |
-| Master of the Dark Arts | 0.80% | ~147 |
+| Regicide | 0.80% | ~148 |
+| Master of the Dark Arts | 0.80% | ~148 |
 | Expanding Horizons | 0.60% | ~1,436 |
 | Not Your Average Trait | 0.60% | ~1,436 |
 | Am I Seeing This? | 0.50% | ~1,196 |
@@ -20,9 +20,11 @@ Rating: 4.75 (Ranked 148)
 | Duality | 0.50% | ~1,196 |
 | Top Performer | 0.50% | ~1,196 |
 | Boss'n Up | 0.50% | ~1,196 |
+| Almost There | 0.50% | ~1,196 |
 | Good, But Could Be Better! | 0.50% | ~1,196 |
 | Trait Chaser | 0.50% | ~1,196 |
 | Chaos | 0.40% | ~957 |
+| Forever is a Long Time Coming | 0.40% | ~957 |
 | Power Surge | 0.40% | ~957 |
 | The God Gambit | 0.40% | ~957 |
 | Dark Designs | 0.40% | ~957 |
@@ -32,11 +34,9 @@ Rating: 4.75 (Ranked 148)
 | Was This Supposed To Happen? | 0.40% | ~957 |
 | Scrap Collector | 0.40% | ~957 |
 | All These Traits� | 0.40% | ~957 |
-| Almost There | 0.40% | ~957 |
 | Make Some Room | 0.40% | ~957 |
 | Ghost in the Machine | 0.30% | ~718 |
 | Traitor | 0.30% | ~718 |
-| Forever is a Long Time Coming | 0.30% | ~718 |
 | Madman's Paradise | 0.30% | ~718 |
 | The Agenda | 0.30% | ~718 |
 | Tall Tales | 0.30% | ~718 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | You Shall Pass | 0.20% | ~37 |
 | A Foul Feast | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,263 (Ranked 66)  
+Progressed: 239,290 (Ranked 66)  
 Completed: 584 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 584 (0.24%) (Ranked 252)
 | 2023-12-10 | 238,247 | 577 |
 | 2023-12-11 | 238,673 | 579 |
 | 2023-12-12 | 239,053 | 581 |
-| 2023-12-13 | 239,263 | 584 |
+| 2023-12-13 | 239,290 | 584 |
 ## Awards
 Max (Great Boss Battles): 2,730  (Ranked 102)  
 Sum: 6,848 (Ranked 126)  

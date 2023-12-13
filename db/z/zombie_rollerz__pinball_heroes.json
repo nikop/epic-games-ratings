@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -1043,9 +1043,9 @@
       "ID": "PRG_BOSS_NINJA",
       "SetID": "89cjc9l",
       "Name": "The Ninja",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "PRG_BOSS_OOZE",
@@ -1412,8 +1412,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-12-07T15:59:55.7707113+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:04:38.5756744+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:05:36.8524097+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:56.4099283+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:59:50.1150932+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:04:38.5757345+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:00:45.5619052+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:05:36.8524803+00:00"
 }

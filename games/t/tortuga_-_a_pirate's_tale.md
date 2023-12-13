@@ -5,21 +5,21 @@ Rating: 3.78 (Ranked 1,053)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,333 |
-| No Half Measures | 87.00% | ~14,958 |
-| Personal Matter | 86.00% | ~14,786 |
-| But You Have Heard of Me | 72.00% | ~12,379 |
-| Double the Barrels, double the Fun | 54.00% | ~9,284 |
-| Pimp My Glide | 49.00% | ~8,425 |
-| ... And Where Do the Stories Come From? | 40.00% | ~6,877 |
+| Eeligally Ambitious | 95.00% | ~16,335 |
+| No Half Measures | 87.00% | ~14,960 |
+| Personal Matter | 86.00% | ~14,788 |
+| But You Have Heard of Me | 72.00% | ~12,380 |
+| Double the Barrels, double the Fun | 54.00% | ~9,285 |
+| Pimp My Glide | 49.00% | ~8,426 |
+| ... And Where Do the Stories Come From? | 40.00% | ~6,878 |
 | House Party! | 35.00% | ~6,018 |
-| Make It Rain | 23.00% | ~3,954 |
-| Curse of the Seven Seas | 22.00% | ~3,782 |
+| Make It Rain | 23.00% | ~3,955 |
+| Curse of the Seven Seas | 22.00% | ~3,783 |
 | Head First | 16.00% | ~2,751 |
 | To the World's End | 12.00% | ~2,063 |
 | Table for Six | 11.00% | ~1,891 |
-| Sharing Is Caring | 10.00% | ~1,719 |
-| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,375 |
+| Sharing Is Caring | 10.00% | ~1,720 |
+| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,376 |
 | Morally Flexible | 6.00% | ~1,032 |
 | Fishing for Compliments | 5.00% | ~860 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~516 |
@@ -32,7 +32,7 @@ Rating: 3.78 (Ranked 1,053)
 | Heavy Tunaing | 0.10% | ~17 |
 | Pufferfish | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,193 (Ranked 148)  
+Progressed: 17,195 (Ranked 148)  
 Completed: 1 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 1 (0.01%) (Ranked 350)
 | 2023-12-10 | 17,186 | 1 |
 | 2023-12-11 | 17,190 | 1 |
 | 2023-12-12 | 17,192 | 1 |
-| 2023-12-13 | 17,193 | 1 |
+| 2023-12-13 | 17,195 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

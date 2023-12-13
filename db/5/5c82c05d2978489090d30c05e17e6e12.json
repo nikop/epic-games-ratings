@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66489,
+  "EOS_Progressed": 66502,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 2537,
+  "EOS_NewPlayers": 2528,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3411,6 +3411,11 @@
       "Time": "2023-12-13T15:04:20.8890539+00:00",
       "NumProgressed": 66489,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-12-13T16:05:15.5119612+00:00",
+      "NumProgressed": 66502,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -3423,7 +3428,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24601
+      "UsersEstimate": 24606
     },
     {
       "ID": "Achievement_10",
@@ -3439,7 +3444,7 @@
       "Name": "Owls of the Nest",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Achievement_12",
@@ -3447,7 +3452,7 @@
       "Name": "Owl Tide Bestiary",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Achievement_13",
@@ -3495,7 +3500,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Achievement_19",
@@ -3503,7 +3508,7 @@
       "Name": "Fearless in Karba",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Achievement_2",
@@ -3511,7 +3516,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17952
+      "UsersEstimate": 17956
     },
     {
       "ID": "Achievement_20",
@@ -3527,7 +3532,7 @@
       "Name": "Heroic Hoarder",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "Achievement_22",
@@ -3559,7 +3564,7 @@
       "Name": "Konkylian Custodian",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Achievement_26",
@@ -3567,7 +3572,7 @@
       "Name": "Fruits of Labour",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "Achievement_27",
@@ -3575,7 +3580,7 @@
       "Name": "Critter King",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Achievement_28",
@@ -3583,7 +3588,7 @@
       "Name": "A Better World",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Achievement_29",
@@ -3591,7 +3596,7 @@
       "Name": "Gold Finger",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Achievement_3",
@@ -3599,7 +3604,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7979
+      "UsersEstimate": 7980
     },
     {
       "ID": "Achievement_30",
@@ -3607,7 +3612,7 @@
       "Name": "Master Engineer",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Achievement_31",
@@ -3615,7 +3620,7 @@
       "Name": "Well Traveled",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Achievement_32",
@@ -3647,7 +3652,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5319
+      "UsersEstimate": 5320
     },
     {
       "ID": "Achievement_5",
@@ -3655,7 +3660,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3989
+      "UsersEstimate": 3990
     },
     {
       "ID": "Achievement_6",
@@ -3694,7 +3699,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 66489,
+      "Progressed": 66502,
       "Completed": 76
     }
   ],
@@ -3702,8 +3707,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-13T02:27:02.0751001+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:04:20.8890537+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:05:15.5119606+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:02:55.5456435+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:04:20.8890894+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:03:30.1827179+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:05:15.5120007+00:00"
 }

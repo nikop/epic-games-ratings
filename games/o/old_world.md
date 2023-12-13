@@ -151,6 +151,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.70% | ~110 |
 | Beja Archer | 0.70% | ~110 |
 | Glorious Difficulty | 0.60% | ~94 |
+| Capturing Cities | 0.60% | ~94 |
 | Ten Crowns | 0.60% | ~94 |
 | Siege Tower | 0.60% | ~94 |
 | Bronze Victory (Carthage 1) | 0.50% | ~79 |
@@ -161,7 +162,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.50% | ~79 |
 | Pantheon of Gods | 0.50% | ~79 |
 | Play a Network Game | 0.50% | ~79 |
-| Capturing Cities | 0.50% | ~79 |
 | Three Man Chariot | 0.50% | ~79 |
 | Conquest Victory | 0.50% | ~79 |
 | Necropolis in Waset | 0.50% | ~79 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,746 (Ranked 154)  
+Progressed: 15,747 (Ranked 154)  
 Completed: 5 (0.03%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,7 +586,7 @@ Completed: 5 (0.03%) (Ranked 335)
 | 2023-12-10 | 15,719 | 5 |
 | 2023-12-11 | 15,723 | 5 |
 | 2023-12-12 | 15,742 | 5 |
-| 2023-12-13 | 15,746 | 5 |
+| 2023-12-13 | 15,747 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 277)  
 Sum: 1,900 (Ranked 220)  

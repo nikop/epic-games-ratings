@@ -2,7 +2,7 @@
   "ID": "a0e5651da05447508a6cfe91e883af3a",
   "Name": "Dark Table CCG",
   "ProductSlug": "dark-table-ccg-abe8b6",
-  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 127,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 184,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -654,6 +654,11 @@
       "Time": "2023-12-13T15:09:29.134017+00:00",
       "NumProgressed": 183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T16:10:21.4732449+00:00",
+      "NumProgressed": 184,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-03T19:09:22.7139112+00:00",
@@ -770,7 +775,7 @@
       "Name": "First Login",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "Losses_100",
@@ -881,14 +886,14 @@
     {
       "ID": "2bonhb9",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 184,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T15:00:14.9921948+00:00",
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:09:29.1340168+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:10:21.4732445+00:00",
   "LastUpdate_AppInfo": "2023-12-07T23:57:12.5816563+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:59:36.717873+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:09:29.1340349+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:00:28.2307293+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:10:21.4732673+00:00"
 }

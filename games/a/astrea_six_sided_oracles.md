@@ -13,7 +13,7 @@
 | Mind Illuminator | 39.00% | ~39 |
 | Noctuan Champion | 38.00% | ~38 |
 | Wild's Keeper | 37.00% | ~37 |
-| Stellar Dismantler | 33.00% | ~33 |
+| Stellar Dismantler | 34.00% | ~34 |
 | Eridanian Champion | 30.00% | ~30 |
 | Lacertian Champion | 30.00% | ~30 |
 | Anomaly Destroyer | 29.00% | ~29 |

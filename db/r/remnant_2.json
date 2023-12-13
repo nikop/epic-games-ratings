@@ -5535,10 +5535,10 @@
       "Count": 424
     }
   ],
-  "EOS_Progressed": 239263,
+  "EOS_Progressed": 239290,
   "EOS_Completed": 584,
-  "EOS_NewPlayers": 3412,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 3414,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -22805,6 +22805,11 @@
       "Time": "2023-12-13T15:09:13.1205863+00:00",
       "NumProgressed": 239263,
       "NumCompleted": 584
+    },
+    {
+      "Time": "2023-12-13T16:10:02.1441033+00:00",
+      "NumProgressed": 239290,
+      "NumCompleted": 584
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22879,9 +22884,9 @@
       "ID": "Defeat_Final_Boss",
       "SetID": "bkp3b1a",
       "Name": "Forever is a Long Time Coming",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 718
+      "UsersEstimate": 957
     },
     {
       "ID": "Defeat_Guardian",
@@ -23159,9 +23164,9 @@
       "ID": "Upgrade_Boss_Weapon_B",
       "SetID": "bkp3b1a",
       "Name": "Almost There",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 1196
     },
     {
       "ID": "Upgrade_Relic",
@@ -23217,7 +23222,7 @@
       "Name": "Regicide",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -23233,7 +23238,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -23256,13 +23261,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 239263,
+      "Progressed": 239290,
       "Completed": 584
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 18428,
+      "Progressed": 18455,
       "Completed": 248
     }
   ],
@@ -23270,8 +23275,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-13T13:09:36.3837171+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:09:13.1205861+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:10:02.1441029+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:03:12.9854767+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:09:13.1206772+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:03:51.5183794+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:10:02.1442873+00:00"
 }

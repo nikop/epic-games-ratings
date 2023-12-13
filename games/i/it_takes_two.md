@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~24,208 |
-| Fried Friendship | 87.00% | ~23,933 |
-| Look At Him Go | 79.00% | ~21,732 |
-| On Rails Experience | 58.00% | ~15,955 |
-| A Daring Devil | 53.00% | ~14,580 |
-| It Took Two | 45.00% | ~12,379 |
-| Break the Bank | 43.00% | ~11,829 |
-| Bug Sized Relaxation | 22.00% | ~6,052 |
-| Plastic Prison Breakers | 18.00% | ~4,952 |
-| Terror Of The Seven Seas | 16.00% | ~4,401 |
-| Meditation Maestro | 13.00% | ~3,576 |
-| Realize Your Art | 12.00% | ~3,301 |
-| Force Triangulated | 12.00% | ~3,301 |
-| Lost And Found | 11.00% | ~3,026 |
-| Something Fishy | 11.00% | ~3,026 |
-| Platforming Prodigy | 9.00% | ~2,476 |
+| Struck A Pose | 88.00% | ~24,215 |
+| Fried Friendship | 87.00% | ~23,940 |
+| Look At Him Go | 79.00% | ~21,738 |
+| On Rails Experience | 58.00% | ~15,960 |
+| A Daring Devil | 53.00% | ~14,584 |
+| It Took Two | 45.00% | ~12,383 |
+| Break the Bank | 43.00% | ~11,832 |
+| Bug Sized Relaxation | 22.00% | ~6,054 |
+| Plastic Prison Breakers | 18.00% | ~4,953 |
+| Terror Of The Seven Seas | 16.00% | ~4,403 |
+| Meditation Maestro | 13.00% | ~3,577 |
+| Realize Your Art | 12.00% | ~3,302 |
+| Force Triangulated | 12.00% | ~3,302 |
+| Lost And Found | 11.00% | ~3,027 |
+| Something Fishy | 11.00% | ~3,027 |
+| Platforming Prodigy | 9.00% | ~2,477 |
 | Snackosaurus | 8.00% | ~2,201 |
 | Mood Swing | 7.00% | ~1,926 |
-| Minigame Megalomania | 4.00% | ~1,100 |
-| Faraway Frequencies | 4.00% | ~1,100 |
+| Minigame Megalomania | 4.00% | ~1,101 |
+| Faraway Frequencies | 4.00% | ~1,101 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,509 (Ranked 131)  
+Progressed: 27,517 (Ranked 131)  
 Completed: 122 (0.44%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,4 +114,4 @@ Completed: 122 (0.44%) (Ranked 219)
 | 2023-12-10 | 27,108 | 117 |
 | 2023-12-11 | 27,274 | 119 |
 | 2023-12-12 | 27,399 | 119 |
-| 2023-12-13 | 27,509 | 122 |
+| 2023-12-13 | 27,517 | 122 |

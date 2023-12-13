@@ -9568,10 +9568,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20313,
       "NumberOfAwardsMax": 7665
+    },
+    {
+      "Time": "2023-12-13T16:00:37.2389982+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20315,
+      "NumberOfAwardsMax": 7665
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20313,
+  "NumberOfAwards": 20315,
   "NumberOfAwardsMax": 7665,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9645,12 +9651,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 998
+      "Count": 1000
     }
   ],
-  "EOS_Progressed": 126580,
+  "EOS_Progressed": 126589,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 905,
+  "EOS_NewPlayers": 910,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34833,6 +34839,11 @@
       "Time": "2023-12-13T15:08:51.3731529+00:00",
       "NumProgressed": 126580,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T16:09:35.8302303+00:00",
+      "NumProgressed": 126589,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34844,7 +34855,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -34860,7 +34871,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -34980,7 +34991,7 @@
       "Name": "Dissector",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "combat_kill_cosmic",
@@ -35170,9 +35181,9 @@
       "ID": "driving_distance_easy",
       "SetID": "64l4lke",
       "Name": "Ramble On",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 633
     },
     {
       "ID": "driving_distance_hard",
@@ -35258,9 +35269,9 @@
       "ID": "inn_visit_all_variants",
       "SetID": "64l4lke",
       "Name": "Worldly Traveller",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 633
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -35292,7 +35303,7 @@
       "Name": "Nope",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "run_victory_act01",
@@ -35475,21 +35486,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126580,
+      "Progressed": 126589,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1449,
+      "Progressed": 1458,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-13T14:59:43.7845343+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:08:51.3731527+00:00",
+  "LastChanged": "2023-12-13T16:00:37.238998+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:09:35.8302299+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:59:43.7845348+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:08:51.3733765+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:00:37.2389989+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:09:35.8304065+00:00"
 }

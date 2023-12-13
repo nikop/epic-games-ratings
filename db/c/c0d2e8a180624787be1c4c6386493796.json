@@ -552,9 +552,9 @@
       "ID": "KR4_ACHIEVEMENT_BONEFLINGERS",
       "SetID": "caeik3h",
       "Name": "The Skeleton War",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "KR4_ACHIEVEMENT_BONEHART",
@@ -1048,9 +1048,9 @@
       "ID": "KR4_ACHIEVEMENT_SPIRITMAUSOLEUM",
       "SetID": "caeik3h",
       "Name": "Defenders Of The Night",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
@@ -1133,8 +1133,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:06:12.1488764+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:07:29.1490837+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:53.8103037+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:57:45.790698+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:06:12.1489412+00:00"
+  "LastUpdate_Ratings": "2023-12-13T15:58:10.7412035+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:07:29.1491699+00:00"
 }

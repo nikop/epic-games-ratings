@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -2027,9 +2027,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "7pimpda",
       "Name": "Cave Master",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -2300,8 +2300,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:08:46.9639387+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:09:30.4618014+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:57:41.3209513+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:08:46.9639697+00:00"
+  "LastUpdate_Ratings": "2023-12-13T15:58:03.5000787+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:09:30.4618484+00:00"
 }

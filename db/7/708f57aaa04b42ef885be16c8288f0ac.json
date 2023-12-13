@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7750,
+  "EOS_Progressed": 7753,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -6348,6 +6348,11 @@
       "Time": "2023-12-13T15:09:46.0177338+00:00",
       "NumProgressed": 7750,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-13T16:10:41.9356576+00:00",
+      "NumProgressed": 7753,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6368,7 +6373,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "BeLikeWater",
@@ -6544,7 +6549,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "TheOldSchoolWay",
@@ -6552,7 +6557,7 @@
       "Name": "The Old-School Way",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "TheQuarterback",
@@ -6560,7 +6565,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "ThisIsDharma",
@@ -6631,7 +6636,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7750,
+      "Progressed": 7753,
       "Completed": 16
     }
   ],
@@ -6639,8 +6644,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-11T17:58:44.1681748+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:09:46.0177336+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:10:41.9356572+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:00:06.2672816+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:09:46.0177817+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:01:05.4349247+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:10:41.9357067+00:00"
 }

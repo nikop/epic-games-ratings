@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,7 +216,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 945,
+  "EOS_Progressed": 946,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
@@ -2391,6 +2391,11 @@
       "Time": "2023-12-13T10:05:34.4599911+00:00",
       "NumProgressed": 945,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T16:06:44.947326+00:00",
+      "NumProgressed": 946,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2443,7 +2448,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "BreakTheLoop",
@@ -2459,7 +2464,7 @@
       "Name": "Bridge Builder",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ChasingTheLight",
@@ -2507,7 +2512,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "EcstaticTruth",
@@ -2619,7 +2624,7 @@
       "Name": "Museum Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "MuseumVisitor",
@@ -2683,15 +2688,15 @@
       "Name": "Puzzle Fiend",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 199
     },
     {
       "ID": "RenaissanceRobot",
@@ -2715,7 +2720,7 @@
       "Name": "Signatory",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "SingleRod",
@@ -2763,7 +2768,7 @@
       "Name": "The All-Gifted",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2811,7 +2816,7 @@
       "Name": "The Word Endures",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "TouchGrass",
@@ -2843,15 +2848,15 @@
       "Name": "Wanderers",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 66
     },
     {
       "ID": "WoodedPlateau",
@@ -2859,7 +2864,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "YourBiggestFan",
@@ -2874,7 +2879,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 945,
+      "Progressed": 946,
       "Completed": 1
     }
   ],
@@ -2882,8 +2887,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:05:35.2292984+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:06:44.9473256+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:59:52.3823978+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:05:35.2293557+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:00:48.418484+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:06:44.9473746+00:00"
 }

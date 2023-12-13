@@ -417,9 +417,9 @@
       "ID": "ACH_17_FLOCK_OF_BIRDS",
       "SetID": "9loam6m",
       "Name": "Flock of birds",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_18_LEGENDARY_TREASURE",
@@ -632,8 +632,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:06:43.3294887+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:08:05.8962078+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:43.2221056+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:58:36.5269153+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:06:43.3295142+00:00"
+  "LastUpdate_Ratings": "2023-12-13T15:59:12.9476645+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:08:05.896246+00:00"
 }

@@ -3433,7 +3433,7 @@
   ],
   "EOS_Progressed": 18017,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": -8,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15650,9 +15650,9 @@
       "ID": "ManyEvents",
       "SetID": "cfbk359",
       "Name": "Efficient Explorer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 54
     },
     {
       "ID": "MetalChain",
@@ -15754,9 +15754,9 @@
       "ID": "WinNearFishmen",
       "SetID": "cfbk359",
       "Name": "Fishmen Ritual Site",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 72
     },
     {
       "ID": "WinNearForbidden",
@@ -16066,8 +16066,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-13T10:59:18.3182302+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:08:03.3436228+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:08:37.006264+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:59:38.730893+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:08:03.343709+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:00:30.8727199+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:08:37.0063633+00:00"
 }

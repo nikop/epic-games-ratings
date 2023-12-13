@@ -22,7 +22,7 @@ Rating: 4.15 (Ranked 962)
 | Gone Rogue | 0.30% | ~206 |
 | Runs for Your Money | 0.30% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,532 (Ranked 103)  
+Progressed: 68,533 (Ranked 103)  
 Completed: 39 (0.06%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,10 +130,10 @@ Completed: 39 (0.06%) (Ranked 315)
 | 2023-12-10 | 68,410 | 39 |
 | 2023-12-11 | 68,456 | 39 |
 | 2023-12-12 | 68,509 | 39 |
-| 2023-12-13 | 68,532 | 39 |
+| 2023-12-13 | 68,533 | 39 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 360)  
-Sum: 412 (Ranked 343)  
+Sum: 413 (Ranked 343)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
@@ -144,7 +144,7 @@ Diff (max vs sum): 17
 | This game is Highly Recommended | 52 |
 | This game is Extremely Fun | 47 |
 | This game has Amazing Storytelling | 43 |
-| This game has Quickly Understood Controls | 39 |
+| This game has Quickly Understood Controls | 40 |
 | This game is Relaxing | 28 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -236,3 +236,4 @@ Diff (max vs sum): 17
 | 2023-12-09 | 4.16 | 103 | 463 |
 | 2023-12-11 | 4.15 | 103 | 409 |
 | 2023-12-12 | 4.15 | 104 | 412 |
+| 2023-12-13 | 4.15 | 104 | 413 |

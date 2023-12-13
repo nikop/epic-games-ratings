@@ -6,9 +6,9 @@
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 164,
-  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -931,11 +931,11 @@
       "Count": 120
     }
   ],
-  "EOS_Progressed": 11373,
-  "EOS_Completed": 67,
-  "EOS_NewPlayers": 157,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.59,
+  "EOS_Progressed": 11375,
+  "EOS_Completed": 68,
+  "EOS_NewPlayers": 159,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -14276,6 +14276,11 @@
       "Time": "2023-12-13T14:09:21.3524345+00:00",
       "NumProgressed": 11373,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-12-13T16:10:00.8231639+00:00",
+      "NumProgressed": 11375,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 34,
@@ -14303,7 +14308,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "ACH04",
@@ -14319,7 +14324,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH06",
@@ -14391,7 +14396,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 4890
+      "UsersEstimate": 4891
     },
     {
       "ID": "ACH15",
@@ -14447,7 +14452,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5345
+      "UsersEstimate": 5346
     },
     {
       "ID": "ACH22",
@@ -14455,7 +14460,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "ACH23",
@@ -14469,9 +14474,9 @@
       "ID": "ACH24",
       "SetID": "9llo822",
       "Name": "Big Heat from Little Havana",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1706
     },
     {
       "ID": "ACH25",
@@ -14511,7 +14516,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH30",
@@ -14527,7 +14532,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH32",
@@ -14558,16 +14563,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11373,
-      "Completed": 67
+      "Progressed": 11375,
+      "Completed": 68
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-13T01:45:31.3846628+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:09:12.0168985+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:10:00.8231635+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.0199326+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:57:50.6715077+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:09:12.0169679+00:00"
+  "LastUpdate_Ratings": "2023-12-13T15:58:16.8685585+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:10:00.8232476+00:00"
 }

@@ -538,18 +538,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 198,
       "NumberOfAwardsMax": 155
+    },
+    {
+      "Time": "2023-12-13T16:01:07.6767373+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 199,
+      "NumberOfAwardsMax": 156
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 198,
-  "NumberOfAwardsMax": 155,
+  "NumberOfAwards": 199,
+  "NumberOfAwardsMax": 156,
   "MaxAwardTitle": "Easy Puzzles",
   "Tags": [
     {
       "Text": "This game features Easy Puzzles",
       "Prefix": "This game features",
       "Type": "Easy Puzzles",
-      "Count": 155
+      "Count": 156
     },
     {
       "Text": "In this game, your choices Impact the Story",
@@ -560,7 +566,7 @@
   ],
   "EOS_Progressed": 17012,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -16357,9 +16363,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
-  "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:05:45.209229+00:00",
+  "LastChanged": "2023-12-13T16:01:07.6767372+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:06:56.6318752+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.5508408+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:00:08.0395765+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:05:45.209327+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:01:07.6767377+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:06:56.63196+00:00"
 }

@@ -55,11 +55,11 @@ Rating: 4.87 (Ranked 25)
 | Problem solved... wait, what? | 0.50% | ~23 |
 | Now this is how you fight like a team! | 0.50% | ~23 |
 | And the crowd goes wild! | 0.40% | ~18 |
+| Fully Powered Up! | 0.40% | ~18 |
 | I am a good person who likes to help | 0.40% | ~18 |
 | With our powers combined…and to the rhythm… | 0.40% | ~18 |
 | It'll do, CNMN | 0.40% | ~12 |
 | I can't see this ever being a problem again | 0.30% | ~14 |
-| Fully Powered Up! | 0.30% | ~14 |
 | This was... not what I expected. | 0.20% | ~9 |
 | Have we met before? | 0.20% | ~9 |
 | I saw all those hits coming a measure away! | 0.20% | ~9 |

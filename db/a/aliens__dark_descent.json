@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -423,9 +423,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 3750,
+  "EOS_Progressed": 3751,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6283,6 +6283,11 @@
       "Time": "2023-12-12T23:04:18.1963108+00:00",
       "NumProgressed": 3750,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-13T16:05:10.70809+00:00",
+      "NumProgressed": 3751,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -6334,7 +6339,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -6358,7 +6363,7 @@
       "Name": "Fair And Square",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_FINISH_IRONMAN",
@@ -6374,7 +6379,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -6406,7 +6411,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -6414,7 +6419,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -6494,7 +6499,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "ACH_MISSION_03",
@@ -6502,7 +6507,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "ACH_MISSION_04",
@@ -6526,7 +6531,7 @@
       "Name": "Living Nightmare",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "ACH_MISSION_07",
@@ -6574,7 +6579,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -6582,7 +6587,7 @@
       "Name": "The True Experience",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_PREVENT_ABDUCTED",
@@ -6590,7 +6595,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -6606,7 +6611,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -6630,7 +6635,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -6653,7 +6658,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3750,
+      "Progressed": 3751,
       "Completed": 3
     }
   ],
@@ -6661,8 +6666,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-07T22:58:01.026628+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:04:16.7882689+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:05:10.7080896+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:06.5838535+00:00",
-  "LastUpdate_Ratings": "2023-12-13T15:02:39.7446779+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:04:16.7883134+00:00"
+  "LastUpdate_Ratings": "2023-12-13T16:03:10.4997223+00:00",
+  "LastUpdate_Achievements": "2023-12-13T16:05:10.708155+00:00"
 }

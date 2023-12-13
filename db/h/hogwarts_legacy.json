@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11937,7 +11937,7 @@
       "Count": 852
     }
   ],
-  "EOS_Progressed": 304285,
+  "EOS_Progressed": 304287,
   "EOS_Completed": 525,
   "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 2,
@@ -37317,6 +37317,11 @@
       "Time": "2023-12-13T15:06:19.4960247+00:00",
       "NumProgressed": 304285,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-13T16:07:37.5117236+00:00",
+      "NumProgressed": 304287,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37336,15 +37341,15 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33471
+      "UsersEstimate": 33472
     },
     {
       "ID": "PFA_11",
       "SetID": "1hf4dep",
       "Name": "The One Who Mastered Memories",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 33471
+      "UsersEstimate": 36514
     },
     {
       "ID": "PFA_12",
@@ -37360,7 +37365,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33471
+      "UsersEstimate": 33472
     },
     {
       "ID": "PFA_14",
@@ -37432,7 +37437,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33471
+      "UsersEstimate": 33472
     },
     {
       "ID": "PFA_22",
@@ -37552,7 +37557,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33471
+      "UsersEstimate": 33472
     },
     {
       "ID": "PFA_36",
@@ -37680,14 +37685,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30428
+      "UsersEstimate": 30429
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304285,
+      "Progressed": 304287,
       "Completed": 525
     }
   ],
@@ -37695,8 +37700,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-13T15:00:59.9072312+00:00",
-  "LastChanged_Achievements": "2023-12-13T15:06:19.4960245+00:00",
+  "LastChanged_Achievements": "2023-12-13T16:07:37.5117231+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
   "LastUpdate_Ratings": "2023-12-13T15:00:59.9072319+00:00",
-  "LastUpdate_Achievements": "2023-12-13T15:06:19.4961668+00:00"
+  "LastUpdate_Achievements": "2023-12-13T16:07:37.5119115+00:00"
 }

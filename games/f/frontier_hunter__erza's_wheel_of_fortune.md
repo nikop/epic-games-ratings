@@ -30,8 +30,8 @@
 | Master Artificer | 16.00% | ~95 |
 | Kind Adventurer | 15.00% | ~89 |
 | Mermaid Killer | 14.00% | ~83 |
+| Cave Master | 14.00% | ~83 |
 | Face Slapper | 14.00% | ~83 |
-| Cave Master | 13.00% | ~77 |
 | Boss challenge | 10.00% | ~59 |
 | Berserker Slayer | 10.00% | ~59 |
 | Giantess Slayer | 9.00% | ~53 |
