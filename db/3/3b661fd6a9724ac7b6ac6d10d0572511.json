@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 16,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-06-08T15:00:00+00:00",
     "PcReleaseDate": "2013-08-12T22:00:00+00:00",
@@ -8119,9 +8119,9 @@
       "Count": 1426
     }
   ],
-  "EOS_Progressed": 1800351,
+  "EOS_Progressed": 1800362,
   "EOS_Completed": 719,
-  "EOS_NewPlayers": 6168,
+  "EOS_NewPlayers": 6172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -30194,6 +30194,11 @@
       "Time": "2023-12-13T02:34:29.9562716+00:00",
       "NumProgressed": 1800351,
       "NumCompleted": 719
+    },
+    {
+      "Time": "2023-12-13T03:10:26.0448167+00:00",
+      "NumProgressed": 1800362,
+      "NumCompleted": 719
     }
   ],
   "TotalAchievements": 1328,
@@ -30261,7 +30266,7 @@
       "Name": "The Collector",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 108021
+      "UsersEstimate": 108022
     },
     {
       "ID": "armed_and_dangerous",
@@ -31029,7 +31034,7 @@
       "Name": "Career Criminal",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12602
+      "UsersEstimate": 12603
     },
     {
       "ID": "bigbank_1",
@@ -31405,7 +31410,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 198039
+      "UsersEstimate": 198040
     },
     {
       "ID": "brooklyn_2",
@@ -31629,7 +31634,7 @@
       "Name": "Virus",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 108021
+      "UsersEstimate": 108022
     },
     {
       "ID": "cac_29",
@@ -34501,7 +34506,7 @@
       "Name": "Taking the High Road",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12602
+      "UsersEstimate": 12603
     },
     {
       "ID": "glace_10",
@@ -34957,7 +34962,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 108021
+      "UsersEstimate": 108022
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -35917,7 +35922,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 162032
+      "UsersEstimate": 162033
     },
     {
       "ID": "no_turning_back",
@@ -35925,7 +35930,7 @@
       "Name": "No Turning Back",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 162032
+      "UsersEstimate": 162033
     },
     {
       "ID": "orange_1",
@@ -37029,7 +37034,7 @@
       "Name": "The Heat\u0027s Around the Corner",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12602
+      "UsersEstimate": 12603
     },
     {
       "ID": "run_10",
@@ -38325,7 +38330,7 @@
       "Name": "Taking a Deposit",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12602
+      "UsersEstimate": 12603
     },
     {
       "ID": "trk_bd_2",
@@ -38565,7 +38570,7 @@
       "Name": "Random Access Larceny",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12602
+      "UsersEstimate": 12603
     },
     {
       "ID": "trk_br_2",
@@ -39189,7 +39194,7 @@
       "Name": "Hector\u0027s Heroes",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12602
+      "UsersEstimate": 12603
     },
     {
       "ID": "trk_fir_1",
@@ -40045,7 +40050,7 @@
       "Name": "Milk and Cookies",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12602
+      "UsersEstimate": 12603
     },
     {
       "ID": "trk_sw_1",
@@ -40237,7 +40242,7 @@
       "Name": "The Little Heister That Could",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12602
+      "UsersEstimate": 12603
     },
     {
       "ID": "trk_tt_1",
@@ -40349,7 +40354,7 @@
       "Name": "The Princess is in Another Safe!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12602
+      "UsersEstimate": 12603
     },
     {
       "ID": "trk_uj_3",
@@ -40397,7 +40402,7 @@
       "Name": "I Swear Officer, We are Not Transporting Drugs",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12602
+      "UsersEstimate": 12603
     },
     {
       "ID": "trk_wd_1",
@@ -40805,7 +40810,7 @@
       "Name": "Yeah, He\u0027s a Gold Digger",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12602
+      "UsersEstimate": 12603
     },
     {
       "ID": "you_gotta_start_somewhere",
@@ -40813,7 +40818,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 162032
+      "UsersEstimate": 162033
     },
     {
       "ID": "you_shall_not_pass",
@@ -40828,13 +40833,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1800351,
+      "Progressed": 1800362,
       "Completed": 719
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1800351,
+      "Progressed": 1800362,
       "Completed": 118
     }
   ],
@@ -40842,8 +40847,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-12-13T01:48:14.3906017+00:00",
-  "LastChanged_Achievements": "2023-12-13T02:34:29.9562713+00:00",
+  "LastChanged_Achievements": "2023-12-13T03:10:26.0448162+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:06.7545968+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:25:30.7581845+00:00",
-  "LastUpdate_Achievements": "2023-12-13T02:34:29.968855+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:01:29.7688416+00:00",
+  "LastUpdate_Achievements": "2023-12-13T03:10:26.0578019+00:00"
 }

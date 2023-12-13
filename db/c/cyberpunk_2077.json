@@ -16550,9 +16550,9 @@
       "Count": 15389
     }
   ],
-  "EOS_Progressed": 975146,
+  "EOS_Progressed": 975158,
   "EOS_Completed": 2891,
-  "EOS_NewPlayers": 4426,
+  "EOS_NewPlayers": 4424,
   "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -43490,6 +43490,11 @@
       "Time": "2023-12-13T02:31:07.504709+00:00",
       "NumProgressed": 975146,
       "NumCompleted": 2891
+    },
+    {
+      "Time": "2023-12-13T03:06:54.3181053+00:00",
+      "NumProgressed": 975158,
+      "NumCompleted": 2891
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -43534,7 +43539,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48757
+      "UsersEstimate": 48758
     },
     {
       "ID": "FollowingTheRiver",
@@ -43542,7 +43547,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9751
+      "UsersEstimate": 9752
     },
     {
       "ID": "Fortuneteller",
@@ -43550,7 +43555,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 9751
+      "UsersEstimate": 9752
     },
     {
       "ID": "Gearhead",
@@ -43574,7 +43579,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68260
+      "UsersEstimate": 68261
     },
     {
       "ID": "Gunslinger",
@@ -43598,7 +43603,7 @@
       "Name": "I Am The Law",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 9751
+      "UsersEstimate": 9752
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -43622,7 +43627,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29254
+      "UsersEstimate": 29255
     },
     {
       "ID": "MaxPain",
@@ -43726,7 +43731,7 @@
       "Name": "The Hermit",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29254
+      "UsersEstimate": 29255
     },
     {
       "ID": "TheHightPriestess",
@@ -43734,7 +43739,7 @@
       "Name": "The High Priestess",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29254
+      "UsersEstimate": 29255
     },
     {
       "ID": "TheLovers",
@@ -43742,7 +43747,7 @@
       "Name": "The Lovers",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48757
+      "UsersEstimate": 48758
     },
     {
       "ID": "TheStar",
@@ -43814,7 +43819,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9751
+      "UsersEstimate": 9752
     },
     {
       "ID": "UnderPressure",
@@ -43830,7 +43835,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117018
+      "UsersEstimate": 117019
     },
     {
       "ID": "YipMan",
@@ -43846,7 +43851,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29254
+      "UsersEstimate": 29255
     },
     {
       "ID": "All the President\u0027s Men",
@@ -44037,21 +44042,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 975146,
+      "Progressed": 975158,
       "Completed": 2891
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 103769,
+      "Progressed": 103781,
       "Completed": 10356
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-13T01:51:10.0677149+00:00",
-  "LastChanged_Achievements": "2023-12-13T02:31:07.5047086+00:00",
+  "LastChanged_Achievements": "2023-12-13T03:06:54.318105+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:22.348953+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:27:03.2176804+00:00",
-  "LastUpdate_Achievements": "2023-12-13T02:31:07.5048714+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:02:59.3723753+00:00",
+  "LastUpdate_Achievements": "2023-12-13T03:06:54.3182725+00:00"
 }

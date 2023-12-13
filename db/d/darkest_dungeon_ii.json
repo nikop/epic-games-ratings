@@ -9618,9 +9618,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126500,
+  "EOS_Progressed": 126503,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 864,
+  "EOS_NewPlayers": 865,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34738,6 +34738,11 @@
       "Time": "2023-12-13T02:33:03.1181941+00:00",
       "NumProgressed": 126500,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T03:09:03.8049068+00:00",
+      "NumProgressed": 126503,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34749,7 +34754,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -34765,7 +34770,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -34773,7 +34778,7 @@
       "Name": "A Life Well Lived",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -34837,7 +34842,7 @@
       "Name": "The World As It Was",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -34861,7 +34866,7 @@
       "Name": "Loop Year",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "combat_kill_animal",
@@ -34885,7 +34890,7 @@
       "Name": "Dissector",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "combat_kill_cosmic",
@@ -34957,7 +34962,7 @@
       "Name": "Clearing the Ledger",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "combat_kill_leviathan",
@@ -34997,7 +35002,7 @@
       "Name": "Circle of Life",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "combat_kill_swine",
@@ -35005,7 +35010,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -35013,7 +35018,7 @@
       "Name": "No Gravestone Left Unturned",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "combat_party_wipe_any_run_boss",
@@ -35029,7 +35034,7 @@
       "Name": "Hat Trick",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -35085,7 +35090,7 @@
       "Name": "20,000 Leagues Above the Sea",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "hero_loss_memoried",
@@ -35093,7 +35098,7 @@
       "Name": "Tears in the Rain",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "hero_skill_mastery_five",
@@ -35109,7 +35114,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "hero_story_complete_any",
@@ -35133,7 +35138,7 @@
       "Name": "Triage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "inn_first_time",
@@ -35157,7 +35162,7 @@
       "Name": "FNG",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35173,7 +35178,7 @@
       "Name": "The Clash",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "relationships_all_positive_mountain",
@@ -35189,7 +35194,7 @@
       "Name": "Eidetic",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "run_end_abandon",
@@ -35197,7 +35202,7 @@
       "Name": "Nope",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "run_victory_act01",
@@ -35245,7 +35250,7 @@
       "Name": "Grand Slam",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "run_victory_final_boss_infernal_flame",
@@ -35253,7 +35258,7 @@
       "Name": "Hard Mode",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "stagecoach_upgrade_equip_all",
@@ -35380,21 +35385,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126500,
+      "Progressed": 126503,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1369,
+      "Progressed": 1372,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T19:58:48.3219197+00:00",
-  "LastChanged_Achievements": "2023-12-13T02:33:03.1181938+00:00",
+  "LastChanged_Achievements": "2023-12-13T03:09:03.8049063+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:23:46.2358408+00:00",
-  "LastUpdate_Achievements": "2023-12-13T02:33:03.1183343+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:59:50.5004009+00:00",
+  "LastUpdate_Achievements": "2023-12-13T03:09:03.8050918+00:00"
 }

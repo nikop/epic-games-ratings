@@ -3640,9 +3640,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 240940,
+  "EOS_Progressed": 240941,
   "EOS_Completed": 296,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -27995,6 +27995,11 @@
       "Time": "2023-12-13T01:58:05.0335405+00:00",
       "NumProgressed": 240940,
       "NumCompleted": 296
+    },
+    {
+      "Time": "2023-12-13T03:10:22.170806+00:00",
+      "NumProgressed": 240941,
+      "NumCompleted": 296
     }
   ],
   "TotalAchievements": 138,
@@ -28492,9 +28497,9 @@
       "ID": "KILLFROG",
       "SetID": "5l8oe0h",
       "Name": "Goodbye, Frog Friend",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1446
     },
     {
       "ID": "KILLNICEDOG",
@@ -29109,13 +29114,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240940,
+      "Progressed": 240941,
       "Completed": 296
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2420,
+      "Progressed": 2421,
       "Completed": 403
     }
   ],
@@ -29123,8 +29128,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-12T20:58:51.4793333+00:00",
-  "LastChanged_Achievements": "2023-12-13T02:34:25.8845982+00:00",
+  "LastChanged_Achievements": "2023-12-13T03:10:22.1708054+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:23:44.3159913+00:00",
-  "LastUpdate_Achievements": "2023-12-13T02:34:25.8848297+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:59:48.7239789+00:00",
+  "LastUpdate_Achievements": "2023-12-13T03:10:22.1711746+00:00"
 }

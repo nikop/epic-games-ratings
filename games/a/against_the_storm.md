@@ -53,7 +53,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Feeding The People | 0.20% | ~36 |
 | Efficient Explorer | 0.20% | ~36 |
 | Forbidden Lands | 0.20% | ~36 |
-| Like a Machine | 0.20% | ~36 |
 | Paradise | 0.10% | ~18 |
 | Higher Needs | 0.10% | ~18 |
 | Beaver Utopia | 0.10% | ~18 |
@@ -65,8 +64,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~18 |
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
+| Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,999 (Ranked 147)  
+Progressed: 18,000 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 40 (0.22%) (Ranked 256)
 | 2023-12-10 | 17,908 | 43 |
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
-| 2023-12-13 | 17,999 | 40 |
+| 2023-12-13 | 18,000 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 225)  
 Sum: 3,255 (Ranked 175)  

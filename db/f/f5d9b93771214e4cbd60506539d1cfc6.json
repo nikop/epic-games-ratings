@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156305,
+  "EOS_Progressed": 156306,
   "EOS_Completed": 358,
-  "EOS_NewPlayers": 802,
+  "EOS_NewPlayers": 801,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -21395,6 +21395,11 @@
       "Time": "2023-12-13T02:28:05.7903535+00:00",
       "NumProgressed": 156305,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2023-12-13T03:04:01.2701181+00:00",
+      "NumProgressed": 156306,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 31,
@@ -21502,7 +21507,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 43765
+      "UsersEstimate": 43766
     },
     {
       "ID": "EAwards_20",
@@ -21598,7 +21603,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 14067
+      "UsersEstimate": 14068
     },
     {
       "ID": "EAwards_4",
@@ -21653,7 +21658,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 156305,
+      "Progressed": 156306,
       "Completed": 358
     }
   ],
@@ -21661,8 +21666,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-11T13:07:34.3622541+00:00",
-  "LastChanged_Achievements": "2023-12-13T02:28:05.7903531+00:00",
+  "LastChanged_Achievements": "2023-12-13T03:04:01.2701178+00:00",
   "LastUpdate_AppInfo": "2023-12-08T06:57:07.48101+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:20:59.4297019+00:00",
-  "LastUpdate_Achievements": "2023-12-13T02:28:05.7904408+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:57:13.0895421+00:00",
+  "LastUpdate_Achievements": "2023-12-13T03:04:01.2702419+00:00"
 }

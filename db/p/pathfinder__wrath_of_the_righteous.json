@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4559,9 +4559,9 @@
       "Count": 400
     }
   ],
-  "EOS_Progressed": 12291,
+  "EOS_Progressed": 12292,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16734,6 +16734,11 @@
       "Time": "2023-12-12T20:09:01.9942069+00:00",
       "NumProgressed": 12291,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T03:10:05.8080091+00:00",
+      "NumProgressed": 12292,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16753,7 +16758,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -16953,7 +16958,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "29_StrategicVictory",
@@ -17097,7 +17102,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -17672,21 +17677,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11073,
+      "Progressed": 11074,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12291,
+      "Progressed": 12292,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-12T20:57:18.0259338+00:00",
-  "LastChanged_Achievements": "2023-12-13T02:34:08.9212454+00:00",
+  "LastChanged_Achievements": "2023-12-13T03:10:05.8080087+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:21:26.2154055+00:00",
-  "LastUpdate_Achievements": "2023-12-13T02:34:08.9213961+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:57:37.5735687+00:00",
+  "LastUpdate_Achievements": "2023-12-13T03:10:05.8081728+00:00"
 }

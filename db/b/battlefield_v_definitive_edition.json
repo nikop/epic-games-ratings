@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 25007,
+  "EOS_Progressed": 25008,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1015,
   "EOS_NewCompleters": 0,
@@ -9828,6 +9828,11 @@
       "Time": "2023-12-13T02:34:00.7967669+00:00",
       "NumProgressed": 25007,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T03:09:57.9868637+00:00",
+      "NumProgressed": 25008,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -9840,7 +9845,7 @@
       "Name": "Storyteller",
       "Percentage": 7,
       "XP": 85,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1751
     },
     {
       "ID": "achievement_10",
@@ -9872,7 +9877,7 @@
       "Name": "Grim Reaper",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19255
+      "UsersEstimate": 19256
     },
     {
       "ID": "achievement_14",
@@ -9896,7 +9901,7 @@
       "Name": "Heads Down",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 18505
+      "UsersEstimate": 18506
     },
     {
       "ID": "achievement_17",
@@ -9912,7 +9917,7 @@
       "Name": "Eager Beaver",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 12253
+      "UsersEstimate": 12254
     },
     {
       "ID": "achievement_19",
@@ -9944,7 +9949,7 @@
       "Name": "Not On My Watch",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 17755
+      "UsersEstimate": 17756
     },
     {
       "ID": "achievement_3",
@@ -9992,7 +9997,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 18755
+      "UsersEstimate": 18756
     },
     {
       "ID": "achievement_9",
@@ -10007,13 +10012,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 25007,
+      "Progressed": 25008,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-12-13T02:34:00.7967666+00:00",
+  "LastChanged_Achievements": "2023-12-13T03:09:57.9868632+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:18.2422283+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:22:50.5390926+00:00",
-  "LastUpdate_Achievements": "2023-12-13T02:34:00.7968341+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:58:58.5705785+00:00",
+  "LastUpdate_Achievements": "2023-12-13T03:09:57.9869262+00:00"
 }

@@ -939,9 +939,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4146,
+  "EOS_Progressed": 4147,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7034,6 +7034,11 @@
       "Time": "2023-12-13T01:52:43.1092746+00:00",
       "NumProgressed": 4146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T03:05:12.6690882+00:00",
+      "NumProgressed": 4147,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -7086,7 +7091,7 @@
       "Name": "ROTY",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "achievement_15",
@@ -7132,9 +7137,9 @@
       "ID": "achievement_2",
       "SetID": "aiin7da",
       "Name": "Unblockable",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 373
+      "UsersEstimate": 415
     },
     {
       "ID": "achievement_20",
@@ -7142,7 +7147,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "achievement_21",
@@ -7206,14 +7211,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4146,
+      "Progressed": 4147,
       "Completed": 0
     }
   ],
@@ -7221,8 +7226,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-12T23:00:39.4522791+00:00",
-  "LastChanged_Achievements": "2023-12-13T02:29:20.9470604+00:00",
+  "LastChanged_Achievements": "2023-12-13T03:05:12.6690878+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:24:56.2604424+00:00",
-  "LastUpdate_Achievements": "2023-12-13T02:29:20.9471108+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:00:56.6491993+00:00",
+  "LastUpdate_Achievements": "2023-12-13T03:05:12.6691341+00:00"
 }

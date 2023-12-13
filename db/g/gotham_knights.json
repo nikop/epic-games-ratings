@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4637,9 +4637,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77931,
+  "EOS_Progressed": 77932,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25792,6 +25792,11 @@
       "Time": "2023-12-13T01:51:36.2094998+00:00",
       "NumProgressed": 77931,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-13T03:03:40.29126+00:00",
+      "NumProgressed": 77932,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -26179,7 +26184,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 21041
+      "UsersEstimate": 21042
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -26195,7 +26200,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25717
+      "UsersEstimate": 25718
     },
     {
       "ID": "MYSTERY_02",
@@ -26203,7 +26208,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18703
+      "UsersEstimate": 18704
     },
     {
       "ID": "MYSTERY_03",
@@ -26259,7 +26264,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8572
+      "UsersEstimate": 8573
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -26290,13 +26295,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77931,
+      "Progressed": 77932,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48211,
+      "Progressed": 48212,
       "Completed": 2675
     }
   ],
@@ -26304,8 +26309,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-12T19:58:35.1362928+00:00",
-  "LastChanged_Achievements": "2023-12-13T02:27:44.0037173+00:00",
+  "LastChanged_Achievements": "2023-12-13T03:03:40.2912596+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:23:25.6380521+00:00",
-  "LastUpdate_Achievements": "2023-12-13T02:27:44.0038527+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:59:31.0843971+00:00",
+  "LastUpdate_Achievements": "2023-12-13T03:03:40.2913819+00:00"
 }

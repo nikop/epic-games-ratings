@@ -7,12 +7,12 @@ Rating: 4.43 (Ranked 698)
 | ---- | ---------- | ----- |
 | No aid from the Omnissiah | 26.00% | ~59,605 |
 | This is only the beginning | 20.00% | ~45,850 |
-| Knowledge is power | 13.00% | ~29,802 |
+| Knowledge is power | 13.00% | ~29,803 |
 | Galvanic Rifle | 10.00% | ~22,925 |
 | Radium Ready | 10.00% | ~22,925 |
-| Power Ranger | 9.00% | ~20,632 |
-| Taser Goad | 9.00% | ~20,632 |
-| Half a cog | 9.00% | ~20,632 |
+| Power Ranger | 9.00% | ~20,633 |
+| Taser Goad | 9.00% | ~20,633 |
+| Half a cog | 9.00% | ~20,633 |
 | Watch them crumble | 6.00% | ~13,755 |
 | Competent Cohort | 4.00% | ~9,170 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,170 |
@@ -27,10 +27,10 @@ Rating: 4.43 (Ranked 698)
 | Cohortus Maximus | 0.80% | ~1,834 |
 | Mother of Xenarites | 0.40% | ~917 |
 | False God | 0.30% | ~688 |
-| Hard | 0.20% | ~458 |
-| Sensory overload | 0.20% | ~458 |
-| Transonic Blur | 0.20% | ~458 |
-| Not the Men-of-Iron | 0.20% | ~458 |
+| Hard | 0.20% | ~459 |
+| Sensory overload | 0.20% | ~459 |
+| Transonic Blur | 0.20% | ~459 |
+| Not the Men-of-Iron | 0.20% | ~459 |
 | Sterile Perfection | 0.10% | ~229 |
 | Impossible | 0.10% | ~229 |
 | Melee Machine | 0.10% | ~229 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 698)
 | Perma-live | 0.10% | ~229 |
 | Purge the Heretek | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,250 (Ranked 70)  
+Progressed: 229,251 (Ranked 70)  
 Completed: 5 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 5 (0.00%) (Ranked 373)
 | 2023-12-10 | 229,092 | 5 |
 | 2023-12-11 | 229,164 | 5 |
 | 2023-12-12 | 229,245 | 5 |
-| 2023-12-13 | 229,250 | 5 |
+| 2023-12-13 | 229,251 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 258)  
 Sum: 2,209 (Ranked 206)  

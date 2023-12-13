@@ -11833,10 +11833,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 50547,
       "NumberOfAwardsMax": 25134
+    },
+    {
+      "Time": "2023-12-13T03:01:28.8747264+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50554,
+      "NumberOfAwardsMax": 25134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50547,
+  "NumberOfAwards": 50554,
   "NumberOfAwardsMax": 25134,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11856,7 +11862,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 1100
+      "Count": 1107
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11913,7 +11919,7 @@
       "Count": 852
     }
   ],
-  "EOS_Progressed": 304266,
+  "EOS_Progressed": 304267,
   "EOS_Completed": 525,
   "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 3,
@@ -37233,6 +37239,11 @@
       "Time": "2023-12-13T02:30:59.8539382+00:00",
       "NumProgressed": 304266,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-13T03:06:47.1614553+00:00",
+      "NumProgressed": 304267,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37603,16 +37614,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304266,
+      "Progressed": 304267,
       "Completed": 525
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-13T00:00:12.9303426+00:00",
-  "LastChanged_Achievements": "2023-12-13T02:30:59.8539375+00:00",
+  "LastChanged": "2023-12-13T03:01:28.8747262+00:00",
+  "LastChanged_Achievements": "2023-12-13T03:06:47.161455+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:25:29.8287462+00:00",
-  "LastUpdate_Achievements": "2023-12-13T02:30:59.8540493+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:01:28.8747268+00:00",
+  "LastUpdate_Achievements": "2023-12-13T03:06:47.161575+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.38 (Ranked 770)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~769,570 |
-| The ABCs | 43.00% | ~675,337 |
-| Home Run | 41.00% | ~643,926 |
-| Keeps Coming Off | 41.00% | ~643,926 |
-| Guts | 20.00% | ~314,110 |
-| Meat Grinder | 19.00% | ~298,405 |
-| Burning Man | 16.00% | ~251,288 |
-| Lived to Tell the Tale | 12.00% | ~188,466 |
-| Highlander | 10.00% | ~157,055 |
-| Unstoppable | 10.00% | ~157,055 |
+| Justice from the Grave | 49.00% | ~769,574 |
+| The ABCs | 43.00% | ~675,341 |
+| Home Run | 41.00% | ~643,930 |
+| Keeps Coming Off | 41.00% | ~643,930 |
+| Guts | 20.00% | ~314,112 |
+| Meat Grinder | 19.00% | ~298,406 |
+| Burning Man | 16.00% | ~251,290 |
+| Lived to Tell the Tale | 12.00% | ~188,467 |
+| Highlander | 10.00% | ~157,056 |
+| Unstoppable | 10.00% | ~157,056 |
 | Just a Scratch | 9.00% | ~141,350 |
-| Tough Nut to Crack | 6.00% | ~94,233 |
-| Yoink | 6.00% | ~94,233 |
+| Tough Nut to Crack | 6.00% | ~94,234 |
+| Yoink | 6.00% | ~94,234 |
 | Long List of Names | 4.00% | ~62,822 |
 | Pyromaniac | 4.00% | ~62,822 |
 | The Queen of Weapons | 4.00% | ~62,822 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 770)
 | That’s No Ordinary Cold | 0.10% | ~1,571 |
 | Stairway to Hell | 0.10% | ~1,571 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,570,552 (Ranked 7)  
+Progressed: 1,570,560 (Ranked 7)  
 Completed: 70 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,10 +281,10 @@ Completed: 70 (0.00%) (Ranked 373)
 | 2023-12-10 | 1,569,707 | 70 |
 | 2023-12-11 | 1,570,104 | 70 |
 | 2023-12-12 | 1,570,508 | 70 |
-| 2023-12-13 | 1,570,552 | 70 |
+| 2023-12-13 | 1,570,560 | 70 |
 ## Awards
 Max (Diverse Characters): 1,042  (Ranked 152)  
-Sum: 5,453 (Ranked 135)  
+Sum: 5,457 (Ranked 135)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
@@ -292,7 +292,7 @@ Diff (max vs sum): 17
 | This game has Challenging Combat | 899 |
 | This game is Highly Recommended | 842 |
 | This game has Amazing Characters | 703 |
-| This game is Extremely Fun | 698 |
+| This game is Extremely Fun | 702 |
 | This game has Competitive Players | 667 |
 | This game has Amazing Storytelling | 602 |
 | This game has Quickly Understood Controls | 132 |
@@ -542,4 +542,4 @@ Diff (max vs sum): 17
 | 2023-12-10 | 4.38 | 1,034 | 5,405 |
 | 2023-12-11 | 4.38 | 1,038 | 5,434 |
 | 2023-12-12 | 4.38 | 1,042 | 5,452 |
-| 2023-12-13 | 4.38 | 1,042 | 5,453 |
+| 2023-12-13 | 4.38 | 1,042 | 5,457 |

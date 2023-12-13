@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~11,271 |
-| Cool Whip | 90.00% | ~11,026 |
-| Fashion Killa | 88.00% | ~10,781 |
-| Drop the Beat | 86.00% | ~10,536 |
-| Hey Lakeshore | 85.00% | ~10,413 |
-| 100 Miles and Runnin' | 84.00% | ~10,291 |
-| Public Enemy | 82.00% | ~10,046 |
+| Throwing up Tags | 92.00% | ~11,272 |
+| Cool Whip | 90.00% | ~11,027 |
+| Fashion Killa | 88.00% | ~10,782 |
+| Drop the Beat | 86.00% | ~10,537 |
+| Hey Lakeshore | 85.00% | ~10,414 |
+| 100 Miles and Runnin' | 84.00% | ~10,292 |
+| Public Enemy | 82.00% | ~10,047 |
 | Rebel Without a Pause | 68.00% | ~8,331 |
 | Hey Speedie! | 68.00% | ~8,331 |
 | Most Wanted | 64.00% | ~7,841 |
-| New Crew | 63.00% | ~7,718 |
+| New Crew | 63.00% | ~7,719 |
 | Escape Artist | 54.00% | ~6,616 |
-| Serious Guap | 53.00% | ~6,493 |
-| Style it Out | 53.00% | ~6,493 |
+| Serious Guap | 53.00% | ~6,494 |
+| Style it Out | 53.00% | ~6,494 |
 | Untouchable | 52.00% | ~6,371 |
-| Oh, It's On | 51.00% | ~6,248 |
+| Oh, It's On | 51.00% | ~6,249 |
 | Rydell's Rydes | 49.00% | ~6,003 |
-| Cash Money Millionaire | 46.00% | ~5,635 |
-| Lake Better Watch Out | 40.00% | ~4,900 |
-| #Blessed | 34.00% | ~4,165 |
+| Cash Money Millionaire | 46.00% | ~5,636 |
+| Lake Better Watch Out | 40.00% | ~4,901 |
+| #Blessed | 34.00% | ~4,166 |
 | Access All Areas | 33.00% | ~4,043 |
-| Found Family | 32.00% | ~3,920 |
+| Found Family | 32.00% | ~3,921 |
 | In the Flow | 29.00% | ~3,553 |
 | The Collector | 29.00% | ~3,553 |
 | Kick it | 29.00% | ~3,553 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~245 |
 | Cleaning Up | 2.00% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,251 (Ranked 163)  
+Progressed: 12,252 (Ranked 163)  
 Completed: 53 (0.43%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,4 +135,4 @@ Completed: 53 (0.43%) (Ranked 221)
 | 2023-12-10 | 12,135 | 52 |
 | 2023-12-11 | 12,194 | 52 |
 | 2023-12-12 | 12,244 | 53 |
-| 2023-12-13 | 12,251 | 53 |
+| 2023-12-13 | 12,252 | 53 |

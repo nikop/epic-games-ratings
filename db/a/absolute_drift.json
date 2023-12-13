@@ -475,9 +475,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1555784,
+  "EOS_Progressed": 1555788,
   "EOS_Completed": 744,
-  "EOS_NewPlayers": 1275,
+  "EOS_NewPlayers": 1273,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27515,6 +27515,11 @@
       "Time": "2023-12-13T02:30:30.1526534+00:00",
       "NumProgressed": 1555784,
       "NumCompleted": 744
+    },
+    {
+      "Time": "2023-12-13T03:06:18.8076509+00:00",
+      "NumProgressed": 1555788,
+      "NumCompleted": 744
     }
   ],
   "TotalAchievements": 20,
@@ -27566,7 +27571,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 10890
+      "UsersEstimate": 10891
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -27622,7 +27627,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155578
+      "UsersEstimate": 155579
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -27685,15 +27690,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1555784,
+      "Progressed": 1555788,
       "Completed": 744
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-12-08T12:00:51.5497062+00:00",
-  "LastChanged_Achievements": "2023-12-13T02:30:30.1526531+00:00",
+  "LastChanged_Achievements": "2023-12-13T03:06:18.8076507+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.3878969+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:23:14.377989+00:00",
-  "LastUpdate_Achievements": "2023-12-13T02:30:30.1528495+00:00"
+  "LastUpdate_Ratings": "2023-12-13T02:59:19.9379099+00:00",
+  "LastUpdate_Achievements": "2023-12-13T03:06:18.8077595+00:00"
 }

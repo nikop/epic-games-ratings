@@ -6,25 +6,25 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~238,784 |
-| He's Signed! | 50.00% | ~238,784 |
-| First Victory | 50.00% | ~238,784 |
-| He's Sold! | 48.00% | ~229,233 |
+| Clean Sheet | 50.00% | ~238,785 |
+| He's Signed! | 50.00% | ~238,785 |
+| First Victory | 50.00% | ~238,785 |
+| He's Sold! | 48.00% | ~229,234 |
 | I'm The Boss! | 42.00% | ~200,579 |
-| Hat-trick | 41.00% | ~195,803 |
-| Scoring Streak | 38.00% | ~181,476 |
+| Hat-trick | 41.00% | ~195,804 |
+| Scoring Streak | 38.00% | ~181,477 |
 | Unbeatable! | 37.00% | ~176,701 |
 | Thumping | 37.00% | ~176,701 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,149 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,150 |
 | Total Support | 32.00% | ~152,822 |
 | Record Signing | 32.00% | ~152,822 |
-| He's a Natural | 31.00% | ~148,046 |
-| Millionaire's Club | 31.00% | ~148,046 |
+| He's a Natural | 31.00% | ~148,047 |
+| Millionaire's Club | 31.00% | ~148,047 |
 | Team Performance | 30.00% | ~143,271 |
 | Parked The Bus | 29.00% | ~138,495 |
 | Shrewd Spender | 29.00% | ~138,495 |
 | Star Man | 29.00% | ~138,495 |
-| Attack! | 28.00% | ~133,719 |
+| Attack! | 28.00% | ~133,720 |
 | You're On Fire | 27.00% | ~128,944 |
 | Tremendous Trio | 27.00% | ~128,944 |
 | Record Sale | 27.00% | ~128,944 |
@@ -49,7 +49,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Beating Expectations | 16.00% | ~76,411 |
 | Overachiever! | 16.00% | ~76,411 |
 | Rushed signing | 16.00% | ~76,411 |
-| Window Shopping | 15.00% | ~71,635 |
+| Window Shopping | 15.00% | ~71,636 |
 | Eyes and Ears | 14.00% | ~66,860 |
 | Comeback King! | 14.00% | ~66,860 |
 | You're Up! | 13.00% | ~62,084 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~478 |
 | Shoestring Budget | 0.10% | ~478 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 477,569 (Ranked 40)  
+Progressed: 477,570 (Ranked 40)  
 Completed: 22 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 22 (0.00%) (Ranked 373)
 | 2023-12-10 | 477,470 | 22 |
 | 2023-12-11 | 477,516 | 22 |
 | 2023-12-12 | 477,566 | 22 |
-| 2023-12-13 | 477,569 | 22 |
+| 2023-12-13 | 477,570 | 22 |
 ## Awards
 Max (Relaxing): 6,482  (Ranked 59)  
 Sum: 51,116 (Ranked 29)  

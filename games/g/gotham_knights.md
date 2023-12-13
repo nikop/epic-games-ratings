@@ -7,11 +7,11 @@ Rating: 4.18 (Ranked 947)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~38,966 |
 | Har, Har, Har, Very Funny | 34.00% | ~26,497 |
-| Loose Ends | 33.00% | ~25,717 |
+| Loose Ends | 33.00% | ~25,718 |
 | To the Victor Go the Spoils | 28.00% | ~21,821 |
-| Knighthood | 27.00% | ~21,041 |
+| Knighthood | 27.00% | ~21,042 |
 | Get ReQ'd | 25.00% | ~19,483 |
-| Whispered Words | 24.00% | ~18,703 |
+| Whispered Words | 24.00% | ~18,704 |
 | The Batman Family | 22.00% | ~17,145 |
 | Lock and Key | 22.00% | ~17,145 |
 | Something in the Clay | 21.00% | ~16,366 |
@@ -34,7 +34,7 @@ Rating: 4.18 (Ranked 947)
 | End of an Era | 12.00% | ~9,352 |
 | Bulldozed | 12.00% | ~9,352 |
 | Gotham Knight | 12.00% | ~9,352 |
-| Gotham City Confidential | 11.00% | ~8,572 |
+| Gotham City Confidential | 11.00% | ~8,573 |
 | Drone You Out | 10.00% | ~7,793 |
 | Out of Their League | 9.00% | ~7,014 |
 | Solid Alibi | 9.00% | ~7,014 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 947)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,931 (Ranked 99)  
+Progressed: 77,932 (Ranked 99)  
 Completed: 125 (0.16%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 125 (0.16%) (Ranked 275)
 | 2023-12-10 | 77,873 | 125 |
 | 2023-12-11 | 77,910 | 125 |
 | 2023-12-12 | 77,929 | 125 |
-| 2023-12-13 | 77,931 | 125 |
+| 2023-12-13 | 77,932 | 125 |
 ## Awards
 Max (Great Boss Battles): 3,007  (Ranked 98)  
 Sum: 5,144 (Ranked 141)  

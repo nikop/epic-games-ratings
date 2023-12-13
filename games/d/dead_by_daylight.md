@@ -6,44 +6,44 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,731 |
+| It wakes | 3.00% | ~32,732 |
 | Zealous | 2.00% | ~21,821 |
 | Not half bad | 2.00% | ~21,821 |
 | Apt Survivor | 2.00% | ~21,821 |
 | Survival Treasures | 2.00% | ~21,821 |
 | Skillful | 2.00% | ~21,821 |
+| I | 2.00% | ~21,821 |
 | Make Some Noise | 2.00% | ~21,821 |
-| The Grand Sacrifice | 1.00% | ~10,910 |
-| Agonizing Escape | 1.00% | ~10,910 |
-| Backdoor Escape | 1.00% | ~10,910 |
-| No one left behind | 1.00% | ~10,910 |
-| Medic | 1.00% | ~10,910 |
-| Handyman | 1.00% | ~10,910 |
-| Perfect Escape | 1.00% | ~10,910 |
-| Perfect Killing | 1.00% | ~10,910 |
-| Bloody Millionaire | 1.00% | ~10,910 |
-| Risk it all | 1.00% | ~10,910 |
-| I | 1.00% | ~10,910 |
-| Engineer | 1.00% | ~10,910 |
-| Sorted | 1.00% | ~10,910 |
-| Healthy Obsession | 1.00% | ~10,910 |
-| Resurgence | 1.00% | ~10,910 |
-| Close Shave | 1.00% | ~10,910 |
-| Preemptive Strike | 1.00% | ~10,910 |
-| Humanitarian | 1.00% | ~10,910 |
-| I've got your back | 0.90% | ~9,819 |
-| Apt Killer | 0.90% | ~9,819 |
-| II | 0.90% | ~9,819 |
-| Wounded Healer | 0.90% | ~9,819 |
-| III | 0.80% | ~8,728 |
-| Escape Artist | 0.70% | ~7,637 |
-| Vulture | 0.70% | ~7,637 |
-| First to the Punch | 0.70% | ~7,637 |
-| Operation: Survival | 0.70% | ~7,637 |
-| Every Last Drop | 0.70% | ~7,637 |
-| With Scars to Show | 0.70% | ~7,637 |
-| Lifting The Fog | 0.70% | ~7,637 |
-| Second Act | 0.70% | ~7,637 |
+| The Grand Sacrifice | 1.00% | ~10,911 |
+| Agonizing Escape | 1.00% | ~10,911 |
+| Backdoor Escape | 1.00% | ~10,911 |
+| No one left behind | 1.00% | ~10,911 |
+| Medic | 1.00% | ~10,911 |
+| Handyman | 1.00% | ~10,911 |
+| Perfect Escape | 1.00% | ~10,911 |
+| Perfect Killing | 1.00% | ~10,911 |
+| Bloody Millionaire | 1.00% | ~10,911 |
+| Risk it all | 1.00% | ~10,911 |
+| Engineer | 1.00% | ~10,911 |
+| Sorted | 1.00% | ~10,911 |
+| Healthy Obsession | 1.00% | ~10,911 |
+| Resurgence | 1.00% | ~10,911 |
+| Close Shave | 1.00% | ~10,911 |
+| Preemptive Strike | 1.00% | ~10,911 |
+| Humanitarian | 1.00% | ~10,911 |
+| I've got your back | 0.90% | ~9,820 |
+| Apt Killer | 0.90% | ~9,820 |
+| II | 0.90% | ~9,820 |
+| Wounded Healer | 0.90% | ~9,820 |
+| III | 0.80% | ~8,729 |
+| Escape Artist | 0.70% | ~7,638 |
+| Vulture | 0.70% | ~7,638 |
+| First to the Punch | 0.70% | ~7,638 |
+| Operation: Survival | 0.70% | ~7,638 |
+| Every Last Drop | 0.70% | ~7,638 |
+| With Scars to Show | 0.70% | ~7,638 |
+| Lifting The Fog | 0.70% | ~7,638 |
+| Second Act | 0.70% | ~7,638 |
 | Blood on your hands | 0.60% | ~6,546 |
 | Gifts for the Fog | 0.60% | ~6,546 |
 | III-50 | 0.60% | ~6,546 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,091 |
 | Adept Good Guy | 0.10% | ~1,091 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,091,026 (Ranked 12)  
+Progressed: 1,091,072 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -476,7 +476,7 @@ Completed: 62 (0.01%) (Ranked 350)
 | 2023-12-10 | 1,086,485 | 62 |
 | 2023-12-11 | 1,088,746 | 62 |
 | 2023-12-12 | 1,090,736 | 62 |
-| 2023-12-13 | 1,091,026 | 62 |
+| 2023-12-13 | 1,091,072 | 62 |
 ## Awards
 Max (Diverse Characters): 37,782  (Ranked 15)  
 Sum: 286,120 (Ranked 12)  
