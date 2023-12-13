@@ -2,12 +2,12 @@
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout",
   "ProductSlug": "divine-knockout",
-  "Ranking_Rating": 844,
+  "Ranking_Rating": 843,
   "Ranking_Popularity": 403,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 795,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-29T11:00:00+00:00",
@@ -1551,10 +1551,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 582,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-12-13T13:09:16.3772389+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 584,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 582,
+  "NumberOfAwards": 584,
   "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1568,7 +1574,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1604,7 +1610,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game is Relaxing",
@@ -1648,8 +1654,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-12-08T17:03:11.8248995+00:00",
+  "LastChanged": "2023-12-13T13:09:16.3772387+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:04.1057742+00:00",
-  "LastUpdate_Ratings": "2023-12-13T12:03:17.3188986+00:00",
-  "LastUpdate_Achievements": "2023-12-13T12:04:55.1007847+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:09:16.3772393+00:00",
+  "LastUpdate_Achievements": "2023-12-13T13:10:25.9962721+00:00"
 }

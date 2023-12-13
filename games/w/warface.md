@@ -1,4 +1,4 @@
-# Warface
+# Warface: Clutch
 [Store](https://store.epicgames.com/en-US/p/warface)  
 [View Rawdata](../../db/w/warface.json)  
 Rating: 3.90 (Ranked 1,036)  

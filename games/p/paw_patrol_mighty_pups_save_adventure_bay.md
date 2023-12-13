@@ -17,9 +17,9 @@
 | Robot Out of Control | 40.00% | ~18 |
 | Break Time | 36.00% | ~16 |
 | Master of the Rope | 33.00% | ~15 |
+| Training Day | 33.00% | ~15 |
 | In the Air | 33.00% | ~15 |
 | Never Miss | 33.00% | ~15 |
-| Training Day | 31.00% | ~14 |
 | The Fastest | 27.00% | ~12 |
 | Animal Sighting | 27.00% | ~12 |
 | Don’t Miss Any | 24.00% | ~11 |

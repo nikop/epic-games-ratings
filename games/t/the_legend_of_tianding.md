@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 83.00% | ~29 |
-| Eat the Rich | 57.00% | ~20 |
-| Phantom Kunoichi | 46.00% | ~16 |
-| Killing Machine | 46.00% | ~16 |
-| Death Battle | 40.00% | ~14 |
-| Divine Retribution | 37.00% | ~13 |
-| Final Showdown | 34.00% | ~12 |
-| Dispel Rumors | 34.00% | ~12 |
-| The End of an Outlaw | 34.00% | ~12 |
-| Captain Mustache | 34.00% | ~12 |
-| Sewer Rat | 29.00% | ~10 |
-| Demon Slayer | 26.00% | ~9 |
-| Urban Explorer | 26.00% | ~9 |
-| Steal Her Away | 26.00% | ~9 |
-| Coward | 26.00% | ~9 |
-| Fight Fire With Fire | 26.00% | ~9 |
-| Not Today | 23.00% | ~8 |
-| Big Eater | 20.00% | ~7 |
-| Tour Guide | 20.00% | ~7 |
+| Hero Arrives | 86.00% | ~31 |
+| Eat the Rich | 56.00% | ~20 |
+| Phantom Kunoichi | 44.00% | ~16 |
+| Killing Machine | 44.00% | ~16 |
+| Death Battle | 39.00% | ~14 |
+| Divine Retribution | 36.00% | ~13 |
+| Final Showdown | 33.00% | ~12 |
+| Dispel Rumors | 33.00% | ~12 |
+| The End of an Outlaw | 33.00% | ~12 |
+| Captain Mustache | 33.00% | ~12 |
+| Sewer Rat | 31.00% | ~11 |
+| Demon Slayer | 25.00% | ~9 |
+| Urban Explorer | 25.00% | ~9 |
+| Steal Her Away | 25.00% | ~9 |
+| Coward | 25.00% | ~9 |
+| Fight Fire With Fire | 25.00% | ~9 |
+| Not Today | 22.00% | ~8 |
+| Big Eater | 19.00% | ~7 |
+| Tour Guide | 19.00% | ~7 |
 | The Real O.G. | 17.00% | ~6 |
 | Tomb Raider | 17.00% | ~6 |
 | Talk to the Fist | 14.00% | ~5 |
@@ -31,8 +31,8 @@
 | The Legend | 6.00% | ~2 |
 | Taoist | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35 (Ranked 537)  
-Completed: 2 (5.71%) (Ranked 69)  
+Progressed: 36 (Ranked 535)  
+Completed: 2 (5.56%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,7 +66,7 @@ Completed: 2 (5.71%) (Ranked 69)
 | 2023-12-08 | 32 | 2 |
 | 2023-12-09 | 33 | 2 |
 | 2023-12-11 | 34 | 2 |
-| 2023-12-13 | 35 | 2 |
+| 2023-12-13 | 36 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

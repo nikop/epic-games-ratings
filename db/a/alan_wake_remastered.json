@@ -575,9 +575,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 98802,
+  "EOS_Progressed": 98803,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 1214,
+  "EOS_NewPlayers": 1212,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -25155,6 +25155,11 @@
       "Time": "2023-12-13T12:10:40.0373033+00:00",
       "NumProgressed": 98802,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-12-13T13:16:16.53552+00:00",
+      "NumProgressed": 98803,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 67,
@@ -25166,7 +25171,7 @@
       "Name": "Follow the Light",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 58293
+      "UsersEstimate": 58294
     },
     {
       "ID": "02",
@@ -25214,7 +25219,7 @@
       "Name": "Heavy Metal",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20748
+      "UsersEstimate": 20749
     },
     {
       "ID": "08",
@@ -25222,7 +25227,7 @@
       "Name": "Iron Horse",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 21736
+      "UsersEstimate": 21737
     },
     {
       "ID": "09",
@@ -25230,7 +25235,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23712
+      "UsersEstimate": 23713
     },
     {
       "ID": "10",
@@ -25254,7 +25259,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20748
+      "UsersEstimate": 20749
     },
     {
       "ID": "13",
@@ -25270,7 +25275,7 @@
       "Name": "Gatekeeper",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 17784
+      "UsersEstimate": 17785
     },
     {
       "ID": "15",
@@ -25278,7 +25283,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 17784
+      "UsersEstimate": 17785
     },
     {
       "ID": "16",
@@ -25326,7 +25331,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23712
+      "UsersEstimate": 23713
     },
     {
       "ID": "22",
@@ -25334,7 +25339,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 22724
+      "UsersEstimate": 22725
     },
     {
       "ID": "23",
@@ -25350,7 +25355,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 19760
+      "UsersEstimate": 19761
     },
     {
       "ID": "25",
@@ -25366,7 +25371,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 19760
+      "UsersEstimate": 19761
     },
     {
       "ID": "27",
@@ -25374,7 +25379,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 21736
+      "UsersEstimate": 21737
     },
     {
       "ID": "28",
@@ -25382,7 +25387,7 @@
       "Name": "Come One, Come All",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20748
+      "UsersEstimate": 20749
     },
     {
       "ID": "29",
@@ -25390,7 +25395,7 @@
       "Name": "Sound and Fury",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 24700
+      "UsersEstimate": 24701
     },
     {
       "ID": "30",
@@ -25398,7 +25403,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 17784
+      "UsersEstimate": 17785
     },
     {
       "ID": "31",
@@ -25422,7 +25427,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 24700
+      "UsersEstimate": 24701
     },
     {
       "ID": "34",
@@ -25430,7 +25435,7 @@
       "Name": "Energized!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 17784
+      "UsersEstimate": 17785
     },
     {
       "ID": "35",
@@ -25438,7 +25443,7 @@
       "Name": "Let There Be Light",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 49401
+      "UsersEstimate": 49402
     },
     {
       "ID": "36",
@@ -25526,7 +25531,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 24700
+      "UsersEstimate": 24701
     },
     {
       "ID": "47",
@@ -25701,21 +25706,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 98802,
+      "Progressed": 98803,
       "Completed": 112
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 62270,
+      "Progressed": 62271,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-12-06T22:59:13.2020229+00:00",
-  "LastChanged_Achievements": "2023-12-13T12:10:40.0373028+00:00",
+  "LastChanged_Achievements": "2023-12-13T13:16:16.5355194+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:23.6079867+00:00",
-  "LastUpdate_Ratings": "2023-12-13T11:59:35.2989065+00:00",
-  "LastUpdate_Achievements": "2023-12-13T12:10:40.0374845+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:05:00.1429545+00:00",
+  "LastUpdate_Achievements": "2023-12-13T13:16:16.5356639+00:00"
 }

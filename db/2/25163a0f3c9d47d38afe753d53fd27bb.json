@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1699,
-  "EOS_Completed": 123,
+  "EOS_Completed": 124,
   "EOS_NewPlayers": 18,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 7.24,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 7.3,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -4114,6 +4114,11 @@
       "Time": "2023-12-13T08:10:32.5020779+00:00",
       "NumProgressed": 1699,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-12-13T13:16:10.7604176+00:00",
+      "NumProgressed": 1699,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 30,
@@ -4347,9 +4352,9 @@
       "ID": "LEVEL_029",
       "SetID": "212bg48",
       "Name": "Bridges connect us",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 102
+      "UsersEstimate": 119
     },
     {
       "ID": "LEVEL_030",
@@ -4365,13 +4370,13 @@
       "ID": "212bg48",
       "IsBase": true,
       "Progressed": 1699,
-      "Completed": 123
+      "Completed": 124
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-13T12:10:32.5783147+00:00",
+  "LastChanged_Achievements": "2023-12-13T13:16:10.7604169+00:00",
   "LastUpdate_AppInfo": "2023-12-12T04:57:10.8541257+00:00",
-  "LastUpdate_Ratings": "2023-12-13T12:01:06.4412029+00:00",
-  "LastUpdate_Achievements": "2023-12-13T12:10:32.5783639+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:06:04.1184605+00:00",
+  "LastUpdate_Achievements": "2023-12-13T13:16:10.7604516+00:00"
 }

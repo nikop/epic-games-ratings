@@ -6,21 +6,21 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~570,723 |
-| Error: Stack Overflow | 66.00% | ~405,029 |
-| We need more gold | 61.00% | ~374,345 |
-| The dawn of civilization | 53.00% | ~325,251 |
-| More FPS for the FPS god! | 50.00% | ~306,840 |
-| Beauty and harmony | 48.00% | ~294,567 |
-| One more! | 44.00% | ~270,020 |
-| Overmind | 24.00% | ~147,283 |
+| First.. Bit? | 93.00% | ~570,727 |
+| Error: Stack Overflow | 66.00% | ~405,032 |
+| We need more gold | 61.00% | ~374,348 |
+| The dawn of civilization | 53.00% | ~325,253 |
+| More FPS for the FPS god! | 50.00% | ~306,842 |
+| Beauty and harmony | 48.00% | ~294,569 |
+| One more! | 44.00% | ~270,021 |
+| Overmind | 24.00% | ~147,284 |
 | RNG is my best friend now | 18.00% | ~110,463 |
-| Cosplay | 14.00% | ~85,915 |
+| Cosplay | 14.00% | ~85,916 |
 | Evolution in progress... | 13.00% | ~79,779 |
-| Step by step | 8.00% | ~49,094 |
+| Step by step | 8.00% | ~49,095 |
 | README reader | 4.00% | ~24,547 |
-| Data scientist | 3.00% | ~18,410 |
-| One small step for a man... | 3.00% | ~18,410 |
+| Data scientist | 3.00% | ~18,411 |
+| One small step for a man... | 3.00% | ~18,411 |
 | To see it all, to learn it all | 2.00% | ~12,274 |
 | Evolution complete | 2.00% | ~12,274 |
 | Best deal on the market | 2.00% | ~12,274 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,841 |
 | The Scrooge | 0.10% | ~614 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 613,681 (Ranked 30)  
+Progressed: 613,685 (Ranked 30)  
 Completed: 555 (0.09%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 555 (0.09%) (Ranked 301)
 | 2023-12-10 | 613,448 | 554 |
 | 2023-12-11 | 613,548 | 554 |
 | 2023-12-12 | 613,651 | 555 |
-| 2023-12-13 | 613,681 | 555 |
+| 2023-12-13 | 613,685 | 555 |
 ## Awards
 Max (Challenging Puzzles): 138  (Ranked 326)  
 Sum: 138 (Ranked 434)  

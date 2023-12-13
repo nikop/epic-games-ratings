@@ -11931,9 +11931,9 @@
       "Count": 852
     }
   ],
-  "EOS_Progressed": 304280,
+  "EOS_Progressed": 304283,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -37296,6 +37296,11 @@
       "Time": "2023-12-13T12:07:33.6057236+00:00",
       "NumProgressed": 304280,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-13T13:12:21.3570509+00:00",
+      "NumProgressed": 304283,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37371,7 +37376,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24342
+      "UsersEstimate": 24343
     },
     {
       "ID": "PFA_18",
@@ -37427,7 +37432,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 42599
+      "UsersEstimate": 42600
     },
     {
       "ID": "PFA_24",
@@ -37651,7 +37656,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39556
+      "UsersEstimate": 39557
     },
     {
       "ID": "PFA_9",
@@ -37666,7 +37671,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304280,
+      "Progressed": 304283,
       "Completed": 525
     }
   ],
@@ -37674,8 +37679,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-13T12:02:49.7449587+00:00",
-  "LastChanged_Achievements": "2023-12-13T12:07:33.6057228+00:00",
+  "LastChanged_Achievements": "2023-12-13T13:12:21.3570507+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-13T12:02:49.7449593+00:00",
-  "LastUpdate_Achievements": "2023-12-13T12:07:33.605883+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:08:57.823951+00:00",
+  "LastUpdate_Achievements": "2023-12-13T13:12:21.3571709+00:00"
 }

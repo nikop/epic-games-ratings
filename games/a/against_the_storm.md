@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 4.00% | ~720 |
-| Overgrown Library | 4.00% | ~720 |
-| Petrified Necropolis | 4.00% | ~720 |
+| Abandoned Settlement | 4.00% | ~721 |
+| Overgrown Library | 4.00% | ~721 |
+| Petrified Necropolis | 4.00% | ~721 |
 | Frosts | 3.00% | ~540 |
 | Land of Greed | 3.00% | ~540 |
 | Ominous Presence | 3.00% | ~540 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,012 (Ranked 147)  
+Progressed: 18,013 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 40 (0.22%) (Ranked 256)
 | 2023-12-10 | 17,908 | 43 |
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
-| 2023-12-13 | 18,012 | 40 |
+| 2023-12-13 | 18,013 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 224)  
 Sum: 3,256 (Ranked 174)  

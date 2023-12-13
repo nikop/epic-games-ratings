@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 552,
+  "EOS_Progressed": 553,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1610,6 +1610,11 @@
       "Time": "2023-12-13T11:09:11.6603913+00:00",
       "NumProgressed": 552,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T13:15:34.0191099+00:00",
+      "NumProgressed": 553,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1622,7 +1627,7 @@
       "Name": "The Teleprobe",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "AchvAllMemories",
@@ -1702,7 +1707,7 @@
       "Name": "Evacuation",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "AchvInvShip",
@@ -1798,7 +1803,7 @@
       "Name": "The Camp",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "AchvReachCity",
@@ -1806,7 +1811,7 @@
       "Name": "The City",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "AchvReachCondor",
@@ -1822,7 +1827,7 @@
       "Name": "Survivors",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1836,9 +1841,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 188
+      "UsersEstimate": 182
     },
     {
       "ID": "AchvUnity",
@@ -1846,21 +1851,21 @@
       "Name": "Beyond divisions",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 552,
+      "Progressed": 553,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-13T12:09:42.1564966+00:00",
+  "LastChanged_Achievements": "2023-12-13T13:15:34.0191096+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.1415487+00:00",
-  "LastUpdate_Ratings": "2023-12-13T11:59:53.5723434+00:00",
-  "LastUpdate_Achievements": "2023-12-13T12:09:42.1565229+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:05:12.4521908+00:00",
+  "LastUpdate_Achievements": "2023-12-13T13:15:34.0191346+00:00"
 }

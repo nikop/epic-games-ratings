@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -945,7 +945,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 7416,
+  "EOS_Progressed": 7417,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -9120,6 +9120,11 @@
       "Time": "2023-12-13T01:57:38.7092882+00:00",
       "NumProgressed": 7416,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T13:15:52.0638336+00:00",
+      "NumProgressed": 7417,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9187,7 +9192,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -9235,7 +9240,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5710
+      "UsersEstimate": 5711
     },
     {
       "ID": "First_Race_Met",
@@ -9251,7 +9256,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "First_Stream_Travel",
@@ -9267,7 +9272,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5636
+      "UsersEstimate": 5637
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9347,7 +9352,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2448
     },
     {
       "ID": "Play_1000_Hours",
@@ -9507,7 +9512,7 @@
       "Name": "Win as the Drath",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Win_As_Drengin",
@@ -9539,7 +9544,7 @@
       "Name": "Win as the Iridium",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Win_As_Krynn",
@@ -9555,7 +9560,7 @@
       "Name": "Win as the Manti",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Win_As_Mimot",
@@ -9579,7 +9584,7 @@
       "Name": "Win as the Onyx",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Win_As_Terran",
@@ -9619,7 +9624,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4820
+      "UsersEstimate": 4821
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9651,7 +9656,7 @@
       "Name": "Diplomatic Victory!",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Win_ImmenseMap",
@@ -9659,7 +9664,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Win_Influence",
@@ -9706,15 +9711,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7416,
+      "Progressed": 7417,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-05T01:55:09.6981089+00:00",
-  "LastChanged_Achievements": "2023-12-13T12:10:07.0842221+00:00",
+  "LastChanged_Achievements": "2023-12-13T13:15:52.0638332+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:03.4642275+00:00",
-  "LastUpdate_Ratings": "2023-12-13T11:58:21.5417447+00:00",
-  "LastUpdate_Achievements": "2023-12-13T12:10:07.0843138+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:04:09.2377074+00:00",
+  "LastUpdate_Achievements": "2023-12-13T13:15:52.0639273+00:00"
 }

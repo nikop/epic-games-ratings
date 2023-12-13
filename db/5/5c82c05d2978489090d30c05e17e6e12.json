@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66449,
+  "EOS_Progressed": 66466,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 2551,
+  "EOS_NewPlayers": 2548,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3396,6 +3396,11 @@
       "Time": "2023-12-13T12:05:07.0390419+00:00",
       "NumProgressed": 66449,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-12-13T13:10:34.7966209+00:00",
+      "NumProgressed": 66466,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -3408,15 +3413,15 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24586
+      "UsersEstimate": 24592
     },
     {
       "ID": "Achievement_10",
       "SetID": "2md12pi",
       "Name": "Inside Ma\u00E1to\u0027s Mind",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 598
+      "UsersEstimate": 665
     },
     {
       "ID": "Achievement_11",
@@ -3440,7 +3445,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "Achievement_14",
@@ -3464,7 +3469,7 @@
       "Name": "Diligent Hogbunny",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "Achievement_17",
@@ -3496,7 +3501,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17941
+      "UsersEstimate": 17946
     },
     {
       "ID": "Achievement_20",
@@ -3536,7 +3541,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "Achievement_25",
@@ -3584,7 +3589,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7974
+      "UsersEstimate": 7976
     },
     {
       "ID": "Achievement_30",
@@ -3608,7 +3613,7 @@
       "Name": "Art Director",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "Achievement_33",
@@ -3632,7 +3637,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5316
+      "UsersEstimate": 5317
     },
     {
       "ID": "Achievement_5",
@@ -3640,7 +3645,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3987
+      "UsersEstimate": 3988
     },
     {
       "ID": "Achievement_6",
@@ -3648,7 +3653,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "Achievement_7",
@@ -3656,7 +3661,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "Achievement_8",
@@ -3672,14 +3677,14 @@
       "Name": "Shielded by L\u00FFs",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     }
   ],
   "AchievementSets": [
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 66449,
+      "Progressed": 66466,
       "Completed": 76
     }
   ],
@@ -3687,8 +3692,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-13T02:27:02.0751001+00:00",
-  "LastChanged_Achievements": "2023-12-13T12:05:07.039041+00:00",
+  "LastChanged_Achievements": "2023-12-13T13:10:34.7966203+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-13T12:03:24.6817659+00:00",
-  "LastUpdate_Achievements": "2023-12-13T12:05:07.0390792+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:09:20.9329053+00:00",
+  "LastUpdate_Achievements": "2023-12-13T13:10:34.7966893+00:00"
 }

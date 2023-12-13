@@ -475,7 +475,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 43591,
+  "EOS_Progressed": 43592,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
@@ -14930,6 +14930,11 @@
       "Time": "2023-12-13T12:08:49.7361924+00:00",
       "NumProgressed": 43591,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-13T13:14:55.7496818+00:00",
+      "NumProgressed": 43592,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15133,7 +15138,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -15181,7 +15186,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -15229,7 +15234,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -15253,7 +15258,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -15293,7 +15298,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "STAYING_AIR",
@@ -15364,22 +15369,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43591,
+      "Progressed": 43592,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8428,
-      "Completed": 8428
+      "Progressed": 8429,
+      "Completed": 8429
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-12T05:01:14.3926085+00:00",
-  "LastChanged_Achievements": "2023-12-13T12:08:49.7361917+00:00",
+  "LastChanged_Achievements": "2023-12-13T13:14:55.7496815+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:12.2339808+00:00",
-  "LastUpdate_Ratings": "2023-12-13T12:02:50.8630864+00:00",
-  "LastUpdate_Achievements": "2023-12-13T12:08:49.7363023+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:08:58.563942+00:00",
+  "LastUpdate_Achievements": "2023-12-13T13:14:55.7497874+00:00"
 }

@@ -29,7 +29,7 @@ Rating: 4.55 (Ranked 517)
 | Defeat Rattus Augustail | 27.00% | ~604 |
 | Complete the Chefs Book | 25.00% | ~559 |
 | Complete Ranger Faction | 21.00% | ~470 |
-| Defeat Avor Warden of the Northern Wastes | 20.00% | ~447 |
+| Defeat Avor Warden of the Northern Wastes | 21.00% | ~470 |
 | Discover the mystery of the Kings Chambers | 19.00% | ~425 |
 | Complete Arena Faction | 16.00% | ~358 |
 | Complete Redgi's Armory | 8.00% | ~179 |
@@ -37,7 +37,7 @@ Rating: 4.55 (Ranked 517)
 | A new Warchief rises | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,237 (Ranked 227)  
-Completed: 12 (0.54%) (Ranked 205)  
+Completed: 12 (0.54%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,26 +1,26 @@
 # Zombie Rollerz: Pinball Heroes
 [Store](https://store.epicgames.com/en-US/p/zombie-rollerz-7aa027)  
 [View Rawdata](../../db/z/zombie_rollerz__pinball_heroes.json)  
-Rating: 4.29 (Ranked 856)  
+Rating: 4.29 (Ranked 855)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~177 |
-| Bullseye! | 85.00% | ~171 |
-| Graduation! | 80.00% | ~161 |
+| Level Up! | 88.00% | ~178 |
+| Bullseye! | 85.00% | ~172 |
+| Graduation! | 80.00% | ~162 |
 | Villfir Forest | 74.00% | ~149 |
 | Right in the kisser! | 58.00% | ~117 |
-| The Thrower | 47.00% | ~94 |
-| Duscot Steamcity | 47.00% | ~94 |
-| The Shaman | 45.00% | ~90 |
-| The Penguin | 44.00% | ~88 |
-| The Magician | 39.00% | ~78 |
-| The Tunneler | 39.00% | ~78 |
-| Level Up!! | 36.00% | ~72 |
-| The Shield | 36.00% | ~72 |
-| Kill-streak | 29.00% | ~58 |
-| Topped up | 29.00% | ~58 |
-| The Bird | 27.00% | ~54 |
+| The Thrower | 47.00% | ~95 |
+| Duscot Steamcity | 47.00% | ~95 |
+| The Shaman | 45.00% | ~91 |
+| The Penguin | 44.00% | ~89 |
+| The Magician | 39.00% | ~79 |
+| The Tunneler | 39.00% | ~79 |
+| Level Up!! | 36.00% | ~73 |
+| The Shield | 36.00% | ~73 |
+| Kill-streak | 29.00% | ~59 |
+| Topped up | 29.00% | ~59 |
+| The Bird | 27.00% | ~55 |
 | The Idol | 25.00% | ~50 |
 | The Ninja | 25.00% | ~50 |
 | Inferno Ruins | 24.00% | ~48 |
@@ -79,7 +79,7 @@ Rating: 4.29 (Ranked 856)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201 (Ranked 394)  
+Progressed: 202 (Ranked 394)  
 Completed: 1 (0.50%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 1 (0.50%) (Ranked 210)
 | 2023-12-03 | 199 | 1 |
 | 2023-12-09 | 200 | 1 |
 | 2023-12-12 | 201 | 1 |
+| 2023-12-13 | 202 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

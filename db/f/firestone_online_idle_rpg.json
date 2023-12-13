@@ -619,9 +619,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3320,
+  "EOS_Progressed": 3321,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9649,6 +9649,11 @@
       "Time": "2023-12-13T12:04:20.4563754+00:00",
       "NumProgressed": 3320,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T13:10:00.5409631+00:00",
+      "NumProgressed": 3321,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9844,7 +9849,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "fourleafclover",
@@ -10036,7 +10041,7 @@
       "Name": "Natural Talent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "pokerface",
@@ -10108,7 +10113,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "templeofeternals",
@@ -10116,7 +10121,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "thealchemist",
@@ -10164,7 +10169,7 @@
       "Name": "The Unstoppable",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "titanpower",
@@ -10220,7 +10225,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "warmachinesarmy",
@@ -10259,7 +10264,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3320,
+      "Progressed": 3321,
       "Completed": 2
     }
   ],
@@ -10267,8 +10272,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-12T19:57:28.7963613+00:00",
-  "LastChanged_Achievements": "2023-12-13T12:04:20.456375+00:00",
+  "LastChanged_Achievements": "2023-12-13T13:10:00.5409587+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
-  "LastUpdate_Ratings": "2023-12-13T11:58:26.3510626+00:00",
-  "LastUpdate_Achievements": "2023-12-13T12:04:20.4564686+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:04:12.5097946+00:00",
+  "LastUpdate_Achievements": "2023-12-13T13:10:00.5410565+00:00"
 }

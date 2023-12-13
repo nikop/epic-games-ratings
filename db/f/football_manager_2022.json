@@ -8774,9 +8774,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477578,
+  "EOS_Progressed": 477579,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32734,6 +32734,11 @@
       "Time": "2023-12-13T10:08:32.121953+00:00",
       "NumProgressed": 477578,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-13T13:09:38.9190278+00:00",
+      "NumProgressed": 477579,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -32801,7 +32806,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 124170
+      "UsersEstimate": 124171
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -32857,7 +32862,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143273
+      "UsersEstimate": 143274
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -32889,7 +32894,7 @@
       "Name": "Beating Expectations",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76412
+      "UsersEstimate": 76413
     },
     {
       "ID": "achievement_big_win",
@@ -32929,7 +32934,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238789
+      "UsersEstimate": 238790
     },
     {
       "ID": "achievement_club_world_cup",
@@ -33137,7 +33142,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 124170
+      "UsersEstimate": 124171
     },
     {
       "ID": "achievement_mr_delegator",
@@ -33161,7 +33166,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76412
+      "UsersEstimate": 76413
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -33169,7 +33174,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 167152
+      "UsersEstimate": 167153
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -33257,7 +33262,7 @@
       "Name": "Rushed signing",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76412
+      "UsersEstimate": 76413
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -33289,7 +33294,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229237
+      "UsersEstimate": 229238
     },
     {
       "ID": "achievement_signed_a_player",
@@ -33297,7 +33302,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238789
+      "UsersEstimate": 238790
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -33329,7 +33334,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 119394
+      "UsersEstimate": 119395
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -33377,7 +33382,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238789
+      "UsersEstimate": 238790
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -33528,15 +33533,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477578,
+      "Progressed": 477579,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-13T09:57:24.8748471+00:00",
-  "LastChanged_Achievements": "2023-12-13T12:03:50.9005493+00:00",
+  "LastChanged_Achievements": "2023-12-13T13:09:38.9190267+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.1665984+00:00",
-  "LastUpdate_Ratings": "2023-12-13T11:57:19.5759992+00:00",
-  "LastUpdate_Achievements": "2023-12-13T12:03:50.9013529+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:03:26.3237404+00:00",
+  "LastUpdate_Achievements": "2023-12-13T13:09:38.9196767+00:00"
 }

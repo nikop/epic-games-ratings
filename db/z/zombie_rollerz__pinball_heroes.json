@@ -2,12 +2,12 @@
   "ID": "f03887880e3f49c9b478cae9beac3812",
   "Name": "Zombie Rollerz: Pinball Heroes",
   "ProductSlug": "zombie-rollerz-7aa027",
-  "Ranking_Rating": 856,
+  "Ranking_Rating": 855,
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 201,
+  "EOS_Progressed": 202,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -805,6 +805,11 @@
       "Time": "2023-12-12T03:04:31.8420023+00:00",
       "NumProgressed": 201,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T13:10:50.7956914+00:00",
+      "NumProgressed": 202,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 73,
@@ -840,7 +845,7 @@
       "Name": "Bullseye!",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -856,7 +861,7 @@
       "Name": "Kill-streak",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "CLG_RUN_LEVELUP_1",
@@ -864,7 +869,7 @@
       "Name": "Level Up!",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -872,7 +877,7 @@
       "Name": "Level Up!!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "CLG_SKILL_LEVEL5_1",
@@ -880,7 +885,7 @@
       "Name": "Topped up",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "CLG_SKILL_LEVEL5_2",
@@ -896,7 +901,7 @@
       "Name": "The Penguin",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -1000,7 +1005,7 @@
       "Name": "The Bird",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "PRG_BOSS_FLOWER",
@@ -1024,7 +1029,7 @@
       "Name": "The Shaman",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -1032,7 +1037,7 @@
       "Name": "The Magician",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "PRG_BOSS_NINJA",
@@ -1056,7 +1061,7 @@
       "Name": "The Shield",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "PRG_BOSS_SLIME",
@@ -1072,7 +1077,7 @@
       "Name": "The Thrower",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -1080,7 +1085,7 @@
       "Name": "The Tunneler",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "PRG_CHAPTER_1",
@@ -1096,7 +1101,7 @@
       "Name": "Duscot Steamcity",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "PRG_CHAPTER_3",
@@ -1392,14 +1397,14 @@
       "Name": "Graduation!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 201,
+      "Progressed": 202,
       "Completed": 1
     }
   ],
@@ -1407,8 +1412,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-12-07T15:59:55.7707113+00:00",
-  "LastChanged_Achievements": "2023-12-13T12:05:28.6868179+00:00",
+  "LastChanged_Achievements": "2023-12-13T13:10:50.795691+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:56.4099283+00:00",
-  "LastUpdate_Ratings": "2023-12-13T12:00:36.7948869+00:00",
-  "LastUpdate_Achievements": "2023-12-13T12:05:28.6868773+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:05:43.0447979+00:00",
+  "LastUpdate_Achievements": "2023-12-13T13:10:50.7957524+00:00"
 }

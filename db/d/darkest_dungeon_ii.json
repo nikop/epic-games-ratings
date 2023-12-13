@@ -9556,10 +9556,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20282,
       "NumberOfAwardsMax": 7665
+    },
+    {
+      "Time": "2023-12-13T13:05:36.6138279+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20301,
+      "NumberOfAwardsMax": 7665
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20282,
+  "NumberOfAwards": 20301,
   "NumberOfAwardsMax": 7665,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9609,7 +9615,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1656
+      "Count": 1675
     },
     {
       "Text": "This game is Relaxing",
@@ -9636,9 +9642,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126566,
+  "EOS_Progressed": 126572,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 908,
+  "EOS_NewPlayers": 907,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34806,6 +34812,11 @@
       "Time": "2023-12-13T12:09:20.2627382+00:00",
       "NumProgressed": 126566,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T13:15:17.8667881+00:00",
+      "NumProgressed": 126572,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34831,9 +34842,9 @@
       "ID": "altar_of_hope_memory_equip_first_time",
       "SetID": "64l4lke",
       "Name": "It Rings a Bell",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 759
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -34951,9 +34962,9 @@
       "ID": "combat_kill_cadavers",
       "SetID": "64l4lke",
       "Name": "Dissector",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 759
     },
     {
       "ID": "combat_kill_cosmic",
@@ -35215,9 +35226,9 @@
       "ID": "inn_hire_mercenary_bounty_hunter",
       "SetID": "64l4lke",
       "Name": "When You Want Something Done Right",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 506
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -35353,7 +35364,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "combat_kill_collector",
@@ -35399,17 +35410,17 @@
       "ID": "hero_story_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Ploughshares to Swords",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "hero_story_complete_duelist",
       "SetID": "d3bcpc8",
       "Name": "Bloody Graduation",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "quest_complete_crusader",
@@ -35423,9 +35434,9 @@
       "ID": "relationships_positive_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "Friends \u0027Til the End",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35448,21 +35459,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126566,
+      "Progressed": 126572,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1435,
+      "Progressed": 1441,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-13T09:59:27.9523664+00:00",
-  "LastChanged_Achievements": "2023-12-13T12:09:20.2627375+00:00",
+  "LastChanged": "2023-12-13T13:05:36.6138277+00:00",
+  "LastChanged_Achievements": "2023-12-13T13:15:17.8667875+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T12:00:28.4434861+00:00",
-  "LastUpdate_Achievements": "2023-12-13T12:09:20.262884+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:05:36.6138282+00:00",
+  "LastUpdate_Achievements": "2023-12-13T13:15:17.8669299+00:00"
 }

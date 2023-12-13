@@ -3431,10 +3431,10 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18012,
+  "EOS_Progressed": 18013,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 383,
-  "EOS_NewCompleters": -9,
+  "EOS_NewPlayers": 384,
+  "EOS_NewCompleters": -8,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -15561,6 +15561,11 @@
       "Time": "2023-12-13T12:08:19.8127129+00:00",
       "NumProgressed": 18012,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-13T13:14:34.19443+00:00",
+      "NumProgressed": 18013,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15973,7 +15978,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "WinNearFrosts",
@@ -15997,7 +16002,7 @@
       "Name": "Overgrown Library",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "WinNearPetrified",
@@ -16005,7 +16010,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "WinNearPresence",
@@ -16044,15 +16049,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18012,
+      "Progressed": 18013,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-13T10:59:18.3182302+00:00",
-  "LastChanged_Achievements": "2023-12-13T12:08:19.8127123+00:00",
+  "LastChanged_Achievements": "2023-12-13T13:14:34.1944297+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-13T12:00:21.7288804+00:00",
-  "LastUpdate_Achievements": "2023-12-13T12:08:19.8128127+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:05:31.6882561+00:00",
+  "LastUpdate_Achievements": "2023-12-13T13:14:34.1945145+00:00"
 }

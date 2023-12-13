@@ -11,7 +11,7 @@ Rating: 4.44 (Ranked 682)
 | It's Starting to Crack | 34.00% | ~1,362 |
 | Lord of War | 31.00% | ~1,242 |
 | Change the Channel | 31.00% | ~1,242 |
-| Taking it back | 29.00% | ~1,162 |
+| Taking it back | 30.00% | ~1,202 |
 | Resourceful | 27.00% | ~1,082 |
 | Target America | 27.00% | ~1,082 |
 | The Kraken Sleeps | 25.00% | ~1,002 |
@@ -38,9 +38,9 @@ Rating: 4.44 (Ranked 682)
 | My Little Friend | 10.00% | ~401 |
 | Rigged to Blow | 9.00% | ~361 |
 | Herr Today, Gone Tomorrow | 7.00% | ~277 |
+| The Long Game | 6.00% | ~240 |
 | Operation Foxley | 6.00% | ~237 |
 | Strategist | 5.00% | ~200 |
-| The Long Game | 5.00% | ~200 |
 | Tinkerer | 5.00% | ~200 |
 | It'll Buff Right Out | 5.00% | ~200 |
 | Road Rage | 5.00% | ~200 |
