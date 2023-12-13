@@ -23,7 +23,7 @@
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 | 2 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 | 2 |
 | [GRIME](../games/g/grime.md) | 45 | 1,200 | 2 |
-| [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 55 | 1,000 | 2 |
+| [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 57 | 1,200 | 2 |
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 | 2 |
 | [High On Life](../games/h/high_on_life.md) | 44 | 1,195 | 2 |
 | [Homeworld: Deserts of Kharak](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 | 2 |

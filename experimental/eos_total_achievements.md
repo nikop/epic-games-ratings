@@ -83,6 +83,7 @@
 | [Zombie Army 4: Dead War](../games/z/zombie_army_4__dead_war.md) | 66 | 1,000 |
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [Warhammer 40,000: Rogue Trader](../games/c/cb88aea9aed742e4a911a65c4898d857.md) | 65 | 1,000 |
+| [Darksiders III](../games/d/darksiders_iii.md) | 64 | 1,000 |
 | [Deadwater Saloon](../games/0/0011a38fecb741dc9923879a4f490d42.md) | 64 | 1,000 |
 | [Revans](../games/d/dc5c7673e02543d6b57e9579d970702f.md) | 64 | 1,000 |
 | [DEATH STRANDING](../games/d/death_stranding.md) | 63 | 1,000 |
@@ -117,6 +118,7 @@
 | [War Mongrels](../games/w/war_mongrels.md) | 59 | 1,000 |
 | [Sands of Aura](../games/s/sands_of_aura.md) | 58 | 1,000 |
 | [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 57 | 1,500 |
+| [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 57 | 1,200 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 |
 | [Learning Factory](../games/l/learning_factory.md) | 57 | 1,000 |
 | [LOOPMANCER](../games/l/loopmancer.md) | 57 | 1,000 |
@@ -127,7 +129,6 @@
 | [Sable](../games/s/sable.md) | 56 | 1,000 |
 | [Wildermyth](../games/w/wildermyth.md) | 56 | 1,000 |
 | [Crash Drive 3](../games/c/crash_drive_3.md) | 55 | 1,000 |
-| [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 55 | 1,000 |
 | [Railway Empire 2](../games/r/railway_empire_2.md) | 55 | 1,000 |
 | [Remnant 2](../games/r/remnant_2.md) | 55 | 1,250 |
 | [A Musical Story](../games/a/a_musical_story.md) | 54 | 1,000 |

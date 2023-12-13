@@ -36,6 +36,7 @@
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [GRIME](../games/g/grime.md) | 45 | 1,200 |
+| [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 57 | 1,200 |
 | [Stray Blade](../games/s/stray_blade.md) | 52 | 1,200 |
 | [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 35 | 1,200 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
@@ -212,6 +213,7 @@
 | [Dark Fantasy Jigsaw Puzzle](../games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 20 | 1,000 |
 | [Dark Mystery](../games/9/9a390b228537424c9b46fb0a3dbce676.md) | 8 | 1,000 |
 | [Dark Table CCG](../games/a/a0e5651da05447508a6cfe91e883af3a.md) | 27 | 1,000 |
+| [Darksiders III](../games/d/darksiders_iii.md) | 64 | 1,000 |
 | [Daydream. Forgotten Sorrow](../games/7/7b8963f6857041fd97a4a23845eb113d.md) | 14 | 1,000 |
 | [De-Exit - Eternal Matters](../games/d/de-exit_-_eternal_matters.md) | 29 | 1,000 |
 | [Dead Space](../games/d/dead_space.md) | 47 | 1,000 |
@@ -355,7 +357,6 @@
 | [Gripper](../games/g/gripper.md) | 35 | 1,000 |
 | [Guacamelee! 2](../games/2/277e364d24ec43069f4ee3c4414d5096.md) | 49 | 1,000 |
 | [Guacamelee! Super Turbo Championship Edition](../games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 31 | 1,000 |
-| [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 55 | 1,000 |
 | [Hades](../games/h/hades.md) | 49 | 1,000 |
 | [Hand of Fate 2](../games/h/hand_of_fate_2.md) | 48 | 1,000 |
 | [Hanoi Puzzles - Solid Match](../games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 11 | 1,000 |
