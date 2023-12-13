@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 85.00% | ~29 |
-| Eat the Rich | 59.00% | ~20 |
-| Phantom Kunoichi | 47.00% | ~16 |
-| Killing Machine | 47.00% | ~16 |
-| Death Battle | 41.00% | ~14 |
-| Divine Retribution | 38.00% | ~13 |
-| Final Showdown | 35.00% | ~12 |
-| Dispel Rumors | 35.00% | ~12 |
-| The End of an Outlaw | 35.00% | ~12 |
-| Captain Mustache | 35.00% | ~12 |
+| Hero Arrives | 83.00% | ~29 |
+| Eat the Rich | 57.00% | ~20 |
+| Phantom Kunoichi | 46.00% | ~16 |
+| Killing Machine | 46.00% | ~16 |
+| Death Battle | 40.00% | ~14 |
+| Divine Retribution | 37.00% | ~13 |
+| Final Showdown | 34.00% | ~12 |
+| Dispel Rumors | 34.00% | ~12 |
+| The End of an Outlaw | 34.00% | ~12 |
+| Captain Mustache | 34.00% | ~12 |
 | Sewer Rat | 29.00% | ~10 |
 | Demon Slayer | 26.00% | ~9 |
 | Urban Explorer | 26.00% | ~9 |
 | Steal Her Away | 26.00% | ~9 |
 | Coward | 26.00% | ~9 |
 | Fight Fire With Fire | 26.00% | ~9 |
-| Not Today | 24.00% | ~8 |
-| Big Eater | 21.00% | ~7 |
-| Tour Guide | 21.00% | ~7 |
-| The Real O.G. | 18.00% | ~6 |
-| Tomb Raider | 18.00% | ~6 |
-| Talk to the Fist | 15.00% | ~5 |
-| The Hero of the People | 12.00% | ~4 |
+| Not Today | 23.00% | ~8 |
+| Big Eater | 20.00% | ~7 |
+| Tour Guide | 20.00% | ~7 |
+| The Real O.G. | 17.00% | ~6 |
+| Tomb Raider | 17.00% | ~6 |
+| Talk to the Fist | 14.00% | ~5 |
+| The Hero of the People | 11.00% | ~4 |
 | Collector | 6.00% | ~2 |
 | The Legend | 6.00% | ~2 |
 | Taoist | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 538)  
-Completed: 2 (5.88%) (Ranked 69)  
+Progressed: 35 (Ranked 537)  
+Completed: 2 (5.71%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,6 +66,7 @@ Completed: 2 (5.88%) (Ranked 69)
 | 2023-12-08 | 32 | 2 |
 | 2023-12-09 | 33 | 2 |
 | 2023-12-11 | 34 | 2 |
+| 2023-12-13 | 35 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

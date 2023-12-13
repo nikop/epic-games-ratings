@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 535,
+  "Ranking_Rating": 534,
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 21,
@@ -7533,9 +7533,9 @@
       "Count": 529
     }
   ],
-  "EOS_Progressed": 733980,
+  "EOS_Progressed": 734001,
   "EOS_Completed": 2481,
-  "EOS_NewPlayers": 3179,
+  "EOS_NewPlayers": 3182,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -34733,6 +34733,11 @@
       "Time": "2023-12-13T11:09:04.8409099+00:00",
       "NumProgressed": 733980,
       "NumCompleted": 2481
+    },
+    {
+      "Time": "2023-12-13T12:09:32.511475+00:00",
+      "NumProgressed": 734001,
+      "NumCompleted": 2481
     }
   ],
   "TotalAchievements": 51,
@@ -34904,7 +34909,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22019
+      "UsersEstimate": 22020
     },
     {
       "ID": "ach_impressive_aim",
@@ -35080,7 +35085,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22019
+      "UsersEstimate": 22020
     },
     {
       "ID": "ach_well_known_survivor",
@@ -35104,7 +35109,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "ach_dark_magic",
@@ -35151,13 +35156,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 733980,
+      "Progressed": 734001,
       "Completed": 2481
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 59522,
+      "Progressed": 59543,
       "Completed": 36656
     }
   ],
@@ -35165,8 +35170,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-13T06:58:06.0948773+00:00",
-  "LastChanged_Achievements": "2023-12-13T11:09:04.8409095+00:00",
+  "LastChanged_Achievements": "2023-12-13T12:09:32.5114746+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:31.7932919+00:00",
-  "LastUpdate_Ratings": "2023-12-13T10:58:17.8499637+00:00",
-  "LastUpdate_Achievements": "2023-12-13T11:09:04.8410628+00:00"
+  "LastUpdate_Ratings": "2023-12-13T11:58:48.4043497+00:00",
+  "LastUpdate_Achievements": "2023-12-13T12:09:32.5116627+00:00"
 }

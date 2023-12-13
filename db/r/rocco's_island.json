@@ -2,9 +2,9 @@
   "ID": "8abcced47a53488a874bb76ccfcd290d",
   "Name": "Rocco\u0027s Island",
   "ProductSlug": "roccos-island-c4194b",
-  "Ranking_EOS_Progress": 690,
+  "Ranking_EOS_Progress": 691,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-08T07:30:00+00:00",
@@ -378,8 +378,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.3645779+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:18.3748872+00:00",
   "LastChanged": "2023-03-31T05:58:31.364578+00:00",
-  "LastChanged_Achievements": "2023-12-13T11:09:51.6725477+00:00",
+  "LastChanged_Achievements": "2023-12-13T12:10:38.170909+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:11.0485433+00:00",
-  "LastUpdate_Ratings": "2023-12-13T10:57:18.74614+00:00",
-  "LastUpdate_Achievements": "2023-12-13T11:09:51.6726152+00:00"
+  "LastUpdate_Ratings": "2023-12-13T11:57:16.1936525+00:00",
+  "LastUpdate_Achievements": "2023-12-13T12:10:38.1709345+00:00"
 }

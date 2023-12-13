@@ -11047,9 +11047,9 @@
       "ID": "ACHIEVEMENT_012",
       "SetID": "1a05lfd",
       "Name": "I\u0027m the Captain Now",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -11294,8 +11294,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-13T00:00:03.8951361+00:00",
-  "LastChanged_Achievements": "2023-12-13T11:03:35.6606586+00:00",
+  "LastChanged_Achievements": "2023-12-13T12:04:08.1437359+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.0991613+00:00",
-  "LastUpdate_Ratings": "2023-12-13T11:00:24.8917771+00:00",
-  "LastUpdate_Achievements": "2023-12-13T11:03:35.6607282+00:00"
+  "LastUpdate_Ratings": "2023-12-13T12:01:57.6545366+00:00",
+  "LastUpdate_Achievements": "2023-12-13T12:04:08.1438093+00:00"
 }

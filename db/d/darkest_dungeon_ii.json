@@ -9636,9 +9636,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126557,
+  "EOS_Progressed": 126566,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 903,
+  "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34801,6 +34801,11 @@
       "Time": "2023-12-13T11:08:56.251004+00:00",
       "NumProgressed": 126557,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T12:09:20.2627382+00:00",
+      "NumProgressed": 126566,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34986,9 +34991,9 @@
       "ID": "combat_kill_fisherfolk",
       "SetID": "64l4lke",
       "Name": "Ichthyophobic",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 506
     },
     {
       "ID": "combat_kill_gaunts",
@@ -35106,9 +35111,9 @@
       "ID": "driving_biome_clear_city",
       "SetID": "64l4lke",
       "Name": "Rush Hour",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 886
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35130,9 +35135,9 @@
       "ID": "driving_biome_clear_forest",
       "SetID": "64l4lke",
       "Name": "To Grandmother\u0027s House",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 886
     },
     {
       "ID": "driving_distance_easy",
@@ -35322,9 +35327,9 @@
       "ID": "stagecoach_upgrade_equip_all",
       "SetID": "64l4lke",
       "Name": "Road Trip",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 633
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -35443,21 +35448,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126557,
+      "Progressed": 126566,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1426,
+      "Progressed": 1435,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-13T09:59:27.9523664+00:00",
-  "LastChanged_Achievements": "2023-12-13T11:08:56.2510035+00:00",
+  "LastChanged_Achievements": "2023-12-13T12:09:20.2627375+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T10:59:22.7960955+00:00",
-  "LastUpdate_Achievements": "2023-12-13T11:08:56.2512104+00:00"
+  "LastUpdate_Ratings": "2023-12-13T12:00:28.4434861+00:00",
+  "LastUpdate_Achievements": "2023-12-13T12:09:20.262884+00:00"
 }

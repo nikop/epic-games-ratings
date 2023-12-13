@@ -2761,9 +2761,9 @@
       "ID": "Magnet",
       "SetID": "5lok9mm",
       "Name": "Magnet",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2151
     },
     {
       "ID": "MagnetRepel",
@@ -2969,8 +2969,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-12-07T21:58:24.3208537+00:00",
-  "LastChanged_Achievements": "2023-12-13T11:06:19.2064749+00:00",
+  "LastChanged_Achievements": "2023-12-13T12:08:01.566944+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:08.3400277+00:00",
-  "LastUpdate_Ratings": "2023-12-13T10:57:36.9573311+00:00",
-  "LastUpdate_Achievements": "2023-12-13T11:06:19.2065153+00:00"
+  "LastUpdate_Ratings": "2023-12-13T11:57:43.4158396+00:00",
+  "LastUpdate_Achievements": "2023-12-13T12:08:01.5669885+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "ProductSlug": "borderlands-3",
-  "Ranking_Rating": 233,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 10,
-  "Ranking_EOS_Progress": 794,
+  "Ranking_EOS_Progress": 795,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -16079,10 +16079,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 368630,
       "NumberOfAwardsMax": 122375
+    },
+    {
+      "Time": "2023-12-13T11:58:04.1407355+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 368647,
+      "NumberOfAwardsMax": 122375
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 368630,
+  "NumberOfAwards": 368647,
   "NumberOfAwardsMax": 122375,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16126,7 +16132,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 25671
+      "Count": 25688
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -16164,8 +16170,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-12-13T03:57:31.3464277+00:00",
+  "LastChanged": "2023-12-13T11:58:04.1407354+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:25.8641037+00:00",
-  "LastUpdate_Ratings": "2023-12-13T10:57:49.9680456+00:00",
-  "LastUpdate_Achievements": "2023-12-13T11:05:07.7416984+00:00"
+  "LastUpdate_Ratings": "2023-12-13T11:58:04.1407359+00:00",
+  "LastUpdate_Achievements": "2023-12-13T12:06:19.7492182+00:00"
 }

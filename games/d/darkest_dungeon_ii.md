@@ -19,9 +19,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Autodidact | 1.00% | ~1,266 |
 | Bloody Graduation | 1.00% | ~14 |
 | Serenity Now! | 0.70% | ~886 |
+| Rush Hour | 0.70% | ~886 |
+| To Grandmother's House | 0.70% | ~886 |
 | Don't Make Me Turn This Coach Around | 0.60% | ~759 |
-| Rush Hour | 0.60% | ~759 |
-| To Grandmother's House | 0.60% | ~759 |
 | FNG | 0.60% | ~759 |
 | Ploughshares to Swords | 0.60% | ~9 |
 | It Rings a Bell | 0.50% | ~633 |
@@ -34,6 +34,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 0.50% | ~633 |
 | A Place to Lay Your Head | 0.50% | ~633 |
 | Nope | 0.50% | ~633 |
+| Road Trip | 0.50% | ~633 |
 | Friends 'Til the End | 0.50% | ~7 |
 | Resurrection | 0.40% | ~506 |
 | Unleash Hell | 0.40% | ~506 |
@@ -43,6 +44,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Boxcar Kid | 0.40% | ~506 |
 | Unfulfilled Desires | 0.40% | ~506 |
 | Predator | 0.40% | ~506 |
+| Ichthyophobic | 0.40% | ~506 |
 | Now Stay Dead | 0.40% | ~506 |
 | Reverse Banditry | 0.40% | ~506 |
 | Spelunker | 0.40% | ~506 |
@@ -50,9 +52,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 0.40% | ~506 |
 | Worldly Traveller | 0.40% | ~506 |
 | Unshackled | 0.40% | ~506 |
-| Road Trip | 0.40% | ~506 |
 | Hope Rekindled | 0.30% | ~380 |
-| Ichthyophobic | 0.30% | ~380 |
 | No More Mouths to Feed | 0.30% | ~380 |
 | When You Want Something Done Right | 0.30% | ~380 |
 | Utopia | 0.30% | ~380 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~1 |
 | On This Long Road, We Found Redemption | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,557 (Ranked 84)  
+Progressed: 126,566 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 2 (0.00%) (Ranked 373)
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
-| 2023-12-13 | 126,557 | 2 |
+| 2023-12-13 | 126,566 | 2 |
 ## Awards
 Max (Character Customization): 7,665  (Ranked 52)  
 Sum: 20,282 (Ranked 59)  

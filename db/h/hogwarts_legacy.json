@@ -11845,18 +11845,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 50556,
       "NumberOfAwardsMax": 25134
+    },
+    {
+      "Time": "2023-12-13T12:02:49.7449589+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50579,
+      "NumberOfAwardsMax": 25157
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50556,
-  "NumberOfAwardsMax": 25134,
+  "NumberOfAwards": 50579,
+  "NumberOfAwardsMax": 25157,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 25134
+      "Count": 25157
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -11925,7 +11931,7 @@
       "Count": 852
     }
   ],
-  "EOS_Progressed": 304279,
+  "EOS_Progressed": 304280,
   "EOS_Completed": 525,
   "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 2,
@@ -37285,6 +37291,11 @@
       "Time": "2023-12-13T11:05:59.8439676+00:00",
       "NumProgressed": 304279,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-13T12:07:33.6057236+00:00",
+      "NumProgressed": 304280,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37320,7 +37331,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 36513
+      "UsersEstimate": 36514
     },
     {
       "ID": "PFA_13",
@@ -37352,7 +37363,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36513
+      "UsersEstimate": 36514
     },
     {
       "ID": "PFA_17",
@@ -37424,7 +37435,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36513
+      "UsersEstimate": 36514
     },
     {
       "ID": "PFA_25",
@@ -37480,7 +37491,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36513
+      "UsersEstimate": 36514
     },
     {
       "ID": "PFA_31",
@@ -37552,7 +37563,7 @@
       "Name": "Coasting Along",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36513
+      "UsersEstimate": 36514
     },
     {
       "ID": "PFA_4",
@@ -37655,16 +37666,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304279,
+      "Progressed": 304280,
       "Completed": 525
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-13T11:00:33.2523335+00:00",
-  "LastChanged_Achievements": "2023-12-13T11:05:59.8439672+00:00",
+  "LastChanged": "2023-12-13T12:02:49.7449587+00:00",
+  "LastChanged_Achievements": "2023-12-13T12:07:33.6057228+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-13T11:00:33.2523343+00:00",
-  "LastUpdate_Achievements": "2023-12-13T11:05:59.8441509+00:00"
+  "LastUpdate_Ratings": "2023-12-13T12:02:49.7449593+00:00",
+  "LastUpdate_Achievements": "2023-12-13T12:07:33.605883+00:00"
 }

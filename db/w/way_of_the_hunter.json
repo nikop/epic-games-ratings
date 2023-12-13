@@ -5,9 +5,9 @@
   "Ranking_Rating": 758,
   "Ranking_Popularity": 422,
   "Ranking_PopularitySum": 360,
-  "Ranking_EOS_Progress": 794,
+  "Ranking_EOS_Progress": 629,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
@@ -1435,20 +1435,244 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-12-13T12:10:13.213992+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2023-12-13T12:10:13.2139946+00:00",
+  "TotalAchievements": 27,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AHOOOOOOOOOY",
+      "SetID": "d5e5a3e",
+      "Name": "Ahoooooooooy!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCTIC_EDGE",
+      "SetID": "d5e5a3e",
+      "Name": "Arctic Edge",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AURORA_GAZER",
+      "SetID": "d5e5a3e",
+      "Name": "Aurora Gazer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BEEN_THERE_RODE_THERE",
+      "SetID": "d5e5a3e",
+      "Name": "Been there, rode there",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOW_DOWN_MISTER",
+      "SetID": "d5e5a3e",
+      "Name": "Bow Down Mister",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DON_CUPI",
+      "SetID": "d5e5a3e",
+      "Name": "Don Cupi",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EVERY_NOOK_AND_CRANNY",
+      "SetID": "d5e5a3e",
+      "Name": "Every Nook and Cranny",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FILTER_OR_NOT_THAT_S_THE_QUESTION",
+      "SetID": "d5e5a3e",
+      "Name": "To filter or not, that\u2019s the question",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FLOWER_GIRL",
+      "SetID": "d5e5a3e",
+      "Name": "Flower Girl",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GO_BIG_OR_GO_HOME",
+      "SetID": "d5e5a3e",
+      "Name": "Go Big or Go Home",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HOURS_OF_WORK",
+      "SetID": "d5e5a3e",
+      "Name": "Hours of Work",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IN_A_NEED_FOR_NEW_SHOES",
+      "SetID": "d5e5a3e",
+      "Name": "In Need of New Shoes",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LIKE_A_FATHER_LIKE_A_SON",
+      "SetID": "d5e5a3e",
+      "Name": "Like Father, Like Son",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LIKE_A_PALM_OF_MY_HAND",
+      "SetID": "d5e5a3e",
+      "Name": "Like the Back of My Hand",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NICE_TO_MEET_YOU",
+      "SetID": "d5e5a3e",
+      "Name": "Nice to Meet You",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NOT_GREAT_NOT_TERRIBLE",
+      "SetID": "d5e5a3e",
+      "Name": "Not Great, Not Terrible",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NUMBER_ONE_DAD",
+      "SetID": "d5e5a3e",
+      "Name": "Number One Dad",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PLAIN_ASSESSMENT",
+      "SetID": "d5e5a3e",
+      "Name": "Plain Assessment",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPORTSMAN_STAGE",
+      "SetID": "d5e5a3e",
+      "Name": "Sportsman stage",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPRINGBOK_NAMIBIA",
+      "SetID": "d5e5a3e",
+      "Name": "Springbok Namibia",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SUREFIRE_ASSESSMENT",
+      "SetID": "d5e5a3e",
+      "Name": "Surefire Assessment",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SWINGING_DUCK",
+      "SetID": "d5e5a3e",
+      "Name": "Swinging Duck",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TASK_FORCE_AURORA",
+      "SetID": "d5e5a3e",
+      "Name": "Task Force Aurora",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TASK_FORCE_TIKAMOON",
+      "SetID": "d5e5a3e",
+      "Name": "Task Force Tikamoon",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOP_OF_THE_PYRAMID",
+      "SetID": "d5e5a3e",
+      "Name": "Top of the Pyramid",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WELCOME_TO_THE_LAND_OF_VAMP_CHAMOIS",
+      "SetID": "d5e5a3e",
+      "Name": "Welcome to the land of vamp\u2026 chamois!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WORTH_THE_VIEW",
+      "SetID": "d5e5a3e",
+      "Name": "Worth the View",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "d5e5a3e",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
@@ -1456,8 +1680,8 @@
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "FirstSeenAchievements": "2023-11-30T10:10:08.8604761+00:00",
   "LastChanged": "2023-12-13T01:46:17.8731316+00:00",
-  "LastChanged_Achievements": "2023-12-13T11:09:33.7690313+00:00",
+  "LastChanged_Achievements": "2023-12-13T12:10:13.2139914+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:52.4614678+00:00",
-  "LastUpdate_Ratings": "2023-12-13T10:58:32.4308121+00:00",
-  "LastUpdate_Achievements": "2023-12-13T11:09:33.7690346+00:00"
+  "LastUpdate_Ratings": "2023-12-13T11:59:10.6394834+00:00",
+  "LastUpdate_Achievements": "2023-12-13T12:10:13.247067+00:00"
 }

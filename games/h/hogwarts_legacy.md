@@ -10,11 +10,11 @@ Rating: 4.76 (Ranked 130)
 | Troll with the Punches | 15.00% | ~45,642 |
 | A Keen Sense of Spell | 14.00% | ~42,599 |
 | That's a Keeper | 13.00% | ~39,556 |
-| The Hallowed Hero | 12.00% | ~36,513 |
-| The Defender of Dragons | 12.00% | ~36,513 |
-| Loom for Improvement | 12.00% | ~36,513 |
-| A Talent for Spending | 12.00% | ~36,513 |
-| Coasting Along | 12.00% | ~36,513 |
+| The Hallowed Hero | 12.00% | ~36,514 |
+| The Defender of Dragons | 12.00% | ~36,514 |
+| Loom for Improvement | 12.00% | ~36,514 |
+| A Talent for Spending | 12.00% | ~36,514 |
+| Coasting Along | 12.00% | ~36,514 |
 | Grappling with a Graphorn | 11.00% | ~33,471 |
 | The One Who Mastered Memories | 11.00% | ~33,471 |
 | The Hero of Hogwarts | 11.00% | ~33,471 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,130 |
 | Collector's Edition | 0.40% | ~1,217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,279 (Ranked 54)  
+Progressed: 304,280 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,14 +288,14 @@ Completed: 525 (0.17%) (Ranked 271)
 | 2023-12-10 | 304,188 | 525 |
 | 2023-12-11 | 304,218 | 525 |
 | 2023-12-12 | 304,258 | 525 |
-| 2023-12-13 | 304,279 | 525 |
+| 2023-12-13 | 304,280 | 525 |
 ## Awards
-Max (Character Customization): 25,134  (Ranked 17)  
-Sum: 50,556 (Ranked 30)  
+Max (Character Customization): 25,157  (Ranked 17)  
+Sum: 50,579 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 25,134 |
+| This game has Inclusive Character Customization | 25,157 |
 | This game has Great Boss Battles | 12,922 |
 | This game is Great for Beginners | 1,402 |
 | This game has Amazing Storytelling | 1,362 |
@@ -574,4 +574,4 @@ Diff (max vs sum): -13
 | 2023-12-10 | 4.76 | 25,081 | 50,405 |
 | 2023-12-11 | 4.76 | 25,106 | 50,475 |
 | 2023-12-12 | 4.76 | 25,134 | 50,541 |
-| 2023-12-13 | 4.76 | 25,134 | 50,556 |
+| 2023-12-13 | 4.76 | 25,157 | 50,579 |

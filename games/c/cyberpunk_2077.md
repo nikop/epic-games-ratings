@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,032 |
+| V for Vendetta | 12.00% | ~117,033 |
 | Gun Fu | 7.00% | ~68,269 |
-| The Fool | 6.00% | ~58,516 |
-| Right Back At Ya | 5.00% | ~48,763 |
-| The Lovers | 5.00% | ~48,763 |
+| The Fool | 6.00% | ~58,517 |
+| Right Back At Ya | 5.00% | ~48,764 |
+| The Lovers | 5.00% | ~48,764 |
 | Full Body Conversion | 4.00% | ~39,011 |
 | Stanislavski's Method | 4.00% | ~39,011 |
 | The Wheel of Fortune | 4.00% | ~39,011 |
@@ -23,12 +23,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Relic Ruler | 3.00% | ~3,117 |
 | All the President's Men | 3.00% | ~3,117 |
 | Arachnophobia | 3.00% | ~3,117 |
-| Bushido and Chill | 2.00% | ~19,505 |
-| Master Crafter | 2.00% | ~19,505 |
-| The Quick and the Dead | 2.00% | ~19,505 |
-| Life of the Road | 2.00% | ~19,505 |
-| The World | 2.00% | ~19,505 |
-| Judy vs Night City | 2.00% | ~19,505 |
+| Bushido and Chill | 2.00% | ~19,506 |
+| Master Crafter | 2.00% | ~19,506 |
+| The Quick and the Dead | 2.00% | ~19,506 |
+| Life of the Road | 2.00% | ~19,506 |
+| The World | 2.00% | ~19,506 |
+| Judy vs Night City | 2.00% | ~19,506 |
 | To Protect and Serve | 1.00% | ~9,753 |
 | The Wandering Fool | 1.00% | ~9,753 |
 | I Am The Law | 1.00% | ~9,753 |
@@ -43,10 +43,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.60% | ~5,852 |
 | The Star | 0.60% | ~5,852 |
 | Autojock | 0.50% | ~4,876 |
-| The APB is Not Enough | 0.50% | ~519 |
-| Judgement Day | 0.50% | ~519 |
-| King of Swords | 0.50% | ~519 |
-| The Tower | 0.50% | ~519 |
+| The APB is Not Enough | 0.50% | ~520 |
+| Judgement Day | 0.50% | ~520 |
+| King of Swords | 0.50% | ~520 |
+| The Tower | 0.50% | ~520 |
 | Must Be Rats | 0.40% | ~3,901 |
 | Temperance | 0.40% | ~3,901 |
 | King of Pentacles | 0.40% | ~416 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,265 (Ranked 15)  
-Completed: 2,892 (0.30%) (Ranked 241)  
+Progressed: 975,277 (Ranked 15)  
+Completed: 2,893 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -311,10 +311,10 @@ Completed: 2,892 (0.30%) (Ranked 241)
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
 | 2023-12-12 | 975,121 | 2,891 |
-| 2023-12-13 | 975,265 | 2,892 |
+| 2023-12-13 | 975,277 | 2,893 |
 ## Awards
 Max (Character Customization): 121,863  (Ranked 9)  
-Sum: 414,410 (Ranked 9)  
+Sum: 414,557 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -326,8 +326,8 @@ Diff (max vs sum): 0
 | This game has Amazing Storytelling | 23,523 |
 | This game is Extremely Fun | 23,248 |
 | This game has Amazing Characters | 23,038 |
+| This game has Quickly Understood Controls | 22,265 |
 | This game is Relaxing | 22,257 |
-| This game has Quickly Understood Controls | 22,118 |
 | This game has a Creative Community | 15,389 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -660,4 +660,4 @@ Diff (max vs sum): 0
 | 2023-12-10 | 4.66 | - | 120,955 | 408,628 |
 | 2023-12-11 | 4.66 | - | 121,434 | 411,235 |
 | 2023-12-12 | 4.66 | - | 121,863 | 413,636 |
-| 2023-12-13 | 4.66 | - | 121,863 | 414,410 |
+| 2023-12-13 | 4.66 | - | 121,863 | 414,557 |

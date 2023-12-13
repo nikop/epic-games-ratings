@@ -16476,10 +16476,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 414410,
       "NumberOfAwardsMax": 121863
+    },
+    {
+      "Time": "2023-12-13T12:03:25.8338436+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 414557,
+      "NumberOfAwardsMax": 121863
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 414410,
+  "NumberOfAwards": 414557,
   "NumberOfAwardsMax": 121863,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16535,7 +16541,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 22118
+      "Count": 22265
     },
     {
       "Text": "This game has Amazing Characters",
@@ -16556,10 +16562,10 @@
       "Count": 15389
     }
   ],
-  "EOS_Progressed": 975265,
-  "EOS_Completed": 2892,
-  "EOS_NewPlayers": 4307,
-  "EOS_NewCompleters": 47,
+  "EOS_Progressed": 975277,
+  "EOS_Completed": 2893,
+  "EOS_NewPlayers": 4280,
+  "EOS_NewCompleters": 46,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -43541,6 +43547,11 @@
       "Time": "2023-12-13T11:06:05.1999391+00:00",
       "NumProgressed": 975265,
       "NumCompleted": 2892
+    },
+    {
+      "Time": "2023-12-13T12:07:41.5014401+00:00",
+      "NumProgressed": 975277,
+      "NumCompleted": 2893
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -43569,7 +43580,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19505
+      "UsersEstimate": 19506
     },
     {
       "ID": "Cyberjunkie",
@@ -43585,7 +43596,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48763
+      "UsersEstimate": 48764
     },
     {
       "ID": "FollowingTheRiver",
@@ -43641,7 +43652,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19505
+      "UsersEstimate": 19506
     },
     {
       "ID": "IAmMaxTac",
@@ -43681,7 +43692,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19505
+      "UsersEstimate": 19506
     },
     {
       "ID": "MustBeTheRats",
@@ -43721,7 +43732,7 @@
       "Name": "Life of the Road",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19505
+      "UsersEstimate": 19506
     },
     {
       "ID": "Roleplayer",
@@ -43769,7 +43780,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58516
+      "UsersEstimate": 58517
     },
     {
       "ID": "TheHermit",
@@ -43793,7 +43804,7 @@
       "Name": "The Lovers",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48763
+      "UsersEstimate": 48764
     },
     {
       "ID": "TheStar",
@@ -43825,7 +43836,7 @@
       "Name": "The World",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 19505
+      "UsersEstimate": 19506
     },
     {
       "ID": "ThisIsPacifica",
@@ -43873,7 +43884,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19505
+      "UsersEstimate": 19506
     },
     {
       "ID": "VForVendetta",
@@ -43881,7 +43892,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117032
+      "UsersEstimate": 117033
     },
     {
       "ID": "YipMan",
@@ -43929,7 +43940,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "Easycomeeasygo",
@@ -44017,7 +44028,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "IHateSpider",
@@ -44049,7 +44060,7 @@
       "Name": "King of Swords",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "KingOfTheWands",
@@ -44065,7 +44076,7 @@
       "Name": "The Tower",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "DirtyWork",
@@ -44088,21 +44099,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 975265,
-      "Completed": 2892
+      "Progressed": 975277,
+      "Completed": 2893
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 103888,
+      "Progressed": 103900,
       "Completed": 10356
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-13T11:03:07.8614033+00:00",
-  "LastChanged_Achievements": "2023-12-13T11:06:05.1999387+00:00",
+  "LastChanged": "2023-12-13T12:03:25.8338434+00:00",
+  "LastChanged_Achievements": "2023-12-13T12:07:41.5014396+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:22.348953+00:00",
-  "LastUpdate_Ratings": "2023-12-13T11:03:07.8614052+00:00",
-  "LastUpdate_Achievements": "2023-12-13T11:06:05.2000708+00:00"
+  "LastUpdate_Ratings": "2023-12-13T12:03:25.833844+00:00",
+  "LastUpdate_Achievements": "2023-12-13T12:07:41.5015918+00:00"
 }

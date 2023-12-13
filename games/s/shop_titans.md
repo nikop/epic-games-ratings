@@ -6,13 +6,13 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,594 |
-| Titan's First Steps | 8.00% | ~11,594 |
+| Sponsored by Argon | 8.00% | ~11,595 |
+| Titan's First Steps | 8.00% | ~11,595 |
 | Basic in Bulk | 7.00% | ~10,145 |
 | Tinkle of Coins | 7.00% | ~10,145 |
-| Disintermediation | 5.00% | ~7,246 |
-| It's Free Real Estate | 5.00% | ~7,246 |
-| Capitalism Ho! | 5.00% | ~7,246 |
+| Disintermediation | 5.00% | ~7,247 |
+| It's Free Real Estate | 5.00% | ~7,247 |
+| Capitalism Ho! | 5.00% | ~7,247 |
 | One Easy Payment | 4.00% | ~5,797 |
 | Some Assembly Required | 4.00% | ~5,797 |
 | Another Satisfied Customer | 4.00% | ~5,797 |
@@ -30,53 +30,53 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 3.00% | ~4,348 |
 | Did we pack lunch? | 3.00% | ~4,348 |
 | Arcane Industries | 3.00% | ~4,348 |
-| On the Path to Greatness | 2.00% | ~2,898 |
-| A Notch Above the Rest | 2.00% | ~2,898 |
-| Cream of the Crop | 2.00% | ~2,898 |
-| Ascended | 2.00% | ~2,898 |
-| Above the Norm | 2.00% | ~2,898 |
-| Tax not Included | 2.00% | ~2,898 |
-| The King's Caprice | 2.00% | ~2,898 |
-| Research & Development | 2.00% | ~2,898 |
-| Vanity, Verily | 2.00% | ~2,898 |
-| Big Game Hunting | 2.00% | ~2,898 |
-| Fated Encounters | 2.00% | ~2,898 |
-| For the Hoard! | 2.00% | ~2,898 |
-| Blank Page Syndrome | 2.00% | ~2,898 |
-| Scrapbooker | 2.00% | ~2,898 |
-| Locally Sourced | 2.00% | ~2,898 |
-| Flying off the Shelves | 2.00% | ~2,898 |
-| This Power Level...! | 2.00% | ~2,898 |
-| Omae wa Mou Shindeiru | 2.00% | ~2,898 |
-| Hidden Potential | 2.00% | ~2,898 |
-| Power of Love | 2.00% | ~2,898 |
-| Supercharged | 2.00% | ~2,898 |
-| Expansion in Session | 2.00% | ~2,898 |
-| Ritualist | 2.00% | ~2,898 |
-| Efficient Floor Space | 2.00% | ~2,898 |
-| Cranked up to 11 | 2.00% | ~2,898 |
-| By Your Powers Combined... | 2.00% | ~2,898 |
-| Flawless Fusion | 2.00% | ~2,898 |
-| Trash to Treasure | 2.00% | ~2,898 |
-| Gem Expert | 2.00% | ~2,898 |
-| Royal Ransom | 2.00% | ~2,898 |
-| Mammonite | 2.00% | ~2,898 |
-| Wealth Beyond Measure | 2.00% | ~2,898 |
-| Helping Hand | 2.00% | ~2,898 |
-| Fat Cat Tag Team | 2.00% | ~2,898 |
-| Accomplished Merchant | 2.00% | ~2,898 |
-| Master Merchant | 2.00% | ~2,898 |
-| Laden with Loot | 2.00% | ~2,898 |
-| Natural 20 | 2.00% | ~2,898 |
-| Seasoned Journeyman | 2.00% | ~2,898 |
-| Attrition Mission | 2.00% | ~2,898 |
-| Glittering Collection | 2.00% | ~2,898 |
-| Black Friday Special | 2.00% | ~2,898 |
-| Master Recycler | 2.00% | ~2,898 |
-| Magical Harmony | 2.00% | ~2,898 |
-| Special Ingredient | 2.00% | ~2,898 |
-| Exotic Commodities | 2.00% | ~2,898 |
-| Complete Monopoly | 2.00% | ~2,898 |
+| On the Path to Greatness | 2.00% | ~2,899 |
+| A Notch Above the Rest | 2.00% | ~2,899 |
+| Cream of the Crop | 2.00% | ~2,899 |
+| Ascended | 2.00% | ~2,899 |
+| Above the Norm | 2.00% | ~2,899 |
+| Tax not Included | 2.00% | ~2,899 |
+| The King's Caprice | 2.00% | ~2,899 |
+| Research & Development | 2.00% | ~2,899 |
+| Vanity, Verily | 2.00% | ~2,899 |
+| Big Game Hunting | 2.00% | ~2,899 |
+| Fated Encounters | 2.00% | ~2,899 |
+| For the Hoard! | 2.00% | ~2,899 |
+| Blank Page Syndrome | 2.00% | ~2,899 |
+| Scrapbooker | 2.00% | ~2,899 |
+| Locally Sourced | 2.00% | ~2,899 |
+| Flying off the Shelves | 2.00% | ~2,899 |
+| This Power Level...! | 2.00% | ~2,899 |
+| Omae wa Mou Shindeiru | 2.00% | ~2,899 |
+| Hidden Potential | 2.00% | ~2,899 |
+| Power of Love | 2.00% | ~2,899 |
+| Supercharged | 2.00% | ~2,899 |
+| Expansion in Session | 2.00% | ~2,899 |
+| Ritualist | 2.00% | ~2,899 |
+| Efficient Floor Space | 2.00% | ~2,899 |
+| Cranked up to 11 | 2.00% | ~2,899 |
+| By Your Powers Combined... | 2.00% | ~2,899 |
+| Flawless Fusion | 2.00% | ~2,899 |
+| Trash to Treasure | 2.00% | ~2,899 |
+| Gem Expert | 2.00% | ~2,899 |
+| Royal Ransom | 2.00% | ~2,899 |
+| Mammonite | 2.00% | ~2,899 |
+| Wealth Beyond Measure | 2.00% | ~2,899 |
+| Helping Hand | 2.00% | ~2,899 |
+| Fat Cat Tag Team | 2.00% | ~2,899 |
+| Accomplished Merchant | 2.00% | ~2,899 |
+| Master Merchant | 2.00% | ~2,899 |
+| Laden with Loot | 2.00% | ~2,899 |
+| Natural 20 | 2.00% | ~2,899 |
+| Seasoned Journeyman | 2.00% | ~2,899 |
+| Attrition Mission | 2.00% | ~2,899 |
+| Glittering Collection | 2.00% | ~2,899 |
+| Black Friday Special | 2.00% | ~2,899 |
+| Master Recycler | 2.00% | ~2,899 |
+| Magical Harmony | 2.00% | ~2,899 |
+| Special Ingredient | 2.00% | ~2,899 |
+| Exotic Commodities | 2.00% | ~2,899 |
+| Complete Monopoly | 2.00% | ~2,899 |
 | Top of the World | 1.00% | ~1,449 |
 | Proud Paladin | 1.00% | ~1,449 |
 | Constellated | 1.00% | ~1,449 |
@@ -105,8 +105,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 1.00% | ~1,449 |
 | King's Blade | 1.00% | ~1,449 |
 | The Free Encyclopedia | 0.90% | ~1,304 |
-| The Greatest Grind | 0.70% | ~1,014 |
-| All or Nothing! | 0.70% | ~1,014 |
+| The Greatest Grind | 0.70% | ~1,015 |
+| All or Nothing! | 0.70% | ~1,015 |
 | Bane of Legends | 0.60% | ~870 |
 | Anything not Nailed Down | 0.60% | ~870 |
 | Marvels from the World Over | 0.60% | ~870 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~435 |
 | Capitalist Camaraderie | 0.20% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,924 (Ranked 80)  
+Progressed: 144,933 (Ranked 80)  
 Completed: 295 (0.20%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,10 +356,10 @@ Completed: 295 (0.20%) (Ranked 261)
 | 2023-12-10 | 144,657 | 293 |
 | 2023-12-11 | 144,756 | 293 |
 | 2023-12-12 | 144,871 | 294 |
-| 2023-12-13 | 144,924 | 295 |
+| 2023-12-13 | 144,933 | 295 |
 ## Awards
 Max (Great for Beginners): 4,878  (Ranked 75)  
-Sum: 27,701 (Ranked 51)  
+Sum: 27,703 (Ranked 51)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -368,7 +368,7 @@ Diff (max vs sum): 24
 | This game has Quickly Understood Controls | 4,042 |
 | This game has Diverse Characters | 3,970 |
 | This game is Highly Recommended | 3,792 |
-| This game has Easy Combat | 3,742 |
+| This game has Easy Combat | 3,744 |
 | This game has Playful Visuals | 3,218 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -690,4 +690,4 @@ Diff (max vs sum): 24
 | 2023-12-10 | 3.99 | - | 4,871 | 27,683 |
 | 2023-12-11 | 3.99 | - | 4,875 | 27,691 |
 | 2023-12-12 | 3.99 | - | 4,878 | 27,700 |
-| 2023-12-13 | 3.99 | - | 4,878 | 27,701 |
+| 2023-12-13 | 3.99 | - | 4,878 | 27,703 |

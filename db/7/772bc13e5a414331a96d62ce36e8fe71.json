@@ -492,33 +492,33 @@
       "ID": "10000_XP",
       "SetID": "8d0im30",
       "Name": "2 000 Score",
-      "Percentage": 1,
-      "XP": 200,
-      "UsersEstimate": 2
-    },
-    {
-      "ID": "1000_XP",
-      "SetID": "8d0im30",
-      "Name": "1000 Score",
       "Percentage": 2,
       "XP": 200,
       "UsersEstimate": 4
     },
     {
-      "ID": "100_XP",
+      "ID": "1000_XP",
       "SetID": "8d0im30",
-      "Name": "500 Score",
+      "Name": "1000 Score",
       "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 6
     },
     {
-      "ID": "10_XP",
+      "ID": "100_XP",
       "SetID": "8d0im30",
-      "Name": "200 Score",
+      "Name": "500 Score",
       "Percentage": 4,
       "XP": 200,
       "UsersEstimate": 7
+    },
+    {
+      "ID": "10_XP",
+      "SetID": "8d0im30",
+      "Name": "200 Score",
+      "Percentage": 5,
+      "XP": 200,
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -531,8 +531,8 @@
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2023-12-13T11:05:45.0390712+00:00",
+  "LastChanged_Achievements": "2023-12-13T12:07:12.5528653+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:57.3425217+00:00",
-  "LastUpdate_Ratings": "2023-12-13T11:00:18.5380084+00:00",
-  "LastUpdate_Achievements": "2023-12-13T11:05:45.0390791+00:00"
+  "LastUpdate_Ratings": "2023-12-13T12:01:48.1803945+00:00",
+  "LastUpdate_Achievements": "2023-12-13T12:07:12.5528748+00:00"
 }

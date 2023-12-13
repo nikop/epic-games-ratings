@@ -5,12 +5,12 @@ Rating: 4.41 (Ranked 728)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,471 |
-| Ranidaphobia | 78.00% | ~1,247 |
-| Aspiring Editor | 75.00% | ~1,199 |
-| Gun for Hire | 70.00% | ~1,119 |
-| I am the law! | 64.00% | ~1,023 |
-| Lumberjack | 54.00% | ~863 |
+| First Blood | 92.00% | ~1,472 |
+| Ranidaphobia | 78.00% | ~1,248 |
+| Aspiring Editor | 75.00% | ~1,200 |
+| Gun for Hire | 70.00% | ~1,120 |
+| I am the law! | 64.00% | ~1,024 |
+| Lumberjack | 54.00% | ~864 |
 | Croaked | 50.00% | ~800 |
 | Limp Richard | 49.00% | ~784 |
 | Exorcist | 49.00% | ~784 |
@@ -26,8 +26,8 @@ Rating: 4.41 (Ranked 728)
 | Ganglord | 36.00% | ~576 |
 | Jarhead | 36.00% | ~576 |
 | Infiltrator | 36.00% | ~576 |
+| Experienced | 34.00% | ~544 |
 | Pushing Daisy | 34.00% | ~544 |
-| Experienced | 33.00% | ~528 |
 | Hold The Line | 33.00% | ~528 |
 | Endgame | 29.00% | ~464 |
 | Savior | 28.00% | ~448 |
@@ -57,7 +57,7 @@ Rating: 4.41 (Ranked 728)
 | Goaaaaal! | 0.90% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,599 (Ranked 243)  
+Progressed: 1,600 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,6 +202,7 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-02 | 1,596 | 0 |
 | 2023-12-07 | 1,598 | 0 |
 | 2023-12-10 | 1,599 | 0 |
+| 2023-12-13 | 1,600 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

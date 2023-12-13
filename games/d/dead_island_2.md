@@ -1,12 +1,12 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 535)  
+Rating: 4.54 (Ranked 534)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~22,019 |
-| Welcome To Hell-A | 3.00% | ~22,019 |
+| Hotel California | 3.00% | ~22,020 |
+| Welcome To Hell-A | 3.00% | ~22,020 |
 | Whatever It Takes | 3.00% | ~1,786 |
 | Pork Chopped | 3.00% | ~1,786 |
 | Dr. Reed, I Presume? | 2.00% | ~14,680 |
@@ -26,7 +26,7 @@ Rating: 4.54 (Ranked 535)
 | Stacking the Deck | 2.00% | ~14,680 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,680 |
 | This is My Weapon | 2.00% | ~14,680 |
-| One of Us | 2.00% | ~1,190 |
+| One of Us | 2.00% | ~1,191 |
 | Making Your Mark | 1.00% | ~7,340 |
 | Perks of the Job | 1.00% | ~7,340 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,340 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 535)
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,980 (Ranked 21)  
+Progressed: 734,001 (Ranked 21)  
 Completed: 2,481 (0.34%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 2,481 (0.34%) (Ranked 236)
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
 | 2023-12-12 | 733,868 | 2,480 |
-| 2023-12-13 | 733,980 | 2,481 |
+| 2023-12-13 | 734,001 | 2,481 |
 ## Awards
 Max (Great Boss Battles): 8,108  (Ranked 49)  
 Sum: 12,484 (Ranked 81)  

@@ -6,9 +6,9 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 45.00% | ~19 |
-| Rock of the Bay | 43.00% | ~18 |
-| Ducks in a Row, Fish in a Barrel | 31.00% | ~13 |
+| Mash Machine | 48.00% | ~20 |
+| Rock of the Bay | 45.00% | ~19 |
+| Ducks in a Row, Fish in a Barrel | 33.00% | ~14 |
 | Furon Fashion | 29.00% | ~12 |
 | Shop Til They Drop | 26.00% | ~11 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~9 |

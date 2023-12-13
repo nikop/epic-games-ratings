@@ -20,9 +20,9 @@ Number of Ratings: 281  (23.09.2022)
 | Going for Gold | 2.00% | ~136 |
 | School's Out for Summer | 2.00% | ~136 |
 | I'm Hooked! | 1.00% | ~68 |
+| I'm the Captain Now | 0.60% | ~41 |
 | Marathon | 0.60% | ~41 |
 | Diamond in the Rough | 0.60% | ~41 |
-| I'm the Captain Now | 0.50% | ~34 |
 | Hook, Line and Sinker | 0.50% | ~34 |
 | More than a Tourist | 0.40% | ~27 |
 | No Fin left to give | 0.40% | ~27 |
