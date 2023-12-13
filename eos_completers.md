@@ -68,8 +68,8 @@
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 69 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.88% |
-| 70 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
+| 69 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
+| 69 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.71% |
 | 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.69% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
@@ -117,7 +117,7 @@
 | 115 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 116 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
 | 116 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
-| 118 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.64% |
+| 118 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.63% |
 | 119 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.62% |
 | 120 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.56% |
 | 121 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.50% |
@@ -171,7 +171,7 @@
 | 169 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
 | 169 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |
 | 171 | [Sable](games/s/sable.md) | 1.01% |
-| 172 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.99% |
+| 172 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.98% |
 | 173 | [Trifox](games/t/trifox.md) | 0.96% |
 | 174 | [A Musical Story](games/a/a_musical_story.md) | 0.93% |
 | 175 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.92% |
@@ -202,7 +202,7 @@
 | 199 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.59% |
 | 201 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 201 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
-| 203 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.57% |
+| 203 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.56% |
 | 204 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 205 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 0.54% |
 | 205 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.54% |
@@ -230,10 +230,10 @@
 | 228 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 228 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.39% |
 | 228 | [Wildermyth](games/w/wildermyth.md) | 0.39% |
-| 231 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.37% |
 | 231 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 231 | [Train Valley](games/t/train_valley.md) | 0.37% |
-| 234 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
+| 233 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.36% |
+| 233 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
 | 235 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 236 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
 | 236 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.34% |
@@ -266,10 +266,10 @@
 | 261 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
 | 265 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.19% |
 | 265 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
-| 267 | [GRIME](games/g/grime.md) | 0.18% |
-| 267 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
-| 267 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
-| 267 | [Scathe](games/s/scathe.md) | 0.18% |
+| 265 | [GRIME](games/g/grime.md) | 0.19% |
+| 268 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
+| 268 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
+| 268 | [Scathe](games/s/scathe.md) | 0.18% |
 | 271 | [Blanc](games/b/blanc.md) | 0.17% |
 | 271 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.17% |
 | 271 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.17% |
@@ -779,6 +779,7 @@
 | 373 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 0.00% |
 | 373 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 0.00% |
 | 373 | [Watch Over Christmas](games/2/263f654a1236484397892332888256aa.md) | 0.00% |
+| 373 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 0.00% |
 | 373 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 373 | [What The Duck](games/0/087e76c9e4ba4fc8bacc75b794cc27b2.md) | 0.00% |
 | 373 | [Who's Your Daddy?!](games/6/63d0293742c943d68b88af4173b1a5d0.md) | 0.00% |
