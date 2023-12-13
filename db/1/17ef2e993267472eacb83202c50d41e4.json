@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8745,
+  "EOS_Progressed": 8747,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8596,6 +8596,11 @@
       "Time": "2023-12-13T13:16:17.729486+00:00",
       "NumProgressed": 8745,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T15:09:56.41074+00:00",
+      "NumProgressed": 8747,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8720,7 +8725,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "GamesPlayed1",
@@ -8728,7 +8733,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "GamesPlayed10",
@@ -8976,7 +8981,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "MaxTowersKilled6",
@@ -9016,7 +9021,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "NeutralKills200",
@@ -9104,7 +9109,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "SEUpgraded1",
@@ -9192,14 +9197,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8745,
+      "Progressed": 8747,
       "Completed": 1
     }
   ],
@@ -9207,8 +9212,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-13T02:58:17.8162703+00:00",
-  "LastChanged_Achievements": "2023-12-13T14:10:06.9264137+00:00",
+  "LastChanged_Achievements": "2023-12-13T15:09:56.4107399+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.9940225+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:58:19.9567732+00:00",
-  "LastUpdate_Achievements": "2023-12-13T14:10:06.926493+00:00"
+  "LastUpdate_Ratings": "2023-12-13T14:58:30.0224015+00:00",
+  "LastUpdate_Achievements": "2023-12-13T15:09:56.4108284+00:00"
 }

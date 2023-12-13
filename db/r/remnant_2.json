@@ -5535,9 +5535,9 @@
       "Count": 424
     }
   ],
-  "EOS_Progressed": 239237,
+  "EOS_Progressed": 239263,
   "EOS_Completed": 584,
-  "EOS_NewPlayers": 3413,
+  "EOS_NewPlayers": 3412,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22800,6 +22800,11 @@
       "Time": "2023-12-13T14:09:22.420354+00:00",
       "NumProgressed": 239237,
       "NumCompleted": 584
+    },
+    {
+      "Time": "2023-12-13T15:09:13.1205863+00:00",
+      "NumProgressed": 239263,
+      "NumCompleted": 584
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -22812,7 +22817,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -22820,7 +22825,7 @@
       "Name": "Crafty",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Defeat_Abberations_A",
@@ -22844,7 +22849,7 @@
       "Name": "Only Human",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Defeat_Corrupted_Ravager",
@@ -22940,7 +22945,7 @@
       "Name": "Red Room",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Discover_Letos_Lab",
@@ -23060,7 +23065,7 @@
       "Name": "The Trigger",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Obtain_Melee_Weapons_A",
@@ -23076,7 +23081,7 @@
       "Name": "Cutting Edge",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Obtain_Nightweaver_Item",
@@ -23092,7 +23097,7 @@
       "Name": "The Collector",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Obtain_Scrap_A",
@@ -23116,7 +23121,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "Obtain_Traits_B",
@@ -23132,7 +23137,7 @@
       "Name": "Proving Grounds",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Obtain_Water_Harp_Item",
@@ -23140,7 +23145,7 @@
       "Name": "Carnage in C-Minor",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -23196,7 +23201,7 @@
       "Name": "Maxed Out!",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Upgrade_Weapon_Mutator",
@@ -23251,13 +23256,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 239237,
+      "Progressed": 239263,
       "Completed": 584
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 18402,
+      "Progressed": 18428,
       "Completed": 248
     }
   ],
@@ -23265,8 +23270,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-13T13:09:36.3837171+00:00",
-  "LastChanged_Achievements": "2023-12-13T14:09:22.4203538+00:00",
+  "LastChanged_Achievements": "2023-12-13T15:09:13.1205861+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:03:18.3186492+00:00",
-  "LastUpdate_Achievements": "2023-12-13T14:09:22.4204558+00:00"
+  "LastUpdate_Ratings": "2023-12-13T15:03:12.9854767+00:00",
+  "LastUpdate_Achievements": "2023-12-13T15:09:13.1206772+00:00"
 }

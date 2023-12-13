@@ -1315,9 +1315,9 @@
       "ID": "PRG_NORMAL_10002",
       "SetID": "89cjc9l",
       "Name": "Turquoise",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "PRG_NORMAL_10003",
@@ -1412,8 +1412,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-12-07T15:59:55.7707113+00:00",
-  "LastChanged_Achievements": "2023-12-13T14:04:43.7113604+00:00",
+  "LastChanged_Achievements": "2023-12-13T15:04:38.5756744+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:56.4099283+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:59:42.1843771+00:00",
-  "LastUpdate_Achievements": "2023-12-13T14:04:43.7114184+00:00"
+  "LastUpdate_Ratings": "2023-12-13T14:59:50.1150932+00:00",
+  "LastUpdate_Achievements": "2023-12-13T15:04:38.5757345+00:00"
 }

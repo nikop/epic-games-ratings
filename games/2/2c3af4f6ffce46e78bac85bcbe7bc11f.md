@@ -32,7 +32,7 @@
 | Something more... (fragile) | 6.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 109 (Ranked 437)  
-Completed: 6 (5.50%) (Ranked 74)  
+Completed: 6 (5.50%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

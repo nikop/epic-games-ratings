@@ -575,7 +575,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 98809,
+  "EOS_Progressed": 98811,
   "EOS_Completed": 112,
   "EOS_NewPlayers": 1214,
   "EOS_NewCompleters": 2,
@@ -25165,6 +25165,11 @@
       "Time": "2023-12-13T14:10:05.6605426+00:00",
       "NumProgressed": 98809,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-12-13T15:09:55.1919551+00:00",
+      "NumProgressed": 98811,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 67,
@@ -25176,7 +25181,7 @@
       "Name": "Follow the Light",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 58297
+      "UsersEstimate": 58298
     },
     {
       "ID": "02",
@@ -25208,7 +25213,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 34583
+      "UsersEstimate": 34584
     },
     {
       "ID": "06",
@@ -25240,7 +25245,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23714
+      "UsersEstimate": 23715
     },
     {
       "ID": "10",
@@ -25336,7 +25341,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23714
+      "UsersEstimate": 23715
     },
     {
       "ID": "22",
@@ -25344,7 +25349,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 22726
+      "UsersEstimate": 22727
     },
     {
       "ID": "23",
@@ -25368,7 +25373,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 14821
+      "UsersEstimate": 14822
     },
     {
       "ID": "26",
@@ -25400,7 +25405,7 @@
       "Name": "Sound and Fury",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 24702
+      "UsersEstimate": 24703
     },
     {
       "ID": "30",
@@ -25416,7 +25421,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 26678
+      "UsersEstimate": 26679
     },
     {
       "ID": "32",
@@ -25424,7 +25429,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 47428
+      "UsersEstimate": 47429
     },
     {
       "ID": "33",
@@ -25432,7 +25437,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 24702
+      "UsersEstimate": 24703
     },
     {
       "ID": "34",
@@ -25448,7 +25453,7 @@
       "Name": "Let There Be Light",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 49404
+      "UsersEstimate": 49406
     },
     {
       "ID": "36",
@@ -25488,7 +25493,7 @@
       "Name": "Right of Way",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 14821
+      "UsersEstimate": 14822
     },
     {
       "ID": "41",
@@ -25496,7 +25501,7 @@
       "Name": "Finders Keepers",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 26678
+      "UsersEstimate": 26679
     },
     {
       "ID": "42",
@@ -25536,7 +25541,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 24702
+      "UsersEstimate": 24703
     },
     {
       "ID": "47",
@@ -25584,7 +25589,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4359
+      "UsersEstimate": 4360
     },
     {
       "ID": "53",
@@ -25711,21 +25716,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 98809,
+      "Progressed": 98811,
       "Completed": 112
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 62277,
+      "Progressed": 62279,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-12-06T22:59:13.2020229+00:00",
-  "LastChanged_Achievements": "2023-12-13T14:10:05.6605424+00:00",
+  "LastChanged_Achievements": "2023-12-13T15:09:55.1919548+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:23.6079867+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:58:53.7363653+00:00",
-  "LastUpdate_Achievements": "2023-12-13T14:10:05.6606685+00:00"
+  "LastUpdate_Ratings": "2023-12-13T14:59:03.8007432+00:00",
+  "LastUpdate_Achievements": "2023-12-13T15:09:55.1921264+00:00"
 }

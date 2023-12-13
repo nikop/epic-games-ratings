@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 3726,
+  "Ranking_EOS_NewCompleters": 3727,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3431,9 +3431,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18016,
+  "EOS_Progressed": 18017,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": -8,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15571,6 +15571,11 @@
       "Time": "2023-12-13T14:08:11.0909632+00:00",
       "NumProgressed": 18016,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-13T15:08:03.343623+00:00",
+      "NumProgressed": 18017,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15701,9 +15706,9 @@
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 144
     },
     {
       "ID": "WinNearBarren",
@@ -15991,7 +15996,7 @@
       "Name": "Frosts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "WinNearGreed",
@@ -15999,7 +16004,7 @@
       "Name": "Land of Greed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "WinNearLibrary",
@@ -16023,7 +16028,7 @@
       "Name": "Ominous Presence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "WinNearStorms",
@@ -16031,7 +16036,7 @@
       "Name": "Gathering Storm",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -16054,15 +16059,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18016,
+      "Progressed": 18017,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-13T10:59:18.3182302+00:00",
-  "LastChanged_Achievements": "2023-12-13T14:08:11.0909628+00:00",
+  "LastChanged_Achievements": "2023-12-13T15:08:03.3436228+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:59:30.5924552+00:00",
-  "LastUpdate_Achievements": "2023-12-13T14:08:11.0910483+00:00"
+  "LastUpdate_Ratings": "2023-12-13T14:59:38.730893+00:00",
+  "LastUpdate_Achievements": "2023-12-13T15:08:03.343709+00:00"
 }

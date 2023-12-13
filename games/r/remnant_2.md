@@ -9,8 +9,8 @@ Rating: 4.75 (Ranked 148)
 | First of Many | 0.80% | ~1,914 |
 | Regicide | 0.80% | ~147 |
 | Master of the Dark Arts | 0.80% | ~147 |
-| Expanding Horizons | 0.60% | ~1,435 |
-| Not Your Average Trait | 0.60% | ~1,435 |
+| Expanding Horizons | 0.60% | ~1,436 |
+| Not Your Average Trait | 0.60% | ~1,436 |
 | Am I Seeing This? | 0.50% | ~1,196 |
 | Gleaming the Cube | 0.50% | ~1,196 |
 | Not So Special Now | 0.50% | ~1,196 |
@@ -48,20 +48,20 @@ Rating: 4.75 (Ranked 148)
 | The Ultimate Weapon | 0.30% | ~718 |
 | No One Should Have All That Power | 0.30% | ~718 |
 | Transmutate | 0.30% | ~718 |
-| Crafty | 0.20% | ~478 |
-| Only Human | 0.20% | ~478 |
-| Red Room | 0.20% | ~478 |
-| The Trigger | 0.20% | ~478 |
-| Cutting Edge | 0.20% | ~478 |
-| The Collector | 0.20% | ~478 |
-| Proving Grounds | 0.20% | ~478 |
-| Carnage in C-Minor | 0.20% | ~478 |
-| Maxed Out! | 0.20% | ~478 |
+| Crafty | 0.20% | ~479 |
+| Only Human | 0.20% | ~479 |
+| Red Room | 0.20% | ~479 |
+| The Trigger | 0.20% | ~479 |
+| Cutting Edge | 0.20% | ~479 |
+| The Collector | 0.20% | ~479 |
+| Proving Grounds | 0.20% | ~479 |
+| Carnage in C-Minor | 0.20% | ~479 |
+| Maxed Out! | 0.20% | ~479 |
 | Succession | 0.20% | ~37 |
 | You Shall Pass | 0.20% | ~37 |
 | A Foul Feast | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,237 (Ranked 66)  
+Progressed: 239,263 (Ranked 66)  
 Completed: 584 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 584 (0.24%) (Ranked 252)
 | 2023-12-10 | 238,247 | 577 |
 | 2023-12-11 | 238,673 | 579 |
 | 2023-12-12 | 239,053 | 581 |
-| 2023-12-13 | 239,237 | 584 |
+| 2023-12-13 | 239,263 | 584 |
 ## Awards
 Max (Great Boss Battles): 2,730  (Ranked 102)  
 Sum: 6,848 (Ranked 126)  

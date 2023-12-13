@@ -4209,9 +4209,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 82652,
+  "EOS_Progressed": 82653,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 1061,
+  "EOS_NewPlayers": 1055,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -31159,6 +31159,11 @@
       "Time": "2023-12-13T13:15:52.6205362+00:00",
       "NumProgressed": 82652,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-12-13T15:09:29.4051222+00:00",
+      "NumProgressed": 82653,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 53,
@@ -31186,7 +31191,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14877
+      "UsersEstimate": 14878
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -31298,7 +31303,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 30581
+      "UsersEstimate": 30582
     },
     {
       "ID": "cutting_edge_materials",
@@ -31442,7 +31447,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16530
+      "UsersEstimate": 16531
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -31466,7 +31471,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 28928
+      "UsersEstimate": 28929
     },
     {
       "ID": "one_third_purple",
@@ -31593,13 +31598,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 82652,
+      "Progressed": 82653,
       "Completed": 55
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 54289,
+      "Progressed": 54290,
       "Completed": 4493
     }
   ],
@@ -31607,8 +31612,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-12-12T22:03:04.3804501+00:00",
-  "LastChanged_Achievements": "2023-12-13T14:09:39.2596998+00:00",
+  "LastChanged_Achievements": "2023-12-13T15:09:29.405122+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:17.4924832+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:03:16.2588434+00:00",
-  "LastUpdate_Achievements": "2023-12-13T14:09:39.2598315+00:00"
+  "LastUpdate_Ratings": "2023-12-13T15:03:11.5659443+00:00",
+  "LastUpdate_Achievements": "2023-12-13T15:09:29.4053049+00:00"
 }

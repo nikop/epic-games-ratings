@@ -4637,9 +4637,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77939,
+  "EOS_Progressed": 77940,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25822,6 +25822,11 @@
       "Time": "2023-12-13T14:03:48.864577+00:00",
       "NumProgressed": 77939,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-13T15:03:44.2379751+00:00",
+      "NumProgressed": 77940,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25927,9 +25932,9 @@
       "ID": "CHALLENGES_1",
       "SetID": "4eo5ebm",
       "Name": "Protector of Gotham",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13250
+      "UsersEstimate": 12470
     },
     {
       "ID": "CLAYFACE_1",
@@ -25953,7 +25958,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10911
+      "UsersEstimate": 10912
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -26073,7 +26078,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14808
+      "UsersEstimate": 14809
     },
     {
       "ID": "FREEZE_3",
@@ -26081,7 +26086,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10911
+      "UsersEstimate": 10912
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -26137,7 +26142,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26499
+      "UsersEstimate": 26500
     },
     {
       "ID": "HARLEY_2",
@@ -26233,7 +26238,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18705
+      "UsersEstimate": 18706
     },
     {
       "ID": "MYSTERY_03",
@@ -26273,7 +26278,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10911
+      "UsersEstimate": 10912
     },
     {
       "ID": "MYSTERY_08",
@@ -26320,13 +26325,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77939,
+      "Progressed": 77940,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48219,
+      "Progressed": 48220,
       "Completed": 2675
     }
   ],
@@ -26334,8 +26339,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-12T19:58:35.1362928+00:00",
-  "LastChanged_Achievements": "2023-12-13T14:03:48.8645767+00:00",
+  "LastChanged_Achievements": "2023-12-13T15:03:44.2379748+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:59:19.6672547+00:00",
-  "LastUpdate_Achievements": "2023-12-13T14:03:48.8647442+00:00"
+  "LastUpdate_Ratings": "2023-12-13T14:59:28.542757+00:00",
+  "LastUpdate_Achievements": "2023-12-13T15:03:44.238119+00:00"
 }

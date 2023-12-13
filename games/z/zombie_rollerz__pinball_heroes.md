@@ -34,7 +34,7 @@ Rating: 4.29 (Ranked 855)
 | The Ooze | 16.00% | ~32 |
 | Out of the Frying Pan... | 16.00% | ~32 |
 | Ember | 16.00% | ~32 |
-| Turquoise | 14.00% | ~28 |
+| Turquoise | 15.00% | ~30 |
 | The Assistant | 13.00% | ~26 |
 | The Steampunk | 13.00% | ~26 |
 | The Droid | 10.00% | ~20 |

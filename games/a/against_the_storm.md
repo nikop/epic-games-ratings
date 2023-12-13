@@ -9,10 +9,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 4.00% | ~721 |
 | Overgrown Library | 4.00% | ~721 |
 | Petrified Necropolis | 4.00% | ~721 |
-| Frosts | 3.00% | ~540 |
-| Land of Greed | 3.00% | ~540 |
-| Ominous Presence | 3.00% | ~540 |
-| Gathering Storm | 3.00% | ~540 |
+| Frosts | 3.00% | ~541 |
+| Land of Greed | 3.00% | ~541 |
+| Ominous Presence | 3.00% | ~541 |
+| Gathering Storm | 3.00% | ~541 |
 | First Real Expedition | 2.00% | ~360 |
 | The Marshlands | 2.00% | ~360 |
 | Taking Action | 2.00% | ~360 |
@@ -26,8 +26,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 1.00% | ~180 |
 | Lost Colonies | 0.90% | ~162 |
 | Homesick | 0.80% | ~144 |
+| Bandit Camp | 0.80% | ~144 |
 | Ruined Armory | 0.70% | ~126 |
-| Bandit Camp | 0.70% | ~126 |
 | Levitating Monument | 0.70% | ~126 |
 | Monastery of the Holy Flame | 0.70% | ~126 |
 | A Real Challenge | 0.70% | ~126 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,016 (Ranked 147)  
+Progressed: 18,017 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 40 (0.22%) (Ranked 256)
 | 2023-12-10 | 17,908 | 43 |
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
-| 2023-12-13 | 18,016 | 40 |
+| 2023-12-13 | 18,017 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 224)  
 Sum: 3,256 (Ranked 174)  

@@ -26,8 +26,8 @@
 | Castle Meldec | 24.00% | ~10 |
 | Sevenkeeps Seat of Kings | 24.00% | ~10 |
 | Friend of Gillyshire | 21.00% | ~9 |
+| Friend of Connach | 21.00% | ~9 |
 | Friend of Alluvyan | 19.00% | ~8 |
-| Friend of Connach | 19.00% | ~8 |
 | Friend of Bastion | 19.00% | ~8 |
 | Break Free | 19.00% | ~8 |
 | Philo's Tale | 17.00% | ~7 |
@@ -43,6 +43,7 @@
 | A Master of Magic | 12.00% | ~5 |
 | Magic Academy | 12.00% | ~5 |
 | A Joke | 12.00% | ~5 |
+| Get to the Airship! | 10.00% | ~4 |
 | Defeat Hokan | 10.00% | ~4 |
 | Defeat Isgrimm | 10.00% | ~4 |
 | Defeat Undergast | 10.00% | ~4 |
@@ -50,7 +51,6 @@
 | Elynn's Tale | 10.00% | ~4 |
 | Mage Teacher | 10.00% | ~4 |
 | Friend of Grey Dusk Vale | 10.00% | ~4 |
-| Get to the Airship! | 7.00% | ~3 |
 | Defeat Ianna | 7.00% | ~3 |
 | Defeat Rohen | 7.00% | ~3 |
 | Defeat Yria | 7.00% | ~3 |

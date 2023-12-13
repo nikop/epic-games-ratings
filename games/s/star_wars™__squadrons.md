@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~27,539 |
-| Safety in the Storm | 24.00% | ~6,957 |
-| A Better Idea | 24.00% | ~6,957 |
-| Begin the Ceremony | 20.00% | ~5,798 |
-| Mission Accomplished | 19.00% | ~5,508 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~4,348 |
-| Asset Secured | 13.00% | ~3,768 |
-| A Starfighter of Your Own | 13.00% | ~3,768 |
-| Unkillable | 8.00% | ~2,319 |
-| Together, Vanguard | 7.00% | ~2,029 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~1,739 |
-| Sound Strategy | 6.00% | ~1,739 |
-| Stomped | 5.00% | ~1,449 |
-| A Promising Career | 5.00% | ~1,449 |
+| Fracture at Fostar Haven | 95.00% | ~27,552 |
+| Safety in the Storm | 24.00% | ~6,960 |
+| A Better Idea | 24.00% | ~6,960 |
+| Begin the Ceremony | 20.00% | ~5,800 |
+| Mission Accomplished | 19.00% | ~5,510 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~4,350 |
+| Asset Secured | 13.00% | ~3,770 |
+| A Starfighter of Your Own | 13.00% | ~3,770 |
+| Unkillable | 8.00% | ~2,320 |
+| Together, Vanguard | 7.00% | ~2,030 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~1,740 |
+| Sound Strategy | 6.00% | ~1,740 |
+| Stomped | 5.00% | ~1,450 |
+| A Promising Career | 5.00% | ~1,450 |
 | Great Shot, Kid | 4.00% | ~1,160 |
 | Fearless | 4.00% | ~1,160 |
 | Back From the Brink | 4.00% | ~1,160 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~29 |
 | The Galaxy's Finest (Ace) | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,988 (Ranked 128)  
+Progressed: 29,002 (Ranked 128)  
 Completed: 2 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 2 (0.01%) (Ranked 350)
 | 2023-12-10 | 28,415 | 2 |
 | 2023-12-11 | 28,645 | 2 |
 | 2023-12-12 | 28,866 | 2 |
-| 2023-12-13 | 28,988 | 2 |
+| 2023-12-13 | 29,002 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

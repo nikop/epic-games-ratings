@@ -21,11 +21,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Serenity Now! | 0.70% | ~886 |
 | Rush Hour | 0.70% | ~886 |
 | To Grandmother's House | 0.70% | ~886 |
+| FNG | 0.70% | ~886 |
 | Ploughshares to Swords | 0.70% | ~10 |
 | Don't Make Me Turn This Coach Around | 0.60% | ~759 |
 | It Rings a Bell | 0.60% | ~759 |
 | Dissector | 0.60% | ~759 |
-| FNG | 0.60% | ~759 |
+| Nope | 0.60% | ~759 |
 | Friends 'Til the End | 0.60% | ~9 |
 | Banishment | 0.50% | ~633 |
 | Deprogramming | 0.50% | ~633 |
@@ -35,7 +36,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Harvest Festival | 0.50% | ~633 |
 | Whale | 0.50% | ~633 |
 | A Place to Lay Your Head | 0.50% | ~633 |
-| Nope | 0.50% | ~633 |
 | Road Trip | 0.50% | ~633 |
 | Resurrection | 0.40% | ~506 |
 | Unleash Hell | 0.40% | ~506 |
@@ -53,13 +53,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 0.40% | ~506 |
 | Worldly Traveller | 0.40% | ~506 |
 | Unshackled | 0.40% | ~506 |
+| Slap on the Wrist | 0.40% | ~6 |
 | Hope Rekindled | 0.30% | ~380 |
 | No More Mouths to Feed | 0.30% | ~380 |
 | Utopia | 0.30% | ~380 |
 | Hot Air | 0.30% | ~380 |
 | Eyes Up | 0.30% | ~380 |
 | Maître De La Lame | 0.30% | ~4 |
-| Slap on the Wrist | 0.30% | ~4 |
 | Et Tu, Riposte? | 0.30% | ~4 |
 | This Looks Familiar | 0.20% | ~253 |
 | Shrine of Reflection | 0.20% | ~253 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~1 |
 | On This Long Road, We Found Redemption | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,575 (Ranked 84)  
+Progressed: 126,580 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,17 +313,17 @@ Completed: 2 (0.00%) (Ranked 373)
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
-| 2023-12-13 | 126,575 | 2 |
+| 2023-12-13 | 126,580 | 2 |
 ## Awards
 Max (Character Customization): 7,665  (Ranked 52)  
-Sum: 20,301 (Ranked 59)  
+Sum: 20,313 (Ranked 59)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,665 |
 | This game has Diverse Characters | 1,675 |
 | This game has Challenging Combat | 1,570 |
-| This game is Highly Recommended | 1,494 |
+| This game is Highly Recommended | 1,506 |
 | This game has Amazing Characters | 1,437 |
 | This game is Extremely Fun | 1,435 |
 | This game has Amazing Storytelling | 1,358 |
@@ -654,4 +654,4 @@ Diff (max vs sum): -7
 | 2023-12-10 | 4.68 | - | 7,578 | 20,042 |
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
-| 2023-12-13 | 4.68 | - | 7,665 | 20,301 |
+| 2023-12-13 | 4.68 | - | 7,665 | 20,313 |

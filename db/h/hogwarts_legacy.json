@@ -11851,10 +11851,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 50579,
       "NumberOfAwardsMax": 25157
+    },
+    {
+      "Time": "2023-12-13T15:00:59.9072314+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 50589,
+      "NumberOfAwardsMax": 25157
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50579,
+  "NumberOfAwards": 50589,
   "NumberOfAwardsMax": 25157,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11868,7 +11874,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12922
+      "Count": 12932
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -11931,9 +11937,9 @@
       "Count": 852
     }
   ],
-  "EOS_Progressed": 304284,
+  "EOS_Progressed": 304285,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -37306,6 +37312,11 @@
       "Time": "2023-12-13T14:06:26.052866+00:00",
       "NumProgressed": 304284,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-12-13T15:06:19.4960247+00:00",
+      "NumProgressed": 304285,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 45,
@@ -37317,7 +37328,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48685
+      "UsersEstimate": 48686
     },
     {
       "ID": "PFA_10",
@@ -37676,16 +37687,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 304284,
+      "Progressed": 304285,
       "Completed": 525
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-13T12:02:49.7449587+00:00",
-  "LastChanged_Achievements": "2023-12-13T14:06:26.0528657+00:00",
+  "LastChanged": "2023-12-13T15:00:59.9072312+00:00",
+  "LastChanged_Achievements": "2023-12-13T15:06:19.4960245+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.8001561+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:02:33.1646167+00:00",
-  "LastUpdate_Achievements": "2023-12-13T14:06:26.0530027+00:00"
+  "LastUpdate_Ratings": "2023-12-13T15:00:59.9072319+00:00",
+  "LastUpdate_Achievements": "2023-12-13T15:06:19.4961668+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "cyvenge-55b56b",
   "Ranking_EOS_Progress": 795,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-18T10:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-27T02:22:00.1464377+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:57:00.331583+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:02:59.5972065+00:00",
-  "LastUpdate_Achievements": "2023-12-13T14:06:30.5760337+00:00"
+  "LastUpdate_Ratings": "2023-12-13T15:02:55.5444358+00:00",
+  "LastUpdate_Achievements": "2023-12-13T15:06:24.2416914+00:00"
 }

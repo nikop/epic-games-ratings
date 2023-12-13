@@ -41,7 +41,7 @@ Rating: 4.64 (Ranked 337)
 | Full Clearance | 26.00% | ~584 |
 | Pusher | 23.00% | ~517 |
 | Z-Baller | 23.00% | ~517 |
-| Marked | 21.00% | ~472 |
+| Marked | 22.00% | ~494 |
 | Eviscerator | 19.00% | ~427 |
 | Backbreaker | 15.00% | ~337 |
 | Trusted Contractor | 8.00% | ~180 |

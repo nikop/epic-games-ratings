@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -824,9 +824,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5466,
+  "EOS_Progressed": 5467,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -10929,6 +10929,11 @@
       "Time": "2023-12-13T00:04:17.8489426+00:00",
       "NumProgressed": 5466,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-13T15:04:51.7628635+00:00",
+      "NumProgressed": 5467,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11029,7 +11034,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -11124,15 +11129,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5466,
+      "Progressed": 5467,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-11T15:58:13.4917399+00:00",
-  "LastChanged_Achievements": "2023-12-13T14:04:57.1758747+00:00",
+  "LastChanged_Achievements": "2023-12-13T15:04:51.7628633+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:59:29.2170541+00:00",
-  "LastUpdate_Achievements": "2023-12-13T14:04:57.1759388+00:00"
+  "LastUpdate_Ratings": "2023-12-13T14:59:37.4547364+00:00",
+  "LastUpdate_Achievements": "2023-12-13T15:04:51.7629324+00:00"
 }

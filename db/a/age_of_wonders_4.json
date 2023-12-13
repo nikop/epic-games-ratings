@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -549,9 +549,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5587,
+  "EOS_Progressed": 5588,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7889,6 +7889,11 @@
       "Time": "2023-12-12T13:10:50.6872729+00:00",
       "NumProgressed": 5587,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-13T15:05:54.423964+00:00",
+      "NumProgressed": 5588,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8012,7 +8017,7 @@
       "Name": "Realm Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "23",
@@ -8020,7 +8025,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "24",
@@ -8028,7 +8033,7 @@
       "Name": "Secret Technique",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "25",
@@ -8036,7 +8041,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "26",
@@ -8364,7 +8369,7 @@
       "Name": "But this one is mine",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "60",
@@ -8379,13 +8384,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5587,
+      "Progressed": 5588,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5587,
+      "Progressed": 5588,
       "Completed": 7
     }
   ],
@@ -8393,8 +8398,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-11T09:58:49.361776+00:00",
-  "LastChanged_Achievements": "2023-12-13T14:06:00.6584555+00:00",
+  "LastChanged_Achievements": "2023-12-13T15:05:54.4239638+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.604119+00:00",
-  "LastUpdate_Ratings": "2023-12-13T14:00:22.5899604+00:00",
-  "LastUpdate_Achievements": "2023-12-13T14:06:00.6585184+00:00"
+  "LastUpdate_Ratings": "2023-12-13T15:00:29.5136774+00:00",
+  "LastUpdate_Achievements": "2023-12-13T15:05:54.4240355+00:00"
 }

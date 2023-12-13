@@ -9562,10 +9562,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20301,
       "NumberOfAwardsMax": 7665
+    },
+    {
+      "Time": "2023-12-13T14:59:43.7845344+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20313,
+      "NumberOfAwardsMax": 7665
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20301,
+  "NumberOfAwards": 20313,
   "NumberOfAwardsMax": 7665,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9585,7 +9591,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1494
+      "Count": 1506
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9642,9 +9648,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126575,
+  "EOS_Progressed": 126580,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 906,
+  "EOS_NewPlayers": 905,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34822,6 +34828,11 @@
       "Time": "2023-12-13T14:08:59.9106459+00:00",
       "NumProgressed": 126575,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T15:08:51.3731529+00:00",
+      "NumProgressed": 126580,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -35239,9 +35250,9 @@
       "ID": "inn_replacement_hero_add",
       "SetID": "64l4lke",
       "Name": "FNG",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 886
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35279,9 +35290,9 @@
       "ID": "run_end_abandon",
       "SetID": "64l4lke",
       "Name": "Nope",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 759
     },
     {
       "ID": "run_victory_act01",
@@ -35399,9 +35410,9 @@
       "ID": "combat_land_riposte_dmg_threshold_duelist",
       "SetID": "d3bcpc8",
       "Name": "Slap on the Wrist",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -35464,21 +35475,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126575,
+      "Progressed": 126580,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1444,
+      "Progressed": 1449,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-13T13:05:36.6138277+00:00",
-  "LastChanged_Achievements": "2023-12-13T14:08:59.9106456+00:00",
+  "LastChanged": "2023-12-13T14:59:43.7845343+00:00",
+  "LastChanged_Achievements": "2023-12-13T15:08:51.3731527+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:59:35.6844891+00:00",
-  "LastUpdate_Achievements": "2023-12-13T14:08:59.9108099+00:00"
+  "LastUpdate_Ratings": "2023-12-13T14:59:43.7845348+00:00",
+  "LastUpdate_Achievements": "2023-12-13T15:08:51.3733765+00:00"
 }
