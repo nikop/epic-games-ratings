@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -161,11 +161,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53764,
+  "EOS_Progressed": 53783,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 4185,
+  "EOS_NewPlayers": 4178,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 21.87,
+  "EOS_Completed_Percentage": 21.86,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -12726,6 +12726,11 @@
       "Time": "2023-12-13T13:15:30.4377515+00:00",
       "NumProgressed": 53764,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-12-13T14:09:13.6964454+00:00",
+      "NumProgressed": 53783,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -12746,7 +12751,7 @@
       "Name": "First blood",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 39248
+      "UsersEstimate": 39262
     },
     {
       "ID": "grenadeKills",
@@ -12849,7 +12854,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 53764,
+      "Progressed": 53783,
       "Completed": 11759
     }
   ],
@@ -12857,8 +12862,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-12-08T14:58:39.5420526+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:15:30.4377511+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:09:13.6964449+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:59.5320614+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:03:48.0099247+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:15:30.4378233+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:57:33.2873456+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:09:13.6965138+00:00"
 }

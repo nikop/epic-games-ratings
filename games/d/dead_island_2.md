@@ -9,23 +9,24 @@ Rating: 4.54 (Ranked 534)
 | Welcome To Hell-A | 3.00% | ~22,021 |
 | Whatever It Takes | 3.00% | ~1,787 |
 | Pork Chopped | 3.00% | ~1,787 |
-| Dr. Reed, I Presume? | 2.00% | ~14,680 |
-| Git Gutte! | 2.00% | ~14,680 |
-| Anger Management | 2.00% | ~14,680 |
-| Bookworm | 2.00% | ~14,680 |
-| Break A Leg | 2.00% | ~14,680 |
-| But Doctor, I am Butcho | 2.00% | ~14,680 |
-| Can't Handle the Truth | 2.00% | ~14,680 |
-| Coup de Grâce | 2.00% | ~14,680 |
-| Like Riding a Bike | 2.00% | ~14,680 |
-| Hazardous Materials | 2.00% | ~14,680 |
-| Friends Like These | 2.00% | ~14,680 |
-| Apex Predator | 2.00% | ~14,680 |
-| Zombologist | 2.00% | ~14,680 |
-| A Patton Emerges | 2.00% | ~14,680 |
-| Stacking the Deck | 2.00% | ~14,680 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,680 |
-| This is My Weapon | 2.00% | ~14,680 |
+| Dr. Reed, I Presume? | 2.00% | ~14,681 |
+| Git Gutte! | 2.00% | ~14,681 |
+| Anger Management | 2.00% | ~14,681 |
+| Bookworm | 2.00% | ~14,681 |
+| Break A Leg | 2.00% | ~14,681 |
+| But Doctor, I am Butcho | 2.00% | ~14,681 |
+| Can't Handle the Truth | 2.00% | ~14,681 |
+| Coup de Grâce | 2.00% | ~14,681 |
+| Like Riding a Bike | 2.00% | ~14,681 |
+| Hazardous Materials | 2.00% | ~14,681 |
+| Friends Like These | 2.00% | ~14,681 |
+| Apex Predator | 2.00% | ~14,681 |
+| Zombologist | 2.00% | ~14,681 |
+| A Patton Emerges | 2.00% | ~14,681 |
+| Stacking the Deck | 2.00% | ~14,681 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,681 |
+| Our True Nature | 2.00% | ~14,681 |
+| This is My Weapon | 2.00% | ~14,681 |
 | One of Us | 2.00% | ~1,191 |
 | Making Your Mark | 1.00% | ~7,340 |
 | Perks of the Job | 1.00% | ~7,340 |
@@ -36,7 +37,6 @@ Rating: 4.54 (Ranked 534)
 | I Am the Resurrection | 1.00% | ~7,340 |
 | Down with the Sickness | 1.00% | ~7,340 |
 | Max Headroom | 1.00% | ~7,340 |
-| Our True Nature | 1.00% | ~7,340 |
 | Jumbo Keyring | 0.90% | ~6,606 |
 | Go, Bobcats! | 0.90% | ~6,606 |
 | Rising Star | 0.90% | ~6,606 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 534)
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,021 (Ranked 21)  
+Progressed: 734,031 (Ranked 21)  
 Completed: 2,481 (0.34%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 2,481 (0.34%) (Ranked 236)
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
 | 2023-12-12 | 733,868 | 2,480 |
-| 2023-12-13 | 734,021 | 2,481 |
+| 2023-12-13 | 734,031 | 2,481 |
 ## Awards
 Max (Great Boss Battles): 8,108  (Ranked 49)  
 Sum: 12,484 (Ranked 81)  

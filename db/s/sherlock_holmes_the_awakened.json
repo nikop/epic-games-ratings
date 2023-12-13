@@ -5,7 +5,7 @@
   "Ranking_Rating": 482,
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
-  "Ranking_EOS_Progress": 262,
+  "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 62,
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1139,
+  "EOS_Progressed": 1140,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.63,
   "EosHistory": [
@@ -3891,6 +3891,11 @@
       "Time": "2023-12-13T12:03:52.4458065+00:00",
       "NumProgressed": 1139,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-13T14:03:24.3316313+00:00",
+      "NumProgressed": 1140,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 28,
@@ -3910,15 +3915,15 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 626
+      "UsersEstimate": 616
     },
     {
       "ID": "MQ02_2",
@@ -3942,7 +3947,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "MQ03_1",
@@ -3958,7 +3963,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "MQ03_3",
@@ -3982,7 +3987,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "MQ04_1",
@@ -3998,15 +4003,15 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 513
+      "UsersEstimate": 502
     },
     {
       "ID": "MQ05_1",
@@ -4038,7 +4043,7 @@
       "Name": "Knives Out",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "MQ06_1",
@@ -4086,7 +4091,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "MQ08_1",
@@ -4125,7 +4130,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1139,
+      "Progressed": 1140,
       "Completed": 30
     }
   ],
@@ -4133,8 +4138,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-12T11:03:07.9199744+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:09:39.9345752+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:03:24.331631+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:09:25.7209277+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:09:39.9346187+00:00"
+  "LastUpdate_Ratings": "2023-12-13T14:03:05.5862298+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:03:24.3316659+00:00"
 }

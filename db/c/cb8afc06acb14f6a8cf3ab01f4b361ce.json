@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -413,7 +413,7 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 328161,
+  "EOS_Progressed": 328182,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 3423,
   "EOS_NewCompleters": 1,
@@ -9458,6 +9458,11 @@
       "Time": "2023-12-13T13:12:33.1234874+00:00",
       "NumProgressed": 328161,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-13T14:06:39.3144438+00:00",
+      "NumProgressed": 328182,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9478,7 +9483,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6563
+      "UsersEstimate": 6564
     },
     {
       "ID": "S03_OTWA",
@@ -9558,7 +9563,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "S13_ALL_HARD",
@@ -9774,7 +9779,7 @@
       "Name": "I took a risk",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "S40_BONUS",
@@ -9789,7 +9794,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 328161,
+      "Progressed": 328182,
       "Completed": 5
     }
   ],
@@ -9797,8 +9802,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-13T03:57:02.1052572+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:12:33.1234869+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:06:39.3144435+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:03:34.8487807+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:12:33.1235474+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:57:19.4514227+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:06:39.3144965+00:00"
 }

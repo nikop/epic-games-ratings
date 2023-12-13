@@ -33,8 +33,8 @@
 | Sentinel Ally | 41.00% | ~652 |
 | Head Hunter | 40.00% | ~636 |
 | Scholar | 40.00% | ~636 |
+| Veteran | 39.00% | ~620 |
 | Operative | 39.00% | ~620 |
-| Veteran | 38.00% | ~604 |
 | The Archangel | 38.00% | ~604 |
 | The Professor | 38.00% | ~604 |
 | Power Full | 37.00% | ~588 |
@@ -67,13 +67,13 @@
 | Doppelganger | 30.00% | ~477 |
 | Treason | 30.00% | ~477 |
 | Agent | 30.00% | ~477 |
+| Mobilizer | 30.00% | ~477 |
 | Untouchable | 29.00% | ~461 |
 | Archivist | 29.00% | ~461 |
 | Mission Accomplished | 29.00% | ~461 |
 | Suicide Mission | 29.00% | ~461 |
 | Against All Odds | 29.00% | ~461 |
 | Friend or Foe | 29.00% | ~461 |
-| Mobilizer | 29.00% | ~461 |
 | Eye of the Hurricane | 28.00% | ~445 |
 | Giant Killer | 28.00% | ~445 |
 | A House Divided | 28.00% | ~445 |

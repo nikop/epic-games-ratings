@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 4.00% | ~58 |
-| This Belongs in a Museum | 2.00% | ~2,531 |
+| This Belongs in a Museum | 2.00% | ~2,532 |
 | This guy... again? | 2.00% | ~29 |
 | Bloody Graduation | 2.00% | ~29 |
 | Lost and Found | 2.00% | ~29 |
@@ -29,6 +29,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Friends 'Til the End | 0.60% | ~9 |
 | Banishment | 0.50% | ~633 |
 | Deprogramming | 0.50% | ~633 |
+| Now Stay Dead | 0.50% | ~633 |
 | It Happens | 0.50% | ~633 |
 | Merry Time | 0.50% | ~633 |
 | Harvest Festival | 0.50% | ~633 |
@@ -45,7 +46,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unfulfilled Desires | 0.40% | ~506 |
 | Predator | 0.40% | ~506 |
 | Ichthyophobic | 0.40% | ~506 |
-| Now Stay Dead | 0.40% | ~506 |
 | Reverse Banditry | 0.40% | ~506 |
 | Spelunker | 0.40% | ~506 |
 | Ramble On | 0.40% | ~506 |
@@ -58,13 +58,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 0.30% | ~380 |
 | Hot Air | 0.30% | ~380 |
 | Eyes Up | 0.30% | ~380 |
+| Maître De La Lame | 0.30% | ~4 |
 | Slap on the Wrist | 0.30% | ~4 |
 | Et Tu, Riposte? | 0.30% | ~4 |
 | This Looks Familiar | 0.20% | ~253 |
 | Shrine of Reflection | 0.20% | ~253 |
 | Handled | 0.20% | ~253 |
 | Body of Work | 0.20% | ~253 |
-| Maître De La Lame | 0.20% | ~3 |
 | For Old Time' Sake | 0.20% | ~3 |
 | A Life Well Lived | 0.10% | ~127 |
 | The World As It Was | 0.10% | ~127 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~1 |
 | On This Long Road, We Found Redemption | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,572 (Ranked 84)  
+Progressed: 126,575 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 2 (0.00%) (Ranked 373)
 | 2023-12-10 | 126,073 | 2 |
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
-| 2023-12-13 | 126,572 | 2 |
+| 2023-12-13 | 126,575 | 2 |
 ## Awards
 Max (Character Customization): 7,665  (Ranked 52)  
 Sum: 20,301 (Ranked 59)  

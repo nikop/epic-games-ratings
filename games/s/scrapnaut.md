@@ -6,39 +6,39 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 62.00% | ~306 |
-| Mushroom Picker | 57.00% | ~281 |
-| Scrap Gatherer | 57.00% | ~281 |
-| Scrapper | 47.00% | ~232 |
-| Teleport | 45.00% | ~222 |
-| Cook | 44.00% | ~217 |
-| Scrap Master | 39.00% | ~192 |
-| Smelter | 36.00% | ~177 |
+| My New Home | 62.00% | ~307 |
+| Mushroom Picker | 57.00% | ~282 |
+| Scrap Gatherer | 57.00% | ~282 |
+| Scrapper | 46.00% | ~228 |
+| Teleport | 45.00% | ~223 |
+| Cook | 44.00% | ~218 |
+| Scrap Master | 38.00% | ~188 |
+| Smelter | 36.00% | ~178 |
 | Digger | 33.00% | ~163 |
 | Electro-Scrap Gatherer | 33.00% | ~163 |
 | Survivor | 31.00% | ~153 |
 | Lumberjack | 30.00% | ~148 |
 | Robot Destroyer | 30.00% | ~148 |
-| Herbalist | 29.00% | ~143 |
-| Prepper | 26.00% | ~128 |
-| Electro-Scrap Master | 24.00% | ~118 |
+| Herbalist | 29.00% | ~144 |
+| Prepper | 26.00% | ~129 |
+| Electro-Scrap Master | 24.00% | ~119 |
 | Robot Hunter | 21.00% | ~104 |
 | Advanced Survivalist | 19.00% | ~94 |
 | Master Of Technology | 16.00% | ~79 |
 | Treasure Hunter | 16.00% | ~79 |
 | Mythical Smelter | 14.00% | ~69 |
 | Blacksmith | 11.00% | ~54 |
-| Master Of Management | 10.00% | ~49 |
-| Forest Lord | 10.00% | ~49 |
-| Fuel | 10.00% | ~49 |
-| Smelting Master | 10.00% | ~49 |
+| Master Of Management | 10.00% | ~50 |
+| Forest Lord | 10.00% | ~50 |
+| Fuel | 10.00% | ~50 |
+| Smelting Master | 10.00% | ~50 |
 | Black Gold | 7.00% | ~35 |
 | Survival Master | 5.00% | ~25 |
 | Traveler | 3.00% | ~15 |
 | Forest Killer | 2.00% | ~10 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493 (Ranked 320)  
+Progressed: 495 (Ranked 319)  
 Completed: 1 (0.20%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,6 +190,7 @@ Completed: 1 (0.20%) (Ranked 261)
 | 2023-12-08 | 489 | 1 |
 | 2023-12-09 | 492 | 1 |
 | 2023-12-10 | 493 | 1 |
+| 2023-12-13 | 495 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

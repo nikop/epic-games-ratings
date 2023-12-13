@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 758,
+  "Ranking_Rating": 759,
   "Ranking_Popularity": 431,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1253,10 +1253,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 360,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2023-12-13T14:02:36.8931747+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 362,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 360,
+  "NumberOfAwards": 362,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1270,7 +1276,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1282,7 +1288,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1323,7 +1329,7 @@
   ],
   "EOS_Progressed": 259302,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24451,9 +24457,9 @@
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-12-11T15:01:04.8801587+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:10:08.4053309+00:00",
+  "LastChanged": "2023-12-13T14:02:36.8931746+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:03:56.3234042+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:52.9725586+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:09:00.9810776+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:10:08.4054959+00:00"
+  "LastUpdate_Ratings": "2023-12-13T14:02:36.893175+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:03:56.323522+00:00"
 }

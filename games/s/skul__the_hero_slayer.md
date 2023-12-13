@@ -249,12 +249,12 @@ Completed: 18 (0.21%) (Ranked 257)
 | 2023-12-12 | 8,430 | 18 |
 ## Awards
 Max (Diverse Characters): 137  (Ranked 328)  
-Sum: 951 (Ranked 271)  
+Sum: 952 (Ranked 271)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 137 |
-| This game is Great for Beginners | 136 |
+| This game is Great for Beginners | 137 |
 | This game is Highly Recommended | 115 |
 | This game is Extremely Fun | 112 |
 | This game is Relaxing | 108 |
@@ -417,3 +417,4 @@ Diff (max vs sum): 57
 | 2023-12-07 | 4.73 | - | 136 | 949 |
 | 2023-12-10 | 4.73 | - | 136 | 950 |
 | 2023-12-12 | 4.73 | - | 137 | 951 |
+| 2023-12-13 | 4.73 | - | 137 | 952 |

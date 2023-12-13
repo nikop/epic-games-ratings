@@ -19,7 +19,7 @@
 | Locksley's Tears | 36.00% | ~24 |
 | Assault on the Ram | 31.00% | ~21 |
 | Merry Co-operation | 30.00% | ~20 |
-| Finish Him! | 28.00% | ~19 |
+| Finish Him! | 30.00% | ~20 |
 | Savior | 25.00% | ~17 |
 | Ultra Rebel Instinct | 25.00% | ~17 |
 | Merry Go Round | 22.00% | ~15 |

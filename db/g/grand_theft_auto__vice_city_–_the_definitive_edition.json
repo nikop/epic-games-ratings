@@ -931,9 +931,9 @@
       "Count": 120
     }
   ],
-  "EOS_Progressed": 11372,
+  "EOS_Progressed": 11373,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -14271,6 +14271,11 @@
       "Time": "2023-12-13T11:09:14.4689612+00:00",
       "NumProgressed": 11372,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-12-13T14:09:21.3524345+00:00",
+      "NumProgressed": 11373,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 34,
@@ -14410,7 +14415,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "ACH18",
@@ -14458,7 +14463,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 3070
+      "UsersEstimate": 3071
     },
     {
       "ID": "ACH24",
@@ -14514,7 +14519,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "ACH31",
@@ -14553,7 +14558,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11372,
+      "Progressed": 11373,
       "Completed": 67
     }
   ],
@@ -14561,8 +14566,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-13T01:45:31.3846628+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:15:37.072168+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:09:21.3524341+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.0199326+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:03:54.7671773+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:15:37.0722446+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:57:40.6856176+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:09:21.3525027+00:00"
 }

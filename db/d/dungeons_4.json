@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1850,9 +1850,9 @@
       "ID": "ach_main16ring_lavalings",
       "SetID": "4hg22ll",
       "Name": "Lavalumps on Ice!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_main16ring_spawners",
@@ -1969,8 +1969,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:11:18.9882221+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:05:15.7897435+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:06:20.6989307+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:11:18.9882649+00:00"
+  "LastUpdate_Ratings": "2023-12-13T14:00:24.9569405+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:05:15.7898064+00:00"
 }

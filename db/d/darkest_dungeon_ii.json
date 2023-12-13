@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9642,9 +9642,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126572,
+  "EOS_Progressed": 126575,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 907,
+  "EOS_NewPlayers": 906,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34817,6 +34817,11 @@
       "Time": "2023-12-13T13:15:17.8667881+00:00",
       "NumProgressed": 126572,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T14:08:59.9106459+00:00",
+      "NumProgressed": 126575,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34956,7 +34961,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2532
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35010,9 +35015,9 @@
       "ID": "combat_kill_gaunts",
       "SetID": "64l4lke",
       "Name": "Now Stay Dead",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 633
     },
     {
       "ID": "combat_kill_gentry",
@@ -35354,9 +35359,9 @@
       "ID": "altar_of_hope_memory_equip_all_duelist",
       "SetID": "d3bcpc8",
       "Name": "Ma\u00EEtre De La Lame",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -35459,21 +35464,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126572,
+      "Progressed": 126575,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1441,
+      "Progressed": 1444,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-13T13:05:36.6138277+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:15:17.8667875+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:08:59.9106456+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:05:36.6138282+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:15:17.8669299+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:59:35.6844891+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:08:59.9108099+00:00"
 }

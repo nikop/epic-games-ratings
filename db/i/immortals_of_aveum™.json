@@ -1980,9 +1980,9 @@
       "ID": "achievement_9",
       "SetID": "18al4io",
       "Name": "Beggars Would Ride",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     }
   ],
   "AchievementSets": [
@@ -1997,8 +1997,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-09T15:57:09.3357471+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:15:47.4151351+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:09:33.0226153+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9844668+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:05:36.9645734+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:15:47.4151743+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:59:36.049743+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:09:33.0226486+00:00"
 }

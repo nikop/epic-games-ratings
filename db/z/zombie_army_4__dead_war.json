@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2532,9 +2532,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44126,
+  "EOS_Progressed": 44127,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9827,6 +9827,11 @@
       "Time": "2023-12-13T10:06:09.6031701+00:00",
       "NumProgressed": 44126,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-13T14:06:22.8391329+00:00",
+      "NumProgressed": 44127,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9838,7 +9843,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27358
+      "UsersEstimate": 27359
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -9870,7 +9875,7 @@
       "Name": "Well equipped",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5736
+      "UsersEstimate": 5737
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -9878,7 +9883,7 @@
       "Name": "Bad Blood",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -9894,7 +9899,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12355
+      "UsersEstimate": 12356
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -9942,7 +9947,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17209
+      "UsersEstimate": 17210
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -9958,7 +9963,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14120
+      "UsersEstimate": 14121
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -10030,7 +10035,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27799
+      "UsersEstimate": 27800
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -10054,7 +10059,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19415
+      "UsersEstimate": 19416
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -10062,7 +10067,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14120
+      "UsersEstimate": 14121
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -10094,7 +10099,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15885
+      "UsersEstimate": 15886
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -10142,7 +10147,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22504
+      "UsersEstimate": 22505
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -10166,7 +10171,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30447
+      "UsersEstimate": 30448
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -10190,7 +10195,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20739
+      "UsersEstimate": 20740
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -10206,7 +10211,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20739
+      "UsersEstimate": 20740
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -10214,7 +10219,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15885
+      "UsersEstimate": 15886
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -10238,7 +10243,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29123
+      "UsersEstimate": 29124
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -10254,7 +10259,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -10294,7 +10299,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29123
+      "UsersEstimate": 29124
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -10358,22 +10363,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15885
+      "UsersEstimate": 15886
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44126,
+      "Progressed": 44127,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-13T06:00:48.772534+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:12:18.3594854+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:06:22.8391325+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.7466868+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:08:50.6692576+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:12:18.3595731+00:00"
+  "LastUpdate_Ratings": "2023-12-13T14:00:45.5347738+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:06:22.839206+00:00"
 }

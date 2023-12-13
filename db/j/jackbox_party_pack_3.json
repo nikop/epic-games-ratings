@@ -2,13 +2,13 @@
   "ID": "orchid",
   "Name": "Jackbox Party Pack 3",
   "ProductSlug": "jackbox-party-pack-3",
-  "Ranking_Rating": 2,
+  "Ranking_Rating": 1,
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 795,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2018-10-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -55,6 +55,6 @@
   "FirstSeenRating": "2022-10-04T19:03:12.7540662+00:00",
   "LastChanged": "2023-03-31T05:58:28.0252344+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:07.3802838+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:05:40.3583048+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:15:53.9013348+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:59:39.8838205+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:09:40.5838506+00:00"
 }

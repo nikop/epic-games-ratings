@@ -16,11 +16,11 @@ Rating: 4.75 (Ranked 148)
 | Drama King | 42.00% | ~4,604 |
 | You're Really Something Else | 38.00% | ~4,166 |
 | Go Clean up In Your Own Way | 36.00% | ~3,947 |
+| Worthless Speech | 36.00% | ~3,947 |
 | Happy Family | 35.00% | ~3,837 |
 | ONE PUNCH | 35.00% | ~3,837 |
 | FIRST LOVE | 35.00% | ~3,837 |
 | Drama CP: Reel to Real | 35.00% | ~3,837 |
-| Worthless Speech | 35.00% | ~3,837 |
 | Absolutely Elegant | 34.00% | ~3,727 |
 | Still Single | 33.00% | ~3,618 |
 | Go Get Some Fries On The Pier | 30.00% | ~3,289 |
@@ -49,7 +49,7 @@ Rating: 4.75 (Ranked 148)
 | Limerence | 2.00% | ~219 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,963 (Ranked 165)  
-Completed: 203 (1.85%) (Ranked 135)  
+Completed: 204 (1.86%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,7 +115,7 @@ Completed: 203 (1.85%) (Ranked 135)
 | 2023-12-10 | 10,902 | 201 |
 | 2023-12-11 | 10,928 | 203 |
 | 2023-12-12 | 10,956 | 203 |
-| 2023-12-13 | 10,963 | 203 |
+| 2023-12-13 | 10,963 | 204 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 537)  
 Sum: 23 (Ranked 540)  

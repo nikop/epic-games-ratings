@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 966,
+  "EOS_Progressed": 967,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.69,
   "EosHistory": [
@@ -3875,6 +3875,11 @@
       "Time": "2023-12-13T09:03:47.7866675+00:00",
       "NumProgressed": 966,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-12-13T14:04:12.9415952+00:00",
+      "NumProgressed": 967,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 25,
@@ -3996,9 +4001,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 222
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -4006,7 +4011,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -4085,14 +4090,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 966,
+      "Progressed": 967,
       "Completed": 55
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:10:23.2677654+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:04:12.941595+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:04:46.6257289+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:10:23.2677932+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:58:38.9037205+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:04:12.9416259+00:00"
 }

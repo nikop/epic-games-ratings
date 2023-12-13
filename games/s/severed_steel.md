@@ -5,26 +5,26 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 31.00% | ~212,370 |
-| 50 HEADSHOTS | 29.00% | ~198,669 |
-| SCIENCE AND INDUSTRY | 28.00% | ~191,818 |
-| FINISHED CHAPTER 1 | 27.00% | ~184,967 |
-| FINISHED CHAPTER 2 | 20.00% | ~137,013 |
-| 200 HEADSHOTS | 18.00% | ~123,312 |
-| FINISHED CHAPTER 3 | 17.00% | ~116,461 |
-| FINISHED CHAPTER 4 | 14.00% | ~95,909 |
-| FINISH CHAPTER 5 | 12.00% | ~82,208 |
-| CATHARTIC ESCAPISM | 11.00% | ~75,357 |
-| FINISH CHAPTER 6 | 10.00% | ~68,506 |
-| 1000 KILLS | 9.00% | ~61,656 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,403 |
+| 100 KILLS | 31.00% | ~212,364 |
+| 50 HEADSHOTS | 29.00% | ~198,663 |
+| SCIENCE AND INDUSTRY | 28.00% | ~191,813 |
+| FINISHED CHAPTER 1 | 27.00% | ~184,962 |
+| FINISHED CHAPTER 2 | 20.00% | ~137,009 |
+| 200 HEADSHOTS | 18.00% | ~123,308 |
+| FINISHED CHAPTER 3 | 17.00% | ~116,458 |
+| FINISHED CHAPTER 4 | 14.00% | ~95,906 |
+| FINISH CHAPTER 5 | 12.00% | ~82,206 |
+| CATHARTIC ESCAPISM | 11.00% | ~75,355 |
+| FINISH CHAPTER 6 | 10.00% | ~68,505 |
+| 1000 KILLS | 9.00% | ~61,654 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,402 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,701 |
 | FIRST BLOOD | 2.00% | ~13,701 |
-| PACEMAKER | 1.00% | ~6,851 |
-| TIME PARADOX | 1.00% | ~6,851 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~6,166 |
-| OUT OF ORDER | 0.90% | ~6,166 |
-| PARTYHARD | 0.80% | ~5,481 |
+| PACEMAKER | 1.00% | ~6,850 |
+| TIME PARADOX | 1.00% | ~6,850 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~6,165 |
+| OUT OF ORDER | 0.90% | ~6,165 |
+| PARTYHARD | 0.80% | ~5,480 |
 | NEW GAME PLUS | 0.70% | ~4,795 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,425 |
 | CHURCH | 0.40% | ~2,740 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 232)
 | THE GAMBLER | 0.10% | ~685 |
 | WARRIOR IN A GARDEN | 0.10% | ~685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,064 (Ranked 27)  
+Progressed: 685,046 (Ranked 27)  
 Completed: 73 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |

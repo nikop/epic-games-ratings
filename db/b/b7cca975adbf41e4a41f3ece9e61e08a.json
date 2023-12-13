@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -200,10 +200,10 @@
     }
   ],
   "EOS_Progressed": 10963,
-  "EOS_Completed": 203,
-  "EOS_NewPlayers": 230,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 1.85,
+  "EOS_Completed": 204,
+  "EOS_NewPlayers": 229,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 1.86,
   "EosHistory": [
     {
       "Time": "2023-07-27T01:53:04.8005716+00:00",
@@ -6174,6 +6174,11 @@
       "Time": "2023-12-13T13:15:27.7283193+00:00",
       "NumProgressed": 10963,
       "NumCompleted": 203
+    },
+    {
+      "Time": "2023-12-13T14:09:10.9029927+00:00",
+      "NumProgressed": 10963,
+      "NumCompleted": 204
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -6488,9 +6493,9 @@
       "ID": "NEW_ACHIEVEMENT_2_6",
       "SetID": "7opfcp",
       "Name": "Worthless Speech",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3837
+      "UsersEstimate": 3947
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -6522,15 +6527,15 @@
       "ID": "7opfcp",
       "IsBase": true,
       "Progressed": 10963,
-      "Completed": 203
+      "Completed": 204
     }
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-10T15:00:14.2676379+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:15:27.7283187+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:09:10.9029925+00:00",
   "LastUpdate_AppInfo": "2023-12-09T02:17:01.4764819+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:04:31.0893688+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:15:27.7283797+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:58:21.8266052+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:09:10.9030416+00:00"
 }

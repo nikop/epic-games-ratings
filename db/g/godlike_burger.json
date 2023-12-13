@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 384294,
+  "EOS_Progressed": 384307,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 3378,
+  "EOS_NewPlayers": 3371,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9521,6 +9521,11 @@
       "Time": "2023-12-13T13:11:35.6392654+00:00",
       "NumProgressed": 384294,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-12-13T14:05:34.6697168+00:00",
+      "NumProgressed": 384307,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 28,
@@ -9556,7 +9561,7 @@
       "Name": "CRIMINAL",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 76859
+      "UsersEstimate": 76861
     },
     {
       "ID": "GB_DEBTOR",
@@ -9580,7 +9585,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 153718
+      "UsersEstimate": 153723
     },
     {
       "ID": "GB_GOURMET",
@@ -9596,7 +9601,7 @@
       "Name": "GRANDMA WOULD BE PROUD",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 42272
+      "UsersEstimate": 42274
     },
     {
       "ID": "GB_GRATITUDE",
@@ -9628,7 +9633,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 30744
+      "UsersEstimate": 30745
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -9652,7 +9657,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 88388
+      "UsersEstimate": 88391
     },
     {
       "ID": "GB_KEVIN",
@@ -9660,7 +9665,7 @@
       "Name": "KEVIN!",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 115288
+      "UsersEstimate": 115292
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -9684,7 +9689,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 172932
+      "UsersEstimate": 172938
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -9732,7 +9737,7 @@
       "Name": "TASTE UNTASTY",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "GB_TRAVELER",
@@ -9748,14 +9753,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 34586
+      "UsersEstimate": 34588
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 384294,
+      "Progressed": 384307,
       "Completed": 48
     }
   ],
@@ -9763,8 +9768,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-10-28T12:59:45.1014127+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:11:35.6392649+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:05:34.6697166+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:11.9153486+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:09:27.1577901+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:11:35.6393161+00:00"
+  "LastUpdate_Ratings": "2023-12-13T14:03:07.050451+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:05:34.6697638+00:00"
 }

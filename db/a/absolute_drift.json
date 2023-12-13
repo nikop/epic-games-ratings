@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
@@ -475,9 +475,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1555841,
+  "EOS_Progressed": 1555849,
   "EOS_Completed": 744,
-  "EOS_NewPlayers": 1281,
+  "EOS_NewPlayers": 1283,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27570,6 +27570,11 @@
       "Time": "2023-12-13T13:11:59.6259953+00:00",
       "NumProgressed": 1555841,
       "NumCompleted": 744
+    },
+    {
+      "Time": "2023-12-13T14:06:01.6996166+00:00",
+      "NumProgressed": 1555849,
+      "NumCompleted": 744
     }
   ],
   "TotalAchievements": 20,
@@ -27619,9 +27624,9 @@
       "ID": "ACH_DRIFT_LINE_MASTER",
       "SetID": "4lh7icm",
       "Name": "Drift Line Master",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 10891
+      "UsersEstimate": 12447
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -27677,7 +27682,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155584
+      "UsersEstimate": 155585
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -27740,15 +27745,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1555841,
+      "Progressed": 1555849,
       "Completed": 744
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-12-08T12:00:51.5497062+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:11:59.6259949+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:06:01.6996163+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.3878969+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:05:14.1100504+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:11:59.6261139+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:59:10.6305969+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:06:01.6997717+00:00"
 }

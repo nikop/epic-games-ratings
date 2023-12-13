@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -4943,9 +4943,9 @@
       "ID": "achievement_126",
       "SetID": "d252ncf",
       "Name": "Veteran",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 604
+      "UsersEstimate": 620
     },
     {
       "ID": "achievement_127",
@@ -5559,9 +5559,9 @@
       "ID": "achievement_81",
       "SetID": "d252ncf",
       "Name": "Mobilizer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 477
     },
     {
       "ID": "achievement_82",
@@ -5731,8 +5731,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:16:02.3044338+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:09:49.8553097+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.2992366+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:09:32.5747862+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:16:02.3045864+00:00"
+  "LastUpdate_Ratings": "2023-12-13T14:03:13.53348+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:09:49.8554606+00:00"
 }

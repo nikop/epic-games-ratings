@@ -6,39 +6,39 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,037 |
-| Gun Fu | 7.00% | ~68,271 |
-| The Fool | 6.00% | ~58,518 |
-| Right Back At Ya | 5.00% | ~48,765 |
-| The Lovers | 5.00% | ~48,765 |
-| Full Body Conversion | 4.00% | ~39,012 |
-| Stanislavski's Method | 4.00% | ~39,012 |
-| The Wheel of Fortune | 4.00% | ~39,012 |
-| True Soldier | 4.00% | ~39,012 |
-| Christmas Tree Attack | 3.00% | ~29,259 |
-| The Hermit | 3.00% | ~29,259 |
-| The High Priestess | 3.00% | ~29,259 |
-| True Warrior | 3.00% | ~29,259 |
-| Legend of The Afterlife | 3.00% | ~29,259 |
-| Relic Ruler | 3.00% | ~3,118 |
-| All the President's Men | 3.00% | ~3,118 |
-| Arachnophobia | 3.00% | ~3,118 |
-| Bushido and Chill | 2.00% | ~19,506 |
-| Master Crafter | 2.00% | ~19,506 |
-| I Am The Law | 2.00% | ~19,506 |
-| The Quick and the Dead | 2.00% | ~19,506 |
-| Life of the Road | 2.00% | ~19,506 |
-| The World | 2.00% | ~19,506 |
-| Judy vs Night City | 2.00% | ~19,506 |
+| V for Vendetta | 12.00% | ~117,039 |
+| Gun Fu | 7.00% | ~68,273 |
+| The Fool | 6.00% | ~58,520 |
+| Right Back At Ya | 5.00% | ~48,766 |
+| The Lovers | 5.00% | ~48,766 |
+| Full Body Conversion | 4.00% | ~39,013 |
+| Stanislavski's Method | 4.00% | ~39,013 |
+| The Wheel of Fortune | 4.00% | ~39,013 |
+| True Soldier | 4.00% | ~39,013 |
+| Christmas Tree Attack | 3.00% | ~29,260 |
+| The Hermit | 3.00% | ~29,260 |
+| The High Priestess | 3.00% | ~29,260 |
+| True Warrior | 3.00% | ~29,260 |
+| Legend of The Afterlife | 3.00% | ~29,260 |
+| Relic Ruler | 3.00% | ~3,119 |
+| All the President's Men | 3.00% | ~3,119 |
+| Arachnophobia | 3.00% | ~3,119 |
+| Bushido and Chill | 2.00% | ~19,507 |
+| Master Crafter | 2.00% | ~19,507 |
+| I Am The Law | 2.00% | ~19,507 |
+| The Quick and the Dead | 2.00% | ~19,507 |
+| Life of the Road | 2.00% | ~19,507 |
+| The World | 2.00% | ~19,507 |
+| Judy vs Night City | 2.00% | ~19,507 |
 | To Protect and Serve | 1.00% | ~9,753 |
 | The Wandering Fool | 1.00% | ~9,753 |
 | Two Heads, One Bullet | 1.00% | ~9,753 |
-| Spin Doctor | 1.00% | ~1,039 |
-| Easy Come, Easy Go | 1.00% | ~1,039 |
-| King of Wands | 0.90% | ~935 |
-| Ten out of Ten | 0.80% | ~7,802 |
-| The Sun | 0.80% | ~7,802 |
-| Dirty Deeds | 0.80% | ~831 |
+| Spin Doctor | 1.00% | ~1,040 |
+| Easy Come, Easy Go | 1.00% | ~1,040 |
+| King of Wands | 0.90% | ~936 |
+| Ten out of Ten | 0.80% | ~7,803 |
+| The Sun | 0.80% | ~7,803 |
+| Dirty Deeds | 0.80% | ~832 |
 | To Bad Decisions! | 0.70% | ~6,827 |
 | Breathtaking | 0.60% | ~5,852 |
 | The Star | 0.60% | ~5,852 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,306 (Ranked 15)  
+Progressed: 975,329 (Ranked 15)  
 Completed: 2,894 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,10 +311,10 @@ Completed: 2,894 (0.30%) (Ranked 241)
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
 | 2023-12-12 | 975,121 | 2,891 |
-| 2023-12-13 | 975,306 | 2,894 |
+| 2023-12-13 | 975,329 | 2,894 |
 ## Awards
 Max (Character Customization): 121,863  (Ranked 9)  
-Sum: 414,557 (Ranked 9)  
+Sum: 414,738 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -322,7 +322,7 @@ Diff (max vs sum): 0
 | This game has Great Boss Battles | 89,124 |
 | This game is Great for Beginners | 25,327 |
 | This game has Diverse Characters | 24,879 |
-| This game is Highly Recommended | 23,644 |
+| This game is Highly Recommended | 23,825 |
 | This game has Amazing Storytelling | 23,523 |
 | This game is Extremely Fun | 23,248 |
 | This game has Amazing Characters | 23,038 |
@@ -660,4 +660,4 @@ Diff (max vs sum): 0
 | 2023-12-10 | 4.66 | - | 120,955 | 408,628 |
 | 2023-12-11 | 4.66 | - | 121,434 | 411,235 |
 | 2023-12-12 | 4.66 | - | 121,863 | 413,636 |
-| 2023-12-13 | 4.66 | - | 121,863 | 414,557 |
+| 2023-12-13 | 4.66 | - | 121,863 | 414,738 |

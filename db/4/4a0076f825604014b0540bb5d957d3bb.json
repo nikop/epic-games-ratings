@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -427,9 +427,9 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
@@ -602,8 +602,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-13T13:15:58.0365337+00:00",
+  "LastChanged_Achievements": "2023-12-13T14:09:45.2225622+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:42.644206+00:00",
-  "LastUpdate_Ratings": "2023-12-13T13:03:41.2358182+00:00",
-  "LastUpdate_Achievements": "2023-12-13T13:15:58.0365475+00:00"
+  "LastUpdate_Ratings": "2023-12-13T13:57:26.8385695+00:00",
+  "LastUpdate_Achievements": "2023-12-13T14:09:45.2225737+00:00"
 }

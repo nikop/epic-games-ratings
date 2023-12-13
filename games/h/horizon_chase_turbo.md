@@ -6,27 +6,27 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~977,691 |
-| I Need a Bigger Garage | 63.00% | ~684,383 |
-| Pump my Ride | 47.00% | ~510,572 |
-| Ghostbuster | 34.00% | ~369,350 |
-| Call Roadside Assistance | 18.00% | ~195,538 |
-| That Was Close | 18.00% | ~195,538 |
-| Quickie | 11.00% | ~119,496 |
+| The First of Many | 90.00% | ~977,702 |
+| I Need a Bigger Garage | 63.00% | ~684,391 |
+| Pump my Ride | 47.00% | ~510,577 |
+| Ghostbuster | 34.00% | ~369,354 |
+| Call Roadside Assistance | 18.00% | ~195,540 |
+| That Was Close | 18.00% | ~195,540 |
+| Quickie | 11.00% | ~119,497 |
 | California Dreamer | 7.00% | ~76,043 |
-| Can't Touch This | 5.00% | ~54,316 |
+| Can't Touch This | 5.00% | ~54,317 |
 | Carménère Taster | 4.00% | ~43,453 |
 | Comeback | 4.00% | ~43,453 |
 | Driver from Ipanema | 3.00% | ~32,590 |
 | Supersonic | 3.00% | ~32,590 |
 | Marathonist | 3.00% | ~32,590 |
 | Living Legend | 3.00% | ~32,590 |
-| God of Roads | 2.00% | ~21,726 |
-| Pathfinder | 2.00% | ~21,726 |
-| Go-Kart Champion | 2.00% | ~21,726 |
-| Round the Globe | 2.00% | ~21,726 |
-| Completionist | 2.00% | ~21,726 |
-| Harder, Better, Faster, Stronger | 2.00% | ~21,726 |
+| God of Roads | 2.00% | ~21,727 |
+| Pathfinder | 2.00% | ~21,727 |
+| Go-Kart Champion | 2.00% | ~21,727 |
+| Round the Globe | 2.00% | ~21,727 |
+| Completionist | 2.00% | ~21,727 |
+| Harder, Better, Faster, Stronger | 2.00% | ~21,727 |
 | Crocodile Hunter | 1.00% | ~10,863 |
 | The Iceman | 1.00% | ~10,863 |
 | Bollywood Star | 1.00% | ~10,863 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,173 |
 | Transporter | 0.10% | ~1,086 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,086,323 (Ranked 13)  
+Progressed: 1,086,335 (Ranked 13)  
 Completed: 505 (0.05%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,14 +281,14 @@ Completed: 505 (0.05%) (Ranked 324)
 | 2023-12-10 | 1,085,428 | 504 |
 | 2023-12-11 | 1,085,782 | 504 |
 | 2023-12-12 | 1,086,121 | 505 |
-| 2023-12-13 | 1,086,323 | 505 |
+| 2023-12-13 | 1,086,335 | 505 |
 ## Awards
-Max (Great for Beginners): 175  (Ranked 307)  
-Sum: 1,578 (Ranked 234)  
-Diff (max vs sum): 73  
+Max (Great for Beginners): 176  (Ranked 305)  
+Sum: 1,579 (Ranked 234)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 175 |
+| This game is Great for Beginners | 176 |
 | This game has Diverse Characters | 151 |
 | This game has Quickly Understood Controls | 146 |
 | This game is Great for Quick Sessions | 146 |
@@ -569,4 +569,4 @@ Diff (max vs sum): 73
 | 2023-12-10 | 4.55 | - | 175 | 1,572 |
 | 2023-12-11 | 4.54 | - | 175 | 1,575 |
 | 2023-12-12 | 4.54 | - | 175 | 1,577 |
-| 2023-12-13 | 4.54 | - | 175 | 1,578 |
+| 2023-12-13 | 4.54 | - | 176 | 1,579 |
