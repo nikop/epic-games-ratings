@@ -5,16 +5,16 @@ Rating: 4.84 (Ranked 53)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~231,126 |
-| Private Club | 73.00% | ~185,409 |
-| Rogue Guild | 65.00% | ~165,090 |
-| I Watched the Intro | 57.00% | ~144,771 |
+| Forgotten Sorority | 91.00% | ~231,127 |
+| Private Club | 73.00% | ~185,410 |
+| Rogue Guild | 65.00% | ~165,091 |
+| I Watched the Intro | 57.00% | ~144,772 |
 | Covert Consortium | 55.00% | ~139,692 |
-| Goat Queen | 53.00% | ~134,612 |
-| Reach the Stratosphere | 51.00% | ~129,532 |
+| Goat Queen | 53.00% | ~134,613 |
+| Reach the Stratosphere | 51.00% | ~129,533 |
 | Synchronization Complete | 47.00% | ~119,373 |
-| Secret Society | 45.00% | ~114,293 |
-| Shadow Syndicate | 38.00% | ~96,514 |
+| Secret Society | 45.00% | ~114,294 |
+| Shadow Syndicate | 38.00% | ~96,515 |
 | What a Waste of Money | 33.00% | ~83,815 |
 | New Goat Order | 30.00% | ~76,196 |
 | Don't touch the servers | 28.00% | ~71,116 |
@@ -24,7 +24,7 @@ Rating: 4.84 (Ranked 53)
 | Welcome to Earth | 25.00% | ~63,496 |
 | Egg Simulator | 19.00% | ~48,257 |
 | Into the Matrix | 19.00% | ~48,257 |
-| Where is It? | 17.00% | ~43,177 |
+| Where is It? | 17.00% | ~43,178 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~38,098 |
 | 401(K.O.) | 15.00% | ~38,098 |
 | Black Market | 14.00% | ~35,558 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 53)
 | Move! That! Bus! | 0.60% | ~1,524 |
 | G.O.A.T | 0.40% | ~1,016 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,985 (Ranked 61)  
+Progressed: 253,986 (Ranked 61)  
 Completed: 902 (0.36%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,11 +282,11 @@ Completed: 902 (0.36%) (Ranked 234)
 | 2023-12-10 | 253,775 | 900 |
 | 2023-12-11 | 253,879 | 901 |
 | 2023-12-12 | 253,975 | 902 |
-| 2023-12-13 | 253,985 | 902 |
+| 2023-12-13 | 253,986 | 902 |
 ## Awards
-Max (Great for Beginners): 492  (Ranked 215)  
+Max (Great for Beginners): 492  (Ranked 214)  
 Sum: 4,077 (Ranked 156)  
-Diff (max vs sum): 59  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 492 |

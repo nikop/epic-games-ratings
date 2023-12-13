@@ -6445,9 +6445,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 781397,
+  "EOS_Progressed": 781400,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 25655,
+  "EOS_NewPlayers": 25656,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33590,6 +33590,11 @@
       "Time": "2023-12-13T03:06:12.4834473+00:00",
       "NumProgressed": 781397,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-13T04:06:23.3501713+00:00",
+      "NumProgressed": 781400,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 37,
@@ -33673,7 +33678,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 203163
+      "UsersEstimate": 203164
     },
     {
       "ID": "19",
@@ -33681,7 +33686,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 554792
+      "UsersEstimate": 554794
     },
     {
       "ID": "2",
@@ -33705,7 +33710,7 @@
       "Name": "Killing Spree",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 140651
+      "UsersEstimate": 140652
     },
     {
       "ID": "22",
@@ -33793,7 +33798,7 @@
       "Name": "Guardian Angel",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 257861
+      "UsersEstimate": 257862
     },
     {
       "ID": "32",
@@ -33825,7 +33830,7 @@
       "Name": "You Complete Me",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 289117
+      "UsersEstimate": 289118
     },
     {
       "ID": "36",
@@ -33841,7 +33846,7 @@
       "Name": "Health Junkie",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 304745
+      "UsersEstimate": 304746
     },
     {
       "ID": "4",
@@ -33849,7 +33854,7 @@
       "Name": "Fantastic Four",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 148465
+      "UsersEstimate": 148466
     },
     {
       "ID": "5",
@@ -33896,7 +33901,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 781397,
+      "Progressed": 781400,
       "Completed": 12
     }
   ],
@@ -33904,8 +33909,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-12-12T16:57:43.8125528+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:06:12.4834471+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:06:23.350171+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:11.9480397+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:57:37.9530581+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:06:12.4836132+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:57:36.0291918+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:06:23.3502952+00:00"
 }

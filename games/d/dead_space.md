@@ -21,7 +21,7 @@ Rating: 4.64 (Ranked 337)
 | Greenhouse Effect | 53.00% | ~1,189 |
 | S.O.S. | 48.00% | ~1,077 |
 | Full Arsenal | 46.00% | ~1,032 |
-| Get Off My Ship! | 45.00% | ~1,010 |
+| Get Off My Ship! | 46.00% | ~1,032 |
 | Strange Transmissions | 45.00% | ~1,010 |
 | Wreckage | 44.00% | ~987 |
 | Keeper of the Faith | 42.00% | ~942 |

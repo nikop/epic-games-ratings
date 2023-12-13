@@ -339,7 +339,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 76660,
+  "EOS_Progressed": 76661,
   "EOS_Completed": 411,
   "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 3,
@@ -26389,6 +26389,11 @@
       "Time": "2023-12-13T03:09:38.8088862+00:00",
       "NumProgressed": 76660,
       "NumCompleted": 411
+    },
+    {
+      "Time": "2023-12-13T04:09:55.2310547+00:00",
+      "NumProgressed": 76661,
+      "NumCompleted": 411
     }
   ],
   "TotalAchievements": 24,
@@ -26416,7 +26421,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 52895
+      "UsersEstimate": 52896
     },
     {
       "ID": "BEST_FRIENDS",
@@ -26456,7 +26461,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 22231
+      "UsersEstimate": 22232
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -26591,7 +26596,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 76660,
+      "Progressed": 76661,
       "Completed": 411
     }
   ],
@@ -26599,8 +26604,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:09:38.8088858+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:09:55.2310543+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:25.3960201+00:00",
-  "LastUpdate_Ratings": "2023-12-13T03:02:45.1776533+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:09:38.8090786+00:00"
+  "LastUpdate_Ratings": "2023-12-13T04:03:02.9615972+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:09:55.2311585+00:00"
 }

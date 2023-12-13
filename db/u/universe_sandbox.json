@@ -3,11 +3,11 @@
   "Name": "Universe Sandbox",
   "ProductSlug": "universe-sandbox",
   "Ranking_Rating": 422,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-23T17:00:00+00:00",
@@ -345,6 +345,6 @@
   "FirstSeen": "2022-07-22T20:23:26.3960335+00:00",
   "LastChanged": "2023-12-08T02:57:07.7457243+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:58.8563796+00:00",
-  "LastUpdate_Ratings": "2023-12-13T03:01:09.2100859+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:08:48.8957349+00:00"
+  "LastUpdate_Ratings": "2023-12-13T04:01:01.2399872+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:09:06.0634621+00:00"
 }

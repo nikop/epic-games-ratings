@@ -11,16 +11,16 @@ Rating: 4.75 (Ranked 148)
 | Master of the Dark Arts | 0.80% | ~146 |
 | Expanding Horizons | 0.60% | ~1,435 |
 | Not Your Average Trait | 0.60% | ~1,435 |
-| Am I Seeing This? | 0.50% | ~1,195 |
-| Gleaming the Cube | 0.50% | ~1,195 |
-| Not So Special Now | 0.50% | ~1,195 |
-| Quest for Survival | 0.50% | ~1,195 |
-| Not a Janitor | 0.50% | ~1,195 |
-| Familiar Face | 0.50% | ~1,195 |
-| Duality | 0.50% | ~1,195 |
-| Boss'n Up | 0.50% | ~1,195 |
-| Good, But Could Be Better! | 0.50% | ~1,195 |
-| Trait Chaser | 0.50% | ~1,195 |
+| Am I Seeing This? | 0.50% | ~1,196 |
+| Gleaming the Cube | 0.50% | ~1,196 |
+| Not So Special Now | 0.50% | ~1,196 |
+| Quest for Survival | 0.50% | ~1,196 |
+| Not a Janitor | 0.50% | ~1,196 |
+| Familiar Face | 0.50% | ~1,196 |
+| Duality | 0.50% | ~1,196 |
+| Boss'n Up | 0.50% | ~1,196 |
+| Good, But Could Be Better! | 0.50% | ~1,196 |
+| Trait Chaser | 0.50% | ~1,196 |
 | Chaos | 0.40% | ~956 |
 | Power Surge | 0.40% | ~956 |
 | The God Gambit | 0.40% | ~956 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | You Shall Pass | 0.20% | ~37 |
 | A Foul Feast | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,097 (Ranked 66)  
+Progressed: 239,106 (Ranked 66)  
 Completed: 581 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 581 (0.24%) (Ranked 252)
 | 2023-12-10 | 238,247 | 577 |
 | 2023-12-11 | 238,673 | 579 |
 | 2023-12-12 | 239,053 | 581 |
-| 2023-12-13 | 239,097 | 581 |
+| 2023-12-13 | 239,106 | 581 |
 ## Awards
 Max (Great Boss Battles): 2,730  (Ranked 102)  
 Sum: 6,839 (Ranked 126)  

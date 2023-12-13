@@ -3,7 +3,7 @@
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
   "Ranking_Rating": 259,
-  "Ranking_Popularity": 52,
+  "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 373,
@@ -9538,18 +9538,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 20221,
       "NumberOfAwardsMax": 7622
+    },
+    {
+      "Time": "2023-12-13T03:59:44.9551128+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20264,
+      "NumberOfAwardsMax": 7665
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20221,
-  "NumberOfAwardsMax": 7622,
+  "NumberOfAwards": 20264,
+  "NumberOfAwardsMax": 7665,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7622
+      "Count": 7665
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9618,9 +9624,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126503,
+  "EOS_Progressed": 126516,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 865,
+  "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34743,6 +34749,11 @@
       "Time": "2023-12-13T03:09:03.8049068+00:00",
       "NumProgressed": 126503,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T04:09:20.8028325+00:00",
+      "NumProgressed": 126516,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34784,9 +34795,9 @@
       "ID": "altar_of_hope_unlock_hero_flagellant",
       "SetID": "64l4lke",
       "Name": "Resurrection",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 506
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -34800,9 +34811,9 @@
       "ID": "altar_of_hope_unlock_hero_jester",
       "SetID": "64l4lke",
       "Name": "Funny Guy",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 506
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -35040,9 +35051,9 @@
       "ID": "driving_biome_clear_cave",
       "SetID": "64l4lke",
       "Name": "Spelunker",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 506
     },
     {
       "ID": "driving_biome_clear_city",
@@ -35298,7 +35309,7 @@
       "Name": "This guy... again?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35362,7 +35373,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35385,21 +35396,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126503,
+      "Progressed": 126516,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1372,
+      "Progressed": 1385,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-12T19:58:48.3219197+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:09:03.8049063+00:00",
+  "LastChanged": "2023-12-13T03:59:44.9551127+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:09:20.8028322+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:59:50.5004009+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:09:03.8050918+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:59:44.9551133+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:09:20.8030134+00:00"
 }

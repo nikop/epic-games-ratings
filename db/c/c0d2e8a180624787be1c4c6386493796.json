@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -899,9 +899,9 @@
       "ID": "KR4_ACHIEVEMENT_MOLE",
       "SetID": "caeik3h",
       "Name": "Guac-a-Mole",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "KR4_ACHIEVEMENT_MOUSETHON",
@@ -1128,8 +1128,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:06:37.7147552+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:06:48.2016624+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:53.8103037+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:57:23.3033925+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:06:37.7148219+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:57:21.2469129+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:06:48.2017253+00:00"
 }

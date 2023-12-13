@@ -2,12 +2,12 @@
   "ID": "52a92e2c71b54d58a249946982a0a379",
   "Name": "ANNO Mutationem",
   "ProductSlug": "anno-mutationem-ef8b9e",
-  "Ranking_Rating": 534,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Rating": 535,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -1125,9 +1125,9 @@
       "ID": "Omnipotence",
       "SetID": "gl7plp",
       "Name": "Omnipotence",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 148
+      "UsersEstimate": 155
     },
     {
       "ID": "SERENITY_NOW",
@@ -1294,8 +1294,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-09T07:59:55.495838+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:06:18.2222003+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:06:29.0276412+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:16.2150027+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:57:48.7010107+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:06:18.2222227+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:57:46.5189433+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:06:29.0276672+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
   "Ranking_Rating": 130,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -213,7 +213,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7739,
+  "EOS_Progressed": 7740,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 2,
@@ -6308,6 +6308,11 @@
       "Time": "2023-12-13T01:57:54.89306+00:00",
       "NumProgressed": 7739,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-13T04:10:25.466906+00:00",
+      "NumProgressed": 7740,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6360,7 +6365,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "Eavesdropper",
@@ -6392,7 +6397,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2245
     },
     {
       "ID": "FuneralForTheDeath",
@@ -6591,7 +6596,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7739,
+      "Progressed": 7740,
       "Completed": 16
     }
   ],
@@ -6599,8 +6604,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-11T17:58:44.1681748+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:10:09.5176546+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:10:25.4669055+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.9902687+00:00",
-  "LastUpdate_Ratings": "2023-12-13T03:00:19.0197297+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:10:09.5176959+00:00"
+  "LastUpdate_Ratings": "2023-12-13T04:00:12.6943069+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:10:25.4669445+00:00"
 }

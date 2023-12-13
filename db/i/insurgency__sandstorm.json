@@ -4,7 +4,7 @@
   "ProductSlug": "insurgency-sandstorm",
   "Ranking_Rating": 390,
   "Ranking_Popularity": 234,
-  "Ranking_PopularitySum": 176,
+  "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 40,
@@ -4318,9 +4318,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 499955,
+  "EOS_Progressed": 499973,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2379,
+  "EOS_NewPlayers": 2377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31423,6 +31423,11 @@
       "Time": "2023-12-13T03:06:11.0205581+00:00",
       "NumProgressed": 499955,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T04:06:21.9486448+00:00",
+      "NumProgressed": 499973,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -31490,7 +31495,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19998
+      "UsersEstimate": 19999
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -31602,7 +31607,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19998
+      "UsersEstimate": 19999
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -31698,7 +31703,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24998
+      "UsersEstimate": 24999
     },
     {
       "ID": "ACH_WET_FEET",
@@ -31706,22 +31711,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19998
+      "UsersEstimate": 19999
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 499955,
+      "Progressed": 499973,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-12-11T23:58:25.8526558+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:06:11.0205577+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:06:21.9486445+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.4208286+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:59:50.6692297+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:06:11.020717+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:59:45.1286732+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:06:21.9487592+00:00"
 }

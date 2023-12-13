@@ -3,8 +3,8 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 215,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 181,
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7941,
+  "EOS_Progressed": 7942,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8961,6 +8961,11 @@
       "Time": "2023-12-12T15:05:53.3024943+00:00",
       "NumProgressed": 7941,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-13T04:06:26.3308527+00:00",
+      "NumProgressed": 7942,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9060,7 +9065,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ICONOCLAST",
@@ -9068,7 +9073,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "IN_A_PINCH",
@@ -9116,7 +9121,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -9139,7 +9144,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7941,
+      "Progressed": 7942,
       "Completed": 34
     }
   ],
@@ -9147,8 +9152,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:06:15.4788562+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:06:26.330852+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-13T03:02:45.5311877+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:06:15.4789083+00:00"
+  "LastUpdate_Ratings": "2023-12-13T04:03:03.2979729+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:06:26.3308967+00:00"
 }

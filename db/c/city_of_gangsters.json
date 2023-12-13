@@ -892,9 +892,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 356394,
+  "EOS_Progressed": 356396,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 989,
+  "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27817,6 +27817,11 @@
       "Time": "2023-12-13T03:06:16.7154953+00:00",
       "NumProgressed": 356394,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-13T04:06:27.5202576+00:00",
+      "NumProgressed": 356396,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -27844,7 +27849,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42767
+      "UsersEstimate": 42768
     },
     {
       "ID": "ach004",
@@ -27884,7 +27889,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42767
+      "UsersEstimate": 42768
     },
     {
       "ID": "ach009",
@@ -28036,7 +28041,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163941
+      "UsersEstimate": 163942
     },
     {
       "ID": "ach028",
@@ -28052,7 +28057,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39203
+      "UsersEstimate": 39204
     },
     {
       "ID": "ach030",
@@ -28132,7 +28137,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35639
+      "UsersEstimate": 35640
     },
     {
       "ID": "ach040",
@@ -28228,7 +28233,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39203
+      "UsersEstimate": 39204
     },
     {
       "ID": "ach052",
@@ -28292,7 +28297,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35639
+      "UsersEstimate": 35640
     },
     {
       "ID": "ach060",
@@ -28467,7 +28472,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 356394,
+      "Progressed": 356396,
       "Completed": 7
     }
   ],
@@ -28475,8 +28480,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-12T13:05:51.3958799+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:06:16.7154948+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:06:27.5202571+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.9367355+00:00",
-  "LastUpdate_Ratings": "2023-12-13T03:01:47.2977171+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:06:16.7157079+00:00"
+  "LastUpdate_Ratings": "2023-12-13T04:02:46.7475539+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:06:27.520484+00:00"
 }

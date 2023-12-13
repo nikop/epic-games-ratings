@@ -28089,9 +28089,9 @@
       "ID": "DEAL25DAMAGE",
       "SetID": "5l8oe0h",
       "Name": "Heavy Hitter",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1446
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -29128,8 +29128,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-12T20:58:51.4793333+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:10:22.1708054+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:10:38.0062245+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:59:48.7239789+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:10:22.1711746+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:59:43.307374+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:10:38.0064656+00:00"
 }

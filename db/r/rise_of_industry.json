@@ -3,8 +3,8 @@
   "Name": "Rise of Industry",
   "ProductSlug": "rise-of-industry-0af838",
   "Ranking_Rating": 898,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 53,
@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 758861,
+  "EOS_Progressed": 758864,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1563,
+  "EOS_NewPlayers": 1561,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27491,6 +27491,11 @@
       "Time": "2023-12-13T03:04:40.8697309+00:00",
       "NumProgressed": 758861,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-13T04:04:54.2508335+00:00",
+      "NumProgressed": 758864,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -27566,7 +27571,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 280779
+      "UsersEstimate": 280780
     },
     {
       "ID": "ach_demolish_trees",
@@ -27574,7 +27579,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 129006
+      "UsersEstimate": 129007
     },
     {
       "ID": "ach_free_cam_mode",
@@ -27606,7 +27611,7 @@
       "Name": "I would drive 500 tiles...",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 91063
+      "UsersEstimate": 91064
     },
     {
       "ID": "ach_place_all_buildngs",
@@ -27630,7 +27635,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 364253
+      "UsersEstimate": 364255
     },
     {
       "ID": "ach_produced",
@@ -27702,7 +27707,7 @@
       "Name": "Landscaper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 91063
+      "UsersEstimate": 91064
     },
     {
       "ID": "ach_warehouse_clients",
@@ -27717,7 +27722,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 758861,
+      "Progressed": 758864,
       "Completed": 4
     }
   ],
@@ -27725,8 +27730,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-12-01T16:00:20.573033+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:04:40.8697304+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:04:54.2508332+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:52.124546+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:58:35.6994561+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:04:40.8698825+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:58:31.624829+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:04:54.2509432+00:00"
 }

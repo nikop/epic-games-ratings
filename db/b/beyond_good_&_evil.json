@@ -3,11 +3,11 @@
   "Name": "Beyond Good \u0026 Evil",
   "ProductSlug": "beyond-good-and-evil",
   "Ranking_Rating": 148,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-08-25T15:00:00+00:00",
@@ -53,6 +53,6 @@
   "FirstSeenRating": "2023-03-31T05:58:24.4398971+00:00",
   "LastChanged": "2023-12-10T13:00:35.6948508+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:16.2111747+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:59:59.0142107+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:06:55.3148982+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:59:53.3176679+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:07:05.2742584+00:00"
 }

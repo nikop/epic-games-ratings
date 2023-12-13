@@ -3,12 +3,12 @@
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
   "Ranking_Rating": 547,
-  "Ranking_Popularity": 210,
-  "Ranking_PopularitySum": 173,
+  "Ranking_Popularity": 209,
+  "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3325,9 +3325,9 @@
       "Count": 258
     }
   ],
-  "EOS_Progressed": 85919,
+  "EOS_Progressed": 85920,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 754,
+  "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -29745,6 +29745,11 @@
       "Time": "2023-12-13T02:27:39.7698915+00:00",
       "NumProgressed": 85919,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-13T04:03:50.9654901+00:00",
+      "NumProgressed": 85920,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 30,
@@ -29756,7 +29761,7 @@
       "Name": "First Journey",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 11169
+      "UsersEstimate": 11170
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -29780,7 +29785,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 19761
+      "UsersEstimate": 19762
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -29788,7 +29793,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 15465
+      "UsersEstimate": 15466
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -29844,7 +29849,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 24057
+      "UsersEstimate": 24058
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -29884,7 +29889,7 @@
       "Name": "Beagle 2",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 19761
+      "UsersEstimate": 19762
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -29980,7 +29985,7 @@
       "Name": "Master",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 15465
+      "UsersEstimate": 15466
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -29995,15 +30000,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 85919,
+      "Progressed": 85920,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-11T15:57:22.127103+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:03:36.3381699+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:03:50.9654896+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:46.6200613+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:58:27.2778418+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:03:36.3383326+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:58:23.62169+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:03:50.965609+00:00"
 }

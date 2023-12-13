@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1060,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 103,
@@ -125,7 +125,7 @@
   "Tags": [],
   "EOS_Progressed": 80460,
   "EOS_Completed": 874,
-  "EOS_NewPlayers": 547,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -26701,8 +26701,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:07:25.6749676+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:07:34.6722383+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:29.3194806+00:00",
-  "LastUpdate_Ratings": "2023-12-13T03:00:37.6813892+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:07:25.6751414+00:00"
+  "LastUpdate_Ratings": "2023-12-13T04:00:31.6241832+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:07:34.6723595+00:00"
 }

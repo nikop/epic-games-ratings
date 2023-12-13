@@ -1,7 +1,7 @@
 # ANNO Mutationem
 [Store](https://store.epicgames.com/en-US/p/anno-mutationem-ef8b9e)  
 [View Rawdata](../../db/a/anno_mutationem.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.54 (Ranked 535)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,7 +16,7 @@ Rating: 4.54 (Ranked 534)
 | The Ann Flores Combo Experience | 26.00% | ~202 |
 | Club Star | 25.00% | ~194 |
 | Fire in the hole! | 21.00% | ~163 |
-| Omnipotence | 19.00% | ~148 |
+| Omnipotence | 20.00% | ~155 |
 | The Warlord | 19.00% | ~148 |
 | You are the One | 19.00% | ~148 |
 | Deadly Kombationem | 18.00% | ~140 |

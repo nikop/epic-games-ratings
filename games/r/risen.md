@@ -5,28 +5,28 @@ Rating: 4.58 (Ranked 453)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 94.00% | ~63 |
-| Map reader | 79.00% | ~53 |
-| Philanthropist | 75.00% | ~50 |
-| Adventurer | 72.00% | ~48 |
-| The brave little tailor | 55.00% | ~37 |
-| Archer | 54.00% | ~36 |
-| Field hand | 51.00% | ~34 |
-| Samaritan | 48.00% | ~32 |
+| Beginner | 94.00% | ~64 |
+| Map reader | 78.00% | ~53 |
+| Philanthropist | 74.00% | ~50 |
+| Adventurer | 71.00% | ~48 |
+| The brave little tailor | 54.00% | ~37 |
+| Archer | 53.00% | ~36 |
+| Field hand | 50.00% | ~34 |
+| Samaritan | 47.00% | ~32 |
 | The merciful one | 43.00% | ~29 |
 | Well-to-do | 43.00% | ~29 |
-| Ladies' man | 42.00% | ~28 |
+| Ladies' man | 41.00% | ~28 |
 | Ferocious wild boars | 34.00% | ~23 |
 | Beast slayer | 31.00% | ~21 |
-| Idiot | 30.00% | ~20 |
+| Idiot | 29.00% | ~20 |
 | Wise man | 28.00% | ~19 |
 | Death of a legend | 28.00% | ~19 |
 | Ogre friend | 28.00% | ~19 |
 | Hard worker | 28.00% | ~19 |
 | The fourth triplet | 28.00% | ~19 |
-| Family man | 27.00% | ~18 |
-| Archaeologist | 27.00% | ~18 |
-| Little hero | 27.00% | ~18 |
+| Family man | 26.00% | ~18 |
+| Archaeologist | 26.00% | ~18 |
+| Little hero | 26.00% | ~18 |
 | Pandora's box | 25.00% | ~17 |
 | Ghost hunter | 24.00% | ~16 |
 | Sidelined | 24.00% | ~16 |
@@ -56,7 +56,7 @@ Rating: 4.58 (Ranked 453)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67 (Ranked 487)  
+Progressed: 68 (Ranked 486)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-09 | 64 | 0 |
 | 2023-12-10 | 66 | 0 |
 | 2023-12-11 | 67 | 0 |
+| 2023-12-13 | 68 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

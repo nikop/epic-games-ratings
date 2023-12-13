@@ -6,16 +6,16 @@ Rating: 4.75 (Ranked 148)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 92.00% | ~10,080 |
-| I Challenge You To Save More Money! | 87.00% | ~9,532 |
-| I Love How Tough You Are | 73.00% | ~7,998 |
+| I Challenge You To Save More Money! | 87.00% | ~9,533 |
+| I Love How Tough You Are | 73.00% | ~7,999 |
 | Wanna Come To My Place For Dinner? | 67.00% | ~7,341 |
-| What I Want Is You | 61.00% | ~6,683 |
-| To Be Or Not To Be | 58.00% | ~6,354 |
+| What I Want Is You | 61.00% | ~6,684 |
+| To Be Or Not To Be | 58.00% | ~6,355 |
 | Are You Alright? | 50.00% | ~5,478 |
-| Love Actually | 49.00% | ~5,368 |
+| Love Actually | 49.00% | ~5,369 |
 | Drama King | 42.00% | ~4,602 |
-| You're Really Something Else | 38.00% | ~4,163 |
-| Go Clean up In Your Own Way | 36.00% | ~3,944 |
+| You're Really Something Else | 38.00% | ~4,164 |
+| Go Clean up In Your Own Way | 36.00% | ~3,945 |
 | Happy Family | 35.00% | ~3,835 |
 | ONE PUNCH | 35.00% | ~3,835 |
 | FIRST LOVE | 35.00% | ~3,835 |
@@ -31,7 +31,7 @@ Rating: 4.75 (Ranked 148)
 | Lover In Dark Alley | 25.00% | ~2,739 |
 | That's So You | 25.00% | ~2,739 |
 | SALUTE | 25.00% | ~2,739 |
-| Let Me Be Your Toy Boy | 24.00% | ~2,629 |
+| Let Me Be Your Toy Boy | 24.00% | ~2,630 |
 | Off We Sail Tonight | 19.00% | ~2,082 |
 | Love You Three Thousand | 16.00% | ~1,753 |
 | Can You Do This Or Not? | 16.00% | ~1,753 |
@@ -42,13 +42,13 @@ Rating: 4.75 (Ranked 148)
 | Life Is A Rollercoaster | 9.00% | ~986 |
 | Counting Sheep? | 9.00% | ~986 |
 | This Ain't Right In Many Ways... | 9.00% | ~986 |
-| Boys Need To Protect Themselves | 8.00% | ~876 |
-| Stubborn Noob | 8.00% | ~876 |
+| Boys Need To Protect Themselves | 8.00% | ~877 |
+| Stubborn Noob | 8.00% | ~877 |
 | Hurrah! | 2.00% | ~219 |
 | Tall; Grande; Venti | 2.00% | ~219 |
 | Limerence | 2.00% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,956 (Ranked 165)  
+Progressed: 10,957 (Ranked 165)  
 Completed: 203 (1.85%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,6 +115,7 @@ Completed: 203 (1.85%) (Ranked 135)
 | 2023-12-10 | 10,902 | 201 |
 | 2023-12-11 | 10,928 | 203 |
 | 2023-12-12 | 10,956 | 203 |
+| 2023-12-13 | 10,957 | 203 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 538)  
 Sum: 23 (Ranked 541)  

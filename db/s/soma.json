@@ -3,11 +3,11 @@
   "Name": "SOMA",
   "ProductSlug": "soma",
   "Ranking_Rating": 318,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 792,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2015-09-22T15:00:00+00:00",
@@ -475,6 +475,6 @@
   "FirstSeen": "2022-07-22T20:24:55.9508799+00:00",
   "LastChanged": "2023-12-10T03:58:44.5263683+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:53.4891501+00:00",
-  "LastUpdate_Ratings": "2023-12-13T03:01:40.8399089+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:09:19.7151015+00:00"
+  "LastUpdate_Ratings": "2023-12-13T04:02:40.3806311+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:09:36.5645454+00:00"
 }

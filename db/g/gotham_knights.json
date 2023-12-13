@@ -4637,9 +4637,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77932,
+  "EOS_Progressed": 77934,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25797,6 +25797,11 @@
       "Time": "2023-12-13T03:03:40.29126+00:00",
       "NumProgressed": 77932,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-13T04:03:55.58389+00:00",
+      "NumProgressed": 77934,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25902,9 +25907,9 @@
       "ID": "CHALLENGES_1",
       "SetID": "4eo5ebm",
       "Name": "Protector of Gotham",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13248
+      "UsersEstimate": 12469
     },
     {
       "ID": "CLAYFACE_1",
@@ -25928,7 +25933,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10910
+      "UsersEstimate": 10911
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -26032,7 +26037,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21821
+      "UsersEstimate": 21822
     },
     {
       "ID": "FREEZE_1_5",
@@ -26040,7 +26045,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15586
+      "UsersEstimate": 15587
     },
     {
       "ID": "FREEZE_2",
@@ -26056,7 +26061,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10910
+      "UsersEstimate": 10911
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -26112,7 +26117,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26497
+      "UsersEstimate": 26498
     },
     {
       "ID": "HARLEY_2",
@@ -26120,7 +26125,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19483
+      "UsersEstimate": 19484
     },
     {
       "ID": "HARLEY_3",
@@ -26128,7 +26133,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15586
+      "UsersEstimate": 15587
     },
     {
       "ID": "HARLEY_4",
@@ -26152,7 +26157,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38966
+      "UsersEstimate": 38967
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -26176,7 +26181,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15586
+      "UsersEstimate": 15587
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -26224,7 +26229,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15586
+      "UsersEstimate": 15587
     },
     {
       "ID": "MYSTERY_05",
@@ -26248,7 +26253,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10910
+      "UsersEstimate": 10911
     },
     {
       "ID": "MYSTERY_08",
@@ -26295,13 +26300,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77932,
+      "Progressed": 77934,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48212,
+      "Progressed": 48214,
       "Completed": 2675
     }
   ],
@@ -26309,8 +26314,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-12T19:58:35.1362928+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:03:40.2912596+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:03:55.5838892+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:59:31.0843971+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:03:40.2913819+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:59:25.1355467+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:03:55.5840326+00:00"
 }

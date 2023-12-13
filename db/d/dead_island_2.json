@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 534,
+  "Ranking_Rating": 535,
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 21,
@@ -7527,9 +7527,9 @@
       "Count": 529
     }
   ],
-  "EOS_Progressed": 733914,
+  "EOS_Progressed": 733925,
   "EOS_Completed": 2480,
-  "EOS_NewPlayers": 3183,
+  "EOS_NewPlayers": 3187,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -34687,6 +34687,11 @@
       "Time": "2023-12-13T03:09:14.9478689+00:00",
       "NumProgressed": 733914,
       "NumCompleted": 2480
+    },
+    {
+      "Time": "2023-12-13T04:09:31.8898834+00:00",
+      "NumProgressed": 733925,
+      "NumCompleted": 2480
     }
   ],
   "TotalAchievements": 51,
@@ -34730,7 +34735,7 @@
       "Name": "Make it So",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "ach_big_name_in_town",
@@ -34770,7 +34775,7 @@
       "Name": "On Safari",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "ach_defensive",
@@ -34858,7 +34863,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22017
+      "UsersEstimate": 22018
     },
     {
       "ID": "ach_impressive_aim",
@@ -35026,7 +35031,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -35034,7 +35039,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22017
+      "UsersEstimate": 22018
     },
     {
       "ID": "ach_well_known_survivor",
@@ -35105,13 +35110,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 733914,
+      "Progressed": 733925,
       "Completed": 2480
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 59456,
+      "Progressed": 59467,
       "Completed": 36655
     }
   ],
@@ -35119,8 +35124,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-13T01:46:02.766878+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:09:14.9478686+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:09:31.889883+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:31.7932919+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:58:14.7192222+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:09:14.9480481+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:58:12.0542713+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:09:31.8900093+00:00"
 }

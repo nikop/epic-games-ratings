@@ -1,12 +1,12 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.54 (Ranked 535)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~22,017 |
-| Welcome To Hell-A | 3.00% | ~22,017 |
+| Hotel California | 3.00% | ~22,018 |
+| Welcome To Hell-A | 3.00% | ~22,018 |
 | Whatever It Takes | 3.00% | ~1,784 |
 | Pork Chopped | 3.00% | ~1,784 |
 | Dr. Reed, I Presume? | 2.00% | ~14,678 |
@@ -43,9 +43,9 @@ Rating: 4.54 (Ranked 534)
 | Not Even My Final Form | 0.80% | ~5,871 |
 | Smorgasbord | 0.70% | ~5,137 |
 | Internet Famous | 0.70% | ~5,137 |
-| Make it So | 0.60% | ~4,403 |
-| On Safari | 0.60% | ~4,403 |
-| Variety is the Spice of Death | 0.60% | ~4,403 |
+| Make it So | 0.60% | ~4,404 |
+| On Safari | 0.60% | ~4,404 |
+| Variety is the Spice of Death | 0.60% | ~4,404 |
 | LA Influential | 0.50% | ~3,670 |
 | Gore Horse | 0.50% | ~3,670 |
 | Sole Survivor | 0.40% | ~2,936 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 534)
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,914 (Ranked 21)  
+Progressed: 733,925 (Ranked 21)  
 Completed: 2,480 (0.34%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 2,480 (0.34%) (Ranked 236)
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
 | 2023-12-12 | 733,868 | 2,480 |
-| 2023-12-13 | 733,914 | 2,480 |
+| 2023-12-13 | 733,925 | 2,480 |
 ## Awards
 Max (Great Boss Battles): 8,108  (Ranked 49)  
 Sum: 12,482 (Ranked 81)  

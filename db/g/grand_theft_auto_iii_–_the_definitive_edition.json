@@ -3,11 +3,11 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 913,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -561,7 +561,7 @@
   "Tags": [],
   "EOS_Progressed": 8808,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -12259,8 +12259,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-13T01:46:30.4576886+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:03:56.9087173+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:04:11.6635703+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:03.1675394+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:58:53.3195463+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:03:56.9087932+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:58:48.6881015+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:04:11.6636381+00:00"
 }

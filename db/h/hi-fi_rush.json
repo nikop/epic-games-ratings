@@ -3,11 +3,11 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 25,
-  "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4511,
+  "EOS_Progressed": 4512,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8305,6 +8305,11 @@
       "Time": "2023-12-13T01:51:30.2958118+00:00",
       "NumProgressed": 4511,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-13T04:03:46.9644344+00:00",
+      "NumProgressed": 4512,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8332,7 +8337,7 @@
       "Name": "This will cost you big time",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "Ach004",
@@ -8572,7 +8577,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "Ach034",
@@ -8714,9 +8719,9 @@
       "ID": "Ach051",
       "SetID": "12n4k20",
       "Name": "You can pet the cat!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 812
+      "UsersEstimate": 857
     },
     {
       "ID": "Ach052",
@@ -8883,13 +8888,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4511,
+      "Progressed": 4512,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 3032,
+      "Progressed": 3033,
       "Completed": 1930
     }
   ],
@@ -8897,8 +8902,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-13T03:03:32.0416232+00:00",
+  "LastChanged_Achievements": "2023-12-13T04:03:46.964434+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:18.6418134+00:00",
-  "LastUpdate_Ratings": "2023-12-13T02:57:11.3908948+00:00",
-  "LastUpdate_Achievements": "2023-12-13T03:03:32.041709+00:00"
+  "LastUpdate_Ratings": "2023-12-13T03:57:09.8342024+00:00",
+  "LastUpdate_Achievements": "2023-12-13T04:03:46.9645428+00:00"
 }

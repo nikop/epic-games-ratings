@@ -10,6 +10,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 0.80% | ~1,928 |
 | Uncharted Territory | 0.70% | ~1,687 |
 | Not Touching You | 0.70% | ~17 |
+| Heavy Hitter | 0.60% | ~1,446 |
 | Getting A Glimpse | 0.60% | ~1,446 |
 | That Was Quick | 0.60% | ~1,446 |
 | Colorful Corpse | 0.60% | ~1,446 |
@@ -21,7 +22,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | An Offering | 0.60% | ~1,446 |
 | Ambitious Intent | 0.50% | ~1,205 |
 | Nothing To Lose | 0.50% | ~1,205 |
-| Heavy Hitter | 0.50% | ~1,205 |
 | Delving Deeper | 0.50% | ~1,205 |
 | R.I.P | 0.50% | ~1,205 |
 | Cold Hearted | 0.50% | ~1,205 |
