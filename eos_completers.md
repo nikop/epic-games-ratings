@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 21.89% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 21.88% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -53,7 +53,7 @@
 | 51 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 7.69% |
-| 54 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
+| 54 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.64% |
 | 55 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.48% |
 | 56 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.46% |
 | 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.24% |
@@ -168,8 +168,8 @@
 | 166 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 1.13% |
 | 167 | [Adios](games/a/adios.md) | 1.09% |
 | 168 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
+| 169 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
 | 169 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |
-| 170 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
 | 171 | [Sable](games/s/sable.md) | 1.01% |
 | 172 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.99% |
 | 173 | [Trifox](games/t/trifox.md) | 0.96% |
@@ -452,6 +452,7 @@
 | 373 | [CyberTD](games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 0.00% |
 | 373 | [Dark Table CCG](games/a/a0e5651da05447508a6cfe91e883af3a.md) | 0.00% |
 | 373 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 0.00% |
+| 373 | [Darksiders III](games/d/darksiders_iii.md) | 0.00% |
 | 373 | [Daydream. Forgotten Sorrow](games/7/7b8963f6857041fd97a4a23845eb113d.md) | 0.00% |
 | 373 | [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 0.00% |
 | 373 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 0.00% |
