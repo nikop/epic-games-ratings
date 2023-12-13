@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 21.86% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 21.84% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -47,7 +47,7 @@
 | 45 | [Smelter](games/s/smelter.md) | 9.52% |
 | 46 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 47 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 9.33% |
-| 48 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.08% |
+| 48 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.11% |
 | 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.49% |
 | 50 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.46% |
 | 51 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
@@ -69,7 +69,7 @@
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.69% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.68% |
 | 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 73 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.50% |
@@ -194,13 +194,13 @@
 | 192 | [Haven](games/h/haven.md) | 0.64% |
 | 193 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.63% |
 | 194 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.62% |
+| 195 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.60% |
 | 195 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.60% |
 | 195 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.60% |
 | 195 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
 | 195 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.60% |
 | 195 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.60% |
-| 200 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
-| 200 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.59% |
+| 201 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.59% |
 | 202 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 202 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
 | 204 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.56% |
@@ -216,8 +216,8 @@
 | 214 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.48% |
 | 214 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
 | 216 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.47% |
-| 217 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 217 | [Eternights](games/e/eternights.md) | 0.46% |
+| 218 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 219 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
 | 219 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.44% |
 | 219 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.44% |
