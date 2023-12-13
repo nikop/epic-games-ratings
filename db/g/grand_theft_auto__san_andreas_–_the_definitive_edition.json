@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1747,9 +1747,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 14002,
+  "EOS_Progressed": 14007,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -15952,6 +15952,11 @@
       "Time": "2023-12-13T22:09:42.0949916+00:00",
       "NumProgressed": 14002,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-13T23:10:19.671516+00:00",
+      "NumProgressed": 14007,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 35,
@@ -15963,7 +15968,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11482
+      "UsersEstimate": 11486
     },
     {
       "ID": "ACH02",
@@ -15979,7 +15984,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH04",
@@ -16011,7 +16016,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "ACH08",
@@ -16019,7 +16024,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7281
+      "UsersEstimate": 7284
     },
     {
       "ID": "ACH09",
@@ -16043,7 +16048,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "ACH12",
@@ -16059,7 +16064,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "ACH14",
@@ -16067,7 +16072,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "ACH15",
@@ -16083,7 +16088,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "ACH17",
@@ -16131,7 +16136,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "ACH23",
@@ -16139,7 +16144,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "ACH24",
@@ -16179,7 +16184,7 @@
       "Name": "Original Gangster",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "ACH29",
@@ -16187,7 +16192,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "ACH30",
@@ -16242,7 +16247,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 14002,
+      "Progressed": 14007,
       "Completed": 57
     }
   ],
@@ -16250,8 +16255,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-13T19:58:43.9093163+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:09:42.0949914+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:10:19.6715156+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:47.2955256+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:58:30.0445794+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:09:42.0950713+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:59:05.6889425+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:10:19.671615+00:00"
 }

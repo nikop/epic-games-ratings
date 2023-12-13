@@ -5,13 +5,13 @@ Rating: 4.81 (Ranked 84)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,577 |
-| No more cages! | 92.00% | ~2,469 |
-| Everfrost | 79.00% | ~2,120 |
+| For Demacia | 96.00% | ~2,578 |
+| No more cages! | 92.00% | ~2,470 |
+| Everfrost | 79.00% | ~2,121 |
 | Pentakill | 78.00% | ~2,094 |
 | Dark Forest | 78.00% | ~2,094 |
-| The use of petricite | 75.00% | ~2,013 |
-| You can pet the dog | 62.00% | ~1,664 |
+| The use of petricite | 75.00% | ~2,014 |
+| You can pet the dog | 62.00% | ~1,665 |
 | Big Helmet Bro | 39.00% | ~1,047 |
 | Thornbarrow | 39.00% | ~1,047 |
 | Clarion Cove | 39.00% | ~1,047 |
@@ -30,8 +30,8 @@ Rating: 4.81 (Ranked 84)
 | Little light | 24.00% | ~644 |
 | Capelworth | 24.00% | ~644 |
 | Full equipped | 24.00% | ~644 |
-| Glyndemere | 23.00% | ~617 |
-| Iffighain Headquarters | 23.00% | ~617 |
+| Glyndemere | 23.00% | ~618 |
+| Iffighain Headquarters | 23.00% | ~618 |
 | Whispers in the Woods II | 19.00% | ~510 |
 | No more holding back | 19.00% | ~510 |
 | Terbisia | 19.00% | ~510 |
@@ -42,7 +42,7 @@ Rating: 4.81 (Ranked 84)
 | True power | 17.00% | ~456 |
 | Meltridge | 17.00% | ~456 |
 | The Central Headquarters | 17.00% | ~456 |
-| Cloven Dell Headquarters | 16.00% | ~429 |
+| Cloven Dell Headquarters | 16.00% | ~430 |
 | Embrace the darkness | 14.00% | ~376 |
 | Whispers in the Woods IV | 14.00% | ~376 |
 | I smell fear | 14.00% | ~376 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 84)
 | Silverwing nest | 2.00% | ~54 |
 | The Unshackled | 1.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,684 (Ranked 217)  
+Progressed: 2,685 (Ranked 217)  
 Completed: 16 (0.60%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 16 (0.60%) (Ranked 195)
 | 2023-12-09 | 2,678 | 16 |
 | 2023-12-10 | 2,679 | 16 |
 | 2023-12-11 | 2,680 | 16 |
-| 2023-12-13 | 2,684 | 16 |
+| 2023-12-13 | 2,685 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

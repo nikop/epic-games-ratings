@@ -6,6 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Welcome to Sigil | 0.20% | ~412 |
 | A Brief Tour of the Realms | 0.10% | ~240 |
 | Maddening | 0.10% | ~240 |
 | Pros and CONs | 0.10% | ~240 |
@@ -18,6 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Rats! | 0.10% | ~206 |
 | An Unexpected Geist | 0.10% | ~206 |
 | Back to Nature | 0.10% | ~206 |
+| The Witchlight Carnival | 0.10% | ~206 |
 | A Monarch Among Us | 0.10% | ~206 |
 | A Dragon Against Us | 0.10% | ~206 |
 | Thieves of the Coven | 0.10% | ~206 |
@@ -25,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Patron Party | 0.10% | ~206 |
 | Hither of the Feywild | 0.10% | ~206 |
 | Don't Breathe the Marsh Gas | 0.10% | ~206 |
+| Don't Blast the Brigands | 0.10% | ~206 |
 | The Spire of Iriolarthas | 0.10% | ~206 |
 | Always Watching | 0.10% | ~206 |
 | The Fall of Ythryn | 0.10% | ~206 |
@@ -36,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.10% | ~240 |
 | Slack-jawed Lorna | 0.10% | ~206 |
 | End of the Line | 0.10% | ~206 |
+| A Steadfast Love | 0.10% | ~206 |
 | The Fairy Rings of Thither | 0.10% | ~206 |
 | Bully for You! | 0.10% | ~206 |
 | Beast Intentions | 0.10% | ~240 |
@@ -52,14 +56,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's So Pretty... | 0.10% | ~206 |
 | Don't Look Up! | 0.10% | ~240 |
 | Head over Heals | 0.10% | ~206 |
+| The Demon Lords of the Abyss | 0.10% | ~206 |
 | Will of the Feywild | 0.10% | ~206 |
 | The Roots of Loomlurch | 0.10% | ~206 |
 | The Lutes of Loomlurch | 0.10% | ~206 |
 | Supply Run | 0.10% | ~240 |
 | The Howling Peaks of Yon | 0.10% | ~206 |
 | Heavy Burden | 0.10% | ~240 |
+| Seeds of Destruction | 0.10% | ~206 |
 | Speeds of Destruction | 0.10% | ~206 |
 | On the Hunt | 0.10% | ~240 |
+| Best Thay Ever | 0.10% | ~206 |
 | Vecna Lives! | 0.10% | ~206 |
 | Overwhelmed with Knowledge | 0.10% | ~206 |
 | A Demi-god's Defender | 0.10% | ~206 |
@@ -67,11 +74,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Well Equipped | 0.10% | ~206 |
 | Friends of the Forest | 0.10% | ~240 |
 | Arcane Efforts | 0.10% | ~206 |
+| Heatwave | 0.10% | ~206 |
 | To Avernus in a Handbasket | 0.10% | ~206 |
 | Hands Off! | 0.10% | ~206 |
 | The Dread Domain of Tovag | 0.10% | ~206 |
 | Weak Doesn't Mean Feeble | 0.10% | ~206 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~206 |
+| Kas the Bloody Handed | 0.10% | ~206 |
 | Were-verpowered | 0.10% | ~240 |
 | Checkmate | 0.10% | ~206 |
 | Xanathaaaaaaar! | 0.10% | ~206 |
@@ -85,8 +94,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not Very Charming | 0.10% | ~240 |
 | Lobsterfolk Assault | 0.10% | ~240 |
 | Taking Responsibility | 0.10% | ~240 |
+| Love Unsoiled | 0.10% | ~206 |
+| A Nimble Approach | 0.10% | ~206 |
 | The Palace of Heart's Desire | 0.10% | ~206 |
 | Welcome to the Rock | 0.10% | ~206 |
+| Welcome to the Band | 0.10% | ~206 |
 | Beast Mode | 0.10% | ~240 |
 | The Forbidden City | 0.10% | ~240 |
 | Terror in the Dark | 0.10% | ~240 |
@@ -322,9 +334,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.10% | ~206 |
 | Rime Bandits | 0.10% | ~206 |
 | Giant-Size Adventure | 0.10% | ~206 |
+| Power of Three | 0.10% | ~206 |
 | The Everlasting Rime | 0.10% | ~206 |
 | Enemy Summit | 0.10% | ~206 |
 | Mirage Arcane | 0.10% | ~206 |
+| Only Human | 0.10% | ~206 |
 | The Mad Wizard | 0.10% | ~240 |
 | Close Escort | 0.10% | ~240 |
 | Constant Banditry | 0.10% | ~240 |
@@ -357,6 +371,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.10% | ~206 |
 | Fortress Assault | 0.10% | ~206 |
 | Hats off to you! | 0.10% | ~206 |
+| It's Cold Out There Every Day | 0.10% | ~206 |
 | The Bleeding Citadel | 0.10% | ~206 |
 | Don't Pick at the Scab | 0.10% | ~206 |
 | Going To Eleven | 0.10% | ~206 |
@@ -413,20 +428,25 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.10% | ~206 |
 | Rocky Reception | 0.10% | ~206 |
 | Luigi After Hours | 0.10% | ~206 |
+| Krux's Speed Run | 0.10% | ~206 |
 | Animated Giff | 0.10% | ~206 |
 | The Hunt for The Last Breath | 0.10% | ~206 |
+| To Infinity's and Beyond | 0.10% | ~206 |
+| Legends and Lore | 0.10% | ~206 |
 | Unearthed Arcana | 0.10% | ~206 |
 | The End | 0.10% | ~206 |
 | All's Well That Ends Well | 0.10% | ~206 |
+| The Jungles of Doomspace | 0.10% | ~206 |
 | Slow Down Showdown | 0.10% | ~206 |
+| The Arena of Blood | 0.10% | ~206 |
 | Fowl Play | 0.10% | ~206 |
 | Spelljammers in Training | 0.10% | ~206 |
+| The Beginning is the End | 0.10% | ~206 |
 | Tomb of Champions | 0.10% | ~206 |
 | A Wise Approach | 0.10% | ~206 |
 | The Brains of an Illithid's Desire | 0.10% | ~206 |
 | Arcane Suppression | 0.10% | ~206 |
 | Welcome to the Vrocks | 0.10% | ~206 |
-| Welcome to Sigil | 0.10% | ~206 |
 | Misaligned in Sigil | 0.10% | ~206 |
 | Fast Food | 0.10% | ~206 |
 | Chaos Theory | 0.10% | ~206 |
@@ -437,10 +457,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Lose Your Head | 0.10% | ~206 |
 | Mind Spike | 0.10% | ~206 |
 | And Your Enemies Closer | 0.00% | ~0 |
-| The Witchlight Carnival | 0.00% | ~0 |
 | A Familiar Behind Us | 0.00% | ~0 |
 | Go Fourth | 0.00% | ~0 |
-| Don't Blast the Brigands | 0.00% | ~0 |
 | Don't Squeeze the Spiders | 0.00% | ~0 |
 | The Birds | 0.00% | ~0 |
 | Where the Magic Happens | 0.00% | ~0 |
@@ -448,11 +466,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Second Third Out | 0.00% | ~0 |
 | Third Third Out | 0.00% | ~0 |
 | I'm Sure I Saw It Move! | 0.00% | ~0 |
-| A Steadfast Love | 0.00% | ~0 |
 | Zarak's Revenge | 0.00% | ~0 |
 | Brains on Ice | 0.00% | ~0 |
 | The Cult of Lolth | 0.00% | ~0 |
-| The Demon Lords of the Abyss | 0.00% | ~0 |
 | Speed Demons | 0.00% | ~0 |
 | All Damage, All The Time | 0.00% | ~0 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
@@ -462,20 +478,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | G. O. A. T. | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
-| Seeds of Destruction | 0.00% | ~0 |
 | Owlbear Necessities | 0.00% | ~0 |
 | The Evacuation of Waterdeep | 0.00% | ~0 |
 | Flapjacks and Waffles | 0.00% | ~0 |
-| Best Thay Ever | 0.00% | ~0 |
 | More Than Well Equipped | 0.00% | ~0 |
 | Return to the Tomb | 0.00% | ~0 |
 | Keep Your Distance | 0.00% | ~0 |
-| Heatwave | 0.00% | ~0 |
 | Frail Doesn't Mean Broken | 0.00% | ~0 |
 | The Castle of a Thousand Vecnas | 0.00% | ~0 |
 | Clumsy Doesn't Mean Inept | 0.00% | ~0 |
 | The Sanctum of the Sword | 0.00% | ~0 |
-| Kas the Bloody Handed | 0.00% | ~0 |
 | Get Back In The Castle | 0.00% | ~0 |
 | Kas the Destroyer | 0.00% | ~0 |
 | Pin and Skewer | 0.00% | ~0 |
@@ -485,14 +497,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clowning Around | 0.00% | ~0 |
 | The Minions of Endelyn Moongrave | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
-| Love Unsoiled | 0.00% | ~0 |
 | The Play's the Thing! | 0.00% | ~0 |
 | The Bitter End | 0.00% | ~0 |
-| A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | No One Can Hear You Scream | 0.00% | ~0 |
 | Anchors Aweigh | 0.00% | ~0 |
-| Welcome to the Band | 0.00% | ~0 |
 | Enter the Sargauth | 0.00% | ~0 |
 | Sneak Attack | 0.00% | ~0 |
 | Evergreens with an Evergreen | 0.00% | ~0 |
@@ -508,11 +517,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Show of Strength | 0.00% | ~0 |
 | Bel's Forge | 0.00% | ~0 |
-| Power of Three | 0.00% | ~0 |
-| Only Human | 0.00% | ~0 |
 | An Awakened Axe | 0.00% | ~0 |
 | Mimic Perception | 0.00% | ~0 |
-| It's Cold Out There Every Day | 0.00% | ~0 |
 | Witty Riposting | 0.00% | ~0 |
 | How Far Away is Thay | 0.00% | ~0 |
 | Visions of Hornfirth | 0.00% | ~0 |
@@ -539,21 +545,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flight of the Kindori Pod | 0.00% | ~0 |
 | 3,720 to 1 | 0.00% | ~0 |
 | Topolah's Tower | 0.00% | ~0 |
-| Krux's Speed Run | 0.00% | ~0 |
 | The Chaotic Hunt for The Last Breath | 0.00% | ~0 |
-| To Infinity's and Beyond | 0.00% | ~0 |
 | There's a Flying Snake in my Boot! | 0.00% | ~0 |
-| Legends and Lore | 0.00% | ~0 |
-| The Jungles of Doomspace | 0.00% | ~0 |
-| The Arena of Blood | 0.00% | ~0 |
 | Entrance of the Gladiators | 0.00% | ~0 |
 | Foul Play | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
-| The Beginning is the End | 0.00% | ~0 |
 | The End is the Beginning | 0.00% | ~0 |
 | See You on the Flipside | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,817 (Ranked 65)  
+Progressed: 239,847 (Ranked 65)  
 Completed: 2,519 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -790,7 +790,7 @@ Completed: 2,519 (1.05%) (Ranked 168)
 | 2023-12-10 | 239,334 | 2,513 |
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
-| 2023-12-13 | 239,817 | 2,519 |
+| 2023-12-13 | 239,847 | 2,519 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
 Sum: 32,841 (Ranked 41)  

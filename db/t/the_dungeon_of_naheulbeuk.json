@@ -4,10 +4,10 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 453,
   "Ranking_Popularity": 272,
-  "Ranking_PopularitySum": 325,
+  "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1503,9 +1503,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242611,
+  "EOS_Progressed": 242616,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1033,
+  "EOS_NewPlayers": 1032,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22173,6 +22173,11 @@
       "Time": "2023-12-13T22:09:42.9093333+00:00",
       "NumProgressed": 242611,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-13T23:10:20.6990875+00:00",
+      "NumProgressed": 242616,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -22632,7 +22637,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87340
+      "UsersEstimate": 87342
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -22656,7 +22661,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9704
+      "UsersEstimate": 9705
     },
     {
       "ID": "EndGameCursed",
@@ -22792,7 +22797,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "QuestPriestess",
@@ -22880,28 +22885,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9704
+      "UsersEstimate": 9705
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 242611,
+      "Progressed": 242616,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 242611,
+      "Progressed": 242616,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-12T21:57:44.3633431+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:09:42.9093332+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:10:20.6990871+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.1177484+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:58:05.8892419+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:09:42.9094939+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:58:28.4236865+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:10:20.6992433+00:00"
 }

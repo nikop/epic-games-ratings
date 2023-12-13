@@ -6,14 +6,14 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,010 |
-| Exploitative | 4.00% | ~20,008 |
-| Point Shooting | 4.00% | ~20,008 |
-| Wet Feet | 4.00% | ~20,008 |
-| High Speed Low Drag | 3.00% | ~15,006 |
-| Lucky | 3.00% | ~15,006 |
-| Stylin' | 3.00% | ~15,006 |
-| Turf War | 3.00% | ~15,006 |
+| Wallbanger | 5.00% | ~25,011 |
+| Exploitative | 4.00% | ~20,009 |
+| Point Shooting | 4.00% | ~20,009 |
+| Wet Feet | 4.00% | ~20,009 |
+| High Speed Low Drag | 3.00% | ~15,007 |
+| Lucky | 3.00% | ~15,007 |
+| Stylin' | 3.00% | ~15,007 |
+| Turf War | 3.00% | ~15,007 |
 | Banged | 2.00% | ~10,004 |
 | Checkpoint Victory | 2.00% | ~10,004 |
 | First Blood | 2.00% | ~10,004 |
@@ -29,7 +29,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Personal | 0.90% | ~4,502 |
 | Grounded | 0.80% | ~4,002 |
 | Play to Win | 0.80% | ~4,002 |
-| Special Delivery | 0.70% | ~3,501 |
+| Special Delivery | 0.70% | ~3,502 |
 | Firefight Victory | 0.60% | ~3,001 |
 | #1 | 0.60% | ~3,001 |
 | Cinematic | 0.50% | ~2,501 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~500 |
 | Road Hazard | 0.10% | ~500 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500,199 (Ranked 37)  
+Progressed: 500,220 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,16 +279,16 @@ Completed: 2 (0.00%) (Ranked 373)
 | 2023-12-10 | 499,309 | 2 |
 | 2023-12-11 | 499,606 | 2 |
 | 2023-12-12 | 499,885 | 2 |
-| 2023-12-13 | 500,199 | 2 |
+| 2023-12-13 | 500,220 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 403  (Ranked 234)  
-Sum: 3,229 (Ranked 175)  
+Sum: 3,230 (Ranked 175)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 403 |
 | This game has Challenging Combat | 398 |
-| This game is Extremely Fun | 372 |
+| This game is Extremely Fun | 373 |
 | This game has Competitive Players | 370 |
 | This game is Highly Recommended | 358 |
 | This game has Realistic Visuals | 346 |
@@ -606,4 +606,4 @@ Diff (max vs sum): 59
 | 2023-12-09 | 4.61 | - | 403 | 3,219 |
 | 2023-12-10 | 4.61 | - | 403 | 3,222 |
 | 2023-12-11 | 4.61 | - | 403 | 3,225 |
-| 2023-12-13 | 4.61 | - | 403 | 3,229 |
+| 2023-12-13 | 4.61 | - | 403 | 3,230 |

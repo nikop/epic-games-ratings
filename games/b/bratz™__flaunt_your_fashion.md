@@ -11,7 +11,7 @@
 | Roller Race | 34.00% | ~29 |
 | Born to Win | 33.00% | ~28 |
 | Welcome to Seoul | 33.00% | ~28 |
-| Stilesville Hidden Style | 30.00% | ~26 |
+| Stilesville Hidden Style | 31.00% | ~27 |
 | Creating New Trends | 23.00% | ~20 |
 | Barcelona Hidden Style | 23.00% | ~20 |
 | Scooter Race | 23.00% | ~20 |

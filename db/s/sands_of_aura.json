@@ -2,9 +2,9 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -540,6 +540,11 @@
       "Time": "2023-12-13T00:04:46.0712529+00:00",
       "NumProgressed": 107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T23:06:35.9106742+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -766,9 +771,9 @@
       "ID": "DISCOVER_ALL_ISLANDS",
       "SetID": "cm0d613",
       "Name": "Explorer",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "DISCOVER_ONCEMAN_TOWN",
@@ -814,9 +819,9 @@
       "ID": "FLARE_KNIGHT_DEFEAT",
       "SetID": "cm0d613",
       "Name": "The Guardian of Fire",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "FLARE_KNIGHT_MASTER",
@@ -950,9 +955,9 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -1015,7 +1020,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 0
     }
   ],
@@ -1023,8 +1028,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:05:24.950996+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:06:35.9106737+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.7722761+00:00",
-  "LastUpdate_Ratings": "2023-12-13T22:02:41.7479878+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:05:24.9510323+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:02:38.5483328+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:06:35.9107188+00:00"
 }

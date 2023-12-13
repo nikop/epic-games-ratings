@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1600,
+  "EOS_Progressed": 1601,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3922,6 +3922,11 @@
       "Time": "2023-12-13T12:10:39.0925853+00:00",
       "NumProgressed": 1600,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T23:10:47.0191165+00:00",
+      "NumProgressed": 1601,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3949,7 +3954,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4099,9 +4104,9 @@
       "ID": "EXPERIENCED",
       "SetID": "9a4jnji",
       "Name": "Experienced",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 528
     },
     {
       "ID": "FIRESTARTER",
@@ -4117,7 +4122,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4165,7 +4170,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4181,7 +4186,7 @@
       "Name": "I am the law!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "INFILTRATOR",
@@ -4197,15 +4202,15 @@
       "Name": "Lumberjack",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "MIASMA_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Master Editor",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 96
     },
     {
       "ID": "NEWTONIAN_KNOCKOUT",
@@ -4235,9 +4240,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1233
     },
     {
       "ID": "RECYCLER",
@@ -4323,9 +4328,9 @@
       "ID": "THE_WATCHERS",
       "SetID": "9a4jnji",
       "Name": "The Watchers",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 352
     },
     {
       "ID": "WIPE_OUT",
@@ -4340,7 +4345,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1600,
+      "Progressed": 1601,
       "Completed": 0
     }
   ],
@@ -4348,8 +4353,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-10T19:02:39.9378585+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:10:01.627535+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:10:47.0191163+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:08.4828288+00:00",
-  "LastUpdate_Ratings": "2023-12-13T22:03:04.6505054+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:10:01.627586+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:03:14.319991+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:10:47.0191654+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1350,
+  "EOS_Progressed": 1351,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3193,6 +3193,11 @@
       "Time": "2023-12-13T20:10:18.679563+00:00",
       "NumProgressed": 1350,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T23:10:32.3891492+00:00",
+      "NumProgressed": 1351,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3260,7 +3265,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "EXPERT_1",
@@ -3292,7 +3297,7 @@
       "Name": "Grave Robber",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "HEAD_BURST_1",
@@ -3300,7 +3305,7 @@
       "Name": "Head Burst",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "INDY_1",
@@ -3362,9 +3367,9 @@
       "ID": "ONE_SHOT_ONE_KILL_1",
       "SetID": "bf13m8j",
       "Name": "One shot, one kill",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 378
     },
     {
       "ID": "PACIFIST",
@@ -3476,7 +3481,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "WISHMASTER_1",
@@ -3484,22 +3489,22 @@
       "Name": "Wishmaster",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1350,
+      "Progressed": 1351,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:09:51.1253146+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:10:32.3891486+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.8327471+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:58:20.4993892+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:09:51.1253539+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:58:50.6839199+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:10:32.3891808+00:00"
 }

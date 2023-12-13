@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4637,9 +4637,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77958,
+  "EOS_Progressed": 77961,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25862,6 +25862,11 @@
       "Time": "2023-12-13T22:03:53.9545573+00:00",
       "NumProgressed": 77958,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-13T23:04:27.454887+00:00",
+      "NumProgressed": 77961,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 61,
@@ -25969,7 +25974,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 12473
+      "UsersEstimate": 12474
     },
     {
       "ID": "CLAYFACE_1",
@@ -25977,7 +25982,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16371
+      "UsersEstimate": 16372
     },
     {
       "ID": "CLAYFACE_2",
@@ -25985,7 +25990,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 14032
+      "UsersEstimate": 14033
     },
     {
       "ID": "CLAYFACE_3",
@@ -25993,7 +25998,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10914
+      "UsersEstimate": 10915
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -26025,7 +26030,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 4677
+      "UsersEstimate": 4678
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -26073,7 +26078,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4677
+      "UsersEstimate": 4678
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -26097,7 +26102,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21828
+      "UsersEstimate": 21829
     },
     {
       "ID": "FREEZE_1_5",
@@ -26113,7 +26118,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14812
+      "UsersEstimate": 14813
     },
     {
       "ID": "FREEZE_3",
@@ -26121,7 +26126,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10914
+      "UsersEstimate": 10915
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -26177,7 +26182,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26506
+      "UsersEstimate": 26507
     },
     {
       "ID": "HARLEY_2",
@@ -26201,7 +26206,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12473
+      "UsersEstimate": 12474
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -26217,7 +26222,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38979
+      "UsersEstimate": 38980
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -26257,7 +26262,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4677
+      "UsersEstimate": 4678
     },
     {
       "ID": "MYSTERY_01",
@@ -26265,7 +26270,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25726
+      "UsersEstimate": 25727
     },
     {
       "ID": "MYSTERY_02",
@@ -26273,7 +26278,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18710
+      "UsersEstimate": 18711
     },
     {
       "ID": "MYSTERY_03",
@@ -26297,7 +26302,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 14032
+      "UsersEstimate": 14033
     },
     {
       "ID": "MYSTERY_06",
@@ -26313,7 +26318,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10914
+      "UsersEstimate": 10915
     },
     {
       "ID": "MYSTERY_08",
@@ -26329,7 +26334,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8575
+      "UsersEstimate": 8576
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -26360,13 +26365,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77958,
+      "Progressed": 77961,
       "Completed": 125
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48238,
+      "Progressed": 48241,
       "Completed": 2675
     }
   ],
@@ -26374,8 +26379,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-12T19:58:35.1362928+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:03:53.9545569+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:04:27.4548868+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:59:18.6016401+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:03:53.9548158+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:00:17.0860898+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:04:27.4550885+00:00"
 }

@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4008,
+  "EOS_Progressed": 4009,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8573,6 +8573,11 @@
       "Time": "2023-12-13T21:08:42.7719046+00:00",
       "NumProgressed": 4008,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-13T23:09:11.3703432+00:00",
+      "NumProgressed": 4009,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8584,7 +8589,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -8640,7 +8645,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -8728,7 +8733,7 @@
       "Name": "The Long Game",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -8752,7 +8757,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8792,7 +8797,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8808,7 +8813,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8816,7 +8821,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -8920,7 +8925,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8952,7 +8957,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9151,13 +9156,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3959,
+      "Progressed": 3960,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4008,
+      "Progressed": 4009,
       "Completed": 11
     }
   ],
@@ -9165,8 +9170,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:08:53.4512237+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:09:11.3703427+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.4789046+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:59:17.634485+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:08:53.4512988+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:00:15.6649138+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:09:11.3704295+00:00"
 }

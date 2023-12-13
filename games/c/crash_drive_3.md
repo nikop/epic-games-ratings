@@ -18,31 +18,31 @@
 | The Wild West | 22.00% | ~91 |
 | Bag of Tricks | 22.00% | ~91 |
 | You're it | 22.00% | ~91 |
-| First Come, First Serve | 21.00% | ~87 |
 | To and Fro | 21.00% | ~87 |
 | Goodbye cruel world | 21.00% | ~87 |
 | I see the light! | 21.00% | ~87 |
 | In the Bag! | 21.00% | ~87 |
 | Car-Tapult | 20.00% | ~83 |
+| First Come, First Serve | 20.00% | ~83 |
 | Disoriented | 20.00% | ~83 |
 | Anger Issues | 20.00% | ~83 |
 | Take that Frosty! | 20.00% | ~83 |
 | Beach Party! | 20.00% | ~83 |
 | Your Highness | 19.00% | ~79 |
 | Event Amateur | 18.00% | ~75 |
-| Feeling Hot Hot Hot! | 17.00% | ~70 |
-| Feeling Dizzy? | 17.00% | ~70 |
+| Feeling Hot Hot Hot! | 17.00% | ~71 |
+| Feeling Dizzy? | 17.00% | ~71 |
 | Drift King! | 16.00% | ~66 |
 | Ferry Good! | 16.00% | ~66 |
 | Assert Dominance | 16.00% | ~66 |
 | Speed of light | 16.00% | ~66 |
-| Out of this League | 14.00% | ~58 |
+| Out of this League | 13.00% | ~54 |
 | Special Forces | 12.00% | ~50 |
 | Blasting away! | 12.00% | ~50 |
 | Earth Defense Force | 11.00% | ~46 |
 | Toot Toot! | 11.00% | ~46 |
 | Rocketman | 11.00% | ~46 |
-| High Roller | 10.00% | ~41 |
+| High Roller | 10.00% | ~42 |
 | Event Pro | 9.00% | ~37 |
 | Space Crash | 7.00% | ~29 |
 | To war! | 6.00% | ~25 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 414 (Ranked 333)  
+Progressed: 415 (Ranked 333)  
 Completed: 2 (0.48%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 2 (0.48%) (Ranked 214)
 | 2023-11-26 | 411 | 2 |
 | 2023-12-06 | 412 | 2 |
 | 2023-12-09 | 413 | 2 |
-| 2023-12-13 | 414 | 2 |
+| 2023-12-13 | 415 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

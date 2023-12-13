@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -3084,9 +3084,9 @@
       "ID": "FREE_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Free Like Birds",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 130
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -3204,9 +3204,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 292
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3276,9 +3276,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 531
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3363,8 +3363,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:10:03.2563694+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:10:49.0318032+00:00",
   "LastUpdate_AppInfo": "2023-12-08T02:20:37.1231344+00:00",
-  "LastUpdate_Ratings": "2023-12-13T22:02:41.4334529+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:10:03.2564406+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:02:38.0558932+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:10:49.0318701+00:00"
 }

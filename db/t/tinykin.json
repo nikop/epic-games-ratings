@@ -4,7 +4,7 @@
   "ProductSlug": "tinykin-d1a022",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewPlayers": 470,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-08-30T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:42.0393411+00:00",
   "LastChanged": "2023-03-31T05:57:42.0393412+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:01.8638727+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:58:48.6420823+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:09:00.6895624+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:59:33.0923599+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:09:21.5892937+00:00"
 }

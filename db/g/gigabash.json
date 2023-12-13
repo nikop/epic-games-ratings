@@ -171,9 +171,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 73906,
+  "EOS_Progressed": 74092,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72707,
+  "EOS_NewPlayers": 72893,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -646,6 +646,11 @@
       "Time": "2023-12-13T22:05:39.9179251+00:00",
       "NumProgressed": 73906,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T23:06:57.441764+00:00",
+      "NumProgressed": 74092,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -728,9 +733,9 @@
       "ID": "ACH_GROWNUP",
       "SetID": "3k5ibhn",
       "Name": "All Grown Up!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -752,9 +757,9 @@
       "ID": "ACH_KONGKRETE",
       "SetID": "3k5ibhn",
       "Name": "I\u0027ve Had Enough!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -808,9 +813,9 @@
       "ID": "ACH_PIPIJURAS_STORY",
       "SetID": "3k5ibhn",
       "Name": "All For One and One For All",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -824,9 +829,9 @@
       "ID": "ACH_SEASONED_FIGHTER",
       "SetID": "3k5ibhn",
       "Name": "Seasoned Fighter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -880,9 +885,9 @@
       "ID": "ACH_THUNDATROSS_STORY",
       "SetID": "3k5ibhn",
       "Name": "A New Age",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -937,7 +942,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 73906,
+      "Progressed": 74092,
       "Completed": 0
     }
   ],
@@ -945,8 +950,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2023-12-13T04:01:04.0140462+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:05:39.9179248+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:06:57.4417633+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:41.917793+00:00",
-  "LastUpdate_Ratings": "2023-12-13T22:00:26.8259298+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:05:39.9179454+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:02:32.864708+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:06:57.4417843+00:00"
 }

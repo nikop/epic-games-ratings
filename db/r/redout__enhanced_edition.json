@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237125,
+  "EOS_Progressed": 237126,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
@@ -25207,6 +25207,11 @@
       "Time": "2023-12-13T22:04:22.8000532+00:00",
       "NumProgressed": 237125,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-13T23:05:07.0109569+00:00",
+      "NumProgressed": 237126,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -25266,7 +25271,7 @@
       "Name": "DRAGOON",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "ENLIGHTENED",
@@ -25290,7 +25295,7 @@
       "Name": "FLAWLESS",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "GILA",
@@ -25354,7 +25359,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78251
+      "UsersEstimate": 78252
     },
     {
       "ID": "NOBUNAGA",
@@ -25402,7 +25407,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4742
+      "UsersEstimate": 4743
     },
     {
       "ID": "QAREEN",
@@ -25418,7 +25423,7 @@
       "Name": "RESPWND",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4742
+      "UsersEstimate": 4743
     },
     {
       "ID": "SHINYSHINYGOLD",
@@ -25426,7 +25431,7 @@
       "Name": "SHINY SHINY GOLD",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4742
+      "UsersEstimate": 4743
     },
     {
       "ID": "SHOWOFF",
@@ -25482,22 +25487,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97221
+      "UsersEstimate": 97222
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237125,
+      "Progressed": 237126,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:04:22.8000529+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:05:07.0109566+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.1696277+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:59:16.6112328+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:04:22.8001642+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:00:14.1210591+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:05:07.0110918+00:00"
 }

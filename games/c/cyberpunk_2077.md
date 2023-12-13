@@ -6,21 +6,21 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,060 |
-| Gun Fu | 7.00% | ~68,285 |
-| Right Back At Ya | 6.00% | ~58,530 |
-| The Fool | 6.00% | ~58,530 |
-| The Lovers | 5.00% | ~48,775 |
-| Full Body Conversion | 4.00% | ~39,020 |
-| Stanislavski's Method | 4.00% | ~39,020 |
-| The Wheel of Fortune | 4.00% | ~39,020 |
-| True Soldier | 4.00% | ~39,020 |
-| All the President's Men | 4.00% | ~4,165 |
-| Christmas Tree Attack | 3.00% | ~29,265 |
-| The Hermit | 3.00% | ~29,265 |
-| The High Priestess | 3.00% | ~29,265 |
-| True Warrior | 3.00% | ~29,265 |
-| Legend of The Afterlife | 3.00% | ~29,265 |
+| V for Vendetta | 12.00% | ~117,062 |
+| Gun Fu | 7.00% | ~68,286 |
+| Right Back At Ya | 6.00% | ~58,531 |
+| The Fool | 6.00% | ~58,531 |
+| The Lovers | 5.00% | ~48,776 |
+| Full Body Conversion | 4.00% | ~39,021 |
+| Stanislavski's Method | 4.00% | ~39,021 |
+| The Wheel of Fortune | 4.00% | ~39,021 |
+| True Soldier | 4.00% | ~39,021 |
+| All the President's Men | 4.00% | ~4,166 |
+| Christmas Tree Attack | 3.00% | ~29,266 |
+| The Hermit | 3.00% | ~29,266 |
+| The High Priestess | 3.00% | ~29,266 |
+| True Warrior | 3.00% | ~29,266 |
+| Legend of The Afterlife | 3.00% | ~29,266 |
 | Relic Ruler | 3.00% | ~3,124 |
 | Arachnophobia | 3.00% | ~3,124 |
 | Bushido and Chill | 2.00% | ~19,510 |
@@ -49,7 +49,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Tower | 0.50% | ~521 |
 | Must Be Rats | 0.40% | ~3,902 |
 | Temperance | 0.40% | ~3,902 |
-| King of Pentacles | 0.40% | ~416 |
+| King of Pentacles | 0.40% | ~417 |
 | King of Cups | 0.30% | ~312 |
 | City Lights | 0.20% | ~1,951 |
 | Mean Streets | 0.20% | ~1,951 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,501 (Ranked 15)  
+Progressed: 975,519 (Ranked 15)  
 Completed: 2,900 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,10 +311,10 @@ Completed: 2,900 (0.30%) (Ranked 241)
 | 2023-12-10 | 974,184 | 2,882 |
 | 2023-12-11 | 974,702 | 2,886 |
 | 2023-12-12 | 975,121 | 2,891 |
-| 2023-12-13 | 975,501 | 2,900 |
+| 2023-12-13 | 975,519 | 2,900 |
 ## Awards
 Max (Character Customization): 122,342  (Ranked 9)  
-Sum: 415,864 (Ranked 9)  
+Sum: 416,033 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -324,7 +324,7 @@ Diff (max vs sum): 0
 | This game has Diverse Characters | 24,879 |
 | This game is Highly Recommended | 23,825 |
 | This game has Amazing Storytelling | 23,523 |
-| This game is Extremely Fun | 23,248 |
+| This game is Extremely Fun | 23,417 |
 | This game has Amazing Characters | 23,192 |
 | This game is Relaxing | 22,431 |
 | This game has Quickly Understood Controls | 22,265 |
@@ -660,4 +660,4 @@ Diff (max vs sum): 0
 | 2023-12-10 | 4.66 | - | 120,955 | 408,628 |
 | 2023-12-11 | 4.66 | - | 121,434 | 411,235 |
 | 2023-12-12 | 4.66 | - | 121,863 | 413,636 |
-| 2023-12-13 | 4.66 | - | 122,342 | 415,864 |
+| 2023-12-13 | 4.66 | - | 122,342 | 416,033 |

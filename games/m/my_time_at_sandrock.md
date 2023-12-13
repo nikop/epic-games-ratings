@@ -10,7 +10,7 @@ Number of Ratings: 892  (23.09.2022)
 | Iron Chef | 171.00% | ~918 |
 | Super Spelunker | 139.00% | ~746 |
 | Greeno-B-Gone | 132.00% | ~709 |
-| The Little Wood that Could | 120.00% | ~644 |
+| The Little Wood that Could | 121.00% | ~650 |
 | Your Especially Earned Trajectory | 109.00% | ~585 |
 | No Mountain Wide Enough | 88.00% | ~473 |
 | One of the Cool Kids | 88.00% | ~473 |
@@ -30,10 +30,10 @@ Number of Ratings: 892  (23.09.2022)
 | Got Served | 65.00% | ~349 |
 | Lifeline Pipeline | 64.00% | ~344 |
 | Anti-Santa | 63.00% | ~338 |
+| You Don't Win Friends With Salad | 63.00% | ~338 |
 | Waste Not Want Not | 63.00% | ~338 |
 | Panda-kin | 62.00% | ~333 |
 | Happier-est Place on Earth | 62.00% | ~333 |
-| You Don't Win Friends With Salad | 62.00% | ~333 |
 | Commissions, commissions...! | 61.00% | ~328 |
 | Martle's Dream | 61.00% | ~328 |
 | Finishing Touches | 58.00% | ~311 |
@@ -47,8 +47,8 @@ Number of Ratings: 892  (23.09.2022)
 | Got the Flow Back | 54.00% | ~290 |
 | Sepia Toned Memories | 53.00% | ~285 |
 | Time Flies | 48.00% | ~258 |
+| Jewel of the Eufaula | 48.00% | ~258 |
 | Who Ya Gonna Call...? | 48.00% | ~258 |
-| Jewel of the Eufaula | 47.00% | ~252 |
 | Kind of a Big Deal | 46.00% | ~247 |
 | My Time Mansion | 44.00% | ~236 |
 | Just What I Always Wanted! | 44.00% | ~236 |

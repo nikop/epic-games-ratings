@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2684,
+  "EOS_Progressed": 2685,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4209,6 +4209,11 @@
       "Time": "2023-12-13T22:04:17.098679+00:00",
       "NumProgressed": 2684,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-13T23:04:58.9329042+00:00",
+      "NumProgressed": 2685,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4284,7 +4289,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2577
+      "UsersEstimate": 2578
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4300,7 +4305,7 @@
       "Name": "Everfrost",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -4404,7 +4409,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -4476,7 +4481,7 @@
       "Name": "Glyndemere",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -4524,7 +4529,7 @@
       "Name": "You can pet the dog",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "STB_PET_HORSE",
@@ -4572,7 +4577,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -4588,7 +4593,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -4596,7 +4601,7 @@
       "Name": "The use of petricite",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -4643,7 +4648,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2684,
+      "Progressed": 2685,
       "Completed": 16
     }
   ],
@@ -4651,8 +4656,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-10T13:58:41.8193759+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:04:17.0986786+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:04:58.9329038+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:11.016025+00:00",
-  "LastUpdate_Ratings": "2023-12-13T22:00:25.3464545+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:04:17.0987287+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:02:30.0484711+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:04:58.9329601+00:00"
 }

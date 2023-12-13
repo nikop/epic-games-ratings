@@ -16269,9 +16269,9 @@
       "ID": "tpote_achievement_34",
       "SetID": "3jcf6c3",
       "Name": "A cry for help",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1362
     },
     {
       "ID": "tpote_achievement_35",
@@ -16389,8 +16389,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-13T16:01:07.6767372+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:05:43.6648751+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:07:02.7558198+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.5508408+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:59:53.5353751+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:05:43.6649622+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:01:11.7341473+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:07:02.7559009+00:00"
 }

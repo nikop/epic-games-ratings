@@ -4,7 +4,7 @@
   "ProductSlug": "booze-masters-freezing-moonshine-f0449d",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewPlayers": 470,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-13T15:00:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -32,7 +34,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-12-13T22:58:26.9708912+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.3064046+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:58:05.0236781+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:03:48.6859028+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:58:26.9708995+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:04:20.0877581+00:00"
 }

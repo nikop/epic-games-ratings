@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 414,
+  "EOS_Progressed": 415,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -634,6 +634,11 @@
       "Time": "2023-12-13T19:09:02.7742215+00:00",
       "NumProgressed": 414,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T23:08:41.0406828+00:00",
+      "NumProgressed": 415,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -701,7 +706,7 @@
       "Name": "High Roller",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -755,9 +760,9 @@
       "ID": "FIND_THE_GAP",
       "SetID": "20koof9",
       "Name": "First Come, First Serve",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 83
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -925,7 +930,7 @@
       "Name": "Feeling Hot Hot Hot!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -957,7 +962,7 @@
       "Name": "Feeling Dizzy?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "STUNT_EVENT",
@@ -971,9 +976,9 @@
       "ID": "STUNT_SCORE_DOUBLE",
       "SetID": "20koof9",
       "Name": "Out of this League",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 54
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -1084,7 +1089,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 414,
+      "Progressed": 415,
       "Completed": 2
     }
   ],
@@ -1092,8 +1097,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:08:33.2614773+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:08:41.0406824+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:14.6005473+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:59:21.0474411+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:08:33.2615122+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:00:20.9426348+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:08:41.0407266+00:00"
 }

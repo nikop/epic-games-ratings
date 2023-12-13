@@ -13,8 +13,8 @@ Number of Ratings: 292  (23.09.2022)
 | Dressed For Success | 10.00% | ~45 |
 | Humiliation | 8.00% | ~36 |
 | Sorcerous Spree | 7.00% | ~31 |
+| Multi Kill | 6.00% | ~27 |
 | Veni, Vidi, Vici | 6.00% | ~27 |
-| Multi Kill | 5.00% | ~22 |
 | Landlord Extraordinaire | 5.00% | ~22 |
 | Master | 5.00% | ~22 |
 | Whoops! | 4.00% | ~18 |
@@ -33,6 +33,7 @@ Number of Ratings: 292  (23.09.2022)
 | Ultra Kill | 0.90% | ~4 |
 | Unlimited Power! | 0.70% | ~3 |
 | Together For Her | 0.70% | ~3 |
+| Get Over Here! | 0.70% | ~3 |
 | Death To Diplomacy | 0.40% | ~2 |
 | Coming Through! | 0.40% | ~2 |
 | Barbecue | 0.40% | ~2 |
@@ -40,7 +41,6 @@ Number of Ratings: 292  (23.09.2022)
 | Oops! | 0.40% | ~2 |
 | From the Ashes | 0.40% | ~2 |
 | The Marsh Expands | 0.40% | ~2 |
-| Get Over Here! | 0.40% | ~2 |
 | Cleave | 0.40% | ~2 |
 | Bringer of Ruin | 0.20% | ~1 |
 | Attack Bonanza | 0.20% | ~1 |

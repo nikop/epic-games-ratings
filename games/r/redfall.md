@@ -5,8 +5,8 @@ Rating: 3.47 (Ranked 1,062)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 3.00% | ~53 |
-| Catch and Release | 3.00% | ~53 |
+| I Like My Stakes Rare! | 3.00% | ~54 |
+| Catch and Release | 3.00% | ~54 |
 | Home Is Where the Heart Is | 2.00% | ~36 |
 | Enter of Your Own Free Will | 2.00% | ~36 |
 | Blood Will Have Blood | 2.00% | ~36 |
@@ -35,11 +35,11 @@ Rating: 3.47 (Ranked 1,062)
 | Starve the Beast | 0.70% | ~12 |
 | Nice Try | 0.70% | ~12 |
 | Curious Finch | 0.70% | ~12 |
+| I Spit On Your Grave | 0.70% | ~12 |
 | Revelations | 0.60% | ~11 |
 | Block Party | 0.60% | ~11 |
 | You Clean It Up | 0.60% | ~11 |
 | Check, Please! | 0.60% | ~11 |
-| I Spit On Your Grave | 0.60% | ~11 |
 | Blacklight Down | 0.50% | ~9 |
 | Sisterhood | 0.40% | ~7 |
 | What Lies Below | 0.40% | ~7 |
@@ -72,7 +72,7 @@ Rating: 3.47 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,781 (Ranked 236)  
+Progressed: 1,784 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-11-27 | 1,774 | 0 |
 | 2023-12-01 | 1,775 | 0 |
 | 2023-12-02 | 1,776 | 0 |
-| 2023-12-13 | 1,781 | 0 |
+| 2023-12-13 | 1,784 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,19 +7,19 @@ Number of Ratings: 56  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | light attack | 96.00% | ~9,924 |
-| keep it tidy | 78.00% | ~8,063 |
+| keep it tidy | 78.00% | ~8,064 |
 | podium | 72.00% | ~7,443 |
-| medium attack | 60.00% | ~6,202 |
-| brail | 57.00% | ~5,892 |
-| good drivers have dead flies on the side windows | 44.00% | ~4,548 |
+| medium attack | 60.00% | ~6,203 |
+| brail | 57.00% | ~5,893 |
+| good drivers have dead flies on the side windows | 44.00% | ~4,549 |
 | grocery-getter | 40.00% | ~4,135 |
 | rwd only | 27.00% | ~2,791 |
 | food tour: pasta | 27.00% | ~2,791 |
 | to finish first, first you must finish | 22.00% | ~2,274 |
 | autopilot | 22.00% | ~2,274 |
 | you can't treat a car like a human being. a car requires love | 22.00% | ~2,274 |
-| turbo | 20.00% | ~2,067 |
-| food tour: pretzel | 20.00% | ~2,067 |
+| turbo | 20.00% | ~2,068 |
+| food tour: pretzel | 20.00% | ~2,068 |
 | bicycle race | 15.00% | ~1,551 |
 | car wash | 15.00% | ~1,551 |
 | the artist | 15.00% | ~1,551 |
@@ -42,7 +42,7 @@ Number of Ratings: 56  (23.09.2022)
 | in like a lamb, out like a lion | 6.00% | ~620 |
 | if in doubt, flat out! | 6.00% | ~620 |
 | group b | 5.00% | ~517 |
-| comfy seats | 4.00% | ~413 |
+| comfy seats | 4.00% | ~414 |
 | simulator | 3.00% | ~310 |
 | real roads, real fast | 3.00% | ~310 |
 | absolute drift | 0.90% | ~93 |
@@ -50,8 +50,8 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,337 (Ranked 166)  
-Completed: 10 (0.10%) (Ranked 294)  
+Progressed: 10,338 (Ranked 166)  
+Completed: 10 (0.10%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -217,6 +217,7 @@ Completed: 10 (0.10%) (Ranked 294)
 | 2023-12-07 | 10,334 | 10 |
 | 2023-12-10 | 10,336 | 10 |
 | 2023-12-11 | 10,337 | 10 |
+| 2023-12-13 | 10,338 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

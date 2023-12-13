@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Master trainee | 26.00% | ~12 |
-| Jung's dream | 22.00% | ~10 |
-| You have three wishes left | 22.00% | ~10 |
-| The battle of Great Britain | 20.00% | ~9 |
-| Pulp! Where Monsters Dwell | 20.00% | ~9 |
+| Jung's dream | 21.00% | ~10 |
+| You have three wishes left | 21.00% | ~10 |
+| The battle of Great Britain | 19.00% | ~9 |
+| Pulp! Where Monsters Dwell | 19.00% | ~9 |
 | A continent with chemistry | 17.00% | ~8 |
 | The seer | 15.00% | ~7 |
 | The happy farmer girl | 15.00% | ~7 |
@@ -23,15 +23,15 @@
 | You have two wishes left | 11.00% | ~5 |
 | You had one wish left | 9.00% | ~4 |
 | Kirlian's best disciple | 9.00% | ~4 |
-| You've awakened the beast | 7.00% | ~3 |
-| Hate is... addictive | 7.00% | ~3 |
-| Bread and bocaua | 7.00% | ~3 |
-| Fanatacism is... poisonous | 7.00% | ~3 |
-| Et in arcadia ego | 7.00% | ~3 |
-| The bully | 7.00% | ~3 |
-| The adventurer | 7.00% | ~3 |
-| ECO mode | 7.00% | ~3 |
-| Welcome to Hellville | 7.00% | ~3 |
+| You've awakened the beast | 6.00% | ~3 |
+| Hate is... addictive | 6.00% | ~3 |
+| Bread and bocaua | 6.00% | ~3 |
+| Fanatacism is... poisonous | 6.00% | ~3 |
+| Et in arcadia ego | 6.00% | ~3 |
+| The bully | 6.00% | ~3 |
+| The adventurer | 6.00% | ~3 |
+| ECO mode | 6.00% | ~3 |
+| Welcome to Hellville | 6.00% | ~3 |
 | Blood Red Island | 4.00% | ~2 |
 | The scholar | 4.00% | ~2 |
 | Pulp! The Beyond | 4.00% | ~2 |
@@ -52,7 +52,7 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 515)  
+Progressed: 47 (Ranked 514)  
 Completed: 0 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,3 +83,4 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-11-26 | 44 | 0 |
 | 2023-11-29 | 45 | 0 |
 | 2023-12-04 | 46 | 0 |
+| 2023-12-13 | 47 | 0 |

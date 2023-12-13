@@ -8725,9 +8725,9 @@
       "Count": 3566
     }
   ],
-  "EOS_Progressed": 239817,
+  "EOS_Progressed": 239847,
   "EOS_Completed": 2519,
-  "EOS_NewPlayers": 1154,
+  "EOS_NewPlayers": 1181,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35475,6 +35475,11 @@
       "Time": "2023-12-13T22:10:05.7764914+00:00",
       "NumProgressed": 239817,
       "NumCompleted": 2519
+    },
+    {
+      "Time": "2023-12-13T23:10:51.2742069+00:00",
+      "NumProgressed": 239847,
+      "NumCompleted": 2519
     }
   ],
   "TotalAchievements": 546,
@@ -35588,9 +35593,9 @@
       "ID": "objective_completed_1055",
       "SetID": "415jc5c",
       "Name": "The Witchlight Carnival",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1056",
@@ -35668,9 +35673,9 @@
       "ID": "objective_completed_1067",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Blast the Brigands",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1068",
@@ -35820,9 +35825,9 @@
       "ID": "objective_completed_1093",
       "SetID": "415jc5c",
       "Name": "A Steadfast Love",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1095",
@@ -35980,9 +35985,9 @@
       "ID": "objective_completed_1126",
       "SetID": "415jc5c",
       "Name": "The Demon Lords of the Abyss",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1127",
@@ -36108,9 +36113,9 @@
       "ID": "objective_completed_1152",
       "SetID": "415jc5c",
       "Name": "Seeds of Destruction",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1153",
@@ -36156,9 +36161,9 @@
       "ID": "objective_completed_1160",
       "SetID": "415jc5c",
       "Name": "Best Thay Ever",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1163",
@@ -36244,9 +36249,9 @@
       "ID": "objective_completed_1178",
       "SetID": "415jc5c",
       "Name": "Heatwave",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1179",
@@ -36324,9 +36329,9 @@
       "ID": "objective_completed_1194",
       "SetID": "415jc5c",
       "Name": "Kas the Bloody Handed",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1198",
@@ -36508,9 +36513,9 @@
       "ID": "objective_completed_1330",
       "SetID": "415jc5c",
       "Name": "Love Unsoiled",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1331",
@@ -36532,9 +36537,9 @@
       "ID": "objective_completed_1336",
       "SetID": "415jc5c",
       "Name": "A Nimble Approach",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1340",
@@ -36580,9 +36585,9 @@
       "ID": "objective_completed_1351",
       "SetID": "415jc5c",
       "Name": "Welcome to the Band",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_14",
@@ -38588,9 +38593,9 @@
       "ID": "objective_completed_693",
       "SetID": "415jc5c",
       "Name": "Power of Three",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_695",
@@ -38620,9 +38625,9 @@
       "ID": "objective_completed_698",
       "SetID": "415jc5c",
       "Name": "Only Human",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_7",
@@ -38900,9 +38905,9 @@
       "ID": "objective_completed_835",
       "SetID": "415jc5c",
       "Name": "It\u0027s Cold Out There Every Day",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_837",
@@ -39564,9 +39569,9 @@
       "ID": "objective_completed_1391",
       "SetID": "415jc5c",
       "Name": "Krux\u0027s Speed Run",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1392",
@@ -39596,9 +39601,9 @@
       "ID": "objective_completed_1400",
       "SetID": "415jc5c",
       "Name": "To Infinity\u0027s and Beyond",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1401",
@@ -39612,9 +39617,9 @@
       "ID": "objective_completed_1365",
       "SetID": "415jc5c",
       "Name": "Legends and Lore",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1366",
@@ -39644,9 +39649,9 @@
       "ID": "objective_completed_1405",
       "SetID": "415jc5c",
       "Name": "The Jungles of Doomspace",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1406",
@@ -39660,9 +39665,9 @@
       "ID": "objective_completed_1410",
       "SetID": "415jc5c",
       "Name": "The Arena of Blood",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1411",
@@ -39708,9 +39713,9 @@
       "ID": "objective_completed_1547",
       "SetID": "415jc5c",
       "Name": "The Beginning is the End",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1548",
@@ -39772,9 +39777,9 @@
       "ID": "objective_completed_1557",
       "SetID": "415jc5c",
       "Name": "Welcome to Sigil",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 412
     },
     {
       "ID": "objective_completed_1558",
@@ -39853,21 +39858,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206091,
+      "Progressed": 206121,
       "Completed": 3965
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 239817,
+      "Progressed": 239847,
       "Completed": 2519
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-13T21:57:20.734573+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:10:05.776491+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:10:51.2742066+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:57:20.7345736+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:10:05.7788736+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:57:21.3285129+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:10:51.2765205+00:00"
 }

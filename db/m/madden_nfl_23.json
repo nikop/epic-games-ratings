@@ -919,7 +919,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3963,
+  "EOS_Progressed": 3964,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
@@ -7029,6 +7029,11 @@
       "Time": "2023-12-13T22:04:59.292409+00:00",
       "NumProgressed": 3963,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T23:05:59.3551025+00:00",
+      "NumProgressed": 3964,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7065,7 +7070,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "achievement_13",
@@ -7073,7 +7078,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "achievement_14",
@@ -7089,7 +7094,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2140
+      "UsersEstimate": 2141
     },
     {
       "ID": "achievement_16",
@@ -7153,7 +7158,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "achievement_4",
@@ -7208,7 +7213,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3963,
+      "Progressed": 3964,
       "Completed": 0
     }
   ],
@@ -7216,8 +7221,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-12T01:51:23.6885803+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:04:59.2924088+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:05:59.3551022+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:06.4979086+00:00",
-  "LastUpdate_Ratings": "2023-12-13T22:03:02.4416007+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:04:59.2924448+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:03:10.8647323+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:05:59.3551391+00:00"
 }

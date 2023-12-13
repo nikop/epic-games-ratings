@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8253,9 +8253,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 718100,
+  "EOS_Progressed": 718112,
   "EOS_Completed": 12953,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -29238,6 +29238,11 @@
       "Time": "2023-12-13T22:08:41.4130461+00:00",
       "NumProgressed": 718100,
       "NumCompleted": 12953
+    },
+    {
+      "Time": "2023-12-13T23:08:54.2832787+00:00",
+      "NumProgressed": 718112,
+      "NumCompleted": 12953
     }
   ],
   "TotalAchievements": 60,
@@ -29337,7 +29342,7 @@
       "Name": "Scareless",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3590
+      "UsersEstimate": 3591
     },
     {
       "ID": "13_LowAge",
@@ -29521,7 +29526,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3590
+      "UsersEstimate": 3591
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -29728,21 +29733,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 27401,
+      "Progressed": 27413,
       "Completed": 10769
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 718100,
+      "Progressed": 718112,
       "Completed": 12953
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-13T20:03:15.2119501+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:08:41.4130459+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:08:54.2832781+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.3418066+00:00",
-  "LastUpdate_Ratings": "2023-12-13T22:03:00.5286181+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:08:41.4131995+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:03:07.935337+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:08:54.2834137+00:00"
 }

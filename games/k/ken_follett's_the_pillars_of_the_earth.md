@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The truth revealed | 9.00% | ~1,532 |
 | The End. | 9.00% | ~1,532 |
 | Nothing but make-believe | 8.00% | ~1,362 |
-| A cry for help | 7.00% | ~1,191 |
+| A cry for help | 8.00% | ~1,362 |
 | Silentium est aureum | 7.00% | ~1,191 |
 | Rebel without a cause | 6.00% | ~1,021 |
 | Staring contest champion | 5.00% | ~851 |

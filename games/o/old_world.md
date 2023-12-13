@@ -169,6 +169,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greater Kmt Unified | 0.50% | ~79 |
 | Silver Victory (Carthage 1) | 0.40% | ~63 |
 | Carthage - Riches and Influence | 0.40% | ~63 |
+| Holy | 0.40% | ~63 |
 | Five Routs | 0.40% | ~63 |
 | Run, Pheidippides, Run! | 0.40% | ~63 |
 | Nenikekamen | 0.40% | ~63 |
@@ -180,7 +181,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 1) | 0.30% | ~47 |
 | Bronze Victory (Carthage 2) | 0.30% | ~47 |
 | Cleopatra's Love | 0.30% | ~47 |
-| Holy | 0.30% | ~47 |
 | Great Difficulty | 0.30% | ~47 |
 | Event Level High | 0.30% | ~47 |
 | A Good Start | 0.30% | ~47 |

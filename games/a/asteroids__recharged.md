@@ -21,7 +21,7 @@
 | Cool Cat | 3.00% | ~3 |
 | Good Company | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 432)  
+Progressed: 114 (Ranked 433)  
 Completed: 1 (0.88%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |

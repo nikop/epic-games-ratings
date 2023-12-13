@@ -4,7 +4,7 @@
   "ProductSlug": "skeletal-avengers-af85a4",
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewPlayers": 470,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
@@ -253,9 +253,9 @@
       "ID": "BABY_STEPS",
       "SetID": "63n2m0e",
       "Name": "Baby Steps",
-      "Percentage": 87,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "COINS",
@@ -428,8 +428,8 @@
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:09:15.9007745+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:09:42.8543319+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.7782616+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:58:18.0231701+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:09:15.9007905+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:58:46.7890938+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:09:42.854346+00:00"
 }

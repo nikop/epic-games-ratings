@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24681,
+  "EOS_Progressed": 24682,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7444,6 +7444,11 @@
       "Time": "2023-12-13T21:04:38.0165662+00:00",
       "NumProgressed": 24681,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-13T23:05:24.5231229+00:00",
+      "NumProgressed": 24682,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -7799,20 +7804,20 @@
       "Name": "Bathe With A Giant Nude Alien",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24681,
+      "Progressed": 24682,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1974,
+      "Progressed": 1975,
       "Completed": 1376
     }
   ],
@@ -7820,8 +7825,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-09T22:00:53.8203021+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:04:35.2214472+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:05:24.5231226+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:15.2959428+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:58:15.1236106+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:04:35.2215092+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:58:42.1321789+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:05:24.5231871+00:00"
 }

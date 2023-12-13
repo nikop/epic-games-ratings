@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9660,9 +9660,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126680,
+  "EOS_Progressed": 126690,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 977,
+  "EOS_NewPlayers": 986,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34880,6 +34880,11 @@
       "Time": "2023-12-13T22:09:04.2001637+00:00",
       "NumProgressed": 126680,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-13T23:09:26.4235667+00:00",
+      "NumProgressed": 126690,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -34899,7 +34904,7 @@
       "Name": "Serenity Now!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -35033,9 +35038,9 @@
       "ID": "combat_kill_cosmic",
       "SetID": "64l4lke",
       "Name": "Banishment",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 760
     },
     {
       "ID": "combat_kill_death",
@@ -35105,9 +35110,9 @@
       "ID": "combat_kill_leviathan",
       "SetID": "64l4lke",
       "Name": "Catch and Decease",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 2534
     },
     {
       "ID": "combat_kill_librarian",
@@ -35187,7 +35192,7 @@
       "Name": "Rush Hour",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35211,7 +35216,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "driving_distance_easy",
@@ -35297,9 +35302,9 @@
       "ID": "inn_replacement_hero_add",
       "SetID": "64l4lke",
       "Name": "FNG",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 1014
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35427,7 +35432,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "combat_kill_collector",
@@ -35522,21 +35527,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126680,
+      "Progressed": 126690,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1549,
+      "Progressed": 1559,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-13T19:00:51.3220569+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:09:04.2001631+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:09:26.4235663+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:59:31.5692419+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:09:04.2003575+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:00:37.6266839+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:09:26.4237389+00:00"
 }

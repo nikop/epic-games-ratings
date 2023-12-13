@@ -5,9 +5,9 @@
   "Ranking_Rating": 25,
   "Ranking_Popularity": 562,
   "Ranking_PopularitySum": 562,
-  "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_Progress": 275,
+  "Ranking_EOS_Completed": 293,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,11 +216,11 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 951,
+  "EOS_Progressed": 954,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.11,
+  "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
       "Time": "2023-11-08T08:07:23.567232+00:00",
@@ -2416,6 +2416,11 @@
       "Time": "2023-12-13T21:05:40.1215121+00:00",
       "NumProgressed": 951,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T23:06:50.3255543+00:00",
+      "NumProgressed": 954,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2436,7 +2441,7 @@
       "Name": "Ab Initio",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "AnthropicHills",
@@ -2506,9 +2511,9 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 57
     },
     {
       "ID": "DesolateIsland",
@@ -2524,7 +2529,7 @@
       "Name": "Discovery",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "EasternWetlands",
@@ -2612,7 +2617,7 @@
       "Name": "Lord of the Files",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "LostMarshes",
@@ -2652,7 +2657,7 @@
       "Name": "Museum Visitor",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "NewBeginning",
@@ -2682,9 +2687,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 191
     },
     {
       "ID": "Persistent",
@@ -2772,7 +2777,7 @@
       "Name": "Team Spirit",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "TextAdventurer",
@@ -2820,7 +2825,7 @@
       "Name": "The Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "TheThiefOfFire",
@@ -2836,7 +2841,7 @@
       "Name": "The Word Endures",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "TouchGrass",
@@ -2899,7 +2904,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 951,
+      "Progressed": 954,
       "Completed": 1
     }
   ],
@@ -2907,8 +2912,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:05:35.0623315+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:06:50.3255538+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:59:39.3184288+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:05:35.0623752+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:00:49.9823119+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:06:50.325604+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "silent-hunter-3",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewPlayers": 470,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-13T15:30:00+00:00",
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-16T18:58:43.0935666+00:00",
   "LastUpdate_AppInfo": "2023-12-08T20:56:55.8748046+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:58:23.5976303+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:09:24.1397675+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:58:55.3061025+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:09:54.1629282+00:00"
 }

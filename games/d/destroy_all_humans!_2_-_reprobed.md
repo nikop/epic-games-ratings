@@ -6,28 +6,28 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 47.00% | ~21 |
+| Mash Machine | 49.00% | ~22 |
 | Rock of the Bay | 47.00% | ~21 |
-| Ducks in a Row, Fish in a Barrel | 31.00% | ~14 |
+| Ducks in a Row, Fish in a Barrel | 33.00% | ~15 |
 | Furon Fashion | 27.00% | ~12 |
 | Shop Til They Drop | 27.00% | ~12 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~9 |
 | Earthly Pleasures | 18.00% | ~8 |
 | Upgreatest | 18.00% | ~8 |
 | Pimp My Raid | 16.00% | ~7 |
+| Perfect Probulator | 11.00% | ~5 |
 | Cult Following | 11.00% | ~5 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~5 |
-| Perfect Probulator | 9.00% | ~4 |
 | Lie Back and Think of Albion | 9.00% | ~4 |
 | Fly Me to the Moon Base | 9.00% | ~4 |
 | Bodied Sattva | 9.00% | ~4 |
+| Dusted | 9.00% | ~4 |
 | Transmitting From Sol-3 | 7.00% | ~3 |
+| Freshly Squeezed | 7.00% | ~3 |
 | Die Nasty | 7.00% | ~3 |
 | Scuttled | 7.00% | ~3 |
-| Dusted | 7.00% | ~3 |
 | Kaijuiced | 4.00% | ~2 |
 | Lobster Blisque | 4.00% | ~2 |
-| Freshly Squeezed | 4.00% | ~2 |
 | Arty Facts | 2.00% | ~1 |
 | Forbidden Donut | 2.00% | ~1 |
 | Deincarnated | 2.00% | ~1 |

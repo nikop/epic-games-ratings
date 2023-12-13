@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~51,667 |
-| Worth it | 63.00% | ~41,731 |
-| Eagle Eye | 55.00% | ~36,432 |
-| Corpseman I | 40.00% | ~26,496 |
-| Blast fishing | 37.00% | ~24,509 |
-| Not alone | 32.00% | ~21,197 |
-| Headhunter I | 26.00% | ~17,222 |
-| Manual Labour I | 25.00% | ~16,560 |
-| Developers, Developers, Developers | 24.00% | ~15,898 |
-| Basic Training | 24.00% | ~15,898 |
-| Furchtlos und Treu | 13.00% | ~8,611 |
+| Setting an example | 78.00% | ~51,671 |
+| Worth it | 63.00% | ~41,734 |
+| Eagle Eye | 55.00% | ~36,435 |
+| Corpseman I | 40.00% | ~26,498 |
+| Blast fishing | 37.00% | ~24,511 |
+| Not alone | 32.00% | ~21,198 |
+| Headhunter I | 26.00% | ~17,224 |
+| Manual Labour I | 25.00% | ~16,561 |
+| Developers, Developers, Developers | 24.00% | ~15,899 |
+| Basic Training | 24.00% | ~15,899 |
+| Furchtlos und Treu | 13.00% | ~8,612 |
 | Gott Mit Uns | 12.00% | ~7,949 |
 | This We'll Defend! | 9.00% | ~5,962 |
 | Anker wirf! | 9.00% | ~5,962 |
 | Providentiea Memor | 9.00% | ~5,962 |
 | For King and Country | 9.00% | ~5,962 |
-| Battle hardened | 8.00% | ~5,299 |
+| Battle hardened | 8.00% | ~5,300 |
 | Semper Fidelis! | 7.00% | ~4,637 |
 | Honneur et Patrie | 7.00% | ~4,637 |
 | In Treue Fest | 5.00% | ~3,312 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~66 |
 | Blood Brother | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,240 (Ranked 108)  
+Progressed: 66,245 (Ranked 108)  
 Completed: 4 (0.01%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,10 +303,10 @@ Completed: 4 (0.01%) (Ranked 350)
 | 2023-12-10 | 66,035 | 4 |
 | 2023-12-11 | 66,103 | 4 |
 | 2023-12-12 | 66,175 | 4 |
-| 2023-12-13 | 66,240 | 4 |
+| 2023-12-13 | 66,245 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 360)  
-Sum: 819 (Ranked 282)  
+Sum: 820 (Ranked 282)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
@@ -317,8 +317,8 @@ Diff (max vs sum): 78
 | This game has Quickly Understood Controls | 90 |
 | This game has Amazing Characters | 78 |
 | This game has Competitive Players | 76 |
+| This game is Relaxing | 76 |
 | This game is Educational | 76 |
-| This game is Relaxing | 75 |
 | This game has Realistic Visuals | 75 |
 | This game has a Competitive Community | 72 |
 | This game has Amazing Storytelling | 61 |
@@ -480,3 +480,4 @@ Diff (max vs sum): 78
 | 2023-12-03 | 4.53 | - | 104 | 816 |
 | 2023-12-09 | 4.53 | - | 105 | 817 |
 | 2023-12-12 | 4.53 | - | 105 | 819 |
+| 2023-12-13 | 4.53 | - | 105 | 820 |

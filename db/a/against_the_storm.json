@@ -3431,9 +3431,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18042,
+  "EOS_Progressed": 18048,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": -8,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15601,6 +15601,11 @@
       "Time": "2023-12-13T22:03:22.2606854+00:00",
       "NumProgressed": 18042,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-13T23:03:42.8377638+00:00",
+      "NumProgressed": 18048,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15819,9 +15824,9 @@
       "ID": "WinNearMonastery",
       "SetID": "cfbk359",
       "Name": "Monastery of the Holy Flame",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 144
     },
     {
       "ID": "WinNearOutpost",
@@ -15859,9 +15864,9 @@
       "ID": "WinNearTorrent",
       "SetID": "cfbk359",
       "Name": "Corrosive Torrent",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 126
     },
     {
       "ID": "WinNearWatchtower",
@@ -16084,15 +16089,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18042,
+      "Progressed": 18048,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-13T10:59:18.3182302+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:03:22.2606851+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:03:42.8377634+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:59:27.3005552+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:03:22.2608551+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:00:31.2186239+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:03:42.83788+00:00"
 }

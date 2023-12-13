@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 878,
+  "EOS_Progressed": 880,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1972,6 +1972,11 @@
       "Time": "2023-12-13T21:06:20.6321265+00:00",
       "NumProgressed": 878,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T23:07:46.3485286+00:00",
+      "NumProgressed": 880,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2038,9 +2043,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 678
     },
     {
       "ID": "CompleteChapter10",
@@ -2056,7 +2061,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "CompleteChapter12",
@@ -2104,7 +2109,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -2120,7 +2125,7 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "CompleteChapter2",
@@ -2128,15 +2133,15 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 352
     },
     {
       "ID": "CompleteChapter4",
@@ -2152,7 +2157,7 @@
       "Name": "Breathing Easy",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "CompleteChapter6",
@@ -2160,7 +2165,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "CompleteChapter7",
@@ -2174,9 +2179,9 @@
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 141
     },
     {
       "ID": "CompleteChapter9",
@@ -2279,14 +2284,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 878,
+      "Progressed": 880,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-13T22:06:13.9195853+00:00",
+  "LastChanged_Achievements": "2023-12-13T23:07:46.3485279+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:56:58.482812+00:00",
-  "LastUpdate_Ratings": "2023-12-13T21:57:29.2877935+00:00",
-  "LastUpdate_Achievements": "2023-12-13T22:06:13.919614+00:00"
+  "LastUpdate_Ratings": "2023-12-13T22:57:34.377796+00:00",
+  "LastUpdate_Achievements": "2023-12-13T23:07:46.3485633+00:00"
 }

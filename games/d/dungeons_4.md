@@ -28,8 +28,8 @@
 | The Cathedral of Light | 48.00% | ~262 |
 | Shame! Shame! Shame! | 47.00% | ~256 |
 | Pure Dynamite! | 46.00% | ~251 |
+| Dungeonlord Gorgu | 46.00% | ~251 |
 | Tanos' Crusade Against Thalya | 46.00% | ~251 |
-| Dungeonlord Gorgu | 45.00% | ~245 |
 | Mana Cannon | 42.00% | ~229 |
 | All’s Well That Ends Evil | 39.00% | ~213 |
 | The Duel | 36.00% | ~196 |
@@ -60,7 +60,7 @@
 | Mirror, Mirror | 14.00% | ~76 |
 | Untouchable | 14.00% | ~76 |
 | Heal Heal Blessing | 13.00% | ~71 |
-| Laser Eyes Are So Useless | 11.00% | ~60 |
+| Laser Eyes Are So Useless | 12.00% | ~65 |
 | Hands Off My Stones | 11.00% | ~60 |
 | Gorgu is in the Best of Health | 10.00% | ~54 |
 | No Mana, No Cry | 9.00% | ~49 |

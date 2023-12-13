@@ -5,14 +5,14 @@ Rating: 4.35 (Ranked 800)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 90.00% | ~403 |
-| Luc Piette | 77.00% | ~345 |
+| It Wasn’t a Burglary | 89.00% | ~400 |
+| Luc Piette | 77.00% | ~346 |
 | Angeline Van den Bosch | 74.00% | ~332 |
-| Elizabeth Padget | 71.00% | ~318 |
-| Little Grey Cells | 69.00% | ~309 |
-| The Bracelet | 67.00% | ~300 |
-| The Blackmail | 55.00% | ~246 |
-| Major Felix Hagen | 55.00% | ~246 |
+| Elizabeth Padget | 71.00% | ~319 |
+| Little Grey Cells | 69.00% | ~310 |
+| The Bracelet | 66.00% | ~296 |
+| The Blackmail | 55.00% | ~247 |
+| Major Felix Hagen | 55.00% | ~247 |
 | Fine-toothed Comb | 54.00% | ~242 |
 | Florette Duval | 54.00% | ~242 |
 | Order and Method | 52.00% | ~233 |
@@ -21,25 +21,25 @@ Rating: 4.35 (Ranked 800)
 | The Major | 47.00% | ~211 |
 | Curious and Beautiful | 45.00% | ~202 |
 | Comtesse Margaux de Vos | 45.00% | ~202 |
-| Jacqueline “Jackie” Conrad | 44.00% | ~197 |
-| The Interrogations | 44.00% | ~197 |
-| Well-acquainted | 42.00% | ~188 |
+| Jacqueline “Jackie” Conrad | 44.00% | ~198 |
+| The Interrogations | 44.00% | ~198 |
+| Well-acquainted | 42.00% | ~189 |
 | Zakariya Demir | 41.00% | ~184 |
 | Well-read | 39.00% | ~175 |
-| Cassandra Van den Bosch | 38.00% | ~170 |
+| Cassandra Van den Bosch | 38.00% | ~171 |
 | The Secret | 37.00% | ~166 |
 | Gedeon Demir | 35.00% | ~157 |
-| Rehana Piette | 34.00% | ~152 |
+| Rehana Piette | 34.00% | ~153 |
 | Instinct is Marvellous | 33.00% | ~148 |
 | Ernesto da Silva | 33.00% | ~148 |
 | Inge Frank | 31.00% | ~139 |
 | The Search | 31.00% | ~139 |
-| Hugo Beckers | 30.00% | ~134 |
-| The Family | 28.00% | ~125 |
+| Hugo Beckers | 30.00% | ~135 |
+| The Family | 28.00% | ~126 |
 | Well-travelled | 27.00% | ~121 |
 | Thinking of Everything | 27.00% | ~121 |
-| Archibald Sterling | 26.00% | ~116 |
-| Viscount Edwin Van den Bosch | 26.00% | ~116 |
+| Archibald Sterling | 26.00% | ~117 |
+| Viscount Edwin Van den Bosch | 26.00% | ~117 |
 | Exquisite Artwork | 25.00% | ~112 |
 | Well-prepared | 21.00% | ~94 |
 | The Truth | 21.00% | ~94 |
@@ -52,7 +52,7 @@ Rating: 4.35 (Ranked 800)
 | Room with a View | 7.00% | ~31 |
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448 (Ranked 326)  
+Progressed: 449 (Ranked 326)  
 Completed: 6 (1.34%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 6 (1.34%) (Ranked 149)
 | 2023-11-04 | 445 | 6 |
 | 2023-11-19 | 446 | 6 |
 | 2023-11-29 | 447 | 6 |
-| 2023-12-13 | 448 | 6 |
+| 2023-12-13 | 449 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
