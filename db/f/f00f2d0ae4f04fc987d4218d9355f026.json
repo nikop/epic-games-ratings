@@ -2,7 +2,7 @@
   "ID": "f00f2d0ae4f04fc987d4218d9355f026",
   "Name": "Bio Inc. Redemption",
   "ProductSlug": "bio-inc-redemption-280fe5",
-  "Ranking_EOS_Progress": 640,
+  "Ranking_EOS_Progress": 641,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 125,
@@ -201,9 +201,9 @@
       "ID": "MedStudent",
       "SetID": "aaidab7",
       "Name": "Medical Student",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MuscularCollapse",
@@ -319,8 +319,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2023-12-13T00:03:28.2574532+00:00",
+  "LastChanged_Achievements": "2023-12-13T01:51:46.7936213+00:00",
   "LastUpdate_AppInfo": "2023-12-12T03:57:09.7303206+00:00",
-  "LastUpdate_Ratings": "2023-12-12T23:57:29.4188462+00:00",
-  "LastUpdate_Achievements": "2023-12-13T00:03:28.2574674+00:00"
+  "LastUpdate_Ratings": "2023-12-13T01:45:38.4501234+00:00",
+  "LastUpdate_Achievements": "2023-12-13T01:51:46.7936389+00:00"
 }

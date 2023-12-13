@@ -1503,9 +1503,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242498,
+  "EOS_Progressed": 242500,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1034,
+  "EOS_NewPlayers": 1028,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22063,6 +22063,11 @@
       "Time": "2023-12-13T00:09:25.2103718+00:00",
       "NumProgressed": 242498,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-13T01:57:43.3862966+00:00",
+      "NumProgressed": 242500,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -22210,7 +22215,7 @@
       "Name": "The number of the counting shalt be 7",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "CompanionPaladine",
@@ -22522,7 +22527,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87299
+      "UsersEstimate": 87300
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -22650,7 +22655,7 @@
       "Name": "Inception",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "PriestessEpic",
@@ -22682,7 +22687,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "QuestPriestess",
@@ -22777,21 +22782,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 242498,
+      "Progressed": 242500,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 242498,
+      "Progressed": 242500,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-12T21:57:44.3633431+00:00",
-  "LastChanged_Achievements": "2023-12-13T00:09:25.2103715+00:00",
+  "LastChanged_Achievements": "2023-12-13T01:57:43.3862964+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.1177484+00:00",
-  "LastUpdate_Ratings": "2023-12-12T23:57:38.0182881+00:00",
-  "LastUpdate_Achievements": "2023-12-13T00:09:25.2105833+00:00"
+  "LastUpdate_Ratings": "2023-12-13T01:45:46.4584997+00:00",
+  "LastUpdate_Achievements": "2023-12-13T01:57:43.3864703+00:00"
 }

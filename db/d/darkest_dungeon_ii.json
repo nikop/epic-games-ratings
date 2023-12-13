@@ -9618,9 +9618,9 @@
       "Count": 998
     }
   ],
-  "EOS_Progressed": 126483,
+  "EOS_Progressed": 126497,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 851,
+  "EOS_NewPlayers": 863,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34728,6 +34728,11 @@
       "Time": "2023-12-13T00:08:47.0956706+00:00",
       "NumProgressed": 126483,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-13T01:57:06.2686945+00:00",
+      "NumProgressed": 126497,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 79,
@@ -34753,9 +34758,9 @@
       "ID": "altar_of_hope_memory_equip_first_time",
       "SetID": "64l4lke",
       "Name": "It Rings a Bell",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 632
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -34817,9 +34822,9 @@
       "ID": "altar_of_hope_unlock_hero_vestal",
       "SetID": "64l4lke",
       "Name": "Unfulfilled Desires",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -34841,9 +34846,9 @@
       "ID": "altar_of_hope_upgrade_total_quarter",
       "SetID": "64l4lke",
       "Name": "Hope Rekindled",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 379
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -35033,9 +35038,9 @@
       "ID": "driving_biome_clear_city",
       "SetID": "64l4lke",
       "Name": "Rush Hour",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 759
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35057,17 +35062,17 @@
       "ID": "driving_biome_clear_forest",
       "SetID": "64l4lke",
       "Name": "To Grandmother\u0027s House",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 759
     },
     {
       "ID": "driving_distance_easy",
       "SetID": "64l4lke",
       "Name": "Ramble On",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 506
     },
     {
       "ID": "driving_distance_hard",
@@ -35153,9 +35158,9 @@
       "ID": "inn_visit_all_variants",
       "SetID": "64l4lke",
       "Name": "Worldly Traveller",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 253
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -35185,9 +35190,9 @@
       "ID": "run_end_abandon",
       "SetID": "64l4lke",
       "Name": "Nope",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 632
     },
     {
       "ID": "run_victory_act01",
@@ -35275,7 +35280,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "combat_kill_collector",
@@ -35321,9 +35326,9 @@
       "ID": "hero_story_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Ploughshares to Swords",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35370,21 +35375,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126483,
+      "Progressed": 126497,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1352,
+      "Progressed": 1366,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-12T19:58:48.3219197+00:00",
-  "LastChanged_Achievements": "2023-12-13T00:08:47.0956704+00:00",
+  "LastChanged_Achievements": "2023-12-13T01:57:06.2686942+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-12T23:59:02.0246629+00:00",
-  "LastUpdate_Achievements": "2023-12-13T00:08:47.0958136+00:00"
+  "LastUpdate_Ratings": "2023-12-13T01:47:09.5049209+00:00",
+  "LastUpdate_Achievements": "2023-12-13T01:57:06.2688419+00:00"
 }

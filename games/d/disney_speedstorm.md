@@ -5,33 +5,33 @@ Rating: 4.39 (Ranked 757)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~40,263 |
-| IT MAKES BOOM! | 7.00% | ~23,487 |
-| EXTRA BOOST | 6.00% | ~20,131 |
-| PROTECTED | 4.00% | ~13,421 |
-| PRO | 4.00% | ~13,421 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,066 |
-| AGGRESSIVE RACER | 3.00% | ~10,066 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,710 |
-| A TIGER'S FEAR | 2.00% | ~6,710 |
-| TRAINING HARD | 1.00% | ~3,355 |
-| RELEASE THE KRAKEN | 1.00% | ~3,355 |
-| BE OUR GUEST | 1.00% | ~3,355 |
-| ACE SPEEDSTER | 1.00% | ~3,355 |
-| FRIENDLY | 1.00% | ~3,355 |
-| MASTER | 1.00% | ~3,355 |
-| LEGENDARY HERO | 1.00% | ~3,355 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,684 |
+| ROOKIE | 12.00% | ~40,272 |
+| IT MAKES BOOM! | 7.00% | ~23,492 |
+| EXTRA BOOST | 6.00% | ~20,136 |
+| PROTECTED | 4.00% | ~13,424 |
+| PRO | 4.00% | ~13,424 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~10,068 |
+| AGGRESSIVE RACER | 3.00% | ~10,068 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,712 |
+| A TIGER'S FEAR | 2.00% | ~6,712 |
+| TRAINING HARD | 1.00% | ~3,356 |
+| RELEASE THE KRAKEN | 1.00% | ~3,356 |
+| BE OUR GUEST | 1.00% | ~3,356 |
+| ACE SPEEDSTER | 1.00% | ~3,356 |
+| FRIENDLY | 1.00% | ~3,356 |
+| MASTER | 1.00% | ~3,356 |
+| LEGENDARY HERO | 1.00% | ~3,356 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,685 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,349 |
-| EXPERIENCED CREW | 0.60% | ~2,013 |
-| ACE DEFENDER | 0.60% | ~2,013 |
+| EXPERIENCED CREW | 0.60% | ~2,014 |
+| ACE DEFENDER | 0.60% | ~2,014 |
 | ACE BRAWLER | 0.50% | ~1,678 |
 | FRAMED! | 0.40% | ~1,342 |
 | ACE TRICKSTER | 0.40% | ~1,342 |
 | PERFECTLY POISED | 0.30% | ~1,007 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335,522 (Ranked 50)  
-Completed: 559 (0.17%) (Ranked 270)  
+Progressed: 335,597 (Ranked 50)  
+Completed: 560 (0.17%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,7 +263,7 @@ Completed: 559 (0.17%) (Ranked 270)
 | 2023-12-10 | 333,976 | 537 |
 | 2023-12-11 | 334,723 | 548 |
 | 2023-12-12 | 335,467 | 559 |
-| 2023-12-13 | 335,522 | 559 |
+| 2023-12-13 | 335,597 | 560 |
 ## Awards
 Max (Great for Beginners): 127  (Ranked 337)  
 Sum: 858 (Ranked 278)  

@@ -33,9 +33,9 @@ Rating: 4.65 (Ranked 318)
 | We Paid For The Rights To Put A Whole Movie In Here | 0.70% | ~173 |
 | Fall In Love With A Parasite | 0.50% | ~10 |
 | Sequel-Bait | 0.40% | ~99 |
+| Carried Stan's Load To Completion | 0.40% | ~99 |
 | A Starfish Is Born | 0.30% | ~74 |
 | Playing Favorites | 0.30% | ~74 |
-| Carried Stan's Load To Completion | 0.30% | ~74 |
 | Meet Frasier from Frasier | 0.30% | ~6 |
 | Epic Legendary Prize | 0.20% | ~49 |
 | Mods Please Ban | 0.20% | ~49 |

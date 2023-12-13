@@ -7459,10 +7459,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 12476,
       "NumberOfAwardsMax": 8108
+    },
+    {
+      "Time": "2023-12-13T01:46:02.7668782+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12482,
+      "NumberOfAwardsMax": 8108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12476,
+  "NumberOfAwards": 12482,
   "NumberOfAwardsMax": 8108,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7488,7 +7494,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 633
+      "Count": 639
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7521,9 +7527,9 @@
       "Count": 529
     }
   ],
-  "EOS_Progressed": 733881,
+  "EOS_Progressed": 733905,
   "EOS_Completed": 2480,
-  "EOS_NewPlayers": 3196,
+  "EOS_NewPlayers": 3191,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -34666,6 +34672,11 @@
       "Time": "2023-12-13T00:08:55.5073966+00:00",
       "NumProgressed": 733881,
       "NumCompleted": 2480
+    },
+    {
+      "Time": "2023-12-13T01:57:14.4945989+00:00",
+      "NumProgressed": 733905,
+      "NumCompleted": 2480
     }
   ],
   "TotalAchievements": 51,
@@ -34717,7 +34728,7 @@
       "Name": "LA Influential",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3669
+      "UsersEstimate": 3670
     },
     {
       "ID": "ach_blueprinted",
@@ -34837,7 +34848,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22016
+      "UsersEstimate": 22017
     },
     {
       "ID": "ach_impressive_aim",
@@ -34901,7 +34912,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3669
+      "UsersEstimate": 3670
     },
     {
       "ID": "ach_metropolitan",
@@ -35013,7 +35024,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22016
+      "UsersEstimate": 22017
     },
     {
       "ID": "ach_well_known_survivor",
@@ -35037,7 +35048,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "ach_dark_magic",
@@ -35084,22 +35095,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 733881,
+      "Progressed": 733905,
       "Completed": 2480
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 59423,
+      "Progressed": 59447,
       "Completed": 36655
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-12T18:57:47.2042488+00:00",
-  "LastChanged_Achievements": "2023-12-13T00:08:55.5073964+00:00",
+  "LastChanged": "2023-12-13T01:46:02.766878+00:00",
+  "LastChanged_Achievements": "2023-12-13T01:57:14.4945986+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:31.7932919+00:00",
-  "LastUpdate_Ratings": "2023-12-12T23:57:55.4195326+00:00",
-  "LastUpdate_Achievements": "2023-12-13T00:08:55.5075593+00:00"
+  "LastUpdate_Ratings": "2023-12-13T01:46:02.7668787+00:00",
+  "LastUpdate_Achievements": "2023-12-13T01:57:14.4947589+00:00"
 }

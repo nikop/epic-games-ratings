@@ -6,9 +6,9 @@
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 164,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -911,23 +911,29 @@
       "Rating": 4.53,
       "NumberOfAwards": 118,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2023-12-13T01:45:31.3846631+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 120,
+      "NumberOfAwardsMax": 120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 118,
-  "NumberOfAwardsMax": 118,
+  "NumberOfAwards": 120,
+  "NumberOfAwardsMax": 120,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 118
+      "Count": 120
     }
   ],
-  "EOS_Progressed": 11363,
+  "EOS_Progressed": 11364,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -14230,6 +14236,11 @@
       "Time": "2023-12-12T23:09:38.4483559+00:00",
       "NumProgressed": 11363,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-12-13T01:57:24.1305042+00:00",
+      "NumProgressed": 11364,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 34,
@@ -14345,7 +14356,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 4886
+      "UsersEstimate": 4887
     },
     {
       "ID": "ACH15",
@@ -14425,7 +14436,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "ACH25",
@@ -14433,7 +14444,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "ACH26",
@@ -14512,16 +14523,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11363,
+      "Progressed": 11364,
       "Completed": 67
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-12-12T00:00:01.4899045+00:00",
-  "LastChanged_Achievements": "2023-12-13T00:09:05.2124995+00:00",
+  "LastChanged": "2023-12-13T01:45:31.3846628+00:00",
+  "LastChanged_Achievements": "2023-12-13T01:57:24.1305041+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.0199326+00:00",
-  "LastUpdate_Ratings": "2023-12-12T23:57:22.2922696+00:00",
-  "LastUpdate_Achievements": "2023-12-13T00:09:05.212584+00:00"
+  "LastUpdate_Ratings": "2023-12-13T01:45:31.3846634+00:00",
+  "LastUpdate_Achievements": "2023-12-13T01:57:24.1305784+00:00"
 }

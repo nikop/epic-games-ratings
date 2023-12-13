@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 916,
+  "Ranking_Rating": 913,
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 172,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -547,13 +547,19 @@
       "Rating": 4.21,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-13T01:46:30.4576887+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8807,
+  "EOS_Progressed": 8808,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
@@ -11998,6 +12004,11 @@
       "Time": "2023-12-12T23:03:56.2811562+00:00",
       "NumProgressed": 8807,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-13T01:51:48.0437785+00:00",
+      "NumProgressed": 8808,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -12009,7 +12020,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7310
+      "UsersEstimate": 7311
     },
     {
       "ID": "ACH02",
@@ -12017,7 +12028,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2994
+      "UsersEstimate": 2995
     },
     {
       "ID": "ACH03",
@@ -12049,7 +12060,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "ACH07",
@@ -12153,7 +12164,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ACH20",
@@ -12240,16 +12251,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8807,
+      "Progressed": 8808,
       "Completed": 60
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "LastChanged": "2023-12-10T01:54:01.6184366+00:00",
-  "LastChanged_Achievements": "2023-12-13T00:03:29.5775791+00:00",
+  "LastChanged": "2023-12-13T01:46:30.4576886+00:00",
+  "LastChanged_Achievements": "2023-12-13T01:51:48.0437783+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:03.1675394+00:00",
-  "LastUpdate_Ratings": "2023-12-12T23:58:21.3807673+00:00",
-  "LastUpdate_Achievements": "2023-12-13T00:03:29.5776488+00:00"
+  "LastUpdate_Ratings": "2023-12-13T01:46:30.457689+00:00",
+  "LastUpdate_Achievements": "2023-12-13T01:51:48.0438509+00:00"
 }

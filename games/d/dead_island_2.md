@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~22,016 |
-| Welcome To Hell-A | 3.00% | ~22,016 |
+| Hotel California | 3.00% | ~22,017 |
+| Welcome To Hell-A | 3.00% | ~22,017 |
 | Whatever It Takes | 3.00% | ~1,783 |
 | Pork Chopped | 3.00% | ~1,783 |
 | Dr. Reed, I Presume? | 2.00% | ~14,678 |
@@ -25,7 +25,7 @@ Rating: 4.54 (Ranked 534)
 | Stacking the Deck | 2.00% | ~14,678 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,678 |
 | This is My Weapon | 2.00% | ~14,678 |
-| One of Us | 2.00% | ~1,188 |
+| One of Us | 2.00% | ~1,189 |
 | Making Your Mark | 1.00% | ~7,339 |
 | Perks of the Job | 1.00% | ~7,339 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,339 |
@@ -46,8 +46,8 @@ Rating: 4.54 (Ranked 534)
 | Make it So | 0.60% | ~4,403 |
 | On Safari | 0.60% | ~4,403 |
 | Variety is the Spice of Death | 0.60% | ~4,403 |
-| LA Influential | 0.50% | ~3,669 |
-| Gore Horse | 0.50% | ~3,669 |
+| LA Influential | 0.50% | ~3,670 |
+| Gore Horse | 0.50% | ~3,670 |
 | Sole Survivor | 0.40% | ~2,936 |
 | Sharpest Tool in the Box | 0.40% | ~2,936 |
 | Top That, Tisha! | 0.40% | ~238 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 534)
 | Bucket List | 0.10% | ~734 |
 | Wilhelm | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,881 (Ranked 21)  
+Progressed: 733,905 (Ranked 21)  
 Completed: 2,480 (0.34%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,15 +294,15 @@ Completed: 2,480 (0.34%) (Ranked 235)
 | 2023-12-10 | 733,123 | 2,475 |
 | 2023-12-11 | 733,504 | 2,477 |
 | 2023-12-12 | 733,868 | 2,480 |
-| 2023-12-13 | 733,881 | 2,480 |
+| 2023-12-13 | 733,905 | 2,480 |
 ## Awards
 Max (Great Boss Battles): 8,108  (Ranked 49)  
-Sum: 12,476 (Ranked 81)  
+Sum: 12,482 (Ranked 81)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 8,108 |
-| This game is Great for Beginners | 633 |
+| This game is Great for Beginners | 639 |
 | This game has Diverse Characters | 596 |
 | This game has Quickly Understood Controls | 573 |
 | This game is Relaxing | 539 |
@@ -549,3 +549,4 @@ Diff (max vs sum): -32
 | 2023-12-10 | 4.54 | 8,071 | 12,407 |
 | 2023-12-11 | 4.54 | 8,094 | 12,447 |
 | 2023-12-12 | 4.54 | 8,108 | 12,476 |
+| 2023-12-13 | 4.54 | 8,108 | 12,482 |

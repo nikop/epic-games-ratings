@@ -1,22 +1,22 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.08 (Ranked 983)  
+Rating: 4.08 (Ranked 984)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~543,251 |
-| Every story has a beginning | 36.00% | ~247,558 |
-| The first of many | 31.00% | ~213,175 |
-| Positive word of mouth | 18.00% | ~123,779 |
-| Lawn in the U.S.A. | 15.00% | ~103,149 |
-| Blade Runner | 9.00% | ~61,889 |
-| Credible | 7.00% | ~48,136 |
+| The dream begins | 79.00% | ~543,259 |
+| Every story has a beginning | 36.00% | ~247,561 |
+| The first of many | 31.00% | ~213,178 |
+| Positive word of mouth | 18.00% | ~123,781 |
+| Lawn in the U.S.A. | 15.00% | ~103,150 |
+| Blade Runner | 9.00% | ~61,890 |
+| Credible | 7.00% | ~48,137 |
 | Teamwork makes the dream work | 6.00% | ~41,260 |
-| Where there's muck there's brass | 4.00% | ~27,506 |
-| Bigger and better | 4.00% | ~27,506 |
-| Aggressive expansion | 4.00% | ~27,506 |
+| Where there's muck there's brass | 4.00% | ~27,507 |
+| Bigger and better | 4.00% | ~27,507 |
+| Aggressive expansion | 4.00% | ~27,507 |
 | Size isn't everything | 3.00% | ~20,630 |
 | Close shave | 3.00% | ~20,630 |
 | Established | 3.00% | ~20,630 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~688 |
 | Mo mowers, mo problems | 0.10% | ~688 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687,660 (Ranked 26)  
+Progressed: 687,670 (Ranked 26)  
 Completed: 19 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 19 (0.00%) (Ranked 372)
 | 2023-12-10 | 687,270 | 19 |
 | 2023-12-11 | 687,470 | 19 |
 | 2023-12-12 | 687,654 | 19 |
-| 2023-12-13 | 687,660 | 19 |
+| 2023-12-13 | 687,670 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 303)  
 Sum: 990 (Ranked 265)  

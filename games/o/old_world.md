@@ -133,12 +133,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 1.00% | ~157 |
 | Ambition Victory | 1.00% | ~157 |
 | Noble Difficulty | 0.90% | ~142 |
+| Cao'an | 0.90% | ~142 |
 | Adur Burzen-Mihr | 0.90% | ~142 |
 | All Nations | 0.90% | ~142 |
 | Poetic Leader | 0.90% | ~142 |
 | Ishtar Gate in Babylon | 0.80% | ~126 |
 | Peacemaker | 0.80% | ~126 |
-| Cao'an | 0.80% | ~126 |
 | Learn to Play 5 | 0.80% | ~126 |
 | Cataphract Archer | 0.80% | ~126 |
 | Deposed Tribe | 0.80% | ~126 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,742 (Ranked 153)  
+Progressed: 15,743 (Ranked 153)  
 Completed: 5 (0.03%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,6 +586,7 @@ Completed: 5 (0.03%) (Ranked 334)
 | 2023-12-10 | 15,719 | 5 |
 | 2023-12-11 | 15,723 | 5 |
 | 2023-12-12 | 15,742 | 5 |
+| 2023-12-13 | 15,743 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 277)  
 Sum: 1,900 (Ranked 220)  

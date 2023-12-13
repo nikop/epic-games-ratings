@@ -1,15 +1,15 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,017)  
+Rating: 3.99 (Ranked 1,018)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,590 |
-| Basic in Bulk | 7.00% | ~10,141 |
-| Tinkle of Coins | 7.00% | ~10,141 |
-| Titan's First Steps | 7.00% | ~10,141 |
+| Sponsored by Argon | 8.00% | ~11,591 |
+| Basic in Bulk | 7.00% | ~10,142 |
+| Tinkle of Coins | 7.00% | ~10,142 |
+| Titan's First Steps | 7.00% | ~10,142 |
 | Disintermediation | 5.00% | ~7,244 |
 | It's Free Real Estate | 5.00% | ~7,244 |
 | Capitalism Ho! | 5.00% | ~7,244 |
@@ -29,54 +29,54 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 3.00% | ~4,346 |
 | Through Repetition, Perfection | 3.00% | ~4,346 |
 | Did we pack lunch? | 3.00% | ~4,346 |
-| On the Path to Greatness | 2.00% | ~2,897 |
-| A Notch Above the Rest | 2.00% | ~2,897 |
-| Cream of the Crop | 2.00% | ~2,897 |
-| Ascended | 2.00% | ~2,897 |
-| Above the Norm | 2.00% | ~2,897 |
-| Tax not Included | 2.00% | ~2,897 |
-| The King's Caprice | 2.00% | ~2,897 |
-| Research & Development | 2.00% | ~2,897 |
-| Vanity, Verily | 2.00% | ~2,897 |
-| Big Game Hunting | 2.00% | ~2,897 |
-| Fated Encounters | 2.00% | ~2,897 |
-| For the Hoard! | 2.00% | ~2,897 |
-| Blank Page Syndrome | 2.00% | ~2,897 |
-| Scrapbooker | 2.00% | ~2,897 |
-| Locally Sourced | 2.00% | ~2,897 |
-| Flying off the Shelves | 2.00% | ~2,897 |
-| This Power Level...! | 2.00% | ~2,897 |
-| Omae wa Mou Shindeiru | 2.00% | ~2,897 |
-| Hidden Potential | 2.00% | ~2,897 |
-| Power of Love | 2.00% | ~2,897 |
-| Supercharged | 2.00% | ~2,897 |
-| Expansion in Session | 2.00% | ~2,897 |
-| Ritualist | 2.00% | ~2,897 |
-| Efficient Floor Space | 2.00% | ~2,897 |
-| Cranked up to 11 | 2.00% | ~2,897 |
-| By Your Powers Combined... | 2.00% | ~2,897 |
-| Flawless Fusion | 2.00% | ~2,897 |
-| Trash to Treasure | 2.00% | ~2,897 |
-| Gem Expert | 2.00% | ~2,897 |
-| Royal Ransom | 2.00% | ~2,897 |
-| Mammonite | 2.00% | ~2,897 |
-| Wealth Beyond Measure | 2.00% | ~2,897 |
-| Helping Hand | 2.00% | ~2,897 |
-| Fat Cat Tag Team | 2.00% | ~2,897 |
-| Accomplished Merchant | 2.00% | ~2,897 |
-| Master Merchant | 2.00% | ~2,897 |
-| Laden with Loot | 2.00% | ~2,897 |
-| Natural 20 | 2.00% | ~2,897 |
-| Seasoned Journeyman | 2.00% | ~2,897 |
-| Attrition Mission | 2.00% | ~2,897 |
-| Glittering Collection | 2.00% | ~2,897 |
-| Black Friday Special | 2.00% | ~2,897 |
-| Master Recycler | 2.00% | ~2,897 |
-| Magical Harmony | 2.00% | ~2,897 |
-| Special Ingredient | 2.00% | ~2,897 |
-| Exotic Commodities | 2.00% | ~2,897 |
-| Arcane Industries | 2.00% | ~2,897 |
-| Complete Monopoly | 2.00% | ~2,897 |
+| On the Path to Greatness | 2.00% | ~2,898 |
+| A Notch Above the Rest | 2.00% | ~2,898 |
+| Cream of the Crop | 2.00% | ~2,898 |
+| Ascended | 2.00% | ~2,898 |
+| Above the Norm | 2.00% | ~2,898 |
+| Tax not Included | 2.00% | ~2,898 |
+| The King's Caprice | 2.00% | ~2,898 |
+| Research & Development | 2.00% | ~2,898 |
+| Vanity, Verily | 2.00% | ~2,898 |
+| Big Game Hunting | 2.00% | ~2,898 |
+| Fated Encounters | 2.00% | ~2,898 |
+| For the Hoard! | 2.00% | ~2,898 |
+| Blank Page Syndrome | 2.00% | ~2,898 |
+| Scrapbooker | 2.00% | ~2,898 |
+| Locally Sourced | 2.00% | ~2,898 |
+| Flying off the Shelves | 2.00% | ~2,898 |
+| This Power Level...! | 2.00% | ~2,898 |
+| Omae wa Mou Shindeiru | 2.00% | ~2,898 |
+| Hidden Potential | 2.00% | ~2,898 |
+| Power of Love | 2.00% | ~2,898 |
+| Supercharged | 2.00% | ~2,898 |
+| Expansion in Session | 2.00% | ~2,898 |
+| Ritualist | 2.00% | ~2,898 |
+| Efficient Floor Space | 2.00% | ~2,898 |
+| Cranked up to 11 | 2.00% | ~2,898 |
+| By Your Powers Combined... | 2.00% | ~2,898 |
+| Flawless Fusion | 2.00% | ~2,898 |
+| Trash to Treasure | 2.00% | ~2,898 |
+| Gem Expert | 2.00% | ~2,898 |
+| Royal Ransom | 2.00% | ~2,898 |
+| Mammonite | 2.00% | ~2,898 |
+| Wealth Beyond Measure | 2.00% | ~2,898 |
+| Helping Hand | 2.00% | ~2,898 |
+| Fat Cat Tag Team | 2.00% | ~2,898 |
+| Accomplished Merchant | 2.00% | ~2,898 |
+| Master Merchant | 2.00% | ~2,898 |
+| Laden with Loot | 2.00% | ~2,898 |
+| Natural 20 | 2.00% | ~2,898 |
+| Seasoned Journeyman | 2.00% | ~2,898 |
+| Attrition Mission | 2.00% | ~2,898 |
+| Glittering Collection | 2.00% | ~2,898 |
+| Black Friday Special | 2.00% | ~2,898 |
+| Master Recycler | 2.00% | ~2,898 |
+| Magical Harmony | 2.00% | ~2,898 |
+| Special Ingredient | 2.00% | ~2,898 |
+| Exotic Commodities | 2.00% | ~2,898 |
+| Arcane Industries | 2.00% | ~2,898 |
+| Complete Monopoly | 2.00% | ~2,898 |
 | Top of the World | 1.00% | ~1,449 |
 | Proud Paladin | 1.00% | ~1,449 |
 | Constellated | 1.00% | ~1,449 |
@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~724 |
 | Unleashed Potential | 0.50% | ~724 |
 | JACKPOT!!! | 0.50% | ~724 |
-| Oligarch Monarch | 0.40% | ~579 |
-| Merchant Extraordinaire | 0.40% | ~579 |
+| Oligarch Monarch | 0.40% | ~580 |
+| Merchant Extraordinaire | 0.40% | ~580 |
 | To Hell and Back | 0.30% | ~435 |
 | Cash Only Please | 0.30% | ~435 |
 | Capitalist Camaraderie | 0.20% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,874 (Ranked 80)  
+Progressed: 144,883 (Ranked 80)  
 Completed: 294 (0.20%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,16 +356,16 @@ Completed: 294 (0.20%) (Ranked 260)
 | 2023-12-10 | 144,657 | 293 |
 | 2023-12-11 | 144,756 | 293 |
 | 2023-12-12 | 144,871 | 294 |
-| 2023-12-13 | 144,874 | 294 |
+| 2023-12-13 | 144,883 | 294 |
 ## Awards
 Max (Great for Beginners): 4,878  (Ranked 75)  
-Sum: 27,700 (Ranked 51)  
+Sum: 27,701 (Ranked 51)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,878 |
 | This game is Relaxing | 4,059 |
-| This game has Quickly Understood Controls | 4,041 |
+| This game has Quickly Understood Controls | 4,042 |
 | This game has Diverse Characters | 3,970 |
 | This game is Highly Recommended | 3,792 |
 | This game has Easy Combat | 3,742 |
@@ -690,3 +690,4 @@ Diff (max vs sum): 24
 | 2023-12-10 | 3.99 | - | 4,871 | 27,683 |
 | 2023-12-11 | 3.99 | - | 4,875 | 27,691 |
 | 2023-12-12 | 3.99 | - | 4,878 | 27,700 |
+| 2023-12-13 | 3.99 | - | 4,878 | 27,701 |

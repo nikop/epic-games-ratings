@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1685,
+  "EOS_Progressed": 1686,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -5069,6 +5069,11 @@
       "Time": "2023-12-13T00:09:46.1701489+00:00",
       "NumProgressed": 1685,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-13T01:58:03.6946645+00:00",
+      "NumProgressed": 1686,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5185,7 +5190,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_22",
@@ -5281,7 +5286,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_33",
@@ -5305,7 +5310,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "achievement_36",
@@ -5321,7 +5326,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "achievement_38",
@@ -5353,7 +5358,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "achievement_41",
@@ -5521,7 +5526,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_60",
@@ -5584,13 +5589,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1685,
+      "Progressed": 1686,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1685,
+      "Progressed": 1686,
       "Completed": 1
     }
   ],
@@ -5598,8 +5603,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-13T00:09:46.1701485+00:00",
+  "LastChanged_Achievements": "2023-12-13T01:58:03.6946642+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-12T23:57:29.2438419+00:00",
-  "LastUpdate_Achievements": "2023-12-13T00:09:46.1702073+00:00"
+  "LastUpdate_Ratings": "2023-12-13T01:45:38.2240774+00:00",
+  "LastUpdate_Achievements": "2023-12-13T01:58:03.6947313+00:00"
 }

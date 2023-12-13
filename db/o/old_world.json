@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2148,7 +2148,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15742,
+  "EOS_Progressed": 15743,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -17573,6 +17573,11 @@
       "Time": "2023-12-12T21:08:45.7105764+00:00",
       "NumProgressed": 15742,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-13T01:57:04.2443649+00:00",
+      "NumProgressed": 15743,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18974,9 +18979,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
       "SetID": "9201eeb",
       "Name": "Cao\u0027an",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
@@ -20319,21 +20324,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15742,
+      "Progressed": 15743,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15742,
+      "Progressed": 15743,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-11T20:02:33.8046701+00:00",
-  "LastChanged_Achievements": "2023-12-13T00:08:44.5115535+00:00",
+  "LastChanged_Achievements": "2023-12-13T01:57:04.2443645+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:32.9927843+00:00",
-  "LastUpdate_Ratings": "2023-12-13T00:02:44.4335611+00:00",
-  "LastUpdate_Achievements": "2023-12-13T00:08:44.512439+00:00"
+  "LastUpdate_Ratings": "2023-12-13T01:51:02.3253606+00:00",
+  "LastUpdate_Achievements": "2023-12-13T01:57:04.2452619+00:00"
 }

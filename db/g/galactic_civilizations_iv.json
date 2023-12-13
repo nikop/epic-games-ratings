@@ -2,12 +2,12 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 951,
+  "Ranking_Rating": 952,
   "Ranking_Popularity": 372,
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -945,9 +945,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 7415,
+  "EOS_Progressed": 7416,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9115,6 +9115,11 @@
       "Time": "2023-12-12T16:10:07.9217452+00:00",
       "NumProgressed": 7415,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T01:57:38.7092882+00:00",
+      "NumProgressed": 7416,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9158,7 +9163,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2151
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -9166,7 +9171,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "Control_All_Relics",
@@ -9238,7 +9243,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5339
+      "UsersEstimate": 5340
     },
     {
       "ID": "First_Ship_Designed",
@@ -9262,7 +9267,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5635
+      "UsersEstimate": 5636
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9446,7 +9451,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4449
+      "UsersEstimate": 4450
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9701,15 +9706,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7415,
+      "Progressed": 7416,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-05T01:55:09.6981089+00:00",
-  "LastChanged_Achievements": "2023-12-13T00:09:20.3261761+00:00",
+  "LastChanged_Achievements": "2023-12-13T01:57:38.709288+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:03.4642275+00:00",
-  "LastUpdate_Ratings": "2023-12-12T23:57:37.639994+00:00",
-  "LastUpdate_Achievements": "2023-12-13T00:09:20.3262767+00:00"
+  "LastUpdate_Ratings": "2023-12-13T01:45:46.1114855+00:00",
+  "LastUpdate_Achievements": "2023-12-13T01:57:38.7093876+00:00"
 }

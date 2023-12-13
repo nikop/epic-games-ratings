@@ -9616,10 +9616,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15755,
       "NumberOfAwardsMax": 7553
+    },
+    {
+      "Time": "2023-12-13T01:47:54.4328516+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15757,
+      "NumberOfAwardsMax": 7553
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15755,
+  "NumberOfAwards": 15757,
   "NumberOfAwardsMax": 7553,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9663,7 +9669,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 889
+      "Count": 891
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9696,7 +9702,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67719,
+  "EOS_Progressed": 67722,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 0,
@@ -34671,6 +34677,11 @@
       "Time": "2023-12-13T00:09:44.3641512+00:00",
       "NumProgressed": 67719,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-13T01:58:01.8562169+00:00",
+      "NumProgressed": 67722,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -34682,7 +34693,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8803
+      "UsersEstimate": 8804
     },
     {
       "ID": "Apple of my eye",
@@ -34690,7 +34701,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10835
+      "UsersEstimate": 10836
     },
     {
       "ID": "Bannerlord",
@@ -34810,7 +34821,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8803
+      "UsersEstimate": 8804
     },
     {
       "ID": "Great Granny",
@@ -34850,7 +34861,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10835
+      "UsersEstimate": 10836
     },
     {
       "ID": "I spit on your grave",
@@ -34874,7 +34885,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12189
+      "UsersEstimate": 12190
     },
     {
       "ID": "Kingslayer",
@@ -34890,7 +34901,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4740
+      "UsersEstimate": 4741
     },
     {
       "ID": "Lance-a-lot",
@@ -34906,7 +34917,7 @@
       "Name": "Landlord",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 23024
+      "UsersEstimate": 23025
     },
     {
       "ID": "Lawbringer",
@@ -34914,7 +34925,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 27088
+      "UsersEstimate": 27089
     },
     {
       "ID": "Lawmaker",
@@ -35089,15 +35100,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67719,
+      "Progressed": 67722,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-12-12T23:00:42.3762935+00:00",
-  "LastChanged_Achievements": "2023-12-13T00:09:44.364151+00:00",
+  "LastChanged": "2023-12-13T01:47:54.4328515+00:00",
+  "LastChanged_Achievements": "2023-12-13T01:58:01.8562167+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.7190339+00:00",
-  "LastUpdate_Ratings": "2023-12-12T23:59:51.9308904+00:00",
-  "LastUpdate_Achievements": "2023-12-13T00:09:44.3642719+00:00"
+  "LastUpdate_Ratings": "2023-12-13T01:47:54.432852+00:00",
+  "LastUpdate_Achievements": "2023-12-13T01:58:01.8563667+00:00"
 }

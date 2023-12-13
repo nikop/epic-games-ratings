@@ -13,6 +13,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 3.00% | ~540 |
 | Ominous Presence | 3.00% | ~540 |
 | Gathering Storm | 3.00% | ~540 |
+| The Marshlands | 2.00% | ~360 |
 | Taking Action | 2.00% | ~360 |
 | No Deaths | 2.00% | ~360 |
 | Untamed Wilds | 2.00% | ~360 |
@@ -22,24 +23,23 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 1.00% | ~180 |
 | Watchtower | 1.00% | ~180 |
 | Coral Forest | 1.00% | ~180 |
-| The Marshlands | 1.00% | ~180 |
 | The Scarlet Orchard | 1.00% | ~180 |
 | Homesick | 0.80% | ~144 |
 | Lost Colonies | 0.80% | ~144 |
 | Bandit Camp | 0.70% | ~126 |
+| Levitating Monument | 0.70% | ~126 |
 | Monastery of the Holy Flame | 0.70% | ~126 |
 | A Real Challenge | 0.70% | ~126 |
 | Ruined Armory | 0.60% | ~108 |
 | Barren Lands | 0.60% | ~108 |
-| Levitating Monument | 0.60% | ~108 |
 | Corrosive Torrent | 0.60% | ~108 |
 | Cursed Lands | 0.60% | ~108 |
 | Trade Baron | 0.60% | ~108 |
 | Ancient Battleground | 0.50% | ~90 |
+| Sparkdew Crystals | 0.50% | ~90 |
 | Flooded Mines | 0.50% | ~90 |
 | Statue of the Forefathers | 0.50% | ~90 |
 | Against All Odds | 0.40% | ~72 |
-| Sparkdew Crystals | 0.40% | ~72 |
 | Haunted Forest | 0.40% | ~72 |
 | Defying the Crown | 0.40% | ~72 |
 | Fox Utopia | 0.40% | ~72 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,994 (Ranked 147)  
+Progressed: 17,997 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,6 +303,7 @@ Completed: 40 (0.22%) (Ranked 255)
 | 2023-12-10 | 17,908 | 43 |
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
+| 2023-12-13 | 17,997 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 225)  
 Sum: 3,255 (Ranked 175)  

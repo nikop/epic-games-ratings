@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,299 |
+| Sowwy! | 36.00% | ~87,300 |
 | Alt+F4 | 9.00% | ~21,825 |
 | Where's that freaking Dwarf? | 8.00% | ~19,400 |
 | Déjà vu | 7.00% | ~16,975 |
@@ -45,7 +45,7 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 1.00% | ~2,425 |
 | Lust and Debauchery | 1.00% | ~2,425 |
 | Material Girl | 1.00% | ~2,425 |
-| Lëgal Legend | 0.90% | ~2,182 |
+| Lëgal Legend | 0.90% | ~2,183 |
 | We come in peace | 0.80% | ~1,940 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,697 |
 | Holistic Adventuring Party | 0.60% | ~1,455 |
@@ -54,8 +54,8 @@ Number of Ratings: 118  (23.09.2022)
 | It's been a hard day's night | 0.50% | ~1,212 |
 | Friendly fire | 0.40% | ~970 |
 | I'd rather... Just... Sing! | 0.40% | ~970 |
-| The number of the counting shalt be 7 | 0.30% | ~727 |
-| Inception | 0.30% | ~727 |
+| The number of the counting shalt be 7 | 0.30% | ~728 |
+| Inception | 0.30% | ~728 |
 | Cursed die | 0.20% | ~485 |
 | The Blood Countess | 0.20% | ~485 |
 | Free customer service | 0.20% | ~485 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~242 |
 | Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,498 (Ranked 63)  
+Progressed: 242,500 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 7 (0.00%) (Ranked 372)
 | 2023-12-10 | 242,215 | 7 |
 | 2023-12-11 | 242,333 | 7 |
 | 2023-12-12 | 242,492 | 7 |
-| 2023-12-13 | 242,498 | 7 |
+| 2023-12-13 | 242,500 | 7 |
 ## Awards
 Max (Character Customization): 246  (Ranked 272)  
 Sum: 518 (Ranked 325)  
